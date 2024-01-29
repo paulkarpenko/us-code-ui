@@ -7,7 +7,25 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
 <a id="section-55301"></a>
-## § 55301. Renumbered § 55123]
+## § 55301. Report on administration of programs by other Federal departments and agencies
+**(a) In General.—** The Administrator of the Maritime Administration shall annually submit to Congress a report on the administration by—
+
+(1) the Department of Defense of [section 2631 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2631&num=0&edition=prelim); and
+
+(2) other Federal departments and agencies of programs the Administrator determines are subject to [section 55305 of this title](./chapter-553-passenger-and-cargo-preferences.md#section-55305).
+
+**(b) Contents.—** Each annual report required under subsection (a) shall include, for each Federal department or agency that administers a program covered by the report—
+
+(1) the gross tonnage of cargo (equipment, materials, or agricultural products), expressed by type of cargo, transported on United States flag vessels as compared to on foreign vessels; and
+
+(2) the total number of United States flag vessels and total number of foreign vessels contracted by each department or agency.
+
+**(c) Agency Reporting Requirements.—** Not later than January 31 of each year, the head of each Federal department or agency that administers a program covered by a report required under subsection (a) shall submit to the Administrator of the Maritime Administration the information described in subsection (b) for that department or agency.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 55301 was renumbered [section 55123 of this title](./chapter-551-coastwise-trade.md#section-55123).
 
 
 <a id="section-55302"></a>
@@ -59,31 +77,77 @@ This section codifies the Joint Resolution of March 26, 1934 (ch. 90, 48 Stat. 5
 
 <a id="section-55305"></a>
 ## § 55305. Cargoes procured, furnished, or financed by the United States Government
-**(a) Definition.—** In this section, the term “privately-owned commercial vessel of the United States” does not include a vessel that, after September 21, 1961, was built or rebuilt outside the United States or documented under the laws of a foreign country, until the vessel has been documented under the laws of the United States for at least 3 years.
+**(a) Minimum Tonnage.—** When the United States Government procures, contracts for, or otherwise obtains for its own account, or furnishes to or for the account of a foreign country, organization, or persons without provision for reimbursement, any equipment, materials, or commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within or without the United States, or advances funds or credits, or guarantees the convertibility of foreign currencies in connection with the furnishing or obtaining of the equipment, materials, or commodities, the appropriate agencies shall take steps necessary and practicable to ensure that at least 50 percent of the gross tonnage of the equipment, materials, or commodities (computed separately for dry bulk carriers, dry cargo liners, and tankers) which may be transported on ocean vessels is transported on privately-owned commercial vessels of the United States, as provided under subsection (b), to the extent those vessels are available at fair and reasonable rates for commercial vessels of the United States, in a manner that will ensure a fair and reasonable participation of commercial vessels of the United States in those cargoes by geographic areas.
 
-**(b) Minimum Tonnage.—** When the United States Government procures, contracts for, or otherwise obtains for its own account, or furnishes to or for the account of a foreign country, organization, or persons without provision for reimbursement, any equipment, materials, or commodities, or provides financing in any way with Federal funds for the account of any persons unless otherwise exempted, within or without the United States, or advances funds or credits, or guarantees the convertibility of foreign currencies in connection with the furnishing or obtaining of the equipment, materials, or commodities, the appropriate agencies shall take steps necessary and practicable to ensure that at least 50 percent of the gross tonnage of the equipment, materials, or commodities (computed separately for dry bulk carriers, dry cargo liners, and tankers) which may be transported on ocean vessels is transported on privately-owned commercial vessels of the United States, to the extent those vessels are available at fair and reasonable rates for commercial vessels of the United States, in a manner that will ensure a fair and reasonable participation of commercial vessels of the United States in those cargoes by geographic areas.
+**(b) Eligible Vessels.—** To be eligible to carry cargo as provided under subsection (a), a privately-owned commercial vessel shall be documented under the laws of the United States—
 
-**(c) Waivers.—** The President, the Secretary of Defense, or Congress (by concurrent resolution or otherwise) may waive this section temporarily by—
+(1) for not less than three years; or
 
-(1) declaring the existence of an emergency justifying a waiver; and
+(2) after January 1, 2030, for less than three years, if the vessel owner signs an agreement with the Secretary providing that—
 
-(2) notifying the appropriate agencies of the waiver.
+  (A) the vessel shall remain documented under the laws of the United States for not less than three years; and
 
-**(d) Programs of Other Agencies.—**
+  (B) the vessel owner shall, upon request of the Secretary, agree to enroll the vessel in an emergency preparedness agreement or voluntary agreement authorized under section 708 of the Defense Production Act of 1950 ([50 U.S.C. 4558](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4558&num=0&edition=prelim)) and shall ensure the vessel remains so enrolled until the vessel ceases to be documented under the laws of the United States.
+
+**(c) Violation of Agreement.—** A vessel under an agreement executed pursuant to subsection (b)(2) may be seized by, and forfeited to, the United States if, in violation of that agreement—
+
+(1) the vessel owner places the vessel under foreign registry; or
+
+(2) a person operates the vessel under the authority of a foreign country.
+
+**(d) Waivers.—**
+
+(1) Notwithstanding any other provision of law, when the President, the Secretary of Defense, or the Secretary of Transportation declares the existence of an emergency justifying a temporary waiver of this section or [section 55314 of this title](./chapter-553-passenger-and-cargo-preferences.md#section-55314), the President, the Secretary of Defense, or the Secretary of Transportation, following a determination by the Maritime Administrator, acting in the Administrator’s capacity as Director, National Shipping Authority, of the non-availability of qualified United States flag capacity at fair and reasonable rates for commercial vessels of the United States to meet the requirements of this section or [section 55314 of this title](./chapter-553-passenger-and-cargo-preferences.md#section-55314), may waive compliance with such section to the extent, in the manner, and on the terms the Maritime Administrator, acting in such capacity, prescribes, and no other waivers of the requirements of this section or [section 55314 of this title](./chapter-553-passenger-and-cargo-preferences.md#section-55314) shall be authorized.
+
+(2)
+
+  (A) Subject to subparagraphs (B) and (C), a waiver issued under this subsection shall be for a period of not more than 60 days.
+
+  (B) Upon termination of the period of a waiver issued under this subsection, the Maritime Administrator may extend the waiver for an additional period of not more than 30 days, if the Maritime Administrator makes the determinations described in paragraph (1).
+
+  (C) The aggregate duration of the period of all waivers and extensions of waivers under this subsection with respect to any one set of events shall not exceed three months in a fiscal year.
+
+(3) The Maritime Administrator shall—
+
+  (A) for each determination referred to in paragraph (1), identify any actions that could be taken to enable qualified United States flag capacity to meet the requirements of this section or section 55314 at fair and reasonable rates for commercial vessels of the United States;
+
+  (B) provide notice of each determination referred to in paragraph (1) to the Secretary of Transportation and, as applicable, the President or the Secretary of Defense; and
+
+  (C) publish each determination referred to in paragraph (1)—
+
+    (i) on the website of the Maritime Administration not later than 24 hours after notice of the determination is provided to the Secretary of Transportation; and
+
+    (ii) in the Federal Register.
+
+(4) The Maritime Administrator shall notify—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of—
+
+    (i) any request for a waiver (or an extension thereof) made by the Secretary of Transportation of this section or section 55314(a) 11 See References in Text note below. of this title by not later than 72 hours after receiving such a request; and
+
+    (ii) the issuance of any such waiver (or an extension thereof), and why such waiver or extension was necessary, by not later than 72 hours after such issuance; and
+
+  (B) the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate and the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives of—
+
+    (i) any request for a waiver (or an extension thereof) made by the Secretary of Defense of this section or section 55314(a) 1 of this title by not later than 72 hours after receiving such a request; and
+
+    (ii) the issuance of any such waiver (or an extension thereof), and why such waiver or extension was necessary, by not later than 72 hours after such issuance.
+
+**(e) Programs of Other Agencies.—**
 
 (1) Each department or agency that has responsibility for a program under this section shall administer that program with respect to this section under regulations and guidance issued by the Secretary of Transportation. The Secretary, after consulting with the department or agency or organization or person involved, shall have the sole responsibility for determining if a program is subject to the requirements of this section.
 
 (2) The Secretary—
 
-  (A) shall conduct an annual review of the administration of programs determined pursuant to paragraph (1) as subject to the requirements of this section;
+  (A) shall conduct an annual review of the administration of programs determined pursuant to paragraph (1) as subject to the requirements of this section and annually submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the administration of such programs;
 
   (B) may direct agencies to require the transportation on United States-flagged vessels of cargo shipments not otherwise subject to this section in equivalent amounts to cargo determined to have been shipped on foreign carriers in violation of this section;
 
   (C) may impose on any person that violates this section, or a regulation prescribed under this section, a civil penalty of not more than $25,000 for each violation willfully and knowingly committed, with each day of a continuing violation following the date of shipment to be a separate violation; and
 
-  (D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) 11 See References in Text note below. of the Office of Federal Procurement Policy Act ([41 U.S.C. 1303(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)) or contract with respect to each violation.
+  (D) may take other measures as appropriate under the Federal Acquisition Regulations issued pursuant to section 25(c)(1) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 1303(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim)) or contract with respect to each violation.
 
-**(e) Security of Government-Impelled Cargo.—**
+**(f) Security of Government-Impelled Cargo.—**
 
 (1) In order to ensure the safety of vessels and crewmembers transporting equipment, materials, or commodities under this section, the Secretary of Transportation shall direct each department or agency (except the Department of Defense), when responsible for the carriage of such equipment, materials, or commodities, to reimburse, subject to the availability of appropriations, the owners or operators of vessels of the United States carrying such equipment, materials, or commodities for the cost of providing armed personnel aboard such vessels if the vessels are transiting high-risk waters.
 
@@ -108,9 +172,27 @@ In this section, the words “commercial vessels of the United States” are sub
 In subsection (a), the words “the provisions of this subsection shall not apply to cargoes carried in the vessels of the Panama Canal Company” are omitted as obsolete. The words “Nothing herein shall repeal or otherwise modify the provisions of section 1241–1 of this Appendix” are omitted as unnecessary. The last proviso in 46 App. U.S.C. 1241(b)(1) is omitted as obsolete.
 
 #### References in Text
-Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as [section 1303(a)(1) of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
+Section 55314(a), referred to in subsec. (d)(4)(A)(i), (B)(i), was repealed by Pub. L. 112–141, div. F, title I, § 100124(a)(1), July 6, 2012, 126 Stat. 915.
+
+Section 25(c)(1) of the Office of Federal Procurement Policy Act, referred to in subsec. (e)(2)(D), was classified to section 421(c)(1) of former Title 41, Public Contracts, and was repealed and restated as [section 1303(a)(1) of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a/1&num=0&edition=prelim), Public Contracts, by Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 3531(a)(1), (2)(A), (3), redesignated subsec. (b) as (a), substituted “privately-owned commercial vessels of the United States, as provided under subsection (b),” for “privately-owned commercial vessels of the United States,”, and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “In this section, the term ‘privately-owned commercial vessel of the United States’ does not include a vessel that, after September 21, 1961, was built or rebuilt outside the United States or documented under the laws of a foreign country, until the vessel has been documented under the laws of the United States for at least 3 years.”
+
+Subsecs. (b), (c). Pub. L. 118–31, § 3531(a)(4), added subsecs. (b) and (c). Former subsecs. (b) and (c) redesignated (a) and (d), respectively.
+
+Subsec. (d). Pub. L. 118–31, § 3531(a)(2)(B), (5), redesignated subsec. (c) as (d), struck it out, and added a new subsec. (d). Prior to amendment, text read as follows: “The President, the Secretary of Defense, or Congress (by concurrent resolution or otherwise) may waive this section temporarily by—
+
+“(1) declaring the existence of an emergency justifying a waiver; and
+
+“(2) notifying the appropriate agencies of the waiver.”
+
+Former subsec. (d) redesignated (e).
+
+Subsecs. (e), (f). Pub. L. 118–31, § 3531(a)(2)(B), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
+
+2022—Subsec. (d)(2)(A). Pub. L. 117–263 inserted “and annually submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the administration of such programs” after “section”.
+
 2018—Subsec. (d)(2)(D). Pub. L. 115–232 substituted “1303(a)(1))” for “421(c)(1)”.
 
 2014—Subsec. (e)(1). Pub. L. 113–281, § 306(1), substituted “reimburse, subject to the availability of appropriations, the owners or operators of vessels” for “provide armed personnel aboard vessels” and “commodities for the cost of providing armed personnel aboard such vessels” for “commodities”.
@@ -129,6 +211,9 @@ Subsec. (d). Pub. L. 110–417, § 3511(b), reenacted heading without change and
 
 #### Regulations
 Pub. L. 110–417, div. C, title XXXV, § 3511(c), Oct. 14, 2008, 122 Stat. 4770, provided that: “The Secretary of Transportation shall prescribe such rules as are necessary to carry out [section 55305(d) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55305/d&num=0&edition=prelim), United States Code. The Secretary may prescribe interim rules necessary to carry out section 55305(d) of such title. An interim rule prescribed under this subsection shall remain in effect until superseded by a final rule.”
+
+#### Secretary of Transportation Responsibility With Respect to Cargoes Procured, Furnished, or Financed by Other Federal Departments and Agencies
+Pub. L. 117–263, div. C, title XXXV, § 3502(a), Dec. 23, 2022, 136 Stat. 3065, provided that: “Not later than 270 days after the date of the enactment of this Act [Dec. 23, 2022], the Administrator of the Maritime Administration shall issue a final rule to implement and enforce [section 55305(d) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section55305/d&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-55311"></a>

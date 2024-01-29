@@ -129,7 +129,7 @@ The President is authorized at any time to terminate, in whole or in part, any p
 #### References in Text
 The Agreement, referred to in subsecs. (a) and (c), is the Agreement Concerning Automotive Products, which was entered into between the United States and Canada on January 16, 1965, see Proc. No. 3682, Oct. 21, 1965, 30 F.R. 13683 and Proc. No. 3743, Sept. 8, 1966, 31 F.R. 12003, set out as notes under [section 2011 of this title](./chapter-008-automotive-products.md#section-2011).
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
 
 
 <a id="section-2021"></a>
@@ -140,7 +140,7 @@ A petition may be filed for tariff adjustment or for a determination of eligibil
 ### Statutory Notes
 
 #### References in Text
-The Trade Expansion Act of 1962, referred to in text, is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, as amended. Title III of the Trade Expansion Act of 1962 is classified generally to subchapter III (§ 1901 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-007-trade-expansion-program.md#section-1801) and Tables.
+The Trade Expansion Act of 1962, referred to in text, is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872. Title III of the Trade Expansion Act of 1962 is classified generally to subchapter III (§ 1901 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-007-trade-expansion-program.md#section-1801) and Tables.
 
 Section 301 of the Trade Expansion Act of 1962, referred to in text, was classified to [section 1901 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1901&num=0&edition=prelim) and was repealed by Pub. L. 93–618, title VI, § 602(d), (e), Jan. 3, 1975, 88 Stat. 2072. See section 2251 et seq. of this title.
 
@@ -179,7 +179,7 @@ The head of any agency performing functions authorized by this chapter may—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
 
 
 <a id="section-2032"></a>
@@ -198,7 +198,7 @@ The President shall submit to the Congress an annual report on the implementatio
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
 
 #### Ex. Ord. No. 12713. Delegation of Authority for Submission of Report
 Ex. Ord. No. 12713, May 1, 1990, 55 F.R. 18719, provided:
@@ -216,9 +216,9 @@ Nothing contained in this chapter shall be construed to affect or modify the pro
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 89–283, Oct. 21, 1965, 79 Stat. 1016. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of this title](./chapter-008-automotive-products.md#section-2001) and Tables.
 
-The Tariff Act of 1930, as amended, referred to in text, is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Subtitle B of title VII of the Tariff Act of 1930 is classified generally to part II of subtitle IV (§ 1673 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in text, is act June 17, 1930, ch. 497, 46 Stat. 590. Subtitle B of title VII of the Tariff Act of 1930 is classified generally to part II of subtitle IV (§ 1673 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 #### Amendments
 1979—Pub. L. 96–39 substituted “subtitle B of title VII of the Tariff Act of 1930” for “the Anti-Dumping Act, 1921,”.

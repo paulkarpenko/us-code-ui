@@ -391,21 +391,23 @@ Ex. Ord. No. 9747, July 3, 1946, 11 F.R. 7518, provided:
 The terms and provisions of Executive Order 9095 of March 11, 1942, as amended [formerly set out as a note under section 6 of the Appendix to Title 50, War and National Defense], and Executive Order No. 8389 of April 10, 1940, as amended [set out above], shall continue in force in the Philippines after July 4, 1946, and all powers and authority delegated by the said Executive Orders to the Alien Property Custodian and to the Secretary of the Treasury, respectively, shall after July 4, 1946, continue to be exercised in the Philippines by the said officers, respectively, as therein provided.
 
 #### Continuation of the Exercise of Certain Authorities Under the Trading With the Enemy Act
-Determination of President of the United States, No. 2022–22, Sept. 2, 2022, 87 F.R. 54859, provided:
+Determination of President of the United States, No. 2023–10, Sept. 13, 2023, 88 F.R. 64347, provided:
 
 Memorandum for the Secretary of State [and] the Secretary of the Treasury
 
-Under section 101(b) of Public Law 95–223 (91 Stat. 1625; [50 U.S.C. 4305](./chapter-053-trading-with-the-enemy.md#section-4305) note), and a previous determination on September 7, 2021 (86 FR 50831, September 10, 2021), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2022.
+Under section 101(b) of Public Law 95–223 (91 Stat. 1625; [50 U.S.C. 4305](./chapter-053-trading-with-the-enemy.md#section-4305) note), and a previous determination on September 2, 2022 (87 FR 54859, September 8, 2022), the exercise of certain authorities under the Trading With the Enemy Act is scheduled to expire on September 14, 2023.
 
 I hereby determine that the continuation of the exercise of those authorities with respect to Cuba for 1 year is in the national interest of the United States.
 
-Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2023, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 CFR part 515.
+Therefore, consistent with the authority vested in me by section 101(b) of Public Law 95–223, I continue for 1 year, until September 14, 2024, the exercise of those authorities with respect to Cuba, as implemented by the Cuban Assets Control Regulations, 31 C.F.R. Part 515.
 
 The Secretary of the Treasury is authorized and directed to publish this determination in the Federal Register.
 
 J.R. Biden, Jr.
 
 Prior extensions were contained in the following:
+
+Determination of President of the United States, No. 2022–22, Sept. 2, 2022, 87 F.R. 54859.
 
 Determination of President of the United States, No. 2021–12, Sept. 7, 2021, 86 F.R. 50831.
 
@@ -913,6 +915,16 @@ All offices of collector of customs, comptroller of customs, surveyor of customs
 
 **(c) Forfeiture** Upon conviction, any property, funds, securities, papers, or other articles or documents, or any vessel, together with tackle, apparel, furniture, and equipment, concerned in any violation of subsection (a) may be forfeited to the United States.
 
+**(d) Statute of limitations**
+
+(1) **Time for commencing proceedings**
+
+  (A) *In general* — An action, suit, or proceeding for the enforcement of any civil fine, penalty, or forfeiture, pecuniary or otherwise, under this section shall not be entertained unless commenced within 10 years after the latest date of the violation upon which the civil fine, penalty, or forfeiture is based.
+
+  (B) *Commencement* — For purposes of this paragraph, the commencement of an action, suit, or proceeding includes the issuance of a pre-penalty notice or finding of violation.
+
+(2) **Time for indictment** — No person shall be prosecuted, tried, or punished for any offense under subsection (a) unless the indictment is found or the information is instituted within 10 years after the latest date of the violation upon which the indictment or information is based.
+
 ### Statutory Notes
 
 #### References in Text
@@ -922,6 +934,8 @@ All offices of collector of customs, comptroller of customs, surveyor of customs
 Section was formerly classified to section 16 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–50 added subsec. (d).
+
 2010—Subsec. (a). Pub. L. 111–195 substituted “if a natural person, be imprisoned for not more than 20 years, or both.” for “if a natural person, be fined not more than $100,000, or imprisoned for not more than ten years or both; and the officer, director, or agent of any corporation who knowingly participates in such violation shall, upon conviction, be fined not more than $100,000 or imprisoned for not more than ten years or both.”
 
 1996—Pub. L. 104–114, § 102(d)(3)(A), made technical amendment inserting section designation in original.
@@ -1081,7 +1095,7 @@ Functions vested by law in Alien Property Custodian and Office of Alien Property
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” or “the Trading with the Enemy Act, as amended”, meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4301 of this title](./chapter-053-trading-with-the-enemy.md#section-4301) and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” or “the Trading with the Enemy Act, as amended”, meaning act Oct. 6, 1917, ch. 106, 40 Stat. 411, known as the Trading with the enemy Act, also known as the Trading with the Enemy Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4301 of this title](./chapter-053-trading-with-the-enemy.md#section-4301) and Tables.
 
 Section 208 of the Revenue Act of 1926 (relating to capital net gains), referred to in subsec. (c), is act Feb. 26, 1926, ch. 27, § 208, 44 Stat. 19, which enacted section 939 of former Title 26, Internal Revenue, prior to repeal by act May 29, 1928, ch. 852, § 63, 45 Stat. 810. See section 1201 et seq. of Title 26, Internal Revenue Code.
 
@@ -1405,7 +1419,7 @@ Title I, Alien Registration Act, 1940 (ch. 439, 54 Stat. 670), referred to in su
 
 Act October 17, 1940 (ch. 897, 54 Stat. 1201), referred to in subsec. (a), is act Oct. 17, 1940, ch. 897, 54 Stat. 1201, which was classified to sections 14 to 17 of former Title 18, Criminal Code and Criminal Procedure, prior to repeal and reenactment as [section 2386 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2386&num=0&edition=prelim), Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, § 21, 62 Stat. 862.
 
-Act of June 25, 1942 (ch. 447, 56 Stat. 390), referred to in subsec. (a), is act June 25, 1942, ch. 447, 56 Stat. 390, as amended, which was classified to sections 781 to 785 of the former Appendix to this title and was omitted from the Code as terminated.
+Act of June 25, 1942 (ch. 447, 56 Stat. 390), referred to in subsec. (a), is act June 25, 1942, ch. 447, 56 Stat. 390, which was classified to sections 781 to 785 of the former Appendix to this title and was omitted from the Code as terminated.
 
 The Alien Enemy Act, referred to in subsec. (a), probably means sections 4067 to 4070 of the Revised Statutes, which are classified to sections 21 to 24 of this title.
 

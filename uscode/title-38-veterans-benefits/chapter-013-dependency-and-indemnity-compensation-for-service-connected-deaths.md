@@ -108,7 +108,7 @@ Pub. L. 89–622, § 2, Oct. 4, 1966, 80 Stat. 873, provided that: “The amendm
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2003—Subsec. (a). Pub. L. 108–183 substituted “2013” for “2011”.
@@ -191,7 +191,7 @@ Pub. L. 117–168, title II, § 204(c), Aug. 10, 2022, 136 Stat. 1777, provided 
 ### Statutory Notes
 
 #### References in Text
-The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
+The Radiation Exposure Compensation Act, referred to in subsec. (c), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
 2021—Subsec. (b). Pub. L. 116–283 substituted “air, or space service” for “or air service” in two places.
@@ -750,7 +750,7 @@ the Secretary shall pay for such month benefits under this section to each such 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 214 and 202 of the Social Security Act are classified to sections 414 and 402 of Title 42, respectively. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 214 and 202 of the Social Security Act are classified to sections 414 and 402 of Title 42, respectively. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1991—Pub. L. 102–83, § 5(a), renumbered [section 412 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section412&num=0&edition=prelim) as this section.
@@ -1518,7 +1518,7 @@ For increases in rates and limitations on Department of Veterans Affairs disabil
 #### References in Text
 Section 9(b) of the Veterans’ Pension Act of 1959, referred to in subsec. (f)(1)(C), is section 9(b) of Pub. L. 86–211, Aug. 29, 1959, 73 Stat. 432, which was set out as a Savings Provisions note under [section 1521 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1521), and was repealed, effective Jan. 1, 1979, by section 306(b)(1) of Pub. L. 95–588, which is set out as a Savings Provisions for Persons Entitled to Pension as of December 31, 1978: Other Provisions note under [section 1521 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1521).
 
-The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (f)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2009—Subsec. (b)(1). Pub. L. 111–37, § 3(f)(1)(A), substituted “$569” for “$163”.
@@ -1782,7 +1782,7 @@ Payments for balance of calendar year 1968 and calendar year 1969, calendar year
 ### Statutory Notes
 
 #### References in Text
-The Servicemen’s Indemnity Act of 1951, referred to in subsec. (e), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, as amended, which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, § 502(9), 70 Stat. 886.
+The Servicemen’s Indemnity Act of 1951, referred to in subsec. (e), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, § 502(9), 70 Stat. 886.
 
 #### Amendments
 1991—Pub. L. 102–83, § 5(a), renumbered [section 416 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section416&num=0&edition=prelim) as this section.

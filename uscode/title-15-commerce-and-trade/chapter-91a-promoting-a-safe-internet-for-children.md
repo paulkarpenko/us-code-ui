@@ -63,14 +63,15 @@ The Commission shall submit a report to the Committee on Commerce, Science, and 
 
 (2) includes recommendations as to what types of incentives could be used or developed to increase the effectiveness and implementation of such strategies and technologies.
 
-**(c) FACA not to apply to working group** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group.
+**(c) Chapter 10 of title 5 not to apply to working group** Chapter 10 of title 5 shall not apply to the working group.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 13032 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13032&num=0&edition=prelim), referred to in the original in subsec. (a)(2), probably should have been a reference to section 227 of Pub. L. 101–647, which was classified to [section 13032 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13032&num=0&edition=prelim), prior to repeal by Pub. L. 110–401, title V, § 501(b)(1), Oct. 13, 2008, 122 Stat. 4251.
 
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-6555"></a>

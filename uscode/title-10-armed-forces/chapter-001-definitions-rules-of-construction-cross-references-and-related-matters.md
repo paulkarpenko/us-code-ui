@@ -1,8 +1,8 @@
 ---
 title: 10
 chapter: '1'
-heading: DEFINITIONS
-section_count: 1
+heading: 'DEFINITIONS, RULES OF CONSTRUCTION, CROSS REFERENCES, AND RELATED MATTERS'
+section_count: 2
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -94,7 +94,7 @@ source: >-
 
 (3) The term “warrant officer” means a person who holds a commission or warrant in a warrant officer grade.
 
-(4) The term “general officer” means an officer of the Army, Air Force, or Marine Corps serving in or having the grade of general, lieutenant general, major general, or brigadier general.
+(4) The term “general officer” means an officer of the Army, Air Force, Marine Corps, or Space Force serving in or having the grade of general, lieutenant general, major general, or brigadier general.
 
 (5) The term “flag officer” means an officer of the Navy or Coast Guard serving in or having the grade of admiral, vice admiral, rear admiral, or rear admiral (lower half).
 
@@ -106,7 +106,7 @@ source: >-
 
 (9) The term “rating” means the name (such as “boatswain’s mate”) prescribed for members of an armed force in an occupational field. The term “rate” means the name (such as “chief boatswain’s mate”) prescribed for members in the same rating or other category who are in the same grade (such as chief petty officer or seaman apprentice).
 
-(10) The term “original”, with respect to the appointment of a member of the armed forces in a regular or reserve component, refers to that member’s most recent appointment in that component that is neither a promotion nor a demotion.
+(10) The term “original”, with respect to the appointment of a member of the armed forces in a regular or reserve component, refers to that member’s most recent appointment in that component that is neither a promotion nor a demotion and, with respect to the appointment of a member of the armed forces in the Space Force, refers to that member’s most recent appointment in the Space Force that is neither a promotion nor a demotion.
 
 (11) The term “authorized strength” means the largest number of members authorized to be in an armed force, a component, a branch, a grade, or any other category of the armed forces.
 
@@ -154,7 +154,7 @@ source: >-
 
 **(d) Duty Status.—** The following definitions relating to duty status apply in this title:
 
-(1) The term “active duty” means full-time duty in the active military service of the United States. Such term includes full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. Such term does not include full-time National Guard duty.
+(1) The term “active duty” means full-time duty in the active military service of the United States, including sustained duty in the Space Force. Such term includes full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. Such term does not include full-time National Guard duty.
 
 (2) The term “active duty for a period of more than 30 days” means active duty under a call or order that does not specify a period of 30 days or less.
 
@@ -182,12 +182,34 @@ source: >-
 
 (7) The term “inactive-duty training” means—
 
-  (A) duty prescribed for Reserves by the Secretary concerned under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim) or any other provision of law; and
+  (A) duty prescribed for Reserves, or a member of the Space Force, by the Secretary concerned under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim) or any other provision of law; and
 
-  (B) special additional duties authorized for Reserves by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
+  (B) special additional duties authorized for Reserves, or a member of the Space Force, by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned.
   Such term includes those duties when performed by Reserves in their status as members of the National Guard.
 
-**(e) Facilities and Operations.—** The following definitions relating to facilities and operations apply in this title:
+**(e) Space Force.—** The following definitions relating to members of the Space Force apply in this title:
+
+(1) The term “space force active status” means the status of a member of the Space Force who is not in a space force inactive status and is not retired.
+
+(2) The term “space force inactive status” means the status of a member of the Space Force who is designated by the Secretary of the Air Force, under regulations prescribed by the Secretary, as being in a space force inactive status.
+
+(3) The term “space force retired status” means the status of a member of the Space Force who—
+
+  (A) is receiving retired pay ; or
+
+  (B) but for being under the eligibility age applicable under [section 12731 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), would be eligible for retired pay under chapter 1223 of this title.
+
+(4) The term “sustained duty” means full-time duty by a member of the Space Force ordered to such duty by an authority designated by the Secretary of the Air Force—
+
+  (A) in the case of an officer—
+
+    (i) to fulfill the terms of an active-duty service commitment incurred by the officer under any provision of law; or
+
+    (ii) with the consent of the officer; and
+
+  (B) in the case of an enlisted member, with the consent of the enlisted member as specified in the terms of the member’s enlistment or reenlistment agreement.
+
+**(f) Facilities and Operations.—** The following definitions relating to facilities and operations apply in this title:
 
 (1) **Range.—** — The term “range”, when used in a geographic sense, means a designated land or water area that is set aside, managed, and used for range activities of the Department of Defense. Such term includes the following:
 
@@ -243,7 +265,7 @@ source: >-
 
 (8) **Military installation resilience.—** — The term “military installation resilience” means the capability of a military installation to avoid, prepare for, minimize the effect of, adapt to, and recover from extreme weather events, or from anticipated or unanticipated changes in environmental conditions, that do, or have the potential to, adversely affect the military installation or essential transportation, logistical, or other necessary resources outside of the military installation that are necessary in order to maintain, improve, or rapidly reestablish installation mission assurance and mission-essential functions.
 
-**(f) Rules of Construction.—** In this title—
+**(g) Rules of Construction.—** In this title—
 
 (1) “shall” is used in an imperative sense;
 
@@ -255,7 +277,7 @@ source: >-
 
 (5) “spouse” means husband or wife, as the case may be.
 
-**(g) Reference to Title 1 Definitions.—** For other definitions applicable to this title, see sections 1 through 5 of title 1.
+**(h) Reference to Title 1 Definitions.—** For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
 ### Statutory Notes
 
@@ -323,12 +345,22 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (a)
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (a)(17)(C), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687) and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (e)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (f)(4)(C)(iii), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 107–296, § 1704(b)(1), which directed amendment of [section 101(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/9&num=0&edition=prelim) by substituting of “of Homeland Security” for “of Transportation” wherever appearing, could not be executed because there is no section 101(9).
 
 #### Amendments
+2023—Subsec. (b)(4). Pub. L. 118–31, § 1741(a)(3), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
+
+Subsec. (b)(10). Pub. L. 118–31, § 1716(b)(1), inserted before period at end “and, with respect to the appointment of a member of the armed forces in the Space Force, refers to that member’s most recent appointment in the Space Force that is neither a promotion nor a demotion”.
+
+Subsec. (d)(1). Pub. L. 118–31, § 1713(b)(1), inserted “, including sustained duty in the Space Force” after “United States”.
+
+Subsec. (d)(7). Pub. L. 118–31, § 1713(b)(2), inserted “, or a member of the Space Force,” after “Reserves” in subpars. (A) and (B).
+
+Subsecs. (e) to (h). Pub. L. 118–31, § 1713(a), added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
+
 2021—Subsec. (a)(13)(B). Pub. L. 116–283, § 1081(a)(5), substituted “section 3713” for “section 712”.
 
 Subsec. (a)(19), (20). Pub. L. 117–81 added pars. (19) and (20).
@@ -483,6 +515,9 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 #### Effective Date of 1958 Amendment
 Pub. L. 85–861, § 33(g), Sept. 2, 1958, 72 Stat. 1568, provided that: “This section [see Tables for classification] is effective as of August 10, 1956, for all purposes.”
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–31, div. A, title XVII, § 1701, Dec. 22, 2023, 137 Stat. 624, provided that: “This title [see Tables for classification] may be cited as the ‘Space Force Personnel Management Act’.”
+
 #### Short Title of 2019 Amendment
 Pub. L. 116–92, div. A, title IX, § 951, Dec. 20, 2019, 133 Stat. 1561, provided that: “This subtitle [subtitle D (§§ 951–961) of div. A of Pub. L. 116–92, see Tables for classification] may be cited as the ‘United States Space Force Act’.”
 
@@ -565,13 +600,15 @@ Authority vested by this title in “military departments”, “the Secretary c
 #### Public Health Service
 Authority vested by this title in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section213a&num=0&edition=prelim), The Public Health and Welfare.
 
-#### Elimination of Need for Certain Separate Conforming Amendments
-Pub. L. 117–81, div. B, § 2003(b), Dec. 27, 2021, 135 Stat. 2162, provided that: “(1) Automatic execution of conforming changes.—When an amendment made by a provision of this division [div. B of Pub. L. 117–81, see Tables for classification] to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar table of tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment. “(2) Exceptions.—Paragraph (1) shall not apply to an amendment described in such paragraph when—“(A) the amendment, or a separate clerical amendment enacted at the same time as the amendment, expressly amends a table of sections, table of contents, or similar table of tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment; or “(B) the amendment otherwise expressly exempts itself from the operation of this section. “(3) Covered defense law.—In this subsection, the term ‘covered defense law’ means—“(A) titles 10, 32, and 37 of the United States Code; “(B) any national defense authorization Act or military construction authorization Act that authorizes funds to be appropriated for a fiscal year to the Department of Defense; and “(C) any other law designated in the text thereof as a covered defense law for purposes of application of this section.”
+#### Suicide Cluster: Standardized Definition for Use by Department of Defense; Congressional Notification
+Pub. L. 117–263, div. A, title VII, § 740, Dec. 23, 2022, 136 Stat. 2676, provided that: “(a) Standardization of Definition.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense, in consultation with the Secretaries concerned, shall develop, for use across the Armed Forces, a standardized definition for the term ‘suicide cluster’. “(b) Notification Required.—Beginning not later than one year after the date of the enactment of this Act, whenever the Secretary determines the occurrence of a suicide cluster (as that term is defined pursuant to subsection (a)) among members of the Armed Forces, the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a notification of such determination. “(c) Briefing.—Not later than April 1, 2023, the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the following:“(1) The methodology being used in the development of the definition under subsection (a). “(2) The progress made towards the development of the process for submitting required notifications under subsection (b). “(3) An estimated timeline for the implementation of this section. “(d) Coordination Required.—In developing the definition under subsection (a) and the process for submitting required notifications under subsection (b), the Secretary of Defense shall coordinate with the Secretaries concerned. “(e) Secretary Concerned Defined.—In this section, the term ‘Secretary concerned’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Codes [sic].”
 
 #### Coordination of Certain Sections of an Act With Other Provisions of That Act
-Pub. L. 117–81, div. A, title X, § 1081(d), Dec. 27, 2021, 135 Stat. 1922, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+Pub. L. 118–31, div. A, title XVIII, § 1801(b), Dec. 22, 2023, 137 Stat. 685, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–81, div. A, title X, § 1081(d), Dec. 27, 2021, 135 Stat. 1922.
 
 Pub. L. 116–283, div. A, title X, § 1081(g), Jan. 1, 2021, 134 Stat. 3875.
 
@@ -619,6 +656,9 @@ Pub. L. 117–81, div. A, title VI, § 626(c), Dec. 27, 2021, 135 Stat. 1775, pr
 #### Standardization of Definitions Used by the Department of Defense for Terms Related to Suicide
 Pub. L. 117–81, div. A, title VII, § 726, Dec. 27, 2021, 135 Stat. 1795, provided that: “(a) Standardization of Definitions.—Not later than 120 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop standardized definitions for the following terms:“(1) ‘Suicide’. “(2) ‘Suicide attempt’. “(3) ‘Suicidal ideation’. “(b) Required Use of Standardized Definitions.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall issue policy guidance requiring the exclusive and uniform use across the Department of Defense and within each military department of the standardized definitions developed under subsection (a) for the terms specified in such subsection. “(c) Briefing.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing that sets forth the standardized definitions developed under subsection (a) and includes—“(1) a description of the process that was used to develop such definitions; “(2) a description of the methods by which data shall be collected on suicide, suicide attempts, and suicidal ideations (as those terms are defined pursuant to such definitions) in a standardized format across the Department and within each military department; and “(3) an implementation plan to ensure the use of such definitions as required pursuant to subsection (b).”
 
+#### References to NDAA for Fiscal Year 2023
+Pub. L. 117–263, § 1(b), Dec. 23, 2022, 136 Stat. 2395, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2023’ shall be deemed to be a reference to the ‘James M. Inhofe National Defense Authorization Act for Fiscal Year 2023’.”
+
 #### References to NDAA for Fiscal Year 2021
 Pub. L. 116–283, § 1(b), as added by Pub. L. 117–81, div. A, title X, § 1081(b)(2), Dec. 27, 2021, 135 Stat. 1922, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2021’ shall be deemed to be a reference to the ‘William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021’ [Pub. L. 116–283].”
 
@@ -626,6 +666,10 @@ Pub. L. 116–283, § 1(b), as added by Pub. L. 117–81, div. A, title X, § 10
 
 #### Congressional Defense Committees Defined
 The following provisions provided that the term “congressional defense committees” for purposes of the Acts in which they were contained has the meaning given that term in subsec. (a)(16) of this section:
+
+Pub. L. 118–31, § 3, Dec. 22, 2023, 137 Stat. 164.
+
+Pub. L. 117–263, § 3, Dec. 23, 2022, 136 Stat. 2438.
 
 Pub. L. 117–81, § 3, Dec. 27, 2021, 135 Stat. 1565.
 
@@ -743,3 +787,41 @@ Pub. L. 102–172, title VIII, § 8116, Nov. 26, 1991, 105 Stat. 1203.
 
 #### Definitions for Purposes of Pub. L. 102–25
 Pub. L. 102–25, § 3, Apr. 6, 1991, 105 Stat. 77, as amended by Pub. L. 102–190, div. A, title XII, § 1203(a), Dec. 5, 1991, 105 Stat. 1508, provided that: “For the purposes of this Act [see Short Title of 1991 Amendment note above]: “(1) The term ‘Operation Desert Storm’ means operations of United States Armed Forces conducted as a consequence of the invasion of Kuwait by Iraq (including operations known as Operation Desert Shield, Operation Desert Storm, and Operation Provide Comfort). “(2) The term ‘incremental costs associated with Operation Desert Storm’ means costs referred to in [former] section 251(b)(2)(D)(ii) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([former] [2 U.S.C. 901(b)(2)(D)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/D/ii&num=0&edition=prelim)). “(3) The term ‘Persian Gulf conflict’ means the period beginning on August 2, 1990, and ending thereafter on the date prescribed by Presidential proclamation or by law. “(4) The term ‘congressional defense committees’ has the meaning given that term in section 3 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; 104 Stat. 1498).”
+
+
+<a id="section-102"></a>
+## § 102. Effect of certain amendments on conforming changes to tables of sections, tables of contents, and similar tabular entries
+**(a) Automatic Execution of Conforming Changes.—** When an amendment to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment.
+
+**(b) Exceptions.—** Subsection (a) shall not apply to an amendment described in such subsection when—
+
+(1) the amendment or a clerical amendment enacted at the same time expressly amends a table of sections, table of contents, or similar tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment; or
+
+(2) the amendment otherwise expressly exempts itself from the operation of this section.
+
+**(c) Covered Defense Law.—** In this section, the term “covered defense law” means—
+
+(1) this title;
+
+(2) titles 32 and 37;
+
+(3) any national defense authorization Act that authorizes funds to be appropriated for a fiscal year to the Department of Defense; and
+
+(4) any other law designated in the text thereof as a covered defense law for purposes of application of this section.
+
+### Statutory Notes
+
+#### Application of Amendment
+Pub. L. 117–263, div. A, title X, § 1081(e)(3), Dec. 23, 2022, 136 Stat. 2798, provided that: “[Section 102 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-102), United States Code, as added by paragraph (1), shall apply to the amendments made by this section and other amendments made by this Act [see Tables for classification].”
+
+#### Coordination With Other Amendments Made by Pub. L. 117–263
+Pub. L. 117–263, div. A, title X, § 1081(f), Dec. 23, 2022, 136 Stat. 2798, provided that: “For purposes of applying amendments made by provisions of this Act other than this section [see Tables for classification], the amendments made by this section [enacting this section, amending sections 113, 2691, 3014, 4423, 4831, and 4833 of this title, and amending provisions set out as notes under sections 113, 391, and 2224 of this title] shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.”
+
+#### Elimination of Need for Certain Separate Conforming Amendments
+Pub. L. 117–263, div. B, § 2803(b), Dec. 23, 2022, 136 Stat. 2970, provided that: “(1) Automatic execution of conforming changes.—When an amendment made by a provision of this division [see Tables for classification] to a covered defense law adds a section or larger organizational unit to the covered defense law, repeals or transfers a section or larger organizational unit in the covered defense law, or amends the designation or heading of a section or larger organizational unit in the covered defense law, that amendment also shall have the effect of amending any table of sections, table of contents, or similar table of tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment. “(2) Exceptions.—Paragraph (1) shall not apply to an amendment described in such paragraph when—“(A) the amendment, or a separate clerical amendment enacted at the same time as the amendment, expressly amends a table of sections, table of contents, or similar table of tabular entries in the covered defense law to alter the table to conform to the changes made by the amendment; or “(B) the amendment otherwise expressly exempts itself from the operation of this section. “(3) Covered defense law defined.—In this subsection, the term ‘covered defense law’ means—“(A) titles 10, 32, and 37 of the United States Code; “(B) any national defense authorization Act or military construction authorization Act that authorizes funds to be appropriated for a fiscal year to the Department of Defense; and “(C) any other law designated in the text thereof as a covered defense law for purposes of application of this section.”
+
+[Another section 2803(b) of Pub. L. 117–263 enacted provisions set out as a note under [section 2805 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2805). The section 2803(b) of Pub. L. 117–263 set out above probably should have been numbered section 2003(b) as it followed section 2002 of Pub. L. 117–263.]
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 117–81, div. B, § 2003(b), Dec. 27, 2021, 135 Stat. 2162.

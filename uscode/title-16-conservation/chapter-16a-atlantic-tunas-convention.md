@@ -140,16 +140,16 @@ Each member of the advisory committee appointed under paragraph (1) shall serve 
 
 (5) The advisory committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), and the Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures.
 
-(6) The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+(6) The advisory committee shall, to the maximum extent practicable, consist of an equitable balance among the various groups concerned with the fisheries covered by the Convention and shall not be subject to chapter 10 of title 5.
 
 ### Statutory Notes
 
 #### References in Text
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(5), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (b)(6). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
 1998—Subsecs. (a)(2), (b)(5). Pub. L. 105–384 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
 
 1995—Pub. L. 104–43 designated existing provisions as subsec. (a) and added subsec. (b).

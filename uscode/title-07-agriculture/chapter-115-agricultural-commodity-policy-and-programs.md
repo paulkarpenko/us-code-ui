@@ -192,6 +192,9 @@ Pub. L. 115–123, div. F, Feb. 9, 2018, 132 Stat. 312, provided that: “This d
 #### Short Title
 Pub. L. 113–79, § 1(a), Feb. 7, 2014, 128 Stat. 649, provided that: “This Act [see Tables for classification] may be cited as the ‘Agricultural Act of 2014’.”
 
+#### Extension of Agricultural Programs
+Pub. L. 118–22, div. B, title I, § 102(a)–(c)(1), (d)(9), (e), (g), Nov. 17, 2023, 137 Stat. 114, 115, 119, provided that: “(a) Extension.—Except as otherwise provided in this section [amending sections 940c–2, 1627a, 1736f–1, 3222a, 5925c, 5925g, 5939, 6522, 6523, 7507, 8102, 8105, 8110, 8772, 9016, 9055, and 9059 of this title and sections 3839bb–2 and 3839bb–5 of Title 16, Conservation, enacting this note and provisions set out as notes under sections 9057 and 9092 of this title, and amending provisions set out as notes under sections 2101, 7101, 7632, and 8351 of this title] and the amendments made by this section, notwithstanding any other provision of law, the authorities (including any limitations on the authorities) provided by each provision of the Agriculture Improvement Act of 2018 (Public Law 115–334; 132 Stat. 4490) [see Tables for classification] and each provision of law amended by that Act (and for mandatory programs at such funding levels), as in effect on September 30, 2023, shall continue, and the authorities shall be carried out, until the later of—“(1) September 30, 2024; or “(2) the date specified in the provision of that Act or the provision of law amended by that Act. “(b) Discretionary Programs.—Programs carried out using the authorities described in subsection (a) that are funded by discretionary appropriations (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 900(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c&num=0&edition=prelim))) shall be subject to the availability of appropriations. “(c) Commodity Programs.—“(1) In general.—The provisions of law applicable to a covered commodity (as defined in section 1111 of the Agricultural Act of 2014 ([7 U.S.C. 9011](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9011))), a loan commodity (as defined in section 1201 of that Act ([7 U.S.C. 9031](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9031))), sugarcane, or sugar beets for the 2023 crop year pursuant to title I of that Act ([7 U.S.C. 9011](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9011) et seq.) and each amendment made by subtitle C [§ 1301] of title I of the Agriculture Improvement Act of 2018 (Public Law 115–334; 132 Stat. 4511) [amending sections 1359bb, 1359ll, and 7272 of this title] shall be applicable to the 2024 crop year for that covered commodity, loan commodity, sugarcane, or sugar beets. “(d) Other Programs.—“(9) Exceptions.—Subsection (a) shall not apply with respect to mandatory funding under the following provisions of law:“(A) Section 1614(c)(4) of the Agricultural Act of 2014 ([7 U.S.C. 9097(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9097/c/4&num=0&edition=prelim)). “(B) Subparagraphs (A) and (B) of section 1241(a)(1) of the Food Security Act of 1985 ([16 U.S.C. 3841(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3841/a/1&num=0&edition=prelim)). “(e) Reports.—“(1) In general.—Subject to paragraph (2), any requirement under a provision of law described in subsection (a) to submit a report on a recurring basis, and the final report under which was required to be submitted during fiscal year 2023, shall continue, and the requirement shall be carried out, on the same recurring basis, until the later of the dates specified in paragraphs (1) and (2) of that subsection. “(2) Appropriations required.—If discretionary appropriations (as defined in section 250(c) of the Balanced Budget and Emergency Deficit Control Act of 1985 ([2 U.S.C. 900(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900/c&num=0&edition=prelim))) are required to carry out a reporting requirement described in paragraph (1), the application of that paragraph to that reporting requirement shall be subject to the availability of appropriations. “(g) Effective Date.—This section and the amendments made by this section (except subsection (f) [not classified to the Code] and the amendments made by subparagraphs (A) and (C) of subsection (d)(5) [amending sections 3222a and 5939 of this title]) shall be applied and administered as if this section and those amendments had been enacted on September 30, 2023.”
+
 #### Definition of “Secretary”
 Pub. L. 115–334, § 2, Dec. 20, 2018, 132 Stat. 4500, provided that: “In this Act [see Tables for classification], the term ‘Secretary’ means the Secretary of Agriculture.”
 
@@ -480,6 +483,9 @@ Pub. L. 108–7, div. A, title VII, § 767, Feb. 20, 2003, 117 Stat. 48, as amen
 #### References in Text
 The Food Security Act of 1985, referred to in subsec. (c)(2)(A)(i), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§ 3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
+#### Codification
+Provisions of law applicable to a covered commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that covered commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 #### Amendments
 2018—Subsec. (c)(2)(A). Pub. L. 115–334, § 1102(a), added subpar. (A) and struck out former subpar. (A) which read as follows: “Any acreage on the farm enrolled in the conservation reserve program or wetlands reserve program (or successor programs) under chapter 1 of subtitle D of title XII of the Food Security Act of 1985 ([16 U.S.C. 3830](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3830&num=0&edition=prelim) et seq.).”
 
@@ -715,6 +721,9 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see
 
 ### Statutory Notes
 
+#### Codification
+Provisions of law applicable to a covered commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that covered commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–334, § 1105(1), substituted “For the 2014 through 2018 crop years (except as provided in subsection (g)) and for the 2019 through 2023 crop years (subject to subsection (h))” for “Except as provided in subsection (g), for the 2014 through 2018 crop years” in introductory provisions.
 
@@ -780,7 +789,7 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see
 
 (3) **Insufficient data** — In the case of a covered commodity, such as temperate japonica rice, for which the Secretary cannot determine the payment rate for the most recent 12-month marketing year by the date described in paragraph (2) due to insufficient reporting of timely pricing data by 1 or more nongovernmental entities, including a marketing cooperative for the covered commodity, the Secretary shall publish the payment rate as soon as practicable after the marketing year data are made available.
 
-**(d) Payment amount** If price loss coverage payments are required to be provided under this section for any of the 2014 through 2018 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
+**(d) Payment amount** If price loss coverage payments are required to be provided under this section for any of the 2014 through 2024 crop years for a covered commodity, the amount of the price loss coverage payment to be paid to the producers on a farm for the crop year shall be equal to the product obtained by multiplying—
 
 (1) the payment rate for the covered commodity under subsection (c);
 
@@ -826,7 +835,12 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see
 
 ### Statutory Notes
 
+#### Codification
+Provisions of law applicable to a covered commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that covered commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–22 substituted “2024” for “2018”.
+
 2018—Subsec. (a). Pub. L. 115–334, § 1106(1), in introductory provisions, inserted “or (h)” after “subsection (a)” and substituted “determines that—” for “determines that, for any of the 2014 through 2018 crop years—”, inserted par. (1) designation and introductory provisions, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1) and realigned margins, and added par. (2).
 
 Subsec. (c). Pub. L. 115–334, § 1106(2), designated existing provisions as par. (1) and subpar. (A), inserted par. and subpar. headings, in introductory provisions of subpar. (A) substituted “For the 2014 through 2018 crop years, the payment rate” for “The payment rate”, redesignated former pars. (1) and (2) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, added subpar. (B), and added pars. (2) and (3).
@@ -834,6 +848,9 @@ Subsec. (c). Pub. L. 115–334, § 1106(2), designated existing provisions as pa
 Subsec. (g). Pub. L. 115–334, § 1106(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Secretary shall provide a reference price with respect to temperate japonica rice in an amount equal to 115 percent of the amount established in subparagraphs (F) and (G) of [section 9011(18) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9011/18&num=0&edition=prelim) in order to reflect price premiums.”
 
 Subsec. (h). Pub. L. 115–123 added subsec. (h).
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see section 60101(a)(13) of Pub. L. 115–123, set out as a note under [section 9011 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9011).
@@ -1018,6 +1035,9 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see
 #### References in Text
 The Federal Crop Insurance Act, referred to in subsec. (c)(5), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see [section 1501 of this title](./chapter-036-crop-insurance.md#section-1501) and Tables.
 
+#### Codification
+Provisions of law applicable to a covered commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that covered commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–334, § 1107(1), in introductory provisions, inserted “(beginning with the 2019 crop year, based on the physical location of the farm)” after “payments” and “or the 2019 through 2023 crop years, as applicable” after “the 2014 through 2018 crop years”.
 
@@ -1154,6 +1174,9 @@ Section, Pub. L. 113–79, title I, § 1119, Feb. 7, 2014, 128 Stat. 673, relate
 
 #### References in Text
 The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+
+#### Codification
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Amendments
 2018—Subsec. (b)(1). Pub. L. 115–334 substituted “2023” for “2018”.
@@ -1301,6 +1324,9 @@ The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, 
 
 ### Statutory Notes
 
+#### Codification
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–334, § 1202(a)(1), substituted “2014 through 2018 crop years” for “In general” in heading.
 
@@ -1419,6 +1445,9 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 crop year, see
 
 ### Statutory Notes
 
+#### Codification
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 #### Amendments
 2018—Subsec. (e)(2)(B). Pub. L. 115–334, § 1201(b)(1), substituted “2024” for “2019” in introductory provisions.
 
@@ -1470,6 +1499,9 @@ Subsec. (h)(1). Pub. L. 115–334, § 1202(b), substituted “subsection (a)(20)
 **(e) Effective date for payment rate determination** The Secretary shall determine the amount of the loan deficiency payment to be made under this section to the producers on a farm with respect to a quantity of a loan commodity or commodity referred to in subsection (a)(2) using the payment rate in effect under subsection (c) as of the date the producers request the payment.
 
 ### Statutory Notes
+
+#### Codification
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Amendments
 2018—Subsec. (a)(2)(B). Pub. L. 115–334 substituted “2023” for “2018”.
@@ -1535,6 +1567,9 @@ Subsec. (h)(1). Pub. L. 115–334, § 1202(b), substituted “subsection (a)(20)
 Subchapter I, referred to in subsec. (b)(2)(B)(ii)(I), was in the original “subtitle A”, meaning subtitle A of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 658, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
 
 The Federal Crop Insurance Act, referred to in subsec. (d), is subtitle A of title V of act Feb. 16, 1938, ch. 30, 52 Stat. 72, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see [section 1501 of this title](./chapter-036-crop-insurance.md#section-1501) and Tables.
+
+#### Codification
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Amendments
 2018—Subsecs. (a), (d). Pub. L. 115–334 substituted “2023” for “2018” wherever appearing.
@@ -1705,6 +1740,9 @@ Subsec. (b)(2). Pub. L. 115–334, § 1204(b), substituted “113 percent” for
 
 ### Statutory Notes
 
+#### Codification
+Provisions of law applicable to a loan commodity for the 2023 crop year pursuant to title I of Pub. L. 113–79 applicable to the 2024 crop year for that loan commodity, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 #### Amendments
 2018—Subsecs. (a)(2), (b). Pub. L. 115–334, § 1205(a), substituted “2023” for “2018”.
 
@@ -1739,7 +1777,7 @@ Subsecs. (c), (d). Pub. L. 115–334, § 1205(b), added subsec. (c) and redesign
 
   (A) *Prior to revision* — In making adjustments to the loan rate for cotton (including any review of the adjustments) as provided in this subsection, the Secretary shall consult with representatives of the United States cotton industry.
 
-  (B) *Inapplicability of Federal Advisory Committee Act* — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
+  (B) *Inapplicability of chapter 10 of title 5* — Chapter 10 of title 5 shall not apply to consultations under this subsection.
 
 (4) **Review of adjustments** — The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and may make further adjustments to the administration of the loan program for upland cotton, by revoking or revising any adjustment taken under paragraph (2).
 
@@ -1750,7 +1788,8 @@ Subsecs. (c), (d). Pub. L. 115–334, § 1205(b), added subsec. (c) and redesign
 #### References in Text
 Subtitle C, referred to in subsec. (b), means subtitle C of title I of Pub. L. 113–79, Feb. 7, 2014, 128 Stat. 687, which amended sections 1359bb, 1359ll, and 7272 of this title.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (d)(3)(B). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-9052"></a>
@@ -1961,11 +2000,25 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year,
 ## § 9056. Production history of participating dairy operations
 **(a) Production history**
 
-(1) **In general** — Except as provided in subsection (b), when a dairy operation first registers to participate in dairy margin coverage, the production history of the dairy operation for dairy margin coverage is equal to the highest annual milk marketings of the participating dairy operation during any one of the 2011, 2012, or 2013 calendar years.
+(1) **In general** — Except as provided in paragraph (4) and subsection (b), when a dairy operation first registers to participate in dairy margin coverage, the production history of the dairy operation for dairy margin coverage is equal to the highest annual milk marketings of the participating dairy operation during any one of the 2011, 2012, or 2013 calendar years.
 
 (2) **Adjustment** — In the subsequent calendar years ending before January 1, 2019, the Secretary shall adjust the production history of a participating dairy operation determined under paragraph (1) to reflect any increase in the national average milk production.
 
 (3) **Continued applicability of base production history** — A production history established for a dairy operation under paragraph (1) shall be the base production history for the dairy operation in subsequent years (as adjusted under paragraph (2), as applicable).
+
+(4) **Base production history adjustment for participating dairy operations with production of less than 5,000,000 pounds**
+
+  (A) *In general* — If the amount determined under paragraph (1) is less than 5,000,000 pounds, the production history of the dairy operation for dairy margin coverage shall be equal to—
+
+    (i) the amount determined under paragraph (1); plus
+
+    (ii) 75 percent of the amount described in subparagraph (B).
+
+  (B) *Amount* — The amount referred to in subparagraph (A)(ii) is, with respect to a dairy operation, the amount equal to—
+
+    (i) the production volume of such dairy operation for the 2019 milk marketing year; minus
+
+    (ii) the amount determined under paragraph (1).
 
 **(b) Election by new dairy operations**
 
@@ -1986,6 +2039,10 @@ Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year,
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a)(1). Pub. L. 118–22, § 102(c)(2)(A)(i), inserted “paragraph (4) and” before “subsection (b)”.
+
+Subsec. (a)(4). Pub. L. 118–22, § 102(c)(2)(A)(ii), added par. (4).
+
 2018—Subsec. (a)(1). Pub. L. 115–334, § 1401(k)(6), substituted “dairy margin coverage” for “the margin protection program” in two places.
 
 Subsec. (a)(2). Pub. L. 115–334, § 1401(f)(1)(A)(i), substituted “In the subsequent calendar years ending before January 1, 2019” for “In subsequent years”.
@@ -1999,6 +2056,9 @@ Subsec. (b). Pub. L. 115–334, § 1401(f)(1)(B), designated existing provisions
 Subsec. (c). Pub. L. 115–334, § 1401(k)(6), substituted “dairy margin coverage” for “the margin protection program”.
 
 Subsec. (d). Pub. L. 115–334, § 1401(f)(2), added subsec. (d).
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of Pub. L. 115–334, set out as a note under [section 9051 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051).
@@ -2172,6 +2232,9 @@ Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of
 
 Amendment by Pub. L. 115–123 applicable beginning with the 2018 calendar year, see section 60101(b)(5) of Pub. L. 115–123, set out as a note under [section 9051 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051).
 
+#### Availability of Premium Discount
+Pub. L. 118–22, div. B, title I, § 102(c)(2)(B)(ii), Nov. 17, 2023, 137 Stat. 115, provided that: “With respect to coverage for calendar year 2024, section 1407(g) of the Agricultural Act of 2014 ([7 U.S.C. 9057(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9057/g&num=0&edition=prelim)) shall only apply to a participating dairy operation with respect to which the premium was reduced in accordance with that section for calendar year 2023.”
+
 
 <a id="section-9059"></a>
 ## § 9059. Effect of failure to pay administrative fees or premiums
@@ -2197,12 +2260,17 @@ Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of
 <a id="section-9060"></a>
 ## § 9060. Duration
 
-Dairy margin coverage shall end on December 31, 2023.
+Dairy margin coverage shall end on December 31, 2024.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Pub. L. 118–22 substituted “2024” for “2023”.
+
 2018—Pub. L. 115–334 substituted “Dairy margin coverage” for “The margin protection program” and “2023” for “2018”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–334 effective on Jan. 1, 2019, see section 1401(m) of Pub. L. 115–334, set out as a note under [section 9051 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9051).
@@ -2880,6 +2948,9 @@ The joint resolution relating to corn and wheat marketing quotas under the Agric
 
 #### Amendments
 2018—Pub. L. 115–334 substituted “2023” for “2018” wherever appearing.
+
+#### Suspension of Permanent Price Support Authorities
+Pub. L. 118–22, div. B, title I, § 102(c)(4), Nov. 17, 2023, 137 Stat. 116, provided that: “The provisions of law specified in— “(A) subsections (a) and (b) of section 1602 of the Agricultural Act of 2014 ([7 U.S.C. 9092](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9092))—“(i) shall not be applicable to the 2024 crops of covered commodities (as defined in section 1111 of that Act ([7 U.S.C. 9011](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9011))), cotton, and sugar; and “(ii) shall not be applicable to milk through December 31, 2024; and “(B) section 1602(c) of that Act ([7 U.S.C. 9092(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9092/c&num=0&edition=prelim)) shall not be applicable to the crops of wheat planted for harvest in calendar year 2024.”
 
 
 <a id="section-9094"></a>

@@ -25,23 +25,25 @@ Pub. L. 96–466, title VIII, § 802(a)(1)–(5), Oct. 17, 1980, 94 Stat. 2217, 
 
 For the purposes of this chapter—
 
-(1) The term “employment handicap” means an impairment, resulting in substantial part from a disability described in [section 3102(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/1/A&num=0&edition=prelim), of a veteran’s ability to prepare for, obtain, or retain employment consistent with such veteran’s abilities, aptitudes, and interests.
+(10) 11 So in original. Probably should be “(1)”. The term “emergency situation” has the meaning given such term in [section 3601 of this title](./chapter-036-administration-of-educational-benefits.md#section-3601).
 
-(2) The term “independence in daily living” means the ability of a veteran, without the services of others or with a reduced level of the services of others, to live and function within such veteran’s family and community.
+(2) The term “employment handicap” means an impairment, resulting in substantial part from a disability described in [section 3102(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/1/A&num=0&edition=prelim), of a veteran’s ability to prepare for, obtain, or retain employment consistent with such veteran’s abilities, aptitudes, and interests.
 
-(3) The term “program of education” has the meaning provided in [section 3452(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3452/b&num=0&edition=prelim).
+(3) The term “independence in daily living” means the ability of a veteran, without the services of others or with a reduced level of the services of others, to live and function within such veteran’s family and community.
 
-(4) The term “program of independent living services and assistance” includes (A) the services provided for in this chapter that are needed to enable a veteran to achieve independence in daily living, including such counseling, diagnostic, medical, social, psychological, and educational services as are determined by the Secretary to be needed for such veteran to achieve maximum independence in daily living, and (B) the assistance authorized by this chapter for such veteran.
+(4) The term “program of education” has the meaning provided in [section 3452(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3452/b&num=0&edition=prelim).
 
-(5) The term “rehabilitated to the point of employability” means rendered employable in an occupation for which a vocational rehabilitation program has been provided under this chapter.
+(5) The term “program of independent living services and assistance” includes (A) the services provided for in this chapter that are needed to enable a veteran to achieve independence in daily living, including such counseling, diagnostic, medical, social, psychological, and educational services as are determined by the Secretary to be needed for such veteran to achieve maximum independence in daily living, and (B) the assistance authorized by this chapter for such veteran.
 
-(6) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance authorized under [section 3120 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3120) for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
+(6) The term “rehabilitated to the point of employability” means rendered employable in an occupation for which a vocational rehabilitation program has been provided under this chapter.
 
-(7) The term “serious employment handicap” means a significant impairment, resulting in substantial part from a service-connected disability rated at 10 percent or more, of a veteran’s ability to prepare for, obtain, or retain employment consistent with such veteran’s abilities, aptitudes, and interests.
+(7) The term “rehabilitation program” means (A) a vocational rehabilitation program, or (B) a program of independent living services and assistance authorized under [section 3120 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3120) for a veteran for whom a vocational goal has been determined not to be currently reasonably feasible.
 
-(8) The term “vocational goal” means a gainful employment status consistent with a veteran’s abilities, aptitudes, and interests.
+(8) The term “serious employment handicap” means a significant impairment, resulting in substantial part from a service-connected disability rated at 10 percent or more, of a veteran’s ability to prepare for, obtain, or retain employment consistent with such veteran’s abilities, aptitudes, and interests.
 
-(9) The term “vocational rehabilitation program” includes—
+(9) The term “vocational goal” means a gainful employment status consistent with a veteran’s abilities, aptitudes, and interests.
+
+(10) The term “vocational rehabilitation program” includes—
 
   (A) the services provided for in this chapter that are needed for the accomplishment of the purposes of this chapter, including such counseling, diagnostic, medical, social, psychological, independent living, economic, educational, vocational, and employment services as are determined by the Secretary to be needed—
 
@@ -57,6 +59,8 @@ For the purposes of this chapter—
 Prior section 3101 was renumbered [section 5301 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5301).
 
 #### Amendments
+2023—Pub. L. 117–333 added par. (10) defining “emergency situation” after introductory provisions and redesignated former pars. (1) to (9) as (2) to (10), respectively.
+
 1996—Par. (1). Pub. L. 104–275, § 101(a)(1), inserted “, resulting in substantial part from a disability described in [section 3102(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/1/A&num=0&edition=prelim),” after “impairment”.
 
 Par. (6). Pub. L. 104–275, § 101(a)(2), inserted “authorized under [section 3120 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3120)” after “assistance”.
@@ -174,7 +178,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 <a id="section-3103"></a>
 ## § 3103. Periods of eligibility
-**(a)** Except as provided in subsection (b), (c), (d), (e), or (g) of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, air, or space service.
+**(a)** Except as provided in subsection (b), (c), (d), (e), (g), or (h) 11 See References in Text note below. of this section, a rehabilitation program may not be afforded to a veteran under this chapter after the end of the twelve-year period beginning on the date of such veteran’s discharge or release from active military, naval, air, or space service.
 
 **(b)**
 
@@ -209,12 +213,47 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 
 **(g)** Subsection (a) shall not apply to a veteran who was discharged or released from active military, naval, or air service on or after January 1, 2013.
 
+**(h)**
+
+(1) 22 So in original. Two subsecs. (h) have been enacted. In the case of a veteran who is eligible for a vocational rehabilitation program under this chapter and who is prevented from participating in the vocational rehabilitation program within the period of eligibility prescribed in subsection (a) because of a covered reason, as determined by the Secretary, such period of eligibility—
+
+  (A) shall not run during the period the veteran is so prevented from participating in such program; and
+
+  (B) shall again begin running on a date determined by the Secretary that is—
+
+    (i) not earlier than the first day after the veteran is able to resume participation in a vocational rehabilitation program under this chapter; and
+
+    (ii) not later than 90 days after that day.
+
+(2) In this subsection, a covered reason is—
+
+  (A) the temporary or permanent closure of an educational institution by reason of an emergency situation; or
+
+  (B) another reason that prevents the veteran from participating in the vocational rehabilitation program, as determined by the Secretary.
+
+**(h)** 2 In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter within the 12-year period of eligibility prescribed in subsection (a) due to an emergency situation, such 12-year period—
+
+(1) shall not run during the period the individual is so prevented from participating 33 So in original. Probably should be followed by “in”. such program; and
+
+(2) shall again begin running on the first day after the individual is able to resume participation in such program.
+
 ### Statutory Notes
+
+#### References in Text
+Subsection (h) of this section, referred to in subsec. (a), probably refers to both subsecs. (h) of this section. Pub. L. 117–328 and Pub. L. 117–333 each added a subsec. (h) and amended subsec. (a) to add a corresponding reference. See 2022 and 2023 Amendment notes below.
 
 #### Prior Provisions
 Prior section 3103 was renumbered [section 5303 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5303).
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 117–333, § 3(c)(1)(A), made identical amendment to that made by Pub. L. 117–328, § 233(1). See 2022 Amendment note below.
+
+Subsec. (h). Pub. L. 117–333, § 3(c)(1)(B), added subsec. (h) referring to the 12-year period of eligibility prescribed in subsec. (a).
+
+2022—Subsec. (a). Pub. L. 117–328, § 233(1), substituted “(g), or (h)” for “or (g)”.
+
+Subsec. (h). Pub. L. 117–328, § 233(2), added subsec. (h) referring to the period of eligibility prescribed in subsec. (a) because of a covered reason.
+
 2021—Subsec. (a). Pub. L. 116–315, § 1025(a)(1), substituted “(e), or (g)” for “or (e)”.
 
 Pub. L. 116–283 substituted “air, or space service” for “or air service”.
@@ -266,7 +305,7 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under [section 3100 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3100).
 
 #### Extension of Time Limitations for Use of Entitlement: Vocational Rehabilitation and Training
-Pub. L. 116–315, title I, § 1105(b), Jan. 5, 2021, 134 Stat. 4964, as amended by Pub. L. 117–76, § 5(a), Dec. 21, 2021, 135 Stat. 1520, provided that: “The subsection (g) temporarily added to [section 3103 of title 38](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3103), United States Code, by subsection (c) of such section 6 [formerly set out as a note below] is amended— “(1) in paragraph (1), by striking ‘the period the individual is so prevented from participating such program’ and inserting ‘the period beginning on March 1, 2020, and ending on June 1, 2022’; and “(2) in paragraph (2), by striking ‘the first day after the individual is able to resume participation in such program’ and inserting ‘December 22, 2021’.”
+Pub. L. 116–315, title I, § 1105(b), Jan. 5, 2021, 134 Stat. 4964, as amended by Pub. L. 117–76, § 5(a), Dec. 21, 2021, 135 Stat. 1520, amended text temporarily added by Pub. L. 116–140, § 6(c)(1), formerly set out below.
 
 Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that during Mar. 1, 2020, to Dec. 21, 2021, the Secretary of Veterans Affairs would apply subsec. (a) by striking “or (e)” and inserting “(e), or (g)” and adding subsec. (g), relating to the twelve-year period of eligibility prescribed in subsec. (a), was repealed by Pub. L. 116–315, title I, § 1025(b), Jan. 5, 2021, 134 Stat. 4960.
 
@@ -301,7 +340,7 @@ Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that
 
 (11) Services to a veteran’s family as necessary for the effective rehabilitation of such veteran.
 
-(12) For veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.
+(12) Such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for a veteran to begin self-employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.
 
 (13) Travel and incidental expenses under the terms and conditions set forth in [section 111 of this title](./chapter-001-general.md#section-111), plus, in the case of a veteran who because of such veteran’s disability has transportation expenses in addition to those incurred by persons not so disabled, a special transportation allowance to defray such additional expenses during rehabilitation, job seeking, and the initial employment stage.
 
@@ -321,11 +360,13 @@ Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that
 
 **(c)**
 
-(1) The Secretary shall have the authority to administer this chapter by prioritizing the provision of services under this chapter based on need, as determined by the Secretary. In evaluating need for purposes of this subsection, the Secretary shall consider disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and any other factor the Secretary determines appropriate.
+(1) The Secretary shall have the authority to administer this chapter by prioritizing the provision of services under this chapter based on need, as determined by the Secretary, including with respect to providing priority for services under subsection (a)(12) to veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment. In evaluating need for purposes of this subsection, the Secretary shall consider disability ratings, the severity of employment handicaps, qualification for a program of independent living, income, and any other factor the Secretary determines appropriate.
 
 (2) Not later than 90 days before making any changes to the prioritization of the provision of services under this chapter as authorized under paragraph (1), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a plan describing such changes.
 
 **(d)** The Secretary may not assist a veteran in acquiring adaptations to the residence of the veteran under this chapter. Any such assistance may be furnished only under [section 2102B of this title](./chapter-021-specially-adapted-housing-for-disabled-veterans.md#section-2102b).
+
+**(e)** In the case of any veteran whom the Secretary determines is satisfactorily following a program of employment services provided under subsection (a)(5) during the period of an emergency situation, the Secretary may pay the veteran a subsistence allowance, as prescribed in [section 3108 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3108) for full-time training for the type of program that the veteran was pursuing, for two additional months, if the Secretary determines that the veteran is negatively affected by the emergency situation.
 
 ### Statutory Notes
 
@@ -333,6 +374,12 @@ Pub. L. 116–140, § 6(c)(1), Apr. 28, 2020, 134 Stat. 633, which provided that
 Prior section 3104 was renumbered [section 5304 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5304).
 
 #### Amendments
+2023—Subsec. (a)(12). Pub. L. 117–333, § 14(a), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “For veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment, such license fees and essential equipment, supplies, and minimum stocks of materials as the Secretary determines to be necessary for such a veteran to begin employment and are within the criteria and cost limitations that the Secretary shall prescribe in regulations for the furnishing of such fees, equipment, supplies, and stocks.”
+
+Subsec. (c)(1). Pub. L. 117–333, § 14(b), inserted “, including with respect to providing priority for services under subsection (a)(12) to veterans with the most severe service-connected disabilities who require homebound training or self-employment, or both homebound training and self-employment” after “determined by the Secretary”.
+
+Subsec. (e). Pub. L. 117–333, § 4(a), added subsec. (e).
+
 2018—Subsec. (d). Pub. L. 115–177 added subsec. (d).
 
 2016—Subsec. (b). Pub. L. 114–315, § 402(a), inserted at end “To the maximum extent practicable, a course of education or training may be pursued by a veteran as part of a rehabilitation program under this chapter only if the course is approved for purposes of chapter 30 or 33 of this title. The Secretary may waive the requirement under the preceding sentence to the extent the Secretary determines appropriate.”
@@ -391,9 +438,15 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
 **(b)**
 
-(1) Except as provided in paragraph (2) 11 See Extension of Time Limitations for Use of Entitlement: Duration of Program note below. and in subsection (c), the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
+(1) Except as provided in paragraphs (2) and (3) and in subsection (c), the period of a vocational rehabilitation program for a veteran under this chapter following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed forty-eight months, except that the counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title may be provided for an additional period not to exceed eighteen months in any case in which the Secretary determines the provision of such counseling and services to be necessary to accomplish the purposes of a rehabilitation program in the individual case.
 
 (2) The period of a vocational rehabilitation program pursued by a veteran under [section 3102(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3102/b&num=0&edition=prelim) following a determination of the current reasonable feasibility of achieving a vocational goal may not exceed 12 months.
+
+(3)
+
+  (A) In any case in which the Secretary determines that a veteran has been prevented from participating in counseling and placement and postplacement services described in paragraphs (2) and (5) of [section 3104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a&num=0&edition=prelim) due to an emergency situation, the Secretary shall extend the period during which the Secretary may provide such counseling and placement and postplacement services for the veteran for a period equal to the number of months that the veteran was so prevented from participating in such counseling and services, as determined by the Secretary.
+
+  (B) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter due to an emergency situation, the Secretary shall extend the period of the veteran’s vocational rehabilitation program for a period equal to the number of months that the veteran was so prevented from participating in the vocational rehabilitation program, as determined by the Secretary.
 
 **(c)** The Secretary may extend the period of a vocational rehabilitation program for a veteran to the extent that the Secretary determines that an extension of such period is necessary to enable such veteran to achieve a vocational goal if the Secretary also determines—
 
@@ -433,6 +486,10 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 Prior section 3105 was renumbered [section 5305 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5305).
 
 #### Amendments
+2023—Subsec. (b)(1). Pub. L. 117–333, § 3(c)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (b)(3). Pub. L. 117–333, § 3(c)(2)(B), added par. (3).
+
 2018—Subsec. (e)(2). Pub. L. 115–407 substituted “12304, 12304a, or 12304b” for “or 12304”.
 
 2011—Subsec. (b). Pub. L. 112–56 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2) and in subsection (c)” for “Except as provided in subsection (c) of this section”, and added par. (2).
@@ -467,9 +524,7 @@ Amendment by Pub. L. 107–103 effective Sept. 11, 2001, see section 103(e) of P
 Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set out as a note under [section 3100 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3100).
 
 #### Extension of Time Limitations for Use of Entitlement: Duration of Program
-Pub. L. 116–140, § 6(c)(2), Apr. 28, 2020, 134 Stat. 633, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3105(b) of such title as if it were amended— “(A) in paragraph (1), by striking ‘paragraph (2)’ and inserting ‘paragraphs (2) and (3)’; and “(B) by adding at the end the following new paragraph:“ ‘(3)(A) In any case in which the Secretary determines that a veteran has been prevented from participating in counseling and placement and postplacement services described in section 3104(a)(2) and (5) of this title by reason of an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the Secretary may provide such counseling and placement and postplacement services for the veteran for a period equal to the number of months that the veteran was so prevented from participating in such counseling and services, as determined by the Secretary. “ ‘(B) In any case in which the Secretary determines that a veteran has been prevented from participating in a vocational rehabilitation program under this chapter by reason of an Executive order of the President or due to an emergency situation, the Secretary shall extend the period of the veteran’s vocational rehabilitation program for a period equal to the number of months that the veteran was so prevented from participating in the vocational rehabilitation program, as determined by the Secretary.’.”
-
-[The term “covered period” as used in section 6(c)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+Pub. L. 116–140, § 6(c)(2), Apr. 28, 2020, 134 Stat. 633, which temporarily provided for extended time to participate in counseling and placement and postplacement services and vocational rehabilitation programs, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (b)(3) of this section.
 
 
 <a id="section-3106"></a>
@@ -565,7 +620,7 @@ During the period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the pr
 
 
 <a id="section-3108"></a>
-## § 3108. Allowances 11 See Extension of Payment of Vocational Rehabilitation Subsistence Allowances note below.
+## § 3108. Allowances
 **(a)**
 
 (1) Except in the case of a veteran who makes an election under subsection (f) of this section and subject to the provisions of paragraph (3) of this subsection, each veteran shall be paid a subsistence allowance in accordance with this section during a period determined by the Secretary to be a period of such veteran’s participation under this chapter in a rehabilitation program.
@@ -711,9 +766,7 @@ Pub. L. 98–543, title II, § 205, Oct. 24, 1984, 98 Stat. 2743, provided that:
 Section effective Oct. 1, 1980, and during period beginning on Oct. 1, 1980, and ending on Mar. 31, 1981, the provisions of this section, as added by Pub. L. 96–466, title I, § 101(a), Oct. 17, 1980, 94 Stat. 2178, shall apply to veterans pursuing a program of vocational rehabilitation training under this chapter in the same manner as former [section 1504 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1504) applied to veterans pursuing such a program under this chapter on Sept. 30, 1980, see section 802(a)(2), (4) of Pub. L. 96–466, set out as an Effective Date note under [section 3100 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3100).
 
 #### Extension of Payment of Vocational Rehabilitation Subsistence Allowances
-Pub. L. 116–140, § 8, Apr. 28, 2020, 134 Stat. 634, provided that: “In the case of any veteran whom the Secretary of Veterans Affairs determines is satisfactorily following a program of employment services provided under [section 3104(a)(5) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a/5&num=0&edition=prelim), United States Code, during the covered period, the Secretary may pay the veteran a subsistence allowance, as prescribed in section 3108 of such title for full-time training for the type of program that the veteran was pursuing, for two additional months.”
-
-[The term “covered period” as used in section 8 of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+Pub. L. 116–140, § 8, Apr. 28, 2020, 134 Stat. 634, which temporarily allowed for additional subsistence allowances for certain veterans, was repealed by Pub. L. 117–333, § 4(b), Jan. 5, 2023, 136 Stat. 6128.
 
 #### Applicability of Subsection (g)(1) to Apportionments Made Before October 17, 1980
 Pub. L. 96–466, title I, § 101(c), Oct. 17, 1980, 94 Stat. 2186, provided that: “The provisions of section 1508(g)(1) [now 3108(g)(1)] of title 38, United States Code, as added by subsection (a) shall not apply to an apportionment made under section 3107(c) [now 5307(c)] of such title before the date of the enactment of this Act [Oct. 17, 1980].”
@@ -886,7 +939,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior section 3115 was renumbered [section 5315 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5315).
@@ -929,7 +982,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (b)(3), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355. Title V of the Rehabilitation Act of 1973 is classified generally to subchapter V (§ 790 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior section 3116 was renumbered [section 5316 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5316).
@@ -962,23 +1015,29 @@ Pub. L. 99–238, title II, § 202, Jan. 13, 1986, 99 Stat. 1768, as amended by 
 
   (B) utilization of employment, training, and placement services under chapter 41 of this title; and
 
-  (C) utilization of the job development and placement services of (i) programs under the Rehabilitation Act of 1973, (ii) the State employment service and the Veterans’ Employment Service of the Department of Labor, (iii) the Office of Personnel Management, (iv) any other public or nonprofit organization having placement services available, and (v) any for-profit entity in a case in which the Secretary has determined that services necessary to provide such assistance are available from such entity and that comparably effective services are not available, or cannot be obtained cost-effectively, from the entities described in subclauses (i) through (iv) of this clause.
+  (C) utilization of the job development and placement services of (i) programs under the Rehabilitation Act of 1973, (ii) the State employment service and the Veterans’ Employment Service of the Department of Labor, (iii) the Office of Personnel Management, (iv) any other public or nonprofit organization having placement services available, and (v) any for-profit entity in a case in which the Secretary has determined that services necessary to provide such assistance are available from such entity and that comparably effective services are not available, or cannot be obtained cost-effectively, from the entities described in subclauses (i) through (iv) of this subparagraph.
 
 **(b)**
 
-(1) In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran’s own business and to insure that such veteran receives the special consideration provided for in section 4(b)(1) of the Small Business Act ([15 U.S.C. 633(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section633/b/1&num=0&edition=prelim)).
+(1) In any case in which a veteran has completed a vocational rehabilitation program for self-employment in a small business enterprise under this chapter, the Secretary shall assist such veteran in securing, as appropriate, a loan under subchapter IV of chapter 37 of this title and shall cooperate with the Small Business Administration to assist such veteran to secure a loan for the purchase of equipment needed to establish such veteran’s own business and to ensure that such veteran receives the special consideration provided for in section 4(b)(1) of the Small Business Act ([15 U.S.C. 633(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section633/b/1&num=0&edition=prelim)).
 
-(2) In the case of a veteran described in clause (12) of [section 3104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a&num=0&edition=prelim) who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such clause, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
+(2) In the case of a veteran described in paragraph (12) of [section 3104(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3104/a&num=0&edition=prelim) who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such paragraph, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
 
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsec. (a)(1), (2)(C)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (a)(1), (2)(C)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified principally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior section 3117 was renumbered [section 5317 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5317).
 
 #### Amendments
+2023—Subsec. (a)(2)(C). Pub. L. 117–333, § 14(c)(1), substituted “this subparagraph” for “this clause”.
+
+Subsec. (b)(1). Pub. L. 117–333, § 14(c)(2)(A), substituted “ensure” for “insure”.
+
+Subsec. (b)(2). Pub. L. 117–333, § 14(c)(2)(B), substituted “paragraph” for “clause” in two places.
+
 2006—Subsec. (b)(1). Pub. L. 109–233 substituted “section 4(b)(1)” for “section 8” and “633(b)(1)” for “633(b)”.
 
 2002—Subsec. (a)(2)(B). Pub. L. 107–288 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “utilization of the services of disabled veterans outreach program specialists under [section 4103A of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4103a); and”.
@@ -1019,7 +1078,7 @@ Section effective Apr. 1, 1981, see section 802(a)(1) of Pub. L. 96–466, set o
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973 (29 U.S.C. ch. 16), referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973 (29 U.S.C. ch. 16), referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior section 3118 was renumbered [section 5318 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5318).

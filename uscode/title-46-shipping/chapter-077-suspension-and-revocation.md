@@ -2,7 +2,7 @@
 title: 46
 chapter: '77'
 heading: SUSPENSION AND REVOCATION
-section_count: 6
+section_count: 7
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -184,6 +184,27 @@ Subsec. (c). Pub. L. 99–36, § 1(a)(9)(G), substituted “certificate of regis
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.
+
+
+<a id="section-7704a"></a>
+## § 7704a. Sexual harassment or sexual assault as grounds for suspension or revocation
+**(a) Sexual Harassment.—** If it is shown at a hearing under this chapter that a holder of a license, certificate of registry, or merchant mariner’s document issued under this part, within 5 years before the beginning of the suspension and revocation proceedings, is the subject of an official finding of sexual harassment, then the license, certificate of registry, or merchant mariner’s document may be suspended or revoked.
+
+**(b) Sexual Assault.—** If it is shown at a hearing under this chapter that a holder of a license, certificate of registry, or merchant mariner’s document issued under this part, within 10 years before the beginning of the suspension and revocation proceedings, is the subject of an official finding of sexual assault, then the license, certificate of registry, or merchant mariner’s document shall be revoked.
+
+**(c) Official Finding.—**
+
+(1) **In general.—** — In this section, the term “official finding” means—
+
+  (A) a legal proceeding or agency finding or decision that determines the individual committed sexual harassment or sexual assault in violation of any Federal, State, local, or Tribal law or regulation; or
+
+  (B) a determination after an investigation by the Coast Guard that, by a preponderance of the evidence, the individual committed sexual harassment or sexual assault if the investigation affords appropriate due process rights to the subject of the investigation.
+
+(2) **Administrative law judge review.—**
+
+  (A) *Coast guard investigation.—* — A determination under paragraph (1)(B) shall be reviewed and affirmed by an administrative law judge within the same proceeding as any suspension or revocation of a license, certificate of registry, or merchant mariner’s document under subsection (a) or (b).
+
+  (B) *Legal proceeding.—* — A determination under paragraph (1)(A) that an individual committed sexual harassment or sexual assault is conclusive in suspension and revocation proceedings.
 
 
 <a id="section-7705"></a>

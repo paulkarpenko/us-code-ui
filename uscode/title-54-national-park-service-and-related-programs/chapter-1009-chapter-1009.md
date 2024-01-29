@@ -302,7 +302,7 @@ In subsection (e)(1), the words “in accordance with the formula and purposes e
 ## § 100906. Advisory committees
 **(a) Establishment.—** To facilitate the administration of the System, the Secretary, under such terms and conditions as the Secretary may consider advisable, may appoint and establish advisory committees in regard to the functions of the Service as the Secretary considers advisable.
 
-**(b) Charter Exception On Renewal.—** Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) is waived with respect to any advisory commission or advisory committee established by law in connection with any System unit during the period for which the commission or committee is authorized by law.
+**(b) Charter Exception On Renewal.—** [Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) is waived with respect to any advisory commission or advisory committee established by law in connection with any System unit during the period for which the commission or committee is authorized by law.
 
 **(c) Service of Members.—** Any member of any advisory commission or advisory committee established in connection with any System unit may serve after the expiration of the member’s term until a successor is appointed.
 
@@ -317,5 +317,5 @@ In subsection (e)(1), the words “in accordance with the formula and purposes e
 | 100906(b), (c) | [16 U.S.C. 1a–14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–14&num=0&edition=prelim). | Pub. L. 102–525, title III, § 301, Oct. 26, 1992, 106 Stat. 3441. |
 | 100906(d) | [16 U.S.C. 1a–2(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–2/c&num=0&edition=prelim) (words after comma). |  |
 
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “[Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)”.

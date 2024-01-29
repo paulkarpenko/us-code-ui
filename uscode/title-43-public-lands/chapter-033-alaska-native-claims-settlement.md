@@ -28,7 +28,7 @@ Congress finds and declares that—
 ### Statutory Notes
 
 #### References in Text
-The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (g), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, which is classified generally to chapter 38 (§ 3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (e). Pub. L. 115–232 substituted “sections 8721 through 8738 of title 10” for “sections 7421 through 7438 of title 10”.
@@ -658,9 +658,9 @@ Pub. L. 104–42, title I, § 109(b), Nov. 2, 1995, 109 Stat. 357, provided that
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act of 1920, referred to in subsec. (a), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
-The Alaska Statehood Act, referred to in subsecs. (b), (c), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsecs. (b), (c), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 Section 407 of the Trans-Alaska Pipeline Authorization Act, referred to in subsec. (g), probably means section 407(a) of Pub. L. 93–153, which is set out as a note below.
 
@@ -680,7 +680,7 @@ Pub. L. 93–153, title IV, § 407(a), Nov. 16, 1973, 87 Stat. 591, authorized $
 ### Statutory Notes
 
 #### References in Text
-The Alaska Statehood Act and section 6 of the Alaska Statehood Act, referred to in subsec. (b), are Pub. L. 85–508, July 7, 1958, 72 Stat. 339, and section 6 thereof, as amended, and are set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act and section 6 of the Alaska Statehood Act, referred to in subsec. (b), are Pub. L. 85–508, July 7, 1958, 72 Stat. 339, and section 6 thereof, and are set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1610"></a>
@@ -930,7 +930,7 @@ White Mountain, Bering Strait.
 ### Statutory Notes
 
 #### References in Text
-The Alaska Statehood Act, as amended, referred to in subsec. (a)(1), (2), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, as amended, referred to in subsec. (a)(1), (2), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1611"></a>
@@ -1210,11 +1210,11 @@ There is authorized to be appropriated such sums as may be necessary for the pur
 ### Statutory Notes
 
 #### References in Text
-Section 6(g) of the Alaska Statehood Act, referred to in subsec. (g), is section 6(g) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
+Section 6(g) of the Alaska Statehood Act, referred to in subsec. (g), is section 6(g) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 December 10, 2004, referred to in subsec. (h)(1)(C)(i)(I), (D), (E), (F), was in the original “the date of enactment of this paragraph”, which was translated as meaning the date of enactment of Pub. L. 108–452, which amended par. (1) of subsec. (h), to reflect the probable intent of Congress.
 
-Act of March 8, 1922, as amended, referred to in subsec. (h)(6), is act Mar. 8, 1922, ch. 96, 42 Stat. 415, as amended, which enacted sections 270–11 to 270–13 of this title. Sections 270–11 and 270–13 of this title were repealed by Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789. For complete classification of this Act to the Code, see Tables.
+Act of March 8, 1922, as amended, referred to in subsec. (h)(6), is act Mar. 8, 1922, ch. 96, 42 Stat. 415, which enacted sections 270–11 to 270–13 of this title. Sections 270–11 and 270–13 of this title were repealed by Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789. For complete classification of this Act to the Code, see Tables.
 
 Section 12 of the Act of January 2, 1976 (Public Law 94–204), as amended, referred to in subsec. (h)(6), (9), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under [section 1611 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1611).
 
@@ -1280,7 +1280,7 @@ Section was enacted as part of the Native American Technical Corrections Act of 
 ### Statutory Notes
 
 #### References in Text
-The Alaska National Interest Lands Conservation Act, referred to subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to subsec. (b), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 #### Amendments
 1980—Pub. L. 96–487 designated existing provision as subsec. (a) and added subsec. (b).
@@ -1303,7 +1303,7 @@ The Alaska National Interest Lands Conservation Act, referred to subsec. (b), is
 ### Statutory Notes
 
 #### References in Text
-The Alaska Statehood Act, as amended, referred to in subsec. (a), is Pub. L. 85–508, July 7, 1958, 72 Stat. 239, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, as amended, referred to in subsec. (a), is Pub. L. 85–508, July 7, 1958, 72 Stat. 239, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 Act of July 9, 1968 (82 Stat. 307), referred to in subsec. (c), is Pub. L. 90–392, July 9, 1968, 82 Stat. 307, known as the Second Supplemental Appropriation Act, 1968, which is not classified to the Code.
 
@@ -1362,7 +1362,7 @@ Pub. L. 94–204, § 9, added subsec. (d).
 ### Statutory Notes
 
 #### References in Text
-Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+Alaska Statehood Act, referred to in subsec. (d)(2)(A), (E), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Subsec. (a) of this section, which related to the establishment, membership, compensation, procedures, duties, and powers of the Joint Federal-State Land Use Planning Commission for Alaska, was omitted pursuant to former subsec. (a)(10) of this section, which provided that the Commission was to cease to exist effective June 30, 1979.
@@ -1468,7 +1468,7 @@ Act of June 25, 1910 (36 Stat. 363), referred to in subsec. (a), probably means 
 
 Act of May 17, 1906 (34 Stat. 197), as amended, referred to in subsecs. (a), (d)(2)(B)(i), and (f)(1), is act May 17, 1906, ch. 2469, 34 Stat. 197, which enacted sections 270–1, 270–2, and 270–3 of this title, and was repealed by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710. For complete classification of this Act to the Code, see Tables.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 Section 6 of the Act entitled “An Act to provide for the admission of the State of Alaska into the Union”, approved July 7, 1958 (commonly referred to as the “Alaska Statehood Act”), referred to in subsec. (c)(2)(B), is section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -1679,13 +1679,13 @@ This subsection shall be effective as of December 18, 1971, and, with respect to
 ### Statutory Notes
 
 #### References in Text
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(1), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 The Johnson-O’Malley Act of April 16, 1934, as amended ([25 U.S.C. 452](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section452&num=0&edition=prelim)), referred to in subsec. (e), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, which was classified to section 452 et seq. of Title 25, Indians, prior to editorial reclassification as section 5342 et seq. of Title 25. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
 Public Law 815, 81st Congress (64 Stat. 967), referred to in subsec. (e), is act Sept. 23, 1950, ch. 995, as amended generally by Pub. L. 85–620, title I, § 101, Aug. 12, 1958, 72 Stat. 548, which was classified generally to chapter 19 (§ 631 et seq.) of Title 20, Education, prior to repeal by Pub. L. 103–382, title III, § 331(a), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
-Public Law 874, 81st Congress (64 Stat. 1100), referred to in subsec. (e), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, as amended, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§ 236 et seq.) of Title 20, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
+Public Law 874, 81st Congress (64 Stat. 1100), referred to in subsec. (e), is act Sept. 30, 1950, ch. 1124, 64 Stat. 1100, popularly known as the Educational Agencies Financial Aid Act, which was classified generally to chapter 13 (§ 236 et seq.) of Title 20, prior to repeal by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1992—Subsec. (j). Pub. L. 102–415 struck out “prior to December 18, 1991,” after “A real property interest distributed” and substituted “Provided, That alienability of the Settlement Common Stock of the Corporation has not been terminated pursuant to [section 1629c of this title](./chapter-033-alaska-native-claims-settlement.md#section-1629c): Provided further, That” for “Provided, That”.
@@ -1784,7 +1784,7 @@ Subsec. (j). Pub. L. 96–487, § 1407, added subsec. (j).
 #### References in Text
 [Section 682 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section682&num=0&edition=prelim), referred to in subsec. (b), probably means [section 682a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section682a&num=0&edition=prelim) which was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A)(i), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (c)(2)(A)(i), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 Section 6(i) of the Alaska Statehood Act, referred to in subsec. (f), is section 6(i) of Pub. L. 85–508, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -1874,11 +1874,11 @@ The Secretary is authorized to issue and publish in the Federal Register, pursua
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsecs. (a) and (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsecs. (a) and (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
-The Securities Act of 1933 (48 Stat. 74), referred to in subsec. (a), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+The Securities Act of 1933 (48 Stat. 74), referred to in subsec. (a), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsecs. (a) and (c), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1988—Pub. L. 100–241 amended section generally. Prior to amendment, section read as follows: “Any corporation organized pursuant to this chapter shall be exempt from the provisions of the Investment Company Act of 1940 (54 Stat. 789) [[15 U.S.C. 80a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–1&num=0&edition=prelim) et seq.], the Securities Act of 1933 (48 Stat. 74) [[15 U.S.C. 77a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) et seq.], and the Securities Exchange Act of 1934 (48 Stat. 881), as amended [[15 U.S.C. 78a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) et seq.], through December 31, 1991. Nothing in this section, however, shall be construed to mean that any such corporation shall or shall not, after such date, be subject to the provisions of such Acts. Any such corporation which, but for this section, would be subject to the provisions of the Securities Exchange Act of 1934 shall transmit to its stockholders each year a report containing substantially all the information required to be included in an annual report to stockholders by a corporation which is subject to the provisions of such Act.”
@@ -1947,13 +1947,13 @@ none of the following, received from a Native Corporation, shall be considered o
 #### References in Text
 The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 5(a) of the Act is classified to [section 2014(a) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2014/a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 502 of P.L. 100–656, referred to in subsec. (e)(4)(B), is section 502 of title V of Pub. L. 100–656, Nov. 15, 1988, 102 Stat. 3881, which amended [section 644(g) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g&num=0&edition=prelim), Commerce and Trade.
 
-Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim) and Tables.
+Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act were contained in section 1101(b), formerly set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended, which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (g), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§ 2000a et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -2092,7 +2092,7 @@ In subsec. (a), “[section 3727 of title 31](https://uscode.house.gov/view.xhtm
 ### Statutory Notes
 
 #### References in Text
-The Alaska National Interest Lands Conservation Act, referred to in subsecs. (b) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsecs. (b) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 
 <a id="section-1629b"></a>
@@ -2168,7 +2168,7 @@ shall be considered in accordance with the provisions of this section.
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (c)(1)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c)(1)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Pub. L. 109–221, § 101(a)(1), made technical corrections to the directory language of Pub. L. 108–7, § 337(a). See 2003 Amendment notes below.
@@ -2660,9 +2660,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
-Act of May 17, 1906, referred to in subsecs. (a)(1), (b)(1)(A), (3) and (c)(1)(B), (C), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
+Act of May 17, 1906, referred to in subsecs. (a)(1), (b)(1)(A), (3) and (c)(1)(B), (C), is act May 17, 1906, ch. 2469, 34 Stat. 197, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
 
-The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (a)(3)(B), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2004—Subsec. (b)(1)(A). Pub. L. 108–452, § 306(1), inserted before semicolon at end “(except that the term ‘nonmineral’, as used in that Act, shall for the purpose of this subsection be defined as provided in [section 1634(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1634/a/3&num=0&edition=prelim), except that such definition shall not apply to land within a conservation system unit)”.
@@ -2901,7 +2901,7 @@ then the Secretary of Agriculture (hereinafter referred to as “Secretary”) s
 ### Statutory Notes
 
 #### References in Text
-The Alaska Statehood Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2019—Subsecs. (h), (i). Pub. L. 116–9 redesignated subsec. (i) as (h), struck out “and to provide assistance to Kake Tribal Corporation to meet the requirements of subsection (h)” after “pursuant to subsection (g)(2)”, and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows: “Notwithstanding any other provision of law, timber harvested from lands conveyed to Kake Tribal Corporation under this section shall not be available for export as unprocessed logs from Alaska, nor may Kake Tribal Corporation sell, trade, exchange, substitute, or otherwise convey such timber to any person for the purpose of exporting that timber from the State of Alaska.”

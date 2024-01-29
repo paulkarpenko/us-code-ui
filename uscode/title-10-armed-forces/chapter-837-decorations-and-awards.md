@@ -471,7 +471,7 @@ Section 8308, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, related to effect of r
 
 Section 8309, act Aug. 10, 1956, ch. 1041, 70A Stat. 518, provided that President prescribe a system of physical examination for all commissioned officers of Regular Air Force in grades below brigadier general to determine their fitness for promotion in Regular Air Force. See [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
 
-A prior section 8310 was renumbered [section 9160 of this title](./chapter-915-appointments-in-the-regular-air-force-and-the-regular-space-force.md#section-9160).
+A prior section 8310 was renumbered [section 9160 of this title](./chapter-915-appointments-in-the-regular-air-force-and-in-the-space-force.md#section-9160).
 
 Prior sections 8312 to 8314 were repealed by Pub. L. 96–513, title II, § 204, Dec. 12, 1980, 94 Stat. 2880, effective Sept. 15, 1981.
 

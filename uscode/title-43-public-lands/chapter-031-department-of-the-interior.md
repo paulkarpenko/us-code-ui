@@ -2,7 +2,7 @@
 title: 43
 chapter: '31'
 heading: DEPARTMENT OF THE INTERIOR
-section_count: 58
+section_count: 59
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43&num=0&edition=prelim
 ---
@@ -123,7 +123,7 @@ R.S. § 438 derived from acts Mar. 14, 1862, ch. 41, § 6, 12 Stat. 369; Mar. 3,
 Section was formerly classified to [section 482 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section482&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Transfer of Functions
-Functions, powers, and duties of Office of Audit and Investigation in Department of the Interior transferred to Office of Inspector General in Department of the Interior, as established by section 9(a)(1)(F) of Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions, powers, and duties of Office of Audit and Investigation in Department of the Interior transferred to Office of Inspector General in Department of the Interior, as established by section 9(a)(1)(F) of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees. See [section 422(a)(1)(H) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section422/a/1/H&num=0&edition=prelim).
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -427,7 +427,7 @@ Sec. 8. JUDICIAL REVIEW. This order is intended only to improve the internal man
 ### Statutory Notes
 
 #### References in Text
-The Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445), referred to in subsec. (b), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended. Title III of the Surface Mining Control and Reclamation Act of 1977 was formerly classified generally to subchapter III (§ 1221 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining, prior to the replacement of subchapter III by Pub. L. 98–409. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
+The Surface Mining Control and Reclamation Act of 1977 (91 Stat. 445), referred to in subsec. (b), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445. Title III of the Surface Mining Control and Reclamation Act of 1977 was formerly classified generally to subchapter III (§ 1221 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining, prior to the replacement of subchapter III by Pub. L. 98–409. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (b), “chapter 69 of title 31” and “[section 6904 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6904&num=0&edition=prelim)” substituted for “the Act of October 20, 1976 (90 Stat. 2662; [31 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1601&num=0&edition=prelim), et. seq.)” and “section 3 of said Act [[31 U.S.C. 1603](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1603&num=0&edition=prelim)]”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -1242,11 +1242,11 @@ Notwithstanding any other provision of law, any amounts appropriated or credited
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in text, probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in text, probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Oil Pollution Act of 1990, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, which is classified principally to chapter 40 (§ 2701 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim) and Tables.
+The Oil Pollution Act of 1990, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§ 2701 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim) and Tables.
 
 #### Codification
 Provisions of this section preceding the proviso are from title I of Pub. L. 103–138, as amended, and the proviso is from section 101(c) [title I] of Pub. L. 104–134, as amended.
@@ -1411,6 +1411,20 @@ Provisions similar to those in this section were contained in the following prio
 Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2101.
 
 
+<a id="section-1474g"></a>
+## § 1474g. Department of the Interior Nonrecurring Expenses Fund
+
+There is hereby established in the Treasury of the United States a fund to be known as the “Department of the Interior Nonrecurring Expenses Fund” (the Fund): Provided, That unobligated balances of expired discretionary funds appropriated for this or any succeeding fiscal year from the General Fund of the Treasury to the Department of the Interior by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund: Provided further, That amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for information and business technology system modernization and facilities infrastructure improvements and associated administrative expenses, including nonrecurring maintenance, necessary for the operation of the Department or its bureaus, subject to approval by the Office of Management and Budget: Provided further, That amounts in the Fund may not be obligated without written notification to and the prior approval of the Committees on Appropriations of the House of Representatives and the Senate in conformance with the reprogramming guidelines described in this Act.
+
+### Statutory Notes
+
+#### References in Text
+“This Act”, referred to in text, means div. E of Pub. L. 118–42, Mar. 9, 2024, 138 Stat. 220, see Definitions note set out below. For complete classification of this Act to the Code, see Tables.
+
+#### Definitions
+For definition of “this Act” as used in this section, see section 3 of Pub. L. 118–42, set out as a note under [section 1 of Title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section1&num=0&edition=prelim), General Provisions.
+
+
 <a id="section-1475"></a>
 ## § 1475. Bureau of Reclamation acceptance of services of volunteers
 
@@ -1420,15 +1434,15 @@ The Bureau of Reclamation may on and after September 29, 1989, accept the servic
 <a id="section-1475a"></a>
 ## § 1475a. Participation of non-Federal entities in contract negotiations and source selection proceedings
 
-On and after October 2, 1992, the Bureau of Reclamation may invite non-Federal entities involved in cost sharing arrangements for the development of water projects to participate in contract negotiation and source selection proceedings without invoking provisions of the Federal Advisory Committee Act (5 U.S.C. Appendix (1988)): Provided, That such non-Federal participants shall be subject to the provisions of chapter 21 of title 41 and to the conflict of interest provisions appearing at [18 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section201&num=0&edition=prelim) et seq. (1988).
+On and after October 2, 1992, the Bureau of Reclamation may invite non-Federal entities involved in cost sharing arrangements for the development of water projects to participate in contract negotiation and source selection proceedings without invoking provisions of chapter 10 of title 5: Provided, That such non-Federal participants shall be subject to the provisions of chapter 21 of title 41 and to the conflict of interest provisions appearing at [18 U.S.C. 201](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section201&num=0&edition=prelim) et seq. (1988).
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 In text, “chapter 21 of title 41” substituted for “the Federal Procurement Integrity Act ([41 U.S.C. 423](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section423&num=0&edition=prelim) (1988))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 10 of title 5:” for “the Federal Advisory Committee Act (5 U.S.C. Appendix (1988)):”.
 
 
 <a id="section-1475b"></a>

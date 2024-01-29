@@ -2,7 +2,7 @@
 title: 15
 chapter: 2B
 heading: SECURITIES EXCHANGES
-section_count: 94
+section_count: 95
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -14,7 +14,10 @@ This chapter may be cited as the “Securities Exchange Act of 1934.”
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, 78pp, and 78qq of this title. Sections 78kk, 78ll, 78nn, and 78oo of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “This Act” meaning the Securities Exchange Act of 1934, act June 6, 1934, ch. 404. The act was divided into two titles as follows: “Title I—Regulation of Securities Exchanges” and “Title II—Amendments to Securities Act of 1933.” This section was section 1 of title I of the Act, which title, as amended, is set out as sections 78a to 78d–5, 78e to 78l, 78m, 78m–1, 78n to 78o, 78o–3, 78o–4, 78o–5 to 78o–7, 78o–10 to 78u–6, 78v to 78dd–1, 78ee to 78hh, 78mm, and 78pp to 78rr of this title. Sections 78kk, 78ll, 78nn, 78oo, and 78rr of this title, which were directed to be added at the end of the Securities Exchange Act of 1934, have been treated in the Code as added to title I of the Act to reflect the probable intent of Congress. See Codification notes set out under those sections. Title II of the act amended or repealed sections 77b, 77c, 77d, 77e, 77j, 77k, 77m, 77o, and 77s of this title, and added former sections 78ii and 78jj of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Short Title 2022 Amendment
+Pub. L. 117–263, div. E, title LVIII, § 5801, Dec. 23, 2022, 136 Stat. 3421, provided that: “This title [enacting sections 77z–4 and 78rr of this title and sections 14a, 253, 1772e, 1772f, 1831cc, 1831dd, 4527, 4528, 5334, 5335, 5498, and 5499 of Title 12, Banks and Banking, amending sections 77g, 78d, 78m, 78n, 78o–3, 78o–4, 78o–7, 80a–8, 80a–29, and 80b–4 of this title and sections 1467a, 1844, 5361, and 5468 of Title 12, enacting provisions set out as notes under sections 77g, 78o–3, 78o–4, and 78rr of this title and sections 14a, 253, 1772e, 1831cc, 4527, 5334, 5335, and 5498 of Title 12, and amending provisions set out as a note under [section 5491 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5491&num=0&edition=prelim)] may be cited as the ‘Financial Data Transparency Act of 2022’.”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–141, div. S, title IX, § 901, Mar. 23, 2018, 132 Stat. 1143, provided that: “This title [amending [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d)] may be cited as the ‘Small Business Access to Capital After a Natural Disaster Act’.”
@@ -2467,12 +2470,26 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 (9) **Rule of construction** — Nothing in this subsection may be construed as replacing or reducing the responsibilities of the Investor Advocate with respect to small business investors.
 
+**(k) Open data publication** All public data assets published by the Commission under the securities laws and the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—
+
+(1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (a), (g)(4)(D)(ii), and (j)(4)(D)(ii), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (k), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§ 5301 et seq.) of Title 12, Banks and Banking, and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of this title, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–263 added subsec. (k).
+
 2018—Subsec. (j)(4)(C), (6)(B)(iii). Pub. L. 115–141 substituted “minority-owned small businesses, women-owned small businesses, and small businesses affected by hurricanes or other natural disasters” for “minority-owned and women-owned small businesses”.
 
 2016—Subsec. (j). Pub. L. 114–284 added subsec. (j).
@@ -2520,6 +2537,9 @@ For effective date of amendment by Pub. L. 88–426, see section 501 of Pub. L. 
 
 #### Repeals
 Act Oct. 28, 1949, ch. 782, set out in the credit of this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
 
 #### Outreach by the Commission
 Pub. L. 112–106, title VII, § 701, Apr. 5, 2012, 126 Stat. 327, provided that: “The Securities and Exchange Commission shall provide online information and conduct outreach to inform small and medium sized businesses, women owned businesses, veteran owned businesses, and minority owned businesses of the changes made by this Act [see Short Title of 2012 Amendment note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a)].”
@@ -3549,6 +3569,10 @@ Pub. L. 107–123, § 9, Jan. 16, 2002, 115 Stat. 2400, provided that: “(a) St
 Pub. L. 104–208, div. A, title I, § 101(a) [title V], Sept. 30, 1996, 110 Stat. 3009, 3009–61, provided in part: “That effective January 1, 1997, every national securities association shall pay to the Commission a fee at a rate of one-three-hundredth of one percentum of the aggregate dollar amount of sales transacted by or through any member of such association otherwise than on a national securities exchange (other than bonds, debentures, and other evidences of indebtedness) subject to prompt last sale reporting pursuant to the rules of the Commission or a registered national securities association, excluding any sales for which a fee is paid under section 31 of the Securities Exchange Act of 1934 ([15 U.S.C. 78ee](./chapter-2b-securities-exchanges.md#section-78ee)), and such increase shall be deposited as an offsetting collection to this appropriation, to remain available until expended, to recover the costs to the Government of the supervision and regulation of securities markets and securities professionals: Provided further, That the fee due from every national securities association shall be paid on or before September 30, 1997, with respect to transactions and sales occurring during the period beginning on January 1, 1997, and ending at the close of August 31, 1997”.
 
 #### Adjustment of Transaction Fee Rate
+By order dated Jan. 26, 2023, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $8.00 per $1,000,000, effective Feb. 27, 2023, see 88 F.R. 5051.
+
+By order dated Apr. 8, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.90 per $1,000,000, effective May 14, 2022, see 87 F.R. 21931.
+
 By order dated Jan. 15, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $5.10 per $1,000,000, effective Feb. 25, 2021, see 86 F.R. 6694.
 
 By order dated Jan. 9, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsecs. (b) and (c) of this section to $22.10 per $1,000,000, effective Feb. 18, 2020, see 85 F.R. 2218.
@@ -4396,8 +4420,12 @@ Pub. L. 111–203, title IX, § 984(b), July 21, 2010, 124 Stat. 1933, provided 
 #### Prohibition of Insider Trading
 Pub. L. 112–105, § 4(a), Apr. 4, 2012, 126 Stat. 292, provided that: “Members of Congress and employees of Congress are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [[15 U.S.C. 78j(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78j/b&num=0&edition=prelim)] and Rule 10b–5 thereunder.”
 
+[For definitions of “Member of Congress” and “employee of Congress”, see section 2 of Pub. L. 112–105, set out as a Definitions note under [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim), Government Organization and Employees.]
+
 #### Application of Insider Trading Laws
 Pub. L. 112–105, § 9(b)(1), Apr. 4, 2012, 126 Stat. 297, provided that: “Executive branch employees, judicial officers, and judicial employees are not exempt from the insider trading prohibitions arising under the securities laws, including section 10(b) of the Securities Exchange Act of 1934 [[15 U.S.C. 78j(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78j/b&num=0&edition=prelim)] and Rule 10b–5 thereunder.”
+
+[For definitions of “executive branch employees”, “judicial officers”, and “judicial employees”, see section 2 of Pub. L. 112–105, set out as a Definitions note under [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim), Government Organization and Employees.]
 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
@@ -4931,7 +4959,7 @@ Section effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as
 
 (3) The Commission is authorized in furtherance of the directive in paragraph (2) of this subsection—
 
-  (A) to create one or more advisory committees pursuant to the Federal Advisory Committee Act (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section) and to employ one or more outside experts;
+  (A) to create one or more advisory committees pursuant to chapter 10 of title 5 (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section),22 So in original. The comma probably should not appear. and to employ one or more outside experts;
 
   (B) by rule or order, to authorize or require self-regulatory organizations to act jointly with respect to matters as to which they share authority under this chapter in planning, developing, operating, or regulating a national market system (or a subsystem thereof) or one or more facilities thereof; and
 
@@ -5037,9 +5065,9 @@ Section effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as
 #### References in Text
 This chapter, referred to in text, was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(3)(A), is Pub. L. 92–436, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a)(3)(A). Pub. L. 117–286 substituted “chapter 10 of title 5 (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section),” for “the Federal Advisory Committee Act (which shall be in addition to the National Market Advisory Board established pursuant to subsection (d) of this section)”.
+
 2012—Subsec. (c)(6). Pub. L. 112–106 added par. (6).
 
 2000—Subsec. (e). Pub. L. 106–554 added subsec. (e).
@@ -5059,7 +5087,7 @@ Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, s
 Section effective June 4, 1975, except for subsec. (b) which is effective 180 days after June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under [section 78b of this title](./chapter-2b-securities-exchanges.md#section-78b).
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-78l"></a>
@@ -6039,6 +6067,12 @@ Every issuer of a security registered on a national securities exchange shall al
 
 (6) **Sunset** — The provisions of this subsection shall terminate on the date that is 30 days after the date on which the President makes the certification described in [section 8551(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section8551/a&num=0&edition=prelim).
 
+**(s) Data standards**
+
+(1) **Requirement** — The Commission shall, by rule, adopt data standards for all collections of information with respect to periodic and current reports required to be filed or furnished under this section or under section 78o(d) of this title, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -6061,6 +6095,8 @@ Executive Order No. 13224, referred to in subsec. (r)(1)(D)(i), is Ex. Ord. No. 
 Executive Order No. 13382, referred to in subsec. (r)(1)(D)(ii), is Ex. Ord. No. 13382, June 28, 2005, 70 F.R. 38567, which is listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
 
 #### Amendments
+2022—Subsec. (s). Pub. L. 117–263 added subsec. (s).
+
 2015—Subsec. (n)(5)(G). Pub. L. 114–94, § 86001(c)(1)(A), substituted “make available security-based swap” for “make available all” in introductory provisions.
 
 Subsec. (n)(5)(G)(v)(IV). Pub. L. 114–94, § 86001(c)(1)(B), added subcl. (IV)
@@ -6174,6 +6210,9 @@ Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L
 #### Effective Date of 1964 Amendment
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
 
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
+
 #### Improving Access to Capital
 Pub. L. 115–174, title V, § 508, May 24, 2018, 132 Stat. 1364, provided that: “The Securities and Exchange Commission shall amend— “(1) section 230.251 of title 17, Code of Federal Regulations, to remove the requirement that the issuer not be subject to section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.) [[15 U.S.C. 78m](./chapter-2b-securities-exchanges.md#section-78m), 78o(d)] immediately before the offering; and “(2) section 230.257 of title 17, Code of Federal Regulations, with respect to an offering described in section 230.251(a)(2) of title 17, Code of Federal Regulations, to deem any issuer that is subject to section 13 or 15(d) of the Securities Exchange Act of 1934 as having met the periodic and current reporting requirements of section 230.257 of title 17, Code of Federal Regulations, if such issuer meets the reporting requirements of section 13 of the Securities Exchange Act of 1934.”
 
@@ -6190,7 +6229,11 @@ Pub. L. 111–203, title XV, § 1502, July 21, 2010, 124 Stat. 2213, as amended 
 Pub. L. 106–102, title II, § 241, Nov. 12, 1999, 113 Stat. 1407, provided that: “(a) In General.—The Securities and Exchange Commission shall consult and coordinate comments with the appropriate Federal banking agency before taking any action or rendering any opinion with respect to the manner in which any insured depository institution or depository institution holding company reports loan loss reserves in its financial statement, including the amount of any such loan loss reserve. “(b) Definitions.—For purposes of subsection (a), the terms ‘insured depository institution’, ‘depository institution holding company’, and ‘appropriate Federal banking agency’ have the same meaning as given in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813&num=0&edition=prelim)].”
 
 #### Adjustment of Registration Fee Rate
-By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+By order dated Aug. 25, 2023, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $147.60 per $1,000,000, effective Oct. 1, 2023, see 88 F.R. 59953.
+
+By order dated Aug. 25, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $110.20 per $1,000,000, effective Oct. 1, 2022, see 87 F.R. 53030.
+
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
 
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (e) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
@@ -6560,6 +6603,12 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 
 (2) held, directly or indirectly, by the employee or member of the board of directors.
 
+**(k) Data standards for proxy and consent solicitation materials**
+
+(1) **Requirement** — The Commission shall, by rule, adopt data standards for all information contained in any proxy or consent solicitation material prepared by an issuer for an annual meeting of the shareholders of the issuer, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -6570,6 +6619,8 @@ The Investment Company Act of 1940, referred to in subsecs. (b)(1), (c), (d)(1),
 The Securities Act of 1933, referred to in subsec. (h)(5)(C), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–263 added subsec. (k).
+
 2012—Subsec. (i). Pub. L. 112–106 inserted “, for any issuer other than an emerging growth company,” after “including”.
 
 2010—Subsec. (a). Pub. L. 111–203, § 971(a), designated existing provisions as par. (1) and added par. (2).
@@ -6640,6 +6691,9 @@ Pub. L. 111–203, title IX, § 971(b), (c), July 21, 2010, 124 Stat. 1915, prov
 
 Pub. L. 103–202, title III, § 302(b), Dec. 17, 1993, 107 Stat. 2363, provided that: “The Securities and Exchange Commission shall conduct rulemaking proceedings and prescribe final regulations under the Securities Act of 1933 [[15 U.S.C. 77a](./chapter-2a-securities-and-trust-indentures.md#section-77a) et seq.] and the Securities Exchange Act of 1934 [[15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.] to implement the requirements of section 14(h) of the Securities Exchange Act of 1934 [[15 U.S.C. 78n(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78n/h&num=0&edition=prelim)], as amended by subsection (a), and such regulations shall become effective not later than 12 months after the date of enactment of this Act [Dec. 17, 1993].”
 
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
+
 #### Construction of 1993 Amendment
 Amendment by Pub. L. 103–202 not to limit authority of Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of this chapter or preclude the Commission or such association or exchange from imposing a remedy or procedure required to be imposed under such amendment, see section 304(b) of Pub. L. 103–202, set out in an Effective Date of 1993 Amendment note under [section 78f of this title](./chapter-2b-securities-exchanges.md#section-78f).
 
@@ -6650,7 +6704,11 @@ Pub. L. 104–290, title V, § 510(b), Oct. 11, 1996, 110 Stat. 3450, provided t
 Pub. L. 103–202, title III, § 302(c), Dec. 17, 1993, 107 Stat. 2363, provided that the Comptroller General of the United States should, within 18 months after Dec. 17, 1993, conduct a study of the use of fairness opinions in limited partnership rollup transactions, the standards which preparers use in making determinations of fairness, the scope of review, quality of analysis, qualifications and methods of selection of preparers, costs of preparation, and any limitations imposed by issuers on such preparers, the nature and quality of disclosures provided with respect to such opinions, any conflicts of interest concerning such opinions, and the usefulness of the opinions to limited partners, with a report required to be sent to Congress by the end of the 18-month period.
 
 #### Adjustment of Registration Fee Rate
-By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (b) of this section to $92.71 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
+By order dated Aug. 25, 2023, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $147.60 per $1,000,000, effective Oct. 1, 2023, see 88 F.R. 59953.
+
+By order dated Aug. 25, 2022, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $110.20 per $1,000,000, effective Oct. 1, 2022, see 87 F.R. 53030.
+
+By order dated Aug. 23, 2021, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $92.70 per $1,000,000, effective Oct. 1, 2021, see 86 F.R. 47696.
 
 By order dated Aug. 26, 2020, the Securities and Exchange Commission adjusted the fee rates applicable under subsec. (g) of this section to $109.10 per $1,000,000, effective Oct. 1, 2020, see 85 F.R. 53890.
 
@@ -6925,6 +6983,107 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
     (vi) Subsections (d), (e), (f), (g), (h), and (i) 3 of [section 78q of this title](./chapter-2b-securities-exchanges.md#section-78q).
 
+(13) **Registration exemption for merger and acquisition brokers.—**
+
+  (A) *In general.—* — Except as provided in subparagraph (B), an M&A broker shall be exempt from registration under this section.
+
+  (B) *Excluded activities.—* — An M&A broker is not exempt from registration under this paragraph if such broker does any of the following:
+
+    (i) Directly or indirectly, in connection with the transfer of ownership of an eligible privately held company, receives, holds, transmits, or has custody of the funds or securities to be exchanged by the parties to the transaction.
+
+    (ii) Engages on behalf of an issuer in a public offering of any class of securities that is registered, or is required to be registered, with the Commission under section 78l of this title or with respect to which the issuer files, or is required to file, periodic information, documents, and reports under subsection (d).
+
+    (iii) Engages on behalf of any party in a transaction involving a shell company, other than a business combination related shell company.
+
+    (iv) Directly, or indirectly through any of its affiliates, provides financing related to the transfer of ownership of an eligible privately held company.
+
+    (v) Assists any party to obtain financing from an unaffiliated third party without—
+
+      (I) complying with all other applicable laws in connection with such assistance, including, if applicable, Regulation T (12 C.F.R. 220 et seq.); and
+
+      (II) disclosing any compensation in writing to the party.
+
+    (vi) Represents both the buyer and the seller in the same transaction without providing clear written disclosure as to the parties the broker represents and obtaining written consent from both parties to the joint representation.
+
+    (vii) Facilitates a transaction with a group of buyers formed with the assistance of the M&A broker to acquire the eligible privately held company.
+
+    (viii) Engages in a transaction involving the transfer of ownership of an eligible privately held company to a passive buyer or group of passive buyers.
+
+    (ix) Binds a party to a transfer of ownership of an eligible privately held company.
+
+  (C) *Disqualification.—* — An M&A broker is not exempt from registration under this paragraph if such broker (and if and as applicable, including any officer, director, member, manager, partner, or employee of such broker)—
+
+    (i) has been barred from association with a broker or dealer by the Commission, any State, or any self-regulatory organization; or
+
+    (ii) is suspended from association with a broker or dealer.
+
+  (D) *Rule of construction.—* — Nothing in this paragraph shall be construed to limit any other authority of the Commission to exempt any person, or any class of persons, from any provision of this chapter, or from any provision of any rule or regulation thereunder.
+
+  (E) *Definitions.—* — In this paragraph:
+
+    (i) *Business combination related shell company.—* — The term “business combination related shell company” means a shell company that is formed by an entity that is not a shell company—
+
+      (I) solely for the purpose of changing the corporate domicile of that entity solely within the United States; or
+
+      (II) solely for the purpose of completing a business combination transaction (as defined under section 230.165(f) of title 17, Code of Federal Regulations) among one or more entities other than the company itself, none of which is a shell company.
+
+    (ii) *Control.—* — The term “control” means the power, directly or indirectly, to direct the management or policies of a company, whether through ownership of securities, by contract, or otherwise. There is a presumption of control if, upon completion of a transaction, the buyer or group of buyers—
+
+      (I) has the right to vote 25 percent or more of a class of voting securities or the power to sell or direct the sale of 25 percent or more of a class of voting securities; or
+
+      (II) in the case of a partnership or limited liability company, has the right to receive upon dissolution, or has contributed, 25 percent or more of the capital.
+
+    (iii) *Eligible privately held company.—* — The term “eligible privately held company” means a privately held company that meets both of the following conditions:
+
+      (I) The company does not have any class of securities registered, or required to be registered, with the Commission under section 78l of this title or with respect to which the company files, or is required to file, periodic information, documents, and reports under subsection (d).
+
+      (II) In the fiscal year ending immediately before the fiscal year in which the services of the M&A broker are initially engaged with respect to the securities transaction, the company meets either or both of the following conditions (determined in accordance with the historical financial accounting records of the company):
+
+        (aa) The earnings of the company before interest, taxes, depreciation, and amortization are less than $25,000,000.
+
+        (bb) The gross revenues of the company are less than $250,000,000.
+      For purposes of this subclause, the Commission may by rule modify the dollar figures if the Commission determines that such a modification is necessary or appropriate in the public interest or for the protection of investors.
+
+    (iv) *M&A broker.—* — The term “M&A broker” means a broker, and any person associated with a broker, engaged in the business of effecting securities transactions solely in connection with the transfer of ownership of an eligible privately held company, regardless of whether the broker acts on behalf of a seller or buyer, through the purchase, sale, exchange, issuance, repurchase, or redemption of, or a business combination involving, securities or assets of the eligible privately held company, if the broker reasonably believes that—
+
+      (I) upon consummation of the transaction, any person acquiring securities or assets of the eligible privately held company, acting alone or in concert—
+
+        (aa) will control the eligible privately held company or the business conducted with the assets of the eligible privately held company; and
+
+        (bb) directly or indirectly, will be active in the management of the eligible privately held company or the business conducted with the assets of the eligible privately held company, including without limitation, for example, by—
+
+          (AA) electing executive officers;
+
+          (BB) approving the annual budget;
+
+          (CC) serving as an executive or other executive manager; or
+
+          (DD) carrying out such other activities as the Commission may, by rule, determine to be in the public interest; and
+
+      (II) if any person is offered securities in exchange for securities or assets of the eligible privately held company, such person will, prior to becoming legally bound to consummate the transaction, receive or have reasonable access to the most recent fiscal year-end financial statements of the issuer of the securities as customarily prepared by the management of the issuer in the normal course of operations and, if the financial statements of the issuer are audited, reviewed, or compiled, any related statement by the independent accountant, a balance sheet dated not more than 120 days before the date of the offer, and information pertaining to the management, business, results of operations for the period covered by the foregoing financial statements, and material loss contingencies of the issuer.
+
+    (v) *Shell company.—* — The term “shell company” means a company that at the time of a transaction with an eligible privately held company—
+
+      (I) has no or nominal operations; and
+
+      (II) has—
+
+        (aa) no or nominal assets;
+
+        (bb) assets consisting solely of cash and cash equivalents; or
+
+        (cc) assets consisting of any amount of cash and cash equivalents and nominal other assets.
+
+  (F) *Inflation adjustment.—*
+
+    (i) *In general.—* — On the date that is 5 years after December 29, 2022, and every 5 years thereafter, each dollar amount in subparagraph (E)(iii)(II) shall be adjusted by—
+
+      (I) dividing the annual value of the Employment Cost Index For Wages and Salaries, Private Industry Workers (or any successor index), as published by the Bureau of Labor Statistics, for the calendar year preceding the calendar year in which the adjustment is being made by the annual value of such index (or successor) for the calendar year ending December 31, 2020; and
+
+      (II) multiplying such dollar amount by the quotient obtained under subclause (I).
+
+    (ii) *Rounding.—* — Each dollar amount determined under clause (i) shall be rounded to the nearest multiple of $100,000.
+
 **(c) Use of manipulative or deceptive devices; contravention of rules and regulations**
 
 (1)
@@ -7033,7 +7192,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
   (C) *Definition* — For purposes of this paragraph, the term “State” includes the District of Columbia and the territories of the United States.
 
-(3) **De minimis transactions by associated persons** — No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) for a customer in such State if—
+(3) **De minimis transactions by associated persons** — No law, rule, regulation, or order, or other administrative action of any State or political subdivision thereof may prohibit an associated person of a broker or dealer from effecting a transaction described in paragraph (3) 3 for a customer in such State if—
 
   (A) such associated person is not ineligible to register with such State for any reason other than such a transaction;
 
@@ -7172,7 +7331,7 @@ the Commission shall seek to prosecute and sanction violators of the standard of
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(2)(B), (C), (3), (4)(A), (D), (E), (11)(B), (12)(B), (c)(3)(B), (8), (f), (g), and (i)(1), was in the original “this title”, and this chapter, referred to in subsecs. (k)(1) and (m), was in the original “this Act”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
+This chapter, referred to in subsecs. (b)(2)(B), (C), (3), (4)(A), (D), (E), (11)(B), (12)(B), (13)(D), (c)(3)(B), (8), (f), (g), and (i)(1), was in the original “this title”, and this chapter, referred to in subsecs. (k)(1) and (m), was in the original “this Act”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
 The Commodity Exchange Act, referred to in subsecs. (b)(4)(B)(ii), (C) to (E) and (c)(3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
@@ -7184,9 +7343,13 @@ The Investment Company Act of 1940, referred to in subsec. (b)(4)(D), (E), is ti
 
 Subsection (i) of [section 78q of this title](./chapter-2b-securities-exchanges.md#section-78q), referred to in subsec. (b)(11)(B)(vi), (12)(B)(vi), was struck out and subsec. (j) was redesignated (i) by Pub. L. 111–203, title VI, § 617(a), July 21, 2010, 124 Stat. 1616.
 
+Paragraph (3), referred to in subsec. (i)(3), was redesignated as paragraph (4) of subsec. (i) of this section by Pub. L. 112–106, title III, § 305(d)(1)(A), Apr. 5, 2012, 126 Stat. 323.
+
 Section 206 of the Gramm-Leach-Bliley Act, referred to in subsec. (j)(6)(A)(ii), (iii), is section 206 of Pub. L. 106–102, which is set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
 
 #### Amendments
+2022—Subsec. (b)(13). Pub. L. 117–328 added par. (13).
+
 2015—Subsec. (d). Pub. L. 114–94 substituted “case of a bank, a savings and loan holding company (as defined in [section 1467a of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a&num=0&edition=prelim)),” for “case of bank”.
 
 2012—Subsec. (d)(1). Pub. L. 112–106, § 601(b), substituted “300 persons, or, in the case of bank or a bank holding company, as such term is defined in [section 1841 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841&num=0&edition=prelim), 1,200 persons” for “three hundred”.
@@ -7378,6 +7541,9 @@ Subsec. (d). Pub. L. 88–467, § 6(d), substituted provisions which require eve
 1938—Subsec. (c)(2), (3). Act June 25, 1938, added pars. (2) and (3).
 
 1936—Act May 27, 1936, amended section generally.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. AA, title V, § 501(b), Dec. 29, 2022, 136 Stat. 5542, provided that: “This section [amending this section] and any amendment made by this section shall take effect on the date that is 90 days after the date of enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 2010 Amendment
 Amendment by sections 173(c), 913(g)(1), (h)(1), 919, 921(a), 925(a)(1), 929L(3), 929X(c), 942(a), and 985(b)(5)(A) of Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
@@ -8263,6 +8429,12 @@ Section was not enacted as a part of the Securities Exchange Act of 1934 which c
 
 **(m) Procedures and rules for security future products** A national securities association registered pursuant to subsection (a) shall, not later than 8 months after December 21, 2000, implement the procedures specified in [section 78f(h)(5)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78f/h/5/A&num=0&edition=prelim) and adopt the rules specified in subparagraphs (B) and (C) of [section 78f(h)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78f/h/5&num=0&edition=prelim).
 
+**(n) Data standards**
+
+(1) **Requirement** — A national securities association registered pursuant to subsection (a) shall adopt data standards for all information that is regularly filed with or submitted to the association.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -8275,6 +8447,8 @@ Sections 77d(2) and 77d(6) of this title, referred to in subsec. (j), were redes
 Subsection (k) of [section 78q of this title](./chapter-2b-securities-exchanges.md#section-78q), referred to in subsec. (k)(4)(C), was redesignated subsec. (j) by Pub. L. 111–203, title VI, § 617(a)(2), July 21, 2010, 124 Stat. 1616.
 
 #### Amendments
+2022—Subsec. (n). Pub. L. 117–263 added subsec. (n).
+
 2010—Subsec. (b)(15). Pub. L. 111–203 added par. (15).
 
 2006—Subsec. (b)(14). Pub. L. 109–290, § 5, added par. (14).
@@ -8382,6 +8556,12 @@ Amendment by Pub. L. 94–29 effective 180 days after June 4, 1975, see section 
 #### Effective Date of 1964 Amendment
 Amendment by Pub. L. 88–467 effective Aug. 20, 1964, see section 13 of Pub. L. 88–467, set out as a note under [section 78c of this title](./chapter-2b-securities-exchanges.md#section-78c).
 
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5824(b), Dec. 23, 2022, 136 Stat. 3428, provided that: “(1) In general.—Not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5811/a&num=0&edition=prelim), each national securities association registered pursuant to section 15A(a) of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o–3(a)) shall issue rules to adopt the standards required under subsection (n) of section 15A of the Securities Exchange Act of 1934 ([15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o–3), as added by subsection (a) of this section. “(2) Scaling of regulatory requirements; minimizing disruption.—In issuing the rules required under paragraph (1), a national securities association described in that paragraph—“(A) may scale data reporting requirements in order to reduce any unjustified burden on smaller regulated entities; and “(B) shall seek to minimize disruptive changes to the persons affected by those standards.”
+
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
+
 #### Construction of 1993 Amendment
 Amendment by section 106(b)(1) of Pub. L. 103–202 not to be construed to govern initial issuance of any public debt obligation or to grant any authority to (or extend any authority of) the Securities and Exchange Commission, any appropriate regulatory agency, or a self-regulatory organization to prescribe any procedure, term, or condition of such initial issuance, to promulgate any rule or regulation governing such initial issuance, or to otherwise regulate in any manner such initial issuance, see section 111 of Pub. L. 103–202, set out as a note under section 78o–5 of this title.
 
@@ -8488,7 +8668,17 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
     (ii) examination and enforcement of compliance with Board rules.
 
-(7) 22 So in original. Probably should be “(6)”. Nothing in this section shall be construed to impair or limit the power of the Commission under this chapter.
+(7) 22 So in original. No par. (6) has been enacted. Nothing in this section shall be construed to impair or limit the power of the Commission under this chapter.
+
+(8)
+
+  (A) The Commission shall adopt data standards for information submitted to the Board.
+
+  (B) Any data standards adopted under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+  (C) The Commission shall consult market participants in establishing data standards under subparagraph (A).
+
+  (D) Nothing in this paragraph may be construed to affect the operation of paragraph (1) or (2) of subsection (d).
 
 **(c) Discipline of municipal securities dealers; censure; suspension or revocation of registration; other sanctions; investigations**
 
@@ -8592,6 +8782,8 @@ The Investment Advisers Act of 1940, referred to in subsec. (e)(4)(C), is title 
 The Commodity Exchange Act, referred to in subsec. (e)(4)(C), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(8). Pub. L. 117–263 added par. (8).
+
 2010—Subsec. (a)(1). Pub. L. 111–203, § 975(a)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (a)(2), (3). Pub. L. 111–203, § 975(a)(2), (3), inserted “or municipal advisor” after “municipal securities dealer” wherever appearing.
@@ -8682,6 +8874,12 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 
 #### Effective Date
 Section effective June 4, 1975, except for subsec. (a) which is effective 180 days after June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under [section 78b of this title](./chapter-2b-securities-exchanges.md#section-78b).
+
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5823(b), Dec. 23, 2022, 136 Stat. 3428, provided that: “(1) In general.—Not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section5811/a&num=0&edition=prelim), the Securities and Exchange Commission shall issue rules to adopt the data standards required under paragraph (8) of section 15B(b) of the Securities Exchange Act of 1934 ([15 U.S.C. 78o–4(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78o–4/b&num=0&edition=prelim)), as added by subsection (a) of this section. “(2) Scaling of regulatory requirements; minimizing disruption.—In issuing the rules described in paragraph (1) that adopt the data standards described in that paragraph, the Securities and Exchange Commission—“(A) may scale those data standards in order to reduce any unjustified burden on smaller regulated entities; and “(B) shall seek to minimize disruptive changes to the persons affected by those rules.”
+
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
 
 
 <a id="section-78o-4a"></a>
@@ -8835,9 +9033,9 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 
   (A) With respect to any government securities broker or government securities dealer which is not registered or required to register under subsection (a)(1)(A) of this section, the appropriate regulatory agency for such government securities broker or government securities dealer may, in the manner and for the reasons specified in paragraph (1)(A) of this subsection, censure, place limitations on the activities, functions, or operations of, suspend for a period not exceeding 12 months, or bar from acting as a government securities broker or government securities dealer any such government securities broker or government securities dealer, and may sanction any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with such government securities broker or government securities dealer in the manner and for the reasons specified in paragraph (1)(C) of this subsection.
 
-  (B) In addition, where applicable, such appropriate regulatory agency may, in accordance with [section 1818 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818&num=0&edition=prelim), [section 1464 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464&num=0&edition=prelim), or section 1730 22 See References in Text note below. of title 12, enforce compliance by such government securities broker or government securities dealer or any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with such government securities broker or government securities dealer with the provisions of this section and the rules thereunder.
+  (B) In addition, where applicable, such appropriate regulatory agency may, in accordance with [section 1818 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818&num=0&edition=prelim), [section 1464 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1464&num=0&edition=prelim), or section 1730 1 of title 12, enforce compliance by such government securities broker or government securities dealer or any person associated, seeking to become associated, or, at the time of the alleged misconduct, associated or seeking to become associated with such government securities broker or government securities dealer with the provisions of this section and the rules thereunder.
 
-  (C) For purposes of subparagraph (B) of this paragraph, any violation of any such provision shall constitute adequate basis for the issuance of any order under section 1818(b) or (c) of title 12, section 1464(d)(2) or (d)(3) 2 of title 12, or section 1730(e) or (f) 2 of title 12, and the customers of any such government securities broker or government securities dealer shall be deemed, respectively, “depositors” as that term is used in [section 1818(c) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/c&num=0&edition=prelim), “savings account holders” as that term is used in section 1464(d)(3) 2 of title 12, or “insured members” as that term is used in section 1730(f) 2 of title 12.
+  (C) For purposes of subparagraph (B) of this paragraph, any violation of any such provision shall constitute adequate basis for the issuance of any order under section 1818(b) or (c) of title 12, section 1464(d)(2) or (d)(3) 1 of title 12, or section 1730(e) or (f) 1 of title 12, and the customers of any such government securities broker or government securities dealer shall be deemed, respectively, “depositors” as that term is used in [section 1818(c) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1818/c&num=0&edition=prelim), “savings account holders” as that term is used in section 1464(d)(3) 1 of title 12, or “insured members” as that term is used in section 1730(f) 1 of title 12.
 
   (D) Nothing in this paragraph shall be construed to affect in any way the powers of such appropriate regulatory agency to proceed against such government securities broker or government securities dealer under any other provision of law.
 
@@ -8905,7 +9103,7 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 
 (1) Nothing in this section except paragraph (2) of this subsection shall be construed to impair or limit the authority under any other provision of law of the Commission, the Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, the Secretary of Housing and Urban Development, and the Government National Mortgage Association.
 
-(2) Notwithstanding any other provision of this chapter, the Commission shall not have any authority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) 33 So in original. Probably should be followed by a comma. or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3)), the rules or regulations under any such other provision, or investigations pursuant to [section 78u(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78u/a/2&num=0&edition=prelim) to assist a foreign securities authority.
+(2) Notwithstanding any other provision of this chapter, the Commission shall not have any authority to make investigations of, require the filing of a statement by, or take any other action under this chapter against a government securities broker or government securities dealer, or any person associated with a government securities broker or government securities dealer, for any violation or threatened violation of the provisions of this section, other than subsection (d)(3) 22 So in original. Probably should be followed by a comma. or the rules or regulations thereunder, unless the Commission is the appropriate regulatory agency for such government securities broker or government securities dealer. Nothing in the preceding sentence shall be construed to limit the authority of the Commission with respect to violations or threatened violations of any provision of this chapter other than this section (except subsection (d)(3)), the rules or regulations under any such other provision, or investigations pursuant to [section 78u(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78u/a/2&num=0&edition=prelim) to assist a foreign securities authority.
 
 **(h) Emergency authority** The Secretary may, by order, take any action with respect to a matter or action subject to regulation by the Secretary under this section, or the rules of the Secretary under this section, involving a government security or a market therein (or significant portion or segment of that market), that the Commission may take under section 78l(k)(2) of this title with respect to transactions in securities (other than exempted securities) or a market therein (or significant portion or segment of that market).
 
@@ -8914,7 +9112,7 @@ For definitions of terms used in this section, see [section 5301 of Title 12](ht
 #### References in Text
 This chapter, referred to in subsecs. (a)(3), (5), (b)(1), (2)(B), (4)(B), (d)(1), (f)(1), and (g)(2), was in the original “this title”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
 
-Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
+Subchapter VIII of chapter 3 of title 12, referred to in subsec. (b)(2)(C)(ii), was in the original “section 9 of the Federal Reserve Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of Title 12, Banks and Banking.
 
 [Section 3401(6) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401/6&num=0&edition=prelim), referred to in subsec. (b)(2)(D)(i), was redesignated [section 3401(7) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401/7&num=0&edition=prelim) by Pub. L. 101–73, title IX, § 941(1), Aug. 9, 1989, 103 Stat. 496.
 
@@ -9608,6 +9806,12 @@ Pub. L. 107–204, title V, § 501(c), July 30, 2002, 116 Stat. 793, provided th
 
 **(v) Information from sources other than the issuer** In producing a credit rating, a nationally recognized statistical rating organization shall consider information about an issuer that the nationally recognized statistical rating organization has, or receives from a source other than the issuer or underwriter, that the nationally recognized statistical rating organization finds credible and potentially significant to a rating decision.
 
+**(w) Data standards for information required to be submitted or published under this section**
+
+(1) **Requirement** — The Commission shall, by rule, adopt data standards for all collections of information required to be submitted or published by a nationally recognized statistical rating organization under this section.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -9616,6 +9820,8 @@ This chapter, referred to in subsecs. (a)(1)(A), (B)(iii), (c), (e)(2), (f)(2), 
 The Securities Exchange Act of 1934, referred to in subsec. (f)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to this chapter (§ 78a et seq.). For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
+2022—Subsec. (w). Pub. L. 117–263 added subsec. (w).
+
 2010—Subsec. (b)(1)(A). Pub. L. 111–203, § 932(a)(1)(A), substituted “filed” for “furnished” and “filing” for “furnishing”.
 
 Subsec. (b)(1)(B). Pub. L. 111–203, § 932(a)(1)(B), substituted “filing” for “furnishing”.
@@ -9649,6 +9855,9 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 #### Regulations
 Pub. L. 111–203, title IX, § 937, July 21, 2010, 124 Stat. 1885, provided that: “Unless otherwise specifically provided in this subtitle [subtitle C (§§ 931–939H) of title IX of Pub. L. 111–203, enacting sections 78o–8 and 78o–9 of this title, amending this section and sections 78c, 78u–4, and 80a–6 of this title, sections 24a, 1817, 1831e, and 4519 of Title 12, Banks and Banking, and [section 286hh of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286hh&num=0&edition=prelim), Foreign Relations and Intercourse, and enacting provisions set out as notes under this section, sections 78m and 78o–9 of this title, and [section 24a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24a&num=0&edition=prelim)], the [Securities and Exchange] Commission shall issue final regulations, as required by this subtitle and the amendments made by this subtitle, not later than 1 year after the date of enactment of this Act [July 21, 2010].”
+
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
 
 #### Qualification Standards for Credit Rating Analysts
 Pub. L. 111–203, title IX, § 936, July 21, 2010, 124 Stat. 1884, provided that: “Not later than 1 year after the date of enactment of this Act [July 21, 2010], the Commission shall issue rules that are reasonably designed to ensure that any person employed by a nationally recognized statistical rating organization to perform credit ratings— “(1) meets standards of training, experience, and competence necessary to produce accurate ratings for the categories of issuers whose securities the person rates; and “(2) is tested for knowledge of the credit rating process.”
@@ -9935,14 +10144,14 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 **(h) Committee findings** Nothing in this section shall require the Commission to agree to or act upon any finding or recommendation of the Committee.
 
-**(i) Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+**(i) Chapter 10 of title 5** Chapter 10 of title 5 shall not apply with respect to the Committee and its activities.
 
 **(j) Authorization of appropriations** There is authorized to be appropriated to the Commission such sums as are necessary to carry out this section.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (i). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 #### Effective Date
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
@@ -10298,12 +10507,12 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
   (B) disclosing the action, if any, the Commission intends to take with respect to the finding or recommendation.
 
-**(h) Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Committee and its activities.
+**(h) Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply with respect to the Committee and its activities.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-78q-1"></a>
@@ -10453,15 +10662,15 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 (4)
 
-  (A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.). The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or the creation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
+  (A) Within 90 days after October 16, 1990, the Commission shall (and at such times thereafter as the Commission may determine, the Commission may), after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, establish an advisory committee under chapter 10 of title 5. The Advisory Committee shall be directed to consider and report to the Commission on such matters as the Commission, after consultation with the Secretary of the Treasury and the Board of Governors of the Federal Reserve System, determines, including the areas, if any, in which State commercial laws and related Federal laws concerning the transfer of certificated or uncertificated securities, limited interests (including security interests) in such securities, or the creation or perfection of security interests in such securities do not provide the necessary certainty, uniformity, and clarity for purchasers, sellers, owners, lenders, borrowers, and financial intermediaries concerning their respective rights and obligations.
 
   (B) The Advisory Committee shall consist of 15 members, of which—
 
-    (i) 11 shall be designated by the Commission in accordance with the Federal Advisory Committee Act; and
+    (i) 11 shall be designated by the Commission in accordance with chapter 10 of title 5; and
 
     (ii) 2 each shall be designated by the Board of Governors of the Federal Reserve System and the Secretary of the Treasury.
 
-  (C) The Advisory Committee shall conduct its activities in accordance with the Federal Advisory Committee Act. Within 6 months of its designation, or such longer time as the Commission may designate, the Advisory Committee shall issue a report to the Commission, and shall cause copies of that report to be delivered to the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System.
+  (C) The Advisory Committee shall conduct its activities in accordance with chapter 10 of title 5. Within 6 months of its designation, or such longer time as the Commission may designate, the Advisory Committee shall issue a report to the Commission, and shall cause copies of that report to be delivered to the Secretary of the Treasury and the Chairman of the Board of Governors of the Federal Reserve System.
 
 **(g) 33 So in original. Two subsecs. (g) have been enacted. Due diligence for the delivery of dividends, interest, and other valuable property rights**
 
@@ -10512,9 +10721,13 @@ This chapter, referred to in subsecs. (a)(2), (b)(3)(A), (F), (I), (8), (d)(1), 
 
 The Commodity Exchange Act, referred to in subsecs. (b)(8) and (l)(1), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (f)(4)(A). Pub. L. 117–286, § 4(a)(63)(A), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
+Subsec. (f)(4)(B)(i). Pub. L. 117–286, § 4(a)(63)(B), substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act;”.
+
+Subsec. (f)(4)(C). Pub. L. 117–286, § 4(a)(63)(C), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2010—Subsec. (c)(4)(C). Pub. L. 111–203, § 925(a)(3), substituted “12 months or bar any such person from being associated with any transfer agent, broker, dealer, investment adviser, municipal securities dealer, municipal advisor, or nationally recognized statistical rating organization,” for “twelve months or bar any such person from being associated with the transfer agent,”.
 
 Subsec. (g). Pub. L. 111–203, § 929W, added subsec. (g) relating to due diligence for the delivery of dividends, interest, and other valuable property rights.
@@ -10620,6 +10833,24 @@ This chapter, referred to in subsec. (a), was in the original “this title”. 
 
 #### Amendments
 1936—Subsec. (a). Act May 27, 1936, inserted “or any undertaking contained in a registration statement as provided in subsection (d) of section 78o of this title”.
+
+
+<a id="section-78rr"></a>
+## § 78rr. Data standards for security-based swap reporting
+**(a) Requirement** The Commission shall, by rule, adopt data standards for all reports related to security-based swaps that are required under this chapter.
+
+**(b) Consistency** The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in subsec. (a), was in the original “this Act”. See References in Text note set out under [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a).
+
+#### Codification
+Pub. L. 117–263, which directed amendment of the Securities Exchange Act of 1934 by adding this section at the end, is reflected in the source credit above as adding this section to title I of the Securities Exchange Act of 1934, to reflect the probable intent of Congress.
+
+#### Rule of Construction—No New Disclosure Requirements
+Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
 
 
 <a id="section-78s"></a>
@@ -11378,7 +11609,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
     (i) any individual (other than a Member of Congress), whose compensation is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives; and
 
-    (ii) any other officer or employee of the legislative branch (as defined in section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).
+    (ii) any other officer or employee of the legislative branch (as defined in [section 13101(11) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/11&num=0&edition=prelim)).
 
 (3) **Rule of construction** — Nothing in this subsection shall be construed to impair or limit the construction of the existing antifraud provisions of the securities laws or the authority of the Commission under those provisions.
 
@@ -11400,13 +11631,13 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
       (III) an employee of the United States Postal Service or the Postal Regulatory Commission;
 
-  (B) the term “judicial employee” has the meaning given that term in section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8)); and
+  (B) the term “judicial employee” has the meaning given that term in [section 13101(9) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/9&num=0&edition=prelim); and
 
-  (C) the term “judicial officer” has the meaning given that term under section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10)).
+  (C) the term “judicial officer” has the meaning given that term under [section 13101(10) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/10&num=0&edition=prelim).
 
 (3) **Rule of construction** — Nothing in this subsection shall be construed to impair or limit the construction of the existing antifraud provisions of the securities laws or the authority of the Commission under those provisions.
 
-**(i) Participation in initial public offerings** An individual described in section 101(f) of the Ethics in Government Act of 1978 may not purchase securities that are the subject of an initial public offering (within the meaning given such term in section 78l(f)(1)(G)(i) of this title) in any manner other than is available to members of the public generally.
+**(i) Participation in initial public offerings** An individual described in [section 13103(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103/f&num=0&edition=prelim) may not purchase securities that are the subject of an initial public offering (within the meaning given such term in section 78l(f)(1)(G)(i) of this title) in any manner other than is available to members of the public generally.
 
 ### Statutory Notes
 
@@ -11415,13 +11646,17 @@ This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original �
 
 Subsec. (f) of section 78o of this title, referred to in subsec. (b)(1)(B), was redesignated (g) by Pub. L. 111–203, title IX, § 929X(c)(1), July 21, 2010, 124 Stat. 1870.
 
-Section 10 of the STOCK Act, referred to in subsecs. (g)(1) and (h)(1), is section 10 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees.
-
-Section 109 of the Ethics in Government Act of 1978, referred to in subsecs. (g)(2)(B)(ii) and (h)(2)(B), (C), is section 109 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (i), is section 101(f) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 10 of the STOCK Act, referred to in subsecs. (g)(1) and (h)(1), is section 10 of Pub. L. 112–105, which is set out as a note preceding [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (g)(2)(B)(ii). Pub. L. 117–286, § 4(c)(24)(A), substituted “[section 13101(11) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/11&num=0&edition=prelim)).” for “section 109(11) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(11))).”
+
+Subsec. (h)(2)(B). Pub. L. 117–286, § 4(c)(24)(B)(i), substituted “[section 13101(9) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/9&num=0&edition=prelim);” for “section 109(8) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(8));”.
+
+Subsec. (h)(2)(C). Pub. L. 117–286, § 4(c)(24)(B)(ii), substituted “[section 13101(10) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/10&num=0&edition=prelim).” for “section 109(10) of the Ethics in Government Act of 1978 (5 U.S.C. App. 109(10)).”
+
+Subsec. (i). Pub. L. 117–286, § 4(c)(24)(C), substituted “[section 13103(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103/f&num=0&edition=prelim)” for “section 101(f) of the Ethics in Government Act of 1978”.
+
 2012—Subsec. (g). Pub. L. 112–105, § 4(b)(2), added subsec. (g).
 
 Subsec. (h). Pub. L. 112–105, § 9(b)(2)(B), added subsec. (h).
@@ -11461,10 +11696,14 @@ Amendment by Pub. L. 101–429 effective Oct. 15, 1990, with provisions relating
 #### Effective Date
 Section not applicable to actions occurring before Nov. 19, 1988, see section 9 of Pub. L. 100–704 set out as an Effective Date of 1988 Amendment note under section 78o of this title.
 
-#### Affirmation of Duty Of Government Officers and Employees
+#### Affirmation of Duty of Government Officers and Employees
 Pub. L. 112–105, § 4(b)(1), Apr. 4, 2012, 126 Stat. 292, provided that: “The purpose of the amendment made by this subsection [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each Member of Congress and each employee of Congress.”
 
+[For definitions of “Member of Congress” and “employee of Congress”, see section 2 of Pub. L. 112–105, set out as a note under [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim), Government Organization and Employees.]
+
 Pub. L. 112–105, § 9(b)(2)(A), Apr. 4, 2012, 126 Stat. 297, provided that: “The purpose of the amendment made by this paragraph [amending this section] is to affirm a duty arising from a relationship of trust and confidence owed by each executive branch employee, judicial officer, and judicial employee.”
+
+[For definitions of “executive branch employee”, “judicial officer”, and “judicial employee”, see section 2 of Pub. L. 112–105, set out as a note under [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim), Government Organization and Employees.]
 
 #### Congressional Findings
 Pub. L. 100–704, § 2, Nov. 19, 1988, 102 Stat. 4677, provided that: “The Congress finds that— “(1) the rules and regulations of the Securities and Exchange Commission under the Securities Exchange Act of 1934 [[15 U.S.C. 78a](./chapter-2b-securities-exchanges.md#section-78a) et seq.] governing trading while in possession of material, nonpublic information are, as required by such Act, necessary and appropriate in the public interest and for the protection of investors; “(2) the Commission has, within the limits of accepted administrative and judicial construction of such rules and regulations, enforced such rules and regulations vigorously, effectively, and fairly; and “(3) nonetheless, additional methods are appropriate to deter and prosecute violations of such rules and regulations.”

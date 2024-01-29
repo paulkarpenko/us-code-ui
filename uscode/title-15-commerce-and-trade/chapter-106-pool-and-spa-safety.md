@@ -39,22 +39,31 @@ In this chapter:
 
 (3) **Commission** — The term “Commission” means the Consumer Product Safety Commission.
 
-(4) **Main drain** — The term “main drain” means a submerged suction outlet typically located at the bottom of a pool or spa to conduct water to a recirculating pump.
+(4) **Covered entity** — The term “covered entity” means—
 
-(5) **Safety vacuum release system** — The term “safety vacuum release system” means a vacuum release system capable of providing vacuum release at a suction outlet caused by a high vacuum occurrence due to a suction outlet flow blockage.
+  (A) a State; or
 
-(6) **Swimming pool; spa** — The term “swimming pool” or “spa” means any outdoor or indoor structure intended for swimming or recreational bathing, including in-ground and above-ground structures, and includes hot tubs, spas, portable spas, and non-portable wading pools.
+  (B) an Indian Tribe.
 
-(7) **Unblockable drain** — The term “unblockable drain” means a drain of any size and shape that a human body cannot sufficiently block to create a suction entrapment hazard.
+(5) **Indian Tribe** — The term “Indian Tribe” has the meaning given that term in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim).
 
-(8) **State** — The term “State” has the meaning given such term in section 2052(10) 11 See References in Text note below. of this title, and includes the Northern Mariana Islands. For purposes of eligibility for the grants authorized under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004), such term shall also include any political subdivision of a State.
+(6) **Main drain** — The term “main drain” means a submerged suction outlet typically located at the bottom of a pool or spa to conduct water to a recirculating pump.
+
+(7) **Safety vacuum release system** — The term “safety vacuum release system” means a vacuum release system capable of providing vacuum release at a suction outlet caused by a high vacuum occurrence due to a suction outlet flow blockage.
+
+(8) **Swimming pool; spa** — The term “swimming pool” or “spa” means any outdoor or indoor structure intended for swimming or recreational bathing, including in-ground and above-ground structures, and includes hot tubs, spas, portable spas, and non-portable wading pools.
+
+(9) **Unblockable drain** — The term “unblockable drain” means a drain of any size and shape that a human body cannot sufficiently block to create a suction entrapment hazard.
+
+(10) **State** — The term “State” has the meaning given such term in [section 2052(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a&num=0&edition=prelim), and includes the Northern Mariana Islands. For purposes of eligibility for the grants authorized under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004), such term shall also include any political subdivision of a State.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2052(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/10&num=0&edition=prelim), referred to in par. (8), was redesignated [section 2052(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/15&num=0&edition=prelim) by Pub. L. 110–314, title II, § 235(b)(4), Aug. 14, 2008, 122 Stat. 3074.
-
 #### Amendments
+2022—Pars. (4) to (9). Pub. L. 117–328, § 401(a), added par. (4) and redesignated former pars. (4) to (8) as (6) to (9), respectively. Former par. (9) redesignated (10).
+
+Par. (10). Pub. L. 117–328, § 401(a)(1), (b), redesignated par. (9) as (10) and substituted “[section 2052(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/a&num=0&edition=prelim)” for “[section 2052(10) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2052/10&num=0&edition=prelim)”.
+
 2011—Par. (8). Pub. L. 112–10 inserted at end “For purposes of eligibility for the grants authorized under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004), such term shall also include any political subdivision of a State.”
 
 2008—Par. (8). Pub. L. 110–314 added par. (8).
@@ -122,45 +131,48 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-8004"></a>
-## § 8004. State swimming pool safety grant program
-**(a) In general** Subject to the availability of appropriations authorized by subsection (e), the Commission shall establish a grant program to provide assistance to eligible States.
+## § 8004. Swimming pool safety grant program
+**(a) In general** Subject to the availability of appropriations authorized by subsection (e), the Commission shall carry out a grant program to provide assistance to eligible covered entities.
 
-**(b) Eligibility** To be eligible for a grant under the program, a State shall—
+**(b) Eligibility** To be eligible for a grant under the program, a covered entity shall—
 
-(1) demonstrate to the satisfaction of the Commission that it has a State statute, or that, after December 19, 2007, it has enacted a statute, or amended an existing statute, and provides for the enforcement of,11 So in original. The comma probably should not appear. a law that—
+(1) demonstrate to the satisfaction of the Commission that, as of the date on which the covered entity submits an application to the Commission for a grant under this section, the covered entity has enacted and provides for the enforcement of a statute that—
 
-  (A) except as provided in [section 8005(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8005/a/1/A/i&num=0&edition=prelim), applies to all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section; and
+  (A) except as provided in [section 8005(a)(1)(A)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8005/a/1/A/i&num=0&edition=prelim), applies to all swimming pools constructed in the State or in the jurisdiction of the Indian Tribe (as the case may be) on or after such date; and
 
   (B) meets the minimum State law requirements of [section 8005 of this title](./chapter-106-pool-and-spa-safety.md#section-8005); and
 
 (2) submit an application to the Commission at such time, in such form, and containing such additional information as the Commission may require.
 
-**(c) Amount of grant** The Commission shall determine the amount of a grant awarded under this chapter, and shall consider—
+**(c) Amount of grant** The Commission shall determine the amount of a grant awarded under this section, and shall consider—
 
-(1) the population and relative enforcement needs of each qualifying State; and
+(1) the population of the covered entity;
 
-(2) allocation of grant funds in a manner designed to provide the maximum benefit from the program in terms of protecting children from drowning or entrapment, and, in making that allocation, shall give priority to States that have not received a grant under this chapter in a preceding fiscal year.
+(2) the relative enforcement and implementation needs of the covered entity; and
 
-**(d) Use of grant funds** A State receiving a grant under this section shall use—
+(3) allocation of grant funds in a manner designed to provide the maximum benefit from the program in terms of protecting children from drowning or entrapment.
 
-(1) at least 50 percent of amounts made available to hire and train enforcement personnel for implementation and enforcement of standards under the State swimming pool and spa safety law; and
+**(d) Use of grant funds** A State or an Indian Tribe receiving a grant under this section shall use—
+
+(1) at least 25 percent of amounts made available—
+
+  (A) to hire and train personnel for implementation and enforcement of standards under the swimming pool and spa safety law of the State or Indian Tribe; and
+
+  (B) to defray administrative costs associated with the hiring and training programs under subparagraph (A); and
 
 (2) the remainder—
 
-  (A) to educate pool construction and installation companies and pool service companies about the standards;
+  (A) to educate pool owners, pool operators, and other members of the public about the standards under the swimming pool and spa safety law of the State or Indian Tribe and about the prevention of drowning or entrapment of children using swimming pools and spas; and
 
-  (B) to educate pool owners, pool operators, and other members of the public about the standards under the swimming pool and spa safety law and about the prevention of drowning or entrapment of children using swimming pools and spas; and
+  (B) to defray administrative costs associated with the education programs under subparagraph (A).
 
-  (C) to defray administrative costs associated with such training and education programs.
-
-**(e) Authorization of appropriations** There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016. Any amounts appropriated pursuant to this subsection that remain unexpended and unobligated at the end of fiscal year 2016 shall be retained by the Commission and credited to the appropriations account that funds enforcement of the Consumer Product Safety Act [[15 U.S.C. 2051](./chapter-047-consumer-product-safety.md#section-2051) et seq.].
+**(e) Authorization of appropriations** There are authorized to be appropriated to the Commission for fiscal year 2023 $2,500,000 to carry out this section.
 
 ### Statutory Notes
 
-#### References in Text
-The Consumer Product Safety Act, referred to in subsec. (e), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§ 2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2051 of this title](./chapter-047-consumer-product-safety.md#section-2051) and Tables.
-
 #### Amendments
+2022—Pub. L. 117–328 amended section generally. Prior to amendment, section related to State swimming pool safety grant program.
+
 2014—Subsec. (b)(1)(A). Pub. L. 113–76, § 501(1)(A), substituted “all swimming pools constructed in the State after the date the State submits an application to the Commission for a grant under this section” for “all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State”.
 
 Subsec. (e). Pub. L. 113–76, § 501(1)(B), substituted “There is authorized to be appropriated to the Commission such sums as may be necessary to carry out this section through fiscal year 2016.” for “There are authorized to be appropriated to the Commission for each of fiscal years 2009 and 2010 $2,000,000 to carry out this section, such sums to remain available until expended.” and “the end of fiscal year 2016” for “the end of fiscal year 2012”.
@@ -197,9 +209,9 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (2) **Use of minimum State law requirements** — The Commission—
 
-  (A) shall use the minimum State law requirements under paragraph (1) solely for the purpose of determining the eligibility of a State for a grant under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004); and
+  (A) shall use the minimum State law requirements under paragraph (1) solely for the purpose of determining the eligibility of a covered entity for a grant under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004); and
 
-  (B) may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a State for a grant under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004).
+  (B) may not enforce any requirement under paragraph (1) except for the purpose of determining the eligibility of a covered entity for a grant under [section 8004 of this title](./chapter-106-pool-and-spa-safety.md#section-8004).
 
 (3) **Requirements to reflect national performance standards and Commission guidelines** — In establishing minimum State law requirements under paragraph (1)(B), the Commission shall—
 
@@ -237,9 +249,15 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (2) **Applicable standards** — Any device or system described in subparagraphs (B) through (E) of paragraph (1) shall meet the requirements of any ASME/ANSI or ASTM performance standard if there is such a standard for such a device or system, or any applicable consumer product safety standard.
 
+**(e) State defined** In this section, the term “State” includes an Indian Tribe.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–328, § 402(b)(1), substituted “the eligibility of a covered entity” for “the eligibility of a State” in subpars. (A) and (B).
+
+Subsec. (e). Pub. L. 117–328, § 402(b)(2), added subsec. (e).
+
 2014—Subsec. (a)(1)(A). Pub. L. 113–76, § 501(2)(A), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii) and inserted “and” at end, and struck out former cl. (ii) and cls. (iv) and (v) which read as follows:
 
 “(ii) that all pools and spas be equipped with devices and systems designed to prevent entrapment by pool or spa drains;
@@ -255,18 +273,21 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 
 <a id="section-8006"></a>
-## § 8006. Education program
-**(a) In general** The Commission shall establish and carry out an education program to inform the public of methods to prevent drowning and entrapment in swimming pools and spas. In carrying out the program, the Commission shall develop—
+## § 8006. Education and awareness program
+**(a) In general** The Commission shall establish and carry out an education and awareness program to inform the public of methods to prevent drowning and entrapment in swimming pools and spas. In carrying out the program, the Commission shall develop—
 
-(1) educational materials designed for pool manufacturers, pool service companies, and pool supply retail outlets;
+(1) educational materials designed for swimming pool and spa manufacturers, service companies, and supply retail outlets, including guidance on barrier and drain cover inspection, maintenance, and replacement;
 
-(2) educational materials designed for pool owners and operators; and
+(2) educational materials designed for swimming pool and spa owners and operators, consumers, States, and Indian Tribes; and
 
-(3) a national media campaign to promote awareness of pool and spa safety.
+(3) a national media campaign to promote awareness of swimming pool and spa safety.
 
-**(b) Authorization of appropriations** There are authorized to be appropriated to the Commission for each of the fiscal years 2008 through 2012 $5,000,000 to carry out the education program authorized by subsection (a).
+**(b) Authorization of appropriations** There are authorized to be appropriated to the Commission for fiscal year 2023 $2,500,000 to carry out the education and awareness program authorized by subsection (a).
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–328 amended section generally. Prior to amendment, section related to establishment of a pool and spa safety education program.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.

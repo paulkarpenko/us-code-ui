@@ -2,7 +2,7 @@
 title: 50
 chapter: '33'
 heading: WAR POWERS RESOLUTION
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -101,6 +101,35 @@ the President shall submit within 48 hours to the Speaker of the House of Repres
 **(b) Other information reported** The President shall provide such other information as the Congress may request in the fulfillment of its constitutional responsibilities with respect to committing the Nation to war and to the use of United States Armed Forces abroad.
 
 **(c) Periodic reports; semiannual requirement** Whenever United States Armed Forces are introduced into hostilities or into any situation described in subsection (a) of this section, the President shall, so long as such armed forces continue to be engaged in such hostilities or situation, report to the Congress periodically on the status of such hostilities or situation as well as on the scope and duration of such hostilities or situation, but in no event shall he report to the Congress less often than once every six months.
+
+
+<a id="section-1543a"></a>
+## § 1543a. Report on hostilities involving United States Armed Forces
+**(a) In general** Not later than 48 hours after any incident in which the United States Armed Forces are involved in an attack or hostilities, whether in an offensive or defensive capacity, the President shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a report on the incident, unless the President—
+
+(1) otherwise reports the incident within 48 hours pursuant to [section 1543 of this title](./chapter-033-war-powers-resolution.md#section-1543); or
+
+(2) has determined prior to the incident, and so reported pursuant to [section 1549 of this title](./chapter-033-war-powers-resolution.md#section-1549), that the United States Armed Forces involved in the incident would be operating under specific statutory authorization within the meaning of [section 1544(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1544/b&num=0&edition=prelim).
+
+**(b) Matters to be included** Each report required by subsection (a) shall include—
+
+(1) the authority or authorities under which the United States Armed Forces were operating when the incident occurred;
+
+(2) the date, location, and duration of the incident and the other parties involved;
+
+(3) a description of the United States Armed Forces involved in the incident and the mission of such Armed Forces;
+
+(4) the numbers of any combatant casualties and civilian casualties that occurred as a result of the incident; and
+
+(5) any other information the President determines appropriate.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the War Powers Resolution which comprises this chapter.
+
+#### “Congressional Defense Committees” Defined
+Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 118–31, 137 Stat. 164. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-1544"></a>

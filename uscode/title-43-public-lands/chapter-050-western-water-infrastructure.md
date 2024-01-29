@@ -68,7 +68,7 @@ The Reclamation Wastewater and Groundwater Study and Facilities Act, referred to
 
 Section 40908, referred to in par. (5)(B), is section 40908 of Pub. L. 117–58, div. D, title IX, Nov. 15, 2021, 135 Stat. 1126, which amended section 4(a) of Pub. L. 104–298, which is set out in a note under [section 10301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10301&num=0&edition=prelim), The Public Health and Welfare.
 
-The Reclamation Safety of Dams Act of 1978, referred to in par. (6), is Pub. L. 95–578, Nov. 2, 1978, 92 Stat. 2471, which is classified generally to subchapter XI–A (§ 506 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title of 1978 note set out under [section 506 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-506) and Tables.
+The Reclamation Safety of Dams Act of 1978, referred to in par. (6), is Pub. L. 95–578, Nov. 2, 1978, 92 Stat. 2471, which is classified principally to subchapter XI–A (§ 506 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 506 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-506) and Tables.
 
 The Colorado River Drought Contingency Plan Authorization Act, referred to in par. (8), is Pub. L. 116–14, Apr. 16, 2019, 133 Stat. 850, which is not classified to the Code.
 
@@ -169,7 +169,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (B) *Eligible projects* — A project shall be considered eligible for consideration for a grant under this section if the project—
 
-    (i) has water storage capacity of not less than 2,000 acre-feet and not more than 30,000 acre-feet; and
+    (i) has water storage capacity of not less than 200 acre-feet and not more than 30,000 acre-feet; and
 
     (ii)
 
@@ -231,6 +231,9 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2022—Subsec. (b)(1)(B)(i). Pub. L. 117–328 substituted “200” for “2,000”.
 
 #### Wage Rate Requirements
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.

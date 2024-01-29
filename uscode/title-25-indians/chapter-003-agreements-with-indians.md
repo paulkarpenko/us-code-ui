@@ -22,19 +22,19 @@ R.S. § 2079 derived from act Mar. 3, 1871, ch. 120, § 1, 16 Stat. 566.
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–647 applicable to all periods beginning before, on, or after Nov. 10, 1988, with no inference created as to existence or nonexistence or scope of any income tax exemption derived from fishing rights secured as of Mar. 17, 1988, by any treaty, law, or Executive order, see section 3044 of Pub. L. 100–647, set out as an Effective Date note under [section 7873 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7873&num=0&edition=prelim), Internal Revenue Code.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–317, § 1, Dec. 27, 2022, 136 Stat. 4419, provided that: “This Act [repealing sections 72, 127 to 130, 137, 138, 273, 283, 285, and 302 of this title] may be cited as the ‘Repealing Existing Substandard Provisions Encouraging Conciliation with Tribes Act’ or the ‘RESPECT Act’.”
+
 #### Short Title of 2000 Amendment
 Pub. L. 106–179, § 1, Mar. 14, 2000, 114 Stat. 46, provided that: “This Act [amending sections 81 and 476 of this title] may be cited as the ‘Indian Tribal Economic Development and Contract Encouragement Act of 2000’.”
 
 
 <a id="section-72"></a>
-## § 72. Abrogation of treaties
-
-Whenever the tribal organization of any Indian tribe is in actual hostility to the United States, the President is authorized, by proclamation, to declare all treaties with such tribe abrogated by such tribe if in his opinion the same can be done consistently with good faith and legal and national obligations.
+## § 72. Repealed. Pub. L. 117–317, § 2(1), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 2080 derived from act July 5, 1862, ch. 135, § 1, 12 Stat. 528.
+Section, R.S. § 2080, related to abrogation of treaties with Indian tribes having tribal organizations in actual hostility to the United States.
 
 
 <a id="section-81"></a>

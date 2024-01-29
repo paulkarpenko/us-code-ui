@@ -2,7 +2,7 @@
 title: 16
 chapter: '33'
 heading: COASTAL ZONE MANAGEMENT
-section_count: 26
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -313,7 +313,7 @@ Proc. No. 10071, Sept. 9, 2020, 85 F.R. 59165, provided:
 
 The United Nations Convention on the Law of the Sea of 10 December 1982 (Convention) generally reflects customary international law. Section 3 of Part XIII of the Convention provides that coastal states, in the exercise of their jurisdiction, have the right to regulate, authorize, and conduct marine scientific research in their Exclusive Economic Zone (EEZ) and on their continental shelf. Marine scientific research in the EEZ or on the continental shelf shall be conducted with the consent of the coastal state.
 
-In Proclamation 5030 of March 10, 1983 (Exclusive Economic Zone of the United States of America) [set out above], the President announced the establishment of the EEZ of the United States. The Proclamation asserts the sovereign rights and jurisdiction of the United States in its EEZ and confirms the rights and freedoms of all states, as provided under international law. In an accompanying Presidential Statement of March 10, 1983 (United States Oceans Policy), the President acknowledged that international law allows coastal states to exercise jurisdiction over marine scientific research in their respective EEZs, but stated that the United States had elected not to do so to the fullest extent permitted under international law, in an effort to encourage such research. Presidential Decision Directive-36 of April 5, 1995 (United States Policy on Protecting the Ocean Environment), emphasizes that the policy of the United States is to protect and monitor the ocean and coastal environment and conserve living marine resources, recognizing that doing so, in an open and collaborative manner, supports our economic and national security interests.
+In Proclamation 5030 of March 10, 1983 (Exclusive Economic Zone of the United States of America) [set out above], the President announced the establishment of the EEZ of the United States. The Proclamation asserts the sovereign rights and jurisdiction of the United States in its EEZ and confirms the rights and freedoms of all states, as provided under international law. In an accompanying Presidential Statement of March 10, 1983 (United States Oceans Policy), the President acknowledged that international law allows coastal states to exercise jurisdiction over marine scientific research in their respective EEZs, but stated that the United States had elected not to do so to the fullest extent permitted under international law, in an effort to encourage such research. Presidential Decision Directive–36 of April 5, 1995 (United States Policy on Protecting the Ocean Environment), emphasizes that the policy of the United States is to protect and monitor the ocean and coastal environment and conserve living marine resources, recognizing that doing so, in an open and collaborative manner, supports our economic and national security interests.
 
 In Executive Order 13840 of June 19, 2018 (Ocean Policy to Advance the Economic, Security, and Environmental Interests of the United States) [[33 U.S.C. 857–19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section857–19&num=0&edition=prelim) note], I reaffirmed that the United States will continue to promote lawful use of the ocean by agencies, including the Armed Forces, and that the United States will continue to exercise its rights and jurisdiction and perform duties in accordance with applicable international law, including customary international law. Further, the United States will use the best available ocean-related science and knowledge, in partnership with the science and technology communities, to inform decisions and enhance entrepreneurial opportunities. In the Presidential Memorandum of November 19, 2019 (Ocean Mapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska) [[33 U.S.C. 3501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3501&num=0&edition=prelim) note], I affirmed the importance of understanding our ocean systems and natural resources to our security, economic, and environmental interests.
 
@@ -1540,7 +1540,7 @@ This section, referred to in subsecs. (a) to (d), (f), (h) and (j), was in the o
 Section was not enacted as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1464"></a>
@@ -1689,7 +1689,7 @@ For any Federal administrative agency proceeding that is an appeal or review und
 ### Statutory Notes
 
 #### References in Text
-The Coastal Zone Management Act of 1972, referred to in text, is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
+The Coastal Zone Management Act of 1972, referred to in text, is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to this chapter (§ 1451 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451) and Tables.
 
 #### Codification
 Section was enacted as part of the Energy Policy Act of 2005, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
@@ -1818,3 +1818,175 @@ Pub. L. 116–223, § 2, Dec. 18, 2020, 134 Stat. 1067, provided that: “Congre
 
 #### Definitions
 Pub. L. 116–223, § 3, Dec. 18, 2020, 134 Stat. 1068, provided that: “In this Act [see Short Title of 2020 Amendment note set out under [section 1451 of this title](./chapter-033-coastal-zone-management.md#section-1451)]: “(1) Coastal region.—The term ‘coastal region’ means the area of United States waters extending inland from the shoreline to include coastal watersheds and seaward to the territorial sea. “(2) Coastal state.—The term ‘coastal State’ has the meaning given the term ‘coastal state’ in section 304 of the Coastal Zone Management Act of 1972 ([16 U.S.C. 1453](./chapter-033-coastal-zone-management.md#section-1453)). “(3) Federal geographic data committee.—The term ‘Federal Geographic Data Committee’ means the interagency committee that promotes the coordinated development, use, sharing, and dissemination of geospatial data on a national basis. “(4) Remote sensing and other geospatial.—The term ‘remote sensing and other geospatial’ means collecting, storing, retrieving, or disseminating graphical or digital data depicting natural or manmade physical features, phenomena, or boundaries of the Earth and any information related thereto, including surveys, maps, charts, satellite and airborne remote sensing data, images, LiDAR, and services performed by professionals such as surveyors, photogrammetrists, hydrographers, geodesists, cartographers, and other such services. “(5) Secretary.—The term ‘Secretary’ means the Secretary of Commerce, acting through the Administrator of the National Oceanic and Atmospheric Administration.”
+
+
+<a id="section-1468"></a>
+## § 1468. Regional Ocean Partnerships
+**(a) Definitions** In this section:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+
+(2) **Coastal State** — The term “coastal State” has the meaning given the term “Coastal state” 11 So in original. Probably should be “ ‘coastal state’ ”. in [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
+
+(3) **Indian Tribe** — The term “Indian Tribe” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(4) **Regional Ocean Partnership** — The term “Regional Ocean Partnership” means a Regional Ocean Partnership designated under subsection (b).
+
+**(b) Regional Ocean Partnerships**
+
+(1) **In general** — A coastal State or Indian Tribe may form a partnership with—
+
+  (A) a coastal State that shares a common ocean or coastal area with the coastal State, without regard to whether the coastal States are contiguous; and
+
+  (B) States—
+
+    (i) that share a common ocean, coastal area, or watershed with the coastal State, without regard to whether the coastal States are contiguous; or
+
+    (ii) that would contribute to the priorities of the partnership; and
+
+  (C) Indian Tribes.
+
+(2) **Requirements** — A partnership formed under paragraph (1) may apply for designation as a Regional Ocean Partnership in such time and manner as determined appropriate by the Secretary if the partnership—
+
+  (A) is established to coordinate the management of ocean, coastal, and Great Lakes resources among the members of the partnership;
+
+  (B) focuses on the environmental issues affecting the ocean, coastal, and Great Lakes areas of the members participating in the partnership;
+
+  (C) complements existing coastal and ocean management efforts of States and Indian Tribes on an interstate scale, focusing on shared regional priorities;
+
+  (D) does not have a regulatory function; and
+
+  (E) is not duplicative of an existing Regional Ocean Partnership designated under paragraph (3), as determined by the Secretary.
+
+(3) **Designation of certain entities as Regional Ocean Partnerships** — The following entities are designated as Regional Ocean Partnerships:
+
+  (A) The Gulf of Mexico Alliance, comprised of the States of Alabama, Florida, Louisiana, Mississippi, and Texas.
+
+  (B) The Northeast Regional Ocean Council, comprised of the States of Maine, Vermont, New Hampshire, Massachusetts, Connecticut, and Rhode Island.
+
+  (C) The Mid-Atlantic Regional Council on the Ocean, comprised of the States of New York, New Jersey, Delaware, Maryland, and Virginia.
+
+  (D) The West Coast Ocean Alliance, comprised of the States of California, Oregon, and Washington and the coastal Indian Tribes therein.
+
+(4) **Great Lakes** — A partnership established under this section for the purposes described in subsection (d) with respect to a Great Lake may be known as a “Regional Coastal Partnership” or a “Regional Great Lakes Partnership”.
+
+**(c) Governing bodies of Regional Ocean Partnerships** A Regional Ocean Partnership shall have a governing body that—
+
+(1) shall be comprised, at a minimum, of voting members from each coastal state 22 So in original. Probably should be “coastal State”. participating in the Regional Ocean Partnership, designated by the Governor of the coastal state; 2 and
+
+(2) may include such other members as the partnership considers appropriate.
+
+**(d) Functions** A Regional Ocean Partnership may perform the following functions:
+
+(1) Promote coordination of the actions of the agencies of governments participating in the partnership with the actions of the appropriate officials of Federal agencies, State governments, and Indian Tribes in developing strategies—
+
+  (A) to conserve living resources, increase valuable habitats, enhance coastal resilience and ocean management, promote ecological and economic health, and address such other issues related to the shared ocean, coastal, or Great Lakes areas as are determined to be a shared, regional priority by those states; and
+
+  (B) to manage regional data portals and develop associated data products for purposes that support the priorities of the partnership.
+
+(2) In cooperation with appropriate Federal and State agencies, Indian Tribes, and local authorities, develop and implement specific action plans to carry out coordination goals.
+
+(3) Coordinate and implement priority plans and projects, and facilitate science, research, modeling, monitoring, data collection, and other activities that support the goals of the partnership through the provision of grants and contracts under subsection (f).
+
+(4) Engage, coordinate, and collaborate with relevant governmental entities and stakeholders to address ocean and coastal related matters that require interagency or intergovernmental solutions.
+
+(5) Implement outreach programs for public information, education, and participation to foster stewardship of the resources of the ocean, coastal, and Great Lakes areas, as relevant.
+
+(6) Develop and make available, through publications, technical assistance, and other appropriate means, information pertaining to cross-jurisdictional issues being addressed through the coordinated activities of the partnership.
+
+(7) Serve as a liaison with, and provide information to, international counterparts, as appropriate on priority issues for the partnership.
+
+**(e) Coordination, consultation, and engagement**
+
+(1) **In general** — A Regional Ocean Partnership shall maintain mechanisms for coordination, consultation, and engagement with the following:
+
+  (A) The Federal Government.
+
+  (B) Indian Tribes.
+
+  (C) Nongovernmental entities, including academic organizations, nonprofit organizations, and private sector entities.
+
+  (D) Other federally mandated regional entities, including the Regional Fishery Management Councils, the regional associations of the National Integrated Coastal and Ocean Observation System, and relevant Marine Fisheries Commissions.
+
+(2) **Rule of construction** — Nothing in paragraph (1)(B) may be construed as affecting any requirement to consult with Indian Tribes under Executive Order 13175 ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) note; relating to consultation and coordination with Indian Tribal Governments) or any other applicable law or policy.
+
+**(f) Grants and contracts**
+
+(1) **In general** — A Regional Ocean Partnership may, in coordination with existing Federal, State, and Tribal management programs, from amounts made available to the partnership by the Administrator or the head of another Federal agency, subject to appropriations for such purpose, provide grants and enter into contracts for the purposes described in paragraph (2).
+
+(2) **Purposes** — The purposes described in this paragraph include any of the following:
+
+  (A) Monitoring the water quality and living resources of multistate ocean and coastal ecosystems and coastal communities.
+
+  (B) Researching and addressing the effects of natural and human-induced environmental changes on—
+
+    (i) ocean and coastal ecosystems; and
+
+    (ii) coastal communities.
+
+  (C) Developing and executing cooperative strategies that—
+
+    (i) address regional data issues identified by the partnership; and
+
+    (ii) will result in more effective management of common ocean and coastal areas.
+
+**(g) Report required**
+
+(1) **In general** — Not later than 5 years after December 23, 2022, the Administrator, in coordination with the Regional Ocean Partnerships, shall submit to Congress a report on the partnerships.
+
+(2) **Report requirements** — The report required by paragraph (1) shall include the following:
+
+  (A) An assessment of the overall status of the work of the Regional Ocean Partnerships.
+
+  (B) An assessment of the effectiveness of the partnerships in supporting regional priorities relating to the management of common ocean, coastal, and Great Lakes areas.
+
+  (C) An assessment of the effectiveness of the strategies that the partnerships are supporting or implementing and the extent to which the priority needs of the regions covered by the partnerships are being met through such strategies.
+
+  (D) An assessment of how the efforts of the partnerships support or enhance Federal and State efforts consistent with the purposes of this title.
+
+  (E) Such recommendations as the Administrator may have for improving—
+
+    (i) efforts of the partnerships to support the purposes of this title; and
+
+    (ii) collective strategies that support the purposes of this title in coordination with all relevant Federal and State entities and Indian Tribes.
+
+  (F) The distribution of funds from each partnership for each fiscal year covered by the report.
+
+**(h) Availability of Federal funds** In addition to amounts made available to the Regional Ocean Partnerships by the Administrator under this section, the head of any other Federal agency may provide grants to, enter into contracts with, or otherwise provide funding to such partnerships, subject to availability of appropriations for such purposes.
+
+**(i) Authorities** Nothing in this section establishes any new legal or regulatory authority of the National Oceanic and Atmospheric Administration or of the Regional Ocean Partnerships, other than—
+
+(1) the authority of the Administrator to provide amounts to the partnerships; and
+
+(2) the authority of the partnerships to provide grants and enter into contracts under subsection (f).
+
+**(j) Authorizations**
+
+(1) **Regional Ocean Partnerships** — There are authorized to be appropriated to the Administrator the following amounts to be made available to the Regional Ocean Partnerships or designated fiscal management entities of such partnerships to carry out activities of such partnerships under this title:
+
+  (A) $10,100,000 for fiscal year 2023.
+
+  (B) $10,202,000 for fiscal year 2024.
+
+  (C) $10,306,040 for fiscal year 2025.
+
+  (D) $10,412,160 for fiscal year 2026.
+
+  (E) $10,520,404 for fiscal year 2027.
+
+(2) **Distribution of amounts** — Amounts made available under this subsection shall be divided evenly among the Regional Ocean Partnerships.
+
+(3) **Tribal government participation** — There is authorized to be appropriated to the Administrator $1,000,000 for each of fiscal years 2023 through 2027 to be distributed to Indian Tribes for purposes of participation in or engagement with the Regional Ocean Partnerships.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order 13175, referred to in subsec. (e)(2), is Ex. Ord. No. 13175, Nov. 6, 2000, 65 F.R. 67249, which is set out as a note under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim), Indians.
+
+This title, referred to in subsecs. (g)(2)(D), (E) and (j)(1), means title CII of division J of Pub. L. 117–263, which enacted this section and provisions set out as a note below. For complete classification of title CII to the Code, see Tables.
+
+#### Codification
+Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Coastal Zone Management Act of 1972 which comprises this chapter.
+
+#### Findings; Purposes
+Pub. L. 117–263, div. J, title CII, § 10201, Dec. 23, 2022, 136 Stat. 3961, provided that: “(a) Findings.—Congress makes the following findings:“(1) The ocean and coastal waters and the Great Lakes of the United States are foundational to the economy, security, global competitiveness, and well-being of the United States and continuously serve the people of the United States and other countries as an important source of food, energy, economic productivity, recreation, beauty, and enjoyment. “(2) Over many years, the resource productivity and water quality of the ocean, coastal, and Great Lakes areas of the United States have been diminished by pollution, increasing population demands, economic development, and natural and man-made hazard events, both acute and chronic. “(3) The ocean, coastal, and Great Lakes areas of the United States are managed by State and Federal resource agencies and Indian Tribes and regulated on an interstate and regional scale by various overlapping Federal authorities, thereby creating a significant need for interstate coordination to enhance regional priorities, including the ecological and economic health of those areas. “(4) Indian Tribes have unique expertise and knowledge important for the stewardship of the ocean and coastal waters and the Great Lakes of the United States. “(b) Purposes.—The purposes of this title [enacting this section] are as follows:“(1) To complement and expand cooperative voluntary efforts intended to manage, conserve, and restore ocean, coastal, and Great Lakes areas spanning across multiple State and Indian Tribe jurisdictions. “(2) To expand Federal support for monitoring, data management, restoration, research, and conservation activities in ocean, coastal, and Great Lakes areas. “(3) To commit the United States to a comprehensive cooperative program to achieve improved water quality in, and improvements in the productivity of living resources of, oceans, coastal, and Great Lakes ecosystems. “(4) To authorize Regional Ocean Partnerships as intergovernmental coordinators for shared regional priorities among States and Indian Tribes relating to the collaborative management of the large marine ecosystems, thereby reducing duplication of efforts and maximizing opportunities to leverage support in the ocean and coastal regions. “(5) To empower States to take a lead role in managing oceans, coastal, and Great Lakes areas. “(6) To incorporate rights of Indian Tribes in the management of oceans, coasts, and Great Lakes resources and provide resources to support Indian Tribe participation in and engagement with Regional Ocean Partnerships. “(7) To enable Regional Ocean Partnerships, or designated fiscal management entities of such partnerships, to receive Federal funding to conduct the scientific research, conservation, and restoration activities, and priority coordination on shared regional priorities necessary to achieve the purposes described in paragraphs (1) through (6).”

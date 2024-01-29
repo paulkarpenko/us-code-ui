@@ -33,7 +33,7 @@ Changes in phraseology and arrangement were made.
 <a id="section-402"></a>
 ## § 402. Contempts constituting crimes
 
-Any person, corporation or association willfully disobeying any lawful writ, process, order, rule, decree, or command of any district court of the United States or any court of the District of Columbia, by doing any act or thing therein, or thereby forbidden, if the act or thing so done be of such character as to constitute also a criminal offense under any statute of the United States or under the laws of any State in which the act was committed, shall be prosecuted for such contempt as provided in [section 3691 of this title](./chapter-233-contempts.md#section-3691) and shall be punished by a fine under this title or imprisonment, or both.
+Any person, corporation or association willfully disobeying any lawful writ, process, order, rule, decree, or command of any district court of the United States, including the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1803](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803&num=0&edition=prelim)), or any court of the District of Columbia, by doing any act or thing therein, or thereby forbidden, if the act or thing so done be of such character as to constitute also a criminal offense under any statute of the United States or under the laws of any State in which the act was committed, shall be prosecuted for such contempt as provided in [section 3691 of this title](./chapter-233-contempts.md#section-3691) and shall be punished by a fine under this title or imprisonment, or both.
 
 ### Statutory Notes
 
@@ -52,6 +52,8 @@ As noted above these sections were part of the Clayton Act, entitled “An act t
 This amendment [see section 8] corrects the catchline of [section 402 of title 18](./chapter-021-contempts.md#section-402), U.S.C., to better represent the section content.
 
 #### Amendments
+2024—Pub. L. 118–49 inserted “, including the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1803](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803&num=0&edition=prelim)),” after “any district court of the United States” in first par.
+
 1994—Pub. L. 103–322, § 330016(2)(E), substituted “punished by a fine under this title” for “punished by fine” in first par.
 
 Pub. L. 103–322, § 330011(f), amended directory language of Pub. L. 101–647, § 1205(c). See 1990 Amendment note below.

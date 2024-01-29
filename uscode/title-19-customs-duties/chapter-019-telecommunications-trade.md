@@ -277,7 +277,7 @@ Functions of President under subsec. (e) relating to reports to Congressional co
 ### Statutory Notes
 
 #### References in Text
-The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (c)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 
 <a id="section-3107"></a>

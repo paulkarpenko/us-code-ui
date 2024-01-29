@@ -251,14 +251,15 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 (2) an assessment of the implementation of the recommendations of Teams and of the advisory committee.
 
-**(c) Duration of advisory committee** Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this section.
+**(c) Duration of advisory committee** [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the advisory committee established under this section.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7301 of this title](./chapter-099-national-construction-safety-team.md#section-7301) and Tables.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act”.
 
 #### Change of Name
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.

@@ -35,6 +35,15 @@ In clause (1), the text of 49 App.:2101(3) is omitted as surplus because the com
 
 In clause (2), the word “valid” is omitted as surplus.
 
+#### Part 150 Noise Standards Update
+Pub. L. 118–63, title VII, § 786, May 16, 2024, 138 Stat. 1313, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall review and revise, as appropriate, part 150 of title 14, Code of Federal Regulations, to reflect all relevant laws and regulations, including part 161 of title 14, Code of Federal Regulations. “(b) Outreach.—As part of the review conducted under subsection (a), the Administrator shall clarify existing and future noise policies and standards and seek feedback from airports, airport users, and individuals living in the vicinity of airports and in airport adjacent communities before implementing any changes to any noise policies or standards. “(c) Briefing.—Not later than 90 days after the date of enactment of this Act, and every 6 months thereafter, the Administrator shall brief the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] regarding the review conducted under subsection (a). “(d) Sunset.—The requirement under subsection (c) shall terminate on the earlier of—“(1) October 1, 2028; or “(2) the date on which 1 briefing is provided under subsection (c) after the changes in subsection (a) are implemented.”
+
+#### Reducing Community Aircraft Noise Exposure
+Pub. L. 118–63, title VII, § 787, May 16, 2024, 138 Stat. 1313, provided that: “In implementing or substantially revising a flight procedure, the Administrator [of the Federal Aviation Administration] shall consider the following actions (to the extent that such actions do not negatively affect aviation safety or efficiency) to reduce undesirable aircraft noise: “(1) Implement flight procedures that can mitigate the impact of aircraft noise, based on a consensus community recommendation. “(2) Work with airport sponsors and potentially impacted neighboring communities in establishing or modifying aircraft arrival and departure routes. “(3) In collaboration with local governments, discourage local encroachment of residential or other buildings near airports that could create future aircraft noise complaints or impact airport operations or aviation safety.”
+
+#### Information Sharing Requirement
+Pub. L. 118–63, title VII, § 794, May 16, 2024, 138 Stat. 1319, provided that: “(a) In General.—Not later than 2 years after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation], acting through the Administrator [of the Federal Aviation Administration], shall establish a mechanism to make helicopter noise complaint data accessible to the FAA [Federal Aviation Administration], to helicopter operators operating in the Washington, DC area, and to the public on a website of the FAA, based on the recommendation of the Government Accountability Office in the report titled ‘Aircraft Noise: Better Information Sharing Could Improve Responses to Washington, D.C. Area Helicopter Noise Concerns’, published on January 7, 2021 (GAO–21–200). “(b) Cooperation.—Any helicopter operator operating in the Washington, DC area shall, to the extent practicable, provide helicopter noise complaint data to the FAA through the mechanism established under subsection (a). “(c) Definitions.—In this section:“(1) Helicopter noise complaint data.—The term ‘helicopter noise complaint data’—“(A) means general data relating to a complaint made by an individual about helicopter noise in the Washington, DC area and may include—“(i) the location and description of the event that is the subject of the complaint; “(ii) the start and end time of such event; “(iii) a description of the aircraft that is the subject of the complaint; and “(iv) the airport name associated with such event; and “(B) does not include the personally identifiable information of the individual who submitted the complaint. “(2) Washington, dc area.—The term ‘Washington, DC area’ means the area inside of a 30-mile radius surrounding Ronald Reagan Washington National Airport.”
+
 #### Mitigation of Military Helicopter Noise
 Pub. L. 116–283, div. A, title X, § 1087, Jan. 1, 2021, 134 Stat. 3877, provided that: “(a) Process for Tracking Complaints.—The Secretary of Defense, in coordination with the Metropolitan Washington Airports Authority, shall develop a process to receive, track, and analyze complaints of military rotary wing aircraft noise in the National Capital Region that are registered on the noise inquiry websites of Ronald Reagan Washington National Airport and Dulles International Airport. “(b) National Capital Region.—In this section, the term ‘National Capital Region’ has the meaning given such term in [section 2674(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2674/f/2&num=0&edition=prelim), United States Code.”
 
@@ -456,11 +465,20 @@ The word “prescribed” is added for consistency in the revised title and with
 
 <a id="section-47511"></a>
 ## § 47511. CLEEN engine and airframe technology partnership
-**(a) In General.—** The Administrator of the Federal Aviation Administration shall enter into a cost-sharing cooperative agreement, using a competitive process, with institutions, entities, or consortiums to carry out a program for the development, maturation, and testing of certifiable CLEEN aircraft, engine technologies, and jet fuels for civil subsonic airplanes.
+**(a) In General.—** The Administrator of the Federal Aviation Administration shall enter into a cost-sharing cooperative agreement, using a competitive process, with institutions, entities, or consortiums to carry out a program for the development, maturation, and testing of certifiable CLEEN aircraft, engine technologies, and jet fuels for civil airplanes.
 
 **(b) CLEEN Engine and Airframe Technology Defined.—** In this section, the term “CLEEN aircraft and engine technology” means continuous lower energy, emissions, and noise aircraft and engine technology.
 
 **(c) Performance Objective.—** The Administrator shall establish the performance objectives for the program in terms of the specific objectives to reduce fuel burn, emissions and noise.
+
+**(d) Selection.—** In carrying out the program, the Administrator may provide that not less than 2 of the cooperative agreements entered into under this section involve the participation of an entity that is a small business concern (as defined in section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim))), provided that the submitted technology proposal of the entity meets, at a minimum, FAA Acquisition Management System requirements and requisite technology readiness levels for entry into the agreement, as determined by the Administrator.
+
+### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–63, § 1008(1), struck out “subsonic” after “fuels for civil”.
+
+Subsec. (d). Pub. L. 118–63, § 1008(2), added subsec. (d).
 
 
 <a id="section-47521"></a>

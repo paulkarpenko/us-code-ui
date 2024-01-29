@@ -2,7 +2,7 @@
 title: 5
 chapter: '33'
 heading: 'EXAMINATION, SELECTION, AND PLACEMENT'
-section_count: 78
+section_count: 80
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -313,7 +313,7 @@ George Bush.
 #### Ex. Ord. No. 12718. President’s Advisory Commission on the Public Service
 Ex. Ord. No. 12718, June 29, 1990, 55 F.R. 27451, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](./chapter-010-federal-advisory-committees.md#section-1001) et seq.], and in order to provide a continuing source of advice on the public service from outstanding leaders in various walks of private life, it is hereby ordered as follows:
 
 Section 1. Establishment. The President’s Advisory Commission on the Public Service (“Commission”) is hereby established. The Commission shall be comprised of 13 members to be appointed by the President from among leading citizens in private life. The members shall be appointed for 2-year terms, except that initial appointments shall include six members appointed to serve 1-year terms. Any vacancy in the Commission shall be filled by an appointment for the remainder of the term for which the original appointment was made, and a member whose term has expired may serve until his or her successor has been appointed. The President shall designate one of the members of the Commission to serve as Chairperson.
 
@@ -333,7 +333,7 @@ Sec. 3. Administrative Provisions. (a) The members of the Commission shall serve
 
 (c) The Director of the Office of Personnel Management shall, to the extent permitted by law and subject to the availability of funds, provide the Commission with administrative services, staff support, and necessary expenses.
 
-Sec. 4. General. Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended [5 U.S.C. App.], except that of reporting to the Congress, which are applicable to the Commission, shall be performed by the Office of Personnel Management in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 4. General. Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended [see [5 U.S.C. 1001](./chapter-010-federal-advisory-committees.md#section-1001) et seq.], except that of reporting to the Congress, which are applicable to the Commission, shall be performed by the Office of Personnel Management in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 George Bush.
 
@@ -1276,6 +1276,36 @@ The Office shall prescribe, by regulation, criteria for identifying such positio
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
+**(g) Eligibility of Department of Defense Employees in Time-limited Appointments to Compete for Permanent Appointments.—**
+
+(1) **Definitions.—** — In this subsection—
+
+  (A) the term “Department” means the Department of Defense; and
+
+  (B) the term “time-limited appointment” means a temporary or term appointment in the competitive service.
+
+(2) **Eligibility.—** — Notwithstanding any other provision of this chapter or any other provision of law relating to the examination, certification, and appointment of individuals in the competitive service, an employee of the Department serving under a time-limited appointment is eligible to compete for a permanent appointment in the competitive service when the Department is accepting applications from individuals within its own workforce, or from individuals outside its own workforce, under merit promotion procedures, if—
+
+  (A) the employee was appointed initially under open, competitive examination under subchapter I of this chapter to the time-limited appointment;
+
+  (B) the employee has served under 1 or more time-limited appointments within the Department for a period or periods totaling more than 2 years without a break of 2 or more years; and
+
+  (C) the employee’s performance has been at an acceptable level of performance throughout the period or periods referred to in subparagraph (B).
+
+(3) **Career-conditional status; competitive status.—** — An individual appointed to a permanent position under this section—
+
+  (A) becomes a career-conditional employee, unless the employee has otherwise completed the service requirements for career tenure; and
+
+  (B) acquires competitive status upon appointment.
+
+(4) **Former employees.—** — If the Department is accepting applications as described in paragraph (2), a former employee of the Department who served under a time-limited appointment and who otherwise meets the requirements of this section shall be eligible to compete for a permanent position in the competitive service under this section if—
+
+  (A) the employee applies for a position covered by this section not later than 2 years after the most recent date of separation; and
+
+  (B) the employee’s most recent separation was for reasons other than misconduct or performance.
+
+(5) **Regulations.—** — The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1299,6 +1329,8 @@ In subsection (d), the word “Employees” is substituted for “collector, pos
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–263 added subsec. (g).
+
 2017—Subsec. (a)(3)(B). Pub. L. 115–46 inserted “(or, with respect to the Department of Veterans Affairs, that there exists a severe shortage of highly qualified candidates)” after “severe shortage of candidates”.
 
 2009—Subsec. (a)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
@@ -2083,7 +2115,7 @@ Pub. L. 93–198, title VII, § 734, Dec. 24, 1973, 87 Stat. 823, authorized the
 (2) who does not satisfactorily complete the probationary period under subsection (a)(2) of this section,
 shall be returned to a position of no lower grade and pay than the position from which the individual was transferred, assigned, or promoted. Nothing in this section prohibits an agency from taking an action against an individual serving a probationary period under subsection (a)(2) of this section for cause unrelated to supervisory or managerial performance.
 
-**(c)** Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
+**(c)** Subsections (a) and (b) of this section shall not apply with respect to appointments in the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service.
 
 ### Statutory Notes
 
@@ -2095,9 +2127,6 @@ shall be returned to a position of no lower grade and pay than the position from
 The authority of the President to prescribe rules is added on authority of former section 633(1), which is carried into section 3302. Wording is changed because in practice an appointment is not made after probation. The words “or employment” are omitted as included within “appointment”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
-
-#### Amendment of Subsection (c)
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(A), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that subsection (c) of this section is amended by striking out “, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)”. See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (c). Pub. L. 117–81 struck out “, or any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” before period at end.
@@ -2585,7 +2614,7 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
 
 <a id="section-3330d"></a>
-## § 3330d. Appointment of military spouses
+## § 3330d. Appointment of military and Department of Defense civilian spouses
 **(a) Definitions.—** In this section:
 
 (1) The term “active duty”—
@@ -2602,7 +2631,9 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
   (B) does not include the Government Accountability Office.
 
-(3) The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
+(3) The term “remote work” refers to a particular type of telework under which an employee is not expected to report to an officially established agency location on a regular and recurring basis.
+
+(4) 11 So in original. Two pars. (4) have been enacted. The term “spouse of a disabled or deceased member of the Armed Forces” means an individual—
 
   (A) who is married to a member of the Armed Forces who—
 
@@ -2616,24 +2647,48 @@ Subsec. (f). Pub. L. 104–52, § 4(1)(B), added subsec. (f).
 
     (ii) has not remarried.
 
+(5) The term “telework” has the meaning given the term in section 6501.
+
+(4) 1 The term “spouse of an employee of the Department of Defense” means an individual who is married to an employee of the Department of Defense who is transferred in the interest of the Government from one official station within the Department to another within the Department (that is outside of normal commuting distance) for permanent duty.
+
 **(b) Appointment Authority.—** The head of an agency may appoint noncompetitively—
 
-(1) a spouse of a member of the Armed Forces on active duty; or
+(1) a spouse of a member of the Armed Forces on active duty;
 
-(2) a spouse of a disabled or deceased member of the Armed Forces.
+(2) a spouse of a disabled or deceased member of the Armed Forces; or
+
+(3) 22 So in original. Two pars. (3) have been enacted. a spouse of a member of the Armed Forces on active duty, or a spouse of a disabled or deceased member of the Armed Forces, to a position in which the spouse will engage in remote work.
+
+(3) 2 a spouse of an employee of the Department of Defense.
 
 **(c) Special Rules Regarding Spouse of a Disabled or Deceased Member of the Armed Forces.—**
 
-(1) **In general.—** — An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(3) is not restricted to a geographical area.
+(1) **In general.—** — An appointment of an eligible spouse as described in subparagraph (A) or (B) of subsection (a)(4) is not restricted to a geographical area.
 
 (2) **Single permanent appointment.—** — A spouse of a disabled or deceased member of the Armed Forces may not receive more than 1 permanent appointment under this section.
 
 ### Statutory Notes
 
 #### Amendment of Section
-For expiration of amendment by Pub. L. 115–232 and revival of section, see Termination Date of 2018 Amendment note below.
+For expiration of amendments by Pub. L. 115–232 and Pub. L. 118–31 and revival of section, see Termination Date of 2018 Amendment and Termination Date of 2023 Amendment notes below.
 
 #### Amendments
+2023—Pub. L. 118–31, § 1119(a)(1), (d), temporarily amended section catchline, inserting “and Department of Defense civilian” after “military”. See Termination Date of 2023 Amendment note below.
+
+Subsec. (a)(3). Pub. L. 118–31, § 1112(a)(1)(B), added par. (3). Former par. (3) redesignated (4) defining spouse of a disabled or deceased member of the Armed Forces.
+
+Subsec. (a)(4). Pub. L. 118–31, § 1119(a)(2), (d), temporarily added par. (4), defining spouse of an employee of the Department of Defense, at end of subsec. (a). See Termination Date of 2023 Amendment note below.
+
+Pub. L. 118–31, § 1112(a)(1)(A) redesignated par. (3) as (4) defining spouse of a disabled or deceased member of the Armed Forces.
+
+Subsec. (a)(5). Pub. L. 118–31, § 1112(a)(1)(C), added par. (5).
+
+Subsec. (b)(3). Pub. L. 118–31, § 1119(a)(3), (d), temporarily added par. (3) relating to a spouse of an employee of the Department of Defense. See Termination Date of 2023 Amendment note below.
+
+Pub. L. 118–31, § 1112(a)(2), added par. (3) relating to appointment of a spouse to a position in which the spouse will engage in remote work.
+
+Subsec. (c)(1). Pub. L. 118–31, § 1112(a)(3), substituted “subsection (a)(4)” for “subsection (a)(3)”.
+
 2018—Pub. L. 115–232, § 573(c), (e), temporarily amended section catchline generally, substituting “Appointment of military spouses” for “Appointment of certain military spouses”. See Termination Date of 2018 Amendment note below.
 
 Subsec. (a)(3) to (6). Pub. L. 115–232, § 573(a)(1), (e), temporarily redesignated par. (6) as (3) and temporarily struck out former pars. (3) to (5) which defined geographic area of the permanent duty station, permanent change of station, and relocating spouse of a member of the Armed Forces, respectively. See Termination Date of 2018 Amendment note below.
@@ -2642,14 +2697,21 @@ Subsecs. (b) to (d). Pub. L. 115–232, § 573(a)(2)–(4), (e), temporarily add
 
 2016—Subsec. (c)(3). Pub. L. 114–328 added par. (3).
 
+#### Termination Date of 2023 Amendment
+Pub. L. 118–31, div. A, title XI, § 1119(d), Dec. 22, 2023, 137 Stat. 435, provided that: “Effective on December 31, 2028— “(1) the authority provided by this section [amending this section and enacting provisions set out as a note below], and the amendments made by this section [amending this section], shall expire; and “(2) the provisions of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, amended or repealed by this section are restored or revived as if this section had not been enacted.”
+
 #### Termination Date of 2018 Amendment
-Pub. L. 115–232, div. A, title V, § 573(e), Aug. 13, 2018, 132 Stat. 1779, provided that: “Effective on the date that is 5 years after the date of the enactment of this Act [Aug. 13, 2018]— “(1) the authority provided by this section [amending this section and enacting provisions set out as a note below], and the amendments made by this section [amending this section], shall expire; and “(2) the provisions of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, amended or repealed by such section are restored or revived as if such section had not been enacted.”
+Pub. L. 115–232, div. A, title V, § 573(e), Aug. 13, 2018, 132 Stat. 1779, as amended by Pub. L. 117–263, div. A, title XI, § 1111(a), Dec. 23, 2022, 136 Stat. 2820, provided that: “Effective on December 31, 2028— “(1) the authority provided by this section [amending this section and enacting provisions set out as a note below], and the amendments made by this section [amending this section], shall expire; and “(2) the provisions of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, amended or repealed by such section are restored or revived as if such section had not been enacted.”
 
 #### Regulations
 Pub. L. 112–239, div. A, title V, § 566(b), Jan. 2, 2013, 126 Stat. 1751, provided that: “Not later than 180 after the date of the enactment of this Act [Jan. 2, 2013], the Director of the Office of Personnel Management shall amend section 315.612 of title 5, Code of Federal Regulations (relating to noncompetitive appointment of certain military spouses), in accordance with the amendment made by subsection (a) [enacting this section] and promulgate or amend any other regulations necessary to carry out the amendment made by subsection (a).”
 
 #### OPM Limitation and Reports
-Pub. L. 115–232, div. A, title V, § 573(d), Aug. 13, 2018, 132 Stat. 1779, provided that: “(1) Relocating spouses.—With respect to the noncompetitive appointment of a relocating spouse of a member of the Armed Forces under subsection (b)(1) of [section 3330d of title 5](./chapter-033-examination-selection-and-placement.md#section-3330d), United States Code, as amended by subsection (a), the Director of the Office of Personnel Management—“(A) shall monitor the number of such appointments; “(B) shall require the head of each agency with authority to make such appointments under such section to submit an annual report to the Director on such appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for such appointments; and “(C) not later than 18 months after the date of the enactment of this Act [Aug. 13, 2018], shall submit a report to the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives and the Committee on Homeland Security and Government Affairs of the Senate on the use and effectiveness of such authority. “(2) Non-relocating spouses.—With respect to the noncompetitive appointment of a spouse of a member of the Armed Forces other than a relocating spouse described in paragraph (1), the Director of the Office of Personnel Management—“(A) shall treat the spouse as a relocating spouse under paragraph (1); and “(B) may limit the number of such appointments.”
+Pub. L. 118–31, div. A, title XI, § 1119(c), Dec. 22, 2023, 137 Stat. 434, provided that: “(1) Relocating spouses.—With respect to the noncompetitive appointment of a relocating spouse of an employee of the Department of Defense under paragraph (3) of [section 3330d(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3330d/b&num=0&edition=prelim), United States Code, as added by subsection (a), the Director of the Office of Personnel Management shall—“(A) monitor the number of those appointments; “(B) require the head of each agency with the authority to make those appointments under that provision to submit to the Director an annual report on those appointments, including information on the number of individuals so appointed, the types of positions filled, and the effectiveness of the authority for those appointments; and “(C) not later than 18 months after the date of enactment of this Act [Dec. 22, 2023], submit, to the Committees on Armed Services and Homeland Security and Governmental Affairs of the Senate and the Committees on Armed Services and Oversight and Accountability of the House of Representatives, a report on the use and effectiveness of the authority described in subparagraph (B). “(2) Non-relocating spouses.—With respect to the noncompetitive appointment of a spouse of an employee of the Department of Defense other than a relocating spouse described in paragraph (1), the Director of the Office of Personnel Management—“(A) shall treat the spouse as a relocating spouse under paragraph (1); and “(B) may limit the number of those appointments.”
+
+[For termination of section 1119(c) of Pub. L. 118–31, set out above, see Termination Date of 2023 Amendment note set out above.]
+
+Pub. L. 115–232, div. A, title V, § 573(d), Aug. 13, 2018, 132 Stat. 1779, which related to limitations on the noncompetitive appointment of relocating spouses and required reports, was repealed by Pub. L. 117–263, div. A, title XI, § 1111(b), Dec. 23, 2022, 136 Stat. 2820.
 
 #### Ex. Ord. No. 13832. Enhancing Noncompetitive Civil Service Appointments of Military Spouses
 Ex. Ord. No. 13832, May 9, 2018, 83 F.R. 22343, provided:
@@ -2702,6 +2764,121 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
+#### Ex. Ord. No. 14100. Advancing Economic Security for Military and Veteran Spouses, Military Caregivers, and Survivors
+Ex. Ord. No. 14100, June 9, 2023, 88 F.R. 39111, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. Military-connected families are American working families. Military and veteran families, military caregivers, and survivors face many of the same challenges as their neighbors, but they can carry the additional strains of multiple deployments; frequent moves with little control over their geographic location; caring for wounded, ill, and injured service members or veterans; time apart for training and other demands of military life; and more. The unique demands of military life continue to affect veteran families, military caregivers, and survivors for years after a service member’s time in uniform.
+
+Military families, like their civilian counterparts, increasingly look to rely upon dual incomes; however, the 21 percent unemployment rate experienced by active-duty military spouses in the workforce makes that a difficult goal to achieve and maintain. Nearly one in five military families cite challenges with spousal employment as a reason when considering leaving active-duty service. The challenges associated with the military lifestyle, including permanent change-of-station moves every 2 to 3 years on average for active-duty families, mean that military spouses often struggle to find options for work that are portable or allow them to build a sustainable long-term career. Employment challenges are not limited to active-duty spouses, as Reserve and National Guard spouses must balance their careers against the unpredictable nature of the service member’s schedule, activations, and deployments. Employment challenges can continue to affect the employability and career trajectory of veteran spouses well after a service member leaves the service.
+
+Recognizing the importance of military family economic well-being to the all-volunteer force, the Federal Government employs more than 16,000 military, veteran, and surviving spouses. As the Nation’s largest employer, we must be a model for diversity, equity, inclusion, and accessibility, and, in doing so, we recognize that military spouses are an underserved community. Whether they choose public service, employment in the private sector, or entrepreneurship through building a small business, it is the policy of my Administration to advance economic opportunity for military spouses. My Administration also recognizes the imperative of promoting economic security for military spouses—the vast majority of whom are women—under the National Strategy on Gender Equity and Equality.
+
+In addition, my Administration understands that access to high-quality, affordable child care is a necessity for working families, and a military readiness issue. While the Department of Defense offers the largest employer-sponsored child care network in the country, military families still face challenges related to capacity and non-traditional work schedules. Many military families seeking care outside of the gates of our military bases struggle to find care they can afford. Because access to child care should not be an impediment to service, I have directed the Secretary of Defense to ensure the Fourteenth Quadrennial Review of Military Compensation, undertaken in January 2023, includes an assessment of child care access and cost in its review of military benefits and pay, along with consideration of factors such as the challenge of military spouse unemployment, frequent military moves, and periods of geographic separation between service members and their spouses, including dual military couples.
+
+Military spouses can also be service members themselves, wearing the Nation’s uniform in our Active Components, National Guard, or Reserve forces, with a higher percentage of women service members in a dual military marriage than their male counterparts. As we recognize the 75th anniversary of women’s integration into the Armed Forces, my Administration is committed to removing barriers to women’s ability to serve, including difficulty in accessing child care, which poses a challenge for both spouses, but disproportionately affects retention for women, especially women in dual military couples, and can play a factor in women’s early separation from the Armed Forces.
+
+As we commemorate the 50th anniversary of the all-volunteer force, we must appreciate now more than ever that the commitment and resilience of military-connected families are essential to the recruitment, retention, and readiness of our Armed Forces and the enduring strength of our Nation. Meeting the economic, social, and emotional needs of our military and veteran families, military caregivers, and survivors is a national security imperative. In times of peace and of war, military and veteran families, military caregivers, and survivors have sacrificed much for our country, answering the call to duty time and again. We owe them nothing less than the dignity of a meaningful career and the opportunity to build economic security for their families.
+
+Sec. 2. Government-wide Military and Veteran Spouse, Military Caregiver, and Survivor Hiring and Retention Strategic Plan and Training. Given the considerable Federal footprint around many military installations, military spouses are often interested in pursuing careers in the Federal civil service. To ensure that the Federal Government is an employer of choice for military and veteran spouses, military caregivers, and survivors, executive departments and agencies (agencies) must strengthen their ability to recruit, hire, develop, promote, and retain this skilled and diverse pool of talent. To that end:
+
+(a) The Director of the Office of Personnel Management (OPM) and the Deputy Director for Management of the Office of Management and Budget, in consultation with the Secretary of State, the Secretary of Defense, the Secretary of Labor, the Secretary of Veterans Affairs, and the Secretary of Homeland Security, shall develop and issue a Government-wide Military and Veteran Spouse, Military Caregiver, and Survivor Hiring and Retention Strategic Plan (Military-Connected Plan) within 180 days of the date of this order [June 9, 2023] that builds upon the Government-wide plans required by Executive Order 13583 of August 18, 2011 (Establishing a Coordinated Government-Wide Initiative to Promote Diversity and Inclusion in the Federal Workforce) [[42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) note], and Executive Order 14035 of June 25, 2021 (Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce) [[42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) note]. The Military-Connected Plan shall be updated as appropriate and at a minimum every 4 years. The Military-Connected Plan shall:
+
+(i) define measures of success for the recruitment, hiring, and retention of military and veteran spouses, military caregivers, and survivors based on leading policies and practices in the public, private, and nonprofit sectors;
+
+(ii) include plans for OPM to consult with the Department of Defense and the Department of Homeland Security in developing enhanced support for the retention of military spouses in Federal careers, consistent with merit system principles as defined in [5 U.S.C. 2301](./chapter-023-merit-system-principles.md#section-2301);
+
+(iii) consistent with merit system principles, identify strategies—including pursuing development of a legislative proposal, as appropriate—to eliminate, where applicable, barriers to the employment of military and veteran spouses, military caregivers, and survivors in the Federal workforce, including with respect to recruitment; hiring, including an assessment of whether to pursue expanded eligibility for derivative preference; promotion; retention; performance evaluations and awards; professional development programs; mentoring programs or sponsorship initiatives; internship, fellowship, and registered apprenticeship programs; employee resource group and affinity group programs; and training, learning, and onboarding programs;
+
+(iv) identify strategies for marketing the talent, experience, and diversity of military and veteran spouses, military caregivers, and survivors to agencies; and
+
+(v) develop a data-driven approach to increasing transparency and accountability in hiring and retention—including by encouraging agencies to set goals for hiring under the Military Spouse Noncompetitive Appointment Authority established by [5 U.S.C. 3330d](./chapter-033-examination-selection-and-placement.md#section-3330d) and hiring individuals eligible for derivative preference, to use data internally to improve performance, and to use data to publicly report on progress—which would build upon, as appropriate, the reporting requirements of Executive Order 13832 of May 9, 2018 (Enhancing Noncompetitive Civil Service Appointments of Military Spouses) [set out above].
+
+(b) Beginning with Fiscal Year 2025, the Director of OPM shall revise the title of the “Employment of Veterans in the Federal Executive Branch” annual report to “Employment of Veterans and Military-Connected Spouses and Survivors in the Federal Executive Branch,” and shall include in the report the existing data previously reported in the “Employment of Veterans in the Federal Executive Branch” report, including statistics on the hiring of military and veteran spouses and survivors in a manner that allows for comparison and analysis of the distinct populations and hiring mechanisms.
+
+(c) The Secretary of Veterans Affairs and the Director of OPM shall collaborate on opportunities to better share Federal employee survey data to enable analysis and reporting relevant to the employment of military and veteran spouses and survivors.
+
+(d) In collaboration with the Director of OPM and consistent with [5 U.S.C. 4103](./chapter-041-training.md#section-4103), agencies shall provide annual training for agency human resources personnel and hiring managers concerning the employment of military and veteran spouses, military caregivers, and survivors, including training on special authorities for the hiring of military spouses and survivors, and the provision of tools to build the agencies’ capacity to make use of applicable hiring authorities, including distribution of the Joining Forces military spouse hiring toolkit, which OPM shall publish on the FedsHireVets website.
+
+(e) The Office of Science and Technology Policy (OSTP) National Science and Technology Council Subcommittee on Equitable Data, as designated by Executive Order 14091 of February 16, 2023 (Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) [[5 U.S.C. 601](./chapter-006-the-analysis-of-regulatory-functions.md#section-601) note], shall develop recommendations on ways in which agencies can expand Federal datasets to track outcomes for military and veteran spouses, military caregivers, and survivors. Such recommendations shall be included in the Director of OSTP’s reports to the White House Steering Committee on Equity under section 9 of Executive Order 14091.
+
+(f) The Secretaries of Defense, Labor, Veterans Affairs, and Homeland Security shall work together through existing interagency collaborations, including the Transition Assistance Program, to increase training and employment opportunities for military spouses in the workforce through the transition to veteran spouse status.
+
+Sec. 3. Updates to Federal Training and Hiring Authorities. To strengthen the ability of the Federal Government to train, develop, and hire military and veteran spouses and survivors:
+
+(a) Beginning with Fiscal Year 2025, agencies shall list the Military Spouse Noncompetitive Appointment Authority established by [5 U.S.C. 3330d](./chapter-033-examination-selection-and-placement.md#section-3330d) when soliciting applications from outside of their workforce for positions announced on USAJOBS or other job posting sites. This requirement applies when using merit promotion procedures to fill competitive service positions.
+
+(b) The Secretary of Labor shall examine the eligibility of military and veteran spouses for programs that provide education, job training, employment services, employer engagement, and other relevant programs, and, as appropriate, shall work to reduce barriers that military and veteran spouses may face in accessing those programs.
+
+(c) The Director of OPM shall examine the eligibility criteria for the Recent Graduates Program established by section 2 of Executive Order 13562 of December 27, 2010 (Recruiting and Hiring Students and Recent Graduates) [[5 U.S.C. 3301](./chapter-033-examination-selection-and-placement.md#section-3301) note], and, as appropriate, including by recommending Presidential action as necessary, shall work to reduce barriers that military spouses may face in accessing the Program.
+
+Sec. 4. Retention of Military and Veteran Spouses and Military Caregivers, Including Those Employed by the Federal Government. In order to support military and veteran spouses and military caregivers, including those who are employed by the Federal Government:
+
+(a) The Director of OPM shall issue guidance to agencies:
+
+(i) reinforcing existing telework and remote work flexibility options pursuant to [5 U.S.C. 6502](./chapter-065-telework.md#section-6502) for Federal employees, including military spouses and military caregivers, and encouraging agency leaders to consider these as options for retaining Federal employee military spouses and military caregivers;
+
+(ii) encouraging agencies to support the policies set forth in section 1 of this order by granting up to 5 days of administrative leave to military spouses during a geographic relocation occurring as directed by a service member’s orders; and
+
+(iii) encouraging agencies to collaborate so that a military spouse or military caregiver Federal employee may be placed in another Federal agency position when arrangements to retain a military spouse or military caregiver—including following changes to support continuity of care or relocation due to permanent change-of-station orders for the active-duty service member—are unavailable to allow them to continue in their existing position.
+
+(b) The Secretary of State and the Secretary of Defense, when reevaluating or entering agreements with host nations, shall consider work options for military spouses who are performing remote work for non-Department of Defense entities, so as to reduce barriers for military spouses seeking to continue their private sector- or self-employment.
+
+(c) The Secretary of Defense shall coordinate with the heads of the Military Departments, and the Secretary of Homeland Security shall coordinate with the Commandant of the United States Coast Guard, to amend their respective legal assistance instructions to allow for consultation, advice, and assistance to military families on Status of Forces Agreements and other agreements with host nations affecting family employment, so as to provide support for military spouses navigating complex employment requirements related to working remotely while their active-duty service member spouse is stationed overseas. Those amendments shall specify that legal assistance is limited to the personal civil legal affairs of military dependents affected by employment restrictions related to a Status of Forces Agreement or other host nation agreement, and does not extend to their employers or the establishment, management, or taxation of small business organizations.
+
+Sec. 5. Domestic Employees Teleworking Overseas Policy. In order to ensure that military spouses are able to equitably and reasonably access opportunities for remote work in their Federal jobs when their service-member spouse receives orders overseas, promote togetherness for military families, and enable agencies that employ military spouses—resilient and talented civil servants—to retain them, the following improvements shall be made to the Domestic Employees Teleworking Overseas (DETO) program implemented by agencies pursuant to the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) [see Tables for classification]:
+
+(a) The Secretary of State and the Secretary of Defense shall enter into a Memorandum of Understanding (MOU) to address residential security and safety requirements for military spouses employed by the Federal Government and working overseas through the DETO program. The MOU shall be communicated to sponsoring agencies, and the Secretaries of State and Defense shall develop appropriate guidance to communicate the provisions of the MOU to military spouses who are civilian employees of the Federal Government.
+
+(b) To promote consistency and effective coordination in the implementation of the DETO program across the executive branch, agencies shall:
+
+(i) develop common standards for DETO policies, including identification of points of contact and creation of guidelines to ensure that such policies are communicated and advertised in a manner accessible to military spouse employees;
+
+(ii) establish a DETO application system and develop a method to track DETO applications received and processed, as well as application processing timelines; and
+
+(iii) establish time frames for DETO application processing and approvals, considering the time-sensitive nature of decisions for applications by military spouses due to permanent change-of-station moves and other factors unique to military families.
+
+Sec. 6. Expanding Support for Military and Veteran Spouse Entrepreneurs. Many military spouses start their own businesses because of a need for flexibility or inability to find or maintain other employment. When military spouses must discontinue their businesses, however, they often cite military moves, rather than lack of profitability, as the reason. To support military spouse entrepreneurs in starting and sustaining their businesses, the Administrator of the Small Business Administration shall:
+
+(a) expand access to resources tailored to military and veteran spouses who are interested in starting or growing a small business, including guidance to help military spouses with relocating a business following a military move; and
+
+(b) evaluate access to capital gaps for military spouse entrepreneurs.
+
+Sec. 7. Child Care for Military Families. The Department of Defense operates the largest employer-sponsored child care program in the United States in order to provide military families with support that is essential to overall mission readiness, retention, and recruitment. To build on the existing support and ensure that military families have access to affordable, high-quality child care allowing both the service member and the spouse to pursue professional opportunities, the Secretary of Defense shall:
+
+(a) in coordination with the Director of OPM, establish flexible spending accounts for the care of military dependents, available to military personnel no later than January 1, 2024; and
+
+(b) expand pathways for military spouses to provide certified, home-based child care on military installations, including by providing them with support in seeking licensure and achieving government-mandated quality benchmarks.
+
+Sec. 8. Definitions. For the purposes of this order:
+
+(a) The term “active duty” has the meaning set forth in [10 U.S.C. 101(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/1&num=0&edition=prelim), except that the term also includes “active Guard and Reserve duty,” as defined in [10 U.S.C. 101(d)(6)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/6/a&num=0&edition=prelim).
+
+(b) The term “agency” means any authority of the United States that is an “agency” under [44 U.S.C. 3502(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim), other than those considered to be independent regulatory agencies, as defined in [44 U.S.C. 3502(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim).
+
+(c) The term “derivative preference” means those who are “preference eligible,” as defined in [5 U.S.C. 2108(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2108/3&num=0&edition=prelim), because they are eligible spouses and parents who use a veteran’s preference when the veteran is unable to do so.
+
+(d) The term “military caregiver” means the spouse, child, parent, or next of kin of a veteran who is the primary caregiver for a veteran undergoing medical treatment, recuperation, or therapy for a serious injury or illness who was a member of the Armed Forces (including a member of the National Guard or Reserves) and who was discharged or released under conditions other than dishonorable.
+
+(e) The term “military spouse” means an individual married to a member of the Armed Forces who is performing active duty.
+
+(f) The term “survivor” means the spouse, child, parent, or next of kin of a service member who died while on active duty, or from a service-connected disability following discharge or release under conditions other than dishonorable.
+
+(g) The term “veteran spouse” means an individual married to a retired or separated member of the Armed Forces who was discharged or released under conditions other than dishonorable, so long as the marriage occurred prior to or during the service member’s active service.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 
 <a id="section-3330e"></a>
 ## § 3330e. Review of official personnel file of former Federal employees before rehiring
@@ -2715,6 +2892,211 @@ Donald J. Trump.
 
 #### Effective Date
 Pub. L. 114–328, div. A, title XI, § 1136(b), Dec. 23, 2016, 130 Stat. 2460, provided that: “The amendment made by subsection (a) [enacting this section] shall apply to any former Government employee (as described in [section 3330e of title 5](./chapter-033-examination-selection-and-placement.md#section-3330e), United States Code, as added by such subsection) appointed or reinstated on or after the date that is 180 days after the date of enactment of this Act [Dec. 23, 2016].”
+
+
+<a id="section-3330f"></a>
+## § 3330f. Government policy and supporting position data
+**(a) Definitions.—** In this section:
+
+(1) **Agency.—** — The term “agency” means—
+
+  (A) any Executive agency, the United States Postal Service, and the Postal Regulatory Commission;
+
+  (B) the Architect of the Capitol, the Government Accountability Office, the Government Publishing Office, and the Library of Congress; and
+
+  (C) the Executive Office of the President and any component within that Office (including any successor component), including—
+
+    (i) the Council of Economic Advisors;
+
+    (ii) the Council on Environmental Quality;
+
+    (iii) the National Security Council;
+
+    (iv) the Office of the Vice President;
+
+    (v) the Office of Policy Development;
+
+    (vi) the Office of Administration;
+
+    (vii) the Office of Management and Budget;
+
+    (viii) the Office of the United States Trade Representative;
+
+    (ix) the Office of Science and Technology Policy;
+
+    (x) the Office of National Drug Control Policy; and
+
+    (xi) the White House Office, including the White House Office of Presidential Personnel.
+
+(2) **Appointee.—** — The term “appointee”—
+
+  (A) means an individual serving in a policy and supporting position; and
+
+  (B) includes an individual serving in such a position temporarily in an acting capacity in accordance with—
+
+    (i) sections 3345 through 3349d (commonly referred to as the “Federal Vacancies Reform Act of 1998”);
+
+    (ii) any other statutory provision described in section 3347(a)(1); or
+
+    (iii) a Presidential appointment described in section 3347(a)(2).
+
+(3) **Covered website.—** — The term “covered website” means the website established and maintained by the Director under subsection (b).
+
+(4) **Director.—** — The term “Director” means the Director of the Office of Personnel Management.
+
+(5) **Policy and supporting position.—** — The term “policy and supporting position”—
+
+  (A) means any position at an agency, as determined by the Director, that, but for this section and section 2(b)(3) of the PLUM Act of 2022, would be included in the publication entitled “United States Government Policy and Supporting Positions”, (commonly referred to as the “Plum Book”); and
+
+  (B) may include—
+
+    (i) a position on any level of the Executive Schedule under subchapter II of chapter 53, or another position with an equivalent rate of pay;
+
+    (ii) a general position (as defined in section 3132(a)(9)) in the Senior Executive service;
+
+    (iii) a position in the Senior Foreign Service;
+
+    (iv) a position of a confidential or policy-determining character under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations, or any successor regulation; and
+
+    (v) any other position classified at or above level GS–14 of the General Schedule (or equivalent) that is excepted from the competitive service by law because of the confidential or policy-determining nature of the position duties.
+
+**(b) Establishment of Website.—** Not later than 1 year after the date of enactment of the PLUM Act of 2022, the Director shall establish, and thereafter the Director shall maintain, a public website containing the following information for the President in office on the date of establishment and for each subsequent President:
+
+(1) Each policy and supporting position in the Federal Government, including any such position that is vacant.
+
+(2) The name of each individual who—
+
+  (A) is serving in a position described in paragraph (1); or
+
+  (B) previously served in a position described in such paragraph under the applicable President.
+
+(3) Information on—
+
+  (A) any Government-wide or agency-wide limitation on the total number of positions in the Senior Executive Service under section 3133 or 3134 or the total number of positions under schedule C of subpart C of part 213 of title 5, Code of Federal Regulations; and
+
+  (B) the total number of individuals occupying such positions.
+
+**(c) Contents.—** With respect to any policy and supporting position listed on the covered website, the Director shall include—
+
+(1) the agency, and agency component, (including the agency and bureau code used by the Office of Management and Budget) in which the position is located;
+
+(2) the name of the position;
+
+(3) the name of the individual occupying the position (if any);
+
+(4) the geographic location of the position, including the city, State or province, and country;
+
+(5) the pay system under which the position is paid;
+
+(6) the level, grade, or rate of pay;
+
+(7) the term or duration of the appointment (if any);
+
+(8) the expiration date, in the case of a time-limited appointment;
+
+(9) a unique identifier for each appointee;
+
+(10) whether the position is vacant; and
+
+(11) for any position that is vacant—
+
+  (A) for a position for which appointment is required to be made by the President, by and with the advice and consent of the Senate, the name of the acting official; and
+
+  (B) for other positions, the name of the official performing the duties of the vacant position.
+
+**(d) Current Data.—** For each agency, the Director shall indicate in the information on the covered website the date that the agency last updated the data.
+
+**(e) Format.—** The Director shall make the data on the covered website available to the public at no cost over the internet in a searchable, sortable, downloadable, and machine-readable format so that the data qualifies as an open Government data asset, as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim).
+
+**(f) Authority of Director.—**
+
+(1) **Information required.—** — Each agency shall provide to the Director any information that the Director determines necessary to establish and maintain the covered website, including the information uploaded under paragraph (4).
+
+(2) **Requirements for agencies.—** — Not later than 1 year after the date of enactment of the PLUM Act of 2022, the Director shall issue instructions to agencies with specific requirements for the provision or uploading of information required under paragraph (1), including—
+
+  (A) specific data standards that an agency shall follow to ensure that the information is complete, accurate, and reliable;
+
+  (B) data quality assurance methods; and
+
+  (C) the timeframe during which an agency shall provide or upload the information, including the timeframe described under paragraph (4).
+
+(3) **Public accountability.—** — The Director shall identify on the covered website any agency that has failed to provide—
+
+  (A) the information required by the Director;
+
+  (B) complete, accurate, and reliable information; or
+
+  (C) the information during the timeframe specified by the Director.
+
+(4) **Annual updates.—**
+
+  (A) *In general.—* — Not later than 90 days after the date on which the covered website is established, and not less than once during each year thereafter, the head of each agency shall upload to the covered website updated information (if any) on—
+
+    (i) the policy and supporting positions in the agency;
+
+    (ii) the appointees occupying such positions in the agency; and
+
+    (iii) the former appointees who served in such positions in the agency under the President then in office.
+
+  (B) *Supplement not supplant.—* — Information provided under subparagraph (A) shall supplement, not supplant, previously provided information under that subparagraph.
+
+(5) **Opm help desk.—** — The Director shall establish a central help desk, to be operated by not more than 1 full-time employee, to assist any agency with implementing this section.
+
+(6) **Coordination.—** — The Director may designate 1 or more agencies to participate in the development, establishment, operation, and support of the covered website. With respect to any such designation, the Director may specify the scope of the responsibilities of the agency so designated.
+
+(7) **Data standards and timing.—** — The Director shall make available on the covered website information regarding data collection standards, quality assurance methods, and time frames for reporting data to the Director.
+
+(8) **Regulations.—** — The Director may prescribe regulations necessary for the administration of this section.
+
+**(g) Responsibility of Agencies.—**
+
+(1) **Provision of information.—** — Each agency shall comply with the instructions and guidance issued by the Director to carry out this section, and, upon request of the Director, shall provide appropriate assistance to the Director to ensure the successful operation of the covered website in the manner and within the timeframe specified by the Director under subsection (f)(2).
+
+(2) **Ensuring completeness, accuracy, and reliability.—** — With respect to any submission of information described in paragraph (1), the head of an agency shall include—
+
+  (A) an explanation of how the agency ensured the information is complete, accurate, and reliable; and
+
+  (B) a certification that the information is complete, accurate, and reliable.
+
+**(h) Information Verification.—**
+
+(1) **Confirmation.—**
+
+  (A) *In general.—* — On the date that is 90 days after the date on which the covered website is established, the Director, in coordination with the White House Office of Presidential Personnel, shall confirm that the information on the covered website is complete, accurate, reliable, and up-to-date.
+
+  (B) *Certification.—* — On the date on which the Director makes a confirmation under subparagraph (A), the Director shall publish on the covered website a certification that the confirmation has been made.
+
+(2) **Authority of director.—** — In carrying out paragraph (1), the Director may—
+
+  (A) request additional information from an agency; and
+
+  (B) use any additional information provided to the Director or the White House Office of Presidential Personnel for the purposes of verification.
+
+(3) **Public comment.—** — The Director shall establish a process under which members of the public may provide feedback regarding the accuracy of the information on the covered website.
+
+**(i) Data Archiving.—**
+
+(1) **In general.—** — As soon as practicable after a transitional inauguration day (as defined in section 3349a), the Director, in consultation with the Archivist of the United States, shall archive the data that was compiled on the covered website for the preceding presidential administration.
+
+(2) **Public availability.—** — The Director shall make the data described in paragraph (1) publicly available over the internet—
+
+  (A) on, or through a link on, the covered website;
+
+  (B) at no cost; and
+
+  (C) in a searchable, sortable, downloadable, and machine-readable format.
+
+### Statutory Notes
+
+#### References in Text
+Section 2(b)(3) of the PLUM Act of 2022, referred to in subsec. (a)(5)(A), probably means section 5322(b)(3) of Pub. L. 117–263, which is set out in a note under this section. The PLUM Act of 2022 is subtitle B of title LIII of div. E of Pub. L. 117–263, the second section of which is section 5322.
+
+The General Schedule, referred to in subsec. (a)(5)(B)(v), is set out under [section 5332 of this title](./chapter-053-pay-rates-and-systems.md#section-5332).
+
+The date of enactment of the PLUM Act of 2022, referred to in subsecs. (b) and (f)(2), is the date of enactment of subtitle B of title LIII of div. E of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+#### Other Matters Relating to Public Website
+Pub. L. 117–263, div. E, title LIII, § 5322(b), Dec. 23, 2022, 136 Stat. 3259, provided that: “(1) Definitions.—In this subsection, the terms ‘agency’, ‘covered website’, ‘Director’, and ‘policy and supporting position’ have the meanings given those terms in [section 3330f of title 5](./chapter-033-examination-selection-and-placement.md#section-3330f), United States Code, as added by subsection (a). “(2) Gao review and report.—Not later than 1 year after the date on which the Director establishes the covered website, the Comptroller General of the United States shall conduct a review of, and issue a briefing or report on, the implementation of this subtitle [subtitle B (§§ 5321, 5322) of title LIII of div. E of Pub. L. 117–263, enacting this section and provisions set out as a note under [section 101 of this title](./chapter-001-organization.md#section-101)] and the amendments made by this subtitle, which shall include—“(A) the quality of data required to be collected and whether the data is complete, accurate, timely, and reliable; “(B) any challenges experienced by agencies in implementing this subtitle and the amendments made by this subtitle; and “(C) any suggestions or modifications to enhance compliance with this subtitle and the amendments made by this subtitle, including best practices for agencies to follow. “(3) Sunset of plum book.—Beginning on January 1, 2026—“(A) the covered website shall serve as the public directory for policy and supporting positions in the Government; and “(B) the publication entitled ‘United States Government Policy and Supporting Positions’, commonly referred to as the ‘Plum Book’, shall no longer be issued or published. “(4) Funding.—“(A) In general.—No additional amounts are authorized to be appropriated to carry out this subtitle or the amendments made by this subtitle. “(B) Other funding.—The Director shall carry out this subtitle and the amendments made by this subtitle using amounts otherwise available to the Director.”
 
 
 <a id="section-3331"></a>
@@ -2885,7 +3267,7 @@ An agency as defined by [section 551 of this title](./chapter-005-administrative
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
-|  | [5 U.S.C. 1010](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1010&num=0&edition=prelim) (4th sentence). | June 11, 1946, ch. 324, § 11 (4th sentence), 60 Stat. 244. |
+|  | [5 U.S.C. 1010](./chapter-010-federal-advisory-committees.md#section-1010) (4th sentence). | June 11, 1946, ch. 324, § 11 (4th sentence), 60 Stat. 244. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -3373,7 +3755,7 @@ A prior section 3349, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 426, provided fo
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under [section 3345 of this title](./chapter-033-examination-selection-and-placement.md#section-3345).
@@ -3443,6 +3825,24 @@ Section effective 30 days after Oct. 21, 1998, and applicable to any office that
 
 #### Effective Date
 Section effective 30 days after Oct. 21, 1998, and applicable to any office that becomes vacant after such effective date, with certain exceptions, see section 151(d) of Pub. L. 105–277, set out as a note under [section 3345 of this title](./chapter-033-examination-selection-and-placement.md#section-3345).
+
+
+<a id="section-3349e"></a>
+## § 3349e. Presidential explanation of failure to nominate an inspector general
+
+If the President fails to make a formal nomination for a vacant inspector general position that requires a formal nomination by the President to be filled within the period beginning on the later of the date on which the vacancy occurred or on which a nomination is rejected, withdrawn, or returned, and ending on the day that is 210 days after that date, the President shall communicate, within 30 days after the end of such period and not later than June 1 of each year thereafter, to the appropriate congressional committees, as defined in section 12 of the Inspector General Act of 1978 (5 U.S.C. App.) 11 See References in Text note below.—
+
+(1) the reasons why the President has not yet made a formal nomination; and
+
+(2) a target date for making a formal nomination.
+
+### Statutory Notes
+
+#### References in Text
+Section 12 of the Inspector General Act of 1978, referred to in text, is section 12 of Pub. L. 95–452, which was set out in the Appendix to this title and was repealed and restated as [section 401 of this title](./chapter-004-inspectors-general.md#section-401) by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4207, 4361. For definition of “appropriate congressional committees”, see Amendments Not Shown in Text note set out under [section 401 of this title](./chapter-004-inspectors-general.md#section-401).
+
+#### Effective Date
+Pub. L. 117–263, div. E, title LII, § 5221(c), Dec. 23, 2022, 136 Stat. 3234, provided that: “The amendment made by subsection (a) [enacting this section] shall take effect— “(1) on the date of enactment of this Act [Dec. 23, 2022] with respect to any vacancy first occurring on or after that date; and “(2) on the day that is 210 days after the date of enactment of this Act with respect to any vacancy that occurred before the date of enactment of this Act.”
 
 
 <a id="section-3351"></a>
@@ -3797,7 +4197,7 @@ The above exceptions shall not apply to non-Federal employees who are covered by
 
 (1) is not entitled to pay from the agency, except to the extent that the pay received from the State or local government is less than the appropriate rate of pay which the duties would warrant under the applicable pay provisions of this title or other applicable authority;
 
-(2) is deemed an employee of the agency for the purpose of chapter 73 of this title, the Ethics in Government Act of 1978, chapter 21 of title 41, sections 203, 205, 207, 208, 209, 602, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, sections 1343, 1344, and 1349(b) of title 31, and the Federal Tort Claims Act and any other Federal tort liability statute; and
+(2) is deemed an employee of the agency for the purpose of chapter 73 of this title, chapter 131 of this title, chapter 21 of title 41, sections 203, 205, 207, 208, 209, 602, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, sections 1343, 1344, and 1349(b) of title 31, and the Federal Tort Claims Act and any other Federal tort liability statute; and
 
 (3) is subject to such regulations as the President may prescribe.
 The supervision of the duties of such an employee may be governed by agreement between the Federal agency and the State or local government concerned. A detail of a State or local government employee to a Federal agency may be made with or without reimbursement by the Federal agency for the pay, or a part thereof, of the employee during the period of assignment, or for the contribution of the State or local government, or a part thereof, to employee benefit systems.
@@ -3809,11 +4209,11 @@ The supervision of the duties of such an employee may be governed by agreement b
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (c)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
-
 The Federal Tort Claims Act, referred to in subsec. (c)(2), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§ 921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
+2022—Subsec. (c)(2). Pub. L. 117–286 substituted “chapter 131 of this title,” for “the Ethics in Government Act of 1978,”.
+
 2011—Subsec. (c)(2). Pub. L. 111–350 substituted “chapter 21 of title 41” for “section 27 of the Office of Federal Procurement Policy Act”.
 
 2001—Subsec. (c)(2). Pub. L. 107–107 inserted “the Ethics in Government Act of 1978, section 27 of the Office of Federal Procurement Policy Act,” after “chapter 73 of this title,”.
@@ -4172,7 +4572,7 @@ Pub. L. 101–335, § 7(b)(2), (3), July 17, 1990, 104 Stat. 325, as amended by 
 
   (C) sufficient flexibility to allow for the appointment of individuals who have special or unique qualities which indicate a likelihood of executive success and who would not otherwise be eligible for appointment.
 
-**(d)** An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee. The preceding sentence shall not apply to any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).
+**(d)** An individual’s initial appointment as a career appointee shall become final only after the individual has served a 1-year probationary period as a career appointee.
 
 **(e)** Each career appointee shall meet the executive qualifications of the position to which appointed, as determined in writing by the appointing authority.
 
@@ -4181,9 +4581,6 @@ Pub. L. 101–335, § 7(b)(2), (3), July 17, 1990, 104 Stat. 325, as amended by 
 **(g)** A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215,,11 So in original. 3592, 3595, 7532, or 7543 of this title.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(B), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that subsection (d) of this section is amended by striking out “The preceding sentence shall not apply to any individual covered by [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim).” See 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 3393, added Pub. L. 95–437, § 3(a), Oct. 10, 1978, 92 Stat. 1057, which related to limitations concerning part-time career employment opportunities, was renumbered as [section 3403 of this title](./chapter-034-part-time-career-employment-opportunities.md#section-3403) by Pub. L. 95–454, title IX, § 906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
@@ -4226,7 +4623,7 @@ Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and
 Section effective 9 months after Oct. 13, 1978, and congressional review of provisions of sections 401 through 412 of Pub. L. 95–454, see section 415(a)(1), (b) of Pub. L. 95–454, set out as an Effective Date note under [section 3131 of this title](./chapter-031-authority-for-employment.md#section-3131).
 
 #### Temporary Inapplicability of Certification of Executive Qualifications by Qualification Review Boards of Office of Personnel Management
-Pub. L. 115–232, div. A, title XI, § 1109, Aug. 13, 2018, 132 Stat. 2010, as amended by Pub. L. 116–283, div. A, title XI, § 1118, Jan. 1, 2021, 134 Stat. 3897, provided that: “(a) Temporary Inapplicability.—Notwithstanding [section 3393(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/c&num=0&edition=prelim), United States Code, or any regulations implementing that section, and subject to the provisions of this section, the Secretary of Defense may appoint individuals for service in the Senior Executive Service of the Department of Defense without such individuals being subject to the certification of executive qualifications by a qualification review board of the Office of Personnel Management in connection with such appointment otherwise required by that section. “(b) Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed under this section possess the necessary qualifications and experience for the position to which appointed. “(c) Limitation.—The total number of appointments made under this section in any year may not exceed 50 appointments. “(d) Reports.—“(1) Initial report.—Not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the number and type of appointments made under this section as of the date of the report, including—“(A) a description of the qualifications of the individuals appointed; and “(B) data on the time required to appoint the individuals. “(2) Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (3) a report on the use of the authority in this section. The report shall include the following:“(A) The number and type of appointments made under this section during the one-year period ending on the date of the report. “(B) Data on and an assessment whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the current review system of the Office of Personnel Management. “(C) An assessment of the utility of the appointment authority and process under this section. “(D) An assessment whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced under the current review system of the Office of Personnel Management. “(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service. “(3) Committees of congress and official.—The committees of Congress and official specified in this paragraph are—“(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Armed Services and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives; and “(C) the Director of the Office of Personnel Management. “(e) Sunset.—Subsection (a) shall cease to be effective on August 13, 2023.”
+Pub. L. 115–232, div. A, title XI, § 1109, Aug. 13, 2018, 132 Stat. 2010, as amended by Pub. L. 116–283, div. A, title XI, § 1118, Jan. 1, 2021, 134 Stat. 3897; Pub. L. 118–31, div. A, title XI, § 1118, Dec. 22, 2023, 137 Stat. 433, provided that: “(a) Temporary Inapplicability.—Notwithstanding [section 3393(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/c&num=0&edition=prelim), United States Code, or any regulations implementing that section, and subject to the provisions of this section, the Secretary of Defense may appoint individuals for service in the Senior Executive Service of the Department of Defense without such individuals being subject to the certification of executive qualifications by a qualification review board of the Office of Personnel Management in connection with such appointment otherwise required by that section. “(b) Qualifications of Individuals Appointed.—The Secretary shall ensure that individuals appointed under this section possess the necessary qualifications and experience for the position to which appointed. “(c) Limitation.—The total number of appointments made under this section in any year may not exceed 50 appointments. “(d) Reports.—“(1) Initial report.—Not later than one year after the date of the enactment of this Act [Aug. 13, 2018], the Secretary shall submit to the committees of Congress and official specified in paragraph (4) a report on the number and type of appointments made under this section as of the date of the report, including—“(A) a description of the qualifications of the individuals appointed; and “(B) data on the time required to appoint the individuals. “(2) Final report.—Not later than two years after the date of the enactment of this Act, the Secretary shall submit to the committees of Congress and official specified in paragraph (4) a report on the use of the authority in this section. The report shall include the following:“(A) The number and type of appointments made under this section during the one-year period ending on the date of the report. “(B) Data on and an assessment whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the current review system of the Office of Personnel Management. “(C) An assessment of the utility of the appointment authority and process under this section. “(D) An assessment whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced under the current review system of the Office of Personnel Management. “(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service. “(3) Additional report.—Not later than December 1, 2024, the Secretary shall submit to the committees of Congress specified in paragraph (4) and the Comptroller General of the United States a report on the use of the authority provided in this section. The report shall include the following:“(A) The number and type of appointments made under this section between August 13, 2018, and the date of the report. “(B) Data on and an assessment of whether appointments under the authority in this section reduced the time to hire when compared with the time to hire under the review system of the Office of Personnel Management in use as of the date of the report. “(C) An assessment of the utility of the appointment authority and process under this section. “(D) An assessment of whether the appointments made under this section resulted in higher quality new executives for the Senior Executive Service of the Department when compared with the executives produced in the Department under the review system in use between August 13, 2013, and August 13, 2018. “(E) Any recommendation for the improvement of the selection and qualification process for the Senior Executive Service of the Department that the Secretary considers necessary in order to attract and hire highly qualified candidates for service in that Senior Executive Service. “(4) Committees of congress and official.—The committees of Congress and official specified in this paragraph are—“(A) the Committee on Armed Services and the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Armed Services and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives; and “(C) the Director of the Office of Personnel Management. “(e) Sunset.—Subsection (a) shall cease to be effective on September 30, 2025.”
 
 
 <a id="section-3393a"></a>

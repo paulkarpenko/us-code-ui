@@ -239,12 +239,9 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 <a id="section-3014"></a>
 ## § 3014. Nontraditional defense contractor
 
-In this part, the term “nontraditional defense contractor”, with respect to a procurement or with respect to a transaction authorized under section 4002(a) or 4003 11 See References in Text note below. of this title, means an entity that is not currently performing and has not performed, for at least the one-year period preceding the solicitation of sources by the Department of Defense for the procurement or transaction, any contract or subcontract for the Department of Defense that is subject to full coverage under the cost accounting standards prescribed pursuant to [section 1502 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502&num=0&edition=prelim) and the regulations implementing such section.
+In this part, the term “nontraditional defense contractor”, with respect to a procurement or with respect to a transaction authorized under section 4021(a) or 4022 of this title, means an entity that is not currently performing and has not performed, for at least the one-year period preceding the solicitation of sources by the Department of Defense for the procurement or transaction, any contract or subcontract for the Department of Defense that is subject to full coverage under the cost accounting standards prescribed pursuant to [section 1502 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1502&num=0&edition=prelim) and the regulations implementing such section.
 
 ### Statutory Notes
-
-#### References in Text
-Sections 4002(a) and 4003 of this title, referred to in text, probably should be references to sections 4021(a) and 4022 of this title. Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, initially transferred sections 2371 and 2371b of this title to sections 4002 and 4003, respectively, to become effective Jan. 1, 2022. However, Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151, subsequently amended section 1841(b)(1) of Pub. L. 116–283, effective as if included therein, so as to eliminate those transfers and instead transfer sections 2371 and 2371b to sections 4021 and 4022 of this title, respectively.
 
 #### Codification
 The text of par. (9) of [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302), which was transferred to this section and amended by Pub. L. 116–283, § 1806(b)(5), was based on Pub. L. 111–383, div. A, title VIII, § 866(g)(1), Jan. 7, 2011, 124 Stat. 4298; Pub. L. 113–291, div. A, title X, § 1071(a)(2)(B), Dec. 19, 2014, 128 Stat. 3504; Pub. L. 114–92, div. A, title VIII, § 815(b), Nov. 25, 2015, 129 Stat. 896.
@@ -257,6 +254,8 @@ Another prior section 3014, acts Aug. 10, 1956, ch. 1041, 70A Stat. 158, § 3013
 Another prior section 3014 was renumbered [section 3015 of this title](./chapter-201-definitions.md#section-3015) and subsequently repealed.
 
 #### Amendments
+2022—Pub. L. 117–263 substituted “section 4021(a) or 4022” for “section 4002(a) or 4003”.
+
 2021—Pub. L. 116–283, § 1806(b)(5), transferred par. (9) of [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302) to this section, realigned margin, struck out par. (9) designation at beginning, and substituted “In this part, the term” for “The term” and “section 4002(a) or 4003” for “section 2371(a) or 2371b”.
 
 #### Effective Date

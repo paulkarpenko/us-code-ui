@@ -292,7 +292,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 Pub. L. 115–390, title II, § 202(c), Dec. 21, 2018, 132 Stat. 5188, provided that: “The amendments made by this section [enacting this subchapter] shall take effect on the date that is 90 days after the date of the enactment of this Act [Dec. 21, 2018] and shall apply to contracts that are awarded before, on, or after that date.”
@@ -670,12 +670,12 @@ Title II of Pub. L. 115–390 effective 90 days after Dec. 21, 2018, see section
 <a id="section-1328"></a>
 ## § 1328. Termination
 
-This subchapter shall terminate on the date that is 5 years after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018.
+This subchapter shall terminate on December 31, 2033.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018, referred to in text, is the date of enactment of Pub. L. 115–390, which was approved Dec. 21, 2018.
+#### Amendments
+2022—Pub. L. 117–263 substituted “December 31, 2033” for “the date that is 5 years after the date of the enactment of the Federal Acquisition Supply Chain Security Act of 2018”.
 
 #### Effective Date
 Section effective 90 days after Dec. 21, 2018, and applicable to contracts that are awarded before, on, or after that date, see section 202(c) of Pub. L. 115–390, set out as a note under [section 1321 of this title](./chapter-013-chapter-13.md#section-1321).

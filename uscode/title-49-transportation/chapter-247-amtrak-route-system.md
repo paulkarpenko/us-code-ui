@@ -432,6 +432,14 @@ Pub. L. 110–432, div. B, title II, § 215, Oct. 16, 2008, 122 Stat. 4929, prov
 
   (D) *Independent evaluation.—* — Not later than March 31 of each year, the Committee shall ensure that an independent entity selected by the Committee has completed an evaluation to determine whether State payments for the most recently concluded fiscal year are accurate and comply with the applicable cost allocation methodology.
 
+(8) **Staffing.—** — The Committee may—
+
+  (A) appoint, terminate, and fix the compensation of an executive director and other Committee employees necessary for the Committee to carry out its duties; and
+
+  (B) enter into contracts necessary to carry out its duties, including providing Committee employees with retirement and other employee benefits under the condition that Non-Federal members or officers, the executive director, and employees of the Committee are not Federal employees for any purpose.
+
+(9) **Authorization of appropriations.—** — Amounts made available by the Secretary of Transportation for the Committee may be used to carry out this section.
+
 **(b) Invoices and Reports.—**
 
 (1) **Invoices.—** — Amtrak shall provide monthly invoices to the Committee and to each State that sponsors a State-supported route that identify the operating costs for such route, including fixed costs and third-party costs.
@@ -540,6 +548,8 @@ Section 209 of the Passenger Rail Investment and Improvement Act of 2008, referr
 The date of enactment of the Passenger Rail Expansion and Rail Safety Act of 2021, referred to in subsecs. (g)(2) and (j), is the date of enactment of title II of div. B of Pub. L. 117–58, which was approved Nov. 15, 2021.
 
 #### Amendments
+2022—Subsec. (a)(8), (9). Pub. L. 117–328 added pars. (8) and (9).
+
 2021—Subsec. (a)(1). Pub. L. 117–58, § 22211(a)(1), substituted “There is established” for “Not later than 180 days after the date of enactment of the Passenger Rail Reform and Investment Act of 2015, the Secretary of Transportation shall establish” and inserted “current and future” before “rail operations”.
 
 Subsec. (a)(4). Pub. L. 117–58, § 22211(a)(3), added par. (4). Former par. (4) redesignated (5).

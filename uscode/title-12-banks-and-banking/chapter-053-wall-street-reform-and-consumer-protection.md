@@ -2,7 +2,7 @@
 title: 12
 chapter: '53'
 heading: WALL STREET REFORM AND CONSUMER PROTECTION
-section_count: 140
+section_count: 144
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -534,7 +534,7 @@ This subchapter known as the “Financial Stability Act of 2010”, see Short Ti
 
 **(f) Voting** Unless otherwise specified, the Council shall make all decisions that it is authorized or required to make by a majority vote of the voting members then serving.
 
-**(g) Nonapplicability of FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council, or to any special advisory, technical, or professional committee appointed by the Council, except that, if an advisory, technical, or professional committee has one or more members who are not employees of or affiliated with the United States Government, the Council shall publish a list of the names of the members of such committee.
+**(g) Nonapplicability of chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the Council, or to any special advisory, technical, or professional committee appointed by the Council, except that, if an advisory, technical, or professional committee has one or more members who are not employees of or affiliated with the United States Government, the Council shall publish a list of the names of the members of such committee.
 
 **(h) Assistance from Federal agencies** Any department or agency of the United States may provide to the Council and any special advisory, technical, or professional committee appointed by the Council, such services, funds, facilities, staff, and other support services as the Council may determine advisable.
 
@@ -548,13 +548,12 @@ This subchapter known as the “Financial Stability Act of 2010”, see Short Ti
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section is comprised of section 111 of Pub. L. 111–203. Subsec. (i)(2) of section 111 of Pub. L. 111–203 amended [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2017—Subsec. (c)(4). Pub. L. 115–61 added par. (4).
 
 
@@ -1051,8 +1050,8 @@ Any expenses of the Council shall be treated as expenses of, and paid by, the Of
 Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, known as the Consumer Financial Protection Act of 2010, which enacted subchapter V (§ 5481 et seq.) of this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of title X to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
 
 
-<a id="section-5341"></a>
-## § 5341. Additional standards applicable to activities or practices for financial stability purposes
+<a id="section-5334"></a>
+## § 5334. Additional standards applicable to activities or practices for financial stability purposes
 **(a) In general** The Council may provide for more stringent regulation of a financial activity by issuing recommendations to the primary financial regulatory agencies to apply new or heightened standards and safeguards, including standards enumerated in [section 5325 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5325), for a financial activity or practice conducted by bank holding companies or nonbank financial companies under their respective jurisdictions, if the Council determines that the conduct, scope, nature, size, scale, concentration, or interconnectedness of such activity or practice could create or increase the risk of significant liquidity, credit, or other problems spreading among bank holding companies and nonbank financial companies, financial markets of the United States, or low-income, minority, or underserved communities.
 
 **(b) Procedure for recommendations to regulators**
@@ -1094,8 +1093,8 @@ Title X, referred to in subsec. (a)(1), is title X of Pub. L. 111–203, July 21
   (B) *Appeal process* — Each primary financial regulatory agency that has imposed standards under this section shall promulgate regulations to establish a procedure under which entities under its jurisdiction may appeal a determination by such agency under this paragraph that standards imposed under this section should remain in effect.
 
 
-<a id="section-5342"></a>
-## § 5342. Mitigation of risks to financial stability
+<a id="section-5335"></a>
+## § 5335. Mitigation of risks to financial stability
 **(a) Mitigatory actions** If the Board of Governors determines that a bank holding company with total consolidated assets of $250,000,000,000 or more, or a nonbank financial company supervised by the Board of Governors, poses a grave threat to the financial stability of the United States, the Board of Governors, upon an affirmative vote of not fewer than ⅔ of the voting members of the Council then serving, shall—
 
 (1) limit the ability of the company to merge with, acquire, consolidate with, or otherwise become affiliated with another company;
@@ -1136,8 +1135,8 @@ Except as otherwise provided, amendment by Pub. L. 115–174 effective 18 months
 For construction of amendment by Pub. L. 115–174 as applied to certain foreign banking organizations, see section 401(g) of Pub. L. 115–174, set out as a note under [section 5365 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5365).
 
 
-<a id="section-5343"></a>
-## § 5343. GAO audit of Council
+<a id="section-5341"></a>
+## § 5341. GAO audit of Council
 **(a) Authority to audit** The Comptroller General of the United States may audit the activities of—
 
 (1) the Council; and
@@ -1157,8 +1156,8 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 (2) **Copies** — The Comptroller General may make and retain copies of such books, accounts, and other records, access to which is granted under this section, as the Comptroller General considers appropriate.
 
 
-<a id="section-5344"></a>
-## § 5344. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth
+<a id="section-5342"></a>
+## § 5342. Study of the effects of size and complexity of financial institutions on capital market efficiency and economic growth
 **(a) Study required**
 
 (1) **In general** — The Chairperson of the Council shall carry out a study of the economic impact of possible financial services regulatory limitations intended to reduce systemic risk. Such study shall estimate the benefits and costs on the efficiency of capital markets, on the financial sector, and on national economic growth, of—
@@ -1182,6 +1181,104 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 (2) **Recommendations** — The study required by this section shall include recommendations for the optimal structure of any limits considered in subparagraphs (A) through (E), in order to maximize their effectiveness and minimize their economic impact.
 
 **(b) Report** Not later than the end of the 180-day period beginning on July 21, 2010, and not later than every 5 years thereafter, the Chairperson shall issue a report to the Congress containing any findings and determinations made in carrying out the study required under subsection (a).
+
+
+<a id="section-5343"></a>
+## § 5343. Data standards
+**(a) Definitions** In this section—
+
+(1) the term “covered agencies” means—
+
+  (A) the Department of the Treasury;
+
+  (B) the Board of Governors;
+
+  (C) the Office of the Comptroller of the Currency;
+
+  (D) the Bureau;
+
+  (E) the Commission;
+
+  (F) the Corporation;
+
+  (G) the Federal Housing Finance Agency;
+
+  (H) the National Credit Union Administration Board; and
+
+  (I) any other primary financial regulatory agency designated by the Secretary;
+
+(2) the terms “data asset”, “machine-readable”, “metadata”, and “open license” have the meanings given the terms in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim); and
+
+(3) the term “data standard” means a standard that specifies rules by which data is described and recorded.
+
+**(b) Rules**
+
+(1) **Proposed rules** — Not later than 18 months after December 23, 2022, the heads of the covered agencies shall jointly issue proposed rules for public comment that establish data standards for—
+
+  (A) the collections of information reported to each covered agency by financial entities under the jurisdiction of the covered agency; and
+
+  (B) the data collected from covered agencies on behalf of the Council.
+
+(2) **Final rules** — Not later than 2 years after December 23, 2022, the heads of the covered agencies shall jointly promulgate final rules that establish the data standards described in paragraph (1).
+
+**(c) Data standards**
+
+(1) **Common identifiers; quality** — The data standards established in the final rules promulgated under subsection (b)(2) shall—
+
+  (A) include common identifiers for collections of information reported to covered agencies or collected on behalf of the Council, which shall include a common nonproprietary legal entity identifier that is available under an open license for all entities required to report to covered agencies; and
+
+  (B) to the extent practicable—
+
+    (i) render data fully searchable and machine-readable;
+
+    (ii) enable high quality data through schemas, with accompanying metadata documented in machine-readable taxonomy or ontology models, which clearly define the semantic meaning of the data, as defined by the underlying regulatory information collection requirements;
+
+    (iii) ensure that a data element or data asset that exists to satisfy an underlying regulatory information collection requirement be consistently identified as such in associated machine-readable metadata;
+
+    (iv) be nonproprietary or made available under an open license;
+
+    (v) incorporate standards developed and maintained by voluntary consensus standards bodies; and
+
+    (vi) use, be consistent with, and implement applicable accounting and reporting principles.
+
+(2) **Consultation; interoperability** — In establishing data standards in the final rules promulgated under subsection (b)(2), the heads of the covered agencies shall—
+
+  (A) consult with other Federal departments and agencies and multi-agency initiatives responsible for Federal data standards; and
+
+  (B) seek to promote interoperability of financial regulatory data across members of the Council.
+
+**(d) Effective date** The data standards established in the final rules promulgated under subsection (b)(2) shall take effect not later than 2 years after the date on which those final rules are promulgated under that subsection.
+
+### Statutory Notes
+
+#### Rules of Construction Applicable to Pub. L. 117–263
+Pub. L. 117–263, div. E, title LVIII, § 5813, Dec. 23, 2022, 136 Stat. 3424, provided that: “Nothing in this subtitle [subtitle A (§§ 5811–5813) of title LVIII of div. E of Pub. L. 117–263, enacting this section, [section 5335 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5335), and provisions set out as a note under [section 5335 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5335)], or the amendments made by this subtitle, shall be construed to require the Secretary of the Treasury to collect or make publicly available additional information under the Financial Stability Act of 2010 ([12 U.S.C. 5311](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5311) et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+
+Pub. L. 117–263, div. E, title LVIII, § 5891, Dec. 23, 2022, 136 Stat. 3438, provided that: “(a) No Effect on Intellectual Property.—Nothing in this title [see Short Title of 2022 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim), Commerce and Trade], or the amendments made by this title, may be construed to alter the legal protections, as in effect on the day before the date of enactment of this Act [Dec. 23, 2022], of copyrighted material or other intellectual property rights of any non-Federal person. “(b) No Effect on Monetary Policy.—Nothing in this title, or the amendments made by this title, may be construed to apply to activities conducted, or data standards used, in connection with monetary policy proposed or implemented by the Board of Governors of the Federal Reserve System or the Federal Open Market Committee. “(c) Preservation of Agency Authority To Tailor Requirements.—Nothing in this title, or the amendments made by this title, may be construed to prohibit the head of a covered agency, as defined in section 124(a) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/a&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5811/a&num=0&edition=prelim), from tailoring those standards when those standards are adopted under this title and the amendments made by this title.”
+
+Pub. L. 117–263, div. E, title LVIII, § 5892, Dec. 23, 2022, 136 Stat. 3438, provided that: “(a) In General.—Nothing in this title [see Short Title of 2022 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim), Commerce and Trade], or the amendments made by this title, shall require the disclosure to the public of—“(1) information that would be exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code (commonly known as the ‘Freedom of Information Act’); or “(2) information protected under—“(A) [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), United States Code (commonly known as the ‘Privacy Act of 1974’); “(B) section 6103 of the Internal Revenue Code of 1986 [[26 U.S.C. 6103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6103&num=0&edition=prelim)]; or “(C) any law administered, or regulation promulgated, by the Financial Crimes Enforcement Network of the Department of the Treasury. “(b) Existing Agency Regulations.—Nothing in this title, or the amendments made by this title, shall be construed to require the Secretary of the Treasury, the Securities and Exchange Commission, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Director of the Bureau of Consumer Financial Protection, the Board of Governors of the Federal Reserve System, the National Credit Union Administration Board, the Director of the Federal Housing Finance Agency, or the head of any other primary financial regulatory agency (as defined in section 2 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ([12 U.S.C. 5301](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301))) designated by the Secretary of the Treasury to amend regulations and procedures, as in effect on the day before the date of enactment of this Act [Dec. 23, 2022], regarding the sharing and disclosure of nonpublic information, including confidential supervisory information. “(c) Data Privacy and Personally Identifiable Information.—Nothing in this title, or the amendments made by this title, shall be construed to require the Secretary of the Treasury, the Securities and Exchange Commission, the Federal Deposit Insurance Corporation, the Comptroller of the Currency, the Director of the Bureau of Consumer Financial Protection, the Board of Governors of the Federal Reserve System, the National Credit Union Administration Board, the Director of the Federal Housing Finance Agency, or the head of any other primary financial regulatory agency (as defined in section 2 of the Dodd-Frank Wall Street Reform and Consumer Protection Act ([12 U.S.C. 5301](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301))) designated by the Secretary of the Treasury to disclose to the public any information that can be used to distinguish or trace the identity of an individual, either alone or when combined with other personal or identifying information that is linked or linkable to a specific individual.”
+
+
+<a id="section-5344"></a>
+## § 5344. Open data publication
+
+All public data assets published by the Secretary under this part shall be—
+
+(1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+### Statutory Notes
+
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5812(c), Dec. 23, 2022, 136 Stat. 3423, provided that: “(1) In general.—The Secretary of the Treasury shall issue rules to carry out the amendments made by this section [enacting this section], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5811/a&num=0&edition=prelim). “(2) Delegation.—Notwithstanding any other provision of law, the Secretary of the Treasury may delegate the functions required under the amendments made by this subtitle [subtitle A (§§ 5811–5813) of title LVIII of div. E of Pub. L. 117–263, enacting this section and [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334)] to an appropriate office within the Department of the Treasury.”
+
+#### Rule of Construction
+Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5813 of Pub. L. 117–263, set out as a note under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334).
 
 
 <a id="section-5345"></a>
@@ -1531,6 +1628,12 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 
 (3) **Availability** — Upon the request of the Board of Governors, a nonbank financial company supervised by the Board of Governors, or a subsidiary thereof, shall promptly provide to the Board of Governors any information described in paragraph (2).
 
+(4) **Data standards for reports under this subsection**
+
+  (A) *In general* — The Board of Governors shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board of Governors under this subsection by any nonbank financial company supervised by the Board of Governors or any subsidiary thereof.
+
+  (B) *Consistency* — The data standards required under subparagraph (A) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334).
+
 **(b) Examinations**
 
 (1) **In general** — Subject to paragraph (2), the Board of Governors may examine any nonbank financial company supervised by the Board of Governors and any subsidiary of such company, to inform the Board of Governors of—
@@ -1555,6 +1658,12 @@ For construction of amendment by Pub. L. 115–174 as applied to certain foreign
 
 #### References in Text
 This subchapter, referred to in subsecs. (a)(1)(B) and (b)(1)(D), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–263 added par. (4).
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under [section 253 of this title](./chapter-003-federal-reserve-system.md#section-253).
 
 
 <a id="section-5366"></a>
@@ -4107,7 +4216,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 (2) **Frequency** — Not later than 6 months after the date of appointment of the Corporation as receiver under this subchapter and every 6 months thereafter, the Inspector General of the Corporation shall conduct the audit and investigation described in paragraph (1).
 
-(3) **Reports and testimony** — The Inspector General of the Corporation shall include in the semiannual reports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and evaluations under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
+(3) **Reports and testimony** — The Inspector General of the Corporation shall include in the semiannual reports required by [section 405(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405/b&num=0&edition=prelim), a summary of the findings and evaluations under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
 
 (4) **Funding**
 
@@ -4129,7 +4238,7 @@ Section effective 1 day after July 21, 2010, except as otherwise provided, see s
 
 (2) **Frequency** — Not later than 6 months after the date of appointment of the Corporation as receiver under this subchapter and every 6 months thereafter, the Inspector General of the Department of the Treasury shall conduct the audit and investigation described in paragraph (1).
 
-(3) **Reports and testimony** — The Inspector General of the Department of the Treasury shall include in the semiannual reports required by section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.), a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
+(3) **Reports and testimony** — The Inspector General of the Department of the Treasury shall include in the semiannual reports required by [section 405(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405/b&num=0&edition=prelim), a summary of the findings and assessments under paragraph (1), and shall appear before the appropriate committees of Congress, if requested, to present each such report.
 
 (4) **Termination of responsibilities** — The duties and responsibilities of the Inspector General of the Department of the Treasury under this subsection shall terminate 1 year after the date on which the obligations purchased by the Secretary from the Corporation under [section 5390 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5390) are fully redeemed.
 
@@ -4154,10 +4263,13 @@ This subchapter, referred to in subsecs. (d)(1), (2), (4)(B), (5), (e)(1), (2), 
 
 [Section 5390(n)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n/14&num=0&edition=prelim), referred to in subsec. (d)(1)(C), probably means section 5390(n)(9), because [section 5390(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n&num=0&edition=prelim) does not contain a par. (14) and [section 5390(n)(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5390/n/9&num=0&edition=prelim) relates to orderly liquidation plans.
 
-The Inspector General Act of 1978, referred to in subsecs. (d)(3) and (e)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section is comprised of section 211 of Pub. L. 111–203. Subsecs. (a) to (c) of section 211 of Pub. L. 111–203 amended [section 4403 of this title](./chapter-045-payment-system-risk-reduction.md#section-4403) and [section 1032 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1032&num=0&edition=prelim), Crimes and Criminal Procedure.
+
+#### Amendments
+2022—Subsec. (d)(3). Pub. L. 117–286, § 4(b)(36)(A), substituted “[section 405(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405/b&num=0&edition=prelim),” for “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),”.
+
+Subsec. (e)(3). Pub. L. 117–286, § 4(b)(36)(B), substituted “[section 405(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405/b&num=0&edition=prelim),” for “section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.),”.
 
 #### Effective Date
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).
@@ -5472,6 +5584,20 @@ This Act, referred to in subsec. (e)(2)(D), is Pub. L. 111–203, July 21, 2010,
 
 **(g) Disclosure exemption** Information obtained by the Board of Governors, the Supervisory Agencies, or the Council under this section and any materials prepared by the Board of Governors, the Supervisory Agencies, or the Council regarding their assessment of the systemic importance of financial market utilities or any payment, clearing, or settlement activities engaged in by financial institutions, and in connection with their supervision of designated financial market utilities and designated activities, shall be confidential supervisory information exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim). For purposes of such section 552, this subsection shall be considered a statute described in subsection (b)(3) of such section 552.
 
+**(h) Data standards**
+
+(1) **Requirement** — The Board of Governors shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board or the Council by any financial market utility or financial institution under subsection (a) or (b).
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–263 added subsec. (h).
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under [section 253 of this title](./chapter-003-federal-reserve-system.md#section-253).
+
 
 <a id="section-5472"></a>
 ## § 5472. Rulemaking
@@ -5972,10 +6098,10 @@ Pub. L. 111–203, title XIV, § 1400(b), July 21, 2010, 124 Stat. 2136, provide
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of provisions of subsection (c)(3) of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of provisions of subsection (c)(3) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Effective Date
-Pub. L. 111–203, title X, § 1018, July 21, 2010, 124 Stat. 1979, provided that: “This subtitle [subtitle A (§§ 1011–1018), enacting this part and amending [section 9702 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9702&num=0&edition=prelim), Education] shall become effective on the date of enactment of this Act [July 21, 2010].”
+Pub. L. 111–203, title X, § 1020, formerly § 1018, July 21, 2010, 124 Stat. 1979, renumbered § 1020 by Pub. L. 117–263, div. E, title LVIII, § 5851(a)(1), Dec. 23, 2022, 136 Stat. 3433, provided that: “This subtitle [subtitle A (§§ 1011–1018), enacting this part and amending [section 9702 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9702&num=0&edition=prelim), Education] shall become effective on the date of enactment of this Act [July 21, 2010].”
 
 
 <a id="section-5496"></a>
@@ -6260,7 +6386,7 @@ The Federal Reserve Act, referred to in subsec. (c)(2), is act Dec. 23, 1913, ch
 
   (F) work with community organizations, non-profit organizations, and other entities that are involved with educating or assisting seniors (including the National Education and Resource Center on Women and Retirement Planning).
 
-**(h) Application of FACA** Notwithstanding any provision of the Federal Advisory Committee Act (5 U.S.C. App.), such Act shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
+**(h) Application of chapter 10 of title 5** Notwithstanding any provision of chapter 10 of title 5, such chapter shall apply to each advisory committee of the Bureau and each subcommittee of such an advisory committee.
 
 ### Statutory Notes
 
@@ -6273,12 +6399,12 @@ The Equal Credit Opportunity Act, referred to in subsec. (c)(2)(A), is title VII
 
 The Home Mortgage Disclosure Act, referred to in subsec. (c)(2)(A), probably means the Home Mortgage Disclosure Act of 1975, which is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, and is classified principally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of this title](./chapter-029-home-mortgage-disclosure.md#section-2801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section is comprised of section 1013 of Pub. L. 111–203. Subsec. (d)(5), (6) of section 1013 of Pub. L. 111–203 amended [section 9702 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9702&num=0&edition=prelim), Education.
 
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “chapter 10 of title 5, such chapter” for “the Federal Advisory Committee Act (5 U.S.C. App.), such Act” in text.
+
 2015—Subsec. (h). Pub. L. 114–113 added subsec. (h).
 
 
@@ -6303,8 +6429,8 @@ Section is comprised of section 1013 of Pub. L. 111–203. Subsec. (d)(5), (6) o
 The Bureau shall coordinate with the Commission, the Commodity Futures Trading Commission, the Federal Trade Commission, and other Federal agencies and State regulators, as appropriate, to promote consistent regulatory treatment of consumer financial and investment products and services.
 
 
-<a id="section-5511"></a>
-## § 5511. Appearances before and reports to Congress
+<a id="section-5498"></a>
+## § 5498. Appearances before and reports to Congress
 **(a) Appearances before Congress** The Director of the Bureau shall appear before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services and the Committee on Energy and Commerce of the House of Representatives at semi-annual hearings regarding the reports required under subsection (b).
 
 **(b) Reports required** The Bureau shall, concurrent with each semi-annual hearing referred to in subsection (a), prepare and submit to the President and to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services and the Committee on Energy and Commerce of the House of Representatives, a report, beginning with the session following the designated transfer date. The Bureau may also submit such report to the Committee on Commerce, Science, and Transportation of the Senate.
@@ -6330,8 +6456,8 @@ The Bureau shall coordinate with the Commission, the Commodity Futures Trading C
 (9) an analysis of the efforts of the Bureau to increase workforce and contracting diversity consistent with the procedures established by the Office of Minority and Women Inclusion.
 
 
-<a id="section-5512"></a>
-## § 5512. Annual audits
+<a id="section-5499"></a>
+## § 5499. Annual audits
 **(a) Annual independent audit** The Bureau shall order an annual independent audit of the operations and budget of the Bureau.
 
 **(b) Annual GAO audit** The Comptroller General of the United States shall conduct an annual audit of the Bureau’s financial statements in accordance with generally accepted government accounting standards.
@@ -6342,8 +6468,8 @@ The Bureau shall coordinate with the Commission, the Commodity Futures Trading C
 Pub. L. 112–10, div. B, title V, § 1573(c), Apr. 15, 2011, 125 Stat. 139, provided that the initial audits under this section were to be completed not later than the end of the 180-day period beginning on Apr. 15, 2011.
 
 
-<a id="section-5513"></a>
-## § 5513. GAO study of financial regulations
+<a id="section-5511"></a>
+## § 5511. GAO study of financial regulations
 **(a) Study** Not later than the end of the 180-day period beginning on the date of the enactment of this Act, and annually thereafter, the Comptroller General of the United States shall conduct a study of financial services regulations, including activities of the Bureau. Such study shall include an analysis of—
 
 (1) the impact of regulation on the financial marketplace, including the effects on the safety and soundness of regulated entities, cost and availability of credit, savings realized by consumers, reductions in consumer paperwork burden, changes in personal and small business bankruptcy filings, and costs of compliance with rules, including whether relevant Federal agencies are applying sound cost-benefit analysis in promulgating rules;
@@ -6360,8 +6486,8 @@ Pub. L. 112–10, div. B, title V, § 1573(c), Apr. 15, 2011, 125 Stat. 139, pro
 The date of the enactment of this Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 112–10, which enacted this section and was approved Apr. 15, 2011.
 
 
-<a id="section-5514"></a>
-## § 5514. Funding; penalties and fines
+<a id="section-5512"></a>
+## § 5512. Funding; penalties and fines
 **(a) Transfer of funds from Board Of Governors**
 
 (1) **In general** — Each year (or quarter of such year), beginning on the designated transfer date, and each quarter thereafter, the Board of Governors shall transfer to the Bureau from the combined earnings of the Federal Reserve System, the amount determined by the Director to be reasonably necessary to carry out the authorities of the Bureau under Federal consumer financial law, taking into account such other sums made available to the Bureau from the preceding year (or quarter of such year).
@@ -6459,6 +6585,43 @@ This title, referred to in subsec. (a)(2)(C), is title X of Pub. L. 111–203, J
 
 #### Codification
 In subsec. (a)(5)(C), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes of the United States ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+
+<a id="section-5513"></a>
+## § 5513. Data standards
+**(a) Requirement** The Bureau shall, by rule, adopt data standards for all collections of information that are regularly filed with or submitted to the Bureau.
+
+**(b) Consistency** The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 1018 of Pub. L. 111–203 was renumbered section 1020 and is set out as note under [section 5491 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5491).
+
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5852, Dec. 23, 2022, 136 Stat. 3433, provided that: “(a) In General.—The Director of the Bureau of Consumer Financial Protection shall issue rules to carry out the amendments made by section 5851 [enacting this section and [section 5499 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5499)], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5811/a&num=0&edition=prelim). “(b) Scaling of Regulatory Requirements; Minimizing Disruption.—In issuing the rules required under subsection (a), the Director of the Bureau of Consumer Financial Protection—“(1) may scale data reporting requirements in order to reduce any unjustified burden on smaller regulated entities; and “(2) shall seek to minimize disruptive changes to the persons affected by those regulations.”
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Pub. L. 117–263, div. E, title LVIII, § 5853, Dec. 23, 2022, 136 Stat. 3433, provided that: “Nothing in this subtitle [subtitle E (§§ 5851–5853) of title LVIII of div. E of Pub. L. 117–263, enacting this section, [section 5499 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5499), and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Bureau of Consumer Financial Protection to collect or make publicly available additional information under the Consumer Financial Protection Act of 2010 ([12 U.S.C. 5481](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5481) et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+
+
+<a id="section-5514"></a>
+## § 5514. Open data publication
+
+All public data assets published by the Bureau shall be—
+
+(1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+### Statutory Notes
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5853 of Pub. L. 117–263, set out as a note under [section 5498 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5498).
 
 
 <a id="section-5515"></a>
@@ -7472,6 +7635,9 @@ Section effective on the designated transfer date, see section 1037 of Pub. L. 1
 **(e) Definitions** For purposes of this section, the terms “private education loan” and “institution of higher education” have the same meanings as in [section 1650 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 Section effective on the designated transfer date, see section 1037 of Pub. L. 111–203, set out as a note under [section 5531 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5531).

@@ -180,7 +180,7 @@ Section 14304(b) provides that except as provided in section 14504, a vessel tha
 
 (4) section 4(a)(3) 11 See References in Text note below. of the Ports and Waterways Safety Act ([33 U.S.C. 1223(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/3&num=0&edition=prelim));
 
-(5) [section 30506 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30506);
+(5) [section 30524 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30524);
 
 (6) sections 12118 and 12132 of this title;
 
@@ -258,7 +258,7 @@ Section 4 of the Bridge to Bridge Radiotelephone Act ([33 U.S.C. 1203(a)](https:
 
 Section 4(a)(3) of the Ports and Waterways Safety Act ([33 U.S.C. 1223(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/3&num=0&edition=prelim)), referred to in subsec. (a)(4), is section 4(a)(3) of Pub. L. 92–340, which was classified to [section 1223(a)(3) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223/a/3&num=0&edition=prelim), Navigation and Navigable Waters, prior to repeal by Pub. L. 115–282, title IV, § 402(e), Dec. 4, 2018, 132 Stat. 4264. See Transitional and Savings Provisions note preceding [section 101 of this title](./chapter-001-definitions.md#section-101) and [section 70001 of this title](./chapter-700-ports-and-waterways-safety.md#section-70001).
 
-Sections 351, 352, 355, and 356 of the Ship Radio Act ([47 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section351&num=0&edition=prelim), 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telecommunications.
+Sections 351, 352, 355, and 356 of the Ship Radio Act ([47 U.S.C. 351](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section351&num=0&edition=prelim), 352, 354, and 354a), referred to in subsec. (a)(8), probably means sections 351, 352, 355, and 356 of the Communications Act of 1934, June 19, 1934, ch. 652, 48 Stat. 1064, which are classified to sections 351, 352, 354, and 354a, respectively, of Title 47, Telecommunications.
 
 The Officers’ Competency Certificates Convention, 1936, referred to in subsec. (a)(10), is set out in 54 Stat. Pt. 2, p. 1683.
 
@@ -267,13 +267,15 @@ For provisions relating to International Conventions for the Safety of Life at S
 For provisions relating to the International Convention for the Prevention of Pollution from Ships, as modified, referred to in subsec. (a)(13), see chapter 33 (§ 1901 et seq.) of Title 33.
 
 #### Amendments
+2022—Subsec. (a)(5). Pub. L. 117–263 substituted “section 30524” for “section 30506”.
+
 2021—Subsec. (a)(10). Pub. L. 116–283 substituted “section 8304” for “sections 8303 and 8304”.
 
 2010—Subsec. (a). Pub. L. 111–281 substituted “vessel measured under this chapter that is of United States registry or nationality, or a vessel operated under the authority of the United States,” for “documented vessel measured under this chapter,” in introductory provisions.
 
 2006—Subsec. (a)(1). Pub. L. 109–304, § 15(26)(A), substituted “of this subtitle and section 12116” for “and sections 12106(c) and 12108(c)”.
 
-Subsec. (a)(5). Pub. L. 109–304, § 15(26)(B), substituted “[section 30506 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30506)” for “section 4283 of the Revised Statutes of the United States (46 App. U.S.C. 183)”.
+Subsec. (a)(5). Pub. L. 109–304, § 15(26)(B), substituted “[section 30506 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30506&num=0&edition=prelim)” for “section 4283 of the Revised Statutes of the United States (46 App. U.S.C. 183)”.
 
 Subsec. (a)(6). Pub. L. 109–304, § 15(26)(C), substituted “sections 12118 and 12132 of this title” for “sections 27 and 27A of the Act of June 5, 1920 (46 App. U.S.C. 883 and 883–1)”.
 

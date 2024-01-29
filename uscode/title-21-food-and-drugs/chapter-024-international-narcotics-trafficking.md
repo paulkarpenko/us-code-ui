@@ -346,7 +346,7 @@ As used in this chapter:
 
 **(i) Inapplicability of certain administrative provisions**
 
-(1) The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission under this section.
+(1) The provisions of chapter 10 of title 5 shall not apply to the activities of the Commission under this section.
 
 (2) The provisions of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly referred to as the Freedom of Information Act) shall not apply to the activities, records, and proceedings of the Commission under this chapter.
 
@@ -355,9 +355,10 @@ As used in this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 This Act, referred to in subsec. (j), is Pub. L. 106–120, Dec. 3, 1999, 113 Stat. 1606, known as the Intelligence Authorization Act for Fiscal Year 2000. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+2022—Subsec. (i)(1). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.

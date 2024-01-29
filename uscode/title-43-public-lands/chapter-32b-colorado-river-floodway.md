@@ -100,7 +100,7 @@ In subsec. (b)(1), “[section 6702 of title 31](https://uscode.house.gov/view.x
 
 (12) the Department of State.
 
-**(b) Charter and operation; reports and recommendations** The task force shall be chartered and operate under the provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.) and shall prepare recommendations concerning the Colorado River Floodway, which recommendations shall deal with:
+**(b) Charter and operation; reports and recommendations** The task force shall be chartered and operate under the provisions of chapter 10 of title 5 and shall prepare recommendations concerning the Colorado River Floodway, which recommendations shall deal with:
 
 (1) the means to restore and maintain the Floodway specified in [section 1600c of this title](./chapter-32b-colorado-river-floodway.md#section-1600c), including, but not limited to, specific instances where land transfers or relocations, or other changes in land management, might best effect the purposes of this chapter;
 
@@ -119,9 +119,10 @@ In subsec. (b)(1), “[section 6702 of title 31](https://uscode.house.gov/view.x
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 [Section 1600c(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1600c/b/2&num=0&edition=prelim), referred to in subsec. (c), was struck out and former subsec. (b)(1)(ii) of section 1600c redesignated subsec. (b)(2) of section 1600c by Pub. L. 105–362, title IX, § 901(d)(1), Nov. 10, 1998, 112 Stat. 3289. As so amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.)” in introductory provisions.
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
@@ -204,7 +205,7 @@ Notwithstanding [section 1600d of this title](./chapter-32b-colorado-river-flood
 ### Statutory Notes
 
 #### References in Text
-The Disaster Relief Act of 1974, referred to in subsec. (e)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. The 1974 Act was renamed “The Robert T. Stafford Disaster Relief and Emergency Assistance Act”, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Act was renamed the “Robert T. Stafford Disaster Relief and Emergency Assistance Act” by Pub. L. 106–390, title III, § 301, Oct. 30, 2000, 1114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act ([42 U.S.C. 5145](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5145&num=0&edition=prelim) and 5146) and redesignated sections 308 and 309 of the Act ([42 U.S.C. 5148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5148&num=0&edition=prelim) and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief Act of 1974, referred to in subsec. (e)(5), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. The 1974 Act was renamed “The Robert T. Stafford Disaster Relief and Emergency Assistance Act”, and was substantially revised by Pub. L. 100–707, Nov. 23, 1988, 102 Stat. 4689. Section 102(b) of Pub. L. 100–707 provided that a reference in any other law to a provision of the Disaster Relief Act of 1974 shall be deemed to be a reference to such provision of the Robert T. Stafford Disaster Relief and Emergency Assistance Act. The Act was renamed the “Robert T. Stafford Disaster Relief and Emergency Assistance Act” by Pub. L. 106–390, title III, § 301, Oct. 30, 2000, 1114 Stat. 1572. Section 105(d) of Pub. L. 100–707 repealed sections 305 and 306 of the Act ([42 U.S.C. 5145](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5145&num=0&edition=prelim) and 5146) and redesignated sections 308 and 309 of the Act ([42 U.S.C. 5148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5148&num=0&edition=prelim) and 5149), and any references thereto, as sections 305 and 306, respectively. For corresponding provisions to former sections 305 and 306 of the Act, see sections 5170a, 5170b, and 5192 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (e)(3). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Land and Water Conservation Fund Act of 1965 ([16 U.S.C. 460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section460&num=0&edition=prelim)l–4 through 11)”.
@@ -239,15 +240,15 @@ Nothing contained in this chapter shall be construed to alter, amend, repeal, mo
 #### References in Text
 The Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), and the Water Treaty of 1944, referred to in text, are not classified to the Code.
 
-The Flood Control Act of 1944, referred to in text, is act Dec. 22, 1944, ch. 665, 58 Stat. 887, as amended, which enacted [section 390 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390), sections 460d and 825s of Title 16, Conservation, and sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables.
+The Flood Control Act of 1944, referred to in text, is act Dec. 22, 1944, ch. 665, 58 Stat. 887, which enacted [section 390 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390), sections 460d and 825s of Title 16, Conservation, and sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, and enacted provisions set out as notes under sections 701c, 701f, and 701j of Title 33. For complete classification of this Act to the Code, see Tables.
 
-The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
+The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
 
-The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
+The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
 
-The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
+The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
 
-The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
 
 <a id="section-1600h"></a>
@@ -290,7 +291,7 @@ Within one year after October 8, 1986, the Secretary shall prepare and submit to
 ### Statutory Notes
 
 #### References in Text
-The National Flood Insurance Act of 1968, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
+The National Flood Insurance Act of 1968, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1600l"></a>

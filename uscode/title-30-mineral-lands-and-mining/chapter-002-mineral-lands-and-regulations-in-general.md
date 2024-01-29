@@ -283,7 +283,7 @@ The co-ownership provisions of the Mining Law of 1872 ([30 U.S.C. 28](./chapter-
 ### Statutory Notes
 
 #### References in Text
-The Mining Law of 1872 ([30 U.S.C. 28](./chapter-002-mineral-lands-and-regulations-in-general.md#section-28)), referred to in text, probably means act May 10, 1872, ch. 152, 17 Stat. 91, as amended. That act was incorporated into the Revised Statutes as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of this title. For complete classification of R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344 to the Code, see Tables.
+The Mining Law of 1872 ([30 U.S.C. 28](./chapter-002-mineral-lands-and-regulations-in-general.md#section-28)), referred to in text, probably means act May 10, 1872, ch. 152, 17 Stat. 91. That act was incorporated into the Revised Statutes as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of this title. For complete classification of R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344 to the Code, see Tables.
 
 This Act, referred to in text, is Pub. L. 103–66, Aug. 10, 1993, 107 Stat. 312, known as the Omnibus Budget Reconciliation Act of 1993. The annual claim maintenance fee required under this Act probably refers to the fee required under [section 28f of this title](./chapter-002-mineral-lands-and-regulations-in-general.md#section-28f). For complete classification of this Act to the Code, see Tables.
 
@@ -762,7 +762,7 @@ Miners in any organized mining district may make rules and regulations governing
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321, as amended. For complete classification of title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.
+This Act, referred to in text, means act June 6, 1900, ch. 786, 31 Stat. 321. For complete classification of title I of this act to the Code, see Tables. Title III of this act provided for the Alaska Civil Code.
 
 #### Codification
 Section is comprised of the two provisos of section 16 of act June 6, 1900, and part of the last sentence of that section, which were formerly classified to [section 383 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section383&num=0&edition=prelim), Territories and Insular Possessions. The remainder of section 16 (excluding the last sentence) which was formerly classified to [section 120 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section120&num=0&edition=prelim), was omitted from the Code.

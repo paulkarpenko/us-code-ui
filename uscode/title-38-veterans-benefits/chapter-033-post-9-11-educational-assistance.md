@@ -23,7 +23,9 @@ In this chapter:
 
     (ii) in the National Guard under [section 502(f) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f&num=0&edition=prelim) when authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
 
-(2) The term “entry level and skill training” means the following:
+(2) The term “emergency situation” has the meaning given such term in [section 3601 of this title](./chapter-036-administration-of-educational-benefits.md#section-3601).
+
+(3) The term “entry level and skill training” means the following:
 
   (A) In the case of members of the Army, Basic Combat Training and Advanced Individual Training or One Station Unit Training.
 
@@ -35,9 +37,9 @@ In this chapter:
 
   (E) In the case of members of the Coast Guard, Basic Training and Skill Training (or so-called “A” School).
 
-(3) The term “program of education” has the meaning given such term in section 3002, except to the extent otherwise provided in section 3313.
+(4) The term “program of education” has the meaning given such term in section 3002, except to the extent otherwise provided in section 3313.
 
-(4) The term “Secretary of Defense” means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
+(5) The term “Secretary of Defense” means the Secretary of Defense, except that the term means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 ### Statutory Notes
 
@@ -45,6 +47,8 @@ In this chapter:
 [Section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim), referred to in par. (1)(B), was redesignated [section 3713 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim) by Pub. L. 115–282, title I, § 118(b), Dec. 4, 2018, 132 Stat. 4233, and references to [section 712 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section712&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Redesignated Sections of Title 14 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
+2023—Pars. (2) to (5). Pub. L. 117–333 added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
 2021—Par. (2)(C). Pub. L. 116–283 inserted “or the Space Force” after “Air Force”.
 
 2017—Par. (1)(B). Pub. L. 115–48, § 401(a), substituted “12304, 12304a, or 12304b” for “or 12304”.
@@ -173,11 +177,19 @@ Barack Obama.
 
     (ii) is discharged or released from active duty as described in subsection (c).
 
-(2) An individual who—
+(2) An individual—
 
-  (A) commencing on or after September 11, 2001, serves at least 30 continuous days on active duty in the Armed Forces; and
+  (A) who—
 
-  (B) after completion of service described in subparagraph (A), is discharged or released from active duty in the Armed Forces for a service-connected disability.
+    (i) commencing on or after September 11, 2001, serves at least 30 continuous days on active duty in the Armed Forces; and
+
+    (ii) after completion of service described in clause (i), is discharged or released from active duty in the Armed Forces for a service-connected disability or by reason of a sole survivorship discharge (as that term is defined in [section 1174(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/i&num=0&edition=prelim)); or
+
+  (B) who—
+
+    (i) commencing on or after September 11, 2001, completes at least 30 continuous days of service described in subsection (d)(1) or (2); and
+
+    (ii) after completion of service described in clause (i), is discharged or released by reason of a sole survivorship discharge (as that term is defined in [section 1174(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/i&num=0&edition=prelim)).
 
 (3) An individual who—
 
@@ -243,7 +255,7 @@ Barack Obama.
 
 (2) A release after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service and placement on the retired list, transfer to the Fleet Reserve or Fleet Marine Corps Reserve, or placement on the temporary disability retired list.
 
-(3) A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service.
+(3) A release from active duty in the Armed Forces for further service in a reserve component of the Armed Forces, or for further service in the Space Force in a space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim), after service on active duty characterized by the Secretary concerned as honorable service.
 
 (4) A discharge or release from active duty in the Armed Forces after service on active duty in the Armed Forces characterized by the Secretary concerned as honorable service for—
 
@@ -253,7 +265,7 @@ Barack Obama.
 
   (C) a physical or mental condition that was not characterized as a disability and did not result from the individual’s own willful misconduct but did interfere with the individual’s performance of duty, as determined by the Secretary concerned in accordance with regulations prescribed by the Secretary of Defense.
 
-**(d) Prohibition on Treatment of Certain Service as Period of Active Duty.—** The following periods of service shall not be considered a part of the period of active duty on which an individual’s entitlement to educational assistance under this chapter is based:
+**(d) Prohibition on Treatment of Certain Service as Period of Active Duty.—** Except as provided in subsection (b)(2)(B), the following periods of service shall not be considered a part of the period of active duty on which an individual’s entitlement to educational assistance under this chapter is based:
 
 (1) A period of service on active duty of an officer pursuant to an agreement under [section 2107(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2107/b&num=0&edition=prelim).
 
@@ -301,6 +313,16 @@ Barack Obama.
 The date of the enactment of this paragraph, referred to in subsec. (f)(4)(A), is the date of enactment of Pub. L. 114–315, which was approved Dec. 16, 2016.
 
 #### Amendments
+2023—Subsec. (c)(3). Pub. L. 118–31, which directed insertion of “, or for further service in the Space Force in a space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “of the Armed Forces” second time appearing, was executed by making the insertion after “of the Armed Forces” the only time the phrase appeared to reflect the probable intent of Congress.
+
+2023—Subsec. (b)(2). Pub. L. 117–333, 10(b)(1)–(3), struck out “who” after “individual” in introductory provisions, inserted “(A) who—” after “individual—”, and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 117–333, § 10(b)(4), substituted “in clause (i)” for “in subparagraph (A)” and “or by reason of a sole survivorship discharge (as that term is defined in [section 1174(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1174/i&num=0&edition=prelim)); or” for period at end.
+
+Subsec. (b)(2)(B). Pub. L. 117–333, § 10(b)(5), added subpar. (B). Former subpar. (B) redesignated (A)(ii).
+
+Subsec. (d). Pub. L. 117–333, § 10(c), substituted “Except as provided in subsection (b)(2)(B), the following” for “The following” in introductory provisions.
+
 2021—Subsec. (b)(9) to (11). Pub. L. 116–315, § 1002(a), added pars. (9) and (10) and redesignated former par. (9) as (11).
 
 Subsec. (f). Pub. L. 116–315, § 1002(b)(1), substituted “paragraphs (8), (9), and (10)” for “paragraph (8)” wherever appearing.
@@ -694,7 +716,7 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 **(l) Verification of Enrollment.—**
 
-(1) **In general.—** — The Secretary shall require—
+(1) **In general.—** — Except as provided in paragraph (4), the Secretary shall require—
 
   (A) each educational institution to submit to the Secretary verification of each individual who is enrolled in a course or program of education at the educational institution and is receiving educational assistance under this chapter—
 
@@ -708,7 +730,13 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 (3) **Failure to submit verification.—** — If an individual fails to submit the verification required under paragraph (1)(B) for two consecutive months, the Secretary may not make a monthly housing stipend payment to the individual under this section until the individual submits such verification.
 
-(4) **Waiver.—** — The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.
+(4) **Exception.—** — An educational institution is not required to submit verification of an individual under paragraph (1)(A) if—
+
+  (A) the individual is enrolled in a course or program of education offered by the educational institution on at least a full-time basis before the date on which the individual is able to withdraw from the course or program of education without penalty;
+
+  (B) the educational institution charges the same amount of tuition and fees for students who are enrolled on a full-time basis and students who are enrolled on a more-than-full-time basis; and
+
+  (C) the individual remains enrolled in the course or program of education after the date on which the individual is able to withdraw from the course or program of education without penalty.
 
 ### Statutory Notes
 
@@ -718,6 +746,10 @@ Section 401(b) of the Higher Education Act of 1965, referred to in subsecs. (c)(
 Subsection (b)(7) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311), referred to in subsec. (c)(6), was repealed and subsection (b)(8) was redesignated (b)(7) by Pub. L. 115–48, title I, §105(a)(2), (3), Aug. 16, 2017, 131 Stat. 975.
 
 #### Amendments
+2023—Subsec. (l)(1). Pub. L. 117–333, § 13(1), substituted “Except as provided in paragraph (4), the Secretary” for “The Secretary” in introductory provisions.
+
+Subsec. (l)(4). Pub. L. 117–333, § 13(2), added par. (4) and struck out former par. (4). Prior to amendment, text read as follows: “The Secretary may waive the requirements of this subsection for an educational institution that the Secretary has determined uses a flat tuition and fee structure that would make the use of a second verification under this subsection unnecessary.”
+
 2021—Subsec. (c)(1). Pub. L. 116–315, § 1002(b)(2), substituted “(8), (9), (10), or (11)” for “(8), or (9)”.
 
 Subsec. (e). Pub. L. 116–315, § 1009(a)(1), inserted “for a Period of More Than 30 Days” after “Active Duty” in heading.
@@ -1174,11 +1206,9 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
 **(e) Designation of Transferee.—** An individual transferring an entitlement to educational assistance under this section shall—
 
-(1) designate the dependent or dependents to whom such entitlement is being transferred;
+(1) designate the dependent or dependents to whom such entitlement is being transferred; and
 
-(2) designate the number of months of such entitlement to be transferred to each such dependent; and
-
-(3) specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
+(2) designate the number of months of such entitlement to be transferred to each such dependent.
 
 **(f) Time for Transfer; Revocation and Modification.—**
 
@@ -1230,11 +1260,19 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 
   (B) in the case of a child, at the same rate as such entitlement would otherwise be payable under this chapter to the individual making the transfer as if the individual were not on active duty.
 
-(4) **Death of transferor.—** — The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
+(4) **Death of transferor.—**
+
+  (A) *In general.—* — The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
+
+  (B) *Death prior to transfer to designated transferees.—*
+
+    (i) In the case of an eligible individual whom the Secretary has approved to transfer the individual’s entitlement under this section who, at the time of death, is entitled to educational assistance under this chapter and has designated a transferee or transferees under subsection (e) but has not transferred all of such entitlement to such transferee or transferees, the Secretary shall transfer the entitlement of the individual under this section by evenly distributing the amount of such entitlement between all such transferees who would not be precluded from using some or all of the transferred benefits due to the expiration of time limitations found in paragraph (5) of this subsection or [section 3321 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3321), notwithstanding the limitations under subsection (f).
+
+    (ii) If a transferee cannot use all of the transferred benefits under clause (i) because of expiration of a time limitation, the unused benefits will be distributed among the other designated transferees who would not be precluded from using some or all of the transferred benefits due to expiration of time limitations found in paragraph (5) of this subsection or [section 3321 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3321), unless or until there are no transferees who would not be precluded from using the transferred benefits because of expiration of a time limitation.
 
 (5) **Limitation on age of use by child transferees.—**
 
-  (A) *In general.—* — A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B),11 See Extension of Time Limitations for Use of Entitlement: Transfer Period note below. use any benefits so transferred after attaining the age of 26 years.
+  (A) *In general.—* — A child to whom entitlement is transferred under this section may use the benefits transferred without regard to the 15-year delimiting date specified in section 3321, but may not, except as provided in subparagraph (B) or (C), use any benefits so transferred after attaining the age of 26 years.
 
   (B) *Primary caregivers of seriously injured members of the armed forces and veterans.—*
 
@@ -1259,6 +1297,8 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
         (aa) the date on which the child ceases acting as the primary provider of personal care services for the veteran or member as described in clause (i); or
 
         (bb) the date on which it is reasonably feasible, as so determined, for the child to initiate or resume the use of benefits.
+
+  (C) *Emergency situations.—* — In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual’s chosen program of education before the individual attains the age of 26 years because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.
 
 (6) **Scope of use by transferees.—** — The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
 
@@ -1299,6 +1339,14 @@ Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set ou
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (h)(5)(A). Pub. L. 117–333, § 3(b)(2)(A), inserted “or (C)” after “subparagraph (B)”.
+
+Subsec. (h)(5)(C). Pub. L. 117–333, § 3(b)(2)(B), added subpar. (C).
+
+2022—Subsec. (e)(3). Pub. L. 117–297 struck out par. (3) which read as follows: “specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).”
+
+Subsec. (h)(4). Pub. L. 117–328 amended par. (4) generally. Prior to amendment, text read as follows: “The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.”
+
 2021—Subsec. (c). Pub. L. 116–315 amended subsec. (c) generally. Prior to amendment, text read as follows: “An individual approved to transfer an entitlement to educational assistance under this section may transfer the individual’s entitlement as follows:
 
 “(1) To the individual’s spouse.
@@ -1335,6 +1383,9 @@ Subsec. (k). Pub. L. 111–377, § 110(a)(2), struck out subsec. (k). Text read 
 
 2010—Subsec. (b)(2). Pub. L. 111–275 substituted “subsection (j)” for “section (k)”.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. U, title II, § 214(b), Dec. 29, 2022, 136 Stat. 5455, provided that: “Paragraph (4)(B) of [section 3319(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3319/h&num=0&edition=prelim), United States Code, shall apply with respect to an eligible individual who dies on or after November 1, 2018.”
+
 #### Effective Date of 2021 Amendment
 Pub. L. 116–315, title I, § 1011(b), Jan. 5, 2021, 134 Stat. 4942, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to educational assistance payable under chapter 33 of title 38, United States Code, before, on, or after the date that is 90 days after the date of the enactment of this Act [Jan. 5, 2021].”
 
@@ -1350,11 +1401,9 @@ Amendment by section 201(b) of Pub. L. 111–377 effective Aug. 1, 2011, and app
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 #### Extension of Time Limitations for Use of Entitlement: Transfer Period
-Pub. L. 116–315, title I, § 1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, provided that: “The subparagraph (C) temporarily added to section 3319(h)(5) of such title by section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) [set out as a note below] is amended by inserting ‘or training establishment’ after ‘educational institution’.”
+Pub. L. 116–315, title I, § 1107(d)(2), Jan. 5, 2021, 134 Stat. 4966, amended text temporarily added by Pub. L. 116–140, § 6(b)(2), formerly set out below.
 
-Pub. L. 116–140, § 6(b)(2), Apr. 28, 2020, 134 Stat. 633, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3319(h)(5) of such title as if it were amended— “(A) in subparagraph (A) by inserting ‘or (C)’ after ‘subparagraph (B)’; and “(B) by adding at the end the following new subparagraph:“ ‘(C) Emergency situations.—In any case in which the Secretary determines that an individual to whom entitlement is transferred under this section has been prevented from pursuing the individual’s chosen program of education before the individual attains the age of 26 years because the educational institution closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, the Secretary shall extend the period during which the individual may use such entitlement for a period equal to the number of months that the individual was so prevented from pursuing the program of education, as determined by the Secretary.’.”
-
-[The term “covered period” as used in section 6(b)(2) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+Pub. L. 116–140, § 6(b)(2), Apr. 28, 2020, 134 Stat. 633, which temporarily allowed for an extension of time to use entitled educational benefits because of closure of an educational institution, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (h)(5)(C) of this section.
 
 
 <a id="section-3320"></a>
@@ -1485,7 +1534,11 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 
 **(b) Exceptions.—**
 
-(1) **Applicability of section 3031 to running of period.—** — Subsections (b), (c), and (d) 11 See Extension of Time Limitations for Use of Entitlement: Post-9/11 Educational Assistance note below. of section 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).
+(1) **Applicability of section 3031 to running of period.—**
+
+  (A) Subsections (b), (c), (d), and (i) of section 3031 shall apply with respect to the running of the 15-year period described in subsection (a) of this section in the same manner as such subsections apply under section 3031 with respect to the running of the 10-year period described in section 3031(a).
+
+  (B) Subsection (i) of section 3031 shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031) with respect to the running of the 10-year period described in [section 3031(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3031/a&num=0&edition=prelim).
 
 (2) **Applicability of section 3031 to termination.—** — Section 3031(f) shall apply with respect to the termination of an individual’s entitlement to educational assistance under this chapter in the same manner as such section applies to the termination of an individual’s entitlement to educational assistance under chapter 30, except that, in the administration of such section for purposes of this chapter, the reference to section 3013 shall be deemed to be a reference to [section 3312 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3312).
 
@@ -1497,7 +1550,7 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 
   (B) in the case of a child who first becomes entitled to such entitlement on or after January 1, 2013, shall not expire.
 
-(5) **Applicability to spouses of deceased members.—** — The period during which a spouse entitled to educational assistance by reason of section 3311(b)(9) 22 See References in Text note below. may use such spouse’s entitlement—
+(5) **Applicability to spouses of deceased members.—** — The period during which a spouse entitled to educational assistance by reason of section 3311(b)(9) 11 See References in Text note below. may use such spouse’s entitlement—
 
   (A) in the case of a spouse who first becomes entitled to such entitlement before January 1, 2013, expires at the end of the 15-year period beginning on the date on which the spouse first becomes entitled to such entitlement; or
 
@@ -1509,6 +1562,10 @@ Pub. L. 115–48, title I, § 111(c), Aug. 16, 2017, 131 Stat. 983, provided tha
 Subsection (b)(9) of [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311), referred to in subsec. (b)(5), was redesignated subsection (b)(8) by Pub. L. 115–48, title I, §105(a)(3), Aug. 16, 2017, 131 Stat. 975.
 
 #### Amendments
+2023—Subsec. (b)(1). Pub. L. 117–333 made amendment substantially identical to that made by Pub. L. 117–328. See 2022 Amendment note below.
+
+2022—Subsec. (b)(1). Pub. L. 117–328 designated existing provisions as subpar. (A), substituted “(d), and (i)” for “and (d)”, and added subpar. (B).
+
 2019—Subsec. (a)(1). Pub. L. 116–61 substituted “January” for “January,”.
 
 2017—Subsec. (a). Pub. L. 115–48, § 112(a), substituted “individual’s entitlement—” for “individual’s entitlement expires at the end of the 15-year period beginning on the date of such individual’s last discharge or release from active duty.” and added pars. (1) and (2).
@@ -1538,9 +1595,7 @@ Amendment by Pub. L. 111–32 effective Aug. 1, 2009, see section 1002(d)(1) of 
 Section effective Aug. 1, 2009, see section 5003(d) of Pub. L. 110–252, set out as an Effective Date of 2008 Amendment note under [section 16163 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16163&num=0&edition=prelim), Armed Forces.
 
 #### Extension of Time Limitations for Use of Entitlement: Post-9/11 Educational Assistance
-Pub. L. 116–140, § 6(b)(1), Apr. 28, 2020, 134 Stat. 632, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply section 3321(b)(1) of such title as if it were amended— “(A) by inserting ‘(A)’ before ‘Subsections’; “(B) by striking ‘and (d)’ and inserting ‘(d), and (i)’; and [(C)] by adding at the end the following new subparagraph:“ ‘(B) Subsection (i) of section 3031 (as described in section 6 of the Student Veteran Coronavirus Response Act of 2020 [see section 6(a) of Pub. L. 116–140, [38 U.S.C. 3031](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031) note]) shall apply with respect to the running of the 15-year period described in paragraphs (4)(A) and (5)(A) of this subsection in the same manner as such subsection applies under section 3031 with respect to the running of the 10-year period described in section 3031(a).’.”
-
-[The term “covered period” as used in section 6(b)(1) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031).]
+Pub. L. 116–140, § 6(b)(1), Apr. 28, 2020, 134 Stat. 632, which temporarily provided for an extension to use entitlements for post-9/11 educational assistance, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (b)(1)(B) of this section.
 
 
 <a id="section-3322"></a>

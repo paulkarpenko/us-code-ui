@@ -10,7 +10,7 @@ source: >-
 ---
 <a id="section-8581"></a>
 ## § 8581. Civilian member: definition; exceptions
-**(a)** In this chapter, the term “civilian member” means a civilian member of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School. It includes the Provost and Academic Dean of the Postgraduate School, senior professors, professors, associate professors, assistant professors, chief instructors, assistant chief instructors, and instructors.
+**(a)** In this chapter, the term “civilian member” means a civilian member of the teaching staff of the United States Naval Academy or the United States Naval Postgraduate School. It includes the Provost and Academic Dean of the Postgraduate School,11 See Change of Name note below. senior professors, professors, associate professors, assistant professors, chief instructors, assistant chief instructors, and instructors.
 
 **(b)** This chapter does not apply to any civilian member who was employed at the Naval Academy or the Postgraduate School on January 16, 1936, and who did not elect to participate in the benefits provided by the Act of January 16, 1936, ch. 3 (49 Stat. 1092).
 
@@ -51,6 +51,9 @@ A prior section 8581 was renumbered [section 9231 of this title](./chapter-925-r
 1989—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
 
 1958—Subsec. (c). Pub. L. 85–861 added subsec. (c).
+
+#### Change of Name
+Position of Provost and Academic Dean of the Naval Postgraduate School now known as Provost and Chief Academic Officer. See [section 8543 of this title](./chapter-855-united-states-naval-postgraduate-school.md#section-8543), as amended by Pub. L. 117–263, div. A, title V, § 554(a)(1)(A), (2)(A), Dec. 23, 2022, 136 Stat. 2594.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

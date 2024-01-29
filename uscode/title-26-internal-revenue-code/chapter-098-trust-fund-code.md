@@ -73,7 +73,7 @@ For purposes of the preceding sentence, any reference to section 402(i), 422, or
 ### Statutory Notes
 
 #### References in Text
-The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part C of the Act is classified generally to part C (§ 931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. Sections 402(i), 422, 423, 424(b), 427(a), 431, 432, and 433 of the Act are classified to sections 902(i), 932, 933, 934(b), 937(a), 941, 942, and 943, respectively, of Title 30. Section 435 of the Act was classified to [section 945 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section945&num=0&edition=prelim), prior to repeal by Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116 Stat. 1926. For complete classification of this Act to the Code, see [section 901(b) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section901/b&num=0&edition=prelim) and Tables.
+The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792. Part C of the Act is classified generally to part C (§ 931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. Sections 402(i), 422, 423, 424(b), 427(a), 431, 432, and 433 of the Act are classified to sections 902(i), 932, 933, 934(b), 937(a), 941, 942, and 943, respectively, of Title 30. Section 435 of the Act was classified to [section 945 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section945&num=0&edition=prelim), prior to repeal by Pub. L. 107–275, § 2(c)(1), Nov. 2, 2002, 116 Stat. 1926. For complete classification of this Act to the Code, see [section 901(b) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section901/b&num=0&edition=prelim) and Tables.
 
 The date of enactment of the Black Lung Benefits Revenue Act of 1981, referred to in subsec. (d)(1)(A), is the date of enactment of Pub. L. 97–119, which was approved Dec. 29, 1981.
 
@@ -98,6 +98,10 @@ Pub. L. 110–343, div. B, title I, § 113(b), Oct. 3, 2008, 122 Stat. 3825, as 
 Pub. L. 111–8, div. F, title I, Mar. 11, 2009, 123 Stat. 757, provided in part that: “In fiscal year 2009 and thereafter, such sums as may be necessary from the Black Lung Disability Trust Fund (‘Fund’), to remain available until expended, for payment of all benefits authorized by section 9501(d)(1), (2), (4), and (7) of the Internal Revenue Code of 1954 [now 1986]; and interest on advances, as authorized by section 9501(c)(2) of that Act.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–47, div. D, title I, Mar. 23, 2024, 138 Stat. 638.
+
+Pub. L. 117–328, div. H, title I, Dec. 29, 2022, 136 Stat. 4843.
 
 Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 431.
 
@@ -161,9 +165,9 @@ There shall not be taken into account under paragraph (1) so much of the taxes i
 
 **(d) Expenditures from Airport and Airway Trust Fund**
 
-(1) **Airport and airway program** — Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2023, to meet those obligations of the United States—
+(1) **Airport and airway program** — Amounts in the Airport and Airway Trust Fund shall be available, as provided by appropriation Acts, for making expenditures before October 1, 2028, to meet those obligations of the United States—
 
-  (A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994 or the Federal Aviation Reauthorization Act of 1996 or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, Public Law 106–59, or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century or the Aviation and Transportation Security Act or the Vision 100—Century of Aviation Reauthorization Act or any joint resolution making continuing appropriations for the fiscal year 2008 or the Department of Transportation Appropriations Act, 2008 or the Airport and Airway Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008, Part II or the Federal Aviation Administration Extension Act of 2009 or any joint resolution making continuing appropriations for the fiscal year 2010 or the Fiscal Year 2010 Federal Aviation Administration Extension Act or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II or the Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part II or the Airline Safety and Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part III or the Airport and Airway Extension Act of 2010, Part IV or the Airport and Airway Extension Act of 2011 or the Airport and Airway Extension Act of 2011, Part II or the Airport and Airway Extension Act of 2011, Part III or the Airport and Airway Extension Act of 2011, Part IV or the Airport and Airway Extension Act of 2011, Part V or the Airport and Airway Extension Act of 2012 or the FAA Modernization and Reform Act of 2012 or the Airport and Airway Extension Act of 2015 or the Airport and Airway Extension Act of 2016 or the FAA Extension, Safety, and Security Act of 2016 or the Disaster Tax Relief and Airport and Airway Extension Act of 2017 or the Airport and Airway Extension Act of 2018 or the Airport and Airway Extension Act of 2018, Part II or the FAA Reauthorization Act of 2018;
+  (A) incurred under title I of the Airport and Airway Development Act of 1970 or of the Airport and Airway Development Act Amendments of 1976 or of the Aviation Safety and Noise Abatement Act of 1979 or under the Fiscal Year 1981 Airport Development Authorization Act or the provisions of the Airport and Airway Improvement Act of 1982 or the Airport and Airway Safety and Capacity Expansion Act of 1987 or the Federal Aviation Administration Research, Engineering, and Development Authorization Act of 1990 or the Aviation Safety and Capacity Expansion Act of 1990 or the Airport and Airway Safety, Capacity, Noise Improvement, and Intermodal Transportation Act of 1992 or the Airport Improvement Program Temporary Extension Act of 1994 or the Federal Aviation Administration Authorization Act of 1994 or the Federal Aviation Reauthorization Act of 1996 or the provisions of the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999 providing for payments from the Airport and Airway Trust Fund or the Interim Federal Aviation Administration Authorization Act or section 6002 of the 1999 Emergency Supplemental Appropriations Act, Public Law 106–59, or the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century or the Aviation and Transportation Security Act or the Vision 100—Century of Aviation Reauthorization Act or any joint resolution making continuing appropriations for the fiscal year 2008 or the Department of Transportation Appropriations Act, 2008 or the Airport and Airway Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008 or the Federal Aviation Administration Extension Act of 2008, Part II or the Federal Aviation Administration Extension Act of 2009 or any joint resolution making continuing appropriations for the fiscal year 2010 or the Fiscal Year 2010 Federal Aviation Administration Extension Act or the Fiscal Year 2010 Federal Aviation Administration Extension Act, Part II or the Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part II or the Airline Safety and Federal Aviation Administration Extension Act of 2010 or the Airport and Airway Extension Act of 2010, Part III or the Airport and Airway Extension Act of 2010, Part IV or the Airport and Airway Extension Act of 2011 or the Airport and Airway Extension Act of 2011, Part II or the Airport and Airway Extension Act of 2011, Part III or the Airport and Airway Extension Act of 2011, Part IV or the Airport and Airway Extension Act of 2011, Part V or the Airport and Airway Extension Act of 2012 or the FAA Modernization and Reform Act of 2012 or the Airport and Airway Extension Act of 2015 or the Airport and Airway Extension Act of 2016 or the FAA Extension, Safety, and Security Act of 2016 or the Disaster Tax Relief and Airport and Airway Extension Act of 2017 or the Airport and Airway Extension Act of 2018 or the Airport and Airway Extension Act of 2018, Part II or the FAA Reauthorization Act of 2018 or title II of division B of the Continuing Appropriations Act, 2024 and Other Extensions Act or the Airport and Airway Extension Act of 2023, Part II or the Airport and Airway Extension Act of 2024 or the Airport and Airway Extension Act of 2024, Part II or the FAA Reauthorization Act of 2024;
 
   (B) heretofore or hereafter incurred under part A of subtitle VII of title 49, United States Code, which are attributable to planning, research and development, construction, or operation and maintenance of—
 
@@ -197,7 +201,7 @@ There shall not be taken into account under paragraph (1) so much of the taxes i
 
   (B) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
-(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2023, in accordance with the provisions of this section.
+(2) **Exception for prior obligations** — Paragraph (1) shall not apply to any expenditure to liquidate any contract entered into (or for any amount otherwise obligated) before October 1, 2028, in accordance with the provisions of this section.
 
 **(f) Additional transfer to Trust Fund** Out of money in the Treasury not otherwise appropriated, there is hereby appropriated $14,000,000,000 to the Airport and Airway Trust Fund.
 
@@ -294,11 +298,47 @@ The Airport and Airway Extension Act of 2018, referred to in subsec. (d)(1)(A), 
 
 The Airport and Airway Extension Act of 2018, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 115–250, Sept. 29, 2018, 132 Stat. 3164. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
-The FAA Reauthorization Act of 2018, referred to in subsec. (d)(1)(A), is Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3186. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) and Tables.
+The FAA Reauthorization Act of 2018, referred to in subsec. (d)(1)(A), is Pub. L. 115–254, Oct. 5, 2018, 132 Stat. 3186. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation, and Tables.
 
-The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of enactment of the FAA Reauthorization Act of 2018, Pub. L. 115–254, which was approved Oct. 5, 2018.
+Title II of division B of the Continuing Appropriations Act, 2024 and Other Extensions Act, referred to in subsec. (d)(1)(A), is title II of div. B of Pub. L. 118–15, Sept. 30, 2023, 137 Stat. 82. For complete classification of title II to the Code, see Tables.
+
+The Airport and Airway Extension Act of 2023, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 118–34, Dec. 26, 2023, 137 Stat. 1112. For complete classification of this Act to the Code, see Short Title of 2023 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+
+The Airport and Airway Extension Act of 2024, referred to in subsec. (d)(1)(A), is Pub. L. 118–41, Mar. 8, 2024, 138 Stat. 20. For complete classification of this Act to the Code, see Short Title of 2024 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+
+The Airport and Airway Extension Act of 2024, Part II, referred to in subsec. (d)(1)(A), is Pub. L. 118–60, May 10, 2024, 138 Stat. 1018. For complete classification of this Act to the Code, see Short Title of 2024 Amendment note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+
+The FAA Reauthorization Act of 2024, referred to in subsec. (d)(1)(A), is Pub. L. 118–63, May 16, 2024, 138 Stat. 1025. For complete classification of this Act to the Code, see Short Title of 2024 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation, and Tables.
+
+The date of the enactment of the last Act referred to in subparagraph (A), referred to in subsec. (d)(1), is the date of enactment of the FAA Reauthorization Act of 2024, which was approved May 16, 2024.
 
 #### Amendments
+2024—Subsec. (d)(1). Pub. L. 118–63, § 1301(a)(1), substituted “October 1, 2028” for “May 11, 2024” in introductory provisions.
+
+Pub. L. 118–41, § 201(a)(1), substituted “May 11, 2024” for “March 9, 2024” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 118–63, § 1301(a)(2), inserted “or the FAA Reauthorization Act of 2024” before semicolon at end.
+
+Pub. L. 118–60 inserted “or the Airport and Airway Extension Act of 2024, Part II” before semicolon at end.
+
+Pub. L. 118–41, § 201(a)(2), inserted “or the Airport and Airway Extension Act of 2024” before semicolon at end.
+
+Subsec. (e)(2). Pub. L. 118–63, § 1301(b), substituted “October 1, 2028” for “May 11, 2024”.
+
+Pub. L. 118–41, § 201(b), substituted “May 11, 2024” for “March 9, 2024”.
+
+2023—Subsec. (d)(1). Pub. L. 118–34, § 201(a)(1), substituted “March 9, 2024” for “January 1, 2024” in introductory provisions.
+
+Pub. L. 118–15, § 2211(a)(1), substituted “January 1, 2024” for “October 1, 2023” in introductory provisions.
+
+Subsec. (d)(1)(A). Pub. L. 118–34, § 201(a)(2), inserted “or the Airport and Airway Extension Act of 2023, Part II” before semicolon at end.
+
+Pub. L. 118–15, § 2211(a)(2), inserted “or title II of division B of the Continuing Appropriations Act, 2024 and Other Extensions Act” before semicolon at end.
+
+Subsec. (e)(2). Pub. L. 118–34, § 201(b), substituted “March 9, 2024” for “January 1, 2024”.
+
+Pub. L. 118–15, § 2211(b), substituted “January 1, 2024” for “October 1, 2023”.
+
 2020—Subsec. (f). Pub. L. 116–159 added subsec. (f).
 
 2018—Subsec. (d)(1). Pub. L. 115–254, § 801(a)(1), substituted “October 1, 2023” for “October 1, 2018” in introductory provisions.
@@ -2351,7 +2391,7 @@ In the case of the tax imposed by section 4611, paragraph (1) shall apply only t
 #### References in Text
 Section 517(b) of the Superfund Revenue Act of 1986, referred to in subsec. (a)(2), is section 517(b) of Pub. L. 99–499, which is set out as a note under this section.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and CERCLA, referred to in subsecs. (b)(2), (4), (5), (c)(1)(A), and (e)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. Title I of CERCLA is classified to subchapter I (§ 9601 et seq.) of chapter 103 of Title 42. Sections 107(c)(3) and 111(a)(1), (2), (5), and (6), (c), and (m) of CERCLA are classified to sections 9607(c)(3) and 9611(a)(1), (2), (5), and (6), (c), and (m) of Title 42, respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980 and CERCLA, referred to in subsecs. (b)(2), (4), (5), (c)(1)(A), and (e)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. Title I of CERCLA is classified to subchapter I (§ 9601 et seq.) of chapter 103 of Title 42. Sections 107(c)(3) and 111(a)(1), (2), (5), and (6), (c), and (m) of CERCLA are classified to sections 9607(c)(3) and 9611(a)(1), (2), (5), and (6), (c), and (m) of Title 42, respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 Section 311(b)(6)(B) of the Clean Water Act, referred to in subsec. (b)(3), which was classified to [section 1321(b)(6)(B) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/b/6/B&num=0&edition=prelim), Navigation and Navigable Waters, and which related to civil actions by the Administrator to impose penalties for prohibited discharges was struck out by Pub. L. 101–380, title IV, § 4301(b), Aug. 18, 1990, 104 Stat. 533, which added a new section 311(b)(6)(B) relating to classes of civil penalties imposed by the Secretary of the department in which the Coast Guard is operating or the Administrator for prohibited discharges or violations of regulations.
 
@@ -2383,7 +2423,9 @@ Amendment by Pub. L. 99–509 effective on commencement date as defined in forme
 Pub. L. 99–499, title V, § 517(e), Oct. 17, 1986, 100 Stat. 1774, provided that: “(1) In general.—The amendments made by this section [enacting this section, amending [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim), The Public Health and Welfare, and repealing sections 9631 to 9633 of Title 42] shall take effect on January 1, 1987. “(2) Superfund treated as continuation of old trust fund.—The Hazardous Substance Superfund established by the amendments made by this section shall be treated for all purposes of law as a continuation of the Hazardous Substance Response Trust Fund established by section 221 of the Hazardous Substance Response Revenue Act of 1980 [former [42 U.S.C. 9631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9631&num=0&edition=prelim)]. Any reference in any law to the Hazardous Substance Response Trust Fund established by such section 221 shall be deemed to include (wherever appropriate) a reference to the Hazardous Substance Superfund established by the amendments made by this section.”
 
 #### Availability of Funds
-Pub. L. 117–58, div. J, title VI, § 613, Nov. 15, 2021, 135 Stat. 1406, provided that: “For this fiscal year [Fiscal Year 2022] and each fiscal year thereafter, such sums as are available in the Hazardous Substance Superfund established under section 9507 of the Internal Revenue Code of 1986 at the end of the preceding fiscal year from taxes received in the Treasury under subsection (b)(1) of such section shall be available, without further appropriation, to be used to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.).”
+Pub. L. 117–328, div. G, title IV, § 443(b), (c), Dec. 29, 2022, 136 Stat. 4833, provided that: “(b) For this fiscal year [Fiscal Year 2023] and each fiscal year thereafter, such sums as are available in the Hazardous Substance Superfund established under section 9507 of the Internal Revenue Code of 1986 at the end of the preceding fiscal year from taxes received in the Treasury under subsection (b)(1) of such section shall be available, without further appropriation, to remain available until expended, to be used to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) et seq.): Provided, That the amount provided by this subsection is designated by the Congress as being for an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022. “(c) Expenditures made pursuant to section 613 of title VI of division J of Public Law 117–58 [see below] shall be charged to the appropriation in subsection (b).”
+
+Pub. L. 117–58, div. J, title VI, § 613, Nov. 15, 2021, 135 Stat. 1406, which provided that in fiscal year 2022 and thereafter, sums available in the Hazardous Substance Superfund under section 9507 at the end of the preceding fiscal year from taxes received in the Treasury under subsection (b)(1) of such section would be available without further appropriation to carry out the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, was repealed by Pub. L. 117–328, div. G, title IV, § 443(a), Dec. 29, 2022, 136 Stat. 4833.
 
 #### Authorization of Appropriations
 Pub. L. 99–499, title V, § 517(b), Oct. 17, 1986, 100 Stat. 1773, as amended by Pub. L. 101–508, title XI, § 11231(d), Nov. 5, 1990, 104 Stat. 1388–445, provided that: “There is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, to the Hazardous Substance Superfund for fiscal year—“(1) 1987, $250,000,000, “(2) 1988, $250,000,000, “(3) 1989, $250,000,000, “(4) 1990, $250,000,000, “(5) 1991, $250,000,000, and [sic] “(6) 1992, $250,000,000, “(7) 1993, $250,000,000, “(8) 1994, $250,000,000, and “(9) 1995, $250,000,000, plus for each fiscal year an amount equal to so much of the aggregate amount authorized to be appropriated under this subsection (and paragraph (2) of section 221(b) of the Hazardous Substance Response Act of 1980 [probably means section 221(b)(2) of the Hazardous Substance Response Revenue Act of 1980, which was classified to [42 U.S.C. 9631(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9631/b/2&num=0&edition=prelim) before its repeal by section 517(c)(1) of Pub. L. 99–499], as in effect before its repeal) as has not been appropriated before the beginning of the fiscal year involved.”
@@ -2450,7 +2492,7 @@ The date of the enactment of Public Law 109–168, referred to in subsec. (c)(1)
 
 The date of the enactment of the FAST Act, referred to in subsec. (c)(4)(A), is the date of enactment of Pub. L. 114–94, which was approved Dec. 4, 2015.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (d)(2), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 The Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (d)(2), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
@@ -2612,11 +2654,11 @@ Pub. L. 110–172, § 11(a)(46), Dec. 29, 2007, 121 Stat. 2488, provided that: �
 
 (2) **Limitations on expenditures**
 
-  (A) *$1,000,000,000 per incident, etc.* — The maximum amount which may be paid from the Oil Spill Liability Trust Fund with respect to—
+  (A) *$1,500,000,000 per incident, etc.* — The maximum amount which may be paid from the Oil Spill Liability Trust Fund with respect to—
 
-    (i) any single incident shall not exceed $1,000,000,000, and
+    (i) any single incident shall not exceed $1,500,000,000, and
 
-    (ii) natural resource damage assessments and claims in connection with any single incident shall not exceed $500,000,000.
+    (ii) natural resource damage assessments and claims in connection with any single incident shall not exceed $750,000,000.
 
   (B) *$30,000,000 minimum balance* — Except in the case of payments of removal costs, a payment may be made from such Trust Fund only if the amount in such Trust Fund after such payment will not be less than $30,000,000.
 
@@ -2655,7 +2697,7 @@ The Oil Pollution Act of 1990, referred to in subsecs. (b)(2), (3), (5)–(7), (
 
 Section 311 of the Federal Water Pollution Control Act, referred to in subsecs. (b)(4), (8) and (c)(1)(C), (D), is classified to [section 1321 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321&num=0&edition=prelim). Subsec. (d) of section 311, which related to maritime disaster discharges, was amended generally by Pub. L. 101–380, title IV, § 4201(b), Aug. 18, 1990, 104 Stat. 525. Subsec. (k) of section 311 was repealed by Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507.
 
-The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of Title 33. Section 18 of the Act was classified to [section 1517 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1517&num=0&edition=prelim) prior to its repeal by Pub. L. 101–380, title II, § 2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501&num=0&edition=prelim) and Tables.
+The Deepwater Port Act of 1974, referred to in subsec. (b)(5), (8), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§ 1501 et seq.) of Title 33. Section 18 of the Act was classified to [section 1517 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1517&num=0&edition=prelim) prior to its repeal by Pub. L. 101–380, title II, § 2003(a)(2), Aug. 18, 1990, 104 Stat. 507. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501&num=0&edition=prelim) and Tables.
 
 Section 302 of the Outer Continental Shelf Lands Act Amendments of 1978, referred to in subsec. (b)(6), was classified to [section 1812 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1812&num=0&edition=prelim), Public Lands, prior to its repeal by Pub. L. 101–380, title II, § 2004, Aug. 18, 1990, 104 Stat. 507.
 
@@ -2668,6 +2710,8 @@ Sections 5 and 7 of the Intervention on the High Seas Act, referred to in subsec
 The date of the enactment of this subsection, referred to in subsec. (f), probably means the date of enactment of Pub. L. 101–380, which was approved Aug. 18, 1990, and which amended subsec. (f) generally.
 
 #### Amendments
+2022—Subsec. (c)(2)(A). Pub. L. 117–263 substituted “$1,500,000,000” for “$1,000,000,000” in heading and in cl. (i), and substituted “$750,000,000” for “$500,000,000” in cl. (ii).
+
 1990—Subsec. (b)(2) to (8). Pub. L. 101–380, § 9001(a), added pars. (2) to (8) and struck out former pars. (2) to (5) which read as follows:
 
 “(2) amounts recovered, collected, or received under subtitle A of the Comprehensive Oil Pollution Liability and Compensation Act,
@@ -2785,9 +2829,9 @@ Pub. L. 99–509, title VIII, § 8033(c)(2), Oct. 21, 1986, 100 Stat. 1961, prov
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (c)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subtitle 2 of title XXI of the Public Health Service Act is classified generally to part 2 (§ 300aa–10 et seq.) of subchapter XIX of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (c)(1)(A), is act July 1, 1944, ch. 373, 58 Stat. 682. Subtitle 2 of title XXI of the Public Health Service Act is classified generally to part 2 (§ 300aa–10 et seq.) of subchapter XIX of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The National Childhood Vaccine Injury Act of 1986, referred to in subsec. (d)(2), is title III of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3755, as amended, which is classified principally to subchapter XIX (§ 300aa–1 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title of 1986 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The National Childhood Vaccine Injury Act of 1986, referred to in subsec. (d)(2), is title III of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3755, which is classified principally to subchapter XIX (§ 300aa–1 et seq.) of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title of 1986 Amendments note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (c)(1)(A). Pub. L. 106–554 substituted “October 18, 2000” for “December 31, 1999”.

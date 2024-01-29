@@ -562,18 +562,18 @@ The panel shall give notice to the parties in all actions in which transfers for
 
 **(f)** The panel may prescribe rules for the conduct of its business not inconsistent with Acts of Congress and the Federal Rules of Civil Procedure.
 
-**(g)** Nothing in this section shall apply to any action in which the United States is a complainant arising under the antitrust laws. “Antitrust laws” as used herein include those acts referred to in the Act of October 15, 1914, as amended (38 Stat. 730; [15 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim)), and also include the Act of June 19, 1936 (49 Stat. 1526; [15 U.S.C. 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim), 13a, and 13b) and the Act of September 26, 1914, as added March 21, 1938 (52 Stat. 116, 117; [15 U.S.C. 56](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section56&num=0&edition=prelim)); but shall not include section 4A of the Act of October 15, 1914, as added July 7, 1955 (69 Stat. 282; [15 U.S.C. 15a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section15a&num=0&edition=prelim)).
-
-**(h)** Notwithstanding the provisions of section 1404 or subsection (f) of this section, the judicial panel on multidistrict litigation may consolidate and transfer with or without the consent of the parties, for both pretrial purposes and for trial, any action brought under section 4C of the Clayton Act.
+**(g)** Nothing in this section shall apply to any action in which the United States or a State is a complainant arising under the antitrust laws. “Antitrust laws” as used herein include those acts referred to in the Act of October 15, 1914, as amended (38 Stat. 730; [15 U.S.C. 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim)), and also include the Act of June 19, 1936 (49 Stat. 1526; [15 U.S.C. 13](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim), 13a, and 13b) and the Act of September 26, 1914, as added March 21, 1938 (52 Stat. 116, 117; [15 U.S.C. 56](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section56&num=0&edition=prelim)).
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to this title.
 
-Section 4C of the Clayton Act, referred to in subsec. (h), is section 4C of act Oct. 15, 1914, ch. 323, as added by Pub. L. 94–435, title III, § 301, Sept. 30, 1976, 90 Stat. 1394, which is classified to [section 15c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section15c&num=0&edition=prelim), Commerce and Trade.
-
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–328, § 301(1), inserted “or a State” after “United States” and struck out “; but shall not include section 4A of the Act of October 15, 1914, as added July 7, 1955 (69 Stat. 282; [15 U.S.C. 15a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section15a&num=0&edition=prelim))” before period at end.
+
+Subsec. (h). Pub. L. 117–328, § 301(2), struck out subsec. (h) which read as follows: “Notwithstanding the provisions of section 1404 or subsection (f) of this section, the judicial panel on multidistrict litigation may consolidate and transfer with or without the consent of the parties, for both pretrial purposes and for trial, any action brought under section 4C of the Clayton Act.”
+
 1976—Pub. L. 94–435 added subsec. (h).
 
 

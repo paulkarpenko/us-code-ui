@@ -512,7 +512,7 @@ The laws of the United States which are made applicable to the Northern Mariana 
 #### References in Text
 Section 502(a)(1) of H.J. Res. 549, referred to in text, probably means section 502(a)(1) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under [section 1801 of this title](./chapter-017-northern-mariana-islands.md#section-1801).
 
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVI of the Social Security Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVI of the Social Security Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Micronesia Claims Act, referred to in text, probably means the Micronesian Claims Act of 1971, Pub. L. 92–39, July 1, 1971, 85 Stat. 92, which was classified generally to section 2018 et seq. of the former Appendix to Title 50, War and National Defense, and which was omitted from the Code as terminated Aug. 3, 1976.
 
@@ -709,17 +709,17 @@ Amendment by Pub. L. 90–497 necessary to authorize the holding of an election 
 
 (2) The authority to report to the Secretary of the Interior and the Governor of Guam all failures to collect amounts due the government, and expenditures of funds or uses of property which are irregular or not pursuant to law.
 
-**(b) Scope of authority transferred** The authority granted in paragraph (a) shall extend to all activities of the government of Guam, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
+**(b) Scope of authority transferred** The authority granted in paragraph (a) shall extend to all activities of the government of Guam, and shall be in addition to the authority conferred upon the Inspector General by chapter 4 of title 5.
 
 **(c) Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior** In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 1422d, act Aug. 1, 1950, ch. 512, § 9–A, as added Sept. 11, 1968, Pub. L. 90–497, § 5, 82 Stat. 845; amended Oct. 15, 1977, Pub. L. 95–134, title II, § 203(a), 91 Stat. 1161, related to the creation, auditing function, and reporting duty of the office of a government comptroller for Guam, prior to repeal by Pub. L. 97–357, § 104(b).
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (92 Stat. 1101), as amended.”
 
 
 <a id="section-1423"></a>
@@ -1069,7 +1069,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (c), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.
@@ -1208,7 +1208,7 @@ The Legislature of Guam may by law authorize such authority, any provision of th
 ### Statutory Notes
 
 #### References in Text
-The Organic Act of Guam, referred to in text, is act Aug. 1, 1950, ch. 512, 64 Stat. 384, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-8a-guam.md#section-1421) and Tables.
+The Organic Act of Guam, referred to in text, is act Aug. 1, 1950, ch. 512, 64 Stat. 384, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-8a-guam.md#section-1421) and Tables.
 
 #### Codification
 Section was not enacted as part of the Organic Act of Guam which comprises this chapter.

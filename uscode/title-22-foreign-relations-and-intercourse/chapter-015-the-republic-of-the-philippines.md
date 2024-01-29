@@ -506,7 +506,7 @@ Nothing contained in this subchapter shall be construed as amending the provisio
 ### Statutory Notes
 
 #### References in Text
-Act of March 24, 1934, as amended, referred to in text, is act Mar. 24, 1934, ch. 84, 48 Stat. 456, as amended, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and [section 1248 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1248&num=0&edition=prelim), Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247, of Title 48, and enacted a provision set out as a note under [section 1391 of this title](./chapter-015-the-republic-of-the-philippines.md#section-1391). For complete classification of this Act to the Code, see Tables.
+Act of March 24, 1934, as amended, referred to in text, is act Mar. 24, 1934, ch. 84, 48 Stat. 456, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and [section 1248 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1248&num=0&edition=prelim), Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247, of Title 48, and enacted a provision set out as a note under [section 1391 of this title](./chapter-015-the-republic-of-the-philippines.md#section-1391). For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1386"></a>
@@ -552,7 +552,7 @@ After negotiation with the President of the Commonwealth of the Philippines, or 
 ### Statutory Notes
 
 #### References in Text
-Act of March 24, 1934, referred to in text, is act Mar. 24, 1934, ch. 84, 48 Stat. 456, as amended, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and [section 1248 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1248&num=0&edition=prelim), Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247 of Title 48, and enacted a provision set out as a note under [section 1391 of this title](./chapter-015-the-republic-of-the-philippines.md#section-1391). For complete classification of this Act to the Code, see Tables.
+Act of March 24, 1934, referred to in text, is act Mar. 24, 1934, ch. 84, 48 Stat. 456, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and [section 1248 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1248&num=0&edition=prelim), Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247 of Title 48, and enacted a provision set out as a note under [section 1391 of this title](./chapter-015-the-republic-of-the-philippines.md#section-1391). For complete classification of this Act to the Code, see Tables.
 
 #### Philippine Independence
 Philippine Islands granted independence by Proc. No. 2695, which is set out as a note under [section 1394 of this title](./chapter-015-the-republic-of-the-philippines.md#section-1394), and they now constitute a republic.

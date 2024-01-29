@@ -57,7 +57,7 @@ Minor change was made in phraseology.
 
 <a id="section-1623"></a>
 ## § 1623. False declarations before grand jury or court
-**(a)** Whoever under oath (or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under [section 1746 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1746&num=0&edition=prelim), United States Code) in any proceeding before or ancillary to any court or grand jury of the United States knowingly makes any false material declaration or makes or uses any other information, including any book, paper, document, record, recording, or other material, knowing the same to contain any false material declaration, shall be fined under this title or imprisoned not more than five years, or both.
+**(a)** Whoever under oath (or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under [section 1746 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1746&num=0&edition=prelim), United States Code) in any proceeding before or ancillary to any court or grand jury of the United States knowingly makes any false material declaration or makes or uses any other information, including any book, paper, document, record, recording, or other material, knowing the same to contain any false material declaration, shall be fined under this title or imprisoned not more than five years or, if such proceedings are before or ancillary to the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1803](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803&num=0&edition=prelim)), imprisoned not more than ten years, or both.
 
 **(b)** This section is applicable whether the conduct occurred within or without the United States.
 
@@ -75,6 +75,8 @@ In any prosecution under this section, the falsity of a declaration set forth in
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–49 inserted “or, if such proceedings are before or ancillary to the Foreign Intelligence Surveillance Court or the Foreign Intelligence Surveillance Court of Review established by section 103 of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1803](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1803&num=0&edition=prelim)), imprisoned not more than ten years” before “, or both”.
+
 1994—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
 1976—Subsec. (a). Pub. L. 94–550 inserted “(or in any declaration, certificate, verification, or statement under penalty of perjury as permitted under [section 1746 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1746&num=0&edition=prelim), United States Code)” after “under oath”.

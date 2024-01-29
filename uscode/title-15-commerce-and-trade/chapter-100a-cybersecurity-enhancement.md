@@ -696,7 +696,7 @@ Subsec. (d)(6). Pub. L. 116–283, § 9403(2), added par. (6).
 
 Subsec. (f)(3). Pub. L. 116–283, § 9401(g)(4)(C), substituted “under section 7443” for “under section 7451”.
 
-Subsec. (f)(5) to (7). Pub. L. 116–283, § 9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: “accept the terms of a scholarship under this section.”.
+Subsec. (f)(5) to (7). Pub. L. 116–283, § 9404(1), added pars. (5) to (7) and struck out former par. (5) which read as follows: “accept the terms of a scholarship under this section.”
 
 Subsec. (g)(1). Pub. L. 116–283, § 9404(2)(A), inserted “the Office of Personnel Management (in coordination with the National Science Foundation) and” before “the qualified institution”.
 
@@ -721,6 +721,9 @@ Subsec. (f)(3). Pub. L. 115–91, § 1649B(a)(3)(A), amended par. (3) generally.
 Subsec. (f)(4). Pub. L. 115–91, § 1649B(a)(3)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “be a full-time student in an eligible degree program at a qualified institution of higher education, as determined by the Director of the National Science Foundation; and”.
 
 Subsec. (m). Pub. L. 115–91, § 1649B(a)(4), amended subsec. (m) generally. Prior to amendment, text read as follows: “The Director of the National Science Foundation shall evaluate and report periodically to Congress on the success of recruiting individuals for scholarships under this section and on hiring and retaining those individuals in the public sector workforce.”
+
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Savings Provision
 Pub. L. 115–91, div. A, title XVI, § 1649B(b), Dec. 12, 2017, 131 Stat. 1755, provided that: “Nothing in this section [amending this section], or an amendment made by this section, shall affect any agreement, scholarship, loan, or repayment, under section 302 of the Cybersecurity Enhancement Act of 2014 ([15 U.S.C. 7442](./chapter-100a-cybersecurity-enhancement.md#section-7442)), in effect on the day before the date of enactment of this subtitle [Dec. 12, 2017].”

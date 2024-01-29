@@ -476,12 +476,12 @@ The Secretary shall establish for the Department, in the Office of the Secretary
 
 (6) **Compensation of members** — Members of the Committee shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) for each day (including travel time) during which the member is engaged in the performance of the duties of the Committee.
 
-(7) **Federal Advisory Committee Act exemption** — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+(7) **Federal Advisory Committee Act exemption** — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Committee.
 
 ### Statutory Notes
 
 #### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(7), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### Codification
 Section was enacted as part of the Federal Crop Insurance Reform and Department of Agriculture Reorganization Act of 1994, and not as part of the Department of Agriculture Reorganization Act of 1994 which in part comprises this chapter.
@@ -1347,6 +1347,8 @@ The Farms for the Future Act of 1990, referred to in subsec. (b)(4), is Pub. L. 
 Section was formerly part of subtitle E of title II of Pub. L. 103–354 and classified as [section 6962 of this title](./chapter-098-department-of-agriculture-reorganization.md#section-6962), prior to being moved so as to appear at the end of subtitle B of title II of Pub. L. 103–354 by Pub. L. 115–334, title XII, § 12410(c)(1)(B), Dec. 20, 2018, 132 Stat. 4978, and editorially reclassified as this section.
 
 Section is comprised of section 228 of Pub. L. 103–354. Subsec. (f) of section 228 of Pub. L. 103–354 amended sections 2001, 2002, 2005, and 3862 of Title 16, Conservation, and repealed [section 590e of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590e&num=0&edition=prelim).
+
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Amendments
 2018—Subsec. (b)(2), (3). Pub. L. 115–334, § 12410(b)(1)(A), (B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The forest land enhancement program under [section 2103 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2103&num=0&edition=prelim).”

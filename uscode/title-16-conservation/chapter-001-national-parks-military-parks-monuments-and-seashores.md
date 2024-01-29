@@ -2,7 +2,7 @@
 title: 16
 chapter: '1'
 heading: 'NATIONAL PARKS, MILITARY PARKS, MONUMENTS, AND SEASHORES'
-section_count: 2315
+section_count: 2319
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -1104,7 +1104,7 @@ The Act of May 7, 1894, entitled “An Act to protect the birds and animals in t
 
 The Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal Power Commission, to provide for the improvement of navigation, the development of water power, the use of the public lands in relation thereto, and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes,’ ” and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal Power Commission, to provide for the improvement of navigation, the development of water power, the use of the public lands in relation thereto, and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes,’ ” and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-21c"></a>
@@ -1614,7 +1614,7 @@ The provisions of the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-47c"></a>
@@ -1648,7 +1648,7 @@ The provisions of the Federal Power Act, as amended [[16 U.S.C. 791a](./chapter-
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, as amended, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, as amended, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-47-1"></a>
@@ -2043,7 +2043,7 @@ Act of October 2, 1968, referred to in text, is Pub. L. 90–545, Oct. 2, 1968, 
 
 [Section 79c(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section79c/b/1&num=0&edition=prelim), referred to in text, was in the original “subsection (a)(4) of the first section of this Act”, meaning section 101(a)(4) of Pub. L. 95–250, which amended [section 79c(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section79c/b/1&num=0&edition=prelim).
 
-This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
 
 The effective date of this section, referred to in text, probably means the date of enactment of section 101 of Pub. L. 95–250, which was approved Mar. 27, 1978.
 
@@ -2119,7 +2119,7 @@ There are hereby authorized to be appropriated $92,000,000 for land acquisition 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under this section. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
 Sections 79b and 79c of this title, referred to in subsec. (a), was in the original “the first section of this Act”, meaning section 101 of Pub. L. 95–250. Provisions of section 101 relating to the addition of property to Redwood National Park are classified to sections 79b and 79c of this title.
 
@@ -2236,7 +2236,7 @@ Reference to Secretary, unless otherwise indicated, as reference to Secretary of
 
 [Section 79k(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section79k/b&num=0&edition=prelim), referred to in subsec. (a), was in the original “section 102(b) of this amendment”, meaning section 102(b) of Pub. L. 95–250, which enacted [section 79k(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section79k/b&num=0&edition=prelim).
 
-This Act, referred to in subsec. (a), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
 
 Section 79l of this title, referred to in subsec. (a), was in the original “section 102 of this amendment”, meaning section 103 of Pub. L. 95–250, which enacted section 79l of this title.
 
@@ -2260,7 +2260,7 @@ Effective on October 1, 1978, there are hereby authorized to be appropriated $33
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which comprises this subchapter.
@@ -2282,7 +2282,7 @@ The Secretary is further authorized, and the Congress specifically directs that 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which comprises this subchapter.
@@ -2299,7 +2299,7 @@ The Congress further acknowledges and directs that the full faith and credit of 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, as amended, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 95–250, Mar. 27, 1978, 92 Stat. 163, which, insofar as classified to the Code, enacted sections 79c–1 and 79k to 79q of this title, amended former section 1a–1 and sections 79b and 79c of this title, and enacted provisions set out and formerly set out as notes under [section 79k of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-79k). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of Pub. L. 90–545, Oct. 2, 1968, 82 Stat. 931, which comprises this subchapter.
@@ -2866,7 +2866,7 @@ The boundaries of the Glacier Peak Wilderness, an area classified as such more t
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 Effective date of the Wilderness Act, referred to in text, means the date of enactment, Sept. 3, 1964, of such act.
 
@@ -3033,7 +3033,7 @@ The Act of June 10, 1916, entitled “An Act to accept the cession by the State 
 
 The Act of August 25, 1916, entitled “An Act to establish a national park service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-109"></a>
@@ -4439,7 +4439,7 @@ The Act of August 25, 1916, entitled “An Act to establish a national–park se
 
 Hereby, referred to in text, means by act June 9, 1926, which is classified to sections 192a, 196, and 197 of this title.
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-198"></a>
@@ -4535,7 +4535,7 @@ The Act of August 9, 1916, entitled “An Act to establish the Lassen Volcanic N
 
 The Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-202"></a>
@@ -4631,7 +4631,7 @@ The provisions of the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-204m"></a>
@@ -4663,7 +4663,7 @@ The Act of August 9, 1916, entitled “An Act to establish the Lassen Volcanic N
 
 The Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-206"></a>
@@ -4686,7 +4686,7 @@ The provisions of the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-207b"></a>
@@ -4902,7 +4902,7 @@ The Act of February 26, 1919, entitled “An Act to establish the Grand Canyon N
 
 The Act of August 25, 1916, entitled “An Act to establish a national park service, and for other purposes”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘an Act to create a Federal power commission; to provide for the improvement of navigation, the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-221c"></a>
@@ -5065,7 +5065,7 @@ Whenever the Secretary has reason to believe that any aircraft or helicopter act
 ### Statutory Notes
 
 #### References in Text
-The Noise Control Act of 1972, referred to in text, is Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, as amended, which is classified generally to chapter 65 (§ 4901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4901&num=0&edition=prelim) and Tables.
+The Noise Control Act of 1972, referred to in text, is Pub. L. 92–574, Oct. 27, 1972, 86 Stat. 1234, which is classified generally to chapter 65 (§ 4901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4901&num=0&edition=prelim) and Tables.
 
 #### Transfer of Functions
 “Federal Aviation Administration” substituted in text for “Federal Aviation Agency” pursuant to Pub. L. 89–670, Oct. 15, 1966, 80 Stat. 931, which transferred functions, powers, and duties of Federal Aviation Agency and of Administrator and other offices and officers thereof to Secretary of Transportation and established Federal Aviation Administration in Department of Transportation. See [section 106 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section106&num=0&edition=prelim), Transportation.
@@ -6922,7 +6922,7 @@ Recitation in this section as originally enacted of the fact that Sieur de Monts
 #### Permanent Boundary for Acadia National Park
 Pub. L. 116–9, title II, § 2108(c)(1), Mar. 12, 2019, 133 Stat. 730, provided that: “The Secretary [of the Interior] shall reestablish and appoint members to the Acadia National Park Advisory Commission in accordance with section 103 of Public Law 99–420 ([16 U.S.C. 341](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-341) note).”
 
-Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 110–229, title III, § 314(a), (b)(1), (c), (d), May 8, 2008, 122 Stat. 775; Pub. L. 116–9, title II, § 2108(a), (b), (c)(2), (f), Mar. 12, 2019, 133 Stat. 728–730, provided that: “SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.“(a) Boundaries.—Subject to subsections (b) and (c)(2), to protect and conserve the land and water resources of Acadia National Park in the State of Maine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park. “(b) Schoodic Peninsula Addition.—“(1) In general.—The boundary of the Park is confirmed to include approximately 1,441 acres of land and interests in land, as depicted on the map entitled ‘Acadia National Park, Hancock County, Maine, Schoodic Peninsula Boundary Revision’, numbered 123/129102, and dated July 10, 2015. “(2) Ratification and approval of acquisitions of land.—Congress ratifies and approves—“(A) effective as of September 26, 2013, the acquisition by the United States of the land and interests in the land described in paragraph (1); and “(B) effective as of the date on which the alteration occurred, any alteration of the land or interests in the land described in paragraph (1) that is held or claimed by the United States (including conversion of the land to fee simple interest) that occurred after the date described in subparagraph (A). “(c) Availability and Revisions of Maps.—“(1) Availability.—The map, together with the map described in subsection (b)(1) and any revised boundary map published under paragraph (2), if applicable, shall be—“(A) on file and available for public inspection in the offices of the National Park Service, Department of the Interior; and “(B) made available to the Registry of Deeds for Hancock and Knox Counties, Maine. “(2) Technical and limited revisions.—Subject to section 102(k), notwithstanding any other provision of this section, the Secretary of the Interior (referred to in this title as the ‘Secretary’), by publication in the Federal Register of a revised boundary map or other description, may make—“(A) such technical boundary revisions as the Secretary determines to be appropriate to the permanent boundaries of the Park (including any property of the Park located within the Schoodic Peninsula and Isle Au Haut districts) to resolve issues resulting from causes such as survey error or changed road alignments; and “(B) such limited boundary revisions as the Secretary determines to be appropriate to the permanent boundaries of the Park to take into account acquisitions or losses, by exchange, donation, or purchase from willing sellers using donated or appropriated funds, of land adjacent to or within the Park, respectively, in any case in which the total acreage of the land to be so acquired or lost is less than 10 acres, subject to the condition that—“(i) any such boundary revision shall not be a part of a more-comprehensive boundary revision; and “(ii) all such boundary revisions, considered collectively with any technical boundary revisions made pursuant to subparagraph (A), do not increase the size of the Park by more than a total of 100 acres, as compared to the size of the Park on the date of enactment of this paragraph. “SEC. 102. LANDS WITHIN BOUNDARIES.“(a) The Secretary is authorized to acquire lands and interests therein within the boundaries of the Park by donation, exchange (in accordance with this section), or purchase with donated or appropriated funds, except that—“(1) any lands or interests therein owned by the State of Maine or any political subdivision thereof may be acquired only by donation or exchange; and “(2) privately owned lands or interests therein may be acquired only with the consent of the owner thereof unless the Secretary determines that the property is being developed or proposed to be developed in a manner which is detrimental to the scenic, historical, cultural, and other values for which the Park was established. “(b)(1) Not later than 6 months after the enactment of this Act [Sept. 25, 1986], the Secretary shall publish specific guidelines under which determinations shall be made under subsection (a)(2). The Secretary shall provide adequate opportunity for public comment on such guidelines. The guidelines shall provide for notice to the Secretary prior to commencement of any proposed development within the boundaries of the Park. The Secretary shall provide written notice to the owner of the property of any determination proposed to be made under subsection (a)(2) and shall provide the owner a reasonable opportunity to comment on such proposal. “(2) For purposes of this section, except as provided in paragraph (3), development or proposed development of private property within the boundaries of the Park that is significantly different from, or a significant expansion of, development existing as of November 1, 1985, shall be considered by the Secretary as detrimental to the values for which the Park was established. “(3) Reconstruction or expansion of a private or commercial building shall not be treated as detrimental to the Park or as an incompatible development within the meaning of this section if such reconstruction or expansion is limited to one or more of the following:“(A) Reconstruction of an existing building. “(B) Construction of attached or accessory structural additions, which do not exceed 25 per centum of the square footage of the principal structure. “(C) Construction of reasonable support development such as roads, parking facilities, water and sewage systems, and dock facilities. “(4) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, before such construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure. “(c)(1) The owners of any private property within the Park may, on the date of its acquisition by the Secretary and as a condition of such acquisition, retain for himself and his successors or assigns a right to use and occupancy for a definite term of not more than 25 years, or ending at the death of the owner, or his spouse, whichever is later. The owners shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value, of the right retained by the owner. “(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired. “(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged. “(2) Federally owned property under jurisdiction of the Secretary referred to in paragraph (1) of this subsection shall be conveyed to the towns in which the property is located without encumbrance and without monetary consideration, except that no town shall be eligible to receive such lands unless lands within the Park boundary and owned by the town have been conveyed to the Secretary. “(e) Notwithstanding any other provision of this section, lands depicted on the map referenced in section 101 and identified as 10DBH and 11DBH known as the ‘Bar Harbor Sewage Treatment Plant’; 14DBH known as the ‘New Park Street Ballfield’; and 15DBH known as the ‘Former Park Headquarters’; shall be conveyed by the Secretary, without monetary consideration, to the town of Bar Harbor, Maine, within 180 days following the enactment of this Act [Sept. 25, 1986]. The real property conveyed pursuant to this subsection shall be used and retained by the town for municipal and public purposes. Title to the properties conveyed pursuant to this subsection shall revert to the United States if such property or any portion thereof is conveyed by the town to another party or used for purposes other than those specified in this subsection. “(f) Notwithstanding any other provision of this section, land depicted on the map identified as 4DBH, located in the village of Town Hill, Maine, shall be conveyed by the Secretary without monetary consideration, to the town of Bar Harbor, Maine, as soon as practicable following the enactment of this Act [Sept. 25, 1986], subject to such terms and conditions, including appropriate reversionary provisions, as will in the judgment of the Secretary provide for the development and use of such property by any town which so desires as a solid waste transfer station in accordance with a plan that is satisfactory to the town and the Secretary. The Secretary shall (subject to the availability of prior appropriations) contribute toward the cost of constructing such transfer station the lesser of—“(1) $350,000, or “(2) 50 per centum of the cost of such construction. “(g) Notwithstanding any other provision of this section, the Secretary is authorized to acquire by donation or exchange lands or interests therein in the area identified on the map as ‘Schooner Head’, which is outside the boundary of the park. The Secretary is further authorized to acquire conservation easements on such lands by purchase with donated or appropriated funds if he determines after written notice to the owner and after providing a reasonable opportunity to comment on such notice, that the property is being developed or proposed to be developed in a manner which is significantly different from or a significant expansion of development existing as of November 1, 1985, as defined in subsection (b) of this section. “(h)(1) The Secretary is authorized to acquire conservation easements by purchase from a willing seller or by donation on parcels of land adjacent to the Park on Schoodic Peninsula, the islands of Hancock County, and the islands of Knox County east and south of the Penobscot Ship Channel, except such islands as lie within the town of Isle au Haut, Knox County. Parcels subject to conservation easements acquired or accepted by the Secretary under this subsection must possess one or more of the following characteristics:“(A) important scenic, ecological, historic, archeological, or cultural resources; “(B) shorefront property; or “(C) largely undeveloped entire islands. “(2) Conservation easements acquired pursuant to this subsection shall—“(A) protect the respective scenic, ecological, historic, archeological, or cultural resources existing on the parcels; “(B) preserve, through setback requirements or other appropriate restrictions, the open, natural, or traditional appearance of the shorefront when viewed from the water or from other public viewpoints; or “(C) limit year-round and seasonal residential and commercial development to activities consistent with the preservation of the islands’ natural qualities and to traditional resource-based land use including, but not limited to, fishing, farming, silviculture, and grazing. “(3) In determining whether to accept or acquire conservation easements pursuant to this subsection, the Secretary shall consider the following factors:“(A) the resource protection benefits that would be provided by the conservation easement; “(B) the public benefit that would be provided by the conservation easement; “(C) the significance of the easement in relation to the land planning objectives of local government and regional and State agencies; “(D) the economic impact of the conservation easement on local livelihoods, activities, and government revenues; and “(E) the proximity of the parcel to the boundary of the Park and to other parcels on which the Secretary maintains conservation easements. “(4) For purposes of this subsection, the term ‘conservation easement’ means a less-than-fee interest in land or a conservation restriction as defined in section 476 through 479–B inclusive, as amended, of title 33 of the Maine Revised Statutes of 1964, as in effect on the date of the enactment of this Act [Sept. 25, 1986]. “(5) No easement may be acquired by the Secretary under this subsection without first consulting with, and providing written notification to, the town in which the land is located and the Acadia National Park Advisory Commission established by [section 103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section103&num=0&edition=prelim). In providing such notification, the Secretary shall indicate the manner and degree to which the easement meets the criteria provided in this subsection. “(i) Nothing in this section shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances. “(j)(1) Notwithstanding any other provision of this section, the Secretary shall accept an offer of the following from the Jackson Laboratory (a not-for-profit corporation organized under the laws of Maine):“(A) Lands depicted on the map as 55 A ABH which are held in fee by the Jackson Laboratory. “(B) A conservation easement on lands depicted on the map identified as 55 ABH (the developed property known as ‘Highseas’). The easement shall prohibit subdivision of such land or any further significant development on such lands, except as permitted by the guidelines published under section 102(b)(1). “(2) Upon receipt of the lands and easement described in paragraph (1), the Secretary shall transfer to the Jackson Laboratory the lands depicted on the map as 8 DBH and 9 DBH. Any disparity in the fair market value of the lands and easement referred to in paragraph (1) and the lands described in the preceding sentence shall be equalized as provided in section 102(d)(1). “(k) Requirements.—Before revising the boundaries of the Park pursuant to this section or section 101(c)(2)(B), the Secretary shall—“(1) certify that the proposed boundary revision will contribute to, and is necessary for, the proper preservation, protection, interpretation, or management of the Park; “(2) consult with the governing body of each county, city, town, or other jurisdiction with primary taxing authority over the land or interest in land to be acquired regarding the impacts of the proposed boundary revision; “(3) obtain from each property owner the land or interest in land of which is proposed to be acquired for, or lost from, the Park written consent for the proposed boundary revision; and “(4) submit to the Acadia National Park Advisory Commission established by section 103(a), the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Maine Congressional Delegation a written notice of the proposed boundary revision. “(l) Limitation.—The Secretary may not use the authority provided by [section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code, to adjust the permanent boundaries of the Park pursuant to this title. “SEC. 103. ADVISORY COMMISSION.“(a) There is hereby established an Acadia National Park Advisory Commission (hereinafter referred to as ‘the Commission’). The Commission shall be composed of 16 members appointed by the Secretary as follows:“(1) 3 members at large. “(2) 3 members appointed from among individuals recommended by the Governor of Maine. “(3) 4 members, appointed from among individuals recommended by each of the four towns on the island of Mount Desert. “(4) 3 members appointed from among individuals recommended by each of the three Hancock County mainland communities of Gouldsboro, Winter Harbor, and Trenton. “(5) 3 members, appointed from among individuals recommended by each of the three island towns of Cranberry Isles, Swans Island, and Frenchboro. “(b) The terms of the Commission members shall be 3 years except that, for initial appointments under each paragraph, one member shall serve for a term of one year, and one member shall serve for a term of 2 years. “(c) The Commission shall elect its own chairman and adopt its own bylaws. Any vacancy on the Commission shall be filled in the same manner in which the original appointment was made. “(d) Members of the Commission shall serve without compensation as such, except that the Secretary is authorized to pay the expenses reasonably incurred by the Commission in carrying out its responsibilities under this title. “(e) The Secretary shall consult with the Commission on matters relating to the management and development of the Park, including but not limited to each of the following:“(1) The acquisition of lands and interests in lands (including conservation easements on islands). “(2) Termination of rights of use and occupancy. “SEC. 104. BEAR ISLAND.“(a) Notwithstanding any other provision of law, Federal property located on Bear Island in the town of Cranberry Isle shall, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of the title. Such Federal property shall not be developed by the Secretary in a manner which would provide for or encourage intensive visitor use. “(b) The Secretary is authorized to make improvements to the Federal property on Bear Island as he deems appropriate for the protection of adjacent private property. “SEC. 105. TOWN OF ISLE AU HAUT.“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governed by the provisions of Public Law 97–335 [set out as a note below]. “SEC. 106. AUTHORIZATION OF APPROPRIATIONS.“(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein. “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended ([former] [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9) [now [54 U.S.C. 200306(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/4&num=0&edition=prelim)], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress [Jan. 4, 1977]. “(c) Additional Funding.—In addition to such sums as have been heretofore appropriated, there is hereby authorized $10,000,000 for acquisition of lands and interests therein. “SEC. 107. PAYMENTS TO LOCAL GOVERNMENTS.“(a) Notwithstanding the limitation in subsection 3(d) of the Act of October 20, 1976 (90 Stat. 2662) payments in the manner provided in section 3 of that Act [see [31 U.S.C. 6904(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6904/b&num=0&edition=prelim)] shall be made to the appropriate units of local government having jurisdiction over lands with the boundary of the Park. Such payments shall be made only for a period of 12 years. “(b) Payments received by the units of local government pursuant to this section shall be used only for fire protection, police protection, solid waste management, and road maintenance and improvement. “(c) Payments pursuant to this section may be made only from funds appropriated therefor. Such payments shall be in addition to and not in place of any other funds or form of Federal assistance to which the units of local government are entitled. “SEC. 108. INTERMODAL TRANSPORTATION CENTER.“(a) In General.—The Secretary may provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park. “(b) Agreements.—To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and, notwithstanding chapter 63 of title 31, United States Code, cooperative agreements, under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—“(1) to provide exhibits, interpretive services (including employing individuals to provide such services), and technical assistance; “(2) to conduct activities that facilitate the dissemination of information relating to the Park and the Island Explorer transit system or any successor transit system; “(3) to provide financial assistance for the construction of the intermodal transportation center in exchange for space in the center that is sufficient to interpret the Park; and “(4) to assist with the operation and maintenance of the intermodal transportation center. “(c) Authorization of Appropriations.—“(1) In general.—There are authorized to be appropriated to the Secretary not more than 40 percent of the total cost necessary to carry out this section (including planning, design and construction of the intermodal transportation center). “(2) Operations and maintenance.—There are authorized to be appropriated to the Secretary not more than 85 percent of the total cost necessary to maintain and operate the intermodal transportation center. “SEC. 109. CONTINUATION OF CERTAIN TRADITIONAL USES.“(a) Definitions.—In this section:“(1) Land within the park.—The term ‘land within the Park’ means land owned or controlled by the United States—“(A) that is within the boundary of the Park established by section 101; or “(B)(i) that is outside the boundary of the Park; and “(ii) in which the Secretary has or acquires a property interest or conservation easement pursuant to this title. “(2) Marine species; marine worm; shellfish.—The terms ‘marine species’, ‘marine worm’, and ‘shellfish’ have the meanings given those terms in [section 6001 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section6001&num=0&edition=prelim) of the Maine Revised Statutes (as in effect on the date of enactment of this section [March 12, 2019]). “(3) State law.—The term ‘State law’ means the law (including regulations) of the State of Maine, including the common law. “(4) Taking.—The term ‘taking’ means the removal or attempted removal of a marine species, marine worm, or shellfish from the natural habitat of the marine species, marine worm, or shellfish. “(b) Continuation of Traditional Uses.—The Secretary shall allow for the traditional taking of marine species, marine worms, and shellfish, on land within the Park between the mean high watermark and the mean low watermark in accordance with State law.”
+Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, as amended by Pub. L. 110–229, title III, § 314(a), (b)(1), (c), (d), May 8, 2008, 122 Stat. 775; Pub. L. 116–9, title II, § 2108(a), (b), (c)(2), (f), Mar. 12, 2019, 133 Stat. 728–730; Pub. L. 117–328, div. DD, title VI, § 618, Dec. 29, 2022, 136 Stat. 5606, provided that: “SEC. 101. BOUNDARIES OF ACADIA NATIONAL PARK.“(a) Boundaries.—Subject to subsections (b) and (c)(2), to protect and conserve the land and water resources of Acadia National Park in the State of Maine (hereinafter in this title referred to as ‘the Park’), and to facilitate the administration of the Park, the boundary depicted on the map entitled ‘Acadia National Park Boundary Map’, numbered 123–80011, and dated May 1986 (hereinafter in this title referred to as ‘the map’) is hereby established as the permanent boundary for the Park. “(b) Schoodic Peninsula Addition.—“(1) In general.—The boundary of the Park is confirmed to include approximately 1,441 acres of land and interests in land, as depicted on the map entitled ‘Acadia National Park, Hancock County, Maine, Schoodic Peninsula Boundary Revision’, numbered 123/129102, and dated July 10, 2015. “(2) Ratification and approval of acquisitions of land.—Congress ratifies and approves—“(A) effective as of September 26, 2013, the acquisition by the United States of the land and interests in the land described in paragraph (1); and “(B) effective as of the date on which the alteration occurred, any alteration of the land or interests in the land described in paragraph (1) that is held or claimed by the United States (including conversion of the land to fee simple interest) that occurred after the date described in subparagraph (A). “(c) Availability and Revisions of Maps.—“(1) Availability.—The map, together with the map described in subsection (b)(1) and any revised boundary map published under paragraph (2), if applicable, shall be—“(A) on file and available for public inspection in the offices of the National Park Service, Department of the Interior; and “(B) made available to the Registry of Deeds for Hancock and Knox Counties, Maine. “(2) Technical and limited revisions.—Subject to section 102(k), notwithstanding any other provision of this section, the Secretary of the Interior (referred to in this title as the ‘Secretary’), by publication in the Federal Register of a revised boundary map or other description, may make—“(A) such technical boundary revisions as the Secretary determines to be appropriate to the permanent boundaries of the Park (including any property of the Park located within the Schoodic Peninsula and Isle Au Haut districts) to resolve issues resulting from causes such as survey error or changed road alignments; and “(B) such limited boundary revisions as the Secretary determines to be appropriate to the permanent boundaries of the Park to take into account acquisitions or losses, by exchange, donation, or purchase from willing sellers using donated or appropriated funds, of land adjacent to or within the Park, respectively, in any case in which the total acreage of the land to be so acquired or lost is less than 10 acres, subject to the condition that—“(i) any such boundary revision shall not be a part of a more-comprehensive boundary revision; and “(ii) all such boundary revisions, considered collectively with any technical boundary revisions made pursuant to subparagraph (A), do not increase the size of the Park by more than a total of 100 acres, as compared to the size of the Park on the date of enactment of this paragraph. “SEC. 102. LANDS WITHIN BOUNDARIES.“(a) The Secretary is authorized to acquire lands and interests therein within the boundaries of the Park by donation, exchange (in accordance with this section), or purchase with donated or appropriated funds, except that—“(1) any lands or interests therein owned by the State of Maine or any political subdivision thereof may be acquired only by donation or exchange; and “(2) privately owned lands or interests therein may be acquired only with the consent of the owner thereof unless the Secretary determines that the property is being developed or proposed to be developed in a manner which is detrimental to the scenic, historical, cultural, and other values for which the Park was established. “(b)(1) Not later than 6 months after the enactment of this Act [Sept. 25, 1986], the Secretary shall publish specific guidelines under which determinations shall be made under subsection (a)(2). The Secretary shall provide adequate opportunity for public comment on such guidelines. The guidelines shall provide for notice to the Secretary prior to commencement of any proposed development within the boundaries of the Park. The Secretary shall provide written notice to the owner of the property of any determination proposed to be made under subsection (a)(2) and shall provide the owner a reasonable opportunity to comment on such proposal. “(2) For purposes of this section, except as provided in paragraph (3), development or proposed development of private property within the boundaries of the Park that is significantly different from, or a significant expansion of, development existing as of November 1, 1985, shall be considered by the Secretary as detrimental to the values for which the Park was established. “(3) Reconstruction or expansion of a private or commercial building shall not be treated as detrimental to the Park or as an incompatible development within the meaning of this section if such reconstruction or expansion is limited to one or more of the following:“(A) Reconstruction of an existing building. “(B) Construction of attached or accessory structural additions, which do not exceed 25 per centum of the square footage of the principal structure. “(C) Construction of reasonable support development such as roads, parking facilities, water and sewage systems, and dock facilities. “(4) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, before such construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure. “(c)(1) The owners of any private property within the Park may, on the date of its acquisition by the Secretary and as a condition of such acquisition, retain for himself and his successors or assigns a right to use and occupancy for a definite term of not more than 25 years, or ending at the death of the owner, or his spouse, whichever is later. The owners shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value, of the right retained by the owner. “(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired. “(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged. “(2) Federally owned property under jurisdiction of the Secretary referred to in paragraph (1) of this subsection shall be conveyed to the towns in which the property is located without encumbrance and without monetary consideration, except that no town shall be eligible to receive such lands unless lands within the Park boundary and owned by the town have been conveyed to the Secretary. “(e) Notwithstanding any other provision of this section, lands depicted on the map referenced in section 101 and identified as 10DBH and 11DBH known as the ‘Bar Harbor Sewage Treatment Plant’; 14DBH known as the ‘New Park Street Ballfield’; and 15DBH known as the ‘Former Park Headquarters’; shall be conveyed by the Secretary, without monetary consideration, to the town of Bar Harbor, Maine, within 180 days following the enactment of this Act [Sept. 25, 1986]. The real property conveyed pursuant to this subsection shall be used and retained by the town for municipal and public purposes. Title to the properties conveyed pursuant to this subsection shall revert to the United States if such property or any portion thereof is conveyed by the town to another party or used for purposes other than those specified in this subsection. “(f) Notwithstanding any other provision of this section, land depicted on the map identified as 4DBH, located in the village of Town Hill, Maine, shall be conveyed by the Secretary without monetary consideration, to the town of Bar Harbor, Maine, as soon as practicable following the enactment of this Act [Sept. 25, 1986], subject to such terms and conditions, including appropriate reversionary provisions, as will in the judgment of the Secretary provide for the development and use of such property for affordable workforce housing to benefit the towns on Mount Desert Island, subject to the limitation that the Secretary may retain not more than 15 acres of the Federal land identified as ‘4DBH’ on the map, to be used by the Secretary to provide housing and administrative facilities for the use of, and supporting the purposes of, the Park. “(g) Notwithstanding any other provision of this section, the Secretary is authorized to acquire by donation or exchange lands or interests therein in the area identified on the map as ‘Schooner Head’, which is outside the boundary of the park. The Secretary is further authorized to acquire conservation easements on such lands by purchase with donated or appropriated funds if he determines after written notice to the owner and after providing a reasonable opportunity to comment on such notice, that the property is being developed or proposed to be developed in a manner which is significantly different from or a significant expansion of development existing as of November 1, 1985, as defined in subsection (b) of this section. “(h)(1) The Secretary is authorized to acquire conservation easements by purchase from a willing seller or by donation on parcels of land adjacent to the Park on Schoodic Peninsula, the islands of Hancock County, and the islands of Knox County east and south of the Penobscot Ship Channel, except such islands as lie within the town of Isle au Haut, Knox County. Parcels subject to conservation easements acquired or accepted by the Secretary under this subsection must possess one or more of the following characteristics:“(A) important scenic, ecological, historic, archeological, or cultural resources; “(B) shorefront property; or “(C) largely undeveloped entire islands. “(2) Conservation easements acquired pursuant to this subsection shall—“(A) protect the respective scenic, ecological, historic, archeological, or cultural resources existing on the parcels; “(B) preserve, through setback requirements or other appropriate restrictions, the open, natural, or traditional appearance of the shorefront when viewed from the water or from other public viewpoints; or “(C) limit year-round and seasonal residential and commercial development to activities consistent with the preservation of the islands’ natural qualities and to traditional resource-based land use including, but not limited to, fishing, farming, silviculture, and grazing. “(3) In determining whether to accept or acquire conservation easements pursuant to this subsection, the Secretary shall consider the following factors:“(A) the resource protection benefits that would be provided by the conservation easement; “(B) the public benefit that would be provided by the conservation easement; “(C) the significance of the easement in relation to the land planning objectives of local government and regional and State agencies; “(D) the economic impact of the conservation easement on local livelihoods, activities, and government revenues; and “(E) the proximity of the parcel to the boundary of the Park and to other parcels on which the Secretary maintains conservation easements. “(4) For purposes of this subsection, the term ‘conservation easement’ means a less-than-fee interest in land or a conservation restriction as defined in section 476 through 479–B inclusive, as amended, of title 33 of the Maine Revised Statutes of 1964, as in effect on the date of the enactment of this Act [Sept. 25, 1986]. “(5) No easement may be acquired by the Secretary under this subsection without first consulting with, and providing written notification to, the town in which the land is located and the Acadia National Park Advisory Commission established by [section 103 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section103&num=0&edition=prelim). In providing such notification, the Secretary shall indicate the manner and degree to which the easement meets the criteria provided in this subsection. “(i) Nothing in this section shall be construed to prohibit the use of condemnation as a means of acquiring a clear and marketable title, free of any and all encumbrances. “(j)(1) Notwithstanding any other provision of this section, the Secretary shall accept an offer of the following from the Jackson Laboratory (a not-for-profit corporation organized under the laws of Maine):“(A) Lands depicted on the map as 55 A ABH which are held in fee by the Jackson Laboratory. “(B) A conservation easement on lands depicted on the map identified as 55 ABH (the developed property known as ‘Highseas’). The easement shall prohibit subdivision of such land or any further significant development on such lands, except as permitted by the guidelines published under section 102(b)(1). “(2) Upon receipt of the lands and easement described in paragraph (1), the Secretary shall transfer to the Jackson Laboratory the lands depicted on the map as 8 DBH and 9 DBH. Any disparity in the fair market value of the lands and easement referred to in paragraph (1) and the lands described in the preceding sentence shall be equalized as provided in section 102(d)(1). “(k) Requirements.—Before revising the boundaries of the Park pursuant to this section or section 101(c)(2)(B), the Secretary shall—“(1) certify that the proposed boundary revision will contribute to, and is necessary for, the proper preservation, protection, interpretation, or management of the Park; “(2) consult with the governing body of each county, city, town, or other jurisdiction with primary taxing authority over the land or interest in land to be acquired regarding the impacts of the proposed boundary revision; “(3) obtain from each property owner the land or interest in land of which is proposed to be acquired for, or lost from, the Park written consent for the proposed boundary revision; and “(4) submit to the Acadia National Park Advisory Commission established by section 103(a), the Committee on Natural Resources of the House of Representatives, the Committee on Energy and Natural Resources of the Senate, and the Maine Congressional Delegation a written notice of the proposed boundary revision. “(l) Limitation.—The Secretary may not use the authority provided by [section 100506 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100506&num=0&edition=prelim), United States Code, to adjust the permanent boundaries of the Park pursuant to this title. “SEC. 103. ADVISORY COMMISSION.“(a) There is hereby established an Acadia National Park Advisory Commission (hereinafter referred to as ‘the Commission’). The Commission shall be composed of 16 members appointed by the Secretary as follows:“(1) 3 members at large. “(2) 3 members appointed from among individuals recommended by the Governor of Maine. “(3) 4 members, appointed from among individuals recommended by each of the four towns on the island of Mount Desert. “(4) 3 members appointed from among individuals recommended by each of the three Hancock County mainland communities of Gouldsboro, Winter Harbor, and Trenton. “(5) 3 members, appointed from among individuals recommended by each of the three island towns of Cranberry Isles, Swans Island, and Frenchboro. “(b) The terms of the Commission members shall be 3 years except that, for initial appointments under each paragraph, one member shall serve for a term of one year, and one member shall serve for a term of 2 years. “(c) The Commission shall elect its own chairman and adopt its own bylaws. Any vacancy on the Commission shall be filled in the same manner in which the original appointment was made. “(d) Members of the Commission shall serve without compensation as such, except that the Secretary is authorized to pay the expenses reasonably incurred by the Commission in carrying out its responsibilities under this title. “(e) The Secretary shall consult with the Commission on matters relating to the management and development of the Park, including but not limited to each of the following:“(1) The acquisition of lands and interests in lands (including conservation easements on islands). “(2) Termination of rights of use and occupancy. “SEC. 104. BEAR ISLAND.“(a) Notwithstanding any other provision of law, Federal property located on Bear Island in the town of Cranberry Isle shall, with the concurrence of the agency having custody thereof, be transferred without consideration to the administrative jurisdiction of the Secretary for use by him in carrying out the provisions of the title. Such Federal property shall not be developed by the Secretary in a manner which would provide for or encourage intensive visitor use. “(b) The Secretary is authorized to make improvements to the Federal property on Bear Island as he deems appropriate for the protection of adjacent private property. “SEC. 105. TOWN OF ISLE AU HAUT.“The provisions of this title shall not apply to those portions of the Park lying within the Town of Isle au Haut, Maine, which lands shall continue to be governed by the provisions of Public Law 97–335 [set out as a note below]. “SEC. 106. AUTHORIZATION OF APPROPRIATIONS.“(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein. “(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended ([former] [16 U.S.C. 460](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460)l–9) [now [54 U.S.C. 200306(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section200306/a/4&num=0&edition=prelim)], the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress [Jan. 4, 1977]. “(c) Additional Funding.—In addition to such sums as have been heretofore appropriated, there is hereby authorized $10,000,000 for acquisition of lands and interests therein. “SEC. 107. PAYMENTS TO LOCAL GOVERNMENTS.“(a) Notwithstanding the limitation in subsection 3(d) of the Act of October 20, 1976 (90 Stat. 2662) payments in the manner provided in section 3 of that Act [see [31 U.S.C. 6904(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6904/b&num=0&edition=prelim)] shall be made to the appropriate units of local government having jurisdiction over lands with the boundary of the Park. Such payments shall be made only for a period of 12 years. “(b) Payments received by the units of local government pursuant to this section shall be used only for fire protection, police protection, solid waste management, and road maintenance and improvement. “(c) Payments pursuant to this section may be made only from funds appropriated therefor. Such payments shall be in addition to and not in place of any other funds or form of Federal assistance to which the units of local government are entitled. “SEC. 108. INTERMODAL TRANSPORTATION CENTER.“(a) In General.—The Secretary may provide assistance in the planning, construction, and operation of an intermodal transportation center located outside of the boundary of the Park in the town of Trenton, Maine to improve the management, interpretation, and visitor enjoyment of the Park. “(b) Agreements.—To carry out subsection (a), in administering the intermodal transportation center, the Secretary may enter into interagency agreements with other Federal agencies, and, notwithstanding chapter 63 of title 31, United States Code, cooperative agreements, under appropriate terms and conditions, with State and local agencies, and nonprofit organizations—“(1) to provide exhibits, interpretive services (including employing individuals to provide such services), and technical assistance; “(2) to conduct activities that facilitate the dissemination of information relating to the Park and the Island Explorer transit system or any successor transit system; “(3) to provide financial assistance for the construction of the intermodal transportation center in exchange for space in the center that is sufficient to interpret the Park; and “(4) to assist with the operation and maintenance of the intermodal transportation center. “(c) Authorization of Appropriations.—“(1) In general.—There are authorized to be appropriated to the Secretary not more than 40 percent of the total cost necessary to carry out this section (including planning, design and construction of the intermodal transportation center). “(2) Operations and maintenance.—There are authorized to be appropriated to the Secretary not more than 85 percent of the total cost necessary to maintain and operate the intermodal transportation center. “SEC. 109. CONTINUATION OF CERTAIN TRADITIONAL USES.“(a) Definitions.—In this section:“(1) Land within the park.—The term ‘land within the Park’ means land owned or controlled by the United States—“(A) that is within the boundary of the Park established by section 101; or “(B)(i) that is outside the boundary of the Park; and “(ii) in which the Secretary has or acquires a property interest or conservation easement pursuant to this title. “(2) Marine species; marine worm; shellfish.—The terms ‘marine species’, ‘marine worm’, and ‘shellfish’ have the meanings given those terms in [section 6001 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section6001&num=0&edition=prelim) of the Maine Revised Statutes (as in effect on the date of enactment of this section [Mar. 12, 2019]). “(3) State law.—The term ‘State law’ means the law (including regulations) of the State of Maine, including the common law. “(4) Taking.—The term ‘taking’ means the removal or attempted removal of a marine species, marine worm, or shellfish from the natural habitat of the marine species, marine worm, or shellfish. “(b) Continuation of Traditional Uses.—The Secretary shall allow for the traditional taking of marine species, marine worms, and shellfish, on land within the Park between the mean high watermark and the mean low watermark in accordance with State law.”
 
 [Pub. L. 110–229, title III, § 314(b)(2), May 8, 2008, 122 Stat. 775, provided that: “The amendment made by paragraph (1) [amending section 103(f) of Public Law 99–420, set out above] shall take effect on September 25, 2006.” ]
 
@@ -6966,7 +6966,7 @@ The area now within the Lafayette National Park, together with such additions as
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal Power Commission, to provide for the improvement of navigation, the development of water power, the use of the public lands in relation thereto, and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal Power Commission, to provide for the improvement of navigation, the development of water power, the use of the public lands in relation thereto, and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-343"></a>
@@ -7634,7 +7634,7 @@ The tracts of land on the island of Hawaii and on the island of Maui, in the Ter
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal power commission; to provide for the improvement of navigation; the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, entitled ‘An Act to create a Federal power commission; to provide for the improvement of navigation; the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Subd. Fifth is from sections 1 and 2 of act May 1, 1922. Section 1 of act May 1, 1922, in addition to describing the tract, recited that it was the tract set aside for park purposes on Oct. 29, 1920, by executive order of the governor of the territory of Hawaii.
@@ -7706,7 +7706,7 @@ The Act of February 27, 1920 (41 Stat. 452), entitled “An Act to authorize the
 
 Hereby, referred to in text, means act June 20, 1938, which is classified to sections 391b, 391b–1, 392b, 392c, 396, and 396a of this title. For complete classification of this Act to the Code, see Tables.
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, as amended, entitled ‘An Act to create a Federal Power Commission; to provide for the improvement of navigation; the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, as amended, entitled ‘An Act to create a Federal Power Commission; to provide for the improvement of navigation; the development of water power; the use of the public lands in relation thereto; and to repeal section 18 of the River and Harbor Appropriation Act, approved August 8, 1917, and for other purposes’ ”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 Section is comprised of section 4 of act June 20, 1938, less last proviso which is classified to [section 392b of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-392b).
@@ -8225,6 +8225,11 @@ The Act of August 21, 1935 (49 Stat. 666; 16 U.S.C., 1946 edition, secs. 461–4
 
 A portion of the Virgin Islands of the United States, containing outstanding scenic and other features of national significance, shall be established, as prescribed in [section 398a of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-398a), as the “Virgin Islands National Park”.
 
+### Statutory Notes
+
+#### Installation of Plaque Commemorating Slave Rebellion on St. John
+Pub. L. 117–328, div. DD, title VI, § 621, Dec. 29, 2022, 136 Stat. 5608, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary [of the Interior] shall install, in an appropriate location in the area of the Ram Head trail at the peak of Ram Head in the Virgin Islands National Park on St. John, United States Virgin Islands, a suitable plaque to commemorate the slave rebellion that began on St. John on November 23, 1733. “(b) Contents of Plaque.—The plaque installed under subsection (a) shall include information regarding—“(1) important facts about the slave rebellion that began on St. John in 1733; “(2) the collective suicide that occurred during the slave rebellion in the vicinity of Ram Head on St. John in 1734; and “(3) the significance of the slave rebellion to the history of St. John, the United States Virgin Islands, and the United States.”
+
 
 <a id="section-398a"></a>
 ## § 398a. Conditions and limitations
@@ -8404,7 +8409,7 @@ The provisions of the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-402f"></a>
@@ -8465,7 +8470,7 @@ The administration, protection, and development of the aforesaid parks shall be 
 #### References in Text
 The Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 1934—Act June 15, 1934, changed minimum area for Great Smoky Mountains National Park to 400,000 acres.
@@ -8827,7 +8832,7 @@ The administration, protection, and development of the aforesaid park shall be e
 #### References in Text
 The Act of August 25, 1916, entitled “An Act to establish a National Park Service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 1934—Act May 14, 1934, inserted “and he shall have established a schedule of fees for admission to such caves,” and changed phrase “including all the caves thereof” to its present position instead of following “twenty thousand acres”.
@@ -8996,7 +9001,7 @@ The northeast quarter northwest quarter, lot 1, section 7, township 28 south, ra
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original “Federal water power Act of June 10, 1920 (Forty-first Statutes At Large, page 1063)”, which was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original “Federal water power Act of June 10, 1920 (Forty-first Statutes At Large, page 1063)”, which was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-405a"></a>
@@ -9189,7 +9194,7 @@ The provisions of the Federal Power Act [[16 U.S.C. 791a](./chapter-012-federal-
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791aet seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791aet seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 
 <a id="section-407bb"></a>
@@ -9456,7 +9461,7 @@ The Secretary of the Interior is authorized, in his discretion, to establish a s
 ### Statutory Notes
 
 #### Termination of Advisory Commissions
-Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-407q"></a>
@@ -9526,7 +9531,7 @@ The administration, protection, and development of the aforesaid park shall be e
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535), entitled “An Act to establish a National Park Service, and for other purposes,”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act approved June, 10, 1920, known as the Federal Water Power Act,” which was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act approved June, 10, 1920, known as the Federal Water Power Act,” which was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
@@ -9975,7 +9980,7 @@ Nothing in this part shall have the effect of terminating any validly issued rig
 ### Statutory Notes
 
 #### References in Text
-The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 617t of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section617t&num=0&edition=prelim) and Tables.
+The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 617t of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section617t&num=0&edition=prelim) and Tables.
 
 Section 601(a)(2), referred to in text, is section 601(a)(2) of Pub. L. 103–433, which enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132).
 
@@ -9992,14 +9997,14 @@ Act of June 18, 1932 (47 Stat. 324), referred to in text, is not classified to t
 
 (2) Vacancies in the advisory commission shall be filled by the Secretary so as to maintain the full diversity of views required to be represented on the advisory commission.
 
-**(c) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act shall apply to the procedures and activities of the advisory commission.
+**(c) Applicability of chapter 10 of title 5** Chapter 10 of title 5 shall apply to the procedures and activities of the advisory commission.
 
 **(d) Termination** The advisory commission shall cease to exist ten years after the date of its establishment.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
 
 
 <a id="section-410aaa-28"></a>
@@ -10243,14 +10248,14 @@ Any lands acquired by the Secretary under this part shall become part of the Moj
 
 (2) Vacancies in the advisory commission shall be filled by the Secretary so as to maintain the full diversity of views required to be represented on the advisory commission.
 
-**(c) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act shall apply to the procedures and activities of the advisory commission.
+**(c) Applicability of chapter 10 of title 5** Chapter 10 of title 5 shall apply to the procedures and activities of the advisory commission.
 
 **(d) Termination** The advisory commission shall cease to exist ten years after the date of its establishment.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
 
 
 <a id="section-410aaa-59"></a>
@@ -10279,14 +10284,14 @@ In text, “[section 100903 of title 54](https://uscode.house.gov/view.xhtml?req
 
 (2) Vacancies in the advisory commission shall be filled by the Secretary so as to maintain the full diversity of views required to be represented on the advisory commission.
 
-**(c) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act shall apply to the procedures and activities of the advisory commission.
+**(c) Applicability of chapter 10 of title 5** Chapter 10 of title 5 shall apply to the procedures and activities of the advisory commission.
 
 **(d) Termination** The advisory commission shall cease to exist ten years after the date of its establishment.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
 
 
 <a id="section-410aaa-7"></a>
@@ -10351,7 +10356,7 @@ This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, whi
 
 <a id="section-410aaa-75"></a>
 ## § 410aaa–75. Native American uses and interests
-**(a) Access** The Secretary shall ensure access to areas designated under this Act by members of Indian Tribes for traditional cultural and religious purposes, consistent with applicable law, including Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim)).
+**(a) Access** The Secretary shall ensure access to areas designated under this Act by members of Indian Tribes for traditional cultural and religious purposes, consistent with applicable law, including Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) [, 1996a]).
 
 **(b) Temporary closure**
 
@@ -10397,7 +10402,7 @@ This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, whi
 
     (i) chapter 2003 of title 54;
 
-    (ii) Public Law 95–341 (commonly known as the ‘American Indian Religious Freedom Act’) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) [, 1996a]);
+    (ii) Public Law 95–341 (commonly known as the “American Indian Religious Freedom Act”) ([42 U.S.C. 1996](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) [, 1996a]);
 
     (iii) the Archaeological Resources Protection Act of 1979 ([16 U.S.C. 470aa](./chapter-1b-archaeological-resources-protection.md#section-470aa) et seq.);
 
@@ -10502,7 +10507,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623. Title II of the Act is set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and Tables.
 
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which amended [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and enacted provisions set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim).
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, which amended [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) and enacted provisions set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim).
 
 #### Amendments
 2019—Subsec. (a). Pub. L. 116–9, § 1456(1), designated first sentence as par. (1) and second sentence as par. (2), inserted par. headings, substituted “The Secretary shall negotiate in good faith to reach an agreement with the California State Lands Commission (referred to in this section as the ‘Commission’)” for “Upon request of the California State Lands Commission (hereinafter in this section referred to as the ‘Commission’), the Secretary shall enter into negotiations for an agreement” in par. (1) and “To the maximum extent practicable, not later than 10 years after October 31, 1994, the Secretary shall” for “The Secretary shall negotiate in good faith to” in par. (2), and inserted “, national monuments, off-highway vehicle recreation areas,” after “more of the wilderness areas” in par. (1).
@@ -10758,7 +10763,7 @@ There is authorized to be appropriated to the National Park Service and to the B
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is defined in [section 410aaa–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa-1).
+This Act, referred to in text, is defined in section 3 of Pub. L. 103–433, which is set out as a Definitions note under [section 410aaa of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410aaa).
 
 
 <a id="section-410aaa-91"></a>
@@ -10989,7 +10994,7 @@ The administration, protection, and development of the aforesaid park shall be e
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535), entitled “An Act to establish a National Park Service, and for other purposes”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act approved June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 1937—Act Aug. 21, 1937, struck out proviso which prohibited expenditure of public moneys by the United States on the park within a period of five years.
@@ -11015,7 +11020,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 ### Statutory Notes
 
 #### References in Text
-Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
+Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
 That portion of the act of February 25, 1920, which is set out at 41 Stat. 449, as referred to in subsec. (c), is classified to sections 185 to 187 of Title 30, Mineral Lands and Mining. For complete classification of the Act to the Code, see Tables.
 
@@ -11555,6 +11560,13 @@ Secretary means the Secretary of the Interior, see section 2 of Pub. L. 116–9,
 
 (4) Not to exceed 10 acres of land that the Secretary may designate for an interpretive visitor center complex to serve the needs of the historical park and heritage area established in part B of this subchapter.
 
+(5) The approximately 46.1 acres of land identified as “Proposed Addition”, as generally depicted on the map entitled “Cane River Creole National Historical Park Proposed Addition—Magnolia Plantation Unit”, numbered 494/176,958, and dated October 2021.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(5). Pub. L. 117–328 added par. (5).
+
 
 <a id="section-410ccc-2"></a>
 ## § 410ccc–2. Administration
@@ -11821,9 +11833,7 @@ An Act entitled “An Act to provide for a plan for the preservation, interpreta
 ## § 410cc–13. Authorization of appropriations
 **(a) General authority; maximum amounts** There are authorized to be appropriated such sums as may be necessary to carry out this subchapter, except that—
 
-(1) the total of the amounts authorized to be appropriated for the purpose of acquisition and development under the park management plan established pursuant to [section 410cc–21(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–21/b&num=0&edition=prelim) and emergency assistance under [section 410cc–25(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–25/a/1&num=0&edition=prelim) shall not exceed $19,800,000; and
-
-(2) the total of the amounts authorized to be appropriated for the purpose of carrying out [section 410cc–32(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–32/b/2&num=0&edition=prelim), for the payment of grants and loans under [section 410cc–33 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410cc-33), for the acquisition of property under [section 410cc–34 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410cc-34), and for carrying out any transportation program and any educational and cultural program described in [section 410cc–32(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–32/c&num=0&edition=prelim) shall not exceed $33,600,000.
+(1) 11 So in original. There is no par. (2). the total of the amounts authorized to be appropriated for the purpose of carrying out [section 410cc–32(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–32/b/2&num=0&edition=prelim), for the payment of grants and loans under [section 410cc–33 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410cc-33), for the acquisition of property under [section 410cc–34 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410cc-34), and for carrying out any transportation program and any educational and cultural program described in [section 410cc–32(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–32/c&num=0&edition=prelim) shall not exceed $33,600,000.
 
 **(b) Commencement date** No funds shall be authorized pursuant to this section prior to October 1, 1978.
 
@@ -11838,6 +11848,8 @@ An Act entitled “An Act to provide for a plan for the preservation, interpreta
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328 redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “the total of the amounts authorized to be appropriated for the purpose of acquisition and development under the park management plan established pursuant to [section 410cc–21(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–21/b&num=0&edition=prelim) and emergency assistance under [section 410cc–25(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section410cc–25/a/1&num=0&edition=prelim) shall not exceed $19,800,000; and”.
+
 1987—Subsec. (a). Pub. L. 100–134 substituted “$19,800,000” for “$18,500,000” in par. (1), and “$33,600,000” for “$21,500,000” in par. (2).
 
 #### Effective Date of 1987 Amendment
@@ -12472,7 +12484,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 (1) **Map** — The term “Map” means the map entitled “White Sands National Park Proposed Boundary Revision & Transfer of Lands Between National Park Service & Department of the Army”, numbered 142/136,271, and dated February 14, 2017.
 
-(2) **Military munitions** — The term “military munitions” has the meaning given the term in [section 101(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e&num=0&edition=prelim).
+(2) **Military munitions** — The term “military munitions” has the meaning given the term in section 101(e) 11 See References in Text note below. of title 10.
 
 (3) **Missile range** — The term “missile range” means the White Sands Missile Range, New Mexico, administered by the Secretary of the Army.
 
@@ -12623,6 +12635,8 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### References in Text
+[Section 101(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e&num=0&edition=prelim), referred to in subsec. (a)(2), was redesignated [section 101(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f&num=0&edition=prelim), and a new subsec. 101(e) of title 10 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
+
 Presidential Proclamation No. 2025, referred to in subsec. (a)(4), is Proc. No. 2025, Jan. 18, 1933, 47 Stat. 2551, which is listed in a table of National Monuments Established Under Presidential Proclamation set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
 The Clean Air Act, referred to in subsec. (b)(7)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
@@ -12775,7 +12789,7 @@ The Historic Sites Act, referred to in subsec. (a)(2), is act Aug. 21, 1935, ch.
 
 Public Law 92–272, referred to in subsec. (a)(3), is Pub. L. 92–272, Apr. 11, 1972, 86 Stat. 120. Provisions of Pub. L. 92–272 relating to Adams National Historic Site appear at 86 Stat. 121 and are not classified to the Code.
 
-Public Law 95–625, referred to in subsec. (a)(4), is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467, as amended. Provisions of Pub. L. 95–625 relating to Adams National Historic Site appear at 92 Stat. 3479 and are not classified to the Code.
+Public Law 95–625, referred to in subsec. (a)(4), is Pub. L. 95–625, Nov. 10, 1978, 92 Stat. 3467. Provisions of Pub. L. 95–625 relating to Adams National Historic Site appear at 92 Stat. 3479 and are not classified to the Code.
 
 Public Law 96–435, referred to in subsec. (a)(5), is Pub. L. 96–435, Oct. 10, 1980, 94 Stat. 1861, which is not classified to the Code.
 
@@ -13926,11 +13940,31 @@ Pub. L. 105–307, Oct. 29, 1998, 112 Stat. 2931, provided that: “SECTION 1. S
 ## § 410ggg. Rosie the Riveter/World War II Home Front National Historical Park
 **(a) Establishment** In order to preserve for the benefit and inspiration of the people of the United States as a national historical park certain sites, structures, and areas located in Richmond, California, that are associated with the industrial, governmental, and citizen efforts that led to victory in World War II, there is established the Rosie the Riveter/World War II Home Front National Historical Park (in this subchapter referred to as the “park”).
 
-**(b) Areas included** The boundaries of the park shall be those generally depicted on the map entitled “Proposed Boundary Map, Rosie the Riveter/World War II Home Front National Historical Park” numbered 963/80,000 and dated May 2000. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+**(b) Areas included**
+
+(1) **In general** — The boundaries of the park shall include—
+
+  (A)
+
+    (i) the areas generally depicted on the map entitled “Proposed Boundary Map, Rosie the Riveter/World War II Home Front National Historical Park”, numbered 963/80,000, and dated May 2000; and
+
+    (ii) the areas depicted as the “Proposed Boundary Addition” on the map entitled “Rosie the Riveter/World War II Home Front National Historical Park Proposed Boundary Addition”, numbered 499/168,353, and dated May 2020; and
+
+  (B) any other historic properties identified by the Secretary as appropriate for addition to the park, subject to the requirement that a historic property proposed for addition to the park shall—
+
+    (i) be determined to be eligible for listing in the National Register of Historic Places;
+
+    (ii) have a direct connection to World War II home front themes in Richmond, California; and
+
+    (iii) relate to the purpose, significance, and interpretive themes of the park.
+
+(2) **Availability of maps** — The maps referred to in paragraph (1) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–328 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The boundaries of the park shall be those generally depicted on the map entitled ‘Proposed Boundary Map, Rosie the Riveter/World War II Home Front National Historical Park’ numbered 963/80,000 and dated May 2000. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.”
+
 2004—Subsec. (b). Pub. L. 108–352 substituted “numbered 963/80,000” for “numbered 963/80000”.
 
 #### Short Title
@@ -13992,6 +14026,8 @@ Section was formerly classified to [section 450x of this title](https://uscode.h
 
 (2) **Specific authorities** — The Secretary may interpret the story of Rosie the Riveter and the World War II home front, conduct and maintain oral histories that relate to the World War II home front theme, and provide technical assistance in the preservation of historic properties that support this story.
 
+(3) **Nystrom Elementary School** — Nothing in this subchapter affects the authority of the West Contra Costa Unified School District to administer Nystrom Elementary School.
+
 **(b) Cooperative agreements**
 
 (1) **General agreements** — The Secretary may enter into cooperative agreements with the owners of the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions under which the Secretary shall have the right of access at reasonable times to public portions of the property for interpretive and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
@@ -14015,6 +14051,12 @@ Section was formerly classified to [section 450x of this title](https://uscode.h
   (H) Vincent Park; and
 
   (I) the vessel S.S. RED OAK VICTORY, and Whirley Cranes associated with shipbuilding in Richmond.
+
+(3) **West Contra Costa Unified School District**
+
+  (A) *In general* — The Secretary may enter into cooperative agreements with the West Contra Costa Unified School District and other appropriate public and private agencies, organizations, and institutions to carry out the purposes of this subchapter.
+
+  (B) *Visitor interpretation* — The Secretary shall coordinate visitor interpretation of the Nystrom Elementary School site with the West Contra Costa Unified School District.
 
 **(c) Education center** The Secretary may establish a World War II Home Front Education Center in the Ford Assembly Building. Such center shall include a program that allows for distance learning and linkages to other representative sites across the country, for the purpose of educating the public as to the significance of the site and the World War II Home Front.
 
@@ -14061,6 +14103,10 @@ The Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–467](https://uscode.h
 In subsec. (g)(1), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of the Act of August 18, 1970 ([16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim)), popularly known as the National Park System General Authorities Act,” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–328, § 612(b), added par. (3).
+
+Subsec. (b)(3). Pub. L. 117–328, § 612(c), added par. (3).
+
 2004—Subsec. (a)(1). Pub. L. 108–352, § 6(2)(A), substituted “August 25” for “August 35”.
 
 Subsec. (b)(1). Pub. L. 108–352, § 6(2)(B), substituted “the Child Development Field Centers (Ruth C. Powers) (Maritime), Atchison Housing, the Kaiser-Permanente Field Hospital, and Richmond Fire Station 67A” for “the World War II Child Development Centers, the World War II worker housing, the Kaiser-Permanente Field Hospital, and Fire Station 67A”.
@@ -14645,7 +14691,7 @@ The Act entitled “An Act to provide for the preservation of historic American 
 
 The Reclamation Project Authorization Act of 1972, referred to in subsec. (d)(2), is Pub. L. 92–514, Oct. 20, 1972, 86 Stat. 964. Title I of the Act was classified generally to subchapter XXXI (§ 615aaa et seq.) of chapter 12 of Title 43, Public Lands, prior to its omission from the Code. See Codification notes under sections 615aaa to 615iii of Title 43.
 
-The Wilderness Act, referred to in subsec. (f)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act, referred to in subsec. (f)(2), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 The Colorado Wilderness Act of 1993, referred to in subsec. (f)(2), is Pub. L. 103–77, Aug. 13, 1993, 107 Stat. 756. For complete classification of this Act to the Code, see Short Title note set out under [section 539i of this title](./chapter-002-national-forests.md#section-539i) and Tables.
 
@@ -14778,7 +14824,7 @@ Section is comprised of section 9 of Pub. L. 106–530. Subsec. (a) of section 9
 
   (B) the interests of persons that will be affected by the planning and management of the national park and the preserve.
 
-**(d) Applicable law** The Advisory Council shall function in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) and other applicable laws.
+**(d) Applicable law** The Advisory Council shall function in accordance with chapter 10 of title 5 and other applicable laws.
 
 **(e) Vacancy** A vacancy on the Advisory Council shall be filled in the same manner as the original appointment.
 
@@ -14790,8 +14836,8 @@ Section is comprised of section 9 of Pub. L. 106–530. Subsec. (a) of section 9
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-410hhh-9"></a>
@@ -15397,7 +15443,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 ### Statutory Notes
 
 #### Termination of Advisory Commissions
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-410iii-8"></a>
@@ -15618,6 +15664,76 @@ Committee on Interior and Insular Affairs of House of Representatives changed to
 
 #### Short Title of 1988 Amendment
 Pub. L. 100–524, § 1, Oct. 24, 1988, 102 Stat. 2606, provided that: “This Act [enacting [section 191a of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section191a&num=0&edition=prelim), Mineral Lands and Mining, amending this section and [section 410jjj–4 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410jjj-4), and enacting provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)] may be cited as the ‘Congaree Swamp National Monument Expansion and Wilderness Act’.”
+
+
+<a id="section-410jjjj"></a>
+## § 410jjjj. Designation of Pullman National Historical Park
+**(a) Definitions** In this section:
+
+(1) **Historical park** — The term “historical park” means the Pullman National Historical Park.
+
+(2) **Map** — The term “map” means the map entitled “Pullman National Historical Park Boundary”, numbered 590/125,485, and dated November 2021.
+
+**(b) Redesignation of Pullman National Monument**
+
+(1) **In general** — The Pullman National Monument, established by Proclamation Number 9233, dated February 19, 2015, is redesignated as the “Pullman National Historical Park”.
+
+(2) **Availability of funds** — Any funds available for purposes of the Pullman National Monument shall be available for purposes of the historical park.
+
+(3) **References** — Any references in a law, regulation, document, record, map, or other paper of the United States to the Pullman National Monument shall be considered to be a reference to the historical park.
+
+(4) **Proclamation** — Proclamation Number 9233, dated February 19, 2015, shall have no force or effect.
+
+**(c) Purposes** The purposes of the historical park are to preserve, protect, and interpret Pullman’s nationally significant cultural and historical resources associated with—
+
+(1) the labor history of the United States and creation of a national Labor Day holiday;
+
+(2) the first planned industrial community in the United States;
+
+(3) the architecture and landscape design of the planned community;
+
+(4) the pivotal role of the Pullman porter in the rise of the African-American middle class; and
+
+(5) the entirety of history, culture, and historic figures embodied in Presidential Proclamation Number 9233.
+
+**(d) Administration** The Secretary shall administer the land within the boundary of the historical park in accordance with—
+
+(1) this section; and
+
+(2) the laws generally applicable to units of the National Park System, including—
+
+  (A) section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753 and 102101 of title 54; and
+
+  (B) chapter 3201 of title 54.
+
+**(e) Cooperative agreements**
+
+(1) **In general** — To further the purposes of this section and notwithstanding chapter 63 of title 31, the Secretary may enter into cooperative agreements with the State of Illinois, other public and nonprofit entities, and other interested parties, subject to paragraph (2)—
+
+  (A) to support collaborative interpretive and educational programs at non-Federal historic properties within the boundaries of the historical park; and
+
+  (B) to identify, interpret, and provide assistance for the preservation of non-Federal land within the boundaries of the historical park and at sites in close proximity to the historical park, but located outside the boundaries of the historical park, including providing for placement of directional and interpretive signage, exhibits, and technology-based interpretive devices.
+
+(2) **Public access** — A cooperative agreement entered under this subsection shall provide for reasonable public access.
+
+**(f) Use of funds**
+
+(1) **In general** — The Secretary may use appropriated funds to mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of the properties.
+
+(2) **Inconsistent purposes** — Any payment made by the Secretary under this subsection shall be subject to an agreement that the conversion, use, or disposal of the project for purposes that are inconsistent with the purposes of this section, as determined by the Secretary, shall result in a right of the United States to reimbursement of the greater of—
+
+  (A) the amount provided by the Secretary to the project; and
+
+  (B) an amount equal to the increase in the value of the project that is attributable to the funds, as determined by the Secretary at the time of the conversion, use, or disposal.
+
+**(g) Acquisition of land** The Secretary may acquire for inclusion in the historical park any land (including interests in land), buildings, or structures owned by the State of Illinois, or any other political, private, or nonprofit entity by donation, transfer, exchange, or purchase from a willing seller.
+
+**(h) Management plan** Not later than 3 fiscal years after the date on which funds are first made available to carry out this section, the Secretary shall complete a management plan for the historical park.
+
+### Statutory Notes
+
+#### References in Text
+Proclamation Number 9233, referred to in subsec. (b)(1), (4), is Proc. No. 9233, Feb. 19, 2015, 80 F.R. 10315, which appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs.
 
 
 <a id="section-410jjj-1"></a>
@@ -16338,7 +16454,7 @@ Section 501 of Pub. L. 96–607 directed Secretary of the Interior, within three
 
       (III) any entity represented on the Commission.
 
-(9) **FACA nonapplicability** — Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+(9) **Nonapplicability of chapter 10 of title 5** — [Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) shall not apply to the Commission.
 
 (10) **Termination** — The Commission shall terminate 10 years after March 30, 2009.
 
@@ -16363,12 +16479,12 @@ The National Park Service Organic Act ([16 U.S.C. 1](./chapter-001-national-park
 
 The Act of August 21, 1935 ([16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) et seq.), referred to in subsec. (c)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e)(9), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 In subsec. (d)(1)(A), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of Public Law 91–383 (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
+2022—Subsec. (e)(9). Pub. L. 117–286 substituted “Nonapplicability of chapter 10 of title 5” for “FACA nonapplicability” in heading and “[Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2016—Subsec. (b)(3). Pub. L. 114–289, § 601(i), amended Pub. L. 113–291, § 3037(a)(1). See 2014 Amendment note below.
 
 2014—Subsec. (b)(3). Pub. L. 113–291, § 3037(a)(1), as amended by Pub. L. 114–289, § 601(i), designated existing provisions as subpar. (A), redesignated former subpars. (A) to (G) as cls. (i) to (vii), respectively, of subpar. (A), and added subpar. (B).
@@ -16624,15 +16740,32 @@ Pub. L. 111–11, title VII, § 7113(a)(1), (2), Mar. 30, 2009, 123 Stat. 1201, 
 
 (2) **Additional land**
 
-  (A) *In general* — In addition to the land described in paragraph (1), the historical park shall consist of approximately 34 acres of land, as generally depicted on the map entitled “Palo Alto Battlefield NHS Proposed Boundary Expansion”, numbered 469/80,012, and dated May 21, 2008.
+  (A) *In general*
 
-  (B) *Availability of map* — The map described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+    (i) In addition to the land described in paragraph (1), the historical park shall consist of—
 
-(3) **Legal description** — Not later than 6 months after June 23, 1992, the Secretary of the Interior (hereafter in this subchapter referred to as the “Secretary”) shall file a legal description of the historical park with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in such legal description and in the maps referred to in paragraphs (1) and (2). The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary may, from time to time, make minor revisions in the boundary of the historical park.
+      (I) the approximately 34 acres of land, as generally depicted on the map entitled “Palo Alto Battlefield NHS Proposed Boundary Expansion”, numbered 469/80,012, and dated May 21, 2008; and
+
+      (II) on the date that such land is donated to the United States, the approximately 166.44 acres of land generally depicted on the map entitled “PALO ALTO BATTLEFIELD NATIONAL HISTORICAL PARK Proposed Boundary Addition, Fort Brown Unit”, numbered 469/143,589, and dated April 2018.
+
+    (ii) Before accepting any donated land described in this subparagraph, the Secretary shall complete a boundary study analyzing the feasibility of adding the land to the national historical park.
+
+    (iii) If a boundary study completed under clause (ii) finds that acceptance of the donated land is feasible and appropriate, the Secretary may accept such land and administer the land as part of the historical park after providing notice of such finding to Congress.
+
+  (B) *Availability of maps* — The maps described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+(3) **Legal description** — Not later than 6 months after the addition of lands to the historic park boundary, the Secretary of the Interior (hereafter in this subchapter referred to as the “Secretary”) shall file a legal description of the historical park with the Committee on Interior and Insular Affairs of the United States House of Representatives and with the Committee on Energy and Natural Resources of the United States Senate. Such legal description shall have the same force and effect as if included in this subchapter, except that the Secretary may correct clerical and typographic errors in such legal description and in the maps referred to in paragraphs (1) and (2). The legal description shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior. The Secretary may, from time to time, make minor revisions in the boundary of the historical park.
 
 ### Statutory Notes
 
+#### Codification
+Section 620 of div. DD of Pub. L. 117–328, which directed amendment of section 3 of the “Palo Alto Battlefield National Historic Site Act of 1991”, was executed to this section, which is section 3 of the Palo Alto Battlefield National Historical Park Act of 1991, to reflect the probable intent of Congress. See 2022 Amendment notes below.
+
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–328, § 620(a), amended subpar. (A) generally and substituted “maps” for “map” in the heading and text of subpar. (B). Prior to amendment, text of subpar. (A) read as follows: “In addition to the land described in paragraph (1), the historical park shall consist of approximately 34 acres of land, as generally depicted on the map entitled ‘Palo Alto Battlefield NHS Proposed Boundary Expansion’, numbered 469/80,012, and dated May 21, 2008.” See Codification note above.
+
+Subsec. (b)(3). Pub. L. 117–328, § 620(b), substituted “after the addition of lands to the historic park boundary, the Secretary of the Interior” for “after June 23, 1992, the Secretary of the Interior”. See Codification note above.
+
 2009—Pub. L. 111–11, § 7113(a)(3)(B), substituted “National Historical Park” for “National Historic Site” in section catchline.
 
 Subsec. (a). Pub. L. 111–11, § 7113(a)(3)(A), (C), substituted “National Historical Park” for “National Historic Site” and “historical park” for “historic site”.
@@ -16809,9 +16942,9 @@ Any member of the Commission appointed for a definite term may serve after the e
 
 **(c) Officers** The Chair and other officers of the Commission shall be elected by a majority of the members of the Commission to serve for terms established by the Commission.
 
-**(d) Meetings** The Commission shall meet at the call of the Chair or a majority of its members, but not less than twice annually. Seven members of the Commission shall constitute a quorum. Consistent with the public meeting requirements of the Federal Advisory Committee Act, the Commission shall, from time to time, meet with persons concerned with maritime preservation.
+**(d) Meetings** The Commission shall meet at the call of the Chair or a majority of its members, but not less than twice annually. Seven members of the Commission shall constitute a quorum. Consistent with the public meeting requirements of chapter 10 of title 5, the Commission shall, from time to time, meet with persons concerned with maritime preservation.
 
-**(e) Bylaws and charter** The Commission may make such bylaws, rules, and regulations as it considers necessary to carry out its functions under this subchapter. The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Commission.
+**(e) Bylaws and charter** The Commission may make such bylaws, rules, and regulations as it considers necessary to carry out its functions under this subchapter. The provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) are hereby waived with respect to this Commission.
 
 **(f) Functions** The Commission shall advise the Secretary on the management and development of the park. The Secretary, or his designee, shall from time to time, but at least semiannually, meet and consult with the Commission on matters relating to the management and development of the park.
 
@@ -16822,7 +16955,10 @@ Any member of the Commission appointed for a definite term may serve after the e
 #### References in Text
 This subchapter, referred to in subsecs. (a) and (e), was in the original “this Act”, meaning Pub. L. 100–348, June 27, 1988, 102 Stat. 654, known as the San Francisco Maritime National Historical Park Act of 1988, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 410nn of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410nn) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsecs. (d) and (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–286, § 4(a)(79)(A), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,”.
+
+Subsec. (e). Pub. L. 117–286, § 4(a)(79)(B), substituted “[section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),”.
 
 
 <a id="section-410nn-4"></a>
@@ -17006,15 +17142,15 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 **(d) Expenses** Members of the Advisory Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under this subchapter on vouchers signed by the Chairman.
 
-**(e) Charter** The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Advisory Commission.
+**(e) Charter** The provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) are hereby waived with respect to this Advisory Commission.
 
 ### Statutory Notes
 
-#### References in Text
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “[section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),”.
 
 #### Termination of Advisory Commissions
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-410oo-6"></a>
@@ -17444,7 +17580,7 @@ In order to further the administration and use of the Everglades National Park, 
 
     (ii) *Detail of employees* — The Secretary may accept the services of personnel detailed from the State or any political subdivision of the State.
 
-(9) **FACA nonapplicability** — Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+(9) **Nonapplicability of chapter 10 of title 5** — [Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) shall not apply to the Commission.
 
 (10) **Termination**
 
@@ -17463,12 +17599,12 @@ The National Park Service Organic Act ([16 U.S.C. 1](./chapter-001-national-park
 
 The Act of August 21, 1935 ([16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461) et seq.), referred to in subsec. (f)(1)(B)(ii), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (k)(9), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 In subsec. (j)(1)(A), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of Public Law 91–383 (commonly known as the ‘National Park Service General Authorities Act’) ([16 U.S.C. 1a–7(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1a–7/b&num=0&edition=prelim))” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
 #### Amendments
+2022—Subsec. (k)(9). Pub. L. 117–286 substituted “Nonapplicability of chapter 10 of title 5” for “FACA nonapplicability” in heading and “[Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Subsec. (b)(2)(B). Pub. L. 115–111 substituted “Colt Armory Complex” for “East Armory”.
 
 
@@ -17531,7 +17667,7 @@ In subsec. (b)(1), “[section 100506(c) of title 54](https://uscode.house.gov/v
 
 (3) Members of the Advisory Board shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under this subchapter on vouchers signed by the Chairman.
 
-(4) The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to this Advisory Board.
+(4) The provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) are hereby waived with respect to this Advisory Board.
 
 **(h) Review** At least every 10 years, the Secretary and the Governor, or their designees, shall review the operation and management of the park. Such review shall include, but need not be limited to, consideration of how the objectives of the park can better be achieved, the need for additional technical or other assistance, cooperative arrangements between the Government of American Samoa and the National Park Service in the interpretation and management of the park, and the desirability of extension of the lease arrangement.
 
@@ -17542,13 +17678,14 @@ In subsec. (b)(1), “[section 100506(c) of title 54](https://uscode.house.gov/v
 #### References in Text
 The Act entitled “An Act to establish a National Park Service, and for other purposes”, approved August 25, 1916 (39 Stat. 535; [16 U.S.C. 1–4](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1–4&num=0&edition=prelim)), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5.
-
 #### Codification
 In subsec. (f), “[section 100502 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100502&num=0&edition=prelim)” substituted for “section 12(b) of the Act of August 18, 1970 ([16 U.S.C. 1a–1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-1) through 1a–7)” on authority of Pub. L. 113–287, § 6(e), Dec. 19, 2014, 128 Stat. 3272, which Act enacted Title 54, National Park Service and Related Programs.
 
+#### Amendments
+2022—Subsec. (g)(4). Pub. L. 117–286 substituted “[section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),”.
+
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-410qq-3"></a>
@@ -18603,14 +18740,14 @@ Initial appointments made under this subsection shall be made within 120 days af
 
 **(g) Expenses** Members of the Commission shall serve without compensation as such, but the Secretary may pay each member of the Commission travel expenses, including per diem in lieu of subsistence, in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim). Members of the Commission who are full-time officers or employees of the United States or the Virgin Islands Government may not receive additional pay, allowances, or benefits by reason of their service on the Commission. The Secretary shall provide the Commission with a budget for travel expenses and staff, and guidelines by which expenditures shall be accounted for.
 
-**(h) Federal Advisory Committee Act** Except with respect to the provisions of section 14(b) of the Federal Advisory Committee Act, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Commission.
+**(h) Chapter 10 of title 5** Except with respect to the provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim), and except as otherwise provided in this subchapter, the provisions of chapter 10 of title 5 shall apply to the Commission.
 
 **(i) Termination** The Commission shall terminate 10 years after February 24, 1992, unless the Secretary determines that it is necessary to continue consulting with the Commission in carrying out the purposes of this subchapter.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “[section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim), and except as otherwise provided in this subchapter, the provisions of chapter 10 of title 5” for “section 14(b) of the Federal Advisory Committee Act, and except as otherwise provided in this subchapter, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-410tt-5"></a>
@@ -18872,7 +19009,7 @@ The Secretary of the Interior is authorized to appoint an advisory commission of
 ### Statutory Notes
 
 #### Termination of Advisory Commissions
-Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-410vv"></a>
@@ -19421,16 +19558,15 @@ In subsec. (a), “[section 100502 of title 54](https://uscode.house.gov/view.xh
 
 (3) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-**(i) FACA** Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+**(i) Chapter 10 of title 5** [Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) shall not apply to the Commission.
 
 **(j) Termination** The Commission shall cease to exist on January 1, 2004.
 
 ### Statutory Notes
 
-#### References in Text
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (i). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “[Section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “Section 14(b) of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 1996—Subsec. (b)(2), (4) to (7). Pub. L. 104–333 substituted “after consideration of recommendations” for “from recommendations” wherever appearing.
 
 
@@ -19641,11 +19777,13 @@ Section 201 of Public Law 96–287, referred to in subsec. (b), appears in a tab
 
 (2) **Historical Park** — The term “Historical Park” means the Ste. Genevieve National Historical Park established by subsection (b).
 
-(3) **Map** — The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary Addition”, numbered 571/149,942, and dated December 2018.
+(3) **Map** — The term “Map” means the map entitled “Ste. Genevieve National Historical Park Proposed Boundary Addition”, numbered 571/177,464, and dated September 2021.
 
-(4) **Special resource study** — The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
+(4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
 
-(5) **State** — The term “State” means the State of Missouri.
+(5) **Special resource study** — The term “special resource study” means the study entitled “Ste. Genevieve Final Special Resources Study and Environmental Assessment, Missouri” and dated May 2016.
+
+(6) **State** — The term “State” means the State of Missouri.
 
 **(b) Establishment**
 
@@ -19659,7 +19797,11 @@ Section 201 of Public Law 96–287, referred to in subsec. (b), appears in a tab
 
 **(c) Boundaries** The boundaries of the Historical Park shall be the boundaries generally depicted on the Map.
 
-**(d) Availability of Map** The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+**(d) Availability of Map**
+
+(1) **In general** — The Map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+(2) **Authority to correct errors** — The Secretary may correct any clerical or typographical errors in the Map.
 
 **(e) Acquisition authority**
 
@@ -19672,6 +19814,14 @@ Section 201 of Public Law 96–287, referred to in subsec. (b), appears in a tab
   (C) exchange.
 
 (2) **Boundary revision** — On the acquisition of any property within the Historic District under paragraph (1), the Secretary shall revise the boundary of the Historical Park to include the property.
+
+(3) **Visitor center** — The Secretary—
+
+  (A) may acquire, by donation, the land (including any improvements to the land) owned by the city of Ste. Genevieve, Missouri, and used as the visitor center for the Historical Park, as generally depicted on the Map as “Proposed Boundary Addition”; and
+
+  (B) on acquisition of the land described in subparagraph (A), shall revise the boundary of the Historical Park to include the acquired land.
+
+(4) **Administrative facilities** — The Secretary may acquire, by purchase from a willing seller or by donation, not more than 20 acres of land in the vicinity of the Historical Park for administrative facilities for the Historical Park.
 
 **(f) Administration**
 
@@ -19727,6 +19877,14 @@ Section was formerly classified to [section 460cccc of this title](./chapter-001
 Section is based on section 7134 of S. 1460, One Hundred Fifteenth Congress, as placed on the calendar of the Senate on June 29, 2017, which was enacted into law by Pub. L. 115–141.
 
 #### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–328, § 617(a)(1), substituted “numbered 571/177,464, and dated September 2021” for “numbered 571/149,942, and dated December 2018”.
+
+Subsec. (a)(4) to (6). Pub. L. 117–328, § 617(a)(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (d). Pub. L. 117–328, § 617(b), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (e)(3), (4). Pub. L. 117–328, § 617(c), added pars. (3) and (4).
+
 2019—Subsec. (a)(3). Pub. L. 116–9 substituted “ ‘Ste. Genevieve National Historical Park Proposed Boundary Addition’, numbered 571/149,942, and dated December 2018” for “ ‘Ste. Genevieve National Historical Park Proposed Boundary’ ”.
 
 
@@ -20149,7 +20307,7 @@ The Secretary, after consultation with the Commission, may enter into cooperativ
 1999—Subsec. (c)(1)(A) to (D). Pub. L. 106–134 substituted “after consideration of nominees” for “from nominees”.
 
 #### Termination of Advisory Commissions
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-410yy-9"></a>
@@ -22783,12 +22941,12 @@ Members shall be appointed for staggered terms of three years, as designated by 
 
 **(d) Expenses** Members of the Advisory Commission shall serve without compensation as such, but the Secretary may pay expenses reasonably incurred in carrying out their responsibilities under sections 430g–4 to 430g–10 of this title on vouchers signed by the Chairperson.
 
-**(e) Charter** The provisions of section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) are hereby waived with respect to this Advisory Commission.
+**(e) Charter** The provisions of [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) are hereby waived with respect to this Advisory Commission.
 
 ### Statutory Notes
 
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “[section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-430g-9"></a>
@@ -23077,9 +23235,17 @@ The Secretary of the Interior is authorized to cause condemnation proceedings to
 
 **(b) Expansion of boundaries**
 
-(1) The boundaries of the Wilson’s Creek National Battlefield are revised to include lands and interests therein consisting of six parcels totaling 615 acres and identified as parcels “1, 2, 3, 4, 5, and 6” on the map entitled “Wilson’s Creek National Battlefield Proposed Boundary”, numbered 410/80,037 and dated January 27, 2004. The map shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+(1) **Additional land**
 
-(2) The Secretary is authorized to acquire the lands referred to in paragraph (1) by donation, by purchase from willing sellers with donated or appropriated funds, or by exchange. The Secretary may acquire by the same methods personal property associated with, and appropriate for, interpretation of the park.
+  (A) *In general* — The boundaries of the Wilson’s Creek National Battlefield are revised to include lands and interests therein consisting of six parcels totaling 615 acres and identified as parcels “1, 2, 3, 4, 5, and 6” on the map entitled “Wilson’s Creek National Battlefield Proposed Boundary”, numbered 410/80,037 and dated January 27, 2004.
+
+  (B) *Newtonia Battlefield addition* — The boundary of the Wilson’s Creek National Battlefield is revised to include the approximately 25 acres of land identified as “Proposed Addition” on the map entitled “Wilson’s Creek National Battlefield Proposed Boundary Modification”, numbered 410/177,379, and dated July 2022.
+
+  (C) *Availability of maps* — The maps described in subparagraphs (A) and (B) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+  (D) *Errors* — The Secretary of the Interior may correct any clerical or typographical error in a map described in subparagraph (A) or (B).
+
+(2) **Method of acquisition** — The Secretary of the Interior may acquire the land described in subparagraphs (A) and (B) of paragraph (1) by donation, by purchase from willing sellers with donated or appropriated funds, or by exchange. The Secretary may acquire by the same methods personal property associated with, and appropriate for, interpretation of Wilson’s Creek National Battlefield.
 
 **(c) Access to private property** Nothing in sections 430kk to 430mm of this title shall be construed to—
 
@@ -23098,6 +23264,10 @@ The Secretary of the Interior is authorized to cause condemnation proceedings to
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–328, § 616(1), inserted par. heading; designated first sentence as subpar. (A) and inserted heading; designated second sentence as subpar. (C), inserted heading, and substituted “The maps described in subparagraphs (A) and (B)” for “The map”; and added subpars. (B) and (D).
+
+Subsec. (b)(2). Pub. L. 117–328, § 616(2), inserted heading and substituted “The Secretary of the Interior may acquire the land described in subparagraphs (A) and (B) of paragraph (1)” for “The Secretary is authorized to acquire the lands referred to in paragraph (1)” in first sentence and “Wilson’s Creek National Battlefield” for “the park” in second sentence.
+
 2004—Pub. L. 108–394 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (g).
 
 #### Short Title of 2004 Amendment
@@ -23790,7 +23960,7 @@ In order to determine the amount to be paid under [section 434 of this title](./
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, was in the original the “Act of Congress approved June 10, 1920, known as the Federal Water Power Act”, and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of Congress approved June 10, 1920, known as the Federal Water Power Act”, and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Codification
 This section is a combination provision, the last sentence of which is from section 3 of act Aug. 26, 1922, the remainder being derived from section 2 of that act.
@@ -25938,7 +26108,7 @@ The administration, protection, and development of the aforesaid national seasho
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535), entitled “An Act to establish a National Park Service, and for other purposes”, referred to in text, is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Act of June 10, 1920, known as the Federal Water Power Act,” and was redesignated as the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 The Migratory Bird Treaty Act of July 3, 1918, referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II (§ 703 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
@@ -26163,7 +26333,7 @@ The Act of August 8, 1953 (67 Stat. 496), referred to in subsec. (a), is act Aug
 
 <a id="section-459b-7"></a>
 ## § 459b–7. Cape Cod National Seashore Advisory Commission
-**(a) Establishment; termination** There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall terminate September 26, 2018.
+**(a) Establishment; termination** There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall terminate September 26, 2029.
 
 **(b) Membership; term** The Commission shall be composed of ten members each appointed for a term of two years by the Secretary as follows:
 
@@ -26183,9 +26353,7 @@ The Act of August 8, 1953 (67 Stat. 496), referred to in subsec. (a), is act Aug
 
 **(f) Consultation of Secretary with Commission** The Secretary or his designee shall, from time to time, consult with the members of the Commission with respect to matters relating to the development of Cape Cod National Seashore and shall consult with the members with respect to carrying out the provisions of sections 459b–3 and 459b–4 of this title.
 
-**(g) Advice of Commission for commercial or industrial use permits and establishment of public use areas for recreational activities** No permit for the commercial or industrial use of property located within the seashore shall be issued by the Secretary, nor shall any public use area for recreational activity be established by the Secretary within the seashore, without the advice of the Commission, if such advice is submitted within a reasonable time after it is sought.
-
-**(h) Exemption from other provisions of law**
+**(g) Exemption from other provisions of law**
 
 (1) Any member of the Advisory Commission appointed under sections 459b to 459b–8 of this title shall be exempted, with respect to such appointment, from the operation of sections 281, 283, 284, and 1914 of title 18 and section 190 of the Revised Statutes ([5 U.S.C. 99](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section99&num=0&edition=prelim)) 11 See References in Text note below. except as otherwise specified in paragraph (2) of this subsection.
 
@@ -26198,16 +26366,23 @@ The Act of August 8, 1953 (67 Stat. 496), referred to in subsec. (a), is act Aug
 ### Statutory Notes
 
 #### References in Text
-Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (h)(1), were repealed by Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, “except as they [sections 281 and 283] may apply to retired officers of the armed forces of the United States”, and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under [section 203 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section203&num=0&edition=prelim).
+Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (g)(1), were repealed by Pub. L. 87–849, § 2, Oct. 23, 1962, 76 Stat. 1126, “except as they [sections 281 and 283] may apply to retired officers of the armed forces of the United States”, and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under [section 203 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section203&num=0&edition=prelim).
 
-Section 190 of the Revised Statutes ([5 U.S.C. 99](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section99&num=0&edition=prelim)), referred to in subsec. (h)(1), was repealed by Pub. L. 87–849, § 3, Oct. 23, 1962, 76 Stat. 1126. See [section 207 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim).
+Section 190 of the Revised Statutes ([5 U.S.C. 99](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section99&num=0&edition=prelim)), referred to in subsec. (g)(1), was repealed by Pub. L. 87–849, § 3, Oct. 23, 1962, 76 Stat. 1126. See [section 207 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328, § 613(1), substituted “2029” for “2018”.
+
+Subsecs. (g), (h). Pub. L. 117–328, § 613(2), (3), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: “No permit for the commercial or industrial use of property located within the seashore shall be issued by the Secretary, nor shall any public use area for recreational activity be established by the Secretary within the seashore, without the advice of the Commission, if such advice is submitted within a reasonable time after it is sought.”
+
 2009—Subsec. (a). Pub. L. 111–11 substituted “2018” for “2008”.
 
 1998—Subsec. (a). Pub. L. 105–280 substituted “The Commission shall terminate September 26, 2008.” for “Said Commission shall terminate 30 years after the date the seashore is established under [section 459b–2 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-459b-2).”
 
 1986—Subsec. (a). Pub. L. 99–420 substituted “30 years” for “ten years”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. DD, title VI, § 613, Dec. 29, 2022, 136 Stat. 5604, provided that the amendment made by section 613 is effective Sept. 26, 2018.
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–11, title VII, § 7402, Mar. 30, 2009, 123 Stat. 1219, provided that the amendment made by section 7402 is effective Sept. 26, 2008.
@@ -27116,7 +27291,7 @@ The Secretary or his designee shall, from time to time, consult with the Commiss
 ### Statutory Notes
 
 #### Termination of Advisory Commissions
-Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-459i"></a>
@@ -27291,7 +27466,7 @@ The Secretary shall permit hunting, fishing, and trapping on lands and waters un
 #### References in Text
 The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The National Wildlife Refuge System Administration Act, referred to in subsec. (b), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, and is classified to sections 668dd, 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
+The National Wildlife Refuge System Administration Act, referred to in subsec. (b), consists of sections 4 and 5 of Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd, 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
 
 #### Clothing-Optional Areas Prohibited
 Pub. L. 108–108, title I, § 126, Nov. 10, 2003, 117 Stat. 1269, provided that: “None of the funds made available in this or any other Act for any fiscal year may be used to designate, or to post any sign designating, any portion of Canaveral National Seashore in Brevard County, Florida, as a clothing-optional area or as an area in which public nudity is permitted, if such designation would be contrary to county ordinance.”
@@ -27818,7 +27993,7 @@ Subject to valid existing rights, the lands within the national recreation area 
 ### Statutory Notes
 
 #### Termination of Advisory Commissions
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-460aaa-8"></a>
@@ -28130,7 +28305,7 @@ Pub. L. 106–291, title III, § 315, Oct. 11, 2000, 114 Stat. 989, provided tha
 Similar provisions were contained in Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 316], Nov. 29, 1999, 113 Stat. 1535, 1501A–192.
 
 #### The Presidio of San Francisco
-Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, § 351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 334], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, § 101, Mar. 10, 2000, 114 Stat. 23; Pub. L. 107–107, div. B, title XXVIII, § 2861, Dec. 28, 2001, 115 Stat. 1328, provided that: “SEC. 101. FINDINGS.“The Congress finds that—“(1) the Presidio, located amidst the incomparable scenic splendor of the Golden Gate, is one of America’s great natural and historic sites; “(2) the Presidio was the oldest continuously operated military post in the Nation dating from 1776, and was designated a National Historic Landmark in 1962; “(3) preservation of the cultural and historic integrity of the Presidio for public use recognizes its significant role in the history of the United States; “(4) the Presidio, in its entirety, is a part of the Golden Gate National Recreation Area, in accordance with Public Law 92–589 [[16 U.S.C. 460bb](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bb) et seq.]; “(5) as part of the Golden Gate National Recreation Area, the Presidio’s significant natural, historic, scenic, cultural, and recreational resources must be managed in a manner which is consistent with sound principles of land use planning and management, and which protects the Presidio from development and uses which would destroy the scenic beauty and historic and natural character of the area and cultural and recreational resources; “(6) removal and/or replacement of some structures within the Presidio must be considered as a management option in the administration of the Presidio; and “(7) the Presidio will be managed through an innovative public/private partnership that minimizes cost to the United States Treasury and makes efficient use of private sector resources. “SEC. 102. AUTHORITY AND RESPONSIBILITY OF THE SECRETARY OF THE INTERIOR.“(a) Interim Authority.—The Secretary of the Interior (hereinafter in this title referred to as the ‘Secretary’) is authorized to manage leases in existence on the date of this Act [Nov. 12, 1996] for properties under the administrative jurisdiction of the Secretary and located at the Presidio. Upon the expiration of any such lease, the Secretary may extend such lease for a period terminating not later than 6 months after the first meeting of the Presidio Trust. The Secretary may not enter into any new leases for property at the Presidio to be transferred to the Presidio Trust under this title, however, the Secretary is authorized to enter into agreements for use and occupancy of the Presidio properties which are assignable to the Trust and are terminable with 30 days notice. Prior to the transfer of administrative jurisdiction over any property to the Presidio Trust, and notwithstanding [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) of the United States Code, the proceeds from any such lease shall be retained by the Secretary and such proceeds shall be available, without further appropriation, for the preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties. The Secretary may adjust the rental charge on any such lease for any amounts to be expended by the lessee for preservation, maintenance, restoration, improvement, repair and related expenses with respect to properties and infrastructure within the Presidio. “(b) Public Information and Interpretation.—The Secretary shall be responsible, in cooperation with the Presidio Trust, for providing public interpretive services, visitor orientation and educational programs on all lands within the Presidio. “(c) Other.—Those lands and facilities within the Presidio that are not transferred to the administrative jurisdiction of the Presidio Trust shall continue to be managed by the Secretary. The Secretary and the Presidio Trust shall cooperate to ensure adequate public access to all portions of the Presidio. Any infrastructure and building improvement projects that were funded prior to the enactment of this Act [Nov. 12, 1996] shall be completed by the National Park Service. “(d) Park Service Employees.—(1) Any career employee of the National Park Service, employed at the Presidio at the time of the transfer of lands and facilities to the Presidio Trust, shall not be separated from the Service by reason of such transfer, unless such employee is employed by the Trust, other than on detail. Notwithstanding [section 3503 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3503&num=0&edition=prelim), United States Code, the Trust shall have sole discretion over whether to hire any such employee or request a detail of such employee. “(2) Any career employee of the National Park Service employed at the Presidio on the date of enactment of this title [Nov. 12, 1996] shall be given priority placement for any available position within the National Park System notwithstanding any priority reemployment lists, directives, rules, regulations or other orders from the Department of the Interior, the Office of Management and Budget, or other Federal agencies. “SEC. 103. ESTABLISHMENT OF THE PRESIDIO TRUST.“(a) Establishment.—There is established a wholly owned government corporation to be known as the Presidio Trust (hereinafter in this title referred to as the ‘Trust’). “(b) Transfer.—(1) Within 60 days after receipt of a request from the Trust for the transfer of any parcel within the area depicted as Area B on the map entitled ‘Presidio Trust Number 1’, dated December 7, 1995, the Secretary shall transfer such parcel to the administrative jurisdiction of the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Secretary shall transfer to the Trust administrative jurisdiction over all remaining parcels within Area B. Such map shall be on file and available for public inspection in the offices of the Trust and in the offices of the National Park Service, Department of the Interior. The Trust and the Secretary may jointly make technical and clerical revisions in the boundary depicted on such map. The Secretary shall retain jurisdiction over those portions of the building identified as number 102 as the Secretary deems essential for use as a visitor center. The Building shall be named the ‘William Penn Mott Visitor Center’. Any parcel of land, the jurisdiction over which is transferred pursuant to this subsection, shall remain within the boundary of the Golden Gate National Recreation Area. With the consent of the Secretary, the Trust may at any time transfer to the administrative jurisdiction of the Secretary any other properties within the Presidio which are surplus to the needs of the Trust and which serve essential purposes of the Golden Gate National Recreation Area. The Trust is encouraged to transfer to the administrative jurisdiction of the Secretary open space areas which have high public use potential and are contiguous to other lands administered by the Secretary. “(2) Within 60 days after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively which records, equipment, and other personal property are deemed to be necessary for the immediate administration of the properties to be transferred, and the Secretary shall immediately transfer such personal property to the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively what, if any, additional records, equipment, and other personal property used by the Secretary in the administration of the properties to be transferred should be transferred to the Trust. “(3) The Secretary shall transfer, with the transfer of administrative jurisdiction over any property, the unobligated balance of all funds appropriated to the Secretary, all leases, concessions, licenses, permits, and other agreements affecting such property. “(4) At the request of the Trust, the Secretary shall provide funds to the Trust for preparation of the program required under [section 104(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section104/c&num=0&edition=prelim), hiring of initial staff and other activities deemed by the Trust as essential to the establishment of the Trust prior to the transfer of properties to the Trust. “(c) Board of Directors.—“(1) In general.—The powers and management of the Trust shall be vested in a Board of Directors (hereinafter referred to as the ‘Board’) consisting of the following 7 members:“(A) The Secretary of the Interior or the Secretary’s designee. “(B) 6 individuals, who are not employees of the Federal Government, appointed by the President, who shall possess extensive knowledge and experience in one or more of the fields of city planning, finance, real estate development, and resource conservation. At least one of these individuals shall be a veteran of the Armed Services. At least 3 of these individuals shall reside in the San Francisco Bay Area. The President shall make the appointments referred to in this subparagraph within 90 days after the enactment of this Act [Nov. 12, 1996] and shall ensure that the fields of city planning, finance, real estate development, and resource conservation are adequately represented. Upon establishment of the Trust, the Chairman of the Board of Directors of the Trust shall meet with the Chairman of the Energy and Natural Resources Committee of the United States Senate and the Chairman of the Resources Committee of the United States House of Representatives. “(2) Terms.—Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 3 shall serve for a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms, except that upon the expiration of his or her term, an appointed member may continue to serve until his or her successor has been appointed. “(3) Quorum.—Four members of the Board shall constitute a quorum for the conduct of business by the Board. “(4) Organization and compensation.—The Board shall organize itself in such a manner as it deems most appropriate to effectively carry out the authorized activities of the Trust. Board members shall serve without pay, but may be reimbursed for the actual and necessary travel and subsistence expenses incurred by them in the performance of the duties of the Trust. “(5) Liability of directors.—Members of the Board of Directors shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act [see Short Title note under [section 2671 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2671&num=0&edition=prelim), Judiciary and Judicial Procedure] and the Ethics in Government Act [of 1978] [5 U.S.C. App.], and the provisions of chapter 11 of title 18, United States Code. “(6) Meetings.—The Board shall meet at least three times per year in San Francisco and at least two of those meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues through the Golden Gate National Recreation Area Advisory Commission. “(7) Staff.—Notwithstanding any other provisions of law, the Trust is authorized to appoint and fix the compensation and duties and terminate the services of an executive director and such other officers and employees as it deems necessary without regard to the provisions of title 5, United States Code, or other laws related to the appointment, compensation or termination of Federal employees. “(8) Necessary powers.—The Trust shall have all necessary and proper powers for the exercise of the authorities vested in it. “(9) Taxes.—The Trust and all properties administered by the Trust and all interest created under leases, concessions, permits and other agreements associated with the properties shall be exempt from all taxes and special assessments of every kind by the State of California, and its political subdivisions, including the City and County of San Francisco. “(10) Government corporation.—(A) The Trust shall be treated as a wholly owned Government corporation subject to chapter 91 of title 31, United States Code (commonly referred to as the Government Corporation Control Act). Financial statements of the Trust shall be audited annually in accordance with [section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim) of the United States Code. “(B) At the end of each calendar year, the Trust shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives a comprehensive and detailed report of its operations, activities, and accomplishments for the prior fiscal year. The report also shall include a section that describes in general terms the Trust’s goals for the current fiscal year. “SEC. 104. DUTIES AND AUTHORITIES OF THE TRUST.“(a) Overall Requirements of the Trust.—The Trust shall manage the leasing, maintenance, rehabilitation, repair and improvement of property within the Presidio under its administrative jurisdiction using the authorities provided in this section, which shall be exercised in accordance with the purposes set forth in section 1 of the Act entitled ‘An Act to establish the Golden Gate National Recreation Area in the State of California, and for other purposes’, approved October 27, 1972 (Public Law 92–589; 86 Stat. 1299; [16 U.S.C. 460bb](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bb)), and in accordance with the general objectives of the General Management Plan (hereinafter referred to as the ‘management plan’) approved for the Presidio. “(b) Authorities.—The Trust may participate in the development of programs and activities at the properties transferred to the Trust, except that the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. The National Park Service or any other Federal agency is authorized to enter into agreements, leases, contracts and other arrangements with the Presidio Trust which are necessary and appropriate to carry out the purposes of this title. Any such agreement may be entered into without regard to section 321 of the Act of June 30, 1932 ([40 U.S.C. 303b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303b&num=0&edition=prelim)) [now [40 U.S.C. 1302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1302&num=0&edition=prelim)]. The Trust may use alternative means of dispute resolution authorized under subchapter IV of chapter 5 of title 5, United States Code ([5 U.S.C. 571](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section571&num=0&edition=prelim) et seq.). The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Presidio facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition. The Trust may not dispose of or convey fee title to any real property transferred to it under this title. Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the provisions of sections 276a–276a–6 of title 40, United States Code (Davis-Bacon Act) [now [40 U.S.C. 3141–314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3141–314&num=0&edition=prelim)4, 3146, and 3147], and any civil rights provisions otherwise applicable thereto. The Trust, in consultation with the Administrator of Federal Procurement Policy, shall establish and promulgate procedures applicable to the Trust’s procurement of goods and services including, but not limited to, the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition. The Trust is authorized to use funds available to the Trust to purchase insurance and for reasonable reception and representation expenses, including membership dues, business cards and business related meal expenditures. “(c) Management Program.—The Trust shall develop a comprehensive program for management of those lands and facilities within the Presidio which are transferred to the administrative jurisdiction of the Trust. Such program shall be designed to reduce expenditures by the National Park Service and increase revenues to the Federal Government to the maximum extent possible. In carrying out this program, the Trust shall be treated as a successor in interest to the National Park Service with respect to compliance with the National Environmental Policy Act [of 1969] [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and other environmental compliance statutes. Such program shall consist of—“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated, and which are identified in the management plan for demolition, “(2) evaluation for possible demolition or replacement those buildings identified as categories 2 through 5 in the Presidio of San Francisco Historic Landmark District Historic American Buildings Survey Report, dated 1985, “(3) new construction limited to replacement of existing structures of similar size in existing areas of development, and “(4) examination of a full range of reasonable options for carrying out routine administrative and facility management programs. The Trust shall consult with the Secretary in the preparation of this program. “(d) Financial Authorities.—(1) To augment or encourage the use of non-Federal funds to finance capital improvements on Presidio properties transferred to its jurisdiction, the Trust, in addition to its other authorities, shall have the following authorities subject to the Federal Credit Reform Act of 1990 ([2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.):“(A) The authority to guarantee any lender against loss of principal or interest on any loan: Provided, That—“(i) the terms of the guarantee are approved by the Secretary of the Treasury; “(ii) adequate subsidy budget authority is provided in advance in appropriations Acts; and “(iii) such guarantees are structured so as to minimize potential cost to the Federal Government. No loan guarantee under this title shall cover more than 75 percent of the unpaid balance of the loan. The Trust may collect a fee sufficient to cover its costs in connection with each loan guaranteed under this title. The authority to enter into any such loan guarantee agreement shall expire at the end of 15 years after the date of enactment of this title [Nov. 12, 1996]. “(B) The authority, subject to appropriations, to make loans to the occupants of property managed by the Trust for the preservation, restoration, maintenance, or repair of such property. “(2) The Trust shall also have the authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, including a review of the creditworthiness of the loan and establishment of a repayment schedule, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph. “(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $150,000,000. “(e) Donations.—The Trust may solicit and accept donations of funds, property, supplies, or services from individuals, foundations, corporations, and other private or public entities for the purpose of carrying out its duties. The Trust is encouraged to maintain a liaison with the Golden Gate National Park Association. “(f) Public Agency.—The Trust shall be deemed to be a public agency for purposes of entering into joint exercise of powers agreements pursuant to California government code section 6500 and related provisions of that Code. “(g) Financial Management.—Notwithstanding [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) of the United States Code, all proceeds and other revenues received by the Trust shall be retained by the Trust. Those proceeds shall be available, without further appropriation, to the Trust for the administration, preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties under its administrative jurisdiction. The Secretary of the Treasury shall invest, at the direction of the Trust, such excess moneys that the Trust determines are not required to meet current withdrawals. Such investment shall be in public debt securities with maturities suitable to the needs of the Trust and bearing interest at rates determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity. “(h) Suits.—The Trust may sue and be sued in its own name to the same extent as the Federal Government. Litigation arising out of the activities of the Trust shall be conducted by the Attorney General; except that the Trust may retain private attorneys to provide advice and counsel. The District Court for the Northern District of California shall have exclusive jurisdiction over any suit filed against the Trust. “(i) Memorandum of Agreement.—The Trust shall enter into a Memorandum of Agreement with the Secretary, acting through the Chief of the United States Park Police, for the conduct of law enforcement activities and services within those portions of the Presidio transferred to the administrative jurisdiction of the Trust. “(j) Bylaws, Rules, and Regulations.—The Trust may adopt, amend, repeal, and enforce bylaws, rules and regulations governing the manner in which its business may be conducted and the powers vested in it may be exercised, including rules and regulations for the use and management of the property under the Trust’s jurisdiction. The Trust is authorized, in consultation with the Secretary, to adopt and to enforce those rules and regulations that are applicable to the Golden Gate National Recreation Area and that may be necessary and appropriate to carry out its duties and responsibilities under this title. The Trust shall give notice of the adoption of such rules and regulations by publication in the Federal Register. “(k) Direct Negotiations.—For the purpose of compliance with applicable laws and regulations concerning properties transferred to the Trust by the Secretary, the Trust shall negotiate directly with regulatory authorities. “(l) Insurance.—The Trust shall require that all leaseholders and contractors procure proper insurance against any loss in connection with properties under lease or contract, or the authorized activities granted in such lease or contract, as is reasonable and customary. “(m) Building Code Compliance.—The Trust shall bring all properties under its administrative jurisdiction into compliance with Federal building codes and regulations appropriate to use and occupancy within 10 years after the enactment of this title [Nov. 12, 1996] to the extent practicable. “(n) Leasing.—In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the general objectives of the General Management Plan for the Presidio and to the reduction of cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings. “(o) Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in [section 105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section105/b&num=0&edition=prelim), then all property under the administrative jurisdiction of the Trust pursuant to [section 103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section103/b&num=0&edition=prelim) shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) [probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest. “(p) Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclusive right to use the words ‘Presidio Trust’ and any seal, emblem, or other insignia adopted by its Board of Directors. Without express written authority of the Trust, no person may use the words ‘Presidio Trust’, or any combination or variation of those words alone or with other words, as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust. “SEC. 105. LIMITATIONS ON FUNDING.“(a)(1) From amounts made available to the Secretary for the operation of areas within the Golden Gate National Recreation Area, not more than $25,000,000 shall be available to carry out this title in each fiscal year after the enactment of this title [Nov. 12, 1996] until the plan is submitted under subsection (b). Such sums shall remain available until expended. “(2) After the plan required in subsection (b) is submitted, and for each of the 14 fiscal years thereafter, there are authorized to be appropriated to the Trust not more than the amounts specified in such plan. Such sums shall remain available until expended. Of such sums, funds shall be available through the Trust for law enforcement activities and services to be provided by the United States Park Police at the Presidio in accordance with [section 104(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section104/i&num=0&edition=prelim). “(b) Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust shall submit to Congress a plan which includes a schedule of annual decreasing federally appropriated funding that will achieve, at a minimum, self-sufficiency for the Trust within 15 complete fiscal years after such meeting of the Trust. No further funds shall be authorized for the Trust 15 years after the first meeting of the Board of Directors of the Trust. “(c) The Administrator of the General Services Administration shall provide necessary assistance, on a reimbursable basis, including detailees as necessary, to the Trust in the formulation and submission of the annual budget request for the administration, operation, and maintenance of the Presidio. “SEC. 106. GENERAL ACCOUNTING OFFICE STUDY.“(a) Three years after the first meeting of the Board of Directors of the Trust, the General Accounting Office [now Government Accountability Office] shall conduct an interim study of the activities of the Trust and shall report the results of the study to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources [now Committee on Natural Resources] and Committee on Appropriations of the House of Representatives. The study shall include, but shall not be limited to, details of how the Trust is meeting its obligations under this title. “(b) In consultation with the Trust, the General Accounting Office [now Government Accountability Office] shall develop an interim schedule and plan to reduce and replace the Federal appropriations to the extent practicable for interpretive services conducted by the National Park Service, and law enforcement activities and services, fire and public safety programs conducted by the Trust. “(c) Seven years after the first meeting of the Board of Directors of the Trust, the General Accounting Office [now Government Accountability Office] shall conduct a comprehensive study of the activities of the Trust, including the Trust’s progress in meeting its obligations under this title, taking into consideration the results of the study described in subsection (a) and the implementation of plan and schedule required in subsection (b). The General Accounting Office shall report the results of the study, including any adjustments to the plan and schedule, to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources [now Committee on Natural Resources] and Committee on Appropriations of the House of Representatives. “SEC. 107. CONDITIONAL AUTHORITY TO LEASE CERTAIN HOUSING UNITS WITHIN THE PRESIDIO.“(a) Availability of Housing Units for Long-Term Army Lease.—Subject to subsection (c), the Trust shall make available for lease, to those persons designated by the Secretary of the Army and for such length of time as requested by the Secretary of the Army, 22 housing units located within the Presidio that are under the administrative jurisdiction of the Trust and specified in the agreement between the Trust and the Secretary of the Army in existence as of the date of the enactment of this section [Dec. 28, 2001]. “(b) Lease Amount.—The monthly amount charged by the Trust for the lease of a housing unit under this section shall be equivalent to the monthly rate of the basic allowance for housing that the occupant of the housing unit is entitled to receive under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim), United States Code. “(c) Condition on Continued Availability of Housing Units.—Effective after the end of the four-year period beginning on the date of the enactment of this section, the Trust shall have no obligation to make housing units available under subsection (a) unless, during that four-year period, the Secretary of the Treasury purchases new obligations of at least $80,000,000 issued by the Trust under section 104(d)(2). In the event that this condition is not satisfied, the existing agreement referred to in subsection (a) shall be renewed on the same terms and conditions for an additional five years.”
+Pub. L. 104–333, div. I, title I, Nov. 12, 1996, 110 Stat. 4097, as amended by Pub. L. 105–83, title III, § 351, Nov. 14, 1997, 111 Stat. 1607; Pub. L. 106–113, div. B, § 1000(a)(3) [title III, § 334], Nov. 29, 1999, 113 Stat. 1535, 1501A–198; Pub. L. 106–176, title I, § 101, Mar. 10, 2000, 114 Stat. 23; Pub. L. 107–107, div. B, title XXVIII, § 2861, Dec. 28, 2001, 115 Stat. 1328; Pub. L. 117–286, § 4(c)(26), Dec. 27, 2022, 136 Stat. 4357; Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4819, provided that: “SEC. 101. FINDINGS.“The Congress finds that—“(1) the Presidio, located amidst the incomparable scenic splendor of the Golden Gate, is one of America’s great natural and historic sites; “(2) the Presidio was the oldest continuously operated military post in the Nation dating from 1776, and was designated a National Historic Landmark in 1962; “(3) preservation of the cultural and historic integrity of the Presidio for public use recognizes its significant role in the history of the United States; “(4) the Presidio, in its entirety, is a part of the Golden Gate National Recreation Area, in accordance with Public Law 92–589 [[16 U.S.C. 460bb](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bb) et seq.]; “(5) as part of the Golden Gate National Recreation Area, the Presidio’s significant natural, historic, scenic, cultural, and recreational resources must be managed in a manner which is consistent with sound principles of land use planning and management, and which protects the Presidio from development and uses which would destroy the scenic beauty and historic and natural character of the area and cultural and recreational resources; “(6) removal and/or replacement of some structures within the Presidio must be considered as a management option in the administration of the Presidio; and “(7) the Presidio will be managed through an innovative public/private partnership that minimizes cost to the United States Treasury and makes efficient use of private sector resources. “SEC. 102. AUTHORITY AND RESPONSIBILITY OF THE SECRETARY OF THE INTERIOR.“(a) Interim Authority.—The Secretary of the Interior (hereinafter in this title referred to as the ‘Secretary’) is authorized to manage leases in existence on the date of this Act [Nov. 12, 1996] for properties under the administrative jurisdiction of the Secretary and located at the Presidio. Upon the expiration of any such lease, the Secretary may extend such lease for a period terminating not later than 6 months after the first meeting of the Presidio Trust. The Secretary may not enter into any new leases for property at the Presidio to be transferred to the Presidio Trust under this title, however, the Secretary is authorized to enter into agreements for use and occupancy of the Presidio properties which are assignable to the Trust and are terminable with 30 days notice. Prior to the transfer of administrative jurisdiction over any property to the Presidio Trust, and notwithstanding [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) of the United States Code, the proceeds from any such lease shall be retained by the Secretary and such proceeds shall be available, without further appropriation, for the preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties. The Secretary may adjust the rental charge on any such lease for any amounts to be expended by the lessee for preservation, maintenance, restoration, improvement, repair and related expenses with respect to properties and infrastructure within the Presidio. “(b) Public Information and Interpretation.—The Secretary shall be responsible, in cooperation with the Presidio Trust, for providing public interpretive services, visitor orientation and educational programs on all lands within the Presidio. “(c) Other.—Those lands and facilities within the Presidio that are not transferred to the administrative jurisdiction of the Presidio Trust shall continue to be managed by the Secretary. The Secretary and the Presidio Trust shall cooperate to ensure adequate public access to all portions of the Presidio. Any infrastructure and building improvement projects that were funded prior to the enactment of this Act [Nov. 12, 1996] shall be completed by the National Park Service. “(d) Park Service Employees.—(1) Any career employee of the National Park Service, employed at the Presidio at the time of the transfer of lands and facilities to the Presidio Trust, shall not be separated from the Service by reason of such transfer, unless such employee is employed by the Trust, other than on detail. Notwithstanding [section 3503 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3503&num=0&edition=prelim), United States Code, the Trust shall have sole discretion over whether to hire any such employee or request a detail of such employee. “(2) Any career employee of the National Park Service employed at the Presidio on the date of enactment of this title [Nov. 12, 1996] shall be given priority placement for any available position within the National Park System notwithstanding any priority reemployment lists, directives, rules, regulations or other orders from the Department of the Interior, the Office of Management and Budget, or other Federal agencies. “SEC. 103. ESTABLISHMENT OF THE PRESIDIO TRUST.“(a) Establishment.—There is established a wholly owned government corporation to be known as the Presidio Trust (hereinafter in this title referred to as the ‘Trust’). “(b) Transfer.—(1) Within 60 days after receipt of a request from the Trust for the transfer of any parcel within the area depicted as Area B on the map entitled ‘Presidio Trust Number 1’, dated December 7, 1995, the Secretary shall transfer such parcel to the administrative jurisdiction of the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Secretary shall transfer to the Trust administrative jurisdiction over all remaining parcels within Area B. Such map shall be on file and available for public inspection in the offices of the Trust and in the offices of the National Park Service, Department of the Interior. The Trust and the Secretary may jointly make technical and clerical revisions in the boundary depicted on such map. The Secretary shall retain jurisdiction over those portions of the building identified as number 102 as the Secretary deems essential for use as a visitor center. The Building shall be named the ‘William Penn Mott Visitor Center’. Any parcel of land, the jurisdiction over which is transferred pursuant to this subsection, shall remain within the boundary of the Golden Gate National Recreation Area. With the consent of the Secretary, the Trust may at any time transfer to the administrative jurisdiction of the Secretary any other properties within the Presidio which are surplus to the needs of the Trust and which serve essential purposes of the Golden Gate National Recreation Area. The Trust is encouraged to transfer to the administrative jurisdiction of the Secretary open space areas which have high public use potential and are contiguous to other lands administered by the Secretary. “(2) Within 60 days after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively which records, equipment, and other personal property are deemed to be necessary for the immediate administration of the properties to be transferred, and the Secretary shall immediately transfer such personal property to the Trust. Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust and the Secretary shall determine cooperatively what, if any, additional records, equipment, and other personal property used by the Secretary in the administration of the properties to be transferred should be transferred to the Trust. “(3) The Secretary shall transfer, with the transfer of administrative jurisdiction over any property, the unobligated balance of all funds appropriated to the Secretary, all leases, concessions, licenses, permits, and other agreements affecting such property. “(4) At the request of the Trust, the Secretary shall provide funds to the Trust for preparation of the program required under [section 104(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section104/c&num=0&edition=prelim), hiring of initial staff and other activities deemed by the Trust as essential to the establishment of the Trust prior to the transfer of properties to the Trust. “(c) Board of Directors.—“(1) In general.—The powers and management of the Trust shall be vested in a Board of Directors (hereinafter referred to as the ‘Board’) consisting of the following 7 members:“(A) The Secretary of the Interior or the Secretary’s designee. “(B) 6 individuals, who are not employees of the Federal Government, appointed by the President, who shall possess extensive knowledge and experience in one or more of the fields of city planning, finance, real estate development, and resource conservation. At least one of these individuals shall be a veteran of the Armed Services. At least 3 of these individuals shall reside in the San Francisco Bay Area. The President shall make the appointments referred to in this subparagraph within 90 days after the enactment of this Act [Nov. 12, 1996] and shall ensure that the fields of city planning, finance, real estate development, and resource conservation are adequately represented. Upon establishment of the Trust, the Chairman of the Board of Directors of the Trust shall meet with the Chairman of the Energy and Natural Resources Committee of the United States Senate and the Chairman of the Resources Committee of the United States House of Representatives. “(2) Terms.—Members of the Board appointed under paragraph (1)(B) shall each serve for a term of 4 years, except that of the members first appointed, 3 shall serve for a term of 2 years. Any vacancy in the Board shall be filled in the same manner in which the original appointment was made, and any member appointed to fill a vacancy shall serve for the remainder of that term for which his or her predecessor was appointed. No appointed member may serve more than 8 years in consecutive terms, except that upon the expiration of his or her term, an appointed member may continue to serve until his or her successor has been appointed. “(3) Quorum.—Four members of the Board shall constitute a quorum for the conduct of business by the Board. “(4) Organization and compensation.—The Board shall organize itself in such a manner as it deems most appropriate to effectively carry out the authorized activities of the Trust. Board members shall serve without pay, but may be reimbursed for the actual and necessary travel and subsistence expenses incurred by them in the performance of the duties of the Trust. “(5) Liability of directors.—Members of the Board of Directors shall not be considered Federal employees by virtue of their membership on the Board, except for purposes of the Federal Tort Claims Act [see Short Title note under [section 2671 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2671&num=0&edition=prelim), Judiciary and Judicial Procedure] and chapter 131 of title 5, United States Code, and the provisions of chapter 11 of title 18, United States Code. “(6) Meetings.—The Board shall meet at least three times per year in San Francisco and at least two of those meetings shall be open to the public. Upon a majority vote, the Board may close any other meetings to the public. The Board shall establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues. The Board may establish procedures for providing public information and opportunities for public comment regarding policy, planning, and design issues through the Golden Gate National Recreation Area Advisory Commission. “(7) Staff.—Notwithstanding any other provisions of law, the Trust is authorized to appoint and fix the compensation and duties and terminate the services of an executive director and such other officers and employees as it deems necessary without regard to the provisions of title 5, United States Code, or other laws related to the appointment, compensation or termination of Federal employees. “(8) Necessary powers.—The Trust shall have all necessary and proper powers for the exercise of the authorities vested in it. “(9) Taxes.—The Trust and all properties administered by the Trust and all interest created under leases, concessions, permits and other agreements associated with the properties shall be exempt from all taxes and special assessments of every kind by the State of California, and its political subdivisions, including the City and County of San Francisco. “(10) Government corporation.—(A) The Trust shall be treated as a wholly owned Government corporation subject to chapter 91 of title 31, United States Code (commonly referred to as the Government Corporation Control Act). Financial statements of the Trust shall be audited annually in accordance with [section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim) of the United States Code. “(B) At the end of each calendar year, the Trust shall submit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources [now Committee on Natural Resources] of the House of Representatives a comprehensive and detailed report of its operations, activities, and accomplishments for the prior fiscal year. The report also shall include a section that describes in general terms the Trust’s goals for the current fiscal year. “SEC. 104. DUTIES AND AUTHORITIES OF THE TRUST.“(a) Overall Requirements of the Trust.—The Trust shall manage the leasing, maintenance, rehabilitation, repair and improvement of property within the Presidio under its administrative jurisdiction using the authorities provided in this section, which shall be exercised in accordance with the purposes set forth in section 1 of the Act entitled ‘An Act to establish the Golden Gate National Recreation Area in the State of California, and for other purposes’, approved October 27, 1972 (Public Law 92–589; 86 Stat. 1299; [16 U.S.C. 460bb](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bb)), and in accordance with the general objectives of the General Management Plan (hereinafter referred to as the ‘management plan’) approved for the Presidio. “(b) Authorities.—The Trust may participate in the development of programs and activities at the properties transferred to the Trust, except that the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. The National Park Service or any other Federal agency is authorized to enter into agreements, leases, contracts and other arrangements with the Presidio Trust which are necessary and appropriate to carry out the purposes of this title. Any such agreement may be entered into without regard to section 321 of the Act of June 30, 1932 ([40 U.S.C. 303b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section303b&num=0&edition=prelim)) [now [40 U.S.C. 1302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section1302&num=0&edition=prelim)]. The Trust may use alternative means of dispute resolution authorized under subchapter IV of chapter 5 of title 5, United States Code ([5 U.S.C. 571](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section571&num=0&edition=prelim) et seq.). The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Presidio facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition. The Trust may not dispose of or convey fee title to any real property transferred to it under this title. Federal laws and regulations governing procurement by Federal agencies shall not apply to the Trust, with the exception of laws and regulations related to Federal government contracts governing working conditions and wage rates, including the provisions of sections 276a–276a–6 of title 40, United States Code (Davis-Bacon Act) [now [40 U.S.C. 3141–314](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3141–314&num=0&edition=prelim)4, 3146, and 3147], and any civil rights provisions otherwise applicable thereto. The Trust, in consultation with the Administrator of Federal Procurement Policy, shall establish and promulgate procedures applicable to the Trust’s procurement of goods and services including, but not limited to, the award of contracts on the basis of contractor qualifications, price, commercially reasonable buying practices, and reasonable competition. The Trust is authorized to use funds available to the Trust to purchase insurance and for reasonable reception and representation expenses, including membership dues, business cards and business related meal expenditures. “(c) Management Program.—The Trust shall develop a comprehensive program for management of those lands and facilities within the Presidio which are transferred to the administrative jurisdiction of the Trust. Such program shall be designed to reduce expenditures by the National Park Service and increase revenues to the Federal Government to the maximum extent possible. In carrying out this program, the Trust shall be treated as a successor in interest to the National Park Service with respect to compliance with the National Environmental Policy Act [of 1969] [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.] and other environmental compliance statutes. Such program shall consist of—“(1) demolition of structures which in the opinion of the Trust, cannot be cost-effectively rehabilitated, and which are identified in the management plan for demolition, “(2) evaluation for possible demolition or replacement those buildings identified as categories 2 through 5 in the Presidio of San Francisco Historic Landmark District Historic American Buildings Survey Report, dated 1985, “(3) new construction limited to replacement of existing structures of similar size in existing areas of development, and “(4) examination of a full range of reasonable options for carrying out routine administrative and facility management programs. The Trust shall consult with the Secretary in the preparation of this program. “(d) Financial Authorities.—(1) To augment or encourage the use of non-Federal funds to finance capital improvements on Presidio properties transferred to its jurisdiction, the Trust, in addition to its other authorities, shall have the following authorities subject to the Federal Credit Reform Act of 1990 ([2 U.S.C. 661](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim) et seq.):“(A) The authority to guarantee any lender against loss of principal or interest on any loan: Provided, That—“(i) the terms of the guarantee are approved by the Secretary of the Treasury; “(ii) adequate subsidy budget authority is provided in advance in appropriations Acts; and “(iii) such guarantees are structured so as to minimize potential cost to the Federal Government. No loan guarantee under this title shall cover more than 75 percent of the unpaid balance of the loan. The Trust may collect a fee sufficient to cover its costs in connection with each loan guaranteed under this title. The authority to enter into any such loan guarantee agreement shall expire at the end of 15 years after the date of enactment of this title [Nov. 12, 1996]. “(B) The authority, subject to appropriations, to make loans to the occupants of property managed by the Trust for the preservation, restoration, maintenance, or repair of such property. “(2) The Trust shall also have the authority to issue obligations to the Secretary of the Treasury, but only if the Secretary of the Treasury agrees to purchase such obligations to the extent authorized in advance in appropriations acts. The Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, United States Code, and the purposes for which securities may be issued under such chapter are extended to include any purchase of such notes or obligations acquired by the Secretary of the Treasury under this subsection. Obligations issued under this subparagraph shall be in such forms and denominations, bearing such maturities, and subject to such terms and conditions, including a review of the creditworthiness of the loan and establishment of a repayment schedule, as may be prescribed by the Secretary of the Treasury, and shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. No funds appropriated to the Trust may be used for repayment of principal or interest on, or redemption of, obligations issued under this paragraph. “(3) The aggregate amount of obligations issued under paragraph (2) of this subsection which are outstanding at any one time may not exceed $250,000,000. “(e) Donations.—The Trust may solicit and accept donations of funds, property, supplies, or services from individuals, foundations, corporations, and other private or public entities for the purpose of carrying out its duties. The Trust is encouraged to maintain a liaison with the Golden Gate National Park Association. “(f) Public Agency.—The Trust shall be deemed to be a public agency for purposes of entering into joint exercise of powers agreements pursuant to California government code section 6500 and related provisions of that Code. “(g) Financial Management.—Notwithstanding [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim) of the United States Code, all proceeds and other revenues received by the Trust shall be retained by the Trust. Those proceeds shall be available, without further appropriation, to the Trust for the administration, preservation, restoration, operation and maintenance, improvement, repair and related expenses incurred with respect to Presidio properties under its administrative jurisdiction. The Secretary of the Treasury shall invest, at the direction of the Trust, such excess moneys that the Trust determines are not required to meet current withdrawals. Such investment shall be in public debt securities with maturities suitable to the needs of the Trust and bearing interest at rates determined by the Secretary of the Treasury taking into consideration the current average yield on outstanding marketable obligations of the United States of comparable maturity. “(h) Suits.—The Trust may sue and be sued in its own name to the same extent as the Federal Government. Litigation arising out of the activities of the Trust shall be conducted by the Attorney General; except that the Trust may retain private attorneys to provide advice and counsel. The District Court for the Northern District of California shall have exclusive jurisdiction over any suit filed against the Trust. “(i) Memorandum of Agreement.—The Trust shall enter into a Memorandum of Agreement with the Secretary, acting through the Chief of the United States Park Police, for the conduct of law enforcement activities and services within those portions of the Presidio transferred to the administrative jurisdiction of the Trust. “(j) Bylaws, Rules, and Regulations.—The Trust may adopt, amend, repeal, and enforce bylaws, rules and regulations governing the manner in which its business may be conducted and the powers vested in it may be exercised, including rules and regulations for the use and management of the property under the Trust’s jurisdiction. The Trust is authorized, in consultation with the Secretary, to adopt and to enforce those rules and regulations that are applicable to the Golden Gate National Recreation Area and that may be necessary and appropriate to carry out its duties and responsibilities under this title. The Trust shall give notice of the adoption of such rules and regulations by publication in the Federal Register. “(k) Direct Negotiations.—For the purpose of compliance with applicable laws and regulations concerning properties transferred to the Trust by the Secretary, the Trust shall negotiate directly with regulatory authorities. “(l) Insurance.—The Trust shall require that all leaseholders and contractors procure proper insurance against any loss in connection with properties under lease or contract, or the authorized activities granted in such lease or contract, as is reasonable and customary. “(m) Building Code Compliance.—The Trust shall bring all properties under its administrative jurisdiction into compliance with Federal building codes and regulations appropriate to use and occupancy within 10 years after the enactment of this title [Nov. 12, 1996] to the extent practicable. “(n) Leasing.—In managing and leasing the properties transferred to it, the Trust shall consider the extent to which prospective tenants contribute to the implementation of the general objectives of the General Management Plan for the Presidio and to the reduction of cost to the Federal Government. The Trust shall give priority to the following categories of tenants: Tenants that enhance the financial viability of the Presidio and tenants that facilitate the cost-effective preservation of historic buildings through their reuse of such buildings. “(o) Reversion.—If, at the expiration of 15 years, the Trust has not accomplished the goals and objectives of the plan required in [section 105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section105/b&num=0&edition=prelim), then all property under the administrative jurisdiction of the Trust pursuant to [section 103(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section103/b&num=0&edition=prelim) shall be transferred to the Administrator of the General Services Administration to be disposed of in accordance with the procedures outlined in the Defense Authorization Act of 1990 (104 Stat. 1809) [probably means part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, set out as a note under [section 2687 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim), Armed Forces], and any real property so transferred shall be deleted from the boundary of the Golden Gate National Recreation Area. In the event of such transfer, the terms and conditions of all agreements and loans regarding such lands and facilities entered into by the Trust shall be binding on any successor in interest. “(p) Exclusive Rights to Name and Insignia.—The Trust shall have the sole and exclusive right to use the words ‘Presidio Trust’ and any seal, emblem, or other insignia adopted by its Board of Directors. Without express written authority of the Trust, no person may use the words ‘Presidio Trust’, or any combination or variation of those words alone or with other words, as the name under which that person shall do or purport to do business, for the purpose of trade, or by way of advertisement, or in any manner that may falsely suggest any connection with the Trust. “SEC. 105. LIMITATIONS ON FUNDING.“(a)(1) From amounts made available to the Secretary for the operation of areas within the Golden Gate National Recreation Area, not more than $25,000,000 shall be available to carry out this title in each fiscal year after the enactment of this title [Nov. 12, 1996] until the plan is submitted under subsection (b). Such sums shall remain available until expended. “(2) After the plan required in subsection (b) is submitted, and for each of the 14 fiscal years thereafter, there are authorized to be appropriated to the Trust not more than the amounts specified in such plan. Such sums shall remain available until expended. Of such sums, funds shall be available through the Trust for law enforcement activities and services to be provided by the United States Park Police at the Presidio in accordance with [section 104(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section104/i&num=0&edition=prelim). “(b) Within 1 year after the first meeting of the Board of Directors of the Trust, the Trust shall submit to Congress a plan which includes a schedule of annual decreasing federally appropriated funding that will achieve, at a minimum, self-sufficiency for the Trust within 15 complete fiscal years after such meeting of the Trust. No further funds shall be authorized for the Trust 15 years after the first meeting of the Board of Directors of the Trust. “(c) The Administrator of the General Services Administration shall provide necessary assistance, on a reimbursable basis, including detailees as necessary, to the Trust in the formulation and submission of the annual budget request for the administration, operation, and maintenance of the Presidio. “SEC. 106. GENERAL ACCOUNTING OFFICE STUDY.“(a) Three years after the first meeting of the Board of Directors of the Trust, the General Accounting Office [now Government Accountability Office] shall conduct an interim study of the activities of the Trust and shall report the results of the study to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources [now Committee on Natural Resources] and Committee on Appropriations of the House of Representatives. The study shall include, but shall not be limited to, details of how the Trust is meeting its obligations under this title. “(b) In consultation with the Trust, the General Accounting Office [now Government Accountability Office] shall develop an interim schedule and plan to reduce and replace the Federal appropriations to the extent practicable for interpretive services conducted by the National Park Service, and law enforcement activities and services, fire and public safety programs conducted by the Trust. “(c) Seven years after the first meeting of the Board of Directors of the Trust, the General Accounting Office [now Government Accountability Office] shall conduct a comprehensive study of the activities of the Trust, including the Trust’s progress in meeting its obligations under this title, taking into consideration the results of the study described in subsection (a) and the implementation of plan and schedule required in subsection (b). The General Accounting Office shall report the results of the study, including any adjustments to the plan and schedule, to the Committee on Energy and Natural Resources and the Committee on Appropriations of the United States Senate, and the Committee on Resources [now Committee on Natural Resources] and Committee on Appropriations of the House of Representatives. “SEC. 107. CONDITIONAL AUTHORITY TO LEASE CERTAIN HOUSING UNITS WITHIN THE PRESIDIO.“(a) Availability of Housing Units for Long-Term Army Lease.—Subject to subsection (c), the Trust shall make available for lease, to those persons designated by the Secretary of the Army and for such length of time as requested by the Secretary of the Army, 22 housing units located within the Presidio that are under the administrative jurisdiction of the Trust and specified in the agreement between the Trust and the Secretary of the Army in existence as of the date of the enactment of this section [Dec. 28, 2001]. “(b) Lease Amount.—The monthly amount charged by the Trust for the lease of a housing unit under this section shall be equivalent to the monthly rate of the basic allowance for housing that the occupant of the housing unit is entitled to receive under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim), United States Code. “(c) Condition on Continued Availability of Housing Units.—Effective after the end of the four-year period beginning on the date of the enactment of this section, the Trust shall have no obligation to make housing units available under subsection (a) unless, during that four-year period, the Secretary of the Treasury purchases new obligations of at least $80,000,000 issued by the Trust under section 104(d)(2). In the event that this condition is not satisfied, the existing agreement referred to in subsection (a) shall be renewed on the same terms and conditions for an additional five years.”
 
 
 <a id="section-460bbb"></a>
@@ -28454,11 +28629,11 @@ This subchapter, referred to in subsec. (d), was in the original “this Act”,
 #### References in Text
 This subchapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3209, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 460bbb of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460bbb) and Tables.
 
-The Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), referred to in subsec. (b)(2)(H), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
+The Wilderness Act ([16 U.S.C. 1131](./chapter-023-national-wilderness-preservation-system.md#section-1131) et seq.), referred to in subsec. (b)(2)(H), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1131) and Tables.
 
 Section 10(b) of this Act, referred to in subsec. (c), is section 10(b) of Pub. L. 101–612, Nov. 16, 1990, 104 Stat. 3215, which amended [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274).
 
-The Wild and Scenic Rivers Act, referred to in subsec. (c), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
+The Wild and Scenic Rivers Act, referred to in subsec. (c), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, which is classified generally to chapter 28 (§ 1271 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1271 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1271) and Tables.
 
 These Acts, referred to in subsec. (c), mean the Wild and Scenic Rivers Act and this subchapter, which was in the original “this Act”. See References in Text notes above.
 
@@ -29259,11 +29434,17 @@ The Congress does not intend for the establishment of the conservation area to l
 
 **(i) Rights to solid waste byproducts of Fountain Avenue Landfill; conveyance from United States to city of New York; rights-of-way and permits; conditions; payments to United States for development and improvement of Gateway National Recreation Area** Notwithstanding the provisions of subsection (a) of this section, the United States hereby conveys to the city of New York all rights to the methane gas and associated byproducts resulting from solid waste decomposition on the area within the Jamaica Bay Unit known as the Fountain Avenue Landfill site, subject to payments to the United States of 50 per centum of the revenue received by the city of New York, if any, from the development of such rights. The Secretary shall grant to the City, its lessee or assignee, all rights-of-way and other permits necessary from the Department of the Interior to extract and transport the gas from the site: Provided, That the rights-of-way and other permits shall provide for reasonable restoration of the site, including removal of any processing or storage facilities used in the disposal, development, or extraction of the gas, access by the Secretary to the site for safety and other recreation area purposes, and such other reasonable conditions as the Secretary deems necessary to further purposes of the recreation area. All such payments to the United States shall be credited to the appropriations of the National Park Service for the development and improvement of Gateway National Recreation Area.
 
-**(j) Authority to grant easements and rights-of-way**
+**(j) 22 So in original. There are two subsecs. (j). Authority to grant easements and rights-of-way**
 
 (1) **In general** — The Secretary of the Interior may grant, to any State or local government, an easement or right-of-way over Federal lands within Gateway National Recreation Area for construction, operation, and maintenance of projects for control and prevention of flooding and shoreline erosion.
 
 (2) **Charges and reimbursement of costs** — The Secretary may grant such an easement or right-of-way without charge for the value of the right so conveyed, except for reimbursement of costs incurred by the United States for processing the application therefore and managing such right. Amounts received as such reimbursement shall be credited to the relevant appropriation account.
+
+**(j) 2 Authority to grant easements and rights-of-way permit**
+
+(1) **In general** — The Secretary of the Interior may grant, to any State or local government, an easement or right-of-way permit over Federal lands within Golden Gate National Recreation Area for operation and maintenance of projects for control and prevention of flooding and shoreline erosion and associated structures for continued public access.
+
+(2) **Charges and reimbursements of costs** — The Secretary may grant such an easement or right-of-way permit without charge for the value of the use so conveyed, except for reimbursement of costs incurred by the United States for processing the application therefore and managing such use. Amounts received as such reimbursement shall be credited to the relevant appropriation account.
 
 ### Statutory Notes
 
@@ -29271,7 +29452,9 @@ The Congress does not intend for the establishment of the conservation area to l
 The Act of August 25, 1916 (39 Stat. 535; [16 U.S.C. 1](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1), 2–4), referred to in subsec. (a), is act Aug. 25, 1916, ch. 408, 39 Stat. 535, known as the National Park Service Organic Act, which enacted sections 1, 2, 3, and 4 of this title and provisions set out as a note under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), National Park Service and Related Programs. Sections 1 to 4 of the Act were repealed and restated as [section 1865(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1865/a&num=0&edition=prelim), Crimes and Criminal Procedure, and section 100101(a), chapter 1003, and sections 100751(a), 100752, 100753, and 102101 of Title 54 by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 #### Amendments
-2019—Subsec. (j). Pub. L. 116–9 added subsec. (j).
+2022—Subsec. (j). Pub. L. 117–328 added at end subsec. (j) relating to authority to grant easements and rights-of-way permits.
+
+2019—Subsec. (j). Pub. L. 116–9 added subsec. (j) relating to authority to grant easements and rights-of-way.
 
 1999—Subsec. (b). Pub. L. 106–132 designated existing provisions as par. (1) and added par. (2).
 
@@ -29451,7 +29634,7 @@ The Sentencing Reform Act of 1984, referred to in subsec. (l), is chapter II (§
 Pub. L. 101–628, § 1, Nov. 28, 1990, 104 Stat. 4469, provided that: “Titles I through III of this Act [enacting this subchapter and provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132)] may be cited as the ‘Arizona Desert Wilderness Act of 1990’.”
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-460dddd"></a>
@@ -29564,7 +29747,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2
 
 **(c) Applicable law** The Council shall be subject to—
 
-(1) the Federal Advisory Committee Act (5 U.S.C. App.); and
+(1) the Federal Advisory Committee Act (5 U.S.C. App.); 11 See References in Text note below. and
 
 (2) [section 1739 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1739&num=0&edition=prelim).
 
@@ -29587,7 +29770,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(2
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 This part, referred to in subsec. (d)(4), is part II (§§ 1211–1255) of subtitle C of title I of Pub. L. 116–9, Mar. 12, 2019, 133 Stat. 667, which enacted this subchapter, amended [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274), enacted provisions set out as notes under [section 1274 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1274), and enacted provisions listed in a table of Wilderness Areas set out under [section 1132 of this title](./chapter-023-national-wilderness-preservation-system.md#section-1132) and in a table of National Monuments set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Parks Service and Related Programs.
 
@@ -30533,6 +30716,67 @@ Pub. L. 102–217, § 6, Dec. 11, 1991, 105 Stat. 1670, provided that: “Privat
 Pub. L. 102–456, Oct. 23, 1992, 106 Stat. 2264, provided that: “SECTION 1. REDESIGNATION.“Springer Mountain National Recreation Area in the Chattahoochee National Forest, in the State of Georgia, is hereby redesignated as ‘Ed Jenkins National Recreation Area’. “SEC. 2. LEGAL REFERENCES.“Any reference in any law, regulation, document, record, map, or other paper of the United States to Springer Mountain National Recreation Area is deemed to be a reference to Ed Jenkins National Recreation Area.”
 
 
+<a id="section-460gggg"></a>
+## § 460gggg. Numu Newe Special Management Area
+**(a) Definitions** In this section:
+
+(1) **Management plan** — The term “management plan” means the management plan for the Special Management Area developed under subsection (d).
+
+(2) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+
+(3) **Special Management Area** — The term “Special Management Area” means the Numu Newe Special Management Area established by subsection (b).
+
+**(b) Establishment** To protect, conserve, and enhance the unique and nationally important historic, cultural, archaeological, natural, and educational resources of the Numu Newe traditional homeland, subject to valid existing rights, there is established in Churchill and Mineral Counties, Nevada, the Numu Newe Special Management Area, to be administered by the Secretary.
+
+**(c) Area included** The Special Management Area shall consist of the approximately 209,181 acres of public land in Churchill and Mineral Counties, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled “Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill” and dated November 30, 2022.
+
+**(d) Management plan**
+
+(1) **In general** — Not later than 2 years after December 23, 2022, the Secretary shall develop a comprehensive management plan for the long-term management of the Special Management Area.
+
+(2) **Consultation** — In developing and implementing the management plan, the Secretary shall consult with—
+
+  (A) appropriate Federal, Tribal, State, and local governmental entities; and
+
+  (B) interested members of the public.
+
+(3) **Requirements** — The management plan shall—
+
+  (A) describe the appropriate uses of the Special Management Area;
+
+  (B) with respect to any land within the Special Management Area that is withdrawn and reserved for military uses, ensure that management of the Special Management Area is consistent with the purposes under section 2981(c)(2) of the Military Land Withdrawals Act of 2013 (as added by [section 2901 of this title](./chapter-049-fish-and-wildlife-conservation.md#section-2901)) for which the land is withdrawn and reserved;
+
+  (C) authorize the use of motor vehicles in the Special Management Area, where appropriate, including providing for the maintenance of existing roads;
+
+  (D) incorporate any provision of an applicable land and resource management plan that the Secretary considers to be appropriate;
+
+  (E) ensure, to the maximum extent practicable, the protection and preservation of traditional cultural and religious sites within the Special Management Area;
+
+  (F) to the maximum extent practicable, carefully and fully integrate the traditional and historical knowledge and special expertise of the Fallon Paiute Shoshone Tribe and other affected Indian tribes;
+
+  (G) consistent with subparagraph (D), ensure public access to Federal land within the Special Management Area for hunting, fishing, and other recreational purposes;
+
+  (H) not affect the allocation, ownership, interest, or control, as in existence on December 23, 2022, of any water, water right, or any other valid existing right; and
+
+  (I) be reviewed not less frequently than annually by the Secretary to ensure the management plan is meeting the requirements of this section.
+
+**(e) Military overflights** Nothing in this section restricts or precludes—
+
+(1) low-level overflights of military aircraft over the Special Management Area, including military overflights that can be seen or heard within the Special Management Area;
+
+(2) flight testing and evaluation; or
+
+(3) the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Special Management Area.
+
+### Statutory Notes
+
+#### References in Text
+Section 2981(c)(2) of the Military Land Withdrawals Act of 2013 (as added by [section 2901 of this title](./chapter-049-fish-and-wildlife-conservation.md#section-2901)), referred to in subsec. (d)(3)(B), is section 2981(c)(2) of title XXIX of div. B of Pub. L. 113–66, as added by Pub. L. 117–263, div. B, title XXIX, § 2901, Dec. 23, 2022, 136 Stat. 3016, which is not classified to the Code.
+
+#### Amendments
+2023—Subsec. (c). Pub. L. 118–31 substituted “209,181 acres” for “217,845 acres”.
+
+
 <a id="section-460ggg-1"></a>
 ## § 460ggg–1. National scenic area
 **(a) Designation and purposes** For the purposes of protecting and enhancing the natural beauty, special ecological features, watershed integrity, mature-forest habitat, scenic recreation opportunities and other distinctive values of certain lands in Georgia, the lands in the Chattahoochee National Forest, Georgia, which comprise approximately 7,100 acres, as generally depicted on a map entitled “Coosa Bald Scenic Area—Proposed”, dated July 1991, are designated as a national scenic area and shall be known as the Coosa Bald National Scenic Area (hereafter in this section referred to as the “scenic area”).
@@ -30806,6 +31050,108 @@ As used in this subchapter:
 
 #### Short Title
 Pub. L. 103–63, § 1, Aug. 4, 1993, 107 Stat. 297, provided that: “This Act [enacting this subchapter] may be cited as the ‘Spring Mountains National Recreation Area Act’.”
+
+
+<a id="section-460hhhh"></a>
+## § 460hhhh. Numunaa Nobe National Conservation Area
+(1) **Definitions** — In this section:
+
+  (A) *Conservation Area* — The term “Conservation Area” means the Numunaa Nobe National Conservation Area established by paragraph (2).
+
+  (B) *Management plan* — The term “management plan” means the management plan for the Conservation Area developed under paragraph (3)(B).
+
+  (C) *Secretary* — The term “Secretary” means the Secretary of the Interior.
+
+(2) **Establishment**
+
+  (A) *In general* — To conserve, protect, and enhance for the benefit and enjoyment of present and future generations the cultural, archaeological, natural, wilderness, scientific, geological, historical, biological, wildlife, educational, recreational, and scenic resources of the Conservation Area, subject to valid existing rights, there is established the Numunaa Nobe National Conservation Area in the State of Nevada, to be administered by the Secretary.
+
+  (B) *Area included*
+
+    (i) *In general* — The Conservation Area shall consist of approximately 160,224 acres of public land in Churchill County, Nevada, as generally depicted on the map entitled “Churchill County Proposed Fallon Range Training Complex Modernization and Lands Bill” and dated November 30, 2022.
+
+    (ii) *Availability of map* — The map described in clause (i) shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+
+(3) **Management**
+
+  (A) *In general* — The Secretary shall administer the Conservation Area in a manner that conserves, protects, and enhances the resources of the Conservation Area—
+
+    (i) in accordance with—
+
+      (I) this section;
+
+      (II) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.); and
+
+      (III) any other applicable law; and
+
+    (ii) as a component of the National Landscape Conservation System.
+
+  (B) *Management plan*
+
+    (i) *In general* — Not later than 2 years after December 23, 2022, the Secretary shall develop a management plan for the Conservation Area.
+
+    (ii) *Consultation* — In developing the management plan, the Secretary shall consult with—
+
+      (I) appropriate Federal, State, Tribal, and local governmental entities; and
+
+      (II) members of the public.
+
+    (iii) *Requirements* — The management plan shall—
+
+      (I) describe the appropriate uses of the Conservation Area;
+
+      (II) in accordance with paragraph (5), authorize the use of motor vehicles in the Conservation Area, where appropriate, including for the maintenance of existing roads; and
+
+      (III) incorporate any provision of an applicable land and resource management plan that the Secretary considers to be appropriate, to include the Search and Rescue Training Cooperative Agreement between the Bureau of Land Management and the Naval Strike and Air Warfare Training Center dated July 6, 1998, and the Carson City District BLM Administrative Guide to Military Activities on and Over the Public Lands dated January 25, 2012.
+
+(4) **Uses** — The Secretary shall allow only those uses of the Conservation Area that the Secretary determines would further the purposes of the Conservation Area.
+
+(5) **Motorized vehicles** — Except as needed for administrative purposes, planned military activities authorized by paragraph (3)(B)(iii)(III), or to respond to an emergency, the use of motorized vehicles in the Conservation Area shall be permitted only on roads and trails designated for the use of motorized vehicles by the management plan.
+
+(6) **Withdrawal**
+
+  (A) *In general* — Subject to valid existing rights, all public land in the Conservation Area is withdrawn from—
+
+    (i) all forms of entry, appropriation, and disposal under the public land laws;
+
+    (ii) location, entry, and patent under the mining laws; and
+
+    (iii) disposition under all laws relating to mineral and geothermal leasing or mineral materials.
+
+  (B) *Additional land* — If the Secretary acquires mineral or other interests in a parcel of land within the Conservation Area after December 23, 2022, the parcel is withdrawn from operation of the laws referred to in subparagraph (A) on the date of acquisition of the parcel.
+
+(7) **Hunting, fishing, and trapping**
+
+  (A) *In general* — Subject to subparagraph (B), nothing in this section affects the jurisdiction of the State of Nevada with respect to fish and wildlife, including hunting, fishing, and trapping in the Conservation Area.
+
+  (B) *Limitations*
+
+    (i) *Regulations* — The Secretary may designate by regulation areas in which, and establish periods during which, no hunting, fishing, or trapping will be permitted in the Conservation Area, for reasons of public safety, administration, or compliance with applicable laws.
+
+    (ii) *Consultation required* — Except in an emergency, the Secretary shall consult with the appropriate State agency and notify the public before taking any action under clause (i).
+
+(8) **Grazing** — In the case of land included in the Conservation Area on which the Secretary permitted, as of December 23, 2022, livestock grazing, the livestock grazing shall be allowed to continue, subject to applicable laws (including regulations).
+
+(9) **No buffer zones**
+
+  (A) *In general* — Nothing in this section creates a protective perimeter or buffer zone around the Conservation Area.
+
+  (B) *Activities outside Conservation Area* — The fact that an activity or use on land outside the Conservation Area can be seen or heard within the Conservation Area shall not preclude the activity or use outside the boundary of the Conservation Area.
+
+(10) **11 So in original. Two pars. (10) have been enacted. Military overflights** — Nothing in this section restricts or precludes—
+
+  (A) low-level overflights of military aircraft over the Conservation Area, including military overflights that can be seen or heard within the Conservation Area;
+
+  (B) flight testing and evaluation; or
+
+  (C) the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Conservation Area.
+
+(10) **1 Effect on water rights** — Nothing in this section constitutes an express or implied reservation of any water rights with respect to the Conservation Area.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Land Policy and Management Act of 1976, referred to in par. (3)(A)(i)(II), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460hhh-1"></a>
@@ -31101,6 +31447,118 @@ Pub. L. 111–11, title II, § 2301(b), Mar. 30, 2009, 123 Stat. 1101, provided 
 Pub. L. 115–31, div. G, title IV, § 431(a)(1) [§ 1], May 5, 2017, 131 Stat. 502, 842A–3, provided that: “This Act [enacting provisions set out as a note under [section 460iii–4 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460iii-4)] may be cited as the ‘Morley Nelson Snake River Birds of Prey National Conservation Area Boundary Modification Act of 2017’.”
 
 
+<a id="section-460iiii"></a>
+## § 460iiii. Pistone-Black Mountain National Conservation Area
+(1) **Definitions** — In this section:
+
+  (A) *Conservation Area* — The term “Conservation Area” means the Pistone-Black Mountain National Conservation Area established by paragraph (2)(A).
+
+  (B) *Secretary* — The term “Secretary” means the Secretary of the Interior.
+
+  (C) *Tribe* — The term “Tribe” means the Walker River Paiute Tribe.
+
+(2) **Establishment**
+
+  (A) *In general* — To protect, conserve, and enhance the unique and nationally important historic, cultural, archaeological, natural, and educational resources of the Pistone Site on Black Mountain, subject to valid existing rights, there is established in Mineral County, Nevada, the Pistone-Black Mountain National Conservation Area.
+
+  (B) *Area included*
+
+    (i) *In general* — The Conservation Area shall consist of the approximately 3,415 acres of public land in Mineral County, Nevada, administered by the Bureau of Land Management, as depicted on the map entitled “Black Mountain/Pistone Archaeological District” and dated May 12, 2020.
+
+    (ii) *Availability of map* — The map described in clause (i) shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.
+
+(3) **Management**
+
+  (A) *In general* — The Secretary shall manage the Conservation Area—
+
+    (i) in a manner that conserves, protects, and enhances the resources and values of the Conservation Area, including the resources and values described in paragraph (2)(A);
+
+    (ii) in accordance with—
+
+      (I) this section;
+
+      (II) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.); and
+
+      (III) any other applicable law; and
+
+    (iii) as a component of the National Landscape Conservation System.
+
+  (B) *Uses* — The Secretary shall allow only those uses of the Conservation Area that the Secretary determines would further the purposes of the Conservation Area.
+
+  (C) *Tribal cultural resources* — In administering the Conservation Area, the Secretary shall provide for—
+
+    (i) access to and use of cultural resources by the Tribe at the Conservation Area; and
+
+    (ii) the protection from disturbance of the cultural resources and burial sites of the Tribe located in the Conservation Area.
+
+  (D) *Cooperative agreements* — The Secretary may, in a manner consistent with this section, enter into cooperative agreements with the State of Nevada, affected Indian tribes, and institutions and organizations to carry out the purposes of this section, subject to the requirement that the Tribe shall be a party to any cooperative agreement entered into under this subparagraph.
+
+(4) **Management plan**
+
+  (A) *In general* — Not later than 2 years after December 23, 2022, the Secretary shall develop a management plan for the Conservation Area.
+
+  (B) *Consultation* — In developing the management plan required under subparagraph (A), the Secretary shall consult with—
+
+    (i) appropriate State, Tribal, and local governmental entities; and
+
+    (ii) members of the public.
+
+  (C) *Requirements* — The management plan developed under subparagraph (A) shall—
+
+    (i) describe the appropriate uses and management of the Conservation Area;
+
+    (ii) incorporate, as appropriate, decisions contained in any other management or activity plan for the land in or adjacent to the Conservation Area;
+
+    (iii) take into consideration any information developed in studies of the land and resources in or adjacent to the Conservation Area; and
+
+    (iv) provide for a cooperative agreement with the Tribe to address the historical, archaeological, and cultural values of the Conservation Area.
+
+(5) **Withdrawal**
+
+  (A) *In general* — Subject to valid existing rights, all public land in the Conservation Area is withdrawn from—
+
+    (i) all forms of entry, appropriation, and disposal under the public land laws;
+
+    (ii) location, entry, and patent under the mining laws; and
+
+    (iii) disposition under all laws relating to mineral and geothermal leasing or mineral materials.
+
+  (B) *Additional land* — If the Secretary acquires mineral or other interests in a parcel of land within the Conservation Area after December 23, 2022, the parcel is withdrawn from operation of the laws referred to in subparagraph (A) on the date of acquisition of the parcel.
+
+(6) **Hunting, fishing, and trapping**
+
+  (A) *In general* — Subject to subparagraph (B), nothing in this section affects the jurisdiction of the State of Nevada with respect to fish and wildlife, including hunting, fishing, and trapping in the Conservation Area.
+
+  (B) *Limitations*
+
+    (i) *Regulations* — The Secretary may designate by regulation areas in which, and establish periods during which, no hunting, fishing, or trapping will be permitted in the Conservation Area, for reasons of public safety, administration, or compliance with applicable laws.
+
+    (ii) *Consultation required* — Except in an emergency, the Secretary shall consult with the appropriate State agency and notify the public before taking any action under clause (i).
+
+(7) **Grazing** — In the case of land included in the Conservation Area on which the Secretary permitted, as of December 23, 2022, livestock grazing, the livestock grazing shall be allowed to continue, subject to applicable laws (including regulations).
+
+(8) **No buffer zones**
+
+  (A) *In general* — Nothing in this section creates a protective perimeter or buffer zone around the Conservation Area.
+
+  (B) *Activities outside Conservation Area* — The fact that an activity or use on land outside the Conservation Area can be seen or heard within the Conservation Area shall not preclude the activity or use outside the boundary of the Conservation Area.
+
+(9) **Military overflights** — Nothing in this section restricts or precludes—
+
+  (A) low-level overflights of military aircraft over the Conservation Area, including military overflights that can be seen or heard within the Conservation Area;
+
+  (B) flight testing and evaluation; or
+
+  (C) the designation or creation of new units of special use airspace, or the establishment of military flight training routes, over the Conservation Area.
+
+(10) **Effect on water rights** — Nothing in this section constitutes an express or implied reservation of any water rights with respect to the Conservation Area.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Land Policy and Management Act of 1976, referred to in par. (3)(A)(ii)(II), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+
 <a id="section-460iii-1"></a>
 ## § 460iii–1. Definitions
 
@@ -31228,7 +31686,7 @@ Act of July 3, 1890, referred to in subsec. (d), is not classified to the Code.
 #### References in Text
 Act of June 28, 1934, referred to in subsec. (f), is act June 28, 1934, ch. 865, 48 Stat. 1269, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315&num=0&edition=prelim) and Tables.
 
-The Federal Power Act, referred to in subsec. (i), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsec. (i), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 2009—Subsec. (a)(2). Pub. L. 111–11, § 2301(c)(2)(A), substituted “conservation area is” for “Conservation Area is”.
@@ -31638,7 +32096,7 @@ The Archaeological Resources Protection Act of 1979, referred to in subsec. (c),
 
 The National Historic Preservation Act, referred to in subsec. (c), is Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of this title. The Act, except for section 1, was repealed and restated in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, Dec. 19, 2014, 128 Stat. 3094, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-The American Indian Religious Freedom Act, referred to in subsecs. (c) and (d)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
+The American Indian Religious Freedom Act, referred to in subsecs. (c) and (d)(1), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1996 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1996&num=0&edition=prelim) and Tables.
 
 The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
@@ -32147,7 +32605,7 @@ Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625
 
 (3) **Procedures** — Each meeting of the Advisory Council and its committees shall be open to the public.
 
-(4) **FACA** — The provisions of section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), are hereby waived with respect to the Advisory Council.
+(4) **Chapter 10 of title 5** — The provisions of [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) are hereby waived with respect to the Advisory Council.
 
 **(h) Authorization of appropriations**
 
@@ -32162,9 +32620,9 @@ The Act entitled “An Act to establish a National Park Service, and for other p
 
 The Act of August 21, 1935 (49 Stat. 666; [16 U.S.C. 461–467](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section461–467&num=0&edition=prelim)), referred to in subsec. (d)(1), is act Aug. 21, 1935, ch. 593, 49 Stat. 666, known as the Historic Sites Act of 1935 and also as the Historic Sites, Buildings, and Antiquities Act, which enacted sections 461 to 467 of this title. The Act was repealed and restated as [section 1866(a) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1866/a&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 102303 and 102304 and chapter 3201 of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 4(a)(1), 7, Dec. 19, 2014, 128 Stat. 3094, 3260, 3272. For complete classification of this Act to the Code, see Tables. For disposition of former sections of this title, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (g)(4). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “[section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “section 14 of the Federal Advisory Committee Act (5 U.S.C. App.),” in text.
+
 2010—Subsec. (e)(2)(B). Pub. L. 111–281 made technical amendment to directory language of Pub. L. 109–241, § 902(h)(1). See 2006 Amendment note below.
 
 2009—Subsec. (d)(3). Pub. L. 111–11, § 7109(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may consult and enter into cooperative agreements with the Commonwealth of Massachusetts or its political subdivisions to acquire from and provide to the Commonwealth or its political subdivisions goods and services to be used in the cooperative management of lands within the recreation area, if the Secretary determines that appropriations for that purpose are available and the agreement is in the best interest of the United States.”
@@ -32322,15 +32780,23 @@ The Tennessee Valley Authority Act of 1933, referred to in subsec. (b), is act M
 
 (1) permit the Secretary to exercise administrative jurisdiction over the Recreation Area under this subchapter; and
 
-(2) administer the Recreation Area area as a unit of the National Forest System.
+(2) administer the Recreation Area as a unit of the National Forest System.
 
 **(b) Interior** There are authorized to be appropriated to the Secretary of the Interior such sums as are necessary to carry out activities within the Recreation Area.
 
-**(c) Use of funds** The Secretary of Agriculture may expend amounts appropriated or otherwise made available to carry out this subchapter in a manner consistent with the authorities exercised by the Tennessee Valley Authority before the transfer of the Recreation Area to the administrative jurisdiction of the Secretary, including campground management and visitor services, paid advertisement, and procurement of food and supplies for resale purposes.
+**(c) Use of funds**
+
+(1) **In general** — Except as provided in paragraph (2), the Secretary of Agriculture may expend amounts appropriated to carry out this subchapter in a manner consistent with the authorities exercised by the Tennessee Valley Authority before the transfer of the Recreation Area to the administrative jurisdiction of the Secretary of Agriculture, including campground management and visitor services, paid advertisement, and procurement of food and supplies for resale purposes.
+
+(2) **Exception** — The Secretary of Agriculture shall not use amounts appropriated to carry out this subchapter for an activity described in section 460lll–24(b) of this title.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–328, § 201(i)(1), substituted “Recreation Area” for “Recreation Area area”.
+
+Subsec. (c). Pub. L. 117–328, § 201(i)(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “The Secretary of Agriculture may expend amounts appropriated or otherwise made available to carry out this subchapter in a manner consistent with the authorities exercised by the Tennessee Valley Authority before the transfer of the Recreation Area to the administrative jurisdiction of the Secretary, including campground management and visitor services, paid advertisement, and procurement of food and supplies for resale purposes.”
+
 2003—Subsec. (c). Pub. L. 108–108 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Until September 30, 2004, the Secretary of Agriculture may expend amounts appropriated or otherwise made available to carry out this subchapter in a manner consistent with the authorities exercised by the Tennessee Valley Authority, before the transfer of the Recreation Area to the administrative jurisdiction of the Secretary, regarding procurement of property, services, supplies, and equipment.”
 
 2001—Subsec. (c). Pub. L. 107–63 substituted “2004” for “2002”.
@@ -32385,15 +32851,21 @@ In this subchapter:
 
 (10) **Pollutant or contaminant** — The term “pollutant or contaminant” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim)).
 
-(11) **Recreation Area** — The term “Recreation Area” means the Land Between the Lakes National Recreation Area.
+(11) **Qualified resident or relative** — The term “qualified resident or relative” means—
 
-(12) **Release** — The term “release” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim)).
+  (A) a former resident of the area within the Recreation Area or the spouse of a former resident of that area; or
 
-(13) **Response action** — The term “response action” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim)).
+  (B) a widow, widower, or lineal descendant of an individual buried in a cemetery located in the Recreation Area.
 
-(14) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+(12) **Recreation Area** — The term “Recreation Area” means the Land Between the Lakes National Recreation Area.
 
-(15) **State** — The term “State” means the State of Kentucky and the State of Tennessee.
+(13) **Release** — The term “release” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim)).
+
+(14) **Response action** — The term “response action” has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim)).
+
+(15) **Secretary** — The term “Secretary” means the Secretary of Agriculture.
+
+(16) **State** — The term “State” means the State of Kentucky and the State of Tennessee.
 
 ### Statutory Notes
 
@@ -32404,7 +32876,7 @@ The Solid Waste Disposal Act, referred to in par. (5)(B)(ii), is title II of Pub
 
 The Federal Water Pollution Control Act, referred to in par. (5)(B)(iii), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in par. (5)(B)(iv), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in par. (5)(B)(iv), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (5)(B)(v), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section136&num=0&edition=prelim) and Tables.
 
@@ -32417,6 +32889,9 @@ The National Environmental Policy Act of 1969, referred to in par. (5)(B)(viii),
 The Endangered Species Act of 1973, referred to in par. (5)(B)(ix), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
 [Section 101(a) of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101/a&num=0&edition=prelim), referred to in par. (6), was subsequently amended, and section 101(a) no longer defines “forest highway”.
+
+#### Amendments
+2022—Pars. (11) to (16). Pub. L. 117–328 added par. (11) and redesignated former pars. (11) to (15) as (12) to (16), respectively.
 
 #### Short Title
 Pub. L. 105–277, div. A, § 101(e) [title V, § 501], Oct. 21, 1998, 112 Stat. 2681–231, 2681–310, provided that: “This title [enacting this subchapter] may be referred to as ‘The Land Between the Lakes Protection Act of 1998’.”
@@ -32454,7 +32929,7 @@ The purposes of this subchapter are—
 
   (C) to provide for diversity of native and desirable non-native plants, animals, opportunities for hunting and fishing, and environmental education.
 
-(3) **Status of unit** — The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest.
+(3) **Status of unit** — The Secretary shall administer the Recreation Area as a separate unit of the National Forest System.
 
 **(c) Area included**
 
@@ -32467,6 +32942,11 @@ The purposes of this subchapter are—
 (1) **Water levels and navigation** — Nothing in this subchapter affects the jurisdiction of the Tennessee Valley Authority or the Army Corps of Engineers to manage and regulate water levels and navigation of Kentucky Lake and Lake Barkley and areas subject to flood easements.
 
 (2) **Occupancy and use** — Subject to the jurisdiction of the Tennessee Valley Authority and the Army Corps of Engineers, the Secretary shall have jurisdiction to regulate the occupancy and use of the surface waters of the lakes for recreational purposes.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(3). Pub. L. 117–328 added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “The Secretary may administer the Recreation Area as a separate unit of the National Forest System or in conjunction with an existing national forest.”
 
 
 <a id="section-460lll-14"></a>
@@ -32530,7 +33010,7 @@ The National Forest Management Act of 1976, referred to in subsec. (a), is Pub. 
 ## § 460lll–24. Advisory Board
 **(a) Establishment** Not later than 90 days after the date of transfer pursuant to section 460lll–41 of this title, the Secretary shall establish the Land Between the Lakes Advisory Board.
 
-**(b) Membership** The Advisory Board shall be composed of 17 members, of whom—
+**(b) Membership** The Advisory Board shall be composed of 13 members, of whom—
 
 (1) 4 individuals shall be appointed by the Secretary, including—
 
@@ -32540,60 +33020,99 @@ The National Forest Management Act of 1976, referred to in subsec. (a), is Pub. 
 
 (2) 2 individuals shall be appointed by the Kentucky Fish and Wildlife Commissioner or designee;
 
-(3) 1 individual shall be appointed by the Tennessee Fish and Wildlife Commission or designee;
+(3) 1 individual shall be appointed by the Tennessee Fish and Wildlife Commission or designee; and
 
-(4) 2 individuals shall be appointed by the Governor of the State of Tennessee;
-
-(5) 2 individuals shall be appointed by the Governor of the State of Kentucky; and
-
-(6) 2 individuals shall be appointed by appropriate officials of each of the 3 counties containing the Recreation Area.
+(4) 2 individuals shall be appointed by appropriate officials of each of the 3 counties containing the Recreation Area.
 
 **(c) Term**
 
 (1) **In general** — The term of a member of the Advisory Board shall be 5 years.
 
-(2) **Succession** — Members of the Advisory Board may not succeed themselves.
+(2) **Nonconsecutive terms** — Members of the Advisory Board may serve multiple terms, but may not serve consecutive terms.
 
 **(d) Chairperson** The Regional Forester shall serve as chairperson of the Advisory Board.
 
 **(e) Rules of procedure** The Secretary shall prescribe the rules of procedure for the Advisory Board.
 
-**(f) Functions** The Advisory Board may advise the Secretary on—
+**(f) Functions** The Advisory Board shall advise the Secretary on—
 
-(1) means of promoting public participation for the land and resource management plan for the Recreation Area; and
+(1) means of promoting public participation for the land and resource management plan for the Recreation Area;
 
-(2) environmental education.
+(2) environmental education;
+
+(3) an annual work plan for recreation and environment education areas in the Recreation Area, including the heritage program, with the nonappropriated amounts in the Land Between the Lakes Management Fund;
+
+(4) an annual forest management and harvest plan for the Recreation Area; and
+
+(5) the Land Between the Lakes Management Fund.
 
 **(g) Meetings**
 
-(1) **Frequency** — The Advisory Board shall meet at least biannually.
+(1) **Frequency** — The Advisory Board shall meet at least twice each year.
 
 (2) **Public meeting** — A meeting of the Advisory Board shall be open to the general public.
 
-(3) **Notice of meetings** — The chairperson, through the placement of notices in local news media and by other appropriate means shall give 2 weeks’ public notice of each meeting of the Advisory Board.
+(3) **Notice of meetings** — The chairperson, through the placement of notices in local news media, on a public website of the Department of Agriculture, and by other appropriate means shall give 2 weeks’ public notice of each meeting of the Advisory Board.
 
-**(h) No termination** Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
+(4) **Minutes** — The Secretary shall publish the minutes of each meeting of the Advisory Board on a public website of the Department of Agriculture.
+
+**(h) No termination** [Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim) shall not apply to the Advisory Board.
 
 ### Statutory Notes
 
-#### References in Text
-Section 14(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (h), is section 14(a)(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–328, § 201(c)(1)(A), substituted “13” for “17” in introductory provisions.
+
+Subsec. (b)(4). Pub. L. 117–328, § 201(c)(1)(B)–(D), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “2 individuals shall be appointed by the Governor of the State of Tennessee;”.
+
+Subsec. (b)(5). Pub. L. 117–328, § 201(c)(1)(B), struck out par. (5) which read as follows: “2 individuals shall be appointed by the Governor of the State of Kentucky; and”.
+
+Subsec. (b)(6). Pub. L. 117–328, § 201(c)(1)(D), redesignated par. (6) as (4).
+
+Subsec. (c)(2). Pub. L. 117–328, § 201(c)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Members of the Advisory Board may not succeed themselves.”
+
+Subsec. (f). Pub. L. 117–328, § 201(c)(3)(A), substituted “shall advise” for “may advise” in introductory provisions.
+
+Subsec. (f)(3) to (5). Pub. L. 117–328, § 201(c)(3)(B)–(D), added pars. (3) to (5).
+
+Subsec. (g)(1). Pub. L. 117–328, § 201(c)(4)(A), substituted “twice each year” for “biannually”.
+
+Subsec. (g)(3). Pub. L. 117–328, § 201(c)(4)(B), inserted “, on a public website of the Department of Agriculture,” before “and by”.
+
+Subsec. (g)(4). Pub. L. 117–328, § 201(c)(4)(C), added par. (4).
+
+Subsec. (h). Pub. L. 117–286 substituted “[Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim)” for “Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-460lll-25"></a>
 ## § 460lll–25. Fees
-**(a) Authority** The Secretary may charge reasonable fees for admission to and the use of the designated sites, or for activities, within the Recreation Area.
+**(a) Authority** The Secretary shall charge reasonable fees, in consultation with the Advisory Board and consistent with the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6801](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) et seq.), for admission to and the use of the designated sites, or for activities, within the Recreation Area.
 
 **(b) Factors** In determining whether to charge fees, the Secretary may consider the costs of collection weighed against potential income.
 
 **(c) Limitation** No general entrance fees shall be charged within the Recreation Area.
+
+### Statutory Notes
+
+#### References in Text
+The Federal Lands Recreation Enhancement Act, referred to in subsec. (a), is title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, which is classified principally to chapter 87 ([16 U.S.C. 6801](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–328 substituted “shall charge reasonable fees, in consultation with the Advisory Board and consistent with the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6801](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) et seq.),” for “may charge reasonable fees”.
 
 
 <a id="section-460lll-26"></a>
 ## § 460lll–26. Disposition of receipts
 **(a) In general** All amounts received from charges, use fees, and natural resource utilization, including timber and agricultural receipts, shall be deposited in a special fund in the Treasury of the United States to be known as the “Land Between the Lakes Management Fund”.
 
-**(b) Use** Amounts in the Fund shall be available to the Secretary until expended, without further Act of appropriation, for the management of the Recreation Area, including payment of salaries and expenses.
+**(b) Use** Amounts in the Land Between the Lakes Management Fund shall be available to the Secretary until expended, without further appropriation, for construction, improvement, or maintenance in the Recreation Area.
+
+**(c) Restriction on use of Fund** Except as provided in subsection (b), amounts in the Land Between the Lakes Management Fund shall not be used for management of the Recreation Area, including salaries and expenses.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsecs. (b), (c). Pub. L. 117–328 added subsecs. (b) and (c) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Amounts in the Fund shall be available to the Secretary until expended, without further Act of appropriation, for the management of the Recreation Area, including payment of salaries and expenses.”
 
 
 <a id="section-460lll-27"></a>
@@ -32647,6 +33166,20 @@ Section 14(a)(2) of the Federal Advisory Committee Act, referred to in subsec. (
 
 (2) accept gifts under [section 2269 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2269&num=0&edition=prelim) notwithstanding that the donor conducts business with any agency of the Department of Agriculture or is regulated by the Secretary of Agriculture.
 
+**(c) Memoranda of understanding** The Secretary may, for purposes of carrying out this subchapter—
+
+(1) enter into memoranda of understanding with State or local government entities, including law enforcement, as appropriate, to clarify jurisdictional matters, such as road management, policing, and other functions that are typically performed by the entity on non-Federal land; and
+
+(2) make available on a public website of the Department of Agriculture any memoranda of understanding entered into under paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in subsec. (c), was in the original “this Act” and was translated as reading “this title”, meaning section 101(e) [title V] of div. A of Pub. L. 105–277, known as The Land Between the Lakes Protection Act of 1998, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460lll of this title and Tables.
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–328 added subsec. (c).
+
 
 <a id="section-460lll-29"></a>
 ## § 460lll–29. Designation of national recreation trail
@@ -32656,8 +33189,18 @@ Effective on the date of transfer pursuant to section 460lll–41 of this title,
 
 <a id="section-460lll-30"></a>
 ## § 460lll–30. Cemeteries
+**(a) In general** The Secretary shall maintain an inventory of and ensure access to cemeteries within the Recreation Area for purposes of burial, visitation, and maintenance.
 
-The Secretary shall maintain an inventory of and ensure access to cemeteries within the Recreation Area for purposes of burial, visitation, and maintenance.
+**(b) Land for plots for qualified residents or relatives**
+
+(1) **Requests** — The Secretary, on request from a qualified resident or relative or a cemetery association, shall grant additional land for the minor expansion of existing cemeteries within the Recreation Area, to the extent necessary, to allow for the burial of qualified residents or relatives.
+
+(2) **Expenses** — Any expenses required to move border fences or markers due to an expansion under paragraph (1) shall be the responsibility of the person making the request under that paragraph.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–328 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
 <a id="section-460lll-31"></a>
@@ -32679,6 +33222,25 @@ The Secretary shall maintain an inventory of and ensure access to cemeteries wit
   (B) *Consultation* — Except in emergencies, a prohibition under subparagraph (A) shall become effective only after consultation with the appropriate fish and game departments of the States.
 
 (3) **Fish and wildlife** — Nothing in this subchapter affects the jurisdiction or responsibilities of the States with respect to wildlife and fish on national forests.
+
+**(c) Historical resources**
+
+(1) **In general** — The Secretary shall identify and manage the historical resources of the Recreation Area—
+
+  (A) in accordance with the requirements of division A of subtitle III of title 54 (formerly known as the “National Historic Preservation Act”); and
+
+  (B) in consultation with qualified residents or relatives.
+
+(2) **Consideration** — The Secretary shall—
+
+  (A) in accordance with applicable law, give consideration to requests by qualified residents or relatives to use and maintain traditional sites, buildings, cemeteries, and other areas of cultural importance in the Recreation Area; and
+
+  (B) consult with qualified residents or relatives in the management of the historical resources of the Recreation Area.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–328 added subsec. (c).
 
 
 <a id="section-460lll-41"></a>
@@ -32703,12 +33265,12 @@ Within one year from the date of transfer pursuant to section 460lll–41 of thi
 <a id="section-460lll-43"></a>
 ## § 460lll–43. Effective date of transfer
 
-Effective on October 1 of the first fiscal year for which Congress does not appropriate to the Tennessee Valley Authority at least $6,000,000 for the Recreation Area, or, if this subchapter is enacted during a fiscal year for which Congress has not made such an appropriation, effective as of October 21, 1998, administrative jurisdiction over the Recreation Area is transferred from the Tennessee Valley Authority to the Secretary.
+Effective on October 1 of the first fiscal year for which Congress does not appropriate to the Tennessee Valley Authority at least $6,000,000 for the Recreation Area, or, if this Act is enacted during a fiscal year for which Congress has not made such an appropriation, effective as of October 21, 1998, administrative jurisdiction over the Recreation Area is transferred from the Tennessee Valley Authority to the Secretary.
 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act” and was translated as meaning section 101(e) of div. A of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–231, known as the Department of the Interior and Related Agencies Appropriations Act, 1999. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is section 101(e) of div. A of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–231, which enacted the Department of the Interior and Related Agencies Appropriations Act, 1999. Title V of the Act, known as The Land Between the Lakes Protection Act of 1998, is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-460lll-44"></a>
@@ -32834,7 +33396,7 @@ In subsec. (d)(1)(B), “chapters 1 to 11 of title 40 and division C (except sec
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsecs. (c) and (d)(1), (3)(A), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsecs. (c) and (d)(1), (3)(A), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460lll-49"></a>
@@ -33007,7 +33569,7 @@ An area of land as generally depicted as the “Rattlesnake National Recreation 
 #### References in Text
 Section 2 of the Mineral Lands Leasing Act of 1920, referred to in subsec. (b)(1), probably means section 2(a) of the Mineral Lands Leasing Act of 1920, act Feb. 25, 1920, ch. 85, § 2(a), 41 Stat. 438, which enacted [section 201(a) of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section201/a&num=0&edition=prelim), Mineral Lands and Mining. Section 2(b) to (d) of the Mineral Lands Leasing Act of 1920 enacted sections 201(b), 202, and 202(a) of Title 30, respectively.
 
-The Mineral Lands Leasing Act of 1920, as amended, referred to in subsec. (b)(3), (5), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Lands Leasing Act of 1920, as amended, referred to in subsec. (b)(3), (5), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (b)(3), “October 31, 1983” substituted for “the date of enactment of this Act”, meaning the date of enactment of Pub. L. 98–140, section 7(a) of which amended generally subsec. (b)(3), as the probable intent of Congress.
@@ -33869,7 +34431,7 @@ The effective date of the Wilderness Act, referred to in subsec.(e), means Sept.
 
 **(c) Applicable law** The Council shall be subject to—
 
-(1) the Federal Advisory Committee Act (5 U.S.C. App.); and
+(1) chapter 10 of title 5; and
 
 (2) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.).
 
@@ -33890,18 +34452,18 @@ The effective date of the Wilderness Act, referred to in subsec.(e), means Sept.
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–286 substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act (5 U.S.C. App.);”.
+
 2004—Subsec. (a). Pub. L. 108–400 substituted “McInnis Canyons” for “Colorado Canyons”.
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–400 effective Jan. 1, 2005, see section 1(g) of Pub. L. 108–400, set out as a note under [section 460mmm of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460mmm).
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-460mmm-7"></a>
@@ -33924,9 +34486,9 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 #### References in Text
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Mineral Leasing Act of 1920, as amended, and supplemented, referred to in subsec. (b), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act of 1920, as amended, and supplemented, referred to in subsec. (b), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
-The Materials Act of 1947, as amended, referred to in subsec. (b), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
+The Materials Act of 1947, as amended, referred to in subsec. (b), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-460mm-2"></a>
@@ -34712,14 +35274,15 @@ This subchapter, referred to in subsecs. (a), (b), and (d), was in the original 
 
 **(g) State liaison** The Secretary shall appoint one person, nominated by the Governor of Oregon, to serve as the State government liaison to the advisory council.
 
-**(h) Applicable law** The advisory committee 22 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.) and the Federal Advisory Committee Act (5 U.S.C. App.).
+**(h) Applicable law** The advisory committee 22 So in original. Probably should be “advisory council”. shall be subject to the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.) and chapter 10 of title 5.
 
 ### Statutory Notes
 
 #### References in Text
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (h), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
 
 <a id="section-460nnn-63"></a>
@@ -35446,7 +36009,7 @@ As used in this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 The Materials Act of 1947, referred to in subsec. (h), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
 
@@ -36257,7 +36820,7 @@ The Congress finds that—
 Section 8 of Pub. L. 99–552, as added by Pub. L. 100–653, title VI, § 604, Nov. 14, 1988, 102 Stat. 3830, provided that: “This Act [enacting this subchapter] may be cited as the ‘Klamath River Basin Fishery Resources Restoration Act’.”
 
 #### Salmon Plan and Study
-Pub. L. 109–479, title I, § 113(b), Jan. 12, 2007, 120 Stat. 3602, provided that: “(1) Recovery plan.—Not later than 6 months after the date of enactment of this Act [Jan. 12, 2007], the Secretary of Commerce shall complete a recovery plan for Klamath River Coho salmon and make it available to the public. “(2) Annual report.—Not later than 2 years after the date of enactment of this Act, and annually thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources [now Committee on Natural Resources] on—“(A) the actions taken under the recovery plan and other law relating to recovery of Klamath River Coho salmon, and how those actions are specifically contributing to its recovery; “(B) the progress made on the restoration of salmon spawning habitat, including water conditions as they relate to salmon health and recovery, with emphasis on the Klamath River and its tributaries below Iron Gate Dam; “(C) the status of other Klamath River anadromous fish populations, particularly Chinook salmon; and “(D) the actions taken by the Secretary to address the calendar year 2003 National Research Council recommendations regarding monitoring and research on Klamath River Basin salmon stocks.”
+Pub. L. 109–479, title I, § 113(b), Jan. 12, 2007, 120 Stat. 3602, as amended by Pub. L. 117–328, div. S, title II, § 203(b), Dec. 29, 2022, 136 Stat. 5270, provided that: “(1) Recovery plan.—Not later than 6 months after the date of enactment of this Act [Jan. 12, 2007], the Secretary of Commerce shall complete a recovery plan for Klamath River Coho salmon and make it available to the public. “(2) Report.—Not later than 2 years after the date of enactment of the Fishery Resource Disasters Improvement Ac[t] [Dec. 29, 2002], and biennially thereafter, the Secretary of Commerce shall submit a report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Resources [now Committee on Natural Resources] on—“(A) the actions taken under the recovery plan and other law relating to recovery of Klamath River Coho salmon, and how those actions are specifically contributing to its recovery; “(B) the progress made on the restoration of salmon spawning habitat, including water conditions as they relate to salmon health and recovery, with emphasis on the Klamath River and its tributaries below Iron Gate Dam; “(C) the status of other Klamath River anadromous fish populations, particularly Chinook salmon; and “(D) the actions taken by the Secretary to address the most recent National Research Council recommendations regarding monitoring and research on Klamath River Basin salmon stocks.”
 
 
 <a id="section-460sss"></a>
@@ -37365,7 +37928,7 @@ The Wilderness Act, referred to in subsec. (a), is Pub. L. 88–577, Sept. 3, 19
 1994—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “Committee of the House”.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-460uu-48"></a>
@@ -38049,15 +38612,15 @@ The Secretary of Agriculture shall submit to the Committee on Natural Resources 
 <a id="section-460vv-12"></a>
 ## § 460vv–12. Advisory committee
 
-Pursuant to the Federal Advisory Committee Act (Public Law 92–463), no later than 90 days after October 18, 1988, the Secretary is directed to establish an advisory committee for Ouachita National Forest lands in Le Flore County, Oklahoma. The Committee’s purpose shall be advisory in nature and the Committee shall provide information and recommendations to the Secretary regarding the operation of the Ouachita National Forest in Le Flore County. The Committee shall be composed of representatives from the local area in which the Ouachita National Forest is located equally divided among conservation, timber, fish and wildlife, tourism and recreation, and economic development interests.
+Pursuant to chapter 10 of title 5, no later than 90 days after October 18, 1988, the Secretary is directed to establish an advisory committee for Ouachita National Forest lands in Le Flore County, Oklahoma. The Committee’s purpose shall be advisory in nature and the Committee shall provide information and recommendations to the Secretary regarding the operation of the Ouachita National Forest in Le Flore County. The Committee shall be composed of representatives from the local area in which the Ouachita National Forest is located equally divided among conservation, timber, fish and wildlife, tourism and recreation, and economic development interests.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (Public Law 92–463),”.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-460vv-13"></a>
@@ -38078,7 +38641,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 The National Forest Management Act, referred to in subsec. (a), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of this title, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of this title, repealed sections 476, 513, and 514 of this title, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of this title](./chapter-036-forest-and-rangeland-renewable-resources-planning.md#section-1600) and Tables.
 
 #### Termination of Advisory Groups
-Advisory groups established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a group established by the President or an officer of the Federal Government, such group is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a group established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory groups established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a group established by the President or an officer of the Federal Government, such group is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a group established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-460vv-14"></a>
@@ -38594,14 +39157,15 @@ This Act, referred to in subsec. (c), is Pub. L. 100–534, Oct. 26, 1988, 102 S
 
 (11) two members to represent local citizens or citizens groups which are concerned with the Gauley River or own lands included within the boundaries of the recreation area.
 
-**(e) Termination; charter** The Advisory Committee shall terminate on the date ten years after October 26, 1988, notwithstanding the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776). The provisions of section 14(b) of such Act (relating to the charter of the Committee) are hereby waived with respect to this Advisory Committee.
+**(e) Termination; charter** The Advisory Committee shall terminate on the date ten years after October 26, 1988, notwithstanding chapter 10 of title 5. The provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) (relating to the charter of the Committee),11 So in original. The comma probably should not appear. are hereby waived with respect to this Advisory Committee.
 
 ### Statutory Notes
 
 #### References in Text
 This Act, referred to in subsecs. (a) and (c), is Pub. L. 100–534, Oct. 26, 1988, 102 Stat. 2699, known as the West Virginia National Interest River Conservation Act of 1987, which enacted this subchapter and sections 410eeee–12 to 410eeee–15 of this title, amended sections 410eeee–1 and 1274 of this title, and enacted provisions set out as notes under sections 410eeee–1 and 1274 of this title. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under [section 410eeee–1 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410eeee-1) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5. The provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) (relating to the charter of the Committee),” for “the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776). The provisions of section 14(b) of such Act (relating to the charter of the Committee)”.
 
 
 <a id="section-460w-1"></a>
@@ -38850,7 +39414,7 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (a), 
 ### Statutory Notes
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-460xx-4"></a>
@@ -39787,7 +40351,7 @@ Section is comprised of section 2403 of Pub. L. 111–11. Section 2403 also enac
 
 **(c) Applicable law** The Council shall be subject to—
 
-(1) the Federal Advisory Committee Act (5 U.S.C. App.); and
+(1) chapter 10 of title 5; and
 
 (2) the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) et seq.).
 
@@ -39814,9 +40378,10 @@ Section is comprised of section 2403 of Pub. L. 111–11. Section 2403 also enac
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Federal Land Policy and Management Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–286 substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act (5 U.S.C. App.);”.
 
 
 <a id="section-460zzz-7"></a>
@@ -39965,7 +40530,7 @@ If the Secretary disapproves the plan, he shall, within 60 days after the date o
 #### References in Text
 The Clean Water Act, referred to in subsec. (i)(2)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, also known as the Federal Water Pollution Control Act, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Safe Drinking Water Act, referred to in subsec. (i)(2)(D), is title XIV of act July 1, 1944, as added Pub. L. 93–523, § 2(a), Dec. 16, 1974, 88 Stat. 1660, as amended, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Safe Drinking Water Act, referred to in subsec. (i)(2)(D), is title XIV of act July 1, 1944, as added Pub. L. 93–523, § 2(a), Dec. 16, 1974, 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1992—Subsec. (i). Pub. L. 102–525 substituted “3 years after appointment of the full membership of the Commission” for “3 years after November 18, 1988”.
@@ -40067,7 +40632,7 @@ The administration, protection, and development of the recreation area shall be 
 ### Statutory Notes
 
 #### Termination of Advisory Councils
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-460z-11"></a>

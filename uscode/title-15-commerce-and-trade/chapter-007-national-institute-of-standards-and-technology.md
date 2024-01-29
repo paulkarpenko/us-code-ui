@@ -2,7 +2,7 @@
 title: 15
 chapter: '7'
 heading: NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY
-section_count: 58
+section_count: 59
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -46,6 +46,9 @@ This chapter, referred to in subsec. (b), was in the original “this Act” mea
 Section 5115(c) of Pub. L. 100–418 provided that: “References in any other Federal law to the National Bureau of Standards shall be deemed to refer to the National Institute of Standards and Technology.”
 
 Act Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, created the Department of Labor and renamed the Department of Commerce and Labor as the Department of Commerce.
+
+#### Short Title of 2023 Amendment
+Pub. L. 118–23, § 1, Dec. 19, 2023, 137 Stat. 125, provided that: “This Act [enacting [section 278u of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278u)] may be cited as the ‘Testing, Rapid Analysis, and Narcotic Quality Research Act of 2023’ or the ‘TRANQ Research Act of 2023’.”
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–207, § 1, Dec. 4, 2020, 134 Stat. 1001, provided that: “This Act [enacting sections 278g–3a to 278g–3e of this title and provisions set out as a note under [section 278g–3a of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3a)] may be cited as the ‘Internet of Things Cybersecurity Improvement Act of 2020’ or the ‘IoT Cybersecurity Improvement Act of 2020’.”
@@ -239,7 +242,7 @@ Paragraphs (19) and (20), referred to in subsec. (c)(25) and (26), were redesign
 #### Amendments
 2022—Subsec. (b)(4). Pub. L. 117–167, § 10242(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to enter into contracts, including cooperative research and development arrangements, and grants and cooperative agreements, in furtherance of the purposes of this chapter;”.
 
-Subsec. (c)(16). Pub. L. 117–167, § 10223(3), added par. (16). Former par. (16) redesignated (17).
+Subsec. (c)(16). Pub. L. 117–167, § 10223(3), added par. (16). Former par. (16) redesignated (21).
 
 Pub. L. 117–167, § 10223(1), substituted semicolon for period at end.
 
@@ -286,7 +289,7 @@ Par. (20). Pub. L. 100–235 added par. (20).
 1950—Act July 22, 1950, provided basic authority for performance of certain functions and activities of Department of Commerce.
 
 #### Change of Name
-Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in [section 651(5) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section651/5&num=0&edition=prelim), Domestic Security, see [section 652a(c)(3) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.
+Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in [section 650 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim), Domestic Security, see [section 652a(c)(3) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.
 
 #### Construction of Pub. L. 115–236
 Pub. L. 115–236, § 2(d), Aug. 14, 2018, 132 Stat. 2445, provided that: “Nothing in this section [amending this section and enacting provisions set out as notes under this section] may be construed to supersede, alter, or otherwise affect any cybersecurity requirements applicable to Federal agencies.”
@@ -753,7 +756,7 @@ Subsec. (b). Pub. L. 95–422, § 1(b), inserted provision authorizing appropria
 1976—Subsec. (b). Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $1,275,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $5,500,000 for the fiscal year ending Sept. 30, 1977, and not to exceed $6,000,000 for the fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated not to exceed $3,500,000 for the fiscal year ending June 30, 1975, and not to exceed $4,000,000 for the fiscal year ending June 30, 1976.
 
 #### Termination of Advisory Councils
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Combination of Fire Research and Building Technology Programs
 Pub. L. 102–245, title I, § 104(g), Feb. 14, 1992, 106 Stat. 11, provided that: “The fire research and building technology programs of the Institute may be combined for administrative purposes only, and separate budget accounts for fire research and building technology shall be maintained. No later than December 31, 1992, the Secretary, acting through the Director of the Institute, shall report to Congress on the results of the combination, on efforts to preserve the integrity of the fire research and building technology programs, on the long-range basic and applied research plans of the two programs, on procedures for receiving advice on fire and earthquake research priorities from constituencies concerned with public safety, and on the relation between the combined program at the Institute and the United States Fire Administration.”
@@ -762,7 +765,7 @@ Pub. L. 102–245, title I, § 104(g), Feb. 14, 1992, 106 Stat. 11, provided tha
 Pub. L. 90–259, §§ 101, 103, 104, and 201–207, established the National Commission on Fire Prevention and Control, directed the commission to study and investigate measures to reduce the destructive effects of fire throughout the country, and provided that the commission cease to exist thirty days after the submission of its report which was to be made no later than two years after the commission had been organized.
 
 #### Executive Order No. 11654
-Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 19, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11654, Mar. 13, 1972, 37 F.R. 5361, which established in the Department of Commerce the Federal Fire Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 19, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-278g"></a>
@@ -1061,7 +1064,7 @@ Subsec. (c)(3). Pub. L. 117–167, § 10246(a)(2)(A), amended par. (3) generally
 
 Subsec. (d)(1). Pub. L. 117–167, § 10246(a)(2)(B)(i), substituted “Secretary of Commerce” for “Director of the Office of Management and Budget”.
 
-Subsec. (d)(8). Pub. L. 117–167, § 10246(a)(2)(B)(ii), which directed the substitution of “Secretary of Commerce with such standards submitted to the Secretary” for “Director of Management and Budget with such standards submitted to the Director” was executed by making the substitution for “Director of the Office of Management and Budget with such standards submitted to the Director” to reflect the probable intent of Congress.
+Subsec. (d)(8). Pub. L. 117–167, § 10246(a)(2)(B)(ii), which directed the substitution of “Secretary of Commerce with such standards submitted to the Secretary” for “Director of Management and Budget with such standards submitted to the Director”, was executed by making the substitution for “Director of the Office of Management and Budget with such standards submitted to the Director” to reflect the probable intent of Congress.
 
 2021—Subsec. (a)(5). Pub. L. 116–283 added par. (5).
 
@@ -1302,7 +1305,7 @@ In this Act:
 
 (7) **Secretary** — The term “Secretary” means the Secretary of Homeland Security.
 
-(8) **Security vulnerability** — The term “security vulnerability” has the meaning given that term in [section 1501(17) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1501/17&num=0&edition=prelim).
+(8) **Security vulnerability** — The term “security vulnerability” has the meaning given that term in [section 650 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1311,6 +1314,9 @@ This Act, referred to in text, is Pub. L. 116–207, Dec. 4, 2020, 134 Stat. 100
 
 #### Codification
 Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+#### Amendments
+2022—Par. (8). Pub. L. 117–263 substituted “[section 650 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim)” for “[section 1501(17) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1501/17&num=0&edition=prelim)”.
 
 #### Sense of Congress
 Pub. L. 116–207, § 2, Dec. 4, 2020, 134 Stat. 1001, provided that: “It is the sense of Congress that— “(1) ensuring the highest level of cybersecurity at agencies in the executive branch is the responsibility of the President, followed by the Director of the Office of Management and Budget, the Secretary of Homeland Security, and the head of each such agency; “(2) this responsibility is to be carried out by working collaboratively within and among agencies in the executive branch, industry, and academia; “(3) the strength of the cybersecurity of the Federal Government and the positive benefits of digital technology transformation depend on proactively addressing cybersecurity throughout the acquisition and operation of Internet of Things devices by the Federal Government; and “(4) consistent with the second draft National Institute for Standards and Technology Interagency or Internal Report 8259 titled ‘Recommendations for IoT Device Manufacturers: Foundational Activities and Core Device Cybersecurity Capability Baseline’, published in January 2020, Internet of Things devices are devices that—“(A) have at least one transducer (sensor or actuator) for interacting directly with the physical world, have at least one network interface, and are not conventional Information Technology devices, such as smartphones and laptops, for which the identification and implementation of cybersecurity features is already well understood; and “(B) can function on their own and are not only able to function when acting as a component of another device, such as a processor.”
@@ -1480,6 +1486,9 @@ For definitions of terms used in this section, see [section 278g–3a of this ti
 #### Codification
 Section was enacted as part of the Internet of Things Cybersecurity Improvement Act of 2020, also known as the IoT Cybersecurity Improvement Act of 2020, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
 
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Definitions
 For definitions of terms used in this section, see [section 278g–3a of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g-3a).
 
@@ -1557,7 +1566,7 @@ Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pu
 Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim), Domestic Security.
 
 #### Termination of Advisory Boards
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-278g-5"></a>
@@ -1775,7 +1784,7 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 (2) standards for privacy and security of datasets with human characteristics.
 
-**(g) Testbeds** In coordination with other Federal agencies as appropriate, the private sector, and institutions of higher education (as such term is defined in section 1001of title 20), the Director may establish testbeds, including in virtual environments, to support the development of robust and trustworthy artificial intelligence and machine learning systems, including testbeds that examine the vulnerabilities and conditions that may lead to failure in, malfunction of, or attacks on such systems.
+**(g) Testbeds** In coordination with other Federal agencies as appropriate, the private sector, and institutions of higher education (as such term is defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)), the Director may establish testbeds, including in virtual environments, to support the development of robust and trustworthy artificial intelligence and machine learning systems, including testbeds that examine the vulnerabilities and conditions that may lead to failure in, malfunction of, or attacks on such systems.
 
 **(h) Authorization of appropriations** There are authorized to be appropriated to the National Institute of Standards and Technology to carry out this section—
 
@@ -2111,11 +2120,11 @@ The Director may periodically contract with the National Research Council for ad
 
     (iii) assessments of current performance against the plans of the Program.
 
-(4) **FACA applicability**
+(4) **Applicability of chapter 10 of title 5**
 
-  (A) *In general* — In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
+  (A) *In general* — In discharging its duties under this subsection, the MEP Advisory Board shall function solely in an advisory capacity, in accordance with chapter 10 of title 5.
 
-  (B) *Exception* — Section 14 of the Federal Advisory Committee Act shall not apply to the MEP Advisory Board.
+  (B) *Exception* — [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the MEP Advisory Board.
 
 (5) **Annual report**
 
@@ -2138,8 +2147,6 @@ The Director may periodically contract with the National Research Council for ad
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (m)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Subsections (c) and (d) of [section 278i of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278i), referred to in subsec. (m)(5)(B), which related to 3-year programmatic planning documents and annual updates, were repealed by Pub. L. 114–329, title II, § 204(a)(1)(B)(i), Jan. 6, 2017, 130 Stat. 2998.
 
 #### Amendments
@@ -2166,6 +2173,12 @@ Pub. L. 117–167, § 10252(b)(3)(C), inserted “United States-based” before 
 Subsec. (f)(5)(B)(i). Pub. L. 117–167, § 10252(b)(4), inserted before semicolon at end “in the United States”.
 
 Subsec. (l). Pub. L. 117–167, § 10252(a), amended subsec. (l) generally. Prior to amendment, text read as follows: “In addition to such sums as may be appropriated to the Secretary and Director to operate the Program, the Secretary and Director may also accept funds from other Federal departments and agencies and from the private sector under [section 272(c)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section272/c/7&num=0&edition=prelim), to be available to the extent provided by appropriations Acts, for the purpose of strengthening United States manufacturing.”
+
+Subsec. (m)(4). Pub. L. 117–286, § 4(a)(65)(A), substituted “Applicability of chapter 10 of title 5” for “FACA applicability” in heading.
+
+Subsec. (m)(4)(A). Pub. L. 117–286, § 4(a)(65)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
+Subsec. (m)(4)(B). Pub. L. 117–286, § 4(a)(65)(C), substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act”.
 
 Subsec. (n)(1)(A). Pub. L. 117–167, § 10252(b)(5), inserted “United States-based” before “small”.
 
@@ -2343,7 +2356,7 @@ Provisions similar to this section were contained in [section 278k(f) of this ti
 
   (D) establishing partnerships, for the development, demonstration, and deployment of advanced technologies, with—
 
-    (i) national laboratories (as defined in section 15801of title 42);
+    (i) national laboratories (as defined in [section 15801 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15801&num=0&edition=prelim));
 
     (ii) Federal laboratories;
 
@@ -2768,13 +2781,21 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (D) are located in small and rural communities.
 
-**(f) Grant program for public service activities for Manufacturing USA institutes without Federal funding** The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
+**(f) Authority to award financial assistance for construction of test beds and specialized facilities**
+
+(1) **In general** — The Secretary may, acting through the Director, award financial assistance for the construction of test beds and specialized facilities by Manufacturing USA institutes established or supported under subsection (e) as the Secretary considers appropriate to carry out the purposes of the Program.
+
+(2) **Requirements** — The Secretary shall exercise authority under paragraph (1) in a manner and with requirements consistent with paragraphs (3) through (8) of subsection (e).
+
+(3) **Priority** — The Secretary shall establish preferences in selection criteria for proposals for financial assistance under this subsection from Manufacturing USA institutes that integrate as active members one or more covered entities as described in [section 18971 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18971&num=0&edition=prelim).
+
+**(g) Grant program for public service activities for Manufacturing USA institutes without Federal funding** The Secretary may award a grant on a competitive basis to a Manufacturing USA institute that is not receiving financial assistance under subsection (e) to carry out workforce development, outreach to small- and medium-sized manufacturers, and other activities that—
 
 (1) are determined by the Secretary to be in the national interest; and
 
 (2) are unlikely to receive private sector financial support.
 
-**(g) Authorization of appropriations**
+**(h) Authorization of appropriations**
 
 (1) **NIST Industrial Technical Services account** — To the extent provided for in advance by appropriations Acts, the Secretary may use amounts appropriated to the Industrial Technical Services account to carry out this section as follows:
 
@@ -2788,7 +2809,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (B) $84,000,000 for each of fiscal years 2023 and 2024.
 
-**(h) National Program Office**
+**(i) National Program Office**
 
 (1) **Establishment** — The Secretary shall establish, within the Institute, the National Office of the Manufacturing USA Network (referred to in this section as the “National Program Office”), which shall oversee and carry out the Program.
 
@@ -2852,7 +2873,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (C) *Duties of the council* — The council established pursuant to subparagraph (A) shall assist the National Program Office in carrying out the functions of the National Program Office under paragraph (2).
 
-**(i) Reporting and auditing**
+**(j) Reporting and auditing**
 
 (1) **Annual reports to the Secretary**
 
@@ -2902,7 +2923,7 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (C) *Final assessment* — No later than December 31, 2030, the Comptroller General shall submit to Congress a final report regarding the overall success of the Program.
 
-**(j) Additional authorities**
+**(k) Additional authorities**
 
 (1) **Appointment of personnel and contracts** — The Secretary may appoint such personnel and enter into such contracts, financial assistance agreements, and other agreements as the Secretary considers necessary or appropriate to carry out the Program, including support for research and development activities involving a Manufacturing USA institute.
 
@@ -2940,9 +2961,9 @@ Another section 32 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 
   (K) additional programs that the Secretary determines are appropriate to support the activities of existing Manufacturing USA institutes.2
 
-**(k) Patents** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
+**(l) Patents** Chapter 18 of title 35 shall apply to any funding agreement (as defined in section 201 of that title) awarded to new or existing Manufacturing USA institutes with respect to which financial assistance is awarded under subsection (e).
 
-**(l) References to prior names and terminology** Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
+**(m) References to prior names and terminology** Any reference in law, regulation, map, document, paper, or other record of the United States to the “Network for Manufacturing Innovation Program”, the “Network for Manufacturing Innovation”, “National Office of the Network for Manufacturing Innovation Program”, or a “center for manufacturing innovation” shall be considered to be a reference to the Manufacturing USA Program, the Manufacturing USA Network, the National Office of the Manufacturing USA Network, or a Manufacturing USA institute, respectively.
 
 ### Statutory Notes
 
@@ -2952,11 +2973,15 @@ A prior section 34 of act Mar. 3, 1901, ch. 872, was renumbered section 35 and i
 #### Amendments
 2022—Subsec. (e)(8). Pub. L. 117–167, § 10261, added par. (8).
 
+Subsecs. (f) to (h). Pub. L. 117–263, § 5911, added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
+
 Subsec. (h)(2)(C). Pub. L. 117–167, § 10263(c), inserted “, including a strategy for retaining domestic public benefits from Manufacturing USA institutes once Federal funding has been discontinued” after “Program”.
 
 Subsec. (h)(2)(J). Pub. L. 117–167, § 10263(d), inserted “, including the development of industry credentials” after “activities”.
 
 Subsec. (h)(7). Pub. L. 117–167, § 10263(b), added par. (7).
+
+Subsecs. (i) to (m). Pub. L. 117–263, § 5911(1), redesignated subsecs. (h) to (l) as (i) to (m), respectively.
 
 2019—Pub. L. 116–92 amended section generally. Prior to amendment, section related to Network for Manufacturing Innovation.
 
@@ -3023,6 +3048,72 @@ Pub. L. 113–235, div. B, title VII, § 702, Dec. 16, 2014, 128 Stat. 2220, pro
   (F) other activities as determined necessary by the Director.
 
 
+<a id="section-278u"></a>
+## § 278u. Xylazine detection and analysis
+**(a) Definitions** In this section:
+
+(1) **Director** — The term “Director” means the Director of the National Institute of Standards and Technology.
+
+(2) **Federal laboratory** — The term “Federal laboratory” has the meaning given such term in [section 3703 of this title](./chapter-063-technology-innovation.md#section-3703).
+
+(3) **Institute** — The term “Institute” means the National Institute of Standards and Technology.
+
+(4) **Institution of higher education** — The term “institution of higher education” has the meaning given such term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim).
+
+(5) **Nonprofit organization** — The term “nonprofit organization” means an organization described in [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title.
+
+(6) **Xylazine** — The term “xylazine” means the nonopioid tranquilizer methyl benzene compound frequently used in veterinary medicine as an emetic and sedative with analgesic and muscle relaxant properties.
+
+**(b) In general** The Director shall—
+
+(1) support intramural basic measurement science and research of the Institute to advance—
+
+  (A) analytical methods to identify, understand, differentiate, and categorize substances containing xylazine, novel synthetic opioids, or other new psychoactive substances;
+
+  (B) measurement technologies to shorten analysis timelines and enhance narcotic and opioid detection and analysis capabilities;
+
+  (C) new data tools, techniques, and processes to identify and publicly disclose relevant information concerning substances containing xylazine, novel synthetic opioids, or other new psychoactive substances; and
+
+  (D) such other areas as the Director determines to be critical to the development and deployment of technologies to measure and analyze the presence of xylazine, novel synthetic opioids, and other new psychoactive substances;
+
+(2) support activities to inform and expand the development of near-real time spectrometry capabilities regarding xylazine, novel synthetic opioids, and other new psychoactive substances;
+
+(3) convene and consult with organizations engaged in the analysis of new psychoactive substances to develop coordinated strategies and voluntary best practices for the safe handling, transport, data-sharing, and analysis of substances containing xylazine, novel synthetic opioids, or other new psychoactive substances, including—
+
+  (A) the Drug Enforcement Administration;
+
+  (B) the Centers for Disease Control and Prevention;
+
+  (C) the National Institute on Drug Abuse;
+
+  (D) Federal laboratories;
+
+  (E) States and territories;
+
+  (F) State fusion centers;
+
+  (G) the private sector;
+
+  (H) intergovernmental organizations;
+
+  (I) institutions of higher education,11 So in original. The comma probably should be a semicolon. and
+
+  (J) nonprofit organizations;
+
+(4) establish or expand collaborative partnerships or consortia with other government agencies and persons engaged in related research and development, such as institutions of higher education, Federal laboratories, public health agencies, intergovernmental organizations, and the private sector, to enhance narcotic and opioid detection and analysis capabilities regarding xylazine, novel synthetic opioids, and other new psychoactive substances; and
+
+(5) encourage graduate and post-graduate research to include detection and identification of xylazine and other new psychoactive substances in relevant course studies when practicable.
+
+**(c) Controls** In carrying out activities under this section, the Director shall ensure proper security controls are implemented to protect sensitive information, as the Director considers appropriate and consistent with applicable provisions of law.
+
+**(d) Report** Not later than 1 year after December 19, 2023, the Director shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report on the implementation of this section. Such report may include recommendations for legislative action to improve the ability of the Director to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Testing, Rapid Analysis, and Narcotic Quality Research Act of 2023, also known as the TRANQ Research Act of 2023, and not as part of the National Institute of Standards and Technology Act which comprises this chapter.
+
+
 <a id="section-279"></a>
 ## § 279. Absence of Director
 
@@ -3058,7 +3149,7 @@ The National Institute of Standards and Technology, on its own initiative but on
 ### Statutory Notes
 
 #### References in Text
-The National Construction Safety Team Act, referred to in text, is Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, as amended, which is classified generally to chapter 99 [§ 7301 et seq.] of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7301 of this title](./chapter-099-national-construction-safety-team.md#section-7301) and Tables.
+The National Construction Safety Team Act, referred to in text, is Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, which is classified generally to chapter 99 [§ 7301 et seq.] of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7301 of this title](./chapter-099-national-construction-safety-team.md#section-7301) and Tables.
 
 #### Codification
 Section was not enacted as part of the National Institute of Standards and Technology Act which comprises this chapter.

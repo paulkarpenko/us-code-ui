@@ -60,7 +60,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 7540. Architectural and engineering services
 **(a)** Whenever he considers that it is advantageous to the national defense and that existing facilities of the Department of the Army are inadequate, the Secretary of the Army may, by contract or otherwise, employ the architectural or engineering services of any person outside that Department for producing and delivering designs, plans, drawings, and specifications needed for any public works or utilities project of the Department.
 
-**(b)** The fee for any service under this section may not be more than 6 percent of the estimated cost, as determined by the Secretary, of the project to which it applies.
+**(b)** The fee for any service under this section may not be more than 10 percent of the estimated cost, as determined by the Secretary, of the project to which it applies.
 
 **(c)** Sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5 do not apply to employment under this section.
 
@@ -78,6 +78,8 @@ In subsection (a), the words “and providing that in the opinion” are omitted
 In subsection (c), reference is made in substance to the Classification Act of 1949, instead of the Classification Act of 1923 referred to in the source statute, since section 1106(a) of the Classification Act of 1949, 63 Stat. 972, provides that all references in other acts to the Classification Act of 1923 should be considered to refer to the Classification Act of 1949.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31 substituted “10 percent” for “6 percent”.
+
 2018—Pub. L. 115–232 renumbered [section 4540 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4540&num=0&edition=prelim) as this section.
 
 1980—Subsec. (c). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of title 5”.
@@ -92,7 +94,7 @@ Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1978 Amendment
 Amendment by section 703(c)(3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees.
@@ -232,7 +234,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 99–500, § 101(c) [title IX, § 9036(c)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–108, Pub. L. 99–591, § 101(c) [title IX, § 9036(c)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–108, and Pub. L. 99–661, div. A, title XII, § 1203(b), Nov. 14, 1986, 100 Stat. 3969, provided that: “Section 4542 [now 7542] of title 10, United States Code, as added by subsection (a), shall apply with respect to funds appropriated for fiscal years after fiscal year 1986.”
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-7543"></a>

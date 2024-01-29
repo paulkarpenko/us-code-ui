@@ -103,9 +103,6 @@ Pub. L. 110–181, div. A, title III, § 351(c)(1), Jan. 28, 2008, 122 Stat. 70,
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
-
 
 <a id="section-10542"></a>
 ## § 10542. Repealed. Pub. L. 114–92, div. A, title X, § 1073(c)(1), Nov. 25, 2015, 129 Stat. 996]

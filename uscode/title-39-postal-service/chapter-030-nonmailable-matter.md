@@ -482,7 +482,7 @@ Amendment by Pub. L. 100–625 effective 18 months after Nov. 7, 1988, see secti
 Section effective July 1, 1971, pursuant to Resolution No. 71–9 of the Board of Governors. See section 15(a) of Pub. L. 91–375, set out as a note preceding [section 101 of this title](./chapter-001-postal-policy-and-definitions.md#section-101).
 
 #### Consumer Education Program on Schemes Involving False Representations
-Pub. L. 98–186, § 4, Nov. 30, 1983, 97 Stat. 1317, as amended by Pub. L. 104–66, title II, § 2211(a), Dec. 21, 1995, 109 Stat. 732, provided that: “(a) As soon as practicable after the date of enactment of this Act [Nov. 30, 1983], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme. “(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
+Pub. L. 98–186, § 4, Nov. 30, 1983, 97 Stat. 1317, as amended by Pub. L. 104–66, title II, § 2211(a), Dec. 21, 1995, 109 Stat. 732; Pub. L. 117–286, § 4(b)(68), Dec. 27, 2022, 136 Stat. 4350, provided that: “(a) As soon as practicable after the date of enactment of this Act [Nov. 30, 1983], the Postmaster General or his designee, following consultation with representatives of the mail order industry, shall develop and carry out a program designed to provide consumer education to the public on schemes involving false representations through use of the mails, including the dissemination of information on recognizing practices commonly associated with such schemes, as well as appropriate measures which an individual may take upon receiving mail matter which the individual believes may be part of such a scheme. “(b) A summary of the activities carried out under subsection (a) shall be included in the first semiannual report submitted each year as required under [section 405 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-3006"></a>
@@ -697,14 +697,13 @@ The Postmaster General shall submit semi­annual reports to the Inspector Genera
 (5) the number of cases in which the authority described in section 3016 was used, and a comprehensive statement describing how that authority was used in each of those cases; and
 
 (6) such other information relating to the investigative activities of the Postal Service as the Inspector General may require.
-The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under section 5 of the Inspector General Act of 1978 for the same reporting period. Nothing in this section shall be considered to permit or require that any report by the Postmaster General under this section include any information relating to activities of the Inspector General.
+The information in a report submitted under this section to the Inspector General with respect to a reporting period shall be included as part of the semiannual report prepared by the Inspector General under [section 405 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim) for the same reporting period. Nothing in this section shall be considered to permit or require that any report by the Postmaster General under this section include any information relating to activities of the Inspector General.
 
 ### Statutory Notes
 
-#### References in Text
-Section 5 of the Inspector General Act of 1978, referred to in text, is section 5 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Pub. L. 117–286 substituted “[section 405 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim)” for “section 5 of the Inspector General Act of 1978” in concluding provisions.
+
 1999—Pub. L. 106–168, § 110(b)(1), in introductory provisions, substituted “Inspector General” for “Board” and “1 month (or such shorter length of time as the Inspector General may specify)” for “sixty days” and substituted concluding provisions for former concluding provisions which read as follows: “Upon approval of a report submitted under the first sentence of this section, the information in such report shall be included in the next semiannual report required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
 
 Par. (5). Pub. L. 106–168, § 107(c), added par. (5). Former par. (5) redesignated (6).
@@ -763,7 +762,7 @@ Pub. L. 100–574, § 4, Oct. 31, 1988, 102 Stat. 2894, provided that: “(a) In
 #### References in Text
 Sections 103 and 104 of the Federal Plant Pest Act ([7 U.S.C. 150bb](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section150bb&num=0&edition=prelim), 150cc), referred to in subsec. (b), were repealed by Pub. L. 106–224, title IV, § 438(a)(2), June 20, 2000, 114 Stat. 454.
 
-The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, as amended, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
+The Plant Quarantine Act, referred to in subsec. (c), is act Aug. 20, 1912, ch. 308, 37 Stat. 315, which was classified generally to chapter 8 (§ 151 et seq.) of Title 7, Agriculture, prior to repeal by Pub. L. 106–224, title IV, § 438(a)(1), June 20, 2000, 114 Stat. 454. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title
 Pub. L. 102–393, title VI, § 631(e), Oct. 6, 1992, 106 Stat. 1776, provided that: “This section [enacting this section and provisions set out below] may be cited as the ‘Alien Species Prevention and Enforcement Act of 1992’.”

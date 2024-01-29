@@ -2,7 +2,7 @@
 title: 10
 chapter: '363'
 heading: PROHIBITION AND PENALTIES
-section_count: 10
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -492,3 +492,41 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
+
+
+<a id="section-4661"></a>
+## § 4661. Prohibition on certain procurements from the Xinjiang Uyghur Autonomous Region
+**(a) Prohibition on the Availability of Funds for Certain Procurements From XUAR.—** None of the funds authorized to be appropriated by a national defense authorization Act or any other Act, or otherwise made available for any fiscal year for the Department of Defense, may be obligated or expended to knowingly procure any products mined, produced, or manufactured wholly or in part by forced labor from XUAR or from an entity that has used labor from within or transferred from XUAR as part of a “poverty alleviation” or “pairing assistance” program.
+
+**(b) Definitions.—** In this section, the terms “forced labor” and “XUAR” have the meanings given, respectively, in [section 2496 of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2496).
+
+### Statutory Notes
+
+#### Policy Required
+Pub. L. 117–263, div. A, title VIII, § 855(d), Dec. 23, 2022, 136 Stat. 2723, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue a policy to require that an offeror or awardee of a Department of Defense contract shall make a good faith effort to determine that forced labor from XUAR, as described in [section 4661 of title 10](./chapter-363-prohibition-and-penalties.md#section-4661), United States Code (as amended by subsection (b)), will not be used in the performance of such contract.”
+
+
+<a id="section-4662"></a>
+## § 4662. Prohibition on the transfer of certain data on employees of the Department of Defense to third parties
+**(a) In General.—** Each contract entered into by the Department of Defense on or after the date of the enactment of this section shall include a provision prohibiting the contractor and each subcontractor under such contract from selling, licensing, or otherwise transferring covered individually identifiable Department employee data to any individual or entity other than the Federal Government, except to the extent required to perform such contract or a subcontract under such contract and that would be permissible pursuant to statute or guidance from the Director of the Office of Management and Budget.
+
+**(b) Waiver.—** The Secretary of Defense may waive the requirements of subsection (a) with respect to a sale, licensing, or other transfer of covered individually identifiable Department employee data if the Secretary determines that such waiver is appropriate.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered individually identifiable Department employee data” means individually identifiable Department employee data obtained by—
+
+  (A) a contractor pursuant to the performance of a contract described in subsection (a) by such contractor; or
+
+  (B) a subcontractor pursuant to the performance of a subcontract under such a contract by such subcontractor.
+
+(2) The term “individually identifiable Department employee data” means information related to an employee of the Department of Defense, including a member of the Armed Forces, that—
+
+  (A) identifies such employee; or
+
+  (B) which may be used to infer, by either direct or indirect means, the identity of such an employee to whom the information applies.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.

@@ -198,6 +198,9 @@ A prior section 10404, Pub. L. 98–457, title III, § 305, Oct. 9, 1984, 98 Sta
 
 A prior section 304 of Pub. L. 98–457 was classified to [section 10403 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10403) prior to the general amendment of this chapter by Pub. L. 111–320.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-10405"></a>
 ## § 10405. Allotment of funds
@@ -330,6 +333,9 @@ The Civil Rights Act of 1964, referred to in subsec. (c)(2)(A), (C)(ii), is Pub.
 A prior section 10406, Pub. L. 98–457, title III, § 307, Oct. 9, 1984, 98 Stat. 1761, related to prohibition of discrimination, prior to the general amendment of this chapter by Pub. L. 111–320. See subsec. (c)(2) of this section.
 
 A prior section 306 of Pub. L. 98–457 was classified to [section 10405 of this title](./chapter-110-family-violence-prevention-and-services.md#section-10405) prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-10407"></a>
@@ -885,6 +891,9 @@ A prior section 10413, Pub. L. 98–457, title III, § 313, as added Pub. L. 100
 
 #### Prior Provisions
 A prior section 10414, Pub. L. 98–457, title III, § 314, as added Pub. L. 102–295, title III, § 320, May 28, 1992, 106 Stat. 209, related to grants for public information campaigns, prior to the general amendment of this chapter by Pub. L. 111–320.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-10415"></a>

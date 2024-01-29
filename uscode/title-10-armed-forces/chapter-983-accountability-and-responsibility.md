@@ -135,13 +135,13 @@ Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, pr
 Pub. L. 109–163, div. A, title VI, § 683(c)(3), Jan. 6, 2006, 119 Stat. 3324, which provided for termination of amendments by Pub. L. 109–163, § 683(c), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, § 673(c)(3), Oct. 17, 2006, 120 Stat. 2272.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–649 effective on Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Regulations
 Secretary of Defense to prescribe regulations required for purposes of this section, as amended by Pub. L. 109–364, not later than Mar. 1, 2007, see section 673(d) of Pub. L. 109–364, set out as a note under [section 4837 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4837&num=0&edition=prelim).

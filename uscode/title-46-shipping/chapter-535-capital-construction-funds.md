@@ -63,7 +63,7 @@ In this chapter:
 
     (ii) documented under the laws of the United States; and
 
-    (iii) agreed, between the Secretary and the person maintaining the capital construction fund established under [section 53503 of this title](./chapter-535-capital-construction-funds.md#section-53503), to be operated in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States; and
+    (iii) agreed, between the Secretary and the person maintaining the capital construction fund established under [section 53503 of this title](./chapter-535-capital-construction-funds.md#section-53503), to be operated in the foreign or domestic trade of the United States or in the fisheries of the United States; and
 
   (B) a commercial fishing vessel—
 
@@ -129,6 +129,8 @@ In paragraph (2)(A)(iii), the word “trade” is substituted for “commerce”
 Section 506 of the Merchant Marine Act, 1936, referred to in par. (8), is section 506 of act June 29, 1936, ch. 858, 49 Stat. 1985, which is set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101).
 
 #### Amendments
+2022—Par. (5)(A)(iii). Pub. L. 117–263 substituted “foreign or domestic trade of the United States” for “United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade”.
+
 2018—Par. (5)(A)(iii). Pub. L. 115–232, § 3546(q)(1), substituted “transportation trade or” for “transportation trade trade or”.
 
 Par. (7). Pub. L. 115–232, § 3546(q)(3), struck out par. (7), as added by Pub. L. 109–304, § 8(c), which read as follows: “The term ‘United States foreign trade’ includes those areas in domestic trade in which a vessel built with a construction-differential subsidy is allowed to operate under the first sentence of section 506 of the Merchant Marine Act, 1936.”
@@ -165,7 +167,7 @@ In subsection (b), the words “not inconsistent with the foregoing provisions o
 ## § 53503. Establishing a capital construction fund
 **(a) In General.—** A citizen of the United States owning or leasing an eligible vessel may make an agreement with the Secretary under this chapter to establish a capital construction fund for the vessel.
 
-**(b) Allowable Purpose.—** The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade or in the fisheries of the United States.
+**(b) Allowable Purpose.—** The purpose of the agreement shall be to provide replacement vessels, additional vessels, or reconstructed vessels, built in the United States and documented under the laws of the United States, for operation in the foreign or domestic trade of the United States or in the fisheries of the United States.
 
 ### Statutory Notes
 
@@ -176,6 +178,8 @@ In subsection (b), the words “not inconsistent with the foregoing provisions o
 | 53503(b) | 46 App.:1177(a) (2d sentence related to purpose). |  |
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 substituted “foreign or domestic trade of the United States” for “United States foreign, Great Lakes, noncontiguous domestic, or short sea transportation trade”.
+
 2007—Subsec. (b). Pub. L. 110–140 substituted “noncontiguous domestic, or short sea transportation trade” for “or noncontiguous domestic trade”.
 
 #### Effective Date of 2007 Amendment

@@ -44,7 +44,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (3) **Offeror for subcontract.—** — An offeror for a subcontract (at any tier) of a contract under this chapter shall be required to submit cost or pricing data before the award of the subcontract if the prime contractor and each higher-tier subcontractor have been required to make available cost or pricing data under this chapter and the price of the subcontract is expected to exceed $2,000,000.
 
-(4) **Subcontractor.—** — The subcontractor for a subcontract covered by subparagraph (C) 11 So in original. Probably should be “paragraph (3)”. shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
+(4) **Subcontractor.—** — The subcontractor for a subcontract covered by paragraph (3) shall be required to submit cost or pricing data before the pricing of a change or modification to the subcontract if the price adjustment is expected to exceed $2,000,000.
 
 **(b) Certification.—** A person required, as an offeror, contractor, or subcontractor, to submit cost or pricing data under subsection (a) (or required by the head of the agency concerned to submit such data under [section 3704 of this title](./chapter-271-truthful-cost-or-pricing-data-truth-in-negotiations.md#section-3704)) shall be required to certify that, to the best of the person’s knowledge and belief, the cost or pricing data submitted are accurate, complete, and current.
 
@@ -58,19 +58,20 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 **(e) Subcontracts Not Affected by Waiver.—** A waiver of requirements for submission of certified cost or pricing data that is granted under [section 3703(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3703/a/3&num=0&edition=prelim) in the case of a contract or subcontract does not waive the requirement under subsection (a)(3) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that subsection should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
 
-**(f) Modifications to Prior Contracts.—** Under subsection (a), in connection with a prime contract entered into on or before June 30, 2018, the head of the agency that entered into such contract shall modify the contract as soon as practicable to reflect subparagraphs (B) and (C) of such paragraph,22 See References in Text note below. without requiring consideration.
+**(f) Modifications to Prior Contracts.—** Under subsection (a), in connection with a prime contract entered into on or before June 30, 2018, the head of the agency that entered into such contract shall modify the contract as soon as practicable to reflect paragraphs (1) and (2) of such subsection, without requiring consideration.
 
 **(g) Adjustment of Amounts.—** Effective on October 1 of each year that is divisible by 5, each amount set forth in subsection (a) shall be adjusted in accordance with [section 1908 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1908&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### References in Text
-Subparagraphs (B) and (C) of such paragraph, referred to in subsec. (f), probably mean pars. (2) and (3) of subsec. (a) of this section, which were transferred and redesignated from subpars. (B) and (C) of par. (1) of subsec. (a) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim) by Pub. L. 116–283. See 2021 Amendment notes below.
-
 #### Codification
 The text of subsec. (a) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1831(c), was based on Pub. L. 99–500, § 101(c) [title X, § 952(a)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–166, and Pub. L. 99–591, § 101(c) [title X, § 952(a)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–166; Pub. L. 99–661, div. A, title IX, formerly title IV, § 952(a), Nov. 14, 1986, 100 Stat. 3945, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 100–180, div. A, title VIII, § 804(b)(1), Dec. 4, 1987, 101 Stat. 1125; Pub. L. 101–510, div. A, title VIII, § 803(a)(1), Nov. 5, 1990, 104 Stat. 1589; Pub. L. 102–25, title VII, § 701(b), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, § 804(a)–(c)(1), Dec. 5, 1991, 105 Stat. 1415, 1416; Pub. L. 103–355, title I, §§ 1201, 1202(b), Oct. 13, 1994, 108 Stat. 3273, 3274; Pub. L. 105–85, div. A, title X, § 1073(a)(46), Nov. 18, 1997, 111 Stat. 1902; Pub. L. 105–261, div. A, title VIII, § 805(a), Oct. 17, 1998, 112 Stat. 2083; Pub. L. 114–328, div. A, title VIII, § 822(1), Dec. 23, 2016, 130 Stat. 2276; Pub. L. 115–91, div. A, title VIII, § 811(a)(1), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 116–283, div. A, § 814(a)(1), Jan. 1, 2021, 134 Stat. 3479; Pub. L. 117–81, div. A, title VIII, § 804(a), Dec. 27, 2021, 135 Stat. 1816. Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 added identical sections. Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2023—Subsec. (a)(4). Pub. L. 118–31, § 1801(a)(29)(A), substituted “paragraph (3)” for “subparagraph (C)”.
+
+Subsec. (f). Pub. L. 118–31, § 1801(a)(29)(B), substituted “paragraphs (1) and (2) of such subsection” for “subparagraphs (B) and (C) of such paragraph”.
+
 2021—Pub. L. 116–283, § 1831(c)(1), (2)(A), transferred subsec. (a) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim) to this section and redesignated pars. (1) to (7) of such former subsec. (a) as subsecs. (a) to (g), respectively.
 
 Subsec. (a). Pub. L. 116–283, § 1831(c)(2)(A), (B), (3), as amended by Pub. L. 117–81, § 1701(b)(10)(B), after redesignation of [section 2306a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/a/1&num=0&edition=prelim) as subsec. (a) of this section, substituted “When Required” for “Required Cost or Pricing Data and Certification” in heading, redesignated subpars. (A) to (D) as pars. (1) to (4), respectively, and substituted “a prime contract under a chapter 137 legacy provision” for “a prime contract under this chapter” in introductory provisions of pars. (1) and (2).
@@ -272,7 +273,15 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
   (A) Any new determination made by the head of the contracting activity under paragraph (1) shall be reported to the Principal Director, Defense Pricing and Contracting on a quarterly basis.
 
-  (B) The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. The report shall identify products or services offered by such offerors that should undergo should-cost analysis. The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service.
+  (B) The Under Secretary of Defense for Acquisition and Sustainment, or a designee, shall produce an annual report identifying offerors that have denied multiple requests for submission of uncertified cost or pricing data over the preceding three-year period, but nevertheless received an award. The report shall identify products or services offered by such offerors that should undergo should-cost analysis. The Secretary of Defense may include a notation on such offerors in the system used by the Federal Government to monitor or record contractor past performance. The Under Secretary shall assess the extent to which these offerors are sole source providers within the defense industrial base and shall develop strategies to incentivize new entrants into the industrial base to increase the availability of other sources of supply for the product or service. The Under Secretary shall make appropriate portions of the report available to the leadership of the offerors named in such report.
+
+  (C) The Under Secretary of Defense for Acquisition and Sustainment shall develop a framework for revising what constitutes a denial of uncertified cost or pricing data, including—
+
+    (i) identifying situations under which such denials occur to exclude situations outside the control of the offeror or Federal Government;
+
+    (ii) identifying whether such denial is from the prime contractor or subcontractor; and
+
+    (iii) developing an appropriate timeframe for requiring submission of uncertified cost or pricing data before a request for such data is considered a denial, including a standardized determination of a starting point and conclusion for such requests.
 
 **(c) Limitations on authority.—** The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under subsection (a):
 
@@ -288,6 +297,10 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The text of subsec. (d) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1831(f), was based on Pub. L. 103–355, title I, § 1204, Oct. 13, 1994, 108 Stat. 3275; Pub. L. 104–106, div. D, title XLII, § 4201(a)(1) ,Feb. 10, 1996, 110 Stat. 650; Pub. L. 105–261, div. A, title VIII, § 808(a), Oct. 17, 1998, 112 Stat. 2085; Pub. L. 114–92, div. A, title VIII, § 852(e), 853, Nov. 25, 2015, 129 Stat. 918; Pub. L. 115–91, div. A, title VIII, § 811(b), Dec. 12, 2017, 131 Stat. 1459; Pub. L. 115–232, div. A, title VIII, § 836(c)(5)(B), Aug. 13, 2018, 132 Stat. 1865, as amended by Pub. L. 116–283, div. A, title X, § 1081(d)(4)(B)(i), Jan. 1, 2021, 134 Stat. 3874; Pub. L. 116–92, div. A, title VIII, § 803, Dec. 20, 2019, 133 Stat. 1483.
 
 #### Amendments
+2023—Subsec. (b)(2)(B). Pub. L. 118–31, § 802(1), inserted at end “The Under Secretary shall make appropriate portions of the report available to the leadership of the offerors named in such report.”
+
+Subsec. (b)(2)(C). Pub. L. 118–31, § 802(2), added subpar. (C).
+
 2021—Pub. L. 116–283, § 1831(f)(1), transferred subsec. (d) of [section 2306a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a&num=0&edition=prelim) to this section, struck out subsec. (d) designation and heading “Submission of Other Information” at beginning, and redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively, and realigned margins.
 
 Subsec. (a). Pub. L. 116–283, § 1831(f)(2), after redesignation of [section 2306a(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306a/d/1&num=0&edition=prelim) as subsec. (a) of this section, substituted “under this chapter” for “under this section” and “[section 3703(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3703/a/1&num=0&edition=prelim)” for “subsection (b)(1)(A)”.

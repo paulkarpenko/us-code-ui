@@ -121,7 +121,7 @@ This chapter shall not apply to a plant closing or mass layoff if—
 ### Statutory Notes
 
 #### References in Text
-The National Labor Relations Act, referred to in par. (2), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
+The National Labor Relations Act, referred to in par. (2), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
 
 #### Effective Date
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
@@ -211,9 +211,9 @@ The giving of notice pursuant to this chapter, if done in good faith compliance 
 ### Statutory Notes
 
 #### References in Text
-The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
+The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
 
-The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective 6 months after Aug. 4, 1988, see section 11 of Pub. L. 100–379, set out as a note under [section 2101 of this title](./chapter-023-worker-adjustment-and-retraining-notification.md#section-2101).
@@ -227,6 +227,8 @@ Two years after August 4, 1988, the Comptroller General shall submit to the Comm
 ### Statutory Notes
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.

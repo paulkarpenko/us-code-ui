@@ -1082,6 +1082,12 @@ Subsec. (k). Pub. L. 102–550, § 605(b), amended subsec. (k) generally. Prior 
 
 (6) **Use of project reserves** — Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
 
+(7) **Carbon monoxide alarms** — Each dwelling unit assisted under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+
+  (A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+  (B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
 **(k) Definitions** As used in this section—
 
 (1) The term “group home” means a single family residential structure designed or adapted for occupancy by not more than 8 persons with disabilities, which provides a separate bedroom for each tenant of the residence. The Secretary may waive the project size limitation contained in the previous sentence if the applicant demonstrates that local market conditions dictate the development of a larger project. Not later than the date of the exercise of any waiver permitted under the previous sentence, the Secretary shall notify the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives of the waiver or the intention to exercise the waiver, together with a detailed explanation of the reason for the waiver. Not more than 1 home may be located on any one site and no such home may be located on a site contiguous to another site containing such a home.
@@ -1136,17 +1142,37 @@ Subsec. (k). Pub. L. 102–550, § 605(b), amended subsec. (k) generally. Prior 
 ### Statutory Notes
 
 #### Amendment of Subsection (j)
-Pub. L. 116–260, div. Q, title I, § 101(d), (h), Dec. 27, 2020, 134 Stat. 2164, 2165, provided that, effective 2 years after Dec. 27, 2020, subsection (j) of this section is amended by adding at the end the following:
+Pub. L. 117–328, div. AA, title VI, § 601(c), (h), Dec. 29, 2022, 136 Stat. 5545, 5548, provided that, effective two years after Dec. 29, 2022, subsection (j) of this section is amended by adding at the end the following:
 
-“(7) Carbon monoxide alarms
+(8) Qualifying smoke alarms
 
-“Each dwelling unit assisted under this section shall contain installed carbon monoxide alarms or detectors that meet or exceed—
+(A) In general
 
-“(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+Each dwelling unit assisted under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
 
-“(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.”
+(B) Definitions
 
-See 2020 Amendment note below.
+For purposes of this paragraph, the following definitions shall apply:
+
+(i) Smoke alarm defined
+
+The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+(ii) Qualifying smoke alarm defined
+
+The term “qualifying smoke alarm” means a smoke alarm that—
+
+(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+(aa)(AA) is hardwired; or
+
+(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
+See 2022 Amendment note below.
 
 #### References in Text
 The HOME Investment Partnerships Act, referred to in subsec. (b)(3)(C)(ii)(II), is title II of Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4094, which is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of this title](./chapter-130-national-affordable-housing.md#section-12701) and Tables.
@@ -1171,6 +1197,8 @@ In subsec. (j)(6)(A), “sections 3141–3144, 3146, and 3147 of title 40” sub
 November 28, 1990, referred to in subsecs. (l)(2) and (n)(2), was in the original “the enactment of this Act” and “the date of enactment of this Act”, respectively, see Enactment of Section note below.
 
 #### Amendments
+2022—Subsec. (j)(8). Pub. L. 117–328 added par. (8).
+
 2020—Subsec. (j)(7). Pub. L. 116–260 added par. (7).
 
 2011—Subsec. (a)(2). Pub. L. 111–374, § 5(1)(B)(i), substituted “makes available” for “provides”.
@@ -1319,6 +1347,9 @@ Subsec. (l)(3). Pub. L. 102–550, § 601(d)(4), redesignated par. (2) as (3).
 
 1991—Subsec. (k)(4). Pub. L. 102–27 substituted “24 persons with disabilities (or such higher number of persons as permitted under criteria that the Secretary shall prescribe)” for “20 persons with disabilities”.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective 2 years after Dec. 29, 2022, see section 601(h) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 effective 2 years after Dec. 27, 2020, see section 101(h) of div. Q of Pub. L. 116–260, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
 
@@ -1330,6 +1361,9 @@ Amendment by subtitles B through F of title VI [§§ 621–685] of Pub. L. 102�
 
 #### Enactment of Section
 This section was enacted as part of Pub. L. 101–625, which was approved Nov. 28, 1990. However, this section was deemed enacted as of Nov. 5, 1990, by Pub. L. 101–507, title II, Nov. 5, 1990, 104 Stat. 1358, set out as an Effective Date of 1990 Amendment note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
+#### Construction of 2022 Amendment
+Nothing in amendment made by Pub. L. 117–328 to be construed to preempt or limit applicability of certain State or local laws relating to smoke alarms, see section 601(i) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
 
 #### Construction of 2020 Amendment
 Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of div. Q of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).

@@ -92,7 +92,7 @@ For the purposes of this chapter—
 1998—Par. (5). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “the United States”.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -100,7 +100,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <a id="section-653"></a>
 ## § 653. Geographic applicability; judicial enforcement; applicability to existing standards; report to Congress on duplication and coordination of Federal laws; workmen’s compensation law or common law or statutory rights, duties, or liabilities of employers and employees unaffected
-**(a)** This chapter shall apply with respect to employment performed in a workplace in a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Trust Territory of the Pacific Islands, Lake Island, Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act [[43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.], Johnston Island, and the Canal Zone. The Secretary of the Interior shall, by regulation, provide for judicial enforcement of this chapter by the courts established for areas in which there are no United States district courts having jurisdiction.
+**(a)** This chapter shall apply with respect to employment performed in a workplace in a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Trust Territory of the Pacific Islands, Wake Island, Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act [[43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.], Johnston Island, and the Canal Zone. The Secretary of the Interior shall, by regulation, provide for judicial enforcement of this chapter by the courts established for areas in which there are no United States district courts having jurisdiction.
 
 **(b)**
 
@@ -213,7 +213,7 @@ The effective date of this chapter, referred to in subsec. (a), is the effective
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (b)(1), (6)(C), (7), and (g) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Prohibition on Exposure of Workers to Chemical or Other Hazards for Purpose of Conducting Experiments
 Pub. L. 102–394, title I, § 102, Oct. 6, 1992, 106 Stat. 1799, provided that: “None of the funds appropriated under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used to grant variances, interim orders or letters of clarification to employers which will allow exposure of workers to chemicals or other workplace hazards in excess of existing Occupational Safety and Health Administration standards for the purpose of conducting experiments on workers’ health or safety.”
@@ -281,7 +281,7 @@ This chapter, referred to in subsec. (d), was in the original “this Act”, me
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a)(1), (2) and (b) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -326,7 +326,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 1998—Subsec. (h). Pub. L. 105–198 added subsec. (h).
@@ -773,8 +773,6 @@ In subsec. (e)(8), “section 3324(a) and (b) of title 31” substituted for “
 #### Change of Name
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) to (d) and (f) pursuant to section 509(b) of Pub. L. 96–88 which is classified to [section 3508(b) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3508/b&num=0&edition=prelim), Education.
 
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (f) of this section relating to submitting annual report to Congress, see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 97 of House Document No. 103–7.
 
@@ -882,7 +880,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (f) of this se
 ### Statutory Notes
 
 #### References in Text
-The Occupational Safety and Health Act of 1970, referred to in subsecs. (c)(1)(B)(i)(II) and (d)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsecs. (c)(1)(B)(i)(II) and (d)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651) and Tables.
 
 #### Codification
 Section was enacted as part of the Fire Administration Authorization Act of 1992, and not as part of the Occupational Safety and Health Act of 1970 which comprises this chapter.

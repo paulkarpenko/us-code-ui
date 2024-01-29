@@ -297,7 +297,7 @@ Special emphasis should be placed on developing environmental education programs
 
 (5) Members of the Advisory Council appointed under this section shall, while attending meetings of the Council or otherwise engaged in business of the Council, receive compensation and allowances at a rate to be fixed by the Administrator, but not exceeding the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) 11 See References in Text note below. of title 5.
 
-(6) Section 14(a) of the Federal Advisory Committee Act relating to termination, shall not apply to the Advisory Council.
+(6) [Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim), relating to termination, shall not apply to the Advisory Council.
 
 **(c) Federal Task Force on Environmental Education; duties; members**
 
@@ -346,7 +346,8 @@ Special emphasis should be placed on developing environmental education programs
 #### References in Text
 [Section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), referred to in subsec. (b)(5), was amended generally by Pub. L. 94–22, May 19, 1975, § 4, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (b)(6), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (b)(6). Pub. L. 117–286 substituted “[Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim),” for “Section 14(a) of the Federal Advisory Committee Act”.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -479,6 +480,8 @@ Subsec. (f) of this section, which required the Foundation, as soon as practicab
 In subsec. (h), “[section 10101 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section10101&num=0&edition=prelim)” substituted for “the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 (Public Law 88–504; [36 U.S.C. 1101–110](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section1101–110&num=0&edition=prelim)3)” and “a corporation in part B of subtitle II of title 36” substituted for “a private corporation established under Federal law” on authority of Pub. L. 105–225, § 5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim). Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates

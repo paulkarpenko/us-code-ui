@@ -2,32 +2,16 @@
 title: 2
 chapter: '28'
 heading: ARCHITECT OF THE CAPITOL
-section_count: 70
+section_count: 72
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
 <a id="section-1801"></a>
-## § 1801. Appointment
-**(a)**
-
-(1) The Architect of the Capitol shall be appointed by the President by and with the advice and consent of the Senate for a term of 10 years.
-
-(2) There is established a commission to recommend individuals to the President for appointment to the office of Architect of the Capitol. The commission shall be composed of—
-
-  (A) the Speaker of the House of Representatives,
-
-  (B) the President pro tempore of the Senate,
-
-  (C) the majority and minority leaders of the House of Representatives and the Senate, and
-
-  (D) the chairmen and the ranking minority members of the Committee on House Oversight of the House of Representatives, the Committee on Rules and Administration of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate.
-  The commission shall recommend at least three individuals for appointment to such office.
-
-(3) An individual appointed Architect of the Capitol under paragraph (1) shall be eligible for reappointment to such office.
-
-**(b)** Subsection (a) shall be effective in the case of appointments made to fill vacancies in the office of Architect of the Capitol which occur on or after November 21, 1989. If no such vacancy occurs within the six-year period which begins on November 21, 1989, no individual may, after the expiration of such period, hold such office unless the individual is appointed in accordance with subsection (a).
+## § 1801. Repealed. Pub. L. 118–31, div. E, title LVII, § 5702(d)(1), Dec. 22, 2023, 137 Stat. 960
 
 ### Statutory Notes
+
+Section, Pub. L. 101–163, title III, § 319, Nov. 21, 1989, 103 Stat. 1068; Pub. L. 104–19, title I, § 701, July 27, 1995, 109 Stat. 220, related to appointment of Architect of the Capitol by the President by and with the advice and consent of the Senate for a term of 10 years. See [section 1801a of this title](./chapter-028-architect-of-the-capitol.md#section-1801a).
 
 #### Codification
 Section was classified to section 162–1 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -43,28 +27,46 @@ Act Mar. 3, 1829, ch. 51, § 2, 4 Stat. 363, authorized President to continue of
 
 Act May 2, 1828, ch. 45, § 3, 4 Stat. 266, abolished office of Architect of the Capitol. The duties of that office were transferred to Commissioner of Public Buildings and Grounds, appointed by President under act April 29, 1816, ch. 150, § 2, 3 Stat. 324, to succeed a previously existing board of three commissioners of Public Buildings and Grounds.
 
-#### Amendments
-1995—Subsec. (a)(2). Pub. L. 104–19, § 701(1), (2), substituted “office” for “Office” in first sentence and “commission” for “Commission” in introductory provisions in second sentence.
-
-Subsec. (a)(2)(D). Pub. L. 104–19, § 701(3), substituted “Oversight of the House of Representatives, the Committee on Rules and Administration of the Senate, the Committee on Appropriations of the House of Representatives, and the Committee on Appropriations of the Senate” for “Administration of the House of Representatives and the Committee on Rules and Administration of the Senate”.
-
-Subsec. (b). Pub. L. 104–19, § 701(1), substituted “office” for “Office” in first sentence.
-
 #### Change of Name
-Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
-
 The name of Superintendent of the Capitol Building and Grounds was changed to Architect of the Capitol by Act Mar. 3, 1921, ch. 124, 41 Stat. 1291, the Legislative, Executive, and Judicial Appropriation Act Mar. 3, 1921, fiscal year 1922.
 
 The name of Architect of the Capitol was changed to Superintendent of the Capitol Building and Grounds, by act Feb. 14, 1902, ch. 17, 32 Stat. 20, popularly known as the “Urgent Deficiency Appropriation Act for 1902”.
+
+#### Effective Date of Repeal
+Repeal applicable with respect to appointments made on or after Dec. 22, 2023, see [section 1801a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1801a/e&num=0&edition=prelim).
+
+#### Short Title of 2023 Amendment
+Pub. L. 118–31, div. E, title LVII, § 5701, Dec. 22, 2023, 137 Stat. 960, provided that: “This title [enacting sections 1801a and 1805a of this title, amending sections 1805 and 1811 of this title, and repealing this section and [section 1804 of this title](./chapter-028-architect-of-the-capitol.md#section-1804)] may be cited as the ‘Architect of the Capitol Appointment Act of 2023’.”
 
 #### Short Title of 2016 Amendment
 Pub. L. 114–156, § 1, May 16, 2016, 130 Stat. 391, provided that: “This Act [enacting subchapter V of this chapter] may be cited as the ‘Fallen Heroes Flag Act of 2016’.”
 
 #### Comprehensive Management Study and Response
-Pub. L. 107–68, title I, § 129(d), Nov. 12, 2001, 115 Stat. 580, provided that: “(1) Study by comptroller general.—Not later than November 1, 2002, the Comptroller General shall conduct a comprehensive management study of the operations of the Architect of the Capitol, and submit the study to the Architect of the Capitol and the Committees on Appropriations of the House of Representatives and Senate. “(2) Plan by architect in response.—After the Comptroller General submits the study conducted under paragraph (1) to the Committees referred to in such paragraph, the Architect of the Capitol shall develop and submit to such Committees a management improvement plan which addresses the study and which indicates how the personnel for whom the Architect fixes the rate of basic pay under the amendment made by subsection (c)(1) [amending [section 1849 of this title](./chapter-028-architect-of-the-capitol.md#section-1849)] will support such plan.”
+Pub. L. 107–68, title I, § 129(d), Nov. 12, 2001, 115 Stat. 580, required the Comptroller General to conduct a comprehensive management study of the operations of the Architect of the Capitol by Nov. 1, 2002, and required the Architect of the Capitol to develop and submit a management improvement plan.
 
 #### Accounting and Financial Management System
 Pub. L. 107–68, title I, § 132, Nov. 12, 2001, 115 Stat. 581, which directed the Architect of the Capitol to develop and maintain an accounting and financial management system, including financial reporting and internal controls, was from the Legislative Branch Appropriations Act, 2002.
+
+
+<a id="section-1801a"></a>
+## § 1801a. Appointment and term of service of Architect of the Capitol
+**(a) Appointment** The Architect of the Capitol shall be appointed, without regard to political affiliation and solely on the basis of fitness to perform the duties of the office, upon a majority vote of a congressional commission (referred to in this section as the “commission”) consisting of the Speaker of the House of Representatives, the majority leader of the Senate, the minority leaders of the House of Representatives and Senate, the chair and ranking minority member of the Committee on Appropriations of the House of Representatives, the chairman and ranking minority member of the Committee on Appropriations of the Senate, the chair and ranking minority member of the Committee on House Administration of the House of Representatives, and the chairman and ranking minority member of the Committee on Rules and Administration of the Senate.
+
+**(b) Term of service** The Architect of the Capitol shall be appointed for a term of 10 years and, upon a majority vote of the members of the commission, may be reappointed for additional 10-year terms.
+
+**(c) Removal** The Architect of the Capitol may be removed from office at any time upon a majority vote of the members of the commission.
+
+**(d) Omitted**
+
+**(e) Effective date** This section, and the amendments made by this section, shall apply with respect to appointments made on or after December 22, 2023.
+
+### Statutory Notes
+
+#### References in Text
+For the amendments made by this section, referred to in subsec. (e), see Codification note below.
+
+#### Codification
+Section is comprised of section 5702 of Pub. L. 118–31. Subsec. (d)(1) of section 5702 of Pub. L. 118–31 repealed [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801). Subsec. (d)(2) of section 5702 of Pub. L. 118–31 amended [section 1811 of this title](./chapter-028-architect-of-the-capitol.md#section-1811).
 
 
 <a id="section-1802"></a>
@@ -130,16 +132,14 @@ Section is from the Legislative Branch Appropriation Act, 1956.
 
 
 <a id="section-1804"></a>
-## § 1804. Deputy Architect of the Capitol to act in case of absence, disability, or vacancy
-
-On and after August 18, 1970, the Deputy Architect of the Capitol shall act as Architect of the Capitol during the absence or disability of that official or whenever there is no Architect.
+## § 1804. Repealed. Pub. L. 118–31, div. E, title LVII, § 5704(d), Dec. 22, 2023, 137 Stat. 962
 
 ### Statutory Notes
 
+Section, Pub. L. 91–382, Aug. 18, 1970, 84 Stat. 817; Pub. L. 101–163, title I, § 106(d), Nov. 21, 1989, 103 Stat. 1057; Pub. L. 108–7, div. H, title I, § 1204, Feb. 20, 2003, 117 Stat. 374, provided that the Deputy Architect of the Capitol would act as Architect of the Capitol during the absence or disability of that official or whenever there was no Architect. See [section 1805a of this title](./chapter-028-architect-of-the-capitol.md#section-1805a).
+
 #### Codification
 Section was classified to section 164a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
-
-Section is from Pub. L. 91–382, popularly known as the “Legislative Branch Appropriation Act, 1971”.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriation acts:
@@ -212,17 +212,22 @@ Feb. 20, 1931, ch. 234, 46 Stat. 1183.
 
 June 6, 1930, ch. 407, 46 Stat. 513.
 
-#### Amendments
-2003—Pub. L. 108–7 substituted “Deputy Architect” for “Assistant Architect”.
-
-1989—Pub. L. 101–163 struck out “, and, in case of the absence or disability of the Assistant Architect, the Executive Assistant shall so act” before period at end.
-
 
 <a id="section-1805"></a>
 ## § 1805. Deputy Architect of the Capitol
-**(a) Establishment of Deputy Architect of the Capitol** The Architect of the Capitol shall appoint a suitable individual to be the Deputy Architect of the Capitol. The Architect may delegate to the Deputy Architect such duties as the Architect determines are necessary or appropriate.
+**(a) Establishment of Deputy Architect of the Capitol** The Architect of the Capitol (in this section referred to as the “Architect”) shall appoint a suitable individual to be the Deputy Architect of the Capitol (in this section referred to as the “Deputy Architect”). The Architect may delegate to the Deputy Architect such duties as the Architect determines are necessary or appropriate.
 
-**(b) Compensation** The Deputy Architect of the Capitol shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect of the Capitol.
+**(b) Deadline** The Architect shall appoint a Deputy Architect under subsection (a) not later than 120 days after—
+
+(1) the date on which the Architect is appointed under [section 1801a of this title](./chapter-028-architect-of-the-capitol.md#section-1801a), if there is no Deputy Architect on the date of the appointment; or
+
+(2) the date on which a vacancy arises in the office of the Deputy Architect.
+
+**(c) Compensation** The Deputy Architect shall be paid at an annual rate of pay to be determined by the Architect but not to exceed $1,500 less than the annual rate of pay for the Architect.
+
+**(d) Failure to appoint** If the Architect does not appoint a Deputy Architect on or before the applicable date specified in subsection (b), the congressional commission described in [section 1801a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1801a/a&num=0&edition=prelim) shall appoint the Deputy Architect by a majority vote of the members of the commission.
+
+**(e) Notification** If the position of Deputy Architect becomes vacant, the Architect shall immediately notify the members of the congressional commission described in [section 1801a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1801a/a&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -230,6 +235,14 @@ June 6, 1930, ch. 407, 46 Stat. 513.
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of Pub. L. 108–7.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 5703(1), inserted “(in this section referred to as the ‘Architect’)” after “The Architect of the Capitol” and “(in this section referred to as the ‘Deputy Architect’)” after “Deputy Architect of the Capitol”.
+
+Subsec. (b). Pub. L. 118–31, § 5703(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 118–31, § 5703(2), (4), redesignated subsec. (b) as (c) and struck out “of the Capitol” after “The Deputy Architect” and after “pay for the Architect”.
+
+Subsecs. (d), (e). Pub. L. 118–31, § 5703(5), added subsecs. (d) and (e).
+
 2020—Pub. L. 116–260, § 701(b)(1), substituted “Capitol” for “Capitol/Chief Operating Officer” in section catchline.
 
 Subsec. (a). Pub. L. 116–260, § 701(b)(2), inserted text of subsec. (a) and struck out former text of subsec. (a) which read as follows: “There shall be a Deputy Architect of the Capitol who shall serve as the Chief Operating Officer of the Office of the Architect of the Capitol. The Deputy Architect of the Capitol shall be appointed by the Architect of the Capitol and shall report directly to the Architect of the Capitol and shall be subject to the authority of the Architect of the Capitol. The Architect of the Capitol shall appoint the Deputy Architect of the Capitol not later than 180 days after February 20, 2003. The Architect of the Capitol shall consult with the Comptroller General or his designee before making the appointment.”
@@ -249,6 +262,24 @@ Pub. L. 111–316, § 1(c), Dec. 18, 2010, 124 Stat. 3452, provided that: “The
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–11, title II, § 2601(b), Apr. 16, 2003, 117 Stat. 599, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as if included in the enactment of the Legislative Branch Appropriations Act, 2003 [Pub. L. 108–7, div. H].”
+
+
+<a id="section-1805a"></a>
+## § 1805a. Deputy Architect of the Capitol to serve as acting in case of absence, disability, or vacancy
+**(a) In general** The Deputy Architect of the Capitol (in this section referred to as the “Deputy Architect”) shall act as Architect of the Capitol (in this section referred to as the “Architect”) if the Architect is absent or disabled or there is no Architect.
+
+**(b) Absence, disability, or vacancy in Office of Deputy Architect** For purposes of subsection (a), if the Deputy Architect is also absent or disabled or there is no Deputy Architect, the congressional commission described in [section 1801a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1801a/a&num=0&edition=prelim) shall designate, by a majority vote of the members of the commission, an individual to serve as acting Architect until—
+
+(1) the end of the absence or disability of the Architect or the Deputy Architect; or
+
+(2) in the case of vacancies in both positions, an Architect has been appointed under [section 1801a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1801a/a&num=0&edition=prelim).
+
+**(c) Authority** An officer serving as acting Architect under subsection (a) or (b) shall perform all the duties and exercise all the authorities of the Architect, including the authority to delegate the duties and authorities of the Architect in accordance with [section 1803 of this title](./chapter-028-architect-of-the-capitol.md#section-1803).
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 5704 of Pub. L. 118–31. Subsec. (d) of section 5704 of Pub. L. 118–31 repealed [section 1804 of this title](./chapter-028-architect-of-the-capitol.md#section-1804).
 
 
 <a id="section-1806"></a>
@@ -315,7 +346,7 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 
 **(d) Duties, responsibilities, authority, and reports**
 
-(1) **In general** — Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
+(1) **In general** — Sections 404, 405 (other than subsections (b)(13) and (f)(1)(B) thereof), 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5 shall apply to the Inspector General of the Architect of the Capitol and the Office of such Inspector General and such sections shall be applied to the Office of the Architect of the Capitol and the Architect of the Capitol by substituting—
 
   (A) “Office of the Architect of the Capitol” for “establishment”; and
 
@@ -327,7 +358,7 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 
   (B) *Security and suitability* — Appointments under the authority under subparagraph (A) shall be made consistent with personnel security and suitability requirements.
 
-  (C) *Consultants* — Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).
+  (C) *Consultants* — Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).11 See References in Text note below.
 
 (3) **Law enforcement authority**
 
@@ -369,7 +400,7 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 
   (C) *Semiannual certification of program*
 
-    (i) *In general* — Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
+    (i) *In general* — Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.),1 the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
 
     (ii) *Suspension of authority* — The authority granted under this paragraph (including any grant of authority to an individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
 
@@ -400,12 +431,14 @@ Section, Pub. L. 110–161, div. H, title I, § 1309, Dec. 26, 2007, 121 Stat. 2
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(C), (3)(C)(i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsec. (d)(2)(C), (3)(C)(i), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–286 substituted “Sections 404, 405 (other than subsections (b)(13) and (f)(1)(B) thereof), 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5” for “Sections 4, 5 (other than subsections (a)(13) and (e)(1)(B) thereof), 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)” in introductory provisions.
+
 2019—Subsec. (c). Pub. L. 116–94, § 1602(b)(1), inserted “; pay; limits on bonuses; counsel” after “removal” in heading.
 
 Subsec. (c)(2). Pub. L. 116–94, § 1602(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Inspector General may be removed from office by the Architect of the Capitol. The Architect of the Capitol shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of Congress.”
@@ -425,7 +458,7 @@ Subsec. (d)(4). Pub. L. 116–94, § 1604(b), added par. (4).
 <a id="section-1811"></a>
 ## § 1811. Powers and duties
 
-The Architect of the Capitol shall perform all the duties relative to the Capitol Building performed prior to August 15, 1876, by the Commissioner of Public Buildings and Grounds, and shall be appointed by the President: Provided, That no change in the architectural features of the Capitol Building or in the landscape features of the Capitol Grounds shall be made except on plans to be approved by Congress.
+The Architect of the Capitol shall perform all the duties relative to the Capitol Building performed prior to August 15, 1876, by the Commissioner of Public Buildings and Grounds: Provided, That no change in the architectural features of the Capitol Building or in the landscape features of the Capitol Grounds shall be made except on plans to be approved by Congress.
 
 ### Statutory Notes
 
@@ -434,8 +467,14 @@ Section was classified to section 162 of former Title 40, prior to the enactment
 
 Section is a composite of the acts of Aug. 15, 1876, and Feb. 14, 1902, cited in the credits.
 
+#### Amendments
+2023—Pub. L. 118–31 struck out “, and he shall be appointed by the President” after “Commissioner of Public Buildings and Grounds”.
+
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–31 applicable with respect to appointments made on or after Dec. 22, 2023, see [section 1801a(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1801a/e&num=0&edition=prelim).
 
 #### Transfer to Architect of the Capitol
 Pub. L. 112–74, div. G, title I, § 1202, Dec. 23, 2011, 125 Stat. 1129, provided that: “(a) Transfer.—To the extent that the Director of the National Park Service has jurisdiction and control over any portion of the area described in subsection (b) and any monument or other facility which is located within such area, such jurisdiction and control is hereby transferred to the Architect of the Capitol as of the date of the enactment of this Act [Dec. 23, 2011]. “(b) Area Described.—The area described in this subsection is the property which is bounded on the north by Pennsylvania Avenue Northwest, on the east by First Street Northwest and First Street Southwest, on the south by Maryland Avenue Southwest, and on the west by Third Street Southwest and Third Street Northwest.”
@@ -463,7 +502,7 @@ Provisions similar to those comprising the first sentence of this section were c
 1951—Act Oct. 31, 1951, struck out “, and shall submit through the Secretary of the Interior estimates thereof” at end of first sentence.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-1813"></a>
@@ -500,7 +539,7 @@ Provision of R.S. § 1816 relating to purchase of furniture or carpets for House
 1951—Act Oct. 31, 1951, struck out requirement that such improvements, etc., should be paid for by Secretary of the Interior out of appropriations for Capitol extension, and from no other appropriation.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 #### Conditions for Use of Certain Telecommunications Systems and Services by Agency of Legislative Branch
 Pub. L. 101–520, title III, § 306, Nov. 5, 1990, 104 Stat. 2277, as amended by Pub. L. 108–271, § 8(b), July 7, 2004, 118 Stat. 814; Pub. L. 113–235, div. H, title I, § 1301(b), Dec. 16, 2014, 128 Stat. 2537, provided that: “(a) Hereafter, notwithstanding any other provision of law, any agency of the legislative branch is authorized to use telecommunications systems and services provided by the Architect of the Capitol or the House of Representatives or the Senate under the approved plan required by section 305 of Public Law 100–202 (101 Stat. 1329–308) [see source credits following note below] if such systems and services—“(1) have been acquired competitively; and “(2) in the case of long distance service, have been determined by the Architect of the Capitol to be at least equal in quality to, and not greater in cost than, the systems and services available under the procurement conducted by the Administrator of General Services known as ‘FTS2000’. “(b) As used in this section, the term ‘agency of the legislative branch’ means the office of the Architect of the Capitol, the Botanic Garden, the Government Accountability Office, the Government Publishing Office, the Library of Congress, the Office of Technology Assessment, and the Congressional Budget Office.”
@@ -623,7 +662,7 @@ Act Mar. 2, 1911, ch. 192, § 9, 36 Stat. 1011.
 1928—Act May 29, 1928, struck out provision that required a transfer statement to be submitted in the annual report to Congress by the Superintendent of the Capitol Building and Grounds.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-1817a"></a>
@@ -1014,7 +1053,7 @@ Section was classified to section 167 of former Title 40, prior to the enactment
 Section, except the words “and the ventilation and heating of the House of Representatives,” is based on act Mar. 3, 1881, popularly known as the “Legislative, Executive, and Judicial Appropriation Act”. The excepted words were based on act Mar. 3, 1877, popularly known as the “Sundry Civil Appropriation Act, fiscal year 1878”.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-1834"></a>
@@ -1205,7 +1244,7 @@ Amendment by Pub. L. 90–206 effective as of beginning of first pay period whic
 
 **(b) Positions covered** The positions referred to in subsection (a) are—
 
-(1) the position of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings “Office of the Architect of the Capitol” and “salaries” in the first section of the Legislative Branch Appropriation Act, 1971 [[2 U.S.C. 1804](./chapter-028-architect-of-the-capitol.md#section-1804)], and
+(1) the position of assistant referred to in the proviso in the first undesignated paragraph under the center subheadings “Office of the Architect of the Capitol” and “salaries” in the first section of the Legislative Branch Appropriation Act, 1971 [[2 U.S.C. 1804](./chapter-028-architect-of-the-capitol.md#section-1804)],11 See References in Text note below. and
 
 (2) the eight positions provided for in the third and fourth undesignated paragraphs under the center subheadings “Office of the Architect of the Capitol” and “salaries” in the first section of the Legislative Branch Appropriation Act, 1960 [[2 U.S.C. 1847](./chapter-028-architect-of-the-capitol.md#section-1847)].
 
@@ -1214,6 +1253,9 @@ Amendment by Pub. L. 90–206 effective as of beginning of first pay period whic
 **(d) Effective date** This section shall apply in fiscal years beginning after September 30, 1987, with respect to pay periods beginning after December 22, 1987.
 
 ### Statutory Notes
+
+#### References in Text
+The first undesignated paragraph under the center subheadings “Office of the Architect of the Capitol” and “salaries” in the first section of the Legislative Branch Appropriation Act, 1971, referred to in subsec. (b)(1), was classified to [section 1804 of this title](./chapter-028-architect-of-the-capitol.md#section-1804) prior to repeal by Pub. L. 118–31, div. E, title LVII, § 5704(d), Dec. 22, 2023, 137 Stat. 962. See [section 1805a of this title](./chapter-028-architect-of-the-capitol.md#section-1805a).
 
 #### Codification
 Section was classified to section 166b–3a of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
@@ -1707,7 +1749,12 @@ In this subchapter—
 <a id="section-1881c"></a>
 ## § 1881c. Authorization of appropriations
 
-There are authorized to be appropriated for each of fiscal years 2017 through 2022 such sums as may be necessary to carry out this subchapter, to be derived from amounts appropriated in each such fiscal year for the operation of the Architect of the Capitol, except that the aggregate amount appropriated to carry out this subchapter for all such fiscal years may not exceed $40,000.
+There are authorized to be appropriated for each of fiscal years 2017 through 2028 such sums as may be necessary to carry out this subchapter, to be derived from amounts appropriated in each such fiscal year for the operation of the Architect of the Capitol, except that the aggregate amount appropriated to carry out this subchapter for all such fiscal years may not exceed $40,000.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–328 substituted “through 2028” for “through 2022”.
 
 
 <a id="section-1881d"></a>

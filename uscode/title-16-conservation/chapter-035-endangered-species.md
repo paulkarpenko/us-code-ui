@@ -158,7 +158,7 @@ Sec. 6. General Provisions. (a) This order shall be implemented consistent with 
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (the “Act”), may apply to the Advisory Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (e) The Department of the Interior shall provide funding and administrative support for the Task Force and Advisory Council to the extent permitted by law and consistent with existing appropriations.
 
@@ -167,7 +167,7 @@ Barack Obama.
 [Reference to the National Security Staff to be understood to refer to the staff of the National Security Council, see Ex. Ord. No. 13657, set out as a note under [section 3021 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3021&num=0&edition=prelim), War and National Defense.]
 
 #### Extension of Term of Advisory Council on Wildlife Trafficking
-Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Council on Wildlife Trafficking extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1532"></a>
@@ -476,7 +476,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
     (iii) estimates of the time required and the cost to carry out those measures needed to achieve the plan’s goal and to achieve intermediate steps toward that goal.
 
-(2) The Secretary, in developing and implementing recovery plans, may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.
+(2) The Secretary, in developing and implementing recovery plans, may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to chapter 10 of title 5.
 
 (3) The Secretary shall report every two years to the Committee on Environment and Public Works of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives on the status of efforts to develop and implement recovery plans for all species listed pursuant to this section and on the status of all species for which such plans have been developed.
 
@@ -510,9 +510,9 @@ Reorganization Plan Numbered 4 of 1970, referred to in subsec. (a)(2), is Reorg.
 
 This chapter, referred to in subsecs. (b)(4), (8), (e)(C), and (g)(1), was in the original “this Act”, meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. This chapter, referred to in subsec. (b)(3)(B)(iii)(II), was in the original “the Act” and was translated as if it read “this Act”, to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
 #### Amendments
+2022—Subsec. (f)(2). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2003—Subsec. (a)(3). Pub. L. 108–136, § 318(a), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
 Subsec. (b)(2). Pub. L. 108–136, § 318(b), inserted “the impact on national security,” after “the economic impact,”.

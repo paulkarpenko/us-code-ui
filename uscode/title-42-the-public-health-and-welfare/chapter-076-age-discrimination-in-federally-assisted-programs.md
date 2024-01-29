@@ -164,6 +164,8 @@ Section 105(b) of the Civil Rights Act of 1957, referred to in subsec. (c), is s
 1977—Subsec. (d). Pub. L. 95–65 substituted “two years” for “eighteen months” and authorized the Commission to provide information and technical assistance regarding its findings and recommendations to Congress, the President, and heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Previously, Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.

@@ -942,7 +942,7 @@ If any provision of this subchapter, or the application of such provision with r
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815, as amended, known as the Housing and Community Development Act of 1987. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+This Act, referred to in text, is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815, known as the Housing and Community Development Act of 1987. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 
 <a id="section-4124"></a>
@@ -972,7 +972,7 @@ This Act, referred to in text, is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 181
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1987, referred to in pars. (1) and (2), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815, as amended. Subtitle B of title II of the Act is classified generally to this subchapter (§ 4101 et seq.). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1987, referred to in pars. (1) and (2), is Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1815. Subtitle B of title II of the Act is classified generally to this subchapter (§ 4101 et seq.). For complete classification of this Act to the Code, see Short Title of 1988 Amendment note under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 #### Codification
 Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of the Low-Income Housing Preservation and Resident Homeownership Act of 1990 which comprises this chapter.
@@ -1107,7 +1107,7 @@ This title, referred to in par. (2), means title II of Pub. L. 100–242, as ame
 #### References in Text
 This title, referred to in subsec. (b)(2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, § 601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
 
 
 <a id="section-4146"></a>

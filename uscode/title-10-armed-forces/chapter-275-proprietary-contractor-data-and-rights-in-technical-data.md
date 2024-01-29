@@ -566,7 +566,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 
 <a id="section-3791"></a>
-## § 3791. Management of intellectual property matters within the department of defense 11 So in original. Probably should be “Department of Defense”.
+## § 3791. Management of intellectual property matters within the Department of Defense
 **(a) Policy Required.—** The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall develop policy on the acquisition or licensing of intellectual property—
 
 (1) to enable coordination and consistency across the military departments and the Department of Defense in strategies for acquiring or licensing intellectual property and communicating with industry;
@@ -576,6 +576,38 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 (3) to encourage customized intellectual property strategies for each system based on, at a minimum, the unique characteristics of the system and its components, the product support strategy for the system, the organic industrial base strategy of the military department concerned, and the commercial market.
 
 **(b) Cadre of Intellectual Property Experts.—** For a provision requiring establishment of a cadre of personnel who are experts in intellectual property matters, see [section 1707 of this title](./chapter-087-defense-acquisition-workforce.md#section-1707).
+
+**(c) Guidelines and Resources.—**
+
+(1) **In general.—** — The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall develop guidelines and resources on the acquisition or licensing of intellectual property, including—
+
+  (A) intellectual property strategies and other mechanisms supporting the use of modular open system approaches (as defined in [section 4401(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4401/b&num=0&edition=prelim));
+
+  (B) evaluation and negotiation of intellectual property licenses in competitive and non-competitive awards;
+
+  (C) models and best practices for specially negotiated licenses, including specially negotiated licenses described in [section 3774(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3774/c&num=0&edition=prelim); and
+
+  (D) definitions, key terms, examples, and case studies that clarify differences between—
+
+    (i) detailed manufacturing and process data;
+
+    (ii) form, fit, and function data;
+
+    (iii) data required for operations, maintenance, installation, and training;
+
+    (iv) modular system interfaces (as defined in [section 4401(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4401/b&num=0&edition=prelim)); and
+
+    (v) technical data pertaining to an interface between an item or process and other items or processes necessary for the segregation of an item or process from, or the reintegration of that item or process (or a functionally equivalent item or process) with, other items or processes.
+
+(2) **Guidelines and resources limit.—** — The guidelines and resources developed under paragraph (1) may not alter or affect any authority or duty under this section or [section 1707 of this title](./chapter-087-defense-acquisition-workforce.md#section-1707).
+
+(3) **Review and consultation.—** — In developing the guidelines and resources described in paragraph (1), the Secretary shall—
+
+  (A) review the applicable statutory and regulatory history, including among the definitions and key terms in [section 3771 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3771), to ensure consistency; and
+
+  (B) regularly consult with appropriate government and industry persons and organizations.
+
+(4) **Training.—** — The Secretary of Defense shall ensure that the acquisition workforce receives training on the guidelines and resources developed under paragraph (1).
 
 ### Statutory Notes
 
@@ -590,6 +622,10 @@ Section 3791, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 388, auth
 Section 3792, added Pub. L. 86–616, § 3(a), July 12, 1960, 74 Stat. 388, provided for boards of inquiry, composed of three or more general officers, to be convened at such places as Secretary of the Army prescribes, to receive evidence and make findings and recommendations whether an officer, required to show cause under [section 3791 of this title](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3791), should be retained on active list of Regular Army. See [section 1182 of this title](./chapter-060-separation-of-regular-officers-for-substandard-performance-of-duty-or-for-certain-other-reasons.md#section-1182).
 
 #### Amendments
+2022—Pub. L. 117–263, § 841(1), substituted “Department of Defense” for “department of defense” in section catchline.
+
+Subsec. (c). Pub. L. 117–263, § 841(2), added subsec. (c).
+
 2021—Pub. L. 117–81, § 1701(b)(12)(A), which directed amendment of section 1833(n) of Pub. L. 116–283, which enacted this section, by substituting “DEPARTMENT OF DEFENSE” for “DEPARTMENT OF DEFENSE” in text of section catchline, could not be executed.
 
 Subsec. (a). Pub. L. 116–283, § 1833(o)(1), transferred subsec. (a) of [section 2322 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2322&num=0&edition=prelim) to this section.
@@ -599,6 +635,9 @@ Amendment by Pub. L. 117–81 applicable as if included in the enactment of titl
 
 #### Effective Date
 Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+#### Pilot Program for the Use of Innovative Intellectual Property Strategies
+Pub. L. 118–31, div. A, title VIII, § 808, Dec. 22, 2023, 137 Stat. 319, provided that: “(a) Establishment.—The Secretary of Defense shall establish a pilot program for the use of innovative intellectual property strategies that meet the criteria described in subsection (b) to acquire the necessary technical data rights required for the operation, maintenance, and installation of, and training for, covered programs designated under subsection (c). “(b) Criteria for Strategies.—The innovative intellectual property strategies used in a pilot program established under this section may include the following:“(1) The use of an escrow account to verify and hold intellectual property data. “(2) The use of royalties or licenses. “(3) Other strategies, as determined by the Secretary. “(c) Designation of Covered Programs.—Not later than May 1, 2024, and with respect to the pilot program established under this section—“(1) the Secretary of each military department shall designate one covered program within the military department under the jurisdiction of such Secretary; and “(2) the Under Secretary of Defense for Acquisition and Sustainment shall designate one covered program within the Defense Agencies or Department of Defense Field Activities (as defined, respectively, in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code). “(d) Briefing Requirement.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Secretaries of the military departments, shall provide a briefing to the Committees on Armed Services of the Senate and the House of Representatives with a detailed plan to implement the pilot program required under this section. “(e) Annual Report.—Beginning on the date on which the first program is designated under subsection (c) and until the termination date in subsection (f), the Under Secretary of Defense for Acquisition and Sustainment, in coordination with the Secretaries of the military departments, shall provide an annual report to the Committees on Armed Services of the Senate and the House of Representatives on—“(1) the effectiveness of the pilot program in acquiring the necessary technical data rights necessary to support timely, cost-effective maintenance and sustainment of the acquisition programs designated under subsection (c); and “(2) any recommendations for the applicability of lessons learned from the pilot program. “(f) Termination.—The authority to carry out the pilot program established under this section shall terminate on December 31, 2028. “(g) Definitions.—In this section:“(1) The term ‘covered program’ means an acquisition program under which procurements are conducted using a pathway of the adaptive acquisition framework (as described in Department of Defense Instruction 5000.02, ‘Operation of the Adaptive Acquisition Framework’). “(2) The term ‘technical data rights’ has the meaning given in [section 3771 of title 10](./chapter-275-proprietary-contractor-data-and-rights-in-technical-data.md#section-3771), United States Code.”
 
 
 <a id="section-3793"></a>

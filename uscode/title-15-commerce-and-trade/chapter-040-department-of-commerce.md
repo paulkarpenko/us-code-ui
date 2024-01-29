@@ -77,7 +77,7 @@ Ex. Ord. No. 13339, May 13, 2004, 69 F.R. 28037, as amended by Ex. Ord. No. 1340
 Ex. Ord. No. 13515, Oct. 14, 2009, 74 F.R. 53635, as amended by Ex. Ord. No. 13585, § 4, Sept. 30, 2011, 76 F.R. 62282; Ex. Ord. No. 13652, § 8, Sept. 30, 2013, 78 F.R. 61819, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and White House Initiative on Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 13872, § 4(a), May 13, 2019, 84 F.R. 22324, formerly set out below, and by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
-Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, § 1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out in a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Prior to revocation of Ex. Ord. No. 13515, term of Commission on Asian Americans and Pacific Islanders was extended until Sept. 30, 2019, by Ex. Ord. No. 13811, § 1(s), Sept. 29, 2017, 82 F.R. 46363, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of Commission on Asian Americans and Pacific Islanders were contained in the following prior Executive Orders:
 
@@ -91,7 +91,7 @@ Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, extended term until Sept. 30,
 Ex. Ord. No. 13872, May 13, 2019, 84 F.R. 22321, which established the President’s Advisory Commission on Asian Americans and Pacific Islanders and the White House Initiative on Asian Americans and Pacific Islanders to promote the economic empowerment of Asian Americans and Pacific Islanders, was superseded by Ex. Ord. No. 14031, § 4(a), May 28, 2021, 86 F.R. 29680, set out in a note under [section 3501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3501&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Extension of Term of Commission on Asian Americans and Pacific Islanders
-Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Commission on Asian Americans and Pacific Islanders extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1502-1503"></a>
@@ -377,7 +377,7 @@ Environmental Science Services Administration in Department of Commerce, includi
 
 Weather Bureau transferred from Department of Agriculture by section 8 of Reorg. Plan No. IV of 1940, which is set out in the Appendix to Title 5. Coast and Geodetic Survey and Weather Bureau consolidated to form a new agency in Department of Commerce known as Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 4443, set out in the Appendix to Title 5.
 
-Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(B) of Pub. L. 95–452, set out in the Appendix to Title 5.
+Functions, powers, and duties of Office of Audits and Investigations and Inspections Staff and that portion of office referred to as Office of Investigations and Security which had responsibility for investigation of alleged criminal violations and program abuse in Department of Commerce transferred to Office of Inspector General in Department of Commerce, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, formerly set out in the Appendix to Title 5, Government Organization and Employees. See [section 422(a)(1)(B) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section422/a/1/B&num=0&edition=prelim).
 
 #### Change of Name
 In order to implement the provisions of Reorganization Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, as amended, set out below, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, which covers the administration of the National Oceanic and Atmospheric Administration, were changed by order of the Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, as follows: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey; and Weather Bureau to National Weather Service.
@@ -667,6 +667,9 @@ Section was formerly classified to [section 596 of Title 5](https://uscode.house
 #### Amendments
 1981—Pub. L. 97–31 struck out references to shipping and transportation facilities.
 
+#### Manufacturing.gov Hub
+Pub. L. 117–328, div. BB, title I, § 101, Dec. 29, 2022, 136 Stat. 5551, provided that: “(a) Definition.—In this section, the term ‘Secretary’ means the Secretary of Commerce. “(b) Establishment.—Not later than 1 year after the date of enactment of this Act [Dec. 29, 2022], the Secretary, in coordination with the Chief Information Officer of the Department of Commerce, shall modify the manufacturing.gov website by establishing a section of the website to be known as the ‘manufacturing.gov hub’. “(c) Functions.—The manufacturing.gov hub established under subsection (b) shall—“(1) serve as the primary hub for information relating to every Federal manufacturing program, including the programs identified in the report of the Government Accountability Office entitled ‘U.S. Manufacturing’ (GAO 17–240), published on March 28, 2017; “(2) provide the contact information of relevant program offices carrying out the Federal manufacturing programs described in paragraph (1); “(3) provide an avenue for public input and feedback relating to—“(A) the functionality of the website of the Department of Commerce; “(B) the Federal manufacturing programs described in paragraph (1); and “(C) any other manufacturing-related challenges experienced by manufacturers in the United States; “(4) establish web pages within the hub that shall focus on—“(A) technology and research and development; “(B) trade; “(C) workforce development and training; “(D) industrial commons and supply chains; and “(E) small and medium manufacturers; and “(5) use machine learning to—“(A) identify frequently asked questions; and “(B) disseminate to the public answers to the questions identified under subparagraph (A). “(d) No Additional Funds.—No additional funds are authorized to be appropriated for the purpose of carrying out this section.”
+
 #### Assistance to Fishery Participants
 Pub. L. 116–136, div. B, title II, § 12005, Mar. 27, 2020, 134 Stat. 518, provided that: “(a) In General.—The Secretary of Commerce is authorized to provide assistance to Tribal, subsistence, commercial, and charter fishery participants affected by the novel coronavirus (COVID–19), which may include direct relief payments. “(b) Fishery Participants.—For the purposes of this section, ‘fishery participants’ include Tribes, persons, fishing communities, aquaculture businesses not otherwise eligible for assistance under part 1416 of title 7 of the Code of Federal Regulations for losses related to COVID–19, processors, or other fishery-related businesses, who have incurred, as a direct or indirect result of the coronavirus pandemic—“(1) economic revenue losses greater than 35 percent as compared to the prior 5-year average revenue; or “(2) any negative impacts to subsistence, cultural, or ceremonial fisheries. “(c) Rolling Basis.—Funds may be awarded under this section on a rolling basis, and within a fishing season, to ensure rapid delivery of funds during the COVID–19 pandemic. “(d) Appropriations.—In addition to funds that are otherwise made available to assist fishery participants under this Act [div. B of Pub. L. 116–136, see Tables for classification], there are authorized to be appropriated, and there are appropriated, $300,000,000, to remain available until September 30, 2021, to carry out this section, of which up to 2 percent may be used for administration and oversight activities. “(e) Emergency Requirement.—The amount provided by this section is designated by the Congress as being for an emergency requirement pursuant to section 251(b)(2)(A)(i) of the Balanced Budget and Emergency Deficit Control Act of 1985 [[2 U.S.C. 901(b)(2)(A)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901/b/2/A/i&num=0&edition=prelim)].”
 
@@ -676,7 +679,7 @@ Pub. L. 116–136, div. B, title II, § 12005, Mar. 27, 2020, 134 Stat. 518, pro
 For assignment of certain emergency preparedness functions to the Secretary of Commerce, see Parts 1, 2, and 4 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under [section 5195 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Executive Order No. 12864
-Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499; Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, § 3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12864, Sept. 15, 1993, 58 F.R. 48773, as amended by Ex. Ord. No. 12890, Dec. 30, 1993, 59 F.R. 499; Ex. Ord. No. 12921, June 13, 1994, 59 F.R. 30667; Ex. Ord. No. 12970, Sept. 14, 1995, 60 F.R. 48359, which established the United States Advisory Council on the National Information Infrastructure, was revoked by Ex. Ord. No. 13062, § 3(d), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 13577. Establishment of the SelectUSA Initiative
 Ex. Ord. No. 13577, June 15, 2011, 76 F.R. 35715, provided:
@@ -852,6 +855,10 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–42, div. C, title I, Mar. 9, 2024, 138 Stat. 128.
+
+Pub. L. 117–328, div. B, title I, Dec. 29, 2022, 136 Stat. 4517.
+
 Pub. L. 117–103, div. B, title I, Mar. 15, 2022, 136 Stat. 108.
 
 Pub. L. 116–260, div. B, title I, Dec. 27, 2020, 134 Stat. 1241.
@@ -891,6 +898,10 @@ Section is from the Department of Commerce and Related Agencies Appropriations A
 
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–42, div. C, title I, Mar. 9, 2024, 138 Stat. 127.
+
+Pub. L. 117–328, div. B, title I, Dec. 29, 2022, 136 Stat. 4516.
 
 Pub. L. 117–103, div. B, title I, Mar. 15, 2022, 136 Stat. 107.
 
@@ -1092,7 +1103,7 @@ Act Mar. 4, 1913, ch. 141, 37 Stat. 736, provided that the Department of Commerc
 
 ### Statutory Notes
 
-Section, Pub. L. 96–371, § 2, Oct. 3, 1980, 94 Stat. 1362; Pub. L. 97–31, § 12(8), Aug. 6, 1981, 95 Stat. 154, required an annual report to Congress by the Secretary of Transportation respecting conditions of the public ports of the United States. See [section 308(c) of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section308/c&num=0&edition=prelim), Transportation.
+Section, Pub. L. 96–371, § 2, Oct. 3, 1980, 94 Stat. 1362; Pub. L. 97–31, § 12(8), Aug. 6, 1981, 95 Stat. 154, required an annual report to Congress by the Secretary of Transportation respecting conditions of the public ports of the United States. See [section 308(b) of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section308/b&num=0&edition=prelim), Transportation.
 
 
 <a id="section-1520"></a>
@@ -1544,9 +1555,26 @@ For transfer of functions of Secretary of the Interior to Secretary of Commerce,
 
 
 <a id="section-1546"></a>
-## § 1546. Advisory committee for promotion of tourist travel; expenses
+## § 1546. United States Travel and Tourism Advisory Board
+**(a) In general** There is established the United States Travel and Tourism Advisory Board (referred to in this section as the “Board”), the members of which shall be appointed by the Secretary of Commerce for 2-year terms from companies and organizations in the travel and tourism industry.
 
-The Secretary of Commerce is authorized to create an advisory committee to consist of a representative from each of the Departments of State, Agriculture, and Commerce, the Interstate Commerce Commission, and the Department of Transportation, as may be designated by such Departments or agencies, respectively, and such additional members, representatives of the various sections of the Nation, including transportation and accommodations agencies, not to exceed six members, to be appointed by the Secretary of Commerce to serve at his pleasure. Meetings of the committee shall be held at the request of the Secretary for the purpose of making recommendations concerning the promotion of tourist travel under the provisions of sections 1544 to 1548 of this title. The members of the committee shall receive no compensation for their services as members, but shall be entitled to reimbursement for such necessary travel and other expenses in connection with their attendance at committee meetings as may be authorized or approved by the Secretary.
+**(b) Executive Director** The Assistant Secretary of Commerce for Travel and Tourism shall serve as the Executive Director of the Board.
+
+**(c) Executive Secretariat** The National Travel and Tourism Office of the International Trade Administration shall serve as the Executive Secretariat for the Board.
+
+**(d) Functions** The Board’s Charter shall specify that the Board will—
+
+(1) serve as the advisory body to the Secretary of Commerce on matters relating to the travel and tourism industry in the United States;
+
+(2) advise the Secretary of Commerce on government policies and programs that affect the United States travel and tourism industry;
+
+(3) offer counsel on current and emerging issues;
+
+(4) provide a forum for discussing and proposing solutions to problems related to the travel and tourism industry; and
+
+(5) provide advice regarding the domestic travel and tourism industry as an economic engine.
+
+**(e) Recovery strategies** The Board shall assist the Assistant Secretary of Commerce for Travel and Tourism in the development and implementation of the recovery strategies required under [section 9803(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9803/e/1&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1554,18 +1582,14 @@ The Secretary of Commerce is authorized to create an advisory committee to consi
 Section was formerly classified to [section 18b of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section18b&num=0&edition=prelim), Conservation.
 
 #### Amendments
+2022—Pub. L. 117–328 amended section generally. Prior to amendment, section authorized creation of an advisory committee for promotion of tourist travel.
+
 1984—Pub. L. 98–443 struck out “the Civil Aeronautics Authority,” after “the Interstate Commerce Commission,”.
 
 1981—Pub. L. 97–31 substituted “Department of Transportation” for “United States Maritime Commission”.
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L. 98–443, set out as a note under [section 5314 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim), Government Organization and Employees.
-
-#### Transfer of Functions
-Secretary of Commerce substituted for Secretary of the Interior in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by section 2 of Pub. L. 93–193. See Transfer of Functions note set out under [section 1544 of this title](./chapter-040-department-of-commerce.md#section-1544).
-
-#### Abolition of Interstate Commerce Commission and Transfer of Functions
-Interstate Commerce Commission abolished and functions of Commission transferred, except as otherwise provided in Pub. L. 104–88, to Surface Transportation Board effective Jan. 1, 1996, by [section 1302 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1302&num=0&edition=prelim), Transportation, and section 101 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim). References to Interstate Commerce Commission deemed to refer to Surface Transportation Board, a member or employee of the Board, or Secretary of Transportation, as appropriate, see section 205 of Pub. L. 104–88, set out as a note under [section 1301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1301&num=0&edition=prelim).
 
 
 <a id="section-1547"></a>

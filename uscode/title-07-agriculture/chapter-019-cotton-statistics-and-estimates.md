@@ -61,7 +61,7 @@ It shall be the duty of every owner, president, treasurer, secretary, director, 
 
 (1) **In general** — In establishing the amount of fees under this section, the Secretary shall consult with representatives of the United States cotton industry.
 
-(2) **Exemption** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations with representatives of the United States cotton industry under this section.
+(2) **Exemption** — Chapter 10 of title 5 shall not apply to consultations with representatives of the United States cotton industry under this section.
 
 **(d) Crediting of fees** Any fees collected under this section and under [section 473d of this title](./chapter-019-cotton-statistics-and-estimates.md#section-473d), late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall—
 
@@ -81,13 +81,12 @@ It shall be the duty of every owner, president, treasurer, secretary, director, 
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (c)(2). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2008—Pub. L. 110–246, § 14201, inserted section catchline and amended text generally, substituting provisions consisting of subsecs. (a) to (g) for former undesignated provisions which related to cotton classification services in fiscal years 1992 through 2007.
 
 2002—Pub. L. 107–171 substituted “2007” for “2002” in first sentence.

@@ -2,7 +2,7 @@
 title: 26
 chapter: '61'
 heading: INFORMATION AND RETURNS
-section_count: 118
+section_count: 119
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -248,7 +248,7 @@ Pub. L. 116–25, title II, § 2102, July 1, 2019, 133 Stat. 1010, provided that
 Pub. L. 116–25, title II, § 2304, July 1, 2019, 133 Stat. 1014, provided that: “Beginning 180 days after the date of the enactment of this Act [July 1, 2019], the Secretary of the Treasury (or the Secretary’s delegate) shall verify the identity of any individual opening an e-Services account with the Internal Revenue Service before such individual is able to use the e-Services tools.”
 
 #### Electronic Filing of Tax and Information Returns
-Pub. L. 105–206, title II, § 2001(a), (b), (d), July 22, 1998, 112 Stat. 723, 725, provided that: “(a) In General.—It is the policy of Congress that—“(1) paperless filing should be the preferred and most convenient means of filing Federal tax and information returns; “(2) it should be the goal of the Internal Revenue Service to have at least 80 percent of all such returns filed electronically by the year 2007; and “(3) the Internal Revenue Service should cooperate with and encourage the private sector by encouraging competition to increase electronic filing of such returns. “(b) Strategic Plan.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [July 22, 1998], the Secretary of the Treasury or the Secretary’s delegate (hereafter in this section referred to as the ‘Secretary’) shall establish a plan to eliminate barriers, provide incentives, and use competitive market forces to increase electronic filing gradually over the next 10 years while maintaining processing times for paper returns at 40 days. To the extent practicable, such plan shall provide that all returns prepared electronically for taxable years beginning after 2001 shall be filed electronically. “(2) Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory group to include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry. “(d) Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) [set out as a note above] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight [now Committee on Oversight and Reform], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs [now Committee on Homeland Security and Governmental Affairs], and Small Business [now Committee on Small Business and Entrepreneurship] of the Senate on—“(1) the progress of the Internal Revenue Service in meeting the goal of receiving electronically 80 percent of tax and information returns by 2007; “(2) the status of the plan required by subsection (b) [set out as a note above]; “(3) the legislative changes necessary to assist the Internal Revenue Service in meeting such goal; and “(4) the effects on small businesses and the self-employed of electronically filing tax and information returns.”
+Pub. L. 105–206, title II, § 2001(a), (b), (d), July 22, 1998, 112 Stat. 723, 725, provided that: “(a) In General.—It is the policy of Congress that—“(1) paperless filing should be the preferred and most convenient means of filing Federal tax and information returns; “(2) it should be the goal of the Internal Revenue Service to have at least 80 percent of all such returns filed electronically by the year 2007; and “(3) the Internal Revenue Service should cooperate with and encourage the private sector by encouraging competition to increase electronic filing of such returns. “(b) Strategic Plan.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [July 22, 1998], the Secretary of the Treasury or the Secretary’s delegate (hereafter in this section referred to as the ‘Secretary’) shall establish a plan to eliminate barriers, provide incentives, and use competitive market forces to increase electronic filing gradually over the next 10 years while maintaining processing times for paper returns at 40 days. To the extent practicable, such plan shall provide that all returns prepared electronically for taxable years beginning after 2001 shall be filed electronically. “(2) Electronic commerce advisory group.—To ensure that the Secretary receives input from the private sector in the development and implementation of the plan required by paragraph (1), the Secretary shall convene an electronic commerce advisory group to include representatives from the small business community and from the tax practitioner, preparer, and computerized tax processor communities and other representatives from the electronic filing industry. “(d) Annual Reports.—Not later than June 30 of each calendar year after 1998, the Chairperson of the Internal Revenue Service Oversight Board, the Secretary of the Treasury, and the Chairperson of the electronic commerce advisory group established under subsection (b)(2) [set out as a note above] shall report to the Committees on Ways and Means, Appropriations, Government Reform and Oversight [now Committee on Oversight and Accountability], and Small Business of the House of Representatives and the Committees on Finance, Appropriations, Governmental Affairs [now Committee on Homeland Security and Governmental Affairs], and Small Business [now Committee on Small Business and Entrepreneurship] of the Senate on—“(1) the progress of the Internal Revenue Service in meeting the goal of receiving electronically 80 percent of tax and information returns by 2007; “(2) the status of the plan required by subsection (b) [set out as a note above]; “(3) the legislative changes necessary to assist the Internal Revenue Service in meeting such goal; and “(4) the effects on small businesses and the self-employed of electronically filing tax and information returns.”
 
 Pub. L. 105–206, title II, § 2003(c), July 22, 1998, 112 Stat. 725, provided that: “In the case of taxable periods beginning after December 31, 1999, the Secretary of the Treasury or the Secretary’s delegate shall, to the extent practicable, establish procedures to accept, in electronic form, any other information, statements, elections, or schedules, from taxpayers filing returns electronically, so that such taxpayers will not be required to file any paper.”
 
@@ -3779,9 +3779,11 @@ The written statement required under the preceding sentence shall be furnished t
 
   (A) a dealer,
 
-  (B) a barter exchange, and
+  (B) a barter exchange,
 
-  (C) any other person who (for a consideration) regularly acts as a middleman with respect to property or services.
+  (C) any person who (for consideration) regularly acts as a middleman with respect to property or services, and
+
+  (D) any person who (for consideration) is responsible for regularly providing any service effectuating transfers of digital assets on behalf of another person.
   A person shall not be treated as a broker with respect to activities consisting of managing a farm on behalf of another person.
 
 (2) **Customer** — The term “customer” means any person for whom the broker has transacted any business.
@@ -3885,17 +3887,23 @@ during the period such short sale or similar transaction is open, the broker sha
 
     (ii) any note, bond, debenture, or other evidence of indebtedness,
 
-    (iii) any commodity, or contract or derivative with respect to such commodity, if the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection, and
+    (iii) any commodity, or contract or derivative with respect to such commodity, if the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection,
 
-    (iv) any other financial instrument with respect to which the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection.
+    (iv) any digital asset, and
+
+    (v) any other financial instrument with respect to which the Secretary determines that adjusted basis reporting is appropriate for purposes of this subsection.
 
   (C) *Applicable date* — The term “applicable date” means—
 
     (i) January 1, 2011, in the case of any specified security which is stock in a corporation (other than any stock described in clause (ii)),
 
-    (ii) January 1, 2012, in the case of any stock for which an average basis method is permissible under section 1012, and
+    (ii) January 1, 2012, in the case of any stock for which an average basis method is permissible under section 1012,
 
-    (iii) January 1, 2013, or such later date determined by the Secretary in the case of any other specified security.
+    (iii) January 1, 2023, in the case of any specified security which is a digital asset, and
+
+    (iv) January 1, 2013, or such later date determined by the Secretary in the case of any other specified security.
+
+  (D) *Digital asset* — Except as otherwise provided by the Secretary, the term “digital asset” means any digital representation of value which is recorded on a cryptographically secured distributed ledger or any similar technology as specified by the Secretary.
 
 (4) **Treatment of S corporations** — In the case of the sale of a covered security acquired by an S corporation (other than a financial institution) after December 31, 2011, such S corporation shall be treated in the same manner as a partnership for purposes of this section.
 
@@ -3914,35 +3922,6 @@ during the period such short sale or similar transaction is open, the broker sha
 (4) **Definitions** — For purposes of this subsection, the terms “covered security” and “specified security” shall have the meanings given such terms in subsection (g)(3).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–58, div. H, title VI, § 80603(a), (b)(1), (c), Nov. 15, 2021, 135 Stat. 1339–1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, this section is amended as follows:
-
-(1) in subsection (c)(1)—
-
-(A) by striking “and” at the end of subparagraph (B),
-
-(B) in subparagraph (C), by striking “any other person who (for a consideration)” and inserting “any person who (for consideration)” and by striking the period at the end and inserting “, and”, and
-
-(C) by inserting after subparagraph (C) the following new subparagraph:
-
-“(D) any person who (for consideration) is responsible for regularly providing any service effectuating transfers of digital assets on behalf of another person.”;
-
-(2) in subsection (g)(3)(B), by striking “and” at the end of clause (iii), by redesignating clause (iv) as clause (v), and by inserting after clause (iii) the following new clause:
-
-“(iv) any digital asset, and”;
-
-(3) in subsection (g)(3)(C), by striking “and” at the end of clause (ii), by redesignating clause (iii) as clause (iv), and by inserting after clause (ii) the following new clause:
-
-“(iii) January 1, 2023, in the case of any specified security which is a digital asset, and”; and
-
-(4) in subsection (g)(3), by adding at the end the following new subparagraph:
-
-“(D) Digital asset
-
-“Except as otherwise provided by the Secretary, the term ‘digital asset’ means any digital representation of value which is recorded on a cryptographically secured distributed ledger or any similar technology as specified by the Secretary.”
-
-See 2021 Amendment notes below.
 
 #### Amendments
 2021—Subsec. (c)(1)(C). Pub. L. 117–58, § 80603(a)(2), substituted “any person who (for consideration)” for “any other person who (for a consideration)” and “, and” for period at end.
@@ -4062,7 +4041,7 @@ Pub. L. 98–369, div. A, title VII, § 714(e)(2), July 18, 1984, 98 Stat. 961, 
 
 <a id="section-6045a"></a>
 ## § 6045A. Information required in connection with transfers of covered securities to brokers
-**(a) Furnishing of information** Every applicable person which transfers to a broker (as defined in section 6045(c)(1)) a security which is a covered security (as defined in section 6045(g)(3)) in the hands of such applicable person shall furnish to such broker a written statement in such manner and setting forth such information as the Secretary may by regulations prescribe for purposes of enabling such broker to meet the requirements of section 6045(g).
+**(a) Furnishing of information** Every applicable person which transfers to a broker (as defined in section 6045(c)(1)) a covered security (as defined in section 6045(g)(3)) in the hands of such applicable person shall furnish to such broker a written statement in such manner and setting forth such information as the Secretary may by regulations prescribe for purposes of enabling such broker to meet the requirements of section 6045(g).
 
 **(b) Applicable person** For purposes of subsection (a), the term “applicable person” means—
 
@@ -4072,20 +4051,9 @@ Pub. L. 98–369, div. A, title VII, § 714(e)(2), July 18, 1984, 98 Stat. 961, 
 
 **(c) Time for furnishing statement** Except as otherwise provided by the Secretary, any statement required by subsection (a) shall be furnished not later than 15 days after the date of the transfer described in such subsection.
 
+**(d) Return requirement for certain transfers of digital assets not otherwise subject to reporting** Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such broker) during a calendar year of a covered security which is a digital asset from an account maintained by such broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a).
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–58, div. H, title VI, § 80603(b)(2)(A), (c), Nov. 15, 2021, 135 Stat. 1340, 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, this section is amended—
-
-(1) in subsection (a), by striking “a security which is”, and
-
-(2) by adding at the end the following:
-
-“(d) Return requirement for certain transfers of digital assets not otherwise subject to reporting
-
-“Any broker, with respect to any transfer (which is not part of a sale or exchange executed by such broker) during a calendar year of a covered security which is a digital asset from an account maintained by such broker to an account which is not maintained by, or an address not associated with, a person that such broker knows or has reason to know is also a broker, shall make a return for such calendar year, in such form as determined by the Secretary, showing the information otherwise required to be furnished with respect to transfers subject to subsection (a).”
-
-See 2021 Amendment notes below.
 
 #### Amendments
 2021—Subsec. (a). Pub. L. 117–58, § 80603(b)(2)(A)(i), struck out “a security which is” after “section 6045(c)(1))”.
@@ -4752,7 +4720,7 @@ shall make a return according to the forms or regulations prescribed by the Secr
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (b)(4)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(4)(J), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 Section 54, referred to in subsec. (d)(8)(A), was repealed by Pub. L. 115–97, title I, § 13404(a), Dec. 22, 2017, 131 Stat. 2138.
 
@@ -5289,9 +5257,11 @@ shall make the return described in subsection (b) with respect to such transacti
 
 **(d) Cash includes foreign currency and certain monetary instruments** For purposes of this section, the term “cash” includes—
 
-(1) foreign currency, and
+(1) foreign currency,
 
-(2) to the extent provided in regulations prescribed by the Secretary, any monetary instrument (whether or not in bearer form) with a face amount of not more than $10,000.
+(2) to the extent provided in regulations prescribed by the Secretary, any monetary instrument (whether or not in bearer form) with a face amount of not more than $10,000, and
+
+(3) any digital asset (as defined in section 6045(g)(3)(D)).
 Paragraph (2) shall not apply to any check drawn on the account of the writer in a financial institution referred to in subsection (c)(1)(B).
 
 **(e) Statements to be furnished to persons with respect to whom information is required** Every person required to make a return under subsection (a) shall furnish to each person whose name is required to be set forth in such return a written statement showing—
@@ -5354,19 +5324,6 @@ The written statement required under the preceding sentence shall be furnished t
   (B) the aggregate amount of cash described in paragraph (1) received by such clerk.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 117–58, div. H, title VI, § 80603(b)(3), (c), Nov. 15, 2021, 135 Stat. 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d) of this section is amended—
-
-(1) in paragraph (1), by striking “and” at the end;
-
-(2) in paragraph (2), by striking the period at the end and inserting “, and”; and
-
-(3) by inserting after paragraph (2) the following new paragraph:
-
-“(3) any digital asset (as defined in section 6045(g)(3)(D)).”
-
-See 2021 Amendment note below.
 
 #### Amendments
 2021—Subsec. (d)(3). Pub. L. 117–58 added par. (3).
@@ -6310,6 +6267,39 @@ Pub. L. 115–97, title I, § 13306(b)(3), Dec. 22, 2017, 131 Stat. 2129, provid
 Section applicable to reportable policy sales (as defined in subsection (d)(2) of this section) after Dec. 31, 2017, and reportable death benefits (as defined in subsection (d)(4) of this section) paid after Dec. 31, 2017, see section 13520(d) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under [section 6047 of this title](./chapter-061-information-and-returns.md#section-6047).
 
 
+<a id="section-6050z"></a>
+## § 6050Z. Reports relating to long-term care premium statements
+**(a) Requirement of reporting** Any issuer of certified long-term care insurance (as defined in section 401(a)(39)(C)) who provides a long-term care premium statement with respect to any purchaser pursuant to section 401(a)(39)(E) for a calendar year, shall make a return not later than February 1 of the succeeding calendar year, according to forms or regulations prescribed by the Secretary, setting forth with respect to each such purchaser—
+
+(1) the name and taxpayer identification number of such issuer,
+
+(2) a statement that the coverage is certified long-term care insurance as defined in section 401(a)(39)(C),
+
+(3) the name of the owner of such coverage,
+
+(4) identification of the individual covered and such individual’s relationship to the owner,
+
+(5) the premiums paid for the coverage for the calendar year, and
+
+(6) such other information as the Secretary may require.
+
+**(b) Statement to be furnished to persons with respect to whom information is required** Every person required to make a return under subsection (a) shall furnish to each individual whose name is required to be set forth in such return a written statement showing—
+
+(1) the name, address, and phone number of the information contact of the issuer of the contract or coverage, and
+
+(2) the aggregate amount of premiums and charges paid under the contract or coverage covering the insured individual during the calendar year.
+The written statement required under the preceding sentence shall be furnished to the individual or individuals on or before January 31 of the year following the calendar year for which the return required under subsection (a) was required to be made.
+
+**(c) Contracts or coverage covering more than one insured** In the case of contracts or coverage covering more than one insured, the return and statement required by subsections (a) and (b) shall identify only the portion of the premium that is properly allocable to the insured in respect of whom the return or statement is made.
+
+**(d) Statement to be furnished on request** If any individual to whom a return is required to be furnished under subsection (b) requests that such a return be furnished at any time before the close of the calendar year, the person required to make the return under subsection (b) shall comply with such request and shall furnish to the Secretary at such time a copy of the return so provided.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to distributions made after the date which is 3 years after Dec. 29, 2022, see section 334(e) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+
 <a id="section-6051"></a>
 ## § 6051. Receipts for employees
 **(a) Requirement** Every person required to deduct and withhold from an employee a tax under section 3101 or 3402, or who would have been required to deduct and withhold a tax under section 3402 (determined without regard to subsection (n)) if the employee had claimed no more than one withholding exemption, or every employer engaged in a trade or business who pays remuneration for services performed by an employee, including the cash value of such remuneration paid in any medium other than cash, shall furnish to each such employee in respect of the remuneration paid by such person to such employee during the calendar year, on or before January 31 of the succeeding year, or, if his employment is terminated before the close of such calendar year, within 30 days after the date of receipt of a written request from the employee if such 30-day period ends before January 31, a written statement showing the following:
@@ -6416,9 +6406,9 @@ In the case of compensation paid for service as a member of a uniformed service,
 ### Statutory Notes
 
 #### References in Text
-The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in subsec. (a), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsecs. (c) and (e)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act is classified to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c) and (e)(2)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title XVIII of the Social Security Act is classified to part A (§ 1395c et seq.) of subchapter XVIII of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2019—Subsec. (a)(14). Pub. L. 116–94, § 503(b)(1)(A), substituted “subsection (g)” for “section 4980I(d)(1)” in introductory provisions.
@@ -6912,7 +6902,9 @@ such information (including information relating to plan years beginning before 
 
 (2) **Plans to which more than one employer contributes** — This section shall apply to any plan to which more than one employer is required to contribute only to the extent provided in regulations prescribed under this subsection.
 
-**(g) Cross references** For provisions relating to penalties for failure to register or furnish statements required by this section, see section 6652(d) and section 6690. For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of the Employee Retirement Income Security Act of 1974.
+**(g) 403(b) multiple employer plans treated as one plan** In the case of annuity contracts to which this section applies and to which section 403(b) applies by reason of the plan under which such contracts are purchased meeting the requirements of paragraph (15) thereof, such plan shall be treated as a single plan for purposes of this section.
+
+**(h) Cross references** For provisions relating to penalties for failure to register or furnish statements required by this section, see section 6652(d) and section 6690. For coordination between Department of the Treasury and the Department of Labor with regard to administration of this section, see section 3004 of the Employee Retirement Income Security Act of 1974.
 
 ### Statutory Notes
 
@@ -6920,6 +6912,8 @@ such information (including information relating to plan years beginning before 
 Section 203 of part 2 of subtitle B of title I of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(1), is classified to [section 1053 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1053&num=0&edition=prelim), Labor. Section 3004 of such Act, referred to in subsec. (g), is classified to [section 1204 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1204&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsecs. (g), (h). Pub. L. 117–328 added subsec. (g) and redesignated former subsec. (g) as (h).
+
 1994—Subsecs. (d), (f)(1). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services” in heading and text of subsec. (d) and in text of subsec. (f)(1).
 
 1986—Subsec. (g). Pub. L. 99–514 substituted “section 6652(d)” for “section 6652(e)”.
@@ -6931,6 +6925,9 @@ Subsec. (e). Pub. L. 98–397 inserted provision that such statement shall also 
 Subsec. (f). Pub. L. 98–369 substituted “Secretary of Health and Human Services” for “Secretary of Health, Education, and Welfare”.
 
 1976—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 106(h)(1) of Pub. L. 117–328, set out as a note under [section 403 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-403).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under [section 401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim), The Public Health and Welfare.
@@ -6971,7 +6968,9 @@ Pub. L. 93–406, title X, § 1034, Sept. 2, 1974, 88 Stat. 948, as amended by P
 
 (2) section 4974.
 
-**(f) Cross references** For provisions relating to penalties for failure to file a return required by this section, see section 6652(e). For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.
+**(f) 403(b) multiple employer plans treated as one plan** In the case of annuity contracts to which this section applies and to which section 403(b) applies by reason of the plan under which such contracts are purchased meeting the requirements of paragraph (15) thereof, such plan shall be treated as a single plan for purposes of this section.
+
+**(g) Cross references** For provisions relating to penalties for failure to file a return required by this section, see section 6652(e). For coordination between the Department of the Treasury and the Department of Labor with respect to the information required under this section, see section 3004 of title III of the Employee Retirement Income Security Act of 1974.
 
 ### Statutory Notes
 
@@ -6979,6 +6978,8 @@ Pub. L. 93–406, title X, § 1034, Sept. 2, 1974, 88 Stat. 948, as amended by P
 Section 3004 of title III of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f), is classified to [section 1204 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1204&num=0&edition=prelim), Labor.
 
 #### Amendments
+2022—Subsecs. (f), (g). Pub. L. 117–328 added subsec. (f) and redesignated former subsec. (f) as (g).
+
 2018—Subsec. (e). Pub. L. 115–141 redesignated pars. (2) and (3) as (1) and (2), respectively, and struck out former par. (1) which read as follows: “section 408(f),”.
 
 1986—Subsec. (f). Pub. L. 99–514 substituted “section 6652(e)” for “section 6652(f)”.
@@ -6990,6 +6991,9 @@ Section 3004 of title III of the Employee Retirement Income Security Act of 1974
 Subsecs. (d) to (f). Pub. L. 95–600 added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 
 1976—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 106(h)(1) of Pub. L. 117–328, set out as a note under [section 403 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-403).
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–514 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1986, see section 1501(e) of Pub. L. 99–514, set out as an Effective Date note under [section 6721 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6721).
@@ -7003,8 +7007,15 @@ Pub. L. 95–600, title I, § 157(k)(3), Nov. 6, 1978, 92 Stat. 2809, provided t
 #### Effective Date
 Section effective Sept. 2, 1974, except that the requirements of subsec. (a) shall apply only with respect to plan years beginning after Sept. 2, 1974, see section 1034 of Pub. L. 93–406, set out as a note under [section 6057 of this title](./chapter-061-information-and-returns.md#section-6057).
 
+#### Updated Forms
+Pub. L. 117–328, div. T, title I, § 103(c)(2), Dec. 29, 2022, 136 Stat. 5285, provided that: “The Secretary of the Treasury shall amend the forms relating to reports required under section 6058 of the Internal Revenue Code of 1986 to require— “(A) separate reporting of the aggregate amount of contributions received by the plan during the year under section 6433 of the Internal Revenue Code of 1986 (as added by this section), and “(B) similar reporting with respect to individual retirement accounts (as defined in section 408 of such Code) and individual retirement annuities (as defined in section 408(b) of such Code).”
+
+[Pub. L. 117–328, div. T, title I, § 103(f), Dec. 29, 2022, 136 Stat. 5286, provided that section 103(c)(2) of Pub. L. 117–328, set out above, is applicable to taxable years beginning after Dec. 31, 2026.]
+
 #### Combined Annual Report for Group of Plans
-Pub. L. 116–94, div. O, title II, § 202(a)–(c), (e), Dec. 20, 2019, 133 Stat. 3162, 3163, provided that: “(a) In General.—The Secretary of the Treasury and the Secretary of Labor shall, in cooperation, modify the returns required under section 6058 of the Internal Revenue Code of 1986 and the reports required by section 104 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1024](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024&num=0&edition=prelim)) so that all members of a group of plans described in subsection (c) may file a single aggregated annual return or report satisfying the requirements of both such sections. “(b) Administrative Requirements.—In developing the consolidated return or report under subsection (a), the Secretary of the Treasury and the Secretary of Labor may require such return or report to include any information regarding each plan in the group as such Secretaries determine is necessary or appropriate for the enforcement and administration of the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.] and shall require such information as will enable a participant in a plan to identify any aggregated return or report filed with respect to the plan. “(c) Plans Described.—A group of plans is described in this subsection if all plans in the group—“(1) are individual account plans or defined contribution plans (as defined in section 3(34) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1002(34)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/34&num=0&edition=prelim)) or in section 414(i) of the Internal Revenue Code of 1986); “(2) have—“(A) the same trustee (as described in section 403(a) of such Act ([29 U.S.C. 1103(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1103/a&num=0&edition=prelim))); “(B) the same one or more named fiduciaries (as described in section 402(a) of such Act ([29 U.S.C. 1102(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1102/a&num=0&edition=prelim))); “(C) the same administrator (as defined in section 3(16)(A) of such Act ([29 U.S.C. 1002(16)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/16/A&num=0&edition=prelim))) and plan administrator (as defined in section 414(g) of the Internal Revenue Code of 1986); and “(D) plan years beginning on the same date; and “(3) provide the same investments or investment options to participants and beneficiaries. A plan not subject to title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.] shall be treated as meeting the requirements of paragraph (2) as part of a group of plans if the same person that performs each of the functions described in such paragraph, as applicable, for all other plans in such group performs each of such functions for such plan. “(e) Effective Date.—The modification required by subsection (a) shall be implemented not later than January 1, 2022, and shall apply to returns and reports for plan years beginning after December 31, 2021.”
+Pub. L. 116–94, div. O, title II, § 202(a)–(c), (e), Dec. 20, 2019, 133 Stat. 3162, 3163, as amended by Pub. L. 117–328, div. T, title III, § 345(a), Dec. 29, 2022, 136 Stat. 5380, provided that: “(a) In General.—The Secretary of the Treasury and the Secretary of Labor shall, in cooperation, modify the returns required under section 6058 of the Internal Revenue Code of 1986 and the reports required by section 104 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1024](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024&num=0&edition=prelim)) so that—“(1) all members of a group of plans described in subsection (c) may file a single aggregated annual return or report satisfying the requirements of both such sections; and “(2) any opinions required by section 103(a)(3) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1023(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1023/a/3&num=0&edition=prelim)) shall relate only to each individual plan which would otherwise be subject to the requirements of such section 103(a)(3). “(b) Administrative Requirements.—In developing the consolidated return or report under subsection (a), the Secretary of the Treasury and the Secretary of Labor may require such return or report to include any information regarding each plan in the group as such Secretaries determine is necessary or appropriate for the enforcement and administration of the Internal Revenue Code of 1986 and the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.] and shall require such information as will enable a participant in a plan to identify any aggregated return or report filed with respect to the plan. “(c) Plans Described.—A group of plans is described in this subsection if all plans in the group—“(1) are individual account plans or defined contribution plans (as defined in section 3(34) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1002(34)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/34&num=0&edition=prelim)) or in section 414(i) of the Internal Revenue Code of 1986); “(2) have—“(A) the same trustee (as described in section 403(a) of such Act ([29 U.S.C. 1103(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1103/a&num=0&edition=prelim))); “(B) the same one or more named fiduciaries (as described in section 402(a) of such Act ([29 U.S.C. 1102(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1102/a&num=0&edition=prelim))); “(C) the same administrator (as defined in section 3(16)(A) of such Act ([29 U.S.C. 1002(16)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/16/A&num=0&edition=prelim))) and plan administrator (as defined in section 414(g) of the Internal Revenue Code of 1986); and “(D) plan years beginning on the same date; and “(3) provide the same investments or investment options to participants and beneficiaries. A plan not subject to title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.] shall be treated as meeting the requirements of paragraph (2) as part of a group of plans if the same person that performs each of the functions described in such paragraph, as applicable, for all other plans in such group performs each of such functions for such plan. “(e) Effective Date.—The modification required by subsection (a) shall be implemented not later than January 1, 2022, and shall apply to returns and reports for plan years beginning after December 31, 2021.”
+
+[Pub. L. 117–328, div. T, title III, § 345(b), Dec. 29, 2022, 136 Stat. 5381, provided that: “The amendments made by this section [amending section 202(a) of Pub. L. 116–94, set out above] shall take effect on the date of the enactment of this Act [Dec. 29, 2022].” ]
 
 #### Reporting Simplification
 Pub. L. 109–280, title XI, § 1103, Aug. 17, 2006, 120 Stat. 1057, provided that: “(a) Simplified Annual Filing Requirement for Owners and Their Spouses.—“(1) In general.—The Secretary of the Treasury shall modify the requirements for filing annual returns with respect to one-participant retirement plans to ensure that such plans with assets of $250,000 or less as of the close of the plan year need not file a return for that year. “(2) One-participant retirement plan defined.—For purposes of this subsection, the term ‘one-participant retirement plan’ means a retirement plan with respect to which the following requirements are met:“(A) on the first day of the plan year—“(i) the plan covered only one individual (or the individual and the individual’s spouse) and the individual owned 100 percent of the plan sponsor (whether or not incorporated), or “(ii) the plan covered only one or more partners (or partners and their spouses) in the plan sponsor; “(B) the plan meets the minimum coverage requirements of section 410(b) of the Internal Revenue Code of 1986 without being combined with any other plan of the business that covers the employees of the business; “(C) the plan does not provide benefits to anyone except the individual (and the individual’s spouse) or the partners (and their spouses); “(D) the plan does not cover a business that is a member of an affiliated service group, a controlled group of corporations, or a group of businesses under common control; and “(E) the plan does not cover a business that uses the services of leased employees (within the meaning of section 414(n) of such Code). For purposes of this paragraph, the term ‘partner’ includes a 2-percent shareholder (as defined in section 1372(b) of such Code) of an S corporation. “(3) Other definitions.—Terms used in paragraph (2) which are also used in section 414 of the Internal Revenue Code of 1986 shall have the respective meanings given such terms by such section. “(4) Effective date.—The provisions of this subsection shall apply to plan years beginning on or after January 1, 2007. “(b) Simplified Annual Filing Requirement for Plans With Fewer Than 25 Participants.—In the case of plan years beginning after December 31, 2006, the Secretary of the Treasury and the Secretary of Labor shall provide for the filing of a simplified annual return for any retirement plan which covers less than 25 participants on the first day of a plan year and which meets the requirements described in subparagraphs (B), (D), and (E) of subsection (a)(2).”
@@ -8826,34 +8837,22 @@ shall disclose any return or return information obtained by him in any manner in
 
   (A) *Safeguards* — Notwithstanding any other provision of this section, no return or return information shall be disclosed after December 31, 1978, to any officer or employee of any State which requires a taxpayer to attach to, or include in, any State tax return a copy of any portion of his Federal return, or information reflected on such Federal return, unless such State adopts provisions of law which protect the confidentiality of the copy of the Federal return (or portion thereof) attached to, or the Federal return information reflected on, such State tax return.
 
-  (B) *Disclosure of returns or return information in State returns* — Nothing in subparagraph (A) shall be construed to prohibit the disclosure by an officer or employee of any State of any copy of any portion of a Federal return or any information on a Federal return which is required to be attached or included in a State return to another officer or employee of such State (or political subdivision of such State) if such disclosure is specifically authorized by State law.
+  (B) *Disclosure of returns or return information in State returns* — Nothing in subparagraph (A) or paragraph (9) shall be construed to prohibit the disclosure by an officer or employee of any State of any copy of any portion of a Federal return or any information on a Federal return which is required to be attached or included in a State return to another officer or employee of such State (or political subdivision of such State) if such disclosure is specifically authorized by State law.
+
+(9) **Disclosure to contractors and other agents** — Notwithstanding any other provision of this section, no return or return information shall be disclosed to any contractor or other agent of a Federal, State, or local agency unless such agency, to the satisfaction of the Secretary—
+
+  (A) has requirements in effect which require each such contractor or other agent which would have access to returns or return information to provide safeguards (within the meaning of paragraph (4)) to protect the confidentiality of such returns or return information,
+
+  (B) agrees to conduct an on-site review every 3 years (or a mid-point review in the case of contracts or agreements of less than 3 years in duration) of each contractor or other agent to determine compliance with such requirements,
+
+  (C) submits the findings of the most recent review conducted under subparagraph (B) to the Secretary as part of the report required by paragraph (4)(E), and
+
+  (D) certifies to the Secretary for the most recent annual period that such contractor or other agent is in compliance with all such requirements.
+  The certification required by subparagraph (D) shall include the name and address of each contractor or other agent, a description of the contract or agreement with such contractor or other agent, and the duration of such contract or agreement. The requirements of this paragraph shall not apply to disclosures pursuant to subsection (n) for purposes of Federal tax administration.
 
 **(q) Regulations** The Secretary is authorized to prescribe such other regulations as are necessary to carry out the provisions of this section.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (p)
-Pub. L. 116–25, title II, § 2004, July 1, 2019, 133 Stat. 1003, provided that, applicable to disclosures made after Dec. 31, 2022, subsection (p) of this section is amended as follows:
-
-(1) in paragraph (8)(B), by inserting “or paragraph (9)” after “subparagraph (A)”; and
-
-(2) by adding at the end the following new paragraph:
-
-(9) Disclosure to contractors and other agents
-
-Notwithstanding any other provision of this section, no return or return information shall be disclosed to any contractor or other agent of a Federal, State, or local agency unless such agency, to the satisfaction of the Secretary—
-
-(A) has requirements in effect which require each such contractor or other agent which would have access to returns or return information to provide safeguards (within the meaning of paragraph (4)) to protect the confidentiality of such returns or return information,
-
-(B) agrees to conduct an on-site review every 3 years (or a mid-point review in the case of contracts or agreements of less than 3 years in duration) of each contractor or other agent to determine compliance with such requirements,
-
-(C) submits the findings of the most recent review conducted under subparagraph (B) to the Secretary as part of the report required by paragraph (4)(E), and
-
-(D) certifies to the Secretary for the most recent annual period that such contractor or other agent is in compliance with all such requirements.
-
-The certification required by subparagraph (D) shall include the name and address of each contractor or other agent, a description of the contract or agreement with such contractor or other agent, and the duration of such contract or agreement. The requirements of this paragraph shall not apply to disclosures pursuant to subsection (n) for purposes of Federal tax administration.
-
-See 2019 Amendment notes below.
 
 #### References in Text
 The Federal Rules of Criminal Procedure, referred to in subsecs. (h)(4)(D) and (i)(4)(A)(ii), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
@@ -8884,7 +8883,7 @@ The Higher Education Act of 1965, referred to in subsecs. (l)(13)(A)–(D) and (
 
 The date of enactment of this paragraph, referred to in subsec. (l)(13)(A)–(C), and the date of the enactment of this clause, referred to in subsec. (l)(13)(D)(iii)(III), is the date of the enactment of Pub. L. 116–91, which was approved Dec. 19, 2019.
 
-The Inspector General Act of 1978, referred to in subsec. (l)(13)(D)(i)(II), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (l)(13)(D)(i)(II), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 The date of enactment of the COVID-related Tax Relief Act of 2020, referred to in subsec. (l)(13)(D)(vi), means the date of enactment of subtitle B (§ 271 et seq.) of title II of div. N of Pub. L. 116–260, which was approved Dec. 27, 2020.
 
@@ -10995,7 +10994,7 @@ The Secretary shall determine the appropriate extent of such deletions and, exce
 ### Statutory Notes
 
 #### References in Text
-The Internal Revenue Code of 1939, referred to in subsec. (h)(3)(C), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+The Internal Revenue Code of 1939, referred to in subsec. (h)(3)(C), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Prior Provisions
 A prior section 6110 was renumbered 6116 of this title.

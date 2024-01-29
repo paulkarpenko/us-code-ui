@@ -71,15 +71,15 @@ Pub. L. 100–418, title V, § 5201, Aug. 23, 1988, 102 Stat. 1454, provided tha
 <a id="section-4802"></a>
 ## § 4802. Council established
 
-There is established the Competitiveness Policy Council (hereafter in this chapter referred to as the “Council”), an advisory committee under the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+There is established the Competitiveness Policy Council (hereafter in this chapter referred to as the “Council”), an advisory committee under the provisions of chapter 10 of title 5.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-4803"></a>
@@ -250,7 +250,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 (1) Within the limitations of appropriations to the Council, the Executive Director may appoint a staff for the Council in accordance with the Federal civil service and classification laws.
 
-(2) The staff of the Council shall be deemed to be special government employees as defined in [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim) for purposes of title II of the Ethics in Government Act of 1978 and sections 201, 202, 203, 205, 207, and 208 of title 18.
+(2) The staff of the Council shall be deemed to be special government employees as defined in [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim) for purposes of title II of the Ethics in Government Act of 1978 11 See References in Text note below. and sections 201, 202, 203, 205, 207, and 208 of title 18.
 
 **(c) Experts and consultants** The Council may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), but at rates for individuals not to exceed the daily equivalent of the maximum annual rate of basic pay for GS–16 of the General Schedule.
 
@@ -259,7 +259,7 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1990—Subsecs. (c), (d). Pub. L. 101–382 added subsecs. (c) and (d).
@@ -310,18 +310,19 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 (5) Any discussion held by any subcouncil shall not be considered to violate any Federal or State antitrust law.
 
-(6) Any discussion held by any subcouncil shall not be subject to the provisions of the Federal Advisory Committee Act, except that a Federal representative shall attend all subcouncil meetings.
+(6) Any discussion held by any subcouncil shall not be subject to the provisions of chapter 10 of title 5, except that a Federal representative shall attend all subcouncil meetings.
 
 (7) Any subcouncil shall terminate 30 days after making recommendations, unless the Council specifically requests that the subcouncil continue in operation.
 
-**(h) Applicability of Advisory Committee Act** The provisions of subsections (e) and (f) of section 10,11 So in original. The comma probably should not appear. of the Federal Advisory Committee Act shall not apply to the Council.
+**(h) Applicability of chapter 10 of title 5** The provisions of subsections (e) and (f) of [section 1009 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009&num=0&edition=prelim) shall not apply to the Council.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsecs. (g)(6) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (g)(6). Pub. L. 117–286, § 4(a)(74)(A), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,”.
+
+Subsec. (h). Pub. L. 117–286, § 4(a)(74)(B), substituted “chapter 10 of title 5” for “Advisory Committee Act” in heading and “subsections (e) and (f) of [section 1009 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009&num=0&edition=prelim)” for “subsections (e) and (f) of section 10, of the Federal Advisory Committee Act” in text.
+
 1990—Subsec. (c). Pub. L. 101–382 redesignated subsec. (d) as (c), and substituted “120” for “60”.
 
 Subsecs. (d) to (i). Pub. L. 101–382, § 133(c)(1), redesignated subsecs. (e) to (i) as (d) to (h), respectively. Former subsec. (d) redesignated (c).

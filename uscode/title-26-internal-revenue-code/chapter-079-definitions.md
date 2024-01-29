@@ -596,7 +596,7 @@ through the use of related persons, pass-thru entities, or other intermediaries.
 
 (5) **Coordination with other provisions of law** — No provision of law not contained in this title shall apply for purposes of determining the treatment under this title of the Thrift Savings Fund or any contribution to, or distribution from, such Fund.
 
-**(k) Treatment of certain amounts paid to charity** In the case of any payment which, except for section 501(b) of the Ethics in Government Act of 1978, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
+**(k) Treatment of certain amounts paid to charity** In the case of any payment which, except for [section 13143(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13143/b&num=0&edition=prelim), United States Code, might be made to any officer or employee of the Federal Government but which is made instead on behalf of such officer or employee to an organization described in section 170(c)—
 
 (1) such payment shall not be treated as received by such officer or employee for all purposes of this title and for all purposes of any tax law of a State or political subdivision thereof, and
 
@@ -670,9 +670,9 @@ Section 103 of the Demonstration Cities and Metropolitan Development Act of 1966
 
 The Internal Revenue Code of 1939, referred to in subsec. (a)(29), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§ 1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(35), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle C of title III of the Employee Retirement Income Security Act of 1974 is classified to subtitle C (§ 1241 et seq.) of subchapter II of chapter 18 of Title 29, Labor and amended subsec. (a)(35) of this section. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
-The Indian Tribal Governmental Tax Status Act of 1982, referred to in subsec. (a)(40)(B), is title II of Pub. L. 97–473, Jan. 14, 1983, 96 Stat. 2607, as amended, which is classified principally to subchapter C (§ 7871) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
+The Indian Tribal Governmental Tax Status Act of 1982, referred to in subsec. (a)(40)(B), is title II of Pub. L. 97–473, Jan. 14, 1983, 96 Stat. 2607, which is classified principally to subchapter C (§ 7871) of chapter 80 of this title. For complete classification of this Act to the Code, see Short Title of 1983 Amendments note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
 Section 101(15) of the Immigration and Nationality Act, referred to in subsec. (b)(5)(C)(i), (D)(i), probably means section 101(a)(15) of that Act, which is classified to [section 1101(a)(15) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim), Aliens and Nationality.
 
@@ -681,8 +681,6 @@ Section 212(2) of the Federal Water Pollution Control Act, referred to in subsec
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (e)(5)(B), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 Section 209 of the Social Security Act, referred to in subsec. (j)(3), is classified to [section 409 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section409&num=0&edition=prelim), The Public Health and Welfare.
-
-Section 501(b) of the Ethics in Government Act of 1978, referred to in subsec. (k), is section 501(b) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 The date of the enactment of the Commodity Futures Modernization Act of 2000, referred to in subsec. (m), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
@@ -695,6 +693,8 @@ Sections 1207(f) and 1222 of Pub. L. 109–280, which directed the amendment of 
 Subsec. (e)(3)(F). Pub. L. 117–169, § 13102(n)(1)(B), added subpar. (F).
 
 Subsec. (e)(4)(A). Pub. L. 117–169, § 13102(n)(2), substituted “water treatment works facility, or storage facility” for “or water treatment works facility” in introductory provisions.
+
+Subsec. (k). Pub. L. 117–286 substituted “[section 13143(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13143/b&num=0&edition=prelim), United States Code,” for “section 501(b) of the Ethics in Government Act of 1978,”.
 
 2018—Subsec. (a)(19)(A). Pub. L. 115–141, § 401(b)(54), struck out “either (i) is an insured institution within the meaning of section 401(a) of the National Housing Act (12 U.S.C., sec. 1724(a)), or (ii)” after “which”.
 
@@ -1875,7 +1875,7 @@ Pub. L. 107–147, title IV, § 416(f), Mar. 9, 2002, 116 Stat. 55, provided tha
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to [section 1395x(r)(1) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r/1&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(1)(B), (2)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1861(r)(1) of the Act is classified to [section 1395x(r)(1) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r/1&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (e). Pub. L. 109–280, § 844(c), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to treatment of coverage provided as part of a life insurance contract.

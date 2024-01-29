@@ -2,7 +2,7 @@
 title: 16
 chapter: '99'
 heading: MARITIME SECURITY AND FISHERIES ENFORCEMENT
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -39,14 +39,19 @@ Not later than 5 years after the submission of the 5-year integrated strategic p
 
   (F) an assessment of the capacity of governments of relevant countries in priority regions to sustain the programs for which the United States has provided assistance under this chapter;
 
-(7) an assessment of the capacity of priority flag states to track the movement of and police their fleet, prevent their flagged vessels from engaging in IUU fishing, and enforce applicable laws and regulations; and
+(7) an assessment of the capacity of priority flag states to track the movement of and police their fleet, prevent their flagged vessels from engaging in IUU fishing, and enforce applicable laws and regulations;
 
-(8) an assessment of the extent of involvement in IUU fishing of organizations designated as foreign terrorist organizations under [section 1189 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim).
+(8) an assessment of the extent of involvement in IUU fishing of organizations designated as foreign terrorist organizations under [section 1189 of title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim); and
+
+(9) the status of work with global enforcement partners.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in par. (6)(F), was in the original “this subtitle”, meaning subtitle C of title XXXV of div. C of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 1997, known as the Maritime Security and Fisheries Enforcement Act and also as the Maritime SAFE Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 8001 of this title](./chapter-099-maritime-security-and-fisheries-enforcement.md#section-8001) and Tables.
+
+#### Amendments
+2022—Par. (9). Pub. L. 117–263 added par. (9).
 
 
 <a id="section-8002"></a>
@@ -282,13 +287,13 @@ Not later than 1 year after December 20, 2019, each chief of mission (as defined
 
 **(c) Implementation of Port State Measures** The officials referred to in subsection (a) shall evaluate opportunities to provide assistance, as appropriate, to countries in priority regions and priority flag states to help those states implement programs related to port security and capacity for the purposes of preventing IUU fishing products from entering the global seafood market, including by supporting other countries in working toward the adoption and implementation of the Port State Measures Agreement.
 
-**(d) Capacity building for investigations and prosecutions** The officials referred to in subsection (a), in collaboration with the governments of countries in priority regions and of priority flag states, shall evaluate opportunities to assist those countries in designing and implementing programs in such countries, as appropriate, to increase the capacity of IUU fishing enforcement and customs and border security officers to improve their ability—
+**(d) Capacity building for investigations and prosecutions** The officials referred to in subsection (a), in collaboration with the governments of countries in priority regions and of priority flag states, shall evaluate opportunities to assist those countries in designing and implementing programs in such countries, to increase the capacity of IUU fishing enforcement and customs and border security officers to improve their ability—
 
 (1) to conduct effective investigations, including using law enforcement techniques such as undercover investigations and the development of informer networks and actionable intelligence;
 
 (2) to conduct vessel boardings and inspections at sea and associated enforcement actions;
 
-(3) to exercise existing shiprider agreements and to enter into and implement new shiprider agreements, as appropriate, including in those countries that have not adopted the Port State Measures Agreement;
+(3) to exercise existing shiprider agreements and to enter into and implement new shiprider agreements, for all priority regions identified by the Working Group, including in those countries that have not adopted the Port State Measures Agreement;
 
 (4) to conduct vessel inspections at port and associated enforcement actions;
 
@@ -308,6 +313,13 @@ Not later than 1 year after December 20, 2019, each chief of mission (as defined
 
 **(f) Coordination with other relevant agencies** The Secretary of State shall coordinate, as appropriate, with the Secretary of Commerce, the Commandant of the Coast Guard when the Coast Guard is not operating as a service in the Department of the Navy, and with other relevant Federal agencies in accordance with this section.
 
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–263, § 11339(b)(1), struck out “as appropriate,” after “such countries,” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 117–263, § 11339(b)(2), substituted “for all priority regions identified by the Working Group” for “as appropriate”.
+
 
 <a id="section-8017"></a>
 ## § 8017. Expansion of existing mechanisms to combat IUU fishing
@@ -326,8 +338,8 @@ Not later than 1 year after December 20, 2019, each chief of mission (as defined
 **(b) Information sharing** The Director of National Intelligence, in conjunction with other agencies, as appropriate, shall develop an enterprise approach to appropriately share information and data within the United States Government or with other countries or nongovernmental organizations, or the private sector, as appropriate, on IUU fishing and other connected transnational organized illegal activity occurring in priority regions and elsewhere, including big data analytics and machine learning.
 
 
-<a id="section-8031"></a>
-## § 8031. Improvement of transparency and traceability programs
+<a id="section-8018"></a>
+## § 8018. Improvement of transparency and traceability programs
 
 The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall work, as appropriate, with priority flag states and key countries in priority regions—
 
@@ -344,8 +356,8 @@ The Secretary of State, the Administrator of the United States Agency for Intern
   (C) enhance maritime domain awareness.
 
 
-<a id="section-8032"></a>
-## § 8032. Technology programs
+<a id="section-8031"></a>
+## § 8031. Technology programs
 
 The Secretary of State, the Administrator of the United States Agency for International Development, the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Department of the Navy, the Secretary of Defense, the Secretary of Commerce, and the heads of other Federal agencies, if merited, shall pursue programs, as appropriate, to expand the role of technology for combating IUU fishing, including by—
 
@@ -358,10 +370,28 @@ The Secretary of State, the Administrator of the United States Agency for Intern
 (4) building partnerships with the private sector, including universities, nonprofit research organizations, the seafood industry, and the technology, transportation and logistics sectors, to leverage new and existing technologies and data analytics to address IUU fishing.
 
 
-<a id="section-8033"></a>
-## § 8033. Savings clause
+<a id="section-8032"></a>
+## § 8032. Savings clause
 
 No provision of [section 8001 of this title](./chapter-099-maritime-security-and-fisheries-enforcement.md#section-8001) or of this subchapter shall impose, or be interpreted to impose, any duty, responsibility, requirement, or obligation on the Department of Defense, the Department of the Navy, the United States Coast Guard when operating as a service in the Department of Homeland Security, or any official or component of either.
+
+
+<a id="section-8033"></a>
+## § 8033. Capacity building in foreign fisheries
+
+The Secretary, in consultation with the heads of other Federal agencies, as appropriate, shall develop and carry out with partner governments and civil society—
+
+(1) multi-year international environmental cooperation agreements and projects; and
+
+(2) multi-year capacity-building projects for implementing measures to address illegal, unreported, or unregulated fishing, fraud, forced labor, bycatch, and other conservation measures.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Don Young Coast Guard Authorization Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Maritime Security and Fisheries Enforcement Act or the Maritime SAFE Act which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see section 11329 of div. K of Pub. L. 117–263, set out as a note under [section 1885a of this title](./chapter-038-fishery-conservation-and-management.md#section-1885a).
 
 
 <a id="section-8034"></a>
@@ -428,32 +458,42 @@ No provision of [section 8001 of this title](./chapter-099-maritime-security-and
 
 (3) establishing standards for information sharing related to maritime enforcement;
 
-(4) developing a strategy to determine how military assets and intelligence can contribute to enforcement strategies to combat IUU fishing;
+(4) maximizing the utility of the import data collected by the members of the Working Group by harmonizing data standards and entry fields;
 
-(5) increasing maritime domain awareness relating to IUU fishing and related crimes and developing a strategy to leverage awareness for enhanced enforcement and prosecution actions against IUU fishing;
+(5) developing a strategy to determine how military assets and intelligence can contribute to enforcement strategies to combat IUU fishing;
 
-(6) supporting the adoption and implementation of the Port State Measures Agreement in relevant countries and assessing the capacity and training needs in such countries;
+(6) increasing maritime domain awareness relating to IUU fishing and related crimes and developing a strategy to leverage awareness for enhanced enforcement and prosecution actions against IUU fishing;
 
-(7) outlining a strategy to coordinate, increase, and use shiprider agreements between the Department of Defense or the Coast Guard and relevant countries;
+(7) supporting the adoption and implementation of the Port State Measures Agreement in relevant countries and assessing the capacity and training needs in such countries;
 
-(8) enhancing cooperation with partner governments to combat IUU fishing;
+(8) outlining a strategy to coordinate, increase, and use shiprider agreements between the Department of Defense or the Coast Guard and relevant countries;
 
-(9) identifying opportunities for increased information sharing between Federal agencies and partner governments working to combat IUU fishing;
+(9) enhancing cooperation with partner governments to combat IUU fishing;
 
-(10) consulting and coordinating with the seafood industry and nongovernmental stakeholders that work to combat IUU fishing;
+(10) identifying opportunities for increased information sharing between Federal agencies and partner governments working to combat IUU fishing;
 
-(11) supporting the work of collaborative international initiatives to make available certified data from state authorities about vessel and vessel-related activities related to IUU fishing;
+(11) consulting and coordinating with the seafood industry and nongovernmental stakeholders that work to combat IUU fishing;
 
-(12) supporting the identification and certification procedures to address IUU fishing in accordance with the High Seas Driftnet Fishing Moratorium Protection Act ([16 U.S.C. 1826d](./chapter-038-fishery-conservation-and-management.md#section-1826d) et seq.); and
+(12) supporting the work of collaborative international initiatives to make available certified data from state authorities about vessel and vessel-related activities related to IUU fishing;
 
-(13) publishing annual reports summarizing nonsensitive information about the Working Group’s efforts to investigate, enforce, and prosecute groups and individuals engaging in IUU fishing.
+(13) supporting the identification and certification procedures to address IUU fishing in accordance with the High Seas Driftnet Fishing Moratorium Protection Act ([16 U.S.C. 1826d](./chapter-038-fishery-conservation-and-management.md#section-1826d) et seq.); and
+
+(14) publishing annual reports summarizing nonsensitive information about the Working Group’s efforts to investigate, enforce, and prosecute groups and individuals engaging in IUU fishing.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this subtitle”, meaning subtitle C of title XXXV of div. C of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 1997, known as the Maritime Security and Fisheries Enforcement Act and also as the Maritime SAFE Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 8001 of this title](./chapter-099-maritime-security-and-fisheries-enforcement.md#section-8001) and Tables.
 
-The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (c)(12), is Pub. L. 104–43, title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of this title and provisions set out as a note under [section 1826d of this title](./chapter-038-fishery-conservation-and-management.md#section-1826d). For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+The High Seas Driftnet Fishing Moratorium Protection Act, referred to in subsec. (c)(13), is Pub. L. 104–43, title VI, Nov. 3, 1995, 109 Stat. 391, which enacted sections 1826d to 1826g of this title and provisions set out as a note under [section 1826d of this title](./chapter-038-fishery-conservation-and-management.md#section-1826d). For complete classification of this Act to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+
+#### Amendments
+2022—Subsec. (c)(4) to (14). Pub. L. 117–263 added par. (4) and redesignated former pars. (4) to (13) as (5) to (14), respectively.
+
+#### Prohibition on Aggregated Catch Data for Certain Species
+Pub. L. 117–263, div. K, title CXIII, § 11331(b), Dec. 23, 2022, 136 Stat. 4099, provided that: “Beginning not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], for the purposes of compliance with respect to Northern red snapper under the Seafood Import Monitoring Program, the Secretary may not allow an aggregated harvest report of such species, regardless of vessel size.”
+
+[For definition of terms as used in section 11331(b) of Pub. L. 117–263, set out above, see section 11329 of div. K of Pub. L. 117–263, set out as a note under [section 1885a of this title](./chapter-038-fishery-conservation-and-management.md#section-1885a).]
 
 
 <a id="section-8041"></a>

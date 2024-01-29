@@ -288,7 +288,7 @@ Pub. L. 104–201, div. A, title V, § 507(c), Sept. 23, 1996, 110 Stat. 2512, p
 
 <a id="section-2107"></a>
 ## § 2107. Financial assistance program for specially selected members
-**(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy, as a second lieutenant in the Army, Air Force, Marine Corps, or as an officer in the equivalent grade in the Space Force, as the case may be.
+**(a)** The Secretary of the military department concerned may appoint as a cadet or midshipman, as appropriate, in the reserve of an armed force under his jurisdiction any eligible member of the program who will be under 31 years of age on December 31 of the calendar year in which he is eligible under this section for appointment as an ensign in the Navy or as a second lieutenant in the Army, Air Force, Marine Corps,,11 So in original. as the case may be.
 
 **(b)** To be eligible for appointment as a cadet or midshipman under this section a member must—
 
@@ -387,9 +387,19 @@ The performance of service under clause (5)(B) or (5)(C) may include periods of 
 
     (ii) the Secretary concerned to take into consideration the determinations made under clause (i) with respect to such condition in making a final decision regarding whether to suspend payment in the case of such cadet or midshipman on the basis of that condition, and the conditions under which such suspension may be lifted.
 
+**(k) Applicability to Space Force.—**
+
+(1) Provisions of this section referring to a regular commission, regular officer, or a commission in a regular component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force serving on active duty pursuant to [section 20105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105/b&num=0&edition=prelim).
+
+(2) Provisions of this section referring to a reserve commission, reserve officer, or a commission in a reserve component shall be treated as also referring to the commission of an officer, or an officer, who is a commissioned officer in the Space Force not serving on active duty pursuant to [section 20105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105/b&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 1722(l)(2)(A), substituted “Navy or” for “Navy,” and struck out “or as an officer in the equivalent grade in the Space Force” after “Marine Corps,”.
+
+Subsec. (k). Pub. L. 118–31, § 1722(l)(2)(B), added subsec. (k).
+
 2021—Pub. L. 116–283, § 924(b)(3)(EE), substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
 
 Subsec. (a). Pub. L. 117–81 struck out “or Space Force” after “in the Space Force”.
@@ -486,7 +496,7 @@ Pub. L. 102–484, div. A, title V, § 532(b), Oct. 23, 1992, 106 Stat. 2411, pr
 Pub. L. 98–94, title X, § 1003(c)(3), Sept. 24, 1983, 97 Stat. 657, provided that: “The amendments made by this subsection [amending this section] shall apply with respect to agreements entered into under [section 2107(b)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2107/b/5&num=0&edition=prelim), United States Code, after September 30, 1983.”
 
 #### Effective Date of 1980 Amendments
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 Amendment by Pub. L. 96–357 effective Oct. 1, 1980, see section 1(e) of Pub. L. 96–357, set out as a note under [section 2107a of this title](./chapter-103-senior-reserve-officers-training-corps.md#section-2107a).
 
@@ -761,9 +771,12 @@ Pub. L. 89–51, § 4, June 28, 1965, 79 Stat. 173, provided that: “The effect
 <a id="section-2111"></a>
 ## § 2111. Personnel: administrators and instructors
 
-The Secretary of the military department concerned may detail regular or reserve members of an armed force under his jurisdiction (including retired members and members of the Fleet Reserve and Fleet Marine Corps Reserve recalled to active duty with their consent) for instructional and administrative duties at educational institutions where units of the program are maintained.
+The Secretary of the military department concerned may detail regular or reserve members of an armed force under his jurisdiction (including retired members and members of the Fleet Reserve and Fleet Marine Corps Reserve recalled to active duty with their consent) for instructional and administrative duties at educational institutions where units of the program are maintained. The Secretary of the Air Force may detail members of the Space Force in the same manner as regular and reserve members of the Air Force.
 
 ### Statutory Notes
+
+#### Amendments
+2023—Pub. L. 118–31 inserted at end “The Secretary of the Air Force may detail members of the Space Force in the same manner as regular and reserve members of the Air Force.”
 
 #### Demonstration Project for Instruction and Support of Army ROTC Units by Army Reserve and National Guard
 Pub. L. 104–201, div. A, title V, § 554, Sept. 23, 1996, 110 Stat. 2527, directed the Secretary of the Army to carry out a demonstration project in order to assess the feasibility and advisability of providing instruction and similar support to units of the Senior Reserve Officers’ Training Corps of the Army through members of the Army Reserve, including members of the Individual Ready Reserve, and members of the Army National Guard, at at least one institution of higher education, and to submit to Congress a report assessing the activities under the project not later than Feb. 1 in each of 1998 and 1999, and provided that the Secretary’s authority to carry out the project would expire three years after Sept. 23, 1996.

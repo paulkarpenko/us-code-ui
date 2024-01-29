@@ -1094,7 +1094,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
       (IV) any fee collected under any such paragraph shall be available for expenditure only to pay the costs described in subsection (f)(3)(A) incurred in providing customs services in connection with the activity or item for which the fee is charged under such paragraph.
 
-**(k) Advisory committee** The Commissioner of U.S. Customs and Border Protection shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a). The advisory committee shall not be subject to termination under section 14 of the Federal Advisory Committee Act. The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
+**(k) Advisory committee** The Commissioner of U.S. Customs and Border Protection shall establish an advisory committee whose membership shall consist of representatives from the airline, cruise ship, and other transportation industries who may be subject to fees under subsection (a). The advisory committee shall not be subject to termination under [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim). The advisory committee shall meet on a periodic basis and shall advise the Commissioner on issues related to the performance of the inspectional services of the United States Customs Service. Such advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Commissioner shall give consideration to the views of the advisory committee in the exercise of his or her duties.
 
 **(l) Adjustment of fees for inflation**
 
@@ -1168,14 +1168,14 @@ Sections 261 and 267 of this title, as in effect before the enactment of section
 
 The amendments and repeals made by this section, referred to in subsec. (j)(1), means the amendment of [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and the repeal of section 1741(e) of former Title 49, Transportation, by subsec. (h) of this section.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (k), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 Section is comprised of section 13031 of Pub. L. 99–272. Subsec. (h) of section 13031 of Pub. L. 99–272 amended [section 545(i) of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section545/i&num=0&edition=prelim), Railroads, and repealed section 1741(e) of former Title 49, Transportation.
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–286 substituted “[section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim).” for “section 14 of the Federal Advisory Committee Act.”
+
 2021—Subsec. (j)(3)(A). Pub. L. 117–58, § 80301(a)(1), substituted “September 30, 2031” for “September 30, 2030”.
 
 Pub. L. 117–2, § 9912(a)(1), substituted “September 30, 2030” for “October 21, 2029”.

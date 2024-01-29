@@ -2,7 +2,7 @@
 title: 50
 chapter: '41'
 heading: NATIONAL NUCLEAR SECURITY ADMINISTRATION
-section_count: 39
+section_count: 41
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -35,7 +35,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 2013—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, text read as follows: “In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration.”
@@ -84,7 +84,7 @@ Pub. L. 106–65, div. C, title XXXII, § 3298, Oct. 5, 1999, 113 Stat. 971, pro
 
 (6) Safeguards and security.
 
-(7) Emergency management.
+(7) Emergency management and Nuclear Emergency Support Team capabilities, including all field-deployed and remote technical support to public health and safety missions, countering weapons of mass destruction operations, technical and operational nuclear forensics, and responses to United States nuclear weapon accidents.
 
 (8) Integrated safety management.
 
@@ -110,6 +110,8 @@ Pub. L. 106–65, div. C, title XXXII, § 3298, Oct. 5, 1999, 113 Stat. 971, pro
 
 (19) Liaison with other elements of the Department of Energy and with other Federal agencies, State, tribal, and local governments, and the public.
 
+(20) Information resources management, including cybersecurity.
+
 **(c) Procurement authority** The Administrator is the senior procurement executive for the Administration for the purposes of [section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim).
 
 **(d) Policy authority** The Administrator may establish Administration-specific policies, unless disapproved by the Secretary of Energy.
@@ -125,6 +127,10 @@ Pub. L. 106–65, div. C, title XXXII, § 3298, Oct. 5, 1999, 113 Stat. 971, pro
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(7). Pub. L. 118–31, § 3112(b), inserted “and Nuclear Emergency Support Team capabilities, including all field-deployed and remote technical support to public health and safety missions, countering weapons of mass destruction operations, technical and operational nuclear forensics, and responses to United States nuclear weapon accidents” after “management”.
+
+Subsec. (b)(20). Pub. L. 118–31, § 3111(1), added par. (20).
+
 2013—Subsec. (a)(2). Pub. L. 112–239 made technical amendment to reference in original act which appears in text as reference to [section 7132 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7132&num=0&edition=prelim).
 
 Subsec. (c). Pub. L. 113–66 substituted “[section 1702(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1702/c&num=0&edition=prelim)” for “[section 414(3) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section414/3&num=0&edition=prelim)”.
@@ -177,11 +183,11 @@ A prior section 2403, Pub. L. 106–65, div. C, title XXXII, § 3213, Oct. 5, 19
 
 (2) Directing, managing, and overseeing the nuclear weapons production facilities and the national security laboratories.
 
-(3) Directing, managing, and overseeing assets to respond to incidents involving nuclear weapons and materials.
-
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(3). Pub. L. 118–31 struck out par. (3) which read as follows: “Directing, managing, and overseeing assets to respond to incidents involving nuclear weapons and materials.”
+
 2001—Subsec. (c). Pub. L. 107–107 struck out heading and text of subsec. (c). Text read as follows: “The head of each national security laboratory and nuclear weapons production facility shall, consistent with applicable contractual obligations, report to the Deputy Administrator for Defense Programs.”
 
 #### Effective Date
@@ -430,6 +436,39 @@ Subsec. (i)(2). Pub. L. 115–232, § 3113(a)(3), struck out subpar. (A) designa
 Pub. L. 115–232, div. C, title XXXI, § 3113(b), Aug. 13, 2018, 132 Stat. 2290, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 18 months after the date of the enactment of this Act [Aug. 13, 2018].”
 
 
+<a id="section-2412"></a>
+## § 2412. Cybersecurity Risk Inventory, Assessment, and Mitigation Working Group
+**(a) Establishment** There is in the Administration a working group, to be known as the “Cybersecurity Risk Inventory, Assessment, and Mitigation Working Group” (referred to in this section as the “working group”).
+
+**(b) Membership** Members of the working group shall include—
+
+(1) the Deputy Administrator for Defense Programs;
+
+(2) the Associate Administrator for Information Management and Chief Information Officer; and
+
+(3) such other personnel of the Administration as are determined appropriate for inclusion in the working group by the Chairperson.
+
+**(c) Chairperson** The Deputy Administrator for Defense Programs shall serve as the Chairperson of the working group, except that the Administrator may designate another member of the working group to serve as Chairperson in lieu of the Deputy Administrator if the Administrator determines it is appropriate to do so.
+
+**(d) Comprehensive strategy** The working group shall prepare a comprehensive strategy for inventorying the range of systems of the Administration that are potentially at risk in the operational technology and nuclear weapons information technology environments, assessing the systems at risk based on mission impact, and implementing risk mitigation actions. Such strategy shall incorporate key elements of effective cybersecurity risk management strategies, as identified by the Government Accountability Office, including the specification of—
+
+(1) goals, objectives, activities, and performance measures;
+
+(2) organizational roles, responsibilities, and coordination;
+
+(3) resources needed to implement the strategy through 2034; and
+
+(4) detailed milestones and schedules for completion of tasks.
+
+**(e) Submission to Congress**
+
+(1) **Interim briefing** — Not later than 120 days after December 22, 2023, the working group shall provide to the congressional defense committees a briefing on the plan of the working group to develop the strategy required under subsection (d).
+
+(2) **Completed strategy** — Not later than April 1, 2025, the working group shall submit the congressional defense committees a copy of the completed strategy.
+
+**(f) Termination** The working group shall terminate on a date determined by the Administrator that is not earlier than the date that is five years after December 22, 2023.
+
+
 <a id="section-2421"></a>
 ## § 2421. Protection of national security information
 **(a) Policies and procedures required** The Administrator shall establish procedures to ensure the maximum protection of classified information in the possession of the Administration.
@@ -452,11 +491,13 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 (2) The Chief shall have direct access to the Secretary and all other officials of the Department and the contractors of the Department concerning security matters.
 
-(3) The Chief shall be responsible for the development and implementation of security programs for the Administration, including the protection, control and accounting of materials, and for the physical and cyber security for all facilities of the Administration.
+(3) The Chief shall be responsible for the development and implementation of security programs for the Administration, including the protection, control and accounting of materials, and for the physical security for all facilities of the Administration.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(3). Pub. L. 118–31 struck out “and cyber” after “physical”.
+
 2006—Pub. L. 109–364, § 3117(b)(1)(A), struck out “Office of Defense Nuclear Counterintelligence and” before “Office of Defense Nuclear Security” in section catchline.
 
 Subsec. (a). Pub. L. 109–364, § 3117(b)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
@@ -598,14 +639,16 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 <a id="section-2441"></a>
 ## § 2441. Authority to establish certain contracting, program management, scientific, engineering, and technical positions
 
-The Administrator may, for the purposes of carrying out the responsibilities of the Administrator under this chapter, establish not more than 800 contracting, program management, scientific, engineering, and technical positions in the Administration, appoint individuals to such positions, and fix the compensation of such individuals. Subject to the limitations in the preceding sentence, the authority of the Administrator to make appointments and fix compensation with respect to positions in the Administration under this section shall be equivalent to, and subject to the limitations of, the authority under [section 2201(d) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) to make appointments and fix compensation with respect to officers and employees described in such section. To ensure that the positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such a position to replace the vacancy of a position not established under this section.
+The Administrator may, for the purposes of carrying out the responsibilities of the Administrator under this chapter, establish not more than 1,200 contracting, program management, scientific, engineering, and technical positions in the Administration, appoint individuals to such positions, and fix the compensation of such individuals. Subject to the limitations in the preceding sentence, the authority of the Administrator to make appointments and fix compensation with respect to positions in the Administration under this section shall be equivalent to, and subject to the limitations of, the authority under [section 2201(d) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) to make appointments and fix compensation with respect to officers and employees described in such section. To ensure that the positions established under this section are used, the Administrator, to the extent practicable, shall appoint an individual to such a position to replace the vacancy of a position not established under this section.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
 #### Amendments
+2023—Pub. L. 118–31 substituted “1,200” for “800”.
+
 2019—Pub. L. 116–92 substituted “800” for “600”.
 
 2013—Pub. L. 113–66, in last sentence, substituted “positions established” for “excepted positions established”, “a position” for “an excepted position”, and “position not established under this section” for “nonexcepted position”.
@@ -618,19 +661,37 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
 <a id="section-2441a"></a>
 ## § 2441a. Authorized personnel levels of the Office of the Administrator
-**(a) Full-time equivalent personnel levels**
+**(a) Use of IPA** The Administrator shall ensure that the expertise of the national security laboratories and the nuclear weapons production facilities is made available to the Administration, the Department of Energy, the Department of Defense, other Federal agencies, and Congress through the temporary assignment of personnel from such laboratories and facilities pursuant to the Intergovernmental Personnel Act Mobility Program and other similar programs.
 
-(1) **Total number** — The total number of employees of the Office of the Administrator may not exceed 1,890.
+**(b) Office of the Administrator employees** In this section, the term “Office of the Administrator”, with respect to the employees of the Administration, includes employees whose funding is derived from an account of the Administration titled “Federal Salaries and Expenses”.
 
-(2) **Excess** — For fiscal year 2020 and each fiscal year thereafter, the Administrator may not exceed the total number of employees authorized under paragraph (1) unless, during each fiscal year in which such total number exceeds 1,890, the Administrator submits to the congressional defense committees a report justifying such excess.
+**(c) Annual briefing** In conjunction with the submission of the budget of the President to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Administrator shall provide to the congressional defense committees a briefing containing the following information:
 
-**(b) Counting rule**
+(1) A projection of the expected number of employees of the Office of the Administrator, as counted under subsection (d), for the fiscal year covered by the budget and the four subsequent fiscal years, broken down by the office in which the employees are projected to be assigned.
 
-(1) A determination of the number of employees in the Office of the Administrator under subsection (a) shall be expressed on a full-time equivalent basis.
+(2) With respect to the most recent fiscal year for which data is available—
 
-(2) Except as provided by paragraph (3), in determining the total number of employees in the Office of the Administrator under subsection (a), the Administrator shall count each employee of the Office without regard to whether the employee is located at the headquarters of the Administration, a site office of the Administration, a service or support center of the Administration, or any other location.
+  (A) the number of service support contracts of the Administration and whether such contracts are funded using program or program direction funds;
 
-(3) The following employees may not be counted for purposes of determining the total number of employees in the Office of the Administrator under subsection (a):
+  (B) the number of full-time equivalent contractor employees working under each contract identified under subparagraph (A);
+
+  (C) the number of full-time equivalent contractor employees described in subparagraph (B) that have been employed under such a contract for a period greater than two years;
+
+  (D) with respect to each contract identified under subparagraph (A)—
+
+    (i) identification of each appropriations account that supports the contract; and
+
+    (ii) the amount obligated under the contract during the fiscal year, listed by each such account; and
+
+  (E) with respect to each appropriations account identified under subparagraph (D)(i), the total amount obligated for contracts identified under subparagraph (A).
+
+**(d) Counting rule**
+
+(1) A determination of the number of employees in the Office of the Administrator under subsection (c) shall be expressed on a full-time equivalent basis.
+
+(2) Except as provided by paragraph (3), in determining the total number of employees in the Office of the Administrator under subsection (c), the Administrator shall count each employee of the Office without regard to whether the employee is located at the headquarters of the Administration, a site office of the Administration, a service or support center of the Administration, or any other location.
+
+(3) The following employees may not be counted for purposes of determining the total number of employees in the Office of the Administrator under subsection (c):
 
   (A) Employees of the Office of Naval Reactors.
 
@@ -640,33 +701,21 @@ Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as
 
   (D) Personnel supporting the Office of the Administrator pursuant to the mobility program under subchapter VI of chapter 33 of title 5 (commonly referred to as the “Intergovernmental Personnel Act Mobility Program”).
 
-**(c) Voluntary early retirement** In accordance with [section 3523 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3523&num=0&edition=prelim), the Administrator may offer voluntary separation or retirement incentives to meet the total number of employees authorized under subsection (a).
-
-**(d) Use of IPA** The Administrator shall ensure that the expertise of the national security laboratories and the nuclear weapons production facilities is made available to the Administration, the Department of Energy, the Department of Defense, other Federal agencies, and Congress through the temporary assignment of personnel from such laboratories and facilities pursuant to the Intergovernmental Personnel Act Mobility Program and other similar programs.
-
-**(e) Office of the Administrator employees** In this section, the term “Office of the Administrator”, with respect to the employees of the Administration, includes employees whose funding is derived from an account of the Administration titled “Federal Salaries and Expenses”.
-
-**(f) Annual report** The Administrator shall include in the budget justification materials submitted to Congress in support of the budget of the Administration for each fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)) a report containing the following information for the most recent fiscal year for which data are available:
-
-(1) The number of full-time equivalent employees of the Office of the Administrator, as counted under subsection (a).
-
-(2) The number of service support contracts of the Administration and whether such contracts are funded using program or program direction funds.
-
-(3) The number of full-time equivalent contractor employees working under each contract identified under paragraph (2).
-
-(4) The number of full-time equivalent contractor employees described in paragraph (3) that have been employed under such a contract for a period greater than two years.
-
-(5) With respect to each contract identified under paragraph (2)—
-
-  (A) identification of each appropriations account that supports the contract; and
-
-  (B) the amount obligated under the contract during the fiscal year, listed by each such account.
-
-(6) With respect to each appropriations account identified under paragraph (5)(A), the total amount obligated for contracts identified under paragraph (2).
-
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 3117(a)(1), (2), redesignated subsec. (d) as (a) and struck out former subsec. (a) which limited the number of employees of the Office of the Administrator to 1,890 and required justification for any excess starting with fiscal year 2020.
+
+Subsec. (b). Pub. L. 117–263, § 3117(a)(2), redesignated subsec. (e) as (b). Former subsec. (b) redesignated (d).
+
+Subsec. (c). Pub. L. 117–263, § 3117(a)(2), (b), redesignated subsec. (f) as (c) and amended it generally. Prior to amendment, subsec. related to report to be included in annual budget justification materials. Former subsec. (c) struck out.
+
+Pub. L. 117–263, § 3117(a)(1), struck out subsec. (c). Text read as follows: “In accordance with [section 3523 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3523&num=0&edition=prelim), the Administrator may offer voluntary separation or retirement incentives to meet the total number of employees authorized under subsection (a).”
+
+Subsec. (d). Pub. L. 117–263, § 3117(a)(3), (c), redesignated subsec. (b) as (d) and substituted “under subsection (c)” for “under subsection (a)” wherever appearing. Former subsec. (d) redesignated (a).
+
+Subsecs. (e), (f). Pub. L. 117–263, § 3117(a)(2), redesignated subsecs. (e) and (f) as (b) and (c), respectively.
+
 2019—Subsec. (a)(1). Pub. L. 116–92, § 3111(a)(1)(A), (B)(i), substituted “The” for “By October 1, 2015, the” and “1,890” for “1,690”.
 
 Subsec. (a)(2). Pub. L. 116–92, § 3111(a)(1)(A), (B)(ii), substituted “2020” for “2016” and “1,890” for “1,690”.
@@ -923,6 +972,9 @@ Pub. L. 111–84, div. C, title XXXI, § 3141, Oct. 28, 2009, 123 Stat. 2715, pr
 #### Effective Date
 Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
+#### Updated Financial Integration Policy
+Pub. L. 118–31, div. C, title XXXI, § 3132, Dec. 22, 2023, 137 Stat. 804, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Administrator for Nuclear Security shall issue an updated financial integration policy, which shall include the following: “(1) Updated responsibilities for offices of the National Nuclear Security Administration and requirements for management and operating contractors, including contractors at sites that are not sites of the Administration. “(2) Guidance for how offices of the Administration should use common financial data, including guidance requiring that such data be used as the primary source of financial data by program offices, to the extent practicable. “(3) Processes recommended by the Government Accountability Office to improve financial integration efforts of the Administration, including an internal process to verify how management and operating contractors crosswalk data from their systems to the appropriate work breakdown structure of the Administration and apply common cost element definitions. “(4) Any other matters the Administrator considers appropriate.”
+
 #### First Report on Assessment of Prior Plans; GAO Report
 Pub. L. 106–398, § 1 [div. C, title XXXI, § 3158(b), (c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–469, provided that the first report submitted under subsec. (c)(2) of this section was to be the report prepared with respect to the budget submitted in calendar year 2001, and that, not later than Mar. 15, 2001, the Comptroller General would submit to Congress an assessment of the adequacy of the planning, programming, and budgeting processes of the National Nuclear Security Administration.
 
@@ -1007,6 +1059,9 @@ Subsec. (e). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3154(b)(2)], redesi
 #### Effective Date
 Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
 
+#### Integrated Schedule for Future-Years Nuclear Security Program
+Pub. L. 118–31, div. C, title XXXI, § 3128, Dec. 22, 2023, 137 Stat. 795, provided that: “(a) In General.—The Administrator for Nuclear Security shall—“(1) develop and maintain a high-level milestone schedule document for all covered construction projects that includes production infrastructure modernization schedules with weapons modernization programs; and “(2) for each covered construction project included in the high-level milestone schedule document under paragraph (1), include in such document an identification and explanation of the status of any associated integrated master schedule. “(b) Inclusion in Future-years Nuclear Security Program.—The milestone schedule document required under subsection (a) shall be included in the future-years nuclear security program for fiscal year 2025 and each subsequent fiscal year. “(c) Covered Construction Project.—In this section, the term ‘covered construction project’ means—“(1) a construction project that is subject to Department of Energy Order 413.3B, or a successor order; or “(2) a program designated as Enhanced Management A or B under the Program Execution Instruction of the Office of Defense Programs of the National Nuclear Security Administration.”
+
 #### Technical Base and Facilities Maintenance and Recapitalization Activities
 Pub. L. 108–136, div. C, title XXXI, § 3114, Nov. 24, 2003, 117 Stat. 1744, as amended by Pub. L. 108–375, div. C, title XXXI, § 3113(a), Oct. 28, 2004, 118 Stat. 2160; Pub. L. 109–364, div. C, title XXXI, § 3112, Oct. 17, 2006, 120 Stat. 2503, provided that: “(a) Inclusion of Projects in Facilities and Infrastructure Recapitalization Program.—(1) The Administrator for Nuclear Security shall complete the selection of projects for inclusion in the Facilities and Infrastructure Recapitalization Program of the National Nuclear Security Administration not later than December 31, 2004. “(2) Except as provided in paragraph (3), no project may be included in the Facilities and Infrastructure Recapitalization Program after December 31, 2004, unless such project has been selected for inclusion in that program as of that date. “(3)(A) Subject to the provisions of this paragraph, a project described in subparagraph (B) may be carried out under the Facilities and Infrastructure Recapitalization Program after December 31, 2004, if the Administrator approves the project. The Administrator may not delegate the authority to approve projects under the preceding sentence. “(B) A project described in this subparagraph is a project that consists of a specific building, facility, or other improvement (including fences, roads, or similar improvements). “(C) Funds may not be obligated or expended for a project under this paragraph until 60 days after the date on which the Administrator submits to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a notice on the project, including a description of the project and the nature of the project, a statement explaining why the project was not included in the Facilities and Infrastructure Recapitalization Program under paragraph (1), and a statement explaining why the project was not included in any other program under the jurisdiction of the Administrator. “(D) The total number of projects that may be carried out under this paragraph in any fiscal year may not exceed five projects. “(E) The Administrator may not utilize the authority in this paragraph until 60 days after the later of—“(i) the date of the submittal to the congressional defense committees of a list of the projects selected for inclusion in the Facilities and Infrastructure Recapitalization Program under paragraph (1); or “(ii) the date of the submittal to the congressional defense committees of the report required by subsection (c). “(F) A project may not be carried out under this paragraph unless the project will be completed by September 30, 2013. “(b) Termination of Facilities and Infrastructure Recapitalization Program.—The Administrator shall terminate the Facilities and Infrastructure Recapitalization Program not later than September 30, 2013. “(c) Readiness in Technical Base and Facilities Program.—(1) Not later than September 30, 2004, the Administrator shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives] a report setting forth guidelines on the conduct of the Readiness in Technical Base and Facilities program of the National Nuclear Security Administration. “(2) Such guidelines shall include the following:“(A) Criteria for the inclusion of projects in the program, and for establishing priorities among projects included in the program. “(B) Mechanisms for the management of facilities under the program, including maintenance activities referred to in subparagraph (C). “(C) A description of the scope of maintenance activities under the program, including recurring maintenance, construction of facilities, recapitalization of facilities, and decontamination and decommissioning of facilities. “(3) Such guidelines shall ensure that the maintenance activities referred to in paragraph (2)(C) are carried out in a timely and efficient manner designed to avoid maintenance backlogs. “(d) Operations of Facilities Program.—(1) The Administrator shall continue the Operations of Facilities program of the National Nuclear Security Administration as a subprogram within the Readiness in Technical Base and Facilities program. “(2) The Deputy Administrator for Defense Programs shall designate a single manager to be responsible for overseeing the operations of the Operations of Facilities subprogram within the Readiness in Technical Base and Facilities program. “(3) For fiscal year 2005, and for each fiscal year thereafter, the Secretary of Energy shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of Senate and House of Representatives], together with the budget justification materials submitted to Congress in support of the National Nuclear Security Administration budget for that fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code), a separate statement of the amounts requested for such fiscal year for each element of the Operations of Facilities subprogram, as follows:“(A) Maintenance. “(B) Facilities management and support. “(C) Utilities. “(D) Environment, safety, and health. “(E) Each other element of the subprogram.”
 
@@ -1086,7 +1141,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
+This chapter, referred to in subsec. (c), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
 #### Effective Date
 Section effective Mar. 1, 2000, see section 3299 of Pub. L. 106–65, set out as a note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401).
@@ -1146,6 +1201,19 @@ Pub. L. 114–92, div. C, title XXXI, § 3120, Nov. 25, 2015, 129 Stat. 1198, pr
 Section was enacted as part of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011, and not as part of the National Nuclear Security Administration Act which comprises this chapter.
 
 
+<a id="section-2466"></a>
+## § 2466. Use of funds for the purchase of options to purchase real property
+**(a) Authority** Subject to the limitation in subsection (b), funds authorized to be appropriated for the Administration for the purchase of real property may be expended to purchase options for the purchase of real property.
+
+**(b) Limitation on price of options** The price of any option purchased pursuant to subsection (a) may not exceed the minor construction threshold (as defined in [section 2741 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2741)).
+
+**(c) Notice** Not later than 14 days after the date an option is purchased pursuant to subsection (a), the Administrator shall submit to the congressional defense committees—
+
+(1) a notification of such purchase; and
+
+(2) a summary of the rationale for such purchase.
+
+
 <a id="section-2471"></a>
 ## § 2471. Definitions
 
@@ -1188,7 +1256,7 @@ For purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
 Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, § 6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
@@ -1284,7 +1352,7 @@ With respect to any facility, mission, or function of the Department of Energy t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For effective date of this chapter, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401). For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, which is classified principally to this chapter. For effective date of this chapter, see section 3299 of Pub. L. 106–65, set out as an Effective Date note under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401). For complete classification of title XXXII to the Code, see Short Title note set out under [section 2401 of this title](./chapter-041-national-nuclear-security-administration.md#section-2401) and Tables.
 
 #### Amendments
 2013—Pub. L. 112–239 amended section generally. Prior to amendment, text read as follows: “Unless otherwise provided in this chapter, all provisions of law and regulations in effect immediately before the effective date of this chapter that are applicable to functions of the Department of Energy specified in [section 2481 of this title](./chapter-041-national-nuclear-security-administration.md#section-2481) shall continue to apply to the corresponding functions of the Administration.”

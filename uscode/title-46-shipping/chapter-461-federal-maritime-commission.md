@@ -14,9 +14,9 @@ source: >-
 
 (1) **Composition.—** — The Commission is composed of 5 Commissioners, appointed by the President by and with the advice and consent of the Senate. Not more than 3 Commissioners may be appointed from the same political party.
 
-(2) **Terms.—** — The term of each Commissioner is 5 years. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed one year. Except as provided in paragraph (3), no individual may serve more than 2 terms.
+(2) **Terms.—** — The term of each Commissioner is 5 years. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified, but for a period not to exceed 2 years. Except as provided in paragraph (3), no individual may serve more than 3 terms.
 
-(3) **Vacancies.—** — A vacancy shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. An individual appointed to fill a vacancy may serve 2 terms in addition to the remainder of the term for which the predecessor of that individual was appointed.
+(3) **Vacancies.—** — A vacancy shall be filled in the same manner as the original appointment. An individual appointed to fill a vacancy is appointed only for the unexpired term to which such individual is appointed. An individual appointed to fill a vacancy may serve 3 terms in addition to the remainder of the term for which such individual was appointed.
 
 (4) **Conflicts of interest.—**
 
@@ -81,6 +81,10 @@ Subsection (c)(3) is based on section 2 of Reorganization Plan No. 6 of 1949 and
 Subsection (c)(4) is based on section 3 of Reorganization Plan No. 6 of 1949.
 
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–263, § 11801(a)(1), substituted “2 years” for “one year” and “3 terms” for “2 terms”.
+
+Subsec. (b)(3). Pub. L. 117–263, § 11801(a)(2), substituted “to which such individual is appointed” for “of the individual being succeeded”, “3 terms” for “2 terms”, and “such” for “the predecessor of that”.
+
 2021—Pub. L. 116–283, § 8605(a)(3), renumbered [section 301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section301&num=0&edition=prelim) as this section.
 
 Subsec. (c)(3)(A)(v). Pub. L. 116–283, § 8605(b)(1), substituted “46104” for “304”.
@@ -92,6 +96,9 @@ Subsec. (c)(3)(A)(vi). Pub. L. 114–120, § 402(2)–(4), added cl. (vi).
 2014—Subsec. (b)(2). Pub. L. 113–281, § 403(a)(1), amended par. (2) generally. Prior to amendment, text read as follows: “The term of each Commissioner is 5 years, with each term beginning one year apart. An individual appointed to fill a vacancy is appointed only for the unexpired term of the individual being succeeded. A vacancy shall be filled in the same manner as the original appointment. When the term of a Commissioner ends, the Commissioner may continue to serve until a successor is appointed and qualified.”
 
 Subsec. (b)(3) to (5). Pub. L. 113–281, § 403(a)(2), added pars. (3) and (4) and redesignated former par. (3) as (5).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. K, title CXVIII, § 11801(b), Dec. 23, 2022, 136 Stat. 4163, provided that: “The amendments made by this section [amending this section] shall not apply to Commissioners to whom section 403(b) of the Howard Coble Coast Guard and Maritime Transportation Act of 2014 (Public Law 113–281) [set out below] applies.”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–281, title IV, § 403(b), Dec. 18, 2014, 128 Stat. 3056, provided that: “The amendment made by subsection (a)(1) [amending this section] does not apply with respect to a Commissioner of the Federal Maritime Commission appointed and confirmed by the Senate before the date of the enactment of this Act [Dec. 18, 2014].”

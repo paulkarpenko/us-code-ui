@@ -28,7 +28,7 @@ In subsection (b) reference to R.S. 4813 ([24 U.S.C. 6](https://uscode.house.gov
 In subsection (c) the words “each retired enlisted member of the naval service” are substituted for the words “retired enlisted men” and the words “is entitled to” are substituted for the words “shall receive” to conform to terminology used throughout this title. The words “equal in value to the hospital ration” are substituted for the words “prescribed by law for enlisted men of the Regular Navy” to show that the amount of the allowance is the value of the hospital ration. The words “for each day” are inserted to make it clear that the ration allowance is credited on a daily basis. The words “under this section” are substituted for the words “in a Federal hospital in accordance with law” because this section is the only authority for the hospitalization of members of the Fleet Reserve and Fleet Marine Corps Reserve and retired enlisted members of the naval service in Federal hospitals, other than naval hospitals, under conditions entitling the members to a ration allowance. The subsistence of a member of the Fleet Reserve or Fleet Marine Corps Reserve or a retired enlisted member of the naval service while hospitalized in naval hospitals is covered by [§ 6086 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6086&num=0&edition=prelim).
 
 #### Prior Provisions
-A prior section 8281 was renumbered [section 9151 of this title](./chapter-915-appointments-in-the-regular-air-force-and-the-regular-space-force.md#section-9151).
+A prior section 8281 was renumbered [section 9151 of this title](./chapter-915-appointments-in-the-regular-air-force-and-in-the-space-force.md#section-9151).
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 6201 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6201&num=0&edition=prelim) as this section.
@@ -41,7 +41,7 @@ A prior section 8281 was renumbered [section 9151 of this title](./chapter-915-a
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8282"></a>

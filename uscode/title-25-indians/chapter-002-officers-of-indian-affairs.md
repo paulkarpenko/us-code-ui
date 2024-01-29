@@ -249,7 +249,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 (1) **Indian economic enterprise** — The term “Indian economic enterprise” has the meaning given the term in section 1480.201 of title 48, Code of Federal Regulations (or successor regulations).
 
-(2) **Mentor firm; protege firm** — The terms “mentor firm” and “protege firm” have the meanings given those terms in section 831(c) of the National Defense Authorization Act for Fiscal Year 1991 ([10 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim) note; Public Law 101–510).
+(2) **Mentor firm; protege firm** — The terms “mentor firm” and “protege firm” have the meanings given those terms in [section 4902(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4902/c&num=0&edition=prelim).
 
 (3) **Secretaries** — The term “Secretaries” means—
 
@@ -339,6 +339,8 @@ Section is based on proviso of first sentence of section 23 of act of June 25, 1
 Provisions similar to those in this section were contained in act Apr. 30, 1908, ch. 153, 35 Stat. 71, making appropriations for the Indian Department.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263 substituted “[section 4902(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4902/c&num=0&edition=prelim)” for “section 831(c) of the National Defense Authorization Act for Fiscal Year 1991 ([10 U.S.C. 2302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim) note; Public Law 101–510)”.
+
 2020—Pub. L. 116–261, § 4, amended section generally. Prior to amendment, section related to employment of Indian labor and purchase of products of Indian industry and participation in Mentor-Protege Program.
 
 1994—Pub. L. 103–435 inserted at end “Participation in the Mentor-Protege Program established under section 831 of the National Defense Authorization Act for Fiscal Year 1991 ([10 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2301&num=0&edition=prelim) note) or receipt of assistance pursuant to any developmental assistance agreement authorized under such program shall not render Indian labor or Indian industry ineligible to receive any assistance authorized under this section. For the purposes of this section—

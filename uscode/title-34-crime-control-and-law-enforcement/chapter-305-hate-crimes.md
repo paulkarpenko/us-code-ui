@@ -450,7 +450,7 @@ Section was formerly classified as a note under [section 249 of Title 18](https:
 #### References in Text
 The Hate Crime Statistics Act, referred to in subsecs. (b)(3) and (g)(1)(A), is Pub. L. 101–275, Apr. 23, 1990, 104 Stat. 140, which was set out as a note under [section 534 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), Judiciary and Judicial Procedure, prior to editorial reclassification as [section 41305 of this title](./chapter-413-crime-reports-and-statistics.md#section-41305), and as provisions set out as a note under [section 41305 of this title](./chapter-413-crime-reports-and-statistics.md#section-41305).
 
-The Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act, referred to in subsec. (b)(3), is division E of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2835. For complete classification of this Act, see Short Title of 2009 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+The Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act, referred to in subsec. (b)(3), is division E of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2835. For complete classification of this Act to the Code, see Short Title of 2009 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 #### Codification
 Section was enacted as part of the Khalid Jabara and Heather Heyer National Opposition to Hate, Assault, and Threats to Equality Act of 2021 or the Jabara-Heyer NO HATE Act and also as part of the COVID–19 Hate Crimes Act, and not as part of the Matthew Shepard and James Byrd, Jr. Hate Crimes Prevention Act, which comprises this chapter.

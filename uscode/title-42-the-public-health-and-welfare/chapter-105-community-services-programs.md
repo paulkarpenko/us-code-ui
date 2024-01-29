@@ -157,7 +157,7 @@ Section, Pub. L. 97–35, title VI, § 614, Aug. 13, 1981, 95 Stat. 489; Pub. L.
 1998—Subsec. (a)(2). Pub. L. 105–285 substituted “through an appropriate office” for “through the Office of Community Services established in [section 9905(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9905/a&num=0&edition=prelim)”.
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-9809"></a>
@@ -652,7 +652,7 @@ For purposes of this subchapter:
 
 (24) The term “Secretary” means the Secretary of Health and Human Services.
 
-(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in [section 9835(a)(2)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9835/a/2/B/v&num=0&edition=prelim) has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.
+(25) The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands. The term “State” includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
 (26) The term “unresolved area of noncompliance” means failure to correct a noncompliance item within 120 days, or within such additional time (if any) as is authorized by the Secretary, after receiving from the Secretary notice of such noncompliance item, pursuant to [section 9836a(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9836a/c&num=0&edition=prelim).
 
@@ -664,6 +664,8 @@ The Alaska Native Claims Settlement Act, referred to in par. (12), is Pub. L. 92
 The Elementary and Secondary Education Act of 1965, referred to in par. (16), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, which is classified generally to chapter 70 (§ 6301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2024—Par. (25). Pub. L. 118–42 substituted “The term ‘State’ includes the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.” for “The term includes the Republic of Palau for fiscal years 2008 and 2009, and (if the legislation described in [section 9835(a)(2)(B)(v) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9835/a/2/B/v&num=0&edition=prelim) has not been enacted by September 30, 2009) for fiscal years 2010 through 2012.”
+
 2015—Par. (3). Pub. L. 114–95, § 9215(nn)(1)(A), substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))”.
 
 Par. (15)(A)(ii)(I). Pub. L. 114–95, § 9215(nn)(1)(B), substituted “(as defined in section 8101 of the Elementary and Secondary Education Act of 1965), an Alaska Native, or a native resident of an outlying area (as defined in such section 8101);” for “(as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))), an Alaska Native, or a native resident of an outlying area (as defined in such section 9101);”.
@@ -845,9 +847,9 @@ Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L
 
     (iii) to provide an amount for the migrant and seasonal Head Start programs, on a nationwide basis, that is equal to the amount provided nationwide for base grants for such programs under this subchapter for the prior fiscal year, by allotting to each Head Start agency administering a migrant or seasonal Head Start program an amount equal to that agency’s base grant for the prior fiscal year;
 
-    (iv) to provide an amount for each of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Virgin Islands of the United States (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency’s base grant for the prior fiscal year;
+    (iv) to provide an amount for each of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of Palau, and the Virgin Islands of the United States (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency’s base grant for the prior fiscal year;
 
-    (v) to provide an amount for the Republic of Palau (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) for each of fiscal years 2008 and 2009, and (if legislation approving a new agreement regarding United States assistance for the Republic of Palau has not been enacted by September 30, 2009) for each of fiscal years 2010 through 2012, that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency’s base grant for the prior fiscal year; and
+    (v) if a base grant has been established through appropriations for the Federated States of Micronesia or the Republic of the Marshall Islands, to provide an amount for that jurisdiction (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency’s base grant for the prior fiscal year; and
 
     (vi) to provide an amount for a collaboration grant under [section 9837b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9837b/a&num=0&edition=prelim) for each State, for the Indian Head Start programs, and for the migrant and seasonal Head Start programs, in the same amount as the corresponding collaboration grant provided under this subchapter for fiscal year 2007.
 
@@ -1172,6 +1174,10 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (m)(3), is Pu
 This subchapter, referred to in subsec. (j), was in the original “this Act” and was translated as reading “this subchapter”, meaning subchapter B (§§ 635–657) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 499, known as the Head Start Act, which is classified generally to this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+2024—Subsec. (a)(2)(B)(iv). Pub. L. 118–42, § 209(b)(6)(B)(i), inserted “the Republic of Palau,” before “and the Virgin Islands”.
+
+Subsec. (a)(2)(B)(v). Pub. L. 118–42, § 209(b)(6)(B)(ii), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “to provide an amount for the Republic of Palau (for Head Start agencies (including Early Head Start agencies) in the jurisdiction) for each of fiscal years 2008 and 2009, and (if legislation approving a new agreement regarding United States assistance for the Republic of Palau has not been enacted by September 30, 2009) for each of fiscal years 2010 through 2012, that is equal to the amount provided for base grants for such jurisdiction under this subchapter for the prior fiscal year, by allotting to each agency described in this clause an amount equal to that agency’s base grant for the prior fiscal year; and”.
+
 2007—Subsec. (a). Pub. L. 110–134, § 6(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to distribution of appropriations, allotment requirements, and priorities for Head Start funds.
 
 Subsec. (d). Pub. L. 110–134, § 6(b), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall establish policies and procedures designed to assure that for fiscal year 1999 and thereafter no less than 10 percent of the total number of enrollment opportunities in Head Start programs in each State shall be available for children with disabilities and that services shall be provided to meet their special needs. Such policies and procedures shall require Head Start agencies to coordinate programmatic efforts with efforts to implement part C and section 619 of the Individuals with Disabilities Education Act ([20 U.S.C. 1431–144](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1431–144&num=0&edition=prelim)4, 1419).”
@@ -1745,6 +1751,9 @@ Subsec. (c)(1). Pub. L. 98–558, § 104(b)(2), (3), substituted “makes a find
 Subsec. (c)(2). Pub. L. 98–558, § 104(b)(4), inserted “except that” before “if”.
 
 Subsecs. (d) to (f). Pub. L. 98–558, § 104(c), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
@@ -3202,6 +3211,12 @@ Amendment by Pub. L. 101–501 effective Oct. 1, 1990, see section 1001(a) of Pu
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–425 effective Oct. 1, 1986, see section 1001 of Pub. L. 99–425, set out as a note under [section 8621 of this title](./chapter-094-low-income-energy-assistance.md#section-8621).
 
+#### Selection Criteria for Indian Tribe Operating Head Start Program
+Pub. L. 118–47, div. D, title II, § 238, Mar. 23, 2024, 138 Stat. 681, provided that: “In this fiscal year and each fiscal year thereafter, notwithstanding the income eligibility requirements of subsections (a) and paragraphs (1) and (2) of subsection (d) of section 645 of the Head Start Act [[42 U.S.C. 9840](./chapter-105-community-services-programs.md#section-9840)] and income eligibility criteria and allowances prescribed in regulations, an Indian tribe that operates a Head Start program may, at its discretion, establish selection criteria, including criteria to prioritize children in families for which a child, a family member, or a member of the same household, is a member of an Indian tribe, to enroll children who would benefit from the Head Start program.”
+
+#### Selection Criteria for Agency Operating Migrant or Seasonal Head Start Program
+Pub. L. 118–47, div. D, title II, § 239, Mar. 23, 2024, 138 Stat. 681, provided that: “In this fiscal year and each fiscal year thereafter, notwithstanding the income eligibility requirements of subsection (a) of section 645 of the Head Start Act [[42 U.S.C. 9840](./chapter-105-community-services-programs.md#section-9840)] and income eligibility criteria and allowances prescribed in regulations, an agency that operates a migrant or seasonal Head Start program may, at its discretion, establish selection criteria to enroll children who would benefit from the Head Start program, giving priority to children of migrant farmworker families: Provided, That such selection criteria shall limit that enrollment to children who have at least one family member whose income comes primarily from agricultural employment as defined in section 3 of the Migrant and Seasonal Agricultural Worker Protection Act ([29 U.S.C. 1802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1802&num=0&edition=prelim)).”
+
 
 <a id="section-9840a"></a>
 ## § 9840a. Early Head Start programs
@@ -3769,6 +3784,9 @@ Subsecs. (c), (d). Pub. L. 102–586, § 7(b)(2), added subsecs. (c) and (d).
 
 1984—Pub. L. 98–558 substituted “shall” for “may” and inserted provision including a centralized child development training and national assessment program.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -3990,6 +4008,9 @@ Subsecs. (f), (g). Pub. L. 110–134, § 19(4), added subsecs. (f) and (g).
 1998—Subsec. (a). Pub. L. 105–285, § 115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
 
 Subsec. (b)(2)(B). Pub. L. 105–285, § 115(2), substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 Section effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as an Effective Date of 1994 Amendment note under [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
@@ -4335,6 +4356,9 @@ Subsecs. (d) to (f). Pub. L. 101–501, § 117(a)(2), added subsecs. (d) to (f).
 
 1984—Subsec. (c). Pub. L. 98–558 added subsec. (c).
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
 
@@ -4469,6 +4493,9 @@ Subsec. (g). Pub. L. 103–252, § 118(a)(2)–(4), struck out subsec. (g) desig
 Subsec. (g). Pub. L. 101–501, § 119, added subsec. (g).
 
 1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–252 effective May 18, 1994, but not applicable to Head Start agencies and other recipients of financial assistance under the Head Start Act ([42 U.S.C. 9831](./chapter-105-community-services-programs.md#section-9831) et seq.) until Oct. 1, 1994, see section 127 of Pub. L. 103–252, set out as a note under [section 9832 of this title](./chapter-105-community-services-programs.md#section-9832).
@@ -5665,9 +5692,6 @@ Subsec. (b)(2)(A). Pub. L. 104–193, § 609(2), in closing provisions, substitu
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, § 5082(2), which added this section.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L. 104–193, set out as a note under [section 9858 of this title](./chapter-105-community-services-programs.md#section-9858).
 
@@ -5895,9 +5919,6 @@ Amendment by Pub. L. 104–193 effective Oct. 1, 1996, see section 615 of Pub. L
 1996—Pub. L. 104–193 substituted “July 31, 1997, and biennially thereafter” for “July 31, 1993, and annually thereafter” and “Committee on Economic and Educational Opportunities” for “Committee on Education and Labor”.
 
 1992—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, § 5082(2), which added this section.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title VI of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5603 of Pub. L. 105–33, set out as a note under [section 618 of this title](./chapter-007-social-security.md#section-618).
@@ -6313,9 +6334,6 @@ The Child Care and Development Block Grant Act of 1990, referred to in subsec. (
 #### Codification
 Section was enacted as part of the Child Care and Development Block Grant Act of 2014, and not as part of the Child Care and Development Block Grant Act of 1990, which comprises this subchapter.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 
 <a id="section-9859"></a>
 ## § 9859. Definitions
@@ -6702,6 +6720,8 @@ Within three years after October 30, 1984, the Secretary shall prepare and trans
 ### Statutory Notes
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 

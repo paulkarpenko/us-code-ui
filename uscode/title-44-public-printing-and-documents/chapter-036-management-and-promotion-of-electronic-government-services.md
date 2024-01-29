@@ -2,7 +2,7 @@
 title: 44
 chapter: '36'
 heading: MANAGEMENT AND PROMOTION OF ELECTRONIC GOVERNMENT SERVICES
-section_count: 6
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44&num=0&edition=prelim
 ---
@@ -62,7 +62,13 @@ The Alaska Native Claims Settlement Act, referred to in par. (8)(B), is Pub. L. 
 Pub. L. 107–347, title IV, § 402(a), Dec. 17, 2002, 116 Stat. 2961, provided that: “(1) In general.—Except as provided under paragraph (2), titles I [enacting this chapter, [section 507 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section507&num=0&edition=prelim), Money and Finance, and [section 305 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section305&num=0&edition=prelim), Public Buildings, Property, and Works, and amending [section 503 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section503&num=0&edition=prelim)] and II [enacting chapter 37 of Title 5, Government Organization and Employees, [section 2332 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2332&num=0&edition=prelim), Armed Forces, and [section 266a of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section266a&num=0&edition=prelim), Public Contracts, amending sections 3111, 4108, and 7353 of Title 5, sections 207, 209, and 1905 of Title 18, Crimes and Criminal Procedure, sections 502, 11501 to 11505 of Title 40, and [section 423 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section423&num=0&edition=prelim), repealing [section 11521 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11521&num=0&edition=prelim), directing the renumbering of [section 11522 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11522&num=0&edition=prelim) as section 11521, enacting provisions set out as notes under [section 3501 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3501), and amending provisions set out as notes under [section 8432 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8432&num=0&edition=prelim) and [section 1913 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1913&num=0&edition=prelim), Judiciary and Judicial Procedure] and the amendments made by such titles shall take effect 120 days after the date of enactment of this Act [Dec. 17, 2002]. “(2) Immediate enactment.—Sections 207, 214, and 215 [set out in a note under [section 3501 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3501)] shall take effect on the date of enactment of this Act [Dec. 17, 2002].”
 
 #### Federal Data Center Consolidation Initiative
-Pub. L. 113–291, div. A, title VIII, § 834, Dec. 19, 2014, 128 Stat. 3444, as amended by Pub. L. 115–88, § 4, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, § 819(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 116–92, div. A, title VIII, § 824, Dec. 20, 2019, 133 Stat. 1491, provided that: “(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Office of Electronic Government established under [section 3602 of title 44](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3602), United States Code (and also known as the Office of E-Government and Information Technology), within the Office of Management and Budget. “(2) Covered agency.—The term ‘covered agency’ means the following (including all associated components of the agency):“(A) Department of Agriculture. “(B) Department of Commerce. “(C) Department of Defense. “(D) Department of Education. “(E) Department of Energy. “(F) Department of Health and Human Services. “(G) Department of Homeland Security. “(H) Department of Housing and Urban Development. “(I) Department of the Interior. “(J) Department of Justice. “(K) Department of Labor. “(L) Department of State. “(M) Department of Transportation. “(N) Department of Treasury. “(O) Department of Veterans Affairs. “(P) Environmental Protection Agency. “(Q) General Services Administration. “(R) National Aeronautics and Space Administration. “(S) National Science Foundation. “(T) Nuclear Regulatory Commission. “(U) Office of Personnel Management. “(V) Small Business Administration. “(W) Social Security Administration. “(X) United States Agency for International Development. “(3) FDCCI.—The term ‘FDCCI’ means the Federal Data Center Consolidation Initiative described in the Office of Management and Budget Memorandum on the Federal Data Center Consolidation Initiative, dated February 26, 2010, or any successor thereto. “(4) Government-wide data center consolidation and optimization metrics.—The term ‘Government-wide data center consolidation and optimization metrics’ means the metrics established by the Administrator under subsection (b)(2)(G). “(b) Federal Data Center Consolidation Inventories and Strategies.—“(1) In general.—“(A) Annual reporting.—Except as provided in subparagraph (C), each year, beginning in the first fiscal year after the date of the enactment of this Act [Dec. 19, 2014] and each fiscal year thereafter, the head of each covered agency, assisted by the Chief Information Officer of the agency, shall submit to the Administrator—“(i) a comprehensive inventory of the data centers owned, operated, or maintained by or on behalf of the agency; and “(ii) a multi-year strategy to achieve the consolidation and optimization of the data centers inventoried under clause (i), that includes— “(I) performance metrics—“(aa) that are consistent with the Government-wide data center consolidation and optimization metrics; and “(bb) by which the quantitative and qualitative progress of the agency toward the goals of the FDCCI can be measured; “(II) a timeline for agency activities to be completed under the FDCCI, with an emphasis on benchmarks the agency can achieve by specific dates; “(III) year-by-year calculations of investment and cost savings for the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e), broken down by each year, including a description of any initial costs for data center consolidation and optimization and life cycle cost savings and other improvements, with an emphasis on—“(aa) meeting the Government-wide data center consolidation and optimization metrics; and “(bb) demonstrating the amount of agency-specific cost savings each fiscal year achieved through the FDCCI; and “(IV) any additional information required by the Administrator. “(B) Use of other reporting structures.—The Administrator may require a covered agency to include the information required to be submitted under this subsection through reporting structures determined by the Administrator to be appropriate. “(C) Department of defense reporting.—For any year that the Department of Defense is required to submit a performance plan for reduction of resources required for data servers and centers, as required under section 2867(b) of the National Defense Authorization Act for Fiscal Year 2012 [Pub. L. 112–81] ([10 U.S.C. 2223a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2223a&num=0&edition=prelim) note), the Department of Defense—“(i) may submit to the Administrator, in lieu of the multi-year strategy required under subparagraph (A)(ii)— “(I) the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 ([10 U.S.C. 2223a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2223a&num=0&edition=prelim) note); and “(II) the report on cost savings required under section 2867(d) of the National Defense Authorization Act for Fiscal Year 2012 ([10 U.S.C. 2223a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2223a&num=0&edition=prelim) note); and “(ii) shall submit the comprehensive inventory required under subparagraph (A)(i), unless the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 ([10 U.S.C. 2223a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2223a&num=0&edition=prelim) note)— “(I) contains a comparable comprehensive inventory; and “(II) is submitted under clause (i). “(D) Statement.—Each year, beginning in the first fiscal year after the date of the enactment of this Act and each fiscal year thereafter, the head of each covered agency, acting through the Chief Information Officer of the agency, shall—“(i)(I) submit a statement to the Administrator stating whether the agency has complied with the requirements of this section; and “(II) make the statement submitted under subclause (I) publicly available; and “(ii) if the agency has not complied with the requirements of this section, submit a statement to the Administrator explaining the reasons for not complying with such requirements. “(E) Agency implementation of strategies.—“(i) In general.—Each covered agency, under the direction of the Chief Information Officer of the agency, shall— “(I) implement the strategy required under subparagraph (A)(ii); and “(II) provide updates to the Administrator, on a quarterly basis, of—“(aa) the completion of activities by the agency under the FDCCI; “(bb) any progress of the agency towards meeting the Government-wide data center consolidation and optimization metrics; and “(cc) the actual cost savings and other improvements realized through the implementation of the strategy of the agency. “(ii) Department of defense.—For purposes of clause (i)(I), implementation of the defense-wide plan required under section 2867(b)(2) of the National Defense Authorization Act for Fiscal Year 2012 [Pub. L. 112–81] ([10 U.S.C. 2223a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2223a&num=0&edition=prelim) note) by the Department of Defense shall be considered implementation of the strategy required under subparagraph (A)(ii). “(F) Rule of construction.—Nothing in this section shall be construed to limit the reporting of information by a covered agency to the Administrator, the Director of the Office of Management and Budget, or Congress. “(2) Administrator responsibilities.—The Administrator shall—“(A) establish the deadline, on an annual basis, for covered agencies to submit information under this section; “(B) establish a list of requirements that the covered agencies must meet to be considered in compliance with paragraph (1); “(C) ensure that information relating to agency progress towards meeting the Government-wide data center consolidation and optimization metrics is made available in a timely manner to the general public; “(D) review the inventories and strategies submitted under paragraph (1) to determine whether they are comprehensive and complete; “(E) monitor the implementation of the data center strategy of each covered agency that is required under paragraph (1)(A)(ii); “(F) update, on an annual basis, the cumulative cost savings realized through the implementation of the FDCCI; and “(G) establish metrics applicable to the consolidation and optimization of data centers Government-wide, including metrics with respect to—“(i) costs; “(ii) efficiencies, including, at a minimum, server efficiency; and “(iii) any other factors the Administrator considers appropriate. “(3) Cost saving goal and updates for congress.—“(A) In general.—Not later than one year after the date of the enactment of this Act, the Administrator shall develop, and make publicly available, a goal, broken down by year, for the amount of planned cost savings and optimization improvements achieved through the FDCCI during the period beginning on the date of the enactment of this Act and ending on the date set forth in subsection (e). “(B) Annual update.—“(i) In general.—Not later than one year after the date on which the goal described in subparagraph (A) is made publicly available, and each year thereafter, the Administrator shall aggregate the reported cost savings of each covered agency and optimization improvements achieved to date through the FDCCI and compare the savings to the projected cost savings and optimization improvements developed under subparagraph (A). “(ii) Update for congress.—The goal required to be developed under subparagraph (A) shall be submitted to Congress and shall be accompanied by a statement describing— “(I) the extent to which each covered agency has developed and submitted a comprehensive inventory under paragraph (1)(A)(i), including an analysis of the inventory that details specific numbers, use, and efficiency level of data centers in each inventory; and “(II) the extent to which each covered agency has submitted a comprehensive strategy that addresses the items listed in paragraph (1)(A)(ii). “(4) GAO review.—“(A) In general.—Not later than one year after the date of the enactment of this Act, and each year thereafter, the Comptroller General of the United States shall review and verify the quality and completeness of the inventory and strategy of each covered agency required under paragraph (1)(A). “(B) Report.—The Comptroller General of the United States shall, on an annual basis, publish a report on each review conducted under subparagraph (A). “(c) Ensuring Cybersecurity Standards for Data Center Consolidation and Cloud Computing.—“(1) In general.—In implementing a data center consolidation and optimization strategy under this section, a covered agency shall do so in a manner that is consistent with Federal guidelines on cloud computing security, including—“(A) applicable provisions found within the Federal Risk and Authorization Management Program (FedRAMP); and “(B) guidance published by the National Institute of Standards and Technology. “(2) Rule of construction.—Nothing in this section shall be construed to limit the ability of the Director of the Office of Management and Budget to update or modify the Federal guidelines on cloud computing security. “(d) Waiver of Requirements.—The Director of National Intelligence and the Secretary of Defense, or their respective designee, may waive the applicability to any national security system, as defined in [former] [section 3542 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542&num=0&edition=prelim), United States Code, [see [44 U.S.C. 3552](./chapter-035-coordination-of-federal-information-policy.md#section-3552)] of any provision of this section if the Director of National Intelligence or the Secretary of Defense, or their respective designee, determines that such waiver is in the interest of national security. Not later than 30 days after making a waiver under this subsection, the Director of National Intelligence or the Secretary of Defense, or their respective designee, shall submit to the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] and the Permanent Select Committee on Intelligence of the House of Representatives a statement describing the waiver and the reasons for the waiver. “(e) Sunset.—This section is repealed effective on October 1, 2022.”
+Pub. L. 118–31, div. E, title LIII, § 5302(a), Dec. 22, 2023, 137 Stat. 940, provided that: “(a) Findings.—Congress finds the following:“(1) The statutory authorization for the Federal Data Center Optimization Initiative under section 834 of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 ([44 U.S.C. 3601](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3601) note; Public Law 113–291) [set out below] expired at the end of fiscal year 2022. “(2) The expiration of the authorization described in paragraph (1) presents Congress with an opportunity to review the objectives of the Federal Data Center Optimization Initiative to ensure that the initiative is meeting the current needs of the Federal Government. “(3) The initial focus of the Federal Data Center Optimization Initiative, which was to consolidate data centers and create new efficiencies, has resulted in, since 2010—“(A) the consolidation of more than 6,000 Federal data centers; and “(B) cost savings and avoidance of $5,800,000,000. “(4) The need of the Federal Government for access to data and data processing systems has evolved since the date of enactment in 2014 of subtitle D of title VIII of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 [Pub. L. 113–291, approved Dec. 19, 2014]. “(5) Federal agencies and employees involved in mission critical functions increasingly need reliable access to secure, reliable, and protected facilities to house mission critical data and data operations to meet the immediate needs of the people of the United States. “(6) As of the date of enactment of this title [Dec. 22, 2023], there is a growing need for Federal agencies to use data centers and cloud applications that meet high standards for cybersecurity, resiliency, and availability.”
+
+Pub. L. 118–31, div. E, title LIII, § 5302(d), Dec. 22, 2023, 137 Stat. 943, provided that: “Not later than 1 year after the date of the enactment of this title [Dec. 22, 2023], and annually thereafter, the Comptroller General of the United States shall review, verify, and audit the compliance of covered agencies with the minimum requirements established pursuant to section 834(b)(1) of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 ([44 U.S.C. 3601](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3601) note; Public Law 113–291) [set out below] for new data centers and subsection (b)(3) of that section for existing data centers, as appropriate.”
+
+Pub. L. 113–291, div. A, title VIII, § 834, Dec. 19, 2014, 128 Stat. 3444, as amended by Pub. L. 115–88, § 4, Nov. 21, 2017, 131 Stat. 1278; Pub. L. 115–91, div. A, § 819(c), Dec. 12, 2017, 131 Stat. 1464; Pub. L. 116–92, div. A, title VIII, § 824, Dec. 20, 2019, 133 Stat. 1491; Pub. L. 118–31, div. E, title LIII, § 5302(b), (c), Dec. 22, 2023, 137 Stat. 941, 943, provided that: “(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Office of Electronic Government established under [section 3602 of title 44](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3602), United States Code (and also known as the Office of E-Government and Information Technology), within the Office of Management and Budget. “(2) Covered agency.—The term ‘covered agency’ means the following (including all associated components of the agency):“(A) Department of Agriculture. “(B) Department of Commerce. “(C) Department of Defense. “(D) Department of Education. “(E) Department of Energy. “(F) Department of Health and Human Services. “(G) Department of Homeland Security. “(H) Department of Housing and Urban Development. “(I) Department of the Interior. “(J) Department of Justice. “(K) Department of Labor. “(L) Department of State. “(M) Department of Transportation. “(N) Department of Treasury. “(O) Department of Veterans Affairs. “(P) Environmental Protection Agency. “(Q) General Services Administration. “(R) National Aeronautics and Space Administration. “(S) National Science Foundation. “(T) Nuclear Regulatory Commission. “(U) Office of Personnel Management. “(V) Small Business Administration. “(W) Social Security Administration. “(X) United States Agency for International Development. “(3) New data center.—The term ‘new data center’ means—“(A)(i) a data center or a portion thereof that is owned, operated, or maintained by a covered agency; or “(ii) to the extent practicable, a data center or portion thereof—“(I) that is owned, operated, or maintained by a contractor on behalf of a covered agency on the date on which the contract between the covered agency and the contractor expires; and “(II) with respect to which the covered agency extends the contract, or enters into a new contract, with the contractor; and “(B) on or after the date that is 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2023 [title LIII of div. E of Pub. L. 118–31, approved Dec. 22, 2023], a data center or portion thereof that is—“(i) established; or “(ii) substantially upgraded or expanded. “(b) Minimum Requirements for New Data Centers.—“(1) In general.—Not later than 180 days after the date of enactment of the Federal Data Center Enhancement Act of 2023 [title LIII of div. E of Pub. L. 118–31, approved Dec. 22, 2023], the Administrator shall establish minimum requirements for new data centers in consultation with the Administrator of General Services and the Federal Chief Information Officers Council. “(2) Contents.—“(A) In general.—The minimum requirements established under paragraph (1) shall include requirements relating to—“(i) the availability of new data centers; “(ii) the use of new data centers, including costs related to the facility, energy consumption, and related infrastructure; “(iii) uptime percentage; “(iv) protections against power failures, including on-site energy generation and access to multiple transmission paths; “(v) protections against physical intrusions and natural disasters; “(vi) information security protections required by subchapter II of chapter 35 of title 44, United States Code, and other applicable law and policy; and “(vii) any other requirements the Administrator determines appropriate. “(B) Consultation.—In establishing the requirements described in subparagraph (A)(vi), the Administrator shall consult with the Director of the Cybersecurity and Infrastructure Security Agency and the National Cyber Director. “(3) Incorporation of minimum requirements into current data centers.—As soon as practicable, and in any case not later than 90 days after the Administrator establishes the minimum requirements pursuant to paragraph (1), the Administrator shall issue guidance to ensure, as appropriate, that covered agencies incorporate the minimum requirements established under that paragraph into the operations of any data center of a covered agency existing as of the date of enactment of the Federal Data Center Enhancement Act of 2023. “(4) Review of requirements.—The Administrator, in consultation with the Administrator of General Services and the Federal Chief Information Officers Council, shall review, update, and modify the minimum requirements established under paragraph (1), as necessary. “(5) Report on new data centers.—During the development and planning lifecycle of a new data center, if the head of a covered agency determines that the covered agency is likely to make a management or financial decision relating to any data center, the head of the covered agency shall—“(A) notify—“(i) the Administrator; “(ii) [the] Committee on Homeland Security and Governmental Affairs of the Senate; and “(iii) [the] Committee on Oversight and Accountability of the House of Representatives; and “(B) describe in the notification with sufficient detail how the covered agency intends to comply with the minimum requirements established under paragraph (1). “(6) Use of technology.—In determining whether to establish or continue to operate an existing data center, the head of a covered agency shall—“(A) regularly assess the application portfolio of the covered agency and ensure that each at-risk legacy application is updated, replaced, or modernized, as appropriate, to take advantage of modern technologies; and “(B) prioritize and, to the greatest extent possible, leverage commercial data center solutions, including hybrid cloud, multi-cloud, co-location, interconnection, or cloud computing (as defined in section 3607 of this Chapter [probably means chapter 36 of Title 44, United States Code]) rather than acquiring, overseeing, or managing custom data center infrastructure. “(7) Public website.—“(A) In general.—The Administrator shall maintain a public-facing website that includes information, data, and explanatory statements relating to the compliance of covered agencies with the requirements of this section. “(B) Processes and procedures.—In maintaining the website described in subparagraph (A), the Administrator shall—“(i) ensure covered agencies regularly, and not less frequently than biannually, update the information, data, and explanatory statements posed on the website, pursuant to guidance issued by the Administrator, relating to any new data centers and, as appropriate, each existing data center of the covered agency; and “(ii) ensure that all information, data, and explanatory statements on the website are maintained as open Government data assets. “(c) Ensuring Cybersecurity Standards for Data Center Consolidation and Cloud Computing.—“(1) In general.—The head of a covered agency shall oversee and manage the data center portfolio and the information technology strategy of the covered agency in accordance with Federal cybersecurity guidelines and directives, including—“(A) information security standards and guidelines promulgated by the Director of the National Institute of Standards and Technology; “(B) applicable requirements and guidance issued by the Director of the Office of Management and Budget pursuant to [section 3614 of title 44](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3614), United States Code; and “(C) directives issued by the Secretary of Homeland Security under [section 3553 of title 44](./chapter-035-coordination-of-federal-information-policy.md#section-3553), United States Code. “(2) Rule of construction.—Nothing in this section shall be construed to limit the ability of the Director of the Office of Management and Budget to update or modify the Federal guidelines on cloud computing security. “(d) Waiver of Requirements.—The Director of National Intelligence and the Secretary of Defense, or their respective designee, may waive the applicability to any national security system, as defined in [former] [section 3542 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3542&num=0&edition=prelim), United States Code, [see [44 U.S.C. 3552](./chapter-035-coordination-of-federal-information-policy.md#section-3552)] of any provision of this section if the Director of National Intelligence or the Secretary of Defense, or their respective designee, determines that such waiver is in the interest of national security. Not later than 30 days after making a waiver under this subsection, the Director of National Intelligence or the Secretary of Defense, or their respective designee, shall submit to the Committee on Homeland Security and Governmental Affairs and the Select Committee on Intelligence of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] and the Permanent Select Committee on Intelligence of the House of Representatives a statement describing the waiver and the reasons for the waiver. “(e) Sunset.—This section is repealed effective on October 1, 2026.”
+
+[Amendment by section 5302(c) of Pub. L. 118–31, which substituted “2026” for “2022” in the date of repeal in section 834(e) of Pub. L. 113–291, set out above, was executed as directed to reflect the probable intent of Congress, even though the amendment was enacted on Dec. 22, 2023, after the repeal had taken effect.]
 
 [Pub. L. 115–88 and Pub. L. 115–91 amended section 834(e) of Pub. L. 113–291, set out above, identically by striking “2018” and inserting “2020”.]
 
@@ -410,9 +416,9 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 Section 204 of the E-Government Act of 2002, referred to in subsec. (d), is section 204 of Pub. L. 107–347, which is set out in a note under [section 3501 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3501).
 
 #### Change of Name
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under [section 3601 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3601).
@@ -462,9 +468,444 @@ Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 10
 The E-Government Act of 2002, referred to in subsec. (b)(3), is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. Section 202 of the Act is set out in a note under [section 3501 of this title](./chapter-035-coordination-of-federal-information-policy.md#section-3501). For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Effective Date
 Section effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as a note under [section 3601 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3601).
+
+
+<a id="section-3607"></a>
+## § 3607. Definitions
+**(a) In General.—** Except as provided under subsection (b), the definitions under sections 3502 and 3552 apply to this section through section 3616.
+
+**(b) Additional Definitions.—** In this section through section 3616:
+
+(1) **Administrator.—** — The term “Administrator” means the Administrator of General Services.
+
+(2) **Appropriate congressional committees.—** — The term “appropriate congressional committees” means the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Reform of the House of Representatives.
+
+(3) **Authorization to operate; federal information.—** — The terms “authorization to operate” and “Federal information” have the meaning given those term 11 So in original. Probably should be “terms”. in Circular A–130 of the Office of Management and Budget entitled “Managing Information as a Strategic Resource”, or any successor document.
+
+(4) **Cloud computing.—** — The term “cloud computing” has the meaning given the term in Special Publication 800–145 of the National Institute of Standards and Technology, or any successor document.
+
+(5) **Cloud service provider.—** — The term “cloud service provider” means an entity offering cloud computing products or services to agencies.
+
+(6) **FedRAMP.—** — The term “FedRAMP” means the Federal Risk and Authorization Management Program established under section 3608.
+
+(7) **FedRAMP authorization.—** — The term “FedRAMP authorization” means a certification that a cloud computing product or service has—
+
+  (A) completed a FedRAMP authorization process, as determined by the Administrator; or
+
+  (B) received a FedRAMP provisional authorization to operate, as determined by the FedRAMP Board.
+
+(8) **Fedramp authorization package.—** — The term “FedRAMP authorization package” means the essential information that can be used by an agency to determine whether to authorize the operation of an information system or the use of a designated set of common controls for all cloud computing products and services authorized by FedRAMP.
+
+(9) **FedRAMP board.—** — The term “FedRAMP Board” means the board established under section 3610.
+
+(10) **Independent assessment service.—** — The term “independent assessment service” means a third-party organization accredited by the Administrator to undertake conformity assessments of cloud service providers and the products or services of cloud service providers.
+
+(11) **Secretary.—** — The term “Secretary” means the Secretary of Homeland Security.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+Pub. L. 117–263, div. E, title LIX, § 5921(e), Dec. 23, 2022, 136 Stat. 3458, provided that: “Nothing in this section [see Short Title of 2022 Amendment note set out under [section 101 of this title](./chapter-001-joint-committee-on-printing.md#section-101)] or any amendment made by this section shall be construed as altering or impairing the authorities of the Director of the Office of Management and Budget or the Secretary of Homeland Security under subchapter II of chapter 35 of title 44, United States Code.”
+
+
+<a id="section-3608"></a>
+## § 3608. Federal risk and authorization management program
+
+There is established within the General Services Administration the Federal Risk and Authorization Management Program. The Administrator, subject to section 3614, shall establish a Government-wide program that provides a standardized, reusable approach to security assessment and authorization for cloud computing products and services that process unclassified information used by agencies.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3609"></a>
+## § 3609. Roles and responsibilities of the General Services Administration
+**(a) Roles and Responsibilities.—** The Administrator shall—
+
+(1) in consultation with the Secretary, develop, coordinate, and implement a process to support agency review, reuse, and standardization, where appropriate, of security assessments of cloud computing products and services, including, as appropriate, oversight of continuous monitoring of cloud computing products and services, pursuant to guidance issued by the Director pursuant to section 3614;
+
+(2) establish processes and identify criteria consistent with guidance issued by the Director under section 3614 to make a cloud computing product or service eligible for a FedRAMP authorization and validate whether a cloud computing product or service has a FedRAMP authorization;
+
+(3) develop and publish templates, best practices, technical assistance, and other materials to support the authorization of cloud computing products and services and increase the speed, effectiveness, and transparency of the authorization process, consistent with standards and guidelines established by the Director of the National Institute of Standards and Technology and relevant statutes;
+
+(4) establish and update guidance on the boundaries of FedRAMP authorization packages to enhance the security and protection of Federal information and promote transparency for agencies and users as to which services are included in the scope of a FedRAMP authorization;
+
+(5) grant FedRAMP authorizations to cloud computing products and services consistent with the guidance and direction of the FedRAMP Board;
+
+(6) establish and maintain a public comment process for proposed guidance and other FedRAMP directives that may have a direct impact on cloud service providers and agencies before the issuance of such guidance or other FedRAMP directives;
+
+(7) coordinate with the FedRAMP Board, the Director of the Cybersecurity and Infrastructure Security Agency, and other entities identified by the Administrator, with the concurrence of the Director and the Secretary, to establish and regularly update a framework for continuous monitoring under section 3553;
+
+(8) provide a secure mechanism for storing and sharing necessary data, including FedRAMP authorization packages, to enable better reuse of such packages across agencies, including making available any information and data necessary for agencies to fulfill the requirements of section 3613;
+
+(9) provide regular updates to applicant cloud service providers on the status of any cloud computing product or service during an assessment process;
+
+(10) regularly review, in consultation with the FedRAMP Board—
+
+  (A) the costs associated with the independent assessment services described in section 3611; and
+
+  (B) the information relating to foreign interests submitted pursuant to section 3612;
+
+(11) in coordination with the Director, the Secretary, and other stakeholders, as appropriate, determine the sufficiency of underlying requirements to identify and assess the provenance of the software in cloud services and products;
+
+(12) support the Federal Secure Cloud Advisory Committee established pursuant to section 3616; and
+
+(13) take such other actions as the Administrator may determine necessary to carry out FedRAMP.
+
+**(b) Website.—**
+
+(1) **In general.—** — The Administrator shall maintain a public website to serve as the authoritative repository for FedRAMP, including the timely publication and updates for all relevant information, guidance, determinations, and other materials required under subsection (a).
+
+(2) **Criteria and process for fedramp authorization priorities.—** — The Administrator shall develop and make publicly available on the website described in paragraph (1) the criteria and process for prioritizing and selecting cloud computing products and services that will receive a FedRAMP authorization, in consultation with the FedRAMP Board and the Chief Information Officers Council.
+
+**(c) Evaluation of Automation Procedures.—**
+
+(1) **In general.—** — The Administrator, in coordination with the Secretary, shall assess and evaluate available automation capabilities and procedures to improve the efficiency and effectiveness of the issuance of FedRAMP authorizations, including continuous monitoring of cloud computing products and services.
+
+(2) **Means for automation.—** — Not later than 1 year after the date of enactment of this section, and updated regularly thereafter, the Administrator shall establish a means for the automation of security assessments and reviews.
+
+**(d) Metrics for Authorization.—** The Administrator shall establish annual metrics regarding the time and quality of the assessments necessary for completion of a FedRAMP authorization process in a manner that can be consistently tracked over time in conjunction with the periodic testing and evaluation process pursuant to section 3554 in a manner that minimizes the agency reporting burden.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3610"></a>
+## § 3610. FedRAMP Board
+**(a) Establishment.—** There is established a FedRAMP Board to provide input and recommendations to the Administrator regarding the requirements and guidelines for, and the prioritization of, security assessments of cloud computing products and services.
+
+**(b) Membership.—** The FedRAMP Board shall consist of not more than 7 senior officials or experts from agencies appointed by the Director, in consultation with the Administrator, from each of the following:
+
+(1) The Department of Defense.
+
+(2) The Department of Homeland Security.
+
+(3) The General Services Administration.
+
+(4) Such other agencies as determined by the Director, in consultation with the Administrator.
+
+**(c) Qualifications.—** Members of the FedRAMP Board appointed under subsection (b) shall have technical expertise in domains relevant to FedRAMP, such as—
+
+(1) cloud computing;
+
+(2) cybersecurity;
+
+(3) privacy;
+
+(4) risk management; and
+
+(5) other competencies identified by the Director to support the secure authorization of cloud services and products.
+
+**(d) Duties.—** The FedRAMP Board shall—
+
+(1) in consultation with the Administrator, serve as a resource for best practices to accelerate the process for obtaining a FedRAMP authorization;
+
+(2) establish and regularly update requirements and guidelines for security authorizations of cloud computing products and services, consistent with standards and guidelines established by the Director of the National Institute of Standards and Technology, to be used in the determination of FedRAMP authorizations;
+
+(3) monitor and oversee, to the greatest extent practicable, the processes and procedures by which agencies determine and validate requirements for a FedRAMP authorization, including periodic review of the agency determinations described in section 3613(b);
+
+(4) ensure consistency and transparency between agencies and cloud service providers in a manner that minimizes confusion and engenders trust; and
+
+(5) perform such other roles and responsibilities as the Director may assign, with concurrence from the Administrator.
+
+**(e) Determinations of Demand for Cloud Computing Products and Services.—** The FedRAMP Board may consult with the Chief Information Officers Council to establish a process, which may be made available on the website maintained under section 3609(b), for prioritizing and accepting the cloud computing products and services to be granted a FedRAMP authorization.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3611"></a>
+## § 3611. Independent assessment
+
+The Administrator may determine whether FedRAMP may use an independent assessment service to analyze, validate, and attest to the quality and compliance of security assessment materials provided by cloud service providers during the course of a determination of whether to use a cloud computing product or service.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3612"></a>
+## § 3612. Declaration of foreign interests
+**(a) In General.—** An independent assessment service that performs services described in section 3611 shall annually submit to the Administrator information relating to any foreign interest, foreign influence, or foreign control of the independent assessment service.
+
+**(b) Updates.—** Not later than 48 hours after there is a change in foreign ownership or control of an independent assessment service that performs services described in section 3611, the independent assessment service shall submit to the Administrator an update to the information submitted under subsection (a).
+
+**(c) Certification.—** The Administrator may require a representative of an independent assessment service to certify the accuracy and completeness of any information submitted under this section.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3613"></a>
+## § 3613. Roles and responsibilities of agencies
+**(a) In General.—** In implementing the requirements of FedRAMP, the head of each agency shall, consistent with guidance issued by the Director pursuant to section 3614—
+
+(1) promote the use of cloud computing products and services that meet FedRAMP security requirements and other risk-based performance requirements as determined by the Director, in consultation with the Secretary;
+
+(2) confirm whether there is a FedRAMP authorization in the secure mechanism provided under section 3609(a)(8) before beginning the process of granting a FedRAMP authorization for a cloud computing product or service;
+
+(3) to the extent practicable, for any cloud computing product or service the agency seeks to authorize that has received a FedRAMP authorization, use the existing assessments of security controls and materials within any FedRAMP authorization package for that cloud computing product or service; and
+
+(4) provide to the Director data and information required by the Director pursuant to section 3614 to determine how agencies are meeting metrics established by the Administrator.
+
+**(b) Attestation.—** Upon completing an assessment or authorization activity with respect to a particular cloud computing product or service, if an agency determines that the information and data the agency has reviewed under paragraph (2) or (3) of subsection (a) is wholly or substantially deficient for the purposes of performing an authorization of the cloud computing product or service, the head of the agency shall document as part of the resulting FedRAMP authorization package the reasons for this determination.
+
+**(c) Submission of Authorizations to Operate Required.—** Upon issuance of an agency authorization to operate based on a FedRAMP authorization, the head of the agency shall provide a copy of its authorization to operate letter and any supplementary information required pursuant to section 3609(a) to the Administrator.
+
+**(d) Submission of Policies Required.—** Not later than 180 days after the date on which the Director issues guidance in accordance with section 3614(1), the head of each agency, acting through the chief information officer of the agency, shall submit to the Director all agency policies relating to the authorization of cloud computing products and services.
+
+**(e) Presumption of Adequacy.—**
+
+(1) **In general.—** — The assessment of security controls and materials within the authorization package for a FedRAMP authorization shall be presumed adequate for use in an agency authorization to operate cloud computing products and services.
+
+(2) **Information security requirements.—** — The presumption under paragraph (1) does not modify or alter—
+
+  (A) the responsibility of any agency to ensure compliance with subchapter II of chapter 35 for any cloud computing product or service used by the agency; or
+
+  (B) the authority of the head of any agency to make a determination that there is a demonstrable need for additional security requirements beyond the security requirements included in a FedRAMP authorization for a particular control implementation.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3614"></a>
+## § 3614. Roles and responsibilities of the Office of Management and Budget
+
+The Director shall—
+
+(1) in consultation with the Administrator and the Secretary, issue guidance that—
+
+  (A) specifies the categories or characteristics of cloud computing products and services that are within the scope of FedRAMP;
+
+  (B) includes requirements for agencies to obtain a FedRAMP authorization when operating a cloud computing product or service described in subparagraph (A) as a Federal information system; and
+
+  (C) encompasses, to the greatest extent practicable, all necessary and appropriate cloud computing products and services;
+
+(2) issue guidance describing additional responsibilities of FedRAMP and the FedRAMP Board to accelerate the adoption of secure cloud computing products and services by the Federal Government;
+
+(3) in consultation with the Administrator, establish a process to periodically review FedRAMP authorization packages to support the secure authorization and reuse of secure cloud products and services;
+
+(4) oversee the effectiveness of FedRAMP and the FedRAMP Board, including the compliance by the FedRAMP Board with the duties described in section 3610(d); and
+
+(5) to the greatest extent practicable, encourage and promote consistency of the assessment, authorization, adoption, and use of secure cloud computing products and services within and across agencies.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3615"></a>
+## § 3615. Reports to Congress; GAO report
+**(a) Reports to Congress.—** Not later than 1 year after the date of enactment of this section, and annually thereafter, the Director shall submit to the appropriate congressional committees a report that includes the following:
+
+(1) During the preceding year, the status, efficiency, and effectiveness of the General Services Administration under section 3609 and agencies under section 3613 and in supporting the speed, effectiveness, sharing, reuse, and security of authorizations to operate for secure cloud computing products and services.
+
+(2) Progress towards meeting the metrics required under section 3609(d).
+
+(3) Data on FedRAMP authorizations.
+
+(4) The average length of time to issue FedRAMP authorizations.
+
+(5) The number of FedRAMP authorizations submitted, issued, and denied for the preceding year.
+
+(6) A review of progress made during the preceding year in advancing automation techniques to securely automate FedRAMP processes and to accelerate reporting under this section.
+
+(7) The number and characteristics of authorized cloud computing products and services in use at each agency consistent with guidance provided by the Director under section 3614.
+
+(8) A review of FedRAMP measures to ensure the security of data stored or processed by cloud service providers, which may include—
+
+  (A) geolocation restrictions for provided products or services;
+
+  (B) disclosures of foreign elements of supply chains of acquired products or services;
+
+  (C) continued disclosures of ownership of cloud service providers by foreign entities; and
+
+  (D) encryption for data processed, stored, or transmitted by cloud service providers.
+
+**(b) GAO Report.—** Not later than 180 days after the date of enactment of this section, the Comptroller General of the United States shall report to the appropriate congressional committees an assessment of the following:
+
+(1) The costs incurred by agencies and cloud service providers relating to the issuance of FedRAMP authorizations.
+
+(2) The extent to which agencies have processes in place to continuously monitor the implementation of cloud computing products and services operating as Federal information systems.
+
+(3) How often and for which categories of products and services agencies use FedRAMP authorizations.
+
+(4) The unique costs and potential burdens incurred by cloud computing companies that are small business concerns (as defined in section 3(a) of the Small Business Act ([15 U.S.C. 632(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim)) as a part of the FedRAMP authorization process.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### References in Text
+The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).
+
+
+<a id="section-3616"></a>
+## § 3616. Federal Secure Cloud Advisory Committee
+**(a) Establishment, Purposes, and Duties.—**
+
+(1) **Establishment.—** — There is established a Federal Secure Cloud Advisory Committee (referred to in this section as the “Committee”) to ensure effective and ongoing coordination of agency adoption, use, authorization, monitoring, acquisition, and security of cloud computing products and services to enable agency mission and administrative priorities.
+
+(2) **Purposes.—** — The purposes of the Committee are the following:
+
+  (A) To examine the operations of FedRAMP and determine ways that authorization processes can continuously be improved, including the following:
+
+    (i) Measures to increase agency reuse of FedRAMP authorizations.
+
+    (ii) Proposed actions that can be adopted to reduce the burden, confusion, and cost associated with FedRAMP authorizations for cloud service providers.
+
+    (iii) Measures to increase the number of FedRAMP authorizations for cloud computing products and services offered by small businesses concerns (as defined by section 3(a) of the Small Business Act ([15 U.S.C. 632(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim)).
+
+    (iv) Proposed actions that can be adopted to reduce the burden and cost of FedRAMP authorizations for agencies.
+
+  (B) Collect information and feedback on agency compliance with and implementation of FedRAMP requirements.
+
+  (C) Serve as a forum that facilitates communication and collaboration among the FedRAMP stakeholder community.
+
+(3) **Duties.—** — The duties of the Committee include providing advice and recommendations to the Administrator, the FedRAMP Board, and agencies on technical, financial, programmatic, and operational matters regarding secure adoption of cloud computing products and services.
+
+**(b) Members.—**
+
+(1) **Composition.—** — The Committee shall be comprised of not more than 15 members who are qualified representatives from the public and private sectors, appointed by the Administrator, in consultation with the Director, as follows:
+
+  (A) The Administrator or the Administrator’s designee, who shall be the Chair of the Committee.
+
+  (B) At least 1 representative each from the Cybersecurity and Infrastructure Security Agency and the National Institute of Standards and Technology.
+
+  (C) At least 2 officials who serve as the Chief Information Security Officer within an agency, who shall be required to maintain such a position throughout the duration of their service on the Committee.
+
+  (D) At least 1 official serving as Chief Procurement Officer (or equivalent) in an agency, who shall be required to maintain such a position throughout the duration of their service on the Committee.
+
+  (E) At least 1 individual representing an independent assessment service.
+
+  (F) At least 5 representatives from unique businesses that primarily provide cloud computing services or products, including at least 2 representatives from a small business concern (as defined by section 3(a) of the Small Business Act ([15 U.S.C. 632(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/a&num=0&edition=prelim))).
+
+  (G) At least 2 other representatives of the Federal Government as the Administrator determines necessary to provide sufficient balance, insights, or expertise to the Committee.
+
+(2) **Deadline for appointment.—** — Each member of the Committee shall be appointed not later than 90 days after the date of enactment of this section.
+
+(3) **Period of appointment; vacancies.—**
+
+  (A) *In general.—* — Each non-Federal member of the Committee shall be appointed for a term of 3 years, except that the initial terms for members may be staggered 1-, 2-, or 3-year terms to establish a rotation in which one-third of the members are selected each year. Any such member may be appointed for not more than 2 consecutive terms.
+
+  (B) *Vacancies.—* — Any vacancy in the Committee shall not affect its powers, but shall be filled in the same manner in which the original appointment was made. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term. A member may serve after the expiration of that member’s term until a successor has taken office.
+
+**(c) Meetings and Rules of Procedures.—**
+
+(1) **Meetings.—** — The Committee shall hold not fewer than 3 meetings in a calendar year, at such time and place as determined by the Chair.
+
+(2) **Initial meeting.—** — Not later than 120 days after the date of enactment of this section, the Committee shall meet and begin the operations of the Committee.
+
+(3) **Rules of procedure.—** — The Committee may establish rules for the conduct of the business of the Committee if such rules are not inconsistent with this section or other applicable law.
+
+**(d) Employee Status.—**
+
+(1) **In general.—** — A member of the Committee (other than a member who is appointed to the Committee in connection with another Federal appointment) shall not be considered an employee of the Federal Government by reason of any service as such a member, except for the purposes of [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), relating to travel expenses.
+
+(2) **Pay not permitted.—** — A member of the Committee covered by paragraph (1) may not receive pay by reason of service on the Committee.
+
+**(e) Applicability to the Federal Advisory Committee Act.—** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Committee.
+
+**(f) Detail of Employees.—** Any Federal Government employee may be detailed to the Committee without reimbursement from the Committee, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+
+**(g) Postal Services.—** The Committee may use the United States mails in the same manner and under the same conditions as agencies.
+
+**(h) Reports.—**
+
+(1) **Interim reports.—** — The Committee may submit to the Administrator and Congress interim reports containing such findings, conclusions, and recommendations as have been agreed to by the Committee.
+
+(2) **Annual reports.—** — Not later than 540 days after the date of enactment of this section, and annually thereafter, the Committee shall submit to the Administrator and Congress a report containing such findings, conclusions, and recommendations as have been agreed to by the Committee.
+
+### Statutory Notes
+
+#### Repeal of Section
+For repeal of section by section 5921(d)(1) of Pub. L. 117–263, see Effective Date of Repeal note below.
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (b)(2), (c)(2), and (h)(2), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LIX, § 5921(d)(1), Dec. 23, 2022, 136 Stat. 3458, provided that the repeal of this section is effective on the date that is 5 years after Dec. 23, 2022.
+
+#### Construction
+For rule of construction regarding section 5921 of Pub. L. 117–263, see section 5921(e) of Pub. L. 117–263, set out as a note under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607).

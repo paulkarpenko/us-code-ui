@@ -533,7 +533,7 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 
   (F) $6,800,000 for each of fiscal years 2032, 2033, 2034, and 2035.
 
-(2) **Timing.—** — The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
+(2) **Timing.—** — The amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section or section 51307(b).
 
 **(b) Certification Required for Payment.—** As a condition of receiving payment under this section for a fiscal year for a vessel, the contractor for the vessel shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with paragraph (1) and (2) of section 53105(a), as otherwise applicable with respect to such vessel, for at least 320 days in the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
@@ -568,6 +568,8 @@ Subsec. (f). Pub. L. 109–304, § 13(a)(4)(B), substituted “approves” for �
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263 inserted “or section 51307(b)” after “this section”.
+
 2021—Subsec. (a)(1)(B). Pub. L. 116–283 substituted “$8,233,463” for “$5,233,463”.
 
 2019—Subsec. (a)(1)(C) to (F). Pub. L. 116–92 substituted “$5,300,000 for each of fiscal years 2022, 2023, 2024, and 2025;” for “$3,700,000 for each of fiscal years 2022, 2023, 2024, and 2025.” in subpar. (C) and added subpars. (D) to (F).

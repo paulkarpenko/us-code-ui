@@ -266,7 +266,11 @@ Pub. L. 96–343, § 6(c), Sept. 8, 1980, 94 Stat. 1127, provided that: “The a
 
 (3) Members of the Commissioned Reserve Corps 11 See Change of Name note below. of the Public Health Service.
 
-**(b) Approval Required for Employment and Compensation.—** A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment.
+**(b) Approval Required for Employment and Compensation.—**
+
+(1) A person described in subsection (a) may accept employment or compensation described in that subsection only if the Secretary concerned and the Secretary of State approve the employment after determining that such approval is not contrary to the national interests of the United States.
+
+(2) The Secretary of a military department may delegate the determination of the Secretary required by paragraph (1) only to an official of the military department at or above the level of an Assistant Secretary or, in the event of a vacancy in the position of such an official, a civilian official performing the duties of that position.
 
 **(c) Approval Required for Certain Payments and Awards.—** A person described in subsection (a) may accept payment for speeches, travel, meals, lodging, or registration fees described in that subsection, or accept a non-cash award described in that subsection, only if the Secretary concerned approves the payment or award.
 
@@ -274,15 +278,21 @@ Pub. L. 96–343, § 6(c), Sept. 8, 1980, 94 Stat. 1127, provided that: “The a
 
 (1) Not later than January 31 each year, the Secretaries of the military departments, after consulting with the Secretary of State, shall jointly submit to the Committees on Armed Services of the Senate and House of Representatives a report on each approval under subsection (b) for employment or compensation described in subsection (a), and each approval under subsection (c) for a payment or award described in subsection (a), for a retired member of the armed forces in general or flag officer grade that was issued during the preceding year.
 
-(2) The report under paragraph (1) on an approval described in that paragraph with respect to an officer shall set forth the following:
+(2) The report under paragraph (1) on an approval described in that paragraph with respect to a person shall set forth the following:
 
   (A) The foreign government providing the employment or compensation or payment or award.
 
-  (B) The duties, if any, to be performed in connection with the employment or compensation or payment or award.
+  (B) A description of the duties, if any, the person is to perform and the compensation the person is to receive for such duties, as reflected in the person’s application for approval of the employment or compensation or payment or award.
 
-  (C) The total amount of compensation, if any, or payment to be provided.
+  (C) The position the person held or holds in the armed forces, including the rank of the person and the armed force in which the person served.
+
+  (D) Any other information the Secretaries of the military departments consider relevant, except that such information may not include the person’s date of birth, Social Security number, home address, phone number, or any other personal identifier other than the name and rank of the person and the armed force in which the person served.
+
+(3) Not later than 60 days after the date on which a report required by paragraph (1) is submitted, the Secretaries of the military departments shall make the report, and all contents of the report, available on a publicly accessible internet website.
 
 **(e) Military Service in Foreign Armed Forces.—** For a provision of law providing the consent of Congress to service in the military forces of certain foreign nations, see [section 1060 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1060&num=0&edition=prelim).
+
+**(f) Prohibition on Former Members of Armed Forces Accepting Employment With Certain Foreign Governments.—** For a provision of law prohibiting former members of the armed forces from accepting post-service employment with certain foreign governments, see [section 989 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section989&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -296,6 +306,20 @@ In subsection (a), the words “for which” are substituted for “with respect
 The text of section 509(c) of the Act of August 17, 1977, is omitted as unnecessary because of the definitions in 37:101.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31, § 525(1), designated existing provisions as par. (1), inserted “after determining that such approval is not contrary to the national interests of the United States” after “approve the employment”, and added par. (2).
+
+Subsec. (d)(2). Pub. L. 118–31, § 525(2)(A)(i), substituted “a person” for “an officer” in introductory provisions.
+
+Subsec. (d)(2)(B) to (D). Pub. L. 118–31, § 525(2)(A)(ii), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) The duties, if any, to be performed in connection with the employment or compensation or payment or award.
+
+“(C) The total amount of compensation, if any, or payment to be provided.”
+
+Subsec. (d)(3). Pub. L. 118–31, § 525(2)(B), added par. (3).
+
+Subsec. (f). Pub. L. 118–31, § 523(c), added subsec. (f).
+
 2021—Pub. L. 116–283, § 641(c)(1), amended section catchline generally, substituting “Reserves and retired members: acceptance of employment, payments, and awards from foreign governments” for “Employment of reserves and retired members by foreign governments”.
 
 Subsec. (a). Pub. L. 116–283, § 641(a)(1)(A), in introductory provisions, substituted “subsections (b) and (c)” for “subsection (b)” and inserted “, accepting payment for speeches, travel, meals, lodging, or registration fees, or accepting a non-cash award,” after “that employment)”.
@@ -391,11 +415,15 @@ Pub. L. 107–107, div. A, title VI, § 623(b), Dec. 28, 2001, 115 Stat. 1143, p
 
 **(f) Regulations.—** This section shall be administered under regulations to be prescribed by the Secretary of Defense.
 
-**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2022, unless the entitlement of the member to payments under this section commenced on or before that date.
+**(g) Termination.—** No payment shall be made to a member under this section for months beginning after December 31, 2024, unless the entitlement of the member to payments under this section commenced on or before that date.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (g). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
+
+2022—Subsec. (g). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
+
 2021—Subsec. (g). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
 
 Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.

@@ -920,7 +920,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 ### Statutory Notes
 
 #### References in Text
-The Older Americans Act of 1965, referred to in subsecs. (a)(2)(B), (C) and (c)(2), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
+The Older Americans Act of 1965, referred to in subsecs. (a)(2)(B), (C) and (c)(2), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2379,7 +2379,7 @@ Subsection (m) [enacted as (n)] is directed at collusive bidding on property sol
 #### References in Text
 Section 7A of the Clayton Act, referred to in subsec. (b)(2), is classified to [section 18a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section18a&num=0&edition=prelim), Commerce and Trade.
 
-The Truth in Lending Act, referred to in subsec. (o), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in subsec. (o), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2019—Subsec. (c)(1). Pub. L. 116–54 inserted “1183, 1184,” after “1108,”.
@@ -2504,7 +2504,7 @@ A claim arising as a result of lending or borrowing under this section will be a
 #### References in Text
 Section 5 of the Securities Act of 1933, referred to in subsec. (f), is classified to [section 77e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77e&num=0&edition=prelim), Commerce and Trade.
 
-The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (f), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (g). Pub. L. 116–260, § 320(f)(2)(A)(i), contingent on its addition by Pub. L. 116–260, § 320(a), struck out subsec. (g) which read as follows:
@@ -2594,29 +2594,19 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 
 (2) In a case under chapter 9, 11, 12, or 13 of this title, the trustee may assume or reject an executory contract or unexpired lease of residential real property or of personal property of the debtor at any time before the confirmation of a plan but the court, on the request of any party to such contract or lease, may order the trustee to determine within a specified period of time whether to assume or reject such contract or lease.
 
-(3)
-
-  (A) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/1&num=0&edition=prelim). The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period, except as provided in subparagraph (B). This subsection shall not be deemed to affect the trustee’s obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor’s rights under such lease or under this title.
-
-  (B) In a case under subchapter V of chapter 11, the time for performance of an obligation described in subparagraph (A) arising under any unexpired lease of nonresidential real property may be extended by the court if the debtor is experiencing or has experienced a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic until the earlier of—
-
-    (i) the date that is 60 days after the date of the order for relief, which may be extended by the court for an additional period of 60 days if the court determines that the debtor is continuing to experience a material financial hardship due, directly or indirectly, to the coronavirus disease 2019 (COVID–19) pandemic; or
-
-    (ii) the date on which the lease is assumed or rejected under this section.
-
-  (C) An obligation described in subparagraph (A) for which an extension is granted under subparagraph (B) shall be treated as an administrative expense described in section 507(a)(2) for the purpose of section 1191(e).
+(3) The trustee shall timely perform all the obligations of the debtor, except those specified in section 365(b)(2), arising from and after the order for relief under any unexpired lease of nonresidential real property, until such lease is assumed or rejected, notwithstanding [section 503(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section503/b/1&num=0&edition=prelim). The court may extend, for cause, the time for performance of any such obligation that arises within 60 days after the date of the order for relief, but the time for performance shall not be extended beyond such 60-day period. This subsection shall not be deemed to affect the trustee’s obligations under the provisions of subsection (b) or (f) of this section. Acceptance of any such performance does not constitute waiver or relinquishment of the lessor’s rights under such lease or under this title.
 
 (4)
 
   (A) Subject to subparagraph (B), an unexpired lease of nonresidential real property under which the debtor is the lessee shall be deemed rejected, and the trustee shall immediately surrender that nonresidential real property to the lessor, if the trustee does not assume or reject the unexpired lease by the earlier of—
 
-    (i) the date that is 210 days after the date of the order for relief; or
+    (i) the date that is 120 days after the date of the order for relief; or
 
     (ii) the date of the entry of an order confirming a plan.
 
   (B)
 
-    (i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 210-day period, for 90 days on the motion of the trustee or lessor for cause.
+    (i) The court may extend the period determined under subparagraph (A), prior to the expiration of the 120-day period, for 90 days on the motion of the trustee or lessor for cause.
 
     (ii) If the court grants an extension under clause (i), the court may grant a subsequent extension only upon prior written consent of the lessor in each instance.
 
@@ -2769,21 +2759,6 @@ Amendment by Pub. L. 99–554 effective 30 days after Oct. 27, 1986, but not app
 (3) In a case under chapter 11 in which the debtor is an individual and in a case under chapter 13, if the debtor is the lessee with respect to personal property and the lease is not assumed in the plan confirmed by the court, the lease is deemed rejected as of the conclusion of the hearing on confirmation. If the lease is rejected, the stay under section 362 and any stay under section 1301 is automatically terminated with respect to the property subject to the lease.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (d)
-Pub. L. 116–260, div. FF, title X, § 1001(f)(2)(A), Dec. 27, 2020, 134 Stat. 3219, provided that, effective on the date that is 2 years after Dec. 27, 2020, subsection (d) of this section is amended:
-
-(1) in paragraph (3)—
-
-(A) by striking “(A)” after “(3)”;
-
-(B) by striking “, except as provided in subparagraph (B)” after “such 60-day period”; and
-
-(C) by striking subparagraphs (B) and (C); and
-
-(2) in paragraph (4), by striking “210” each place it appears and inserting “120”.
-
-See 2020 Amendment notes below.
 
 #### legislative statements
 Section 365(b)(3) represents a compromise between H.R. 8200 as passed by the House and the Senate amendment. The provision adopts standards contained in section 365(b)(5) of the Senate amendment to define adequate assurance of future performance of a lease of real property in a shopping center.
@@ -2944,7 +2919,7 @@ Subsecs. (l), (m). Pub. L. 98–353, § 362(b), added subsecs. (l) and (m).
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. FF, title X, § 1001(f)(2)(A), Dec. 27, 2020, 134 Stat. 3219, provided that the amendment made by section 1001(f)(2)(A) is effective on the date that is 2 years after Dec. 27, 2020.
 
-Pub. L. 116–260, div. FF, title X, § 1001(f)(2)(B), Dec. 27, 2020, 134 Stat. 3219, provided that: “Notwithstanding the amendments made by subparagraph (A) [amending this section], the amendments made by paragraph (1) [amending this section] shall apply in any case commenced under subchapter V of chapter 11 of title 11, United States Code, before the date that is 2 years after the date of enactment of this Act [Dec. 27. 2020].”
+Pub. L. 116–260, div. FF, title X, § 1001(f)(2)(B), Dec. 27, 2020, 134 Stat. 3219, provided that: “Notwithstanding the amendments made by subparagraph (A) [amending this section], the amendments made by paragraph (1) [amending this section] shall apply in any case commenced under subchapter V of chapter 11 of title 11, United States Code, before the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

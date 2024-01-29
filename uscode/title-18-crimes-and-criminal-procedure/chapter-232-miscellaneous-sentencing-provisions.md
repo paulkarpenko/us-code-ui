@@ -221,6 +221,14 @@ Pub. L. 97–291, § 7, Oct. 12, 1982, 96 Stat. 1257, required the Attorney Gene
 
 (3) The court shall also order, if agreed to by the parties in a plea agreement, restitution to persons other than the victim of the offense.
 
+(4) **Clarification.—** — In ordering restitution under this section, a court shall order the defendant to make restitution to a person who has assumed the victim’s rights under paragraph (2) to reimburse that person’s necessary and reasonable—
+
+  (A) lost income, child care, transportation, and other expenses incurred during and directly related to participation in the investigation or prosecution of the offense or attendance at proceedings related to the offense;
+
+  (B) lost income, transportation, and other expenses incurred that are directly related to transporting the victim for necessary medical and related professional services and devices relating to physical, psychiatric, and psychological care, including nonmedical care and treatment rendered in accordance with a method of healing recognized by the law of the place of treatment; and
+
+  (C) lost income, transportation, and other expenses incurred that are directly related to transporting the victim to receive necessary physical and occupational therapy and rehabilitation.
+
 **(b)** The order of restitution shall require that such defendant—
 
 (1) in the case of an offense resulting in damage to or loss or destruction of property of a victim of the offense—
@@ -283,6 +291,8 @@ Pub. L. 97–291, § 7, Oct. 12, 1982, 96 Stat. 1257, required the Attorney Gene
 Section 3 of the Rodchenkov Anti-Doping Act of 2019, referred to in subsec. (c)(1)(A)(iii), is classified to [section 2402 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section2402&num=0&edition=prelim), Food and Drugs.
 
 #### Amendments
+2024—Subsec. (a)(4). Pub. L. 118–77 added par. (4).
+
 2020—Subsec. (c)(1)(A)(iii) to (v). Pub. L. 116–206, § 5(1), added cl. (iii) and redesignated former cls. (iii) and (iv) as (iv) and (v), respectively.
 
 Subsec. (c)(3). Pub. L. 116–206, § 5(2), inserted “or (iii)” after “paragraph (1)(A)(ii)” in introductory provisions.

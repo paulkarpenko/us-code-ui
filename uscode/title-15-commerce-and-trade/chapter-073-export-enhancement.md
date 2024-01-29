@@ -908,14 +908,16 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
-(d) Insofar as the Federal Advisory Committee Act (5 U.S.C. App.) (the “Act”) may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of Commerce in accordance with the guidelines that have been issued by the Administrator of General Services.
+(d) Insofar as the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (the “Act”) may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of Commerce in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 Barack Obama.
 
 #### Extension of Term of President’s Advisory Council on Doing Business in Africa
-Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Council on Doing Business in Africa extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of President’s Advisory Council on Doing Business in Africa were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

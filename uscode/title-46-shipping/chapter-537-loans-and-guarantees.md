@@ -446,6 +446,8 @@ Subsec. (c). Pub. L. 110–181, § 3522(a)(10)(B), incorporated the substance of
 
   (C) technologies or upgrades designed to improve collection and reporting of fishery-dependent data, to reduce bycatch, to improve selectivity or reduce adverse impacts of fishing gear, or to improve safety.
 
+(8) Financing (including reimbursement of an obligor for expenditures previously made for) the reconstruction, reconditioning, retrofitting, repair, reconfiguration, or similar work in a shipyard located in the United States.
+
 **(b) Non-Vessels Treated as Vessels.—** An obligation guaranteed under subsection (a)(6) or (7) shall be treated, for purposes of this chapter, in the same manner and to the same extent as an obligation that aids in financing the construction, reconstruction, reconditioning, or purchase of a vessel, except with respect to provisions that by their nature can only be applied to vessels.
 
 **(c) Priorities for Certain Vessels.—**
@@ -483,6 +485,8 @@ Section 303(d)(4) of the Magnuson-Stevens Fishery Conservation and Management Ac
 The Maritime Security Act of 2003, referred to in subsec. (c)(1)(A), is title XXXV of div. C of Pub. L. 108–136, Nov. 24, 2003, 117 Stat. 1788. Subtitle D of the Act amended section 1273 of the former Appendix to this title and enacted provisions set out as a note under [section 53101 of this title](./chapter-531-maritime-security-fleet.md#section-53101). For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
 
 #### Amendments
+2023—Subsec. (a)(8). Pub. L. 118–31 added par. (8).
+
 2019—Subsec. (a)(1)(A). Pub. L. 116–92, § 3506(e)(1)(A), struck out “(including an eligible export vessel)” after “reconditioning of a vessel” in introductory provisions.
 
 Subsec. (a)(1)(A)(vi). Pub. L. 116–92, § 3506(e)(1)(B)–(D), struck out cl. (vi) which read as follows: “as an eligible export vessel in worldwide trade.”

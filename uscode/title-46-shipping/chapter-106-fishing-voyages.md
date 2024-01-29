@@ -18,9 +18,15 @@ source: >-
 
 (1) state the period of effectiveness of the agreement;
 
-(2) include the terms of any wage, share, or other compensation arrangement peculiar to the fishery in which the vessel will be engaged during the period of the agreement; and
+(2) include the terms of any wage, share, or other compensation arrangement peculiar to the fishery in which the vessel will be engaged during the period of the agreement;
 
-(3) include other agreed terms.
+(3) in the case of a seaman employed on a vessel that is a catcher processor or fish processing vessel that employs more than 25 crewmembers, include a requirement that each crewmember shall be served not less than three meals a day that—
+
+  (A) total not less than 3,100 calories; and
+
+  (B) include adequate water and minerals in accordance with the United States Recommended Daily Allowances; and
+
+(4) include other agreed terms.
 
 ### Statutory Notes
 
@@ -30,6 +36,8 @@ source: >-
 | 10601 | 46:531 |
 
 #### Amendments
+2022—Subsec. (b)(3), (4). Pub. L. 117–263 added par. (3) and redesignated former par. (3) as (4).
+
 2002—Subsec. (a). Pub. L. 107–295, § 441(a), (b)(1), in introductory provisions, inserted “owner, charterer, or managing operator, or a representative thereof, including the” after “on a voyage, the” and comma after “individual in charge” and substituted “employed” for “enployed”.
 
 Subsecs. (b), (c). Pub. L. 107–295, § 441(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The agreement shall be signed also by the owner of the vessel.”

@@ -97,7 +97,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
     (iii) a description of the scheme or scam; and
 
-    (iv) the outcome of the case.22 So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv);
+    (iv) the outcome of the case.22 So in original. Subpar. (B) added by Pub. L. 116–252 without conforming amendment to punctuation at end of subpar. (A)(iv).
 
   (B) with respect to the report by the Attorney General, including a link to the publicly available best practices identified under subsection (b)(1)(B) and the replication guides and training materials created or compiled under such subsection; and
 
@@ -120,7 +120,7 @@ For repeal of amendment by Pub. L. 107–103, see Termination Date of 2022 Amend
 Section 112 of the Stop Senior Scams Act, referred to in subsec. (c)(2)(C), is section 112 of Pub. L. 117–103, div. Q, title I, Mar. 15, 2022, 136 Stat. 809, which amended this section and enacted provisions set out as notes under this section and [section 45e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section45e&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
-2022—Subsec. (c)(2)(C). Pub. L. 117–103, § 112(e), (f), temporarily added subpar. (C). See Termination Date of 2022 Amendment below.
+2022—Subsec. (c)(2)(C). Pub. L. 117–103, § 112(e), (f), temporarily added subpar. (C). See Termination Date of 2022 Amendment note below.
 
 2020—Subsec. (b). Pub. L. 116–252, § 2(a)(1)–(3), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), redesignated former subpars. (A) to (C) of par. (2) as clauses (i) to (iii), respectively, of par. (1)(B), and realigned margins.
 

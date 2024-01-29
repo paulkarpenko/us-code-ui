@@ -2,7 +2,7 @@
 title: 2
 chapter: '29'
 heading: CAPITOL POLICE
-section_count: 64
+section_count: 66
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -591,9 +591,9 @@ Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothin
 
 **(c) Duties**
 
-(1) **Applicability of duties of Inspector General of executive branch establishment** — The Inspector General shall carry out the same duties and responsibilities with respect to the United States Capitol Police as an Inspector General of an establishment carries out with respect to an establishment under section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4), under the same terms and conditions which apply under such section.
+(1) **Applicability of duties of Inspector General of executive branch establishment** — The Inspector General shall carry out the same duties and responsibilities with respect to the United States Capitol Police as an Inspector General of an establishment carries out with respect to an establishment under [section 404 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section404&num=0&edition=prelim), under the same terms and conditions which apply under such section.
 
-(2) **Semiannual reports** — The Inspector General shall prepare and submit semiannual reports summarizing the activities of the Office in the same manner, and in accordance with the same deadlines, terms, and conditions, as an Inspector General of an establishment under section 5 (other than subsection (a)(13) thereof) of the Inspector General Act of 1978, (5 U.S.C. App. 5). For purposes of applying section 5 of such Act to the Inspector General, the Chief of the Capitol Police shall be considered the head of the establishment. The Chief shall, within 30 days of receipt of a report, report to the Capitol Police Board, the Committee on House Administration, the Senate Committee on Rules and Administration, and the Committees on Appropriations of the House of Representatives and of the Senate consistent with section 5(b) of such Act.
+(2) **Semiannual reports** — The Inspector General shall prepare and submit semiannual reports summarizing the activities of the Office in the same manner, and in accordance with the same deadlines, terms, and conditions, as an Inspector General of an establishment under section 405 (other than subsection (b)(13) thereof) of title 5. For purposes of applying section 405 of such title to the Inspector General, the Chief of the Capitol Police shall be considered the head of the establishment. The Chief shall, within 30 days of receipt of a report, report to the Capitol Police Board, the Committee on House Administration, the Senate Committee on Rules and Administration, and the Committees on Appropriations of the House of Representatives and of the Senate consistent with section 405(c) of such title.
 
 (3) **Investigations of complaints of employees and members**
 
@@ -607,7 +607,7 @@ Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothin
 
 **(d) Powers**
 
-(1) **In general** — The Inspector General may exercise the same authorities with respect to the United States Capitol Police as an Inspector General of an establishment may exercise with respect to an establishment under section 6(a) of the Inspector General Act of 1978, (5 U.S.C. App. 6(a)), other than paragraphs (7) and (8) of such section.
+(1) **In general** — The Inspector General may exercise the same authorities with respect to the United States Capitol Police as an Inspector General of an establishment may exercise with respect to an establishment under [section 406(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406/a&num=0&edition=prelim), other than paragraphs (7) and (8) of such section.
 
 (2) **Staff**
 
@@ -632,14 +632,19 @@ Pub. L. 111–145, § 4(b), Mar. 4, 2010, 124 Stat. 52, provided that: “Nothin
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsecs. (c)(1), (2) and (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The provisions of title 5 regarding appointments in the competitive service, referred to in subsec. (d)(2)(A), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
 #### Codification
 Section is comprised of section 1004 of Pub. L. 109–55. Subsec. (g) of section 1004 of Pub. L. 109–55 amended [section 1903 of this title](./chapter-029-capitol-police.md#section-1903).
 
 Section is from the Legislative Branch Appropriations Act, 2006.
+
+#### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–286, § 4(b)(4)(A), substituted “[section 404 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section404&num=0&edition=prelim),” for “section 4 of the Inspector General Act of 1978, (5 U.S.C. App. 4),”.
+
+Subsec. (c)(2). Pub. L. 117–286, § 4(b)(4)(B), substituted “section 405 (other than subsection (b)(13) thereof) of title 5.” for “section 5 (other than subsection (a)(13) thereof) of the Inspector General Act of 1978, (5 U.S.C. App. 5).”, “section 405 of such title” for “section 5 of such Act”, and “section 405(c) of such title.” for “section 5(b) of such Act.”
+
+Subsec. (d)(1). Pub. L. 117–286, § 4(b)(4)(C), substituted “[section 406(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406/a&num=0&edition=prelim), other than paragraphs (7) and (8) of such section.” for “section 6(a) of the Inspector General Act of 1978, (5 U.S.C. App. 6(a)), other than paragraphs (7) and (8) of such section.”
 
 #### Change of Name
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (b)(1) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
@@ -694,6 +699,15 @@ For the amendments made by this section, referred to in par. (5), see Codificati
 
 #### Codification
 Section is comprised of subsec. (a) of section 3 of Pub. L. 111–145. Subsec. (a)(4) of section 3 of Pub. L. 111–145 repealed [section 84–2 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-84-2), now [section 5521 of this title](./chapter-055-house-of-representatives-officers-and-administration.md#section-5521), and provisions set out as a note under [section 1901 of this title](./chapter-029-capitol-police.md#section-1901).
+
+
+<a id="section-1912"></a>
+## § 1912. Volunteer chaplain services
+**(a)** The Chief of the Capitol Police shall have authority to accept unpaid religious chaplain services, whereby volunteers from multiple faiths, authorized by their respective religious endorsing agency or organization, may advise, administer, and perform spiritual care and religious guidance for Capitol Police employees.
+
+**(b)** Chaplains shall not be required to perform any rite, ritual, or ceremony, and employees shall not be required to receive such rite, ritual, or ceremony, if doing so would compromise the conscience, moral principles, or religious beliefs of such chaplain or employees or the chaplain’s endorsing agency or organization.
+
+**(c) Effective Date.—** This section shall apply with respect to fiscal year 2023 and each succeeding fiscal year.
 
 
 <a id="section-1921"></a>
@@ -1569,6 +1583,12 @@ None of the funds made available in this or any other Act in prior fiscal years,
 
 #### Codification
 Section was classified to section 212a–2 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
+
+
+<a id="section-1966a"></a>
+## § 1966a. Protection of former Speakers of the House of Representatives
+
+Notwithstanding any other provision of law (except [section 1341 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1341&num=0&edition=prelim), United States Code), hereafter, the United States Capitol Police shall perform a threat assessment for former Speakers of the House of Representatives, and if warranted, any such former Speaker shall receive a United States Capitol Police protective detail for a period of not more than one year beginning on the date they leave such office, except that such former Speaker shall have the option to decline such protective detail at any time: Provided, That at the conclusion of the one year period, the United States Capitol Police shall perform a threat assessment to determine whether extension of the protective detail is warranted: Provided further, That, the protective detail may be extended beyond the initial one year period, with the concurrence of the relevant former Speaker, if the United States Capitol Police determines that information or conditions, including but not limited to violent threats, warrant such protection: Provided further, That the United States Capitol Police is authorized to enter into Memoranda of Understanding with relevant state and local law enforcement agencies, as needed, to carry out this section.
 
 
 <a id="section-1967"></a>

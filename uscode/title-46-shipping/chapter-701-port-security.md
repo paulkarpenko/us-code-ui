@@ -13,7 +13,7 @@ For the purpose of this chapter:
 
 (1) The term “Area Maritime Transportation Security Plan” means an Area Maritime Transportation Security Plan prepared under section 70103(b).
 
-(2) The term “cybersecurity risk” has the meaning given the term in section 227 of the Homeland Security Act of 2002 ([6 U.S.C. 148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim)).11 See References in Text note below.
+(2) The term “cybersecurity risk” has the meaning given the term in section 2200 of the Homeland Security Act of 2002.
 
 (3) The term “facility” means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the United States.
 
@@ -32,9 +32,11 @@ For the purpose of this chapter:
 ### Statutory Notes
 
 #### References in Text
-Section 227 of the Homeland Security Act of 2002 ([6 U.S.C. 148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim)), referred to in par. (2), was originally section 226 of title II of Pub. L. 107–296, as added Pub. L. 113–282, § 3(a), Dec. 18, 2014, 128 Stat. 3066; renumbered § 227 and amended Pub. L. 114–113, div. N, title II, §§ 203, 223(a)(3), Dec. 18, 2015, 129 Stat. 2957, 2963; Pub. L. 114–328, div. A, title XVIII, § 1841(b), Dec. 23, 2016, 130 Stat. 2663, and was renumbered title XXII, § 2209 of Pub. L. 107–296 by Pub. L. 115–278, § 2(g)(2)(I), Nov. 16, 2018, 132 Stat. 4178, and transferred to [section 659 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section659&num=0&edition=prelim), Domestic Security.
+Section 2200 of the Homeland Security Act of 2002, referred to in par. (2), is classified to [section 650 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim), Domestic Security.
 
 #### Amendments
+2022—Par. (2). Pub. L. 117–263 substituted “section 2200 of the Homeland Security Act of 2002” for “section 227 of the Homeland Security Act of 2002 ([6 U.S.C. 148](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim))”.
+
 2018—Pars. (2) to (7). Pub. L. 115–254 added par. (2) and redesignated former pars. (2) to (6) as (3) to (7), respectively.
 
 2006—Par. (6). Pub. L. 109–347 inserted at end “In this paragraph, the term ‘economic disruption’ does not include a work stoppage or other employee-related action not related to terrorism and resulting from an employee-employer dispute.”
@@ -67,7 +69,7 @@ Pub. L. 108–293, title VIII, § 809(g), (i), formerly § 809(g)–(i), (k), Au
 Pub. L. 107–295, title I, § 101, Nov. 25, 2002, 116 Stat. 2066, provided that: “The Congress makes the following findings: “(1) There are 361 public ports in the United States that are an integral part of our Nation’s commerce. “(2) United States ports handle over 95 percent of United States overseas trade. The total volume of goods imported and exported through ports is expected to more than double over the next 20 years. “(3) The variety of trade and commerce carried out at ports includes bulk cargo, containerized cargo, passenger transport and tourism, and intermodal transportation systems that are complex to secure. “(4) The United States is increasingly dependent on imported energy for a substantial share of its energy supply, and a disruption of that share of supply would seriously harm consumers and our economy. “(5) The top 50 ports in the United States account for about 90 percent of all the cargo tonnage. Twenty-five United States ports account for 98 percent of all container shipments. Cruise ships visiting foreign destinations embark from at least 16 ports. Ferries in the United States transport 113,000,000 passengers and 32,000,000 vehicles per year. “(6) Ports often are a major locus of Federal crime, including drug trafficking, cargo theft, and smuggling of contraband and aliens. “(7) Ports are often very open and exposed and are susceptible to large scale acts of terrorism that could cause a large loss of life or economic disruption. “(8) Current inspection levels of containerized cargo are insufficient to counter potential security risks. Technology is currently not adequately deployed to allow for the nonintrusive inspection of containerized cargo. “(9) The cruise ship industry poses a special risk from a security perspective. “(10) Securing entry points and other areas of port facilities and examining or inspecting containers would increase security at United States ports. “(11) Biometric identification procedures for individuals having access to secure areas in port facilities are important tools to deter and prevent port cargo crimes, smuggling, and terrorist actions. “(12) United States ports are international boundaries that—“(A) are particularly vulnerable to breaches in security; “(B) may present weaknesses in the ability of the United States to realize its national security objectives; and “(C) may serve as a vector or target for terrorist attacks aimed at the United States. “(13) It is in the best interests of the United States—“(A) to have a free flow of interstate and foreign commerce and to ensure the efficient movement of cargo; “(B) to increase United States port security by establishing improving communication among law enforcement officials responsible for port security; “(C) to formulate requirements for physical port security, recognizing the different character and nature of United States port facilities, and to require the establishment of security programs at port facilities; “(D) to provide financial assistance to help the States and the private sector to increase physical security of United States ports; “(E) to invest in long-term technology to facilitate the private sector development of technology that will assist in the nonintrusive timely detection of crime or potential crime at United States ports; “(F) to increase intelligence collection on cargo and intermodal movements to address areas of potential threat to safety and security; and “(G) to promote private sector procedures that provide for in-transit visibility and support law enforcement efforts directed at managing the security risks of cargo shipments. “(14) On April 27, 1999, the President established the Interagency Commission on Crime and Security in United States Ports to undertake a comprehensive study of the nature and extent of the problem of crime in our ports, as well as the ways in which governments at all levels are responding. The Commission concluded that frequent crimes in ports include drug smuggling, illegal car exports, fraud, and cargo theft. Internal conspiracies are an issue at many ports and contribute to Federal crime. Criminal organizations are exploiting weak security at ports to commit a wide range of cargo crimes. Intelligence and information sharing among law enforcement agencies needs to be improved and coordinated at many ports. A lack of minimum physical and personnel security standards at ports and related facilities leaves many ports and port users very vulnerable. Access to ports and operations within ports is often uncontrolled. Security-related and detection-related equipment, such as small boats, cameras, large-scale x-ray machines, and vessel tracking devices, are lacking at many ports. “(15) The International Maritime Organization and other similar international organizations are currently developing a new maritime security system that contains the essential elements for enhancing global maritime security. Therefore, it is in the best interests of the United States to implement new international instruments that establish such a system.”
 
 #### Maritime Security Professional Training
-Pub. L. 107–295, title I, § 109, Nov. 25, 2002, 116 Stat. 2090, provided that: “(a) In General.—“(1) Development of standards.—Not later than 6 months after the date of enactment of this Act [Nov. 25, 2002], the Secretary of Transportation shall develop standards and curriculum to allow for the training and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee established under [section 70112 of title 46](./chapter-701-port-security.md#section-70112), United States Code, as amended by this Act. “(2) Secretary to consult on standards.—In developing standards under this section, the Secretary may, without regard to the Federal Advisory Committee Act (5 U.S.C. App.), consult with the Federal Law Enforcement Training Center, the United States Merchant Marine Academy’s Global Maritime and Transportation School, the Maritime Security Council, the International Association of Airport and Port Police, the National Cargo Security Council, and any other Federal, State, or local government or law enforcement agency or private organization or individual determined by the Secretary to have pertinent expertise. “(b) Minimum Standards.—The standards established by the Secretary under subsection (a) shall include the following elements:“(1) The training and certification of maritime security professionals in accordance with accepted law enforcement and security guidelines, policies, and procedures, including, as appropriate, recommendations for incorporating a background check process for personnel trained and certified in foreign ports. “(2) The training of students and instructors in all aspects of prevention, detection, investigation, and reporting of criminal activities in the international maritime environment. “(3) The provision of off-site training and certification courses and certified personnel at United States and foreign ports used by United States-flagged vessels, or by foreign-flagged vessels with United States citizens as passengers or crewmembers, to develop and enhance security awareness and practices. “(c) Training Provided to Law Enforcement and Security Personnel.—“(1) In general.—The Secretary is authorized to make the training opportunities provided under this section available to any Federal, State, local, and private law enforcement or maritime security personnel in the United States or to personnel employed in foreign ports used by vessels with United States citizens as passengers or crewmembers. “(2) Academies and schools.—The Secretary may provide training under this section at—“(A) each of the 6 State maritime academies; “(B) the United States Merchant Marine Academy; “(C) the Appalachian Transportation Institute; and “(D) other security training schools in the United States. “(d) Use of Contract Resources.—The Secretary may employ Federal and contract resources to train and certify maritime security professionals in accordance with the standards and curriculum developed under this Act [see Tables for classification]. “(e) Annual Report.—The Secretary shall transmit an annual report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the expenditure of appropriated funds and the training under this section. “(f) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary to carry out this section $5,500,000 for each of fiscal years 2003 through 2008.”
+Pub. L. 107–295, title I, § 109, Nov. 25, 2002, 116 Stat. 2090, as amended by Pub. L. 117–286, § 4(a)(293), Dec. 27, 2022, 136 Stat. 4338, provided that: “(a) In General.—“(1) Development of standards.—Not later than 6 months after the date of enactment of this Act [Nov. 25, 2002], the Secretary of Transportation shall develop standards and curriculum to allow for the training and certification of maritime security professionals. In developing these standards and curriculum, the Secretary shall consult with the National Maritime Security Advisory Committee established under [section 70112 of title 46](./chapter-701-port-security.md#section-70112), United States Code, as amended by this Act. “(2) Secretary to consult on standards.—In developing standards under this section, the Secretary may, without regard to chapter 10 of title 5, United States Code, consult with the Federal Law Enforcement Training Center, the United States Merchant Marine Academy’s Global Maritime and Transportation School, the Maritime Security Council, the International Association of Airport and Port Police, the National Cargo Security Council, and any other Federal, State, or local government or law enforcement agency or private organization or individual determined by the Secretary to have pertinent expertise. “(b) Minimum Standards.—The standards established by the Secretary under subsection (a) shall include the following elements:“(1) The training and certification of maritime security professionals in accordance with accepted law enforcement and security guidelines, policies, and procedures, including, as appropriate, recommendations for incorporating a background check process for personnel trained and certified in foreign ports. “(2) The training of students and instructors in all aspects of prevention, detection, investigation, and reporting of criminal activities in the international maritime environment. “(3) The provision of off-site training and certification courses and certified personnel at United States and foreign ports used by United States-flagged vessels, or by foreign-flagged vessels with United States citizens as passengers or crewmembers, to develop and enhance security awareness and practices. “(c) Training Provided to Law Enforcement and Security Personnel.—“(1) In general.—The Secretary is authorized to make the training opportunities provided under this section available to any Federal, State, local, and private law enforcement or maritime security personnel in the United States or to personnel employed in foreign ports used by vessels with United States citizens as passengers or crewmembers. “(2) Academies and schools.—The Secretary may provide training under this section at—“(A) each of the 6 State maritime academies; “(B) the United States Merchant Marine Academy; “(C) the Appalachian Transportation Institute; and “(D) other security training schools in the United States. “(d) Use of Contract Resources.—The Secretary may employ Federal and contract resources to train and certify maritime security professionals in accordance with the standards and curriculum developed under this Act [see Tables for classification]. “(e) Annual Report.—The Secretary shall transmit an annual report to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure on the expenditure of appropriated funds and the training under this section. “(f) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary to carry out this section $5,500,000 for each of fiscal years 2003 through 2008.”
 
 [For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).]
 
@@ -427,20 +429,20 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
 
 <a id="section-70105"></a>
-## § 70105. Transportation security cards
+## § 70105. Transportation worker identification credentials
 **(a) Prohibition.—**
 
 (1) The Secretary shall prescribe regulations to prevent an individual from entering an area of a vessel or facility that is designated as a secure area by the Secretary for purposes of a security plan for the vessel or facility that is approved by the Secretary under [section 70103 of this title](./chapter-701-port-security.md#section-70103) unless the individual—
 
-  (A) holds a transportation security card issued under this section and is authorized to be in the area in accordance with the plan; or
+  (A) holds a transportation worker identification credential issued under this section and is authorized to be in the area in accordance with the plan; or
 
-  (B) is accompanied by another individual who holds a transportation security card issued under this section and is authorized to be in the area in accordance with the plan.
+  (B) is accompanied by another individual who holds a transportation worker identification credential issued under this section and is authorized to be in the area in accordance with the plan.
 
 (2) A person shall not admit an individual into such a secure area unless the entry of the individual into the area is in compliance with paragraph (1).
 
-**(b) Issuance of Cards.—**
+**(b) Issuance of Credentials.—**
 
-(1) The Secretary shall issue a biometric transportation security card to an individual specified in paragraph (2), unless the Secretary determines under subsection (c) that the individual poses a security risk warranting denial of the card.
+(1) The Secretary shall issue a biometric transportation worker identification credential to an individual specified in paragraph (2), unless the Secretary determines under subsection (c) that the individual poses a security risk warranting denial of the credential.
 
 (2) This subsection applies to—
 
@@ -460,19 +462,19 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
     (i) is undergoing separation, discharge, or release from the Armed Forces under honorable conditions;
 
-    (ii) applies for a transportation security card; and
+    (ii) applies for a transportation worker identification credential; and
 
-    (iii) is otherwise eligible for such a card; and
+    (iii) is otherwise eligible for such a credential; and
 
   (H) other individuals as determined appropriate by the Secretary including individuals employed at a port not otherwise covered by this subsection.
 
-(3) The Secretary may extend for up to one year the expiration of a biometric transportation security card required by this section to align the expiration with the expiration of a license, certificate of registry, or merchant mariner document required under chapter 71 or 73.
+(3) The Secretary may extend for up to one year the expiration of a biometric transportation worker identification credential required by this section to align the expiration with the expiration of a license, certificate of registry, or merchant mariner document required under chapter 71 or 73.
 
 **(c) Determination of Terrorism Security Risk.—**
 
 (1) **Disqualifications.—**
 
-  (A) *Permanent disqualifying criminal offenses.—* — Except as provided under paragraph (2), an individual is permanently disqualified from being issued a biometric transportation security card under subsection (b) if the individual has been convicted, or found not guilty by reason of insanity, in a civilian or military jurisdiction of any of the following felonies:
+  (A) *Permanent disqualifying criminal offenses.—* — Except as provided under paragraph (2), an individual is permanently disqualified from being issued a biometric transportation worker identification credential under subsection (b) if the individual has been convicted, or found not guilty by reason of insanity, in a civilian or military jurisdiction of any of the following felonies:
 
     (i) Espionage or conspiracy to commit espionage.
 
@@ -504,7 +506,7 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
     (xii) Conspiracy or attempt to commit any of the crimes described in clauses (v) through (x).
 
-  (B) *Interim disqualifying criminal offenses.—* — Except as provided under paragraph (2), an individual is disqualified from being issued a biometric transportation security card under subsection (b) if the individual has been convicted, or found not guilty by reason of insanity, during the 7-year period ending on the date on which the individual applies for such card, or was released from incarceration during the 5-year period ending on the date on which the individual applies for such card, of any of the following felonies:
+  (B) *Interim disqualifying criminal offenses.—* — Except as provided under paragraph (2), an individual is disqualified from being issued a biometric transportation worker identification credential under subsection (b) if the individual has been convicted, or found not guilty by reason of insanity, during the 7-year period ending on the date on which the individual applies for such credential, or was released from incarceration during the 5-year period ending on the date on which the individual applies for such credential, of any of the following felonies:
 
     (i) Unlawful possession, use, sale, manufacture, purchase, distribution, receipt, transfer, shipment, transportation, delivery, import, export, or storage of, or dealing in, a firearm or other weapon. In this clause, a firearm or other weapon includes—
 
@@ -540,9 +542,9 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
     (xv) A violation of the chapter 96 of title 18 (popularly known as the Racketeer Influenced and Corrupt Organizations Act) or a comparable State law, other than any of the violations listed in subparagraph (A)(x).
 
-  (C) *Under want, warrant, or indictment.—* — An applicant who is wanted, or under indictment, in any civilian or military jurisdiction for a felony listed in paragraph (1)(A), is disqualified from being issued a biometric transportation security card under subsection (b) until the want or warrant is released or the indictment is dismissed.
+  (C) *Under want, warrant, or indictment.—* — An applicant who is wanted, or under indictment, in any civilian or military jurisdiction for a felony listed in paragraph (1)(A), is disqualified from being issued a biometric transportation worker identification credential under subsection (b) until the want or warrant is released or the indictment is dismissed.
 
-  (D) *Other potential disqualifications.—* — Except as provided under subparagraphs (A) through (C), an individual may not be denied a transportation security card under subsection (b) unless the Secretary determines that individual—
+  (D) *Other potential disqualifications.—* — Except as provided under subparagraphs (A) through (C), an individual may not be denied a transportation worker identification credential under subsection (b) unless the Secretary determines that individual—
 
     (i) has been convicted within the preceding 7-year period of a felony or found not guilty by reason of insanity of a felony—
 
@@ -558,9 +560,9 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
   (E) *Modification of listed offenses.—* — The Secretary may, by rulemaking, add to or modify the list of disqualifying crimes described in paragraph (1)(B).
 
-(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation security card to an individual found to be otherwise ineligible for such a card under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a card to such an individual, the Secretary shall—
+(2) The Secretary shall prescribe regulations that establish a waiver process for issuing a transportation worker identification credential to an individual found to be otherwise ineligible for such a credential under subparagraph (A), (B), or (D) of paragraph (1). In deciding to issue a credential to such an individual, the Secretary shall—
 
-  (A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the card; and
+  (A) give consideration to the circumstances of any disqualifying act or offense, restitution made by the individual, Federal and State mitigation remedies, and other factors from which it may be concluded that the individual does not pose a terrorism risk warranting denial of the credential; and
 
   (B) issue a waiver to an individual without regard to whether that individual would otherwise be disqualified if the individual’s employer establishes alternate security arrangements acceptable to the Secretary.
 
@@ -582,9 +584,9 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
   (E) *New evidence.—* — The Secretary shall establish a process under which an individual may submit a new request for a waiver, notwithstanding confirmation by the administrative law judge of the Secretary’s initial denial of the waiver, if the request is supported by substantial evidence that was not available to the Secretary at the time the initial waiver request was denied.
 
-(4) The Secretary shall establish an appeals process under this section for individuals found to be ineligible for a transportation security card that includes notice and an opportunity for a hearing.
+(4) The Secretary shall establish an appeals process under this section for individuals found to be ineligible for a transportation worker identification credential that includes notice and an opportunity for a hearing.
 
-(5) Upon application, the Secretary may issue a transportation security card to an individual if the Secretary has previously determined, under [section 5103a of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103a&num=0&edition=prelim), that the individual does not pose a security risk.
+(5) Upon application, the Secretary may issue a transportation worker identification credential to an individual if the Secretary has previously determined, under [section 5103a of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103a&num=0&edition=prelim), that the individual does not pose a security risk.
 
 **(d) Background Records Check.—**
 
@@ -608,85 +610,63 @@ Pub. L. 107–295, title I, § 102(c), Nov. 25, 2002, 116 Stat. 2084, provided t
 
 (1) Information obtained by the Attorney General or the Secretary under this section may not be made available to the public, including the individual’s employer.
 
-(2) Any information constituting grounds for denial of a transportation security card under this section shall be maintained confidentially by the Secretary and may be used only for making determinations under this section. The Secretary may share any such information with other Federal law enforcement agencies. An individual’s employer may only be informed of whether or not the individual has been issued the card under this section.
+(2) Any information constituting grounds for denial of a transportation worker identification credential under this section shall be maintained confidentially by the Secretary and may be used only for making determinations under this section. The Secretary may share any such information with other Federal law enforcement agencies. An individual’s employer may only be informed of whether or not the individual has been issued the credential under this section.
 
 **(f) Definition.—** In this section, the term “alien” has the meaning given the term in section 101(a)(3) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/3&num=0&edition=prelim)).
 
-**(g) Applications for Merchant Mariners’ Documents.—** The Assistant Secretary of Homeland Security for the Transportation Security Administration and the Commandant of the Coast Guard shall—
+**(g) Applications for Merchant Mariners’ Documents.—** The Administrator of the Transportation Security Administration and the Commandant of the Coast Guard shall—
 
-(1) develop and, no later than 2 years after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, implement a joint application for merchant mariner’s documents under chapter 73 and for a transportation security card issued under this section; and
+(1) develop and, no later than 2 years after the date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, implement a joint application for merchant mariner’s documents under chapter 73 and for a transportation worker identification credential issued under this section; and
 
-(2) upon receipt of a joint application developed under paragraph (1) concurrently process an application from an individual for merchant mariner’s documents under chapter 73 and an application from such individual for a transportation security card under this section.
+(2) upon receipt of a joint application developed under paragraph (1) concurrently process an application from an individual for merchant mariner’s documents under chapter 73 and an application from such individual for a transportation worker identification credential under this section.
 
-**(h) Fees.—** The Secretary shall ensure that the fees charged each individual applying for a transportation security card under this section who has passed a background check under [section 5103a(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103a/d&num=0&edition=prelim), United States Code, and who has a current hazardous materials endorsement in accordance with [section 1572 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1572&num=0&edition=prelim), Code of Federal Regulations, and each individual with a current merchant mariners’ document who has passed a criminal background check under section 7302(d)—
+**(h) Fees.—** The Secretary shall ensure that the fees charged each individual applying for a transportation worker identification credential under this section who has passed a background check under [section 5103a(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section5103a/d&num=0&edition=prelim), United States Code, and who has a current hazardous materials endorsement in accordance with [section 1572 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1572&num=0&edition=prelim), Code of Federal Regulations, and each individual with a current merchant mariners’ document who has passed a criminal background check under section 7302(d)—
 
-(1) are for costs associated with the issuance, production, and management of the transportation security card, as determined by the Secretary; and
+(1) are for costs associated with the issuance, production, and management of the transportation worker identification credential, as determined by the Secretary; and
 
 (2) do not include costs associated with performing a background check for that individual, except for any incremental costs in the event that the scope of such background checks diverge.
 
-**(i) Implementation Schedule.—** In implementing the transportation security card program under this section, the Secretary shall—
+**(i) Priority Processing for Separating Service Members.—**
 
-(1) establish a priority for each United States port based on risk, including vulnerabilities assessed under section 70102; and
-
-(2) implement the program, based upon such risk and other factors as determined by the Secretary, at all facilities regulated under this chapter at—
-
-  (A) the 10 United States ports that the Secretary designates top priority not later than July 1, 2007;
-
-  (B) the 40 United States ports that are next in order of priority to the ports described in subparagraph (A) not later than January 1, 2008; and
-
-  (C) all other United States ports not later than January 1, 2009.
-
-**(j) Priority Processing for Separating Service Members.—**
-
-(1) The Secretary and the Secretary of Defense shall enter into a memorandum of understanding regarding the submission and processing of applications for transportation security cards under subsection (b)(2)(G).
+(1) The Secretary and the Secretary of Defense shall enter into a memorandum of understanding regarding the submission and processing of applications for transportation worker identification credentials under subsection (b)(2)(G).
 
 (2) Not later than 30 days after the submission of such an application by an individual who is eligible to submit such an application, the Secretary shall process and approve or deny the application unless an appeal or waiver applies or further application documentation is necessary.
 
-**(k) Deployment of Transportation Security Card Readers.—**
+**(j) Deployment of Transportation Worker Identification Credential Readers.—**
 
 (1) **Pilot program.—**
 
-  (A) *In general.—* — The Secretary shall conduct a pilot program to test the business processes, technology, and operational impacts required to deploy transportation security card readers at secure areas of the marine transportation system.
+  (A) *In general.—* — The Secretary shall conduct a pilot program to test the business processes, technology, and operational impacts required to deploy transportation worker identification credential readers at secure areas of the marine transportation system.
 
   (B) *Geographic locations.—* — The pilot program shall take place at not fewer than 5 distinct geographic locations, to include vessels and facilities in a variety of environmental settings.
 
   (C) *Commencement.—* — The pilot program shall commence not later than 180 days after the date of the enactment of the SAFE Port Act.
 
-(2) **Correlation with transportation security cards.—**
+(2) **Correlation with worker identification credential.—**
 
-  (A) *In general.—* — The pilot program described in paragraph (1) shall be conducted concurrently with the issuance of the transportation security cards described in subsection (b) to ensure card and card reader interoperability.
+  (A) *In general.—* — The pilot program described in paragraph (1) shall be conducted concurrently with the issuance of the transportation worker identification credentials described in subsection (b) to ensure credential and credential reader interoperability.
 
-  (B) *Fee.—* — An individual charged a fee for a transportation security card issued under this section may not be charged an additional fee if the Secretary determines different transportation security cards are needed based on the results of the pilot program described in paragraph (1) or for other reasons related to the technology requirements for the transportation security card program.
+  (B) *Fee.—* — An individual charged a fee for a transportation worker identification credential issued under this section may not be charged an additional fee if the Secretary determines different transportation worker identification credentials are needed based on the results of the pilot program described in paragraph (1) or for other reasons related to the technology requirements for the transportation worker identification credential program.
 
-(3) **Regulations.—** — Not later than 2 years after the commencement of the pilot program under paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation security card readers that are consistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
+(3) **Regulations.—** — Not later than 2 years after the commencement of the pilot program under paragraph (1)(C), the Secretary, after a notice and comment period that includes at least 1 public hearing, shall promulgate final regulations that require the deployment of transportation worker identification credential readers that are consistent with the findings of the pilot program and build upon the regulations prescribed under subsection (a).
 
-(4) **Report.—** — Not later than 120 days before the promulgation of regulations under paragraph (3), the Secretary shall submit a comprehensive report to the appropriate congressional committees (as defined in section 2(1) of SAFE Port Act) that includes—
+**(k) Limitation.—** The Secretary may not require the placement of an electronic reader for transportation worker identification credentials on a vessel unless—
 
-  (A) the findings of the pilot program with respect to technical and operational impacts of implementing a transportation security card reader system;
-
-  (B) any actions that may be necessary to ensure that all vessels and facilities to which this section applies are able to comply with such regulations; and
-
-  (C) an analysis of the viability of equipment under the extreme weather conditions of the marine environment.
-
-**(l) Progress Reports.—** Not later than 6 months after the date of the enactment of the SAFE Port Act, and every 6 months thereafter until the requirements under this section are fully implemented, the Secretary shall submit a report on progress being made in implementing such requirements to the appropriate congressional committees (as defined in section 2(1) of the SAFE Port Act).
-
-**(m) Limitation.—** The Secretary may not require the placement of an electronic reader for transportation security cards on a vessel unless—
-
-(1) the vessel has more individuals on the crew that are required to have a transportation security card than the number the Secretary determines, by regulation issued under subsection (k)(3), warrants such a reader; or
+(1) the vessel has more individuals on the crew that are required to have a transportation worker identification credential than the number the Secretary determines, by regulation issued under subsection (j)(3), warrants such a reader; or
 
 (2) the Secretary determines that the vessel is at risk of a severe transportation security incident.
 
-**(n)** The Secretary may use a secondary authentication system to verify the identification of individuals using transportation security cards when the individual’s fingerprints are not able to be taken or read.
+**(l)** The Secretary may use a secondary authentication system to verify the identification of individuals using transportation worker identification credentials when the individual’s fingerprints are not able to be taken or read.
 
-**(o) Escorting.—** The Secretary shall coordinate with owners and operators subject to this section to allow any individual who has a pending application for a transportation security card under this section or is waiting for reissuance of such card, including any individual whose card has been lost or stolen, and who needs to perform work in a secure or restricted area to have access to such area for that purpose through escorting of such individual in accordance with subsection (a)(1)(B) by another individual who holds a transportation security card. Nothing in this subsection shall be construed as requiring or compelling an owner or operator to provide escorted access.
+**(m) Escorting.—** The Secretary shall coordinate with owners and operators subject to this section to allow any individual who has a pending application for a transportation worker identification credential under this section or is waiting for reissuance of such credential, including any individual whose credential has been lost or stolen, and who needs to perform work in a secure or restricted area to have access to such area for that purpose through escorting of such individual in accordance with subsection (a)(1)(B) by another individual who holds a transportation worker identification credential. Nothing in this subsection shall be construed as requiring or compelling an owner or operator to provide escorted access.
 
-**(p) Processing Time.—** The Secretary shall review an initial transportation security card application and respond to the applicant, as appropriate, including the mailing of an Initial Determination of Threat Assessment letter, within 30 days after receipt of the initial application. The Secretary shall, to the greatest extent practicable, review appeal and waiver requests submitted by a transportation security card applicant, and send a written decision or request for additional information required for the appeal or waiver determination, within 30 days after receipt of the applicant’s appeal or waiver written request. For an applicant that is required to submit additional information for an appeal or waiver determination, the Secretary shall send a written decision, to the greatest extent practicable, within 30 days after receipt of all requested information.
+**(n) Processing Time.—** The Secretary shall review an initial transportation worker identification credential application and respond to the applicant, as appropriate, including the mailing of an Initial Determination of Threat Assessment letter, within 30 days after receipt of the initial application. The Secretary shall, to the greatest extent practicable, review appeal and waiver requests submitted by a transportation worker identification credential applicant, and send a written decision or request for additional information required for the appeal or waiver determination, within 30 days after receipt of the applicant’s appeal or waiver written request. For an applicant that is required to submit additional information for an appeal or waiver determination, the Secretary shall send a written decision, to the greatest extent practicable, within 30 days after receipt of all requested information.
 
-**(q) Receipt and Activation of Transportation Security Card.—**
+**(o) Receipt and Activation of Transportation Worker Identification Credential.—**
 
-(1) **In general.—** — Not later than one year after the date of publication of final regulations required by subsection (k)(3) of this section the Secretary shall develop a plan to permit the receipt and activation of transportation security cards at any vessel or facility described in subsection (a) of this section that desires to implement this capability. This plan shall comply, to the extent possible, with all appropriate requirements of Federal standards for personal identity verification and credential.
+(1) **In general.—** — Not later than one year after the date of publication of final regulations required by subsection (j)(3) of this section the Secretary shall develop a plan to permit the receipt and activation of transportation worker identification credentials at any vessel or facility described in subsection (a) of this section that desires to implement this capability. Such receipt and activation shall comply, to the extent possible, with all appropriate requirements of Federal standards for personal identity verification and credential.
 
-(2) **Limitation.—** — The Secretary may not require any such vessel or facility to provide on-site activation capability.
+(2) **Limitation.—** — The Secretary may not require any such vessel or facility to provide on-site receipt and activation of transportation worker identification credentials.
 
 ### Statutory Notes
 
@@ -699,11 +679,47 @@ The Classified Information Procedures Act, referred to in subsec. (c)(3)(D)(i), 
 
 The date of enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 116–283 which was approved Jan. 1, 2021.
 
-The date of the enactment of the SAFE Port Act, referred to in subsecs. (k)(1)(C) and (l), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
-
-Section 2(1) of the SAFE Port Act, referred to in subsecs. (k)(4) and (l), is classified to [section 901(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section901/1&num=0&edition=prelim), Domestic Security.
+The date of the enactment of the SAFE Port Act, referred to in subsec. (j)(1)(C), is the date of enactment of Pub. L. 109–347, which was approved Oct. 13, 2006.
 
 #### Amendments
+2022—Pub. L. 117–263, § 11804(a)(1), substituted “worker identification credentials” for “security cards” in section catchline.
+
+Pub. L. 117–263, § 11804(a)(2)–(4), substituted “transportation worker identification credential” for “transportation security card”, “transportation worker identification credentials” for “transportation security cards”, and “credential” for “card” wherever appearing.
+
+Subsec. (b). Pub. L. 117–263, § 11804(a)(5), substituted “Credentials” for “Cards” in heading.
+
+Subsec. (g). Pub. L. 117–263, § 11804(a)(6), substituted “Administrator of” for “Assistant Secretary of Homeland Security for” in introductory provisions.
+
+Subsec. (i). Pub. L. 117–263, § 11804(a)(7), redesignated subsec. (j) as (i) and struck out former subsec. (i) which related to implementation schedule.
+
+Subsec. (j). Pub. L. 117–263, § 11804(a)(9), substituted “Worker Identification Credential” for “Security Card”, in subsec. heading, and “worker identification credential” for “security cards”, in par. (2) heading.
+
+Pub. L. 117–263, § 11804(a)(7), redesignated subsec. (k) as (j). Former subsec. (j) redesignated (i).
+
+Subsec. (j)(4). Pub. L. 117–263, § 11804(a)(11), which directed amendment of subsec. (k), as so redesignated, by striking par. (4), was executed to subsec. (j) to reflect the probable intent of Congress and amendment by Pub. L. 117–263, § 11804(a)(8), which redesignated subsec. (k) as (j). Prior to amendment, par. (4) related to report on the pilot program.
+
+Subsec. (k). Pub. L. 117–263, § 11804(a)(8), redesignated subsec. (m) as (k). Former subsec. (k) redesignated (j).
+
+Subsec. (k)(1). Pub. L. 117–263, § 11804(a)(10), substituted “subsection (j)(3)” for “subsection (k)(3)”.
+
+Subsec. (l). Pub. L. 117–263, § 11804(a)(8), redesignated subsec. (n) as (l) and struck out former subsec. (l). Prior to amendment, text read as follows: “Not later than 6 months after the date of the enactment of the SAFE Port Act, and every 6 months thereafter until the requirements under this section are fully implemented, the Secretary shall submit a report on progress being made in implementing such requirements to the appropriate congressional committees (as defined in section 2(1) of the SAFE Port Act).”
+
+Subsec. (m). Pub. L. 117–263, § 11804(a)(8), redesignated subsec. (o) as (m). Former subsec. (m) redesignated (k).
+
+Subsec. (n). Pub. L. 117–263, § 11804(a)(8), redesignated subsec. (p) as (n). Former subsec. (n) redesignated (l).
+
+Subsec. (o). Pub. L. 117–263, § 11804(a)(12)(A), substituted “Worker Identification Credential” for “Security Card” in the subsec. heading.
+
+Pub. L. 117–263, § 11804(a)(8), redesignated subsec. (q) as (o). Former subsec. (o) redesignated (m).
+
+Subsec. (o)(1). Pub. L. 117–263, § 11804(a)(12)(B), substituted “subsection (j)(3)” for “subsection (k)(3)” and “Such receipt and activation shall” for “This plan shall”.
+
+Subsec. (o)(2). Pub. L. 117–263, § 11804(a)(12)(C), substituted “on-site receipt and activation of transportation worker identification credentials” for “on-site activation capability”.
+
+Subsec. (p). Pub. L. 117–263, § 11804(a)(8), redesignated subsec. (p) as (n).
+
+Subsec. (q). Pub. L. 117–263, § 11804(a)(8), redesignated subsec. (q) as (o).
+
 2021—Subsec. (g). Pub. L. 116–283 substituted “shall—” and pars. (1) and (2) for “shall concurrently process an application from an individual for merchant mariner’s documents under chapter 73 of title 46, United States Code, and an application from that individual for a transportation security card under this section.”
 
 2016—Subsec. (b)(2)(G), (H). Pub. L. 114–328, § 3509(a)(1), added subpar. (G) and redesignated former subpar. (G) as (H).
@@ -745,6 +761,11 @@ Pub. L. 114–328, div. C, title XXXV, § 3509(c), Dec. 23, 2016, 130 Stat. 2781
 
 #### Effective Date of 2010 Amendment
 Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendment made by section 1(13) is effective with the enactment of Pub. L. 111–281.
+
+#### Transportation Worker Identification Credential Reader Requirements Rule Implementation
+Pub. L. 117–263, div. K, title CXVIII, § 11804(c), (d), Dec. 23, 2022, 136 Stat. 4164, provided that: “(c) Limitation on Implementation.—The Secretary may not implement the rule entitled ‘Transportation Worker Identification Credential (TWIC)–Reader Requirements’ (81 Fed. Reg. 57651) for covered facilities before May 8, 2026. “(d) Covered Facilities Defined.—In this section, the term ‘covered facilities’ means—“(1) facilities that handle Certain Dangerous Cargoes in bulk and transfer such cargoes from or to a vessel; “(2) facilities that handle Certain Dangerous Cargoes in bulk, but do not transfer it from or to a vessel; and “(3) facilities that receive vessels carrying Certain Dangerous Cargoes in bulk but, during the vessel-to-facility interface, do not transfer it from or to the vessel.”
+
+[For definition of “Secretary” as used in section 11804(c) of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard.]
 
 #### Deadline for Section 70105 Regulations
 Pub. L. 109–347, title I, § 104(c), Oct. 13, 2006, 120 Stat. 1891, provided that: “Not later than January 1, 2007, the Secretary [of Homeland Security] shall promulgate final regulations implementing the requirements for issuing transportation security cards under [section 70105 of title 46](./chapter-701-port-security.md#section-70105), United States Code. The regulations shall include a background check process to enable newly hired workers to begin working unless the Secretary makes an initial determination that the worker poses a security risk. Such process shall include a check against the consolidated and integrated terrorist watch list maintained by the Federal Government.”
@@ -1006,6 +1027,8 @@ The date of enactment of this Act, referred to in subsec. (k)(1), probably means
 
 This Act, referred to in subsec. (k)(1)(B)(iii), probably means the Maritime Transportation Security Act of 2002, which enacted this subtitle, see note below.
 
+With respect to “transportation security cards required by section 70105”, referred to in subsec. (k)(1)(B)(iv), amendments made by Pub. L. 117–263 to [section 70105 of this title](./chapter-701-port-security.md#section-70105) are such that section 70105 now refers to “transportation worker identification credential” rather than “transportation security card”. See [section 70105 of this title](./chapter-701-port-security.md#section-70105).
+
 The Maritime Transportation Security Act of 2002, referred to in subsec. (k)(3)(D), is Pub. L. 107–295, Nov. 25, 2002, 116 Stat. 2064. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
@@ -1127,11 +1150,15 @@ Pub. L. 109–347, title I, § 108(b), Oct. 13, 2006, 120 Stat. 1893, as amended
 
 **(f) Recognition of Assessment Conducted by Other Entities.—**
 
-(1) **Certification and treatment of assessments.—** — For the purposes of this section and section 70109, the Secretary may treat an assessment that a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization has conducted as an assessment that the Secretary has conducted for the purposes of subsection (a), provided that the Secretary certifies that the foreign government or international organization has—
+(1) **Certification and treatment of assessments.—** — For the purposes of this section and section 70109, the Secretary may treat an assessment that a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization has conducted as an assessment that the Secretary has conducted for the purposes of subsection (a), if—
 
-  (A) conducted the assessment in accordance with subsection (b); and
+  (A) the Secretary certifies that the foreign government or international organization—
 
-  (B) provided the Secretary with sufficient information pertaining to its assessment (including, but not limited to, information on the outcome of the assessment).
+    (i) has conducted the assessment in accordance with subsection (b); and
+
+    (ii) has provided the Secretary with sufficient information pertaining to its assessment (including information regarding the outcome of the assessment); and
+
+  (B) the foreign government that conducted the assessment is not a state sponsor of terrorism (as defined in section 3316(h)).
 
 (2) **Authorization to enter into an agreement.—** — For the purposes of this section and section 70109, the Secretary, in consultation with the Secretary of State, may enter into an agreement with a foreign government (including, for the purposes of this subsection, an entity of or operating under the auspices of the European Union) or international organization, under which parties to the agreement—
 
@@ -1141,17 +1168,49 @@ Pub. L. 109–347, title I, § 108(b), Oct. 13, 2006, 120 Stat. 1893, as amended
 
   (C) both.
 
-(3) **Limitations.—** — Nothing in this subsection shall be construed to—
+(3) **Limitations.—** — Nothing in this section may be construed—
 
-  (A) require the Secretary to recognize an assessment that a foreign government or an international organization has conducted; or
+  (A) to require the Secretary to treat an assessment conducted by a foreign government or an international organization as an assessment that satisfies the requirement under subsection (a);
 
-  (B) limit the discretion or ability of the Secretary to conduct an assessment under this section.
+  (B) to limit the discretion or ability of the Secretary to conduct an assessment under this section;
+
+  (C) to limit the authority of the Secretary to repatriate aliens to their respective countries of origin; or
+
+  (D) to prevent the Secretary from requesting security and safety measures that the Secretary considers necessary to safeguard Coast Guard personnel during the repatriation of aliens to their respective countries of origin.
 
 (4) **Notification to congress.—** — Not later than 30 days before entering into an agreement or arrangement with a foreign government under paragraph (2), the Secretary shall notify the Committee on Homeland Security and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the proposed terms of such agreement or arrangement.
+
+**(g) State Sponsors of Terrorism and International Terrorist Organizations.—** The Secretary—
+
+(1) may not enter into an agreement under subsection (f)(2) with—
+
+  (A) a foreign government that is a state sponsor of terrorism (as defined in section 3316(h)); or
+
+  (B) an entity designated by the Secretary of State as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1189&num=0&edition=prelim)); and
+
+(2) shall—
+
+  (A) deem any port that is under the jurisdiction of a foreign government that is a state sponsor of terrorism as not having effective antiterrorism measures for purposes of this section and section 70109; and
+
+  (B) immediately apply the sanctions described in section 70110(a) to such port.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (f)(1). Pub. L. 118–31, § 5603(1)(A), substituted “if—” and subpars. (A) and (B) for “provided that the Secretary certifies that the foreign government or international organization has—
+
+“(A) conducted the assessment in accordance with subsection (b); and
+
+“(B) provided the Secretary with sufficient information pertaining to its assessment (including, but not limited to, information on the outcome of the assessment).”
+
+Subsec. (f)(3). Pub. L. 118–31, § 5603(1)(B), amended par. (3) generally. Prior to amendment, text read as follows: “Nothing in this subsection shall be construed to—
+
+“(A) require the Secretary to recognize an assessment that a foreign government or an international organization has conducted; or
+
+“(B) limit the discretion or ability of the Secretary to conduct an assessment under this section.”
+
+Subsec. (g). Pub. L. 118–31, § 5603(2), added subsec. (g).
+
 2016—Subsec. (f). Pub. L. 114–120 added subsec. (f).
 
 2010—Subsec. (c)(2) to (4). Pub. L. 111–281, § 806(c)(2)(B), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “the Secretary of the Treasury;”.
@@ -1356,7 +1415,7 @@ Pub. L. 107–295, title I, § 103, Nov. 25, 2002, 116 Stat. 2084, provided that
 
   (A) *In general.—* — The Secretary shall, and the head of any other interested Federal agency may, designate a representative to participate as an observer with a committee established under this subsection.
 
-  (B) *Role.—* — The Secretary’s designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+  (B) *Role.—* — The Secretary’s designated representative to a committee established under this subsection shall act as the executive secretary of the committee and shall perform the duties set forth in [section 1009(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009/c&num=0&edition=prelim).
 
 (5) **Consideration of views.—** — The Secretary shall consider the information, advice, and recommendations of each committee established under this subsection in formulating policy regarding matters affecting maritime security.
 
@@ -1370,14 +1429,15 @@ Pub. L. 107–295, title I, § 103, Nov. 25, 2002, 116 Stat. 2084, provided that
 
   (B) *Status.—* — A member of a committee established under this subsection shall not be considered to be an officer or employee of the United States for any purpose based on the receipt of any payment under this paragraph.
 
-(7) **FACA.—** — The Federal Advisory Committee Act (5 U.S.C. App.) does not apply to a committee established under this subsection.
+(7) **Chapter 10 of title 5.—** — Chapter 10 of title 5 does not apply to a committee established under this subsection.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(4)(B), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (b)(4)(B). Pub. L. 117–286, § 4(a)(294), substituted “[section 1009(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009/c&num=0&edition=prelim).” for “section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).”
+
+Subsec. (b)(7). Pub. L. 117–286, § 4(a)(295), substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Pub. L. 115–282, § 602(a), amended section generally. Prior to amendment, section required Secretary to establish a National Maritime Security Advisory Committee and authorized Secretary to establish an Area Maritime Security Advisory Committee for any port area of the United States.
 
 Subsec. (a)(1)(A). Pub. L. 115–254 inserted “, including on enhancing the sharing of information related to cybersecurity risks that may cause a transportation security incident, between relevant Federal agencies and—” in introductory provisions and added cls. (i) to (vi).

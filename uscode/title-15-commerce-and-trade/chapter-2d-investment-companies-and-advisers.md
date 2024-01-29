@@ -1193,7 +1193,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsecs. (a), (c), and (e), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 For the effective date of this subchapter, referred to in subsec. (c), see [section 80a–52 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-52).
 
@@ -1546,6 +1546,12 @@ Any information or documents contained in a report or other communication to sec
 
 **(j) Notice to Commission** The Commission may issue rules and regulations to require any person that maintains a church plan that is excluded from the definition of an investment company solely by reason of [section 80a–3(c)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–3/c/14&num=0&edition=prelim) to file a notice with the Commission containing such information and in such form as the Commission may prescribe as necessary or appropriate in the public interest or consistent with the protection of investors.
 
+**(k) Data standards for reports**
+
+(1) **Requirement** — The Commission shall, by rule, adopt data standards for all reports required to be filed with the Commission under this section, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1554,6 +1560,8 @@ The Securities Act of 1933, referred to in subsec. (i)(1), is act May 27, 1933, 
 The Securities Exchange Act of 1934, referred to in subsec. (i)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of this title. For complete classification of this Act to the Code, see [section 78a of this title](./chapter-2b-securities-exchanges.md#section-78a) and Tables.
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–263 added subsec. (k).
+
 1998—Subsec. (b)(1). Pub. L. 105–353, § 301(c)(5)(A), inserted “and” after semicolon at end.
 
 Subsec. (e). Pub. L. 105–353, § 301(c)(5)(B), substituted “semiannually” for “semi-annually” in introductory provisions.
@@ -1573,6 +1581,9 @@ Pub. L. 104–290, § 206(2), (5), redesignated subsec. (e), relating to certifi
 Subsec. (h). Pub. L. 104–290, § 508(g), added subsec. (h), relating to notice to Commission.
 
 Pub. L. 104–290, § 206(2), redesignated subsec. (f), relating to duties and liabilities of affiliated persons, as (h).
+
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
@@ -2569,7 +2580,7 @@ Pub. L. 115–141, div. S, title VIII, § 803, Mar. 23, 2018, 132 Stat. 1140, pr
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (a)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
+The Securities Act of 1933, referred to in subsec. (a)(1), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see [section 77a of this title](./chapter-2a-securities-and-trust-indentures.md#section-77a) and Tables.
 
 #### Amendments
 1996—Subsec. (a)(1)(A). Pub. L. 104–290 substituted “from any person” for “or from any person” and inserted before semicolon “, or from any other person, subject to such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors”.
@@ -3073,6 +3084,12 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 **(f) Cessation of existence as investment company** Whenever the Commission, on its own motion or upon application, finds that a registered investment company has ceased to be an investment company, it shall so declare by order and upon the taking effect of such order the registration of such company shall cease to be in effect. If necessary for the protection of investors, an order under this subsection may be made upon appropriate conditions. The Commission’s denial of any application under this subsection shall be by order.
 
+**(g) Data standards for registration statements**
+
+(1) **Requirement** — The Commission shall, by rule, adopt data standards for all registration statements required to be filed with the Commission under this section, except that the Commission may exempt exhibits, signatures, and certifications from those data standards.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -3083,6 +3100,8 @@ The Securities Exchange Act of 1934, referred to in subsecs. (b)(5) and (c)(1), 
 Words “such Act”, referred to in subsec. (c)(1), mean the Securities Act of 1933 and the Securities Exchange Act of 1934, respectively.
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–263 added subsec. (g).
+
 1970—Subsec. (b)(2). Pub. L. 91–547, § 3(c)(1), substituted “all investment policies of the registrant” and “which are changeable only if authorized by shareholder vote” for “the policy of the registrant in respect of matters” and “which the registrant deems matters of fundamental policy and elects to treat as such”, respectively. Former provisions are covered in par. (3).
 
 Subsec. (b)(3) to (5). Pub. L. 91–547, § 3(c)(2), (3), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
@@ -3091,6 +3110,9 @@ Subsec. (b)(3) to (5). Pub. L. 91–547, § 3(c)(2), (3), added par. (3) and red
 
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L. 91–547, set out as a note under [section 80a–52 of this title](./chapter-2d-investment-companies-and-advisers.md#section-80a-52).
+
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).
@@ -4446,15 +4468,25 @@ Pub. L. 104–290, title III, § 307, Oct. 11, 1996, 110 Stat. 3440, provided th
 
 (3) **Limitation on liability** — An entity designated by the Commission under subsection (b)(1) shall not have any liability to any person for any actions taken or omitted in good faith under this subsection.
 
-**(d) 33 So in original. Probably should be “(e)”. Records of persons with custody or use**
+**(e) Records of persons with custody or use**
 
 (1) **In general** — Records of persons having custody or use of the securities, deposits, or credits of a client, that relate to such custody or use, are subject at any time, or from time to time, to such reasonable periodic, special, or other examinations and other information and document requests by representatives of the Commission, as the Commission deems necessary or appropriate in the public interest or for the protection of investors.
 
 (2) **Certain persons subject to other regulation** — Any person that is subject to regulation and examination by a Federal financial institution regulatory agency (as such term is defined under [section 212(c)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section212/c/2&num=0&edition=prelim)) may satisfy any examination request, information request, or document request described under paragraph (1), by providing the Commission with a detailed listing, in writing, of the securities, deposits, or credits of the client within the custody or use of such person.
 
+**(f) Data standards for reports filed under this section**
+
+(1) **Requirement** — The Commission shall, by rule, adopt data standards for all reports filed by investment advisers with the Commission under this section.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334&num=0&edition=prelim), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsecs. (d), (e). Pub. L. 117–263, § 5821(a)(1), redesignated subsec. (d) relating to records of persons with custody or use as (e).
+
+Subsec. (f). Pub. L. 117–263, § 5821(a)(2), added subsec. (f).
+
 2010—Subsecs. (b), (c). Pub. L. 111–203, § 404, added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d) relating to access to disciplinary and other information.
 
 Subsec. (d). Pub. L. 111–203, § 929Q(b), added subsec. (d) relating to records of persons with custody or use.
@@ -4474,6 +4506,9 @@ Amendment by section 404 of Pub. L. 111–203 effective 1 year after July 21, 20
 
 #### Effective Date of 1975 Amendment
 Amendment by Pub. L. 94–29 effective June 4, 1975, see section 31(a) of Pub. L. 94–29, set out as a note under [section 78b of this title](./chapter-2b-securities-exchanges.md#section-78b).
+
+#### Rule of Construction—No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5826 of Pub. L. 117–263, set out as a note under [section 77g of this title](./chapter-2a-securities-and-trust-indentures.md#section-77g).
 
 #### Transfer of Functions
 For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under [section 78d of this title](./chapter-2b-securities-exchanges.md#section-78d).

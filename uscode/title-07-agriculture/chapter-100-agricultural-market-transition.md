@@ -1093,6 +1093,8 @@ Section, Pub. L. 104–127, title I, § 155, Apr. 4, 1996, 110 Stat. 922, relate
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (h), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim), Customs Duties.
 
 #### Codification
+Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year pursuant to title I of Pub. L. 113–79 and amendment made by section 1301 of Pub. L. 115–334 applicable to the 2024 crop year for sugarcane or sugar beets, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments

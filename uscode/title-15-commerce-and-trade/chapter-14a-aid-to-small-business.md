@@ -202,6 +202,8 @@ Pub. L. 97–35, title XIX, § 1918, Aug. 13, 1981, 95 Stat. 781, provided that:
 Pub. L. 96–302, title V, § 507, July 2, 1980, 94 Stat. 854, provided that: “This Act [enacting sections 631a, 631b, 648, and 697 of this title, amending this section, sections 632, 633, 634, 634d, 636, 637, 644, 647, 694–2, 694b, and 694c of this title, [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 1961 and 1964 of Title 7, Agriculture, enacting provisions set out as notes under this section and sections 636, 637, and 648 of this title, and amending provisions set out as a note under this section] shall take effect October 1, 1980.”
 
 #### Short Title of 2022 Amendment
+Pub. L. 117–319, § 1, Dec. 27, 2022, 136 Stat. 4424, provided that: “This Act [amending [section 648 of this title](./chapter-14a-aid-to-small-business.md#section-648) and enacting provisions set out as a note under [section 648 of this title](./chapter-14a-aid-to-small-business.md#section-648)] may be cited as the ‘Small Business Cyber Training Act of 2022’.”
+
 Pub. L. 117–259, § 1, Dec. 21, 2022, 136 Stat. 2387, provided that: “This Act [amending [section 639 of this title](./chapter-14a-aid-to-small-business.md#section-639)] may be cited as the ‘SBA Cyber Awareness Act’.”
 
 Pub. L. 117–249, § 1, Dec. 20, 2022, 136 Stat. 2350, provided that: “This Act [amending [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636) and enacting provisions set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636)] may be cited as the ‘Disaster Assistance for Rural Communities Act’.”
@@ -388,7 +390,7 @@ Pub. L. 85–536, § 2[1], July 18, 1958, 72 Stat. 384, provided that this chapt
 Pub. L. 85–536, § 2[49], formerly § 2[21], July 18, 1958, 72 Stat. 396, renumbered § 2[30] by Pub. L. 96–302, title II, § 202, July 2, 1980, 94 Stat. 843; renumbered § 2[31] by Pub. L. 104–121, title II, § 222(1), Mar. 29, 1996, 110 Stat. 860; renumbered § 2[32] by Pub. L. 105–135, title VI, § 602(b)(1)(A), Dec. 2, 1997, 111 Stat. 2629; renumbered § 2[34] by Pub. L. 106–50, title II, § 201(b)(1), Aug. 17, 1999, 113 Stat. 235; renumbered § 2[36] by Pub. L. 106–554, § 1(a)(9) [title I, § 111(b)(1)], Dec. 21, 2000, 114 Stat. 2763, 2763A–674; renumbered § 2[37] by Pub. L. 108–183, title III, § 308, Dec. 16, 2003, 117 Stat. 2662; renumbered § 2[44] by Pub. L. 110–234, title XII, § 12062(1), May 22, 2008, 122 Stat. 1407; Pub. L. 110–246, § 4(a), title XII, § 12062(1), June 18, 2008, 122 Stat. 1664, 2169; renumbered § 2[45] by Pub. L. 111–240, title I, § 1313(a)(1), Sept. 27, 2010, 124 Stat. 2538; renumbered § 2[47] by Pub. L. 112–239, div. A, title XVI, § 1641(1), Jan. 2, 2013, 126 Stat. 2076; renumbered § 2[49] by Pub. L. 115–189, § 3(a)(1), June 21, 2018, 132 Stat. 1492, provided that: “All laws and parts of laws inconsistent with this Act [this chapter] are hereby repealed to the extent of such inconsistency.”
 
 #### Regulations
-Pub. L. 105–135, title IV, § 417, Dec. 2, 1997, 111 Stat. 2620, provided that: “(a) Proposed Regulations.—Proposed amendments to the Federal Acquisition Regulation or proposed Small Business Administration regulations under this subtitle [subtitle B (§§ 411–417) of title IV of Pub. L. 105–135, amending this section and sections 632, 637 and 644 of this title and enacting provisions set out as notes under [section 637 of this title](./chapter-14a-aid-to-small-business.md#section-637) and [section 405 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section405&num=0&edition=prelim), Public Contracts] and the amendments made by this subtitle shall be published not later than 120 days after the date of enactment of this Act [Dec. 2, 1997] for the purpose of obtaining public comment pursuant to section 22 of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 418b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418b&num=0&edition=prelim)) [now [41 U.S.C. 1707](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1707&num=0&edition=prelim)], or chapter 5 of title 5, United States Code, as appropriate. The public shall be afforded not less than 60 days to submit comments. “(b) Final Regulations.—Final regulations shall be published not later than 270 days after the date of enactment of this Act. The effective date for such final regulations shall be not less than 30 days after the date of publication.”
+Pub. L. 105–135, title IV, § 417, Dec. 2, 1997, 111 Stat. 2620, provided that: “(a) Proposed Regulations.—Proposed amendments to the Federal Acquisition Regulation or proposed Small Business Administration regulations under this subtitle [subtitle B (§§ 411–417) of title IV of Pub. L. 105–135, amending this section and sections 632, 637 and 644 of this title and enacting provisions set out as notes under [section 637 of this title](./chapter-14a-aid-to-small-business.md#section-637) and [section 1122 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1122&num=0&edition=prelim), Public Contracts] and the amendments made by this subtitle shall be published not later than 120 days after the date of enactment of this Act [Dec. 2, 1997] for the purpose of obtaining public comment pursuant to section 22 of the Office of Federal Procurement Policy Act ([former] [41 U.S.C. 418b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418b&num=0&edition=prelim)) [now [41 U.S.C. 1707](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1707&num=0&edition=prelim)], or chapter 5 of title 5, United States Code, as appropriate. The public shall be afforded not less than 60 days to submit comments. “(b) Final Regulations.—Final regulations shall be published not later than 270 days after the date of enactment of this Act. The effective date for such final regulations shall be not less than 30 days after the date of publication.”
 
 Pub. L. 100–590, title I, § 136, Nov. 3, 1988, 102 Stat. 3007, provided that: “Notwithstanding any law, rule or regulation, the Small Business Administration shall promulgate final regulations to be effective on publication to carry out the provisions of this title [see Effective Date of 1988 Amendments note above] within six months after the date of enactment [Nov. 3, 1988].”
 
@@ -522,12 +524,12 @@ Sec. 7. Construction. Nothing in this order shall be construed as subjecting any
 Sec. 8. Prior Executive Order. Executive Order No. 11458 of March 5, 1969, is hereby superseded.
 
 #### Advisory Council for Minority Enterprise
-For provisions relating to termination of, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of the Federal Advisory Committee Act, set out in the Appendix to Title 5, Government Organization and Employees.
+For provisions relating to termination of, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
-Term of the Advisory Council for Minority Enterprise extended until Dec. 31, 1978, see Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, Title 5, Appendix, Government Organization and Employees.
+Term of the Advisory Council for Minority Enterprise extended until Dec. 31, 1978, see Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Executive Order No. 12061
-Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business Conference Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12061, May 18, 1978, 43 F.R. 21865, as amended by Ex. Ord. No. 12091, Nov. 1, 1978, 43 F.R. 51373, which related to the Small Business Conference Commission, was revoked by Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Executive Order No. 12269
 Ex. Ord. No. 12269, Jan. 15, 1981, 46 F.R. 4673, which established a seven member President’s Committee on Small Business Policy to advise the President on appropriate responses to the recommendations of the White House Conference on Small Business, designated the Administrator of the Small Business Administration to perform the functions of the President under Federal advisory committee provisions, and terminated the Committee on Dec. 31, 1982, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
@@ -562,7 +564,7 @@ Ex. Ord. No. 12523, June 27, 1985, 50 F.R. 26963, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, and in order to implement the White House Conference on Small Business Authorization Act (Public Law 98–276) [set out above] it is hereby ordered as follows:
 
-Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act [5 U.S.C. App.] applicable to the White House Conference on Small Business Authorization Act, except that of reporting annually to the Congress, shall be performed by the Administrator of the Small Business Administration in accordance with the guidelines and procedures established by the Administrator of General Services.
+Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] applicable to the White House Conference on Small Business Authorization Act, except that of reporting annually to the Congress, shall be performed by the Administrator of the Small Business Administration in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 Ronald Reagan.
 
@@ -1094,7 +1096,7 @@ Section was enacted as part of the Small Business Reauthorization and Manufactur
 
 **(k) “Disaster” defined**
 
-(1) For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under [section 4107(b) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/b&num=0&edition=prelim)), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
+(1) For the purposes of this chapter, the term “disaster” means a sudden event which causes severe damage including, but not limited to, floods, hurricanes, tornadoes, earthquakes, fires, explosions, volcanoes, windstorms, landslides or mudslides, tidal waves, commercial fishery failures or fishery resource disasters (as determined by the Secretary of Commerce under the Fishery Resource Disasters Improvement Act), ocean conditions resulting in the closure of customary fishing waters, riots, civil disorders or other catastrophes, except it does not include economic dislocations.
 
 (2) For purposes of [section 636(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/2&num=0&edition=prelim), the term “disaster” includes—
 
@@ -1174,7 +1176,7 @@ Section was enacted as part of the Small Business Reauthorization and Manufactur
 
       (II) such veteran had a service-connected disability (as defined in [section 101(16) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/16&num=0&edition=prelim)); and
 
-      (III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in [section 8127(f) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127/f&num=0&edition=prelim).
+      (III) immediately prior to the death of such veteran, and during the period described in clause (ii), the small business concern is included in the database described in [section 657f of this title](./chapter-14a-aid-to-small-business.md#section-657f).
 
     (ii) The time period described in this clause is the time period beginning on the date of the veteran’s death and ending on the earlier of—
 
@@ -1302,13 +1304,12 @@ Section was enacted as part of the Small Business Reauthorization and Manufactur
 
 ### Statutory Notes
 
-#### Amendment of Subsection (q)(2)
-Pub. L. 116–283, div. A, title VIII, § 862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date (2 years after Jan. 1, 2021), subsection (q)(2)(C)(i)(III) of this section is amended by striking “[section 8127(f) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127/f&num=0&edition=prelim)” and inserting “[section 657f of this title](./chapter-14a-aid-to-small-business.md#section-657f)”. See 2021 Amendment note and Effective Date of 2021 Amendment note below.
-
 #### References in Text
 The Small Business Investment Act of 1958, referred to in subsec. (a)(5), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§ 695 et seq.) of chapter 14B of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-14b-small-business-investment-program.md#section-661) and Tables.
 
 The Agricultural Marketing Act ([12 U.S.C. 1141j](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1141j&num=0&edition=prelim)), referred to in subsec. (j), is act June 15, 1929, ch. 24, 46 Stat. 11, which is classified generally to chapter 7A (§ 1141 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1141j(e) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1141j/e&num=0&edition=prelim) and Tables.
+
+The Fishery Resource Disasters Improvement Act, referred to in subsec. (k)(1), is title II of Pub. L. 117–328, div. S, Dec. 29, 2022, 136 Stat. 5261. For complete classification of this Act to the Code, see Short Title of 2022 Amendment note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim), Conservation, and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (q)(5)(C), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
@@ -1325,6 +1326,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 Prior similar provisions were contained in section 203 of act July 30, 1953, ch. 282, title II, 67 Stat. 233, which was previously classified to this section. See Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2022—Subsec. (k)(1). Pub. L. 117–328 substituted “(as determined by the Secretary of Commerce under the Fishery Resource Disasters Improvement Act)” for “(as determined by the Secretary of Commerce under [section 4107(b) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/b&num=0&edition=prelim))”.
+
 2021—Subsec. (a)(2)(A). Pub. L. 116–283, § 863(a)(1), inserted “and subject to the requirements specified under subparagraph (C)” after “paragraph (1)”.
 
 Subsec. (a)(2)(C). Pub. L. 116–283, § 863(a)(2)(A), inserted “(including the Administration when acting pursuant to subparagraph (A))” after “no Federal department or agency” in introductory provisions.
@@ -2048,7 +2051,7 @@ Amendment by Pub. L. 101–37 applicable as if included in Pub. L. 100–656, se
 Amendment by Pub. L. 100–656 effective Aug. 15, 1989, see section 803(b)(1)(C) of Pub. L. 100–656, as amended, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Effective and Termination Dates of 1984 Amendments
-Pub. L. 98–362, § 7, July 16, 1984, 98 Stat. 434, as amended by Pub. L. 100–590, title I, § 131(a), Nov. 3, 1988, 102 Stat. 3004; Pub. L. 101–515, title V, § 11, Nov. 5, 1990, 104 Stat. 2145; Pub. L. 101–574, title II, § 212, Nov. 15, 1990, 104 Stat. 2821; Pub. L. 102–140, title VI, § 609(g), Oct. 28, 1991, 105 Stat. 826; Pub. L. 102–366, title II, § 225, Sept. 4, 1992, 106 Stat. 1001; Pub. L. 103–403, title IV, § 401(b), Oct. 22, 1994, 108 Stat. 4190, provided that: “(a) This Act [amending this section and sections 632 and 637 of this title and enacting provisions set out as notes under this section and sections 631 and 637 of this title] shall take effect on October 1, 1984. “(b) The amendments made to section 4(b)(3) of the Small Business Act [[15 U.S.C. 633(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section633/b/3&num=0&edition=prelim)] by section 3 of this Act are repealed on October 1, 1988. The amendments made to section 8(b)(1)(A) of the Small Business Act [[15 U.S.C. 637(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/b/1/A&num=0&edition=prelim)] by section 5(a)(2) of this Act are repealed on October 1, 1994. Nothing in this section shall preclude the Administrator from continuing such committee under the authority of section 8(b)(3) of the Small Business Act and the Federal Advisory Committee Act [5 U.S.C. App.].”
+Pub. L. 98–362, § 7, July 16, 1984, 98 Stat. 434, as amended by Pub. L. 100–590, title I, § 131(a), Nov. 3, 1988, 102 Stat. 3004; Pub. L. 101–515, title V, § 11, Nov. 5, 1990, 104 Stat. 2145; Pub. L. 101–574, title II, § 212, Nov. 15, 1990, 104 Stat. 2821; Pub. L. 102–140, title VI, § 609(g), Oct. 28, 1991, 105 Stat. 826; Pub. L. 102–366, title II, § 225, Sept. 4, 1992, 106 Stat. 1001; Pub. L. 103–403, title IV, § 401(b), Oct. 22, 1994, 108 Stat. 4190; Pub. L. 117–286, § 4(a)(66), Dec. 27, 2022, 136 Stat. 4312, provided that: “(a) This Act [amending this section and sections 632 and 637 of this title and enacting provisions set out as notes under this section and sections 631 and 637 of this title] shall take effect on October 1, 1984. “(b) The amendments made to section 4(b)(3) of the Small Business Act [[15 U.S.C. 633(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section633/b/3&num=0&edition=prelim)] by section 3 of this Act are repealed on October 1, 1988. The amendments made to section 8(b)(1)(A) of the Small Business Act [[15 U.S.C. 637(b)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/b/1/A&num=0&edition=prelim)] by section 5(a)(2) of this Act are repealed on October 1, 1994. Nothing in this section shall preclude the Administrator from continuing such committee under the authority of section 8(b)(3) of the Small Business Act and chapter 10 of title 5, United States Code.”
 
 [Section 401(b) of Pub. L. 103–403, which directed that section 7(b) of Pub. L. 98–362, set out above, be amended in the second sentence by striking out “and the amendments made to section 8(b)(1)(A) of the Small Business Act by section 5(a)(2) of this Act are” and inserting “is”, could not be executed, because the language sought to be struck out begins with “The amendments” and not “and the amendments”, and because the amendment would result in an incomplete sentence.]
 
@@ -2072,7 +2075,7 @@ Amendment by Pub. L. 91–596 effective 120 days after Dec. 29, 1970, see sectio
 Pub. L. 89–409, § 2, May 2, 1966, 80 Stat. 132, provided that the amendment made by that section is effective July 1, 1966.
 
 #### Transfer of Functions
-Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, set out in the Appendix to Title 5, Government Organization and Employees. See section 9(a)(1)(T) of Pub. L. 95–452 set out in the Appendix to Title 5.
+Functions, powers, and duties of Office of Audits and Investigations in Small Business Administration transferred to Office of Inspector General in Small Business Administration, as established by Pub. L. 95–452, § 2, Oct. 12, 1978, 92 Stat. 1101, formerly set out in the Appendix to Title 5, Government Organization and Employees. See [section 422(a)(1)(T) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section422/a/1/T&num=0&edition=prelim).
 
 #### Administrator’s Order
 Pub. L. 106–50, title VII, § 701, Aug. 17, 1999, 113 Stat. 249, provided that: “The Administrator of the Small Business Administration shall strengthen and reissue the Administrator’s order regarding the third sentence of section 4(b)(1) of the Small Business Act ([15 U.S.C. 633(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section633/b/1&num=0&edition=prelim)), relating to nondiscrimination and special considerations for veterans, and take all necessary steps to ensure that its provisions are fully and vigorously implemented.”
@@ -4401,8 +4404,7 @@ Whoever wrongfully misapplies the proceeds of a loan obtained under this subsect
 
   (D) in the case of a business concern able to obtain credit elsewhere, the rate prescribed by the Administration but not in excess of the lowest of (i) the rate prevailing in the private market for similar loans, (ii) the rate prescribed by the Administration as the maximum interest rate for deferred participation (guaranteed) loans under subsection (a), or (iii) 8 per centum per annum. Loans under this subparagraph shall be limited to a maximum term of 7 years.
 
-(6) Notwithstanding the provisions of any other law, such loans, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall be in amounts equal to 100 per centum of loss. The interest rates for loans made under subsection (b)(1) and (2), as determined pursuant to paragraph (5), shall be the rate of interest which is in effect on the date of the disaster commenced: Provided, That no loan under subsection (b)(1) and (2) shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis, if the total amount outstanding and committed to the borrower under subsection (b) would exceed $500,000 for each disaster unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation: Provided further, That the Administration, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall not reduce the amount of eligibility for any homeowner on account of loss of real estate to less than $100,000 for each disaster nor for any homeowner or lessee on account of loss of personal property to less than $20,000 for each disaster, such sums being in addition to any eligible refinancing: Provided further, That the Administration shall not require collateral for loans of $14,000 or less (or such higher amount as the Administrator determines appropriate in the event of a major disaster) which are made under paragraph (1) of subsection (b): Provided further, That the Administrator, in obtaining the best available collateral for a loan of not more than $200,000 under paragraph (1) or (2) of subsection (b) relating to damage to or destruction of the property of, or economic injury to, a small business concern, shall not require the owner of the small business concern to use the primary residence of the owner as collateral if the Administrator determines that the owner has other assets of equal quality and with a value equal to or greater than the amount of the loan that could be used as collateral for the loan: Provided further, That nothing in the preceding proviso may be construed to reduce the amount of collateral required by the Administrator in connection with a loan described in the preceding proviso or to modify the standards used to evaluate the quality (rather than the type) of such collateral. Employees of concerns sharing a common business premises shall be aggregated in determining “major source of employment” status for nonprofit applicants owning such premises.
-With respect to any loan which is outstanding on April 18, 1984, and which was made on account of a disaster commencing on or after October 1, 1982, the Administrator shall make such change in the interest rate on the balance of such loan as is required herein effective as of April 18, 1984.
+(6) Notwithstanding the provisions of any other law, such loans, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall be in amounts equal to 100 per centum of loss. The interest rates for loans made under subsection (b)(1) and (2), as determined pursuant to paragraph (5), shall be the rate of interest which is in effect on the date of the disaster commenced: Provided, That no loan under subsection (b)(1) and (2) shall be made, either directly or in cooperation with banks or other lending institutions through agreements to participate on an immediate or deferred (guaranteed) basis, if the total amount outstanding and committed to the borrower under subsection (b) would exceed $500,000 for each disaster unless an applicant constitutes a major source of employment in an area suffering a disaster, in which case the Administration, in its discretion, may waive the $500,000 limitation: Provided further, That the Administration, subject to the reductions required by subparagraphs (A) and (B) of subsection (b)(1), shall not reduce the amount of eligibility for any homeowner on account of loss of real estate to less than $100,000 for each disaster nor for any homeowner or lessee on account of loss of personal property to less than $20,000 for each disaster, such sums being in addition to any eligible refinancing: Provided further, That the Administration shall not require collateral for loans of $14,000 or less (or such higher amount as the Administrator determines appropriate in the event of a major disaster) which are made under paragraph (1) of subsection (b): Provided further, That the Administrator, in obtaining the best available collateral for a loan of not more than $200,000 under paragraph (1) or (2) of subsection (b) relating to damage to or destruction of the property of, or economic injury to, a small business concern, shall not require the owner of the small business concern to use the primary residence of the owner as collateral if the Administrator determines that the owner has other assets of equal quality and with a value equal to or greater than the amount of the loan that could be used as collateral for the loan: Provided further, That nothing in the preceding proviso may be construed to reduce the amount of collateral required by the Administrator in connection with a loan described in the preceding proviso or to modify the standards used to evaluate the quality (rather than the type) of such collateral. Employees of concerns sharing a common business premises shall be aggregated in determining “major source of employment” status for nonprofit applicants owning such premises.With respect to any loan which is outstanding on April 18, 1984, and which was made on account of a disaster commencing on or after October 1, 1982, the Administrator shall make such change in the interest rate on the balance of such loan as is required herein effective as of April 18, 1984.
 
 (7) The Administration shall not withhold disaster assistance pursuant to this paragraph to nurseries who are victims of drought disasters. As used in subsection (b)(2) the term “an area affected by a disaster” includes any county, or county contiguous thereto, determined to be a disaster by the President, the Secretary of Agriculture or the Administrator of the Small Business Administration.
 
@@ -5255,7 +5257,7 @@ Prior similar provisions were contained in section 207 of act July 30, 1953, ch.
 
 Subsec. (a)(37)(P). Pub. L. 117–166, § 2(b), added subpar. (P).
 
-Subsec. (b)(16). Pub. L. 117–249 added par. (16) relating to disaster declaration in rural areas
+Subsec. (b)(16). Pub. L. 117–249 added par. (16) relating to disaster declaration in rural areas.
 
 Pub. L. 117–165 added par. (16) relating to statute of limitations.
 
@@ -5281,7 +5283,7 @@ Subsec. (a)(37)(A)(iv)(II). Pub. L. 117–2, § 5001(b)(2), substituted “subcl
 
 Subsec. (a)(37)(J)(iii)(I)(cc). Pub. L. 117–2, § 5001(c)(2), added item (cc).
 
-Subsec. (j)(13)(F)(iii)(I). Pub. L. 116–283, § 866(b)(1), substituted “means—” and items (aa) and (bb) for “means the period beginning on August 13, 2018, and ending on the date on which the Oversight Board established under [section 2121 of title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section2121&num=0&edition=prelim) terminates.”.
+Subsec. (j)(13)(F)(iii)(I). Pub. L. 116–283, § 866(b)(1), substituted “means—” and items (aa) and (bb) for “means the period beginning on August 13, 2018, and ending on the date on which the Oversight Board established under [section 2121 of title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section2121&num=0&edition=prelim) terminates.”
 
 Subsec. (j)(13)(F)(iii)(II). Pub. L. 116–283, § 866(b)(2), inserted “or a covered territory business” after “a Puerto Rico business” and, in two places, substituted “either such business” for “the Puerto Rico business”.
 
@@ -6590,7 +6592,7 @@ Pub. L. 91–173, title V, § 504(d), Dec. 30, 1969, 83 Stat. 802, authorized lo
 Ex. Ord. No. 12190, Feb. 1, 1980, 45 F.R. 7773, established the Advisory Committee on Small and Minority Business Ownership to assist in monitoring and encouraging the placement of subcontracts by the private sector with eligible small businesses, to study and propose incentives and assistance needed by the private sector to help in the training, development, and upgrading of such businesses, to make periodic reports and recommendations to the President, and to report annually to the President and to the Congress on the activities of the Committee and provided for termination of the Committee on Dec. 31, 1980.
 
 #### Extension of Term of Advisory Committee on Small and Minority Business Ownership
-Term of Advisory Committee on Small and Minority Business Ownership extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which extension was revoked by the amendment of Ex. Ord. No. 12692 made by Ex. Ord. No. 12704, Feb. 26, 1990, 55 F.R. 6969.
+Term of Advisory Committee on Small and Minority Business Ownership extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees, which extension was revoked by the amendment of Ex. Ord. No. 12692 made by Ex. Ord. No. 12704, Feb. 26, 1990, 55 F.R. 6969.
 
 Previous extensions of term of Advisory Committee on Small and Minority Business Ownership were contained in the following prior Executive Orders:
 
@@ -7352,7 +7354,7 @@ Subsec. (a)(4). Pub. L. 116–260, div. N, § 306(A), amended par. (4) generally
 
 “(A) the date that is 24 weeks after such date of origination; or
 
-“(B) December 31, 2020;”
+“(B) December 31, 2020;”.
 
 Pub. L. 116–260, div. N, § 304(b)(2)(A)(iii), (iv), redesignated par. (3) as (4). Former par. (4) redesignated (6).
 
@@ -7402,7 +7404,7 @@ Subsec. (i). Pub. L. 116–260, div. N, § 276(a)(1), amended subsec. (i) genera
 
 Subsec. (l). Pub. L. 116–260, div. N, § 307(a)(3), added subsec. (l).
 
-Pub. L. 116–260, div. N, § 306(1), struck out subsec. (l). Text read as follows: “An eligible recipient that received a covered loan before June 5, 2020, may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan.”.
+Pub. L. 116–260, div. N, § 306(1), struck out subsec. (l). Text read as follows: “An eligible recipient that received a covered loan before June 5, 2020, may elect for the covered period applicable to such covered loan to end on the date that is 8 weeks after the date of the origination of such covered loan.”
 
 Pub. L. 116–142, § 3(b)(3), added subsec. (l).
 
@@ -7410,7 +7412,7 @@ Pub. L. 116–142, § 3(b)(3), added subsec. (l).
 Amendment by Pub. L. 117–2 applicable only with respect to applications for forgiveness of covered loans made under pars. (36) or (37) of [section 636(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim) received on or after Mar. 11, 2021, see section 5001(c)(3) of Pub. L. 117–2, set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
 #### Effective Date of 2020 Amendment
-Pub. L. 116–260, div. N, title II, § 276(a)(2), Dec. 27, 2020, 134 Stat. 1979, provided that: “The amendment made by this subsection [amending this section] shall apply to taxable years ending after the date of the enactment of the CARES Act [Pub. L. 116–136].”
+Pub. L. 116–260, div. N, title II, § 276(a)(2), Dec. 27, 2020, 134 Stat. 1979, provided that: “The amendment made by this subsection [amending this section] shall apply to taxable years ending after the date of the enactment of the CARES Act [Mar. 27, 2020].”
 
 Amendment by section 304(b)(1)(A), (B), (2) of div. N of Pub. L. 116–260 effective as if included in Pub. L. 116–136 and applicable to any loan made pursuant to [section 636(a)(36) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36&num=0&edition=prelim) before, on, or after Dec. 27, 2020, including forgiveness of such a loan, with provisions relating to exclusion of loans already forgiven, see section 304(c) of Pub. L. 116–260, set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
@@ -8017,7 +8019,7 @@ Pub. L. 116–260, div. N, title III, § 311(b)(2), Dec. 27, 2020, 134 Stat. 200
 
   (C) evaluate compliance with subcontracting plans as a supplement to evaluations performed by the contracting agency, either on a contract-by-contract basis or, in the case of contractors having multiple contracts, on an aggregate basis.
 
-(12) For purposes of determining the attainment of a subcontract utilization goal under any subcontracting plan entered into with any executive agency pursuant to this subsection, a mentor firm providing development assistance to a protege firm under the pilot Mentor-Protege Program established pursuant to section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; [10 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2301&num=0&edition=prelim) note [2302 note]) shall be granted credit for such assistance in accordance with subsection (g) of such section.
+(12) For purposes of determining the attainment of a subcontract utilization goal under any subcontracting plan entered into with any executive agency pursuant to this subsection, a mentor firm providing development assistance to a protege firm under the Mentor-Protege Program established under [section 4902 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4902&num=0&edition=prelim) shall be granted credit for such assistance in accordance with subsection (f) of such section.
 
 (13) **Payment of Subcontractors.—**
 
@@ -8025,15 +8027,25 @@ Pub. L. 116–260, div. N, title III, § 311(b)(2), Dec. 27, 2020, 134 Stat. 200
 
   (B) *Notice.—*
 
-    (i) *In general.—* — A prime contractor for a covered contract shall notify in writing the contracting officer for the covered contract if the prime contractor pays a reduced price to a subcontractor for goods and services upon completion of the responsibilities of the subcontractor or the payment to a subcontractor is more than 90 days past due for goods or services provided for the covered contract for which the Federal agency has paid the prime contractor.
+    (i) *In general.—* — A prime contractor for a covered contract shall notify in writing the contracting officer for the covered contract if the prime contractor pays a reduced price to a subcontractor for goods and services upon completion of the responsibilities of the subcontractor or the payment to a subcontractor is more than 30 days past due for goods or services provided for the covered contract for which the Federal agency has paid the prime contractor.
 
     (ii) *Contents.—* — A prime contractor shall include the reason for the reduction in a payment to or failure to pay a subcontractor in any notice made under clause (i).
 
-  (C) *Performance.—* — A contracting officer for a covered contract shall consider the unjustified failure by a prime contractor to make a full or timely payment to a subcontractor in evaluating the performance of the prime contractor.
+  (C) *Performance.—* — A contracting officer for a covered contract—
 
-  (D) *Control of funds.—* — If the contracting officer for a covered contract determines that a prime contractor has a history of unjustified, untimely payments to contractors, the contracting officer shall record the identity of the contractor in accordance with the regulations promulgated under subparagraph (E).
+    (i) shall consider the unjustified failure by a prime contractor to make a full or timely payment to a subcontractor in evaluating the performance of the prime contractor; and
 
-  (E) *Regulations.—* — Not later than 1 year after September 27, 2010, the Federal Acquisition Regulatory Council established under [section 1302(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1302/a&num=0&edition=prelim) shall amend the Federal Acquisition Regulation issued under [section 1303(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a&num=0&edition=prelim) to—
+    (ii) may enter or modify past performance information of the prime contractor in connection with the unjustified failure to make a full or timely payment to a subcontractor subject to this paragraph before or after close-out of the covered contract.
+
+  (D) *Control of funds.—* — If the contracting officer for a covered contract determines that a prime contractor has a history of unjustified, untimely payments to contractors, the contracting officer shall record the identity of the contractor in accordance with the regulations promulgated under subparagraph (F).
+
+  (E) *Cooperation.—*
+
+    (i) *In general.—* — Once a contracting officer determines, with respect to the past performance of a prime contractor, that there was an unjustified failure by the prime contractor on a covered contract to make a full or timely payment to a subcontractor covered by subparagraph (B) or (C), the prime contractor is required to cooperate with the contracting officer, who shall consult with the Director of Small Business Programs or the Director of Small and Disadvantaged Business Utilization acting pursuant to [section 644(k)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/k/6&num=0&edition=prelim) and other representatives of the Government, regarding correcting and mitigating the unjustified failure to make a full or timely payment to a subcontractor.
+
+    (ii) *Duration.—* — The duty of cooperation under this subparagraph for a prime contractor described in clause (i) continues until the subcontractor is made whole or the determination of the contracting officer determination is no longer effective, and regardless of performance or close-out status of the covered contract.
+
+  (F) *Regulations.—* — Not later than 1 year after September 27, 2010, the Federal Acquisition Regulatory Council established under [section 1302(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1302/a&num=0&edition=prelim) shall amend the Federal Acquisition Regulation issued under [section 1303(a) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1303/a&num=0&edition=prelim) to—
 
     (i) describe the circumstances under which a contractor may be determined to have a history of unjustified, untimely payments to subcontractors;
 
@@ -8326,6 +8338,16 @@ In subsec. (m)(1)(A), “[section 2101(1) of title 41](https://uscode.house.gov/
 Prior similar provisions were contained in sections 207(b)(2), (b)(4), 208, 210, 212 and 216 of act July 30, 1953, ch. 282, title II, 67 Stat. 235–239, as amended by acts Aug. 9, 1955, ch. 628, §§ 2, 5, 7, 69 Stat. 547, 550; Feb. 2, 1956, ch. 29, §§ 2, 3, 70 Stat. 10, which were previously classified to this section and sections 636, 639, 641, and 645 of this title. See Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2023—Subsec. (d)(13)(B)(i). Pub. L. 118–31, § 862(a)(1), substituted “30 days” for “90 days”.
+
+Subsec. (d)(13)(C). Pub. L. 118–31, § 862(a)(2), inserted dash after “contract” and cl. (i) designation before “shall” and added cl. (ii).
+
+Subsec. (d)(13)(D). Pub. L. 118–31, § 862(a)(3), substituted “subparagraph (F)” for “subparagraph (E)”.
+
+Subsec. (d)(13)(E), (F). Pub. L. 118–31, § 862(a)(4), (5), added subpar. (E) and redesignated former subpar. (E) as (F).
+
+2022—Subsec. (d)(12). Pub. L. 117–263 substituted “the Mentor-Protege Program established under [section 4902 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4902&num=0&edition=prelim)” for “the pilot Mentor-Protege Program established pursuant to section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Public Law 101–510; [10 U.S.C. 2301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2301&num=0&edition=prelim) note)” and “subsection (f)” for “subsection (g)”.
+
 2021—Subsec. (a)(1)(D)(i)(II). Pub. L. 116–283, § 864(1)(A), substituted “$7,000,000” for “$5,000,000”.
 
 Subsec. (d)(17). Pub. L. 116–283, § 868(b), amended par. (17) generally. Prior to amendment, par. (17) related to pilot program providing past performance ratings for other small business subcontractors.
@@ -8803,6 +8825,8 @@ Amendment by Pub. L. 95–510 effective Oct. 1, 1979, see section 105 of Pub. L.
 For effective date of amendment by Pub. L. 91–375, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding [section 101 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section101&num=0&edition=prelim), Postal Service.
 
 #### Regulations
+Pub. L. 118–31, div. A, title VIII, § 862(b), Dec. 22, 2023, 137 Stat. 347, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Administrator shall submit to the Federal Acquisition Regulatory Council proposed revisions to regulations that the Administrator determines necessary to carry out the amendments made by this section [amending this section].”
+
 Pub. L. 116–283, div. A, title VIII, § 868(c), Jan. 1, 2021, 134 Stat. 3787, provided that: “Not later than 120 days after the date of the enactment of this Act [Jan. 1, 2021], the Administrator of the Small Business Administration shall issue rules to carry out this section [amending this section and [section 644 of this title](./chapter-14a-aid-to-small-business.md#section-644)] and the amendments made by this section.”
 
 Pub. L. 108–447, div. K, title I, § 141(b), Dec. 8, 2004, 118 Stat. 3454, provided that: “The Administration shall, not later than 180 days after the date of enactment of this Act [Dec. 8, 2004], promulgate regulations to carry out the amendments made by subsection (a) [amending this section].”
@@ -8923,7 +8947,7 @@ Concerns eligible to receive contracts pursuant to subsec. (a) of this section r
 Pub. L. 95–507, title II, § 202(b), Oct. 24, 1978, 92 Stat. 1763, as amended by Pub. L. 96–481, title I, § 102, Oct. 21, 1980, 94 Stat. 2321, provided not later than Jan. 31, 1981, the General Accounting Office submit to Congress a report which, with respect to provisions of subsec. (a)(1)(B) and (2) of this section, evaluated the implementation of such provisions and whether such implementation fur­thered the purposes under [section 631(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631/e&num=0&edition=prelim), and required the Small Business Administration and the agency designated pursuant to subsec. (a)(1)(B) of this section to submit separate quarterly reports to specific congressional committees, which reports were to contain a review and evaluation of all activities conducted pursuant to subsec. (a)(1)(B) during the previous three-month period, with the first such report submitted commencing on Jan. 2, 1981, for the preceding three-month period, and to continue quarterly through, and include, the quarter ending Sept. 30, 1981.
 
 #### Termination of Advisory Boards and Committees
-Advisory boards and committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board or committee established by the President or an officer of the Federal Government, such board or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board or committee established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards and committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board or committee established by the President or an officer of the Federal Government, such board or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board or committee established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Definition
 Pub. L. 100–590, title I, § 127(d), Nov. 3, 1988, 102 Stat. 3003, provided that: “For the purposes of this section [amending this section and enacting provisions set out as notes under this section], the term ‘small business concern owned and controlled by women’ means any small business concern— “(1) that is at least 51 per centum owned by one or more women; and “(2) whose management and daily business operations are controlled by one or more of such women.”
@@ -9274,7 +9298,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
   (C) any current or pending contractual or financial obligation or other agreement specific to a business arrangement, or joint venture-like arrangement with an enterprise owned by a foreign state or any foreign entity;
 
-  (D) whether the small business concern is wholly owned in the People’s Republic of China or another foreign country of concern;
+  (D) whether the small business concern is wholly owned in the People’s Republic of China or another foreign country;
 
   (E) the percentage, if any, of venture capital or institutional investment by an entity that has a general partner or individual holding a leadership role in such entity who has a foreign affiliation with any foreign country of concern, including the People’s Republic of China;
 
@@ -10685,7 +10709,11 @@ Subsec. (b)(7)(K), (L). Pub. L. 117–183, § 8(1), added subpars. (K) and (L).
 
 Subsec. (e)(15) to (19). Pub. L. 117–183, § 4(a), added pars. (15) to (19).
 
-Subsec. (g)(13), (14). Pub. L. 117–183, § 4(c)(1), added pars. (13) and (14).
+Subsec. (g)(13). Pub. L. 117–183, § 4(c)(1), added par. (13).
+
+Subsec. (g)(13)(D). Pub. L. 117–263 struck out “of concern” after “another foreign country”.
+
+Subsec. (g)(14). Pub. L. 117–183, § 4(c)(1)(C), added par. (14).
 
 Subsec. (g)(15). Pub. L. 117–183, § 4(d)(1), added par. (15).
 
@@ -10711,7 +10739,7 @@ Subsec. (xx). Pub. L. 117–183, § 9(a), added subsec. (xx).
 
 2021—Subsec. (b)(7)(H). Pub. L. 116–283, § 865(1), added subpar. (H).
 
-Subsec. (g)(10). Pub. L. 116–283, § 865(2), inserted ‘, which section shall describe whether or not the Federal agency complied with the requirements of subsection (f) for the year covered by that plan and include a justification for failure to comply (if applicable),” after “a section on its SBIR program”.
+Subsec. (g)(10). Pub. L. 116–283, § 865(2), inserted “, which section shall describe whether or not the Federal agency complied with the requirements of subsection (f) for the year covered by that plan and include a justification for failure to comply (if applicable),” after “a section on its SBIR program”.
 
 Subsec. (o)(8). Pub. L. 116–283, § 865(3), inserted “, which section shall describe whether or not the Federal agency complied with the requirements of subsection (n) for the year covered by that plan and include a justification for failure to comply (if applicable),” after “a section on its STTR program”.
 
@@ -11207,6 +11235,9 @@ Pub. L. 117–183, § 4(b)(5), Sept. 30, 2022, 136 Stat. 2183, provided that: �
 
 [For definitions of “Federal agency”, “SBIR”, and “STTR” as used in section 4(b)(5) of Pub. L. 117–183, set out above, see section 2 of Pub. L. 117–183, set out as a note below.]
 
+#### Due Diligence Program
+Pub. L. 117–263, div. A, title VIII, § 872(b), Dec. 23, 2022, 136 Stat. 2739, provided that: “(1) In general.—Until the date on which the Under Secretary of Defense for Research and Engineering makes the certification described in paragraph (2), in carrying out the due diligence program required under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), the Secretary of Defense and each Secretary of a military department shall perform the assessments required under such due diligence program—“(A) only with respect to small business concerns selected by the applicable Secretary as the presumptive recipient of an award described in such subsection (vv); and “(B) prior to notifying the small business concern that the small business concern has been selected to receive such an award. “(2) Full implementation.—On the date on which the Under Secretary of Defense for Research and Engineering certifies to the Committees on Armed Services of the Senate and the House of Representatives that an automated capability for performing the assessments required under the due diligence program required under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)) with respect to all small business concerns seeking an award described in such subsection is operational, paragraph (1) of this subsection shall sunset.”
+
 #### Implementation of 2022 Amendment
 Pub. L. 117–183, § 4(b)(2), Sept. 30, 2022, 136 Stat. 2182, provided that: “(A) In general.—Not later than 270 days after the date of enactment of this Act [Sept. 30, 2022], the head of a Federal agency required to establish an SBIR or STTR program shall implement a due diligence program under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1), at the Federal agency that, to the extent practicable, incorporates the applicable best practices disseminated under paragraph (3) [set out as a note below]. “(B) Paperwork reduction act.—Chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’), shall not apply to the implementation of a due diligence program under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1). “(C) Briefing.—Not later than 30 days after the date of enactment of this Act, and on a recurring basis until implementation is complete, each Federal agency required to establish a due diligence program under subsection (vv) of section 9 of the Small Business Act ([15 U.S.C. 638](./chapter-14a-aid-to-small-business.md#section-638)), as added by paragraph (1), shall brief the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business and the Committee on Science, Space, and Technology of the House of Representatives on the implementation of the due diligence program.”
 
@@ -11539,6 +11570,8 @@ Subsec. (b). Pub. L. 87–305, § 5(a)(2), struck out “June 30 and” before �
 Subsec. (c). Pub. L. 87–305, § 5(a)(3), designated existing provisions of first and second sentences as pars. (1) and (2), substituted “direct” for “request” and “promote undue concentration of economic power, or otherwise injure small business” for “injure small business, or otherwise promote undue concentration of economic power in the course of the administration of this chapter” and inserted “of any activity of the Government which may affect small business,” after “surveys” in par. (1) and required reports to be made not less than once every year in par. (2).
 
 #### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001. Previously, Select Committee on Small Business of Senate became Committee on Small Business of Senate. See Senate Resolution No. 101, Ninety-Seventh Congress, Mar. 25, 1981.
 
 #### Effective Date of 1989 Amendment
@@ -11876,7 +11909,7 @@ Prior similar provisions were contained in section 220 of act July 30, 1953, ch.
 
     (i) The Governmentwide goal for participation by small business concerns shall be established at not less than 23 percent of the total value of all prime contract awards for each fiscal year. In meeting this goal, the Government shall ensure the participation of small business concerns from a wide variety of industries and from a broad spectrum of small business concerns within each industry.
 
-    (ii) The Governmentwide goal for participation by small business concerns owned and controlled by service-disabled veterans shall be established at not less than 3 percent of the total value of all prime contract and subcontract awards for each fiscal year.
+    (ii) The Governmentwide goal for participation by small business concerns owned and controlled by service-disabled veterans shall be established at not less than 5 percent of the total value of all prime contract and subcontract awards for each fiscal year.
 
     (iii) The Governmentwide goal for participation by qualified HUBZone small business concerns shall be established at not less than 3 percent of the total value of all prime contract and subcontract awards for each fiscal year.
 
@@ -12261,15 +12294,13 @@ This subsection shall not apply to the Administration.
 
 **(p) Access to data**
 
-(1) **Bundled contract defined** — In this subsection, the term “bundled contract” has the meaning given such term in section 632(o)(1) of this title.
+(1) **Bundled or consolidated contract defined** — In this subsection, the term “bundled or consolidated contract” has the meaning given in subsection (s).
 
-(2) **Database**
+(2) **Database** — Not later than 180 days after December 21, 2000, the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
 
-  (A) *88 So in original. No subpar. (B) has been enacted. In general* — Not later than 180 days after December 21, 2000, the Administrator of the Small Business Administration shall develop and shall thereafter maintain a database containing data and information regarding—
+  (A) each bundled contract awarded by a Federal agency; and
 
-    (i) each bundled contract awarded by a Federal agency; and
-
-    (ii) each small business concern that has been displaced as a prime contractor as a result of the award of such a contract.
+  (B) each small business concern that has been displaced as a prime contractor as a result of the award of such a contract.
 
 (3) **Analysis** — For each bundled contract that is to be recompeted as a bundled contract, the Administrator shall determine—
 
@@ -12277,35 +12308,35 @@ This subsection shall not apply to the Administration.
 
   (B) whether such savings and benefits will continue to be realized if the contract remains bundled, and whether such savings and benefits would be greater if the procurement requirements were divided into separate solicitations suitable for award to small business concerns.
 
-(4) **Annual report on contract bundling**
+(4) **Annual report on bundled or consolidated contracts**
 
-  (A) *In general* — Not later than 1 year after December 21, 2000, and annually in March thereafter, the Administration shall transmit a report on contract bundling to the Committees on Small Business of the House of Representatives and the Senate.
+  (A) *In general* — Not later than 1 year after December 21, 2000, and annually in March thereafter, the Administration shall transmit a report on bundled or consolidated contracts to the Committees on Small Business of the House of Representatives and the Senate.
 
   (B) *Contents* — Each report transmitted under subparagraph (A) shall include—
 
-    (i) data on the number, arranged by industrial classification, of small business concerns displaced as prime contractors as a result of the award of bundled contracts by Federal agencies; and
+    (i) data on the number, arranged by industrial classification, of small business concerns displaced as prime contractors as a result of the award of bundled or consolidated contracts by Federal agencies; and
 
-    (ii) a description of the activities with respect to previously bundled contracts of each Federal agency during the preceding year, including—
+    (ii) a description of the activities with respect to previously bundled or consolidated contracts of each Federal agency during the preceding year, including—
 
-      (I) data on the number and total dollar amount of all contract requirements that were bundled; and
+      (I) data on the number and total dollar amount of all contract requirements that were included in bundled or consolidated contracts; and
 
-      (II) with respect to each bundled contract, data or information on—
+      (II) with respect to each bundled or consolidated contract, data or information on—
 
-        (aa) the justification for the bundling of contract requirements;
+        (aa) the justification for the bundling of contract requirements or the consolidation of contract requirements (as applicable);
 
-        (bb) the cost savings realized by bundling the contract requirements over the life of the contract;
+        (bb) the cost savings realized by the bundling of contract requirements or the consolidation of contract requirements (as applicable) over the life of the contract;
 
-        (cc) the extent to which maintaining the bundled status of contract requirements is projected to result in continued cost savings;
+        (cc) the extent to which maintaining contract requirements in a bundled or consolidated contract is projected to result in continued cost savings;
 
-        (dd) the extent to which the bundling of contract requirements complied with the contracting agency’s small business subcontracting plan, including the total dollar value awarded to small business concerns as subcontractors and the total dollar value previously awarded to small business concerns as prime contractors; and
+        (dd) the extent to which the bundling of contract requirements or the consolidation of contract requirements (as applicable) complied with the contracting agency’s small business subcontracting plan, including the total dollar value awarded to small business concerns as subcontractors and the total dollar value previously awarded to small business concerns as prime contractors; and
 
-        (ee) the impact of the bundling of contract requirements on small business concerns unable to compete as prime contractors for the consolidated requirements and on the industries of such small business concerns, including a description of any changes to the proportion of any such industry that is composed of small business concerns.
+        (ee) the impact of the bundling of contract requirements or the consolidation of contract requirements (as applicable) on small business concerns unable to compete as prime contractors for the contract and on the industries of such small business concerns, including a description of any changes to the proportion of any such industry that is composed of small business concerns.
 
 (5) **Access to data**
 
   (A) *Federal procurement data system* — To assist in the implementation of this section, the Administration shall have access to information collected through the Federal Procurement Data System.
 
-  (B) *Agency procurement data sources* — To assist in the implementation of this section, the head of each contracting agency shall provide, upon request of the Administration, procurement information collected through existing agency data collection sources.
+  (B) *Agency procurement data sources* — To assist in the implementation of this section, the head of each contracting agency shall provide to the Administrator data and information described in paragraphs (2) and (4).
 
 **(q) Reports related to procurement center representatives**
 
@@ -12427,7 +12458,47 @@ This subsection shall not apply to the Administration.
 
 (1) **Credit for meeting contracting goals** — If an agency awards a prime contract to Puerto Rico business or a covered territory business, or a prime contractor awards a subcontract (at any tier) to a subcontractor that is a Puerto Rico business or a covered territory business, during the period beginning on August 13, 2018, and ending on the date that is 4 years after such date, the value of the contract or subcontract shall be doubled for purposes of determining compliance with the goals for procurement contracts under subsection (g)(1)(A) during such period.
 
-(2) **Report** — Along with the report required under subsection (h)(1), the head of each Federal agency shall submit to the Administrator, and make publicly available on the scorecard described in section 868(b) of the National Defense Authorization Act for Fiscal Year 2016 ([15 U.S.C. 644](./chapter-14a-aid-to-small-business.md#section-644) note), an analysis of the number and dollar amount of prime contracts awarded pursuant to paragraph (1) for each fiscal year of the period described in such paragraph.
+(2) **Report** — Along with the report required under subsection (h)(1), the head of each Federal agency shall submit to the Administrator, and make publicly available on the scorecard (as defined in subsection (y)), an analysis of the number and dollar amount of prime contracts awarded pursuant to paragraph (1) for each fiscal year of the period described in such paragraph.
+
+**(y) Scorecard program for evaluating Federal agency compliance with small business contracting goals**
+
+(1) **Use of scorecard** — The Administrator shall use a scorecard to annually evaluate whether each Federal agency is creating the maximum practicable opportunities for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, by assigning a score to each Federal agency for the previous fiscal year.
+
+(2) **Contents of scorecard** — The scorecard shall include, for each Federal agency and Governmentwide, the following information:
+
+  (A) A determination of whether a Federal agency or the Federal Government, as applicable, met each of the prime contract goals established pursuant to subsection (g)(1)(B) with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+  (B) A determination of whether a Federal agency or the Federal Government, as applicable, met each of the subcontract goals established pursuant to such section with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+  (C) The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded prime contracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded contracts during the prior fiscal year, if available.
+
+  (D) The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded subcontracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded subcontracts during the prior fiscal year, if available.
+
+  (E) Any other factors that the Administrator deems important to achieve the maximum practicable utilization of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+(3) **Weighted factors** — In using the scorecard to evaluate and assign a score to a Federal agency, the Administrator shall base—
+
+  (A) fifty percent of the score on the dollar value of prime contracts described in paragraph (2)(A); and
+
+  (B) fifty percent of the score on the information provided in subparagraphs (B) through (E) of paragraph (2), weighted in a manner determined by the Administrator to encourage the maximum practicable opportunity for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women.
+
+(4) **Additional requirements for scorecards** — The scorecard shall include, for each Federal agency and Governmentwide, the following information with respect to prime contracts:
+
+  (A) The number (expressed as a percentage) and total dollar amount of awards made to small business concerns owned and controlled by women through sole source contracts and competitions restricted to small business concerns owned and controlled by women under [section 637(m) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/m&num=0&edition=prelim).
+
+  (B) The number (expressed as a percentage) and total dollar amount of awards made to small business concerns owned and controlled by qualified HUBZone small business concerns through sole source contracts and competitions restricted to qualified HUBZone small business concerns under [section 657a(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/c/2&num=0&edition=prelim).
+
+  (C) The number (expressed as a percentage) and total dollar amount of awards made to small business concerns owned and controlled by service-disabled veterans through sole source contracts and competitions restricted to small business concerns owned and controlled by service-disabled veterans under [section 657f of this title](./chapter-14a-aid-to-small-business.md#section-657f).
+
+  (D) The number (expressed as a percentage) and total dollar amount of awards made to socially and economically disadvantaged small business concerns under [section 637(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/a&num=0&edition=prelim) through sole source contracts and competitions restricted to socially and economically disadvantaged small business concerns, disaggregated by awards made to such concerns that are owned and controlled by individuals and awards made to such concerns that are owned and controlled by an entity.
+
+(5) **Publication** — The scorecard used by the Administrator under this subsection shall be submitted to the President and Congress along with the report submitted under subsection (h)(2).
+
+(6) **Scorecard defined** — In this subsection, the term “scorecard” means any summary using a rating system to evaluate the efforts of a Federal agency to meet goals established under subsection (g)(1)(B) that—
+
+  (A) includes the measures described in paragraph (2); and
+
+  (B) assigns a score to each Federal agency evaluated.
 
 ### Statutory Notes
 
@@ -12438,8 +12509,6 @@ Section 712 of the Business Opportunity Development Reform Act of 1988 (Public L
 
 Section 7102 of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (j)(3), is section 7102 of Pub. L. 103–355, which is set out below.
 
-Section 868(b) of the National Defense Authorization Act for Fiscal Year 2016, referred to in subsec. (x)(2), is section 868(b) of Pub. L. 114–92, which is set out as a note under this section.
-
 #### Codification
 In subsec. (c)(1)(A), “[section 8502 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section8502&num=0&edition=prelim)” substituted for “the first section of the Act entitled ‘An Act to create a Committee on Purchases of Blind-made Products, and for other purposes’, approved June 25, 1938 ([41 U.S.C. 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section46&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
@@ -12449,12 +12518,78 @@ In subsec. (q)(2)(A), “[section 1302(a) of title 41](https://uscode.house.gov/
 
 In subsec. (r)(2), “[section 4106(c) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section4106/c&num=0&edition=prelim)” substituted for “section 303J(b) of the Federal Property and Administrative Services Act of 1949 ([41 U.S.C. 253j(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section253j/b&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
+Section 868(b) of Pub. L. 114–92, formerly set out as a note below, which was transferred to the end of this section, redesignated as subsec. (y), and amended by Pub. L. 117–263, § 871(a), was based on Pub. L. 114–92, div. A, title VIII, § 868(b), Nov. 25, 2015, 129 Stat. 933.
+
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Prior Provisions
 Prior similar provisions were contained in section 214 of act July 30, 1953, ch. 282, title II, 67 Stat. 238, as amended by act Aug. 9, 1955, ch. 628, § 9, 69 Stat. 551, which was previously classified to [section 643 of this title](./chapter-14a-aid-to-small-business.md#section-643). The provisions of section 215 of act July 30, 1953, formerly classified to this section, were transferred to section 2[10] of Pub. L. 85–536, and are classified to [section 639 of this title](./chapter-14a-aid-to-small-business.md#section-639). See Codification note set out under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2023—Subsec. (g)(1)(A)(ii). Pub. L. 118–31 substituted “5 percent” for “3 percent”.
+
+2022—Subsec. (p)(1). Pub. L. 117–263, § 873(a)(1), amended par. (1) generally. Prior to amendment, text read as follows: “In this subsection, the term ‘bundled contract’ has the meaning given such term in section 632(o)(1) of this title.”
+
+Subsec. (p)(2). Pub. L. 117–263, § 873(b), struck out subpar. (A) designation and heading “In general” after par. heading and redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively.
+
+Subsec. (p)(4). Pub. L. 117–263, § 873(a)(2)(A), substituted “bundled or consolidated contracts” for “contract bundling” in heading.
+
+Subsec. (p)(4)(A). Pub. L. 117–263, § 873(a)(2)(B), substituted “bundled or consolidated contracts” for “contract bundling”.
+
+Subsec. (p)(4)(B)(i). Pub. L. 117–263, § 873(a)(2)(C)(i), substituted “bundled or consolidated contracts” for “bundled contracts”.
+
+Subsec. (p)(4)(B)(ii). Pub. L. 117–263, § 873(a)(2)(C)(ii)(I), substituted “bundled or consolidated contracts” for “bundled contracts” in introductory provisions.
+
+Subsec. (p)(4)(B)(ii)(I). Pub. L. 117–263, § 873(a)(2)(C)(ii)(II), substituted “were included in bundled or consolidated contracts” for “were bundled”.
+
+Subsec. (p)(4)(B)(ii)(II). Pub. L. 117–263, § 873(a)(2)(C)(ii)(III)(aa), substituted “bundled or consolidated contract” for “bundled contract” in introductory provisions.
+
+Subsec. (p)(4)(B)(ii)(II)(aa). Pub. L. 117–263, § 873(a)(2)(C)(ii)(III)(bb), inserted “or the consolidation of contract requirements (as applicable)” after “bundling of contract requirements”.
+
+Subsec. (p)(4)(B)(ii)(II)(bb). Pub. L. 117–263, § 873(a)(2)(C)(ii)(III)(cc), substituted “the bundling of contract requirements or the consolidation of contract requirements (as applicable)” for “bundling the contract requirements”.
+
+Subsec. (p)(4)(B)(ii)(II)(cc). Pub. L. 117–263, § 873(a)(2)(C)(ii)(III)(dd), substituted “contract requirements in a bundled or consolidated contract” for “the bundled status of contract requirements”.
+
+Subsec. (p)(4)(B)(ii)(II)(dd). Pub. L. 117–263, § 873(a)(2)(C)(ii)(III)(bb), inserted “or the consolidation of contract requirements (as applicable)” after “bundling of contract requirements”.
+
+Subsec. (p)(4)(B)(ii)(II)(ee). Pub. L. 117–263, § 873(a)(2)(C)(ii)(III)(bb), (ee), inserted “or the consolidation of contract requirements (as applicable)” after “bundling of contract requirements” and substituted “contractors for the contract” for “contractors for the consolidated requirements”.
+
+Subsec. (p)(5)(B). Pub. L. 117–263, § 873(a)(3), substituted “provide to the Administrator data and information described in paragraphs (2) and (4).” for “provide, upon request of the Administration, procurement information collected through existing agency data collection sources.”
+
+Subsec. (x)(2). Pub. L. 117–263, § 871(b), substituted “scorecard (as defined in subsection (y))” for “scorecard described in section 868(b) of the National Defense Authorization Act for Fiscal Year 2016 ([15 U.S.C. 644](./chapter-14a-aid-to-small-business.md#section-644) note)”.
+
+Subsec. (y). Pub. L. 117–263, § 871(a), transferred section 868(b) of Pub. L. 114–92 to the end of this section and redesignated it as subsec. (y). See Codification note above.
+
+Subsec. (y)(1). Pub. L. 117–263, § 871(a)(4), substituted “The Administrator shall use a scorecard to annually evaluate” for “Beginning in fiscal year 2017, the Administrator shall establish and carry out a program to use the scorecard developed under paragraph (1) to evaluate”.
+
+Pub. L. 117–263, § 871(a)(1), (2), redesignated par. (2) as (1) and struck out former par. (1) which authorized Administrator to develop methodology for calculating a score to be used to evaluate compliance of each Federal agency with meeting goals established pursuant to subsection (g)(1)(B) and a scorecard based on such methodology.
+
+Subsec. (y)(2). Pub. L. 117–263, § 871(a)(5)(B), struck out “developed under paragraph (1)” after “The scorecard” and inserted “and Governmentwide” after “each Federal agency” in introductory provisions.
+
+Pub. L. 117–263, § 871(a)(2), redesignated par. (3) as (2). Former par. (2) redesignated (1).
+
+Subsec. (y)(2)(A). Pub. L. 117–263, § 871(a)(5)(A), (C), substituted “a Federal agency or the Federal Government, as applicable,” for “the Federal agency” and “subsection (g)(1)(B)” for “section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g/1/B&num=0&edition=prelim))”.
+
+Subsec. (y)(2)(B). Pub. L. 117–263, § 871(a)(5)(A), substituted “a Federal agency or the Federal Government, as applicable,” for “the Federal agency”.
+
+Subsec. (y)(3). Pub. L. 117–263, § 871(a)(2), redesignated par. (4) as (3). Former par. (3) redesignated (2).
+
+Subsec. (y)(3)(A). Pub. L. 117–263, § 871(a)(6)(A), substituted “paragraph (2)(A)” for “paragraph (3)(A)”.
+
+Subsec. (y)(3)(B). Pub. L. 117–263, § 871(a)(6)(B), substituted “paragraph (2)” for “paragraph (3)”.
+
+Subsec. (y)(4). Pub. L. 117–263, § 871(a)(7), added par. (4). Former par. (4) redesignated (3).
+
+Subsec. (y)(5). Pub. L. 117–263, § 871(a)(8), substituted “subsection (h)(2)” for “section 15(h)(2) of the Small Business Act ([15 U.S.C. 644(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/h/2&num=0&edition=prelim))”.
+
+Subsec. (y)(6). Pub. L. 117–263, § 871(a)(9), amended par. (6) generally. Prior to amendment, par. (6) defined Administrator, Federal agency, scorecard, small business concern, small business concern owned and controlled by service-disabled veterans, qualified HUBZone small business concern, small business concern owned and controlled by women, and small business concern owned and controlled by socially and economically disadvantaged individuals.
+
+Pub. L. 117–263, § 871(a)(1), (3), redesignated par. (8) as (6) and struck out former par. (6) which related to report that Administrator submitted to Committee on Small Business of the House of Representatives and Committee on Small Business and Entrepreneurship of the Senate.
+
+Subsec. (y)(7). Pub. L. 117–263, § 871(a)(1), struck out par. (7) which related to GAO report on scorecard methodology that Comptroller General submitted to Committee on Small Business of the House of Representatives and Committee on Small Business and Entrepreneurship of the Senate.
+
+Subsec. (y)(8). Pub. L. 117–263, § 871(a)(3), redesignated par. (8) as (6).
+
 2021—Subsec. (e)(5). Pub. L. 116–283, § 868(a), added par. (5).
 
 Subsec. (k)(17)(B). Pub. L. 117–81, § 1702(e)(5)(A)(i), substituted “section 3249” for “section 2318”.
@@ -12889,6 +13024,9 @@ Pub. L. 99–272, title XVIII, § 18003(b), Apr. 7, 1986, 100 Stat. 364, provide
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–302 effective Oct. 1, 1980, see section 507 of Pub. L. 96–302, set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
+#### Eliminating Self-Certification for Service-Disabled Veteran-Owned Small Businesses
+Pub. L. 118–31, div. A, title VIII, § 864, Dec. 22, 2023, 137 Stat. 347, provided that: “(a) Definitions.—In this section:“(1) Administrator.—The term “Administrator” means the Administrator of the Small Business Administration. “(2) Small business concern; small business concerns owned and controlled by service-disabled veterans.—The terms ‘small business concern’ and ‘small business concerns owned and controlled by service-disabled veterans’ have the meanings given those terms in section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)). “(b) Eliminating Self-Certification in Prime Contracting and Subcontracting for SDVOSBs.—“(1) In general.—Each prime contract award and subcontract award that is counted for the purpose of meeting the goals for participation by small business concerns owned and controlled by service-disabled veterans in procurement contracts for Federal agencies, as established in section 15(g)(2) of the Small Business Act ([15 U.S.C. 644(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g/2&num=0&edition=prelim)), shall be entered into with small business concerns certified by the Administrator as small business concerns owned and controlled by service-disabled veterans under section 36 of such Act ([15 U.S.C. 657f](./chapter-14a-aid-to-small-business.md#section-657f)). “(2) Effective date.—Paragraph (1) shall take effect on October 1 of the fiscal year beginning after the Administrator promulgates the regulations required under subsection (d). “(c) Phased Approach to Eliminating Self-Certification for SDVOSBs.—Notwithstanding any other provision of law, any small business concern that self-certified as a small business concern owned and controlled by service-disabled veterans may—“(1) if the small business concern files a certification application with the Administrator before the end of the 1-year period beginning on the date of the enactment of this Act [Dec. 22, 2023], maintain such self-certification until the Administrator makes a determination with respect to such certification; and “(2) if the small business concern does not file a certification application before the end of the 1-year period beginning on the date of enactment of this Act, lose, at the end of such 1-year period, any self-certification of the small business concern as a small business concern owned and controlled by service-disabled veterans. “(d) Rulemaking.—Not later than 180 days after the date of the enactment of this Act, the Administrator shall promulgate regulations to carry out this section.”
+
 #### Compliance of Offices of Small Business and Disadvantaged Business Utilization
 Pub. L. 116–283, div. A, title VIII, § 870, Jan. 1, 2021, 134 Stat. 3788, provided that: “(a) Report.—If the Comptroller General of the United States has determined that a Director of Small and Disadvantaged Business Utilization of a Federal agency is not in compliance with the requirements of section 15(k) of the Small Business Act ([15 U.S.C. 644(k)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/k&num=0&edition=prelim)), such Director shall submit, not later than the specified date, to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report that includes the reasons for such noncompliance and the specific actions the Director shall take to remedy such noncompliance. “(b) Specified Date Defined.—In this section, the term ‘specified date’ means the later of—“(1) the date that is 120 days after the date on which a determination is made under subsection (a); and “(2) 120 days after the date of the enactment of this Act [Jan. 1, 2021].”
 
@@ -12896,7 +13034,7 @@ Pub. L. 116–283, div. A, title VIII, § 870, Jan. 1, 2021, 134 Stat. 3788, pro
 Pub. L. 114–328, div. A, title XVIII, § 1814(b), Dec. 23, 2016, 130 Stat. 2654, provided that: “After receipt of information from the Administrator of the Small Business Administration pursuant to section 15(v) of the Small Business Act [[15 U.S.C. 644(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/v&num=0&edition=prelim)], the Defense Acquisition University (established under [section 1746 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1746&num=0&edition=prelim), United States Code) and the Federal Acquisition Institute (established under [section 1201 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1201&num=0&edition=prelim), United States Code) shall periodically update the training provided to the acquisition workforce to incorporate such information.”
 
 #### Scorecard Program for Evaluating Federal Agency Compliance With Small Business Contracting Goals
-Pub. L. 114–92, div. A, title VIII, § 868(b), Nov. 25, 2015, 129 Stat. 933, provided that: “(1) In general.—Not later than September 30, 2016, the Administrator of the Small Business Administration, in consultation with the Federal agencies, shall—“(A) develop a methodology for calculating a score to be used to evaluate the compliance of each Federal agency with meeting the goals established pursuant to section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g/1/B&num=0&edition=prelim)) based on each such goal; and “(B) develop a scorecard based on such methodology. “(2) Use of scorecard.—Beginning in fiscal year 2017, the Administrator shall establish and carry out a program to use the scorecard developed under paragraph (1) to evaluate whether each Federal agency is creating the maximum practicable opportunities for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women, by assigning a score to each Federal agency for the previous fiscal year. “(3) Contents of scorecard.—The scorecard developed under paragraph (1) shall include, for each Federal agency, the following information:“(A) A determination of whether the Federal agency met each of the prime contract goals established pursuant to section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g/1/B&num=0&edition=prelim)) with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women. “(B) A determination of whether the Federal agency met each of the subcontract goals established pursuant to such section with respect to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women. “(C) The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded prime contracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded contracts during the prior fiscal year, if available. “(D) The number of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women awarded subcontracts in each North American Industry Classification System code during the fiscal year and a comparison to the number of awarded subcontracts during the prior fiscal year, if available. “(E) Any other factors that the Administrator deems important to achieve the maximum practicable utilization of small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women. “(4) Weighted factors.—In using the scorecard to evaluate and assign a score to a Federal agency, the Administrator shall base—“(A) fifty percent of the score on the dollar value of prime contracts described in paragraph (3)(A); and “(B) fifty percent of the score on the information provided in subparagraphs (B) through (E) of paragraph (3), weighted in a manner determined by the Administrator to encourage the maximum practicable opportunity for the award of prime contracts and subcontracts to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women. “(5) Publication.—The scorecard used by the Administrator under this subsection shall be submitted to the President and Congress along with the report submitted under section 15(h)(2) of the Small Business Act ([15 U.S.C. 644(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/h/2&num=0&edition=prelim)). “(6) Report.—After the Administrator uses the scorecard for fiscal year 2018 to assign scores to Federal agencies, but not later than March 31, 2019, the Administrator shall submit a report to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate. Such report shall include the following:“(A) A description of any increase in the dollar amount of prime contracts and subcontracts awarded to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women. “(B) A description of any increase in the dollar amount of prime contracts and subcontracts, and the total number of contracts, awarded to small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women in each North American Industry Classification System code. “(C) The recommendation of the Administrator on continuing, modifying, expanding, or terminating the program established under this subsection. “(7) GAO report on scorecard methodology.—Not later than September 30, 2018, the Comptroller General of the United States shall submit to the Committee on Small Business of the House of Representatives and the Committee on Small Business and Entrepreneurship of the Senate a report that—“(A) evaluates whether the methodology used to calculate a score under this subsection accurately and effectively—“(i) measures the compliance of each Federal agency with meeting the goals established pursuant to section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g/1/B&num=0&edition=prelim)); and “(ii) encourages Federal agencies to expand opportunities for small business concerns, small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, small business concerns owned and controlled by socially and economically disadvantaged individuals, and small business concerns owned and controlled by women to compete for and be awarded Federal procurement contracts across North American Industry Classification System codes; and “(B) if warranted, makes recommendations on how to improve such methodology to improve its accuracy and effectiveness. “(8) Definitions.—In this subsection:“(A) Administrator.—The term ‘Administrator’ means the Administrator of the Small Business Administration. “(B) Federal agency.—The term ‘Federal agency’ has the meaning given the term ‘agency’ by [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim), United States Code, but does not include the United States Postal Service or the Government Accountability Office. “(C) Scorecard.—The term ‘scorecard’ shall mean any summary using a rating system to evaluate a Federal agency’s efforts to meet goals established under section 15(g)(1)(B) of the Small Business Act ([15 U.S.C. 644(g)(1)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section644/g/1/B&num=0&edition=prelim)) that—“(i) includes the measures described in paragraph (3); and “(ii) assigns a score to each Federal agency evaluated. “(D) Small business act definitions.—“(i) In general.—The terms ‘small business concern’, ‘small business concern owned and controlled by service-disabled veterans’, ‘qualified HUBZone small business concern’, and ‘small business concern owned and controlled by women’ have the meanings given such terms under section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)). “(ii) Small business concerns owned and controlled by socially and economically disadvantaged individuals.—The term ‘small business concern owned and controlled by socially and economically disadvantaged individuals’ has the meaning given that term under section 8(d)(3)(C) of the Small Business Act ([15 U.S.C. 637(d)(3)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section637/d/3/C&num=0&edition=prelim)).”
+Pub. L. 114–92, div. A, title VIII, § 868(b), Nov. 25, 2015, 129 Stat. 933, which authorized the Administrator of the Small Business Administration, in consultation with the Federal agencies, to develop a methodology for calculating a score to be used to evaluate the compliance of each Federal agency with meeting the goals established pursuant to subsec. (g)(1)(B) of this section based on each such goal and a scorecard based on such methodology, was transferred to the end of this section and redesignated as subsec. (y) by Pub. L. 117–263, div. A, title VIII, § 871(a), Dec. 23, 2022, 136 Stat. 2738.
 
 #### Additional Requirements for the Small Business Preference Programs for Prime and Subcontract Federal Procurement Goals and Achievements
 Pub. L. 112–239, div. A, title XVI, § 1631(c), Jan. 2, 2013, 126 Stat. 2072, provided that: “Not later than 180 days after the date of the enactment of this part [Jan. 2, 2013], the Administrator of the Small Business Administration shall review and revise the Goaling Guidelines for the Small Business Preference Programs for Prime and Subcontract Federal Procurement Goals and Achievements to the extent necessary to ensure that— “(1) agency subcontracting goals are established on the basis of realistically achievable improvements to levels of subcontracting rather than on the basis of an average of previous years’ subcontracting performance; “(2) agency contracting and subcontracting goals are established in a manner that does not exclude categories of contracts on the basis of—“(A) the type of goods or services for which the agency contracts; “(B) in the case of contracts subject to competitive procedures under chapter 33 of title 41, United States Code—“(i) whether or not funding for the contracts is made directly available to the agency by an Appropriations Act or is made available by reimbursement from another agency or account; or “(ii) whether or not the contract is subject to the Federal Acquisition Regulation; and “(3) whenever an agency contracting or subcontracting goal is established at a level lower than the Governmentwide goal for small business concerns or the relevant category of small business concerns, the Administration is required to document the basis for the decision to establish such lower goal.”
@@ -13467,7 +13605,7 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
   (A) *In general.—* — The Department of Homeland Security, and any other Federal department or agency in coordination with the Department of Homeland Security, may leverage small business development centers to provide assistance to small business concerns by disseminating information relating to cybersecurity risks and other homeland security matters to help small business concerns in developing or enhancing cybersecurity infrastructure, awareness of cyber threat indicators, and cyber training programs for employees.
 
-  (B) *Definitions.—* — In this paragraph, the terms “cybersecurity risk” and “cyber threat indicator” have the meanings given such terms, respectively, under [section 659(a) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section659/a&num=0&edition=prelim).
+  (B) *Definitions.—* — In this paragraph, the terms “cybersecurity risk” and “cyber threat indicator” have the meanings given such terms, respectively, under [section 650 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim).
 
 **(b) Area plan inconsistent with applicant’s plan: assistance unavailable 1981 through 1983; plan of applicant: submittal to Administration, action on plan, review by Administration, assistance to out-of-State businesses**
 
@@ -13589,13 +13727,13 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
   (Q) providing information to small business concerns regarding compliance with regulatory requirements;
 
-  (R) developing informational publications, establishing resource centers of reference materials, and distributing compliance guides published under section 312(a) 55 See References in Text note below. of the Small Business Regulatory Enforcement Fairness Act of 1996;
+  (R) developing informational publications, establishing resource centers of reference materials, and distributing compliance guides published under section 312(a) 2 of the Small Business Regulatory Enforcement Fairness Act of 1996;
 
   (S) providing small business owners with access to a wide variety of export-related information by establishing on-line computer linkages between small business development centers and an international trade data information network with ties to the Export Assistance Center program;
 
   (T) providing information and assistance to small business concerns with respect to establishing drug-free workplace programs on or before October 1, 2006; and
 
-  (U) 66 So in original. Two subpars. (U) have been enacted. encouraging and assisting the provision of succession planning to small business concerns with a focus on transitioning to cooperatives, as defined in [section 636(a)(35) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/35&num=0&edition=prelim), and qualified employee trusts (collectively referred to in this subparagraph as “employee-owned business concerns”), including by—
+  (U) 55 So in original. Two subpars. (U) have been enacted. encouraging and assisting the provision of succession planning to small business concerns with a focus on transitioning to cooperatives, as defined in [section 636(a)(35) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/35&num=0&edition=prelim), and qualified employee trusts (collectively referred to in this subparagraph as “employee-owned business concerns”), including by—
 
     (i) providing training to individuals to promote the successful management, governance, or operation of a business purchased by those individuals in the formation of an employee-owned business concern;
 
@@ -13607,7 +13745,7 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
     (v) coordinating with the cooperative development centers of the Department of Agriculture, the land grant extension network, the Manufacturing Extension Partnership, community development financial institutions, employee ownership associations and service providers, and local, regional and national cooperative associations.
 
-  (U) 6 in conjunction with the United States Patent and Trademark Office, providing training—
+  (U) 5 in conjunction with the United States Patent and Trademark Office, providing training—
 
     (i) to small business concerns relating to—
 
@@ -13629,7 +13767,7 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
 (7) In performing the services identified in paragraph (3), the Small Business Development Centers shall work in close cooperation with the Administration’s regional and local offices, the local small business community, and appropriate State and local agencies.
 
-(8) The Associate Administrator for Small Business Development Centers, in consultation with the Small Business Development Centers, shall develop and implement an information sharing system. Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter 77 So in original. Probably should be “enter into”. cooperative agreements with one or more centers to carry out the provisions of this paragraph. Said grants or cooperative agreements shall be awarded for periods of no more than five years duration. The matching funds provisions of subsection (a) shall not be applicable to grants or cooperative agreements under this paragraph. The system shall—
+(8) The Associate Administrator for Small Business Development Centers, in consultation with the Small Business Development Centers, shall develop and implement an information sharing system. Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter 66 So in original. Probably should be “enter into”. cooperative agreements with one or more centers to carry out the provisions of this paragraph. Said grants or cooperative agreements shall be awarded for periods of no more than five years duration. The matching funds provisions of subsection (a) shall not be applicable to grants or cooperative agreements under this paragraph. The system shall—
 
   (A) allow Small Business Development Centers participating in the program to exchange information about their programs; and
 
@@ -13649,7 +13787,7 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
 (2) **Duties**
 
-  (A) *In general* — The sole responsibility of the Associate Administrator for Small Business Development Centers shall be to administer the small business development center program. Duties of the position shall include recommending the annual program budget, reviewing the annual budgets submitted by each applicant, establishing appropriate funding levels therefore,88 So in original. Probably should be “therefor,”. selecting applicants to participate in this program, implementing the provisions of this section, maintaining a clearinghouse to provide for the dissemination and exchange of information between small business development centers and conducting audits of recipients of grants under this section.
+  (A) *In general* — The sole responsibility of the Associate Administrator for Small Business Development Centers shall be to administer the small business development center program. Duties of the position shall include recommending the annual program budget, reviewing the annual budgets submitted by each applicant, establishing appropriate funding levels therefore,77 So in original. Probably should be “therefor,”. selecting applicants to participate in this program, implementing the provisions of this section, maintaining a clearinghouse to provide for the dissemination and exchange of information between small business development centers and conducting audits of recipients of grants under this section.
 
   (B) *Consultation requirements* — In carrying out the duties described in this subsection, the Associate Administrator shall confer with and seek the advice of the Board established by subsection (i) and Administration officials in areas served by the small business development centers; however, the Associate Administrator shall be responsible for the management and administration of the program and shall not be subject to the approval or concurrence of such Administration officials.
 
@@ -13677,7 +13815,7 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
   (B) *Accreditation requirement* — After September 30, 2000, the Administration may not renew or extend any cooperative agreement with a small business development center unless the center has been approved under the accreditation program conducted pursuant to this subsection, except that the Associate Administrator for Small Business Development Centers may waive such accreditation requirement, in the discretion of the Associate Administrator, upon a showing that the center is making a good faith effort to obtain accreditation.
 
-**(l) Contract authority** The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore 8 and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
+**(l) Contract authority** The authority to enter into contracts shall be in effect for each fiscal year only to the extent and in the amounts as are provided in advance in appropriations Acts. After the administration has entered a contract, either as a grant or a cooperative agreement, with any applicant under this section, it shall not suspend, terminate, or fail to renew or extend any such contract unless the Administration provides the applicant with written notification setting forth the reasons therefore 7 and affording the applicant an opportunity for a hearing, appeal, or other administrative proceeding under the provisions of chapter 5 of title 5. If any contract or cooperative agreement under this section with an entity that is covered by this section is not renewed or extended, any award of a successor contract or cooperative agreement under this section to another entity shall be made on a competitive basis.
 
 **(m) Prohibition on certain fees** A small business development center shall not impose or otherwise collect a fee or other compensation in connection with the provision of counseling services under this section.
 
@@ -13697,10 +13835,34 @@ Pub. L. 95–507, § 207, Oct. 24, 1978, 92 Stat. 1767, provided that: “Nothin
 
 (4) **Funding** — Subject to amounts approved in advance in appropriations Acts, the Administration may make grants or enter into cooperative agreements to carry out the provisions of this subsection.
 
+**(o) Cyber strategy training for small business development centers**
+
+(1) **Definitions** — In this subsection—
+
+  (A) the term “cyber strategy” means resources and tactics to assist in planning for cybersecurity and defending against cyber risks and attacks; and
+
+  (B) the term “lead small business development center” means a small business development center that receives reimbursement from the Administrator under paragraph (5).
+
+(2) **Certification program** — The Administrator shall establish a cyber counseling certification program, or designate 1 or more substantially similar governmental or private cybersecurity certification programs, to certify the employees of lead small business development centers in providing cyber planning assistance to small business concerns.
+
+(3) **Number of certified employees** — The Administrator shall ensure that the number of employees of each lead small business development center who are certified in providing cyber planning assistance is not less than the lesser of—
+
+  (A) 5; or
+
+  (B) 10 percent of the total number of employees of the lead small business development center.
+
+(4) **Cyber strategy** — In carrying out paragraph (2), the Administrator, to the extent practicable, shall consider any cyber strategy methods included in the Small Business Development Center Cyber Strategy developed under section 1841(a)(3)(B) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2662).
+
+(5) **Reimbursement for certification**
+
+  (A) *In general* — Subject to the availability of appropriations, the Administrator may reimburse each lead small business development center for costs relating to the certification of 1 or more employees of the lead small business center in providing cyber planning assistance under a program established or designated under paragraph (2).
+
+  (B) *Limitation* — The total amount reimbursed by the Administrator under subparagraph (A) may not exceed $350,000 in any fiscal year.
+
 ### Statutory Notes
 
 #### References in Text
-Section 1841(a) of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsecs. (a)(1) and (c)(2)(G), is section 1841(a) of Pub. L. 114–328, div. A, title XVIII, Dec. 23, 2016, 130 Stat. 2662, which is not classified to the Code.
+Section 1841(a) of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsecs. (a)(1), (c)(2)(G), and (o)(4), is section 1841(a) of Pub. L. 114–328, div. A, title XVIII, Dec. 23, 2016, 130 Stat. 2662, which is not classified to the Code.
 
 Section 20(a), referred to in subsec. (a)(4)(C)(i)(I), (v), means section 2[20(a)] of Pub. L. 85–536, which is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
@@ -13717,6 +13879,10 @@ A prior [section 648 of this title](./chapter-14a-aid-to-small-business.md#secti
 A prior section 2[21] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
+2022—Subsec. (a)(8)(B). Pub. L. 117–263 substituted “[section 650 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim)” for “[section 659(a) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section659/a&num=0&edition=prelim)”.
+
+Subsec. (o). Pub. L. 117–319 added subsec. (o).
+
 2021—Subsec. (a)(1). Pub. L. 116–283, § 867(1)(A), inserted “The previous sentence shall not apply to an applicant that has its principal office located in the Commonwealth of the Northern Mariana Islands.” before “The Administration shall require”.
 
 Subsec. (a)(4)(C)(ix). Pub. L. 116–283, § 867(1)(B), substituted “American Samoa, and the Commonwealth of the Northern Mariana Islands” for “and American Samoa”.
@@ -13906,6 +14072,9 @@ For short title of title II of Pub. L. 96–302 as the Small Business Developmen
 
 #### Regulations
 Pub. L. 102–366, title II, § 223(b), Sept. 4, 1992, 106 Stat. 1000, as amended by Pub. L. 103–81, § 9(c), Aug. 13, 1993, 107 Stat. 783, provided that not later than 180 days after Sept. 4, 1992, the Administrator of the Small Business Administration was to submit to the Committees on Small Business and the Committees on Appropriations of the Senate and the House of Representatives proposed regulations for the Small Business Development Center Program authorized by this section.
+
+#### Implementation
+Pub. L. 117–319, § 2(b), Dec. 27, 2022, 136 Stat. 4425, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 27, 2022], the Administrator of the Small Business Administration shall implement paragraphs (2), (3), and (4) of section 21(o) of the Small Business Act [[15 U.S.C. 648](./chapter-14a-aid-to-small-business.md#section-648)(o)(2)–(4)], as added by subsection (a).”
 
 #### Opportunities for Employee-Owned Business Concerns Through Small Business Administration Loan Programs
 Pub. L. 115–232, div. A, title VIII, § 862(a), (c)–(e)(2)(A), Aug. 13, 2018, 132 Stat. 1897–1899, provided that: “(a) Definitions.—In this Act [probably should be “section”]—“(1) the terms ‘Administration’ and ‘Administrator’ means the Small Business Administration and the Administrator thereof, respectively; “(2) the term ‘cooperative’ means an entity that is determined to be a cooperative by the Administrator, in accordance with applicable Federal and State laws and regulations; “(3) the term ‘employee-owned business concern’ means—“(A) a cooperative; and “(B) a qualified employee trust; “(4) the terms ‘qualified employee trust’ and ‘small business concern’ have the meanings given those terms in section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)); and “(5) the term ‘small business development center’ means a small business development center described in section 21 of the Small Business Act ([15 U.S.C. 648](./chapter-14a-aid-to-small-business.md#section-648)). “(c) Small Business Investment Company Program Outreach.—The Administrator shall provide outreach and educational materials to companies licensed under section 301(c) of the Small Business Investment Act of 1958 ([15 U.S.C. 681(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section681/c&num=0&edition=prelim)) to increase the use of funds to make investments in company transitions to employee-owned business concerns. “(d) Small Business Microloan Program Outreach.—The Administrator shall provide outreach and educational materials to intermediaries under section 7(m) of the Small Business Act ([15 U.S.C. 636(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/m&num=0&edition=prelim)) to increase the use of funds to make loans to employee-owned business concerns, including transitions to employee-owned business concerns. “(e) Small Business Development Center Outreach and Assistance.—“(1) Establishment.—The Administrator shall establish a Small Business Employee Ownership and Cooperatives Promotion Program to offer technical assistance and training on the transition to employee ownership through cooperatives and qualified employee trusts. “(2) Small business development centers.—“(A) In general.—In carrying out the program established under subsection (a) [probably should be “paragraph (1)”], the Administrator shall enter into agreements with small business development centers under which the centers shall—“(i) provide access to information and resources on employee ownership through cooperatives or qualified employee trusts as a business succession strategy; “(ii) conduct training and educational activities; and “(iii) carry out the activities described in subparagraph (U) of section 21(c)(3) of the Small Business Act ([15 U.S.C. 648(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section648/c/3&num=0&edition=prelim)).”
@@ -14135,7 +14304,7 @@ Pub. L. 115–259, § 2, Oct. 9, 2018, 132 Stat. 3664, provided that: “In this
 
 (1) a description of the progress of the Office in implementing the requirements of this section;
 
-(2) a detailed account of the results of export growth activities of the Administration, including the activities of each district and regional office of the Administration, based on the performance measures described in subsection (i); 22 So in original. Probably should be a reference to subsection (j).
+(2) a detailed account of the results of export growth activities of the Administration, including the activities of each district and regional office of the Administration, based on the performance measures described in subsection (i); 11 So in original. Probably should be a reference to subsection (j).
 
 (3) an estimate of the total number of jobs created or retained as a result of export assistance provided by the Administration and resource partners of the Administration;
 
@@ -14602,7 +14771,7 @@ Pub. L. 96–481, title III, § 301(e), Oct. 21, 1980, 94 Stat. 2331, provided t
 Section was not enacted as part of the Small Business Act which comprises this chapter.
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### State Trade and Export Promotion Grant Program
 Pub. L. 111–240, title I, § 1207, Sept. 27, 2010, 124 Stat. 2532, as amended by Pub. L. 112–239, div. A, title XVI, § 1699a, Jan. 2, 2013, 126 Stat. 2092, provided that: “(a) Definitions.—In this section—“(1) the term ‘eligible small business concern’ means a small business concern that—“(A) has been in business for not less than the 1-year period ending on the date on which assistance is provided using a grant under this section; “(B) is operating profitably, based on operations in the United States; “(C) has demonstrated understanding of the costs associated with exporting and doing business with foreign purchasers, including the costs of freight forwarding, customs brokers, packing and shipping, as determined by the Associate Administrator; and “(D) has in effect a strategic plan for exporting; “(2) the term ‘program’ means the State Trade and Export Promotion Grant Program established under subsection (b); “(3) the term ‘small business concern owned and controlled by women’ has the meaning given that term in section 3 of the Small Business Act ([15 U.S.C. 632](./chapter-14a-aid-to-small-business.md#section-632)); “(4) the term ‘socially and economically disadvantaged small business concern’ has the meaning given that term in section 8(a)(4)(A) of the Small Business Act ([15 U.S.C. 6537(a)(4)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6537/a/4/A&num=0&edition=prelim) [637(a)(4)(A)]); and “(5) the term ‘State’ means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa. “(b) Establishment of Program.—The Associate Administrator shall establish a 3-year trade and export promotion pilot program to be known as the State Trade and Export Promotion Grant Program, to make grants to States to carry out export programs that assist eligible small business concerns in—“(1) participation in a foreign trade mission; “(2) a foreign market sales trip; “(3) a subscription to services provided by the Department of Commerce; “(4) the payment of website translation fees; “(5) the design of international marketing media; “(6) a trade show exhibition; “(7) participation in training workshops; or “(8) any other export initiative determined appropriate by the Associate Administrator. “(c) Grants.—“(1) Joint review.—In carrying out the program, the Associate Administrator may make a grant to a State to increase the number of eligible small business concerns in the State that export or to increase the value of the exports by eligible small business concerns in the State. “(2) Considerations.—In making grants under this section, the Associate Administrator may give priority to an application by a State that proposes a program that—“(A) focuses on eligible small business concerns as part of an export promotion program; “(B) demonstrates success in promoting exports by—“(i) socially and economically disadvantaged small business concerns; “(ii) small business concerns owned or controlled by women; and “(iii) rural small business concerns; “(C) promotes exports from a State that is not 1 of the 10 States with the highest percentage of exporters that are small business concerns, based upon the latest data available from the Department of Commerce; and “(D) promotes new-to-market export opportunities to the People’s Republic of China for eligible small business concerns in the United States. “(3) Limitations.—“(A) Single application.—A State may not submit more than 1 application for a grant under the program in any 1 fiscal year. “(B) Proportion of amounts.—The total value of grants under the program made during a fiscal year to the 10 States with the highest number of exporters that are small business concerns, based upon the latest data available from the Department of Commerce, shall be not more than 40 percent of the amounts appropriated for the program for that fiscal year. “(4) Application.—A State desiring a grant under the program shall submit an application at such time, in such manner, and accompanied by such information as the Associate Administrator may establish. “(d) Competitive Basis.—The Associate Administrator shall award grants under the program on a competitive basis. “(e) Federal Share.—The Federal share of the cost of an export program carried out using a grant under the program shall be—“(1) for a State that has a high export volume, as determined by the Associate Administrator, not more than 65 percent; and “(2) for a State that does not have a high export volume, as determined by the Associate Administrator, not more than 75 percent. “(f) Non-Federal Share.—The non-Federal share of the cost of an export program carried [out] using a grant under the program shall be comprised of not less than 50 percent cash and not more than 50 percent of indirect costs and in-kind contributions, except that no such costs or contributions may be derived from funds from any other Federal program. “(g) Reports.—“(1) Initial report.—Not later than 120 days after the date of enactment of this Act [Sept. 27, 2010], the Associate Administrator shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report, which shall include—“(A) a description of the structure of and procedures for the program; “(B) a management plan for the program; and “(C) a description of the merit-based review process to be used in the program. “(2) Annual reports.—The Associate Administrator shall submit an annual report to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives regarding the program, which shall include—“(A) the number and amount of grants made under the program during the preceding year; “(B) a list of the States receiving a grant under the program during the preceding year, including the activities being performed with grant; and “(C) the effect of each grant on exports by eligible small business concerns in the State receiving the grant. “(h) Reviews by Inspector General.—“(1) In general.—The Inspector General of the Administration shall conduct a review of—“(A) the extent to which recipients of grants under the program are measuring the performance of the activities being conducted and the results of the measurements; and “(B) the overall management and effectiveness of the program. “(2) Report.—Not later than September 30, 2012, the Inspector General of the Administration shall submit to the Committee on Small Business and Entrepreneurship of the Senate and the Committee on Small Business of the House of Representatives a report regarding the review conducted under paragraph (1). “(i) Authorization of Appropriations.—There is authorized to be appropriated to carry out the program $30,000,000 for each of fiscal years 2011, 2012, and 2013. “(j) Termination.—The authority to carry out the program shall terminate 3 years after the date on which the Associate Administrator establishes the program.”
@@ -15457,7 +15626,7 @@ Pub. L. 105–135, title III, § 308(b), Dec. 2, 1997, 111 Stat. 2615, provided 
 
   (A) work with each agency with regulatory authority over small businesses to ensure that small business concerns that receive or are subject to an audit, on-site inspection, compliance assistance effort, or other enforcement related communication or contact by agency personnel are provided with a means to comment on the enforcement activity conducted by such personnel;
 
-  (B) establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);
+  (B) establish means to receive comments from small business concerns regarding actions by agency employees conducting compliance or enforcement activities with respect to the small business concern, means to refer comments to the Inspector General of the affected agency in the appropriate circumstances, and otherwise seek to maintain the identity of the person and small business concern making such comments on a confidential basis to the same extent as employee identities are protected under [section 407 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section407&num=0&edition=prelim);
 
   (C) based on substantiated comments received from small business concerns and the Boards, annually report to Congress and affected agencies evaluating the enforcement activities of agency personnel including a rating of the responsiveness to small business of the various regional and program offices of each agency;
 
@@ -15506,15 +15675,15 @@ Pub. L. 105–135, title III, § 308(b), Dec. 2, 1997, 111 Stat. 2615, provided 
 ### Statutory Notes
 
 #### References in Text
-Section 7 of the Inspector General Act of 1978, referred to in subsec. (b)(2)(B), is section 7 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 212 of the Small Business Regulatory Enforcement Fairness Act of 1996, referred to in subsecs. (e)(1) and (f), is section 212 of title II of Pub. L. 104–121, which is set out in a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 2[30] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
 
 #### Amendments
-2022—Subsecs. (e), (f). Pub. L. 117–188 added subsecs. (e) and (f).
+2022—Subsec. (b)(2)(B). Pub. L. 117–286 substituted “[section 407 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section407&num=0&edition=prelim);” for “section 7 of the Inspector General Act of 1978 (5 U.S.C. App.);”.
+
+Subsecs. (e), (f). Pub. L. 117–188 added subsecs. (e) and (f).
 
 #### Change of Name
 Committee on Small Business of Senate changed to Committee on Small Business and Entrepreneurship of Senate. See Senate Resolution No. 123, One Hundred Seventh Congress, June 29, 2001.
@@ -15821,6 +15990,10 @@ Section effective on expiration of 90 days after Mar. 29, 1996, see section 224 
 #### References in Text
 [Section 636(m)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/m/11&num=0&edition=prelim), referred to in subsec. (a), no longer defines the term “economically distressed areas”. See 1994 Amendment note for subsec. (m)(11)(D) under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
+The Community Economic Development Act of 1981, referred to in subsec. (b)(2)(E)(i), is subchapter A (§§ 611–633) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 489. Part 1 of subchapter A of the Act is classified generally to part A (§ 9805 et seq.) of subchapter I of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9801&num=0&edition=prelim) and Tables.
+
+The Puerto Rico Oversight, Management, and Economic Stability Act, referred to in subsec. (b)(3)(A)(ii)(II), is Pub. L. 114–187, June 30, 2016, 130 Stat. 549, which is classified principally to chapter 20 (§ 2101 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section2101&num=0&edition=prelim) and Tables.
+
 #### Codification
 The text of [section 632(p) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/p&num=0&edition=prelim), which was transferred to this section and redesignated as subsec. (b) by Pub. L. 115–91, div. A, title XVII, § 1701(a)(2), Dec. 12, 2017, 131 Stat. 1795, was based on Pub. L. 85–536, § 2[3], July 18, 1958, 72 Stat. 384; Pub. L. 105–135, title VI, § 602(a), Dec. 2, 1997, 111 Stat. 2627; Pub. L. 106–554, § 1(a)(9) [title VI, §§ 602–604, 611, 612(b)–615(a)], Dec. 21, 2000, 114 Stat. 2763, 2763A–697 to 2763A–701; Pub. L. 108–447, div. K, title I, §§ 151(a), 152(a)(1), (3)–(c)(1), Dec. 8, 2004, 118 Stat. 3456, 3457; Pub. L. 109–59, title X, § 10203, Aug. 10, 2005, 119 Stat. 1933; Pub. L. 112–239, div. A, title XVI, § 1696(b)(1), Jan. 2, 2013, 126 Stat. 2090; Pub. L. 114–92, div. A, title VIII, § 866(a), Nov. 25, 2015, 129 Stat. 929; Pub. L. 114–187, title IV, § 412(a)(1), June 30, 2016, 130 Stat. 595.
 
@@ -16125,16 +16298,18 @@ Sec. 4. General Provisions. (a) The Small Business Administration shall provide 
 
 (ii) functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
 
-(c) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (FACA), may apply to the Task Force, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Administrator in accordance with guidelines issued by the Administrator of General Services.
+(c) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (FACA), may apply to the Task Force, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Administrator in accordance with guidelines issued by the Administrator of General Services.
 
 (d) This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Barack Obama.
 
 #### Extension of Term of Interagency Task Force on Veterans Small Business Development
-Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Interagency Task Force on Veterans Small Business Development extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of Interagency Task Force on Veterans Small Business Development were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
@@ -16443,7 +16618,51 @@ Pub. L. 106–554, § 1(a)(9) [title I, § 111(a)], Dec. 21, 2000, 114 Stat. 276
 
 **(e) Relationship to other contracting preferences** A procurement may not be made from a source on the basis of a preference provided under subsection (a) or (b) if the procurement would otherwise be made from a different source under section 4124 or 4125 of title 18 or chapter 85 of title 41.
 
-**(g) 1 Certification requirement** Notwithstanding subsection (c), a contracting officer may only award a sole source contract to a small business concern owned and controlled by service-disabled veterans or a contract on the basis of competition restricted to small business concerns owned and controlled by service-disabled veterans if such a concern is certified by the Administrator as a small business concern owned and controlled by service-disabled veterans.
+**(f) Database of veteran-owned businesses**
+
+(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.
+
+(2)
+
+  (A) To be eligible for inclusion in the database, such a veteran shall submit to the Administrator such information as the Administrator may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly referred to as the Privacy Act) for the Administrator to obtain from the Secretary of Veterans Affairs such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
+
+  (B) For purposes of this subsection—
+
+    (i) the Secretary of Veterans Affairs shall—
+
+      (I) verify an individual’s status as a veteran or a service-disabled veteran; and
+
+      (II) establish a system to permit the Administrator to access, but not alter, the verification of such status; and
+
+    (ii) the Administrator shall verify—
+
+      (I) the status of a business concern as a small business concern; and
+
+      (II) the ownership and control of such business concern.
+
+  (C) The Administrator may not certify a concern under subsection (b) or [section 657f–1 of this title](./chapter-14a-aid-to-small-business.md#section-657f-1) if the Secretary of Veterans Affairs cannot provide the verification described under subparagraph (B)(i)(I).
+
+(3) Information maintained in the database shall be submitted on a voluntary basis by a veteran described in paragraph (1).
+
+(4) The Administrator shall make the database available to all Federal departments and agencies and shall notify each such department and agency of the availability of the database.
+
+(5) If the Administrator determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Administrator shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
+
+(6)
+
+  (A) If a small business concern is not included in the database because the Administrator does not certify the status of the concern as a small business concern owned and controlled by veterans (under [section 657f–1 of this title](./chapter-14a-aid-to-small-business.md#section-657f-1)) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section), the concern may appeal the denial of certification to the Office of Hearings and Appeals of the Administration (as established under [section 634(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section634/i&num=0&edition=prelim)). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
+
+  (B)
+
+    (i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
+
+    (ii) In this subparagraph, the term “interested party” means—
+
+      (I) the Secretary of Veterans Affairs or the Administrator; or
+
+      (II) in the case of a small business concern that is awarded a contract, the applicable contracting officer or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).
+
+**(g) Certification requirement** Notwithstanding subsection (c), a contracting officer may only award a sole source contract to a small business concern owned and controlled by service-disabled veterans or a contract on the basis of competition restricted to small business concerns owned and controlled by service-disabled veterans if such a concern is certified by the Administrator as a small business concern owned and controlled by service-disabled veterans.
 
 **(h) Enforcement; penalties**
 
@@ -16462,11 +16681,10 @@ Rules similar to the rules of paragraphs (5) and (6) of [section 637(m) of this 
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title VIII, § 862(b)(2), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date (2 years after Jan. 1, 2021), this section is amended by transferring subsection (f) of [section 8127 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127&num=0&edition=prelim), Veterans’ Benefits, to subsection (f) of this section. See 2021 Amendment note and Effective Date of 2021 Amendment note below.
-
 #### Codification
 In subsec. (e), “chapter 85 of title 41” substituted for “the Javits-Wagner-O’Day Act ([41 U.S.C. 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section46&num=0&edition=prelim) et seq.)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+The text of subsec. (f) of [section 8127 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127&num=0&edition=prelim), Veterans’ Benefits, which was transferred to subsec. (f) of this section by Pub. L. 116–283, div. A, title VIII, § 862(b)(2), Jan. 1, 2021, 134 Stat. 3778, was based on Pub. L. 109–461, title V, § 502(a)(1), Dec. 22, 2006, 120 Stat. 3431; Pub. L. 111–275, title I, § 104(b)(1), Oct. 13, 2010, 124 Stat. 2867; Pub. L. 114–328, div. A, title XVIII, § 1832(b)(2)(D), (d), (f)(1), Dec. 23, 2016, 130 Stat. 2660; Pub. L. 116–283, div. A, title VIII, § 862(b)(1)(B), Jan. 1, 2021, 134 Stat. 3776.
 
 #### Prior Provisions
 A prior section 2[36] of Pub. L. 85–536 was renumbered section 2[49] and is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
@@ -16484,7 +16702,7 @@ Pub. L. 116–283, § 862(d)(1)(A), redesignated subsec. (d) as par. (3) of subs
 
 Subsec. (e). Pub. L. 116–283, § 862(d)(1)(B), (C), redesignated subsec. (c) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “For purposes of this section, the term ‘contracting officer’ has the meaning given such term in [section 2101(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section2101/1&num=0&edition=prelim).”
 
-Subsec. (f). Pub. L. 116–283, § 862(b)(2), transferred subsec. (f) of [section 8127 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127&num=0&edition=prelim), Veterans’ Benefits, to subsec. (f) of this section.
+Subsec. (f). Pub. L. 116–283, § 862(b)(2), transferred subsec. (f) of [section 8127 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127&num=0&edition=prelim), Veterans’ Benefits, to subsec. (f) of this section. See Codification note above.
 
 Subsec. (g). Pub. L. 116–283, § 862(d)(1)(F), added subsec. (g).
 

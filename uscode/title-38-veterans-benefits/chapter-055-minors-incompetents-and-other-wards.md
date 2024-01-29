@@ -182,14 +182,16 @@ Pub. L. 86–146, § 3, Aug. 7, 1959, 73 Stat. 298, provided that: “The amendm
 
 (6) The costs of administering this subsection shall be paid for from amounts available to the Department of Veterans Affairs for the payment of compensation and pension.
 
-(7) This subsection expires on October 30, 2028.
+(7) This subsection expires on November 30, 2031.
 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2023—Subsec. (d)(7). Pub. L. 117–333 substituted “November 30, 2031” for “October 30, 2028”.
+
 2021—Subsec. (d)(7). Pub. L. 116–315 substituted “October 30, 2028” for “September 30, 2028”.
 
 2018—Subsec. (d)(7). Pub. L. 115–182 substituted “September 30, 2028” for “September 30, 2027”.

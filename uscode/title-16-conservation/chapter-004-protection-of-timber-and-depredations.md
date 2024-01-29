@@ -988,7 +988,7 @@ For purposes of sections 620 to 620j of this title:
 ### Statutory Notes
 
 #### References in Text
-Sections 620 to 620j of this title, referred to in par. (11), was in the original “this Act” and was translated as reading “this title”, meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, as amended, known as the Forest Resources Conservation and Shortage Relief Act of 1990, which enacted sections 620 to 620j of this title and provisions set out as notes under [section 620 of this title](./chapter-004-protection-of-timber-and-depredations.md#section-620), to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-004-protection-of-timber-and-depredations.md#section-620) and Tables.
+Sections 620 to 620j of this title, referred to in par. (11), was in the original “this Act” and was translated as reading “this title”, meaning title IV of Pub. L. 101–382, Aug. 20, 1990, 104 Stat. 714, known as the Forest Resources Conservation and Shortage Relief Act of 1990, which enacted sections 620 to 620j of this title and provisions set out as notes under [section 620 of this title](./chapter-004-protection-of-timber-and-depredations.md#section-620), to reflect the probable intent of Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-004-protection-of-timber-and-depredations.md#section-620) and Tables.
 
 #### Amendments
 1997—Pars. (3) to (8). Pub. L. 105–83, § 604(1), (2), added pars. (3) and (4) and redesignated former pars. (3) to (6) as (5) to (8), respectively. Former pars. (7) and (8) redesignated (9) and (10), respectively.

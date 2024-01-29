@@ -357,16 +357,15 @@ Pub. L. 107–153, § 1, Mar. 19, 2002, 116 Stat. 79, as amended by Pub. L. 109�
 
 **(b) Term** Each member shall serve a term of two years.
 
-**(c) FACA** The advisory board shall not be subject to the Federal Advisory Committee Act.
+**(c) Chapter 10 of title 5** The advisory board shall not be subject to chapter 10 of title 5.
 
 **(d) Termination** The advisory board shall terminate upon termination of the Office of Special Trustee.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act.” in text.
+
 1996—Subsec. (d). Pub. L. 104–109 substituted “advisory board” for “Advisory Board”.
 
 #### Appointment of New Members

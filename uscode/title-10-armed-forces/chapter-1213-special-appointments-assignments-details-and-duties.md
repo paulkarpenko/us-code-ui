@@ -37,7 +37,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 <a id="section-12503"></a>
 ## § 12503. Ready Reserve: funeral honors duty
-**(a) Order to Duty.—** A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in [section 1491 of this title](./chapter-075-deceased-personnel.md#section-1491). Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 11 See References in Text note below. of title 37.
+**(a) Order to Duty.—** A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in [section 1491 of this title](./chapter-075-deceased-personnel.md#section-1491). Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.
 
 **(b) Service Credit.—** A member ordered to funeral honors duty under this section shall be required to perform a minimum of two hours of such duty in order to receive—
 
@@ -45,11 +45,11 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (2) as directed by the Secretary concerned, either—
 
-  (A) the allowance under section 495 1 of title 37; or
+  (A) the allowance under [section 435 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section435&num=0&edition=prelim); or
 
   (B) compensation under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim).
 
-**(c) Reimbursable Expenses.—** A member who performs funeral honors duty under this section may be reimbursed for travel and transportation expenses incurred in conjunction with such duty as authorized under chapter 7 of title 37 if such duty is performed at a location 50 miles or more from the member’s residence.
+**(c) Reimbursable Expenses.—** A member who performs funeral honors duty under this section may be reimbursed for travel and transportation expenses incurred in conjunction with such duty as authorized under [section 452 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452&num=0&edition=prelim) if such duty is performed at a location 50 miles or more from the member’s residence.
 
 **(d) Regulations.—** The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
@@ -57,10 +57,13 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 ### Statutory Notes
 
-#### References in Text
-[Section 495 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495&num=0&edition=prelim), referred to in subsecs. (a) and (b)(2)(A), was renumbered [section 435 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section435&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(b)(1), Jan. 1, 2021, 134 Stat. 3672.
-
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 626(c)(9)(A), substituted “sections 206 and 435” for “sections 206 and 495”.
+
+Subsec. (b)(2)(A). Pub. L. 117–263, § 626(c)(9)(B), substituted “section 435” for “section 495”.
+
+Subsec. (c). Pub. L. 117–263, § 626(c)(9)(C), substituted “section 452” for “chapter 7”.
+
 2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495” for “435”.

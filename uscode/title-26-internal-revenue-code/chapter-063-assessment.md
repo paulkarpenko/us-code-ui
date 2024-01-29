@@ -324,7 +324,12 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)(4)
+Pub. L. 117–328, div. T, title I, § 103(c)(1), (f), Dec. 29, 2022, 136 Stat. 5285, 5286, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (b)(4) of this section is amended by striking “and 7527A” and inserting “7527A, and 6433”. See 2022 Amendment note below.
+
 #### Amendments
+2022—Subsec. (b)(4)(A). Pub. L. 117–328 substituted “7527A, and 6433” for “and 7527A”.
+
 2021—Subsec. (b)(4)(A). Pub. L. 117–2, § 9631(c)(1), inserted “21 by reason of subsection (g) thereof,” before “24”.
 
 Pub. L. 117–2, § 9611(b)(4)(B), substituted “24 by reason of subsections (d) and (i)(1) thereof” for “24(d)” and “6428B, and 7527A” for “and 6428B”.
@@ -418,6 +423,9 @@ Subsec. (b)(2). Pub. L. 91–172, § 101(j)(39), inserted reference to chapter 4
 1966—Subsec. (b)(1). Pub. L. 89–368 substituted “subtitle A” for “chapter 1”.
 
 1965—Subsec. (b)(4). Pub. L. 89–44 added par. (4).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2026, see section 103(f) of Pub. L. 117–328, set out as an Effective Date note under [section 6433 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6433).
 
 #### Effective Date of 2021 Amendment
 Amendment by section 9611(b)(4)(B) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).

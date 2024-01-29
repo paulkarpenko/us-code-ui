@@ -24,7 +24,7 @@ The Congress finds and declares that—
 ### Statutory Notes
 
 #### References in Text
-The Regional Rail Reorganization Act of 1973, referred to in pars. (1) and (4), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in pars. (1) and (4), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
 
 #### Effective Date
 Pub. L. 97–35, title XI, § 1169, Aug. 13, 1981, 95 Stat. 687, provided that: “Except as otherwise provided, the provisions of and the amendments made by this subtitle [subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, see Short Title note set out below] shall take effect on the date of the enactment of this subtitle [Aug. 13, 1981].”
@@ -47,7 +47,7 @@ It is therefore declared to be the purpose of the Congress in this subtitle to p
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
 
 <a id="section-1103"></a>
@@ -78,9 +78,9 @@ It is the goal of this subtitle to provide Conrail the opportunity to become pro
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
-The Staggers Rail Act of 1980, referred to in par. (3), is Pub. L. 96–448, Oct. 14, 1980, 94 Stat. 1895, as amended. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 10101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10101&num=0&edition=prelim), Transportation, and Tables.
+The Staggers Rail Act of 1980, referred to in par. (3), is Pub. L. 96–448, Oct. 14, 1980, 94 Stat. 1895. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 10101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section10101&num=0&edition=prelim), Transportation, and Tables.
 
 #### Abolition of United States Railway Association and Transfer of Functions and Securities
 See [section 1341 of this title](./chapter-022-conrail-privatization.md#section-1341).
@@ -110,9 +110,9 @@ As used in this subtitle, unless the context otherwise requires, the term:
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
-The Regional Rail Reorganization Act of 1973, referred to in par. (5), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended. Title III of the Regional Rail Reorganization Act of 1973 is classified generally to subchapter III (§ 741 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in par. (5), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985. Title III of the Regional Rail Reorganization Act of 1973 is classified generally to subchapter III (§ 741 et seq.) of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
 
 #### Codification
 In par. (1), “chapter 243 of title 49” substituted for “title III of the Rail Passenger Service Act ([45 U.S.C. 541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section541&num=0&edition=prelim) et seq.)” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
@@ -146,7 +146,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in subsecs. (a) and (c), is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+This subtitle, referred to in subsecs. (a) and (c), is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
 The Conrail Privatization Act, referred to in subsecs. (a) and (c), is subtitle A (§§ 4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892. Part 2 of that Act is classified principally to subchapter II (§ 1311 et seq.) of chapter 22 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-022-conrail-privatization.md#section-1301) and Tables.
 
@@ -187,7 +187,7 @@ See [section 1341 of this title](./chapter-022-conrail-privatization.md#section-
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in subsecs. (a)(1) and (b), is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. Part 2 (§§ 1136–1142) of subtitle E enacted sections 581 to 587, 727, 744a, and 761 to 769a of this title, amended sections 601 and 741 of this title, and enacted provisions set out as a note under [section 744a of this title](./chapter-016-regional-rail-reorganization.md#section-744a). For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+This subtitle, referred to in subsecs. (a)(1) and (b), is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. Part 2 (§§ 1136–1142) of subtitle E enacted sections 581 to 587, 727, 744a, and 761 to 769a of this title, amended sections 601 and 741 of this title, and enacted provisions set out as a note under [section 744a of this title](./chapter-016-regional-rail-reorganization.md#section-744a). For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
 
 <a id="section-1107"></a>
@@ -209,7 +209,7 @@ Section, Pub. L. 97–35, title XI, § 1154, Aug. 13, 1981, 95 Stat. 677, provid
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, referred to in subsec. (c), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 151 of this title](./chapter-008-railway-labor.md#section-151) and Tables.
+The Railway Labor Act, referred to in subsec. (c), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 151 of this title](./chapter-008-railway-labor.md#section-151) and Tables.
 
 
 <a id="section-1109"></a>
@@ -220,7 +220,7 @@ Any cost reductions resulting from the provisions of or the amendments made by t
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+This subtitle, referred to in text, is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, known as the Northeast Rail Service Act of 1981. For complete classification of this subtitle to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
 Chapter 107 of title 49, referred to in text, was omitted and a new chapter 107 enacted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 804, 809.
 
@@ -258,7 +258,7 @@ Section, Pub. L. 97–35, title XI, § 1163, Aug. 13, 1981, 95 Stat. 685; Pub. L
 ### Statutory Notes
 
 #### References in Text
-Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 1995—Subsecs. (a), (b). Pub. L. 104–88 substituted “section 11324 or 11325” for “section 11344 or 11345”.
@@ -321,20 +321,18 @@ Section is comprised of subsec. (b) of section 1167 of Pub. L. 97–35. Subsec. 
 
 <a id="section-1116"></a>
 ## § 1116. Applicability of other laws
-**(a)** The provisions of chapters 5 and 7 of title 5 (popularly known as the Administrative Procedure Act and including provisions popularly known as the Government in the Sunshine Act), the Federal Advisory Committee Act, section 102(2)(C) of the National Environmental Policy Act of 1969 [[42 U.S.C. 4332(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim)], division A of subtitle III of title 54, and [section 303 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section303&num=0&edition=prelim) are inapplicable to actions taken in negotiating, approving, or implementing service transfers under title IV of the Regional Rail Reorganization Act of 1973 [[45 U.S.C. 761](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section761&num=0&edition=prelim) et seq.] 11 See References in Text note below. and to the implementation of the sale of the interest of the United States in Conrail under the Conrail Privatization Act [[45 U.S.C. 1301](./chapter-022-conrail-privatization.md#section-1301) et seq.].
+**(a)** The provisions of chapters 5 and 7 of title 5 (popularly known as the Administrative Procedure Act and including provisions popularly known as the Government in the Sunshine Act), chapter 10 of title 5, section 102(2)(C) of the National Environmental Policy Act of 1969 [[42 U.S.C. 4332(2)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim)], division A of subtitle III of title 54, and [section 303 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section303&num=0&edition=prelim) are inapplicable to actions taken in negotiating, approving, or implementing service transfers under title IV of the Regional Rail Reorganization Act of 1973 [[45 U.S.C. 761](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section761&num=0&edition=prelim) et seq.] 11 See References in Text note below. and to the implementation of the sale of the interest of the United States in Conrail under the Conrail Privatization Act [[45 U.S.C. 1301](./chapter-022-conrail-privatization.md#section-1301) et seq.].
 
 **(b)** The operation of trains by Conrail shall not be subject to the requirement of any State or local law which specifies the minimum number of crew members who must be employed in connection with the operation of such trains.
 
 ### Statutory Notes
 
 #### References in Text
-The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, as amended, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
+The Administrative Procedure Act, referred to in subsec. (a), is act June 11, 1946, ch. 324, 60 Stat. 237, which was classified to sections 1001 to 1011 of former title 5 and which was repealed and reenacted as subchapter II (§ 551 et seq.) of chapter 5, and chapter 7 (§ 701 et seq.), of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted [section 552b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim), amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, set out in the Appendix to Title 5, and [section 410 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section410&num=0&edition=prelim), Postal Service, and enacted provisions set out as notes under [section 552b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 552b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) and Tables.
+The Government in the Sunshine Act, referred to in subsec. (a), is Pub. L. 94–409, Sept. 13, 1976, 90 Stat. 1241, which enacted [section 552b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim), amended sections 551, 552, 556, and 557 of Title 5, section 10 of Pub. L. 92–463, formerly set out in the Appendix to Title 5, and [section 410 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section410&num=0&edition=prelim), Postal Service, and enacted provisions set out as notes under [section 552b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 552b of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
-The Regional Rail Reorganization Act of 1973, referred to in subsec. (a), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended. Title IV of the Regional Rail Reorganization Act of 1973 was classified generally to subchapter IV (§ 761 et seq.) of chapter 16 of this title, and was repealed by Pub. L. 99–509, title IV, § 4033(a)(1), Oct. 21, 1986, 100 Stat. 1908. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsec. (a), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985. Title IV of the Regional Rail Reorganization Act of 1973 was classified generally to subchapter IV (§ 761 et seq.) of chapter 16 of this title, and was repealed by Pub. L. 99–509, title IV, § 4033(a)(1), Oct. 21, 1986, 100 Stat. 1908. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
 
 The Conrail Privatization Act, referred to in subsec. (a), is subtitle A (§§ 4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§ 1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-022-conrail-privatization.md#section-1301) and Tables.
 
@@ -342,6 +340,8 @@ The Conrail Privatization Act, referred to in subsec. (a), is subtitle A (§§ 4
 In subsec. (a), “[section 303 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section303&num=0&edition=prelim)” substituted for “section 4(f) of the Department of Transportation Act of 1966 [[49 U.S.C. 1653(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1653/f&num=0&edition=prelim)]” on authority of Pub. L. 97–449, § 6(b), Jan. 12, 1983, 96 Stat. 2443, the first section of which enacted subtitle I (§ 101 et seq.) and chapter 31 (§ 3101 et seq.) of subtitle II of Title 49, Transportation.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act,”.
+
 2014—Subsec. (a). Pub. L. 113–287, which directed substitution of “division A of subtitle III of title 54” for “the National Historic Preservation Act”, was executed by making the substitution for “the National Historic Preservation Act of 1966” to reflect the probable intent of Congress.
 
 1986—Subsec. (a). Pub. L. 99–509 inserted “and to the implementation of the sale of the interest of the United States in Conrail under the Conrail Privatization Act”.

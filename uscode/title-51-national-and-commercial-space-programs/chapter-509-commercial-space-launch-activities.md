@@ -597,7 +597,7 @@ Subsec. (c). Pub. L. 105–303, § 102(a)(5)(E), substituted “Preventing Launc
 
   (C) whether the areas identified in the reports under paragraph (5) are appropriate for regulatory action, or further development of voluntary industry consensus standards, considering the progress evaluated in subparagraphs (A) and (B) of this paragraph.
 
-(9) **Learning period.—** — Beginning on October 1, 2023, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
+(9) **Learning period.—** — Beginning on January 1, 2025, the Secretary may propose regulations under this subsection without regard to subparagraphs (C) and (D) of paragraph (2). The development of any such regulations shall take into consideration the evolving standards of the commercial space flight industry as identified in the reports published under paragraphs (5), (6), and (7).
 
 (10) **Rule of construction.—** — Nothing in this subsection shall be construed to limit the authority of the Secretary to issue requirements or regulations to protect the public health and safety, safety of property, national security interests, and foreign policy interests of the United States.
 
@@ -629,6 +629,14 @@ The date of enactment of the Commercial Space Launch Amendments Act of 2004, ref
 The date of enactment of the SPACE Act of 2015, referred to in subsec. (c)(6), is the date of enactment of title I of Pub. L. 114–90, which was approved Nov. 25, 2015.
 
 #### Amendments
+2024—Subsec. (c)(9). Pub. L. 118–63 substituted “January 1, 2025” for “May 11, 2024”.
+
+Pub. L. 118–41 substituted “May 11, 2024” for “March 9, 2024”.
+
+2023—Subsec. (c)(9). Pub. L. 118–34 substituted “March 9, 2024” for “January 1, 2024”.
+
+Pub. L. 118–15 substituted “January 1, 2024” for “October 1, 2023”.
+
 2015—Subsec. (a)(2). Pub. L. 114–90, § 112(l)(1), substituted “crew, government astronauts, and space flight participants” for “crews and space flight participants”.
 
 Subsec. (b)(2)(D). Pub. L. 114–90, § 112(l)(2), substituted “crew, government astronauts, or space flight participants” for “crew or space flight participants”.

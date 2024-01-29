@@ -60,7 +60,7 @@ Pub. L. 110–417, [div. A], title V, § 597, Oct. 14, 2008, 122 Stat. 4479, as 
 
 (2) If a member of the uniformed services selected to participate in the program as a medical student has prior active service in a pay grade and with years of service credited for pay that would entitle the member, if the member remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the member shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the member shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the member shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after the conclusion of such participation, on which the basic pay for the member in the member’s actual grade and years of service credited for pay exceeds the amount of basic pay to which the member is entitled based on the member’s former grade and years of service.
 
-**(d)** Except when serving on active duty pursuant to subsection (c), a member of the program shall be entitled to a stipend at a monthly rate established by the Secretary of Defense, but not to exceed a total of $30,000 per year. The maximum annual amount of the stipend shall be increased annually by the Secretary of Defense effective on July 1 of each year by an amount (rounded to the next highest multiple of $1) equal to—
+**(d)** Except when serving on active duty pursuant to subsection (c), a member of the program shall be entitled to a stipend at a monthly rate established by the Secretary of Defense, but not to exceed a total of $50,000 per year. The maximum annual amount of the stipend shall be increased annually by the Secretary of Defense effective on July 1 of each year by an amount (rounded to the next highest multiple of $1) equal to—
 
 (1) the amount of such stipend (as previously adjusted (if at all)), multiplied by
 
@@ -69,6 +69,8 @@ Pub. L. 110–417, [div. A], title V, § 597, Oct. 14, 2008, 122 Stat. 4479, as 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 substituted “$50,000” for “$30,000” in introductory provisions.
+
 2009—Subsec. (a). Pub. L. 111–84 designated existing provisions as par. (1), substituted “(A) in the various health professions or (B) as a health professional with specific skills to assist in providing mental health care to members of the armed forces” for “in the various health professions”, and added par. (2).
 
 2008—Subsec. (c). Pub. L. 110–181 designated existing provisions as par. (1) and added par. (2).
@@ -180,7 +182,7 @@ Pub. L. 100–180, div. A, title VII, § 711(c)(2), Dec. 4, 1987, 101 Stat. 1111
 Amendment by Pub. L. 104–201 applicable with respect to individuals who first become members of Armed Forces Health Professions Scholarship and Financial Assistance program or students of Uniformed Services University of the Health Sciences on or after Oct. 1, 1996, see section 741(c) of Pub. L. 104–201, set out as a note under [section 2114 of this title](./chapter-104-uniformed-services-university-of-the-health-sciences.md#section-2114).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Savings Provision
 For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(c) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under [section 510 of this title](./chapter-031-enlistments.md#section-510).
@@ -280,7 +282,7 @@ Subsec. (b)(5), (6). Pub. L. 106–65, § 544(2), (3), added par. (5) and redesi
 1980—Cl. (2). Pub. L. 96–513 struck out “, other than subsection (a)(7) and (8),” after “section 205”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-2127"></a>
@@ -318,7 +320,7 @@ Subsec. (e). Pub. L. 101–189, § 725(d)(1), added subsec. (e).
 Amendment by Pub. L. 109–364 effective Oct. 1, 2006, except that adjustments required by the second sentence of subsec. (e) of this section to be made in 2007 shall not be made, see section 538(d) of Pub. L. 109–364, set out as a note under [section 2121 of this title](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2121).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Reports on Implementation and on Success of Financial Assistance Program
 Pub. L. 101–189, div. A, title VII, § 725(e), Nov. 29, 1989, 103 Stat. 1479, directed Secretary of Defense, not later than Mar. 1, 1990, to submit to Congress a report describing the manner in which the new authority provided by such section 725 (amending [10 U.S.C. 2120](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2120) to 2122, 2124, and 2127) was implemented.
@@ -350,7 +352,7 @@ Pub. L. 110–181, div. A, title VI, § 623(c), Jan. 28, 2008, 122 Stat. 152, pr
 ## § 2130a. Financial assistance: nurse officer candidates
 **(a) Bonus Authorized.—**
 
-(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2022, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $20,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $10,000.
+(1) A person described in subsection (b) who, during the period beginning on November 29, 1989, and ending on December 31, 2024, executes a written agreement in accordance with subsection (c) to accept an appointment as a nurse officer may, upon the acceptance of the agreement by the Secretary concerned, be paid an accession bonus of not more than $40,000. The bonus shall be paid in periodic installments, as determined by the Secretary concerned at the time the agreement is accepted, except that the first installment may not exceed $20,000.
 
 (2) In addition to the accession bonus payable under paragraph (1), a person selected under such paragraph shall be entitled to a monthly stipend in an amount not to exceed the stipend rate in effect under [section 2121(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2121/d&num=0&edition=prelim) for each month the individual is enrolled as a full-time student in an accredited baccalaureate degree program in nursing at a civilian educational institution by the Secretary selecting the person. The continuation bonus may be paid for not more than 24 months.
 
@@ -383,6 +385,12 @@ Pub. L. 110–181, div. A, title VI, § 623(c), Jan. 28, 2008, 122 Stat. 152, pr
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a)(1). Pub. L. 118–31, § 613(b)(1), substituted “December 31, 2024” for “December 31, 2023”.
+
+Pub. L. 118–31, § 544, substituted “$40,000” for “$20,000” and “$20,000” for “$10,000”.
+
+2022—Subsec. (a)(1). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
+
 2021—Subsec. (a)(1). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
 
 Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.
@@ -494,4 +502,4 @@ Pub. L. 103–160, div. A, title VI, § 611(d), Nov. 30, 1993, 107 Stat. 1679, p
 [For provisions relating to coverage of period of lapsed authority from Oct. 1, 1992, to Oct. 23, 1992, for payment of bonuses or other special pay under this section, see section 612(j)(2) of Pub. L. 102–484, set out as a note under [section 301b of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section301b&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.]
 
 #### Accession Bonuses for Candidates Executing Agreements During 90-Day Period Beginning December 5, 1991
-Pub. L. 102–190, div. A, title VI, § 612(c)(2), Dec. 5, 1991, 105 Stat. 1376, provided that: “(A) In the case of a person described in subparagraph (B) who executes an agreement under section 2130a of such title [[10 U.S.C. 2130a](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2130a)] during the 90-day period beginning on the date of the enactment of this Act [Dec. 5, 1991], the Secretary concerned may treat such agreement as having been executed and accepted for purposes of such section on the first date on which the person would have qualified for such an agreement had the amendment made by paragraph (1) [amending this section] taken effect on October 1, 1991. “(B) A person referred to in subparagraph (A) is a person who, during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act, would have qualified for an agreement under such section had the amendment made by paragraph (1) taken effect on October 1, 1991. “(C) For purposes of this paragraph, the term ‘Secretary concerned’ has the meaning given that term in section 101(8) of such title [[10 U.S.C. 101(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/8&num=0&edition=prelim)].”
+Pub. L. 102–190, div. A, title VI, § 612(c)(2), Dec. 5, 1991, 105 Stat. 1376, provided that: “(A) In the case of a person described in subparagraph (B) who executes an agreement under section 2130a of such title [[10 U.S.C. 2130a](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2130a)] during the 90-day period beginning on the date of the enactment of this Act [Dec. 5, 1991], the Secretary concerned may treat such agreement as having been executed and accepted for purposes of such section on the first date on which the person would have qualified for such an agreement had the amendment made by paragraph (1) [amending this section] taken effect on October 1, 1991. “(B) A person referred to in subparagraph (A) is a person who, during the period beginning on October 1, 1991, and ending on the date of the enactment of this Act, would have qualified for an agreement under such section had the amendment made by paragraph (1) taken effect on October 1, 1991. “(C) For purposes of this paragraph, the term ‘Secretary concerned’ has the meaning given that term in section 101(8) of such title [now [10 U.S.C. 101(a)(9)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/9&num=0&edition=prelim)].”

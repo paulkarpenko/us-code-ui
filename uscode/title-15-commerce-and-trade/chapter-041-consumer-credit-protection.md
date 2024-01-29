@@ -29,7 +29,7 @@ Amendment by Pub. L. 94–240 effective on expiration of one year after Mar. 23,
 For effective date of amendment by Pub. L. 93–495, see section 308 of Pub. L. 93–495, set out as an Effective Date note under [section 1666 of this title](./chapter-041-consumer-credit-protection.md#section-1666).
 
 #### Effective Date
-Section 504(a) of Pub. L. 90–321 provided that this part is effective May 29, 1968.
+Pub. L. 90–321, title V, § 504(a), May 29, 1968, 82 Stat. 167, provided that: “Except as otherwise specified, the provisions of this Act [see Short Title note set out below] take effect upon enactment [May 29, 1968].”
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–174, § 1(a), May 24, 2018, 132 Stat. 1296, provided that: “This Act [see Tables for classification] may be cited as the ‘Economic Growth, Regulatory Relief, and Consumer Protection Act’.”
@@ -93,25 +93,25 @@ Pub. L. 94–240, § 1, Mar. 23, 1976, 90 Stat. 257, provided that: “This Act 
 
 Pub. L. 94–239, § 1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act [enacting [section 1691f of this title](./chapter-041-consumer-credit-protection.md#section-1691f), amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing [section 1609 of this title](./chapter-041-consumer-credit-protection.md#section-1609), enacting provisions set out as notes under this section, and repealing provision set out as a note under this section] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
 
-Section 1(c) of Pub. L. 94–239 repealed section 501 of Pub. L. 93–495, title V, Oct. 28, 1974, 88 Stat. 1521, which provided that subchapter IV of this chapter and notes set out under section 1691 were to be cited as the “Equal Credit Opportunity Act”.
-
 #### Short Title of 1974 Amendment
 Pub. L. 93–495, title III, § 301, Oct. 28, 1974, 88 Stat. 1511, provided that: “This title [enacting sections 1666 to 1666j of this title, amending this section and sections 1602, 1610, 1631, 1632, and 1637 of this title, and enacting provision set out as a note under [section 1666 of this title](./chapter-041-consumer-credit-protection.md#section-1666)] may be cited as the ‘Fair Credit Billing Act’.”
+
+Pub. L. 93–495, title V, § 501, Oct. 28, 1974, 88 Stat. 1521, which provided that title V of Pub. L. 93–495 (enacting subchapter IV of this chapter and notes set out under [section 1691 of this title](./chapter-041-consumer-credit-protection.md#section-1691)) could be cited as the “Equal Credit Opportunity Act”, was repealed by Pub. L. 94–239, § 1(c), Mar. 23, 1976, 90 Stat. 251.
 
 #### Short Title
 Pub. L. 90–321, § 1, May 29, 1968, 82 Stat. 146, provided that: “This Act [enacting this chapter, sections 891 to 896 of Title 18, Crimes and Criminal Procedure, and provisions set out as notes under this section, sections 1631 and 1671 of this title, and [section 891 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section891&num=0&edition=prelim)] may be cited as the ‘Consumer Credit Protection Act’.”
 
 Pub. L. 90–321, title I, § 101, May 29, 1968, 82 Stat. 146, provided that: “This title [enacting this subchapter] may be cited as the ‘Truth in Lending Act’.”
 
-Section 401 of title IV of Pub. L. 90–321, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title [enacting subchapter II–A of this chapter] may be cited as the ‘Credit Repair Organizations Act’.”
+Pub. L. 90–321, title IV, § 401, as added by Pub. L. 104–208, div. A, title II, § 2451, Sept. 30, 1996, 110 Stat. 3009–454, provided that: “This title [enacting subchapter II–A of this chapter] may be cited as the ‘Credit Repair Organizations Act’.”
 
-Section 601 of title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128, as amended by Pub. L. 108–159, title VIII, § 811(a), Dec. 4, 2003, 117 Stat. 2011, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Fair Credit Reporting Act’.”
+Pub. L. 90–321, title VI, § 601, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1128, as amended by Pub. L. 108–159, title VIII, § 811(a), Dec. 4, 2003, 117 Stat. 2011, provided that: “This title [enacting subchapter III of this chapter] may be cited as the ‘Fair Credit Reporting Act’.”
 
-Section 709 of title VII of Pub. L. 90–321, as added by section 1(b) of Pub. L. 94–239, Mar. 23, 1976, 90 Stat. 251, provided that: “This title [enacting subchapter IV of this chapter and notes set out under [section 1691 of this title](./chapter-041-consumer-credit-protection.md#section-1691)] may be cited as the ‘Equal Credit Opportunity Act’.”
+Pub. L. 90–321, title VII, § 709, as added by Pub. L. 94–239, § 1(b), Mar. 23, 1976, 90 Stat. 251, provided that: “This title [enacting subchapter IV of this chapter and notes set out under [section 1691 of this title](./chapter-041-consumer-credit-protection.md#section-1691)] may be cited as the ‘Equal Credit Opportunity Act’.”
 
-Section 801 of title VIII of Pub. L. 90–321, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, provided that: “This title [enacting subchapter V of this chapter] may be cited as the ‘Fair Debt Collection Practices Act’.”
+Pub. L. 90–321, title VIII, § 801, as added by Pub. L. 95–109, Sept. 20, 1977, 91 Stat. 874, provided that: “This title [enacting subchapter V of this chapter] may be cited as the ‘Fair Debt Collection Practices Act’.”
 
-Section 901 of title IX of Pub. L. 90–321, as added Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, provided that: “This title [enacting subchapter VI of this chapter] may be cited as the ‘Electronic Fund Transfer Act’.”
+Pub. L. 90–321, title IX, § 901, as added by Pub. L. 95–630, title XX, § 2001, Nov. 10, 1978, 92 Stat. 3728, provided that: “This title [enacting subchapter VI of this chapter] may be cited as the ‘Electronic Fund Transfer Act’.”
 
 #### Severability
 Pub. L. 90–321, title V, § 501, May 29, 1968, 82 Stat. 167, provided that: “If a provision enacted by this Act [see Short Title note above], is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in one or more of its applications, the provision remains in effect in all valid applications that are severable from the invalid application or applications.”

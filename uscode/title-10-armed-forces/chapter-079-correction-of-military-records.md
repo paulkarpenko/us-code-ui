@@ -110,7 +110,9 @@ Pub. L. 105–261, div. A, title V, § 541, Oct. 17, 1998, 112 Stat. 2019, provi
 
 (4) The number and disposition of claims decided during the calendar quarter preceding the calendar quarter in which such information is made available in which sexual assault is alleged to have contributed, whether in whole or in part, to the original characterization of the discharge or release of the former member.
 
-**(j)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
+**(j)** For a recommendation to award or upgrade a military decoration or award submitted pursuant to [section 1130 of this title](./chapter-057-decorations-and-awards.md#section-1130), a board determination in favor of the claimant shall allow such a recommendation to proceed, and an award or upgrade to be made by the applicable award authority, without regard to the statutory time limitation contained in section 7274, section 8298, or [section 9274 of this title](./chapter-937-decorations-and-awards.md#section-9274), as the case may be.
+
+**(k)** In this section, the term “military record” means a document or other record that pertains to (1) an individual member or former member of the armed forces, or (2) at the discretion of the Secretary of the military department concerned, any other military matter affecting a member or former member of the armed forces, an employee or former employee of that military department, or a dependent or current or former spouse of any such person. Such term does not include records pertaining to civilian employment matters (such as matters covered by title 5 and chapters 81, 83, 87, 108, 747, 855, 857, 871, and 947 of this title).
 
 ### Statutory Notes
 
@@ -143,6 +145,8 @@ In subsection (e), the words “No payment may be made under this section” are
 The Uniform Code of Military Justice (Public Law 506 of the 81st Congress), referred to in subsec. (f), is act May 5, 1950, ch. 169, § 1, 64 Stat. 107, which was classified to chapter 22 (§ 551 et seq.) of Title 50, War and National Defense, and was repealed and reenacted as chapter 47 (§ 801 et seq.) of this title by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641, the first section of which enacted this title.
 
 #### Amendments
+2022—Subsecs. (j), (k). Pub. L. 117–263 added subsec. (j) and redesignated former subsec. (j) as (k).
+
 2021—Subsec. (c)(1). Pub. L. 116–283 substituted “Marine Corps, Space Force,” for “Marine Corps,”.
 
 2019—Subsec. (a)(4). Pub. L. 116–92, § 523(b)(2)(A), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Except when procured by fraud, a correction under this section is final and conclusive on all officers of the United States.”
@@ -210,10 +214,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 110–417, [div. A], title V, § 592(c), Oct. 14, 2008, 122 Stat. 4475, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to any sentence of a court-martial set aside by a Corrections Board on or after October 1, 2007, when the Corrections Board includes an order or recommendation for the payment of a claim for the loss of pay, allowances, compensation, emoluments, or other pecuniary benefits, or for the repayment of a fine or forfeiture, that arose as a result of the conviction. In this subsection, the term ‘Corrections Board’ has the meaning given that term in [section 1557 of title 10](./chapter-079-correction-of-military-records.md#section-1557), United States Code.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
+
+#### Review of Titling and Indexing Practices of the Army and Certain Other Organizations
+Pub. L. 117–263, div. A, title V, § 549, Dec. 23, 2022, 136 Stat. 2587, provided that: “(a) Review of Titling an [sic] Indexing Decisions.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of the Army shall review the case file of each member or former member of the Army, the Army Reserve, or the Army National Guard who was titled or indexed in connection with the Guard Recruiting Assistance Program, the Army Reserve Recruiting Assistance Program, or any related activity to determine the appropriateness of the titling or indexing decision that was made with respect to such member or former member. “(b) Factors to Be Considered.—In reviewing a titling or indexing decision under subsection (a), the Secretary of the Army shall consider—“(1) the likelihood that the member or former member to whom the decision pertains will face future criminal prosecution or other adverse action on the basis of the facts in the record at the time of the review; “(2) the appropriate evidentiary standard to apply to the review of the decision; and “(3) such other circumstances or factors as the Secretary determines are in the interest of equity and fairness. “(c) Notification and Appeal.—“(1) In general.—Upon the completion of each review under subsection (a), the Secretary of the Army shall notify the member or former member concerned of such review, the disposition of the relevant instance of titling or indexing, and the mechanisms the member or former member may pursue to seek correction, removal, or expungement of that instance of titling or indexing. “(2) Notification of next of kin.—In a case in which a member or former member required to be notified under paragraph (1) is deceased, the Secretary of the Army shall provide the notice required under such paragraph to the primary next of kin of the member or former member. “(d) Actions by the Secretary of the Army.—If the Secretary of the Army determines that correction, removal, or expungement of an instance of titling or indexing is appropriate after considering the factors under subsection (b), the Secretary of the Army may request that the name, personally identifying information, and other information relating to the individual to whom the titling or indexing pertains be corrected in, removed from, or expunged from, the following:“(1) A law enforcement or criminal investigative report of the Department of Defense or any component of the Department. “(2) An index item or entry in the Department of Defense Central Index of Investigations (DCII). “(3) Any other record maintained in connection with a report described in paragraph (1), or an index item or entry described in paragraph (2), in any system of records, records database, records center, or repository maintained by or on behalf of the Department, including entries in the Federal Bureau of Investigation’s Interstate Identification Index or any successor system. “(e) Report of Secretary of the Army.—Not later than 180 days after the completion of the review required by subsection (a), the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review. The report shall include the following:“(1) The total number of instances of titling and indexing reviewed under such subsection. “(2) The number of cases in which action was taken to correct, remove, or expunge an instance of titling or indexing. “(3) The number of members and former members who remain titled after the conclusion of the review. “(4) The number of members and former members who remain indexed after the conclusion of the review. “(5) A brief description of the reasons the members and former members counted under paragraphs (3) and (4) remain titled or indexed. “(6) Such other matters as the Secretary determines appropriate. “(f) Secretary of Defense Review and Report.—“(1) Review.—The Secretary of Defense shall conduct a review [of] the titling and indexing practices of the criminal investigative organizations of the Armed Forces. Such review shall include—“(A) an assessment of the practices of titling and indexing and the continued relevance of such practices to the operation of such criminal investigative organizations; “(B) an evaluation of the suitability of the evidentiary requirements and related practices for titling and indexing in effect at the time of the review; and “(C) the development of recommendations, as appropriate, to improve the consistency, accuracy, and utility of the titling and indexing processes across such criminal investigative organizations. “(2) Report.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the results of the review conducted under paragraph (1). “(g) Definitions.—In this section:“(1) The term ‘titling’ means the practice of identifying an individual as the subject of a criminal investigation [in] the records of a military criminal investigative organization and storing such information in a database or other records system. “(2) The term ‘indexing’ means the practice of submitting an individual’s name or other personally identifiable information to the Federal Bureau of Investigation’s Interstate Identification Index, or any successor system.”
 
 #### Removal of Personally Identifying and Other Information of Certain Persons From Investigative Reports, the Department of Defense Central Index of Investigations, and Other Records and Databases
 Pub. L. 116–283, div. A, title V, § 545, Jan. 1, 2021, 134 Stat. 3613, provided that: “(a) Policy and Process Required.—Not later than October 1, 2021, the Secretary of Defense shall establish and maintain a policy and process through which any covered person may request that the person’s name, personally identifying information, and other information pertaining to the person shall, in accordance with subsection (c), be corrected in, or expunged or otherwise removed from, the following:“(1) A law enforcement or criminal investigative report of the Department of Defense or any component of the Department. “(2) An index item or entry in the Department of Defense Central Index of Investigations (DCII). “(3) Any other record maintained in connection with a report described in paragraph (1), or an index item or entry described in paragraph (2), in any system of records, records database, records center, or repository maintained by or on behalf of the Department. “(b) Covered Persons.—For purposes of this section, a covered person is any person whose name was placed or reported, or is maintained—“(1) in the subject or title block of a law enforcement or criminal investigative report of the Department of Defense (or any component of the Department); “(2) as an item or entry in the Department of Defense Central Index of Investigations; or “(3) in any other record maintained in connection with a report described in paragraph (1), or an index item or entry described in paragraph (2), in any system of records, records database, records center, or repository maintained by or on behalf of the Department. “(c) Elements.—The policy and process required by subsection (a) shall include the following elements:“(1) Basis for correction or expungement.—That the name, personally identifying information, and other information of a covered person shall be corrected in, or expunged or otherwise removed from, a report, item or entry, or record described in paragraphs (1) through (3) of subsection (a) in the following circumstances:“(A) Probable cause did not or does not exist to believe that the offense for which the person’s name was placed or reported, or is maintained, in such report, item or entry, or record occurred, or insufficient evidence existed or exists to determine whether or not such offense occurred. “(B) Probable cause did not or does not exist to believe that the person actually committed the offense for which the person’s name was so placed or reported, or is so maintained, or insufficient evidence existed or exists to determine whether or not the person actually committed such offense. “(C) Such other circumstances, or on such other bases, as the Secretary may specify in establishing the policy and process, which circumstances and bases may not be inconsistent with the circumstances and bases provided by subparagraphs (A) and (B). “(2) Considerations.—While not dispositive as to the existence of a circumstance or basis set forth in paragraph (1), the following shall be considered in the determination whether such circumstance or basis applies to a covered person for purposes of this section:“(A) The extent or lack of corroborating evidence against the covered person concerned with respect to the offense at issue. “(B) Whether adverse administrative, disciplinary, judicial, or other such action was initiated against the covered person for the offense at issue. “(C) The type, nature, and outcome of any action described in subparagraph (B) against the covered person. “(3) Procedures.—The policy and process required by subsection (a) shall include procedures as follows:“(A) Procedures under which a covered person may appeal a determination of the applicable component of the Department of Defense denying, whether in whole or in part, a request for purposes of subsection (a). “(B) Procedures under which the applicable component of the Department will correct, expunge or remove, take other appropriate action on, or assist a covered person in so doing, any record maintained by a person, organization, or entity outside of the Department to which such component provided, submitted, or transmitted information about the covered person, which information has or will be corrected in, or expunged or removed from, Department records pursuant to this section. “(C) The timeline pursuant to which the Department, or a component of the Department, as applicable, will respond to each of the following:“(i) A request pursuant to subsection (a). “(ii) An appeal under the procedures required by subparagraph (A). “(iii) A request for assistance under the procedures required by subparagraph (B). “(D) Mechanisms through which the Department will keep a covered person apprised of the progress of the Department on a covered person’s request or appeal as described in subparagraph (C). “(d) Applicability.—The policy and process required to be developed by the Secretary under subsection (a) shall not be subject to the notice and comment rulemaking requirements under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code. “(e) Report.—Not later than October 1, 2021, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the actions taken to carry out this section, including a comprehensive description of the policy and process developed and implemented by the Secretary under subsection (a).”
@@ -320,6 +327,9 @@ Subsec. (e). Pub. L. 113–291, § 521(b)(2), added subsec. (e).
 
 #### Effective Date
 Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+
+#### Reviews of Characterization of Administrative Discharges of Certain Members on the Basis of Failure To Receive COVID-19 Vaccine
+Pub. L. 118–31, div. A, title V, § 527, Dec. 22, 2023, 137 Stat. 255, provided that: “(a) Mandatory Review.—A board established under [section 1553 of title 10](./chapter-079-correction-of-military-records.md#section-1553), United States Code, shall grant a request pursuant to such section to review the characterization of a discharge or dismissal of a former member of a covered Armed Force if such discharge or dismissal was solely based on the failure of such former member to obey a lawful order to receive a vaccine for COVID-19. “(b) Covered Armed Force Defined.—In this section, the term ‘covered Armed Force’ means the Army, Navy, Marine Corps, Air Force, Coast Guard, or Space Force.”
 
 #### Discharge Review Boards
 Pub. L. 116–92, div. A, title V, § 525(b), Dec. 20, 2019, 133 Stat. 1356, provided that: “(1) In general.—Each Secretary concerned shall develop and provide training for members of discharge review boards under [section 1553 of title 10](./chapter-079-correction-of-military-records.md#section-1553), United States Code, that are under the jurisdiction of such Secretary on each of the following:“(A) Sexual trauma. “(B) Intimate partner violence. “(C) Spousal abuse. “(D) The various responses of individuals to trauma. “(2) Uniformity of training.—The Secretary of Defense and the Secretary of Homeland Security shall jointly ensure that the training developed and provided pursuant to this subsection is, to the extent practicable, uniform. “(3) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ has the meaning given that term in [section 101(a)(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/9&num=0&edition=prelim), United States Code.”
@@ -512,11 +522,13 @@ Subsec. (d)(2), (3). Pub. L. 115–91, § 522(c)(4)(C), substituted “this titl
 
 (2) with respect to the Department of the Navy, the Navy Council of Personnel Boards and the Board for Correction of Naval Records; and
 
-(3) with respect to the Department of the Air Force, the Air Force Review Boards Agency.
+(3) with respect to the Department of the Air Force, the Department of the Air Force Review Boards Agency.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (c)(3). Pub. L. 118–31 inserted “the Department of” after “Air Force,”.
+
 1999—Subsec. (c)(2). Pub. L. 106–65 inserted “the Navy Council of Personnel Boards and” after “Department of the Navy,”.
 
 #### Effective Date
@@ -525,7 +537,7 @@ Pub. L. 105–261, div. A, title V, § 542(b), Oct. 17, 1998, 112 Stat. 2020, pr
 
 <a id="section-1556"></a>
 ## § 1556. Ex parte communications prohibited
-**(a) In General.—** The Secretary of each military department shall ensure that an applicant seeking corrective action by the Army Review Boards Agency, the Air Force Review Boards Agency, or the Board for Correction of Naval Records, as the case may be, is provided a copy of all correspondence and communications (including summaries of verbal communications) to or from the agency or board, or a member of the staff of the agency or board, with an entity or person outside the agency or board that pertain directly to the applicant’s case or have a material effect on the applicant’s case.
+**(a) In General.—** The Secretary of each military department shall ensure that an applicant seeking corrective action by the Army Review Boards Agency, the Department of the Air Force Review Boards Agency, or the Board for Correction of Naval Records, as the case may be, is provided a copy of all correspondence and communications (including summaries of verbal communications) to or from the agency or board, or a member of the staff of the agency or board, with an entity or person outside the agency or board that pertain directly to the applicant’s case or have a material effect on the applicant’s case.
 
 **(b) Exceptions.—** Subsection (a) does not apply to the following:
 
@@ -540,6 +552,9 @@ Pub. L. 105–261, div. A, title V, § 542(b), Oct. 17, 1998, 112 Stat. 2020, pr
 (5) Any military record that is (or may be) provided to the applicant by the Secretary of the military department or other source.
 
 ### Statutory Notes
+
+#### Amendments
+2023—Subsec. (a). Pub. L. 118–31 inserted “the Department of” after “the Army Review Boards Agency,”.
 
 #### Effective Date
 Pub. L. 105–261, div. A, title V, § 543(b), Oct. 17, 1998, 112 Stat. 2021, provided that: “[Section 1556 of title 10](./chapter-079-correction-of-military-records.md#section-1556), United States Code, as added by subsection (a), shall apply with respect to correspondence and communications made 60 days or more after the date of the enactment of this Act [Oct. 17, 1998].”
@@ -563,11 +578,13 @@ Pub. L. 105–261, div. A, title V, § 543(b), Oct. 17, 1998, 112 Stat. 2021, pr
 
 (2) with respect to the Department of the Navy, the Board for Correction of Naval Records; and
 
-(3) with respect to the Department of the Air Force, the Air Force Board for Correction of Military Records.
+(3) with respect to the Department of the Air Force, the Department of the Air Force Board for Correction of Military Records.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (f)(3). Pub. L. 118–31 inserted “the Department of” after “Air Force,”.
+
 2004—Subsec. (b). Pub. L. 108–375 substituted “Final” for “Effective October 1, 2002, final”.
 
 1999—Subsec. (e). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
@@ -584,19 +601,19 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
 (1) **Special board.—**
 
-  (A) The term “special board” means a board that the Secretary of a military department convenes under any authority to consider whether to recommend a person for appointment, enlistment, reenlistment, assignment, promotion, retention, separation, retirement, or transfer to inactive status in a reserve component instead of referring the records of that person for consideration by a previously convened selection board which considered or should have considered that person.
+  (A) The term “special board” means a board that the Secretary of a military department convenes under any authority to consider whether to recommend a person for appointment, enlistment, reenlistment, assignment, promotion, retention, separation, retirement, or transfer to inactive status in a reserve component, or the Space Force, instead of referring the records of that person for consideration by a previously convened selection board which considered or should have considered that person.
 
   (B) Such term includes a board for the correction of military records convened under [section 1552 of this title](./chapter-079-correction-of-military-records.md#section-1552), if designated as a special board by the Secretary concerned.
 
-  (C) Such term does not include a promotion special selection board convened under section 628 or 14502 of this title.
+  (C) Such term does not include a promotion special selection board convened under section 628, 14502, or 20252 of this title.
 
 (2) **Selection board.—**
 
-  (A) The term “selection board” means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
+  (A) The term “selection board” means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, 14507,11 So in original. Probably should be “14705,”. See 2023 Amendment note below. or 20403 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component, or the Space Force, for the purpose of reducing the number of persons serving in the armed forces.
 
   (B) Such term does not include any of the following:
 
-    (i) A promotion board convened under section 573(a), 611(a), or 14101(a) of this title.
+    (i) A promotion board convened under section 573(a), 611(a), 14101(a), or 20211 of this title.
 
     (ii) A special board.
 
@@ -604,27 +621,27 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
     (iv) A board for the correction of military records convened under [section 1552 of this title](./chapter-079-correction-of-military-records.md#section-1552).
 
-(3) **Involuntarily board-separated.—** — The term “involuntarily board-separated” means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, as a result of a recommendation of a selection board.
+(3) **Involuntarily board-separated.—** — The term “involuntarily board-separated” means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force,,22 So in original. as a result of a recommendation of a selection board.
 
 **(c) Relief Associated With Correction of Certain Actions.—**
 
-(1) The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person’s military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component.
+(1) The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person’s military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component, or the Space Force,.2
 
 (2)
 
   (A) A person referred to in paragraph (1) shall, with that person’s consent, be restored to the same status, rights, and entitlements (less appropriate offsets against back pay and allowances) in that person’s armed force as the person would have had if the person had not been selected to be involuntarily board-separated as a result of an action the record of which is corrected under subsection (a). An action under this subparagraph is subject to subparagraph (B).
 
-  (B) Nothing in subparagraph (A) may be construed to permit a person to be on active duty or in an active status in a reserve component after the date on which the person would have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component if the person had not been selected to be involuntarily board-separated in an action of a selection board the record of which is corrected under subsection (a).
+  (B) Nothing in subparagraph (A) may be construed to permit a person to be on active duty or in an active status in a reserve component, or the Space Force, after the date on which the person would have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force, if the person had not been selected to be involuntarily board-separated in an action of a selection board the record of which is corrected under subsection (a).
 
 (3) If an involuntarily board-separated person referred to in paragraph (1) does not consent to a restoration of status, rights, and entitlements under paragraph (2), the Secretary concerned shall pay that person back pay and allowances (less appropriate offsets), and shall provide that person service credit, for the period—
 
-  (A) beginning on the date of the person’s separation, retirement, or transfer to the Retired Reserve or to inactive status in a reserve component, as the case may be; and
+  (A) beginning on the date of the person’s separation, retirement, or transfer to the Retired Reserve or to inactive status in a reserve component, or the Space Force,,2 as the case may be; and
 
   (B) ending on the earlier of—
 
     (i) the date on which the person would have been so restored under paragraph (2), as determined by the Secretary concerned; or
 
-    (ii) the date on which the person would otherwise have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, as the case may be.
+    (ii) the date on which the person would otherwise have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, or the Space Force,,2 as the case may be.
 
 **(d) Finality of Unfavorable Action.—** If a special board makes a recommendation not to correct the military records of a person regarding action taken in the case of that person on the basis of a previous report of a selection board, the action previously taken on that report shall be considered as final as of the date of the action taken on that report.
 
@@ -684,6 +701,15 @@ For termination, effective Dec. 31, 2021, of provisions in subsec. (e) of this s
 
 ### Statutory Notes
 
+#### Amendments
+2023—Pub. L. 118–31, § 1722(j)(1)(A), inserted “, or the Space Force,” after “reserve component” wherever appearing.
+
+Subsec. (b)(1)(C). Pub. L. 118–31, § 1722(j)(1)(B)(i), substituted “section 628, 14502, or 20252” for “section 628 or 14502”.
+
+Subsec. (b)(2)(A). Pub. L. 118–31, § 1722(j)(1)(B)(ii), substituted “14507, or 20403” for “or 14705”.
+
+Subsec. (b)(2)(B)(i). Pub. L. 118–31, § 1722(j)(1)(B)(iii), substituted “14101(a), or 20211” for “or 14101(a)”.
+
 #### Effective Date
 Section applicable with respect to any proceeding pending on or after Dec. 28, 2001, without regard to whether a challenge to an action of a selection board of any of the Armed Forces being considered in the proceeding was initiated before, on, or after that date, but not applicable with respect to any action commenced in a court of the United States before Dec. 28, 2001, see section 503(c) of Pub. L. 107–107, set out as an Effective Date of 2001 Amendment note under [section 628 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-628).
 
@@ -704,11 +730,13 @@ Section applicable with respect to any proceeding pending on or after Dec. 28, 2
 
 (2) with respect to the Department of the Navy, the Board for Correction of Naval Records; and
 
-(3) with respect to the Department of the Air Force, the Air Force Review Boards Agency.
+(3) with respect to the Department of the Air Force, the Department of the the 11 So in original. Air Force Review Boards Agency.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (c)(3). Pub. L. 118–31 inserted “the Department of the” after “Air Force,”.
+
 2019—Subsec. (a). Pub. L. 116–92 substituted “December 31, 2025” for “December 31, 2019” and “that agency.” for “that agency until—” and struck out pars. (1) and (2) which read as follows:
 
 “(1) the Secretary submits to Congress a report that—

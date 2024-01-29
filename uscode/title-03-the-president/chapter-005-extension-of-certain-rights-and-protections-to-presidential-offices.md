@@ -83,7 +83,7 @@ The Age Discrimination in Employment Act of 1967, referred to in par. (4), is Pu
 
 The Family and Medical Leave Act of 1993, referred to in par. (5), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat. 6, which enacted sections 60m and 60n of Title 2, The Congress, sections 6381 to 6387 of Title 5, Government Organization and Employees, and chapter 28 (§ 2601 et seq.) of Title 29, amended [section 2105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), and enacted provisions set out as notes under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2601&num=0&edition=prelim) and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in par. (6), is Pub. L. 91-596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in par. (6), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 The Employee Polygraph Protection Act of 1988, referred to in par. (8), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2001&num=0&edition=prelim) and Tables.
 
@@ -129,7 +129,7 @@ The Rehabilitation Act of 1973, referred to in par. (10), is Pub. L. 93–112, S
 
   (A) whose appointment is made by and with the advice and consent of the Senate;
 
-  (B) who is appointed to an advisory committee, as defined in section 3(2) of the Federal Advisory Committee Act; or
+  (B) who is appointed to an advisory committee, as defined in [section 1001 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim); or
 
   (C) who is a member of the uniformed services.
 
@@ -166,9 +166,10 @@ Sections 102 to 104 and 107 of the Americans with Disabilities Act of 1990, refe
 
 Sections 1977 and 1977A of the Revised Statutes, referred to in subsec. (b)(1)(B), (3)(B), are classified to sections 1981 and 1981a, respectively, of Title 42.
 
-Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (c)(1)(B), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The effective date of this chapter, referred to in subsec. (e), is Oct. 1, 1997, unless otherwise provided, see [section 471 of this title](./chapter-005-extension-of-certain-rights-and-protections-to-presidential-offices.md#section-471).
+
+#### Amendments
+2022—Subsec. (c)(1)(B). Pub. L. 117–286 substituted “[section 1001 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim);” for “section 3(2) of the Federal Advisory Committee Act;”.
 
 #### Effective Date
 Subsec. (d) of this section effective Oct. 26, 1996, see [section 471(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section471/b&num=0&edition=prelim).

@@ -14,7 +14,7 @@ When used in this chapter and for the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act May 20, 1926, ch. 347, 44 Stat. 577, as amended, known as the Railway Labor Act, which enacted this chapter and amended sections 225 and 348 of former Title 28, Judicial Code and Judiciary. Sections 225 and 348 of former Title 28 were repealed by section 39 of act June 25, 1948, ch. 646, 62 Stat. 992, section 1 of which enacted Title 28, Judiciary and Judicial Procedure. Section 225 of former Title 28 was reenacted as sections 1291 to 1294 of Title 28. For complete classification of this Act to the Code, see this section and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act May 20, 1926, ch. 347, 44 Stat. 577, known as the Railway Labor Act, which enacted this chapter and amended sections 225 and 348 of former Title 28, Judicial Code and Judiciary. Sections 225 and 348 of former Title 28 were repealed by section 39 of act June 25, 1948, ch. 646, 62 Stat. 992, section 1 of which enacted Title 28, Judiciary and Judicial Procedure. Section 225 of former Title 28 was reenacted as sections 1291 to 1294 of Title 28. For complete classification of this Act to the Code, see this section and Tables.
 
 #### Codification
 Provisions of act Aug. 13, 1940, § 2, similar to those comprising par. First of this section, limiting the term “employer” as applied to mining, etc., of coal, were formerly contained in [section 228a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section228a&num=0&edition=prelim). Provisions of section 3 of the act, similar to those comprising par. Fifth of this section, limiting the term “employee” as applied to mining, etc., of coal, were formerly contained in sections 228a, 261, and 351 of this title, and section 1532 of former Title 26, Internal Revenue Code, 1939.
@@ -73,10 +73,10 @@ The purposes of the chapter are: (1) To avoid any interruption to commerce or to
 ### Statutory Notes
 
 #### Codification
-Section is comprised of the first sentence of section 2 of act May 20, 1926. The remainder of section 2 of act May 20, 1926, is classified to [section 152 of this title](./chapter-008-railway-labor.md#section-152).
+Section is comprised of the first sentence of section 2 of act May 20, 1926, as added in the general amendment of section 2 by act June 21, 1934. The remainder of section 2 of act May 20, 1926, is classified to [section 152 of this title](./chapter-008-railway-labor.md#section-152).
 
 #### Amendments
-1934—Act June 21, 1934, reenacted provisions comprising this section without change.
+1934—Act June 21, 1934, amended section 2 of act May 20, 1926, generally, adding the text of this section.
 
 
 <a id="section-152"></a>
@@ -305,7 +305,7 @@ As originally enacted, pars. Fifth and Sixth contained references to the “circ
 #### References in Text
 [Section 590(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section590/h&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.
 
-The Railroad Unemployment Insurance Act, referred to in subsec. (i), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsec. (i), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
 
 #### Effective Date
 Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as a note under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101).
@@ -403,6 +403,11 @@ Section, act Feb. 11, 1927, ch. 104, § 1, 44 Stat. 1072, related to advertiseme
 (2) a description of the extent to which such processes are consistent with similar processes applied to other Federal or State agencies with jurisdiction over labor relations, and an evaluation of any justifications for any discrepancies between the processes of the Mediation Board and such similar Federal or State processes.
 
 **(c) Appropriate congressional committee defined** In this section, the term “appropriate congressional committees” means the Committee on Transportation and Infrastructure of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
+
+### Statutory Notes
+
+#### Biannual GAO Audit
+Pub. L. 118–63, title II, § 218(o), May 16, 2024, 138 Stat. 1057, provided that: “Any provision of the FAA Modernization and Reform Act of 2012 (Public Law 112–95) [see Short Title of 2012 Amendment note set out under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation], including any amendment made by such Act, that requires the Comptroller General [of the United States] to conduct an audit (including a recurring audit) shall have no force or effect.”
 
 
 <a id="section-181"></a>

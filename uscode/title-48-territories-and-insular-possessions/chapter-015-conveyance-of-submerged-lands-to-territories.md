@@ -162,7 +162,7 @@ Barack Obama.
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (b), and (d), is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, as amended, which enacted sections 1705 to 1708 of this title, amended [section 1545 of this title](./chapter-012-virgin-islands-1954.md#section-1545), and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b), and (d), is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, which enacted sections 1705 to 1708 of this title, amended [section 1545 of this title](./chapter-012-virgin-islands-1954.md#section-1545), and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2013—Subsecs. (a), (c). Pub. L. 113–34 inserted “the Commonwealth of the Northern Mariana Islands,” after “Guam,”.
@@ -194,7 +194,7 @@ No person shall be denied access to, or any of the benefits accruing from, the l
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, as amended, which enacted sections 1705 to 1708 of this title, amended [section 1545 of this title](./chapter-012-virgin-islands-1954.md#section-1545), and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 93–435, Oct. 5, 1974, 88 Stat. 1210, which enacted sections 1705 to 1708 of this title, amended [section 1545 of this title](./chapter-012-virgin-islands-1954.md#section-1545), and repealed sections 1701 to 1703 of this title. For complete classification of this Act to the Code, see Tables.
 
 The amendment made by this Act, referred to in text, means the amendment made by section 3 of Pub. L. 93–435 to [section 1545(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1545/b&num=0&edition=prelim).
 

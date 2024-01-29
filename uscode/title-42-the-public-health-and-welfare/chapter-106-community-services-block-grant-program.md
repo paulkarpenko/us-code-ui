@@ -620,8 +620,6 @@ A prior section 678 of Pub. L. 97–35 was classified to [section 9907 of this t
 ### Statutory Notes
 
 #### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -722,8 +720,6 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 ### Statutory Notes
 
 #### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -859,14 +855,16 @@ A prior section 679 of Pub. L. 97–35 was classified to [section 9908 of this t
 A prior section 680 of Pub. L. 97–35 was classified to [section 9909 of this title](./chapter-106-community-services-block-grant-program.md#section-9909), prior to the general amendment of this chapter by Pub. L. 105–285.
 
 #### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
-Pub. L. 117–103, div. H, title II, Mar. 15, 2022, 136 Stat. 460, provided in part: “That the Secretary [of Health and Human Services] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act [Community Services Block Grant Act, [42 U.S.C. 9921](./chapter-106-community-services-block-grant-program.md#section-9921)] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act [[42 U.S.C. 9921(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9921/a/2/A&num=0&edition=prelim)]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
+Pub. L. 118–47, div. D, title II, Mar. 23, 2024, 138 Stat. 666, provided in part: “That the Secretary [of Health and Human Services] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act [Community Services Block Grant Act, [42 U.S.C. 9921](./chapter-106-community-services-block-grant-program.md#section-9921)] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act [[42 U.S.C. 9921(a)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9921/a/2/A&num=0&edition=prelim)]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. H, title II, Dec. 29, 2022, 136 Stat. 4873.
+
+Pub. L. 117–103, div. H, title II, Mar. 15, 2022, 136 Stat. 460.
 
 Pub. L. 116–260, div. H, title II, Dec. 27, 2020, 134 Stat. 1584.
 
@@ -965,8 +963,6 @@ Pub. L. 106–113, div. B, § 1000(a)(4) [title II], Nov. 29, 1999, 113 Stat. 15
 A prior section 681 of Pub. L. 97–35 was classified to [section 9910 of this title](./chapter-106-community-services-block-grant-program.md#section-9910), prior to the general amendment of this chapter by Pub. L. 105–285.
 
 #### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 

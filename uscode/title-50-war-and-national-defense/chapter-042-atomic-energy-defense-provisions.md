@@ -2,7 +2,7 @@
 title: 50
 chapter: '42'
 heading: ATOMIC ENERGY DEFENSE PROVISIONS
-section_count: 162
+section_count: 160
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -226,7 +226,7 @@ Pub. L. 116–283, div. C, title XXXI, § 3113, Jan. 1, 2021, 134 Stat. 4378, as
 Pub. L. 114–328, div. C, title XXXI, § 3113, Dec. 23, 2016, 130 Stat. 2757, provided that: “(a) In General.—By not later than four years after the date of the enactment of this Act [Dec. 23, 2016], the Administrator for Nuclear Security shall, in consultation with the National Nuclear Security Administration Council established by section 4102(b) of the Atomic Energy Defense Act ([50 U.S.C. 2512(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2512/b&num=0&edition=prelim)), complete, to the extent practicable, the implementation of a common financial reporting system for the nuclear security enterprise. “(b) Elements.—The common financial reporting system implemented pursuant to subsection (a) shall include the following:“(1) Common data reporting requirements for work performed using funds of the National Nuclear Security Administration, including reporting of financial data by standardized labor categories, labor hours, functional elements, and cost elements. “(2) A common work breakdown structure for the Administration that aligns contractor work breakdown structures with the budget structure of the Administration. “(3) Definitions and methodologies for identifying and reporting costs for programs of records and base capabilities within the Administration. “(4) A capability to leverage, where appropriate, the Defense Cost Analysis Resource Center of the Office of Cost Assessment and Program Evaluation of the Department of Defense using historical costing data by the Administration. “(c) Reports.—“(1) In general.—Not later than March 1, 2017, and annually thereafter, the Administrator shall, in consultation with the National Nuclear Security Administration Council, submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on progress of the Administration toward implementing a common financial reporting system for the nuclear security enterprise as required by subsection (a). “(2) Report.—Each report under this subsection shall include the following:“(A) A summary of activities, accomplishments, challenges, benefits, and costs related to the implementation of a common financial reporting system for the nuclear security enterprise during the year preceding the year in which such report is submitted. “(B) A summary of planned activities in connection with the implementation of a common financial reporting system for the nuclear security enterprise in the year in which such report is submitted. “(C) A description of any anticipated modifications to the schedule for implementing a common financial reporting system for the nuclear security enterprise, including an update on possible risks, challenges, and costs related to such implementation. “(3) Termination.—No report is required under this subsection after the completion of the implementation of a common financial reporting system for the nuclear security enterprise. “(d) Nuclear Security Enterprise Defined.—In this section, the term ‘nuclear security enterprise’ has the meaning given that term in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501)).”
 
 #### Industry Best Practices in Operations at National Nuclear Security Administration Facilities and Sites
-Pub. L. 114–328, div. C, title XXXI, § 3118, Dec. 23, 2016, 130 Stat. 2762, provided that: “(a) Committee on Industry Best Practices in Operations.—The Administrator for Nuclear Security shall establish within the National Nuclear Security Administration a committee (in this section referred to as the ‘committee’) to identify and oversee the implementation of best practices of industry in the operations of the facilities and sites of the Administration for the purposes of—“(1) improving mission performance and effectiveness; “(2) lowering costs and administrative burdens; and “(3) also both—“(A) maintaining or reducing risks; and “(B) preserving and protecting health, safety, and security. “(b) Membership.—The committee shall be composed of personnel of the Administration assigned by the Administrator to the committee as follows:“(1) The Principal Deputy Administrator for Nuclear Security, who shall serve as chair of the committee. “(2) Government personnel representing the headquarters of the Administration. “(3) Government personnel representing offices of facilities and sites of the Administration. “(4) Contractor personnel representing the national security laboratories and the nuclear weapons production facilities (as those terms are defined in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501))). “(5) Such other personnel as the Administrator considers appropriate. “(c) Duties.—The duties of the committee shall include the following:“(1) To identify and oversee the implementation of best practices of industry in the operations of the facilities and sites of the Administration for the purposes described in subsection (a). “(2) To conduct surveys of the facilities and sites of the Administration in order to assess the adoption, implementation, and use by such facilities and sites of best practices of industry described in subsection (a). “(3) To carry out such other activities consistent with the duties of the committee under this subsection as the Administrator may specify for purposes of this section. “(d) Annual Report.—“(1) In general.—Not later than 60 days after the date on which the budget of the President for a fiscal year after fiscal year 2017 is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, the Administrator shall submit to the appropriate congressional committees a report on the activities of the committee under this section during the preceding calendar year. “(2) Elements.—Each report under this subsection shall include, for the calendar year covered by such report, the following:“(A) A description of the activities of the committee. “(B) The results of the surveys undertaken pursuant to subsection (c)(2). “(C) As a result of the surveys, recommendations for modifications to the scope or applicability of regulations and orders of the Department of Energy to particular facilities and sites of the Administration in order to implement best practices of industry in the operation of such facilities and sites, including—“(i) a list of the facilities and sites at which such regulations and orders could be so modified; and “(ii) for each such facility and site, the manner in which the scope or applicability of such regulations and orders could be so modified. “(D) An assessment of the progress of the Administration in implementing best practices of industry in the operations of the facilities and sites of the Administration. “(E) An estimate of the costs to be saved as a result of the best practices of industry implemented by the Administration at the facilities and sites of the Administration, set forth by fiscal year. “(3) Appropriate congressional committees defined.—In this subsection, the term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives. “(e) Termination.—The committee shall terminate after the submittal under subsection (d) of the report required by that subsection that covers 2021.”
+Pub. L. 114–328, div. C, title XXXI, § 3118, Dec. 23, 2016, 130 Stat. 2762, authorized the Administrator for Nuclear Security to establish within the National Nuclear Security Administration a committee to identify and oversee the implementation of best practices of industry in the operations of the facilities and sites of the Administration. The Administrator would submit to the appropriate congressional committees an annual report on the activities of the committee during the preceding calendar year not later than 60 days after the date on which the budget of the President for a fiscal year after fiscal year 2017 was submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim). The committee would terminate after the submittal of the annual report that covered 2021.
 
 #### Governance and Management of Nuclear Security Enterprise
 Pub. L. 114–92, div. C, title XXXI, § 3137, Nov. 25, 2015, 129 Stat. 1213, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) correcting the longstanding problems with the governance and management of the nuclear security enterprise will require robust, personal, and long-term engagement by the President, the Secretary of Energy, the Administrator for Nuclear Security, and leaders from the appropriate congressional committees; “(2) recent and past studies of the governance and management of the nuclear security enterprise have provided a list of reasonable, practical, and actionable steps that the Secretary and the Administrator should take to make the nuclear security enterprise more efficient and more effective; and “(3) lasting and effective change to the nuclear security enterprise will require personal engagement by senior leaders, a clear plan, and mechanisms for ensuring follow-through and accountability. “(b) Implementation Plan.—“(1) Implementation action team.—(A) The Secretary and the Administrator shall jointly establish a team of senior officials from the Department of Energy and the National Nuclear Security Administration to develop and carry out an implementation plan to reform the governance and management of the nuclear security enterprise to improve the effectiveness and efficiency of the nuclear security enterprise. Such plan shall be developed and implemented in accordance with the National Nuclear Security Administration Act ([50 U.S.C. 2401](./chapter-041-national-nuclear-security-administration.md#section-2401) et seq.), the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501) et seq.), and any other provision of law. “(B) The team established under paragraph (1) shall be co-chaired by the Deputy Secretary of Energy and the Administrator. “(C) In developing and carrying out the implementation plan, the team shall consult with the implementation assessment panel established under subsection (c)(1). “(2) Elements.—The implementation plan developed under paragraph (1)(A) shall address all recommendations contained in the covered study (except such recommendations that require legislative action to carry out) by identifying specific actions, milestones, timelines, and responsible personnel to implement such plan. “(3) Submission.—Not later than March 31, 2016, the Secretary and the Administrator shall jointly submit to the appropriate congressional committees the implementation plan developed under paragraph (1)(A). “(c) Implementation Assessment Panel.—“(1) Agreement.—Not later than 60 days after the date of the enactment of this Act [Nov. 25, 2015], the Administrator shall seek to enter into a joint agreement with the National Academy of Sciences and the National Academy of Public Administration to establish a panel of external, independent experts to evaluate the implementation plan developed under subsection (b)(1)(A) and the implementation of such plan. “(2) Duties.—The panel established under paragraph (1) shall—“(A) provide guidance to the Secretary and the Administrator with respect to the implementation plan developed under subsection (b)(1)(A), including how such plan compares or contrasts with the covered study; “(B) track the implementation of such plan; and “(C) assess the effectiveness of such plan. “(3) Reports.—(A) Not later than July 1, 2016, the panel established under paragraph (1) shall submit to the appropriate congressional committees, the Secretary, and the Administrator an initial assessment of the implementation plan developed under subsection (b)(1)(A), including with respect to the completeness of the plan, how the plan aligns with the intent and recommendations made by the covered study, and the prospects for success for the plan. “(B) Beginning February 28, 2017, and semiannually thereafter through 2020, the panel established under paragraph (1) shall brief the appropriate congressional committees, the Secretary, and the Administrator on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A). “(C) Not later than September 30, 2020, the panel established under paragraph (1) shall submit to the appropriate congressional committees, the Secretary, and the Administrator a final report on the efforts of the Secretary and the Administrator to implement the implementation plan developed under subsection (b)(1)(A), including an assessment of the effectiveness of the reform efforts under such plan and whether further action is needed. “(4) Cooperation.—The Secretary and the Administrator shall provide to the panel established under paragraph (1) full and timely access to all information, personnel, and systems of the Department of Energy and the National Nuclear Security Administration that the panel determines necessary to carry out this subsection. “(d) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate; and “(B) the Committee on Armed Services, the Committee on Appropriations, and the Committee on Energy and Commerce of the House of Representatives. “(2) Covered study.—The term ‘covered study’ means the following:“(A) The final report of the Congressional Advisory Panel on the Governance of the Nuclear Security Enterprise established by section 3166 of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; 126 Stat. 2208). “(B) Any other study not conducted by the Secretary or the Administrator that the Secretary determines appropriate for purposes of this section. “(3) Nuclear security enterprise.—The term ‘nuclear security enterprise’ has the meaning given that term in section 4002(6) of the Atomic Energy Defense Act ([50 U.S.C. 2501(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501/6&num=0&edition=prelim)). “(e) Rules of Construction.—Nothing in this section shall be construed to authorize any action—“(1) in contravention of section 3220 of the National Nuclear Security Administration Act ([50 U.S.C. 2410](./chapter-041-national-nuclear-security-administration.md#section-2410)); or “(2) that would undermine or weaken health, safety, or security.”
@@ -993,7 +993,7 @@ Section, Pub. L. 108–136, div. C, title XXXI, § 3113, Nov. 24, 2003, 117 Stat
 ## § 2530. Requirements for specific request for new or modified nuclear weapons
 **(a) Requirement for request for funds for development**
 
-(1) In any fiscal year after fiscal year 2002 in which the Secretary of Energy plans to carry out activities described in paragraph (2) relating to the development of a new nuclear weapon or modified nuclear weapon, the Secretary—
+(1) In any fiscal year after fiscal year 2002 in which the Secretary of Energy plans to carry out activities described in paragraph (2) relating to the development of a new nuclear weapon or modified nuclear weapon beyond phase 1 or phase 6.1 (as the case may be) of the nuclear weapon acquisition process, the Secretary—
 
   (A) shall specifically request funds for such activities in the budget of the President for that fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim); and
 
@@ -1001,21 +1001,21 @@ Section, Pub. L. 108–136, div. C, title XXXI, § 3113, Nov. 24, 2003, 117 Stat
 
 (2) The activities described in this paragraph are as follows:
 
-  (A) The conduct, or provision for conduct, of research and development which could lead to the production of a new nuclear weapon by the United States.
+  (A) The conduct, or provision for conduct, of research and development for the production of a new nuclear weapon by the United States.
 
   (B) The conduct, or provision for conduct, of engineering or manufacturing to carry out the production of a new nuclear weapon by the United States.
 
-  (C) The conduct, or provision for conduct, of research and development which could lead to the production of a modified nuclear weapon by the United States.
+  (C) The conduct, or provision for conduct, of research and development for the production of a modified nuclear weapon by the United States.
 
   (D) The conduct, or provision for conduct, of engineering or manufacturing to carry out the production of a modified nuclear weapon by the United States.
 
-**(b) Budget request format** The Secretary shall include in a request for funds under subsection (a) the following:
+**(b) Budget request format** In a request for funds under subsection (a), the Secretary shall include a dedicated line item for each activity described in subsection (a)(2) for a new nuclear weapon or modified nuclear weapon that is in phase 2 or higher or phase 6.2 or higher (as the case may be) of the nuclear weapon acquisition process.
 
-(1) In the case of funds for activities described in subparagraph (A) or (C) of subsection (a)(2), a single dedicated line item for all such activities for new nuclear weapons or modified nuclear weapons that are in phase 1, 2, or 2A or phase 6.1, 6.2, or 6.2A (as the case may be), or any concept work prior to phase 1 or 6.1 (as the case may be), of the nuclear weapons acquisition process.
+**(c) Notification and briefing of noncovered activities** In any fiscal year after fiscal year 2022, the Secretary of Energy, acting through the Administrator, in conjunction with the annual submission of the budget of the President to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), shall notify the congressional defense committees of—
 
-(2) In the case of funds for activities described in subparagraph (B) or (D) of subsection (a)(2), a dedicated line item for each such activity for a new nuclear weapon or modified nuclear weapon that is in phase 3 or higher or phase 6.3 or higher (as the case may be) of the nuclear weapons acquisition process.
+(1) any activities described in subsection (a)(2) relating to the development of a new nuclear weapon or modified nuclear weapon that, during the calendar year prior to the budget submission, were carried out prior to phase 2 or phase 6.2 (as the case may be) of the nuclear weapon acquisition process; and
 
-**(c) Exception** Subsection (a) shall not apply to funds for purposes of conducting, or providing for the conduct of, research and development, or manufacturing and engineering, determined by the Secretary to be necessary to address proliferation concerns.
+(2) any plans to carry out, prior to phase 2 or phase 6.2 (as the case may be) of the nuclear weapon acquisition process, activities described in subsection (a)(2) relating to the development of a new nuclear weapon or modified nuclear weapon during the fiscal year covered by that budget.
 
 **(d) Definitions** In this section:
 
@@ -1037,6 +1037,14 @@ Section, Pub. L. 108–136, div. C, title XXXI, § 3113, Nov. 24, 2003, 117 Stat
 Section was formerly classified to [section 7271d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7271d&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263, § 3111(1)(A), inserted “beyond phase 1 or phase 6.1 (as the case may be) of the nuclear weapon acquisition process” after “modified nuclear weapon” in introductory provisions.
+
+Subsec. (a)(2)(A), (C). Pub. L. 117–263, § 3111(1)(B), substituted “research and development for the production” for “research and development which could lead to the production”.
+
+Subsec. (b). Pub. L. 117–263, § 3111(2), added subsec. (b) and struck out former subsec. (b) which related to budget request format.
+
+Subsec. (c). Pub. L. 117–263, § 3111(3), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Subsection (a) shall not apply to funds for purposes of conducting, or providing for the conduct of, research and development, or manufacturing and engineering, determined by the Secretary to be necessary to address proliferation concerns.”
+
 2018—Subsec. (a)(1). Pub. L. 115–232 inserted dash after “weapon, the Secretary”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
 
 2013—Subsec. (d). Pub. L. 113–66 made technical amendment to reference in original act which appears in text as reference to “December 2, 2002” in two places.
@@ -1123,7 +1131,7 @@ Section, Pub. L. 107–314, div. D, title XLII, § 4211, formerly Pub. L. 103–
 Section was formerly set out as a note under [section 2121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2121&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
-2019—Subsec. (a)(1). Pub. L. 116–92, § 3139(b)(3)(A), inserted “most recent” before “Nuclear Posture Review”.
+2019—Subsec. (a)(1). Pub. L. 116–92, § 3139(b)(3)(A), inserted “most recent” before “Nuclear Posture Review” in introductory provisions.
 
 Subsec. (b)(2). Pub. L. 116–92, § 3139(b)(3)(B)(i), substituted “National Security Complex” for “Plant”.
 
@@ -1140,6 +1148,9 @@ Subsecs. (d), (e). Pub. L. 112–239 struck out subsecs. (d) and (e), which rela
 1996—Subsec. (a). Pub. L. 104–201, § 3132(a), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, and added par. (2).
 
 Subsec. (b)(3). Pub. L. 104–201, § 3132(b), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The tritium production, recycling, and other weapons-related capabilities of the Savannah River Site.”
+
+#### Acceleration of Depleted Uranium Manufacturing Processes
+Pub. L. 117–263, div. C, title XXXI, § 3121, Dec. 23, 2022, 136 Stat. 3056, provided that: “(a) Acceleration of Manufacturing.—The Administrator for Nuclear Security shall require the nuclear security enterprise to accelerate the modernization of manufacturing processes for depleted uranium by 2030 so that the nuclear security enterprise—“(1) demonstrates bulk cold hearth melting of depleted uranium alloys to augment existing capabilities on an operational basis for war reserve components; “(2) manufactures, on a repeatable and ongoing basis, war reserve depleted uranium alloy components using net shape casting; “(3) demonstrates, if possible, a production facility to conduct routine operations for manufacturing depleted uranium alloy components outside of the current perimeter security fencing of the Y–12 National Security Complex, Oak Ridge, Tennessee; and “(4) has available high purity depleted uranium for the production of war reserve components. “(b) Annual Briefing.—Not later than March 31, 2023, and annually thereafter through 2030, the Administrator shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on—“(1) progress made in carrying out subsection (a); “(2) the cost of activities conducted under such subsection during the preceding fiscal year; and “(3) the ability of the nuclear security enterprise to convert depleted uranium fluoride hexafluoride to depleted uranium tetrafluoride. “(c) Nuclear Security Enterprise Defined.—In this section, the term ‘nuclear security enterprise’ has the meaning given that term in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501)).”
 
 
 <a id="section-2534"></a>
@@ -1197,28 +1208,14 @@ Section, Pub. L. 107–314, div. D, title XLII, § 4214, as added Pub. L. 109–
 
 
 <a id="section-2536"></a>
-## § 2536. Replacement project for Chemistry and Metallurgy Research Building, Los Alamos National Laboratory, New Mexico
-**(a) Replacement building required** The Secretary of Energy shall construct at Los Alamos National Laboratory, New Mexico, a building to replace the functions of the existing Chemistry and Metallurgy Research Building at Los Alamos National Laboratory associated with Department of Energy Hazard Category 2 special nuclear material operations.
-
-**(b) Limitation on cost** The cost of the building constructed under subsection (a) may not exceed $3,700,000,000. If the Secretary determines the cost will exceed such amount, the Secretary shall submit a detailed justification for such increase to the congressional defense committees.
-
-**(c) Project basis** The construction authorized by subsection (a) shall use as its basis the facility project in the Department of Energy Readiness and Technical Base designated 04–D–125 (chemistry and metallurgy facility replacement project at Los Alamos National Laboratory).
-
-**(d) Assistance**
-
-(1) In carrying out this section, the Secretary shall procure the services of the Commander of the Naval Facilities Engineering Command to assist the Secretary with respect to the program management, oversight, and design activities of the project authorized by subsection (a).
-
-(2) The Secretary shall carry out this subsection using funds made available for the Administration.
-
-**(e) Deadline for commencement of operations** The building constructed under subsection (a) shall commence operations by not later than December 31, 2026.
+## § 2536. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(A)(i), Dec. 23, 2022, 136 Stat. 3060
 
 ### Statutory Notes
 
-#### Amendments
-2013—Subsec. (d)(2). Pub. L. 113–66 struck out “National Nuclear Security” before “Administration”.
+Section, Pub. L. 107–314, div. D, title XLII, § 4215, as added Pub. L. 112–239, div. C, title XXXI, § 3114(a)(1), Jan. 2, 2013, 126 Stat. 2170; amended Pub. L. 113–66, div. C, title XXXI, § 3146(c)(9), Dec. 26, 2013, 127 Stat. 1075, related to the replacement project for the Chemistry and Metallurgy Research Building at Los Alamos National Laboratory, New Mexico.
 
 #### Alternative Plutonium Strategy; Full Operational Capability of Replacement Project
-Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat. 2171, 2172, as amended by Pub. L. 113–66, div. C, title XXXI, § 3117, Dec. 26, 2013, 127 Stat. 1058, provided that: “(c) Limitation on Alternative Plutonium Strategy.—“(1) Limitation on use of funds.—Except as provided in paragraph (2), no funds authorized to be appropriated by this Act [see Tables for classification] or any other Act may be obligated or expended on any activities associated with a plutonium strategy for the National Nuclear Security Administration that does not include achieving full operational capability of the replacement project by December 31, 2026, as required by section 4215(e) of the Atomic Energy Defense Act [[50 U.S.C. 2535(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2535/e&num=0&edition=prelim)], as added by subsection (a). “(2) Use of funds for modular building strategy.—The Administrator for Nuclear Security may obligate and expend funds referred to in paragraph (1) for activities relating to a modular building strategy on and after the date that is 60 days after the date on which the Nuclear Weapons Council established under [section 179 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section179&num=0&edition=prelim), United States Code, notifies the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that—“(A) the modular building strategy—“(i) meets requirements for maintaining the nuclear weapons stockpile over a 30-year period; “(ii) meets requirements for implementation of a responsive infrastructure, including meeting plutonium pit production requirements; and “(iii) will achieve full operating capability for not less than two modular structures by not later than 2027; “(B) in fiscal year 2015, the National Nuclear Security Administration will begin the process of designing and building modular buildings in accordance with Department of Energy Order 413.3 (relating to relating to program management and project management for the acquisition of capital assets); and “(C) the Administrator will include the costs of the modular building strategy in the estimated expenditures and proposed appropriations reflected in the future-years nuclear security program submitted under section 3253 of the National Nuclear Security Administration Act ([50 U.S.C. 2453](./chapter-041-national-nuclear-security-administration.md#section-2453)). “(3) Modular building strategy defined.—In this subsection, the term ‘modular building strategy’ means an alternative strategy to the replacement project that consists of repurposing existing facilities and constructing a series of modular structures, each of which is fully useable, to complement the function of the plutonium facility (PF–4) at Los Alamos National Laboratory, New Mexico, in accordance with all applicable safety and security standards of the Department of Energy. “(d) Naval Reactor Study.—“(1) In general.—The Deputy Administrator for Naval Reactors shall conduct a study of the replacement project, including an analysis of the cost, benefits, and risks with respect to nuclear safety. “(2) Submission.—Not later than 18 months after the date of the enactment of this Act [Jan. 2, 2013], the Deputy Administrator shall submit to the congressional defense committees a report on the study under paragraph (1), including recommendations of the Deputy Administrator with respect to the project structure, oversight model, and potential cost savings of the replacement project. “(3) Consideration of recommendations.—In carrying out the replacement project, the Secretary of Energy shall consider the recommendations made by the Deputy Administrator in the report under paragraph (2) and incorporate such recommendations into the project as the Secretary considers appropriate. “(4) Funding.—The Secretary of Energy and the Deputy Administrator shall carry out this subsection using funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for the National Nuclear Security Administration that are not made available for the Naval Nuclear Propulsion Program. “(e) Replacement Project Defined.—In this section [enacting this section and this note], the term ‘replacement project’ means the replacement project for the Chemistry and Metallurgy Research Building authorized by section 4215 of the Atomic Energy Defense Act [[50 U.S.C. 2535](./chapter-042-atomic-energy-defense-provisions.md#section-2535)], as added by subsection (a).”
+Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat. 2171, 2172, as amended by Pub. L. 113–66, div. C, title XXXI, § 3117, Dec. 26, 2013, 127 Stat. 1058, provided that: “(c) Limitation on Alternative Plutonium Strategy.—“(1) Limitation on use of funds.—Except as provided in paragraph (2), no funds authorized to be appropriated by this Act [see Tables for classification] or any other Act may be obligated or expended on any activities associated with a plutonium strategy for the National Nuclear Security Administration that does not include achieving full operational capability of the replacement project by December 31, 2026, as required by section 4215(e) of the Atomic Energy Defense Act [[50 U.S.C. 2535(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2535/e&num=0&edition=prelim)], as added by subsection (a). “(2) Use of funds for modular building strategy.—The Administrator for Nuclear Security may obligate and expend funds referred to in paragraph (1) for activities relating to a modular building strategy on and after the date that is 60 days after the date on which the Nuclear Weapons Council established under [section 179 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section179&num=0&edition=prelim), United States Code, notifies the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that—“(A) the modular building strategy—“(i) meets requirements for maintaining the nuclear weapons stockpile over a 30-year period; “(ii) meets requirements for implementation of a responsive infrastructure, including meeting plutonium pit production requirements; and “(iii) will achieve full operating capability for not less than two modular structures by not later than 2027; “(B) in fiscal year 2015, the National Nuclear Security Administration will begin the process of designing and building modular buildings in accordance with Department of Energy Order 413.3 (relating to relating to program management and project management for the acquisition of capital assets); and “(C) the Administrator will include the costs of the modular building strategy in the estimated expenditures and proposed appropriations reflected in the future-years nuclear security program submitted under section 3253 of the National Nuclear Security Administration Act ([50 U.S.C. 2453](./chapter-041-national-nuclear-security-administration.md#section-2453)). “(3) Modular building strategy defined.—In this subsection, the term ‘modular building strategy’ means an alternative strategy to the replacement project that consists of repurposing existing facilities and constructing a series of modular structures, each of which is fully useable, to complement the function of the plutonium facility (PF–4) at Los Alamos National Laboratory, New Mexico, in accordance with all applicable safety and security standards of the Department of Energy. “(d) Naval Reactor Study.—“(1) In general.—The Deputy Administrator for Naval Reactors shall conduct a study of the replacement project, including an analysis of the cost, benefits, and risks with respect to nuclear safety. “(2) Submission.—Not later than 18 months after the date of the enactment of this Act [Jan. 2, 2013], the Deputy Administrator shall submit to the congressional defense committees a report on the study under paragraph (1), including recommendations of the Deputy Administrator with respect to the project structure, oversight model, and potential cost savings of the replacement project. “(3) Consideration of recommendations.—In carrying out the replacement project, the Secretary of Energy shall consider the recommendations made by the Deputy Administrator in the report under paragraph (2) and incorporate such recommendations into the project as the Secretary considers appropriate. “(4) Funding.—The Secretary of Energy and the Deputy Administrator shall carry out this subsection using funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for the National Nuclear Security Administration that are not made available for the Naval Nuclear Propulsion Program. “(e) Replacement Project Defined.—In this section [enacting this section and this note], the term ‘replacement project’ means the replacement project for the Chemistry and Metallurgy Research Building authorized by section 4215 of the Atomic Energy Defense Act [former [50 U.S.C. 2535](./chapter-042-atomic-energy-defense-provisions.md#section-2535)], as added by subsection (a).”
 
 
 <a id="section-2537"></a>
@@ -1249,7 +1246,7 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 
 (1) At the end of the first quarter of each fiscal year, the Secretary of Energy, acting through the Administrator, shall submit to the congressional defense committees a report on each nuclear weapon system undergoing life extension and each major alteration project (as defined in [section 2753(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2753/a/2&num=0&edition=prelim)) during the preceding fiscal year. The reports shall be known as Selected Acquisition Reports for the weapon system concerned.
 
-(2) The information contained in the Selected Acquisition Report for a fiscal year for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for each fiscal-year quarter in that fiscal year for a major defense acquisition program under [section 4351 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4351&num=0&edition=prelim) expressed in terms of the nuclear weapon system.
+(2) The information contained in the Selected Acquisition Report for a fiscal year for a nuclear weapon system shall be the information contained in the Selected Acquisition Report for each fiscal-year quarter in that fiscal year for a major defense acquisition program under [section 4351 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4351&num=0&edition=prelim) or any successor system, expressed in terms of the nuclear weapon system.
 
 **(b) Independent cost estimates and reviews**
 
@@ -1292,6 +1289,8 @@ Pub. L. 112–239, div. C, title XXXI, § 3114(c)–(e), Jan. 2, 2013, 126 Stat.
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263 inserted “or any successor system,” before “expressed in terms”.
+
 2021—Subsec. (a)(2). Pub. L. 117–81 substituted “section 4351” for “section 2432”.
 
 Subsec. (b)(1)(A)(i). Pub. L. 116–283, § 3111(b)(1)(A)(i), substituted “phase 6.2A or new weapon system at the completion of phase 2A” for “phase 6.2A”.
@@ -1392,7 +1391,7 @@ Section was formerly classified to [section 7274p of Title 42](https://uscode.ho
 #### Amendments
 2019—Subsec. (d). Pub. L. 116–92, § 3139(b)(5)(A), struck out “or the Commander of the United States Strategic Command” after “Nuclear Weapons Council”.
 
-Subsec. (e)(1). Pub. L. 116–92, § 3139(b)(5)(B), substituted “or a member of the Nuclear Weapons Council” for “, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command” and “or member” for “, member, or Commander”.
+Subsec. (e)(1). Pub. L. 116–92, § 3139(b)(5)(B), in introductory provisions, substituted “or a member of the Nuclear Weapons Council” for “, a member of the Nuclear Weapons Council, or the Commander of the United States Strategic Command” and “or member” for “, member, or Commander”.
 
 2014—Subsec. (d). Pub. L. 113–291, § 3142(e)(1), substituted “Commander” for “commander”.
 
@@ -1472,15 +1471,46 @@ All national security functions and activities performed immediately before Oct.
 
   (D) an explanation of any changes to the production goals or requirements as compared to the report submitted during the previous year.
 
-**(f) Covered project defined** In this subsection, the term “covered project” means—
+**(f) Prohibition on ARIES expansion before achievement of 30 pit-per-year base capability**
+
+(1) **In general** — Until the date on which the Administrator certifies to the congressional defense committees that the base capability to produce not less than 30 war reserve plutonium pits per year has been established at Los Alamos National Laboratory, the Administrator may not—
+
+  (A) carry out a project to expand the pit disassembly and processing capability of the spaces at PF–4 occupied by ARIES as of December 22, 2023; or
+
+  (B) otherwise expand such spaces.
+
+(2) **Exceptions** — Paragraph (1) shall not apply with respect to—
+
+  (A) ongoing or planned small projects to sustain or improve the efficiency of plutonium oxide production, provided that such projects do not expand the spaces at PF–4 occupied by ARIES as of December 22, 2023;
+
+  (B) the planning and design of an additional ARIES capability at a location other than PF–4; or
+
+  (C) the transfer of the ARIES capability to a location other than PF–4.
+
+(3) **Definitions** — In this subsection:
+
+  (A) The term “ARIES” means the Advanced Recovery and Integrated Extraction System method, developed and piloted at Los Alamos National Laboratory, Los Alamos, New Mexico, for disassembling surplus defense plutonium pits and converting the plutonium from such pits into plutonium oxide.
+
+  (B) The term “PF–4” means the Plutonium Facility at Technical Area 55 located at Los Alamos National Laboratory, Los Alamos, New Mexico.
+
+**(g) Covered project defined** In this subsection, the term “covered project” means—
 
 (1) the Savannah River Plutonium Processing Facility, Savannah River Site, Aiken, South Carolina (Project 21–D–511); or
 
 (2) the Plutonium Pit Production Project, Los Alamos National Laboratory, Los Alamos, New Mexico (Project 21–D–512).
 
+**(h) Management of plutonium modernization program** Not later than 570 days after December 22, 2023, the Administrator for Nuclear Security shall ensure that the plutonium modernization program established by the Office of Defense Programs of the National Nuclear Security Administration, or any subsequently developed program designed to meet the requirements under subsection (a), is managed in accordance with the best practices for schedule development and cost estimating of the Government Accountability Office.
+
 ### Statutory Notes
 
+#### References in Text
+December 22, 2023, referred to in subsec. (f)(1)(A), (2)(A), was in the original “the date of the enactment of this Act” and was translated as referring to the date of enactment of Pub. L. 118–31, which enacted subsec. (f).
+
 #### Amendments
+2023—Subsecs. (f), (g). Pub. L. 118–31, § 3116, added subsec. (f) and redesignated former subsec. (f) as (g).
+
+Subsec. (h). Pub. L. 118–31, § 3117, added subsec. (h).
+
 2021—Subsecs. (d) to (f). Pub. L. 117–81 added subsecs. (d) to (f).
 
 2019—Subsec. (a)(5). Pub. L. 116–92, § 3116(b)(1), added par. (5) and struck out former par. (5) which read as follows: “during a pilot period of not less than 90 days during 2027 (subject to subsection (b)), demonstrates the capability to produce war reserve plutonium pits at a rate sufficient to produce 80 pits per year.”
@@ -1490,6 +1520,12 @@ Subsec. (b). Pub. L. 116–92, § 3116(b)(2)–(4), redesignated subsec. (c) as 
 Subsec. (c). Pub. L. 116–92, § 3116(b)(3), (5), redesignated subsec. (d) as (c) and substituted “subsection (b)” for “subsection (c)”. Former subsec. (c) redesignated (b).
 
 Subsec. (d). Pub. L. 116–92, § 3116(b)(3), redesignated subsec. (d) as (c).
+
+#### Certification of Completion of Milestones With Respect to Plutonium Pit Aging
+Pub. L. 117–263, div. C, title XXXI, § 3124, Dec. 23, 2022, 136 Stat. 3057, provided that: “(a) Requirement.—The Administrator for Nuclear Security shall complete the milestones on plutonium pit aging identified in the report entitled ‘Research Program Plan for Plutonium and Pit Aging’, published by the National Nuclear Security Administration in September 2021. “(b) Assessments.—The Administrator shall—“(1) acting through the Defense Programs Advisory Committee, conduct biennial reviews during the period beginning not later than one year after the date of the enactment of this Act [Dec. 23, 2022] and ending December 31, 2030, regarding the progress achieved toward completing the milestones described in subsection (a); and “(2) seek to enter into an arrangement with the private scientific advisory group known as JASON to conduct, not later than 2030, an assessment of plutonium pit aging. “(c) Briefings.—During the period beginning not later than one year after the date of the enactment of this Act and ending December 31, 2030, the Administrator shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] biennial briefings on—“(1) the progress achieved toward completing the milestones described in subsection (a); and “(2) the results of the assessments described in subsection (b). “(d) Certification of Completion of Milestones.—Not later than October 1, 2031, the Administrator shall—“(1) certify to the congressional defense committees whether the milestones described in subsection (a) have been achieved; and “(2) if the milestones have not been achieved, submit to such committees a report—“(A) describing the reasons such milestones have not been achieved; “(B) including, if the Administrator determines the Administration will not be able to meet one of such milestones, an explanation for that determination; and “(C) specifying new dates for the completion of the milestones the Administrator anticipates the Administration will meet.”
+
+#### Authorization of Workforce Development and Training Partnership Programs Within National Nuclear Security Administration
+Pub. L. 117–263, div. C, title XXXI, § 3126, Dec. 23, 2022, 136 Stat. 3058, provided that: “(a) Authority.—The Administrator for Nuclear Security may authorize management and operating contractors at covered facilities to develop and implement workforce development and training partnership programs to further the education and training of employees or prospective employees of such management and operating contractors to meet the requirements of section 4219 of the Atomic Energy Defense Act ([50 U.S.C. 2538a](./chapter-042-atomic-energy-defense-provisions.md#section-2538a)). “(b) Capacity.—To carry out subsection (a), a management and operating contractor at a covered facility may provide funding through grants or other means to cover the costs of the development and implementation of a workforce development and training partnership program authorized under such subsection, including costs relating to curriculum development, hiring of teachers, procurement of equipment and machinery, use of facilities or other properties, and provision of scholarships and fellowships. “(c) Definitions.—In this section:“(1) The term ‘covered facility’ means—“(A) Los Alamos National Laboratory, Los Alamos, New Mexico; or “(B) the Savannah River Site, Aiken, South Carolina. “(2) The term ‘prospective employee’ means an individual who has applied (or who, based on their field of study and experience, is likely to apply) for a position of employment with a management and operating contractor to support plutonium pit production at a covered facility.”
 
 #### Sense of Congress Related to Modification to Certain Requirements Relating to Plutonium Pit Production Capacity
 Pub. L. 116–92, div. C, title XXXI, § 3116(a), Dec. 20, 2019, 133 Stat. 1951, provided that: “It is the sense of Congress that— “(1) rebuilding a robust plutonium pit production infrastructure with a capacity of up to 80 pits per year is critical to maintaining the viability of the nuclear weapons stockpile; “(2) that effort will require cooperation from experts across the nuclear security enterprise; and “(3) any further delay to achieving a plutonium sustainment capability to support the planned stockpile life extension programs will result in an unacceptable capability gap to our deterrent posture.”
@@ -1529,7 +1565,7 @@ Subsec. (c)(6). Pub. L. 116–92, § 3114(2), substituted “in coordination wit
 
 <a id="section-2538d"></a>
 ## § 2538d. Long-term plan for meeting national security requirements for unencumbered uranium
-**(a) In general** Not later than December 31 of each even-numbered year through 2026, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2065.
+**(a) In general** Not later than December 31 of each odd-numbered year through 2031, the Secretary of Energy shall submit to the congressional defense committees a plan for meeting national security requirements for unencumbered uranium through 2070.
 
 **(b) Plan requirements** The plan required by subsection (a) shall include the following:
 
@@ -1537,21 +1573,29 @@ Subsec. (c)(6). Pub. L. 116–92, § 3114(2), substituted “in coordination wit
 
 (2) An inventory of unencumbered uranium (other than depleted uranium), by program source and enrichment level, that, as of the date of the plan, is not allocated to national security requirements but could be allocated to such requirements.
 
-(3) An identification of national security requirements for unencumbered uranium, by program source and enrichment level.
+(3) An identification of national security requirements for unencumbered uranium through 2070, by program source and enrichment level.
 
-(4) A description of any shortfall in obtaining unencumbered uranium to meet national security requirements and an assessment of whether that shortfall could be mitigated through the blending down of uranium that is of a higher enrichment level.
+(4) An assessment of current and projected unencumbered uranium production by private industry in the United States that could support future defense requirements.
 
-(5) An inventory of unencumbered depleted uranium, an assessment of the portion of that uranium that could be allocated to national security requirements through re-enrichment, and an estimate of the costs of re-enriching that uranium.
+(5) A description of any shortfall in obtaining unencumbered uranium to meet national security requirements and an assessment of whether that shortfall could be mitigated through the blending down of uranium that is of a higher enrichment level.
 
-(6) A description of the swap and barter agreements involving unencumbered uranium needed to meet national security requirements that are in effect on the date of the plan.
+(6) An inventory of unencumbered depleted uranium, an assessment of the portion of that uranium that could be allocated to national security requirements through re-enrichment, and an estimate of the costs of re-enriching that uranium.
 
-(7) An assessment of whether additional enrichment of uranium will be required to meet national security requirements and an estimate of the time for production operations and the cost for each type of enrichment being considered.
+(7) A description of the swap and barter agreements involving unencumbered uranium needed to meet national security requirements that are in effect on the date of the plan.
 
-(8) A description of changes in policy that would mitigate any shortfall in obtaining unencumbered uranium to meet national security requirements and the implications of those changes.
+(8) An assessment of—
+
+  (A) when additional enrichment of uranium will be required to meet national security requirements; and
+
+  (B) the options the Secretary is considering to meet such requirements, including an estimated cost and timeline for each option and a description of any changes to policy or law that the Secretary determines would be required for each option.
+
+(9) An assessment of how options to provide additional enriched uranium to meet national security requirements could, as an additional benefit, contribute to the establishment of a sustained domestic enrichment capacity and allow the commercial sector of the United States to reduce reliance on importing uranium from adversary countries.
 
 **(c) Form of plan** The plan required by subsection (a) shall be submitted in unclassified form, but may include a classified annex.
 
-**(d) Definitions** In this section:
+**(d) Comptroller General briefing** Not later than 180 days after the date on which the congressional defense committees receive each plan under subsection (a), the Comptroller General of the United States shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing that includes an assessment of the plan.
+
+**(e) Definitions** In this section:
 
 (1) The term “depleted”, with respect to uranium, means that the uranium is depleted in uranium-235 compared with natural uranium.
 
@@ -1560,7 +1604,24 @@ Subsec. (c)(6). Pub. L. 116–92, § 3114(2), substituted “in coordination wit
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 3112(a), substituted “each odd-numbered year through 2031” for “each even-numbered year through 2026” and “2070” for “2065”.
+
+Subsec. (b)(3). Pub. L. 117–263, § 3112(b)(1), inserted “through 2070” after “unencumbered uranium”.
+
+Subsec. (b)(4) to (7). Pub. L. 117–263, § 3112(b)(2), (3), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively. Former par. (7) redesignated (8).
+
+Subsec. (b)(8), (9). Pub. L. 117–263, § 3112(b)(2), (4), redesignated pars. (7) and (8) as (8) and (9), respectively, struck them out, and added new pars. (8) and (9). Prior to amendment, pars. (8) and (9), as redesignated, read as follows:
+
+“(8) An assessment of whether additional enrichment of uranium will be required to meet national security requirements and an estimate of the time for production operations and the cost for each type of enrichment being considered.
+
+“(9) A description of changes in policy that would mitigate any shortfall in obtaining unencumbered uranium to meet national security requirements and the implications of those changes.”
+
+Subsecs. (d), (e). Pub. L. 117–263, § 3112(c), added subsec. (d) and redesignated former subsec. (d) as (e).
+
 2017—Subsec. (a). Pub. L. 115–91 substituted “Not later than December 31 of each even-numbered year through 2026” for “Concurrent with the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), in each even-numbered year beginning in 2016 and ending in 2026”.
+
+#### Plan for Domestic Enrichment Capability To Satisfy Department of Defense Uranium Requirements
+Pub. L. 118–31, div. C, title XXXI, § 3133, Dec. 22, 2023, 137 Stat. 804, provided that: “(a) Report.—Not later than 120 days after the date of the enactment of this Act [Dec. 22, 2023], the Administrator of the National Nuclear Security Administration shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that contains a plan to establish a domestic enrichment capability sufficient to meet defense requirements for enriched uranium. Such plan shall include—“(1) a description of defense requirements for enriched uranium expected to be necessary between the date of the enactment of this Act and 2060 to meet the requirements of the Department of Defense, including quantities, material assay, and the dates by which new enrichment is required; “(2) key milestones, steps, and policy decisions required to achieve the domestic uranium enrichment capability; “(3) the dates by which such key milestones are to be achieved; “(4) a funding profile, broken down by project and sub-project, for obtaining such capability; “(5) a description of any changes in the requirement of the Department of Defense for highly enriched uranium due to AUKUS; and “(6) any other elements or information the Administrator determines appropriate. “(b) Annual Certification Requirement.—“(1) In general.—Not later than February 1 of each year after the year during which the report required by subsection (a) is submitted until the date specified in paragraph (2), the Administrator shall submit to the congressional defense committees a certification that—“(A) the Administration is in compliance with the plan and milestones contained in the report; or “(B) the Administration is not in compliance with such plan or milestones, together with—“(i) a description of the nature of the non-compliance; “(ii) the reasons for the non-compliance; and “(iii) a plan to achieve compliance. “(2) Termination date.—No report shall be required under paragraph (1) after the date on which the Administrator certifies to the congressional defense committees that the final key milestone under the plan has been met. “(c) Form of Reports.—The report under subsection (a) and each annual certification under subsection (b) shall be submitted in unclassified form, but may include a classified annex.”
 
 
 <a id="section-2538e"></a>
@@ -1616,7 +1677,7 @@ Subsec. (c)(6). Pub. L. 116–92, § 3114(2), substituted “in coordination wit
 
 (2) **Phase 2**
 
-  (A) *In general* — Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 2 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Administrator shall submit to the congressional defense committees a plan to implement a process of independent peer review or review by a board of experts, or both, with respect to—
+  (A) *In general* — Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 2 of the joint nuclear weapons life cycle for the W93 nuclear weapon, the Administrator shall provide to the congressional defense committees a briefing on a plan to implement a process of independent peer review or review by a board of experts, or both, with respect to—
 
     (i) the nonnuclear components of the weapon;
 
@@ -1636,17 +1697,26 @@ Subsec. (c)(6). Pub. L. 116–92, § 3114(2), substituted “in coordination wit
 
 **(b) Certifications and reports at phase 3** Not later than 15 days after the date on which the Nuclear Weapons Council approves phase 3 of the joint nuclear weapons life cycle for the W93 nuclear weapon—
 
-(1) the Administrator shall certify to the congressional defense committees that—
+(1) the Administrator shall provide to the congressional defense committees a briefing that includes certifications that—— 11 So in original.
 
   (A) phases 1 through 5 of the joint nuclear weapons life cycle for the weapon will employ, at a minimum, the same best practices and will provide Congress with the same level of programmatic insight as exists under the phase 6.X process for life extension programs; and
 
   (B) the proposed design for the weapon can be carried out within estimated schedule and cost objectives; and
 
-(2) the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report, including any planned life extensions, retirements, or alterations.
+(2) the Commander of the United States Strategic Command shall submit to the congressional defense committees a report containing, or provide to such committees a briefing on, the requirements for weapon quantity and composition by type for the sub-surface ballistic nuclear (SSBN) force, including such requirements planned for the 15-year period following the date of the report or briefing, as the case may be, including any planned life extensions, retirements, or alterations.
 
 **(c) Waivers** Subsections (a) and (b) may be waived during a period of war declared by Congress after January 1, 2021.
 
 **(d) Joint nuclear weapons life cycle defined** In this section, the term “joint nuclear weapons life cycle” has the meaning given that term in [section 2538b of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2538b).
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a)(2)(A). Pub. L. 117–263, § 3131(a)(1), substituted “provide to the congressional defense committees a briefing on a plan” for “submit to the congressional defense committees a plan” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–263, § 3131(a)(2)(A), substituted “provide to the congressional defense committees a briefing that includes certifications that—” for “certify to the congressional defense committees that” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 117–263, § 3131(a)(2)(B), inserted “, or provide to such committees a briefing on,” after “a report containing” and “or briefing, as the case may be” after “date of the report”.
 
 
 <a id="section-2541"></a>
@@ -1738,16 +1808,11 @@ The Secretary of Energy shall carry out activities at the Savannah River Site, S
 
 
 <a id="section-2561"></a>
-## § 2561. Procedures for meeting tritium production requirements
-**(a) Production of new tritium** The Secretary of Energy shall produce new tritium to meet the requirements of the Nuclear Weapons Stockpile Memorandum at the Tennessee Valley Authority Watts Bar or Sequoyah nuclear power plants consistent with the Secretary’s December 22, 1998, decision document designating the Secretary’s preferred tritium production technology.
+## § 2561. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(A)(ii), Dec. 23, 2022, 136 Stat. 3060
 
-**(b) Support** To support the method of tritium production set forth in subsection (a), the Secretary shall design and construct a new tritium extraction facility in the H-Area of the Savannah River Site, Aiken, South Carolina.
+### Statutory Notes
 
-**(c) Design and engineering development** The Secretary shall—
-
-(1) complete preliminary design and engineering development of the Accelerator Production of Tritium technology design as a backup source of tritium to the source set forth in subsection (a) and consistent with the Secretary’s December 22, 1998, decision document; and
-
-(2) make available those funds necessary to complete engineering development and demonstration, preliminary design, and detailed design of key elements of the system consistent with the Secretary’s decision document of December 22, 1998.
+Section, Pub. L. 107–314, div. D, title XLII, § 4235, formerly Pub. L. 106–65, div. C, title XXXI, § 3134, Oct. 5, 1999, 113 Stat. 927; renumbered Pub. L. 107–314, div. D, title XLII, § 4235, by Pub. L. 108–136, div. C, title XXXI, § 3141(e)(20), Nov. 24, 2003, 117 Stat. 1762, provided procedures for meeting tritium production requirements.
 
 
 <a id="section-2562"></a>
@@ -1905,7 +1970,7 @@ Pub. L. 113–291, div. C, title XXXI, § 3122(b), Dec. 19, 2014, 128 Stat. 3894
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (b)(6)(B), (C) and (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (b)(6)(C). Pub. L. 113–291, § 3142(f)(1), substituted “subparagraph (A)” for “paragraph (A)”.
@@ -1995,64 +2060,15 @@ Subsecs. (g), (h). Pub. L. 109–103, § 313(6), (7), added subsec. (g) and rede
 
 
 <a id="section-2569"></a>
-## § 2569. Authority to use international nuclear materials protection and cooperation program funds outside the former Soviet Union
-**(a) Authority** Subject to the provisions of this section, the President may obligate and expend international nuclear materials protection and cooperation program funds for a fiscal year, and any such funds for a fiscal year before such fiscal year that remain available for obligation, for a defense nuclear nonproliferation project or activity outside the states of the former Soviet Union that has not previously been authorized by Congress if the President determines each of the following:
-
-(1) That such project or activity will—
-
-  (A)
-
-    (i) assist the United States in the resolution of a critical emerging proliferation threat; or
-
-    (ii) permit the United States to take advantage of opportunities to achieve long-standing nonproliferation goals; and
-
-  (B) be completed in a short period of time.
-
-(2) That the Department of Energy is the entity of the Federal Government that is most capable of carrying out such project or activity.
-
-**(b) Scope of authority** The authority in subsection (a) to obligate and expend funds for a project or activity includes authority to provide equipment, goods, and services for such project or activity utilizing such funds, but does not include authority to provide cash directly to such project or activity.
-
-**(c) Limitation on availability of funds**
-
-(1) The President may not obligate funds for a project or activity under the authority in subsection (a) until the President makes each determination specified in that subsection with respect to such project or activity.
-
-(2) Not later than 10 days after obligating funds under the authority in subsection (a) for a project or activity, the President shall notify Congress in writing of the determinations made under paragraph (1) with respect to such project or activity, together with—
-
-  (A) a justification for such determinations; and
-
-  (B) a description of the scope and duration of such project or activity.
-
-**(d) Additional limitations and requirements** Except as otherwise provided in subsections (a) and (b), the exercise of the authority in subsection (a) shall be subject to any requirement or limitation under another provision of law as follows:
-
-(1) Any requirement for prior notice or other reports to Congress on the use of international nuclear materials protection and cooperation program funds or on international nuclear materials protection and cooperation program projects or activities.
-
-(2) Any limitation on the obligation or expenditure of international nuclear materials protection and cooperation program funds.
-
-(3) Any limitation on international nuclear materials protection and cooperation program projects or activities.
-
-**(e) Funds** As used in this section, the term “international nuclear materials protection and cooperation program funds” means the funds appropriated pursuant to an authorization of appropriations for the International Nuclear Materials Protection and Cooperation Program.
+## § 2569. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(b)(1), Dec. 23, 2022, 136 Stat. 3060
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2004, and not as part of the Atomic Energy Defense Act which comprises this chapter.
-
-#### Amendments
-2004—Subsec. (a). Pub. L. 108–375, § 3131(a), inserted “that has not previously been authorized by Congress” after “states of the former Soviet Union”.
-
-Subsec. (c). Pub. L. 108–375, § 3131(b), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “The amount that may be obligated in a fiscal year under the authority in subsection (a) may not exceed $50,000,000.”
-
-Subsec. (d). Pub. L. 108–375, § 3131(b)(2), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
-
-Subsec. (e). Pub. L. 108–375, § 3131(c), substituted “the funds appropriated pursuant to an authorization of appropriations for the International Nuclear Materials Protection and Cooperation Program” for “the funds appropriated pursuant to the authorization of appropriations in section 3101(a)(2) for such program”.
-
-Pub. L. 108–375, § 3131(b)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
-
-Subsec. (f). Pub. L. 108–375, § 3131(b)(2), redesignated subsec. (f) as (e).
+Section, Pub. L. 108–136, div. C, title XXXI, § 3124, Nov. 24, 2003, 117 Stat. 1747; Pub. L. 108–375, div. C, title XXXI, § 3131, Oct. 28, 2004, 118 Stat. 2165, authorized use of international nuclear materials protection and cooperation program funds outside the former Soviet Union.
 
 
-<a id="section-2570"></a>
-## § 2570. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
+<a id="section-2570-2571"></a>
+## § 2570, 2571. Acceleration of removal or security of fissile materials, radiological materials, and related equipment at vulnerable sites worldwide
 **(a) Sense of Congress**
 
 (1) It is the sense of Congress that the security, including the rapid removal or secure storage, of high-risk, proliferation-attractive fissile materials, radiological materials, and related equipment at vulnerable sites worldwide should be a top priority among the activities to achieve the national security of the United States.
@@ -2093,29 +2109,15 @@ Subsec. (f). Pub. L. 108–375, § 3131(b)(2), redesignated subsec. (f) as (e).
 
     (i) assist in the placement of employees displaced as a result of actions pursuant to the program in enterprises not representing a proliferation threat; and
 
-    (ii) convert sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
+    (ii) convert (including through the use of alternative technologies) sites identified as presenting risks of proliferation regarding proliferation-attractive fissile materials, radiological materials, and related equipment to purposes not representing a proliferation threat to the extent necessary to eliminate the proliferation threat.
 
 (2) The Secretary of Energy shall, in coordination with the Secretary of State, carry out the program in consultation with, and with the assistance of, appropriate departments, agencies, and other entities of the United States Government.
 
 (3) The Secretary of Energy shall, with the concurrence of the Secretary of State, carry out activities under the program in collaboration with such foreign governments, non-governmental organizations, and other international entities as the Secretary of Energy considers appropriate for the program.
 
-**(d) Reports**
+**(d) Funding** Amounts authorized to be appropriated to the Secretary of Energy for defense nuclear nonproliferation activities shall be available for purposes of the program under this section.
 
-(1) Not later than March 15, 2005, the Secretary of Energy shall submit to Congress a classified interim report on the program under subsection (b).
-
-(2) Not later than January 1, 2006, the Secretary shall submit to Congress a classified final report on the program under subsection (b) that includes the following:
-
-  (A) A survey by the Secretary of the facilities and sites worldwide that contain proliferation-attractive fissile materials, radiological materials, or related equipment.
-
-  (B) A list of sites determined by the Secretary to be of the highest priority, taking into account risk of theft from such sites, for removal or security of proliferation-attractive fissile materials, radiological materials, or related equipment, organized by level of priority.
-
-  (C) A plan, including activities under the program under this section, for the removal, security, or both of proliferation-attractive fissile materials, radiological materials, or related equipment at vulnerable facilities and sites worldwide, including measurable milestones, metrics, and estimated costs for the implementation of the plan.
-
-(3) A summary of each report under this subsection shall also be submitted to Congress in unclassified form.
-
-**(e) Funding** Amounts authorized to be appropriated to the Secretary of Energy for defense nuclear nonproliferation activities shall be available for purposes of the program under this section.
-
-**(f) Participation by other governments and organizations**
+**(e) Participation by other governments and organizations**
 
 (1) **In general** — The Secretary of Energy may, with the concurrence of the Secretary of State, enter into one or more agreements with any person (including a foreign government, international organization, or multinational entity) that the Secretary of Energy considers appropriate under which the person contributes funds for purposes of the programs described in paragraph (2).
 
@@ -2133,9 +2135,7 @@ Subsec. (f). Pub. L. 108–375, § 3131(b)(2), redesignated subsec. (f) as (e).
 
   (C) a statement of the amounts retained but not used under this subsection, including, for each such amount, the purposes (if known) for which the Secretary intends to use the amount.
 
-(6) **Expiration** — The authority to accept, retain, and use contributions under this subsection expires on December 31, 2028.
-
-**(g) Definitions** In this section:
+**(f) Definitions** In this section:
 
 (1) The term “fissile materials” means plutonium, highly-enriched uranium, or other material capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
 
@@ -2149,9 +2149,23 @@ Subsec. (f). Pub. L. 108–375, § 3131(b)(2), redesignated subsec. (f) as (e).
 
 (6) The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
 
+(7) The term “alternative technologies” means technologies, such as accelerator-based equipment, that do not use radiological materials.
+
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31, § 3118(a), redesignated subsec. (e) as (d) and struck out former subsec. (d) which required interim and final reports on the program under subsec. (b).
+
+Subsec. (e). Pub. L. 118–31, § 3118(a)(2), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
+
+Subsec. (e)(6). Pub. L. 118–31, § 3118(b), struck out par. (6). Text read as follows: “The authority to accept, retain, and use contributions under this subsection expires on December 31, 2028.”
+
+Subsecs. (f), (g). Pub. L. 118–31, § 3118(a)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
+
+2022—Subsec. (c)(1)(M)(ii). Pub. L. 117–263, § 3115(1), inserted “(including through the use of alternative technologies)” after “convert”.
+
+Subsec. (g)(7). Pub. L. 117–263, § 3115(2), added par. (7).
+
 2021—Subsec. (f)(6). Pub. L. 117–81, § 3118(a)(4), substituted “December 31, 2028” for “December 31, 2023”.
 
 2018—Subsec. (f)(5). Pub. L. 115–232, § 3114(1), (2), redesignated par. (6) as (5) and struck out former par. (5). Prior to amendment text of par. (5) read as follows: “Not later than 30 days after the receipt of an amount contributed under paragraph (1), the Secretary of Energy shall submit to the congressional defense committees a notice specifying the purpose and value of the contribution and identifying the person who contributed it. The Secretary may not use the amount until 15 days after the notice is submitted.”
@@ -2171,73 +2185,14 @@ Pub. L. 115–232, div. C, title XXXI, § 3141, Aug. 13, 2018, 132 Stat. 2303, p
 Congressional defense committees has the meaning given that term in [section 101(a)(16) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), Armed Forces, see section 3 of Pub. L. 108–375, Oct. 28, 2004, 118 Stat. 1825. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
 
 
-<a id="section-2571"></a>
-## § 2571. Silk Road Initiative
-**(a) Program authorized**
-
-(1) The Secretary of Energy may carry out a program, to be known as the Silk Road Initiative, to promote non-weapons-related employment opportunities for scientists, engineers, and technicians formerly engaged in activities to develop and produce weapons of mass destruction in Silk Road nations. The program should—
-
-  (A) incorporate best practices under the Initiatives for Proliferation Prevention program; and
-
-  (B) facilitate commercial partnerships between private entities in the United States and scientists, engineers, and technicians in the Silk Road nations.
-
-(2) Before implementing the program with respect to multiple Silk Road nations, the Secretary of Energy shall carry out a pilot program with respect to one Silk Road nation selected by the Secretary. It is the sense of Congress that the Secretary should select the Republic of Georgia.
-
-**(b) Silk Road nations defined** In this section, the Silk Road nations are Armenia, Azerbaijan, the Republic of Georgia, Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.
-
-**(c) Funding** Of the funds authorized to be appropriated to the Department of Energy for nonproliferation and international security for fiscal year 2005, up to $10,000,000 may be used to carry out this section.
-
-### Statutory Notes
-
-#### Codification
-Section was enacted as part of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, and not as part of the Atomic Energy Defense Act which comprises this chapter.
-
-
 <a id="section-2572"></a>
-## § 2572. Nuclear Nonproliferation Fellowships for scientists employed by United States and Russian Federation
-**(a) In general**
-
-(1) From amounts made available to carry out this section, the Administrator for Nuclear Security may carry out a program under which the Administrator awards, to scientists employed at nonproliferation research laboratories of the Russian Federation and the United States, international exchange fellowships, to be known as Nuclear Nonproliferation Fellowships, in the nuclear nonproliferation sciences.
-
-(2) The purpose of the program shall be to provide opportunities for advancement in the nuclear nonproliferation sciences to scientists who, as demonstrated by their academic or professional achievements, show particular promise of making significant contributions in those sciences.
-
-(3) A fellowship awarded to a scientist under the program shall be for collaborative study and training or advanced research at—
-
-  (A) a nonproliferation research laboratory of the Russian Federation, in the case of a scientist employed at a nonproliferation research laboratory of the United States; and
-
-  (B) a nonproliferation research laboratory of the United States, in the case of a scientist employed at a nonproliferation research laboratory of the Russian Federation.
-
-(4) The duration of a fellowship under the program may not exceed two years, except that the Administrator may provide for a longer duration in an individual case to the extent warranted by extraordinary circumstances, as determined by the Administrator.
-
-(5) In a calendar year, the Administrator may not award more than—
-
-  (A) one fellowship to a scientist employed at a nonproliferation research laboratory of the Russian Federation; and
-
-  (B) one fellowship to a scientist employed at a nonproliferation research laboratory of the United States.
-
-(6) A fellowship under the program shall include—
-
-  (A) travel expenses; and
-
-  (B) any other expenses that the Administrator considers appropriate, such as room and board.
-
-**(b) Definitions** In this section:
-
-(1) The term “nonproliferation research laboratory” means, with respect to a country, a national laboratory of that country at which research in the nuclear nonproliferation sciences is carried out.
-
-(2) The term “nuclear nonproliferation sciences” means bodies of scientific knowledge relevant to developing or advancing the means to prevent or impede the proliferation of nuclear weaponry.
-
-(3) The term “scientist” means an individual who has a degree from an institution of higher education in a science that has practical application in the nuclear nonproliferation sciences.
-
-**(c) Funding** Amounts available to the Department of Energy for defense nuclear nonproliferation activities shall be available for the fellowships authorized by subsection (a).
+## § 2572. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(b)(2), Dec. 23, 2022, 136 Stat. 3060
 
 ### Statutory Notes
 
-#### Codification
-Section was enacted as part of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, and not as part of the Atomic Energy Defense Act which comprises this chapter.
+Section 2570, Pub. L. 108–375, div. C, title XXXI, § 3133, Oct. 28, 2004, 118 Stat. 2168, authorized the Silk Road Initiative.
 
-#### Program on Scientific Engagement for Nonproliferation
-Pub. L. 112–239, div. C, title XXXI, § 3122, Jan. 2, 2013, 126 Stat. 2176, as amended by Pub. L. 113–66, div. C, title XXXI, § 3125, Dec. 26, 2013, 127 Stat. 1063; Pub. L. 114–328, div. C, title XXXI, § 3137(b), Dec. 23, 2016, 130 Stat. 2771, provided that: “(a) Program Required.—“(1) Scientific engagement.—The Secretary of Energy, acting through the Administrator for Nuclear Security, shall carry out a program on scientific engagement in countries selected by the Secretary for purposes of the program to advance global nonproliferation and nuclear security efforts. “(2) Elements.—The program under paragraph (1) shall include the following elements:“(A) Training and capacity-building to strengthen nonproliferation and security best practices. “(B) Engagement of scientists of the United States with foreign counterparts to advance nonproliferation goals. “(3) Distinct program.—The program required by this subsection shall be a distinct program from the Global Initiatives for Proliferation Prevention program. “(b) Limitation.—“(1) Report on commencement of program.—Of the funds authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2013 or any fiscal year thereafter for the National Nuclear Security Administration, not more than 50 percent may be obligated or expended under the program under subsection (a) until the date on which the Administrator submits to the appropriate congressional committees a report setting forth the following:“(A) For each country selected for the program as of the date of such report—“(i) a proliferation threat assessment prepared by the Director of National Intelligence; and “(ii) metrics for evaluating the effectiveness of the program. “(B) Accounting standards for the conduct of the program approved by the Comptroller General of the United States. “(2) Form.—The report under paragraph (1) may be submitted in unclassified form and may include a classified annex. “(c) Reports on Modification of Program.—“(1) In general.—Not later than 30 days before making any modification in the program under subsection (a) (including selecting a new country for the program, ceasing the selection of a country for the program, or modifying an element of the program), the Administrator shall submit to the appropriate congressional committees a report on the modification. “(2) New country.—If the modification covered by a report under paragraph (1) consists of the selection for the program of a country not previously selected for the program, the report shall include, for each such country, the matters described in subsection (b)(1)(A). “(3) Waiver.—The Administrator may waive the requirement under paragraph (1) to submit a report on a modification in the program under subsection (a) not later than 30 days before making the modification if the Administrator—“(A) determines that the modification is urgent and necessary to the national security interests of the United States; and “(B) not later than 30 days after making the modification, submits to the appropriate congressional committees—“(i) the report on the modification required by paragraph (1); and “(ii) a justification for exercising the waiver authority under this paragraph. “(4) Form.—Each report submitted under paragraph (1) or (3)(B) may be submitted in unclassified form and may include a classified annex. “(d) Report on Coordination With Other U.S. Nonproliferation Programs.—Not later than 180 days after the date of the enactment of this Act [Jan. 2, 2013], the Administrator shall submit to the appropriate congressional committees a report describing the manner in which the program under subsection (a) coordinates with and complements, but does not duplicate, other nonproliferation programs of the Federal Government. “(e) Termination.—The authority to carry out the program under subsection (a) shall expire on September 30, 2016. “(f) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means the following:“(1) The congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]. “(2) The Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate.”
+Section 2571, Pub. L. 108–375, div. C, title XXXI, § 3134, Oct. 28, 2004, 118 Stat. 2169, related to Nuclear Nonproliferation Fellowships for scientists employed by the United States and the Russian Federation.
 
 
 <a id="section-2573"></a>
@@ -2261,46 +2216,11 @@ The Secretary of Energy may, with the concurrence of the Secretary of State and 
 
 
 <a id="section-2575"></a>
-## § 2575. Enhancing nuclear forensics capabilities
-**(a) Research and development plan for nuclear forensics and attribution**
-
-(1) **Research and development** — The Secretary of Energy shall prepare and implement a research and development plan to improve nuclear forensics capabilities in the Department of Energy and at the national laboratories overseen by the Department of Energy. The plan shall focus on improving the technical capabilities required—
-
-  (A) to enable a robust and timely nuclear forensic response to a nuclear explosion or to the interdiction of nuclear material or a nuclear weapon anywhere in the world; and
-
-  (B) to develop an international database that can attribute nuclear material or a nuclear weapon to its source.
-
-(2) **Reports**
-
-  (A) The Secretary of Energy shall submit to the congressional defense committees—
-
-    (i) not later than 6 months after October 14, 2008, a report on the contents of the research and development plan described in paragraph (1), and any legislative changes required to implement the plan; and
-
-    (ii) not later than 18 months after October 14, 2008, a report on the status of implementing the plan.
-
-  (B) The Secretary shall submit each report required by this subsection in unclassified form, but may include a classified annex with such report.
-
-**(b) Omitted**
-
-**(c) Presidential report**
-
-(1) **In general** — Not later than 90 days after October 14, 2008, the President shall submit to the appropriate committees of Congress a report on the involvement of senior-level executive branch leadership in nuclear terrorism preparedness exercises that include nuclear forensics analysis.
-
-(2) **Appropriate committees of Congress** — In this subsection, the term “appropriate committees of Congress” means—
-
-  (A) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Homeland Security of the House of Representatives; and
-
-  (B) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+## § 2575. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(b)(3), Dec. 23, 2022, 136 Stat. 3060
 
 ### Statutory Notes
 
-#### Codification
-Section is comprised of section 3114 of Pub. L. 110–417. Subsec. (b) of section 3114 of Pub. L. 110–417 amended section 3129(b) of Pub. L. 110–181, div. C, title XXXI, Jan. 28, 2008, 122 Stat. 585.
-
-Section was enacted as part of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009, and not as part of the Atomic Energy Defense Act which comprises this chapter.
-
-#### “Congressional Defense Committees” Defined
-Congressional defense committees has the meaning given that term in [section 101(a)(16) of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), Armed Forces, see section 3 of Pub. L. 110–417, Oct. 14, 2008, 122 Stat. 4372. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+Section, Pub. L. 110–417, div. C, title XXXI, § 3114, Oct. 14, 2008, 122 Stat. 4756, related to enhancing nuclear forensics capabilities with a research and development plan.
 
 
 <a id="section-2576"></a>
@@ -2333,7 +2253,7 @@ Congressional defense committees has the meaning given that term in [section 101
 
 (6) An identification and explanation of uncommitted or uncosted balances for the program, as of the date of the submission of the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be, that are greater than the acceptable carryover thresholds, as determined by the Secretary of Energy.
 
-(7) An identification of funds for the program received through contributions from or cost-sharing agreements with foreign governments consistent 11 So in original. Probably should be followed by “with”. [section 2569(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2569/f&num=0&edition=prelim) during the year preceding the submission of the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be, and an explanation of such contributions and agreements.
+(7) An identification of funds for the program received through contributions from or cost-sharing agreements with foreign governments consistent with [section 2569(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2569/e&num=0&edition=prelim) during the year preceding the submission of the summary required by paragraph (1) of subsection (b) or the report required by paragraph (2) of that subsection, as the case may be, and an explanation of such contributions and agreements.
 
 (8) A description and assessment of activities carried out under the program during that year that were coordinated with other elements of the Department of Energy, with the Department of Defense, and with other Federal agencies, to maximize efficiency and avoid redundancies.
 
@@ -2349,7 +2269,7 @@ Congressional defense committees has the meaning given that term in [section 101
 
     (iv) defense nuclear research and development, including a description of activities related to developing and improving technology to detect the proliferation and detonation of nuclear weapons, verifying compliance of foreign countries with commitments under treaties and agreements relating to nuclear weapons, and detecting the diversion of nuclear materials (including safeguards technology); and
 
-    (v) nonproliferation construction programs, including activities associated 1 Department of Energy Order 413.1 (relating to program management controls).
+    (v) nonproliferation construction programs, including activities associated 11 So in original. Probably should be followed by “with”. Department of Energy Order 413.1 (relating to program management controls).
 
   (B) Countering nuclear and radiological proliferation and terrorism.
 
@@ -2380,6 +2300,8 @@ Congressional defense committees has the meaning given that term in [section 101
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (c)(7). Pub. L. 118–31 substituted “with [section 2569(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2569/e&num=0&edition=prelim)” for “[section 2569(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2569/f&num=0&edition=prelim)”.
+
 2018—Subsec. (c)(16) to (18). Pub. L. 115–232 redesignated pars. (17) and (18) as (16) and (17), respectively.
 
 2017—Subsec. (a). Pub. L. 115–91, § 3133(f)(1)(C), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Concurrent with the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), in each fiscal year, the Administrator shall submit to the congressional defense committees a five-year management plan for activities associated with the defense nuclear nonproliferation programs of the Administration to prevent and counter the proliferation of materials, technology, equipment, and expertise related to nuclear and radiological weapons in order to minimize and address the risk of nuclear terrorism and the proliferation of such weapons.”
@@ -2424,7 +2346,7 @@ Subsec. (c)(14) to (16). Pub. L. 115–91, § 3133(f)(2), redesignated pars. (15
 
 (1) **In general** — At the end of each fiscal year, the Administrator shall submit to the congressional defense committees a report on each covered hardware project. The reports shall be known as Selected Acquisition Reports for the covered hardware project concerned.
 
-(2) **Matters included** — The information contained in the Selected Acquisition Report for a fiscal year for a covered hardware project shall be the information contained in the Selected Acquisition Report for such fiscal year for a major defense acquisition program under [section 4351 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4351&num=0&edition=prelim) expressed in terms of the covered hardware project.
+(2) **Matters included** — The information contained in the Selected Acquisition Report for a fiscal year for a covered hardware project shall be the information contained in the Selected Acquisition Report for such fiscal year for a major defense acquisition program under [section 4351 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4351&num=0&edition=prelim) or any successor system, expressed in terms of the covered hardware project.
 
 **(b) Covered hardware project defined** In this section, the term “covered hardware project” means a project carried out under the defense nuclear nonproliferation research and development program that—
 
@@ -2435,6 +2357,8 @@ Subsec. (c)(14) to (16). Pub. L. 115–91, § 3133(f)(2), redesignated pars. (15
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263 inserted “or any successor system,” before “expressed in terms”.
+
 2021—Subsec. (a)(2). Pub. L. 117–81 substituted “section 4351” for “section 2432”.
 
 
@@ -2584,21 +2508,11 @@ Subsec. (b). Pub. L. 113–66, § 3146(e)(3)(C), substituted “cleanup” for �
 
 
 <a id="section-2584"></a>
-## § 2584. Integrated fissile materials management plan
-**(a) Plan** The Secretary of Energy shall develop a long-term plan for the integrated management of fissile materials by the Department of Energy. The plan shall—
-
-(1) identify means of coordinating or integrating the responsibilities of the Office of Environmental Management, the Office of Nuclear Energy, and the Administration for the treatment, storage, and disposition of fissile materials, and for the waste streams containing fissile materials, in order to achieve budgetary and other efficiencies in the discharge of those responsibilities; and
-
-(2) identify any expenditures necessary at the sites that are anticipated to have an enduring mission for plutonium management in order to achieve the integrated management of fissile materials by the Department.
-
-**(b) Submittal to Congress** The Secretary shall submit the plan required by subsection (a) to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives not later than March 31, 2014.
+## § 2584. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(B)(i), Dec. 23, 2022, 136 Stat. 3060
 
 ### Statutory Notes
 
-#### Amendments
-2013—Subsec. (a)(1). Pub. L. 113–66, § 3146(e)(4)(A), substituted “the Office of Nuclear Energy, and the Administration” for “the Office of Fissile Materials Disposition, the Office of Nuclear Energy, and the Office of Defense Programs” and “storage,” for “storage”.
-
-Subsec. (b). Pub. L. 113–66, § 3146(e)(4)(B), substituted “March 31, 2014” for “March 31, 2000”.
+Section, Pub. L. 107–314, div. D, title XLIV, § 4403, formerly Pub. L. 106–65, div. C, title XXXI, § 3172, Oct. 5, 1999, 113 Stat. 948; renumbered Pub. L. 107–314, div. D, title XLIV, § 4403, by Pub. L. 108–136, div. C, title XXXI, § 3141(g)(4), Nov. 24, 2003, 117 Stat. 1764; Pub. L. 113–66, div. C, title XXXI, § 3146(e)(4), Dec. 26, 2013, 127 Stat. 1076, related to the integrated fissile materials management plan.
 
 
 <a id="section-2585"></a>
@@ -2950,7 +2864,7 @@ Pub. L. 108–199, div. H, § 127, Jan. 23, 2004, 118 Stat. 440, provided that: 
 
 <a id="section-2621"></a>
 ## § 2621. Plan for deactivation and decommissioning of nonoperational defense nuclear facilities
-**(a) In general** The Secretary of Energy shall, during each even-numbered year beginning in 2016, develop and subsequently carry out a plan for the activities of the Department of Energy relating to the deactivation and decommissioning of nonoperational defense nuclear facilities.
+**(a) In general** The Secretary of Energy shall, every four years beginning in 2025, develop and subsequently carry out a plan for the activities of the Department of Energy relating to the deactivation and decommissioning of nonoperational defense nuclear facilities.
 
 **(b) Elements** The plan required by subsection (a) shall include the following:
 
@@ -2972,23 +2886,19 @@ Pub. L. 108–199, div. H, § 127, Jan. 23, 2004, 118 Stat. 440, provided that: 
 
   (B) other means, such as reusing such facilities for another purpose.
 
-**(c) Plan for transfer of responsibility for certain facilities** The Secretary shall, during 2016, develop and subsequently carry out a plan under which the Administrator shall transfer, by March 31, 2019, to the Assistant Secretary for Environmental Management the responsibility for decontaminating and decommissioning facilities of the Administration that the Secretary determines—
+**(c) Plan for transfer of responsibility for certain facilities** The Secretary shall, during 2025, develop and subsequently carry out a plan under which the Administrator shall transfer, by March 31, 2029, to the Assistant Secretary for Environmental Management the responsibility for decontaminating and decommissioning facilities of the Administration that the Secretary determines are nonoperational as of September 30, 2024.
 
-(1) are nonoperational as of September 30, 2015; and
-
-(2) meet the requirements of the Office of Environmental Management for such transfer.
-
-**(d) Submission to Congress** Not later than March 31 of each even-numbered year beginning in 2016, the Secretary shall submit to the appropriate congressional committees a report that includes—
+**(d) Submission to Congress** Not later than March 31, 2025, and every four years thereafter,,11 So in original. the Secretary shall submit to the appropriate congressional committees a report that includes—
 
 (1) the plan required by subsection (a);
 
 (2) a description of the deactivation and decommissioning actions expected to be taken during the following fiscal year pursuant to the plan;
 
-(3) in the case of the report submitting 11 So in original. Probably should be “submitted”. during 2016, the plan required by subsection (c); and
+(3) in the case of the report submitted during 2025, the plan required by subsection (c); and
 
-(4) in the case of a report submitted during 2018 or any year thereafter, a description of the deactivation and decommissioning actions taken at each nonoperational defense nuclear facility during the preceding fiscal year.
+(4) a description of the deactivation and decommissioning actions taken at each nonoperational defense nuclear facility during the period following the date on which the previous report required by this section was submitted.
 
-**(e) Termination** The requirements of this section shall terminate after the submission to the appropriate congressional committees of the report required by subsection (d) to be submitted not later than March 31, 2026.
+**(e) Termination** The requirements of this section shall terminate after the submission to the appropriate congressional committees of the report required by subsection (d) to be submitted not later than March 31, 2033.
 
 **(f) Definitions** In this section:
 
@@ -3005,6 +2915,25 @@ Pub. L. 108–199, div. H, § 127, Jan. 23, 2004, 118 Stat. 440, provided that: 
   (B) the present and future costs to deactivate, decommission, and deconstruct the facility.
 
 (3) The term “nonoperational defense nuclear facility” means a production facility or utilization facility (as those terms are defined in [section 2014 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014&num=0&edition=prelim)) under the control or jurisdiction of the Secretary of Energy and operated for national security purposes that is no longer needed for the mission of the Department of Energy, including the National Nuclear Security Administration.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 3114(1), substituted “every four years beginning in 2025” for “during each even-numbered year beginning in 2016”.
+
+Subsec. (c). Pub. L. 117–263, § 3114(2), substituted “2025” for “2016”, “2029” for “2019”, and “determines are nonoperational as of September 30, 2024.” for “determines—
+
+“(1) are nonoperational as of September 30, 2015; and
+
+“(2) meet the requirements of the Office of Environmental Management for such transfer.”
+
+Subsec. (d). Pub. L. 117–263, § 3114(3)(A), substituted “Not later than March 31, 2025, and every four years thereafter,” for “Not later than March 31 of each even-numbered year beginning in 2016” in introductory provisions.
+
+Subsec. (d)(3). Pub. L. 117–263, § 3114(3)(B), substituted “submitted during 2025” for “submitting during 2016”.
+
+Subsec. (d)(4). Pub. L. 117–263, § 3114(3)(C), added par. (4) and struck out former par. (4) which read as follows: “in the case of a report submitted during 2018 or any year thereafter, a description of the deactivation and decommissioning actions taken at each nonoperational defense nuclear facility during the preceding fiscal year.”
+
+Subsec. (e). Pub. L. 117–263, § 3114(4), substituted “2033” for “2026”.
 
 
 <a id="section-2622"></a>
@@ -3083,8 +3012,8 @@ Subsec. (c). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3141(c)], substitut
 Subsec. (d). Pub. L. 106–398, § 1 [div. C, title XXXI, § 3141(d)], amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Not later than 90 days after the date of the enactment of this Act, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committees on Commerce and on National Security of the House of Representatives an integrated management plan for all aspects of the Hanford Tank Farm operations, including the roles, responsibilities, and reporting relationships of the Office.”
 
 
-<a id="section-2624"></a>
-## § 2624. River Protection Project
+<a id="section-2624-to-2626"></a>
+## § 2624 to 2626. River Protection Project
 
 The tank waste remediation system environmental project, Richland, Washington, including all programs relating to the retrieval and treatment of tank waste at the site at Hanford, Washington, under the management of the Office of River Protection, shall be known and designated as the “River Protection Project”. Any reference to that project in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the River Protection Project.
 
@@ -3094,106 +3023,16 @@ The tank waste remediation system environmental project, Richland, Washington, i
 2003—Pub. L. 108–136, § 3141(g)(18)(C), inserted section catchline and struck out former subsec. heading.
 
 
-<a id="section-2625"></a>
-## § 2625. Funding for termination costs of River Protection Project, Richland, Washington
-
-The Secretary of Energy may not use appropriated funds to establish a reserve for the payment of any costs of termination of any contract relating to the River Protection Project, Richland, Washington (as designated by [section 2623 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2623)), that is terminated after October 30, 2000. Such costs may be paid from—
-
-(1) appropriations originally available for the performance of the contract concerned;
-
-(2) appropriations currently available for privatization initiatives in carrying out defense environmental cleanup activities necessary for national security programs, and not otherwise obligated; or
-
-(3) funds appropriated specifically for the payment of such costs.
-
-### Statutory Notes
-
-#### Amendments
-2013—Par. (2). Pub. L. 113–66 substituted “defense environmental cleanup” for “environmental restoration and waste management”.
-
-2003—Pub. L. 108–136, § 3141(g)(19)(D), in introductory provisions, substituted “[section 2623 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2623)” for “section 3141” and “October 30, 2000” for “the date of the enactment of this Act”.
-
-
-<a id="section-2626"></a>
-## § 2626. Plan for tank farm waste at Hanford Nuclear Reservation
-**(a) Plan** Not later than June 1, 2014, the Secretary of Energy shall submit to the congressional defense committees a plan for the initial activities (as defined in subsection (d)) for the Waste Treatment and Immobilization Plant and any related, required infrastructure facilities.
-
-**(b) Matters included** The plan under subsection (a) shall include the following:
-
-(1) A list of significant requirements needed for the initial activities.
-
-(2) A schedule of significant activities needed to carry out the initial activities.
-
-(3) Actions required to accelerate, to the extent possible, the treatment of lower risk, low-activity waste while continuing efforts to resolve the technical challenges associated with higher risk, high-activity waste.
-
-(4) A description of how the Secretary will—
-
-  (A) provide adequate protection to workers and the public under the plan; and
-
-  (B) incorporate into the plan any significant new science and technical information that was not available before the development of the plan.
-
-**(c) Determinations**
-
-(1) For each significant requirement identified by the Secretary under subsection (b)(1), the Secretary shall include in the plan submitted under subsection (a) a determination regarding whether such requirement is finalized and will be used to inform the initial activities.
-
-(2) For each significant requirement that the Secretary cannot make a finalized determination for under paragraph (1) by the date on which the plan under subsection (a) is submitted to the congressional defense committees, the Secretary shall—
-
-  (A) include in the plan—
-
-    (i) a description of the requirement;
-
-    (ii) a list of significant activities required to finalize the requirement; and
-
-    (iii) the date on which the Secretary anticipates making such determination; and
-
-  (B) once the Secretary makes a determination that such a significant requirement is finalized, submit to such committees notification that the requirement is finalized and will be used to inform the initial activities.
-
-(3)
-
-  (A) Notwithstanding any determination made under paragraph (1) with respect to a significant requirement identified by the Secretary under subsection (b)(1)—
-
-    (i) the Secretary shall change a requirement if necessary to provide adequate protection to workers and the public; and
-
-    (ii) the Secretary may change a requirement if the Secretary determines such change is necessary.
-
-  (B) If the Secretary authorizes a change to a requirement under subparagraph (A) that will have a significant material effect on the schedule or cost of the initial activities, the Secretary shall promptly notify the congressional defense committees of such change.
-
-  (C) The authority of the Secretary under this paragraph may be delegated only to the Deputy Secretary of Energy.
-
-**(d) Initial activities defined** In this section, the term “initial activities” means activities necessary to start the operations of the Waste Treatment and Immobilization Plant at the Hanford Tank Farms of the Hanford Nuclear Reservation, Richland, Washington, with respect to the design, construction, and operating of the Waste Treatment and Immobilization Plant and any related, required infrastructure facilities.
-
-
 <a id="section-2627"></a>
-## § 2627. Hanford Waste Treatment and Immobilization Plant contract oversight
-**(a) In general** Not later than 180 days after November 25, 2015, the Secretary of Energy shall arrange to have an owner’s agent advise the Secretary in carrying out the oversight responsibilities of the Secretary with respect to the contract described in subsection (b).
-
-**(b) Contract described** The contract described in this subsection is the contract between the Office of River Protection of the Department of Energy and Bechtel National, Inc., or its successor relating to the Hanford Waste Treatment and Immobilization Plant (contract number DE–AC27–01RV14136).
-
-**(c) Duties** The duties of the owner’s agent under subsection (a) shall include advising the Secretary with respect to the following:
-
-(1) Performing design, construction, nuclear safety, and operability oversight of each facility covered by the contract described in subsection (b).
-
-(2) Beginning not later than one year after November 25, 2015, ensuring that the preliminary documented safety analyses for all facilities covered by the contract meet the requirements of all applicable Department of Energy regulations and guidance, including section 830.206 of title 10, Code of Federal Regulations, and the Department of Energy Standard on the Integration of Safety into the Design Process (DOE–STD–1189–2008).
-
-(3) Ensuring that, until the Secretary approves the documented safety analysis for each facility covered by the contract, the contractor ensures that each preliminary documented safety analysis is current.
-
-(4) Ensuring that the contractor acts to promptly resolve any unreviewed safety questions.
-
-**(d) Report on selection of the owner’s agent** Not later than 30 days after the selection of the owner’s agent under subsection (a), the Secretary shall submit to the congressional defense committees a report on the process used to select the owner’s agent to ensure that the owner’s agent does not have a conflict of interest.
-
-**(e) Definitions** In this section:
-
-(1) The term “contractor” means Bechtel National, Inc.
-
-(2) The term “current”, with respect to a documented safety analysis, means that the documented safety analysis includes any design changes approved by the contractor and any safety evaluation reports issued by the Secretary with respect to the facility covered by the analysis before the date that is 60 days before the date of the analysis.
-
-(3) The terms “documented safety analysis”, “safety evaluation report”, and “unreviewed safety question” have the meanings given those terms in section 830.3 of title 10, Code of Federal Regulations (or any corresponding similar ruling or regulation).
-
-(4) The term “owner’s agent” means a private third-party entity with nuclear safety management expertise.
+## § 2627. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(B)(ii), Dec. 23, 2022, 136 Stat. 3060
 
 ### Statutory Notes
 
-#### Amendments
-2018—Subsecs. (d) to (f). Pub. L. 115–232 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d) which related to report on activities of owner’s agent.
+Section 2624, Pub. L. 107–314, div. D, title XLIV, § 4444, formerly Pub. L. 106–398, § 1 [div. C, title XXXI, § 3131], Oct. 30, 2000, 114 Stat. 1654, 1654A–454; renumbered Pub. L. 107–314, div. D, title XLIV, § 4444, and amended Pub. L. 108–136, div. C, title XXXI, § 3141(g)(19), Nov. 24, 2003, 117 Stat. 1768; Pub. L. 113–66, div. C, title XXXI, § 3146(e)(14), Dec. 26, 2013, 127 Stat. 1078, related to funding for termination costs of the River Protection Project, Richland, Washington.
+
+Section 2625, Pub. L. 107–314, div. D, title XLIV, § 4445, as added Pub. L. 113–66, div. C, title XXXI, § 3127(a), Dec. 26, 2013, 127 Stat. 1064, related to the plan for tank farm waste at the Hanford Nuclear Reservation, Richland, Washington.
+
+Section 2626, Pub. L. 107–314, div. D, title XLIV, § 4446, as added Pub. L. 114–92, div. C, title XXXI, § 3116(a), Nov. 25, 2015, 129 Stat. 1194; Pub. L. 115–232, div. C, title XXXI, § 3137(a), Aug. 13, 2018, 132 Stat. 2303, related to contract oversight for the Hanford Waste Treatment and Immobilization Plant.
 
 
 <a id="section-2631"></a>
@@ -3263,33 +3102,11 @@ Section 2637, Pub. L. 107–314, div. D, title XLIV, § 4453D, formerly Pub. L. 
 
 
 <a id="section-2651"></a>
-## § 2651. Limitation on use of funds for decommissioning F–canyon facility
-
-No amounts authorized to be appropriated or otherwise made available for the Department of Energy by the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398) or any other Act may be obligated or expended for purposes of commencing the decommissioning of the F–canyon facility at the Savannah River Site until the Secretary of Energy submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and the Defense Nuclear Facilities Safety Board, a report setting forth—
-
-(1) an assessment of whether or not all materials present in the F–canyon facility as of the date of the report that required stabilization have been safely stabilized as of that date;
-
-(2) an assessment of whether or not the requirements applicable to the F–canyon facility to meet the future needs of the United States for fissile materials disposition can be met through full use of the H–canyon facility at the Savannah River Site; and
-
-(3) if it appears that one or more of the requirements described in paragraph (2) cannot be met through full use of the H–canyon facility—
-
-  (A) an identification by the Secretary of each such requirement that cannot be met through full use of the H–canyon facility; and
-
-  (B) for each requirement so identified, the reasons why such requirement cannot be met through full use of the H–canyon facility and a description of the alternative capability for fissile materials disposition that is needed to meet such requirement.
+## § 2651. Repealed. Pub. L. 117–263, div. C, title XXXI, § 3132(a)(1)(B)(iii), Dec. 23, 2022, 136 Stat. 3060
 
 ### Statutory Notes
 
-#### References in Text
-The Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in text, is Pub. L. 106–398, § 1 [H.R. 5408], Oct. 30, 2000, 114 Stat. 1654, 1654A–1, as amended. For complete classification of this Act to the Code, see Tables.
-
-#### Amendments
-2014—Pars. (1), (2). Pub. L. 113–291 inserted “of” after “assessment”.
-
-2003—Pub. L. 108–136, § 3141(g)(24)(C), inserted section catchline, struck out former subsec. heading, and, in introductory provisions, substituted “the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398) or any other Act” for “this or any other Act” and “the Secretary of Energy” for “the Secretary”.
-
-Pub. L. 108–136, § 3115(b)(2), substituted “a report setting forth—” and pars. (1) to (3) for “the following:” and former pars. (1) to (3) which contained somewhat similar provisions.
-
-Pub. L. 108–136, § 3115(b)(1), in introductory provisions, substituted “submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, and the Defense Nuclear Facilities Safety Board,” for “and the Defense Nuclear Facilities Safety Board jointly submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives”.
+Section, Pub. L. 107–314, div. D, title XLIV, § 4454, formerly Pub. L. 106–398, § 1 [div. C, title XXXI, § 3137(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–460; renumbered Pub. L. 107–314, div. D, title XLIV, § 4454, and amended Pub. L. 108–136, div. C, title XXXI, §§ 3115(b), 3141(g)(24), Nov. 24, 2003, 117 Stat. 1745, 1770; Pub. L. 113–291, div. C, title XXXI, § 3142(i), Dec. 19, 2014, 128 Stat. 3900, provided for a limitation on use of funds for decommissioning the F–canyon facility at the Savannah River Site.
 
 
 <a id="section-2652"></a>
@@ -4018,7 +3835,7 @@ Subsec. (d). Pub. L. 105–85, § 3139(a)(2), redesignated subsec. (d) as (c).
 ### Statutory Notes
 
 #### References in Text
-The Whistleblower Protection Act of 1989, referred to in subsec. (l), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, as amended, which enacted subchapters II (§ 1211 et seq.) and III (§ 1221 et seq.) of chapter 12 and [section 3352 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3352&num=0&edition=prelim), Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and [section 4139 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4139&num=0&edition=prelim), Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under [section 1201 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1201&num=0&edition=prelim) and Tables.
+The Whistleblower Protection Act of 1989, referred to in subsec. (l), is Pub. L. 101–12, Apr. 10, 1989, 103 Stat. 16, which enacted subchapters II (§ 1211 et seq.) and III (§ 1221 et seq.) of chapter 12 and [section 3352 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3352&num=0&edition=prelim), Government Organization and Employees, amended sections 1201 to 1206, 1209, 1211, 2302, 2303, 3393, 7502, 7512, 7521, 7542, 7701, and 7703 of Title 5 and [section 4139 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4139&num=0&edition=prelim), Foreign Relations and Intercourse, repealed sections 1207 and 1208 of Title 5, and enacted provisions set out as notes under sections 1201, 1211, and 5509 of Title 5. For complete classification of this Act to the Code, see Short Title of 1989 Amendment note set out under [section 1201 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1201&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 7239 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7239&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
@@ -4112,7 +3929,7 @@ Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (c)(6)(A), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§ 3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552. Title II of the Act is classified generally to subchapter II (§ 3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3121&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this Act, referred to in subsec. (e)(1), meant Oct. 23, 1992, the date of enactment of Pub. L. 102–484, in this section as originally enacted. As renumbered by Pub. L. 108–136, this section is now part of Pub. L. 107–314, which was approved Dec. 2, 2002.
 
@@ -4532,7 +4349,7 @@ Subsec. (d). Pub. L. 108–136, § 3141(i)(14)(D)(iii), added subsec. (d).
 ### Statutory Notes
 
 #### References in Text
-Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (a), is title XXXI of div. C of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1824, as amended. For complete classification of title XXXI to the Code, see Tables.
+Title XXXI of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (a), is title XXXI of div. C of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1824. For complete classification of title XXXI to the Code, see Tables.
 
 #### Amendments
 2013—Subsec. (c)(2), (3). Pub. L. 113–66, § 3146(g)(12)(A), substituted “Congress” for “the Congress”.
@@ -4622,7 +4439,17 @@ In this part:
 
 (1) The term “DOE national security authorization” means an authorization of appropriations for activities of the Department of Energy in carrying out programs necessary for national security.
 
-(2) The term “minor construction threshold” means $25,000,000.
+(2)
+
+  (A) Except as provided by subparagraph (B), the term “minor construction threshold” means $30,000,000.
+
+  (B) The Administrator may calculate the amount specified in subparagraph (A) based on fiscal year 2022 constant dollars if the Administrator—
+
+    (i) submits to the congressional defense committees a report on the method used by the Administrator to calculate the adjustment;
+
+    (ii) a period of 30 days elapses following the date of such submission; and
+
+    (iii) publishes the adjusted amount in the Federal Register.
 
 ### Statutory Notes
 
@@ -4630,6 +4457,18 @@ In this part:
 Section was formerly classified to [section 7386 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7386&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+2023—Par. (2)(A). Pub. L. 118–31, § 3120(1), substituted “subparagraph (B)” for “subparagraphs (B) and (C)”.
+
+Par. (2)(B). Pub. L. 118–31, § 3120(2), substituted “The” for “During the period beginning on December 23, 2022, and ending on November 30, 2025, the” in introductory provisions.
+
+Par. (2)(C). Pub. L. 118–31, § 3120(3), struck out subpar. (C) which read as follows: “Beginning on December 1, 2025, the term ‘minor construction threshold’ means—
+
+“(i) $30,000,000; or
+
+“(ii) if the Administrator calculated a different amount pursuant to subparagraph (B), the last such calculated amount as published in the Federal Register under clause (iii) of such subparagraph.”
+
+2022—Par. (2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term ‘minor construction threshold’ means $25,000,000.”
+
 2021—Par. (2). Pub. L. 117–81 substituted “$25,000,000” for “$20,000,000”.
 
 2017—Par. (2). Pub. L. 115–91 substituted “$20,000,000” for “$10,000,000”.
@@ -4689,7 +4528,13 @@ Section was formerly classified to [section 7386a of Title 42](https://uscode.ho
 ## § 2743a. Minor construction projects
 **(a) Authority** Using operation and maintenance funds or facilities and infrastructure funds authorized by a DOE national security authorization, the Secretary of Energy may carry out minor construction projects.
 
-**(b) Annual report** The Secretary shall submit to the congressional defense committees on an annual basis a report on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report.
+**(b) Annual report** The Secretary shall submit to the congressional defense committees on an annual basis a report on each exercise of the authority in subsection (a) during the preceding fiscal year. Each report shall provide a brief description of each minor construction project covered by the report. The report shall include with respect to each project the following:
+
+(1) The estimated original total project cost and the estimated original date of completion.
+
+(2) The percentage of the project that is complete.
+
+(3) The current estimated total project cost and estimated date of completion.
 
 **(c) Cost variation reports to congressional committees** If, at any time during the construction of any minor construction project authorized by a DOE national security authorization, the estimated cost of the project is revised and the revised cost of the project exceeds the minor construction threshold, the Secretary shall immediately submit to the congressional defense committees a report explaining the reasons for the cost variation.
 
@@ -4707,6 +4552,8 @@ Section was formerly classified to [section 7386a of Title 42](https://uscode.ho
 Section was formerly classified to [section 7386b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7386b&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 inserted at end “The report shall include with respect to each project the following:” and added pars. (1) to (3).
+
 2021—Subsecs. (d), (e). Pub. L. 117–81 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 #### Notification
@@ -4982,13 +4829,13 @@ Section was formerly classified to [section 7386k of Title 42](https://uscode.ho
 
   (C) *Notification to congressional defense committees* — Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Administrator shall submit the cost and schedule baseline to the congressional defense committees.
 
-  (D) *Major alteration project defined* — In this paragraph, the term “major alteration project” means a nuclear weapon system alteration project of the Administration the cost of which exceeds $750,000,000.
+  (D) *Major alteration project defined* — In this paragraph, the term “major alteration project” means a nuclear weapon system alteration project of the Administration the cost of which exceeds $800,000,000.
 
 (3) **Defense-funded construction projects**
 
   (A) *In general* — The Secretary of Energy shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each construction project that is—
 
-    (i) in excess of $50,000,000; and
+    (i) in excess of $65,000,000; and
 
     (ii) carried out by the Department using funds authorized to be appropriated for a fiscal year pursuant to a DOE national security authorization.
 
@@ -4998,7 +4845,7 @@ Section was formerly classified to [section 7386k of Title 42](https://uscode.ho
 
   (A) *In general* — The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental cleanup project that is—
 
-    (i) in excess of $50,000,000; and
+    (i) in excess of $65,000,000; and
 
     (ii) carried out by the Department pursuant to such protocols.
 
@@ -5049,6 +4896,10 @@ Section was formerly classified to [section 7386k of Title 42](https://uscode.ho
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(2)(D). Pub. L. 117–263, § 3118(1), substituted “$800,000,000” for “$750,000,000”.
+
+Subsec. (a)(3)(A)(i), (4)(A)(i). Pub. L. 117–263, § 3118(2), (3), substituted “$65,000,000” for “$50,000,000”.
+
 2015—Subsec. (a)(2) to (4). Pub. L. 114–92, § 3113(a)(1), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 Subsec. (b)(1). Pub. L. 114–92, § 3113(a)(2)(A)(i), substituted “(3), or (4)” for “or (3)”.
@@ -5126,9 +4977,9 @@ Pub. L. 114–92, div. C, title XXXI, § 3117, Nov. 25, 2015, 129 Stat. 1195, pr
 
 (1) **In general** — Each report under subsection (a)(1) shall specify, for each unfunded priority covered by the report, the following:
 
-  (A) A summary description of that priority, including the objectives to be achieved if that priority is funded (whether in whole or in part).
+  (A) A summary description of that priority, including the objectives to be achieved or the risk to be mitigated if that priority is funded (whether in whole or in part).
 
-  (B) The additional amount of funds recommended in connection with the objectives under subparagraph (A).
+  (B) The additional amount of funds recommended in connection with the objectives or risk mitigation under subparagraph (A).
 
   (C) Account information with respect to that priority.
 
@@ -5138,7 +4989,7 @@ Pub. L. 114–92, div. C, title XXXI, § 3117, Nov. 25, 2015, 129 Stat. 1195, pr
 
 (1) is not funded in the budget of the President for that fiscal year as submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim);
 
-(2) is necessary to fulfill a requirement associated with the mission of the Administration; and
+(2) is necessary to address a requirement associated with the mission of the Administration; and
 
 (3) would have been recommended for funding through the budget referred to in paragraph (1) by the Administrator—
 
@@ -5149,6 +5000,12 @@ Pub. L. 114–92, div. C, title XXXI, § 3117, Nov. 25, 2015, 129 Stat. 1195, pr
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(1)(A). Pub. L. 118–31, § 3121(1)(A), inserted “or the risk to be mitigated” after “objectives to be achieved”.
+
+Subsec. (b)(1)(B). Pub. L. 118–31, § 3121(1)(B), inserted “or risk mitigation” after “objectives”.
+
+Subsec. (c)(2). Pub. L. 118–31, § 3121(2), substituted “address” for “fulfill”.
+
 2019—Pub. L. 116–92, § 3139(b)(7)(A), substituted “Administration” for “National Nuclear Security Administration” in section catchline.
 
 Subsec. (a). Pub. L. 116–92, § 3115(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Not later than 10 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Administrator shall submit to the Secretary of Energy and the congressional defense committees a report on the unfunded priorities of the Administration.”
@@ -5166,52 +5023,33 @@ Subsecs. (c), (d). Pub. L. 116–92, § 3115(3), (4), struck out subsec. (c) and
 
 (1) **Transmission to Council** — The Secretary of Energy shall transmit to the Nuclear Weapons Council (in this section referred to as the “Council”) a copy of the proposed budget request of the Administration for each fiscal year before that budget request is submitted to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President to be submitted to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim).
 
-(2) **Review and determination of adequacy**
-
-  (A) *Review* — The Council shall review each budget request transmitted to the Council under paragraph (1).
-
-  (B) *Determination of adequacy*
-
-    (i) *Inadequate requests* — If the Council determines that a budget request for a fiscal year transmitted to the Council under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the Department of Defense with respect to nuclear weapons for that fiscal year, the Council shall submit to the Secretary of Energy a written description of funding levels and specific initiatives that would, in the determination of the Council, make the budget request adequate to implement those objectives.
-
-    (ii) *Adequate requests* — If the Council determines that a budget request for a fiscal year transmitted to the Council under paragraph (1) is adequate to implement the objectives described in clause (i) for that fiscal year, the Council shall submit to the Secretary of Energy a written statement confirming the adequacy of the request.
-
-    (iii) *Records* — The Council shall maintain a record of each description submitted under clause (i) and each statement submitted under clause (ii).
+(2) **Review** — The Council shall review each budget request transmitted to the Council under paragraph (1) in accordance with [section 179(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section179/f&num=0&edition=prelim).
 
 (3) **Department of Energy response**
 
-  (A) *In general* — If the Council submits to the Secretary of Energy a written description under paragraph (2)(B)(i) with respect to the budget request of the Administration for a fiscal year, the Secretary shall include as an appendix to the budget request submitted to the Director of the Office of Management and Budget—
+  (A) *In general* — If the Council submits to the Secretary of Energy a written description under [section 179(f)(2)(B)(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section179/f/2/B/i&num=0&edition=prelim) with respect to the budget request of the Administration for a fiscal year, the Secretary shall include as an appendix to the budget request submitted to the Director of the Office of Management and Budget—
 
-    (i) the funding levels and initiatives identified in the description under paragraph (2)(B)(i); and
+    (i) the funding levels and initiatives identified in that description; and
 
     (ii) any additional comments the Secretary considers appropriate.
 
   (B) *Transmission to Congress* — The Secretary of Energy shall transmit to Congress, with the budget justification materials submitted in support of the Department of Energy budget for a fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)), a copy of the appendix described in subparagraph (A).
 
-**(b) Review and certification of Department of Energy budget by Nuclear Weapons Council**
-
-(1) **In general** — At the time the Secretary of Energy submits the budget request of the Department of Energy for that fiscal year to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President, the Secretary shall transmit a copy of the budget request of the Department to the Council.
-
-(2) **Certification** — The Council shall—
-
-  (A) review the budget request transmitted to the Council under paragraph (1);
-
-  (B) based on the review under subparagraph (A), make a determination with respect to whether the budget request includes the funding levels and initiatives described in subsection (a)(2)(B)(i); and
-
-  (C) submit to Congress—
-
-    (i)
-
-      (I) a certification that the budget request is adequate to implement the objectives described in subsection (a)(2)(B)(i); or
-
-      (II) a statement that the budget request is not adequate to implement those objectives; and
-
-    (ii) a copy of the written description submitted by the Council to the Secretary under subsection (a)(2)(B)(i), if any.
+**(b) Review and certification of Department of Energy budget by Nuclear Weapons Council** At the time the Secretary of Energy submits the budget request of the Department of Energy for that fiscal year to the Director of the Office of Management and Budget in relation to the preparation of the budget of the President, the Secretary shall transmit a copy of the budget request of the Department to the Council.
 
 ### Statutory Notes
 
 #### Codification
 Pub. L. 116–283, div. A, title XVI, § 1632(b)(1), which directed the addition of this section at the end of subtitle A of title XVII of the Atomic Energy Defense Act ([50 U.S.C. 2741](./chapter-042-atomic-energy-defense-provisions.md#section-2741) et seq.), was executed by adding this section at the end of subtitle A of title XLVII of the Atomic Energy Defense Act to reflect the probable intent of Congress.
+
+#### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263, § 1633(c)(1)(A), added par. (2) and struck out former par. (2) which related to review and determination of adequacy of the budget request transmitted to the Nuclear Weapons Council.
+
+Subsec. (a)(3)(A). Pub. L. 117–263, § 1633(c)(1)(B)(i), substituted “[section 179(f)(2)(B)(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section179/f/2/B/i&num=0&edition=prelim)” for “paragraph (2)(B)(i)” in introductory provisions.
+
+Subsec. (a)(3)(A)(i). Pub. L. 117–263, § 1633(c)(1)(B)(ii), substituted “that description” for “the description under paragraph (2)(B)(i)”.
+
+Subsec. (b). Pub. L. 117–263, § 1633(c)(2), struck out par. (1) designation and heading “In general” before “At the time” and struck out par. (2) which related to certification of the budget request transmitted to the Nuclear Weapons Council.
 
 
 <a id="section-2761"></a>
@@ -5264,7 +5102,7 @@ None of the funds authorized to be appropriated by the Department of Energy Nati
 #### References in Text
 The Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1981, referred to in text, is Pub. L. 96–540, Dec. 17, 1980, 94 Stat. 3197, which insofar as classified to the Code, enacted this section and [section 2513 of this title](./chapter-042-atomic-energy-defense-provisions.md#section-2513).
 
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 7273 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7273&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
@@ -5727,9 +5565,14 @@ Subsec. (g). Pub. L. 115–232, § 3117(a), amended subsec. (g) generally. Prior
 
 **(f) Applicability**
 
-(1) **In general** — The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2022.
+(1) **In general** — The requirements for briefings under subsection (a) and reports under subsection (b) shall apply with respect to requests for proposals issued or contracts awarded, as applicable, by the Administrator during fiscal years 2019 through 2032.
 
 (2) **Naval reactors** — The requirements for briefings under subsection (a) and reports under subsection (b) shall not apply with respect to a management and operations contract for a Naval Reactor facility.
+
+### Statutory Notes
+
+#### Amendments
+2023—Subsec. (f)(1). Pub. L. 118–31 substituted “2032” for “2022”.
 
 
 <a id="section-2791a"></a>
@@ -5753,7 +5596,7 @@ Section was formerly classified to [section 7257a of Title 42](https://uscode.ho
 2003—Pub. L. 108–136, § 3141(k)(6)(D), made technical amendment to section catchline.
 
 #### Pilot Program on Unavailability for Overhead Costs of Amounts Specified for Laboratory-Directed Research and Development
-Pub. L. 114–328, div. C, title XXXI, § 3119, Dec. 23, 2016, 130 Stat. 2763, as amended by Pub. L. 116–92, div. C, title XXXI, § 3118, Dec. 20, 2019, 133 Stat. 1952; Pub. L. 116–283, div. C, title XXXI, § 3162, Jan. 1, 2021, 134 Stat. 4391, provided that: “(a) In General.—The Secretary of Energy shall establish a pilot program under which each national security laboratory (as defined in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](./chapter-042-atomic-energy-defense-provisions.md#section-2501))) is prohibited from using funds described in subsection (b) to cover the costs of general and administrative overhead for the laboratory. “(b) Funds Described.—The funds described in this subsection are funds made available for a national security laboratory under section 4811(c) of the Atomic Energy Defense Act ([50 U.S.C. 2791(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2791/c&num=0&edition=prelim)) for laboratory-directed research and development. “(c) Duration.—The pilot program required by subsection (a) shall—“(1) take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act [Dec. 23, 2016]; and “(2) terminate on the date that is nine years after the day described in paragraph (1). “(d) Report Required.—Not later than February 15, 2025, the Administrator for Nuclear Security shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report that assesses the costs, benefits, risks, and other effects of the pilot program, including effects on laboratory-directed research and development and other programs.”
+Pub. L. 114–328, div. C, title XXXI, § 3119, Dec. 23, 2016, 130 Stat. 2763, as amended by Pub. L. 116–92, div. C, title XXXI, § 3118, Dec. 20, 2019, 133 Stat. 1952; Pub. L. 116–283, div. C, title XXXI, § 3162, Jan. 1, 2021, 134 Stat. 4391, which established a pilot program under which each national security laboratory was prohibited from using certain funds to cover costs of general and administrative overhead for the laboratory, was repealed by Pub. L. 117–263, div. C, title XXXI, § 3116(b), Dec. 23, 2022, 136 Stat. 3054. See [section 2792(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2792/c&num=0&edition=prelim).
 
 
 <a id="section-2791b"></a>
@@ -5802,6 +5645,8 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 **(b) Limitation on use of certain other funds** No funds authorized to be appropriated or otherwise made available to the Department of Energy in any fiscal year after fiscal year 1997 for defense environmental cleanup may be obligated or expended for activities under the Department of Energy Laboratory Directed Research and Development Program, or under any Department of Energy technology transfer program or cooperative research and development agreement, unless such activities support the defense environmental cleanup mission of the Department of Energy.
 
+**(c) Limitation on use of funds for overhead** A national security laboratory may not use funds made available under [section 2791(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2791/c&num=0&edition=prelim) to cover the costs of general and administrative overhead for the laboratory.
+
 ### Statutory Notes
 
 #### Codification
@@ -5810,6 +5655,8 @@ Section is comprised of section 4812 of Pub. L. 107–314. Subsec. (c) of sectio
 Section was formerly classified to [section 7257c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7257c&num=0&edition=prelim), The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–263 added subsec. (c).
+
 2013—Subsec. (a). Pub. L. 113–66, § 3146(i)(3)(B), (C), substituted “Limitation on use of weapons activities funds” for “General limitations” in heading, struck out par. (1) designation, and redesignated par. (2) as subsec. (b).
 
 Subsec. (b). Pub. L. 113–66, § 3146(i)(3)(A), (C), (D), redesignated par. (2) of subsec. (a) as subsec. (b), inserted heading, substituted “defense environmental cleanup” for “environmental restoration, waste management, or nuclear materials and facilities stabilization” and “defense environmental cleanup mission” for “environmental restoration mission, waste management mission, or materials stabilization mission, as the case may be,”, and struck out former subsec. (b) which defined “Laboratory directed research and development”.
@@ -5947,8 +5794,8 @@ Subsec. (c)(5). Pub. L. 111–383, § 3115(a)(2), added par. (5).
 Pub. L. 112–239, div. C, title XXXI, § 3165, Jan. 2, 2013, 126 Stat. 2207, provided that: “(a) Pilot Program.—The Secretary of Energy, in consultation with the Technology Transfer Coordinator appointed under section 1001(a) of the Energy Policy Act of 2005 ([42 U.S.C. 16391(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16391/a&num=0&edition=prelim)), may carry out a pilot program at a national security laboratory for the purpose of accelerating technology transfer from such laboratories to the marketplace with respect to technologies that directly advance the mission of the National Nuclear Security Administration. “(b) Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on the date that is two years after the date of the enactment of this Act [Jan. 2, 2013]. “(c) Reports.—“(1) In general.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report on the pilot program under subsection (a). “(2) Elements.—The report under paragraph (1) shall include the following:“(A) An identification of opportunities for accelerating technology transfer from national security laboratories to the marketplace. “(B) If the Secretary chooses to carry out the pilot program under subsection (a), a description of the plan to carry out such program. “(C) If the Secretary chooses not to carry out the pilot program under subsection (a), a description of why the program will not be carried out. “(d) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means the following:“(A) The Committees on Armed Services of the Senate and House of Representatives. “(B) The Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives. “(C) The Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives. “(2) The term ‘national security laboratory’ has the meaning given that term in section 3281 of the National Nuclear Security Administration Act ([50 U.S.C. 2471](./chapter-041-national-nuclear-security-administration.md#section-2471)).”
 
 
-<a id="section-2811"></a>
-## § 2811. University-based research collaboration program
+<a id="section-2796"></a>
+## § 2796. University-based research collaboration program
 **(a) Findings** Congress makes the following findings:
 
 (1) The maintenance of scientific and engineering competence in the United States is vital to long-term national security and the defense and national security missions of the Department of Energy.
@@ -5968,6 +5815,21 @@ Section was formerly set out as a note under [section 7381 of Title 42](https://
 2013—Subsec. (c). Pub. L. 112–239 struck out subsec. (c). Prior to amendment, text read as follows: “Of the funds authorized to be appropriated in title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85) to the Department of Energy for fiscal year 1998, the Secretary shall make $5,000,000 available for the establishment and operation of the program under subsection (b).”
 
 2003—Subsec. (c). Pub. L. 108–136, § 3141(k)(9)(D), substituted “title XXXI of the National Defense Authorization Act for Fiscal Year 1998 (Public Law 105–85)” for “this title”.
+
+
+<a id="section-2811"></a>
+## § 2811. Limitation on establishing an enduring bioassurance program within the Administration
+**(a) In general** The Administrator may not establish, administer, manage, or facilitate a program within the Administration for the purposes of executing an enduring national security research and development effort to broaden the role of the Department of Energy in national biodefense.
+
+**(b) Rule of construction** The limitation described in subsection (a) shall not be interpreted—
+
+(1) to prohibit the establishment of a bioassurance program for the purpose of executing enduring national security research and development in any component of the Department of Energy other than the Administration or in any other Federal agency; or
+
+(2) to impede the use of resources of the Administration, including resources provided by a national security laboratory or a nuclear weapons production facility site, to support the execution of a bioassurance program, if such support is provided—
+
+  (A) on a cost-reimbursable basis to an entity that is not a component of the Department of Energy; and
+
+  (B) in a manner that does not interfere with mission of such laboratory or facility.
 
 
 <a id="section-2812"></a>

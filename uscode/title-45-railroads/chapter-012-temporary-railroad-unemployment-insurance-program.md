@@ -14,7 +14,7 @@ An employee as defined in the Railroad Unemployment Insurance Act [[45 U.S.C. 35
 ### Statutory Notes
 
 #### References in Text
-The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
+The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
 
 The Temporary Extended Unemployment Compensation Act of 1961, referred to in text, is Pub. L. 87–6, Mar. 24, 1961, 75 Stat. 8, which enacted sections 1105 and 1400l to 1400v of Title 42, The Public Health and Welfare, amended sections 3301 and 3302 of Title 26, Internal Revenue Code, and enacted provisions set out as notes under sections 1101 and 1400l of Title 42. For complete classification of this Act to the Code, see Tables.
 
@@ -60,4 +60,4 @@ Notwithstanding the provisions of section 358(a)2 11 See References in Text note
 #### References in Text
 [Section 358(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section358/a&num=0&edition=prelim), referred to in text, was amended generally by Pub. L. 100–647, title VII, § 7102(a), Nov. 10, 1988, 102 Stat. 3759, and, as so amended, does not contain a cl. “2”.
 
-The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
+The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.

@@ -114,7 +114,7 @@ Pub. L. 101–194, title VIII, § 805, Nov. 30, 1989, 103 Stat. 1778, provided t
 
 (1) The advance authorizations, certifications, and disclosures filed with respect to transportation, lodging, and related expenses for travel under clause 5(b) of rule XXV of the Rules of the House of Representatives by Members (including Delegates and Resident Commissioners to the Congress), officers, and employees of the House.
 
-(2) The reports filed under section 103(h)(1) of the Ethics in Government Act of 1978 by Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress).
+(2) The reports filed under [section 13105(h)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13105/h/1&num=0&edition=prelim) by Members of the House of Representatives (including Delegates and Resident Commissioners to the Congress).
 
 **(b) Applicability and timing**
 
@@ -130,17 +130,18 @@ Pub. L. 101–194, title VIII, § 805, Nov. 30, 1989, 103 Stat. 1778, provided t
 
 (4) **Assistance in protecting personal information** — The Clerk of the House of Representatives, in consultation with the Committee on Standards of Official Conduct, shall include in any informational materials concerning any disclosure that will be posted on the public Internet site under this section an explanation of the procedures for protecting personally identifiable information as described in this section.
 
-**(c) Retention** The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information, or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.
+**(c) Retention** The Clerk shall maintain the information posted on the public Internet site of the Office of the Clerk under this section for a period of 6 years after receiving the information, or, in the case of reports filed under [section 13105(h)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13105/h/1&num=0&edition=prelim), until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.
 
 ### Statutory Notes
-
-#### References in Text
-Section 103(h)(1) of the Ethics in Government Act of 1978, referred to in subsecs. (a)(2) and (c), is section 103(h)(1) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was formerly classified to [section 104e of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-104e) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–286, § 4(c)(4)(A), substituted “[section 13105(h)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13105/h/1&num=0&edition=prelim)” for “section 103(h)(1) of the Ethics in Government Act of 1978”.
+
+Subsec. (c). Pub. L. 117–286, § 4(c)(4)(B), substituted “[section 13105(h)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13105/h/1&num=0&edition=prelim),” for “section 103(h)(1) of the Ethics in Government Act of 1978,”.
+
 2012—Subsec. (c). Pub. L. 112–105 substituted “, or, in the case of reports filed under section 103(h)(1) of the Ethics in Government Act of 1978, until the expiration of the 6-year period which begins on the date the individual is no longer a Member of Congress.” for period at end.
 
 #### Change of Name
@@ -148,6 +149,9 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–105, § 19(b)(2), Apr. 4, 2012, 126 Stat. 305, provided that: “The amendment made by paragraph (1) [amending this section] shall apply with respect to any report which is filed on or after the date on which the systems developed by the Secretary and Sergeant at Arms of the Senate and the Clerk of the House of Representatives under section 8(b) [of Pub. L. 112–105, set out as a note under section 105 of Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees] first take effect.”
+
+#### Rule of Construction
+Pub. L. 112–105, § 10, Apr. 4, 2012, 126 Stat. 298, provided that: “Nothing in this Act [see Tables for classification], the amendments made by this Act, or the interpretive guidance to be issued pursuant to sections 3 and 9[(a)] of this Act [set out as notes preceding [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim), Government Organization and Employees], shall be construed to— “(1) impair or limit the construction of the antifraud provisions of the securities laws or the Commodity Exchange Act [[7 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) et seq.] or the authority of the Securities and Exchange Commission or the Commodity Futures Trading Commission under those provisions; “(2) be in derogation of the obligations, duties, and functions of a Member of Congress, an employee of Congress, an executive branch employee, a judicial officer, or a judicial employee, arising from such person’s official position; or “(3) be in derogation of existing laws, regulations, or ethical obligations governing Members of Congress, employees of Congress, executive branch employees, judicial officers, or judicial employees.”
 
 #### Exercise of Rulemaking Authority
 Pub. L. 110–81, title III, § 306, Sept. 14, 2007, 121 Stat. 754, provided that: “The provisions of this title [enacting this section] are adopted by the House of Representatives— “(1) as an exercise of the rulemaking power of the House; and “(2) with full recognition of the constitutional right of the House to change those rules at any time, in the same manner, and to the same extent as in the case of any other rule of the House.”
@@ -250,7 +254,7 @@ Section was formerly classified to [section 60–2 of this title](./chapter-004-
 
   (A) from relatives;
 
-  (B) with a value of $100 or less, as adjusted under section 102(a)(2)(A) of the Ethics in Government Act of 1978; or
+  (B) with a value of $100 or less, as adjusted under [section 13104(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13104/a/2/A&num=0&edition=prelim); or
 
   (C) of personal hospitality of an individual.
 
@@ -258,15 +262,15 @@ Section was formerly classified to [section 60–2 of this title](./chapter-004-
 
   (A) the term “gift” means a payment, subscription, advance, forbearance, rendering, or deposit of money, services, or anything of value, including food, lodging, transportation, or entertainment, and reimbursement for other than necessary expenses, unless consideration of equal or greater value is received, but does not include (1) a political contribution otherwise reported as required by law, (2) a loan made in a commercially reasonable manner (including requirements that the loan be repaid and that a reasonable rate of interest be paid), (3) a bequest, inheritance, or other transfer at death, (4) a bona fide award presented in recognition of public service and available to the general public, (5) a reception at which the Member, officer, or employee is to be honored, provided such individual receives no other gifts that exceed the restrictions in this rule, other than a suitable memento, (6) meals or beverages consumed or enjoyed, provided the meals or beverages are not consumed or enjoyed in connection with a gift of overnight lodging, or (7) anything of value given to a spouse or dependent of a reporting individual by the employer of such spouse or dependent in recognition of the service provided by such spouse or dependent; and
 
-  (B) the term “relative” has the same meaning given to such term in section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95–521).22 See References in Text note below.
+  (B) the term “relative” has the same meaning given to such term in [section 13101(16) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/16&num=0&edition=prelim).
 
 (4) If a Member, officer, or employee, after exercising reasonable diligence to obtain the information necessary to comply with this rule, unknowingly accepts a gift described in paragraph (1) such Member, officer, or employee shall, upon learning of the nature of the gift and its source, return the gift or, if it is not possible to return the gift, reimburse the donor for the value of the gift.
 
 (5)
 
-  (A) Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involving travel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select 33 So in original. Probably should be capitalized. Committee on Ethics has determined that participation in such program by Members, officers, or employees of the Senate is in the interests of the Senate and the United States.
+  (A) Notwithstanding the provisions of this subsection, a Member, officer, or employee of the Senate may participate in a program, the principal objective of which is educational, sponsored by a foreign government or a foreign educational or charitable organization involving travel to a foreign country paid for by that foreign government or organization if such participation is not in violation of any law and if the select 22 So in original. Probably should be capitalized. Committee on Ethics has determined that participation in such program by Members, officers, or employees of the Senate is in the interests of the Senate and the United States.
 
-  (B) Any Member who accepts an invitation to participate in any such program shall notify the Select Committee in writing of his acceptance. A Member shall also notify the Select Committee in writing whenever he has permitted any officer or employee whom he supervises to participate in any such program. The chairman of the Select Committee shall place in the Congressional Record a list of all individuals,44 So in original. The comma probably should not appear. participating, the supervisors of such individuals where applicable; 55 So in original. The semicolon probably should be a comma. and the nature and itinerary of such program.
+  (B) Any Member who accepts an invitation to participate in any such program shall notify the Select Committee in writing of his acceptance. A Member shall also notify the Select Committee in writing whenever he has permitted any officer or employee whom he supervises to participate in any such program. The chairman of the Select Committee shall place in the Congressional Record a list of all individuals,33 So in original. The comma probably should not appear. participating, the supervisors of such individuals where applicable; 44 So in original. The semicolon probably should be a comma. and the nature and itinerary of such program.
 
   (C) No Member, officer, or employee may accept funds in connection with participation in a program permitted under subparagraph (A) if such funds are not used for necessary food, lodging, transportation, and related expenses of the Member, officer, or employee.
 
@@ -274,15 +278,14 @@ Section was formerly classified to [section 60–2 of this title](./chapter-004-
 
 ### Statutory Notes
 
-#### References in Text
-Section 102(a)(2)(A) of the Ethics in Government Act of 1978, referred to in subsec. (a)(2)(B), is section 102(a)(2)(A) of title I of Pub. L. 95–521. Section 102 was classified to [section 702 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section702&num=0&edition=prelim) prior to the general amendment of title I of Pub. L. 95–521 by Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1724. Title I of Pub. L. 95–521, as so amended, is set out in the Appendix to Title 5, Government Organization and Employees.
-
-Section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95–521), referred to in subsec. (a)(3)(B), was classified to [section 707(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section707/2&num=0&edition=prelim) prior to the general amendment of title I of Pub. L. 95–521 by Pub. L. 101–194, title II, § 202, Nov. 30, 1989, 103 Stat. 1724. Title I of Pub. L. 95–521, as so amended, is set out in the Appendix to Title 5, and the definition of “relative” is contained in section 109(16) of Pub. L. 95–521.
-
 #### Codification
 Section was formerly classified to [section 31–2 of this title](./chapter-003-compensation-and-allowances-of-members.md#section-31-2) prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (a)(2)(B). Pub. L. 117–286, § 4(c)(5)(A), substituted “[section 13104(a)(2)(A) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13104/a/2/A&num=0&edition=prelim);” for “section 102(a)(2)(A) of the Ethics in Government Act of 1978;”.
+
+Subsec. (a)(3)(B). Pub. L. 117–286, § 4(c)(5)(B), substituted “[section 13101(16) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101/16&num=0&edition=prelim).” for “section 107(2) of title I of the Ethics in Government Act of 1978 (Public Law 95–521).”
+
 1991—Subsec. (a)(1). Pub. L. 102–90, § 314(c)(1)–(3), redesignated par. (2) as (1), substituted “in any calendar year aggregating more than the minimal value as established by [section 7342(a)(5) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7342/a/5&num=0&edition=prelim) or $250, whichever is greater” for “having an aggregate value exceeding $300 during a calendar year”, and struck out former par. (1) which read as follows: “No Member, officer, or employee of the Senate, or the spouse or dependent thereof, shall knowingly accept, directly or indirectly, any gift or gifts having an aggregate value exceeding $100 during a calendar year directly or indirectly from any person, organization, or corporation having a direct interest in legislation before the Congress or from any foreign national unless, in an unusual case, a waiver is granted by the Select Committee on Ethics.”
 
 Subsec. (a)(2). Pub. L. 102–90, § 314(c)(2), (4), redesignated par. (5) as (2) and, in subpar. (B), substituted “$100 or less, as adjusted under section 102(a)(2)(A) of the Ethics in Government Act of 1978” for “less than $75”. Former par. (2) redesignated (1).
@@ -309,6 +312,9 @@ Subsec. (b). Pub. L. 101–280, § 8(2), substituted “or child of such Member�
 Pub. L. 102–90, title III, § 314(g), Aug. 14, 1991, 105 Stat. 470, as amended by Pub. L. 102–378, § 4(c), Oct. 2, 1992, 106 Stat. 1358, provided that: “(1) The amendments made by subsections (b) through (f) [amending this section, section 505 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5, Government Organization and Employees, and [section 7701 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701&num=0&edition=prelim), Internal Revenue Code] shall take effect on January 1, 1992. “(2) The amendment made by subsection (a) [amending section 102 of the Ethics in Government Act of 1978, Pub. L. 95–521, set out in the Appendix to Title 5] shall take effect on January 1, 1993.”
 
 [Amendment by Pub. L. 102–378 to section 314(g) of Pub. L. 102–90, set out above, effective Dec. 31, 1991, see section 9(b)(1) of Pub. L. 102–378, set out as an Effective Date of 1992 Amendment note under [section 6303 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6303&num=0&edition=prelim).]
+
+#### Effective Date of 1990 Amendment
+Pub. L. 101–280, § 11, May 4, 1990, 104 Stat. 163, provided that: “Except as otherwise provided in this joint resolution, this Act and the amendments made by this joint resolution [see Tables for classification] take effect on the date of the enactment of this joint resolution [May 4, 1990].”
 
 
 <a id="section-4726"></a>

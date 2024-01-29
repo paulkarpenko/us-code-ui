@@ -296,7 +296,7 @@ This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 
 
 (12) To carry out and support other activities consistent with the priorities and mission of the Institute.
 
-**(g) Expert guidance and assistance** The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than ¼ of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a peer-review group or an advisory committee established under this subsection.
+**(g) Expert guidance and assistance** The Director may establish technical and scientific peer-review groups and scientific program advisory committees for research and evaluations that the Director determines are necessary to carry out the requirements of this subchapter. The Director shall appoint such personnel, except that officers and employees of the United States shall comprise no more than ¼ of the members of any such group or committee and shall not receive additional compensation for their service as members of such a group or committee. The Director shall ensure that reviewers are highly qualified and capable to appraise education research and development projects. Chapter 10 of title 5 shall not apply to a peer-review group or an advisory committee established under this subsection.
 
 **(h) Review** The Director may, when requested by other officers of the Department, and shall, when directed by the Secretary, review the products and publications of other offices of the Department to certify that evidence-based claims about those products and publications are scientifically valid.
 
@@ -305,7 +305,8 @@ This Act, referred to in subsec. (a)(3), means Pub. L. 107–279, Nov. 5, 2002, 
 #### References in Text
 Level II of the Executive Schedule, referred to in subsec. (c), is set out in [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.
 
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (g). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-9516"></a>
@@ -421,7 +422,7 @@ The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–32
 
   (C) *Unexpired terms* — Any member appointed to fill a vacancy occurring before the expiration of the term for which the member’s predecessor was appointed shall be appointed only for the remainder of that term.
 
-  (D) *Conflict of interest* — A voting member of the Board shall be considered a special Government employee for the purposes of the Ethics in Government Act of 1978.
+  (D) *Conflict of interest* — A voting member of the Board shall be considered a special Government employee for the purposes of chapter 131 of title 5.
 
 (5) **Chair** — The Board shall elect a chair from among the members of the Board.
 
@@ -478,11 +479,11 @@ The Higher Education Act of 1965, referred to in subsec. (a), is Pub. L. 89–32
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (c)(4)(D), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
 This Act, referred to in subsec. (c)(8)(C), means Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1940, which enacted this chapter and [section 3419 of this title](./chapter-048-department-of-education.md#section-3419), amended sections 1232j, 3412, 3461, 6194, 6311, 6312, 7013, 7451, 7703, 7909, 9007, 9010, 9011, 9573, 9623, and 9624 and former sections 6317, 6491, 6932, 7253c, 7283b, and 7283d of this title and [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, transferred sections 9010 and 9011 of this title to sections 9621 and 9622 of this title, respectively, repealed sections 3419, 6011, 6021, 6031, 6041, 6051, 6053 to 6053e, 6054 to 6054b, 6055 to 6055h, 6056, 6056a, 9001 to 9009, and 9012 of this title, enacted provisions set out as notes under section 7703 and 9501 of this title, and repealed provisions set out as notes under sections 1221e and 9001 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2022—Subsec. (c)(4)(D). Pub. L. 117–286 substituted “chapter 131 of title 5.” for “the Ethics in Government Act of 1978.”
+
 2012—Subsec. (c)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
 
 2004—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, § 201(b)(2)(D), inserted “special education experts,” after “early childhood experts,”.
@@ -1686,7 +1687,7 @@ Subsec. (f)(1)(B). Pub. L. 114–95, § 9215(gg)(2)(C), substituted “, and par
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-9603"></a>
@@ -1764,7 +1765,7 @@ Section 3141 of the Elementary and Secondary Education Act of 1965 (as such sect
 2004—Subsec. (d)(3). Pub. L. 108–446 substituted “Institute” for “Academy”.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-9606"></a>
@@ -1926,12 +1927,9 @@ There are authorized to be appropriated to carry out this subchapter $80,000,000
 
 (2) for the Commissioner for Education Statistics to report to the Assessment Board on the Department’s actions to implement the decisions of the Assessment Board.
 
-**(h) Administration** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.
+**(h) Administration** Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was formerly classified to [section 9011 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9011&num=0&edition=prelim) prior to renumbering by Pub. L. 107–279.
@@ -1940,6 +1938,8 @@ Section was formerly classified to [section 9011 of this title](https://uscode.h
 A prior section 302 of Pub. L. 107–279 was renumbered section 304 and is classified to [section 9623 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9623).
 
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of title 5 shall not apply with respect to the Assessment Board, other than sections 1009, 1010, and 1011 of title 5.” for “The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Assessment Board, other than sections 10, 11, and 12 of such Act.”
+
 2002—Pub. L. 107–110 amended section generally, restating and expanding provisions and inserting headings.
 
 Subsec. (a). Pub. L. 107–279, § 401(c)(1), substituted “referred to as the ‘Assessment Board’ ” for “referred to as the ‘Board’ ” and inserted “(carried out under [section 9622 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9622))” after “for the National Assessment”.
@@ -1987,9 +1987,6 @@ Subsec. (h). Pub. L. 107–279, § 401(c)(2), substituted “Assessment Board”
 2000—Subsec. (c)(1). Pub. L. 106–554, § 1(a)(1) [title III, § 307(1)], substituted “4 years” for “3 years”.
 
 Subsec. (c)(4). Pub. L. 106–554, § 1(a)(1) [title III, § 307(2)], added par. (4).
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -2232,9 +2229,6 @@ Subsec. (f)(1)(B)(iv). Pub. L. 107–279, § 401(d)(7), substituted “section 9
 Subsec. (f)(3). Pub. L. 107–279, § 401(d)(2), substituted “Assessment Board” for “National Assessment Governing Board”.
 
 Pub. L. 107–279, § 401(d)(1), substituted “Commissioner for Education Statistics” for “Commissioner” in two places.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2002 Amendment
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).

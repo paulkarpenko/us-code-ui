@@ -100,7 +100,7 @@ There is authorized to be appropriated annually to the Department of State, out 
 #### References in Text
 Paragraph (D) of article XIV of the Statute of the Agency, referred to in text, provides “The Board of Governors shall apportion the expenses referred to in subparagraph B–1 above, among members in accordance with a scale to be fixed by the General Conference. In fixing the scale the General Conference shall be guided by the principles adopted by the United Nations in assessing contributions of Member States to the regular budget of the United Nations”.
 
-The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+The Foreign Service Act of 1980, referred to in text, is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 The Atomic Energy Act of 1954, as amended, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
@@ -150,7 +150,7 @@ In the event of an amendment to the Statute of the Agency being adopted in accor
 ### Statutory Notes
 
 #### References in Text
-Article XVIII–C of the Statute, referred to in text, provides: “C. Amendments shall come into force for all members when: (i) Approved by the General Conference by a two-thirds majority of those present and voting after consideration of observations submitted by the Board of Governors on each proposed amendment, and (ii) Accepted by two-thirds of all the members in accordance with their respective constitutional processes. Acceptance by a member shall be effected by the deposit of an instrument of acceptance with the depositary Government referred to in paragraph C of Article XXI.”.
+Article XVIII–C of the Statute, referred to in text, provides: “C. Amendments shall come into force for all members when: (i) Approved by the General Conference by a two-thirds majority of those present and voting after consideration of observations submitted by the Board of Governors on each proposed amendment, and (ii) Accepted by two-thirds of all the members in accordance with their respective constitutional processes. Acceptance by a member shall be effected by the deposit of an instrument of acceptance with the depositary Government referred to in paragraph C of Article XXI.”
 
 
 <a id="section-2027"></a>

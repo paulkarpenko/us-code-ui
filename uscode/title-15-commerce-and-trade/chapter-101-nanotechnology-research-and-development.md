@@ -182,14 +182,13 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 **(e) Travel expenses of non-Federal members** Non-Federal members of the Advisory Panel, while attending meetings of the Advisory Panel or while otherwise serving at the request of the head of the Advisory Panel away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for individuals in the government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Panel who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
 
-**(f) Exemption from sunset** Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Panel.
+**(f) Exemption from sunset** [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Advisory Panel.
 
 ### Statutory Notes
 
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act”.
+
 2017—Subsec. (d). Pub. L. 114–329 amended subsec. (d) generally. Prior to amendment, text read as follows: “The Advisory Panel shall report, not less frequently than once every 2 fiscal years, to the President on its assessments under subsection (c) and its recommendations for ways to improve the Program. The first report under this subsection shall be submitted within 1 year after December 3, 2003. The Director of the Office of Science and Technology Policy shall transmit a copy of each report under this subsection to the Senate Committee on Commerce, Science, and Technology, the House of Representatives Committee on Science, and other appropriate committees of the Congress.”
 
 #### Transfer of Functions

@@ -31,7 +31,7 @@ In this chapter (the Uniform Code of Military Justice):
 
 (10) The term “military judge” means a judge advocate designated under [section 826(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section826/c&num=0&edition=prelim) (article 26(c)) who is detailed under section 826(a) or [section 830a of this title](./chapter-047-uniform-code-of-military-justice.md#section-830a) (article 26(a) or 30a).
 
-(11) Repealed. Pub. L. 109–241, title II, § 218(a)(1), July 11, 2006, 120 Stat. 526.]
+(11) The term “military magistrate” means a commissioned officer certified for duty as a military magistrate in accordance with [section 826a of this title](./chapter-047-uniform-code-of-military-justice.md#section-826a) (article 26a).
 
 (12) The term “legal officer” means any commissioned officer of the Navy, Marine Corps, or Coast Guard designated to perform legal duties for a command.
 
@@ -53,30 +53,28 @@ In this chapter (the Uniform Code of Military Justice):
 
 (16) The term “national security” means the national defense and foreign relations of the United States.
 
+(17) The term “covered offense” means—
+
+  (A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 919a (article 119a), section 920 (article 120), section 920a (article 120a), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;
+
+  (B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under [section 881 of this title](./chapter-047-uniform-code-of-military-justice.md#section-881) (article 81);
+
+  (C) a solicitation to commit an offense specified in subparagraph (A) as punishable under [section 882 of this title](./chapter-047-uniform-code-of-military-justice.md#section-882) (article 82); or
+
+  (D) an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80).
+
+(18) The term “special trial counsel” means a judge advocate detailed as a special trial counsel in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to [section 1044f(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044f/a/2&num=0&edition=prelim).
+
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, §§ 533, 539C, Dec. 27, 2021, 135 Stat. 1695, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
+#### Amendment of Paragraph (17)(A)
+Pub. L. 117–263, div. A, title V, § 541(b), Dec. 23, 2022, 136 Stat. 2580, provided that, effective Jan. 1, 2025, and applicable with respect to offenses that occur after that date, paragraph (17)(A) of this section is amended:
 
-(1) by inserting after paragraph (10) the following new paragraph:
+(1) by striking “or”; and
 
-“(11) The term ‘military magistrate’ means a commissioned officer certified for duty as a military magistrate in accordance with [section 826a of this title](./chapter-047-uniform-code-of-military-justice.md#section-826a) (article 26a).”; and
+(2) by striking “of this title” and inserting “, or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned”.
 
-(2) by adding at the end the following new paragraphs:
-
-“(17) The term ‘covered offense’ means—
-
-“(A) an offense under section 917a (article 117a), section 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 925 (article 125), section 928b (article 128b), section 930 (article 130), section 932 (article 132), or the standalone offense of child pornography punishable under section 934 (article 134) of this title;
-
-“(B) a conspiracy to commit an offense specified in subparagraph (A) as punishable under [section 881 of this title](./chapter-047-uniform-code-of-military-justice.md#section-881) (article 81);
-
-“(C) a solicitation to commit an offense specified in subparagraph (A) as punishable under [section 882 of this title](./chapter-047-uniform-code-of-military-justice.md#section-882) (article 82); or
-
-“(D) an attempt to commit an offense specified in subparagraph (A), (B), or (C) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80).
-
-“(18) The term ‘special trial counsel’ means a judge advocate detailed as a special trial counsel in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a) and includes a judge advocate appointed as a lead special trial counsel pursuant to [section 1044f(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1044f/a/2&num=0&edition=prelim).”
-
-See 2021 Amendment notes below.
+See 2022 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -87,7 +85,7 @@ The words “In this chapter” are substituted for the introductory clause.
 
 In the introductory clause and throughout the revised chapter the word “chapter” is substituted for the word “code”.
 
-Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of [section 101 of this title](./chapter-001-definitions.md#section-101). The words “commissioned officer” are substituted for the word “officer” for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by [section 101(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/14&num=0&edition=prelim).
+Clauses (1), (2), and (5) of 50:551 are omitted as respectively covered by the definitions in clauses (4), (6), and (14) of [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101). The words “commissioned officer” are substituted for the word “officer” for clarity throughout this chapter, since the latter term was defined in the limited sense of commissioned officer in clause (5) of 50:551, and is now covered by [section 101(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/14&num=0&edition=prelim).
 
 In clauses (1), (4)–(7), and (9)–(12) of the revised section, the word “means” is substituted for the words “shall be construed to refer to” and “shall be construed to refer * * * to”.
 
@@ -102,6 +100,10 @@ In clause (8), the word “refers” is substituted for the words “shall be co
 In clause (12), the words “Marine Corps” are inserted to make explicit that the clause applies to the Marine Corps. The word “commissioned” is inserted for clarity.
 
 #### Amendments
+2022—Par. (17)(A). Pub. L. 117–263, § 541(b)(1), struck out “or” after “section 932 (article 132),” and substituted “, or the standalone offense of sexual harassment punishable under section 934 (article 134) of this title in each instance in which a formal complaint is made and such formal complaint is substantiated in accordance with regulations prescribed by the Secretary concerned” for “of this title”.
+
+Pub. L. 117–263, § 541(a)(1), substituted “section 919a (article 119a), section 920 (article 120), section 920a (article 120a)” for “section 920 (article 120)”.
+
 2021—Par. (11). Pub. L. 117–81, § 533(1), added par. (11).
 
 Pars. (17), (18). Pub. L. 117–81, § 533(2), added pars. (17) and (18).
@@ -140,8 +142,13 @@ Cl. (13). Pub. L. 90–179, § 1(2), added cl. (13).
 
 1966—Pub. L. 89–670 substituted the General Counsel of the Department of Transportation for the General Counsel of the Department of the Treasury in definition of “Judge Advocate General” applicable to the Coast Guard when operating as a service in the Navy.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. A, title V, § 541(a)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 533 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1695) [amending this section] as provided in section 539C of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note) and shall apply with respect to offenses that occur after that date.”
+
+Pub. L. 117–263, div. A, title V, § 541(b)(2), Dec. 23, 2022, 136 Stat. 2580, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on January 1, 2025, and shall apply with respect to offenses that occur after that date.”
+
 #### Effective Date of 2021 Amendment
-Pub. L. 117–81, div. A, title V, § 539C, Dec. 27, 2021, 135 Stat. 1699, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this part [part 1 (§§ 531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and shall apply with respect to offenses that occur after that date. “(b) Regulations.—“(1) Requirement.—The President shall prescribe regulations to carry out this part not later than two years after the date of the enactment of this Act. “(2) Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shall apply with respect to offenses that occur on or after that date.”
+Pub. L. 117–81, div. A, title V, § 539C, Dec. 27, 2021, 135 Stat. 1699, as amended by Pub. L. 118–31, div. A, title V, § 531(c)(2), Dec. 22, 2023, 137 Stat. 259, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this part [part 1 (§§ 531–539C) of subtitle D of title V of div. A of Pub. L. 117–81, enacting sections 824a and 1044f of this title and amending this section and sections 822, 823, 827, 832, 834, 844, 853a, 865 to 867, and 869 of this title] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 27, 2021] and, except as provided in [section 824a(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section824a/d&num=0&edition=prelim), United States Code (article 24a(d) of the Uniform Code of Military Justice), shall apply with respect to offenses that occur after that date. “(b) Regulations.—“(1) Requirement.—The President shall prescribe regulations to carry out this part not later than two years after the date of the enactment of this Act. “(2) Impact of delay of issuance.—If the President does not prescribe the regulations necessary to carry out this part before the date that is two years after the date of the enactment of this Act, the amendments made by this part shall take effect on the date on which such regulations are prescribed and shall apply with respect to offenses that occur on or after that date.”
 
 #### Effective Date of 2017 Amendment
 Pub. L. 115–91, div. A, title V, § 531(p), Dec. 12, 2017, 131 Stat. 1388, provided that: “The amendments made by this section [amending sections 806b, 830a, 838, 853a, 856, 858a, 858b, 862, 863, 866, 946, 1059, and 1408 of this title and provisions set out as a note below] shall take effect immediately after the amendments made by the Military Justice Act of 2016 (division E [§§ 5001–5542] of Public Law 114–328 [enacting, amending, and transferring numerous sections throughout this chapter]) take effect as provided for in section 5542 of that Act (130 Stat. 2967) [set out below].”
@@ -152,7 +159,7 @@ Pub. L. 115–91, div. A, title X, § 1081(c)(4), Dec. 12, 2017, 131 Stat. 1599,
 Pub. L. 114–328, div. E, title LXIII, § 5542, Dec. 23, 2016, 130 Stat. 2967, as amended by Pub. L. 115–91, div. A, title V, § 531(n)(1), Dec. 12, 2017, 131 Stat. 1387, provided that: “(a) In General.—Except as otherwise provided in this division [div. E (§§ 5001–5542) of Pub. L. 114–328, see Tables for classification], the amendments made by this division [enacting, amending, and transferring numerous sections throughout this chapter] shall take effect on the date designated by the President [Jan. 1, 2019, with certain conditions and exceptions, see Ex. Ord. No. 13825, set out below], which date shall be not later than the first day of the first calendar month that begins two years after the date of the enactment of this Act [Dec. 23, 2016]. “(b) Implementing Regulations.—The President shall prescribe regulations implementing this division and the amendments made by this division by not later than one year after the date of the enactment of this Act, except as otherwise provided in this division. “(c) Applicability.—“(1) In general.—Subject to the provisions of this division and the amendments made by this division, the President shall prescribe in regulations whether, and to what extent, the amendments made by this division shall apply to a case in which a specification alleges the commission, before the effective date of such amendments, of one or more offenses or to a case in which one or more actions under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), have been taken before the effective date of such amendments. “(2) Inapplicability to cases in which charges already referred to trial on effective date.—Except as otherwise provided in this division or the amendments made by this division, the amendments made by this division shall not apply to any case in which charges are referred to trial by court-martial before the effective date of such amendments. Proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted. “(3) Punitive article amendments.—“(A) In general.—The amendments made by title LX [§§ 5401–5452 of div. E of Pub. L. 114–328, enacting, amending, and transferring numerous sections within subchapter X of this chapter, see Tables for classification] shall not apply to any offense committed before the effective date of such amendments. “(B) Construction.—Nothing in subparagraph (A) shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments. “(4) Sentencing amendments.—The regulations prescribing the authorized punishments for any offense committed before the effective date of the amendments made by title LVIII [§§ 5301–5303 of div. E of Pub. L. 114–328, amending sections 856 to 857a, 858a, 858b, and 871 of this title] shall apply to the authorized punishments for the offense, as in effect at the time the offense is committed.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1983 Amendment
 Pub. L. 98–209, § 12(a), Dec. 6, 1983, 97 Stat. 1407, provided that: “(1) The amendments made by this Act [see Short Title of 1983 Amendment note below] shall take effect on the first day of the eighth calendar month that begins after the date of enactment of this Act [Dec. 6, 1983], except that the amendments made by sections 9, 11 and 13 [amending sections 802, 815, 825, 867, 1552, and 1553 of this title and enacting provisions set out as a note under [section 867 of this title](./chapter-047-uniform-code-of-military-justice.md#section-867)] shall be effective on the date of the enactment of this Act. The amendments made by section 11 [amending sections 1552 and 1553 of this title] shall only apply with respect to cases filed after the date of enactment of this Act with the boards established under sections 1552 and 1553 of title 10, United States Code. “(2) The amendments made by section 3(c) and 3(e) [amending sections 826, 827, and 838 of this title] do not affect the designation or detail of a military judge or military counsel to a court-martial before the effective date of such amendments. “(3) The amendments made by section 4 [amending [section 834 of this title](./chapter-047-uniform-code-of-military-justice.md#section-834)] shall not apply to any case in which charges were referred to trial before the effective date of such amendments, and proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted. “(4) The amendments made by sections 5, 6, and 7 [amending this section and sections 849, 854, 857, 860 to 867, 869, 871, and 876a of this title and enacting provisions set out as a note under [section 869 of this title](./chapter-047-uniform-code-of-military-justice.md#section-869)] shall not apply to any case in which the findings and sentence were adjudged by a court-martial before the effective date of such amendments. The proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been enacted. “(5) The amendments made by section 8 [enacting [section 912a of this title](./chapter-047-uniform-code-of-military-justice.md#section-912a)] shall not apply to any offense committed before the effective date of such amendments. Nothing in this provision shall be construed to invalidate the prosecution of any offense committed before the effective date of such amendments.”
@@ -570,77 +577,63 @@ Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
-#### Ex. Ord. No. 13825. 2018 Amendments to the Manual for Courts-Martial, United States
-Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889, provided:
+#### Amendments to the Manual for Courts-Martial, United States
+Additions and amendments to the Manual for Courts-Martial, United States, prescribed by Ex. Ord. No. 12473, Apr. 13, 1984, 49 F.R. 17152, were contained in the following:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including chapter 47 of title 10, United States Code (Uniform Code of Military Justice (UCMJ), [10 U.S.C. 801–946](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801–946&num=0&edition=prelim)), and in order to prescribe amendments to the Manual for Courts-Martial, United States, prescribed by Executive Order 12473 of April 13, 1984, as amended, it is hereby ordered as follows:
+2023—Ex. Ord. No. 14103, July 28, 2023, 88 F.R. 50535.
 
-Section 1. Part II, Part III, and Part IV of the Manual for Courts-Martial, United States, are amended as described in Annex 1, which is attached to and made a part of this order [not set out in the Code].
+2022—Ex. Ord. No. 14062, Jan. 26, 2022, 87 F.R. 4763.
 
-Sec. 2. The amendments in Annex 1 shall take effect on the date of this order, subject to the following:
+2018—Ex. Ord. No. 13825, Mar. 1, 2018, 83 F.R. 9889.
 
-(a) Nothing in Annex 1 shall be construed to make punishable any act done or omitted prior to the date of this order that was not punishable when done or omitted.
+2016—Ex. Ord. No. 13730, May 20, 2016, 81 F.R. 33331; Ex. Ord. No. 13740, Sept. 16, 2016, 81 F.R. 65175.
 
-(b) Nothing in Annex 1 shall be construed to invalidate the prosecution of any offense committed before the date of this order. The maximum punishment for an offense committed before the date of this order shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+2015—Ex. Ord. No. 13696, June 17, 2015, 80 F.R. 35783.
 
-(c) Nothing in Annex 1 shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to the date of this order, and any such nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action shall proceed in the same manner and with the same effect as if the amendments in Annex 1 had not been prescribed.
+2014—Ex. Ord. No. 13669, June 13, 2014, 79 F.R. 34999.
 
-Sec. 3. (a) Pursuant to section 5542 of the Military Justice Act of 2016 (MJA) [Pub. L. 114–328, set out as an Effective Date of 2016 Amendment note above], division E of the National Defense Authorization Act for Fiscal Year 2017, Public Law 114–328, 130 Stat. 2000, 2967 (2016), except as otherwise provided by the MJA or this order, the MJA shall take effect on January 1, 2019.
+2013—Ex. Ord. No. 13643, May 15, 2013, 78 F.R. 29559.
 
-(b) Nothing in the MJA shall be construed to make punishable any act done or omitted prior to January 1, 2019, that was not punishable when done or omitted.
+2011—Ex. Ord. No. 13593, Dec. 13, 2011, 76 F.R. 78451.
 
-(c) Nothing in title LX of the MJA shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+2010—Ex. Ord. No. 13552, Aug. 31, 2010, 75 F.R. 54263.
 
-(d) Nothing in the MJA shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the MJA shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if the MJA had not been enacted.
+2008—Ex. Ord. No. 13468, July 24, 2008, 73 F.R. 43827.
 
-Sec. 4. The Manual for Courts-Martial, United States, as amended by section 1 of this order, is amended as described in Annex 2, which is attached to and made a part of this order [not set out in the Code].
+2007—Ex. Ord. No. 13430, Apr. 18, 2007, 72 F.R. 20213; Ex. Ord. No. 13447, Sept. 28, 2007, 72 F.R. 56179.
 
-Sec. 5. The amendments in Annex 2, including Appendix 12A, shall take effect on January 1, 2019, subject to the following:
+2005—Ex. Ord. No. 13387, Oct. 14, 2005, 70 F.R. 60697.
 
-(a) Nothing in Annex 2 shall be construed to make punishable any act done or omitted prior to January 1, 2019, that was not punishable when done or omitted.
+2004—Ex. Ord. No. 13365, Dec. 3, 2004, 69 F.R. 71333.
 
-(b) Nothing in section 4 of Annex 2 shall be construed to invalidate the prosecution of any offense committed before January 1, 2019. The maximum punishment for an offense committed before January 1, 2019, shall not exceed the maximum punishment in effect at the time of the commission of such offense.
+2002—Ex. Ord. No. 13262, Apr. 11, 2002, 67 F.R. 18773.
 
-(c) Nothing in Annex 2 shall be construed to invalidate any nonjudicial punishment proceeding, restraint, investigation, referral of charges, trial in which arraignment occurred, or other action begun prior to January 1, 2019. Except as otherwise provided in this order, the amendments in Annex 2 shall not apply in any case in which charges are referred to trial by court-martial before January 1, 2019. Except as otherwise provided in this order, proceedings in any such case shall be held in the same manner and with the same effect as if such amendments had not been prescribed.
+1999—Ex. Ord. No. 13140, Oct. 6, 1999, 64 F.R. 55115.
 
-Sec. 6. (a) The amendments to Articles 2, 56(d), 58a, and 63 of the UCMJ [[10 U.S.C. 802](./chapter-047-uniform-code-of-military-justice.md#section-802), 856(d), 858a, 863] enacted by sections 5102, 5301, 5303, and 5327 of the MJA apply only to cases in which all specifications allege offenses committed on or after January 1, 2019.
+1998—Ex. Ord. No. 13086, May 27, 1998, 63 F.R. 30065.
 
-(b) If the accused is found guilty of a specification alleging the commission of one or more offenses before January 1, 2019, Article 60 of the UCMJ [[10 U.S.C. 860](./chapter-047-uniform-code-of-military-justice.md#section-860)], as in effect on the date of the earliest offense of which the accused was found guilty, shall apply to the convening authority, in addition to the suspending authority in Article 60a(c) [[10 U.S.C. 860a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860a/c&num=0&edition=prelim)] as enacted by the MJA, to the extent that Article 60:
+1995—Ex. Ord. No. 12960, May 12, 1995, 60 F.R. 26647.
 
-(1) requires action by the convening authority on the sentence;
+1994—Ex. Ord. No. 12936, Nov. 10, 1994, 59 F.R. 59075.
 
-(2) permits action by the convening authority on findings;
+1993—Ex. Ord. No. 12888, Dec. 23, 1993, 58 F.R. 69153.
 
-(3) authorizes the convening authority to modify the findings and sentence of a court-martial, dismiss any charge or specification by setting aside a finding of guilty thereto, or change a finding of guilty to a charge or specification to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification;
+1991—Ex. Ord. No. 12767, June 27, 1991, 56 F.R. 30284.
 
-(4) authorizes the convening authority to order a proceeding in revision or a rehearing; or
+1990—Ex. Ord. No. 12708, Mar. 23, 1990, 55 F.R. 11353.
 
-(5) authorizes the convening authority to approve, disapprove, commute, or suspend a sentence in whole or in part.
+1987—Ex. Ord. No. 12586, Mar. 3, 1987, 52 F.R. 7103.
 
-Sec. 7. The amendment to Article 15 of the UCMJ [[10 U.S.C. 815](./chapter-047-uniform-code-of-military-justice.md#section-815)] enacted by section 5141 of the MJA shall apply to any nonjudicial punishment imposed on or after January 1, 2019.
+1986—Ex. Ord. No. 12550, Feb. 19, 1986, 51 F.R. 6497.
 
-Sec. 8. The amendments to Articles 32 and 34 of the UCMJ [[10 U.S.C. 832](./chapter-047-uniform-code-of-military-justice.md#section-832), 834] enacted by sections 5203 and 5205 of the MJA apply with respect to preliminary hearings conducted and advice given on or after January 1, 2019.
-
-Sec. 9. The amendments to Article 79 of the UCMJ [[10 U.S.C. 879](./chapter-047-uniform-code-of-military-justice.md#section-879)] enacted by section 5402 of the MJA and the amendments to Appendix 12A to the Manual for Courts-Martial, United States, made by this order apply only to offenses committed on or after January 1, 2019.
-
-Sec. 10. Except as provided by Rule for Courts-Martial 902A, as promulgated by Annex 2, any change to sentencing procedures:
-
-(a) made by Articles 16(c)(2), 19(b), 25(d)(2) and (3), 39(a)(4), 53, 53a, or 56(c) of the UCMJ [[10 U.S.C. 816(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section816/c/2&num=0&edition=prelim), 819(b), 825(d)(2) and (3), 839(a)(4), 853, 853a, 856(c)], as enacted by sections 5161, 5163, 5182, 5222, 5236, 5237, and 5301 of the MJA; or
-
-(b) included in Annex 2 in rules implementing those articles, applies only to cases in which all specifications allege offenses committed on or after January 1, 2019.
-
-Sec. 11. The amendments to Article 146 of the UCMJ [[10 U.S.C. 946](./chapter-047-uniform-code-of-military-justice.md#section-946)] enacted by section 5521 of the MJA and the new Article 146a [[10 U.S.C. 946a](./chapter-047-uniform-code-of-military-justice.md#section-946a)] enacted by section 5522 of the MJA shall take effect on the day after the report for fiscal year 2017 required by Article 146(c) of the UCMJ (as in effect before the MJA’s amendments) is submitted in accordance with Article 146(c)(1), but in no event later than December 1, 2018.
-
-Sec. 12. In accordance with Article 33 of the UCMJ [[10 U.S.C. 833](./chapter-047-uniform-code-of-military-justice.md#section-833)], as amended by section 5204 of the MJA, the Secretary of Defense, in consultation with the Secretary of Homeland Security, will issue nonbinding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to the disposition of charges and specifications in the interest of justice and discipline under Articles 30 and 34 of the UCMJ [[10 U.S.C. 830](./chapter-047-uniform-code-of-military-justice.md#section-830), 834]. That guidance will take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Federal Government with respect to the disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
-
-Donald J. Trump.
+1984—Ex. Ord. No. 12484, July 13, 1984, 49 F.R. 28825.
 
 
 <a id="section-802"></a>
 ## § 802. Art. 2. Persons subject to this chapter
 **(a)** The following persons are subject to this chapter:
 
-(1) Members of a regular component of the armed forces, including those awaiting discharge after expiration of their terms of enlistment; volunteers from the time of their muster or acceptance into the armed forces; inductees from the time of their actual induction into the armed forces; and other persons lawfully called or ordered into, or to duty in or for training in, the armed forces, from the dates when they are required by the terms of the call or order to obey it.
+(1) Members of a regular component of the armed forces, and members of the Space Force on active duty under [section 20105 of this title](./chapter-2003-status-and-participation.md#section-20105), including those awaiting discharge after expiration of their terms of enlistment; volunteers from the time of their muster or acceptance into the armed forces; inductees from the time of their actual induction into the armed forces; and other persons lawfully called or ordered into, or to duty in or for training in, the armed forces, from the dates when they are required by the terms of the call or order to obey it.
 
 (2) Cadets, aviation cadets, and midshipmen.
 
@@ -648,7 +641,7 @@ Donald J. Trump.
 
   (A) While on inactive-duty training and during any of the periods specified in subparagraph (B)—
 
-    (i) members of a reserve component; and
+    (i) members of a reserve component or the Space Force; and
 
     (ii) members of the Army National Guard of the United States or the Air National Guard of the United States, but only when in Federal service.
 
@@ -662,7 +655,7 @@ Donald J. Trump.
 
 (4) Retired members of a regular component of the armed forces who are entitled to pay.
 
-(5) Retired members of a reserve component who are receiving hospitalization from an armed force.
+(5) Retired members of a reserve component, or retired members of the Space Force who qualified for a non-regular retirement and are receiving retired pay, who are receiving hospitalization from an armed force.
 
 (6) Members of the Fleet Reserve and Fleet Marine Corps Reserve.
 
@@ -680,6 +673,8 @@ Donald J. Trump.
 
 (13) Individuals belonging to one of the eight categories enumerated in Article 4 of the Convention Relative to the Treatment of Prisoners of War, done at Geneva August 12, 1949 (6 UST 3316), who violate the law of war.
 
+(14) Retired members of the Space Force who qualified for a regular retirement under [section 20603 of this title](./chapter-2013-voluntary-retirement-for-length-of-service.md#section-20603) and are receiving retired pay.
+
 **(b)** The voluntary enlistment of any person who has the capacity to understand the significance of enlisting in the armed forces shall be valid for purposes of jurisdiction under subsection (a) and a change of status from civilian to member of the armed forces shall be effective upon the taking of the oath of enlistment.
 
 **(c)** Notwithstanding any other provision of law, a person serving with an armed force who—
@@ -695,7 +690,7 @@ is subject to this chapter until such person’s active service has been termina
 
 **(d)**
 
-(1) A member of a reserve component who is not on active duty and who is made the subject of proceedings under section 815 (article 15) or section 830 (article 30) with respect to an offense against this chapter may be ordered to active duty involuntarily for the purpose of—
+(1) A member of a reserve component or the Space Force who is not on active duty and who is made the subject of proceedings under section 815 (article 15) or section 830 (article 30) with respect to an offense against this chapter may be ordered to active duty involuntarily for the purpose of—
 
   (A) a preliminary hearing under [section 832 of this title](./chapter-047-uniform-code-of-military-justice.md#section-832) (article 32);
 
@@ -703,7 +698,7 @@ is subject to this chapter until such person’s active service has been termina
 
   (C) nonjudicial punishment under [section 815 of this title](./chapter-047-uniform-code-of-military-justice.md#section-815) (article 15).
 
-(2) A member of a reserve component may not be ordered to active duty under paragraph (1) except with respect to an offense committed while the member was—
+(2) A member of a reserve component or the Space Force may not be ordered to active duty under paragraph (1) except with respect to an offense committed while the member was—
 
   (A) on active duty; or
 
@@ -711,7 +706,7 @@ is subject to this chapter until such person’s active service has been termina
 
 (3) Authority to order a member to active duty under paragraph (1) shall be exercised under regulations prescribed by the President.
 
-(4) A member may be ordered to active duty under paragraph (1) only by a person empowered to convene general courts-martial in a regular component of the armed forces.
+(4) A member may be ordered to active duty under paragraph (1) only by a person empowered to convene general courts-martial in a regular component of the armed forces or the Space Force.
 
 (5) A member ordered to active duty under paragraph (1), unless the order to active duty was approved by the Secretary concerned, may not—
 
@@ -752,7 +747,24 @@ In clause (12), the words “Secretary concerned” are substituted for the word
 
 The Act of August 1, 1956, was enacted during the pendency of the codification bill.
 
+#### Codification
+Another section 1722(f) of Pub. L. 118–31 amended [section 973 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-973).
+
 #### Amendments
+2023—Subsec. (a)(1). Pub. L. 118–31, § 1722(f)(1)(A)(i), inserted “and members of the Space Force on active duty under [section 20105 of this title](./chapter-2003-status-and-participation.md#section-20105),” after “regular component of the armed forces,”.
+
+Subsec. (a)(3)(A)(i). Pub. L. 118–31, § 1722(f)(1)(A)(ii), inserted “or the Space Force” after “reserve component”.
+
+Subsec. (a)(5). Pub. L. 118–31, § 1722(f)(1)(A)(iii), inserted “, or retired members of the Space Force who qualified for a non-regular retirement and are receiving retired pay,” after “a reserve component”.
+
+Subsec. (a)(14). Pub. L. 118–31, § 1722(f)(1)(A)(iv), added par. (14).
+
+Subsec. (d)(1). Pub. L. 118–31, § 1722(f)(1)(B)(i), inserted “or the Space Force” after “reserve component” in introductory provisions.
+
+Subsec. (d)(2). Pub. L. 118–31, § 1722(f)(1)(B)(ii), inserted “or the Space Force” after “a reserve component” in introductory provisions.
+
+Subsec. (d)(4). Pub. L. 118–31, § 1722(f)(1)(B)(iii), inserted “or the Space Force” after “in a regular component of the armed forces”.
+
 2016—Subsec. (a)(3). Pub. L. 114–328 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Members of a reserve component while on inactive-duty training, but in the case of members of the Army National Guard of the United States or the Air National Guard of the United States only when in Federal service.”
 
 2013—Subsec. (d)(1)(A). Pub. L. 113–66 substituted “a preliminary hearing under section 832” for “investigation under section 832”.
@@ -807,7 +819,7 @@ Pub. L. 99–661, div. A, title VIII, § 808, Nov. 14, 1986, 100 Stat. 3909, pro
 Amendment by Pub. L. 98–209 effective Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -857,7 +869,7 @@ I will never forget that I am an American, fighting for freedom, responsible for
 
 **(c)** No person who has deserted from the armed forces may be relieved from amenability to the jurisdiction of this chapter by virtue of a separation from any later period of service.
 
-**(d)** A member of a reserve component who is subject to this chapter is not, by virtue of the termination of a period of active duty or inactive-duty training, relieved from amenability to the jurisdiction of this chapter for an offense against this chapter committed during such period of active duty or inactive-duty training.
+**(d)** A member of a reserve component or the Space Force who is subject to this chapter is not, by virtue of the termination of a period of active duty or inactive-duty training, relieved from amenability to the jurisdiction of this chapter for an offense against this chapter committed during such period of active duty or inactive-duty training.
 
 ### Statutory Notes
 
@@ -872,7 +884,12 @@ In subsection (b), the words “Each person” are substituted for the words “
 
 In subsection (c), the words “No * * * may” are substituted for the words “Any * * * shall not”. The word “later” is substituted for the word “subsequent”.
 
+#### Codification
+Another section 1722(f) of Pub. L. 118–31 amended [section 973 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-973).
+
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 inserted “or the Space Force” after “reserve component”.
+
 1992—Subsec. (a). Pub. L. 102–484 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Subject to [section 843 of this title](./chapter-047-uniform-code-of-military-justice.md#section-843) (article 43), no person charged with having committed, while in a status in which he was subject to this chapter, an offense against this chapter, punishable by confinement for five years or more and for which the person cannot be tried in the courts of the United States or of a State, a Territory, or the District of Columbia, may be relieved from amenability to trial by court-martial by reason of the termination of that status.”
 
 1986—Subsec. (d). Pub. L. 99–661 added subsec. (d).
@@ -983,7 +1000,7 @@ In subsection (c), the words “may later” are substituted for the words “sh
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1986 Amendment
 Pub. L. 99–661, div. A, title VIII, § 807(b), Nov. 14, 1986, 100 Stat. 3909, provided that: “The amendment made by subsection (a) [amending this section]— “(1) shall take effect on the date of the enactment of this Act [Nov. 14, 1986]; and “(2) may not be construed to invalidate an action taken by a judge advocate, pursuant to an assignment or detail under [section 973(b)(2)(B) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section973/b/2/B&num=0&edition=prelim), United States Code, before the date of the enactment of this Act.”
@@ -1491,7 +1508,7 @@ Subsecs. (f), (g). Pub. L. 87–648 redesignated former subsec. (e) as (f) and a
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1983 Amendment
 Amendment by section 13(b) of Pub. L. 98–209 effective Dec. 6, 1983, and amendment by section 2(c) of Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -1504,7 +1521,7 @@ Pub. L. 87–648, § 2, Sept. 7, 1962, 76 Stat. 450, provided that: “This Act 
 
 
 <a id="section-816"></a>
-## § 816. Art 16. Courts-martial classified
+## § 816. Art. 16. Courts-martial classified
 **(a) In General.—** The three kinds of courts-martial in each of the armed forces are the following:
 
 (1) General courts-martial, as described in subsection (b).
@@ -1527,7 +1544,7 @@ Pub. L. 87–648, § 2, Sept. 7, 1962, 76 Stat. 450, provided that: “This Act 
 
 (2) A special court-martial consisting of a military judge alone—
 
-  (A) if the case is so referred by the convening authority, subject to [section 819 of this title](./chapter-047-uniform-code-of-military-justice.md#section-819) (article 19) and such limitations as the President may prescribe by regulation; or
+  (A) if the case is so referred, subject to [section 819 of this title](./chapter-047-uniform-code-of-military-justice.md#section-819) (article 19) and such limitations as the President may prescribe by regulation; or
 
   (B) if the case is referred under paragraph (1) and, before the court is assembled, the accused, knowing the identity of the military judge and after consultation with defense counsel, requests, orally on the record or in writing, a court composed of a military judge alone and the military judge approves the request.
 
@@ -1543,6 +1560,8 @@ Pub. L. 87–648, § 2, Sept. 7, 1962, 76 Stat. 450, provided that: “This Act 
 The word “The” is substituted for the words “There shall be”. The word “are” is substituted for the word “namely”. The words “not less than five members” are substituted for the words “any number of members not less than five”. The words “not less than three members” are substituted for the words “any number of members not less than three”. The word “commissioned” is inserted before the word “officer” in clause (3) for clarity.
 
 #### Amendments
+2023—Subsec. (c)(2)(A). Pub. L. 118–31 struck out “by the convening authority” after “is so referred”.
+
 2017—Subsecs. (b), (c). Pub. L. 115–91 substituted “sections 825(e)(3) and 829 of this title (articles 25(e)(3) and 29)” for “sections 825(d)(3) and 829 of this title (articles 25(d)(3) and 29)” wherever appearing.
 
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section defined the three kinds of courts-martial in each of the armed forces.
@@ -1552,6 +1571,9 @@ The word “The” is substituted for the words “There shall be”. The word �
 1983—Par. (1)(B). Pub. L. 98–209 substituted “orally on the record or in writing” for “in writing”.
 
 1968—Pub. L. 90–632 provided that a general or special court-martial shall consist of only a military judge if the accused, before the court is assembled, so requests in writing and the military judge approves, with the added requirements that the accused know the identity of the military judge and have the advice of counsel, and that the election be available in the case of a special court-martial only if a military judge has been detailed to the court.
+
+#### Effective Date of 2023 Amendment
+Pub. L. 118–31, div. A, title V, § 531(e), Dec. 22, 2023, 137 Stat. 260, provided that: “The amendments made by subsection (b) and subsection (c)(1) [amending this section and sections 824a and 825 of this title] shall take effect immediately after the coming into effect of the amendments made by part 1 of subtitle D of title V of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) as provided in section 539C of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note).”
 
 #### Effective Date of 2017 Amendment
 Amendment by Pub. L. 115–91 effective immediately after the amendments made by div. E (§§ 5001–5542) of Pub. L. 114–328 take effect as provided for in section 5542 of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), see section 1081(c)(4) of Pub. L. 115–91, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -1737,20 +1759,13 @@ The words “do not deprive” are substituted for the words “shall not be con
 
 (9) any other commanding officer in any of the armed forces when empowered by the President.
 
-**(b)** If any such commanding officer is an accuser, the court shall be convened by superior competent authority, and may in any case be convened by such authority if considered desirable by him.
+**(b)**
 
-### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 117–81, div. A, title V, §§ 534(a), 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (b) of this section is amended:
-
-(1) by striking “If any” and inserting “(1) If any”; and
-
-(2) by adding at the end the following new paragraph:
+(1) If any such commanding officer is an accuser, the court shall be convened by superior competent authority, and may in any case be convened by such authority if considered desirable by him.
 
 (2) A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a general court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.
 
-See 2021 Amendment note below.
+### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1804,20 +1819,13 @@ Pub. L. 116–92, div. A, title V, § 540A, Dec. 20, 2019, 133 Stat. 1365, provi
 
 (7) the commanding officer or officer in charge of any other command when empowered by the Secretary concerned.
 
-**(b)** If any such officer is an accuser, the court shall be convened by superior competent authority, and may in any case be convened by such authority if considered advisable by him.
+**(b)**
 
-### Statutory Notes
-
-#### Amendment of Subsection (b)
-Pub. L. 117–81, div. A, title V, §§ 534(b), 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (b) of this section is amended:
-
-(1) by striking “If any” and inserting “(1) If any”; and
-
-(2) by adding at the end the following new paragraph:
+(1) If any such officer is an accuser, the court shall be convened by superior competent authority, and may in any case be convened by such authority if considered advisable by him.
 
 (2) A commanding officer shall not be considered an accuser solely due to the role of the commanding officer in convening a special court-martial to which charges and specifications were referred by a special trial counsel in accordance with this chapter.
 
-See 2021 Amendment notes below.
+### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1874,7 +1882,7 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
 
 <a id="section-824a"></a>
-## § 824a. Art 24a. Special trial counsel
+## § 824a. Art. 24a. Special trial counsel
 **(a) Detail of Special Trial Counsel.—** Each Secretary concerned shall promulgate regulations for the detail of commissioned officers to serve as special trial counsel.
 
 **(b) Qualifications.—** A special trial counsel shall be a commissioned officer who—
@@ -1901,7 +1909,7 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
   (B) *Known and related offenses.—* — If a special trial counsel determines that a reported offense is a covered offense, the special trial counsel may also exercise authority over any offense that the special trial counsel determines to be related to the covered offense and any other offense alleged to have been committed by a person alleged to have committed the covered offense.
 
-(3) **Dismissal; referral; plea bargains.—** — Subject to paragraph (4), with respect to charges and specifications alleging any offense over which a special trial counsel exercises authority, a special trial counsel shall have exclusive authority to, in accordance with this chapter—
+(3) **Dismissal; referral; plea bargains.—** — Subject to paragraph (5), with respect to charges and specifications alleging any offense over which a special trial counsel exercises authority, a special trial counsel shall have exclusive authority to, in accordance with this chapter—
 
   (A) on behalf of the Government, withdraw or dismiss the charges and specifications or make a motion to withdraw or dismiss the charges and specifications;
 
@@ -1909,16 +1917,54 @@ In subsection (b), the words “only one commissioned” are substituted for the
 
   (C) enter into a plea agreement; and
 
-  (D) determine if an ordered rehearing is impracticable.
+  (D) determine if an authorized rehearing is impracticable.
 
 (4) **Binding determination.—** — The determination of a special trial counsel to refer charges and specifications to a court-martial for trial shall be binding on any applicable convening authority for the referral of such charges and specifications.
 
 (5) **Deferral to commander or convening authority.—** — If a special trial counsel exercises authority over an offense and elects not to prefer charges and specifications for such offense or, with respect to charges and specifications for such offense preferred by a person other than a special trial counsel, elects not to refer such charges and specifications, a commander or convening authority may exercise any of the authorities of such commander or convening authority under this chapter with respect to such offense, except that such commander or convening authority may not refer charges and specifications for a covered offense for trial by special or general court-martial.
 
+**(d) Special Trial Counsel Authority Over Certain Other Offenses.—**
+
+(1) **Offenses occurring before effective date.—** — A special trial counsel may, at the sole and exclusive discretion of the special trial counsel, exercise authority over the following offenses:
+
+  (A) An offense under section 917a (article 117a), 918 (article 118), section 919 (article 119), section 920 (article 120), section 920b (article 120b), section 920c (article 120c), section 928b (article 128b), or the standalone offense of child pornography punishable under section 934 (article 134) of this title that occurred on or before December 27, 2023.
+
+  (B) An offense under section 925 (article 125), section 930 (article 130), or section 932 (article 132) of this title that occurred on or after January 1, 2019, and before December 28, 2023.
+
+  (C) An offense under section 920a (article 120a) of this title, an offense under section 925 (article 125) of this title alleging an act of nonconsensual sodomy, or the standalone offense of kidnapping punishable under section 934 (article 134) of this title that occurred before January 1, 2019.
+
+  (D) A conspiracy to commit an offense specified in subparagraph (A), (B), or (C) as punishable under [section 881 of this title](./chapter-047-uniform-code-of-military-justice.md#section-881) (article 81).
+
+  (E) A solicitation to commit an offense specified in subparagraph (A), (B), or (C) as punishable under [section 882 of this title](./chapter-047-uniform-code-of-military-justice.md#section-882) (article 82).
+
+  (F) An attempt to commit an offense specified in subparagraph (A), (B), (C), (D), or (E) as punishable under [section 880 of this title](./chapter-047-uniform-code-of-military-justice.md#section-880) (article 80).
+
+(2) **Effect of exercise of authority.—**
+
+  (A) *Treatment as covered offense.—* — If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the offense over which the special trial counsel exercises authority shall be considered a covered offense for purposes of this chapter.
+
+  (B) *Known or related offenses.—* — If a special trial counsel exercises authority over an offense pursuant to paragraph (1), the special trial counsel may exercise the authority of the special trial counsel under subparagraph (B) of subsection (c)(2) with respect to other offenses described in that subparagraph without regard to the date on which the other offenses occur.
+
 ### Statutory Notes
+
+#### Amendments
+2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
+
+2022—Subsec. (c)(3). Pub. L. 117–263, § 542(a)(1), substituted “Subject to paragraph (5)” for “Subject to paragraph (4)” in introductory provisions.
+
+Subsec. (c)(3)(D). Pub. L. 117–263, § 542(a)(2), substituted “an authorized rehearing” for “an ordered rehearing”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–31 effective immediately after amendment by part 1 of subtitle D of title V of Pub. L. 117–81, see section 531(e) of Pub. L. 118–31, set out as a note under [section 816 of this title](./chapter-047-uniform-code-of-military-justice.md#section-816).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. A, title V, § 542(b), Dec. 23, 2022, 136 Stat. 2581, provided that: “The amendments made by subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692) [enacting this section] as provided in section 539C of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note).”
 
 #### Effective Date
 Section effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Residual Prosecutorial Duties and Other Judicial Functions of Convening Authorities in Covered Cases
+Pub. L. 117–263, div. A, title V, § 541(c), Dec. 23, 2022, 136 Stat. 2580, provided that: “The President shall prescribe regulations to ensure that residual prosecutorial duties and other judicial functions of convening authorities, including granting immunity, ordering depositions, and hiring experts, with respect to charges and specifications over which a special trial counsel exercises authority pursuant to [section 824a of title 10](./chapter-047-uniform-code-of-military-justice.md#section-824a), United States Code (article 24a of the Uniform Code of Military Justice) (as added by section 531 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1692)), are transferred to the military judge, the special trial counsel, or other authority as appropriate in such cases by no later than the effective date established in section 539C of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; [10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note), in consideration of due process for all parties involved in such a case.”
 
 
 <a id="section-825"></a>
@@ -1943,23 +1989,30 @@ Section effective on the date that is two years after Dec. 27, 2021, and applica
 
 **(d)**
 
-(1) Except as provided in paragraph (2) for capital offenses, the accused in a court-martial with a military judge and members may, after the findings are announced and before any matter is presented in the sentencing phase, request, orally on the record or in writing, sentencing by members.
+(1) Except as provided in paragraph (2) for capital offenses, the accused in a court-martial with a military judge and members shall be sentenced by the military judge.
 
-(2) In a capital case, the accused shall be sentenced by the members for all offenses for which the court-martial may sentence the accused to death in accordance with [section 853(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section853/c&num=0&edition=prelim) (article 53(c)).
+(2) In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death, the accused shall be sentenced in accordance with [section 853(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section853/c&num=0&edition=prelim) (article 53(c)).
 
 (3) In a capital case, if the accused is convicted of a non-capital offense, the accused shall be sentenced for such non-capital offense in accordance with [section 853(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section853/b&num=0&edition=prelim) (article 53(b)), regardless of whether the accused is convicted of an offense for which the court-martial may sentence the accused to death.
 
 **(e)**
 
-(1) When it can be avoided, no member of an armed force may be tried by a court-martial any member of which is junior to him in rank or grade.
+(1) When it can be avoided, no member of an armed force may be tried by a court-martial any member of which is junior to the member being tried in rank or grade.
 
-(2) When convening a court-martial, the convening authority shall detail as members thereof such members of the armed forces as, in his opinion, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a general or special court-martial when he is the accuser or a witness for the prosecution or has acted as preliminary hearing officer or as counsel in the same case.
+(2) When convening a court-martial, the convening authority shall detail as members thereof such members of the armed forces as, in the opinion of the convening authority, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a general or special court-martial when the member is the accuser or a witness for the prosecution or has acted as preliminary hearing officer or as counsel in the same case.
 
 (3) The convening authority shall detail not less than the number of members necessary to impanel the court-martial under [section 829 of this title](./chapter-047-uniform-code-of-military-justice.md#section-829) (article 29).
 
-**(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate his authority under this subsection to his staff judge advocate or legal officer or to any other principal assistant.
+**(f)** Before a court-martial is assembled for the trial of a case, the convening authority may excuse a member of the court from participating in the case. Under such regulations as the Secretary concerned may prescribe, the convening authority may delegate the authority of the convening authority under this subsection to the staff judge advocate or legal officer of the convening authority or to any other principal assistant.
 
 ### Statutory Notes
+
+#### Amendment of Subsection (e)
+Pub. L. 117–263, div. A, title V, § 543(a), (b), Dec. 23, 2022, 136 Stat. 2582, provided that, effective on the date that is two years after Dec. 23, 2022, and applicable with respect to courts-martial convened on or after that date, subsection (e) of this section is amended by adding at the end the following new paragraph:
+
+(4) When convening a court-martial, the convening authority shall detail as members thereof members of the armed forces under such regulations as the President may prescribe for the randomized selection of qualified personnel, to the maximum extent practicable.
+
+See 2022 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -1985,6 +2038,18 @@ In subsection (d)(1), the word “may” is substituted for the word “shall”
 In subsection (d)(2), the word “is” is substituted for the words “shall be”. The word “detail” is substituted for the word “appoint”, since the filling of the position involved is not appointment to an office in the constitutional sense. The words “member of an armed force” and “members of the armed forces”, respectively, are substituted for the words “person” and “persons”.
 
 #### Amendments
+2023—Subsec. (d)(1). Pub. L. 118–31, § 531(b)(2)(A)(i), substituted “shall be sentenced by the military judge” for “may, after the findings are announced and before any matter is presented in the sentencing phase, request, orally on the record or in writing, sentencing by members”.
+
+Subsec. (d)(2). Pub. L. 118–31, § 531(b)(2)(A)(ii), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In a capital case, the accused shall be sentenced by the members for all offenses for which the court-martial may sentence the accused to death in accordance with [section 853(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section853/c&num=0&edition=prelim) (article 53(c)).”
+
+Subsec. (e)(1). Pub. L. 118–31, § 531(b)(2)(B)(i), substituted “the member being tried” for “him”.
+
+Subsec. (e)(2). Pub. L. 118–31, § 531(b)(2)(B)(ii), substituted “the opinion of the convening authority” for “his opinion” and “the member” for “he”.
+
+Subsec. (f). Pub. L. 118–31, § 531(b)(2)(C), substituted “the authority of the convening authority” for “his authority” and “the staff judge advocate or legal officer of the convening authority” for “his staff judge advocate or legal officer”.
+
+2022—Subsec. (e)(4). Pub. L. 117–263 added par. (4).
+
 2016—Subsec. (c). Pub. L. 114–328, § 5182(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) related to service on general and special courts-martial by enlisted members.
 
 Subsec. (d). Pub. L. 114–328, § 5182(b)(2), added subsec. (d). Former subsec. (d) redesignated (e).
@@ -2005,6 +2070,12 @@ Subsec. (e). Pub. L. 98–209, § 3(b), added subsec. (e).
 
 1968—Subsec. (c)(1). Pub. L. 90–632 inserted requirement that an accused’s request for inclusion of enlisted members on his court-martial be made before conclusion of a pre-trial session called by the military judge under section 839(a) or before the court is assembled for his trial and substituted “assembled” for “convened” to describe the calling together of the court for the trial in provision allowing such calling together without requested enlisted members if such members cannot be obtained.
 
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–31 effective immediately after amendment by part 1 of subtitle D of title V of Pub. L. 117–81, see section 531(e) of Pub. L. 118–31, set out as a note under [section 816 of this title](./chapter-047-uniform-code-of-military-justice.md#section-816).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. A, title V, § 543(b), Dec. 23, 2022, 136 Stat. 2582, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 23, 2022] and shall apply with respect to courts-martial convened on or after that effective date.”
+
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
@@ -2018,6 +2089,9 @@ Amendment by section 13(c) of Pub. L. 98–209 effective Dec. 6, 1983, and amend
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
+
+#### Regulations
+Pub. L. 117–263, div. A, title V, § 543(c), Dec. 23, 2022, 136 Stat. 2582, provided that: “Not later than the effective date specified in subsection (b) [see Effective Date of 2022 Amendment note above], the President shall prescribe regulations implementing the requirement under paragraph (4) of [section 825(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section825/e&num=0&edition=prelim), United States Code (article 25(e) of the Uniform Code of Military Justice), as added by subsection (a) of this section.”
 
 
 <a id="section-825a"></a>
@@ -2157,18 +2231,13 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(d)** To the greatest extent practicable, in any capital case, at least one defense counsel shall, as determined by the Judge Advocate General, be learned in the law applicable to such cases. If necessary, this counsel may be a civilian and, if so, may be compensated in accordance with regulations prescribed by the Secretary of Defense.
 
-### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, §§ 535, 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended by adding at the end the following new subsection:
-
-(e) For each general and special court-martial for which charges and specifications were referred by a special trial counsel—
+**(e)** For each general and special court-martial for which charges and specifications were referred by a special trial counsel—
 
 (1) a special trial counsel shall be detailed as trial counsel; and
 
 (2) a special trial counsel may detail other trial counsel as necessary who are judge advocates.
 
-See 2021 Amendment note below.
+### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -2251,7 +2320,7 @@ The words “Secretary concerned” are substituted for the words “Secretary o
 
 
 <a id="section-829"></a>
-## § 829. Art 29. Assembly and impaneling of members; detail of new members and military judges
+## § 829. Art. 29. Assembly and impaneling of members; detail of new members and military judges
 **(a) Assembly.—** The military judge shall announce the assembly of a general or special court-martial with members. After such a court-martial is assembled, no member may be absent, unless the member is excused—
 
 (1) as a result of a challenge;
@@ -2346,7 +2415,7 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 
 <a id="section-830"></a>
-## § 830. Art 30. Charges and specifications
+## § 830. Art. 30. Charges and specifications
 **(a) In General.—** Charges and specifications—
 
 (1) may be preferred only by a person subject to this chapter; and
@@ -2393,7 +2462,7 @@ Pub. L. 116–92, div. A, title V, § 540C, Dec. 20, 2019, 133 Stat. 1366, provi
 
 
 <a id="section-830a"></a>
-## § 830a. Art 30a. Proceedings conducted before referral
+## § 830a. Art. 30a. Proceedings conducted before referral
 **(a) In General.—**
 
 (1) The President shall prescribe regulations for matters relating to proceedings conducted before referral of charges and specifications to court-martial for trial, including the following:
@@ -2492,9 +2561,19 @@ The word “may” is substituted for the word “shall” throughout the revise
 
 (1)
 
-  (A) Except as provided in subparagraph (B), a preliminary hearing shall be held before referral of charges and specifications for trial by general court-martial. The preliminary hearing shall be conducted by an impartial hearing officer, detailed by the convening authority in accordance with subsection (b).
+  (A) Except as provided in subparagraph (B), a preliminary hearing shall be held before referral of charges and specifications for trial by general court-martial. The preliminary hearing shall be conducted by an impartial hearing officer detailed in accordance with subparagraph (C).
 
-  (B) Under regulations prescribed by the President, a preliminary hearing need not be held if the accused submits a written waiver to the convening authority and the convening authority determines that a hearing is not required.
+  (B) Under regulations prescribed by the President, a preliminary hearing need not be held if the accused submits a written waiver to—
+
+    (i) except as provided in clause (ii), the convening authority and the convening authority determines that a hearing is not required; and
+
+    (ii) with respect to charges and specifications over which the special trial counsel is exercising authority in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), the special trial counsel and the special trial counsel determines that a hearing is not required.
+
+  (C)
+
+    (i) Except as provided in clause (ii), the convening authority shall detail a hearing officer.
+
+    (ii) If a special trial counsel is exercising authority over the charges and specifications subject to a preliminary hearing under this section (article), the special trial counsel shall request a hearing officer and a hearing officer shall be provided by the convening authority, in accordance with regulations prescribed by the President.
 
 (2) The purpose of the preliminary hearing shall be limited to determining the following:
 
@@ -2518,7 +2597,7 @@ The word “may” is substituted for the word “shall” throughout the revise
 
 (3) Whenever practicable, the hearing officer shall be equal in grade or senior in grade to military counsel who are detailed to represent the accused or the Government at the preliminary hearing.
 
-**(c) Report to Convening Authority.—** After a preliminary hearing under this section, the hearing officer shall submit to the convening authority a written report (accompanied by a recording of the preliminary hearing under subsection (e)) that includes the following:
+**(c) Report to Convening Authority or Special Trial Counsel.—** After a preliminary hearing under this section, the hearing officer shall submit to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel, a written report (accompanied by a recording of the preliminary hearing under subsection (e)) that includes the following:
 
 (1) For each specification, a statement of the reasoning and conclusions of the hearing officer with respect to determinations under subsection (a)(2), including a summary of relevant witness testimony and documentary evidence presented at the hearing and any observations of the hearing officer concerning the testimony of witnesses and the availability and admissibility of evidence at trial.
 
@@ -2557,33 +2636,6 @@ The word “may” is substituted for the word “shall” throughout the revise
 (2) is named in one of the specifications.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, §§ 536, 539C, Dec. 27, 2021, 135 Stat. 1696, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
-
-(1) in subsection (a)(1)—
-
-(A) in subparagraph (A), by striking “hearing officer” and all that follows through the period at the end and inserting “hearing officer detailed in accordance with subparagraph (C).”;
-
-(B) in subparagraph (B), by striking “written waiver” and all that follows through the period at the end and inserting the following: “written waiver to—
-
-“(i) except as provided in clause (ii), the convening authority and the convening authority determines that a hearing is not required; and
-
-“(ii) with respect to charges and specifications over which the special trial counsel is exercising authority in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), the special trial counsel and the special trial counsel determines that a hearing is not required.”; and
-
-(C) by adding at the end the following new subparagraph:
-
-“(C)(i) Except as provided in clause (ii), the convening authority shall detail a hearing officer.
-
-“(ii) If a special trial counsel is exercising authority over the charges and specifications subject to a preliminary hearing under this section (article), the special trial counsel shall request a hearing officer and a hearing officer shall be provided by the convening authority, in accordance with regulations prescribed by the President.”; and
-
-(2) in subsection (c)—
-
-(A) in the heading, by inserting “or Special Trial Counsel” after “Convening Authority”; and
-
-(B) in the matter preceding paragraph (1) by striking “to the convening authority” and inserting “to the convening authority or, in the case of a preliminary hearing in which the hearing officer is provided at the request of a special trial counsel to the special trial counsel,”.
-
-See 2021 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -2647,7 +2699,7 @@ Amendment by Pub. L. 97–81 to take effect at end of 60-day period beginning on
 
 
 <a id="section-833"></a>
-## § 833. Art 33. Disposition guidance
+## § 833. Art. 33. Disposition guidance
 
 The President shall direct the Secretary of Defense to issue, in consultation with the Secretary of the department in which the Coast Guard is operating when it is not operating as a service in the Navy, non-binding guidance regarding factors that commanders, convening authorities, staff judge advocates, and judge advocates should take into account when exercising their duties with respect to disposition of charges and specifications in the interest of justice and discipline under sections 830 and 834 of this title (articles 30 and 34). Such guidance shall take into account, with appropriate consideration of military requirements, the principles contained in official guidance of the Attorney General to attorneys for the Government with respect to disposition of Federal criminal cases in accordance with the principle of fair and evenhanded administration of Federal criminal law.
 
@@ -2669,7 +2721,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 ## § 834. Art. 34. Advice to convening authority before referral for trial
 **(a) General Court-martial.—**
 
-(1) **Staff judge advocate advice required before referral.—** — Before referral of charges and specifications to a general court-martial for trial, the convening authority shall submit the matter to the staff judge advocate for advice, which the staff judge advocate shall provide to the convening authority in writing. The convening authority may not refer a specification under a charge to a general court-martial unless the staff judge advocate advises the convening authority in writing that—
+(1) **Staff judge advocate advice required before referral.—** — Subject to subsection (c), before referral of charges and specifications to a general court-martial for trial, the convening authority shall submit the matter to the staff judge advocate for advice, which the staff judge advocate shall provide to the convening authority in writing. The convening authority may not refer a specification under a charge to a general court-martial unless the staff judge advocate advises the convening authority in writing that—
 
   (A) the specification alleges an offense under this chapter;
 
@@ -2681,44 +2733,29 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 (3) **Staff judge advocate advice and recommendation to accompany referral.—** — When a convening authority makes a referral for trial by general court-martial, the written advice of the staff judge advocate under paragraph (1) and the written recommendation of the staff judge advocate under paragraph (2) with respect to each specification shall accompany the referral.
 
-**(b) Special Court-martial; Convening Authority Consultation With Judge Advocate.—** Before referral of charges and specifications to a special court-martial for trial, the convening authority shall consult a judge advocate on relevant legal issues.
+**(b) Special Court-martial; Convening Authority Consultation With Judge Advocate.—** Subject to subsection (c), before referral of charges and specifications to a special court-martial for trial, the convening authority shall consult a judge advocate on relevant legal issues.
 
-**(c) General and Special Courts-martial; Correction of Charges and Specifications Before Referral.—** Before referral for trial by general court-martial or special court-martial, changes may be made to charges and specifications—
+**(c) Covered Offenses.—** A referral to a general or special court-martial for trial of charges and specifications over which a special trial counsel exercises authority may only be made—
+
+(1) by a special trial counsel, subject to a special trial counsel’s written determination accompanying the referral that—
+
+  (A) each specification under a charge alleges an offense under this chapter;
+
+  (B) there is probable cause to believe that the accused committed the offense charged; and
+
+  (C) a court-martial would have jurisdiction over the accused and the offense; or
+
+(2) in the case of charges and specifications that do not allege a covered offense and as to which a special trial counsel declines to prefer or, in the case of charges and specifications preferred by a person other than a special trial counsel, refer charges, by the convening authority in accordance with this section.
+
+**(d) General and Special Courts-martial; Correction of Charges and Specifications Before Referral.—** Before referral for trial by general court-martial or special court-martial, changes may be made to charges and specifications—
 
 (1) to correct errors in form; and
 
 (2) when applicable, to conform to the substance of the evidence contained in a report under [section 832(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section832/c&num=0&edition=prelim) (article 32(c)).
 
-**(d) Referral Defined.—** In this section, the term “referral” means the order of a convening authority that charges and specifications against an accused be tried by a specified court-martial.
+**(e) Referral Defined.—** In this section, the term “referral” means the order of a convening authority or, with respect to charges and specifications over which a special trial counsel exercises authority in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), a special trial counsel, that charges and specifications against an accused be tried by a specified court-martial.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, §§ 537, 539C, Dec. 27, 2021, 135 Stat. 1697, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
-
-(1) in subsection (a)(1), by striking “Before referral” and inserting “Subject to subsection (c), before referral”;
-
-(2) in subsection (b), by striking “Before referral” and inserting “Subject to subsection (c), before referral”;
-
-(3) by redesignating subsections (c) and (d) as subsections (d) and (e) respectively;
-
-(4) by inserting after subsection (b) the following new subsection:
-
-“(c) Covered Offenses.—A referral to a general or special court-martial for trial of charges and specifications over which a special trial counsel exercises authority may only be made—
-
-“(1) by a special trial counsel, subject to a special trial counsel’s written determination accompanying the referral that—
-
-“(A) each specification under a charge alleges an offense under this chapter;
-
-“(B) there is probable cause to believe that the accused committed the offense charged; and
-
-“(C) a court-martial would have jurisdiction over the accused and the offense; or
-
-“(2) in the case of charges and specifications that do not allege a covered offense and as to which a special trial counsel declines to prefer or, in the case of charges and specifications preferred by a person other than a special trial counsel, refer charges, by the convening authority in accordance with this section.”; and
-
-(5) in subsection (e), as so redesignated, by inserting “or, with respect to charges and specifications over which a special trial counsel exercises authority in accordance with [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), a special trial counsel,” after “convening authority”.
-
-See 2021 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -3364,14 +3401,9 @@ Pub. L. 115–91, div. A, title V, § 531(n)(2), (3), Dec. 12, 2017, 131 Stat. 1
   (A) after the members, having taken an oath as members under [section 842 of this title](./chapter-047-uniform-code-of-military-justice.md#section-842) (article 42) and after completion of challenges under [section 841 of this title](./chapter-047-uniform-code-of-military-justice.md#section-841) (article 41), are impaneled; and
 
   (B) before announcement of findings under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853) (article 53);
-  the case is dismissed or terminated by the convening authority or on motion of the prosecution for failure of available evidence or witnesses.
+  the case is dismissed or terminated by the convening authority or the special trial counsel or on motion of the prosecution for failure of available evidence or witnesses.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 117–81, div. A, title V, §§ 538, 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (c) of this section is amended by inserting “or the special trial counsel” after “the convening authority” each place it appears.
-
-See 2021 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -3910,50 +3942,27 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(b) Sentencing Generally.—**
 
-(1) **General and special courts-martial.—**
-
-  (A) *Sentencing by military judge.—* — Except as provided in subparagraph (B), and in subsection (c) for capital offenses, if the accused is convicted of an offense in a trial by general or special court-martial, the military judge shall sentence the accused.
-
-  (B) *Sentencing by members.—* — If the accused is convicted of an offense by general or special court-martial consisting of a military judge and members and the accused elects sentencing by members under [section 825 of this title](./chapter-047-uniform-code-of-military-justice.md#section-825) (article 25), the members shall sentence the accused.
-
-  (C) *Sentence of the accused.—* — The sentence determined pursuant to this paragraph constitutes the sentence of the accused.
+(1) **General and special courts-martial.—** — Except as provided in subsection (c) for capital offenses, if the accused is convicted of an offense in a trial by general or special court-martial, the military judge shall sentence the accused. The sentence determined by the military judge constitutes the sentence of the court-martial.
 
 (2) **Summary courts-martial.—** — If the accused is convicted of an offense in a trial by summary court-martial, the court-martial shall sentence the accused.
 
 **(c) Sentencing for Capital Offenses.—**
 
-(1) **In general.—** — In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death, the members shall determine whether the sentence for that offense shall be death or a lesser authorized punishment.
+(1) **In general.—** — In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death—
 
-(2) **Lesser authorized punishments.—** — In accordance with regulations prescribed by the President, the court-martial may include in any sentence to death or life in prison without eligibility for parole other lesser punishments authorized under this chapter.
+  (A) the members shall determine—
+
+    (i) whether the sentence for that offense shall be death or life in prison without eligibility for parole; or
+
+    (ii) whether the matter shall be returned to the military judge for determination of a lesser punishment; and
+
+  (B) the military judge shall sentence the accused for that offense in accordance with the determination of the members under subparagraph (A).
+
+(2) **Lesser authorized punishments.—** — In accordance with regulations prescribed by the President, the military judge may include in any sentence to death or life in prison without eligibility for parole other lesser punishments authorized under this chapter.
 
 (3) **Other non-capital offenses.—** — In a capital case, if the accused is convicted of a non-capital offense, the accused shall be sentenced for such non-capital offense in accordance with subsection (b), regardless of whether the accused is convicted of an offense for which the court-martial may sentence the accused to death.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, § 539E(a), (f), Dec. 27, 2021, 135 Stat. 1700, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
-
-(1) in subsection (b), by amending paragraph (1) to read as follows:
-
-“(1) General and special courts-martial.—Except as provided in subsection (c) for capital offenses, if the accused is convicted of an offense in a trial by general or special court-martial, the military judge shall sentence the accused. The sentence determined by the military judge constitutes the sentence of the court-martial.”; and
-
-(2) in subsection (c)—
-
-(A) by amending paragraph (1) to read as follows:
-
-“(1) In general.—In a capital case, if the accused is convicted of an offense for which the court-martial may sentence the accused to death—
-
-“(A) the members shall determine—
-
-“(i) whether the sentence for that offense shall be death or life in prison without eligibility for parole; or
-
-“(ii) whether the matter shall be returned to the military judge for determination of a lesser punishment; and
-
-“(B) the military judge shall sentence the accused for that offense in accordance with the determination of the members under subparagraph (A).”; and
-
-(B) in paragraph (2), by striking “the court-martial” and inserting “the military judge”.
-
-See 2021 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -3987,7 +3996,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 ## § 853a. Art. 53a. Plea agreements
 **(a) In General.—**
 
-(1) At any time before the announcement of findings under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853) (article 53), the convening authority and the accused may enter into a plea agreement with respect to such matters as—
+(1) Subject to paragraph (3), at any time before the announcement of findings under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853) (article 53), the convening authority and the accused may enter into a plea agreement with respect to such matters as—
 
   (A) the manner in which the convening authority will dispose of one or more charges and specifications; and
 
@@ -3995,7 +4004,15 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 (2) The military judge of a general or special court-martial may not participate in discussions between the parties concerning prospective terms and conditions of a plea agreement.
 
-**(b) Limitation on Acceptance of Plea Agreements.—** The military judge of a general or special court-martial shall reject a plea agreement that—
+(3) With respect to charges and specifications over which a special trial counsel exercises authority pursuant to [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), a plea agreement under this section may only be entered into between a special trial counsel and the accused. Such agreement shall be subject to the same limitations and conditions applicable to other plea agreements under this section (article).
+
+**(b) Acceptance of Plea Agreement.—** Subject to subsection (c), the military judge of a general or special court-martial shall accept a plea agreement submitted by the parties, except that—
+
+(1) in the case of an offense with a sentencing parameter set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence that is outside the sentencing parameter if the military judge determines that the proposed sentence is plainly unreasonable; and
+
+(2) in the case of an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence if the military judge determines that the proposed sentence is plainly unreasonable.
+
+**(c) Limitation on Acceptance of Plea Agreements.—** The military judge of a general or special court-martial shall reject a plea agreement that—
 
 (1) contains a provision that has not been accepted by both parties;
 
@@ -4007,42 +4024,18 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 (5) is contrary to, or is inconsistent with, a regulation prescribed by the President with respect to terms, conditions, or other aspects of plea agreements.
 
-**(c) Limited Conditions for Acceptance of Plea Agreement for Sentence Below Mandatory Minimum for Certain Offenses.—** With respect to an offense referred to in [section 856(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/b/2&num=0&edition=prelim) (article 56(b)(2))—
+**(d) Limited Conditions for Acceptance of Plea Agreement for Sentence Below Mandatory Minimum for Certain Offenses.—** With respect to an offense referred to in [section 856(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/b/2&num=0&edition=prelim) (article 56(b)(2))—
 
 (1) the military judge may accept a plea agreement that provides for a sentence of bad conduct discharge; and
 
 (2) upon recommendation of the trial counsel, in exchange for substantial assistance by the accused in the investigation or prosecution of another person who has committed an offense, the military judge may accept a plea agreement that provides for a sentence that is less than the mandatory minimum sentence for the offense charged.
 
-**(d) Binding Effect of Plea Agreement.—** Upon acceptance by the military judge of a general or special court-martial, a plea agreement shall bind the parties and the court-martial.
+**(e) Binding Effect of Plea Agreement.—** Upon acceptance by the military judge of a general or special court-martial, a plea agreement shall bind the parties (including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3)) and the court-martial.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, §§ 539, 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, this section is amended:
-
-(1) in subsection (a)—
-
-(A) in paragraph (1), by striking “At any time” and inserting “Subject to paragraph (3), at any time”; and
-
-(B) by adding at the end the following new paragraph:
-
-“(3) With respect to charges and specifications over which a special trial counsel exercises authority pursuant to [section 824a of this title](./chapter-047-uniform-code-of-military-justice.md#section-824a) (article 24a), a plea agreement under this section may only be entered into between a special trial counsel and the accused. Such agreement shall be subject to the same limitations and conditions applicable to other plea agreements under this section (article).”; and
-
-(2) in subsection (d), by inserting after “parties” the following: “(including the convening authority and the special trial counsel in the case of a plea agreement entered into under subsection (a)(3))”.
-
-Pub. L. 117–81, div. A, title V, § 539E(b), (f), Dec. 27, 2021, 135 Stat. 1701, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
-
-(1) by redesignating subsections (b), (c), and (d), as subsections (c), (d), and (e), respectively; and
-
-(2) by inserting after subsection (a) the following new subsection:
-
-(b) Acceptance of Plea Agreement.—Subject to subsection (c), the military judge of a general or special court-martial shall accept a plea agreement submitted by the parties, except that—
-
-(1) in the case of an offense with a sentencing parameter set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence that is outside the sentencing parameter if the military judge determines that the proposed sentence is plainly unreasonable; and
-
-(2) in the case of an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge may reject a plea agreement that proposes a sentence if the military judge determines that the proposed sentence is plainly unreasonable.
-
-See 2021 Amendment notes below.
+#### References in Text
+Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (b), is section 539E(e) of Pub. L. 117–81, which is set out as a note under [section 856 of this title](./chapter-047-uniform-code-of-military-justice.md#section-856).
 
 #### Amendments
 2021—Subsec. (a)(1). Pub. L. 117–81, § 539(a)(1), substituted “Subject to paragraph (3), at any time” for “At any time” in introductory provisions.
@@ -4167,7 +4160,7 @@ The word “may” is substituted for the word “shall”.
 
 **(b) Sentence Minimums for Certain Offenses.—**
 
-(1) Except as provided in subsection (c) of [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a) (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
+(1) Except as provided in subsection (c) 11 See References in Text note below. of [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a) (article 53a), punishment for any offense specified in paragraph (2) shall include dismissal or dishonorable discharge, as applicable.
 
 (2) The offenses referred to in paragraph (1) are as follows:
 
@@ -4209,100 +4202,53 @@ The word “may” is substituted for the word “shall”.
 
     (vi) to rehabilitate the accused; and
 
-    (vii) to provide, in appropriate cases, the opportunity for retraining and return to duty to meet the needs of the service; and
+    (vii) to provide, in appropriate cases, the opportunity for retraining and return to duty to meet the needs of the service;
 
-  (D) the sentences available under this chapter.
+  (D) the sentences available under this chapter; and
 
-(2) **Sentencing by military judge.—** — In announcing the sentence in a general or special court-martial in which the accused is sentenced by a military judge alone under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853) (article 53), the military judge shall, with respect to each offense of which the accused is found guilty, specify the term of confinement, if any, and the amount of the fine, if any. If the accused is sentenced to confinement for more than one offense, the military judge shall specify whether the terms of confinement are to run consecutively or concurrently.
+  (E) the applicable sentencing parameters or sentencing criteria set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022.
 
-(3) **Sentencing by members.—** — In a general or special court-martial in which the accused has elected sentencing by members, the court-martial shall announce a single sentence for all of the offenses of which the accused was found guilty.
+(2) **Application of sentencing parameters in general and special courts-martial.—**
 
-(4) **Sentence of confinement for life without eligibility for parole.—**
+  (A) *Requirement to sentence within parameters.—* — Except as provided in subparagraph (B), in a general or special court-martial in which the accused is convicted of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall sentence the accused for that offense within the applicable parameter.
 
-  (A) If an offense is subject to a sentence of confinement for life, a court-martial may impose a sentence of confinement for life without eligibility for parole.
+  (B) *Exception.—* — The military judge may impose a sentence outside a sentencing parameter upon finding specific facts that warrant such a sentence. If the military judge imposes a sentence outside a sentencing parameter under this subparagraph, the military judge shall include in the record a written statement of the factual basis for the sentence.
 
-  (B) An accused who is sentenced to confinement for life without eligibility for parole shall be confined for the remainder of the accused’s life unless—
+(3) **Use of sentencing criteria in general and special courts-martial.—** — In a general or special court-martial in which the accused is convicted of an offense for which the President has established sentencing criteria pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall consider the applicable sentencing criteria in determining the sentence for that offense.
+
+(4) **Offense-based sentencing in general and special courts-martial.—** — In announcing the sentence under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853) (article 53) in a general or special court-martial, the military judge shall, with respect to each offense of which the accused is found guilty, specify the term of confinement, if any, and the amount of the fine, if any. If the accused is sentenced to confinement for more than one offense, the military judge shall specify whether the terms of confinement are to run consecutively or concurrently.
+
+(5) **Inapplicability to death penalty.—** — Sentencing parameters and sentencing criteria shall not apply to a determination of whether an offense should be punished by death.
+
+(6) **Sentence of confinement for life without eligibility for parole.—**
+
+  (A) *In general.—* — If an offense is subject to a sentence of confinement for life, a court-martial may impose a sentence of confinement for life without eligibility for parole.
+
+  (B) *Term of confinement.—* — An accused who is sentenced to confinement for life without eligibility for parole shall be confined for the remainder of the accused’s life unless—
 
     (i) the sentence is set aside or otherwise modified as a result of—
 
       (I) action taken by the convening authority or the Secretary concerned; or
 
-      (II) any other action taken during post-trial procedure and review under any other provision of subchapter IX of this chapter;
+      (II) any other action taken during post-trial procedure or review under any other provision of subchapter IX of this chapter;
 
-    (ii) the sentence is set aside or otherwise modified as a result of action taken by a Court of Criminal Appeals, the Court of Appeals for the Armed Forces, or the Supreme Court; or
+    (ii) the sentence is set aside or otherwise modified as a result of action taken by a court of competent jurisdiction; or
 
-    (iii) the accused is pardoned.
+    (iii) the accused receives a pardon or another form of Executive clemency.
 
 **(d) Appeal of Sentence by the United States.—**
 
 (1) With the approval of the Judge Advocate General concerned, and consistent with standards and procedures set forth in regulations prescribed by the President, the Government may appeal a sentence to the Court of Criminal Appeals, on the grounds that—
 
-  (A) the sentence violates the law; or
+  (A) the sentence violates the law;
 
-  (B) the sentence is plainly unreasonable, as determined in accordance with standards and procedures prescribed by the President.
+  (B) in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the sentence is a result of an incorrect application of the parameter; or
+
+  (C) the sentence is plainly unreasonable.
 
 (2) An appeal under this subsection must be filed within 60 days after the date on which the judgment of a court-martial is entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, § 539E(c), (f), Dec. 27, 2021, 135 Stat. 1701, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
-
-(1) in subsection (c)—
-
-(A) in paragraph (1)—
-
-(i) in subparagraph (C)(vii), by striking “and” at the end;
-
-(ii) in subparagraph (D), by striking the period at the end and inserting “; and”; and
-
-(iii) by adding at the end the following new subparagraph:
-
-“(E) the applicable sentencing parameters or sentencing criteria set forth in regulations prescribed by the President pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022.”; and
-
-(B) by striking paragraphs (2) through (4) and inserting the following new paragraphs:
-
-“(2) Application of sentencing parameters in general and special courts-martial.—
-
-“(A) Requirement to sentence within parameters.—Except as provided in subparagraph (B), in a general or special court-martial in which the accused is convicted of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall sentence the accused for that offense within the applicable parameter.
-
-“(B) Exception.—The military judge may impose a sentence outside a sentencing parameter upon finding specific facts that warrant such a sentence. If the military judge imposes a sentence outside a sentencing parameter under this subparagraph, the military judge shall include in the record a written statement of the factual basis for the sentence.
-
-“(3) Use of sentencing criteria in general and special courts-martial.—In a general or special court-martial in which the accused is convicted of an offense for which the President has established sentencing criteria pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the military judge shall consider the applicable sentencing criteria in determining the sentence for that offense.
-
-“(4) Offense-based sentencing in general and special courts-martial.—In announcing the sentence under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853) (article 53) in a general or special court-martial, the military judge shall, with respect to each offense of which the accused is found guilty, specify the term of confinement, if any, and the amount of the fine, if any. If the accused is sentenced to confinement for more than one offense, the military judge shall specify whether the terms of confinement are to run consecutively or concurrently.
-
-“(5) Inapplicability to death penalty.—Sentencing parameters and sentencing criteria shall not apply to a determination of whether an offense should be punished by death.
-
-“(6) Sentence of confinement for life without eligibility for parole.—
-
-“(A) In general.—If an offense is subject to a sentence of confinement for life, a court-martial may impose a sentence of confinement for life without eligibility for parole.
-
-“(B) Term of confinement.—An accused who is sentenced to confinement for life without eligibility for parole shall be confined for the remainder of the accused’s life unless—
-
-“(i) the sentence is set aside or otherwise modified as a result of—
-
-“(I) action taken by the convening authority or the Secretary concerned; or
-
-“(II) any other action taken during post-trial procedure or review under any other provision of subchapter IX of this chapter;
-
-“(ii) the sentence is set aside or otherwise modified as a result of action taken by a court of competent jurisdiction; or
-
-“(iii) the accused receives a pardon or another form of Executive clemency.”; and
-
-(2) in subsection (d)(1)—
-
-(A) in subparagraph (A), by striking “or” at the end;
-
-(B) by redesignating subparagraph (B) as subparagraph (C);
-
-(C) by inserting after subparagraph (A) the following new subparagraph:
-
-“(B) in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, the sentence is a result of an incorrect application of the parameter; or”; and
-
-(D) in subparagraph (C), as redesignated, by striking “, as determined in accordance with standards and procedures prescribed by the President”.
-
-See 2021 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -4310,6 +4256,11 @@ See 2021 Amendment notes below.
 | 856 | 50:637. | May 5, 1950, ch. 169, § 1 (Art. 56), 64 Stat. 126. |
 
 The word “may” is substituted for the word “shall”.
+
+#### References in Text
+Subsection (c) of [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a), referred to in subsec. (b)(1), was redesignated subsec. (d) of [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a) by Pub. L. 117–81, div. A, title V, § 539E(b)(1), Dec. 27, 2021, 135 Stat. 1701.
+
+Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsecs. (c)(1)(E), (2)(A), (3), (d)(1)(B), is section 539E(e) of Pub. L. 117–81, which is set out as a note below.
 
 #### Amendments
 2021—Subsec. (b)(1). Pub. L. 117–81, § 1081(a)(14), substituted “subsection (c) of section 853a” for “subsection (d) of section 853a”.
@@ -4348,9 +4299,7 @@ Amendment by Pub. L. 113–66 effective 180 days after Dec. 26, 2013, and applic
 Pub. L. 117–81, div. A, title V, § 539E(e), Dec. 27, 2021, 135 Stat. 1704, provided that: “(1) In general.—Not later than two years after the date of the enactment of this Act [Dec. 27, 2021], the President shall prescribe regulations establishing sentencing parameters and sentencing criteria related to offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), in accordance with this subsection. Such parameters and criteria—“(A) shall cover sentences of confinement; and “(B) may cover lesser punishments, as the President determines appropriate. “(2) Sentencing parameters.—Sentencing parameters established under paragraph (1) shall—“(A) identify a delineated sentencing range for an offense that is appropriate for a typical violation of the offense, taking into consideration—“(i) the severity of the offense; “(ii) the guideline or offense category that would apply to the offense if the offense were tried in a United States district court; “(iii) any military-specific sentencing factors; “(iv) the need for the sentencing parameter to be sufficiently broad to allow for individualized consideration of the offense and the accused; and “(v) any other relevant sentencing guideline. “(B) include no fewer than 5 and no more than 12 offense categories; “(C) assign such offense under this chapter [probably should be “chapter 47 of title 10, United States Code (the Uniform Code of Military Justice)”] to an offense category unless the offense is identified as unsuitable for sentencing parameters under paragraph (4)(F)(ii); and “(D) delineate the confinement range for each offense category by setting an upper confinement limit and a lower confinement limit. “(3) Sentencing criteria.—Sentencing criteria established under paragraph (1) shall identify offense-specific factors the military judge should consider and any collateral effects of available punishments that may aid the military judge in determining an appropriate sentence when there is no applicable sentencing parameter for a specific offense. “(4) Military sentencing parameters and criteria board.—“(A) In general.—There is established within the Department of Defense a board, to be known as the ‘Military Sentencing Parameters and Criteria Board’ (referred to in this subsection as the ‘Board’). “(B) Voting members.—The Board shall have 5 voting members, as follows:“(i) The 4 chief trial judges designated under [section 826(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section826/g&num=0&edition=prelim), United States Code (article 26(g) of the Uniform Code of Military Justice), except that, if the chief trial judge of the Coast Guard is not available, the Judge Advocate General of the Coast Guard may designate as a voting member a judge advocate of the Coast Guard with substantial military justice experience. “(ii) A trial judge of the Navy, designated under regulations prescribed by the President, if the chief trial judges designated under [section 826(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section826/g&num=0&edition=prelim), United States Code (article 26(g) of the Uniform Code of Military Justice), do not include a trial judge of the Navy. “(iii) A trial judge of the Marine Corps, designated under regulations prescribed by the President, if the chief trial judges designated under [section 826(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section826/g&num=0&edition=prelim), United States Code (article 26(g) of the Uniform Code of Military Justice), do not include a trial judge of the Marine Corps. “(C) Nonvoting members.—The Chief Judge of the Court of Appeals for the Armed Forces, the Chairman of the Joint Chiefs of Staff, and the General Counsel of the Department of Defense shall each designate one nonvoting member of the Board. The Secretary of Defense may appoint one additional nonvoting member of the Board at the Secretary’s discretion. “(D) Chair and vice-chair.—The Secretary of Defense shall designate one voting member as chair of the Board and one voting member as vice-chair. “(E) Voting requirement.—An affirmative vote of at least three members is required for any action of the Board under this subsection. “(F) Duties of board.—The Board shall have the following duties:“(i) As directed by the Secretary of Defense, the Board shall submit to the President for approval—“(I) sentencing parameters for all offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice) (other than offenses that the Board identifies as unsuitable for sentencing parameters in accordance with clause (ii)); and “(II) sentencing criteria to be used by military judges in determining appropriate sentences for offenses that are identified as unsuitable for sentencing parameters in accordance with clause (ii). “(ii) Identify each offense under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), that is unsuitable for sentencing parameters. The Board shall identify an offense as unsuitable for sentencing parameters if—“(I) the nature of the offense is indeterminate and unsuitable for categorization; and “(II) there is no similar criminal offense under the laws of the United States or the laws of the District of Columbia. “(iii) In developing sentencing parameters and criteria, the Board shall consider the sentencing data collected by the Military Justice Review Panel pursuant to [section 946(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/2&num=0&edition=prelim), United States Code (article 146(f)(2) of the Uniform Code of Military Justice). “(iv) In addition to establishing parameters for sentences of confinement under clause (i)(I), the Board shall consider the appropriateness of establishing sentencing parameters for punitive discharges, fines, reductions, forfeitures, and other lesser punishments authorized under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice). “(v) The Board shall regularly—“(I) review, and propose revision to, in consideration of comments and data coming to the Board’s attention, the sentencing parameters and sentencing criteria prescribed under paragraph (1); and “(II) submit to the President, through the Secretary of Defense, proposed amendments to the sentencing parameters and sentencing criteria, together with statements explaining the basis for the proposed amendments. “(vi) The Board shall develop means of measuring the degree to which applicable sentencing, penal, and correctional practices are effective with respect to the sentencing factors and policies set forth in this section. “(vii) In fulfilling its duties and in exercising its powers, the Board shall consult authorities on, and individual and institutional representatives of, various aspects of the military criminal justice system. The Board may establish separate advisory groups consisting of individuals with current or recent experience in command and in senior enlisted positions, individuals with experience in the trial of courts-martial, and such other groups as the Board deems appropriate. “(viii) The Board shall submit to the President, through the Secretary of Defense, proposed amendments to the rules for courts-martial with respect to sentencing proceedings and maximum punishments, together with statements explaining the basis for the proposed amendments.”
 
 #### Guidelines on Sentences for Offenses Committed Under the Uniform Code of Military Justice
-Pub. L. 116–92, div. A, title V, § 537, Dec. 20, 2019, 133 Stat. 1363, provided that: “(a) Development of Guidelines.—Not later than the date specified in subsection (d), the Secretary of Defense shall develop nonbinding guidelines on sentences for offenses under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice). The guidelines shall provide the sentencing authority with a suggested range of punishments, including suggested ranges of confinement, that will generally be appropriate for a violation of each offense under such chapter. “(b) Sentencing Data.—In developing the guidelines for sentences under subsection (a), the Secretary of Defense shall take into account the sentencing data collected by the Military Justice Review Panel pursuant to [section 946(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/2&num=0&edition=prelim), United States Code (article 146(f)(2) of the Uniform Code of Military Justice). “(c) Submittal to Congress.—Not later than the date specified in subsection (d), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives—“(1) the guidelines for sentences developed under subsection (a); and “(2) an assessment of the feasibility and advisability of implementing such guidelines in panel sentencing cases. “(d) Date Specified.—The date specified in this subsection is the date that is not later than one year after the date on the which the first report of the Military Justice Review Panel is submitted to the Committees on Armed Services of the Senate and the House of Representatives pursuant to [section 946(f)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/5&num=0&edition=prelim), United States Code (article 146(f)(5) of the Uniform Code of Military Justice).”
-
-[Pub. L. 117–81, div. A, title V, § 539E(f), (g), Dec. 27, 2021, 135 Stat. 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, section 537 of Pub. L. 116–92, set out above, is repealed. See section 539E(f) of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under [section 853 of this title](./chapter-047-uniform-code-of-military-justice.md#section-853).]
+Pub. L. 116–92, div. A, title V, § 537, Dec. 20, 2019, 133 Stat. 1363, which required the Secretary of Defense to develop nonbinding guidelines on sentences for offenses under chapter 47 of this title, not later than one year after date on which first report of Military Justice Review Panel is submitted to Committees on Armed Services of Senate and House of Representatives pursuant to [section 946(f)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section946/f/5&num=0&edition=prelim), was repealed by Pub. L. 117–81, div. A, title V, § 539E(g), Dec. 27, 2021, 135 Stat. 1706. See section 539E(e) of Pub. L. 117–81, set out as a note above.
 
 #### Prescription of Method of Designating a Member of the Military Sentencing Parameters and Criteria Board
 Memorandum of President of the United States, June 21, 2022, 87 F.R. 37971, provided:
@@ -4608,7 +4557,7 @@ The word “may” is substituted for the word “shall”.
 
 
 <a id="section-860"></a>
-## § 860. Art 60. Post-trial processing in general and special courts-martial
+## § 860. Art. 60. Post-trial processing in general and special courts-martial
 **(a) Statement of Trial Results.—**
 
 (1) The military judge of a general or special court-martial shall enter into the record of trial a document entitled “Statement of Trial Results”, which shall set forth—
@@ -4882,7 +4831,7 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 
 **(c) Death Penalty Case Exception.—** Notwithstanding subsections (a) and (b), an accused may not waive the right to appeal or withdraw an appeal with respect to a judgment that includes a sentence of death.
 
-**(d) Waiver or Withdrawal as Bar.—** A waiver or withdrawal under this section bars review under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866) (article 66).
+**(d) Waiver or Withdrawal as Bar.—** Except as provided by [section 869(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section869/c/2&num=0&edition=prelim) (article 69(c)(2)), a waiver or withdrawal under this section bars review under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866) (article 66).
 
 ### Statutory Notes
 
@@ -4894,9 +4843,14 @@ Section effective on Jan. 1, 2019, as designated by the President, with implemen
 The word “each” is substituted for the word “every”.
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–263 substituted “Except as provided by [section 869(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section869/c/2&num=0&edition=prelim) (article 69(c)(2)), a waiver” for “A waiver”.
+
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section related to waiver or withdrawal of appeal.
 
 1983—Pub. L. 98–209 amended section generally, substituting “Waiver or withdrawal of appeal” for “Same—General court-martial records” as section catchline, and, in text, substituting provisions relating to waiver or withdrawal of appeal for provisions relating to initial action by the convening authority on general court-martial records.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. A, title V, § 544(d), Dec. 23, 2022, 136 Stat. 2583, provided that: “The amendments made by this section [amending this section and sections 866 and 869 of this title] shall not apply to— “(1) any matter that was submitted before the date of the enactment of this Act [Dec. 23, 2022] to a Court of Criminal Appeals established under [section 866 of title 10](./chapter-047-uniform-code-of-military-justice.md#section-866), United States Code (article 66 of the Uniform Code of Military Justice); or “(2) any matter that was submitted before the date of the enactment of this Act to a Judge Advocate General under section 869 of such title (article 69 of the Uniform Code of Military Justice).”
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -5158,22 +5112,13 @@ Amendment by Pub. L. 98–209 effective first day of eighth calendar month begin
 
   (A) *Dismissal when no rehearing ordered.—* — If the Judge Advocate General sets aside findings and sentence and does not order a rehearing, the Judge Advocate General shall dismiss the charges.
 
-  (B) *Dismissal when rehearing impractical.—* — If the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
+  (B) *Dismissal when rehearing impracticable.—*
+
+    (i) *In general.—* — Subject to clause (ii), if the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
+
+    (ii) *Cases referred by special trial counsel.—* — If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)(3)(B)
-Pub. L. 117–81, div. A, title V, §§ 539A(a), 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (e)(3)(B) of this section is amended:
-
-(1) by striking “impractical.—If the Judge Advocate General” and inserting the following: “impracticable.— “(i) In general.—Subject to clause (ii), if the Judge Advocate General” ;
-
-(2) by striking “impractical” and inserting “impracticable”; and
-
-(3) by adding at the end the following new clause:
-
-“(ii) Cases referred by special trial counsel.—If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.”
-
-See 2021 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -5215,7 +5160,7 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 Amendment by Pub. L. 98–209 effective first day of eighth calendar month beginning after Dec. 6, 1983, but not to apply to any case in which the findings and sentence were adjudged by a court-martial before that date, and the proceedings in any such case to be held in the same manner and with the same effect as if such amendments had not been enacted, see section 12(a)(1), (4) of Pub. L. 98–209, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–632 effective first day of tenth month following October 1968, see section 4 of Pub. L. 90–632, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -5231,39 +5176,31 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 **(b) Review.—**
 
-(1) **Appeals by accused.—** — A Court of Criminal Appeals shall have jurisdiction over a timely appeal from the judgment of a court-martial, entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c), as follows:
+(1) **Appeals by accused.—** — A Court of Criminal Appeals shall have jurisdiction over—
 
-  (A) On appeal by the accused in a case in which the sentence extends to confinement for more than six months and the case is not subject to automatic review under paragraph (3).
+  (A) a timely appeal from the judgment of a court-martial, entered into the record under [section 860c(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section860c/a&num=0&edition=prelim) (article 60c(a)), that includes a finding of guilty; and
 
-  (B) On appeal by the accused in a case in which the Government previously filed an appeal under [section 862 of this title](./chapter-047-uniform-code-of-military-justice.md#section-862) (article 62).
-
-  (C) On appeal by the accused in a case that the Judge Advocate General has sent to the Court of Criminal Appeals for review of the sentence under [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)).
-
-  (D) In a case in which the accused filed an application for review with the Court under [section 869(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section869/d/1/B&num=0&edition=prelim) (article 69(d)(1)(B)) and the application has been granted by the Court.
+  (B) a summary court-martial case in which the accused filed an application for review with the Court under [section 869(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section869/d/1&num=0&edition=prelim) (article 69(d)(1)) and for which the application has been granted by the Court.
 
 (2) **Review of certain sentences.—** — A Court of Criminal Appeals shall have jurisdiction over all cases that the Judge Advocate General orders sent to the Court for review under [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)).
 
 (3) **Automatic review.—** — A Court of Criminal Appeals shall have jurisdiction over a court-martial in which the judgment entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c) includes a sentence of death, dismissal of a commissioned officer, cadet, or midshipman, dishonorable discharge or bad-conduct discharge, or confinement for 2 years or more.
 
-**(c) Timeliness.—** An appeal under subsection (b)(1) is timely if it is filed as follows:
+**(c) Timeliness.—** An appeal under subsection (b)(1) is timely if—
 
-(1) In the case of an appeal by the accused under subsection (b)(1)(A) or (b)(1)(B), if filed before the later of—
+(1) in the case of an appeal under subparagraph (A) of such subsection, it is filed before the later of—
 
   (A) the end of the 90-day period beginning on the date the accused is provided notice of appellate rights under [section 865(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section865/c&num=0&edition=prelim) (article 65(c)); or
 
-  (B) the date set by the Court of Criminal Appeals by rule or order.
+  (B) the date set by the Court of Criminal Appeals by rule or order; and
 
-(2) In the case of an appeal by the accused under subsection (b)(1)(C), if filed before the later of—
-
-  (A) the end of the 90-day period beginning on the date the accused is notified that the application for review has been granted by letter placed in the United States mails for delivery by first class certified mail to the accused at an address provided by the accused or, if no such address has been provided by the accused, at the latest address listed for the accused in his official service record; or
-
-  (B) the date set by the Court of Criminal Appeals by rule or order.
+(2) in the case of an appeal under subparagraph (B) of such subsection, an application for review with the Court is filed not later than the earlier of the dates established under [section 869(d)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section869/d/2/B&num=0&edition=prelim) (article 69(d)(2)(B)).
 
 **(d) Duties.—**
 
 (1) **Cases appealed by accused.—**
 
-  (A) *In general.—* — In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c). The Court may affirm only such findings of guilty as the Court finds correct in law, and in fact in accordance with subparagraph (B). The Court may affirm only the sentence, or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved.
+  (A) *In general.—* — In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c). The Court may affirm only such findings of guilty as the Court finds correct in law, and in fact in accordance with subparagraph (B).
 
   (B) *Factual sufficiency review.—*
 
@@ -5279,21 +5216,31 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 (2) **Error or excessive delay.—** — In any case before the Court of Criminal Appeals under subsection (b), the Court may provide appropriate relief if the accused demonstrates error or excessive delay in the processing of the court-martial after the judgment was entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c).
 
-**(e) Consideration of Appeal of Sentence by the United States.—**
+**(e) Consideration of Sentence.—**
 
-(1) **In general.—** — In considering a sentence on appeal or review as provided in [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), the Court of Criminal Appeals may consider—
+(1) **In general.—** — In considering a sentence on appeal, other than as provided in [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), the Court of Criminal Appeals may consider—
 
-  (A) whether the sentence violates the law; and
+  (A) whether the sentence violates the law;
 
-  (B) whether the sentence is plainly unreasonable.
+  (B) whether the sentence is inappropriately severe—
 
-(2) **Record on appeal or review.—** — In an appeal or review under this subsection or [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), the record on appeal or review shall consist of—
+    (i) if the sentence is for an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022; or
 
-  (A) any portion of the record in the case that is designated as pertinent by either of the parties;
+    (ii) in the case of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, if the sentence is above the upper range of such sentencing parameter;
+
+  (C) in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, whether the sentence is a result of an incorrect application of the parameter;
+
+  (D) whether the sentence is plainly unreasonable; and
+
+  (E) in review of a sentence to death or to life in prison without eligibility for parole determined by the members in a capital case under [section 853(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section853/c&num=0&edition=prelim) (article 53(c)), whether the sentence is otherwise appropriate, under rules prescribed by the President.
+
+(2) **Record on appeal.—** — In an appeal under this subsection or [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), other than review under subsection (b)(2) of this section, the record on appeal shall consist of—
+
+  (A) any portion of the record in the case that is designated as pertinent by any party;
 
   (B) the information submitted during the sentencing proceeding; and
 
-  (C) any information required by regulation prescribed by the President or by rule or order of the Court of Criminal Appeals.
+  (C) any information required by rule or order of the Court of Criminal Appeals.
 
 **(f) Limits of Authority.—**
 
@@ -5307,7 +5254,11 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
   (B) *Dismissal when no rehearing ordered.—* — If the Court of Criminal Appeals sets aside the findings and does not order a rehearing, the Court shall order that the charges be dismissed.
 
-  (C) *Dismissal when rehearing impracticable.—* — If the Court of Criminal Appeals orders a rehearing on a charge and the convening authority finds a rehearing impracticable, the convening authority may dismiss the charge.
+  (C) *Dismissal when rehearing Impracticable.—*
+
+    (i) *In general.—* — Subject to clause (ii), if the Court of Criminal Appeals orders a rehearing on a charge and the convening authority finds a rehearing impracticable, the convening authority may dismiss the charge.
+
+    (ii) *Cases referred by special trial counsel.—* — If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
 
 (2) **Set aside of sentence.—** — If the Court of Criminal Appeals sets aside the sentence, the Court may—
 
@@ -5326,49 +5277,6 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 **(j) Ineligibility of Members of Courts To Review Records of Cases Involving Certain Prior Member Service.—** No member of a Court of Criminal Appeals shall be eligible to review the record of any trial if such member served as investigating officer in the case or served as a member of the court-martial before which such trial was conducted, or served as military judge, trial or defense counsel, or reviewing officer of such trial.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–81, div. A, title V, §§ 539A(b), 539C, Dec. 27, 2021, 135 Stat. 1698, 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (f)(1)(C) of this section is amended:
-
-(1) by striking “impracticable.—If the Court of Criminal Appeals” and inserting the following: “Impracticable.— “(i) In general.—Subject to clause (ii), if the Court of Criminal Appeals” ; and
-
-(2) by adding at the end the following new clause:
-
-(ii) Cases referred by special trial counsel.—If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
-
-Pub. L. 117–81, div. A, title V, § 539E(d), (f), Dec. 27, 2021, 135 Stat. 1703, 1706, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable to sentences adjudged in cases in which all findings of guilty are for offenses that occurred after the date that is two years after Dec. 27, 2021, this section is amended:
-
-(1) in subsection (d)(1)(A), by striking the third sentence; and
-
-(2) by amending subsection (e) to read as follows:
-
-(e) Consideration of Sentence.—
-
-(1) In general.—In considering a sentence on appeal, other than as provided in [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), the Court of Criminal Appeals may consider—
-
-(A) whether the sentence violates the law;
-
-(B) whether the sentence is inappropriately severe—
-
-(i) if the sentence is for an offense for which the President has not established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022; or
-
-(ii) in the case of an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, if the sentence is above the upper range of such sentencing parameter;
-
-(C) in the case of a sentence for an offense for which the President has established a sentencing parameter pursuant to section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, whether the sentence is a result of an incorrect application of the parameter;
-
-(D) whether the sentence is plainly unreasonable; and
-
-(E) in review of a sentence to death or to life in prison without eligibility for parole determined by the members in a capital case under [section 853(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section853/c&num=0&edition=prelim) (article 53(c)), whether the sentence is otherwise appropriate, under rules prescribed by the President.
-
-(2) Record on appeal.—In an appeal under this subsection or [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)), other than review under subsection (b)(2) of this section, the record on appeal shall consist of—
-
-(A) any portion of the record in the case that is designated as pertinent by any party;
-
-(B) the information submitted during the sentencing proceeding; and
-
-(C) any information required by rule or order of the Court of Criminal Appeals.
-
-See 2021 Amendment notes below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -5389,7 +5297,34 @@ In subsection (e), the words “Secretary concerned” are substituted for the w
 
 In subsection (f), the words “of the armed forces” and “proceedings in and before” are omitted as surplusage.
 
+#### References in Text
+Section 539E(e) of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (e)(1)(B), (C), is section 539E(e) of Pub. L. 117–81, which is set out as a note under [section 856 of this title](./chapter-047-uniform-code-of-military-justice.md#section-856).
+
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–263, § 544(b)(1), substituted “shall have jurisdiction over—” and subpars. (A) and (B) for “shall have jurisdiction over a timely appeal from the judgment of a court-martial, entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c), as follows:
+
+“(A) On appeal by the accused in a case in which the sentence extends to confinement for more than six months and the case is not subject to automatic review under paragraph (3).
+
+“(B) On appeal by the accused in a case in which the Government previously filed an appeal under [section 862 of this title](./chapter-047-uniform-code-of-military-justice.md#section-862) (article 62).
+
+“(C) On appeal by the accused in a case that the Judge Advocate General has sent to the Court of Criminal Appeals for review of the sentence under [section 856(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section856/d&num=0&edition=prelim) (article 56(d)).
+
+“(D) In a case in which the accused filed an application for review with the Court under [section 869(d)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section869/d/1/B&num=0&edition=prelim) (article 69(d)(1)(B)) and the application has been granted by the Court.”
+
+Subsec. (c). Pub. L. 117–263, § 544(b)(2), substituted “is timely if—” and pars. (1) and (2) for “is timely if it is filed as follows:
+
+“(1) In the case of an appeal by the accused under subsection (b)(1)(A) or (b)(1)(B), if filed before the later of—
+
+“(A) the end of the 90-day period beginning on the date the accused is provided notice of appellate rights under [section 865(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section865/c&num=0&edition=prelim) (article 65(c)); or
+
+“(B) the date set by the Court of Criminal Appeals by rule or order.
+
+“(2) In the case of an appeal by the accused under subsection (b)(1)(C), if filed before the later of—
+
+“(A) the end of the 90-day period beginning on the date the accused is notified that the application for review has been granted by letter placed in the United States mails for delivery by first class certified mail to the accused at an address provided by the accused or, if no such address has been provided by the accused, at the latest address listed for the accused in his official service record; or
+
+“(B) the date set by the Court of Criminal Appeals by rule or order.”
+
 2021—Subsec. (a). Pub. L. 116–283, § 542(a), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (d)(1). Pub. L. 116–283, § 542(b), amended par. (1) generally. Prior to amendment, text read as follows: “In any case before the Court of Criminal Appeals under subsection (b), the Court may act only with respect to the findings and sentence as entered into the record under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c). The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the trial court saw and heard the witnesses.”
@@ -5442,6 +5377,9 @@ Subsecs. (g), (h). Pub. L. 90–632, § 2(27)(E), added subsecs. (g) and (h).
 
 #### Change of Name
 Pub. L. 103–337, div. A, title IX, § 924(b)(1), Oct. 5, 1994, 108 Stat. 2831, provided that: “Each Court of Military Review shall hereafter be known and designated as a Court of Criminal Appeals.”
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–263 not applicable to any matter that was submitted before Dec. 23, 2022, to a Court of Criminal Appeals established under this section, see section 544(d)(1) of Pub. L. 117–263, set out as a note under [section 861 of this title](./chapter-047-uniform-code-of-military-justice.md#section-861).
 
 #### Effective Date of 2021 Amendment
 Amendment by section 539A(b) of Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -5503,14 +5441,9 @@ The Court of Appeals for the Armed Forces shall act upon such a petition promptl
 
 **(d)** If the Court of Appeals for the Armed Forces sets aside the findings and sentence, it may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If it sets aside the findings and sentence and does not order a rehearing, it shall order that the charges be dismissed.
 
-**(e)** After it has acted on a case, the Court of Appeals for the Armed Forces may direct the Judge Advocate General to return the record to the Court of Criminal Appeals for further review in accordance with the decision of the court. Otherwise, unless there is to be further action by the President or the Secretary concerned, the Judge Advocate General shall instruct the convening authority to take action in accordance with that decision. If the court has ordered a rehearing, but the convening authority finds a rehearing impracticable, he may dismiss the charges.
+**(e)** After it has acted on a case, the Court of Appeals for the Armed Forces may direct the Judge Advocate General to return the record to the Court of Criminal Appeals for further review in accordance with the decision of the court. Otherwise, unless there is to be further action by the President or the Secretary concerned, the Judge Advocate General shall instruct the convening authority to take action in accordance with that decision. If the court has ordered a rehearing, but the convening authority finds a rehearing impracticable, he may dismiss the charges. Notwithstanding the preceding sentence, if a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (e)
-Pub. L. 117–81, div. A, title V, §§ 539A(c), 539C, Dec. 27, 2021, 135 Stat. 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (e) of this section is amended by adding at the end the following new sentence: “Notwithstanding the preceding sentence, if a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.”
-
-See 2021 Amendment note below.
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
@@ -5646,10 +5579,18 @@ Ex. Ord. No. 12063, June 5, 1978, 43 F.R. 24659, which related to the United Sta
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)
+Pub. L. 118–31, div. A, title V, § 533(a)(2)(A), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (a) of this section is amended to striking out at end “The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review.” See 2023 Amendment note below.
+
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 struck out at end “The Supreme Court may not review by a writ of certiorari under this section any action of the United States Court of Appeals for the Armed Forces in refusing to grant a petition for review.”
+
 2016—Subsec. (a). Pub. L. 114–328 inserted “United States” before “Court of Appeals” in second sentence.
 
 1994—Subsec. (a). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in two places.
+
+#### Effective Date of 2023 Amendment
+Pub. L. 118–31, div. A, title V, § 533(b), Dec. 22, 2023, 137 Stat. 261, provided that: “(1) In general.—The amendments made by subsection (a) [amending this section and sections 1259 and 2101 of Title 28, Judiciary and Judicial Procedure] shall take effect on the date that is one year after the date of the enactment of this Act [Dec. 22, 2023] and shall apply with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after such effective date. “(2) Inapplicability to pending decisions.—With respect to a petition submitted to the United States Court of Appeals for the Armed Forces before the effective date specified in paragraph (1) and on which the Court has not taken action as of such date, the provisions of the United States Code amended by subsection (a) shall apply as if such amendments had not been enacted. Any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant such a petition is final and conclusive. “(3) Finality of decisions before effective date.—Any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review before the effective date specified in paragraph (1) is final and conclusive. “(4) Rules required.—The Supreme Court shall prescribe rules to carry out [section 2101(g) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2101/g&num=0&edition=prelim), United States Code, as amended by subsection (a)(2)(B) of this section, by not later than the effective date specified in paragraph (1).”
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -5680,33 +5621,49 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 <a id="section-869"></a>
 ## § 869. Art. 69. Review by Judge Advocate General
-**(a) In General.—** Upon application by the accused and subject to subsections (b), (c), and (d), the Judge Advocate General may modify or set aside, in whole or in part, the findings and sentence in a court-martial that is not reviewed under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866) (article 66).
+**(a) In General.—** Upon application by the accused or receipt of the record pursuant to [section 864(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section864/c/3&num=0&edition=prelim) (article 64(c)(3)) and subject to subsections (b), (c), and (d), the Judge Advocate General may—
 
-**(b) Timing.—** To qualify for consideration, an application under subsection (a) must be submitted to the Judge Advocate General not later than one year after the date of completion of review under section 864 or 865 of this title (article 64 or 65), as the case may be. The Judge Advocate General may, for good cause shown, extend the period for submission of an application, but may not consider an application submitted more than three years after such completion date.
+(1) with respect to a summary court-martial, modify or set aside, in whole or in part, the findings and sentence; or
+
+(2) with respect to a general or special court-martial, order such court-martial to be reviewed under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866) (article 66).
+
+**(b) Timing.—**
+
+(1) To qualify for consideration, an application under subsection (a) must be submitted to the Judge Advocate General not later than—
+
+  (A) for a summary court-martial, one year after the date of completion of review under [section 864 of this title](./chapter-047-uniform-code-of-military-justice.md#section-864) (article 64); or
+
+  (B) for a general or special court-martial, one year after the end of the 90-day period beginning on the date the accused is provided notice of appellate rights under [section 865(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section865/c&num=0&edition=prelim) (article 65(c)), unless the accused submitted a waiver or withdrawal of appellate review under [section 861 of this title](./chapter-047-uniform-code-of-military-justice.md#section-861) (article 61) before being provided notice of appellate rights, in which case the application must be submitted to the Judge Advocate General not later than one year after the entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c).
+
+(2) The Judge Advocate General may, for good cause shown, extend the period for submission of an application, except that—
+
+  (A) in the case of an application for review of a summary court martial, the Judge Advocate may not consider an application submitted more than three years after the completion date referred to in paragraph (1)(A); and
+
+  (B) in case of an application for review of a general or special court-martial, the Judge Advocate may not consider an application submitted more than three years after the end of the applicable period under paragraph (1)(B).
 
 **(c) Scope.—**
 
 (1)
 
-  (A) In a case reviewed under section 864 or 865(b) of this title (article 64 or 65(b)), the Judge Advocate General may set aside the findings or sentence, in whole or in part, on the grounds of newly discovered evidence, fraud on the court, lack of jurisdiction over the accused or the offense, error prejudicial to the substantial rights of the accused, or the appropriateness of the sentence.
+  (A) In a case reviewed under [section 864 of this title](./chapter-047-uniform-code-of-military-justice.md#section-864) (article 64), the Judge Advocate General may set aside the findings or sentence, in whole or in part, on the grounds of newly discovered evidence, fraud on the court, lack of jurisdiction over the accused or the offense, error prejudicial to the substantial rights of the accused, or the appropriateness of the sentence.
 
   (B) In setting aside findings or sentence, the Judge Advocate General may order a rehearing, except that a rehearing may not be ordered in violation of [section 844 of this title](./chapter-047-uniform-code-of-military-justice.md#section-844) (article 44).
 
   (C) If the Judge Advocate General sets aside findings and sentence and does not order a rehearing, the Judge Advocate General shall dismiss the charges.
 
-  (D) If the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impractical, the convening authority shall dismiss the charges.
+  (D)
 
-(2) In a case reviewed under [section 865(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section865/b&num=0&edition=prelim) (article 65(b)), review under this section is limited to the issue of whether the waiver or withdrawal of an appeal was invalid under the law. If the Judge Advocate General determines that the waiver or withdrawal of an appeal was invalid, the Judge Advocate General shall order appropriate corrective action under rules prescribed by the President.
+    (i) Subject to clause (ii), if the Judge Advocate General sets aside findings and orders a rehearing and the convening authority determines that a rehearing would be impracticable, the convening authority shall dismiss the charges.
+
+    (ii) If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
+
+(2) In a case reviewed under [section 865(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section865/b&num=0&edition=prelim) (article 65(b)), review under this section is limited to the issue of whether the waiver or withdrawal of an appeal was invalid under the law. If the Judge Advocate General determines that the waiver or withdrawal of an appeal was invalid, the Judge Advocate General shall send the case to the Court of Criminal Appeals.
 
 **(d) Court of Criminal Appeals.—**
 
-(1) A Court of Criminal Appeals may review the action taken by the Judge Advocate General under subsection (c)—
+(1) A Court of Criminal Appeals may review the action taken by the Judge Advocate General under subsection (c)(1) in a case submitted to the Court of Criminal Appeals by the accused in an application for review.
 
-  (A) in a case sent to the Court of Criminal Appeals by order of the Judge Advocate General; or
-
-  (B) in a case submitted to the Court of Criminal Appeals by the accused in an application for review.
-
-(2) The Court of Criminal Appeals may grant an application under paragraph (1)(B) only if—
+(2) The Court of Criminal Appeals may grant an application under paragraph (1) only if—
 
   (A) the application demonstrates a substantial basis for concluding that the action on review under subsection (c) constituted prejudicial error; and
 
@@ -5722,19 +5679,6 @@ Amendment by Pub. L. 90–632 effective first day of tenth month following Octob
 
 ### Statutory Notes
 
-#### Amendment of Subsection (c)(1)(D)
-Pub. L. 117–81, div. A, title V, §§ 539A(d), 539C, Dec. 27, 2021, 135 Stat. 1699, provided that, effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability, subsection (c)(1)(D) of this section is amended:
-
-(1) by striking “If the Judge Advocate General” and inserting “(i) Subject to clause (ii), if the Judge Advocate General”;
-
-(2) by striking “impractical” and inserting “impracticable”; and
-
-(3) by adding at the end the following new clause:
-
-(ii) If a case was referred to trial by a special trial counsel, a special trial counsel shall determine if a rehearing is impracticable and shall dismiss the charges if the special trial counsel so determines.
-
-See 2021 Amendment note below.
-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -5743,6 +5687,22 @@ See 2021 Amendment note below.
 The word “may” is substituted for the word “will”. The word “under” is substituted for the words “pursuant to the provisions of”.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 544(c)(1), amended subsec. (a) generally. Prior to amendment, text read as follows: “Upon application by the accused and subject to subsections (b), (c), and (d), the Judge Advocate General may modify or set aside, in whole or in part, the findings and sentence in a court-martial that is not reviewed under [section 866 of this title](./chapter-047-uniform-code-of-military-justice.md#section-866) (article 66).”
+
+Subsec. (b). Pub. L. 117–263, § 544(c)(2), designated existing provisions as par. (1), substituted “not later than—” and subpars. (A) and (B) for “not later than one year after the date of completion of review under section 864 or 865 of this title (article 64 or 65), as the case may be. The Judge Advocate General may, for good cause shown, extend the period for submission of an application, but may not consider an application submitted more than three years after such completion date.” and added par. (2).
+
+Subsec. (c)(1)(A). Pub. L. 117–263, § 544(c)(3)(A), substituted “[section 864 of this title](./chapter-047-uniform-code-of-military-justice.md#section-864) (article 64)” for “section 864 or 865(b) of this title (article 64 or 65(b))”.
+
+Subsec. (c)(2). Pub. L. 117–263, § 544(c)(3)(B), substituted “the Judge Advocate General shall send the case to the Court of Criminal Appeals” for “the Judge Advocate General shall order appropriate corrective action under rules prescribed by the President”.
+
+Subsec. (d)(1). Pub. L. 117–263, § 544(c)(4)(A), substituted “under subsection (c)(1) in a case submitted” for “under subsection (c)—
+
+“(A) in a case sent to the Court of Criminal Appeals by order of the Judge Advocate General; or
+
+“(B) in a case submitted”.
+
+Subsec. (d)(2). Pub. L. 117–263, § 544(c)(4)(B), substituted “paragraph (1)” for “paragraph (1)(B)” in introductory provisions.
+
 2021—Subsec. (c)(1)(D). Pub. L. 117–81 designated existing provisions as cl. (i), substituted “Subject to clause (ii), if the Judge Advocate General” for “If the Judge Advocate General” and “impracticable” for “impractical”, and added cl. (ii).
 
 2017—Subsec. (c)(1)(A). Pub. L. 115–91 inserted comma after “in whole or in part”.
@@ -5762,6 +5722,9 @@ Subsecs. (d), (e). Pub. L. 101–189, § 1302(a)(2), added subsecs. (d) and (e).
 1981—Pub. L. 97–81 inserted provision that, when a case is considered upon application of the accused, the application must be filed in the Office of the Judge Advocate General by the accused before (1) October 1, 1983, or (2) the last day of the two-year period beginning on the date the sentence is approved by the convening authority or, in a special court-martial case which requires action under [section 865(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section865/b&num=0&edition=prelim) (article 65(b)), the officer exercising general court-martial jurisdiction, whichever is later, unless the accused establishes good cause for failure to file within that time.
 
 1968—Pub. L. 90–632 authorized the Judge Advocate General to either vacate or modify the findings or sentence, or both, in whole or in part, in any court-martial case which has been finally reviewed, but which has not been reviewed by a Court of Military Review, because of newly discovered evidence, fraud on the court, lack of jurisdiction over the accused or the offense, or error prejudicial to the substantial rights of the accused.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–263 not applicable to any matter that was submitted before Dec. 23, 2022, to a Judge Advocate General under this section, see section 544(d)(2) of Pub. L. 117–263, set out as a note under [section 861 of this title](./chapter-047-uniform-code-of-military-justice.md#section-861).
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–81 effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as a note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -6389,10 +6352,10 @@ The word “commissioned” is inserted for clarity. The words “the Vice Presi
 1980—Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-889"></a>
@@ -7445,7 +7408,7 @@ is guilty of wrongful distribution of intimate visual images or visual images of
 <a id="section-918"></a>
 ## § 918. Art. 118. Murder
 
-Any person subject to this chapter who, without justification or excuse, unlawfully kills a human being, when he—
+Any person subject to this chapter who, without justification or excuse, unlawfully kills a human being, when such person—
 
 (1) has a premeditated design to kill;
 
@@ -7454,7 +7417,7 @@ Any person subject to this chapter who, without justification or excuse, unlawfu
 (3) is engaged in an act which is inherently dangerous to another and evinces a wanton disregard of human life; or
 
 (4) is engaged in the perpetration or attempted perpetration of burglary, rape, rape of a child, sexual assault, sexual assault of a child, aggravated sexual contact, sexual abuse of a child, robbery, or aggravated arson;
-is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), he shall suffer death or imprisonment for life as a court-martial may direct.
+is guilty of murder, and shall suffer such punishment as a court-martial may direct, except that if found guilty under clause (1) or (4), such person shall suffer death or imprisonment for life as a court-martial may direct, unless such person is otherwise sentenced in accordance with a plea agreement entered into between the parties under [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a) (article 53a).
 
 ### Statutory Notes
 
@@ -7466,6 +7429,8 @@ is guilty of murder, and shall suffer such punishment as a court-martial may dir
 The words “of this section” are omitted as surplusage.
 
 #### Amendments
+2023—Pub. L. 118–31 substituted “such person” for “he” in introductory and concluding provisions and substituted “direct, unless such person is otherwise sentenced in accordance with a plea agreement entered into between the parties under [section 853a of this title](./chapter-047-uniform-code-of-military-justice.md#section-853a) (article 53a).” for “ direct.” in concluding provisions.
+
 2016—Par. (4). Pub. L. 114–328 struck out “forcible sodomy,” after “burglary,”.
 
 2014—Par. (4). Pub. L. 113–291 substituted “forcible sodomy” for “sodomy”.
@@ -8265,27 +8230,30 @@ Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the P
 
 <a id="section-928b"></a>
 ## § 928b. Art. 128b. Domestic violence
+**(a) In General.—** Any person who—
 
-Any person who—
+(1) commits a violent offense against a spouse, an intimate partner, a dating partner, or an immediate family member of that person;
 
-(1) commits a violent offense against a spouse, an intimate partner, or an immediate family member of that person;
-
-(2) with intent to threaten or intimidate a spouse, an intimate partner, or an immediate family member of that person—
+(2) with intent to threaten or intimidate a spouse, an intimate partner, a dating partner, or an immediate family member of that person—
 
   (A) commits an offense under this chapter against any person; or
 
   (B) commits an offense under this chapter against any property, including an animal;
 
-(3) with intent to threaten or intimidate a spouse, an intimate partner, or an immediate family member of that person, violates a protection order;
+(3) with intent to threaten or intimidate a spouse, an intimate partner, a dating partner, or an immediate family member of that person, violates a protection order;
 
-(4) with intent to commit a violent offense against a spouse, an intimate partner, or an immediate family member of that person, violates a protection order; or
+(4) with intent to commit a violent offense against a spouse, an intimate partner, a dating partner, or an immediate family member of that person, violates a protection order; or
 
-(5) assaults a spouse, an intimate partner, or an immediate family member of that person by strangling or suffocating;
+(5) assaults a spouse, an intimate partner, a dating partner, or an immediate family member of that person by strangling or suffocating;
 shall be punished as a court-martial may direct.
+
+**(b) Definitions.—** In this section, the terms “dating partner”, “immediate family”, and “intimate partner” have the meanings given such terms in [section 930 of this title](./chapter-047-uniform-code-of-military-justice.md#section-930) (article 130).
 
 ### Statutory Notes
 
 #### Amendments
+2023—Pub. L. 118–31 designated existing provisions as subsec. (a), inserted heading, inserted “a dating partner,” after “an intimate partner,” wherever appearing, and added subsec. (b).
+
 2019—Pub. L. 116–92 inserted section catchline. Identical section catchline had been editorially supplied.
 
 #### Effective Date
@@ -8330,11 +8298,11 @@ Section, act Aug. 10, 1956, ch. 1041, 70A Stat. 75, § 930; renumbered § 929a, 
 ## § 930. Art. 130. Stalking
 **(a) In General.—** Any person subject to this chapter—
 
-(1) who wrongfully engages in a course of conduct directed at a specific person that would cause a reasonable person to fear death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family, or to his or her intimate partner;
+(1) who wrongfully engages in a course of conduct directed at a specific person that would cause a reasonable person to fear death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family, to his or her intimate partner, or to his or her dating partner;
 
-(2) who has knowledge, or should have knowledge, that the specific person will be placed in reasonable fear of death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family, or to his or her intimate partner; and
+(2) who has knowledge, or should have knowledge, that the specific person will be placed in reasonable fear of death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family, to his or her intimate partner, or to his or her dating partner; and
 
-(3) whose conduct induces reasonable fear in the specific person of death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family, or to his or her intimate partner;
+(3) whose conduct induces reasonable fear in the specific person of death or bodily harm, including sexual assault, to himself or herself, to a member of his or her immediate family, to his or her intimate partner, or to his or her dating partner;
 is guilty of stalking and shall be punished as a court-martial may direct.
 
 **(b) Definitions.—** In this section:
@@ -8349,15 +8317,25 @@ is guilty of stalking and shall be punished as a court-martial may direct.
 
   (C) a pattern of conduct composed of repeated acts evidencing a continuity of purpose.
 
-(3) The term “repeated”, with respect to conduct, means two or more occasions of such conduct.
+(3) The term “dating partner”, in the case of a specific person, means a person who is or has been in a social relationship of a romantic or intimate nature with such specific person based on a consideration of—
 
-(4) The term “immediate family”, in the case of a specific person, means—
+  (A) the length of the relationship;
+
+  (B) the type of relationship;
+
+  (C) the frequency of interaction between the persons involved in the relationship; and
+
+  (D) the extent of physical intimacy or sexual contact between the persons involved in the relationship.
+
+(4) The term “repeated”, with respect to conduct, means two or more occasions of such conduct.
+
+(5) The term “immediate family”, in the case of a specific person, means—
 
   (A) that person’s spouse, parent, brother or sister, child, or other person to whom he or she stands in loco parentis; or
 
   (B) any other person living in his or her household and related to him or her by blood or marriage.
 
-(5) The term “intimate partner”, in the case of a specific person, means—
+(6) The term “intimate partner”, in the case of a specific person, means—
 
   (A) a former spouse of the specific person, a person who shares a child in common with the specific person, or a person who cohabits with or has cohabited as a spouse with the specific person; or
 
@@ -8369,6 +8347,10 @@ is guilty of stalking and shall be punished as a court-martial may direct.
 A prior section 930 was renumbered [section 929a of this title](./chapter-047-uniform-code-of-military-justice.md#section-929a) and subsequently omitted from the Code.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 531(d)(2)(A), substituted “to his or her intimate partner, or to his or her dating partner” for “or to his or her intimate partner” wherever appearing.
+
+Subsec. (b)(3) to (6). Pub. L. 118–31, § 531(d)(2)(B), added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+
 2016—Pub. L. 114–328 amended section generally. Prior to amendment, section set out elements of stalking and defined terms.
 
 Pub. L. 114–328, § 5401(11), renumbered [section 920a of this title](./chapter-047-uniform-code-of-military-justice.md#section-920a) as this section.
@@ -8763,15 +8745,19 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (1) The sections (articles) of this chapter specified in paragraph (3) shall be carefully explained to each enlisted member at the time of (or within fourteen days after)—
 
-  (A) the member’s initial entrance on active duty; or
+  (A) the member’s initial entrance on active duty;
 
-  (B) the member’s initial entrance into a duty status with a reserve component.
+  (B) the member’s initial entrance into a duty status with a reserve component; or
+
+  (C) the member’s initial entrance on active duty or into a space force active status.
 
 (2) Such sections (articles) shall be explained again—
 
-  (A) after the member has completed six months of active duty or, in the case of a member of a reserve component, after the member has completed basic or recruit training; and
+  (A) after the member has completed six months of active duty or, in the case of a member of a reserve component, after the member has completed basic or recruit training;
 
-  (B) at the time when the member reenlists.
+  (B) after a member of Space 11 So in original. Probably should be preceded by “the”. Force has completed six months of sustained duty or in the case of a member not on sustained duty, after the member has completed basic or recruit training; and
+
+  (C) at the time when the member reenlists.
 
 (3) This subsection applies with respect to sections 802, 803, 807–815, 825, 827, 831, 837, 838, 855, 877–934, and 937–939 of this title (articles 2, 3, 7–15, 25, 27, 31, 37, 38, 55, 77–134, and 137–139).
 
@@ -8781,7 +8767,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (A) the initial entrance of the officer on active duty as an officer; or
 
-  (B) the initial commissioning of the officer in a reserve component.
+  (B) the initial commissioning of the officer in a reserve component or the Space Force.
 
 (2) This subsection applies with respect to the sections (articles) specified in subsection (a)(3) and such other sections (articles) as the Secretary concerned may prescribe by regulation.
 
@@ -8789,7 +8775,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(d) Availability and Maintenance of Text.—** The text of this chapter and the text of the regulations prescribed by the President under this chapter shall be—
 
-(1) made available to a member on active duty or to a member of a reserve component, upon request by the member, for the member’s personal examination; and
+(1) made available to a member on active duty, to a member of a reserve component, or to a member of the Space Force, upon request by the member, for the member’s personal examination; and
 
 (2) maintained by the Secretary of Defense in electronic formats that are updated periodically and made available on the Internet.
 
@@ -8802,7 +8788,18 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 The word “each” is substituted for the word “every”. The word “member” is substituted for the word “person”. The words “in [any of] the armed forces of the United States” are omitted as surplusage.
 
+#### Codification
+Another section 1722(f) of Pub. L. 118–31 amended [section 973 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-973).
+
 #### Amendments
+2023—Subsec. (a)(1)(C). Pub. L. 118–31, § 1722(f)(3)(A), added subpar. (C).
+
+Subsec. (a)(2)(B), (C). Pub. L. 118–31, § 1722(f)(3)(B), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (b)(1)(B). Pub. L. 118–31, § 1722(f)(3)(C), inserted “or the Space Force” after “in a reserve component”.
+
+Subsec. (d)(1). Pub. L. 118–31, § 1722(f)(3)(D), substituted “, to a member of a reserve component, or to a member of the Space Force,” for “or to a member of a reserve component,”.
+
 2017—Subsec. (a)(1). Pub. L. 115–91, § 1081(c)(1)(R)(i), struck out “(the Uniform Code of Military Justice)” after “this chapter” in introductory provisions.
 
 Subsec. (b). Pub. L. 115–91, § 1081(c)(1)(R)(ii), which directed amendment of subsec. (b) by striking out “(the Uniform Code of Military Justice)” after “this chapter” in the matter preceding subparagraph (A), was executed by making the amendment in introductory provisions of par. (1) of subsec. (b), to reflect the probable intent of Congress.
@@ -9233,11 +9230,35 @@ Pub. L. 102–484, div. A, title X, § 1062(b), Oct. 23, 1992, 106 Stat. 2505, p
 
   (C) The Chief Judge of the United States Court of Appeals for the Armed Forces.
 
+(4) **Establishment of staggered terms.—** — Notwithstanding subsection (e), members of the Panel appointed to serve on the Panel to fill vacancies that exist due to terms of appointment expiring during the period beginning on August 1, 2030, and ending on November 30, 2030, shall be appointed to terms as follows:
+
+  (A) Three members designated by the Secretary of Defense shall serve a term of two years.
+
+  (B) Three members designated by the Secretary of Defense shall serve a term of four years.
+
+  (C) Three members designated by the Secretary of Defense shall serve a term of six years.
+
+  (D) Four members designated by the Secretary of Defense shall serve a term of eight years.
+
 **(c) Qualifications of Members.—** The members of the Panel shall be appointed from among private United States citizens with expertise in criminal law, as well as appropriate and diverse experience in investigation, prosecution, defense, victim representation, or adjudication with respect to courts-martial, Federal civilian courts, or State courts.
 
 **(d) Chair.—** The Secretary of Defense shall select the chair of the Panel from among the members.
 
-**(e) Term; Vacancies.—** Each member shall be appointed for a term of eight years, and no member may serve more than one term. Any vacancy shall be filled in the same manner as the original appointment.
+**(e) Term; Vacancies.—**
+
+(1) **Term.—** — Subject to subsection (b)(4) and paragraphs (2) and (3) of this subsection, each member shall be appointed for a term of eight years, and no member may serve more than one term.
+
+(2) **Vacancy.—** — Any vacancy in the Panel shall be filled in the same manner as the original appointment. A member appointed to fill a vacancy in the Panel that occurs before the expiration of the term of appointment of the predecessor of such member shall be appointed for the remainder of the term of such predecessor.
+
+(3) **Availability of reappointment for certain members.—** — Notwithstanding paragraph (1), a member of the Panel may be appointed to a single additional term if—
+
+  (A) the appointment of the member is to fill a vacancy described in subsection (b)(4); or
+
+  (B) the member was initially appointed—
+
+    (i) to a term of four years or less in accordance with subsection (b)(4); or
+
+    (ii) to fill a vacancy that occurs before the expiration of the term of the predecessor of such member and for which the remainder of the term of such predecessor is four years or less.
 
 **(f) Reviews and Reports.—**
 
@@ -9265,14 +9286,17 @@ Pub. L. 102–484, div. A, title X, § 1062(b), Oct. 23, 1992, 106 Stat. 2505, p
 
 (2) **Staffing and resources.—** — The Secretary of Defense shall provide staffing and resources to support the Panel.
 
-**(j) Federal Advisory Committee Act.—** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel.
+**(j) Chapter 10 of Title 5.—** Chapter 10 of title 5 shall not apply to the Panel.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2023—Subsec. (b)(4). Pub. L. 118–31, § 532(a), added par. (4).
+
+Subsec. (e). Pub. L. 118–31, § 532(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Each member shall be appointed for a term of eight years, and no member may serve more than one term. Any vacancy shall be filled in the same manner as the original appointment.”
+
+2022—Subsec. (j). Pub. L. 117–286 substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2017—Subsec. (f)(1). Pub. L. 115–91, § 531(k)(1), substituted “fiscal year 2021” for “fiscal year 2020”.
 
 Subsec. (f)(2). Pub. L. 115–91, § 531(k)(2), substituted “The analysis under this paragraph shall be included in the assessment required by paragraph (1).” for “Not later than October 31, 2020, the Panel shall submit to the Committees on Armed Services of the Senate and the House of Representatives through the Secretary of Defense a report setting forth the Panel’s findings and recommendations on the need for sentencing reform.”
@@ -9298,7 +9322,7 @@ Amendment by Pub. L. 115–91 effective immediately after the amendments made by
 Amendment by Pub. L. 114–328 effective on Jan. 1, 2019, as designated by the President, with implementing regulations and provisions relating to applicability to various situations, see section 5542 of Pub. L. 114–328 and Ex. Ord. No. 13825, set out as notes under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).

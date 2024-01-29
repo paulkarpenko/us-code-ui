@@ -39,7 +39,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Bankruptcy Act, referred to in subsec. (a)(1), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+The Bankruptcy Act, referred to in subsec. (a)(1), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 #### Short Title of 1978 Amendment
 Pub. L. 95–565, § 1, Nov. 1, 1978, 92 Stat. 2397, provided: “That this Act [amending sections 726, 747, and 825 of this title and [section 975 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975&num=0&edition=prelim), Public Lands, and enacting provision set out as a note under [section 975 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975&num=0&edition=prelim)] may be cited as the ‘United States Railway Association Amendments Act of 1978’.”
@@ -225,7 +225,7 @@ Application of National Environmental Policy Act to actions of Commission not af
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (c), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (c), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Codification
 Section 1147 of Pub. L. 97–35 directed that subsecs. (d) to (i) be struck out and replaced by new subsecs. (d) to (h), and that subsecs. (j) and (k) be redesignated (g) and (h), respectively. Because a literal execution of the amendment would result in two subsections designated (g) and two subsections designated (h), and to reflect the probable intent of Congress, subsecs. (j) and (k) have been editorially redesignated (i) and (j), respectively.
@@ -741,7 +741,7 @@ Notwithstanding any other provisions of this subsection and subsection (d) of th
 ### Statutory Notes
 
 #### References in Text
-Section 77 of the Bankruptcy Act, referred to in subsec. (b)(1), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (b)(1), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 Section 605 of the Federal Courts Improvement Act of 1996, referred to in subsec. (b)(2)(F), is section 605 of Pub. L. 104–317, title VI, Oct. 19, 1996, 110 Stat. 3858, which amended this section and sections 743, 745, 1104, and 1105 of this title and enacted provisions set out as notes under this section.
 
@@ -976,7 +976,7 @@ Section 77 of the Bankruptcy Act, referred to in subsecs. (a) and (h)(3)(B), was
 
 [Section 763 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section763&num=0&edition=prelim), referred to in subsec. (a), was repealed by Pub. L. 94–210, title VIII, § 806, Feb. 5, 1976, 90 Stat. 143, eff. Apr. 1, 1978.
 
-The Employers’ Liability Act ([45 U.S.C. 51–60](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51–60&num=0&edition=prelim)), referred to in subsec. (h)(1)(A)(v), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, and is classified generally to chapter 2 (§ 51 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 51 of this title](./chapter-002-liability-for-injuries-to-employees.md#section-51) and Tables.
+The Employers’ Liability Act ([45 U.S.C. 51–60](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section51–60&num=0&edition=prelim)), referred to in subsec. (h)(1)(A)(v), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, and is classified generally to chapter 2 (§ 51 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 51 of this title](./chapter-002-liability-for-injuries-to-employees.md#section-51) and Tables.
 
 Sections 774 and 775 of this title, referred to in subsec. (h)(1)(A)(vi), (B), were repealed by Pub. L. 97–35, title XI, § 1144(a)(1), Aug. 13, 1981, 95 Stat. 669.
 
@@ -1301,11 +1301,11 @@ Section 509 of the Railroad Revitalization and Regulatory Reform Act of 1976, re
 
 The Railroad Retirement Act of 1974, referred to in subsec. (b)(3)(B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of this title](./chapter-009-retirement-of-railroad-employees.md#section-231), [section 231t of this title](./chapter-009-retirement-of-railroad-employees.md#section-231t), and Tables.
 
-The Regional Rail Reorganization Act Amendments of 1978, referred to in subsec. (f)(1), probably means Pub. L. 95–565, Nov. 1, 1978, 92 Stat. 2397, as amended, known as the United States Railway Association Amendments Act of 1978, which amended sections 726, 747, and 825 of this title and [section 975 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975&num=0&edition=prelim), Public Lands, and enacted a provision set out as a note under [section 975 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
+The Regional Rail Reorganization Act Amendments of 1978, referred to in subsec. (f)(1), probably means Pub. L. 95–565, Nov. 1, 1978, 92 Stat. 2397, known as the United States Railway Association Amendments Act of 1978, which amended sections 726, 747, and 825 of this title and [section 975 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975&num=0&edition=prelim), Public Lands, and enacted a provision set out as a note under [section 975 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section975&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
 
-Public Law 94–210, referred to in subsec. (f)(2)(A)(i), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended, known as the Railroad Revitalization and Regulatory Reform Act of 1976. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-801) and Tables.
+Public Law 94–210, referred to in subsec. (f)(2)(A)(i), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, known as the Railroad Revitalization and Regulatory Reform Act of 1976. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-017-railroad-revitalization-and-regulatory-reform.md#section-801) and Tables.
 
-The Railway Labor Act, referred to in subsec. (f)(5), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 151 of this title](./chapter-008-railway-labor.md#section-151) and Tables.
+The Railway Labor Act, referred to in subsec. (f)(5), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 151 of this title](./chapter-008-railway-labor.md#section-151) and Tables.
 
 [Section 11301(b) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11301/b&num=0&edition=prelim), referred to in subsec. (f)(10), was omitted and a new section 11301 enacted in the general amendment of subtitle IV of Title 49, Transportation, by Pub. L. 104–88, title I, § 102(a), Dec. 29, 1995, 109 Stat. 804, 837. The new section 11301 does not relate to issuance of securities.
 
@@ -1452,7 +1452,7 @@ Section effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as
 See [section 1341 of this title](./chapter-022-conrail-privatization.md#section-1341).
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-741"></a>
@@ -1558,7 +1558,7 @@ Advisory boards established after Jan. 5, 1973, to terminate not later than the 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), means the Regional Rail Reorganization Act of 1973, Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
+This Act, referred to in subsec. (b), means the Regional Rail Reorganization Act of 1973, Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
 
 The Conrail Privatization Act, referred to in subsec. (k)(7), is subtitle A (§§ 4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§ 1301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-022-conrail-privatization.md#section-1301) and Tables.
 
@@ -1744,7 +1744,7 @@ Section 77 of the Bankruptcy Act, referred to in subsecs. (b)(3)(B) and (c)(1)(A
 
 [Section 775 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section775&num=0&edition=prelim), referred to in subsec. (b)(6)(A), was repealed by Pub. L. 97–35, title XI, § 1144(a)(1), Aug. 13, 1981, 95 Stat. 669.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title IV of the Employee Retirement Income Security Act of 1974 is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(6)(A), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title IV of the Employee Retirement Income Security Act of 1974 is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Codification
 The amendments made by section 612(i)(4) of Pub. L. 94–210 could be read as substituting “certificates of value” for “obligations” in subsecs. (b)(3)(A), (b)(5), and (b)(6), as added by section 612(a) and (l) of Pub. L. 94–210. However, this substitution is not appropriate in the context of the new subsecs. (b)(3)(A), (b)(5), and (b)(6).
@@ -1987,7 +1987,7 @@ If a rail service continuation payment is offered, pursuant to paragraph (2)(A) 
 
 Section 17 of the Federal Transit Act, referred to in subsecs. (d)(4)(B) and (e)(4)(C), (5)(A) to (C), which was classified to section 1613 of former Title 49, Transportation, was repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379.
 
-Section 77 of the Bankruptcy Act, referred to in subsec. (i)(2), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (i)(2), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 1996—Subsec. (b)(3). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 104–88, § 327(3)(B). See 1995 Amendment note below.
@@ -2169,7 +2169,7 @@ Whenever any property or securities of the Corporation are required to be valued
 ### Statutory Notes
 
 #### References in Text
-Section 77 of the Bankruptcy Act, referred to in subsec. (e), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (e), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 The effective date of the Staggers Rail Act of 1980, referred to in subsec. (f)(1), probably means Oct. 1, 1980, the effective date of section 601(a) of Pub. L. 96–448, which enacted subsec. (f) of this section. See section 710 of Pub. L. 96–448, set out as an Effective Date of 1980 Amendment note under [section 1170 of Title 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title11-section1170&num=0&edition=prelim).
 
@@ -2673,11 +2673,11 @@ Pub. L. 99–272, title IV, § 4011(d), Apr. 7, 1986, 100 Stat. 109, provided th
 #### References in Text
 [Section 797 of this title](./chapter-016-regional-rail-reorganization.md#section-797), referred to in subsecs. (a)(1) and (b), was repealed by Pub. L. 99–509, title IV, § 4024(c), Oct. 21, 1986, 100 Stat. 1904, effective on the sale date (Apr. 2, 1987).
 
-The Northeast Rail Service Act of 1981, referred to in subsec. (a)(1), is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+The Northeast Rail Service Act of 1981, referred to in subsec. (a)(1), is subtitle E (§§ 1131–1169) of title XI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 643. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsecs. (a)(2) and (b)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of this title](./chapter-009-retirement-of-railroad-employees.md#section-231), [section 231t of this title](./chapter-009-retirement-of-railroad-employees.md#section-231t), and Tables.
 
-The Railroad Unemployment Insurance Act, referred to in subsecs. (a)(2) and (b)(2), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsecs. (a)(2) and (b)(2), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
 
 
 <a id="section-797e"></a>
@@ -2771,7 +2771,7 @@ No State may adopt or continue in force any law, rule, regulation, order, or sta
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 151 of this title](./chapter-008-railway-labor.md#section-151) and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of this title. For complete classification of this Act to the Code, see [section 151 of this title](./chapter-008-railway-labor.md#section-151) and Tables.
 
 
 <a id="section-797l"></a>

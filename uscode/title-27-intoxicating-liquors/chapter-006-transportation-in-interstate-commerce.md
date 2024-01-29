@@ -125,7 +125,7 @@ Pub. L. 106–386, div. C, § 2004(c), Oct. 28, 2000, 114 Stat. 1548, provided t
 #### References in Text
 The Internet Tax Freedom Act, referred to in subsec. (a), is title XI of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–719, which is set out as a note under [section 151 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section151&num=0&edition=prelim), Telecommunications.
 
-This Act, referred to in subsec. (b), is act Mar. 1, 1913, ch. 90, 37 Stat. 699, as amended, popularly known as the Webb-Kenyon Act, which is classified to this section and sections 122 and 122a of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (b), is act Mar. 1, 1913, ch. 90, 37 Stat. 699, popularly known as the Webb-Kenyon Act, which is classified to this section and sections 122 and 122a of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Effective Date
 Section effective 90 days after Oct. 28, 2000, see section 2004(b) of Pub. L. 106–386, set out as a note under [section 122a of this title](./chapter-006-transportation-in-interstate-commerce.md#section-122a).

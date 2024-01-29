@@ -309,7 +309,7 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 
 <a id="section-101122"></a>
 ## § 101122. Authorization of appropriations; use of funds
-**(a) Authorization of Appropriations.—** There are authorized to be appropriated to carry out this subchapter $5,000,000 for each of fiscal years 2017 through 2023.
+**(a) Authorization of Appropriations.—** There are authorized to be appropriated to carry out this subchapter $15,000,000 for each of fiscal years 2017 through 2030.
 
 **(b) Use of Funds.—** Funds made available under subsection (a)—
 
@@ -320,3 +320,8 @@ The date of the enactment of this section, referred to in subsec. (b), is the da
 (3) may not be used by the National Park Foundation for administrative expenses of the Foundation, including for salaries, travel and transportation expenses, and other overhead expenses; and
 
 (4) may not be deposited by the National Park Foundation into any fund that will be invested or earn interest in any way.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–328 substituted “$15,000,000” for “$5,000,000” and “2030” for “2023”.

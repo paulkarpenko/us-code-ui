@@ -827,6 +827,9 @@ In subsection (a), the words “Necessary amounts are appropriated to the Secret
 
 In subsection (b), the words “appropriation made by this section” are substituted for “the appropriation to the Treasury Department entitled ‘Bureau of Internal Revenue Refunding Internal-Revenue Collections’ ” to eliminate unnecessary words.
 
+#### Amendment of Subsection (b)(2)
+Pub. L. 117–328, div. T, title I, § 103(d), (f), Dec. 29, 2022, 136 Stat. 5285, 5286, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (b)(2) of this section is amended by striking “or 7527A” and inserting “7527A, or 6433”. See 2022 Amendment note below.
+
 #### References in Text
 Act of March 30, 1928, referred to in subsec. (a)(2)(C), is act Mar. 30, 1928, ch. 302, 45 Stat. 398, which is not classified to the Code.
 
@@ -840,6 +843,8 @@ Section 3081(b)(2) of the Housing Assistance Tax Act of 2008, referred to in sub
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–328 substituted “7527A, or 6433” for “or 7527A”.
+
 2021—Subsec. (b)(2). Pub. L. 117–2, § 9651(b), inserted “3134,” before “6428”.
 
 Pub. L. 117–2, § 9641(b), inserted “3131, 3132,” before “6428”.
@@ -881,6 +886,9 @@ Pub. L. 110–185 inserted “or 6428” after “section 35”.
 1997—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
 
 1986—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2026, see section 103(f) of Pub. L. 117–328, set out as an Effective Date note under [section 6433 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6433&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2021 Amendment
 Amendment by section 9611(b)(4)(C) of Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2020, see section 9611(c)(1) of Pub. L. 117–2, set out as a note under [section 24 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section24&num=0&edition=prelim), Internal Revenue Code.
@@ -1102,9 +1110,13 @@ Pub. L. 100–463, title VIII, § 8086, Oct. 1, 1988, 102 Stat. 2270–32.
 Pub. L. 100–202, § 101(b) [title VIII, § 8119], Dec. 22, 1987, 101 Stat. 1329–43, 1329–84.
 
 #### Maximum Purchase Price of Motor Vehicles; Exceptions
-Pub. L. 117–103, div. E, title VII, § 702, Mar. 15, 2022, 136 Stat. 293, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with sub[section 1343(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343/c&num=0&edition=prelim), United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, law enforcement vehicles, protective vehicles, and undercover surveillance vehicles), is hereby fixed at $19,947 except station wagons for which the maximum shall be $19,997: Provided, That these limits may be exceeded by not to exceed $7,250 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
+Pub. L. 118–47, div. B, title VII, § 702, Mar. 23, 2024, 138 Stat. 573, provided that: “Unless otherwise specifically provided, the maximum amount allowable during the current fiscal year in accordance with [section 1343(c) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343/c&num=0&edition=prelim), United States Code, for the purchase of any passenger motor vehicle (exclusive of buses, ambulances, vans, law enforcement vehicles, protective vehicles, undercover surveillance vehicles, and police-type vehicles), is hereby fixed at $40,000 except station wagons for which the maximum shall be $41,140: Provided, That these limits may be exceeded by not to exceed $7,775 for police-type vehicles: Provided further, That the limits set forth in this section may not be exceeded by more than 5 percent for electric or hybrid vehicles purchased for demonstration under the provisions of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 [[15 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2501&num=0&edition=prelim) et seq.]: Provided further, That the limits set forth in this section may be exceeded by the incremental cost of clean alternative fuels vehicles acquired pursuant to Public Law 101–549 [see Tables for classification] over the cost of comparable conventionally fueled vehicles: Provided further, That the limits set forth in this section shall not apply to any vehicle that is a commercial item and which operates on alternative fuel, including but not limited to electric, plug-in hybrid electric, and hydrogen fuel cell vehicles.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. E, title VII, § 702, Dec. 29, 2022, 136 Stat. 4704.
+
+Pub. L. 117–103, div. E, title VII, § 702, Mar. 15, 2022, 136 Stat. 293.
 
 Pub. L. 116–260, div. E, title VII, § 702, Dec. 27, 2020, 134 Stat. 1430.
 
@@ -1450,7 +1462,7 @@ Reference to the Director of Central Intelligence or the Director of the Central
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2004 Amendment
 Pub. L. 108–447, div. B, title I, § 117, Dec. 8, 2004, 118 Stat. 2870, provided in part that: “This amendment [amending this section] shall take effect as if enacted on January 1, 2004.”

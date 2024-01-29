@@ -371,7 +371,7 @@ Section effective on the 90th day after Jan. 12, 1983, or on any date which the 
   (C) changes are required to this chapter in order to implement fully the obligations of the United States under the Convention;
   the Committee may submit a report to the Congress and the President setting forth its recommendations for suspending such import restrictions or for improving the effectiveness of any such agreement or emergency action or this chapter.
 
-**(h) Federal Advisory Committee Act** The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. Appendix) shall apply to the Committee except that the requirements of subsections (a) and (b) of section 10 and section 11 of such Act (relating to open meetings, public notice, public participation, and public availability of documents) shall not apply to the Committee, whenever and to the extent it is determined by the President or his designee that the disclosure of matters involved in the Committee’s proceedings would compromise the Government’s negotiating objectives or bargaining positions on the negotiations of any agreement authorized by this chapter.
+**(h) Chapter 10 of title 5** The provisions of chapter 10 of title 5 shall apply to the Committee, except that the requirements of subsections (a) and (b) of section 1009 and [section 1010 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1010&num=0&edition=prelim) (relating to open meetings, public notice, public participation, and public availability of documents) shall not apply to the Committee, whenever and to the extent it is determined by the President or his designee that the disclosure of matters involved in the Committee’s proceedings would compromise the Government’s negotiating objectives or bargaining positions on the negotiations of any agreement authorized by this chapter.
 
 **(i) Confidential information**
 
@@ -389,10 +389,9 @@ Section effective on the 90th day after Jan. 12, 1983, or on any date which the 
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5 shall apply to the Committee, except that the requirements of subsections (a) and (b) of section 1009 and [section 1010 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1010&num=0&edition=prelim)” for “the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. Appendix I) shall apply to the Committee except that the requirements of subsections (a) and (b) of section 10 and section 11 of such Act” in text.
+
 1987—Subsec. (b)(3)(A). Pub. L. 100–204, § 307(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Members of the Committee shall be appointed for terms of two years and may be reappointed for 1 or more terms.”
 
 Subsec. (b)(3)(B). Pub. L. 100–204, § 307(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A vacancy in the Commission shall be filled in the same manner in which the original appointment was made.”

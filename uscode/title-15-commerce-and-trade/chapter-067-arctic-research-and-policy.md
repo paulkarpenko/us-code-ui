@@ -2,7 +2,7 @@
 title: 15
 chapter: '67'
 heading: ARCTIC RESEARCH AND POLICY
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -659,3 +659,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ## § 4111. “Arctic” defined
 
 As used in this chapter, the term “Arctic” means all United States and foreign territory north of the Arctic Circle and all United States territory north and west of the boundary formed by the Porcupine, Yukon, and Kuskokwim Rivers; all contiguous seas, including the Arctic Ocean and the Beaufort, Bering, and Chukchi Seas; and the Aleutian chain.
+
+
+<a id="section-4112"></a>
+## § 4112. Annual agency budget and spending report
+(1) **Annual agency budgets** — Each agency represented on the Interagency Arctic Research Policy Committee shall each include in their agency’s annual budget request to Congress a description of their agency’s projected Arctic research activities and associated budget for the fiscal year covered by the budget request.
+
+(2) **Report to Congress** — Beginning with fiscal year 2025 and annually thereafter until fiscal year 2034, not later than 60 days after the President’s budget request for such fiscal year is submitted to Congress, the Office of Science and Technology Policy shall submit an annual report to Congress summarizing each agency’s budget request related to Arctic research activities per the information submitted in accordance with paragraph (1).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Arctic Research and Policy Act of 1984 which comprises this chapter.

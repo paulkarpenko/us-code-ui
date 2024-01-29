@@ -456,6 +456,8 @@ Pub. L. 103–311, title I, § 122, Aug. 26, 1994, 108 Stat. 1681, provided that
 ### Statutory Notes
 
 #### References in Text
+With respect to a “transportation security card issued under [section 70105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim)”, referred to in subsec. (a)(1)(B), amendments made by Pub. L. 117–263 to [section 70105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim), Shipping, are such that section 70105 now refers to “transportation worker identification credential” rather than “transportation security card”. See [section 70105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70105&num=0&edition=prelim).
+
 Section 101(a)(3) of the Immigration and Nationality Act, referred to in subsec. (f), is classified to [section 1101(a)(3) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/3&num=0&edition=prelim), Aliens and Nationality.
 
 The date of enactment of this subsection, referred to in subsecs. (g) and (h), is the date of enactment of Pub. L. 109–59, which was approved Aug. 10, 2005.

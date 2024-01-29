@@ -2,7 +2,7 @@
 title: 37
 chapter: '3'
 heading: BASIC PAY
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -867,6 +867,13 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(4)
+Pub. L. 118–31, div. A, title VI, § 601(b), (e), Dec. 22, 2023, 137 Stat. 288, 289, provided that, effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, subsection (a)(4) of this section is amended to read as follows:
+
+“(4) for a regular period of instruction, period of appropriate duty, or such other equivalent training that a member would be required to perform but does not perform because such member was authorized to take parental leave pursuant to [section 711 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section711&num=0&edition=prelim).”
+
+See 2023 Amendment note below.
+
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
@@ -897,6 +904,8 @@ Pub. L. 96–154, title VII, § 726, Dec. 21, 1979, 93 Stat. 1157.
 Pub. L. 95–457, title VIII, § 826, Oct. 13, 1978, 92 Stat. 1248.
 
 #### Amendments
+2023—Subsec. (a)(4). Pub. L. 118–31 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “for each of six days for each period during which the member is on maternity leave.”
+
 2021—Subsec. (a)(4). Pub. L. 116–283 added par. (4).
 
 2008—Subsec. (f). Pub. L. 110–181 added subsec. (f).
@@ -921,6 +930,9 @@ Subsec. (d). Pub. L. 107–107, § 603(a), designated existing provisions as par
 
 1984—Subsec. (e). Pub. L. 98–525 added subsec. (e).
 
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–31 effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, see section 601(e) of Pub. L. 118–31, set out as an Effective Date note under [section 711 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section711&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective, and applicable with respect to periods of maternity leave that commence on or after, Jan. 1, 2021, see section 602(c) of Pub. L. 116–283, set out as a note under [section 12732 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732&num=0&edition=prelim), Armed Forces.
 
@@ -929,6 +941,12 @@ Amendment by Pub. L. 100–456 applicable with respect to persons who, after Sep
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as a note under [section 520b of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section520b&num=0&edition=prelim), Armed Forces.
+
+
+<a id="section-206a"></a>
+## § 206a. Pay of members of reserve components for inactive-duty training to obtain or maintain an aeronautical rating or designation
+
+Under regulations prescribed by the Secretary concerned, a member of the National Guard or a member of a reserve component of a uniformed service who is receiving aviation incentive pay under [section 334(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section334/a&num=0&edition=prelim) and is entitled to compensation under [section 206 of this title](./chapter-003-basic-pay.md#section-206) is entitled to such compensation for a number of periods of inactive-duty training each month sufficient for the member to obtain or maintain an aeronautical rating or designation.
 
 
 <a id="section-207"></a>

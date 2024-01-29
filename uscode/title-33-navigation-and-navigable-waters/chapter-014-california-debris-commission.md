@@ -289,7 +289,9 @@ Said commission, in order that such material as is now or may hereafter be lodge
 ### Statutory Notes
 
 #### References in Text
-Executive Document Numbered 267, referred to in text, contained a report of Lieut. Col. G. H. Mendell, Corps of Engineers, U.S.A., dated Jan. 26, 1882, prepared pursuant to a provision in act June 14, 1880, ch. 211, 21 Stat. 196. Executive Document Numbered 98, also referred to in text, contained a report by a board of engineers created by act Oct. 1, 1888, ch. 1057, 25 Stat. 498.
+Executive Document Numbered 267, referred to in text, contained a report by a board of engineers created by act Oct. 1, 1888, ch. 1057, 25 Stat. 498.
+
+Executive Document Numbered 98, referred to in text, contained a report of Lieut. Col. G. H. Mendell, Corps of Engineers, U.S.A., dated Jan. 26, 1882, prepared pursuant to a provision in act June 14, 1880, ch. 211, 21 Stat. 196.
 
 #### Transfer of Functions
 California Debris Commission abolished and functions transferred to Secretary of the Army by Pub. L. 99–662, title XI, § 1106, Nov. 17, 1986, 100 Stat. 4229, set out as a note under [section 661 of this title](./chapter-014-california-debris-commission.md#section-661).

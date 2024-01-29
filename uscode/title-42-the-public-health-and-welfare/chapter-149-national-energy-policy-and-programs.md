@@ -2,7 +2,7 @@
 title: 42
 chapter: '149'
 heading: NATIONAL ENERGY POLICY AND PROGRAMS
-section_count: 283
+section_count: 284
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -3956,9 +3956,9 @@ There are authorized to be appropriated to the Secretary to carry out this subpa
 
 (4) **Eligible contractor** — The term “eligible contractor” means a contractor that is a for-profit, not-for-profit, or nonprofit entity that has the capacity—
 
-  (A) to sell clean school buses, zero-emission school buses, charging or fueling infrastructure, or other equipment needed to charge, fuel, or maintain clean school buses or zero-emission school buses, to individuals or entities that own a school bus or a fleet of school buses; or
+  (A) to sell, lease, license, or contract for service clean school buses, zero-emission school buses, charging or fueling infrastructure, or other equipment needed to charge, fuel, or maintain clean school buses or zero-emission school buses, to individuals or entities that own, lease, license, or contract for service a school bus or a fleet of school buses; or
 
-  (B) to arrange financing for such a sale.
+  (B) to arrange financing for such a sale, lease, license, or contract for service.
 
 (5) **Eligible recipient**
 
@@ -3968,17 +3968,19 @@ There are authorized to be appropriated to the Secretary to carry out this subpa
 
       (I) providing school bus service to 1 or more public school systems; or
 
-      (II) the purchase of school buses;
+      (II) the purchase, lease, license, or contract for service of school buses;
 
     (ii) an eligible contractor;
 
-    (iii) a nonprofit school transportation association; or
+    (iii) a nonprofit school transportation association;
 
-    (iv) an Indian Tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), Tribal organization (as defined in that section), or tribally controlled school (as defined in [section 2511 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2511&num=0&edition=prelim)) that is responsible for—
+    (iv) a charter school (as defined in [section 7221i of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7221i&num=0&edition=prelim)) responsible for the purchase, lease, license, or contract for service of school buses for that charter school; or
+
+    (v) an Indian Tribe (as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)), Tribal organization (as defined in that section), or tribally controlled school (as defined in [section 2511 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2511&num=0&edition=prelim)) that is responsible for—
 
       (I) providing school bus service to 1 or more Bureau-funded schools (as defined in [section 2021 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim)); or
 
-      (II) the purchase of school buses.
+      (II) the purchase, lease, license, or contract for service of school buses.
 
   (B) *Special requirements* — In the case of eligible recipients identified under clauses (ii) and (iii) of subparagraph (A), the Administrator shall establish timely and appropriate requirements for notice and shall establish timely and appropriate requirements for approval by the public school systems that would be served by buses purchased using award funds made available under this section.
 
@@ -4042,7 +4044,7 @@ There are authorized to be appropriated to the Secretary to carry out this subpa
 
 (5) **Use of school bus fleet** — All clean school buses and zero-emission school buses acquired with funds provided under this section shall—
 
-  (A) be operated as part of the school bus fleet for which the award was made for not less than 5 years;
+  (A) be operated as part of the school bus fleet for which the award was made for not less than 5 years, except that, if the award is to an eligible contractor and the contract with the local educational agency (including charter schools operating as local educational agencies under State law) ends before the end of the 5-year period, those school buses may be operated as part of another local educational agency eligible for the same or higher priority consideration under paragraph (4), subject to the limitations under paragraph (7);
 
   (B) be maintained, operated, and charged or fueled according to manufacturer recommendations or State requirements; and
 
@@ -4113,6 +4115,18 @@ There are authorized to be appropriated to the Secretary to carry out this subpa
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(4)(A). Pub. L. 117–328, § 405(1)(A)(i), inserted “, lease, license, or contract for service” after “to sell” and after “that own”.
+
+Subsec. (a)(4)(B). Pub. L. 117–328, § 405(1)(A)(ii), inserted “, lease, license, or contract for service” before period at end.
+
+Subsec. (a)(5)(A)(i)(II). Pub. L. 117–328, § 405(1)(B)(i), inserted “, lease, license, or contract for service” after “purchase”.
+
+Subsec. (a)(5)(A)(iii) to (v). Pub. L. 117–328, § 405(1)(B)(ii)–(iv), added cl. (iv) and redesignated former cl. (iv) as (v).
+
+Subsec. (a)(5)(A)(v)(II). Pub. L. 117–328, § 405(1)(B)(v), inserted “, lease, license, or contract for service” after “purchase”.
+
+Subsec. (b)(5)(A). Pub. L. 117–328, § 405(2), inserted before period at end “, except that, if the award is to an eligible contractor and the contract with the local educational agency (including charter schools operating as local educational agencies under State law) ends before the end of the 5-year period, those school buses may be operated as part of another local educational agency eligible for the same or higher priority consideration under paragraph (4), subject to the limitations under paragraph (7)”.
+
 2021—Pub. L. 117–58 amended section generally. Prior to amendment, section related to program for retrofit or replacement of certain existing school buses with clean school buses.
 
 
@@ -8332,7 +8346,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 (2) **Isotope demonstration evaluation**
 
-  (A) *In general* — Not later than 1 year after August 9, 2022, the Secretary, acting through the Assistant Secretary for Nuclear Energy, shall evaluate the technical and economic feasibility of the establishment of an isotope demonstration subprogram of the program established under paragraph (1) to support the development and commercial demonstration of critical radioactive and stable isotope production in existing commercial nuclear power plants.
+  (A) *In general* — Not later than 1 year after August 9, 2022, the Secretary, acting through the Assistant Secretary for Nuclear Energy, shall evaluate the technical and economic feasibility of establishing and, if feasible, is authorized to establish an isotope demonstration subprogram of the program established under paragraph (1) to support the development and commercial demonstration of critical radioactive and stable isotope production in existing commercial nuclear power plants.
 
   (B) *Consultation* — The Secretary, acting through the Assistant Secretary for Nuclear Energy, shall consult with the Director of the Office of Science in carrying out the evaluation under subparagraph (A).
 
@@ -8455,7 +8469,11 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 ### Statutory Notes
 
 #### Amendments
-2022—Subsec. (a)(2), (4). Pub. L. 117–167 added par. (2) and redesignated former par. (2) as (4) and transferred it to appear after par. (3).
+2022—Subsec. (a)(2). Pub. L. 117–167, § 10110(b)(2), added par. (2). Former par. (2) redesignated (4).
+
+Subsec. (a)(2)(A). Pub. L. 117–263 substituted “shall evaluate the technical and economic feasibility of establishing and, if feasible, is authorized to establish” for “shall evaluate the technical and economic feasibility of the establishment of”.
+
+Subsec. (a)(4). Pub. L. 117–167, § 10110(b)(1), redesignated par. (2) as (4) and transferred it to appear after par. (3).
 
 2020—Pub. L. 116–260 amended section generally. Prior to amendment, section related to nuclear energy research programs.
 
@@ -8608,7 +8626,9 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (D) *Fuel requirements* — New research reactors established under subparagraph (B) shall not use high-enriched uranium, as defined in [section 16281 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16281).
 
-  (E) *Authorization of appropriations* — Of any amounts appropriated to carry out the program under this section, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
+  (E) *Fuel services* — The Research Reactor Infrastructure subprogram within the Radiological Facilities Management program of the Department, as authorized by paragraph (6), shall be expanded to provide fuel services to research reactors established by this paragraph.
+
+  (F) *Authorization of appropriations* — Of any amounts appropriated to carry out the program under this section, there are authorized to be appropriated to the Secretary to carry out the subprogram under this paragraph—
 
     (i) $45,000,000 for fiscal year 2023;
 
@@ -8648,17 +8668,27 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
   (F) *Tribal College or University* — The term “Tribal College or University” has the meaning given such term in [section 1059c of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c&num=0&edition=prelim).
 
-**(b) Nuclear energy graduate traineeship subprogram**
+**(b) Nuclear energy traineeship subprogram**
 
-(1) **Establishment** — In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy graduate traineeship subprogram under which the Secretary shall competitively award graduate traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
+(1) **Establishment** — In carrying out the program under subsection (a), the Secretary shall establish a nuclear energy traineeship subprogram under which the Secretary shall competitively award traineeships in coordination with universities to provide focused, advanced training to meet critical mission needs of the Department, including in industries that are represented by skilled labor unions.
 
 (2) **Requirements** — In carrying out the subprogram under this subsection, the Secretary shall—
 
-  (A) encourage appropriate partnerships among National Laboratories, affected universities, and industry; and
+  (A) encourage appropriate partnerships among National Laboratories, affected universities, community colleges, trade schools, registered apprenticeship programs, pre-apprenticeship programs, and industry; and
 
-  (B) on an annual basis, evaluate the needs of the nuclear energy community to implement graduate traineeships for focused topical areas addressing mission-specific workforce needs.
+  (B) on an annual basis, evaluate the needs of the nuclear energy community to implement traineeships for focused topical areas addressing mission-specific workforce needs.
 
-(3) **Authorization of appropriations** — There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2021 through 2025.
+  (A) *Focus areas.—* — 22 So in original. There are two subpars. (A). Probably should be designated par. (3). In carrying out the subprogram under this subsection, the Secretary may implement traineeships in focus areas that, in the determination of the Secretary, are necessary to support the nuclear energy sector in the United States, including—
+
+    (i) research and development;
+
+    (ii) construction and operation;
+
+    (iii) associated supply chains; and
+
+    (iv) workforce training and retraining to support transitioning workforces.
+
+(4) **Authorization of appropriations 33 So in original. There is no par. (3).** — There are authorized to be appropriated to the Secretary to carry out the subprogram under this subsection $5,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
@@ -8666,6 +8696,18 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 Section 502 of the America COMPETES Reauthorization Act of 2010, referred to in subsec. (a)(9)(C), is section 502 of Pub. L. 111–358, which is set out as a note under [section 1862p of this title](./chapter-016-national-science-foundation.md#section-1862p).
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31, § 3131(p)(2)(A), struck out “graduate” before “traineeship” in heading.
+
+Subsec. (b)(1). Pub. L. 118–31, § 3131(p)(2)(B), struck out “graduate” before “traineeship” and before “traineeships”.
+
+Subsec. (b)(2)(A). Pub. L. 118–31, § 3131(p)(2)(F), added subpar. (A) relating to focus areas. Amendment directing addition of subpar. (A) “after paragraph (2)” was executed by adding subpar. (A) at end of par. (2).
+
+Pub. L. 118–31, § 3131(p)(2)(C), inserted “community colleges, trade schools, registered apprenticeship programs, pre-apprenticeship programs,” after “affected universities,” in subpar. (A) relating to appropriate partnerships among National Laboratories.
+
+Subsec. (b)(2)(B). Pub. L. 118–31, § 3131(p)(2)(B), struck out “graduate” before “traineeships”.
+
+Subsec. (b)(3), (4). Pub. L. 118–31, § 3131(p)(2)(D), (E), substituted “2023 through 2027” for “2021 through 2025” in par. (3) and then redesignated par. (3) as (4).
+
 2022—Subsec. (a)(2)(D). Pub. L. 117–167, § 10743(1), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “encourage collaborative nuclear research among industry, National Laboratories, and universities; and”.
 
 Subsec. (a)(4). Pub. L. 117–167, § 10743(2), amended par. (4) generally. Prior to amendment, text read as follows: “In carrying out the program under this subsection, the Secretary may support—
@@ -8678,7 +8720,11 @@ Subsec. (a)(4). Pub. L. 117–167, § 10743(2), amended par. (4) generally. Prio
 
 “(D) reactor improvements that emphasize research, training, and education, including through the Innovations in Nuclear Infrastructure and Education Program or any similar program.”
 
-Subsec. (a)(5) to (8). Pub. L. 117–167, § 10744(1), (2), added par. (5) and redesignated former pars. (5) to (7) as (6) to (8), respectively. Former par. (8) redesignated (9).
+Subsec. (a)(5). Pub. L. 117–167, § 10744(2), added par. (5). Former par. (5) redesignated (6)
+
+Subsec. (a)(5)(E), (F). Pub. L. 117–263 added subpar. (E) and redesignated former subpar. (E) as (F).
+
+Subsec. (a)(6) to (8). Pub. L. 117–167, § 10744(1), resignated pars. (5) to (7) as (6) to (8), respectively. Former par. (8) redesignated (9).
 
 Subsec. (a)(9). Pub. L. 117–167, § 10744(1), (3), redesignated par. (8) as (9) and amended it generally. Prior to amendment, par. defined “junior faculty”.
 
@@ -8725,11 +8771,11 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 <a id="section-16278"></a>
 ## § 16278. University Nuclear Leadership Program
-**(a) In general** The Secretary of Energy, the Administrator of the National Nuclear Security Administration, and the Chairman of the Nuclear Regulatory Commission shall jointly establish a program, to be known as the “University Nuclear Leadership Program”.
+**(a) In general** The Secretary of Energy, the Administrator of the National Nuclear Security Administration, and the Chairman of the Commission shall jointly establish a program, to be known as the “University Nuclear Leadership Program”.
 
 **(b) Use of funds**
 
-(1) **In general** — Except as provided in paragraph (2), amounts made available to carry out the Program shall be used to provide financial assistance for scholarships, fellowships, and research and development projects at institutions of higher education in areas relevant to the programmatic mission of the applicable Federal agency, with an emphasis on providing the financial assistance with respect to research, development, demonstration, and commercial application activities relevant to civilian advanced nuclear reactors including, but not limited to—
+(1) **In general** — Except as provided in paragraph (2) and subsection (c), amounts made available to carry out the Program shall be used to provide financial assistance for scholarships, fellowships, and research and development projects at institutions of higher education in areas relevant to the programmatic mission of the applicable Federal agency, with an emphasis on providing the financial assistance with respect to research, development, demonstration, and commercial application activities relevant to civilian advanced nuclear reactors including, but not limited to—
 
   (A) relevant fuel cycle technologies;
 
@@ -8739,19 +8785,55 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 (2) **Exception** — Notwithstanding paragraph (1), amounts made available to carry out the Program may be used to provide financial assistance for a scholarship, fellowship, or multiyear research and development project that does not align directly with a programmatic mission of the Department of Energy, if the activity for which assistance is provided would facilitate the maintenance of the discipline of nuclear science or engineering, which may include nontechnical nuclear research..11 So in original.
 
-**(c) Definitions** In this section:
+**(c) Nuclear energy traineeship subprogram**
 
-(1) **Advanced nuclear reactor; institution of higher education** — The terms “advanced nuclear reactor” and “institution of higher education” have the meanings given those terms in [section 16271 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16271).
+(1) **In general** — The Commission shall establish, as a subprogram of the Program, a nuclear energy traineeship subprogram under which the Commission, in coordination with institutions of higher education and trade schools, shall competitively award traineeships that provide focused training to meet critical mission needs of the Commission and nuclear workforce needs, including needs relating to the nuclear tradecraft workforce.
 
-(2) **Program** — The term “Program” means the University Nuclear Leadership Program established under this section.
+(2) **Requirements** — In carrying out the nuclear energy traineeship subprogram described in paragraph (1), the Commission shall—
 
-(3) **Nontechnical nuclear research** — The term “nontechnical nuclear research” means research with specializations such as social sciences or law that can support an increase in community engagement, participation, and confidence in nuclear energy systems, including the navigation of the licensing required for advanced reactor deployment, aligned with the objectives in [section 16271(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16271/a/2&num=0&edition=prelim).
+  (A) coordinate with the Secretary of Energy to prioritize the funding of traineeships that focus on—
 
-**(d) Authorization of appropriations** There are authorized to be appropriated to carry out the Program for each of fiscal years 2021 through 2025—
+    (i) nuclear workforce needs; and
+
+    (ii) critical mission needs of the Commission;
+
+  (B) encourage appropriate partnerships among—
+
+    (i) National Laboratories;
+
+    (ii) institutions of higher education;
+
+    (iii) trade schools;
+
+    (iv) the nuclear energy industry; and
+
+    (v) other entities, as the Commission determines to be appropriate; and
+
+  (C) on an annual basis, evaluate nuclear workforce needs for the purpose of implementing traineeships in focused topical areas that—
+
+    (i) address the workforce needs of the nuclear energy community; and
+
+    (ii) support critical mission needs of the Commission.
+
+**(d) Definitions** In this section:
+
+(1) **Advanced nuclear reactor** — The term “advanced nuclear reactor” has the meaning given the term in [section 16271(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16271/b&num=0&edition=prelim).
+
+(2) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
+
+(3) **22 So in original. Another par. (3) follows par. (5). Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801).
+
+(4) **National Laboratory** — The term “National Laboratory” has the meaning given the term in [section 16271(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16271/b&num=0&edition=prelim).
+
+(5) **Program** — The term “Program” means the University Nuclear Leadership Program established under this section.
+
+(3) **33 So in original. Another par. (3) follows par. (2). Nontechnical nuclear research** — The term “nontechnical nuclear research” means research with specializations such as social sciences or law that can support an increase in community engagement, participation, and confidence in nuclear energy systems, including the navigation of the licensing required for advanced reactor deployment, aligned with the objectives in [section 16271(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16271/a/2&num=0&edition=prelim).
+
+**(e) Authorization of appropriations** There are authorized to be appropriated to carry out the Program for each of fiscal years 2021 through 2025—
 
 (1) $45,000,000 to the Secretary of Energy, of which $15,000,000 shall be for use by the Administrator of the National Nuclear Security Administration; and
 
-(2) $15,000,000 to the Nuclear Regulatory Commission.
+(2) $15,000,000 to the Commission.
 
 ### Statutory Notes
 
@@ -8759,6 +8841,20 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2009, and also as part of the Omnibus Appropriations Act, 2009, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–67, § 402(1), struck out “Nuclear Regulatory” before “Commission”.
+
+Subsec. (b)(1). Pub. L. 118–67, § 402(2), inserted “and subsection (c)” after “paragraph (2)” in introductory provisions.
+
+Subsec. (c). Pub. L. 118–67, § 402(6), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Pub. L. 118–67, § 402(3), added pars. (1) to (4), redesignated former par. (2) as (5), and struck out former par. (1) which defined “advanced nuclear reactor” and “institution of higher education”.
+
+Subsec. (d). Pub. L. 118–67, § 402(5), redesignated subsec. (c) as (d).
+
+Subsec. (d)(2). Pub. L. 118–67, § 402(4), struck out “Nuclear Regulatory” before “Commission”.
+
+Subsec. (e). Pub. L. 118–67, § 402(5), redesignated subsec. (d) as (e).
+
 2022—Subsec. (b)(2). Pub. L. 117–167, § 10745(b)(1), inserted “, which may include nontechnical nuclear research.” after “engineering”.
 
 Subsec. (c)(3). Pub. L. 117–167, § 10745(b)(2), added par. (3).
@@ -9155,8 +9251,8 @@ Subsec. (e). Pub. L. 116–260, § 2005(5), added subsec. (e).
 (5) $455,000,000 for fiscal year 2025.
 
 
-<a id="section-16291"></a>
-## § 16291. International nuclear energy cooperation
+<a id="section-16282"></a>
+## § 16282. International nuclear energy cooperation
 
 The Secretary shall carry out a program—
 
@@ -9181,8 +9277,8 @@ The Secretary shall carry out a program—
     (v) any other international collaborative effort with respect to advanced nuclear reactor operations and safety.
 
 
-<a id="section-16291a"></a>
-## § 16291a. Organization and administration of programs
+<a id="section-16291"></a>
+## § 16291. Organization and administration of programs
 **(a) Coordination** In carrying out this part, the Secretary shall coordinate activities, and effectively manage crosscutting research priorities across programs of the Department and other relevant Federal agencies, including the National Laboratories.
 
 **(b) Collaboration**
@@ -9202,8 +9298,8 @@ The Secretary shall carry out a program—
 **(g) Sensitive information** The Secretary shall not publish any information generated under this part that is detrimental to national security, as determined by the Secretary.
 
 
-<a id="section-16292"></a>
-## § 16292. Advanced Nuclear Energy Licensing Cost-Share Grant Program
+<a id="section-16291a"></a>
+## § 16291a. Advanced Nuclear Energy Licensing Cost-Share Grant Program
 **(a) Definitions** In this section:
 
 (1) **Commission** — The term “Commission” means the Nuclear Regulatory Commission.
@@ -9240,8 +9336,8 @@ The Secretary shall carry out a program—
 Section was enacted as part of the Nuclear Energy Innovation Capabilities Act of 2017, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
 
 
-<a id="section-16293"></a>
-## § 16293. Advanced nuclear fuel availability
+<a id="section-16292"></a>
+## § 16292. Advanced nuclear fuel availability
 **(a) Program**
 
 (1) **Establishment** — The Secretary shall establish and carry out, through the Office of Nuclear Energy, a program to support the availability of HA–LEU for civilian domestic research, development, demonstration, and commercial use.
@@ -9435,6 +9531,316 @@ The American Medical Isotopes Production Act of 2012, referred to in subsec. (a)
 
 #### Codification
 Section was enacted as part of the Energy Act of 2020, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+#### Development, Qualification, and Licensing of Advanced Nuclear Fuel Concepts
+Pub. L. 118–67, div. B, title IV, § 404, July 9, 2024, 138 Stat. 1469, provided that: “(a) In General.—The [Nuclear Regulatory] Commission shall establish an initiative to enhance preparedness and coordination with respect to the qualification and licensing of advanced nuclear fuel. “(b) Agency Coordination.—Not later than 180 days after the date of enactment of this Act [July 9, 2024], the Commission and the Secretary of Energy shall enter into a memorandum of understanding—“(1) to share technical expertise and knowledge through—“(A) enabling the testing and demonstration of accident tolerant fuels for existing commercial nuclear reactors and advanced nuclear reactor fuel concepts to be proposed and funded, in whole or in part, by the private sector; “(B) operating a database to store and share data and knowledge relevant to nuclear science and engineering between Federal agencies and the private sector; “(C) leveraging expertise with respect to safety analysis and research relating to advanced nuclear fuel; and “(D) enabling technical staff to actively observe and learn about technologies, with an emphasis on identification of additional information needed with respect to advanced nuclear fuel; and “(2) to ensure that—“(A) the Department of Energy has sufficient technical expertise to support the timely research, development, demonstration, and commercial application of advanced nuclear fuel; “(B) the Commission has sufficient technical expertise to support the evaluation of applications for licenses, permits, and design certifications and other requests for regulatory approval for advanced nuclear fuel; “(C)(i) the Department of Energy maintains and develops the facilities necessary to enable the timely research, development, demonstration, and commercial application by the civilian nuclear industry of advanced nuclear fuel; and “(ii) the Commission has access to the facilities described in clause (i), as needed; and “(D) the Commission consults, as appropriate, with the modeling and simulation experts at the Office of Nuclear Energy of the Department of Energy, at the National Laboratories, and within industry fuel vendor teams in cooperative agreements with the Department of Energy to leverage physics-based computer modeling and simulation capabilities. “(c) Report.—“(1) In general.—Not later than 2 years after the date of enactment of this Act, the Commission shall submit to the appropriate committees of Congress [Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate] a report describing the efforts of the Commission under subsection (a), including—“(A) an assessment of the preparedness of the Commission to review and qualify for use—“(i) accident tolerant fuel; “(ii) ceramic cladding materials; “(iii) fuels containing silicon carbide; “(iv) high-assay, low-enriched uranium fuels; “(v) molten-salt based liquid fuels; “(vi) fuels derived from spent nuclear fuel or depleted uranium; and “(vii) other related fuel concepts, as determined by the Commission; “(B) activities planned or undertaken under the memorandum of understanding described in subsection (b); “(C) an accounting of the areas of research needed with respect to advanced nuclear fuel; and “(D) any other challenges or considerations identified by the Commission. “(2) Consultation.—In developing the report under paragraph (1), the Commission shall seek input from—“(A) the Secretary of Energy; “(B) National Laboratories; “(C) the nuclear energy industry; “(D) technology developers; “(E) nongovernmental organizations; and “(F) other public stakeholders.”
+
+[For definitions of terms used in section 404 of Pub. L. 118–67, set out above, see section 2 of Pub. L. 118–67, set out as a note under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011).]
+
+#### Receipts To Be Credited to American Energy Independence Fund
+Pub. L. 118–42, div. D, title III, § 312(a), Mar. 9, 2024, 138 Stat. 210, provided in part: “That notwithstanding [31 U.S.C. 3302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), receipts from the sale or transfer of LEU and HALEU or from any other transaction in connection with the amounts repurposed, transferred, or otherwise made available pursuant to this section shall hereafter be credited to the ‘American Energy Independence Fund’ as discretionary offsetting collections and shall be available, for the same purposes as funds repurposed or transferred pursuant to this section, to the extent and in the amounts provided in advance in appropriations Acts: Provided further, That receipts may hereafter be collected from transactions entered into pursuant to section 2001(a)(2)(F)(iii) of the Energy Act of 2020 ([42 U.S.C. 16281(a)(2)(F)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16281/a/2/F/iii&num=0&edition=prelim)) and, notwithstanding [31 U.S.C. 3302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), receipts from any transaction entered into pursuant to section 2001(a)(2)(F)(ii) and (iii) of such Act ([42 U.S.C. 16281(a)(2)(F)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16281/a/2/F/ii&num=0&edition=prelim) and (iii)) shall hereafter be credited to the ‘American Energy Independence Fund’ as discretionary offsetting collections and shall be available, for the same purposes as funds repurposed or transferred pursuant to this section, to the extent and in the amounts provided in advance in appropriations Acts”.
+
+
+<a id="section-16293"></a>
+## § 16293. U.S. nuclear fuel security initiative
+**(a) Short title** This section may be cited as the “Nuclear Fuel Security Act of 2023”.
+
+**(b) Sense of Congress** It is the sense of Congress that—
+
+(1) the Department should—
+
+  (A) support increased domestic production of low-enriched uranium; and
+
+  (B) accelerate efforts to establish a domestic high-assay, low-enriched uranium enrichment capability; and
+
+(2) if domestic enrichment of high-assay, low-enriched uranium will not be commercially available at the scale needed in time to meet the needs of the advanced nuclear reactor demonstration projects of the Department, the Secretary shall consider and implement, as necessary—
+
+  (A) all viable options to make high-assay, low-enriched uranium produced from inventories owned by the Department available in a manner that is sufficient to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers, without impacting existing Department missions, until such time that commercial enrichment and deconversion capability for high-assay, low-enriched uranium exists at a scale sufficient to meet future needs; and
+
+  (B) all viable options for partnering with countries that are allies or partners of the United States to meet those needs and schedules until that time.
+
+**(c) Objectives** The objectives of this section are—
+
+(1) to support domestic production of low-enriched uranium;
+
+(2) to expeditiously increase domestic production of high-assay, low-enriched uranium by an annual quantity, and in such form, determined by the Secretary to be sufficient to meet the needs of—
+
+  (A) advanced nuclear reactor developers; and
+
+  (B) the consortium;
+
+(3) to ensure the availability of domestically produced, converted, enriched, deconverted, and reduced uranium in a quantity determined by the Secretary, in consultation with U.S. nuclear energy companies, to be sufficient to address a reasonably anticipated supply disruption;
+
+(4) to address gaps and deficiencies in the domestic production, conversion, enrichment, deconversion, and reduction of uranium by partnering with countries that are allies or partners of the United States if domestic options are not practicable;
+
+(5) to ensure that, in the event of a supply disruption in the nuclear fuel market, a reserve of nuclear fuels is available to serve as a backup supply to support the nuclear nonproliferation and civil nuclear energy objectives of the Department, including collaborative research and development activities with other Federal agencies;
+
+(6) to support enrichment, deconversion, and reduction technology deployed in the United States; and
+
+(7) to ensure that, until such time that domestic enrichment and deconversion of high-assay, low-enriched uranium is commercially available at the scale needed to meet the needs of advanced nuclear reactor developers, the Secretary considers and implements, as necessary—
+
+  (A) all viable options to make high-assay, low-enriched uranium produced from inventories owned by the Department available in a manner that is sufficient to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers; and
+
+  (B) all viable options for partnering with countries that are allies or partners of the United States to meet those needs and schedules.
+
+**(d) Definitions** In this section:
+
+(1) **Advanced nuclear reactor** — The term “advanced nuclear reactor” has the meaning given the term in [section 16271(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16271/b&num=0&edition=prelim).
+
+(2) **Associated entity** — The term “associated entity” means an entity that—
+
+  (A) is owned, controlled, or dominated by—
+
+    (i) the government of a country that is an ally or partner of the United States; or
+
+    (ii) an associated individual; or
+
+  (B) is organized under the laws of, or otherwise subject to the jurisdiction of, a country that is an ally or partner of the United States, including a corporation that is incorporated in such a country.
+
+(3) **Associated individual** — The term “associated individual” means an alien who is a national of a country that is an ally or partner of the United States.
+
+(4) **Consortium** — The term “consortium” means the consortium established under [section 16281(a)(2)(F) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16281/a/2/F&num=0&edition=prelim).
+
+(5) **Department** — The term “Department” means the Department of Energy.
+
+(6) **High-assay, low-enriched uranium; HALEU** — The term “high-assay, low-enriched uranium” or “HALEU” means high-assay low-enriched uranium (as defined in [section 16281(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16281/d&num=0&edition=prelim)).
+
+(7) **Low-enriched uranium; LEU** — The term “low-enriched uranium” or “LEU” means each of—
+
+  (A) low-enriched uranium (as defined in section 2297h) of this title; and
+
+  (B) low-enriched uranium (as defined in [section 2297h–10a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297h–10a/a&num=0&edition=prelim)).
+
+(8) **Programs** — The term “Programs” means—
+
+  (A) the Nuclear Fuel Security Program established under subsection (e)(1);
+
+  (B) the American Assured Fuel Supply Program of the Department; and
+
+  (C) the HALEU for Advanced Nuclear Reactor Demonstration Projects Program established under subsection (e)(3).
+
+(9) **Secretary** — The term “Secretary” means the Secretary of Energy.
+
+(10) **U.S. nuclear energy company** — The term “U.S. nuclear energy company” means a company that—
+
+  (A) is organized under the laws of, or otherwise subject to the jurisdiction of, the United States; and
+
+  (B) is involved in the nuclear energy industry.
+
+**(e) Establishment and expansion of programs** The Secretary, consistent with the objectives described in subsection (c), shall—
+
+(1) establish a program, to be known as the “Nuclear Fuel Security Program”, to increase the quantity of HALEU and, if determined to be necessary after completion of a market evaluation, LEU produced by U.S. nuclear energy companies;
+
+(2) expand the American Assured Fuel Supply Program of the Department to ensure the availability of domestically produced, converted, enriched, deconverted, and reduced uranium in the event of a supply disruption; and
+
+(3) establish a program, to be known as the “HALEU for Advanced Nuclear Reactor Demonstration Projects Program”—
+
+  (A) to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers until such time that commercial enrichment and deconversion capability for HALEU exists in the United States at a scale sufficient to meet future needs; and
+
+  (B) where practicable, to partner with countries that are allies or partners of the United States to meet those needs and schedules until that time.
+
+**(f) Nuclear Fuel Security Program**
+
+(1) **In general** — In carrying out the Nuclear Fuel Security Program, the Secretary—
+
+  (A) shall—
+
+    (i) if determined to be necessary or appropriate based on the completion of a market evaluation, not later than 90 days after December 22, 2023, take actions, including cost-shared financial agreements, milestone-based payments, or other mechanisms, to support commercial availability of LEU and to promote diversity of supply in domestic uranium mining, conversion, enrichment, and deconversion capacity and technologies, including new capacity, among U.S. nuclear energy companies;
+
+    (ii) not later than 180 days after December 22, 2023, enter into 2 or more contracts with members of the consortium to begin acquiring not less than 20 metric tons per year of HALEU by December 31, 2027 (or the earliest operationally feasible date thereafter), from U.S. nuclear energy companies;
+
+    (iii) utilize only uranium produced, converted, enriched, deconverted, and reduced in—
+
+      (I) the United States; or
+
+      (II) if domestic options are not practicable, a country that is an ally or partner of the United States; and
+
+    (iv) to the maximum extent practicable, ensure that the use of domestic uranium utilized as a result of that program does not negatively affect the economic operation of nuclear reactors in the United States; and
+
+  (B)
+
+    (i) may not make commitments under this subsection (including cooperative agreements (used in accordance with [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HALEU or LEU unless funds are specifically provided for those purposes in advance in appropriations Acts enacted after March 9, 2024; and
+
+    (ii) may make a commitment described in clause (i) only—
+
+      (I) if the full extent of the anticipated costs stemming from the commitment is recorded as an obligation at the time that the commitment is made; and
+
+      (II) to the extent of that up-front obligation recorded in full at that time.
+
+(2) **Considerations** — In carrying out paragraph (1)(A)(ii), the Secretary shall consider and, if appropriate, implement—
+
+  (A) options to ensure the quickest availability of commercially enriched HALEU, including—
+
+    (i) partnerships between 2 or more commercial enrichers; and
+
+    (ii) utilization of up to 10-percent enriched uranium as feedstock in demonstration-scale or commercial HALEU enrichment facilities;
+
+  (B) options to partner with countries that are allies or partners of the United States to provide LEU and HALEU for commercial purposes;
+
+  (C) options that provide for an array of HALEU—
+
+    (i) enrichment levels;
+
+    (ii) output levels to meet demand; and
+
+    (iii) fuel forms, including uranium metal and oxide; and
+
+  (D) options—
+
+    (i) to replenish, as necessary, Department stockpiles of uranium that were intended to be downblended for other purposes, but were instead used in carrying out activities under the HALEU for Advanced Nuclear Reactor Demonstration Projects Program;
+
+    (ii) to continue supplying HALEU to meet the needs of the recipients of an award made pursuant to the funding opportunity announcement of the Department numbered DE–FOA–0002271 for Pathway 1, Advanced Reactor Demonstrations; and
+
+    (iii) to make HALEU available to other advanced nuclear reactor developers and other end-users.
+
+(3) **Avoidance of market disruptions** — In carrying out the Nuclear Fuel Security Program, the Secretary, to the extent practicable and consistent with the purposes of that program, shall not disrupt or replace market mechanisms by competing with U.S. nuclear energy companies.
+
+**(g) Expansion of the American Assured Fuel Supply Program** The Secretary, in consultation with U.S. nuclear energy companies, shall—
+
+(1) expand the American Assured Fuel Supply Program of the Department by merging the operations of the Uranium Reserve Program of the Department with the American Assured Fuel Supply Program; and
+
+(2) in carrying out the American Assured Fuel Supply Program of the Department, as expanded under paragraph (1)—
+
+  (A) maintain, replenish, diversify, or increase the quantity of uranium made available by that program in a manner determined by the Secretary to be consistent with the purposes of that program and the objectives described in subsection (c);
+
+  (B) utilize only uranium produced, converted, enriched, deconverted, and reduced in—
+
+    (i) the United States; or
+
+    (ii) if domestic options are not practicable, a country that is an ally or partner of the United States;
+
+  (C) make uranium available from the American Assured Fuel Supply, subject to terms and conditions determined by the Secretary to be reasonable and appropriate;
+
+  (D) refill and expand the supply of uranium in the American Assured Fuel Supply, including by maintaining a limited reserve of uranium to address a potential event in which a domestic or foreign recipient of uranium experiences a supply disruption for which uranium cannot be obtained through normal market mechanisms or under normal market conditions; and
+
+  (E) take other actions that the Secretary determines to be necessary or appropriate to address the purposes of that program and the objectives described in subsection (c).
+
+**(h) HALEU for Advanced Nuclear Reactor Demonstration Projects Program**
+
+(1) **Activities** — On enactment of this Act, the Secretary shall immediately accelerate and, as necessary, initiate activities to make available from inventories or stockpiles owned by the Department and made available to the consortium, HALEU for use in advanced nuclear reactors that cannot operate on uranium with lower enrichment levels or on alternate fuels, with priority given to the awards made pursuant to the funding opportunity announcement of the Department numbered DE–FOA–0002271 for Pathway 1, Advanced Reactor Demonstrations, with additional HALEU to be made available to other advanced nuclear reactor developers, as the Secretary determines to be appropriate.
+
+(2) **Quantity** — In carrying out activities under this subsection, the Secretary shall consider and implement, as necessary, all viable options to make HALEU available in quantities and forms sufficient to maximize the potential for the Department to meet the needs and schedules of advanced nuclear reactor developers, including by seeking to make available—
+
+  (A) by September 30, 2024, not less than 3 metric tons of HALEU;
+
+  (B) by December 31, 2025, not less than an additional 8 metric tons of HALEU; and
+
+  (C) by June 30, 2026, not less than an additional 10 metric tons of HALEU.
+
+(3) **Factors for consideration** — In carrying out activities under this subsection, the Secretary shall take into consideration—
+
+  (A) options for providing HALEU from a stockpile of uranium owned by the Department, including—
+
+    (i) uranium that has been declared excess to national security needs during or prior to fiscal year 2023;
+
+    (ii) uranium that—
+
+      (I) directly meets the needs of advanced nuclear reactor developers; but
+
+      (II) has been previously used or fabricated for another purpose;
+
+    (iii) uranium that can meet the needs of advanced nuclear reactor developers after removing radioactive or other contaminants that resulted from previous use or fabrication of the fuel for research, development, demonstration, or deployment activities of the Department, including activities that reduce the environmental liability of the Department by accelerating the processing of uranium from stockpiles designated as waste;
+
+    (iv) uranium from a high-enriched uranium stockpile (excluding stockpiles intended for national security needs), which can be blended with lower assay uranium to become HALEU to meet the needs of advanced nuclear reactor developers; and
+
+    (v) uranium from stockpiles intended for other purposes (excluding stockpiles intended for national security needs), but for which uranium could be swapped or replaced in time in such a manner that would not negatively impact the missions of the Department;
+
+  (B) options for expanding, or establishing new, capabilities or infrastructure to support the processing of uranium from Department inventories;
+
+  (C) options for accelerating the availability of HALEU from HALEU enrichment demonstration projects of the Department;
+
+  (D) options for providing HALEU from domestically enriched HALEU procured by the Department through a competitive process pursuant to the Nuclear Fuel Security Program established under subsection (e)(1);
+
+  (E) options to replenish, as needed, Department stockpiles of uranium made available pursuant to subparagraph (A) with domestically enriched HALEU procured by the Department through a competitive process pursuant to the Nuclear Fuel Security Program established under subsection (e)(1); and
+
+  (F) options that combine 1 or more of the approaches described in subparagraphs (A) through (E) to meet the deadlines described in paragraph (2).
+
+(4) **Limitations**
+
+  (A) *Certain services* — The Secretary shall not barter or otherwise sell or transfer uranium in any form in exchange for services relating to—
+
+    (i) the final disposition of radioactive waste from uranium that is the subject of a contract for sale, resale, transfer, or lease under this subsection; or
+
+    (ii) environmental cleanup activities.
+
+  (B) *Certain commitments* — In carrying out activities under this subsection, the Secretary—
+
+    (i) may not make commitments under this subsection (including cooperative agreements (used in accordance with [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HALEU or LEU unless funds are specifically provided for those purposes in advance in appropriations Acts enacted after March 9, 2024; and
+
+    (ii) may make a commitment described in clause (i) only—
+
+      (I) if the full extent of the anticipated costs stemming from the commitment is recorded as an obligation at the time that the commitment is made; and
+
+      (II) to the extent of that up-front obligation recorded in full at that time.
+
+(5) **Sunset** — The authority of the Secretary to carry out activities under this subsection shall terminate on the earlier of—
+
+  (A) the date on which the Secretary notifies Congress that the HALEU needs of advanced nuclear reactor developers can be fully met by commercial HALEU suppliers in the United States, as determined by the Secretary, in consultation with U.S. nuclear energy companies; and
+
+  (B) September 30, 2034.
+
+**(i) Domestic sourcing considerations**
+
+(1) **In general** — Except as provided in paragraph (2), the Secretary may only carry out an activity in connection with 1 or more of the Programs if—
+
+  (A) the activity promotes manufacturing in the United States associated with uranium supply chains; or
+
+  (B) the activity relies on resources, materials, or equipment developed or produced—
+
+    (i) in the United States; or
+
+    (ii) in a country that is an ally or partner of the United States by—
+
+      (I) the government of that country;
+
+      (II) an associated entity; or
+
+      (III) a U.S. nuclear energy company.
+
+(2) **Waiver** — The Secretary may waive the requirements of paragraph (1) with respect to an activity if the Secretary determines a waiver to be necessary to achieve 1 or more of the objectives described in subsection (c).
+
+**(j) Reasonable compensation** In carrying out activities under this section, the Secretary shall ensure that any LEU and HALEU made available by the Secretary under 1 or more of the Programs is subject to reasonable compensation, taking into account the fair market value of the LEU or HALEU and the purposes of this section.
+
+**(k) Nuclear Regulatory Commission** The Nuclear Regulatory Commission shall prioritize and expedite consideration of any action related to the Programs to the extent permitted under the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.) and related statutes.
+
+**(l) USEC Privatization Act** The requirements of section 3112(d)(2) of the USEC Privatization Act ([42 U.S.C. 2297h–10(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297h–10/d/2&num=0&edition=prelim)) shall not apply to activities related to the Programs.
+
+**(m) National security needs** The Secretary shall only make available to a member of the consortium under this section for commercial use or use in a demonstration project material that the President has determined is not necessary for national security needs during or prior to fiscal year 2023, subject to the condition that the material made available shall not include any material that the Secretary determines to be necessary for the National Nuclear Security Administration or any critical mission of the Department.
+
+**(n) International agreements** This section shall be applied in a manner consistent with the obligations of the United States under international agreements.
+
+**(o) Report on civil nuclear credit program** Not later than 180 days after December 22, 2023, the Secretary shall submit to the appropriate committees of Congress a report that identifies the anticipated funding requirements for the civil nuclear credit program described in [section 18753 of this title](./chapter-162-energy-infrastructure.md#section-18753), taking into account—
+
+(1) the zero-emission nuclear power production credit authorized by [section 45U of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section45U&num=0&edition=prelim); and
+
+(2) any increased fuel costs associated with the use of domestic fuel that may arise from the implementation of that program.
+
+### Statutory Notes
+
+#### References in Text
+Enactment of this Act, referred to in subsec. (h)(1), means the enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
+The Atomic Energy Act of 1954, referred to in subsec. (k), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+
+#### Codification
+Section is comprised of section 3131 of Pub. L. 118–31. Pars. (1) and (2) of subsec. (p) of section 3131 of Pub. L. 118–31 amended sections 19351 and 16274 of this title, respectively.
+
+Section was enacted as the Nuclear Fuel Security Act of 2023, and also as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Energy Policy Act of 2005 which comprises this chapter.
+
+#### Amendments
+2024—Subsec. (f)(1)(B)(i). Pub. L. 118–42, § 312(c)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “may not make commitments under this subsection (including cooperative agreements (used in accordance with [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HALEU or LEU unless—
+
+“(I) funds are specifically provided for those purposes in advance in appropriations Acts enacted after December 22, 2023; or
+
+“(II) the commitment is funded entirely by funds made available to the Secretary from the account described in subsection (j)(2)(B); and”.
+
+Subsec. (h)(4)(B)(i). Pub. L. 118–42, § 312(c)(1), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “may not make commitments under this subsection (including cooperative agreements (used in accordance with [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim)), purchase agreements, guarantees, leases, service contracts, or any other type of commitment) for the purchase or other acquisition of HALEU or LEU unless—
+
+“(I) funds are specifically provided for those purposes in advance in appropriations Acts enacted after December 22, 2023; or
+
+“(II) the commitment is funded entirely by funds made available to the Secretary from the account described in subsection (j)(2)(B); and”.
+
+Subsec. (j). Pub. L. 118–42, § 312(c)(2), amended subsec. (j) generally. Prior to amendment, subsec. (j) consisted of pars. (1) and (2) relating to reasonable compensation for LEU and HALEU and deposit of revenues from the sale or transfer of certain fuel feed material into a revolving fund.
 
 
 <a id="section-16294"></a>
@@ -11633,7 +12039,7 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005
 
   (B) enter into appropriate arrangements with the National Academy of Sciences to establish such an advisory board.
 
-**(b) Use of existing committees** The Secretary shall continue to use the scientific program advisory committees chartered under the Federal Advisory Committee Act (5 U.S.C. App.) by the Office of Science to oversee research and development programs under that Office.
+**(b) Use of existing committees** The Secretary shall continue to use the scientific program advisory committees chartered under chapter 10 of title 5 by the Office of Science to oversee research and development programs under that Office.
 
 **(c) Membership** Each advisory board under this section shall consist of persons with appropriate expertise representing a diverse range of interests.
 
@@ -11660,9 +12066,10 @@ This Act, referred to in subsecs. (a) and (b), is Pub. L. 109–58, Aug. 8, 2005
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 This Act, referred to in subsec. (e)(1)(A), is Pub. L. 109–58, Aug. 8, 2005, 119 Stat. 594, known as the Energy Policy Act of 2005, which enacted this chapter and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 15801 of this title](./chapter-149-national-energy-policy-and-programs.md#section-15801) and Tables.
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-16359"></a>
@@ -14101,8 +14508,6 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 (2) **Partnerships authorized** — In carrying out a project receiving a loan guarantee under this subchapter, State energy financing institutions may enter into partnerships with private entities, Tribal entities, and Alaska Native corporations.
 
-(3) **Prohibition on use of appropriated funds** — Amounts appropriated to the Department of Energy before November 15, 2021, shall not be available to be used for the cost of loan guarantees for projects receiving financing support or credit enhancements under this subsection.
-
 ### Statutory Notes
 
 #### References in Text
@@ -14114,6 +14519,8 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 2022—Subsec. (b)(3). Pub. L. 117–169, § 50141(f), added par. (3).
 
 Subsec. (o)(3). Pub. L. 117–169, § 50144(d), inserted “and projects described in [section 16517(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16517/a&num=0&edition=prelim)” before period at end.
+
+Subsec. (r)(3). Pub. L. 117–328 struck out par. (3). Text read as follows: “Amounts appropriated to the Department of Energy before November 15, 2021, shall not be available to be used for the cost of loan guarantees for projects receiving financing support or credit enhancements under this subsection.”
 
 2021—Subsec. (a). Pub. L. 117–58, § 40401(c)(2)(A), inserted “, including projects receiving financial support or credit enhancements from a State energy financing institution,” after “for projects”.
 

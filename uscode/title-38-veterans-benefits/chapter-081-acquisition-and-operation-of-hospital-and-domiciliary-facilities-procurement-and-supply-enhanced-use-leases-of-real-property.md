@@ -4,7 +4,7 @@ chapter: '81'
 heading: >-
   ACQUISITION AND OPERATION OF HOSPITAL AND DOMICILIARY FACILITIES; PROCUREMENT
   AND SUPPLY; ENHANCED-USE LEASES OF REAL PROPERTY
-section_count: 57
+section_count: 62
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -173,7 +173,7 @@ Section effective Oct. 1, 1979, but not applicable with respect to the acquisiti
 
 **(h)**
 
-(1) Notwithstanding any other provision of law requiring the use of competitive procedures, including [section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), when the Secretary determines it to be in the best interest of the Department, the Secretary may enter into a lease with an academic affiliate or covered entity to acquire space for the purpose of providing health-care resources to veterans.
+(1) Notwithstanding any other provision of law requiring the use of competitive procedures, including [section 3301 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3301&num=0&edition=prelim), when the Secretary determines it to be in the best interest of the Department, the Secretary may enter into a lease with an academic affiliate or covered entity to acquire space for the purpose of providing health-care resources to veterans.
 
 (2) In this subsection:
 
@@ -193,6 +193,8 @@ The fiscal year during which the VA Asset and Infrastructure Review Act of 2018 
 #### Amendments
 2022—Subsec. (h). Pub. L. 117–168 added subsec. (h).
 
+Subsec. (h)(1). Pub. L. 117–263 substituted “[section 3301 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3301&num=0&edition=prelim)” for “[section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim)”.
+
 2018—Subsec. (g). Pub. L. 115–182 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The Secretary shall ensure that each employee of the Department with responsibilities, as determined by the Secretary, relating to the infrastructure construction or alteration of medical facilities, including such construction or alteration carried out pursuant to contracts or agreements, undergoes a program of ongoing professional training and development. Such program shall be designed to ensure that employees maintain adequate expertise relating to industry standards and best practices for the acquisition of design and construction services. The Secretary may provide the program under this subsection directly or through a contract or agreement with a non-Federal entity or with a non-Department Federal entity.”
 
 2016—Subsecs. (f), (g). Pub. L. 114–315 added subsecs. (f) and (g).
@@ -211,6 +213,9 @@ Subsecs. (b), (c). Pub. L. 102–83 substituted “Secretary” for “Administr
 
 1989—Subsec. (d). Pub. L. 101–237 added subsec. (d).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–263 effective as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168), see section 524(d) of Pub. L. 117–263, set out as a note under [section 1120 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1120).
+
 #### Effective Date of 2015 Amendment
 Pub. L. 114–58, title V, § 502(b), Sept. 30, 2015, 129 Stat. 538, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to the following: “(1) The medical facility construction project in Denver, Colorado, specified in section 2 of the Construction Authorization and Choice Improvement Act (Public Law 114–19; 129 Stat. 215). “(2) Any super construction project (as defined in [section 8103(e)(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8103/e/3&num=0&edition=prelim), United States Code, as added by subsection (a)) that is authorized on or after the date of the enactment of this Act [Sept. 30, 2015].”
 
@@ -218,7 +223,9 @@ Pub. L. 114–58, title V, § 502(b), Sept. 30, 2015, 129 Stat. 538, provided th
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under [section 8101 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8101).
 
 #### Communities Helping Invest Through Property and Improvements Needed for Veterans
-Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42, § 4, Sept. 30, 2021, 135 Stat. 342, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2016’ or the ‘CHIP IN for Vets Act of 2016’. “SEC. 2. PILOT PROGRAM ON ACCEPTANCE BY THE DEPARTMENT OF VETERANS AFFAIRS OF DONATED FACILITIES AND RELATED IMPROVEMENTS.“(a) Pilot Program Authorized.—“(1) In general.—Notwithstanding sections 8103 and 8104 of title 38, United States Code, the Secretary of Veterans Affairs may carry out a pilot program under which the Secretary may accept donations of the following property from entities described in paragraph (2):“(A) Real property (including structures and equipment associated therewith)—“(i) that includes a constructed facility; or “(ii) to be used as the site of a facility constructed by the entity. “(B) A facility to be constructed by the entity on real property of the Department of Veterans Affairs. “(2) Entities described.—Entities described in this paragraph are the following:“(A) A State or local authority. “(B) An organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 [[26 U.S.C. 501(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim)] and is exempt from taxation under section 501(a) of such Code [[26 U.S.C. 501(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim)]. “(C) A limited liability corporation. “(D) A private entity. “(E) A donor or donor group. “(F) Any other non-Federal Government entity. “(3) Limitation.—The Secretary may accept not more than five donations of real property and facility improvements under the pilot program and as described in this section. “(b) Conditions for Acceptance of Property.—The Secretary may accept the donation of a property described in subsection (a)(1) under the pilot program only if—“(1) the property is—“(A) a property with respect to which funds have been appropriated for a Department facility project; or “(B) a property identified as—“(i) meeting a need of the Department as part of the long-range capital planning process of the Department; and “(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code; and “(2) an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government. “(c) Requirement To Enter Into an Agreement.—“(1) In general.—The Secretary may accept real property and improvements donated under the pilot program by an entity described in subsection (a)(2) only if the entity enters into a formal agreement with the Secretary that provides for—“(A) the donation of real property and improvements (including structures and equipment associated therewith) that includes a constructed facility; or “(B) the construction by the entity of a facility on—“(i) real property and improvements of the Department of Veterans Affairs; or “(ii) real property and improvements donated to the Department by the entity. “(2) Content of formal agreements.—With respect to an entity described in subsection (a)(2) that seeks to enter into a formal agreement under paragraph (1) of this subsection that includes the construction by the entity of a facility, the formal agreement shall provide for the following:“(A) The entity shall conduct all necessary environmental and historic preservation due diligence, shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility. “(B) The entity shall use construction standards required of the Department when designing, repairing, altering, or building the facility, except to the extent the Secretary determines otherwise, as permitted by applicable law. “(C) The entity shall provide the real property, improvements, goods, or services in a manner described in subsection (b)(2) sufficient to complete the construction of the facility, at no additional cost to the Federal Government. “(d) No Payment of Rent or Usage Fees.—The Secretary may not pay rent, usage fees, or any other amounts to an entity described in subsection (a)(2) or any other entity for the use or occupancy of real property or improvements donated under this section. “(e) Funding.—“(1) From department.—“(A) In general.—The Secretary may not provide funds to help the entity finance, design, or construct a facility in connection with real property and improvements donated under the pilot program by an entity described in subsection (a)(2) that are in addition to the funds appropriated for the facility as of the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the donation of the real property and improvements. “(B) Terms and conditions.—The Secretary shall provide funds pursuant to subparagraph (A) under such terms, conditions, and schedule as the Secretary determines appropriate. “(2) From entity.—An entity described in subsection (a)(2) that is donating a facility constructed by the entity under the pilot program shall be required, pursuant to a formal agreement entered into under subsection (c), to provide other funds in addition to the amounts provided by the Department under paragraph (1) that are needed to complete construction of the facility. “(f) Application.—An entity described in subsection (a)(2) that seeks to donate real property and improvements under the pilot program shall submit to the Secretary an application to address needs relating to facilities of the Department, including health care needs, identified in the Construction and Long-Range Capital Plan of the Department, at such time, in such manner, and containing such information as the Secretary may require. “(g) Information on Donations and Related Projects.—“(1) In general.—The Secretary shall include in the budget submitted to Congress by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, information regarding real property and improvements donated under the pilot program during the year preceding the submittal of the budget and the status of facility projects relating to that property. “(2) Elements.—Information submitted under paragraph (1) shall provide a detailed status of donations of real property and improvements conducted under the pilot program and facility projects relating to that property, including the percentage completion of the donations and projects. “(h) Biennial Report of Comptroller General of the United States.—Not less frequently than once every 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program. “(i) Termination.—The authority for the Secretary to accept donations under the pilot program shall terminate on December 16, 2026. “(j) Rule of Construction.—Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section.”
+Pub. L. 114–294, Dec. 16, 2016, 130 Stat. 1504, as amended by Pub. L. 117–42, § 4, Sept. 30, 2021, 135 Stat. 342; Pub. L. 117–263, div. E, title LI, § 5125(a), Dec. 23, 2022, 136 Stat. 3211, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Communities Helping Invest through Property and Improvements Needed for Veterans Act of 2016’ or the ‘CHIP IN for Vets Act of 2016’. “SEC. 2. PILOT PROGRAM ON ACCEPTANCE BY THE DEPARTMENT OF VETERANS AFFAIRS OF DONATED FACILITIES AND RELATED IMPROVEMENTS.“(a) Pilot Program Authorized.—“(1) In general.—Notwithstanding sections 8103 and 8104 of title 38, United States Code, the Secretary of Veterans Affairs may carry out a pilot program under which the Secretary may accept donations of the following property from entities described in paragraph (2):“(A) Real property (including structures and equipment associated therewith)—“(i) that includes a constructed facility; or “(ii) to be used as the site of a facility constructed by the entity. “(B) A facility to be constructed by the entity on real property of the Department of Veterans Affairs. “(2) Entities described.—Entities described in this paragraph are the following:“(A) A State or local authority. “(B) An organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 [[26 U.S.C. 501(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim)] and is exempt from taxation under section 501(a) of such Code [[26 U.S.C. 501(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim)]. “(C) A limited liability corporation. “(D) A private entity. “(E) A donor or donor group. “(F) Any other non-Federal Government entity. “(3) Limitation.—The Secretary may accept not more than five donations of real property and facility improvements under the pilot program and as described in this section. “(b) Conditions for Acceptance of Property.—The Secretary may accept the donation of a property described in subsection (a)(1) under the pilot program only if—“(1) the property is—“(A) a property with respect to which funds have been appropriated for a Department facility project or for which funds are available from the Construction, Minor Projects, or Construction, Major Projects appropriations accounts; or “(B) a property identified as—“(i) meeting a need of the Department as part of the long-range capital planning process of the Department; and “(ii) the location for a Department facility project that is included on the Strategic Capital Investment Planning process priority list in the most recent budget submitted to Congress by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code; and “(2) an entity described in subsection (a)(2) has entered into or is willing to enter into a formal agreement with the Secretary in accordance with subsection (c) under which the entity agrees to independently donate the real property, improvements, goods, or services, for the Department facility project in an amount acceptable to the Secretary and at no additional cost to the Federal Government. “(c) Requirement To Enter Into an Agreement.—“(1) In general.—The Secretary may accept real property and improvements donated under the pilot program by an entity described in subsection (a)(2) only if the entity enters into a formal agreement with the Secretary that provides for—“(A) the donation of real property and improvements (including structures and equipment associated therewith) that includes a constructed facility; or “(B) the construction by the entity of a facility on—“(i) real property and improvements of the Department of Veterans Affairs; or “(ii) real property and improvements donated to the Department by the entity. “(2) Content of formal agreements.—With respect to an entity described in subsection (a)(2) that seeks to enter into a formal agreement under paragraph (1) of this subsection that includes the construction by the entity of a facility, the formal agreement shall provide for the following:“(A) The entity shall conduct all necessary environmental and historic preservation due diligence, shall comply with all local zoning requirements (except for studies and consultations required of the Department under Federal law), and shall obtain all permits required in connection with the construction of the facility. “(B) The entity shall use construction standards required of the Department when designing, repairing, altering, or building the facility, except to the extent the Secretary determines otherwise, as permitted by applicable law. “(C) The entity shall provide the real property, improvements, goods, or services in a manner described in subsection (b)(2) sufficient to complete the construction of the facility, at no additional cost to the Federal Government. “(d) No Payment of Rent or Usage Fees.—The Secretary may not pay rent, usage fees, or any other amounts to an entity described in subsection (a)(2) or any other entity for the use or occupancy of real property or improvements donated under this section. “(e) Funding.—“(1) From department.—“(A) In general.—Except as otherwise provided in this paragraph, the Secretary may not provide funds to help the entity finance, design, or construct a facility in connection with real property and improvements donated under the pilot program by an entity described in subsection (a)(2) that are in addition to the funds appropriated for the facility or funds already generally available in the Construction, Minor Projects, or Construction, Major Projects appropriations accounts as of the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the donation of the real property and improvements. “(B) Unobligated amounts.—The Secretary may provide additional funds to help an entity described in subsection (a)(2) finance, design, or construct a facility in connection with real property and improvements to be donated under the pilot program and proposed to be accepted by the Secretary under subsection (b)(1)(B) if—“(i) the Secretary determines that doing so is in the best interest of the Department and consistent with the mission of the Department; and “(ii) funding provided under this subparagraph— “(I) is in addition to amounts that have been appropriated for the facility before the date on which the Secretary and the entity enter into a formal agreement under subsection (c) for the construction and donation of the real property and improvements; and “(II) is derived only from amounts that—“(aa) are unobligated balances available in the Construction, Minor Projects, or Construction, Major Projects appropriations accounts of the Department that— “(AA) are not associated with a specific project; or “(BB) are amounts that are associated with a specific project, but are unobligated because they are the result of bid savings; and“(bb) were appropriated to such an account before the date described in subclause (I). “(C) Escalation clauses.—“(i) In general.—The Secretary may include an escalation clause in a formal agreement under subsection (c) that authorizes an escalation of not more than an annual amount based on a rate established in the formal agreement and mutually agreed upon by the Secretary and an entity to account for inflation for an area if the Secretary determines, after consultation with the head of an appropriate Federal entity that is not part of the Department, that such escalation is necessary and in the best interest of the Department. “(ii) Use of existing amounts.—The Secretary may obligate funds pursuant to clause (i) in connection with a formal agreement under subsection (c) using amounts that— “(I) are unobligated balances available in the Construction, Minor Projects, or Construction, Major Projects appropriations accounts of the Department that—“(aa) are not associated with a specific project; or “(bb) are amounts that are associated with a specific project, but are unobligated because they are the result of bid savings; and “(II) were appropriated to such an account before the date on which the Secretary and the entity entered into the formal agreement. “(D) Availability.—Unobligated amounts shall be available pursuant to subparagraphs (B) and (C) only to the extent and in such amounts as provided in advance in appropriations Acts subsequent to the date of the enactment of this subparagraph, subject to subparagraph (E). “(E) Limitation.—Unobligated amounts made available pursuant to subparagraphs (B) and (C) may not exceed 40 percent of the amount appropriated for the facility before the date on which the Secretary and the entity entered into a formal agreement under subsection (c). “(F) Terms and conditions.—The Secretary shall provide funds pursuant to this paragraph under such terms, conditions, and schedule as the Secretary determines appropriate. “(2) From entity.—An entity described in subsection (a)(2) that is donating a facility constructed by the entity under the pilot program shall be required, pursuant to a formal agreement entered into under subsection (c), to provide other funds in addition to the amounts provided by the Department under paragraph (1) that are needed to complete construction of the facility. “(f) Application.—An entity described in subsection (a)(2) that seeks to donate real property and improvements under the pilot program shall submit to the Secretary an application to address needs relating to facilities of the Department, including health care needs, identified in the Construction and Long-Range Capital Plan of the Department, at such time, in such manner, and containing such information as the Secretary may require. “(g) Information on Donations and Related Projects.—“(1) In general.—The Secretary shall include in the budget submitted to Congress by the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, information regarding real property and improvements donated under the pilot program during the year preceding the submittal of the budget and the status of facility projects relating to that property. “(2) Elements.—Information submitted under paragraph (1) shall provide a detailed status of donations of real property and improvements conducted under the pilot program and facility projects relating to that property, including the percentage completion of the donations and projects. “(h) Biennial Report of Comptroller General of the United States.—Not less frequently than once every 2 years until the termination date set forth in subsection (i), the Comptroller General of the United States shall submit to Congress a report on the donation agreements entered into under the pilot program. “(i) Termination.—The authority for the Secretary to accept donations under the pilot program shall terminate on December 16, 2026. “(j) Rules of Construction.—“(1) Entering arrangements and agreements.—Nothing in this section shall be construed as a limitation on the authority of the Secretary to enter into other arrangements or agreements that are authorized by law and not inconsistent with this section. “(2) Treatment of assistance.—Nothing provided under this section shall be treated as Federal financial assistance as defined in section 200.40 of title 2, Code of Federal Regulations, as in effect on February 21, 2021.”
+
+[Pub. L. 117–263, div. E, title LI, § 5125(b), Dec. 23, 2022, 136 Stat. 3213, provided that: “Each agreement entered into under section (2)(c) [probably means “section 2(c)”] of such Act [Pub. L. 114–294, set out above] before the date of the enactment of this Act [Dec. 23, 2022] that was in effect on the date of the enactment of this Act may be amended to incorporate terms authorized by subparagraphs (B) and (C) of section 2(e)(1) of such Act, as added by subsection (a)(2)(D) of this section.” ]
 
 #### Designation of Construction Agent for Certain Construction Projects by Department of Veterans Affairs
 Pub. L. 114–92, div. A, title X, § 1096, Nov. 25, 2015, 129 Stat. 1020, provided that: “(a) In General.—The Secretary of Veterans Affairs shall seek to enter into an agreement subject to subsections (b), (c), and (e) of [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim), United States Code, with the Army Corps of Engineers or another entity of the Federal Government to serve, on a reimbursable basis, as the construction agent for the construction, alteration, or acquisition of any medical facility of the Department of Veterans Affairs specifically authorized by Congress after the date of the enactment of this Act [Nov. 25, 2015] that involves a total expenditure of more than $100,000,000, excluding any acquisition by exchange. “(b) Agreement.—Under the agreement entered into under subsection (a), the construction agent shall provide design, procurement, and construction management services for the construction, alteration, and acquisition of medical facilities of the Department.”
@@ -241,13 +248,33 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 
 (3) For purposes of this subsection:
 
-  (A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $20,000,000, but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department’s estimated share of the project costs does not exceed $20,000,000.
+  (A) The term “major medical facility project” means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than the amount specified in paragraph (4), but such term does not include an acquisition by exchange, nonrecurring maintenance projects of the Department, or the construction, alteration, or acquisition of a shared Federal medical facility for which the Department’s estimated share of the project costs does not exceed the amount specified in paragraph (4).
 
   (B) The term “major medical facility lease”—
 
     (i) means a lease for space for use as a new medical facility approved through the General Services Administration under [section 3307(a) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3307/a&num=0&edition=prelim) at an average annual rent equal to or greater than the appropriate dollar threshold described in such section, which shall be subject to annual adjustment in accordance with section 3307(h) of such title; and
 
     (ii) does not include a lease for space for use as a shared Federal medical facility for which the Department’s estimated share of the lease costs does not exceed such dollar threshold.
+
+(4)
+
+  (A) The amount specified in this paragraph is $30,000,000, as adjusted pursuant to this paragraph.
+
+  (B)
+
+    (i) The Secretary may annually adjust the amount specified in this paragraph to reflect a percentage increase, if any, in construction costs during the prior calendar year, as determined by—
+
+      (I) the relevant composite construction and lease cost indices pursuant to [section 3307(h) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section3307/h&num=0&edition=prelim), or any similar successor index developed by the Administrator of the General Services Administration; or
+
+      (II) the Producer Price Index for New Health Care Building Construction published by the Bureau of Labor Statistics of the Department of Labor, or any similar successor index developed by the Secretary of Labor.
+
+    (ii) If there is no percentage increase in construction costs determined as described in clause (i) for a calendar year, the Secretary may not adjust the amount specified in subparagraph (A) for that year.
+
+  (C) If the Secretary adjusts the amount specified in this paragraph, the Secretary shall publish a notice of such adjustment in the Federal Register.
+
+  (D) Not later than 30 days before adjusting the amount specified in this paragraph, the Secretary shall notify the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate and the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+
+  (E) The Secretary shall determine a logical schedule for adjustments under this paragraph to take effect so that the amounts for and types of construction projects requested by the Department in the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) are consistent with the threshold for construction projects as so adjusted.
 
 **(b)**
 
@@ -384,11 +411,17 @@ Pub. L. 99–166, title III, § 304, Dec. 3, 1985, 99 Stat. 956, directed Admini
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a)(3)(A). Pub. L. 118–31, § 5001(1), substituted “the amount specified in paragraph (4)” for “$20,000,000” in two places.
+
+Subsec. (a)(4). Pub. L. 118–31, § 5001(2), added par. (4).
+
 2022—Subsec. (a)(2). Pub. L. 117–168, § 703(a), designated existing provisions as subpar. (A), struck out “or any major medical facility lease” after “major medical facility project” and “or lease” after “for that project”, and added subpar. (B).
 
 Subsec. (a)(3)(B). Pub. L. 117–168, § 703(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘major medical facility lease’ means a lease for space for use as a new medical facility at an average annual rent of more than $1,000,000.”
 
-Subsec. (b). Pub. L. 117–168, § 703(c)(5), (8), designated existing provisions as par. (1), substituted “to Congress” for “to the Congress” and struck out “or a major medical facility lease (as defined in subsection (a)(3)(B))” after “subsection (a)(3)(A))” in introductory provisions, and added par. (2). Former pars. (1) and (2) redesignated subpars. (A) and (B), respectively, of par. (1). Amendment directing the striking out of “or a major medical facility lease (as defined in subsection (a)(3)(b))” was executed by striking text containing “(a)(3)(B)” instead of “(a)(3)(b)”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 117–263, § 5124(b), amended Pub. L. 117–168, § 703(c)(5). See below.
+
+Pub. L. 117–168, § 703(c)(5), (8), as amended by Pub. L. 117–263, § 5124(b), designated existing provisions as par. (1), substituted “to Congress” for “to the Congress” and struck out “or a major medical facility lease (as defined in subsection (a)(3)(B))” after “subsection (a)(3)(A))” in introductory provisions, and added par. (2). Former pars. (1) and (2) redesignated subpars. (A) and (B), respectively, of par. (1).
 
 Subsec. (b)(1)(A). Pub. L. 117–168, § 703(c)(2), (4), (6), redesignated subsec. (b)(1) and its subpars. (A) to (E) as subsec. (b)(1)(A) and cls. (i) to (v), respectively, and struck out “leased,” after “altered,” in introductory provisions.
 
@@ -523,6 +556,8 @@ Subsecs. (d) to (f). Pub. L. 100–322, § 422(d), redesignated subsecs. (e) and
 Subsec. (b)(1). Pub. L. 99–166, § 303, inserted “and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase” after “such facility”.
 
 #### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–263 effective as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168), see section 524(d) of Pub. L. 117–263, set out as a note under [section 1120 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1120).
+
 Pub. L. 117–168, title VII, § 703(f), Aug. 10, 2022, 136 Stat. 1799, provided that: “The amendments made by this section [amending this section] shall apply with respect to any lease that has not been specifically authorized by law on or before the date of the enactment of this Act [Aug. 10, 2022].”
 
 #### Effective Date of 1996 Amendment
@@ -576,7 +611,7 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 Section effective Oct. 1, 1979, but not applicable with respect to the acquisition, construction, or alteration of any medical facilities if the acquisition, construction, or alteration (not including exchange) was approved by the President before Oct. 1, 1979, see section 302 of Pub. L. 96–22, set out as a note under [section 8101 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8101).
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-8106"></a>
@@ -1229,7 +1264,7 @@ Ex. Ord. No. 13214, May 28, 2001, 66 F.R. 29447, which established President’s
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 Section 2812 of the Public Health Service Act, referred to in subsec. (a)(2)(B)(ii), is classified to [section 300hh–11 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300hh–11&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -1511,7 +1546,7 @@ For provisions relating to the transfer of balances and receipts from the Nursin
 
 (3) The Secretary shall develop and maintain the strategies under paragraph (1) in consultation with the Secretary of Health and Human Services, the American Red Cross, and the working group referred to in subsection (e)(2).
 
-**(g) Authorization of Appropriations.—** There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2023 to carry out this section.
+**(g) Authorization of Appropriations.—** There are authorized to be appropriated, $155,300,000 for each of fiscal years 2019 through 2028 to carry out this section.
 
 ### Statutory Notes
 
@@ -1523,6 +1558,8 @@ Section 502 of the Homeland Security Act of 2002, referred to in subsec. (a)(2)(
 Section 154(b)(1) of the Public Health Security and Bioterrorism Preparedness and Response Act of 2002, referred to in subsec. (b)(2), is section 154(b)(1) of Pub. L. 107–188, which is set out as a note below.
 
 #### Amendments
+2023—Subsec. (g). Pub. L. 118–19 substituted “2028” for “2023”.
+
 2019—Subsec. (g). Pub. L. 116–22 substituted “2019 through 2023” for “2014 through 2018”.
 
 2013—Subsec. (g). Pub. L. 113–5 substituted “$155,300,000 for each of fiscal years 2014 through 2018 to carry out this section” for “such sums as may be necessary to carry out this section for each of fiscal years 2007 through 2011”.
@@ -1694,6 +1731,9 @@ Pub. L. 96–330, title IV, § 402(b), Aug. 26, 1980, 94 Stat. 1051, provided th
 
 #### Effective Date of 1976 Amendment
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under [section 111 of this title](./chapter-001-general.md#section-111).
+
+#### Department of Veterans Affairs Supply Chain Resiliency
+Pub. L. 117–328, div. U, title IV, § 401, Dec. 29, 2022, 136 Stat. 5482, provided that: “(a) Report on Critical Items and Requirements.—Not later than 90 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing each of the following:“(1) A description of the items and types of items the Secretary considers critical with respect to—“(A) the ongoing response to the Coronavirus 2019 (COVID–19) pandemic; and “(B) future epidemic, pandemic, emergency, national emergency, or natural disaster scenarios. “(2) The quantities of the items described in paragraph (1) that are available, as of the date of the enactment of this Act, in inventories, emergency caches, or other emergency inventories of the Department of Veterans Affairs. “(3) The anticipated quantities of the items described in paragraph (1) that would be necessary under potential epidemic, pandemic, emergency, national emergency, or natural disaster scenarios the Secretary determines to be relevant for planning purposes. “(4) The assumptions and key planning factors used by the Secretary to identify the items, types of items, and necessary quantities of items for types of scenarios, as described in paragraphs (1) and (3). “(b) Participation in Warstopper Program.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs and the Secretary of Defense shall enter into an agreement to provide for the participation of the Department of Veterans Affairs in the program known as the ‘Warstopper Program’ of the Defense Logistics Agency, or any successor program. “(2) Requirements.—Pursuant to the agreement under paragraph (1), the Defense Logistics Agency shall—“(A) ensure the maintenance and stability of the items that are identified as critical in the report required under subsection (a) and that the Secretary of Defense determines are appropriate for the Warstopper Program; “(B) establish guidance for the participation of the Department of Veterans Affairs in the Warstopper Program that includes an identification of the items and types of items that are critical to the needs of the Department of Veterans Affairs; and “(C) use existing contracts and agreements and enter into new contracts and agreements, as necessary, with manufacturers and distributors to reserve the supply of such critical items rather than rely on holding physical inventories of such items. “(c) Reimbursement.—The Secretary of Veterans Affairs shall reimburse the Secretary of Defense for any expenses or obligations incurred to facilitate the participation of the Department of Veterans Affairs in the Warstopper Program pursuant to subsection (b). “(d) Prohibition on Exclusive Reliance on Regional Inventories.—The Secretary of Veterans Affairs shall ensure that the Department does not exclusively rely on holding regional, physical inventories of critical items in order to respond to greater than expected needs for such items during epidemic, pandemic, emergency, national emergency, or natural disaster situations. “(e) Report on Implementation.—“(1) In general.—Not later than 450 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation of this section. “(2) Contents.—The report submitted under paragraph (1) shall contain each the following:“(A) An implementation plan for the participation of the Department of Veterans Affairs in the Warstopper Program, including milestones and timelines for related administrative, contracting, and readiness activities. “(B) For each of the items and associated quantities identified in paragraphs (1) and (3) of subsection (a)—“(i) the method by which the Secretary of Veterans Affairs plans to ensure the Department continues to have access to adequate quantities of such items and types of items, including in the Warstopper Program, in regional, physical inventories, or other methods; and “(ii) justifications for the method or methods identified under clause (i). “(3) Updates to report.—The Secretary shall update the report required under paragraph (1) on an annual basis for each of the two years following the submission of the report under such paragraph and submit such updates to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives.”
 
 
 <a id="section-8122"></a>
@@ -2081,7 +2121,7 @@ Pub. L. 100–322, title IV, § 402, May 20, 1988, 102 Stat. 543, as amended by 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to [section 1396r–8 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a)(4)(A), (e)(2), (g)(1), and (h)(2)(A), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42. Section 1927 of the Act is classified to [section 1396r–8 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396r–8&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(4)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended, which is classified generally to chapter 6A (§ 201 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
@@ -2180,47 +2220,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
       (III) a contracting officer determines meets the quality standards and delivery schedule of the Department.
 
-**(e) Eligibility of Small Business Concerns.—** A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Secretary under subsection (f).
+**(e) Eligibility of Small Business Concerns.—** A small business concern may be awarded a contract under this section only if the small business concern and the veteran owner of the small business concern are listed in the database of veteran-owned businesses maintained by the Administrator under section 36 of the Small Business Act.
 
-**(f) Database of Veteran-Owned Businesses.—**
-
-(1) Subject to paragraphs (2) through (6), the Secretary shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by veterans with service-connected disabilities, and the veteran owners of such business concerns.
-
-(2)
-
-  (A) To be eligible for inclusion in the database, such a veteran shall submit to the Secretary such information as the Secretary may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) (commonly referred to as the Privacy Act) for the Secretary to access such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
-
-  (B) If the Secretary receives an application for inclusion in the database from an individual whose status as a veteran cannot be verified because the Secretary does not maintain information with respect to the veteran status of the individual, the Secretary may not include the small business concern owned and controlled by the individual in the database maintained by the Secretary until the Secretary receives such information as may be necessary to verify that the individual is a veteran.
-
-(3) Information maintained in the database shall be submitted on a voluntary basis by such veterans.
-
-(4) No small business concern may be listed in the database until the Secretary has verified, using regulations issued by the Administrator of the Small Business Administration with respect to the status of the concern as a small business concern and the ownership and control of such concern, that—
-
-  (A) the small business concern is owned and controlled by veterans; and
-
-  (B) in the case of a small business concern for which the person who owns and controls the concern indicates that the person is a veteran with a service-connected disability, that the person is a veteran with a service-connected disability.
-
-(5) The Secretary shall make the database available to all Federal departments and agencies and shall notify each such department and agency of the availability of the database.
-
-(6) If the Secretary determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Secretary shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
-
-(7) The Secretary may not issue regulations related to the status of a concern as a small business concern and the ownership and control of such small business concern.
-
-(8)
-
-  (A) If a small business concern is not included in the database because the Secretary does not verify the status of the concern as a small business concern or the ownership or control of the concern, the concern may appeal the denial of verification to the Office of Hearings and Appeals of the Small Business Administration (as established under section 5(i) of the Small Business Act). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
-
-  (B)
-
-    (i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by veterans with service-connected disabilities based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals of the Small Business Administration as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
-
-    (ii) In this subparagraph, the term “interested party” means—
-
-      (I) the Secretary; or
-
-      (II) in the case of a small business concern that is awarded a contract, the contracting officer of the Department or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).
-
-  (C) For each fiscal year, the Secretary shall reimburse the Administrator of the Small Business Administration in an amount necessary to cover any cost incurred by the Office of Hearings and Appeals of the Small Business Administration for actions taken by the Office under this paragraph. The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.
+**(f)** Transferred. Pub. L. 116–283, div. A, title VIII, § 862(b)(2), Jan. 1, 2021, 134 Stat. 3778.]
 
 **(g) Enforcement Penalties for Misrepresentation.—**
 
@@ -2260,7 +2262,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (4) The percentage of the total amount of all contracts awarded by each such Administration during that fiscal year that were awarded to small business concerns owned and controlled by veterans with service-connected disabilities.
 
-**(k) Limitations on Subcontracting.—**
+**(k) Annual Transfer for Certification Costs.—** For each fiscal year, the Secretary of Veterans Affairs shall reimburse the Administrator in an amount necessary to cover any cost incurred by the Administrator for certifying small business concerns owned and controlled by veterans that do not qualify as small business concerns owned and controlled by service-disabled veterans for the Secretary for purposes of this section and [section 8128 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8128). The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.
+
+**(l) Limitations on Subcontracting.—**
 
 (1)
 
@@ -2294,81 +2298,22 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
     (ii) the disposition of such referred violations, including the number of small business concerns suspended or debarred from Federal contracting or referred to the Attorney General for prosecution.
 
-**(l) Definitions.—** In this section:
+**(m) Definitions.—** In this section:
 
-(1) The term “small business concern” has the meaning given that term under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
+(1) The term “Administrator” means the Administrator of the Small Business Administration.
 
-(2) The term “small business concern owned and controlled by veterans” has the meaning given that term under section 3(q)(3) of the Small Business Act ([15 U.S.C. 632(q)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/3&num=0&edition=prelim)).
+(2) The term “small business concern” has the meaning given that term under section 3 of the Small Business Act ([15 U.S.C. 632](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim)).
 
-(3) The term “small business concern owned and controlled by veterans with service-connected disabilities” has the meaning given the term “small business concern owned and controlled by service-disabled veterans” under section 3(q)(2) of the Small Business Act ([15 U.S.C. 632(q)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/2&num=0&edition=prelim)).
+(3) The term “small business concern owned and controlled by veterans” has the meaning given that term under section 3(q)(3) of the Small Business Act ([15 U.S.C. 632(q)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/3&num=0&edition=prelim)).
+
+(4) The term “small business concern owned and controlled by veterans with service-connected disabilities” has the meaning given the term “small business concern owned and controlled by service-disabled veterans” under section 3(q)(2) of the Small Business Act ([15 U.S.C. 632(q)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/q/2&num=0&edition=prelim)).
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–283, div. A, title VIII, § 862(b)(1)(A), (C)–(E), Jan. 1, 2021, 134 Stat. 3776, 3778, provided that, effective on the transfer date of subsection (f) of this section, which is 2 years after Jan. 1, 2021, this section is amended as follows:
-
-(1) in subsection (e), by striking “the Secretary under subsection (f)” and inserting “the Administrator under section 36 of the Small Business Act”;
-
-(2) by redesignating subsections (k) (relating to limitations on subcontracting) and (l) (relating to definitions) as subsections (l) and (m), respectively;
-
-(3) by inserting after subsection (j) (relating to annual reports) the following new subsection:
-
-“(k) Annual Transfer for Certification Costs.—For each fiscal year, the Secretary of Veterans Affairs shall reimburse the Administrator in an amount necessary to cover any cost incurred by the Administrator for certifying small business concerns owned and controlled by veterans that do not qualify as small business concerns owned and controlled by service-disabled veterans for the Secretary for purposes of this section and [section 8128 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8128). The Administrator is authorized to accept such reimbursement. The amount of any such reimbursement shall be determined jointly by the Secretary and the Administrator and shall be provided from fees collected by the Secretary under multiple-award schedule contracts. Any disagreement about the amount shall be resolved by the Director of the Office of Management and Budget.”
-
-(4) in subsection (m) (relating to definitions), as so redesignated—
-
-(A) by redesignating paragraphs (1), (2), and (3) as paragraphs (2), (3), and (4), respectively; and
-
-(B) by inserting before paragraph (2), as so redesignated, the following new paragraph:
-
-“(1) The term ‘Administrator’ means the Administrator of the Small Business Administration.”
-
-See 2021 Amendment notes and Effective Date of 2021 Amendment note below.
-
-Pub. L. 116–283, div. A, title VIII, § 862(b)(1)(B), (2), Jan. 1, 2021, 134 Stat. 3776, 3778, provided that, effective on the transfer date of subsection (f) of this section, which is 2 years after Jan. 1, 2021, subsection (f) of this section is amended. After such effective date, subsection (f) of this section will read as follows:
-
-(f) Database of Veteran-Owned Businesses.—(1) Subject to paragraphs (2) through (6), the Administrator shall maintain a database of small business concerns owned and controlled by veterans, small business concerns owned and controlled by service-disabled veterans, and the veteran owners of such business concerns.
-
-(2)(A) To be eligible for inclusion in the database, such a veteran shall submit to the Administrator such information as the Administrator may require with respect to the small business concern or the veteran. Application for inclusion in the database shall constitute permission under [section 552a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), United States Code, (commonly referred to as the Privacy Act) for the Administrator to obtain from the Secretary of Veterans Affairs such personal information maintained by the Secretary as may be necessary to verify the information contained in the application.
-
-(B) For purposes of this subsection—
-
-(i) the Secretary of Veterans Affairs shall—
-
-(I) verify an individual’s status as a veteran or a service-disabled veteran; and
-
-(II) establish a system to permit the Administrator to access, but not alter, the verification of such status; and
-
-(ii) the Administrator shall verify—
-
-(I) the status of a business concern as a small business concern; and
-
-(II) the ownership and control of such business concern.
-
-(C) The Administrator may not certify a concern under subsection (b) or section 36A if the Secretary of Veterans Affairs cannot provide the verification described under subparagraph (B)(i)(I).
-
-(3) Information maintained in the database shall be submitted on a voluntary basis by a veteran described in paragraph (1).
-
-(4) the Administrator shall make the database available to all Federal departments and agencies and shall notify each such department and agency of the availability of the database.
-
-(5) If the Administrator determines that the public dissemination of certain types of information maintained in the database is inappropriate, the Administrator shall take such steps as are necessary to maintain such types of information in a secure and confidential manner.
-
-(6)(A) If a small business concern is not included in the database because the Administrator does not certify the status of the concern as a small business concern owned and controlled by veterans (under section 36A) or a small business concern owned and controlled by service-disabled veterans (under subsection (g) of this section), the concern may appeal the denial of certification to the Office of Hearings and Appeals of the Administration (as established under section 5(i)). The decision of the Office of Hearings and Appeals shall be considered a final agency action.
-
-(B)(i) If an interested party challenges the inclusion in the database of a small business concern owned and controlled by veterans or a small business concern owned and controlled by service-disabled veterans based on the status of the concern as a small business concern or the ownership or control of the concern, the challenge shall be heard by the Office of Hearings and Appeals as described in subparagraph (A). The decision of the Office of Hearings and Appeals shall be considered final agency action.
-
-(ii) In this subparagraph, the term “interested party” means—
-
-(I) the Secretary of Veterans Affairs or the Administrator; or
-
-(II) in the case of a small business concern that is awarded a contract, the applicable contracting officer or another small business concern that submitted an offer for the contract that was awarded to the small business concern that is the subject of a challenge made under clause (i).
-
-See 2021 Amendment notes and Effective Date of 2021 Amendment note below.
 
 #### References in Text
 The date of the enactment of the Department of Veterans Affairs Contracting Preference Consistency Act of 2020, referred to in subsec. (d)(2)(B)(i)(II), is the date of enactment of Pub. L. 116–155, which was approved Aug. 8, 2020.
 
-The Small Business Act, referred to in subsec. (i)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. Section 5(i) of the Act is classified to [section 634(i) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section634/i&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
+The Small Business Act, referred to in subsecs. (e) and (i)(2), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. Section 36 of the Act is classified to [section 657f of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657f&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (e). Pub. L. 116–283, § 862(b)(1)(A), substituted “the Administrator under section 36 of the Small Business Act” for “the Secretary under subsection (f)”.
@@ -2413,7 +2358,7 @@ Subsec. (k)(3)(A). Pub. L. 116–315 substituted “or any other” for “and a
 
 Subsec. (l). Pub. L. 116–283, § 862(b)(1)(C), redesignated subsec. (k) as (l). Former subsec. (l) redesignated (m).
 
-Subsec. (m). Pub. L. 116–283, § 862(b)(1)(E), added par. (1) and redesigated pars. (1) to (3) as (2) to (4), respectively.
+Subsec. (m). Pub. L. 116–283, § 862(b)(1)(E), added par. (1) and redesignated former pars. (1) to (3) as (2) to (4), respectively.
 
 Pub. L. 116–283, § 862(b)(1)(C), redesignated subsec. (l) as (m).
 
@@ -2501,14 +2446,12 @@ Pub. L. 109–461, title V, § 502(b), Dec. 22, 2006, 120 Stat. 3435, provided t
 ## § 8128. Small business concerns owned and controlled by veterans: contracting priority
 **(a) Contracting Priority.—** In procuring goods and services pursuant to a contracting preference under this title or any other provision of law, the Secretary shall give priority to a small business concern owned and controlled by veterans, if such business concern also meets the requirements of that contracting preference.
 
-**(b) Definition.—** For purposes of this section, the term “small business concern owned and controlled by veterans” means a small business concern that is included in the small business database maintained by the Secretary under [section 8127(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127/f&num=0&edition=prelim).
+**(b) Definition.—** For purposes of this section, the term “small business concern owned and controlled by veterans” means a small business concern that is included in the small business database maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 116–283, div. A, title VIII, § 862(b)(3), Jan. 1, 2021, 134 Stat. 3778, provided that, effective on the transfer date of subsection (f) of [section 8127 of this title](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8127), which is 2 years after Jan. 1, 2021, this section is amended by striking “maintained by the Secretary under [section 8127(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127/f&num=0&edition=prelim)” and inserting “maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act”.
-
-See 2021 Amendment note and Effective Date of 2021 Amendment note below.
+#### References in Text
+Section 36 of the Small Business Act, referred to in subsec. (b), is classified to [section 657f of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657f&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
 2021—Subsec. (b). Pub. L. 116–283 substituted “maintained by the Administrator of the Small Business Administration under section 36 of the Small Business Act” for “maintained by the Secretary under [section 8127(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section8127/f&num=0&edition=prelim)”.
@@ -3150,7 +3093,7 @@ Pub. L. 102–54 amended section as in effect immediately before the enactment o
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2011—Subsec. (a)(3)(B)(ii). Pub. L. 111–350, § 5(j)(8)(A), substituted “[section 1707 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1707&num=0&edition=prelim)” for “section 22 of the Office of Federal Procurement Policy Act ([41 U.S.C. 418b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section418b&num=0&edition=prelim))”.
@@ -3333,7 +3276,7 @@ Reference to Department of Medicine and Surgery deemed to refer to Veterans Heal
 Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under [section 111 of this title](./chapter-001-general.md#section-111).
 
 #### Termination of Advisory Councils
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-8156"></a>
@@ -3344,9 +3287,9 @@ The Secretary and the Secretary of Health and Human Services shall, to the maxim
 ### Statutory Notes
 
 #### References in Text
-The National Health Planning and Resources Development Act of 1974, referred to in section catchline, is Pub. L. 93–641, Jan. 4, 1975, 88 Stat. 2225, as amended, which is classified generally to subchapters XIII (§ 300k et seq.) and XIV (§ 300o et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The National Health Planning and Resources Development Act of 1974, referred to in section catchline, is Pub. L. 93–641, Jan. 4, 1975, 88 Stat. 2225, which is classified generally to subchapters XIII (§ 300k et seq.) and XIV (§ 300o et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1975 Amendment note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part F of title XVI of the Public Health Service Act was added by act Jan. 4, 1975, Pub. L. 93–641, § 4, 88 Stat. 2273, and was redesignated as Part D by Pub. L. 96–79, title II, § 202(a), Oct. 4, 1979, 93 Stat. 632. Part D of that Act is classified generally to Part D (§ 300t) of subchapter XIV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in text, is act July 1, 1944, ch. 373, 58 Stat. 682. Part F of title XVI of the Public Health Service Act was added by act Jan. 4, 1975, Pub. L. 93–641, § 4, 88 Stat. 2273, and was redesignated as Part D by Pub. L. 96–79, title II, § 202(a), Oct. 4, 1979, 93 Stat. 632. Part D of that Act is classified generally to Part D (§ 300t) of subchapter XIV of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1991—Pub. L. 102–40 renumbered [section 5056 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5056&num=0&edition=prelim) as this section.
@@ -3904,3 +3847,193 @@ Pub. L. 112—154, title II, § 211(i)(2), Aug. 6, 2012, 126 Stat. 1182, provide
 ### Statutory Notes
 
 Section, added Pub. L. 102–86, title IV, § 401(a), Aug. 14, 1991, 105 Stat. 422; amended Pub. L. 103–452, title I, § 103(d), Nov. 2, 1994, 108 Stat. 4786; Pub. L. 104–110, title I, § 101(k), Feb. 13, 1996, 110 Stat. 769; Pub. L. 105–114, title II, § 205(a), Nov. 21, 1997, 111 Stat. 2288; Pub. L. 106–117, title II, § 208(e), Nov. 30, 1999, 113 Stat. 1568; Pub. L. 112—154, title II, § 211(j), Aug. 6, 2012, 126 Stat. 1182, provided that the authority of the Secretary to enter into enhanced-use leases under this subchapter would expire on Dec. 31, 2023.
+
+
+<a id="section-8171"></a>
+## § 8171. Definitions
+
+In this subchapter:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
+
+  (B) the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+
+(2) The term “information technology” has the meaning given that term in [section 11101 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11101&num=0&edition=prelim).
+
+(3)
+
+  (A) The term “information technology project” means a project or program of the Department (including a project or program of any element of the Department) for, or including, the acquisition or implementation of information technology.
+
+  (B) In cases where the Secretary transmits to the Director of the Office of Management and Budget information regarding information technology investments, which may consist of individual or multiple projects, the term “information technology project” refers to an individual project or program or a grouping of multiple projects or programs resulting in the acquisition or implementation of discrete information technology.
+
+(4) The term “life cycle costs” means all direct and indirect costs to acquire, implement, operate, and maintain information technology, including with respect to costs of any element of the Department.
+
+(5) The term “major information technology project” means an information technology project if—
+
+  (A) the project is designated by the Secretary, the Chief Information Officer of the Department, or the Director of the Office of Management and Budget as a major information technology investment, as defined in [section 11302 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11302&num=0&edition=prelim); or
+
+  (B) the dollar value of the project is estimated by the Secretary to exceed—
+
+    (i) $1,000,000,000 (as adjusted for inflation pursuant to [section 1908 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1908&num=0&edition=prelim)) for the total life cycle costs of the project; or
+
+    (ii) $200,000,000 (as adjusted for inflation pursuant to [section 1908 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1908&num=0&edition=prelim)) annually.
+
+(6) The term “business owner” means, with respect to an information technology project, the program manager, project manager, or other supervisory official of the Department responsible for the project.
+
+
+<a id="section-8172"></a>
+## § 8172. Management of major information technology projects
+**(a) Cost, Schedule, and Performance Information.—**
+
+(1) The Secretary shall, acting through the Chief Information Officer of the Department, submit to the appropriate congressional committees a report containing information on the cost, schedule, and performance of each major information technology project that begins after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, as generated by the business owner of the project, prior to the commencement of such project.
+
+(2) Each report submitted under paragraph (1) for a project shall include, with respect to such project, the following:
+
+  (A) An estimate of acquisition costs, implementation costs, and life cycle costs.
+
+  (B) An intended implementation schedule indicating significant milestones, initial operating capability, and full operating capability or completion.
+
+  (C) Key business, functional, and performance objectives.
+
+**(b) Baseline.—**
+
+(1) The Secretary shall use the information on the cost, schedule, and performance of a major information technology project included in the report under subsection (a) as the baseline against which changes or variances are measured during the life cycle of such project.
+
+(2) The Secretary shall—
+
+  (A) annually update the baseline of a major information technology project pursuant to subsection (c); and
+
+  (B) include such updated baseline in the documents providing detailed information on the budget for the Department that the Secretary submits to Congress in conjunction with the President’s budget submission pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim).
+
+**(c) Changes and Variances.—**
+
+(1) Not later than 60 days after the date on which the Secretary identifies a change or variance described in paragraph (2) in the cost, schedule, or performance of a major information technology project, the Secretary, acting through the Chief Information Officer, shall submit to the appropriate congressional committees a notification of such change or variance, including a description and explanation for such change or variance.
+
+(2) A change or variance in the cost, schedule, or performance of a major information technology project described in this paragraph is—
+
+  (A) with respect to the acquisition, implementation, or life cycle cost of the project, or development increment therein, a change or variance that is 10 percent or greater compared to the baseline;
+
+  (B) with respect to the schedule for a development increment or for achieving a significant milestone, initial operating capability, or full operating capability, or for the final completion of the project, a change or variance that is 180 days or greater compared to the baseline; or
+
+  (C) with respect to the performance, an instance where a key business, functional, or performance objective is not attained, or is not anticipated to be attained, in whole or in part.
+
+**(d) Management.—** The Secretary shall ensure that each major information technology project is managed by an interdisciplinary team consisting of the following:
+
+(1) A project manager who—
+
+  (A)
+
+    (i) is certified in project management at level three by—
+
+      (I) the Department;
+
+      (II) the Federal Acquisition Institute pursuant to [section 1201 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1201&num=0&edition=prelim); or
+
+      (III) the Department of Defense pursuant to [section 1701a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1701a&num=0&edition=prelim); or
+
+    (ii) holds an equivalent certification by a private sector project management certification organization, as determined appropriate by the Secretary; and
+
+  (B) is an employee of the Office of Information and Technology of the Department or an employee of an element of the Department at which the project originates.
+
+(2) A functional lead who is an employee of the element of the Department at which the project originates.
+
+(3) A technical lead who is an employee of the Office of Information and Technology of the Department.
+
+(4) A contracting officer.
+
+(5) Sufficient other project management, functional, technical, and procurement personnel as the Secretary determines appropriate.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, referred to in subsec. (a)(1), is the date of enactment of div. U of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
+#### Effective Date
+Pub. L. 117–328, div. U, title IV, § 403(c)(1), (3), Dec. 29, 2022, 136 Stat. 5490, provided that: “(1) Current and new major projects.—Except as specifically provided in subsection (a) of [section 8172 of title 38](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8172), United States Code, as added by subsection (a) of this section, such section 8172 shall apply with respect to major information technology projects that begin before, on, or after the date of the enactment of this Act [Dec. 29, 2022]. “(3) Definitions.—In this subsection [enacting this note and provisions not set out in the Code], the terms ‘appropriate congressional committees’ and ‘major information technology project’ have the meanings given those terms in [section 8171 of title 38](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8171), United States Code, as added by subsection (a) of this section.”
+
+
+<a id="section-8173"></a>
+## § 8173. Information technology activities of the Financial Services Center
+**(a) Management.—** Consistent with sections 11302 and 11319 of title 40—
+
+(1) the Chief Information Officer of the Department shall—
+
+  (A) exercise authority over the management, governance, and oversight processes relating to existing or proposed information technology of the Financial Services Center of the Department, or such successor office; and
+
+  (B) supervise the information technology employees and contractors of the Financial Services Center; and
+
+(2) the Director of the Financial Services Center of the Department, or the head of such successor office, may not enter into a contract or other agreement for information technology or information technology services unless the contract or other agreement has been reviewed and approved by the Chief Information Officer.
+
+**(b) Oversight.—** The Chief Information Officer shall have oversight and operational authority over all information security practices of the Financial Services Center of the Department.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–328, div. U, title IV, § 403(d), Dec. 29, 2022, 136 Stat. 5490, provided that: “(1) Effective date.—Section 8173 of such title, as added by subsection (a), shall take effect on the date of the enactment of this Act [Dec. 29, 2022]. “(2) Applicability.—Subsection (a)(2) of such section shall apply with respect to contracts and agreements entered into on or after the date of the enactment of this Act.”
+
+
+<a id="section-8174"></a>
+## § 8174. Submission of annual reviews of information technology
+**(a) In General.—** The Secretary, acting through the Chief Information Officer of the Department, shall submit to the appropriate congressional committees each annual review of the information technology portfolio of the Department conducted pursuant to [section 11319(d)(3) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11319/d/3&num=0&edition=prelim).
+
+**(b) First Submission.—** The first annual review submitted under subsection (a) shall include a copy of each previous annual review conducted under [section 11319(d)(3) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11319/d/3&num=0&edition=prelim).
+
+
+<a id="section-8175"></a>
+## § 8175. Information technology matters to be included in budget justification materials for the Department
+**(a) List of Information Technology Projects in Effect.—** The Secretary shall ensure that whenever the budget justification materials are submitted to Congress in support of the Department budget for a fiscal year (as submitted with the budget of the President for such fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim)), such budget justification materials include a list of every information technology project currently in effect at the Department (including not only congressional projects and subprojects as determined by the Director of the Office of Management and Budget or the Secretary).
+
+**(b) Prioritized List of Unfunded Projects.—**
+
+(1) In addition to the list included in the budget justification materials required by subsection (a), the Secretary shall ensure that the budget justification materials described in such subsection also include summary descriptions and a prioritized list, in rank order, of every information technology project of the Department, proposed or intended to be proposed for the following one, two, or three fiscal years, that is unfunded as of the time of the inclusion of the list under this paragraph.
+
+(2) In producing the list required by paragraph (1), the Secretary shall—
+
+  (A) ensure such list represents a ranking of all proposed information technology projects that reflects the needs of all elements of the Department;
+
+  (B) produce one unified list for the entire Department demonstrating how the various proposed information technology projects of each of the elements of the Department rank in priority with the information technology projects of the other elements of the Department; and
+
+  (C) ensure that the list—
+
+    (i) does not disaggregate and rank information technology projects based on element of the Department; and
+
+    (ii) does identify the element of the Department requesting the information technology project.
+
+(3)
+
+  (A) In producing each list under paragraph (1), the Secretary shall prioritize and rank each information technology project based on an assessment of each of the following factors:
+
+    (i) Degree of collaboration between business owners and the Chief Information Officer with respect to joint functional-technical planning, requirements, and management.
+
+    (ii) Operational or efficiency benefits to employees of the Department created or produced by the information technology project.
+
+    (iii) The life cycle cost of the information technology project.
+
+    (iv) The cost savings or cost avoidance yielded by the information technology project.
+
+    (v) Time to completion of the information technology project.
+
+    (vi) The difficulty of the information technology project, the likelihood the information technology project will be completed, or the risks associated with undertaking the information technology project.
+
+    (vii) Tangible benefits to veterans created or produced by the information technology project.
+
+    (viii) Such other factors as the Secretary considers appropriate.
+
+  (B) The Secretary shall ensure that each list produced under paragraph (1) includes, for each information technology project included in the list, a brief description of the findings of the Secretary with respect to each assessment carried out by the Secretary for each factor for the information technology project under subparagraph (A).
+
+**(c) Projected Funding Needs.—**
+
+(1) In addition to the matters included under subsections (a) and (b), the Secretary shall ensure that the budget justification materials described in subsection (a) also include a projection of the one-year, two-year, and three-year funding needs of the Department for information technology, disaggregated by—
+
+  (A) portfolio; and
+
+  (B) the product line of the Department that requires the funding.
+
+(2) In addition to the projections under paragraph (1), with respect to each of the periods set forth in such paragraph, the Secretary shall include a description of the funding required for each technology business management category used by the Office of Information Technology of the Department (commonly referred to as “cost pools” and “towers”).
+
+### Statutory Notes
+
+#### Effective Date of Subsection (c)
+Pub. L. 117–328, div. U, title IV, § 403(e), Dec. 29, 2022, 136 Stat. 5491, provided that: “Subsection (c) of section 8175 of such title [meaning title 38, United States Code], as added by subsection (a) of this section, shall take effect on the first Monday in the second January beginning after the date of the enactment of this Act [Dec. 29, 2022].”

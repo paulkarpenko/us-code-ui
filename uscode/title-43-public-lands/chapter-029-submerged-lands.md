@@ -88,7 +88,7 @@ Act March 3, 1877 (19 Stat. 377), referred to in text, is act Mar. 3, 1877, ch. 
 
 Act June 17, 1902 (32 Stat. 388), referred to in text, is popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
-Act December 22, 1944 (58 Stat. 887), referred to in text, is act Dec. 22, 1944, ch. 665, 58 Stat. 887, as amended, which enacted [section 390 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390), sections 460d and 825s of Title 16, Conservation, and sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, amended [section 701b–1 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701b–1&num=0&edition=prelim), and enacted provisions set out as notes under [section 701f of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701f&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+Act December 22, 1944 (58 Stat. 887), referred to in text, is act Dec. 22, 1944, ch. 665, 58 Stat. 887, which enacted [section 390 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390), sections 460d and 825s of Title 16, Conservation, and sections 701–1, 701a–1, 708, and 709 of Title 33, Navigation and Navigable Waters, amended [section 701b–1 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701b–1&num=0&edition=prelim), and enacted provisions set out as notes under [section 701f of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701f&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1311"></a>
@@ -238,17 +238,17 @@ In this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Department of Energy Organization Act, referred to in subsec. (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
+The Department of Energy Organization Act, referred to in subsec. (b), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
 
 [Section 1454(b) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1454/b&num=0&edition=prelim), referred to in subsec. (e), was amended generally by Pub. L. 101–508, title VI, § 6205, Nov. 5, 1990, 104 Stat. 1388–302, and, as so amended, does not contain a par. (1).
 
-The Sherman Act, referred to in subsec. (n)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
+The Sherman Act, referred to in subsec. (n)(1), is act July 2, 1890, ch. 647, 26 Stat. 209, which enacted sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-The Clayton Act, referred to in subsec. (n)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+The Clayton Act, referred to in subsec. (n)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (n)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (n)(3), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
-The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§ 73 to 77, 28 Stat. 570, as amended. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 8 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8&num=0&edition=prelim) and Tables.
+The Wilson Tariff Act, referred to in subsec. (n)(4), is act Aug. 27, 1894, ch. 349, §§ 73 to 77, 28 Stat. 570. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 is not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 8 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8&num=0&edition=prelim) and Tables.
 
 Act of June 19, 1936, referred to in subsec. (n)(5), is act June 19, 1936, ch. 592, 49 Stat. 1526, popularly known as the Robinson-Patman Act, the Robinson-Patman Antidiscrimination Act, and the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim) and Tables.
 
@@ -371,7 +371,7 @@ IN WITNESS WHEREOF, I have hereunto set my hand this second day of September, in
 William J. Clinton.
 
 #### Executive Order No. 13795
-Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, which related to an America-first offshore energy strategy and encouraged energy exploration and production, including on the Outer Continental Shelf, was revoked by Ex. Ord. No. 13990, § 7(a), Jan. 20, 2021, 86 F.R. 7041 set out in a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.
+Ex. Ord. No. 13795, Apr. 28, 2017, 82 F.R. 20815, which related to an America-first offshore energy strategy and encouraged energy exploration and production, including on the Outer Continental Shelf, was revoked by Ex. Ord. No. 13990, § 7(a), Jan. 20, 2021, 86 F.R. 7041, set out in a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.
 
 
 <a id="section-1332"></a>
@@ -454,9 +454,9 @@ It is hereby declared to be the policy of the United States that—
 ### Statutory Notes
 
 #### References in Text
-The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (b), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (b), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
-The National Labor Relations Act, as amended, referred to in subsec. (c), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
+The National Labor Relations Act, as amended, referred to in subsec. (c), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (a)(1). Pub. L. 116–283 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Constitution and laws and civil and political jurisdiction of the United States are extended to the subsoil and seabed of the outer Continental Shelf and to all artificial islands, and all installations and other devices permanently or temporarily attached to the seabed, which may be erected thereon for the purpose of exploring for, developing, or producing resources therefrom, or any such installation or other device (other than a ship or vessel) for the purpose of transporting such resources, to the same extent as if the outer Continental Shelf were an area of exclusive Federal jurisdiction located within a State: Provided, however, That mineral leases on the outer Continental Shelf shall be maintained or issued only under the provisions of this subchapter.”
@@ -566,7 +566,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (a)(8), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2005—Subsec. (a)(5). Pub. L. 109–58 inserted “from any source” after “oil and gas”.
@@ -950,13 +950,13 @@ Functions of Secretary of the Interior to promulgate regulations under this subc
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (b)(7), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (b)(7), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 Section 8004(b)(1)(B) of the Outer Continental Shelf Lands Act Amendments of 1985, referred to in subsec. (g)(5)(A), is section 8004(b)(1)(B) of Pub. L. 99–272, which is set out as a note below.
 
-The Deepwater Port Act of 1974, referred to in subsec. (p)(1), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified principally to chapter 29 (§ 1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501&num=0&edition=prelim) and Tables.
+The Deepwater Port Act of 1974, referred to in subsec. (p)(1), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified principally to chapter 29 (§ 1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1501&num=0&edition=prelim) and Tables.
 
-The Ocean Thermal Energy Conversion Act of 1980, referred to in subsec. (p)(1), is Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, as amended, which is classified principally to chapter 99 (§ 9101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9101&num=0&edition=prelim) and Tables.
+The Ocean Thermal Energy Conversion Act of 1980, referred to in subsec. (p)(1), is Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, which is classified principally to chapter 99 (§ 9101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9101&num=0&edition=prelim) and Tables.
 
 Section 388(d) of the Energy Policy Act of 2005, referred to in subsec. (p)(3), is section 388(d) of Pub. L. 109–58, which is set out as a note under this section.
 
@@ -1074,28 +1074,17 @@ All rentals, royalties, and other sums paid to the Secretary or the Secretary of
 
 
 <a id="section-1338a"></a>
-## § 1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; return of excess amounts
+## § 1338a. Moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder; deposits and transfers to decommissioning account; return of excess amounts
 
-Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), any moneys on and after November 5, 1990, received as a result of the forfeiture of a bond or other security by an Outer Continental Shelf permittee, lessee, or right-of-way holder which does not fulfill the requirements of its permit, lease, or right-of-way or does not comply with the regulations of the Secretary shall be credited to the royalty and offshore minerals management account of the Minerals Management Service to cover the cost to the United States of any improvement, protection, or rehabilitation work rendered necessary by the action or inaction that led to the forfeiture, to remain available until expended: Provided further, That any portion of the moneys so credited shall be returned to the permittee, lessee, or right-of-way holder to the extent that the money is in excess of the amount expended in performing the work necessitated by the action or inaction which led to their receipt or, if the bond or security was forfeited for failure to pay the civil penalty, in excess of the civil penalty imposed.
+Notwithstanding [section 3302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), any moneys hereafter received as a result of the forfeiture of a bond or other security by an Outer Continental Shelf permittee, lessee, or right-of-way holder that does not fulfill the requirements of its permit, lease, or right-of-way or does not comply with the regulations of the Secretary, or as a bankruptcy distribution or settlement associated with such failure or noncompliance, shall be credited to a separate account established in the Treasury for decommissioning activities and shall be available to the Bureau of Ocean Energy Management without further appropriation or fiscal year limitation to cover the cost to the United States of any improvement, protection, rehabilitation, or decommissioning work rendered necessary by the action or inaction that led to the forfeiture or bankruptcy distribution or settlement, to remain available until expended: Provided further, That amounts deposited into the decommissioning account may be allocated to the Bureau of Safety and Environmental Enforcement for such costs: Provided further, That any moneys received for such costs currently held in the Ocean Energy Management account shall be transferred to the decommissioning account: Provided further, That any portion of the moneys so credited shall be returned to the bankruptcy estate, permittee, lessee, or right-of-way holder to the extent that the money is in excess of the amount expended in performing the work necessitated by the action or inaction which led to their receipt or, if the bond or security was forfeited for failure to pay the civil penalty, in excess of the civil penalty imposed.
 
 ### Statutory Notes
 
 #### Codification
-Section enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1991, and not as part of the Outer Continental Shelf Lands Act which comprises this subchapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2024, and also as part of the Consolidated Appropriations Act, 2024, and not as part of the Outer Continental Shelf Lands Act which comprises this subchapter.
 
-#### Amendments
-1994—Pub. L. 103–332 struck out “or payment of civil penalty” after “result of the forfeiture of a bond or other security”, substituted “royalty and offshore minerals” for “leasing and royalty”, and struck out “or imposition of the civil penalty” after “rendered necessary by the action or inaction that led to the forfeiture”.
-
-1992—Pub. L. 102–381 substituted “shall be credited to the leasing and royalty management account of the Minerals Management Service” for “shall be credited to this account”.
-
-#### Change of Name
-Title I of Pub. L. 103–332, 108 Stat. 2508, provided in part: “That where the account title ‘Leasing and Royalty Management’ appears in any public law, the words ‘Leasing and Royalty Management’ beginning in fiscal year 1995 and thereafter shall be construed to mean ‘Royalty and Offshore Minerals Management’.”
-
-#### Effective Date of 1994 Amendment
-Title I of Pub. L. 103–332, 108 Stat. 2508, provided that the amendment made by Pub. L. 103–332 substituting “royalty and offshore minerals” for “leasing and royalty” is effective beginning in fiscal year 1995 and thereafter.
-
-#### Transfer of Functions
-The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
+#### Prior Provisions
+A prior section 1338a, Pub. L. 101–512, title I, Nov. 5, 1990, 104 Stat. 1926; Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1386; Pub. L. 103–332, title I, Sept. 30, 1994, 108 Stat. 2508, related to moneys received as a result of forfeiture by Outer Continental Shelf permittee, lessee, or right-of-way holder and return of excess amounts, prior to repeal by Pub. L. 118–42, div. E, title I, § 123, Mar. 9, 2024, 138 Stat. 249.
 
 
 <a id="section-1339"></a>
@@ -1572,7 +1561,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsecs. (e)(2), (h)(1), and (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (e)(2), (h)(1), and (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The Coastal Zone Management Act of 1972, referred to in subsec. (h)(2)(A)(ii), (B)(ii), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
 
@@ -1686,9 +1675,9 @@ Pub. L. 99–190, § 101(d) [title I, § 100], Dec. 19, 1985, 99 Stat. 1224, 123
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e)(1)(A), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e)(1)(A), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
-The Natural Gas Act, referred to in subsec. (e)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15. For complete classification of that Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in subsec. (e)(1)(B), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15. For complete classification of that Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 #### Transfer of Functions
 Functions vested in Secretary of Energy and Department of Energy under or with respect to subsec. (b)(2), (3) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under [section 7152 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7152&num=0&edition=prelim), The Public Health and Welfare.
@@ -1707,7 +1696,7 @@ Functions vested in Secretary of Energy and Department of Energy under or with r
 ### Statutory Notes
 
 #### References in Text
-The Export Administration Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, as amended, which was formerly classified to sections 2401 to 2413 of the former Appendix to Title 50, War and National Defense, and which terminated on Sept. 30, 1979, pursuant to the terms of that Act. See chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense.
+The Export Administration Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–184, Dec. 30, 1969, 83 Stat. 841, which was formerly classified to sections 2401 to 2413 of the former Appendix to Title 50, War and National Defense, and which terminated on Sept. 30, 1979, pursuant to the terms of that Act. See chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense.
 
 
 <a id="section-1355"></a>
@@ -1957,7 +1946,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
-The Coastal Zone Management Act of 1972, referred to in subsec. (a)(2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (a)(2), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
 
 Sections 107 through 109 of division E of the Consolidated Appropriations Act, 2005, referred to in subsec. (a)(7), are sections 107 to 109 of Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3063, 3064, which are not classified to the Code.
 

@@ -2,12 +2,85 @@
 title: 22
 chapter: '7'
 heading: 'INTERNATIONAL BUREAUS, CONGRESSES, ETC.'
-section_count: 603
+section_count: 614
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
 <a id="section-261"></a>
-## § 261. “International organization” defined; authority of President
+## § 261. General and special conferences; expenses; acceptance of services and gifts or bequests of money or materials
+
+The National Commission shall call general conferences for the discussion of matters relating to the activities of the Organization, to which conferences organized bodies actively interested in such matters shall be invited to send representatives: Provided, however, That the travel and maintenance of such representation shall be without expense to the Government. Such general conferences shall be held annually or biennially, as the National Commission may determine, and in such places as it may designate. They shall be attended so far as possible by the members of the National Commission and by the delegates of the United States to the General Conference of the Organization. The National Commission is further authorized to call special conferences of experts for the consideration of specific matters relating to the Organization by persons of specialized competences. The Department of State may pay their transportation and other expenses as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), for the period of actual attendance and of necessary travel. The National Commission is further authorized to receive and accept services and gifts or bequests of money or materials to carry out any of the educational, scientific, or cultural purposes of the National Commission as set forth in this subchapter and in the constitution of the Organization. Any money so received shall be held by the Secretary of State and shall be subject to disbursement through the disbursement facilities of the Treasury Department as the terms of the gift or bequest may require and shall remain available for expenditure by grant or otherwise until expended: Provided, That no such gift or bequest may be accepted or disbursed if the terms thereof are inconsistent with the purposes of the National Commission as set forth in this subchapter and in the constitution of the Organization. Gifts or bequests provided for herein shall, for the purposes of Federal income, estate, and gift taxes, be deemed to be a gift to or for the United States. The National Commission and Secretary of State shall submit to Congress annual reports of receipts and expenditures of funds and bequests received and disbursed pursuant to the provisions of this section.11 See Termination of Reporting Requirements note below.
+
+### Statutory Notes
+
+#### References in Text
+The constitution of the Organization, referred to in text, is the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).
+
+#### Codification
+“[Section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim)” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 73b–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section73b–2&num=0&edition=prelim))” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+#### Amendments
+1983—Pub. L. 98–164 struck out provision prohibiting acceptance of gifts or bequests aggregating more than $200,000 in any year.
+
+1961—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), for provisions which allowed the experts $10 per diem plus actual transportation expenses.
+
+1958—Pub. L. 85–477 authorized the National Commission to receive and accept services and gifts or bequests of money or materials.
+
+#### Termination of Reporting Requirements
+Pub. L. 89–348, § 1(21), Nov. 8, 1965, 79 Stat. 1311, repealed the following reporting requirement: “The annual report to Congress by the National Commission on Educational, Scientific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization (72 Stat. 273; [22 U.S.C. 287q](./chapter-007-international-bureaus-congresses-etc.md#section-287q)).”
+
+
+<a id="section-262"></a>
+## § 262. Authorization of appropriations; payment of expenses
+
+There is hereby authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated such sums as may be necessary for the payment by the United States of its share of the expenses of the Organization as apportioned by the General Conference of the Organization in accordance with article IX of the constitution of the Organization, and such additional sums as may be necessary to pay the expenses of participation by the United States in the activities of the Organization, including: (a) salaries of the representatives provided for in [section 287n of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287n), of their appropriate staffs, and of members of the secretariat of the National Commission provided for in section 287o of this title, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; (b) travel expenses without regard to the Standardized Government Travel Regulations, as amended, the Subsistence Expense Act of 1926, as amended, and [section 5731 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5731&num=0&edition=prelim), and, under such rules and regulations as the Secretary of State may prescribe, travel expenses of families and transportation of effects of United States representatives and other personnel in going to and returning from their post of duty; (c) allowances for living quarters, including heat, fuel, and light, as authorized by [section 5912 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5912&num=0&edition=prelim); (d) cost of living allowances under such rules and regulations as the Secretary of State may prescribe, including allowances to persons temporarily stationed abroad; (e) communication services; (f) stenographic reporting, translating, and other services, by contract, if deemed necessary, without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); (g) local transportation; (h) equipment; (i) transportation of things; (j) rent of offices; (k) printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); (l) official entertainment; (m) stationery; (n) purchase of newspapers, periodicals, books, and documents; and (o) such other expenses as may be authorized by the Secretary of State.
+
+### Statutory Notes
+
+#### References in Text
+Article IX of the constitution of the Organization, referred to in text, is article IX of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).
+
+The Subsistence Expenses Act of 1926, as amended, referred to in clause (b), was repealed and superseded by the Travel Expense Act of 1949, which is now covered by subchapter I of chapter 57 of Title 5. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”
+
+#### Codification
+In cl. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+
+In cls. (b) and (c), “[section 5731 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5731&num=0&edition=prelim)” and “[section 5912 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5912&num=0&edition=prelim)” substituted for “section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” and “the Act approved June 26, 1930 (U.S.C., title 5, sec. 118a)”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5.
+
+In cl. (f), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+In cl. (k), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim))” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, which Act enacted Title 44, Public Printing and Documents.
+
+In cl. (k), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+
+#### Annual Appropriations
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
+
+#### Restriction on Contributions Because of Journalistic Interference; Report to Congress
+Pub. L. 97–241, title I, § 109, Aug. 24, 1982, 96 Stat. 276, provided that: “(a) None of the funds authorized to be appropriated by paragraph (2) of section 102 of this Act [section 102(2) of Pub. L. 97–241, which was not classified to the Code] or by any other Act for ‘International Organizations and Conferences’ may be used for payment by the United States of its contribution toward the assessed budget of the United Nations Educational, Scientific and Cultural Organization if that organization implements any policy or procedure the effect of which is to license journalists or their publications, to censor or otherwise restrict the free flow of information within or among countries, or to impose mandatory codes of journalistic practice or ethics. “(b) Not later then February 1 of each year, the Secretary of State shall report to the Congress with respect to whether the United Nations Educational, Scientific and Cultural Organization has taken any action described in subsection (a) of this section.”
+
+[For termination, effective May 15, 2000, of reporting provisions in section 109(b) of Pub. L. 97–241, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 130 of House Document No. 103–7.]
+
+
+<a id="section-262a"></a>
+## § 262a. Prohibition against disclosure of information or knowledge
+
+In adopting this subchapter, it is the understanding of the Congress that the constitution of the Organization does not require, nor does this subchapter authorize, the disclosure of any information or knowledge in any case in which such disclosure is prohibited by any law of the United States.
+
+### Statutory Notes
+
+#### References in Text
+The constitution of the Organization, referred to in text, is the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).
+
+
+<a id="section-262b"></a>
+## § 262b. “International organization” defined; authority of President
 
 For the purposes of this subchapter, the term “international organization” means a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation, and which shall have been designated by the President through appropriate Executive order as being entitled to enjoy the privileges, exemptions, and immunities provided in this subchapter. The President shall be authorized, in the light of the functions performed by any such international organization, by appropriate Executive order to withhold or withdraw from any such organization or its officers or employees any of the privileges, exemptions, and immunities provided for in this subchapter (including the amendments made by this subchapter) or to condition or limit the enjoyment by any such organization or its officers or employees of any such privilege, exemption, or immunity. The President shall be authorized, if in his judgment such action should be justified by reason of the abuse by an international organization or its officers and employees of the privileges, exemptions, and immunities provided in this subchapter or for any other reason, at any time to revoke the designation of any international organization under this section, whereupon the international organization in question shall cease to be classed as an international organization for the purposes of this subchapter.
 
@@ -237,8 +310,8 @@ United Nations Relief and Rehabilitation Administration, Ex. Ord. No. 9698, Feb.
 Ex. Ord. No. 9721, May 10, 1946, 11 F.R. 5209, as amended by Ex. Ord. No. 10103, Feb. 1, 1950, 15 F.R. 597, which provided for the transfer of Federal Government personnel to public international organizations, was revoked with certain savings provisions by section 2 of Ex. Ord. No. 10804, Feb. 12, 1959, 24 F.R. 1147, and subsequently revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 
-<a id="section-262"></a>
-## § 262. Privileges, exemptions, and immunities of international organizations
+<a id="section-262c"></a>
+## § 262c. Privileges, exemptions, and immunities of international organizations
 
 International organizations shall enjoy the status, immunities, exemptions, and privileges set forth in this section, as follows:
 
@@ -257,21 +330,38 @@ International organizations shall enjoy the status, immunities, exemptions, and 
 **(d)** Insofar as concerns customs duties and internal-revenue taxes imposed upon or by reason of importation, and the procedures in connection therewith; the registration of foreign agents; and the treatment of official communications, the privileges, exemptions, and immunities to which international organizations shall be entitled shall be those accorded under similar circumstances to foreign governments.
 
 
-<a id="section-262a"></a>
-## § 262a. Exemption from property taxes
+<a id="section-262d"></a>
+## § 262d. Baggage and effects of officers and employees exempted from customs duties and internal revenue taxes
+
+Pursuant to regulations prescribed by the Commissioner of U.S. Customs and Border Protection with the approval of the Secretary of the Treasury, the baggage and effects of alien officers and employees of international organizations, or of aliens designated by foreign governments to serve as their representatives in or to such organizations, or of the families, suites, and servants of such officers, employees, or representatives shall be admitted (when imported in connection with the arrival of the owner) free of customs duties and free of internal-revenue taxes imposed upon or by reason of importation.
+
+### Statutory Notes
+
+#### Change of Name
+“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
+
+#### Transfer of Functions
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
+
+#### Transfer of Functions
+For transfer of functions of other officers, employees, and agencies of the Department of the Treasury, with certain exceptions, to the Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Commissioner of Customs, referred to in text, was an officer of the Treasury Department.
+
+
+<a id="section-262d-1"></a>
+## § 262d–1. Exemption from property taxes
 
 International organizations shall be exempt from all property taxes imposed by, or under the authority of, any Act of Congress, including such Acts as are applicable solely to the District of Columbia or the Territories.
 
 
-<a id="section-262b"></a>
-## § 262b. Privileges, exemptions, and immunities of officers, employees, and their families; waiver
+<a id="section-262e"></a>
+## § 262e. Privileges, exemptions, and immunities of officers, employees, and their families; waiver
 **(a)** Persons designated by foreign governments to serve as their representatives in or to international organizations and the officers and employees of such organizations, and members of the immediate families of such representatives, officers, and employees residing with them, other than nationals of the United States, shall, insofar as concerns laws regulating entry into and departure from the United States, alien registration and fingerprinting, and the registration of foreign agents, be entitled to the same privileges, exemptions, and immunities as are accorded under similar circumstances to officers and employees, respectively, of foreign governments, and members of their families.
 
 **(b)** Representatives of foreign governments in or to international organizations and officers and employees of such organizations shall be immune from suit and legal process relating to acts performed by them in their official capacity and falling within their functions as such representatives, officers, or employees except insofar as such immunity may be waived by the foreign government or international organization concerned.
 
 
-<a id="section-262c"></a>
-## § 262c. Personnel entitled to benefits
+<a id="section-262f"></a>
+## § 262f. Personnel entitled to benefits
 **(a) Notification to and acceptance by Secretary of State of personnel** No person shall be entitled to the benefits of this subchapter, unless he (1) shall have been duly notified to and accepted by the Secretary of State as a representative, officer, or employee; or (2) shall have been designated by the Secretary of State, prior to formal notification and acceptance, as a prospective representative, officer, or employee; or (3) is a member of the family or suite, or servant, of one of the foregoing accepted or designated representatives, officers, or employees.
 
 **(b) Deportation of undesirables** Should the Secretary of State determine that the continued presence in the United States of any person entitled to the benefits of this subchapter is not desirable, he shall so inform the foreign government or international organization concerned, as the case may be, and after such person shall have had a reasonable length of time, to be determined by the Secretary of State, to depart from the United States, he shall cease to be entitled to such benefits.
@@ -284,8 +374,8 @@ International organizations shall be exempt from all property taxes imposed by, 
 This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 
-<a id="section-262d"></a>
-## § 262d. Applicability of reciprocity laws
+<a id="section-262g"></a>
+## § 262g. Applicability of reciprocity laws
 
 The privileges, exemptions, and immunities of international organizations and of their officers and employees, and members of their families, suites, and servants, provided for in this subchapter, shall be granted notwithstanding the fact that the similar privileges, exemptions, and immunities granted to a foreign government, its officers, or employees, may be conditioned upon the existence of reciprocity by that foreign government: Provided, That nothing contained in this subchapter shall be construed as precluding the Secretary of State from withdrawing the privileges, exemptions, and immunities provided in this subchapter from persons who are nationals of any foreign country on the ground that such country is failing to accord corresponding privileges, exemptions, and immunities to citizens of the United States.
 
@@ -295,8 +385,8 @@ The privileges, exemptions, and immunities of international organizations and of
 This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 
-<a id="section-262d-1"></a>
-## § 262d–1. European Space Agency and Organization of Eastern Caribbean States; extension of privileges, exemptions, and immunities to members
+<a id="section-262g-1"></a>
+## § 262g–1. European Space Agency and Organization of Eastern Caribbean States; extension of privileges, exemptions, and immunities to members
 
 The provisions of this subchapter may be extended to the European Space Agency and to the Organization of Eastern Caribbean States (including any office established in the United States by that organization) in the same manner, to the same extent, and subject to the same conditions, as they may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
@@ -314,8 +404,8 @@ This subchapter, referred to in text, was in the original “this title”, mean
 For executive orders designating certain international organizations as public international organizations entitled to enjoy the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (this subchapter), see notes set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288).
 
 
-<a id="section-262e"></a>
-## § 262e. African Union; extension of privileges, exemptions, and immunities
+<a id="section-262g-2"></a>
+## § 262g–2. African Union; extension of privileges, exemptions, and immunities
 **(a)** The provisions of this subchapter may be extended to the African Union and may continue to be extended to the International Labor Organization and the United Nations Industrial Development Organization in the same manner, to the same extent, and subject to the same conditions, as they may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
 **(b)** Under such terms and conditions as the President shall determine, consistent with the purposes of this subchapter, the President is authorized to extend, or enter into an agreement to extend, to the African Union Mission to the United States of America, and to its members, the privileges and immunities enjoyed by diplomatic missions accredited to the United States, and by members of such missions, subject to corresponding conditions and obligations.
@@ -347,8 +437,8 @@ This extension of privileges and immunities is not intended to abridge in any re
 George W. Bush.
 
 
-<a id="section-262f"></a>
-## § 262f. Immunities for International Committee of the Red Cross
+<a id="section-262g-3"></a>
+## § 262g–3. Immunities for International Committee of the Red Cross
 
 The International Committee of the Red Cross, in view of its unique status as an impartial humanitarian body named in the Geneva Conventions of 1949 and assisting in their implementation, shall be considered to be an international organization for the purposes of this subchapter and may be extended the provisions of this subchapter in the same manner, to the same extent, and subject to the same conditions, as such provisions may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
@@ -361,8 +451,8 @@ This subchapter, referred to in text, was in the original “this title”, mean
 For executive orders designating certain international organizations as public international organizations entitled to enjoy the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (this subchapter), see notes set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288).
 
 
-<a id="section-262g"></a>
-## § 262g. International Union for Conservation of Nature and Natural Resources; extension of privileges, exemptions, and immunities
+<a id="section-262h"></a>
+## § 262h. International Union for Conservation of Nature and Natural Resources; extension of privileges, exemptions, and immunities
 
 The International Union for Conservation of Nature and Natural Resources shall be considered to be an international organization for the purposes of this subchapter and may be extended the provisions of this subchapter in the same manner, to the same extent, and subject to the same conditions, as such provisions may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
@@ -372,8 +462,8 @@ The International Union for Conservation of Nature and Natural Resources shall b
 This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 
-<a id="section-262g-1"></a>
-## § 262g–1. European Central Bank; extension of privileges, exemptions, and immunities
+<a id="section-262i"></a>
+## § 262i. European Central Bank; extension of privileges, exemptions, and immunities
 
 The provisions of this subchapter may be extended to the European Central Bank in the same manner, to the same extent, and subject to the same conditions, as they may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
@@ -383,8 +473,8 @@ The provisions of this subchapter may be extended to the European Central Bank i
 This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 
-<a id="section-262g-2"></a>
-## § 262g–2. Global Fund to Fight AIDS, Tuberculosis and Malaria; extension of privileges, exemptions, and immunities
+<a id="section-262j"></a>
+## § 262j. Global Fund to Fight AIDS, Tuberculosis and Malaria; extension of privileges, exemptions, and immunities
 
 The provisions of this subchapter may be extended to the Global Fund to Fight AIDS, Tuberculosis and Malaria in the same manner, to the same extent, and subject to the same conditions, as they may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
@@ -394,8 +484,8 @@ The provisions of this subchapter may be extended to the Global Fund to Fight AI
 This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 
-<a id="section-262g-3"></a>
-## § 262g–3. Office of the High Representative in Bosnia and Herzegovina and the International Civilian Office in Kosovo; extension of privileges, exemptions, and immunities
+<a id="section-262k"></a>
+## § 262k. Office of the High Representative in Bosnia and Herzegovina and the International Civilian Office in Kosovo; extension of privileges, exemptions, and immunities
 
 The provisions of this subchapter may be extended to the Office of the High Representative in Bosnia and Herzegovina (and to its officers and employees) or the International Civilian Office in Kosovo (and to its officers and employees) in the same manner, to the same extent, and subject to the same conditions, as such provisions may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation. Any such extension may provide for the provisions of this subchapter to continue to extend to the Office of the High Representative in Bosnia and Herzegovina (and to its officers and employees) or the International Civilian Office in Kosovo (and to its officers and employees) after that Office has been dissolved.
 
@@ -405,8 +495,8 @@ The provisions of this subchapter may be extended to the Office of the High Repr
 This subchapter, referred to in text, was in the original “this title”, meaning title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under [section 288 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-288) and Tables.
 
 
-<a id="section-262h"></a>
-## § 262h. Organization of American States; extension of privileges and immunities to members
+<a id="section-262k-1"></a>
+## § 262k–1. Organization of American States; extension of privileges and immunities to members
 
 Under such terms and conditions as he shall determine, the President is hereby authorized to extend, or to enter into an agreement extending, to the representatives of member states (other than the United States) to the Organization of American States and to permanent observers to the Organization of American States, and to members of the staffs of said representatives and permanent observers, the same privileges and immunities, subject to corresponding conditions and obligations, as are enjoyed by diplomatic envoys accredited to the United States.
 
@@ -428,8 +518,8 @@ This Executive order shall be effective as of November 7, 1973. The enjoyment of
 Gerald R. Ford.
 
 
-<a id="section-262i"></a>
-## § 262i. Commission of European Communities; extension of privileges and immunities to members
+<a id="section-262k-2"></a>
+## § 262k–2. Commission of European Communities; extension of privileges and immunities to members
 
 Under such terms and conditions as he shall determine and consonant with the purposes of this section, the President is authorized to extend, or to enter into an agreement extending, to the Mission to the United States of America of the Commission of the European Communities, and to members thereof, the same privileges and immunities subject to corresponding conditions and obligations as are enjoyed by diplomatic missions accredited to the United States and by members thereof. Under such terms and conditions as the President may determine, the President is authorized to extend to other offices of the Commission of the European Communities which are established in the United States, and to members thereof—
 
@@ -472,8 +562,8 @@ By virtue of the authority vested in me by the Act of October 18, 1972 (Public L
 Richard Nixon.
 
 
-<a id="section-262j"></a>
-## § 262j. Liaison Office of the People’s Republic of China; extension of privileges and immunities to members
+<a id="section-262l"></a>
+## § 262l. Liaison Office of the People’s Republic of China; extension of privileges and immunities to members
 
 Under such terms and conditions as he shall determine and consonant with the purposes of this section, the President is authorized to extend to the Liaison Office of the People’s Republic of China in Washington and to the members thereof the same privileges and immunities subject to corresponding conditions and obligations as are enjoyed by diplomatic missions accredited to the United States and by members thereof.
 
@@ -486,8 +576,8 @@ Section was not enacted as part of the International Organizations Immunities Ac
 Ex. Ord. No. 11771, Mar. 18, 1974, 39 F.R. 10415, which extended diplomatic privileges and immunities to the Liaison Office of the People’s Republic of China in Washington, D.C., was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 
-<a id="section-262k"></a>
-## § 262k. International Development Law Institute
+<a id="section-262l-1"></a>
+## § 262l–1. International Development Law Institute
 
 For purposes of the International Organizations Immunities Act ([22 U.S.C. 288](./chapter-007-international-bureaus-congresses-etc.md#section-288) and following), the International Development Law Institute shall be considered to be a public international organization in which the United States participates under the authority of an Act of Congress authorizing such participation.
 
@@ -500,8 +590,8 @@ The International Organizations Immunities Act, referred to in text, is title I 
 Section was enacted as part of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992, also known as the FREEDOM Support Act, and not as part of the International Organizations Immunities Act which comprises this subchapter.
 
 
-<a id="section-262k-1"></a>
-## § 262k–1. Extension of certain privileges, exemptions, and immunities to Hong Kong Economic and Trade Offices
+<a id="section-262l-2"></a>
+## § 262l–2. Extension of certain privileges, exemptions, and immunities to Hong Kong Economic and Trade Offices
 **(a) Application of International Organizations Immunities Act** The provisions of the International Organizations Immunities Act ([22 U.S.C. 288](./chapter-007-international-bureaus-congresses-etc.md#section-288) et seq.) may be extended to the Hong Kong Economic and Trade Offices in the same manner, to the same extent, and subject to the same conditions as such provisions may be extended to a public international organization in which the United States participates pursuant to any treaty or under the authority of any Act of Congress authorizing such participation or making an appropriation for such participation.
 
 **(b) Application of international agreement on certain State and local taxation** The President is authorized to apply the provisions of Article I of the Agreement on State and Local Taxation of Foreign Employees of Public International Organizations, done at Washington on April 21, 1994, to the Hong Kong Economic and Trade Offices.
@@ -517,8 +607,8 @@ The International Organizations Immunities Act, referred to in subsec. (a), is t
 Section was not enacted as part of the International Organizations Immunities Act which comprises this subchapter.
 
 
-<a id="section-262k-2"></a>
-## § 262k–2. The Holy See
+<a id="section-262l-3"></a>
+## § 262l–3. The Holy See
 
 Under such terms and conditions as the President shall determine, the President is authorized to extend, or to enter into an agreement to extend, to the Permanent Observer Mission of the Holy See to the United Nations in New York, and to its members, the privileges and immunities enjoyed by the diplomatic missions of member states to the United Nations, and their members, subject to corresponding conditions and obligations.
 
@@ -537,20 +627,20 @@ This extension of privileges and immunities is not intended to abridge in any re
 George W. Bush.
 
 
-<a id="section-262l"></a>
-## § 262l. Acceptance of membership by the United States; conditions
+<a id="section-262m"></a>
+## § 262m. Acceptance of membership by the United States; conditions
 
 The President is hereby authorized to accept membership for the United States in the International Refugee Organization (hereinafter referred to as the “Organization”), the constitution of which was approved in New York on December 15, 1946, by the General Assembly of the United Nations, and deposited in the archives of the United Nations: Provided, however, That this authority is granted and the approval of the Congress of the acceptance of membership of the United States in the International Refugee Organization is given upon condition and with the reservation that no agreement shall be concluded on behalf of the United States and no action shall be taken by any officer, agency, or any other person and acceptance of the constitution of the Organization by or on behalf of the Government of the United States shall not constitute or authorize action (1) whereby any person shall be admitted to or settled or resettled in the United States or any of its Territories or possessions without prior approval thereof by the Congress, and this subchapter shall not be construed as such prior approval, or (2) which will have the effect of abrogating, suspending, modifying, adding to, or superseding any of the immigration laws or any other laws of the United States.
 
 
-<a id="section-262l-1"></a>
-## § 262l–1. Designation of representative and alternates; compensation
+<a id="section-262m-1"></a>
+## § 262m–1. Designation of representative and alternates; compensation
 
 The President shall designate from time to time a representative of the United States and not to exceed two alternates to attend a specified session or specified sessions of the general council of the Organization. Whenever the United States is elected to membership on the executive committee, the President shall designate from time to time, either from among the aforesaid representative and alternates or otherwise, a representative of the United States and not to exceed one alternate to attend sessions of the executive committee. Such representative or representatives shall each be entitled to receive compensation at a rate not to exceed $12,000 per annum, and any such alternate shall be entitled to receive compensation at a rate not to exceed $10,000 per annum, for such period or periods as the President may specify, except that no Member of the Senate or House of Representatives or officer of the United States who is designated as such a representative shall be entitled to receive such compensation.
 
 
-<a id="section-262l-2"></a>
-## § 262l–2. Authorization of appropriations; payment of salaries and expenses
+<a id="section-262m-2"></a>
+## § 262m–2. Authorization of appropriations; payment of salaries and expenses
 
 There is hereby authorized to be appropriated annually to the Department of State—
 
@@ -577,8 +667,8 @@ In subsec. (b)(1), “chapter 51 and subchapter III of chapter 53 of title 5” 
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 
-<a id="section-262l-3"></a>
-## § 262l–3. Transfer of funds; furnishing supplies and services; accounting for reimbursements
+<a id="section-262m-3"></a>
+## § 262m–3. Transfer of funds; furnishing supplies and services; accounting for reimbursements
 **(a)** Sums from the appropriations made pursuant to subsection (a) of [section 289b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-289b) may be transferred to any department, agency, or independent establishment of the Government to carry out the purposes of such subsection, and such sums shall be available for obligation and expenditure in accordance with the laws governing obligations and expenditures of the department, agency, independent establishment, or organizational unit thereof concerned, and without regard to section 3324(a) and (b) of title 31 and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim).
 
 **(b)** Upon request of the Organization, any department, agency, or independent establishment of the Government (upon receipt of advancements or reimbursements for the cost and necessary expenses) may furnish supplies, or if advancements are made may procure and furnish supplies, and may furnish or procure and furnish services, to the Organization. When reimbursement is made it shall be credited, at the option of the department, agency, or independent establishment concerned, either to the appropriation, fund, or account utilized in incurring the obligation, or to an appropriate appropriation fund, or account which is current at the time of such reimbursement.
@@ -592,8 +682,8 @@ In subsec. (a), “section 3324(a) and (b) of title 31 and [section 6101 of titl
 1966—Subsec. (b). Pub. L. 89–554 struck out proviso which excepted certain personnel from the ceiling imposed by section 947 of former title 5.
 
 
-<a id="section-262m"></a>
-## § 262m. Omitted
+<a id="section-262m-4"></a>
+## § 262m–4. Omitted
 
 ### Statutory Notes
 
@@ -601,8 +691,8 @@ In subsec. (a), “section 3324(a) and (b) of title 31 and [section 6101 of titl
 Section, act July 1, 1947, ch. 185, § 5, 61 Stat. 216, authorized appropriations in the form of advance contributions to the Preparatory Commission of the Organization during the interim period between July 1, 1947 and the coming into force of the constitution of the Organization.
 
 
-<a id="section-262m-1"></a>
-## § 262m–1. Acceptance of membership by the United States
+<a id="section-262m-5"></a>
+## § 262m–5. Acceptance of membership by the United States
 
 The President is hereby authorized to accept membership for the United States in the World Health Organization (hereinafter referred to as the Organization), the constitution of which was adopted in New York on July 22, 1946, by the International Health Conference for the establishment of an International Health Organization, and deposited in the archives of the United Nations.
 
@@ -611,14 +701,14 @@ The President is hereby authorized to accept membership for the United States in
 #### Participation of Taiwan in the World Health Organization
 Pub. L. 108–235, § 1, June 14, 2004, 118 Stat. 656, as amended by Pub. L. 117–124, § 1(b)(1), May 13, 2022, 136 Stat. 1203, provided that: “(a) Findings.—Congress makes the following findings:“(1) Good health is important to every citizen of the world and access to the highest standards of health information and services is necessary to improve the public health. “(2) Direct and unobstructed participation in international health cooperation forums and programs is beneficial for all parts of the world, especially today with the great potential for the cross-border spread of various infectious diseases such as the human immunodeficiency virus (HIV), tuberculosis, and malaria. “(3) Taiwan’s population of 23,500,000 people is greater than that of ¾ of the member states already in the World Health Organization (WHO). “(4) Taiwan’s achievements in the field of health are substantial, including—“(A) attaining—“(i) 1 of the highest life expectancy levels in Asia; and “(ii) maternal and infant mortality rates comparable to those of western countries; “(B) eradicating such infectious diseases as cholera, smallpox, the plague, and polio; and “(C) providing children with hepatitis B vaccinations. “(5) The United States Centers for Disease Control and Prevention and its counterpart agencies in Taiwan have enjoyed close collaboration on a wide range of public health issues. “(6) In recent years Taiwan has expressed a willingness to assist financially and technically in international aid and health activities supported by the WHO. “(7) On January 14, 2001, an earthquake, registering between 7.6 and 7.9 on the Richter scale, struck El Salvador. In response, the Taiwanese Government sent 2 rescue teams, consisting of 90 individuals specializing in firefighting, medicine, and civil engineering. The Taiwanese Ministry of Foreign Affairs also donated $200,000 in relief aid to the Salvadoran Government. “(8) The World Health Assembly has allowed observers to participate in the activities of the organization, including the Palestine Liberation Organization in 1974, the Order of Malta, and the Holy See in the early 1950’s. “(9) The United States, in the 1994 Taiwan Policy Review, declared its intention to support Taiwan’s participation in appropriate international organizations. “(10) Public Law 106–137 [113 Stat. 1691] required the Secretary of State to submit a report to Congress on efforts by the executive branch to support Taiwan’s participation in international organizations, in particular the WHO. “(11) In light of all benefits that Taiwan’s participation in the WHO can bring to the state of health not only in Taiwan, but also regionally and globally, Taiwan and its 23,500,000 people should have appropriate and meaningful participation in the WHO. “(12) On May 11, 2001, President Bush stated in a letter to Senator Murkowski that the United States ‘should find opportunities for Taiwan’s voice to be heard in international organizations in order to make a contribution, even if membership is not possible’, further stating that the administration ‘has focused on finding concrete ways for Taiwan to benefit and contribute to the WHO’. “(13) In his speech made in the World Medical Association on May 14, 2002, Secretary of Health and Human Services Tommy Thompson announced ‘America’s work for a healthy world cuts across political lines. That is why my government supports Taiwan’s efforts to gain observership status at the World Health Assembly. We know this is a controversial issue, but we do not shrink from taking a public stance on it. The people of Taiwan deserve the same level of public health as citizens of every nation on earth, and we support them in their efforts to achieve it’. “(14) The Government of the Republic of China on Taiwan, in response to an appeal from the United Nations and the United States for resources to control the spread of HIV/AIDS, donated $1,000,000 to the Global Fund to Fight AIDS, Tuberculosis, and Malaria in December 2002. “(15) In 2003, the outbreak of Severe Acute Respiratory Syndrome (SARS) caused 84 deaths in Taiwan. “(16) Avian influenza, commonly known as bird flu, has reemerged in Asia, with strains of the influenza reported by the People’s Republic of China, Cambodia, Indonesia, Japan, Pakistan, South Korea, Taiwan, Thailand, Vietnam, and Laos. “(17) The SARS and avian influenza outbreaks illustrate that disease knows no boundaries and emphasize the importance of allowing all people access to the WHO. “(18) As the pace of globalization quickens and the spread of infectious disease accelerates, it is crucial that all people, including the people of Taiwan, be given the opportunity to participate in international health organizations such as the WHO. “(19) The Secretary of Health and Human Services acknowledged during the 2003 World Health Assembly meeting that ‘[t]he need for effective public health exists among all peoples’. “(b) Plan.—The Secretary of State is authorized to—“(1) initiate a United States plan to endorse and obtain observer status for Taiwan at the annual week-long summit of the World Health Assembly each year in Geneva, Switzerland; “(2) instruct the United States delegation to the World Health Assembly in Geneva to implement that plan; and “(3) introduce a resolution in support of observer status for Taiwan at the summit of the World Health Assembly. “(c) Report Concerning Observer Status for Taiwan at the Summit of the World Health Assembly.—Not later than 30 days after the date of the enactment of this Act [June 14, 2004], and not later than April 1 of each year thereafter, the Secretary of State shall submit a report to the Congress, in unclassified form, describing the United States plan to endorse and obtain observer status for Taiwan at the annual week-long summit of the World Health Assembly (WHA) held by the World Health Organization (WHO) in May of each year in Geneva, Switzerland. Each report shall include the following:“(1) An account of the efforts the Secretary of State has made, following the last meeting of the World Health Assembly, to encourage WHO member states to promote Taiwan’s bid to obtain observer status. “(2) The steps the Secretary of State will take to endorse and obtain observer status at the next annual meeting of the World Health Assembly in Geneva, Switzerland. “(3) An account of the changes and improvements the Secretary of State has made to the United States plan to endorse and obtain observer status for Taiwan at the World Health Assembly, following any annual meetings of the World Health Assembly at which Taiwan did not obtain observer status.”
 
-[Pub. L. 117–124, § 1(b)(2), May 13, 2022, 136 Stat. 1203, provided that: “The amendment made by paragraph (1) [amending section 1 of Pub. L. 108–235, set out above] shall take effect and apply beginning with the first report required under subsection (c) of section 1 of the Act entitled, ‘To address the participation of Taiwan in the World Health Organization’ (Public Law 108–235; [22 U.S.C. 290](./chapter-007-international-bureaus-congresses-etc.md#section-290) note) that is submitted after the date of the enactment of this Act [May 13, 2022].”
+[Pub. L. 117–124, § 1(b)(2), May 13, 2022, 136 Stat. 1203, provided that: “The amendment made by paragraph (1) [amending section 1 of Pub. L. 108–235, set out above] shall take effect and apply beginning with the first report required under subsection (c) of section 1 of the Act entitled, ‘To address the participation of Taiwan in the World Health Organization’ (Public Law 108–235; [22 U.S.C. 290](./chapter-007-international-bureaus-congresses-etc.md#section-290) note) that is submitted after the date of the enactment of this Act [May 13, 2022].” ]
 
 #### International Health Administration
 Ex. Ord. No. 10399, Sept. 29, 1952, 17 F.R. 8648, designated Surgeon General to perform certain duties under International Sanitary Regulations of World Health Organization.
 
 
-<a id="section-262m-2"></a>
-## § 262m–2. Designation of representatives and alternates; compensation; loyalty checkup
+<a id="section-262m-6"></a>
+## § 262m–6. Designation of representatives and alternates; compensation; loyalty checkup
 
 The President shall designate from time to time to attend a specified session or specified sessions of the World Health Assembly of the Organization not to exceed three delegates of the United States and such number of alternates as he may determine consistent with the rules of procedure of the World Health Assembly. One of the delegates shall be designated as the chief delegate. Whenever the United States becomes entitled to designate a person to serve on the Executive Board of the Organization, under article 24 of the constitution of the Organization, the President shall designate a representative of the United States, by and with the advice and consent of the Senate, and may designate not to exceed one alternate to attend sessions of the Executive Board. Such representative must be a graduate of a recognized medical school and have spent not less than three years in active practice as a physician or surgeon. Such representative and any such alternate shall each be entitled to receive compensation at one of the rates established under section 3962 or 3963 of this title, for such period or periods as the President may specify, except that no Member of the Senate or House of Representatives or officer of the United States who is thus designated shall be entitled to receive such compensation: Provided, That no person shall serve as such representative, delegate, or alternate until such person has been investigated as to loyalty and security by the Director of the Office of Personnel Management.
 
@@ -641,8 +731,8 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 “Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 
-<a id="section-262m-3"></a>
-## § 262m–3. Authorization of appropriations; payment of salaries and expenses
+<a id="section-262m-7"></a>
+## § 262m–7. Authorization of appropriations; payment of salaries and expenses
 
 There are hereby authorized to be appropriated to the Department of State for contribution to the working capital fund of the organization the sum of $560,000 and as annual appropriations the following:
 
@@ -687,32 +777,32 @@ Annual appropriations to meet the obligations of membership in various internati
 Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950; consent by State Department and reports to Congress, see [section 262a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262a).
 
 
-<a id="section-262m-4"></a>
-## § 262m–4. Withdrawal from Organization on one-year notice
+<a id="section-262m-8"></a>
+## § 262m–8. Withdrawal from Organization on one-year notice
 
 In adopting this subchapter the Congress does so with the understanding that, in the absence of any provision in the World Health Organization Constitution for withdrawal from the Organization, the United States reserves its right to withdraw from the Organization on a one-year notice: Provided, however, That the financial obligations of the United States to the Organization shall be met in full for the Organization’s current fiscal year.
 
 
-<a id="section-262m-5"></a>
-## § 262m–5. Enactment of specific legislation by Congress
+<a id="section-262n"></a>
+## § 262n. Enactment of specific legislation by Congress
 
 In adopting this subchapter, the Congress does so with the understanding that nothing in the Constitution of the World Health Organization in any manner commits the United States to enact any specific legislative program regarding any matters referred to in said Constitution.
 
 
-<a id="section-262m-6"></a>
-## § 262m–6. Congressional declaration of policy
+<a id="section-262n-1"></a>
+## § 262n–1. Congressional declaration of policy
 
 The Congress of the United States, recognizing that the diseases of mankind, because of their widespread prevalence, debilitating effects, and heavy toll in human life, constitute a major deterrent to the efforts of many peoples to develop their economic resources and productive capacities, and to improve their living conditions, declares it to be the policy of the United States to continue and strengthen mutual efforts among the nations for research against diseases such as heart disease and cancer. In furtherance of this policy, the Congress invites the World Health Organization to initiate studies looking toward the strengthening of research and related programs against these and other diseases common to mankind or unique to individual regions of the globe.
 
 
-<a id="section-262m-7"></a>
-## § 262m–7. International Agency for Research on Cancer; authorization of appropriations; limitation
+<a id="section-262n-2"></a>
+## § 262n–2. International Agency for Research on Cancer; authorization of appropriations; limitation
 
 There are hereby authorized to be appropriated such sums as may be necessary for the annual payment by the United States of its share of the expenses of the International Agency for Research on Cancer as determined in accordance with article VIII of the Statute of the International Agency for Research on Cancer, except that in no event shall that payment for any year exceed 16 per centum of all contributions assessed Participating Members of the Agency for that year.
 
 
-<a id="section-262m-8"></a>
-## § 262m–8. Inter-American Foundation
+<a id="section-262n-3"></a>
+## § 262n–3. Inter-American Foundation
 **(a) Establishment** There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
 
 **(b) Congressional declaration of purpose** The future of freedom, security, and economic development in the Western Hemisphere rests on the realization that man is the foundation of all human progress. It is the purpose of this section to provide support for developmental activities designed to achieve conditions in the Western Hemisphere under which the dignity and the worth of each human person will be respected and under which all men will be afforded the opportunity to develop their potential, to seek through gainful and productive work the fulfillment of their aspirations for a better life, and to live in justice and peace. To this end, it shall be the purpose of the Foundation, primarily in cooperation with private, regional, and international organizations, to—
@@ -861,8 +951,8 @@ Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 586], Nov. 29, 1999, 113 S
 Pub. L. 102–138, title I, § 173(b)(2), Oct. 28, 1991, 105 Stat. 680, provided that: “The requirements established by the amendment made by paragraph (1) [amending this section] do not affect appointments made to the Board of the Inter-American Foundation before the date of enactment of this Act [Oct. 28, 1991].”
 
 
-<a id="section-262n"></a>
-## § 262n. African Development Fund; United States participation
+<a id="section-262o"></a>
+## § 262o. African Development Fund; United States participation
 
 The President is hereby authorized to accept participation for the United States in the African Development Fund (hereinafter referred to as the “Fund”) provided for by the agreement establishing the Fund (hereinafter referred to as the “agreement”) deposited in the Archives of the United Nations.
 
@@ -872,8 +962,8 @@ The President is hereby authorized to accept participation for the United States
 Pub. L. 94–302, title II, § 201, May 31, 1976, 90 Stat. 593, provided that: “This title [enacting this subchapter] may be cited as the ‘African Development Fund Act’.”
 
 
-<a id="section-262n-1"></a>
-## § 262n–1. Appointment of Governor and Alternate Governor; rank, duties, and compensation
+<a id="section-262o-1"></a>
+## § 262o–1. Appointment of Governor and Alternate Governor; rank, duties, and compensation
 **(a)** The President shall appoint a Governor, and an Alternate Governor, of the Fund—
 
 (1) by and with the advice and consent of the Senate; or
@@ -899,8 +989,8 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
 
-<a id="section-262n-2"></a>
-## § 262n–2. Law governing reports to the President and the Congress
+<a id="section-262o-2"></a>
+## § 262o–2. Law governing reports to the President and the Congress
 
 The provisions of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b), shall apply with respect to the Fund to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
@@ -910,8 +1000,8 @@ The provisions of [section 286b of this title](./chapter-007-international-burea
 1989—Pub. L. 101–240 struck out at end “Reports with respect to the Fund under paragraphs (5) and (6) of [section 286b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286b/b&num=0&edition=prelim), shall be included in the first report made thereunder after the United States accepts participation in the Fund.”
 
 
-<a id="section-262n-3"></a>
-## § 262n–3. Specific actions requiring Congressional authorization
+<a id="section-262o-3"></a>
+## § 262o–3. Specific actions requiring Congressional authorization
 
 Unless Congress by law authorizes such action, neither the President nor any person or agency shall, on behalf of the United States:
 
@@ -922,72 +1012,85 @@ Unless Congress by law authorizes such action, neither the President nor any per
 **(c)** make a loan or provide other financing to the Fund, except that funds for technical assistance may be provided to the Fund by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 
 
-<a id="section-262o"></a>
-## § 262o. Authorization of appropriations; repayments and distributions from Fund to Treasury
+<a id="section-262o-4"></a>
+## § 262o–4. Authorization of appropriations; repayments and distributions from Fund to Treasury
 **(a)** There is hereby authorized to be appropriated without fiscal year limitation, as the United States subscription, $25,000,000 to be paid by the Secretary of the Treasury to the Fund in three annual installments of $9,000,000, $8,000,000, and $8,000,000.
 
 **(b)** Any repayment or distribution of moneys from the Fund to the United States shall be covered into the Treasury as a miscellaneous receipt.
 
 
-<a id="section-262o-1"></a>
-## § 262o–1. Federal Reserve banks as depository for the Fund; supervision
+<a id="section-262p"></a>
+## § 262p. Federal Reserve banks as depository for the Fund; supervision
 
 Any Federal Reserve bank which is requested to do so by the President shall act as a depository for the Fund, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 
-<a id="section-262o-2"></a>
-## § 262o–2. Civil action by or against the Fund; service of process, venue, jurisdiction, removal of actions
+<a id="section-262p-1"></a>
+## § 262p–1. Civil action by or against the Fund; service of process, venue, jurisdiction, removal of actions
 
 For the purpose of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Fund in accordance with the agreement, the Fund shall be deemed to be an inhabitant of the Federal judicial district in which its principal office or agency appointed for the purpose of accepting service or notice of service is located, and any such action to which the Fund shall be party shall be deemed to arise under the laws of the United States, and the district courts of the United States (including the courts enumerated in [section 460 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section460&num=0&edition=prelim)) shall have original jurisdiction of any such action. When the Fund is defendant in any action in a State court, it may, at any time before the trial thereof, remove such action into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
 
-<a id="section-262o-3"></a>
-## § 262o–3. Force and effect of agreement; deposit of documents by the President; reservation of right to tax salaries and emoluments paid by the Fund to United States citizens or nationals
+<a id="section-262p-10"></a>
+## § 262p–10. Government corporation control provisions applicable
 
-The agreement, including without limitation articles 41 through 50, shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon the acceptance of participation by the United States in, and the entry into force of, the Fund. The President, at the time of deposit of the instrument of acceptance of participation of the United States in the Fund, shall also deposit a declaration that the United States retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Fund to its citizens or nationals and may deposit a declaration providing for reservations on other matters set forth in article 58.
-
-
-<a id="section-262o-4"></a>
-## § 262o–4. Presidential instructions to United States Governor of the Fund to veto any use of funds to benefit a country pursuing a detrimental economic policy against United States interests; exceptions
-
-The President shall instruct the United States Governor of the Fund to cause the Executive Director representing the United States in the Fund to cast the votes of the United States against any loan or other utilization of the funds of the Fund for the benefit of any country which has—
-
-(1) nationalized or expropriated or seized ownership or control of property owned by any United States citizen or by any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens;
-
-(2) taken steps to repudiate or nullify existing contracts or agreements with any United States citizen or any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens; or
-
-(3) imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned;
-unless the President determines that (A) an arrangement for prompt, adequate, and effective compensation has been made, (B) the parties have submitted the dispute to arbitration under the rules of the Convention for the Settlement of Investment Disputes, or (C) good faith negotiations are in progress aimed at providing prompt, adequate, and effective compensation under the applicable principles of international law.
-
-
-<a id="section-262p"></a>
-## § 262p. Repealed. Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070
+The Foundation shall be subject to the provisions of chapter 91 of title 31 applicable to wholly owned Government corporations.
 
 ### Statutory Notes
 
-Section, Pub. L. 94–302, title II, § 211, May 31, 1976, 90 Stat. 595; H. Res. 5, Jan. 4, 1977, set forth provisions relating to United States participation in financial assistance by the African Development Fund to any country engaging in a consistent pattern of gross violations of internationally recognized human rights. See [section 262d of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262d).
-
-#### Effective Date of Repeal
-Repeal effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as an Effective Date note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
+#### Codification
+“The provisions of chapter 91 of title 31 applicable to wholly owned Government corporations” substituted in text for “title I of the Government Corporation Control Act [[31 U.S.C. 846](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section846&num=0&edition=prelim) et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 
-<a id="section-262p-1"></a>
-## § 262p–1. Additional authorization for contribution to African Development Fund
-**(a) Payment of United States contribution; review of payment and voting structure with other donor nations** The United States Governor is authorized to contribute on behalf of the United States $50,000,000 to the African Development Fund, which would represent an additional United States contribution to the first replenishment. The Secretary of the Treasury is directed to begin discussions with other donor nations to the African Development Fund for the purpose of setting amounts and of reviewing and possibly changing the voting structure within the Fund: Provided, however, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
+<a id="section-262p-11"></a>
+## § 262p–11. Limitation on spending authority
 
-**(b) Authorization of appropriations** In order to pay for the United States contribution to the African Development Fund provided for in this section there are authorized to be appropriated without fiscal year limitation $50,000,000 for payment by the Secretary of the Treasury.
+Any authority provided by this subchapter involving the expenditure of funds (other than the funds made available pursuant to [section 290h–8 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290h-8)) shall be effective for a fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
+
+
+<a id="section-262p-12"></a>
+## § 262p–12. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this subchapter, in addition to amounts otherwise available for that purpose, $3,872,000 for fiscal year 1986 and $3,872,000 for fiscal year 1987. Funds appropriated under this section are authorized to remain available until expended.
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 211 of Pub. L. 94–302 was classified to [section 290g–9 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290g-9) prior to repeal by Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070.
+#### Amendments
+1985—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “Of the funds appropriated to carry out part I of the Foreign Assistance Act of 1961, other than funds appropriated for the Economic Support Fund, not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983 shall be used to carry out this subchapter.”
+
+1981—Pub. L. 97–113 struck out “for the fiscal year 1981” after “Of the funds appropriated” and substituted “not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983” for “$2,000,000”.
+
+#### Effective Date of 1985 Amendment
+Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
+
+
+<a id="section-262p-12a"></a>
+## § 262p–12a. Repealed. Pub. L. 101–167, title II, Nov. 21, 1989, 103 Stat. 1209
+
+### Statutory Notes
+
+Section, Pub. L. 96–533, title V, § 511, Dec. 16, 1980, 94 Stat. 3155; Pub. L. 99–83, title VIII, § 810(b), Aug. 8, 1985, 99 Stat. 264, related to expiration of authority of Foundation.
+
+
+<a id="section-262p-13"></a>
+## § 262p–13. Acceptance of membership
+
+The President is hereby authorized to accept membership for the United States in the African Development Bank (hereinafter in this subchapter referred to as the “Bank”) provided for by the agreement establishing the Bank (hereinafter in this subchapter referred to as the “agreement”) deposited in the archives of the United Nations.
+
+### Statutory Notes
+
+#### References in Text
+This subchapter, referred to in text, was in the original “this part”, meaning part 3 of subtitle B of title XIII of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 741, known as the African Development Bank Act, which enacted this subchapter and amended sections 262d, 262f, and 276c–2 of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking. For complete classification of part 3 to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date
-Section effective Oct. 3, 1977, except that no funds authorized to be appropriated by this section may be available for use or obligation prior to Oct. 1, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
+Pub. L. 97–35, title XIII, § 1372, Aug. 13, 1981, 95 Stat. 746, provided that: “This subtitle [subtitle B (§§ 1311–1372) of title XIII of Pub. L. 97–35, enacting this subchapter and sections 262g–1 to 262g–3, 283z–2, 284o, 285w, and 286e–1h of this title, amending sections 262d, 262f, 262g, 276c–2, 283w, 283z–1, 285s, 285t, 285u, 286e–1f, and 286u of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking, repealing [section 286e–10 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-10), and enacting provisions set out as notes under sections 262c, 262g–2, and 290i of this title] shall take effect upon its enactment [Aug. 13, 1981], except that funds authorized to be appropriated by any provision contained in part 1 [enacting [section 286e–1h of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-1h) and amending [section 286e–1f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-1f)] or part 4 [enacting sections 283z–2 and 285w of this title and amending sections 283w, 283z–1, 285s, 285t, and 285u of this title] shall not be available for use or obligation prior to October 1, 1981.”
+
+#### Short Title
+Pub. L. 97–35, title XIII, § 1331, Aug. 13, 1981, 95 Stat. 741, provided that: “This part [part 3 (§§ 1331–1342) of subtitle B of title XIII of Pub. L. 97–35, enacting this subchapter and amending sections 262d, 262f, and 276c–2 of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking] may be cited as the ‘African Development Bank Act’.”
 
 
-<a id="section-262p-10"></a>
-## § 262p–10. Governor and Alternate Governor
+<a id="section-262p-14"></a>
+## § 262p–14. Governor and Alternate Governor
 **(a) Appointment** The President shall appoint a Governor and an Alternate Governor of the Bank—
 
 (1) by and with the advice and consent of the Senate; or
@@ -1014,8 +1117,8 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 Functions of President under subsec. (c) delegated to Secretary of the Treasury, see Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087.
 
 
-<a id="section-262p-11"></a>
-## § 262p–11. Director or Alternate Director; allowances
+<a id="section-262p-15"></a>
+## § 262p–15. Director or Alternate Director; allowances
 **(a)** The President, by and with the advice and consent of the Senate, shall appoint a Director of the Bank.
 
 **(b)** The Director or Alternate Director representing the United States, if citizens of the United States, may, in the discretion of the President, receive such compensation, allowances, and other benefits as, together with those received from the Bank and from the African Development Fund, may not exceed those authorized for a chief of mission under the Foreign Service Act of 1980 [[22 U.S.C. 3901](./chapter-052-foreign-service.md#section-3901) et seq.].
@@ -1035,8 +1138,8 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 Functions of President under this section delegated to Secretary of the Treasury, see Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087.
 
 
-<a id="section-262p-12"></a>
-## § 262p–12. Applicability of Bretton Woods Agreements Act
+<a id="section-262p-16"></a>
+## § 262p–16. Applicability of Bretton Woods Agreements Act
 
 The provisions of section 4 of the Bretton Woods Agreements Act ([22 U.S.C. 286b](./chapter-007-international-bureaus-congresses-etc.md#section-286b)) shall apply with respect to the Bank to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
@@ -1049,8 +1152,8 @@ The Bretton Woods Agreements Act, referred to in section catchline, is act July 
 1989—Pub. L. 101–240 struck out at end “Reports with respect to the Bank under paragraphs (5) and (6) of section 4 of that Act shall be included in the first and subsequent reports made thereunder after the United States accepts membership in the Bank.”
 
 
-<a id="section-262p-13"></a>
-## § 262p–13. Restrictions
+<a id="section-262p-17"></a>
+## § 262p–17. Restrictions
 **(a)** 11 So in original. No subsec. (b) has been enacted. Unless authorized by law, neither the President, nor any person or agency, shall, on behalf of the United States—
 
 (1) subscribe to additional shares of stock of the Bank;
@@ -1060,28 +1163,53 @@ The Bretton Woods Agreements Act, referred to in section catchline, is act July 
 (3) make a loan or provide other financing to the Bank, except that funds for technical assistance may be provided to the Bank by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 
 
-<a id="section-262p-14"></a>
-## § 262p–14. Federal Reserve banks as depositories
+<a id="section-262p-2"></a>
+## § 262p–2. Force and effect of agreement; deposit of documents by the President; reservation of right to tax salaries and emoluments paid by the Fund to United States citizens or nationals
 
-Any Federal Reserve bank which is requested to do so by the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
+The agreement, including without limitation articles 41 through 50, shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon the acceptance of participation by the United States in, and the entry into force of, the Fund. The President, at the time of deposit of the instrument of acceptance of participation of the United States in the Fund, shall also deposit a declaration that the United States retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Fund to its citizens or nationals and may deposit a declaration providing for reservations on other matters set forth in article 58.
 
 
-<a id="section-262p-15"></a>
-## § 262p–15. Subscription to stock
-**(a) Authorization of United States subscription to stock** The President is authorized to agree to subscribe on behalf of the United States to twenty-nine thousand eight hundred and twenty shares of the capital stock of the Bank: Provided, however, That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+<a id="section-262p-3"></a>
+## § 262p–3. Presidential instructions to United States Governor of the Fund to veto any use of funds to benefit a country pursuing a detrimental economic policy against United States interests; exceptions
 
-**(b) Authorization of appropriations** There is authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the initial United States subscription to twenty-nine thousand eight hundred and twenty shares of the capital stock of the Bank, $359,733,570: Provided, however, That not more than $17,986,679 of such sum may be made available for paid in subscriptions to the Bank for each of the fiscal years 1982, 1983, and 1984.
+The President shall instruct the United States Governor of the Fund to cause the Executive Director representing the United States in the Fund to cast the votes of the United States against any loan or other utilization of the funds of the Fund for the benefit of any country which has—
 
-**(c) Distributions by Bank** Any payment or distributions of moneys from the Bank to the United States shall be covered into the Treasury as a miscellaneous receipt.
+(1) nationalized or expropriated or seized ownership or control of property owned by any United States citizen or by any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens;
+
+(2) taken steps to repudiate or nullify existing contracts or agreements with any United States citizen or any corporation, partnership, or association not less than 50 per centum of which is beneficially owned by United States citizens; or
+
+(3) imposed or enforced discriminatory taxes or other exactions, or restrictive maintenance or operational conditions, or has taken other actions, which have the effect of nationalizing, expropriating, or otherwise seizing ownership or control of property so owned;
+unless the President determines that (A) an arrangement for prompt, adequate, and effective compensation has been made, (B) the parties have submitted the dispute to arbitration under the rules of the Convention for the Settlement of Investment Disputes, or (C) good faith negotiations are in progress aimed at providing prompt, adequate, and effective compensation under the applicable principles of international law.
+
+
+<a id="section-262p-4"></a>
+## § 262p–4. Repealed. Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070
 
 ### Statutory Notes
 
-#### Delegation of Functions
-Functions of President under subsec. (a) delegated to Secretary of the Treasury, see Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087.
+Section, Pub. L. 94–302, title II, § 211, May 31, 1976, 90 Stat. 595; H. Res. 5, Jan. 4, 1977, set forth provisions relating to United States participation in financial assistance by the African Development Fund to any country engaging in a consistent pattern of gross violations of internationally recognized human rights. See [section 262d of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262d).
+
+#### Effective Date of Repeal
+Repeal effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as an Effective Date note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
 
 
-<a id="section-262p-2"></a>
-## § 262p–2. Additional authorization for payment of United States contribution
+<a id="section-262p-4a"></a>
+## § 262p–4a. Additional authorization for contribution to African Development Fund
+**(a) Payment of United States contribution; review of payment and voting structure with other donor nations** The United States Governor is authorized to contribute on behalf of the United States $50,000,000 to the African Development Fund, which would represent an additional United States contribution to the first replenishment. The Secretary of the Treasury is directed to begin discussions with other donor nations to the African Development Fund for the purpose of setting amounts and of reviewing and possibly changing the voting structure within the Fund: Provided, however, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
+
+**(b) Authorization of appropriations** In order to pay for the United States contribution to the African Development Fund provided for in this section there are authorized to be appropriated without fiscal year limitation $50,000,000 for payment by the Secretary of the Treasury.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 211 of Pub. L. 94–302 was classified to [section 290g–9 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290g-9) prior to repeal by Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070.
+
+#### Effective Date
+Section effective Oct. 3, 1977, except that no funds authorized to be appropriated by this section may be available for use or obligation prior to Oct. 1, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
+
+
+<a id="section-262p-4b"></a>
+## § 262p–4b. Additional authorization for payment of United States contribution
 **(a) United States share** The United States Governor of the Fund is authorized to contribute on behalf of the United States $125,000,000 to the Fund as the United States contribution to the second replenishment of the resources of the Fund, except that any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 **(b) Authorization of appropriations** In order to pay for the United States contribution provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $125,000,000 for payment by the Secretary of the Treasury.
@@ -1093,8 +1221,8 @@ Functions of President under subsec. (a) delegated to Secretary of the Treasury,
 (2) shall take the steps necessary to obtain a certification from the Fund that any undisbursed balances resulting from draw-downs on such letter of credit will not exceed at any time the United States share of expected disbursement requirements for the following three-month period.
 
 
-<a id="section-262p-3"></a>
-## § 262p–3. Additional authorization for payment of United States contribution
+<a id="section-262p-4c"></a>
+## § 262p–4c. Additional authorization for payment of United States contribution
 **(a)**
 
 (1) The United States Governor of the Fund is authorized to contribute on behalf of the United States $150,000,000 to the Fund as the United States contribution to the third replenishment of the resources of the Fund.
@@ -1104,8 +1232,8 @@ Functions of President under subsec. (a) delegated to Secretary of the Treasury,
 **(b)** In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $150,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4"></a>
-## § 262p–4. Additional authorization for payment of United States contribution
+<a id="section-262p-4d"></a>
+## § 262p–4d. Additional authorization for payment of United States contribution
 **(a)**
 
 (1) The United States Governor of the Fund is authorized to contribute $225,000,000 to the fourth replenishment of the resources of the Fund.
@@ -1120,8 +1248,8 @@ Functions of President under subsec. (a) delegated to Secretary of the Treasury,
 Section 214 of Pub. L. 94–302 is based on section 201 of title II of H.R. 2253, Ninety-ninth Congress, as reported May 15, 1985, and enacted into law by Pub. L. 99–190.
 
 
-<a id="section-262p-4a"></a>
-## § 262p–4a. Additional authorization for payment of United States contribution
+<a id="section-262p-4e"></a>
+## § 262p–4e. Additional authorization for payment of United States contribution
 **(a) Contribution authorized** The United States Governor of the Fund is authorized to contribute $315,000,000 to the fifth replenishment of the resources of the Fund, except that such authority shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 **(b) Authorization of appropriations** In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $315,000,000, for payment by the Secretary of the Treasury.
@@ -1132,8 +1260,8 @@ Section 214 of Pub. L. 94–302 is based on section 201 of title II of H.R. 2253
 Section 215 of Pub. L. 94–302 is based on section 2 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
 
 
-<a id="section-262p-4b"></a>
-## § 262p–4b. Sixth replenishment
+<a id="section-262p-4f"></a>
+## § 262p–4f. Sixth replenishment
 **(a) Contribution authorized** The United States Governor of the Fund is authorized to contribute $405,000,000 to the sixth replenishment of the resources of the Fund, except that such authority shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 **(b) Limitations on authorization of appropriations** In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $135,000,000 for payment by the Secretary of the Treasury.
@@ -1144,8 +1272,8 @@ Section 215 of Pub. L. 94–302 is based on section 2 of H.R. 4645, One Hundredt
 Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may contribute on behalf of the United States to the eighth replenishment of the resources of the African Development Fund, and authorized $300,000,000 to be appropriated without fiscal year limitation.
 
 
-<a id="section-262p-4c"></a>
-## § 262p–4c. Ninth replenishment
+<a id="section-262p-4g"></a>
+## § 262p–4g. Ninth replenishment
 **(a) Contribution authority**
 
 (1) **In general** — The United States Governor of the Fund may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b), pursuant to the resolution of the Fund entitled “The Ninth General Replenishment of Resources of the African Development Fund”.
@@ -1155,36 +1283,36 @@ Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 S
 **(b) Limitations on authorization of appropriations** For the contribution authorized by subsection (a), there are authorized to be appropriated such sums as may be necessary for payment by the Secretary of the Treasury, without fiscal year limitation.
 
 
-<a id="section-262p-4d"></a>
-## § 262p–4d. Tenth replenishment
+<a id="section-262p-4h"></a>
+## § 262p–4h. Tenth replenishment
 **(a)** The United States Governor of the Fund is authorized to contribute on behalf of the United States $407,000,000 to the tenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $407,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4e"></a>
-## § 262p–4e. Eleventh replenishment
+<a id="section-262p-4i"></a>
+## § 262p–4i. Eleventh replenishment
 **(a)** The United States Governor of the African Development Fund is authorized to contribute on behalf of the United States $468,165,000 to the eleventh replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $468,165,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4f"></a>
-## § 262p–4f. Multilateral Debt Relief Initiative
+<a id="section-262p-4j"></a>
+## § 262p–4j. Multilateral Debt Relief Initiative
 **(a)** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $26,000,000 to the African Development Fund for the purpose of funding debt relief under the Multilateral Debt Relief Initiative in the period governed by the eleventh replenishment of resources of the African Development Fund, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on June 24, 2009.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $26,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4g"></a>
-## § 262p–4g. Twelfth replenishment
+<a id="section-262p-4k"></a>
+## § 262p–4k. Twelfth replenishment
 **(a)** The United States Governor of the Fund is authorized to contribute on behalf of the United States $585,000,000 to the twelfth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $585,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4h"></a>
-## § 262p–4h. Multilateral debt relief
+<a id="section-262p-4l"></a>
+## § 262p–4l. Multilateral debt relief
 **(a) Authorization of contribution** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $60,000,000 to the African Development Fund for the purpose of funding debt relief costs under the Multilateral Debt Relief Initiative incurred in the period governed by the twelfth replenishment of resources of the African Development Fund, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on December 23, 2011.
 
 **(b) Appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $60,000,000 for payment by the Secretary of the Treasury.
@@ -1192,15 +1320,15 @@ Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 S
 **(c) Multilateral Debt Relief Initiative** In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communiqué entitled “Conclusions on Development”, done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
 
 
-<a id="section-262p-4i"></a>
-## § 262p–4i. Thirteenth replenishment
+<a id="section-262p-4m"></a>
+## § 262p–4m. Thirteenth replenishment
 **(a)** The United States Governor of the Fund is authorized to contribute on behalf of the United States $585,000,000 to the thirteenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $585,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4j"></a>
-## § 262p–4j. Multilateral debt relief
+<a id="section-262p-4n"></a>
+## § 262p–4n. Multilateral debt relief
 **(a)** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $54,620,000 to the African Development Fund for the purpose of funding debt relief costs under the Multilateral Debt Relief Initiative incurred in the period governed by the thirteenth replenishment of resources of the African Development Fund, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on December 16, 2014.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $54,620,000 for payment by the Secretary of the Treasury.
@@ -1208,22 +1336,29 @@ Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 S
 **(c)** In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communique entitled “Conclusions on Development,” done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
 
 
-<a id="section-262p-4k"></a>
-## § 262p–4k. Fourteenth replenishment
+<a id="section-262p-4o"></a>
+## § 262p–4o. Fourteenth replenishment
 **(a)** The United States Governor of the Fund is authorized to contribute on behalf of the United States $513,900,000 to the fourteenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $513,900,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4l"></a>
-## § 262p–4l. Fifteenth replenishment
+<a id="section-262p-4p"></a>
+## § 262p–4p. Fifteenth replenishment
 **(a) In general** The United States Governor of the Fund is authorized to contribute on behalf of the United States $513,900,000 to the fifteenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b) Authorization of appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $513,900,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-262p-4m"></a>
-## § 262p–4m. Congressional findings
+<a id="section-262p-4q"></a>
+## § 262p–4q. Sixteenth replenishment
+**(a) In general** The United States Governor of the Fund is authorized to contribute on behalf of the United States $591,000,000 to the sixteenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
+
+**(b) Authorization of appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $591,000,000 for payment by the Secretary of the Treasury.
+
+
+<a id="section-262p-4r"></a>
+## § 262p–4r. Congressional findings
 
 The Congress finds that—
 
@@ -1254,8 +1389,8 @@ African Development Foundation changed to United States African Development Foun
 Pub. L. 96–533, title V, § 501, Dec. 16, 1980, 94 Stat. 3151, provided: “This title [enacting this subchapter] may be cited as the ‘African Development Foundation Act’.”
 
 
-<a id="section-262p-4n"></a>
-## § 262p–4n. United States African Development Foundation
+<a id="section-262p-5"></a>
+## § 262p–5. United States African Development Foundation
 **(a) Establishment of Foundation** There is established a body corporate to be known as the “United States African Development Foundation” (hereafter in this subchapter referred to as the “Foundation”).
 
 **(b) Principal and branch offices** The Foundation shall establish a principal office in the United States and may establish such branch offices in Africa as may be necessary to carry out its functions.
@@ -1266,8 +1401,8 @@ Pub. L. 96–533, title V, § 501, Dec. 16, 1980, 94 Stat. 3151, provided: “Th
 2014—Pub. L. 113–76 inserted “United States” before “African Development”.
 
 
-<a id="section-262p-4o"></a>
-## § 262p–4o. Congressional declaration of purposes
+<a id="section-262p-6"></a>
+## § 262p–6. Congressional declaration of purposes
 **(a) Purposes of Foundation** In order to enable the people of African countries to develop their potential, fulfill their aspirations, and enjoy better, more productive lives, the purposes of the Foundation shall be—
 
 (1) to strengthen the bonds of friendship and understanding between the people of Africa and the United States;
@@ -1281,8 +1416,8 @@ Pub. L. 96–533, title V, § 501, Dec. 16, 1980, 94 Stat. 3151, provided: “Th
 **(b) Implementation** The Foundation shall carry out the purposes specified in subsection (a) in cooperation with, and in response to, organizations indigenous to Africa which are representative of the needs and aspirations of the poor in Africa and, in carrying out such purposes, the Foundation shall, to the extent possible, coordinate its development assistance activities with the activities of the United States Government and private, regional, and international organizations.
 
 
-<a id="section-262p-4p"></a>
-## § 262p–4p. Functions of Foundation
+<a id="section-262p-7"></a>
+## § 262p–7. Functions of Foundation
 **(a) Types of programs; project limitations; dissemination of project insights**
 
 (1) In order to carry out the purposes set forth in [section 290h–2 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290h-2), the Foundation may make grants, loans, and loan guarantees to any African private or public group (including public international organizations), association, or other entity engaged in peaceful activities for—
@@ -1309,8 +1444,8 @@ Pub. L. 96–533, title V, § 501, Dec. 16, 1980, 94 Stat. 3151, provided: “Th
 1988—Subsec. (a)(1). Pub. L. 100–461 inserted “(including public international organizations)” after “public group”.
 
 
-<a id="section-262p-4q"></a>
-## § 262p–4q. Powers of Foundation
+<a id="section-262p-8"></a>
+## § 262p–8. Powers of Foundation
 **(a) General provisions** The Foundation, as a corporation—
 
 (1) shall have perpetual succession unless dissolved by an Act of Congress;
@@ -1344,8 +1479,8 @@ Pub. L. 96–533, title V, § 501, Dec. 16, 1980, 94 Stat. 3151, provided: “Th
 **(d) Termination of Foundation and liquidation of assets** Upon termination of the corporate life of the Foundation its assets shall be liquidated and, unless otherwise provided by Congress, shall be transferred to the United States Treasury as the property of the United States.
 
 
-<a id="section-262p-4r"></a>
-## § 262p–4r. Management of Foundation
+<a id="section-262p-9"></a>
+## § 262p–9. Management of Foundation
 **(a) Board of directors; membership; designation of Chairperson and Vice Chairperson; appointment considerations; term; vacancies**
 
 (1) The management of the Foundation shall be vested in a board of directors (hereafter in this subchapter referred to as the “Board”) composed of seven members appointed by the President, by and with the advice and consent of the Senate. The President shall designate one member of the Board to serve as Chairperson of the Board and one member to serve as Vice Chairperson of the Board. Five members of the Board shall be appointed from private life. Two members of the Board shall be appointed from among officers and employees of agencies of the United States concerned with African affairs. All members of the Board shall be appointed on the basis of their understanding of and sensitivity to community level development processes. Members of the Board shall be appointed so that no more than four members of the Board are members of any one political party.
@@ -1379,72 +1514,34 @@ Pub. L. 96–533, title V, § 501, Dec. 16, 1980, 94 Stat. 3151, provided: “Th
 Pub. L. 101–167, title II, Nov. 21, 1989, 103 Stat. 1209, provided: “That the amendment to section 507(a)(1) of such Act [[22 U.S.C. 290h–5(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section290h–5/a/1&num=0&edition=prelim)] shall not affect an appointment made to the Board prior to the date of enactment of this Act [Nov. 21, 1989]”.
 
 
-<a id="section-262p-5"></a>
-## § 262p–5. Government corporation control provisions applicable
-
-The Foundation shall be subject to the provisions of chapter 91 of title 31 applicable to wholly owned Government corporations.
-
-### Statutory Notes
-
-#### Codification
-“The provisions of chapter 91 of title 31 applicable to wholly owned Government corporations” substituted in text for “title I of the Government Corporation Control Act [[31 U.S.C. 846](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section846&num=0&edition=prelim) et seq.]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
-
-
-<a id="section-262p-6"></a>
-## § 262p–6. Limitation on spending authority
-
-Any authority provided by this subchapter involving the expenditure of funds (other than the funds made available pursuant to [section 290h–8 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290h-8)) shall be effective for a fiscal year only to such extent or in such amounts as are provided in advance in appropriation Acts.
-
-
-<a id="section-262p-7"></a>
-## § 262p–7. Authorization of appropriations
-
-There are authorized to be appropriated to carry out this subchapter, in addition to amounts otherwise available for that purpose, $3,872,000 for fiscal year 1986 and $3,872,000 for fiscal year 1987. Funds appropriated under this section are authorized to remain available until expended.
-
-### Statutory Notes
-
-#### Amendments
-1985—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “Of the funds appropriated to carry out part I of the Foreign Assistance Act of 1961, other than funds appropriated for the Economic Support Fund, not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983 shall be used to carry out this subchapter.”
-
-1981—Pub. L. 97–113 struck out “for the fiscal year 1981” after “Of the funds appropriated” and substituted “not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983” for “$2,000,000”.
-
-#### Effective Date of 1985 Amendment
-Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under [section 2151–1 of this title](./chapter-032-foreign-assistance.md#section-2151-1).
-
-
-<a id="section-262p-8"></a>
-## § 262p–8. Repealed. Pub. L. 101–167, title II, Nov. 21, 1989, 103 Stat. 1209
-
-### Statutory Notes
-
-Section, Pub. L. 96–533, title V, § 511, Dec. 16, 1980, 94 Stat. 3155; Pub. L. 99–83, title VIII, § 810(b), Aug. 8, 1985, 99 Stat. 264, related to expiration of authority of Foundation.
-
-
-<a id="section-262p-9"></a>
-## § 262p–9. Acceptance of membership
-
-The President is hereby authorized to accept membership for the United States in the African Development Bank (hereinafter in this subchapter referred to as the “Bank”) provided for by the agreement establishing the Bank (hereinafter in this subchapter referred to as the “agreement”) deposited in the archives of the United Nations.
-
-### Statutory Notes
-
-#### References in Text
-This subchapter, referred to in text, was in the original “this part”, meaning part 3 of subtitle B of title XIII of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 741, known as the African Development Bank Act, which enacted this subchapter and amended sections 262d, 262f, and 276c–2 of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking. For complete classification of part 3 to the Code, see Short Title note set out below and Tables.
-
-#### Effective Date
-Pub. L. 97–35, title XIII, § 1372, Aug. 13, 1981, 95 Stat. 746, provided that: “This subtitle [subtitle B (§§ 1311–1372) of title XIII of Pub. L. 97–35, enacting this subchapter and sections 262g–1 to 262g–3, 283z–2, 284o, 285w, and 286e–1h of this title, amending sections 262d, 262f, 262g, 276c–2, 283w, 283z–1, 285s, 285t, 285u, 286e–1f, and 286u of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking, repealing [section 286e–10 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-10), and enacting provisions set out as notes under sections 262c, 262g–2, and 290i of this title] shall take effect upon its enactment [Aug. 13, 1981], except that funds authorized to be appropriated by any provision contained in part 1 [enacting [section 286e–1h of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-1h) and amending [section 286e–1f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-1f)] or part 4 [enacting sections 283z–2 and 285w of this title and amending sections 283w, 283z–1, 285s, 285t, and 285u of this title] shall not be available for use or obligation prior to October 1, 1981.”
-
-#### Short Title
-Pub. L. 97–35, title XIII, § 1331, Aug. 13, 1981, 95 Stat. 741, provided that: “This part [part 3 (§§ 1331–1342) of subtitle B of title XIII of Pub. L. 97–35, enacting this subchapter and amending sections 262d, 262f, and 276c–2 of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking] may be cited as the ‘African Development Bank Act’.”
-
-
 <a id="section-262q"></a>
-## § 262q. Jurisdiction of United States courts
+## § 262q. Federal Reserve banks as depositories
+
+Any Federal Reserve bank which is requested to do so by the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
+
+
+<a id="section-262r"></a>
+## § 262r. Subscription to stock
+**(a) Authorization of United States subscription to stock** The President is authorized to agree to subscribe on behalf of the United States to twenty-nine thousand eight hundred and twenty shares of the capital stock of the Bank: Provided, however, That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+**(b) Authorization of appropriations** There is authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the initial United States subscription to twenty-nine thousand eight hundred and twenty shares of the capital stock of the Bank, $359,733,570: Provided, however, That not more than $17,986,679 of such sum may be made available for paid in subscriptions to the Bank for each of the fiscal years 1982, 1983, and 1984.
+
+**(c) Distributions by Bank** Any payment or distributions of moneys from the Bank to the United States shall be covered into the Treasury as a miscellaneous receipt.
+
+### Statutory Notes
+
+#### Delegation of Functions
+Functions of President under subsec. (a) delegated to Secretary of the Treasury, see Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087.
+
+
+<a id="section-262r-1"></a>
+## § 262r–1. Jurisdiction of United States courts
 
 For the purposes of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Bank in accordance with the agreement, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States or its agent appointed for the purpose of accepting service or notice of service is located, and any such action to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in [section 460 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section460&num=0&edition=prelim), shall have original jurisdiction of any such action. When the Bank is defendant in any action in a State court, it may at any time before the trial thereof remove the action into the appropriate district court of the United States by following the procedure for removal provided in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim).
 
 
-<a id="section-262r"></a>
-## § 262r. Force and effect of agreement
+<a id="section-262r-2"></a>
+## § 262r–2. Force and effect of agreement
 
 Paragraph 5 of article 49, articles 50 through 59, and the other provisions of the agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in the Bank. The President, at the time of deposit of the instrument of acceptance of membership by the United States in the Bank, shall also deposit a declaration as provided in article 64, paragraph 3, of the agreement that the United States retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to United States citizens or nationals.
 
@@ -1454,8 +1551,8 @@ Paragraph 5 of article 49, articles 50 through 59, and the other provisions of t
 The agreement, referred to in text, is the agreement establishing the African Development Bank. See [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
 
 
-<a id="section-262r-1"></a>
-## § 262r–1. Securities issued by Bank; Securities and Exchange Commission oversight
+<a id="section-262r-3"></a>
+## § 262r–3. Securities issued by Bank; Securities and Exchange Commission oversight
 **(a) Treatment as exempt securities; reports to Securities and Exchange Commission** Any securities issued by the Bank (including any guarantee by the Bank, whether or not limited in scope) in connection with the raising of funds for inclusion in the Bank’s ordinary capital resources as defined in article 9 of the agreement and any securities guaranteed by the Bank as to both principal and interest to which the commitment in article 7, paragraph 4(a), of the agreement is expressly applicable, shall be deemed to be exempted securities within the meaning of sections 77c(a)(2) and 78c(a)(12) of title 15. The Bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Bank and its operations as necessary in the public interest or for the protection of investors.
 
 **(b) Suspension of provisions; reports to Congress** The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
@@ -1469,8 +1566,8 @@ The agreement, referred to in subsec. (a), is the agreement establishing the Afr
 Functions of President under subsec. (b) delegated to Secretary of the Treasury, see Ex. Ord. No. 12403, Feb. 8, 1983, 48 F.R. 6087.
 
 
-<a id="section-262r-2"></a>
-## § 262r–2. Authorization of United States subscription to stock; authorization of appropriations
+<a id="section-262r-4"></a>
+## § 262r–4. Authorization of United States subscription to stock; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized to agree to subscribe on behalf of the United States to fifty-nine thousand, six hundred and thirty-two shares of the capital stock of the Bank, except that the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 **(b)** In order to pay for the United States subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $719,370,633, for payment by the Secretary of the Treasury.
@@ -1484,8 +1581,8 @@ Section 1343 of Pub. L. 97–35 is based on section 301 of title III of H.R. 375
 Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the fifth general capital increase of the African Development Bank, and authorized $40,847,011 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Bank and $639,932,485 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Bank.
 
 
-<a id="section-262r-3"></a>
-## § 262r–3. Sixth capital increase
+<a id="section-262r-5"></a>
+## § 262r–5. Sixth capital increase
 **(a) Subscription authorized**
 
 (1) The United States Governor of the Bank may subscribe on behalf of the United States to 289,391 additional shares of the capital stock of the Bank.
@@ -1503,8 +1600,8 @@ Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 S
   (B) $4,062,886,462 shall be for callable shares of the Bank.
 
 
-<a id="section-262r-4"></a>
-## § 262r–4. Seventh capital increase
+<a id="section-262r-6"></a>
+## § 262r–6. Seventh capital increase
 **(a) Subscription authorized**
 
 (1) **In general** — The United States Governor of the Bank may subscribe on behalf of the United States to 532,023 additional shares of the capital stock of the Bank.
@@ -1522,8 +1619,8 @@ Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 S
   (B) $6,849,396,992 shall be for callable shares of the Bank.
 
 
-<a id="section-262r-5"></a>
-## § 262r–5. Establishment of the Fund
+<a id="section-262s"></a>
+## § 262s. Establishment of the Fund
 **(a) Agreement with Government of India; program purposes** The President is authorized to enter into an agreement with the Government of India for the establishment of a fund (hereafter in this subchapter referred to as the “Fund”) which would provide grants and other assistance for cultural, educational, and scientific programs of mutual interest. Such programs may include exchanges of persons, exchanges of information, and other programs of study, research, and scholarly cooperation. The agreement may also provide for the establishment of an endowment, a foundation, or other means to carry out the purposes of the agreement.
 
 **(b) United States representatives** The United States representatives on any board or other entity created in accordance with the agreement to administer the Fund shall be designated by the President predominately from among representatives of United States Government agencies, including those administering programs which may be supported in whole or in part by the Fund.
@@ -1547,8 +1644,8 @@ Sec. 2. India rupees provided to the President for purposes of Title IX of the A
 Ronald Reagan.
 
 
-<a id="section-262r-6"></a>
-## § 262r–6. Use of United States owned rupees to capitalize the Fund
+<a id="section-262s-1"></a>
+## § 262s–1. Use of United States owned rupees to capitalize the Fund
 **(a)** Subject to applicable requirements concerning reimbursement to the Treasury for United States owned foreign currencies, the President may make available to the Fund, for use in carrying out the agreement authorized by [section 290j of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290j), up to the equivalent of $200,000,000 in foreign currencies owned by the United States in India or owed to the United States by the Government of India. Such use may include investment in order to generate interest which would be retained in the Fund and used to support programs pursuant to that agreement.
 
 **(b)** In accordance with the agreement negotiated pursuant to [section 290j(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section290j/a&num=0&edition=prelim), sums made available for investment for the United States-India Fund for Cultural, Educational, and Scientific Cooperation under the Departments of Commerce, Justice, and State, and the Judiciary and Related Agencies Appropriation Act, 1985, and any earnings on such sums shall be available for the purposes of [section 290j(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section290j/a&num=0&edition=prelim).
@@ -1564,8 +1661,8 @@ The Departments of Commerce, Justice, and State, the Judiciary, and Related Agen
 1985—Pub. L. 99–93 designated existing provisions as subsec. (a) and added subsec. (b).
 
 
-<a id="section-262s"></a>
-## § 262s. Acceptance of membership
+<a id="section-262s-2"></a>
+## § 262s–2. Acceptance of membership
 
 The President is hereby authorized to accept membership for the United States in the Multilateral Investment Guarantee Agency (hereinafter in this subchapter referred to as the “Agency”) provided for by the Convention Establishing the Multilateral Investment Guarantee Agency (hereinafter in this subchapter referred to as the “Convention”) deposited in the archives of the International Bank for Reconstruction and Development (hereinafter in this subchapter referred to as the “Bank”).
 
@@ -1580,8 +1677,8 @@ Section 402 of title IV of H.R. 3750, as introduced Dec. 11, 1987, and as enacte
 Section 401 of title IV of H.R. 3750, as introduced Dec. 11, 1987, and as enacted into law by Pub. L. 100–202, § 101(e) [title I], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134, provided that: “This title [enacting this subchapter] may be cited as the ‘Multilateral Investment Guarantee Agency Act’.”
 
 
-<a id="section-262s-1"></a>
-## § 262s–1. Governor and Alternate Governor
+<a id="section-262t"></a>
+## § 262t. Governor and Alternate Governor
 
 The Governor and Alternate Governor of the Bank, appointed under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a), shall serve as Governor and Alternate Governor, respectively, of the Agency.
 
@@ -1591,8 +1688,19 @@ The Governor and Alternate Governor of the Bank, appointed under [section 286a o
 Section is based on section 404 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-262s-2"></a>
-## § 262s–2. Instructions for United States Director
+<a id="section-262-1"></a>
+## § 262–1. Amendments to constitution of Organization involving new obligations
+
+Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States approve any amendment under article XIII of the constitution of the Organization involving any new obligation for the United States.
+
+### Statutory Notes
+
+#### References in Text
+Article XIII of the constitution of the Organization, referred to in text, is article XIII of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).
+
+
+<a id="section-263"></a>
+## § 263. Instructions for United States Director
 
 Immediately after taking office and prior to the issuance by the Agency of its first guarantee, the United States Director of the Agency shall propose and actively seek the adoption by the Board of Directors of policies and procedures under which the Agency will not issue guarantees in respect of any proposed investment that would—
 
@@ -1612,8 +1720,8 @@ Immediately after taking office and prior to the issuance by the Agency of its f
 Section is based on section 405 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-262t"></a>
-## § 262t. Opposition to certain guarantees or investment promotions; independent evaluation of guaranteed investments
+<a id="section-263a"></a>
+## § 263a. Opposition to certain guarantees or investment promotions; independent evaluation of guaranteed investments
 
 Consistent with the purposes of [section 290k–2 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290k-2), the Secretary of the Treasury shall—
 
@@ -1645,25 +1753,8 @@ The Trade Act of 1974, referred to in par. (1)(A), is Pub. L. 93–618, Jan. 3, 
 Section is based on section 406 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-262-1"></a>
-## § 262–1. Baggage and effects of officers and employees exempted from customs duties and internal revenue taxes
-
-Pursuant to regulations prescribed by the Commissioner of U.S. Customs and Border Protection with the approval of the Secretary of the Treasury, the baggage and effects of alien officers and employees of international organizations, or of aliens designated by foreign governments to serve as their representatives in or to such organizations, or of the families, suites, and servants of such officers, employees, or representatives shall be admitted (when imported in connection with the arrival of the owner) free of customs duties and free of internal-revenue taxes imposed upon or by reason of importation.
-
-### Statutory Notes
-
-#### Change of Name
-“Commissioner of U.S. Customs and Border Protection” substituted for “Commissioner of Customs” in text on authority of section 802(d)(2) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), Domestic Security.
-
-#### Transfer of Functions
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
-
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of the Department of the Treasury, with certain exceptions, to the Secretary of the Treasury, with power to delegate, see Reorg. Plan No. 26, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. The Commissioner of Customs, referred to in text, was an officer of the Treasury Department.
-
-
-<a id="section-263"></a>
-## § 263. Consultation with representatives of private sector and of labor organizations on Agency policy directions and operations
+<a id="section-263b"></a>
+## § 263b. Consultation with representatives of private sector and of labor organizations on Agency policy directions and operations
 
 Recognizing that United States participation in the Agency represents an effort to enhance United States trade prospects and strengthen the role of the United States private sector in the development process, the Secretary of the Treasury shall ensure regular and continuing consultations with United States private sector representatives and representatives of United States labor organizations, through appropriate mechanisms, on policy directions and operations of the Agency, and shall take account of those consultations in determining the policies of the United States toward the Agency.
 
@@ -1673,8 +1764,8 @@ Recognizing that United States participation in the Agency represents an effort 
 Section is based on section 407 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-263a"></a>
-## § 263a. Applicability of Bretton Woods Agreements Act
+<a id="section-263c"></a>
+## § 263c. Applicability of Bretton Woods Agreements Act
 
 The provisions of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall apply with respect to the Agency to the same extent as with respect to the Bank and the International Monetary Fund.
 
@@ -1690,8 +1781,8 @@ Section is based on section 408 of title IV of H.R. 3750, One Hundredth Congress
 1989—Pub. L. 101–240 struck out at end “Reports with respect to the Agency under paragraphs (5) and (6) of [section 286b(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286b/b&num=0&edition=prelim) shall be included in the reports made thereunder after the United States accepts membership in the Agency.”
 
 
-<a id="section-263b"></a>
-## § 263b. Restrictions
+<a id="section-264-265"></a>
+## § 264, 265. Restrictions
 
 Unless authorized by law, neither the President nor any person or agency shall, on behalf of the United States—
 
@@ -1707,8 +1798,8 @@ Unless authorized by law, neither the President nor any person or agency shall, 
 Section is based on section 409 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-263c"></a>
-## § 263c. Federal Reserve banks as depositories
+<a id="section-266"></a>
+## § 266. Federal Reserve banks as depositories
 
 Any Federal Reserve bank that is requested to do so by the Agency shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
@@ -1718,8 +1809,8 @@ Any Federal Reserve bank that is requested to do so by the Agency shall act as i
 Section is based on section 410 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-264-265"></a>
-## § 264, 265. Subscription of stock
+<a id="section-266a"></a>
+## § 266a. Subscription of stock
 **(a) Authority of Secretary of the Treasury** The Secretary of the Treasury is authorized to subscribe on behalf of the United States to 20,519 shares of the capital stock of the Agency, except that the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 **(b) Authorization of appropriations** In order to pay for United States subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $222,015,580, for payment by the Secretary of the Treasury.
@@ -1735,8 +1826,8 @@ Section is based on section 411 of title IV of H.R. 3750, One Hundredth Congress
 Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Multilateral Investment Guarantee Agency and authorized $29,870,087 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Agency and $139,365,533 to be appropriated without fiscal year limitation for payment by the Secretary for callable capital of the Agency.
 
 
-<a id="section-266"></a>
-## § 266. Jurisdiction of United States courts and enforcement of arbitral awards
+<a id="section-266b"></a>
+## § 266b. Jurisdiction of United States courts and enforcement of arbitral awards
 
 For the purposes of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Agency in accordance with the Convention, including an action brought to enforce an arbitral award against the Agency, the Agency shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States or its agent appointed for the purpose of accepting service or notice of service is located, and any such action to which the Agency shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in [section 460 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section460&num=0&edition=prelim), shall have original jurisdiction of any such action. When the Agency is a defendant in any action in a State court, it may at any time before the trial thereof remove the action into the appropriate district court of the United States by following the procedure for removal provided in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim).
 
@@ -1746,8 +1837,8 @@ For the purposes of any civil action which may be brought within the United Stat
 Section is based on section 412 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-266a"></a>
-## § 266a. Effectiveness of Convention
+<a id="section-267"></a>
+## § 267. Effectiveness of Convention
 
 Articles 43 through 48, inclusive, of the Convention shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon the entry into force of the Convention for the United States.
 
@@ -1757,8 +1848,8 @@ Articles 43 through 48, inclusive, of the Convention shall have full force and e
 Section is based on section 413 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-266b"></a>
-## § 266b. Arbitral awards; enforcement; full faith and credit; Federal Arbitration Act inapplicable; exclusiveness of district court jurisdiction
+<a id="section-267a"></a>
+## § 267a. Arbitral awards; enforcement; full faith and credit; Federal Arbitration Act inapplicable; exclusiveness of district court jurisdiction
 **(a)** An award of an arbitral tribunal resolving a dispute arising under Article 57 or Article 58 of the Convention shall create a right arising under a treaty of the United States. The pecuniary obligations imposed by such an award shall be enforced and shall be given the same full faith and credit as if the award were a final judgment of a court of general jurisdiction of one of the several States. The Federal Arbitration Act ([9 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title9-section1&num=0&edition=prelim), et seq.) shall not apply to enforcement of awards rendered pursuant to the Convention.
 
 **(b)** The district courts of the United States (including the courts enumerated in [section 460 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section460&num=0&edition=prelim)) shall have exclusive jurisdiction over actions and proceedings under subsection (a) of this section, regardless of the amount in controversy.
@@ -1772,8 +1863,8 @@ The Federal Arbitration Act, referred to in subsec. (a), is classified generally
 Section is based on section 414 of title IV of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-267"></a>
-## § 267. Acceptance of membership
+<a id="section-267b"></a>
+## § 267b. Acceptance of membership
 
 The President is hereby authorized to accept membership for the United States in the European Bank for Reconstruction and Development (in this subchapter referred to as the “Bank”) provided for by the agreement establishing the Bank (in this subchapter referred to as the “Agreement”), signed on May 29, 1990.
 
@@ -1789,8 +1880,8 @@ Another section 562(c) of Pub. L. 101–513, consisting of pars. (1) to (5), is 
 Pub. L. 101–513, title V, § 562(c)(1), Nov. 5, 1990, 104 Stat. 2031, provided that: “This subsection [enacting this subchapter and amending sections 262r and 276c–2 of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking] may be cited as the ‘European Bank for Reconstruction and Development Act’.”
 
 
-<a id="section-267a"></a>
-## § 267a. Governor and alternate Governor
+<a id="section-268"></a>
+## § 268. Governor and alternate Governor
 **(a) Appointment** The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank, an alternate for the Governor, and a Director of the Bank.
 
 **(b) Compensation** Any person who serves as a Governor of the Bank or as an alternate for the Governor may not receive any salary or other compensation from the United States by reason of such service.
@@ -1803,8 +1894,8 @@ Subsecs. (a) and (b) were in the original (A) and (B), respectively, and were ed
 Another section 562(c)(3) of Pub. L. 101–513 is set out as a note under [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293).
 
 
-<a id="section-267b"></a>
-## § 267b. Applicability of certain provisions of Bretton Woods Agreements Act
+<a id="section-268a"></a>
+## § 268a. Applicability of certain provisions of Bretton Woods Agreements Act
 
 [Section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall apply to the Bank in the same manner in which such section applies to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
@@ -1817,8 +1908,8 @@ The Bretton Woods Agreements Act, referred to in section catchline, is act July 
 Another section 562(c)(4) of Pub. L. 101–513 is set out as a note under [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293).
 
 
-<a id="section-268"></a>
-## § 268. Federal Reserve banks as depositories
+<a id="section-268b"></a>
+## § 268b. Federal Reserve banks as depositories
 
 Any Federal Reserve Bank 11 So in original. Probably should not be capitalized. which is requested to do so by the Bank may act as its depository, or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall exercise general supervision over the carrying out of these functions.
 
@@ -1828,8 +1919,8 @@ Any Federal Reserve Bank 11 So in original. Probably should not be capitalized. 
 Another section 562(c)(5) of Pub. L. 101–513 is set out as a note under [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293).
 
 
-<a id="section-268a"></a>
-## § 268a. Subscription of stock
+<a id="section-268c"></a>
+## § 268c. Subscription of stock
 **(a) Subscription authority**
 
 (1) **In general** — The Secretary of the Treasury may subscribe on behalf of the United States to 100,000 shares of the capital stock of the Bank.
@@ -1849,8 +1940,8 @@ Subsecs. (a) to (c) were in the original (A) to (C), respectively, and pars. (1)
 Pub. L. 105–118, title V, § 560(a), Nov. 26, 1997, 111 Stat. 2425, provided in part that the Secretary of the Treasury may, to effect the United States participation in the first general capital increase of the European Bank for Reconstruction and Development, subscribe to and make payment for 100,000 additional shares of the capital stock of the Bank on behalf of the United States, and authorized $285,772,500 for paid-in capital and $984,327,500 for callable capital of the European Bank for Reconstruction and Development to be appropriated without fiscal year limitation, subject to obtaining the necessary appropriations.
 
 
-<a id="section-268b"></a>
-## § 268b. Jurisdiction and venue of civil actions by or against Bank
+<a id="section-269"></a>
+## § 269. Jurisdiction and venue of civil actions by or against Bank
 **(a) Jurisdiction** The United States district courts shall have original and exclusive jurisdiction of any civil action brought in the United States by or against the Bank.
 
 **(b) Venue** For purposes of [section 1391(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391/b&num=0&edition=prelim), the Bank shall be deemed to be a resident of the judicial district in which the principal office of the Bank in the United States, or its agent appointed for the purpose of accepting service or notice of service, is located.
@@ -1861,14 +1952,14 @@ Pub. L. 105–118, title V, § 560(a), Nov. 26, 1997, 111 Stat. 2425, provided i
 Subsecs. (a) and (b) were in the original (A) and (B), respectively, and were editorially redesignated for purposes of codification.
 
 
-<a id="section-268c"></a>
-## § 268c. Effectiveness of Agreement
+<a id="section-269a"></a>
+## § 269a. Effectiveness of Agreement
 
 The Agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in the Bank and the entry into force of the Agreement.
 
 
-<a id="section-269"></a>
-## § 269. Exemption from securities laws for certain securities issued by Bank; reports required
+<a id="section-269b"></a>
+## § 269b. Exemption from securities laws for certain securities issued by Bank; reports required
 **(a) Exemption from securities laws; reports to Securities and Exchange Commission** Any securities issued by the Bank (including any guaranty by the Bank, whether or not limited in scope) in connection with the raising of funds for inclusion in the Bank’s ordinary capital resources as defined in article 7 of the Agreement and any securities guaranteed by the Bank as to both principal and interest to which the commitment in article 6, paragraph 4, of the Agreement is expressly applicable, shall be deemed to be exempted securities within the meaning of [section 77c(a)(2) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a/2&num=0&edition=prelim) and [section 78c(a)(12) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/12&num=0&edition=prelim). The Bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Bank and its operations and necessary in the public interest or for the protection of investors.
 
 **(b) Authority of Securities and Exchange Commission to suspend exemption; reports to Congress** The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, may suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.
@@ -1879,8 +1970,8 @@ The Agreement shall have full force and effect in the United States, its territo
 Subsecs. (a) and (b) were in the original (A) and (B), respectively, and were editorially redesignated for purposes of codification.
 
 
-<a id="section-269a"></a>
-## § 269a. Congressional consultations
+<a id="section-269c"></a>
+## § 269c. Congressional consultations
 
 During negotiations on the establishment of operational guidelines for the Bank, the Secretary of the Treasury shall—
 
@@ -1899,8 +1990,8 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 Pub. L. 101–513, title V, § 584, Nov. 5, 1990, 104 Stat. 2046, provided that: “In all negotiations concerning the structure, bylaws, and operating procedures of the European Bank for Reconstruction and Development (EBRD), the Secretary of the Treasury shall vigorously seek— “(1) establishment of procedures for environmental assessment of all proposed operations with potentially significant environmental impacts; “(2) establishment of an environmental unit with sufficient staff to review proposed operations, monitor compliance with environmental provisions, and provide overall policy guidance; “(3) establishment of procedures for systematic consultation with and involvement of the public and interested nongovernmental organizations, including an opportunity for comment by local communities which may be affected by EBRD operations and establishment of a system of public notification and comment during the development of EBRD policies and operating procedures; and “(4) agreement that a significant portion of the EBRD’s funds shall be devoted to projects focused on environmental restoration and protection.”
 
 
-<a id="section-269b"></a>
-## § 269b. Capital increase
+<a id="section-269d"></a>
+## § 269d. Capital increase
 **(a) Subscription authorized**
 
 (1) The United States Governor of the Bank may subscribe on behalf of the United States up to 90,044 additional callable shares of the capital stock of the Bank in accordance with Resolution No. 128 as adopted by the Board of Governors of the Bank on May 14, 2010.
@@ -1917,8 +2008,8 @@ Pub. L. 112–74, div. I, title VII, § 7081(e), Dec. 23, 2011, 125 Stat. 1260, 
 Subsecs. (a) and (b) were in the original (A) and (B), respectively, and pars. (1) and (2) of subsec. (a) were in the original (i) and (ii), respectively, and were editorially redesignated for purposes of codification.
 
 
-<a id="section-269c"></a>
-## § 269c. North American Development Bank
+<a id="section-269e"></a>
+## § 269e. North American Development Bank
 **(a) Acceptance of membership** The President is hereby authorized to accept membership for the United States in the North American Development Bank (hereafter in this subchapter referred to as the “Bank”) provided for in Chapter II of the Border Environment Cooperation Agreement (hereafter in this subchapter referred to as the “Cooperation Agreement”).
 
 **(b) Subscription of stock**
@@ -1980,8 +2071,8 @@ Pub. L. 116–113, § 601, which repealed this section effective on the date the
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c&num=0&edition=prelim), Customs Duties.
 
 
-<a id="section-269d"></a>
-## § 269d. Status, immunities, and privileges
+<a id="section-269f"></a>
+## § 269f. Status, immunities, and privileges
 
 Article VIII of Chapter II of the Cooperation Agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon entry into force of the Cooperation Agreement.
 
@@ -1996,8 +2087,8 @@ Pub. L. 116–113, § 601, which repealed this section effective on the date the
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c&num=0&edition=prelim), Customs Duties.
 
 
-<a id="section-269e"></a>
-## § 269e. Community adjustment and investment program
+<a id="section-269g"></a>
+## § 269g. Community adjustment and investment program
 **(a) The President**
 
 (1) The President may enter into an agreement with the Bank that facilitates implementation by the President of a program for community adjustment and investment in support of the Agreement pursuant to chapter II of the Cooperation Agreement (hereafter in this section referred to as the “community adjustment and investment program”).
@@ -2022,7 +2113,7 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div
 
 **(b) Advisory Committee**
 
-(1) **Establishment** — The President shall establish an advisory committee to be known as the Community Adjustment and Investment Program Advisory Committee (in this section referred to as the “Advisory Committee”) in accordance with the provisions of the Federal Advisory Committee Act.
+(1) **Establishment** — The President shall establish an advisory committee to be known as the Community Adjustment and Investment Program Advisory Committee (in this section referred to as the “Advisory Committee”) in accordance with the provisions of chapter 10 of title 5.
 
 (2) **Membership**
 
@@ -2052,7 +2143,7 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div
 
   (C) *Meetings* — The Advisory Committee shall meet at least annually and at such other times as requested by the President or the chairperson. A majority of the members of the Advisory Committee shall constitute a quorum.
 
-  (D) *Reimbursement for expenses* — The members of the Advisory Committee may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with the Federal Advisory Committee Act.
+  (D) *Reimbursement for expenses* — The members of the Advisory Committee may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with chapter 10 of title 5.
 
   (E) *Staff and facilities* — The Advisory Committee may utilize the facilities and services of employees of any Federal agency without cost to the Advisory Committee, and any such agency is authorized to provide services as requested by the Committee.
 
@@ -2070,10 +2161,11 @@ Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(1), (4)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–286, § 4(a)(163)(A), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
+Subsec. (b)(4)(D). Pub. L. 117–286, § 4(a)(163)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2020—Pub. L. 116–260, § 601(a)(1), (2), provided that section 601 of Pub. L. 116–113 does not apply to this section and revived the provisions of this section as if such section 601 had not been enacted. See below.
 
 Pub. L. 116–113, § 601, which repealed this section effective on the date the USMCA entered into force (July 1, 2020), was made inapplicable to this section by section 601(a)(1), (2) of Pub. L. 116–260.
@@ -2082,7 +2174,7 @@ Pub. L. 116–113, § 601, which repealed this section effective on the date the
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c&num=0&edition=prelim), Customs Duties.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Definitions
 Agreement means the North American Free Trade Agreement, see [section 3301(1) of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3301/1&num=0&edition=prelim), Customs Duties.
@@ -2094,8 +2186,8 @@ Functions of President under subsec. (a)(1) to (3) of this section delegated to 
 For provisions establishing the Community Adjustment and Investment Program Finance Committee to assist in carrying out the program pursuant to subsec. (a)(3) of this section and to provide to the President advice and conclusions of reviews by the Advisory Committee pursuant to subsec. (b)(3) of this section and summaries of public comments or conclusions of investigations and audits by the ombudsman pursuant to subsec. (c)(1) of this section, see Ex. Ord. No. 12916, §§ 7–9, May 13, 1994, 59 F.R. 25780, set out as a note under [section 3473 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3473&num=0&edition=prelim), Customs Duties.
 
 
-<a id="section-269f"></a>
-## § 269f. “Border Environment Cooperation Agreement” defined
+<a id="section-269g-1"></a>
+## § 269g–1. “Border Environment Cooperation Agreement” defined
 
 For purposes of this subchapter, the term “Border Environment Cooperation Agreement” (referred to in this subchapter as the “Cooperation Agreement”) means the November 1993 Agreement Between the Government of the United States of America and the Government of the United Mexican States Concerning the Establishment of a Border Environment Cooperation Commission and a North American Development Bank.
 
@@ -2113,8 +2205,8 @@ Pub. L. 116–113, § 601, which repealed this section effective on the date the
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c&num=0&edition=prelim), Customs Duties.
 
 
-<a id="section-269g"></a>
-## § 269g. Authority to agree to certain amendments to the Border Environment Cooperation Agreement
+<a id="section-269h"></a>
+## § 269h. Authority to agree to certain amendments to the Border Environment Cooperation Agreement
 
 The President may agree to amendments to the Cooperation Agreement that—
 
@@ -2133,8 +2225,8 @@ Pub. L. 116–113, § 601, which repealed this section effective on the date the
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c&num=0&edition=prelim), Customs Duties.
 
 
-<a id="section-269g-1"></a>
-## § 269g–1. Grants out of paid-in capital resources
+<a id="section-270-to-270g"></a>
+## § 270 to 270g. Grants out of paid-in capital resources
 **(a) In general** The President shall instruct the United States Federal Government representatives on the Board of Directors of the North American Development Bank to oppose any proposal where grants out of the Bank’s paid-in capital resources, except for grants from paid-in capital authorized for the community adjustment and investment program under the Bank’s charter of 1993, would—
 
 (1) be made to a project that is not being financed, in part, by loans; or
@@ -2166,16 +2258,16 @@ Pub. L. 116–113, § 601, which repealed this section effective on the date the
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c&num=0&edition=prelim), Customs Duties.
 
 
-<a id="section-269h"></a>
-## § 269h. Repealed. Pub. L. 113–188, title XVI, § 1601(a), Nov. 26, 2014, 128 Stat. 2025
+<a id="section-271"></a>
+## § 271. Repealed. Pub. L. 113–188, title XVI, § 1601(a), Nov. 26, 2014, 128 Stat. 2025
 
 ### Statutory Notes
 
 Section, Pub. L. 108–215, § 2, Apr. 5, 2004, 118 Stat. 580, required and described the content of annual reports on the North American Development Bank.
 
 
-<a id="section-270-to-270g"></a>
-## § 270 to 270g. First capital increase
+<a id="section-272"></a>
+## § 272. First capital increase
 **(a) Subscription authorized**
 
 (1) **In general** — The Secretary of the Treasury is authorized to subscribe on behalf of the United States to, and make payment for, 150,000 additional shares of the capital stock of the Bank.
@@ -2203,8 +2295,8 @@ Pub. L. 116–113, § 601, which repealed this section effective on the date the
 Amendment by Pub. L. 116–260 effective July 1, 2020, see section 601(h) of div. O of Pub. L. 116–260, set out as a note under [section 81c of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section81c&num=0&edition=prelim), Customs Duties.
 
 
-<a id="section-271"></a>
-## § 271. Performance measures
+<a id="section-272a"></a>
+## § 272a. Performance measures
 **(a) In general** The Secretary of the Treasury should direct the representatives of the United States to the Board of Directors of the North American Development Bank to use the voice and vote of the United States to seek to require the Bank to develop performance measures that—
 
 (1) demonstrate how projects and financing approved by the Bank are meeting the Bank’s mission and providing added value to the region near the international land border between the United States and Mexico; and
@@ -2225,8 +2317,8 @@ Pub. L. 116–113, title VIII, § 832, Jan. 29, 2020, 134 Stat. 97, provided tha
 Pub. L. 116–113, title VIII, § 833, Jan. 29, 2020, 134 Stat. 97, provided that: “The Secretary of the Treasury should direct the representatives of the United States to the Board of Directors of the North American Development Bank to use the voice and vote of the United States to seek to require the Bank to develop and implement efficiency improvements to streamline and accelerate the project certification and financing process, including through initiatives such as single certifications for revolving facilities, programmatic certification of similar groups of small projects, expansion of internal authority to approve qualified projects below certain monetary thresholds, and expedited certification for public sector projects subject to lender bidding processes.”
 
 
-<a id="section-272"></a>
-## § 272. Appointment of members of Border Health Commission
+<a id="section-272b"></a>
+## § 272b. Appointment of members of Border Health Commission
 
 Not later than 30 days after November 29, 1999, the President shall appoint the United States members of the United States-Mexico Border Health Commission, and shall attempt to conclude an agreement with Mexico providing for the establishment of such Commission.
 
@@ -2239,8 +2331,8 @@ A prior section 290n, Pub. L. 103–400, § 2, Oct. 22, 1994, 108 Stat. 4169, re
 Pub. L. 103–400, § 1, Oct. 22, 1994, 108 Stat. 4169, provided that: “This Act [enacting this subchapter] may be cited as the ‘United States-Mexico Border Health Commission Act’.”
 
 
-<a id="section-272a"></a>
-## § 272a. Duties
+<a id="section-273"></a>
+## § 273. Duties
 
 It should be the duty of the Commission—
 
@@ -2262,8 +2354,8 @@ Par. (2)(B). Pub. L. 106–113, § 1000(a)(4) [title V, § 516(2)(B)], substitut
 Par. (3). Pub. L. 106–113, § 1000(a)(4) [title V, § 516(2)(C)], struck out par. (3) which read as follows: “to formulate recommendations to the Governments of the United States and Mexico concerning a fair and reasonable method by which the government of one country could reimburse a public or private entity in the other country for the cost of a health care service that the entity furnishes to a citizen of the first country who is unable, through insurance or otherwise, to pay for the service.”
 
 
-<a id="section-272b"></a>
-## § 272b. Other authorized functions
+<a id="section-274"></a>
+## § 274. Other authorized functions
 
 In addition to the duties described in [section 290n–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290n-1), the Commission should be authorized to perform the following functions as the Commission determines to be appropriate—
 
@@ -2274,8 +2366,8 @@ In addition to the duties described in [section 290n–1 of this title](./chapte
 (3) to provide financial, technical, or administrative assistance to public or private nonprofit entities who act to prevent or resolve such problems or who educate the population concerning such health problems.
 
 
-<a id="section-273"></a>
-## § 273. Membership
+<a id="section-274a"></a>
+## § 274a. Membership
 **(a) Number and appointment of United States section** The United States section of the Commission should be composed of 13 members. The section should consist of the following members:
 
 (1) The Secretary of Health and Human Services or the Secretary’s delegate.
@@ -2293,8 +2385,8 @@ In addition to the duties described in [section 290n–1 of this title](./chapte
 (2) shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services of the Commission.
 
 
-<a id="section-274"></a>
-## § 274. Regional offices
+<a id="section-274b"></a>
+## § 274b. Regional offices
 
 The Commission may designate or establish one border health office in each of the States of Texas, New Mexico, Arizona, and California. Such office should be located within the United States-Mexico Border Area, and should be coordinated with—
 
@@ -2304,14 +2396,14 @@ The Commission may designate or establish one border health office in each of th
 If feasible to avoid duplicative efforts, the Commission offices should be located in existing State or local nonprofit offices. The Commission should provide adequate compensation for cooperative efforts and resources.
 
 
-<a id="section-274a"></a>
-## § 274a. Reports
+<a id="section-275"></a>
+## § 275. Reports
 
 Not later than February 1 of each year that occurs more than 1 year after the date of the establishment of the Commission, the Commission should submit an annual report to both the United States Government and the Government of Mexico regarding all activities of the Commission during the preceding calendar year.
 
 
-<a id="section-274b"></a>
-## § 274b. Definitions
+<a id="section-275a"></a>
+## § 275a. Definitions
 
 As used in this subchapter:
 
@@ -2324,8 +2416,8 @@ As used in this subchapter:
 (4) **United States-Mexico Border Area** — The term “United States-Mexico Border Area” means the area located in the United States and Mexico within 100 kilometers of the border between the United States and Mexico.
 
 
-<a id="section-275"></a>
-## § 275. Acceptance of membership
+<a id="section-276-to-276a-4"></a>
+## § 276 to 276a–4. Acceptance of membership
 
 The President is hereby authorized to accept membership for the United States in the Bank for Economic Cooperation and Development in the Middle East and North Africa (in this subchapter referred to as the “Bank”) provided for by the agreement establishing the Bank (in this subchapter referred to as the “Agreement”), signed on May 31, 1996.
 
@@ -2336,24 +2428,6 @@ This subchapter, referred to in text, was in the original “this title”, mean
 
 #### Short Title
 Pub. L. 104–208, div. A, title I, § 101(c) [title VII, § 701], Sept. 30, 1996, 110 Stat. 3009–121, 2009–179, provided that: “This title [enacting this subchapter and amending sections 262r and 276c–2 of this title and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking] may be cited as the ‘Bank for Economic Cooperation and Development in the Middle East and North Africa Act’.”
-
-
-<a id="section-275a"></a>
-## § 275a. Governor and alternate Governor
-**(a) Appointment** At the inaugural meeting of the Board of Governors of the Bank, the Governor and the alternate for the Governor of the International Bank for Reconstruction and Development, appointed pursuant to [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a), shall serve ex-officio as a Governor and the alternate for the Governor, respectively, of the Bank. The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank and an alternate for the Governor.
-
-**(b) Compensation** Any person who serves as a governor of the Bank or as an alternate for the Governor may not receive any salary or other compensation from the United States by reason of such service.
-
-
-<a id="section-276-to-276a-4"></a>
-## § 276 to 276a–4. Applicability of certain provisions of Bretton Woods Agreements Act
-
-[Section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall apply to the Bank in the same manner in which such section applies to the International Bank for Reconstruction and Development and the International Monetary Fund.
-
-### Statutory Notes
-
-#### References in Text
-The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
 
 
 <a id="section-276aa"></a>
@@ -2376,9 +2450,10 @@ Section effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as
 
 
 <a id="section-276b"></a>
-## § 276b. Federal Reserve Banks as depositories
+## § 276b. Governor and alternate Governor
+**(a) Appointment** At the inaugural meeting of the Board of Governors of the Bank, the Governor and the alternate for the Governor of the International Bank for Reconstruction and Development, appointed pursuant to [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a), shall serve ex-officio as a Governor and the alternate for the Governor, respectively, of the Bank. The President, by and with the advice and consent of the Senate, shall appoint a Governor of the Bank and an alternate for the Governor.
 
-Any Federal Reserve Bank which is requested to do so by the Bank may act as its depository, or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall exercise general supervision over the carrying out of these functions.
+**(b) Compensation** Any person who serves as a governor of the Bank or as an alternate for the Governor may not receive any salary or other compensation from the United States by reason of such service.
 
 
 <a id="section-276bb"></a>
@@ -2393,9 +2468,13 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 ### Statutory Notes
 
 #### Similar Provisions
-Pub. L. 117–103, div. K, title VII, § 7025(c), Mar. 15, 2022, 136 Stat. 609, provided that: “The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any assistance by such institution, using funds appropriated or otherwise made available by this Act [div. K of Pub. L. 117–103, 136 Stat. 564, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
+Pub. L. 118–47, div. F, title VII, § 7025(c), Mar. 23, 2024, 138 Stat. 775, provided that: “The Secretary of the Treasury shall instruct the United States executive director of each international financial institution to use the voice and vote of the United States to oppose any assistance by such institution, using funds appropriated or otherwise made available by this Act [div. F of Pub. L. 118–47, 138 Stat. 729, see Tables for classification], for the production or extraction of any commodity or mineral for export, if it is in surplus on world markets and if the assistance will cause substantial injury to United States producers of the same, similar, or competing commodity.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. K, title VII, § 7025(c), Dec. 29, 2022, 136 Stat. 5018.
+
+Pub. L. 117–103, div. K, title VII, § 7025(c), Mar. 15, 2022, 136 Stat. 609.
 
 Pub. L. 116–260, div. K, title VII, § 7025(c), Dec. 27, 2020, 134 Stat. 1736.
 
@@ -2475,9 +2554,14 @@ Pub. L. 96–123, § 101(a) [incorporating Pub. L. 95–481, title VI, § 609], 
 
 Pub. L. 95–481, title VI, § 609, Oct. 18, 1978, 92 Stat. 1601.
 
-Pub. L. 117–103, div. K, title VII, § 7034(t)(3), Mar. 15, 2022, 136 Stat. 626, provided that: “In this Act [div. K of Pub. L. 117–103, 136 Stat. 564, see Tables for classification] ‘international financial institutions’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the International Fund for Agricultural Development, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency.”
+#### Definition of “International Financial Institutions”
+Pub. L. 118–47, div. F, title VII, § 7034(s)(3), Mar. 23, 2024, 138 Stat. 793, provided that: “In this Act [div. F of Pub. L. 118–47, 138 Stat. 729, see Tables for classification] ‘international financial institutions’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the International Monetary Fund, the International Fund for Agricultural Development, the Asian Development Bank, the Asian Development Fund, the Inter-American Investment Corporation, the North American Development Bank, the European Bank for Reconstruction and Development, the African Development Bank, the African Development Fund, and the Multilateral Investment Guarantee Agency.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. K, title VII, § 7034(s)(3), Dec. 29, 2022, 136 Stat. 5035.
+
+Pub. L. 117–103, div. K, title VII, § 7034(t)(3), Mar. 15, 2022, 136 Stat. 626.
 
 Pub. L. 116–260, div. K, title VII, § 7034(q)(3), Dec. 27, 2020, 134 Stat. 1754.
 
@@ -2497,7 +2581,32 @@ Pub. L. 113–76, div. K, title VII, § 7029(g), Jan. 17, 2014, 128 Stat. 508.
 
 
 <a id="section-276c"></a>
-## § 276c. Subscription of stock
+## § 276c. Applicability of certain provisions of Bretton Woods Agreements Act
+
+[Section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall apply to the Bank in the same manner in which such section applies to the International Bank for Reconstruction and Development and the International Monetary Fund.
+
+### Statutory Notes
+
+#### References in Text
+The Bretton Woods Agreements Act, referred to in section catchline, is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to subchapter XV (§ 286 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
+
+
+<a id="section-276cc"></a>
+## § 276cc. Repealed. Pub. L. 101–240, title V, § 541(d)(6), Dec. 19, 1989, 103 Stat. 2518
+
+### Statutory Notes
+
+Section, Pub. L. 96–259, title IV, § 401, June 3, 1980, 94 Stat. 431, related to communication and dissemination of information respecting export opportunity enhancement.
+
+
+<a id="section-276c-1"></a>
+## § 276c–1. Federal Reserve Banks as depositories
+
+Any Federal Reserve Bank which is requested to do so by the Bank may act as its depository, or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall exercise general supervision over the carrying out of these functions.
+
+
+<a id="section-276c-2"></a>
+## § 276c–2. Subscription of stock
 **(a) Subscription authority**
 
 (1) **In general** — The Secretary of the Treasury may subscribe on behalf of the United States to not more than 7,011,270 shares of the capital stock of the Bank.
@@ -2519,42 +2628,34 @@ Pub. L. 113–76, div. K, title VII, § 7029(g), Jan. 17, 2014, 128 Stat. 508.
 **(d) Disposition of net income distributions by Bank** Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
 
-<a id="section-276cc"></a>
-## § 276cc. Repealed. Pub. L. 101–240, title V, § 541(d)(6), Dec. 19, 1989, 103 Stat. 2518
-
-### Statutory Notes
-
-Section, Pub. L. 96–259, title IV, § 401, June 3, 1980, 94 Stat. 431, related to communication and dissemination of information respecting export opportunity enhancement.
-
-
-<a id="section-276c-1"></a>
-## § 276c–1. Jurisdiction and venue of civil actions by or against Bank
+<a id="section-276c-3"></a>
+## § 276c–3. Jurisdiction and venue of civil actions by or against Bank
 **(a) Jurisdiction** The United States district courts shall have original and exclusive jurisdiction of any civil action brought in the United States by or against the Bank.
 
 **(b) Venue** For purposes of [section 1391(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391/b&num=0&edition=prelim), the Bank shall be deemed to be a resident of the judicial district in which the principal office of the Bank in the United States, or its agent appointed for the purpose of accepting service or notice of service, is located.
 
 
-<a id="section-276c-2"></a>
-## § 276c–2. Effectiveness of Agreement
+<a id="section-276c-4"></a>
+## § 276c–4. Effectiveness of Agreement
 
 The Agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in the Bank and the entry into force of the Agreement.
 
 
-<a id="section-276c-3"></a>
-## § 276c–3. Exemption from securities laws for certain securities issued by Bank; reports required
+<a id="section-276c-5"></a>
+## § 276c–5. Exemption from securities laws for certain securities issued by Bank; reports required
 **(a) Exemption from securities laws; reports to Securities and Exchange Commission** Any securities issued by the Bank (including any guaranty by the Bank, whether or not limited in scope) in connection with borrowing of funds, or the guarantee of securities as to both principal and interest, shall be deemed to be exempted securities within the meaning of [section 77c(a)(2) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a/2&num=0&edition=prelim) and [section 78c(a)(12) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/12&num=0&edition=prelim). The Bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Bank and its operations and necessary in the public interest or for the protection of investors.
 
 **(b) Authority of Securities and Exchange Commission to suspend exemption; reports to Congress** The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, may suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.
 
 
-<a id="section-276c-4"></a>
-## § 276c–4. Acceptance of statute and membership
+<a id="section-276c-6"></a>
+## § 276c–6. Acceptance of statute and membership
 
 For fiscal year 2011 and thereafter, the President is authorized to accept the statute of, and to maintain membership of the United States in, the International Renewable Energy Agency, and the United States’ assessed contributions to maintain such membership may be paid from funds appropriated for “Contributions to International Organizations”.
 
 
-<a id="section-276c-5"></a>
-## § 276c–5. Organization of American States revitalization and reform strategy
+<a id="section-276c-7"></a>
+## § 276c–7. Organization of American States revitalization and reform strategy
 **(a) Strategy**
 
 (1) **In general** — Not later than 180 days after October 2, 2013, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a multiyear strategy that—
@@ -2785,7 +2886,7 @@ Provisions similar to this section were contained in act July 10, 1952, ch. 651,
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–15, 262r to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
+This Act, referred to in subsec. (a)(5), is Pub. L. 95–118, Oct. 3, 1977, 91 Stat. 1067, known as the International Financial Institutions Act, which enacted sections 262c, 262d, 262e to 262g–3, 262m to 262p–4q, 262p–5 to 262p–12, 262p–13 to 262p–17, 262r to 262r–5, 262s to 262t, 282i, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealed sections 283y, 284m, and 290g–9 of this title, and enacted provisions set out as notes under sections 262c and 282i of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 261 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-261) and Tables.
 
 #### Effective Date
 Section effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
@@ -4422,7 +4523,7 @@ For purposes of this title and titles XIV and XV—
 ### Statutory Notes
 
 #### References in Text
-This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–3 of this title, title XV is classified to sections 262o to 262o–4 of this title, and title XVI is classified to sections 262p to 262p–4q and 262p–5 to 262p–15 of this title. For complete classification of these titles to the Code, see Tables.
+This title and titles XIV and XV, referred to in text, are titles XVI, XIV, and XV, respectively, of Pub. L. 95–118. Title XIV is classified to sections 262n to 262n–3 of this title, title XV is classified to sections 262o to 262o–4 of this title, and title XVI is classified to sections 262p to 262p–4q, 262p–5 to 262p–12, and 262p–13 to 262p–17 of this title. For complete classification of these titles to the Code, see Tables.
 
 #### Codification
 Section 1622, formerly § 1606, of Pub. L. 95–118 is based on section 701 of title VII of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202. Renumbering of section 1606 of Pub. L. 95–118 as section 1612 was based on section 6 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
@@ -4791,7 +4892,36 @@ The definitions in [section 262p–5 of this title](./chapter-007-international-
 
 
 <a id="section-277g-2"></a>
-## § 277g–2. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism
+## § 277g–2. Ukraine debt payment relief
+**(a) Suspension of multilateral debt payments of Ukraine**
+
+(1) **United States position in the international financial institutions** — The Secretary of the Treasury shall instruct the United States Executive Director at each international financial institution (as defined in [section 262r(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c/2&num=0&edition=prelim)) to use the voice, vote, and influence of the United States to advocate that the respective institution immediately provide appropriate debt service relief to Ukraine.
+
+(2) **Official bilateral and commercial debt service payment relief** — The Secretary of the Treasury, working in coordination with the Secretary of State, shall commence immediate efforts with other governments and commercial creditor groups, through the Paris Club of Official Creditors and other bilateral and multilateral frameworks, both formal and informal, to pursue comprehensive debt payment relief for Ukraine.
+
+(3) **Multilateral financial support for Ukraine** — The Secretary of the Treasury shall direct the United States Executive Director at each international financial institution (as defined in [section 262r(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c/2&num=0&edition=prelim)) to use the voice and vote of the United States to support, to the extent practicable, the provision of concessional financial assistance for Ukraine.
+
+(4) **Multilateral financial support for refugees** — The Secretary of the Treasury shall direct the United States Executive Director at each international financial institution (as defined in [section 262r(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c/2&num=0&edition=prelim)) to use the voice and vote of the United States to seek to provide economic support for refugees from Ukraine, including refugees of African and Asian descent, and for countries receiving refugees from Ukraine that are eligible for assistance from the multilateral development banks.
+
+**(b) Report to the Congress** Not later than December 31 of each year, the President shall—
+
+(1) submit to the Committees on Financial Services, on Appropriations, and on Foreign Affairs of the House of Representatives and the Committees on Foreign Relations and on Appropriations of the Senate, a report on the activities undertaken under this section; and
+
+(2) make public a copy of the report.
+
+**(c) Waiver and termination**
+
+(1) **Waiver** — The President may waive the application of this section if the President determines that a waiver is in the national interest of the United States and reports to the Congress an explanation of the reasons therefor.
+
+(2) **Termination** — This section shall have no force or effect on the earlier of—
+
+  (A) the date that is 7 years after December 23, 2022; or
+
+  (B) the date that is 30 days after the date on which the President reports to Congress that the Government of the Russian Federation has ceased its destabilizing activities with respect to the sovereignty and territorial integrity of Ukraine.
+
+
+<a id="section-277g-3"></a>
+## § 277g–3. Support for capacity of the International Monetary Fund to prevent money laundering and financing of terrorism
 
 The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice and vote of the United States to support the increased use of the administrative budget of the Fund for technical assistance that strengthens the capacity of members of the Fund to prevent money laundering and the financing of terrorism.
 
@@ -4807,8 +4937,8 @@ Pub. L. 116–92, div. F, title LXXI, § 7125(b), Dec. 20, 2019, 133 Stat. 2249,
 The definitions in [section 262p–5 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-5) apply to this section.
 
 
-<a id="section-277g-3"></a>
-## § 277g–3. Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts
+<a id="section-277h"></a>
+## § 277h. Support to enhance the capacity of fund members to evaluate the legal and financial terms of sovereign debt contracts
 
 The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund to use the voice and vote of the United States to advocate that the Fund promote international standards and best practices with respect to sovereign debt contracts and provide technical assistance to Fund members, and in particular to lower middle-income countries and countries eligible to receive assistance from the International Development Association, seeking to enhance their capacity to evaluate the legal and financial terms of sovereign debt contracts with multilateral, bilateral, and private sector creditors.
 
@@ -4824,8 +4954,8 @@ Pub. L. 117–81, div. F, title LXI, § 6103(c), Dec. 27, 2021, 135 Stat. 2385, 
 The definitions in [section 262p–5 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-5) apply to this section.
 
 
-<a id="section-277h"></a>
-## § 277h. United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank
+<a id="section-277i"></a>
+## § 277i. United States policy on Burma at the International Monetary Fund, the World Bank Group, and the Asian Development Bank
 **(a) Policy of the United States** The Secretary of Treasury shall instruct the United States Executive Directors at the International Monetary Fund, the World Bank Group, and the Asian Development Bank to inform the respective institution that it is the policy of the United States to oppose, and to use the voice and vote of the United States to vote against, any loan or financial assistance to Burma through the State Administration Council, or any successor entity controlled by the military, except for humanitarian assistance channeled through an implementing agency not controlled by the Burmese military.
 
 **(b) Submission of written statements** No later than 60 calendar days after a meeting of the Board of Directors of the World Bank Group or the Asian Development Bank, the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate any written statement presented at the meeting by the United States Executive Director concerning the United States policy described in subsection (a) or the United States position on any strategy, policy, loan, extension of financial assistance, or technical assistance related to Burma considered by the Board.
@@ -4850,8 +4980,84 @@ Pub. L. 117–81, div. F, title LXI, § 6104(c), Dec. 27, 2021, 135 Stat. 2386, 
 The definitions in [section 262p–5 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-5) apply to this section.
 
 
-<a id="section-277i"></a>
-## § 277i. Transferred
+<a id="section-277j"></a>
+## § 277j. United States policy on World Bank Group and Asian Development Bank Assistance to the People’s Republic of China
+**(a) In general** The Secretary of the Treasury shall instruct the United States Executive Director at each international financial institution of the World Bank Group and at the Asian Development Bank to use the voice and vote of the United States at the respective institution to vote against the provision of any loan, extension of financial assistance, or technical assistance to the People’s Republic of China unless the Secretary of the Treasury has certified to the appropriate congressional committees that—
+
+(1) the Government of the People’s Republic of China and any lender owned or controlled by the Government of the People’s Republic of China have demonstrated a commitment—
+
+  (A) to the rules and principles of the Paris Club, or of other similar coordinated multilateral initiatives on debt relief and debt restructuring in which the United States participates, including with respect to debt transparency and appropriate burden-sharing among all creditors;
+
+  (B) to the practice of presumptive public disclosure of the terms and conditions on which they extend credit to other governments (without regard to the form of any such extension of credit);
+
+  (C) not to enforce any agreement terms that may impair their own or the borrowers’ capacity fully to implement any commitment described in subparagraph (A) or (B); and
+
+  (D) not to enter into any agreement containing terms that may impair their own or the borrowers’ capacity fully to implement any commitment described in subparagraph (A) or (B); or
+
+(2) the loan or assistance is important to the national interest of the United States, as described in a detailed explanation by the Secretary to accompany the certification.
+
+**(b) Definitions** In this section:
+
+(1) **Appropriate congressional committees** — The term “appropriate congressional committees” means the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate.
+
+(2) **World Bank Group** — The term “World Bank Group” means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, and the Multilateral Investment Guarantee Agency.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 117–263, div. E, title LVII, § 5701(b), Dec. 23, 2022, 136 Stat. 3408, provided that, effective on the date that is 7 years after Dec. 23, 2022, this section is repealed.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LVII, § 5701(b), Dec. 23, 2022, 136 Stat. 3408, provided that: “The amendment made by subsection (a) [enacting this section] is repealed effective on the date that is 7 years after the effective date of this section [Dec. 23, 2022].”
+
+#### Definitions
+The definitions in [section 262p–5 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-5) apply to this section.
+
+
+<a id="section-278"></a>
+## § 278. Support for international initiatives to provide debt restructuring or relief to developing countries with unsustainable levels of debt
+**(a) Debt relief** The Secretary of the Treasury, in consultation with the Secretary of State, shall—
+
+(1) engage with international financial institutions, the G20, and official and commercial creditors to advance support for prompt and effective implementation and improvement of the Common Framework for Debt Treatments beyond the DSSI (in this section referred to as the “Common Framework”), or any successor framework or similar coordinated international debt treatment process in which the United States participates through the establishment and publication of clear and accountable—
+
+  (A) debt treatment benchmarks designed to achieve debt sustainability for each participating debtor;
+
+  (B) standards for appropriate burden-sharing among all creditors with material claims on each participating debtor, without regard for their official, private, or hybrid status;
+
+  (C) robust debt disclosure by creditors, including the People’s Republic of China, and debtor countries, including inter-creditor data-sharing and, to the maximum extent practicable, public disclosure of material terms and conditions of claims on participating debtors;
+
+  (D) expansion of Common Framework country eligibility to lower middle-income countries who otherwise meet the existing criteria;
+
+  (E) improvements to the Common Framework process with the aim of ensuring access to debt relief in a timely manner for those countries eligible and who request treatment; and
+
+  (F) consistent enforcement and improvement of the policies of multilateral institutions relating to asset-based and revenue-based borrowing by participating debtors, and coordinated standards on restructuring collateralized debt;
+
+(2) engage with international financial institutions and official and commercial creditors to advance support, as the Secretary finds appropriate, for debt restructuring or debt relief for each participating debtor, including, on a case-by-case basis, a debt standstill, if requested by the debtor country through the Common Framework process from the time of conclusion of a staff-level agreement with the International Monetary Fund, and until the conclusion of a memorandum of understanding with its creditor committee pursuant to the Common Framework, or any successor framework or similar coordinated international debt treatment process in which the United States participates; and
+
+(3) instruct the United States Executive Director at the International Monetary Fund and the United States Executive Director at the World Bank to use the voice and vote of the United States to advance the efforts described in paragraphs (1) and (2).
+
+**(b) Reporting requirement** Not later than 120 days after December 23, 2022, and annually thereafter, the Secretary of the Treasury, in coordination with the Secretary of State, shall submit to the Committees on Banking, Housing, and Urban Affairs and Foreign Relations of the Senate and the Committees on Financial Services and Foreign Affairs of the House of Representatives a report that describes—
+
+(1) any actions that have been taken, in coordination with international financial institutions, by official creditors, including the government of, and state-owned enterprises in, the People’s Republic of China, and relevant commercial creditor groups to advance debt restructuring or relief for countries with unsustainable debt that have sought restructuring or relief under the Common Framework, any successor framework or mechanism, or under any other coordinated international arrangement for sovereign debt restructuring in which the United States participates;
+
+(2) any implementation challenges that hinder the ability of the Common Framework to provide timely debt restructuring for any country with unsustainable debt that seeks debt restructuring or debt payment relief, including any refusal of a creditor to participate in appropriate burden-sharing, including failure to share (or publish, as appropriate) all material information needed to assess debt sustainability; and
+
+(3) recommendations on how to address any challenges identified in paragraph (2).
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 117–263, div. E, title LVII, § 5702(b), Dec. 23, 2022, 136 Stat. 3410, provided that, effective on the date that is 5 years after Dec. 23, 2022, this section is repealed.
+
+#### Effective Date of Repeal
+Pub. L. 117–263, div. E, title LVII, § 5702(b), Dec. 23, 2022, 136 Stat. 3410, provided that: “The amendment made by subsection (a) [enacting this section] is repealed effective on the date that is 5 years after the effective date of this section [Dec. 23, 2022].”
+
+#### Definitions
+The definitions in [section 262p–5 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-5) apply to this section.
+
+
+<a id="section-278a"></a>
+## § 278a. Transferred
 
 ### Statutory Notes
 
@@ -4859,8 +5065,8 @@ The definitions in [section 262p–5 of this title](./chapter-007-international-
 Section, Pub. L. 100–418, title III, § 3202, Aug. 23, 1988, 102 Stat. 1382, which related to multilateral development bank procurement, was renumbered section 1801 of title XVIII of Pub. L. 95–118, by Pub. L. 101–240, title V, § 541(b)(1), Dec. 19, 1989, 103 Stat. 2517, and transferred to [section 262s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262s).
 
 
-<a id="section-278"></a>
-## § 278. Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies
+<a id="section-278b"></a>
+## § 278b. Annual report by Chairman of National Advisory Council on International Monetary and Financial Policies
 **(a) In general** The Chairman shall report annually to the Speaker of the House of Representatives, the President of the Senate, and to the President of the United States on the participation of the United States in the international financial institutions. The Chairman shall present such report to the Speaker of the House of Representatives and the President of the Senate not later than April 1 of each year following the close of the fiscal year covered by such report, except that the report for fiscal year 1989 shall be submitted not later than June 1, 1990.
 
 **(b) Contents of reports** Each annual report required by subsection (a) shall contain—
@@ -4949,8 +5155,8 @@ Pub. L. 105–277, div. A, § 101(d) [title VI, § 606], Oct. 21, 1998, 112 Stat
 Pub. L. 105–277, div. A, § 101(d) [title VI, § 607], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, as amended by Pub. L. 106–200, title IV, § 404(a), May 18, 2000, 114 Stat. 291, provided that: “For purposes of sections 601 through 606 of this title [see Tables for classification], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services [now Committee on Financial Services] of the House of Representatives.”
 
 
-<a id="section-278a"></a>
-## § 278a. Transmission to the Congress of operating summaries of the multilateral development banks
+<a id="section-279"></a>
+## § 279. Transmission to the Congress of operating summaries of the multilateral development banks
 
 The Secretary of the Treasury shall transmit to the Congress, on a monthly basis, current copies of the Monthly Operating Summary of the International Bank for Reconstruction and Development, showing the loan proposals or appraisal reports under consideration and the status of those loan proposals or appraisal reports within the Bank. The Secretary of the Treasury shall also transmit to the Congress, at such times as may be appropriate, comparable documents prepared by the other multilateral development banks which show the loans or credits under consideration in the other multilateral development banks.
 
@@ -4960,8 +5166,8 @@ The Secretary of the Treasury shall transmit to the Congress, on a monthly basis
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-278b"></a>
-## § 278b. Combined report on effect of pending multilateral development bank loans on environment, natural resources, public health, and indigenous peoples
+<a id="section-279a"></a>
+## § 279a. Combined report on effect of pending multilateral development bank loans on environment, natural resources, public health, and indigenous peoples
 
 Not later than April 1 and October 1 of each year, the Administrator of the Agency for International Development, in consultation with the Secretary of the Treasury and the Secretary of State, shall submit to the Committee on Appropriations and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, as a combined report, the reports required by [section 262m–2(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262m–2/c&num=0&edition=prelim) and by section 262l–1(h)(2) of this title.
 
@@ -4974,8 +5180,8 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-279"></a>
-## § 279. Reports on financial stabilization programs led by International Monetary Fund in connection with financing from Exchange Stabilization Fund
+<a id="section-279b"></a>
+## § 279b. Reports on financial stabilization programs led by International Monetary Fund in connection with financing from Exchange Stabilization Fund
 **(a) In general** The Secretary of the Treasury, in consultation with the Secretary of Commerce and other appropriate Federal agencies, shall prepare reports on the implementation of financial stabilization programs (and any material terms and conditions thereof) led by the International Monetary Fund in countries in connection with which the United States has made a commitment to provide, or has provided financing from the stabilization fund established under [section 5302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5302&num=0&edition=prelim). The reports shall include the following:
 
 (1) A description of the condition of the economies of countries requiring the financial stabilization programs, including the monetary, fiscal, and exchange rate policies of the countries.
@@ -5030,8 +5236,8 @@ Committee on International Relations of House of Representatives changed to Comm
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-279a"></a>
-## § 279a. Annual report and testimony on state of international financial system, IMF reform, and compliance with IMF agreements
+<a id="section-279c"></a>
+## § 279c. Annual report and testimony on state of international financial system, IMF reform, and compliance with IMF agreements
 **(a) Reports** Not later than October 1 of each year, the Secretary of the Treasury shall submit to the Committees on Banking and Financial Services and on Ways and Means of the House of Representatives and the Committees on Finance and on Foreign Relations of the Senate a written report on (1) the progress (if any) made by the United States Executive Director at the International Monetary Fund in influencing the International Monetary Fund to adopt the policies and reform its internal procedures in the manner described in section 262o–2 of this title, and (2) the progress made by the International Monetary Fund in adopting and implementing the policies described in section 801(c)(1)(B) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001.
 
 **(b) Testimony** After submitting the report required by subsection (a) but not later than March 1 of each year, the Secretary of the Treasury shall appear before the Committee on Banking and Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate and present testimony on—
@@ -5063,16 +5269,16 @@ Committee on Banking and Financial Services of House of Representatives abolishe
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-279b"></a>
-## § 279b. Repealed. Pub. L. 106–429, § 101(a) [title V, § 592], Nov. 6, 2000, 114 Stat. 1900, 1900A–59
+<a id="section-279d"></a>
+## § 279d. Repealed. Pub. L. 106–429, § 101(a) [title V, § 592], Nov. 6, 2000, 114 Stat. 1900, 1900A–59
 
 ### Statutory Notes
 
 Section, Pub. L. 95–118, title XVII, § 1706, as added Pub. L. 105–277, div. A, § 101(d) [title VI, § 614], Oct. 21, 1998, 112 Stat. 2681–150, 2681–230; amended Pub. L. 106–31, title V, § 5003, May 21, 1999, 113 Stat. 110; Pub. L. 106–200, title IV, § 404(d), May 18, 2000, 114 Stat. 292, related to audits of International Monetary Fund.
 
 
-<a id="section-279c"></a>
-## § 279c. Reports on policies, operations, and management of international financial institutions
+<a id="section-280"></a>
+## § 280. Reports on policies, operations, and management of international financial institutions
 **(a) Repealed. Pub. L. 108–199, div. D, title V, § 599B(c), Jan. 23, 2004, 118 Stat. 211**
 
 **(b) Annual report on United States supported policies** Beginning 180 days after the date of enactment of this Act [November 6, 2000], or October 31, 2000, whichever is later, and on October 31 of each year thereafter, the Secretary shall submit a report to the appropriate congressional committees on—
@@ -5104,8 +5310,8 @@ Section is comprised of section 101(a) [title VIII, § 803] of Pub. L. 106–429
 Pub. L. 106–429, § 101(a) [title VIII, § 806], Nov. 6, 2000, 114 Stat. 1900, 1900A–68, provided that: “In this title [enacting this section and section 286oo of this title and amending sections 262r–4, 286nn, and 2169 of this title]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate, and the Committee on Banking and Financial Services [now Committee on Financial Services] and the Committee on Appropriations of the House of Representatives. “(2) Bank.—The term ‘Bank’ means the International Bank for Reconstruction and Development. “(3) Fund.—The term ‘Fund’ means the International Monetary Fund. “(4) International financial institutions.—The term ‘international financial institutions’ means the multilateral development banks and the International Monetary Fund. “(5) Multilateral development banks.—The term ‘multilateral development banks’ means the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency. “(6) Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.”
 
 
-<a id="section-279d"></a>
-## § 279d. Multilateral development bank procurement
+<a id="section-280a"></a>
+## § 280a. Multilateral development bank procurement
 **(a) Executive Directors** The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to attach a high priority to promoting opportunities for exports for goods and services from the United States and, in carrying out this function, to investigate thoroughly any complaints from United States bidders about the awarding of procurement contracts by the multilateral development banks to ensure that all contract procedures and rules of the banks are observed and that United States firms are treated fairly.
 
 **(b) 11 So in original. Two subsecs. (b) have been enacted. Officer of procurement**
@@ -5128,8 +5334,8 @@ Pub. L. 100–418, title III, § 3201, Aug. 23, 1988, 102 Stat. 1382, provided t
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-280"></a>
-## § 280. Procurement opportunities for United States firms
+<a id="section-280b"></a>
+## § 280b. Procurement opportunities for United States firms
 
 The Secretary of the Treasury shall instruct the United States Executive Directors of the multilateral development institutions to take all possible steps to ensure that information relating to potential procurement opportunities for United States firms is expeditiously communicated to the Secretary of the Treasury, the Secretary of State, and the Secretary of Commerce, and is disseminated as widely as possible to large and small businesses.
 
@@ -5139,8 +5345,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-280a"></a>
-## § 280a. Commercial Service Officers and multilateral development bank procurement
+<a id="section-280c"></a>
+## § 280c. Commercial Service Officers and multilateral development bank procurement
 **(a) Appointment of Commercial Service Officers to serve with Executive Directors** The Secretary of Commerce, in consultation with the Secretary of the Treasury, shall appoint a procurement officer, who is a representative of the International Trade Administration or a Commercial Service Officer of the United States and Foreign Commercial Service, to serve, on a full-time or part-time basis, with each of the Executive Directors of the multilateral development banks in which the United States participates.
 
 **(b) Functions of officers** Each procurement officer appointed under subsection (a) shall assist the United States Executive Director with respect to whom such officer is appointed in promoting opportunities for exports of goods and services from the United States by doing the following:
@@ -5166,8 +5372,8 @@ Pub. L. 102–549, title V, § 501, Oct. 28, 1992, 106 Stat. 3663, provided that
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-280b"></a>
-## § 280b. Personnel practices
+<a id="section-280h"></a>
+## § 280h. Personnel practices
 **(a) Statement of policy** It shall be the policy of the United States that no initiatives, discussions, or recommendations concerning the placement or removal of any personnel employed by the international financial institutions shall be based on the political philosophy or activity of the individual under consideration.
 
 **(b) Consultation** The Secretary of the Treasury shall consult with the Chairman and the ranking minority member of the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate before any discussion or recommendations by any official of the United States Government concerning the placement or removal of any principal officer of any international financial institutions.
@@ -5181,14 +5387,14 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 The definitions in [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) apply to this section.
 
 
-<a id="section-280c"></a>
-## § 280c. International Prison Commission
+<a id="section-280i"></a>
+## § 280i. International Prison Commission
 
 The United States shall continue as an adhering member of the International Prison Commission and participate in the work of said commission.
 
 
-<a id="section-280h"></a>
-## § 280h. International Criminal Police Organization
+<a id="section-280j"></a>
+## § 280j. International Criminal Police Organization
 
 The Attorney General is authorized to accept and maintain, on behalf of the United States, membership in the International Criminal Police Organization, and to designate any departments and agencies which may participate in the United States representation with that organization. All dues and expenses to be paid for the membership of the United States shall be paid out of sums authorized and appropriated for the Department of Justice.
 
@@ -5206,8 +5412,8 @@ The Attorney General is authorized to accept and maintain, on behalf of the Unit
 1958—Pub. L. 85–768 authorized the Attorney General to designate departments and agencies which may participate, on a pro rata share basis, in the United States representation with the International Criminal Police Organization, and increased from $1,500 to $25,000 per annum the amount of expenses which may be incurred by reason of United States membership.
 
 
-<a id="section-280i"></a>
-## § 280i. Transnational repression accountability and prevention
+<a id="section-280k"></a>
+## § 280k. Transnational repression accountability and prevention
 **(a) Sense of Congress** It is the sense of Congress that some INTERPOL member countries have repeatedly misused INTERPOL’s databases and processes, including Notice and Diffusion mechanisms, to conduct activities of an overtly political or other unlawful character and in violation of international human rights standards, including by making requests to harass or persecute political opponents, human rights defenders, or journalists.
 
 **(b) Support for INTERPOL institutional reforms** The Attorney General and the Secretary of State shall—
@@ -5285,8 +5491,8 @@ The Attorney General is authorized to accept and maintain, on behalf of the Unit
 (2) **INTERPOL communications** — The term “INTERPOL communications” means any INTERPOL Notice or Diffusion or any entry into any INTERPOL database or other communications system maintained by INTERPOL.
 
 
-<a id="section-280j"></a>
-## § 280j. Anti-piracy information sharing
+<a id="section-281-to-281b"></a>
+## § 281 to 281b. Anti-piracy information sharing
 
 The Secretary is authorized to provide for the participation by the United States in the Information Sharing Centre located in Singapore, as established by the Regional Cooperation Agreement on Combating Piracy and Armed Robbery against Ships in Asia (ReCAAP).
 
@@ -5296,8 +5502,8 @@ The Secretary is authorized to provide for the participation by the United State
 Pub. L. 117–81, div. E, § 5002, Dec. 27, 2021, 135 Stat. 2341, provided that: “In this division [see Tables for classification]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. “(2) Department.—If not otherwise specified, the term ‘Department’ means the Department of State. “(3) Secretary.—If not otherwise specified, the term ‘Secretary’ means the Secretary of State.”
 
 
-<a id="section-280k"></a>
-## § 280k. Omitted
+<a id="section-281b-1"></a>
+## § 281b–1. Omitted
 
 ### Statutory Notes
 
@@ -5307,8 +5513,8 @@ Section 264, act Aug. 18, 1894, ch. 301, 28 Stat. 418, which related to Pan Amer
 Section 265, act Jan. 25, 1929, ch. 102, title I, 45 Stat. 1102, which was from an appropriation act, related to disposition of receipts of Pan American Union, and was not repeated in subsequent appropriation acts.
 
 
-<a id="section-281-to-281b"></a>
-## § 281 to 281b. International commission of congresses of navigation; authorization of appropriation for expenses
+<a id="section-281b-2-to-281j"></a>
+## § 281b–2 to 281j. International commission of congresses of navigation; authorization of appropriation for expenses
 
 The sum of $3,000 a year is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, for the support and maintenance of the permanent international commission of the congresses of navigation and for the payment of the actual expenses of the properly accredited national delegates of the United States to the meetings of the congresses and of the commission; and the Secretary of the Army is authorized to draw his warrant each year upon the Secretary of the Treasury for such sum, not to exceed $3,000, as may in his opinion be proper to apply to the purposes above mentioned, and the said sum shall be disbursed under such regulations as may be prescribed by the Secretary of the Army.
 
@@ -5327,8 +5533,8 @@ Department of War designated Department of the Army and title of Secretary of Wa
 Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, provided that the permanent appropriations under the appropriations titles listed in section 2(b) of such Act were repealed, effective July 1, 1935.
 
 
-<a id="section-281b-1"></a>
-## § 281b–1. Transferred
+<a id="section-281k"></a>
+## § 281k. Transferred
 
 ### Statutory Notes
 
@@ -5336,22 +5542,22 @@ Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, provided that the permanent 
 Section, act Feb. 14, 1931, ch. 189, 46 Stat. 1162, as amended, which related to appropriations for expenses of participation in the International Technical Committee of Aerial Legal Experts, was transferred to section 231 of former Title 49, Transportation, and subsequently repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 
-<a id="section-281b-2-to-281j"></a>
-## § 281b–2 to 281j. Repealed. June 11, 1940, ch. 306, 54 Stat. 263
+<a id="section-281l"></a>
+## § 281l. Repealed. June 11, 1940, ch. 306, 54 Stat. 263
 
 ### Statutory Notes
 
 Section, Joint Res. Aug. 7, 1935, ch. 455, § 2, 49 Stat. 540, related to termination of Authorizations for Participation in Work of Committee of International Technical Aerial Legal Experts.
 
 
-<a id="section-281k"></a>
-## § 281k. Permanent Commission of International Geodetic Association; representative of United States
+<a id="section-282"></a>
+## § 282. Permanent Commission of International Geodetic Association; representative of United States
 
 The duly appointed representative of the United States on the permanent commission of the International Geodetic Association is granted authority to vote with the representatives on the permanent commission from other nations on all matters coming before the association, including the extension of its existence, subject to the approval of Congress.
 
 
-<a id="section-281l"></a>
-## § 281l. Appointment of delegates; compensation
+<a id="section-282a"></a>
+## § 282a. Appointment of delegates; compensation
 
 The President is authorized to appoint delegates, who shall be officers of the National Ocean Survey, to attend the meetings of the International Geodetic Association whenever and wheresoever the same shall be held; but no extra salary or additional compensation shall be paid to such officers by reason of such attendance.
 
@@ -5361,8 +5567,8 @@ The President is authorized to appoint delegates, who shall be officers of the N
 Coast and Geodetic Survey consolidated with National Weather Bureau in 1965 to form Environmental Science Services Administration by Reorg. Plan No. 2 of 1965, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318. Environmental Science Services Administration abolished in 1970 and its personnel, property, records, etc., transferred to National Oceanic and Atmospheric Administration by Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090. By order of Acting Associate Administrator of National Oceanic and Atmospheric Administration, 35 F.R. 19249, Dec. 19, 1970, Coast and Geodetic Survey redesignated National Ocean Survey. See notes set out under [section 311 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section311&num=0&edition=prelim), Commerce and Trade.
 
 
-<a id="section-282"></a>
-## § 282. International Joint Commission; invitation to establish; personnel; duties
+<a id="section-282b"></a>
+## § 282b. International Joint Commission; invitation to establish; personnel; duties
 
 The President of the United States is requested to invite the Government of Great Britain to join in the formation of an international commission, to be composed of three members from the United States and three who shall represent the interests of the Dominion of Canada, whose duty it shall be to investigate and report upon the conditions and uses of the waters adjacent to the boundary lines between the United States and Canada, including all of the waters of the lakes and rivers whose natural outlet is by the River Saint Lawrence to the Atlantic Ocean; also upon the maintenance and regulation of suitable levels; and also upon the effect upon the shores of these waters and the structures thereon, and upon the interests of navigation, by reason of the diversion of these waters from or change in their natural flow; and, further, to report upon the necessary measures to regulate such diversion, and to make such recommendations for improvements and regulations as shall best subserve the interests of navigation in said waters. The said commissioners shall report upon the advisability of locating a dam at the outlet of Lake Erie, with a view to determining whether such dam will benefit navigation, and if such structure is deemed advisable, shall make recommendations to their respective Governments looking to an agreement or treaty which shall provide for the construction of the same, and they shall make an estimate of the probable cost thereof. The President, in selecting the three members of said Commission who shall represent the United States, is authorized to appoint one officer of the Corps of Engineers of the United States Army, one civil engineer well versed in the hydraulics of the Great Lakes, and one lawyer of experience in questions of international and riparian law, and said Commission shall be authorized to employ such persons as it may deem needful in the performance of the duties hereby imposed.
 
@@ -5381,14 +5587,14 @@ Jurisdiction, powers, or prerogatives of the International Joint Commission, Uni
 Joint Res. Jan. 31, 1956, ch. 27, 70 Stat. 9, provided for the Secretary of State to request the International Joint Commission created by the treaty between the United States and Great Britain relating to boundary waters between the United States and Canada to arrange for a final survey to be made to determine the cost of construction and economic feasibility of the proposed Passamaquoddy tidal power project at Passamaquoddy Bay, authorized United States agencies to assist the Commission, authorized appropriations, and required the Secretary of State to report the results of the survey to Congress.
 
 
-<a id="section-282a"></a>
-## § 282a. International Joint Commission; salaries; powers
+<a id="section-282c"></a>
+## § 282c. International Joint Commission; salaries; powers
 
 The salaries of the members on the part of the United States, of the International Joint Commission, established under the treaty of January 11, 1909, between the United States and Great Britain, relating to boundary waters between the United States and Canada, shall be fixed by the President. Said commission or any member thereof shall have power to administer oaths and to take evidence on oath whenever deemed necessary in any proceeding or inquiry or matter within its jurisdiction under said treaty, and said commission shall be authorized to compel the attendance of witnesses in any proceedings before it or the production of books and papers when necessary by application to the district court of the United States for the district within which such session is held, which court is hereby empowered and directed to make all orders and issue all processes necessary and appropriate for that purpose.
 
 
-<a id="section-282b"></a>
-## § 282b. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650
+<a id="section-282d"></a>
+## § 282d. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 650
 
 ### Statutory Notes
 
@@ -5407,8 +5613,8 @@ May 15, 1936, ch. 405, 49 Stat. 1319.
 Mar. 22, 1935, ch. 39, 49 Stat. 75.
 
 
-<a id="section-282c"></a>
-## § 282c. Advances from appropriation “Boundary line, Alaska and Canada, and the United States and Canada”
+<a id="section-282e"></a>
+## § 282e. Advances from appropriation “Boundary line, Alaska and Canada, and the United States and Canada”
 
 Advances of money under the appropriation “Boundary line, Alaska and Canada, and the United States and Canada”, may be made to the commissioner on the part of the United States and by his authority to chiefs of parties prior to March 2, 1921.
 
@@ -5432,8 +5638,8 @@ Section was formerly classified to [section 535 of Title 31](https://uscode.hous
 “General Accounting Office” substituted in text for “Treasury Department” pursuant to act June 10, 1921, which transferred powers and duties conferred upon Comptroller, six auditors, and certain other officers of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
 
 
-<a id="section-282d"></a>
-## § 282d. Limitation on expenditure of funds for compensation of International Boundary Commissioner to actual hours worked
+<a id="section-282f"></a>
+## § 282f. Limitation on expenditure of funds for compensation of International Boundary Commissioner to actual hours worked
 
 Funds appropriated on and after September 30, 1996, or otherwise made available under this Act or any other Act may be expended for compensation of the United States Commissioner of the International Boundary Commission, United States and Canada, only for actual hours worked by such Commissioner.
 
@@ -5447,8 +5653,8 @@ Pub. L. 103–317, title V, § 503, Aug. 26, 1994, 108 Stat. 1764.
 Pub. L. 103–121, title V, § 503, Oct. 27, 1993, 107 Stat. 1189.
 
 
-<a id="section-282e"></a>
-## § 282e. Permanent International Association of Road Congresses; authorization of membership
+<a id="section-282g"></a>
+## § 282g. Permanent International Association of Road Congresses; authorization of membership
 
 The President is authorized to maintain membership of the United States in the Permanent International Association of Road Congresses.
 
@@ -5458,8 +5664,8 @@ The President is authorized to maintain membership of the United States in the P
 A prior section 269, act June 18, 1926, ch. 623, 44 Stat. 754, authorized appropriations of $3,000 per annum to enable United States to accept membership in Permanent Association of International Road Congresses, prior to repeal by Pub. L. 102–138, title I, § 164(a), Oct. 28, 1991, 105 Stat. 676.
 
 
-<a id="section-282f"></a>
-## § 282f. Central Bureau of the International Map of the World on the Millionth Scale; authorization of appropriations
+<a id="section-282h"></a>
+## § 282h. Central Bureau of the International Map of the World on the Millionth Scale; authorization of appropriations
 
 There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, an annual sum of $50 as a contribution on the part of the United States toward the expenses incurred by the Central Bureau of the International Map of the World on the Millionth Scale.
 
@@ -5467,6 +5673,10 @@ There is hereby authorized to be appropriated, out of any money in the Treasury 
 
 #### Annual Appropriations
 Annual appropriations to meet the obligations of membership in various international organizations were contained in the following acts:
+
+Pub. L. 118–47, div. F, title I, Mar. 23, 2024, 138 Stat. 732, 734.
+
+Pub. L. 117–328, div. K, title I, Dec. 29, 2022, 136 Stat. 4978, 4979.
 
 Pub. L. 117–103, div. K, title I, Mar. 15, 2022, 136 Stat. 568, 569.
 
@@ -5673,8 +5883,8 @@ Jan. 3, 1923, ch. 21, title I, 42 Stat. 1073–1077.
 June 1, 1922, ch. 204, title I, 42 Stat. 605–609.
 
 
-<a id="section-282g"></a>
-## § 282g. Omitted
+<a id="section-282i"></a>
+## § 282i. Omitted
 
 ### Statutory Notes
 
@@ -5682,14 +5892,14 @@ June 1, 1922, ch. 204, title I, 42 Stat. 605–609.
 Section, acts May 3, 1928, ch. 489, 45 Stat. 487; Sept. 21, 1950, ch. 976, § 1(a), 64 Stat. 902; July 27, 1956, ch. 750, 70 Stat. 696; Feb. 16, 1960, Pub. L. 86–384, 74 Stat. 3; Oct. 4, 1961, Pub. L. 87–365, 75 Stat. 784, which authorized appropriations for the Department of State for the fiscal years 1963 and 1964, not in excess of $50,000 per fiscal year, to meet the obligations of the United States as a member of the Inter-American Children’s Institute, has been omitted because the authorization has not been extended for later than the 1963 and 1964 fiscal years.
 
 
-<a id="section-282h"></a>
-## § 282h. International Statistical Bureau at The Hague; authorization of appropriations
+<a id="section-282j"></a>
+## § 282j. International Statistical Bureau at The Hague; authorization of appropriations
 
 There is hereby authorized to be appropriated, out of any sums in the Treasury not otherwise appropriated, sums not exceeding $2,500 per annum to enable the United States to maintain membership in the International Statistical Bureau at The Hague, such sums to be expended under the direction of the Secretary of State.
 
 
-<a id="section-282i"></a>
-## § 282i. Inter American Statistical Institute; authorization of appropriations
+<a id="section-282k"></a>
+## § 282k. Inter American Statistical Institute; authorization of appropriations
 
 To enable the United States to become an adhering member of the Inter American Statistical Institute, there is hereby authorized to be appropriated annually, out of any money in the Treasury not otherwise appropriated, such sums as may be required for expenditure under the direction of the Secretary of State, for the payment of the share of the United States toward the support of the Institute: Provided, That (1) the membership dues of the United States payable for any fiscal year shall not be paid unless, during the preceding fiscal year, at least eight other American nations shall have been in good standing as adhering members, and unless at least eight of such other adhering members for the last preceding year for which such members were respectively obligated to pay dues shall have paid dues which aggregated at least $10,000, and (2) the total cost to the United States for any fiscal year, for adhering membership, shall not exceed $35,000.
 
@@ -5699,8 +5909,8 @@ To enable the United States to become an adhering member of the Inter American S
 1945—Act July 2, 1945, substituted the single proviso for two provisos.
 
 
-<a id="section-282j"></a>
-## § 282j. Omitted
+<a id="section-282l"></a>
+## § 282l. Omitted
 
 ### Statutory Notes
 
@@ -5708,8 +5918,8 @@ To enable the United States to become an adhering member of the Inter American S
 Section, acts July 10, 1952, ch. 651, title I, 66 Stat. 551; Aug. 5, 1953, ch. 328, title I, 67 Stat. 368; July 2, 1954, ch. 456, title I, 68 Stat. 415; July 7, 1955, ch. 279, title I, 69 Stat. 266; June 20, 1956, ch. 414, title I, 70 Stat. 301, related to availability of funds for United States participation in the International Civil Aviation Organization, and was from annual Department of State Appropriation Acts. Similar provisions which are permanent are classified to [section 2673 of this title](./chapter-038-department-of-state.md#section-2673).
 
 
-<a id="section-282k"></a>
-## § 282k. International Bureau for the Protection of Industrial Property; authorization of appropriations
+<a id="section-282m"></a>
+## § 282m. International Bureau for the Protection of Industrial Property; authorization of appropriations
 
 Funds appropriated to the Secretary of State for “International Organizations and Conferences” shall be available for the payment by the United States of its proportionate share of the expenses of the International Bureau for the Protection of Industrial Property for any year after 1981 as determined under article 16(4) of the Paris Convention for the Protection of Industrial Property, as revised, except that in no event shall the payment for any year exceed 6 per centum of all expenses of the Bureau apportioned among countries for that year.
 
@@ -5728,14 +5938,14 @@ Subsec. (b). Pub. L. 92–511, § 1(2), substituted provisions authorizing appro
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
 
 
-<a id="section-282l"></a>
-## § 282l. Private International Law Conference at The Hague and Private Law International Institute in Rome; membership; appointment of delegates
+<a id="section-282n"></a>
+## § 282n. Private International Law Conference at The Hague and Private Law International Institute in Rome; membership; appointment of delegates
 
 The President is hereby authorized to accept membership for the Government of the United States in (1) the Hague Conference on Private International Law and (2) the International (Rome) Institute for the Unification of Private Law, and to appoint the United States delegates and their alternates to meetings of the two organizations, and the committees and organs thereof.
 
 
-<a id="section-282m"></a>
-## § 282m. Authorization of appropriations
+<a id="section-282o"></a>
+## § 282o. Authorization of appropriations
 
 There are authorized to be appropriated such sums as may be necessary for the payment by the United States of its proportionate share of the expenses of the Hague Conference on Private International Law and of the International (Rome) Institute for the Unification of Private Law.
 
@@ -5750,8 +5960,8 @@ There are authorized to be appropriated such sums as may be necessary for the pa
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
 
 
-<a id="section-282n"></a>
-## § 282n. International Union for the Publication of Customs Tariffs; authorization of annual appropriations for expenses
+<a id="section-282p"></a>
+## § 282p. International Union for the Publication of Customs Tariffs; authorization of annual appropriations for expenses
 
 There is hereby authorized to be appropriated annually to the Department of State such sums as may be necessary, including contributions pursuant to the convention of July 5, 1890, as amended, for the payment by the United States of its share of the expenses of the International Union for the Publication of Customs Tariffs and of the Bureau established to carry out the functions of the Union, but not to exceed 6 per centum of such expenses per annum.
 
@@ -5761,8 +5971,8 @@ There is hereby authorized to be appropriated annually to the Department of Stat
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
 
 
-<a id="section-282o"></a>
-## § 282o. Repealed. Pub. L. 88–619, § 3, Oct. 3, 1964, 78 Stat. 995
+<a id="section-283"></a>
+## § 283. Repealed. Pub. L. 88–619, § 3, Oct. 3, 1964, 78 Stat. 995
 
 ### Statutory Notes
 
@@ -5771,8 +5981,8 @@ Sections 270 to 270c, act July 3, 1930, ch. 851, §§ 1–4, 46 Stat. 1005, 1006
 Sections 270d to 270g, act July 3, 1930, ch. 851, §§ 5–8, as added June 7, 1933, ch. 50, 48 Stat. 117, 118, related to international tribunals, issuance of subpoenas upon application of United States’ agent to United States district court, proceedings thereon, notice to foreign governments, forwarding of certified transcripts of testimony to agents of United States and any opposing government, perjury and contempt and the penalties therefor, and declared the Supreme Court of the District of Columbia to be a district court of the United States. See [section 1782 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1782&num=0&edition=prelim).
 
 
-<a id="section-282p"></a>
-## § 282p. International Labor Organization; membership
+<a id="section-283a"></a>
+## § 283a. International Labor Organization; membership
 
 The President is authorized to accept membership for the Government of the United States of America in the International Labor Organization, which, through its general conference of representatives of its members and through its International Labor Office, collects information concerning labor throughout the world and prepares international conventions for the consideration of member governments with a view to improving conditions of labor.
 
@@ -5790,7 +6000,7 @@ The reasons for acceptance of the Constitution of the Organization by the United
 #### Ex. Ord. No. 12216. President’s Committee on the International Labor Organization
 Ex. Ord. No. 12216, June 18, 1980, 45 F.R. 41619, as amended by Ex. Ord. No. 13135, Aug. 27, 1999, 64 F.R. 47339; Ex. Ord. No. 13385, § 7, Sept. 29, 2005, 70 F.R. 57991, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to create in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) an advisory committee on United States participation in the International Labor Organization, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to create in accordance with the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] an advisory committee on United States participation in the International Labor Organization, it is hereby ordered as follows:
 
 #### 1–1. Establishment of Committee
 1–101. There is established the President’s Committee on the International Labor Organization (ILO). The members will be the Secretaries of Labor, State, and Commerce, the Assistant to the President for National Security Affairs, the Assistant to the President for Economic Policy, and one representative each from organized labor and the business community, to be designated by the Secretary of Labor.
@@ -5812,14 +6022,16 @@ By the authority vested in me as President by the Constitution and statutes of t
 1–303. All necessary administrative staff services, support, facilities and expenses of the Committee shall be furnished by the Department of Labor to the extent permitted by law.
 
 #### 1–4. General Provisions
-1–401. Notwithstanding the provisions of any other Executive order, the functions of the President applicable to the Committee under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting annually to the Congress, are hereby delegated to the Secretary of Labor, who shall perform them in accordance with guidelines and procedures established by the Administrator of General Services.
+1–401. Notwithstanding the provisions of any other Executive order, the functions of the President applicable to the Committee under the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], except that of reporting annually to the Congress, are hereby delegated to the Secretary of Labor, who shall perform them in accordance with guidelines and procedures established by the Administrator of General Services.
 
 1–402. The Committee shall terminate on December 31, 1980, unless this date is extended by further Executive order.
 
 #### Extension of Term of President’s Committee on the International Labor Organization
-Term of President’s Committee on the International Labor Organization extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Committee on the International Labor Organization extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of President’s Committee on the International Labor Organization were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
@@ -5864,8 +6076,29 @@ Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, extended term until Sept. 30, 19
 Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, extended term until Dec. 31, 1982.
 
 
-<a id="section-283"></a>
-## § 283. Omitted
+<a id="section-283aa"></a>
+## § 283aa. Works or projects under treaty
+**(a) Construction, operation, maintenance, and supervision; sewage interceptor system** The President is further authorized (1) to construct any project or works which may be provided for in a treaty entered into with Mexico and to repair, protect, maintain, or complete works now existing or now under construction or those that may be constructed under the treaty provisions aforesaid; and to construct any project or works designed to facilitate compliance with the provisions of treaties between the United States and Mexico; (2) to operate and maintain any project or works so constructed or, subject to such rules and regulations for continuing supervision by the said American Commissioner or any Federal agency as the President may cause to be promulgated, to turn over the operation and maintenance of such project or works to any Federal agency, or any State, county, municipality, district, or other political subdivision within which such project or works may be in whole or in part situated, upon such terms, conditions, and requirements as the President may deem appropriate; and (3) to carry out preliminary surveys, operations, and maintenance of the interceptor system constructed to intercept sewage flows from Tijuana from selected canyon areas.
+
+**(b) Rio Grande bank protection project** Expenditures for the Rio Grande bank protection project shall be subject to the provisions and conditions made with respect to that project in the first undesignated paragraph under the heading “International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89).
+
+**(c) Anzalduas diversion dam** The Anzalduas diversion dam shall not be operated for irrigation or water supply purposes in the United States unless suitable arrangements have been made with the prospective water users for repayment to the Government of the United States for such portions of the dam as shall have been allocated to such purposes by the Secretary of State.
+
+**(d) Improvements to Rio Grande Canalization Project** Pursuant to the authority of subsection (a) and in order to facilitate further compliance with the terms of the Convention for Equitable Distribution of the Waters of the Rio Grande, May 21, 1906, United States-Mexico, the Secretary of State, acting through the United States Commissioner of the International Boundary and Water Commission, may make improvements to the Rio Grande Canalization Project, originally authorized by the Act of August 29, 1935 (49 Stat. 961). Such improvements may include all such works as may be needed to stabilize the Rio Grande in the reach between the Percha Diversion Dam in New Mexico and the American Diversion Dam in El Paso.
+
+### Statutory Notes
+
+#### References in Text
+The first undesignated paragraph under the heading “International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89), referred to in subsec. (b), is not classified to the Code.
+
+#### Amendments
+1996—Subsec. (d). Pub. L. 104–319 added subsec. (d).
+
+1990—Pub. L. 101–246 designated existing provisions as subsec. (a), redesignated cls. (a) and (b) as (1) and (2), respectively, added cl. (3), and added subsecs. (b) and (c).
+
+
+<a id="section-283b"></a>
+## § 283b. Omitted
 
 ### Statutory Notes
 
@@ -5873,8 +6106,22 @@ Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1251, extended term until Dec. 31, 19
 Section, act June 19, 1934, ch. 676, § 2, 48 Stat. 1183, provided that the President, in accepting membership in the International Labor Organization, was to assume no obligation under the covenant of the League of Nations.
 
 
-<a id="section-283a"></a>
-## § 283a. Authorization of appropriations
+<a id="section-283bb"></a>
+## § 283bb. Agreements with political subdivisions; acquisition of lands
+
+In order to carry out the provisions of sections 277 to 277d of this title, the President, or any Federal agency he may designate is authorized, (a) in his discretion, to enter into agreements with any one or more of said political subdivisions, in connection with the construction of any project or works provided for in paragraph (2) of section 277a and [section 277b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277b), under the terms of which agreements there shall be furnished to the United States, gratuitously, except for the examination and approval of titles, the lands or easements in lands necessary for the construction, operation, and maintenance in whole or in part of any such project or works, or for the assumption by one or more of any such political subdivisions making such agreement, of the operation and maintenance of such project or works in whole or in part upon the completion thereof: Provided, however, That when an agreement is reached that necessary lands or easements shall be provided by any such political subdivision and for the future operation and maintenance by it of a project or works or a part thereof, in the discretion of the President the title to such lands and easements for such projects or works need not be required to be conveyed to the United States but may be required only to be vested in and remain in such political subdivision; (b) to acquire by purchase, exercise of the power of eminent domain, or by donation, any real or personal property which may be necessary; (c) 11 See Repeal; Savings Provision note below. to withdraw from sale, public entry or disposal of such public lands of the United States as he may find to be necessary and thereupon the Secretary of the Interior shall cause the lands so designated to be withdrawn from any public entry whatsoever, and from sale, disposal, location or settlement under the mining laws or any other law relating to the public domain and shall cause such withdrawal to appear upon the records in the appropriate land office having jurisdiction over such lands, and such lands may be used for carrying out the purposes of sections 277 to 277d of this title: Provided, That any such withdrawal may subsequently be revoked by the President; and (d) to make or approve all necessary rules and regulations.
+
+### Statutory Notes
+
+#### Amendments
+1936—Act May 22, 1936, inserted “paragraph (2) of section 277a”.
+
+#### Repeal; Savings Provision
+Clause (c), except the proviso thereof, repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, effective on and after Oct. 21, 1976. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
+
+
+<a id="section-283c"></a>
+## § 283c. Authorization of appropriations
 
 There is hereby authorized to be appropriated annually to the Department of State—
 
@@ -5907,21 +6154,26 @@ Subsec. (b). Joint Res. Sept. 21, 1950, § 1(e)(3), struck out limitation of $95
 
 1949—Subsec. (b)(1). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-#### Limitation of Contributions
-Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950; consent by State Department and reports to Congress, see [section 262a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262a).
-
 #### Annual Appropriations
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
 
-
-<a id="section-283aa"></a>
-## § 283aa. Construction and maintenance of roads, highways, etc.; housing and other facilities for personnel
-
-The United States Commissioner is authorized to construct, equip, and operate and maintain all access roads, highways, railways, power lines, buildings, and facilities necessary in connection with any such project, and in his discretion to provide housing, subsistence, and medical and recreational facilities for the officers, agents, and employees of the United States, and/or for the contractors and their employees engaged in the construction, operation, and maintenance of any such project, and to make equitable charges therefor, or deductions from the salaries and wages due employees, or from progress payments due contractors, upon such terms and conditions as he may determine to be to the best interest of the United States, the sums of money so charged and collected or deducted to be credited to the appropriation for the project current at the time the obligations are incurred.
+#### Limitation of Contributions
+Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950; consent by State Department and reports to Congress, see [section 262a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262a).
 
 
-<a id="section-283b"></a>
-## § 283b. Loyalty check on United States personnel
+<a id="section-283cc"></a>
+## § 283cc. Funds received from Mexico; expenditure
+
+Any moneys contributed by or received from the United Mexican States, the North American Development Bank, or the Border Environment Cooperation Commission for the purpose of cooperating or assisting in carrying out the provisions of sections 277 to 277d of this title shall be available for expenditure in connection with any appropriation which may be made for the purposes of such sections.
+
+### Statutory Notes
+
+#### Amendments
+2002—Pub. L. 107–228 inserted “, the North American Development Bank, or the Border Environment Cooperation Commission” after “United Mexican States”.
+
+
+<a id="section-283d"></a>
+## § 283d. Loyalty check on United States personnel
 
 No person shall serve as representative, delegate, or alternate from the United States until such person has been investigated as to loyalty and security by the Director of the Office of Personnel Management.
 
@@ -5934,34 +6186,19 @@ No person shall serve as representative, delegate, or alternate from the United 
 “Director of the Office of Personnel Management” substituted in text for “Civil Service Commission” pursuant to Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
 
 
-<a id="section-283bb"></a>
-## § 283bb. Authorization for appropriations; activities for which available; contracts for excess amounts
+<a id="section-283dd"></a>
+## § 283dd. Authorizations for Mexican treaty projects; acquisition of lands for relocation purposes; contracts and conveyances
 
-There are authorized to be appropriated to the Department of State for the use of the Commission, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of the Treaty of February 3, 1944, and other treaties and conventions between the United States of America and the United Mexican States, under which the United States Section operates, and to discharge the statutory functions and duties of the United States Section. Such sums shall be available for construction, operation and maintenance of stream gaging stations, and their equipment and sites therefor; personal services and rent in the District of Columbia and elsewhere; services, including those of attorneys and appraisers, in accordance with the provisions of [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), at rates for individuals not in excess of the maximum daily rate for grade GS–15 of the General Schedule and the United States Commissioner is authorized, notwithstanding the provisions of any other Act, to employ as consultants by contract or otherwise without regard to chapter 51 and subchapter III of chapter 53 of title 5, and the civil-service laws and regulations, retired personnel of the Armed Forces of the United States, who shall not be required to revert to an active status; travel expense, including, in the discretion of the Commissioner, expenses of attendance at meetings of organizations concerned with the activities of the Commission which may be necessary for the efficient discharge of the responsibilities of the Commission; hire, with or without personal services, of work animals, and animal-drawn, and motor-propelled (including passenger) vehicles and aircraft and equipment; acquisition by donation, purchase, or condemnation, of real and personal property, including expenses of abstracts, certificates of title, and recording fees; purchase of ice and drinking water; inspection of equipment, supplies and materials by contract or otherwise; drilling and testing of foundations and dam sites, by contract if deemed necessary; payment for official telephone service in the field in case of official telephones installed in private houses when authorized under regulations established by the Commissioner; purchase of firearms and ammunition for guard purposes; official entertainment and other representation expenses within the United States for the United States section; and such other objects and purposes as may be permitted by laws applicable, in whole or in part, to the United States Section: Provided, That, when appropriations have been made for the commencement or continuation of construction or operation and maintenance of any such project, the United States Commissioner, notwithstanding the provisions of sections 1341, 1342, and 1349 to 1351 and subchapter II of chapter 15 of title 31, and sections 6301(a) and (b) and 6303 of title 41, or any other law, may enter into contracts beyond the amount actually appropriated for so much of the work on any such authorized project as the physical and orderly sequence of construction makes necessary, such contracts to be subject to and dependent upon future appropriations by Congress: Provided further, That the United States Commissioner shall prepare, within 30 days after the end of each fiscal year, a report of all expenditures during that year for official entertainment and other representation expenses, which shall be available for public inspection.
+The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico (herein referred to as the “Commission”), in connection with any project under the jurisdiction of the United States Section, International Boundary and Water Commission, United States and Mexico, is authorized: (a) to purchase, or condemn, lands, or interests in lands, for relocation of highways, roadways, railroads, telegraph, telephone, or electric transmission lines, or any other properties whatsoever, the relocation of which, in the judgment of the said Commissioner, is necessitated by the construction or operation and maintenance of any such project, and to perform any or all work involved in said relocations on said lands, or interests in lands, other lands, or interests in lands, owned and held by the United States in connection with the construction or operation and maintenance of any such project, or properties not owned by the United States; (b) to enter into contracts with the owners of the said properties whereby they undertake to acquire any, or all, property needed for said relocation, or to perform any, or all, work involved in said relocations; and (c) for the purpose of effecting completely said relocations, to convey, or exchange Government properties acquired or improved under clause (a) of this section, with or without improvements, or other properties owned and held by the United States in connection with the construction or operation and maintenance of said project, or to grant term or perpetual easements therein or thereover. Grants or conveyances hereunder shall be by instruments executed by the Secretary of State without regard to provisions of law governing the patenting of public lands.
 
 ### Statutory Notes
 
-#### References in Text
-Grade GS–15, referred to in text, is contained in the General Schedule which is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
-
-#### Codification
-In text, “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” and “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “section 15 of the Act of August 2, 1946 (5 U.S.C. sec. 55a)” and “the Classification Act of 1949, as amended”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
-
-In text, “sections 1341, 1342, and 1349 to 1351 and subchapter II of chapter 15 of title 31 and sections 6301(a) and (b) and 6303 of title 41” substituted for “sections 3679, 3732, and 3733 of the Revised Statutes” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-#### Amendments
-1991—Pub. L. 102–138 inserted “official entertainment and other representation expenses within the United States for the United States section;” after “guard purposes;” and concluding provision that the United States Commissioner prepare, within 30 days after the end of each fiscal year, a report of all expenditures during that year for official entertainment and other representation expenses, with such report to be available for public inspection.
-
-1977—Pub. L. 95–105 substituted “the maximum daily rate for grade GS–15 of the General Schedule” for “$100 per diem”.
-
-1964—Pub. L. 88–448 struck out provisions which permitted retired personnel of the Armed Forces of the United States employed by the Commission to receive as compensation for temporary service, the difference between the rates of pay established therefor and their retired pay during the period or periods of their temporary employment.
-
-#### Effective Date of 1977 Amendment
-Pub. L. 95–105, title V, § 514(d), Aug. 17, 1977, 91 Stat. 862, provided that: “The amendments made by this section [amending this section and sections 277d–28 and 277d–31 of this title] shall take effect on October 1, 1977.”
+#### Short Title
+Act Sept. 13, 1950, ch. 948, § 1, 64 Stat. 846, provided that: “This Act [enacting this section and sections 277d–2 to 277d–9 of this title] may be cited as the ‘American-Mexican Treaty Act of 1950’.”
 
 
-<a id="section-283c"></a>
-## § 283c. Pan American Institute of Geography and History; authorization of annual appropriations for membership
+<a id="section-283e"></a>
+## § 283e. Pan American Institute of Geography and History; authorization of annual appropriations for membership
 
 In order to meet the obligations of the United States as a member of the Pan American Institute of Geography and History, there are authorized to be appropriated to the Department of State—
 
@@ -5986,14 +6223,14 @@ In order to meet the obligations of the United States as a member of the Pan Ame
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
 
 
-<a id="section-283cc"></a>
-## § 283cc. Acquisition of properties of Imperial Irrigation District of California
+<a id="section-283ee"></a>
+## § 283ee. Construction and maintenance of roads, highways, etc.; housing and other facilities for personnel
 
-The United States Commissioner, in order to comply with the provisions of articles 12 and 23 of the treaty of February 3, 1944, between the United States and Mexico, relating to the utilization of the waters of the Colorado and Tijuana Rivers and of the Rio Grande below Fort Quitman, Texas, is authorized to acquire, in the name of the United States, by purchase or by proceedings in eminent domain, the physical properties owned by the Imperial Irrigation District of California, located in the vicinity of Andrade, California, consisting of the Alamo Canal in the United States, the Rockwood Intake, the Hanlon Heading, the quarry, buildings used in connection with such facilities, and appurtenant lands, and to reconstruct, operate and maintain such properties in connection with the administration of said treaty.
+The United States Commissioner is authorized to construct, equip, and operate and maintain all access roads, highways, railways, power lines, buildings, and facilities necessary in connection with any such project, and in his discretion to provide housing, subsistence, and medical and recreational facilities for the officers, agents, and employees of the United States, and/or for the contractors and their employees engaged in the construction, operation, and maintenance of any such project, and to make equitable charges therefor, or deductions from the salaries and wages due employees, or from progress payments due contractors, upon such terms and conditions as he may determine to be to the best interest of the United States, the sums of money so charged and collected or deducted to be credited to the appropriation for the project current at the time the obligations are incurred.
 
 
-<a id="section-283d"></a>
-## § 283d. International Council of Scientific Unions and Associated Unions; authorization of annual appropriations for membership
+<a id="section-283f"></a>
+## § 283f. International Council of Scientific Unions and Associated Unions; authorization of annual appropriations for membership
 
 There is hereby authorized to be appropriated, to be expended under the direction of the Secretary of State, in paying the annual share of the United States as an adhering member of the International Council of Scientific Unions and Associated Unions, including the International Astronomical Union, International Union of Chemistry, International Union of Geodesy and Geophysics, International Union of Mathematics, International Scientific Radio Union, International Union of Physics, and International Geographical Union, and such other international scientific unions as the Secretary of State may designate, such sum as may be necessary for the payment of such annual share, not to exceed $100,000 in any one year.
 
@@ -6011,14 +6248,34 @@ Annual appropriations to meet the obligations of membership in various internati
 Act June 3, 1948, ch. 400, title I, § 101, 62 Stat. 305, and subsequent Department of State Appropriation Acts through act Dec. 24, 1969, Pub. L. 91–153, title I, § 101, 83 Stat. 404, failed to authorize appropriations for this section. See Annual Appropriations note set out above.
 
 
-<a id="section-283dd"></a>
-## § 283dd. Availability of prior appropriations; restriction to projects agreed to under treaty
+<a id="section-283ff"></a>
+## § 283ff. Authorization for appropriations; activities for which available; contracts for excess amounts
 
-Funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico” shall be available for the purposes of sections 277d–1 to 277d–5 of this title: Provided, That authorizations under said sections shall apply only to projects agreed upon by the two Governments in accordance with the treaty of February 3, 1944.
+There are authorized to be appropriated to the Department of State for the use of the Commission, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary to carry out the provisions of the Treaty of February 3, 1944, and other treaties and conventions between the United States of America and the United Mexican States, under which the United States Section operates, and to discharge the statutory functions and duties of the United States Section. Such sums shall be available for construction, operation and maintenance of stream gaging stations, and their equipment and sites therefor; personal services and rent in the District of Columbia and elsewhere; services, including those of attorneys and appraisers, in accordance with the provisions of [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), at rates for individuals not in excess of the maximum daily rate for grade GS–15 of the General Schedule and the United States Commissioner is authorized, notwithstanding the provisions of any other Act, to employ as consultants by contract or otherwise without regard to chapter 51 and subchapter III of chapter 53 of title 5, and the civil-service laws and regulations, retired personnel of the Armed Forces of the United States, who shall not be required to revert to an active status; travel expense, including, in the discretion of the Commissioner, expenses of attendance at meetings of organizations concerned with the activities of the Commission which may be necessary for the efficient discharge of the responsibilities of the Commission; hire, with or without personal services, of work animals, and animal-drawn, and motor-propelled (including passenger) vehicles and aircraft and equipment; acquisition by donation, purchase, or condemnation, of real and personal property, including expenses of abstracts, certificates of title, and recording fees; purchase of ice and drinking water; inspection of equipment, supplies and materials by contract or otherwise; drilling and testing of foundations and dam sites, by contract if deemed necessary; payment for official telephone service in the field in case of official telephones installed in private houses when authorized under regulations established by the Commissioner; purchase of firearms and ammunition for guard purposes; official entertainment and other representation expenses within the United States for the United States section; and such other objects and purposes as may be permitted by laws applicable, in whole or in part, to the United States Section: Provided, That, when appropriations have been made for the commencement or continuation of construction or operation and maintenance of any such project, the United States Commissioner, notwithstanding the provisions of sections 1341, 1342, and 1349 to 1351 and subchapter II of chapter 15 of title 31, and sections 6301(a) and (b) and 6303 of title 41, or any other law, may enter into contracts beyond the amount actually appropriated for so much of the work on any such authorized project as the physical and orderly sequence of construction makes necessary, such contracts to be subject to and dependent upon future appropriations by Congress: Provided further, That the United States Commissioner shall prepare, within 30 days after the end of each fiscal year, a report of all expenditures during that year for official entertainment and other representation expenses, which shall be available for public inspection.
+
+### Statutory Notes
+
+#### References in Text
+Grade GS–15, referred to in text, is contained in the General Schedule which is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
+#### Codification
+In text, “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” and “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “section 15 of the Act of August 2, 1946 (5 U.S.C. sec. 55a)” and “the Classification Act of 1949, as amended”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+
+In text, “sections 1341, 1342, and 1349 to 1351 and subchapter II of chapter 15 of title 31 and sections 6301(a) and (b) and 6303 of title 41” substituted for “sections 3679, 3732, and 3733 of the Revised Statutes” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, which Act enacted Title 31, Money and Finance, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+1991—Pub. L. 102–138 inserted “official entertainment and other representation expenses within the United States for the United States section;” after “guard purposes;” and concluding provision that the United States Commissioner prepare, within 30 days after the end of each fiscal year, a report of all expenditures during that year for official entertainment and other representation expenses, with such report to be available for public inspection.
+
+1977—Pub. L. 95–105 substituted “the maximum daily rate for grade GS–15 of the General Schedule” for “$100 per diem”.
+
+1964—Pub. L. 88–448 struck out provisions which permitted retired personnel of the Armed Forces of the United States employed by the Commission to receive as compensation for temporary service, the difference between the rates of pay established therefor and their retired pay during the period or periods of their temporary employment.
+
+#### Effective Date of 1977 Amendment
+Pub. L. 95–105, title V, § 514(d), Aug. 17, 1977, 91 Stat. 862, provided that: “The amendments made by this section [amending this section and sections 277d–28 and 277d–31 of this title] shall take effect on October 1, 1977.”
 
 
-<a id="section-283e"></a>
-## § 283e. International biological program
+<a id="section-283g"></a>
+## § 283g. International biological program
 **(a) Congressional findings** The Congress hereby finds and declares that the international biological program, which was established under the auspices of the International Council of Scientific Unions and the International Union of Biological Sciences and is sponsored in the United States by the National Academy of Sciences and the National Academy of Engineering, deals with one of the most crucial situations to face this or any other civilization—the immediate or near potential of mankind to damage, possibly beyond repair, the earth’s ecological system on which all life depends. The Congress further finds and declares that the international biological program provides an immediate and effective means available of meeting this situation, through its stated objectives of increased study and research related to biological productivity and human welfare in a changing world environment.
 
 **(b) Congressional support** The Congress therefore commends and endorses the international biological program and expresses its support of the United States National Committee and the Interagency Coordinating Committee, which together have the responsibility for planning, coordinating, and carrying out the program in the United States.
@@ -6026,27 +6283,27 @@ Funds heretofore appropriated to the Department of State under the heading “In
 **(c) Priority** In view of the urgency of the problem, the Congress finds and declares that the provision by the United States of adequate financial and other support for the international biological program is a matter of first priority.
 
 
-<a id="section-283ee"></a>
-## § 283ee. Douglas-Agua Prieta Sanitation Project; operation by Commission; division of costs; contribution by City of Douglas, Arizona
+<a id="section-283gg"></a>
+## § 283gg. Acquisition of properties of Imperial Irrigation District of California
 
-The Secretary of State is authorized, notwithstanding any other provision of law and subject to the conditions provided in this section and [section 277d–7 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-7), to enter into an agreement with the appropriate official or officials of the United Mexican States for the operation and maintenance by the International Boundary and Water Commission, United States and Mexico, of the Douglas-Agua Prieta sanitation project, located at Douglas, Arizona, and Agua Prieta, Sonora, Mexico, heretofore constructed by the said Commission, which agreement shall contain such provisions relating to a division between the two Governments of the costs of such operation and maintenance, or of the work involved therein, as may be recommended by said Commission and approved by the Government of Mexico and by the Secretary of State on behalf of the Government of the United States: Provided, That no such agreement shall be entered into until the governing body of the city of Douglas, Arizona, has given assurances satisfactory to the Secretary of State that it will, so long as such agreement remains in force, contribute an equitable proportion, as determined by the United States Section of said Commission, subject to the approval of the Secretary of State, of the costs of such operation and maintenance allocated to the United States.
+The United States Commissioner, in order to comply with the provisions of articles 12 and 23 of the treaty of February 3, 1944, between the United States and Mexico, relating to the utilization of the waters of the Colorado and Tijuana Rivers and of the Rio Grande below Fort Quitman, Texas, is authorized to acquire, in the name of the United States, by purchase or by proceedings in eminent domain, the physical properties owned by the Imperial Irrigation District of California, located in the vicinity of Andrade, California, consisting of the Alamo Canal in the United States, the Rockwood Intake, the Hanlon Heading, the quarry, buildings used in connection with such facilities, and appurtenant lands, and to reconstruct, operate and maintain such properties in connection with the administration of said treaty.
 
 
-<a id="section-283f"></a>
-## § 283f. Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds
+<a id="section-283h"></a>
+## § 283h. Cooperation of Federal and non-Federal departments, agencies, and organizations; transfers of funds
 **(a) Full cooperation with international biological program** The Congress calls upon all Federal departments and agencies and other persons and organizations, both public and private, to support and cooperate fully with the international biological program and the activities and goals of the United States National Committee and the Interagency Coordinating Committee.
 
 **(b) Authorization for transfers of funds** For this purpose, the Congress authorizes and requests all Federal departments and agencies having functions or objectives which coincide with or are related to those of the international biological program to obligate or make appropriate transfers of funds to the program from moneys available for such functions or objectives and provide such other support as may be appropriate.
 
 
-<a id="section-283ff"></a>
-## § 283ff. Authorization for appropriations; availability of prior appropriations; use of moneys received
+<a id="section-283hh"></a>
+## § 283hh. Availability of prior appropriations; restriction to projects agreed to under treaty
 
-There is authorized to be appropriated to the United States Section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to defray such costs as may accrue to the United States arising out of any such agreement for the operation and maintenance of such project: Provided, That funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico”, shall be available for expenditure for the purposes of this section and [section 277d–6 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-6): Provided further, That any moneys received from the United Mexican States under the terms of any such agreement shall be available for expenditure in connection with any appropriations which may be available or which may be made for the purposes of said sections: And provided further, That moneys received from the city of Douglas, Arizona, pursuant to the provisions of said sections shall be available for expenditure in connection with any appropriations which may be available or which may be made available for the purposes of said sections.
+Funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico” shall be available for the purposes of sections 277d–1 to 277d–5 of this title: Provided, That authorizations under said sections shall apply only to projects agreed upon by the two Governments in accordance with the treaty of February 3, 1944.
 
 
-<a id="section-283g"></a>
-## § 283g. International Hydrographic Bureau
+<a id="section-283i"></a>
+## § 283i. International Hydrographic Bureau
 
 To enable the United States to become a member of the International Hydrographic Bureau, and for the first annual contribution of the United States toward the creation and maintenance of such bureau, there is hereby appropriated out of money in the Treasury not otherwise appropriated $2,500, or so much thereof as may be necessary, to be paid by the Secretary of State when the exact quota shall have been ascertained.
 
@@ -6056,14 +6313,14 @@ To enable the United States to become a member of the International Hydrographic
 Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
 
 
-<a id="section-283gg"></a>
-## § 283gg. Calexico Mexicali Sanitation Project; operation by Commission; division of costs; contribution by City of Calexico, California
+<a id="section-283ii"></a>
+## § 283ii. Douglas-Agua Prieta Sanitation Project; operation by Commission; division of costs; contribution by City of Douglas, Arizona
 
-The Secretary of State is authorized, subject to the conditions provided in this section and [section 277d–9 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-9), to enter into an agreement with the appropriate official or officials of the United Mexican States for the construction, operation, and maintenance by the International Boundary and Water Commission, United States and Mexico, of a sanitation project for the cities of Calexico, California, and Mexicali, Lower California, Mexico, which agreement shall contain such provisions relating to a division between the two Governments of the cost of such construction and operation and maintenance, or of the work involved therein, as may be recommended by the said Commission and approved by the Government of Mexico and by the Secretary of State on behalf of the Government of the United States: Provided, That no such agreement shall be entered into until the governing body of the city of Calexico, California, has given assurances satisfactory to the Secretary of State that, so long as such agreement remains in force, the city of Calexico will contribute an equitable proportion as determined by the United States Section of said Commission, subject to the approval of the Secretary of State, of the costs of such construction, operation, and maintenance allocated to the United States.
+The Secretary of State is authorized, notwithstanding any other provision of law and subject to the conditions provided in this section and [section 277d–7 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-7), to enter into an agreement with the appropriate official or officials of the United Mexican States for the operation and maintenance by the International Boundary and Water Commission, United States and Mexico, of the Douglas-Agua Prieta sanitation project, located at Douglas, Arizona, and Agua Prieta, Sonora, Mexico, heretofore constructed by the said Commission, which agreement shall contain such provisions relating to a division between the two Governments of the costs of such operation and maintenance, or of the work involved therein, as may be recommended by said Commission and approved by the Government of Mexico and by the Secretary of State on behalf of the Government of the United States: Provided, That no such agreement shall be entered into until the governing body of the city of Douglas, Arizona, has given assurances satisfactory to the Secretary of State that it will, so long as such agreement remains in force, contribute an equitable proportion, as determined by the United States Section of said Commission, subject to the approval of the Secretary of State, of the costs of such operation and maintenance allocated to the United States.
 
 
-<a id="section-283h"></a>
-## § 283h. Permanent International Commission of the Congresses of Navigation; authorization of appropriations
+<a id="section-283j"></a>
+## § 283j. Permanent International Commission of the Congresses of Navigation; authorization of appropriations
 
 Not to exceed $45,000 annually of the funds appropriated for rivers and harbors shall be available for the support and maintenance of the Permanent International Commission of the Congresses of Navigation and for the payment in amounts approved by the Chief of Engineers of the expenses of the properly accredited delegates of the United States to the meetings of the congresses and of the Commission.
 
@@ -6075,14 +6332,8 @@ Not to exceed $45,000 annually of the funds appropriated for rivers and harbors 
 1965—Pub. L. 89–298 substituted “$22,000” for “$5,000”.
 
 
-<a id="section-283hh"></a>
-## § 283hh. Authorization for appropriations; availability of prior appropriations; use of moneys received
-
-There is authorized to be appropriated to the United States section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to defray such costs as may accrue to the United States arising out of any such agreement for the construction, operation, and maintenance of such project: Provided, That funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico”, shall be available for expenditure for the purposes of this section and [section 277d–8 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-8): Provided further, That any moneys received from the United Mexican States under the terms of any such agreement shall be available for expenditure in connection with any appropriation which may be available or which may be made available for the purposes of said sections: And provided further, That moneys received from the city of Calexico, California, pursuant to the provisions of said sections, shall be available for expenditure in connection with any appropriations which may be available or which may be made available for the purposes of said sections.
-
-
-<a id="section-283i"></a>
-## § 283i. Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXV, § 2503(d), Oct. 21, 1998, 112 Stat. 2681–837
+<a id="section-283j-1"></a>
+## § 283j–1. Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXV, § 2503(d), Oct. 21, 1998, 112 Stat. 2681–837
 
 ### Statutory Notes
 
@@ -6105,22 +6356,16 @@ Pub. L. 105–277, div. G, subdiv. B, title XXV, § 2503(d), Oct. 21, 1998, 112 
 Pub. L. 105–277, div. G, subdiv. B, title XXV, § 2503(a), Oct. 21, 1998, 112 Stat. 2681–836, provided that: “Unless the Secretary of State certifies to Congress that the United States will be assessed not more than $500,000 for its annual contribution to the Bureau of the Interparliamentary Union during fiscal year 1999, then effective October 1, 1999, the authority for further participation by the United States in the Bureau shall terminate in accordance with subsection (d) [set out above].” [The Secretary of State did not make the required certification.]
 
 
-<a id="section-283ii"></a>
-## § 283ii. Nogales Sanitation Project; operation by Commission; division of costs; contribution by Nogales, Arizona
-
-The Secretary of State is authorized, notwithstanding any other provision of law and subject to the conditions provided in this section and [section 277d–11 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-11), to enter into an agreement with the appropriate official or officials of the United Mexican States for the operation and maintenance by the International Boundary and Water Commission, United States and Mexico, of the Nogales sanitation project, located at Nogales, Arizona, and Nogales, Sonora, Mexico, heretofore constructed by the said Commission, which agreement shall contain such provisions relating to a division between the two Governments of the costs of such operation and maintenance, or of the work involved therein, as may be recommended by said Commission and approved by the Government of Mexico and by the Secretary of State on behalf of the Government of the United States: Provided, That no such agreement shall be entered into until the governing body of the city of Nogales, Arizona, has given assurances satisfactory to the Secretary of State that it will, so long as such agreement remains in force, contribute an equitable proportion, as determined by the United States section of said Commission, subject to the approval of the Secretary of State, of the costs of such operation and maintenance allocated to the United States.
-
-
-<a id="section-283j"></a>
-## § 283j. Repealed. Pub. L. 95–45, § 4(d)(4), June 15, 1977, 91 Stat. 223
+<a id="section-283k"></a>
+## § 283k. Repealed. Pub. L. 95–45, § 4(d)(4), June 15, 1977, 91 Stat. 223
 
 ### Statutory Notes
 
 Section, act Aug. 25, 1937, ch. 757, 50 Stat. 770, provided that, on and after Aug. 25, 1937, the certificate of the president and executive secretary of the American Group of the Interparliamentary Union be final and conclusive upon the accounting officers in the auditing of all accounts of the Group.
 
 
-<a id="section-283j-1"></a>
-## § 283j–1. Designation of Senate delegates to Conferences of the Interparliamentary Union
+<a id="section-283l"></a>
+## § 283l. Designation of Senate delegates to Conferences of the Interparliamentary Union
 
 On and after June 30, 1958, Senate delegates to Conferences of the Interparliamentary Union shall be designated by the Presiding Officer of the Senate. Not less than two Senators so designated shall be members of the Committee on Foreign Relations.
 
@@ -6130,8 +6375,8 @@ On and after June 30, 1958, Senate delegates to Conferences of the Interparliame
 1975—Pub. L. 94–141 inserted at end “Not less than two Senators so designated shall be members of the Committee on Foreign Relations.”
 
 
-<a id="section-283k"></a>
-## § 283k. Reports of expenditures by members of American groups or delegations and employees; consolidated reports by congressional committees; public inspection
+<a id="section-283m"></a>
+## § 283m. Reports of expenditures by members of American groups or delegations and employees; consolidated reports by congressional committees; public inspection
 
 Each chairman or senior member of the House of Representatives and Senate group or delegation of the United States group or delegation to the Interparliamentary Union, the NATO Parliamentary Assembly, the Canada-United States Interparliamentary Group, the Mexico-United States Interparliamentary Group, or any similar interparliamentary group of which the United States is a member or participates, by whom or on whose behalf local currencies owned by the United States are made available and expended and/or expenditures are made from funds appropriated for the expenses of such group or delegation, shall file with the chairman of the Committee on Foreign Relations of the Senate in the case of the group or delegation of the Senate, or with the chairman of the Committee on Foreign Affairs of the House of Representatives in the case of the group or delegation of the House, an itemized report showing all such expenditures made by or on behalf of each Member or employee of the group or delegation together with the purposes of the expenditure, including per diem (lodging and meals), transportation, and other purposes. Within sixty days after the beginning of each regular session of Congress, the chairman of the Committee on Foreign Relations and the chairman of the Committee on Foreign Affairs shall prepare consolidated reports showing with respect to each such group or delegation the total amount expended, the purposes of the expenditures, the amount expended for each such purpose, the names of the Members or employees by or on behalf of whom the expenditures were made and the amount expended by or on behalf of each Member or employee for each such purpose. The consolidated reports prepared by the chairman of the Committee on Foreign Relations of the Senate shall be filed with the Secretary of the Senate, and the consolidated reports prepared by the chairman of the Committee on Foreign Affairs of the House shall be filed with the Clerk of the House and shall be open to public inspection.
 
@@ -6149,8 +6394,8 @@ Each chairman or senior member of the House of Representatives and Senate group 
 1967—Pub. L. 90–137 substituted “North Atlantic Assembly” for “NATO parliamentarian’s Conference”.
 
 
-<a id="section-283l"></a>
-## § 283l. Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as collecting, accounting, and depositing agency for employee payments; contributions from appropriated funds
+<a id="section-283n"></a>
+## § 283n. Employee benefits for United States citizen-representatives to international financial institutions; Treasury Department as collecting, accounting, and depositing agency for employee payments; contributions from appropriated funds
 
 Notwithstanding the provisions of any other law, the Executive Directors and Directors and their alternates, representing the United States in the International Monetary Fund, the International Bank for Reconstruction and Development, the European Bank for Reconstruction and Development, the Inter-American Development Bank, the Bank for Economic Cooperation and Development in the Middle East and North Africa, the Asian Development Bank, the African Development Fund, the African Development Bank, and the Inter-American Investment Corporation, shall, if they are citizens of the United States, in the discretion of the Secretary of the Treasury, each be eligible on the basis of such service and the total compensation received therefor, for all employee benefits afforded employees in the civil service of the United States. The Treasury Department shall serve as the employing office for collecting, accounting for, and depositing in the Civil Service Retirement and Disability Fund, Employees Life Insurance Fund, and Employees Health Benefits Fund, all retirement and health insurance benefits payments made by these employees, and shall make any necessary agency contributions from funds appropriated to the Department of the Treasury.
 
@@ -6177,16 +6422,16 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1372 of Pub. L
 Pub. L. 95–612, § 7, Nov. 8, 1978, 92 Stat. 3092, provided that: “This Act [amending this section, [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), Government Organization and Employees, and section 822a of former Title 31, Money and Finance, and enacting provisions set out as a note under [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim)] shall take effect on October 1, 1978, or on such later date as funds are made available pursuant to appropriation Acts authorized by section 5 of this Act [authorizing appropriations of $24,000,000 for fiscal year 1979; not classified to the Code].” Section 7 of Pub. L. 95–612 was repealed as executed by Pub. L. 97–258, § 5(b), Sept. 13, 1982, 96 Stat. 1088, section 1 of which enacted Title 31, Money and Finance.
 
 
-<a id="section-283m"></a>
-## § 283m. Repealed. Pub. L. 101–240, title V, § 541(d)(7), Dec. 19, 1989, 103 Stat. 2518
+<a id="section-283o"></a>
+## § 283o. Repealed. Pub. L. 101–240, title V, § 541(d)(7), Dec. 19, 1989, 103 Stat. 2518
 
 ### Statutory Notes
 
 Section, Pub. L. 98–181, title I [title X, § 1006], Nov. 30, 1983, 97 Stat. 1287, related to personnel practices at the Inter-American Development Bank, Asian Development Bank, and African Development Bank.
 
 
-<a id="section-283n"></a>
-## § 283n. Employment of United States citizens by certain international organizations
+<a id="section-283p"></a>
+## § 283p. Employment of United States citizens by certain international organizations
 
 Not later than 180 days after December 16, 2016, and annually thereafter for 3 years, the Secretary of State shall submit to Congress a report that provides—
 
@@ -6214,8 +6459,8 @@ Not later than 180 days after December 16, 2016, and annually thereafter for 3 y
 “(2) has met its geographic distribution formula.”
 
 
-<a id="section-283o"></a>
-## § 283o. Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations
+<a id="section-283q"></a>
+## § 283q. Authorization for United States participation in the Coalition for Epidemic Preparedness Innovations
 **(a) In general** The United States is authorized to participate in the Coalition for Epidemic Preparedness Innovations (referred to in this section as “CEPI”).
 
 **(b) Investors Council and Board of Directors**
@@ -6245,9 +6490,88 @@ Not later than 180 days after December 16, 2016, and annually thereafter for 3 y
 #### References in Text
 The Public Health Service Act, referred to in subsec. (b)(4), is act July 1, 1944, ch. 373, 58 Stat. 682. Titles III and XXVIII of the Act are classified generally to subchapters II (§ 241 et seq.) and XXVI (§ 300hh et seq.), respectively, of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
+#### Delegation of Authority Under Section 6501(b)(2) of the National Defense Authorization Act for Fiscal Year 2022
+Memorandum of President of the United States, Jan. 17, 2023, 88 F.R. 3909, provided:
 
-<a id="section-283p"></a>
-## § 283p. United States group; appointment; term; meetings
+Memorandum for the Administrator of the United States Agency for International Development
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, I hereby delegate to the Administrator of the United States Agency for International Development the authority vested in the President by section 6501(b)(2) of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81) ([22 U.S.C. 276c–5(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section276c–5/b&num=0&edition=prelim)) to designate an employee of the relevant Federal department or agency with fiduciary responsibility for United States contributions to the Coalition for Epidemic Preparedness Innovations (CEPI) to serve on the CEPI Investors Council and, if nominated, on the CEPI Board of Directors, as a representative of the United States. The delegation in this memorandum shall apply to any provision of any future public law that is the same or substantially the same as the provision referenced in this memorandum.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
+
+<a id="section-283r"></a>
+## § 283r. Supporting the employment of United States citizens by international organizations
+**(a) Sense of Congress** It is the sense of Congress that—
+
+(1) the Department should continue to eliminate the unreasonable barriers United States nationals face to obtain employment in the United Nations Secretariat, funds, programs, and agencies; and
+
+(2) the Department should bolster efforts to increase the number of qualified United States nationals who are candidates for leadership and oversight positions in the United Nations system, agencies, and commissions, and in other international organizations.
+
+**(b) In general** The Secretary is authorized to promote the employment and advancement of United States citizens by international organizations and bodies, including by—
+
+(1) providing stipends, consultation, and analytical services to support United States citizen applicants; and
+
+(2) making grants for the purposes described in paragraph (1).
+
+**(c) Using diplomatic programs funding to promote the employment of United States citizens by international organizations** Amounts appropriated under the heading “Diplomatic Programs” in Acts making appropriations for the Department of State, Foreign Operations, and Related Programs are authorized to be appropriated for grants, programs, and activities described in subsection (b).
+
+**(d) Strategy to establish junior professional program**
+
+(1) **In general** — Not later than 120 days after December 23, 2022, the Secretary, in coordination with the Secretary of the Treasury and other relevant cabinet members, shall publish a strategy for encouraging United States citizens to pursue careers with international organizations, particularly organizations that—
+
+  (A) set international scientific, technical, or commercial standards; or
+
+  (B) are involved in international finance and development.
+
+(2) **Report to Congress** — Not later than 90 days after December 23, 2022, the Secretary, in coordination with the Secretary of the Treasury and other relevant cabinet members, shall submit a report to the appropriate congressional committees that identifies—
+
+  (A) the number of United States citizens who are involved in relevant junior professional programs in an international organization;
+
+  (B) the distribution of individuals described in subparagraph (A) among various international organizations; and
+
+  (C) the types of pre-deployment training that are available to United States citizens through a junior professional program at an international organization.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Department”, “Secretary”, and “appropriate congressional committees” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-283s"></a>
+## § 283s. Internships of United States nationals at international organizations
+**(a) In general** The Secretary is authorized to bolster efforts to increase the number of United States citizens representative of the American people occupying positions in the United Nations system, agencies, and commissions, and in other international organizations, including by awarding grants to educational institutions and students.
+
+**(b) Report** Not later than 90 days after December 22, 2023, the Secretary of State shall submit a report to the appropriate congressional committees that identifies—
+
+(1) the number of United States citizens who are involved in internship programs at international organizations;
+
+(2) the distribution of the individuals described in paragraph (1) among various international organizations; and
+
+(3) grants, programs, and other activities that are being utilized to recruit and fund United States citizens to participate in internship programs at international organizations.
+
+**(c) Eligibility** An individual referred to in subsection (a) is an individual who—
+
+(1) is enrolled at or received their degree within two years from—
+
+  (A) an institution of higher education; or
+
+  (B) an institution of higher education based outside the United States, as determined by the Secretary; and
+
+(2) is a citizen of the United States.
+
+**(d) Authorization of appropriations** There is authorized to be appropriated $1,500,000 for the Department for fiscal year 2024 to carry out the grant program authorized under subsection (a).
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Secretary”, “appropriate congressional committees”, and “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-283t"></a>
+## § 283t. United States group; appointment; term; meetings
 
 Not to exceed twenty-four Members of Congress shall be appointed to meet jointly and at least annually and when Congress is not in session (except that this restriction shall not apply during the first session of the Eighty-sixth Congress or to meetings held in the United States) with representatives of the House of Commons and Senate of the Canadian Parliament for discussion of common problems in the interests of relations between the United States and Canada. Of the Members of the Congress to be appointed for the purposes of this subchapter (hereinafter designated as the United States group) half shall be appointed by the Speaker of the House from Members of the House (not less than four of whom shall be from the Foreign Affairs Committee), and half shall be appointed by the President of the Senate upon recommendations of the majority and minority leaders of the Senate from Members of the Senate (not less than four of whom shall be from the Foreign Relations Committee).
 
@@ -6259,8 +6583,8 @@ Not to exceed twenty-four Members of Congress shall be appointed to meet jointly
 1977—Pub. L. 95–45 substituted “International Relations Committee” for “Foreign Affairs Committee” as the name of the House Committee from which not less than four of the House appointees must be drawn, inserted requirement that the appointment of the Senate appointees by the President of the Senate be made upon the recommendations of the majority and minority leaders of the Senate, and inserted provision that the Chairman or Vice Chairman of the House delegation be a Member from the International Relations Committee, and, unless the President of the Senate, upon the recommendation of the Majority Leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation be a Member from the Foreign Relations Committee.
 
 
-<a id="section-283q"></a>
-## § 283q. Authorization of appropriations; disbursements
+<a id="section-283u"></a>
+## § 283u. Authorization of appropriations; disbursements
 
 An appropriation of $150,000 annually is authorized, $75,000 of which shall be for the House delegation and $75,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States group of the Canada-United States Interparliamentary group for each fiscal year for which an appropriation is made, the House and Senate portions of such appropriation to be disbursed on vouchers to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation, respectively.
 
@@ -6285,20 +6609,20 @@ Pub. L. 100–202, § 101(a) [title III, § 303], Dec. 22, 1987, 101 Stat. 1329,
 [Pub. L. 100–459, title III, § 303(c), Oct. 1, 1988, 102 Stat. 2207, provided that: “The amendments made by this section [amending section 101(a) [title III, § 303] of Pub. L. 100–202, set out above] shall take effect on October 1, 1988.” ]
 
 
-<a id="section-283r"></a>
-## § 283r. Report to Congress
+<a id="section-283v"></a>
+## § 283v. Report to Congress
 
 The United States group of the Canada-United States Interparliamentary group shall submit to the Congress a report for each fiscal year for which an appropriation is made including its expenditures under such appropriation.
 
 
-<a id="section-283s"></a>
-## § 283s. Auditing of accounts
+<a id="section-283w"></a>
+## § 283w. Auditing of accounts
 
 The certificate of the Chairman of the House delegation or the Senate delegation of the Canada-United States Interparliamentary group shall hereafter be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group of the Canada-United States Interparliamentary group.
 
 
-<a id="section-283t"></a>
-## § 283t. United States group; appointment; term; meetings
+<a id="section-283x"></a>
+## § 283x. United States group; appointment; term; meetings
 
 Not to exceed twenty-four Members of Congress shall be appointed to meet jointly and at least annually with representatives of the Chamber of Deputies and Chamber of Senators of the Mexican Congress for discussion of common problems in the interests of relations between the United States and Mexico. Of the Members of the Congress to be appointed for the purposes of this subchapter (hereinafter designated as the United States group) half shall be appointed by the Speaker of the House from Members of the House (not less than four of whom shall be from the Foreign Affairs Committee), and half shall be appointed by the President of the Senate upon recommendations of the majority and minority leaders of the Senate from Members of the Senate (not less than four of whom shall be from the Foreign Relations Committee). Such appointments shall be for the period of each meeting of the Mexico-United States Interparliamentary group except for the four members of the Foreign Affairs Committee, and the four members of the Foreign Relations Committee, whose appointments shall be for the duration of each Congress. The Chairman or Vice Chairman of the House delegation shall be a Member from the Foreign Affairs Committee, and, unless the President of the Senate, upon the recommendation of the Majority Leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation shall be a Member from the Foreign Relations Committee.
 
@@ -6310,8 +6634,8 @@ Not to exceed twenty-four Members of Congress shall be appointed to meet jointly
 1977—Pub. L. 95–45 substituted “International Relations Committee” for “Foreign Affairs Committee” as the name of the House Committee from which not less than four of the House appointees must be drawn, inserted requirement that the appointment of the Senate appointees by the President of the Senate be made upon the recommendations of the majority and minority leaders of the Senate, and inserted provision that the Chairman or Vice Chairman of the House delegation be a Member from the International Relations Committee, and, unless the President of the Senate, upon the recommendation of the Majority Leader, determines otherwise, the Chairman or Vice Chairman of the Senate delegation be a Member from the Foreign Relations Committee.
 
 
-<a id="section-283u"></a>
-## § 283u. Authorization of appropriations; disbursements
+<a id="section-283y"></a>
+## § 283y. Authorization of appropriations; disbursements
 
 An appropriation of $120,000 annually is authorized, $60,000 of which shall be for the House delegation and $60,000 for the Senate delegation, or so much thereof as may be necessary, to assist in meeting the expenses of the United States group of the Mexico-United States Interparliamentary group for each fiscal year for which an appropriation is made, the House and Senate portions of such appropriation to be disbursed on vouchers to be approved by the Chairman of the House delegation and the Chairman of the Senate delegation, respectively.
 
@@ -6330,20 +6654,100 @@ An appropriation of $120,000 annually is authorized, $60,000 of which shall be f
 A permanent appropriation to carry out this section is contained in section 101(a) [title III, § 303] of Pub. L. 100–202, as amended, set out as a note under [section 276e of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276e).
 
 
-<a id="section-283v"></a>
-## § 283v. Report to Congress
+<a id="section-283z"></a>
+## § 283z. Report to Congress
 
 The United States group of the Mexico-United States Interparliamentary group shall submit to the Congress a report for each fiscal year for which an appropriation is made including its expenditures under such appropriation.
 
 
-<a id="section-283w"></a>
-## § 283w. Auditing of accounts
+<a id="section-283z-1"></a>
+## § 283z–1. Auditing of accounts
 
 The certificate of the Chairman of the House delegation or the Senate delegation of the Mexico-United States Interparliamentary group shall on and after April 9, 1960 be final and conclusive upon the accounting officers in the auditing of the accounts of the United States group of the Mexico-United States Interparliamentary group.
 
 
-<a id="section-283x"></a>
-## § 283x. British-American Interparliamentary Group
+<a id="section-283z-10"></a>
+## § 283z–10. Income from property covered into Treasury; disbursement and investment
+
+The income from any property held or administered by the board, as and when collected, shall be deposited in the Treasury of the United States to the credit of the trust fund established pursuant to [section 276bb of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276bb), and it shall be and remain subject to investment, reinvestment, and disbursement by the board for the uses and purposes set forth herein.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 227 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section227&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+
+<a id="section-283z-11"></a>
+## § 283z–11. Powers of board; personal liability of members; compensation; decisions reviewable by Secretary of the Army; annual report; jurisdiction of court
+
+The board shall have all the usual powers of a trustee in respect to all property administered by it, but the members of the board shall not be personally liable, except for misfeasance, on account of any acts performed in their trust capacity. The members of the board shall not be required to furnish bond, and no additional compensation shall accrue to any of them on account of their duties as trustees. Within the limits prescribed by sections 276bb to 276dd of this title, the administration, control, and expenditure of this fund and its application to the purposes intended shall be according to the sole discretion of the board, and the exercise of its discretion and authority in regard thereto and its decisions thereon, including any payments made or authorized by it to be made from the Kermit Roosevelt fund, shall not be subject to review except by the Secretary of the Army, to whom the board shall, on the 1st day of January, each year, render a full report of its activities during the preceding twelve months. The actions of the board shall not be subject to judicial review except in an action brought in the United States District Court for the District of Columbia, which is given jurisdiction of such suits, for the purpose of enforcing the provisions of any trust accepted by the board.
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 228 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section228&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
+
+#### Change of Name
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+
+<a id="section-283z-12"></a>
+## § 283z–12. International Boundary Commission, United States and Mexico; study of boundary waters
+
+The President is authorized to designate the American Commissioner on the International Boundary Commission, United States and Mexico, or other Federal agency, to cooperate with a representative or representatives of the Government of Mexico in a study regarding the equitable use of the waters of the lower Rio Grande and the lower Colorado and Tia Juana Rivers, for the purpose of obtaining information which may be used as a basis for the negotiation of a treaty with the Government of Mexico relative to the use of the waters of these rivers and to matters closely related thereto. On completion of such study the results shall be reported to the Secretary of State.
+
+### Statutory Notes
+
+#### Amendments
+1935—Act Aug. 19, 1935, created the International Boundary Commission to take the place of the three special commissioners.
+
+1927—Act Mar. 3, 1927, provided for a study of Tia Juana River in addition to the lower Rio Grande and Colorado Rivers.
+
+#### Change of Name
+International Boundary Commission, United States and Mexico, American section, to which powers, duties, and functions of International Water Commission, United States and Mexico, American section, were transferred by act June 30, 1932, ch. 314, pt. II, title V, § 510, 47 Stat. 417, reconstituted as International Boundary and Water Commission by Water Treaty of 1944.
+
+#### Short Title
+Pub. L. 100–465, Oct. 3, 1988, 102 Stat. 2272, which enacted sections 277g to 277g–3 of this title, is known as the Rio Grande Pollution Correction Act of 1987. For complete classification of this Act to the Code, see Short Title note set out under [section 277g of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277g) and Tables.
+
+Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, which enacted sections 277d–34 to 277d–42 of this title, is known as the American-Mexican Boundary Treaty Act of 1972. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–34 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-34) and Tables.
+
+Pub. L. 88–300, Apr. 29, 1964, 78 Stat. 184, which enacted sections 277d–17 to 277d–25 of this title, is known as the American-Mexican Chamizal Convention Act of 1964. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–17 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-17) and Tables.
+
+Act Sept. 13, 1950, ch. 948, 64 Stat. 846, which enacted sections 277d–1 to 277d–9 of this title, is known as the American-Mexican Treaty Act of 1950. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-1) and Tables.
+
+#### Repeals
+Act Mar. 3, 1927, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
+
+#### Annual Appropriations
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
+
+
+<a id="section-283z-13"></a>
+## § 283z–13. Investigations of commission; construction of works or projects
+
+The Secretary of State, acting through the American Commissioner, International Boundary Commission, United States and Mexico, is further authorized to conduct technical and other investigations relating to the defining, demarcation, fencing, or monumentation of the land and water boundary between the United States and Mexico, to flood control, water resources, conservation, and utilization of water, sanitation and prevention of pollution, channel rectification, stabilization, drainage of transboundary storm waters, and other related matters upon the international boundary between the United States and Mexico; and to construct and maintain fences, monuments and other demarcations of the boundary line between the United States and Mexico, and sewer systems, water systems, and electric light, power and gas systems crossing the international border, and to continue such work and operations through the American Commissioner as are now in progress and are authorized by law.
+
+### Statutory Notes
+
+#### Amendments
+1990—Pub. L. 101–246 inserted reference to drainage of transboundary storm waters.
+
+1935—Act Aug. 19, 1935, amended section generally.
+
+1927—Act Mar. 3, 1927, increased appropriation from $20,000 to $50,000.
+
+#### Change of Name
+International Boundary Commission, United States and Mexico, American section, to which powers, duties, and functions of International Water Commission, United States and Mexico, American section, were transferred by act June 30, 1932, ch. 314, pt. II, title V, § 510, 47 Stat. 417, reconstituted as International Boundary and Water Commission by Water Treaty of 1944.
+
+#### Repeals
+Act Mar. 3, 1927, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
+
+#### Water Resources Planning
+Jurisdiction, powers, or prerogatives of the International Boundary and Water Commission, United States and Mexico, unaffected by Water Resources Planning Act, see [section 1962–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962–1&num=0&edition=prelim), The Public Health and Welfare.
+
+
+<a id="section-283z-2"></a>
+## § 283z–2. British-American Interparliamentary Group
 **(a) Establishment and meetings** Not to exceed 24 Members of Congress shall be appointed to meet annually and when the Congress is not in session (except that this restriction shall not apply to meetings held in the United States), with representatives of the House of Commons and the House of Lords of the Parliament of Great Britain for discussion of common problems in the interest of relations between the United States and Great Britain. The Members of Congress so appointed shall be referred to as the “United States group” of the United States Interparliamentary Group.
 
 **(b) Appointment of Members** Of the Members of Congress appointed for purposes of this section—
@@ -6375,8 +6779,8 @@ Pub. L. 98–164, title I, § 109(b), (c), Nov. 22, 1983, 97 Stat. 1019, as amen
 [A permanent appropriation to carry out section 109(b) and (c) of Pub. L. 98–164, set out above, is contained in section 101(a) [title III, § 303] of Pub. L. 100–202, set out as a Permanent Appropriation for Delegation Expenses note under [section 276e of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276e).]
 
 
-<a id="section-283y"></a>
-## § 283y. United States Delegation to Parliamentary Assembly of Conference on Security and Cooperation in Europe (CSCE)
+<a id="section-283z-3"></a>
+## § 283z–3. United States Delegation to Parliamentary Assembly of Conference on Security and Cooperation in Europe (CSCE)
 **(a) Establishment** In accordance with the allocation of seats to the United States in the Parliamentary Assembly of the Conference on Security and Cooperation in Europe (hereinafter referred to as the “CSCE Assembly”) not to exceed 17 Members of Congress shall be appointed to meet jointly and annually with representative parliamentary groups from other Conference on Security and Cooperation in Europe (CSCE) member-nations for the purposes of—
 
 (1) assessing the implementation of the objectives of the CSCE;
@@ -6407,8 +6811,8 @@ Pub. L. 98–164, title I, § 109(b), (c), Nov. 22, 1983, 97 Stat. 1019, as amen
 Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591, provided in part that effective Jan. 1, 1995, the Conference on Security and Cooperation in Europe would be called the Organization for Security and Cooperation in Europe.
 
 
-<a id="section-283z"></a>
-## § 283z. United States Senate-China Interparliamentary Group
+<a id="section-283z-4"></a>
+## § 283z–4. United States Senate-China Interparliamentary Group
 **(a) Establishment and meetings** Not to exceed 12 Senators shall be appointed to meet annually with representatives of the National People’s Congress of the People’s Republic of China for discussion of common problems in the interest of relations between the United States and China. The Senators so appointed shall be referred to as the “United States group” of the United States Senate-China Interparliamentary Group.
 
 **(b) Appointment of Members** The President pro tempore of the Senate shall appoint Senators under this section upon the recommendations of the majority and minority leaders of the Senate. The President pro tempore of the Senate shall designate 1 Senator as the Chair of the United States group.
@@ -6428,8 +6832,8 @@ Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591, provided in part that effective
 (2) **Fiscal year 2004** — Subsections (e) and (f) shall apply to fiscal year 2004.
 
 
-<a id="section-283z-1"></a>
-## § 283z–1. United States Senate-Russia Interparliamentary Group
+<a id="section-283z-5"></a>
+## § 283z–5. United States Senate-Russia Interparliamentary Group
 **(a) Establishment and meetings** Not to exceed 12 Senators shall be appointed to meet annually with representatives of the Federation Council of Russia for discussion of common problems in the interest of relations between the United States and Russia. The Senators so appointed shall be referred to as the “United States group” of the United States Senate-Russia Interparliamentary Group.
 
 **(b) Appointment of Members** The majority and minority leaders of the Senate shall appoint the Senators of the United States group. The majority leader of the Senate shall designate 1 Senator as the Chair of the United States group.
@@ -6449,65 +6853,8 @@ Ex. Ord. No. 13029, Dec. 3, 1996, 61 F.R. 64591, provided in part that effective
 (2) **Fiscal year 2004** — Subsections (e) and (f) shall apply to fiscal year 2004.
 
 
-<a id="section-283z-10"></a>
-## § 283z–10. Works or projects under treaty
-**(a) Construction, operation, maintenance, and supervision; sewage interceptor system** The President is further authorized (1) to construct any project or works which may be provided for in a treaty entered into with Mexico and to repair, protect, maintain, or complete works now existing or now under construction or those that may be constructed under the treaty provisions aforesaid; and to construct any project or works designed to facilitate compliance with the provisions of treaties between the United States and Mexico; (2) to operate and maintain any project or works so constructed or, subject to such rules and regulations for continuing supervision by the said American Commissioner or any Federal agency as the President may cause to be promulgated, to turn over the operation and maintenance of such project or works to any Federal agency, or any State, county, municipality, district, or other political subdivision within which such project or works may be in whole or in part situated, upon such terms, conditions, and requirements as the President may deem appropriate; and (3) to carry out preliminary surveys, operations, and maintenance of the interceptor system constructed to intercept sewage flows from Tijuana from selected canyon areas.
-
-**(b) Rio Grande bank protection project** Expenditures for the Rio Grande bank protection project shall be subject to the provisions and conditions made with respect to that project in the first undesignated paragraph under the heading “International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89).
-
-**(c) Anzalduas diversion dam** The Anzalduas diversion dam shall not be operated for irrigation or water supply purposes in the United States unless suitable arrangements have been made with the prospective water users for repayment to the Government of the United States for such portions of the dam as shall have been allocated to such purposes by the Secretary of State.
-
-**(d) Improvements to Rio Grande Canalization Project** Pursuant to the authority of subsection (a) and in order to facilitate further compliance with the terms of the Convention for Equitable Distribution of the Waters of the Rio Grande, May 21, 1906, United States-Mexico, the Secretary of State, acting through the United States Commissioner of the International Boundary and Water Commission, may make improvements to the Rio Grande Canalization Project, originally authorized by the Act of August 29, 1935 (49 Stat. 961). Such improvements may include all such works as may be needed to stabilize the Rio Grande in the reach between the Percha Diversion Dam in New Mexico and the American Diversion Dam in El Paso.
-
-### Statutory Notes
-
-#### References in Text
-The first undesignated paragraph under the heading “International Obligations” contained in the Act of April 25, 1945 (59 Stat. 89), referred to in subsec. (b), is not classified to the Code.
-
-#### Amendments
-1996—Subsec. (d). Pub. L. 104–319 added subsec. (d).
-
-1990—Pub. L. 101–246 designated existing provisions as subsec. (a), redesignated cls. (a) and (b) as (1) and (2), respectively, added cl. (3), and added subsecs. (b) and (c).
-
-
-<a id="section-283z-11"></a>
-## § 283z–11. Agreements with political subdivisions; acquisition of lands
-
-In order to carry out the provisions of sections 277 to 277d of this title, the President, or any Federal agency he may designate is authorized, (a) in his discretion, to enter into agreements with any one or more of said political subdivisions, in connection with the construction of any project or works provided for in paragraph (2) of section 277a and [section 277b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277b), under the terms of which agreements there shall be furnished to the United States, gratuitously, except for the examination and approval of titles, the lands or easements in lands necessary for the construction, operation, and maintenance in whole or in part of any such project or works, or for the assumption by one or more of any such political subdivisions making such agreement, of the operation and maintenance of such project or works in whole or in part upon the completion thereof: Provided, however, That when an agreement is reached that necessary lands or easements shall be provided by any such political subdivision and for the future operation and maintenance by it of a project or works or a part thereof, in the discretion of the President the title to such lands and easements for such projects or works need not be required to be conveyed to the United States but may be required only to be vested in and remain in such political subdivision; (b) to acquire by purchase, exercise of the power of eminent domain, or by donation, any real or personal property which may be necessary; (c) 11 See Repeal; Savings Provision note below. to withdraw from sale, public entry or disposal of such public lands of the United States as he may find to be necessary and thereupon the Secretary of the Interior shall cause the lands so designated to be withdrawn from any public entry whatsoever, and from sale, disposal, location or settlement under the mining laws or any other law relating to the public domain and shall cause such withdrawal to appear upon the records in the appropriate land office having jurisdiction over such lands, and such lands may be used for carrying out the purposes of sections 277 to 277d of this title: Provided, That any such withdrawal may subsequently be revoked by the President; and (d) to make or approve all necessary rules and regulations.
-
-### Statutory Notes
-
-#### Amendments
-1936—Act May 22, 1936, inserted “paragraph (2) of section 277a”.
-
-#### Repeal; Savings Provision
-Clause (c), except the proviso thereof, repealed by Pub. L. 94–579, title VII, § 704(a), Oct. 21, 1976, 90 Stat. 2792, effective on and after Oct. 21, 1976. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim), Public Lands.
-
-
-<a id="section-283z-12"></a>
-## § 283z–12. Funds received from Mexico; expenditure
-
-Any moneys contributed by or received from the United Mexican States, the North American Development Bank, or the Border Environment Cooperation Commission for the purpose of cooperating or assisting in carrying out the provisions of sections 277 to 277d of this title shall be available for expenditure in connection with any appropriation which may be made for the purposes of such sections.
-
-### Statutory Notes
-
-#### Amendments
-2002—Pub. L. 107–228 inserted “, the North American Development Bank, or the Border Environment Cooperation Commission” after “United Mexican States”.
-
-
-<a id="section-283z-13"></a>
-## § 283z–13. Authorizations for Mexican treaty projects; acquisition of lands for relocation purposes; contracts and conveyances
-
-The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico (herein referred to as the “Commission”), in connection with any project under the jurisdiction of the United States Section, International Boundary and Water Commission, United States and Mexico, is authorized: (a) to purchase, or condemn, lands, or interests in lands, for relocation of highways, roadways, railroads, telegraph, telephone, or electric transmission lines, or any other properties whatsoever, the relocation of which, in the judgment of the said Commissioner, is necessitated by the construction or operation and maintenance of any such project, and to perform any or all work involved in said relocations on said lands, or interests in lands, other lands, or interests in lands, owned and held by the United States in connection with the construction or operation and maintenance of any such project, or properties not owned by the United States; (b) to enter into contracts with the owners of the said properties whereby they undertake to acquire any, or all, property needed for said relocation, or to perform any, or all, work involved in said relocations; and (c) for the purpose of effecting completely said relocations, to convey, or exchange Government properties acquired or improved under clause (a) of this section, with or without improvements, or other properties owned and held by the United States in connection with the construction or operation and maintenance of said project, or to grant term or perpetual easements therein or thereover. Grants or conveyances hereunder shall be by instruments executed by the Secretary of State without regard to provisions of law governing the patenting of public lands.
-
-### Statutory Notes
-
-#### Short Title
-Act Sept. 13, 1950, ch. 948, § 1, 64 Stat. 846, provided that: “This Act [enacting this section and sections 277d–2 to 277d–9 of this title] may be cited as the ‘American-Mexican Treaty Act of 1950’.”
-
-
-<a id="section-283z-2"></a>
-## § 283z–2. United States Senate-Japan Interparliamentary Group
+<a id="section-283z-6"></a>
+## § 283z–6. United States Senate-Japan Interparliamentary Group
 **(a) Establishment and meetings** Not to exceed 12 Senators shall be appointed to meet once per Congress with representatives of the Diet of Japan for discussion of common problems in the interest of relations between the United States and Japan. The Senators so appointed shall be referred to as the “United States group” of the United States Senate-Japan Interparliamentary Group. The meetings shall take place in Japan and Washington, D.C. alternatively.
 
 **(b) Appointment of members** The President of the Senate shall appoint Senators under this section, including a Chair and Vice Chair, upon recommendations of the majority and minority leaders of the Senate. Such appointments shall be for the duration of each Congress.
@@ -6519,8 +6866,8 @@ Act Sept. 13, 1950, ch. 948, § 1, 64 Stat. 846, provided that: “This Act [ena
 **(e) Effective date** This section shall apply to fiscal year 2008, and each fiscal year thereafter.
 
 
-<a id="section-283z-3"></a>
-## § 283z–3. Establishment of the Kermit Roosevelt fund; creation and composition of board of trustees
+<a id="section-283z-7"></a>
+## § 283z–7. Establishment of the Kermit Roosevelt fund; creation and composition of board of trustees
 
 There is established in the Department of the Army a board to be known as the Trustees of the Kermit Roosevelt Fund, whose duty it shall be properly to administer all money and property which on and after July 2, 1945, may come under its control as part of the Kermit Roosevelt fund, created pursuant to [section 276bb of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276bb). The board shall be composed of the Chief of Finance, United States Army, ex officio, and three general officers of the Army who shall be appointed to the board and may be replaced thereon by the Secretary of the Army.
 
@@ -6533,8 +6880,8 @@ Section was formerly classified to [section 224 of Title 5](https://uscode.house
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 
-<a id="section-283z-4"></a>
-## § 283z–4. Acceptance of funds and property from Mrs. Kermit Roosevelt; purpose and use; disbursement and investment of fund
+<a id="section-283z-8"></a>
+## § 283z–8. Acceptance of funds and property from Mrs. Kermit Roosevelt; purpose and use; disbursement and investment of fund
 
 The board is authorized to accept from Mrs. Kermit Roosevelt such money and property as she may tender, to receipt therefor on behalf of the United States, and to deposit the funds so received in the Treasury of the United States as the original corpus of a trust fund, to be known as the Kermit Roosevelt fund, which shall be used for the purpose of fostering a better understanding and a closer relationship between the military forces of the United States and those of the United Kingdom by sponsoring lectures or courses of instruction to be delivered by officers of the British Army at the United States Military Academy and elsewhere in the United States and by officers of the United States Army at Sandhurst Royal Military College and elsewhere in the United Kingdom or, should such exchange lectures prove or become impracticable or unnecessary for any reason, by such other application of the funds as the board, with the approval of the Secretary of the Army may determine. The original corpus of the fund and the income therefrom may be disbursed at the discretion of the board in furtherance of the stated purpose, and shall be subject to investment and reinvestment as provided in [section 276cc of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276cc).
 
@@ -6547,8 +6894,8 @@ Section was formerly classified to [section 225 of Title 5](https://uscode.house
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 
-<a id="section-283z-5"></a>
-## § 283z–5. Acceptance of funds and property from other sources; limitation; disbursement and investment
+<a id="section-283z-9"></a>
+## § 283z–9. Acceptance of funds and property from other sources; limitation; disbursement and investment
 
 The board is also authorized to accept, receive, hold, and administer gifts, bequests and devises of money, securities, or other property, whether real or personal, from any source, for the benefit of the Kermit Roosevelt fund, but no such gift, bequest, or devise which entails any expenditure not to be met out of the gift, bequest, devise, or the income thereof shall be accepted without the consent of Congress. Such additional sums or property shall be receipted for by the Chief of Finance and may, at the discretion of the board and unless otherwise restricted by the terms of the gift, bequest, or devise, be administered and disbursed in the same manner as the original corpus of the fund and the income therefrom. The board may in its discretion sell or exchange securities or other property given, bequeathed, or devised to or for the benefit of the Kermit Roosevelt fund, and may invest and reinvest the proceeds thereof, together with any other moneys in the fund, in such investments as it may determine from time to time: Provided, however, That the board is not authorized to engage in any business, nor shall it make any investments for the account of the fund which could not lawfully be made by a trust company in the District of Columbia, except that it may make any investment directly authorized by the instrument of gift, bequest, or devise under which the funds to be invested are derived, and may retain any investments accepted by it.
 
@@ -6558,334 +6905,20 @@ The board is also authorized to accept, receive, hold, and administer gifts, beq
 Section was formerly classified to [section 226 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section226&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 
-<a id="section-283z-6"></a>
-## § 283z–6. Income from property covered into Treasury; disbursement and investment
-
-The income from any property held or administered by the board, as and when collected, shall be deposited in the Treasury of the United States to the credit of the trust fund established pursuant to [section 276bb of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276bb), and it shall be and remain subject to investment, reinvestment, and disbursement by the board for the uses and purposes set forth herein.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 227 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section227&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
-
-
-<a id="section-283z-7"></a>
-## § 283z–7. Powers of board; personal liability of members; compensation; decisions reviewable by Secretary of the Army; annual report; jurisdiction of court
-
-The board shall have all the usual powers of a trustee in respect to all property administered by it, but the members of the board shall not be personally liable, except for misfeasance, on account of any acts performed in their trust capacity. The members of the board shall not be required to furnish bond, and no additional compensation shall accrue to any of them on account of their duties as trustees. Within the limits prescribed by sections 276bb to 276dd of this title, the administration, control, and expenditure of this fund and its application to the purposes intended shall be according to the sole discretion of the board, and the exercise of its discretion and authority in regard thereto and its decisions thereon, including any payments made or authorized by it to be made from the Kermit Roosevelt fund, shall not be subject to review except by the Secretary of the Army, to whom the board shall, on the 1st day of January, each year, render a full report of its activities during the preceding twelve months. The actions of the board shall not be subject to judicial review except in an action brought in the United States District Court for the District of Columbia, which is given jurisdiction of such suits, for the purpose of enforcing the provisions of any trust accepted by the board.
-
-### Statutory Notes
-
-#### Codification
-Section was formerly classified to [section 228 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section228&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
-
-#### Change of Name
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
-
-
-<a id="section-283z-8"></a>
-## § 283z–8. International Boundary Commission, United States and Mexico; study of boundary waters
-
-The President is authorized to designate the American Commissioner on the International Boundary Commission, United States and Mexico, or other Federal agency, to cooperate with a representative or representatives of the Government of Mexico in a study regarding the equitable use of the waters of the lower Rio Grande and the lower Colorado and Tia Juana Rivers, for the purpose of obtaining information which may be used as a basis for the negotiation of a treaty with the Government of Mexico relative to the use of the waters of these rivers and to matters closely related thereto. On completion of such study the results shall be reported to the Secretary of State.
-
-### Statutory Notes
-
-#### Amendments
-1935—Act Aug. 19, 1935, created the International Boundary Commission to take the place of the three special commissioners.
-
-1927—Act Mar. 3, 1927, provided for a study of Tia Juana River in addition to the lower Rio Grande and Colorado Rivers.
-
-#### Change of Name
-International Boundary Commission, United States and Mexico, American section, to which powers, duties, and functions of International Water Commission, United States and Mexico, American section, were transferred by act June 30, 1932, ch. 314, pt. II, title V, § 510, 47 Stat. 417, reconstituted as International Boundary and Water Commission by Water Treaty of 1944.
-
-#### Short Title
-Pub. L. 100–465, Oct. 3, 1988, 102 Stat. 2272, which enacted sections 277g to 277g–3 of this title, is known as the Rio Grande Pollution Correction Act of 1987. For complete classification of this Act to the Code, see Short Title note set out under [section 277g of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277g) and Tables.
-
-Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, which enacted sections 277d–34 to 277d–42 of this title, is known as the American-Mexican Boundary Treaty Act of 1972. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–34 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-34) and Tables.
-
-Pub. L. 88–300, Apr. 29, 1964, 78 Stat. 184, which enacted sections 277d–17 to 277d–25 of this title, is known as the American-Mexican Chamizal Convention Act of 1964. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–17 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-17) and Tables.
-
-Act Sept. 13, 1950, ch. 948, 64 Stat. 846, which enacted sections 277d–1 to 277d–9 of this title, is known as the American-Mexican Treaty Act of 1950. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-1) and Tables.
-
-#### Repeals
-Act Mar. 3, 1927, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
-
-#### Annual Appropriations
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
-
-
-<a id="section-283z-9"></a>
-## § 283z–9. Investigations of commission; construction of works or projects
-
-The Secretary of State, acting through the American Commissioner, International Boundary Commission, United States and Mexico, is further authorized to conduct technical and other investigations relating to the defining, demarcation, fencing, or monumentation of the land and water boundary between the United States and Mexico, to flood control, water resources, conservation, and utilization of water, sanitation and prevention of pollution, channel rectification, stabilization, drainage of transboundary storm waters, and other related matters upon the international boundary between the United States and Mexico; and to construct and maintain fences, monuments and other demarcations of the boundary line between the United States and Mexico, and sewer systems, water systems, and electric light, power and gas systems crossing the international border, and to continue such work and operations through the American Commissioner as are now in progress and are authorized by law.
-
-### Statutory Notes
-
-#### Amendments
-1990—Pub. L. 101–246 inserted reference to drainage of transboundary storm waters.
-
-1935—Act Aug. 19, 1935, amended section generally.
-
-1927—Act Mar. 3, 1927, increased appropriation from $20,000 to $50,000.
-
-#### Change of Name
-International Boundary Commission, United States and Mexico, American section, to which powers, duties, and functions of International Water Commission, United States and Mexico, American section, were transferred by act June 30, 1932, ch. 314, pt. II, title V, § 510, 47 Stat. 417, reconstituted as International Boundary and Water Commission by Water Treaty of 1944.
-
-#### Repeals
-Act Mar. 3, 1927, cited as a credit to this section, was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
-
-#### Water Resources Planning
-Jurisdiction, powers, or prerogatives of the International Boundary and Water Commission, United States and Mexico, unaffected by Water Resources Planning Act, see [section 1962–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962–1&num=0&edition=prelim), The Public Health and Welfare.
-
-
 <a id="section-284"></a>
-## § 284. Authorization of appropriations; availability of prior appropriations; use of moneys received
+## § 284. Authorization for appropriations; availability of prior appropriations; use of moneys received
 
-There is authorized to be appropriated to the United States section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to defray such costs as may accrue to the United States arising out of any such agreement for the operation and maintenance of such project: Provided, That funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico”, shall be available for expenditure for the purposes of this section and [section 277d–10 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-10): Provided further, That any moneys received from the United Mexican States under the terms of any such agreement shall be available for expenditure in connection with any appropriations which may be available or which may be made for the purposes of said sections: And provided further, That moneys received from the city of Nogales, Arizona, pursuant to the provisions of said sections shall be available for expenditure in connection with any appropriations which may be available or which may be made available for the purposes of said sections.
+There is authorized to be appropriated to the United States Section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to defray such costs as may accrue to the United States arising out of any such agreement for the operation and maintenance of such project: Provided, That funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico”, shall be available for expenditure for the purposes of this section and [section 277d–6 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-6): Provided further, That any moneys received from the United Mexican States under the terms of any such agreement shall be available for expenditure in connection with any appropriations which may be available or which may be made for the purposes of said sections: And provided further, That moneys received from the city of Douglas, Arizona, pursuant to the provisions of said sections shall be available for expenditure in connection with any appropriations which may be available or which may be made available for the purposes of said sections.
 
 
 <a id="section-284a"></a>
-## § 284a. Expenditures for flood fighting, rescue operations, repairs or restoration of flood control or sanitation works threatened or destroyed by floodwaters of Rio Grande, Colorado, or Tijuana Rivers
+## § 284a. Calexico Mexicali Sanitation Project; operation by Commission; division of costs; contribution by City of Calexico, California
 
-On and after June 20, 1956, in addition to the funds available under the appropriation “Rio Grande emergency flood protection”, the United States Commissioner is authorized to expend from any appropriation available to the International Boundary and Water Commission, United States and Mexico, American Section, such sums as may be necessary for prosecution of emergency flood fighting and rescue operations, repairs or restoration of any flood control or sanitation works threatened or destroyed by floodwaters of the Rio Grande, the Colorado or Tijuana Rivers, or other streams running across or near the boundary, and for taking emergency actions, consistent with the emergency provisions of the Safe Drinking Water Act [[42 U.S.C. 300f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim) et seq.], to protect against health threatening surface and ground water pollution problems along the United States-Mexico boundary.
-
-### Statutory Notes
-
-#### References in Text
-The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
-
-#### Amendments
-1994—Pub. L. 103–236 substituted “Tijuana Rivers, or other streams running across or near the boundary, and for taking emergency actions, consistent with the emergency provisions of the Safe Drinking Water Act, to protect against health threatening surface and ground water pollution problems along the United States-Mexico boundary” for “Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
-
-1990—Pub. L. 101–246 inserted “or sanitation” after “flood control” and inserted before period at end “, the Colorado or Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
+The Secretary of State is authorized, subject to the conditions provided in this section and [section 277d–9 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-9), to enter into an agreement with the appropriate official or officials of the United Mexican States for the construction, operation, and maintenance by the International Boundary and Water Commission, United States and Mexico, of a sanitation project for the cities of Calexico, California, and Mexicali, Lower California, Mexico, which agreement shall contain such provisions relating to a division between the two Governments of the cost of such construction and operation and maintenance, or of the work involved therein, as may be recommended by the said Commission and approved by the Government of Mexico and by the Secretary of State on behalf of the Government of the United States: Provided, That no such agreement shall be entered into until the governing body of the city of Calexico, California, has given assurances satisfactory to the Secretary of State that, so long as such agreement remains in force, the city of Calexico will contribute an equitable proportion as determined by the United States Section of said Commission, subject to the approval of the Secretary of State, of the costs of such construction, operation, and maintenance allocated to the United States.
 
 
 <a id="section-284aa"></a>
-## § 284aa. Acquired land, addition to State; State jurisdiction
-
-Land acquired or to be acquired by the United States of America in accordance with the provisions of the treaty, including the tract provided for in [section 277d–39 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-39), shall become a geographical part of the State to which it attaches and shall be under the civil and criminal jurisdiction of such State, without affecting the ownership of such land. The addition of land and the ceding of jurisdiction to a State shall take effect upon acceptance by such State.
-
-
-<a id="section-284b"></a>
-## § 284b. Authorization for international storage dam on the Rio Grande
-
-The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is hereby authorized to conclude with the appropriate official or officials of the Government of Mexico an agreement for the joint construction, operation, and maintenance by the United States and Mexico, in accordance with the provisions of the treaty of February 3, 1944, with Mexico, of a major international storage dam on the Rio Grande at the site and having substantially the characteristics described in minute numbered 207 adopted June 19, 1958, by the said Commission, and in the “Rio Grande International Storage Dams Project—Report on Proposed Dam and Reservoir” prepared by the United States Section of the said Commission and dated September 1958.
-
-
-<a id="section-284bb"></a>
-## § 284bb. Hidalgo-Reynosa lands; administration; part of national wildlife refuge system
-
-Upon transfer of sovereignty from Mexico to the United States of the 481.68 acres of land acquired by the United States from Mexico near Hidalgo-Reynosa, administration over the portion of that land which is determined by the Commissioner not to be required for the construction and maintenance of the relocated river channel shall be assumed by the Department of the Interior; and the Department of the Interior, United States Fish and Wildlife Service, is authorized to plan, establish, develop, and administer such portion of the acquired lands as a part of the national wildlife refuge system.
-
-### Statutory Notes
-
-#### Change of Name
-“United States Fish and Wildlife Service” substituted in text for “Fish and Wildlife Service, Bureau of Sport Fisheries and Wildlife” pursuant to section 1(3) of Pub. L. 93–271, see [section 742b of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section742b&num=0&edition=prelim), Conservation.
-
-
-<a id="section-284c"></a>
-## § 284c. Construction, operation, and maintenance on self-liquidating basis of facilities for generating hydroelectric energy
-
-If agreement is concluded pursuant to [section 277d–13 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-13) for the construction of a major international storage dam the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to conclude with the appropriate official or officials of Mexico an agreement consistent with article 7 of the treaty of February 3, 1944, for the construction, operation, and maintenance on a self-liquidating basis, for the United States share, of facilities for generating hydroelectric energy at said dam.
-
-
-<a id="section-284cc"></a>
-## § 284cc. Authorization of appropriations
-
-There is authorized to be appropriated to the Department of State for the use of the United States section of the International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to carry out the provisions of the treaty and title I of this Act.
-
-### Statutory Notes
-
-#### References in Text
-This Act, referred to in text, is Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, known as the “American-Mexican Boundary Treaty Act of 1972”. Title I of this Act enacted sections 277d–34 to 277d–40 of this title and amended [section 1322 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1322&num=0&edition=prelim), Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–34 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-34) and Tables.
-
-
-<a id="section-284d"></a>
-## § 284d. Integration of operation of dam with other United States water conservation activities
-
-If a dam is constructed pursuant to an agreement concluded under the authorization granted by [section 277d–13 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-13), its operation for conservation and release of United States share of waters shall be integrated with other United States water conservation activities on the Rio Grande below Fort Quitman, Texas, in such manner as to provide the maximum feasible amount of water for beneficial use in the United States with the understandings that (a) releases of United States share of waters from said dam for domestic, municipal, industrial, and irrigation uses in the United States shall be made pursuant to order by the appropriate authority or authorities of the State of Texas, and (b) the State of Texas having stipulated that the amount of water that will be available for use in the United States below Falcon Dam after the proposed dam is placed in operation will be not less than the amount available under existing conditions of river development, and to carry out such understandings and said stipulation the conservation storage of said dam shall be used, and it shall be the exclusive responsibility of the appropriate authority or authorities of said State to distribute available United States share of waters of the Rio Grande in such manner as will comply with said stipulation.
-
-
-<a id="section-284e"></a>
-## § 284e. Authorization of appropriations
-
-There is hereby authorized to be appropriated to the Department of State for the use of the United States Section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to carry out the provisions of sections 277d–13 to 277d–16 of this title.
-
-
-<a id="section-284f"></a>
-## § 284f. Chamizal boundary settlement; investigations relating to river channel; acquisition of lands; relocation of facilities
-
-In connection with the convention between the United States of America and the United Mexican States for the solution of the problem of the Chamizal, signed August 29, 1963, the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized—
-
-### Statutory Notes
-
-#### Codification
-Section is comprised of part of section 1 of Pub. L. 88–300. Remainder of section 1 is set out as a Short Title note below.
-
-#### Short Title
-Pub. L. 88–300, § 1, Apr. 29, 1964, 78 Stat. 184, provided in part: “That this Act [enacting this section and sections 277d–18 to 277d–25 of this title] may be cited as the ‘American-Mexican Chamizal Convention Act of 1964’.”
-
-
-<a id="section-284g"></a>
-## § 284g. Construction, operation, and maintenance of works; Bridge of the Americas
-**(a) In general** The United States Commissioner is authorized to construct, operate, and maintain all works provided for in said convention and sections 277d–17 to 277d–25 of this title, and to turn over the operation and maintenance of any such works to any Federal agency, or any State, county, municipality, district, or other political subdivision within which such project or works may be in whole or in part situated, upon such terms, conditions, and requirements as the Commissioner may deem appropriate.
-
-**(b) Bridge of the Americas** The United States Commissioner is authorized to receive payments of money from public or private sources in the United States or Mexico made for the purpose of sharing in the cost of operations, maintenance, and replacement of the Bridge of the Americas which crosses the Rio Grande between El Paso, Texas, and Cd. Juarez, Chihuahua. Notwithstanding any other provision of law, such payments of money shall be credited to any appropriation to the Commission which is currently available. Funds received under this subsection shall be available only for the replacement of such bridge.
-
-**(c) Advance appropriations** The authority of subsection (b) may be exercised only to the extent or in such amounts as are provided in advance in appropriation Acts.
-
-### Statutory Notes
-
-#### Amendments
-1999—Subsec. (b). Pub. L. 106–113 inserted “operations, maintenance, and” after “cost of”.
-
-1994—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
-
-
-<a id="section-284h"></a>
-## § 284h. Compensation of owners and tenants to prevent economic injury; regulations
-
-The United States Commissioner, under regulations approved by the Secretary of State, and upon application of the owners and tenants of lands to be acquired by the United States to fulfill and accomplish the purposes of said convention, and to the extent administratively determined by the Commissioner to be fair and reasonable, is authorized to—
-
-### Statutory Notes
-
-#### Codification
-In par. b., “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
-
-<a id="section-284i"></a>
-## § 284i. Limitation on application for reimbursement or compensation
-
-Application for reimbursement or compensation under [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19) shall be submitted to the Commissioner within either one year from the date of acquisition or the date of vacating the premises by the applicant, whichever date is later. Applications not submitted within said period shall be forever barred.
-
-
-<a id="section-284j"></a>
-## § 284j. Attorneys’ fees; penalties
-
-The Commissioner, in rendering an award in favor of any claimant under [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19), may, as part of such award, determine and allow reasonable attorneys’ fees which shall not exceed 10 per centum of the amount awarded, to be paid out of but not in addition to the amount of award, to the attorneys representing the claimant. Any attorney who charges, demands, receives, or collects for services rendered in connection with such claim any amount in excess of that allowed by the terms of this section, if award be made, shall be fined not more than $2,000 or imprisoned not more than one year, or both.
-
-
-<a id="section-284k"></a>
-## § 284k. Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights and powers unaffected
-
-Payments to be made as herein provided shall be in addition to, but not in duplication of, any payments that may otherwise be authorized by law. The means employed to acquire the property, whether by condemnation or otherwise, shall not affect eligibility for reimbursement or compensation under sections 277d–17 to 277d–25 of this title. Nothing contained in such sections shall be construed as creating any legal right or cause of action against the United States or as precluding the exercise by the Government of the right of eminent domain or any other right or power that it may have under such sections or any other law; nor shall such sections be construed as precluding an owner or tenant from asserting any rights he may have under other laws or the Constitution of the United States.
-
-
-<a id="section-284l"></a>
-## § 284l. Taxation; exclusion from gross income
-
-No amount received as an award under subsection a. and subsections b. (1) and (3) of [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19) shall be included in gross income for purposes of chapter 1 of title 26. However, amounts received under subsection b. (1) shall be included in gross income to the extent that such amounts are not used within one year of the receipt thereof to purchase replacement housing or facilities.
-
-### Statutory Notes
-
-#### Amendments
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
-
-
-<a id="section-284m"></a>
-## § 284m. Definitions; exemption from administrative procedure provisions
-
-As used in sections 277d–17 to 277d–25 of this title, the term “land” shall include interests in land, and the term “fair value” shall mean fair value of the interest acquired. The provisions of such sections shall be exempt from the operations of subchapter II of chapter 5, and chapter 7, of title 5.
-
-### Statutory Notes
-
-#### Codification
-“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “the Administrative Procedure Act of June 11, 1946 (60 Stat. 237), as amended ([5 U.S.C. 1001–101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001–101&num=0&edition=prelim)1)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
-
-<a id="section-284n"></a>
-## § 284n. Authorization of appropriations
-
-There are authorized to be appropriated to the Department of State for the use of the United States section of said Commission not to exceed $44,900,000 to carry out the provisions of said convention and sections 277d–17 to 277d–25 of this title and for transfer to other Federal agencies to accomplish by them or other proper agency relocation of their facilities necessitated by the project. Of the appropriations authorized by this section, not to exceed $4,200,000 may be used to carry out the provisions of [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19). The provisions of [section 277d–3 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-3) are hereby expressly extended to apply to the carrying out of the provisions of said convention and sections 277d–17 to 277d–25 of this title.
-
-
-<a id="section-284o"></a>
-## § 284o. Lower Colorado River emergency flood control works; agreements with Mexico for joint construction, operation and maintenance
-
-The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to conclude, with the appropriate official or officials of the Government of Mexico, agreements for emergency flood control measures of international character in the reaches of the lower Colorado River between Imperial Dam and the Gulf of California, in both the United States and Mexico, such agreements to provide: (a) for the joint clearing and maintaining free of trees and brush the bed and banks of the channel; for removing sediment deposits from the river channel; and (b) for corrective actions to guard against sedimentation and consequent aggradation of the river channel incident to desilting operations at diversion dams in the two countries: Provided, That, prior approval of the Secretary of the Interior is required of any proposed agreement with Mexico under clause (b) of this section which would involve construction and/or operation of works on the Colorado River in the United States under the jurisdiction of the Secretary. The measures contemplated herein are for the purpose of controlling floods on the lower Colorado River in accordance with article 13 of the 1944 Water Treaty with Mexico, and accomplishment thereof by the International Boundary and Water Commission, United States Section, would be in accord with the Memorandum of Understanding “as to Functions and Jurisdiction of Agencies of the United States in Relation to the Colorado and Tijuana Rivers and the Rio Grande Below Fort Quitman, Texas, Under Water Treaty Signed at Washington, February 3, 1944,” between the Department of State and the United States Section, International Boundary and Water Commission and the Department of the Interior dated February 14, 1945.
-
-
-<a id="section-284p"></a>
-## § 284p. Execution of agreements
-
-The United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to carry out those measures agreed upon for execution by the United States in the agreements concluded pursuant to [section 277d–26 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-26).
-
-
-<a id="section-284q"></a>
-## § 284q. Authorization of appropriations
-
-There is authorized to be appropriated to the Department of State for use of the United States Section, International Boundary and Water Commission, United States and Mexico, not in excess of $300,000 for the initial cost of the work authorized in sections 277d–26 to 277d–28 of this title, and not to exceed $30,000 based on December 1975 prices, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein, annually thereafter for necessary maintenance.
-
-### Statutory Notes
-
-#### Amendments
-1977—Pub. L. 95–105 inserted “based on December 1975 prices, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein,” after “$30,000”.
-
-1973—Pub. L. 93–126 substituted “$30,000” for “$20,000”.
-
-#### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–105 effective Oct. 1, 1977, see section 514(d) of Pub. L. 95–105, set out as a note under [section 277d–3 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-3).
-
-
-<a id="section-284r"></a>
-## § 284r. Rio Grande canalization project; flood and sediment control; agreements authorized; control gates; costs; authorization of appropriations
-
-For the purposes of facilitating and implementing operation and maintenance of the international Rio Grande canalization project, the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to enter into agreements with the appropriate official or officials of local organizations, as defined in the Watershed Protection and Flood Prevention Act of August 4, 1954, as amended [[16 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) et seq.], for the maintenance by said local organizations either directly or indirectly through mutually satisfactory maintenance agreements with others, including the United States, of all those flood and arroyo sediment control dams, together with all related works, hereafter installed or constructed in the Rio Grande watershed between Caballo Dam and El Paso, Texas, in accordance with said Act, and which are necessary, in the opinion of Said Commissioner, to facilitate and implement the operation and maintenance of said project.
-
-### Statutory Notes
-
-#### References in Text
-The Watershed Protection and Flood Prevention Act of August 4, 1954, as amended, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) and Tables.
-
-#### Amendments
-1973—Pub. L. 93–126 substituted “$50,000” for “$23,000”.
-
-
-<a id="section-284s"></a>
-## § 284s. Lower Rio Grande drainage conveyance canal projects; agreements with Mexico for construction, operation, and maintenance; division of costs; non-Federal assurances of one-half of Federal costs
-
-The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized, notwithstanding any other provision of law and subject to the conditions provided in this section and [section 277d–31 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-31) to conclude an agreement or agreements with the appropriate official or officials of the Government of the United Mexican States for the construction, operation, and maintenance by the United Mexican States under the supervision of the International Boundary and Water Commission, United States and Mexico, of a drainage conveyance canal through Mexican territory for the discharge of waters of El Morillo and other drains in the United Mexican States into the Gulf of Mexico in the manner, and having substantially the characteristics, described in said Commission’s minute numbered 223, dated November 30, 1965. The agreement or agreements shall provide that the cost of construction including costs of design and right-of-way and the costs of operation and maintenance, shall be equally divided between the United Mexican States and the United States. Before concluding the agreement or agreements, the Secretary of State shall receive satisfactory assurances from private citizens or a responsible local group that they or it will pay to the United States Treasury one-half of the actual United States costs of such construction, including costs of design and right-of-way, and one-half of the actual costs of operation and maintenance allocated under such agreement or agreements to the United States. Payments to the United States Treasury under this section shall be covered into the Treasury as miscellaneous receipts.
-
-
-<a id="section-284t"></a>
-## § 284t. Authorization of appropriations
-
-To defray costs that accrue to the United States under the agreement or agreements referred to in [section 277d–30 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-30) for the construction, operation, and maintenance of drainage conveyance canal projects, there are authorized to be appropriated to the Department of State for use of the United States Section, International Boundary and Water Commission, United States and Mexico, the following amounts:
-
-(1) Not to exceed $690,000 for costs of construction.
-
-(2) Upon completion of construction, not to exceed $25,000 based on estimated calendar year 1976 costs, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein, annually for costs of operation and maintenance.
-
-### Statutory Notes
-
-#### Amendments
-1977—Par. (2). Pub. L. 95–105 inserted “based on estimated calendar year 1976 costs, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein,” after “$25,000”.
-
-1973—Par. (2). Pub. L. 93–126 substituted “$25,000” for “$20,000”.
-
-#### Effective Date of 1977 Amendment
-Amendment by Pub. L. 95–105 effective Oct. 1, 1977, see section 514(d) of Pub. L. 95–105, set out as a note under [section 277d–3 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-3).
-
-
-<a id="section-284u"></a>
-## § 284u. Tijuana River flood control project; agreement with Mexico for joint construction, operation and maintenance
-
-The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is hereby authorized to conclude with the appropriate official or officials of the Government of Mexico an agreement for the joint construction, operation, and maintenance by the United States and Mexico, in accordance with the provisions of the treaty of February 3, 1944, with Mexico, of an international flood control project for the Tijuana River, which shall be located and have substantially the characteristics described in “Report on an International Flood Control Project, Tijuana River Basin”, prepared by the United States Section, International Boundary and Water Commission, United States and Mexico.
-
-
-<a id="section-284v"></a>
-## § 284v. Authorization; construction, operation, and maintenance, appropriations, and acquisition of land
-
-Pursuant to the agreement concluded under the authority of [section 277d–32 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-32), the United States Commissioner is authorized to construct, operate, and maintain the portion of the “International Flood Control Project, Tijuana River Basin,” assigned to the United States, and there is hereby authorized to be appropriated to the Department of State for use of the United States section the sum of $10,800,000 for construction costs of such project, as modified, based on estimated June 1976 prices, plus or minus such amounts as may be justified by reason of price index fluctuations in costs involved therein, and such sums as may be necessary for its maintenance and operation, except that no funds may be appropriated under sections 277d–32 and 277d–33 of this title for the fiscal year ending on September 30, 1977. Contingent upon the furnishing by the city of San Diego of its appropriate share of the funds for the acquisition of the land and interests therein needed to carry out the agreement between the United States and Mexico to construct such project, the Secretary of State, acting through the United States Commissioner, is further authorized to participate financially with non-Federal interests in the acquisition of said lands and interest therein, to the extent that funds provided by the city of San Diego are insufficient for this purpose.
-
-### Statutory Notes
-
-#### Amendments
-1976—Pub. L. 94–425 substituted provisions authorizing appropriations of $10,800,000 for construction costs for project based on June 1976 prices, with exception that no funds may be appropriated for fiscal year ending Sept. 30, 1977 for provisions authorizing appropriations not to exceed $12,600,000 for construction costs for project, eliminated provision requiring approval of title by Attorney General, and inserted provision authorizing financial participation of Secretary of State through Commissioner to acquire land for construction of project contingent upon city of San Diego furnishing its appropriate share of funds.
-
-
-<a id="section-284w"></a>
-## § 284w. American-Mexican Boundary Treaty, authorization for carrying out treaty provisions; investigations; land acquisition, purposes; damages, repair or compensation
+## § 284aa. American-Mexican Boundary Treaty, authorization for carrying out treaty provisions; investigations; land acquisition, purposes; damages, repair or compensation
 
 In connection with the treaty between the United States of America and the United Mexican States to resolve pending boundary differences and maintain the Rio Grande and the Colorado River as the international boundary between the United States of America and the United Mexican States, signed November 23, 1970, (hereafter in this Act referred to as the “treaty”), the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States, and Mexico (hereafter in this Act referred to as the “Commissioner”), is authorized—
 
@@ -6920,8 +6953,14 @@ This Act, referred to in text, means Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1
 Pub. L. 92–549, § 1, Oct. 25, 1972, 86 Stat. 1161, provided: “That this Act [enacting this section and sections 277d–35 to 277d–42 of this title and amending [section 1322 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1322&num=0&edition=prelim), Customs Duties] may be cited as the ‘American-Mexican Boundary Treaty Act of 1972’.”
 
 
-<a id="section-284x"></a>
-## § 284x. Construction, operation, and maintenance of works; property relocation, contracts; transfer of authority
+<a id="section-284b"></a>
+## § 284b. Authorization for appropriations; availability of prior appropriations; use of moneys received
+
+There is authorized to be appropriated to the United States section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to defray such costs as may accrue to the United States arising out of any such agreement for the construction, operation, and maintenance of such project: Provided, That funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico”, shall be available for expenditure for the purposes of this section and [section 277d–8 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-8): Provided further, That any moneys received from the United Mexican States under the terms of any such agreement shall be available for expenditure in connection with any appropriation which may be available or which may be made available for the purposes of said sections: And provided further, That moneys received from the city of Calexico, California, pursuant to the provisions of said sections, shall be available for expenditure in connection with any appropriations which may be available or which may be made available for the purposes of said sections.
+
+
+<a id="section-284bb"></a>
+## § 284bb. Construction, operation, and maintenance of works; property relocation, contracts; transfer of authority
 
 The Commissioner is authorized—
 
@@ -6937,8 +6976,28 @@ The Commissioner is authorized—
 This Act, referred to in text, is Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, known as the “American-Mexican Boundary Treaty Act of 1972”. Title I of this Act enacted sections 277d–34 to 277d–40 of this title and amended [section 1322 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1322&num=0&edition=prelim), Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–34 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-34) and Tables.
 
 
-<a id="section-284y"></a>
-## § 284y. Sale of excess land
+<a id="section-284c"></a>
+## § 284c. Nogales Sanitation Project; operation by Commission; division of costs; contribution by Nogales, Arizona
+
+The Secretary of State is authorized, notwithstanding any other provision of law and subject to the conditions provided in this section and [section 277d–11 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-11), to enter into an agreement with the appropriate official or officials of the United Mexican States for the operation and maintenance by the International Boundary and Water Commission, United States and Mexico, of the Nogales sanitation project, located at Nogales, Arizona, and Nogales, Sonora, Mexico, heretofore constructed by the said Commission, which agreement shall contain such provisions relating to a division between the two Governments of the costs of such operation and maintenance, or of the work involved therein, as may be recommended by said Commission and approved by the Government of Mexico and by the Secretary of State on behalf of the Government of the United States: Provided, That no such agreement shall be entered into until the governing body of the city of Nogales, Arizona, has given assurances satisfactory to the Secretary of State that it will, so long as such agreement remains in force, contribute an equitable proportion, as determined by the United States section of said Commission, subject to the approval of the Secretary of State, of the costs of such operation and maintenance allocated to the United States.
+
+### Statutory Notes
+
+#### Amendment of Section
+Pub. L. 118–31, div. E, title LVI, § 5602(a), (e), Dec. 22, 2023, 137 Stat. 956, 959, provided that, effective Oct. 1, 2024, this section is amended by striking period at end and inserting “: Provided further, That such equitable proportion shall consist only of the costs directly associated with the treatment and conveyance of the wastewater of the city and, to the extent practicable, shall not include any costs directly associated with the quality or quantity of wastewater originating in Mexico.” See 2023 Amendment note below.
+
+#### Amendments
+2023—Pub. L. 118–31 substituted “: Provided further, That such equitable proportion shall consist only of the costs directly associated with the treatment and conveyance of the wastewater of the city and, to the extent practicable, shall not include any costs directly associated with the quality or quantity of wastewater originating in Mexico.” for period at end.
+
+#### Effective Date of 2023 Amendment
+Pub. L. 118–31, div. E, title LVI, § 5602(e), Dec. 22, 2023, 137 Stat. 959, provided that: “Subsections (a) and (b) [amending this section and enacting provisions set out as a note under this section] (including the amendments made by such subsections) shall take effect on October 1, 2024.”
+
+#### Nogales Wastewater Improvement
+Pub. L. 118–31, div. E, title LVI, § 5602(b)–(d), Dec. 22, 2023, 137 Stat. 956–959, provided that: “(b) Nogales Sanitation Project.—“(1) Definitions.—In this subsection:“(A) City.—The term ‘City’ means the City of Nogales, Arizona. “(B) Commission.—The term ‘Commission’ means the United States Section of the International Boundary and Water Commission. “(C) International outfall interceptor.—The term ‘International Outfall Interceptor’ means the pipeline that conveys wastewater from the United States-Mexico border to the Nogales International Wastewater Treatment Plant. “(D) Nogales international wastewater treatment plant.—The term ‘Nogales International Wastewater Treatment Plant’ means the wastewater treatment plant that—“(i) is operated by the Commission; “(ii) is located in Rio Rico, Santa Cruz County, Arizona, after manhole 99; and “(iii) treats wastewater originating from— “(I) Nogales, Sonora, Mexico; and “(II) Nogales, Arizona. “(E) Nogales sanitation project.—The term ‘Nogales sanitation project’ means—“(i) the International Outfall Interceptor; and “(ii) the Nogales International Wastewater Treatment Plant. “(2) Ownership and control.—“(A) In general.—The Commission shall assume full ownership and control of the International Outfall Interceptor on the date on which—“(i) the City has conveyed, without consideration, all right, title, and interest of the City in the International Outfall Interceptor to the Commission; “(ii) all memoranda and agreements necessary for the Commission to operate and maintain the International Outfall Interceptor, as described in subparagraph (B), have been entered into; and “(iii) a total of $12,500,000 has been appropriated pursuant to paragraph (3) or otherwise secured by the Commission for use in carrying out such paragraph. “(B) Agreements.—In accordance with the Act of July 27, 1953 (67 Stat. 195, chapter 242; [22 U.S.C. 277d–10](./chapter-007-international-bureaus-congresses-etc.md#section-277d-10) et seq.), as amended by this section, the Commission shall, with respect to each applicable governing body in the State of Arizona, including the City, seek to enter into—“(i) a memorandum of understanding granting to the Commission access to existing easements for a right of entry to the International Outfall Interceptor for the life of the International Outfall Interceptor; “(ii) an agreement with respect to the flows entering the International Outfall Interceptor that are controlled by the City; and “(iii) an agreement to work in good faith to expeditiously enter into such other agreements as are necessary for the Commission to operate and maintain the International Outfall Interceptor. “(3) Operation and maintenance.—“(A) In general.—Beginning on the date on which the Commission assumes full ownership and control of the International Outfall Interceptor under paragraph (2), the Commission shall carry out the operation and maintenance of the International Outfall Interceptor. “(B) Authorization of appropriations.—There are authorized to be appropriated to the Commission to carry out this paragraph $12,500,000 for the period of fiscal years 2025 through 2029, to remain available until expended. “(4) Debris screen.—“(A) Debris screen required.—“(i) In general.—The Commission shall construct, operate, and maintain a debris screen, in coordination with other relevant Federal agencies, at manhole 1 of the International Outfall Interceptor for intercepting debris and drug bundles coming to the United States from Nogales, Sonora, Mexico. “(ii) Requirement.—The Commission and the Commissioner of U.S. Customs and Border Protection shall coordinate the construction, operation, and maintenance of the debris screen under clause (i), including for purposes of the removal of drug bundles and other illicit goods caught in the debris screen. “(B) Authorization of appropriations.—There are authorized to be appropriated to the Commission, to remain available until expended—“(i) for fiscal year 2025— “(I) $8,000,000 for construction of the debris screen described in subparagraph (A)(i); and “(II) not less than $1,000,000 for the operation and maintenance of the debris screen described in subparagraph (A)(i); and “(ii) not less than $1,000,000 for each of fiscal years 2026 through 2029 for the operation and maintenance of the debris screen described in subparagraph (A)(i). “(5) Limitation of claims.—Chapter 171 and [section 1346(b) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1346/b&num=0&edition=prelim), United States Code (commonly known as the ‘Federal Tort Claims Act’), shall not apply to any claim arising from the activities of the Commission in carrying out this subsection, including any claim arising from damages that result from overflow of the International Outfall Interceptor due to excess inflow to the International Outfall Interceptor originating from Nogales, Sonora, Mexico. “(c) International Treaty.—Not later than six months after the date of enactment of this section [Dec. 22, 2023], the Commission shall seek to initiate negotiations with Mexico for a new Treaty Minute or a modification of Treaty Minute 227 to address, at a minimum, the following:“(1) Joint operation and maintenance responsibilities of the International Outfall Interceptor. “(2) Capacity usage of wastewater flows from the United States and Mexico through the International Outfall Interceptor. “(3) Payment for excess wastewater flows through the International Outfall Interceptor emanating from the Nogales, Sonora, Mexico area. “(4) Any terms and conditions considered necessary to support proportional use and maintenance of the International Outfall Interceptor. “(d) Report.—Not later than one year after the date of enactment of this section [Dec. 22, 2023], and each year thereafter, the Commission shall submit to the Committee on Foreign Relations of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—“(1) an operation and maintenance plan, or a description of the status of such plan, developed by the Commission and other relevant agencies, for the debris screen required under subsection (b)(4)(A); “(2) a description of any operation and maintenance issues of the Nogales sanitation project, including relating to transnational criminal activity; “(3) an update on efforts by the Commission to renegotiate an existing Treaty Minute or develop a new Treaty Minute pursuant to subsection (c); and “(4) an accounting of all outstanding or overdue payments from Mexico or the City for the processing and conveyance of wastewater through the Nogales sanitation project.”
+
+
+<a id="section-284cc"></a>
+## § 284cc. Sale of excess land
 
 Notwithstanding any other provision of law, the Commissioner is authorized to dispose of by warranty deed, or otherwise, any land acquired by him on behalf of the United States, or obtained by the United States pursuant to treaty between the United States and Mexico, and not required for project purposes, under procedures to be formulated by the Commissioner, to adjoining landowners at such price as he considers fair and equitable, and, if not so disposed of, to turn such land over to the General Services Administration for disposal under the provisions of chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
@@ -6948,20 +7007,335 @@ Notwithstanding any other provision of law, the Commissioner is authorized to di
 In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 
-<a id="section-284z"></a>
-## § 284z. Channel shifts; boundary determination
+<a id="section-284d"></a>
+## § 284d. Authorization of appropriations; availability of prior appropriations; use of moneys received
+
+There is authorized to be appropriated to the United States section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to defray such costs as may accrue to the United States arising out of any such agreement for the operation and maintenance of such project: Provided, That funds heretofore appropriated to the Department of State under the heading “International Boundary and Water Commission, United States and Mexico”, shall be available for expenditure for the purposes of this section and [section 277d–10 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-10): Provided further, That any moneys received from the United Mexican States under the terms of any such agreement shall be available for expenditure in connection with any appropriations which may be available or which may be made for the purposes of said sections: And provided further, That moneys received from the city of Nogales, Arizona, pursuant to the provisions of said sections shall be available for expenditure in connection with any appropriations which may be available or which may be made available for the purposes of said sections.
+
+
+<a id="section-284dd"></a>
+## § 284dd. Channel shifts; boundary determination
 
 When a determination must be made under the treaty whether to permit a new channel to become the boundary, or whether or not to restore a river to its former channel, or whether, instead of restoration, the Governments should undertake a rectification of the river channel, the Commissioner’s decision, approved by the Secretary of State shall be final so far as the United States is concerned, and the Commissioner is authorized to construct or arrange for the construction of such works as may be required to give effect to that decision.
 
 
+<a id="section-284e"></a>
+## § 284e. Expenditures for flood fighting, rescue operations, repairs or restoration of flood control or sanitation works threatened or destroyed by floodwaters of Rio Grande, Colorado, or Tijuana Rivers
+
+On and after June 20, 1956, in addition to the funds available under the appropriation “Rio Grande emergency flood protection”, the United States Commissioner is authorized to expend from any appropriation available to the International Boundary and Water Commission, United States and Mexico, American Section, such sums as may be necessary for prosecution of emergency flood fighting and rescue operations, repairs or restoration of any flood control or sanitation works threatened or destroyed by floodwaters of the Rio Grande, the Colorado or Tijuana Rivers, or other streams running across or near the boundary, and for taking emergency actions, consistent with the emergency provisions of the Safe Drinking Water Act [[42 U.S.C. 300f](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300f&num=0&edition=prelim) et seq.], to protect against health threatening surface and ground water pollution problems along the United States-Mexico boundary.
+
+### Statutory Notes
+
+#### References in Text
+The Safe Drinking Water Act, referred to in text, is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, which is classified generally to subchapter XII (§ 300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+
+#### Amendments
+1994—Pub. L. 103–236 substituted “Tijuana Rivers, or other streams running across or near the boundary, and for taking emergency actions, consistent with the emergency provisions of the Safe Drinking Water Act, to protect against health threatening surface and ground water pollution problems along the United States-Mexico boundary” for “Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
+
+1990—Pub. L. 101–246 inserted “or sanitation” after “flood control” and inserted before period at end “, the Colorado or Tijuana Rivers, and for taking emergency actions to protect against health threatening sanitation problems by repairing or replacing existing capital infrastructure along the United States-Mexico Boundary”.
+
+
+<a id="section-284f"></a>
+## § 284f. Authorization for international storage dam on the Rio Grande
+
+The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is hereby authorized to conclude with the appropriate official or officials of the Government of Mexico an agreement for the joint construction, operation, and maintenance by the United States and Mexico, in accordance with the provisions of the treaty of February 3, 1944, with Mexico, of a major international storage dam on the Rio Grande at the site and having substantially the characteristics described in minute numbered 207 adopted June 19, 1958, by the said Commission, and in the “Rio Grande International Storage Dams Project—Report on Proposed Dam and Reservoir” prepared by the United States Section of the said Commission and dated September 1958.
+
+
+<a id="section-284g"></a>
+## § 284g. Construction, operation, and maintenance on self-liquidating basis of facilities for generating hydroelectric energy
+
+If agreement is concluded pursuant to [section 277d–13 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-13) for the construction of a major international storage dam the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to conclude with the appropriate official or officials of Mexico an agreement consistent with article 7 of the treaty of February 3, 1944, for the construction, operation, and maintenance on a self-liquidating basis, for the United States share, of facilities for generating hydroelectric energy at said dam.
+
+
+<a id="section-284h"></a>
+## § 284h. Integration of operation of dam with other United States water conservation activities
+
+If a dam is constructed pursuant to an agreement concluded under the authorization granted by [section 277d–13 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-13), its operation for conservation and release of United States share of waters shall be integrated with other United States water conservation activities on the Rio Grande below Fort Quitman, Texas, in such manner as to provide the maximum feasible amount of water for beneficial use in the United States with the understandings that (a) releases of United States share of waters from said dam for domestic, municipal, industrial, and irrigation uses in the United States shall be made pursuant to order by the appropriate authority or authorities of the State of Texas, and (b) the State of Texas having stipulated that the amount of water that will be available for use in the United States below Falcon Dam after the proposed dam is placed in operation will be not less than the amount available under existing conditions of river development, and to carry out such understandings and said stipulation the conservation storage of said dam shall be used, and it shall be the exclusive responsibility of the appropriate authority or authorities of said State to distribute available United States share of waters of the Rio Grande in such manner as will comply with said stipulation.
+
+
+<a id="section-284i"></a>
+## § 284i. Authorization of appropriations
+
+There is hereby authorized to be appropriated to the Department of State for the use of the United States Section, International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to carry out the provisions of sections 277d–13 to 277d–16 of this title.
+
+
+<a id="section-284j"></a>
+## § 284j. Chamizal boundary settlement; investigations relating to river channel; acquisition of lands; relocation of facilities
+
+In connection with the convention between the United States of America and the United Mexican States for the solution of the problem of the Chamizal, signed August 29, 1963, the Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized—
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of part of section 1 of Pub. L. 88–300. Remainder of section 1 is set out as a Short Title note below.
+
+#### Short Title
+Pub. L. 88–300, § 1, Apr. 29, 1964, 78 Stat. 184, provided in part: “That this Act [enacting this section and sections 277d–18 to 277d–25 of this title] may be cited as the ‘American-Mexican Chamizal Convention Act of 1964’.”
+
+
+<a id="section-284k"></a>
+## § 284k. Construction, operation, and maintenance of works; Bridge of the Americas
+**(a) In general** The United States Commissioner is authorized to construct, operate, and maintain all works provided for in said convention and sections 277d–17 to 277d–25 of this title, and to turn over the operation and maintenance of any such works to any Federal agency, or any State, county, municipality, district, or other political subdivision within which such project or works may be in whole or in part situated, upon such terms, conditions, and requirements as the Commissioner may deem appropriate.
+
+**(b) Bridge of the Americas** The United States Commissioner is authorized to receive payments of money from public or private sources in the United States or Mexico made for the purpose of sharing in the cost of operations, maintenance, and replacement of the Bridge of the Americas which crosses the Rio Grande between El Paso, Texas, and Cd. Juarez, Chihuahua. Notwithstanding any other provision of law, such payments of money shall be credited to any appropriation to the Commission which is currently available. Funds received under this subsection shall be available only for the replacement of such bridge.
+
+**(c) Advance appropriations** The authority of subsection (b) may be exercised only to the extent or in such amounts as are provided in advance in appropriation Acts.
+
+### Statutory Notes
+
+#### Amendments
+1999—Subsec. (b). Pub. L. 106–113 inserted “operations, maintenance, and” after “cost of”.
+
+1994—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+
+<a id="section-284l"></a>
+## § 284l. Compensation of owners and tenants to prevent economic injury; regulations
+
+The United States Commissioner, under regulations approved by the Secretary of State, and upon application of the owners and tenants of lands to be acquired by the United States to fulfill and accomplish the purposes of said convention, and to the extent administratively determined by the Commissioner to be fair and reasonable, is authorized to—
+
+### Statutory Notes
+
+#### Codification
+In par. b., “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+
+<a id="section-284m"></a>
+## § 284m. Limitation on application for reimbursement or compensation
+
+Application for reimbursement or compensation under [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19) shall be submitted to the Commissioner within either one year from the date of acquisition or the date of vacating the premises by the applicant, whichever date is later. Applications not submitted within said period shall be forever barred.
+
+
+<a id="section-284n"></a>
+## § 284n. Attorneys’ fees; penalties
+
+The Commissioner, in rendering an award in favor of any claimant under [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19), may, as part of such award, determine and allow reasonable attorneys’ fees which shall not exceed 10 per centum of the amount awarded, to be paid out of but not in addition to the amount of award, to the attorneys representing the claimant. Any attorney who charges, demands, receives, or collects for services rendered in connection with such claim any amount in excess of that allowed by the terms of this section, if award be made, shall be fined not more than $2,000 or imprisoned not more than one year, or both.
+
+
+<a id="section-284o"></a>
+## § 284o. Prohibition against duplicate payments; eligibility for payments unaffected by means employed for acquisition of property; rights and powers unaffected
+
+Payments to be made as herein provided shall be in addition to, but not in duplication of, any payments that may otherwise be authorized by law. The means employed to acquire the property, whether by condemnation or otherwise, shall not affect eligibility for reimbursement or compensation under sections 277d–17 to 277d–25 of this title. Nothing contained in such sections shall be construed as creating any legal right or cause of action against the United States or as precluding the exercise by the Government of the right of eminent domain or any other right or power that it may have under such sections or any other law; nor shall such sections be construed as precluding an owner or tenant from asserting any rights he may have under other laws or the Constitution of the United States.
+
+
+<a id="section-284p"></a>
+## § 284p. Taxation; exclusion from gross income
+
+No amount received as an award under subsection a. and subsections b. (1) and (3) of [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19) shall be included in gross income for purposes of chapter 1 of title 26. However, amounts received under subsection b. (1) shall be included in gross income to the extent that such amounts are not used within one year of the receipt thereof to purchase replacement housing or facilities.
+
+### Statutory Notes
+
+#### Amendments
+1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+
+<a id="section-284q"></a>
+## § 284q. Definitions; exemption from administrative procedure provisions
+
+As used in sections 277d–17 to 277d–25 of this title, the term “land” shall include interests in land, and the term “fair value” shall mean fair value of the interest acquired. The provisions of such sections shall be exempt from the operations of subchapter II of chapter 5, and chapter 7, of title 5.
+
+### Statutory Notes
+
+#### Codification
+“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for “the Administrative Procedure Act of June 11, 1946 (60 Stat. 237), as amended ([5 U.S.C. 1001–101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001–101&num=0&edition=prelim)1)” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+
+<a id="section-284r"></a>
+## § 284r. Authorization of appropriations
+
+There are authorized to be appropriated to the Department of State for the use of the United States section of said Commission not to exceed $44,900,000 to carry out the provisions of said convention and sections 277d–17 to 277d–25 of this title and for transfer to other Federal agencies to accomplish by them or other proper agency relocation of their facilities necessitated by the project. Of the appropriations authorized by this section, not to exceed $4,200,000 may be used to carry out the provisions of [section 277d–19 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-19). The provisions of [section 277d–3 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-3) are hereby expressly extended to apply to the carrying out of the provisions of said convention and sections 277d–17 to 277d–25 of this title.
+
+
+<a id="section-284s"></a>
+## § 284s. Lower Colorado River emergency flood control works; agreements with Mexico for joint construction, operation and maintenance
+
+The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to conclude, with the appropriate official or officials of the Government of Mexico, agreements for emergency flood control measures of international character in the reaches of the lower Colorado River between Imperial Dam and the Gulf of California, in both the United States and Mexico, such agreements to provide: (a) for the joint clearing and maintaining free of trees and brush the bed and banks of the channel; for removing sediment deposits from the river channel; and (b) for corrective actions to guard against sedimentation and consequent aggradation of the river channel incident to desilting operations at diversion dams in the two countries: Provided, That, prior approval of the Secretary of the Interior is required of any proposed agreement with Mexico under clause (b) of this section which would involve construction and/or operation of works on the Colorado River in the United States under the jurisdiction of the Secretary. The measures contemplated herein are for the purpose of controlling floods on the lower Colorado River in accordance with article 13 of the 1944 Water Treaty with Mexico, and accomplishment thereof by the International Boundary and Water Commission, United States Section, would be in accord with the Memorandum of Understanding “as to Functions and Jurisdiction of Agencies of the United States in Relation to the Colorado and Tijuana Rivers and the Rio Grande Below Fort Quitman, Texas, Under Water Treaty Signed at Washington, February 3, 1944,” between the Department of State and the United States Section, International Boundary and Water Commission and the Department of the Interior dated February 14, 1945.
+
+
+<a id="section-284t"></a>
+## § 284t. Execution of agreements
+
+The United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to carry out those measures agreed upon for execution by the United States in the agreements concluded pursuant to [section 277d–26 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-26).
+
+
+<a id="section-284u"></a>
+## § 284u. Authorization of appropriations
+
+There is authorized to be appropriated to the Department of State for use of the United States Section, International Boundary and Water Commission, United States and Mexico, not in excess of $300,000 for the initial cost of the work authorized in sections 277d–26 to 277d–28 of this title, and not to exceed $30,000 based on December 1975 prices, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein, annually thereafter for necessary maintenance.
+
+### Statutory Notes
+
+#### Amendments
+1977—Pub. L. 95–105 inserted “based on December 1975 prices, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein,” after “$30,000”.
+
+1973—Pub. L. 93–126 substituted “$30,000” for “$20,000”.
+
+#### Effective Date of 1977 Amendment
+Amendment by Pub. L. 95–105 effective Oct. 1, 1977, see section 514(d) of Pub. L. 95–105, set out as a note under [section 277d–3 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-3).
+
+
+<a id="section-284v"></a>
+## § 284v. Rio Grande canalization project; flood and sediment control; agreements authorized; control gates; costs; authorization of appropriations
+
+For the purposes of facilitating and implementing operation and maintenance of the international Rio Grande canalization project, the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized to enter into agreements with the appropriate official or officials of local organizations, as defined in the Watershed Protection and Flood Prevention Act of August 4, 1954, as amended [[16 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) et seq.], for the maintenance by said local organizations either directly or indirectly through mutually satisfactory maintenance agreements with others, including the United States, of all those flood and arroyo sediment control dams, together with all related works, hereafter installed or constructed in the Rio Grande watershed between Caballo Dam and El Paso, Texas, in accordance with said Act, and which are necessary, in the opinion of Said Commissioner, to facilitate and implement the operation and maintenance of said project.
+
+### Statutory Notes
+
+#### References in Text
+The Watershed Protection and Flood Prevention Act of August 4, 1954, as amended, referred to in text, is act Aug. 4, 1954, ch. 656, 68 Stat. 666, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1001&num=0&edition=prelim) and Tables.
+
+#### Amendments
+1973—Pub. L. 93–126 substituted “$50,000” for “$23,000”.
+
+
+<a id="section-284w"></a>
+## § 284w. Lower Rio Grande drainage conveyance canal projects; agreements with Mexico for construction, operation, and maintenance; division of costs; non-Federal assurances of one-half of Federal costs
+
+The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is authorized, notwithstanding any other provision of law and subject to the conditions provided in this section and [section 277d–31 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-31) to conclude an agreement or agreements with the appropriate official or officials of the Government of the United Mexican States for the construction, operation, and maintenance by the United Mexican States under the supervision of the International Boundary and Water Commission, United States and Mexico, of a drainage conveyance canal through Mexican territory for the discharge of waters of El Morillo and other drains in the United Mexican States into the Gulf of Mexico in the manner, and having substantially the characteristics, described in said Commission’s minute numbered 223, dated November 30, 1965. The agreement or agreements shall provide that the cost of construction including costs of design and right-of-way and the costs of operation and maintenance, shall be equally divided between the United Mexican States and the United States. Before concluding the agreement or agreements, the Secretary of State shall receive satisfactory assurances from private citizens or a responsible local group that they or it will pay to the United States Treasury one-half of the actual United States costs of such construction, including costs of design and right-of-way, and one-half of the actual costs of operation and maintenance allocated under such agreement or agreements to the United States. Payments to the United States Treasury under this section shall be covered into the Treasury as miscellaneous receipts.
+
+
+<a id="section-284x"></a>
+## § 284x. Authorization of appropriations
+
+To defray costs that accrue to the United States under the agreement or agreements referred to in [section 277d–30 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-30) for the construction, operation, and maintenance of drainage conveyance canal projects, there are authorized to be appropriated to the Department of State for use of the United States Section, International Boundary and Water Commission, United States and Mexico, the following amounts:
+
+(1) Not to exceed $690,000 for costs of construction.
+
+(2) Upon completion of construction, not to exceed $25,000 based on estimated calendar year 1976 costs, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein, annually for costs of operation and maintenance.
+
+### Statutory Notes
+
+#### Amendments
+1977—Par. (2). Pub. L. 95–105 inserted “based on estimated calendar year 1976 costs, plus or minus such amounts as may be justified by reason of ordinary fluctuations in operation and maintenance costs involved therein,” after “$25,000”.
+
+1973—Par. (2). Pub. L. 93–126 substituted “$25,000” for “$20,000”.
+
+#### Effective Date of 1977 Amendment
+Amendment by Pub. L. 95–105 effective Oct. 1, 1977, see section 514(d) of Pub. L. 95–105, set out as a note under [section 277d–3 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-3).
+
+
+<a id="section-284y"></a>
+## § 284y. Tijuana River flood control project; agreement with Mexico for joint construction, operation and maintenance
+
+The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico, is hereby authorized to conclude with the appropriate official or officials of the Government of Mexico an agreement for the joint construction, operation, and maintenance by the United States and Mexico, in accordance with the provisions of the treaty of February 3, 1944, with Mexico, of an international flood control project for the Tijuana River, which shall be located and have substantially the characteristics described in “Report on an International Flood Control Project, Tijuana River Basin”, prepared by the United States Section, International Boundary and Water Commission, United States and Mexico.
+
+
+<a id="section-284z"></a>
+## § 284z. Authorization; construction, operation, and maintenance, appropriations, and acquisition of land
+
+Pursuant to the agreement concluded under the authority of [section 277d–32 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-32), the United States Commissioner is authorized to construct, operate, and maintain the portion of the “International Flood Control Project, Tijuana River Basin,” assigned to the United States, and there is hereby authorized to be appropriated to the Department of State for use of the United States section the sum of $10,800,000 for construction costs of such project, as modified, based on estimated June 1976 prices, plus or minus such amounts as may be justified by reason of price index fluctuations in costs involved therein, and such sums as may be necessary for its maintenance and operation, except that no funds may be appropriated under sections 277d–32 and 277d–33 of this title for the fiscal year ending on September 30, 1977. Contingent upon the furnishing by the city of San Diego of its appropriate share of the funds for the acquisition of the land and interests therein needed to carry out the agreement between the United States and Mexico to construct such project, the Secretary of State, acting through the United States Commissioner, is further authorized to participate financially with non-Federal interests in the acquisition of said lands and interest therein, to the extent that funds provided by the city of San Diego are insufficient for this purpose.
+
+### Statutory Notes
+
+#### Amendments
+1976—Pub. L. 94–425 substituted provisions authorizing appropriations of $10,800,000 for construction costs for project based on June 1976 prices, with exception that no funds may be appropriated for fiscal year ending Sept. 30, 1977 for provisions authorizing appropriations not to exceed $12,600,000 for construction costs for project, eliminated provision requiring approval of title by Attorney General, and inserted provision authorizing financial participation of Secretary of State through Commissioner to acquire land for construction of project contingent upon city of San Diego furnishing its appropriate share of funds.
+
+
 <a id="section-285"></a>
-## § 285. American-Mexican Boundary Treaty, Presidio flood control project; authorization of flood control agreement
+## § 285. Acquired land, addition to State; State jurisdiction
+
+Land acquired or to be acquired by the United States of America in accordance with the provisions of the treaty, including the tract provided for in [section 277d–39 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-39), shall become a geographical part of the State to which it attaches and shall be under the civil and criminal jurisdiction of such State, without affecting the ownership of such land. The addition of land and the ceding of jurisdiction to a State shall take effect upon acceptance by such State.
+
+
+<a id="section-285a"></a>
+## § 285a. Hidalgo-Reynosa lands; administration; part of national wildlife refuge system
+
+Upon transfer of sovereignty from Mexico to the United States of the 481.68 acres of land acquired by the United States from Mexico near Hidalgo-Reynosa, administration over the portion of that land which is determined by the Commissioner not to be required for the construction and maintenance of the relocated river channel shall be assumed by the Department of the Interior; and the Department of the Interior, United States Fish and Wildlife Service, is authorized to plan, establish, develop, and administer such portion of the acquired lands as a part of the national wildlife refuge system.
+
+### Statutory Notes
+
+#### Change of Name
+“United States Fish and Wildlife Service” substituted in text for “Fish and Wildlife Service, Bureau of Sport Fisheries and Wildlife” pursuant to section 1(3) of Pub. L. 93–271, see [section 742b of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section742b&num=0&edition=prelim), Conservation.
+
+
+<a id="section-285aa"></a>
+## § 285aa. Definitions
+
+When used in this subchapter—
+
+(1) the term “Secretary” means the Secretary of State;
+
+(2) the term “Government agency” means any department, independent establishment, or other agency of the Government of the United States, or any corporation wholly owned by the Government of the United States; and
+
+(3) the term “Commission” means the South Pacific Commission.
+
+
+<a id="section-285b"></a>
+## § 285b. Authorization of appropriations
+
+There is authorized to be appropriated to the Department of State for the use of the United States section of the International Boundary and Water Commission, United States and Mexico, such sums as may be necessary to carry out the provisions of the treaty and title I of this Act.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in text, is Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, known as the “American-Mexican Boundary Treaty Act of 1972”. Title I of this Act enacted sections 277d–34 to 277d–40 of this title and amended [section 1322 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1322&num=0&edition=prelim), Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–34 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-34) and Tables.
+
+
+<a id="section-285bb"></a>
+## § 285bb. Authorization of appropriations
+
+There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
+
+**(a)** such 11 So in original. Probably should be capitalized. sums as may be required annually for the payment by the United States of its proportionate share of the expenses of the Commission and its auxiliary and subsidiary bodies, in accordance with article XIV of the agreement establishing the South Pacific Commission, as amended, except that in no event shall that payment for any fiscal year of the Commission exceed 20 per centum of all expenses apportioned among participating governments of the Commission for that year.
+
+**(b)** Such additional sums as may be needed for the payment of all necessary expenses incident to participation by the United States in the activities of the Commission, including salaries of the United States Commissioners, their alternates, and appropriate staff, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; personal services in the District of Columbia; services as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim); under such rules and regulations as the Secretary of State may prescribe, allowances for living quarters, including heat, fuel, and light and cost-of-living allowances to persons temporarily stationed abroad; hire of passenger motor vehicles and other local transportation; printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); and such other expenses as the Secretary of State finds necessary to participation by the United States in the activities of the Commission: Provided, That the provisions of [section 287r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287r), and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
+
+### Statutory Notes
+
+#### References in Text
+Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
+
+#### Codification
+In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy-ninth Congress [[5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim)]”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+
+In subsec. (b), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim))” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents.
+
+In subsec. (b), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+1972—Subsec. (a). Pub. L. 92–490 struck out “not to exceed $250,000 per fiscal year” after “annually” and inserted “except that in no event shall that payment for any fiscal year of the Commission exceed 20 per centum of all expenses apportioned among participating governments of the Commission for that year” after “as amended”.
+
+1970—Subsec. (a). Pub. L. 91–632 substituted “$250,000” for “$200,000”.
+
+1965—Subsec. (a). Pub. L. 89–91 substituted “such sums as may be required annually, not to exceed $200,000 per fiscal year” for “Not more than $150,000 for the fiscal year 1965, and $150,000 for the fiscal year 1966”.
+
+1964—Subsec. (a). Pub. L. 88–263 substituted “$150,000 for the fiscal year 1965, and $150,000 for the fiscal year 1966,” for “$100,000 annually”.
+
+1960—Subsec. (a). Pub. L. 86–472 substituted “$100,000” for “$75,000”.
+
+1950—Subsec. (a). Joint Res. Sept. 21, 1950, substituted “$75,000” for “$20,000”.
+
+1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+
+#### Annual Appropriations
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
+
+#### Limitation of Contributions
+Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950; consent by State Department and reports to Congress, see [section 262a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262a).
+
+
+<a id="section-285c"></a>
+## § 285c. American-Mexican Boundary Treaty, Presidio flood control project; authorization of flood control agreement
 
 The Secretary of State, acting through the Commissioner, is hereby authorized to conclude with the appropriate official or officials of the Government of Mexico an agreement for a coordinated plan by the United States and Mexico for international flood control works for protection of lands along the international section of the Rio Grande in the United States and in Mexico in the Presidio-Ojinaga Valley.
 
 
-<a id="section-285a"></a>
-## § 285a. Construction, operation, and maintenance of flood control works; authorization of appropriations; restrictions
+<a id="section-285cc"></a>
+## § 285cc. Employment of personnel with specialized skills
+
+The Secretary is authorized, when the Commission is desirous of obtaining the services of a person having special scientific or other technical or professional qualifications, from time to time to detail, or authorize the detail of, for temporary service to or in cooperation with the Commission, any person in the employ or service of the Government of the United States who has such qualifications, with the approval of the Government agency in which such person is employed or serving, under the same conditions as those governing the detail of officers and employees of the United States Government to the government of another country in accordance with the provisions of the Act of May 25, 1938 (52 Stat. 442), as amended, except that the authority vested in the President under that Act shall be vested in the Secretary for the purpose of carrying out this section.
+
+### Statutory Notes
+
+#### References in Text
+Act of May 25, 1938 (52 Stat. 442), as amended, referred to in text, is act May 25, 1938, ch. 277, 52 Stat. 442, as amended, which was classified to section 118e of former title 5, Executive Departments and Government Officers and Employees, and was repealed by act Jan. 26, 1948, ch. 36, § 1004(a), 62 Stat. 13. Section 1004(c) of act Jan. 26, 1948, provided that any reference to provisions of act May 25, 1938 shall be construed to be applicable to the appropriate provisions of titles III and IX of act Jan. 26, 1948 [see sections 1451 et seq., 1478 and 1479 of this title].
+
+
+<a id="section-285d"></a>
+## § 285d. Construction, operation, and maintenance of flood control works; authorization of appropriations; restrictions
 
 If an agreement is concluded pursuant to [section 277d–41 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-41), the Commissioner is authorized to construct, operate, and maintain flood control works located in the United States having substantially the characteristics described in “Report on the Flood Control Project Rio Grande, Presidio Valley, Texas”, prepared by the United States section, International Boundary and Water Commission, United States and Mexico; and there are hereby authorized to be appropriated to the Department of State for the use of the United States section of the Commission such sums as may be necessary to carry out the provisions of title II of this Act. No part of any appropriation under this section shall be expended for flood control works on any land, site, or easement unless such land, site, or easement has been acquired under the treaty for other purposes or by donation and, in the case of a donation, the title thereto has been approved in accordance with existing rules and regulations of the Attorney General of the United States.
 
@@ -6971,39 +7345,34 @@ If an agreement is concluded pursuant to [section 277d–41 of this title](./cha
 This Act, referred to in text, is Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, known as the “American-Mexican Boundary Treaty Act of 1972”. Title II of this Act enacted sections 277d–41 and 277d–42 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 277d–34 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277d-34) and Tables.
 
 
-<a id="section-285aa"></a>
-## § 285aa. Authorization of appropriations
+<a id="section-285dd"></a>
+## § 285dd. Representation in Caribbean Commission; appointment of commissioners and alternates
 
-There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
-
-**(a)** Not more than $142,000 annually for the payment by the United States of its proportionate share of the expenses of the Commission and its auxiliary and subsidiary bodies, pursuant to article XV of the “agreement for the Establishment of the Caribbean Commission”; and
-
-**(b)** Such additional sums as may be needed for the payment of all necessary expenses incident to participation by the United States in the activities of the Commission, including salaries of the United States Commissioners, their alternates, appropriate staff, without regard to the civil-service laws, and chapter 51 and subchapter III of chapter 53 of title 5; personal services in the District of Columbia; services as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim); hire of passenger motor vehicles and other local transportation; printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); and such other expenses as the Secretary of State finds necessary to participation by the United States in the activities of the Commission: Provided, That the provisions of [section 287r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287r), and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
+The President is hereby authorized to accept membership for the United States in the Caribbean Commission, created by “An agreement for the establishment of the Caribbean Commission,” signed in Washington on October 30, 1946, by representatives of the Governments of the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and to appoint the United States Commissioners, and their alternates, thereto.
 
 ### Statutory Notes
 
-#### References in Text
-Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
+#### Purpose of Commission
+Act Mar. 4, 1948, ch. 97, 62 Stat. 65, provided that: “Whereas representatives of the Governments of the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America signed ‘An Agreement for the establishment of the Caribbean Commission’ in Washington on October 30, 1946, which agreement continued and extended the international cooperative arrangements initiated in 1942 between the United Kingdom of Great Britain and Northern Ireland, and the United States; and “Whereas the purpose of the Caribbean Commission is to encourage and strengthen international cooperation in promoting the economic and social welfare and advancement of the non-self-governing territories in the Caribbean area, whose economic and social development is of vital interest to the security of the United States, in accordance with the principles set forth in chapter XI of the Charter of the United Nations: Therefore be it”.
 
-#### Codification
-In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy-ninth Congress [[5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim)], respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+#### Acceptance of Caribbean Organization Agreement
+Pub. L. 87–73, June 30, 1961, 75 Stat. 194, provided: “That the President is hereby authorized to accept on behalf of the Government of the United States of America the ‘Agreement for the Establishment of the Caribbean Organization’ signed at Washington on June 21, 1960, by representatives of the Governments of the Republic of France, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America; that the participation of the Commonwealth of Puerto Rico and the Virgin Islands of the United States in the Caribbean Organization is hereby authorized; that the Caribbean Organization shall, upon promulgation by the President of an Executive order to this effect, be entitled to the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (59 Stat. 669; [22 U.S.C. 288](./chapter-007-international-bureaus-congresses-etc.md#section-288)); and that the Secretary of State is hereby authorized to appoint or designate a United States observer to the Caribbean Organization.”
 
-In subsec. (b), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim)),” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents.
+#### Termination of Caribbean Commission
+Article III of the Agreement of the Establishment of the Caribbean Organization provides that “On the termination of the Agreement for the establishment of the Caribbean Commission, signed at Washington on October 30, 1946, the assets of the Caribbean Commission shall be and are by virtue of this Agreement transferred to and vested in the Caribbean Organization. The Caribbean Organization is hereby authorized to assume at the same time the liabilities of the Caribbean Commission and shall be regarded as the successor body to the Caribbean Commission.”
 
-In subsec. (b), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+Article IV of such Agreement provides that “The Agreement for the establishment of the Caribbean Commission shall terminate at the end of the first meeting of the Caribbean Council provided for in the Statute annexed to this Agreement.”
 
-#### Amendments
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+#### Ex. Ord. No. 10609. Delegation of Authority To Appoint Alternate Commissioners
+Ex. Ord. No. 10609, May 7, 1955, 20 F.R. 3147, provided:
 
-#### Repeals
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+By virtue of the authority vested in me by [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code (65 Stat. 713), and as President of the United States, it is ordered that the Secretary of State be, and he is hereby, designated and empowered to exercise, without the approval, ratification, or other action of the President, so much of the authority vested in the President by the first section of the Joint Resolution of March 4, 1948, entitled “Joint Resolution providing for membership and participation by the United States in the Caribbean Commission and authorizing an appropriation therefor” (62 Stat. 66; [22 U.S.C. 280h](./chapter-007-international-bureaus-congresses-etc.md#section-280h)) as consists of authority to appoint alternate United States Commissioners to the Caribbean Commission.
 
-#### Annual Appropriations
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
+Dwight D. Eisenhower.
 
 
-<a id="section-285b"></a>
-## § 285b. Definitions
+<a id="section-285e"></a>
+## § 285e. Definitions
 
 In sections 277d–43 to 277d–46 of this title, the following definitions apply:
 
@@ -7035,14 +7404,39 @@ Pub. L. 106–457, title VIII, § 801, Nov. 7, 2000, 114 Stat. 1977, provided th
 Pub. L. 106–457, title VIII, § 802, Nov. 7, 2000, 114 Stat. 1977, provided that: “The purpose of this title [see Short Title note above] is to authorize the United States to take actions to address comprehensively the treatment of sewage emanating from the Tijuana River area, Mexico, that flows untreated or partially treated into the United States causing significant adverse public health and environmental impacts.”
 
 
-<a id="section-285bb"></a>
-## § 285bb. Representation in Congress; appointment of delegates and alternates
+<a id="section-285ee"></a>
+## § 285ee. Authorization of appropriations
 
-The President is hereby authorized to accept membership for the Government of the United States in, and to appoint the United States delegates and their alternates to, the Pan American Railway Congress, the constitution and bylaws of which were approved in Montevideo, Uruguay, April 1946, and deposited in the archives of the Pan American Union in Washington.
+There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
+
+**(a)** Not more than $142,000 annually for the payment by the United States of its proportionate share of the expenses of the Commission and its auxiliary and subsidiary bodies, pursuant to article XV of the “agreement for the Establishment of the Caribbean Commission”; and
+
+**(b)** Such additional sums as may be needed for the payment of all necessary expenses incident to participation by the United States in the activities of the Commission, including salaries of the United States Commissioners, their alternates, appropriate staff, without regard to the civil-service laws, and chapter 51 and subchapter III of chapter 53 of title 5; personal services in the District of Columbia; services as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim); hire of passenger motor vehicles and other local transportation; printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); and such other expenses as the Secretary of State finds necessary to participation by the United States in the activities of the Commission: Provided, That the provisions of [section 287r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287r), and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
+
+### Statutory Notes
+
+#### References in Text
+Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
+
+#### Codification
+In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy-ninth Congress [[5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim)], respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+
+In subsec. (b), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim)),” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents.
+
+In subsec. (b), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+
+#### Annual Appropriations
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
 
 
-<a id="section-285c"></a>
-## § 285c. Actions to be taken by the Commission and the Administrator
+<a id="section-285f"></a>
+## § 285f. Actions to be taken by the Commission and the Administrator
 **(a) Secondary treatment**
 
 (1) **In general** — Pursuant to Treaty Minute 311 to the Treaty for the Utilization of Waters of the Colorado and Tijuana Rivers and of the Rio Grande, dated February 3, 1944, and notwithstanding section 510(b)(2) of the Water Quality Act of 1987 (101 Stat. 81), the Commission is authorized and directed to provide for the secondary treatment of a total of not more than 50 mgd in Mexico—
@@ -7141,43 +7535,14 @@ Subsec. (c)(2)(N). Pub. L. 108–425, § 1(b)(3), (5), redesignated subpar. (L) 
 Subsec. (c)(2)(O) to (R). Pub. L. 108–425, § 1(b)(3), redesignated subpars. (M) to (P) as (O) to (R), respectively.
 
 
-<a id="section-285cc"></a>
-## § 285cc. Authorization of appropriations
+<a id="section-285ff"></a>
+## § 285ff. Representation in Congress; appointment of delegates and alternates
 
-There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
-
-**(a)** Such sums as may be necessary for the payment by the United States of its proportionate share of the expenses of the Pan American Railway Congress and its Permanent Commission; and
-
-**(b)** Such additional sums as may be needed for the payment of all necessary expenses incident to participation by the United States in the activities thereof, including expenses of the United States delegates, their alternates, and appropriate staff, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; personal services in the District of Columbia; services as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim); hire of passenger motor vehicles and other local transportation; printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); and such other expenses as the Secretary of State finds necessary to participation by the United States in the activities of the organization: Provided, That the provisions of [section 287r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287r), and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this subsection.
-
-### Statutory Notes
-
-#### References in Text
-Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
-
-#### Codification
-In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy-ninth Congress [[5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim)]”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
-
-In subsec. (b), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim)),” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which enacted Title 44, Public Printing and Documents.
-
-In subsec. (b), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-#### Amendments
-1982—Subsec. (a). Pub. L. 97–241 substituted “Such sums as may be necessary” for “Not more than $15,000 annually”.
-
-1970—Subsec. (a). Pub. L. 91–553 increased annual authorization from $5,000 to $15,000.
-
-1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
-
-#### Repeals
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
-
-#### Annual Appropriations
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
+The President is hereby authorized to accept membership for the Government of the United States in, and to appoint the United States delegates and their alternates to, the Pan American Railway Congress, the constitution and bylaws of which were approved in Montevideo, Uruguay, April 1946, and deposited in the archives of the Pan American Union in Washington.
 
 
-<a id="section-285d"></a>
-## § 285d. New Treaty Minute
+<a id="section-285g"></a>
+## § 285g. New Treaty Minute
 **(a) Congressional statement** In light of the existing threat to the environment and to public health and safety within the United States as a result of the river and ocean pollution in the San Diego-Tijuana border region, the Secretary is requested to give the highest priority to the negotiation and execution of a new Treaty Minute, or a modification of Treaty Minute 283, consistent with the provisions of sections 277d–43 to 277d–46 of this title, in order that the other provisions of sections 277d–43 to 277d–46 of this title to address such pollution may be implemented as soon as possible.
 
 **(b) Negotiation**
@@ -7213,8 +7578,54 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is
 Subsec. (c). Pub. L. 108–425, § 2(2), added subsec. (c).
 
 
-<a id="section-285dd"></a>
-## § 285dd. Omitted
+<a id="section-285gg"></a>
+## § 285gg. Authorization of appropriations
+
+There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
+
+**(a)** Such sums as may be necessary for the payment by the United States of its proportionate share of the expenses of the Pan American Railway Congress and its Permanent Commission; and
+
+**(b)** Such additional sums as may be needed for the payment of all necessary expenses incident to participation by the United States in the activities thereof, including expenses of the United States delegates, their alternates, and appropriate staff, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; personal services in the District of Columbia; services as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim); hire of passenger motor vehicles and other local transportation; printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); and such other expenses as the Secretary of State finds necessary to participation by the United States in the activities of the organization: Provided, That the provisions of [section 287r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287r), and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this subsection.
+
+### Statutory Notes
+
+#### References in Text
+Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
+
+#### Codification
+In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy-ninth Congress [[5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim)]”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+
+In subsec. (b), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim)),” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which enacted Title 44, Public Printing and Documents.
+
+In subsec. (b), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+1982—Subsec. (a). Pub. L. 97–241 substituted “Such sums as may be necessary” for “Not more than $15,000 annually”.
+
+1970—Subsec. (a). Pub. L. 91–553 increased annual authorization from $5,000 to $15,000.
+
+1949—Subsec. (b). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+
+#### Repeals
+Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
+
+#### Annual Appropriations
+Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
+
+
+<a id="section-285h"></a>
+## § 285h. Authorization of appropriations
+
+There is authorized to be appropriated such sums as may be necessary to carry out sections 277d–43 to 277d–46 of this title. Such sums shall remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+2004—Pub. L. 108–425 substituted “such sums as may be necessary” for “a total of $156,000,000 for fiscal years 2001 through 2005”.
+
+
+<a id="section-285hh"></a>
+## § 285hh. Omitted
 
 ### Statutory Notes
 
@@ -7228,27 +7639,8 @@ Section 281a, act Aug. 5, 1947, ch. 498, § 2, 61 Stat. 781, set forth the purpo
 Section 281b, acts Aug. 5, 1947, ch. 498, § 3, 61 Stat. 781; Sept. 3, 1949, ch. 532, § 1, 63 Stat. 685; Apr. 5, 1952, ch. 159, § 1, 66 Stat. 43; Aug. 26, 1954, ch. 937, title V, § 544(a), 68 Stat. 862; Aug. 14, 1957, Pub. L. 85–141, § 11(b)(1), 71 Stat. 365, provided that the Institute of Inter-American Affairs have succession until June 30, 1960, and set forth the powers and duties of the Institute.
 
 
-<a id="section-285e"></a>
-## § 285e. Authorization of appropriations
-
-There is authorized to be appropriated such sums as may be necessary to carry out sections 277d–43 to 277d–46 of this title. Such sums shall remain available until expended.
-
-### Statutory Notes
-
-#### Amendments
-2004—Pub. L. 108–425 substituted “such sums as may be necessary” for “a total of $156,000,000 for fiscal years 2001 through 2005”.
-
-
-<a id="section-285ee"></a>
-## § 285ee. Repealed. Aug. 26, 1954, ch. 937, title V, § 544(b), 68 Stat. 862
-
-### Statutory Notes
-
-Section, act Sept. 3, 1949, ch. 532, § 1, 63 Stat. 685, related to contract authorizations.
-
-
-<a id="section-285f"></a>
-## § 285f. Disposal of lands; issuance of licenses for use of lands; compensation for injured property
+<a id="section-285i"></a>
+## § 285i. Disposal of lands; issuance of licenses for use of lands; compensation for injured property
 
 The Secretary of State is authorized to lease any land heretofore or hereafter acquired under any Act, Executive order, or treaty in connection with projects, in whole or in part, constructed or administered by the Secretary of State through the said American Commissioner, or to dispose of such lands when no longer needed, subject to applicable regulations under chapters 1 to 11 of title 40 and division C (except sections 3302, 3306(f), 3307(e), 3501(b), 3509, 3906, 4104, 4710, and 4711) of subtitle I of title 41, by sale at public auction, after thirty days’ advertisement, at a price not less than that which may be fixed by three disinterested appraisers, to be designated by the Secretary of State, or by private sale, or otherwise, at not less than such appraised value: Provided, That any of such land as shall have been donated to the United States and which is no longer needed may be reconveyed, without cost, to the grantor or his heirs: Provided, further, That the lease or disposal of any land pursuant hereto may, in the discretion of the Secretary of State, be subject to reservations in favor of the United States for rights-of-way for irrigation, drainage, river work, and other purposes, and any such disposal may be conditioned upon and made subject to inclusion of such lands in any existing irrigation district in the vicinity of such lands, the proceeds of any such lease or sale to be covered into the Treasury of the United States: And provided further, That in the discretion of the Secretary of State, and subject to such conditions as he may deem appropriate, conveyances of any other of such lands not needed by the United States may be made to the State to which they lie adjacent or to any similarly situated county, city, or other governmental subdivision of such State, without cost, for use for public purposes.
 
@@ -7265,35 +7657,8 @@ In text, “chapters 1 to 11 of title 40 and division C (except sections 3302, 3
 1939—Act June 19, 1939, inserted last paragraph.
 
 
-<a id="section-285ff"></a>
-## § 285ff. Omitted
-
-### Statutory Notes
-
-#### Codification
-Sections 281b–2 to 281j of this title contained provisions relating to the Institute of Inter-American Affairs. The Institute was created pursuant to act Aug. 5, 1947, ch. 498, 61 Stat. 780. Section 3 of such act, as amended, provided that the Institute was to have succession until June 30, 1960. See Codification note set out under [section 281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section281&num=0&edition=prelim).
-
-Section 281b–2, acts Aug. 26, 1954, ch. 937, title V, § 544(a), 68 Stat. 862; Aug. 14, 1957, Pub. L. 85–141, § 11(b)(1), 71 Stat. 365, authorized the Institute of Inter-American Affairs to make contracts for periods not to exceed five years, with the proviso that any contract extending beyond June 30, 1960, be made subject to termination by the Institute upon notice, and provided that the Institute, on and after July 1, 1954, be subject to the applicable provisions of the Budget and Accounting Act, 1921, as amended, in lieu of the provisions of the Government Corporation Control Act, as amended [[31 U.S.C. 9101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim) et seq.].
-
-Section 281c, act Aug. 5, 1947, ch. 498, § 4, 61 Stat. 782, provided for transfer of assets to United States Treasury upon termination of corporate life of Institute of Inter-American Affairs.
-
-Section 281d, act Aug. 5, 1947, ch. 498, § 5, 61 Stat. 782, established a Board of Directors for Institute of Inter-American Affairs, and enumerated powers of Board.
-
-Section 281e, act Aug. 5, 1947, ch. 498, § 6, 61 Stat. 782, provided that Institute of Inter-American Affairs be a nonprofit corporation, have no capital stock, and that no part of its revenue, earnings, or other income or property inure to benefit of its directors, officers, and employees.
-
-Section 281f, act Aug. 5, 1947, ch. 498, § 7, 61 Stat. 782, authorized officers and employees of Institute of Inter-American Affairs to hold offices upon approval of Institute, with governments or governmental agencies of other American Republics.
-
-Section 281g, act Aug. 5, 1947, ch. 498, § 8, 61 Stat. 782, authorized Secretary of State to detail employees of Department of State to Institute of Inter-American Affairs.
-
-Section 281h, act Aug. 5, 1947, ch. 498, § 9, 61 Stat. 783, provided that principal office of Institute of Inter-American Affairs be located in District of Columbia, with branch offices any place in United States or other American Republics.
-
-Section 281i, act Aug. 5, 1947, ch. 498, § 10, 61 Stat. 783, exempted Institute of Inter-American Affairs from taxation by any Federal, State, or local taxing authority.
-
-Section 281j, act Aug. 5, 1947, ch. 498, § 11, 61 Stat. 783, reserved right to alter, amend or repeal provisions of sections 281 to 281b and 281c to 281l of this title, and set forth savings clause for such provisions.
-
-
-<a id="section-285g"></a>
-## § 285g. Valley Gravity Canal and Storage Project
+<a id="section-285j"></a>
+## § 285j. Valley Gravity Canal and Storage Project
 
 The Secretary of State, with the approval of the President, shall designate the features of the Valley Gravity Canal and Storage Project which he deems international in character, and shall direct such changes in the general project plan as he deems advisable with respect to such features; and the features so designated shall be built, after consultation with the Bureau of Reclamation as to general design, by the American section of the International Boundary Commission, United States and Mexico, and shall be operated and maintained by said Commission insofar as their operation and maintenance in such manner is, in the opinion of the Secretary of State, necessary because of their international character. The construction, operation, and maintenance of such project shall be pursuant to the Federal reclamation laws, except as hereinbefore provided and except that—
 
@@ -7307,16 +7672,8 @@ The Secretary of State, with the approval of the President, shall designate the 
 International Boundary Commission, United States and Mexico, American section, to which powers, duties, and functions of International Water Commission, United States and Mexico, American section, were transferred by act June 30, 1932, ch. 314, pt. II, title V, § 510, 47 Stat. 417, reconstituted as International Boundary and Water Commission by Water Treaty of 1944.
 
 
-<a id="section-285gg"></a>
-## § 285gg. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 654
-
-### Statutory Notes
-
-Section, act Aug. 5, 1947, ch. 498, § 12, 61 Stat. 783, provided for transfer of property to Institute of Inter-American Affairs.
-
-
-<a id="section-285h"></a>
-## § 285h. Agreements to correct pollution of Rio Grande
+<a id="section-285k"></a>
+## § 285k. Agreements to correct pollution of Rio Grande
 **(a) In general** The Secretary of State, acting through the United States Commissioner, International Boundary and Water Commission, United States and Mexico (hereafter in sections 277g to 277g–3 of this title referred to as the “Commissioner”), is authorized to conclude agreements with the appropriate representative of the Ministry of Foreign Relations of Mexico for the purpose of correcting the international problem of pollution of the Rio Grande caused by discharge of raw and inadequately treated sewage and other wastes into such river from the border cities including but not limited to Ciudad Acuna, Nuevo Laredo, and Reynosa, Mexico, and Del Rio, Laredo, and Hidalgo, Texas.
 
 **(b) Content of agreements** Agreements concluded under subsection (a) should consist of recommendations to the Governments of the United States and Mexico of measures to protect the health and welfare of persons along the Rio Grande from the effects of pollution, including—
@@ -7337,8 +7694,8 @@ Section, act Aug. 5, 1947, ch. 498, § 12, 61 Stat. 783, provided for transfer o
 Pub. L. 100–465, § 1, Oct. 3, 1988, 102 Stat. 2272, provided that: “This Act [enacting this section and sections 277g–1 to 277g–3 of this title] may be cited as the ‘Rio Grande Pollution Correction Act of 1987’.”
 
 
-<a id="section-285i"></a>
-## § 285i. Authority of Secretary of State to plan, construct, operate, and maintain facilities
+<a id="section-285l"></a>
+## § 285l. Authority of Secretary of State to plan, construct, operate, and maintain facilities
 
 The Secretary of State, acting through the Commissioner, is authorized to act jointly with the appropriate representative of the Government of Mexico and to—
 
@@ -7348,33 +7705,70 @@ The Secretary of State, acting through the Commissioner, is authorized to act jo
 the facilities recommended in agreements concluded pursuant to [section 277g of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277g) and approved by the Governments of the United States and Mexico.
 
 
-<a id="section-285j"></a>
-## § 285j. Consultation with Administrator of Environmental Protection Agency and other authorities
+<a id="section-285m"></a>
+## § 285m. Consultation with Administrator of Environmental Protection Agency and other authorities
 
 The Secretary of State shall consult with the Administrator of the Environmental Protection Agency and other concerned Federal, State, and local government officials in implementing sections 277g to 277g–3 of this title.
 
 
-<a id="section-285k"></a>
-## § 285k. Authorization of appropriations
+<a id="section-285n"></a>
+## § 285n. Authorization of appropriations
 
 There is authorized to be appropriated such sums as may be necessary for the United States to fund its share of the cost of the plans, construction, operation, and maintenance of the facilities recommended in agreements concluded pursuant to [section 277g of this title](./chapter-007-international-bureaus-congresses-etc.md#section-277g) and approved by the Governments of the United States and Mexico.
 
 
-<a id="section-285l"></a>
-## § 285l. Authority of the International Boundary and Water Commission to assist State and local governments
+<a id="section-285o"></a>
+## § 285o. Authority of the International Boundary and Water Commission to assist State and local governments
 **(a) Authority** The Commissioner of the United States section of the International Boundary and Water Commission may provide technical tests, evaluations, information, surveys, or others 11 So in original. Probably should be “other”. similar services to State or local governments upon the request of such State or local government on a reimbursable basis.
 
 **(b) Reimbursements** Reimbursements shall be paid in advance of the goods or services ordered and shall be for the estimated or actual cost as determined by the United States section of the International Boundary and Water Commission. Proper adjustment of amounts paid in advance shall be made as determined by the United States section of the International Boundary and Water Commission on the basis of the actual cost of goods or services provided. Reimbursements received by the United States section of the International Boundary and Water Commission for providing services under this section shall be credited to the appropriation from which the cost of providing the services is charged.
 
 
-<a id="section-285m"></a>
-## § 285m. Report on water sharing
+<a id="section-285p"></a>
+## § 285p. Report on water sharing
 
 Not later than 120 days after February 7, 2014, and annually thereafter, the Secretary of State shall submit to Congress a report on efforts by Mexico to meet its treaty deliveries of water to the Rio Grande in accordance with the Treaty between the United States and Mexico Respecting Utilization of waters of the Colorado and Tijuana Rivers and of the Rio Grande (done at Washington, February 3, 1944).
 
 
-<a id="section-285n"></a>
-## § 285n. Gorgas Memorial Laboratory; location; acceptance of funds from Latin American countries or other sources
+<a id="section-285q"></a>
+## § 285q. Management of international transboundary water pollution
+
+In fiscal year 2023 and in each fiscal year thereafter—
+
+**(a)** The Administrator of the Environmental Protection Agency (the “Administrator”) may transfer amounts made available under the heading “Environmental Protection Agency—State and Tribal Assistance Grants” in the USMCA Supplemental Appropriations Act, 2019 (title IX of Public Law 116–113) to the International Boundary and Water Commission, United States and Mexico (the “Commission”), by entering into an interagency agreement or by awarding a grant, to support the construction of treatment works (as that term is defined in [section 1292(2) of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1292/2&num=0&edition=prelim)), that will be owned or operated by the Commission: Provided, That the Commission shall, in consultation with the Administrator and subject to the requirements of sections 1372 and 1388 of title 33, use amounts transferred pursuant to this section for general, administrative, or other costs (including construction management) related to the planning, study, design, and construction, of treatment works that, as determined by the Commissioner of the Commission, will—
+
+(1) protect residents in the United States-Mexico border region from water pollution resulting from—
+
+  (A) transboundary flows of wastewater, stormwater, or other international transboundary water flows originating in Mexico; and
+
+  (B) any inadequacies or breakdowns of treatment works in Mexico; and
+
+(2) provide treatment of the flows and water pollution described in subparagraph (A) in compliance with local, State, and Federal law: Provided, That the Commission may also use amounts transferred pursuant to this section to operate and maintain any new treatment work constructed, which shall be in addition to any amounts otherwise available to the Commission for such purposes.
+
+**(b)** The Commission is authorized to enter into an agreement with the appropriate official or officials of the United States and Mexican States for the operation and maintenance by the Commission of any new treatment works, pursuant to subsection (a): Provided, That such agreement shall contain a provision relating to the division between the two Governments of the costs of such operation and maintenance, or of the works involved there as may be recommended by said Commission and approved by the Government of Mexico.
+
+**(c)** Nothing in this section modifies, amends, repeals, or otherwise limits the authority of the Commission under—
+
+(1) the treaty relating to the utilization of the waters of the Colorado and Tijuana Rivers, and of the Rio Grande (Rio Bravo) from Fort Quitman, Texas, to the Gulf of Mexico, and supplementary protocol, signed at Washington February 3, 1944 (59 Stat. 1219), between the United States and Mexico; or
+
+(2) any other applicable treaty.
+
+**(d)** Funds transferred pursuant to subsection (a) shall be subject to the regular notification procedures of the Committees on Appropriations.
+
+**(e)** Amounts repurposed pursuant to this section that were previously designated by the Congress as an emergency requirement pursuant to the Balanced Budget and Emergency Deficit Control Act of 1985 or a concurrent resolution on the budget are designated as an emergency requirement pursuant to section 4001(a)(1) of S. Con. Res. 14 (117th Congress), the concurrent resolution on the budget for fiscal year 2022, and section 1(e) of H. Res. 1151 (117th Congress), as engrossed in the House of Representatives on June 8, 2022.
+
+### Statutory Notes
+
+#### References in Text
+The USMCA Supplemental Appropriations Act, 2019, referred to in subsec. (a), is title IX of Pub. L. 116–113, Jan. 29, 2020, 134 Stat. 98, which is not classified to the Code. The heading “Environmental Protection Agency—State and Tribal Assistance Grants” appears at 134 Stat. 100.
+
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (e), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+
+Section 4001(a)(1) of S. Con. Res. 14 (117th Congress) and section 1(e) of H. Res. 1151 (117th Congress), referred to in subsec. (e), relate to emergency requirements for new budget authority in the Senate and House of Representatives and are not classified to the Code.
+
+
+<a id="section-285r"></a>
+## § 285r. Gorgas Memorial Laboratory; location; acceptance of funds from Latin American countries or other sources
 
 There is hereby authorized to be permanently appropriated for each year, out of any money in the Treasury not otherwise appropriated, the sum of not to exceed $2,000,000 to be paid to the Gorgas Memorial Institute of Tropical and Preventive Medicine, Incorporated (hereinafter referred to as the Gorgas Memorial Institute), for the maintenance and operation by its, of a laboratory to be known as the Gorgas Memorial Laboratory, upon condition (1) that the necessary building or quarters for said laboratory shall be constructed within the five years next ensuing after this subchapter shall become a law, either upon the site offered by the Republic of Panama therefor, at, or adjacent to, the city of Panama, or upon a site in the Canal Zone to be provided by the United States; and (2) that the said Gorgas Memorial Institute be, and it is, authorized within its discretion, henceforth to accept from any of the Latin American Governments, or from any other sources, any funds which may be offered or given for the use of the Gorgas Memorial Institute for the maintenance and operation of the Gorgas Memorial Laboratory, and for carrying on the work of said Laboratory wherever deemed by the said Institute to be necessary or desirable.
 
@@ -7460,8 +7854,8 @@ Jan. 25, 1929, ch. 102, title I, 45 Stat. 1094.
 Act May 7, 1928, ch. 505, § 4, as added by Pub. L. 86–296, § 2, Sept. 21, 1959, 73 Stat. 573, and amended Pub. L. 86–617, July 12, 1960, 74 Stat. 396, provided that a sum not to exceed $500,000 be appropriated for construction and equipment of facilities for Gorgas Memorial Laboratory, including preparation of plans and specifications, remodeling of buildings, and site improvement, but excluding the cost of acquisition of land.
 
 
-<a id="section-285o"></a>
-## § 285o. Annual report to Congress; examination of books and accounts
+<a id="section-285s"></a>
+## § 285s. Annual report to Congress; examination of books and accounts
 
 The Gorgas Memorial Institute shall make to Congress, on April 1 of each year, a full report of the operation and work of the Gorgas Memorial Laboratory during the fiscal year ending the preceding September 30, and shall include therewith a complete statement of the receipts and expenditures of said laboratory for such fiscal year. The books and accounts of the Gorgas Memorial Laboratory shall at all times be open to examination by the Comptroller General of the United States.
 
@@ -7474,8 +7868,8 @@ The Gorgas Memorial Institute shall make to Congress, on April 1 of each year, a
 For termination, effective May 15, 2000, of provisions in the first sentence of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 174 of House Document No. 103–7.
 
 
-<a id="section-285p"></a>
-## § 285p. Repealed. Pub. L. 95–426, title VII, § 701(b), Oct. 7, 1978, 92 Stat. 991
+<a id="section-285t"></a>
+## § 285t. Repealed. Pub. L. 95–426, title VII, § 701(b), Oct. 7, 1978, 92 Stat. 991
 
 ### Statutory Notes
 
@@ -7496,14 +7890,14 @@ Apr. 27, 1938, ch. 180, title I, 52 Stat. 253.
 June 16, 1937, ch. 359, title I, 50 Stat. 267.
 
 
-<a id="section-285q"></a>
-## § 285q. United States membership in the United Nations Food and Agriculture Organization
+<a id="section-285u"></a>
+## § 285u. United States membership in the United Nations Food and Agriculture Organization
 
 The President is hereby authorized to accept membership for the United States in the Food and Agriculture Organization of the United Nations (hereinafter referred to as the “Organization”) the Constitution of which is set forth in appendix I of the First Report to the Governments of the United Nations by the Interim Commission on Food and Agriculture, dated August 1, 1944.
 
 
-<a id="section-285r"></a>
-## § 285r. Authorization of appropriations for payment of United States expenses in Organization; limitation of contributions
+<a id="section-285v"></a>
+## § 285v. Authorization of appropriations for payment of United States expenses in Organization; limitation of contributions
 
 There is hereby authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, such sums as may be required for expenditure under the direction of the Secretary of State, for the payment by the United States of its proportionate share in the expenses of the Organization: Provided, That the percentage contribution of the United States to the total annual budget of the Organization shall not exceed 33.33 per centum.
 
@@ -7535,26 +7929,26 @@ Annual appropriations to meet the obligations of membership in various internati
 Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950, consent by State Department and reports to Congress, see [section 262a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262a).
 
 
-<a id="section-285s"></a>
-## § 285s. Integration of International Institute of Agriculture with Organization
+<a id="section-285w"></a>
+## § 285w. Integration of International Institute of Agriculture with Organization
 
 In adopting this subchapter, it is the sense of the Congress that the Government of the United States should use its best efforts to bring about, as soon as practicable, the integration of the functions and the resources of the International Institute of Agriculture with those of the Organization, in a legal and orderly manner, to effect one united institution in such form as to provide an adequate research, informational, and statistical service for the industry of agriculture.
 
 
-<a id="section-285t"></a>
-## § 285t. Congressional authority necessary for acceptance of new obligations in Organization
+<a id="section-285x"></a>
+## § 285x. Congressional authority necessary for acceptance of new obligations in Organization
 
 Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States accept any amendment under paragraph 1 of article XX of the Constitution of the Organization involving any new obligation for the United States.
 
 
-<a id="section-285u"></a>
-## § 285u. Limitation on power of Conference to impose new obligations on United States
+<a id="section-285y"></a>
+## § 285y. Limitation on power of Conference to impose new obligations on United States
 
 In adopting this subchapter the Congress does so with the understanding that paragraph 2 of article XIII does not authorize the Conference of the Organization to so modify the provisions of its Constitution as to involve any new obligation for the United States.
 
 
-<a id="section-285v"></a>
-## § 285v. Representation in South Pacific Commission; appointment of commissioners and alternates
+<a id="section-285z"></a>
+## § 285z. Representation in South Pacific Commission; appointment of commissioners and alternates
 
 The President is hereby authorized to accept membership for the United States in the South Pacific Commission, created by the Agreement Establishing the South Pacific Commission, signed on February 6, 1947, at Canberra, Australia, by delegates representing the Governments of Australia, the French Republic, the Kingdom of the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and to appoint the United States Commissioners, and their alternates, thereto.
 
@@ -7564,103 +7958,79 @@ The President is hereby authorized to accept membership for the United States in
 Act Jan. 28, 1948, ch. 38, 62 Stat. 15, provided that: “Whereas delegates representing the Governments of Australia, the French Republic, the Kingdom of the Netherlands, New Zealand, the United Kingdom of Great Britain and Northern Ireland, and the United States of America attended the South Seas Conference held at Canberra, Australia, and signed an ‘Agreement Establishing the South Pacific Commission’ on February 6, 1947; and “Whereas the purpose of the South Pacific Commission is to encourage and strengthen international cooperation in promoting the economic and social welfare and advancement of the non-self-governing territories in the South Pacific in accordance with the principles set forth in Chapter XI of the Charter of the United Nations, thereby contributing to the maintenance of international peace and security: Therefore be it”.
 
 
-<a id="section-285w"></a>
-## § 285w. Definitions
-
-When used in this subchapter—
-
-(1) the term “Secretary” means the Secretary of State;
-
-(2) the term “Government agency” means any department, independent establishment, or other agency of the Government of the United States, or any corporation wholly owned by the Government of the United States; and
-
-(3) the term “Commission” means the South Pacific Commission.
-
-
-<a id="section-285x"></a>
-## § 285x. Authorization of appropriations
-
-There is hereby authorized to be appropriated to the Department of State, out of any money in the Treasury not otherwise appropriated—
-
-**(a)** such 11 So in original. Probably should be capitalized. sums as may be required annually for the payment by the United States of its proportionate share of the expenses of the Commission and its auxiliary and subsidiary bodies, in accordance with article XIV of the agreement establishing the South Pacific Commission, as amended, except that in no event shall that payment for any fiscal year of the Commission exceed 20 per centum of all expenses apportioned among participating governments of the Commission for that year.
-
-**(b)** Such additional sums as may be needed for the payment of all necessary expenses incident to participation by the United States in the activities of the Commission, including salaries of the United States Commissioners, their alternates, and appropriate staff, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; personal services in the District of Columbia; services as authorized by [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim); under such rules and regulations as the Secretary of State may prescribe, allowances for living quarters, including heat, fuel, and light and cost-of-living allowances to persons temporarily stationed abroad; hire of passenger motor vehicles and other local transportation; printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); and such other expenses as the Secretary of State finds necessary to participation by the United States in the activities of the Commission: Provided, That the provisions of [section 287r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287r), and regulations thereunder, applicable to expenses incurred pursuant to subchapter XVII of this chapter shall be applicable to any expenses incurred pursuant to this paragraph.
+<a id="section-286"></a>
+## § 286. Repealed. Aug. 26, 1954, ch. 937, title V, § 544(b), 68 Stat. 862
 
 ### Statutory Notes
 
-#### References in Text
-Subchapter XVII [§ 287m et seq.] of this chapter, referred to in subsec. (b), was in the original a reference to the Act of July 30, 1946 (Public Law 565, Seventy-ninth Congress).
+Section, act Sept. 3, 1949, ch. 532, § 1, 63 Stat. 685, related to contract authorizations.
+
+
+<a id="section-286a"></a>
+## § 286a. Omitted
+
+### Statutory Notes
 
 #### Codification
-In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “the Classification Act of 1949” and “section 15 of Public Law 600, Seventy-ninth Congress [[5 U.S.C. 55a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim)]”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
+Sections 281b–2 to 281j of this title contained provisions relating to the Institute of Inter-American Affairs. The Institute was created pursuant to act Aug. 5, 1947, ch. 498, 61 Stat. 780. Section 3 of such act, as amended, provided that the Institute was to have succession until June 30, 1960. See Codification note set out under [section 281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section281&num=0&edition=prelim).
 
-In subsec. (b), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim))” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, 82 Stat. 1305, which Act enacted Title 44, Public Printing and Documents.
+Section 281b–2, acts Aug. 26, 1954, ch. 937, title V, § 544(a), 68 Stat. 862; Aug. 14, 1957, Pub. L. 85–141, § 11(b)(1), 71 Stat. 365, authorized the Institute of Inter-American Affairs to make contracts for periods not to exceed five years, with the proviso that any contract extending beyond June 30, 1960, be made subject to termination by the Institute upon notice, and provided that the Institute, on and after July 1, 1954, be subject to the applicable provisions of the Budget and Accounting Act, 1921, as amended, in lieu of the provisions of the Government Corporation Control Act, as amended [[31 U.S.C. 9101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim) et seq.].
 
-In subsec. (b), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes, as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+Section 281c, act Aug. 5, 1947, ch. 498, § 4, 61 Stat. 782, provided for transfer of assets to United States Treasury upon termination of corporate life of Institute of Inter-American Affairs.
 
-#### Amendments
-1972—Subsec. (a). Pub. L. 92–490 struck out “not to exceed $250,000 per fiscal year” after “annually” and inserted “except that in no event shall that payment for any fiscal year of the Commission exceed 20 per centum of all expenses apportioned among participating governments of the Commission for that year” after “as amended”.
+Section 281d, act Aug. 5, 1947, ch. 498, § 5, 61 Stat. 782, established a Board of Directors for Institute of Inter-American Affairs, and enumerated powers of Board.
 
-1970—Subsec. (a). Pub. L. 91–632 substituted “$250,000” for “$200,000”.
+Section 281e, act Aug. 5, 1947, ch. 498, § 6, 61 Stat. 782, provided that Institute of Inter-American Affairs be a nonprofit corporation, have no capital stock, and that no part of its revenue, earnings, or other income or property inure to benefit of its directors, officers, and employees.
 
-1965—Subsec. (a). Pub. L. 89–91 substituted “such sums as may be required annually, not to exceed $200,000 per fiscal year” for “Not more than $150,000 for the fiscal year 1965, and $150,000 for the fiscal year 1966”.
+Section 281f, act Aug. 5, 1947, ch. 498, § 7, 61 Stat. 782, authorized officers and employees of Institute of Inter-American Affairs to hold offices upon approval of Institute, with governments or governmental agencies of other American Republics.
 
-1964—Subsec. (a). Pub. L. 88–263 substituted “$150,000 for the fiscal year 1965, and $150,000 for the fiscal year 1966,” for “$100,000 annually”.
+Section 281g, act Aug. 5, 1947, ch. 498, § 8, 61 Stat. 782, authorized Secretary of State to detail employees of Department of State to Institute of Inter-American Affairs.
 
-1960—Subsec. (a). Pub. L. 86–472 substituted “$100,000” for “$75,000”.
+Section 281h, act Aug. 5, 1947, ch. 498, § 9, 61 Stat. 783, provided that principal office of Institute of Inter-American Affairs be located in District of Columbia, with branch offices any place in United States or other American Republics.
 
-1950—Subsec. (a). Joint Res. Sept. 21, 1950, substituted “$75,000” for “$20,000”.
+Section 281i, act Aug. 5, 1947, ch. 498, § 10, 61 Stat. 783, exempted Institute of Inter-American Affairs from taxation by any Federal, State, or local taxing authority.
 
-1949—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
-
-#### Repeals
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
-
-#### Annual Appropriations
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
-
-#### Limitation of Contributions
-Contributions by United States, except for special projects, limited to amount provided by Joint Res. Sept. 21, 1950; consent by State Department and reports to Congress, see [section 262a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262a).
+Section 281j, act Aug. 5, 1947, ch. 498, § 11, 61 Stat. 783, reserved right to alter, amend or repeal provisions of sections 281 to 281b and 281c to 281l of this title, and set forth savings clause for such provisions.
 
 
-<a id="section-285y"></a>
-## § 285y. Employment of personnel with specialized skills
+<a id="section-286aa"></a>
+## § 286aa. Focus on low-income areas of Latin America and Caribbean
 
-The Secretary is authorized, when the Commission is desirous of obtaining the services of a person having special scientific or other technical or professional qualifications, from time to time to detail, or authorize the detail of, for temporary service to or in cooperation with the Commission, any person in the employ or service of the Government of the United States who has such qualifications, with the approval of the Government agency in which such person is employed or serving, under the same conditions as those governing the detail of officers and employees of the United States Government to the government of another country in accordance with the provisions of the Act of May 25, 1938 (52 Stat. 442), as amended, except that the authority vested in the President under that Act shall be vested in the Secretary for the purpose of carrying out this section.
+The Secretary of the Treasury shall direct the United States Executive Director of the Bank to use the voice and vote of the United States to support an increased focus on the poorest countries in Latin America and the Caribbean, and on poorer areas of better off countries, and to support programs conducted by the Multilateral Investment Fund, particularly in targeting low-income countries and populations, working with nongovernmental organizations and training and assisting former combatants from civil conflicts in Latin America.
+
+
+<a id="section-286aaa"></a>
+## § 286aaa. Repealed. Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070
 
 ### Statutory Notes
 
-#### References in Text
-Act of May 25, 1938 (52 Stat. 442), as amended, referred to in text, is act May 25, 1938, ch. 277, 52 Stat. 442, as amended, which was classified to section 118e of former title 5, Executive Departments and Government Officers and Employees, and was repealed by act Jan. 26, 1948, ch. 36, § 1004(a), 62 Stat. 13. Section 1004(c) of act Jan. 26, 1948, provided that any reference to provisions of act May 25, 1938 shall be construed to be applicable to the appropriate provisions of titles III and IX of act Jan. 26, 1948 [see sections 1451 et seq., 1478 and 1479 of this title].
+Section, Pub. L. 86–565, § 15, as added Pub. L. 93–373, § 3, Aug. 14, 1974, 88 Stat. 445, set forth provisions relating to United States participation in loans by the International Development Association to any country developing any nuclear explosive device. See [section 262d of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262d).
+
+#### Effective Date of Repeal
+Repeal effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as an Effective Date note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
 
 
-<a id="section-285z"></a>
-## § 285z. Representation in Caribbean Commission; appointment of commissioners and alternates
-
-The President is hereby authorized to accept membership for the United States in the Caribbean Commission, created by “An agreement for the establishment of the Caribbean Commission,” signed in Washington on October 30, 1946, by representatives of the Governments of the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America, and to appoint the United States Commissioners, and their alternates, thereto.
+<a id="section-286b"></a>
+## § 286b. Repealed. Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 654
 
 ### Statutory Notes
 
-#### Purpose of Commission
-Act Mar. 4, 1948, ch. 97, 62 Stat. 65, provided that: “Whereas representatives of the Governments of the French Republic, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America signed ‘An Agreement for the establishment of the Caribbean Commission’ in Washington on October 30, 1946, which agreement continued and extended the international cooperative arrangements initiated in 1942 between the United Kingdom of Great Britain and Northern Ireland, and the United States; and “Whereas the purpose of the Caribbean Commission is to encourage and strengthen international cooperation in promoting the economic and social welfare and advancement of the non-self-governing territories in the Caribbean area, whose economic and social development is of vital interest to the security of the United States, in accordance with the principles set forth in chapter XI of the Charter of the United Nations: Therefore be it”.
-
-#### Acceptance of Caribbean Organization Agreement
-Pub. L. 87–73, June 30, 1961, 75 Stat. 194, provided: “That the President is hereby authorized to accept on behalf of the Government of the United States of America the ‘Agreement for the Establishment of the Caribbean Organization’ signed at Washington on June 21, 1960, by representatives of the Governments of the Republic of France, the Kingdom of the Netherlands, the United Kingdom of Great Britain and Northern Ireland, and the United States of America; that the participation of the Commonwealth of Puerto Rico and the Virgin Islands of the United States in the Caribbean Organization is hereby authorized; that the Caribbean Organization shall, upon promulgation by the President of an Executive order to this effect, be entitled to the privileges, exemptions, and immunities conferred by the International Organizations Immunities Act (59 Stat. 669; [22 U.S.C. 288](./chapter-007-international-bureaus-congresses-etc.md#section-288)); and that the Secretary of State is hereby authorized to appoint or designate a United States observer to the Caribbean Organization.”
-
-#### Termination of Caribbean Commission
-Article III of the Agreement of the Establishment of the Caribbean Organization provides that “On the termination of the Agreement for the establishment of the Caribbean Commission, signed at Washington on October 30, 1946, the assets of the Caribbean Commission shall be and are by virtue of this Agreement transferred to and vested in the Caribbean Organization. The Caribbean Organization is hereby authorized to assume at the same time the liabilities of the Caribbean Commission and shall be regarded as the successor body to the Caribbean Commission.”
-
-Article IV of such Agreement provides that “The Agreement for the establishment of the Caribbean Commission shall terminate at the end of the first meeting of the Caribbean Council provided for in the Statute annexed to this Agreement.”
-
-#### Ex. Ord. No. 10609. Delegation of Authority To Appoint Alternate Commissioners
-Ex. Ord. No. 10609, May 7, 1955, 20 F.R. 3147, provided:
-
-By virtue of the authority vested in me by [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim) of the United States Code (65 Stat. 713), and as President of the United States, it is ordered that the Secretary of State be, and he is hereby, designated and empowered to exercise, without the approval, ratification, or other action of the President, so much of the authority vested in the President by the first section of the Joint Resolution of March 4, 1948, entitled “Joint Resolution providing for membership and participation by the United States in the Caribbean Commission and authorizing an appropriation therefor” (62 Stat. 66; [22 U.S.C. 280h](./chapter-007-international-bureaus-congresses-etc.md#section-280h)) as consists of authority to appoint alternate United States Commissioners to the Caribbean Commission.
-
-Dwight D. Eisenhower.
+Section, act Aug. 5, 1947, ch. 498, § 12, 61 Stat. 783, provided for transfer of property to Institute of Inter-American Affairs.
 
 
-<a id="section-286"></a>
-## § 286. Omitted
+<a id="section-286bb"></a>
+## § 286bb. First replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund
+**(a) Contribution authority**
+
+(1) **In general** — The Secretary of the Treasury may contribute on behalf of the United States $150,000,000 to the first replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund.
+
+(2) **Subject to appropriations** — The authority provided by paragraph (1) may be exercised only to the extent and in the amounts provided for in advance in appropriations Acts.
+
+**(b) Limitations on authorization of appropriations** For the United States contribution authorized by subsection (a), there are authorized to be appropriated not more than $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
+
+
+<a id="section-286b-1-286b-2"></a>
+## § 286b–1, 286b–2. Omitted
 
 ### Statutory Notes
 
@@ -7668,8 +8038,8 @@ Dwight D. Eisenhower.
 Section, act Aug. 5, 1947, ch. 498, § 13, 61 Stat. 783, provided that Institute of Inter-American Affairs be subject to provisions of the Government Corporation Control Act. See Codification note set out under [section 281 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section281&num=0&edition=prelim).
 
 
-<a id="section-286a"></a>
-## § 286a. Acceptance of membership by United States in International Finance Corporation
+<a id="section-286c"></a>
+## § 286c. Acceptance of membership by United States in International Finance Corporation
 
 The President is hereby authorized to accept membership for the United States in the International Finance Corporation (hereinafter referred to as the “Corporation”), provided for by the Articles of Agreement of the Corporation deposited in the archives of the International Bank for Reconstruction and Development.
 
@@ -7679,8 +8049,37 @@ The President is hereby authorized to accept membership for the United States in
 Act Aug. 11, 1955, ch. 788, § 1, 69 Stat. 669, provided that: “This Act [enacting this subchapter] may be cited as the ‘International Finance Corporation Act’.”
 
 
-<a id="section-286aa"></a>
-## § 286aa. Ninth Capital Increase
+<a id="section-286cc"></a>
+## § 286cc. Authority to vote for and contribute to an increase in resources of the Fund for Special Operations; providing debt relief to Haiti
+**(a) Vote authorized** In accordance with [section 283c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283c), the United States Governor of the Bank is authorized to vote in favor of a resolution to increase the resources of the Fund for Special Operations up to $479,000,000, in furtherance of providing debt relief for Haiti in view of the Cancun Declaration of March 21, 2010, which provides that:
+
+(1) Haiti’s debts to the Fund for Special Operations are to be cancelled;
+
+(2) Haiti’s remaining local currency conversion obligations to the Fund for Special Operations are to be cancelled;
+
+(3) undisbursed balances of existing loans of the Fund for Special Operations to Haiti are to be converted to grants; and
+
+(4) the Fund for Special Operations is to make available significant and immediate grant financing to Haiti as well as appropriate resources to other countries remaining as borrowers within the Fund for Special Operations, consistent with paragraph 6 of the Cancun Declaration of March 21, 2010.
+
+**(b) Contribution authority** To the extent and in the amount provided in advance in appropriations Acts the United States Governor of the Bank may, on behalf of the United States and in accordance with [section 283c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283c), contribute up to $252,000,000 to the Fund for Special Operations, which will provide for debt relief of:
+
+(1) up to $240,000,000 to the Fund for Special Operations;
+
+(2) up to $8,000,000 to the International Fund For Agricultural Development (IFAD); and
+
+(3) up to $4,000,000 for the International Development Association (IDA).
+
+**(c) Authorization of appropriations** To pay for the contribution authorized under subsection (b), there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury $212,000,000, for the United States contribution to the Fund for Special Operations.
+
+
+<a id="section-286d"></a>
+## § 286d. Governor, executive director, and alternates of Corporation
+
+The governor and executive director of the International Bank for Reconstruction and Development, and the alternate for each of them, appointed under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a), shall serve as governor, director and alternates, respectively, of the Corporation.
+
+
+<a id="section-286dd"></a>
+## § 286dd. Ninth Capital Increase
 **(a) Vote authorized** The United States Governor of the Bank is authorized to vote in favor of a resolution to increase the capital stock of the Bank by $70,000,000,000 as described in Resolution AG–7/10, “Report on the Ninth General Capital Increase in the resources of the Inter-American Development Bank” as approved by Governors on July 21, 2010.
 
 **(b) Subscription authorized**
@@ -7700,28 +8099,8 @@ Act Aug. 11, 1955, ch. 788, § 1, 69 Stat. 669, provided that: “This Act [enac
   (B) $20,493,974,162 shall be for callable shares of the Bank.
 
 
-<a id="section-286b"></a>
-## § 286b. Governor, executive director, and alternates of Corporation
-
-The governor and executive director of the International Bank for Reconstruction and Development, and the alternate for each of them, appointed under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a), shall serve as governor, director and alternates, respectively, of the Corporation.
-
-
-<a id="section-286bb"></a>
-## § 286bb. Acceptance of membership
-
-The President is hereby authorized to accept membership for the United States in the Inter-American Investment Corporation (hereinafter in this subchapter referred to as the “Corporation”) provided for by the agreement establishing the Corporation (hereinafter in this subchapter referred to as the “agreement”) deposited in the archives of the Inter-American Development Bank.
-
-### Statutory Notes
-
-#### Codification
-Section is based on section 202 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
-
-#### Short Title
-Section 201 of title II of S. 2416, as introduced in the Senate Mar. 13, 1984, and as enacted into permanent law by Pub. L. 98–473, title I, § 101(1) [title I], Oct. 12, 1984, 98 Stat. 1885, provided that: “This title [enacting this subchapter and amending [section 276c–2 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276c-2) and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking] may be cited as the ‘Inter-American Investment Corporation Act’.”
-
-
-<a id="section-286b-1-286b-2"></a>
-## § 286b–1, 286b–2. Applicability of National Advisory Council on International Monetary and Financial Problems
+<a id="section-286e"></a>
+## § 286e. Applicability of National Advisory Council on International Monetary and Financial Problems
 
 The provisions of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b), shall apply with respect to the Corporation to the same extent as with respect to the International Bank for Reconstruction and Development.
 
@@ -7734,8 +8113,22 @@ The provisions of [section 286b of this title](./chapter-007-international-burea
 Functions of National Advisory Council on International Monetary and Financial Problems under this section delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b).
 
 
-<a id="section-286c"></a>
-## § 286c. Congressional authorization needed for certain actions
+<a id="section-286ee"></a>
+## § 286ee. Acceptance of membership
+
+The President is hereby authorized to accept membership for the United States in the Inter-American Investment Corporation (hereinafter in this subchapter referred to as the “Corporation”) provided for by the agreement establishing the Corporation (hereinafter in this subchapter referred to as the “agreement”) deposited in the archives of the Inter-American Development Bank.
+
+### Statutory Notes
+
+#### Codification
+Section is based on section 202 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
+
+#### Short Title
+Section 201 of title II of S. 2416, as introduced in the Senate Mar. 13, 1984, and as enacted into permanent law by Pub. L. 98–473, title I, § 101(1) [title I], Oct. 12, 1984, 98 Stat. 1885, provided that: “This title [enacting this subchapter and amending [section 276c–2 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-276c-2) and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking] may be cited as the ‘Inter-American Investment Corporation Act’.”
+
+
+<a id="section-286e-1"></a>
+## § 286e–1. Congressional authorization needed for certain actions
 
 Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States (a) subscribe to additional shares of stock under article II, section 3, of the Articles of Agreement of the Corporation; (b) accept any amendment under article VII of the Articles of Agreement of the Corporation; (c) make any loan to the Corporation. The United States Governor of the Corporation is authorized to agree to an amendment to article III of the articles of agreement of the Corporation to authorize the Corporation to make investments of its funds in capital stock and to limit the exercise of voting rights by the Corporation unless exercise of such rights is deemed necessary by the Corporation to protect its interests, as proposed in the resolution submitted by the Board of Directors on February 20, 1961. Unless Congress by law authorizes such action, no governor or alternate representing the United States shall vote for an increase of capital stock of the Corporation under article II, section 2(c)(ii), of the Articles of Agreement of the Corporation.
 
@@ -7745,39 +8138,57 @@ Unless Congress by law authorizes such action, neither the President nor any per
 1961—Pub. L. 87–185 authorized acceptance of an amendment to the articles of agreement of the Corporation to permit investment in capital stock and to limit the exercise of voting rights.
 
 
-<a id="section-286cc"></a>
-## § 286cc. Governor, Director, and alternates
+<a id="section-286e-10"></a>
+## § 286e–10. Increased United States participation in Bank activities
 
-The Governor and Executive Director of the Inter-American Development Bank, and the alternate for each of them, appointed under [section 283a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283a), shall serve as Governor, Director, and alternates, respectively, of the Corporation.
+The United States Governor of the Bank is hereby authorized (1) to vote (A) for the increases in the authorized capital stock of the Bank under article II, Section 2, of the agreement, and (B) for an increase in the resources of the Fund for Special Operations under article IV, section 3, of the agreement, all as recommended by the Executive Directors in a report dated March 18, 1963, to the Board of Governors of the Bank; (2) to agree on behalf of the United States to subscribe to its proportionate share of the $1,000,000,000 increase in the authorized callable capital stock of the Bank; and (3) to vote for an amendment to article VIII, section 3, of the agreement to provide that the Board of Governors may, upon certain conditions, increase by one the number of Executive Directors.
+
+
+<a id="section-286e-11"></a>
+## § 286e–11. Audit
+**(a) Establishment** The Secretary of the Treasury shall instruct the United States Executive Director to propose the establishment by the Board of Executive Directors of a program of selective but continuing independent and comprehensive audit of the Inter-American Development Bank, in accordance with such terms of reference as the Board of Executive Directors itself (or through a subcommittee), may prescribe. Such proposal shall provide that the audit reports be submitted to the Board of Executive Directors and to the Board of Governors.
+
+**(b) Scope and standards** The Secretary of the Treasury shall prepare the scope of the audit and the auditing and reporting standards for the use of the United States Executive Director in assisting in the formulation of the terms of reference.
+
+**(c) Reports** The reports of the National Advisory Council on International Monetary and Financial Policies to the Congress shall include, among other things, an appraisal of the effectiveness of the implementation and administration of the loans made by the Bank based upon the audit reports. The Comptroller General may review the reports of audit and findings issued and report to the Secretary of the Treasury and the Congress any suggestions he might have in improving the scope of the audit or auditing and reporting standards of the independent auditing firm, group, or staff.
+
+### Statutory Notes
+
+#### Amendments
+1996—Subsec. (b). Pub. L. 104–316 substituted “Secretary of the Treasury shall prepare” for “Comptroller General of the United States shall prepare for the Secretary of the Treasury”.
+
+Subsec. (c). Pub. L. 104–316 substituted “may review” for “shall periodically review” in second sentence.
+
+
+<a id="section-286e-12"></a>
+## § 286e–12. Authorization of appropriations
+**(a) Capital stock of Inter-American Development Bank** There is hereby authorized to be appropriated, without fiscal year limitation, for payment of the increased United States subscription to the capital stock of the Inter-American Development Bank, $411,760,000.
+
+**(b) Fund for Special Operations of the Inter-American Development Bank** There is hereby authorized to be appropriated, for payment of the increased United States subscription to the Fund for Special Operations of the Inter-American Development Bank, $50,000,000.
 
 ### Statutory Notes
 
 #### Codification
-Section is based on section 203 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
+Section was not enacted as part of Pub. L. 86–147, Aug. 7, 1959, 73 Stat. 299, known as the Inter-American Development Bank Act, which comprises this subchapter.
 
 
-<a id="section-286d"></a>
-## § 286d. Federal Reserve banks as depositories
+<a id="section-286e-13"></a>
+## § 286e–13. Increase in resources of the Fund for Special Operations
+**(a) Authorization of vote; payment to Fund** The United States Governor of the Bank is hereby authorized to vote in favor of the resolution entitled “Increase of Resources of the Fund for Special Operations” proposed by the Governors at their annual meeting in April 1964, and now pending before the Board of Governors of the Bank. Upon the adoption of such resolution, the United States Governor is authorized to agree, on behalf of the United States to pay to the Fund for Special Operations of the Bank, the sum of $750,000,000, in accordance with and subject to the terms and conditions of such resolution.
+
+**(b) Authorization of appropriations** There is hereby authorized to be appropriated without fiscal year limitation, for the United States share in the increase in the resources of the Fund for Special Operations of the Bank, the sum of $750,000,000.
+
+**(c) Loan disapproval by the United States** With respect to any dollars herein provided, the voting power of the United States shall be exercised for the purpose of disapproving any loan from the Fund for Special Operations of the Bank for any project, enterprise, or activity in any country, during any period for which the President has suspended assistance to the government of such country because of any action taken on or after January 1, 1962, by the government of such country or any government agency or subdivision within such country as specified in paragraph (A), (B), or (C) of subsection (e)(1) of [section 2370 of this title](./chapter-032-foreign-assistance.md#section-2370), and the failure of such country within a reasonable time to take appropriate steps to discharge its obligations or provide relief in accordance with provisions of such subsection.
+
+
+<a id="section-286e-1a"></a>
+## § 286e–1a. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Corporation shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 
-<a id="section-286dd"></a>
-## § 286dd. Applicability of Bretton Woods Agreements Act
-
-The provisions of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall apply with respect to the Corporation to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
-
-### Statutory Notes
-
-#### Codification
-Section is based on section 204 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
-
-#### Amendments
-1989—Pub. L. 101–240 struck out at end “Reports with respect to the Corporation under paragraphs (5) and (6) of subsection (b) of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall be included in the first and subsequent reports made thereunder after the United States accepts membership in the Corporation.”
-
-
-<a id="section-286e"></a>
-## § 286e. Payment of subscriptions to Corporation by United States; dividends covered into Treasury
+<a id="section-286e-1b"></a>
+## § 286e–1b. Payment of subscriptions to Corporation by United States; dividends covered into Treasury
 **(a) Authority of Secretary of the Treasury** The Secretary of the Treasury is authorized to pay the subscription of the United States to the Corporation and for this purpose is authorized to use as a public-debt transaction not to exceed $35,168,000 of the proceeds of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include such purpose. Payment under this subsection of the subscription of the United States to the Corporation and any repayment thereof shall be treated as public-debt transactions of the United States.
 
 **(b) Dividends treated as miscellaneous receipts** Any payment of dividends made to the United States by the Corporation shall be covered into the Treasury as a miscellaneous receipt.
@@ -7788,24 +8199,8 @@ Section is based on section 204 of title II of S. 2416, Ninety-eighth Congress, 
 In subsec. (a), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 
-<a id="section-286ee"></a>
-## § 286ee. Restrictions
-**(a)** 11 So in original. No subsec. (b) has been enacted. Unless authorized by law, neither the President nor any person or agency shall, on behalf of the United States—
-
-(1) subscribe to additional shares of stock of the Corporation;
-
-(2) vote for or agree to any amendment of the agreement which increases the obligations of the United States, or which changes the purpose or functions of the Corporation; or
-
-(3) make a loan or provide other financing to the Corporation.
-
-### Statutory Notes
-
-#### Codification
-Section is based on section 205 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
-
-
-<a id="section-286e-1"></a>
-## § 286e–1. Jurisdiction and venue of actions
+<a id="section-286e-1c"></a>
+## § 286e–1c. Jurisdiction and venue of actions
 
 For the purpose of any action which may be brought within the United States or its Territories or possessions by or against the Corporation in accordance with the Articles of Agreement of the Corporation, the Corporation shall be deemed to be an inhabitant of the Federal judicial district in which its principal office in the United States is located, and any such action at law or in equity to which the Corporation shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of any such action. When the Corporation is a defendant in any such action, it may, at any time before the trial thereof, remove such action from a State court into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
@@ -7815,52 +8210,20 @@ For the purpose of any action which may be brought within the United States or i
 One form of action, see rule 2, Title 28, Appendix, Judiciary and Judicial Procedure.
 
 
-<a id="section-286e-10"></a>
-## § 286e–10. Increase in resources of the Fund for Special Operations
-**(a) Authorization of vote; payment to Fund** The United States Governor of the Bank is hereby authorized to vote in favor of the resolution entitled “Increase of Resources of the Fund for Special Operations” proposed by the Governors at their annual meeting in April 1964, and now pending before the Board of Governors of the Bank. Upon the adoption of such resolution, the United States Governor is authorized to agree, on behalf of the United States to pay to the Fund for Special Operations of the Bank, the sum of $750,000,000, in accordance with and subject to the terms and conditions of such resolution.
-
-**(b) Authorization of appropriations** There is hereby authorized to be appropriated without fiscal year limitation, for the United States share in the increase in the resources of the Fund for Special Operations of the Bank, the sum of $750,000,000.
-
-**(c) Loan disapproval by the United States** With respect to any dollars herein provided, the voting power of the United States shall be exercised for the purpose of disapproving any loan from the Fund for Special Operations of the Bank for any project, enterprise, or activity in any country, during any period for which the President has suspended assistance to the government of such country because of any action taken on or after January 1, 1962, by the government of such country or any government agency or subdivision within such country as specified in paragraph (A), (B), or (C) of subsection (e)(1) of [section 2370 of this title](./chapter-032-foreign-assistance.md#section-2370), and the failure of such country within a reasonable time to take appropriate steps to discharge its obligations or provide relief in accordance with provisions of such subsection.
-
-
-<a id="section-286e-11"></a>
-## § 286e–11. Additional increases in resources of the Fund for Special Operations
-**(a) Authorization of vote; payment to Fund** The United States Governor of the Bank is hereby authorized to vote in favor of the resolution entitled “Increase of $1,200,000,000 in Resources of Fund for Special Operations” proposed by the Governors at their annual meeting in April 1967 and now pending before the Board of Governors of the Bank. Upon the adoption of such resolution, the United States Governor is authorized to agree, on behalf of the United States, to pay to the Fund for Special Operations of the Bank, the sum of $900,000,000, in accordance with and subject to the terms and conditions of such resolution, and subject to the further condition that in consideration of the United States balance-of-payments deficit any local cost financing, by project or otherwise, with the funds authorized under this section to be held to the minimum possible level. The United States Governor is also authorized to vote in favor of the amendment to Annex C of the agreement, now pending before the Board of Governors of the Bank, to modify the procedure employed in the election of Executive Directors.
-
-**(b) Authorization of appropriations** There is hereby authorized to be appropriated without fiscal year limitation, for the United States share in the increase in the resources of the Fund for Special Operations of the Bank, the sum of $900,000,000.
-
-**(c) Loan disapproval by the United States** The voting power of the United States shall be exercised for the purpose of disapproving any loan which might assist the recipient country directly or indirectly to acquire sophisticated or heavy military equipment.
-
-
-<a id="section-286e-12"></a>
-## § 286e–12. Increase in authorized capital stock; United States share; authorization of appropriations
-**(a)** The United States Governor of the Bank is hereby authorized (1) to vote for an increase in the authorized capital stock of the Bank under article II, section 2, of the agreement as recommended by the Board of Executive Directors in its report of April 1967, to the Board of Governors of the Bank; and (2) to agree on behalf of the United States to subscribe to its proportionate share of the $1,000,000,000 increase in the authorized callable capital stock of the bank.
-
-**(b)** There is hereby authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the increased United States subscription to the capital stock of the Inter-American Development Bank, $411,760,000.
-
-
-<a id="section-286e-13"></a>
-## § 286e–13. Increase in authorized capital stock and additional subscriptions of members thereto; increase in resources of Fund for Special Operations and contributions thereto; United States share; authorization of appropriations
-**(a)** The United States Governor of the Bank is hereby authorized to vote in favor of the two resolutions proposed by the Governors at their annual meeting in April 1970 and now pending before the Board of Governors of the Bank, which provide for (1) an increase in the authorized capital stock to the Bank and additional subscriptions of members thereto and (2) an increase in the resources of the Fund for Special Operations and contributions thereto. Upon adoption of such resolutions the United States Governor is authorized to agree on behalf of the United States (1) to subscribe to eighty-two thousand three hundred and fifty-two shares of $10,000 par value of the increase in the authorized capital stock of the Bank of which sixty-seven thousand three hundred and fifty-two shall be callable shares and fifteen thousand shall be paid in and (2) to pay to the Fund for Special Operations an initial annual installment of $100,000,000 and, upon further authorization by the Congress two subsequent annual installments of $450,000,000 each, in accordance with and subject to the terms and conditions of such resolutions.
-
-**(b)** There are hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of (1) three annual installments of $50,000,000 each for the United States subscription to paid-in capital stock of the Bank; (2) two installments of $336,760,000 each for the United States subscription to the callable capital stock of the Bank; and (3) one installment of $100,000,000 for the United States share of the increase in the resources of the Fund for Special Operations of the Bank.
-
-
-<a id="section-286e-1a"></a>
-## § 286e–1a. Status, privileges, and immunities of the United States
+<a id="section-286e-1d"></a>
+## § 286e–1d. Status, privileges, and immunities of the United States
 
 The provisions of article V, section 5(d), and article VI, sections 2 to 9, both inclusive, of the Articles of Agreement of the Corporation shall have full force and effect in the United States and its Territories and possessions upon acceptance of membership by the United States in, and the establishment of, the Corporation.
 
 
-<a id="section-286e-1b"></a>
-## § 286e–1b. Loans to or from International Bank for Reconstruction and Development; amendment to Articles of Agreement
+<a id="section-286e-1e"></a>
+## § 286e–1e. Loans to or from International Bank for Reconstruction and Development; amendment to Articles of Agreement
 
 The United States Governor of the Corporation is authorized to agree to the amendments of the articles of agreement of the Corporation to remove the prohibition therein contained against the Corporation lending to or borrowing from the International Bank for Reconstruction and Development, and to place limitations on such borrowing.
 
 
-<a id="section-286e-1c"></a>
-## § 286e–1c. Increase in capital stock of Corporation; subscription to additional shares
+<a id="section-286e-1f"></a>
+## § 286e–1f. Increase in capital stock of Corporation; subscription to additional shares
 **(a)** The United States Governor of the Corporation is authorized—
 
 (1) to vote for an increase of five hundred and forty thousand shares in the authorized capital stock of the Corporation; and
@@ -7875,8 +8238,8 @@ The United States Governor of the Corporation is authorized to agree to the amen
 Pub. L. 95–118, title X, § 1001, Oct. 3, 1977, 91 Stat. 1072, provided that: “This Act [enacting this section and sections 262c, 262d, 262e to 262g, 284n, 285s, 285t, 286e–1f, and 290g–10 of this title, repealing sections 283y, 284m, 290g–9 of this title, and enacting provisions set out as a note under [section 262c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262c)] shall take effect on the date of its enactment [Oct. 3, 1977], except that no funds authorized to be appropriated by any amendment contained in title II, III, IV, V, or VI [enacting this section and sections 286e–1f, 284n, 285s, 285t, or 290g–10 of this title] may be available for use or obligation prior to October 1, 1977”.
 
 
-<a id="section-286e-1d"></a>
-## § 286e–1d. Increase in capital stock of Corporation; subscription to additional shares
+<a id="section-286e-1g"></a>
+## § 286e–1g. Increase in capital stock of Corporation; subscription to additional shares
 **(a)** The United States Governor of the Corporation is authorized—
 
 (1) to vote for an increase of 650,000 shares in the authorized capital stock of the Corporation; and
@@ -7891,15 +8254,15 @@ Pub. L. 95–118, title X, § 1001, Oct. 3, 1977, 91 Stat. 1072, provided that: 
 Section 12 of act Aug. 11, 1955, is based on section 3 of H.R. 1948, Ninety-ninth Congress, as introduced Apr. 3, 1985, and enacted into law by Pub. L. 99–190.
 
 
-<a id="section-286e-1e"></a>
-## § 286e–1e. Securities issued by Corporation
+<a id="section-286e-1h"></a>
+## § 286e–1h. Securities issued by Corporation
 **(a) Exemption from securities laws; reports to Securities and Exchange Commission** Any securities issued by the Corporation (including any guaranty by the Corporation, whether or not limited in scope) and any securities guaranteed by the Corporation as to both principal and interest shall be deemed to be exempted securities within the meaning of [section 77c(a)(2) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a/2&num=0&edition=prelim) and [section 78c(a)(12) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/12&num=0&edition=prelim). The Corporation shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Corporation and its operations and necessary in the public interest or for the protection of investors.
 
 **(b) Authority of Securities and Exchange Commission to suspend exemption; reports to Congress** The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Corporation during the period of such suspension. The Commission shall include in its annual reports to the Congress such information as it shall deem advisable with regard to the operations and effect of this section.
 
 
-<a id="section-286e-1f"></a>
-## § 286e–1f. Capital stock increase
+<a id="section-286e-1i"></a>
+## § 286e–1i. Capital stock increase
 **(a) Subscription authorized**
 
 (1) **In general** — The United States Governor of the Corporation may—
@@ -7913,14 +8276,14 @@ Section 12 of act Aug. 11, 1955, is based on section 3 of H.R. 1948, Ninety-nint
 **(b) Limitations on authorization of appropriations** In order to pay for the subscription authorized in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $50,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-286e-1g"></a>
-## § 286e–1g. Authority to vote for capital increases necessary to support economic restructuring in independent states of former Soviet Union
+<a id="section-286e-1j"></a>
+## § 286e–1j. Authority to vote for capital increases necessary to support economic restructuring in independent states of former Soviet Union
 
 The United States Governor of the Corporation may vote in favor of any increase in the capital stock of the Corporation that may be needed to accommodate the requirements of the independent states of the former Soviet Union (as defined in [section 5801 of this title](./chapter-067-freedom-for-russia-and-emerging-eurasian-democracies-and-open-markets-support.md#section-5801)).
 
 
-<a id="section-286e-1h"></a>
-## § 286e–1h. Authority to agree to amendments to Articles of Agreement
+<a id="section-286e-1k"></a>
+## § 286e–1k. Authority to agree to amendments to Articles of Agreement
 
 The United States Governor of the Corporation is authorized to agree to amendments to the Articles of Agreement of the Corporation that would—
 
@@ -7929,15 +8292,15 @@ The United States Governor of the Corporation is authorized to agree to amendmen
 (2) amend Article VII(a) to increase the vote by which the Board of Governors of the Corporation may amend the Articles of Agreement of the Corporation from a four-fifths majority to an eighty-five percent majority.
 
 
-<a id="section-286e-1i"></a>
-## § 286e–1i. Selective capital increase and amendment of the Articles of Agreement
+<a id="section-286e-1l"></a>
+## § 286e–1l. Selective capital increase and amendment of the Articles of Agreement
 **(a) Vote authorized** The United States Governor of the Corporation is authorized to vote in favor of a resolution to increase the capital stock of the Corporation by $130,000,000.
 
 **(b) Amendment of the Articles of Agreement** The United States Governor of the Corporation is authorized to agree to and accept an amendment to Article IV, Section 3(a) of the Articles of Agreement of the Corporation that achieves an increase in basic votes to 5.55 percent of total votes.
 
 
-<a id="section-286e-1j"></a>
-## § 286e–1j. Capital increases and amendment to the Articles of Agreement
+<a id="section-286e-1m"></a>
+## § 286e–1m. Capital increases and amendment to the Articles of Agreement
 **(a) Votes authorized** The United States Governor of the Corporation is authorized to vote in favor of—
 
 (1) a resolution to increase the authorized capital stock of the Corporation by 16,999,998 shares, to implement the conversion of a portion of the retained earnings of the Corporation into paid-in capital, which will result in the United States being issued an additional 3,771,899 shares of capital stock, without any cash contribution;
@@ -7956,8 +8319,8 @@ Pub. L. 116–136, div. B, title XI, § 21012(a), Mar. 27, 2020, 134 Stat. 593, 
 [For definition of “coronavirus” as used in section 21012(a) of Pub. L. 116–136, set out above, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section162b&num=0&edition=prelim), The Congress.]
 
 
-<a id="section-286e-1k"></a>
-## § 286e–1k. Acceptance of membership by United States in Inter-American Development Bank
+<a id="section-286e-2"></a>
+## § 286e–2. Acceptance of membership by United States in Inter-American Development Bank
 
 The President is hereby authorized to accept membership for the United States in the Inter-American Development Bank (hereinafter referred to as the “Bank”), provided for by the agreement establishing the bank (hereinafter referred to as the “agreement”) deposited in the archives of the Organization of American States.
 
@@ -7973,8 +8336,8 @@ Pub. L. 96–259, title I, § 102, June 3, 1980, 94 Stat. 430, which required Pr
 For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the Inter-American Development Bank’s holdings of United States dollars following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriations necessary to provide such maintenance of value, see [section 5152 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5152&num=0&edition=prelim), Money and Finance.
 
 
-<a id="section-286e-1l"></a>
-## § 286e–1l. Appointment of officers; term of office; salary
+<a id="section-286e-3"></a>
+## § 286e–3. Appointment of officers; term of office; salary
 **(a) Governor and alternate governor** The President, by and with the advice and consent of the Senate, shall appoint a governor of the Bank and an alternate for the governor. The term of office for the governor and the alternate governor shall be five years, but each shall remain in office until a successor has been appointed.
 
 **(b) Executive director and alternate executive director** The President, by and with the advice and consent of the Senate, shall appoint an executive director of the Bank and an alternate Executive Director. Except as provided for in article XV, section 3, of the agreement, the term of office for the executive director shall be three years, but he shall remain in office until a successor has been appointed.
@@ -7987,8 +8350,8 @@ For Congressional direction that the Secretary of the Treasury maintain the valu
 1970—Subsec. (b). Pub. L. 91–599 authorized appointment of an alternate Executive Director.
 
 
-<a id="section-286e-1m"></a>
-## § 286e–1m. National Advisory Council on International Monetary and Financial Problems
+<a id="section-286e-4"></a>
+## § 286e–4. National Advisory Council on International Monetary and Financial Problems
 
 The provisions of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall apply with respect to the Bank to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
@@ -8001,8 +8364,8 @@ The provisions of [section 286b of this title](./chapter-007-international-burea
 Functions of National Advisory Council on International Monetary and Financial Problems under this section delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b).
 
 
-<a id="section-286e-2"></a>
-## § 286e–2. Congressional authorization needed for certain actions
+<a id="section-286e-5"></a>
+## § 286e–5. Congressional authorization needed for certain actions
 
 Unless Congress by law authorizes such action, neither the President nor any person or agency shall, on behalf of the United States, (a) subscribe to additional shares of stock under article II, section 3, or article IIA, section 2, of the agreement; (b) request or consent to any change in the quota of the United States under article IV, section 3, of the agreement; (c) accept any amendment under article XII of the agreement; or (d) make a loan or provide other financing to the Bank, except that loans or other financing may be provided to the Bank by a United States agency created pursuant to an Act of Congress which is authorized by law to make loans or provide other financing to international organizations. Unless Congress by law authorizes such actions, no governor or alternate appointed to represent the United States shall vote for any increase of capital stock of the Bank under article II, section 2, or article IIA, section 1, of the agreement or any increase in the resources of the Fund for Special Operations under article IV, section 3(g) thereof.
 
@@ -8015,14 +8378,14 @@ Unless Congress by law authorizes such action, neither the President nor any per
 Pub. L. 94–302, title I, § 103(b), May 31, 1976, 90 Stat. 593, provided that: “The amendments made by paragraphs (2) and (3) of this section [amending this section and [section 283h of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283h)] shall become effective upon approval by the Board of Governors of the Bank of the resolutions referred to in section 23 of the Inter-American Development Bank Act ([22 U.S.C. 283](./chapter-007-international-bureaus-congresses-etc.md#section-283) et seq.).”
 
 
-<a id="section-286e-3"></a>
-## § 286e–3. Federal Reserve banks as depositories
+<a id="section-286e-5a"></a>
+## § 286e–5a. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Bank shall act as its depository or as its fiscal agent and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 
-<a id="section-286e-4"></a>
-## § 286e–4. Payment of subscription to Bank and Fund by United States
+<a id="section-286e-5b"></a>
+## § 286e–5b. Payment of subscription to Bank and Fund by United States
 **(a) Authorization of appropriations** There is hereby authorized to be appropriated, without fiscal year limitation, for the purchase of thirty-five thousand shares of capital stock in the Bank, $350 million. In addition, there is authorized to be appropriated, without fiscal year limitation, for payment of the subscription of the United States to the Fund for Special Operations, $100 million.
 
 **(b) Issuance of special notes** For the purpose of keeping to a minimum the cost to the United States of participation in the Bank, the Secretary of the Treasury, after paying the requisite part of the subscription and quota of the United States in the Bank required to be made under article II, section 4, and article IV, section 3, respectively, of the agreement, is authorized and directed to issue special notes of the United States from time to time, at par, and to deliver such notes to the Bank in exchange for dollars to the extent permitted by the agreement. The special notes provided for in this subsection shall be issued under the authority and subject to the provisions of chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include the purposes for which special notes are authorized and directed to be issued under this subsection, but such notes shall bear no interest, shall be nonnegotiable, and shall be payable on demand of the Bank. The face amount of special notes issued to the Bank under the authority of this subsection and outstanding at any one time shall not exceed, in the aggregate, the amount of the subscription and quota of the United States actually paid to the Bank under article II, section 4, and article IV, section 3, respectively, of the agreement.
@@ -8035,20 +8398,20 @@ Any Federal Reserve bank which is requested to do so by the Bank shall act as it
 In subsec. (b), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 
-<a id="section-286e-5"></a>
-## § 286e–5. Jurisdiction and venue of actions
+<a id="section-286e-6"></a>
+## § 286e–6. Jurisdiction and venue of actions
 
 For the purpose of any action which may be brought within the United States, its Territories or possessions, or the Commonwealth of Puerto Rico by or against the Bank in accordance with the agreement, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office in the United States is located, and any such action at law or in equity to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of any such action. When the Bank is a defendant in any such action, it may, at any time before the trial thereof, remove such action from a State court into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
 
-<a id="section-286e-5a"></a>
-## § 286e–5a. Status, privileges, and immunities of the United States
+<a id="section-286e-7"></a>
+## § 286e–7. Status, privileges, and immunities of the United States
 
 The provisions of article X, section 4(c), and article XI, sections 2 to 9, both inclusive, of the agreement shall have full force and effect in the United States, its Territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in, and the establishment of, the Bank.
 
 
-<a id="section-286e-5b"></a>
-## § 286e–5b. Securities issued by Bank; reports to and of Securities and Exchange Commission
+<a id="section-286e-8"></a>
+## § 286e–8. Securities issued by Bank; reports to and of Securities and Exchange Commission
 **(a) Exempt securities; reports of Bank to Commission** Any securities issued by the Bank (including any guarantee by the Bank, whether or not limited in scope) in connection with raising of funds for including in the Bank’s capital resources as defined in article II, section 5, and article IIA, section 4, of the agreement, and any securities guaranteed by the Bank as to both principal and interest to which the commitment in article II, section 4(a)(ii), or article IIA, section 3(c), of the agreement is expressly applicable, shall be deemed to be exempted securities within the meaning of subsection (a)(2) of [section 77c of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c&num=0&edition=prelim) and subsection (a)(12) of [section 78c of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim). The Bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Bank and its operations and necessary in the Public interest or for the protection of investors.
 
 **(b) Suspension of exemption provisions; annual reports of Commission to Congress** The Securities and Exchange Commission, acting in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
@@ -8065,57 +8428,87 @@ For effective date of amendment by Pub. L. 94–302, see section 103(b) of Pub. 
 Functions of National Advisory Council on International Monetary and Financial Problems delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b).
 
 
-<a id="section-286e-6"></a>
-## § 286e–6. Repealed. Pub. L. 101–240, title V, § 541(d)(3), Dec. 19, 1989, 103 Stat. 2518
+<a id="section-286e-9"></a>
+## § 286e–9. Repealed. Pub. L. 101–240, title V, § 541(d)(3), Dec. 19, 1989, 103 Stat. 2518
 
 ### Statutory Notes
 
 Section, Pub. L. 86–147, § 12, Aug. 7, 1959, 73 Stat. 301, related to reports on effectiveness of [section 283h of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283h) and [section 24 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim), Banks and Banking, on development of economic resources in member countries.
 
 
-<a id="section-286e-7"></a>
-## § 286e–7. Increased United States participation in Bank activities
+<a id="section-286f"></a>
+## § 286f. Additional increases in resources of the Fund for Special Operations
+**(a) Authorization of vote; payment to Fund** The United States Governor of the Bank is hereby authorized to vote in favor of the resolution entitled “Increase of $1,200,000,000 in Resources of Fund for Special Operations” proposed by the Governors at their annual meeting in April 1967 and now pending before the Board of Governors of the Bank. Upon the adoption of such resolution, the United States Governor is authorized to agree, on behalf of the United States, to pay to the Fund for Special Operations of the Bank, the sum of $900,000,000, in accordance with and subject to the terms and conditions of such resolution, and subject to the further condition that in consideration of the United States balance-of-payments deficit any local cost financing, by project or otherwise, with the funds authorized under this section to be held to the minimum possible level. The United States Governor is also authorized to vote in favor of the amendment to Annex C of the agreement, now pending before the Board of Governors of the Bank, to modify the procedure employed in the election of Executive Directors.
 
-The United States Governor of the Bank is hereby authorized (1) to vote (A) for the increases in the authorized capital stock of the Bank under article II, Section 2, of the agreement, and (B) for an increase in the resources of the Fund for Special Operations under article IV, section 3, of the agreement, all as recommended by the Executive Directors in a report dated March 18, 1963, to the Board of Governors of the Bank; (2) to agree on behalf of the United States to subscribe to its proportionate share of the $1,000,000,000 increase in the authorized callable capital stock of the Bank; and (3) to vote for an amendment to article VIII, section 3, of the agreement to provide that the Board of Governors may, upon certain conditions, increase by one the number of Executive Directors.
+**(b) Authorization of appropriations** There is hereby authorized to be appropriated without fiscal year limitation, for the United States share in the increase in the resources of the Fund for Special Operations of the Bank, the sum of $900,000,000.
 
-
-<a id="section-286e-8"></a>
-## § 286e–8. Audit
-**(a) Establishment** The Secretary of the Treasury shall instruct the United States Executive Director to propose the establishment by the Board of Executive Directors of a program of selective but continuing independent and comprehensive audit of the Inter-American Development Bank, in accordance with such terms of reference as the Board of Executive Directors itself (or through a subcommittee), may prescribe. Such proposal shall provide that the audit reports be submitted to the Board of Executive Directors and to the Board of Governors.
-
-**(b) Scope and standards** The Secretary of the Treasury shall prepare the scope of the audit and the auditing and reporting standards for the use of the United States Executive Director in assisting in the formulation of the terms of reference.
-
-**(c) Reports** The reports of the National Advisory Council on International Monetary and Financial Policies to the Congress shall include, among other things, an appraisal of the effectiveness of the implementation and administration of the loans made by the Bank based upon the audit reports. The Comptroller General may review the reports of audit and findings issued and report to the Secretary of the Treasury and the Congress any suggestions he might have in improving the scope of the audit or auditing and reporting standards of the independent auditing firm, group, or staff.
-
-### Statutory Notes
-
-#### Amendments
-1996—Subsec. (b). Pub. L. 104–316 substituted “Secretary of the Treasury shall prepare” for “Comptroller General of the United States shall prepare for the Secretary of the Treasury”.
-
-Subsec. (c). Pub. L. 104–316 substituted “may review” for “shall periodically review” in second sentence.
+**(c) Loan disapproval by the United States** The voting power of the United States shall be exercised for the purpose of disapproving any loan which might assist the recipient country directly or indirectly to acquire sophisticated or heavy military equipment.
 
 
-<a id="section-286e-9"></a>
-## § 286e–9. Authorization of appropriations
-**(a) Capital stock of Inter-American Development Bank** There is hereby authorized to be appropriated, without fiscal year limitation, for payment of the increased United States subscription to the capital stock of the Inter-American Development Bank, $411,760,000.
+<a id="section-286ff"></a>
+## § 286ff. Governor, Director, and alternates
 
-**(b) Fund for Special Operations of the Inter-American Development Bank** There is hereby authorized to be appropriated, for payment of the increased United States subscription to the Fund for Special Operations of the Inter-American Development Bank, $50,000,000.
+The Governor and Executive Director of the Inter-American Development Bank, and the alternate for each of them, appointed under [section 283a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283a), shall serve as Governor, Director, and alternates, respectively, of the Corporation.
 
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as part of Pub. L. 86–147, Aug. 7, 1959, 73 Stat. 299, known as the Inter-American Development Bank Act, which comprises this subchapter.
+Section is based on section 203 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
 
 
-<a id="section-286f"></a>
-## § 286f. Authorization for payment of United States contribution to increase Fund for Special Operations; authorization of appropriations
+<a id="section-286g"></a>
+## § 286g. Increase in authorized capital stock; United States share; authorization of appropriations
+**(a)** The United States Governor of the Bank is hereby authorized (1) to vote for an increase in the authorized capital stock of the Bank under article II, section 2, of the agreement as recommended by the Board of Executive Directors in its report of April 1967, to the Board of Governors of the Bank; and (2) to agree on behalf of the United States to subscribe to its proportionate share of the $1,000,000,000 increase in the authorized callable capital stock of the bank.
+
+**(b)** There is hereby authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the increased United States subscription to the capital stock of the Inter-American Development Bank, $411,760,000.
+
+
+<a id="section-286gg"></a>
+## § 286gg. Applicability of Bretton Woods Agreements Act
+
+The provisions of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall apply with respect to the Corporation to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
+
+### Statutory Notes
+
+#### Codification
+Section is based on section 204 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
+
+#### Amendments
+1989—Pub. L. 101–240 struck out at end “Reports with respect to the Corporation under paragraphs (5) and (6) of subsection (b) of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b) shall be included in the first and subsequent reports made thereunder after the United States accepts membership in the Corporation.”
+
+
+<a id="section-286h"></a>
+## § 286h. Increase in authorized capital stock and additional subscriptions of members thereto; increase in resources of Fund for Special Operations and contributions thereto; United States share; authorization of appropriations
+**(a)** The United States Governor of the Bank is hereby authorized to vote in favor of the two resolutions proposed by the Governors at their annual meeting in April 1970 and now pending before the Board of Governors of the Bank, which provide for (1) an increase in the authorized capital stock to the Bank and additional subscriptions of members thereto and (2) an increase in the resources of the Fund for Special Operations and contributions thereto. Upon adoption of such resolutions the United States Governor is authorized to agree on behalf of the United States (1) to subscribe to eighty-two thousand three hundred and fifty-two shares of $10,000 par value of the increase in the authorized capital stock of the Bank of which sixty-seven thousand three hundred and fifty-two shall be callable shares and fifteen thousand shall be paid in and (2) to pay to the Fund for Special Operations an initial annual installment of $100,000,000 and, upon further authorization by the Congress two subsequent annual installments of $450,000,000 each, in accordance with and subject to the terms and conditions of such resolutions.
+
+**(b)** There are hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of (1) three annual installments of $50,000,000 each for the United States subscription to paid-in capital stock of the Bank; (2) two installments of $336,760,000 each for the United States subscription to the callable capital stock of the Bank; and (3) one installment of $100,000,000 for the United States share of the increase in the resources of the Fund for Special Operations of the Bank.
+
+
+<a id="section-286hh"></a>
+## § 286hh. Restrictions
+**(a)** 11 So in original. No subsec. (b) has been enacted. Unless authorized by law, neither the President nor any person or agency shall, on behalf of the United States—
+
+(1) subscribe to additional shares of stock of the Corporation;
+
+(2) vote for or agree to any amendment of the agreement which increases the obligations of the United States, or which changes the purpose or functions of the Corporation; or
+
+(3) make a loan or provide other financing to the Corporation.
+
+### Statutory Notes
+
+#### Codification
+Section is based on section 205 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
+
+
+<a id="section-286i"></a>
+## § 286i. Authorization for payment of United States contribution to increase Fund for Special Operations; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized to pay to the Fund for Special Operations two annual installments of $450,000,000 each in accordance with and subject to the terms and conditions of the resolution adopted by the Board of Governors on December 31, 1970, concerning an increase in the resources of the Fund for Special Operations and contributions thereto.
 
 **(b)** There are hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of the two annual installments of $450,000,000 each for the United States share of the increase in the resources of the Fund for Special Operations of the Bank.
 
 
-<a id="section-286ff"></a>
-## § 286ff. Federal Reserve banks as depositories
+<a id="section-286ii"></a>
+## § 286ii. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Corporation shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
@@ -8125,14 +8518,14 @@ Any Federal Reserve bank which is requested to do so by the Corporation shall ac
 Section is based on section 206 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
 
 
-<a id="section-286g"></a>
-## § 286g. Articles of agreement; authorization to agree to amendments
+<a id="section-286j"></a>
+## § 286j. Articles of agreement; authorization to agree to amendments
 
 The United States Governor of the Bank is authorized to agree to amendments to the provisions of the articles of agreement as provided in proposed Board of Governors resolutions entitled (a) “Amendment of the Provisions of the Agreement Establishing the Bank with Respect to Membership and to Related Matters” and (b) “Amendment of the Provisions of the Agreement Establishing the Bank with Respect to the Election of Executive Directors”.
 
 
-<a id="section-286gg"></a>
-## § 286gg. Subscription of stock
+<a id="section-286jj"></a>
+## § 286jj. Subscription of stock
 **(a) Secretary of the Treasury as subscribing authority** The Secretary of the Treasury is authorized to subscribe on behalf of the United States to five thousand one hundred shares of the capital stock of the Corporation: Provided, however, That the subscription shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 **(b) Authorization of appropriations** There is authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury of the subscription of the United States for those shares, $51,000,000.
@@ -8148,8 +8541,8 @@ Section is based on section 207 of title II of S. 2416, Ninety-eighth Congress, 
 Pub. L. 106–113, div. B, § 1000(a)(2) [title V, § 594], Nov. 29, 1999, 113 Stat. 1535, 1501A–122, provided in part that the Secretary of the Treasury may effect the United States participation in the first general capital increase of the Inter-American Investment Corporation, and authorized $125,180,000 to be appropriated without fiscal year limitation for payment by the Secretary for paid-in capital of the Corporation.
 
 
-<a id="section-286h"></a>
-## § 286h. Expropriation of United States property; loan restrictions
+<a id="section-286k"></a>
+## § 286k. Expropriation of United States property; loan restrictions
 
 The President shall instruct the United States Executive Director of the Bank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country which has—
 
@@ -8161,8 +8554,8 @@ The President shall instruct the United States Executive Director of the Bank to
 unless the President determines that (A) an arrangement for prompt, adequate, and effective compensation has been made, (B) the parties have submitted the dispute to arbitration under the rules of the Convention for the Settlement of Investment Disputes, or (C) good faith negotiations are in progress aimed at providing prompt, adequate, and effective compensation under the applicable principles of international law.
 
 
-<a id="section-286hh"></a>
-## § 286hh. Jurisdiction of United States courts
+<a id="section-286kk"></a>
+## § 286kk. Jurisdiction of United States courts
 
 For the purposes of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Corporation in accordance with the agreement, the Corporation shall be deemed to be an inhabitant of the Federal judicial district in which its principal office within the United States or its agent appointed for the purpose of accepting service or notice of service is located, and any such action to which the Corporation shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in [section 460 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section460&num=0&edition=prelim), shall have original jurisdiction of any such action. When the Corporation is a defendant in any action in a State court, it may at any time before the trial thereof remove the action into the appropriate district court of the United States by following the procedure for removal provided in [section 1446 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1446&num=0&edition=prelim).
 
@@ -8172,8 +8565,8 @@ For the purposes of any civil action which may be brought within the United Stat
 Section is based on section 208 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
 
 
-<a id="section-286i"></a>
-## § 286i. Illegal drug traffic; loan restrictions
+<a id="section-286k-1"></a>
+## § 286k–1. Illegal drug traffic; loan restrictions
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Bank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country with respect to which the President has made a determination, and so notified the Secretary of the Treasury, that the government of such country has failed to take adequate steps to prevent narcotic drugs and other controlled substances (as defined by the Comprehensive Drug Abuse Prevention and Control Act of 1970 [[21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.]) produced or processed, in whole or in part, in such country, or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents, or from entering the United States unlawfully. Such instruction shall continue in effect until the President determines, and so notifies the Secretary of the Treasury, that the government of such country has taken adequate steps to prevent such sale or entry of narcotic drugs and other controlled substances.
 
@@ -8183,8 +8576,20 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 
-<a id="section-286ii"></a>
-## § 286ii. Effectiveness of agreement
+<a id="section-286k-2"></a>
+## § 286k–2. Authorization to vote on proposed resolutions
+
+The United States Governor of the Bank is authorized to vote for three proposed resolutions of the Board of Governors entitled (a) “Amendments to the Agreement Establishing the Bank with respect to the Creation of the Inter-Regional Capital Stock of the Bank and to Related Matters”, (b) “General Rules Governing Admission of Nonregional Countries to Membership in the Bank”, and (c) “Increase in the Authorized Callable Ordinary Capital Stock and Subscriptions Thereto in Connection with the Admission of Nonregional Member Countries”, which were submitted to the Board of Governors pursuant to a resolution of the Board of Executive Directors approved on March 4, 1975.
+
+
+<a id="section-286l"></a>
+## § 286l. Membership in the Bank for the Bahamas and Guyana
+
+The United States Governor of the Bank is authorized to agree to the amendments to article II, section 1(b) and article IV, section 3(b) of the Agreement Establishing the Bank, as proposed by the Board of Executive Directors, to provide for membership for the Bahamas and Guyana in the Bank at such times and in accordance with such terms as the Bank may determine.
+
+
+<a id="section-286ll"></a>
+## § 286ll. Effectiveness of agreement
 
 Article VI, section 4(c), and article VII, sections 2 to 9, both inclusive, of the agreement shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in the Corporation.
 
@@ -8194,14 +8599,14 @@ Article VI, section 4(c), and article VII, sections 2 to 9, both inclusive, of t
 Section is based on section 209 of title II of S. 2416, Ninety-eighth Congress, as introduced Mar. 13, 1984, and enacted into law by Pub. L. 98–473.
 
 
-<a id="section-286j"></a>
-## § 286j. Authorization to vote on proposed resolutions
+<a id="section-286m"></a>
+## § 286m. Loans to the Caribbean Development Bank
 
-The United States Governor of the Bank is authorized to vote for three proposed resolutions of the Board of Governors entitled (a) “Amendments to the Agreement Establishing the Bank with respect to the Creation of the Inter-Regional Capital Stock of the Bank and to Related Matters”, (b) “General Rules Governing Admission of Nonregional Countries to Membership in the Bank”, and (c) “Increase in the Authorized Callable Ordinary Capital Stock and Subscriptions Thereto in Connection with the Admission of Nonregional Member Countries”, which were submitted to the Board of Governors pursuant to a resolution of the Board of Executive Directors approved on March 4, 1975.
+The United States Governor of the Bank is authorized to agree to the amendments to article III, sections 1, 4, and 6(b) of the Agreement Establishing the Bank, as proposed by the Board of Executive Directors, to provide for lending to the Caribbean Development Bank.
 
 
-<a id="section-286jj"></a>
-## § 286jj. Securities issued by the Corporation
+<a id="section-286mm"></a>
+## § 286mm. Securities issued by the Corporation
 **(a) Exempted securities** Any securities issued by the Corporation (including any guarantee by the Corporation, whether or not limited in scope) in connection with the raising of funds for inclusion in the Corporation’s resources as defined in article II, section 2 of the agreement, and any securities guaranteed by the Corporation as to both principal and interest to which the commitment in article II, section 2(e) of the agreement is expressly applicable, shall be deemed to be exempted securities within the meaning of [section 77c(a)(2) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c/a/2&num=0&edition=prelim) and [section 78c(a)(12) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c/a/12&num=0&edition=prelim). The Corporation shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Corporation and its operations as necessary in the public interest or for the protection of investors.
 
 **(b) Suspension by Securities and Exchange Commission** The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Corporation during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
@@ -8215,34 +8620,8 @@ Section is based on section 210 of title II of S. 2416, Ninety-eighth Congress, 
 Section 2 of Ex. Ord. No. 12567, Oct. 2, 1986, 51 F.R. 35495, provided that: “The functions vested in the President by Section 210 of the Inter-American Investment Corporation Act [this section] are hereby delegated to the Secretary of the Treasury.”
 
 
-<a id="section-286k"></a>
-## § 286k. Membership in the Bank for the Bahamas and Guyana
-
-The United States Governor of the Bank is authorized to agree to the amendments to article II, section 1(b) and article IV, section 3(b) of the Agreement Establishing the Bank, as proposed by the Board of Executive Directors, to provide for membership for the Bahamas and Guyana in the Bank at such times and in accordance with such terms as the Bank may determine.
-
-
-<a id="section-286kk"></a>
-## § 286kk. Acceptance of membership by United States in International Development Association
-
-The President is hereby authorized to accept membership for the United States in the International Development Association (hereinafter referred to as the “Association”), provided for by the Articles of Agreement (hereinafter referred to as the “Articles”) of the Association deposited in the archives of the International Bank for Reconstruction and Development.
-
-### Statutory Notes
-
-#### Short Title
-Pub. L. 86–565, § 1, June 30, 1960, 74 Stat. 293, provided that: “This Act [enacting this subchapter] may be cited as the ‘International Development Association Act’.”
-
-#### Par Value Modification
-For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the International Development Association’s holdings of United States dollars following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriations necessary to provide such maintenance of value, see [section 5152 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5152&num=0&edition=prelim), Money and Finance.
-
-
-<a id="section-286k-1"></a>
-## § 286k–1. Loans to the Caribbean Development Bank
-
-The United States Governor of the Bank is authorized to agree to the amendments to article III, sections 1, 4, and 6(b) of the Agreement Establishing the Bank, as proposed by the Board of Executive Directors, to provide for lending to the Caribbean Development Bank.
-
-
-<a id="section-286k-2"></a>
-## § 286k–2. Increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations; United States share; authorization of appropriations
+<a id="section-286n"></a>
+## § 286n. Increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations; United States share; authorization of appropriations
 **(a)** The United States Governor of the Bank is hereby authorized to vote in favor of two resolutions proposed by the Governors at a special meeting in July 1975, and now pending before the Board of Governors of the Bank, which provide for (1) an increase in the authorized capital stock of the Bank and additional subscriptions of members thereto and (2) an increase in the resources of the Fund for Special Operations and contributions thereto. Upon adoption of such resolutions, the United States Governor is authorized to agree on behalf of the United States (1) to subscribe to ninety-nine thousand four hundred and seventy-four shares of $10,000 par value of the increase in the authorized capital stock of the Bank of which eighty-nine thousand five hundred and twenty-six shall be callable shares and nine thousand nine hundred and forty-eight shall be paid in and (2) to contribute to the Fund for Special Operations $600,000,000, in accordance with and subject to the terms and conditions of such resolutions.
 
 **(b)** There are hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of (1) $1,199,997,873 for the United States subscription to the capital stock of the Bank and (2) $600,000,000 for the United States share of the increase in the resources of the Fund for Special Operations: Provided, however, That not more than $15,677,000 may be made available to the Fund for Special Operations for the fiscal year 1982.
@@ -8256,21 +8635,35 @@ The United States Governor of the Bank is authorized to agree to the amendments 
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
 
 
-<a id="section-286l"></a>
-## § 286l. Subscription to additional shares; authorization of appropriations
+<a id="section-286nn"></a>
+## § 286nn. Acceptance of membership by United States in International Development Association
+
+The President is hereby authorized to accept membership for the United States in the International Development Association (hereinafter referred to as the “Association”), provided for by the Articles of Agreement (hereinafter referred to as the “Articles”) of the Association deposited in the archives of the International Bank for Reconstruction and Development.
+
+### Statutory Notes
+
+#### Short Title
+Pub. L. 86–565, § 1, June 30, 1960, 74 Stat. 293, provided that: “This Act [enacting this subchapter] may be cited as the ‘International Development Association Act’.”
+
+#### Par Value Modification
+For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the International Development Association’s holdings of United States dollars following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriations necessary to provide such maintenance of value, see [section 5152 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5152&num=0&edition=prelim), Money and Finance.
+
+
+<a id="section-286o"></a>
+## § 286o. Subscription to additional shares; authorization of appropriations
 **(a)** The United States Governor of the Bank is hereby authorized to vote for an additional increase of one hundred and eight thousand shares of $10,000 par value in the authorized callable capital stock of the Bank as recommended in the resolution of the Board of Governors entitled “Increase of US$4 Billion in the Authorized Capital Stock and Subscriptions Thereto.” Upon adoption of a Board of Governors resolution increasing the authorized capital stock of the Bank by such amount, the United States Governor is authorized to agree on behalf of the United States to subscribe to thirty-seven thousand three hundred and three shares of $10,000 par value of such additional increase in callable capital in accordance with and subject to the terms and conditions of such resolution.
 
 **(b)** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there is hereby authorized to be appropriated, without fiscal year limitation, $450,002,218 for payment by the Secretary of the Treasury.
 
 
-<a id="section-286ll"></a>
-## § 286ll. Governor, executive director, and alternates of Association
+<a id="section-286oo"></a>
+## § 286oo. Governor, executive director, and alternates of Association
 
 The Governor and Executive Director of the International Bank for Reconstruction and Development, and the alternate for each of them, appointed under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a), shall serve as Governor, Executive Director and alternates, respectively, of the Association.
 
 
-<a id="section-286m"></a>
-## § 286m. Repealed. Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070
+<a id="section-286p"></a>
+## § 286p. Repealed. Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070
 
 ### Statutory Notes
 
@@ -8280,8 +8673,8 @@ Section, Pub. L. 86–147, § 28, as added Pub. L. 94–302, title I, § 103(a)(
 Repeal effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as an Effective Date note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
 
 
-<a id="section-286mm"></a>
-## § 286mm. National Advisory Council on International Monetary and Financial Problems
+<a id="section-286pp"></a>
+## § 286pp. National Advisory Council on International Monetary and Financial Problems
 
 The provisions of [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b), shall apply with respect to the Association to the same extent as with respect to the International Bank for Reconstruction and Development and the International Monetary Fund.
 
@@ -8294,8 +8687,8 @@ The provisions of [section 286b of this title](./chapter-007-international-burea
 Functions of National Advisory Council on International Monetary and Financial Problems under this section delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b).
 
 
-<a id="section-286n"></a>
-## § 286n. Proposal of light-capital or intermediate technologies as part of Bank’s development strategy
+<a id="section-286q"></a>
+## § 286q. Proposal of light-capital or intermediate technologies as part of Bank’s development strategy
 **(a) Contents of proposed resolution** The United States Executive Director of the Bank shall propose to the Board of Executive Directors of the Bank the adoption of a resolution providing (1) that the development and utilization of light-capital or intermediate technologies should be accepted as major facets of the Bank’s development strategy, and (2) that such light-capital or intermediate technologies should be developed and utilized as soon as possible in all Bank activities. Such resolution shall further provide that, by the close of the calendar year 1977, some projects that employ primarily such light-capital or intermediate technologies shall be designed and approved.
 
 **(b) Progress report to Congress** The United States Governor of the Bank shall report to the Congress no later than six months after May 31, 1976, on the proposal made under subsection (a), and no later than twelve months after such date on the progress that has been made with respect to such proposal.
@@ -8306,14 +8699,14 @@ Functions of National Advisory Council on International Monetary and Financial P
 A prior section 28 of Pub. L. 86–147, as added by section 103(a)(1) of Pub. L. 94–302, was classified to [section 283y of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283y) prior to repeal by Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070.
 
 
-<a id="section-286nn"></a>
-## § 286nn. Congressional authorization needed for certain actions
+<a id="section-286qq"></a>
+## § 286qq. Congressional authorization needed for certain actions
 
 Unless Congress by law authorizes such action, neither the President nor any person or agency shall, on behalf of the United States, (a) subscribe to additional funds under article III, section 1, of the articles; (b) accept any amendment under article IX of the articles; or (c) make a loan or provide other financing to the Association.
 
 
-<a id="section-286o"></a>
-## § 286o. Increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations
+<a id="section-286r"></a>
+## § 286r. Increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations
 **(a) United States share** The United States Governor of the Bank is authorized to vote for two resolutions which were proposed by the Governors at a special meeting in December 1978 and are pending before the Board of Governors of the Bank. These resolutions provide for (1) an increase in the authorized capital stock of the Bank and additional subscriptions thereto, and (2) an increase in the resources of the Fund for Special Operations and contributions thereto. Upon adoption of these resolutions, the United States Governor is authorized on behalf of the United States (A) to subscribe to two hundred twenty-seven thousand eight hundred and ninety-six shares of the increase in the authorized capital stock of the Bank, of which two hundred ten thousand eight hundred and four shall be callable and seventeen thousand and ninety-two shall be paid-in, and (B) to contribute to the Fund for Special Operations $630,000,000; except that any commitment to make such subscriptions to paid-in and callable capital stock and to make such contributions to the Fund for Special Operations shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 **(b) Authorization of appropriations** In order to pay for the increase in the United States subscription and contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury (1) $2,474,287,189 for the United States subscription to the capital stock of the Bank, and (2) $630,000,000 for the United States share of the increase in the resources of the Fund for Special Operations: Provided, however, That for contributions to the Fund for Special Operations, not more than $175,000,000 may be made available for the fiscal year 1982, and not more than $105,000,000 may be made available for the fiscal year 1983.
@@ -8335,14 +8728,14 @@ Unless Congress by law authorizes such action, neither the President nor any per
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
 
 
-<a id="section-286oo"></a>
-## § 286oo. Federal Reserve banks as depositories
+<a id="section-286rr"></a>
+## § 286rr. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Association shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 
-<a id="section-286p"></a>
-## § 286p. Contribution to Inter-American Development Bank; authorization of appropriations
+<a id="section-286s"></a>
+## § 286s. Contribution to Inter-American Development Bank; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized on behalf of the United States to contribute to the Fund for Special Operations $70,000,000: Provided, however, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for a portion of the increase in the United States subscription to the capital stock of the Bank provided for in [section 283z–1(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section283z–1/a&num=0&edition=prelim) and for the United States contribution to the Fund for Special Operations provided for in this section, there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury, (1) $274,920,799 for the United States subscription, and (2) $70,000,000 for the United States contribution to the Fund for Special Operations: Provided, however, That no funds may be made available for such contribution to the Fund for Special Operations for the fiscal year 1982.
@@ -8353,8 +8746,8 @@ Any Federal Reserve bank which is requested to do so by the Association shall ac
 Section effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as a note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
 
 
-<a id="section-286pp"></a>
-## § 286pp. Payment of subscription to Association by United States
+<a id="section-286ss"></a>
+## § 286ss. Payment of subscription to Association by United States
 **(a) Authorization of appropriations for subscription** There is hereby authorized to be appropriated, without fiscal year limitation, for the subscription of the United States to the Association, $320,290,000.
 
 **(b) Increase in Association resources; contribution; authorization of appropriations** The United States Governor is hereby authorized (1) to vote for an increase in the resources of the Association and (2) to agree on behalf of the United States to contribute to the Association the sum of $312 million, both as recommended by the Executive Directors, in a report dated September 9, 1963, to the Board of Governors of the Association. There is hereby authorized to be appropriated out of funds supplied by the Nation’s taxpayers or out of funds borrowed on their credit, without fiscal year limitations, $312 million to provide the United States share of the increase in the resources of the Association.
@@ -8372,8 +8765,8 @@ In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted 
 1964—Subsecs. (b) to (d). Pub. L. 88–310 added subsec. (b), redesignated former subsec. (b) as (c) and struck out “, after paying the requisite part of the subscription of the United States in the Association required to be made under the articles.” after “Secretary of the Treasury” in first sentence and “of the subscription of the United States” after “amount” in third sentence, respectively, and redesignated former subsec. (c) as (d).
 
 
-<a id="section-286q"></a>
-## § 286q. Increase in authorized capital stock of Bank and increases in resources of Fund for Special Operations; United States share; authorization of appropriations
+<a id="section-286t"></a>
+## § 286t. Increase in authorized capital stock of Bank and increases in resources of Fund for Special Operations; United States share; authorization of appropriations
 **(a)**
 
 (1) The United States Governor of the Bank is authorized to vote for resolutions—
@@ -8405,14 +8798,14 @@ In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted 
 (2) $350,000,000 for the United States share of the increase in the resources of the Fund for Special Operations.
 
 
-<a id="section-286qq"></a>
-## § 286qq. Jurisdiction and venue of actions
+<a id="section-286tt"></a>
+## § 286tt. Jurisdiction and venue of actions
 
 For the purpose of any action which may be brought within the United States, its possessions, or the Commonwealth of Puerto Rico, by or against the Association in accordance with the articles, the Association shall be deemed to be an inhabitant of the Federal Judicial district in which its principal office in the United States is located, and any such action at law or in equity to which the Association shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of any such action. When the Association is a defendant in any such action, it may, at any time before the trial thereof, remove such action from a State court into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
 
-<a id="section-286r"></a>
-## § 286r. Amendments to Articles of Agreement in resolution on Merger of Interregional and Ordinary Capital Resources
+<a id="section-286u"></a>
+## § 286u. Amendments to Articles of Agreement in resolution on Merger of Interregional and Ordinary Capital Resources
 
 The United States Governor of the Inter-American Development Bank is hereby authorized to agree to and to accept the amendments to the Articles of Agreement in the proposed resolution entitled “Merger of Inter-regional and Ordinary Capital Resources”.
 
@@ -8422,14 +8815,14 @@ The United States Governor of the Inter-American Development Bank is hereby auth
 Section 32 of Pub. L. 86–147 is based on section 501 of title V of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-286rr"></a>
-## § 286rr. Status, privileges, and immunities of the United States
+<a id="section-286uu"></a>
+## § 286uu. Status, privileges, and immunities of the United States
 
 The provisions of article VII, section 5(d), and article VIII sections 2 to 9, both inclusive, of the articles shall have full force and effect in the United States, its possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in, and the establishment of, the Association.
 
 
-<a id="section-286s"></a>
-## § 286s. Capital increase; increase in resources of Fund for Special Operations
+<a id="section-286v"></a>
+## § 286v. Capital increase; increase in resources of Fund for Special Operations
 **(a) Authority to vote for, and to subscribe and contribute to, increase in authorized capital stock of Bank and increase in resources of Fund for Special Operations**
 
 (1) **Vote authorized** — The United States Governor of the Bank is authorized to vote for resolutions which—
@@ -8477,14 +8870,14 @@ The provisions of article VII, section 5(d), and article VIII sections 2 to 9, b
 (4) the Comptroller General of the United States has access to all documents of the Bank on the same terms and under the same conditions as such documents are made available to the United States Executive Director of the Bank.
 
 
-<a id="section-286ss"></a>
-## § 286ss. Second replenishment; authorization of appropriations
+<a id="section-286vv"></a>
+## § 286vv. Second replenishment; authorization of appropriations
 
 The United States Governor is hereby authorized (1) to vote in favor of the second replenishment resolutions providing for an increase in the resources of the Association, and (2) to agree on behalf of the United States to contribute to the Association the sum of $480,000,000, as recommended by the Executive Directors in a report dated March 8, 1968, to the Board of Governors of the Association. There is hereby authorized to be appropriated, without fiscal year limitation, $480,000,000 for payment by the Secretary of the Treasury of the United States share of the increase in the resources of the Association.
 
 
-<a id="section-286t"></a>
-## § 286t. Investment in human capital
+<a id="section-286w"></a>
+## § 286w. Investment in human capital
 **(a) In general** The Secretary of the Treasury shall instruct the United States Executive Director of the Inter-American Development Bank to propose and use the voice and vote of such director, during the 4-year period beginning on January 1, 1990, to vigorously promote an increase in the proportion of Bank lending in support of projects and programs which support investments in human capital and to seek the rapid implementation by the Bank of systematic mechanisms of consultation with locally affected populations in borrower countries either directly or through appropriate representative non-governmental organizations.
 
 **(b) “Investments in human capital” defined** As used in subsection (a), the term “investments in human capital” means investments in projects, policies, and programs designed to improve urban and rural health care and sanitation, basic nutrition, education, the small-producer private sector, the economic activities of women, and the development of indigenous non-governmental organizations.
@@ -8495,14 +8888,14 @@ The United States Governor is hereby authorized (1) to vote in favor of the seco
 Pub. L. 101–240, title II, § 202(b), Dec. 19, 1989, 103 Stat. 2498, provided that the Chairman of the National Advisory Council on International Monetary and Financial Policies would include in the report required by [section 262r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262r) for fiscal year 1991 a report on the efforts undertaken by the United States Executive Director of the Inter-American Development Bank in achieving the objectives of this section.
 
 
-<a id="section-286tt"></a>
-## § 286tt. Third replenishment; authorization of appropriations
+<a id="section-286ww"></a>
+## § 286ww. Third replenishment; authorization of appropriations
 
 The United States Governor is hereby authorized to agree on behalf of the United States to contribute to the Association three annual installments of $320,000,000 each as recommended in the “Report of the Executive Directors to the Board of Governors on Additions to IDA Resources: Third Replenishment,” dated July 21, 1970. There is hereby authorized to be appropriated, without fiscal year limitation, the amounts necessary for payment by the Secretary of the Treasury of three annual installments of $320,000,000 each for the United States share of the increase in the resources of the Association.
 
 
-<a id="section-286u"></a>
-## § 286u. Limitations on policy based lending
+<a id="section-286x"></a>
+## § 286x. Limitations on policy based lending
 
 The Secretary of the Treasury shall—
 
@@ -8515,8 +8908,8 @@ The Secretary of the Treasury shall—
 (4) before the end of the 12-month period beginning on December 19, 1989, report to the Congress on the matters described in paragraph (3).
 
 
-<a id="section-286uu"></a>
-## § 286uu. Expropriation of United States property; loan restrictions
+<a id="section-286xx"></a>
+## § 286xx. Expropriation of United States property; loan restrictions
 
 The President shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development and the International Development Association to vote against any loan or other utilization of the funds of the Bank and the Association for the benefit of any country which has—
 
@@ -8528,8 +8921,8 @@ The President shall instruct the United States Executive Directors of the Intern
 unless the President determines that (A) an arrangement for prompt, adequate, and effective compensation has been made, (B) the parties have submitted the dispute to arbitration under the rules of the Convention for the Settlement of Investment Disputes, or (C) good faith negotiations are in progress aimed at providing prompt, adequate, and effective compensation under the applicable principles of international law.
 
 
-<a id="section-286v"></a>
-## § 286v. Increase in lending to Caribbean
+<a id="section-286y"></a>
+## § 286y. Increase in lending to Caribbean
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Bank to enter into discussions with the management of the Bank and with other member country governments to seek to increase Bank lending to the Caribbean region, directly or through appropriate financial intermediaries, for viable projects which will—
 
@@ -8538,8 +8931,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 (2) seek to ensure equitable and environmentally sustainable economic growth.
 
 
-<a id="section-286vv"></a>
-## § 286vv. Illegal drug traffic; loan restrictions
+<a id="section-286yy"></a>
+## § 286yy. Illegal drug traffic; loan restrictions
 
 The Secretary of the Treasury shall instruct the United States Executive Directors of the International Bank for Reconstruction and Development and the International Development Association to vote against any loan or other utilization of the funds of the Bank and the Association for the benefit of any country with respect to which the President has made a determination, and so notified the Secretary of the Treasury, that the government of such country has failed to take adequate steps to prevent narcotic drugs and other controlled substances (as defined by the Comprehensive Drug Abuse Prevention and Control Act of 1970 [[21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.]) produced or processed, in whole or in part, in such country, or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents, or from entering the United States unlawfully. Such instruction shall continue in effect until the President determines, and so notifies the Secretary of the Treasury, that the government of such country has taken adequate steps to prevent such sale or entry of narcotic drugs and other controlled substances.
 
@@ -8549,8 +8942,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 
-<a id="section-286w"></a>
-## § 286w. Multilateral Investment Fund
+<a id="section-286z"></a>
+## § 286z. Multilateral Investment Fund
 **(a) Authorization of contribution** The Secretary of the Treasury is authorized to contribute, and to make payment of, $500,000,000 to the Multilateral Investment Fund established pursuant to the agreements of February 11, 1992: Provided, That such funds shall only be disbursed from the Fund to countries that have governments that are democratically elected,11 So in original. The comma probably should be a semicolon. that do not harbor or sponsor international terrorists; that do not fail to cooperate in narcotics matters; and that do not engage in a consistent pattern of gross violations of internationally recognized human rights.
 
 **(b) Authorization of appropriations** There is hereby authorized to be appropriated without fiscal year limitation $500,000,000 for the contribution authorized in subsection (a).
@@ -8558,43 +8951,15 @@ The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in 
 **(c) Environmental assessment of actions** If an Enterprise for the Americas Multilateral Investment Fund is established pursuant to this section, the Secretary of the Treasury shall instruct the United States representative to the Fund not to vote in favor of any action proposed to be taken by the Fund which may have a significant adverse effect on the environment unless an assessment of the impact of the action on the environment has been available for at least 120 days before the vote.
 
 
-<a id="section-286ww"></a>
-## § 286ww. Fourth replenishment; authorization of appropriations
+<a id="section-286zz"></a>
+## § 286zz. Fourth replenishment; authorization of appropriations
 **(a)** The United States Governor is hereby authorized to agree on behalf of the United States to pay to the Association four annual installments of $375,000,000 each as the United States contribution to the Fourth Replenishment of the Resources of the Association.
 
 **(b)** In order to pay for the United States contribution, there is hereby authorized to be appropriated without fiscal year limitation four annual installments of $375,000,000 each for payment by the Secretary of the Treasury.
 
 
-<a id="section-286x"></a>
-## § 286x. Focus on low-income areas of Latin America and Caribbean
-
-The Secretary of the Treasury shall direct the United States Executive Director of the Bank to use the voice and vote of the United States to support an increased focus on the poorest countries in Latin America and the Caribbean, and on poorer areas of better off countries, and to support programs conducted by the Multilateral Investment Fund, particularly in targeting low-income countries and populations, working with nongovernmental organizations and training and assisting former combatants from civil conflicts in Latin America.
-
-
-<a id="section-286xx"></a>
-## § 286xx. Repealed. Pub. L. 95–118, title VII, § 702, Oct. 3, 1977, 91 Stat. 1070
-
-### Statutory Notes
-
-Section, Pub. L. 86–565, § 15, as added Pub. L. 93–373, § 3, Aug. 14, 1974, 88 Stat. 445, set forth provisions relating to United States participation in loans by the International Development Association to any country developing any nuclear explosive device. See [section 262d of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262d).
-
-#### Effective Date of Repeal
-Repeal effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as an Effective Date note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
-
-
-<a id="section-286y"></a>
-## § 286y. First replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund
-**(a) Contribution authority**
-
-(1) **In general** — The Secretary of the Treasury may contribute on behalf of the United States $150,000,000 to the first replenishment of the resources of the Enterprise for the Americas Multilateral Investment Fund.
-
-(2) **Subject to appropriations** — The authority provided by paragraph (1) may be exercised only to the extent and in the amounts provided for in advance in appropriations Acts.
-
-**(b) Limitations on authorization of appropriations** For the United States contribution authorized by subsection (a), there are authorized to be appropriated not more than $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
-
-
-<a id="section-286yy"></a>
-## § 286yy. Fifth replenishment; authorization of appropriations
+<a id="section-287"></a>
+## § 287. Fifth replenishment; authorization of appropriations
 **(a)** The United States Governor is authorized to agree on behalf of the United States to pay to the Association $2,400,000,000 as the United States contribution to the fifth replenishment of the Resources of the Association: Provided, however, That any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $2,400,000,000 for payment by the Secretary of the Treasury.
@@ -8605,31 +8970,8 @@ Repeal effective Oct. 3, 1977, see section 1001 of Pub. L. 95–118, set out as 
 Section effective Oct. 3, 1977, except that no funds authorized to be appropriated by this section may be available for use or obligation prior to Oct. 1, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
 
 
-<a id="section-286z"></a>
-## § 286z. Authority to vote for and contribute to an increase in resources of the Fund for Special Operations; providing debt relief to Haiti
-**(a) Vote authorized** In accordance with [section 283c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283c), the United States Governor of the Bank is authorized to vote in favor of a resolution to increase the resources of the Fund for Special Operations up to $479,000,000, in furtherance of providing debt relief for Haiti in view of the Cancun Declaration of March 21, 2010, which provides that:
-
-(1) Haiti’s debts to the Fund for Special Operations are to be cancelled;
-
-(2) Haiti’s remaining local currency conversion obligations to the Fund for Special Operations are to be cancelled;
-
-(3) undisbursed balances of existing loans of the Fund for Special Operations to Haiti are to be converted to grants; and
-
-(4) the Fund for Special Operations is to make available significant and immediate grant financing to Haiti as well as appropriate resources to other countries remaining as borrowers within the Fund for Special Operations, consistent with paragraph 6 of the Cancun Declaration of March 21, 2010.
-
-**(b) Contribution authority** To the extent and in the amount provided in advance in appropriations Acts the United States Governor of the Bank may, on behalf of the United States and in accordance with [section 283c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-283c), contribute up to $252,000,000 to the Fund for Special Operations, which will provide for debt relief of:
-
-(1) up to $240,000,000 to the Fund for Special Operations;
-
-(2) up to $8,000,000 to the International Fund For Agricultural Development (IFAD); and
-
-(3) up to $4,000,000 for the International Development Association (IDA).
-
-**(c) Authorization of appropriations** To pay for the contribution authorized under subsection (b), there are authorized to be appropriated, without fiscal year limitation, for payment by the Secretary of the Treasury $212,000,000, for the United States contribution to the Fund for Special Operations.
-
-
-<a id="section-286zz"></a>
-## § 286zz. Sixth replenishment; authorization of appropriations
+<a id="section-287a"></a>
+## § 287a. Sixth replenishment; authorization of appropriations
 **(a)** The United States Governor is authorized to agree on behalf of the United States to pay to the Association $3,240,000,000 as the United States contribution to the sixth replenishment of the resources of the Association: Provided, however, That any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contributions provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $3,240,000,000 for payment by the Secretary of the Treasury: Provided, however, That not more than $850,000,000 of such sum may be made available for the fiscal year 1982 and not more than $945,000,000 of such sum may be made available for the fiscal year 1983.
@@ -8640,8 +8982,8 @@ Section effective Oct. 3, 1977, except that no funds authorized to be appropriat
 Section effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as a note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
 
 
-<a id="section-287"></a>
-## § 287. Seventh replenishment; authorization of appropriations
+<a id="section-287b"></a>
+## § 287b. Seventh replenishment; authorization of appropriations
 **(a)** The United States Governor is hereby authorized to agree on behalf of the United States to pay to the Association $2,250,000,000 as the United States contribution to the seventh replenishment of the resources of the Association, except that any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $2,250,000,000 for payment by the Secretary of the Treasury.
@@ -8655,8 +8997,8 @@ Section 18 of Pub. L. 86–565 is based on section 901 of S. 2582, Ninety-eighth
 Pub. L. 98–473, title I, § 101(1) [title I], Oct. 12, 1984, 98 Stat. 1884, 1885, provided: “That the Secretary of the Treasury shall instruct the United States Executive Director to undertake negotiations to ensure, to the maximum extent possible consistent with the effective use of resources, that the amount of development credits made available to sub-Saharan Africa through the seventh replenishment shall equal or exceed the amount of development credits made available to sub-Saharan Africa through the sixth replenishment.”
 
 
-<a id="section-287a"></a>
-## § 287a. Special Facility for Sub-Saharan Africa
+<a id="section-287b-1"></a>
+## § 287b–1. Special Facility for Sub-Saharan Africa
 **(a)** The Secretary of the Treasury shall pay to the Special Facility for Sub-Saharan Africa, administered by the Association, amounts appropriated pursuant to subsection (b).
 
 **(b)** For purposes of the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $225,000,000.
@@ -8670,8 +9012,8 @@ Section 19 of Pub. L. 86–565 is based on section 102 of title I of H.R. 2253, 
 Section 101 of title I of H.R. 2253, as enacted into permanent law by Pub. L. 99–190, § 101(i) [title I], Dec. 19, 1985, 99 Stat. 1291, 1294, provided that: “The Congress hereby finds that— “(1) Sub-Saharan Africa faces a virtually unprecedented condition of human misery which threatens the lives of one hundred and fifty million people; “(2) only the combined effort of both the African nations themselves and international aid donors can overcome the obstacles to economic development which have given rise to conditions of famine, declining food production, infant mortality, desertification, and deteriorating infrastructure; “(3) international relief efforts have helped to address the immediate crisis of starvation in Africa and the United States has made important contributions to this effort both bilaterally and through contributions to the multilateral development institutions; “(4) there is a serious shortfall in the external capital resources necessary to support the policy reform efforts of the African governments and to achieve the long-term development necessary to avert a chronic state of crisis in Sub-Saharan Africa; “(5) the Special Facility for Sub-Saharan Africa will have as its primary goal the implementation of policy reforms to help the African countries to help themselves; “(6) to succeed, these efforts must be reinforced by development resources; “(7) the appalling conditions prevalent in the countries of Sub-Saharan Africa underscore the need for the United States to participate in a coordinated framework with the other aid donor countries; and “(8) the Special Facility for Sub-Saharan Africa provides such a framework and it is in the humanitarian, economic, and strategic interests of the United States to participate.”
 
 
-<a id="section-287b"></a>
-## § 287b. Eighth replenishment; authorization of appropriations
+<a id="section-287c"></a>
+## § 287c. Eighth replenishment; authorization of appropriations
 **(a)** The United States Governor is hereby authorized to agree on behalf of the United States to pay to the Association $2,875,000,000 to the eighth replenishment of the resources of the Association, except that any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $2,875,000,000 for payment by the Secretary of the Treasury.
@@ -8682,8 +9024,8 @@ Section 101 of title I of H.R. 2253, as enacted into permanent law by Pub. L. 99
 Section 20 of Pub. L. 86–565 is based on section 101 of title I of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-287b-1"></a>
-## § 287b–1. Ninth replenishment
+<a id="section-287d"></a>
+## § 287d. Ninth replenishment
 **(a) In general** The United States Governor is hereby authorized to agree on behalf of the United States to pay to the Association $3,180,000,000 to the ninth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
 
 **(b) Limitations on authorization of appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $3,180,000,000 for payment by the Secretary of the Treasury.
@@ -8698,8 +9040,8 @@ Pub. L. 105–118, title V, § 560(a), Nov. 26, 1997, 111 Stat. 2425, provided i
 Pub. L. 103–87, title V, § 526, Sept. 30, 1993, 107 Stat. 952, provided in part that the Secretary of the Treasury is authorized to agree on behalf of the United States to participate in the tenth replenishment of the resources of the International Development Association, subject to obtaining the necessary appropriations, and pursuant to the tenth replenishment authorized $2,500,000,000 to be appropriated.
 
 
-<a id="section-287c"></a>
-## § 287c. Thirteenth replenishment
+<a id="section-287d-1"></a>
+## § 287d–1. Thirteenth replenishment
 **(a) Contribution authority**
 
 (1) **In general** — The United States Governor of the Association may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b), pursuant to the resolution of the Association entitled “Additions to IDA Resources: Thirteenth Replenishment”.
@@ -8709,22 +9051,22 @@ Pub. L. 103–87, title V, § 526, Sept. 30, 1993, 107 Stat. 952, provided in pa
 **(b) Limitations on authorization of appropriations** For the contribution authorized by subsection (a), there are authorized to be appropriated such sums as may be necessary for payment by the Secretary of the Treasury, without fiscal year limitation.
 
 
-<a id="section-287d"></a>
-## § 287d. Fourteenth replenishment
+<a id="section-287e"></a>
+## § 287e. Fourteenth replenishment
 **(a)** The United States Governor of the International Development Association is authorized to contribute on behalf of the United States $2,850,000,000 to the fourteenth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $2,850,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-287d-1"></a>
-## § 287d–1. Fifteenth replenishment
+<a id="section-287e-1"></a>
+## § 287e–1. Fifteenth replenishment
 **(a)** The United States Governor of the International Development Association is authorized to contribute on behalf of the United States $3,705,000,000 to the fifteenth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $3,705,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-287e"></a>
-## § 287e. Multilateral debt relief
+<a id="section-287e-2"></a>
+## § 287e–2. Multilateral debt relief
 **(a) Authorization of contribution** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $356,000,000 to the International Development Association for the purpose of funding debt relief under the Multilateral Debt Relief Initiative in the period governed by the fifteenth replenishment of resources of the International Development Association, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on June 24, 2009.
 
 **(b) Appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $356,000,000 for payment by the Secretary of the Treasury.
@@ -8732,15 +9074,15 @@ Pub. L. 103–87, title V, § 526, Sept. 30, 1993, 107 Stat. 952, provided in pa
 **(c) Multilateral Debt Relief Initiative** In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communique entitled “Conclusions on Development,” done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
 
 
-<a id="section-287e-1"></a>
-## § 287e–1. Sixteenth replenishment
+<a id="section-287e-3"></a>
+## § 287e–3. Sixteenth replenishment
 **(a)** The United States Governor of the International Development Association is authorized to contribute on behalf of the United States $4,075,500,000 to the sixteenth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $4,075,500,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-287e-2"></a>
-## § 287e–2. Multilateral debt relief
+<a id="section-287e-4"></a>
+## § 287e–4. Multilateral debt relief
 **(a) Authorization of contribution** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $474,000,000 to the International Development Association for the purpose of funding debt relief cost under the Multilateral Debt Relief Initiative incurred in the period governed by the sixteenth replenishment of resources of the International Development Association, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on December 23, 2011.
 
 **(b) Appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $474,000,000 for payment by the Secretary of the Treasury.
@@ -8748,15 +9090,15 @@ Pub. L. 103–87, title V, § 526, Sept. 30, 1993, 107 Stat. 952, provided in pa
 **(c) Multilateral Debt Relief Initiative** In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communiqué entitled “Conclusions on Development”, done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
 
 
-<a id="section-287e-3"></a>
-## § 287e–3. Seventeenth replenishment
+<a id="section-287f"></a>
+## § 287f. Seventeenth replenishment
 **(a)** The United States Governor of the International Development Association is authorized to contribute on behalf of the United States $3,871,800,000 to the seventeenth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $3,871,800,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-287f"></a>
-## § 287f. Multilateral debt relief
+<a id="section-287g"></a>
+## § 287g. Multilateral debt relief
 **(a)** The Secretary of the Treasury is authorized to contribute, on behalf of the United States, not more than $565,020,000 to the International Development Association for the purpose of funding debt relief costs under the Multilateral Debt Relief Initiative incurred in the period governed by the seventeenth replenishment of resources of the International Development Association, subject to obtaining the necessary appropriations and without prejudice to any funding arrangements in existence on December 16, 2014.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, not more than $565,020,000 for payment by the Secretary of the Treasury.
@@ -8764,22 +9106,29 @@ Pub. L. 103–87, title V, § 526, Sept. 30, 1993, 107 Stat. 952, provided in pa
 **(c)** In this section, the term “Multilateral Debt Relief Initiative” means the proposal set out in the G8 Finance Ministers’ Communique entitled “Conclusions on Development,” done at London, June 11, 2005, and reaffirmed by G8 Heads of State at the Gleneagles Summit on July 8, 2005.
 
 
-<a id="section-287g"></a>
-## § 287g. Eighteenth replenishment
+<a id="section-287h"></a>
+## § 287h. Eighteenth replenishment
 **(a)** The United States Governor of the International Development Association is authorized to contribute on behalf of the United States $3,291,030,000 to the eighteenth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $3,291,030,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-287h"></a>
-## § 287h. Nineteenth replenishment
+<a id="section-287i"></a>
+## § 287i. Nineteenth replenishment
 **(a) In general** The United States Governor of the International Development Association is authorized to contribute on behalf of the United States $3,004,200,000 to the nineteenth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
 
 **(b) Authorization of appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $3,004,200,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-287i"></a>
-## § 287i. Acceptance of membership by United States in Asian Development Bank
+<a id="section-287j"></a>
+## § 287j. Twentieth replenishment
+**(a) In general** The United States Governor of the International Development Association is authorized to contribute on behalf of the United States $3,500,000,000 to the twentieth replenishment of the resources of the Association, subject to obtaining the necessary appropriations.
+
+**(b) Authorization of appropriations** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $3,500,000,000 for payment by the Secretary of the Treasury.
+
+
+<a id="section-287k"></a>
+## § 287k. Acceptance of membership by United States in Asian Development Bank
 
 The President is hereby authorized to accept membership for the United States in the Asian Development Bank (hereinafter referred to as the “Bank”) provided for by the agreement establishing the Bank (hereinafter referred to as the “agreement”) deposited in the archives of the United Nations.
 
@@ -8792,8 +9141,8 @@ Pub. L. 89–369, § 1, Mar. 16, 1966, 80 Stat. 71, provided: “That this Act [
 For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the Asian Development Bank’s holdings of United States dollars following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriations necessary to provide such maintenance of value, see [section 5152 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5152&num=0&edition=prelim), Money and Finance.
 
 
-<a id="section-287j"></a>
-## § 287j. Appointment of Governor, Alternate Governor and Director; compensation
+<a id="section-287l"></a>
+## § 287l. Appointment of Governor, Alternate Governor and Director; compensation
 **(a)** The President shall appoint—
 
 (1) a Governor of the Bank and an alternate for the Governor—
@@ -8823,8 +9172,8 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
 
 
-<a id="section-287k"></a>
-## § 287k. Coordination of policies and operations
+<a id="section-287m"></a>
+## § 287m. Coordination of policies and operations
 
 The policies and operations of the representatives of the United States on the Bank shall be coordinated with other United States policies in such manner as the President shall direct.
 
@@ -8834,8 +9183,8 @@ The policies and operations of the representatives of the United States on the B
 1989—Pub. L. 101–240 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “An annual report with respect to United States participation in the Bank shall be submitted to the Congress by such agency or officer as the President shall designate.”
 
 
-<a id="section-287l"></a>
-## § 287l. Congressional authorization needed for certain actions
+<a id="section-287n"></a>
+## § 287n. Congressional authorization needed for certain actions
 
 Unless the Congress by law authorizes such action, neither the President nor any person or agency shall, on behalf of the United States, (a) subscribe to additional shares of stock of the Bank; (b) vote for or agree to any amendment of the agreement which increases the obligations of the United States, or which would change the purpose or functions of the Bank; or (c) make a loan or provide other financing to the Bank, except that funds for technical assistance note to exceed $1,000,000 in any one year may be provided to the Bank by a United States agency created pursuant to an Act of Congress which is authorized by law to provide funds to international organizations.
 
@@ -8847,47 +9196,47 @@ Pub. L. 105–118, title V, § 560(a), Nov. 26, 1997, 111 Stat. 2425, provided i
 Pub. L. 103–87, title V, § 526, Sept. 30, 1993, 107 Stat. 952, provided in part that the Secretary of the Treasury is authorized to agree on behalf of the United States to participate in the fifth replenishment of the Asian Development Fund, subject to obtaining the necessary appropriations.
 
 
-<a id="section-287m"></a>
-## § 287m. Federal Reserve banks as depositories
+<a id="section-287o"></a>
+## § 287o. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 
-<a id="section-287n"></a>
-## § 287n. Authorization of appropriations; income covered into Treasury
+<a id="section-287p"></a>
+## § 287p. Authorization of appropriations; income covered into Treasury
 **(a)** There is hereby authorized to be appropriated, without fiscal year limitation, for the purchase of twenty thousand shares of capital stock of the Bank, $200,000,000.
 
 **(b)** Any payment made to the United States by the Bank as a distribution of net income shall be covered into the Treasury as a miscellaneous receipt.
 
 
-<a id="section-287o"></a>
-## § 287o. Jurisdiction and venue of actions
+<a id="section-287q"></a>
+## § 287q. Jurisdiction and venue of actions
 
 For the purpose of any civil action which may be brought within the United States, its territories or possessions, or the Commonwealth of Puerto Rico, by or against the Bank in accordance with the agreement, the Bank shall be deemed to be an inhabitant of the Federal judicial district in which its principal office or agency in the United States is located, and any such action to which the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States, including the courts enumerated in [section 460 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section460&num=0&edition=prelim), shall have original jurisdiction of any such action. When the Bank is a defendant in any action in a State court, it may, at any time before the trial thereof, remove such action into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
 
-<a id="section-287p"></a>
-## § 287p. Status, immunities, and privileges
+<a id="section-287r"></a>
+## § 287r. Status, immunities, and privileges
 
 The agreement, and particularly articles 49 through 56, shall have full force and effect in the United States, its territories and possessions, and the Commonwealth of Puerto Rico, upon acceptance of membership by the United States in, and the establishment of, the Bank. The President, at the time of deposit of the instrument of acceptance of membership by the United States in the Bank, shall also deposit a declaration that the United States retains for itself and its political subdivisions the right to tax salaries and emoluments paid by the Bank to its citizens or nationals.
 
 
-<a id="section-287q"></a>
-## § 287q. Securities issued by Bank as exempt securities; suspension of exemption provisions; reports to and of Securities and Exchange Commission
+<a id="section-287s"></a>
+## § 287s. Securities issued by Bank as exempt securities; suspension of exemption provisions; reports to and of Securities and Exchange Commission
 **(a)** Any securities issued by the Bank (including any guarantee by the Bank, whether or not limited in scope) in connection with raising of funds for inclusion in the Bank’s ordinary capital resources as defined in article 7 of the agreement and any securities guaranteed by the Bank as to both principal and interest to which the commitment in article 6, section 5, of the agreement is expressly applicable, shall be deemed to be exempted securities within the meaning of subsection (a)(2) of [section 77c of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c&num=0&edition=prelim), and subsection (a)(12) of [section 78c of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim). The Bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the Bank and its operations and necessary in the public interest or for the protection of investors.
 
 **(b)** The Securities and Exchange Commission, acting in consultation with such agency or officer as the President shall designate, is authorized to suspend the provisions of subsection (a) at any time as to any or all securities issued or guaranteed by the Bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
 
-<a id="section-287r"></a>
-## § 287r. Authorization for payment of United States contribution; United States Special Resources
+<a id="section-287t"></a>
+## § 287t. Authorization for payment of United States contribution; United States Special Resources
 **(a)** Subject to the provisions of this subchapter, the United States Governor of the Bank is authorized to enter into an agreement with the Bank providing for a United States contribution of $100,000,000 to the Bank in two annual installments of $60,000,000 and $40,000,000, beginning in fiscal year 1972. This contribution is referred to hereinafter in this subchapter as the “United States Special Resources”.
 
 **(b)** The United States Special Resources shall be made available to the Bank pursuant to the provisions of this subchapter and article 19 of the Articles of Agreement of the Bank, and in a manner consistent with the Bank’s Special Funds Rules and Regulations.
 
 
-<a id="section-287s"></a>
-## § 287s. United States Special Resources
+<a id="section-288"></a>
+## § 288. United States Special Resources
 **(a) Development projects and programs** The United States Special Resources shall be used to finance specific high priority development projects and programs in developing member countries of the Bank with emphasis on such projects and programs in the Southeast Asia region.
 
 **(b) Authorized uses** The United States Special Resources shall be used by the Bank only for—
@@ -8910,27 +9259,27 @@ The agreement, and particularly articles 49 through 56, shall have full force an
 Functions of National Advisory Council on International Monetary and Financial Problems delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b).
 
 
-<a id="section-287t"></a>
-## § 287t. Utilization of United States Special Resources
+<a id="section-288a"></a>
+## § 288a. Utilization of United States Special Resources
 **(a)** The letters of credit provided for in section 285l of this title shall be issued to the Bank only to the extent that at the time of issuance the cumulative amount of the United States Special Resources provided to the Bank (A) constitute a minority of all special funds contributions to the Bank, and (B) are no greater than the largest cumulative contribution of any other single country contributing to the special funds of the Bank.
 
 **(b)** The United States Governor of the Bank shall give due regard to the principles of (A) utilizing all special funds resources on an equitable basis, and (B) significantly shared participation by other contributors in each special fund to which United States Special Resources are provided.
 
 
-<a id="section-288"></a>
-## § 288. Letter of credit form for United States Special Resources
+<a id="section-288b"></a>
+## § 288b. Letter of credit form for United States Special Resources
 
 The United States Special Resources will be provided to the Bank in the form of a nonnegotiable, noninterest-bearing, letter of credit which shall be payable to the Bank at par value on demand to meet the cost of eligible goods and services, and administrative costs authorized pursuant to [section 285j(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section285j/c&num=0&edition=prelim).
 
 
-<a id="section-288a"></a>
-## § 288a. Withdrawal rights covering United States Special Resources
+<a id="section-288c"></a>
+## § 288c. Withdrawal rights covering United States Special Resources
 
 The United States shall have the right to withdraw all or part of the United States Special Resources and any accrued resources derived therefrom under the procedures provided for in section 8.03 of the Special Funds Rules and Regulations of the Bank.
 
 
-<a id="section-288b"></a>
-## § 288b. Authorization of appropriations to provide United States Special Resources
+<a id="section-288d"></a>
+## § 288d. Authorization of appropriations to provide United States Special Resources
 
 For the purpose of providing United States Special Resources to the Bank there is hereby authorized to be appropriated $100,000,000, all of which shall remain available until expended.
 
@@ -8940,8 +9289,8 @@ For the purpose of providing United States Special Resources to the Bank there i
 1973—Pub. L. 93–189 substituted “$100,000,000” for “$60,000,000 for the fiscal year 1972 and $40,000,000 for the fiscal year 1973”.
 
 
-<a id="section-288c"></a>
-## § 288c. Expropriation of United States property; loan restrictions
+<a id="section-288e"></a>
+## § 288e. Expropriation of United States property; loan restrictions
 
 The President shall instruct the United States Executive Director of the Asian Development Bank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country which has—
 
@@ -8953,8 +9302,8 @@ The President shall instruct the United States Executive Director of the Asian D
 unless the President determines that (A) an arrangement for prompt, adequate, and effective compensation has been made, (B) the parties have submitted the dispute to arbitration under the rules of the Convention for the Settlement of Investment Disputes, or (C) good faith negotiations are in progress aimed at providing prompt, adequate, and effective compensation under the applicable principles of international law.
 
 
-<a id="section-288d"></a>
-## § 288d. Illegal drug traffic; loan restrictions
+<a id="section-288f"></a>
+## § 288f. Illegal drug traffic; loan restrictions
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Asian Development Bank to vote against any loan or other utilization of the funds of the Bank for the benefit of any country with respect to which the President has made a determination, and so notified the Secretary of the Treasury, that the government of such country has failed to take adequate steps to prevent narcotic drugs and other controlled substances (as defined by the Comprehensive Drug Abuse Prevention and Control Act of 1970 [[21 U.S.C. 801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) et seq.]) produced or processed, in whole or in part, in such country, or transported through such country, from being sold illegally within the jurisdiction of such country to United States Government personnel or their dependents, or from entering the United States unlawfully. Such instruction shall continue in effect until the President determines, and so notifies the Secretary of the Treasury, that the government of such country has taken adequate steps to prevent such sale or entry of narcotic drugs and other controlled substances.
 
@@ -8964,22 +9313,22 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in text, is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, which is classified principally to chapter 13 (§ 801 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 
-<a id="section-288e"></a>
-## § 288e. Subscription to additional shares; authorization of appropriations
+<a id="section-288f-1"></a>
+## § 288f–1. Subscription to additional shares; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized to subscribe on behalf of the United States to thirty thousand additional shares of the capital stock of the Bank in accordance with and subject to the terms and conditions of Resolution Numbered 46 adopted by the Bank’s Board of Governors on November 30, 1971.
 
 **(b)** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there is hereby authorized to be appropriated without fiscal year limitation $361,904,726 for payment by the Secretary of the Treasury.
 
 
-<a id="section-288f"></a>
-## § 288f. Contribution to special funds; authorization of appropriations
+<a id="section-288f-2"></a>
+## § 288f–2. Contribution to special funds; authorization of appropriations
 **(a)** The United States Governor of the Bank is hereby authorized to agree to contribute on behalf of the United States $50,000,000 to the special funds of the Bank. This contribution shall be made available to the Bank pursuant to the provisions of article 19 of the articles of agreement of the Bank.
 
 **(b)** In order to pay for the United States contribution to the special funds, there is hereby authorized to be appropriated without fiscal year limitation $50,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-288f-1"></a>
-## § 288f–1. Additional subscription to shares; authorization of appropriations
+<a id="section-288f-3"></a>
+## § 288f–3. Additional subscription to shares; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized to subscribe on behalf of the United States to sixty-seven thousand and five hundred additional shares of the capital stock of the Bank: Provided, however, That any subscription to additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 **(b)** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated without fiscal year limitation $814,286,250 for payment by the Secretary of the Treasury.
@@ -8996,8 +9345,8 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds auth
 Section effective Oct. 3, 1977, except that no funds authorized to be appropriated by this section may be available for use or obligation prior to Oct. 1, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
 
 
-<a id="section-288f-2"></a>
-## § 288f–2. Additional contribution to special funds; authorization of appropriations
+<a id="section-288f-4"></a>
+## § 288f–4. Additional contribution to special funds; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized to contribute on behalf of the United States $180,000,000 to the Asian Development Fund, a special fund of the Bank: Provided, however, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there are authorized to be appropriated without fiscal year limitation $180,000,000 for payment by the Secretary of the Treasury: Provided, however, That not more than $14,116,177 may be made available for such contribution for the fiscal year 1982.
@@ -9014,8 +9363,8 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds auth
 Section effective Oct. 3, 1977, except that no funds authorized to be appropriated by this section may be available for use or obligation prior to Oct. 1, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
 
 
-<a id="section-288f-3"></a>
-## § 288f–3. Additional contribution to special funds
+<a id="section-288f-5"></a>
+## § 288f–5. Additional contribution to special funds
 **(a) United States share** The United States Governor of the Bank is authorized to contribute on behalf of the United States $378,250,000 to the Asian Development Fund, a special fund of the Bank, except that any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 **(b) Authorization of appropriations; maximum available for certain years** In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $378,250,000 for payment by the Secretary of the Treasury: Provided, however, That not more than $111,250,000 of such sum may be made available for the fiscal year 1982, and not more than $44,500,000 of such sum may be made available for the fiscal year 1983.
@@ -9035,14 +9384,14 @@ Section effective Oct. 3, 1977, except that no funds authorized to be appropriat
 Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
 
 
-<a id="section-288f-4"></a>
-## § 288f–4. Sense of Congress respecting membership of Taiwan in Bank
+<a id="section-288f-6"></a>
+## § 288f–6. Sense of Congress respecting membership of Taiwan in Bank
 
 It is the sense of the Congress that it is the policy of the United States that Taiwan (before January 1, 1979, known as the Republic of China) shall be permitted to retain membership in the Asian Development Bank and that the United States Executive Director of the Bank shall notify the Bank that a serious review of future United States participation, including any future payments to the Asian Development Fund, would ensue if Taiwan were expelled from the Bank.
 
 
-<a id="section-288f-5"></a>
-## § 288f–5. Contribution to Asian Development Fund; authorization of appropriations
+<a id="section-288f-7"></a>
+## § 288f–7. Contribution to Asian Development Fund; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized to contribute on behalf of the United States $66,750,000 to the Asian Development Fund, a special fund of the Bank: Provided, however, That any commitment to make such contribution shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $66,750,000 for payment by the Secretary of the Treasury: Provided, however, That no funds may be made available for such contribution for the fiscal year 1982.
@@ -9053,8 +9402,8 @@ It is the sense of the Congress that it is the policy of the United States that 
 Section effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as a note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
 
 
-<a id="section-288f-6"></a>
-## § 288f–6. Additional subscription to shares
+<a id="section-288g"></a>
+## § 288g. Additional subscription to shares
 **(a) United States share**
 
 (1) The United States Governor of the Bank is authorized to subscribe on behalf of the United States to one hundred twenty-three thousand three hundred and seventy-five additional shares of the capital stock of the Bank.
@@ -9082,8 +9431,8 @@ Section effective Aug. 13, 1981, except that any funds authorized to be appropri
   (C) the Secretary of the Senate and Clerk of the House shall transmit a copy of this resolution to the President with the request that he transmit such copy to the Board of Governors of the Asian Development Bank.
 
 
-<a id="section-288f-7"></a>
-## § 288f–7. Additional contribution to special funds; authorization of appropriations
+<a id="section-288h"></a>
+## § 288h. Additional contribution to special funds; authorization of appropriations
 **(a)**
 
 (1) The United States Governor of the Bank is authorized to contribute on behalf of the United States $520,000,000 to the Asian Development Fund, a special fund of the Bank.
@@ -9093,8 +9442,8 @@ Section effective Aug. 13, 1981, except that any funds authorized to be appropri
 **(b)** In order to pay for the United States contribution to the Asian Development Fund provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $520,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-288g"></a>
-## § 288g. Additional contribution to special funds; authorization of appropriations
+<a id="section-288i"></a>
+## § 288i. Additional contribution to special funds; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized to contribute on behalf of the United States $584,280,000 to the Asian Development Fund, a special Fund of the Bank, except that any commitment to make such contributions shall be made subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $584,280,000 for payment by the Secretary of the Treasury.
@@ -9105,8 +9454,8 @@ Section effective Aug. 13, 1981, except that any funds authorized to be appropri
 Section 29 of Pub. L. 89–369 is based on section 201 of title II of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-288h"></a>
-## § 288h. Capital increase
+<a id="section-288j"></a>
+## § 288j. Capital increase
 **(a) Subscription authorized**
 
 (1) The United States Governor of the Bank may subscribe on behalf of the United States to 35,230 additional shares of the capital stock of the Bank. (2) Any subscription by the United States to the capital stock of the Bank shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
@@ -9114,8 +9463,8 @@ Section 29 of Pub. L. 89–369 is based on section 201 of title II of H.R. 3750,
 **(b) Limitations on authorization of appropriations** In order to pay for the increase in the United States subscription to the Bank provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $213,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-288i"></a>
-## § 288i. Additional contribution to special funds
+<a id="section-288k"></a>
+## § 288k. Additional contribution to special funds
 **(a) Contribution authority**
 
 (1) **In general** — The United States Governor of the Bank may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b), pursuant to the resolution of the Bank entitled “Seventh Replenishment of the Asian Development Fund”.
@@ -9125,8 +9474,8 @@ Section 29 of Pub. L. 89–369 is based on section 201 of title II of H.R. 3750,
 **(b) Limitations on authorization of appropriations** For the contribution authorized by subsection (a), there are authorized to be appropriated such sums as may be necessary for payment by the Secretary of the Treasury, without fiscal year limitation.
 
 
-<a id="section-288j"></a>
-## § 288j. Eighth replenishment
+<a id="section-288l"></a>
+## § 288l. Eighth replenishment
 **(a)** The United States Governor of the Bank is authorized to contribute on behalf of the United States $461,000,000 to the eighth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $461,000,000 for payment by the Secretary of the Treasury.
@@ -9137,15 +9486,15 @@ Section 29 of Pub. L. 89–369 is based on section 201 of title II of H.R. 3750,
 Pub. L. 109–102, title V, § 599C(c), Nov. 14, 2005, 119 Stat. 2243, which directed that this section be added at the end of “the Asian Development Fund Act, Public Law 92–245, as amended ([22 U.S.C. 285](./chapter-007-international-bureaus-congresses-etc.md#section-285) et seq.)”, was executed by adding this section at the end of the Asian Development Bank Act, Pub. L. 89–369, which is classified to this subchapter, to reflect the probable intent of Congress.
 
 
-<a id="section-288k"></a>
-## § 288k. Ninth replenishment
+<a id="section-289"></a>
+## § 289. Ninth replenishment
 **(a)** The United States Governor of the Bank is authorized to contribute, on behalf of the United States, $461,000,000 to the ninth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $461,000,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-288l"></a>
-## § 288l. Fifth capital increase
+<a id="section-289a"></a>
+## § 289a. Fifth capital increase
 **(a) Subscription authorized**
 
 (1) The United States Governor of the Bank may subscribe on behalf of the United States to 1,104,420 additional shares of the capital stock of the Bank.
@@ -9163,22 +9512,29 @@ Pub. L. 109–102, title V, § 599C(c), Nov. 14, 2005, 119 Stat. 2243, which dir
   (B) $12,790,243,843 is authorized to be appropriated for callable shares of the Bank, for payment by the Secretary of the Treasury.
 
 
-<a id="section-289"></a>
-## § 289. Tenth replenishment
+<a id="section-289b"></a>
+## § 289b. Tenth replenishment
 **(a)** The United States Governor of the Bank is authorized to contribute, on behalf of the United States, $359,600,000 to the tenth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $359,600,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-289a"></a>
-## § 289a. Eleventh replenishment
+<a id="section-289c"></a>
+## § 289c. Eleventh replenishment
 **(a)** The United States Governor of the Bank is authorized to contribute, on behalf of the United States, $189,580,000 to the eleventh replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
 
 **(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $189,580,000 for payment by the Secretary of the Treasury.
 
 
-<a id="section-289b"></a>
-## § 289b. Acceptance of membership by United States in International Monetary Fund
+<a id="section-289d"></a>
+## § 289d. Twelfth replenishment
+**(a)** The United States Governor of the Bank is authorized to contribute, on behalf of the United States, $177,440,000 to the twelfth replenishment of the resources of the Fund, subject to obtaining the necessary appropriations.
+
+**(b)** In order to pay for the United States contribution provided for in subsection (a), there are authorized to be appropriated, without fiscal year limitation, $177,440,000 for payment by the Secretary of the Treasury.
+
+
+<a id="section-290"></a>
+## § 290. Acceptance of membership by United States in International Monetary Fund
 
 The President is hereby authorized to accept membership for the United States in the International Monetary Fund (hereinafter referred to as the “Fund”), and in the International Bank for Reconstruction and Development (hereinafter referred to as the “Bank”), provided for by the Articles of Agreement of the Fund and the Articles of Agreement of the Bank as set forth in the Final Act of the United Nations Monetary and Financial Conference dated July 22, 1944, and deposited in the archives of the Department of State.
 
@@ -9194,8 +9550,8 @@ Act July 31, 1945, ch. 339, § 1, 59 Stat. 512, provided: “This act [enacting 
 For Congressional direction that the Secretary of the Treasury maintain the value in terms of gold of the holdings in United States dollars of the International Monetary Fund and of the International Bank for Reconstruction and Development following the establishment of a par value of the dollar at $38 for a fine troy ounce of gold pursuant to the Par Value Modification Act and for the authorization of the appropriation necessary to provide such maintenance of value, see [section 5152 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5152&num=0&edition=prelim), Money and Finance.
 
 
-<a id="section-289c"></a>
-## § 289c. Appointments
+<a id="section-290a"></a>
+## § 290a. Appointments
 **(a) Governors and executive directors; term of office** The President, by and with the advice and consent of the Senate, shall appoint a governor of the Fund who shall also serve as a governor of the Bank, and an executive director of the Fund and an executive director of the Bank. The executive directors so appointed shall also serve as provisional executive directors of the Fund and the Bank for the purposes of the respective Articles of Agreement. The term of office for the governor of the Fund and of the Bank shall be five years. The term of office for the executive directors shall be two years, but the executive directors shall remain in office until their successors have been appointed.
 
 **(b) Alternates; term of office** The President, by and with the advice and consent of the Senate, shall appoint an alternate for the governor of the Fund and an alternate for the governor of the Bank. The President, by and with the advice and consent of the Senate, shall appoint an alternate for each of the executive directors. The alternate for each executive director shall be appointed from among individuals recommended to the President by the executive director. The terms of office for alternates for the governor and the executive directors shall be the same as the terms specified in subsection (a) for the governor and executive directors.
@@ -9228,8 +9584,8 @@ Pub. L. 94–564, § 9, Oct. 19, 1976, 90 Stat. 2661, provided that: “The amen
 Pub. L. 96–389, § 9, Oct. 7, 1980, 94 Stat. 1554, provided that: “The United States Executive Director to the Fund shall seek to insure (a) that Fund salaries do not exceed those levels endorsed by the Fund Bank Joint Committee on Staff Compensation Issues; and (b) that travel costs are minimized by limiting first class and supersonic travel to instances where no reasonable alternative exists.”
 
 
-<a id="section-289d"></a>
-## § 289d. National Advisory Council on International Monetary and Financial Problems
+<a id="section-290b"></a>
+## § 290b. National Advisory Council on International Monetary and Financial Problems
 **(a) Establishment and composition** In order to coordinate the policies and operations of the representatives of the United States on the Fund and the Bank and of all agencies of the Government which make or participate in making foreign loans or which engage in foreign financial, exchange or monetary transactions, there is hereby established the National Advisory Council on International Monetary and Financial Problems (hereinafter referred to as the “Council”), consisting of the Secretary of the Treasury, as Chairman, the Secretary of State, the Secretary of Commerce, the Chairman of the Board of Governors of the Federal Reserve System, the President of the Export-Import Bank of the United States, and during such period as the Foreign Operations Administration shall continue to exist, the Director of the Foreign Operations Administration.
 
 **(b) Duties and functions; reports by Council**
@@ -9333,8 +9689,8 @@ Sec. 6. Effective date. The provisions of this order shall be effective as of Ja
 Sec. 7. Functions of the Secretary of State. The Secretary of State shall advise both the Secretary of the Treasury and the appropriate United States representatives to the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the African Development Fund,, [sic] African Development Bank, Inter-American Investment Corporation, Multilateral Investment Guarantee Agency, and European Bank for Reconstruction and Development on the development aspects of matters relating to those institutions and their activities.
 
 
-<a id="section-290"></a>
-## § 290. Repealed. Pub. L. 101–240, title V, § 541(d)(1), (5), Dec. 19, 1989, 103 Stat. 2518
+<a id="section-290c"></a>
+## § 290c. Repealed. Pub. L. 101–240, title V, § 541(d)(1), (5), Dec. 19, 1989, 103 Stat. 2518
 
 ### Statutory Notes
 
@@ -9343,8 +9699,8 @@ Section 286b–1, Pub. L. 91–599, ch. 3, § 31, Dec. 30, 1970, 84 Stat. 1658, 
 Section 286b–2, act July 31, 1945, ch. 339, § 50, as added Nov. 30, 1983, Pub. L. 98–181, title I [title VIII, § 813], 97 Stat. 1276, related to reports to Congress by National Advisory Council on International Monetary and Financial Policies and Secretary of the Treasury.
 
 
-<a id="section-290a"></a>
-## § 290a. Congressional authorization needed for certain actions
+<a id="section-290d"></a>
+## § 290d. Congressional authorization needed for certain actions
 
 Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States (a) request or consent to any change in the quota of the United States under article III, section 2(a), of the Articles of Agreement of the Fund; (b) propose a par value for the United States dollar under paragraph 2, paragraph 4, or paragraph 10 of schedule C of the Articles of Agreement of the Fund; (c) propose any change in the par value of the United States dollar under paragraph 6 of schedule C of the Articles of Agreement of the Fund, or approve any general change in par values under paragraph 11 of schedule C; (d) subscribe to additional shares of stock under article II, section 3, of the Articles of Agreement of the Bank; (e) accept any amendment under article XXVIII of the Articles of Agreement of the Fund or Article VIII of the Articles of Agreement of the Bank; (f) make any loan to the Fund or the Bank; or (g) approve any disposition of Fund gold, unless the Secretary certifies to the Congress that such disposition is necessary for the Fund to restitute gold to its members, or for the Fund to provide liquidity that will enable the Fund to meet member country claims on the Fund or to meet threats to the systemic stability of the international financial system. Unless Congress by law authorizes such action, no governor or alternate appointed to represent the United States shall vote for an increase of capital stock of the Bank under article II, section 2, of the Articles of Agreement of the Bank, if such increase involves an increased subscription on the part of the United States. Neither the President nor any person or agency shall, on behalf of the United States, consent to any borrowing (other than borrowing from a foreign government or other official public source) by the Fund of funds denominated in United States dollars, unless the Secretary of the Treasury transmits a notice of such proposed borrowing to both Houses of the Congress at least 60 days prior to the date on which such borrowing is scheduled to occur.
 
@@ -9365,14 +9721,14 @@ Unless Congress by law authorizes such action, neither the President nor any per
 Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as a note under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a).
 
 
-<a id="section-290b"></a>
-## § 290b. Federal Reserve banks as depositories
+<a id="section-290e"></a>
+## § 290e. Federal Reserve banks as depositories
 
 Any Federal Reserve bank which is requested to do so by the Fund or the Bank shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 
-<a id="section-290c"></a>
-## § 290c. Payment of subscriptions to Fund and Bank by United States; issuance of special notes; income covered into Treasury
+<a id="section-290e-1"></a>
+## § 290e–1. Payment of subscriptions to Fund and Bank by United States; issuance of special notes; income covered into Treasury
 
 The Secretary of the Treasury is authorized to pay the balance of the subscription of the United States to the Fund not provided for in subsection (a) and to pay the subscription of the United States to the Bank from time to time when payments are required to be made to the Bank. For the purpose of making these payments, the Secretary of the Treasury is authorized to use as a public-debt transaction $8,675,000,000 of the proceeds of any securities hereafter issued under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include such purpose. Payment under this paragraph of the subscription of the United States to the Fund or the Bank and repayments thereof shall be treated as public-debt transactions of the United States.
 
@@ -9395,48 +9751,57 @@ Section is based on subsecs. (b) to (d) of section 7 of act July 31, 1945. Subse
 Pub. L. 96–544, Dec. 17, 1980, 94 Stat. 3213, provided that: “For an increase in the United States quota in the International Monetary Fund, the dollar equivalent of 4,202.5 million Special Drawing Rights (approximately $5,537,839,000), to remain available until expended, and balances equivalent to the current SDR value of the United States quota in the Fund shall be merged with this appropriation. Amounts equivalent to the United States reserve position in the Fund shall be credited to this appropriation. Amounts available in this account may be transferred to the Fund by the Secretary of the Treasury to meet United States obligations in the Fund in an amount not to exceed at any time the United States quota in the Fund. The amounts provided for valuation adjustments of Fund holdings of United States dollars shall continue to be available for this purpose and shall be available for transfers to this appropriation account for the purpose of such adjustments. In the administration of these funds it shall be the policy of the United States: “(1) that the Palestine Liberation Organization should not be given membership in the Fund or be given observer status or any other official status at any meeting sponsored by or associated with the Fund; “(2) that the United States Executive Director of the Fund shall promptly notify the Fund of such policy; “(3) that in the event that the Fund provides either membership, observer status, or any other official status to the Palestine Liberation Organization, such action would result in a serious diminution of United States support; and “(4) that upon review of such action, the President would be required to report his recommendations to the Congress with regard to any further United States participation in the Fund.”
 
 
-<a id="section-290d"></a>
-## § 290d. Increase in quota of United States and in capital stock of Bank; subscription to additional shares
+<a id="section-290f"></a>
+## § 290f. Increase in quota of United States and in capital stock of Bank; subscription to additional shares
 **(a)** The United States Governor of the Fund is authorized to request and consent to an increase of $1,375,000,000 in the quota of the United States under article III, section 2, of the articles of agreement of the Fund, as proposed in the resolution of the Board of Governors of the Fund dated February 2, 1959.
 
 **(b)** The United States Governor of the Bank is authorized (1) to vote for increases in the capital stock of the Bank under article II, section 2, of the articles of agreement of the Bank, as recommended in the resolution of the Board of Governors of the Bank dated February 2, 1959, and (2) if such increases become effective, to subscribe on behalf of the United States to thirty-one thousand seven hundred and fifty additional shares of stock under article II, section 3, of the articles of agreement of the Bank.
 
 
-<a id="section-290e"></a>
-## § 290e. Increase in capital stock of Bank
+<a id="section-290g"></a>
+## § 290g. Increase in capital stock of Bank
 
 The United States Governor of the Bank is authorized to vote for an increase of $1,000,000,000 in the authorized capital stock of the Bank under article II, section 2, of the articles of agreement of the Bank, as recommended in the report, dated November 6, 1962, to the Board of Governors of the Bank by the Bank’s Executive Directors.
 
 
-<a id="section-290e-1"></a>
-## § 290e–1. Increase in quota of United States; authorization of appropriations
+<a id="section-290g-1"></a>
+## § 290g–1. Increase in quota of United States; authorization of appropriations
 **(a)** The United States Governor of the Fund is authorized to consent to an increase of $1,035,000,000 in the quota of the United States in the Fund.
 
 **(b)** In order to pay the increase in the United States subscription to the Fund provided for in this section, there is hereby authorized to be appropriated $1,035,000,000, to remain available until expended.
 
 
-<a id="section-290f"></a>
-## § 290f. Additional increase in quota of United States
-**(a)** The United States Governor of the Fund is authorized to consent to an increase of $1,540,000,000 in the quota of the United States in the Fund.
-
-**(b)** In order to pay the increase in the United States quota in the Fund provided for in this section, there is hereby authorized to be appropriated $1,540,000,000, to remain available until expended.
-
-
-<a id="section-290g"></a>
-## § 290g. Increase in capital stock of Bank; subscription to additional shares; authorization of appropriations
-**(a)** The United States Governor of the Bank is authorized (1) to vote for an increase of $3,000,000,000 in the authorized capital stock of the Bank, and (2) if such increase becomes effective, to subscribe on behalf of the United States to two thousand four hundred and sixty-one additional shares of the capital stock of the Bank.
-
-**(b)** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there is hereby authorized to be appropriated $246,100,000 to remain available until expended.
-
-
-<a id="section-290g-1"></a>
-## § 290g–1. Equivalent increase in quota of United States
-
-The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 1,705 million Special Drawing Rights.
-
-
 <a id="section-290g-10"></a>
-## § 290g–10. Loans to Fund
+## § 290g–10. Capital stock increase
+**(a) Increase authorized** The United States Governor of the Bank is authorized—
+
+(1) to vote for an increase of 620,000 shares in the authorized capital stock of the Bank; and
+
+(2) to subscribe on behalf of the United States to 116,262 additional shares of the capital stock of the Bank, except that any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+**(b) Authorization of appropriations** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $14,025,266,370, for payment by the Secretary of the Treasury.
+
+### Statutory Notes
+
+#### Codification
+Section 53 of act July 31, 1945, is based on section 1 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
+
+
+<a id="section-290g-11"></a>
+## § 290g–11. Quota increase to 8,608,500,000 Special Drawing Rights
+
+The United States Governor of the Fund may consent to an increase in the quota of the United States in the Fund equivalent to 8,608,500,000 Special Drawing Rights, limited to such amounts as are provided in advance in appropriations Acts.
+
+
+<a id="section-290g-12"></a>
+## § 290g–12. Quota increase to 10,622,500,000 Special Drawing Rights
+**(a) In general** The United States Governor of the Fund may consent to an increase in the quota of the United States in the Fund equivalent to 10,622,500,000 Special Drawing Rights.
+
+**(b) Subject to appropriations** The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+
+<a id="section-290g-13"></a>
+## § 290g–13. Loans to Fund
 **(a) Limitations**
 
 (1) In order to carry out the purposes of the decisions of January 5, 1962, February 24, 1983, and January 27, 1997, as amended in accordance with their terms, of the Executive Directors of the International Monetary Fund, the Secretary of the Treasury is authorized to make loans, in an amount not to exceed the equivalent of 6,712,000,000 Special Drawing Rights, limited to such amounts as are provided in advance in appropriations Acts, except that prior to activation, the Secretary of the Treasury shall certify that supplementary resources are needed to forestall or cope with an impairment of the international monetary system and that the Fund has fully explored other means of funding, to the Fund under article VII, section 1(i), of the Articles of Agreement of the Fund. Any loan under the authority granted in this subsection shall be made with due regard to the present and prospective balance of payments and reserve position of the United States.
@@ -9459,7 +9824,7 @@ The United States Governor of the Fund is authorized to consent to an increase i
 
 (5) Not later than 15 days before submitting the certification under paragraph (4), the Secretary of the Treasury shall consult with the appropriate congressional committees regarding such certification.
 
-(6) The authority to make loans under this section shall expire on December 31, 2025.
+(6) The authority to make loans under this section shall expire on December 31, 2030.
 
 **(b) Authorization of appropriations; repayments available for loans to Fund**
 
@@ -9486,6 +9851,8 @@ The United States Governor of the Fund is authorized to consent to an increase i
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(6). Pub. L. 118–47 substituted “December 31, 2030” for “December 31, 2025”.
+
 2020—Subsec. (a)(3), (4). Pub. L. 116–136, § 21012(b)(5)(A)(i)(I), (II), added par. (3) and redesignated former par. (3) as (4). Former par. (4) redesignated (5).
 
 Subsec. (a)(5). Pub. L. 116–136, § 21012(b)(5)(A)(i)(I), (III), redesignated par. (4) as (5) and substituted “paragraph (4)” for “paragraph (3)”. Former par. (5) redesignated (6).
@@ -9531,8 +9898,8 @@ Pub. L. 114–113, div. K, title IX, § 9001(3), Dec. 18, 2015, 129 Stat. 2829, 
 Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as a note under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a).
 
 
-<a id="section-290g-11"></a>
-## § 290g–11. Transfers to stabilization fund of purchase of currencies or gold from International Monetary Fund; administration; utilization of fund resources for repayments
+<a id="section-290g-14"></a>
+## § 290g–14. Transfers to stabilization fund of purchase of currencies or gold from International Monetary Fund; administration; utilization of fund resources for repayments
 
 Any purchases of currencies or gold by the United States from the International Monetary Fund may be transferred to and administered by the fund established by [section 5302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5302&num=0&edition=prelim), for use in accordance with the provisions of that section. The Secretary of the Treasury is authorized to utilize the resources of that fund for the purpose of any repayments in connection with such transactions.
 
@@ -9542,20 +9909,20 @@ Any purchases of currencies or gold by the United States from the International 
 “[Section 5302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5302&num=0&edition=prelim)” substituted in text for “section 10 of the Gold Reserve Act of 1934, as amended ([31 U.S.C. 822a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section822a&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 
-<a id="section-290g-12"></a>
-## § 290g–12. Loans to International Finance Corporation; amendment to Articles of Agreement
+<a id="section-290g-15"></a>
+## § 290g–15. Loans to International Finance Corporation; amendment to Articles of Agreement
 
 The United States Governor of the Bank is authorized to agree to an amendment to the articles of agreement of the Bank to permit the Bank to make, participate in, or guarantee loans to the International Finance Corporation for use in the lending operations of the latter.
 
 
-<a id="section-290g-13"></a>
-## § 290g–13. Amendments to Articles of Agreement
+<a id="section-290g-16"></a>
+## § 290g–16. Amendments to Articles of Agreement
 
 The United States Governor of the Fund is authorized to accept the amendments to the Articles of Agreement of the Fund approved in resolution numbered 31–4 of the Board of Governors of the Fund.
 
 
-<a id="section-290g-14"></a>
-## § 290g–14. Additional amendments to Articles of Agreement
+<a id="section-290g-17"></a>
+## § 290g–17. Additional amendments to Articles of Agreement
 
 The United States Governor of the Bank is hereby authorized to agree to and to accept the amendment to the Articles of Agreement in the proposed resolution entitled “Amendment to the Articles of Agreement of the Bank”, forwarded to the United States on February 27, 1987.
 
@@ -9565,20 +9932,27 @@ The United States Governor of the Bank is hereby authorized to agree to and to a
 Section 52 of act July 31, 1945, is based on section 601 of title VI of H.R. 3750, One Hundredth Congress, as introduced Dec. 11, 1987, and enacted into law by Pub. L. 100–202.
 
 
-<a id="section-290g-15"></a>
-## § 290g–15. Acceptance of amendments to Articles of Agreement of the Fund approved on June 28, 1990
+<a id="section-290g-18"></a>
+## § 290g–18. Acceptance of amendments to Articles of Agreement of the Fund approved on June 28, 1990
 
 The United States Governor of the Fund may agree to and accept the amendments to the Articles of Agreement of the Fund as proposed in the resolution numbered 45–3 of the Board of Governors of the Fund that was approved by such Board on June 28, 1990.
 
 
-<a id="section-290g-16"></a>
-## § 290g–16. Vote against establishment of Council
+<a id="section-290g-19"></a>
+## § 290g–19. Vote against establishment of Council
 
 The United States Governor of the Fund is directed to vote against the establishment of a Council authorized under Article XII, Section 1 of the Fund Articles of Agreement as amended, if under any circumstances the United States’ vote in the Council would be less than its weighted vote in the Fund.
 
 
-<a id="section-290g-17"></a>
-## § 290g–17. Supplementary Financing Facility
+<a id="section-290g-2"></a>
+## § 290g–2. Additional increase in quota of United States
+**(a)** The United States Governor of the Fund is authorized to consent to an increase of $1,540,000,000 in the quota of the United States in the Fund.
+
+**(b)** In order to pay the increase in the United States quota in the Fund provided for in this section, there is hereby authorized to be appropriated $1,540,000,000, to remain available until expended.
+
+
+<a id="section-290g-20"></a>
+## § 290g–20. Supplementary Financing Facility
 **(a) Availability of resources** For the purpose of participation of the United States in the Supplementary Financing Facility (hereinafter referred to as the “facility”) established by the decision numbered 5508–(77/127) of the Executive Directors of the Fund, the Secretary of the Treasury is authorized to make resources available as provided in the decision numbered 5509–(77/127) of the Fund, in an amount not to exceed the equivalent of 1,450 million Special Drawing Rights.
 
 **(b) Adjustments in the value of monetary assets** The Secretary of the Treasury shall account, through the fund established by [section 5302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5302&num=0&edition=prelim), for any adjustment in the value of monetary assets held by the United States in respect of United States participation in the facility.
@@ -9591,8 +9965,8 @@ The United States Governor of the Fund is directed to vote against the establish
 In subsec. (b), “[section 5302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5302&num=0&edition=prelim)” substituted for “section 10 of the Gold Reserve Act of 1934, as amended ([31 U.S.C. 822a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section822a&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 
-<a id="section-290g-18"></a>
-## § 290g–18. Treatment of creditors in debt rescheduling
+<a id="section-290g-21"></a>
+## § 290g–21. Treatment of creditors in debt rescheduling
 
 The Secretary of the Treasury shall instruct the United States executive director to seek to assure that no decision by the International Monetary Fund undermines or departs from United States policy regarding the comparability of treatment of public and private creditors in cases of debt rescheduling where official United States credits are involved.
 
@@ -9605,8 +9979,8 @@ The Secretary of the Treasury shall instruct the United States executive directo
 Amendment by Pub. L. 96–389 effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as an Effective Date note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
 
 
-<a id="section-290g-19"></a>
-## § 290g–19. Stabilization programs
+<a id="section-290g-22"></a>
+## § 290g–22. Stabilization programs
 
 The Secretary of the Treasury shall instruct the United States executive director on the Executive Board of the International Monetary Fund to initiate a wide consultation with the managing director of the Fund and other member country executive directors with regard to encouraging the staff of the Fund to formulate stabilization programs which, to the maximum feasible extent, foster a broader base of productive investment and employment, especially in those productive activities which are designed to meet basic human needs.
 
@@ -9623,8 +9997,64 @@ Subsec. (b). Pub. L. 96–389, § 2(b)(2), (3), struck out “entered into pursu
 Amendment by Pub. L. 96–389 effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as an Effective Date note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
 
 
-<a id="section-290g-2"></a>
-## § 290g–2. Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations
+<a id="section-290g-23"></a>
+## § 290g–23. Repealed. Pub. L. 97–35, title XIII, § 1371(a)(1), Aug. 13, 1981, 95 Stat. 746
+
+### Statutory Notes
+
+Section, act July 31, 1945, ch. 339, § 31, as added Oct. 10, 1978, Pub. L. 95–435, § 4, 92 Stat. 1052, required an annual report to Congress on the status of internationally recognized human rights in each country which draws on funds under the Supplementary Financing Facility of the International Monetary Fund.
+
+#### Effective Date of Repeal
+Repeal effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
+
+
+<a id="section-290g-24"></a>
+## § 290g–24. Assistance by the Fund to any country harboring international terrorists
+
+The Secretary of the Treasury shall instruct the Executive Director of the United States to the International Monetary Fund to work in opposition to any extension of financial or technical assistance by the Supplemental Financing Facility or by any other agency or facility of such Fund to any country the government of which—
+
+(1) permits entry into the territory of such country to any person who has committed an act of international terrorism, including any act of aircraft hijacking, or otherwise supports, encourages, or harbors such person; or
+
+(2) fails to take appropriate measures to prevent any such person from committing any such act outside the territory of such country.
+
+### Statutory Notes
+
+#### Codification
+Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreements Act, which comprises this subchapter.
+
+
+<a id="section-290g-25"></a>
+## § 290g–25. Contribution to Interest Subsidy Account of Enhanced Structural Adjustment Facility of International Monetary Fund
+**(a) Contribution authorized**
+
+(1) **In general** — Subject to paragraph (2), the United States Governor of the Fund may contribute $150,000,000 to the Interest Subsidy Account of the Enhanced Structural Adjustment Facility of the Fund on behalf of the United States.
+
+(2) **Condition** — The United States Governor of the Fund may not make a commitment to contribute any amount authorized to be contributed under paragraph (1) before an amount equal to such amount has been appropriated for such purpose.
+
+**(b) Limitation on authorization of appropriations** To pay for the contribution authorized by subsection (a), there are authorized to be appropriated not to exceed $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
+
+
+<a id="section-290g-26"></a>
+## § 290g–26. Approval of fund pledge to sell gold to provide resources for Reserve Account of Enhanced Structural Adjustment Facility Trust
+
+The Secretary of the Treasury is authorized to instruct the United States Executive Director of the Fund to vote to approve the Fund’s pledge to sell, if needed, up to 3,000,000 ounces of the Fund’s gold, to restore the resources of the Reserve Account of the Enhanced Structural Adjustment Facility Trust to a level that would be sufficient to meet obligations of the Trust payable to lenders which have made loans to the Loan Account of the Trust that have been used for the purpose of financing programs to Fund members previously in arrears to the Fund.
+
+
+<a id="section-290g-3"></a>
+## § 290g–3. Increase in capital stock of Bank; subscription to additional shares; authorization of appropriations
+**(a)** The United States Governor of the Bank is authorized (1) to vote for an increase of $3,000,000,000 in the authorized capital stock of the Bank, and (2) if such increase becomes effective, to subscribe on behalf of the United States to two thousand four hundred and sixty-one additional shares of the capital stock of the Bank.
+
+**(b)** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there is hereby authorized to be appropriated $246,100,000 to remain available until expended.
+
+
+<a id="section-290g-4"></a>
+## § 290g–4. Equivalent increase in quota of United States
+
+The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 1,705 million Special Drawing Rights.
+
+
+<a id="section-290g-5"></a>
+## § 290g–5. Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations
 **(a)** The United States Governor of the Bank is authorized—
 
 (1) to vote for an increase of seventy thousand shares in the authorized capital stock of the Bank; and
@@ -9645,51 +10075,81 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, except that any funds auth
 Section effective Oct. 3, 1977, except that no funds authorized to be appropriated by this section may be available for use or obligation prior to Oct. 1, 1977, see section 1001 of Pub. L. 95–118, set out as a note under [section 282i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-282i).
 
 
-<a id="section-290g-20"></a>
-## § 290g–20. Repealed. Pub. L. 97–35, title XIII, § 1371(a)(1), Aug. 13, 1981, 95 Stat. 746
+<a id="section-290g-6"></a>
+## § 290g–6. Additional increase in quota of United States; condition
+
+The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 4,202.5 million Special Drawing Rights, limited to such amounts as are appropriated in advance in appropriation Acts.
 
 ### Statutory Notes
 
-Section, act July 31, 1945, ch. 339, § 31, as added Oct. 10, 1978, Pub. L. 95–435, § 4, 92 Stat. 1052, required an annual report to Congress on the status of internationally recognized human rights in each country which draws on funds under the Supplementary Financing Facility of the International Monetary Fund.
+#### Amendments
+1980—Pub. L. 96–389, § 11, substituted “limited to such amounts as are appropriated in advance in appropriation Acts” for “to such extent or in such amounts as are provided in appropriations Acts”.
 
-#### Effective Date of Repeal
-Repeal effective Aug. 13, 1981, see section 1372 of Pub. L. 97–35, set out as an Effective Date note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
+#### Effective Date
+Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
 
 
-<a id="section-290g-21"></a>
-## § 290g–21. Assistance by the Fund to any country harboring international terrorists
+<a id="section-290g-7"></a>
+## § 290g–7. Increase of subscription of stock; authority of United States Governor of Bank; authorization of appropriations
+**(a)** The United States Governor of the Bank is authorized—
 
-The Secretary of the Treasury shall instruct the Executive Director of the United States to the International Monetary Fund to work in opposition to any extension of financial or technical assistance by the Supplemental Financing Facility or by any other agency or facility of such Fund to any country the government of which—
+(1) to vote to increase by three hundred and sixty-five thousand shares the authorized capital stock of the Bank; and
 
-(1) permits entry into the territory of such country to any person who has committed an act of international terrorism, including any act of aircraft hijacking, or otherwise supports, encourages, or harbors such person; or
+(2) to subscribe on behalf of the United States to not more than seventy-three thousand and ten shares of the capital stock of the Bank: Provided, however, That not more than seven and one-half percent ($658,305,195) of the price of the shares subscribed may be paid in to the Bank on subscription, with the remainder of that price ($8,149,256,155) being subject to call only when a call on unpaid subscriptions is required to meet obligations of the Bank for funds borrowed or on loans guaranteed by it and not for use by the Bank in its lending activities or for administrative expenses: Provided further, That any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
-(2) fails to take appropriate measures to prevent any such person from committing any such act outside the territory of such country.
+**(b)** In order to pay for the paid-in portion of the United States subscription to the Bank provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $658,305,195 for payment by the Secretary of the Treasury: Provided, however, That not more than $109,720,549 of such sum may be made available for each of the fiscal years 1982, 1983, and 1984.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as a note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
+
+
+<a id="section-290g-8"></a>
+## § 290g–8. Increase in United States quota; consultations with Congress
+**(a)** The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 5,310,800,000 Special Drawing Rights, limited to such amounts as are provided in advance in appropriations Acts.
+
+**(b)**
+
+(1) The Secretary of the Treasury shall consult with the chairman and the ranking minority member of—
+
+  (A) the Committee on Banking, Finance and Urban Affairs and the Committee on Appropriations of the House of Representatives, and any appropriate subcommittee of each such committee; and
+
+  (B) the committee on Foreign Relations, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate, and any appropriate subcommittee of each such committee,
+  for purposes of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider any future quota increase for the International Monetary Fund which may involve an increased contribution, subscription, or loan by the United States.
+
+(2) Such consultation shall be made—
+
+  (A) not later than thirty days before the initiation of such international negotiations;
+
+  (B) during the period in which such negotiations are being held, in a frequent and timely manner; and
+
+  (C) before a session of such negotiations is held at which the United States representatives may agree to such quota increase.
+
+### Statutory Notes
+
+#### Change of Name
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+
+<a id="section-290g-9"></a>
+## § 290g–9. Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations
+**(a)** The United States Governor of the Bank is authorized—
+
+(1) to vote for an increase of seventy thousand shares in the authorized capital stock of the Bank; and
+
+(2) to subscribe on behalf of the United States to twelve thousand four hundred and fifty-three additional shares of the capital stock of the Bank, except that any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
+
+**(b)** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $1,502,267,655 for payment by the Secretary of the Treasury.
 
 ### Statutory Notes
 
 #### Codification
-Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreements Act, which comprises this subchapter.
+Section 51 of act July 31, 1945, is based on section 301 of title III of H.R. 2253, Ninety-ninth Congress, as reported May 15, 1985, and enacted into law by Pub. L. 99–190.
 
 
-<a id="section-290g-22"></a>
-## § 290g–22. Contribution to Interest Subsidy Account of Enhanced Structural Adjustment Facility of International Monetary Fund
-**(a) Contribution authorized**
-
-(1) **In general** — Subject to paragraph (2), the United States Governor of the Fund may contribute $150,000,000 to the Interest Subsidy Account of the Enhanced Structural Adjustment Facility of the Fund on behalf of the United States.
-
-(2) **Condition** — The United States Governor of the Fund may not make a commitment to contribute any amount authorized to be contributed under paragraph (1) before an amount equal to such amount has been appropriated for such purpose.
-
-**(b) Limitation on authorization of appropriations** To pay for the contribution authorized by subsection (a), there are authorized to be appropriated not to exceed $150,000,000, without fiscal year limitation, for payment by the Secretary of the Treasury.
-
-
-<a id="section-290g-23"></a>
-## § 290g–23. Approval of fund pledge to sell gold to provide resources for Reserve Account of Enhanced Structural Adjustment Facility Trust
-
-The Secretary of the Treasury is authorized to instruct the United States Executive Director of the Fund to vote to approve the Fund’s pledge to sell, if needed, up to 3,000,000 ounces of the Fund’s gold, to restore the resources of the Reserve Account of the Enhanced Structural Adjustment Facility Trust to a level that would be sufficient to meet obligations of the Trust payable to lenders which have made loans to the Loan Account of the Trust that have been used for the purpose of financing programs to Fund members previously in arrears to the Fund.
-
-
-<a id="section-290g-24"></a>
-## § 290g–24. Obtaining and furnishing information to the Fund
+<a id="section-290h"></a>
+## § 290h. Obtaining and furnishing information to the Fund
 **(a) Required disclosure** Whenever a request is made by the Fund to the United States as a member to furnish data under article VIII, section 5, of the Articles of Agreement of the Fund, the President may, through any agency he may designate, require any person to furnish such information as the President may determine to be essential to comply with such request. In making such determination the President shall seek to collect the information only in such detail as is necessary to comply with the request of the Fund. No information so acquired shall be furnished to the Fund in such detail that the affairs of any person are disclosed.
 
 **(b) Penalty for refusal** In the event any person refuses to furnish such information when requested to do so, the President, through any designated governmental agency, may by subpoena require such person to appear and testify or to appear and produce records and other documents, or both. In case of contumacy by, or refusal to obey a subpoena served upon any such person, the district court for any district in which such person is found or resides or transacts business, upon application by the President or any governmental agency designated by him, shall have jurisdiction to issue an order requiring such person to appear and give testimony or appear and produce records and documents, or both; and any failure to obey such order of the court may be punished by such court as a contempt thereof.
@@ -9754,135 +10214,33 @@ Sec. 6. To the extent that this order conflicts with any previous Executive orde
 Sec. 7. [Revoked by Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833]
 
 
-<a id="section-290g-25"></a>
-## § 290g–25. Jurisdiction and venue of actions
+<a id="section-290h-1"></a>
+## § 290h–1. Jurisdiction and venue of actions
 
 For the purpose of any action which may be brought within the United States or its Territories or possessions by or against the Fund or the Bank in accordance with the Articles of Agreement of the Fund or the Articles of Agreement of the Bank, the Fund or the Bank, as the case may be, shall be deemed to be an inhabitant of the Federal judicial district in which its principal office in the United States is located, and any such action at law or in equity to which either the Fund or the Bank shall be a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of any such action. When either the Fund or the Bank is a defendant in any such action, it may, at any time before the trial thereof, remove such action from a State court into the district court of the United States for the proper district by following the procedure for removal of causes otherwise provided by law.
 
 
-<a id="section-290g-3"></a>
-## § 290g–3. Additional increase in quota of United States; condition
-
-The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 4,202.5 million Special Drawing Rights, limited to such amounts as are appropriated in advance in appropriation Acts.
-
-### Statutory Notes
-
-#### Amendments
-1980—Pub. L. 96–389, § 11, substituted “limited to such amounts as are appropriated in advance in appropriation Acts” for “to such extent or in such amounts as are provided in appropriations Acts”.
-
-#### Effective Date
-Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
-
-
-<a id="section-290g-4"></a>
-## § 290g–4. Increase of subscription of stock; authority of United States Governor of Bank; authorization of appropriations
-**(a)** The United States Governor of the Bank is authorized—
-
-(1) to vote to increase by three hundred and sixty-five thousand shares the authorized capital stock of the Bank; and
-
-(2) to subscribe on behalf of the United States to not more than seventy-three thousand and ten shares of the capital stock of the Bank: Provided, however, That not more than seven and one-half percent ($658,305,195) of the price of the shares subscribed may be paid in to the Bank on subscription, with the remainder of that price ($8,149,256,155) being subject to call only when a call on unpaid subscriptions is required to meet obligations of the Bank for funds borrowed or on loans guaranteed by it and not for use by the Bank in its lending activities or for administrative expenses: Provided further, That any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
-
-**(b)** In order to pay for the paid-in portion of the United States subscription to the Bank provided for in this section, there is authorized to be appropriated, without fiscal year limitation, $658,305,195 for payment by the Secretary of the Treasury: Provided, however, That not more than $109,720,549 of such sum may be made available for each of the fiscal years 1982, 1983, and 1984.
-
-### Statutory Notes
-
-#### Effective Date
-Section effective Aug. 13, 1981, except that any funds authorized to be appropriated shall not be available for use or obligation prior to Oct. 1, 1981, see section 1372 of Pub. L. 97–35, set out as a note under [section 290i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-290i).
-
-
-<a id="section-290g-5"></a>
-## § 290g–5. Increase in United States quota; consultations with Congress
-**(a)** The United States Governor of the Fund is authorized to consent to an increase in the quota of the United States in the Fund equivalent to 5,310,800,000 Special Drawing Rights, limited to such amounts as are provided in advance in appropriations Acts.
-
-**(b)**
-
-(1) The Secretary of the Treasury shall consult with the chairman and the ranking minority member of—
-
-  (A) the Committee on Banking, Finance and Urban Affairs and the Committee on Appropriations of the House of Representatives, and any appropriate subcommittee of each such committee; and
-
-  (B) the committee on Foreign Relations, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate, and any appropriate subcommittee of each such committee,
-  for purposes of discussing the position of the executive branch and the views of the Congress with respect to any international negotiations being held to consider any future quota increase for the International Monetary Fund which may involve an increased contribution, subscription, or loan by the United States.
-
-(2) Such consultation shall be made—
-
-  (A) not later than thirty days before the initiation of such international negotiations;
-
-  (B) during the period in which such negotiations are being held, in a frequent and timely manner; and
-
-  (C) before a session of such negotiations is held at which the United States representatives may agree to such quota increase.
-
-### Statutory Notes
-
-#### Change of Name
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-
-<a id="section-290g-6"></a>
-## § 290g–6. Additional increase in capital stock of Bank; subscription to additional shares; authorization of appropriations
-**(a)** The United States Governor of the Bank is authorized—
-
-(1) to vote for an increase of seventy thousand shares in the authorized capital stock of the Bank; and
-
-(2) to subscribe on behalf of the United States to twelve thousand four hundred and fifty-three additional shares of the capital stock of the Bank, except that any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
-
-**(b)** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $1,502,267,655 for payment by the Secretary of the Treasury.
-
-### Statutory Notes
-
-#### Codification
-Section 51 of act July 31, 1945, is based on section 301 of title III of H.R. 2253, Ninety-ninth Congress, as reported May 15, 1985, and enacted into law by Pub. L. 99–190.
-
-
-<a id="section-290g-7"></a>
-## § 290g–7. Capital stock increase
-**(a) Increase authorized** The United States Governor of the Bank is authorized—
-
-(1) to vote for an increase of 620,000 shares in the authorized capital stock of the Bank; and
-
-(2) to subscribe on behalf of the United States to 116,262 additional shares of the capital stock of the Bank, except that any subscription to such additional shares shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
-
-**(b) Authorization of appropriations** In order to pay for the increase in the United States subscription to the Bank provided for in this section, there are authorized to be appropriated, without fiscal year limitation, $14,025,266,370, for payment by the Secretary of the Treasury.
-
-### Statutory Notes
-
-#### Codification
-Section 53 of act July 31, 1945, is based on section 1 of H.R. 4645, One Hundredth Congress, as reported Sept. 28, 1988, and enacted into law by Pub. L. 100–461.
-
-
-<a id="section-290g-8"></a>
-## § 290g–8. Quota increase to 8,608,500,000 Special Drawing Rights
-
-The United States Governor of the Fund may consent to an increase in the quota of the United States in the Fund equivalent to 8,608,500,000 Special Drawing Rights, limited to such amounts as are provided in advance in appropriations Acts.
-
-
-<a id="section-290g-9"></a>
-## § 290g–9. Quota increase to 10,622,500,000 Special Drawing Rights
-**(a) In general** The United States Governor of the Fund may consent to an increase in the quota of the United States in the Fund equivalent to 10,622,500,000 Special Drawing Rights.
-
-**(b) Subject to appropriations** The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
-
-
-<a id="section-290h"></a>
-## § 290h. Status, privileges, and immunities of the United States
+<a id="section-290h-2"></a>
+## § 290h–2. Status, privileges, and immunities of the United States
 
 The provisions of article IX, sections 2 to 9, both inclusive, and the first sentence of article VIII, section 2(b), of the Articles of Agreement of the Fund, and the provisions of article VI, section 5(i), and article VII, sections 2 to 9, both inclusive, of the Articles of Agreement of the Bank, shall have full force and effect in the United States and its Territories and possessions upon acceptance of membership by the United States in, and the establishment of, the Fund and the Bank, respectively.
 
 
-<a id="section-290h-1"></a>
-## § 290h–1. Stabilization loans by Bank; amendment to Articles of Agreement
+<a id="section-290h-3"></a>
+## § 290h–3. Stabilization loans by Bank; amendment to Articles of Agreement
 
 The governor and executive director of the Bank appointed by the United States are directed to obtain promptly an official interpretation by the Bank as to its authority to make or guarantee loans for programs of economic reconstruction and the reconstruction of monetary systems, including long-term stabilization loans. If the Bank does not interpret its powers to include the making or guaranteeing of such loans, the governor of the Bank representing the United States is directed to propose promptly and support an amendment to the Articles of Agreement for the purpose of explicitly authorizing the Bank, after consultation with the Fund, to make or guarantee such loans. The President is authorized and directed to accept an amendment to that effect on behalf of the United States.
 
 
-<a id="section-290h-2"></a>
-## § 290h–2. Use of Fund resources
+<a id="section-290h-4"></a>
+## § 290h–4. Use of Fund resources
 **(a) Official interpretation of authority of Fund** The governor and executive director of the Fund appointed by the United States are directed to obtain promptly an official interpretation by the Fund as to whether its authority to use its resources extends beyond current monetary stabilization operations to afford temporary assistance to members in connection with seasonal, cyclical, and emergency fluctuations in the balance of payment of any member for current transactions, and whether it has authority to use its resources to provide facilities for relief, reconstruction, or armaments, or to meet a large or sustained outflow of capital on the part of any member.
 
 **(b) Proposal of amendment** If the interpretation by the Fund answers in the affirmative any of the questions stated in subsection (a), the governor of the Fund representing the United States is directed to propose promptly and support an amendment to the Articles of Agreement for the purpose of expressly negativing such interpretation. The President is authorized and directed to accept an amendment to that effect on behalf of the United States.
 
 
-<a id="section-290h-3"></a>
-## § 290h–3. Further promotion of international economic relations
+<a id="section-290h-5"></a>
+## § 290h–5. Further promotion of international economic relations
 **(a) Congressional declaration of policy** In the realization that additional measures of international economic cooperation are necessary to facilitate the expansion and balanced growth of international trade and render most effective the operations of the Fund and the Bank, it is declared to be the policy of the United States to seek to bring about further agreement and cooperation among nations and international bodies, as soon as possible, on ways and means which will best reduce obstacles to and restrictions upon international trade, eliminate unfair trade practices, promote mutually advantageous commercial relations, and otherwise facilitate the expansion and balanced growth of international trade and promote the stability of international economic relations. In considering the policies of the United States in foreign lending and the policies of the Fund and the Bank, particularly in conducting exchange transactions, the Council and the United States representatives on the Fund and the Bank shall give careful consideration to the progress which has been made in achieving such agreement and cooperation.
 
 **(b) Transmittal of information to Congressional committees** The President shall, upon the request of any committee of the Congress with legislative or oversight jurisdiction over monetary policy or the International Monetary Fund, provide to such committee any appropriate information relevant to that committee’s jurisdiction which is furnished to any department or agency of the United States by the International Monetary Fund. The President shall comply with this provision consistent with United States membership obligations in the International Monetary Fund and subject to such limitations as are appropriate to the sensitive nature of the information.
@@ -9893,8 +10251,8 @@ The governor and executive director of the Bank appointed by the United States a
 1977—Pub. L. 95–147 designated existing provisions as subsec. (a) and added subsec. (b).
 
 
-<a id="section-290h-4"></a>
-## § 290h–4. Securities issued by Bank as exempt securities; reports filed with Security and Exchange Commission
+<a id="section-290h-6"></a>
+## § 290h–6. Securities issued by Bank as exempt securities; reports filed with Security and Exchange Commission
 **(a)** Any securities issued by International Bank for Reconstruction and Development (including any guaranty by the bank, whether or not limited in scope), and any securities guaranteed by the bank as to both principal and interest, shall be deemed to be exempted securities within the meaning of subsection (a)(2) of [section 77c of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77c&num=0&edition=prelim), and subsection (a)(12) of [section 78c of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim). The bank shall file with the Securities and Exchange Commission such annual and other reports with regard to such securities as the Commission shall determine to be appropriate in view of the special character of the bank and its operations and necessary in the public interest or for the protection of investors.
 
 **(b)** Repealed. Pub. L. 101–240, title V, § 541(d)(1), Dec. 19, 1989, 103 Stat. 2518.
@@ -9905,8 +10263,8 @@ The governor and executive director of the Bank appointed by the United States a
 1989—Subsec. (b). Pub. L. 101–240 struck out subsec. (b) which related to contents of National Advisory Council reports provided for in [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b).
 
 
-<a id="section-290h-5"></a>
-## § 290h–5. Suspension of right of International Bank to issue securities under section 286k–1; report of Securities and Exchange Commission
+<a id="section-290h-7"></a>
+## § 290h–7. Suspension of right of International Bank to issue securities under section 286k–1; report of Securities and Exchange Commission
 
 The Securities and Exchange Commission acting in consultation with the National Advisory Council on International Monetary and Financial Problems is authorized to suspend the provisions of section 286k–1 (a) of this title at any time as to any or all securities issued or guaranteed by the bank during the period of such suspension. The Commission shall include in its annual reports to Congress such information as it shall deem advisable with regard to the operations and effect of this section, and [section 286k–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286k-1) and [section 24 of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24&num=0&edition=prelim) and in connection therewith shall include any views submitted for such purpose by any association of dealers registered with the Commission.
 
@@ -9919,8 +10277,8 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 Functions of National Advisory Council on International Monetary and Financial Problems delegated to National Advisory Council on International Monetary and Financial Policies, see section 2(a) of Ex. Ord. No. 11269, Feb. 14, 1966, 31 F.R. 2813, set out as a note under [section 286b of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286b).
 
 
-<a id="section-290h-6"></a>
-## § 290h–6. British loan; authorization to Secretary of the Treasury to carry out agreement
+<a id="section-290h-8"></a>
+## § 290h–8. British loan; authorization to Secretary of the Treasury to carry out agreement
 
 The Secretary of the Treasury, in consultation with the National Advisory Council on International Monetary and Financial Problems, is authorized to carry out the agreement dated December 6, 1945, between the United States and the United Kingdom which was transmitted by the President to the Congress on January 30, 1946, and the action of the Secretary of the Treasury in signing the agreement dated March 6, 1957, amending said agreement is approved.
 
@@ -10031,8 +10389,8 @@ For the Government of the United Kingdom of Great Britain and Northern Ireland:
 Halifax.
 
 
-<a id="section-290h-7"></a>
-## § 290h–7. Amount of loan; public-debt transaction; disposition of interest payments
+<a id="section-290h-9"></a>
+## § 290h–9. Amount of loan; public-debt transaction; disposition of interest payments
 
 For the purpose of carrying out the agreement dated December 6, 1945, between the United States and the United Kingdom, the Secretary of the Treasury is authorized to use as a public-debt transaction not to exceed $3,750,000,000 of the proceeds of any securities issued after July 15, 1946, under chapter 31 of title 31, and the purposes for which securities may be issued under that chapter are extended to include such purpose. Payments to the United Kingdom under this section and section 286l of this title and pursuant to the agreement and repayments thereof shall be treated as public-debt transactions of the United States. Payments of interest to the United States under the agreement shall be covered into the Treasury as miscellaneous receipts.
 
@@ -10047,8 +10405,8 @@ Agreement dated December 6, 1945, between the United States and the United Kingd
 Section was not enacted as a part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
 
 
-<a id="section-290h-8"></a>
-## § 290h–8. Special Drawing Rights
+<a id="section-290i"></a>
+## § 290i. Special Drawing Rights
 
 The President is hereby authorized (a) to accept the amendment to the articles of agreement of the International Monetary Fund (hereinafter referred to as the “Fund”), attached to the April 1968 report by the Executive Directors to the Board of Governors of the Fund, for the purpose of (i) establishing a facility based on Special Drawing Rights in the Fund and (ii) giving effect to certain modifications in the present rules and practices of the Fund, and (b) to participate in the special drawing account established by the amendment.
 
@@ -10061,8 +10419,8 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 Pub. L. 90–349, § 1, June 19, 1968, 82 Stat. 188, provided: “That this Act [enacting this section and sections 286o to 286r of this title and amending sections 412, 415, 417, and 467 of Title 12, Banks and Banking] may be cited as the ‘Special Drawing Rights Act’.”
 
 
-<a id="section-290h-9"></a>
-## § 290h–9. Administration as part of the Exchange Stabilization Fund
+<a id="section-290i-1"></a>
+## § 290i–1. Administration as part of the Exchange Stabilization Fund
 **(a) Special Drawing Rights** Special Drawing Rights allocated to the United States pursuant to article XVIII of the Articles of Agreement of the Fund, and Special Drawing Rights otherwise acquired by the United States, shall be credited to the account of, and administered as part of, the Exchange Stabilization Fund established by [section 5302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5302&num=0&edition=prelim).
 
 **(b) Deposit in and withdrawal from Fund** The proceeds resulting from the use of Special Drawing Rights by the United States, and payments of interest to the United States pursuant to article XX, article XXIV, and article XXV of the Articles of Agreement of the Fund, shall be deposited in the Exchange Stabilization Fund. Currency payments by the United States in return for Special Drawing Rights, and payments of charges or assessments pursuant to article XX, article XXIV, and article XXV of the Articles of Agreement of the Fund, shall be made from the resources of the Exchange Stabilization Fund.
@@ -10083,52 +10441,30 @@ Subsec. (b). Pub. L. 94–564, § 5(2), substituted “article XX, article XXIV,
 Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as a note under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a).
 
 
-<a id="section-290i"></a>
-## § 290i. Issuance, purpose, and redemption of Special Drawing Rights certificates
-**(a)** The Secretary of the Treasury is authorized to issue to the Federal Reserve banks, and such banks shall purchase, Special Drawing Right certificates in such form and in such denominations as he may determine, against any Special Drawing Rights held to the credit of the Exchange Stabilization Fund. Such certificates shall be issued and remain outstanding only for the purpose of financing the acquisition of Special Drawing Rights or for financing exchange stabilization operations. The amount of Special Drawing Right certificates issued and outstanding shall at no time exceed the value of the Special Drawing Rights held against the Special Drawing Right certificates. The proceeds resulting from the issuance of Special Drawing Right certificates shall be covered into the Exchange Stabilization Fund.
-
-**(b)** Special Drawing Right certificates owned by the Federal Reserve banks shall be redeemed from the resources of the Exchange Stabilization Fund at such times and in such amounts as the Secretary of the Treasury may determine.
-
-### Statutory Notes
-
-#### Codification
-Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
-
-
-<a id="section-290i-1"></a>
-## § 290i–1. Limitation on allocations to the United States
-**(a)** Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States vote to allocate in each basic period Special Drawing Rights under article XVIII, sections 2 and 3, of the Articles of Agreement of the Fund so that allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act [[22 U.S.C. 286](./chapter-007-international-bureaus-congresses-etc.md#section-286) et seq.].
-
-**(b)**
-
-(1) Neither the President nor any person or agency shall on behalf of the United States vote to allocate Special Drawing Rights under article XVIII, sections 2 and 3, of the Articles of Agreement of the Fund without consultations by the Secretary of the Treasury at least 90 days prior to any such vote, with the Chairman and ranking minority members of the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the appropriate subcommittees thereof.
-
-(2) Such consultations shall include an explanation of the consistency of such proposal to allocate with the requirements of the Articles of Agreement of the Fund, in particular the requirement that in all its decisions with respect to allocation of Special Drawing Rights, the Fund shall “seek to meet the long-term global need, as and when it arises, to supplement existing reserve assets in such manner as will promote the attainment of its purposes and will avoid economic stagnation and deflation as well as excess demand and inflation in the world”.
-
-### Statutory Notes
-
-#### References in Text
-The Bretton Woods Agreements Act, referred to in subsec. (a), is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to this subchapter (§ 286 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
-
-#### Codification
-Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
-
-#### Amendments
-1983—Pub. L. 98–181 designated existing provisions as subsec. (a) and added subsec. (b).
-
-1976—Pub. L. 94–564 substituted “article XVIII” for “article XXIV”.
-
-1970—Pub. L. 91–599 inserted “in each basic period” after “vote to allocate” and substituted “allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act” for “net cumulative allocations to the United States exceed an amount equal to the United States quota in the Fund as heretofore authorized under the Bretton Woods Agreements Act of 1945, as amended”.
-
-#### Change of Name
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-#### Effective Date of 1976 Amendment
-Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as a note under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a).
-
-
 <a id="section-290i-10"></a>
-## § 290i–10. Collection and exchange of information on monetary and financial problems
+## § 290i–10. Assistance to private sector of El Salvador, Nicaragua, and other nations
+
+It is the sense of the Congress that in providing assistance through loans or other means to any nation, in particular El Salvador and Nicaragua, the Fund and the Bank should encourage programs which assist the private sector to create an environment which will stabilize the economy of the nation; and that the United States representatives to the Fund and the Bank shall promote the use of assistance by the Fund and the Bank to encourage such programs.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
+
+
+<a id="section-290i-11"></a>
+## § 290i–11. Promoting conditions for exchange rate stability
+**(a)** In order to help assure that the resources provided under [section 286e–1i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-1i) are used to support pro-growth policies which will help establish the economic conditions necessary for more appropriate financial and exchange rate alignment and stability, it is the sense of Congress that the Secretary of the Treasury shall—
+
+(1) in consultation with the Secretary of State and the United States Trade Representative, initiate discussions with other countries regarding the economic dislocations which result from structural exchange rate imbalances; and
+
+(2) instruct the United States Executive Director of the Fund to work for adoption of policies in the Fund, both within the framework of article IV (of the Articles of Agreement of the Fund) consultations and with respect to the conditions associated with Fund-supported balance of payments adjustments programs, which promote conditions contributing to the stability of exchange rates and avoid the manipulation of exchange rates between major currencies. Among other initiatives, the Secretary of the Treasury shall propose strengthening the article IV consultation procedures of the Fund to attempt to ensure that countries which are artificially maintaining undervalued or overvalued rates of exchange agree to adopt market determined exchange rates.
+
+**(b)** In determining his vote on extensions of assistance to any Fund borrower, the United States Executive Director of the Fund shall take into account whether such borrower’s policies are consistent with the requirements of article IV of the Articles of Agreement of the Fund.
+
+
+<a id="section-290i-12"></a>
+## § 290i–12. Collection and exchange of information on monetary and financial problems
 **(a) Sense of Congress** It is the sense of the Congress that—
 
 (1) the lack of sufficient information currently available to allow members of the Fund to make sound and prudent decisions concerning their public and private sector international borrowing, and to allow lenders to make sound and prudent decisions concerning their international lending, threatens the stability of the international monetary system; and
@@ -10155,35 +10491,76 @@ where such loans or lines of credit are repayable in freely convertible currency
 **(d) Providing necessary information** The President is authorized to use the authority provided under [section 286f of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286f) to require any person (as defined in such section) subject to the jurisdiction of the United States to provide such information as the Fund determines to be necessary in order to carry out the provisions of this section.
 
 
-<a id="section-290i-11"></a>
-## § 290i–11. Instructions to United States Executive Director; Communist dictatorships
+<a id="section-290i-2"></a>
+## § 290i–2. Issuance, purpose, and redemption of Special Drawing Rights certificates
+**(a)** The Secretary of the Treasury is authorized to issue to the Federal Reserve banks, and such banks shall purchase, Special Drawing Right certificates in such form and in such denominations as he may determine, against any Special Drawing Rights held to the credit of the Exchange Stabilization Fund. Such certificates shall be issued and remain outstanding only for the purpose of financing the acquisition of Special Drawing Rights or for financing exchange stabilization operations. The amount of Special Drawing Right certificates issued and outstanding shall at no time exceed the value of the Special Drawing Rights held against the Special Drawing Right certificates. The proceeds resulting from the issuance of Special Drawing Right certificates shall be covered into the Exchange Stabilization Fund.
 
-The Congress hereby finds that Communist dictatorships result in severe constraints on labor and capital mobility and other highly inefficient labor and capital supply rigidities which contribute to balance of payments deficits in direct contradiction of the goals of the International Monetary Fund. Therefore, the Secretary of the Treasury shall instruct the United States Executive Director of the Fund to actively oppose any facility involving use of Fund credit by any Communist dictatorship, unless the Secretary of the Treasury certifies and documents in writing upon request and so notifies and appears, if requested, before the Foreign Relations and Banking, Housing, and Urban Affairs Committees of the Senate and the Banking, Finance and Urban Affairs Committee of the House of Representatives, at least twenty-one days in advance of any vote on such drawing that such drawing—
-
-(1) provides the basis for correcting the balance of payments difficulties and restoring a sustainable balance of payments position;
-
-(2) would reduce the severe constraints on labor and capital mobility or other highly inefficient labor and capital supply rigidities and advances market-oriented forces in that country; and
-
-(3) is in the best economic interest of the majority of the people in that country.
-Should the Secretary not meet a request to appear before the aforementioned committees at least twenty-one days in advance of any vote on any facility involving use of Fund credit by any communist dictatorship and certify and document in writing that these three conditions have been met, the United States Executive Director shall vote against such program.
+**(b)** Special Drawing Right certificates owned by the Federal Reserve banks shall be redeemed from the resources of the Exchange Stabilization Fund at such times and in such amounts as the Secretary of the Treasury may determine.
 
 ### Statutory Notes
 
+#### Codification
+Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
+
+
+<a id="section-290i-3"></a>
+## § 290i–3. Limitation on allocations to the United States
+**(a)** Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States vote to allocate in each basic period Special Drawing Rights under article XVIII, sections 2 and 3, of the Articles of Agreement of the Fund so that allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act [[22 U.S.C. 286](./chapter-007-international-bureaus-congresses-etc.md#section-286) et seq.].
+
+**(b)**
+
+(1) Neither the President nor any person or agency shall on behalf of the United States vote to allocate Special Drawing Rights under article XVIII, sections 2 and 3, of the Articles of Agreement of the Fund without consultations by the Secretary of the Treasury at least 90 days prior to any such vote, with the Chairman and ranking minority members of the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the appropriate subcommittees thereof.
+
+(2) Such consultations shall include an explanation of the consistency of such proposal to allocate with the requirements of the Articles of Agreement of the Fund, in particular the requirement that in all its decisions with respect to allocation of Special Drawing Rights, the Fund shall “seek to meet the long-term global need, as and when it arises, to supplement existing reserve assets in such manner as will promote the attainment of its purposes and will avoid economic stagnation and deflation as well as excess demand and inflation in the world”.
+
+(3) Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States engage in any voluntary transaction involving the exchange of Special Drawing Rights that are held by a member country of the Fund, if the Secretary of State has found that the government of the member country—
+
+  (A) has committed genocide at any time during the 1-year period ending with the date of the transaction; or
+
+  (B) has repeatedly provided support for acts of international terrorism.
+
+(4) The Secretary of the Treasury shall direct the United States Executive Director at each international financial institution (as defined in [section 262r(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c/2&num=0&edition=prelim)) to use the voice and vote of the United States to—
+
+  (A) oppose the provision of financial assistance to any government with respect to which the Secretary of State has made a finding described in paragraph (3); and
+
+  (B) seek to ensure that the member countries of the institution do not engage in voluntary transactions involving the exchange of Special Drawing Rights held by such a government.
+
+(5) **Waiver.—** — The President may waive paragraphs (3) and (4) on a case-by-case basis if the President reports to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate that the waiver is in the national interest of the United States, and includes a detailed explanation of the reasons therefor.
+
+### Statutory Notes
+
+#### Amendment of Subsection (b)
+Pub. L. 118–47, div. F, title VII, § 7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, paragraphs (3) to (5) of subsec. (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed. See 2024 Amendment note below.
+
+#### References in Text
+The Bretton Woods Agreements Act, referred to in subsec. (a), is act July 31, 1945, ch. 339, 59 Stat. 512, which is classified principally to this subchapter (§ 286 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 286 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286) and Tables.
+
+#### Codification
+Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreement Act, which comprises this subchapter.
+
 #### Amendments
-1993—Pub. L. 103–149 struck out “(a)” before “The Congress” and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
+2024—Subsec. (b)(3) to (5). Pub. L. 118–47, § 7071(b), struck out pars. (3) to (5).
+
+Pub. L. 118–47, § 7071(a), added pars. (3) to (5).
+
+1983—Pub. L. 98–181 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1976—Pub. L. 94–564 substituted “article XVIII” for “article XXIV”.
+
+1970—Pub. L. 91–599 inserted “in each basic period” after “vote to allocate” and substituted “allocations to the United States in that period exceed an amount equal to the United States quota in the Fund as authorized under the Bretton Woods Agreements Act” for “net cumulative allocations to the United States exceed an amount equal to the United States quota in the Fund as heretofore authorized under the Bretton Woods Agreements Act of 1945, as amended”.
 
 #### Change of Name
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+#### Effective Date of 2024 Amendment
+Pub. L. 118–47, div. F, title VII, § 7071(b), Mar. 23, 2024, 138 Stat. 851, provided that, effective on the date that is 10 years after Mar. 23, 2024, pars. (3) to (5) of subsec. (b) of this section, as added by section 7071(a) of title VII of div. F of Pub. L. 118–47, are repealed.
 
-<a id="section-290i-12"></a>
-## § 290i–12. Elimination of predatory agricultural export subsidies
-
-The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose and work for the adoption of a policy encouraging Fund members to eliminate all predatory agricultural export subsidies which might result in the reduction of other member countries’ exports.
+#### Effective Date of 1976 Amendment
+Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as a note under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a).
 
 
-<a id="section-290i-2"></a>
-## § 290i–2. United States participation in special drawing account
+<a id="section-290i-4"></a>
+## § 290i–4. United States participation in special drawing account
 
 The provisions of article XXI(b) of the Articles of Agreement of the Fund shall have full force and effect in the United States and its territories and possessions when the United States becomes a participant in the special drawing account.
 
@@ -10199,8 +10576,8 @@ Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, kno
 Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as a note under [section 286a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286a).
 
 
-<a id="section-290i-3"></a>
-## § 290i–3. Consideration of basic human needs in economic adjustment programs supported by Fund
+<a id="section-290i-5"></a>
+## § 290i–5. Consideration of basic human needs in economic adjustment programs supported by Fund
 **(a) Formulation and design of programs** The President shall instruct the Secretary of the Treasury, the Secretary of State, and other appropriate Federal officials to use all appropriate means to encourage countries, in formulating economic adjustment programs to deal with their balance of payments difficulties, to design those programs so as to safeguard, to the maximum feasible extent, jobs, investment, real per capita income, policies to reduce the gap in wealth between rich and poor, and social programs such as health, housing, and education.
 
 **(b) Changes in Fund guidelines, policies, and decisions; review prior to approval of standby arrangements; coordination among institutions; coordination between Fund and Bank; periodic analyses** To ensure the effectiveness of economic adjustment programs supported by Fund resources and the reinforcement of those programs by longer term efforts to promote sustained growth and improved living conditions—
@@ -10244,8 +10621,8 @@ Amendment effective Apr. 1, 1978, see section 9 of Pub. L. 94–564, set out as 
 Pub. L. 96–389, § 12, Oct. 7, 1980, 94 Stat. 1555, provided that: “This Act [enacting this section and sections 286e–1g and 286t to 286x of this title, amending sections 286e–1g, 286e–8, and 286e–9 of this title and section 27 of former Title 31, Money and Finance, and enacting provisions set out as notes under sections 286a and 286t of this title and section 822a of former Title 31] shall take effect on its date of enactment [Oct. 7, 1980], except that funds may not be appropriated under any authorization contained in this Act for any period prior to October 1, 1980.”
 
 
-<a id="section-290i-4"></a>
-## § 290i–4. Omitted
+<a id="section-290i-6"></a>
+## § 290i–6. Omitted
 
 ### Statutory Notes
 
@@ -10256,8 +10633,8 @@ Section, act July 31, 1945, ch. 339, § 34, as added Oct. 7, 1980, Pub. L. 96–
 Pub. L. 96–389, § 4(a), Oct. 7, 1980, 94 Stat. 1553, provided that: “It is the sense of the Congress that (1) the interests of the United States and those of other member countries require an effective International Monetary Fund equipped with resources adequate to facilitate orderly balance-of-payments adjustments; (2) persistent balance-of-payments surpluses in oil exporting countries have placed, and will continue to place, severe strains on the resources of oil importing countries and on the liquidity of the Fund; (3) these strains can only be relieved if the oil exporting countries assume a greater burden for financing balance-of-payments deficits through direct methods of recycling their surpluses and through proportionally greater contributions to the Fund and to the international lending institutions; and (4) the Fund must explore innovative proposals to encourage more direct recycling of oil surpluses and to increase its own liquidity.”
 
 
-<a id="section-290i-5"></a>
-## § 290i–5. Dollar-Special Drawing Rights substitution account
+<a id="section-290i-7"></a>
+## § 290i–7. Dollar-Special Drawing Rights substitution account
 
 It is the sense of the Congress that the Secretary of the Treasury and the United States Executive Director of the Fund shall encourage member countries of the Fund to negotiate a dollar-Special Drawing Rights substitution account in which equitable burden sharing would exist among participants in the account.
 
@@ -10273,8 +10650,8 @@ Amendment by Pub. L. 97–35 effective Aug. 13, 1981, see section 1372 of Pub. L
 Amendment by Pub. L. 96–389 effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
 
 
-<a id="section-290i-6"></a>
-## § 290i–6. Membership for Taiwan in Fund
+<a id="section-290i-8"></a>
+## § 290i–8. Membership for Taiwan in Fund
 
 It is the sense of the Congress that it is the policy of the United States that Taiwan (before January 1, 1979, known as the Republic of China) shall be granted appropriate membership in the Fund and that the United States Executive Director of the Fund shall so notify the Fund.
 
@@ -10284,8 +10661,8 @@ It is the sense of the Congress that it is the policy of the United States that 
 Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
 
 
-<a id="section-290i-7"></a>
-## § 290i–7. Denial of membership or other status in Fund for Palestine Liberation Organization; United States participation in Fund if membership or other status granted; report by President to Congress
+<a id="section-290i-9"></a>
+## § 290i–9. Denial of membership or other status in Fund for Palestine Liberation Organization; United States participation in Fund if membership or other status granted; report by President to Congress
 
 It is the policy of the United States that the Palestine Liberation Organization should not be given membership in the Fund or be given observer status or any other official status at any meeting sponsored by or associated with the Fund. The United States Executive Director of the Fund shall promptly notify the Fund of such policy.
 
@@ -10295,30 +10672,35 @@ It is the policy of the United States that the Palestine Liberation Organization
 Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
 
 
-<a id="section-290i-8"></a>
-## § 290i–8. Assistance to private sector of El Salvador, Nicaragua, and other nations
+<a id="section-290j"></a>
+## § 290j. Instructions to United States Executive Director; Communist dictatorships
 
-It is the sense of the Congress that in providing assistance through loans or other means to any nation, in particular El Salvador and Nicaragua, the Fund and the Bank should encourage programs which assist the private sector to create an environment which will stabilize the economy of the nation; and that the United States representatives to the Fund and the Bank shall promote the use of assistance by the Fund and the Bank to encourage such programs.
+The Congress hereby finds that Communist dictatorships result in severe constraints on labor and capital mobility and other highly inefficient labor and capital supply rigidities which contribute to balance of payments deficits in direct contradiction of the goals of the International Monetary Fund. Therefore, the Secretary of the Treasury shall instruct the United States Executive Director of the Fund to actively oppose any facility involving use of Fund credit by any Communist dictatorship, unless the Secretary of the Treasury certifies and documents in writing upon request and so notifies and appears, if requested, before the Foreign Relations and Banking, Housing, and Urban Affairs Committees of the Senate and the Banking, Finance and Urban Affairs Committee of the House of Representatives, at least twenty-one days in advance of any vote on such drawing that such drawing—
+
+(1) provides the basis for correcting the balance of payments difficulties and restoring a sustainable balance of payments position;
+
+(2) would reduce the severe constraints on labor and capital mobility or other highly inefficient labor and capital supply rigidities and advances market-oriented forces in that country; and
+
+(3) is in the best economic interest of the majority of the people in that country.
+Should the Secretary not meet a request to appear before the aforementioned committees at least twenty-one days in advance of any vote on any facility involving use of Fund credit by any communist dictatorship and certify and document in writing that these three conditions have been met, the United States Executive Director shall vote against such program.
 
 ### Statutory Notes
 
-#### Effective Date
-Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a note under [section 286s of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286s).
+#### Amendments
+1993—Pub. L. 103–149 struck out “(a)” before “The Congress” and struck out subsec. (b) which related to use of International Monetary Fund credit by any country which practices apartheid.
+
+#### Change of Name
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 
-<a id="section-290i-9"></a>
-## § 290i–9. Promoting conditions for exchange rate stability
-**(a)** In order to help assure that the resources provided under [section 286e–1i of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286e-1i) are used to support pro-growth policies which will help establish the economic conditions necessary for more appropriate financial and exchange rate alignment and stability, it is the sense of Congress that the Secretary of the Treasury shall—
+<a id="section-290j-1"></a>
+## § 290j–1. Elimination of predatory agricultural export subsidies
 
-(1) in consultation with the Secretary of State and the United States Trade Representative, initiate discussions with other countries regarding the economic dislocations which result from structural exchange rate imbalances; and
-
-(2) instruct the United States Executive Director of the Fund to work for adoption of policies in the Fund, both within the framework of article IV (of the Articles of Agreement of the Fund) consultations and with respect to the conditions associated with Fund-supported balance of payments adjustments programs, which promote conditions contributing to the stability of exchange rates and avoid the manipulation of exchange rates between major currencies. Among other initiatives, the Secretary of the Treasury shall propose strengthening the article IV consultation procedures of the Fund to attempt to ensure that countries which are artificially maintaining undervalued or overvalued rates of exchange agree to adopt market determined exchange rates.
-
-**(b)** In determining his vote on extensions of assistance to any Fund borrower, the United States Executive Director of the Fund shall take into account whether such borrower’s policies are consistent with the requirements of article IV of the Articles of Agreement of the Fund.
+The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose and work for the adoption of a policy encouraging Fund members to eliminate all predatory agricultural export subsidies which might result in the reduction of other member countries’ exports.
 
 
-<a id="section-290j"></a>
-## § 290j. Sustaining economic growth
+<a id="section-290k"></a>
+## § 290k. Sustaining economic growth
 **(a) Economic adjustment programs**
 
 (1) The President shall instruct the Secretary of the Treasury, the Secretary of State, and other appropriate Federal officials, and shall request the Chairman of the Board of Governors of the Federal Reserve System, to use all appropriate means to encourage countries to formulate economic adjustment programs to deal with their balance of payment difficulties and external debt owed to private banks.
@@ -10357,8 +10739,8 @@ Section effective Oct. 7, 1980, see section 12 of Pub. L. 96–389, set out as a
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 
-<a id="section-290j-1"></a>
-## § 290j–1. Fund bailouts of banks; rescheduling of debt
+<a id="section-290k-1"></a>
+## § 290k–1. Fund bailouts of banks; rescheduling of debt
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Fund—
 
@@ -10367,8 +10749,50 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 (2) to work to insure that the Fund encourages borrowing countries and banking institutions to negotiate, where appropriate, a rescheduling of debt which is consistent with safe and sound banking practices and the country’s ability to pay.
 
 
-<a id="section-290k"></a>
-## § 290k. International cooperation
+<a id="section-290k-10"></a>
+## § 290k–10. Measures to reduce military spending by developing nations
+**(a) Development by Fund of means to measure military spending**
+
+(1) **Position of the United States** — The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, in consultation with the Bank, to continue to develop an economic methodology to measure the level of military spending by each developing country.
+
+(2) **Progress report to the Congress** — No later than 1 year after October 24, 1992, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate a report on the status of the development by the Fund of a workable economic methodology to measure military spending by developing countries.
+
+**(b) Annual reports by Fund on levels of military spending** The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, beginning with 1994, to provide the Executive Board of the Fund with annual reports stating the estimate by the Fund of the level of military spending by each developing country in the immediately preceding calendar year (or, with respect to developing countries whose fiscal years are not calendar years, in the most recently completed fiscal year of the developing country), not later than the date of the annual fall Interim and Development Committee meetings.
+
+**(c) Analysis and assessment of military spending to be included in article IV consultations by Fund** The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, beginning no later than the date of the first report provided as described in subsection (b), to include in every article IV consultation with a developing country an analysis of the level of military spending by the developing country in the immediately preceding calendar year (or, with respect to developing countries whose fiscal years are not calendar years, in the most recently completed fiscal year of the developing country).
+
+### Statutory Notes
+
+#### Change of Name
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+
+<a id="section-290k-11"></a>
+## § 290k–11. Approval of contributions for debt reductions for the poorest countries
+
+For the purpose of mobilizing the resources of the Fund in order to help reduce poverty and improve the lives of residents of poor countries and, in particular, to allow those poor countries with unsustainable debt burdens to receive deeper, broader, and faster debt relief, without allowing gold to reach the open market or otherwise adversely affecting the market price of gold, the Secretary of the Treasury is authorized to instruct the United States Executive Director of the Fund to vote—
+
+(1) to approve an arrangement whereby the Fund—
+
+  (A) sells a quantity of its gold at prevailing market prices to a member or members in nonpublic transactions sufficient to generate 2.226 billion Special Drawing Rights in profits on such sales;
+
+  (B) immediately after, and in conjunction with each such sale, accepts payment by such member or members of such gold to satisfy existing repurchase obligations of such member or members so that the Fund retains ownership of the gold at the conclusion of such payment; and
+
+  (C) uses the earnings on the investment of the profits of such sales through a separate subaccount, only for the purpose of providing debt relief from the Fund under the modified Heavily Indebted Poor Countries (HIPC) Initiative (as defined in [section 262p–6 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-6)); and
+
+(2) to support a decision that shall terminate the Special Contingency Account 2 (SCA–2) of the Fund so that the funds in the SCA–2 shall be made available to the poorest countries. Any funds attributable to the United States participation in SCA–2 shall be used only for debt relief from the Fund under the modified HIPC Initiative.
+
+### Statutory Notes
+
+#### Amendments
+2000—Par. (1)(B), (D). Pub. L. 106–429 inserted “and” at end of subpar. (B) and struck out subpar. (D) which read as follows: “shall not use more than 9⁄14 of the earnings on the investment of the profits of such sales; and”.
+
+#### Certification to Congress Relating To Use of Profits To Augment International Monetary Fund
+Pub. L. 106–113, div. B, § 1000(a)(5) [title V, § 503(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–316, provided that: “Within 15 days after the United States Executive Director casts the votes necessary to carry out the instruction described in section 62 of the Bretton Woods Agreements Act [[22 U.S.C. 286nn](./chapter-007-international-bureaus-congresses-etc.md#section-286nn)], the Secretary of the Treasury shall certify to the Congress that neither the profits nor the earnings on the investment of profits from the gold sales made pursuant to the instruction or of the funds attributable to United States participation in SCA–2 will be used to augment the resources of any reserve account of the International Monetary Fund for the purpose of making loans.”
+
+
+<a id="section-290k-2"></a>
+## § 290k–2. International cooperation
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose that the Fund adopt the following policies with respect to international lending:
 
@@ -10383,55 +10807,14 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 (3) As a part of its annual report, and at such times as it may consider desirable, the Fund should publish its evaluation of the trend and volume of international lending as it affects the economic situation of lenders, borrowers, and the smooth functioning of the international monetary system.
 
 
-<a id="section-290k-1"></a>
-## § 290k–1. Fund interest rates
+<a id="section-290k-3"></a>
+## § 290k–3. Fund interest rates
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to propose and work for the adoption of Fund policies regarding the rate of remuneration paid on use of member’s quota subscriptions and the rate of charges on Fund drawings to bring those rates in line with market rates.
 
 
-<a id="section-290k-10"></a>
-## § 290k–10. Principles for International Monetary Fund lending
-
-It is the policy of the United States to work to implement reforms in the International Monetary Fund (IMF) to achieve the following goals:
-
-(1) **Short-term balance of payments financing** — Lending from the general resources of the Fund should concentrate chiefly on short-term balance of payments financing.
-
-(2) **Limitations on medium-term financing** — Use of medium-term lending from the general resources of the Fund should be limited to a set of well-defined circumstances, such as—
-
-  (A) when a member’s balance of payments problems will be protracted;
-
-  (B) such member has a strong structural reform program in place; and
-
-  (C) the member has little or no access to private sources of capital.
-
-(3) **Premium pricing** — Premium pricing should be introduced for lending from the general resources of the Fund, for greater than 200 percent of a member’s quota in the Fund, to discourage excessive use of Fund lending and to encourage members to rely on private financing to the maximum extent possible.
-
-(4) **Redressing misreporting of information** — The Fund should have in place and apply systematically a strong framework of safeguards and measures to respond to, correct, and discourage cases of misreporting of information in the context of a Fund program, including—
-
-  (A) suspending Fund disbursements and ensuring that Fund lending is not resumed to members that engage in serious misreporting of material information until such time as remedial actions and sanctions, as appropriate, have been applied;
-
-  (B) ensuring that members make early repayments, where appropriate, of Fund resources disbursed on the basis of misreported information;
-
-  (C) making public cases of serious misreporting of material information;
-
-  (D) requiring all members receiving new disbursements from the Fund to undertake annually independent audits of central bank financial statements and publish the resulting audits; and
-
-  (E) requiring all members seeking new loans from the Fund to provide to the Fund detailed information regarding their internal control procedures, financial reporting and audit mechanisms and, in cases where there are questions about the adequacy of these systems, undertaking an on-site review and identifying needed remedies.
-
-### Statutory Notes
-
-#### Codification
-Section 101(a) [title VIII, § 805] of Pub. L. 106–429, which directed amendment of the Bretton Woods Agreement Act by adding this section, was executed by amending the Bretton Woods Agreements Act by adding this section, to reflect the probable intent of Congress.
-
-
-<a id="section-290k-11"></a>
-## § 290k–11. Acceptance of amendments to Articles of Agreement of Fund approved on April 28 and May 5, 2008
-
-The United States Governor of the Fund may agree to and accept the amendments to the Articles of Agreement of the Fund as proposed in the resolutions numbered 63–2 and 63–3 of the Board of Governors of the Fund which were approved by such Board on April 28, 2008 and May 5, 2008, respectively.
-
-
-<a id="section-290k-2"></a>
-## § 290k–2. Elimination of trade restrictions
+<a id="section-290k-4"></a>
+## § 290k–4. Elimination of trade restrictions
 **(a) Promotion of fair trade as financial assistance policy**
 
 (1) The Secretary of the Treasury shall instruct the United States Executive Director of each of the multilateral development banks (in this section referred to as the “banks”) and of the Fund to initiate a wide consultation with the Managing Director of each of the banks and of the Fund and the other directors of the banks and of the Fund with regard to the development of financial assistance policies which, to the maximum feasible extent—
@@ -10489,8 +10872,8 @@ Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, § 101(f) [title V, § 555(e
 Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, § 101(f) [title V, § 555(a)], added subsec. (d).
 
 
-<a id="section-290k-3"></a>
-## § 290k–3. Policy based lending for debt reduction
+<a id="section-290k-5"></a>
+## § 290k–5. Policy based lending for debt reduction
 **(a) Criteria** The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to advocate and support the facilitation of voluntary market-based programs for the reduction of sovereign debt and the promotion of sustainable economic development, which, if implemented, would—
 
 (1) not require any organization or government to participate in such a program;
@@ -10542,8 +10925,8 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 Amendment by Pub. L. 111–203 effective 2 years after July 21, 2010, see section 939(g) of Pub. L. 111–203, set out as a note under [section 24a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section24a&num=0&edition=prelim), Banks and Banking.
 
 
-<a id="section-290k-4"></a>
-## § 290k–4. Limitations on Bank policy based lending; actions required to be taken to oppose excessive policy based lending by Bank
+<a id="section-290k-6"></a>
+## § 290k–6. Limitations on Bank policy based lending; actions required to be taken to oppose excessive policy based lending by Bank
 
 The Secretary of the Treasury shall—
 
@@ -10565,8 +10948,8 @@ Section is based on section 4 of H.R. 4645, One Hundredth Congress, as reported 
 Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreements Act, which comprises this subchapter.
 
 
-<a id="section-290k-5"></a>
-## § 290k–5. Partial guarantees in connection with debt reduction for borrower countries
+<a id="section-290k-7"></a>
+## § 290k–7. Partial guarantees in connection with debt reduction for borrower countries
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the International Bank for Reconstruction and Development to initiate discussions with other directors of such bank and to propose that such bank establish criteria under which such bank would provide partial guarantees on debt service payments by borrower countries to private creditors when such guarantees would serve a catalytic role in facilitating final agreement on financing packages which involve significant debt reduction.
 
@@ -10578,8 +10961,8 @@ Section is based on section 5 of H.R. 4645, One Hundredth Congress, as reported 
 Section was not enacted as part of act July 31, 1945, ch. 339, 59 Stat. 512, known as the Bretton Woods Agreements Act, which comprises this subchapter.
 
 
-<a id="section-290k-6"></a>
-## § 290k–6. Discussions to enhance capacity of Fund to alleviate potentially adverse impacts of Fund programs on poor and environment
+<a id="section-290k-8"></a>
+## § 290k–8. Discussions to enhance capacity of Fund to alleviate potentially adverse impacts of Fund programs on poor and environment
 
 The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to seek policy changes by the Fund, through formal initiatives and through bilateral discussions, which will result in—
 
@@ -10588,8 +10971,8 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 (2) the establishment of procedures which ensure the inclusion, in future economic reform programs approved by the Fund, of policy options which eliminate or reduce the potential adverse impact on the well-being of the poor or the environment resulting from such programs.
 
 
-<a id="section-290k-7"></a>
-## § 290k–7. Fund policy changes
+<a id="section-290k-9"></a>
+## § 290k–9. Fund policy changes
 **(a) Policy changes within IMF** The Secretary of the Treasury shall instruct the United States Executive Director of the Fund to promote regularly and vigorously in program discussions and quota increase negotiations the following proposals:
 
 (1) **Poverty alleviation, reduction of barriers to economic and social progress, and progress toward environmentally sound policies and programs**
@@ -10655,57 +11038,56 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 (2) to report on the status of Fund efforts in this regard.
 
 
-<a id="section-290k-8"></a>
-## § 290k–8. Measures to reduce military spending by developing nations
-**(a) Development by Fund of means to measure military spending**
-
-(1) **Position of the United States** — The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, in consultation with the Bank, to continue to develop an economic methodology to measure the level of military spending by each developing country.
-
-(2) **Progress report to the Congress** — No later than 1 year after October 24, 1992, the Secretary of the Treasury shall submit to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate a report on the status of the development by the Fund of a workable economic methodology to measure military spending by developing countries.
-
-**(b) Annual reports by Fund on levels of military spending** The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, beginning with 1994, to provide the Executive Board of the Fund with annual reports stating the estimate by the Fund of the level of military spending by each developing country in the immediately preceding calendar year (or, with respect to developing countries whose fiscal years are not calendar years, in the most recently completed fiscal year of the developing country), not later than the date of the annual fall Interim and Development Committee meetings.
-
-**(c) Analysis and assessment of military spending to be included in article IV consultations by Fund** The United States Executive Director of the Fund shall use the voice and vote of the United States to urge the Fund, beginning no later than the date of the first report provided as described in subsection (b), to include in every article IV consultation with a developing country an analysis of the level of military spending by the developing country in the immediately preceding calendar year (or, with respect to developing countries whose fiscal years are not calendar years, in the most recently completed fiscal year of the developing country).
-
-### Statutory Notes
-
-#### Change of Name
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
-
-
-<a id="section-290k-9"></a>
-## § 290k–9. Approval of contributions for debt reductions for the poorest countries
-
-For the purpose of mobilizing the resources of the Fund in order to help reduce poverty and improve the lives of residents of poor countries and, in particular, to allow those poor countries with unsustainable debt burdens to receive deeper, broader, and faster debt relief, without allowing gold to reach the open market or otherwise adversely affecting the market price of gold, the Secretary of the Treasury is authorized to instruct the United States Executive Director of the Fund to vote—
-
-(1) to approve an arrangement whereby the Fund—
-
-  (A) sells a quantity of its gold at prevailing market prices to a member or members in nonpublic transactions sufficient to generate 2.226 billion Special Drawing Rights in profits on such sales;
-
-  (B) immediately after, and in conjunction with each such sale, accepts payment by such member or members of such gold to satisfy existing repurchase obligations of such member or members so that the Fund retains ownership of the gold at the conclusion of such payment; and
-
-  (C) uses the earnings on the investment of the profits of such sales through a separate subaccount, only for the purpose of providing debt relief from the Fund under the modified Heavily Indebted Poor Countries (HIPC) Initiative (as defined in [section 262p–6 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-262p-6)); and
-
-(2) to support a decision that shall terminate the Special Contingency Account 2 (SCA–2) of the Fund so that the funds in the SCA–2 shall be made available to the poorest countries. Any funds attributable to the United States participation in SCA–2 shall be used only for debt relief from the Fund under the modified HIPC Initiative.
-
-### Statutory Notes
-
-#### Amendments
-2000—Par. (1)(B), (D). Pub. L. 106–429 inserted “and” at end of subpar. (B) and struck out subpar. (D) which read as follows: “shall not use more than 9⁄14 of the earnings on the investment of the profits of such sales; and”.
-
-#### Certification to Congress Relating To Use of Profits To Augment International Monetary Fund
-Pub. L. 106–113, div. B, § 1000(a)(5) [title V, § 503(b)], Nov. 29, 1999, 113 Stat. 1536, 1501A–316, provided that: “Within 15 days after the United States Executive Director casts the votes necessary to carry out the instruction described in section 62 of the Bretton Woods Agreements Act [[22 U.S.C. 286nn](./chapter-007-international-bureaus-congresses-etc.md#section-286nn)], the Secretary of the Treasury shall certify to the Congress that neither the profits nor the earnings on the investment of profits from the gold sales made pursuant to the instruction or of the funds attributable to United States participation in SCA–2 will be used to augment the resources of any reserve account of the International Monetary Fund for the purpose of making loans.”
-
-
 <a id="section-290l"></a>
-## § 290l. Quota increase to 4,973,100,000 Special Drawing Rights
+## § 290l. Principles for International Monetary Fund lending
+
+It is the policy of the United States to work to implement reforms in the International Monetary Fund (IMF) to achieve the following goals:
+
+(1) **Short-term balance of payments financing** — Lending from the general resources of the Fund should concentrate chiefly on short-term balance of payments financing.
+
+(2) **Limitations on medium-term financing** — Use of medium-term lending from the general resources of the Fund should be limited to a set of well-defined circumstances, such as—
+
+  (A) when a member’s balance of payments problems will be protracted;
+
+  (B) such member has a strong structural reform program in place; and
+
+  (C) the member has little or no access to private sources of capital.
+
+(3) **Premium pricing** — Premium pricing should be introduced for lending from the general resources of the Fund, for greater than 200 percent of a member’s quota in the Fund, to discourage excessive use of Fund lending and to encourage members to rely on private financing to the maximum extent possible.
+
+(4) **Redressing misreporting of information** — The Fund should have in place and apply systematically a strong framework of safeguards and measures to respond to, correct, and discourage cases of misreporting of information in the context of a Fund program, including—
+
+  (A) suspending Fund disbursements and ensuring that Fund lending is not resumed to members that engage in serious misreporting of material information until such time as remedial actions and sanctions, as appropriate, have been applied;
+
+  (B) ensuring that members make early repayments, where appropriate, of Fund resources disbursed on the basis of misreported information;
+
+  (C) making public cases of serious misreporting of material information;
+
+  (D) requiring all members receiving new disbursements from the Fund to undertake annually independent audits of central bank financial statements and publish the resulting audits; and
+
+  (E) requiring all members seeking new loans from the Fund to provide to the Fund detailed information regarding their internal control procedures, financial reporting and audit mechanisms and, in cases where there are questions about the adequacy of these systems, undertaking an on-site review and identifying needed remedies.
+
+### Statutory Notes
+
+#### Codification
+Section 101(a) [title VIII, § 805] of Pub. L. 106–429, which directed amendment of the Bretton Woods Agreement Act by adding this section, was executed by amending the Bretton Woods Agreements Act by adding this section, to reflect the probable intent of Congress.
+
+
+<a id="section-290l-1"></a>
+## § 290l–1. Acceptance of amendments to Articles of Agreement of Fund approved on April 28 and May 5, 2008
+
+The United States Governor of the Fund may agree to and accept the amendments to the Articles of Agreement of the Fund as proposed in the resolutions numbered 63–2 and 63–3 of the Board of Governors of the Fund which were approved by such Board on April 28, 2008 and May 5, 2008, respectively.
+
+
+<a id="section-290l-2"></a>
+## § 290l–2. Quota increase to 4,973,100,000 Special Drawing Rights
 **(a) In general** The United States Governor of the Fund may consent to an increase in the quota of the United States in the Fund equivalent to 4,973,100,000 Special Drawing Rights.
 
 **(b) Subject to appropriations** The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 
-<a id="section-290l-1"></a>
-## § 290l–1. Approval to sell a limited amount of the Fund’s gold
+<a id="section-290l-3"></a>
+## § 290l–3. Approval to sell a limited amount of the Fund’s gold
 **(a)** The Secretary of the Treasury is authorized to instruct the United States Executive Director of the Fund to vote to approve the sale of up to 12,965,649 ounces of the Fund’s gold acquired since the second Amendment to the Fund’s Articles of Agreement, only if such sales are consistent with the guidelines agreed to by the Executive Board of the Fund described in the Report of the Managing Director to the International Monetary and Financial Committee on a New Income and Expenditure Framework for the International Monetary Fund (April 9, 2008) to prevent disruption to the world gold market: Provided, That at least 30 days prior to any such vote, the Secretary shall consult with the appropriate congressional committees regarding the use of proceeds from the sale of such gold: Provided further, That the Secretary of the Treasury shall seek to ensure that:
 
 (1) the Fund will provide support to low-income countries that are eligible for the Poverty Reduction and Growth Facility or other low-income lending from the Fund by making available Fund resources of not less than $4,000,000,000;
@@ -10719,8 +11101,8 @@ Pub. L. 106–113, div. B, § 1000(a)(5) [title V, § 503(b)], Nov. 29, 1999, 11
 **(b)** In addition to agreeing to and accepting the amendments referred to in [section 286pp of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286pp) relating to the use of proceeds from the sale of such gold, the United States Governor is authorized, consistent with subsection (a), to take such actions as may be necessary, including those referred to in [section 286c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section286c/e&num=0&edition=prelim), to also use such proceeds for the purpose of assisting low-income countries.
 
 
-<a id="section-290l-2"></a>
-## § 290l–2. Acceptance of amendment to Articles of Agreement of Fund approved on October 22, 1997
+<a id="section-290l-4"></a>
+## § 290l–4. Acceptance of amendment to Articles of Agreement of Fund approved on October 22, 1997
 
 The United States Governor of the Fund may agree to and accept the amendment to the Articles of Agreement of the Fund as proposed in the resolution numbered 52–4 of the Board of Governors of the Fund which was approved by such Board on October 22, 1997: Provided, That not more than one year after the acceptance of such amendments to the Fund’s Articles of Agreement, the Secretary of the Treasury shall submit a report to the appropriate congressional committees analyzing Special Drawing Rights, to include a discussion of how those countries that significantly use or acquire Special Drawing Rights in accordance with Article XIX, Section 2(c), use or acquire them; the extent to which countries experiencing balance of payment difficulties exchange or use their Special Drawing Rights to acquire reserve currencies; and the manner in which those reserve currencies are acquired when utilizing Special Drawing Rights.
 
@@ -10733,8 +11115,8 @@ The United States Governor of the Fund may agree to and accept the amendment to 
 Pub. L. 111–117, div. F, title VII, § 7034(q)(1)(B), Dec. 16, 2009, 123 Stat. 3363, provided that: “The amendment made by subparagraph (A) [amending this section] shall take effect as if included in the enactment of section 1402 of Public Law 111–32.”
 
 
-<a id="section-290l-3"></a>
-## § 290l–3. Restrictions on use of United States funds for foreign governments; protection of American taxpayers
+<a id="section-290l-5"></a>
+## § 290l–5. Restrictions on use of United States funds for foreign governments; protection of American taxpayers
 **(a) In general** The Secretary of the Treasury shall instruct the United States Executive Director at the International Monetary Fund—
 
 (1) to evaluate, prior to consideration by the Board of Executive Directors of the Fund, any proposal submitted to the Board for the Fund to make a loan to a country if—
@@ -10759,14 +11141,14 @@ Pub. L. 111–117, div. F, title VII, § 7034(q)(1)(B), Dec. 16, 2009, 123 Stat.
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under [section 5301 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5301&num=0&edition=prelim), Banks and Banking.
 
 
-<a id="section-290l-4"></a>
-## § 290l–4. Acceptance of an amendment to the Articles of Agreement of the Bank to increase basic votes
+<a id="section-290l-6"></a>
+## § 290l–6. Acceptance of an amendment to the Articles of Agreement of the Bank to increase basic votes
 
 The United States Governor of the Bank may accept on behalf of the United States the amendment to the Articles of Agreement of the Bank as proposed in resolution No. 596, entitled “Enhancing Voice and Participation of Developing and Transition Countries,” of the Board of Governors of the Bank that was approved by such Board on January 30, 2009.
 
 
-<a id="section-290l-5"></a>
-## § 290l–5. Capital stock increases
+<a id="section-290l-7"></a>
+## § 290l–7. Capital stock increases
 **(a) Increases authorized** The United States Governor of the Bank is authorized—
 
 (1)
@@ -10801,21 +11183,21 @@ The United States Governor of the Bank may accept on behalf of the United States
 2013—Subsec. (b)(3), (4). Pub. L. 113–6 added pars. (3) and (4).
 
 
-<a id="section-290l-6"></a>
-## § 290l–6. Acceptance of amendments to Articles of Agreement of Fund
+<a id="section-290l-8"></a>
+## § 290l–8. Acceptance of amendments to Articles of Agreement of Fund
 
 The United States Governor of the Fund may accept the amendments to the Articles of Agreement of the Fund as proposed in resolution 66–2 of the Board of Governors of the Fund.
 
 
-<a id="section-290l-7"></a>
-## § 290l–7. Quota increase
+<a id="section-290l-9"></a>
+## § 290l–9. Quota increase
 **(a) In general** The United States Governor of the Fund may consent to an increase in the quota of the United States in the Fund equivalent to 40,871,800,000 Special Drawing Rights.
 
 **(b) Subject to appropriations** The authority provided by subsection (a) shall be effective only to such extent or in such amounts as are provided in advance in appropriations Acts.
 
 
-<a id="section-290l-8"></a>
-## § 290l–8. Opposition to assistance for any government that fails to implement sanctions on North Korea
+<a id="section-290m"></a>
+## § 290m. Opposition to assistance for any government that fails to implement sanctions on North Korea
 **(a) In general** The Secretary of the Treasury shall instruct the United States Executive Director at each international financial institution (as defined in [section 262r(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section262r/c&num=0&edition=prelim)) that it is the policy of the United States to oppose the provision by that institution of financial assistance to a foreign government, other than assistance to support basic human needs, if the President determines that, in the year preceding consideration of approval of such assistance, the government has knowingly failed to adequately enforce sanctions under an applicable United Nations Security Council resolution (as defined in [section 9202 of this title](./chapter-099-north-korea-sanctions-and-policy-enhancement.md#section-9202)).
 
 **(b) Waiver** The President may waive subsection (a) for up to 180 days at a time with respect to a foreign government if the President—
@@ -10887,8 +11269,8 @@ Sec. 3. The Secretary of State is authorized and directed to publish this memora
 Donald J. Trump.
 
 
-<a id="section-290l-9"></a>
-## § 290l–9. Capital stock increases
+<a id="section-290m-1"></a>
+## § 290m–1. Capital stock increases
 **(a) Increases authorized** The United States Governor of the Bank is authorized—
 
 (1)
@@ -10919,8 +11301,23 @@ Donald J. Trump.
 Another section 73 of the Bretton Woods Agreements Act was enacted by Pub. L. 116–92 and is classified to [section 286yy of this title](./chapter-007-international-bureaus-congresses-etc.md#section-286yy).
 
 
-<a id="section-290m"></a>
-## § 290m. Representation in Organization
+<a id="section-290m-2"></a>
+## § 290m–2. Congressional notification with respect to exceptional access lending
+**(a) In general** The United States Executive Director at the Fund may not support any proposal that would alter the criteria used by the Fund for exceptional access lending if the proposal would permit a country that is ineligible, before the proposed alteration, to receive exceptional access lending, unless, not later than 15 days before consideration of the proposal by the Board of Executive Directors of the Fund, the Secretary of the Treasury has submitted to the Committee on Financial Services of the House of Representatives and the Committee on Foreign Relations of the Senate a report on the justification for the proposal and the effects of the proposed alteration on moral hazard and repayment risk at the Fund.
+
+**(b) Waiver** The Secretary of the Treasury may reduce the applicable notice period required under subsection (a) to not less than 7 days on reporting to the Committee on Financial Services of the House of Representatives and Committee on Foreign Relations of the Senate that the reduction is important to the national interest of the United States, with an explanation of the reasons therefor.
+
+### Statutory Notes
+
+#### Repeal of Section
+Pub. L. 118–47, div. F, title VII, § 7071(d)(2), Mar. 23, 2024, 138 Stat. 852, provided that, effective on the date that is 10 years after Mar. 23, 2024, this section is repealed.
+
+#### Effective Date of Repeal
+Pub. L. 118–47, div. F, title VII, § 7071(d)(2), Mar. 23, 2024, 138 Stat. 852, provided that the repeal of this section is effective on the date that is 10 years after Mar. 23, 2024.
+
+
+<a id="section-290m-3"></a>
+## § 290m–3. Representation in Organization
 **(a) Appointment of representative; rank, status, and tenure; duties** The President, by and with the advice and consent of the Senate, shall appoint a representative of the United States to the United Nations who shall have the rank and status of Ambassador Extraordinary and Plenipotentiary and shall hold office at the pleasure of the President. Such representative shall represent the United States in the Security Council of the United Nations and may serve ex officio as representative of the United States in any organ, commission, or other body of the United Nations other than specialized agencies of the United Nations, and shall perform such other functions in connection with the participation of the United States in the United Nations as the President may, from time to time, direct.
 
 **(b) Appointment of additional representatives; rank, status, and tenure; duties; reappointment unnecessary** The President, by and with the advice and consent of the Senate, shall appoint additional persons with appropriate titles, rank, and status to represent the United States in the principal organs of the United Nations and in such organs, commissions, or other bodies as may be created by the United Nations with respect to nuclear energy or disarmament (control and limitation of armament). Such persons shall serve at the pleasure of the President and subject to the direction of the Representative of the United States to the United Nations. They shall, at the direction of the Representative of the United States to the United Nations, represent the United States in any organ, commission, or other body of the United Nations, including the Security Council, the Economic and Social Council, and the Trusteeship Council, and perform such other functions as the Representative of the United States is authorized to perform in connection with the participation of the United States in the United Nations. Any Deputy Representative or any other officer holding office at the time the provisions of this Act, as amended, become effective shall not be required to be reappointed by reason of the enactment of this Act, as amended.
@@ -11422,14 +11819,14 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 William J. Clinton.
 
 
-<a id="section-290m-1"></a>
-## § 290m–1. Action by representatives in accordance with Presidential instructions; voting
+<a id="section-290m-4"></a>
+## § 290m–4. Action by representatives in accordance with Presidential instructions; voting
 
 The representatives provided for in [section 287 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287), when representing the United States in the respective organs and agencies of the United Nations, shall, at all times, act in accordance with the instructions of the President transmitted by the Secretary of State unless other means of transmission is directed by the President, and such representatives shall, in accordance with such instructions, cast any and all votes under the Charter of the United Nations.
 
 
-<a id="section-290m-2"></a>
-## § 290m–2. Reports to Congress by President
+<a id="section-290m-5"></a>
+## § 290m–5. Reports to Congress by President
 **(a) Periodic reports** The President shall, from time to time as occasion may require, but not less than once each year, make reports to the Congress of the activities of the United Nations and of the participation of the United States therein.
 
 **(b) Annual report on financial contributions** Not later than July 1 of each year, the Secretary of State shall submit a report to the designated congressional committees on the extent and disposition of all financial contributions made by the United States during the preceding year to international organizations in which the United States participates as a member.
@@ -11643,8 +12040,8 @@ Pub. L. 98–164, title I, § 117, Nov. 22, 1983, 97 Stat. 1022, as amended by P
 For delegation of congressional reporting functions of President under this section, see section 1 of Ex. Ord. No. 13313, July 31, 2003, 68 F.R. 46073, 46074, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
-<a id="section-290m-3"></a>
-## § 290m–3. Additional report on other United States contributions to the United Nations
+<a id="section-290m-6"></a>
+## § 290m–6. Additional report on other United States contributions to the United Nations
 **(a) In general** Not later than 90 days after December 16, 2016, and annually thereafter, the Director of the Office of Management and Budget shall submit to Congress a report on all assessed and voluntary contributions with a value greater than $100,000, including in-kind, of the United States Government to the United Nations and its affiliated agencies and related bodies during the previous fiscal year.
 
 **(b) Content** The report required under subsection (a) shall include the following elements:
@@ -11675,8 +12072,8 @@ For delegation of congressional reporting functions of President under this sect
 Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.
 
 
-<a id="section-290m-4"></a>
-## § 290m–4. Economic and communication sanctions pursuant to United Nations Security Council Resolution
+<a id="section-290m-7"></a>
+## § 290m–7. Economic and communication sanctions pursuant to United Nations Security Council Resolution
 **(a) Enforcement measures; importation of Rhodesian chromium** Notwithstanding the provisions of any other law, whenever the United States is called upon by the Security Council to apply measures which said Council has decided, pursuant to article 41 of said Charter, are to be employed to give effect to its decisions under said Charter, the President may, to the extent necessary to apply such measures, through any agency which he may designate, and under such orders, rules, and regulations as may be prescribed by him, investigate, regulate, or prohibit, in whole or in part, economic relations or rail, sea, air, postal, telegraphic, radio, and other means of communication between any foreign country or any national thereof or any person therein and the United States or any person subject to the jurisdiction thereof, or involving any property subject to the jurisdiction of the United States. Any Executive order which is issued under this subsection and which applies measures against Southern Rhodesia pursuant to any United Nations Security Council Resolution may be enforced, notwithstanding the provisions of any other law. The President may exempt from such Executive order any shipment of chromium in any form which is in transit to the United States on March 18, 1977.
 
 **(b) Penalties** Any person who willfully violates or evades or attempts to violate or evade any order, rule, or regulation issued by the President pursuant to subsection (a) of this section shall, upon conviction, be fined not more than $1,000,000 or, if a natural person, be imprisoned for not more than 20 years, or both.
@@ -11795,8 +12192,8 @@ Sec. 7. Effective Date. This order shall take effect at 11:59 p.m. eastern dayli
 William J. Clinton.
 
 
-<a id="section-290m-5"></a>
-## § 290m–5. Use of armed forces; limitations
+<a id="section-290m-8"></a>
+## § 290m–8. Use of armed forces; limitations
 
 The President is authorized to negotiate a special agreement or agreements with the Security Council which shall be subject to the approval of the Congress by appropriate Act or joint resolution, providing for the numbers and types of armed forces, their degree of readiness and general location, and the nature of facilities and assistance, including rights of passage, to be made available to the Security Council on its call for the purpose of maintaining international peace and security in accordance with article 43 of said Charter. The President shall not be deemed to require the authorization of the Congress to make available to the Security Council on its call in order to take action under article 42 of said Charter and pursuant to such special agreement or agreements the armed forces, facilities, or assistance provided for therein: Provided, That, except as authorized in [section 287d–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287d-1), nothing herein contained shall be construed as an authorization to the President by the Congress to make available to the Security Council for such purpose armed forces, facilities, or assistance in addition to the forces, facilities, and assistance provided for in such special agreement or agreements.
 
@@ -11811,8 +12208,8 @@ Herein, referred to in text, means act Dec. 20, 1945, ch. 583, 59 Stat. 619, kno
 1949—Act Oct. 10, 1949, inserted “, except as authorized in [section 287d–1 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287d-1),” in proviso.
 
 
-<a id="section-290m-6"></a>
-## § 290m–6. Noncombatant assistance to United Nations
+<a id="section-290n"></a>
+## § 290n. Noncombatant assistance to United Nations
 **(a) Armed forces details; supplies and equipment; obligation of funds; procurement and replacement of requested items** Notwithstanding the provisions of any other law, the President, upon the request by the United Nations for cooperative action, and to the extent that he finds that it is consistent with the national interest to comply with such request, may authorize, in support of such activities of the United Nations as are specifically directed to the peaceful settlement of disputes and not involving the employment of armed forces contemplated by chapter VII of the United Nations Charter—
 
 (1) the detail to the United Nations, under such terms and conditions as the President shall determine, of personnel of the armed forces of the United States to serve as observers, guards, or in any non-combatant capacity, but in no event shall more than a total of one thousand of such personnel be so detailed at any one time: Provided, That while so detailed, such personnel shall be considered for all purposes as acting in the line of duty, including the receipt of pay and allowances as personnel of the armed forces of the United States, credit for longevity and retirement, and all other perquisites appertaining to such duty: Provided further, That upon authorization or approval by the President, such personnel may accept directly from the United Nations (a) any or all of the allowances or perquisites to which they are entitled under the first proviso hereof, and (b) extraordinary expenses and perquisites incident to such detail;
@@ -11846,8 +12243,8 @@ By virtue of the authority vested in me by the Constitution and the statutes, in
 Harry S Truman.
 
 
-<a id="section-290m-7"></a>
-## § 290m–7. Authorization of appropriations; payment of expenses
+<a id="section-290n-1"></a>
+## § 290n–1. Authorization of appropriations; payment of expenses
 
 There is hereby authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated, such sums as may be necessary for the payment by the United States of its share of the expenses of the United Nations as apportioned by the General Assembly in accordance with article 17 of the Charter, and for all necessary salaries and expenses of the representatives provided for in [section 287 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287), and of their appropriate staffs, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; travel expenses without regard to the Standardized Government Travel Regulations, as amended, subchapter I of chapter 57 and [section 5731 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5731&num=0&edition=prelim) and, under such rules and regulations as the Secretary of State may prescribe, travel expenses of families and transportation of effects of United States representatives and other personnel in going to and returning from their post of duty; allowances for living quarters, including heat, fuel, and light, as authorized by [section 5912 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5912&num=0&edition=prelim); cost-of-living allowances for personnel stationed abroad under such rules and regulations as the Secretary of State may prescribe; communications services; stenographic reporting, translating, and other services, by contract; hire of passenger motor vehicles and other local transportation; rent of offices; printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim); allowances and expenses as provided in [section 287r of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287r), and allowances and expenses equivalent to those provided in [section 4085 of this title](./chapter-052-foreign-service.md#section-4085); the lease or rental (for periods not exceeding ten years) of living quarters for the use of the representatives provided for in [section 287 of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287) serving abroad and of their appropriate staffs the cost of installation and use of telephones in the same manner as telephone service is provided for use of the Foreign Service pursuant to [section 1348 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1348&num=0&edition=prelim), and unusual expenses similar to those authorized by [section 5913 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5913&num=0&edition=prelim), incident to the operation and maintenance of such living quarters abroad; and such other expenses as may be authorized by the Secretary of State; all without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim).
 
@@ -11911,9 +12308,7 @@ Similar provisions were contained in the following prior authorization act:
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title I, § 106(g)], Nov. 29, 1999, 113 Stat. 1536, 1501A–416.
 
 #### Reduction in Appropriations for Contributions to International Organizations If Official Status, Accreditation, or Recognition Is Granted to Organization Seeking Legalization of Pedophilia
-Pub. L. 103–236, title I, § 102(g), Apr. 30, 1994, 108 Stat. 389, as amended by Pub. L. 103–415, § 1(o), Oct. 25, 1994, 108 Stat. 4301, provided that: “Notwithstanding any other provision of law, the funds authorized to be appropriated for the United Nations and its affiliated agencies in ‘Contributions for International Organizations’ shall be reduced in the amount of $118,875,000 for fiscal year 1995, and for each year thereafter, until the President certifies to the Speaker of the House of Representatives and the President of the Senate that no United Nations agency or United Nations affiliated agency grants any official status, accreditation, or recognition to any organization which promotes and condones or seeks the legalization of pedophilia, or which includes as a subsidiary or member any such organization.”
-
-[Functions of President under section 102(g) of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under [section 2370a of this title](./chapter-032-foreign-assistance.md#section-2370a).]
+Pub. L. 103–236, title I, § 102(g), Apr. 30, 1994, 108 Stat. 389, as amended by Pub. L. 103–415, § 1(o), Oct. 25, 1994, 108 Stat. 4301, which provided that funds authorized to be appropriated for the United Nations and its affiliated agencies were to be reduced in a certain amount for fiscal year 1995 and each year thereafter until the President certified to the Speaker of the House of Representatives and the President of the Senate that no United Nations agency or United Nations affiliated agency granted any official status, accreditation, or recognition to any organization seeking the legalization of pedophilia, was repealed by Pub. L. 117–263, div. I, title XCVII, § 9716(d), Dec. 23, 2022, 136 Stat. 3921.
 
 #### Membership of Palestine Liberation Organization in United Nations Agencies
 Pub. L. 101–246, title IV, § 414, Feb. 16, 1990, 104 Stat. 70, provided that: “(a) Prohibition.—No funds authorized to be appropriated by this Act or any other Act shall be available for the United Nations or any specialized agency thereof which accords the Palestine Liberation Organization the same standing as member states. “(b) Transfer or Reprogramming.—Funds subject to the prohibition contained in subsection (a) which would be available for the United Nations or any specialized agency thereof (but for that prohibition) are authorized to remain available until expended and may be reprogrammed or transferred to any other account of the Department of State or the Agency for International Development to carry out the general purposes for which such funds were authorized.”
@@ -11963,14 +12358,14 @@ Pub. L. 92–544, title I, § 101, Oct. 25, 1972, 86 Stat. 1110, as amended by P
 Pub. L. 92–226, pt. IV, § 410, Feb. 7, 1972, 86 Stat. 36, provided that: “The Congress strongly urges the President to undertake such negotiations as may be necessary to implement that portion of the recommendations of the Report of the President’s Commission for the Observance of the Twenty-fifth Anniversary of the United Nations (known as the ‘Lodge Commission’) which proposes that the portion of the regular assessed costs to be paid by the United States to the United Nations be reduced so that the United States is assessed in each year not more than 25 per centum of such costs assessed all members of the United Nations for that year.”
 
 
-<a id="section-290m-8"></a>
-## § 290m–8. Housing supplement for certain employees assigned to the United States Mission to the United Nations
+<a id="section-290n-2"></a>
+## § 290n–2. Housing supplement for certain employees assigned to the United States Mission to the United Nations
 
 The Secretary of State may, under such regulations as he shall prescribe, and notwithstanding section 3324(a) and (b) of title 31 and [section 5536 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5536&num=0&edition=prelim):
 
 (1) Make available to the Representative of the United States to the United Nations and the Deputy Permanent Representative of the United States to the United Nations living quarters leased or rented by the United States (for periods not exceeding ten years) and allowances for unusual expenses incident to the operation and maintenance of such living quarters similar to those and to be considered for all purposes as authorized by [section 5913 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5913&num=0&edition=prelim).
 
-(2) Make available in New York to no more than 30 foreign service employees of the staff of the United States Mission to the United Nations, other representatives, and no more than two employees who serve at the pleasure of the Representative, living quarters leased or rented by the United States (for periods not exceeding ten years). The number of employees to which such quarters will be made available shall be determined by the Secretary and shall reflect a significant reduction over the number of persons eligible for housing benefits as of October 1, 1988. No employee may occupy a unit under this provision if the unit is owned by the employee. The Secretary shall require that each employee occupying housing under this subsection contribute to the Department of State a percentage of his or her base salary, in an amount to be determined by the Secretary of State, toward the cost of such housing. The Secretary may reduce such payments to the extent of income taxes paid on the value of the leased or rented quarters any payments made by employees to the Department of State for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
+(2) Make available in New York to no more than 41 foreign service employees of the staff of the United States Mission to the United Nations, other representatives, and no more than two employees who serve at the pleasure of the Representative, living quarters leased or rented by the United States (for periods not exceeding ten years). The number of employees to which such quarters will be made available shall be determined by the Secretary and shall reflect a significant reduction over the number of persons eligible for housing benefits as of October 1, 1988. No employee may occupy a unit under this provision if the unit is owned by the employee. The Secretary shall require that each employee occupying housing under this subsection contribute to the Department of State a percentage of his or her base salary, in an amount to be determined by the Secretary of State, toward the cost of such housing. The Secretary may reduce such payments to the extent of income taxes paid on the value of the leased or rented quarters any payments made by employees to the Department of State for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
 
 (3) provide 11 So in original. Probably should be capitalized. such allowance as the Secretary considers appropriate, to each Delegate and Alternate Delegate of the United States to any session of the General Assembly of the United Nations who is not a permanent member of the staff of the United States Mission to the United Nations, in order to compensate each such Delegate or Alternate Delegate for necessary housing and subsistence expenses incurred by him with respect to attending any such session.
 
@@ -11984,6 +12379,8 @@ The Secretary of State may, under such regulations as he shall prescribe, and no
 “[Section 5913 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5913&num=0&edition=prelim)” substituted in par. (1) for “section 22 of the Administrative Expenses Act of 1946, as amended by section 311 of the Overseas Differentials and Allowances Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Par. (2). Pub. L. 117–263 substituted “41” for “30”.
+
 2000—Par. (2). Pub. L. 106–309 substituted “30 foreign service employees” for “18 foreign service employees”.
 
 1988—Pub. L. 100–459, § 304(b)(1), (3), substituted reference to Secretary of State for reference to President in introductory provisions and struck out last sentence providing that not more than fifty employees, including not more than five employees of the United Stated Information Agency, could receive an allowance under par. (1) of this section at any one time.
@@ -12003,8 +12400,8 @@ Pub. L. 100–459, title III, § 304(c), Oct. 1, 1988, 102 Stat. 2208, provided 
 Authority of President under this section delegated to Secretary of State, see section 4(b) of Ex. Ord. No. 11609, July 22, 1971, 36 F.R. 13747, as amended by Ex. Ord. No. 11779, Apr. 22, 1974, 39 F.R. 14185, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
-<a id="section-290n"></a>
-## § 290n. Reimbursement for goods and services provided by the United States to the United Nations
+<a id="section-290n-3"></a>
+## § 290n–3. Reimbursement for goods and services provided by the United States to the United Nations
 **(a) Requirement to obtain reimbursement**
 
 (1) **In general** — Except as provided in paragraph (2), the President shall seek and obtain in a timely fashion a commitment from the United Nations to provide reimbursement to the United States from the United Nations whenever the United States Government furnishes assistance pursuant to the provisions of law described in subsection (c)—
@@ -12076,14 +12473,20 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 
-<a id="section-290n-1"></a>
-## § 290n–1. Limitation on the United States share of assessments for United Nations regular budget
+<a id="section-290n-4"></a>
+## § 290n–4. Limitation on the United States share of assessments for United Nations regular budget
 
 None of the funds available to the Department of State shall be used to pay the United States share of assessed contributions for the regular budget of the United Nations in an amount greater than 22 percent of the total of all assessed contributions for that budget.
 
 
-<a id="section-290n-2"></a>
-## § 290n–2. Omitted
+<a id="section-290n-5"></a>
+## § 290n–5. Limitation on United States contributions to peacekeeping operations not authorized by the United Nations Security Council
+
+None of the funds authorized to be appropriated or otherwise made available to pay assessed and other expenses of international peacekeeping activities under this subchapter may be made available for an international peacekeeping operation that has not been expressly authorized by the United Nations Security Council.
+
+
+<a id="section-290n-6"></a>
+## § 290n–6. Omitted
 
 ### Statutory Notes
 
@@ -12091,8 +12494,8 @@ None of the funds available to the Department of State shall be used to pay the 
 Section, act Oct. 22, 1951, ch. 533, title I, 65 Stat. 577, which authorized the Department of State to acquire surplus property for the United Nations and authorized the reduction of the United States contribution to the United Nations by the value of the property acquired and expenses incidental thereto, was from the Department of State Appropriation Act, 1952, and was not repeated in subsequent appropriation acts. Similar provisions were contained in act Sept. 6, 1950, ch. 896, ch. III, title I, 64 Stat. 610.
 
 
-<a id="section-290n-3"></a>
-## § 290n–3. Authorization of appropriations for loan to United Nations; restrictions on use of proceeds of loan
+<a id="section-290o"></a>
+## § 290o. Authorization of appropriations for loan to United Nations; restrictions on use of proceeds of loan
 
 There is hereby authorized to be appropriated to the President, without fiscal-year limitation, out of any money in the Treasury not otherwise appropriated, $100,000,000 for a loan to the United Nations. The proceeds of such loan shall not be used to relieve members of the United Nations of their obligation to pay arrearages on payments of any United Nations assessments, and shall not be used to reduce regular or special assessments against any such members.
 
@@ -12102,8 +12505,8 @@ There is hereby authorized to be appropriated to the President, without fiscal-y
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.
 
 
-<a id="section-290n-4"></a>
-## § 290n–4. Limitation on loan
+<a id="section-290o-1"></a>
+## § 290o–1. Limitation on loan
 
 The total amount of money that may be loaned to the United Nations pursuant to the authorization contained in [section 287g of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287g) shall not exceed the aggregate amount of loans made by other nations.
 
@@ -12113,8 +12516,8 @@ The total amount of money that may be loaned to the United Nations pursuant to t
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.
 
 
-<a id="section-290n-5"></a>
-## § 290n–5. Deduction of principal and interest from annual payment of assessed share of United States of budget
+<a id="section-290o-2"></a>
+## § 290o–2. Deduction of principal and interest from annual payment of assessed share of United States of budget
 
 There shall be deducted from the annual payment of the assessed share of the United States of the budget of the United Nations an amount equal to the corresponding annual installment of principal and interest due to the United States on account of the loan made pursuant to [section 287g of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287g).
 
@@ -12124,8 +12527,8 @@ There shall be deducted from the annual payment of the assessed share of the Uni
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.
 
 
-<a id="section-290n-6"></a>
-## § 290n–6. Participation in future United Nations borrowing; promotion of pattern of financing to avoid future large-scale deficits; report to Congress
+<a id="section-290o-3"></a>
+## § 290o–3. Participation in future United Nations borrowing; promotion of pattern of financing to avoid future large-scale deficits; report to Congress
 
 Nothing herein shall be regarded as authorizing the United States to participate in any future United Nations borrowing. It is the sense of the Congress that the United States shall use its best efforts to promote a pattern of United Nations financing (including a vigorous program for collection of delinquencies on annual assessments of nations and maintenance of such annual assessments on a current basis) that will avoid any future large-scale deficits.
 
@@ -12137,8 +12540,8 @@ Section originally contained a provision instructing the Department of State to 
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.
 
 
-<a id="section-290o"></a>
-## § 290o. Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are “expenses of the Organization”
+<a id="section-290o-4"></a>
+## § 290o–4. Congressional expression of satisfaction that expenditures relating to operations in Middle East and in the Congo are “expenses of the Organization”
 
 The Congress expresses its satisfaction that the International Court of Justice has decided that the expenditures authorized in resolutions of the United Nations General Assembly relating to operations in the Middle East and in the Congo are “expenses of the Organization” within the meaning of the United Nations Charter, thereby providing a sound basis for obtaining prompt payment of assessments for such expenditures by making them obligations of all members of the United Nations.
 
@@ -12148,8 +12551,8 @@ The Congress expresses its satisfaction that the International Court of Justice 
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.
 
 
-<a id="section-290o-1"></a>
-## § 290o–1. Congressional declaration that United Nations take steps to give effect to advisory opinion of International Court of Justice on financial obligations of members
+<a id="section-290o-5"></a>
+## § 290o–5. Congressional declaration that United Nations take steps to give effect to advisory opinion of International Court of Justice on financial obligations of members
 
 It is the sense of the Congress that the United Nations should take immediate steps to give effect to the advisory opinion of the International Court of Justice on the financial obligations of members of the United Nations in order to assure prompt payment of all assessments, including assessments to cover the cost of operations to maintain or restore international peace and security.
 
@@ -12159,8 +12562,8 @@ It is the sense of the Congress that the United Nations should take immediate st
 Section was not enacted as part of act Dec. 20, 1945, ch. 583, 59 Stat. 619, known as the United Nations Participation Act of 1945, which comprises this subchapter.
 
 
-<a id="section-290o-2"></a>
-## § 290o–2. Acceptance of membership by the United States
+<a id="section-290o-6"></a>
+## § 290o–6. Acceptance of membership by the United States
 
 The President is hereby authorized to accept membership for the United States in the United Nations Educational, Scientific, and Cultural Organization (hereinafter referred to as the “Organization”), the constitution of which was approved in London on November 16, 1945, by the United Nations Conference for the establishment of an Educational, Scientific, and Cultural Organization, and deposited in the Archives of the Government of the United Kingdom.
 
@@ -12353,8 +12756,8 @@ Done in London the sixteenth day of November, 1945 in a single copy, in the Engl
 [Here follow the signatures of the heads of the delegations.]
 
 
-<a id="section-290o-3"></a>
-## § 290o–3. Representatives in General Conference; number; citizenship; compensation
+<a id="section-290o-7"></a>
+## § 290o–7. Representatives in General Conference; number; citizenship; compensation
 
 The President by and with the consent of the Senate shall designate from time to time to attend a specified session or specified sessions of the General Conference of the Organization not to exceed five representatives of the United States and such number of alternates not to exceed five as he may determine consistent with the rules of procedure of the General Conference: Provided, however, That each such representative and each such alternate must be an American citizen. One of the representatives shall be designated as the senior representative. Such representatives and alternates shall each be entitled to receive compensation at such rates provided for members of the Senior Foreign Service under [section 3962 of this title](./chapter-052-foreign-service.md#section-3962), or provided for Foreign Service officers under [section 3963 of this title](./chapter-052-foreign-service.md#section-3963), as the President may determine, for such periods as the President may specify, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under this section as a representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Whenever a representative of the United States is elected by the General Conference to serve on the Executive Board, or is elected President of the General Conference and thus becomes an ex officio adviser to the Executive Board, under provision of article V of the constitution of the Organization, the President may extend the above provisions for compensation to such representative during periods of service in connection with the Executive Board.
 
@@ -12380,8 +12783,8 @@ Amendment by Pub. L. 88–426 effective on first day of first pay period which b
 Section 112 of act July 31, 1956, cited as a credit to this section, was repealed by section 305(1) of Pub. L. 88–426.
 
 
-<a id="section-290o-4"></a>
-## § 290o–4. National Commission on Educational, Scientific, and Cultural Cooperation; membership; meetings; expenses
+<a id="section-290p"></a>
+## § 290p. National Commission on Educational, Scientific, and Cultural Cooperation; membership; meetings; expenses
 
 In fulfillment of article VII of the constitution of the Organization, the Secretary of State shall cause to be organized a National Commission on Educational, Scientific, and Cultural Corporation 11 So in original. Probably should be “Cooperation”. of not to exceed one hundred members. Such Commission shall be appointed by the Secretary of State and shall consist of (a) not more than sixty representatives of principal national, voluntary organizations interested in educational, scientific, and cultural matters; and (b) not more than forty outstanding persons selected by the Secretary of State, including not more than ten persons holding office under or employed by the Government of the United States, not more than fifteen representatives of the educational, scientific, and cultural interests of State and local governments, and not more than fifteen persons chosen at large. The Secretary of State is authorized to name in the first instance fifty of the principal national voluntary organizations, each of which shall be invited to designate one representative for appointment to the National Commission. Thereafter, the National Commission shall periodically review and, if deemed advisable, revise the list of such organizations designating representatives in order to achieve a desirable rotation among organizations represented. To constitute the initial Commission, one-third of the members shall be appointed to serve for a term of one year, one-third for a term of two years, and one-third or the remainder thereof for a term of three years; from thence on following, all members shall be appointed for a term of three years each, but no member shall serve more than two consecutive terms. The National Commission shall meet at least once annually. The National Commission shall designate from among its members an executive committee, and may designate such other committees as may prove necessary, to consult with the Department of State and to perform such other functions as the National Commission shall delegate to them. No member of the National Commission shall be allowed any salary or other compensation for services: Provided, however, That he may be paid transportation and other expenses as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim). The Department of State is authorized to provide the necessary secretariat for the Commission.
 
@@ -12397,91 +12800,7 @@ Article VII of the constitution of the Organization, referred to in text, is art
 1961—Pub. L. 87–139 substituted provisions for payment of transportation and other expenses as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), for provisions authorizing payment of actual transportation expenses plus a $10 maximum per diem.
 
 
-<a id="section-290o-5"></a>
-## § 290o–5. Citizenship of members
+<a id="section-290q"></a>
+## § 290q. Citizenship of members
 
 Each such member of the National Commission must be an American citizen.
-
-
-<a id="section-290o-6"></a>
-## § 290o–6. General and special conferences; expenses; acceptance of services and gifts or bequests of money or materials
-
-The National Commission shall call general conferences for the discussion of matters relating to the activities of the Organization, to which conferences organized bodies actively interested in such matters shall be invited to send representatives: Provided, however, That the travel and maintenance of such representation shall be without expense to the Government. Such general conferences shall be held annually or biennially, as the National Commission may determine, and in such places as it may designate. They shall be attended so far as possible by the members of the National Commission and by the delegates of the United States to the General Conference of the Organization. The National Commission is further authorized to call special conferences of experts for the consideration of specific matters relating to the Organization by persons of specialized competences. The Department of State may pay their transportation and other expenses as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), for the period of actual attendance and of necessary travel. The National Commission is further authorized to receive and accept services and gifts or bequests of money or materials to carry out any of the educational, scientific, or cultural purposes of the National Commission as set forth in this subchapter and in the constitution of the Organization. Any money so received shall be held by the Secretary of State and shall be subject to disbursement through the disbursement facilities of the Treasury Department as the terms of the gift or bequest may require and shall remain available for expenditure by grant or otherwise until expended: Provided, That no such gift or bequest may be accepted or disbursed if the terms thereof are inconsistent with the purposes of the National Commission as set forth in this subchapter and in the constitution of the Organization. Gifts or bequests provided for herein shall, for the purposes of Federal income, estate, and gift taxes, be deemed to be a gift to or for the United States. The National Commission and Secretary of State shall submit to Congress annual reports of receipts and expenditures of funds and bequests received and disbursed pursuant to the provisions of this section.11 See Termination of Reporting Requirements note below.
-
-### Statutory Notes
-
-#### References in Text
-The constitution of the Organization, referred to in text, is the Constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).
-
-#### Codification
-“[Section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim)” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended ([5 U.S.C. 73b–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section73b–2&num=0&edition=prelim))” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
-
-#### Amendments
-1983—Pub. L. 98–164 struck out provision prohibiting acceptance of gifts or bequests aggregating more than $200,000 in any year.
-
-1961—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), for provisions which allowed the experts $10 per diem plus actual transportation expenses.
-
-1958—Pub. L. 85–477 authorized the National Commission to receive and accept services and gifts or bequests of money or materials.
-
-#### Termination of Reporting Requirements
-Pub. L. 89–348, § 1(21), Nov. 8, 1965, 79 Stat. 1311, repealed the following reporting requirement: “The annual report to Congress by the National Commission on Educational, Scientific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization (72 Stat. 273; [22 U.S.C. 287q](./chapter-007-international-bureaus-congresses-etc.md#section-287q)).”
-
-
-<a id="section-290o-7"></a>
-## § 290o–7. Authorization of appropriations; payment of expenses
-
-There is hereby authorized to be appropriated annually to the Department of State, out of any money in the Treasury not otherwise appropriated such sums as may be necessary for the payment by the United States of its share of the expenses of the Organization as apportioned by the General Conference of the Organization in accordance with article IX of the constitution of the Organization, and such additional sums as may be necessary to pay the expenses of participation by the United States in the activities of the Organization, including: (a) salaries of the representatives provided for in [section 287n of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287n), of their appropriate staffs, and of members of the secretariat of the National Commission provided for in section 287o of this title, including personal services in the District of Columbia and elsewhere, without regard to the civil-service laws and chapter 51 and subchapter III of chapter 53 of title 5; (b) travel expenses without regard to the Standardized Government Travel Regulations, as amended, the Subsistence Expense Act of 1926, as amended, and [section 5731 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5731&num=0&edition=prelim), and, under such rules and regulations as the Secretary of State may prescribe, travel expenses of families and transportation of effects of United States representatives and other personnel in going to and returning from their post of duty; (c) allowances for living quarters, including heat, fuel, and light, as authorized by [section 5912 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5912&num=0&edition=prelim); (d) cost of living allowances under such rules and regulations as the Secretary of State may prescribe, including allowances to persons temporarily stationed abroad; (e) communication services; (f) stenographic reporting, translating, and other services, by contract, if deemed necessary, without regard to [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); (g) local transportation; (h) equipment; (i) transportation of things; (j) rent of offices; (k) printing and binding without regard to [section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim) and [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim); (l) official entertainment; (m) stationery; (n) purchase of newspapers, periodicals, books, and documents; and (o) such other expenses as may be authorized by the Secretary of State.
-
-### Statutory Notes
-
-#### References in Text
-Article IX of the constitution of the Organization, referred to in text, is article IX of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).
-
-The Subsistence Expenses Act of 1926, as amended, referred to in clause (b), was repealed and superseded by the Travel Expense Act of 1949, which is now covered by subchapter I of chapter 57 of Title 5. Section 9(a) of the 1949 Act provided in part: “All Acts . . . applicable to civilian officers or employees of the departments and establishments, providing for reimbursement of actual travel or transportation expense, and all other Acts, general or special, which are in conflict with the provisions of this Act . . . are hereby modified, but only to the extent of inconsistency or conflict with the provisions of this Act . . .”
-
-#### Codification
-In cl. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5, Government Organization and Employees.
-
-In cls. (b) and (c), “[section 5731 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5731&num=0&edition=prelim)” and “[section 5912 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5912&num=0&edition=prelim)” substituted for “section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” and “the Act approved June 26, 1930 (U.S.C., title 5, sec. 118a)”, respectively, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, which Act enacted Title 5.
-
-In cl. (f), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In cl. (k), “[section 501 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section501&num=0&edition=prelim)” substituted for “section 11 of the Act of March 1, 1919 ([44 U.S.C. 111](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section111&num=0&edition=prelim))” on authority of Pub. L. 90–620, § 2(b), Oct. 22, 1968, which Act enacted Title 44, Public Printing and Documents.
-
-In cl. (k), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes (U.S.C., title 41, sec. 5)” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-#### Amendments
-1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
-
-#### Repeals
-Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
-
-#### Annual Appropriations
-Annual appropriations to meet the obligations of membership in various international organizations were contained in acts listed in a note set out under [section 269a of this title](./chapter-007-international-bureaus-congresses-etc.md#section-269a).
-
-#### Restriction on Contributions Because of Journalistic Interference; Report to Congress
-Pub. L. 97–241, title I, § 109, Aug. 24, 1982, 96 Stat. 276, provided that: “(a) None of the funds authorized to be appropriated by paragraph (2) of section 102 of this Act [section 102(2) of Pub. L. 97–241, which was not classified to the Code] or by any other Act for ‘International Organizations and Conferences’ may be used for payment by the United States of its contribution toward the assessed budget of the United Nations Educational, Scientific and Cultural Organization if that organization implements any policy or procedure the effect of which is to license journalists or their publications, to censor or otherwise restrict the free flow of information within or among countries, or to impose mandatory codes of journalistic practice or ethics. “(b) Not later then February 1 of each year, the Secretary of State shall report to the Congress with respect to whether the United Nations Educational, Scientific and Cultural Organization has taken any action described in subsection (a) of this section.”
-
-[For termination, effective May 15, 2000, of reporting provisions in section 109(b) of Pub. L. 97–241, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 130 of House Document No. 103–7.]
-
-
-<a id="section-290p"></a>
-## § 290p. Amendments to constitution of Organization involving new obligations
-
-Unless Congress by law authorizes such action, neither the President nor any person or agency shall on behalf of the United States approve any amendment under article XIII of the constitution of the Organization involving any new obligation for the United States.
-
-### Statutory Notes
-
-#### References in Text
-Article XIII of the constitution of the Organization, referred to in text, is article XIII of the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).
-
-
-<a id="section-290q"></a>
-## § 290q. Prohibition against disclosure of information or knowledge
-
-In adopting this subchapter, it is the understanding of the Congress that the constitution of the Organization does not require, nor does this subchapter authorize, the disclosure of any information or knowledge in any case in which such disclosure is prohibited by any law of the United States.
-
-### Statutory Notes
-
-#### References in Text
-The constitution of the Organization, referred to in text, is the constitution of the United Nations Educational, Scientific, and Cultural Organization, which is set out as a note under [section 287m of this title](./chapter-007-international-bureaus-congresses-etc.md#section-287m).

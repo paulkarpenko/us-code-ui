@@ -606,7 +606,7 @@ Committee on Interior and Insular Affairs of House of Representatives changed to
 
   (A) *Nonimmigrant workers generally* — An alien, if otherwise qualified, may seek admission to Guam or to the Commonwealth during the transition program as a nonimmigrant worker under section 101(a)(15)(H) of the Immigration and Nationality Act (8 USC 11 So in original. Probably should be “U.S.C.” 1101(a)(15)(H)) without counting against the numerical limitations set forth in section 214(g) of such Act (8 USC 1 1184(g)).
 
-  (B) *H-2B workers* — In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/H/ii/b&num=0&edition=prelim)), the alien, if otherwise qualified, may, before December 31, 2023, be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
+  (B) *H-2B workers* — In the case of an alien described in subparagraph (A) who seeks admission under section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/H/ii/b&num=0&edition=prelim)), the alien, if otherwise qualified, may, before December 31, 2029, be admitted under such section, notwithstanding the requirement of such section that the service or labor be temporary, for a period of up to 3 years—
 
     (i) to perform service or labor on Guam or in the Commonwealth pursuant to any agreement entered into by a prime contractor or subcontractor calling for services or labor required for performance of a contract or subcontract for construction, repairs, renovations, or facility services that is directly connected to, supporting, associated with, or adversely affected by the military realignment occurring on Guam and in the Commonwealth, with priority given to federally funded military projects; or
 
@@ -916,6 +916,10 @@ Section 141 of the Compact of Free Association between the Government of the Uni
 Section 141 of the Compact of Free Association between the United States and the Government of Palau, referred to in subsec. (i)(6)(C)(ii), is contained in section 201 of Pub. L. 99–658, set out as a note under [section 1931 of Title 48](./chapter-018-micronesia-marshall-islands-and-palau.md#section-1931), Territories and Insular Possessions.
 
 #### Amendments
+2023—Subsec. (b)(1)(B). Pub. L. 118–31 substituted “December 31, 2029” for “December 31, 2024” in introductory provisions.
+
+2022—Subsec. (b)(1)(B). Pub. L. 117–263 substituted “December 31, 2024” for “December 31, 2023” in introductory provisions.
+
 2021—Subsec. (b)(1)(B)(i). Pub. L. 116–283 substituted “contract” for “contact”, inserted “supporting,” after “connected to,” and “, with priority given to federally funded military projects” after “and in the Commonwealth”, and struck out “or” before “associated with”.
 
 2019—Subsec. (d)(3)(E). Pub. L. 116–94 added subpar. (E).
@@ -963,9 +967,6 @@ Subsec. (d)(2). Pub. L. 115–53, § 2(2), inserted “, except a permit for con
 Subsec. (d)(2). Pub. L. 113–235, § 10(2)(A), substituted “ ‘ending on December 31, 2019’ ” for “not to extend beyond December 31, 2014, unless extended pursuant to paragraph 5 of this subsection”.
 
 Subsec. (d)(5), (6). Pub. L. 113–235, § 10(2)(B), (C), redesignated par. (6) as (5), and struck out former par. (5), which related to ascertaining current and anticipated labor needs of the Commonwealth, determination whether an extension of up to 5 years of provisions of subsection is necessary, publication of notice of such extension, and factors in determining whether alien workers are necessary to ensure adequate number of workers.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–232, div. A, title X, § 1045(b), Aug. 13, 2018, 132 Stat. 1959, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Aug. 13, 2018].”
@@ -1071,7 +1072,7 @@ Section was enacted as part of the Consolidated Natural Resources Act of 2008, a
 #### References in Text
 The Covenant, referred to in subsec. (c), is the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, which is contained in section 1 of Pub. L. 94–241, set out as a note under [section 1801 of this title](./chapter-017-northern-mariana-islands.md#section-1801).
 
-Act of March 24, 1976, referred to in subsec. (c), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§ 1801 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+Act of March 24, 1976, referred to in subsec. (c), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§ 1801 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
 The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
@@ -1226,7 +1227,7 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 95–348, Aug. 18, 1978, 92 
 
 Public Law 95–134, referred to in subsec. (b)(1), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended, popularly known as the Omnibus Territories Act of 1977. For complete classification of this Act to the Code, see Tables.
 
-Public Law 94–241, referred to in subsecs. (b)(1), (2) and (d)(1), (2), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§ 1801 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+Public Law 94–241, referred to in subsecs. (b)(1), (2) and (d)(1), (2), is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§ 1801 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 
 The Covenant To Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in subsecs. (b)(2), (3) and (d), is contained in section 1 of Pub. L. 94–241, set out as a note under [section 1801 of this title](./chapter-017-northern-mariana-islands.md#section-1801).
 

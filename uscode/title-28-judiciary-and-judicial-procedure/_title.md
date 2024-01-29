@@ -2,7 +2,7 @@
 title: 28
 heading: JUDICIARY AND JUDICIAL PROCEDURE
 positive_law: true
-sections: 805
+sections: 806
 chapters: 79
 ---
 # Title 28. JUDICIARY AND JUDICIAL PROCEDURE

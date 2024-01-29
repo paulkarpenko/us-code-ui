@@ -8,25 +8,39 @@ source: >-
 ---
 <a id="section-1501"></a>
 ## § 1501. Congressional declaration of policy
-**(a)** It is declared to be the purposes of the Congress in this chapter to—
+**(a) Purposes.—** The purposes of this chapter are—
 
-(1) authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
+(1) to authorize and regulate the location, ownership, construction, and operation of deepwater ports in waters beyond the territorial limits of the United States;
 
-(2) provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of such ports;
+(2) to provide for the protection of the marine and coastal environment to prevent or minimize any adverse impact which might occur as a consequence of the development of deepwater ports;
 
-(3) protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
+(3) to protect the interests of the United States and those of adjacent coastal States in the location, construction, and operation of deepwater ports;
 
-(4) protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
+(4) to protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
 
-(5) promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer continental shelf 11 So in original. Probably should be capitalized. while minimizing tanker traffic and the risks attendant thereto; and
+(5) to promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer Continental Shelf while minimizing tanker traffic and the risks associated with that traffic; and
 
-(6) promote oil or natural gas production on the outer continental shelf 1 by affording an economic and safe means of transportation of outer continental shelf 1 oil or natural gas to the United States mainland.
+(6) to promote oil or natural gas production on the outer Continental Shelf by affording an economic and safe means of transportation of outer Continental Shelf oil or natural gas to the United States mainland.
 
-**(b)** The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
+**(b) Effect of chapter.—** Nothing in this chapter affects the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(1)(A)(i), inserted heading and substituted “The purposes of this chapter are—” for “It is declared to be the purposes of the Congress in this chapter to—” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 118–31, § 3514(k)(1)(A)(ii), inserted “to” after par. designation and realigned margins.
+
+Subsec. (a)(2). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (iii), inserted “to” after par. designation, substituted “deepwater ports” for “such ports”, and realigned margins.
+
+Subsec. (a)(3), (4). Pub. L. 118–31, § 3514(k)(1)(A)(ii), inserted “to” after par. designation and realigned margins.
+
+Subsec. (a)(5). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (iv), inserted “to” after par. designation, substituted “Continental Shelf” for “continental shelf” and “associated with that traffic” for “attendant thereto”, and realigned margins.
+
+Subsec. (a)(6). Pub. L. 118–31, § 3514(k)(1)(A)(ii), (v), inserted “to” after par. designation, substituted “Continental Shelf” for “continental shelf” in two places, and realigned margins.
+
+Subsec. (b). Pub. L. 118–31, § 3514(k)(1)(B), inserted heading and substituted “Nothing in this chapter affects” for “The Congress declares that nothing in this chapter shall be construed to affect” in text.
+
 2002—Subsec. (a)(5), (6). Pub. L. 107–295 inserted “or natural gas” after “oil” wherever appearing.
 
 1996—Subsec. (a)(5), (6). Pub. L. 104–324 added pars. (5) and (6).
@@ -53,25 +67,25 @@ For provisions relating to environmental effects abroad of major Federal actions
 <a id="section-1502"></a>
 ## § 1502. Definitions
 
-As used in this chapter, unless the context otherwise requires, the term—
+In this chapter:
 
-(1) “adjacent coastal State” means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be located within 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with [section 1508(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/a/2&num=0&edition=prelim);
+(1) **Adjacent coastal State.—** — The term “adjacent coastal State” means any coastal State which (A) would be directly connected by pipeline to a deepwater port, as proposed in an application; (B) would be located within 15 miles of any such proposed deepwater port; or (C) is designated by the Secretary in accordance with [section 1508(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/a/2&num=0&edition=prelim).
 
-(2) “affiliate” means any entity owned or controlled by, any person who owns or controls, or any entity which is under common ownership or control with an applicant, licensee, or any person required to be disclosed pursuant to section 1504(c)(2)(A) or (B) of this title;
+(2) **Affiliate.—** — The term “affiliate” means any entity owned or controlled by, any person who owns or controls, or any entity which is under common ownership or control with an applicant, licensee, or any person required to be disclosed pursuant to section subparagraph (A) or (B) of [section 1504(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/c/2&num=0&edition=prelim).
 
-(3) “application” means an application submitted under this Act for a license for the ownership, construction, and operation of a deepwater port;
+(3) **Application.—** — The term “application” means an application submitted under this Act for a license for the ownership, construction, and operation of a deepwater port.
 
-(4) “citizen of the United States” means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board;
+(4) **Citizen of the United States.—** — The term “citizen of the United States” means any person who is a United States citizen by law, birth, or naturalization, any State, any agency of a State or a group of States, or any corporation, partnership, or association organized under the laws of any State which has as its president or other executive officer and as its chairman of the board of directors, or holder of a similar office, a person who is a United States citizen by law, birth or naturalization and which has no more of its directors who are not United States citizens by law, birth or naturalization than constitute a minority of the number required for a quorum necessary to conduct the business of the board.
 
-(5) “coastal environment” means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including 11 So in original. Probably should be preceded by an opening parenthesis. waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources;
+(5) **Coastal environment.—** — The term “coastal environment” means the navigable waters (including the lands therein and thereunder) and the adjacent shorelines including 11 So in original. Probably should be preceded by an opening parenthesis. waters therein and thereunder). The term includes transitional and intertidal areas, bays, lagoons, salt marshes, estuaries, and beaches; the fish, wildlife and other living resources thereof; and the recreational and scenic values of such lands, waters and resources.
 
-(6) “coastal State” means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico;
+(6) **Coastal State.—** — The term “coastal State” means any State of the United States in or bordering on the Atlantic, Pacific, or Arctic Oceans, or the Gulf of Mexico.
 
-(7) “construction” means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port;
+(7) **Construction.—** — The term “construction” means the supervising, inspection, actual building, and all other activities incidental to the building, repairing, or expanding of a deepwater port or any of its components, including, but not limited to, pile driving and bulkheading, and alterations, modifications, or additions to the deepwater port.
 
-(8) “control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise;
+(8) **Control.—** — The term.“control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise.
 
-(9) “deepwater port”—
+(9) **Deepwater port.—** — The term “deepwater port”—
 
   (A) means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportation to or from any State, except as otherwise provided in [section 1522 of this title](./chapter-029-deepwater-ports.md#section-1522), and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
 
@@ -79,36 +93,51 @@ As used in this chapter, unless the context otherwise requires, the term—
 
   (C) in the case of a structure used or intended for such use with respect to natural gas, includes all components and equipment, including pipelines, pumping or compressor stations, service platforms, buoys, mooring lines, and similar facilities that are proposed or approved for construction and operation as part of a deepwater port, to the extent that they are located seaward of the high water mark and do not include interconnecting facilities; and
 
-  (D) shall be considered a “new source” for purposes of the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), and the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.);
+  (D) shall be considered a “new source” for purposes of the Clean Air Act ([42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.), and the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.).
 
-(10) “Governor” means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter;
+(10) **Governor.—** — The term “Governor” means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter.
 
-(11) “licensee” means a citizen of the United States holding a valid license for the ownership, construction, and operation of a deepwater port that was issued, transferred, or renewed pursuant to this chapter;
+(11) **Licensee.—** — The term “licensee” means a citizen of the United States holding a valid license for the ownership, construction, and operation of a deepwater port that was issued, transferred, or renewed pursuant to this chapter.
 
-(12) “marine environment” includes the coastal environment, waters of the contiguous zone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources;
+(12) **Marine environment.—** — The term “marine environment” includes the coastal environment, waters of the contiguous zone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources.
 
-(13) “natural gas” means either natural gas unmixed, or any mixture of natural or artificial gas, including compressed or liquefied natural gas, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas;
+(13) **Natural gas.—** — The term “natural gas” means either natural gas unmixed, or any mixture of natural or artificial gas, including compressed or liquefied natural gas, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas.
 
-(14) “oil” means petroleum, crude oil, and any substance refined from petroleum or crude oil;
+(14) **Oil.—** — The term “oil” means petroleum, crude oil, and any substance refined from petroleum or crude oil.
 
-(15) “person” includes an individual, a public or private corporation, a partnership or other association, or a government entity;
+(15) **Person.—** — The term “person” includes an individual, a public or private corporation, a partnership or other association, or a government entity.
 
-(16) “safety zone” means the safety zone established around a deepwater port as determined by the Secretary in accordance with [section 1509(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/d&num=0&edition=prelim);
+(16) **Safety zone.—** — The term “safety zone” means the safety zone established around a deepwater port as determined by the Secretary in accordance with [section 1509(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/d&num=0&edition=prelim).
 
-(17) “Secretary” means the Secretary of Transportation;
+(17) **Secretary.—** — The term “Secretary” means the Secretary of Transportation.
 
-(18) “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+(18) **State.—** — The term “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States.
 
-(19) “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
+(19) **Vessel.—** — The term “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
 
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
+#### Codification
+Pub. L. 118–31, div. C, title XXXV, § 3514(k)(2)(B)(ii), (D)(ii), Dec. 22, 2023, 137 Stat. 813, which directed insertion of par. headings in pars. (1) to (19) comprised of the term defined in the par. without specifying where to insert the heading, was executed by inserting the heading after par. designation and before “The term” and supplying the heading style to reflect the probable intent of Congress.
+
 #### Amendments
+2023—Pub. L. 118–31, § 3514(k)(2)(A), substituted “Definitions” for “Definitions” in section catchline and “In this chapter:” for “As used in this chapter, unless the context otherwise requires, the term—” in introductory provisions.
+
+2023—Par. (1). Pub. L. 118–31, § 3514(k)(2)(B), inserted term defined in par. as heading and “The term” after par. designation and substituted period for semicolon at end.
+
+Par. (2). Pub. L. 118–31, § 3514(k)(2)(B), (C), inserted term defined in par. as heading and “The term” after par. designation and substituted “subparagraph (A) or (B) of [section 1504(c)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/c/2&num=0&edition=prelim)” for “section 1504(c)(2)(A) or (B) of this title” and a period for semicolon at end.
+
+Pars. (3) to (17). Pub. L. 118–31, § 3514(k)(2)(B), inserted term defined in par. as heading and “The term” after par. designation and substituted period for semicolon at end.
+
+Par. (18). Pub. L. 118–31, § 3514(k)(2)(D), (E), inserted term defined in par. as heading and “The term” after par. designation and substituted a period for “; and” at end.
+
+Par. (19). Pub. L. 118–31, § 3514(k)(2)(D), inserted term defined in par. as heading and “The term” after par. designation.
+
 2012—Par. (9)(A). Pub. L. 112–213 inserted “or from” before “any State”.
 
 2005—Par. (13). Pub. L. 109–58 inserted “, natural gas liquids, liquefied petroleum gas, and condensate recovered from natural gas” before semicolon at end.
@@ -141,21 +170,21 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 **(c) Conditions for issuance** The Secretary may issue a license in accordance with the provisions of this chapter if—
 
-(1) he determines that the applicant is financially responsible and will meet the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716) 11 So in original. Probably should be followed by a semicolon.
+(1) the Secretary determines that the applicant is financially responsible and will meet the requirements of [section 2716 of this title](./chapter-040-oil-pollution.md#section-2716);
 
-(2) he determines that the applicant can and will comply with applicable laws, regulations, and license conditions;
+(2) the Secretary determines that the applicant can and will comply with applicable laws, regulations, and license conditions;
 
-(3) he determines that the construction and operation of the deepwater port will be in the national interest and consistent with national security and other national policy goals and objectives, including energy sufficiency and environmental quality;
+(3) the Secretary determines that the construction and operation of the deepwater port will be in the national interest and consistent with national security and other national policy goals and objectives, including energy sufficiency and environmental quality;
 
-(4) he determines that the deepwater port will not unreasonably interfere with international navigation or other reasonable uses of the high seas, as defined by treaty, convention, or customary international law;
+(4) the Secretary determines that the deepwater port will not unreasonably interfere with international navigation or other reasonable uses of the high seas, as defined by treaty, convention, or customary international law;
 
-(5) he determines, in accordance with the environmental review criteria established pursuant to [section 1505 of this title](./chapter-029-deepwater-ports.md#section-1505), that the applicant has demonstrated that the deepwater port will be constructed and operated using best available technology, so as to prevent or minimize adverse impact on the marine environment;
+(5) the Secretary determines, in accordance with the environmental review criteria established pursuant to [section 1505 of this title](./chapter-029-deepwater-ports.md#section-1505), that the applicant has demonstrated that the deepwater port will be constructed and operated using best available technology, so as to prevent or minimize adverse impact on the marine environment;
 
-(6) he has not been informed, within 45 days of the last public hearing on a proposed license for a designated application area, by the Administrator of the Environmental Protection Agency that the deepwater port will not conform with all applicable provisions of the Clean Air Act, as amended [[42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.], the Federal Water Pollution Control Act, as amended [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], or the Marine Protection, Research and Sanctuaries Act, as amended [[16 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1431&num=0&edition=prelim) et seq., 1447 et seq.; [33 U.S.C. 1401](./chapter-027-ocean-dumping.md#section-1401) et seq., 2801 et seq.];
+(6) the Secretary has not been informed, within 45 days of the last public hearing on a proposed license for a designated application area, by the Administrator of the Environmental Protection Agency that the deepwater port will not conform with all applicable provisions of the Clean Air Act, as amended [[42 U.S.C. 7401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) et seq.], the Federal Water Pollution Control Act, as amended [[33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.], or the Marine Protection, Research and Sanctuaries Act, as amended [[16 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1431&num=0&edition=prelim) et seq., 1447 et seq.; [33 U.S.C. 1401](./chapter-027-ocean-dumping.md#section-1401) et seq., 2801 et seq.];
 
-(7) he has consulted with the Secretary of the Army, the Secretary of State, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within their respective jurisdictions;
+(7) the Secretary has consulted with the Secretary of the Army, the Secretary of State, and the Secretary of Defense, to determine their views on the adequacy of the application, and its effect on programs within their respective jurisdictions;
 
-(8) the Governor of the adjacent coastal State of States, pursuant to [section 1508 of this title](./chapter-029-deepwater-ports.md#section-1508), approves, or is presumed to approve, issuance of the license; and
+(8) the Governor of each adjacent coastal State approves, or is presumed to approve, the issuance of the license pursuant to [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/b/1&num=0&edition=prelim), if applicable; and
 
 (9) the adjacent coastal State to which the deepwater port is to be directly connected by pipeline has developed, or is making, at the time the application is submitted, reasonable progress, as determined in accordance with [section 1508(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/c&num=0&edition=prelim), toward developing, an approved coastal zone management program pursuant to the Coastal Zone Management Act of 1972 [[16 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) et seq.].
 
@@ -170,13 +199,13 @@ the Secretary shall not issue a license under this chapter until he has examined
 
 **(e) Additional conditions; removal requirements, waiver; Outer Continental Shelf Lands Act applicable to utilization of components upon waiver of removal requirements**
 
-(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter 22 See References in Text note below. or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.2 To the extent practicable, conditions required to carry out the provisions and requirements of this chapter 2 shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with [section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim), rather than in detailed and specific license conditions or regulations; except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
+(1) In issuing a license for the ownership, construction, and operation of a deepwater port, the Secretary shall prescribe those conditions which the Secretary deems necessary to carry out the provisions and requirements of this chapter 11 See References in Text note below. or which are otherwise required by any Federal department or agency pursuant to the terms of this chapter.1 To the extent practicable, conditions required to carry out the provisions and requirements of this chapter shall be addressed in license conditions rather than by regulation and, to the extent practicable, the license shall allow a deepwater port’s operating procedures to be stated in an operations manual, approved by the Coast Guard, in accordance with [section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim), rather than in detailed and specific license conditions or regulations, except that basic standards and conditions shall be addressed in regulations. On petition of a licensee, the Secretary shall review any condition of a license issued under this chapter to determine if that condition is uniform, insofar as practicable, with the conditions of other licenses issued under this chapter, reasonable, and necessary to meet the objectives of this chapter. The Secretary shall amend or rescind any condition that is no longer necessary or otherwise required by any Federal department or agency under this chapter.
 
-(2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) he will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
+(2) No license shall be issued, transferred, or renewed under this chapter unless the licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his license, as approved, without prior approval in writing from the Secretary; and (B) the licensee or transferee will comply with any condition the Secretary may prescribe in accordance with the provisions of this chapter.
 
-(3) The Secretary shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation or termination of a license, the licensee will remove all components of the deepwater port. In the case of components lying in the subsoil below the seabed, the Secretary is authorized to waive the removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to navigation or to the environment. At the request of the licensee, the Secretary, after consultation with the Secretary of the Interior, is authorized to waive the removal requirement as to any components which he determines may be utilized in connection with the transportation of oil, natural gas, or other minerals, pursuant to a lease granted under the provisions of the Outer Continental Shelf Lands Act [[43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.], after which waiver the utilization of such components shall be governed by the terms of the Outer Continental Shelf Lands Act.
+(3) The Secretary shall establish such bonding requirements or other assurances as the Secretary determines to be necessary to ensure that, upon the revocation or termination of a license, the licensee will remove all components of the deepwater port. In the case of components lying in the subsoil below the seabed, the Secretary is authorized to waive the removal requirements if the Secretary finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to navigation or to the environment. At the request of the licensee, the Secretary, after consultation with the Secretary of the Interior, is authorized to waive the removal requirement as to any components which the Secretary determines may be utilized in connection with the transportation of oil, natural gas, or other minerals, pursuant to a lease granted under the provisions of the Outer Continental Shelf Lands Act ([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.), after which waiver the utilization of such components shall be governed by the terms of that Act.
 
-**(f) Amendments, transfers, and reinstatements** The Secretary may amend, transfer, or reinstate a license issued under this chapter 2 if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
+**(f) Amendments, transfers, and reinstatements** The Secretary may amend, transfer, or reinstate a license issued under this chapter if the Secretary finds that the amendment, transfer, or reinstatement is consistent with the requirements of this chapter.
 
 **(g) Eligible citizens** Any citizen of the United States who otherwise qualifies under the terms of this chapter shall be eligible to be issued a license for the ownership, construction, and operation of a deepwater port.
 
@@ -191,15 +220,31 @@ The Clean Air Act, referred to in subsec. (c)(6), is act July 14, 1955, ch. 360,
 
 The Federal Water Pollution Control Act, as amended, referred to in subsec. (c)(6), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
-The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+The Marine Protection, Research and Sanctuaries Act, referred to subsec. (c)(6), probably means Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, known as the Marine Protection, Research, and Sanctuaries Act of 1972, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c)(9), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
 
-This chapter, referred to first three times in subsec. (e)(1) and first time in subsec. (f), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
+This chapter, referred to in the first sentence of subsec. (e)(1), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (e)(3), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2023—Subsec. (c)(1). Pub. L. 118–31, § 3514(k)(3)(A)(i), (ii), substituted “the Secretary” for “he” after par. designation and inserted semicolon at end.
+
+Subsec. (c)(2) to (7). Pub. L. 118–31, § 3514(k)(3)(A)(i), substituted “the Secretary” for “he” after par. designation.
+
+Subsec. (c)(8). Pub. L. 118–31, § 3514(k)(3)(A)(iii), substituted “each adjacent coastal State approves, or is presumed to approve, the issuance of the license pursuant to [section 1508(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1508/b/1&num=0&edition=prelim), if applicable” for “the adjacent coastal State of States, pursuant to [section 1508 of this title](./chapter-029-deepwater-ports.md#section-1508), approves, or is presumed to approve, issuance of the license”.
+
+Subsec. (e)(1). Pub. L. 118–31, § 3514(k)(3)(B)(i), in second sentence, substituted “requirements of this chapter” for “requirements of this title”, “[section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim)” for “[section 1509(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1509/a&num=0&edition=prelim)” and “regulations,” for “regulations;”.
+
+Subsec. (e)(2)(B). Pub. L. 118–31, § 3514(k)(3)(B)(ii), substituted “the licensee or transferee will comply” for “he will comply”.
+
+Subsec. (e)(3). Pub. L. 118–31, § 3514(k)(3)(B)(iii)(III), in third sentence, substituted “the Secretary determines” for “he determines”, “([43 U.S.C. 1331](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim) et seq.)” for “(67 Stat. 462)”, and “terms of that Act.” for “terms of the Outer Continental Shelf Lands Act.”
+
+Pub. L. 118–31, § 3514(k)(3)(B)(iii)(I), (II), substituted “the Secretary determines to be necessary to ensure” for “he deems necessary to assure” in first sentence and “the Secretary finds” for “he finds” in second sentence.
+
+Subsec. (f). Pub. L. 118–31, § 3514(k)(3)(C), substituted “under this chapter” for “under this title”.
+
 2014—Subsec. (i). Pub. L. 113–281 inserted “or that will supply” after “be supplied with”.
 
 2006—Subsec. (i). Pub. L. 109–241 added subsec. (i).
@@ -250,17 +295,39 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
 **(b) Additional regulations; criteria for site evaluation and preconstruction testing** The Secretary, in consultation with the Secretary of the Interior and the Administrator of the National Oceanic and Atmospheric Administration, shall, as soon as practicable after January 3, 1975, prescribe regulations relating to those activities involved in site evaluation and preconstruction testing at potential deepwater port locations that may (1) adversely affect the environment; (2) interfere with authorized uses of the Outer Continental Shelf; or (3) pose a threat to human health and welfare. Such activity may thenceforth not be undertaken except in accordance with regulations prescribed pursuant to this subsection. Such regulations shall be consistent with the purposes of this chapter.
 
-**(c) Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption**
+**(c) Applications**
 
-(1) Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.
+(1) **Requirements**
 
-(2) Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—
+  (A) *In general* — Each person that submits to the Secretary an application shall include in the application a detailed plan that contains all information required under paragraph (2).
+
+  (B) *Action by Secretary* — Not later than 21 days after the date of receipt of an application, the Secretary shall—
+
+    (i) determine whether the application contains all information required under paragraph (2); and
+
+    (ii)
+
+      (I) if the Secretary determines that such information is contained in the application, not later than 5 days after making the determination, publish in the Federal Register—
+
+        (aa) a notice of the application; and
+
+        (bb) a summary of the plans; or
+
+      (II) if the Secretary determines that all required information is not contained in the application—
+
+        (aa) notify the applicant of the applicable deficiencies; and
+
+        (bb) take no further action with respect to the application until those deficiencies have been remedied.
+
+  (C) *Applicability* — On publication of a notice relating to an application under subparagraph (B)(ii)(I), the Secretary shall be subject to subsection (f).
+
+(2) **Inclusions** — Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—
 
   (A) the name, address, citizenship, telephone number, and the ownership interest in the applicant, of each person having any ownership interest in the applicant of greater than 3 per centum;
 
   (B) to the extent feasible, the name, address, citizenship, and telephone number of any person with whom the applicant has made, or proposes to make, a significant contract for the construction or operation of the deepwater port and a copy of any such contract;
 
-  (C) the name, address, citizenship, and telephone number of each affiliate of the applicant and of any person required to be disclosed pursuant to subparagraphs (A) or (B) of this paragraph, together with a description of the manner in which such affiliate is associated with the applicant or any person required to be disclosed under subparagraph (A) or (B) of this paragraph;
+  (C) the name, address, citizenship, and telephone number of each affiliate of the applicant and of any person required to be disclosed pursuant to subparagraphs (A) or (B), together with a description of the manner in which such affiliate is associated with the applicant or any person required to be disclosed under subparagraph (A) or (B);
 
   (D) the proposed location and capacity of the deepwater port, including all components thereof;
 
@@ -268,9 +335,9 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
   (F) with respect to construction in phases, a detailed description of each phase, including anticipated dates of completion for each of the specific components thereof;
 
-  (G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
+  (G) the location and capacity of existing and proposed storage facilities and pipelines which will store or transport oil transported through the deepwater port, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C);
 
-  (H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C) of this paragraph;
+  (H) with respect to any existing and proposed refineries which will receive oil transported through the deepwater port, the location and capacity of each such refinery and the anticipated volume of such oil to be refined by each such refinery, to the extent known by the applicant or any person required to be disclosed pursuant to subparagraphs (A), (B), or (C);
 
   (I) the financial and technical capabilities of the applicant to construct or operate the deepwater port;
 
@@ -302,15 +369,29 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
 **(f) NEPA compliance** For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 ([42 U.S.C. 4332](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332&num=0&edition=prelim)) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
 
-**(g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings** A license may be issued only after public notice and public hearings in accordance with this subsection. At least one such public hearing shall be held in each adjacent coastal State. Any interested person may present relevant material at any hearing. After hearings in each adjacent coastal State are concluded if the Secretary determines that there exists one or more specific and material factual issues which may be resolved by a formal evidentiary hearing, at least one adjudicatory hearing shall be held in accordance with the provisions of [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) in the District of Columbia. The record developed in any such adjudicatory hearing shall be basis for the Secretary’s decision to approve or deny a license. Hearings held pursuant to this subsection shall be consolidated insofar as practicable with hearings held by other agencies. All public hearings on all applications for any designated application area shall be consolidated and shall be concluded not later than 240 days after notice of the initial application has been published pursuant to subsection (c) of this section.
+**(g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings** A license may be issued only after public notice and public hearings in accordance with this subsection. At least one such public hearing shall be held in each adjacent coastal State. Any interested person may present relevant material at any hearing. After hearings in each adjacent coastal State are concluded if the Secretary determines that there exists one or more specific and material factual issues which may be resolved by a formal evidentiary hearing, at least one adjudicatory hearing shall be held in accordance with the provisions of [section 554 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section554&num=0&edition=prelim) in the District of Columbia. The record developed in any such adjudicatory hearing shall be basis for the Secretary’s decision to approve or deny a license. Hearings held pursuant to this subsection shall be consolidated insofar as practicable with hearings held by other agencies. All public hearings on all applications for any designated application area shall be consolidated and shall be concluded not later than 240 days after notice of the initial application has been published pursuant to subsection (c).
 
-**(h) Nonrefundable application fee; processing costs; State fees; “land-based facilities directly related to a deepwater port facility” defined; fair market rental value, advance payment**
+**(h) Fees**
 
-(1) Each person applying for a license pursuant to this chapter shall remit to the Secretary at the time the application is filed a nonrefund­able application fee established by regulation by the Secretary. In addition, an applicant shall also reimburse the United States and the appropriate adjacent coastal State for any additional costs incurred in processing an application.
+(1) **Requirement**
 
-(2) Notwithstanding any other provision of this chapter, and unless prohibited by law, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities. Fees may be fixed under authority of this paragraph as compensation for any economic cost attributable to the construction and operation of such deepwater port and such land-based facilities, which cannot be recovered under other authority of such State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of such deepwater port and such land-based facilities. Fees under this paragraph shall not exceed such economic, environmental, and administrative costs of such State. Such fees shall be subject to the approval of the Secretary. As used in this paragraph, the term “land-based facilities directly related to a deepwater port facility” means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.
+  (A) *In general* — Each person applying for a license pursuant to this chapter shall remit to the Secretary at the time the application is filed a nonrefund­able application fee established by regulation by the Secretary.
 
-(3) A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the Outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value of the right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
+  (B) *Reimbursement* — In addition to a fee under subparagraph (A), an applicant shall also reimburse the United States and the appropriate adjacent coastal State for any additional costs incurred in processing an application.
+
+(2) **Usage fees**
+
+  (A) *Definition of directly related land-based facility* — In this paragraph, the term “directly related land-based facility”, with respect to a deepwater port facility, means an onshore tank farm and any pipelines connecting the tank farm to the deepwater port facility.
+
+  (B) *Authorization* — Notwithstanding any other provision of this chapter, and unless prohibited by law, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities.
+
+  (C) *Treatment* — A fee may be established pursuant to this paragraph as compensation for any economic cost attributable to the construction and operation of the applicable deepwater port and the applicable land-based facilities, which cannot be recovered under other authority of the applicable State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of the applicable deepwater port and the applicable land-based facilities.
+
+  (D) *Amount* — The amount of a fee established under this paragraph shall not exceed the applicable economic, environmental, and administrative costs of the applicable State.
+
+  (E) *Approval* — A fee established under this paragraph shall be subject to the approval of the Secretary.
+
+(3) **Rental payment** — A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value of the right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
 
 **(i) Application approval; period for determination; priorities; criteria for determination of application best serving national interest**
 
@@ -318,34 +399,120 @@ Pub. L. 109–241, title III, § 304(a), July 11, 2006, 120 Stat. 527, as amende
 
 (2) In the event more than one application is submitted for an application area, the Secretary, unless one of the proposed deepwater ports clearly best serves the national interest, shall issue a license according to the following order of priorities:
 
-  (A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
+  (A) First, to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government.
 
-  (B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
+  (B) Second, to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate.
 
-  (C) to any other person.
+  (C) Third, to any other person.
 
 (3) In determining whether any one proposed deepwater port clearly best serves the national interest, the Secretary shall consider the following factors:
 
-  (A) the degree to which the proposed deepwater ports affect the environment, as determined under criteria established pursuant to [section 1505 of this title](./chapter-029-deepwater-ports.md#section-1505);
+  (A) The degree to which the proposed deepwater ports affect the environment, as determined under criteria established pursuant to [section 1505 of this title](./chapter-029-deepwater-ports.md#section-1505).
 
-  (B) any significant differences between anticipated completion dates for the proposed deepwater ports; and
+  (B) National security, including an assessment of the implications for the national security of the United States or an allied country (as that term is defined in [section 2350f(d)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2350f/d/1&num=0&edition=prelim)) of the United States.
 
-  (C) any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
+  (C) Any significant differences between anticipated completion dates for the proposed deepwater ports.
 
-(4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
+  (D) Any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
+
+(4) **Applications for deepwater ports for natural gas.—**
+
+  (A) *Deadline for determination.—* — The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license.
+
+  (B) *Effect of failure to determine.—* — If the Secretary fails to approve or deny an application for a deepwater port for natural gas by the applicable deadline under subparagraph (A), the reporting requirements under paragraphs (1), (2), and (3) shall not apply to the application.
 
 **(j) LNG tankers**
 
-(1) **Program** — The Secretary of Transportation shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
+(1) **Program** — The Secretary shall develop and implement a program to promote the transportation of liquefied natural gas to and from the United States on United States flag vessels.
 
 (2) **Information to be provided** — When the Coast Guard is operating as a contributing agency in the Federal Energy Regulatory Commission’s shoreside licensing process for a liquefied natural gas or liquefied petroleum gas terminal located on shore or within State seaward boundaries, the Coast Guard shall provide to the Commission the information described in subsection (c)(2)(K) with respect to vessels reasonably anticipated to be servicing that port.
+
+**(k) Transparency in issuance of licenses and permits**
+
+(1) **Definition of applicable deadline** — In this subsection, the term “applicable deadline”, with respect to an applicant, means the deadline or date applicable to the applicant under any of the following:
+
+  (A) [Section 1503(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1503/c/6&num=0&edition=prelim).
+
+  (B) [Section 1503(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1503/d/3&num=0&edition=prelim).
+
+  (C) Subsection (c)(1)(B) (including clause (ii)(I) of that subsection).
+
+  (D) Subsection (d)(3).
+
+  (E) Paragraph (1) or (2) of subsection (e).
+
+  (F) Subsection (g).
+
+  (G) Paragraph (1) or (4)(A) of subsection (i).
+
+(2) **Suspensions and delays** — If the Secretary suspends or delays an applicable deadline, the Secretary shall submit to the applicant, and publish in the Federal Register, a written statement—
+
+  (A) describing the reasons for the suspension or delay;
+
+  (B) describing and requesting any information necessary to issue the applicable license or permit and the status of applicable license or permit application at the lead agency and any cooperating agencies; and
+
+  (C) identifying the applicable deadline with respect to the statement.
+
+(3) **Applicant rights to technical assistance**
+
+  (A) *In general* — An applicant that receives a statement under paragraph (2) may submit to the Secretary a request for a meeting with appropriate personnel of the Department of Transportation and representatives of each cooperating Federal agency, as appropriate, determined by the Secretary to be relevant with respect to the application, including such officials as are appropriate, who shall provide technical assistance, status, process, and timeline updates and additional information as necessary.
+
+  (B) *Timing* — A meeting requested under clause (i) shall be held not later than 30 days after the date on which the Secretary receives the request under that clause.
+
+(4) **Requirements** — On receipt of a request under paragraph (3)(A), and not less frequently than once every 30 days thereafter until the date on which the application process is no longer suspended or delayed, the Secretary shall submit a notice of the delay, including a description of the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay, to—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (B) the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(5) **Briefing** — If the Secretary suspends or delays an applicable deadline, not later than 120 days after that applicable deadline, and not less frequently than once every 120 days thereafter until the date on which the application process is no longer suspended or delayed, the Secretary (or a designee of the Secretary) shall provide a briefing regarding the time elapsed since the applicable deadline and the nature and circumstances of the applicable suspension or delay to—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (B) the Committee on Transportation and Infrastructure of the House of Representatives.
 
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2023—Subsec. (c). Pub. L. 118–31, § 3514(k)(4)(A)(i), inserted heading.
+
+Subsec. (c)(1). Pub. L. 118–31, § 3514(k)(4)(A)(i), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.”
+
+Subsec. (c)(2). Pub. L. 118–31, § 3514(k)(4)(A)(ii), inserted heading, substituted “Each application shall include such financial, technical, and other information as the Secretary determines to be necessary or appropriate, including—” for “Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—” in introductory provisions, struck out “of this paragraph” after “subparagraph (A) or (B)” in two places in subpar. (C), and after “subparagraphs (A), (B), or (C)” in subpars. (G) and (H), and realigned margins of subpars. (A) to (M).
+
+Subsec. (g). Pub. L. 118–31, § 3514(k)(4)(B), substituted “subsection (c)” for “subsection (c) of this section”.
+
+Subsec. (h). Pub. L. 118–31, § 3514(k)(4)(C)(i), inserted heading.
+
+Subsec. (h)(1). Pub. L. 118–31, § 3514(k)(4)(C)(i), (ii), inserted par. (1) heading, designated first sentence of par. (1) as subpar. (A) and inserted subpar. heading, designated second sentence as subpar. (B), inserted subpar. heading, and substituted “In addition to a fee under subparagraph (A)” for “In addition”.
+
+Subsec. (h)(2). Pub. L. 118–31, § 3514(k)(4)(C)(iii)(I), (II), inserted par. heading and struck out “As used in this paragraph, the term ‘land-based facilities directly related to a deepwater port facility’ means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.” at end.
+
+Subsec. (h)(2)(A). Pub. L. 118–31, § 3514(k)(4)(C)(iii)(II), added subpar. (A).
+
+Subsec. (h)(2)(B) to (E). Pub. L. 11831, § 3514(k)(4)(C)(iii)(II), (III), designated first sentence of par. (2) as subpar. (B) and inserted subpar. heading; designated second sentence as subpar. (C), inserted subpar. heading, and substituted “the applicable” for “such” wherever appearing and “A fee may be established pursuant to this paragraph” for “Fees may be fixed under authority of this paragraph”; designated third sentence as subpar. (D), inserted subpar. heading, and substituted “the applicable” for “such” in two places and “The amount of a fee established under this paragraph” for “Fees under this paragraph”; and designated fourth sentence as subpar. (E), inserted subpar. heading, and substituted “A fee established under this paragraph” for “Such fees”.
+
+Subsec. (h)(3). Pub. L. 118–31, § 3514(k)(4)(C)(iv), inserted heading and substituted “outer” for “Outer” before “Continental”.
+
+Subsec. (i)(2)(A). Pub. L. 118–31, § 3514(k)(4)(D)(i)(I), inserted “First,” after subpar. designation and substituted period for semicolon at end.
+
+Subsec. (i)(2)(B). Pub. L. 118–31, § 3514(k)(4)(D)(i)(II), inserted “Second,” after subpar. designation and substituted period for semicolon at end.
+
+Subsec. (i)(2)(C). Pub. L. 118–31, § 3514(k)(4)(D)(i)(III), inserted Third,” after subpar. designation.
+
+Subsec. (i)(3)(A). Pub. L. 118–31, § 3514(k)(4)(D)(ii)(III), substituted “(A) The degree” for “(A) the degree” and period for semicolon at end.
+
+Subsec. (i)(3)(B) to (D). Pub. L. 118–31, § 3514(k)(4)(D)(ii)(I), (II), (IV), added subpar. (B), redesignated former subpar. (B) as (C) and substituted “Any” for “any” and a period for “; and”, and redesignated former subpar. (C) as (D) and substituted “Any” for “any”.
+
+Subsec. (i)(4). Pub. L. 118–31, § 3514(k)(4)(D)(iii), inserted par. heading, designated existing provisions as subpar. (A) and inserted subpar. heading, struck out “Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.” at end, and added subpar. (B).
+
+Subsec. (j)(1). Pub. L. 118–31, § 3514(k)(4)(E), struck out “of Transportation” after “Secretary”.
+
+Subsec. (k). Pub. L. 118–31, § 3514(k)(4)(F), added subsec. (k).
+
 2021—Subsec. (j). Pub. L. 116–283 added subsec. (j).
 
 2010—Subsec. (c)(2)(K). Pub. L. 111–281 realigned margin.
@@ -373,7 +540,7 @@ Pub. L. 109–241, title III, § 304(c)(2), July 11, 2006, 120 Stat. 527, which 
 
 <a id="section-1505"></a>
 ## § 1505. Environmental review criteria
-**(a) Establishment; evaluation of proposed deepwater ports** The Secretary, in accordance with the recommendations of the Administrator of the Environmental Protection Agency and the Administrator of the National Oceanic and Atmospheric Administration and after consultation with any other Federal departments and agencies having jurisdiction over any aspect of the construction or operation of a deepwater port, shall establish, as soon as practicable after January 3, 1975, environmental review criteria consistent with the National Environmental Policy Act [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. Such criteria shall be used to evaluate a deepwater port as proposed in an application, including—
+**(a) Establishment** The Secretary, in accordance with the recommendations of the Administrator of the Environmental Protection Agency and the Administrator of the National Oceanic and Atmospheric Administration and after consultation with any other Federal departments and agencies having jurisdiction over any aspect of the construction or operation of a deepwater port, shall establish, as soon as practicable after January 3, 1975, environmental review criteria consistent with the National Environmental Policy Act [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]. Such criteria shall be used to evaluate a deepwater port as proposed in an application, including—
 
 (1) the effect on the marine environment;
 
@@ -391,12 +558,19 @@ Pub. L. 109–241, title III, § 304(c)(2), July 11, 2006, 120 Stat. 527, which 
 
 **(b) Review and revision** The Secretary shall periodically review and, whenever necessary, revise in the same manner as originally developed, criteria established pursuant to subsection (a) of this section.
 
-**(c) Concurrent development of criteria and regulations** Criteria established pursuant to this section shall be developed concurrently with the regulations in subsection (a) of [section 1504 of this title](./chapter-029-deepwater-ports.md#section-1504) and in accordance with the provisions of that subsection.
+**(c) Requirement** The criteria established pursuant to this section shall be developed concurrently with the regulations promulgated pursuant to [section 1504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/a&num=0&edition=prelim) and in accordance with that section and in accordance with the provisions of that subsection.
 
 ### Statutory Notes
 
 #### References in Text
 The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+
+#### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(5)(A), inserted heading.
+
+Subsec. (b). Pub. L. 118–31, § 3514(k)(5)(B), inserted heading.
+
+Subsec. (c). Pub. L. 118–31, § 3514(k)(5)(C), inserted heading and, in text, substituted “The criteria” for “Criteria” and “concurrently with the regulations promulgated pursuant to [section 1504(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/a&num=0&edition=prelim) and in accordance with that section” for “concurrently with the regulations in subsection (a) of [section 1504 of this title](./chapter-029-deepwater-ports.md#section-1504) and in accordance with the provisions of that subsection”.
 
 
 <a id="section-1506"></a>
@@ -428,7 +602,7 @@ Section, Pub. L. 93–627, § 7, Jan. 3, 1975, 88 Stat. 2135; Pub. L. 98–419, 
 #### References in Text
 The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
-The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsecs. (d), (e). Pub. L. 107–295 added subsecs. (d) and (e).
@@ -446,17 +620,25 @@ Subsec. (c). Pub. L. 98–419 redesignated a portion of provisions of subsec. (b
 
 <a id="section-1508"></a>
 ## § 1508. Adjacent coastal States
-**(a) Designation; direct pipeline connections; mileage; risk of damage to coastal environment, time for designation**
+**(a) Designation** In issuing a notice relating to an application for a deepwater port under [section 1504(c)(1)(B)(ii)(I) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/c/1/B/ii/I&num=0&edition=prelim), the Secretary shall designate as an adjacent coastal State, with respect to the deepwater port, any coastal State that would be—
 
-(1) The Secretary, in issuing notice of application pursuant to [section 1504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/c&num=0&edition=prelim), shall designate as an “adjacent coastal State” any coastal State which (A) would be directly connected by pipeline to a deepwater port as proposed in an application, or (B) would be located within 15 miles of any such proposed deepwater port.
+(1) directly connected by pipeline to that deepwater port; or
 
-(2) The Secretary shall, upon request of a State, and after having received the recommendations of the Administrator of the National Oceanic and Atmospheric Administration, designate such State as an “adjacent coastal State” if he determines that there is a risk of damage to the coastal environment of such State equal to or greater than the risk posed to a State directly connected by pipeline to the proposed deepwater port. This paragraph shall apply only with respect to requests made by a State not later than the 14th day after the date of publication of notice of an application for a proposed deepwater port in the Federal Register in accordance with [section 1504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/c&num=0&edition=prelim). The Secretary shall make the designation required by this paragraph not later than the 45th day after the date he receives such a request from a State.
+(2) located within 15 miles of that deepwater port.
 
-**(b) Applications; submittal to Governors for approval or disapproval; consistency of Federal licenses and State programs; views of other interested States**
+**(b) Input from adjacent coastal States and other interested states**
 
-(1) Not later than 10 days after the designation of adjacent coastal States pursuant to this chapter, the Secretary shall transmit a complete copy of the application to the Governor of each adjacent coastal State. The Secretary shall not issue a license without the approval of the Governor of each adjacent coastal State. If the Governor fails to transmit his approval or disapproval to the Secretary not later than 45 days after the last public hearing on applications for a particular application area, such approval shall be conclusively presumed. If the Governor notifies the Secretary that an application, which would otherwise be approved pursuant to this paragraph, is inconsistent with State programs relating to environmental protection, land and water use, and coastal zone management, the Secretary shall condition the license granted so as to make it consistent with such State programs.
+(1) **Submission of applications to governors for approval**
 
-(2) Any other interested State shall have the opportunity to make its views known to, and shall be given full consideration by, the Secretary regarding the location, construction, and operation of a deepwater port.
+  (A) *In general* — Not later than 10 days after the date on which the Secretary designates adjacent coastal States under subsection (a) with respect to a deepwater port proposed in an application, the Secretary shall transmit a complete copy of the application to the Governor of each adjacent coastal State.
+
+  (B) *Prohibition* — The Secretary shall not issue a license without the approval of the Governor of each adjacent coastal State.
+
+  (C) *Presumed approval* — If the Governor of an adjacent coastal State fails to transmit a required approval or disapproval to the Secretary not later than 45 days after the last public hearing on applications for a particular application area, such approval shall be conclusively presumed.
+
+  (D) *Inconsistency with certain state programs* — If the Governor of an adjacent coastal State notifies the Secretary that an application, which would otherwise be approved pursuant to this paragraph, is inconsistent with State programs relating to environmental protection, land and water use, and coastal zone management, the Secretary shall condition the license granted so as to make it consistent with such State programs.
+
+(2) **Other interested states** — Any other State with an interest relating to a deepwater port proposed in an application shall have the opportunity to make its views known to, and shall be given full consideration by, the Secretary regarding the location, construction, and operation of the deepwater port.
 
 **(c) Reasonable progress toward development of coastal zone management program; planning grants** The Secretary shall not issue a license unless the adjacent coastal State to which the deepwater port is to be directly connected by pipeline has developed, or is making, at the time the application is submitted, reasonable progress toward developing an approved coastal zone management program pursuant to the Coastal Zone Management Act of 1972 [[16 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) et seq.] in the area to be directly and primarily impacted by land and water development in the coastal zone resulting from such deepwater port. For the purposes of this chapter, a State shall be considered to be making reasonable progress if it is receiving a planning grant pursuant to section 305 of the Coastal Zone Management Act [[16 U.S.C. 1454](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1454&num=0&edition=prelim)].
 
@@ -465,7 +647,20 @@ Subsec. (c). Pub. L. 98–419 redesignated a portion of provisions of subsec. (b
 ### Statutory Notes
 
 #### References in Text
-The Coastal Zone Management Act of 1972, referred to in subsec. (c), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, as amended, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (c), is title III of Pub. L. 89–454 as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), and Tables.
+
+#### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 3514(k)(6)(A), amended subsec. (a) generally. Prior to amendment, text read as follows:
+
+“(1) The Secretary, in issuing notice of application pursuant to [section 1504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/c&num=0&edition=prelim), shall designate as an “adjacent coastal State” any coastal State which (A) would be directly connected by pipeline to a deepwater port as proposed in an application, or (B) would be located within 15 miles of any such proposed deepwater port.
+
+“(2) The Secretary shall, upon request of a State, and after having received the recommendations of the Administrator of the National Oceanic and Atmospheric Administration, designate such State as an “adjacent coastal State” if he determines that there is a risk of damage to the coastal environment of such State equal to or greater than the risk posed to a State directly connected by pipeline to the proposed deepwater port. This paragraph shall apply only with respect to requests made by a State not later than the 14th day after the date of publication of notice of an application for a proposed deepwater port in the Federal Register in accordance with [section 1504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1504/c&num=0&edition=prelim). The Secretary shall make the designation required by this paragraph not later than the 45th day after the date he receives such a request from a State.”
+
+Subsec. (b). Pub. L. 118–31, § 3514(k)(6)(B)(i), inserted subsec. heading.
+
+Subsec. (b)(1). Pub. L. 118–31, § 3514(k)(6)(B)(i), (ii), inserted par. (1) heading, designated first sentence par. (1) as subpar. (A), inserted subpar. heading, and substituted “Not later than 10 days after the date on which the Secretary designates adjacent coastal States under subsection (a) with respect to a deepwater port proposed in an application” for “Not later than 10 days after the designation of adjacent coastal States pursuant to this chapter”; designated second sentence as subpar. (B) and inserted subpar. heading; designated third sentence as subpar. (C), inserted subpar. heading, and substituted “If the Governor of an adjacent coastal State fails to transmit a required” for “If the Governor fails to transmit his”; and designated fourth sentence as subpar. (D), inserted subpar. heading, and substituted “If the Governor of an adjacent coastal State” for “If the Governor”.
+
+Subsec. (b)(2). Pub. L. 118–31, § 3514(k)(6)(B)(iii), inserted heading and, in text, substituted “Any other State with an interest relating to a deepwater port proposed in an application” for “Any other interested State” and “the deepwater port” for “a deepwater port”.
 
 
 <a id="section-1509"></a>
@@ -520,7 +715,7 @@ In subsec. (a), “chapter” substituted for “title” to conform to other su
 ### Statutory Notes
 
 #### References in Text
-The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
+The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379. Part I of the Act, which was classified to chapter 1 (§ 1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, § 4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§ 10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
 
 <a id="section-1513"></a>

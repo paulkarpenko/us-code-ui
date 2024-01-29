@@ -214,16 +214,8 @@ Act May 9, 1956, ch. 241, 70 Stat. 146, provided: “That the Congress of the Un
 
 
 <a id="section-47306"></a>
-## § 47306. Criminal penalty
-
-A person that knowingly and willfully violates a regulation prescribed by the Secretary of Transportation to carry out this chapter shall be fined under title 18, imprisoned for not more than 6 months, or both.
+## § 47306. Repealed. Pub. L. 118–63, title VII, § 727, May 16, 2024, 138 Stat. 1271]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 47306 | 49 App.:1159(a) (last sentence). | June 16, 1948, ch. 473, § 10(a) (last sentence), 62 Stat. 454. |
-|  | 49 App.:1655(c)(1). | Oct. 15, 1966, Pub. L. 89–670, § 6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, § 7(b), 96 Stat. 2444. |
-
-The word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code. The words “if such violation is committed in any area under the civil jurisdiction of the United States” are omitted as surplus. The words “fined under title 18” are substituted for “a fine of not more than $500”, and the words “be deemed guilty of a misdemeanor” are omitted, for consistency with title 18.
+Section, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1283, related to criminal penalty for knowingly and willfully violating a regulation prescribed by the Secretary of Transportation to carry out this chapter.

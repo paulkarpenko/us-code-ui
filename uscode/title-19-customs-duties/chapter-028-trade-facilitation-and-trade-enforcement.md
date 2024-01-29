@@ -717,7 +717,7 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 
 (4) perform such other functions relating to the commercial operations of U.S. Customs and Border Protection as prescribed by law or as the Secretary of the Treasury and the Secretary of Homeland Security jointly direct.
 
-**(d) Meetings** Notwithstanding section 10(f) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall meet at the call of the Secretary of the Treasury and the Secretary of Homeland Security, or at the call of not less than ⅔ of the membership of the Advisory Committee. The Advisory Committee shall meet at least 4 times each calendar year.
+**(d) Meetings** Notwithstanding [section 1009(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009/f&num=0&edition=prelim), the Advisory Committee shall meet at the call of the Secretary of the Treasury and the Secretary of Homeland Security, or at the call of not less than ⅔ of the membership of the Advisory Committee. The Advisory Committee shall meet at least 4 times each calendar year.
 
 **(e) Annual report** Not later than December 31, 2016, and annually thereafter, the Advisory Committee shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives a report that—
 
@@ -725,7 +725,7 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 
 (2) sets forth any recommendations of the Advisory Committee regarding the commercial operations of U.S. Customs and Border Protection.
 
-**(f) Termination** Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of advisory committees) shall not apply to the Advisory Committee.
+**(f) Termination** [Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim) shall not apply to the Advisory Committee.
 
 **(g) Conforming amendment**
 
@@ -738,10 +738,13 @@ The Security and Accountability for Every Port Act of 2006, referred to in subse
 #### References in Text
 Section 9503(c) of the Omnibus Budget Reconciliation Act of 1987, referred to in subsecs. (b)(3) and (g)(2), is section 9503(c) of title IX of Pub. L. 100–203, which was set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), prior to repeal by Pub. L. 114–125, title I, § 109(g)(1), Feb. 24, 2016, 130 Stat. 137. See Codification note below.
 
-Sections 10(f) and 14(a)(2) of the Federal Advisory Committee Act, referred to in subsecs. (d) and (f), are sections 10(f) and 14(a)(2), respectively, of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section is comprised of section 109 of Pub. L. 114–125. Subsec. (g)(1) of section 109 of Pub. L. 114–125 repealed section 9503(c) of the Omnibus Budget Reconciliation Act of 1987 (Pub. L. 100–203), formerly set out as a note under [section 2071 of this title](./chapter-010-customs-service.md#section-2071), effective on the date on which the Advisory Committee was established under subsection (a) of this section. Notice of the establishment of the Advisory Committee on Mar. 29, 2016, was published at 81 F.R. 18865.
+
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–286, § 4(a)(143)(A), substituted “[section 1009(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009/f&num=0&edition=prelim),” for “section 10(f) of the Federal Advisory Committee Act (5 U.S.C. App.),”.
+
+Subsec. (f). Pub. L. 117–286, § 4(a)(143)(B), substituted “[Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim)” for “Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.; relating to the termination of advisory committees)”.
 
 
 <a id="section-4318"></a>
@@ -1892,11 +1895,11 @@ Barack Obama.
 
 **(f) Staff** The Secretary of the Treasury shall make available to the Committee such staff, information, personnel, administrative services, and assistance as the Committee may reasonably require to carry out the activities of the Committee.
 
-**(g) Application of the Federal Advisory Committee Act**
+**(g) Application of chapter 10 of title 5**
 
-(1) **In general** — Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
+(1) **In general** — Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the Committee.
 
-(2) **Exception** — Meetings of the Committee shall be exempt from the requirements of subsections (a) and (b) of section 10 and section 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the Secretary of the Treasury that such meetings will be concerned with matters the disclosure of which—
+(2) **Exception** — Meetings of the Committee shall be exempt from the requirements of subsections (a) and (b) of section 1009 and [section 1010 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1010&num=0&edition=prelim) (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or the Secretary of the Treasury that such meetings will be concerned with matters the disclosure of which—
 
   (A) would seriously compromise the development by the Government of the United States of monetary or financial policy; or
 
@@ -1910,8 +1913,12 @@ Barack Obama.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (g). Pub. L. 117–286, § 4(a)(144)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act” in heading.
+
+Subsec. (g)(1). Pub. L. 117–286, § 4(a)(144)(B), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
+Subsec. (g)(2). Pub. L. 117–286, § 4(a)(144)(C), substituted “section 1009 and [section 1010 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1010&num=0&edition=prelim)” for “section 10 and section 11 of the Federal Advisory Committee Act” in introductory provisions.
 
 
 <a id="section-4432"></a>

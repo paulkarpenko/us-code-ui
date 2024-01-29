@@ -17,7 +17,7 @@ In this chapter:
 
   (B) A local government.
 
-  (C) A private, nonprofit organization.
+  (C) A nonprofit organization.
 
   (D) A tribal organization, as defined in section 4(l) of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)(l)), or an economic enterprise, as defined in section 3(e) of the Indian Financing Act of 1974 (Public Law 93–262; [25 U.S.C. 1452(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section1452/e&num=0&edition=prelim)), whether or not such economic enterprise is organized for profit purposes or nonprofit purposes.
 
@@ -35,6 +35,8 @@ In this chapter:
 
 (4) The terms “State” and “local government” have the meaning given those terms in [section 6302 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6302&num=0&edition=prelim).
 
+(5) The term “business entity” means a corporation, association, partnership, limited liability company, limited liability partnership, consortia, not-for-profit, or other legal entity.
+
 ### Statutory Notes
 
 #### Codification
@@ -43,6 +45,10 @@ The text of [section 2411 of this title](https://uscode.house.gov/view.xhtml?req
 Pub. L. 117–81, div. A, title XVII, § 1701(m)(1), (3), Dec. 27, 2021, 135 Stat. 2144, 2145, amended Pub. L. 116–283, § 1872(a)(1)(B), (2)–(4), which had originally added this section and transferred to subsecs. (a) to (c) thereof the text of sections 2412, 2411, and 2420 of this title, respectively. After amendment by Pub. L. 117–81, section 1872(a)(1)(B) of Pub. L. 116–283 reenacted this section, and section 1872(a)(2)–(4) of Pub. L. 116–283 instead transferred sections 2411, 2412, and 2420 to this section, section 4952, and [section 4953 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4953), respectively.
 
 #### Amendments
+2023—Par. (1)(C). Pub. L. 118–31, § 853(a)(1), substituted “nonprofit organization” for “private, nonprofit organization”.
+
+Par. (5). Pub. L. 118–31, § 853(a)(2), added par. (5).
+
 2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 1872(a)(2), as amended by Pub. L. 117–81, § 1701(m)(1)(A), transferred the text of [section 2411 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2411&num=0&edition=prelim) to this section.
@@ -85,9 +91,12 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 <a id="section-4953"></a>
 ## § 4953. Regulations
 
-The Secretary of Defense shall prescribe regulations to carry out this chapter.
+The Secretary of Defense shall prescribe regulations to carry out this chapter, and shall consult with an association recognized under section 4954(f) 11 See References in Text note below. regarding any revisions to such regulations.
 
 ### Statutory Notes
+
+#### References in Text
+Section 4954(f), referred to in text, was redesignated as [section 4954(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4954/e&num=0&edition=prelim), and a new subsec. (f) of [section 4954 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4954) was added, by Pub. L. 118–31, div. A, title VIII, § 853(b)(2), (3), Dec. 22, 2023, 137 Stat. 344.
 
 #### Codification
 The text of [section 2420 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2420), which was transferred to this section by Pub. L. 116–283, § 1872(a)(4), was based on Pub. L. 98–525, title XII, § 1241(a)(1), Oct. 19, 1984, 98 Stat. 2606, § 2416; renumbered § 2417, Pub. L. 99–500, § 101(c) [title X, § 957(a)(1)(A)], Oct. 18, 1986, 100 Stat. 1783–82, 1783–174, and Pub. L. 99–591, § 101(c) [title X, § 957(a)(1)(A)], Oct. 30, 1986, 100 Stat. 3341–82, 3341–174, and Pub. L. 99–661, div. A, title IX, formerly title IV, § 957(a)(1)(A), Nov. 14, 1986, 100 Stat. 3954, renumbered title IX, Pub. L. 100–26, § 3(5), Apr. 21, 1987, 101 Stat. 273; renumbered § 2418, Pub. L. 101–510, div. A, title VIII, § 814(a)(1)(A), Nov. 5, 1990, 104 Stat. 1596; renumbered § 2419, Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(A), Oct. 23, 1992, 106 Stat. 2691; renumbered § 2420, Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(A), Dec. 26, 2013, 127 Stat. 946.
@@ -95,6 +104,8 @@ The text of [section 2420 of this title](./chapter-chapter-142-chapter-chapter-1
 Pub. L. 117–81, div. A, title XVII, § 1701(b)(24), (m)(2)(B), Dec. 27, 2021, 135 Stat. 2135, 2144, amended Pub. L. 116–283, § 1872(a)(6), which had originally transferred [section 2414 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2414) to this section and made amendments in the text. After amendment by Pub. L. 117–81, section 1872(a)(6) of Pub. L. 116–283 instead transferred section 2414 to [section 4955 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4955) and consequently amended the text of that section.
 
 #### Amendments
+2022—Pub. L. 117–263 inserted before period at end: “, and shall consult with an association recognized under section 4954(f) regarding any revisions to such regulations”.
+
 2021—Pub. L. 117–81, § 1701(m)(3), which directed amendment of section “1872(a)(B)” of Pub. L. 116–283, was executed as if it had referred to section “1872(a)(1)(B)” of Pub. L. 116–283, which enacted this section, to reflect the probable intent of Congress.
 
 Pub. L. 116–283, § 1872(a)(4), as amended by Pub. L. 117–81, § 1701(m)(1)(C), transferred the text of [section 2420 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2420) to this section.
@@ -110,17 +121,27 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 ## § 4954. Cooperative agreements
 **(a) Authority.—** The Secretary, in accordance with the provisions of this chapter, may enter into cooperative agreements with eligible entities to carry out the purposes of this chapter.
 
-**(b) Agreements.—** Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 75 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
+**(b) Agreements.—**
 
-(1) in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 75 percent, but not more than 85 percent, of such cost with respect to such program; and
+(1) Under any such cooperative agreement, the eligible entity shall agree to sponsor programs to furnish procurement technical assistance to business entities and the Secretary shall agree to defray not more than 75 percent of the eligible entity’s cost of furnishing such assistance under such programs, except that—
 
-(2) in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to [section 4959(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4959/b&num=0&edition=prelim), the Secretary may agree to furnish the full cost of such assistance.
+  (A) in the case of a program sponsored by such an entity that provides services solely in a distressed area, the Secretary may agree to furnish more than 75 percent, but not more than 85 percent, of such cost with respect to such program; and
 
-**(c) Distribution of Programs.—** In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.
+  (B) in the case of a program sponsored by such an entity that provides assistance for covered small businesses pursuant to [section 4959(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4959/b&num=0&edition=prelim), the Secretary may agree to furnish the full cost of such assistance.
 
-**(d) Weight to Be Given Successful Past Performance.—** In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+(2) The Secretary shall have the ability to waive or modify the percentages specified in paragraph (1), on a case-by-case basis, if the Secretary determines that it would be in the best interest of the program.
 
-**(e) Determination of Level of Funding.—** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.
+**(c) Weight to Be Given Successful Past Performance.—** In conducting a competition for the award of a cooperative agreement under subsection (a), the Secretary shall give significant weight to successful past performance of eligible entities under a cooperative agreement under this section.
+
+**(d) Determination of Level of Funding.—** In determining the level of funding to provide under an agreement under subsection (b), the Secretary shall consider the forecast by the eligible entity of demand for procurement technical assistance, and, in the case of an established program under this chapter, the outlays and receipts of such program during prior years of operation.
+
+**(e) Association Recognition and Duties.—** Eligible entities that provide procurement technical assistance pursuant to this chapter may form an association to pursue matters of common concern. If more than a majority of such eligible entities are members of such an association, the Secretary shall—
+
+(1) recognize the existence and activities of such an association; and
+
+(2) jointly develop with such association a model cooperative agreement that may be used at the option of the Secretary and an eligible entity.
+
+**(f) Waiver of Government Cost Share Restriction.—** If the Secretary of Defense determines it to be in the best interests of the Federal Government, the Secretary may waive the restrictions on the percentage of eligible costs covered by the program under section (b). The Secretary shall submit to the congressional defense committees a written justification for such determination.
 
 ### Statutory Notes
 
@@ -130,6 +151,14 @@ Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(C), Dec. 27, 2021, 135 Stat.
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31, § 853(b)(1), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsecs. (c) to (e). Pub. L. 118–31, § 853(b)(2), redesignated subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “In entering into cooperative agreements under subsection (a), the Secretary shall assure that at least one procurement technical assistance program is carried out in each Department of Defense contract administration services district during each fiscal year.”
+
+Subsec. (f). Pub. L. 118–31, § 853(b)(3), added subsec. (f). Former subsec. (f) redesignated (e).
+
+2022—Subsec. (f). Pub. L. 117–263 added subsec. (f).
+
 2021—Pub. L. 116–283, § 1872(a)(5), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(A)(i), renumbered [section 2413 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2413) as this section.
 
 Subsec. (a). Pub. L. 116–283, § 1872(a)(5)(A), inserted heading.
@@ -184,7 +213,7 @@ Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that
 ## § 4955. Funding
 **(a) In General.—** Except as provided in subsection (c), the value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
 
-(1) in the case of a program operating on a Statewide basis, other than a program referred to in paragraph (3) or (4), $1,000,000;
+(1) in the case of a program operating on a Statewide basis, other than a program referred to in paragraph (3) or (4), $1,500,000;
 
 (2) in the case of a program operating on less than a Statewide basis, other than a program referred to in paragraph (3) or (4), $750,000;
 
@@ -211,9 +240,11 @@ Pub. L. 99–145, title IX, § 919(d), Nov. 8, 1985, 99 Stat. 693, provided that
 ### Statutory Notes
 
 #### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(8), which had originally transferred [section 2416 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2416) to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to [section 4956 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4956).
+Pub. L. 117–81, div. A, title XVII, § 1701(m)(2)(D), Dec. 27, 2021, 135 Stat. 2145, amended Pub. L. 116–283, § 1872(a)(8), which had originally transferred [section 2416 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2416) to this section. After amendment by Pub. L. 117–81, section 1872(a)(8) of Pub. L. 116–283 instead transferred section 2416 to [section 4957 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4957).
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263 substituted “$1,500,000” for “$1,000,000”.
+
 2021—Pub. L. 116–283, § 1872(a)(6), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(B)(i), (ii), renumbered [section 2414 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2414) as this section.
 
 Subsec. (a)(1), (2). Pub. L. 116–283, § 1872(a)(6)(A), substituted “paragraph” for “clause”.
@@ -359,16 +390,24 @@ Pub. L. 99–500, § 101(c) [title X, § 957(b)], Oct. 18, 1986, 100 Stat. 1783�
 
 **(c) Education on Requirements Applicable to Small Businesses Under Certain Regulations.—** An eligible entity assisted by the Department of Defense under this chapter also may furnish education on the requirements applicable to small businesses under the regulations issued—
 
-(1) under section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)), and on compliance with those requirements; and
+(1) under section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)), and on compliance with those requirements;
 
-(2) under section 9 of the Small Business Act ([15 U.S.C. 638](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim)), and on compliance with those requirements.
+(2) under section 9 of the Small Business Act ([15 U.S.C. 638](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section638&num=0&edition=prelim)), and on compliance with those requirements;
+
+(3) under clause 252.204–7012 of the Defense Acquisition Regulation Supplement, or any successor regulation, and on compliance with those requirements (and any successor requirements); and
+
+(4) under section 847 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1505), and on compliance with those requirements (and any such successor requirements).
 
 ### Statutory Notes
 
 #### References in Text
 The Defense Conversion, Reinvestment, and Transition Assistance Act of 1992, referred to in subsec. (b), is div. D of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2658. For complete classification of div. D to the Code, see Short Title note set out under [section 4801 of this title](./chapter-381-defense-industrial-base-generally.md#section-4801) and Tables.
 
+Section 847 of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (c)(4), is section 847 of Pub. L. 116–92, which is set out as a note under [section 4819 of this title](./chapter-382-policies-and-planning.md#section-4819).
+
 #### Amendments
+2023—Subsec. (c)(3), (4). Pub. L. 118–31 added pars. (3) and (4).
+
 2021—Pub. L. 116–283, § 1872(a)(9), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(E), renumbered [section 2418 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2418) as this section and inserted headings in subsecs. (a) to (c).
 
 2017—Subsec. (c). Pub. L. 115–91 substituted “issued—” for “issued”, inserted par. (1) designation before “under” and comma before “and on compliance”, and added par. (2).
@@ -431,19 +470,30 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 <a id="section-4961"></a>
 ## § 4961. Administrative and other costs
 
-The Director of the Defense Logistics Agency may use, out of the amount appropriated for a fiscal year for operation and maintenance for the procurement technical assistance program authorized by this chapter—
+The Secretary may use, out of the amount appropriated for a fiscal year for operation and maintenance for the procurement technical assistance program authorized by this chapter—
 
-(1) an amount not exceeding three percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year; and
+(1) an amount not exceeding four percent of such amount to defray the expenses of administering the provisions of this chapter during such fiscal year; and
 
-(2) an amount determined appropriate by the Director to assist eligible entities in payment of costs of eligible entities—
+(2) an amount determined appropriate by the Secretary to assist eligible entities in payment of costs of eligible entities—
 
-  (A) for meetings to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
+  (A) for meetings, including meetings of an association recognized under section 4954(f),11 See References in Text note below. to discuss best practices for the improvement of the operations of procurement technical assistance centers; and
 
   (B) for membership dues for any association of such centers created by eligible entities, training fees and associated travel for training to carry out the purposes of this chapter, and voluntary participation on any committees or board of such an association.
 
 ### Statutory Notes
 
+#### References in Text
+Section 4954(f), referred to in par. (2)(A), was redesignated as [section 4954(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4954/e&num=0&edition=prelim), and a new subsec. (f) of [section 4954 of this title](./chapter-388-procurement-technical-assistance-cooperative-agreement-program.md#section-4954) was added, by Pub. L. 118–31, div. A, title VIII, § 853(b)(2), (3), Dec. 22, 2023, 137 Stat. 344.
+
 #### Amendments
+2022—Pub. L. 117–263, § 854(a)(1), substituted “Secretary” for “Director of the Defense Logistics Agency” in introductory provisions.
+
+Par. (1). Pub. L. 117–263, § 854(a)(2), substituted “four” for “three”.
+
+Par. (2). Pub. L. 117–263, § 854(a)(3)(A), substituted “Secretary” for “Director” in introductory provisions.
+
+Par. (2)(A). Pub. L. 117–263, § 854(a)(3)(B), inserted “, including meetings of an association recognized under section 4954(f),” after “meetings”.
+
 2021—Pub. L. 116–283, § 1872(a)(11), as amended by Pub. L. 117–81, § 1701(b)(24), (m)(2)(G), renumbered [section 2417 of this title](./chapter-chapter-142-chapter-chapter-142.md#section-2417) as this section.
 
 Par. (2). Pub. L. 116–283, § 1081(a)(41), which directed amendment of par. (2) by substituting “entities—” for “entities -”, was executed by making the substitution for “entities —” to reflect the probable intent of Congress.

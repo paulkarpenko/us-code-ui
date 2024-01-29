@@ -383,7 +383,7 @@ Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 1298
 Ex. Ord. No. 13522, Dec. 9, 2009, 74 F.R. 66203, which related to the establishment of the National Council on Federal Labor-Management Relations and implementation of labor-management forums, was revoked by Ex. Ord. No. 13812, Sept. 29, 2017, 82 F.R. 46367.
 
 #### Extension of Term of National Council on Federal Labor-Management Relations
-Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of National Council on Federal Labor-Management Relations extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under [section 1013 of this title](./chapter-010-federal-advisory-committees.md#section-1013).
 
 Previous extensions of term of National Council on Federal Labor-Management Relations were contained in the following prior Executive Orders:
 
@@ -392,7 +392,7 @@ Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, extended term until Sept. 30,
 Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, extended term until Sept. 30, 2013.
 
 #### Extension of Term of U.S. General Services Administration Labor-Management Relations Council
-Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of U.S. General Services Administration Labor-Management Relations Council extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, formerly set out as a note under [section 1013 of this title](./chapter-010-federal-advisory-committees.md#section-1013).
 
 #### Executive Order No. 13836
 Ex. Ord. No. 13836, May 25, 2018, 83 F.R. 25329, which related to Federal sector collective bargaining, was revoked by Ex. Ord. No. 14003, § 3(a), Jan. 22, 2021, 86 F.R. 7231, set out in a note under [section 3301 of this title](./chapter-033-examination-selection-and-placement.md#section-3301).

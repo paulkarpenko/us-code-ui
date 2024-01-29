@@ -2,7 +2,7 @@
 title: 10
 chapter: '108'
 heading: DEPARTMENT OF DEFENSE SCHOOLS
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -209,7 +209,7 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, pro
 
 (5) Meetings conducted by the school board shall be open to the public, except as provided in paragraph (6).
 
-(6) A school board need not comply with the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.
+(6) A school board need not comply with the provisions of chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.
 
 (7) The Secretary may provide for reimbursement of a school board member for expenses incurred by the member for travel, transportation, lodging, meals, program fees, activity fees, and other appropriate expenses that the Secretary determines are reasonable and necessary for the performance of school board duties by the member.
 
@@ -340,8 +340,6 @@ Pub. L. 109–163, div. A, title V, § 521(c), Jan. 6, 2006, 119 Stat. 3240, pro
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(6), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The effective date of this section, referred to in subsec. (e)(3)(B), is the date of enactment of Pub. L. 103–337 which was approved Oct. 5, 1994.
 
 The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
@@ -349,6 +347,8 @@ The Individuals with Disabilities Education Act, referred to in subsec. (f)(1), 
 Section 6(a) of Public Law 81–874 ([20 U.S.C. 241(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section241/a&num=0&edition=prelim)), referred to in subsec. (f)(2), was repealed by Pub. L. 103–382, title III, § 331(b), Oct. 20, 1994, 108 Stat. 3965.
 
 #### Amendments
+2022—Subsec. (d)(6). Pub. L. 117–286 substituted “chapter 10 of title 5, but may close meetings in accordance with chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.), but may close meetings in accordance with such Act.”
+
 2013—Subsecs. (k), (l). Pub. L. 112–239 added subsecs. (k) and (l).
 
 Subsec. (l)(3). Pub. L. 113–66 added par. (3).
@@ -402,7 +402,7 @@ Pub. L. 103–337, div. A, title III, § 351(c), Oct. 5, 1994, 108 Stat. 2730, p
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).
 
 #### Pilot Program To Expand Eligibility for Enrollment at Domestic Dependent Elementary and Secondary Schools
-Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, provided that: “(a) Pilot Program Authorized.—Beginning not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out a pilot program under which a dependent of a full-time, active-duty member of the Armed Forces may enroll in a covered DODEA school at the military installation to which the member is assigned, on a space-available basis as described in subsection (c), without regard to whether the member resides on the installation as described in [section] 2164(a)(1) of title 10, United States Code. “(b) Purposes.—The purposes of the pilot program under this section are—“(1) to evaluate the feasibility and advisability of expanding enrollment in covered DODEA schools; and “(2) to determine how increased access to such schools will affect military and family readiness. “(c) Enrollment on Space-Available Basis.—A student participating in the pilot program under this section may be enrolled in a covered DODEA school only if the school has the capacity to accept the student, as determined by the Director of the Department of Defense Education Activity. “(d) Locations.—The Secretary of Defense shall carry out the pilot program under this section at not more than four military installations at which covered DODEA schools are located. The Secretary shall select military installations for participation in the program based on—“(1) the readiness needs of the Secretary of a the military department concerned; and “(2) the capacity of the DODEA schools located at the installation to accept additional students, as determined by the Director of the Department of Defense Education Activity. “(e) Termination.—The authority to carry out the pilot program under this section shall terminate four years after the date of the enactment of this Act. “(f) Covered DODEA School Defined.—In this Section, the term ‘covered DODEA school’ means a domestic dependent elementary or secondary school operated by the Department of Defense Education Activity that—“(1) has been established on or before the date of the enactment of this Act; and “(2) is located in the continental United States.”
+Pub. L. 116–283, div. A, title V, § 589C, Jan. 1, 2021, 134 Stat. 3659, as amended by Pub. L. 117–263, div. A, title V, § 572(a), Dec. 23, 2022, 136 Stat. 2601, provided that: “(a) Pilot Program Authorized.—Beginning not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall carry out a pilot program under which a dependent of a full-time, active-duty member of the Armed Forces may enroll in a covered DODEA school at the military installation to which the member is assigned, on a space-available basis as described in subsection (c), without regard to whether the member resides on the installation as described in [section] 2164(a)(1) of title 10, United States Code. “(b) Purposes.—The purposes of the pilot program under this section are—“(1) to evaluate the feasibility and advisability of expanding enrollment in covered DODEA schools; and “(2) to determine how increased access to such schools will affect military and family readiness. “(c) Enrollment on Space-Available Basis.—A student participating in the pilot program under this section may be enrolled in a covered DODEA school only if the school has the capacity to accept the student, as determined by the Director of the Department of Defense Education Activity. “(d) Locations.—The Secretary of Defense shall carry out the pilot program under this section at not more than four military installations at which covered DODEA schools are located. The Secretary shall select military installations for participation in the program based on—“(1) the readiness needs of the Secretary of a the military department concerned; and “(2) the capacity of the DODEA schools located at the installation to accept additional students, as determined by the Director of the Department of Defense Education Activity. “(e) Termination.—The authority to carry out the pilot program under this section shall terminate on July 1, 2029. “(f) Covered DODEA School Defined.—In this Section, the term ‘covered DODEA school’ means a domestic dependent elementary or secondary school operated by the Department of Defense Education Activity that—“(1) has been established on or before the date of the enactment of this Act; and “(2) is located in the continental United States.”
 
 #### Pilot Program on Expanded Eligibility for Department of Defense Education Activity Virtual High School Program
 Pub. L. 116–283, div. A, title V, § 589D, Jan. 1, 2021, 134 Stat. 3660, provided that: “(a) Pilot Program Required.—“(1) In general.—The Secretary of Defense shall carry out a pilot program on permitting dependents of members of the Armed Forces on active duty to enroll in the Department of Defense Education Activity Virtual High School program (in this section referred to as the ‘DVHS program’). “(2) Purposes.—The purposes of the pilot program shall be as follows:“(A) To evaluate the feasibility and scalability of the DVHS program. “(B) To assess the impact of expanded enrollment in the DVHS program under the pilot program on military and family readiness. “(3) Duration.—The duration of the pilot program shall be four academic years. “(b) Participants.—“(1) In general.—Participants in the pilot program shall be selected by the Secretary from among dependents of members of the Armed Forces on active duty who—“(A) are in a grade 9 through 12; “(B) are currently ineligible to enroll in the DVHS program; and “(C) either—“(i) require supplementary courses to meet graduation requirements in the current State of residence; or “(ii) otherwise demonstrate to the Secretary a clear need to participate in the DVHS program. “(2) Preference in selection.—In selecting participants in the pilot program, the Secretary shall afford a preference to the following:“(A) Dependents who reside in a rural area. “(B) Dependents who are home-schooled students. “(3) Limitations.—The total number of course enrollments per academic year authorized under the pilot program may not exceed 400 course enrollments. No single dependent participating in the pilot program may take more than two courses per academic year under the pilot program. “(c) Reports.—“(1) Interim report.—Not later than two years after the date of the enactment of this Act [Jan. 1, 2021], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives an interim report on the pilot program. “(2) Final report.—Not later than 180 days after the completion of the pilot program, the Secretary shall submit to the committees of Congress referred to in paragraph (1) a final report on the pilot programs. “(3) Elements.—Each report under this subsection shall include the following:“(A) A description of the demographics of the dependents participating in the pilot program through the date of such report. “(B) Data on, and an assessment of, student performance in virtual coursework by dependents participating in the pilot program over the duration of the pilot program. “(C) Such recommendation as the Secretary considers appropriate on whether to make the pilot program permanent. “(d) Definitions.—In this section:“(1) The term ‘rural area’ has the meaning given the term in section 520 of the Housing Act of 1949 ([42 U.S.C. 1490](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490&num=0&edition=prelim)). “(2) The term ‘home-schooled student’ means a student in a grade equivalent to grade 9 through 12 who receives educational instruction at home or by other non-traditional means outside of a public or private school system, either all or most of the time.”
@@ -414,6 +414,80 @@ Pub. L. 116–92, div. A, title II, § 234, Dec. 20, 2019, 133 Stat. 1278, as am
 
 #### Support for World Language Advancement and Readiness
 Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, provided that: “(a) Program authority.—“(1) In general.—The Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Education, may carry out a program under which the Secretary may provide support to eligible entities for the establishment, improvement, or expansion of world language study for elementary school and secondary school students. “(2) Special requirements for local educational agencies.—In providing support under paragraph (1) to an eligible entity that is a local educational agency, the Secretary of Defense shall support programs that—“(A) show the promise of being continued after such support is no longer available; “(B) demonstrate approaches that can be disseminated to and duplicated in other local educational agencies; and “(C) may include a professional development component. “(3) Applications.—“(A) In general.—To be considered for support under paragraph (1), an eligible entity shall submit an application to the Secretary of Defense at such time, in such manner, and containing such information and assurances as the Secretary may require. “(B) Special consideration.—The Secretary of Defense shall give special consideration to applications describing programs that—“(i) include intensive summer world language programs for professional development of world language teachers; “(ii) link nonnative English speakers in the community with the schools in order to promote two-way language learning; “(iii) promote the sequential study of a world language for students, beginning in elementary schools; “(iv) make effective use of technology, such as computer-assisted instruction, language laboratories, or distance learning, to promote world language study; “(v) promote innovative activities, such as dual language immersion, partial world language immersion, or content-based instruction; and “(vi) are carried out through a consortium comprised of the eligible entity receiving the grant, an elementary school or secondary school, and an institution of higher education (as that term is defined in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))). “(b) Definitions.—In this section:“(1) Eligible entity.—The term ‘eligible entity’ means the following:“(A) A local educational agency that hosts a unit of the Junior Reserve Officers’ Training Corps. “(B) A school operated by the Department of Defense Education Activity. “(2) Esea terms.—The terms ‘elementary school’, ‘local educational agency’ and ‘secondary school’ have the meanings given the terms in section 8101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)). “(3) World language.—The term ‘world language’ means—“(A) any natural language other than English, including—“(i) languages determined by the Secretary of Defense to be critical to the national security interests of the United States; “(ii) classical languages; “(iii) American sign language; and “(iv) Native American languages; and “(B) any language described in subparagraph (A) that is taught in combination with English as part of a dual language or immersion learning program.”
+
+
+<a id="section-2164a"></a>
+## § 2164a. Rights of parents of children attending schools operated by the Department of Defense Education Activity
+**(a) In General.—** The parent of a child who attends a school operated by the Department of Defense Education Activity has the following rights:
+
+(1) The right to review the curriculum of the school.
+
+(2) The right to be informed if the school or the Department of Defense Education Activity alters the school’s academic standards or learning benchmarks.
+
+(3) The right to meet with each teacher of their child not less than twice during each school year.
+
+(4) The right to review all instructional materials used by their students.
+
+(5) The right to inspect a list of the books and other reading materials contained in the library of the school.
+
+(6) The right to address the school advisory committee or the school board.
+
+(7) The right to data about the school’s discipline policy and any disciplinary action that results in a suspension or expulsion from the school, unless such disclosure is prohibited by law.
+
+(8) The right to information about any plans to eliminate gifted and talented programs or accelerated coursework at the school.
+
+**(b) Disclosures and Notifications.—** Consistent with the parental rights specified in subsection (a) and except as provided by subsection (c), a school operated by the Department of Defense Education Activity shall—
+
+(1) post on a publicly accessible website of the school—
+
+  (A) the curriculum for each course and grade level;
+
+  (B) the academic standards or other learning benchmarks used by the school; and
+
+  (C) notice of any proposed revisions to such standards or benchmarks and a copy of any such revisions;
+
+(2) provide the parent of a child attending the school with—
+
+  (A) the opportunity to meet in person with each teacher of their child not less frequently than twice during each school year at a time mutually agreed upon by both parties; and
+
+  (B) notice of such opportunity at the beginning of each school year;
+
+(3) provide parents access to the online school library catalog;
+
+(4) notify parents in a timely manner of any plans to eliminate gifted and talented programs or accelerated coursework at the school;
+
+(5) except as provided by paragraph (6) or subsection (c), notify parents of any medical examinations or screenings the school may administer to their child and receive written consent from parents for any such examination or screening prior to conducting the examination or screening;
+
+(6) in the event of an emergency that requires a medical examination or screening without time for parental notification, promptly notify parents of such examination or screening and provide an explanation of the emergency that prevented notification prior to such examination or screening; and
+
+(7) notify parents of any medical information that will be collected on their child, receive written parental consent prior to collecting such information, and provide parents an opportunity to inspect such information at the parent’s request.
+
+**(c) Exceptions.—**
+
+(1) Paragraph (5) of subsection (a) and paragraph (3) of subsection (b) shall not be effective until the day that is two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024.
+
+(2) A requirement set forth in subsection (b) shall not apply in a case in which the requirement would violate any applicable provision of a Federal or State statute or regulation.
+
+**(d) School Advisory Committees and Boards.—** Not less frequently than four times per year, a school advisory committee or school board for a school operated by the Department of Defense Education Activity shall provide parents of children attending the school with the opportunity to address the advisory committee or school board on any matters relating to the school or the educational services provided to their children.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “medical examination or screening”—
+
+  (A) means a physical examination provided by a health care provider; and
+
+  (B) does not include an evaluation by, or an encounter with, non-clinical school staff.
+
+(2) The term “school” means—
+
+  (A) a Department of Defense domestic dependent elementary or secondary school, as described in [section 2164 of this title](./chapter-108-department-of-defense-schools.md#section-2164); or
+
+  (B) any elementary or secondary school or program for dependents operated by the Department of Defense Education Activity.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (c)(1), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 
 <a id="section-2165"></a>
@@ -432,7 +506,9 @@ Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, pr
 
 (5) The College of Information and Cyberspace.
 
-(6) Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
+(6) The College of International Security Affairs.
+
+(7) Any other educational institution of the Department of Defense that the Secretary considers appropriate and designates as an institution of the university.
 
 **(c)** Repealed. Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B), Oct. 17, 2006, 120 Stat. 2353.]
 
@@ -461,6 +537,8 @@ Pub. L. 116–92, div. A, title XVII, § 1751, Dec. 20, 2019, 133 Stat. 1849, pr
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(6), (7). Pub. L. 118–31 added par. (6) and redesignated former par. (6) as (7).
+
 2021—Subsec. (f)(1). Pub. L. 116–283 substituted “section 4001” for “section 2358”.
 
 2016—Subsec. (b)(5). Pub. L. 114–328, § 1648(a), substituted “College of Information and Cyberspace” for “Information Resources Management College”.

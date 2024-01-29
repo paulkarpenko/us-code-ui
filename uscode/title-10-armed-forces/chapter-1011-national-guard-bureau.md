@@ -276,9 +276,17 @@ Section effective at end of 90-day period beginning on Oct. 5, 1994, see section
 
 **(b) Duties.—** The Vice Chief of the National Guard Bureau performs such duties as may be prescribed by the Chief of the National Guard Bureau.
 
+**(c) Grade.—**
+
+(1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
+
+(2) The Secretary of Defense shall designate, pursuant to subsection (b) of [section 526 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-526), the position of Vice Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
+
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (c). Pub. L. 118–31 added subsec. (c).
+
 2016—Subsec. (a)(1)(E). Pub. L. 114–328, § 502(rr)(1), struck out subpar. (E) which read as follows: “are in a grade above the grade of brigadier general.”
 
 Subsec. (a)(4). Pub. L. 114–328, § 511, substituted “paragraph (3) for not more than 90 days” for “paragraph (3)(B) for a limited period of time”.

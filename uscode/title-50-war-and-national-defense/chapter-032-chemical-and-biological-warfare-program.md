@@ -19,7 +19,7 @@ Section, Pub. L. 91–121, title IV, § 409(a), Nov. 19, 1969, 83 Stat. 209; Pub
 
 None of the funds authorized to be appropriated by this Act or any other Act may be used for the transportation of any lethal chemical or any biological warfare agent to or from any military installation in the United States, or the open air testing of any such agent within the United States, or the disposal of any such agent within the United States until the following procedures have been implemented:
 
-(1) the Secretary of Defense (hereafter referred to in this chapter as the “Secretary”) has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
+(1) the Secretary of Defense (hereafter referred to in this section 11 See References in Text note below. [[50 U.S.C. 1512](./chapter-032-chemical-and-biological-warfare-program.md#section-1512), 1513–1515, 1517] as the “Secretary”) has determined that the transportation or testing proposed to be made is necessary in the interests of national security;
 
 (2) the Secretary has brought the particulars of the proposed transportation, testing, or disposal to the attention of the Secretary of Health and Human Services, who in turn may direct the Surgeon General of the Public Health Service and other qualified persons to review such particulars with respect to any hazards to public health and safety which such transportation, testing, or disposal may pose and to recommend what precautionary measures are necessary to protect the public health and safety;
 
@@ -30,7 +30,9 @@ None of the funds authorized to be appropriated by this Act or any other Act may
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in provision preceding par. (1), means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in introductory provisions, means Pub. L. 91–121, Nov. 19, 1969, 83 Stat. 204. Provisions authorizing the appropriation of funds are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+This section, referred to in par. (1), means section 409 of Pub. L. 91–121. Subsecs. (b), (c) to (e), and (g) of section 409 of Pub. L. 91–121 are classified to sections 1512, 1513 to 1515, and 1517 of this title, respectively. Section 409(a) of Pub. L. 91–121 was classified to [section 1511 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1511), prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(k), Feb. 10, 1996, 110 Stat. 443. Section 409(f) of Pub. L. 91–121 was classified to [section 1516 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1516), prior to being eliminated upon the enactment of similar provisions by section 506(a) of Pub. L. 91–441.
 
 #### Amendments
 1970—Pub. L. 91–441 inserted reference to the disposal of lethal chemical or biological warfare agents in the United States.
@@ -43,6 +45,9 @@ Pub. L. 109–163, div. A, title XII, § 1232, Jan. 6, 2006, 119 Stat. 3468, pro
 
 #### Chemical Munitions Transportation From Okinawa to the United States
 Pub. L. 91–672, § 13, Jan. 12, 1971, 84 Stat. 2055, directed that no authorized funds could be used to transport chemical munitions from Okinawa to the United States, but could be used for detoxification or destruction of these munitions only outside the United States.
+
+#### Definition of “United States”
+For definition of “United States” as used in this section, see [section 1514 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1514).
 
 #### Ex. Ord. No. 11850. Renunciation of Certain Uses in War of Chemical Herbicides and Riot Control Agents
 Ex. Ord. No. 11850, Apr. 8, 1975, 40 F.R. 16187, provided:
@@ -108,17 +113,32 @@ Par. (2). Pub. L. 91–441, § 506(b)(3), inserted reference to disposal of muni
 #### Withdrawal of European Chemical Stockpile
 Pub. L. 100–180, div. A, title I, § 126, Dec. 4, 1987, 101 Stat. 1044, provided that: “Chemical munitions of the United States stored in Europe on the date of the enactment of this Act [Dec. 4, 1987] should not be removed from Europe unless such munitions are replaced contemporaneously with binary chemical munitions stationed on the soil of at least one European member nation of the North Atlantic Treaty Organization.”
 
+#### Definitions
+For definition of “United States” as used in this section, unless otherwise indicated, see [section 1514 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1514).
+
+“Secretary” means the Secretary of Defense, see [section 1512(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1512/1&num=0&edition=prelim).
+
 
 <a id="section-1514"></a>
 ## § 1514. “United States” defined
 
-Unless otherwise indicated, as used in this chapter the term “United States” means the several States the District of Columbia, and the territories and possessions of the United States.
+Unless otherwise indicated, as used in this section 11 See References in Text note below. [[50 U.S.C. 1512](./chapter-032-chemical-and-biological-warfare-program.md#section-1512), 1513–1515, 1517] the term “United States” means the several States the District of Columbia, and the territories and possessions of the United States.
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in text, means section 409 of Pub. L. 91–121. Subsecs. (b), (c) to (e), and (g) of section 409 of Pub. L. 91–121 are classified to sections 1512, 1513 to 1515, and 1517 of this title, respectively. Section 409(a) of Pub. L. 91–121 was classified to [section 1511 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1511), prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(k), Feb. 10, 1996, 110 Stat. 443. Section 409(f) of Pub. L. 91–121 was classified to [section 1516 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1516), prior to being eliminated upon the enactment of similar provisions by section 506(a) of Pub. L. 91–441.
 
 
 <a id="section-1515"></a>
 ## § 1515. Suspension; Presidential authorization
 
-After November 19, 1969, the operation of this chapter, or any portion thereof, may be suspended by the President during the period of any war declared by Congress and during the period of any national emergency declared by Congress or by the President.
+After November 19, 1969, the operation of this section 11 See References in Text note below. [[50 U.S.C. 1512](./chapter-032-chemical-and-biological-warfare-program.md#section-1512), 1513–1515, 1517], or any portion thereof, may be suspended by the President during the period of any war declared by Congress and during the period of any national emergency declared by Congress or by the President.
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in text, means section 409 of Pub. L. 91–121. Subsecs. (b), (c) to (e), and (g) of section 409 of Pub. L. 91–121 are classified to sections 1512, 1513 to 1515, and 1517 of this title, respectively. Section 409(a) of Pub. L. 91–121 was classified to [section 1511 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1511), prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(k), Feb. 10, 1996, 110 Stat. 443. Section 409(f) of Pub. L. 91–121 was classified to [section 1516 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1516), prior to being eliminated upon the enactment of similar provisions by section 506(a) of Pub. L. 91–441.
 
 
 <a id="section-1516"></a>
@@ -134,13 +154,24 @@ This Act, referred to in text, means Pub. L. 91–441, Oct. 7, 1970, 84 Stat. 91
 #### Codification
 Section was not enacted as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
-Section is from the Armed Forces-Military Procurement, 1971 act, Pub. L. 91–441. Provisions similar to those in this section were contained in Pub. L. 91–121, title IV, § 409(f), Nov. 19, 1969, 83 Stat. 210.
+Section is from the Armed Forces-Military Procurement, 1971 act, Pub. L. 91–441.
+
+#### Prior Provisions
+Provisions similar to those in this section were contained in Pub. L. 91–121, title IV, § 409(f), Nov. 19, 1969, 83 Stat. 210.
 
 
 <a id="section-1517"></a>
 ## § 1517. Immediate disposal when health or safety are endangered
 
-Nothing contained in this chapter shall be deemed to restrict the transportation or disposal of research quantities of any lethal chemical or any biological warfare agent, or to delay or prevent, in emergency situations either within or outside the United States, the immediate disposal together with any necessary associated transportation, of any lethal chemical or any biological warfare agent when compliance with the procedures and requirements of this chapter would clearly endanger the health or safety of any person.
+Nothing contained in this section 11 See References in Text note below. [[50 U.S.C. 1512](./chapter-032-chemical-and-biological-warfare-program.md#section-1512), 1513–1515, 1517] shall be deemed to restrict the transportation or disposal of research quantities of any lethal chemical or any biological warfare agent, or to delay or prevent, in emergency situations either within or outside the United States, the immediate disposal together with any necessary associated transportation, of any lethal chemical or any biological warfare agent when compliance with the procedures and requirements of this chapter would clearly endanger the health or safety of any person.
+
+### Statutory Notes
+
+#### References in Text
+This section, referred to in text, means section 409 of Pub. L. 91–121. Subsecs. (b), (c) to (e), and (g) of section 409 of Pub. L. 91–121 are classified to sections 1512, 1513 to 1515, and 1517 of this title, respectively. Section 409(a) of Pub. L. 91–121 was classified to [section 1511 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1511), prior to repeal by Pub. L. 104–106, div. A, title X, § 1061(k), Feb. 10, 1996, 110 Stat. 443. Section 409(f) of Pub. L. 91–121 was classified to [section 1516 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1516), prior to being eliminated upon the enactment of similar provisions by section 506(a) of Pub. L. 91–441.
+
+#### Definition of “United States”
+For definition of “United States” as used in this section, see [section 1514 of this title](./chapter-032-chemical-and-biological-warfare-program.md#section-1514).
 
 
 <a id="section-1518"></a>
@@ -710,7 +741,7 @@ Congressional defense committees means the Committees on Armed Services and Appr
 
 (1) The budget for the Department of Defense for each fiscal year after fiscal year 1994 shall reflect a coordinated and integrated chemical and biological defense program for the Department of Defense.
 
-(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2)) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the program may not be included in the budget accounts of the military departments.
+(2) Funding requests for the program (other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2)) shall be set forth in the budget of the Department of Defense for each fiscal year as a separate account, with a single program element for each of the categories of research, development, test, and evaluation, acquisition, and military construction. Amounts for military construction projects may be set forth in the annual military construction budget. Funds for military construction for the program in the military construction budget shall be set forth separately from other funds for military construction projects. Funding requests for the program may be included in the budget accounts of the military departments.
 
 (3) The program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) shall be set forth as a separate program element in the budget of that agency.
 
@@ -744,6 +775,8 @@ Congressional defense committees means the Committees on Armed Services and Appr
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
 #### Amendments
+2023—Subsec. (d)(2). Pub. L. 118–31 substituted “may be included in the budget accounts” for “may not be included in the budget accounts”.
+
 1996—Subsec. (c). Pub. L. 104–201, § 228(a), designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (d)(1). Pub. L. 104–201, § 228(b)(1), substituted “program for the Department of Defense” for “program for the military departments”.
@@ -944,13 +977,28 @@ Section was enacted as part of the Arms Control and Nonproliferation Act of 1999
 #### Codification
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
 
+#### Notification of Safety and Security Concerns at Certain Department of Defense Laboratories
+Pub. L. 118–31, div. A, title X, § 1089, Dec. 22, 2023, 137 Stat. 420, provided that: “(a) In General.—The Secretary of Defense shall notify the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] within 7 days after ceasing operations at any Department of Defense laboratory or facility rated at biosafety level–3 or higher for safety or security reasons. “(b) Content.—The notification required under subsection (a) shall include—“(1) the reason why operations have ceased at the laboratory or facility; “(2) whether appropriate notification to other Federal agencies has occurred; “(3) a description of the actions taken to determine the root cause of the cessation; and “(4) a description of the actions taken to restore operations at the laboratory or facility.”
+
 #### “Congressional Defense Committees” Defined
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–328, 130 Stat. 2025. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-1528"></a>
 ## § 1528. Congressional notification of biological select agent and toxin theft, loss, or release involving the Department of Defense
-**(a) Notification requirement** Not later than 15 days after notice of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is provided to the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, as specified by section 331.19 of part 11 So in original. Probably should be “title”. 7 of the Code of Federal Regulations, the Secretary of Defense shall provide to the congressional defense committees notice of such theft, loss, or release.
+**(a) Notification**
+
+(1) Subject to paragraph (2), not later than 45 days after a covered report of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is filed with the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, the Secretary of Defense, acting through the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs, shall provide to the congressional defense committees notice of such theft, loss, or release.
+
+(2) The Secretary shall provide to the congressional defense committees notice of a release under paragraph (1) only if the Secretary, acting through the Assistant Secretary, determines that the release is outside the barriers of secondary containment into the ambient air or environment or is causing occupational exposure that presents a threat to public safety.
+
+(3) In this subsection, the term “covered report” means a report filed under any of the following (or any successor regulations):
+
+  (A) Section 331.19 of title 7, Code of Federal Regulations.
+
+  (B) Section 121.19 of title 9, Code of Federal Regulations.
+
+  (C) Section 73.19 of title 42, Code of Federal Regulations.
 
 **(b) Elements** Notice of a theft, loss, or release of a biological select agent or toxin under subsection (a) shall include each of the following:
 
@@ -968,6 +1016,9 @@ Congressional defense committees means the Committees on Armed Services and Appr
 
 #### Codification
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2017, and not as part of Pub. L. 91–121, title IV, § 409, Nov. 19, 1969, 83 Stat. 209, which comprises this chapter.
+
+#### Amendments
+2023—Subsec. (a). Pub. L. 118–31 amended subsec. (a) generally. Prior to amendment, text read as follows: “Not later than 15 days after notice of any theft, loss, or release of a biological select agent or toxin involving the Department of Defense is provided to the Centers for Disease Control and Prevention or the Animal and Plant Health Inspection Service, as specified by section 331.19 of part 7 of the Code of Federal Regulations, the Secretary of Defense shall provide to the congressional defense committees notice of such theft, loss, or release.”
 
 #### “Congressional Defense Committees” Defined
 Congressional defense committees means the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see section 3 of Pub. L. 114–328, 130 Stat. 2025. See note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.

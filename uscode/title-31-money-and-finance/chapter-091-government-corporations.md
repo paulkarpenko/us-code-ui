@@ -260,7 +260,7 @@ In subsection (b), the word “existing” is omitted as surplus. In clause (1),
 ## § 9105. Audits
 **(a)**
 
-(1) The financial statements of Government corporations shall be audited by the Inspector General of the corporation appointed under the Inspector General Act of 1978 (5 U.S.C. App.), or under other Federal law, or by an independent external auditor, as determined by the Inspector General or, if there is no Inspector General, by the head of the corporation.
+(1) The financial statements of Government corporations shall be audited by the Inspector General of the corporation appointed under chapter 4 of title 5, or under other Federal law, or by an independent external auditor, as determined by the Inspector General or, if there is no Inspector General, by the head of the corporation.
 
 (2) Audits under this section shall be conducted in accordance with applicable generally accepted government auditing standards.
 
@@ -312,10 +312,9 @@ In subsection (e), the words “The Comptroller General shall pay the cost of an
 
 Subsection (g) is substituted for 31:866(a)(words between 1st comma and 1st proviso) for clarity and consistency.
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–286 substituted “chapter 4 of title 5,” for “the Inspector General Act of 1978 (5 U.S.C. App.),”.
+
 1993—Subsec. (a)(1). Pub. L. 103–82 inserted “, or under other Federal law,” before “or by an independent”.
 
 1990—Pub. L. 101–576 amended section generally. Prior to amendment, section required Comptroller General to audit financial transactions of Government corporations at least once every 3 years, the Federal Savings and Loan Insurance Corporation and Federal home loan banks each year, the Federal Asset Disposition Association and the Federal Agricultural Mortgage Corporation as necessary; suggested that Comptroller General in conducting an audit use reports of examinations of Government corporation by supervising administrative agency and authorized Comptroller General to contract for professional services; required audits to be conducted consistent with principles and procedures applicable to commercial corporate transactions; set forth responsibility for payment of audit cost, and authorized appropriations.
@@ -331,7 +330,7 @@ Pub. L. 100–233 added par. (4).
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1993 Amendment
 Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out as an Effective Date note under [section 12651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651&num=0&edition=prelim), The Public Health and Welfare.

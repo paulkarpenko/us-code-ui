@@ -82,7 +82,7 @@ The Administrator shall—
 
 <a id="section-60304"></a>
 ## § 60304. Program evaluation
-**(a) Advisory Committee.—** The Administrator shall establish an advisory committee, consisting of individuals with appropriate expertise in State, local, regional, and tribal agencies, the university research community, and the remote sensing and other geospatial information industries, to monitor the program established under [section 60303 of this title](./chapter-603-remote-sensing.md#section-60303). The advisory committee shall consult with the Federal Geographic Data Committee and other appropriate industry representatives and organizations. Notwithstanding section 14 of the Federal Advisory Committee Act (5 App. U.S.C.), the advisory committee established under this subsection shall remain in effect until the termination of the program under [section 60303 of this title](./chapter-603-remote-sensing.md#section-60303).
+**(a) Advisory Committee.—** The Administrator shall establish an advisory committee, consisting of individuals with appropriate expertise in State, local, regional, and tribal agencies, the university research community, and the remote sensing and other geospatial information industries, to monitor the program established under [section 60303 of this title](./chapter-603-remote-sensing.md#section-60303). The advisory committee shall consult with the Federal Geographic Data Committee and other appropriate industry representatives and organizations. Notwithstanding [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), the advisory committee established under this subsection shall remain in effect until the termination of the program under [section 60303 of this title](./chapter-603-remote-sensing.md#section-60303).
 
 **(b) Effectiveness Evaluation.—** Not later than December 31, 2009, the Administrator shall transmit to Congress an evaluation of the effectiveness of the program established under [section 60303 of this title](./chapter-603-remote-sensing.md#section-60303) in exploring and promoting the integrated use of sources of remote sensing and other geospatial information to address State, local, regional, and tribal agency needs. Such evaluation shall have been conducted by an independent entity.
 
@@ -93,8 +93,8 @@ The Administrator shall—
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 60304 | [42 U.S.C. 16674](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16674&num=0&edition=prelim). | Pub. L. 109–155, title III, § 314, Dec. 30, 2005, 119 Stat. 2921. |
 
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “[section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim),” for “section 14 of the Federal Advisory Committee Act (5 App. U.S.C.),”.
 
 
 <a id="section-60305"></a>

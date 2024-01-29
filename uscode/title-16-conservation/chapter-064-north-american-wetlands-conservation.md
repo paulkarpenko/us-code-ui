@@ -152,7 +152,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
   (C) four shall be individuals who shall be appointed by the Secretary, who shall reside in different flyways and who shall each be a Director of the State fish and wildlife agency; and
 
   (D) three shall be individuals who shall be appointed by the Secretary and who shall each represent a different charitable and nonprofit organization which is actively participating in carrying out wetlands conservation projects under this chapter, the Plan, or the Agreement.
-  The provisions of Public Law 92–463, as amended, shall not apply to the Council.
+  The provisions of chapter 10 of title 5 shall not apply to the Council.
 
 (2) The Secretary shall appoint an alternate member of the Council who shall be knowledgeable and experienced in matters relating to fish, wildlife, and wetlands conservation and who shall perform the duties of a Council member appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section—
 
@@ -197,9 +197,9 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(A), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, known as the Federal Advisory Committee Act, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Public Law 92–463, as amended,” in concluding provisions.
+
 2020—Subsec. (a)(1)(B). Pub. L. 116–188 substituted “Executive Director of the Board” for “Secretary of the Board”.
 
 2002—Subsec. (a)(1)(A). Pub. L. 107–308, § 8(b)(1), amended directory language of Pub. L. 101–593, § 112(1). See 1990 Amendment note below.

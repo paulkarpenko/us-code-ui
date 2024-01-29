@@ -2,7 +2,7 @@
 title: 20
 heading: EDUCATION
 positive_law: false
-sections: 2026
+sections: 2028
 chapters: 86
 ---
 # Title 20. EDUCATION

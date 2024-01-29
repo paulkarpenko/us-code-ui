@@ -140,7 +140,7 @@ Sec. 4. Termination. The PCJC shall terminate 2 years after the date of this ord
 
 Sec. 5. Revocation of Executive Order 13501. Executive Order 13501 of February 6, 2009 (Establishing the President’s Economic Recovery Advisory Board), is hereby revoked.
 
-Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the PCJC, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of the Treasury in accordance with the guidelines that have been issued by the Administrator of General Services.
+Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (the “Act”), may apply to the PCJC, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary of the Treasury in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -479,7 +479,7 @@ Section 1204(c) of the Financial Institutions Reform, Recovery, and Enforcement 
 2009—Subsec. (b). Pub. L. 111–5 inserted “and individuals with disabilities and businesses owned by individuals with disabilities (for purposes of this subsection the term ‘individual with disability’ has the same meaning as the term ‘handicapped individual’ as that term is defined in [section 632(f) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632/f&num=0&edition=prelim)),” after “[section 1441a(r)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/r/4&num=0&edition=prelim)),”.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-5219a"></a>
@@ -1228,11 +1228,11 @@ Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, 
 
 (3) The nomination of an individual as Special Inspector General shall be made as soon as practicable after the establishment of any program under sections 5211 and 5212 of this title.
 
-(4) The Special Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
+(4) The Special Inspector General shall be removable from office in accordance with the provisions of [section 403(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/b&num=0&edition=prelim).
 
 (5) For purposes of [section 7324 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7324&num=0&edition=prelim), the Special Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
 
-(6) The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).
+(6) The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under [section 403(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/e&num=0&edition=prelim).
 
 **(c) Duties**
 
@@ -1254,7 +1254,7 @@ Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, 
 
 (2) The Special Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Special Inspector General considers appropriate to discharge the duty under paragraph (1).
 
-(3) In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978.
+(3) In addition to the duties specified in paragraphs (1) and (2), the Inspector General shall also have the duties and responsibilities of inspectors general under chapter 4 of title 5.
 
 (4)
 
@@ -1264,11 +1264,11 @@ Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, 
 
 **(d) Powers and authorities**
 
-(1) In carrying out the duties specified in subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978.
+(1) In carrying out the duties specified in subsection (c), the Special Inspector General shall have the authorities provided in [section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim).
 
-(2) The Special Inspector General shall carry out the duties specified in subsection (c)(1) and (4) in accordance with section 4(b)(1) of the Inspector General Act of 1978.
+(2) The Special Inspector General shall carry out the duties specified in subsection (c)(1) and (4) in accordance with [section 404(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section404/b/1&num=0&edition=prelim).
 
-(3) The Office of the Special Inspector General for the Troubled Asset Relief Program shall be treated as an office included under section 6(e)(3) 11 See References in Text note below. of the Inspector General Act of 1978 (5 U.S.C. App.) relating to the exemption from the initial determination of eligibility by the Attorney General.
+(3) The Office of the Special Inspector General for the Troubled Asset Relief Program shall be treated as an office included under [section 406(f)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406/f/3&num=0&edition=prelim) relating to the exemption from the initial determination of eligibility by the Attorney General.
 
 **(e) Personnel, facilities, and other resources**
 
@@ -1300,7 +1300,7 @@ Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, 
 
 (5)
 
-  (A) Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for the Troubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84.1
+  (A) Except as provided under subparagraph (B), if an annuitant receiving an annuity from the Civil Service Retirement and Disability Fund becomes employed in a position within the Office of the Special Inspector General for the Troubled Asset Relief Program, his annuity shall continue. An annuitant so reemployed shall not be considered an employee for purposes of chapter 83 or 84.11 See References in Text note below.
 
   (B) Subparagraph (A) shall apply to—
 
@@ -1328,7 +1328,7 @@ Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, 
 
 (6) The Inspector General of any other entity as appropriate.
 
-**(h) Council of the Inspectors General on Integrity and Efficiency** The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General for the Troubled Asset Relief Program.
+**(h) Council of the Inspectors General on Integrity and Efficiency** The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under [section 424 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section424&num=0&edition=prelim) until the date of termination of the Office of the Special Inspector General for the Troubled Asset Relief Program.
 
 **(i) Reports**
 
@@ -1363,11 +1363,23 @@ Pub. L. 114–113, div. O, title VII, § 709(b), Dec. 18, 2015, 129 Stat. 3030, 
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsecs. (b)(4), (6), (c)(3), (d), and (h), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 6(e)(3) of the Act was redesignated section 6(f)(3) by Pub. L. 114–317, § 5(2), Dec. 16, 2016, 130 Stat. 1603.
-
 Chapter 83 or 84, referred to in subsec. (e)(5)(A), probably means chapter 83 or 84 of Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–286, § 4(b)(35)(A), substituted “[section 403(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/b&num=0&edition=prelim).” for “section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).”
+
+Subsec. (b)(6). Pub. L. 117–286, § 4(b)(35)(B), substituted “[section 403(e) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/e&num=0&edition=prelim).” for “section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).”
+
+Subsec. (c)(3). Pub. L. 117–286, § 4(b)(35)(C), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
+
+Subsec. (d)(1). Pub. L. 117–286, § 4(b)(35)(D), substituted “[section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim).” for “section 6 of the Inspector General Act of 1978.”
+
+Subsec. (d)(2). Pub. L. 117–286, § 4(b)(35)(E), substituted “[section 404(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section404/b/1&num=0&edition=prelim).” for “section 4(b)(1) of the Inspector General Act of 1978.”
+
+Subsec. (d)(3). Pub. L. 117–286, § 4(b)(35)(F), substituted “[section 406(f)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406/f/3&num=0&edition=prelim)” for “section 6(e)(3) of the Inspector General Act of 1978 (5 U.S.C. App.)”.
+
+Subsec. (h). Pub. L. 117–286, § 4(b)(35)(G), substituted “[section 424 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section424&num=0&edition=prelim)” for “section 11 of the Inspector General Act of 1978 (5 U.S.C. App.)”.
+
 2009—Subsec. (c)(4). Pub. L. 111–15, § 2(1), added par. (4).
 
 Subsec. (d)(2). Pub. L. 111–15, § 2(2)(A), substituted “subsection (c)(1) and (4)” for “subsection (c)(1)”.

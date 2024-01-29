@@ -48,11 +48,11 @@ In this chapter—
 #### References in Text
 Presidential Proclamation Number 5030, referred to in par. (2)(D), is set out under [section 1453 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), Conservation.
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of that Act is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in par. (3)(D) and (E), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of that Act is classified generally to subchapter I (§ 1411 et seq.) of chapter 27 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
 
 The Federal Water Pollution Control Act, referred to in par. (3)(E), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
-The Rivers and Harbors Appropriation Act of 1899, referred to in par. (3)(E), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
+The Rivers and Harbors Appropriation Act of 1899, referred to in par. (3)(E), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Short Title
 Pub. L. 100–688, title IV, § 4001, Nov. 18, 1988, 102 Stat. 4154, provided that: “This title [enacting this chapter] may be cited as the ‘Shore Protection Act of 1988’.”
@@ -134,9 +134,9 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 #### References in Text
 The Solid Waste Disposal Act, referred to in subsec. (d)(2), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d)(3), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (d)(3), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
 
-The Rivers and Harbors Appropriation Act of 1899, referred to in subsec. (d)(4), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, as amended, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
+The Rivers and Harbors Appropriation Act of 1899, referred to in subsec. (d)(4), is act Mar. 3, 1899, ch. 425, 30 Stat. 1151, which enacted sections 401, 403, 404, 406 to 409, 411 to 416, 418, 502, 549, 686, and 687 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (d)(5), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
@@ -269,7 +269,7 @@ The Secretary of Transportation may collect a fee under [section 9701 of title 3
 ### Statutory Notes
 
 #### References in Text
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (a), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
 

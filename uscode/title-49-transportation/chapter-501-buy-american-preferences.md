@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-50101"></a>
 ## § 50101. Buying goods produced in the United States
-**(a) Preference.—** The Secretary of Transportation may obligate an amount that may be appropriated to carry out section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title for a project only if steel and manufactured goods used in the project are produced in the United States.
+**(a) Preference.—** The Secretary of Transportation may obligate an amount that may be appropriated to carry out section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title for a project only if steel and manufactured goods used in the project are produced in the United States.
 
 **(b) Waiver.—** The Secretary may waive subsection (a) of this section if the Secretary finds that—
 
@@ -16,7 +16,7 @@ source: >-
 
 (2) the steel and goods produced in the United States are not produced in a sufficient and reasonably available amount or are not of a satisfactory quality;
 
-(3) when procuring a facility or equipment under section 44502(a)(2) or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title—
+(3) when procuring a facility or equipment under section 44502(a)(2) or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title—
 
   (A) the cost of components and subcomponents produced in the United States is more than 60 percent of the cost of all components of the facility or equipment; and
 
@@ -25,6 +25,38 @@ source: >-
 (4) including domestic material will increase the cost of the overall project by more than 25 percent.
 
 **(c) Labor Costs.—** In this section, labor costs involved in final assembly are not included in calculating the cost of components.
+
+**(d) Limitation on Certain Rolling Stock Procurements.—**
+
+(1) **In general.—** — Financial assistance made available under the provisions described in subsection (a) shall not be used in awarding a contract or subcontract to an entity on or after the date of enactment of this subsection for the procurement of rolling stock for use in an airport-related project if the manufacturer of the rolling stock—
+
+  (A) is incorporated in or has manufacturing facilities in the United States; and
+
+  (B) is owned or controlled by, is a subsidiary of, or is otherwise related legally or financially to a corporation based in a country that—
+
+    (i) is identified as a nonmarket economy country (as defined in section 771(18) of the Tariff Act of 1930 ([19 U.S.C. 1677(18)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/18&num=0&edition=prelim))) as of the date of enactment of this subsection;
+
+    (ii) was identified by the United States Trade Representative in the most recent report required by section 182 of the Trade Act of 1974 ([19 U.S.C. 2242](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2242&num=0&edition=prelim)) as a foreign country included on the priority watch list defined in subsection (g)(3) of that section; and
+
+    (iii) is subject to monitoring by the Trade Representative under section 306 of the Trade Act of 1974 ([19 U.S.C. 2416](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2416&num=0&edition=prelim)).
+
+(2) **Exception.—**
+
+  (A) *In general.—* — For purposes of paragraph (1), the term “otherwise related legally or financially” does not include—
+
+    (i) a minority relationship or investment; or
+
+    (ii) relationship with or investment in a subsidiary, joint venture, or other entity based in a country described in paragraph (1)(B) that does not export rolling stock or components of rolling stock for use in the United States.
+
+  (B) *Corporation based in people’s republic of china.—* — Notwithstanding subparagraph (A)(i), for purposes of paragraph (1), the term “otherwise related legally or financially” includes a minority relationship or investment if the relationship or investment involves a corporation based in the People’s Republic of China.
+
+(3) **International agreements.—** — This subsection shall be applied in a manner consistent with the obligations of the United States under international agreements.
+
+(4) **Waiver.—**
+
+  (A) *In general.—* — The Secretary may waive the limitation described in paragraph (1) using the criteria described in subsection (b).
+
+  (B) *Notification.—* — Not later than 10 days after issuing a waiver under subparagraph (A), the Secretary shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
 ### Statutory Notes
 
@@ -45,7 +77,14 @@ In subsection (b), before clause (1), the words “The Secretary may waive” ar
 #### Pub. L. 104–287, § 5(89)
 This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1), and 50105, as redesignated by clause (88)(D) of this section, because 49:47106(d) was struck by section 108(1) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1573).
 
+#### References in Text
+The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 118–63, which was approved May 16, 2024.
+
 #### Amendments
+2024—Subsecs. (a), (b)(3). Pub. L. 118–63, § 768(a)(1), struck out “(except section 47127)” after “subchapter I of chapter 471”.
+
+Subsec. (d). Pub. L. 118–63, § 768(a)(2), added subsec. (d).
+
 1996—Pub. L. 104–287, § 5(88)(D), renumbered [section 49101 of this title](./chapter-491-metropolitan-washington-airports.md#section-49101) as this section.
 
 Subsecs. (a), (b)(3). Pub. L. 104–287, § 5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
@@ -59,13 +98,13 @@ Pub. L. 103–305, title III, § 305, Aug. 23, 1994, 108 Stat. 1592, provided th
 Similar provisions were contained in the following prior authorization act: Pub. L. 102–581, title III, § 305, Oct. 31, 1992, 106 Stat. 4896.
 
 #### Purchase of American Made Equipment and Products
-Pub. L. 103–305, title III, § 306, Aug. 23, 1994, 108 Stat. 1593, provided that: “(a) Sense of Congress.—It is the sense of Congress that any recipient of a grant under this title [enacting [section 47509 of this title](./chapter-475-noise.md#section-47509), amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and [section 40101 of this title](./chapter-401-general-provisions.md#section-40101)], or under any amendment made by this title, should purchase, when available and cost-effective, American made equipment and products when expending grant monies. “(b) Notice to Recipients of Assistance.—In allocating grants under this title, or under any amendment made by this title, the Secretary shall provide to each recipient a notice describing the statement made in subsection (a) by the Congress.”
+Pub. L. 103–305, title III, § 306, Aug. 23, 1994, 108 Stat. 1593, as amended by Pub. L. 118–63, title II, § 218(f), May 16, 2024, 138 Stat. 1056, provided that: “It is the sense of Congress that any recipient of a grant under this title [enacting [section 47509 of this title](./chapter-475-noise.md#section-47509), amending sections 44505 and 48102 of this title, and enacting provisions set out as notes under this section and [section 40101 of this title](./chapter-401-general-provisions.md#section-40101)], or under any amendment made by this title, should purchase, when available and cost-effective, American made equipment and products when expending grant monies.”
 
 
 <a id="section-50102"></a>
 ## § 50102. Restricting contract awards because of discrimination against United States goods or services
 
-A person or enterprise domiciled or operating under the laws of a foreign country may not make a contract or subcontract under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–353) if the government of that country unfairly maintains, in government procurement, a significant and persistent pattern of discrimination against United States goods or services that results in identifiable harm to United States businesses, that the President identifies under section 305(g)(1)(A) of the Trade Agreements Act of 1979 ([19 U.S.C. 2515(g)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2515/g/1/A&num=0&edition=prelim)).
+A person or enterprise domiciled or operating under the laws of a foreign country may not make a contract or subcontract under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–353) if the government of that country unfairly maintains, in government procurement, a significant and persistent pattern of discrimination against United States goods or services that results in identifiable harm to United States businesses, that the President identifies under section 305(g)(1)(A) of the Trade Agreements Act of 1979 ([19 U.S.C. 2515(g)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2515/g/1/A&num=0&edition=prelim)).
 
 ### Statutory Notes
 
@@ -84,6 +123,8 @@ This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1),
 Subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990, referred to in text, is subtitle B (§§ 9101–9131) of title IX of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–353, known as the Aviation Safety and Capacity Expansion Act of 1990. Sections 9102 to 9105, 9107 to 9112(b), 9113 to 9115, 9118, 9121 to 9123, 9124 “Sec. 613(c)”, 9125, 9127, and 9129 to 9131 of title IX of Pub. L. 101–508 were repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, see table at the beginning of Title 49.
 
 #### Amendments
+2024—Pub. L. 118–63 struck out “(except section 47127)” after “subchapter I of chapter 471”.
+
 1996—Pub. L. 104–287, § 5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
 
 Pub. L. 104–287, § 5(88)(D), renumbered [section 49102 of this title](./chapter-491-metropolitan-washington-airports.md#section-49102) as this section.
@@ -168,7 +209,7 @@ Subsection (e)(3) is substituted for “the number of contracts covered under th
 
 **(b) Limitation on Use of Available Amounts.—**
 
-(1) An amount made available under subchapter I of chapter 471 of this title (except section 47127) may not be used for a project that uses a product or service of a foreign country during any period the country is on the list maintained by the United States Trade Representative under subsection (d)(1) of this section.
+(1) An amount made available under subchapter I of chapter 471 of this title may not be used for a project that uses a product or service of a foreign country during any period the country is on the list maintained by the United States Trade Representative under subsection (d)(1) of this section.
 
 (2) Paragraph (1) of this subsection does not apply when the Secretary of Transportation decides that—
 
@@ -218,6 +259,8 @@ In subsection (d)(2)(A), the word “entire” is omitted as surplus.
 This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1), and 50105, as redesignated by clause (88)(D) of this section, because 49:47106(d) was struck by section 108(1) of the Federal Aviation Administration Authorization Act of 1994 (Public Law 103–305, 108 Stat. 1573).
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–63 struck out “(except section 47127)” after “subchapter I of chapter 471 of this title”.
+
 1996—Pub. L. 104–287, § 5(88)(D), renumbered [section 49104 of this title](./chapter-491-metropolitan-washington-airports.md#section-49104) as this section.
 
 Subsec. (b)(1). Pub. L. 104–287, § 5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
@@ -226,7 +269,7 @@ Subsec. (b)(1). Pub. L. 104–287, § 5(89), substituted “section 47127” for
 <a id="section-50105"></a>
 ## § 50105. Fraudulent use of “Made in America” label
 
-If the Secretary of Transportation decides that a person intentionally affixed a “Made in America” label to goods sold in or shipped to the United States that are not made in the United States, the Secretary shall declare the person ineligible, for not less than 3 nor more than 5 years, to receive a contract or grant from the United States Government related to a contract made under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471 (except section 47127), or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–353). The Secretary may bring a civil action to enforce this section in any district court of the United States.
+If the Secretary of Transportation decides that a person intentionally affixed a “Made in America” label to goods sold in or shipped to the United States that are not made in the United States, the Secretary shall declare the person ineligible, for not less than 3 nor more than 5 years, to receive a contract or grant from the United States Government related to a contract made under section 106(k), 44502(a)(2), or 44509, subchapter I of chapter 471, or chapter 481 (except sections 48102(e), 48106, 48107, and 48110) of this title or subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508, 104 Stat. 1388–353). The Secretary may bring a civil action to enforce this section in any district court of the United States.
 
 ### Statutory Notes
 
@@ -243,6 +286,8 @@ This makes a clarifying amendment to 49:50101(a) and (b)(3), 50102, 50104(b)(1),
 Subtitle B of title IX of the Omnibus Budget Reconciliation Act of 1990, referred to in text, is subtitle B (§§ 9101–9131) of title IX of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–353, known as the Aviation Safety and Capacity Expansion Act of 1990. Sections 9102 to 9105, 9107 to 9112(b), 9113 to 9115, 9118, 9121 to 9123, 9124 “Sec. 613(c)”, 9125, 9127, and 9129 to 9131 of title IX of Pub. L. 101–508 were repealed by Pub. L. 103–272, § 7(b), July 5, 1994, 108 Stat. 1379, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation. For complete classification of this Act to the Code, see Tables. For disposition of sections of former Title 49, Transportation, see table at the beginning of Title 49.
 
 #### Amendments
+2024—Pub. L. 118–63 struck out “(except section 47127)” after “subchapter I of chapter 471”.
+
 1996—Pub. L. 104–287, § 5(89), substituted “section 47127” for “sections 47106(d) and 47127”.
 
 Pub. L. 104–287, § 5(88)(D), renumbered [section 49105 of this title](./chapter-491-metropolitan-washington-airports.md#section-49105) as this section.

@@ -23,7 +23,7 @@ The United States Employees Compensation Act, as amended, referred to in subsec.
 
 The Civil Service Retirement Act, as amended, referred to in subsec. (a), is act May 29, 1930, ch. 349, 46 Stat. 468, as amended generally by act July 31, 1956, ch. 804, § 401, 70 Stat. 743, which was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and reenacted by the first section thereof as subchapter III (§ 8331 et seq.) of chapter 83 of Title 5.
 
-The Act of Congress approved March 7, 1942 (Public Law 784, Seventy-seventh Congress), referred to in subsec. (a), is act Mar. 7, 1942, ch. 166, 56 Stat. 143, as amended, popularly known as the Missing Persons Act, and was classified to sections 1001 to 1018 of the former Appendix to this title. The Act was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted by the first section thereof as subchapter VII of chapter 55 of Title 5, Government Organization and Employees, and chapter 10 of Title 37, Pay and Allowances of the Uniformed Services.
+The Act of Congress approved March 7, 1942 (Public Law 784, Seventy-seventh Congress), referred to in subsec. (a), is act Mar. 7, 1942, ch. 166, 56 Stat. 143, popularly known as the Missing Persons Act, and was classified to sections 1001 to 1018 of the former Appendix to this title. The Act was repealed by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenacted by the first section thereof as subchapter VII of chapter 55 of Title 5, Government Organization and Employees, and chapter 10 of Title 37, Pay and Allowances of the Uniformed Services.
 
 The Act entitled “An Act to provide benefits for the injury, disability, death, or detention of employees of contractors with the United States and certain other persons or reimbursement therefor”, approved December 2, 1942 (Public Law 784, Seventy-seventh Congress), referred to in subsec. (a), is act Dec. 2, 1942, ch. 668, 56 Stat. 1028, titles I and II of which are popularly known as the War Hazards Compensation Act, and is classified principally to chapter 12 (§ 1701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1701&num=0&edition=prelim) and Tables.
 
@@ -66,9 +66,9 @@ Functions of Public Health Service, Surgeon General of Public Health Service, an
 ### Statutory Notes
 
 #### References in Text
-Title II of the Merchant Marine Act, 1936, as amended, referred to in subsecs. (b) and (d), is title II of act June 29, 1936, ch. 858, 49 Stat. 1985, as amended, which was classified to sections 1128 to 1128h of former Title 46, Shipping, and which was repealed by act July 25, 1947, ch. 327, § 1, 61 Stat. 449.
+Title II of the Merchant Marine Act, 1936, as amended, referred to in subsecs. (b) and (d), is title II of act June 29, 1936, ch. 858, 49 Stat. 1985, which was classified to sections 1128 to 1128h of former Title 46, Shipping, and which was repealed by act July 25, 1947, ch. 327, § 1, 61 Stat. 449.
 
-The United States Employees’ Compensation Act, as amended, referred to in subsec. (c), is act Sept. 7, 1916, ch. 458, 39 Stat. 742, as amended, which was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and the provisions thereof were reenacted by the first section thereof as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees.
+The United States Employees’ Compensation Act, as amended, referred to in subsec. (c), is act Sept. 7, 1916, ch. 458, 39 Stat. 742, which was repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, and the provisions thereof were reenacted by the first section thereof as subchapter I (§ 8101 et seq.) of chapter 81 of Title 5, Government Organization and Employees.
 
 #### Codification
 Section was formerly classified to section 1292 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.

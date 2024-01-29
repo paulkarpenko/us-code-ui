@@ -241,14 +241,13 @@ Pub. L. 104–106, div. A, title II, § 203(e)(2), Feb. 10, 1996, 110 Stat. 218,
 
 **(g)** The Advisory Board shall assist and advise the Council in identifying the environmental data and analytical assistance activities that should be covered by the policies and procedures prescribed pursuant to [section 2902(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2902/d/1&num=0&edition=prelim).
 
-**(h)** Each member of the Advisory Board shall be required to file a financial disclosure report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+**(h)** Each member of the Advisory Board shall be required to file a financial disclosure report under subchapter I of chapter 131 of title 5.
 
 ### Statutory Notes
 
-#### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (h), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “subchapter I of chapter 131 of title 5.” for “title I of the Ethics in Government Act of 1978 (5 U.S.C. App.).”
+
 2000—Subsecs. (h), (i). Pub. L. 106–398 redesignated subsec. (i) as (h) and struck out former subsec. (h) which read as follows: “Not later than March 15 of each year, the Advisory Board shall submit to the Congress an annual report setting forth its actions during the year preceding the year in which the report is submitted and any recommendations, including recommendations on projects, programs, and information exchange and recommendations for legislation, that the Advisory Board considers appropriate regarding the Strategic Environmental Research and Development Program.”
 
 1997—Subsec. (b)(4). Pub. L. 105–85 substituted “not less than two and not more than four” for “three years”.
@@ -264,4 +263,4 @@ Pub. L. 101–510, div. A, title XVIII, § 1801(b), Nov. 5, 1990, 104 Stat. 1757
 Pub. L. 101–510, div. A, title XVIII, § 1801(d), Nov. 5, 1990, 104 Stat. 1758, directed that first annual report of the Strategic Environmental Research and Development Program Scientific Advisory Board be submitted not later than Mar. 15, 1992.
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.

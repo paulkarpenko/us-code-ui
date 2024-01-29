@@ -2,7 +2,7 @@
 title: 14
 heading: COAST GUARD
 positive_law: true
-sections: 403
+sections: 417
 chapters: 17
 ---
 # Title 14. COAST GUARD

@@ -42,9 +42,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <a id="section-8062"></a>
 ## § 8062. United States Navy: composition; functions
-**(a)** The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized, trained, and equipped primarily for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
+**(a)** The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized, trained, and equipped for the peacetime promotion of the national security interests and prosperity of the United States and for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the duties described in the preceding sentence except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
 
-**(b)** The naval combat forces of the Navy shall include not less than 11 operational aircraft carriers. For purposes of this subsection, an operational aircraft carrier includes an aircraft carrier that is temporarily unavailable for worldwide deployment due to routine or scheduled maintenance or repair.
+**(b)** The naval combat forces of the Navy shall include not less than 11 operational aircraft carriers and not less than 31 operational amphibious warfare ships, of which not less than 10 shall be amphibious assault ships. For purposes of this subsection, an operational aircraft carrier or amphibious warfare ship includes an aircraft carrier or amphibious warfare ship that is temporarily unavailable for worldwide deployment due to routine or scheduled maintenance or repair.
 
 **(c)** All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
 
@@ -62,7 +62,41 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters.
 
-**(f)** A nuclear powered aircraft carrier may not be retired before its first refueling.
+**(f)**
+
+(1)
+
+  (A) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2023 and ending on September 30, 2027, the Secretary of the Navy may not—
+
+    (i) retire an EA–18G aircraft;
+
+    (ii) reduce funding for unit personnel or weapon system sustainment activities for EA–18G aircraft in a manner that presumes future congressional authority to divest such aircraft;
+
+    (iii) place an EA–18G aircraft in active storage status or inactive storage status; or
+
+    (iv) keep an EA–18G aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions.
+
+  (B) The prohibition under subparagraph (A) shall not apply to individual EA–18G aircraft that the Secretary of the Navy determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents or mishaps.
+
+(2)
+
+  (A) The Secretary of the Navy shall maintain a total aircraft inventory of EA–18G aircraft of not less than 158 aircraft, of which not less than 126 aircraft shall be coded as primary mission aircraft inventory.
+
+  (B) The Secretary of the Navy may reduce the number of EA–18G aircraft in the inventory of the Navy below the minimum number specified in subparagraph (A) if the Secretary determines, on a case-by-case basis, that an aircraft is no longer mission capable and uneconomical to repair because of aircraft accidents or mishaps.
+
+  (C) In this paragraph, the term “primary mission aircraft inventory” means aircraft assigned to meet the primary aircraft authorization—
+
+    (i) to a unit for the performance of its wartime mission;
+
+    (ii) to a training unit for technical and specialized training for crew personnel or leading to aircrew qualification;
+
+    (iii) to a test unit for testing of the aircraft or its components for purposes of research, development, test, and evaluation, operational test and evaluation, or to support testing programs; or
+
+    (iv) to meet requirements for missions not otherwise specified in clauses (i) through (iii).
+
+**(g)** A nuclear powered aircraft carrier may not be retired before its first refueling.
+
+**(h)** In this section, the term “amphibious warfare ship” means a ship that is classified as an amphibious assault ship (general purpose) (LHA), an amphibious assault ship (multi-purpose) (LHD), an amphibious transport dock (LPD), or a dock landing ship (LSD).
 
 ### Statutory Notes
 
@@ -71,10 +105,38 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 5012 | [5 U.S.C. 411a(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section411a/b&num=0&edition=prelim). | July 26, 1947, ch. 343, § 206(b), 61 Stat. 501. |
 
+#### Amendment of Subsection (e)
+Pub. L. 118–31, div. A, title I, § 121(a), Dec. 22, 2023, 137 Stat. 168, provided that, effective one year after the date on which the Secretary of the Navy submits to Congress the report required under subsection (b)(3) of section 121 of Pub. L. 118–31, with an additional notification requirement, subsection (e) of this section is amended to read as follows:
+
+(e) The Secretary of the Navy shall ensure that—
+
+(1) the Navy maintains a minimum of 9 carrier air wings; and
+
+(2) for each such carrier air wing, the Navy maintains a dedicated and fully staffed headquarters.
+
+See 2023 Amendment note below.
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (f)(1)(A), is the date of enactment of Pub. L. 117–263, also known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, which was approved Dec. 23, 2022.
+
 #### Prior Provisions
 A prior section 8062 was renumbered [section 9062 of this title](./chapter-907-the-air-force.md#section-9062).
 
 #### Amendments
+2023—Subsec. (e). Pub. L. 118–31, § 121(a)(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to the Secretary’s obligation to maintain a minimum of 9 carrier air wings, with future support for 10 carrier air wings.
+
+Subsecs. (g), (h). Pub. L. 118–31, § 1801(a)(38), redesignated subsec. (g) defining amphibious warfare ship as (h).
+
+2022—Subsec. (a). Pub. L. 117–263, § 913, substituted “for the peacetime promotion of the national security interests and prosperity of the United States and” for “primarily” and “for the duties described in the preceding sentence” for “for the effective prosecution of war”.
+
+Subsec. (b). Pub. L. 117–263, § 1023(1), inserted “and not less than 31 operational amphibious warfare ships, of which not less than 10 shall be amphibious assault ships” after “11 operational aircraft carriers” in first sentence and “or amphibious warfare ship” after “aircraft carrier” in two places in second sentence.
+
+Subsec. (f). Pub. L. 117–263, § 121(a), added subsec. (f). Former subsec. (f) redesignated (g) relating to nuclear powered aircraft carrier.
+
+Subsec. (g). Pub. L. 117–263, § 1023(2), added subsec. (g) defining amphibious warfare ship.
+
+Pub. L. 117–263, § 121(a), redesignated subsec. (f) as (g) relating to nuclear powered aircraft carrier.
+
 2021—Subsec. (d). Pub. L. 117–81 inserted “the Coast Guard, the Space Force,” after “the Air Force,”.
 
 Subsec. (f). Pub. L. 116–283 added subsec. (f).
@@ -94,6 +156,9 @@ Subsecs. (c), (d). Pub. L. 109–163, § 126(a)(1), redesignated subsecs. (b) an
 Subsec. (a). Pub. L. 99–433, § 511(b)(4)(A), substituted “assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war” for “assigned and is generally responsible for naval reconnaissance, antisubmarine warfare, and protection of shipping”.
 
 Subsec. (d). Pub. L. 99–433, § 511(b)(4)(B), struck out subsec. (d) which related to responsibility for expansion of peacetime naval components to meet the needs of war.
+
+#### Effective Date of 2023 Amendment
+Pub. L. 118–31, div. A, title I, § 121(a)(2), Dec. 22, 2023, 137 Stat. 168, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect one year after the date on which the Secretary of the Navy submits to Congress the report required under subsection (b)(3) [of section 121 of Pub. L. 118–31, 137 Stat. 169]. The Secretary of the Navy shall notify the Law Revision Counsel of the House of Representatives of the submission of the report so that the Law Revision Counsel may execute the amendment made by paragraph (1) in accordance with the preceding sentence.”
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

@@ -384,14 +384,14 @@ This chapter, referred to in subsecs. (a) and (b)(2), was in the original “thi
 
 **(d) Travel expenses** The members of the Interoperability Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of services for the Interoperability Board.
 
-**(e) Exemption from FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Interoperability Board.
+**(e) Exemption from chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the Interoperability Board.
 
 **(f) Termination of authority** The Interoperability Board shall terminate 15 days after the date on which the Commission transmits the recommendations to the First Responder Network Authority under subsection (c)(3)(A).
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-1428"></a>

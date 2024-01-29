@@ -54,7 +54,7 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 506(c)], Oct. 30, 2000, 114 Stat.
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-7342"></a>
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 96–513, § 502(19)(C), redesignated subsec. (c) as (b).
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Appointment by President of Retired Commissioned Officer of Reserve Component to Higher Retired Grade; Recalculation of Pay
 Pub. L. 96–343, § 13(c), Sept. 8, 1980, 94 Stat. 1132, provided that: “(1) The President may, by and with the advice and consent of the Senate, appoint any commissioned officer of a reserve component of the Armed Forces who retired after December 31, 1967, to the retired grade in which such officer could have been retired had such officer retired on or after the date of the enactment of this Act [Sept. 8, 1980]. “(2) The retired pay of any retired officer who is appointed to a higher retired grade under paragraph (1) shall be recalculated as if such officer had retired in the grade to which appointed, but any increase in such retired pay by virtue of such appointment or this subsection shall be effective only with respect to periods beginning on or after the date on which such appointment is made.”

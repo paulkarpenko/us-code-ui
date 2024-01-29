@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “This Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+This chapter, referred to in subsec. (a), was in the original “This Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
 #### Short Title of 1978 Amendment
 Pub. L. 95–524, § 6(a), Oct. 27, 1978, 92 Stat. 2020, provided that: “This section [enacting [section 175a of this title](./chapter-007-labor-management-relations.md#section-175a), amending sections 173 and 186 of this title, and enacting provisions set out as notes under [section 175a of this title](./chapter-007-labor-management-relations.md#section-175a)] may be cited as the ‘Labor Management Cooperation Act of 1978’.”
@@ -30,14 +30,14 @@ Ex. Ord. No. 10918, Feb. 16, 1961, 26 F.R. 1427, which established the President
 Ex. Ord. No. 11710, Apr. 4, 1973, 38 F.R. 9071, as amended by Ex. Ord. No. 11729, July 12, 1973, 38 F.R. 18863, which established the National Commission for Industrial Peace, was revoked by Ex. Ord. No. 11823, Dec. 12, 1974, 39 F.R. 43529.
 
 #### Executive Order No. 11809
-Ex. Ord. No. 11809, Sept. 30, 1974, 39 F.R. 35565, which established the President’s Labor-Management Committee, was revoked by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11809, Sept. 30, 1974, 39 F.R. 35565, which established the President’s Labor-Management Committee, was revoked by Ex. Ord. No. 11948, Dec. 20, 1976, 41 F.R. 55705, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 14025. Worker Organizing and Empowerment
 Ex. Ord. No. 14025, Apr. 26, 2021, 86 F.R. 22829, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. Policy and Findings. The National Labor Relations Act ([29 U.S.C. 151](./chapter-007-labor-management-relations.md#section-151) [et seq.]) proclaims that the policy of the United States is to encourage worker organizing and collective bargaining and to promote equality of bargaining power between employers and employees. In the Federal Service Labor-Management Relations Statute [probably should be “Act”] ([5 U.S.C. 7101(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7101/a/1&num=0&edition=prelim)), the Congress found that “experience in both private and public employment indicates that the statutory protection of the right of employees to organize, bargain collectively, and participate through labor organizations of their own choosing in decisions which affect them … safeguards the public interest, … contributes to the effective conduct of public business, and … facilitates and encourages the amicable settlements of disputes between employees and their employers involving conditions of employment.”
+Section 1. Policy and Findings. The National Labor Relations Act ([29 U.S.C. 151](./chapter-007-labor-management-relations.md#section-151) [et seq.]) proclaims that the policy of the United States is to encourage worker organizing and collective bargaining and to promote equality of bargaining power between employers and employees. In the Federal Service Labor-Management Relations Statute ([5 U.S.C. 7101(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7101/a/1&num=0&edition=prelim)), the Congress found that “experience in both private and public employment indicates that the statutory protection of the right of employees to organize, bargain collectively, and participate through labor organizations of their own choosing in decisions which affect them … safeguards the public interest, … contributes to the effective conduct of public business, and … facilitates and encourages the amicable settlements of disputes between employees and their employers involving conditions of employment.”
 
 In the past few decades, the Federal Government has not used its full authority to promote and implement this policy of support for workers organizing unions and bargaining collectively with their employers. During this period, economic change in the United States and globally, technological developments, and the failure to modernize Federal organizing and labor-management relations laws to respond appropriately to the reality found in American workplaces, have made worker organizing exceedingly difficult.
 
@@ -215,7 +215,7 @@ When used in this subchapter—
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, referred to in pars. (2) and (3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in pars. (2) and (3), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1978—Par. (1). Pub. L. 95–598 substituted “cases under title 11” for “bankruptcy”.
@@ -249,7 +249,7 @@ For effective date of amendment by act June 23, 1947, see section 104 of act Jun
 ### Statutory Notes
 
 #### References in Text
-The Labor Management Relations Act, 1947, referred to in subsec. (a), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to this chapter. For complete classification of this act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (a), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to this chapter. For complete classification of this act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
 #### Codification
 In subsec. (d), “administrative law judges” substituted for “trial examiners” pursuant to [section 3105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim), Government Organization and Employees, and section 3 of Pub. L. 95–251, Mar. 27, 1978, 92 Stat. 184, which is set out as a note under [section 3105 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3105&num=0&edition=prelim).
@@ -747,10 +747,10 @@ It is the policy of the United States that—
 ### Statutory Notes
 
 #### Executive Order No. 11482
-Ex. Ord. No. 11482, Sept. 22, 1969, 34 F.R. 14723, which related to the Construction Industry Collective Bargaining Commission, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11482, Sept. 22, 1969, 34 F.R. 14723, which related to the Construction Industry Collective Bargaining Commission, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Executive Order No. 11849
-Ex. Ord. No. 11849, Apr. 1, 1975, 40 F.R. 14887, which related to the Collective Bargaining Committee in Construction, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11849, Apr. 1, 1975, 40 F.R. 14887, which related to the Collective Bargaining Committee in Construction, was revoked by Ex. Ord. No. 12110, Dec. 28, 1978, 44 F.R. 1069, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-172"></a>
@@ -802,7 +802,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) requiring 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, as amended, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
 #### Amendments
 1996—Subsec. (f). Pub. L. 104–320 substituted “the agency designated by, or the interagency committee designated or established by, the President under [section 573 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section573&num=0&edition=prelim)” for “the Administrative Conference of the United States and other agencies”.
@@ -942,7 +942,7 @@ The provisions of this subchapter shall not be applicable with respect to any ma
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, as amended, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, as amended, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 
 <a id="section-183"></a>
@@ -955,7 +955,7 @@ The Railway Labor Act, as amended, referred to in text, is act May 20, 1926, ch.
 
 (2) Members of any board established under this section who are not subject to paragraph (1) shall receive compensation at a rate prescribed by the Director but not to exceed the daily rate prescribed for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), including travel for each day they are engaged in the performance of their duties under this section and shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out their duties under this section.
 
-**(c) Maintenance of status quo** After the establishment of a board under subsection (a) of this section and for 15 days after any such board has issued its report, no change in the status quo in effect prior to the expiration of the contract in the case of negotiations for a contract renewal, or in effect prior to the time of the impasse in the case of an initial beginning negotiation, except by agreement, shall be made by the parties to the controversy.
+**(c) Maintenance of status quo** After the establishment of a board under subsection (a) of this section and for 15 days after any such board has issued its report, no change in the status quo in effect prior to the expiration of the contract in the case of negotiations for a contract renewal, or in effect prior to the time of the impasse in the case of an initial bargaining negotiation, except by agreement, shall be made by the parties to the controversy.
 
 **(d) Authorization of appropriations** There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
@@ -983,7 +983,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, as amended, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act” meaning act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to this subchapter and subchapters III (§ 171 et seq.) and IV (§ 185 et seq.) of this chapter. For complete classification of this act to the Code, see Tables.
 
 
 <a id="section-186"></a>
@@ -1021,7 +1021,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 ### Statutory Notes
 
 #### References in Text
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (c)(8), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401) and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (c)(8), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401) and Tables.
 
 Section 5(b) of the Labor Management Cooperation Act of 1978, referred to in subsec. (c)(9), probably means section 6(b) of Pub. L. 95–524, which is set out as a note under [section 175a of this title](./chapter-007-labor-management-relations.md#section-175a).
 

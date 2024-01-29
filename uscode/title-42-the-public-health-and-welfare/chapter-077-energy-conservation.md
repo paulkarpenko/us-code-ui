@@ -1252,6 +1252,8 @@ Pub. L. 105–388, § 9(b), Nov. 13, 1998, 112 Stat. 3484, provided that: “(1)
 #### Strategic Petroleum Reserve Drawdown and Sale
 Provisions related to drawdown and sale from the Strategic Petroleum Reserve were contained in the following acts:
 
+Pub. L. 118–42, div. D, title III, § 308, Mar. 9, 2024, 138 Stat. 208.
+
 Pub. L. 117–58, div. I, § 90002(a)–(c)(1), Nov. 15, 2021, 135 Stat. 1342.
 
 Pub. L. 116–136, div. B, title IV, § 14002(b), Mar. 27, 2020, 134 Stat. 526.
@@ -1266,7 +1268,7 @@ Pub. L. 115–141, div. D, title III, Mar. 23, 2018, 132 Stat. 520.
 
 Pub. L. 115–141, div. O, title V, § 501(a), (b), Mar. 23, 2018, 132 Stat. 1079, 1080.
 
-Pub. L. 115–123, div. C, title II, § 30204(a), (b), Feb. 9, 2018, 132 Stat. 126, 127.
+Pub. L. 115–123, div. C, title II, § 30204(a), (b), Feb. 9, 2018, 132 Stat. 126, 127, as amended by Pub. L. 117–328, div. M, title III, § 1301(d), Dec. 29, 2022, 136 Stat. 5194.
 
 Pub. L. 115–97, title II, § 20003, Dec. 22, 2017, 131 Stat. 2237.
 
@@ -1274,9 +1276,9 @@ Pub. L. 115–56, div. D, § 158, as added by Pub. L. 115–123, div. B, § 2010
 
 Pub. L. 114–255, div. A, title V, § 5010(a), (b), Dec. 13, 2016, 130 Stat. 1197, 1198.
 
-Pub. L. 114–94, div. C, title XXXII, § 32204, Dec. 4, 2015, 129 Stat. 1740.
+Pub. L. 114–94, div. C, title XXXII, § 32204, Dec. 4, 2015, 129 Stat. 1740, as amended by Pub. L. 117–328, div. M, title III, § 1301(c), Dec. 29, 2022, 136 Stat. 5194.
 
-Pub. L. 114–74, title IV, § 403, Nov. 2, 2015, 129 Stat. 589.
+Pub. L. 114–74, title IV, § 403, Nov. 2, 2015, 129 Stat. 589, as amended by Pub. L. 117–328, div. M, title III, § 1301(b), Dec. 29, 2022, 136 Stat. 5194.
 
 
 <a id="section-6244"></a>
@@ -1389,7 +1391,7 @@ Funds available to the Secretary of Energy for obligation under this subsection 
 ### Statutory Notes
 
 #### References in Text
-Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
+Public Law 93–344, as amended, referred to in subsec. (d)(2), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended, known as the Congressional Budget and Impoundment Control Act of 1974. Title III of that Act is classified generally to subchapter I (§ 631 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (b). Pub. L. 106–469, § 103(19)(A)(i), substituted “for test sales of petroleum products from the Reserve, and for the drawdown, sale,” for “and the drawdown” in introductory provisions.
@@ -2005,7 +2007,7 @@ For provisions relating to the classification of certain information and materia
 
 **(c) Suspension of application of certain requirements by President** The President, after consultation with the Secretary of State, the Federal Trade Commission, the Attorney General, and the Secretary, may suspend the application of—
 
-(1) sections 10 and 11 of the Federal Advisory Committee Act,
+(1) sections 1009 and 1010 of title 5,
 
 (2) subsections (b) and (c) of section 17 11 See References in Text note below. of the Federal Energy Administration Act of 1974,
 
@@ -2019,15 +2021,15 @@ if the President determines with respect to a particular meeting, (A) that such 
 #### References in Text
 The Federal Energy Administration Act of 1974, referred to in subsec. (a), is Pub. L. 93–275, May 7, 1974, 88 Stat. 96, which is classified generally to chapter 16B (§ 761 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 761 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section761&num=0&edition=prelim) and Tables.
 
-Sections 10 and 11 of the Federal Advisory Committee Act, referred to in subsec. (c)(1), are sections 10 and 11 of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 17 of the Federal Energy Administration Act of 1974, referred to in subsec. (c)(2), was classified to [section 776 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section776&num=0&edition=prelim), Commerce and Trade, prior to repeal by Pub. L. 105–28, § 2(b)(2), July 18, 1997, 111 Stat. 245.
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–286 substituted “sections 1009 and 1010 of title 5,” for “sections 10 and 11 of the Federal Advisory Committee Act,”.
+
 1978—Subsecs. (a), (c). Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Classification of Certain Information and Material
 For provisions relating to the classification of certain information and material obtained from advisory bodies created to implement the International Energy Program, see Ex. Ord. No. 11932, eff. Aug. 4, 1976, 41 F.R. 32691, set out as a note under [section 3161 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3161&num=0&edition=prelim), War and National Defense.

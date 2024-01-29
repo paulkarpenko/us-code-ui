@@ -32,6 +32,15 @@ Pub. L. 107–207, § 1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act
 #### Short Title of 1996 Amendment
 Pub. L. 104–199, § 1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act [enacting [section 7 of this title](./chapter-001-rules-of-construction.md#section-7) and [section 1738C of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1738C&num=0&edition=prelim), Judiciary and Judicial Procedure] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Pub. L. 118–47
+Pub. L. 118–47, § 3, Mar. 23, 2024, 138 Stat. 461, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Further Consolidated Appropriations Act, 2024, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 118–42
+Pub. L. 118–42, § 3, Mar. 9, 2024, 138 Stat. 26, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2024, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 117–328
+Pub. L. 117–328, § 3, Dec. 29, 2022, 136 Stat. 4461, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2023, see Tables for classification] shall be treated as referring only to the provisions of that division.”
+
 #### References in Pub. L. 117–229
 Pub. L. 117–229, § 3, Dec. 16, 2022, 136 Stat. 2308, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Further Continuing Appropriations and Extensions Act, 2023, see Tables for classification] shall be treated as referring only to the provisions of that division.”
 
@@ -63,7 +72,7 @@ Pub. L. 116–94, § 3, Dec. 20, 2019, 133 Stat. 2536, provided that: “Except 
 
 Pub. L. 116–94, div. F, title VI, § 612, Dec. 20, 2019, 133 Stat. 2815, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this division [div. F of Pub. L. 116–94, see Tables for classification] shall be treated as referring only to the provisions of this division.”
 
-Pub. L. 116–94, div. H, title IV, § 420, Dec. 20, 2019, 133 Stat. 3017, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this division [div. H of Pub. L. 116–94, see Tables for classifcation] shall be treated as referring only to the provisions of this division.”
+Pub. L. 116–94, div. H, title IV, § 420, Dec. 20, 2019, 133 Stat. 3017, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in this division [div. H of Pub. L. 116–94, see Tables for classification] shall be treated as referring only to the provisions of this division.”
 
 #### References in Pub. L. 116–93
 Pub. L. 116–93, § 3, Dec. 20, 2019, 133 Stat. 2318, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [Consolidated Appropriations Act, 2020, see Tables for classification] shall be treated as referring only to the provisions of that division.”

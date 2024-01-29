@@ -24,6 +24,9 @@ Congress finds that—
 #### Prior Provisions
 A prior section 941, Pub. L. 101–537, title I, § 1002, Nov. 8, 1990, 104 Stat. 2370; Pub. L. 101–646, title II, § 2002, Nov. 29, 1990, 104 Stat. 4773; Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091; Pub. L. 105–265, § 3(b), Oct. 19, 1998, 112 Stat. 2358, related to Congressional findings, prior to repeal by Pub. L. 114–322, title III, § 3901(b), Dec. 16, 2016, 130 Stat. 1848.
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–287, § 1, Dec. 27, 2022, 136 Stat. 4363, provided that: “This Act [amending sections 941f and 941g of this title] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Reauthorization Act of 2022’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–326, § 1, Oct. 11, 2006, 120 Stat. 1761, provided that: “This Act [amending sections 941b to 941g of this title and enacting provisions set out as notes under this section] may be cited as the ‘Great Lakes Fish and Wildlife Restoration Act of 2006’.”
 
@@ -365,7 +368,7 @@ Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences o
 
 <a id="section-941f"></a>
 ## § 941f. Reports
-**(a) In general** Not later than December 31, 2021, the Director shall submit to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes—
+**(a) In general** Not later than December 31, 2021, and not later than December 31, 2027, the Director shall submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that describes, with respect to the period covered by the report—
 
 (1) actions taken to solicit and review proposals under [section 941c of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941c);
 
@@ -373,7 +376,7 @@ Subsec. (c). Pub. L. 109–326, § 6(3), designated first and second sentences o
 
 (3) progress toward the accomplishment of the goals specified in [section 941d of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941d).
 
-**(b) Public access to data** For each of fiscal years 2016 through 2020, the Director shall make available through a public access website of the Department information that describes—
+**(b) Public access to data** For each of fiscal years 2023 through 2028, the Director shall make available through a public access website of the Department information that describes—
 
 (1) actions taken to solicit and review proposals under [section 941c of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941c);
 
@@ -400,6 +403,10 @@ Executive Order 13340, referred to in subsec. (b)(5), is Ex. Ord. No. 13340, May
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical sections. Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–287, § 2(a)(1), in introductory provisions, inserted “and not later than December 31, 2027,” after “2021,” and “, with respect to the period covered by the report” after “describes” and substituted “Committee on Natural Resources” for “Committee on Resources”.
+
+Subsec. (b). Pub. L. 117–287, § 2(a)(2), substituted “2023 through 2028” for “2016 through 2020” in introductory provisions.
+
 2016—Subsec. (a). Pub. L. 114–322, § 3901(e)(1), substituted “2021” for “2011” in introductory provisions.
 
 Subsec. (b). Pub. L. 114–322, § 3901(e)(2)(A), substituted “2016 through 2020” for “2007 through 2012” in introductory provisions.
@@ -420,19 +427,16 @@ Subsec. (c). Pub. L. 114–322, § 3901(e)(3), added subsec. (c) and struck out 
 
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 2008, which enacted this section.
 
-#### Change of Name
-Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
-
 
 <a id="section-941g"></a>
 ## § 941g. Authorization of appropriations
-**(a) Authorization** There are authorized to be appropriated to the Director for each of fiscal years 2016 through 2021—
+**(a) Authorization** There are authorized to be appropriated to the Director for each of fiscal years 2023 through 2028—
 
 (1) $6,000,000 to implement fish and wildlife restoration proposals as selected by the Director under [section 941c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section941c/e&num=0&edition=prelim), of which—
 
   (A) not more than the lesser of 33 1/3 percent or $2,000,000 may be allocated to implement regional projects by the United States Fish and Wildlife Service, as selected by the Director under [section 941c(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section941c/e&num=0&edition=prelim); and
 
-  (B) the lesser of 5 percent or $300,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
+  (B) the lesser of 3 percent or $300,000 shall be allocated to the United States Fish and Wildlife Service to cover costs incurred in administering the proposals by any entity; and
 
 (2) $2,000,000, which shall be allocated for the activities of the Upper Great Lakes Fish and Wildlife Conservation Offices and the Lower Great Lakes Fish and Wildlife Conservation Office under [section 941e of this title](./chapter-15b-great-lakes-fish-and-wildlife-restoration.md#section-941e).
 
@@ -444,6 +448,10 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 Title I of Pub. L. 101–537 and title II of Pub. L. 101–646 enacted substantially identical provisions of subsec. (a), but Pub. L. 101–537 did not enact a subsec. (b). Title II of Pub. L. 101–646 was repealed by Pub. L. 105–265, § 3(b).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–287, § 2(b), substituted “2023 through 2028” for “2016 through 2021” in introductory provisions.
+
+Subsec. (a)(1)(B). Pub. L. 117–287, § 2(c), substituted “3 percent” for “5 percent”.
+
 2016—Pub. L. 114–322, § 3901(g), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 114–322, § 3901(f)(1) substituted “2016 through 2021” for “2007 through 2012” in introductory provisions.

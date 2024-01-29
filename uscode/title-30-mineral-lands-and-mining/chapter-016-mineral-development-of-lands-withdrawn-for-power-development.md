@@ -19,7 +19,7 @@ source: >-
 #### References in Text
 Act of April 8, 1948, referred to in subsec. (a), is act Apr. 8, 1948, ch. 179, 62 Stat. 162, which is not classified to the Code.
 
-The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1960—Subsec. (b). Pub. L. 86–507 inserted “or certified mail” after “registered mail”.

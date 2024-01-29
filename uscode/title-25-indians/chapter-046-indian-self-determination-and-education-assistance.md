@@ -746,6 +746,93 @@ Sec. 5. General Provisions. (a) The heads of executive departments, agencies, an
 
 Barack Obama.
 
+#### Ex. Ord. No. 14112. Reforming Federal Funding and Support for Tribal Nations To Better Embrace Our Trust Responsibilities and Promote the Next Era of Tribal Self-Determination
+Ex. Ord. No. 14112, Dec. 6, 2023, 88 F.R. 86021, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Policy. My Administration is committed to protecting and supporting Tribal sovereignty and self-determination, and to honoring our trust and treaty obligations to Tribal Nations. We recognize the right of Tribal Nations to self-determination, and that Federal support for Tribal self-determination has been the most effective policy for the economic growth of Tribal Nations and the economic well-being of Tribal citizens. Federal policies of past eras, including termination, relocation, and assimilation, collectively represented attacks on Tribal sovereignty and did lasting damage to Tribal communities, Tribal economies, and the institutions of Tribal governance. By contrast, the self-determination policies of the last 50 years—whereby the Federal Government has worked with Tribal Nations to promote and support Tribal self-governance and the growth of Tribal institutions—have revitalized Tribal economies, rebuilt Tribal governments, and begun to heal the relationship between Tribal Nations and the United States.
+
+Despite the progress of the last 50 years, Federal funding and support programs that are the backbone of Federal support for Tribal self-determination are too often administered in ways that leave Tribal Nations unduly burdened and frustrated with bureaucratic processes. The Federal funding that Tribal Nations rely on comes from myriad sources across the Federal Government, often with varying and complex application and reporting processes. While Tribal Nations continue to rebuild, grow, and thrive, some Tribal Nations do not have the capacity and resources they need to access Federal funds—and even for those that do, having to repeatedly navigate Federal processes often unnecessarily drains those resources.
+
+My Administration has taken steps to meaningfully reform existing Federal processes for Tribal Nations. Executive Order 14058 of December 13, 2021 (Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government) [[31 U.S.C. 501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section501&num=0&edition=prelim) note], directed executive departments and agencies (agencies) to reduce administrative burdens and improve efficiency in public-facing and internal Federal processes, while the Presidential Memorandum of January 26, 2021 (Tribal Consultation and Strengthening Nation-to-Nation Relationships) [set out as a note below], and the Presidential Memorandum of November 30, 2022 (Uniform Standards for Tribal Consultation) [set out as a note below], reiterated our commitment to, and established uniform standards for, Tribal consultation. These previous actions have laid an important foundation for the policies and procedures set forth in this order.
+
+Now is the time to build upon this foundation by ushering in the next era of self-determination policies and our unique Nation-to-Nation relationships, during which we will better acknowledge and engage with Tribal Nations as respected and vital self-governing sovereigns. As we continue to support Tribal Nations, we must respect their sovereignty by better ensuring that they are able to make their own decisions about where and how to meet the needs of their communities. No less than for any other sovereign, Tribal self-governance is about the fundamental right of a people to determine their own destiny and to prosper and flourish on their own terms.
+
+This order solidifies my Administration’s commitment to this next era of Tribal self-determination policies that are rooted in prioritizing partnerships with Tribal leaders, respect for Tribal sovereignty, trust in Tribal priorities, and dignity for Tribal Nations. In keeping with our trust and treaty obligations to Tribal Nations, and our commitment to advancing Tribal sovereignty, it is the policy of the United States to design and administer Federal funding and support programs for Tribal Nations, consistent with applicable law and to the extent practicable, in a manner that better recognizes and supports Tribal sovereignty and self-determination. To realize this policy, the Federal Government must improve how it approaches the work of administering Tribal programs and supporting Tribal communities.
+
+We must ensure that Federal programs, to the maximum extent possible and practicable under Federal law, provide Tribal Nations with the flexibility to improve economic growth, address the specific needs of their communities, and realize their vision for their future. We must improve our Nation-to-Nation relationships by reducing administrative burdens and by administering funding in a manner that provides Tribal Nations with the greatest possible autonomy to address the specific needs of their people. We must make it easier for Tribal Nations to access the Federal funding and resources for which they are eligible and that they need to help grow their economies and provide their citizens with vital and innovative services. We must promote partnerships with Tribal Nations, recognizing that they bring invaluable expertise on countless matters from how to more effectively meet the needs of their citizens to how to steward their ancestral homelands. We must promote effective consideration of the unique needs of Tribal Nations from the very beginning of our design, update, or review of processes and throughout every step of administering Federal funding and support programs. We must implement laws, policies, and programs in ways that allow Tribal Nations to take ownership of resources and services for their communities. We need to identify any statutory and regulatory changes that are necessary or may be helpful to ensure that Federal funding and support programs effectively address the needs of Tribal Nations, and recommend legislative changes, where appropriate. Finally, we must, through Tribal consultation, continually improve our understanding of the funding and programmatic needs of Tribal Nations. The foregoing is not only good policy, but is also consistent with our commitment to fulfilling the United States’ unique trust responsibility to Tribal Nations and the deep respect we have for Tribal Nations.
+
+Sec. 2. Definitions. For purposes of this order:
+
+(a) The term “agency” means any authority of the United States that is an “agency” under [44 U.S.C. 3502(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim), other than those considered to be independent regulatory agencies, as defined in [44 U.S.C. 3502(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim).
+
+(b) The term “Federal funding and support programs for Tribal Nations” includes funding, programs, technical assistance, loans, grants, or other financial support or direct services that the Federal Government provides to Tribal Nations or Indians because of their status as Indians. It also includes actions or programs that do not exclusively serve Tribes, but for which Tribal Nations are eligible along with non-Tribal entities. It does not include programs for which both Indians and non-Indians are eligible.
+
+(c) The terms “Tribes” and “Tribal Nations” mean any Indian tribe, band, nation, or other organized group or community considered an “Indian Tribe” under section 4 of the Indian Self-Determination and Education Assistance Act, [25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304).
+
+Sec. 3. Agency Coordination on Better Supporting Tribal Nations and Identifying Opportunities for Reform. Agencies shall work with the White House Council on Native American Affairs (WHCNAA) to coordinate implementation of this order, share leading practices, and identify potential opportunities for Federal policy reforms that would promote accessible, equitable, and flexible administration of Federal funding and support programs for Tribal Nations. The WHCNAA shall assist agencies in coordinating the Tribal consultations required by section 4 of this order to minimize the burden on Tribal Nations in participating.
+
+Sec. 4. Embracing Our Trust Responsibilities by Assessing Unmet Federal Obligations to Support Tribal Nations. The Director of the Office of Management and Budget (OMB) and the Assistant to the President and Domestic Policy Advisor (Domestic Policy Advisor) shall lead an effort, in collaboration with WHCNAA, to identify chronic shortfalls in Federal funding and support programs for Tribal Nations, and shall submit recommendations to the President describing the additional funding and programming necessary to better live up to the Federal Government’s trust responsibilities and help address the needs of all Tribal Nations, as follows:
+
+(a) Within 240 days of the date of this order [Dec. 6, 2023], the Director of OMB and the Domestic Policy Advisor shall, in consultation with the head of each agency that is a member of WHCNAA, and in consultation with Tribal leaders or their designees, develop guidance for assessing the additional funding each agency needs for its existing Federal funding and support programs for Tribal Nations to better live up to the Federal Government’s trust responsibilities and help address the needs of all Tribal Nations.
+
+(b) Within 540 days of the date of this order, the head of each agency that is a member of WHCNAA shall consult the guidance developed under subsection (a) of this section and submit a report to the Director of OMB and the Domestic Policy Advisor that identifies the funding needed for each agency’s existing Federal funding and support programs for Tribal Nations to better live up to the Federal Government’s trust responsibilities and help address the needs of Tribal Nations in the agency’s areas of responsibility.
+
+(c) The Director of OMB and the Domestic Policy Advisor shall develop, based on the agency reports provided under subsection (b) of this section and in consultation with Tribes and WHCNAA, recommendations for the Federal Government to take steps toward better living up to its trust responsibilities and helping address the needs of all Tribal Nations. These recommendations should identify any budgetary, statutory, regulatory, or other changes that may be necessary to ensure that Federal laws, policies, practices, and programs support Tribal Nations more effectively. These recommendations shall be submitted to the President, and shall be considered by agencies and OMB in developing the President’s Budget beginning with the next regular President’s Budget development cycle.
+
+(d) After submission of the reports and recommendations described in subsections (b) and (c) of this section, the Executive Director of WHCNAA shall annually convene appropriate representatives of WHCNAA member agencies to share best practices, track progress on implementing the recommendations, and evaluate the need for reassessment of funding.
+
+(e) Following submission of the recommendations described in subsection (c) of this section, WHCNAA member agencies shall report annually to the Director of OMB on progress made in response to such recommendations. The Director of OMB shall provide a summary of agencies’ progress and any new recommendations to Tribal leaders at the annual White House Tribal Nations Summit.
+
+Sec. 5. Agency Actions to Increase the Accessibility, Equity, Flexibility, and Utility of Federal Funding and Support Programs for Tribal Nations. Agency heads shall take the following actions to increase the accessibility, equity, flexibility, and utility of Federal funding and support programs for Tribal Nations, while increasing the transparency and efficiency of Federal funding processes to better live up to the Federal Government’s trust responsibilities and support Tribal self-determination:
+
+(a) Agencies shall design, revise, provide waivers for, and otherwise administer Federal funding and support programs for Tribal Nations to achieve the following objectives, to the maximum extent practicable and consistent with applicable law:
+
+(i) promote compacting, contracting, co-management, co-stewardship, and other agreements with Tribal Nations that allow them to partner with the Federal Government to administer Federal programs and services;
+
+(ii) identify funding programs that may allow for Tribal set-asides or other similar resource or benefits prioritization measures and, where appropriate, establish Tribal set-asides or prioritization measures that meet the needs of Tribal Nations;
+
+(iii) design application and reporting criteria and processes in ways that reduce administrative burdens, including by consolidating and streamlining such criteria and processes within individual agencies;
+
+(iv) take into account the unique needs, limited capacity, or significant barriers faced by Tribal Nations by providing reasonable and appropriate exceptions or accommodations where necessary;
+
+(v) increase the flexibility of Federal funding for Tribal Nations by removing, where feasible, unnecessary limitations on Tribal spending, including by maximizing the portion of Federal funding that can be used for training, administrative costs, and additional personnel;
+
+(vi) improve accessibility by identifying matching or cost-sharing requirements that may unduly reduce the ability of Tribal Nations to access resources and removing those burdens where appropriate;
+
+(vii) respect Tribal data sovereignty and recognize the importance of Indigenous Knowledge by, when appropriate and permitted by statute, allowing Tribal Nations to use self-certified data and avoiding the establishment of processes that require Tribal Nations to apply to, or obtain permission from, State or local governments to access Federal funding or to be part of a Federal program;
+
+(viii) provide Tribal Nations with the flexibility to apply for Federal funding and support programs through inter-Tribal consortia or other entities while requiring non-Tribal entities that apply for Federal funding on behalf of, or to directly benefit, Tribal Nations to include proof of Tribal consent; and
+
+(ix) provide ongoing outreach and technical assistance to Tribal Nations throughout the application and implementation process while continually improving agencies’ understanding of Tribal Nations’ unique needs through Tribal consultation and meaningful partnerships.
+
+(b) Agencies, in coordination with OMB and consistent with applicable law, should assess Tribal Nations’ access to competitive grant funding by tracking applications from Tribal Nations to competitive grant programs and their funding award success rate.
+
+(c) Agencies should proactively and systematically identify and address, where possible, any additional undue burdens not discussed in this order that Tribal Nations face in accessing or effectively using Federal funding and support programs for Tribal Nations and their root causes, including those causes that are regulatory, technological, or process-based.
+
+(d) Agencies’ implementation efforts shall appropriately maintain or enhance protections afforded under existing Federal law and policy, including those related to treaty rights and trust obligations, Tribal sovereignty and jurisdiction, civil rights, civil liberties, privacy, confidentiality, Indigenous Knowledge, and information access and security.
+
+(e) The WHCNAA, with support from the Secretary of the Interior as appropriate, shall ensure that Tribal Nations can easily identify in one location all sources of Federal funding and support programs for Tribal Nations, and all agencies that provide such funding shall coordinate with the Secretary of the Interior or the Secretary’s designee to compile and regularly update the necessary information to support this resource.
+
+(f) Agencies shall identify opportunities, as appropriate and consistent with applicable law, to modify their respective regulations, internal and public-facing guidance, internal budget development processes, and policies to include responsiveness to and support for the needs of Tribal Nations as part of their respective agencies’ missions.
+
+(g) Agencies shall issue internal guidance or directives, and provide additional staff training or support, as needed and as appropriate and consistent with applicable law, to promote the implementation of the leading practices identified in this section and their integration into agencies’ processes for developing policies and programs.
+
+Sec. 6. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) Agencies not covered by section 2(a) of this order, including independent agencies, are strongly encouraged to comply with the provisions of this order.
+
+(d) This order is not intended to, and does not, create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 #### Government-to-Government Relations With Native American Tribal Governments
 Memorandum of President of the United States, Apr. 29, 1994, 59 F.R. 22951, provided:
 
@@ -830,6 +917,99 @@ Sec. 3. General Provisions. (a) Nothing in this memorandum shall be construed to
 (c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Sec. 4. Publication. The Director of OMB is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
+#### Uniform Standards for Tribal Consultation
+Memorandum of President of the United States, Nov. 30, 2022, 87 F.R. 74479, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. Background. The United States has a unique, legally affirmed Nation-to-Nation relationship with American Indian and Alaska Native Tribal Nations, which is recognized under the Constitution of the United States, treaties, statutes, Executive Orders, and court decisions. The United States recognizes the right of Tribal governments to self-govern and supports Tribal sovereignty and self-determination. The United States also has a unique trust relationship with and responsibility to protect and support Tribal Nations. In recognition of this unique legal relationship, and to strengthen the government-to-government relationship, Executive Order 13175 of November 6, 2000 (Consultation and Coordination With Indian Tribal Governments) [set out above], charges all executive departments and agencies (agencies) with engaging in regular, meaningful, and robust consultation with Tribal officials in the development of Federal policies that have Tribal implications. Executive Order 13175 also sets forth fundamental principles and policymaking criteria.
+
+The Presidential Memorandum of January 26, 2021 (Tribal Consultation and Strengthening Nation-to-Nation Relationships) [set out above], requires agencies to submit detailed plans of action to implement the policies and directives of Executive Order 13175. In response, all agencies subject to Executive Order 13175 submitted plans of action, including over 50 agencies that submitted a consultation plan of action for the first time. Agencies also conducted more than 90 national-level Tribal consultations, focusing specifically on agency Tribal consultation policies. The purpose of this memorandum is to establish uniform minimum standards to be implemented across all agencies regarding how Tribal consultations are to be conducted. This memorandum is designed to respond to the input received from Tribal Nations regarding Tribal consultation, improve and streamline the consultation process for both Tribes and Federal participants, and ensure more consistency in how agencies initiate, provide notice for, conduct, record, and report on Tribal consultations. These are baseline standards; agencies are encouraged to build upon these standards to fulfill the goals and purposes of Executive Order 13175 consistent with their unique missions and engagement with Tribal Nations on agency-specific issues.
+
+Sec. 2. Consultation Principles. Tribal consultation is a two-way, Nation-to-Nation exchange of information and dialogue between official representatives of the United States and of Tribal Nations regarding Federal policies that have Tribal implications. Consultation recognizes Tribal sovereignty and the Nation-to-Nation relationship between the United States and Tribal Nations, and acknowledges that the United States maintains certain treaty and trust responsibilities to Tribal Nations. Consultation requires that information obtained from Tribes be given meaningful consideration, and agencies should strive for consensus with Tribes or a mutually desired outcome. Consultation should generally include both Federal and Tribal officials with decision-making authority regarding the proposed policy that has Tribal implications. Consultation will ensure that applicable information is readily available to all parties, that Federal and Tribal officials have adequate time to communicate, and that after the Federal decision, consulting Tribal Nations are advised as to how their input influenced that decision-making. All of these principles should be applied to the extent practicable and permitted by law.
+
+Sec. 3. Designating an Agency Point of Contact for Tribal Consultation. (a) The head of each agency shall designate a primary point of contact for Tribal consultation matters who is responsible for advising agency staff on all matters pertaining to Tribal consultation and serving as the primary point of contact for Tribal officials seeking to consult with the agency.
+
+(b) The head of each agency shall consider designating additional points of contact as necessary to facilitate consultation on varied subject matter areas within the agency.
+
+(c) Each agency shall provide the names and contact information of the designated agency points of contact for Tribal consultation on its website, as well as to the White House Office of Intergovernmental Affairs and the White House Council on Native American Affairs.
+
+(d) The designated agency points of contact may delegate consultation responsibilities to other decision-making agency officials within their agency as necessary and appropriate.
+
+Sec. 4. Determining Whether Consultation Is Appropriate. The head of each agency shall ensure that agency staff undertake an analysis as early as possible to determine whether Tribal consultation is required or appropriate consistent with Executive Order 13175. This analysis should occur regardless of whether a Tribal government requests consultation. When a Tribal government requests consultation, the agency—to the extent that it has not yet performed the analysis to determine whether consultation is appropriate—shall conduct that analysis as soon as possible and respond to the Tribe within a reasonable time period. If there is a reasonable basis to believe that a policy may have Tribal implications, consistent with the definition in Executive Order 13175, the agency shall follow the applicable requirements for consultation. Agencies may still engage in Tribal consultation even if they determine that a policy will not have Tribal implications, and should consider doing so if they determine that a policy is of interest to a Tribe or Tribes.
+
+Sec. 5. Notice of Consultation. (a) When inviting a Tribe or Tribes to consult, the head of each agency should:
+
+(i) develop a notice of consultation, which includes:
+
+(A) sufficient information on the topic to be discussed, in an accessible language and format, and context for the consultation topic, to facilitate meaningful consultation;
+
+(B) the date, time, and location of the consultation, as requested by the agency or as developed in consultation with the Tribe or Tribes;
+
+(C) if consulting virtually or by telephone, links to join or register in advance;
+
+(D) an explanation of any time constraints known to the agency at that time, such as statutory deadlines;
+
+(E) deadlines for any written comments on the topic; and
+
+(F) names and contact information for agency staff who can provide more information;
+
+(ii) transmit the notice of consultation, using the agency’s standard method of communication, to each affected Tribal government and consider posting it to the agency’s website or any centralized Federal Government site for providing notice of or coordinating Tribal consultations;
+
+(iii) provide notice of at least 30 days to the Tribe or Tribes of any planned consultations, except as provided in subsection (c) of this section;
+
+(iv) provide appropriate, available information on the subject of consultation including, where consistent with applicable law, a proposed agenda, framing paper, and other relevant documents to assist in the consultation process; and
+
+(v) allow for a written comment period following the consultation of at least 30 days, except as provided in subsection (c) of this section.
+
+(b) The head of each agency shall ensure that agency officials responsible for sending invitations to consult to interested or potentially affected Tribal governments use available tools, databases, and agency documentation, as well as communicate with agency representatives who may be knowledgeable about those Tribes and the location(s) affected by the policy with Tribal implications, to ensure their invitation efforts are appropriately inclusive. Such efforts should account for the fact that Tribes may have connections or legally protected rights to locations and resources beyond their current Tribal lands and Tribal government offices such as off-reservation fishing, hunting, gathering, or other rights.
+
+(c) If there are time constraints such that 30 days’ notice of consultation is not possible, or that the post-consultation written comment period described in subsection (a)(v) of this section must be shorter than 30 days, the notice of consultation should include information as to why the standard notice or written comment period cannot be provided. Upon the request of a Tribe, or where it would serve Tribal interests or fulfill certain trust obligations to Tribal Nations, agencies should consider adjusting deadlines for notice of consultations and for accepting written comments.
+
+Sec. 6. Conducting the Consultation. Throughout a consultation, the head of each agency, or appropriate representatives, shall recognize and respect Tribal self-government and sovereignty; identify and consider Tribal treaty rights, reserved rights, and other rights; respect and elevate Indigenous Knowledge, including cultural norms and practices relevant to such consultations; and meet the responsibilities that arise from the unique legal relationship between the Federal Government and Tribal governments. The head of each agency should ensure that agency representatives with appropriate expertise and, to the extent practicable, decision-making authority regarding the proposed policy are present at the Nation-to-Nation consultation. The head of each agency should consider conducting the consultation in a manner that prioritizes participation of official Tribal government leaders.
+
+Sec. 7. Record of the Consultation. (a) The head of each agency shall maintain a record of the consultation process that includes:
+
+(i) a summary of Tribal input received;
+
+(ii) a general explanation of how Tribal input influenced or was incorporated into the agency action; and
+
+(iii) if relevant, the general reasoning for why Tribal suggestions were not incorporated into the agency action or why consensus could not be attained.
+
+(b) The head of each agency shall timely disclose to the affected Tribe or Tribes the outcome of the consultation and decisions made as a result of the consultation. To the extent permitted by applicable law, the head of each agency shall seek to ensure that information designated as sensitive by a Tribal government is not publicly disclosed. Agencies should obtain advance informed consent from Tribal communities for the use of sensitive information provided by the Tribe, and should inform Tribal representatives that certain Federal laws, including the Freedom of Information Act [[5 U.S.C. 552](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim)], may require disclosure of such information.
+
+(c) For national and regional consultations, or if otherwise appropriate, the head of each agency should also consider publicly posting the record of consultation to foster ease of reference and use by other agencies, employees, and processes, and to minimize burdens on Tribes to provide similar input in multiple consultations. Decisions regarding whether to publicly post a record of consultation should be made with Tribal input.
+
+(d) The record of consultation does not waive any privilege or other exception to disclosure pursuant to the Freedom of Information Act or its implementing regulations.
+
+Sec. 8. Training. (a) The head of each agency shall require annual training regarding Tribal consultation for agency employees who work with Tribal Nations or on policies with Tribal implications. This training shall include, at minimum, review of Executive Order 13175, this memorandum, and any applicable Tribal consultation policy of the agency.
+
+(b) In addition, the Secretary of the Interior and the Director of the Office of Personnel Management (OPM), in consultation with Tribal Nations, shall establish training modules regarding Tribal consultation to be available for agency employees who work with Tribal Nations or on policies with Tribal implications. These training modules should explain the concepts of Tribal consultation, the Nation-to-Nation relationship, and Tribal sovereignty. Agencies may use these training modules to satisfy the annual training requirement set forth in subsection (a) of this section.
+
+(c) Within 180 days of the date of this memorandum [Nov. 30, 2022], the Director of OPM, in consultation with the Secretary of the Interior, shall report to the President on progress toward establishing training modules regarding Tribal consultation and shall identify additional resources or other support necessary to implement this training.
+
+Sec. 9. Definitions. The terms “Tribal officials,” “policies that have Tribal implications,” and “agency” as used in this memorandum are as defined in Executive Order 13175. The terms “Tribes” and “Tribal Nations” as used in this memorandum have the same definition as the term “Indian Tribe” as defined in Executive Order 13175.
+
+Sec. 10. Scope. Nothing in this memorandum shall be construed to impair or otherwise affect the ability of heads of agencies to set more specific or more stringent standards, or to incorporate other best practices, for conducting Tribal consultation.
+
+Sec. 11. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) Independent agencies are strongly encouraged to comply with the provisions of this memorandum.
+
+(e) The Director of the Office of Management and Budget is authorized and directed to publish this memorandum in the Federal Register.
 
 J.R. Biden, Jr.
 
@@ -2692,9 +2872,6 @@ The Johnson-O’Malley Supplemental Indian Education Program Modernization Act, 
 
 The Elementary and Secondary Education Act of 1965, referred to in subsec. (f)(1)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27. Title VI of the Act is classified generally to subchapter VI (§ 7401 et seq.) of chapter 70 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) and Tables.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 
 <a id="section-5365"></a>
 ## § 5365. School construction, acquisition, or renovation contracts
@@ -3725,9 +3902,9 @@ Provisions similar to those in this section were contained in [section 5365 of t
 
 (1) **Promulgation** — Not later than 90 days after October 21, 2020, the Secretary shall initiate procedures under subchapter III of chapter 5 of title 5 to negotiate and promulgate such regulations as are necessary to carry out this subchapter.
 
-(2) **Publication of proposed regulations** — Proposed regulations to implement this subchapter shall be published in the Federal Register not later than 21 months after October 21, 2020.
+(2) **Publication of proposed regulations** — Proposed regulations to implement this subchapter shall be published in the Federal Register not later than 38 months after October 21, 2020.
 
-(3) **Expiration of authority** — The authority to promulgate regulations under paragraph (1) shall expire on the date that is 30 months after October 21, 2020.
+(3) **Expiration of authority** — The authority to promulgate regulations under paragraph (1) shall expire on the date that is 50 months after October 21, 2020.
 
 **(b) Committee**
 
@@ -3754,6 +3931,11 @@ Section 101(a) of the PROGRESS for Indian Tribes Act, referred to in subsec. (d)
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 5367 of this title](./chapter-046-indian-self-determination-and-education-assistance.md#section-5367) prior to repeal by Pub. L. 116–180.
+
+#### Amendments
+2023—Subsec. (a)(2). Pub. L. 118–15, § 2102(1), substituted “38 months” for “21 months”.
+
+Subsec. (a)(3). Pub. L. 118–15, § 2102(2), substituted “50 months” for “30 months”.
 
 
 <a id="section-5387"></a>

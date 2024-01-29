@@ -88,7 +88,7 @@ Pub. L. 109–479, title V, § 501, Jan. 12, 2007, 120 Stat. 3635, provided that
 
   (B) *Terms and privileges* — Each member of the advisory committee appointed under subparagraph (A) shall serve for a term of 2 years and shall be eligible for reappointment. The advisory committee shall be invited to attend all non-executive meetings of the United States Commissioners and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission.
 
-  (C) *Procedures* — The advisory committee established by subparagraph (A) shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter,11 See References in Text note below. the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), and the WCPFC Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures. A majority of the members of the advisory committee shall constitute a quorum. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.22 So in original. The period probably should be a comma. and the advisory committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  (C) *Procedures* — The advisory committee established by subparagraph (A) shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter,11 See References in Text note below. the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), and the WCPFC Convention. The advisory committee shall publish and make available to the public a statement of its organization, practices, and procedures. A majority of the members of the advisory committee shall constitute a quorum. Meetings of the advisory committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.22 So in original. The period probably should be a comma. and the advisory committee shall not be subject to chapter 10 of title 5.
 
   (D) *Provision of information* — The Secretary and the Secretary of State shall furnish the advisory committee with relevant information concerning fisheries and international fishery agreements.
 
@@ -121,9 +121,9 @@ This chapter, referred to in subsec. (d)(1)(C), probably should have been “thi
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsecs. (d)(1)(C) and (f)(4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (d)(1)(C). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
 2016—Subsec. (a). Pub. L. 114–327, § 301(a)(1)(A), inserted “and commercial fishing” after “fish stocks”.
 
 Subsec. (d)(1)(E). Pub. L. 114–327, § 301(a)(1)(B), added subpar. (E).

@@ -1395,7 +1395,7 @@ A prior section 602 of Pub. L. 95–501 enacted [section 1765b–1 of this title
 Subsec. (a)(2). Pub. L. 102–237, § 327(2), struck out “in accordance with subsection (c)” after “shall remain confidential”.
 
 #### Termination Date of 1999 Amendment
-Amendment by Pub. L. 106–78 to terminate Sept. 30, 2020, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635). Section 942 of Pub. L. 106–78 to be applied by substituting “September 30, 2021” for “September 30, 2020”, see section 401 of div. O of Pub. L. 116–260, set out as a Mandatory Livestock Reporting Extension note under [section 1636i of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1636i).
+Amendment by Pub. L. 106–78 to terminate Sept. 30, 2023, see section 942 of Pub. L. 106–78, set out in a Livestock Mandatory Reporting note under [section 1635 of this title](./chapter-038-distribution-and-marketing-of-agricultural-products.md#section-1635).
 
 
 <a id="section-5713"></a>

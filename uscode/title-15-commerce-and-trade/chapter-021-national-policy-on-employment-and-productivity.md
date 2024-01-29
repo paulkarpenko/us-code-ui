@@ -78,7 +78,7 @@ Pub. L. 95–523, title I, § 101, Oct. 27, 1978, 92 Stat. 1890, provided that: 
 ### Statutory Notes
 
 #### References in Text
-The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d) and (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, as amended, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
+The Full Employment and Balanced Growth Act of 1978, referred to in subsecs. (d) and (e), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 #### Codification
 In subsec. (a), “[section 1023(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1023/c&num=0&edition=prelim)” was in the original “section 11(c) of this Act”, which is classified to [section 1024(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1024/c&num=0&edition=prelim). The citation has been editorially translated as indicated to reflect the probable intent of Congress because the reporting requirements appear in section 10(c) of the Act, which is classified to [section 1023(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1023/c&num=0&edition=prelim).
@@ -274,7 +274,7 @@ The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (c),
 The Full Employment and Balanced Growth Act of 1978, referred to in subsec. (b), is Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, which is classified principally to chapter 58 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1023"></a>
@@ -350,7 +350,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (subject to a savings clause) by Pub. L. 89–554, Sept. 6, 1966, § 8, 80 Stat. 632, 655.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Transfer of Functions
 Certain functions of Council of Economic Advisers transferred to Chairman, see 1953 Reorg. Plan No. 9, eff. Aug. 1, 1953, 18 F.R. 4542, set out below. 1953 Reorg. Plan No. 9 also abolished office of Vice Chairman.
@@ -368,10 +368,10 @@ Ex. Ord. No. 10802, Jan. 23, 1959, 24 F.R. 557, which established the Committee 
 Ex. Ord. No. 11453, Jan. 24, 1969, 34 F.R. 1301, which established the Cabinet Committee on Economic Policy, was revoked by Ex. Ord. No. 11702, Jan. 25, 1973, 38 F.R. 2957, set out as a note under [section 887d of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section887d&num=0&edition=prelim), Education.
 
 #### Executive Order No. 12296
-Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President’s Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12296, Mar. 2, 1981, 46 F.R. 15129, as amended by Ex. Ord. No. 12309, June 9, 1981, 46 F.R. 30997, which related to the establishment, functions, administration, and termination of the President’s Economic Policy Advisory Board, was revoked by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Extension of Term of President’s Economic Policy Advisory Board
-Term of President’s Economic Policy Advisory Board extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Economic Policy Advisory Board extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of President’s Economic Policy Advisory Board were contained in the following prior Executive Orders:
 

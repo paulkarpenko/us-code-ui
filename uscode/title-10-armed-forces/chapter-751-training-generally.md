@@ -59,7 +59,7 @@ In subsection (g), the words “under this section” are substituted for 10:535
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-7402"></a>
@@ -232,7 +232,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Amendment by Pub. L. 110–417 applicable to any degree granting authority established, modified, or redesignated on or after Oct. 14, 2008, for an institution of professional military education referred to in such amendment, see section 543(j) of Pub. L. 110–417, set out as a note under [section 2163 of this title](./chapter-108-department-of-defense-schools.md#section-2163).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Retroactive Degree Conferral; Maximum Amount
 Pub. L. 93–365, title VII, § 708(b), Aug. 5, 1974, 88 Stat. 407, provided that: “The Commandant of the United States Army Command and General Staff College may confer the degree of master of military art and science upon graduates of the college who have completed the requirements for that degree since 1964 but prior to the enactment of this Act [Aug. 5, 1974]; but the number of such degrees awarded for such period may not exceed two hundred.”

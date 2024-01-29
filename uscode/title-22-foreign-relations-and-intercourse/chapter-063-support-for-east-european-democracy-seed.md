@@ -242,7 +242,7 @@ Sections 301 and 304, referred to in subsec. (a), are sections 301 and 304 of Pu
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 
 <a id="section-5421"></a>
@@ -452,7 +452,7 @@ Functions of President under this section relating to Enterprise Funds for Polan
 
 **(d) Consultation with appropriate officers** In carrying out the responsibilities established by this section, the Secretary shall seek information and advice from, and consult with, appropriate officers of the United States.
 
-**(e) Consultation with labor and business representatives** For purposes of this section, consultation between the Secretary and United States labor and business representatives shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+**(e) Consultation with labor and business representatives** For purposes of this section, consultation between the Secretary and United States labor and business representatives shall not be subject to chapter 10 of title 5.
 
 **(f) Delegation of responsibilities** The Secretary shall delegate the authority to carry out the programs authorized by this section to the head of the Bureau of International Labor Affairs of the Department of Labor.
 
@@ -464,11 +464,11 @@ Functions of President under this section relating to Enterprise Funds for Polan
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 In subsec. (c)(1), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 471](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section471&num=0&edition=prelim) and following)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+
+#### Amendments
+Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
 
 <a id="section-5425"></a>

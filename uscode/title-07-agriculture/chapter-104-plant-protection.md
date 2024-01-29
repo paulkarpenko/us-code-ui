@@ -546,7 +546,7 @@ Section was not enacted as part of the Plant Protection Act which comprises this
 
   (B) other interested parties.
 
-(3) **Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
+(3) **Chapter 10 of title 5** — Chapter 10 of title 5 shall not apply to consultations under this subsection.
 
 (4) **Application**
 
@@ -673,14 +673,14 @@ Section was not enacted as part of the Plant Protection Act which comprises this
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The date of enactment of this paragraph, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (b)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2014—Subsecs. (e), (f). Pub. L. 113–79, § 10007(a), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 Subsec. (f)(4) to (6). Pub. L. 113–79, § 10007(b), substituted semicolon at end for “and each fiscal year thereafter.” in par. (4), and added pars. (5) and (6).

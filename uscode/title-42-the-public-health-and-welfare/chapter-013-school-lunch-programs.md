@@ -78,13 +78,13 @@ Act June 4, 1946, ch. 281, § 1, 60 Stat. 230, as amended by Pub. L. 106–78, t
 Pub. L. 116–260, div. N, title VII, § 722, Dec. 27, 2020, 134 Stat. 2097, provided that: “(a) Use of Certain Appropriations to Cover Emergency Operational Costs Under School Meal Programs.—“(1) In general.—“(A) Required allotments.—Notwithstanding any other provision of law, the Secretary shall allocate to each State that participates in the reimbursement program under paragraph (3) such amounts as may be necessary to carry out reimbursements under such paragraph for each reimbursement month, including, subject to paragraph (5)(B), administrative expenses necessary to make such reimbursements. “(B) Guidance with respect to program.—Not later than 30 days after the date of the enactment of this section [Dec. 27, 2020], the Secretary shall issue guidance with respect to the reimbursement program under paragraph (3). “(2) Reimbursement program application.—To participate in the reimbursement program under paragraph (3), not later than 30 days after the date described in paragraph (1)(B), a State shall submit an application to the Secretary that includes a plan to calculate and disburse reimbursements under the reimbursement program under paragraph (3). “(3) Reimbursement program.—Subject to paragraphs (4) and (5)(D), using the amounts allocated under paragraph (1)(A), a State participating in the reimbursement program under this paragraph shall make reimbursements for emergency operational costs for each reimbursement month as follows:“(A) For each new school food authority in the State for the reimbursement month, an amount equal to 55 percent of the amount equal to—“(i) the average monthly amount such new school food authority was reimbursed under the reimbursement sections for meals and supplements served by such new school food authority during the alternate period; minus “(ii) the amount such new school food authority was reimbursed under the reimbursement sections for meals and supplements served by such new school food authority during such reimbursement month. “(B) For each school food authority not described in subparagraph (A) in the State for the reimbursement month, an amount equal to 55 percent of—“(i) the amount such school food authority was reimbursed under the reimbursement sections for meals and supplements served by such school food authority for the month beginning one year before such reimbursement month; minus “(ii) the amount such school food authority was reimbursed under the reimbursement sections for meals and supplements served by such school food authority during such reimbursement month. “(4) Special rules relating to reimbursement calculation.—“(A) Effect of negative number.—If a subtraction performed under subparagraph (A) or (B) of paragraph (3) results in a negative number, the reimbursement amount calculated under such subparagraph shall equal zero. “(B) Special treatment of march, 2020.—In the case of a reimbursement under subparagraph (A) or (B) of paragraph (3) for the reimbursement month of March, 2020, the reimbursement amount shall be equal to the amount determined under such a subparagraph for such month, divided by 2. “(5) Treatment of funds.—“(A) Availability.—Funds allocated to a State under paragraph (1)(A) shall remain available until September 30, 2021. “(B) Administrative expenses.—A State may reserve not more than 1 percent of the funds allocated under paragraph (1)(A) for administrative expenses to carry out this subsection. “(C) Unexpended balance.—On March 31, 2022, any amounts allocated to a State under paragraph (1)(A) or reimbursed to a school food authority or new school food authority under paragraph (3) that are unexpended by such State, school food authority, or new school food authority shall revert to the Secretary. “(D) Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only be made available to a school food authority or new school food authority that—“(i) submits a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or “(ii) provides an assurance to such State that the school food authority or new school food authority will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the first full semester (or equivalent term) after the conclusion of the public health emergency, as determined by such State. “(6) Reports.—Each State that carries out a reimbursement program under paragraph (3) shall, not later than March 31, 2022, submit a report to the Secretary that includes a summary of the use of such funds by the State and each school food authority and new school food authority in such State. “(b) Use of Certain Appropriations to Cover Child and Adult Care Food Program Child Care Operational Emergency Costs During COVID–19 Pandemic.—“(1) In general.—“(A) Required allotments.—Notwithstanding any other provision of law, the Secretary shall allocate to each State that participates in the reimbursement program under paragraph (3) such amounts as may be necessary to carry out reimbursements under such paragraph for each reimbursement month, including, subject to paragraph (5)(C), administrative expenses necessary to make such reimbursements. “(B) Guidance with respect to program.—Not later than 30 days after the date of the enactment of this section [Dec. 27, 2020], the Secretary shall issue guidance with respect to the reimbursement program under paragraph (3). “(2) Reimbursement program application.—To participate in the reimbursement program under paragraph (3), not later than 30 days after the date described in paragraph (1)(B), a State shall submit an application to the Secretary that includes a plan to calculate and disburse reimbursements under the reimbursement program under paragraph (3). “(3) Reimbursement amount.—Subject to paragraphs (4) and (5)(E), using the amounts allocated under paragraph (1)(A), a State participating in the reimbursement program under this paragraph shall make reimbursements for child care operational emergency costs for each reimbursement month as follows:“(A) For each new covered institution in the State for the reimbursement month, an amount equal to 55 percent of—“(i) the average monthly amount such new covered institution was reimbursed under subsection (c) and subsection (f) of section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)) for meals and supplements served by such new covered institution during the alternate period; minus “(ii) the amount such new covered institution was reimbursed under such section for meals and supplements served by such new covered institution during such reimbursement month. “(B) For each covered institution not described in subparagraph (A) in the State for the reimbursement month, an amount equal to 55 percent of—“(i) the amount such covered institution was reimbursed under subsection (c) and subsection (f) of section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)) for meals and supplements served by such covered institution during the month beginning one year before such reimbursement month; minus “(ii) the amount such covered institution was reimbursed under such section for meals and supplements served by such covered institution during such reimbursement month. “(C) For each new sponsoring organization of a family or group day care home in the State for the reimbursement month, an amount equal to 55 percent of—“(i) the average monthly amount such new sponsoring organization of a family or group day care home was reimbursed under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766(f)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/f/3/B&num=0&edition=prelim)) for administrative funds for the alternate period; minus “(ii) the amount such new sponsoring organization of a family or group day care home was reimbursed under such section for administrative funds for the reimbursement month. “(D) For each sponsoring organization of a family or group day care home not described in subparagraph (C) in the State for the reimbursement month, an amount equal to 55 percent of—“(i) the amount such sponsoring organization of a family or group day care home was reimbursed under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766(f)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/f/3/B&num=0&edition=prelim)) for administrative funds for the month beginning one year before such reimbursement month; minus “(ii) the amount such sponsoring organization of a family or group day care home was reimbursed under such section for administrative funds for such reimbursement month. “(4) Special rules relating to reimbursement calculation.—“(A) Effect of negative number.—If a subtraction performed under subparagraph (A), (B), (C), or (D) of paragraph (3) results in a negative number, the reimbursement amount calculated under such subparagraph shall equal zero. “(B) Special treatment of march, 2020.—In the case of a reimbursement under subparagraph (A), (B), (C), or (D) of paragraph (3) for the reimbursement month of March, 2020, the reimbursement amount shall be equal to the amount determined under such a subparagraph for such month, divided by 2. “(5) Treatment of funds.—“(A) Availability.—Funds allocated to a State under paragraph (1)(A) shall remain available until September 30, 2021. “(B) Unaffiliated center.—In the case of a covered institution or a new covered institution that is an unaffiliated center that is sponsored by a sponsoring organization and receives funds for a reimbursement month under subparagraph (A) or (B) of paragraph (3), such unaffiliated center shall provide to such sponsoring organization an amount of such funds as agreed to by the sponsoring organization and the unaffiliated center, except such amount may not be greater be [sic] than 15 percent of such funds. “(C) Administrative expenses.—A State may reserve not more than 1 percent of the funds allocated under paragraph (1)(A) for administrative expenses to carry out this subsection. “(D) Unexpended balance.—On March 31, 2022, any amounts allocated to a State under paragraph (1)(A) or reimbursed to a new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home that are unexpended by such State, new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home, shall revert to the Secretary. “(E) Limitation on use of funds.—Funds allocated to a State under paragraph (1)(A) may only be made available to a new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home that—“(i) submits a claim to such State for meals, supplements, or administrative costs with respect to a month occurring during the period beginning September 1, 2020 and ending December 31, 2020; or “(ii) provides an assurance to such State that the new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home will submit a claim to such State for meals, supplements, or administrative costs with respect to a month occurring within 90 days after the conclusion of the public health emergency. “(6) Reports.—Each State that carries out a reimbursement program under paragraph (3) shall, not later than March 31, 2022, submit a report to the Secretary that includes a summary of the use of such funds by the State and each new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home. “(c) Funding.—There are appropriated to the Secretary, out of any funds in the Treasury not otherwise appropriated, such sums as are necessary to carry out this section. “(d) Definitions.—In this section:“(1) Alternate period.—The term ‘alternate period’ means the period beginning January 1, 2020 and ending February 29, 2020. “(2) Emergency operational costs.—The term ‘emergency operational costs’ means the costs incurred by a school food authority or new school food authority—“(A) during a public health emergency; “(B) that are related to the ongoing operation, modified operation, or temporary suspension of operation (including administrative costs) of such school food authority or new school food authority; and “(C) except as provided under subsection (a), that are not reimbursed under a Federal grant. “(3) Child care operational emergency costs.—The term ‘child care operational emergency costs’ means the costs under the child and adult care food program under section 17 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)) incurred by a new covered institution, covered institution, new sponsoring organization of a family or group day care home, or sponsoring organization of a family or group day care home—“(A) during a public health emergency; “(B) that are related to the ongoing operation, modified operation, or temporary suspension of operation (including administrative costs) of such new covered institution, covered institution, new sponsoring organization of a family or group day care home, sponsoring organization of a family or group day care home, or sponsoring organization of an unaffiliated center; and “(C) except as provided under subsection (b), that are not reimbursed under a Federal grant. “(4) Covered institution.—The term ‘covered institution’ means—“(A) an institution (as defined in section 17(a)(2) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/a/2&num=0&edition=prelim))); and “(B) a family or group day care home. “(5) New covered institution.—The term ‘new covered institution’ means a covered institution for which no reimbursements were made for meals and supplements under section 17(c) or (f) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)[(c), (f)]) with respect to the previous reimbursement period. “(6) New school food authority.—The term ‘new school food authority’ means a school food authority for which no reimbursements were made under the reimbursement sections with respect to the previous reimbursement period. “(7) New sponsoring organization of a family or group day care.—The term ‘new sponsoring organization of a family or group day care’ means a sponsoring organization of a family or group day care home for which no reimbursements for administrative funds were made under section 17(f)(3)(B) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1766(f)(3)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766/f/3/B&num=0&edition=prelim)) for the previous reimbursement period. “(8) Previous reimbursement period.—The term ‘previous reimbursement period’ means the period beginning March 1, 2019 and ending June 30, 2019. “(9) Public health emergency.—The term ‘public health emergency’ means a public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](./chapter-6a-public-health-service.md#section-247d)) resulting from the COVID–19 pandemic or any renewal of such declaration pursuant to such section 319. “(10) Reimbursement month.—The term ‘reimbursement month’ means March 2020, April 2020, May 2020, and June 2020. “(11) Reimbursement sections.—The term ‘reimbursement sections’ means—“(A) section 4(b), section 11(a)(2), section 13, and section 17A(c) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1753(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1753/b&num=0&edition=prelim); [42 U.S.C. 1759a(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1759a/a/2&num=0&edition=prelim); [42 U.S.C. 1761](./chapter-013-school-lunch-programs.md#section-1761); [42 U.S.C. 1766a(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1766a/c&num=0&edition=prelim)); and “(B) section 4 of the Child Nutrition Act ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)). “(12) Secretary.—The term ‘Secretary’ means the Secretary of Agriculture. “(13) State.— The term ‘State’ has the meaning given such term in section 12(d)(8) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760(d)(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1760/d/8&num=0&edition=prelim)).”
 
 #### Indirect Costs
-Pub. L. 111–296, title III, § 307, Dec. 13, 2010, 124 Stat. 3245, provided that: “(a) Guidance on Indirect Costs Rules.—Not later than 180 days after the date of enactment of this Act [Dec. 13, 2010], the Secretary [of Agriculture] shall issue guidance to school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) covering program rules pertaining to indirect costs, including allowable indirect costs that may be charged to the nonprofit school food service account. “(b) Indirect Cost Study.—The Secretary shall—“(1) conduct a study to assess the extent to which school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) pay indirect costs, including assessments of—“(A) the allocation of indirect costs to, and the methodologies used to establish indirect cost rates for, school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)); “(B) the impact of indirect costs charged to the nonprofit school food service account; “(C) the types and amounts of indirect costs charged and recovered by school districts; “(D) whether the indirect costs charged or recovered are consistent with requirements for the allocation of indirect costs and school food service operations; and “(E) the types and amounts of indirect costs that could be charged or recovered under requirements for the allocation of indirect costs and school food service operations but are not charged or recovered; and “(2) after completing the study required under paragraph (1), issue additional guidance relating to the types of costs that are reasonable and necessary to provide meals under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.). “(c) Regulations.—After conducting the study under subsection (b)(1) and identifying costs under subsection (b)(2), the Secretary may promulgate regulations to address—“(1) any identified deficiencies in the allocation of indirect costs; and “(2) the authority of school food authorities to reimburse only those costs identified by the Secretary as reasonable and necessary under subsection (b)(2). “(d) Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b). “(e) Funding.—“(1) In general.—On October 1, 2010, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this section $2,000,000, to remain available until expended. “(2) Receipt and acceptance.—The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under paragraph (1), without further appropriation.”
+Pub. L. 111–296, title III, § 307, Dec. 13, 2010, 124 Stat. 3245, provided that: “(a) Guidance on Indirect Costs Rules.—Not later than 180 days after the date of enactment of this Act [Dec. 13, 2010], the Secretary [of Agriculture] shall issue guidance to school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) covering program rules pertaining to indirect costs, including allowable indirect costs that may be charged to the nonprofit school food service account. “(b) Indirect Cost Study.—The Secretary shall—“(1) conduct a study to assess the extent to which school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) pay indirect costs, including assessments of—“(A) the allocation of indirect costs to, and the methodologies used to establish indirect cost rates for, school food authorities participating in the school lunch program established under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program established by section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)); “(B) the impact of indirect costs charged to the nonprofit school food service account; “(C) the types and amounts of indirect costs charged and recovered by school districts; “(D) whether the indirect costs charged or recovered are consistent with requirements for the allocation of indirect costs and school food service operations; and “(E) the types and amounts of indirect costs that could be charged or recovered under requirements for the allocation of indirect costs and school food service operations but are not charged or recovered; and “(2) after completing the study required under paragraph (1), issue additional guidance relating to the types of costs that are reasonable and necessary to provide meals under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.). “(c) Regulations.—After conducting the study under subsection (b)(1) and identifying costs under subsection (b)(2), the Secretary may promulgate regulations to address—“(1) any identified deficiencies in the allocation of indirect costs; and “(2) the authority of school food authorities to reimburse only those costs identified by the Secretary as reasonable and necessary under subsection (b)(2). “(d) Report.—Not later than October 1, 2013, the Secretary shall submit to the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the study under subsection (b). “(e) Funding.—“(1) In general.—On October 1, 2010, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this section $2,000,000, to remain available until expended. “(2) Receipt and acceptance.—The Secretary shall be entitled to receive, shall accept, and shall use to carry out this section the funds transferred under paragraph (1), without further appropriation.”
 
 #### Local Wellness Policy
 Pub. L. 108–265, title II, § 204, June 30, 2004, 118 Stat. 780, as amended by Pub. L. 109–97, title VII, § 776, Nov. 10, 2005, 119 Stat. 2161, which related to establishment of local school wellness policies for schools under local educational agencies, was repealed by Pub. L. 111–296, title II, § 204(b), Dec. 13, 2010, 124 Stat. 3218.
 
 #### Coordination of School Lunch, School Breakfast, and Summer Food Service Programs
-Pub. L. 104–193, title VII, § 741, Aug. 22, 1996, 110 Stat. 2307, as amended by Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “(a) Coordination.—“(1) In general.—The Secretary of Agriculture shall develop proposed changes to the regulations under the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.), the summer food service program under section 13 of that Act ([42 U.S.C. 1761](./chapter-013-school-lunch-programs.md#section-1761)), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)), for the purpose of simplifying and coordinating those programs into a comprehensive meal program. “(2) Consultation.—In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph. “(b) Report.—Not later than November 1, 1997, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Economic and Educational Opportunities of the House of Representatives a report containing the proposed changes developed under subsection (a).”
+Pub. L. 104–193, title VII, § 741, Aug. 22, 1996, 110 Stat. 2307, as amended by Pub. L. 106–78, title VII, § 752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “(a) Coordination.—“(1) In general.—The Secretary of Agriculture shall develop proposed changes to the regulations under the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.), the summer food service program under section 13 of that Act ([42 U.S.C. 1761](./chapter-013-school-lunch-programs.md#section-1761)), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)), for the purpose of simplifying and coordinating those programs into a comprehensive meal program. “(2) Consultation.—In developing proposed changes to the regulations under paragraph (1), the Secretary of Agriculture shall consult with local, State, and regional administrators of the programs described in such paragraph. “(b) Report.—Not later than November 1, 1997, the Secretary of Agriculture shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Economic and Educational Opportunities [now Committee on Education and the Workforce] of the House of Representatives a report containing the proposed changes developed under subsection (a).”
 
 #### Supplemental Nutrition Programs; Congressional Statement of Findings
 Pub. L. 103–448, § 2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106–78, title VII, § 752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that: “Congress finds that— “(1) undernutrition can permanently retard physical growth, brain development, and cognitive functioning of children; “(2) the longer a child’s nutritional, emotional, and educational needs go unmet, the greater the likelihood of cognitive impairment; “(3) low-income children who attend school hungry score significantly lower on standardized tests than non-hungry low-income children; and “(4) supplemental nutrition programs under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.) can help to offset threats posed to a child’s capacity to learn and perform in school that result from inadequate nutrient intake.”
@@ -93,7 +93,7 @@ Pub. L. 103–448, § 2, Nov. 2, 1994, 108 Stat. 4700, as amended by Pub. L. 106
 Pub. L. 103–448, title I, § 125, Nov. 2, 1994, 108 Stat. 4734, directed Comptroller General of the United States, not later than 1 year after Nov. 2, 1994, to conduct study and to submit a report to Congress on costs and problems associated with sale of adulterated fruit juice and juice products to the school lunch program under this chapter and school breakfast program under [section 1773 of this title](./chapter-13a-child-nutrition.md#section-1773).
 
 #### Consolidation of School Lunch Program and School Breakfast Program Into Comprehensive Meal Program
-Pub. L. 103–448, title III, § 301, Nov. 2, 1994, 108 Stat. 4749, as amended by Pub. L. 106–78, title VII, § 752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that: “(a) In General.—Notwithstanding any provision of [the] Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act [Nov. 2, 1994], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) into a comprehensive meal program. “(b) Requirements.—In establishing the comprehensive meal program under subsection (a), the Secretary shall meet the following requirements:“(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1758(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a/1&num=0&edition=prelim)) and section 4(e)(1) of the Child Nutrition Act of 1966 ([42 U.S.C. 1773(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1773/e/1&num=0&edition=prelim)). “(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.). “(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760](./chapter-013-school-lunch-programs.md#section-1760)(l)(4)). “(c) Plan and Recommendations.—“(1) Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program. “(2) Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor, and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
+Pub. L. 103–448, title III, § 301, Nov. 2, 1994, 108 Stat. 4749, as amended by Pub. L. 106–78, title VII, § 752(b)(15), Oct. 22, 1999, 113 Stat. 1170, provided that: “(a) In General.—Notwithstanding any provision of [the] Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), except as otherwise provided in this section, the Secretary of Agriculture shall, not later than 18 months after the date of enactment of this Act [Nov. 2, 1994], develop and implement regulations to consolidate the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.) and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) into a comprehensive meal program. “(b) Requirements.—In establishing the comprehensive meal program under subsection (a), the Secretary shall meet the following requirements:“(1) The Secretary shall ensure that the program continues to serve children who are eligible for free and reduced price meals. The meals shall meet the nutritional requirements of section 9(a)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1758(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/a/1&num=0&edition=prelim)) and section 4(e)(1) of the Child Nutrition Act of 1966 ([42 U.S.C. 1773(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1773/e/1&num=0&edition=prelim)). “(2) The Secretary shall continue to make breakfast assistance payments in accordance with section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) and food assistance payments in accordance with the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.). “(3) The Secretary may not consolidate any aspect of the school lunch program or the school breakfast program with respect to any matter described in any of subparagraphs (A) through (N) of section 12(l)(4) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760](./chapter-013-school-lunch-programs.md#section-1760)(l)(4)). “(c) Plan and Recommendations.—“(1) Plan for consolidation and simplification.—Not later than 180 days prior to implementing the regulations described in subsection (a), the Secretary shall prepare and submit to the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a plan for the consolidation and simplification of the school lunch program and the school breakfast program. “(2) Recommendations with respect to change in payment amounts.—If the Secretary proposes to change the amount of the breakfast assistance payment or the food assistance payment under the comprehensive meal program, the Secretary shall not include the change in the consolidation and shall prepare and submit to the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Agriculture, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate recommendations for legislation to effect the change.”
 
 #### Study and Report Relating to Use of Private Food Establishments and Caterers Under School Lunch Program and School Breakfast Program
 Pub. L. 103–448, title III, § 302, Nov. 2, 1994, 108 Stat. 4750, directed Comptroller General of the United States, in conjunction with the Director of the Office of Technology Assessment, to conduct a study and submit a report to Congress, not later than Sept. 1, 1996, on the use of private food establishments and caterers by schools that participate in the school lunch program under this chapter or the school breakfast program under [section 1773 of this title](./chapter-13a-child-nutrition.md#section-1773).
@@ -209,6 +209,9 @@ Subsec. (b). Pub. L. 97–35, § 801(a)(3), added subsec. (b).
 Pub. L. 87–688 inserted “American Samoa,” after “Guam,” in two places and “the apportionment for American Samoa,” after “the apportionment for Guam,”.
 
 1952—Act July 12, 1952, removed Alaska and Hawaii from 3 percent limitation imposed on Puerto Rico and Virgin Islands, made limitation applicable to Guam, and modified effects of 3 percent limitation.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
@@ -533,7 +536,7 @@ Pub. L. 93–13, § 1, Mar. 30, 1973, 87 Stat. 9, provided that: “The Congress
 
 (4) an evaluation of any other outcomes determined to be appropriate by the Secretary.
 
-**(e) Report** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and Labor of the House of Representative a report describing the results of the evaluation.
+**(e) Report** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and Labor of the House of Representative 11 So in original. Probably should be “Representatives”. a report describing the results of the evaluation.
 
 ### Statutory Notes
 
@@ -545,13 +548,16 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under [section 1161 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1161&num=0&edition=prelim), The Congress.
 
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+“Secretary” means the Secretary of Agriculture, see [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-1755b"></a>
@@ -582,7 +588,7 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 (5) an evaluation of any other outcomes determined to be appropriate by the Secretary.
 
-**(e) Report** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and the Workforce of the House of Representative a report describing the results of the evaluation.
+**(e) Report** As soon as practicable after the completion of the evaluation under subsection (d), the Secretary shall submit to the Committee on Agriculture, Nutrition, and Forestry of the Senate and the Committee on Education and the Workforce of the House of Representative 11 So in original. Probably should be “Representatives”. a report describing the results of the evaluation.
 
 **(f) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.
 
@@ -595,7 +601,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(1),
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
 
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+“Secretary” means the Secretary of Agriculture, see [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-1756"></a>
@@ -1352,13 +1358,13 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 (2) **State and local government inspections** — Nothing in paragraph (1) prevents any State or local government from adopting or enforcing any requirement for more frequent food safety inspections of schools.
 
-(3) **Audits and reports by States** — For fiscal year 2022, each State shall annually—
+(3) **Audits and reports by States** — For fiscal year 2024, each State shall annually—
 
   (A) audit food safety inspections of schools conducted under paragraphs (1) and (2); and
 
   (B) submit to the Secretary a report of the results of the audit.
 
-(4) **Audit by the Secretary** — For fiscal year 2022, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
+(4) **Audit by the Secretary** — For fiscal year 2024, the Secretary shall annually audit State reports of food safety inspections of schools submitted under paragraph (3).
 
 (5) **School food safety program**
 
@@ -1433,9 +1439,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
-2022—Subsec. (h)(3). Pub. L. 117–103 substituted “For fiscal year 2022” for “For fiscal year 2021” in introductory provisions.
+2024—Subsec. (h)(3). Pub. L. 118–42 substituted “For fiscal year 2024” for “For fiscal year 2023” in introductory provisions.
 
-Subsec. (h)(4). Pub. L. 117–103 substituted “For fiscal year 2022” for “For fiscal year 2021”.
+Subsec. (h)(4). Pub. L. 118–42 substituted “For fiscal year 2024” for “For fiscal year 2023”.
+
+2022—Subsec. (h)(3). Pub. L. 117–328 substituted “For fiscal year 2023” for “For fiscal year 2022” in introductory provisions.
+
+Pub. L. 117–103 substituted “For fiscal year 2022” for “For fiscal year 2021” in introductory provisions.
+
+Subsec. (h)(4). Pub. L. 117–328 substituted “For fiscal year 2023” for “For fiscal year 2022”.
+
+Pub. L. 117–103 substituted “For fiscal year 2022” for “For fiscal year 2021”.
 
 2020—Subsec. (h)(3). Pub. L. 116–260 substituted “For fiscal year 2021” for “For fiscal year 2020” in introductory provisions.
 
@@ -1737,6 +1751,9 @@ Subsec. (c). Pub. L. 92–433, § 5(c), designated eighth through thirteenth sen
 
 1968—Pub. L. 90–302 provided that minimum nutritional requirements prescribed by the Secretary on basis of tested nutritional research which lunches served by participating schools must meet could not be construed to prohibit substitution of foods to accommodate medical or other special dietary needs of individual students.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
 
@@ -1793,6 +1810,12 @@ Pub. L. 108–265, title V, § 501, June 30, 2004, 118 Stat. 789, provided that:
 
 Pub. L. 101–147, title II, § 202(c), Nov. 10, 1989, 103 Stat. 909, provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement the amendments made by subsection (b) [amending this section].”
 
+#### Meal Reimbursement for Low-Fat and Fat-Free Milk in Food Programs
+Pub. L. 118–42, div. B, title VII, § 769, Mar. 9, 2024, 138 Stat. 116, provided that: “Any rule-making, notice or guidance of or regarding USDA Proposed Rule (Child Nutrition Programs: Revisions to Meal Patterns Consistent With the 2020 Dietary Guidelines for Americans; RIN 0584–AE88) shall allow and provide meal reimbursement for (or ‘low fat or fat free’) flavored milk in National School Lunch Program and School Breakfast Program for grades Kindergarten through 12th grade and in Child and Adult Care Food Program for participants 6 years of age and older, and for any other program complying with the meal pattern requirements covered in such final rule.”
+
+#### Sodium Limits To Remain in Effect Through School Year 2026–2027; Limits Not To Be More Restrictive in Rulemaking Than Target 2 Sodium Levels
+Pub. L. 118–42, div. B, title VII, § 770, Mar. 9, 2024, 138 Stat. 116, provided that: “Sodium limits in effect for School Year 2023–2024 in child nutrition meal patterns shall remain effective through School Year 2026–2027, after which sodium limits that may be included in any rulemaking, notice or guidance of or regarding USDA Proposed Rule (Child Nutrition Programs: Revisions to Meal Patterns Consistent With the 2020 Dietary Guidelines for Americans; RIN 0584–AE88), shall not be more restrictive than the Target 2 sodium levels published in the final rule entitled ‘Nutrition Standards in the National School Lunch and School Breakfast Programs’ published by the Department of Agriculture in the Federal Register on January 26, 2012 (77 Fed. Reg 4087).”
+
 #### Review of Local Policies on Meal Charges and Provision of Alternate Meals
 Pub. L. 111–296, title I, § 143, Dec. 13, 2010, 124 Stat. 3213, provided that: “(a) In General.—“(1) Review.—The Secretary [of Agriculture], in conjunction with States and participating local educational agencies, shall examine the current policies and practices of States and local educational agencies regarding extending credit to children to pay the cost to the children of reimbursable school lunches and breakfasts. “(2) Scope.—The examination under paragraph (1) shall include the policies and practices in effect as of the date of enactment of this Act [Dec. 13, 2010] relating to providing to children who are without funds a meal other than the reimbursable meals. “(3) Feasibility.—In carrying out the examination under paragraph (1), the Secretary shall—“(A) prepare a report on the feasibility of establishing national standards for meal charges and the provision of alternate meals; and “(B) provide recommendations for implementing those standards. “(b) Followup Actions.—“(1) In general.—Based on the findings and recommendations under subsection (a), the Secretary may—“(A) implement standards described in paragraph (3) of that subsection through regulation; “(B) test recommendations through demonstration projects; or “(C) study further the feasibility of recommendations. “(2) Factors for consideration.—In determining how best to implement recommendations described in subsection (a)(3), the Secretary shall consider such factors as—“(A) the impact of overt identification on children; “(B) the manner in which the affected households will be provided with assistance in establishing eligibility for free or reduced price school meals; and “(C) the potential financial impact on local educational agencies.”
 
@@ -1835,13 +1858,16 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Section was enacted as part of the Food, Conservation, and Energy Act of 2008, and not as part of the Richard B. Russell National School Lunch Act which comprises this chapter.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under [section 1161 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1161&num=0&edition=prelim), The Congress.
 
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
+“Secretary” means the Secretary of Agriculture, see [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-1758b"></a>
@@ -1908,6 +1934,9 @@ Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out a
 
 #### References in Text
 The Child Nutrition Act of 1966, referred to in subsec. (a), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of this title](./chapter-13a-child-nutrition.md#section-1771) and Tables.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
@@ -2382,13 +2411,13 @@ Additional funds for food service programs for children from appropriations unde
 
 **(b) Agreements**
 
-(1) **In general** — The Secretary shall incorporate, in the agreement of the Secretary with the State agencies administering programs authorized under this chapter or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), the express requirements with respect to the operation of the programs to the extent applicable and such other provisions as in the opinion of the Secretary are reasonably necessary or appropriate to effectuate the purposes of this chapter and the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.).
+(1) **In general** — The Secretary shall incorporate, in the agreement of the Secretary with the State agencies and Indian Tribal organizations administering programs authorized under this chapter or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), the express requirements with respect to the operation of the programs to the extent applicable and such other provisions as in the opinion of the Secretary are reasonably necessary or appropriate to effectuate the purposes of this chapter and the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.).
 
 (2) **Expectations for use of funds** — Agreements described in paragraph (1) shall include a provision that—
 
-  (A) supports full use of Federal funds provided to State agencies for the administration of programs authorized under this chapter or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.); and
+  (A) supports full use of Federal funds provided to State agencies and Indian Tribal organizations for the administration of programs authorized under this chapter or the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.); and
 
-  (B) excludes the Federal funds from State budget restrictions or limitations including, at a minimum—
+  (B) excludes the Federal funds from State and Indian Tribal organization budget restrictions or limitations including, at a minimum—
 
     (i) hiring freezes;
 
@@ -2665,6 +2694,10 @@ The Individuals with Disabilities Education Act, referred to in subsec. (l)(4)(M
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–328, § 502(a)(1), inserted “and Indian Tribal organizations” after “State agencies” in pars. (1) and (2)(A).
+
+Subsec. (b)(2)(B). Pub. L. 117–328, § 502(a)(2), inserted “and Indian Tribal organization” before “budget” in introductory provisions.
+
 2015—Subsec. (d)(4)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
 
 2010—Subsec. (b). Pub. L. 111–296, § 361, added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary shall incorporate, in the Secretary’s agreements with the State educational agencies, the express requirements under this chapter with respect to the operation of the school lunch program under this chapter insofar as they may be applicable and such other provisions as in the Secretary’s opinion are reasonably necessary or appropriate to effectuate the purposes of this chapter.”
@@ -2851,6 +2884,9 @@ Pub. L. 87–688 inserted “American Samoa,” after “Guam”.
 
 1952—Subsec. (d)(1). Act July 12, 1952, included Guam within definition of State.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -2894,7 +2930,7 @@ Amendment by Pub. L. 87–688 applicable only with respect to funds appropriated
 #### Effective Date of 1952 Amendment
 Amendment by act July 12, 1952, effective only with respect to funds appropriated after July 12, 1952, see section 1(d) of act July 12, 1952, set out as a note under [section 1753 of this title](./chapter-013-school-lunch-programs.md#section-1753).
 
-#### Nationwide Waiver for School Year 2022-2023
+#### Nationwide Waiver for School Year 2022–2023
 Pub. L. 117–158, § 2(d), June 25, 2022, 136 Stat. 1310, provided that: “(1) In general.—For purposes of school year 2022-2023, the Secretary of Agriculture may establish waivers under section 12(l) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760](./chapter-013-school-lunch-programs.md#section-1760)(l))—“(A) on a nationwide basis; and “(B) without regard to the requirements under paragraphs (1), (2), and (3) of such section that a State or eligible service provider shall submit an application for a waiver request. “(2) Sunset.—A nationwide waiver established by the Secretary of Agriculture under section 12(l) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760](./chapter-013-school-lunch-programs.md#section-1760)(l)) pursuant to paragraph (1) shall not be in effect after June 30, 2023.”
 
 #### Operationally Ready
@@ -3151,6 +3187,46 @@ Pub. L. 94–105, § 21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from d
 
   (F) *Authorization of appropriations* — There is authorized to be appropriated to carry out this paragraph $20,000,000 for fiscal years 2011 through 2015.
 
+(13) **Noncongregate meals**
+
+  (A) *In general* — Beginning not later than summer 2023, the Secretary shall make available an option to States to provide program meals under this section for noncongregate consumption in a rural area with no congregate meal service, as determined by the Secretary.
+
+  (B) *Summer 2023* — Notwithstanding any other provision in this paragraph, for summer 2023, the Secretary may allow States to use implementation models developed by the Secretary for demonstration projects carried out under section 749(g) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2010 (Public Law 111–80; 123 Stat. 2132), to carry out subparagraph (A).
+
+  (C) *Eligibility determination* — In administering this paragraph, the Secretary shall ensure that noncongregate meals are only available for a child—
+
+    (i) in an area in which poor economic conditions exist; and
+
+    (ii) in an area that is not an area in which poor economic conditions exist, if the child is determined to be eligible for a free or reduced price lunch under this chapter or a free or reduced price breakfast under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)).
+
+  (D) *Priorities*
+
+    (i) *In general* — States shall—
+
+      (I) identify areas with no congregate meal service that could benefit the most from the provision of noncongregate meals; and
+
+      (II) encourage participating service institutions in those areas to provide noncongregate meals as appropriate.
+
+    (ii) *Areas* — Areas identified under clause (i) may include areas that are not areas in which poor economic conditions exist but that have children who are determined to be eligible for free or reduced price lunch under this chapter or free or reduced price breakfast under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)).
+
+  (E) *Administration* — In administering this paragraph, the Secretary shall ensure that—
+
+    (i) any meal served for noncongregate consumption—
+
+      (I) meets all applicable State and local health, safety, and sanitation standards; and
+
+      (II) meets the requirements under subsection (f)(1);
+
+    (ii) over a 10-day calendar period, the number of reimbursable meals provided to a child does not exceed the number of meals that could be provided over a 10-day calendar period, as established under subsection (b)(2); and
+
+    (iii) States establish a process for identifying gaps in service and barriers in reaching needy children for congregate and noncongregate models.
+
+  (F) *Regulations* — Not later than 1 year after December 29, 2022, the Secretary shall promulgate regulations (which shall include interim final regulations) to carry out this section, including provisions—
+
+    (i) to ensure the integrity of the alternative option for program delivery described in subparagraph (A); and
+
+    (ii) to incorporate best practices and lessons learned from noncongregate demonstration projects under section 749(g) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2010 (Public Law 111–80; 123 Stat. 2132).
+
 **(b) Service institutions**
 
 (1) **Payments.—**
@@ -3263,7 +3339,23 @@ Pub. L. 94–105, § 21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from d
 
 **(m) Accounts and records** States and service institutions participating in programs under this section shall keep such accounts and records as may be necessary to enable the Secretary to determine whether there has been compliance with this section and the regulations issued hereunder. Such accounts and records shall be available at any reasonable time for inspection and audit by representatives of the Secretary and shall be preserved for such period of time, not in excess of five years, as the Secretary determines necessary.
 
-**(n) Management and administration plan; notification and submittal to Secretary; specific provisions** Each State desiring to participate in the program shall notify the Secretary by January 1 of each year of its intent to administer the program and shall submit for approval by February 15 a management and administration plan for the program for the fiscal year, which shall include, but not be limited to, (1) the State’s administrative budget for the fiscal year, and the State’s plans to comply with any standards prescribed by the Secretary under subsection (k) of this section; (2) the State’s plans for use of program funds and funds from within the State to the maximum extent practicable to reach needy children; (3) the State’s plans for providing technical assistance and training eligible service institutions; (4) the State’s plans for monitoring and inspecting service institutions, feeding sites, and food service management companies and for ensuring that such companies do not enter into contracts for more meals than they can provide effectively and efficiently; (5) the State’s plan for timely and effective action against program violators; and (6) the State’s plan for ensuring fiscal integrity by auditing service institutions not subject to auditing requirements prescribed by the Secretary.
+**(n) Management and administration State plans**
+
+(1) **Summer 2023** — Each State desiring to participate in the program shall notify the Secretary of its intent to administer the program and shall submit for approval by April 1, 2023, a management and administration plan for the program for the fiscal year, which shall include, but not be limited to, (A) the State’s administrative budget for the fiscal year, and the State’s plans to comply with any standards prescribed by the Secretary under subsection (k) of this section; (B) the State’s plans for use of program funds and funds from within the State to the maximum extent practicable to reach needy children; (C) the State’s plans for providing technical assistance and training eligible service institutions; (D) the State’s plans for monitoring and inspecting service institutions, feeding sites, and food service management companies and for ensuring that such companies do not enter into contracts for more meals than they can provide effectively and efficiently; (E) the State’s plan for timely and effective action against program violators; (F) the State’s plan for ensuring fiscal integrity by auditing service institutions not subject to auditing requirements prescribed by the Secretary; and (G) the State’s plan for using the alternative option for program delivery described in subsection (a)(13), if applicable, including plans to provide a reasonable opportunity to access meals across all areas of the State.
+
+(2) **Summer 2024 and beyond** — Beginning in 2024, each State desiring to participate in the program under this section or in the summer EBT program under [section 1762 of this title](./chapter-013-school-lunch-programs.md#section-1762) shall notify the Secretary by January 1 of each year of its intent to administer the applicable program and shall submit for approval by February 15 a management and administration plan for the applicable program for the fiscal year, which shall include, as applicable—
+
+  (A) the requirements listed in subparagraphs (A) through (G) of paragraph (1);
+
+  (B) the administrative budget of the State for administering the summer EBT program under [section 1762 of this title](./chapter-013-school-lunch-programs.md#section-1762);
+
+  (C) the State’s plan to comply with the State requirements in [section 1762(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1762/c&num=0&edition=prelim) and any other standards prescribed by the Secretary under [section 1762 of this title](./chapter-013-school-lunch-programs.md#section-1762);
+
+  (D) the State’s plan to identify areas with no congregate meal service;
+
+  (E) the State’s plan to target priority areas identified under subsection (a)(13)(D)(i)(I); and
+
+  (F) the State’s plan to ensure that summer EBT benefits (as described in [section 1762(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1762/a&num=0&edition=prelim)) are issued to children based on their school attendance at the end of the instructional year immediately preceding such summer.
 
 **(o) Violations and penalties**
 
@@ -3302,11 +3394,17 @@ Pub. L. 94–105, § 21, Oct. 7, 1975, 89 Stat. 527, prohibited Secretary from d
 #### References in Text
 The Child Nutrition Act of 1966, referred to in subsecs. (a)(1), (5), (8) and (b)(1)(D), is Pub. L. 89–642, Oct. 11, 1966, 80 Stat. 885, which is classified generally to chapter 13A (§ 1771 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1771 of this title](./chapter-13a-child-nutrition.md#section-1771) and Tables.
 
+Section 749(g) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2010, referred to in subsec. (a)(13)(B), (F)(ii), is section 749(g) of Pub. L. 111–80, Oct. 21, 2009, 123 Stat. 2132, which is not classified to the Code.
+
 #### Codification
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
-2010—Pub. L. 111–296, § 441(a)(5)(A), amended section catchline generally.
+2022—Subsec. (a)(13). Pub. L. 117–328, § 502(b)(1), added par. (13).
+
+Subsec. (n). Pub. L. 117–328, § 502(b)(2), designated existing provisions as par. (1) and inserted heading, substituted “of its intent to administer the program and shall submit for approval by April 1, 2023,” for “by January 1 of each year of its intent to administer the program and shall submit for approval by February 15”, redesignated former pars. (1) to (6) as subpars. (A) to (F), respectively, of par. (1), and added pars. (1)(G) and (2).
+
+2010—Pub. L. 111–296, § 441(a)(5)(A), substituted “Summer food service program for children” for “Summer food service programs for children in service institutions” in section catchline.
 
 Subsec. (a). Pub. L. 111–296, § 441(a)(5)(A), inserted subsec. heading, added par. (1), and struck out former par. (1) which authorized the Secretary to carry out a program to initiate and maintain nonprofit food service programs for children in service institutions and provided definitions for this section.
 
@@ -3691,11 +3789,147 @@ Pub. L. 103–448, title I, § 114(h), Nov. 2, 1994, 108 Stat. 4713, directed Se
 
 
 <a id="section-1762"></a>
-## § 1762. Repealed. Pub. L. 101–147, title III, § 308, Nov. 10, 1989, 103 Stat. 915
+## § 1762. Summer electronic benefits transfer for children program
+**(a) Program established** The Secretary shall establish a program under which States and covered Indian Tribal organizations electing to participate in such program shall, beginning with summer 2024 and annually for each summer thereafter, issue to each eligible household summer electronic benefit transfer benefits (referred to in this section as “summer EBT benefits”)—
+
+(1) in accordance with this section; and
+
+(2) for the purpose of providing nutrition assistance through electronic benefit transfer or methods described in clauses (ii) and (iii) of subsection (b)(2)(B) during the summer months for each eligible child, to ensure continued access to food when school is not in session for the summer.
+
+**(b) Summer EBT benefits requirements**
+
+(1) **Purchase options**
+
+  (A) *Benefits issued by states* — Summer EBT benefits issued pursuant to subsection (a) by a State may only be used by the eligible household that receives such summer EBT benefits to purchase food (as defined in section 3 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim))) from retail food stores that have been approved for participation in the supplemental nutrition assistance program established under such Act [[7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.] and in accordance with section 7(b) of such Act ([7 U.S.C. 2016(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2016/b&num=0&edition=prelim)) or in the nutrition assistance program in American Samoa, the Commonwealth of Puerto Rico, and the Commonwealth of the Northern Mariana Islands.
+
+  (B) *Benefits issued by covered Indian Tribal organizations* — Summer EBT benefits issued pursuant to subsection (a) by a covered Indian Tribal organization may only be used by the eligible household that receives such summer EBT benefits to purchase supplemental foods from vendors that have been approved for participation in the special supplemental nutrition program for women, infants, and children under [section 1786 of this title](./chapter-13a-child-nutrition.md#section-1786).
+
+(2) **Amount** — Summer EBT benefits issued pursuant to subsection (a)—
+
+  (A) shall be—
+
+    (i) for calendar year 2024, in an amount equal to $40, which may be proportionately higher consistent with the adjustments established under [section 1760(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1760/f&num=0&edition=prelim) for each eligible child in the eligible household per month during the summer operational period; and
+
+    (ii) for calendar year 2025 and each year thereafter, in an amount equal to the unrounded benefit amount from the prior year, adjusted to the nearest lower dollar increment to reflect changes to the cost of the diet described in section 3(u) of the Food and Nutrition Act of 2008 ([7 U.S.C. 2012(u)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012/u&num=0&edition=prelim)) for the 12-month period ending on November 30 of the preceding calendar year and rounded to the nearest lower dollar increment; and
+
+  (B) may be issued—
+
+    (i) in the form of an EBT card;
+
+    (ii) through other electronic methods, as determined by the Secretary; or
+
+    (iii) in the case of a State that does not issue nutrition assistance program benefits electronically, using the same methods by which that State issues benefits under the nutrition assistance program of that State.
+
+(3) **Enforcement** — Summer EBT benefits issued pursuant to subsection (a) shall—
+
+  (A) be subject to sections 12, 14, and 15 of the Food and Nutrition Act of 2008 ([7 U.S.C. 2021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2021&num=0&edition=prelim), 2023, 2024) and subsections (n), (o), and (p) of [section 1786 of this title](./chapter-13a-child-nutrition.md#section-1786), as applicable; and
+
+  (B) to the maximum extent practicable, incorporate technology tools consistent with industry standards that track or prevent theft of benefits, cloning, or other fraudulent activities.
+
+(4) **Timing**
+
+  (A) *In general* — Except as provided in subparagraph (B), summer EBT benefits issued pursuant to subsection (a) may only be issued for the purpose of purchasing food during the summer months, with appropriate issuance and expungement timelines as determined by the Secretary (but with an expungement timeline not to exceed 4 months).
+
+  (B) *Continuous school calendar* — In the case of children who are under a continuous school calendar, the Secretary shall establish alternative plans for the period during which summer EBT benefits may be issued pursuant to subsection (a) and used.
+
+**(c) Enrollment in program**
+
+(1) **State requirements** — States that elect to participate in the program under this section shall—
+
+  (A) with respect to summer, automatically enroll each eligible child who is directly certified, is an identified student (as defined in [section 1759a(a)(1)(F)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1759a/a/1/F/i&num=0&edition=prelim)), or is otherwise determined by a school food authority to be eligible to receive free or reduced price meals in the instructional year immediately preceding the summer or during the summer operational period in the program under this section, without further application from households;
+
+  (B) make an application available for children who do not meet the criteria described in subparagraph (A) and make eligibility determinations using the eligibility criteria for free or reduced price lunches under this chapter;
+
+  (C) establish procedures to carry out the enrollment described in subparagraph (A);
+
+  (D) establish procedures for expunging summer EBT benefits from the account of a household, consistent with the requirements under subsection (b)(4); and
+
+  (E) allow eligible households to opt out of participation in the program under this section and establish procedures for opting out of such participation.
+
+(2) **Covered Indian Tribal organization requirements** — Covered Indian Tribal organizations participating in the program under this section shall, to the maximum extent practicable, meet the requirements under paragraph (1).
+
+**(d) Administrative expenses** The Secretary shall pay to each State agency and covered Indian Tribal organization an amount equal to 50 percent of the administrative expenses incurred by the State agency or covered Indian Tribal organization in operating the program under this section, including the administrative expenses of local educational agencies and other agencies in each State or covered Indian Tribal organization relating to the operation of the program under this section.
+
+**(e) Summer EBT authority** Beginning in summer 2024, the Secretary shall not allow States to use the authority in section 749(g) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2010 (Public Law 111–80; 123 Stat. 2132), to provide access to food through electronic benefit transfer benefits to children during the summer months when schools are not in regular session.
+
+**(f) Issuance of interim final regulations** Not later than 1 year after December 29, 2022, the Secretary shall promulgate regulations (which shall include interim final regulations) to carry out this section, including provisions that—
+
+(1) incorporate best practices and lessons learned from demonstration projects under—
+
+  (A) section 749(g) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2010 (Public Law 111–80; 123 Stat. 2132); and
+
+  (B) the pandemic EBT program under section 1101 of the Families First Coronavirus Response Act ([7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) note; Public Law 116–127);
+
+(2) ensure timely and fair service to applicants for and recipients of benefits under this section;
+
+(3) establish quality assurance and program integrity procedures to ensure that States and local educational agencies have adequate processes—
+
+  (A) to correctly determine the eligibility of children for benefits under this section; and
+
+  (B) to reliably enroll and issue benefits to eligible children; and
+
+(4) allow States and covered Indian Tribal organizations to streamline program administration, including by—
+
+  (A) automatically enrolling each eligible child who is able to be directly certified; and
+
+  (B) establishing a single summer operational period.
+
+**(g) Administrative and management plan** Beginning in 2024, each State desiring to participate in the program under this section shall comply with the requirements under [section 1761(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1761/n&num=0&edition=prelim).
+
+**(h) Definitions** In this section:
+
+(1) **Covered Indian Tribal organization** — The term “covered Indian Tribal organization” means an Indian Tribal organization that participates in the special supplemental nutrition program for women, infants, and children established under [section 1786 of this title](./chapter-13a-child-nutrition.md#section-1786).
+
+(2) **Eligible child** — The term “eligible child” means, with respect to a summer, a child who—
+
+  (A) was, at the end of the instructional year immediately preceding such summer or during the summer operational period—
+
+    (i) certified to receive free or reduced price lunch under the school lunch program under this chapter;
+
+    (ii) certified to receive free or reduced price breakfast under the school breakfast program under [section 1773 of this title](./chapter-13a-child-nutrition.md#section-1773); or
+
+    (iii) able to be directly certified;
+
+  (B) was, at the end of the instructional year immediately preceding such summer—
+
+    (i) enrolled in a school described in subparagraph (B), (C), (D), (E), or (F) of [section 1759a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1759a/a/1&num=0&edition=prelim); and
+
+    (ii)
+
+      (I) an identified student (as defined in [section 1759a(a)(1)(F)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1759a/a/1/F/i&num=0&edition=prelim)); or
+
+      (II) a child who otherwise met the requirements to receive free or reduced price meals, as determined through an application process using the eligibility criteria for free or reduced price meals under this chapter; or
+
+  (C) has been determined to be eligible for the program under this section in accordance with subsection (c)(1)(B).
+
+(3) **Eligible household** — The term “eligible household” means a household that includes at least 1 eligible child.
+
+(4) **Supplemental foods** — The term “supplemental foods”—
+
+  (A) means foods—
+
+    (i) containing nutrients determined by nutritional research to be lacking in the diets of children; and
+
+    (ii) that promote the health of the population served by the program under this section, as indicated by relevant nutrition science, public health concerns, and cultural eating patterns, as determined by the Secretary; and
+
+  (B) includes foods not described in subparagraph (A) substituted by State agencies, with the approval of the Secretary, that—
+
+    (i) provide the nutritional equivalent of foods described in such subparagraph; and
+
+    (ii) allow for different cultural eating patterns than foods described in such subparagraph.
 
 ### Statutory Notes
 
-Section, act June 4, 1946, ch. 281, § 13A, as added Mar. 12, 1970, Pub. L. 91–207, 84 Stat. 51, related to emergency assistance to provide nutritious meals to needy children in schools.
+#### References in Text
+The Food and Nutrition Act of 2008, referred to in subsec. (b)(1)(A), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+
+Section 749(g) of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2010, referred to in subsecs. (e) and (f)(1)(A), is section 749(g) of Pub. L. 111–80, Oct. 21, 2009, 123 Stat. 2132, which is not classified to the Code.
+
+#### Prior Provisions
+A prior section 1762, act June 4, 1946, ch. 281, § 13A, as added Mar. 12, 1970, Pub. L. 91–207, 84 Stat. 51, related to emergency assistance to provide nutritious meals to needy children in schools, prior to repeal by Pub. L. 101–147, title III, § 308, Nov. 10, 1989, 103 Stat. 915.
+
+#### No Duplication of Summer Benefits
+Pub. L. 117–328, div. HH, title IV, § 502(e), Dec. 29, 2022, 136 Stat. 5994, provided that: “A State may not provide to a household summer EBT benefits (as described in section 13A(a) of the Richard B. Russell National School Lunch Act [[42 U.S.C. 1762(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1762/a&num=0&edition=prelim)]) under that section and benefits under section 1101(i) of the Families First Coronavirus Response Act ([7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) note; Public Law 116–127) for the same period.”
 
 
 <a id="section-1762a"></a>
@@ -5194,7 +5428,7 @@ Section 1768, act June 4, 1946, ch. 281, § 19, as added Oct. 7, 1975, Pub. L. 9
 
 **(d) to (f) Repealed. Pub. L. 111–296, title IV, § 441(a)(11)–(13), Dec. 13, 2010, 124 Stat. 3264**
 
-**(g) Access to local foods: farm to school program**
+**(g) Access to local foods: Patrick Leahy Farm to School Program**
 
 (1) **Definition of eligible school** — In this subsection, the term “eligible school” means a school or institution that participates in a program under this chapter or the school breakfast program established under [section 1773 of this title](./chapter-13a-child-nutrition.md#section-1773).
 
@@ -5414,6 +5648,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 A prior section 18 of act June 4, 1946, which was classified to [section 1767 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1767&num=0&edition=prelim), was repealed.
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–328 substituted “Access to local foods: Patrick Leahy Farm to School Program” for “Access to local foods: farm to school program” in heading.
+
 2010—Subsec. (a). Pub. L. 111–296, § 441(a)(9), struck out subsec. (a) which related to pilot projects for administration of child nutrition programs by contract or direct disbursement.
 
 Subsec. (c). Pub. L. 111–296, § 441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted “The Secretary may conduct” for “In addition to the pilot projects described in this subsection, the Secretary may conduct other”, and struck out former pars. (1) and (2) which related to certain pilot programs.
@@ -5584,6 +5820,9 @@ Pub. L. 102–512, title I, § 104, Oct. 24, 1992, 106 Stat. 3364, provided that
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 95–627, set out as a note under [section 1755 of this title](./chapter-013-school-lunch-programs.md#section-1755).
 
+#### Funding for Pilot Projects To Award Grants for Tribal School Lunch Programs
+Pub. L. 118–42, div. B, title VII, § 758, Mar. 9, 2024, 138 Stat. 114, provided that: “(a) For an additional amount for the Office of the Secretary, $2,000,000, to remain available until expended, for the Secretary of Agriculture to carry out no more than 10 pilot projects, under the terms and conditions determined by the Secretary for a period not to exceed 2 years, that award grants to an Indian tribe; a tribal organization approved by an Indian tribe; a tribal educational agency; a consortium of Indian tribes; or a partnership between an Indian tribe and either a State educational agency, a local educational agency, a tribal educational agency, or the Bureau of Indian Education to operate and implement the school lunch program as authorized by [section 18 of] the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769](./chapter-013-school-lunch-programs.md#section-1769)), the summer food service program as established under section 13 of the Richard B. Russell National School Lunch Act [[42 U.S.C. 1761](./chapter-013-school-lunch-programs.md#section-1761)], the child and adult care food program as established by section 17 of the Richard B. Russell National School Lunch Act [[42 U.S.C. 1766](./chapter-013-school-lunch-programs.md#section-1766)], or the school breakfast program established by [section 4 of] the Child Nutrition Act of 1966 ([42 U.S.C. 1773](./chapter-13a-child-nutrition.md#section-1773)) in either a Bureau-funded school (as defined in section 1141 of the Education Amendments of 1978 ([25 U.S.C. 2021](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021&num=0&edition=prelim))); a school (as defined in section 12(d) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1760(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1760/d&num=0&edition=prelim)) on or near an Indian reservation; or an early child care and education facility: Provided, That to carry out this pilot program each grant awarded shall be no less than $10,000 and no more than $100,000 for each school year and shall not increase state administrative costs or the amount of benefits provided in any program: Provided further, That the term ‘Indian tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(b) Notwithstanding any other provision of law, a pilot project grant recipient shall be reimbursed for meals served under the school lunch program, the summer food service program, and the child and adult care food program as if the recipient were a State under the Richard B. Russell National School Lunch Act [[42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.]; and under the school breakfast program as if the recipient were a State educational agency. “(c) Not later than 1 year after the conclusion of the pilot program, the Secretary shall submit to Congress a report on the outcomes of the pilot program.”
+
 #### Other Demonstration Projects for Feeding Homeless Children
 Pub. L. 102–342, title I, § 101(b), Aug. 14, 1992, 106 Stat. 911, as amended by Pub. L. 105–336, title I, § 109(c)(2), Oct. 31, 1998, 112 Stat. 3157, provided that: “The Secretary of Agriculture may conduct demonstration projects to identify effective means of providing food assistance to homeless children residing in temporary shelters.”
 
@@ -5714,13 +5953,16 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 #### Prior Provisions
 A prior section 1769a, act June 4, 1946, ch. 281, § 19, formerly § 21, as added Nov. 10, 1977, Pub. L. 95–166, § 13, 91 Stat. 1338; renumbered § 19, Oct. 18, 1986, Pub. L. 99–500, title III, § 371(c)(1), 100 Stat. 1783–368, and Oct. 30, 1986, Pub. L. 99–591, title III, § 371(c)(1), 100 Stat. 3341–372; renumbered § 19, Nov. 14, 1986, Pub. L. 99–661, div. D, title V, § 4501(c)(1), 100 Stat. 4080; Nov. 10, 1989, Pub. L. 101–147, title I, § 108, 103 Stat. 887; Nov. 2, 1994, Pub. L. 103–448, title I, § 119, 108 Stat. 4726, directed Secretary to reduce paperwork required in carrying out functions under this chapter and under the Child Nutrition Act of 1966 ([42 U.S.C. 1771](./chapter-13a-child-nutrition.md#section-1771) et seq.), prior to repeal by Pub. L. 104–193, title VII, § 710, Aug. 22, 1996, 110 Stat. 2301.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
 Section effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as an Effective Date of 2008 Amendment note under [section 1161 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1161&num=0&edition=prelim), The Congress.
 
 #### Pilot Project for Canned, Frozen, or Dried Fruits and Vegetables
-Pub. L. 113–79, title IV, § 4214, Feb. 7, 2014, 128 Stat. 831, provided that: “(a) In General.—Subject to subsection (b), in the 2014–2015 school year, the Secretary [of Agriculture] shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769a](./chapter-013-school-lunch-programs.md#section-1769a)) (referred to in this section as the “Program”), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program. “(b) Requirements.—Not later than 60 days after the date of enactment of this Act [Feb. 14, 2014], the Secretary shall establish criteria for the conditions under which canned, frozen, or dried fruits and vegetables may be offered, which shall be in accordance with the most recent Dietary Guidelines for Americans published under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 ([7 U.S.C. 5341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5341&num=0&edition=prelim)). “(c) Evaluation.—With respect to the pilot project, the Secretary shall evaluate—“(1) the impacts on fruit and vegetable consumption at the schools participating in the pilot project; “(2) the impacts of the pilot project on school participation in the Program and operation of the Program; “(3) the implementation strategies used by the schools participating in the pilot project; “(4) the acceptance of the pilot project by key stakeholders; and “(5) such other outcomes as are determined by the Secretary. “(d) Reports.—“(1) Interim report.—Not later than January 1, 2015, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c). “(2) Final report.—On completion of the pilot project, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c). “(e) Notice of Availability.—As soon as practicable after the date on which the Secretary establishes the criteria for the pilot project under subsection (b), the Secretary shall notify potentially eligible schools of the potential eligibility of the schools for participation in the pilot project. “(f) Relationship to Fresh Fruit and Vegetable Program.—Nothing in this section permits a school that is not a part of the pilot project to offer anything other than fresh fruits and vegetables through the Program. “(g) Funding.—The Secretary shall use $5,000,000 of amounts otherwise made available to the Secretary to carry out this section.”
+Pub. L. 113–79, title IV, § 4214, Feb. 7, 2014, 128 Stat. 831, provided that: “(a) In General.—Subject to subsection (b), in the 2014–2015 school year, the Secretary [of Agriculture] shall carry out a pilot project in schools participating in the Fresh Fruit and Vegetable Program under section 19 of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769a](./chapter-013-school-lunch-programs.md#section-1769a)) (referred to in this section as the “Program”), in not less than 5 States, to evaluate the impact of allowing schools to offer canned, frozen, or dried fruits and vegetables as part of the Program. “(b) Requirements.—Not later than 60 days after the date of enactment of this Act [Feb. 14, 2014], the Secretary shall establish criteria for the conditions under which canned, frozen, or dried fruits and vegetables may be offered, which shall be in accordance with the most recent Dietary Guidelines for Americans published under section 301 of the National Nutrition Monitoring and Related Research Act of 1990 ([7 U.S.C. 5341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section5341&num=0&edition=prelim)). “(c) Evaluation.—With respect to the pilot project, the Secretary shall evaluate—“(1) the impacts on fruit and vegetable consumption at the schools participating in the pilot project; “(2) the impacts of the pilot project on school participation in the Program and operation of the Program; “(3) the implementation strategies used by the schools participating in the pilot project; “(4) the acceptance of the pilot project by key stakeholders; and “(5) such other outcomes as are determined by the Secretary. “(d) Reports.—“(1) Interim report.—Not later than January 1, 2015, the Secretary shall submit to the Committee on Education and [the] Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c). “(2) Final report.—On completion of the pilot project, the Secretary shall submit to the Committee on Education and [the] Workforce of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of the evaluation under subsection (c). “(e) Notice of Availability.—As soon as practicable after the date on which the Secretary establishes the criteria for the pilot project under subsection (b), the Secretary shall notify potentially eligible schools of the potential eligibility of the schools for participation in the pilot project. “(f) Relationship to Fresh Fruit and Vegetable Program.—Nothing in this section permits a school that is not a part of the pilot project to offer anything other than fresh fruits and vegetables through the Program. “(g) Funding.—The Secretary shall use $5,000,000 of amounts otherwise made available to the Secretary to carry out this section.”
 
 #### Transition of Existing Schools
 Pub. L. 110–234, title IV, § 4304(a)(2), May 22, 2008, 122 Stat. 1130, and Pub. L. 110–246, § 4(a), title IV, § 4304(a)(2), June 18, 2008, 122 Stat. 1664, 1891, provided that: “(A) Existing secondary schools.—Section 19(d)(1)(C) of the Richard B. Russell National School Lunch Act [[42 U.S.C. 1769a(d)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769a/d/1/C&num=0&edition=prelim)] (as amended by paragraph (1)) may be waived by a State until July 1, 2010, for each secondary school in the State that has been awarded funding under section 18(f) of that Act ([42 U.S.C. 1769(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769/f&num=0&edition=prelim)) for the school year beginning July 1, 2008. “(B) School year beginning july 1, 2008.—To facilitate transition from the program authorized under section 18(f) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1769(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769/f&num=0&edition=prelim)) (as in effect on the day before the date of enactment of this Act [June 18, 2008]) to the program established under section 19 of that Act [[42 U.S.C. 1769a](./chapter-013-school-lunch-programs.md#section-1769a)] (as amended by paragraph (1))—“(i) for the school year beginning July 1, 2008, the Secretary [of Agriculture] may permit any school selected for participation under section 18(f) of that Act ([42 U.S.C. 1769(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769/f&num=0&edition=prelim)) for that school year to continue to participate under section 19 of that Act [[42 U.S.C. 1769a](./chapter-013-school-lunch-programs.md#section-1769a)] until the end of that school year; and “(ii) funds made available under that Act [[42 U.S.C. 1751](./chapter-013-school-lunch-programs.md#section-1751) et seq.] for fiscal year 2009 may be used to support the participation of any schools selected to participate in the program authorized under section 18(f) of that Act ([42 U.S.C. 1769(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1769/f&num=0&edition=prelim)) (as in effect on the day before the date of enactment of this Act [June 18, 2008]).”
@@ -6332,6 +6574,9 @@ The Emergency Food Assistance Act of 1983, referred to in subsec. (b)(7)(D)(iv)(
 #### Prior Provisions
 A prior section 1769d, act June 4, 1946, ch. 281, § 23, as added Nov. 10, 1989, Pub. L. 101–147, title I, § 111, 103 Stat. 890, directed Secretary to provide each appropriate State agency with information on income eligibility for free or reduced price meals under each program established under this chapter and the Child Nutrition Act of 1966, prior to repeal by Pub. L. 104–193, title VII, § 711, Aug. 22, 1996, 110 Stat. 2301.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
 
@@ -6468,6 +6713,9 @@ The Emergency Food Assistance Act of 1983, referred to in subsec. (g)(3)(D)(iv),
 #### Prior Provisions
 A prior section 1769e, act June 4, 1946, ch. 281, § 24, as added Nov. 10, 1989, Pub. L. 101–147, title I, § 112, 103 Stat. 890, related to nutrition guidance for child nutrition programs, prior to repeal by Pub. L. 104–193, title VII, § 712, Aug. 22, 1996, 110 Stat. 2301.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 Section effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as an Effective Date of 2010 Amendment note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
 
@@ -6580,6 +6828,9 @@ Section effective Oct. 1, 2010, except as otherwise specifically provided, see s
 #### Amendments
 1998—Subsec. (b)(1)(D) to (G). Pub. L. 105–336 redesignated subpars. (E) to (G) as (D) to (F), respectively, and struck out former subpar. (D) which read as follows: “the homeless children nutrition program established under [section 1766b of this title](./chapter-013-school-lunch-programs.md#section-1766b);”.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–336 effective July 1, 1999, see section 107(j)(4) of Pub. L. 105–336, set out as a note under [section 1761 of this title](./chapter-013-school-lunch-programs.md#section-1761).
 
@@ -6618,12 +6869,16 @@ Pub. L. 103–448, title I, § 122(c), Nov. 2, 1994, 108 Stat. 4731, provided th
 
 **(c) Audits** The Secretary shall establish fair and reasonable auditing procedures regarding the expenditures of funds to carry out this section.
 
-**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2023. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
+**(d) Funding** Out of any moneys in the Treasury not otherwise appropriated, the Secretary of the Treasury shall pay to the Secretary to provide to the organization selected under this section, to establish and maintain the information clearinghouse, $200,000 for each of fiscal years 1995 and 1996, $150,000 for fiscal year 1997, $100,000 for fiscal year 1998, $166,000 for each of fiscal years 1999 through 2004, and $250,000 for each of fiscal years 2010 through 2025. The Secretary shall be entitled to receive the funds and shall accept the funds, without further appropriation.
 
 ### Statutory Notes
 
 #### Amendments
-2022—Subsec. (d). Pub. L. 117–103 substituted “2010 through 2023” for “2010 through 2022”.
+2024—Subsec. (d). Pub. L. 118–42 substituted “2010 through 2025” for “2010 through 2024”.
+
+2022—Subsec. (d). Pub. L. 117–328 substituted “2010 through 2024” for “2010 through 2023”.
+
+Pub. L. 117–103 substituted “2010 through 2023” for “2010 through 2022”.
 
 2020—Subsec. (d). Pub. L. 116–260 substituted “2010 through 2022” for “2010 through 2021”.
 

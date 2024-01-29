@@ -2,7 +2,7 @@
 title: 20
 chapter: '70'
 heading: STRENGTHENING AND IMPROVEMENT OF ELEMENTARY AND SECONDARY SCHOOLS
-section_count: 368
+section_count: 370
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20&num=0&edition=prelim
 ---
@@ -171,6 +171,11 @@ Pub. L. 114–95, § 5, Dec. 10, 2015, 129 Stat. 1806, provided that: “(a) In 
 
 #### Effective Date
 Pub. L. 107–110, § 5, Jan. 8, 2002, 115 Stat. 1427, provided that: “(a) In General.—Except as otherwise provided in this Act [see Tables for classification], this Act, and the amendments made by this Act, shall be effective upon the date of enactment of this Act [Jan. 8, 2002]. “(b) Noncompetitive Programs.—With respect to noncompetitive programs under which any funds are allotted by the Secretary of Education to recipients on the basis of a formula, this Act, and the amendments made by this Act, shall take effect on July 1, 2002. “(c) Competitive Programs.—With respect to programs that are conducted by the Secretary on a competitive basis, this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under those programs for fiscal year 2002. “(d) Impact Aid.—With respect to title VIII (Impact Aid) [probably meant title VIII (now VII) of Pub. L. 89–10, [20 U.S.C. 7701](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7701) et seq.], this Act, and the amendments made by this Act, shall take effect with respect to appropriations for use under that title for fiscal year 2002.”
+
+#### Short Title of 2023 Amendment
+Pub. L. 118–17, § 1, Oct. 6, 2023, 137 Stat. 102, provided that: “This Act [amending [section 7906 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7906)] may be cited as the ‘Protecting Hunting Heritage and Education Act’.”
+
+Pub. L. 117–335, § 1, Jan. 5, 2023, 136 Stat. 6143, provided that: “This Act [enacting [section 7457 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7457)] may be cited as the ‘Native American Language Resource Center Act of 2022’.”
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–211, § 1, Dec. 4, 2020, 134 Stat. 1017, provided that: “This Act [enacting provisions set out as notes under sections 6393 and 7705 of this title] may be cited as the ‘Impact Aid Coronavirus Relief Act’.”
@@ -1613,9 +1618,6 @@ A prior section 1111 of Pub. L. 89–10 was classified to [section 2768 of this 
 
 2002—Subsec. (c)(2). Pub. L. 107–279 substituted “[section 9622(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9622/b/2&num=0&edition=prelim)” for “[section 9010(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9010/b/2&num=0&edition=prelim)”.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
@@ -2782,7 +2784,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
 (1) **Funds reserved** — From the amount made available for any fiscal year under subsection (a)(1), the Secretary shall—
 
-  (A) first reserve $1,000,000 for the Republic of Palau, until Palau enters into an agreement for extension of United States educational assistance under the Compact of Free Association, and subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134, permitting the consolidation of grants, shall not apply; and
+  (A) first reserve $1,000,000 for the Republic of Palau, subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134, permitting the consolidation of grants, shall not apply; and
 
   (B) use the remaining funds to award grants to the outlying areas in accordance with paragraphs (2) through (5).
 
@@ -2831,6 +2833,8 @@ Public Law 95–134, referred to in subsec. (b)(1)(A), is Pub. L. 95–134, Oct.
 A prior section 6331, Pub. L. 89–10, title I, § 1121, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3561, related to grants for outlying areas and the Secretary of the Interior, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
+2024—Subsec. (b)(1)(A). Pub. L. 118–42 added subpar. (A) and struck out former subpar. (A) which read as follows: “first reserve $1,000,000 for the Republic of Palau, until Palau enters into an agreement for extension of United States educational assistance under the Compact of Free Association, and subject to such terms and conditions as the Secretary may establish, except that Public Law 95–134, permitting the consolidation of grants, shall not apply; and”.
+
 2015—Pub. L. 114–95 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to reservation of one percent of funds for assistance to outlying areas and the Secretary of the Interior, grants to outlying areas, definitions, and allotment to the Secretary of the Interior to meet special educational needs of Indian children.
 
 #### Effective Date of 2015 Amendment
@@ -5576,7 +5580,7 @@ Section effective Dec. 10, 2015, except with respect to certain noncompetitive p
 
 (4) **Process** — Such process—
 
-  (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.); and
+  (A) shall not be subject to chapter 10 of title 5; and
 
   (B) shall, unless otherwise provided as described in subsection (c), follow the provisions of subchapter III of chapter 5 of title V 11 So in original. Probably should be “5”. (commonly known as the “Negotiated Rulemaking Act of 1990”).
 
@@ -5614,15 +5618,14 @@ Section effective Dec. 10, 2015, except with respect to certain noncompetitive p
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(4)(A), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 1601 of Pub. L. 89–10 was classified to [section 6511 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6511&num=0&edition=prelim), prior to repeal by Pub. L. 114–95.
 
 Another prior section 1601 of Pub. L. 89–10 was classified to [section 6511 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6511&num=0&edition=prelim), prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Amendments
+2022—Subsec. (b)(4)(A). Pub. L. 117–286 substituted “chapter 10 of title 5;” for “the Federal Advisory Committee Act (5 U.S.C. App.);”.
+
 2015—Subsec. (a). Pub. L. 114–95, § 1601(a)(1), inserted “, in accordance with subsections (b) through (d) and subject to [section 6311(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/e&num=0&edition=prelim),” after “may issue”.
 
 Subsec. (b)(1). Pub. L. 114–95, § 1601(a)(2)(A), inserted “principals, other school leaders (including charter school leaders),” after “teachers,”.
@@ -5642,9 +5645,6 @@ Subsec. (b)(5). Pub. L. 114–95, § 1601(a)(2)(E), struck out par. (5). Text re
 Subsecs. (c), (d). Pub. L. 114–95, § 1601(a)(3)–(5), added subsec. (c), redesignated former subsec. (c) as (d), and in subsec. (d) substituted “this subchapter” for “this part”.
 
 Subsec. (e). Pub. L. 114–95, § 1601(a)(6), added subsec. (e).
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
@@ -7001,9 +7001,6 @@ Section effective Dec. 10, 2015, except with respect to certain noncompetitive p
 #### Prior Provisions
 A prior section 6645, Pub. L. 89–10, title II, § 2205, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3622; amended Pub. L. 104–208, div. A, title I, § 101(e) [title VII, § 709(b)(3)(A)], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313, related to State applications, prior to its omission in the general amendment of this subchapter by Pub. L. 107–110.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -8181,9 +8178,6 @@ Subsec. (b)(8). Pub. L. 114–95, § 3003(i)(3)(F), substituted “of English le
 
 Subsec. (b)(9). Pub. L. 114–95, § 3003(i)(3)(G), substituted “part” for “subchapter”.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -8542,7 +8536,7 @@ Pars. (13), (14). Pub. L. 114–95, § 3004(a)(3), redesignated pars. (14) and (
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### Research Relating to Bilingual Education
-Pub. L. 100–297, title VI, § 6211, Apr. 28, 1988, 102 Stat. 429, provided that: “(a) Research and Development.—The Secretary [of Education] shall, through competitive contracts under this section, provide financial assistance for research and development proposals submitted by institutions of higher education, private for-profit and nonprofit organizations, State and local educational agencies, and individuals. “(b) Authorized Activities.—Research activities authorized to be assisted under this section shall include—“(1) studies to determine and evaluate effective models for bilingual education programs; “(2) studies which examine the process by which individuals acquire a second language and master the subject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English; “(3) longitudinal studies to measure the effect of title VII of the Elementary and Secondary Education Act of 1965 [former [20 U.S.C. 3281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3281&num=0&edition=prelim) et seq.] on students enrolled in programs under such title (including a longitudinal study of the impact of bilingual education programs on limited-English proficient students using a nationally representative sample of the programs funded under such title and which provides information including data on grade retention, academic performance, and dropout rates); “(4) studies to determine effective and reliable methods for identifying students who are entitled to services under such title and for determining when their English language proficiency is sufficiently well developed to permit them to derive optimal benefits from an all-English instructional program; “(5) the operation of a clearinghouse which shall collect, analyze, and disseminate information about bilingual education and related programs (and coordinate its activities with the National Diffusion Network); “(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English; “(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students; “(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students; “(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this [such] title; and “(10) studies to determine effective and reliable methods for identifying gifted and talented students who have language proficiencies other than English. “(c) Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate, and the Committee on Education and Labor of the House of Representatives. “(d) Publication of Proposals.—The Secretary shall publish and disseminate all requests for proposals in research and development assisted under such title. “(e) Limitation of Authority.—Nothing in this section shall be construed as authorizing the Secretary to conduct or support studies or analyses of the content of educational textbooks.”
+Pub. L. 100–297, title VI, § 6211, Apr. 28, 1988, 102 Stat. 429, provided that: “(a) Research and Development.—The Secretary [of Education] shall, through competitive contracts under this section, provide financial assistance for research and development proposals submitted by institutions of higher education, private for-profit and nonprofit organizations, State and local educational agencies, and individuals. “(b) Authorized Activities.—Research activities authorized to be assisted under this section shall include—“(1) studies to determine and evaluate effective models for bilingual education programs; “(2) studies which examine the process by which individuals acquire a second language and master the subject matter skills required for grade-promotion and graduation, and which identify effective methods for teaching English and subject matter skills within the context of a bilingual education program or special alternative instructional program to students who have language proficiencies other than English; “(3) longitudinal studies to measure the effect of title VII of the Elementary and Secondary Education Act of 1965 [former [20 U.S.C. 3281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3281&num=0&edition=prelim) et seq.] on students enrolled in programs under such title (including a longitudinal study of the impact of bilingual education programs on limited-English proficient students using a nationally representative sample of the programs funded under such title and which provides information including data on grade retention, academic performance, and dropout rates); “(4) studies to determine effective and reliable methods for identifying students who are entitled to services under such title and for determining when their English language proficiency is sufficiently well developed to permit them to derive optimal benefits from an all-English instructional program; “(5) the operation of a clearinghouse which shall collect, analyze, and disseminate information about bilingual education and related programs (and coordinate its activities with the National Diffusion Network); “(6) studies to determine effective methods of teaching English to adults who have language proficiencies other than English; “(7) studies to determine and evaluate effective methods of instruction for bilingual programs, taking into account language and cultural differences among students; “(8) studies to determine effective approaches to preservice and inservice training for teachers, taking into account the language and cultural differences of their students; “(9) the effect of such title on the capacity of local educational agencies to operate bilingual programs following the termination of assistance under this [such] title; and “(10) studies to determine effective and reliable methods for identifying gifted and talented students who have language proficiencies other than English. “(c) Consultation and Delegation of Authority.—In carrying out the responsibilities of this section, the Secretary may delegate authority to the Director, and in any event, shall consult with the Director, representatives of State and local educational agencies, appropriate groups and organizations involved in bilingual education, the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate, and the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives. “(d) Publication of Proposals.—The Secretary shall publish and disseminate all requests for proposals in research and development assisted under such title. “(e) Limitation of Authority.—Nothing in this section shall be construed as authorizing the Secretary to conduct or support studies or analyses of the content of educational textbooks.”
 
 #### Information Regarding Bilingual Education
 Pub. L. 100–297, title VI, § 6213, Apr. 28, 1988, 102 Stat. 429, as amended by Pub. L. 104–66, title I, § 1042(a), Dec. 21, 1995, 109 Stat. 715, provided that: “The Secretary [of Education] shall collect data for program management and accountability purposes regarding— “(1) a national assessment of the educational needs of children and other persons with limited English proficiency and of the extent to which such needs are being met from Federal, State, and local efforts; “(2) a plan, including cost estimates, to be carried out during the 5-year period beginning on such date [sic], for extending programs of bilingual education and bilingual vocational and adult education programs to all such preschool and elementary schoolchildren and other persons of limited English proficiency, including a phased plan for the training of the necessary teachers and other education personnel necessary for such purpose; “(3) a statement of the activities intended to be carried out during the succeeding period, including an estimate of the cost of such activities; and “(4)(A) an assessment of the number of teachers and other educational personnel needed to carry out programs of bilingual education under such title [sic] and those carried out under other programs for persons of limited English proficiency; “(B) a statement describing the activities carried out thereunder designed to prepare teachers and other educational personnel for such programs; and “(C) the number of other educational personnel needed to carry out programs of bilingual education in the States.”
@@ -12437,9 +12431,6 @@ The Head Start Act, referred to in subsec. (a)(4)(B), is subchapter B (§ 635 et
 
 The Child Care and Development Block Grant Act of 1990, referred to in subsec. (a)(4)(B), is subchapter C (§ 658A et seq.) of chapter 8 of subtitle A of title VI of Pub. L. 97–35, as added by Pub. L. 101–508, title V, § 5082(2), Nov. 5, 1990, 104 Stat. 1388–236, which is classified generally to subchapter II–B (§ 9857 et seq.) of chapter 105 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 9857(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9857/a&num=0&edition=prelim) and Tables.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date
 Section effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -13952,8 +13943,6 @@ Subsec. (o)(1). Pub. L. 114–95, § 6002(h)(2)(A), substituted “December 10, 
 Subsec. (o)(2). Pub. L. 114–95, § 6002(h)(2)(B), substituted “December 10, 2015” for “January 8, 2002” and struck out last sentence which read as follows: “Such report shall identify statutory barriers to the ability of participants to integrate more effectively their education and related services to Indian students in a manner consistent with the objectives of this section.”
 
 #### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Effective Date of 2015 Amendment
@@ -14623,8 +14612,8 @@ A prior section 7454, Pub. L. 89–10, title VII, § 7134, as added Pub. L. 103�
 Repeal effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 
-<a id="section-7471"></a>
-## § 7471. Transferred
+<a id="section-7457"></a>
+## § 7457. Transferred
 
 ### Statutory Notes
 
@@ -14635,8 +14624,8 @@ Section, Pub. L. 89–10, title VII, § 7135, as added Pub. L. 107–110, title 
 A prior section 7455, Pub. L. 89–10, title VII, § 7135, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3731, established National Clearinghouse for Bilingual Education, prior to the general amendment of former subchapter VII of this chapter by Pub. L. 107–110.
 
 
-<a id="section-7472"></a>
-## § 7472. Repealed. Pub. L. 114–95, title VI, § 6002(q), Dec. 10, 2015, 129 Stat. 2062
+<a id="section-7471"></a>
+## § 7471. Repealed. Pub. L. 114–95, title VI, § 6002(q), Dec. 10, 2015, 129 Stat. 2062
 
 ### Statutory Notes
 
@@ -14646,6 +14635,101 @@ A prior section 7456, Pub. L. 89–10, title VII, § 7136, as added Pub. L. 103�
 
 #### Effective Date of Repeal
 Repeal effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as an Effective Date of 2015 Amendment note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
+
+<a id="section-7472"></a>
+## § 7472. Native American language resource centers
+**(a) Purpose** The purpose of this Act is to further align the resources provided by the Department of Education with the policies set forth in the Native American Languages Act ([25 U.S.C. 2901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2901&num=0&edition=prelim) et seq.) through establishment of a program within the Department of Education to support 1 or more Native American language resource centers.
+
+**(b) In general** The Secretary of Education is authorized to make a grant to, or enter into a contract with, an eligible entity for the purpose of—
+
+(1) establishing, strengthening, and operating a Native American language resource center; and
+
+(2) staffing the center with individuals with relevant expertise and experience, including staff who speak American Indian and Alaska Native languages and the Native Hawaiian language and have worked in language education in the American Indian and Alaska Native languages and the Native Hawaiian language in a preschool, elementary school, secondary school, adult education, or higher education program.
+
+**(c) Authorized activities** The Native American language resource center established under subsection (b) shall carry out activities to—
+
+(1) improve the capacity to teach and learn Native American languages;
+
+(2) further Native American language use and acquisition;
+
+(3) preserve, protect, and promote the rights and freedom of Native Americans to use, practice, and develop Native American languages in furtherance of—
+
+  (A) the policies set forth in the Native American Languages Act ([25 U.S.C. 2901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2901&num=0&edition=prelim) et seq.); and
+
+  (B) the United States trust responsibility to Native American communities;
+
+(4) address the effects of past discrimination and ongoing inequities experienced by Native American language speakers;
+
+(5) support the revitalization and reclamation of Native American languages; and
+
+(6) support the use of Native American languages as a medium of instruction for a wide variety of age levels, academic content areas, and types of schools, including Native American language medium education.
+
+**(d) Additional authorized activities** The Native American language resource center established under subsection (b) may also carry out activities—
+
+(1) to encourage and support the use of Native American languages within educational systems in the same manner as other world languages, including by encouraging State educational agencies, local educational agencies, and institutions of higher education to offer Native American language courses the same full academic credit as courses in other world languages;
+
+(2) to support the development, adoption, and use of educational outcome metrics aligned with the Native American language of instruction, including assessments, qualifications, and processes based on promising practices in Native American language medium education;
+
+(3) to provide assistance to Native American language programs seeking Federal resources;
+
+(4) to encourage and support teacher preparation programs that prepare teachers to teach Native American languages and to use Native American languages as a medium of instruction, including by disseminating promising practices and developing pedagogical programming and through appropriate alternative pathways to teacher certification;
+
+(5) to provide information and resources—
+
+  (A) on promising practices in the use and revitalization of Native American languages in Native American communities, including use in educational institutions; and
+
+  (B) for the use of technology in school and community-based Native American language programs to support the retention, use, and teaching of Native American languages;
+
+(6) to support the use of distance learning technologies and training for parents, students, teachers, and learning support staff associated with Native American language programs, including—
+
+  (A) the compilation and curation of digital libraries and other online resources for Native American languages, except that any materials collected by the center shall only be materials provided by a Native American language program or Native American community;
+
+  (B) the development of optional distance learning curricula appropriate for preschool, elementary school, secondary school, adult education, and postsecondary education;
+
+  (C) pedagogical training for Native American language teachers; and
+
+  (D) other efforts necessary to continue Native American language acquisition through distance learning;
+
+(7) to provide technical assistance for Native American communities and school systems to develop Native American language medium education programs in preschool, elementary school, secondary school, or adult education programs conducted through the medium of Native American languages;
+
+(8) to support Native American language programs and Native American communities in—
+
+  (A) accessing international best practices, resources, and research in indigenous language revitalization; and
+
+  (B) gathering and sharing technical assistance, promising practices, and experiences;
+
+(9) for the operation of intensive programs, including summer institutes, to train Native American language speakers, to provide professional development, and to improve Native American language instruction through preservice and in-service language training for teachers; and
+
+(10) that otherwise support the Native American language resource center established under subsection (b) to carry out the activities required in subsection (c).
+
+**(e) Definitions** In this section:
+
+(1) **ESEA definitions** — The terms “elementary school”, “local educational agency”, “secondary school”, and “State educational agency” have the meanings given the terms in [section 7801 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7801).
+
+(2) **Eligible entity** — The term “eligible entity” means—
+
+  (A) an institution of higher education;
+
+  (B) an entity within an institution of higher education with dedicated expertise in Native American language and culture education; or
+
+  (C) a consortium that includes 1 or more institutions of higher education or 1 or more entities described in subparagraph (B).
+
+(3) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).
+
+(4) **Native American; Native American language** — The terms “Native American” and “Native American language” have the meanings given those terms in section 103 of the Native American Languages Act ([25 U.S.C. 2902](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2902&num=0&edition=prelim)).
+
+**(f) Authorization of appropriations** There are authorized to be appropriated to carry out this section, $3,000,000 for each fiscal year.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (a), is Pub. L. 117–335, Jan. 5, 2023, 136 Stat. 6143, known as the Native American Language Resource Center Act of 2022, which enacted this section and provisions set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
+
+The Native American Languages Act, referred to in subsecs. (a) and (c)(3)(A), is title I of Pub. L. 101–477, Oct. 30, 1990, 104 Stat. 1153, which is classified generally to chapter 31 (§ 2901 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2901&num=0&edition=prelim) and Tables.
+
+#### Codification
+Section was enacted as part of the Native American Language Resource Center Act of 2022, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
 
 
 <a id="section-7473"></a>
@@ -16885,7 +16969,97 @@ Subsec. (e)(3)(C). Pub. L. 110–181 added subpar. (C).
 Pub. L. 114–328, div. A, title V, § 572(b), Dec. 23, 2016, 130 Stat. 2141, as amended by Pub. L. 115–91, div. A, title V, § 552(b), Dec. 12, 2017, 131 Stat. 1401, provided that: “The budget justification materials that accompany any budget of the President for a fiscal year after fiscal year 2017 (as submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code) shall include, with respect to section 574(c) of the John Warner National Defense Authorization Act for Fiscal Year 2007 (Public Law 109–364; [20 U.S.C. 7703b](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703b) note [now [20 U.S.C. 7703c](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7703c)]), the following: “(1) A full accounting of the expenditure of funds pursuant to such section 574(c) during the last fiscal year ending before the date of the submittal of the budget. “(2) An assessment of the impact of the expenditure of such funds on the quality of opportunities for elementary and secondary education made available for military dependent students.”
 
 #### “Congressional Defense Committees” Defined
-For definition of “congressional defense committees”, see section 3 of Pub. L. 109–364, listed in a table under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+For definition of “congressional defense committees” as the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces, as made applicable by section 3 of Pub. L. 109–364, which is listed in a table under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
+
+
+<a id="section-7703d"></a>
+## § 7703d. Assistance to local educational agencies that benefit dependents of members of the Armed Forces with enrollment changes due to base closures, force structure changes, or force relocations
+**(a) Assistance authorized** To assist communities in making adjustments resulting from changes in the size or location of the Armed Forces, the Secretary of Defense shall provide financial assistance to an eligible local educational agency described in subsection (b) if, during the period between the end of the school year preceding the fiscal year for which the assistance is authorized and the beginning of the school year immediately preceding that school year, the local educational agency had (as determined by the Secretary of Defense in consultation with the Secretary of Education) an overall increase or reduction of—
+
+(1) not less than five percent in the average daily attendance of military dependent students in the schools of the local educational agency; or
+
+(2) not less than 500 military dependent students in average daily attendance in the schools of the local educational agency.
+
+**(b) Eligible local educational agencies** A local educational agency is eligible for assistance under subsection (a) for a fiscal year if—
+
+(1) 20 percent or more of students enrolled in schools of the local educational agency are military dependent students; and
+
+(2) in the case of assistance described in subsection (a)(1), the overall increase or reduction in military dependent students in schools of the local educational agency is the result of one or more of the following:
+
+  (A) The global rebasing plan of the Department of Defense.
+
+  (B) The official creation or activation of one or more new military units.
+
+  (C) The realignment of forces as a result of the base closure process.
+
+  (D) A change in the number of housing units on a military installation.
+
+  (E) A signed record of decision.
+
+**(c) Calculation of amount of assistance**
+
+(1) **Pro rata distribution** — The amount of the assistance provided under subsection (a) to a local educational agency that is eligible for such assistance for a fiscal year shall be equal to the product obtained by multiplying—
+
+  (A) the per-student rate determined under paragraph (2) for that fiscal year; by
+
+  (B) the net of the overall increases and reductions in the number of military dependent students in schools of the local educational agency, as determined under subsection (a).
+
+(2) **Per-student rate** — For purposes of paragraph (1)(A), the per-student rate for a fiscal year shall be equal to the dollar amount obtained by dividing—
+
+  (A) the total amount of funds made available for that fiscal year to provide assistance under subsection (a); by
+
+  (B) the sum of the overall increases and reductions in the number of military dependent students in schools of all eligible local educational agencies for that fiscal year under that subsection.
+
+(3) **Maximum amount of assistance** — A local educational agency may not receive more than $15,000,000 in assistance under subsection (a) for any fiscal year.
+
+**(d) Duration** Assistance may not be provided under subsection (a) after September 30, 2028.
+
+**(e) Notification** Not later than June 30, 2023, and June 30 of each fiscal year thereafter for which funds are made available to carry out this section, the Secretary of Defense shall notify each local educational agency that is eligible for assistance under subsection (a) for that fiscal year of—
+
+(1) the eligibility of the local educational agency for the assistance; and
+
+(2) the amount of the assistance for which the local educational agency is eligible.
+
+**(f) Disbursement of funds** The Secretary of Defense shall disburse assistance made available under subsection (a) for a fiscal year not later than 30 days after the date on which notification to the eligible local educational agencies is provided pursuant to subsection (e) for that fiscal year.
+
+**(g) Briefing required** Not later than March 1, 2023, the Secretary of Defense shall brief the Committees on Armed Services of the Senate and the House of Representatives on the estimated cost of providing assistance to local educational agencies under subsection (a) through September 30, 2028.
+
+**(h) Funding**
+
+(1) **Increase** — Notwithstanding the amounts set forth in the funding tables in division D, the amount authorized to be appropriated in section 301 for Operation and Maintenance, Defense-wide, Department of Defense Education Activity, Line 390, as specified in the corresponding funding table in section 4301, is hereby increased by $15,000,000 for purposes of this section.
+
+(2) **Offset** — Notwithstanding the amounts set forth in the funding tables in division D, the amount authorized to be appropriated in section 301 for Operation and Maintenance, Defense-wide, for Washington Headquarters Services, Line 500, as specified in the corresponding funding table in section 4301, is hereby reduced by $15,000,000.
+
+**(i) Definitions** In this section:
+
+(1) The term “base closure process” means any base closure and realignment process conducted after December 23, 2022, under [section 2687 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2687&num=0&edition=prelim) or any other similar law enacted after that date.
+
+(2) The term “local educational agency” has the meaning given that term in [section 7713(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7713/9&num=0&edition=prelim).
+
+(3) The term “military dependent students” means—
+
+  (A) elementary and secondary school students who are dependents of members of the Armed Forces; and
+
+  (B) elementary and secondary school students who are dependents of civilian employees of the Department of Defense.
+
+(4) The term “State” means each of the several States and the District of Columbia.
+
+### Statutory Notes
+
+#### References in Text
+Division D, referred to in subsec. (h), means div. D of Pub. L. 117–263, Dec. 23, 2022, 136 Stat. 3102, which is not classified to the Code.
+
+Section 301, referred to in subsec. (h), means section 301 of Pub. L. 117–263, div. A, title III, Dec. 23, 2022, 136 Stat. 2500, which is not classified to the Code.
+
+Section 4301, referred to in subsec. (h), means section 4301 of Pub. L. 117–263, div. D, title XLIII, Dec. 23, 2022, 136 Stat. 3155, which is not classified to the Code.
+
+#### Codification
+Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Elementary and Secondary Education Act of 1965 which comprises this chapter.
+
+#### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 583(a)(1), struck out dash after “year, the local educational agency” and par. (1) designation before “had (as determined”, redesignated former subpars. (A) and (B) of par. (1) as pars. (1) and (2), respectively, and realigned margins, and struck out former par. (2) which read as follows: “is projected to have an overall increase, between fiscal years 2023 and 2028, of not less than 500 military dependent students in average daily attendance in the schools of the local educational agency as the result of a signed record of decision.”
+
+Subsecs. (h) to (j). Pub. L. 118–31, § 583(a)(2), (3), redesignated subsecs. (i) and (j) as (h) and (i), respectively, and struck out former subsec. (h) which set out eligible uses for amounts disbursed to a local education agency under subsec. (f).
 
 
 <a id="section-7704"></a>
@@ -17027,10 +17201,9 @@ Subsec. (d)(3). Pub. L. 106–398, § 1 [[div. A], title XVIII, § 1809(2)], ame
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, and effective with respect to appropriations for use under this subchapter beginning fiscal year 2017, except as otherwise provided in such amendment, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
-#### Supplemental Impact Aid Flexibility
+#### Data To Be Used for Impact Aid Programs in Certain Fiscal Years
 Pub. L. 117–83, Jan. 21, 2022, 136 Stat. 6, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Supplemental Impact Aid Flexibility Act’. “SEC. 2. IMPACT AID PROGRAM.“Due to the public health emergency directly relating to COVID–19 and notwithstanding sections 7002(j) and 7003(c) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7702(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7702/j&num=0&edition=prelim), 7703(c)), a local educational agency desiring to receive a payment under section 7002 or 7003 of such Act ([20 U.S.C. 7702](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702), 7703) for fiscal year 2023 that also submitted an application for such payment for fiscal year 2022 shall, in the application submitted under section 7005 of such Act ([20 U.S.C. 7705](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7705)) for fiscal year 2023—“(1) with respect to a requested payment under section 7002 of such Act—“(A) use the data described in section 7002(j) of such Act relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2022; or “(B) use the data relating to calculating such payment for the fiscal year required under section 7002(j) of such Act; and “(2) with respect to a requested payment under section 7003 of such Act—“(A) use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2022, provided that payments for fiscal year 2023 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2023; or “(B) use the student count data relating to calculating such payment for the fiscal year required under section 7003(c) of such Act.”
 
-#### Impact Aid Program
 Pub. L. 116–211, § 2, Dec. 4, 2020, 134 Stat. 1017, provided that: “Due to the public health emergency relating to COVID–19 and notwithstanding sections 7002(j) and 7003(c) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7702(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7702/j&num=0&edition=prelim), 7703(c)), a local educational agency desiring to receive a payment under section 7002 or 7003 of such Act ([20 U.S.C. 7702](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7702), 7703) for fiscal year 2022 that also submitted an application for such payment for fiscal year 2021 shall, in the application submitted under section 7005 of such Act ([20 U.S.C. 7705](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7705)) for fiscal year 2022— “(1) with respect to a requested payment under section 7002 of such Act—“(A) use the data described in section 7002(j) of such Act relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021; or “(B) use the data relating to calculating such payment for the fiscal year required under section 7002(j) of such Act; and “(2) with respect to a requested payment under section 7003 of such Act—“(A) use the student count data relating to calculating such payment that was submitted by the local educational agency in the application for fiscal year 2021, provided that payments for fiscal year 2022 shall be calculated by the Secretary using the expenditures and rates described in clauses (i), (ii), (iii), and (iv) of section 7003(b)(1)(C) of such Act that would otherwise apply for fiscal year 2022; or “(B) use the student count data relating to calculating such payment for the fiscal year required under section 7003(c) of such Act.”
 
 
@@ -18089,11 +18262,9 @@ Except as otherwise provided, in this chapter:
 
 (36) **Outlying area** — The term “outlying area”—
 
-  (A) means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands;
+  (A) means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the United States Virgin Islands; and
 
-  (B) means the Republic of Palau, to the extent permitted under [section 1921d(f)(1)(B)(ix) of title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1921d/f/1/B/ix&num=0&edition=prelim) and until an agreement for the extension of United States education assistance under the Compact of Free Association becomes effective for the Republic of Palau; and
-
-  (C) for the purpose of any discretionary grant program under this chapter, includes the Republic of the Marshall Islands and the Federated States of Micronesia, to the extent permitted under [section 1921d(f)(1)(B)(viii) of title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1921d/f/1/B/viii&num=0&edition=prelim).
+  (B) for the purpose of any discretionary grant program under this chapter, includes the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, to the extent that any such grant program continues to be available to State and local governments in the United States.
 
 (37) **Paraprofessional** — The term “paraprofessional”, also known as a “paraeducator”, includes an education assistant and instructional assistant.
 
@@ -18218,6 +18389,8 @@ The Higher Education Act of 1965, referred to in par. (15)(B), is Pub. L. 89–3
 A prior section 7801, Pub. L. 89–10, title IX, § 9101, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3773, set forth findings regarding Indian education, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
+2024—Par. (36). Pub. L. 118–42 amended par. (36) generally. Prior to amendment, par. (36) consisted of subpars. (A) to (C) defining outlying area.
+
 2015—Pub. L. 114–95, § 8002(19), struck out undesignated par. following par. (47) which defined “State”.
 
 Pars. (3) to (6). Pub. L. 114–95, § 8002(1), (2), redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which defined “beginning teacher”.
@@ -18944,7 +19117,7 @@ Subsec. (f). Pub. L. 114–95, § 8013(6), substituted “if, after notice and a
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
 #### National Emergency Educational Waivers
-Pub. L. 116–136, div. A, title III, § 3511, Mar. 27, 2020, 134 Stat. 400, provided that: “(a) In General.—Notwithstanding any other provision of law, the Secretary may, upon the request of a State educational agency or Indian tribe, waive any statutory or regulatory provision described under paragraphs (1) and (2) of subsection (b), and upon the request of a local educational agency, waive any statutory or regulatory provision described under paragraph (2) of subsection (b), if the Secretary determines that such a waiver is necessary and appropriate due to the emergency involving Federal primary responsibility determined to exist by the President under the [sic] section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) with respect to the Coronavirus Disease 2019 (COVID–19). “(b) Applicable Provisions of Law.—“(1) Streamlined waivers.—The Secretary shall create an expedited application process to request a waiver and the Secretary may waive any statutory or regulatory requirements for a State educational agency (related to assessments, accountability, and reporting requirements related to assessments and accountability), if the Secretary determines that such a waiver is necessary and appropriate as described in subsection (a), under the following provisions of law:“(A) The following provisions under section 1111 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311)):“(i) Paragraphs (2) and (3) of subsection (b). “(ii) Subsection (c)(4). “(iii) Subparagraphs (C) and (D) of subsection (d)(2). “(iv) The following provisions under subsection (h) of such section 1111: “(I) Clauses (i), (ii), (iii)(I), (iv), (v), (vi), (vii), and (xi) of paragraph (1)(C). “(II) Paragraph (2)(C) with respect to the waived requirements under subclause (I). “(III) Clauses (i) and (ii) of paragraph (2)(C). “(B) Section 421(b) of the General Education Provisions Act ([20 U.S.C. 1225(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1225/b&num=0&edition=prelim)). “(2) State and locally-requested waivers.—For a State educational agency, local educational agency, or Indian tribe that receives funds under a program authorized under the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.) that requests a waiver under subsection (c), the Secretary may waive statutory and regulatory requirements under any of the following provisions of such Act:“(A) Section 1114(a)(1) [[20 U.S.C. 6314(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6314/a/1&num=0&edition=prelim)]. “(B) Section 1118(a) [[20 U.S.C. 6321(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6321/a&num=0&edition=prelim)] and section 8521 [[20 U.S.C. 7901](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7901)]. “(C) Section 1127 [[20 U.S.C. 6339](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6339)]. “(D) Section 4106(d) [[20 U.S.C. 7116(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7116/d&num=0&edition=prelim)]. “(E) Subparagraphs (C), (D), and (E) of section 4106(e)(2) [[20 U.S.C. 7116(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7116/e/2&num=0&edition=prelim)]. “(F) Section 4109(b) [[20 U.S.C. 7119(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7119/b&num=0&edition=prelim)]. “(G) The definition under section 8101(42) [[20 U.S.C. 7801(42)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/42&num=0&edition=prelim)] for purposes of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.). “(3) Applicability to charter schools.—Any waivers issued by the Secretary under this section shall be implemented, as applicable—“(A) for all public schools, including public charter schools within the boundaries of the recipient of the waiver; “(B) in accordance with State charter school law; and “(C) pursuant to section 1111(c)(5) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/5&num=0&edition=prelim)). “(4) Limitation.—Nothing in this section shall be construed to allow the Secretary to waive any statutory or regulatory requirements under applicable civil rights laws. “(5) Accountability and improvement.—Any school located in a State that receives a waiver under paragraph (1) and that is identified for comprehensive support and improvement, targeted support and improvement, or additional targeted support in the 2019–2020 school year under section 1111(c)(4)(D) or section 1111(d)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311(c)(4)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/4/D&num=0&edition=prelim) or (d)(2)) shall maintain that identification status in the 2020–2021 school year and continue to receive supports and interventions consistent with the school’s support and improvement plan in the 2020–2021 school year. “(c) State and Local Requests for Waivers.—“(1) In general.—A State educational agency, local educational agency, or Indian tribe that desires a waiver from any statutory or regulatory provision described under subsection (b)(2), may submit a waiver request to the Secretary in accordance with this subsection. “(2) Requests submitted.—A request for a waiver under this subsection shall—“(A) identify the Federal programs affected by the requested waiver; “(B) describe which Federal statutory or regulatory requirements are to be waived; “(C) describe how the emergency involving Federal primary responsibility determined to exist by the President under the [sic] section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) with respect to the Coronavirus Disease 2019 (COVID–19) prevents or otherwise restricts the ability of the State, State educational agency, local educational agency, Indian tribe, or school to comply with such statutory or regulatory requirements; and “(D) provide an assurance that the State educational agency, local educational agency, or Indian tribe will work to mitigate any negative effects, if any, that may occur as a result of the requested waiver. “(3) Secretary approval.—“(A) In general.—Except as provided under subparagraph (B), the Secretary shall approve or disapprove a waiver request submitted under paragraph (1) not more than 30 days after the date on which such request is submitted. “(B) Exceptions.—The Secretary may disapprove a waiver request submitted under paragraph (1), only if the Secretary determines that—“(i) the waiver request does not meet the requirements of this section; “(ii) the waiver is not permitted pursuant to subsection (b)(2); or “(iii) the description required under paragraph (2)(C) provides insufficient information to demonstrate that the waiving of such requirements is necessary or appropriate consistent with subsection (a). “(4) Duration.—A waiver approved by the Secretary under this section may be for a period not to exceed the 2019–2020 academic year, except to carry out full implementation of any maintenance of effort waivers granted during the 2019–2020 academic year. “(d) Reporting and Publication.—“(1) Public notice.—A State educational agency, Indian Tribe, or local educational agency requesting a waiver under subsection (b)(2) shall provide the public and all local educational agencies in the State with notice of, and the opportunity to comment on, the request by posting information regarding the waiver request and the process for commenting on the State website. “(2) Notifying congress.—Not later than 7 days after granting a waiver under this section, the Secretary shall notify the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Appropriations of the Senate, the Committee on Education and Labor of the House of Representatives, and the Committee on Appropriations of the House of Representatives of such waiver. “(3) Publication.—Not later than 30 days after granting a waiver under this section, the Secretary shall publish a notice of the Secretary’s decision (including which waiver was granted and the reason for granting the waiver) in the Federal Register and on the website of the Department of Education. “(4) Report.—Not later than 30 days after the date of enactment of this Act [Mar. 27, 2020], the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Education and Labor and the Committee on Appropriations of the House of Representatives, with recommendations on any additional waivers under the Individuals with Disabilities Education Act ([20 U.S.C. 1401](./chapter-033-education-of-individuals-with-disabilities.md#section-1401) [1400] et seq.), the Rehabilitation Act of 1973 ([29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.), the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.), and the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.) the Secretary believes are necessary to be enacted into law to provide limited flexibility to States and local educational agencies to meet the needs of students during the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) with respect to the Coronavirus Disease 2019 (COVID–19). “(e) Terms.—In this section, the term ‘State educational agency’ includes the Bureau of Indian Education, and the term ‘local educational agency’ includes Bureau of Indian Education funded schools operated pursuant to a grant under the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2501&num=0&edition=prelim) et seq.), or a contract under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.).”
+Pub. L. 116–136, div. A, title III, § 3511, Mar. 27, 2020, 134 Stat. 400, provided that: “(a) In General.—Notwithstanding any other provision of law, the Secretary may, upon the request of a State educational agency or Indian tribe, waive any statutory or regulatory provision described under paragraphs (1) and (2) of subsection (b), and upon the request of a local educational agency, waive any statutory or regulatory provision described under paragraph (2) of subsection (b), if the Secretary determines that such a waiver is necessary and appropriate due to the emergency involving Federal primary responsibility determined to exist by the President under the [sic] section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) with respect to the Coronavirus Disease 2019 (COVID–19). “(b) Applicable Provisions of Law.—“(1) Streamlined waivers.—The Secretary shall create an expedited application process to request a waiver and the Secretary may waive any statutory or regulatory requirements for a State educational agency (related to assessments, accountability, and reporting requirements related to assessments and accountability), if the Secretary determines that such a waiver is necessary and appropriate as described in subsection (a), under the following provisions of law:“(A) The following provisions under section 1111 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6311)):“(i) Paragraphs (2) and (3) of subsection (b). “(ii) Subsection (c)(4). “(iii) Subparagraphs (C) and (D) of subsection (d)(2). “(iv) The following provisions under subsection (h) of such section 1111: “(I) Clauses (i), (ii), (iii)(I), (iv), (v), (vi), (vii), and (xi) of paragraph (1)(C). “(II) Paragraph (2)(C) with respect to the waived requirements under subclause (I). “(III) Clauses (i) and (ii) of paragraph (2)(C). “(B) Section 421(b) of the General Education Provisions Act ([20 U.S.C. 1225(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1225/b&num=0&edition=prelim)). “(2) State and locally-requested waivers.—For a State educational agency, local educational agency, or Indian tribe that receives funds under a program authorized under the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.) that requests a waiver under subsection (c), the Secretary may waive statutory and regulatory requirements under any of the following provisions of such Act:“(A) Section 1114(a)(1) [[20 U.S.C. 6314(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6314/a/1&num=0&edition=prelim)]. “(B) Section 1118(a) [[20 U.S.C. 6321(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6321/a&num=0&edition=prelim)] and section 8521 [[20 U.S.C. 7901](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-7901)]. “(C) Section 1127 [[20 U.S.C. 6339](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6339)]. “(D) Section 4106(d) [[20 U.S.C. 7116(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7116/d&num=0&edition=prelim)]. “(E) Subparagraphs (C), (D), and (E) of section 4106(e)(2) [[20 U.S.C. 7116(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7116/e/2&num=0&edition=prelim)]. “(F) Section 4109(b) [[20 U.S.C. 7119(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7119/b&num=0&edition=prelim)]. “(G) The definition under section 8101(42) [[20 U.S.C. 7801(42)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801/42&num=0&edition=prelim)] for purposes of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.). “(3) Applicability to charter schools.—Any waivers issued by the Secretary under this section shall be implemented, as applicable—“(A) for all public schools, including public charter schools within the boundaries of the recipient of the waiver; “(B) in accordance with State charter school law; and “(C) pursuant to section 1111(c)(5) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311(c)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/5&num=0&edition=prelim)). “(4) Limitation.—Nothing in this section shall be construed to allow the Secretary to waive any statutory or regulatory requirements under applicable civil rights laws. “(5) Accountability and improvement.—Any school located in a State that receives a waiver under paragraph (1) and that is identified for comprehensive support and improvement, targeted support and improvement, or additional targeted support in the 2019–2020 school year under section 1111(c)(4)(D) or section 1111(d)(2) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6311(c)(4)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/c/4/D&num=0&edition=prelim) or (d)(2)) shall maintain that identification status in the 2020–2021 school year and continue to receive supports and interventions consistent with the school’s support and improvement plan in the 2020–2021 school year. “(c) State and Local Requests for Waivers.—“(1) In general.—A State educational agency, local educational agency, or Indian tribe that desires a waiver from any statutory or regulatory provision described under subsection (b)(2), may submit a waiver request to the Secretary in accordance with this subsection. “(2) Requests submitted.—A request for a waiver under this subsection shall—“(A) identify the Federal programs affected by the requested waiver; “(B) describe which Federal statutory or regulatory requirements are to be waived; “(C) describe how the emergency involving Federal primary responsibility determined to exist by the President under the [sic] section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) with respect to the Coronavirus Disease 2019 (COVID–19) prevents or otherwise restricts the ability of the State, State educational agency, local educational agency, Indian tribe, or school to comply with such statutory or regulatory requirements; and “(D) provide an assurance that the State educational agency, local educational agency, or Indian tribe will work to mitigate any negative effects, if any, that may occur as a result of the requested waiver. “(3) Secretary approval.—“(A) In general.—Except as provided under subparagraph (B), the Secretary shall approve or disapprove a waiver request submitted under paragraph (1) not more than 30 days after the date on which such request is submitted. “(B) Exceptions.—The Secretary may disapprove a waiver request submitted under paragraph (1), only if the Secretary determines that—“(i) the waiver request does not meet the requirements of this section; “(ii) the waiver is not permitted pursuant to subsection (b)(2); or “(iii) the description required under paragraph (2)(C) provides insufficient information to demonstrate that the waiving of such requirements is necessary or appropriate consistent with subsection (a). “(4) Duration.—A waiver approved by the Secretary under this section may be for a period not to exceed the 2019–2020 academic year, except to carry out full implementation of any maintenance of effort waivers granted during the 2019–2020 academic year. “(d) Reporting and Publication.—“(1) Public notice.—A State educational agency, Indian Tribe, or local educational agency requesting a waiver under subsection (b)(2) shall provide the public and all local educational agencies in the State with notice of, and the opportunity to comment on, the request by posting information regarding the waiver request and the process for commenting on the State website. “(2) Notifying congress.—Not later than 7 days after granting a waiver under this section, the Secretary shall notify the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Appropriations of the Senate, the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives, and the Committee on Appropriations of the House of Representatives of such waiver. “(3) Publication.—Not later than 30 days after granting a waiver under this section, the Secretary shall publish a notice of the Secretary’s decision (including which waiver was granted and the reason for granting the waiver) in the Federal Register and on the website of the Department of Education. “(4) Report.—Not later than 30 days after the date of enactment of this Act [Mar. 27, 2020], the Secretary shall prepare and submit a report to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and the Committee on Education and Labor [now Committee on Education and the Workforce] and the Committee on Appropriations of the House of Representatives, with recommendations on any additional waivers under the Individuals with Disabilities Education Act ([20 U.S.C. 1401](./chapter-033-education-of-individuals-with-disabilities.md#section-1401) [1400] et seq.), the Rehabilitation Act of 1973 ([29 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) et seq.), the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301) et seq.), and the Carl D. Perkins Career and Technical Education Act of 2006 ([20 U.S.C. 2301](./chapter-044-career-and-technical-education.md#section-2301) et seq.) the Secretary believes are necessary to be enacted into law to provide limited flexibility to States and local educational agencies to meet the needs of students during the emergency involving Federal primary responsibility determined to exist by the President under section 501(b) of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5191(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5191/b&num=0&edition=prelim)) with respect to the Coronavirus Disease 2019 (COVID–19). “(e) Terms.—In this section, the term ‘State educational agency’ includes the Bureau of Indian Education, and the term ‘local educational agency’ includes Bureau of Indian Education funded schools operated pursuant to a grant under the Tribally Controlled Schools Act of 1988 ([25 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2501&num=0&edition=prelim) et seq.), or a contract under the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) et seq.).”
 
 [For definitions of terms as used in section 3511 of Pub. L. 116–136, set out above, see section 3502 of Pub. L. 116–136, set out in a note under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001).]
 
@@ -19407,7 +19580,7 @@ No funds under this chapter may be used—
 
 (6) to operate a program of contraceptive distribution in schools; or
 
-(7) for the provision to any person of a dangerous weapon, as defined in [section 930(g)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section930/g/2&num=0&edition=prelim), or training in the use of a dangerous weapon.
+(7) for the provision to any person of a dangerous weapon, as defined in [section 930(g)(2) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section930/g/2&num=0&edition=prelim), or training in the use of a dangerous weapon, except that this paragraph shall not apply to the use of funds under this chapter for activities carried out under programs authorized by this chapter that are otherwise permissible under such programs and that provide students with educational instruction or educational enrichment activities, such as archery, hunting, other shooting sports, or culinary arts.
 
 ### Statutory Notes
 
@@ -19415,6 +19588,8 @@ No funds under this chapter may be used—
 A prior section 7906, Pub. L. 89–10, title IX, § 9206, as added Pub. L. 103–382, title I, § 101, Oct. 20, 1994, 108 Stat. 3800, authorized grants for a Native Hawaiian higher education program, prior to the general amendment of former subchapter IX of this chapter by Pub. L. 107–110.
 
 #### Amendments
+2023—Par. (7). Pub. L. 118–17 inserted before period at end “, except that this paragraph shall not apply to the use of funds under this chapter for activities carried out under programs authorized by this chapter that are otherwise permissible under such programs and that provide students with educational instruction or educational enrichment activities, such as archery, hunting, other shooting sports, or culinary arts”.
+
 2022—Par. (7). Pub. L. 117–159 added par. (7).
 
 2015—Pub. L. 114–95, § 8022, substituted “Prohibited uses of funds” for “General prohibitions” in section catchline, in subsec. (a), struck out “(a) Prohibition” before introductory provisions, substituted “No funds under this chapter may be used” for “None of the funds authorized under this chapter shall be used” in introductory provisions, added pars. (1) and (2) and redesignated former pars. (1) to (4) as (3) to (6), respectively, and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “Nothing in this section shall be construed to—

@@ -2,7 +2,7 @@
 title: 25
 chapter: '4'
 heading: PERFORMANCE BY UNITED STATES OF OBLIGATIONS TO INDIANS
-section_count: 83
+section_count: 82
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25&num=0&edition=prelim
 ---
@@ -412,50 +412,35 @@ Section, R.S. § 2098, relating to payment of claims for Indian depredations, wa
 
 
 <a id="section-127"></a>
-## § 127. Moneys or annuities of hostile Indians
-
-No moneys or annuities stipulated by any treaty with an Indian tribe for which appropriations are made shall be expended for, or paid, or delivered to any tribe which, since the next preceding payment under such treaty, has engaged in hostilities against the United States, or against its citizens peacefully or lawfully sojourning or traveling within its jurisdiction at the time of such hostilities; nor in such case shall such stipulated payments or deliveries be resumed until new appropriations shall have been made therefor by Congress.
+## § 127. Repealed. Pub. L. 117–317, § 2(2), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 2100 derived from act Mar. 2, 1867, ch. 173, § 2, 14 Stat. 515.
-
-#### Amendments
-1928—Act May 29, 1928, struck out provision requiring the Commissioner of Indian Affairs to make periodic reports to Congress concerning hostilities with any tribes with which the United States has treaty stipulations.
+Section, R.S. § 2100; May 29, 1928, ch. 901, § 1(81), 45 Stat. 992, disallowed payment to hostile Indian tribes of moneys or annuities stipulated by a treaty.
 
 
 <a id="section-128"></a>
-## § 128. Appropriations not paid to Indians at war with United States
-
-None of the appropriations made for the Indian Service shall be paid to any band of Indians or any portion of any band while at war with the United States or with the white citizens of any of the States or Territories.
+## § 128. Repealed. Pub. L. 117–317, § 2(3), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act Mar. 3, 1875, ch. 132, § 2, 18 Stat. 449, prohibited payment of appropriations made for the Indian Service to Indians at war with the United States.
 
 
 <a id="section-129"></a>
-## § 129. Moneys due Indians holding captives other than Indians withheld
-
-The Secretary of the Interior is authorized to withhold, from any tribe of Indians who may hold any captives other than Indians, any moneys due them from the United States until said captives shall be surrendered to the lawful authorities of the United States.
+## § 129. Repealed. Pub. L. 117–317, § 2(4), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act Mar. 3, 1875, ch. 132, § 1, 18 Stat. 424, withheld money from Indian tribes holding captives other than Indians.
 
 
 <a id="section-130"></a>
-## § 130. Withholding of moneys or goods on account of intoxicating liquors
-
-No annuities, or moneys, or goods, shall be paid or distributed to Indians while they are under the influence of any description of intoxicating liquor, nor while there are good and sufficient reasons leading the officers or agents, whose duty it may be to make such payments or distribution, to believe that there is any species of intoxicating liquor within convenient reach of the Indians, nor until the chiefs and headmen of the tribe shall have pledged themselves to use all their influence and to make all proper exertions to prevent the introduction and sale of such liquor in their country.
+## § 130. Repealed. Pub. L. 117–317, § 2(5), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Codification
-R.S. § 2087 derived from act Mar. 3, 1847, ch. 66, § 3, 9 Stat. 203.
+Section, R.S. § 2087, withheld annuities, money, and goods from Indians based on being under the influence of or having access to intoxicating liquor.
 
 
 <a id="section-131"></a>
@@ -536,29 +521,14 @@ Act of July 1, 1898, referred to in text, is act July 1, 1898, ch. 545, 30 Stat.
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
-<a id="section-137"></a>
-## § 137. Supplies distributed to able-bodied males on condition
-
-For the purpose of inducing Indians to labor and become self-supporting, it is provided that, in distributing the supplies and annuities to the Indians for whom the same are appropriated, the agent distributing the same shall require all able-bodied male Indians between the ages of eighteen and forty-five to perform service upon the reservation, for the benefit of themselves or of the tribe, at a reasonable rate, to be fixed by the agent in charge, and to an amount equal in value to the supplies to be delivered; and the allowances provided for such Indians shall be distributed to them only upon condition of the performance of such labor, under such rules and regulations as the agent may prescribe: Provided, That the Secretary of the Interior may, by written order, except any particular tribe, or portion of tribe, from the operation of this provision where he deems it proper and expedient.
+<a id="section-137-138"></a>
+## § 137, 138. Repealed. Pub. L. 117–317, § 2(6), (7), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Indian Agents
-The services of Indian agents have been dispensed with. See note set out under [section 64 of this title](./chapter-002-officers-of-indian-affairs.md#section-64).
+Section 137, act Mar. 3, 1875, ch. 132, § 3, 18 Stat. 449, related to requiring able-bodied male Indians to perform service on the reservation in order to receive appropriated supplies and annuities.
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
-
-
-<a id="section-138"></a>
-## § 138. Goods withheld from chiefs violating treaty stipulations
-
-No delivery of goods or merchandise shall be made to the chiefs of any tribe, by authority of any treaty, if such chiefs have violated the stipulations contained in such treaty upon their part.
-
-### Statutory Notes
-
-#### Codification
-R.S. § 2101 derived from act Apr. 10, 1869, ch. 16, § 2, 16 Stat. 39.
+Section 138, R.S. § 2101, related to withholding of goods from chiefs violating treaty stipulations.
 
 
 <a id="section-139"></a>
@@ -1006,14 +976,14 @@ The Secretary shall not restore to tribal ownership or deposit in the general fu
 
 
 <a id="section-166"></a>
-## § 166. Applicability of Federal Advisory Committee Act
+## § 166. Applicability of chapter 10 of title 5
 
-The activities of the Department of the Interior associated with the Department’s consultation with Indian tribes and organizations related to the management of funds held in trust by the United States for Indian tribes shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
+The activities of the Department of the Interior associated with the Department’s consultation with Indian tribes and organizations related to the management of funds held in trust by the United States for Indian tribes shall be exempt from chapter 10 of title 5.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in section catchline and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
 
 <a id="section-167"></a>

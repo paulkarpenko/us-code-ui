@@ -111,7 +111,7 @@ Subsec. (c). Pub. L. 95–514 substituted provision for grant of title to limite
 Subsec. (d). Pub. L. 95–514 substituted provisions relating to circumstances and conditions operating to take wild free-roaming horses and burros or their remains from the purview of this chapter for prior declaration that nothing in the chapter shall preclude the customary disposal of the remains of a deceased wild free-roaming horse or burro, including those in the authorized possession of private parties, and prohibition of sale for any consideration, directly or indirectly, of the remains, or any part thereof, now incorporated in cl. (5).
 
 #### Termination of Advisory Boards
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1334"></a>
@@ -137,6 +137,10 @@ The Secretary is authorized to enter into cooperative agreements with other land
 Pub. L. 112–74, div. E, title I, § 114, Dec. 23, 2011, 125 Stat. 1009, provided that: “(a) Notwithstanding any other provision of this Act [div. E of Pub. L. 112–74, see Tables for classification], the Secretary of the Interior may enter into multiyear cooperative agreements with nonprofit organizations and other appropriate entities, and may enter into multiyear contracts in accordance with the provisions of section 304B of the Federal Property and Administrative Services Act of 1949 ([former] [41 U.S.C. 254c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section254c&num=0&edition=prelim)) [see [41 U.S.C. 3903](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903&num=0&edition=prelim)] (except that the 5-year term restriction in subsection (d) [see [41 U.S.C. 3903(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3903/a&num=0&edition=prelim)] shall not apply), for the long-term care and maintenance of excess wild free roaming horses and burros by such organizations or entities on private land. Such cooperative agreements and contracts may not exceed 10 years, subject to renewal at the discretion of the Secretary. “(b) During fiscal year 2012 and subsequent fiscal years, in carrying out work involving cooperation with any State or political subdivision thereof, the Bureau of Land Management may record obligations against accounts receivable from any such entities.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–42, div. E, title I, § 108, Mar. 9, 2024, 138 Stat. 246.
+
+Pub. L. 117–328, div. G, title I, § 108, Dec. 29, 2022, 136 Stat. 4786.
 
 Pub. L. 117–103, div. G, title I, § 108, Mar. 15, 2022, 136 Stat. 375.
 
@@ -165,7 +169,7 @@ The Secretary of the Interior and the Secretary of Agriculture are authorized an
 ### Statutory Notes
 
 #### Termination of Advisory Boards
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1338"></a>

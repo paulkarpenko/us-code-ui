@@ -2,7 +2,7 @@
 title: 49
 chapter: '441'
 heading: REGISTRATION AND RECORDATION OF AIRCRAFT
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -111,6 +111,36 @@ In subsection (b), the words “In carrying out subsection (a)(1)(C) of this sec
 
 **(d) Certificates Available for Inspection.—** An operator of an aircraft shall make available for inspection a certificate of registration for the aircraft when requested by a United States Government, State, or local law enforcement officer.
 
+**(e) Validity of Aircraft Registration During Renewal.—**
+
+(1) **In general.—** — An aircraft may be operated on or after the expiration date found on the certificate of registration issued for such aircraft under this section as if it were not expired if the operator of such aircraft has aboard the aircraft—
+
+  (A) documentation validating that—
+
+    (i) an aircraft registration renewal application form (AC Form 8050–1B, or a succeeding form) has been submitted to the Administrator for such aircraft but not yet approved or denied; and
+
+    (ii) such aircraft is compliant with maintenance, inspections, and any other requirements for the aircraft’s airworthiness certificate issued under section 44704(d); and
+
+  (B) the most recent aircraft registration.
+
+(2) **Proof of pending renewal application.—** — The Administrator shall provide an applicant for renewal of registration under this section with documentation described in paragraph (1)(A). Such documentation shall—
+
+  (A) be made electronically available to the applicant immediately upon submitting an aircraft registration renewal application to the Civil Aviation Registry for an aircraft;
+
+  (B) notify the applicant of the operational allowance described in paragraph (1);
+
+  (C) deem an aircraft’s airworthiness certificate issued under section 44704(d) as valid provided that the applicant confirms acknowledgment of the requirements of paragraph (1)(A)(ii);
+
+  (D) confirm the applicant acknowledged the limitations described in paragraph (3)(A) and (3)(B); and
+
+  (E) include identifying information pertaining to such aircraft and to the registered owner.
+
+(3) **Rule of construction.—** — Nothing in this subsection shall be construed to permit any person to operate an aircraft—
+
+  (A) with an expired registration, except as specifically provided for under this subsection; or
+
+  (B) if the Administrator has denied an application to renew the registration of such aircraft.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -130,11 +160,23 @@ In subsection (b)(1)(B), before subclause (i), the words “after the one-year p
 
 In subsection (c), before clause (1), the words “A certificate of registration” are substituted for “Registration” for clarity. In clause (2), the words “by a particular person” are omitted as surplus.
 
+#### Amendments
+2024—Subsec. (e). Pub. L. 118–63 added subsec. (e).
+
+#### Regulations
+Pub. L. 118–63, title VIII, § 812(b), May 16, 2024, 138 Stat. 1327, provided that: “Not later than 36 months after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall issue a final rule, if necessary, and update all applicable guidance and policies to reflect the amendment made by this section [amending this section].”
+
+#### Implementation of Anti-Terrorist and Narcotic Air Events Programs
+Pub. L. 118–63, title II, § 231(a), May 16, 2024, 138 Stat. 1065, provided that: “(1) Priority recommendations.—Not later than 180 days after the date of enactment of this section [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall—“(A) implement recommendations 6, 13, 14, and 15 as set forth in the Government Accountability Office report entitled ‘Aviation: FAA Needs to Better Prevent, Detect, and Respond to Fraud and Abuse Risks in Aircraft Registration,’ (dated March 25, 2020); and “(B) to the extent that rulemaking is necessary to implement such recommendations, issue a notice of proposed rulemaking pursuant to the rulemaking authority of the FAA [Federal Aviation Administration]. “(2) Remaining recommendations.—The Administrator shall implement recommendations 1 through 5 and 8 through 12 as set forth in the Government Accountability Office report described in paragraph (1) and, to the extent that rulemaking is necessary to implement such recommendations, issue a notice of proposed rulemaking pursuant to the rulemaking authority of the FAA, on the earlier of—“(A) the date that is 90 days after the date on which the FAA implements the Civil Aviation Registry Electronic Services system; or “(B) January 1, 2026.”
+
+#### Deadline To Eliminate Aircraft Registration Backlog
+Pub. L. 118–63, title VIII, § 817, May 16, 2024, 138 Stat. 1328, provided that: “Not later than 180 days after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall take such actions as may be necessary to reduce and maintain the aircraft registration and recordation backlog at the Civil Aviation Registry so that, on average, applications are processed not later than 10 business days after receipt.”
+
 #### Aircraft Registration
 Pub. L. 115–254, div. B, title V, § 556, Oct. 5, 2018, 132 Stat. 3383, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [Oct. 5, 2018], the Administrator [of the Federal Aviation Administration] shall initiate a rulemaking to increase the duration of aircraft registrations for noncommercial general aviation aircraft to 7 years. “(b) Considerations.—In promulgating the notice of proposed rulemaking described in subsection (a), the Administrator may consider any events, circumstances, changes in any ownership entity or structure, or other condition that would necessitate renewal prior to the expiration of an aircraft registration.”
 
 #### Right to Privacy When Using Air Traffic Control System
-Pub. L. 115–254, div. B, title V, § 566, Oct. 5, 2018, 132 Stat. 3385, provided that: “Notwithstanding any other provision of law, the Administrator [of the Federal Aviation Administration] shall, upon request of a private aircraft owner or operator, block the registration number of the aircraft of the owner or operator from any public dissemination or display, except in data made available to a Government agency, for the noncommercial flights of the owner or operator.”
+Pub. L. 115–254, div. B, title V, § 566, Oct. 5, 2018, 132 Stat. 3385, which provided for blocking the registration number of certain private aircraft from public dissemination upon request by the owner or operator, was repealed by Pub. L. 118–63, title VIII, § 803(c), May 16, 2024, 138 Stat. 1322. See [section 44114 of this title](./chapter-441-registration-and-recordation-of-aircraft.md#section-44114).
 
 #### Aircraft Situational Display Data
 Pub. L. 106–181, title VII, § 729, Apr. 5, 2000, 114 Stat. 168, provided that: “(a) In General.—A memorandum of agreement between the Administrator [of the Federal Aviation Administration] and any person that directly obtains aircraft situational display data from the Federal Aviation Administration shall require that—“(1) the person demonstrate to the satisfaction of the Administrator that the person is capable of selectively blocking the display of any aircraft-situation-display-to-industry derived data related to any identified aircraft registration number; and “(2) the person agree to block selectively the aircraft registration numbers of any aircraft owner or operator upon the Administration’s request. “(b) Existing Memoranda To Be Conformed.—Not later than 30 days after the date of the enactment of this Act [Apr. 5, 2000], the Administrator shall conform any memoranda of agreement, in effect on such date of enactment, between the Federal Aviation Administration and a person under which that person obtains aircraft situational display data to incorporate the requirements of subsection (a).”
@@ -561,3 +603,44 @@ In this chapter, the following definitions apply:
 
 #### Effective Date
 Section effective Mar. 1, 2006, and not applicable to any registration or recordation that was made before such date under this chapter or any legal rights relating to such registration or recordation, see section 7 of Pub. L. 108–297, set out as an Effective Date of 2004 Amendment note under [section 44101 of this title](./chapter-441-registration-and-recordation-of-aircraft.md#section-44101).
+
+
+<a id="section-44114"></a>
+## § 44114. Privacy
+**(a) In General.—** Notwithstanding any other provision of law, including [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim), the Administrator of the Federal Aviation Administration shall establish and update as necessary a process by which, upon request of a private aircraft owner or operator, the Administrator withholds the registration number and other similar identifiable data or information, except for physical markings required by law, of the aircraft of the owner or operator from any broad dissemination or display (except in furnished data or information made available to or from a Government agency pursuant to a government contract, subcontract, or agreement, including for traffic management purposes) for the noncommercial flights of the owner or operator.
+
+**(b) Withholding Personally Identifiable Information on the Aircraft Registry.—** Not later than 2 years after the enactment of this Act and notwithstanding any other provision of law, including [section 552(b)(3) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/3&num=0&edition=prelim), the Administrator shall establish a procedure by which, upon request of a private aircraft owner or operator, the Administrator shall withhold from broad dissemination or display by the FAA (except in furnished data or information made available to or from a Government agency pursuant to a government contract, subcontract, or agreement, including for traffic management purposes) the personally identifiable information of such individual, including on a publicly available website of the FAA.
+
+**(c) ICAO Aircraft Identification Code.—**
+
+(1) **In general.—** — The Administrator shall establish a program for aircraft owners and operators to apply for a new ICAO aircraft identification code.
+
+(2) **Limitations.—** — In carrying out the program described in paragraph (1), the Administrator shall require—
+
+  (A) each applicant to attest to a safety or security need in applying for a new ICAO aircraft identification code; and
+
+  (B) each approved applicant who obtains a new ICAO aircraft identification code to comply with all applicable aspects of, or related to, part 45 of title 14, Code of Federal Regulations, including updating an aircraft’s registration number and N–Number to reflect such aircraft’s new ICAO aircraft identification code.
+
+**(d) Definitions.—** In this section:
+
+(1) **ADS–B.—** — The term “ADS–B” means automatic dependent surveillance-broadcast.
+
+(2) **ICAO.—** — The term “ICAO” means the International Civil Aviation Organization.
+
+(3) **Personally identifiable information.—** — The term “personally identifiable information” means—
+
+  (A) the mailing address or registration address of an individual;
+
+  (B) an electronic address (including an email address) of an individual; or 11 So in original.
+
+  (C) the telephone number of an individual.1
+
+  (D) the names of the aircraft owner or operator, if the owner or operator is an individual.
+
+### Statutory Notes
+
+#### References in Text
+The enactment of this Act, referred to in subsec. (b), probably means the enactment of Pub. L. 118–63, which enacted this section and was approved May 16, 2024.
+
+#### Prior Provisions
+Provisions similar to those in subsec. (a) of this section were contained in Pub. L. 115–254, div. B, title V, § 566, Oct. 5, 2018, 132 Stat. 3385, which was set out as a note under [section 44103 of this title](./chapter-441-registration-and-recordation-of-aircraft.md#section-44103) prior to repeal by Pub. L. 118–63, title VIII, § 803(c), May 16, 2024, 138 Stat. 1322.

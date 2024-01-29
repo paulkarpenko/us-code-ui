@@ -23,11 +23,11 @@ source: >-
 #### Amendments
 1989—Subsec. (a)(3). Pub. L. 101–73 substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
 
-#### Short Title
-Pub. L. 97–320, title VIII, § 801, Oct. 15, 1982, 96 Stat. 1545, provided that: “This title [enacting this chapter] may be cited as the ‘Alternative Mortgage Transaction Parity Act of 1982’.”
-
 #### Effective Date
 Pub. L. 97–320, title VIII, § 807(a), Oct. 15, 1982, 96 Stat. 1548, provided that: “This title [enacting this chapter] shall be effective upon enactment [Oct. 15, 1982].”
+
+#### Short Title
+Pub. L. 97–320, title VIII, § 801, Oct. 15, 1982, 96 Stat. 1545, provided that: “This title [enacting this chapter] may be cited as the ‘Alternative Mortgage Transaction Parity Act of 1982’.”
 
 #### Identification, Description and Publication of Regulations Inapplicable To, or Conformation of Regulations for Use Of Nonfederally Chartered Housing Creditors
 Pub. L. 97–320, title VIII, § 807(b), Oct. 15, 1982, 96 Stat. 1548, provided that: “Within sixty days of the enactment of this title [Oct. 15, 1982], the Comptroller of the Currency, the National Credit Union Administration, and the Federal Home Loan Bank Board shall identify, describe, and publish those portions or provisions of their respective regulations that are inappropriate for (and thus inapplicable to), or that need to be conformed for the use of, the nonfederally chartered housing creditors to which their respective regulations apply, including without limitation, making necessary changes in terminology to conform the regulatory and disclosure provisions to those more typically associated with various types of transactions including credit sales.”
@@ -167,7 +167,7 @@ Section 501(c)(1) of the Depository Institutions Deregulation and Monetary Contr
 ### Statutory Notes
 
 #### References in Text
-Section 501(c)(1) of the Depository Institutions Deregulation and Monetary Control Act of 1980, referred to in text, is section 501(c)(1) of Pub. L. 96–221, title V, Mar. 31, 1980, 94 Stat. 161, as amended, which is set out as a note under [section 1735f–7 of this title](./chapter-013-national-housing.md#section-1735f-7).
+Section 501(c)(1) of the Depository Institutions Deregulation and Monetary Control Act of 1980, referred to in text, is section 501(c)(1) of Pub. L. 96–221, title V, Mar. 31, 1980, 94 Stat. 161, which is set out as a note under [section 1735f–7 of this title](./chapter-013-national-housing.md#section-1735f-7).
 
 #### Effective Date
 Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out as a note under [section 3801 of this title](./chapter-039-alternative-mortgage-transactions.md#section-3801).
@@ -192,7 +192,7 @@ Section effective Oct. 15, 1982, see section 807(a) of Pub. L. 97–320, set out
 ### Statutory Notes
 
 #### References in Text
-The Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Competitive Equality Banking Act of 1987, and not as part of the Alternative Mortgage Transaction Parity Act of 1982 which comprises this chapter.

@@ -288,7 +288,7 @@ Section effective 6 months after Oct. 23, 1972, see section 110(a) of Pub. L. 92
 ### Statutory Notes
 
 #### References in Text
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (a), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
 
 Such section 101(b), referred to in subsec. (b), means section 101(b) of the Marine Protection, Research, and Sanctuaries Act of 1972.
 
@@ -426,7 +426,7 @@ Each permit issued pursuant to this subsection shall be subject to such conditio
 ### Statutory Notes
 
 #### References in Text
-This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (i)(4)(B), (D), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (i)(4)(B), (D), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to this chapter, chapter 41 (§ 2801 et seq.) of this title, and chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
 
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–580, § 507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”

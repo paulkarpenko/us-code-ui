@@ -108,7 +108,7 @@ Section effective 180 days after Apr. 20, 2005, and not applicable with respect 
 ### Statutory Notes
 
 #### References in Text
-The Securities Investor Protection Act of 1970, referred to in subsec. (c)(3), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+The Securities Investor Protection Act of 1970, referred to in subsec. (c)(3), is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 1501, Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2652, related to applicability of chapter which provided a pilot program for a United States trustee system, prior to repeal by Pub. L. 99–554, title II, § 231, Oct. 27, 1986, 100 Stat. 3103.

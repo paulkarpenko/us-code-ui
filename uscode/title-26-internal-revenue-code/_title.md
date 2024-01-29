@@ -2,7 +2,7 @@
 title: 26
 heading: INTERNAL REVENUE CODE
 positive_law: false
-sections: 2137
+sections: 2142
 chapters: 72
 ---
 # Title 26. INTERNAL REVENUE CODE

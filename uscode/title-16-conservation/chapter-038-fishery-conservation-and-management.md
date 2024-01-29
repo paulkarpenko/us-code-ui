@@ -2,7 +2,7 @@
 title: 16
 chapter: '38'
 heading: FISHERY CONSERVATION AND MANAGEMENT
-section_count: 64
+section_count: 65
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -137,6 +137,11 @@ Pub. L. 96–561, title II, § 238(b), Dec. 22, 1980, 94 Stat. 3300, provided th
 #### Effective Date of 1992 Amendment
 Amendment by Pub. L. 102–251 effective on date on which Agreement between United States and Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until date on which Agreement enters into force for United States, see section 308 of Pub. L. 102–251, set out as a note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
 
+#### Short Title of 2022 Amendment
+Pub. L. 117–328, div. S, title I, § 101, Dec. 29, 2022, 136 Stat. 5259, provided that: “This title [amending sections 1802, 1826, and 1857 of this title and enacting provisions set out as a note under [section 1862 of this title](./chapter-038-fishery-conservation-and-management.md#section-1862)] may be cited as the ‘Driftnet Modernization and Bycatch Reduction Act’.”
+
+Pub. L. 117–328, div. S, title II, § 201, Dec. 29, 2022, 136 Stat. 5261, provided that: “This title [amending sections 1822, 1826, 1826h, and 1861a of this title and [section 632 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section632&num=0&edition=prelim), Commerce and Trade, repealing sections 1864 and 4107 of this title, enacting provisions set out as a note under [section 1861a of this title](./chapter-038-fishery-conservation-and-management.md#section-1861a), and amending provisions set out as a note under [section 460ss of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-460ss)] may be cited as the ‘Fishery Resource Disasters Improvement Act’.”
+
 #### Short Title of 2021 Amendment
 Pub. L. 116–340, § 1, Jan. 13, 2021, 134 Stat. 5128, provided that: “This Act [enacting [section 1870 of this title](./chapter-038-fishery-conservation-and-management.md#section-1870), amending [section 1858 of this title](./chapter-038-fishery-conservation-and-management.md#section-1858), repealing [section 1870 of this title](./chapter-038-fishery-conservation-and-management.md#section-1870), and enacting provisions set out as notes under sections 1858 and 1865 of this title] may be cited as the ‘Direct Enhancement of Snapper Conservation and the Economy through Novel Devices Act of 2020’ or the ‘DESCEND Act of 2020’.”
 
@@ -189,7 +194,7 @@ Pub. L. 115–405, § 301, Dec. 31, 2018, 132 Stat. 5360, provided that: “Noth
 [For definition of “mixed-use fishery” as used in section 301 of Pub. L. 115–405, set out above, see section 3 of Pub. L. 115–405, set out below].
 
 #### Sport Fishing and Boating Partnership Council
-Pub. L. 117–58, div. B, title VIII, § 28001(d), Nov. 15, 2021, 135 Stat. 889, provided that: “(1) In general.—The Sport Fishing and Boating Partnership Council established by the Secretary of the Interior shall be an advisory committee of the Department of the Interior and the Department of Commerce subject to the Federal Advisory Committee Act (5 U.S.C. App.). “(2) FACA.— The Secretary of the Interior and the Secretary of Commerce shall jointly carry out the requirements of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Sport Fishing and Boating Partnership Council described in paragraph (1). “(3) Effective date.—This subsection shall take effect on January 1, 2023.”
+Pub. L. 117–58, div. B, title VIII, § 28001(d), Nov. 15, 2021, 135 Stat. 889, provided that: “(1) In general.—The Sport Fishing and Boating Partnership Council established by the Secretary of the Interior shall be an advisory committee of the Department of the Interior and the Department of Commerce subject to the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.]. “(2) FACA.— The Secretary of the Interior and the Secretary of Commerce shall jointly carry out the requirements of the Federal Advisory Committee Act ([former] 5 U.S.C. App.) with respect to the Sport Fishing and Boating Partnership Council described in paragraph (1). “(3) Effective date.—This subsection shall take effect on January 1, 2023.”
 
 #### Definitions
 Pub. L. 115–405, § 3, Dec. 31, 2018, 132 Stat. 5355, provided that: “In this Act [see Short Title of 2018 Amendment note above]: “(1) Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committee on Natural Resources of the House of Representatives. “(2) Council.—The term ‘Council’ means any Regional Fishery Management Council established under section 302 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1852](./chapter-038-fishery-conservation-and-management.md#section-1852)). “(3) Limited access privilege program.—The term ‘limited access privilege program’ means a program that meets the requirements of section 303A of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1853a](./chapter-038-fishery-conservation-and-management.md#section-1853a)). “(4) Mixed-use fishery.—The term ‘mixed-use fishery’ means a Federal fishery in which 2 or more of the following occur:“(A) Recreational fishing. “(B) Charter fishing. “(C) Commercial fishing.”
@@ -536,7 +541,7 @@ of the Continental Shelf which appertains to the United States, and publishes no
 
 (24) The term “international fishery agreement” means any bilateral or multilateral treaty, convention, or agreement which relates to fishing and to which the United States is a party.
 
-(25) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+(25) The term “large-scale driftnet fishing” means a method of fishing in which a gillnet composed of a panel or panels of webbing, or a series of such gillnets, with a total length of two and one-half kilometers or more, or with a mesh size of 14 inches or greater, is placed in the water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 (26) The term “limited access privilege”—
 
@@ -621,6 +626,8 @@ In par. (49), “[section 70502(c) of title 46](https://uscode.house.gov/view.xh
 Pub. L. 102–251, § 301(b), which directed amendment of this section by adding a new par. (24) defining “special areas” and redesignating former pars. (24) to (32) as (25) to (33), respectively, was to be effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for United States, but will not be executed, to reflect the probable intent of Congress, because the amendments would be inconsistent with the amendments by Pub. L. 104–297 which added par. (36) (now par. (41)) which is substantially identical to the par. (24) added by Pub. L. 102–251, made successive redesignations of pars. (2) to (44), and added and amended various other pars. See 1996 Amendment notes below and section 308 of Pub. L. 102–251, set out as an Effective Date of 1992 Amendment note under [section 773 of this title](./chapter-010-northern-pacific-halibut-fishing.md#section-773).
 
 #### Amendments
+2022—Par. (25). Pub. L. 117–328 inserted “, or with a mesh size of 14 inches or greater,” after “kilometers or more”.
+
 2018—Par. (3). Pub. L. 115–232 substituted “section 2101(30)” for “section 2101(21a)”.
 
 2007—Pub. L. 109–479 added pars. (13A) defining “regional fishery association”, (20A) defining “import”, (23A) defining “limited access privilege”, (23B) defining “limited access system”, and (27A) defining “observer information” and redesignated pars. (1) to (45) as (1) to (50), respectively.
@@ -1364,8 +1371,6 @@ by the United States unless it is in accordance with the provisions of [section 
 
   (B) subject to approval by Congress under [section 1823 of this title](./chapter-038-fishery-conservation-and-management.md#section-1823).
 
-(3) Not later than January 1, 1997, and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.
-
 ### Statutory Notes
 
 #### Amendment of Section
@@ -1379,6 +1384,8 @@ Pub. L. 102–251, title III, §§ 301(e)(1), (2), 308, Mar. 9, 1992, 106 Stat. 
 This chapter, referred to in subsecs. (a)(5), (b), and (h)(1), (2)(A), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Amendments
+2022—Subsec. (h)(3). Pub. L. 117–328 struck out par. (3) which read as follows: “Not later than January 1, 1997, and annually thereafter, the Secretary, in consultation with the Secretary of State, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Resources of the House of Representatives a report describing actions taken under this subsection.”
+
 1996—Subsec. (c). Pub. L. 104–297, § 105(b)(1), inserted before period at end “or [section 1824(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1824/e&num=0&edition=prelim)”.
 
 Subsec. (h). Pub. L. 104–297, § 105(b)(2), added subsec. (h).
@@ -1492,7 +1499,7 @@ Pub. L. 102–587, title I, § 1001, Nov. 4, 1992, 106 Stat. 5039, provided that
 Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, § 502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
 
 #### North Pacific and Bering Sea Fisheries Advisory Body
-Pub. L. 100–629, § 5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1984, provided that: “(a) In General.—The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the United States representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988. “(b) Membership.—“(1) In General.—The advisory body established pursuant to this section shall consist of 12 members, as follows:“(A) The Director of the Department of Fisheries of the State of Washington. “(B) The Commission of the Department of Fish and Game of the State of Alaska. “(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(D) Five members appointed by the Secretary of State from among persons nominated by the Governor of Washington on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(2) Nominations.—The Governor of Alaska and the Governor of Washington shall each nominate 10 persons for purposes of paragraph (1). “(c) Pay.—Members of the advisory body established pursuant to this section shall receive no pay by reason of their service as members of the advisory body. “(d) Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) shall not apply to an advisory body established pursuant to this section. “(e) Travel Expenses.—“(1) In general.—The Secretary of State may pay the necessary travel expenses of the members of the advisory body established pursuant to this section in carrying out their service as such members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5, United States Code. “(2) Reimbursement.—The Secretary of Commerce may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.”
+Pub. L. 100–629, § 5, Nov. 7, 1988, 102 Stat. 3287, as amended by Pub. L. 114–327, title I, § 121(a), Dec. 16, 2016, 130 Stat. 1984; Pub. L. 117–286, § 4(a)(115), Dec. 27, 2022, 136 Stat. 4318, provided that: “(a) In General.—The Secretary of State shall establish an advisory body on the fisheries of the North Pacific and the Bering Sea, which shall advise the United States representative to the International Consultative Committee created in accordance with Article XIV of the governing international fishery agreement entered into between the United States and the Union of Soviet Socialist Republics, as contained in the message to Congress from the President of the United States dated June 22, 1988. “(b) Membership.—“(1) In General.—The advisory body established pursuant to this section shall consist of 12 members, as follows:“(A) The Director of the Department of Fisheries of the State of Washington. “(B) The Commission of the Department of Fish and Game of the State of Alaska. “(C) Five members appointed by the Secretary of State from among persons nominated by the Governor of Alaska on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(D) Five members appointed by the Secretary of State from among persons nominated by the Governor of Washington on the basis of their knowledge and experience in commercial harvesting, processing, or marketing of fishery resources. “(2) Nominations.—The Governor of Alaska and the Governor of Washington shall each nominate 10 persons for purposes of paragraph (1). “(c) Pay.—Members of the advisory body established pursuant to this section shall receive no pay by reason of their service as members of the advisory body. “(d) Exemption From Chapter 10 of Title 5, United States Code.—Chapter 10 of title 5, United States Code, shall not apply to an advisory body established pursuant to this section. “(e) Travel Expenses.—“(1) In general.—The Secretary of State may pay the necessary travel expenses of the members of the advisory body established pursuant to this section in carrying out their service as such members in accordance with the Federal Travel Regulations and sections 5701, 5702, 5704 through 5708, and 5731 of title 5, United States Code. “(2) Reimbursement.—The Secretary of Commerce may reimburse the Secretary of State for amounts expended by the Secretary of State under this subsection.”
 
 #### Governing International Fishery Agreement With Russian Federation
 Pub. L. 103–206, title VII, § 701, Dec. 20, 1993, 107 Stat. 2446, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “The Agreement between the Government of the United States of America and the Government of the Russian Federation on Mutual Fisheries Relations which was entered into on May 31, 1988, and which expired by its terms on October 28, 1993, may be brought into force again for the United States through an exchange of notes between the United States of America and the Russian Federation and may remain in force and effect on the part of the United States until May 1, 1994, and may be amended or extended by a subsequent agreement to which section 203 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1823](./chapter-038-fishery-conservation-and-management.md#section-1823)) applies.”
@@ -1902,17 +1909,21 @@ Pub. L. 101–627, title I, § 105(b)(2), Nov. 28, 1990, 104 Stat. 4440, provide
 
 (5) the nations of the world have agreed in the United Nations, through General Assembly Resolution Numbered 44–225, approved December 22, 1989, by the General Assembly, that a moratorium should be imposed by June 30, 1992, on the use of large-scale driftnets beyond the exclusive economic zone of any nation;
 
-(6) the nations of the South Pacific have agreed to a moratorium on the use of large-scale driftnets in the South Pacific through the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, which was agreed to in Wellington, New Zealand, on November 29, 1989; and
+(6) the nations of the South Pacific have agreed to a moratorium on the use of large-scale driftnets in the South Pacific through the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, which was agreed to in Wellington, New Zealand, on November 29, 1989;
 
-(7) increasing population pressures and new knowledge of the importance of living marine resources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation.
+(7) increasing population pressures and new knowledge of the importance of living marine resources to the health of the global ecosystem demand that greater responsibility be exercised by persons fishing or developing new fisheries beyond the exclusive economic zone of any nation; and
+
+(8) within the exclusive economic zone, large-scale driftnet fishing that deploys nets with large mesh sizes causes significant entanglement and mortality of living marine resources, including myriad protected species, despite limitations on the lengths of such nets.
 
 **(c) Policy** It is declared to be the policy of the Congress in this section that the United States should—
 
 (1) implement the moratorium called for by the United Nations General Assembly in Resolution Numbered 44–225;
 
-(2) support the Tarawa Declaration and the Wellington Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific; and
+(2) support the Tarawa Declaration and the Wellington Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific;
 
-(3) secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation.
+(3) secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation; and
+
+(4) prioritize the phase out of large-scale driftnet fishing in the exclusive economic zone and promote the development and adoption of alternative fishing methods and gear types that minimize the incidental catch of living marine resources.
 
 **(d) International agreements** The Secretary, through the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall seek to secure international agreements to implement immediately the findings, policy, and provisions of this section, and in particular an international ban on large-scale driftnet fishing. The Secretary, through the Secretary of State, shall include, in any agreement which addresses the taking of living marine resources of the United States, provisions to ensure that—
 
@@ -1936,32 +1947,45 @@ Pub. L. 101–627, title I, § 105(b)(2), Nov. 28, 1990, 104 Stat. 4440, provide
 
 (10) definitive steps are agreed upon to ensure that parties to the agreement comply with the spirit of other international agreements and resolutions concerning the use of large-scale driftnets beyond the exclusive economic zone of any nation.
 
-**(e) Report** Not later than January 1, 1991, and every year thereafter until the purposes of this section are met, the Secretary, after consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report—
+**(e) Effect on sovereign rights** This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
 
-(1) describing the steps taken to carry out the provisions of this section, particularly subsection (c);
+**(f) “Living marine resources” defined** As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
 
-(2) evaluating the progress of those efforts, the impacts on living marine resources, including available observer data, and specifying plans for further action;
+**(i) 11 So in original. See Codification note below. Fishing gear transition program**
 
-(3) containing a list and description of any new fisheries developed by nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
+(1) **In general** — During the 5-year period beginning on December 29, 2022, the Secretary shall conduct a transition program to facilitate the phase-out of large-scale driftnet fishing and adoption of alternative fishing practices that minimize the incidental catch of living marine resources, and shall award grants to eligible permit holders who participate in the program.
 
-(4) containing a list of the nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes.
+(2) **Permissible uses** — Any permit holder receiving a grant under paragraph (1) may use such funds only for the purpose of covering—
 
-**(f) Certification** If at any time the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (e)(4), the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of [section 1978(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1978/a&num=0&edition=prelim).
+  (A) any fee originally associated with a permit authorizing participation in a large-scale driftnet fishery, if such permit is surrendered for permanent revocation, and such permit holder relinquishes any claim associated with the permit;
 
-**(g) Effect on sovereign rights** This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
+  (B) a forfeiture of fishing gear associated with a permit described in subparagraph (A); or
 
-**(h) “Living marine resources” defined** As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
+  (C) the purchase of alternative gear with minimal incidental catch of living marine resources, if the fishery participant is authorized to continue fishing using such alternative gears.
+
+(3) **Certification** — The Secretary shall certify that, with respect to each participant in the program under this subsection, any permit authorizing participation in a large-scale driftnet fishery has been permanently revoked and that no new permits will be issued to authorize such fishing.
 
 ### Statutory Notes
 
 #### References in Text
 The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to in subsec. (a), is title IV of Pub. L. 100–220, which is set out as a note under [section 1822 of this title](./chapter-038-fishery-conservation-and-management.md#section-1822).
 
-Presidential Proclamation Numbered 5030, referred to in subsec. (g), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
+Presidential Proclamation Numbered 5030, referred to in subsec. (e), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
-This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This chapter, referred to in subsec. (e), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+
+#### Codification
+Former subsecs. (g) and (h) were redesignated (e) and (f), respectively, by Pub. L. 117–328, § 205(b)(1)(B). See 2022 Amendment note below.
 
 #### Amendments
+2022—Subsec. (b)(8). Pub. L. 117–328, § 103(a), added par. (8).
+
+Subsec. (c)(4). Pub. L. 117–328, § 103(b), added par. (4).
+
+Subsecs. (e) to (h). Pub. L. 117–328, § 205(b)(1)(B), redesignated subsecs. (g) and (h) as (e) and (f), respectively, and struck out former subsecs. (e) and (f), which related, respectively, to reports and certification.
+
+Subsec. (i). Pub. L. 117–328, § 104, added subsec. (i).
+
 1996—Subsec. (e). Pub. L. 104–297, § 105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
 
 “(3) identifying and evaluating the effectiveness of unilateral measures and multilateral measures, including sanctions, that are available to encourage nations to agree to and comply with this section, and recommendations for legislation to authorize any additional measures that are needed if those are considered ineffective;
@@ -1987,11 +2011,13 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 (1) **Publication of list** — Not later than 30 days after November 2, 1992, and periodically thereafter, the Secretary of Commerce, in consultation with the Secretary of State, shall publish a list of nations whose nationals or vessels conduct large-scale driftnet fishing beyond the exclusive economic zone of any nation.
 
-(2) **Denial of port privileges** — The Secretary of the Treasury shall, in accordance with international law—
+(2) **Denial of port privileges** — The Secretary of Homeland Security shall, in accordance with international law—
 
-  (A) withhold or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1) or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim); and
+  (A) withhold or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) for any large-scale driftnet fishing vessel of a nation that receives a negative certification under section 1826j(d) or 1826k(c) of this title, or fishing vessels of a nation that has been listed pursuant to [section 1826j(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/b&num=0&edition=prelim) or [section 1826k(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/a&num=0&edition=prelim) in 2 or more consecutive reports for the same type of fisheries activity, as described under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h), until a positive certification has been received;
 
-  (B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.
+  (B) withhold or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) for fishing vessels of a nation that has been listed pursuant to section 1826j(a) or 1826k(a) of this title in 2 or more consecutive reports as described under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h); and
+
+  (C) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.
 
 (3) **Notification of nation** — Before the publication of a list of nations under paragraph (1), the Secretary of State shall notify each nation included on that list regarding—
 
@@ -2047,11 +2073,15 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 This Act, referred to in subsec. (a)(3)(B), is Pub. L. 102–582, Nov. 2, 1992, 106 Stat. 4900, known as the High Seas Driftnet Fisheries Enforcement Act, which enacted sections 1826a to 1826c of this title and section 1707a of the former Appendix to Title 46, Shipping, amended sections 1362, 1371, 1852, and 1862 of this title, [section 1978 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1978&num=0&edition=prelim), Foreign Relations and Intercourse, and [section 2110 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2110&num=0&edition=prelim), repealed section 1111c of the former Appendix to Title 46, and enacted provisions set out as notes under this section and sections 1801, 1823, and 1861 of this title and [section 2110 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2110&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1992 Amendments note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 #### Codification
-In subsec. (a)(2)(A), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
-
 Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, text read as follows: “The Secretary of the Treasury shall, in accordance with international law—
+
+“(A) withhold or revoke the clearance required by [section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim) for any large-scale driftnet fishing vessel that is documented under the laws of the United States or of a nation included on a list published under paragraph (1) or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim); and
+
+“(B) deny entry of that vessel to any place in the United States and to the navigable waters of the United States, except for the purposes of inspecting such vessel, conducting an investigation, or taking other appropriate enforcement action.”
+
 2015—Subsec. (a)(2). Pub. L. 114–81, § 102(a)(1), struck out “recognized principles of” after “in accordance with” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 114–81, § 102(a)(2), inserted “or, as appropriate, for fishing vessels of a nation that receives a negative certification under [section 1826j(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/d&num=0&edition=prelim) or [section 1826k(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826k/c&num=0&edition=prelim)” after “paragraph (1)”.
@@ -2069,6 +2099,11 @@ Subsec. (b)(4)(A). Pub. L. 114–81, § 102(a)(7), inserted “or issues a negat
 Subsec. (b)(4)(A)(i). Pub. L. 114–81, § 102(a)(8), (9), struck out “or illegal, unreported, or unregulated fishing” after “driftnet fishing” and inserted “, or to address the offending activities for which a nation received a negative certification under section 1826j(d) or 1826k(c) of this title” after “beyond the exclusive economic zone of any nation”.
 
 2007—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). Pub. L. 109–479 inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+
+#### Regulations
+Pub. L. 117–263, div. K, title CXIII, § 11341, Dec. 23, 2022, 136 Stat. 4105, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], the Secretary shall promulgate such regulations as may be necessary to carry out this subtitle [subtitle E (§§ 11329–11341) of title CXIII of div. K of Pub. L. 117–263, see Tables for classification] and the amendments made by this subtitle.”
+
+[For definition of “Secretary” as used in section 11341 of Pub. L. 117–263, set out above, see section 11329 of Pub. L. 117–263, set out as a note under [section 1885a of this title](./chapter-038-fishery-conservation-and-management.md#section-1885a).]
 
 #### High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy
 Pub. L. 102–582, § 2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that: “(a) Findings.—Congress makes the following findings:“(1) Large-scale driftnet fishing on the high seas is highly destructive to the living marine resources and ocean ecosystems of the world’s oceans, including anadromous fish and other living marine resources of the United States. “(2) The cumulative effects of large-scale driftnet fishing pose a significant threat to the marine ecosystem, and slow-reproducing species like marine mammals, sharks, and seabirds may require many years to recover. “(3) Members of the international community have reviewed the best available scientific data on the impacts of large-scale pelagic driftnet fishing, and have failed to conclude that this practice has no significant adverse impacts which threaten the conservation and sustainable management of living marine resources. “(4) The United Nations, via General Assembly Resolutions numbered 44–225, 45–197, and most recently 46–215 (adopted on December 20, 1991), has called for a worldwide moratorium on all high seas driftnet fishing by December 31, 1992, in all the world’s oceans, including enclosed seas and semi-enclosed seas. “(5) The United Nations has commended the unilateral, regional, and international efforts undertaken by members of the international community and international organizations to implement and support the objectives of the General Assembly resolutions. “(6) Operative paragraph (4) of United Nations General Assembly Resolution numbered 46–215 specifically ‘encourages all members of the international community to take measures individually and collectively to prevent large-scale pelagic driftnet fishing operations on the high seas of the world’s oceans and seas’. “(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1857(1)(M)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1857/1/M&num=0&edition=prelim)), has specifically prohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation. “(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations. “(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation. “(10) In order to ensure that the global moratorium on large-scale driftnet fishing called for in United Nations General Assembly Resolution numbered 46–215 takes effect by December 31, 1992, and that unregulated fishing practices in the waters of the Central Bering Sea are reduced or eliminated, the United States should take the actions described in this Act [see Short Title of 1992 Amendments note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801)] and encourage other nations to take similar action. “(b) Policy.—It is the stated policy of the United States to—“(1) implement United Nations General Assembly Resolution numbered 46–215, approved unanimously on December 20, 1991, which calls for an immediate cessation to further expansion of large-scale driftnet fishing, a 50 percent reduction in existing large-scale driftnet fishing effort by June 30, 1992, and a global moratorium on the use of large-scale driftnets beyond the exclusive economic zone of any nation by December 31, 1992; “(2) bring about a moratorium on fishing in the Central Bering Sea, or an international conservation and management agreement to which the United States and the Russian Federation are parties that regulates fishing in the Central Bering Sea; and “(3) secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation.”
@@ -2275,8 +2310,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <a id="section-1826h"></a>
 ## § 1826h. Biennial report on international compliance
-
-The Secretary, in consultation with the Secretary of State, shall provide to Congress, by not later than 2 years after January 12, 2007, and every 2 years thereafter, on June 1 of that year a report that includes—
+**(a) In general** The Secretary, in consultation with the Secretary of State, shall provide to Congress, by not later than 2 years after January 12, 2007, and every 2 years thereafter, on June 1 of that year a report that includes—
 
 (1) the state of knowledge on the status of international living marine resources shared by the United States or subject to treaties or agreements to which the United States is a party, including a list of all such fish stocks classified as overfished, overexploited, depleted, endangered, or threatened with extinction by any international or other authority charged with management or conservation of living marine resources;
 
@@ -2288,12 +2322,28 @@ The Secretary, in consultation with the Secretary of State, shall provide to Con
 
 (5) steps taken by the Secretary at the international level to adopt international measures comparable to those of the United States to reduce impacts of fishing and other practices on protected living marine resources, if no international agreement to achieve such goal exists, or if the relevant international fishery or conservation organization has failed to implement effective measures to end or reduce the adverse impacts of fishing practices on such species.
 
+**(b) Additional information** In addition to the information described in paragraphs (1) through (5) of subsection (a), the report shall include—
+
+(1) a description of the actions taken to carry out the provisions of [section 1826 of this title](./chapter-038-fishery-conservation-and-management.md#section-1826), including—
+
+  (A) an evaluation of the progress of those efforts, the impacts on living marine resources, including available observer data, and specific plans for further action;
+
+  (B) a list and description of any new fisheries developed by nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation; and
+
+  (C) a list of the nations that conduct, or authorize their nationals to conduct, large-scale driftnet fishing beyond the exclusive economic zone of any nation in a manner that diminishes the effectiveness of or is inconsistent with any international agreement governing large-scale driftnet fishing to which the United States is a party or otherwise subscribes; and
+
+(2) a description of the actions taken to carry out the provisions of [section 1822(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1822/h&num=0&edition=prelim).
+
+**(c) Certification** If, at any time, the Secretary, in consultation with the Secretary of State and the Secretary of the department in which the Coast Guard is operating, identifies any nation that warrants inclusion in the list described under subsection (b)(1)(C), due to large scale drift net fishing, the Secretary shall certify that fact to the President. Such certification shall be deemed to be a certification for the purposes of [section 1978(a) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1978/a&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Codification
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2022—Pub. L. 117–328, § 205(b)(2), designated existing provisions as subsec. (a), inserted heading, added subsecs. (b) and (c), and realigned margins.
+
 2016—Pub. L. 114–327, in introductory provisions, inserted “on June 1 of that year” after “every 2 years thereafter,”.
 
 2015—Par. (2). Pub. L. 114–81 substituted “that” for “whose vessels”.
@@ -2392,13 +2442,19 @@ Pub. L. 111–348, title I, § 104, as added by Pub. L. 115–228, § 2(1), Aug.
 
   (B) where no international fishery management organization exists with a mandate to regulate the fishing activity in question.
 
-(2) **Identification for actions of nation** — Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
+(2) **For actions of a nation** — The Secretary shall identify, and list in such report, a nation engaging in or endorsing illegal, unreported, or unregulated fishing. In determining which nations to list in such report, the Secretary shall consider the following:
 
-  (A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
+  (A) Any nation that is violating, or has violated at any point during the 3 years preceding the date of the determination, conservation and management measures, including catch and other data reporting obligations and requirements, required under an international fishery management agreement to which the United States is a party.
 
-  (B) if it is failing, or has failed in the preceding 3-year period, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).
+  (B) Any nation that is failing, or has failed in the 3-year period preceding the date of the determination, to effectively address or regulate illegal, unreported, or unregulated fishing within its fleets in any areas where its vessels are fishing.
+
+  (C) Any nation that fails to discharge duties incumbent upon it under international law or practice as a flag, port, or coastal state to take action to prevent, deter, and eliminate illegal, unreported, or unregulated fishing.
+
+  (D) Any nation that has been identified as producing for export to the United States seafood-related goods through forced labor or oppressive child labor (as those terms are defined in section 11329 of the Don Young Coast Guard Authorization Act of 2022) in the most recent List of Goods Produced by Child Labor or Forced Labor in accordance with the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7101&num=0&edition=prelim) et seq.).
 
 (3) **Application to other entities** — Where the provisions of this Act are applicable to nations, they shall also be applicable, as appropriate, to other entities that have competency to enter into international fishery management agreements.
+
+(4) **Timing** — The Secretary shall make an identification under paragraph (1) or (2) at any time that the Secretary has sufficient information to make such identification.
 
 **(b) Notification** The Secretary shall notify the President and that nation of such an identification.
 
@@ -2424,19 +2480,11 @@ Pub. L. 111–348, title I, § 104, as added by Pub. L. 115–228, § 2(1), Aug.
 
   (B) the vessel is not identified by an international fishery management organization as participating in illegal, unreported, or unregulated fishing activities.
 
-(3) **Effect of certification**
+(3) **Effect of certification determination**
 
-  (A) *In general* — The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title—
+  (A) *Effect of negative certification* — The provisions of subsection (a) and paragraphs (3) and (4) of subsection (b) of [section 1826a of this title](./chapter-038-fishery-conservation-and-management.md#section-1826a) shall apply to any nation that, after being identified and notified under subsection (b) has failed to take the appropriate corrective actions for which the Secretary has issued a negative certification under this subsection.
 
-    (i) shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection; but
-
-    (ii) shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
-
-  (B) *Exceptions* — Subparagraph (A)(i) does not apply—
-
-    (i) to the extent that such provisions would apply to sport fishing equipment or to fish or fish products not managed under the applicable international fishery agreement; or
-
-    (ii) if there is no applicable international fishery agreement, to the extent that such provisions would apply to fish or fish products caught by vessels not engaged in illegal, unreported, or unregulated fishing.
+  (B) *Effect of positive certification* — The provisions of subsection (a) and paragraphs (3) and (4) of subsection (b) of [section 1826a of this title](./chapter-038-fishery-conservation-and-management.md#section-1826a) shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 
 **(e) Illegal, unreported, or unregulated fishing defined**
 
@@ -2457,7 +2505,9 @@ Pub. L. 111–348, title I, § 104, as added by Pub. L. 115–228, § 2(1), Aug.
 ### Statutory Notes
 
 #### References in Text
-Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act ([16 U.S.C. 1826a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826a/a&num=0&edition=prelim), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
+Section 11329 of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (a)(2)(D), is section 11329 of div. K of Pub. L. 117–263, which is set out as a note under [section 1885a of this title](./chapter-038-fishery-conservation-and-management.md#section-1885a).
+
+The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(2)(D), is div. A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to chapter 78 (§ 7101 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7101&num=0&edition=prelim) and Tables.
 
 This Act, referred to in subsecs. (a)(3) and (e)(1), (2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
@@ -2465,6 +2515,20 @@ This Act, referred to in subsecs. (a)(3) and (e)(1), (2), probably means title V
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263, § 11337(a)(1), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Taking into account the factors described under subsection (a)(1), the Secretary shall also identify, and list in such report, a nation—
+
+“(A) if it is violating, or has violated at any point during the preceding 3 years, conservation and management measures required under an international fishery management agreement to which the United States is a party and the violations undermine the effectiveness of such measures; or
+
+“(B) if it is failing, or has failed in the preceding 3-year period, to effectively address or regulate illegal, unreported, or unregulated fishing in areas described under paragraph (1)(B).”
+
+Subsec. (a)(4). Pub. L. 117–263, § 11337(a)(2), added par. (4).
+
+Subsec. (d)(3). Pub. L. 117–263, § 11337(b)(1), added par. (3) and struck out former par. (3) which related to effect of certification.
+
+Subsecs. (e) to (g). Pub. L. 117–328, § 401(1), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which related to recordkeeping requirements.
+
+Pub. L. 117–263, § 11337(b)(2), (3), added subsec. (e) and redesignated former subsecs. (e) and (f) as (f) and (g), respectively.
+
 2016—Subsec. (a)(1). Pub. L. 114–327 substituted “any fishing vessel of that nation is engaged, or has” for “fishing vessels of that nation are engaged, or have” in introductory provisions.
 
 2015—Subsec. (a). Pub. L. 114–81, § 101(g)(1), (2), designated existing provisions as par. (1), inserted heading, and, in introductory provisions, inserted “, based on a cumulative compilation and analysis of data collected and provided by international fishery management organizations and other nations and organizations,” after “shall” and substituted “3 years” for “2 years”; redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and, in subpar. (A), inserted “that undermines the effectiveness of measures required by an international fishery management organization, taking into account whether” before “the relevant” and struck out “vessels of” after “activity by”; and added pars. (2) and (3).
@@ -2487,35 +2551,31 @@ Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering
 
 <a id="section-1826k"></a>
 ## § 1826k. Equivalent conservation measures
-**(a) Identification** The Secretary shall identify, and list in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h)—
+**(a) Identification**
 
-(1) a nation if—
+(1) **In general** — The Secretary shall identify and list in the report under [section 1826h of this title](./chapter-038-fishery-conservation-and-management.md#section-1826h)—
 
-  (A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years in fishing activities or practices—
+  (A) a nation if—
 
-    (i) in waters beyond any national jurisdiction that result in bycatch of a protected living marine resource; or
+    (i) any fishing vessel of that nation is engaged, or has been engaged during the 3 years preceding the date of the determination, in fishing activities or practices on the high seas or within the exclusive economic zone of any nation, that have resulted in bycatch of a protected living marine resource; and
 
-    (ii) beyond the exclusive economic zone of the United States that result in bycatch of a protected living marine resource shared by the United States;
+    (ii) the vessel’s flag state has not adopted, implemented, and enforced a regulatory program governing such fishing designed to end or reduce such bycatch that is comparable in effectiveness to the regulatory program of the United States, taking into account differing conditions; and
 
-  (B) the relevant international organization for the conservation and protection of such resources or the relevant international or regional fishery organization has failed to implement effective measures to end or reduce such bycatch, or the nation is not a party to, or does not maintain cooperating status with, such organization; and
+  (B) a nation if—
 
-  (C) the nation has not adopted a regulatory program governing such fishing practices designed to end or reduce such bycatch that is comparable to that of the United States, taking into account different conditions; and
+    (i) any fishing vessel of that nation is engaged, or has engaged during the 3 years preceding the date of the determination, in fishing activities on the high seas or within the exclusive economic zone of another nation that target or incidentally catch sharks; and
 
-(2) a nation if—
+    (ii) the vessel’s flag state has not adopted, implemented, and enforced a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark, including the tail, before landing the shark in port, that is comparable to that of the United States.
 
-  (A) fishing vessels of that nation are engaged, or have been engaged during the preceding 3 years, in fishing activities or practices in waters beyond any national jurisdiction that target or incidentally catch sharks; and
+(2) **Timing** — The Secretary shall make an identification under paragraph (1) at any time that the Secretary has sufficient information to make such identification.
 
-  (B) the nation has not adopted a regulatory program to provide for the conservation of sharks, including measures to prohibit removal of any of the fins of a shark (including the tail) and discarding the carcass of the shark at sea, that is comparable to that of the United States, taking into account different conditions.
+**(b) Consultation and negotiation** The Secretary of State, acting in consultation with the Secretary, shall—
 
-**(b) Consultation and negotiation** The Secretary, acting through the Secretary of State, shall—
+(1) notify, as soon as practicable, the President and nations that are engaged in, or that have any fishing vessels engaged in, fishing activities or practices described in subsection (a), about the provisions of this Act;
 
-(1) notify, as soon as possible, the President and nations that have been identified under subsection (a), and also notify other nations whose vessels engage in fishing activities or practices described in subsection (a), about the provisions of this section and this Act;
+(2) initiate discussions as soon as practicable with all foreign nations that are engaged in, or a fishing vessel of which has engaged in, fishing activities described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such nations to protect such species and to address any underlying failings or gaps that may have contributed to identification under this Act; and
 
-(2) initiate discussions as soon as possible with all foreign governments which are engaged in, or which have persons or companies engaged in, fishing activities or practices described in subsection (a), for the purpose of entering into bilateral and multilateral treaties with such countries to protect such species;
-
-(3) seek agreements calling for international restrictions on fishing activities or practices described in subsection (a) through the United Nations, the Food and Agriculture Organization’s Committee on Fisheries, and appropriate international fishery management bodies; and
-
-(4) initiate the amendment of any existing international treaty for the protection and conservation of such species to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section.
+(3) initiate the amendment of any existing international treaty for the protection and conservation of such species to which the United States is a party in order to make such treaty consistent with the purposes and policies of this section.
 
 **(c) Conservation certification procedure**
 
@@ -2525,7 +2585,7 @@ Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering
 
   (B) has established a management plan containing requirements that will assist in gathering species-specific data to support international stock assessments and conservation enforcement efforts for protected living marine resources.
 
-(2) **Procedural requirement** — The procedure established by the Secretary under paragraph (1) shall include notice and opportunity for comment by any such nation.
+(2) **Procedural requirement** — The procedure established by the Secretary under paragraph (1) shall include notice and opportunity for comment by the public and any such nation.
 
 (3) **Certification** — The Secretary shall certify to the Congress by January 31, 2007, and biennially thereafter whether each such nation has provided the documentary evidence described in paragraph (1)(A) and established a management plan described in paragraph (1)(B).
 
@@ -2535,7 +2595,7 @@ Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering
 
   (B) include the gathering of species specific data that can be used to support international and regional stock assessments and conservation efforts for protected living marine resources.
 
-(5) **Effect of certification** — The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title (except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing) shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
+(5) **Effect of certification** — The provisions of section 1826a(a) and section 1826a(b)(3) and (4) of this title shall apply to any nation identified under subsection (a) for which the Secretary has issued a negative certification under this subsection, but shall not apply to any nation identified under subsection (a) for which the Secretary has issued a positive certification under this subsection.
 
 **(d) International cooperation and assistance** To the greatest extent possible consistent with existing authority and the availability of funds, the Secretary shall—
 
@@ -2549,7 +2609,15 @@ Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering
 
 **(e) Protected living marine resource defined** In this section the term “protected living marine resource”—
 
-(1) means non-target fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including the Marine Mammal Protection Act [[16 U.S.C. 1361](./chapter-031-marine-mammal-protection.md#section-1361) et seq.], the Endangered Species Act [[16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.], the Shark Finning Prohibition Act, and the Convention on International Trade in Endangered Species of Wild Flora and Fauna; but
+(1) except as provided in paragraph (2), means nontarget fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including—
+
+  (A) the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361](./chapter-031-marine-mammal-protection.md#section-1361) et seq.);
+
+  (B) the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.);
+
+  (C) the Shark Finning Prohibition Act ([16 U.S.C. 1822](./chapter-038-fishery-conservation-and-management.md#section-1822) note); and
+
+  (D) the Convention on International Trade in Endangered Species of Wild Fauna and Flora, done at Washington March 3, 1973 (27 UST 1087; TIAS 8249); but
 
 (2) does not include species, except sharks, managed under the Magnuson-Stevens Fishery Conservation and Management Act [[16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.], the Atlantic Tunas Convention Act [[16 U.S.C. 971](./chapter-16a-atlantic-tunas-convention.md#section-971) et seq.], or any international fishery management agreement.
 
@@ -2558,15 +2626,15 @@ Nothing in amendment by Pub. L. 111–348 to be construed as affecting, altering
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b)(1), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+This Act, referred to in subsec. (b)(1), (2), probably means title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act, which is classified generally to sections 1826d to 1826k of this title. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (c)(5), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act ([16 U.S.C. 1826a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826a/a&num=0&edition=prelim), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
-The Marine Mammal Protection Act, referred to in subsec. (e)(1), probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act of 1972, referred to in subsec. (e)(1)(A), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
-The Endangered Species Act, referred to in subsec. (e)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+The Endangered Species Act of 1973, referred to in subsec. (e)(1)(B), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Shark Finning Prohibition Act, referred to in subsec. (e)(1), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under [section 1822 of this title](./chapter-038-fishery-conservation-and-management.md#section-1822). For complete classification of this Act to the Code, see Tables.
+The Shark Finning Prohibition Act, referred to in subsec. (e)(1)(C), is Pub. L. 106–557, Dec. 21, 2000, 114 Stat. 2772, which is set out as a note under [section 1822 of this title](./chapter-038-fishery-conservation-and-management.md#section-1822). For complete classification of this Act to the Code, see Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e)(2), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
@@ -2576,6 +2644,22 @@ The Atlantic Tunas Convention Act, referred to in subsec. (e)(2), probably means
 Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protection Act, and also as part of the Fisheries Act of 1995, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 11338(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to identification of nations with certain fishing activities that resulted in bycatch of protected living marine resources and that targeted or incidentally caught sharks.
+
+Subsec. (b). Pub. L. 117–263, § 11338(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to consultation and negotiation with foreign governments regarding bilateral and multilateral treaties and agreements to protect certain species.
+
+Subsec. (b)(3), (4). Pub. L. 117–328, § 401(2)(A), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “seek agreements calling for international restrictions on fishing activities or practices described in subsection (a) through the United Nations, the Committee on Fisheries of the Food and Agriculture Organization of the United Nations, and appropriate international fishery management bodies; and”.
+
+Subsec. (c)(2). Pub. L. 117–263, § 11338(c)(1), inserted “the public and” after “comment by”.
+
+Subsec. (c)(4)(C). Pub. L. 117–328, § 401(2)(B), struck out subpar. (C) which read as follows: “ensure that any such fish or fish products authorized for entry under this section are imported consistent with the reporting and the recordkeeping requirements of the Seafood Import Monitoring Program established in subpart Q of part 300 of title 50, Code of Federal Regulations (or any successor regulation).”
+
+Pub. L. 117–263, § 11338(c)(2), added subpar. (C).
+
+Subsec. (c)(5). Pub. L. 117–263, § 11338(c)(3), struck out “(except to the extent that such provisions apply to sport fishing equipment or fish or fish products not caught by the vessels engaged in illegal, unreported, or unregulated fishing)” after “section 1826a(b)(3) and (4) of this title”.
+
+Subsec. (e)(1). Pub. L. 117–263, § 11338(d), added par. (1) and struck out former par. (1) which read as follows: “means non-target fish, sea turtles, or marine mammals that are protected under United States law or international agreement, including the Marine Mammal Protection Act, the Endangered Species Act, the Shark Finning Prohibition Act, and the Convention on International Trade in Endangered Species of Wild Flora and Fauna; but”.
+
 2016—Subsec. (a)(2)(A). Pub. L. 114–327 substituted “3 years” for “calendar year”.
 
 2015—Subsec. (a)(1)(A). Pub. L. 114–81, § 101(g)(3), (i)(5)(A), substituted “3 years” for “calendar year” and “practices—” for “practices;” in introductory provisions.
@@ -3048,7 +3132,7 @@ Pub. L. 98–613, §§ 1–9, Oct. 31, 1984, 98 Stat. 3187–3190, as amended, f
 
 **(i) Procedural matters**
 
-(1) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).
+(1) Chapter 10 of title 5 shall not apply to the Councils, the Council coordination committee established under subsection (l), or to the scientific and statistical committees or other committees or advisory panels established under subsection (g).
 
 (2) The following guidelines apply with respect to the conduct of business at meetings of a Council, of the Council coordination committee established under subsection (l), and of the scientific and statistical committees or other committees or advisory panels established under subsection (g):
 
@@ -3181,11 +3265,11 @@ This chapter, referred to in subsecs. (f)(2), (6), (g)(2), (h), (k)(1)(E), and (
 
 Section 515 of the Treasury and General Government Appropriations Act for Fiscal year 2001, referred to in subsec. (g)(1)(E), is section 1(a)(3) [title V, § 515] of Pub. L. 106–554, which is set out as a note under [section 3516 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3516&num=0&edition=prelim), Public Printing and Documents.
 
-The Federal Advisory Committee Act, referred to in subsec. (i)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The National Environmental Policy Act, referred to in subsec. (k)(1)(F), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (i)(1). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2018—Subsec. (h)(8), (9). Pub. L. 115–405 added par. (8) and redesignated former par. (8) as (9).
 
 2007—Subsec. (a)(1)(D). Pub. L. 109–479, § 102, inserted “and of commonwealths, territories, and possessions of the United States in the Caribbean Sea” after “seaward of such States”.
@@ -4816,7 +4900,11 @@ It is unlawful—
 
   (L) to forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with any observer on a vessel under this chapter, or any data collector employed by the National Marine Fisheries Service or under contract to any person to carry out responsibilities under this chapter;
 
-  (M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation;
+  (M) to engage in large-scale driftnet fishing that is subject to the jurisdiction of the United States, including use of a fishing vessel of the United States to engage in such fishing beyond the exclusive economic zone of any nation, unless such large-scale driftnet fishing—
+
+    (i) deploys, within the exclusive economic zone, a net with a total length of less than two and one-half kilometers and a mesh size of 14 inches or greater; and
+
+    (ii) is conducted within 5 years of December 29, 2022;
 
   (N) to strip pollock of its roe and discard the flesh of the pollock;
 
@@ -4881,6 +4969,12 @@ This chapter, referred to in par. (1), was in the original “this Act”, meani
 The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, which is classified principally to chapter 71 (§ 5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under [section 5101 of this title](./chapter-071-atlantic-coastal-fisheries-cooperative-management.md#section-5101) and Tables.
 
 #### Amendments
+2022—Par. (1)(M). Pub. L. 117–328 inserted before semicolon at end “, unless such large-scale driftnet fishing—
+
+“(i) deploys, within the exclusive economic zone, a net with a total length of less than two and one-half kilometers and a mesh size of 14 inches or greater; and
+
+“(ii) is conducted within 5 years of December 29, 2022”.
+
 2015—Par. (1)(Q). Pub. L. 114–81 inserted before the semicolon “or any treaty or in contravention of any binding conservation measure adopted by an international agreement or organization to which the United States is a party”.
 
 2011—Par. (1). Pub. L. 111–348, § 103(a)(2), substituted “For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term ‘naturally attached’, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.” for “For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.” in concluding provisions.
@@ -4955,6 +5049,9 @@ Pub. L. 111–348, title I, § 103(b), Jan. 4, 2011, 124 Stat. 3670, provided th
 
 #### Construction
 Nothing in section 103 of Pub. L. 111–348 (amending this section and enacting provisions set out as a note above) to be construed as affecting, altering, or diminishing the authority of the Secretary of Commerce to establish such conservation and management measures as the Secretary considers necessary and appropriate under sections 1852(a)(3) and 1854(g) of this title, see section 104 of Pub. L. 111–348, set out as a note under [section 1826i of this title](./chapter-038-fishery-conservation-and-management.md#section-1826i).
+
+#### Prohibition on Sale of Shark Fins
+Pub. L. 117–263, div. E, title LIX, § 5946(b), Dec. 23, 2022, 136 Stat. 3475, provided that: “(1) Prohibition.—Except as provided in paragraph (3), no person shall possess, acquire, receive, transport, offer for sale, sell, or purchase a shark fin or a product containing a shark fin. “(2) Penalty.—A violation of paragraph (1) shall be treated as an act prohibited by section 307 of the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1857](./chapter-038-fishery-conservation-and-management.md#section-1857)) and shall be penalized pursuant to section 308 of that Act ([16 U.S.C. 1858](./chapter-038-fishery-conservation-and-management.md#section-1858)). “(3) Exceptions.—A person may possess a shark fin that was taken lawfully pursuant to a Federal, State, or territorial license or permit to take or land sharks if the shark fin was separated after the first point of landing in a manner consistent with the license or permit and is—“(A) destroyed or disposed of immediately upon separation from the carcass; “(B) used for noncommercial subsistence purposes in accordance with Federal, State, or territorial law; or “(C) used solely for display or research purposes by a museum, college, or university pursuant to a Federal, State, or territorial permit to conduct noncommercial scientific research. “(4) Dogfish exemption.—“(A) In general.—It shall not be a violation of paragraph (1) for a person to possess, acquire, receive, transport, offer for sale, sell, or purchase a shark fin of a smooth dogfish (Mustelus canis) or a spiny dogfish (Squalus acanthias). “(B) Report.—“(i) In general.—Not later than January 1, 2027, the Secretary of Commerce shall review the exemption provided by subparagraph (A) and submit to Congress a report regarding such exemption that includes a recommendation to continue or terminate the exemption. “(ii) Factors.—In carrying out clause (i), the Secretary of Commerce shall analyze factors including—“(I) the impact of continuation and termination of the exemption on the economic viability of dogfish fisheries; “(II) the impact of continuation and termination of the exemption on ocean ecosystems; “(III) the impact of the exemption on the enforcement of the prohibition described in paragraph (1); and “(IV) the impact of the exemption on shark conservation. “(5) Enforcement.—This subsection, and any regulations issued pursuant thereto, shall be enforced by the Secretary of Commerce, who may use by agreement, with or without reimbursement, the personnel, services, equipment, and facilities of another Federal agency or of a State agency or Indian Tribe for the purpose of enforcing this subsection. “(6) Rule of construction.—Nothing in this subsection may be construed to preclude, deny, or limit any right of a State or territory to adopt or enforce any regulation or standard that is more stringent than a regulation or standard in effect under this subsection. “(7) Severability.—If any provision of this subsection, or the application thereof to any person or circumstance, is held invalid, the validity of the remainder of the subsection and of the application of any such provision to other persons and circumstances shall not be affected thereby. “(8) Shark fin defined.—In this subsection, the term ‘shark fin’ means the unprocessed, dried, or otherwise processed detached fin or tail of a shark.”
 
 
 <a id="section-1858"></a>
@@ -5345,21 +5442,338 @@ Pub. L. 102–582, title II, § 202, Nov. 2, 1992, 106 Stat. 4905, provided that
 
 <a id="section-1861a"></a>
 ## § 1861a. Transition to sustainable fisheries
-**(a) Fisheries disaster relief**
+**(a) Fishery resource disaster relief**
 
-(1) At the discretion of the Secretary or at the request of the Governor of an affected State or a fishing community, the Secretary shall determine whether there is a commercial fishery failure due to a fishery resource disaster as a result of—
+(1) **Definitions** — In this subsection:
 
-  (A) natural causes;
+  (A) *Allowable cause* — The term “allowable cause” means a natural cause, discrete anthropogenic cause, or undetermined cause, including a cause that occurred not more than 5 years prior to the date of a request for a fishery resource disaster determination that affected such applicable fishery.
 
-  (B) man-made causes beyond the control of fishery managers to mitigate through conservation and management measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment; or
+  (B) *Anthropogenic cause* — The term “anthropogenic cause” means an anthropogenic event, such as an oil spill or spillway opening—
 
-  (C) undetermined causes.
+    (i) that could not have been addressed or prevented by fishery management measures; and
 
-(2) Upon the determination under paragraph (1) that there is a commercial fishery failure, the Secretary is authorized to make sums available to be used by the affected State, fishing community, or by the Secretary in cooperation with the affected State or fishing community for assessing the economic and social effects of the commercial fishery failure, or any activity that the Secretary determines is appropriate to restore the fishery or prevent a similar failure in the future and to assist a fishing community affected by such failure. Before making funds available for an activity authorized under this section, the Secretary shall make a determination that such activity will not expand the size or scope of the commercial fishery failure in that fishery or into other fisheries or other geographic regions.
+    (ii) that is otherwise beyond the control of fishery managers to mitigate through conservation and management measures, including regulatory restrictions imposed as a result of judicial action or to protect human health or marine animals, plants, or habitats.
 
-(3) The Federal share of the cost of any activity carried out under the authority of this subsection shall not exceed 75 percent of the cost of that activity.
+  (C) *Fishery resource disaster* — The term “fishery resource disaster” means a disaster that is determined by the Secretary in accordance with this subsection and—
 
-(4) There are authorized to be appropriated to the Secretary such sums as are necessary for each of the fiscal years 2007 through 2013.
+    (i) is an unexpected large decrease in fish stock biomass or other change that results in significant loss of access to the fishery resource, which may include loss of fishing vessels and gear for a substantial period of time and results in significant revenue loss or negative subsistence impact due to an allowable cause; and
+
+    (ii) does not include—
+
+      (I) reasonably predictable, foreseeable, and recurrent fishery cyclical variations in species distribution or stock abundance; or
+
+      (II) reductions in fishing opportunities resulting from conservation and management measures taken pursuant to this chapter.
+
+  (D) *Indian Tribe* — The term “Indian Tribe” has the meaning given such term in [section 5130 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim), and the term “Tribal” means of or pertaining to such an Indian tribe.
+
+  (E) *Natural cause* — The term “natural cause”—
+
+    (i) means a weather, climatic, hazard, or biology-related event, such as—
+
+      (I) a hurricane;
+
+      (II) a flood;
+
+      (III) a harmful algal bloom;
+
+      (IV) a tsunami;
+
+      (V) a hypoxic zone;
+
+      (VI) a drought;
+
+      (VII) El Niño effects on water temperature;
+
+      (VIII) a marine heat wave; or
+
+      (IX) disease; and
+
+    (ii) does not mean a normal or cyclical variation in a species distribution or stock abundance.
+
+  (F) *12-month revenue loss* — The term “12-month revenue loss” means the percentage reduction, as applicable, in commercial, charter, headboat, or processor revenue for the affected fishery for the 12 months during which the fishery resource disaster occurred, when compared to average annual revenue in the most recent 5 years when no fishery resource disaster occurred or equivalent for stocks with cyclical life histories.
+
+  (G) *Undetermined cause* — The term “undetermined cause” means a cause in which the current state of knowledge does not allow the Secretary to identify the exact cause, and there is no current conclusive evidence supporting a possible cause of the fishery resource disaster.
+
+(2) **General authority**
+
+  (A) *In general* — The Secretary shall have the authority to determine the existence, extent, and beginning and end dates of a fishery resource disaster under this subsection in accordance with this subsection.
+
+  (B) *Availability of funds* — After the Secretary determines that a fishery resource disaster has occurred, the Secretary is authorized to make sums available, from funds appropriated for such purposes, to be used by the affected State, Indian Tribe, or interstate marine fisheries commission, or by the Secretary in cooperation with the affected State, Indian Tribe, or interstate marine fisheries commission.
+
+  (C) *Savings clause* — The requirements under this paragraph and paragraphs (3), (4), and (5) shall take effect only with respect to fishery resource disaster determination requests submitted after December 29, 2022.
+
+(3) **Initiation of a fishery resource disaster review**
+
+  (A) *Eligible requesters*
+
+    (i) *In general* — If the Secretary has not independently determined that a fishery resource disaster has occurred, a request for a fishery resource disaster determination may be submitted to the Secretary at any time, but not later than the applicable date determined under clause (ii), by—
+
+      (I) the Governor of an affected State;
+
+      (II) an official resolution of an Indian Tribe; or
+
+      (III) any other comparable elected or politically appointed representative as determined by the Secretary.
+
+    (ii) *Applicable date* — The applicable date under this clause shall be—
+
+      (I) 1 year after the date of the conclusion of the fishing season;
+
+      (II) in the case of a distinct cause that occurs during more than 1 consecutive fishing season, 2 years after the date of the conclusion of the fishing season for which the request for a fishery resource disaster determination is made; or
+
+      (III) in the case of a complete fishery closure, 1 year after the date on which that closure is determined by the Secretary.
+
+  (B) *Required information* — A complete request for a fishery resource disaster determination under subparagraph (A) shall include—
+
+    (i) identification of all presumed affected fish stocks;
+
+    (ii) identification of the fishery as Federal, non-Federal, or both;
+
+    (iii) the geographical boundaries of the fishery, as determined by the eligible requester, including geographic boundaries that are smaller than the area represented by the eligible requester;
+
+    (iv) preliminary information on causes of the fishery resource disaster, if known; and
+
+    (v) information needed to support a finding of a fishery resource disaster, including—
+
+      (I) information demonstrating the occurrence of an unexpected large decrease in fish stock biomass or other change that results in significant loss of access to the fishery resource, which could include the loss of fishing vessels and gear, for a substantial period of time;
+
+      (II) significant—
+
+        (aa) 12-month revenue loss for the affected fishery; or
+
+        (bb) negative subsistence impact for the affected fishery, or if a fishery resource disaster has occurred at any time in the previous 5-year period, the most recent 5 years when no fishery resource disaster occurred;
+
+      (III) if applicable, information on lost resource tax revenues assessed by local communities, such as a raw fish tax and local sourcing requirements; and
+
+      (IV) if applicable and available, information on affected fishery 12-month revenue loss for charter, headboat, or processors related to the information provided under subclause (I), subject to [section 1881a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1881a/b&num=0&edition=prelim).
+
+  (C) *Assistance* — The Secretary may provide data and analysis assistance to an eligible requester described in paragraph (1), if—
+
+    (i) the assistance is so requested;
+
+    (ii) the Secretary is in possession of the required information described in subparagraph (B); and
+
+    (iii) the data is not available to the requester, in carrying out the complete request under subparagraph (B).
+
+  (D) *Initiation of review* — The Secretary shall have the discretion to initiate a fishery resource disaster review without a request.
+
+(4) **Review process**
+
+  (A) *Interim response* — Not later than 20 days after receipt of a request under paragraph (3), the Secretary shall provide an interim response to the individual that—
+
+    (i) acknowledges receipt of the request;
+
+    (ii) provides a regional contact within the National Oceanographic and Atmospheric Administration;
+
+    (iii) outlines the process and timeline by which a request shall be considered; and
+
+    (iv) requests additional information concerning the fishery resource disaster, if the original request is considered incomplete.
+
+  (B) *Evaluation of requests*
+
+    (i) *In general* — The Secretary shall complete a review, within the time frame described in clause (ii), using the best scientific information available, in consultation with the affected fishing communities, States, or Indian Tribes, of—
+
+      (I) the information provided by the requester and any additional information relevant to the fishery, which may include—
+
+        (aa) fishery characteristics;
+
+        (bb) stock assessments;
+
+        (cc) the most recent fishery independent surveys and other fishery resource assessments and surveys conducted by Federal, State, or Tribal officials;
+
+        (dd) estimates of mortality; and
+
+        (ee) overall effects; and
+
+      (II) the available economic information, which may include an analysis of—
+
+        (aa) landings data;
+
+        (bb) revenue;
+
+        (cc) the number of participants involved;
+
+        (dd) the number and type of jobs and persons impacted, which may include—
+
+          (AA) fishers;
+
+          (BB) charter fishing operators;
+
+          (CC) subsistence users;
+
+          (DD) United States fish processors; and
+
+          (EE) an owner of a related fishery infrastructure or business affected by the disaster, such as a marina operator, recreational fishing equipment retailer, or charter, headboat, or tender vessel owner, operator, or crew;
+
+        (ee) an impacted Indian Tribe;
+
+        (ff) other forms of disaster assistance made available to the fishery, including prior awards of disaster assistance for the same event;
+
+        (gg) the length of time the resource, or access to the resource, has been restricted;
+
+        (hh) status of recovery from previous fishery resource disasters;
+
+        (ii) lost resource tax revenues assessed by local communities, such as a raw fish tax; and
+
+        (jj) other appropriate indicators to an affected fishery, as determined by the National Marine Fisheries Service.
+
+    (ii) *Time frame* — The Secretary shall complete the review described in clause (i), if the fishing season, applicable to the fishery—
+
+      (I) has concluded or there is no defined fishing season applicable to the fishery, not later than 120 days after the Secretary receives a complete request for a fishery resource disaster determination;
+
+      (II) has not concluded, not later than 120 days after the conclusion of the fishing season; or
+
+      (III) is expected to be closed for the entire fishing season, not later than 120 days after the Secretary receives a complete request for a fishery resource disaster determination.
+
+  (C) *Fishery resource disaster determination* — The Secretary shall make the determination of a fishery resource disaster based on the criteria for determinations listed in paragraph (5).
+
+  (D) *Notification* — Not later than 14 days after the conclusion of the review under this paragraph, the Secretary shall notify the requester and the Governor of the affected State or Indian Tribe representative of the determination of the Secretary.
+
+(5) **Criteria for determinations**
+
+  (A) *In general* — The Secretary shall make a determination about whether a fishery resource disaster has occurred, based on the revenue loss thresholds under subparagraph (B), and, if a fishery resource disaster has occurred, whether the fishery resource disaster was due to—
+
+    (i) a natural cause;
+
+    (ii) an anthropogenic cause;
+
+    (iii) a combination of a natural cause and an anthropogenic cause; or
+
+    (iv) an undetermined cause.
+
+  (B) *Revenue loss thresholds*
+
+    (i) *In general* — Based on the information provided or analyzed under paragraph (4)(B), the Secretary shall apply the following 12-month revenue loss thresholds in determining whether a fishery resource disaster has occurred:
+
+      (I) Losses greater than 80 percent may result in a positive determination that a fishery resource disaster has occurred, based on the information provided or analyzed under paragraph (4)(B).
+
+      (II) Losses between 35 percent and 80 percent shall be evaluated to determine whether economic impacts are severe enough to determine that a fishery resource disaster has occurred.
+
+      (III) Losses less than 35 percent shall not be eligible for a determination that a fishery resource disaster has occurred.
+
+    (ii) *Charter fishing* — In making a determination of whether a fishery resource disaster has occurred, the Secretary shall consider the economic impacts to the charter fishing industry to ensure financial coverage for charter fishing businesses.
+
+    (iii) *Negative subsistence impacts* — In considering negative subsistence impacts, the Secretary shall evaluate the severity of negative impacts to the fishing community instead of applying the revenue loss thresholds described in clause (i).
+
+  (C) *Ineligible fisheries* — A fishery subject to overfishing in any of the 3 years preceding the date of a determination under this subsection is not eligible for a determination of whether a fishery resource disaster has occurred unless the Secretary determines that overfishing was not a contributing factor to the fishery resource disaster.
+
+  (D) *Exceptional circumstances* — In an exceptional circumstance where substantial economic impacts to the affected fishery and fishing community have been subject to a disaster declaration under another statutory authority, such as in the case of a natural disaster or from the direct consequences of a Federal action taken to prevent, or in response to, a natural disaster for purposes of protecting life and safety, the Secretary may determine a fishery resource disaster has occurred without a request, notwithstanding the requirements under subparagraph (B) and paragraph (3).
+
+(6) **Disbursal of appropriated funds**
+
+  (A) *Authorization* — The Secretary shall allocate funds available under paragraph (9) for fishery resource disasters.
+
+  (B) *Allocation of appropriated fishery resource disaster assistance*
+
+    (i) *Notification of funding availability* — When there are appropriated funds for 1 or more fishery resource disasters, the Secretary shall notify—
+
+      (I) the public; and
+
+      (II) representatives of affected fishing communities with a positive disaster determination that is unfunded;
+    of the availability of funds, not more than 14 days after the date of the appropriation or the determination of a fishery resource disaster, whichever occurs later.
+
+    (ii) *Extension of deadline* — The Secretary may extend the deadline under clause (i) by 90 days to evaluate and make determinations on eligible requests.
+
+  (C) *Considerations* — In determining the allocation of appropriations for a fishery resource disaster, the Secretary shall consider commercial, charter, headboat, or seafood processing revenue losses and negative impacts to subsistence or Indian Tribe ceremonial fishing opportunity, for the affected fishery, and may consider the following factors:
+
+    (i) Direct economic impacts.
+
+    (ii) Uninsured losses.
+
+    (iii) Losses of recreational fishing opportunity.
+
+    (iv) Aquaculture operations revenue loss.
+
+    (v) Direct revenue losses to a fishing community.
+
+    (vi) Treaty obligations.
+
+    (vii) Other economic impacts.
+
+  (D) *Spend plans* — To receive an allocation from funds available under paragraph (9), a requester with an affirmative fishery resource disaster determination shall submit a spend plan to the Secretary, not more than 120 days after receiving notification that funds are available, that shall include the following information, if applicable:
+
+    (i) Objectives and outcomes, with an emphasis on addressing the factors contributing to the fishery resource disaster and minimizing future uninsured losses, if applicable.
+
+    (ii) Statement of work.
+
+    (iii) Budget details.
+
+  (E) *Regional contact* — If so requested, the Secretary shall provide a regional contact within the National Oceanic and Atmospheric Administration to facilitate review of spend plans and disbursal of funds.
+
+  (F) *Disbursal of funds*
+
+    (i) *Availability* — Funds shall be made available to grantees not later than 90 days after the date the Secretary receives a complete spend plan.
+
+    (ii) *Method* — The Secretary may provide an allocation of funds under this subsection in the form of a grant, direct payment, cooperative agreement, loan, or contract.
+
+    (iii) *Eligible uses*
+
+      (I) *In general* — Funds allocated for fishery resources disasters under this subsection shall restore the fishery affected by such a disaster, prevent a similar disaster in the future, or assist the affected fishing community, and shall prioritize the following uses, which are not in order of priority:
+
+        (aa) Habitat conservation and restoration and other activities, including scientific research, that reduce adverse impacts to the fishery or improve understanding of the affected species or its ecosystem.
+
+        (bb) The collection of fishery information and other activities that improve management of the affected fishery.
+
+        (cc) In a commercial fishery, capacity reduction and other activities that improve management of fishing effort, including funds to offset budgetary costs to refinance a Federal fishing capacity reduction loan or to repay the principal of a Federal fishing capacity reduction loan.
+
+        (dd) Developing, repairing, or improving fishery-related public infrastructure.
+
+        (ee) Direct assistance to a person, fishing community (including assistance for lost fisheries resource levies), or a business to alleviate economic loss incurred as a direct result of a fishery resource disaster, particularly when affected by a circumstance described in paragraph (5)(D) or by negative impacts to subsistence or Indian Tribe ceremonial fishing opportunity.
+
+        (ff) Hatcheries and stock enhancement to help rebuild the affected stock or offset fishing pressure on the affected stock.
+
+      (II) *Displaced fishery employees* — Where appropriate, individuals carrying out the activities described in items (aa) through (dd) of subclause (I) shall be individuals who are, or were, employed in a commercial, charter, or Indian Tribe fishery for which the Secretary has determined that a fishery resource disaster has occurred.
+
+(7) **Limitations**
+
+  (A) *Federal share*
+
+    (i) *In general* — Except as provided in clauses (ii) and (iii), the Federal share of the cost of any activity carried out under the authority of this subsection shall not exceed 75 percent of the cost of that activity.
+
+    (ii) *Waiver* — The Secretary may waive the non-Federal share requirements of this subsection, if the Secretary determines that—
+
+      (I) no reasonable means are available through which the recipient of the Federal share can meet the non-Federal share requirement; and
+
+      (II) the probable benefit of 100 percent Federal financing outweighs the public interest in imposition of the non-Federal share requirement.
+
+    (iii) *Exception* — The Federal share shall be equal to 100 percent in the case of—
+
+      (I) direct assistance as described in paragraph (6)(F)(iii)(I)(ee); or
+
+      (II) assistance to subsistence or Tribal fisheries.
+
+  (B) *Limitations on administrative expenses*
+
+    (i) *Federal* — Not more than 3 percent of the funds available under this subsection may be used for administrative expenses by the National Oceanographic and Atmospheric Administration.
+
+    (ii) *State governments or Indian Tribes* — Of the funds remaining after the use described in clause (i), not more than 5 percent may be used by States, Indian Tribes, or interstate marine fisheries commissions for administrative expenses.
+
+  (C) *Fishing capacity reduction program*
+
+    (i) *In general* — No funds available under this subsection may be used as part of a fishing capacity reduction program in a fishery unless the Secretary determines that adequate conservation and management measures are in place in such fishery.
+
+    (ii) *Assistance conditions* — As a condition of providing assistance under this subsection with respect to a vessel under a fishing capacity reduction program, the Secretary shall—
+
+      (I) prohibit the vessel from being used for fishing in Federal, State, or international waters; and
+
+      (II) require that the vessel be—
+
+        (aa) scrapped or otherwise disposed of in a manner approved by the Secretary;
+
+        (bb) donated to a nonprofit organization and thereafter used only for purposes of research, education, or training; or
+
+        (cc) used for another non-fishing purpose provided the Secretary determines that adequate measures are in place to ensure that the vessel cannot reenter any fishery anywhere in the world.
+
+  (D) *No fishery endorsement*
+
+    (i) *In general* — A vessel that is prohibited from fishing under subparagraph (C)(ii)(I) shall not be eligible for a fishery endorsement under [section 12113(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12113/a&num=0&edition=prelim).
+
+    (ii) *Noneffective* — A fishery endorsement for a vessel described in clause (i) shall not be effective.
+
+    (iii) *No sale* — A vessel described in clause (i) shall not be sold to a foreign owner or reflagged.
+
+(8) **Public information on data collection** — The Secretary shall make available and update as appropriate, information on data collection and submittal best practices for the information described in paragraph (4)(B).
+
+(9) **Authorization of appropriations** — There are authorized to be appropriated to carry out this subsection $377,000,000 for the period of fiscal years 2023 through 2027.
 
 **(b) Fishing capacity reduction program**
 
@@ -5473,6 +5887,9 @@ Pub. L. 102–582, title II, § 202, Nov. 2, 1992, 106 Stat. 4905, provided that
 
 ### Statutory Notes
 
+#### References in Text
+This chapter, referred to in subsec. (a)(1)(C)(ii)(II), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
+
 #### Codification
 In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), “[section 53735 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53735&num=0&edition=prelim)” substituted for “section 1111 of title XI of the Merchant Marine Act, 1936” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 53735 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53735&num=0&edition=prelim), Shipping.
 
@@ -5480,6 +5897,8 @@ In subsecs. (b)(1)(C), (c)(1)(C), (2), and (d)(2), “[section 53735 of title 46
 A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under [section 1857 of this title](./chapter-038-fishery-conservation-and-management.md#section-1857), prior to being amended generally by Pub. L. 104–297.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328 amended subsec. (a) generally. Prior to amendment, subsec. (a) related to fisheries disaster relief.
+
 2007—Subsec. (a)(1)(B). Pub. L. 109–479, § 112(a)(1), substituted “measures, including regulatory restrictions (including those imposed as a result of judicial action) imposed to protect human health or the marine environment;” for “measures;”.
 
 Subsec. (a)(4). Pub. L. 109–479, § 112(a)(2), substituted “2007 through 2013.” for “1996, 1997, 1998, and 1999.”
@@ -5506,6 +5925,9 @@ Subsec. (e). Pub. L. 109–479, § 112(a)(13), added subsec. (e) and struck out 
 
 #### Effective Date
 Pub. L. 109–479, title I, § 112(b), Jan. 12, 2007, 120 Stat. 3601, provided that: “Sections 116, 203, 204, 205, and 206 of the Sustainable Fisheries Act [Pub. L. 104–297, see Tables for classification] are deemed to have added sections 312, 402, 403, 404, and 405 [[16 U.S.C. 1861a](./chapter-038-fishery-conservation-and-management.md#section-1861a), 1881a to 1881d], respectively to the Act [Pub. L. 94–265] as of the date of enactment of the Sustainable Fisheries Act [Oct. 11, 1996].”
+
+#### Budget Request for Department of Commerce
+Pub. L. 117–328, div. S, title II, § 205(a), Dec. 29, 2022, 136 Stat. 5270, provided that: “In the budget justification materials submitted to Congress in support of the budget of the Department of Commerce for each fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code), the Secretary of Commerce shall include a separate statement of the amount for each outstanding unfunded fishery resource disasters.”
 
 #### Study of Federal Investment in Fisheries
 Pub. L. 104–297, title I, § 116(b), Oct. 11, 1996, 110 Stat. 3603, as amended by Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1996, 110 Stat. 3009, 3009–41, required the Secretary of Commerce to establish a task force comprised of interested parties to study and report to Congress within 2 years of Oct. 11, 1996, on the role of the Federal Government in subsidizing the expansion and contraction of fishing capacity in fishing fleets managed under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.) and otherwise influencing the aggregate capital investments in fisheries.
@@ -5677,6 +6099,9 @@ Subsecs. (f) to (i). Pub. L. 104–297, § 117(a)(3), added subsecs. (f) to (i).
 
 1992—Subsec. (b)(2)(E). Pub. L. 102–582 substituted “2 percent, of the unprocessed ex-vessel” for “one percentum, of the”.
 
+#### Fees
+Pub. L. 117–328, div. S, title I, § 106, Dec. 29, 2022, 136 Stat. 5260, provided that: “(a) In General.—The North Pacific Fishery Management Council may recommend, and the Secretary of Commerce may approve, regulations necessary for the collection of fees from charter vessel operators who guide recreational anglers who harvest Pacific halibut in International Pacific Halibut Commission regulatory areas 2C and 3A as those terms are defined in part 300 of title 50, Code of Federal Regulations (or any successor regulations). “(b) Use of Fees.—Any fees collected under this section shall be available for the purposes of—“(1) financing administrative costs of the Recreational Quota Entity program; “(2) the purchase of halibut quota shares in International Pacific Halibut Commission regulatory areas 2C and 3A by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations); “(3) halibut conservation and research; and “(4) promotion of the halibut resource by the recreational quota entity authorized in part 679 of title 50, Code of Federal Regulations (or any successor regulations). “(c) Limitation on Collection and Availability.—Fees shall be collected and available pursuant to this section only to the extent and in such amounts as provided in advance in appropriations Acts, subject to subsection (d). “(d) Fee Collected During Start-up Period.—Notwithstanding subsection (c), fees may be collected through the date of enactment of an Act making appropriations for the activities authorized under this Act [div. S of Pub. L. 117–328] through September 30, 2023, and shall be available for obligation and remain available until expended.”
+
 
 <a id="section-1863"></a>
 ## § 1863. Northwest Atlantic Ocean Fisheries Reinvestment Program
@@ -5718,47 +6143,14 @@ The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subse
 
 
 <a id="section-1864"></a>
-## § 1864. Regional coastal disaster assistance, transition, and recovery program
-**(a) In general** When there is a catastrophic regional fishery disaster the Secretary may, upon the request of, and in consultation with, the Governors of affected States, establish a regional economic transition program to provide immediate disaster relief assistance to the fishermen, charter fishing operators, United States fish processors, and owners of related fishery infrastructure affected by the disaster.
-
-**(b) Program components**
-
-(1) **In general** — Subject to the availability of appropriations, the program shall provide funds or other economic assistance to affected entities, or to governmental entities for disbursement to affected entities, for—
-
-  (A) meeting immediate regional shoreside fishery infrastructure needs, including processing facilities, cold storage facilities, ice houses, docks, including temporary docks and storage facilities, and other related shoreside fishery support facilities and infrastructure while ensuring that those projects will not result in an increase or replacement of fishing capacity;
-
-  (B) financial assistance and job training assistance for fishermen who wish to remain in a fishery in the region that may be temporarily closed as a result of environmental or other effects associated with the disaster;
-
-  (C) funding, pursuant to the requirements of [section 1861a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861a/b&num=0&edition=prelim), to fishermen who are willing to scrap a fishing vessel and permanently surrender permits for fisheries named on that vessel; and
-
-  (D) any other activities authorized under [section 1861a of this title](./chapter-038-fishery-conservation-and-management.md#section-1861a) or [section 4107(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/d&num=0&edition=prelim).
-
-(2) **Job training** — Any fisherman who decides to scrap a fishing vessel under the program shall be eligible for job training assistance.
-
-(3) **State participation obligation** — The participation by a State in the program shall be conditioned upon a commitment by the appropriate State entity to ensure that the relevant State fishery meets the requirements of [section 1861a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861a/b&num=0&edition=prelim) to ensure excess capacity does not re-enter the fishery.
-
-(4) **No matching required** — The Secretary may waive the matching requirements of [section 1861a of this title](./chapter-038-fishery-conservation-and-management.md#section-1861a), [section 4107 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4107), and any other provision of law under which the Federal share of the cost of any activity is limited to less than 100 percent if the Secretary determines that—
-
-  (A) no reasonable means are available through which applicants can meet the matching requirement; and
-
-  (B) the probable benefit of 100 percent Federal financing outweighs the public interest in imposition of the matching requirement.
-
-(5) **Net revenue limit inapplicable** — [Section 4107(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/d/3&num=0&edition=prelim) shall not apply to assistance under this section.
-
-**(c) Regional impact evaluation** Within 2 months after a catastrophic regional fishery disaster the Secretary shall provide the Governor of each State participating in the program a comprehensive economic and socio-economic evaluation of the affected region’s fisheries to assist the Governor in assessing the current and future economic viability of affected fisheries, including the economic impact of foreign fish imports and the direct, indirect, or environmental impact of the disaster on the fishery and coastal communities.
-
-**(d) Catastrophic regional fishery disaster defined** In this section the term “catastrophic regional fishery disaster” means a natural disaster, including a hurricane or tsunami, or a regulatory closure (including regulatory closures resulting from judicial action) to protect human health or the marine environment, that—
-
-(1) results in economic losses to coastal or fishing communities;
-
-(2) affects more than 1 State or a major fishery managed by a Council or interstate fishery commission; and
-
-(3) is determined by the Secretary to be a commercial fishery failure under [section 1861a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1861a/a&num=0&edition=prelim) or a fishery resource disaster or [section 4107(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/d&num=0&edition=prelim).
+## § 1864. Repealed. Pub. L. 117–328, div. S, title II, § 203(a), Dec. 29, 2022, 136 Stat. 5269
 
 ### Statutory Notes
 
+Section, Pub. L. 94–265, title III, § 315, as added Pub. L. 109–479, title I, § 113(a), Jan. 12, 2007, 120 Stat. 3601, related to regional coastal disaster assistance, transition, and recovery program.
+
 #### Fisheries Hurricane Assistance Program
-Pub. L. 109–479, title I, § 115, Jan. 12, 2007, 120 Stat. 3604, provided that: “(a) In General.—The Secretary of Commerce shall establish an assistance program for the Gulf of Mexico commercial and recreational fishing industry. “(b) Allocation of Funds.—Under the program, the Secretary shall allocate funds appropriated to carry out the program among the States of Alabama, Louisiana, Florida, Mississippi, and Texas in proportion to the percentage of the fishery (including crawfish) catch landed by each State before August 29, 2005, except that the amount allocated to Florida shall be based exclusively on the proportion of such catch landed by the Florida Gulf Coast fishery. “(c) Use of Funds.—Of the amounts made available to each State under the program—“(1) 2 percent shall be retained by the State to be used for the distribution of additional payments to fishermen with a demonstrated record of compliance with turtle excluder and bycatch reduction device regulations; and “(2) the remainder of the amounts shall be used for—“(A) personal assistance, with priority given to food, energy needs, housing assistance, transportation fuel, and other urgent needs; “(B) assistance for small businesses, including fishermen, fish processors, and related businesses serving the fishing industry; “(C) domestic product marketing and seafood promotion; “(D) State seafood testing programs; “(E) the development of limited entry programs for the fishery; “(F) funding or other incentives to ensure widespread and proper use of turtle excluder devices and bycatch reduction devices in the fishery; and “(G) voluntary capacity reduction programs for shrimp fisheries under limited access programs. “(d) Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $17,500,000 for each of fiscal years 2007 through 2012 to carry out this section.”
+Pub. L. 109–479, title I, § 115, Jan. 12, 2007, 120 Stat. 3604, provided that the Secretary of Commerce would establish an assistance program for the Gulf of Mexico commercial and recreational fishing industry and provided for allocation and use of funds for the program, with $17,500,000 appropriated for each of fiscal years 2007 through 2012 to carry out this section.
 
 
 <a id="section-1865"></a>
@@ -6102,9 +6494,11 @@ Pub. L. 115–405, § 201(b), Dec. 31, 2018, 132 Stat. 5358, provided that: “T
 
   (F) when the Secretary has obtained written authorization from the person submitting such information to release such information to persons for reasons not otherwise provided for in this subsection, and such release does not violate other requirements of this chapter;
 
-  (G) when such information is required to be submitted to the Secretary for any determination under a limited access program; or
+  (G) when such information is required to be submitted to the Secretary for any determination under a limited access program;
 
-  (H) in support of homeland and national security activities, including the Coast Guard’s homeland security missions as defined in [section 468(a)(2) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section468/a/2&num=0&edition=prelim).
+  (H) in support of homeland and national security activities, including the Coast Guard’s homeland security missions as defined in [section 468(a)(2) of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section468/a/2&num=0&edition=prelim); or
+
+  (I) to Federal agencies, to the extent necessary and appropriate, to administer Federal programs established to combat illegal, unreported, or unregulated fishing or forced labor (as such terms are defined in section 11329 of the Don Young Coast Guard Authorization Act of 2022), which shall not include an authorization for such agencies to release data to the public unless such release is related to enforcement.
 
 (2) Any observer information shall be confidential and shall not be disclosed, except in accordance with the requirements of subparagraphs (A) through (H) of paragraph (1), or—
 
@@ -6151,6 +6545,8 @@ Pub. L. 115–405, § 201(b), Dec. 31, 2018, 132 Stat. 5358, provided that: “T
 #### References in Text
 This chapter, referred to in subsecs. (b)(1), (3) and (c)(1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
+Section 11329 of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (b)(1)(I), is section 11329 of div. K of Pub. L. 117–263, which is set out as a note under [section 1885a of this title](./chapter-038-fishery-conservation-and-management.md#section-1885a).
+
 The Marine Mammal Protection Act of 1972, referred to in subsec. (c)(1), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
 The Endangered Species Act, referred to in subsec. (c)(1), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified generally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
@@ -6159,6 +6555,8 @@ The Endangered Species Act, referred to in subsec. (c)(1), probably means the En
 A prior section 402 of Pub. L. 94–265 repealed former sections 1081 to 1086 and 1091 to 1094 of this title, prior to being amended generally by Pub. L. 104–297.
 
 #### Amendments
+2022—Subsec. (b)(1)(I). Pub. L. 117–263 added subpar. (I).
+
 2007—Subsec. (a). Pub. L. 109–479, § 202, substituted “Collection programs” for “Council requests” in heading, designated existing provisions as par. (1), inserted heading, realigned margins, in first sentence, struck out “(other than information that would disclose proprietary or confidential commercial or financial information regarding fishing operations or fish processing operations)” after “additional information” and “types of information”, in last sentence, substituted “paragraph” for “subsection”, and added par. (2).
 
 Subsec. (b). Pub. L. 109–479, § 203(a)(1), (2), added pars. (1) and (2), redesignated former par. (2) as (3) and realigned margins, and struck out former par. (1) which related to confidentiality of information submitted to the Secretary and exceptions.
@@ -6182,15 +6580,19 @@ Subsec. (b)(3). Pub. L. 109–479, § 203(a)(3), substituted “(2)(A).” for �
 
 (2) require that an observer demonstrate competence in fisheries science and statistical analysis at a level sufficient to enable such person to fulfill the responsibilities of the position;
 
-(3) ensure that an observer has received adequate training in basic vessel safety; and
+(3) ensure that an observer has received adequate training in basic vessel safety;
 
-(4) make use of university and any appropriate private nonprofit organization training facilities and resources, where possible, in carrying out this subsection.
+(4) ensure that each observer has received training to identify indicators of forced labor and human trafficking (as such terms are defined in section 11329 of the Don Young Coast Guard Authorization Act of 2022) and refer this information to appropriate authorities; and
+
+(5) make use of university and any appropriate private nonprofit organization training facilities and resources, where possible, in carrying out this subsection.
 
 **(c) Observer status** An observer on a vessel and under contract to carry out responsibilities under this chapter or the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361](./chapter-031-marine-mammal-protection.md#section-1361) et seq.) shall be deemed to be a Federal employee for the purpose of compensation under the Federal Employee Compensation Act ([5 U.S.C. 8101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8101&num=0&edition=prelim) et seq.).
 
 ### Statutory Notes
 
 #### References in Text
+Section 11329 of the Don Young Coast Guard Authorization Act of 2022, referred to in subsec. (b)(4), is section 11329 of div. K of Pub. L. 117–263, which is set out as a note under [section 1885a of this title](./chapter-038-fishery-conservation-and-management.md#section-1885a).
+
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
 The Marine Mammal Protection Act of 1972, referred to in subsec. (c), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to chapter 31 (§ 1361 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
@@ -6199,6 +6601,9 @@ The Federal Employee Compensation Act, referred to in subsec. (c), is act Sept. 
 
 #### Prior Provisions
 A prior section 403 of Pub. L. 94–265 amended sections 1972 and 1973 of Title 22, Foreign Relations and Intercourse, and enacted provisions formerly set out as notes under sections 1972 and 1973 of Title 22, prior to being amended generally by Pub. L. 104–297.
+
+#### Amendments
+2022—Subsec. (b)(4), (5). Pub. L. 117–263 added par. (4) and redesignated former par. (4) as (5).
 
 
 <a id="section-1881c"></a>
@@ -6445,6 +6850,47 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in tex
 
 #### Codification
 Section was enacted as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2018, and also as part of the Consolidated Appropriations Act, 2018, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### Import Audits
+Pub. L. 117–263, div. K, title CXIII, § 11332, Dec. 23, 2022, 136 Stat. 4099, provided that: “(a) Audit Procedures.—The Secretary shall, not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], implement procedures to audit information and supporting records of sufficient numbers of imports of seafood and seafood products subject to the Seafood Import Monitoring Program to support statistically robust conclusions that the samples audited are representative of all seafood imports covered by the Seafood Import Monitoring Program with respect to a given year. “(b) Expansion of Marine Forensics Laboratory.—The Secretary shall, not later than 1 year after the date of enactment of this Act, begin the process of expanding the National Oceanic and Atmospheric Administration’s Marine Forensics Laboratory, including by establishing sufficient capacity for the development and deployment of rapid, and follow-up, analysis of field-based tests focused on identifying Seafood Import Monitoring Program species, and prioritizing such species at high risk of illegal, unreported, or unregulated fishing and seafood fraud. “(c) Annual Revision.—In developing the procedures required in subsection (a), the Secretary shall use predictive analytics to inform whether to revise such procedures to prioritize for audit those imports originating from nations—“(1) identified pursuant to section 609(a) or 610(a) of the High Seas Driftnet Fishing Moratorium Protection Act ([16 U.S.C. 1826j(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/a&num=0&edition=prelim) or 1826k(a)) that have not yet received a subsequent positive certification pursuant to section 609(d) or 610(c) of such Act, respectively; “(2) identified by an appropriate regional fishery management organization as being the flag state or landing location of vessels identified by other nations or regional fisheries management organizations as engaging in illegal, unreported, or unregulated fishing; “(3) identified as having human trafficking or forced labor in any part of the seafood supply chain, including on vessels flagged in such nation, and including feed for cultured production, in the most recent Trafficking in Persons Report issued by the Department of State in accordance with the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7101&num=0&edition=prelim) et seq.); “(4) identified as producing goods that contain seafood using forced labor or oppressive child labor in the most recent List of Goods Produced by Child Labor or Forced Labor in accordance with the Trafficking Victims Protection Act [of 2000] ([22 U.S.C. 7101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7101&num=0&edition=prelim) et seq.); and “(5) identified as at risk for human trafficking, including forced labor, in their seafood catching and processing industries by the report required under section 3563 of the Maritime SAFE Act (Public Law 116–92) [133 Stat. 2009].”
+
+[For definition of terms as used in section 11332 of Pub. L. 117–263, set out above, see section 11329 of div. K of Pub. L. 117–263, set out as a note under [section 1885a of this title](./chapter-038-fishery-conservation-and-management.md#section-1885a).]
+
+
+<a id="section-1885a"></a>
+## § 1885a. Report on Seafood Import Monitoring Program
+**(a) Report to Congress and public availability of reports** The Secretary shall, not later than 120 days after the end of each fiscal year, submit to the Committee on Commerce, Science, and Transportation and the Committee on Finance of the Senate and the Committee on Natural Resources and the Committee on Financial Services of the House of Representatives a report that summarizes the National Marine Fisheries Service’s efforts to prevent the importation of seafood harvested through illegal, unreported, or unregulated fishing, particularly with respect to seafood harvested, produced, processed, or manufactured by forced labor. Each such report shall be made publicly available on the website of the National Oceanic and Atmospheric Administration.
+
+**(b) Contents** Each report submitted under subsection (a) shall include—
+
+(1) the volume and value of seafood species subject to the Seafood Import Monitoring Program, reported by 10-digit Harmonized Tariff Schedule of the United States codes, imported during the previous fiscal year;
+
+(2) the enforcement activities and priorities of the National Marine Fisheries Service with respect to implementing the requirements under the Seafood Import Monitoring Program;
+
+(3) the percentage of import shipments subject to the Seafood Import Monitoring Program selected for inspection or the information or records supporting entry selected for audit, as described in section 300.324(d) of title 50, Code of Federal Regulations;
+
+(4) the number and types of instances of noncompliance with the requirements of the Seafood Import Monitoring Program;
+
+(5) the number and types of instances of violations of State or Federal law discovered through the Seafood Import Monitoring Program;
+
+(6) the seafood species with respect to which violations described in paragraphs (4) and (5) were most prevalent;
+
+(7) the location of catch or harvest with respect to which violations described in paragraphs (4) and (5) were most prevalent;
+
+(8) the additional tools, such as high performance computing and associated costs, that the Secretary needs to improve the efficacy of the Seafood Import Monitoring Program; and
+
+(9) such other information as the Secretary considers appropriate with respect to monitoring and enforcing compliance with the Seafood Import Monitoring Program.
+
+### Statutory Notes
+
+#### References in Text
+The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1202&num=0&edition=prelim), Customs Duties.
+
+#### Codification
+Section was enacted as part of the Don Young Coast Guard Authorization Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
+
+#### Definitions
+Pub. L. 117–263, div. K, title CXIII, § 11329, Dec. 23, 2022, 136 Stat. 4098, provided that: “In this subtitle [subtitle E (§§ 11329–11341) of title CXIII of div. K of Pub. L. 117–263, see Tables for classification]: “(1) Forced labor.—The term ‘forced labor’ means any labor or service provided for or obtained by any means described in [section 1589(a) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1589/a&num=0&edition=prelim), United States Code. “(2) Human trafficking.—The term ‘human trafficking’ has the meaning given the term ‘severe forms of trafficking in persons’ in section 103 of the Trafficking Victims Protection Act of 2000 ([22 U.S.C. 7102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)). “(3) Illegal, unreported, or unregulated fishing.—The term ‘illegal, unreported, or unregulated fishing’ has the meaning given such term in the implementing regulations or any subsequent regulations issued pursuant to section 609(e) of the High Seas Driftnet Fishing Moratorium Protection Act ([16 U.S.C. 1826j(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1826j/e&num=0&edition=prelim)). “(4) Oppressive child labor.—The term ‘oppressive child labor’ has the meaning given such term in section 3 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 203](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203&num=0&edition=prelim)). “(5) Seafood.—The term ‘seafood’ means all marine animal and plant life meant for consumption as food other than marine mammals and birds, including fish, shellfish, shellfish products, and processed fish. “(6) Seafood Import Monitoring Program.—The term ‘Seafood Import Monitoring Program’ means the Seafood Traceability Program established in subpart Q of part 300 of title 50, Code of Federal Regulations (or any successor regulation). “(7) Secretary.—The term ‘Secretary’ means the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere.”
 
 
 <a id="section-1891"></a>

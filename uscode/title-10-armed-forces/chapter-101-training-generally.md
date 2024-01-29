@@ -67,7 +67,7 @@ Subsec. (a). Pub. L. 91–278, § 2(2)(A), authorized Secretary of Transportatio
 Subsec. (a)(3). Pub. L. 91–278, § 2(2)(B), substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim), Foreign Relations and Intercourse.
@@ -523,6 +523,8 @@ Pub. L. 113–66, div. A, title V, § 541(c), Dec. 26, 2013, 127 Stat. 762, prov
 
 **(f)** This section shall be administered under regulations prescribed by the Secretary of Defense or, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security.
 
+**(g)** The provisions of this section pertaining to members of the Ready Reserve, the Selected Reserve, or the Individual Ready Reserve also apply to members of the Space Force in a space force active status who are not on active duty.
+
 ### Statutory Notes
 
 #### Prior Provisions
@@ -591,6 +593,8 @@ July 13, 1955, ch. 358, title VI, § 628, 69 Stat. 320.
 June 30, 1954, ch. 432, title VII, § 730, 68 Stat. 355.
 
 #### Amendments
+2023—Subsec. (g). Pub. L. 118–31 added subsec. (g).
+
 2021—Subsec. (d)(1). Pub. L. 117–81, § 559(b)(1), inserted “or chapter 1606 of this title” after “of title 38”.
 
 Subsec. (d)(2). Pub. L. 117–81, § 559(b)(2), inserted before period at end “, in the case of educational assistance under chapter 30 of such title, and section 16131(k), in the case of educational assistance under chapter 1606 of this title”.
@@ -824,13 +828,17 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 (2) The advisory councils should include officials from relevant military organizations, representatives of appropriate local, State, and Federal agencies, representatives of civic and social service organizations, business representatives, and labor representatives.
 
-(3) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to such councils.
+(3) Chapter 10 of title 5 shall not apply to such councils.
 
-**(i) Construction of Provision.—** Nothing in this section shall be construed as authorizing—
+**(i) Construction of Provision.—**
 
-(1) the use of the armed forces for civilian law enforcement purposes or for response to natural or manmade disasters; or
+(1) Nothing in this section shall be construed as authorizing—
 
-(2) the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
+  (A) the use of the armed forces for civilian law enforcement purposes or, except as provided in paragraph (2), for response to natural or manmade disasters; or
+
+  (B) the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
+
+(2) Funds available to the Secretary of a military department for operation and maintenance for the Innovative Readiness Training program (as established pursuant to this section) may be expended under this section, upon approval by the Secretary concerned, to assist in demolition, clearing of roads, infrastructure improvements, and military construction to restore an area after a natural disaster.
 
 **(j) Oversight and Cost Accounting.—** The Secretary of Defense shall establish a program to improve the oversight and cost accounting of training projects conducted in accordance with this section. The program shall include measures to accomplish the following:
 
@@ -849,9 +857,11 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 #### References in Text
 The Homeland Security Act of 2002, referred to in subsec. (f)(5), is Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135. Title XXII of the Act is classified principally to subchapter XVIII (§ 651 et seq.) of chapter 1 of Title 6. For complete classification of this Act to the Code, see Short Title note set out under [section 101 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section101&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2023—Subsec. (i). Pub. L. 118–31 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “, except as provided in paragraph (2),” before “for response” in subpar. (A), and added par. (2).
+
+2022—Subsec. (h)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2021—Subsec. (e)(3), (4). Pub. L. 117–81, § 1512(1), added par. (3) and redesignated former par. (3) as (4).
 
 Subsec. (f)(5). Pub. L. 117–81, § 1512(2), added par. (5).
@@ -893,9 +903,9 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provid
 
 (2) pay, or reimburse the member of a uniformed service for, all or a part of the necessary expenses of the training (without regard to subsections (a) and (b) of [section 3324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3324&num=0&edition=prelim)), including among those expenses the necessary costs of the following:
 
-  (A) Travel and per diem instead of subsistence under sections 474 11 See References in Text note below. and 475 1 of title 37 and the Joint Travel Regulations for the Uniformed Services.
+  (A) Travel and per diem instead of subsistence under sections 405 and 452 of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-  (B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 1 and 479 1 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+  (B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 452 and 453(c) of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
   (C) Tuition and matriculation fees.
 
@@ -909,14 +919,11 @@ Pub. L. 104–106, div. A, title V, § 574, Feb. 10, 1996, 110 Stat. 356, provid
 
 ### Statutory Notes
 
-#### References in Text
-[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-[Section 475 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475&num=0&edition=prelim), referred to in subsec. (b)(2)(A), was renumbered [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
-
-Sections 476 and 479 of title 37, referred to in subsec. (b)(2)(A), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+2022—Subsec. (b)(2)(A). Pub. L. 117–263, § 626(c)(6)(A), substituted “sections 405 and 452” for “sections 474 and 475”.
+
+Subsec. (b)(2)(B). Pub. L. 117–263, § 626(c)(6)(B), substituted “sections 452 and 453(c)” for “sections 476 and 479”.
+
 2014—Subsec. (a)(1). Pub. L. 113–291 substituted “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” for “section 6101(b)–(d) of title 41”.
 
 2013—Subsec. (b)(2)(A), (B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.

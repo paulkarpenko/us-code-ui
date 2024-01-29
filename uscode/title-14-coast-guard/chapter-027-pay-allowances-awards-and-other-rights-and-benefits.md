@@ -672,7 +672,7 @@ The Secretary may furnish individuals discharged pursuant to the sentence of a C
 #### Amendments
 2021—Pub. L. 116–283 substituted “Individuals” for “Persons” in section catchline and substituted “individuals” for “persons” and “individual” for “person” in text.
 
-2018—Pub. L. 115–282 renumbered [section 509 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section509&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 509 of this title](./chapter-005-functions-and-powers.md#section-509) as this section.
 
 1968—Pub. L. 90–377 substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in section catchline, and struck out provision that persons confined in prisons in pursuance of the sentence of a Coast Guard court shall during such confinement, be allowed a reasonable sum, not to exceed $3 per month, for necessary prison expenses and the provision that the Commandant of the Coast Guard may transport to their homes or places of enlistment, as he may designate, all discharged prisoners, the expense of such transportation to be paid out of any money to the credit of prisoners when discharged.
 
@@ -688,7 +688,7 @@ An officer or cadet of the Coast Guard who is assigned shore patrol duty away fr
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 510 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section510&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 510 of this title](./chapter-005-functions-and-powers.md#section-510) as this section.
 
 
 <a id="section-2763"></a>
@@ -709,14 +709,13 @@ The Secretary may grant compensatory absence from duty to military personnel of 
 <a id="section-2764"></a>
 ## § 2764. Monetary allowance for transportation of household effects
 
-The transportation and reimbursement authorized by subsection (b) of section 476 11 See References in Text note below. of title 37 shall be available hereafter to pay a monetary allowance in place of such transportation to a member who, under regulations prescribed by the Secretary, participates in a program designated by the Secretary in which his baggage and household effects are moved by a privately owned or rental vehicle. This allowance shall not be limited to reimbursement for actual expenses and may be paid in advance of the transportation of the baggage and household effects. The allowance shall, however, be in an amount that will result in savings to the Government when the total cost of the movement of baggage and household effects is compared with the cost that otherwise would have been incurred under subsection (b) of [section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim).
+The transportation and reimbursement authorized by [section 453(c) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section453/c&num=0&edition=prelim) shall be available hereafter to pay a monetary allowance in place of such transportation to a member who, under regulations prescribed by the Secretary, participates in a program designated by the Secretary in which his baggage and household effects are moved by a privately owned or rental vehicle. This allowance shall not be limited to reimbursement for actual expenses and may be paid in advance of the transportation of the baggage and household effects. The allowance shall, however, be in an amount that will result in savings to the Government when the total cost of the movement of baggage and household effects is compared with the cost that otherwise would have been incurred under [section 453(c) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section453/c&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### References in Text
-[Section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+2022—Pub. L. 117–263 substituted “section 453(c)” for “subsection (b) of section 476” in two places.
+
 2018—Pub. L. 115–282 renumbered [section 512 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section512&num=0&edition=prelim) as this section.
 
 2013—Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
@@ -853,6 +852,9 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 470 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section470&num=0&edition=prelim) as this section.
 
+#### Expansion of Postgraduate Opportunities for Members of Coast Guard in Medical and Related Fields
+Pub. L. 117–263, div. K, title CXIV, § 11413(a), (b), Dec. 23, 2022, 136 Stat. 4120, provided that: “(a) In General.—The Commandant [of the Coast Guard] shall expand opportunities for members of the Coast Guard to secure postgraduate degrees in medical and related professional disciplines for the purpose of supporting Coast Guard clinics and operations. “(b) Application of Law.—Individuals who receive assistance pursuant to subsection (a) shall be subject to the service obligations required under [section 2114 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2114&num=0&edition=prelim), United States Code.”
+
 #### Coast Guard Graduate Maritime Operations Education
 Pub. L. 114–120, title II, § 213, Feb. 8, 2016, 130 Stat. 42, provided that: “Not later than 1 year after the date of the enactment of this Act [Feb. 8, 2016], the Secretary of the department in which the Coast Guard is operating shall establish an education program, for members and employees of the Coast Guard, that— “(1) offers a master’s degree in maritime operations; “(2) is relevant to the professional development of such members and employees; “(3) provides resident and distant education options, including the ability to utilize both options; and “(4) to the greatest extent practicable, is conducted using existing academic programs at an accredited public academic institution that—“(A) is located near a significant number of Coast Guard, maritime, and other Department of Homeland Security law enforcement personnel; and “(B) has an ability to simulate operations normally conducted at a command center.”
 
@@ -872,34 +874,53 @@ It is believed that the authority contained in this section will greatly benefit
 
 
 <a id="section-2772"></a>
-## § 2772. Education loan repayment program
-**(a)**
+## § 2772. Education loan repayment program for members on active duty in specified military specialties
+**(a) In General.—**
 
-(1) Subject to the provisions of this section, the Secretary may repay—
+(1) **Repayment.—** — Subject to the provisions of this section, the Secretary may repay—
 
   (A) any loan made, insured, or guaranteed under part B of title IV of the Higher Education Act of 1965 ([20 U.S.C. 1071](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1071&num=0&edition=prelim) et seq.);
 
-  (B) any loan made under part D of such title (the William D. Ford Federal Direct Loan Program, [20 U.S.C. 1087a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087a&num=0&edition=prelim) et seq.); or
+  (B) any loan made under part D of such title (the William D. Ford Federal Direct Loan Program, [20 U.S.C. 1087a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087a&num=0&edition=prelim) et seq.);
 
-  (C) any loan made under part E of such title ([20 U.S.C. 1087aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087aa&num=0&edition=prelim) et seq.).
-  Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
+  (C) any loan made under part E of such title ([20 U.S.C. 1087aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1087aa&num=0&edition=prelim) et seq.); or
 
-(2) The Secretary may repay loans described in paragraph (1) in the case of any individual for service performed on active duty as an enlisted member of the Coast Guard in a specialty specified by the Secretary.
+  (D) any loan incurred for educational purposes made by a lender that is—
 
-**(b)** The portion or amount of a loan that may be repaid under subsection (a) is 33⅓ percent or $1,500, whichever is greater, for each year of service.
+    (i) an agency or instrumentality of a State;
 
-**(c)** If a portion of a loan is repaid under this section for any year, interest on the remainder of such loan shall accrue and be paid in the same manner as is otherwise required.
+    (ii) a financial or credit institution (including an insurance company) that is subject to examination and supervision by an agency of the United States or any State;
 
-**(d)** Nothing in this section shall be construed to authorize refunding any repayment of a loan.
+    (iii) a pension fund approved by the Secretary for purposes of this section; or
 
-**(e)** The Secretary shall, by regulation, prescribe a schedule for the allocation of funds made available to carry out this section during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a).
+    (iv) a nonprofit private entity designated by a State, regulated by such State, and approved by the Secretary for purposes of this section.
+
+(2) **Requirement.—** — Repayment of any such loan shall be made on the basis of each complete year of service performed by the borrower.
+
+(3) **Eligibility.—** — The Secretary may repay loans described in paragraph (1) in the case of any person for service performed on active duty as a member in an officer program or military specialty specified by the Secretary.
+
+**(b) Amount.—** The portion or amount of a loan that may be repaid under subsection (a) is 33⅓ percent or $1,500, whichever is greater, for each year of service.
+
+**(c) Interest Accrual.—** If a portion of a loan is repaid under this section for any year, interest on the remainder of such loan shall accrue and be paid in the same manner as is otherwise required.
+
+**(d) Rule of Construction.—** Nothing in this section shall be construed to authorize refunding any repayment of a loan.
+
+**(e) Fractional Credit for Transfer.—** An individual who transfers from service making the individual eligible for repayment of loans under this section (as described in subsection (a)(3)) to service making the individual eligible for repayment of loans under [section 16301 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16301&num=0&edition=prelim) (as described in subsection (a)(2) or (g) of that section) during a year shall be eligible to have repaid a portion of such loan determined by giving appropriate fractional credit for each portion of the year so served, in accordance with regulations of the Secretary concerned.
+
+**(f) Schedule for Allocation.—** The Secretary shall prescribe a schedule for the allocation of funds made available to carry out the provisions of this section and [section 16301 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16301&num=0&edition=prelim) during any year for which funds are not sufficient to pay the sum of the amounts eligible for repayment under subsection (a) and [section 16301(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16301/a&num=0&edition=prelim).
+
+**(g) Failure to Complete Period of Service.—** Except an individual described in subsection (e) who transfers to service making the individual eligible for repayment of loans under [section 16301 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16301&num=0&edition=prelim), a member of the Coast Guard who fails to complete the period of service required to qualify for loan repayment under this section shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+
+**(h) Authority to Issue Regulations.—** The Secretary may prescribe procedures for implementing this section, including standards for qualified loans and authorized payees and other terms and conditions for making loan repayments. Such regulations may include exceptions that would allow for the payment as a lump sum of any loan repayment due to a member under a written agreement that existed at the time of a member’s death or disability.
 
 ### Statutory Notes
 
 #### References in Text
-The Higher Education Act of 1965, referred to in subsec. (a)(1), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified generally to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
+The Higher Education Act of 1965, referred to in subsec. (a)(1)(A) to (C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Parts B, D, and E of title IV of the Act are classified generally to parts B (§ 1071 et seq.), D (§ 1087a et seq.), and E (§ 1087aa et seq.), respectively, of subchapter IV of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to education loan repayment program.
+
 2021—Subsec. (a)(2). Pub. L. 116–283 substituted “individual” for “person”.
 
 2018—Pub. L. 115–282 renumbered [section 472 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section472&num=0&edition=prelim) as this section.

@@ -2,7 +2,7 @@
 title: 22
 chapter: '71'
 heading: UNITED STATES INTERNATIONAL BROADCASTING
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -178,7 +178,7 @@ Pub. L. 116–94, div. G, title I, Dec. 20, 2019, 133 Stat. 2822, provided in pa
 ## § 6204. Authorities of Chief Executive Officer
 **(a) Authorities** The Chief Executive Officer shall have the following authorities:
 
-(1) To direct and supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.],,11 So in original. the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.], and Worldnet Television, except as provided in [section 6205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6205/b&num=0&edition=prelim).
+(1) To supervise all broadcasting activities conducted pursuant to this chapter, the Radio Broadcasting to Cuba Act [[22 U.S.C. 1465](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465) et seq.],,11 So in original. the Television Broadcasting to Cuba Act [[22 U.S.C. 1465aa](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) et seq.], and Worldnet Television, except as provided in [section 6205(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6205/b&num=0&edition=prelim).
 
 (2) To review and evaluate the mission and operation of, and to assess the quality, effectiveness, and professional integrity of, all such activities within the context of the broad foreign policy objectives of the United States.
 
@@ -224,17 +224,15 @@ Pub. L. 116–94, div. G, title I, Dec. 20, 2019, 133 Stat. 2822, provided in pa
 
   (B) To provide transportation for dependents of such personnel between their places of residence and those schools for which expenses are provided under subparagraph (A), if the Chief Executive Officer determines that such schools are not accessible by public means of transportation.
 
-(20) Notwithstanding any other provision of law, including [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Agency in accordance with subsection (c).
+(20) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection),.1
 
-(21) To redirect or reprogram funds within the scope of any grant or cooperative agreement, or between grantees, as necessary (and not later than 15 days before any such redirection of funds between language services, to notify the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate regarding such redirection), and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection (c).
+(21) To change the name of the Agency pursuant to congressional notification 60 days prior to any such change.
 
-(22) To change the name of the Agency pursuant to congressional notification 60 days prior to any such change.
-
-(23) To—
+(22) To—
 
   (A) require annual content reviews of each language service of Voice of America, The Office of Cuba Broadcasting, and each grantee network, consisting of a review of at least 10 percent of available unique weekly content from any selected week from the previous year, which shall be conducted, to the extent practicable, by fluent language speakers and experts without direct affiliation to the language service being reviewed, who are seeking any evidence of inappropriate or unprofessional content, which shall be submitted to the Office of Policy Research, the head and Board of the respective language service, and the Chief Executive Officer;
 
-  (B) submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content.”; 22 So in original. The period and quotation marks preceding the semicolon probably should not appear. and
+  (B) submit to the appropriate congressional committees a list of anomalous reports, including status updates on anomalous services during the 3-year period commencing on the date of receipt of the first report of biased, unprofessional, or otherwise problematic content.”; 33 So in original. The period and quotation marks preceding the semicolon probably should not appear. and
 
   (C) launch a review, using external, native-language and regional experts, the results of which are to be reported to the appropriate congressional committees, if a widespread pattern of violations of the principles, standards, or journalistic code of ethics of a language service or grantee network has been identified.
 
@@ -261,7 +259,7 @@ The Radio Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is Pub. 
 
 The Television Broadcasting to Cuba Act, referred to in subsec. (a)(1), (9), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, which is classified principally to subchapter V–B (§ 1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1465aa of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1465aa) and Tables.
 
-This chapter, referred to in subsecs. (a)(5), (14), (21) and (c)(1) the second place appearing, was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (a)(5), (14), and (c)(1) the second place appearing, was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
@@ -277,6 +275,14 @@ Section is comprised of section 305 of Pub. L. 103–236, which consists of subs
 Pub. L. 116–283, div. A, title XII, § 1299Q(c), (e)(2), Jan. 1, 2021, 134 Stat. 4021, 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263, § 9706(1), struck out “direct and” before “supervise”.
+
+Subsec. (a)(20). Pub. L. 117–263, § 9706(4), which directed amendment of par. (22), “as redesignated”, of subsec. (a) by substituting a period for “and to condition grants” and all that followed, was executed by substituting a period for “and to condition grants or cooperative agreements, if appropriate, on such grants or cooperative agreements or any similar amendments as authorized under [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), including authority to name and replace the board of any grantee authorized under this chapter, to meet the purposes of this chapter in accordance with subsection (c).” in par. (20), as redesignated by Pub. L. 117–263, § 9706(3), to reflect the probable intent of Congress. See Amendment note below. Par. (20), and not par. (22), contained the words “and to condition grants”.
+
+Pub. L. 117–263, § 9706(2), (3), redesignated par. (21) as (20) and struck out former par. (20) which read as follows: “Notwithstanding any other provision of law, including [section 6207(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6207/a&num=0&edition=prelim), to condition, if appropriate, any grant or cooperative agreement to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks, or any organization that is established through the consolidation of such entities, on authority to determine membership of their respective boards, and the consolidation of such grantee entities into a single grantee organization under terms and conditions established by the Agency in accordance with subsection (c).”
+
+Subsec. (a)(21), (22). Pub. L. 117–263, § 9706(3), redesignated pars. (22) and (23) as (21) and (22), respectively. Former par. (21) redesignated (20).
+
 2021—Subsec. (a)(6). Pub. L. 116–283, § 1299Q(e)(2)(A)(i), substituted “Agency” for “Board”.
 
 Subsec. (a)(13). Pub. L. 116–283, § 1299Q(e)(2)(A)(ii), substituted “Agency” for “Board”.
@@ -504,31 +510,38 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 
 <a id="section-6206"></a>
-## § 6206. Repealed. Pub. L. 114–328, div. A, title XII, § 1288(4), Dec. 23, 2016, 130 Stat. 2552
+## § 6206. Grantee corporate boards of directors
+**(a) In general** The corporate board of directors of each grantee under this chapter—
+
+(1) shall be bipartisan;
+
+(2) shall, except as otherwise provided in this Act, have the sole responsibility to operate their respective grantees within the jurisdiction of their respective States of incorporation;
+
+(3) shall be composed of not fewer than 5 members, who shall be qualified individuals who are not employed in the public sector; and
+
+(4) shall appoint successors in the event of vacancies on their respective boards, in accordance with applicable bylaws.
+
+**(b) Not Federal employees** No employee of any grantee under this chapter may be a Federal employee.
 
 ### Statutory Notes
 
-Section, Pub. L. 103–236, title III, § 307, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1323(k), Oct. 21, 1998, 112 Stat. 2681–780, related to the International Broadcasting Bureau.
+#### References in Text
+This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+
+This Act, referred to in subsec. (a)(2), is Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 382, known as the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651) and Tables.
+
+#### Prior Provisions
+A prior section 6206, Pub. L. 103–236, title III, § 307, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1323(k), Oct. 21, 1998, 112 Stat. 2681–780, related to the International Broadcasting Bureau, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1288(4), Dec. 23, 2016, 130 Stat. 2552.
 
 #### Personal Services Contracting Pilot Program
-Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as amended by Pub. L. 109–140, § 6, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 109–472, § 9, Jan. 11, 2007, 120 Stat. 3556; Pub. L. 110–161, div. J, title VI, § 634(r), Dec. 26, 2007, 121 Stat. 2330; Pub. L. 110–321, § 5, Sept. 19, 2008, 122 Stat. 3536, provided that: “(a) In General.—The Director of the International Broadcasting Bureau (in this section referred to as the ‘Director’) may establish a pilot program (in this section referred to as the ‘program’) for the purpose of hiring United States citizens or aliens as personal services contractors, without regard to Civil Service and classification laws, for service in the United States as broadcasters and other broadcasting specialists in the International Broadcasting Bureau to respond to new or emerging broadcast needs or to augment broadcast services. “(b) Conditions.—The Director is authorized to use the authority of subsection (a) subject to the following conditions:“(1) The Director determines that existing personnel resources are insufficient and the need is not of permanent duration. “(2) The Director approves each employment of a personal services contractor. “(3) The contract length, including options, may not exceed 2 years, unless the Director makes a finding that exceptional circumstances justify an extension of up to one additional year. “(4) Not more than a total of 60 United States citizens or aliens are employed at any one time as personal services contractors under the program. “(c) Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2009. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
-
-[Pub. L. 114–113, div. K, title I, Dec. 18, 2015, 129 Stat. 2712, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2016” .]
-
-[Pub. L. 113–235, div. J, title I, Dec. 16, 2014, 128 Stat. 2580, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2015” .]
-
-[Pub. L. 113–76, div. K, title I, Jan. 17, 2014, 128 Stat. 471, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2014” .]
-
-[Pub. L. 112–74, div. I, title I, Dec. 23, 2011, 125 Stat. 1171, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2012” .]
-
-[Pub. L. 111–117, div. F, title I, Dec. 16, 2009, 123 Stat. 3318, provided in part: “That the authority provided by section 504(c) of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107–228; [22 U.S.C. 6206](./chapter-071-united-states-international-broadcasting.md#section-6206) note) shall remain in effect through September 30, 2010” .]
+Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as amended by Pub. L. 109–140, § 6, Dec. 22, 2005, 119 Stat. 2652; Pub. L. 109–472, § 9, Jan. 11, 2007, 120 Stat. 3556; Pub. L. 110–161, div. J, title VI, § 634(r), Dec. 26, 2007, 121 Stat. 2330; Pub. L. 110–321, § 5, Sept. 19, 2008, 122 Stat. 3536, authorized the Director of the International Broadcasting Bureau to establish a pilot program for the purpose of hiring United States citizens or aliens as personal services contractors for service in the United States as broadcasters and other broadcasting specialists in the International Broadcasting Bureau, and provided that such authority would terminate on Dec. 31, 2009. Subsequent laws incrementally extended the authority until Sept. 30, 2016.
 
 
 <a id="section-6207"></a>
 ## § 6207. Limits on grants for Radio Free Europe and Radio Liberty
 **(a) Board of RFE/RL, Incorporated** The Agency may not make any grant to RFE/RL, Incorporated, unless the certificate of incorporation of RFE/RL, Incorporated, has been amended to provide that—
 
-(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under [section 6204(a)(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/20&num=0&edition=prelim); and
+(1) the Board of Directors of RFE/RL, Incorporated, shall consist of the members authorized under section 6204(a)(20) 11 See References in Text note below. of this title; and
 
 (2) such Board of Directors shall make all major policy determinations governing the operation of RFE/RL, Incorporated, and shall appoint and fix the compensation of such managerial officers and employees of RFE/RL, Incorporated, as it considers necessary to carry out the purposes of the grant provided under this chapter.
 
@@ -554,27 +567,15 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 (3) that failure to comply with the requirements of this section may result in suspension or termination of a grant without further obligation by the Agency or the United States;
 
-(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the 11 So in original. The word “the” probably should not appear. any other grantee of the Agency be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
+(4) that duplication of language services and technical operations between RFE/RL, Incorporated and the 22 So in original. The word “the” probably should not appear. any other grantee of the Agency be reduced to the extent appropriate, as determined by the Chief Executive Officer; and
 
 (5) that RFE/RL, Incorporated, justify in detail each proposed expenditure of grant funds, and that such funds may not be used for any other purpose unless the Agency gives its prior written approval.
 
 **(h) Prohibited uses of grant funds** No grant funds provided under this section may be used for the following purposes:
 
-(1)
+(1) For any activity for the purpose of influencing the passage or defeat of legislation being considered by Congress.
 
-  (A) Except as provided in subparagraph (B) or (C), to pay any salary or other compensation, or enter into any contract providing for the payment of salary or compensation in excess of the rates established for comparable positions under title 5 or the foreign relations laws of the United States, except that no employee may be paid a salary or other compensation in excess of the rate of pay payable for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
-
-  (B) Salary and other compensation limitations under subparagraph (A) shall not apply prior to October 1, 1995, with respect to any employee covered by a union agreement requiring a salary or other compensation in excess of such limitations.
-
-  (C) Notwithstanding the limitations under subparagraph (A), grant funds provided under this section may be used by RFE/RL, Incorporated, to pay up to three employees employed in Washington, D.C., salary or other compensation not to exceed the rate of pay payable for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
-
-(2) For any activity for the purpose of influencing the passage or defeat of legislation being considered by Congress.
-
-(3) To enter into a contract or obligation to pay severance payments for voluntary separation for employees hired after December 1, 1990, except as may be required by United States law or the laws of the country where the employee is stationed.
-
-(4) For first class travel for any employee of RFE/RL, Incorporated, or the relative of any employee.
-
-(5) To compensate freelance contractors without the approval of the Agency.
+(2) For first class travel for any employee of RFE/RL, Incorporated, or the relative of any employee.
 
 **(i) Report on management practices** Effective not later than March 31 and September 30 of each calendar year, the Inspector General of the Department of State and the Foreign Service shall submit to the Agency and the Congress a report on management practices of RFE/RL, Incorporated, under this section. The Inspector General of the Department of State and the Foreign Service shall establish a special unit within the Inspector General’s office to monitor and audit the activities of RFE/RL, Incorporated, and shall provide for on-site monitoring of such activities.
 
@@ -584,23 +585,37 @@ Pub. L. 107–228, div. A, title V, § 504, Sept. 30, 2002, 116 Stat. 1393, as a
 
 (2) Representatives of the Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by RFE/RL, Incorporated pertaining to such financial transactions and necessary to facilitate an audit. Such representatives shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of RFE/RL, Incorporated, shall remain in the possession and custody of RFE/RL, Incorporated.
 
-(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act [[22 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2871&num=0&edition=prelim) et seq.], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to RFE/RL, Incorporated.
+(3) Notwithstanding any other provision of law and upon repeal of the Board for International Broadcasting Act [[22 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2871&num=0&edition=prelim) et seq.], the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of chapter 4 of title 5 with respect to RFE/RL, Incorporated.
 
 ### Statutory Notes
 
 #### References in Text
+[Section 6204(a)(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/20&num=0&edition=prelim), referred to in subsec. (a)(1), which related to authority of the Chief Executive Officer to condition any grant or cooperative agreement to RFE/RL, Inc., or certain other entities on authority to determine membership of the boards of such entities, was repealed by Pub. L. 117–263, div. I, title XCVII, § 9706(2), Dec. 23, 2022, 136 Stat. 3915. Former [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim) was redesignated as [section 6204(a)(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/20&num=0&edition=prelim).
+
 This chapter, referred to in subsecs. (a)(2) and (e), was in the original “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-The foreign relations laws of the United States, referred to in subsec. (h)(1)(A), are classified generally to this title.
-
-The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, § 310(e), Apr. 30, 1994, 108 Stat. 442. See [section 6209(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim).
-
-The Inspector General Act of 1978, referred to in subsec. (j)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Board for International Broadcasting Act, referred to in subsecs. (f) and (j)(3), is Pub. L. 93–129, Oct. 19, 1973, 87 Stat. 456, which was classified generally to chapter 43 (§ 2871 et seq.) of this title prior to repeal by Pub. L. 103–236, title III, § 310(e), Apr. 30, 1994, 108 Stat. 442.
 
 #### Codification
 Pub. L. 116–283, div. A, title XII, § 1299Q(e)(3), Jan. 1, 2021, 134 Stat. 4025, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
 
 #### Amendments
+2023—Subsec. (h). Pub. L. 118–31, § 6602(2), redesignated pars. (2) and (4) as (1) and (2), respectively. Former par. (1) struck out.
+
+Pub. L. 118–31, § 6602(1), which directed amendment of subsec. (h) by striking out “subparagraphs (1), (3), and (5)”, was executed by striking out pars. (1), (3), and (5), to reflect the probable intent of Congress. Prior to amendment, pars. (1), (3), and (5) read as follows:
+
+“(1)(A) Except as provided in subparagraph (B) or (C), to pay any salary or other compensation, or enter into any contract providing for the payment of salary or compensation in excess of the rates established for comparable positions under title 5 or the foreign relations laws of the United States, except that no employee may be paid a salary or other compensation in excess of the rate of pay payable for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+
+“(B) Salary and other compensation limitations under subparagraph (A) shall not apply prior to October 1, 1995, with respect to any employee covered by a union agreement requiring a salary or other compensation in excess of such limitations.
+
+“(C) Notwithstanding the limitations under subparagraph (A), grant funds provided under this section may be used by RFE/RL, Incorporated, to pay up to three employees employed in Washington, D.C., salary or other compensation not to exceed the rate of pay payable for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
+
+“(3) To enter into a contract or obligation to pay severance payments for voluntary separation for employees hired after December 1, 1990, except as may be required by United States law or the laws of the country where the employee is stationed.
+
+“(5) To compensate freelance contractors without the approval of the Agency.”
+
+2022—Subsec. (j)(3). Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1299Q(e)(3)(A), substituted “Agency” for “Board” in introductory provisions.
 
 Subsec. (b). Pub. L. 116–283, § 1299Q(e)(3)(B), substituted “Agency” for “Board” wherever appearing.
@@ -847,7 +862,7 @@ Pub. L. 111–202, § 1, July 13, 2010, 124 Stat. 1373, provided that: “Congre
 
 (2) **Access by GAO** — The Government Accountability Office shall have access to all books, accounts, records, reports, files, papers, and property belonging to or in use by the Open Technology Fund pertaining to financial transactions as may be necessary to facilitate an audit. The Government Accountability Office shall be afforded full facilities for verifying transactions with any assets held by depositories, fiscal agents, and custodians. All such books, accounts, records, reports, files, papers, and property of the Open Technology Fund shall remain in the possession and custody of the Open Technology Fund.
 
-(3) **Exercise of authorities** — Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 [5 U.S.C. App.] with respect to the Open Technology Fund.
+(3) **Exercise of authorities** — Notwithstanding any other provision of law, the Inspector General of the Department of State and the Foreign Service is authorized to exercise the authorities of the Inspector General Act of 1978 with respect to the Open Technology Fund.
 
 ### Statutory Notes
 
@@ -858,44 +873,38 @@ This chapter, referred to in subsecs. (b)(6) and (e)(2), was in the original “
 
 The Intergovernmental Personnel Act, referred to in subsec. (e)(4), probably means the Intergovernmental Personnel Act of 1970, Pub. L. 91–648, Jan. 5, 1971, 84 Stat. 1909, which is classified principally to chapter 62 (§ 4701 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4701&num=0&edition=prelim) and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (h)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (h)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Effective Date
 Section effective and applicable beginning on July 1, 2021, see section 1299P(e) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note under [section 6203 of this title](./chapter-071-united-states-international-broadcasting.md#section-6203).
 
 
 <a id="section-6209"></a>
-## § 6209. Broadcast entities reporting to Chief Executive Officer
-**(a) Consolidation of grantee organizations**
+## § 6209. Incorporation and non-Federal status of broadcasting entities
+**(a) Defined term** In this chapter—
 
-(1) **In general** — The Chief Executive Officer, subject to the regular notification procedures of the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives and the Committee on Appropriations and the Committee on Foreign Relations of the Senate, who is authorized to incorporate a grantee, may condition annual grants to RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks on the consolidation of such grantees into a single, consolidated private, non-profit corporation (in accordance with [section 501(c)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim) and exempt from tax under section 501(a) of such title), in such a manner and under such terms and conditions as determined by the Chief Executive Officer, which may broadcast and provide news and information to audiences wherever the agency may broadcast, for activities that the Chief Executive Officer determines are consistent with the purposes of this chapter, including the terms and conditions of subsections (g)(5), (h), (i), and (j) of [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207), except that the Agency may select any name for such a consolidated grantee.
+(1) the term “grant” includes agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim); and
 
-(2) **Special rule** — No State or political subdivision of a State may establish, enforce, or continue in effect any provision of law or legal requirement that is different from, or is in conflict with, any requirement or authority applicable under this chapter relating to the consolidation, incorporation, structure, or dissolution of any grantee under this chapter.
+(2) the term “grantee” includes recipients of an agreement described in paragraph (1).
 
-**(b) Mission** The consolidated grantee established under subsection (a) shall—
+**(b) Incorporation** The Chief Executive Officer is authorized to incorporate grantees in accordance with the regular notification procedures of—
 
-(1) counter state-sponsored propaganda which undermines the national security or foreign policy interests of the United States and its allies;
+(1) the Committee on Appropriations of the Senate;
 
-(2) provide uncensored local and regional news and analysis to people in societies where a robust, indigenous, independent, and free media does not exist;
+(2) the Committee on Foreign Relations of the Senate;
 
-(3) help countries improve their indigenous capacity to enhance media professionalism and independence, and develop partnerships with local media outlets, as appropriate; and
+(3) the Committee on Appropriations of the House of Representatives; and
 
-(4) promote unrestricted access to uncensored sources of information, especially via the internet, and use all effective and efficient mediums of communication to reach target audiences.
+(4) the Committee on Foreign Affairs of the House of Representatives.
 
-**(c) Federal status** Nothing in this chapter or any other Act, or any action taken pursuant to this chapter or any other Act, may be construed to make such a consolidated grantee described in subsection (a) or RFE/RL, Inc., Radio Free Asia, the Open Technology Fund, or the Middle East Broadcasting Networks or any other grantee or entity provided funding by the agency a Federal agency or instrumentality. Employees or staff of such grantees or entities may not be Federal employees. For purposes of this section and this chapter, the term “grant” includes agreements under [section 6305 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6305&num=0&edition=prelim), and the term “grantee” includes recipients of such agreements.
+**(c) Federal status** Nothing in this chapter or in any other Act, and no action taken pursuant to this chapter or any other Act, may be construed to make a grantee incorporated pursuant to subsection (b), or any other grantee or entity provided funding by the Agency, a Federal agency or instrumentality.
 
-**(d) Leadership of grantee organizations** Officers and directors of RFE/RL Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks or any organization that is established through the consolidation of such entities, or authorized under this chapter, shall serve at the pleasure of and may be named by the Chief Executive Officer of the Agency.
-
-**(e) Maintenance of the existing individual grantee brands** RFE/RL, Incorporated, Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks, Incorporated should remain brand names under which news and related programming and content may be disseminated by the consolidated grantee. Additional brands may be created as necessary.
-
-**(f) Maintenance of proprietary information** No consolidation of grantees authorized under subsection (a) involving any grantee shall result in any legal transfer of ownership of any proprietary information or intellectual property to the United State Agency for Global Media or any other Federal entity.
-
-**(g) Rule of construction** No consolidation of grantees authorized under subsection (a) shall result in the consolidation of the Open Technology Fund or any successor entity with any other grantee.
+**(d) Leadership of grantee organizations** The chief executive officer or the equivalent official of RFE/RL Inc., Radio Free Asia, the Open Technology Fund, and the Middle East Broadcasting Networks, and any other organization that is established or authorized under this chapter, shall serve at the pleasure of, and may be named by, the Chief Executive Officer of the Agency, with the concurrence of the Grantee Board and subject to the approval of the Advisory Board pursuant to [section 6205 of this title](./chapter-071-united-states-international-broadcasting.md#section-6205).
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (c), and (d), was in the original a reference to this Act, and was translated as referring to this title, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
+This chapter, referred to in subsecs. (a), (c), and (d), was so in the original, but probably should have been a reference to “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
 #### Codification
 Pub. L. 116–283, div. A, title XII, § 1299Q(e)(5), (f), Jan. 1, 2021, 134 Stat. 4025, 4026, which amended this section, was itself amended by Pub. L. 116–260, div. O, title XIII, § 1301, Dec. 27, 2020, 134 Stat. 2158, to make it effective 90 days after Jan. 1, 2021. However, the amendment by Pub. L. 116–260 could not be executed because it was enacted before the provision from Pub. L. 116–283 that it amended.
@@ -904,6 +913,8 @@ Pub. L. 116–283, div. A, title XII, § 1299Q(e)(5), (f), Jan. 1, 2021, 134 Sta
 A prior section 6209, Pub. L. 103–236, title III, § 310, Apr. 30, 1994, 108 Stat. 442, related to transition of transfer of functions from Board for International Broadcasting to United States Information Agency, Board, or Bureau, prior to repeal by Pub. L. 105–277, div. G, subdiv. A, title XIII, §§ 1301, 1323(l)(2), Oct. 21, 1998, 112 Stat. 2681–776, 2681–780, effective Oct. 1, 1999.
 
 #### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to broadcast entities reporting to Chief Executive Officer.
+
 2021—Subsec. (a)(1). Pub. L. 116–283, § 1299P(c)(3), inserted “the Open Technology Fund,” before “and the Middle East Broadcasting Networks”.
 
 Subsec. (c). Pub. L. 116–283, § 1299P(c)(2), inserted “the Open Technology Fund,” before “or the Middle East Broadcasting Networks”.
@@ -922,14 +933,14 @@ Amendment by section 1299P(c)(2), (3) of Pub. L. 116–283 effective and applica
 
 <a id="section-6209a"></a>
 ## § 6209a. Inspector General authorities
-**(a) In general** The Inspector General of the Department of State and the Foreign Service shall exercise the same authorities with respect to the United States Agency for Global Media as the Inspector General exercises under the Inspector General Act of 1978 [5 U.S.C. App.] and [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) with respect to the Department of State.
+**(a) In general** The Inspector General of the Department of State and the Foreign Service shall exercise the same authorities with respect to the United States Agency for Global Media as the Inspector General exercises under the Inspector General Act of 1978 and [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) with respect to the Department of State.
 
 **(b) Respect for journalistic integrity of broadcasters** The Inspector General of the Department of State and the Foreign Service shall respect the journalistic integrity of all the broadcasters covered by this chapter and may not evaluate the philosophical or political perspectives reflected in the content of broadcasts.
 
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, and was translated as reading “this title”, meaning title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, known as the United States International Broadcasting Act of 1994, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title III to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
@@ -1006,7 +1017,7 @@ Pub. L. 116–283, div. A, title XII, § 1299Q(e)(9), Jan. 1, 2021, 134 Stat. 40
 2002—Subsec. (a). Pub. L. 107–228 struck out “the direction and” after “broadcasting subject to” in introductory provisions.
 
 #### Continued Availability of Funds Following Repeal of Board for International Broadcasting Act of 1973
-Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1771, provided in part: “That on the date upon which the Board for International Broadcasting Act of 1973 ([22 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2871&num=0&edition=prelim), et seq.) is repealed, as provided for by section 310(e) of the Foreign Relations Authorization Act, fiscal years 1994 and 1995 (Public Law 103–236; 108 Stat. 442) [[22 U.S.C. 6209(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim)], funds made available for expenses of the Board for International Broadcasting shall be made available until expended only for expenses necessary to enable the Broadcasting Board of Governors [now United States Agency for Global Media] to carry out the authorities provided in section 305(a) of Public Law 103–236 [[22 U.S.C. 6204(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a&num=0&edition=prelim)], including the appointment of staff personnel as authorized by section 305(a)(11) of Public Law 103–236: Provided further, That such amounts appropriated to the Board for International Broadcasting in fiscal year 1994 as are certified by the Office of Management and Budget to the Congress as gains due to the fluctuation of foreign currency, may be used in fiscal year 1995 and thereafter either to offset foreign currency losses or to offset unfunded RFE/RL costs associated with the implementation of Public Law 103–236 [see Tables for classification]: Provided further, That obligated but unexpended balances appropriated in fiscal year 1990 to fund planned transmitter modernization expenses may be expended in fiscal year 1995 for unfunded RFE/RL costs associated with the implementation of Public Law 103–236”.
+Pub. L. 103–317, title V, Aug. 26, 1994, 108 Stat. 1771, provided in part: “That on the date upon which the Board for International Broadcasting Act of 1973 ([22 U.S.C. 2871](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2871&num=0&edition=prelim), et seq.) is repealed, as provided for by section 310(e) of the Foreign Relations Authorization Act, fiscal years 1994 and 1995 (Public Law 103–236; 108 Stat. 442) [former [22 U.S.C. 6209(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6209/e&num=0&edition=prelim)], funds made available for expenses of the Board for International Broadcasting shall be made available until expended only for expenses necessary to enable the Broadcasting Board of Governors [now United States Agency for Global Media] to carry out the authorities provided in section 305(a) of Public Law 103–236 [[22 U.S.C. 6204(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a&num=0&edition=prelim)], including the appointment of staff personnel as authorized by section 305(a)(11) of Public Law 103–236: Provided further, That such amounts appropriated to the Board for International Broadcasting in fiscal year 1994 as are certified by the Office of Management and Budget to the Congress as gains due to the fluctuation of foreign currency, may be used in fiscal year 1995 and thereafter either to offset foreign currency losses or to offset unfunded RFE/RL costs associated with the implementation of Public Law 103–236 [see Tables for classification]: Provided further, That obligated but unexpended balances appropriated in fiscal year 1990 to fund planned transmitter modernization expenses may be expended in fiscal year 1995 for unfunded RFE/RL costs associated with the implementation of Public Law 103–236”.
 
 
 <a id="section-6213"></a>
@@ -1078,13 +1089,13 @@ The United States Information and Educational Exchange Act of 1948, referred to 
 
 The United States International Broadcasting Act of 1994, referred to in subsec. (c), is title III of Pub. L. 103–236, Apr. 30, 1994, 108 Stat. 432, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title](./chapter-071-united-states-international-broadcasting.md#section-6201) and Tables.
 
-The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec. (c), is division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761, For complete classification of division G to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
+The Foreign Affairs Reform and Restructuring Act of 1998, referred to in subsec. (c), is division G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–761. For complete classification of division G to the Code, see Short Title note set out under [section 6501 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6501) and Tables.
 
 #### Codification
 Section was enacted as part of the Radio Free Afghanistan Act, and not as part of the United States International Broadcasting Act of 1994 which comprises this chapter.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-6216"></a>
@@ -1119,3 +1130,132 @@ Pub. L. 116–283, div. A, title XII, § 1299Q(e)(11), Jan. 1, 2021, 134 Stat. 4
 
 #### Finding; Sense of Congress
 Pub. L. 110–53, title XX, § 2031(a), (b), Aug. 3, 2007, 121 Stat. 515, provided that: “(a) Finding.—Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that ‘Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors [now United States Agency for Global Media] has asked for much larger resources. It should get them.’. “(b) Sense of Congress.—It is the sense of Congress that—“(1) the United States needs to improve its communication of information and ideas to people in foreign countries, particularly in countries with significant Muslim populations; and “(2) public diplomacy should reaffirm the paramount commitment of the United States to democratic principles, including preserving the civil liberties of all the people of the United States, including Muslim-Americans.”
+
+
+<a id="section-6217"></a>
+## § 6217. Global internet freedom
+**(a) Statement of policy** It is the policy of the United States to promote internet freedom through programs of the Department and USAID that preserve and expand the internet as an open, global space for freedom of expression and association, which shall be prioritized for countries—
+
+(1) whose governments restrict freedom of expression on the internet; and
+
+(2) that are important to the national interest of the United States.
+
+**(b) Purpose and coordination with other programs** Global internet freedom programming under this section—
+
+(1) shall be coordinated with other United States foreign assistance programs that promote democracy and support the efforts of civil society—
+
+  (A) to counter the development of repressive internet-related laws and regulations, including countering threats to internet freedom at international organizations;
+
+  (B) to combat violence against bloggers and other civil society activists who utilize the internet; and
+
+  (C) to enhance digital security training and capacity building for democracy activists;
+
+(2) shall seek to assist efforts—
+
+  (A) to research key threats to internet freedom;
+
+  (B) to continue the development of technologies that provide or enhance access to the internet, including circumvention tools that bypass internet blocking, filtering, and other censorship techniques used by authoritarian governments; and
+
+  (C) to maintain the technological advantage of the Federal Government over the censorship techniques described in subparagraph (B); and
+
+(3) shall be incorporated into country assistance and democracy promotion strategies, as appropriate.
+
+**(c) Authorization of appropriations** There are authorized to be appropriated for fiscal year 2023—
+
+(1) $75,000,000 to the Department and USAID, to continue efforts to promote internet freedom globally, and shall be matched, to the maximum extent practicable, by sources other than the Federal Government, including the private sector; and
+
+(2) $49,000,000 to the United States Agency for Global Media (referred to in this section as the “USAGM”) and its grantees, for internet freedom and circumvention technologies that are designed—
+
+  (A) for open-source tools and techniques to securely develop and distribute digital content produced by the USAGM and its grantees;
+
+  (B) to facilitate audience access to such digital content on websites that are censored;
+
+  (C) to coordinate the distribution of such digital content to targeted regional audiences; and
+
+  (D) to promote and distribute such tools and techniques, including digital security techniques.
+
+**(d) United States Agency for Global Media activities**
+
+(1) **Annual certification** — For any new tools or techniques authorized under subsection (c)(2), the Chief Executive Officer of the USAGM, in consultation with the President of the Open Technology Fund (referred to in this subsection as the “OTF”) and relevant Federal departments and agencies, shall submit an annual certification to the appropriate congressional committees that verifies they—
+
+  (A) have evaluated the risks and benefits of such new tools or techniques; and
+
+  (B) have established safeguards to minimize the use of such new tools or techniques for illicit purposes.
+
+(2) **Information sharing** — The Secretary may not direct programs or policy of the USAGM or the OTF, but may share any research and development with relevant Federal departments and agencies for the exclusive purposes of—
+
+  (A) sharing information, technologies, and best practices; and
+
+  (B) assessing the effectiveness of such technologies.
+
+(3) **United States Agency for Global Media** — The Chief Executive Officer of the USAGM, in consultation with the President of the OTF, shall—
+
+  (A) coordinate international broadcasting programs and incorporate such programs into country broadcasting strategies, as appropriate;
+
+  (B) solicit project proposals through an open, transparent, and competitive application process, including by seeking input from technical and subject matter experts; and
+
+  (C) support internet circumvention tools and techniques for audiences in countries that are strategic priorities for the OTF, in accordance with USAGM’s annual language service prioritization review.
+
+**(e) USAGM report** Not later than 120 days after December 23, 2022, the Chief Executive Office of the USAGM shall submit a report to the appropriate congressional committees that describes—
+
+(1) as of the date of the report—
+
+  (A) the full scope of internet freedom programs within the USAGM, including—
+
+    (i) the efforts of the Office of Internet Freedom; and
+
+    (ii) the efforts of the Open Technology Fund;
+
+  (B) the capacity of internet censorship circumvention tools supported by the Office of Internet Freedom and grantees of the Open Technology Fund that are available for use by individuals in foreign countries seeking to counteract censors; and
+
+  (C) any barriers to the provision of the efforts described in clauses (i) and (ii) of subparagraph (A), including access to surge funding; and
+
+(2) successful examples from the Office of Internet Freedom and Open Technology Fund involving—
+
+  (A) responding rapidly to internet shutdowns in closed societies; and
+
+  (B) ensuring uninterrupted circumvention services for USAGM entities to promote internet freedom within repressive regimes.
+
+**(f) Joint report** Not later than 60 days after December 23, 2022, the Secretary and the Administrator of USAID shall jointly submit a report, which may include a classified annex, to the appropriate congressional committees that describes—
+
+(1) as of the date of the report—
+
+  (A) the full scope of internet freedom programs within the Department and USAID, including—
+
+    (i) Department circumvention efforts; and
+
+    (ii) USAID efforts to support internet infrastructure;
+
+  (B) the capacity of internet censorship circumvention tools supported by the Federal Government that are available for use by individuals in foreign countries seeking to counteract censors; and
+
+  (C) any barriers to provision of the efforts enumerated in clauses (i) and (ii) of subsection (e)(1)(A), including access to surge funding; and
+
+(2) any new resources needed to provide the Federal Government with greater capacity to provide and boost internet access—
+
+  (A) to respond rapidly to internet shutdowns in closed societies; and
+
+  (B) to provide internet connectivity to foreign locations where the provision of additional internet access service would promote freedom from repressive regimes.
+
+**(g) Security audits** Before providing any support for open source technologies under this section, such technologies must undergo comprehensive security audits to ensure that such technologies are secure and have not been compromised in a manner that is detrimental to the interest of the United States or to the interests of individuals and organizations benefitting from programs supported by such funding.
+
+**(h) Surge**
+
+(1) **Authorization of appropriations** — Subject to paragraph (2), there is authorized to be appropriated, in addition to amounts otherwise made available for such purposes, up to $2,500,000 to support internet freedom programs in closed societies, including programs that—
+
+  (A) are carried out in crisis situations by vetted entities that are already engaged in internet freedom programs;
+
+  (B) involve circumvention tools; or
+
+  (C) increase the overseas bandwidth for companies that received Federal funding during the previous fiscal year.
+
+(2) **Certification** — Amounts authorized to be appropriated pursuant to paragraph (1) may not be expended until the Secretary has certified to the appropriate congressional committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives that the use of such funds is in the national interest of the United States.
+
+**(i) Defined term** In this section, the term “internet censorship circumvention tool” means a software application or other tool that an individual can use to evade foreign government restrictions on internet access.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act of 2022, and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the United States International Broadcasting Act of 1994 which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see section 9002 of Pub. L. 117–263, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).

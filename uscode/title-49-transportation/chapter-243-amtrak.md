@@ -1217,7 +1217,7 @@ Pub. L. 105–134, title IV, § 414, Dec. 2, 1997, 111 Stat. 2589, provided that
 
 <a id="section-24316"></a>
 ## § 24316. Plans to address needs of families of passengers involved in rail passenger accidents
-**(a) Submission of Plan.—** Not later than 6 months after the date of the enactment of the Rail Safety Improvement Act of 2008, a rail passenger carrier shall submit to the Chairman of the National Transportation Safety Board, the Secretary of Transportation, and the Secretary of Homeland Security a plan for addressing the needs of the families of passengers involved in any rail passenger accident involving a rail passenger carrier intercity train and resulting in a major loss of life.
+**(a) Submission of Plan.—** Not later than 6 months after the date of the enactment of the Rail Safety Improvement Act of 2008, a rail passenger carrier shall submit to the Chairman of the National Transportation Safety Board, the Secretary of Transportation, and the Secretary of Homeland Security a plan for addressing the needs of the families of passengers involved in any rail passenger accident involving a rail passenger carrier intercity train and resulting in any loss of life.
 
 **(b) Contents of Plans.—** A plan to be submitted by a rail passenger carrier under subsection (a) shall include, at a minimum, the following:
 
@@ -1265,6 +1265,9 @@ Pub. L. 105–134, title IV, § 414, Dec. 2, 1997, 111 Stat. 2589, provided that
 
 #### References in Text
 The date of the enactment of the Rail Safety Improvement Act of 2008, referred to in subsec. (a), is the date of enactment of div. A of Pub. L. 110–432, which was approved Oct. 16, 2008.
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–63 substituted “any loss of life” for “a major loss of life”.
 
 
 <a id="section-24317"></a>

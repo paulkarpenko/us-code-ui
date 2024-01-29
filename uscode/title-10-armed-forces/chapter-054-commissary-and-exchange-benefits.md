@@ -23,14 +23,23 @@ Section is based on Pub. L. 99–145, title III, § 308, Nov. 8, 1985, 99 Stat. 
 
 
 <a id="section-1062"></a>
-## § 1062. Certain former spouses
+## § 1062. Certain former spouses and surviving spouses
+**(a) Certain Unremarried Former Spouses.—** The Secretary of Defense shall prescribe such regulations as may be necessary to provide that an unremarried former spouse described in subparagraph (F)(i) of [section 1072(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/2&num=0&edition=prelim) is entitled to use commissary stores and MWR retail facilities to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services.
 
-The Secretary of Defense shall prescribe such regulations as may be necessary to provide that an unremarried former spouse described in subparagraph (F)(i) of [section 1072(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1072/2&num=0&edition=prelim) is entitled to commissary and exchange privileges to the same extent and on the same basis as the surviving spouse of a retired member of the uniformed services.
+**(b) Certain Remarried Surviving Spouses.—** The Secretary of Defense shall prescribe such regulations as may be necessary to provide that a surviving spouse of a deceased member of the armed forces, regardless of the marital status of the surviving spouse, is entitled to use commissary stores and MWR retail facilities to the same extent and on the same basis as an unremarried surviving spouse of a member of the uniformed services.
+
+**(c) MWR Retail Facilities Defined.—** In this section, the term “MWR retail facilities” has the meaning given that term in [section 1063 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1063).
 
 ### Statutory Notes
 
 #### Historical and Revision Notes
 Section is based on Pub. L. 97–252, title X, § 1005, Sept. 8, 1982, 96 Stat. 737.
+
+#### Amendments
+2023—Pub. L. 118–31 inserted “and surviving spouses” at end of section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “use commissary stores and MWR retail facilities” for “commissary and exchange privileges”, and added subsecs. (b) and (c).
+
+#### Regulations
+Pub. L. 118–31, div. A, title VI, § 633(b), Dec. 22, 2023, 137 Stat. 297, provided that: “The Secretary of Defense shall prescribe regulations under [section 1062(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1062/b&num=0&edition=prelim), United States Code, as added by subsection (a)(3), not later than October 1, 2025.”
 
 
 <a id="section-1063"></a>
@@ -39,15 +48,17 @@ Section is based on Pub. L. 97–252, title X, § 1005, Sept. 8, 1982, 96 Stat. 
 
 **(b) Members of Ready Reserve Not in Selected Reserve.—** Subject to such regulations as the Secretary of Defense may prescribe, a member of the Ready Reserve (other than members of the Selected Reserve) may be permitted to use commissary stores and MWR retail facilities on the same basis as members serving on active duty.
 
-**(c) Reserve Retirees Under Age 60.—** A member or former member of a reserve component under 60 years of age who, but for age, would be eligible for retired pay under chapter 1223 of this title shall be permitted to use commissary stores and MWR retail facilities on the same basis as members of the armed forces entitled to retired pay under any other provision of law.
+**(c) Reserve and Space Force Retirees Under Age 60.—** A member or former member of a reserve component or the Space Force under 60 years of age who, but for age, would be eligible for retired pay under chapter 1223 of this title shall be permitted to use commissary stores and MWR retail facilities on the same basis as members of the armed forces entitled to retired pay under any other provision of law.
 
-**(d) Dependents.—**
+**(d) Members of the Space Force.—** A member of the Space Force in a space force active status who is not on sustained duty shall be permitted to use commissary stores and MWR retail facilities under the same conditions as specified in subsection (a) for a member of the Selected Reserve.
 
-(1) Dependents of a member who is permitted under subsection (a) or (b) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members on active duty.
+**(e) Dependents.—**
+
+(1) Dependents of a member who is permitted under subsection (a), (b), or (d) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members on active duty.
 
 (2) Dependents of a member who is permitted under subsection (c) to use commissary stores and MWR retail facilities shall be permitted to use stores and such facilities on the same basis as dependents of members of the armed forces entitled to retired pay under any other provision of law.
 
-**(e) MWR Retail Facility Defined.—** In this section, the term “MWR retail facilities” means exchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
+**(f) MWR Retail Facility Defined.—** In this section, the term “MWR retail facilities” means exchange stores and other revenue-generating facilities operated by nonappropriated fund activities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
 ### Statutory Notes
 
@@ -55,6 +66,14 @@ Section is based on Pub. L. 97–252, title X, § 1005, Sept. 8, 1982, 96 Stat. 
 A prior section 1063, added Pub. L. 99–661, div. A, title VI, § 656(a)(1), Nov. 14, 1986, 100 Stat. 3891, § 1052; renumbered § 1063, Pub. L. 100–370, § 1(c)(2)(A), July 19, 1988, 102 Stat. 841; amended Pub. L. 101–510, div. A, title III, § 321(a)(1), Nov. 5, 1990, 104 Stat. 1527; Pub. L. 102–484, div. A, title III, § 365(a), (c)(1), Oct. 23, 1992, 106 Stat. 2382; Pub. L. 104–106, div. A, title XV, § 1501(c)(9), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, § 362(a), (d)(1), Oct. 17, 1998, 112 Stat. 1984, 1985; Pub. L. 107–107, div. A, title III, § 331(a)–(d)(2), Dec. 28, 2001, 115 Stat. 1057, related to use of commissary stores by members of Ready Reserve, prior to repeal by Pub. L. 108–136, div. A, title VI, § 651(b)(1), Nov. 24, 2003, 117 Stat. 1521.
 
 #### Amendments
+2023—Subsec. (c). Pub. L. 118–31, § 1722(h)(1), inserted “and Space Force” after “Reserve” in heading and “or the Space Force” after “reserve component” in text.
+
+Subsec. (d). Pub. L. 118–31, § 1722(h)(3), added subsec. (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 118–31, § 1722(h)(2), (4), redesignated subsec. (d) as (e) and substituted “subsection (a), (b), or (d)” for “subsection (a) or (b)” in par. (1). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 118–31, § 1722(h)(2), redesignated subsec. (e) as (f).
+
 2003—Pub. L. 108–136, § 651(b)(4), (5), renumbered [section 1065 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1065) as this section and substituted “Use of commissary stores and MWR retail facilities: members of reserve components and reserve retirees under age 60” for “Morale, welfare, and recreation retail facilities: use by members of reserve components and dependents” in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 108–136, § 651(a)(1), inserted “commissary stores and” after “use”.
@@ -88,11 +107,14 @@ Pub. L. 101–510, div. A, title III, § 321(e)(2), Nov. 5, 1990, 104 Stat. 1528
 
 (1) **Federally declared disaster.—** — The term “federally declared disaster” means a disaster or other situation for which a Presidential declaration of major disaster is issued under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim)).
 
-(2) **MWR retail facilities.—** — The term “MWR retail facilities” has the meaning given that term in [section 1063(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1063/e&num=0&edition=prelim).
+(2) **MWR retail facilities.—** — The term “MWR retail facilities” has the meaning given that term in section 1063(e) 11 See References in text note below. of this title.
 
 (3) **National emergency.—** — The term “national emergency” means a national emergency declared by the President or Congress.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 1063(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1063/e&num=0&edition=prelim), referred to in subsec. (c)(2), was redesignated [section 1063(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1063/f&num=0&edition=prelim) by Pub. L. 118–31, div. A, title XVII, 1722(h)(2), Dec. 22, 2023, 137 Stat. 672.
 
 #### Prior Provisions
 A prior section 1064, added Pub. L. 101–510, div. A, title III, § 321(b), Nov. 5, 1990, 104 Stat. 1528; amended Pub. L. 104–106, div. A, title XV, § 1501(c)(8), Feb. 10, 1996, 110 Stat. 499; Pub. L. 105–261, div. A, title III, § 362(b), (d)(2), Oct. 17, 1998, 112 Stat. 1984, 1985, related to use of commissary stores by persons qualified for retired pay but under age 60, prior to repeal by Pub. L. 108–136, div. A, title VI, § 651(b)(1), Nov. 24, 2003, 117 Stat. 1521.
@@ -137,7 +159,7 @@ Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 
 (1) The term “MWR facilities” includes—
 
-  (A) MWR retail facilities, as that term is defined in [section 1063(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1063/e&num=0&edition=prelim); and
+  (A) MWR retail facilities, as that term is defined in section 1063(e) 11 See References in Text note below. of this title; and
 
   (B) military lodging operated by the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
@@ -152,6 +174,9 @@ Subsec. (c)(3). Pub. L. 107–314, § 322(a)(2), added par. (3).
 (6) The term “mandatory home leave” means leave under section 903 of the Foreign Service Act of 1980 ([22 U.S.C. 4083](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4083&num=0&edition=prelim)).
 
 ### Statutory Notes
+
+#### References in Text
+[Section 1063(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1063/e&num=0&edition=prelim), referred to in subsec. (h)(1)(A), was redesignated [section 1063(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1063/f&num=0&edition=prelim) by Pub. L. 118–31, div. A, title XVII, 1722(h)(2), Dec. 22, 2023, 137 Stat. 672.
 
 #### Prior Provisions
 A prior section 1065 was renumbered [section 1063 of this title](./chapter-054-commissary-and-exchange-benefits.md#section-1063).

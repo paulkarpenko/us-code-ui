@@ -267,9 +267,9 @@ Under regulations prescribed by the Secretary of Transportation, a student at a 
 
 **(b) Payments.—**
 
-(1) **In general.—** — Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $8,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
+(1) **In general.—** — Except as provided in paragraph (2), payments under an agreement under this section shall be equal to $16,000 each academic year and be paid in such installments as the Secretary shall determine while the individual is attending the academy, as prescribed by the Secretary.
 
-(2) **Exception.—** — The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $32,000.
+(2) **Exception.—** — The Secretary may modify the payments made to an individual under paragraph (1), but the total amount of payments to that individual may not exceed $64,000.
 
 (3) **Authorized uses.—** — The payments shall be used for uniforms, tuition, books, and subsistence.
 
@@ -345,6 +345,8 @@ Under regulations prescribed by the Secretary of Transportation, a student at a 
 
 (2) **Modification or waiver.—** — The Secretary may modify or waive any of the terms and conditions set forth in subsection (d) through the imposition of alternative service requirements.
 
+**(i) Age Requirement.—** The Secretary may make an agreement under this section only with a qualified student who will meet the age requirement for enlistment or commission in the Navy Reserve at the time of graduation from the academy.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -363,6 +365,12 @@ In subsection (a), the text of 46 App. U.S.C. 1295c(g)(8) is omitted as obsolete
 In subsection (g), the words “bring a civil action” are substituted for “begin court proceedings” for consistency in the revised title and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
+2023—Subsec. (b)(1). Pub. L. 118–31, § 3501(b)(1), substituted “$16,000” for “$8,000”.
+
+Subsec. (b)(2). Pub. L. 118–31, § 3501(b)(2), substituted “$64,000” for “$32,000”.
+
+Subsec. (i). Pub. L. 118–7 added subsec. (i).
+
 2015—Subsec. (b). Pub. L. 114–92, § 3507(1), designated first sentence as par. (1) and last sentence as par. (3), inserted headings, realigned margins, in par. (1), substituted “Except as provided in paragraph (2), payments” for “Payments”, and added par. (2).
 
 Subsec. (c). Pub. L. 114–92, § 3507(2), substituted “Strategic Sealift Officer Program” for “Merchant Marine Reserve”.

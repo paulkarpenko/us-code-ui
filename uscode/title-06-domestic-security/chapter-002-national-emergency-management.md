@@ -2,25 +2,22 @@
 title: 6
 chapter: '2'
 heading: NATIONAL EMERGENCY MANAGEMENT
-section_count: 46
+section_count: 51
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
 <a id="section-701"></a>
-## § 701. Authorization of appropriations
+## § 701. Rules of construction
+**(a) Administrator** Nothing in this part shall be construed to supersede the civilian emergency management authority of the Administrator under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.) or the Post Katrina Emergency Management Reform Act 11 See References in Text note below. ([6 U.S.C. 701](./chapter-002-national-emergency-management.md#section-701) et seq.).
 
-There are authorized to be appropriated to carry out this title 11 See References in Text note below. and the amendments made by this title for the administration and operations of the Agency—
-
-(1) for fiscal year 2008, an amount equal to the amount appropriated for fiscal year 2007 for administration and operations of the Agency, multiplied by 1.1;
-
-(2) for fiscal year 2009, an amount equal to the amount described in paragraph (1), multiplied by 1.1; and
-
-(3) for fiscal year 2010, an amount equal to the amount described in paragraph (2), multiplied by 1.1.
+**(b) Secretary** Nothing in this part shall be construed as providing new authority to the Secretary, except to coordinate and facilitate the development of the assessments and reports required pursuant to this part.
 
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1355, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, see Short Title note set out under [section 701 of this title](./chapter-002-national-emergency-management.md#section-701) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
+The Post Katrina Emergency Management Reform Act, referred to in subsec. (a), probably means the Post-Katrina Emergency Management Reform Act of 2006, which is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1394, which enacted this chapter and enacted and amended numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-002-national-emergency-management.md#section-701) and Tables.
 
 
 <a id="section-711"></a>
@@ -76,6 +73,9 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 
 #### Effective Date
 Pub. L. 109–295, title VI, § 614, Oct. 4, 2006, 120 Stat. 1411, provided that: “(a) In General.—Except as provided in subsection (b), this title [see Tables for classification] and the amendments made by this title shall take effect on the date of enactment of this Act [Oct. 4, 2006]. “(b) Exceptions.—The following shall take effect on March 31, 2007:“(1) The amendments made by section 611(11) [enacting [section 313 of this title](./chapter-001-homeland-security-organization.md#section-313)]. “(2) The amendments made by section 611(12) [amending [section 314 of this title](./chapter-001-homeland-security-organization.md#section-314)]. “(3) Sections 505, 507, 508, and 514 of the Homeland Security Act of 2002 [sections 315, 317, 318, and 321c of this title], as amended by section 611(13) of this Act. “(4) The amendments made by subsection (a) [sic]. “(5) The amendments made by subsection (b)(1) [sic].”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–263, div. G, title LXXIII, § 7301, Dec. 23, 2022, 136 Stat. 3684, provided that: “This subtitle [subtitle A (§§ 7301–7309) of title LXXIII of div. G of Pub. L. 117–263, enacting part F of subchapter II of this chapter] may be cited as the ‘Global Catastrophic Risk Management Act of 2022’.”
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–272, § 1, Dec. 31, 2020, 134 Stat. 3349, provided that: “This Act [amending [section 791 of this title](./chapter-002-national-emergency-management.md#section-791) and enacting provisions set out as notes under [section 791 of this title](./chapter-002-national-emergency-management.md#section-791)] may be cited as the ‘Federal Advance Contracts Enhancement Act’ or the ‘FACE Act’.”
@@ -1416,3 +1416,228 @@ The Small Business Act, referred to in subsec. (a)(2), is Pub. L. 85–536, § 2
 ## § 811. Fraud prevention training program
 
 The Administrator shall develop and implement a program to provide training on the prevention of waste, fraud, and abuse of Federal disaster relief assistance relating to the response to or recovery from natural disasters and acts of terrorism or other man-made disasters and ways to identify such potential waste, fraud, and abuse.
+
+
+<a id="section-821"></a>
+## § 821. Authorization of appropriations
+
+There are authorized to be appropriated to carry out this title 11 See References in Text note below. and the amendments made by this title for the administration and operations of the Agency—
+
+(1) for fiscal year 2008, an amount equal to the amount appropriated for fiscal year 2007 for administration and operations of the Agency, multiplied by 1.1;
+
+(2) for fiscal year 2009, an amount equal to the amount described in paragraph (1), multiplied by 1.1; and
+
+(3) for fiscal year 2010, an amount equal to the amount described in paragraph (2), multiplied by 1.1.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in text, is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1355, known as the Post-Katrina Emergency Management Reform Act of 2006. For complete classification of title VI to the Code, see Short Title note set out under [section 701 of this title](./chapter-002-national-emergency-management.md#section-701) and Tables.
+
+
+<a id="section-822"></a>
+## § 822. Definitions
+
+In this part:
+
+(1) **Administrator** — The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+
+(2) **Basic need** — The term “basic need”—
+
+  (A) means any good, service, or activity necessary to protect the health, safety, and general welfare of the civilian population of the United States; and
+
+  (B) includes—
+
+    (i) food;
+
+    (ii) water;
+
+    (iii) shelter;
+
+    (iv) basic communication services;
+
+    (v) basic sanitation and health services; and
+
+    (vi) public safety.
+
+(3) **Catastrophic incident** — The term “catastrophic incident”—
+
+  (A) means any natural or man-made disaster that results in extraordinary levels of casualties or damage, mass evacuations, or disruption severely affecting the population, infrastructure, environment, economy, national morale, or government functions in an area; and
+
+  (B) may include an incident—
+
+    (i) with a sustained national impact over a prolonged period of time;
+
+    (ii) that may rapidly exceed resources available to State and local government and private sector authorities in the impacted area; or
+
+    (iii) that may significantly interrupt governmental operations and emergency services to such an extent that national security could be threatened.
+
+(4) **Critical infrastructure** — The term “critical infrastructure” has the meaning given such term in [section 5195c(e) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim).
+
+(5) **Existential risk** — The term “existential risk” means the potential for an outcome that would result in human extinction.
+
+(6) **Global catastrophic risk** — The term “global catastrophic risk” means the risk of events or incidents consequential enough to significantly harm or set back human civilization at the global scale.
+
+(7) **Global catastrophic and existential threats** — The term “global catastrophic and existential threats” means threats that with varying likelihood may produce consequences severe enough to result in systemic failure or destruction of critical infrastructure or significant harm to human civilization. Examples of global catastrophic and existential threats include severe global pandemics, nuclear war, asteroid and comet impacts, supervolcanoes, sudden and severe changes to the climate, and intentional or accidental threats arising from the use and development of emerging technologies.
+
+(8) **Indian Tribal government** — The term “Indian Tribal government” has the meaning given the term “Indian tribal government” in [section 5122 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim).
+
+(9) **Local government; State** — The terms “local government” and “State” have the meanings given such terms in [section 5122 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5122&num=0&edition=prelim).
+
+(10) **National exercise program** — The term “national exercise program” means activities carried out to test and evaluate the national preparedness goal and related plans and strategies as described in [section 748(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section748/b&num=0&edition=prelim).
+
+(11) **Secretary** — The term “Secretary” means the Secretary of Homeland Security.
+
+### Statutory Notes
+
+#### References in Text
+[Section 5195c(e) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5195c/e&num=0&edition=prelim), referred to in par. (4), was in the original “section 1016(e) of the Critical Infrastructure Protection Act of 2001” and was translated as reading “section 1016(e) of the Critical Infrastructures Protection Act of 2001”, to reflect the probable intent of Congress.
+
+
+<a id="section-823"></a>
+## § 823. Assessment of global catastrophic risk
+**(a) In general** The Secretary and the Administrator shall coordinate an assessment of global catastrophic risk.
+
+**(b) Coordination** When coordinating the assessment under subsection (a), the Secretary and the Administrator shall coordinate with senior designees of—
+
+(1) the Assistant to the President for National Security Affairs;
+
+(2) the Director of the Office of Science and Technology Policy;
+
+(3) the Secretary of State and the Under Secretary of State for Arms Control and International Security;
+
+(4) the Attorney General and the Director of the Federal Bureau of Investigation;
+
+(5) the Secretary of Energy, the Under Secretary of Energy for Nuclear Security, and the Director of Science;
+
+(6) the Secretary of Health and Human Services, the Assistant Secretary for Preparedness and Response, and the Assistant Secretary of Global Affairs;
+
+(7) the Secretary of Commerce, the Under Secretary of Commerce for Oceans and Atmosphere, and the Under Secretary of Commerce for Standards and Technology;
+
+(8) the Secretary of the Interior and the Director of the United States Geological Survey;
+
+(9) the Administrator of the Environmental Protection Agency and the Assistant Administrator for Water;
+
+(10) the Administrator of the National Aeronautics and Space Administration;
+
+(11) the Director of the National Science Foundation;
+
+(12) the Secretary of the Treasury;
+
+(13) the Secretary of Defense, the Assistant Secretary of the Army for Civil Works, and the Chief of Engineers and Commanding General of the Army Corps of Engineers;
+
+(14) the Chairman of the Joint Chiefs of Staff;
+
+(15) the Administrator of the United States Agency for International Development;
+
+(16) the Secretary of Transportation; and
+
+(17) other stakeholders the Secretary and the Administrator determine appropriate.
+
+
+<a id="section-824"></a>
+## § 824. Report required
+**(a) In general** Not later than 1 year after December 23, 2022, and every 10 years thereafter, the Secretary, in coordination with the Administrator, shall submit to the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate and the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives a report containing a detailed assessment, based on the input and coordination required under [section 822 of this title](./chapter-002-national-emergency-management.md#section-822), of global catastrophic and existential risk.
+
+**(b) Matters covered** Each report required under subsection (a) shall include—
+
+(1) expert estimates of cumulative global catastrophic and existential risk in the next 30 years, including separate estimates for the likelihood of occurrence and potential consequences;
+
+(2) expert-informed analyses of the risk of the most concerning specific global catastrophic and existential threats, including separate estimates, where reasonably feasible and credible, of each threat for its likelihood of occurrence and its potential consequences, as well as associated uncertainties;
+
+(3) a comprehensive list of potential catastrophic or existential threats, including even those that may have very low likelihood;
+
+(4) technical assessments and lay explanations of the analyzed global catastrophic and existential risks, including their qualitative character and key factors affecting their likelihood of occurrence and potential consequences;
+
+(5) an explanation of any factors that limit the ability of the Secretary to assess the risk both cumulatively and for particular threats, and how those limitations may be overcome through future research or with additional resources, programs, or authorities;
+
+(6) a forecast of if and why global catastrophic and existential risk is likely to increase or decrease significantly in the next 10 years, both qualitatively and quantitatively, as well as a description of associated uncertainties;
+
+(7) proposals for how the Federal Government may more adequately assess global catastrophic and existential risk on an ongoing basis in future years;
+
+(8) recommendations for legislative actions, as appropriate, to support the evaluation and assessment of global catastrophic and existential risk; and
+
+(9) other matters deemed appropriate by the Secretary, in coordination with the Administrator, and based on the input and coordination required under [section 822 of this title](./chapter-002-national-emergency-management.md#section-822).
+
+**(c) Consultation requirement** In producing the report required under subsection (a), the Secretary shall—
+
+(1) regularly consult with experts on severe global pandemics, nuclear war, asteroid and comet impacts, supervolcanoes, sudden and severe changes to the climate, and intentional or accidental threats arising from the use and development of emerging technologies; and
+
+(2) share information gained through the consultation required under paragraph (1) with relevant Federal partners listed in [section 822(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section822/b&num=0&edition=prelim).
+
+
+<a id="section-825"></a>
+## § 825. Enhanced catastrophic incident annex
+**(a) In general** The Secretary, in coordination with the Administrator and the Federal partners listed in [section 822(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section822/b&num=0&edition=prelim), shall supplement each Federal Interagency Operational Plan to include an annex containing a strategy to ensure the health, safety, and general welfare of the civilian population affected by catastrophic incidents by—
+
+(1) providing for the basic needs of the civilian population of the United States that is impacted by catastrophic incidents in the United States;
+
+(2) coordinating response efforts with State, local, and Indian Tribal governments, the private sector, and nonprofit relief organizations;
+
+(3) promoting personal and local readiness and non-reliance on government relief during periods of heightened tension or after catastrophic incidents; and
+
+(4) developing international partnerships with allied nations for the provision of relief services and goods.
+
+**(b) Elements of the strategy** The strategy required under subsection (a) shall include a description of—
+
+(1) actions the Federal Government should take to ensure the basic needs of the civilian population of the United States in a catastrophic incident are met;
+
+(2) how the Federal Government should coordinate with non-Federal entities to multiply resources and enhance relief capabilities, including—
+
+  (A) State and local governments;
+
+  (B) Indian Tribal governments;
+
+  (C) State disaster relief agencies;
+
+  (D) State and local disaster relief managers;
+
+  (E) State National Guards;
+
+  (F) law enforcement and first response entities; and
+
+  (G) nonprofit relief services;
+
+(3) actions the Federal Government should take to enhance individual resiliency to the effects of a catastrophic incident, which actions shall include—
+
+  (A) readiness alerts to the public during periods of elevated threat;
+
+  (B) efforts to enhance domestic supply and availability of critical goods and basic necessities; and
+
+  (C) information campaigns to ensure the public is aware of response plans and services that will be activated when necessary;
+
+(4) efforts the Federal Government should undertake and agreements the Federal Government should seek with international allies to enhance the readiness of the United States to provide for the general welfare;
+
+(5) how the strategy will be implemented should multiple levels of critical infrastructure be destroyed or taken offline entirely for an extended period of time; and
+
+(6) the authorities the Federal Government should implicate in responding to a catastrophic incident.
+
+**(c) Assumptions** In designing the strategy under subsection (a), the Secretary, in coordination with the Administrator and the Federal partners listed in [section 822(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section822/b&num=0&edition=prelim), shall account for certain factors to make the strategy operationally viable, including the assumption that—
+
+(1) multiple levels of critical infrastructure have been taken offline or destroyed by catastrophic incidents or the effects of catastrophic incidents;
+
+(2) impacted sectors may include—
+
+  (A) the transportation sector;
+
+  (B) the communication sector;
+
+  (C) the energy sector;
+
+  (D) the healthcare and public health sector; and
+
+  (E) the water and wastewater sector;
+
+(3) State, local, Indian Tribal, and territorial governments have been equally affected or made largely inoperable by catastrophic incidents or the effects of catastrophic incidents;
+
+(4) the emergency has exceeded the response capabilities of State, local, and Indian Tribal governments under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.) and other relevant disaster response laws; and
+
+(5) the United States military is sufficiently engaged in armed or cyber conflict with State or non-State adversaries, or is otherwise unable to augment domestic response capabilities in a significant manner due to a catastrophic incident.
+
+### Statutory Notes
+
+#### References in Text
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (c)(4), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
+#### Validation of Strategy; Recommendations; Report
+Pub. L. 117–263, div. G, title LXXIII, §§ 7306–7308, Dec. 23, 2022, 136 Stat. 3688, provided that: “SEC. 7306. VALIDATION OF THE STRATEGY THROUGH AN EXERCISE.“Not later than 1 year after the addition of the annex required under section 7305 [[6 U.S.C. 824](./chapter-002-national-emergency-management.md#section-824)], the Administrator shall lead an exercise as part of the national exercise program to test and enhance the operationalization of the strategy required under section 7305. “SEC. 7307. RECOMMENDATIONS.“(a) In General.—The Secretary, in coordination with the Administrator and the Federal partners listed in [section 7303(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section7303/b&num=0&edition=prelim) [[6 U.S.C. 822(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section822/b&num=0&edition=prelim)], shall provide recommendations to Congress for—“(1) actions that should be taken to prepare the United States to implement the strategy required under section 7305, increase readiness, and address preparedness gaps for responding to the impacts of catastrophic incidents on citizens of the United States; and “(2) additional authorities that should be considered for Federal agencies to more effectively implement the strategy required under section 7305. “(b) Inclusion in Reports.—The Secretary may include the recommendations required under subsection (a) in a report submitted under section 7308. “SEC. 7308. REPORTING REQUIREMENTS.“Not later than 1 year after the date on which the Administrator leads the exercise under section 7306, the Secretary, in coordination with the Administrator, shall submit to Congress a report that includes—“(1) a description of the efforts of the Secretary and the Administrator to develop and update the strategy required under section 7305; and “(2) an after-action report following the conduct of the exercise described in section 7306.”

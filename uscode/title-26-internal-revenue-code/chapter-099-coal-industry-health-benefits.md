@@ -211,7 +211,7 @@ Pub. L. 102–486, title XIX, § 19142, Oct. 24, 1992, 106 Stat. 3037, provided 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 
 <a id="section-9704"></a>
@@ -382,7 +382,7 @@ Any related person with respect to an assigned operator shall be jointly and sev
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (d)(2)(B). Pub. L. 115–141 substituted “1232),” for “1232)),”.
@@ -780,7 +780,7 @@ All liability for contributions to the Combined Fund that arises on and after Fe
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), (D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (a)(4)(A). Pub. L. 115–141 inserted “section 402 of” after “subsections (h) and (i) of”.
@@ -811,7 +811,7 @@ The provisions of section 4301 of the Employee Retirement Income Security Act of
 ### Statutory Notes
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Subtitle E of title IV of the Act is classified generally to subtitle E (§ 1381 et seq.) of subchapter III of chapter 18 of Title 29, Labor. Section 4301 of the Act is classified to [section 1451 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1451&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Subtitle E of title IV of the Act is classified generally to subtitle E (§ 1381 et seq.) of subchapter III of chapter 18 of Title 29, Labor. Section 4301 of the Act is classified to [section 1451 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1451&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Pub. L. 109–432 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply to any claim arising out of an obligation to pay any amount required to be paid by this chapter in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act. For purposes of the preceding sentence, a signatory operator and related persons shall be treated in the same manner as employers.”

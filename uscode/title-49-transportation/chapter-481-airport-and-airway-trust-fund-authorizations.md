@@ -10,17 +10,15 @@ source: >-
 ## § 48101. Air navigation facilities and equipment
 **(a) General Authorization of Appropriations.—** Not more than a total of the following amounts may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) to acquire, establish, and improve air navigation facilities under [section 44502(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44502/a/1/A&num=0&edition=prelim):
 
-(1) $3,330,000,000 for fiscal year 2018.
+(1) $3,191,250,000 for fiscal year 2024.
 
-(2) $3,398,000,000 for fiscal year 2019.
+(2) $3,575,000,000 for fiscal year 2025.
 
-(3) $3,469,000,000 for fiscal year 2020.
+(3) $3,625,000,000 for fiscal year 2026.
 
-(4) $3,547,000,000 for fiscal year 2021.
+(4) $3,675,000,000 for fiscal year 2027.
 
-(5) $3,624,000,000 for fiscal year 2022.
-
-(6) $3,701,000,000 for fiscal year 2023.
+(5) $3,725,000,000 for fiscal year 2028.
 
 **(b) Availability of Amounts.—** Amounts appropriated under this section remain available until expended.
 
@@ -63,6 +61,28 @@ In subsection (a), the words “to the Secretary of Transportation” are added 
 Section 161 of the FAA Reauthorization Act of 2018, referred to in subsec. (c)(2), is section 161 of Pub. L. 115–254, which is set out as a note under [section 47104 of this title](./chapter-471-airport-development.md#section-47104).
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63 added pars. (1) to (5) and struck out former pars. (1) to (7) which read as follows:
+
+“(1) $3,330,000,000 for fiscal year 2018.
+
+“(2) $3,398,000,000 for fiscal year 2019.
+
+“(3) $3,469,000,000 for fiscal year 2020.
+
+“(4) $3,547,000,000 for fiscal year 2021.
+
+“(5) $3,624,000,000 for fiscal year 2022.
+
+“(6) $3,701,000,000 for fiscal year 2023.
+
+“(7) $1,794,357,923 for the period beginning on October 1, 2023, and ending on May 10, 2024.”
+
+Subsec. (a)(7). Pub. L. 118–41 added par. (7) and struck out former par. (7) which read as follows: “$1,287,431,694 for the period beginning on October 1, 2023, and ending on March 8, 2024.”
+
+2023—Subsec. (a)(7). Pub. L. 118–34 added par. (7) and struck out former par. (7) which read as follows: “$740,273,224 for the period beginning on October 1, 2023, and ending on December 31, 2023.”
+
+Pub. L. 118–15 added par. (7).
+
 2018—Subsec. (a)(1) to (4). Pub. L. 115–254, § 112(a), added pars. (1) to (4) and struck out former pars. (1) to (4) which read as follows:
 
 “(1) $2,731,000,000 for fiscal year 2012.
@@ -317,9 +337,19 @@ Pub. L. 106–181, title I, § 106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, whi
 
 (13) $204,000,000 for fiscal year 2021;
 
-(14) $209,000,000 for fiscal year 2022; and
+(14) $209,000,000 for fiscal year 2022;
 
-(15) $214,000,000 for fiscal year 2023.
+(15) $214,000,000 for fiscal year 2023;
+
+(16) $280,000,000 for fiscal year 2024;
+
+(17) $311,000,000 for fiscal year 2025;
+
+(18) $323,000,000 for fiscal year 2026;
+
+(19) $334,000,000 for fiscal year 2027; and
+
+(20) $345,000,000 for fiscal year 2028.
 
 **(b) Research Priorities.—**
 
@@ -349,7 +379,7 @@ Pub. L. 106–181, title I, § 106(a)–(c), Apr. 5, 2000, 114 Stat. 72, 73, whi
 
 **(f) Availability of Amounts.—** Amounts appropriated under subsection (a) of this section remain available until expended.
 
-**(g) Annual Submission of the National Aviation Research Plan.—** The Administrator shall submit the national aviation research plan to Congress no later than the date of submission of the President’s budget request to Congress for that fiscal year, as required under section 44501(c).
+**(g) Annual Submission of the National Aviation Research Plan.—** The Administrator shall submit the national aviation research plan to Congress no later than the date that is 30 days after the date of submission of the President’s budget request to Congress for that fiscal year, as required under section 44501(c).
 
 **(h) Research Grants Program Involving Undergraduate Students.—**
 
@@ -400,6 +430,16 @@ In subsection (d)(2), the reference to fiscal years 1988–1992 and the words �
 The date of the enactment of the FAA Research, Engineering, and Development Authorization Act of 1998, referred to in subsec. (h)(2), is the date of enactment of Pub. L. 105–155, which was approved Feb. 11, 1998.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63, § 1002, added pars. (16) to (20) and struck out former par. (16) which read as follows: “$155,368,852 for the period beginning on October 1, 2023, and ending on May 10, 2024.”
+
+Subsec. (a)(16). Pub. L. 118–41 added par. (16) and struck out former par. (16) which read as follows: “$111,475,410 for the period beginning on October 1, 2023, and ending on March 8, 2024.”
+
+Subsec. (g). Pub. L. 118–63, § 1004(b), substituted “the date that is 30 days after the date of submission” for “the date of submission”.
+
+2023—Subsec. (a)(16). Pub. L. 118–34 added par. (16) and struck out former par. (16) which read as follows: “$64,098,360 for the period beginning on October 1, 2023, and ending on December 31, 2023.”
+
+Pub. L. 118–15 added par. (16).
+
 2018—Subsec. (a). Pub. L. 115–254, § 703(a)(1), struck out “and, for each of fiscal years 2012 through 2015, under subsection (g)” after “this title” in introductory provisions.
 
 Subsec. (a)(10). Pub. L. 115–254, § 703(a)(2), (3), added par. (10) and struck out former par. (10) which read as follows: “$176,500,000 for fiscal year 2018.”
@@ -530,9 +570,19 @@ Pub. L. 105–155, § 4, Feb. 11, 1998, 112 Stat. 6, provided that: “(a) Repro
 
 (4) $3,350,000,000 for fiscal year 2021;
 
-(5) $3,350,000,000 for fiscal year 2022; and
+(5) $3,350,000,000 for fiscal year 2022;
 
-(6) $3,350,000,000 for fiscal year 2023.
+(6) $3,350,000,000 for fiscal year 2023;
+
+(7) $3,350,000,000 for fiscal year 2024;
+
+(8) $4,000,000,000 for fiscal year 2025;
+
+(9) $4,000,000,000 for fiscal year 2026;
+
+(10) $4,000,000,000 for fiscal year 2027; and
+
+(11) $4,000,000,000 for fiscal year 2028.
 
 **(b) Availability of Amounts.—** Amounts made available under subsection (a) shall remain available until expended.
 
@@ -550,6 +600,14 @@ In this section, references to the aggregate amounts for fiscal years ending bef
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a), is classified to [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63 added pars. (7) to (11) and struck out former par. (7) which read as follows: “$2,041,120,218 for the period beginning October 1, 2023, and ending on May 10, 2024.”
+
+Subsec. (a)(7). Pub. L. 118–41 added par. (7) and struck out former par. (7) which read as follows: “$1,464,480,874 for the period beginning October 1, 2023, and ending on March 8, 2024.”
+
+2023—Subsec. (a)(7). Pub. L. 118–34 added par. (7) and struck out former par. (7) which read as follows: “$842,076,502 for the period beginning on October 1, 2023, and ending on December 31, 2023.”
+
+Pub. L. 118–15 added par. (7).
+
 2018—Subsec. (a). Pub. L. 115–254 substituted “section 47504(c)—” and pars. (1) to (6) for “section 47504(c) $3,350,000,000 for each of fiscal years 2012 through 2018.”
 
 Pub. L. 115–141 substituted “2012 through 2018.” for “2012 through 2017 and $1,670,410,959 for the period beginning on October 1, 2017, and ending on March 31, 2018.”
@@ -723,6 +781,8 @@ To sustain the aviation weather reporting programs of the Federal Aviation Admin
 
 (4) $39,000,000 for each of fiscal years 2019 through 2023.
 
+(5) $60,000,000 for each of fiscal years 2024 through 2028.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -733,6 +793,14 @@ To sustain the aviation weather reporting programs of the Federal Aviation Admin
 The words “for fiscal years beginning after September 30, 1982” are omitted as obsolete. The words “Secretary of Commerce” are substituted for “National Oceanic and Atmospheric Administration” because of 15:1501. The words “The Federal Aviation Administration with” are omitted as surplus.
 
 #### Amendments
+2024—Par. (5). Pub. L. 118–63 added par. (5) and struck out former par. (5) which read as follows: “$23,762,295 for the period beginning on October 1, 2023, and ending on May 10, 2024.”
+
+Pub. L. 118–41 added par. (5) and struck out former par. (5) which read as follows: “$17,049,180 for the period beginning on October 1, 2023, and ending on March 8, 2024.”
+
+2023—Par. (5). Pub. L. 118–34 added par. (5) and struck out former par. (5) which read as follows: “$9,803,278 for the period beginning on October 1, 2023, and ending on December 31, 2023.”
+
+Pub. L. 118–15 added par. (5).
+
 2018—Pub. L. 115–254, § 114(1), substituted “To sustain the aviation weather reporting programs of the Federal Aviation Administration, the Secretary of Transportation” for “To reimburse the Secretary of Commerce for the cost incurred by the National Oceanic and Atmospheric Administration of providing weather reporting services to the Federal Aviation Administration, the Secretary of Transportation” in introductory provisions.
 
 Par. (4). Pub. L. 115–254, § 114(2), added par. (4).
@@ -741,7 +809,7 @@ Par. (4). Pub. L. 115–254, § 114(2), added par. (4).
 <a id="section-48106"></a>
 ## § 48106. Airway science curriculum grants
 
-Amounts are available from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) to carry out [section 44510 of this title](./chapter-445-facilities-personnel-and-research.md#section-44510). The amounts remain available until expended.
+Amounts are available from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) to carry out section 44510 11 See References in Text note below. of this title. The amounts remain available until expended.
 
 ### Statutory Notes
 
@@ -753,6 +821,9 @@ Amounts are available from the Airport and Airway Trust Fund established under s
 |  |  | Oct. 6, 1992, Pub. L. 102–388, (2d sentence in par. under heading “Facilities and Equipment”), 106 Stat. 1526. |
 
 This section is substituted for the source provisions for clarity and because of the restatement.
+
+#### References in Text
+[Section 44510 of this title](./chapter-445-facilities-personnel-and-research.md#section-44510), referred to in text, was repealed by Pub. L. 118–63, title IV, § 401(a), May 16, 2024, 138 Stat. 1148.
 
 
 <a id="section-48107"></a>
@@ -831,7 +902,7 @@ The words “Director of the Office of Management and Budget” are substituted 
 <a id="section-48110"></a>
 ## § 48110. Facilities for advanced training of maintenance technicians for air carrier aircraft
 
-For the fiscal years ending September 30, 1993–1995, amounts necessary to carry out [section 44515 of this title](./chapter-445-facilities-personnel-and-research.md#section-44515) may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)). The amounts remain available until expended.
+For the fiscal years ending September 30, 1993–1995, amounts necessary to carry out section 44515 11 See References in Text note below. of this title may be appropriated to the Secretary of Transportation out of the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)). The amounts remain available until expended.
 
 ### Statutory Notes
 
@@ -841,6 +912,9 @@ For the fiscal years ending September 30, 1993–1995, amounts necessary to carr
 | 48110 | 49 App.:1354 (note). | Oct. 31, 1992, Pub. L. 102–581, § 119(d), 106 Stat. 4884. |
 
 The words “to the Secretary of Transportation” are added for clarity and consistency in this chapter.
+
+#### References in Text
+[Section 44515 of this title](./chapter-445-facilities-personnel-and-research.md#section-44515), referred to in text, was repealed by Pub. L. 118–63, title IV, § 401(a), May 16, 2024, 138 Stat. 1148.
 
 
 <a id="section-48111"></a>

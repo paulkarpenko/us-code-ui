@@ -2169,6 +2169,8 @@ Repeal applicable to returns the due date for which (determined without regard t
 (8) Any inconsistent estate basis.
 
 (9) Any overstatement of the deduction provided in section 170(p).
+
+(10) Any disallowance of a deduction by reason of section 170(h)(7).
 This section shall not apply to any portion of an underpayment on which a penalty is imposed under section 6663. Except as provided in paragraph (1) or (2)(B) of section 6662A(e), this section shall not apply to the portion of any underpayment which is attributable to a reportable transaction understatement on which a penalty is imposed under section 6662A.
 
 **(c) Negligence** For purposes of this section, the term “negligence” includes any failure to make a reasonable attempt to comply with the provisions of this title, and the term “disregard” includes any careless, reckless, or intentional disregard.
@@ -2302,9 +2304,11 @@ This section shall not apply to any portion of an underpayment on which a penalt
 
       (II) “20 percent” for “10 percent”.
 
-  (B) any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”, and
+  (B) any substantial overstatement of pension liabilities as determined under subsection (f) by substituting “400 percent” for “200 percent”,
 
-  (C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”.
+  (C) any substantial estate or gift tax valuation understatement as determined under subsection (g) by substituting “40 percent” for “65 percent”, and
+
+  (D) any disallowance of a deduction described in subsection (b)(10).
 
 **(i) Increase in penalty in case of nondisclosed noneconomic substance transactions**
 
@@ -2339,6 +2343,10 @@ Section 1219(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 A prior section 6662, acts Aug. 16, 1954, ch. 736, 68A Stat. 827, § 6659; May 14, 1960, Pub. L. 86–470, § 1, 74 Stat. 132; Dec. 30, 1969, Pub. L. 91–172, title I, § 101(j)(51), 83 Stat. 531; Sept. 2, 1974, Pub. L. 93–406, title II, § 1016(a)(19), 88 Stat. 931; renumbered § 6660, Aug. 13, 1981, Pub. L. 97–34, title VII, § 722(a)(1), 95 Stat. 341; renumbered § 6662, Sept. 3, 1982, Pub. L. 97–248, title III, § 323(a), 96 Stat. 613, directed that additions be treated as tax and set procedure for assessing certain additions to tax, prior to repeal by Pub. L. 101–239, title VII, § 7721(a), Dec. 19, 1989, 103 Stat. 2395, applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989. See [section 6665 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6665).
 
 #### Amendments
+2022—Subsec. (b)(10). Pub. L. 117–328, § 605(a)(2)(A), added par. (10).
+
+Subsec. (h)(2)(D). Pub. L. 117–328, § 605(a)(2)(B), added subpar. (D).
+
 2020—Subsec. (b)(9). Pub. L. 116–260, § 212(b)(1), added par. (9).
 
 Subsec. (l). Pub. L. 116–260, § 212(b)(2), added subsec. (l)
@@ -2436,6 +2444,9 @@ Subsec. (e). Pub. L. 101–508, § 11312(a), substituted “misstatement” for 
 “(2) Limitation.—No penalty shall be imposed by reason of subsection (b)(3) unless the portion of the underpayment for the taxable year attributable to substantial valuation overstatements under chapter 1 exceeds $5,000 ($10,000 in the case of a corporation other than an S corporation or a personal holding company (as defined in section 542)).”
 
 Subsec. (h)(2)(A). Pub. L. 101–508, § 11312(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any substantial valuation overstatement under chapter 1 as determined under subsection (e) by substituting ‘400 percent’ for ‘200 percent’,”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to contributions made after Dec. 29, 2022, see section 605(c)(1) of Pub. L. 117–328, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
@@ -2599,7 +2610,7 @@ For purposes of paragraph (2), the term “rebate” means so much of an abateme
 
 (1) **In general** — No penalty shall be imposed under section 6662 or 6663 with respect to any portion of an underpayment if it is shown that there was a reasonable cause for such portion and that the taxpayer acted in good faith with respect to such portion.
 
-(2) **Exception** — Paragraph (1) shall not apply to any portion of an underpayment which is attributable to one or more transactions described in section 6662(b)(6).
+(2) **Exception** — Paragraph (1) shall not apply to any portion of an underpayment which is attributable to one or more transactions described in section 6662(b)(6) or to any disallowance of a deduction described in section 6662(b)(10).
 
 (3) **Special rule for certain valuation overstatements** — In the case of any underpayment attributable to a substantial or gross valuation overstatement under chapter 1 with respect to charitable deduction property, paragraph (1) shall not apply. The preceding sentence shall not apply to a substantial valuation overstatement under chapter 1 if—
 
@@ -2674,6 +2685,8 @@ Section 1409(c) of Pub. L. 111–152, which directed the amendment of section 66
 Section 1219(a)(3), (c)(2) of Pub. L. 109–280, which directed the amendment of section 6664 without specifying the act to be amended, was executed to this section, which is section 6664 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (c)(2). Pub. L. 117–328 inserted “or to any disallowance of a deduction described in section 6662(b)(10)” before period at end.
+
 2015—Subsec. (a). Pub. L. 114–113 inserted at end “A rule similar to the rule of section 6211(b)(4) shall apply for purposes of this subsection.”
 
 2010—Subsec. (c)(2) to (4). Pub. L. 111–152, § 1409(c)(1)(A), (C), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. See Codification note above.
@@ -2701,6 +2714,9 @@ See Codification note above.
 Subsec. (c)(1). Pub. L. 108–357, § 812(c)(2)(A), substituted “section 6662 or 6663” for “this part”.
 
 Subsec. (d). Pub. L. 108–357, § 812(c)(1), added subsec. (d).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to contributions made after Dec. 29, 2022, see section 605(c)(1) of Pub. L. 117–328, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–113, div. Q, title II, § 209(d)(1), Dec. 18, 2015, 129 Stat. 3085, provided that: “The amendment made by subsection (a) [amending this section] shall apply to— “(A) returns filed after the date of the enactment of this Act [Dec. 18, 2015], and “(B) returns filed on or before such date if the period specified in section 6501 of the Internal Revenue Code of 1986 for assessment of the taxes with respect to which such return relates has not expired as of such date.”
@@ -5343,9 +5359,11 @@ Section applicable to returns the due date for which (determined without regard 
 
     (xxiv) section 6055 (relating to returns relating to information regarding health insurance coverage),
 
-    (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage), or
+    (xxv) section 6056 (relating to returns relating to certain employers required to report on health insurance coverage),
 
-    (xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions), and 11 So in original. The word “and” probably should not appear.
+    (xxvi) section 6050Y (relating to returns relating to certain life insurance contract transactions),11 So in original. Probably should be followed by “or”.
+
+    (xxvii) section 6045A(d) (relating to returns for certain digital assets),
 
   (C) any statement of the amount of payments to another person required to be made to the Secretary under—
 
@@ -5457,14 +5475,40 @@ Section applicable to returns the due date for which (determined without regard 
 
 **(f) Special rule for returns of educational institutions related to higher education tuition and related expenses** No penalty shall be imposed under section 6721 or 6722 solely by reason of failing to provide the TIN of an individual on a return or statement required by section 6050S(a)(1) if the eligible educational institution required to make such return contemporaneously makes a true and accurate certification under penalty of perjury (and in such form and manner as may be prescribed by the Secretary) that it has complied with standards promulgated by the Secretary for obtaining such individual’s TIN.
 
+**(g) Special rule for reporting certain additional taxes** No penalty shall be imposed under section 6721 or 6722 if—
+
+(1) a person makes a return or report under section 6047(d) or 408(i) with respect to any distribution,
+
+(2) such distribution is made following a rollover, transfer, or exchange described in section 72(t)(4)(C) or section 72(q)(3)(C),
+
+(3) in making such return or report the person relies upon a certification provided by the taxpayer that the distributions satisfy the requirements of section 72(t)(4)(C)(iii) or section 72(q)(3)(B)(iii), as applicable, and
+
+(4) such person does not have actual knowledge that the distributions do not satisfy such requirements.
+
 ### Statutory Notes
 
-#### Amendment of Subsection (d)(1)(B)
-Pub. L. 117–58, div. H, title VI, § 80603(b)(2)(B), (c), Nov. 15, 2021, 135 Stat. 1340, 1341, provided that, applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, subsection (d)(1)(B) of this section is amended by striking “or” at the end of clause (xxv), by striking “and” at the end of clause (xxvi), and by inserting after clause (xxvi) the following new clause:
+#### Amendment of Subsection (d)
+Pub. L. 117–328, div. T, title III, § 334(d)(2), (e), Dec. 29, 2022, 136 Stat. 5371, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d) of this section is amended as follows:
 
-“(xxvii) section 6045A(d) (relating to returns for certain digital assets),”.
+(1) in paragraph (1)(B), by adding “or” at the end of clause (xxvii) and by inserting after such clause the following new clause:
 
-See 2021 Amendment notes below.
+“(xxviii) section 6050Z (relating to reports relating to long-term care premium statements), and”; and
+
+(2) in paragraph (2)—
+
+(A) by redesignating subparagraph (JJ), relating to section 6050Y, as subparagraph (KK) and moving such subparagraph to the position immediately after subparagraph (JJ), relating to section 6226(a)(2),
+
+(B) by striking “or” at the end of subparagraph (II),
+
+(C) by striking the period at the end of subparagraph (JJ), relating to section 6226(a)(2), and inserting a comma,
+
+(D) by striking the period at the end of subparagraph (KK), as so redesignated, and inserting “, or”, and
+
+(E) by inserting after subparagraph (KK), as so redesignated, the following new subparagraph:
+
+“(LL) section 6050Z (relating to reports relating to long-term care premium statements).”.
+
+See 2022 Amendment notes below.
 
 #### Codification
 Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section 6724 without specifying the act to be amended, was executed to this section, which is section 6724 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
@@ -5472,6 +5516,12 @@ Section 1211(b)(1) of Pub. L. 109–280, which directed the amendment of section
 Amendments to subsec. (d)(2) of this section by section 1901(c)(1) of Pub. L. 104–188 were executed before amendments by sections 1116(b)(2)(B) and 1455(a)(2) of Pub. L. 104–188, to reflect the probable intent of Congress.
 
 #### Amendments
+2022—Subsec. (d)(1)(B)(xxviii). Pub. L. 117–328, § 334(d)(2)(A), added cl. (xxviii).
+
+Subsec. (d)(2)(JJ) to (LL). Pub. L. 117–328, § 334(d)(2)(B), redesignated subpar. (JJ) relating to section 6050Y as subpar. (KK) and added subpar. (LL).
+
+Subsec. (g). Pub. L. 117–328, § 323(c), added subsec. (g).
+
 2021—Subsec. (d)(1)(B)(xxv), (xxvi). Pub. L. 117–58 struck out “or” at end of cl. (xxv) and “and” at end of cl. (xxvi).
 
 Subsec. (d)(1)(B)(xxvii). Pub. L. 117–58 added cl. (xxvii).
@@ -5794,6 +5844,11 @@ Pub. L. 100–418, § 1941(b)(2)(M)(ii), redesignated subpars. (B) to (J) as (A)
 
 Subsec. (d)(2)(B). Pub. L. 100–647, § 1015(a), substituted “6031(b) or (c)” for “6031(b)”.
 
+#### Effective Date of 2022 Amendment
+Amendment by section 323(c) of Pub. L. 117–328 applicable to transfers, rollovers, and exchanges occurring after Dec. 31, 2023, see section 323(e) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Amendment by section 334(d)(2) of Pub. L. 117–328 applicable to distributions made after the date which is 3 years after Dec. 29, 2022, see section 334(e) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–58 applicable to returns required to be filed, and statements required to be furnished, after Dec. 31, 2023, see section 80603(c) of div. H of Pub. L. 117–58, set out as a note under [section 6045 of this title](./chapter-061-information-and-returns.md#section-6045).
 
@@ -5930,7 +5985,7 @@ Section applicable to penalties imposed after Dec. 31, 2004, see section 863(e) 
 
 (2) **Exceptions** — Paragraph (1) shall not apply to—
 
-  (A) any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof); or
+  (A) any addition to tax under section 6651, 6654, 6655, or 6662 (but only with respect to an addition to tax by reason of paragraph (9) or (10) of subsection (b) thereof); or
 
   (B) any other penalty automatically calculated through electronic means.
 
@@ -5942,7 +5997,12 @@ Section applicable to penalties imposed after Dec. 31, 2004, see section 863(e) 
 Another section 212(b) of div. EE of Pub. L. 116–260 amended [section 63 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-63).
 
 #### Amendments
+2022—Subsec. (b)(2)(A). Pub. L. 117–328 substituted “paragraph (9) or (10) of subsection (b)” for “subsection (b)(9)”.
+
 2020—Subsec. (b)(2)(A). Pub. L. 116–260 substituted “6655, or 6662 (but only with respect to an addition to tax by reason of subsection (b)(9) thereof)” for “or 6655”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to contributions made after Dec. 29, 2022, see section 605(c)(1) of Pub. L. 117–328, set out as a note under [section 170 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-170).
 
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).

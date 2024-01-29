@@ -343,12 +343,17 @@ The Act of October 9, 1965, known as the National Park Service Concessions Polic
 
 (2) **Subaccount for each system unit.—** — There shall be established within the special account a subaccount for each System unit. Each subaccount shall be credited with 80 percent of the franchise fees (and other monetary consideration) collected at a single System unit under concession contracts. The funds credited to the subaccount for a System unit shall be available for expenditure by the Secretary, without further appropriation, for use at the System unit for visitor services and for purposes of funding high-priority and urgently necessary resource management programs and operations. The funds credited to a subaccount shall remain available until expended.
 
+(3) **Reduction.—** — The Secretary may reduce the percentage allocation otherwise applicable under paragraph (2) to a unit or area of the National Park Service for a fiscal year if the Secretary determines that the revenues collected at the unit or area exceed the reasonable needs of the unit or area for which expenditures may be made for that fiscal year. In no event may a percentage allocation be reduced below 60 percent.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 101917 | [16 U.S.C. 5956](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section5956&num=0&edition=prelim). | Pub. L. 105–391, title IV, § 407, Nov. 13, 1998, 112 Stat. 3511. |
+
+#### Amendments
+2024—Subsec. (c)(3). Pub. L. 118–42 added par. (3).
 
 
 <a id="section-101918"></a>
@@ -433,7 +438,7 @@ In subsection (b)(1), the word “other” is added for consistency in the subch
 
 **(d) Service on Advisory Board.—** Service of an individual as a member of the Advisory Board shall not be deemed to be service or employment bringing the individual within the provisions of any Federal law relating to conflicts of interest or otherwise imposing restrictions, requirements, or penalties in relation to the employment of individuals, the performance of services, or the payment or receipt of compensation in connection with claims, proceedings, or matters involving the United States. Service as a member of the Advisory Board shall not be deemed service in an appointive or elective position in the Federal Government for purposes of [section 8344 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8344&num=0&edition=prelim) or other comparable provisions of Federal law.
 
-**(e) Termination.—** The Advisory Board shall continue to exist until December 31, 2009. In all other respects, it shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+**(e) Termination.—** The Advisory Board shall continue to exist until December 31, 2009. In all other respects, it shall be subject to chapter 10 of title 5.
 
 ### Statutory Notes
 
@@ -450,8 +455,8 @@ In subsection (b)(3), the words “commencing with the first anniversary of its 
 
 In subsection (d), the word “deemed” is substituted for “considered as” for consistency in this title and with other titles of the United States Code.
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
 
 <a id="section-101920"></a>
@@ -705,9 +710,12 @@ The National Park Service Concessions Management Improvement Act of 1998, referr
 <a id="section-101938"></a>
 ## § 101938. Sunset
 
-The authority given to the Secretary under this subchapter shall expire 7 years after the date of the enactment of this subchapter.
+The authority given to the Secretary under this subchapter shall expire 9 years after the date of the enactment of this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of this subchapter, referred to in text, is the date of enactment of Pub. L. 114–289, which was approved Dec. 16, 2016.
+
+#### Amendments
+2022—Pub. L. 117–328 substituted “9” for “7”.

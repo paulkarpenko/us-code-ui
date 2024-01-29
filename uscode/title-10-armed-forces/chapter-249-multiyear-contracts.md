@@ -10,7 +10,11 @@ source: >-
 ## § 3501. Multiyear contracts: acquisition of property
 **(a) In General.—** To the extent that funds are otherwise available for obligation, the head of an agency may enter into multiyear contracts for the purchase of property whenever the head of that agency finds each of the following:
 
-(1) That the use of such a contract will result in significant savings of the total anticipated costs of carrying out the program through annual contracts.
+(1) That the use of such a contract will result in—
+
+  (A) significant savings of the total anticipated costs of carrying out the program through annual contracts; or
+
+  (B) necessary defense industrial base stability not otherwise achievable through annual contracts.
 
 (2) That the minimum need for the property to be purchased is expected to remain substantially unchanged during the contemplated contract period in terms of production rate, procurement rate, and total quantities.
 
@@ -80,11 +84,7 @@ source: >-
 
 (1) In the case of the Department of Defense, a multiyear contract in an amount equal to or greater than $500,000,000 may not be entered into under this section unless the contract is specifically authorized by law in an Act other than an appropriations Act.
 
-(2) In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request the following:
-
-  (A) A report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
-
-  (B) Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.
+(2) In submitting a request for a specific authorization by law to carry out a defense acquisition program using multiyear contract authority under this section, the Secretary of Defense shall include in the request a report containing preliminary findings of the agency head required in paragraphs (1) through (6) of subsection (a), together with the basis for such findings.
 
 (3) A multiyear contract may not be entered into under this section for a defense acquisition program that has been specifically authorized by law to be carried out using multiyear contract authority unless the Secretary of Defense certifies in writing, not later than 30 days before entry into the contract, that each of the following conditions is satisfied:
 
@@ -200,6 +200,12 @@ Prior sections 3504, 3531, and 3532 were repealed by Pub. L. 96–513, title II,
 Section 3504, acts Aug. 10, 1956, ch. 1041, 70A Stat. 200; Sept. 2, 1958, Pub. L. 85–861, § 1(83), 72 Stat. 1481, authorized the President to order any retired member of the Regular Army to active duty.
 
 #### Amendments
+2023—Subsec. (a)(1). Pub. L. 118–31 inserted dash after “will result in” and subpar. (A) designation before “significant savings”, substituted “; or” for period at end, and added subpar. (B).
+
+2022—Subsec. (i)(2). Pub. L. 117–263 substituted “shall include in the request a report” for “shall include in the request the following:
+
+“(A) A report” and struck out subpar. (B) which read as follows: “Confirmation that the preliminary findings of the agency head under subparagraph (A) were supported by a preliminary cost analysis performed by the Director of Cost Assessment and Program Evaluation.”
+
 2021—Pub. L. 117–81, § 1701(k)(1)(B), amended Pub. L. 116–283, § 1822(a), which enacted this section, by substituting “Multiyear contracts: acquisition of property” for “Multiyear contracts for acquisition of property: authority; definitions” in section catchline.
 
 Pub. L. 116–283, § 1822(b), as added by Pub. L. 117–81, § 1701(k)(2)(B), transferred text of [section 2306b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306b&num=0&edition=prelim) to this section. See Codification note above.
@@ -221,6 +227,10 @@ Pub. L. 114–328, div. A, title VIII, § 853, Dec. 23, 2016, 130 Stat. 2296, pr
 Pub. L. 105–56, title VIII, § 8008, Oct. 8, 1997, 111 Stat. 1221, provided that: “(a) None of the funds provided in this Act [see Tables for classification] shall be available to initiate: (1) a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year of the contract or that includes an unfunded contingent liability in excess of $20,000,000; or (2) a contract for advance procurement leading to a multiyear contract that employs economic order quantity procurement in excess of $20,000,000 in any one year, unless the congressional defense committees [Committee on Armed Services and Subcommittee on National Security of the Committee on Appropriations of the House of Representatives and Committee on Armed Services and Subcommittee on Defense of the Committee on Appropriations of the Senate] have been notified at least 30 days in advance of the proposed contract award: Provided, That no part of any appropriation contained in this Act shall be available to initiate a multiyear contract for which the economic order quantity advance procurement is not funded at least to the limits of the Government’s liability: Provided further, That no part of any appropriation contained in this Act shall be available to initiate multiyear procurement contracts for any systems or component thereof if the value of the multiyear contract would exceed $500,000,000 unless specifically provided in this Act: Provided further, That no multiyear procurement contract can be terminated without 10-day prior notification to the congressional defense committees: Provided further, That the execution of multiyear authority shall require the use of a present value analysis to determine lowest cost compared to an annual procurement.“Funds appropriated in title III of this Act [111 Stat. 1211] may be used for multiyear procurement contracts as follows: “Apache Longbow radar; “AV–8B aircraft; and “Family of Medium Tactical Vehicles. “(b) None of the funds provided in this Act and hereafter may be used to submit to Congress (or to any committee of Congress) a request for authority to enter into a contract covered by those provisions of subsection (a) that precede the first proviso of that subsection unless—“(1) such request is made as part of the submission of the President’s Budget for the United States Government for any fiscal year and is set forth in the Appendix to that budget as part of proposed legislative language for appropriations bills for the next fiscal year; or “(2) such request is formally submitted by the President as a budget amendment; or “(3) the Secretary of Defense makes such request in writing to the congressional defense committees.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–47, div. A, title VIII, § 8010, Mar. 23, 2024, 138 Stat. 483.
+
+Pub. L. 117–328, div. C, title VIII, § 8010, Dec. 29, 2022, 136 Stat. 4587.
 
 Pub. L. 117–103, div. C, title VIII, § 8010, Mar. 15, 2022, 136 Stat. 175.
 

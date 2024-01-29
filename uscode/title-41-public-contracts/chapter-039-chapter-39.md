@@ -234,7 +234,7 @@ In subsection (b), the words “Not later than 270 days after the date of the en
 In subsection (d), the words “Subject to subsection (f)” are omitted as unnecessary.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Amendment of Federal Acquisition Regulation
 Pub. L. 111–350, § 6(f)(5), Jan. 4, 2011, 124 Stat. 3855, provided that: “The Federal Acquisition Regulation shall be amended to meet the requirements of [section 3906(b) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3906/b&num=0&edition=prelim), United States Code, not later than 270 days after October 14, 2008.”

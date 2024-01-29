@@ -10,11 +10,17 @@ source: >-
 ## § 9341. General rule
 **(a)**
 
-(1) The retired grade of a regular commissioned officer of the Air Force or the Space Force who retires other than for physical disability is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
+(1) The retired grade of a regular commissioned officer of the Air Force who retires other than for physical disability is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).
 
-(2) The retired grade of a reserve commissioned officer of the Air Force or the Space Force who retires other than for physical disability is determined under [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a).
+(2) The retired grade of a reserve commissioned officer of the Air Force who retires other than for physical disability is determined under [section 1370a of this title](./chapter-069-retired-grade.md#section-1370a).
 
-**(b)** Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Air Force or a Regular or Reserve of the Space Force not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that the member holds on the date of the member’s retirement.
+**(b)** Unless entitled to a higher retired grade under some other provision of law, a Regular or Reserve of the Air Force not covered by subsection (a) who retires other than for physical disability retires in the regular or reserve grade that the member holds on the date of the member’s retirement.
+
+**(c) Space Force.—**
+
+(1) The retired grade of a commissioned officer of the Space Force who retires other than for physical disability is determined under section 1370 or 1370a of this title, as applicable to the officer.
+
+(2) Unless entitled to a higher retired grade under some other provision of law, a member of the Space Force not covered by paragraph (1) who retires other than for physical disability retires in the grade that the member holds on the date of the member’s retirement.
 
 ### Statutory Notes
 
@@ -31,6 +37,12 @@ The applicability of the rule stated in the revised section to situations not ex
 Prior sections 9341 and 9341a were renumbered sections 9441 and 9441a of this title, respectively.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 1719A(b)(2)(A), struck out “or the Space Force” after “Air Force” in pars. (1) and (2).
+
+Subsec. (b). Pub. L. 118–31, § 1719A(b)(2)(B), struck out “or a Regular or Reserve of the Space Force” after “Air Force”.
+
+Subsec. (c). Pub. L. 118–31, § 1719A(b)(2)(C), added subsec. (c).
+
 2021—Subsec. (a). Pub. L. 116–283, § 508(b)(4)(A), added subsec. (a) and struck out former subsec. (a) which read as follows: “The retired grade of a regular commissioned officer of the Air Force who retires other than for physical disability, and the retired grade of a reserve commissioned officer of the Air Force who retires other than for physical disability, is determined under [section 1370 of this title](./chapter-069-retired-grade.md#section-1370).”
 
 Subsec. (b). Pub. L. 116–283, § 508(b)(4)(B), inserted “or a Regular or Reserve of the Space Force” after “Air Force” and substituted “the member” for “he” and “the member’s” for “his”.
@@ -53,7 +65,7 @@ Amendment by Pub. L. 106–398 applicable to Reserve commissioned officers who a
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9342"></a>
@@ -104,7 +116,7 @@ Pub. L. 96–343, § 13(b)(1), substituted “Air Force who has” for “Regula
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Appointment by President of Retired Commissioned Officer of Reserve Component to Higher Retired Grade; Recalculation of Pay
 For authority of the President to appoint a retired commissioned officer of a reserve component to a higher retired grade and for recalculation of pay, see section 13(c) of Pub. L. 96–343, set out as a note under [section 7342 of this title](./chapter-743-retired-grade.md#section-7342).
@@ -147,7 +159,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (1) warrant officers of the Air Force or the Space Force;
 
-(2) enlisted members of the Regular Air Force or the Regular Space Force; and
+(2) enlisted members of the Regular Air Force or the Space Force; and
 
 (3) reserve enlisted members of the Air Force or the Space Force who, at the time of retirement, are serving on active duty (or, in the case of members of the National Guard, on full-time duty).
 
@@ -171,6 +183,8 @@ The words “when his active service plus his service on the retired list totals
 A prior section 9344, act Aug. 10, 1956, ch. 1041, 70A Stat. 564; Pub. L. 98–94, title X, § 1004(c)(1), Sept. 24, 1983, 97 Stat. 659; Pub. L. 105–85, div. A, title V, § 543(c), Nov. 18, 1997, 111 Stat. 1744; Pub. L. 106–65, div. A, title V, § 534(c), Oct. 5, 1999, 113 Stat. 605; Pub. L. 106–398, § 1 [[div. A], title V, § 532(c)], Oct. 30, 2000, 114 Stat. 1654, 1654A–110; Pub. L. 107–107, div. A, title V, § 533(c)(1), (2), Dec. 28, 2001, 115 Stat. 1106, related to selection of persons from foreign countries to receive instruction at the United States Air Force Academy, prior to repeal by Pub. L. 114–328, div. A, title XII, § 1248(b)(1), Dec. 23, 2016, 130 Stat. 2525. See [section 347 of this title](./chapter-016-security-cooperation.md#section-347).
 
 #### Amendments
+2023—Subsec. (b)(2). Pub. L. 118–31 struck out “Regular” before “Space Force”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 923(c)(21)(A)(i), inserted “or the Space Force” after “member of the Air Force”.
 
 Subsec. (b)(1). Pub. L. 116–283, § 923(c)(21)(A)(ii)(I), inserted “or the Space Force” after “Air Force”.
@@ -230,17 +244,25 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 <a id="section-9346"></a>
 ## § 9346. Retired lists
-**(a)** The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force or the Regular Space Force.
+**(a)** The Secretary of the Air Force shall maintain a retired list containing the name of each retired commissioned officer of the Regular Air Force and a separate retired list containing the name of each retired commissioned officer of the Space Force (other than an officer whose name is on the list maintained under subsection (b)(2)).
 
-**(b)** The Secretary shall maintain a retired list containing the name of—
+**(b)**
 
-(1) each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force, or for commissioned officers of the Space Force other than of the Regular Space Force; and
+(1) The Secretary shall maintain a retired list containing the name of—
 
-(2) each retired warrant officer or enlisted member of the Air Force or the Space Force who is advanced to a commissioned grade.
+  (A) each person entitled to retired pay under any law providing retired pay for commissioned officers of the Air Force, other than of the Regular Air Force; and
 
-**(c)** The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force or the Space Force.
+  (B) each retired warrant officer or enlisted member of the Air Force who is advanced to a commissioned grade.
 
-**(d)** The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force or the Regular Space Force.
+(2) The Secretary shall maintain a retired list containing the name of—
+
+  (A) each person entitled to retired pay who as a member of the Space Force qualified for retirement under [section 20601 of this title](./chapter-2013-voluntary-retirement-for-length-of-service.md#section-20601); and
+
+  (B) each retired warrant officer or enlisted member of the Space Force who is advanced to a commissioned grade.
+
+**(c)** The Secretary shall maintain a retired list containing the name of each retired warrant officer of the Air Force and a separate retired list containing the name of each retired warrant officer of the Space Force.
+
+**(d)** The Secretary shall maintain a retired list containing the name of each retired enlisted member of the Regular Air Force and a separate retired list containing the name of each retired enlisted member of the Space Force.
 
 ### Statutory Notes
 
@@ -276,6 +298,18 @@ Another prior section 9356, added Pub. L. 103–337, div. A, title V, § 556(c)(
 Prior sections 9357 to 9360 were renumbered sections 9457 to 9460 of this title, respectively.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 1719A(b)(4)(A), substituted “and a separate retired list containing the name of each retired commissioned officer of the Space Force (other than an officer whose name is on the list maintained under subsection (b)(2))” for “or the Regular Space Force”.
+
+Subsec. (b). Pub. L. 118–31, § 1719A(b)(4)(B)(i), (ii), (v), inserted par. (1) designation before “The Secretary”, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (b)(1)(A). Pub. L. 118–31, § 1719A(b)(4)(B)(iii), struck out “, or for commissioned officers of the Space Force other than of the Regular Space Force” after “Regular Air Force”.
+
+Subsec. (b)(1)(B). Pub. L. 118–31, § 1719A(b)(4)(B)(iv), struck out “or the Space Force” after “Air Force”.
+
+Subsec. (c). Pub. L. 118–31, § 1719A(b)(4)(C), substituted “and a separate retired list containing the name of each retired warrant officer of the Space Force” for “or the Space Force”.
+
+Subsec. (d). Pub. L. 118–31, § 1719A(b)(4)(D), substituted “and a separate retired list containing the name of each retired enlisted member of the Space Force” for “or the Regular Space Force”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 923(c)(21)(C)(i), inserted “or the Regular Space Force” after “Regular Air Force”.
 
 Subsec. (b)(1). Pub. L. 116–283, § 923(c)(21)(C)(ii), inserted “, or for commissioned officers of the Space Force other than of the Regular Space Force” after “Regular Air Force”.

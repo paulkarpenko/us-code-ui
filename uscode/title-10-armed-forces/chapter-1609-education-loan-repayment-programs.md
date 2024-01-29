@@ -85,7 +85,7 @@ Subsec. (c). Pub. L. 108–136, § 534(2), inserted last sentence.
 Pub. L. 116–283, div. A, title V, § 515(b), Jan. 1, 2021, 134 Stat. 3589, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Jan. 1, 2021] and shall apply with respect to loan repayment under [section 16301 of title 10](./chapter-1609-education-loan-repayment-programs.md#section-16301), United States Code, for eligible years of service completed on or after the date of the enactment of this Act.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -117,7 +117,7 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 
 (2) The annual maximum amount of a loan that may be repaid under this section shall be the same as the maximum amount in effect for the same year under subsection (e)(2) of [section 2173 of this title](./chapter-109-educational-loan-repayment-programs.md#section-2173) for the education loan repayment program under such section.
 
-**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2022.
+**(d)** The authority provided in this section shall apply only in the case of a person first appointed as a commissioned officer on or before December 31, 2024.
 
 ### Statutory Notes
 
@@ -127,6 +127,10 @@ The Higher Education Act of 1965, referred to in subsec. (a)(1) to (3), is Pub. 
 The Public Health Service Act, referred to in subsec. (a)(4), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part A of title VII of the Act is classified generally to part A (§ 292 et seq.) of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Part B of title VIII of the Act is classified generally to part B (§ 297 et seq.) of subchapter VI of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
+
+2022—Subsec. (d). Pub. L. 117–263 substituted “December 31, 2023” for “December 31, 2022”.
+
 2021—Subsec. (d). Pub. L. 117–81 substituted “December 31, 2022” for “December 31, 2021”.
 
 Subsec. (d). Pub. L. 116–283 substituted “December 31, 2021” for “December 31, 2020”.

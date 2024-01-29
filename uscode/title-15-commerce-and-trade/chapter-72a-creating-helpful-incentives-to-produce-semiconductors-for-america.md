@@ -163,7 +163,9 @@ Sec. 2. Implementation Priorities. In implementing the Act, all agencies (as des
 
 Sec. 3. CHIPS Implementation Steering Council. (a) There is established within the Executive Office of the President the CHIPS Implementation Steering Council (Steering Council). The function of the Steering Council is to coordinate policy development to ensure the effective implementation of the Act within the executive branch.
 
-(b) The Assistant to the President for Economic Policy, the Assistant to the President for National Security Affairs, and the Director of the Office of Science and Technology Policy shall serve as Co-Chairs of the Steering Council.(c) In addition to the Co-Chairs, the Steering Council shall consist of the following members:
+(b) The Assistant to the President for Economic Policy, the Assistant to the President for National Security Affairs, and the Director of the Office of Science and Technology Policy shall serve as Co-Chairs of the Steering Council.
+
+(c) In addition to the Co-Chairs, the Steering Council shall consist of the following members:
 
 (i) the Secretary of State;
 
@@ -590,7 +592,7 @@ J.R. Biden, Jr.
 
 (7) **Advanced budget authority** — New loans may not be obligated and new loan guarantees may not be committed to under this subsection, unless appropriations of budget authority to cover the costs of such loans and loan guarantees are made in advance in accordance with [section 661c(b) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661c/b&num=0&edition=prelim).
 
-(8) **Continued oversight** — The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of waived without the consent of the Secretary.
+(8) **Continued oversight** — The loan agreement for a loan guaranteed under this subsection shall provide that no provision of the loan agreement may be amended of 33 So in original. Probably should be “or”. waived without the consent of the Secretary.
 
 **(h) Oversight** Not later than 4 years after disbursement of the first financial award under subsection (a), the Inspector General of the Department of Commerce shall audit the program under this section to assess—
 
@@ -639,12 +641,12 @@ Subsec. (c)(1)(B)(iii). Pub. L. 117–167, § 105(a)(1)(A), added cl. (iii).
 
 Subsec. (c)(1)(C)(v). Pub. L. 117–167, § 105(a)(1)(B), added cl. (v).
 
-Subsec. (c)(1)(D). Pub. L. 117–167, § 105(a)(2), added subpar. (D).
+Subsec. (c)(1)(D). Pub. L. 117–167, § 105(a)(2), which directed amendment of subsec. (c) by adding subpar. (D) after par. (1)(C)(iv), was executed by making the addition after par. (1)(C)(v), to reflect the probable intent of Congress and the addition of cl. (v) by Pub. L. 117–167, § 105(a)(1)(B). See above.
 
 Subsecs. (d) to (i). Pub. L. 117–167, § 103(b)(6), added subsecs. (d) to (i).
 
 #### Opportunity and Inclusion
-Pub. L. 117–167, div. A, § 104, Aug. 9, 2022, 136 Stat. 1390, provided that: “(a) Establishment.—Not later than 180 days after the date of enactment of this Act [Aug. 9, 2022], the Secretary of Commerce shall establish activities in the Department of Commerce, within the program established under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)), to carry out this section using funds appropriated under this Act [div. A of Pub. L. 117–167, see Tables for classification]. “(b) In General.—The Secretary of Commerce shall assign personnel to lead and support the activities carried out under this section, including coordination with other workforce development activities of the Department of Commerce or of Federal agencies, as defined in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim), United States Code, as appropriate. “(c) Activities.—Personnel assigned by the Secretary to carry out the activities under this section shall—“(1) assess the eligibility of a covered entity, as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4651](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4651)), for financial assistance for a project with respect to the requirements under subclauses (II) and (III) of section 9902(a)(2)(B)(ii) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652(a)(2)(B)(ii)(II)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4652/a/2/B/ii/II&num=0&edition=prelim) and (III)); “(2) ensure that each covered entity, as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4651](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4651)),that is awarded financial assistance under section 9902 of that Act ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)) is carrying out the commitments of the covered entity to economically disadvantaged individuals as described in the application of the covered entity under that section by the target dates for completion established by the Secretary of Commerce under subsection(a)(5)(A) of that section; and “(3) increase participation of and outreach to economically disadvantaged individuals, minority-owned businesses, veteran-owned businesses, and women-owned businesses, as defined by the Secretary of Commerce, respectively, in the geographic area of a project under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)) and serve as a resource for those individuals, businesses, and covered entities. “(d) Staff.—The activities under this section shall be staffed at the appropriate levels to carry out the functions and responsibilities under this section until 95 percent of the amounts of funds made available for the program established under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)) have been expended. “(e) Report.—Beginning on the date that is 1 year after the date on which the Secretary of Commerce establishes the activities described in subsection (c), the Secretary of Commerce shall submit to the appropriate committees of Congress, as defined in section 9901(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4651](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4651)), and make publicly available on the website of the Department of Commerce an annual report regarding the actions taken by the Department of Commerce under this section.”
+Pub. L. 117–167, div. A, § 104, Aug. 9, 2022, 136 Stat. 1390, provided that: “(a) Establishment.—Not later than 180 days after the date of enactment of this Act [Aug. 9, 2022], the Secretary of Commerce shall establish activities in the Department of Commerce, within the program established under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)), to carry out this section using funds appropriated under this Act [div. A of Pub. L. 117–167, see Tables for classification]. “(b) In General.—The Secretary of Commerce shall assign personnel to lead and support the activities carried out under this section, including coordination with other workforce development activities of the Department of Commerce or of Federal agencies, as defined in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim), United States Code, as appropriate. “(c) Activities.—Personnel assigned by the Secretary to carry out the activities under this section shall—“(1) assess the eligibility of a covered entity, as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4651](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4651)), for financial assistance for a project with respect to the requirements under subclauses (II) and (III) of section 9902(a)(2)(B)(ii) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652(a)(2)(B)(ii)(II)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4652/a/2/B/ii/II&num=0&edition=prelim) and (III)); “(2) ensure that each covered entity, as defined in section 9901 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4651](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4651)), that is awarded financial assistance under section 9902 of that Act ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)) is carrying out the commitments of the covered entity to economically disadvantaged individuals as described in the application of the covered entity under that section by the target dates for completion established by the Secretary of Commerce under subsection(a)(5)(A) of that section; and “(3) increase participation of and outreach to economically disadvantaged individuals, minority-owned businesses, veteran-owned businesses, and women-owned businesses, as defined by the Secretary of Commerce, respectively, in the geographic area of a project under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)) and serve as a resource for those individuals, businesses, and covered entities. “(d) Staff.—The activities under this section shall be staffed at the appropriate levels to carry out the functions and responsibilities under this section until 95 percent of the amounts of funds made available for the program established under section 9902 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4652](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4652)) have been expended. “(e) Report.—Beginning on the date that is 1 year after the date on which the Secretary of Commerce establishes the activities described in subsection (c), the Secretary of Commerce shall submit to the appropriate committees of Congress, as defined in section 9901(1) of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 ([15 U.S.C. 4651](./chapter-72a-creating-helpful-incentives-to-produce-semiconductors-for-america.md#section-4651)), and make publicly available on the website of the Department of Commerce an annual report regarding the actions taken by the Department of Commerce under this section.”
 
 #### References in Pub. L. 117–167
 Pub. L. 117–167, § 2, Aug. 9, 2022, 136 Stat. 1371, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act [see Tables for classification] shall be treated as referring only to the provisions of that division.”
@@ -743,7 +745,7 @@ Section 224 of the National Defense Authorization Act for Fiscal Year 2020, refe
 Subsec. (b)(3). Pub. L. 117–81, § 217(2), added par. (3).
 
 #### “Congressional Defense Committees” Defined
-For definition of “congressional defense committees”, see section 3 of Pub. L. 116–283, listed in a table under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
+For definition of “congressional defense committees” as the Committees on Armed Services and Appropriations of the Senate and the House of Representatives, see [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces, as made applicable by section 3 of Pub. L. 116–283, which is listed in a table under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim).
 
 
 <a id="section-4654"></a>
@@ -847,21 +849,7 @@ For definition of “congressional defense committees”, see section 3 of Pub. 
 
   (F) promote harmonized foreign direct investment screening measures and export control policies with respect to semiconductors to align with national, multilateral, and plurilateral security priorities.
 
-**(c) Annual report to Congress** Not later than one year after January 1, 2021, and annually thereafter for each fiscal year during which amounts in the Fund are available under subsection (a)(4), the Secretary of State shall submit to the appropriate committees of Congress a report on the status of the implementation of this section that includes a description of—
-
-(1) any commitments made by the governments of countries that have entered into an arrangement or agreement with the United States to provide funding for the common funding mechanism described in subsection (b)(1) and the specific amount so committed and other cooperative measures being taken by such countries as part of the common funding mechanism;
-
-(2) the criteria established for expenditure of funds through the common funding mechanism;
-
-(3) how, and to whom, amounts have been expended from the Fund and a description of progress made utilizing the Fund to support the objectives described in subsection (b)(1);
-
-(4) amounts remaining in the Fund;
-
-(5) the progress of the Secretary of State toward entering into an arrangement or agreement with the governments of countries that are partners of the United States to participate in the common funding mechanism and the commitments described in subsection (b)(2); and
-
-(6) any additional authorities needed to enhance the effectiveness of the Fund in achieving the security goals of the United States.
-
-**(d) Notifications to be provided by the Fund**
+**(c) Notifications to be provided by the Fund**
 
 (1) **In general** — Not later than 15 days prior to the Fund making a financial commitment associated with the provision of expenditures under subsection (a)(4)(A) in an amount in excess of $1,000,000, the Secretary of State shall submit to the appropriate committees of Congress report in writing that contains the information required by paragraph (2).
 
@@ -874,6 +862,11 @@ For definition of “congressional defense committees”, see section 3 of Pub. 
   (C) a description of the project or activity and the purpose to be achieved by an expenditure of the Fund.
 
 (3) **Arrangements or agreements** — The Secretary of State shall notify the appropriate committees of Congress not later than 30 days after entering into a new bilateral or multilateral arrangement or agreement described in subsection (a)(4)(B).
+
+### Statutory Notes
+
+#### Amendments
+2023—Subsecs. (c), (d). Pub. L. 118–31 redesignated subsec. (d) as (c) and struck out former subsec. (c) which required the Secretary of State to report to Congress annually on the implementation of this section.
 
 
 <a id="section-4656"></a>
@@ -948,7 +941,7 @@ For definition of “congressional defense committees”, see section 3 of Pub. 
 
   (D) opportunities for new public-private partnerships to advance microelectronics research, development, and domestic manufacturing.
 
-(3) **FACA exemption** — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee established under this subsection.
+(3) **FACA exemption** — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the advisory committee established under this subsection.
 
 **(c) National semiconductor technology center**
 
@@ -999,7 +992,7 @@ For definition of “congressional defense committees”, see section 3 of Pub. 
 #### References in Text
 Section 231(b)(15) of the National Defense Authorization Act for Fiscal Year 2017 (as added by section 276 of this Act), referred to in subsec. (a)(3)(A)(ii)(IV), is section 231(b)(15) of Pub. L. 114–328, as added by section 276 of Pub. L. 116–283, which is set out in a note under [section 2302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302&num=0&edition=prelim), Armed Forces.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### Amendments
 2022—Subsec. (a)(3)(A)(ii)(II). Pub. L. 117–167, § 103(c)(1)(A), inserted “, including for technologies based on organic and inorganic materials” after “components”.

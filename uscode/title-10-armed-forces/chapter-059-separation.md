@@ -91,7 +91,7 @@ Subsec. (c). Pub. L. 90–130 struck out reference to subsec. (b) of this sectio
 1966—Pub. L. 89–718 substituted “8301” for “47a” wherever appearing.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Deferment of Separation With Completion of 20 Years of Service or at Age 60
 Act Aug. 10, 1956, ch. 1041, § 46, 70A Stat. 638, provided that: “(a) The separation of any person who, on November 1, 1954, was a male permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 62 has completed less than 20 years of active service that could be credited to him under section 511 of the Career Compensation Act of 1949 ([37 U.S.C. 311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section311&num=0&edition=prelim)) [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, formerly set out as a note under [section 580 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-580)] may be deferred by the Secretary concerned until he completes 20 years of that service, but not later than that date which is 60 days after the date on which he attains the age of 64. “(b) The separation of any person who, on November 1, 1954, was a female permanent warrant officer of a regular component of an armed force, and who upon attaining the age of 55 has completed less than 20 years of active service that could be credited to her under section 511 of the Career Compensation Act of 1949 ([37 U.S.C. 311](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section311&num=0&edition=prelim)) [act Oct. 12, 1949, ch. 681, title V, § 511, 63 Stat. 829, formerly set out as a note under [section 580 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-580)] may be deferred by the Secretary concerned until she completes 20 years of that service, but not later than that date which is 60 days after the date on which she attains the age of 60.”
@@ -115,7 +115,7 @@ The words “in his discretion” are omitted as surplusage. The last 10 words o
 1980—Pub. L. 96–513 authorized entitlement, if the regular warrant officer is eligible therefor, to separation pay under section 1174.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1166"></a>
@@ -152,7 +152,7 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), 
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as a note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -256,7 +256,7 @@ Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a
 
 (1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 8372 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
 
-(2) A regular commissioned officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force, Marine Corps, or Space Force who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
+(2) A regular commissioned officer of the Army, Navy, Air Force or Marine Corps who is discharged under section 630(1)(A), 643, or 1186 of this title, and a regular warrant officer of the Army, Navy, Air Force or Marine Corps who is separated under section 1165 or 1166 of this title, who has completed six or more, but less than twenty, years of active service immediately before that discharge or separation is entitled to separation pay computed under subsection (d)(1) or (d)(2), as determined by the Secretary of the military department concerned, unless the Secretary concerned determines that the conditions under which the officer is discharged or separated do not warrant payment of such pay.
 
 (3) Notwithstanding paragraphs (1) and (2), an officer discharged under any provision of chapter 36 of this title for twice failing of selection for promotion to the next higher grade is not entitled to separation pay under this section if either (or both) of those failures of selection for promotion was by the action of a selection board to which the officer submitted a request in writing not to be selected for promotion or who otherwise directly caused his nonselection through written communication to the Board under [section 614(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section614/b&num=0&edition=prelim).
 
@@ -348,6 +348,8 @@ Section effective July 1, 1973, see section 206 of Pub. L. 93–64, set out as a
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2023—Subsec. (a)(2). Pub. L. 118–31 substituted “or Marine Corps” for “, Marine Corps, or Space Force” in two places.
+
 2021—Subsec. (a)(2). Pub. L. 116–283, § 924(b)(3)(S), substituted “Marine Corps, or Space Force” for “or Marine Corps” in two places.
 
 Subsec. (j)(1). Pub. L. 116–283, § 924(b)(1)(K), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
@@ -477,7 +479,7 @@ Pub. L. 98–94, title IX, § 923(g), Sept. 24, 1983, 97 Stat. 644, provided tha
 Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).
@@ -495,7 +497,7 @@ For provisions to prevent extinction or premature termination of rights, duties,
 
   (A) separation pay equal to 15 percent of the product of (i) the member’s years of active service, and (ii) 12 times the monthly basic pay to which the member is entitled at the time of his discharge or release from active duty; and
 
-  (B) the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 11 See References in Text note below. of title 37, and section 503(c) 1 of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
+  (B) the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) 11 See References in Text note below. note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
 
 **(c) Eligibility.—** Subject to subsections (d) and (e), a member of an armed force is eligible for voluntary separation under a program established for that armed force pursuant to this section if the member—
 
@@ -558,11 +560,11 @@ For provisions to prevent extinction or premature termination of rights, duties,
 ### Statutory Notes
 
 #### References in Text
-Sections 474 and 476 of title 37, referred to in subsec. (b)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (b)(2)(B), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, prior to being omitted from the Code as obsolete.
+Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (b)(2)(B), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, prior to transfer and is now set out as a note under [section 453 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section453&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (b)(2)(B). Pub. L. 117–263 substituted “sections 452 and 453(c)” for “sections 474 and 476”.
+
 2013—Subsec. (b)(2)(B). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsec. (b)(2)(B). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
@@ -734,16 +736,16 @@ Pub. L. 102–190, div. A, title VI, § 663, Dec. 5, 1991, 105 Stat. 1399, direc
 
 **(i)** The Secretary of Defense and the Secretary of Homeland Security may issue such regulations as may be necessary to carry out this section.
 
-**(j)** A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 11 See References in Text note below. of title 37, and section 503(c) 1 of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
+**(j)** A member of the armed forces who is provided a voluntary separation incentive under this section shall be eligible for the same benefits and services as are provided under chapter 58 of this title, sections 452 and 453(c) of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 (104 Stat. 1558; [37 U.S.C. 476](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim) 11 See References in Text note below. note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
 
 ### Statutory Notes
 
 #### References in Text
-Sections 474 and 476 of title 37, referred to in subsec. (j), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (j), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, prior to being omitted from the Code as obsolete.
+Section 503(c) of the National Defense Authorization Act for Fiscal Year 1991, referred to in subsec. (j), is section 503(c) of Pub. L. 101–510, div. A, title V, Nov. 5, 1990, 104 Stat. 1558, which was formerly set out as a note under [section 476 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, prior to transfer and is now set out as a note under [section 453 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section453&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (j). Pub. L. 117–263 substituted “sections 452 and 453(c)” for “sections 474 and 476”.
+
 2013—Subsec. (j). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsec. (j). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “474” for “404” and substituted “476” for “406” in two places.
@@ -803,7 +805,7 @@ Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, pr
 Amendment by Pub. L. 111–32 applicable to any repayments of separation pay, severance pay, readjustment pay, special separation benefit, or voluntary separation incentive, that occur on or after June 24, 2009, including any ongoing repayment actions that were initiated prior to such amendment, see section 318(c) of Pub. L. 111–32, set out as a note under [section 1174 of this title](./chapter-059-separation.md#section-1174).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–398, § 1 [[div. A], title V, § 572(b)], Oct. 30, 2000, 114 Stat. 1654, 1654A–136, provided that: “Subparagraph (B) of [section 1175(e)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1175/e/3&num=0&edition=prelim), United States Code, as added by subsection (a), shall apply with respect to decisions by members to terminate voluntary separation incentive payments under [section 1175 of title 10](./chapter-059-separation.md#section-1175), United States Code, to be effective after September 30, 2000.”
@@ -891,7 +893,7 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 
   (A) chapter 58 of this title during the 180-day period beginning on the date the member is separated (notwithstanding any termination date for such benefits and services otherwise applicable under the provisions of such chapter); and
 
-  (B) sections 474 and 476 11 See References in Text note below. of title 37.
+  (B) sections 452 and 453(c) of title 37.
 
 **(f) Computation of Voluntary Separation Pay.—** The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under [section 1174 of this title](./chapter-059-separation.md#section-1174).
 
@@ -950,11 +952,11 @@ Pub. L. 102–190, div. A, title VI, § 662(b), Dec. 5, 1991, 105 Stat. 1398, pr
 ### Statutory Notes
 
 #### References in Text
-Sections 474 and 476 of title 37, referred to in subsec. (e)(2)(B), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 Chapter 24 of the Internal Revenue Code of 1986, referred to in subsec. (h)(2)(A), is classified generally to chapter 24 (§ 3401 et seq.) of Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (e)(2)(B). Pub. L. 117–263 substituted “sections 452 and 453(c)” for “sections 474 and 476”.
+
 2019—Subsec. (j)(1). Pub. L. 116–92, § 603(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
 Subsec. (j)(4), (5). Pub. L. 116–92, § 603(2), (3), added par. (4) and redesignated former par. (4) as (5).

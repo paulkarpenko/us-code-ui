@@ -22,7 +22,7 @@ For the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-Section 77(c)(3) of the Bankruptcy Act, referred to in par. (4), was classified to section 205(c)(3) of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+Section 77(c)(3) of the Bankruptcy Act, referred to in par. (4), was classified to section 205(c)(3) of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 1995—Par. (2). Pub. L. 104–88, § 325(1)(A), added par. (2) and struck out former par. (2) which read as follows: “ ‘Commission’ means the Interstate Commerce Commission.”
@@ -74,7 +74,7 @@ The Secretary shall publish notice of his intention to make such finding in the 
 ### Statutory Notes
 
 #### References in Text
-The Bankruptcy Act, referred to in subsecs. (a) and (c), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section 205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+The Bankruptcy Act, referred to in subsecs. (a) and (c), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. Section 77 of this Act was classified to section 205 of former Title 11. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 1995—Subsec. (a). Pub. L. 104–88, § 325(2)(B), substituted “Board” for “Commission” in introductory provisions.
@@ -143,7 +143,7 @@ In addition to other duties prescribed by section 77 of the Bankruptcy Act, the 
 ### Statutory Notes
 
 #### References in Text
-Section 77 of the Bankruptcy Act, referred to in text, was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in text, was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 
 <a id="section-667"></a>

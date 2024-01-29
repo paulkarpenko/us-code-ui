@@ -863,7 +863,7 @@ In carrying out the obligations of the United States under any migratory bird tr
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Treaty Act (40 Stat. 755), referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, as amended, which is classified generally to subchapter II of chapter 7 (§ 703 et seq.) of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
+The Migratory Bird Treaty Act (40 Stat. 755), referred to in text, is act July 3, 1918, ch. 128, 40 Stat. 755, which is classified generally to subchapter II of chapter 7 (§ 703 et seq.) of this title. For complete classification of this Act to the Code, see [section 710 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-710) and Tables.
 
 The Migratory Bird Conservation Act (45 Stat. 1222), as amended, referred to in text, is act Feb. 18, 1929, ch. 257, 45 Stat. 1222, which is classified generally to subchapter III (§ 715 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 715 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-715) and Tables.
 
@@ -1669,27 +1669,28 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 **(e) Chairperson** The members of the Advisory Committee shall select 1 of the members to serve as Chairperson.
 
-**(f) Meetings** Meetings of the Advisory Committee shall be held at the call of the Chairperson or the majority of the Advisory Committee. Meetings shall be held at such locations and in such a manner as to ensure adequate opportunity for public involvement. In compliance with the requirements of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall choose an appropriate means of providing interested members of the public advance notice of scheduled meetings.
+**(f) Meetings** Meetings of the Advisory Committee shall be held at the call of the Chairperson or the majority of the Advisory Committee. Meetings shall be held at such locations and in such a manner as to ensure adequate opportunity for public involvement. In compliance with the requirements of chapter 10 of title 5, the Advisory Committee shall choose an appropriate means of providing interested members of the public advance notice of scheduled meetings.
 
 **(g) Quorum** A majority of the members of the Advisory Committee shall constitute a quorum.
 
 **(h) Compensation** Each member of the Advisory Committee shall serve without compensation, except that while engaged in official business of the Advisory Committee, the member shall be entitled to travel expenses, including per diem in lieu of subsistence in the same manner as persons employed intermittently in Government service under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-**(i) Charter** The rechartering provisions of section 14(b) of the Federal Advisory Committee Act (15 11 So in original. Probably should be “5”. U.S.C. App.) shall not apply to the Advisory Committee.
+**(i) Charter** The rechartering provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) shall not apply to the Advisory Committee.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286, § 4(a)(102)(A), substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (5 U.S.C. App.),”.
+
+Subsec. (i). Pub. L. 117–286, § 4(a)(102)(B), substituted “[section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “section 14(b) of the Federal Advisory Committee Act (15 U.S.C. App.)”.
+
 1998—Subsec. (c)(5). Pub. L. 105–244 substituted “[section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim))” for “[section 1141(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1141/a&num=0&edition=prelim))”.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim), Education.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-698u-6"></a>

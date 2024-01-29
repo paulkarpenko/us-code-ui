@@ -41,7 +41,9 @@ The word “hereafter” is omitted as unnecessary.
 
 (2) **Capital repairs.—** — The fund shall also be available for the purpose of funding capital repairs, renovations, rehabilitation, sustainment, demolition, or replacement of Administration real property, on a reimbursable basis within the Administration.
 
-(3) **No fiscal year limitation.—** — Amounts in the fund are available without regard to fiscal year limitation.
+(3) **Information technology (it) modernization.—** — The fund shall also be available for the purpose of funding IT Modernization activities, as described in section 1077(b)(3)(A)–(E) of Public Law 115–91, on a non-reimbursable basis.
+
+(4) **No fiscal year limitation.—** — Amounts in the fund are available without regard to fiscal year limitation.
 
 **(c) Contents.—** The capital of the fund consists of—
 
@@ -62,7 +64,12 @@ The word “hereafter” is omitted as unnecessary.
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 30102 | [42 U.S.C. 2459i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2459i&num=0&edition=prelim). | Pub. L. 108–7, div. K, title III, (last par. under heading “Administrative Provisions”, at 117 Stat. 520), Feb. 20, 2003, 117 Stat. 520. |
 
+#### References in Text
+Section 1077(b)(3)(A)–(E) of Public Law 115–91, referred to in subsec. (b)(3), is section 1077(b)(3)(A)–(E) of Pub. L. 115–91, div. A, title X, subtitle G, Dec. 12, 2017, 131 Stat. 1587, which is set out in a note under [section 11301 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section11301&num=0&edition=prelim), Public Buildings, Property, and Works.
+
 #### Amendments
+2022—Subsec. (b)(3), (4). Pub. L. 117–328 added par. (3) and redesignated former par. (3) as (4).
+
 2013—Subsec. (c)(4). Pub. L. 113–6 added par. (4).
 
 
@@ -168,9 +175,13 @@ In subsection (c), in the matter before paragraph (1), the words “For fiscal y
 Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Estimates of Receipts and Collections and Proposed Use of Funds From Leases of Non-Excess Property
-Pub. L. 117–103, div. B, title III, Mar. 15, 2022, 136 Stat. 137, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20145), United States Code.”
+Pub. L. 118–42, div. C, title III, Mar. 9, 2024, 138 Stat. 160, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to [section 20145 of title 51](./chapter-201-national-aeronautics-and-space-program.md#section-20145), United States Code.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. B, title III, Dec. 29, 2022, 136 Stat. 4548.
+
+Pub. L. 117–103, div. B, title III, Mar. 15, 2022, 136 Stat. 137.
 
 Pub. L. 116–260, div. B, title III, Dec. 27, 2020, 134 Stat. 1270.
 

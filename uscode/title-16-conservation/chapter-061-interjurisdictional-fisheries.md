@@ -85,7 +85,7 @@ Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as 
 
 <a id="section-4103"></a>
 ## § 4103. Apportionment
-**(a) Time when apportionments made** Funds appropriated under [section 4107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/a&num=0&edition=prelim) shall be apportioned by the Secretary among the States on October 1 of each fiscal year, or as soon thereafter as practicable.
+**(a) Time when apportionments made** Funds appropriated under section 4107(a) 11 See References in Text note below. of this title shall be apportioned by the Secretary among the States on October 1 of each fiscal year, or as soon thereafter as practicable.
 
 **(b) Apportionment formula** The amount of funds apportioned to each State shall be determined by the Secretary as the ratio which the equally weighted average of the volume and value of fishery resources harvested by domestic commercial fishermen and received within such State during the 3 most recent calendar years for which data satisfactory to the Secretary are available bears to the total equally weighted average of the volume and value of all fishery resources harvested by domestic commercial fishermen received within all of the States during those calendar years.
 
@@ -116,9 +116,12 @@ Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as 
 (2) with respect to which the State notifies the Secretary that it does not wish to receive that part; or
 
 (3) that is returned to the Secretary by the State,
-may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to [section 4107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107/a&num=0&edition=prelim) for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a). Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
+may not be considered to be apportioned to that State and shall be added to such funds as are appropriated pursuant to section 4107(a) 1 of this title for the next fiscal year (and shall be treated as having been appropriated for such next year) for apportionment under subsection (a). Any notification or return of funds referred to in paragraph (2) or (3) by a State is irrevocable.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 4107 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4107), referred to in subsecs. (a) and (d), was repealed by Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270.
 
 #### Amendments
 1990—Subsec. (c)(3)(B). Pub. L. 101–627 inserted “which are managed under an interstate fishery management plan” before semicolon at end.
@@ -133,7 +136,7 @@ Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as 
 
 (1) Any State may, through its State agency or an interstate commission, submit to the Secretary a proposal for a project which includes full plans, specifications, and cost estimates for such project. The total cost of all items included for engineering, planning, inspection, and unforeseen contingencies in connection with any works to be constructed as part of such a proposed project shall not exceed 10 percent of the total cost of such works, and shall be paid by the State as a part of its contribution to the total cost of the works.
 
-(2) No part of any funds appropriated under any authorization contained in [section 4107 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4107) may be obligated with respect to any project until the proposal for such project has been submitted under paragraph (1) and approved by the Secretary. The Secretary, before approving any proposal for a project, must evaluate the proposal as to—
+(2) No part of any funds appropriated under any authorization contained in section 4107 11 See References in Text note below. of this title may be obligated with respect to any project until the proposal for such project has been submitted under paragraph (1) and approved by the Secretary. The Secretary, before approving any proposal for a project, must evaluate the proposal as to—
 
   (A) the soundness of design;
 
@@ -169,6 +172,8 @@ Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as 
 ### Statutory Notes
 
 #### References in Text
+[Section 4107 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4107), referred to in subsec. (a)(2), was repealed by Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270.
+
 This chapter, referred to in subsecs. (a)(2)(C), (F), (3), (4)(B) and (b), was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101) and Tables.
 
 #### Effective Date
@@ -218,130 +223,8 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 
 <a id="section-4107"></a>
-## § 4107. Authorization of appropriations
-**(a) General appropriations** There are authorized to be appropriated to the Secretary of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of fiscal years 2007 through 2010, and $2,500,000 for each of fiscal years 2011 and 2012.
-
-**(b) Additional appropriations** In addition to the amounts authorized in subsection (a), there are authorized to be appropriated to the Department of Commerce $65,000,000 for each of the fiscal years 1994 and 1995, which shall be available in such amounts as the Secretary may determine appropriate for the purposes of this chapter; except that—
-
-(1) in providing funds to States under this subsection, the Secretary shall give a preference to those States regarding which the Secretary determines there is a commercial fishery failure or serious disruption affecting future production due to a fishery resource disaster arising from natural or undetermined causes, and any sums made available under this subsection may be used either by the States or directly by the Secretary in cooperation with the States for any purpose that the Secretary determines is appropriate to restore the fishery affected by such a failure or to prevent a similar failure in the future;
-
-(2) the funds authorized to be appropriated under this subsection shall not be available to the Secretary for use as grants for chartering fishing vessels; and
-
-(3) the Federal share of the cost of any activity carried out with an amount appropriated under the authority of this subsection shall be 75 percent of the cost of that activity.
-Amounts appropriated under this subsection shall remain available until expended.
-
-**(c) Development of management plans** In addition to the amounts authorized under subsections (a) and (b), there are authorized to be appropriated to the Department of Commerce $900,000 for each of fiscal years 2007 through 2012, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
-
-(1) The commission established by the Atlantic States Marine Fisheries Compact, as consented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
-
-(2) The commission established by the Pacific Marine Fisheries Compact, as consented to and approved by Public Law 80–232 (61 Stat. 419), approved July 24, 1947.
-
-(3) The commission established by the Gulf States Marine Fisheries Compact, as consented to and approved by Public Law 81–66 (63 Stat. 70), approved May 19, 1949.
-
-**(d) Assistance to commercial fishermen**
-
-(1) In addition to the amounts authorized under subsections (a), (b), and (c), there are authorized to be appropriated to the Department of Commerce $65,000,000 for fiscal year 1992 to enable the Secretary to help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred as a direct result of a fishery resource disaster arising from Hurricane Hugo, Hurricane Andrew, Hurricane Iniki, or any other natural disaster. Amounts appropriated under this subsection shall remain available until expended.
-
-(2) The Secretary shall determine the extent, and the beginning and ending dates, of any fishery resource disaster under this subsection.
-
-(3) Eligibility for direct assistance to a person under this subsection shall be limited to any person that has less than $2,000,000 in net revenues annually from commercial fishing, as determined by the Secretary.
-
-(4)
-
-  (A) Assistance may not be provided under this subsection as part of a fishing capacity reduction program in a fishery unless the Secretary determines that adequate conservation and management measures are in place in that fishery.
-
-  (B) As a condition of awarding assistance with respect to a vessel under a fishing capacity reduction program, the Secretary shall—
-
-    (i) prohibit the vessel from being used for fishing; and
-
-    (ii) require that the vessel be—
-
-      (I) scrapped or otherwise disposed of in a manner approved by the Secretary; or
-
-      (II) donated to a nonprofit organization and thereafter used only for purposes of research, education, or training; or
-
-      (III) used for another non-fishing purpose provided the Secretary determines that adequate measures are in place to ensure that the vessel cannot reenter any fishery.
-
-  (C) A vessel that is prohibited from fishing under subparagraph (B) shall not be eligible for a fishery endorsement under [section 12113(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12113/a&num=0&edition=prelim) and any such endorsement for the vessel shall not be effective.
-
-(5) The Secretary shall establish, after notice and opportunity for public comment, appropriate limitations, terms, and conditions for receiving assistance under this subsection.
-
-(6) As used in this subsection, the term “person” means any individual or any corporation, partnership, trust, association, or other nongovernmental entity.
-
-(7) With respect to funds available for the New England region, the Secretary shall submit to the Congress by January 1, 1997, with annual updates thereafter as appropriate, a report on the New England fishing capacity reduction initiative which provides—
-
-  (A) the total number of Northeast multispecies permits in each permit category and calculates the maximum potential fishing capacity of vessels holding such permits based on the principal gear, gross registered tonnage, engine horsepower, length, age, and other relevant characteristics;
-
-  (B) the total number of days at sea available to the permitted Northeast multispecies fishing fleet and the total days at sea weighted by the maximum potential fishing capacity of the fleet;
-
-  (C) an analysis of the extent to which the weighted days at sea are used by the active participants in the fishery and of the reduction in such days as a result of the fishing capacity reduction program; and
-
-  (D) an estimate of conservation benefits (such as reduction in fishing mortality) directly attributable to the fishing capacity reduction program.
+## § 4107. Repealed. Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270
 
 ### Statutory Notes
 
-#### References in Text
-This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101) and Tables.
-
-Public Law 77–539, referred to in subsec. (c)(1), is act May 4, 1942, ch. 283, 56 Stat. 267, which is not classified to the Code.
-
-Public Law 80–232, referred to in subsec. (c)(2), is act July 24, 1947, ch. 316, 61 Stat. 419, which is not classified to the Code.
-
-Public Law 81–66, referred to in subsec. (c)(3), is act May 19, 1949, ch. 128, 63 Stat. 70, which is not classified to the Code.
-
-#### Codification
-In subsec. (d)(4)(C), “[section 12113(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12113/a&num=0&edition=prelim)” substituted for “[section 12108(a) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12108/a&num=0&edition=prelim), United States Code,” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 12113 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12113&num=0&edition=prelim), Shipping.
-
-Section 104 of Pub. L. 111–348, cited as a credit to this section, was repealed, and a new section 104, set out as a note under [section 1826i of this title](./chapter-038-fishery-conservation-and-management.md#section-1826i), was enacted by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628.
-
-#### Amendments
-2011—Subsec. (a). Pub. L. 111–348, § 104, which substituted “2010, and $2,500,000 for each of fiscal years 2011 and 2012.” for “2012.”, was repealed by Pub. L. 115–228, § 2(1), Aug. 2, 2018, 132 Stat. 1628. See Codification note above.
-
-2007—Subsec. (a). Pub. L. 109–479, § 302(g)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
-
-“(1) $5,400,000 for each of fiscal years 2003 and 2004; and
-
-“(2) $5,900,000 for each of fiscal years 2005 and 2006.”
-
-Subsec. (c). Pub. L. 109–479, § 302(g)(2), substituted “$900,000 for each of fiscal years 2007 through 2012” for “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” in introductory provisions.
-
-2002—Subsec. (a). Pub. L. 107–372, § 302(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
-
-“(1) $3,400,000 for fiscal year 1996;
-
-“(2) $3,900,000 for fiscal year 1997;
-
-“(3) $4,400,000 for each of the fiscal years 1998, 1999, and 2000.”
-
-Subsec. (c). Pub. L. 107–372, § 302(a)(2), substituted “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” for “$700,000 for fiscal year 1997, and $750,000 for each of the fiscal years 1998, 1999, and 2000” in introductory provisions.
-
-1996—Subsec. (a). Pub. L. 104–297, § 402(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995.”
-
-Subsec. (c). Pub. L. 104–297, § 402(a)(2), substituted “$700,000 for fiscal year 1997, and $750,000 for each of the fiscal years 1998, 1999, and 2000,” for “$350,000 for each of the fiscal years 1989, 1990, 1991, 1992, and 1993, and $600,000 for each of the fiscal years 1994 and 1995,”.
-
-Subsec. (d). Pub. L. 104–134, § 101[(a)] [title II, § 211(1)], substituted “Assistance” for “Grants” in heading.
-
-Subsec. (d)(1). Pub. L. 104–134, § 101[(a)] [title II, § 211(2)], substituted “help persons engaged in commercial fisheries, either by providing assistance directly to those persons or by providing assistance indirectly through States and local government agencies and nonprofit organizations, for projects or other measures to alleviate harm determined by the Secretary to have been incurred” for “award grants to persons engaged in commercial fisheries, for uninsured losses determined by the Secretary to have been suffered”.
-
-Subsec. (d)(3). Pub. L. 104–134, § 101[(a)] [title II, § 211(3), (4)], substituted “direct assistance to a person” for “a grant” and “net revenues annually from commercial fishing,” for “gross revenues annually,”.
-
-Subsec. (d)(4). Pub. L. 104–134, § 101[(a)] [title II, § 211(5)], added par. (4) and struck former par. (4) which read as follows: “A person may receive a grant under this subsection for up to 75 percent of any uninsured commercial fishery loss resulting from such a fishery resource disaster (to the extent that such losses have not been compensated by other Federal and State programs), but shall receive no more than $100,000 in the aggregate for all such losses suffered as a result of any particular fishery resource disaster.”
-
-Subsec. (d)(5). Pub. L. 104–134, § 101[(a)] [title II, § 211(6)], substituted “for receiving assistance under this subsection” for “for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership.”
-
-Subsec. (d)(7). Pub. L. 104–297, § 402(b), added par. (7).
-
-1994—Subsec. (b). Pub. L. 103–238 substituted “$65,000,000 for each of the fiscal years 1994 and 1995” for “$2,500,000 for each of the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995”.
-
-1993—Subsec. (c). Pub. L. 103–206 inserted “, and $600,000 for each of the fiscal years 1994 and 1995,” after “and 1993”.
-
-1992—Subsec. (d). Pub. L. 102–396 added subsec. (d).
-
-1990—Subsec. (a). Pub. L. 101–627, § 503(1), substituted “the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “fiscal years 1987, 1988, and 1989”.
-
-Subsec. (b). Pub. L. 101–627, §§ 502, 503(2), in introductory provisions substituted “the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995” for “fiscal years 1988 and 1989” and added par. (3).
-
-Subsec. (c). Pub. L. 101–627, § 503(3), substituted “the fiscal years 1989, 1990, 1991, 1992, and 1993” for “fiscal years 1988 and 1989”.
-
-#### Effective Date
-Section effective Oct. 1, 1987, see section 310 of Pub. L. 99–659, set out as a note under [section 4101 of this title](./chapter-061-interjurisdictional-fisheries.md#section-4101).
+Section, Pub. L. 99–659, title III, § 308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§ 502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, § 9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, § 811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, § 21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, § 101[(a)] [title II, § 211], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, § 402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, § 302(a), Dec. 19, 2002, 116 Stat. 3094; Pub. L. 109–479, title III, § 302(g), Jan. 12, 2007, 120 Stat. 3624; Pub. L. 111–348, title I, § 104, Jan. 4, 2011, 124 Stat. 3671, authorized appropriations, with certain conditions, to the Secretary of Commerce for fiscal years 2007 through 2012.

@@ -2,7 +2,7 @@
 title: 22
 chapter: '33'
 heading: MUTUAL EDUCATIONAL AND CULTURAL EXCHANGE PROGRAM
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -62,9 +62,9 @@ Section, Pub. L. 89–685, § 8, Oct. 15, 1966, 80 Stat. 974, required registrat
 
   (ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups, representing any field of the arts, sports, or any other form of cultural attainment;
 
-  (iii) United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies;
+  (iii) United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies; and
 
-  (iv) participation by groups and individuals from other countries in nonprofit activities in the United States similar to those described in subparagraphs (ii) and (iii) of this paragraph, when the Director of the United States Information Agency determines that such participation is in the national interest.11 So in original. The period probably should be a semicolon.
+  (iv) participation by groups and individuals from other countries in nonprofit activities in the United States, including in coordination and consultation with the private sector, similar to those described in subparagraphs (ii) and (iii) of this paragraph, when the Director of the United States Information Agency determines that such participation is in the national interest; and
 
 (3) United States participation in international fairs and expositions abroad, including trade and industrial fairs and other public or private demonstrations of United States economic accomplishments and cultural attainments.
 
@@ -100,6 +100,10 @@ Section, Pub. L. 89–685, § 8, Oct. 15, 1966, 80 Stat. 974, required registrat
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(2)(iii). Pub. L. 117–263, § 9604(b)(1)(A), inserted “and” at end.
+
+Subsec. (a)(2)(iv). Pub. L. 117–263, § 9604(b)(1)(B), inserted “, including in coordination and consultation with the private sector,” before “similar” and substituted “; and” for period at end.
+
 1998—Subsec. (b)(12). Pub. L. 105–292 added par. (12).
 
 1983—Subsec. (b)(11). Pub. L. 98–164 added par. (11).
@@ -124,7 +128,7 @@ Pub. L. 104–319, title I, § 102, Oct. 19, 1996, 110 Stat. 3865, as amended by
 Pub. L. 103–236, title II, § 230, Apr. 30, 1994, 108 Stat. 424, which provided that United States Information Agency could not obligate or expend funds for a United States Government funded pavilion or major exhibit at any international exposition or world’s fair in excess of amounts expressly authorized and appropriated for such purpose, was repealed by Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 204(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–421. See [section 2452b of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2452b).
 
 #### International Exchange, Scholarship, and Training Programs
-Pub. L. 116–260, div. FF, title III, subtitle D (§§ 331–337), Dec. 27, 2020, 134 Stat. 3114–3118, known as the Gandhi-King Scholarly Exchange Initiative Act, authorized establishment of professional exchange program, professional development training initiative, and development foundation between the United States and India.
+Pub. L. 116–260, div. FF, title III, subtitle D (§§ 331–335, 337), Dec. 27, 2020, 134 Stat. 3114–3118, as amended by Pub. L. 117–263, div. I, title XCVII, § 9716(b), Dec. 23, 2022, 136 Stat. 3921, known as the Gandhi-King Scholarly Exchange Initiative Act, authorized establishment of professional exchange program, professional development training initiative, and development foundation between the United States and India.
 
 Pub. L. 110–83, Sept. 20, 2007, 121 Stat. 781, authorized establishment of a United States-Poland parliamentary youth exchange program.
 
@@ -666,7 +670,7 @@ Pub. L. 96–60, title II, § 205(b), Aug. 15, 1979, 93 Stat. 401, provided that
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (e), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461). United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 #### Termination of Advisory Commissions and Committees
-Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Continued Service of Board Members
 Pub. L. 101–246, title II, § 204(b), Feb. 16, 1990, 104 Stat. 50, provided that: “Each member appointed to the Board of Foreign Scholarships before the date of the enactment of this Act [Feb. 16, 1990] shall continue to serve for the remainder of the term to which each such member was appointed.”
@@ -698,7 +702,7 @@ Provisions relating to the submission of reports to Congress by the United State
 For termination, effective May 15, 2000, of provisions in this section relating to submitting annual reports to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 155 of House Document No. 103–7.
 
 #### Termination of Advisory Commissions and Committees
-Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions or committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a commission or committee established by the President or an officer of the Federal Government, such commission or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission or committee established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-2458"></a>
@@ -720,7 +724,7 @@ Advisory commissions or committees in existence on Jan. 5, 1973, to terminate no
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under [section 2451 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) and Tables.
 
-The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsecs. (b) and (d), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. Title VIII of the Act, referred to in subsec. (d), is classified generally to subchapter VII (§ 1471 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
+The United States Information and Educational Exchange Act of 1948, as amended, referred to in subsecs. (b) and (d), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, which is classified generally to chapter 18 (§ 1431 et seq.) of this title. Title VIII of the Act, referred to in subsec. (d), is classified generally to subchapter VII (§ 1471 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1431 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1431) and Tables.
 
 #### Amendments
 1980—Subsec. (b). Pub. L. 96–470 substituted provision requiring periodic reports on activities and expenditures made under this chapter and the United States Information and Educational Exchange Act of 1948 for provision requiring an annual report be made on activities and expenditures under this chapter.
@@ -837,9 +841,13 @@ Sec. 6. This Order shall be effective on April 1, 1978.
 
 (7) a program of working with private, not-for-profit groups through contracts, grants, or cooperative agreements, as authorized by [section 2452 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2452), so as to provide financial assistance to nongovernmental organizations engaged in implementing and enhancing exchange-of-persons programs;
 
-(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries; and
+(8) the Samantha Smith Memorial Exchange Program which advances understanding between the United States and the independent states of the former Soviet Union and between the United States and Eastern European countries through the exchange of persons under the age of 21 years and of students at an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)) who have not received their initial baccalaureate degree or through other programs designed to promote contact between the young peoples of the United States, the independent states of the former Soviet Union, and Eastern European countries;
 
-(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries.
+(9) the Arts America program which promotes a greater appreciation and understanding of American art abroad by supporting exhibitions and tours by American artists in other countries; and
+
+(10) 11 So in original. Two pars. (10) have been enacted. exchange programs, including in coordination and consultation with the private sector, focused on music and the performing arts that provide opportunities for foreign nationals and Americans to build cross-cultural understanding and advance peace abroad.
+
+(10) 1 the John Lewis Civil Rights Fellowship Program established under [section 2465 of this title](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2465), which provides funding for international internships and research placements for early- to mid-career individuals from the United States to study nonviolent civil rights movements in self-arranged placements with universities or nongovernmental organizations in foreign countries.
 
 **(b) Revocation or diminution of grants**
 
@@ -931,6 +939,10 @@ The Support for East European Democracy Act, referred to in subsec. (d)(2), prob
 The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, which is classified principally to chapter 32 (§ 2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
+2023—Subsec. (a)(10). Pub. L. 118–31 added par. (10) relating to John Lewis Civil Rights Fellowship Program. Ancillary amendments at the end of pars. (8) and (9) of subsec. (a) could not be executed because of the prior addition by Pub. L. 117–263 of par. (10) relating to exchange programs focused on music and the performing arts. See 2022 Amendment note below.
+
+2022—Subsec. (a)(10). Pub. L. 117–263 added par. (10) relating to exchange programs focused on music and the performing arts.
+
 2002—Subsec. (d). Pub. L. 107–228, § 221, designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g)(1). Pub. L. 107–228, § 229(1), substituted “Department of State” for “United States Information Agency”.
@@ -968,6 +980,9 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 
 Pub. L. 101–246, title II, § 222(b), Feb. 16, 1990, 104 Stat. 56, provided that: “There are hereby transferred to the Office of Citizen Exchanges on the date of enactment of this Act [Feb. 16, 1990] all functions carried out by the Office of Private Sector Programs on the day before such date.”
+
+#### Private Sector Partnerships
+Pub. L. 117–263, div. I, title XCVI, § 9604(c), Dec. 23, 2022, 136 Stat. 3912, provided that: “(1) In general.—The Secretary [of State] should continue—“(A) to partner with the private sector in support of music-related exchange programs implemented by the Bureau of Educational and Cultural Affairs (referred to in this section as the ‘ECA’); “(B) to leverage private sector expertise in developing and implementing such programs; and “(C) to expand networking and mentorship opportunities for program participants. “(2) Authorization of certain partnerships.—The Secretary is authorized to partner with the private sector to recognize musicians—“(A) whose works or performances have advanced peace abroad; and “(B) who could contribute to networking and mentorship opportunities for participants of music-related exchange programs implemented by ECA.”
 
 #### Information on Educational Opportunities for Children With Special Education Needs Consistent With the Individuals With Disabilities Education Act
 Pub. L. 117–81, div. E, title LIII, § 5324, Dec. 27, 2021, 135 Stat. 2370, provided that: “Not later than March 31, 2022, and annually thereafter, the Director of the Office of Overseas Schools of the Department of State shall maintain and update a list of overseas schools receiving assistance from the Office and detailing the extent to which each such school provides special education and related services to children with disabilities in accordance with part B of the Individuals with Disabilities Education Act ([20 U.S.C. 1411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411&num=0&edition=prelim) et seq.). Each list required under this section shall be posted on the public website of the Office for access by members of the Foreign Service, the Senior Foreign Service, and their eligible family members.”
@@ -1075,7 +1090,7 @@ The Higher Education Act of 1965, referred to in subsecs. (b)(3) and (c)(2)(B), 
 Section was enacted as part of the International Academic Opportunity Act of 2000, and also as part of the Microenterprise for Self-Reliance and International Anti-Corruption Act of 2000, and not as part of the Mutual Educational and Cultural Exchange Act of 1961 which comprises this chapter.
 
 #### International Academic Opportunity
-Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, provided that: “SEC. 301. SHORT TITLE.“This title [enacting this section and this note] may be cited as the ‘International Academic Opportunity Act of 2000’. “SEC. 302. STATEMENT OF PURPOSE.“It is the purpose of this title to establish an undergraduate grant program for students of limited financial means from the United States to enable such students to study abroad. Such foreign study is intended to broaden the outlook and better prepare such students of demonstrated financial need to assume significant roles in the increasingly global economy. “SEC. 303. ESTABLISHMENT OF GRANT PROGRAM FOR FOREIGN STUDY BY AMERICAN COLLEGE STUDENTS OF LIMITED FINANCIAL MEANS. “[Enacted this section.] “SEC. 304. REPORT TO CONGRESS.“The Secretary of State shall report annually to the Congress concerning the grant program established under this title. Each such report shall include the following information for the preceding year:“(1) The number of participants. “(2) The institutions of higher education in the United States that participants attended. “(3) The institutions of higher education outside the United States participants attended during their study abroad. “(4) The areas of study of participants. “SEC. 305. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated $1,500,000 for each fiscal year to carry out this title. “SEC. 306. EFFECTIVE DATE.“This title shall take effect October 1, 2000.”
+Pub. L. 106–309, title III, Oct. 17, 2000, 114 Stat. 1094, as amended by Pub. L. 117–263, div. I, title XCVII, § 9716(e), Dec. 23, 2022, 136 Stat. 3922, provided that: “SEC. 301. SHORT TITLE.“This title [enacting this section and this note] may be cited as the ‘International Academic Opportunity Act of 2000’. “SEC. 302. STATEMENT OF PURPOSE.“It is the purpose of this title to establish an undergraduate grant program for students of limited financial means from the United States to enable such students to study abroad. Such foreign study is intended to broaden the outlook and better prepare such students of demonstrated financial need to assume significant roles in the increasingly global economy. “SEC. 303. ESTABLISHMENT OF GRANT PROGRAM FOR FOREIGN STUDY BY AMERICAN COLLEGE STUDENTS OF LIMITED FINANCIAL MEANS. “[Enacted this section.] “[SEC. 304. Repealed. Pub. L. 117–263, div. I, title XCVII, § 9716(e), Dec. 23, 2022, 136 Stat. 3922.] “SEC. 305. AUTHORIZATION OF APPROPRIATIONS.“There are authorized to be appropriated $1,500,000 for each fiscal year to carry out this title. “SEC. 306. EFFECTIVE DATE.“This title shall take effect October 1, 2000.”
 
 
 <a id="section-2463"></a>
@@ -1099,3 +1114,94 @@ Section was enacted as part of the Department of State Authorization Act, Fiscal
 
 #### Definition
 For definition of “Secretary” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-2465"></a>
+## § 2465. John Lewis Civil Rights Fellowship Program
+**(a) Establishment** There is established the John Lewis Civil Rights Fellowship Program (referred to in this section as the “Fellowship Program”) within the J. William Fulbright Educational Exchange Program.
+
+**(b) Purposes** The purposes of the Fellowship Program are—
+
+(1) to honor the legacy of Representative John Lewis by promoting a greater understanding of the history and tenets of nonviolent civil rights movements; and
+
+(2) to advance foreign policy priorities of the United States by promoting studies, research, and international exchange in the subject of nonviolent movements that established and protected civil rights around the world.
+
+**(c) Administration** The Bureau of Educational and Cultural Affairs (referred to in this section as the “Bureau”) shall administer the Fellowship Program in accordance with policy guidelines established by the Board, in consultation with the binational Fulbright Commissions and United States Embassies.
+
+**(d) Selection of fellows**
+
+(1) **In general** — The Board shall annually select qualified individuals to participate in the Fellowship Program. The Bureau may determine the number of fellows selected each year, which, whenever feasible, shall be not fewer than 25.
+
+(2) **Outreach**
+
+  (A) *In general* — To the extent practicable, the Bureau shall conduct outreach at institutions, including—
+
+    (i) minority serving institutions, including historically Black colleges and universities; and
+
+    (ii) other appropriate institutions that are likely to produce a range of qualified applicants, as determined by the Bureau.
+
+  (B) *Definitions* — In this paragraph:
+
+    (i) *Historically Black college and university* — The term “historically Black college and university” has the meaning given the term “part B institution” in [section 1061 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim).
+
+    (ii) *Minority serving institution* — The term “minority-serving institution” means an eligible institution under [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim).
+
+**(e) Fellowship orientation** Annually, the Bureau shall organize and administer a fellowship orientation, which shall—
+
+(1) be held in Washington, D.C., or at another location selected by the Bureau; and
+
+(2) include programming to honor the legacy of Representative John Lewis.
+
+**(f) Structure**
+
+(1) **Work plan** — To carry out the purposes described in subsection (b)—
+
+  (A) each fellow selected pursuant to subsection (d) shall arrange an internship or research placement—
+
+    (i) with a nongovernmental organization, academic institution, or other organization approved by the Bureau; and
+
+    (ii) in a country with an operational Fulbright U.S. Student Program; and
+
+  (B) the Bureau shall, for each fellow, approve a work plan that identifies the target objectives for the fellow, including specific duties and responsibilities relating to those objectives.
+
+(2) **Conferences; presentations** — Each fellow shall—
+
+  (A) attend a fellowship orientation organized and administered by the Bureau under subsection (e);
+
+  (B) not later than the date that is 1 year after the end of the fellowship period, attend a fellowship summit organized and administered by the Bureau, which—
+
+    (i) whenever feasible, shall be held in a location of importance to the civil rights movement in the United States; and
+
+    (ii) may coincide with other events facilitated by the Bureau; and
+
+  (C) at such summit, give a presentation on lessons learned during the period of the fellowship.
+
+(3) **Fellowship period** — Each fellowship under this section shall continue for a period determined by the Bureau, which, whenever feasible, shall be not fewer than 10 months.
+
+**(g) Fellowship award** The Bureau shall provide each fellow under this section with an allowance that is equal to the amount needed for—
+
+(1) the reasonable costs of the fellow during the fellowship period; and
+
+(2) travel and lodging expenses related to attending the orientation and summit required under subsection (e)(2).
+
+**(h) Annual report** Not later than 1 year after the date of the completion of the Fellowship Program by the initial cohort of fellows selected under subsection (d), and annually thereafter, the Secretary of State shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the implementation of the Fellowship Program, including—
+
+(1) a description of the demographics of the cohort of fellows who completed a fellowship during the preceding 1-year period;
+
+(2) a description of internship and research placements, and research projects selected by such cohort, under the Fellowship Program, including feedback from—
+
+  (A) such cohort on implementation of the Fellowship Program; and
+
+  (B) the Secretary on lessons learned;
+
+(3) a plan for factoring such lessons learned into future programming, and
+
+(4) an analysis of trends relating to the diversity of each cohort of fellows and the topics of projects completed since the establishment of the Fellowship Program.
+
+### Statutory Notes
+
+#### Termination of Section
+For termination of section by section 6604(c) of Pub. L. 118–31, see Termination Date note set out below.
+
+#### Termination Date
+Pub. L. 118–31, div. F, title LXVI, § 6604(c), Dec. 22, 2023, 137 Stat. 1013, provided that: “The authority to carry out the John Lewis Civil Rights Fellowship Program established under section 115 of the Mutual Educational and Cultural Exchange Act of 1961 ([22 U.S.C. 2451](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2451) et seq.) [[22 U.S.C. 2465](./chapter-033-mutual-educational-and-cultural-exchange-program.md#section-2465)], as added by subsection (a), shall expire on the date that is 10 years after the date of the enactment of this division [Dec. 22, 2023].”

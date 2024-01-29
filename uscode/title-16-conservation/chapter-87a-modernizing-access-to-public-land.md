@@ -39,7 +39,7 @@ In this chapter:
 
 ### Statutory Notes
 
-#### Short Title of 2022 Amendment
+#### Short Title
 Pub. L. 117–114, § 1, Apr. 29, 2022, 136 Stat. 1175, provided that: “This Act [enacting this chapter] may be cited as the ‘Modernizing Access to Our Public Land Act’.”
 
 

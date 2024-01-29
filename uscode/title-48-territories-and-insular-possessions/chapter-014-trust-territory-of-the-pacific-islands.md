@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Section 2 of this Act, as amended, referred to in subsec. (b), means section 2 of act June 30, 1954, set out as a note below.
+Section 2 of this Act, referred to in subsec. (b), means section 2 of act June 30, 1954, set out as a note below.
 
 #### Codification
 Section was formerly classified to [section 1435 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1435&num=0&edition=prelim).
@@ -70,19 +70,20 @@ Any appointment made on or after May 10, 1967, to the office of the High Commiss
 
 (2) The authority to report to the Secretary of the Interior, the High Commissioner of the Trust Territory of the Pacific Islands, the chief executives of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands all failures to collect amounts due the governments, and expenditures of funds or uses of property which are irregular or not pursuant to law.
 
-**(b) Scope of authority transferred** The authority granted in paragraph (a) shall extend to all activities of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended. This section is not subject to termination under section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America (90 Stat. 263, 268).
+**(b) Scope of authority transferred** The authority granted in paragraph (a) shall extend to all activities of the governments of the Marshall Islands, the Federated States of Micronesia, Palau, and the Northern Mariana Islands, and shall be in addition to the authority conferred upon the Inspector General by chapter 4 of title 5. This section is not subject to termination under section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America (90 Stat. 263, 268).
 
 **(c) Transfer of personnel, assets, etc., of office of government comptroller for Guam to Office of Inspector General, Department of the Interior** In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for Guam related to its audit function, with respect to the government of the Trust Territory of the Pacific Islands and the government of the Northern Mariana Islands are hereby transferred to the Office of Inspector General, Department of the Interior.
 
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 502(a)(3) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, referred to in subsec. (b), is contained in section 1 of Pub. L. 94–241, set out as a note under [section 1801 of this title](./chapter-017-northern-mariana-islands.md#section-1801).
 
 #### Prior Provisions
 A prior section 1681b, acts June 30, 1954, ch. 423, § 4, as added Sept. 21, 1973, Pub. L. 93–111, § 2, 87 Stat. 354; amended Oct. 15, 1977, Pub. L. 95–134, title II, § 203(b), 91 Stat. 1162; Mar. 12, 1980, Pub. L. 96–205, title II, § 201(b), 94 Stat. 85, related to duties of government comptroller for Guam in addition to those imposed by Organic Act of Guam, prior to repeal by Pub. L. 97–357, § 203(b).
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (92 Stat. 1101), as amended.”
 
 
 <a id="section-1681c"></a>

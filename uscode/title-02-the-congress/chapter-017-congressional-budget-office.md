@@ -406,7 +406,7 @@ Pub. L. 110–161, div. H, title I, § 1201, Dec. 26, 2007, 121 Stat. 2238, as a
 
 (4) chapter 171 of title 28 (commonly referred to as the “Federal Tort Claims Act”) and any other Federal tort liability statute;
 
-(5) the Ethics in Government Act of 1978 (5 U.S.C. App.); and
+(5) chapter 131 of title 5; and
 
 (6) [section 1043 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1043&num=0&edition=prelim).
 
@@ -414,15 +414,14 @@ Pub. L. 110–161, div. H, title I, § 1201, Dec. 26, 2007, 121 Stat. 2238, as a
 
 ### Statutory Notes
 
-#### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (c)(5), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
 #### Codification
 Section was enacted as part of the Legislative Branch Appropriations Act, 2008, which is div. H of the Consolidated Appropriations Act, 2008, and not as part of title II of the Congressional Budget and Impoundment Control Act of 1974 which comprises this chapter.
 
 Section was formerly set out as a note under [section 611 of this title](./chapter-017-congressional-budget-office.md#section-611).
 
 #### Amendments
+2022—Subsec. (c)(5). Pub. L. 117–286 substituted “chapter 131 of title 5;” for “the Ethics in Government Act of 1978 (5 U.S.C. App.);”.
+
 2009—Subsec. (b)(1), (2). Pub. L. 111–68, § 1201(1), substituted “5” for “3”.
 
 Subsecs. (d), (e). Pub. L. 111–68, § 1201(2), (3), redesignated subsec. (e) as (d), substituted “This” for “Subject to subsection (d), this”, and struck out former subsec. (d). Prior to amendment, text of subsec. (d) read as follows: “No assignment under this section shall commence after the end of the 2-year period beginning on December 26, 2007.”

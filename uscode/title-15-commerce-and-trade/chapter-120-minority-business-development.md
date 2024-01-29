@@ -18,6 +18,8 @@ The powers and duties of the Agency shall be determined—
 ### Statutory Notes
 
 #### References in Text
+Executive Order 11625, referred to in section catchline and par. (2), is Ex. Ord. No. 11625, Oct. 13, 1971, 36 F.R. 19967, which is set out as a note under [section 631 of this title](./chapter-14a-aid-to-small-business.md#section-631).
+
 This chapter, referred to in par. (1), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under [section 9501 of this title](./chapter-120-minority-business-development.md#section-9501) and Tables.
 
 
@@ -85,7 +87,7 @@ In this chapter:
 
   (B) provides technical business assistance to minority business enterprises consistent with the requirements of this chapter.
 
-(8) **MBDA Business Center Agreement** — The term “MBDA Business Center agreement” means a legal instrument—
+(8) **MBDA Business Center agreement** — The term “MBDA Business Center agreement” means a legal instrument—
 
   (A) reflecting a relationship between the Agency and the recipient of a Federal assistance award that is the subject of the instrument; and
 
@@ -864,7 +866,7 @@ In this subchapter:
 #### References in Text
 The Act of July 2, 1862, referred to in subsec. (d)(2)(B)(iii)(I), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the Morrill Act and also as the First Morrill Act, which is classified generally to subchapter I (§ 301 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section301&num=0&edition=prelim) and Tables.
 
-Act of August 30, 1890, referred to in subsec. (d)(2)(B)(iii)(II), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section321&num=0&edition=prelim) and Tables.
+The Act of August 30, 1890, referred to in subsec. (d)(2)(B)(iii)(II), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§ 321 et seq.) of chapter 13 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 321 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-9561"></a>
@@ -970,14 +972,14 @@ The Under Secretary shall establish the Minority Business Enterprises Advisory C
 
 **(b) Capacity** Members of the Council shall not be compensated for service on the Council but may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
 
-**(c) Termination** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.), the Council shall terminate on the date that is 5 years after November 15, 2021.
+**(c) Termination** Notwithstanding section 14 of the Federal Advisory Committee Act (5 U.S.C. App.),11 See References in Text note below. the Council shall terminate on the date that is 5 years after November 15, 2021.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsec. (a)(3)(A), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified prinicpally to this chapter. For complete classification of division K to the Code, see Short Title note set out under [section 9501 of this title](./chapter-120-minority-business-development.md#section-9501) and Tables.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 
 <a id="section-9591"></a>
@@ -1006,7 +1008,7 @@ The Under Secretary shall—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in pars. (1)(B), (C), (3), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under [section 9501 of this title](./chapter-120-minority-business-development.md#section-9501) and Tables.
+This chapter, referred to in pars. (1)(B), (C), and (3), was in the original “this division”, meaning div. K of Pub. L. 117–58, Nov. 15, 2021, 135 Stat. 1445, which is classified principally to this chapter. For complete classification of division K to the Code, see Short Title note set out under [section 9501 of this title](./chapter-120-minority-business-development.md#section-9501) and Tables.
 
 
 <a id="section-9593"></a>

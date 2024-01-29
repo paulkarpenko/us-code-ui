@@ -397,7 +397,7 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 (2) making recommendations to improve the effectiveness of such programs, including regarding implementing subparagraphs (A), (B), and (C) of paragraph (1) of subsection (e).
 
-**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2018 through 2022.
+**(g) Authorization of appropriations** There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), (e), and (f), $2,000,000 for each of fiscal years 2023 through 2027.
 
 ### Statutory Notes
 
@@ -407,6 +407,8 @@ This Act, referred to in subsec. (b)(1), is act Aug. 8, 1956, ch. 1036, known as
 The National Wildlife Refuge System Administration Act of 1966, referred to in subsecs. (b)(2)(B)(ii) and (d)(2)(B), (C)(i), consists of sections 4 and 5 of Pub. L. 89–699, Oct. 15, 1966, 80 Stat. 927, and is classified to sections 668dd and 668ee of this title. For further details, see Short Title note set out under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd).
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–328 substituted “2023 through 2027” for “2018 through 2022”.
+
 2018—Subsec. (g). Pub. L. 115–168 substituted “2018 through 2022” for “2011 through 2014”.
 
 2011—Subsec. (b)(2)(B)(ii). Pub. L. 111–357, § 2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
@@ -712,7 +714,12 @@ Pub. L. 105–328, § 2, Oct. 30, 1998, 112 Stat. 3057, provided that: “(a) Fi
 <a id="section-742l-1"></a>
 ## § 742l–1. Authority to use available law enforcement funds
 
-In fiscal year 2012 and hereafter of the amount available for law enforcement, up to $400,000, to remain available until expended, may at the discretion of the Secretary be used for payment for information, rewards, or evidence concerning violations of laws administered by the Service, and miscellaneous and emergency expenses of enforcement activity, authorized or approved by the Secretary and to be accounted for solely on the Secretary’s certificate.
+In fiscal year 2023 and hereafter of the amount available for law enforcement, up to $750,000, to remain available until expended, may at the discretion of the Secretary be used for payment for information, rewards, or evidence concerning violations of laws administered by the Service, and miscellaneous and emergency expenses of enforcement activity, authorized or approved by the Secretary and to be accounted for solely on the Secretary’s certificate.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–328 substituted “2023” for “2012” and “$750,000” for “$400,000”.
 
 
 <a id="section-742m"></a>

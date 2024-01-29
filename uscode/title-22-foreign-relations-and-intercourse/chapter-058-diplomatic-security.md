@@ -22,11 +22,13 @@ source: >-
 
 (2) to maximize coordination by the Department of State with Federal, State, and local agencies and agencies of foreign governments in order to enhance security programs;
 
-(3) to promote strengthened security measures and to provide for the accountability of United States Government personnel with security-related responsibilities;
+(3) to promote strengthened security measures, institutionalize a culture of learning, and, in the case of apparent gross negligence or breach of duty, recommend that the Secretary investigate accountability for United States Government personnel with security-related responsibilities under chief of mission authority;
 
-(4) to set forth the responsibility of the Secretary of State with respect to the safe and efficient evacuation of United States Government personnel, their dependents, and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster; and
+(4) to support a culture of risk management, instead of risk avoidance, that enables the Department of State to pursue its vital goals with full knowledge that it is neither desirable nor possible for the Department to avoid all risks;
 
-(5) to provide authorization of appropriations for the Department of State to carry out its responsibilities in the area of security and counterterrorism, and in particular to finance the acquisition and improvements of United States Government missions abroad, including real property, buildings, facilities, and communications, information, and security systems.
+(5) to set forth the responsibility of the Secretary of State with respect to the safe and efficient evacuation of United States Government personnel, their dependents, and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster; and
+
+(6) to provide authorization of appropriations for the Department of State to carry out its responsibilities in the area of security and counterterrorism, and in particular to finance the acquisition and improvements of United States Government missions abroad, including real property, buildings, facilities, and communications, information, and security systems.
 
 ### Statutory Notes
 
@@ -34,12 +36,21 @@ source: >-
 This chapter, referred to in subsec. (b), was in the original “titles I through IV”, meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which are classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
+2022—Subsec. (b)(3). Pub. L. 117–263, § 9302(c)(1)(A), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to promote strengthened security measures and to provide for the accountability of United States Government personnel with security-related responsibilities;”.
+
+Subsec. (b)(4) to (6). Pub. L. 117–263, § 9302(c)(1)(B), (C), added par. (4) and redesignated pars. (4) and (5) as (5) and (6), respectively.
+
 1994—Subsec. (b)(2) to (6). Pub. L. 103–236 struck out par. (2) and redesignated pars. (3) to (6) as (2) to (5), respectively. Prior to amendment, par. (2) read as follows: “to provide for an Assistant Secretary of State to head the Bureau of Diplomatic Security of the Department of State, and to set forth certain provisions relating to the Diplomatic Security Service of the Department of State;”.
 
 1990—Subsec. (b)(5), (6). Pub. L. 101–246 added par. (5) and redesignated former par. (5) as (6).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–263, div. I, title XCIII, § 9301(a), Dec. 23, 2022, 136 Stat. 3879, provided that: “This section [amending [section 4865 of this title](./chapter-058-diplomatic-security.md#section-4865), enacting provisions set out as a note under [section 4865 of this title](./chapter-058-diplomatic-security.md#section-4865), and amending provisions set out as notes under sections 1475g and 4865 of this title] may be cited as the ‘Secure Embassy Construction and Counterterrorism Act of 2022’.”
+
+Pub. L. 117–263, div. I, title XCIII, § 9302(a), Dec. 23, 2022, 136 Stat. 3882, provided that: “This section [amending this section and sections 4003, 4804, and 4831 to 4835 of this title and enacting provisions set out as a note under this section] may be cited as the ‘Diplomatic Support and Security Act of 2022’.”
 
 #### Short Title of 1999 Amendment
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 601], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: “This title [enacting [section 4865 of this title](./chapter-058-diplomatic-security.md#section-4865), amending [section 4831 of this title](./chapter-058-diplomatic-security.md#section-4831), and enacting provisions set out as notes under [section 4865 of this title](./chapter-058-diplomatic-security.md#section-4865)] may be cited as the ‘Secure Embassy Construction and Counterterrorism Act of 1999’.”
@@ -48,6 +59,9 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 601], Nov. 29, 19
 Pub. L. 99–399, § 1, Aug. 27, 1986, 100 Stat. 853, provided that: “This Act [enacting this chapter and sections 2656e, 2711, 2712, 2780, 3244, and 4901 to 4904 of this title, sections 5569 and 5570 of Title 5, Government Organization and Employees, sections 1051, 1095, and 2181 to 2185 of Title 10, Armed Forces, [section 2331 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2331&num=0&edition=prelim), Crimes and Criminal Procedure, [section 1226 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1226&num=0&edition=prelim), Navigation and Navigable Waters, sections 559 and 1013 of Title 37, Pay and Allowances of the Uniformed Services, sections 2160b, 2160c, and 2169 of Title 42, The Public Health and Welfare, and sections 1801 to 1809 of Title 46, Appendix, Shipping, amending sections 300, 2151a, 2349aa–2, 2349aa–4, 2349aa–7, 2502, 2652, 2708, 3929, and 3929a of this title, [section 208 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section208&num=0&edition=prelim), The President, sections 5315 and 6325 of Title 5, sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, sections 793, 794, and 3671 of Title 18, and [section 4605 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605&num=0&edition=prelim), War and National Defense, enacting provisions set out as notes under sections 2708 and 4901 of this title, [section 5569 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5569&num=0&edition=prelim), sections 133, 1051, 1095, and 2181 of Title 10, [section 559 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section559&num=0&edition=prelim), [section 2169 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2169&num=0&edition=prelim), and [section 1801 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1801&num=0&edition=prelim), Appendix, and amending a provision set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651)] may be cited as the ‘Omnibus Diplomatic Security and Antiterrorism Act of 1986’.”
 
 Pub. L. 99–399, title I, § 101, Aug. 27, 1986, 100 Stat. 855, provided that: “Titles I through IV of this Act [enacting this chapter and amending sections 300, 2349aa–4, 2652, 3929, and 3929a of this title, [section 208 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section208&num=0&edition=prelim), The President, [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5] may be cited as the ‘Diplomatic Security Act’.”
+
+#### Findings
+Pub. L. 117–263, div. I, title XCIII, § 9302(b), Dec. 23, 2022, 136 Stat. 3882, provided that: “Congress makes the following findings: “(1) A robust overseas diplomatic presence is part of an effective foreign policy, particularly in volatile environments where a flexible and timely diplomatic response can be decisive in preventing and addressing conflict. “(2) Diplomats routinely put themselves and their families at great personal risk to serve their country overseas where they face threats related to international terrorism, violent conflict, and public health. “(3) The Department [of State] has a remarkable record of protecting personnel while enabling an enormous amount of global diplomatic activity, often in unsecure and remote places and facing a variety of evolving risks and threats. With support from Congress, the Department has revised policy, improved physical security through retrofitting and replacing old facilities, deployed additional security personnel and armored vehicles, and greatly enhanced training requirements and training facilities, including the new Foreign Affairs Security Training Center in Blackstone, Virginia. “(4) Diplomatic missions rely on robust staffing and ambitious external engagement to advance United States interests as diverse as competing with China’s malign influence around the world, fighting terrorism and transnational organized crime, preventing and addressing violent conflict and humanitarian disasters, promoting United States businesses and trade, protecting the rights of marginalized groups, addressing climate change, and preventing pandemic disease. “(5) Efforts to protect personnel overseas have often resulted in inhibiting diplomatic activity and limiting engagement between embassy personnel and local governments and populations. “(6) Given that Congress currently provides annual appropriations in excess of $1,900,000,000 for embassy security, construction, and maintenance, the Department should be able to ensure a robust overseas presence without inhibiting the ability of diplomats to—“(A) meet outside United States secured facilities with foreign leaders to explain, defend, and advance United States priorities; “(B) understand and report on foreign political, social, and economic conditions through meeting and interacting with community officials outside of United States facilities; “(C) provide United States citizen services; and “(D) collaborate and, at times, compete with other diplomatic missions, particularly those, such as that of the People’s Republic of China, that do not have restrictions on meeting locations. “(7) Given these stakes, Congress has a responsibility to empower, support, and hold the Department accountable for implementing an aggressive strategy to ensure a robust overseas presence that mitigates potential risks and adequately considers the myriad direct and indirect consequences of a lack of diplomatic presence.”
 
 
 <a id="section-4802"></a>
@@ -202,13 +216,13 @@ A prior section 104 of Pub. L. 99–399 enacted this section and amended former 
 ## § 4804. Briefings on embassy security
 **(a) Briefing** The Secretary shall provide monthly briefings to the appropriate congressional committees on—
 
-(1) any plans to open or reopen a high risk, high threat post, including—
+(1) progress towards opening or reopening a high risk, high threat post, and the risk to national security of the continued closure or any suspension of operations and remaining barriers to doing so, including—
 
-  (A) the importance and appropriateness of the objectives of the proposed post to the national security of the United States, and the type and level of security threats such post could encounter;
+  (A) the importance and appropriateness of the objectives of the proposed post to the national security of the United States, the risk to United States national security of the post’s continued closure or suspension of operations, and the type and level of security threats such post could encounter;
 
   (B) working plans to expedite the approval and funding for establishing and operating such post, implementing physical security measures, providing necessary security and management personnel, and the provision of necessary equipment;
 
-  (C) security “tripwires” that would determine specific action, including enhanced security measures or evacuation of such post, based on the improvement or deterioration of the local security environment; and
+  (C) the type and level of security threats such post could encounter, and security “tripwires” that would determine specific action, including enhanced security measures or evacuation of such post, based on the improvement or deterioration of the local security environment; and
 
   (D) in coordination with the Secretary of Defense, an evaluation of available United States military assets and operational plans to respond to such posts in extremis;
 
@@ -237,6 +251,13 @@ Title I of the Department of State Authorities Act, Fiscal Year 2017, referred t
 
 #### Prior Provisions
 A prior section 4804, Pub. L. 99–399, title I, § 105, Aug. 27, 1986, 100 Stat. 856, set out responsibilities of Assistant Secretary of State for Diplomatic Security, prior to repeal by Pub. L. 103–236, title I, § 162(g)(4), Apr. 30, 1994, 108 Stat. 407.
+
+#### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263, § 9302(c)(2)(A), in introductory provisions, substituted “progress towards opening or reopening a high risk, high threat post, and the risk to national security of the continued closure or any suspension of operations and remaining barriers to doing so” for “any plans to open or reopen a high risk, high threat post”.
+
+Subsec. (a)(1)(A). Pub. L. 117–263, § 9302(c)(2)(B), inserted “the risk to United States national security of the post’s continued closure or suspension of operations,” after “national security of the United States,”.
+
+Subsec. (a)(1)(C). Pub. L. 117–263, § 9302(c)(2)(C), inserted “the type and level of security threats such post could encounter, and” before “security ‘tripwires’ ”.
 
 
 <a id="section-4805"></a>
@@ -320,7 +341,7 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 #### References in Text
 Section 7201, referred to in subsecs. (b)(1) and (d), is section 7201 of Pub. L. 108–458, which enacted [section 1776 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1776&num=0&edition=prelim), Aliens and Nationality, and provisions set out as notes under [section 1776 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1776&num=0&edition=prelim) and sections 3024 and 3056 of Title 50, War and National Defense.
 
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 8 of part II of the Act is classified generally to part VIII (§ 2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Codification
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Diplomatic Security Act which comprises this chapter.
@@ -338,6 +359,9 @@ The Secretary of State may establish a Diplomatic Security Service, which shall 
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–236 applicable with respect to officials, offices, and bureaus of Department of State when executive orders, regulations, or departmental directives implementing the amendments by sections 161 and 162 of Pub. L. 103–236 become effective, or 90 days after Apr. 30, 1994, whichever comes earlier, see section 161(b) of Pub. L. 103–236, as amended, set out as a note under [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a).
+
+#### Sexual Assault Prevention and Response Victim Advocates
+Pub. L. 117–263, div. I, title XCII, § 9202(c), Dec. 23, 2022, 136 Stat. 3864, provided that: “The Secretary [of State] shall ensure that the Diplomatic Security Service’s Victims’ Resource Advocacy Program— “(1) is appropriately staffed by advocates who are physically present at—“(A) the headquarters of the Department [of State]; and “(B) major domestic and international facilities and embassies, as determined by the Secretary; “(2) considers the logistics that are necessary to allow for the expedient travel of victims from Department facilities that do not have advocates; and “(3) uses funds available to the Department to provide emergency food, shelter, clothing, and transportation for victims involved in matters being investigated by the Diplomatic Security Service.”
 
 
 <a id="section-4822"></a>
@@ -383,14 +407,40 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
 
 <a id="section-4831"></a>
-## § 4831. Accountability Review Boards
+## § 4831. Security Review Committees
 **(a) In general**
 
-(1) **Convening a Board** — Except as provided in paragraphs (2) and (3), in any case of serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (in this subchapter referred to as the “Board”). The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.
+(1) **Convening the Security Review Committee** — In any case of a serious security incident involving loss of life, serious injury, or significant destruction of property at, or related to, a United States Government diplomatic mission abroad (referred to in this subchapter as a “Serious Security Incident”), and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, the Secretary of State shall convene a Security Review Committee, which shall issue a report providing a full account of what occurred, consistent with [section 4834 of this title](./chapter-058-diplomatic-security.md#section-4834).
 
-(2) **Department of Defense facilities and personnel** — The Secretary of State is not required to convene a Board in the case of an incident described in paragraph (1) that involves any facility, installation, or personnel of the Department of Defense with respect to which the Secretary has delegated operational control of overseas security functions to the Secretary of Defense pursuant to [section 4805 of this title](./chapter-058-diplomatic-security.md#section-4805). In any such case, the Secretary of Defense shall conduct an appropriate inquiry. The Secretary of Defense shall report the findings and recommendations of such inquiry, and the action taken with respect to such recommendations, to the Secretary of State and Congress.
+(2) **Committee composition** — The Secretary shall designate a Chairperson and may designate additional personnel of commensurate seniority to serve on the Security Review Committee, which shall include—
 
-(3) **Facilities in Afghanistan, Yemen, Syria, and Iraq**
+  (A) the Director of the Office of Management Strategy and Solutions;
+
+  (B) the Assistant Secretary responsible for the region where the incident occurred;
+
+  (C) the Assistant Secretary of State for Diplomatic Security;
+
+  (D) the Assistant Secretary of State for Intelligence and Research;
+
+  (E) an Assistant Secretary-level representative from any involved United States Government department or agency; and
+
+  (F) other personnel determined to be necessary or appropriate.
+
+(3) **Exceptions to convening a Security Review Committee**
+
+  (A) *In general* — The Secretary of State is not required to convene a Security Review Committee—
+
+    (i) if the Secretary determines that the incident involves only causes unrelated to security, such as when the security at issue is outside of the scope of the Secretary of State’s security responsibilities under [section 4802 of this title](./chapter-058-diplomatic-security.md#section-4802);
+
+    (ii) if operational control of overseas security functions has been delegated to another agency in accordance with [section 4805 of this title](./chapter-058-diplomatic-security.md#section-4805);
+
+    (iii) if the incident is a cybersecurity incident and is covered by other review mechanisms; or
+
+    (iv) in the case of an incident described in paragraph (1) that involves any facility, installation, or personnel of the Department of Defense with respect to which the Secretary has delegated operational control of overseas security functions to the Secretary of Defense pursuant to [section 4805 of this title](./chapter-058-diplomatic-security.md#section-4805).
+
+  (B) *Department of Defense investigations* — In the case of an incident described in subparagraph (A)(iv), the Secretary of Defense shall conduct an appropriate inquiry. The Secretary of Defense shall report the findings and recommendations of such inquiry, and the action taken with respect to such recommendations, to the Secretary of State and Congress.
+
+(4) **Facilities in Afghanistan, Yemen, Syria, and Iraq**
 
   (A) *Limited exemptions from requirement to convene Board* — The Secretary of State is not required to convene a Board in the case of an incident that—
 
@@ -406,19 +456,27 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 
     (iii) upon completion of the inquiry required by clause (ii), submit to each such Committee a report on the findings and recommendations related to such inquiry and the actions taken with respect to such recommendations.
 
-**(b) Deadlines for convening Boards**
+(5) **Rulemaking** — The Secretary of State shall promulgate regulations defining the membership and operating procedures for the Security Review Committee and provide such guidance to the Chair and ranking members of the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-(1) **In general** — Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.
+**(b) Deadlines for convening Security Review Committees**
+
+(1) **In general** — The Secretary of State shall convene a Security Review Committee not later than 60 days after the occurrence of an incident described in subsection (a)(1), or 60 days after the Department first becomes aware of such an incident, whichever is earlier, except that the 60-day period for convening a Security Review Committee may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary.
 
 (2) **Delay in cases involving intelligence activities** — With respect to breaches of security involving intelligence activities, the Secretary of State may delay the establishment of a Board if, after consultation with the chairman of the Select Committee on Intelligence of the Senate and the chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that the establishment of a Board would compromise intelligence sources or methods. The Secretary shall promptly advise the chairmen of such committees of each determination pursuant to this paragraph to delay the establishment of a Board.
 
-**(c) Notification to Congress** Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform the chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
+**(c) Congressional notification** Whenever the Secretary of State convenes a Security Review Committee, the Secretary shall promptly inform the chair and ranking member of—
 
-(1) that a Board has been convened;
+(1) the Committee on Foreign Relations of the Senate;
 
-(2) of the membership of the Board; and
+(2) the Select Committee on Intelligence of the Senate;
 
-(3) of other appropriate information about the Board.
+(3) the Committee on Appropriations of the Senate;
+
+(4) the Committee on Foreign Affairs of the House of Representatives;
+
+(5) the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+(6) the Committee on Appropriations of the House of Representatives.
 
 ### Statutory Notes
 
@@ -426,6 +484,34 @@ This Act, referred to in text, is Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 853
 This chapter, referred to in subsec. (a)(1), was in the original “titles I through IV”, meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under [section 4801 of this title](./chapter-058-diplomatic-security.md#section-4801) and Tables.
 
 #### Amendments
+2022—Pub. L. 117–263, § 9302(d)(1), substituted “Security Review Committees” for “Accountability Review Boards” in section catchline.
+
+Subsec. (a)(1). Pub. L. 117–263, § 9302(d)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraphs (2) and (3), in any case of serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (in this subchapter referred to as the ‘Board’). The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.”
+
+Subsec. (a)(2). Pub. L. 117–263, § 9302(d)(2)(C), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 117–263, § 9302(d)(2)(D)(ii), (iii), substituted subpar. (A) designation, heading, introductory provisions, cls. (i) to (iii), and “(iv) in the case” for “The Secretary of State is not required to convene a Board in the case” and subpar. (B) designation, heading, and “In the case of an incident described in subparagraph (A)(iv)” for “In any such case”.
+
+Pub. L. 117–263, § 9302(d)(2)(D)(i), substituted “Exceptions to convening a Security Review Committee” for “Department of Defense facilities and personnel” in heading.
+
+Pub. L. 117–263, § 9302(d)(2)(B), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (a)(4). Pub. L. 117–263, § 9302(d)(2)(B), redesignated par. (3) as (4).
+
+Subsec. (a)(5). Pub. L. 117–263, § 9302(d)(2)(E), added par. (5).
+
+Subsec. (b). Pub. L. 117–263, § 9302(d)(3)(A), substituted “Security Review Committees” for “Boards” in heading.
+
+Subsec. (b)(1). Pub. L. 117–263, § 9302(d)(3)(B), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), the Secretary of State shall convene a Board not later than 60 days after the occurrence of an incident described in subsection (a)(1), except that such 60-day period may be extended for one additional 60-day period if the Secretary determines that the additional period is necessary for the convening of the Board.”
+
+Subsec. (c). Pub. L. 117–263, § 9302(d)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “Whenever the Secretary of State convenes a Board, the Secretary shall promptly inform the chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives—
+
+“(1) that a Board has been convened;
+
+“(2) of the membership of the Board; and
+
+“(3) of other appropriate information about the Board.”
+
 2021—Subsec. (a)(3). Pub. L. 117–81, § 5316(1), substituted “Afghanistan, Yemen, Syria, and” for “Afghanistan and” in heading.
 
 Subsec. (a)(3)(A)(i). Pub. L. 117–81, § 5316(2)(A), substituted “Afghanistan, Yemen, Syria, or” for “Afghanistan or”.
@@ -443,10 +529,12 @@ Subsec. (a)(3). Pub. L. 109–140, § 3(2), added par. (3).
 #### Change of Name
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-#### Continuation of Review Boards for Facilities in Afghanistan and Iraq
-Pub. L. 117–103, div. K, title VII, § 7034(l)(8), Mar. 15, 2022, 136 Stat. 624, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim)) shall remain in effect for facilities in Afghanistan through September 30, 2022, except that the notification and reporting requirements contained in such section shall include the Committees on Appropriations.”
+#### Security Review Committees for Certain Facilities
+Pub. L. 117–263, div. I, title XCVIII, § 9802(e), Dec. 23, 2022, 136 Stat. 3924, provided that: “The authority provided under section 301(a)(3) [now 301(a)(4)] of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 ([22 U.S.C. 4831(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/3&num=0&edition=prelim) [now [22 U.S.C. 4831(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4831/a/4&num=0&edition=prelim)]) shall remain in effect for facilities in Afghanistan and shall apply to facilities in Ukraine through September 30, 2024, except that the notification and reporting requirements contained in such section shall include the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives], the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives.”
 
-Prior continuations were contained in the following prior acts:
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–103, div. K, title VII, § 7034(l)(8), Mar. 15, 2022, 136 Stat. 624.
 
 Pub. L. 116–260, div. K, title VII, § 7034(l)(7), Dec. 27, 2020, 134 Stat. 1750.
 
@@ -468,18 +556,23 @@ Pub. L. 111–117, div. F, title VII, § 7034(r), Dec. 16, 2009, 123 Stat. 3363.
 
 
 <a id="section-4832"></a>
-## § 4832. Accountability Review Board
-**(a) Membership** A Board shall consist of five members, 4 appointed by the Secretary of State, and 1 appointed by the Director of Central Intelligence. The Secretary of State shall designate the Chairperson of the Board. Members of the Board who are not Federal officers or employees shall each be paid at a rate not to exceed the maximum rate of basic pay payable for level GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Board. Members of the Board who are Federal officers or employees shall receive no additional pay by reason of such membership.
+## § 4832. Security Review Committee
+**(a) Membership** A Security Review Committee shall consist of five members, 4 appointed by the Secretary of State, and 1 appointed by the Director of Central Intelligence. The Secretary of State shall designate the Chairperson of the Security Review Committee. Members of the Security Review Committee who are not Federal officers or employees shall each be paid at a rate not to exceed the maximum rate of basic pay payable for level GS–18 of the General Schedule for each day (including travel time) during which they are engaged in the actual performance of duties vested in the Security Review Committee. Members of the Security Review Committee who are Federal officers or employees shall receive no additional pay by reason of such membership.
 
 **(b) Facilities, services, supplies, and staff**
 
-(1) **Supplied by Department of State** — A Board shall obtain facilities, services, and supplies through the Department of State. All expenses of the Board, including necessary costs of travel, shall be paid by the Department of State. Travel expenses authorized under this paragraph shall be paid in accordance with subchapter I of chapter 57 of title 5 or other applicable law.
+(1) **Supplied by Department of State** — A Security Review Committee shall obtain facilities, services, and supplies through the Department of State. All expenses of the Security Review Committee, including necessary costs of travel, shall be paid by the Department of State. Travel expenses authorized under this paragraph shall be paid in accordance with subchapter I of chapter 57 of title 5 or other applicable law.
 
-(2) **Detail** — At the request of a Board, employees of the Department of State or other Federal agencies, members of the Foreign Service, or members of the uniformed services may be temporarily assigned, with or without reimbursement, to assist the Board.
+(2) **Detail** — At the request of a Security Review Committee, employees of the Department of State or other Federal agencies, members of the Foreign Service, or members of the uniformed services may be temporarily assigned, with or without reimbursement, to assist the Security Review Committee.
 
-(3) **Experts and consultants** — A Board may employ and compensate (in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)) such experts and consultants as the Board considers necessary to carry out its functions. Experts and consultants so employed shall be responsible solely to the Board.
+(3) **Experts and consultants** — A Security Review Committee may employ and compensate (in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)) such experts and consultants as the Security Review Committee considers necessary to carry out its functions. Experts and consultants so employed shall be responsible solely to the Security Review Committee.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–263, § 9302(e)(2), which directed substitution of “a Security Review Committee” for “a Board” wherever appearing, was executed by making the substitution in subsec. (b)(2) and also substituting, wherever appearing, “A Security Review Committee” for “A Board” and “the Security Review Committee” for “the Board”, wherever appearing, to reflect the probable intent of Congress.
+
+Pub. L. 117–263, § 9302(e)(1), substituted “Security Review Committee” for “Accountability Review Board” in section catchline.
 
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
@@ -489,93 +582,95 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 
 <a id="section-4833"></a>
-## § 4833. Procedures
-**(a) Evidence**
+## § 4833. Serious Security Incident investigation process
+**(a) Investigation process**
 
-(1) **United States Government personnel and contractors**
+(1) **Initiation upon reported incident** — A United States mission shall submit an initial report of a Serious Security Incident not later than 3 days after such incident occurs, whenever feasible, at which time an investigation of the incident shall be initiated.
 
-  (A) With respect to any individual described in subparagraph (B), a Board may—
+(2) **Investigation** — Not later than 10 days after the submission of a report pursuant to paragraph (1), the Secretary shall direct the Diplomatic Security Service to assemble an investigative team to investigate the incident and independently establish what occurred. Each investigation under this subsection shall cover—
 
-    (i) administer oaths and affirmations;
+  (A) an assessment of what occurred, who perpetrated or is suspected of having perpetrated the Serious Security Incident, and whether applicable security procedures were followed;
 
-    (ii) require that depositions be given and interrogatories answered; and
+  (B) in the event the Serious Security Incident involved a United States diplomatic compound, motorcade, residence, or other facility, an assessment of whether adequate security countermeasures were in effect based on a known threat at the time of the incident;
 
-    (iii) require the attendance and presentation of testimony and evidence by such individual.
-    Failure of any such individual to comply with a request of the Board shall be grounds for disciplinary action by the head of the Federal agency in which such individual is employed or serves, or in the case of a contractor, debarment.
+  (C) if the incident involved an individual or group of officers, employees, or family members under Chief of Mission security responsibility conducting approved operations or movements outside the United States mission, an assessment of whether proper security briefings and procedures were in place and whether weighing of risk of the operation or movement took place; and
 
-  (B) The individuals referred to in subparagraph (A) are—
+  (D) an assessment of whether the failure of any officials or employees to follow procedures or perform their duties contributed to the security incident.
 
-    (i) employees as defined by [section 2105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim) (including members of the Foreign Service);
+(3) **Investigative team** — The investigative team assembled pursuant to paragraph (2) shall consist of individuals from the Diplomatic Security Service who shall provide an independent examination of the facts surrounding the incident and what occurred. The Secretary, or the Secretary’s designee, shall review the makeup of the investigative team for a conflict, appearance of conflict, or lack of independence that could undermine the results of the investigation and may remove or replace any members of the team to avoid such an outcome.
 
-    (ii) members of the uniformed services as defined by [section 101(3) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101/3&num=0&edition=prelim);
+**(b) Report of Investigation** Not later than 90 days after the occurrence of a Serious Security Incident, the investigative team investigating the incident shall prepare and submit a Report of Investigation to the Security Review Committee that includes—
 
-    (iii) employees of instrumentalities of the United States; and
+(1) a detailed description of the matters set forth in subparagraphs (A) through (D) of subsection (a)(2), including all related findings;
 
-    (iv) individuals employed by any person or entity under contract with agencies or instrumentalities of the United States Government to provide services, equipment, or personnel.
+(2) a complete and accurate account of the casualties, injuries, and damage resulting from the incident; and
 
-(2) **Other persons** — With respect to a person who is not described in paragraph (1)(B), a Board may administer oaths and affirmations and require that depositions be given and interrogatories answered.
+(3) a review of security procedures and directives in place at the time of the incident.
 
-(3) **Subpoenas**
-
-  (A) The Board may issue a subpoena for the attendance and testimony of any person (other than a person described in clause (i), (ii), or (iii) of paragraph (1)(B)) and the production of documentary or other evidence from any such person if the Board finds that such a subpoena is necessary in the interests of justice for the development of relevant evidence.
-
-  (B) In the case of contumacy or refusal to obey a subpoena issued under this paragraph, a court of the United States within the jurisdiction of which a person is directed to appear or produce information, or within the jurisdiction of which the person is found, resides, or transacts business, may upon application of the Attorney General, issue to such person an order requiring such person to appear before the Board to give testimony or produce information as required by the subpoena.
-
-  (C) Subpoenaed witnesses shall be paid the same fee and mileage allowances which are paid subpoenaed witnesses in the courts of the United States.
-
-**(b) Confidentiality** A Board shall adopt for administrative proceedings under this subchapter such procedures with respect to confidentiality as may be deemed necessary, including procedures relating to the conduct of closed proceedings or the submission and use of evidence in camera, to ensure in particular the protection of classified information relating to national defense, foreign policy, or intelligence matters. The Director of Central Intelligence shall establish the level of protection required for intelligence information and for information relating to intelligence personnel, including standards for secure storage.
-
-**(c) Records** Records pertaining to administrative proceedings under this subchapter shall be separated from all other records of the Department of State and shall be maintained under appropriate safeguards to preserve confidentiality and classification of information. Such records shall be prohibited from disclosure to the public until such time as a Board completes its work and is dismissed. The Department of State shall turn over to the Director of Central Intelligence intelligence information and information relating to intelligence personnel which shall then become records of the Central Intelligence Agency. After that time, only such exemptions from disclosure under [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim) (relating to freedom of information), as apply to other records of the Department of State, and to any information transmitted under [section 4834(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4834/c&num=0&edition=prelim) to the head of a Federal agency or instrumentality, shall be available for the remaining records of the Board.
-
-**(d) Status of Boards** The provisions of the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.) and [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) (relating to open meetings) shall not apply to any Board.
+**(c) Confidentiality** The investigative team investigating a Serious Security Incident shall adopt such procedures with respect to confidentiality as determined necessary, including procedures relating to the conduct of closed proceedings or the submission and use of evidence in camera, to ensure in particular the protection of classified information relating to national defense, foreign policy, or intelligence matters. The Director of National Intelligence shall establish the level of protection required for intelligence information and for information relating to intelligence personnel included in the report required under subsection (b). The Security Review Committee shall determine the level of classification of the final report prepared pursuant to [section 4834(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4834/b&num=0&edition=prelim), and shall incorporate the same confidentiality measures in such report to the maximum extent practicable.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to procedures as to evidence, confidentiality, and records of Accountability Review Boards, and also to the status of the Boards.
+
+Subsec. (d). Pub. L. 117–286, which directed substitution of “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App. 1 et seq.)”, could not be executed in light of the intervening general amendment of this section by Pub. L. 117–263. See Amendment note above. As so amended, section no longer included a subsec. (d) or a reference elsewhere to the Federal Advisory Committee Act.
 
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-4834"></a>
-## § 4834. Findings and recommendations by a Board
-**(a) Findings** A Board convened in any case shall examine the facts and circumstances surrounding the serious injury, loss of life, or significant destruction of property at or related to a United States Government mission abroad or surrounding the serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad (as the case may be) and shall make written findings determining—
+## § 4834. Security Review Committee findings and report
+**(a) Findings** The Security Review Committee shall—
 
-(1) the extent to which the incident or incidents with respect to which the Board was convened was security related;
+(1) review the Report of Investigation prepared pursuant to [section 4833(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4833/b&num=0&edition=prelim), and all other evidence, reporting, and relevant information relating to a Serious Security Incident at a United States mission abroad, including an examination of the facts and circumstances surrounding any serious injuries, loss of life, or significant destruction of property resulting from the incident; and
 
-(2) whether the security systems and security procedures at that mission were adequate;
+(2) determine, in writing—
 
-(3) whether the security systems and security procedures were properly implemented;
+  (A) whether the incident was security related and constituted a Serious Security Incident;
 
-(4) the impact of intelligence and information availability; and
+  (B) if the incident involved a diplomatic compound, motorcade, residence, or other mission facility—
 
-(5) such other facts and circumstances which may be relevant to the appropriate security management of United States missions abroad.
+    (i) whether the security systems, security countermeasures, and security procedures operated as intended; and
 
-**(b) Program recommendations** A Board shall submit its findings (which may be classified to the extent deemed necessary by the Board) to the Secretary of State, together with recommendations as appropriate to improve the security and efficiency of any program or operation which the Board has reviewed.
+    (ii) whether such systems worked to materially mitigate the attack or were found to be inadequate to mitigate the threat and attack;
 
-**(c) Personnel recommendations** If a Board finds reasonable cause to believe that an individual described in [section 4833(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4833/a/1/B&num=0&edition=prelim) has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a), the Board shall—
+  (C) if the incident involved an individual or group of officers conducting an approved operation outside the mission, whether a valid process was followed in evaluating the requested operation and weighing the risk of the operation, which determination shall not seek to assign accountability for the incident unless the Security Review Committee determines that an official breached his or her duty;
 
-(1) notify the individual concerned,
+  (D) the impact of intelligence and information availability, and whether the mission was aware of the general operating threat environment or any more specific threat intelligence or information and took that into account in ongoing and specific operations; and
 
-(2) transmit the findings of reasonable cause, together with all information relevant to such findings, to the head of the appropriate Federal agency or instrumentality, and
+  (E) any other facts and circumstances that may be relevant to the appropriate security management of United States missions abroad.
 
-(3) recommend that such agency or instrumentality initiate an appropriate investigatory or disciplinary action.
-In determining whether an individual has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection, the Board shall take into account any standard of conduct, law, rule, regulation, contract, or order which is pertinent.
+**(b) Report**
 
-**(d) Reports**
+(1) **Submission to Secretary of State** — Not later than 60 days after receiving the Report of Investigation prepared pursuant to [section 4833(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4833/b&num=0&edition=prelim), the Security Review Committee shall submit a report to the Secretary of State that includes—
 
-(1) **Program recommendations** — In any case in which a Board transmits recommendations to the Secretary of State under subsection (b), the Secretary shall, not later than 90 days after the receipt of such recommendations, submit a report to the Congress on each such recommendation and the action taken with respect to that recommendation.
+  (A) the findings described in subsection (a); and
 
-(2) **Personnel recommendations** — In any case in which a Board transmits a finding of reasonable cause under subsection (c), the head of the Federal agency or instrumentality receiving the information shall review the evidence and recommendations and shall, not later than 30 days after the receipt of that finding, transmit to the Congress a report specifying—
+  (B) any related recommendations.
 
-  (A) the nature of the case and a summary of the evidence transmitted by the Board; and
+(2) **Submission to Congress** — Not later than 90 days after receiving the report pursuant to paragraph (1), the Secretary of State shall submit a copy of the report to—
 
-  (B) the decision by the Federal agency or instrumentality to take disciplinary or other appropriate action against that individual or the reasons for deciding not to take disciplinary or other action with respect to that individual.
+  (A) the Committee on Foreign Relations of the Senate;
+
+  (B) the Select Committee on Intelligence of the Senate;
+
+  (C) the Committee on Appropriations of the Senate;
+
+  (D) the Committee on Foreign Affairs of the House of Representatives;
+
+  (E) the Permanent Select Committee on Intelligence of the House of Representatives; and
+
+  (F) the Committee on Appropriations of the House of Representatives.
+
+**(c) Personnel recommendations** If in the course of conducting an investigation under [section 4833 of this title](./chapter-058-diplomatic-security.md#section-4833), the investigative team finds reasonable cause to believe any individual described in [section 4833(a)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4833/a/2/D&num=0&edition=prelim) has breached the duty of that individual or finds lesser failures on the part of an individual in the performance of his or her duties related to the incident, it shall be reported to the Security Review Committee. If the Security Review Committee finds reasonable cause to support the determination, it shall be reported to the Secretary for appropriate action.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to findings and recommendations by an Accountability Review Board.
+
 2016—Subsec. (c). Pub. L. 114–323, § 104(a)(3), in concluding provisions, substituted “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual as described in this subsection” for “has breached a duty of that individual” and struck out “to the performance of the duties of that individual” after “pertinent”.
 
 Pub. L. 114–323, § 104(a)(1), in introductory provisions, substituted “If” for “Whenever” and “has engaged in misconduct or unsatisfactorily performed the duties of employment of that individual, and such misconduct or unsatisfactory performance has significantly contributed to the serious injury, loss of life, or significant destruction of property, or the serious breach of security that is the subject of the Board’s examination as described in subsection (a)” for “has breached the duty of that individual”.
@@ -590,8 +685,14 @@ Pub. L. 114–323, title I, § 104(b), Dec. 16, 2016, 130 Stat. 1910, provided t
 
 <a id="section-4835"></a>
 ## § 4835. Relation to other proceedings
+**(a) No effect on existing remedies or defenses** Nothing in this subchapter shall be construed to create administrative or judicial review remedies or rights of action not otherwise available by law, nor shall any provision of this subchapter be construed to deprive any person of any right or legal defense which would otherwise be available to that person under any law, rule, or regulation.
 
-Nothing in this subchapter shall be construed to create administrative or judicial review remedies or rights of action not otherwise available by law, nor shall any provision of this subchapter be construed to deprive any person of any right or legal defense which would otherwise be available to that person under any law, rule, or regulation.
+**(b) Future inquiries** Nothing in this subchapter may be construed to preclude the Secretary of State from convening a follow-up public board of inquiry to investigate any security incident if the incident was of such magnitude or significance that an internal process is deemed insufficient to understand and investigate the incident. All materials gathered during the procedures provided under this subchapter shall be provided to any related board of inquiry convened by the Secretary.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–263 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
 <a id="section-4851"></a>
@@ -789,7 +890,7 @@ Any amount required to complete any capital project described in the Department 
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 99–399, which enacted this subchapter and amended sections 300, 2349aa–4, 3929, and 3929a of this title, former [section 208 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section208&num=0&edition=prelim), The President, [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5. For complete classification of title IV of Pub. L. 99–399 to the Code, see Tables.
+This subchapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 99–399, which enacted this subchapter and amended sections 300, 2349aa–4, 3929, and 3929a of this title, former [section 208 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section208&num=0&edition=prelim), The President, [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees, and sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, formerly set out in the Appendix to Title 5 (see [5 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section402&num=0&edition=prelim), 424). For complete classification of title IV of Pub. L. 99–399 to the Code, see Tables.
 
 #### Amendments
 2007—Subsec. (c). Pub. L. 109–472 struck out subsec. (c). Text read as follows: “No person doing business with Libya may be eligible for any contract awarded pursuant to this Act.”
@@ -840,7 +941,7 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 ## § 4861. Inspector General for Department of State
 **(a) Direction to establish** The Congress directs the Secretary of State to proceed immediately to establish an Office of Inspector General of the Department of State not later than October 1, 1986. Not later than January 31, 1987, the Secretary of State shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives on the progress in establishing that office. Such report shall include an accounting of the obligation of funds for fiscal year 1987 for that office.
 
-**(b) Duties and responsibilities** The Inspector General of the Department of State (as established by the amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) and in the Inspector General Act of 1978.
+**(b) Duties and responsibilities** The Inspector General of the Department of State (as established by the amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987) is authorized to perform all duties and responsibilities, and to exercise the authorities, stated in [section 3929 of this title](./chapter-052-foreign-service.md#section-3929) and in chapter 4 of title 5.
 
 **(c) Earmark** Of the amounts made available for fiscal year 1987 for salaries and expenses under the heading “Administration of Foreign Affairs”, not less than $6,500,000 shall be used for the sole purpose of establishing and maintaining the Office of Inspector General of the Department of State.
 
@@ -849,14 +950,14 @@ For transfer of the functions, personnel, assets, and obligations of the United 
 ### Statutory Notes
 
 #### References in Text
-The amendment made by section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, referred to in subsec. (b), is the amendment made by section 150(a) of Pub. L. 99–93, title I, Aug. 16, 1985, 99 Stat. 427, to sections 2 and 11 of the Inspector General Act of 1978. See note below.
-
-The Inspector General Act of 1978, referred to in subsec. (b), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 150(a) of the Foreign Relations Authorization Act, Fiscal Years 1986 and 1987, referred to in subsec. (b), is section 150(a) of Pub. L. 99–93, title I, Aug. 16, 1985, 99 Stat. 427, which amended sections 2 and 11 of the Inspector General Act of 1978, Pub. L. 95–452, by adding references to the Department and Secretary of State. Subsequent to this amendment, sections 2 and 11 of the Act, which were set out in the Appendix to Title 5, Government Organization and Employees, were significantly amended, and section 11 was renumbered as section 12, prior to their repeal and restatement as sections 402 and 401, respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4207, 4208, 4361.
 
 #### Codification
 Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e), formerly subsec. (a)(5), of section 413 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees. A former subsec. (a)(6) of section 413, which amended [section 3929 of this title](./chapter-052-foreign-service.md#section-3929), was repealed by Pub. L. 99–529, title IV, § 405, Oct. 24, 1986, 100 Stat. 3020. Another subsec. (c) of section 413 amended [section 3929a of this title](./chapter-052-foreign-service.md#section-3929a).
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
+
 1987—Pub. L. 100–204 struck out former subsec. (a) designation and heading “Inspector General of Department of State”, redesignated former pars. (1) to (5) as subsecs. (a) to (e), respectively, and struck out former subsec. (b) which related to establishment of the Office of Policy and Program Review. See Codification note above.
 
 #### Evaluation of Policies and Procedures of Department of State on Protection of Classified Information at Department Headquarters
@@ -994,41 +1095,41 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 (1) **Threat assessment**
 
-  (A) *Emergency Action Plan* — The Emergency Action Plan (EAP) of each United States mission shall address the threat of large explosive attacks from vehicles and from complex attacks (as such term is defined in [section 4866 of this title](./chapter-058-diplomatic-security.md#section-4866)), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
+  (A) *Emergency Action Plan* — The Emergency Action Plan (EAP) of each United States mission shall address a range of threats, including that of large explosive attacks from vehicles and from complex attacks (as such term is defined in [section 4866 of this title](./chapter-058-diplomatic-security.md#section-4866)), and the safety of employees during such an explosive attack or such a complex attack. Such plan shall be reviewed and updated annually.
 
   (B) *Security Environment Threat List* — The Security Environment Threat List shall contain a section that addresses potential acts of international terrorism against United States diplomatic facilities based on threat identification criteria that emphasize the threat of transnational terrorism and include the local security environment, host government support, and other relevant factors such as cultural realities. Such plan shall be reviewed and updated every six months.
 
 (2) **Site selection**
 
-  (A) *In general* — In selecting a site for any new United States diplomatic facility abroad, the Secretary shall ensure that all United States Government personnel at the post (except those under the command of an area military commander) will be located on the site.
+  (A) *In general* — In selecting a site for any new United States diplomatic facility abroad in a location that has certain minimum ratings under the Security Environment Threat List as determined by the Secretary in his or her discretion, the Secretary shall ensure that all United States Government personnel at the post (except those under the command of an area military commander, personnel of the Peace Corps, and personnel of any other type or category of facility that the Secretary may identify) will be located on the site.
 
   (B) *Waiver authority*
 
-    (i) *In general* — Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.
+    (i) *In general* — Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, in consultation with, as appropriate, the head of each agency employing personnel that would not be located at the site, if applicable, determines that it is in the national interest of the United States after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions.
 
-    (ii) *Chancery or consulate building*
-
-      (I) *Authority not delegable* — The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.
-
-      (II) *Congressional notification* — Not less than 15 days prior to implementing the waiver authority under clause (i) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
+    (ii) *Chancery or consulate building* — Prior to implementing the waiver authority under clause (i) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
 
     (iii) *Report to Congress* — The Secretary shall submit to the appropriate congressional committees an annual report of all waivers under this subparagraph.
 
 (3) **Perimeter distance**
 
-  (A) *Requirement* — Each newly acquired United States diplomatic facility shall be sited not less than 100 feet from the perimeter of the property on which the facility is to be situated.
+  (A) *Requirement*
+
+    (i) *In general* — Each newly acquired United States diplomatic facility in a location that has certain minimum ratings under the Security Environment Threat List as determined by the Secretary of State in his or her discretion shall—
+
+      (I) be constructed or modified to meet the measured building blast performance standard applicable to a diplomatic facility sited not less than 100 feet from the perimeter of the property on which the facility is situated; or
+
+      (II) fulfill the criteria described in clause (ii).
+
+    (ii) *Alternative engineering equivalency standard requirement* — Each facility referred to in clause (i) may, instead of meeting the requirement under such clause, fulfill such other criteria as the Secretary is authorized to employ to achieve an engineering standard of security and degree of protection that is equivalent to the numerical perimeter distance setback described in such clause seeks to achieve.
 
   (B) *Waiver authority*
 
-    (i) *In general* — Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary determines that security considerations permit and it is in the national interest of the United States.
+    (i) *In general* — Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary determines that it is in the national interest of the United States after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions.
 
-    (ii) *Chancery or consulate building*
+    (ii) *Chancery or consulate building* — Prior to implementing the waiver authority under subparagraph (A) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
 
-      (I) *Authority not delegable* — The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.
-
-      (II) *Congressional notification* — Not less than 15 days prior to implementing the waiver authority under subparagraph (A) with respect to a chancery or consulate building, the Secretary shall notify the appropriate congressional committees in writing of the waiver and the reasons for the determination.
-
-    (iii) *Report to Congress* — The Secretary shall submit to the appropriate congressional committees an annual report of all waivers under this subparagraph.
+    (iii) *Report to Congress* — The Secretary shall submit to the appropriate congressional committees a quarterly report of all waivers under this subparagraph.
 
 (4) **Crisis management training**
 
@@ -1074,9 +1175,28 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 Section was enacted as part of the Secure Embassy Construction and Counterterrorism Act of 1999, and also as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part of the Diplomatic Security Act which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (a)(1)(A). Pub. L. 117–263, § 9301(e)(2)(A), substituted “a range of threats, including that” for “the threat”.
+
+Subsec. (a)(2)(A). Pub. L. 117–263, § 9301(e)(2)(B)(i), inserted “in a location that has certain minimum ratings under the Security Environment Threat List as determined by the Secretary in his or her discretion” after “abroad” and “, personnel of the Peace Corps, and personnel of any other type or category of facility that the Secretary may identify” after “military commander”.
+
+Subsec. (a)(2)(B)(i). Pub. L. 117–263, § 9301(e)(2)(B)(ii)(I), amended cl. (i) generally. Prior to amendment, text read as follows: “Subject to clause (ii), the Secretary of State may waive subparagraph (A) if the Secretary, together with the head of each agency employing personnel that would not be located at the site, determine that security considerations permit and it is in the national interest of the United States.”
+
+Subsec. (a)(2)(B)(ii). Pub. L. 117–263, § 9301(e)(2)(B)(ii)(II), substituted “Prior” for subcl. (I), subcl. (II) designation and heading, and “Not less than 15 days prior”. Prior to amendment, text of subcl. (I) read as follows: “The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.”
+
+Subsec. (a)(3)(A). Pub. L. 117–263, § 9301(e)(2)(C)(i), amended subpar. (A) generally. Prior to amendment, text read as follows: “Each newly acquired United States diplomatic facility shall be sited not less than 100 feet from the perimeter of the property on which the facility is to be situated.”
+
+Subsec. (a)(3)(B)(i). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(I), struck out “security considerations permit and” after “if the Secretary determines that” and inserted “after taking account of any considerations the Secretary in his or her discretion considers relevant, which may include security conditions” after “national interest of the United States”.
+
+Subsec. (a)(3)(B)(ii). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(II), substituted “Prior” for subcl. (I), subcl. (II) designation and heading, and “Not less than 15 days prior”. Prior to amendment, text of subcl. (I) read as follows: “The Secretary may not delegate the waiver authority under clause (i) with respect to a chancery or consulate building.”
+
+Subsec. (a)(3)(B)(iii). Pub. L. 117–263, § 9301(e)(2)(C)(ii)(III), substituted “a quarterly” for “an annual”.
+
 2016—Subsec. (a)(1)(A). Pub. L. 114–323, § 102(1), inserted “and from complex attacks (as such term is defined in [section 4866 of this title](./chapter-058-diplomatic-security.md#section-4866)),” after “attacks from vehicles” and “or such a complex attack” after “an explosive attack”.
 
 Subsec. (a)(7). Pub. L. 114–323, § 102(2), inserted before period at end “, including at high risk, high threat posts (as such term is defined in [section 4803 of this title](./chapter-058-diplomatic-security.md#section-4803)), including options for the deployment of additional military personnel or equipment to bolster security and rapid deployment of armed or surveillance assets in response to an attack”.
+
+#### Crisis Response Operations
+Pub. L. 118–31, div. F, title LXIV, § 6404, Dec. 22, 2023, 137 Stat. 997, provided that: “(a) In General.—Not later than 120 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State] shall institute the following changes and ensure that the following elements have been integrated into the ongoing crisis response management and response by the Crisis Management and Strategy Office:“(1) The Department [of State]’s crisis response planning and operations shall conduct, maintain, and update on a regular basis contingency plans for posts and regions experiencing or vulnerable to conflict or emergency conditions, including armed conflict, natural disasters, significant political or military upheaval, and emergency evacuations. “(2) The Department’s crisis response efforts shall be led by an individual with significant experience responding to prior crises, who shall be so designated by the Secretary. “(3) The Department’s crisis response efforts shall provide at least quarterly updates to the Secretary and other relevant senior officials, including a plan and schedule to develop contingency planning for identified posts and regions consistent with paragraph (1). “(4) The decision to develop contingency planning for any particular post or region shall be made independent of any regional bureau. “(5) The crisis response team shall develop and maintain best practices for evacuations, closures, and emergency conditions. “(b) Updates.—“(1) In general.—Not later than 180 days after the date of the enactment of this division, and every 180 days thereafter for the next five years, the Secretary shall submit to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives], the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives an update outlining the steps taken to implement this section, along with any other recommendations to improve the Department’s crisis management and response operations. “(2) Contents.—Each update submitted pursuant to paragraph (1) should include—“(A) a list of the posts whose contingency plans, including any noncombatant evacuation contingencies, has been reviewed and updated as appropriate during the preceding 180 days; and “(B) an assessment of the Secretary’s confidence that each post—“(i) has continuously reached out to United States persons in country to maintain and update contact information for as many such persons as practicable; and “(ii) is prepared to communicate with such persons in an emergency or crisis situation. “(3) Form.—Each update submitted pursuant to paragraph (1) shall be submitted in unclassified form, but may include a classified annex.”
 
 #### Inclusion of Sensitive Compartmented Information Facilities in United States Diplomatic Facilities in Cuba
 Pub. L. 114–113, div. M, title V, § 513, Dec. 18, 2015, 129 Stat. 2926, provided that: “(a) Restricted Access Space Requirement.—Each United States diplomatic facility in Cuba in which classified information will be processed or in which classified communications occur that, after the date of the enactment of this Act [Dec. 18, 2015], is constructed or undergoes a major construction upgrade shall be constructed to include a sensitive compartmented information facility. “(b) National Security Waiver.—The Secretary of State may waive the requirement under subsection (a) if the Secretary—“(1) determines that such waiver is in the national security interest of the United States; and “(2) submits a written justification for such waiver to the appropriate congressional committees not later than 90 days before exercising such waiver. “(c) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional intelligence committees [Select Committee on Intelligence of the Senate and Permanent Select Committee on Intelligence of the House of Representatives]; “(2) the Committee on Foreign Relations and the Committee on Appropriations of the Senate; and “(3) the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives.”
@@ -1088,9 +1208,13 @@ Pub. L. 113–293, title III, § 314, Dec. 19, 2014, 128 Stat. 4002, provided th
 Pub. L. 109–364, div. A, title III, § 357, Oct. 17, 2006, 120 Stat. 2163, as amended by Pub. L. 115–91, div. A, title X, § 1051(l), Dec. 12, 2017, 131 Stat. 1564, provided that: “(a) Reconciliation Required.—For each fiscal year, the Secretary of Defense shall reconcile (1) the estimate of overseas presence of the Secretary of Defense under subsection (b) for that fiscal year, with (2) the determination of the Secretary of State under section 604(e)(1) of the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113] ([22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865) note) of the total overseas presence of the Department of Defense for that fiscal year. “(b) Annual Estimate of Overseas Presence.—Not later than February 1 of each year, the Secretary of Defense shall prepare an estimate of the total number of Department of Defense overseas personnel subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)) during the fiscal year that begins on October 1 of that year.”
 
 #### Findings
+Pub. L. 117–263, div. I, title XCIII, § 9301(b), Dec. 23, 2022, 136 Stat. 3879, provided that: “Congress makes the following findings: “(1) The Secure Embassy Construction and Counterterrorism Act of 1999 (title VI of division A of appendix G of Public Law 106–113 [113 Stat. 1501A–451; see Short Title of 1999 Amendment note set out under [section 4801 of this title](./chapter-058-diplomatic-security.md#section-4801)]) was a necessary response to bombings on August 7, 1998, at the United States embassies in Nairobi, Kenya, and in Dar es Salaam, Tanzania, that were destroyed by simultaneously exploding bombs. The resulting explosions killed 220 persons and injured more than 4,000 others. Twelve Americans and 40 Kenyan and Tanzanian employees of the United States Foreign Service were killed in the attacks. “(2) Those bombings, followed by the expeditionary diplomatic efforts in Iraq and Afghanistan, demonstrated the need to prioritize the security of United States posts and personnel abroad above other considerations. “(3) Between 1999 and 2022, the risk calculus of the Department [of State] impacted the ability of United States diplomats around the world to advance the interests of the United States through access to local populations, leaders, and places. “(4) America’s competitors and adversaries do not have the same restrictions that United States diplomats have, especially in critically important medium-threat and high-threat posts. “(5) The Department’s 2021 Overseas Security Panel report states that—“(A) the requirement for setback and collocation of diplomatic posts under paragraphs (2) and (3) of section 606(a) of the Secure Embassy Construction and Counterterrorism Act of 1999 ([22 U.S.C. 4865(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4865/a&num=0&edition=prelim)) has led to skyrocketing costs of new embassies and consulates; and “(B) the locations of such posts have become less desirable, creating an extremely suboptimal nexus that further hinders United States diplomats who are willing to accept more risk in order to advance United States interests.”
+
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 602], Nov. 29, 1999, 113 Stat. 1536, 1501A–451, provided that: “Congress makes the following findings: “(1) On August 7, 1998, the United States embassies in Nairobi, Kenya, and in Dar es Salaam, Tanzania, were destroyed by simultaneously exploding bombs. The resulting explosions killed 220 persons and injured more than 4,000 others. Twelve Americans and 40 Kenyan and Tanzanian employees of the United States Foreign Service were killed in the attack. “(2) The United States personnel in both Dar es Salaam and Nairobi showed leadership and personal courage in their response to the attacks. Despite the havoc wreaked upon the embassies, staff in both embassies provided rapid response in locating and rescuing victims, providing emergency assistance, and quickly restoring embassy operations during a crisis. “(3) The bombs are believed to have been set by individuals associated with Osama bin Laden, leader of a known transnational terrorist organization. In February 1998, bin Laden issued a directive to his followers that called for attacks against United States interests anywhere in the world. “(4) Threats continue to be made against United States diplomatic facilities. “(5) Accountability Review Boards were convened following the bombings, as required by Public Law 99–399 [see Tables for classification], chaired by Admiral William J. Crowe, United States Navy (Ret.) (in this section referred to as the ‘Crowe panels’). “(6) The conclusions of the Crowe panels were strikingly similar to those stated by the Commission chaired by Admiral Bobby Ray Inman, which issued an extensive embassy security report in 1985. “(7) The Crowe panels issued a report setting out many problems with security at United States diplomatic facilities, in particular the following:“(A) The United States Government has devoted inadequate resources to security against terrorist attacks. “(B) The United States Government places too low a priority on security concerns. “(8) The result has been a failure to take adequate steps to prevent tragedies such as the bombings in Kenya and Tanzania. “(9) The Crowe panels found that there was an institutional failure on the part of the Department of State to recognize threats posed by transnational terrorism and vehicular bombs. “(10) Responsibility for ensuring adequate resources for security programs is widely shared throughout the United States Government, including Congress. Unless the vulnerabilities identified by the Crowe panels are addressed in a sustained and financially realistic manner, the lives and safety of United States employees in diplomatic facilities will continue to be at risk from further terrorist attacks. “(11) Although service in the Foreign Service or other United States Government positions abroad can never be completely without risk, the United States Government must take all reasonable steps to minimize security risks.”
 
 #### Authorizations of Appropriations
+Pub. L. 117–263, div. I, title XCVIII, § 9801, Dec. 23, 2022, 136 Stat. 3923, provided that: “For the purposes of calculating the costs of providing new United States diplomatic facilities in any fiscal year, in accordance with section 604(e) of the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI]] ([22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865) note), the Secretary of State, in consultation with the Director of the Office of Management and Budget, shall determine the annual program level and agency shares for such fiscal year in a manner that is proportional to the contribution of the Department of State for this purpose.”
+
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 604], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, § 111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356; Pub. L. 108–447, div. B, title VI, § 629, Dec. 8, 2004, 118 Stat. 2920; Pub. L. 112–74, div. I, title VII, § 7004(e), Dec. 23, 2011, 125 Stat. 1194; Pub. L. 114–323, title I, § 111(b), Dec. 16, 2016, 130 Stat. 1910, provided that: “(a) Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated by this or any other Act, there are authorized to be appropriated for ‘Embassy Security, Construction and Maintenance’—“(1) for fiscal year 2000, $900,000,000; “(2) for fiscal year 2001, $900,000,000; “(3) for fiscal year 2002, $900,000,000; “(4) for fiscal year 2003, $1,000,000,000; and “(5) for fiscal year 2004, $900,000,000. “(b) Purposes.—Funds made available under the ‘Embassy Security, Construction, and Maintenance’ account may be used only for the purposes of—“(1) the acquisition of United States diplomatic facilities and, if necessary, any residences or other structures located in close physical proximity to such facilities, or “(2) the provision of major security enhancements to United States diplomatic facilities, to the extent necessary to bring the United States Government into compliance with all requirements applicable to the security of United States diplomatic facilities, including the relevant requirements set forth in section 606 [[22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865)]. “(c) Availability of Authorizations.—Authorizations of appropriations under subsection (a) shall remain available until the appropriations are made. “(d) Availability of Funds.—Amounts appropriated pursuant to subsection (a) are authorized to remain available until expended. “(e) Capital Security Cost Sharing.—“(1) Authority.—Notwithstanding any other provision of law, all agencies with personnel overseas subject to chief of mission authority pursuant to section 207 of the Foreign Service Act of 1980 ([22 U.S.C. 3927](./chapter-052-foreign-service.md#section-3927)) shall participate and provide funding in advance for their share of costs of providing, maintaining, repairing, and renovating safe, secure United States diplomatic facilities, without offsets, on the basis of the total overseas presence of each agency as determined annually by the Secretary of State in consultation with such agency. Amounts advanced by such agencies to the Department of State shall be credited to the Embassy Security, Construction and Maintenance account, and remain available until expended. “(2) Implementation.—Implementation of this subsection shall be carried out in a manner that encourages right-sizing of each agency’s overseas presence. A project to construct a diplomatic facility of the United States may not include office space or other accommodations for an employee of a Federal department or agency to the extent that the Secretary of State determines that such department or agency has not provided to the Department of State the full amount of funding required under paragraph (1), notwithstanding any authorization and appropriation of relevant funds by Congress. “(3) Exclusion.—For purposes of this subsection ‘agency’ does not include the Marine Security Guard.”
 
 #### Obligations and Expenditures
@@ -1099,7 +1223,7 @@ Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 605], Nov. 29, 19
 #### Definitions
 For definitions of the terms “Secretary” and “appropriate congressional committees” used in this section and in section 1000(a)(7) [div. A, title VI, § 605] of Pub. L. 106–113, set out as a note above, see section 1000(a)(7) [§ 3] of Pub. L. 106–113, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 603], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, provided that: “In this title [enacting this section, amending [section 4831 of this title](./chapter-058-diplomatic-security.md#section-4831), and enacting provisions set out as notes above], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office notified to the host government as diplomatic or consular premises in accordance with the Vienna Conventions on Diplomatic and Consular Relations, or otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI, § 603], Nov. 29, 1999, 113 Stat. 1536, 1501A–452, as amended by Pub. L. 117–263, div. I, title XCIII, § 9301(d), Dec. 23, 2022, 136 Stat. 3880, provided that: “In this title [enacting this section, amending [section 4831 of this title](./chapter-058-diplomatic-security.md#section-4831), and enacting provisions set out as notes above], the terms ‘United States diplomatic facility’ and ‘diplomatic facility’ mean any chancery, consulate, or other office that— “(1) is considered by the Secretary of State to be diplomatic or consular premises, consistent with the Vienna Convention on Diplomatic Relations, done at Vienna April 18, 1961, and the Vienna Convention on Consular Relations, done at Vienna April 24, 1963, and was notified to the host government as such; or “(2) is otherwise subject to a publicly available bilateral agreement with the host government (contained in the records of the United States Department of State) that recognizes the official status of the United States Government personnel present at the facility.”
 
 #### Delegation of Authority
 Memorandum of President of the United States, July 17, 2000, 65 F.R. 45511, provided:

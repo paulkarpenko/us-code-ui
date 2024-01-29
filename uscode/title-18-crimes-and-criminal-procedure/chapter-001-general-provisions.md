@@ -16,8 +16,28 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 #### Effective Date of Repeal
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–78, § 1, July 30, 2024, 138 Stat. 1512, provided that: “This Act [enacting [section 1352 of this title](./chapter-063-mail-fraud-and-other-fraud-offenses.md#section-1352) and amending [section 201 of this title](./chapter-011-bribery-graft-and-conflicts-of-interest.md#section-201)] may be cited as the ‘Foreign Extortion Prevention Technical Corrections Act’.”
+
+Pub. L. 118–77, § 1, July 30, 2024, 138 Stat. 1510, provided that: “This Act [amending [section 3663A of this title](./chapter-232-miscellaneous-sentencing-provisions.md#section-3663a)] may be cited as the ‘Victims’ Voices Outside and Inside the Courtroom Effectiveness Act’ or the ‘Victims’ VOICES Act’.”
+
+Pub. L. 118–59, § 1, May 7, 2024, 138 Stat. 1014, provided that: “This Act [amending sections 2258A and 2258B of this title and enacting provisions set out as notes under sections 2258A and 2258B of this title] may be cited as the ‘Revising Existing Procedures On Reporting via Technology Act’ or the ‘REPORT Act’.”
+
+Pub. L. 118–42, div. G, title III, § 302(a), Mar. 9, 2024, 138 Stat. 451, provided that: “This section [enacting provisions set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Additional Extension Act of 2024’.”
+
+#### Short Title of 2023 Amendment
+Pub. L. 118–31, div. E, title LI, § 5102(a), Dec. 22, 2023, 137 Stat. 933, provided that: “This section [amending sections 2423 and 2427 of this title and enacting provisions set out as a note under [section 2423 of this title](./chapter-117-transportation-for-illegal-sexual-activity-and-related-crimes.md#section-2423)] may be cited as the ‘Preventing Child Sex Abuse Act of 2023’.”
+
+Pub. L. 117–351, § 1, Jan. 5, 2023, 136 Stat. 6265, provided that: “This Act [amending [section 2441 of this title](./chapter-118-war-crimes.md#section-2441)] may be cited as the ‘Justice for Victims of War Crimes Act’.”
+
 #### Short Title of 2022 Amendment
-Pub. L. 117–229, div. B, title I, § 103(a), Dec. 16, 2022, 136 Stat. 2309, provided that: “This section [enacting provisions set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Further Extension Act of 2022’.”
+Pub. L. 117–328, div. O, title VIII, § 801(a), Dec. 29, 2022, 136 Stat. 5232, provided that: “This section [enacting provisions set out as notes under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Additional Extension Act of 2022’.”
+
+Pub. L. 117–272, § 1, Dec. 27, 2022, 136 Stat. 4181, provided that: “This Act [amending [section 879 of this title](./chapter-041-extortion-and-threats.md#section-879)] may be cited as the ‘21st Century President Act’.”
+
+Pub. L. 117–264, div. B, title I, § 103(a), Dec. 23, 2022, 136 Stat. 4168, provided that: This section [enacting provisions set out as notes under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Further Additional Extension Act of 2022’.”
+
+Pub. L. 117–229, div. B, title I, § 103(a), Dec. 16, 2022, 136 Stat. 2309, which provided that section 103 of Pub. L. 117–229 could be cited as the “United States Parole Commission Further Extension Act of 2022”, was rendered ineffective by Pub. L. 117–264, div. B, title I, § 103(d), Dec. 23, 2022, 136 Stat. 4168, set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551).
 
 Pub. L. 117–180, div. C, title I, § 103(a), Sept. 30, 2022, 136 Stat. 2133, provided that: “This section [enacting provisions set out as a note under [section 3551 of this title](./chapter-227-sentences.md#section-3551)] may be cited as the ‘United States Parole Commission Extension Act of 2022’.”
 

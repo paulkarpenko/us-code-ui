@@ -783,7 +783,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title I of the Railway Labor Act is classified principally to subchapter I (§ 151 et seq.) of chapter 8 of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (a), is act May 20, 1926, ch. 347, 44 Stat. 577. Title I of the Railway Labor Act is classified principally to subchapter I (§ 151 et seq.) of chapter 8 of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Pub. L. 98–353, title III, § 541(c), July 10, 1984, 98 Stat. 391, provided that: “The amendments made by this section [enacting this section] shall become effective upon the date of enactment of this Act [July 10, 1984]; provided that this section shall not apply to cases filed under title 11 of the United States Code which were commenced prior to the date of enactment of this section.”
@@ -2147,7 +2147,7 @@ Section 5 of the Securities Act of 1933, referred to in subsec. (a), is classifi
 
 Sections 13 and 15(d) of the Securities Exchange Act of 1934, referred to in subsec. (a)(3)(B)(i), are classified to sections 78m and 78o(d), respectively, of Title 15, Commerce and Trade.
 
-The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, as amended, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
+The Trust Indenture Act of 1939, referred to in subsec. (d), is title III of act May 27, 1933, ch. 38, as added Aug. 3, 1939, ch. 411, 53 Stat. 1149, which is classified generally to subchapter III (§ 77aaa et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77aaa&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Subsec. (b). Pub. L. 111–327 substituted “2(a)(11)” for “2(11)” wherever appearing.
@@ -2383,7 +2383,7 @@ Section 1176 [enacted as section 1167] is derived from present section 77(n) [se
 Section 1167 is derived from present section 77(n) [section 205(n) of former title 11]. It provides that notwithstanding the general section governing the rejection of executory contracts (section 365), neither the court nor the trustee may change the wages or working conditions of employees of the debtor established by a collective bargaining agreement that is subject to the Railway Labor Act [[45 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) et seq.], except in accordance with section 6 of that Act [[45 U.S.C. 156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section156&num=0&edition=prelim)]. The subject of railway labor is too delicate and has too long a history for this code to upset established relationships. The balance has been struck over the years. This provision continues that balance unchanged.
 
 #### References in Text
-The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. Section 6 of the Act is classified to [section 156 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section156&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in text, is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. Section 6 of the Act is classified to [section 156 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section156&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–394 struck out “([45 U.S.C. 151](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) et seq.)” after “Railway Labor Act” and “([45 U.S.C. 156](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section156&num=0&edition=prelim))” after “such Act”.
@@ -2754,7 +2754,7 @@ In this subchapter:
 ### Statutory Notes
 
 #### Amendment of Paragraph (1)
-Pub. L. 117–151, § 2(a)(1)(B), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, paragraph (1) of this section is amended to read as follows:
+Pub. L. 117–151, § 2(i)(1)(B), June 21, 2022, 136 Stat. 1300, provided that, effective 2 years after June 21, 2022, paragraph (1) of this section is amended to read as follows:
 
 (1) Debtor.—The term “debtor” means a small business debtor.
 
@@ -2770,9 +2770,9 @@ Pub. L. 117–151, § 2(d), amended par. (1) generally. Prior to amendment, text
 Pub. L. 116–136, § 1113(a)(1), temporarily amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘debtor’ means a small business debtor.”
 
 #### Effective Date of 2022 Amendment
-Amendment by section 2(d) of Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and, with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+Amendment by section 2(d) of Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
-Pub. L. 117–151, § 2(i), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(B) is effective on the date that is 2 years after June 21, 2022.
+Pub. L. 117–151, § 2(i)(1), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(B) is effective on the date that is 2 years after June 21, 2022.
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. A, title I, § 1113(a)(3), Mar. 27, 2020, 134 Stat. 311, provided that: “The amendment made by paragraph (1) [amending this section] shall apply only with respect to cases commenced under title 11, United States Code, on or after the date of enactment of this Act [Mar. 27, 2020].”
@@ -2827,7 +2827,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 2022—Subsec. (b)(5). Pub. L. 117–151 substituted “possession—” for “possession,”, designated remainder of existing provisions as subpar. (A), struck out “, including operating the business of the debtor” after “1106(a) of this title”, inserted “and” at end, and added subpar. (B).
 
 #### Effective Date of 2022 Amendment
-Amendment by Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and, with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+Amendment by Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective Date
 Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–54, set out as an Effective Date of 2019 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -2993,7 +2993,7 @@ Section effective 180 days after Aug. 23, 2019, see section 5 of Pub. L. 116–5
 Pub. L. 116–260, § 320(c), added subsec. (f).
 
 #### Effective Date of 2022 Amendment
-Amendment by Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and, with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
+Amendment by Pub. L. 117–151 applicable with respect to any case that is commenced under this title on or after Mar. 27, 2020, and with respect to a case that was commenced on or after Mar. 27, 2020, and before June 21, 2022, that is pending on June 21, 2022, see section 2(h)(2) of Pub. L. 117–151, set out as an Effective Date of 2022 Amendment; Retroactive Application note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
 
 #### Effective and Termination Dates of 2020 Amendment
 Amendment by section 320(c) of div. N of Pub. L. 116–260 effective on the date on which the Administrator of the Small Business Administration submits to the Director of the Executive Office for United States Trustees a written determination relating to loan eligibility under pars. (36) and (37) of [section 636(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), Commerce and Trade, and applicable to any case pending on or commenced on or after such date, and amendment by section 320(f)(2)(A)(iii) of div. N of Pub. L. 116–260, relating to repeal of such amendment if it became effective, effective two years after Dec. 27, 2020, see section 320(f) of Pub. L. 116–260, set out as a note under [section 364 of this title](./chapter-003-case-administration.md#section-364).

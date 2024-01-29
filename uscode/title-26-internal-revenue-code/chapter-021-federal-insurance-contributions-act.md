@@ -729,7 +729,7 @@ Nothing in the regulations prescribed for purposes of chapter 24 (relating to in
 
     (iii) in a position to which the individual is appointed by the President (or his designee) or the Vice President under section 105(a)(1), 106(a)(1), or 107 (a)(1) or (b)(1) of title 3, United States Code, if the maximum rate of basic pay for such position is at or above the rate for level V of the Executive Schedule,
 
-  (E) service performed as the Chief Justice of the United States, an Associate Justice of the Supreme Court, a judge of a United States court of appeals, a judge of a United States district court (including the district court of a territory), a judge of the United States Court of Federal Claims, a judge of the United States Court of International Trade, a judge of the United States Tax Court, a United States magistrate judge, or a referee in bankruptcy or United States bankruptcy judge,
+  (E) service performed as the Chief Justice of the United States, an Associate Justice of the Supreme Court, a judge of a United States court of appeals, a judge of a United States district court (including the district court of a territory), a judge of the United States Court of Federal Claims, a judge of the United States Court of International Trade, a judge or special trial judge of the United States Tax Court, a United States magistrate judge, or a referee in bankruptcy or United States bankruptcy judge,
 
   (F) service performed as a Member, Delegate, or Resident Commissioner of or to the Congress,
 
@@ -1225,7 +1225,7 @@ The term does not include a temporary member of the Coast Guard Reserve.
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(1), (15), (b), (d)(4), (j)(2)(D), (4)(B), (l)(1), (4), (6), (r)(3)(A), (u), (w)(1), and (x), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 201, 210, 215, 218, 218A, 223, 230, and 233 of the Act are classified to sections 401, 410, 415, 418, 418a, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a)(1), (15), (b), (d)(4), (j)(2)(D), (4)(B), (l)(1), (4), (6), (r)(3)(A), (u), (w)(1), and (x), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 201, 210, 215, 218, 218A, 223, 230, and 233 of the Act are classified to sections 401, 410, 415, 418, 418a, 423, 430, and 433, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 3(2)(B)(ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(5)(F), is classified to [section 1002(2)(B)(ii) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/2/B/ii&num=0&edition=prelim), Labor.
 
@@ -1237,13 +1237,13 @@ Section 301 of the Federal Employees’ Retirement System Act of 1986, referred 
 
 The Federal Employees’ Retirement System Open Enrollment Act of 1997, referred to in subsec. (b)(5)(H)(i), is section 642 of Pub. L. 105–61, title VI, Oct. 10, 1997, 111 Stat. 1318, which is classified principally to a note under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (b)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. Section 860 of the Act is classified to [section 4071i of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4071i&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (b)(5)(H)(ii), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Subchapter II of chapter 8 of title I of the Act is classified generally to part II (§ 4071 et seq.) of subchapter VIII of chapter 52 of Title 22, Foreign Relations and Intercourse. Section 860 of the Act is classified to [section 4071i of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4071i&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 Section 101(a)(15) of the Immigration and Nationality Act, referred to in subsec. (b)(18), (19), is classified to [section 1101(a)(15) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15&num=0&edition=prelim), Aliens and Nationality.
 
 Section 15(g) of the Agricultural Marketing Act, referred to in subsec. (g)(3), is classified to [section 1141j of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1141j&num=0&edition=prelim), Banks and Banking.
 
-The Peace Corps Act, referred to in subsecs. (i)(3), (p), is Pub. L. 87–293, title I, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of the Peace Corps Act are classified to sections 2504 and 2505 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in subsecs. (i)(3), (p), is Pub. L. 87–293, title I, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of the Peace Corps Act are classified to sections 2504 and 2505 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (j)(4)(B), was comprised of sections 1400 to 1636 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). See also [section 7851(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/a/3&num=0&edition=prelim) for applicability of chapter 9 of former Title 26. See also [section 7851(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/e&num=0&edition=prelim) for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
@@ -1253,6 +1253,8 @@ The Military Selective Service Act, referred to in subsec. (n)(5)(B), is act Jun
 For information regarding constitutionality of certain provisions of this section, see note under [section 410 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section410&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2022—Subsec. (b)(5)(E). Pub. L. 117–328 inserted “or special trial judge” before “of the United States Tax Court”.
+
 2019—Subsec. (a)(23). Pub. L. 116–94 substituted “section 139B(a)” for “139B(b)”.
 
 2018—Subsec. (b)(5)(B)(i)(V). Pub. L. 115–141, § 401(a)(209), substituted “section 104(e)(2)” for “section 105(e)(2)”.
@@ -2188,7 +2190,7 @@ In the case of the taxes imposed by this chapter with respect to service perform
 ### Statutory Notes
 
 #### References in Text
-The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in text, is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Pub. L. 109–241 substituted “Secretary of the Department in which the Coast Guard is operating” for “Secretary of Transportation” in two places.

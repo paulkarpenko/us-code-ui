@@ -83,7 +83,7 @@ Subsec. (b). Pub. L. 85–861 substituted provisions relating to designations an
 Subsecs. (c), (d). Pub. L. 85–861 added subsecs. (c) and (d).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -288,7 +288,7 @@ Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see sectio
 Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneous payment of travel and transportation allowances made on or after Dec. 28, 1985, see section 4 of Pub. L. 99–224, set out as a note under [section 5584 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5584&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Cancellation of Debts Up To $2,500 of Uniformed Service Members Incurred in Connection With Operation Desert Shield/Storm
 Pub. L. 104–61, title VIII, § 8052, Dec. 1, 1995, 109 Stat. 662, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, when he considers it in the best interest of the United States, cancel any part of an indebtedness, up to $2,500, that is or was owed to the United States by a member or former member of a uniformed service if such indebtedness, as determined by the Secretary, was incurred in connection with Operation Desert Shield/Storm: Provided, That the amount of an indebtedness previously paid by a member or former member and cancelled under this section shall be refunded to the member.”
@@ -373,7 +373,7 @@ Subsec. (e). Pub. L. 98–407 redesignated former subsec. (d) as (e)(1), substit
 1982—Subsec. (c). Pub. L. 97–214, § 10(a)(6), substituted “Military Family Housing Management Account provided for in [section 2831 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2831)” for “family housing management account established under section 501 of Public Law 87–554 (76 Stat. 236; [42 U.S.C. 1594a–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1594a–1&num=0&edition=prelim))”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date, see section 12(a) of Pub. L. 97–214, set out as an Effective Date note under [section 2801 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2801).

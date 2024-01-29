@@ -856,7 +856,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 Section effective Sept. 7, 1974, except that subsec. (b)(5), (6) effective at close of thirty-first day of twelfth calendar month of 1974, and subsec. (l) effective at close of thirtieth day of eleventh calendar month of 1976, see section 263(a), (b) of Pub. L. 93–415, repealed by Pub. L. 100–690, title VII, § 7266(2), Nov. 18, 1988, 102 Stat. 4449, formerly set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the end of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-11115"></a>
@@ -1012,9 +1012,6 @@ Subsec. (d). Pub. L. 95–115, § 3(d)(3), substituted “four” for “six”.
 Subsec. (e). Pub. L. 95–115, § 3(d)(4), redesignated former par. (3) as entire subsec. (e) and, as so redesignated, inserted “or staff support” after “personnel” and substituted “Associate Administrator” for “Executive Secretary”. Former pars. (1) and (2), which related to appointment and responsibilities of the Executive Secretary, respectively, were struck out.
 
 1976—Subsec. (a)(1). Pub. L. 94–237 substituted “Office of Drug Abuse Policy” for “Special Action Office for Drug Abuse Prevention”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
@@ -2328,7 +2325,7 @@ Pub. L. 95–115, § 4(c)(6)(B), Oct. 3, 1977, 91 Stat. 1053, provided in part t
 Pub. L. 102–586, § 2(f)(3)(B), Nov. 4, 1992, 106 Stat. 4994, provided that: “Notwithstanding the amendment made by subparagraph (A)(ii) [amending this section], section 223(c)(3) of the Juvenile Justice and Delinquency Prevention Act of 1974 ([42 U.S.C. 5633(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5633/c/3&num=0&edition=prelim)) [now [34 U.S.C. 11133(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11133/c/3&num=0&edition=prelim)], as in effect on the day prior to the date of enactment of this Act [Nov. 4, 1992], shall remain in effect to the extent that it provides the Administrator authority to grant a waiver with respect to a fiscal year prior to a fiscal year beginning before January 1, 1993.”
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-11141-to-11146"></a>
@@ -3772,6 +3769,9 @@ Section was formerly classified to [section 5714–25 of Title 42](https://uscod
 #### Prior Provisions
 A prior section 345 of title III of Pub. L. 93–415, as added Pub. L. 106–71, § 3(i), Oct. 12, 1999, 113 Stat. 1038, related to study of runaways to determine the percent who have been sexually abused, prior to repeal by Pub. L. 108–96, title I, § 115, Oct. 10, 2003, 117 Stat. 1170.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-11272"></a>
 ## § 11272. Authority to make grants
@@ -3923,9 +3923,6 @@ Subsec. (b). Pub. L. 101–204, § 1003(2), substituted “Not later than 180 da
 Subsec. (b). Pub. L. 100–690, § 7273(c)(3), added subsec. (b).
 
 1980—Pub. L. 96–509 substituted “centers” for “houses”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in this section, see section 7296(a), (b)(3) of Pub. L. 100–690, set out as a note under [section 11101 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11101).
@@ -4228,9 +4225,11 @@ For the purpose of this subchapter—
 
 (2) the term “Administrator” means the Administrator of the Office of Juvenile Justice and Delinquency Prevention;
 
-(3) the term “Center” means the National Center for Missing and Exploited Children; and
+(3) the term “Center” means the National Center for Missing and Exploited Children;
 
-(4) the term “parent” includes a legal guardian or other individual who may lawfully exercise parental rights with respect to the child.
+(4) the term “parent” includes a legal guardian or other individual who may lawfully exercise parental rights with respect to the child; and
+
+(5) the term “child sexual abuse material” has the meaning given the term “child pornography” in [section 2256 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2256&num=0&edition=prelim); 11 So in original. The semicolon probably should be a period.
 
 ### Statutory Notes
 
@@ -4241,6 +4240,8 @@ Section was formerly classified to [section 5772 of Title 42](https://uscode.hou
 A prior section 403 of Pub. L. 93–415 amended [section 3883 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3883&num=0&edition=prelim), The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+2024—Par. (5). Pub. L. 118–65 added par. (5).
+
 2018—Par. (1). Pub. L. 115–267, § 2(b)(1), and Pub. L. 115–393, § 202(b)(1), amended section identically, adding par. (1) and striking out former par. (1) which read as follows: “the term ‘missing child’ means any individual less than 18 years of age whose whereabouts are unknown to such individual’s legal custodian;”.
 
 Par. (4). Pub. L. 115–267, § 2(b)(2)–(4), and Pub. L. 115–393, § 202(b)(2)–(4), amended section identically, adding par. (4).
@@ -4283,7 +4284,7 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
   (D) describing how the Administrator satisfied the requirements of paragraph (4) in the preceding fiscal year;
 
-  (E) describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free hotline established under subsection (b)(1)(A), the number and types of communications referred to the national communications system established under [section 11231 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11231), and the number and types of reports to the tipline established under subsection (b)(1)(K)(i);
+  (E) describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free hotline established under subsection (b)(1)(A), the number and types of communications referred to the national communications system established under [section 11231 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11231), and the number and types of reports to the CyberTipline established under subsection (b)(1)(K)(i);
 
   (F) describing in detail the activities in the preceding fiscal year of the national resource center and clearinghouse established under subsection (b)(2);
 
@@ -4307,9 +4308,15 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
   (A)
 
-    (i) operate a national 24-hour toll-free hotline by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s parent; and
+    (i) operate a national 24-hour toll-free call center to which individuals may—
 
-    (ii) coordinate the operation of such hotline with the operation of the national communications system referred to in part C of subchapter III;
+      (I) report child sexual exploitation and the location of any missing child; and
+
+      (II) request information pertaining to procedures necessary to reunite such child with such child’s parent;
+
+    (ii) manage the AMBER Alert Secondary Distribution Program; and
+
+    (iii) coordinate the operation of such hotline with the operation of the national communications system referred to in part C of subchapter III;
 
   (B) operate the official national resource center and information clearinghouse for missing and exploited children;
 
@@ -4321,7 +4328,7 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
     (iii) innovative and model programs, services, and legislation that benefit missing and exploited children;
 
-  (D) coordinate public and private programs that locate, recover, or reunite missing children with their families;
+  (D) coordinate public and private programs that locate, recover, or reunite missing children with their parents;
 
   (E) provide technical assistance and training to families, law enforcement agencies, State and local governments, elements of the criminal justice system, nongovernmental agencies, local educational agencies, and the general public—
 
@@ -4331,31 +4338,47 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
     (iii) in the identification, location, and recovery of victims of, and children at risk for, child sex trafficking;
 
-  (F) provide assistance to families, law enforcement agencies, State and local governments, nongovernmental agencies, child-serving professionals, and other individuals involved in the location and recovery of missing and abducted children nationally and, in cooperation with the Department of State, internationally;
+  (F) provide assistance to parents, law enforcement agencies, State and local governments, nongovernmental agencies, child-serving professionals, and other individuals involved in the location and recovery of missing and abducted children nationally and, in cooperation with the Department of State, internationally;
 
-  (G) provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;
+  (G) provide technical assistance and case-related resources, including—
 
-  (H) provide forensic and direct on-site technical assistance and consultation to families, law enforcement agencies, child-serving professionals, and nongovernmental organizations in child abduction and exploitation cases, including facial reconstruction of skeletal remains and similar techniques to assist in the identification of unidentified deceased children;
+    (i) referrals to—
 
-  (I) provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;
+      (I) child-serving professionals involved in helping to recover missing and exploited children; and
 
-  (J) facilitate the deployment of the National Emergency Child Locator Center to assist in reuniting missing children with their families during periods of national disasters;
+      (II) law enforcement officers in their efforts to identify, locate, and recover missing and exploited children; and
+
+    (ii) searching public records databases and publicly accessible open source data to—
+
+      (I) locate and identify potential abductors and offenders involved in attempted or actual abductions; and
+
+      (II) identify, locate, and recover abducted children;
+
+  (H) provide forensic and direct on-site technical assistance and consultation to families, law enforcement agencies, child-serving professionals, and nongovernmental organizations in child abduction and exploitation cases, including facial reconstruction of skeletal remains and similar techniques to assist on long-term missing child cases in the identification of unidentified deceased children;
+
+  (I) provide education, technical assistance, and information to—
+
+    (i) nongovernmental organizations with respect to procedures and resources to conduct background checks on individuals working with children; and
+
+    (ii) law enforcement agencies with respect to identifying and locating noncompliant sex offenders;
+
+  (J) facilitate the deployment of the National Emergency Child Locator Center to assist in reuniting missing children with their parents during periods of national disasters;
 
   (K) work with families, law enforcement agencies, electronic service providers, electronic payment service providers, technology companies, nongovernmental organizations, and others on methods to reduce the existence and distribution of online images and videos of sexually exploited children—
 
-    (i) by operating a tipline to—
+    (i) by operating a CyberTipline to—
 
       (I) provide to individuals and electronic service providers an effective means of reporting internet-related and other instances of child sexual exploitation in the areas of—
 
-        (aa) possession, manufacture, and distribution of child pornography;
+        (aa) possession, manufacture, and distribution of child sexual abuse material;
 
         (bb) online enticement of children for sexual acts;
 
         (cc) child sex trafficking;
 
-        (dd) sex tourism involving children;
+        (dd) extraterritorial child sexual abuse and exploitation;
 
-        (ee) extra-familial child sexual molestation;
+        (ee) child sexual molestation;
 
         (ff) unsolicited obscene material sent to a child;
 
@@ -4363,25 +4386,47 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
         (hh) misleading words or digital images on the internet; and
 
-      (II) make reports received through the tipline available to the appropriate law enforcement agency for its review and potential investigation;
+      (II) make reports received through the CyberTipline available to the appropriate law enforcement agency for its review and potential investigation; and
 
-    (ii) by operating a child victim identification program to assist law enforcement agencies in identifying victims of child pornography and other sexual crimes to support the recovery of children from sexually exploitative situations; and
+    (ii) by operating a child victim identification program to assist law enforcement agencies in identifying victims of child sexual abuse material and other sexual crimes and to support the recovery of children from sexually exploitative situations, including by providing information on legal remedies available to such victims;
 
-    (iii) by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;
+  (L) provide support services, consultation, and assistance to missing and sexually exploited children, parents, their families, and child-serving professionals on—
 
-  (L) develop and disseminate programs and information to families, child-serving professionals, law enforcement agencies, State and local governments, nongovernmental organizations, schools, local educational agencies, child-serving organizations, and the general public on—
+    (i) recovery support, including counseling recommendations and community support;
 
-    (i) the prevention of child abduction and sexual exploitation;
+    (ii) family and peer support;
 
-    (ii) internet safety, including tips for social media and cyberbullying; and
+    (iii) requesting the removal of child sexual abuse material and sexually exploitive content depicting children from the internet, including by assisting with requests to providers (as defined in [section 2258E of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2258E&num=0&edition=prelim)) to remove visual depictions of victims that—
 
-    (iii) sexting and sextortion;
+      (I) constitute or are associated with child sexual abuse material; or
 
-  (M) provide technical assistance and training to local educational agencies, schools, State and local law enforcement agencies, individuals, and other nongovernmental organizations that assist with finding missing and abducted children in identifying and recovering such children;
+      (II) do not constitute child sexual abuse material but are sexually suggestive;
 
-  (N) assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
+  (M) develop and disseminate programs and educational information to families, child-serving professionals, law enforcement agencies, State and local governments, nongovernmental organizations, schools, local educational agencies, child-serving organizations, and the general public on—
 
-  (O) provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
+    (i) the prevention of missing children and child sexual exploitation; and
+
+    (ii) internet safety, including tips and strategies to promote safety for children using technology (including social media) and reduce risk relating to—
+
+      (I) cyberbullying;
+
+      (II) child sex trafficking;
+
+      (III) youth-produced child sexual abuse material or sexting;
+
+      (IV) sextortion; and
+
+      (V) online enticement;
+
+  (N) provide technical assistance and training to local educational agencies, schools, State and local law enforcement agencies, individuals, and other nongovernmental organizations that assist with finding missing and abducted children in identifying and recovering such children and preventing child sexual exploitation;
+
+  (O) coordinate with and provide technical assistance to Federal, State, and local government agencies relating to cases of children missing from a State or Tribal child welfare system and assist the efforts of law enforcement agencies and State and Tribal child welfare agencies in—
+
+    (i) coordinating to ensure the reporting, documentation, and resolution of cases involving children missing from a State or Tribal child welfare system; and
+
+    (ii) responding to foster children missing from a State or Tribal child welfare system; and
+
+  (P) provide technical assistance and recovery support services to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
 
 (2) **Limitation**
 
@@ -4395,9 +4440,11 @@ Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal
 
 **(c) National incidence studies** The Administrator, either by making grants to or entering into contracts with public agencies or nonprofit private agencies, shall—
 
-(1) triennially conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnappings, and the number of children who are recovered each year; and
+(1) triennially conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnappings, and the number of children who are recovered each year;
 
-(2) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates, in compliance with the Family Educational Rights and Privacy Act of 1974 ([20 U.S.C. 1232g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim)) 22 So in original. Probably should be followed by a comma. to identify and locate missing children.
+(2) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates, in compliance with the Family Educational Rights and Privacy Act of 1974 ([20 U.S.C. 1232g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1232g&num=0&edition=prelim)) 22 So in original. Probably should be followed by a comma. to identify and locate missing children 33 So in original. Probably should be followed by “; and”.
+
+(3) publish an analysis of the information determined under paragraph (1) that includes disaggregated demographic data and comparison of such data to demographic data from the census.
 
 **(d) Independent status of other Federal agencies** Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
@@ -4413,6 +4460,60 @@ Section was formerly classified to [section 5773 of Title 42](https://uscode.hou
 A prior section 404 of Pub. L. 93–415 amended [section 3882 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3882&num=0&edition=prelim), The Public Health and Welfare, and was repealed by Pub. L. 95–115, § 10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, § 12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+2024—Subsec. (a)(6)(E). Pub. L. 118–65, § 2(b)(1), substituted “the CyberTipline established” for “the tipline established”.
+
+Subsec. (b)(1)(A)(i). Pub. L. 118–65, § 2(b)(2)(A)(i), substituted “call center to which individuals may—” and subcls. (I) and (II) for “hotline by which individuals may report information regarding the location of any missing child, and request information pertaining to procedures necessary to reunite such child with such child’s parent; and”.
+
+Subsec. (b)(1)(A)(ii), (iii). Pub. L. 118–65, § 2(b)(2)(A)(ii), (iii), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsec. (b)(1)(D). Pub. L. 118–65, § 2(b)(2)(B), substituted “with their parents” for “with their families”.
+
+Subsec. (b)(1)(F). Pub. L. 118–65, § 2(b)(2)(C), substituted “to parents” for “to families”.
+
+Subsec. (b)(1)(G). Pub. L. 118–65, § 2(b)(2)(D), added subpar. (G) and struck out former subpar. (G) which read as follows: “provide support and technical assistance to child-serving professionals involved in helping to recover missing and exploited children by searching public records databases to help in the identification, location, and recovery of such children, and help in the location and identification of potential abductors and offenders;”.
+
+Subsec. (b)(1)(H). Pub. L. 118–65, § 2(b)(2)(E), inserted “on long-term missing child cases” after “techniques to assist”.
+
+Subsec. (b)(1)(I). Pub. L. 118–65, § 2(b)(2)(F), added subpar. (I) and struck out former subpar. (I) which read as follows: “provide training, technical assistance, and information to nongovernmental organizations relating to non-compliant sex offenders and to law enforcement agencies in identifying and locating such individuals;”.
+
+Subsec. (b)(1)(J). Pub. L. 118–65, § 2(b)(2)(G), substituted “with their parents” for “with their families”.
+
+Subsec. (b)(1)(K)(i). Pub. L. 118–65, § 2(b)(2)(H)(i)(I), substituted “CyberTipline” for “tipline” in introductory provisions.
+
+Subsec. (b)(1)(K)(i)(I)(aa). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(aa), substituted “child sexual abuse material” for “child pornography”.
+
+Subsec. (b)(1)(K)(i)(I)(dd). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(bb), substituted “extraterritorial child sexual abuse and exploitation” for “sex tourism involving children”.
+
+Subsec. (b)(1)(K)(i)(I)(ee). Pub. L. 118–65, § 2(b)(2)(H)(i)(II)(cc), struck out “extra-familial” before “child”.
+
+Subsec. (b)(1)(K)(i)(II). Pub. L. 118–65, § 2(b)(2)(H)(i)(III), substituted “CyberTipline” for “tipline” and inserted “and” at end.
+
+Subsec. (b)(1)(K)(ii). Pub. L. 118–65, § 2(b)(2)(H)(ii), substituted “child sexual abuse material and other sexual crimes and” for “child pornography and other sexual crimes” and “, including by providing information on legal remedies available to such victims;” for “; and”.
+
+Subsec. (b)(1)(K)(iii). Pub. L. 118–65, § 2(b)(2)(H)(iii), struck out cl. (iii) which read as follows: “by utilizing emerging technologies to provide additional outreach and educational materials to parents and families;”.
+
+Subsec. (b)(1)(L). Pub. L. 118–65, § 2(b)(2)(J), added subpar. (L). Former subpar. (L) redesignated (M).
+
+Subsec. (b)(1)(M). Pub. L. 118–65, § 2(b)(2)(I), (K)(i), redesignated subpar. (L) as (M) and inserted “educational” before “information to families” in introductory provisions. Former subpar. (M) redesignated (N).
+
+Subsec. (b)(1)(M)(i). Pub. L. 118–65, § 2(b)(2)(K)(ii), substituted “missing children and child” for “child abduction and” and inserted “and” at end.
+
+Subsec. (b)(1)(M)(ii), (iii). Pub. L. 118–65, § 2(b)(2)(K)(iii), added cl. (ii) and struck out former cls. (ii) and (iii) which read as follows:
+
+“(ii) internet safety, including tips for social media and cyberbullying; and
+
+“(iii) sexting and sextortion;”.
+
+Subsec. (b)(1)(N). Pub. L. 118–65, § 2(b)(2)(I), (L), redesignated subpar. (M) as (N) and inserted “and preventing child sexual exploitation” after “recovering such children”. Former subpar. (N) redesignated (O).
+
+Subsec. (b)(1)(O). Pub. L. 118–65, § 2(b)(2)(M), added subpar. (O) and struck out former subpar. (O) which read as follows: “assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and”.
+
+Pub. L. 118–65, § 2(b)(2)(I), redesignated subpar. (N) as (O). Former subpar. (O) redesignated (P).
+
+Subsec. (b)(1)(P). Pub. L. 118–65, § 2(b)(2)(I), (N), redesignated subpar. (O) as (P) and inserted “and recovery support services” after “technical assistance”.
+
+Subsec. (c)(3). Pub. L. 118–65, § 2(b)(3), added par. (3).
+
 2018—Subsec. (a)(3). Pub. L. 115–267, § 2(c)(1)(A), and Pub. L. 115–393, § 202(c)(1)(A), amended par. (3) identically, substituting “hotline” for “telephone line”.
 
 Subsec. (a)(6)(E). Pub. L. 115–267, § 2(c)(1)(B), and Pub. L. 115–393, § 202(c)(1)(B), amended subpar. (E) identically, substituting “hotline” for “telephone line” and “(b)(1)(A),” for “(b)(1)(A) and” and inserting “, and the number and types of reports to the tipline established under subsection (b)(1)(K)(i)” before semicolon at end.
@@ -4530,9 +4631,6 @@ Subsec. (b)(2)(A). Pub. L. 100–690, § 7285(b)(2)(A), amended subpar. (A) gene
 Subsec. (b)(2)(D). Pub. L. 100–690, § 7285(b)(2)(B), inserted “and training” after “assistance” and “and in locating and recovering missing children” before semicolon.
 
 Subsec. (b)(4). Pub. L. 100–690, § 7285(b)(3), (4), added par. (4).
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–267 effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
@@ -4658,9 +4756,15 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 (2) the number of children nationwide who are reported to the grantee as victims of non-family abductions;
 
-(3) the number of children nationwide who are reported to the grantee as victims of family abductions; and
+(3) the number of children nationwide who are reported to the grantee as victims of family abductions;
 
-(4) the number of missing children recovered nationwide whose recovery was reported to the grantee.
+(4) the number of missing children recovered nationwide whose recovery was reported to the grantee;
+
+(5) the number of children nationwide who are reported to the grantee as missing from State-sponsored care;
+
+(6) the number of children nationwide who are reported to the grantee as missing from State-sponsored care whose recovery was reported to the grantee; and
+
+(7) the number of children nationwide who are reported to the grantee as missing from State-sponsored care and are likely victims of child sex trafficking.
 
 **(b) Incidence of attempted child abductions** As a condition of receiving funds under [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim), the grant recipient shall—
 
@@ -4669,6 +4773,8 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 (2) provide such information to law enforcement agencies; and
 
 (3) make such information available to the general public, as appropriate.
+
+**(c) Criteria for forensic partnerships** As a condition of receiving funds under [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim), the grant recipient shall annually provide to the Administrator and make available to the general public, as appropriate, the criteria and processes the grantee uses to establish forensic partnerships and recommend forensic resources to law enforcement and shall annually review these forensic partnerships and forensic referrals against the criteria and review new advancements in technology.
 
 ### Statutory Notes
 
@@ -4679,6 +4785,11 @@ Pub. L. 115–267 and Pub. L. 115–393 enacted identical sections.
 A prior section 407 of Pub. L. 93–415 was renumbered section 408 and is classified to [section 11296 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11296).
 
 Another prior section 407 of title IV of Pub. L. 93–415, as added Pub. L. 103–322, title XVII, § 170303(2), Sept. 13, 1994, 108 Stat. 2043, established the Missing and Exploited Children’s Task Force, prior to repeal by Pub. L. 110–240, § 5(1), June 3, 2008, 122 Stat. 1564.
+
+#### Amendments
+2024—Subsec. (a)(5) to (7). Pub. L. 118–65, § 2(c)(1), added pars. (5) to (7).
+
+Subsec. (c). Pub. L. 118–65, § 2(c)(2), added subsec. (c).
 
 #### Effective Date
 Section effective Oct. 11, 2018, and applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as an Effective Date of 2018 Amendment note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
@@ -4746,16 +4857,13 @@ A prior section 408 of Pub. L. 93–415 was renumbered section 409 and is classi
 #### Amendments
 2018—Par. (1). Pub. L. 115–267, § 3(b), substituted “2023” for “2018”.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–267 effective Oct. 11, 2018, with amendment by section 2 of Pub. L. 115–267 applicable to fiscal years beginning after Sept. 30, 2018, see section 4 of Pub. L. 115–267, set out as a note under [section 11291 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11291).
 
 
 <a id="section-11297"></a>
 ## § 11297. Authorization of appropriations
-**(a) In general** To carry out the provisions of this subchapter, there are authorized to be appropriated $40,000,000 for each of the fiscal years 2014 through 2023, up to $32,200,000 of which shall be used to carry out [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim) for each such fiscal year.
+**(a) In general** To carry out the provisions of this subchapter, there are authorized to be appropriated $49,300,000 for each of fiscal years 2024 through 2028, up to $41,500,000 of which shall be used to carry out [section 11293(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section11293/b&num=0&edition=prelim) for each such fiscal year.
 
 **(b) Evaluation** The Administrator may use not more than 5 percent of the amount appropriated for a fiscal year under subsection (a) to conduct an evaluation of the effectiveness of the programs and activities established and operated under this subchapter.
 
@@ -4767,6 +4875,8 @@ Pub. L. 115–267, § 2(e)(1), and Pub. L. 115–393, § 202(e)(1), identically 
 Section was formerly classified to [section 5777 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5777&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–65 substituted “$49,300,000 for each of fiscal years 2024 through 2028, up to $41,500,000” for “$40,000,000 for each of the fiscal years 2014 through 2023, up to $32,200,000”.
+
 2018—Subsec. (a). Pub. L. 115–267, § 3(a), substituted “2023” for “2018”.
 
 2013—Subsec. (a). Pub. L. 113–38, § 3(1), substituted “$40,000,000 for each of the fiscal years 2014 through 2018, up to $32,200,000 of which shall be used to carry out [section 5773(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section5773/b&num=0&edition=prelim) for each such fiscal year.” for “such sums as may be necessary for fiscal years 2008 through 2013.”
@@ -4796,7 +4906,7 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 <a id="section-11298"></a>
 ## § 11298. Authority of Inspectors General
-**(a) In general** An Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.) may authorize staff to assist the National Center for Missing and Exploited Children—
+**(a) In general** An Inspector General appointed under section 403 or 415 of title 5 may authorize staff to assist the National Center for Missing and Exploited Children—
 
 (1) by conducting reviews of inactive case files to develop recommendations for further investigations; and
 
@@ -4804,19 +4914,21 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 **(b) Limitations**
 
-(1) **Priority** — An Inspector General may not permit staff to engage in activities described in subsection (a) if such activities will interfere with the duties of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.).
+(1) **Priority** — An Inspector General may not permit staff to engage in activities described in subsection (a) if such activities will interfere with the duties of the Inspector General under chapter 4 of title 5.
 
 (2) **Funding** — No additional funds are authorized to be appropriated to carry out this section.
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was formerly classified to [section 5780a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5780a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 Section was enacted as part of the Crime Control Act of 1990, and not as part of the Missing Children’s Assistance Act which comprises this subchapter, nor as part of the Juvenile Justice and Delinquency Prevention Act of 1974 which comprises this chapter.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–286, § 4(b)(59)(A), substituted “section 403 or 415 of title 5” for “section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.)” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–286, § 4(b)(59)(B), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
 
 
 <a id="section-11311"></a>
@@ -4971,9 +5083,6 @@ Another prior section 503 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 
 
 #### Amendments
 2018—Pub. L. 115–385 redesignated pars. (2) to (4) as (1) to (3), respectively, and struck out former par. (1) which read as follows: “issue such rules as are necessary or appropriate to carry out this subchapter;”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–385 not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as a note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).
@@ -5357,9 +5466,6 @@ Section not applicable with respect to funds appropriated for any fiscal year th
 This chapter, referred to in subsecs. (b)(2) to (5) and (c)(1), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, known as the Juvenile Justice and Delinquency Prevention Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title of 1974 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
 The effective date of this section, referred to in subsec. (b)(6), probably means the date of enactment of Pub. L. 115–385, which was approved Dec. 21, 2018.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section not applicable with respect to funds appropriated for any fiscal year that begins before Dec. 21, 2018, see section 3 of Pub. L. 115–385, set out as an Effective Date of 2018 Amendment note under [section 11102 of this title](./chapter-111-juvenile-justice-and-delinquency-prevention.md#section-11102).

@@ -67,49 +67,85 @@ Pars. (1) to (6). Pub. L. 114–120, § 101(b)(3), added pars. (1) to (6) and st
 <a id="section-4902"></a>
 ## § 4902. Authorizations of appropriations
 
-Funds are authorized to be appropriated for fiscal years 2020 and 2021 for necessary expenses of the Coast Guard as follows:
+Funds are authorized to be appropriated for fiscal years 2022 and 2023 for necessary expenses of the Coast Guard as follows:
 
 (1)
 
   (A) For the operation and maintenance of the Coast Guard, not otherwise provided for—
 
-    (i) $8,151,620,850 for fiscal year 2020; and
+    (i) $10,000,000,000 for fiscal year 2022; and
 
-    (ii) $8,396,169,475 for fiscal year 2021.
+    (ii) $10,750,000,000 for fiscal year 2023.
 
-  (B) Of the amount authorized under subparagraph (A)(i), $17,035,000 shall be for environmental compliance and restoration.
+  (B) Of the amount authorized under subparagraph (A)(i), $23,456,000 shall be for environmental compliance and restoration.
 
-  (C) Of the amount authorized under subparagraph, (A)(ii) 11 So in original. Probably should be “subparagraph (A)(ii),”. $17,376,000 shall be for environmental compliance and restoration.
+  (C) Of the amount authorized under subparagraph (A)(ii), $24,353,000 shall be for environmental compliance and restoration.
 
 (2)
 
   (A) For the procurement, construction, renovation, and improvement of aids to navigation, shore facilities, vessels, aircraft, and systems, including equipment related thereto, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
 
-    (i) $2,794,745,000 for fiscal year 2020; and
+    (i) $3,312,114,000 for fiscal year 2022; and
 
-    (ii) $3,312,114,000 for fiscal year 2021.
+    (ii) $3,477,600,000 for fiscal year 2023.
 
   (B) Of the amounts authorized under subparagraph (A), the following amounts shall be for the alteration of bridges:
 
-    (i) $10,000,000 for fiscal year 2020; and
+    (i) $20,400,000 for fiscal year 2022; and
 
-    (ii) $20,000,000 for fiscal year 2021.
+    (ii) $20,808,000 for fiscal year 2023.
 
 (3) To the Commandant for research, development, test, and evaluation of technologies, materials, and human factors directly related to improving the performance of the Coast Guard’s mission with respect to search and rescue, aids to navigation, marine safety, marine environmental protection, enforcement of laws and treaties, ice operations, oceanographic research, and defense readiness, and for maintenance, rehabilitation, lease, and operation of facilities and equipment—
 
-  (A) $13,834,000 for fiscal year 2020; and
+  (A) $7,476,000 for fiscal year 2022; and
 
-  (B) $14,111,000 for fiscal year 2021.
+  (B) $14,681,084 for fiscal year 2023.
 
 (4) For the Coast Guard’s Medicare-eligible retiree health care fund contribution to the Department of Defense—
 
-  (A) $205,107,000 for fiscal year 2020; and
+  (A) $240,577,000 for fiscal year 2022; and
 
-  (B) $209,209,000 for fiscal year 2021.
+  (B) $252,887,000 for fiscal year 2023.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–263, § 11101(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021” in introductory provisions.
+
+Par. (1)(A). Pub. L. 117–263, § 11101(2)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) $8,151,620,850 for fiscal year 2020; and
+
+“(ii) $8,396,169,475 for fiscal year 2021.”
+
+Par. (1)(B). Pub. L. 117–263, § 11101(2)(B), substituted “$23,456,000” for “$17,035,000”.
+
+Par. (1)(C). Pub. L. 117–263, § 11101(2)(C), substituted “(A)(ii), $24,353,000” for “, (A)(ii) $17,376,000”.
+
+Par. (2)(A). Pub. L. 117–263, § 11101(3)(A), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) $2,794,745,000 for fiscal year 2020; and
+
+“(ii) $3,312,114,000 for fiscal year 2021.”
+
+Par. (2)(B). Pub. L. 117–263, § 11101(3)(B), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) $10,000,000 for fiscal year 2020; and
+
+“(ii) $20,000,000 for fiscal year 2021.”
+
+Par. (3). Pub. L. 117–263, § 11101(4), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) $13,834,000 for fiscal year 2020; and
+
+“(B) $14,111,000 for fiscal year 2021.”
+
+Par. (4). Pub. L. 117–263, § 11101(5), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+
+“(A) $205,107,000 for fiscal year 2020; and
+
+“(B) $209,209,000 for fiscal year 2021.”
+
 2021—Pub. L. 116–283, § 8101(1), substituted “years 2020 and 2021” for “year 2019” in introductory provisions.
 
 Par. (1)(A). Pub. L. 116–283, § 8101(2), substituted “provided for—” for “provided for, $7,914,195,000 for fiscal year 2019.” and added cls. (i) and (ii).
@@ -188,21 +224,27 @@ The words “after fiscal year 1977” are omitted as executed. The word “Amou
 
 <a id="section-4904"></a>
 ## § 4904. Authorized levels of military strength and training
-**(a) Active Duty Strength.—** The Coast Guard is authorized an end-of-year strength for active duty personnel of 44,500 for each of fiscal years 2020 and 2021.
+**(a) Active Duty Strength.—** The Coast Guard is authorized an end-of-year strength for active duty personnel of 44,500 for each of fiscal years 2022 and 2023.
 
-**(b) Military Training Student Loads.—** The Coast Guard is authorized average military training student loads for each of fiscal years 2020 and 2021 as follows:
+**(b) Military Training Student Loads.—** The Coast Guard is authorized average military training student loads for each of fiscal years 2022 and 2023 as follows:
 
 (1) For recruit and special training, 2,500 student years.
 
 (2) For flight training, 165 student years.
 
-(3) For professional training in military and civilian institutions, 350 student years.
+(3) For professional training in military and civilian institutions, 385 student years.
 
 (4) For officer acquisition, 1,200 student years.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 11102(1), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
+
+Subsec. (b). Pub. L. 117–263, § 11102(2), substituted “fiscal years 2022 and 2023” for “fiscal years 2020 and 2021”.
+
+Subsec. (b)(3). Pub. L. 117–263, § 11413(c), substituted “385” for “350”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 8102(1), substituted “44,500 for each of fiscal years 2020 and 2021” for “43,000 for fiscal year 2018 and 44,500 for fiscal year 2019”.
 
 Subsec. (b). Pub. L. 116–283, § 8102(2), substituted “fiscal years 2020 and 2021” for “fiscal years 2018 and 2019” in introductory provisions.

@@ -261,7 +261,7 @@ Subsec. (d). Pub. L. 96–513, § 511(68)(C), substituted “Secretary of Educat
 Pub. L. 109–163, div. A, title V, § 539(c), Jan. 6, 2006, 119 Stat. 3250, provided that: “The amendments made by this section [amending this section and [section 16162 of this title](./chapter-1607-educational-assistance-for-reserve-component-members-supporting-contingency-operations-and-certain-other-operations.md#section-16162)] shall apply to a licensing or certification test administered on or after the date of the enactment of this Act [Jan. 6, 2006].”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–178, title VIII, § 8203(b)(4), June 9, 1998, 112 Stat. 494, provided that: “The amendments made by this subsection [amending this section] shall take effect on October 1, 1998, and shall apply with respect to educational assistance allowances paid for months after September 1998. However, no adjustment in rates of educational assistance shall be made under paragraph (2) of [section 16131(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16131/b&num=0&edition=prelim), United States Code, as amended by paragraph (2), for fiscal year 1999.”
@@ -283,7 +283,7 @@ Pub. L. 101–189, div. A, title VI, § 642(d), Nov. 29, 1989, 103 Stat. 1458, p
 Pub. L. 98–525, title VII, § 705(b), Oct. 19, 1984, 98 Stat. 2567, provided that: “The amendments made by this section [amending this chapter] shall take effect on July 1, 1985, and shall apply only to members of the Armed Forces who qualify for educational assistance under chapter 106 of title 10, United States Code, as amended by subsection (a), on or after such date.”
 
 #### Effective Date of 1980 Amendments
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 Pub. L. 96–342, title IX, § 906(a)(2), Sept. 8, 1980, 94 Stat. 1117, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 1980.”
 
@@ -419,7 +419,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under [section 16131 of this title](./chapter-1606-educational-assistance-for-members-of-the-selected-reserve.md#section-16131).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Savings Provision
 Pub. L. 101–189, div. A, title VI, § 643(b), Nov. 29, 1989, 103 Stat. 1458, provided that: “The amendment made by subsection (a) [amending this section] shall not affect the eligibility for educational assistance of any person who before the date of the enactment of this Act [Nov. 29, 1989] is entitled to educational assistance under section 2131(a) [now 16131(a)] of title 10, United States Code.”
@@ -544,12 +544,14 @@ Subsec. (i)(2). Pub. L. 111–383, § 1075(b)(55)(B), struck out “whose” aft
 ## § 16133. Time limitation for use of entitlement
 **(a)** Except as provided in subsection (b), the period during which a person entitled to educational assistance under this chapter may use such person’s entitlement expires on the date the person is separated from the Selected Reserve.
 
-**(b)** 11 See Extension of Time Limitations for Use of Entitlement: Educational Assistance for Members of the Selected Reserve note below. (1) In the case of a person—
+**(b)**
 
-(A) who is separated from the Selected Reserve because of a disability which was not the result of the individual’s own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter; or
+(1) In the case of a person—
 
-(B) who, on or after the date on which such person became entitled to educational assistance under this chapter ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on December 31, 2001, or the period beginning on October 1, 2007, and ending on September 30, 2014, by reason of the inactivation of the person’s unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to [section 10143(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10143/a&num=0&edition=prelim),
-the period for using entitlement prescribed by subsection (a) shall be determined without regard to clause (2) of such subsection.
+  (A) who is separated from the Selected Reserve because of a disability which was not the result of the individual’s own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter; or
+
+  (B) who, on or after the date on which such person became entitled to educational assistance under this chapter ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on December 31, 2001, or the period beginning on October 1, 2007, and ending on September 30, 2014, by reason of the inactivation of the person’s unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to [section 10143(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10143/a&num=0&edition=prelim),
+  the period for using entitlement prescribed by subsection (a) shall be determined without regard to clause (2) of such subsection.
 
 (2) The provisions of [section 3031(f) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3031/f&num=0&edition=prelim) shall apply to the period of entitlement prescribed by subsection (a).
 
@@ -561,9 +563,17 @@ the period for using entitlement prescribed by subsection (a) shall be determine
 
   (B) the member may not be considered to have been separated from the Selected Reserve for the purposes of clause (2) of such subsection by reason of the commencement of such active duty service.
 
+(5) In any case in which the Secretary concerned determines that a person entitled to educational assistance under this chapter has been prevented from using such person’s entitlement due to an emergency situation, the Secretary concerned shall extend the period of entitlement prescribed in subsection (a) for a period equal to the number of months that the person was so prevented from using such entitlement, as determined by the Secretary.
+
+**(c)** In this section, the term “emergency situation” has the meaning given such term in [section 3601 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3601&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(5). Pub. L. 117–333, § 3(d), added par. (5).
+
+Subsec. (c). Pub. L. 117–333, § 3(e)(4), added subsec. (c).
+
 2016—Subsec. (b)(4). Pub. L. 114–315 substituted “12304, 12304a, or 12304b” for “or 12304” in introductory provisions.
 
 2008—Subsec. (a). Pub. L. 110–252 substituted “on the date the person is separated from the Selected Reserve.” for “(1) at the end of the 14-year period beginning on the date on which such person becomes entitled to such assistance, or (2) on the date the person is separated from the Selected Reserve, whichever occurs first.”
@@ -614,15 +624,13 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 Amendment by Pub. L. 98–525 effective July 1, 1985, applicable only to members of the Armed Forces who qualify for educational assistance under this chapter on or after such date, see section 705(b) of Pub. L. 98–525, set out as a note under [section 16131 of this title](./chapter-1606-educational-assistance-for-members-of-the-selected-reserve.md#section-16131).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1979 Amendment
 Amendment by Pub. L. 96–107 applicable only to individuals enlisting in the Reserves after Sept. 30, 1979, see section 402(c) of Pub. L. 96–107, set out as a note under [section 16131 of this title](./chapter-1606-educational-assistance-for-members-of-the-selected-reserve.md#section-16131).
 
 #### Extension of Time Limitations for Use of Entitlement: Educational Assistance for Members of the Selected Reserve
-Pub. L. 116–140, § 6(d), Apr. 28, 2020, 134 Stat. 634, provided that: “During the covered period, the Secretary concerned shall apply [section 16133(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16133/b&num=0&edition=prelim), United States Code, as if it were amended by adding at the end the following new paragraph: “ ‘(5) In any case in which the Secretary concerned determines that a person entitled to educational assistance under this chapter has been prevented from using such person’s entitlement by reason of an Executive order of the President or due to an emergency situation, the Secretary concerned shall extend the period of entitlement prescribed in subsection (a) for a period equal to the number of months that the person was so prevented from using such entitlement, as determined by the Secretary.’.”
-
-[The term “covered period” as used in section 6(d) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note under [section 3031 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3031&num=0&edition=prelim), Veterans’ Benefits.]
+Pub. L. 116–140, § 6(d), Apr. 28, 2020, 134 Stat. 634, which provided for a temporary extension to use entitled educational assistance, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (b)(5) of this section.
 
 
 <a id="section-16134"></a>
@@ -741,7 +749,7 @@ Pub. L. 101–189, § 642(c), amended first sentence generally and substituted �
 Subsec. (c). Pub. L. 101–237, § 422(b)(1), added subsec. (c).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–368, title II, § 204(c), Nov. 11, 1998, 112 Stat. 3327, provided that: “The amendments made by this section [amending this section and sections 3034 and 3241 of Title 38, Veterans’ Benefits] shall apply with respect to courses of flight training beginning on or after October 1, 1998.”

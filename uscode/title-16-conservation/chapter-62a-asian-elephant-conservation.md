@@ -146,7 +146,7 @@ The Secretary may accept and use donations to provide assistance under [section 
 
 **(b) Public participation**
 
-(1) **Meetings** — The Advisory Group shall—
+(1) **Meetings** — The Advisory Group 11 So in original. Probably should not be capitalized. shall—
 
   (A) ensure that each meeting of the advisory group is open to the public; and
 
@@ -156,15 +156,15 @@ The Secretary may accept and use donations to provide assistance under [section 
 
 (3) **Minutes** — Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
 
-**(c) Exemption from Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+**(c) Exemption from chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the advisory group.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 7 of Pub. L. 105–96 was renumbered section 8 and is classified to [section 4266 of this title](./chapter-62a-asian-elephant-conservation.md#section-4266).
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-4266"></a>

@@ -219,7 +219,7 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 **(c) Research and Technical Assistance.—** The Secretary of Defense may make grants to, or conclude cooperative agreements or enter into contracts with, another Federal agency, a State or local government, or any private entity to conduct research and provide technical assistance in support of activities under this section or Executive Order 12788 (57 Fed. Reg. 2213), as amended by section 33 of Executive Order 13286 (68 Fed. Reg. 10625) and Executive Order 13378 (70 Fed. Reg. 28413).
 
-**(d) Defense Community Infrastructure Pilot Program.—**
+**(d) Defense Community Infrastructure Program.—**
 
 (1)
 
@@ -229,9 +229,11 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
     (i) Projects that will enhance military value at a military installation, taking into consideration the military value criteria originally developed by the Secretary in compliance with the amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002 (division B of Public Law 107–107; 115 Stat. 1344).
 
-    (ii) Projects that will enhance military installation resilience, as defined in [section 101(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim).
+    (ii) Projects that will contribute to the training of cadets enrolled in an independent Reserve Officer Training Corps program at a covered educational institution.
 
-    (iii) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
+    (iii) Projects that will enhance military installation resilience, as defined in section 101(e)(8) 11 See References in Text note below. of this title.
+
+    (iv) Projects that will enhance military family quality of life at a military installation, taking into consideration subsection (e)(4)(C).
 
 (2)
 
@@ -243,9 +245,9 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
     (ii) may reduce the requirement for a State or local government contribution to 30 percent or less or waive the cost-sharing requirement entirely.
 
-(3) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
+(3) In selecting community infrastructure projects to receive assistance under this subsection, the Secretary shall consider infrastructure improvements identified in the report on strategic seaports required by section 3515 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1985).
 
-(4) The authority under this subsection shall expire on September 30, 2028.
+(4) Amounts appropriated or otherwise made available for assistance under paragraph (1) may remain available until expended.
 
 **(e) Definitions.—** In this section:
 
@@ -259,7 +261,7 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
   (A) The term “community infrastructure” means a project or facility described in subparagraph (B) that—
 
-    (i) is located off of a military installation; and
+    (i) is located off of a military installation or on property under the jurisdiction of a Secretary of a military department that is subject to a real estate agreement (including a lease or easement); and
 
     (ii) is—
 
@@ -279,6 +281,16 @@ A prior section 2390, added Pub. L. 95–79, title VIII, § 815(a), July 30, 197
 
 (5) The term “rural area” means a city, town, or unincorporated area that has a population of not more than 100,000 inhabitants.
 
+(6) The term “covered educational institution” means a college or university that is—
+
+  (A) a part B institution, as defined in section 322 of the Higher Education Act of 1965 ([20 U.S.C. 1061](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim));
+
+  (B) an 1890 Institution, as defined in section 2 of the Agricultural Research, Extension, and Education Reform Act of 1998 ([7 U.S.C. 7601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7601&num=0&edition=prelim));
+
+  (C) not affiliated with a consortium; and
+
+  (D) located at least 40 miles from a major military installation.
+
 **(f) Assistance Subject to Appropriations.—** The authority of the Secretary of Defense to make grants under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
 ### Statutory Notes
@@ -290,7 +302,21 @@ Executive Order 12788, referred to in subsec. (c), is set out below.
 
 The amendment made by section 3002 of the Military Construction Authorization Act for Fiscal Year 2002, referred to in subsec. (d)(1)(B)(i), is the amendment made by section 3002 of title XXX of div. B of Pub. L. 107–107, Dec. 28, 2001, 115 Stat. 1344, which amended the Defense Base Closure and Realignment Act of 1990 (Pub. L. 101–510, div. B, title XXIX, part A [§ 2901 et seq.], Nov. 5, 1990, 104 Stat. 1808, which is set out as a note under [section 2687 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2687)) by adding section 2912 of such Act.
 
+[Section 101(e)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/8&num=0&edition=prelim), referred to in subsec. (d)(1)(B)(iii), was redesignated [section 101(f)(8) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/f/8&num=0&edition=prelim), and a new subsec. (e) of section 101 was added, by Pub. L. 118–31, div. A, title XVII, § 1713(a), Dec. 22, 2023, 137 Stat. 625.
+
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31, § 2801(1), struck out “Pilot” before “Program” in heading.
+
+Subsec. (d)(5). Pub. L. 118–31, § 2801(2), struck out par. (5) which read as follows: “The authority under this subsection shall expire on September 30, 2028.”
+
+2022—Subsec. (d)(1)(B)(ii) to (iv). Pub. L. 117–263, § 2862(1), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
+Subsec. (d)(3) to (5). Pub. L. 117–263, § 2863, added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
+
+Subsec. (e)(4)(A)(i). Pub. L. 117–263, § 2864, inserted “or on property under the jurisdiction of a Secretary of a military department that is subject to a real estate agreement (including a lease or easement)” after “installation”.
+
+Subsec. (e)(6). Pub. L. 117–263, § 2862(2), added par. (6).
+
 2021—Subsec. (b)(5)(D). Pub. L. 117–81, § 313(1), added subpar. (D).
 
 Subsec. (d)(1). Pub. L. 116–283, § 2882(a), designated existing provisions as subpar. (A), struck out “, if the Secretary determines that such assistance will enhance the military value, resilience, or military family quality of life at such military installation” after “supportive of a military installation”, and added subpar. (B).
@@ -665,7 +691,7 @@ Subsec. (a)(4). Pub. L. 105–85, § 1014(a), added par. (4).
 1982—Subsec. (b)(2)(C). Pub. L. 97–295 substituted “any other” for “another”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-2397-to-2397c"></a>

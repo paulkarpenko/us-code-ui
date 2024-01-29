@@ -521,13 +521,13 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
     (i) is located in a foreign jurisdiction; and
 
-    (ii) the Board is unable to inspect or investigate completely because of a position taken by an authority in the foreign jurisdiction described in clause (i), as determined by the Board; and
+    (ii) the Board is unable to inspect or investigate completely because of a position taken by an authority in a foreign jurisdiction, as determined by the Board; and
 
   (B) require each covered issuer identified under subparagraph (A) to, in accordance with the rules issued by the Commission under paragraph (4), submit to the Commission documentation that establishes that the covered issuer is not owned or controlled by a governmental entity in the foreign jurisdiction described in subparagraph (A)(i).
 
-(3) **Trading prohibition after 3 years of non-inspections**
+(3) **Trading prohibition after 2 years of non-inspections**
 
-  (A) *In general* — If the Commission determines that a covered issuer has 3 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
+  (A) *In general* — If the Commission determines that a covered issuer has 2 consecutive non-inspection years, the Commission shall prohibit the securities of the covered issuer from being traded—
 
     (i) on a national securities exchange; or
 
@@ -551,6 +551,12 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 This Act, referred to in subsecs. (a)(1), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2022—Subsec. (i)(2)(A)(ii). Pub. L. 117–328, § 301(1), substituted “a foreign jurisdiction” for “the foreign jurisdiction described in clause (i)”.
+
+Subsec. (i)(3). Pub. L. 117–328, § 301(2)(A), substituted “2” for “3” in heading.
+
+Subsec. (i)(3)(A). Pub. L. 117–328, § 301(2)(B), substituted “2” for “3”.
+
 2020—Subsec. (i). Pub. L. 116–222 added subsec. (i).
 
 2010—Subsec. (a). Pub. L. 111–203 designated existing provisions as par. (1), inserted heading, and added par. (2).

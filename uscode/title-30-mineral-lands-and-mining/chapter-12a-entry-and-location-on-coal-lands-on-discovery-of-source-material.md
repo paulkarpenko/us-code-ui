@@ -33,7 +33,7 @@ Subject to the provisos of [section 541a of this title](./chapter-12a-entry-and-
 #### References in Text
 The Atomic Energy Act of 1954, referred to in text, is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2011&num=0&edition=prelim) and Tables.
 
-The 1872 Mining Act, as amended, referred to in text, is act May 10, 1872, ch. 152, 17 Stat. 91, as amended. That act was incorporated into the Revised Statutes as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of this title. For complete classification of R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344 to the Code, see Tables.
+The 1872 Mining Act, as amended, referred to in text, is act May 10, 1872, ch. 152, 17 Stat. 91. That act was incorporated into the Revised Statutes as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of this title. For complete classification of R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344 to the Code, see Tables.
 
 
 <a id="section-541c"></a>
@@ -70,9 +70,9 @@ Act of October 20, 1914, referred to in text, is act Oct. 20, 1914, ch. 330, 38 
 
 Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
-Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, as amended, which is classified generally to subchapter VIII (§ 271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
+Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, which is classified generally to subchapter VIII (§ 271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, as amended, which enacted subchapter IX (§ 281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§ 281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Functions
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.

@@ -349,9 +349,9 @@ Pub. L. 105–261, div. A, title XII, § 1231(b), Oct. 17, 1998, 112 Stat. 2155,
 ## § 407. Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations
 **(a) Authority.—**
 
-(1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may carry out humanitarian demining assistance and stockpiled conventional munitions assistance in a country if the Secretary concerned determines that the assistance will promote either—
+(1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may provide humanitarian demining assistance and stockpiled conventional munitions assistance to a country if the Secretary concerned determines that the assistance will promote either—
 
-  (A) the security interests of both the United States and the country in which the activities are to be carried out; or
+  (A) the security interests of both the United States and the country to which the assistance is to be provided; or
 
   (B) the specific operational readiness skills of the members of the armed forces who participate in the activities.
 
@@ -379,17 +379,17 @@ Pub. L. 105–261, div. A, title XII, § 1231(b), Oct. 17, 1998, 112 Stat. 2155,
 
   (B) The cost of any equipment, services, or supplies acquired for the purpose of carrying out or supporting humanitarian demining activities or stockpiled conventional munitions activities, including any nonlethal, individual, or small-team equipment or supplies for clearing landmines or other explosive remnants of war, or stockpiled conventional munitions, as applicable, that are to be transferred or otherwise furnished to a foreign country in furtherance of the provision of assistance under this section.
 
-(3) The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $15,000,000.
+  (C) Travel, transportation, and subsistence expenses of foreign personnel to attend training provided by the Department of Defense under this section.
 
-**(d) Annual Report.—** The Secretary of Defense shall include in the annual report under [section 401 of this title](./chapter-020-humanitarian-and-other-assistance.md#section-401) a separate discussion of activities carried out under this section during the preceding fiscal year, including—
+**(d) Annual Report.—** The Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on activities carried out under this section during the preceding fiscal year, including—
 
-(1) a list of the countries in which humanitarian demining assistance or stockpiled conventional munitions assistance was carried out during the preceding fiscal year;
+(1) a list of the countries to which humanitarian demining assistance or stockpiled conventional munitions assistance was provided during the preceding fiscal year;
 
-(2) the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance carried out in each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
+(2) the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance provided to each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
 
-(3) a list of countries in which humanitarian demining assistance or stockpiled conventional munitions assistance could not be carried out during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities or insufficient funding;
+(3) a list of countries to which humanitarian demining assistance or stockpiled conventional munitions assistance could not be provided during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities or insufficient funding;
 
-(4) the amount expended in carrying out such assistance in each such country during the preceding fiscal year; and
+(4) the amount expended in providing such assistance to each such country during the preceding fiscal year; and
 
 (5) a description of interagency efforts to coordinate and improve research, development, test, and evaluation for humanitarian demining technology and mechanical clearance methods, including the transfer of relevant counter-improvised explosive device technology with potential humanitarian demining applications.
 
@@ -402,6 +402,24 @@ Pub. L. 105–261, div. A, title XII, § 1231(b), Oct. 17, 1998, 112 Stat. 2155,
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263, § 1043(a)(1)(A), substituted “provide” for “carry out” and “to a country” for “in a country” in introductory provisions.
+
+Subsec. (a)(1)(A). Pub. L. 117–263, § 1043(a)(1)(B), substituted “to which the assistance is to be provided” for “in which the activities are to be carried out”.
+
+Subsec. (c)(2)(C). Pub. L. 117–263, § 1043(b)(1), added subpar. (C).
+
+Subsec. (c)(3). Pub. L. 117–263, § 1043(b)(2), struck out par. (3) which read as follows: “The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $15,000,000.”
+
+Subsec. (d). Pub. L. 117–263, § 1043(c), substituted “submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on” for “include in the annual report under [section 401 of this title](./chapter-020-humanitarian-and-other-assistance.md#section-401) a separate discussion of” in introductory provisions.
+
+Subsec. (d)(1). Pub. L. 117–263, § 1043(a)(2)(A), substituted “to which” for “in which” and “provided” for “carried out”.
+
+Subsec. (d)(2). Pub. L. 117–263, § 1043(a)(2)(B), substituted “provided to” for “carried out in”.
+
+Subsec. (d)(3). Pub. L. 117–263, § 1043(a)(2)(C), substituted “to which” for “in which” and “provided” for “carried out”.
+
+Subsec. (d)(4). Pub. L. 117–263, § 1043(a)(2)(D), substituted “in providing such assistance to each such country” for “in carrying out such assistance in each such country”.
+
 2017—Subsec. (a)(3). Pub. L. 115–91, § 1043(a)(1), struck out “or stockpiled conventional munitions assistance” after “demining assistance” in introductory provisions.
 
 Subsec. (a)(3)(A). Pub. L. 115–91, § 1043(a)(2), inserted “, unexploded explosive ordnance,” after “landmines” and struck out “, or stockpiled conventional munitions, as applicable” after “war”.
@@ -452,7 +470,7 @@ Pub. L. 112–239, div. A, title X, § 1053, Jan. 2, 2013, 126 Stat. 1937, provi
 
 
 <a id="section-408"></a>
-## § 408. Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel
+## § 408. Assistance in support of Department of Defense accounting for missing United States Government personnel
 **(a) In General.—** The Secretary of Defense may provide assistance to any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
 
 **(b) Types of Assistance.—** The assistance provided under subsection (a) may include the following:
@@ -465,17 +483,39 @@ Pub. L. 112–239, div. A, title X, § 1053, Jan. 2, 2013, 126 Stat. 1937, provi
 
 (4) Training of personnel.
 
+(5) Funds.
+
 **(c) Approval by Secretary of State.—** Assistance may not be provided under this section to any foreign nation unless the Secretary of State specifically approves the provision of such assistance.
 
-**(d) Limitation.—** The amount of assistance provided under this section in any fiscal year may not exceed $1,000,000.
+**(d) Limitations.—**
+
+(1) Except as provided in paragraph (2), the amount of assistance provided under this section in any fiscal year may not exceed $5,000,000.
+
+(2) The Secretary may waive the limitation under paragraph (1) if the Secretary submits to the congressional defense committees notice of the waiver together with the reasons why the waiver is necessary.
+
+(3) No assistance may be provided under this section to a foreign nation the government of which the Secretary of State determines has repeatedly provided support for international terrorism pursuant to—
+
+  (A) section 1754(c)(1)(A) of the Export Control Reform Act of 2018 ([50 U.S.C. 4813(c)(1)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A&num=0&edition=prelim));
+
+  (B) section 620A of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2371&num=0&edition=prelim)); or
+
+  (C) section 40 of the Arms Export Control Act ([22 U.S.C. 2780](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2780&num=0&edition=prelim)).
 
 **(e) Construction With Other Assistance.—** The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations under law.
 
-**(f) Congressional Oversight.—** Whenever the Secretary of Defense provides assistance to a foreign nation under this section, the Secretary shall submit to the congressional defense committees a report on the assistance provided. Each such report shall identify the nation to which the assistance was provided and include a description of the type and amount of the assistance provided.
+**(f) Annual Report.—** Not later than December 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the assistance provided under this section during the preceding fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Pub. L. 118–31, § 1042(a)(1), substituted “Assistance in support of” for “Equipment and training of foreign personnel to assist in” in section catchline.
+
+Subsec. (b)(5). Pub. L. 118–31, § 1042(a)(2), added par. (5).
+
+Subsec. (d). Pub. L. 118–31, § 1042(a)(3), in heading, substituted “Limitations” for “Limitation”, and, in text, substituted “(1) Except as provided in paragraph (2), the” for “The” and “$5,000,000” for “$1,000,000” and added pars. (2) and (3).
+
+Subsec. (f). Pub. L. 118–31, § 1042(a)(4), (5), added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “Whenever the Secretary of Defense provides assistance to a foreign nation under this section, the Secretary shall submit to the congressional defense committees a report on the assistance provided. Each such report shall identify the nation to which the assistance was provided and include a description of the type and amount of the assistance provided.”
+
 2011—Subsec. (f). Pub. L. 112–81 amended subsec. (f) generally. Prior to amendment, text read as follows:
 
 “(1) Not later than December 31 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the assistance provided under this section during the fiscal year ending in such year.

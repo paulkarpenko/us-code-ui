@@ -851,7 +851,7 @@ Any action taken under this chapter shall be taken in accordance with internatio
 #### References in Text
 For effective date of this section, referred to in subsecs. (a) and (b), see section 2002 of Pub. L. 100–220, set out as an Effective Date of 1987 Amendment note under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901).
 
-The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, as amended, which is classified principally to this chapter (§ 1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
+The Act to Prevent Pollution from Ships, referred to in subsec. (a), is Pub. L. 96–478, Oct. 21, 1980, 94 Stat. 2297, which is classified principally to this chapter (§ 1901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1901 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1901) and Tables.
 
 #### Codification
 Section was formerly set out as a note under [section 1902 of this title](./chapter-033-prevention-of-pollution-from-ships.md#section-1902).

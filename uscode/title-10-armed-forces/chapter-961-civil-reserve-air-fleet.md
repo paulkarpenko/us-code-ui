@@ -156,7 +156,7 @@ Pub. L. 112–81, div. A, title III, § 366(c), Dec. 31, 2011, 125 Stat. 1381, p
 ### Statutory Notes
 
 #### References in Text
-Chapter 137 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see [section 3016 of this title](./chapter-201-definitions.md#section-3016).
 
 #### Codification
 The text of subsecs. (a) and (b) of prior [section 9513 of this title](./chapter-961-civil-reserve-air-fleet.md#section-9513), which were redesignated as subsecs. (b) and (e) of this section by Pub. L. 103–355, § 3032(4), (5), was based on Pub. L. 97–86, title IX, § 915(2), Dec. 1, 1981, 95 Stat. 1128; amended Pub. L. 101–189, div. A, title XVI, § 1636(c)(1), Nov. 29, 1989, 103 Stat. 1610.

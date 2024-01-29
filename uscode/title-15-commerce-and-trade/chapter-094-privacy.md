@@ -298,7 +298,7 @@ Amendments made by subsections (a) and (b), referred to in text, means amendment
 
 This chapter, referred to in text, was in the original “this title”, meaning title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which enacted this chapter and amended [section 1681s of this title](./chapter-041-consumer-credit-protection.md#section-1681s). For complete classification of title V to the Code, see Tables.
 
-The Fair Credit Reporting Act, referred to in text, is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, as amended, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
+The Fair Credit Reporting Act, referred to in text, is title VI of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, § 601, Oct. 26, 1970, 84 Stat. 1127, which is classified generally to subchapter III (§ 1681 et seq.) of chapter 41 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-041-consumer-credit-protection.md#section-1601) and Tables.
 
 
 <a id="section-6807"></a>
@@ -432,7 +432,7 @@ As used in this subchapter:
 #### References in Text
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§ 501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
 
-The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in par. (3)(B), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified generally to chapter 23 (§ 2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2001&num=0&edition=prelim) and Tables.
 

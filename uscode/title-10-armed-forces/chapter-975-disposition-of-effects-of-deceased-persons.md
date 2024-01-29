@@ -106,7 +106,7 @@ Subsec. (f). Pub. L. 101–510, § 1533(a)(9)(B), struck out “for transmission
 Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under [section 401 of Title 24](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section401&num=0&edition=prelim), Hospitals and Asylums.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9713"></a>

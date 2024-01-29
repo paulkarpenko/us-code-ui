@@ -288,7 +288,7 @@ Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this s
 
 (4) **Cooperative agreements** — The Secretary may encourage a State agency that carries out a project using Federal funds received under paragraph (2) to enter into cooperative agreements with State agencies of other States under [section 7505(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7505/d&num=0&edition=prelim) to maximize the use of commodities donated under the project.
 
-(5) **Funding** — Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2023, to remain available until the end of the subsequent fiscal year.
+(5) **Funding** — Out of funds not otherwise appropriated, the Secretary of the Treasury shall transfer to the Secretary to carry out this subsection $4,000,000 for each of fiscal years 2019 through 2024, to remain available until the end of the subsequent fiscal year.
 
 **(e) Food waste** The Secretary shall issue guidance outlining best practices to minimize the food waste of the commodities donated under subsection (a).
 
@@ -311,9 +311,14 @@ Pub. L. 98–92, § 2, Sept. 2, 1983, 97 Stat. 608, provided in part that this s
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d)(5). Pub. L. 118–22 substituted “2024” for “2023”.
+
 2018—Subsecs. (d), (e). Pub. L. 115–334, § 4018(b), (c), added subsecs. (d) and (e).
 
 Subsec. (f). Pub. L. 115–334, § 4104, added subsec. (f).
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date
 Section to be effective and implemented on Oct. 1, 1988, see section 701(a) of Pub. L. 100–435, set out as an Effective Date of 1988 Amendment note under [section 2012 of this title](./chapter-051-supplemental-nutrition-assistance-program.md#section-2012).

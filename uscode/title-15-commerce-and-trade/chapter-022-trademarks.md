@@ -132,7 +132,7 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 Section 46(a) of act July 5, 1946, provided that this chapter shall be in force and take effect one year from July 5, 1946.
 
 #### Short Title of 2020 Amendment
-Pub. L. 116–260, div. Q, title II, § 221(a), Dec. 27, 2020, 134 Stat. 2200, provided that: “This subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, enacting sections 1066a and 1066b of this title, amending this section and sections 1062, 1064, 1065, 1068, 1070, 1071, 1092, 1094, and 1116 of this title, and enacting provisions set out as notes under this section and sections 1066a, 1064, 1068, and 116 of this title] may be cited as the ‘Trademark Modernization Act of 2020’ or the ‘TM Act of 2020’.”
+Pub. L. 116–260, div. Q, title II, § 221(a), Dec. 27, 2020, 134 Stat. 2200, provided that: “This subtitle [subtitle B (§§ 221–228) of title II of div. Q of Pub. L. 116–260, enacting sections 1066a and 1066b of this title, amending this section and sections 1062, 1064, 1065, 1068, 1070, 1071, 1092, 1094, and 1116 of this title, and enacting provisions set out as notes under this section and sections 1064, 1066a, 1068, and 1116 of this title] may be cited as the ‘Trademark Modernization Act of 2020’ or the ‘TM Act of 2020’.”
 
 #### Short Title of 2010 Amendment
 Pub. L. 111–146, § 1, Mar. 17, 2010, 124 Stat. 66, provided that: “This Act [amending sections 1057, 1058, 1065, 1071, and 1141k of this title] may be cited as the ‘Trademark Technical and Conforming Amendment Act of 2010’.”

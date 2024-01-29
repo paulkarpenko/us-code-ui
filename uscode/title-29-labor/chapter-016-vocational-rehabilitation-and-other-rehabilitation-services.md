@@ -2,7 +2,7 @@
 title: 29
 chapter: '16'
 heading: VOCATIONAL REHABILITATION AND OTHER REHABILITATION SERVICES
-section_count: 100
+section_count: 101
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -1030,7 +1030,7 @@ William J. Clinton.
 #### Ex. Ord. No. 13187. The President’s Disability Employment Partnership Board
 Ex. Ord. No. 13187, Jan. 10, 2001, 66 F.R. 3857, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to promote the employment of people with disabilities, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], and in order to promote the employment of people with disabilities, it is hereby ordered as follows:
 
 Section 1. Establishment and Composition of the Board. (a) There is hereby established the President’s Disability Employment Partnership Board (Board).
 
@@ -1616,9 +1616,9 @@ For the purposes of this chapter:
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in par. (10)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in par. (10)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (19)(B), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The Individuals with Disabilities Education Act, referred to in par. (37)(A)(i)(II)(bb), (ii)(I), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
@@ -2323,9 +2323,9 @@ Subsec. (a)(3). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(3)], substit
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(D)(iii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(1)(E), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 720, Pub. L. 93–112, title I, § 100, Sept. 26, 1973, 87 Stat. 363; Pub. L. 93–516, title I, § 102(a), Dec. 7, 1974, 88 Stat. 1618; Pub. L. 93–651, title I, § 102(a), Nov. 21, 1974, 89 Stat. 2–3; Pub. L. 94–230, §§ 2(a), 11(b)(2), (3), Mar. 15, 1976, 90 Stat. 211, 213; Pub. L. 95–602, title I, § 101(a), (b), Nov. 6, 1978, 92 Stat. 2955; Pub. L. 98–221, title I, § 111(a)–(d), Feb. 22, 1984, 98 Stat. 19; Pub. L. 99–506, title I, § 103(d)(2)(C), title II, § 201, Oct. 21, 1986, 100 Stat. 1810, 1813; Pub. L. 100–630, title II, § 202(a), Nov. 7, 1988, 102 Stat. 3304; Pub. L. 102–52, § 2(a), (b)(1), June 6, 1991, 105 Stat. 260; Pub. L. 102–569, title I, § 121(a), (b), Oct. 29, 1992, 106 Stat. 4365, 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -2872,11 +2872,11 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 #### References in Text
 For the effective date of the Workforce Innovation and Opportunity Act, referred to in subsec. (a)(1)(B), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
-The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4151 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4151&num=0&edition=prelim) and Tables.
+The Architectural Barriers Act of 1968, referred to in subsec. (a)(6)(C), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4151 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4151&num=0&edition=prelim) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(6)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
-The Individuals with Disabilities Education Act, referred to in subsecs. (a)(7)(A)(ii), (15)(A)(ii) and (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsecs. (a)(7)(A)(ii), (15)(A)(ii) and (c), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (a)(7)(A)(v)(II), (10)(D)(i), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of this title, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. Title I of the Act is classified generally to subchapter I (§ 3111 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
@@ -3003,9 +3003,6 @@ Subsec. (c). Pub. L. 113–128, § 412(c), added subsec. (c).
 1998—Subsec. (a)(18)(C). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(A)], substituted “were utilized during the preceding year” for “will be utilized”.
 
 Subsec. (a)(21)(A)(i)(II)(bb). Pub. L. 105–277, § 101(f) [title VIII, § 402(c)(4)(B)], substituted “commission” for “Commission”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Definitions of Terms in Pub. L. 113–128
 Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, which is classified to [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102), apply to this section.
@@ -3703,7 +3700,7 @@ A prior section 724, Pub. L. 93–112, title I, § 104, Sept. 26, 1973, 87 Stat.
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A)(x), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b)(1)(A)(x), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
 The Assistive Technology Act of 1998, referred to in subsec. (c)(6), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-031-assistive-technology-for-individuals-with-disabilities.md#section-3001) and Tables.
 
@@ -3909,7 +3906,7 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 728, Pub. L. 93–112, title I, § 108, as added Pub. L. 102–569, title I, § 129(a), Oct. 29, 1992, 106 Stat. 4389, related to expenditure of certain amounts, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -4173,7 +4170,7 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 ### Statutory Notes
 
 #### References in Text
-The Americans with Disabilities Act of 1990, referred to in subsec. (a), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (e)(1)(E)(ii)(II), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15001&num=0&edition=prelim) and Tables.
 
@@ -4304,7 +4301,7 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (d), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior sections 741 to 744 and 750 were omitted in the general amendment of this subchapter by Pub. L. 105–220.
@@ -4715,9 +4712,6 @@ Subsecs. (k) to (m). Pub. L. 113–128, § 433(8), added subsecs. (k) to (m) and
 
 1998—Pub. L. 105–277 made technical amendment to directory language of Pub. L. 105–220, § 405, which enacted this section.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -4749,14 +4743,14 @@ Pub. L. 99–506, title III, § 302(b), Oct. 21, 1986, 100 Stat. 1821, provided 
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
 
 The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Social Security Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (c)(3), “[section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim)” was substituted for “section 201 of the Budget and Accounting Act, 1921 [[31 U.S.C. 11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section11&num=0&edition=prelim)]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Section was enacted as part of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, and not as part of Rehabilitation Act of 1973 which comprises this chapter.
+Section was enacted as part of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, and not as part of the Rehabilitation Act of 1973 which comprises this chapter.
 
 #### Amendments
 1986—Subsec. (a). Pub. L. 99–506 substituted “individuals with handicaps” for “handicapped individuals”.
@@ -4875,9 +4869,6 @@ Subsec. (b). Pub. L. 105–394, § 201(2), designated existing provisions as par
 Subsec. (c). Pub. L. 105–394, § 201(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Committee shall annually submit to the President and to the appropriate committees of the Congress a report making such recommendations as the Committee deems appropriate with respect to coordination of policy and development of objectives and priorities for all Federal programs relating to the conduct of research related to rehabilitation of individuals with disabilities.”
 
 Subsecs. (d), (e). Pub. L. 105–394, § 201(4), added subsecs. (d) and (e).
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-793"></a>
@@ -5199,7 +5190,7 @@ Committee on Education and the Workforce of House of Representatives changed to 
 #### References in Text
 The Assistive Technology Act of 1998, referred to in subsec. (b)(3)(C)(i), (G)(i), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-031-assistive-technology-for-individuals-with-disabilities.md#section-3001) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(D)(i)(III), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(D)(i)(III), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 762 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-762) prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -5363,17 +5354,16 @@ For meaning of references to an intellectual disability and to individuals with 
 
 **(h) Technical assistance** On the request of the Council, the Secretary shall provide such technical assistance to the Council as the Council determines to be necessary to carry out its duties.
 
-**(i) Termination** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Council.
+**(i) Termination** [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply with respect to the Council.
 
 ### Statutory Notes
-
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 765, Pub. L. 93–112, title II, § 205, as added Pub. L. 102–569, title II, § 206(a), Oct. 29, 1992, 106 Stat. 4409, related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by Pub. L. 105–220.
 
 #### Amendments
+2022—Subsec. (i). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2014—Pub. L. 113–128, § 436(1), inserted “Disability, Independent Living, and” before “Rehabilitation” in section catchline.
 
 Subsec. (a). Pub. L. 113–128, § 436(2), substituted “Department of Health and Human Services a Disability, Independent Living, and Rehabilitation Research Advisory Council” for “Department of Education a Rehabilitation Research Advisory Council” and inserted “not less than” after “composed of”.
@@ -5582,7 +5572,7 @@ Subsec. (a)(3) to (5). Pub. L. 113–128, § 441(a)(2)–(4), redesignated par. 
 ### Statutory Notes
 
 #### References in Text
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(3), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 The Social Security Act, referred to in subsec. (a)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
@@ -5855,8 +5845,8 @@ Subsec. (e). Pub. L. 113–128, § 442(3), added subsec. (e) and struck out form
 Subsec. (c)(6). Pub. L. 108–446, § 305(h)(5), substituted “section 1471” for “section 1482(a)”.
 
 
-<a id="section-794e"></a>
-## § 794e. Repealed. Pub. L. 113–128, title IV, § 443(1), July 22, 2014, 128 Stat. 1674
+<a id="section-794d-1"></a>
+## § 794d–1. Repealed. Pub. L. 113–128, title IV, § 443(1), July 22, 2014, 128 Stat. 1674
 
 ### Statutory Notes
 
@@ -5873,8 +5863,8 @@ A prior section 775, Pub. L. 93–112, title III, § 305, as added Pub. L. 95–
 Another prior section 775, Pub. L. 93–112, title III, § 305, Sept. 26, 1973, 87 Stat. 383, as amended, which authorized appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for the establishment of the Helen Keller National Center for Deaf-Blind Youths and Adults, was renumbered section 313 of Pub. L. 93–112 by Pub. L. 95–602, title I, § 109(1), Nov. 6, 1978, 92 Stat. 2962, transferred to [section 777c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section777c&num=0&edition=prelim), and subsequently repealed by Pub. L. 100–630.
 
 
-<a id="section-794f"></a>
-## § 794f. Measuring of project outcomes and performance
+<a id="section-794e"></a>
+## § 794e. Measuring of project outcomes and performance
 
 The Commissioner may require that recipients of grants under this subchapter submit information, including data, as determined by the Commissioner to be necessary to measure project outcomes and performance, including any data needed to comply with the Government Performance and Results Act.
 
@@ -5909,8 +5899,8 @@ Section 777e, Pub. L. 93–112, title III, § 315, as added Pub. L. 95–602, ti
 Section 777f, Pub. L. 93–112, title III, § 316, as added Pub. L. 95–602, title I, § 116(2), Nov. 6, 1978, 92 Stat. 2976; amended Pub. L. 98–221, title I, § 137, Feb. 22, 1984, 98 Stat. 26; Pub. L. 99–506, title I, § 103(d)(2)(C), title IV, § 407, Oct. 21, 1986, 100 Stat. 1810, 1827; Pub. L. 100–630, title II, § 204(j), Nov. 7, 1988, 102 Stat. 3309; Pub. L. 102–52, § 4(e)(3), June 6, 1991, 105 Stat. 261; Pub. L. 102–569, title I, § 102(p)(25), title III, § 310, Oct. 29, 1992, 106 Stat. 4359, 4420; Pub. L. 103–73, title I, § 110(d), Aug. 11, 1993, 107 Stat. 726, related to special recreational programs.
 
 
-<a id="section-794g"></a>
-## § 794g. Establishment of National Council on Disability
+<a id="section-794f"></a>
+## § 794f. Establishment of National Council on Disability
 **(a) Membership; purpose**
 
 (1)
@@ -6014,8 +6004,8 @@ Pub. L. 114–18, § 3(b), May 22, 2015, 129 Stat. 214, provided that: “The am
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
 
 
-<a id="section-795-795a"></a>
-## § 795, 795a. Independent status of National Council on the Handicapped
+<a id="section-794g"></a>
+## § 794g. Independent status of National Council on the Handicapped
 (1) **Council as independent agency within Federal Government** — Effective on February 22, 1984, the National Council on the Handicapped shall be an independent agency within the Federal Government and shall not be an agency within the Department of Education or any other department or agency of the United States.
 
 (2) **Transfer of functions to Council Chairman** — There are transferred to the Chairman of the National Council on the Handicapped all functions relating to the Council which were vested in the Secretary of Education on the day before February 22, 1984. The Chairman of the National Council on the Handicapped shall continue to exercise all the functions under the Rehabilitation Act of 1973 [[29 U.S.C. 701](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) et seq.] or any other law or authority which the Chairman was performing before February 22, 1984.
@@ -6025,17 +6015,17 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 ### Statutory Notes
 
 #### References in Text
-The Rehabilitation Act of 1973, referred to in par. (2), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
+The Rehabilitation Act of 1973, referred to in par. (2), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to this chapter (§ 701 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-701) and Tables.
 
 #### Codification
-Section was enacted as part of the Rehabilitation Amendments of 1984, and not as part of Rehabilitation Act of 1973 which comprises this chapter.
+Section was enacted as part of the Rehabilitation Amendments of 1984, and not as part of the Rehabilitation Act of 1973 which comprises this chapter.
 
 #### Change of Name
 The National Council on the Handicapped was established by former [section 780 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-780) and was redesignated the National Council on Disability by an amendment to that section by Pub. L. 100–630, title II, § 205(b), Nov. 7, 1988, 102 Stat. 3310.
 
 
-<a id="section-795g"></a>
-## § 795g. Duties of National Council
+<a id="section-795-795a"></a>
+## § 795, 795a. Duties of National Council
 **(a) In general** The National Council shall—
 
 (1) provide advice to the Director with respect to the policies and conduct of the National Institute on Disability, Independent Living, and Rehabilitation Research, including ways to improve research concerning individuals with disabilities and the methods of collecting and disseminating findings of such research;
@@ -6076,7 +6066,7 @@ The National Council on the Handicapped was established by former [section 780 o
 #### References in Text
 The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(5)(A), is Pub. L. 106–402, Oct. 30, 2000, 114 Stat. 1677, which is classified principally to chapter 144 (§ 15001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15001&num=0&edition=prelim) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (a)(7), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 781, Pub. L. 93–112, title IV, § 401, as added Pub. L. 95–602, title I, § 117, Nov. 6, 1978, 92 Stat. 2977; amended Pub. L. 98–221, title I, § 142, Feb. 22, 1984, 98 Stat. 27; Pub. L. 99–506, title I, § 103(d)(2)(C), title III, § 302(b), title V, § 502, Oct. 21, 1986, 100 Stat. 1810, 1821, 1828; Pub. L. 100–630, title II, § 205(c), Nov. 7, 1988, 102 Stat. 3310; Pub. L. 102–569, title I, § 102(p)(27), title IV, § 402, Oct. 29, 1992, 106 Stat. 4360, 4422; Pub. L. 104–66, title II, § 2131, Dec. 21, 1995, 109 Stat. 731, related to duties of National Council on Disability, prior to the general amendment of this subchapter by Pub. L. 105–220.
@@ -6101,8 +6091,8 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 Functions which the Director of the National Institute on Disability and Rehabilitation Research exercised before July 22, 2014 (including all related functions of any officer or employee of the National Institute on Disability and Rehabilitation Research), transferred to the National Institute on Disability, Independent Living, and Rehabilitation Research, see subsection (n) of [section 3515e of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3515e&num=0&edition=prelim), The Public Health and Welfare.
 
 
-<a id="section-795h"></a>
-## § 795h. Compensation of National Council members
+<a id="section-795g"></a>
+## § 795g. Compensation of National Council members
 **(a) Rate** Members of the National Council shall be entitled to receive compensation at a rate equal to the rate of pay for level 4 of the Senior Executive Service Schedule under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), including travel time, for each day they are engaged in the performance of their duties as members of the National Council.
 
 **(b) Full-time officers or employees of United States** Members of the National Council who are full-time officers or employees of the United States shall receive no additional pay on account of their service on the National Council except for compensation for travel expenses as provided under subsection (c) of this section.
@@ -6117,8 +6107,8 @@ A prior section 782, Pub. L. 93–112, title IV, § 402, as added Pub. L. 95–6
 Another prior section 782, Pub. L. 93–112, title IV, § 402, Sept. 26, 1973, 87 Stat. 387, authorized the Secretary to obtain information from Federal agencies, prior to repeal by Pub. L. 95–602, § 117.
 
 
-<a id="section-795i"></a>
-## § 795i. Staff of National Council
+<a id="section-795h"></a>
+## § 795h. Staff of National Council
 **(a) Executive Director; technical and professional employees**
 
 (1) The Chairperson of the National Council may appoint and remove, without regard to the provisions of title 5 governing appointments, the provisions of chapter 75 of such title (relating to adverse actions), the provisions of chapter 77 of such title (relating to appeals), or the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates), an Executive Director to assist the National Council to carry out its duties. The Executive Director shall be appointed from among individuals who are experienced in the planning or operation of programs for individuals with disabilities.
@@ -6155,8 +6145,8 @@ A prior section 783, Pub. L. 93–112, title IV, § 403, as added Pub. L. 95–6
 Another prior section 783, Pub. L. 93–112, title IV, § 403, Sept. 26, 1973, 87 Stat. 387; Pub. L. 93–516, title I, § 108, Dec. 7, 1974, 88 Stat. 1619; Pub. L. 93–651, title I, § 108, Nov. 21, 1974, 89 Stat. 2–4; Pub. L. 94–230, §§ 8, 11(b)(11), Mar. 15, 1976, 90 Stat. 212, 213, authorized appropriations to conduct program and project evaluations, prior to repeal by Pub. L. 95–602, § 117.
 
 
-<a id="section-795j"></a>
-## § 795j. Administrative powers of National Council
+<a id="section-795i"></a>
+## § 795i. Administrative powers of National Council
 **(a) Bylaws and rules** The National Council may prescribe such bylaws and rules as may be necessary to carry out its duties under this subchapter.
 
 **(b) Hearings** The National Council may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as it deems advisable.
@@ -6175,11 +6165,11 @@ A prior section 784, Pub. L. 93–112, title IV, § 404, as added Pub. L. 95–6
 Another prior section 784, Pub. L. 93–112, title IV, § 404, Sept. 26, 1973, 87 Stat. 387, directed Secretary to submit annual reports to the President and to Congress on activities carried out under this chapter, prior to repeal by Pub. L. 95–602, § 117.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
-<a id="section-795k"></a>
-## § 795k. Authorization of appropriations
+<a id="section-795j"></a>
+## § 795j. Authorization of appropriations
 
 There are authorized to be appropriated to carry out this subchapter $3,186,000 for fiscal year 2015, $3,432,000 for fiscal year 2016, $3,503,000 for fiscal year 2017, $3,581,000 for fiscal year 2018, $3,665,000 for fiscal year 2019, and $3,743,000 for fiscal year 2020.
 
@@ -6200,16 +6190,16 @@ Section 787, Pub. L. 93–112, title IV, § 407, Sept. 26, 1973, 87 Stat. 389, p
 2014—Pub. L. 113–128 substituted “$3,186,000 for fiscal year 2015, $3,432,000 for fiscal year 2016, $3,503,000 for fiscal year 2017, $3,581,000 for fiscal year 2018, $3,665,000 for fiscal year 2019, and $3,743,000 for fiscal year 2020.” for “such sums as may be necessary for each of the fiscal years 1999 through 2003.”
 
 
-<a id="section-795l"></a>
-## § 795l. Repealed. Pub. L. 102–569, title V, § 502(a), Oct. 29, 1992, 106 Stat. 4424
+<a id="section-795k"></a>
+## § 795k. Repealed. Pub. L. 102–569, title V, § 502(a), Oct. 29, 1992, 106 Stat. 4424
 
 ### Statutory Notes
 
 Section, Pub. L. 93–112, title V, § 500, Sept. 26, 1973, 87 Stat. 390, related to effects on existing law, references in other provisions, availability of unexpended appropriations, savings provision, and extension of appropriations.
 
 
-<a id="section-795m"></a>
-## § 795m. Employment of individuals with disabilities
+<a id="section-795l"></a>
+## § 795l. Employment of individuals with disabilities
 **(a) Interagency Committee on Employees who are Individuals with Disabilities; establishment; membership; co-chairmen; availability of other Committee resources; purpose and functions** There is established within the Federal Government an Interagency Committee on Employees who are Individuals with Disabilities (hereinafter in this section referred to as the “Committee”), comprised of such members as the President may select, including the following (or their designees whose positions are Executive Level IV or higher): the Chairman of the Equal Employment Opportunity Commission (hereafter in this section referred to as the “Commission”), the Director of the Office of Personnel Management, the Secretary of Veterans Affairs, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services. Either the Director of the Office of Personnel Management and the Chairman of the Commission shall serve as co-chairpersons of the Committee or the Director or Chairman shall serve as the sole chairperson of the Committee, as the Director and Chairman jointly determine, from time to time, to be appropriate. The resources of the President’s Disability Employment Partnership Board and the President’s Committee for People with Intellectual Disabilities shall be made fully available to the Committee. It shall be the purpose and function of the Committee (1) to provide a focus for Federal and other employment of individuals with disabilities, and to review, on a periodic basis, in cooperation with the Commission, the adequacy of hiring, placement, and advancement practices with respect to individuals with disabilities, by each department, agency, and instrumentality in the executive branch of Government and the Smithsonian Institution, and to insure that the special needs of such individuals are being met; and (2) to consult with the Commission to assist the Commission to carry out its responsibilities under subsections (b), (c), and (d) of this section. On the basis of such review and consultation, the Committee shall periodically make to the Commission such recommendations for legislative and administrative changes as it deems necessary or desirable. The Commission shall timely transmit to the appropriate committees of Congress any such recommendations.
 
 **(b) Federal agencies; affirmative action program plans** Each department, agency, and instrumentality (including the United States Postal Service and the Postal Regulatory Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Such plan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
@@ -6470,8 +6460,8 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 Barack Obama.
 
 
-<a id="section-795n"></a>
-## § 795n. Architectural and Transportation Barriers Compliance Board
+<a id="section-795m"></a>
+## § 795m. Architectural and Transportation Barriers Compliance Board
 **(a) Establishment; membership; chairperson; vice-chairperson; term of office; termination of membership; reappointment; compensation and travel expenses; bylaws; quorum requirements**
 
 (1) There is established within the Federal Government the Architectural and Transportation Barriers Compliance Board (hereinafter referred to as the “Access Board”) which shall be composed as follows:
@@ -6631,9 +6621,9 @@ Barack Obama.
 #### References in Text
 Executive level IV, referred to in subsec. (a)(1)(B), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
-The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, as amended, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4151 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4151&num=0&edition=prelim) and Tables.
+The Act commonly known as the Architectural Barriers Act of 1968, referred to in subsecs. (b)(1), (3)(A), (7) and (e)(2)(B), is Pub. L. 90–480, Aug. 12, 1968, 82 Stat. 718, which is classified generally to chapter 51 (§ 4151 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4151 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4151&num=0&edition=prelim) and Tables.
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2), (3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327. Titles II and III of the Act are classified generally to subchapters II (§ 12131 et seq.) and III (§ 12181 et seq.), respectively, of chapter 126 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Subsecs. (h) and (i)(3) of this section, which required the Board to submit an annual report on its activities to Congress and, at the same time the Board transmits the report required under [section 4157(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4157/b&num=0&edition=prelim), The Public Health and Welfare, to transmit that report to the Committee on Education and the Workforce of the House of Representatives and the Committee on Labor and Human Resources of the Senate, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, items 4 to 6 on page 155 of House Document No. 103–7.
@@ -6814,14 +6804,14 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 Pub. L. 94–230, § 11(a), (b)(1), (c), Mar. 15, 1976, 90 Stat. 213, 214, extended certain program authorizations in the absence of congressional action, provided that the amendments made by section 11(b) of Pub. L. 94–230 would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
 
 #### Termination of Advisory Panels
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Accessibility of Information on Prescription Drug Container Labels by Visually Impaired and Blind Consumers
-Pub. L. 112–144, title IX, § 904, July 9, 2012, 126 Stat. 1090, provided that: “(a) Establishment of Working Group.—“(1) In general.—The Architectural and Transportation Barriers Compliance Board (referred to in this section as the ‘Access Board’) shall convene a stakeholder working group (referred to in this section as the ‘working group’) to develop best practices on access to information on prescription drug container labels for individuals who are blind or visually impaired. “(2) Members.—The working group shall be comprised of representatives of national organizations representing blind and visually impaired individuals, national organizations representing the elderly, and industry groups representing stakeholders, including retail, mail-order, and independent community pharmacies, who would be impacted by such best practices. Representation within the working group shall be divided equally between consumer and industry advocates. “(3) Best practices.—“(A) In general.—The working group shall develop, not later than 1 year after the date of the enactment of this Act [July 9, 2012], best practices for pharmacies to ensure that blind and visually impaired individuals have safe, consistent, reliable, and independent access to the information on prescription drug container labels. “(B) Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner that provides access to interested individuals, including individuals with disabilities. “(C) Limitations.—The best practices developed under subparagraph (A) shall not be construed as accessibility guidelines or standards of the Access Board, and shall not confer any rights or impose any obligations on working group participants or other persons. Nothing in this section shall be construed to limit or condition any right, obligation, or remedy available under the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) or any other Federal or State law requiring effective communication, barrier removal, or nondiscrimination on the basis of disability. “(4) Considerations.—In developing and issuing the best practices under paragraph (3)(A), the working group shall consider—“(A) the use of—“(i) Braille; “(ii) auditory means, such as— “(I) ‘talking bottles’ that provide audible container label information; “(II) digital voice recorders attached to the prescription drug container; and “(III) radio frequency identification tags; “(iii) enhanced visual means, such as— “(I) large font labels or large font ‘duplicate’ labels that are affixed or matched to a prescription drug container; “(II) high-contrast printing; and “(III) sans-serif font; and “(iv) other relevant alternatives as determined by the working group; “(B) whether there are technical, financial, manpower, or other factors unique to pharmacies with 20 or fewer retail locations which may pose significant challenges to the adoption of the best practices; and “(C) such other factors as the working group determines to be appropriate. “(5) Information campaign.—Upon completion of development of the best practices under subsection (a)(3), the National Council on Disability, in consultation with the working group, shall conduct an informational and educational campaign designed to inform individuals with disabilities, pharmacists, and the public about such best practices. “(6) FACA waiver.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group. “(b) GAO Study.—“(1) In general.—Beginning 18 months after the completion of the development of best practices under subsection (a)(3)(A), the Comptroller General of the United States shall conduct a review of the extent to which pharmacies are utilizing such best practices, and the extent to which barriers to accessible information on prescription drug container labels for blind and visually impaired individuals continue. “(2) Report.—Not later than September 30, 2016, the Comptroller General of the United States shall submit to Congress a report on the review conducted under paragraph (1). Such report shall include recommendations about how best to reduce the barriers experienced by blind and visually impaired individuals to independently accessing information on prescription drug container labels. “(c) Definitions.—In this section—“(1) the term ‘pharmacy’ includes a pharmacy that receives prescriptions and dispenses prescription drugs through an Internet Web site or by mail; “(2) the term ‘prescription drug’ means a drug subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim)); and “(3) the term ‘prescription drug container label’ means the label with the directions for use that is affixed to the prescription drug container by the pharmacist and dispensed to the consumer.”
+Pub. L. 112–144, title IX, § 904, July 9, 2012, 126 Stat. 1090, as amended by Pub. L. 117–286, § 4(a)(188), Dec. 27, 2022, 136 Stat. 4326, provided that: “(a) Establishment of Working Group.—“(1) In general.—The Architectural and Transportation Barriers Compliance Board (referred to in this section as the ‘Access Board’) shall convene a stakeholder working group (referred to in this section as the ‘working group’) to develop best practices on access to information on prescription drug container labels for individuals who are blind or visually impaired. “(2) Members.—The working group shall be comprised of representatives of national organizations representing blind and visually impaired individuals, national organizations representing the elderly, and industry groups representing stakeholders, including retail, mail-order, and independent community pharmacies, who would be impacted by such best practices. Representation within the working group shall be divided equally between consumer and industry advocates. “(3) Best practices.—“(A) In general.—The working group shall develop, not later than 1 year after the date of the enactment of this Act [July 9, 2012], best practices for pharmacies to ensure that blind and visually impaired individuals have safe, consistent, reliable, and independent access to the information on prescription drug container labels. “(B) Public availability.—The best practices developed under subparagraph (A) may be made publicly available, including through the Internet Web sites of the working group participant organizations, and through other means, in a manner that provides access to interested individuals, including individuals with disabilities. “(C) Limitations.—The best practices developed under subparagraph (A) shall not be construed as accessibility guidelines or standards of the Access Board, and shall not confer any rights or impose any obligations on working group participants or other persons. Nothing in this section shall be construed to limit or condition any right, obligation, or remedy available under the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) or any other Federal or State law requiring effective communication, barrier removal, or nondiscrimination on the basis of disability. “(4) Considerations.—In developing and issuing the best practices under paragraph (3)(A), the working group shall consider—“(A) the use of—“(i) Braille; “(ii) auditory means, such as— “(I) ‘talking bottles’ that provide audible container label information; “(II) digital voice recorders attached to the prescription drug container; and “(III) radio frequency identification tags; “(iii) enhanced visual means, such as— “(I) large font labels or large font ‘duplicate’ labels that are affixed or matched to a prescription drug container; “(II) high-contrast printing; and “(III) sans-serif font; and “(iv) other relevant alternatives as determined by the working group; “(B) whether there are technical, financial, manpower, or other factors unique to pharmacies with 20 or fewer retail locations which may pose significant challenges to the adoption of the best practices; and “(C) such other factors as the working group determines to be appropriate. “(5) Information campaign.—Upon completion of development of the best practices under subsection (a)(3), the National Council on Disability, in consultation with the working group, shall conduct an informational and educational campaign designed to inform individuals with disabilities, pharmacists, and the public about such best practices. “(6) Waiver of chapter 10 of title 5, united states code.—Chapter 10 of title 5, United States Code, shall not apply to the working group. “(b) GAO Study.—“(1) In general.—Beginning 18 months after the completion of the development of best practices under subsection (a)(3)(A), the Comptroller General of the United States shall conduct a review of the extent to which pharmacies are utilizing such best practices, and the extent to which barriers to accessible information on prescription drug container labels for blind and visually impaired individuals continue. “(2) Report.—Not later than September 30, 2016, the Comptroller General of the United States shall submit to Congress a report on the review conducted under paragraph (1). Such report shall include recommendations about how best to reduce the barriers experienced by blind and visually impaired individuals to independently accessing information on prescription drug container labels. “(c) Definitions.—In this section—“(1) the term ‘pharmacy’ includes a pharmacy that receives prescriptions and dispenses prescription drugs through an Internet Web site or by mail; “(2) the term ‘prescription drug’ means a drug subject to section 503(b)(1) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section353/b/1&num=0&edition=prelim)); and “(3) the term ‘prescription drug container label’ means the label with the directions for use that is affixed to the prescription drug container by the pharmacist and dispensed to the consumer.”
 
 
-<a id="section-795o"></a>
-## § 795o. Employment under Federal contracts
+<a id="section-795n"></a>
+## § 795n. Employment under Federal contracts
 **(a) Amount of contracts or subcontracts; provision for employment and advancement of qualified individuals with disabilities; regulations** Any contract in excess of $10,000 entered into by any Federal department or agency for the procurement of personal property and nonpersonal services (including construction) for the United States shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified individuals with disabilities. The provisions of this section shall apply to any subcontract in excess of $10,000 entered into by a prime contractor in carrying out any contract for the procurement of personal property and nonpersonal services (including construction) for the United States. The President shall implement the provisions of this section by promulgating regulations within ninety days after September 26, 1973.
 
 **(b) Administrative enforcement; complaints; investigations; departmental action** If any individual with a disability believes any contractor has failed or refused to comply with the provisions of a contract with the United States, relating to employment of individuals with disabilities, such individual may file a complaint with the Department of Labor. The Department shall promptly investigate such complaint and shall take such action thereon as the facts and circumstances warrant, consistent with the terms of such contract and the laws and regulations applicable thereto.
@@ -6869,8 +6859,8 @@ Subsec. (c). Pub. L. 99–506, § 1001(f)(3), substituted “The President” fo
 1978—Subsec. (a). Pub. L. 95–602 substituted “[section 706(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section706/7&num=0&edition=prelim)” for “[section 706(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section706/6&num=0&edition=prelim)”.
 
 
-<a id="section-796"></a>
-## § 796. Nondiscrimination under Federal grants and programs
+<a id="section-795o"></a>
+## § 795o. Nondiscrimination under Federal grants and programs
 **(a) Promulgation of rules and regulations** No otherwise qualified individual with a disability in the United States, as defined in [section 705(20) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section705/20&num=0&edition=prelim), shall, solely by reason of her or his disability, be excluded from the participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance or under any program or activity conducted by any Executive agency or by the United States Postal Service. The head of each such agency shall promulgate such regulations as may be necessary to carry out the amendments to this section made by the Rehabilitation, Comprehensive Services, and Developmental Disabilities Act of 1978. Copies of any proposed regulation shall be submitted to appropriate authorizing committees of the Congress, and such regulation may take effect no earlier than the thirtieth day after the date on which such regulation is so submitted to such committees.
 
 **(b) “Program or activity” defined** For the purposes of this section, the term “program or activity” means all of the operations of—
@@ -6962,47 +6952,32 @@ For provisions relating to the coordination of implementation and enforcement of
 Ex. Ord. No. 11914, Apr. 28, 1976, 41 F.R. 17871, which related to nondiscrimination in federally assisted programs, was revoked by Ex. Ord. No. 12250, Nov. 2, 1980, 45 F.R. 72995, set out as a note under [section 2000d–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d–1&num=0&edition=prelim), The Public Health and Welfare.
 
 
-<a id="section-796a"></a>
-## § 796a. Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations
-**(a)** The Secretary may provide directly or by contract with State vocational rehabilitation agencies or experts or consultants or groups thereof, technical assistance—
+<a id="section-796"></a>
+## § 796. Remedies and attorney fees
+**(a)**
 
-(1) to persons operating community rehabilitation programs; and
+(1) The remedies, procedures, and rights set forth in section 717 of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16&num=0&edition=prelim)), including the application of sections 706(f) through 706(k) ([42 U.S.C. 2000e–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/f&num=0&edition=prelim) through (k)) (and the application of section 706(e)(3) ([42 U.S.C. 2000e–5(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/e/3&num=0&edition=prelim)) to claims of discrimination in compensation), shall be available, with respect to any complaint under [section 791 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-791), to any employee or applicant for employment aggrieved by the final disposition of such complaint, or by the failure to take final action on such complaint. In fashioning an equitable or affirmative action remedy under such section, a court may take into account the reasonableness of the cost of any necessary work place accommodation, and the availability of alternatives therefor or other appropriate relief in order to achieve an equitable and appropriate remedy.
 
-(2) with the concurrence of the Access Board established by [section 792 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-792), to any public or nonprofit agency, institution, or organization;
-for the purpose of assisting such persons or entities in removing architectural, transportation, or communication barriers. Any concurrence of the Access Board under paragraph (2) shall reflect its consideration of cost studies carried out by States.
+(2) The remedies, procedures, and rights set forth in title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.) (and in subsection (e)(3) of section 706 of such Act ([42 U.S.C. 2000e–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5&num=0&edition=prelim)), applied to claims of discrimination in compensation) shall be available to any person aggrieved by any act or failure to act by any recipient of Federal assistance or Federal provider of such assistance under [section 794 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794).
 
-**(b)** Any such experts or consultants, while serving pursuant to such contracts, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), including travel time, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in the Government service employed intermittently.
-
-**(c)** The Secretary, with the concurrence of the Access Board and the President, may provide, directly or by contract, financial assistance to any public or nonprofit agency, institution, or organization for the purpose of removing architectural, transportation, and communication barriers. No assistance may be provided under this subsection until a study demonstrating the need for such assistance has been conducted and submitted under [section 792(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section792/i/1&num=0&edition=prelim).
-
-**(d)** In order to carry out this section, there are authorized to be appropriated such sums as may be necessary.
+**(b)** In any action or proceeding to enforce or charge a violation of a provision of this subchapter, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
 
 ### Statutory Notes
 
+#### References in Text
+The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+
 #### Amendments
-1998—Subsec. (a). Pub. L. 105–220, § 408(a)(4)(A), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “Any concurrence of the Access Board under this paragraph shall reflect its consideration of the cost studies carried out by States under [section 792(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section792/c/1&num=0&edition=prelim).”
+2009—Subsec. (a)(1). Pub. L. 111–2, § 5(c)(1)(A), inserted “(and the application of section 706(e)(3) ([42 U.S.C. 2000e–5(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/e/3&num=0&edition=prelim)) to claims of discrimination in compensation)” after “([42 U.S.C. 2000e–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/f&num=0&edition=prelim) through (k))”.
 
-Subsec. (c). Pub. L. 105–394 substituted “792(i)(1)” for “792(h)(1)”.
+Subsec. (a)(2). Pub. L. 111–2, § 5(c)(1)(B), inserted “([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.) (and in subsection (e)(3) of section 706 of such Act ([42 U.S.C. 2000e–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5&num=0&edition=prelim)), applied to claims of discrimination in compensation)” after “1964”.
 
-Pub. L. 105–220, § 408(a)(4)(B), substituted “provided under this subsection” for “provided under this paragraph”.
-
-1992—Subsec. (a). Pub. L. 102–569, § 507(a), (b), substituted “community rehabilitation programs” for “rehabilitation facilities” in par. (1) and inserted “Access” before “Board” in par. (2) and concluding provisions.
-
-Subsec. (b). Pub. L. 102–569, § 507(c), substituted “the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the rate of basic pay payable for grade GS–18 of the General Schedule, under section 5332”.
-
-Subsec. (c). Pub. L. 102–569, § 507(a), (d), inserted “Access” before “Board” and substituted “792(h)(1)” for “792(h)(2)”.
-
-1988—Subsec. (a). Pub. L. 100–630, § 206(e)(1), (2), redesignated former par. (1) as subsec. (a) and former subpars. (A) and (B) as pars. (1) and (2), respectively.
-
-Subsec. (b). Pub. L. 100–630, § 206(e)(1), (3), redesignated former par. (2) as subsec. (b) and substituted “travel time” for “traveltime”.
-
-Subsec. (c). Pub. L. 100–630, § 206(e)(1), (4), redesignated former par. (3) as subsec. (c) and inserted a comma after “the President”.
-
-Subsec. (d). Pub. L. 100–630, § 206(e)(1), redesignated former par. (4) as subsec. (d).
+#### Effective Date of 2009 Amendment
+Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicable to certain claims of discrimination in compensation pending on or after that date, see section 6 of Pub. L. 111–2, set out as a note under [section 2000e–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5&num=0&edition=prelim), The Public Health and Welfare.
 
 
-<a id="section-796b"></a>
-## § 796b. Interagency Disability Coordinating Council
+<a id="section-796a"></a>
+## § 796a. Interagency Disability Coordinating Council
 **(a) Establishment** There is hereby established an Interagency Disability Coordinating Council (hereafter in this section referred to as the “Council”) composed of the Secretary of Education, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Housing and Urban Development, the Secretary of Transportation, the Assistant Secretary of the Interior for Indian Affairs, the Attorney General, the Director of the Office of Personnel Management, the Chairperson of the Equal Employment Opportunity Commission, the Chairperson of the Architectural and Transportation Barriers Compliance Board, the Chairperson of the National Council on Disability, and such other officials as may be designated by the President.
 
 **(b) Duties** The Council shall—
@@ -7037,8 +7012,8 @@ Amendment by Pub. L. 96–88 effective May 4, 1980, with specified exceptions, s
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to requirement that the Council submit an annual report of activities to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 175 of House Document No. 103–7.
 
 
-<a id="section-796c"></a>
-## § 796c. Electronic and information technology
+<a id="section-796b"></a>
+## § 796b. Electronic and information technology
 **(a) Requirements for Federal departments and agencies**
 
 (1) **Accessibility**
@@ -7122,6 +7097,51 @@ Subsec. (f)(1)(B). Pub. L. 106–246, § 2405(2), substituted “6 months after 
 Subsec. (a)(3). Pub. L. 100–630, § 206(f)(2), inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
 
 Subsec. (c). Pub. L. 100–630, § 206(f)(3), substituted “an individual with handicaps” for “a handicapped individual”.
+
+
+<a id="section-796c"></a>
+## § 796c. Reports on accessibility of electronic information to individuals with disabilities
+**(a)**
+
+(1) Not later than 100 days after December 29, 2022, the Director of the Office of Management and Budget (in this section referred to as the “Director”), in coordination with the Architectural and Transportation Barriers Compliance Board and the Administrator of General Services (in this section referred to as the “Administrator”), shall disseminate amended or updated criteria and instructions to any Federal department or agency (in this section referred to as an “agency”) covered by [section 794d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794d) for the evaluation required pursuant to paragraph (3)(B).
+
+(2) Such criteria and instructions shall—
+
+  (A) include, at minimum, requirements that information technologies and digital services must–
+
+    (i) conform to the technical standards referenced in subsection (a)(2)(A) of such [section 794d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794d), as determined by appropriate conformance testing; and
+
+    (ii) be accessible to and usable by individuals with disabilities as determined from consultation with individuals with disabilities, including those with visual, auditory, tactile, and cognitive disabilities, or members of any disability organization; and
+
+  (B) provide guidance to agencies regarding the types and format of data and information to be submitted to the Director and the Administrator pursuant to paragraph (3), including how to submit such data and information, the metrics by which compliance will be assessed in the reports required in subsection (b), and any other directions necessary for agencies to demonstrate compliance with accessibility standards for electronic and information technology procured and in use within an agency, as required by such [section 794d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794d).
+
+(3) Not later than 225 days after December 29, 2022, the head of each agency shall—
+
+  (A) evaluate the extent to which the electronic and information technology of the agency are accessible to and usable by individuals with disabilities described in subsection (a)(1) of such [section 794d of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794d) compared to the access to and use of the technology and services by individuals described in such section who are not individuals with disabilities;
+
+  (B) evaluate the electronic and information technology of the agency in accordance with the criteria and instructions provided in paragraph (1); and
+
+  (C) submit a report containing the evaluations jointly to the Director and the Administrator.
+
+**(b)**
+
+(1) Not later than 1 year after December 29, 2022, and annually thereafter, the Administrator, in consultation with the Director, shall prepare and submit to the Committees on Appropriations and Homeland Security and Governmental Affairs of the Senate and the Committees on Appropriations and Oversight and Reform of the House of Representatives a report that shall include—
+
+  (A) a comprehensive assessment (including information identifying the metrics and data used) of compliance by each agency, and by the Federal Government generally, with the criteria and instructions disseminated under subsection (a)(1);
+
+  (B) a detailed description of the actions, activities, and other efforts made by the Administrator over the year preceding submission to support such compliance at agencies and any planned efforts in the coming year to improve compliance at agencies; and
+
+  (C) a list of recommendations that agencies or Congress may take to help support that compliance.
+
+(2) The Administrator shall ensure that the reports required under this subsection are made available on a public website and are maintained as an open Government data asset (as that term is defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Financial Services and General Government Appropriations Act, 2023, and also as part of the Consolidated Appropriations Act, 2023, and not as part of the Rehabilitation Act of 1973 which comprises this chapter.
+
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-796d"></a>
@@ -7221,7 +7241,7 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 The Assistive Technology Act of 1998, referred to in subsec. (a)(2), is Pub. L. 105–394, Nov. 13, 1998, 112 Stat. 3627, which is classified principally to chapter 31 (§ 3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of this title](./chapter-031-assistive-technology-for-individuals-with-disabilities.md#section-3001) and Tables.
 
-The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
+The Older Americans Act of 1965, referred to in subsec. (f)(5)(B), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3001&num=0&edition=prelim) and Tables.
 
 Section 142 of the Developmental Disabilities Assistance and Bill of Rights Act ([42 U.S.C. 6042](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6042&num=0&edition=prelim)), referred to in subsec. (m)(2), was repealed by Pub. L. 106–402, title IV, § 401(a), Oct. 30, 2000, 114 Stat. 1737.
 
@@ -7271,8 +7291,6 @@ Subsec. (j). Pub. L. 103–73, § 112(c)(7), added subsec. (j) and struck out he
 Subsec. (n). Pub. L. 103–73, § 112(c)(5), redesignated subsec. (i) as (n).
 
 #### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1997 Amendment
@@ -8031,27 +8049,42 @@ Subsec. (o). Pub. L. 113–128, § 474(5), added subsec. (o).
 
 
 <a id="section-796-1"></a>
-## § 796–1. Remedies and attorney fees
-**(a)**
+## § 796–1. Removal of architectural, transportation, or communication barriers; technical and financial assistance; compensation of experts or consultants; authorization of appropriations
+**(a)** The Secretary may provide directly or by contract with State vocational rehabilitation agencies or experts or consultants or groups thereof, technical assistance—
 
-(1) The remedies, procedures, and rights set forth in section 717 of the Civil Rights Act of 1964 ([42 U.S.C. 2000e–16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16&num=0&edition=prelim)), including the application of sections 706(f) through 706(k) ([42 U.S.C. 2000e–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/f&num=0&edition=prelim) through (k)) (and the application of section 706(e)(3) ([42 U.S.C. 2000e–5(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/e/3&num=0&edition=prelim)) to claims of discrimination in compensation), shall be available, with respect to any complaint under [section 791 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-791), to any employee or applicant for employment aggrieved by the final disposition of such complaint, or by the failure to take final action on such complaint. In fashioning an equitable or affirmative action remedy under such section, a court may take into account the reasonableness of the cost of any necessary work place accommodation, and the availability of alternatives therefor or other appropriate relief in order to achieve an equitable and appropriate remedy.
+(1) to persons operating community rehabilitation programs; and
 
-(2) The remedies, procedures, and rights set forth in title VI of the Civil Rights Act of 1964 ([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.) (and in subsection (e)(3) of section 706 of such Act ([42 U.S.C. 2000e–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5&num=0&edition=prelim)), applied to claims of discrimination in compensation) shall be available to any person aggrieved by any act or failure to act by any recipient of Federal assistance or Federal provider of such assistance under [section 794 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-794).
+(2) with the concurrence of the Access Board established by [section 792 of this title](./chapter-016-vocational-rehabilitation-and-other-rehabilitation-services.md#section-792), to any public or nonprofit agency, institution, or organization;
+for the purpose of assisting such persons or entities in removing architectural, transportation, or communication barriers. Any concurrence of the Access Board under paragraph (2) shall reflect its consideration of cost studies carried out by States.
 
-**(b)** In any action or proceeding to enforce or charge a violation of a provision of this subchapter, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
+**(b)** Any such experts or consultants, while serving pursuant to such contracts, shall be entitled to receive compensation at rates fixed by the Secretary, but not exceeding the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), including travel time, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for persons in the Government service employed intermittently.
+
+**(c)** The Secretary, with the concurrence of the Access Board and the President, may provide, directly or by contract, financial assistance to any public or nonprofit agency, institution, or organization for the purpose of removing architectural, transportation, and communication barriers. No assistance may be provided under this subsection until a study demonstrating the need for such assistance has been conducted and submitted under [section 792(i)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section792/i/1&num=0&edition=prelim).
+
+**(d)** In order to carry out this section, there are authorized to be appropriated such sums as may be necessary.
 
 ### Statutory Notes
 
-#### References in Text
-The Civil Rights Act of 1964, referred to in subsec. (a)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
-
 #### Amendments
-2009—Subsec. (a)(1). Pub. L. 111–2, § 5(c)(1)(A), inserted “(and the application of section 706(e)(3) ([42 U.S.C. 2000e–5(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/e/3&num=0&edition=prelim)) to claims of discrimination in compensation)” after “([42 U.S.C. 2000e–5(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5/f&num=0&edition=prelim) through (k))”.
+1998—Subsec. (a). Pub. L. 105–220, § 408(a)(4)(A), in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “Any concurrence of the Access Board under this paragraph shall reflect its consideration of the cost studies carried out by States under [section 792(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section792/c/1&num=0&edition=prelim).”
 
-Subsec. (a)(2). Pub. L. 111–2, § 5(c)(1)(B), inserted “([42 U.S.C. 2000d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) et seq.) (and in subsection (e)(3) of section 706 of such Act ([42 U.S.C. 2000e–5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5&num=0&edition=prelim)), applied to claims of discrimination in compensation)” after “1964”.
+Subsec. (c). Pub. L. 105–394 substituted “792(i)(1)” for “792(h)(1)”.
 
-#### Effective Date of 2009 Amendment
-Amendment by Pub. L. 111–2 effective as if enacted May 28, 2007, and applicable to certain claims of discrimination in compensation pending on or after that date, see section 6 of Pub. L. 111–2, set out as a note under [section 2000e–5 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–5&num=0&edition=prelim), The Public Health and Welfare.
+Pub. L. 105–220, § 408(a)(4)(B), substituted “provided under this subsection” for “provided under this paragraph”.
+
+1992—Subsec. (a). Pub. L. 102–569, § 507(a), (b), substituted “community rehabilitation programs” for “rehabilitation facilities” in par. (1) and inserted “Access” before “Board” in par. (2) and concluding provisions.
+
+Subsec. (b). Pub. L. 102–569, § 507(c), substituted “the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the rate of basic pay payable for grade GS–18 of the General Schedule, under section 5332”.
+
+Subsec. (c). Pub. L. 102–569, § 507(a), (d), inserted “Access” before “Board” and substituted “792(h)(1)” for “792(h)(2)”.
+
+1988—Subsec. (a). Pub. L. 100–630, § 206(e)(1), (2), redesignated former par. (1) as subsec. (a) and former subpars. (A) and (B) as pars. (1) and (2), respectively.
+
+Subsec. (b). Pub. L. 100–630, § 206(e)(1), (3), redesignated former par. (2) as subsec. (b) and substituted “travel time” for “traveltime”.
+
+Subsec. (c). Pub. L. 100–630, § 206(e)(1), (4), redesignated former par. (3) as subsec. (c) and inserted a comma after “the President”.
+
+Subsec. (d). Pub. L. 100–630, § 206(e)(1), redesignated former par. (4) as subsec. (d).
 
 
 <a id="section-797-to-797b"></a>

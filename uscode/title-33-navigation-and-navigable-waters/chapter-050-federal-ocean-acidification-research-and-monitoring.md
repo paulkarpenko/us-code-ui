@@ -61,7 +61,9 @@ In this chapter:
 ### Statutory Notes
 
 #### Amendments
-2022—Par. (1). Pub. L. 117–167, § 10643(4), added par. (1). Former par. (1) redesignated (2).Pub. L. 117–167, § 10643(1), substituted “and changes in the water chemistry of the Earth’s oceans, coastal estuaries, marine waterways, and Great Lakes caused by carbon dioxide from the atmosphere and the breakdown of organic matter” for “of the Earth’s oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide”.
+2022—Par. (1). Pub. L. 117–167, § 10643(4), added par. (1). Former par. (1) redesignated (2).
+
+Pub. L. 117–167, § 10643(1), substituted “and changes in the water chemistry of the Earth’s oceans, coastal estuaries, marine waterways, and Great Lakes caused by carbon dioxide from the atmosphere and the breakdown of organic matter” for “of the Earth’s oceans and changes in ocean chemistry caused by chemical inputs from the atmosphere, including carbon dioxide”.
 
 Par. (2). Pub. L. 117–167, § 10643(3), redesignated par. (1) as (2). Former par. (2) redesignated (3).
 
@@ -188,7 +190,7 @@ Par. (5). Pub. L. 117–167, § 10643(5), added par. (5).
 
     (i) *Rule of construction* — Nothing in subparagraph (A) may be construed as affecting any requirement to consult with Indian Tribes under Executive Order 13175 ([25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) note; relating to consultation and coordination with Tribal governments) or any other applicable law or policy.
 
-(10) **Federal Advisory Committee Act** — Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Board for 10 years from August 9, 2022.
+(10) **Federal Advisory Committee Act** — Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Board for 10 years from August 9, 2022.22 See References in Text note below.
 
 **(d) Prize competitions**
 
@@ -277,7 +279,9 @@ Par. (5). Pub. L. 117–167, § 10643(5), added par. (5).
 ### Statutory Notes
 
 #### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(10), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c)(10), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
+
+August 9, 2022, referred to in subsec. (c)(10), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 117–167, which enacted subsec. (c), to reflect the probable intent of Congress.
 
 #### Amendments
 2022—Pub. L. 117–167, § 10644(1), substituted “working group” for “Subcommittee” in section catchline.
@@ -302,7 +306,7 @@ Subsec. (c)(2)(B). Pub. L. 117–167, § 10644(4)(A)(iii), substituted “intera
 
 Subsec. (c)(3). Pub. L. 117–167, § 10644(4)(B), inserted “until 2031” after “at least once every 5 years”.
 
-Subsec. (c)(4). Pub. L. 117–167, § 10644(4)(C), inserted “until 2032” after “and every 6 years thereafter” in introductory provisions.
+Subsec. (c)(4)(A). Pub. L. 117–167, § 10644(4)(C), inserted “until 2032” after “and every 6 years thereafter” in introductory provisions.
 
 Subsec. (d). Pub. L. 117–167, § 10644(6), added subsec. (d).
 
@@ -438,7 +442,7 @@ Subsec. (b)(5). Pub. L. 117–167, § 10645(2)(E), substituted “the best avail
 
 Subsec. (b)(6). Pub. L. 117–167, § 10645(2)(F), inserted “and coastal acidification” after “ocean acidification” and substituted “within the United States” for “of the United States”.
 
-Subsec. (b)(8). Pub. L. 117–167, § 10645(2)(G)(iii), which directed the substitution of semicolon for “; and”, could not be executed because “; and” no longer appears after the intervening amendment by Pub. L. 116–271, § 110(a). See 2020 Amendment note below.
+Subsec. (b)(8). Pub. L. 117–167, § 10645(2)(G)(iii), which directed the substitution of a semicolon for “; and”, could not be executed because “and” had already been struck out at the end of par. (8) by Pub. L. 116–271, § 110(a)(1), in the course of adding par. (10). See 2020 Amendment note below.
 
 Pub. L. 117–167, § 10645(2)(G)(i), (ii), inserted “and coastal acidification” after “ocean acidification” in two places and substituted “their” for “its”.
 
@@ -480,7 +484,7 @@ Pub. L. 116–271, title I, § 110(d), Dec. 31, 2020, 134 Stat. 3343, provided t
 
   (C) prioritization of the location of monitoring instruments, assets, and projects to maximize the efficiency of resources and agency and department missions;
 
-  (D) an optimization of understanding of socioeconomic impacts and ecosystem health
+  (D) an optimization of understanding of socioeconomic impacts and ecosystem health 11 So in original. Probably should be followed by a semicolon.
 
   (E) research to identify and develop adaptation and mitigation strategies and techniques for effectively conserving marine ecosystems as they cope with increased ocean acidification and coastal acidification;
 
@@ -539,7 +543,7 @@ Pub. L. 116–271, title I, § 110(d), Dec. 31, 2020, 134 Stat. 3343, provided t
 #### Amendments
 2022—Subsec. (a). Pub. L. 117–167, § 10646(1)(A), inserted “coordination,” after “research, monitoring,” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 117–167, § 10646(1)(D), substituted “acidification and coastal acidification” for “acidification” wherever appearing.
+Subsec. (a)(1). Pub. L. 117–167, § 10646(1)(D), substituted “acidification and coastal acidification” for “acidification” wherever appearing. Amendment was not executed in subpars. (F), (J), and (K) as added by Pub. L. 117–167, § 10646(1)(B)(v), (viii), to reflect the probable intent of Congress.
 
 Subsec. (a)(1)(B). Pub. L. 117–167, § 10646(1)(B)(i), inserted “including leveraging, as appropriate, the Integrated Ocean Observing System and the ocean observing assets of other Federal, State, and Tribal agencies,” after “ocean observing assets,”.
 
@@ -553,7 +557,7 @@ Subsec. (a)(1)(G). Pub. L. 117–167, § 10646(1)(B)(ii), redesignated subpar. (
 
 Subsec. (a)(1)(H). Pub. L. 117–167, § 10646(1)(B)(ii), (vi), redesignated subpar. (E) as (H), substituted “their respective impacts” for “its impacts”, and struck out “and” at end.
 
-Subsec. (a)(1)(I). Pub. L. 117–167, § 10646(1)(B)(vii)(ii), which directed the substitution of a semicolon for a period at the end, could not be executed because a semicolon, rather than a period, already appeared at the end.
+Subsec. (a)(1)(I). Pub. L. 117–167, § 10646(1)(B)(vii)(II), which directed the substitution of a semicolon for a period at the end, could not be executed because a semicolon, rather than a period, already appeared at the end.
 
 Pub. L. 117–167, § 10646(1)(B)(ii), (vii)(I), redesignated subpar. (F) as (I) and substituted “research, monitoring, and adaptation and mitigation strategies” for “monitoring and impacts research”.
 
@@ -591,7 +595,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(c) Coordination** The Director shall encourage coordination of the Foundation’s ocean acidification and coastal acidification activities with such activities of other nations and international organizations.
 
-**(d) Requirement** Recipients of grants from the National Science Foundation under this subtitle that collect data described under [section 3705(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3705/d&num=0&edition=prelim) shall—
+**(d) Requirement** Recipients of grants from the National Science Foundation under this chapter that collect data described under [section 3705(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3705/d&num=0&edition=prelim) shall—
 
 (1) collect data in accordance with the standards, protocols, or procedures established pursuant to [section 3705(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3705/d&num=0&edition=prelim); and
 

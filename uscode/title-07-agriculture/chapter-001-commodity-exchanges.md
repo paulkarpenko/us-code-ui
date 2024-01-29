@@ -1301,7 +1301,7 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
   (D) *Reimbursement* — Members shall be entitled to per diem and travel expense reimbursement by the Commission.
 
-  (E) *FACA* — The Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  (E) *Chapter 10 of title 5* — The Committee shall not be subject to chapter 10 of title 5.
 
 **(b) Transaction in interstate commerce** For the purposes of this chapter (but not in any wise limiting the foregoing definition of interstate commerce) a transaction in respect to any article shall be considered to be in interstate commerce if such article is part of that current of commerce usual in the commodity trade whereby commodities and commodity products and by-products thereof are sent from one State, with the expectation that they will end their transit, after purchase, in another, including in addition to cases within the above general description, all cases where purchase or sale is either for shipment to another State, or for manufacture within the State and the shipment outside the State of the products resulting from such manufacture. Articles normally in such current of commerce shall not be considered out of such commerce through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter. For the purpose of this paragraph the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nation.
 
@@ -1815,8 +1815,6 @@ The Wall Street Transparency and Accountability Act of 2010, referred to in subs
 
 The Securities Exchange Act of 1934, referred to in subsec. (a)(1)(D)(i)(VI), (iii)(II), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(15)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The date of the enactment of this clause and such date of enactment, referred to in subsec. (c)(2)(B)(ii), are the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 Item (ee) of subsec. (c)(2)(B)(i)(II), referred to in subsec. (c)(2)(B)(iii), (iv)(I), (II)(aa), (C)(i)(I)(aa), (ii)(II)(aa), (iii)(I), (II)(aa), was redesignated item (dd) by Pub. L. 111–203, title VII, § 742(c)(1)(C), July 21, 2010, 124 Stat. 1733.
@@ -1833,6 +1831,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Subsec. (a)(1)(B) of this section was formerly classified to [section 4 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4&num=0&edition=prelim). Subsec. (a)(1)(C) of this section was formerly classified to [section 2a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2a&num=0&edition=prelim). Subsec. (a)(2) to (11) of this section was formerly classified to [section 4a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section4a&num=0&edition=prelim). Subsec. (b) of this section was formerly classified to [section 3 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (a)(15)(E). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
+
 2015—Subsec. (h)(7)(D). Pub. L. 114–113 added cls. (i) to (iv) and (vi), redesignated former cl. (iii) as (v), and struck out former cls. (i) and (ii) which related to application of exception to affiliates and prohibition relating to certain affiliates, respectively.
 
 2010—Subsec. (a)(1)(A). Pub. L. 111–203, § 734(b)(1)(A), which directed amendment of subpar. (A) by striking “or 7a”, could not be executed because of prior amendment by Pub. L. 111–203, § 722(a)(1). See below.
@@ -2783,7 +2783,7 @@ The Commission may permit persons not domiciled in the United States to grant op
 ### Statutory Notes
 
 #### References in Text
-Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. L. 112–105, which is set out as a note under section 101 of the Ethics in Government Act of 1978, Pub. L. 95–521, in the Appendix to Title 5, Government Organization and Employees.
+Section 2 of the STOCK Act, referred to in subsec. (a)(3), is section 2 of Pub. L. 112–105, which is set out as a note under [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
 2012—Subsec. (a)(3). Pub. L. 112–105, § 5(1), inserted in introductory provisions “or any Member of Congress or employee of Congress (as such terms are defined under section 2 of the STOCK Act) or any judicial officer or judicial employee (as such terms are defined, respectively, under section 2 of the STOCK Act)” after “any department or agency of the Federal Government”, “Member, officer,” after “position of the”, and “or by Congress or by the judiciary” after “creating the information”.

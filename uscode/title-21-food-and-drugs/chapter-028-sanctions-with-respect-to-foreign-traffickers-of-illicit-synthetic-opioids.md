@@ -2,7 +2,7 @@
 title: 21
 chapter: '28'
 heading: SANCTIONS WITH RESPECT TO FOREIGN TRAFFICKERS OF ILLICIT SYNTHETIC OPIOIDS
-section_count: 13
+section_count: 14
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21&num=0&edition=prelim
 ---
@@ -105,6 +105,9 @@ In this chapter:
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title LXXII of div. F of Pub. L. 116–92, Dec. 20, 2019, 133 Stat. 2262, known as the Fentanyl Sanctions Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2301) and Tables.
+
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-2313"></a>
@@ -228,8 +231,8 @@ Sec. 3. The Secretary of State is authorized and directed to publish this memora
 Donald J. Trump.
 
 
-<a id="section-2314"></a>
-## § 2314. Imposition of sanctions
+<a id="section-2313a"></a>
+## § 2313a. Imposition of sanctions
 
 The President shall impose five or more of the sanctions described in [section 2313 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2313) with respect to each foreign person that is an entity, and four or more of such sanctions with respect to each foreign person that is an individual, that—
 
@@ -243,8 +246,8 @@ The President shall impose five or more of the sanctions described in [section 2
 Functions and authorities of President under this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(v) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under [section 2311 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2311).
 
 
-<a id="section-2315"></a>
-## § 2315. Description of sanctions
+<a id="section-2314"></a>
+## § 2314. Description of sanctions
 **(a) In general** The sanctions that may be imposed with respect to a foreign person under [section 2312 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2312) are the following:
 
 (1) **Loans from United States financial institutions** — The United States Government may prohibit any United States financial institution from making loans or providing credits to the foreign person.
@@ -297,6 +300,28 @@ The National Security Act of 1947, referred to in subsec. (c)(1)(A), is act July
 
 #### Delegation of Functions
 Functions and authorities of President under subsections (a)(4) to (9) and (d) of this section delegated to Secretary of the Treasury, in consultation with the Secretary of State, by section 1(d)(vi) and (vii) of Memorandum of President of the United States, Mar. 31, 2020, 85 F.R. 22343, set out as a note under [section 2311 of this title](./chapter-028-sanctions-with-respect-to-foreign-traffickers-of-illicit-synthetic-opioids.md#section-2311).
+
+
+<a id="section-2315"></a>
+## § 2315. Designation of transactions of sanctioned persons as of primary money laundering concern
+**(a) In general** If the Secretary of the Treasury determines that reasonable grounds exist for concluding that 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts within, or involving, a jurisdiction outside of the United States, is of primary money laundering concern in connection with illicit opioid trafficking, the Secretary of the Treasury may, by order, regulation, or otherwise as permitted by law—
+
+(1) require domestic financial institutions and domestic financial agencies to take 1 or more of the special measures provided for in section 9714(a)(1) of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; [31 U.S.C. 5318A](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318A&num=0&edition=prelim) note); or
+
+(2) prohibit, or impose conditions upon, certain transmittals of funds (to be defined by the Secretary) by any domestic financial institution or domestic financial agency, if such transmittal of funds involves any such institution, class of transaction, or type of accounts.
+
+**(b) Classified information** In any judicial review of a finding of the existence of a primary money laundering concern, or of the requirement for 1 or more special measures with respect to a primary money laundering concern made under this section, if the designation or imposition, or both, were based on classified information (as defined in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.)), such information may be submitted by the Secretary to the reviewing court ex parte and in camera. This subsection does not confer or imply any right to judicial review of any finding made or any requirement imposed under this section.
+
+**(c) Availability of information** The exemptions from, and prohibitions on, search and disclosure referred to in section 9714(c) of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; [31 U.S.C. 5318A](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318A&num=0&edition=prelim) note) shall apply to any report or record of report filed pursuant to a requirement imposed under subsection (a). For purposes of [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), this subsection shall be considered a statute described in subsection (b)(3)(B) of such section.
+
+**(d) Penalties** The penalties referred to in section 9714(d) of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; [31 U.S.C. 5318A](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318A&num=0&edition=prelim) note) shall apply to violations of any order, regulation, special measure, or other requirement imposed under subsection (a), in the same manner and to the same extent as described in such section 9714(d).
+
+**(e) Injunctions** The Secretary of the Treasury may bring a civil action to enjoin a violation of any order, regulation, special measure, or other requirement imposed under subsection (a) in the same manner and to the same extent as described in section 9714(e) of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283; [31 U.S.C. 5318A](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5318A&num=0&edition=prelim) note).
+
+### Statutory Notes
+
+#### References in Text
+Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (b), is section 1(a) of Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 
 <a id="section-2316"></a>
@@ -394,9 +419,13 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 **(b) Review of counternarcotics efforts of the intelligence community** The Director of National Intelligence shall, in coordination with the Director of the Office of National Drug Control Policy, carry out a comprehensive review of the current intelligence collection priorities of the intelligence community for counternarcotics purposes in order to identify whether such priorities are appropriate and sufficient in light of the number of lives lost in the United States each year due to use of illegal drugs.
 
-**(c) Reports**
+**(c) Reports and briefings**
 
-(1) **Quarterly reports on program** — Not later than 90 days after December 20, 2019, and every 90 days thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the 90-day period ending on the date of the report. The first report under this paragraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
+(1) **Reports and briefings on program**
+
+  (A) *Annual reports* — Not later than 90 days after December 20, 2019, and annually thereafter, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly submit to the appropriate congressional committees and leadership a report on the status and accomplishments of the program required by subsection (a) during the year ending on the date of the report. The first report under this subparagraph shall also include a description of the amount of funds devoted by the intelligence community to the efforts described in subsection (a) during each of fiscal years 2017 and 2018.
+
+  (B) *Semiannual briefings* — On a semiannual basis, the Director of National Intelligence and the Director of the Office of National Drug Control Policy shall jointly brief the appropriate congressional committees and leadership on the status and accomplishments of the program required by subsection (a).
 
 (2) **Report on review** — Not later than 120 days after December 20, 2019, the Director of National Intelligence, in consultation with the Director of the Office of National Drug Control Policy and other relevant agencies, shall submit to the appropriate congressional committees and leadership—
 
@@ -414,6 +443,11 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 #### References in Text
 Subchapter I, referred to in subsec. (a)(1), was in the original “subtitle A”, meaning subtitle A (§§ 7211–7217) of title LXXII of div. F of Pub. L. 116–92, which is classified principally to subchapter I of this chapter. For complete classification of subtitle A to the Code, see Tables.
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–263, § 6811(h)(1), inserted “and briefings” after “Reports” in heading.
+
+Subsec. (c)(1). Pub. L. 117–263, § 6811(h)(2), substituted “Reports and briefings on program” for “Quarterly reports on program” in par. heading; designated existing provisions as subpar. (A) and inserted subpar. heading; in subpar. (A), substituted “annually” for “every 90 days”, “year” for “90-day period”, and “under this subparagraph” for “under this paragraph”; and added subpar. (B).
 
 
 <a id="section-2334"></a>
@@ -438,6 +472,9 @@ Subchapter I, referred to in subsec. (a)(1), was in the original “subtitle A�
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title LXXII of div. F of Pub. L. 116–92, known as the Fentanyl Sanctions Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Tables.
 
 Sections 1403, 4501, and section 7221, referred to in subsec. (b), mean sections sections 1403, 4501, and section 7221 of Pub. L. 116–92, respectively, which are not classified to the Code.
+
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-2335"></a>

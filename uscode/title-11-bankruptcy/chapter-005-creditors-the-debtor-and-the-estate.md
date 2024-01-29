@@ -808,7 +808,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(c)** For the purpose of subsection (a) of this section, a claim of a governmental unit arising from an erroneous refund or credit of a tax has the same priority as a claim for the tax to which such refund or credit relates.
 
-**(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
+**(d)** An entity that is subrogated to the rights of a holder of a claim of a kind specified in subsection (a)(1), (a)(4), (a)(5), (a)(6), (a)(7), (a)(8) excluding subparagraph (F), or (a)(9) of this section is not subrogated to the right of the holder of such claim to priority under such subsection.
 
 ### Statutory Notes
 
@@ -934,6 +934,8 @@ Subsection (b) also provides that a claim arising from an erroneous refund or cr
 Section 13(3) of the Federal Reserve Act, referred to in subsec. (a)(2), is classified to [section 343(3) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim), Banks and Banking.
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–42 inserted “excluding subparagraph (F)” after “(a)(8)”.
+
 2020—Subsec. (d). Pub. L. 116–260, § 1001(i)(2), inserted “, (a)(8)” after “(a)(7)” and struck out “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
 
 Pub. L. 116–260, § 1001(i)(1), struck out “, (a)(8)” after “(a)(7)” and inserted “or subparagraphs (A) through (E) and (G) of subsection (a)(8)” after “(a)(9)” and “or subparagraph” after “such subsection”.
@@ -1020,6 +1022,9 @@ Subsec. (a)(7). Pub. L. 98–353, §§ 350(2), 449(a)(4), redesignated former pa
 
 Subsec. (c). Pub. L. 98–353, § 449(b), substituted “has the same priority” for “shall be treated the same”.
 
+#### Effective Date of 2024 Amendment
+Pub. L. 118–42, div. C, title V, § 544(b), Mar. 9, 2024, 138 Stat. 178, provided that: “(1) Except as provided in paragraph (2), the amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 9, 2024]. “(2) The amendment made by subsection (a) shall not apply with respect to cases commenced under title 11 of the United States Code before the date of the enactment of this Act.”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. FF, title X, § 1001(i)(2), Dec. 27, 2020, 134 Stat. 3221, provided that the amendment made by section 1001(i)(2) is effective on the date that is 1 year after Dec. 27, 2020.
 
@@ -1042,7 +1047,7 @@ The dollar amounts specified in this section were adjusted by notices of the Jud
 
 By notice dated Jan. 31, 2022, 87 F.R. 6625, effective Apr. 1, 2022, in subsec. (a)(4), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(5)(B)(i), dollar amount “13,650” was adjusted to “15,150”; in subsec. (a)(6), dollar amount “6,725” was adjusted to “7,475”; and, in subsec. (a)(7), dollar amount “3,025” was adjusted to “3,350”. See notice of the Judicial Conference of the United States set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
 
-By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(4), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(5)(B)(i), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(6)(B) [sic], dollar amount “6,325” was adjusted to “6,725”; and, in subsec. (a)(7), dollar amount “2,850” was adjusted to “3,025”
+By notice dated Feb. 5, 2019, 84 F.R. 3488, effective Apr. 1, 2019, in subsec. (a)(4), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(5)(B)(i), dollar amount “12,850” was adjusted to “13,650”; in subsec. (a)(6)(B) [sic], dollar amount “6,325” was adjusted to “6,725”; and, in subsec. (a)(7), dollar amount “2,850” was adjusted to “3,025”.
 
 By notice dated Feb. 16, 2016, 81 F.R. 8748, effective Apr. 1, 2016, in subsec. (a)(4), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(5)(B)(i), dollar amount “12,475” was adjusted to “12,850”; in subsec. (a)(6)(B) [sic], dollar amount “6,150” was adjusted to “6,325”; and, in subsec. (a)(7), dollar amount “2,775” was adjusted to “2,850”.
 
@@ -2052,7 +2057,7 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
   (A) a loan permitted under section 408(b)(1) of the Employee Retirement Income Security Act of 1974, or subject to section 72(p) of the Internal Revenue Code of 1986; or
 
   (B) a loan from a thrift savings plan permitted under subchapter III of chapter 84 of title 5, that satisfies the requirements of section 8433(g) of such title;
-  but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title; or
+  but nothing in this paragraph may be construed to provide that any loan made under a governmental plan under section 414(d), or a contract or account under section 403(b), of the Internal Revenue Code of 1986 constitutes a claim or a debt under this title;
 
 (19) that—
 
@@ -2068,7 +2073,9 @@ By notice dated Feb. 3, 1998, 63 F.R. 7179, effective Apr. 1, 1998, in subsec. (
 
     (ii) any settlement agreement entered into by the debtor; or
 
-    (iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
+    (iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor; or
+
+(20) for injury to an individual by the debtor relating to a violation of chapter 77 of title 18, including injury caused by an instance in which the debtor knowingly benefitted financially, or by receiving anything of value, from participation in a venture that the debtor knew or should have known engaged in an act in violation of chapter 77 of title 18.
 For purposes of this subsection, the term “return” means a return that satisfies the requirements of applicable nonbankruptcy law (including applicable filing requirements). Such term includes a return prepared pursuant to section 6020(a) of the Internal Revenue Code of 1986, or similar State or local law, or a written stipulation to a judgment or a final order entered by a nonbankruptcy tribunal, but does not include a return made pursuant to section 6020(b) of the Internal Revenue Code of 1986, or a similar State or local law.
 
 **(b)** Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A 33 See References in Text note below. of the Higher Education Act of 1965, or under section 733(g) 3 of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
@@ -2177,7 +2184,7 @@ The Internal Revenue Code of 1986, referred to in subsec. (a), is classified gen
 
 Section 103 of the Truth in Lending Act, referred to in subsec. (a)(2)(C)(ii)(I), is classified to [section 1602 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1602&num=0&edition=prelim), Commerce and Trade.
 
-The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11. Sections 14c and 17a of the Bankruptcy Act were classified to sections 32(c) and 35(a) of former Title 11.
+The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11. Sections 14c and 17a of the Bankruptcy Act were classified to sections 32(c) and 35(a) of former Title 11.
 
 Section 408(b)(1) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(18)(A), is classified to [section 1108(b)(1) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108/b/1&num=0&edition=prelim), Labor.
 
@@ -2188,6 +2195,8 @@ Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), wa
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, § 327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, § 2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, § 102, Oct. 13, 1992, 106 Stat. 1994. See [section 292f(g) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section292f/g&num=0&edition=prelim).
 
 #### Amendments
+2023—Subsec. (a)(20). Pub. L. 117–347 added par. (20).
+
 2019—Subsec. (a). Pub. L. 116–54 inserted “1192” after “1141,” in introductory provisions.
 
 2010—Subsec. (a)(2)(C)(ii)(II). Pub. L. 111–327, § 2(a)(18)(A), substituted semicolon for period at end.
@@ -2724,7 +2733,7 @@ Subsection (c) grants an exception to the anti-reaffirmation provision. It permi
 Subsection (d) provides the discharge of the debtor does not affect co-debtors or guarantors.
 
 #### References in Text
-The Bankruptcy Act, referred to in subsec. (b)(1), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11.
+The Bankruptcy Act, referred to in subsec. (b)(1), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11.
 
 The date of the enactment of this subsection, referred to in subsec. (g)(7), is the date of enactment of Pub. L. 103–394, which enacted subsec. (g) and was approved Oct. 22, 1994.
 
@@ -2860,7 +2869,7 @@ The Packers and Stockyards Act, 1921, referred to in subsec. (a), is act Aug. 15
 
 Section 1 of the Act entitled “An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes,” approved July 12, 1943, referred to in subsec. (a), is classified to [section 204 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section204&num=0&edition=prelim).
 
-The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11.
+The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(2), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
@@ -3226,10 +3235,10 @@ The Higher Education Act of 1965, referred to in subsec. (b)(3), is Pub. L. 89�
 
 The Internal Revenue Code of 1986, referred to in subsecs. (b)(5) to (7), (10) and (f), is classified generally to Title 26, Internal Revenue Code.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (b)(7)(A)(i)(I), (B)(i)(I), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2020—Subsec. (b)(11). Pub. L. 116–260, § 1001(a)(2), struck out par. (11) which read as follows: “recovery rebates made under section 6428 of the Internal Revenue Code of 1986.”.
+2020—Subsec. (b)(11). Pub. L. 116–260, § 1001(a)(2), struck out par. (11) which read as follows: “recovery rebates made under section 6428 of the Internal Revenue Code of 1986.”
 
 Pub. L. 116–260, § 1001(a)(1), added par. (11).
 
@@ -3694,7 +3703,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 (4) a debt for a tax is incurred on the day when such tax is last payable without penalty, including any extension.
 
-**(b)** Except as provided in subsections (c), (i), and (j) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
+**(b)** Except as provided in subsections (c) and (i) of this section, the trustee may, based on reasonable due diligence in the circumstances of the case and taking into account a party’s known or reasonably knowable affirmative defenses under subsection (c), avoid any transfer of an interest of the debtor in property—
 
 (1) to or for the benefit of a creditor;
 
@@ -3800,58 +3809,7 @@ Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days afte
 
 **(i)** If the trustee avoids under subsection (b) a transfer made between 90 days and 1 year before the date of the filing of the petition, by the debtor to an entity that is not an insider for the benefit of a creditor that is an insider, such transfer shall be considered to be avoided under this section only with respect to the creditor that is an insider.
 
-**(j)**
-
-(1) In this subsection:
-
-  (A) The term “covered payment of rental arrearages” means a payment of arrearages that—
-
-    (i) is made in connection with an agreement or arrangement—
-
-      (I) between the debtor and a lessor to defer or postpone the payment of rent and other periodic charges under a lease of nonresidential real property; and
-
-      (II) made or entered into on or after March 13, 2020;
-
-    (ii) does not exceed the amount of rental and other periodic charges agreed to under the lease of nonresidential real property described in clause (i)(I) before March 13, 2020; and
-
-    (iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
-
-      (I) scheduled to be paid under the lease of nonresidential real property described in clause (i)(I); or
-
-      (II) that the debtor would owe if the debtor had made every payment due under the lease of nonresidential real property described in clause (i)(I) on time and in full before March 13, 2020.
-
-  (B) The term “covered payment of supplier arrearages” means a payment of arrearages that—
-
-    (i) is made in connection with an agreement or arrangement—
-
-      (I) between the debtor and a supplier of goods or services to defer or postpone the payment of amounts due under an executory contract for goods or services; and
-
-      (II) made or entered into on or after March 13, 2020;
-
-    (ii) does not exceed the amount due under the executory contract described in clause (i)(I) before March 13, 2020; and
-
-    (iii) does not include fees, penalties, or interest in an amount greater than the amount of fees, penalties, or interest—
-
-      (I) scheduled to be paid under the executory contract described in clause (i)(I); or
-
-      (II) that the debtor would owe if the debtor had made every payment due under the executory contract described in clause (i)(I) on time and in full before March 13, 2020.
-
-(2) The trustee may not avoid a transfer under this section for—
-
-  (A) a covered payment of rental arrearages; or
-
-  (B) a covered payment of supplier arrearages.
-
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. FF, title X, § 1001(g)(2)(A), Dec. 27, 2020, 134 Stat. 3220, provided that, effective on the date that is 2 years after Dec. 27, 2020, this section is amended:
-
-(1) in subsection (b), in the matter preceding paragraph (1), by striking “, (i), and (j)” and inserting “and (i)”; and
-
-(2) by striking subsection (j).
-
-See 2020 Amendment notes below.
 
 #### legislative statements
 No limitation is provided for payments to commodity brokers as in section 766 of the Senate amendment other than the amendment to [section 548 of title 11](./chapter-005-creditors-the-debtor-and-the-estate.md#section-548). Section 547(c)(2) protects most payments.
@@ -4699,11 +4657,11 @@ The exercise of a contractual right of a repo participant or financial participa
 ### Statutory Notes
 
 #### References in Text
-The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
 
-The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
 
 #### Amendments
 2005—Pub. L. 109–8, § 907(o)(9), inserted “or financial participant” after “repo participant” in two places.
@@ -4730,9 +4688,9 @@ The exercise of any contractual right of any swap participant or financial parti
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in text, is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
 
 #### Amendments
 2005—Pub. L. 109–8, § 907(o)(10), inserted “or financial participant” after “swap participant” in first sentence.
@@ -4783,9 +4741,9 @@ shall not be stayed, avoided, or otherwise limited by operation of any provision
 ### Statutory Notes
 
 #### References in Text
-The Commodity Exchange Act, referred to in subsecs. (b)(2) and (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Section 5c(c) of the Act is classified to [section 7a–2(c) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7a–2/c&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in subsecs. (b)(2) and (c), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Section 5c(c) of the Act is classified to [section 7a–2(c) of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7a–2/c&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
-The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (c), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236, as amended. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
+The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to in subsec. (c), is Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2236. For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1811&num=0&edition=prelim), Banks and Banking, and Tables.
 
 #### Effective Date
 Section effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as an Effective Date of 2005 Amendment note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).

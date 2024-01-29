@@ -22,7 +22,7 @@ Section is based on act Mar. 4, 1907, popularly known as the “Sundry Civil App
 2010—Pub. L. 111–145 substituted “other than the United States Capitol Police” for “other than officers and privates of the Capitol police” in two places.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 #### Short Title of 2012 Amendment
 Pub. L. 112–234, § 1, Dec. 28, 2012, 126 Stat. 1624, provided that: “This Act [amending sections 2084 and 2108 of this title, [section 2703a of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2703a&num=0&edition=prelim), Customs Duties, [section 1708a of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1708a&num=0&edition=prelim), Food and Drugs, [section 376 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section376&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 2103 of Title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section2103&num=0&edition=prelim), Patriotic and National Observances, Ceremonies, and Organizations, amending provisions set out as notes under [section 4301 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4301&num=0&edition=prelim), Veterans’ Benefits, and [section 416 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section416&num=0&edition=prelim), Postal Service, and repealing provisions set out as a note under [section 416 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section416&num=0&edition=prelim)] may be cited as the ‘GAO Mandates Revision Act of 2012’.”
@@ -164,7 +164,7 @@ Any Member or Member-elect of the House of Representatives may file with the Arc
 Section was classified to section 178 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-2006"></a>
@@ -200,7 +200,7 @@ The Architect of the Capitol shall keep a record of the assignment of rooms made
 Section was classified to section 181 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-2009"></a>
@@ -233,7 +233,7 @@ The assignment and reassignment of the rooms and other space in the House Office
 Section was classified to section 183 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-2011"></a>
@@ -247,7 +247,7 @@ Unoccupied space in said building shall be assigned by the Architect of the Capi
 Section was classified to section 184 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, § 1, Aug. 21, 2002, 116 Stat. 1062.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-2012"></a>
@@ -932,7 +932,7 @@ Committee on House Oversight of House of Representatives changed to Committee on
 
   (A) The payment of the salary of the director of the center, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.
 
-  (B) The reimbursement of individuals employed by the center for the cost of training classes and conferences in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
+  (B) The cost of training classes and conferences for individuals employed by the center in connection with the provision of child care services, together with the cost of travel (including transportation and subsistence) incurred in connection with such classes and conferences.
 
   (C) During an emergency situation, the payment of such other expenses for activities carried out under this section as the Chief Administrative Officer determines appropriate.
 
@@ -960,6 +960,8 @@ Section was classified to section 184g of former Title 40, prior to the enactmen
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+2022—Subsec. (d)(3)(B). Pub. L. 117–328 substituted “The cost of training classes and conferences for individuals employed by the center” for “The reimbursement of individuals employed by the center for the cost of training classes and conferences”.
+
 2020—Subsec. (d)(3)(A). Pub. L. 116–136, § 19002(a)(1), substituted “, and, at the option of the Chief Administrative Officer during an emergency situation, the payment of the salary of other employees of the Center.” for period at end.
 
 Subsec. (d)(3)(C). Pub. L. 116–136, § 19002(a)(2), which directed that subpar. (C) be added “at the end” of subsec. (d)(3)(A), was executed by adding subpar. (C) at the end of subsec. (d)(3), to reflect the probable intent of Congress.
@@ -1000,6 +1002,9 @@ Subsec. (d)(2). Pub. L. 104–186, § 221(5)(C), substituted “With respect” 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
 “Government Publishing Office” substituted for “Government Printing Office” in subsec. (f)(2) on authority of section 1301(b) of Pub. L. 113–235, set out as a note preceding [section 301 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section301&num=0&edition=prelim), Public Printing and Documents.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. I, title I, § 116(b), Dec. 29, 2022, 136 Stat. 4924, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. B, title IX, § 19002(b), Mar. 27, 2020, 134 Stat. 577, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2020 and each succeeding fiscal year.”
@@ -1635,7 +1640,7 @@ R.S. § 1814 derived from act July 2, 1864, ch. 210, § 2, 13 Stat. 347.
 Section 2 of act July 2, 1864, gave the supervision and direction of the National Statuary Hall to the Commissioner of Public Buildings.
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 
 <a id="section-2131a"></a>
@@ -1708,8 +1713,10 @@ Section was classified to section 188 of former Title 40, prior to the enactment
 
 R.S. § 1831 derived from act June 10, 1872, ch. 415, § 1, 17 Stat. 362.
 
-#### Works of Art Accepted
-The following provisions relate to works of art accepted by the Joint Committee on the Library:
+#### Works of Art Accepted or Removed
+The following provisions relate to works of art accepted or removed by the Joint Committee on the Library:
+
+Pub. L. 117–326, Dec. 27, 2022, 136 Stat. 4452.—Replacement of bust of Roger Brooke Taney with bust of Thurgood Marshall.
 
 Pub. L. 117–111, Apr. 13, 2022, 136 Stat. 1166.—Statues of Sandra Day O’Connor and Ruth Bader Ginsburg.
 
@@ -1960,7 +1967,7 @@ Section is based on act Mar. 4, 1911, popularly known as the “Sundry Civil App
 2007—Pub. L. 110–140 added text of section and struck out former text which read as follows: “The heating, lighting, and power plant constructed under the terms of the Act approved April 28, 1904, shall be known as the ‘Capitol power plant’; and all vacancies occurring in the force operating said plant and the substations in connection therewith shall be filled by the Architect of the Capitol with the approval of the commission in control of the House Office Building appointed under [section 2001 of this title](./chapter-030-operation-and-maintenance-of-capitol-complex.md#section-2001).”
 
 #### Change of Name
-Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
+Change of name of Architect of the Capitol, functions abolished, transferred, etc., by prior acts, see Prior Provisions and Change of Name notes set out under former [section 1801 of this title](./chapter-028-architect-of-the-capitol.md#section-1801).
 
 #### Effective Date of 2007 Amendment
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under [section 1824 of this title](./chapter-028-architect-of-the-capitol.md#section-1824).

@@ -142,6 +142,9 @@ Subsec. (f). Pub. L. 104–201, § 578(a)(1)(B), struck out subsec. (f) which re
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
 
+#### Authority To Enter Into Agreements
+Pub. L. 118–31, div. A, title X, § 1063(b), Dec. 22, 2023, 137 Stat. 401, provided that: “The Director of the Defense POW/MIA Accounting Agency may enter into agreements with universities or research organizations under which such universities or research organizations agree to provide additional capabilities for specialized missions or research requirements relating to expanding accounting for persons missing from designated past conflicts.”
+
 #### Recovery and Identification of Remains of Certain World War II Servicemen Lost in Pacific Theater of Operations
 Pub. L. 106–65, div. A, title V, § 576, Oct. 5, 1999, 113 Stat. 624, as amended by Pub. L. 107–107, div. A, title X, § 1048(g)(3), Dec. 28, 2001, 115 Stat. 1228, provided that: “(a) Recovery of Remains.—(1) The Secretary of Defense shall make every reasonable effort to search for, recover, and identify the remains of United States servicemen lost in the Pacific theater of operations during World War II (including in New Guinea) while engaged in flight operations. “(2) In order to provide high priority to carrying out paragraph (1), the Secretary of Defense shall consider increasing the number of personnel assigned to the Central Identification Laboratory, Hawaii. “(3) Not later than September 30, 2000, the Secretary shall submit to Congress a report setting forth the efforts made to accomplish the objectives specified in paragraph (1). The Secretary shall include in the report a statement of the backlog of cases at the Central Identification Laboratory, Hawaii, shown by conflict, and the status of the joint manning plan required by section 566(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2029). “(b) Diplomatic Intervention if Required.—The Secretary of State, upon request by the Secretary of Defense, shall work with officials of governments of nations in the area that was covered by the Pacific theater of operations of World War II to seek to overcome any diplomatic obstacles that may impede the Secretary of Defense from carrying out the objectives specified in subsection (a)(1).”
 
@@ -805,7 +808,7 @@ Pub. L. 111–84, div. A, title V, § 541(d), Oct. 28, 2009, 123 Stat. 2298, pro
 2002—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1511"></a>

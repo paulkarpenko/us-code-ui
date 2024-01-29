@@ -20,7 +20,11 @@ source: >-
 
 (4) at the discretion of the Secretary of Defense, while the officer is awaiting orders after being relieved from the position designated under subsection (a) or by law to carry one of those grades, but not for more than 60 days beginning on the day the officer is relieved from the position, unless, during such period, the officer is placed under orders to another position designated under subsection (a) or by law to carry one of those grades, in which case paragraph (2) will also apply to the officer; and
 
-(5) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but not for more than 60 days.
+(5) while awaiting retirement, beginning on the day he is relieved from the position designated under subsection (a) or by law to carry one of those grades and ending on the day before his retirement, but—
+
+  (A) subject to subparagraph (B), not for more than 60 days; and
+
+  (B) with respect to an officer awaiting retirement following not less than one year of consecutive deployment outside of the United States to a combat zone (as defined in section 112(c) of the Internal Revenue Code of 1986) or in support of a contingency operation, not for more than 90 days.
 
 **(c)**
 
@@ -34,11 +38,18 @@ source: >-
 
 (2) Whenever a vacancy occurs in a position within the Department of Defense that the President has designated as a position of importance and responsibility to carry the grade of general or admiral or lieutenant general or vice admiral or in an office that is designated by law to carry such a grade, the Secretary of Defense shall inform the President of the qualifications needed by an officer serving in that position or office to carry out effectively the duties and responsibilities of that position or office.
 
-**(e)** Prior to making a recommendation to the Secretary of Defense for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of lieutenant general or general in the Army, Air Force, or Marine Corps, vice admiral or admiral in the Navy, or the commensurate grades in the Space Force, the Secretary concerned shall consider all officers determined to be among the best qualified for such position.
+**(e)** Prior to making a recommendation to the Secretary of Defense for the nomination of an officer for appointment to a position of importance and responsibility under this section, which appointment would result in the initial appointment of the officer concerned in the grade of lieutenant general or general in the Army, Air Force, Marine Corps, or Space Force or vice admiral or admiral in the Navy, the Secretary concerned shall consider all officers determined to be among the best qualified for such position.
 
 ### Statutory Notes
 
+#### References in Text
+Section 112 of the Internal Revenue Code of 1986, referred to in subsec. (b)(5)(B), is classified to [section 112 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section112&num=0&edition=prelim), Internal Revenue Code.
+
 #### Amendments
+2023—Subsec. (e). Pub. L. 118–31 substituted “Marine Corps, or Space Force or” for “or Marine Corps,” and struck out “or the commensurate grades in the Space Force,” after “in the Navy,”.
+
+2022—Subsec. (b)(5). Pub. L. 117–263 substituted “retirement, but—” and subpars. (A) and (B) for “retirement, but not for more than 60 days.”
+
 2021—Subsec. (a). Pub. L. 116–283, § 924(b)(3)(C), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
 
 Subsec. (e). Pub. L. 116–283, § 551(b)(1), added subsec. (e).
@@ -67,24 +78,24 @@ Subsec. (b)(4). Pub. L. 104–106, § 403(c)(4), inserted “under subsection (a
 Pub. L. 102–190, div. A, title V, § 502(b), Dec. 5, 1991, 105 Stat. 1355, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the first day of the first month that begins more than 90 days after the date of the enactment of this Act [Dec. 5, 1991].”
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 For provisions relating to temporary appointments of officers serving in grades above major general or rear admiral, see section 623 of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).
 
 
 <a id="section-602"></a>
-## § 602. Repealed. Pub. L. 102–190, div. A, title XI, § 1113(a), Dec. 5, 1991, 105 Stat. 1502]
+## § 602. Flexibility in determining terms of appointment for certain senior officer positions
+
+The Secretary of Defense may extend or reduce the duration of an appointment made under section 152, 154, 7033, 8033, 8043, 9033, or 9082 of this title by up to six months if the Secretary determines that such an extension or reduction is necessary either in the interests of national defense, or to ensure an appropriate staggering of terms of senior military leadership.
 
 ### Statutory Notes
 
-Section, Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2849, related to temporary promotions of warrant officers.
-
-#### Effective Date of Repeal
-Repeal effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
+#### Prior Provisions
+A prior section 602, Pub. L. 96–513, title I, § 105, Dec. 12, 1980, 94 Stat. 2849, related to temporary promotions of warrant officers, prior to repeal by Pub. L. 102–190, div. A, title XI, § 1113(a), Dec. 5, 1991, 105 Stat. 1502.
 
 
 <a id="section-603"></a>
@@ -138,7 +149,7 @@ whichever is earliest.”
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Delegation of Functions
 Functions of President under subsecs. (a) and (b) to make or vacate certain temporary commissioned appointments delegated to Secretary of Defense to perform during a time of war or national emergency, without approval, ratification, or other action by President, and with authority for Secretary to redelegate, provided that, during a national emergency declared by President, exercise of any such authority be specifically directed by President in accordance with [section 1631 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1631&num=0&edition=prelim), War and National Defense, and that Secretary ensure any authority so delegated be accounted for as required by [section 1641 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641&num=0&edition=prelim), see Ex. Ord. No. 12396, §§ 2, 3, Dec. 9, 1982, 47 F.R. 55897, 55898, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
@@ -193,7 +204,7 @@ George W. Bush.
 
 <a id="section-605"></a>
 ## § 605. Promotion to certain grades for officers with critical skills: colonel, lieutenant colonel, major, captain; captain, commander, lieutenant commander, lieutenant
-**(a) In General.—** An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, or Marine Corps, or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
+**(a) In General.—** An officer in the grade of first lieutenant, captain, major, or lieutenant colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant (junior grade), lieutenant, lieutenant commander, or commander in the Navy, who is described in subsection (b) may be temporarily promoted to the grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable, under regulations prescribed by the Secretary of the military department concerned. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
 
 **(b) Covered Officers.—** An officer described in this subsection is any officer in a grade specified in subsection (a) who—
 
@@ -201,7 +212,7 @@ George W. Bush.
 
 (2) is serving in a position (as determined by the Secretary of the military department concerned) that—
 
-  (A) is designated to be held by a captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable; and
+  (A) is designated to be held by a captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, as applicable; and
 
   (B) requires that an officer serving in such position have the skill possessed by such officer.
 
@@ -213,9 +224,9 @@ George W. Bush.
 
 **(f) Termination of Appointment.—** Unless sooner terminated, an appointment under this section terminates—
 
-(1) on the date the officer who received the appointment is promoted to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy; or
+(1) on the date the officer who received the appointment is promoted to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy; or
 
-(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, or Marine Corps, or lieutenant, lieutenant commander, commander, or captain in the Navy, in which case the appointment terminates on the date the officer is promoted to that grade.
+(2) on the date the officer is detached from a position described in subsection (b)(2), unless the officer is on a promotion list to the permanent grade of captain, major, lieutenant colonel, or colonel in the Army, Air Force, Marine Corps, or Space Force, or lieutenant, lieutenant commander, commander, or captain in the Navy, in which case the appointment terminates on the date the officer is promoted to that grade.
 
 **(g) Limitation on Number of Eligible Positions.—** An appointment under this section may only be made for service in a position designated by the Secretary of the military department concerned for the purposes of this section. The number of positions so designated may not exceed the following:
 
@@ -231,15 +242,25 @@ George W. Bush.
 
 (2) In the case of the Air Force—
 
-  (A) as captain, 100;
+  (A) as captain 95;
 
-  (B) as major, 325;
+  (B) as major, 305;
 
-  (C) as lieutenant colonel, 175; and
+  (C) as lieutenant colonel, 165; and
 
-  (D) as colonel, 80.
+  (D) as colonel, 75.
 
-(3) In the case of the Marine Corps—
+(3) In the case of the Space Force—
+
+  (A) as captain, 5;
+
+  (B) as major, 20;
+
+  (C) as lieutenant colonel, 10; and
+
+  (D) as colonel, 5.
+
+(4) In the case of the Marine Corps—
 
   (A) as captain, 50;
 
@@ -249,12 +270,33 @@ George W. Bush.
 
   (D) as colonel, 50.
 
-(4) In the case of the Navy—
+(5) In the case of the Navy—
 
   (A) as lieutenant, 100;
 
-  (B) as lieutenant commander, 325;
+  (B) as lieutenant commander, 425;
 
   (C) as commander, 175; and
 
   (D) as captain, 80.
+
+### Statutory Notes
+
+#### Amendments
+2023—Pub. L. 118–31, § 1716(d)(1), substituted “Marine Corps, or Space Force,” for “or Marine Corps,” wherever appearing.
+
+Subsec. (g)(2) to (4). Pub. L. 118–31, § 1716(d)(2), added pars. (2) and (3), redesignated former par. (3) as (4), and struck out former par. (2) which read as follows: “In the case of the Air Force—
+
+“(A) as captain, 100;
+
+“(B) as major, 325;
+
+“(C) as lieutenant colonel, 175; and
+
+“(D) as colonel, 80.”
+
+Former par. (4) redesignated (5).
+
+Subsec. (g)(4)(B). Pub. L. 118–31, § 505, substituted “425” for “325”.
+
+Subsec. (g)(5). Pub. L. 118–31, § 1716(d)(2), redesignated par. (4) as (5).

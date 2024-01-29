@@ -232,7 +232,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 **(d) Reports** At least every 2 years, the Advisory Committee shall report to the Director on the assessments carried out under subsection (b) and its recommendations for ways to improve the Program.
 
-**(e) Charter** Notwithstanding section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act, before the termination date specified in subsection (f) of this section.
+**(e) Charter** Notwithstanding [section 1013(b)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b/2&num=0&edition=prelim), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under [section 1008(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1008/c&num=0&edition=prelim), before the termination date specified in subsection (f) of this section.
 
 **(f) Termination** The Advisory Committee shall terminate on September 30, 2017.
 
@@ -240,10 +240,9 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 ### Statutory Notes
 
-#### References in Text
-Sections 9 and 14 of the Federal Advisory Committee Act, referred to in subsec. (e), are sections 9 and 14, respectively, of Pub. L. 92–463, which are set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “[section 1013(b)(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b/2&num=0&edition=prelim), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under [section 1008(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1008/c&num=0&edition=prelim),” for “section 14(b)(2) of the Federal Advisory Committee Act (5 U.S.C. App.), the Advisory Committee shall not be required to file a charter subsequent to its initial charter, filed under section 9(c) of such Act,”.
+
 2015—Pub. L. 114–52 amended section generally. Prior to amendment, section established a National Advisory Committee on Windstorm Impact Reduction.
 
 

@@ -130,6 +130,10 @@ Section was enacted as part of the Departments of Labor, Health and Human Servic
 #### Similar Provisions
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–47, div. D, title I, Mar. 23, 2024, 138 Stat. 639.
+
+Pub. L. 117–328, div. H, title I, Dec. 29, 2022, 136 Stat. 4845.
+
 Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 432.
 
 Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1558.
@@ -495,7 +499,7 @@ Amendment by Pub. L. 95–164 effective 120 days after Nov. 9, 1977, except as o
 Section operative 90 days after Dec. 30, 1969, except to the extent an earlier date is specifically provided for in Pub. L. 91–173, see section 509 of Pub. L. 91–173, set out as a note under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -2305,7 +2309,7 @@ Grade GS–2, referred to in subsec. (a)(1), is contained in the General Schedul
 
 The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsec. (a)(2), (3), and (5), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under [section 901 of this title](./chapter-022-mine-safety-and-health.md#section-901).
 
-The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of that Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of that Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified to Title 26, Internal Revenue Code.
 
@@ -2372,7 +2376,7 @@ Pub. L. 103–112, title V, § 508(a), Oct. 21, 1993, 107 Stat. 1113, provided t
 #### References in Text
 The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsec. (b), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under [section 901 of this title](./chapter-022-mine-safety-and-health.md#section-901).
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of this Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of this Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2002—Subsec. (a). Pub. L. 107–275, § 2(a), substituted “Secretary” for “Commissioner of Social Security”.
@@ -2540,7 +2544,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 ### Statutory Notes
 
 #### References in Text
-Public Law 803, 69th Congress, referred to in subsec. (b)(2)(F), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (b)(2)(F), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1978—Subsec. (a). Pub. L. 95–239, § 3(b)(3), inserted reference to cases in which benefits based upon eligibility under par. (5) of [section 921(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section921/c&num=0&edition=prelim) are involved.
@@ -2625,7 +2629,7 @@ Amendment by section 4(e) of Pub. L. 92–303 effective Dec. 30, 1969, see secti
 #### References in Text
 Section 28(h)(1) of the Longshore and Harbor Workers’ Compensation Act Amendments of 1984, referred to in subsec. (a), is section 28(h)(1) of Pub. L. 98–426, which is set out as a note under [section 907 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section907&num=0&edition=prelim), Navigation and Navigable Waters.
 
-Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, as amended, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
+Public Law 803, 69th Congress, referred to in subsec. (a), is act Mar. 4, 1927, ch. 509, 44 Stat. 1424, popularly known as the Longshore and Harbor Workers’ Compensation Act, which is classified generally to chapter 18 (§ 901 et seq.) of Title 33. For complete classification of this Act to the Code, see [section 901 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section901&num=0&edition=prelim) and Tables.
 
 Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-554, § 8(a), Sept. 6, 1966, 80 Stat. 647.
 
@@ -2712,7 +2716,7 @@ Qualified individuals appointed by the Secretary of Labor may hear and determine
 ### Statutory Notes
 
 #### References in Text
-The Federal Coal Mine Health and Safety Act of 1969, referred to in text, is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was renamed the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290. Parts B and C of title IV of the Federal Mine Safety and Health Act of 1977 are classified generally to part B (§ 921 et seq.) of this subchapter and to this part (§ 931 et seq.), respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in text, is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was renamed the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290. Parts B and C of title IV of the Federal Mine Safety and Health Act of 1977 are classified generally to part B (§ 921 et seq.) of this subchapter and to this part (§ 931 et seq.), respectively. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
 
 #### Codification
 Section was not enacted as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter or the Black Lung Benefits Act which comprises this subchapter.
@@ -2813,7 +2817,7 @@ Section 6321, referred to in subsec. (b)(3)(A)(i), means [section 6321 of Title 
 
 Section 6332(b), referred to in subsec. (b)(3)(A)(i), means [section 6332(b) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6332/b&num=0&edition=prelim).
 
-The Bankruptcy Act, referred to in subsec. (b)(3)(B), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
+The Bankruptcy Act, referred to in subsec. (b)(3)(B), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 #### Codification
 In subsec. (b)(3)(B), “[section 3713(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3713/a&num=0&edition=prelim)” substituted for “section 3466 of the Revised Statutes ([31 U.S.C. 191](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section191&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -2949,7 +2953,7 @@ The amendments made by the Black Lung Benefits Act of 1972, the Black Lung Benef
 ### Statutory Notes
 
 #### References in Text
-The Black Lung Benefits Act of 1972, referred to in text, is Pub. L. 92–303, May 19, 1972, 86 Stat. 150, as amended, which is classified generally to sections 901, 902, 921 to 925, 931 to 934, and 936 to 941 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title](./chapter-022-mine-safety-and-health.md#section-901) and Tables.
+The Black Lung Benefits Act of 1972, referred to in text, is Pub. L. 92–303, May 19, 1972, 86 Stat. 150, which is classified generally to sections 901, 902, 921 to 925, 931 to 934, and 936 to 941 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title](./chapter-022-mine-safety-and-health.md#section-901) and Tables.
 
 The Black Lung Benefits Reform Act of 1977, referred to in text, is Pub. L. 95–239, Mar. 1, 1978, 92 Stat. 95. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
 
@@ -3132,7 +3136,7 @@ Repeal effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275,
 #### References in Text
 This chapter, referred to in subsecs. (a)(12), (c), (e), and (f), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section651&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1977—Subsec. (a). Pub. L. 95–164, § 303(a)(1), (2), (6), substituted “The Secretary of the Interior and” for “The Secretary and” in provisions preceding par. (1), inserted references to mines and mining other than coal mines and coal mining in pars. (1), (2), (3), (4), and (9), added par. (11), and redesignated former par. (11) as (12).
@@ -3414,7 +3418,7 @@ In any proceeding in which the validity of any interim mandatory health or safet
 ### Statutory Notes
 
 #### References in Text
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (a) and (b)(1), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (a) and (b)(1), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to this chapter (§ 801 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
 
 The Federal Metal and Nonmetallic Mine Safety Act, referred to in subsecs. (a) and (b), is Pub. L. 89–577, Sept. 16, 1966, 80 Stat. 772, which was classified generally to chapter 21 (§ 721 et seq.) of this title and was repealed by Pub. L. 95–164, title III, § 306(a), Nov. 9, 1977, 91 Stat. 1322.
 
@@ -3446,13 +3450,17 @@ The Secretary is authorized to accept lands, buildings, equipment, and other con
 ### Statutory Notes
 
 #### References in Text
-Secretary, referred to in text, is the Secretary of Labor as referred to in title I of division H of Pub. L. 117–103. See paragraph (2)(A) under the heading “Training and Employment Services” (136 Stat. 422), which is not classified to the Code.
+Secretary, referred to in text, is the Secretary of Labor as referred to in title I of division D of Pub. L. 118–47. See third proviso under the heading “Training and Employment Services” (138 Stat. 629), which is not classified to the Code.
 
 #### Codification
 Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Federal Mine Safety and Health Act of 1977 which comprises this chapter.
 
 #### Similar Provisions
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. H, title I, Dec. 29, 2022, 136 Stat. 4845.
+
+Pub. L. 117–103, div. H, title I, Mar. 15, 2022, 136 Stat. 432.
 
 Pub. L. 116–260, div. H, title I, Dec. 27, 2020, 134 Stat. 1558.
 

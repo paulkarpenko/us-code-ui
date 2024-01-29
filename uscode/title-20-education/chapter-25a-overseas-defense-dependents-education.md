@@ -320,7 +320,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 1759. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(1), (2), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Parts B and C of the Act are classified generally to subchapters II (§ 1411 et seq.) and III (§ 1431 et seq.), respectively, of chapter 33 of this title. For complete classification of this Act to the Code, see [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400) and Tables.
 
 #### Amendments
 2004—Subsec. (c)(2). Pub. L. 108–446 substituted “section 636” for “section 677” and “part C” for “part H”.
@@ -364,7 +364,7 @@ Subsec. (b). Pub. L. 96–88, § 508(j)(2), empowered the Secretary of Education
 Amendment by Pub. L. 96–88, effective May 4, 1980, with specified exceptions, see section 601 of Pub. L. 96–88, set out as an Effective Date note under [section 3401 of this title](./chapter-048-department-of-education.md#section-3401).
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-929"></a>

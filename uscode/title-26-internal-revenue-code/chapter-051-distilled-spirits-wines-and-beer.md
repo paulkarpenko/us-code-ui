@@ -73,52 +73,33 @@ source: >-
 
     (ii) *Apportionment* — For purposes of this paragraph, in the case of a controlled group, rules similar to section 5051(a)(5)(B) shall apply.
 
+(4) **Refunds in lieu of reduced rates for foreign production removed after December 31, 2022**
+
+  (A) *In general* — In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United States, if such proof gallons of distilled spirits are removed after December 31, 2022—
+
+    (i) paragraph (1) shall not apply, and
+
+    (ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+  (B) *Amount of refund* — The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+    (i) the excess (if any) of—
+
+      (I) the amount of tax imposed under this subpart on proof gallons of distilled spirits referred to in subparagraph (A) which were removed during such period, over
+
+      (II) the amount of tax which would have been imposed under this subpart on such proof gallons of distilled spirits if this section were applied without regard to this paragraph, plus
+
+    (ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+  (C) *Application of rules related to elections and assignments* — Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph.
+
+  (D) *Rules for refunds within 90 days* — For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
+
+(5) **Processed distilled spirits** — A distilled spirit shall not be treated as processed for purposes of this subsection unless a process described in section 5002(a)(5)(A) (other than bottling) is performed with respect to such distilled spirit.
+
 **(d) Cross reference** For provisions relating to the tax on shipments to the United States of taxable articles from Puerto Rico and the Virgin Islands, see section 7652.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 116–260, div. EE, title I, § 107(a)(1), (3), Dec. 27, 2020, 134 Stat. 3045, 3046, provided that, applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, subsection (c) of this section is amended by adding at the end the following new paragraph:
-
-(4) Refunds in lieu of reduced rates for foreign production removed after December 31, 2022
-
-(A) In general
-
-In the case of any proof gallons of distilled spirits which have been produced outside the United States and imported into the United States, if such proof gallons of distilled spirits are removed after December 31, 2022—
-
-(i) paragraph (1) shall not apply, and
-
-(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
-
-(B) Amount of refund
-
-The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
-
-(i) the excess (if any) of—
-
-(I) the amount of tax imposed under this subpart on proof gallons of distilled spirits referred to in subparagraph (A) which were removed during such period, over
-
-(II) the amount of tax which would have been imposed under this subpart on such proof gallons of distilled spirits if this section were applied without regard to this paragraph, plus
-
-(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
-
-(C) Application of rules related to elections and assignments
-
-Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (3) and the proof gallons of distilled spirits have been assigned to the importer pursuant to such paragraph.
-
-(D) Rules for refunds within 90 days
-
-For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
-
-See 2020 Amendment note below.
-
-Pub. L. 116–260, div. EE, title I, § 109, Dec. 27, 2020, 134 Stat. 3049, provided that, applicable to distilled spirits removed after Dec. 31, 2021, subsection (c) of this section, as amended by the preceding provisions of div. EE of Pub. L. 116–260, is amended by adding at the end the following:
-
-(5) Processed distilled spirits
-
-A distilled spirit shall not be treated as processed for purposes of this subsection unless a process described in section 5002(a)(5)(A) (other than bottling) is performed with respect to such distilled spirit.
-
-See 2020 Amendment note below.
 
 #### Prior Provisions
 A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955, ch. 18, § 3(a)(4), (5), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(4), (5), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(2), (3), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(2), (3), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859. See [section 5061(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section5061/d&num=0&edition=prelim).
@@ -908,7 +889,7 @@ Pub. L. 96–598, § 6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: “The a
 ### Statutory Notes
 
 #### References in Text
-The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see [section 201 of Title 27](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (b), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see [section 201 of Title 27](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 5011, act Aug. 16, 1954, ch. 736, 68A Stat. 604, related to abatement, remission, refund and allowance for loss or destruction of distilled spirits, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -1036,7 +1017,29 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
 
   (C) *Controlled group* — For purposes of this section, any importer making an election described in subparagraph (B)(ii) shall be deemed to be a member of the controlled group of the foreign producer, as described under paragraph (3).
 
-(7) **Regulations** — The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
+(7) **Refunds in lieu of tax credits for foreign production removed after December 31, 2022**
+
+  (A) *In general* — In the case of any wine gallons of wine which have been produced outside the United States and imported into the United States, if such wine gallons are removed after December 31, 2022—
+
+    (i) paragraph (1) shall not apply, and
+
+    (ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+  (B) *Amount of refund* — The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+    (i) excess (if any) of—
+
+      (I) the amount of tax imposed under this section on wine gallons of wine referred to in subparagraph (A) which were removed during such period, over
+
+      (II) the amount of tax which would have been imposed under this section (including any allowable credits) on such gallons of wine if this section were applied without regard to this paragraph, plus
+
+    (ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+  (C) *Application of rules related to elections and assignments* — Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
+
+  (D) *Rules for refunds within 90 days* — For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
+
+(8) **Regulations** — The Secretary may prescribe such regulations as may be necessary to carry out the purposes of this subsection, including regulations to ensure proper calculation of the credit provided in this subsection.
 
 **(d) Wine gallon** For the purpose of this chapter, the term “wine gallon” means a United States gallon of liquid measure equivalent to the volume of 231 cubic inches. On lesser quantities the tax shall be paid proportionately (fractions of less than one-tenth gallon being converted to the nearest one-tenth gallon, and five-hundredths gallon being converted to the next full one-tenth gallon).
 
@@ -1093,41 +1096,6 @@ Repeal effective Jan. 1, 1980, see section 810 of Pub. L. 96–39, set out as an
     (iv) which contains less than 8.5 percent alcohol by volume.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)
-Pub. L. 116–260, div. EE, title I, § 107(c), Dec. 27, 2020, 134 Stat. 3047, provided that, applicable to wine removed after Dec. 31, 2022, subsection (c) of this section is amended by redesignating paragraph (7) as paragraph (8) and by inserting after paragraph (6) the following new paragraph:
-
-(7) Refunds in lieu of tax credits for foreign production removed after December 31, 2022
-
-(A) In general
-
-In the case of any wine gallons of wine which have been produced outside the United States and imported into the United States, if such wine gallons are removed after December 31, 2022—
-
-(i) paragraph (1) shall not apply, and
-
-(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
-
-(B) Amount of refund
-
-The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
-
-(i) excess (if any) of—
-
-(I) the amount of tax imposed under this section on wine gallons of wine referred to in subparagraph (A) which were removed during such period, over
-
-(II) the amount of tax which would have been imposed under this section (including any allowable credits) on such gallons of wine if this section were applied without regard to this paragraph, plus
-
-(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
-
-(C) Application of rules related to elections and assignments
-
-Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (6) and the wine gallons of wine have been assigned to the importer pursuant to such paragraph.
-
-(D) Rules for refunds within 90 days
-
-For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
-
-See 2020 Amendment note below.
 
 #### Codification
 Pub. L. 116–260, div. EE, title I, § 110(b), Dec. 27, 2020, 134 Stat. 3049, provided that, for single taxpayer rules relating to wine, see the cross reference under subsec. (c)(3) of this section.
@@ -1479,6 +1447,28 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 
   (C) *Single taxpayer* — Pursuant to rules issued by the Secretary, two or more entities (whether or not under common control) that produce beer under a license, franchise, or other arrangement shall be treated as a single taxpayer for purposes of the application of this subsection.
 
+(6) **Refunds in lieu of reduced rates for foreign production removed after December 31, 2022**
+
+  (A) *In general* — In the case of any barrels of beer which have been produced outside the United States and imported into the United States, if such barrels of beer are removed after December 31, 2022—
+
+    (i) paragraph (1)(A)(i) shall not apply, and
+
+    (ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
+
+  (B) *Amount of refund* — The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
+
+    (i) excess (if any) of—
+
+      (I) the amount of tax imposed under this section on barrels of beer referred to in subparagraph (A) which were removed during such period, over
+
+      (II) the amount of tax which would have been imposed under this section on such barrels of beer if this section were applied without regard to this paragraph, plus
+
+    (ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
+
+  (C) *Application of rules related to elections and assignments* — Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (4) and the barrels of beer have been assigned to the importer pursuant to such paragraph.
+
+  (D) *Rules for refunds within 90 days* — For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
+
 **(b) Assessment on materials used in production in case of fraud** Nothing contained in this subpart or subchapter G shall be construed to authorize an assessment on the quantity of materials used in producing or purchased for the purpose of producing beer, nor shall the quantity of materials so used or purchased be evidence, for the purpose of taxation, of the quantity of beer produced; but the tax on all beer shall be paid as provided in section 5054, and not otherwise; except that this subsection shall not apply to cases of fraud, and nothing in this subsection shall have the effect to change the rules of law respecting evidence in any prosecution or suit.
 
 **(c) Illegally produced beer** The production of any beer at any place in the United States shall be subject to tax at the rate prescribed in subsection (a) and such tax shall be due and payable as provided in section 5054(a)(3) unless—
@@ -1488,41 +1478,6 @@ A prior section 5045, act Aug. 16, 1954, ch. 736, 68A Stat. 611, consisted of pr
 (2) such production is exempt from tax under section 5053(e) (relating to beer for personal or family use).
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)
-Pub. L. 116–260, div. EE, title I, § 107(b)(1), (2), Dec. 27, 2020, 134 Stat. 3046, 3047, provided that, applicable to beer removed after Dec. 31, 2022, subsection (a) of this section is amended by adding at the end the following new paragraph:
-
-(6) Refunds in lieu of reduced rates for foreign production removed after December 31, 2022
-
-(A) In general
-
-In the case of any barrels of beer which have been produced outside the United States and imported into the United States, if such barrels of beer are removed after December 31, 2022—
-
-(i) paragraph (1)(A)(i) shall not apply, and
-
-(ii) the amount determined under subparagraph (B) shall be allowed as a refund, determined for periods not less frequently than quarterly, to the importer in the same manner as if such amount were an overpayment of tax imposed by this section.
-
-(B) Amount of refund
-
-The amount determined under this subparagraph with respect to any importer for any period is an amount equal to the sum of—
-
-(i) excess (if any) of—
-
-(I) the amount of tax imposed under this section on barrels of beer referred to in subparagraph (A) which were removed during such period, over
-
-(II) the amount of tax which would have been imposed under this section on such barrels of beer if this section were applied without regard to this paragraph, plus
-
-(ii) the amount of interest which would be allowed and paid on an overpayment of tax at the overpayment rate established under section 6621(a)(1) (without regard to the second sentence thereof) were such rate applied to the excess (if any) determined under clause (i) for the number of days in the filing period for which the refund under this paragraph is being determined.
-
-(C) Application of rules related to elections and assignments
-
-Subparagraph (A)(ii) shall apply only if the importer is an electing importer under paragraph (4) and the barrels of beer have been assigned to the importer pursuant to such paragraph.
-
-(D) Rules for refunds within 90 days
-
-For purposes of refunds allowed under this paragraph, section 6611(e) shall be applied by substituting “90 days” for “45 days” each place it appears.
-
-See 2020 Amendment note below.
 
 #### Prior Provisions
 A prior section 5051, act Aug. 16, 1954, ch. 736, 68A Stat. 611, as amended by acts Mar. 30, 1955, ch. 18, § 3(a)(8), 69 Stat. 14; Mar. 29, 1956, ch. 115, § 3(a)(8), 70 Stat. 66; Mar. 29, 1957, Pub. L. 85–12, § 3(a)(6), 71 Stat. 9; June 30, 1958, Pub. L. 85–475, § 3(a)(6), 72 Stat. 259, consisted of provisions similar to those comprising this section, prior to the general revision of this chapter by Pub. L. 85–859.
@@ -2103,7 +2058,7 @@ if such disaster or damage occurred in the United States and if such distilled s
 ### Statutory Notes
 
 #### References in Text
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(3), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 5064, act Aug. 16, 1954, ch. 736, 68A Stat. 615, related to “territorial extent of law”, prior to the general revision of this chapter by Pub. L. 85–859. See [section 5065 of this title](./chapter-051-distilled-spirits-wines-and-beer.md#section-5065).
@@ -2734,7 +2689,7 @@ Section effective July 1, 2008, but inapplicable to taxes imposed for periods be
 ### Statutory Notes
 
 #### References in Text
-The Federal Alcohol Administration Act, referred to in subsec. (d)(1), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. The basic permit is covered by sections 203 and 204 of Title 27. For complete classification of this Act to the Code, see [section 201 of Title 27](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) and Tables.
+The Federal Alcohol Administration Act, referred to in subsec. (d)(1), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, which is classified generally to subchapter I (§ 201 et seq.) of chapter 8 of Title 27, Intoxicating Liquors. The basic permit is covered by sections 203 and 204 of Title 27. For complete classification of this Act to the Code, see [section 201 of Title 27](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title27-section201&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 5171, act Aug. 16, 1954, ch. 736, 68A Stat. 627, related to “premises prohibited for distilling”, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5178(a)(1)(B), (b), (c)(2), and 5505(b) of this title.

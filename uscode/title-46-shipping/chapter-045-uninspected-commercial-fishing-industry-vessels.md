@@ -119,7 +119,17 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (1) shall require the individual in charge of a vessel described in subsection (b) to keep a record of equipment maintenance, and required instruction and drills;
 
-(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, but may require an exam at dockside every 2 years for certain vessels described in subsection (b) if requested by the owner or operator; and
+(2) shall examine at dockside a vessel described in subsection (b) at least once every 5 years, but may require an exam at dockside every 2 years for vessels described in subsection (b) if—
+
+  (A) requested by an owner or operator; or
+
+  (B) the vessel is—
+
+    (i) at least 50 feet overall in length;
+
+    (ii) built before July 1, 2013; and
+
+    (iii) 25 years of age or older; and
 
 (3) shall issue a certificate of compliance to a vessel meeting the requirements of this chapter and satisfying the requirements in paragraph (2).
 
@@ -165,7 +175,7 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for grants under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for fiscal year 2023 for grants under this subsection.
 
 **(j)**
 
@@ -175,13 +185,19 @@ Pub. L. 100–424, § 7, Sept. 9, 1988, 102 Stat. 1592, provided that: “Until 
 
 (3) The Federal share of the cost of any activity carried out with a grant under this subsection shall not exceed 75 percent.
 
-(4) There is authorized to be appropriated $3,000,000 for each of fiscal years 2018 through 2021 for activities under this subsection.
+(4) There is authorized to be appropriated $3,000,000 for fiscal year 2023 for activities under this subsection.
 
 **(k)** For the purposes of this section, the term “auxiliary craft” means a vessel that is carried onboard a fishing vessel and is normally used to support fishing operations.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (f)(2). Pub. L. 117–263, § 11509(a)(1), substituted “vessels described in subsection (b) if—” and subpars. (A) and (B) for “certain vessels described in subsection (b) if requested by the owner or operator; and”.
+
+Subsec. (i)(4). Pub. L. 117–263, § 11328(a)(1), substituted “fiscal year 2023” for “each of fiscal years 2018 through 2021”.
+
+Subsec. (j)(4). Pub. L. 117–263, § 11328(a)(2), substituted “fiscal year 2023” for “each of fiscal years 2018 through 2021”.
+
 2021—Subsec. (i)(3). Pub. L. 116–283, § 8321(a)(1), substituted “75 percent” for “50 percent”.
 
 Subsec. (i)(4). Pub. L. 116–283, § 8321(a)(2), substituted “2021” for “2019”.
@@ -297,6 +313,12 @@ Subsec. (f). Pub. L. 101–595, § 602(c)(2), amended subsec. (f) generally. Pri
 #### Effective Date of 1990 Amendment
 Pub. L. 101–595, title VI, § 602(f), Nov. 16, 1990, 104 Stat. 2992, provided that: “This section [amending this section and sections 2102, 3302, 5102, 8104, and 8702 of this title, and enacting provisions set out as a note under [section 7306 of this title](./chapter-073-merchant-mariners-documents.md#section-7306)] is effective on the date of enactment of this section [Nov. 16, 1990] except as follows: “(1) The requirements imposed by section 3302(c)(4)(B) and (C) of title 46, United States Code, (as enacted by subsection (b) of this section) is effective 6 months after the date of enactment of this Act. “(2) Before January 1, 1993, section 4502(c) (as amended by subsection (c) of this section) does not apply to a fish tender vessel engaged in the Aleutian trade, if the vessel—“(A)(i) before September 8, 1990, operated in that trade; or “(ii) before September 8, 1990, was purchased to be used in that trade and, before June 1, 1992, entered into service in that trade; and “(B) does not undergo a major conversion. “(3) Before January 1, 2003, a fish tender vessel is exempt from chapter 51 of title 46, United States Code, (as amended by subsection (d) of this section) when engaged in the Aleutian trade, if the vessel—“(A)(i) before September 8, 1990, operated in that trade; or “(ii) before September 8, 1990, was purchased to be used in this trade and, before June 1, 1992, entered into service in that trade; “(B) does not undergo a major conversion; and “(C) did not have a load line assigned at any time before the date of enactment of this Act. “(4) The requirements imposed by [section 8702(b)(2) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section8702/b/2&num=0&edition=prelim), United States Code, (as amended by subsection (e)(2)(B) of this section) are effective 1 year after the date of enactment of this Act.”
 
+#### Construction of 2022 Amendment
+Pub. L. 117–263, div. K, title CXV, § 11509(b), Dec. 23, 2022, 136 Stat. 4137, provided that: “Nothing in this section [amending this section and [section 4503 of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4503) and repealing [section 4503a of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4503a)] or the amendments made by this section shall be construed to affect or apply to any alternative compliance and safety agreement entered into by the Coast Guard that is in effect on the date of enactment of this Act [Dec. 23, 2022].”
+
+#### Improvements to Communication With Fishing Industry and Related Stakeholders
+Pub. L. 117–263, div. K, title CXIII, § 11322, Dec. 23, 2022, 136 Stat. 4094, provided that: “(a) In General.—The Commandant [of the Coast Guard], in coordination with the National Commercial Fishing Safety Advisory Committee established by [section 15102 of title 46](./chapter-151-national-maritime-transportation-advisory-committees.md#section-15102), United States Code, shall develop a publicly accessible website that contains all information related to fishing industry activities, including vessel safety, inspections, enforcement, hazards, training, regulations (including proposed regulations), outages of the Rescue 21 system in Alaska and similar outages, and any other fishing-related activities. “(b) Automatic Communications.—The Commandant shall provide methods for regular and automatic email communications with stakeholders who elect, through the website developed under subsection (a), to receive such communications.”
+
 #### Fishing Safety Grants
 Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8321(c), Jan. 1, 2021, 134 Stat. 4702, provided that: “The cap on the Federal share of the cost of any activity carried out with a grant under subsections (i) and (j) of [section 4502 of title 46](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4502), United States Code, as in effect prior to the date of enactment of the Frank LoBiondo Coast Guard Authorization Act of 2018 [Dec. 4, 2018], shall apply to any funds appropriated under the Consolidated Appropriations Act, 2017 (Public Law 115–31) [see Tables for classification] for the purpose of making such grants.”
 
@@ -320,7 +342,7 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (2) has on board a certificate issued by the American Bureau of Shipping or that other organization evidencing compliance with this subsection.
 
-**(b)** Except as provided in section 4503a, subsection (a) applies to a fish processing vessel to which this chapter applies that—
+**(b)** Subsection (a) applies to a fish processing vessel to which this chapter applies that—
 
 (1) is built after July 27, 1990; or
 
@@ -408,6 +430,8 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsecs. (c)(2)(B)(i) and (e)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 substituted “Subsection (a)” for “Except as provided in section 4503a, subsection (a)” in introductory provisions.
+
 2018—Subsec. (b). Pub. L. 115–282, § 508(b)(2), substituted “section 4503a” for “subsection (d)” in introductory provisions.
 
 Subsec. (c)(2)(A). Pub. L. 115–282, § 507(a), substituted “180” for “79”.
@@ -476,59 +500,19 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 #### Final Rule
 Pub. L. 115–282, title V, § 508(f), Dec. 4, 2018, 132 Stat. 4273, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Secretary of the department in which the Coast Guard is operating shall issue a final rule implementing the requirements enumerated in [section 4503(d) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim), as amended by subsection (b)(1) of this section.”
 
+#### Construction of 2022 Amendment
+Nothing in amendment by Pub. L. 117–263 to be construed to affect or apply to any alternative compliance and safety agreement entered into by the Coast Guard that is in effect on Dec. 23, 2022, see section 11509(b) of Pub. L. 117–263, set out as a note under [section 4502 of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4502).
+
 
 <a id="section-4503a"></a>
-## § 4503a. Alternate safety compliance program
-**(a)** Subject to subsection (c), beginning on the date that is 3 years after the date that the Secretary prescribes an alternate safety compliance program, a fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies shall comply with such an alternate safety compliance program, if the vessel—
-
-(1) is at least 50 feet overall in length;
-
-(2) is built before July 1, 2013; and
-
-(3) is 25 years of age or older.
-
-**(b)** A fishing vessel, fish processing vessel, or fish tender vessel built before July 1, 2013, that undergoes a major conversion completed after the later of July 1, 2013, or the date the Secretary prescribes an alternate safety compliance program under subsection (a), shall comply with such an alternate safety compliance program.
-
-**(c)** For purposes of subsection (a), a separate alternate safety compliance program may be developed for a specific region or specific fishery.
-
-**(d)** Notwithstanding subsection (a), vessels owned by a person that owns more than 30 vessels subject to that subsection are not required to meet the alternate safety compliance requirements of that subsection until January 1, 2030, if that owner enters into a compliance agreement with the Secretary that provides for a fixed schedule for all of the vessels owned by that person to meet requirements of that subsection by that date and the vessel owner is meeting that schedule.
-
-**(e)** A fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies that was classed before July 1, 2012 is not eligible to participate in an alternative safety compliance program prescribed under subsection (a) and,11 So in original. Comma probably should appear after “2012” instead. See 2018 Amendment note below. shall—
-
-(1) remain subject to the requirements of a classification society approved by the Secretary; and
-
-(2) have on board a certificate from that society.
-
-**(f)** For the purposes of this section, the term “built” has the meaning given that term in section 4503(f).
+## § 4503a. Repealed. Pub. L. 117–263, div. K, title CXV, § 11509(a)(3), Dec. 23, 2022, 136 Stat. 4137]
 
 ### Statutory Notes
 
-#### Codification
-Section, as added and amended by Pub. L. 115–282, is based on Pub. L. 111–281, title VI, § 604(e)(1)(C), Oct. 15, 2010, 124 Stat. 2966, as amended by Pub. L. 112–213, title III, § 305(c)(2), Dec. 20, 2012, 126 Stat. 1564, which was formerly classified to [section 4503(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim) before being transferred and renumbered as this section.
+Section, added and amended Pub. L. 115–282, title V, § 508(a), (c), Dec. 4, 2018, 132 Stat. 4272, provided for an alternate safety compliance program for certain fishing vessels.
 
-#### Amendments
-2018—Pub. L. 115–282, § 508(c)(2), inserted section designation and catchline before subsec. (a).
-
-Pub. L. 115–282, § 508(a), (c)(1), renumbered [section 4503(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/d&num=0&edition=prelim) as this section and redesignated pars. (1) to (5) thereof as subsecs. (a) to (e), respectively.
-
-Subsec. (a). Pub. L. 115–282, § 508(c)(4), redesignated subpars. (A) to (C) as pars. (1) to (3), respectively.
-
-Pub. L. 115–282, § 508(c)(3), in introductory provisions, substituted “Subject to subsection (c), beginning on the date that is 3 years after the date that the Secretary prescribes an alternate safety compliance program, a fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies shall comply with such an alternate safety compliance program, if” for “After January 1, 2020, a fishing vessel, fish processing vessel, or fish tender vessel to which [section 4502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4502/b&num=0&edition=prelim) applies shall comply with an alternate safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary, if”.
-
-Subsec. (b). Pub. L. 115–282, § 508(c)(5), substituted “prescribes an alternate safety compliance program under subsection (a), shall comply with such an alternate safety compliance program” for “establishes standards for an alternate safety compliance program, shall comply with such an alternative safety compliance program that is developed in cooperation with the commercial fishing industry and prescribed by the Secretary”.
-
-Subsec. (c). Pub. L. 115–282, § 508(c)(6), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Alternative safety compliance programs may be developed for purposes of paragraph (1) for specific regions and fisheries.”
-
-Subsec. (d). Pub. L. 115–282, § 508(c)(7), substituted “subsection (a)” for “paragraph (1)” and, wherever appearing, “that subsection” for “that paragraph”.
-
-Subsec. (e). Pub. L. 115–282, § 508(c)(8)(B), redesignated subpars. (A) and (B) as pars. (1) and (2), respectively.
-
-Pub. L. 115–282, § 508(c)(8)(A), inserted “is not eligible to participate in an alternative safety compliance program prescribed under subsection (a) and” after “July 1, 2012” in introductory provisions.
-
-Subsec. (f). Pub. L. 115–282, § 508(c)(9), added subsec. (f).
-
-#### Alternative Safety Compliance Program
-Pub. L. 111–281, title VI, § 604(f), Oct. 15, 2010, 124 Stat. 2967, provided that: “No later than January 1, 2017, the Secretary of the department in which the Coast Guard is operating shall prescribe an alternative safety compliance program referred to in section 4503(d)(1) [now [46 U.S.C. 4503a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503a/a&num=0&edition=prelim)] of the [sic] title 46, United States Code, as amended by this section.”
+#### Construction of Repeal
+Nothing in repeal by Pub. L. 117–263 to be construed to affect or apply to any alternative compliance and safety agreement entered into by the Coast Guard that is in effect on Dec. 23, 2022, see section 11509(b) of Pub. L. 117–263, set out as a Construction of 2022 Amendment note under [section 4502 of this title](./chapter-045-uninspected-commercial-fishing-industry-vessels.md#section-4502).
 
 
 <a id="section-4504"></a>
@@ -549,9 +533,12 @@ An official authorized to enforce this chapter—
 
 (1) may direct the individual in charge of a vessel to which this chapter applies to immediately take reasonable steps necessary for the safety of individuals on board the vessel if the official observes the vessel being operated in an unsafe condition that the official believes creates an especially hazardous condition, including ordering the individual in charge to return the vessel to a mooring and to remain there until the situation creating the hazard is corrected or ended; and
 
-(2) may order the individual in charge of an uninspected fish processing vessel that does not have on board the certificate required under [section 4503(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/a/2&num=0&edition=prelim) to return the vessel to a mooring and to remain there until the vessel is in compliance with that section, except that this paragraph shall not apply with respect to a vessel to which section 4503a applies.
+(2) may order the individual in charge of an uninspected fish processing vessel that does not have on board the certificate required under [section 4503(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section4503/a/2&num=0&edition=prelim) to return the vessel to a mooring and to remain there until the vessel is in compliance with that section, except that this paragraph shall not apply with respect to a vessel to which section 4503a 11 See References in Text note below. applies.
 
 ### Statutory Notes
+
+#### References in Text
+Section 4503a, referred to in par. (2), was repealed by Pub. L. 117–263, div. K, title CXV, § 11509(a)(3), Dec. 23, 2022, 136 Stat. 4137.
 
 #### Amendments
 2018—Par. (2). Pub. L. 115–282 substituted “4503(a)(2)” for “4503(1)” and inserted “, except that this paragraph shall not apply with respect to a vessel to which section 4503a applies” before period at end.

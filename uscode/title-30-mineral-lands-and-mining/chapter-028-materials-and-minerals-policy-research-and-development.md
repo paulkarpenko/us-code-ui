@@ -215,7 +215,7 @@ It is the continuing policy of the United States to promote an adequate and stab
 ### Statutory Notes
 
 #### References in Text
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (4), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim) and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in par. (4), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Pub. L. 116–260, § 7002(m)(2), in introductory provisions, substituted “It” for “The Congress declares that it” and “Implementation” for “The Congress further declares that implementation”.
@@ -314,7 +314,7 @@ A report summarizing actions required by this subsection shall be made available
 ### Statutory Notes
 
 #### References in Text
-The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, as amended, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim) and Tables.
+The National Science and Technology Policy, Organization, and Priorities Act of 1976, referred to in subsec. (b), is Pub. L. 94–282, May 11, 1976, 90 Stat. 459, which is classified principally to chapter 79 (§ 6601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim) and Tables.
 
 The Defense Production Act of 1950, referred to in subsec. (d), is act Sept. 8, 1950, ch. 932, 64 Stat. 798, which was classified to section 2061 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 55 (§ 4501 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 

@@ -290,7 +290,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
       (II) *Wild river.—* — The approximately 0.7-mile section of Slide Creek from road 33–9–6 to the confluence with the Rogue River, as a wild river.
 
-(6) **Saint Croix, Minnesota and Wisconsin—** — The segment between the the dam near Taylors Falls, Minnesota, and the dam near Gordon, Wisconsin, and its tributary, the Namekago, from Lake Namekago downstream to its confluence with the Saint Croix; to be administered by the Secretary of the Interior: Provided, That except as may be required in connection with items (a) and (b) of this paragraph, no funds available to carry out the provisions of this chapter may be expended for the acquisition or development of lands in connection with, or for administration under this chapter of, that portion of the Saint Croix River between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, until sixty days after the date on which the Secretary has transmitted to the President of the Senate and Speaker of the House of Representatives a proposed cooperative agreement between the Northern States Power Company and the United States (a) whereby the company agrees to convey to the United States, without charge, appropriate interests in certain of its lands between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, including the company’s right, title, and interest to approximately one hundred acres per mile, and (b) providing for the use and development of other lands and interests in land retained by the company between said points adjacent to the river in a manner which shall complement and not be inconsistent with the purposes for which the lands and interests in land donated by the company are administered under this chapter. Said agreement may also include provision for State or local governmental participation as authorized under subsection (e) of [section 1281 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1281). A one-thousand-three-hundred-and-eighty-acre portion of the area commonly known as the Velie Estate, located adjacent to the Saint Croix River in Douglas County, Wisconsin, as depicted on the map entitled “Boundary Map/Velie Estate—Saint Croix National Scenic Riverway”, dated September 1980, and numbered 630–90,001, may be acquired by the Secretary without regard to any acreage limitation set forth in subsection (b) of this section or subsection (a) or (b) of [section 1277 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1277).
+(6) **Saint Croix, Minnesota and Wisconsin—** — The segment between the dam near Taylors Falls, Minnesota, and the dam near Gordon, Wisconsin, and its tributary, the Namekago, from Lake Namekago downstream to its confluence with the Saint Croix; to be administered by the Secretary of the Interior: Provided, That except as may be required in connection with items (a) and (b) of this paragraph, no funds available to carry out the provisions of this chapter may be expended for the acquisition or development of lands in connection with, or for administration under this chapter of, that portion of the Saint Croix River between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, until sixty days after the date on which the Secretary has transmitted to the President of the Senate and Speaker of the House of Representatives a proposed cooperative agreement between the Northern States Power Company and the United States (a) whereby the company agrees to convey to the United States, without charge, appropriate interests in certain of its lands between the dam near Taylors Falls, Minnesota, and the upstream end of Big Island in Wisconsin, including the company’s right, title, and interest to approximately one hundred acres per mile, and (b) providing for the use and development of other lands and interests in land retained by the company between said points adjacent to the river in a manner which shall complement and not be inconsistent with the purposes for which the lands and interests in land donated by the company are administered under this chapter. Said agreement may also include provision for State or local governmental participation as authorized under subsection (e) of [section 1281 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1281). A one-thousand-three-hundred-and-eighty-acre portion of the area commonly known as the Velie Estate, located adjacent to the Saint Croix River in Douglas County, Wisconsin, as depicted on the map entitled “Boundary Map/Velie Estate—Saint Croix National Scenic Riverway”, dated September 1980, and numbered 630–90,001, may be acquired by the Secretary without regard to any acreage limitation set forth in subsection (b) of this section or subsection (a) or (b) of [section 1277 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1277).
 
 (7) **Salmon, Middle Fork, Idaho—** — From its origin to its confluence with the main Salmon River; to be administered by the Secretary of Agriculture.
 
@@ -491,7 +491,7 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
     (vi) The Commission shall cease to exist on the date 10 years after October 28, 1988.
 
-    (vii) The provisions of section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776), are hereby waived with respect to the Commission.
+    (vii) The provisions of [section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim) are hereby waived with respect to the Commission.
 
   (C) The authority of the Secretary to acquire lands outside the boundary of the White Mountain National Forest for purposes of this paragraph shall be limited to acquisition by donation or acquisition with the consent of the owner thereof. The Secretary may also acquire scenic easements for purposes of this paragraph as provided in [section 1277 of this title](./chapter-028-wild-and-scenic-rivers.md#section-1277).
 
@@ -1976,6 +1976,46 @@ Section consists of subsec. (c) of section 1 of Pub. L. 90–542. Subsecs. (a) a
 
   (G) The 3.6-mile segment of the main stem of the Whitewater River from the San Gorgonio Wilderness boundary to .25 miles upstream of the southern boundary of section 35, T. 2 S., R. 3 E., San Bernardino Meridian, as a recreational river.
 
+(231) **York river, maine.—** — The following segments of the main stem and tributaries (including portions of Bass Cove Creek, Cider Hill Creek, Cutts Ridge Brook, Dolly Gordon Brook, Libby Brook, Rogers Brook, and Smelt Brook) in the State of Maine, totaling approximately 30.8 miles, to be administered by the Secretary of the Interior, as a recreational river:
+
+  (A) The approximately 0.95-mile segment of Bass Cove Creek from the outlet of Boulter Pond in York, Maine, and extending downstream to the confluence with the York River in York, Maine.
+
+  (B) The approximately 3.77-mile segment of Cider Hill Creek from the Middle Pond dam in York, Maine, and extending downstream to the confluence with the York River in York, Maine.
+
+  (C) The approximately 2.15-mile segment of Cutts Ridge Brook from the headwaters in Kittery, Maine, and extending downstream to the confluence with the York River in York, Maine.
+
+  (D) The approximately 3.17-mile segment of Dolly Gordon Brook from the headwaters in York, Maine, and extending downstream to the confluence with the York River in York, Maine.
+
+  (E) The approximately 1.65-mile segment of Libby Brook from the headwaters in Kittery, Maine, and extending downstream to the confluence with Dolly Gordon Brook in York, Maine.
+
+  (F) The approximately 2.43-mile segment of Rogers Brook from the headwaters in Eliot, Maine, and extending downstream to the confluence with the York River in York, Maine.
+
+  (G) The approximately 4.54-mile segment of Smelt Brook from the Bell Marsh Reservoir dam in York, Maine, and extending downstream to the confluence with the York River in York, Maine.
+
+  (H) The approximately 12.14-mile segment of the York River from the outlet of York Pond in Eliot, Maine, and extending downstream to the Route 103 Bridge in York, Maine, including Barrell Mill Pond in York, Maine.
+
+(232) **Housatonic river, connecticut.—**
+
+  (A) *In general.—* — The following segments of the Housatonic River in the State of Connecticut, to be administered by the Secretary of the Interior:
+
+    (i) The approximately 14.9-mile segment from the Massachusetts-Connecticut boundary to the covered bridge in West Cornwall, as a scenic river.
+
+    (ii) The approximately 4.1-mile segment from the covered bridge in West Cornwall to the Cornwall Bridge, as a recreational river.
+
+    (iii) The approximately 9.1-mile segment from the Cornwall Bridge to the Route 341 bridge in Kent, as a scenic river.
+
+    (iv) The approximately 12.2-mile segment from the Route 341 bridge in Kent to the Boardman Bridge in New Milford, as a recreational river.
+
+  (B) *Effects on hydroelectric facilities.—* — The designation of the river segments in subparagraph (A) shall not—
+
+    (i) impact or alter the existing terms of permitting, licensing, or operation of—
+
+      (I) the Falls Village Hydroelectric Generating Station located in Falls Village, Connecticut (FERC P–2576); or
+
+      (II) the Bulls Bridge Hydroelectric Generating Station located in New Milford, Connecticut (FERC P–2576); or
+
+    (ii) preclude the Federal Energy Regulatory Commission from licensing, relicensing, or otherwise authorizing the operation or continued operation of the facilities named in clause (i).
+
 **(b) Establishment of boundaries; classification** The agency charged with the administration of each component of the national wild and scenic rivers system designated by subsection (a) of this section shall, within one year from the date of designation of such component under subsection (a) (except where a different date if 1616 So in original. Probably should be “is”. provided in subsection (a)), establish detailed boundaries therefor (which boundaries shall include an average of not more than 320 acres of land per mile measured from the ordinary high water mark on both sides of the river); and determine which of the classes outlined in [section 1273(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1273/b&num=0&edition=prelim) best fit the river or its various segments. Notice of the availability of the boundaries and classification, and of subsequent boundary amendments shall be published in the Federal Register and shall not become effective until ninety days after they have been forwarded to the President of the Senate and the Speaker of the House of Representatives.
 
 **(c) Public inspection of maps and descriptions** Maps of all boundaries and descriptions of the classifications of designated river segments, and subsequent amendments to such boundaries, shall be available for public inspection in the offices of the administering agency in the District of Columbia and in locations convenient to the designated river.
@@ -1995,13 +2035,17 @@ The Act establishing the Delaware Water Gap National Recreation Area, referred t
 
 The Raker Act, referred to in subsec. (a)(53), is act Dec. 19, 1913, ch. 4, 38 Stat. 242, which is not classified to the Code.
 
-Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (a)(67)(B)(vii), is section 14(b) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 105 of the Omnibus Oregon Wild and Scenic Rivers Act of 1988, referred to in subsec. (a)(73)(E) and (85)(B), is section 105 of Pub. L. 100–557, which is set out as a note below.
 
 Section 203 of the Flood Control Act of 1958, referred to in subsec. (a)(136)(D), is section 203 of Pub. L. 85–500, title II, July 3, 1958, 72 Stat. 305, which is not classified to the Code.
 
 #### Amendments
+2022—Subsec. (a)(67)(B)(vii). Pub. L. 117–286 substituted “[section 1013(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/b&num=0&edition=prelim)” for “section 14(b) of the Federal Advisory Committee Act (Act of October 6, 1972; 86 Stat. 776),”.
+
+Subsec. (a)(231). Pub. L. 117–328, § 401(a), added par. (231).
+
+Subsec. (a)(232). Pub. L. 117–328, § 402(a), added par. (232).
+
 2019—Subsec. (a)(5). Pub. L. 116–9, § 1205(a)(1)(A), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “The segment of the river extending from the mouth of the Applegate River downstream to the Lobster Creek Bridge; to be administered by agencies of the Departments of the Interior or Agriculture as agreed upon by the Secretaries of said Departments or as directed by the President.”
 
 Subsec. (a)(69). Pub. L. 116–9, § 1205(a)(2)(A), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (C) as cls. (i) to (iii), respectively, of subpar. (A) and realigned margins, substituted “27.5-mile” for “25.5-mile” and “Mislatnah Creek” for “Boulder Creek at the Kalmiopsis Wilderness boundary” in cl. (i), “7.5-mile” for “8-mile” and “Mislatnah Creek to Eagle Creek” for “Boulder Creek to Steel Bridge” in cl. (ii), and “9.5-mile” for “11-mile” and “Eagle Creek” for “Steel Bridge” in cl. (iii), and added subpar. (B).
@@ -2305,6 +2349,9 @@ Pub. L. 102–275, § 3, Apr. 22, 1992, 106 Stat. 125, provided that 10.4-mile s
 #### Colorado; Administration of Wild and Scenic River Segments of Cache la Poudre River; Noninterference With Existing Decreed Water Rights
 Pub. L. 99–590, title I, § 102, Oct. 30, 1986, 100 Stat. 3331, provided that inclusion of designated portions of Cache la Poudre River in Wild and Scenic Rivers System did not interfere with exercise of existing decreed water rights to water which had theretofore been stored or diverted by means of present capacity of storage, conveyance, or diversion structures that existed as of Oct. 30, 1986, or operation and maintenance of such structures, nor could inclusion of designated portions of Cache la Poudre River in Wild and Scenic Rivers System be utilized in any Federal proceeding, whether concerning a license, permit, right-of-way, or other Federal action, as a reason or basis to prohibit development or operation of any water impoundments, diversion facilities, and hydroelectric power and transmission facilities below Poudre Park located entirely downstream from and potentially affecting designated portions of Cache la Poudre River, or relocation of highway 14 to any point east of the north-south half section line of section 2, township 8 north, range 71 west of the sixth principal meridian, as necessary to provide access to Poudre Park around such facilities.
 
+#### Connecticut; Management of Housatonic Wild and Scenic River Segments
+Pub. L. 117–328, div. DD, title IV, § 402(b), Dec. 29, 2022, 136 Stat. 5597, provided for managment of segments of the Housatonic River designated by subsec. (a)(232) of this section in accordance with the Management Plan, authorized cooperative agreements between the Secretary of the Interior and State and local authorities, and set forth provisions on acquisitions and management of land.
+
 #### Connecticut; Management of Lower Farmington River and Salmon Brook Segments
 Pub. L. 116–9, title I, § 1301(c), Mar. 12, 2019, 133 Stat. 685, set forth provisions relating to management of segments of the Lower Farmington River and Salmon Brook designated by subsec. (a)(225) of this section, directed coordination of management responsibility, authorized cooperative agreements between Secretary of the Interior and State and local authorities, and set forth provisions relating to effect of designation of segments on the Rainbow Dam and Reservoir and acquisitions and management of land for purposes of the segments.
 
@@ -2336,6 +2383,9 @@ Pub. L. 111–11, title I, § 1504(b), (c), Mar. 30, 2009, 123 Stat. 1039, estab
 
 #### Idaho and Oregon; Administration of Wild and Scenic River Segments of Snake River and Rapid River
 Pub. L. 94–199, § 3(b), Dec. 31, 1975, 89 Stat. 1118, provided for administration of Wild and Scenic River segments of Snake River, Idaho and Oregon, and Rapid River, Idaho.
+
+#### Maine; Management of York Wild and Scenic River Segments
+Pub. L. 117–328, div. DD, title IV, § 401(b), Dec. 29, 2022, 136 Stat. 5595, provided for management of segments of the York River designated by subsec. (a)(231) of this section in accordance with the York River Watershed Stewardship Plan, authorized cooperative agreements between the Secretary of the Interior and State and local authorities, and set forth provisions on acquisitions and management of land.
 
 #### Massachusetts and New Hampshire; Management of Scenic River Segments of Nashua, Squannacook, and Nissitissit Rivers
 Pub. L. 116–9, title I, § 1303(b), Mar. 12, 2019, 133 Stat. 690, set forth provisions relating to management of scenic river segments of the Nashua, Squannacook, and Nissitissit Rivers designated by subsec. (a)(227) of this section under the Nashua, Squannacook, and Nissitissit Rivers Stewardship Plan, directed coordination of management responsibility, authorized cooperative agreements between Secretary of the Interior and State and local authorities, and set forth provisions relating to effect of designation of segments on existing hydroelectric facilities and acquisitions and management of land for purposes of the segments.
@@ -2835,6 +2885,14 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
 (144) **York river, maine.—** — The segment of the York River that flows 11.25 miles from the headwaters of the York River at York Pond to the mouth of the river at York Harbor, and any associated tributaries.
 
+(145) **Little manatee river, florida.—** — The approximately 50-mile segment beginning at the source in southeastern Hillsborough County, Florida, downstream to the point at which the river enters Tampa Bay, including appropriate tributaries, but shall not include—
+
+  (A) those portions lying within Manatee County, Florida, and being more particularly described as Parcel ID 247800059, Parcel ID 248200008, and Parcel ID 248100000; and
+
+  (B) South Fork.
+
+(146) **Kissimmee river, florida.—** — The restored segment of the Kissimmee River, beginning approximately 16 miles downstream of Lake Kissimmee and ending approximately 15 miles upstream of Lake Okeechobee.
+
 **(b) Studies and reports**
 
 (1) The studies of rivers named in subparagraphs (28) through (55) of subsection (a) of this section shall be completed and reports thereon submitted by not later than October 2, 1979: Provided, That with respect to the rivers named in subparagraphs (33), (50), and (51), the Secretaries shall not commence any studies until (i) the State legislature has acted with respect to such rivers or (ii) one year from January 3, 1975, whichever is earlier. Studies of the river 33 So in original. Probably should be “rivers”. named in paragraphs (38), (55), (83), and (87) shall be completed and the reports transmitted to the Congress not later than January 1, 1987.
@@ -2935,6 +2993,18 @@ The Federal Power Commission was terminated, and its functions, personnel, prope
 
     (iii) identify any private property located in an area studied under paragraph (142), (143), or (144) of subsection (a).
 
+(22) **Little manatee river, florida.—** — Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+
+  (A) complete the study of the Little Manatee River, Florida named in subsection (a)(145); and
+
+  (B) submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the results of the study.
+
+(23) **Kissimmee river, florida.—** — Not later than 3 years after the date on which funds are made available to carry out this paragraph, the Secretary of the Interior shall—
+
+  (A) complete the study of the Kissimmee River, Florida named in paragraph (146) of subsection (a); and
+
+  (B) submit to the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report that describes the results of the study.
+
 **(c) State participation** The study of any of said rivers shall be pursued in as close cooperation with appropriate agencies of the affected State and its political subdivisions as possible, shall be carried on jointly with such agencies if request for such joint study is made by the State and shall include a determination of the degree to which the State or its political subdivisions might participate in the preservation and administration of the river should it be proposed for inclusion in the national wild and scenic rivers system.
 
 **(d) Continuing consideration by Federal agencies to potential national, wild, scenic and recreational river areas**
@@ -2952,6 +3022,14 @@ Section 5 of the Michigan Scenic Rivers Act of 1990, referred to in subsec. (b)(
 [Section 3183 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3183), referred to in subsec. (b)(6), was in the original “section 1204 of the Alaska National Interest Lands Conservation Act” and has been editorially translated as [section 3183 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3183), which is section 1203 of that Act, as the probable intent of Congress, in view of that Act being enacted without a section 1204 and section 1203 of that Act relating to the Bristol Bay Cooperative Region Plan.
 
 #### Amendments
+2022—Subsec. (a)(145). Pub. L. 117–328, § 403(a), added par. (145).
+
+Subsec. (a)(146). Pub. L. 117–328, § 404(a), added par. (146).
+
+Subsec. (b)(22). Pub. L. 117–328, § 403(b), added par. (22).
+
+Subsec. (b)(23). Pub. L. 117–328, § 404(b), added par. (23).
+
 2014—Subsec. (a)(141). Pub. L. 113–291, § 3041(e)(2)(A), added par. (141).
 
 Subsec. (a)(142) to (144). Pub. L. 113–291, § 3074(a), added pars. (142) to (144).
@@ -3121,6 +3199,12 @@ The Delaware and Lehigh Navigation Canal National Heritage Corridor was redesign
 
 #### Effective Date of 1984 Amendment
 Pub. L. 98–484, § 6, Oct. 17, 1984, 98 Stat. 2260, provided that: “The provisions of this Act [amending this section] shall take effect on the date of the enactment of this Act [Oct. 17, 1984].”
+
+#### Effect on Management of Little Manatee River, Florida
+Pub. L. 117–328, div. DD, title IV, § 403(c), Dec. 29, 2022, 136 Stat. 5599, provided that: “This section [amending this section] and the amendments made by this section shall not interfere with the current management of the area of the Little Manatee River described in paragraph (145) of section 5(a) of the Wild and Scenic Rivers Act ([16 U.S.C. 1276(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1276/a&num=0&edition=prelim)), nor shall the fact that such area is listed for study under that Act [[16 U.S.C. 1271](./chapter-028-wild-and-scenic-rivers.md#section-1271) et seq.] be used as justification for more restrictive management until Congress acts on the study recommendations.”
+
+#### Effect on Management of Kissimmee River, Florida
+Pub. L. 117–328, div. DD, title IV, § 404(c), Dec. 29, 2022, 136 Stat. 5599, provided that: “This section [amending this section] and the amendments made by this section shall not interfere with the current management of the area of the Kissimmee River described in paragraph (146) of section 5(a) of the Wild and Scenic Rivers Act ([16 U.S.C. 1276(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1276/a&num=0&edition=prelim)), nor shall the fact that such area is listed for study under that Act [[16 U.S.C. 1271](./chapter-028-wild-and-scenic-rivers.md#section-1271) et seq.] be used as justification for more restrictive management until Congress acts on the study recommendations.”
 
 #### Genesee River Protection
 Pub. L. 101–175, Nov. 27, 1989, 103 Stat. 1294, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Genesee River Protection Act of 1989’. “SEC. 2. PROTECTION OF THE GENESEE RIVER.“In order to protect for present and future generations the outstanding scenic, natural, recreational, scientific, cultural, and ecological values of the Genesee River within Letchworth Gorge State Park in the State of New York, and to assist in the protection and enhancement of the Gorge’s archeological sites of sacred significance to the Seneca Nation, historic areas, endangered plant communities, and diverse recreation uses, the protections afforded for rivers listed in section 5(a) of the Wild and Scenic Rivers Act ([16 U.S.C. 1276(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1276/a&num=0&edition=prelim)) for study for potential addition to the National Wild and Scenic Rivers System shall apply to the segment of the Genesee River beginning at the southern boundary of Letchworth Gorge State Park and extending downstream to the Mt. Morris Dam, except that the protection so afforded shall not interfere with the Secretary of the Army’s operation and management of Mt. Morris Dam as authorized for purposes of flood control.”

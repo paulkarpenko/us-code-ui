@@ -2,7 +2,7 @@
 title: 12
 chapter: '14'
 heading: FEDERAL CREDIT UNIONS
-section_count: 67
+section_count: 69
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -398,7 +398,7 @@ Functions of Governor of Farm Credit Administration under this section transferr
 
 ### Statutory Notes
 
-#### Editorial Notes
+#### Codification
 Section, act July 22, 1942, ch. 516, 56 Stat. 700, which authorized reimbursement of Farm Credit Administration personnel for use of private automobiles for examining, supervising, and servicing Federal credit unions, was from the Department of Agriculture Appropriation Act, 1943, and was not repeated in subsequent appropriation acts. Similar provisions were contained in act July 1, 1941, ch. 267, 55 Stat. 444, the Department of Agriculture Appropriation Act, 1942.
 
 
@@ -1298,7 +1298,7 @@ Shares may be issued in the name of a minor or in trust, subject to such conditi
 ### Statutory Notes
 
 #### References in Text
-The Economic Opportunity Act of 1964, referred to in subsec. (f)(2)(B), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, as amended, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
+The Economic Opportunity Act of 1964, referred to in subsec. (f)(2)(B), is Pub. L. 88–452, Aug. 20, 1964, 78 Stat. 508, which was classified generally to chapter 34 (§ 2701 et seq.) of Title 42, The Public Health and Welfare, prior to repeal, except for titles VIII and X, by Pub. L. 97–35, title VI, § 683(a), Aug. 13, 1981, 95 Stat. 519. Titles VIII and X of the Act are classified generally to subchapters VIII (§ 2991 et seq.) and X (§ 2996 et seq.) of chapter 34 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2006—Subsec. (h). Pub. L. 109–351 substituted “chapter 93 of title 31” for “the Act approved July 30, 1947 (6 U.S.C., secs. 6–13)”.
@@ -1508,8 +1508,8 @@ Notwithstanding any other provision of law, all moneys of the Board shall be tre
 [Section 906(a) of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/a&num=0&edition=prelim), referred to in text, was amended generally by Pub. L. 101–508, title XIII, § 13101(d)(1), Nov. 5, 1990, 104 Stat. 1388–589, and subsequently repealed by Pub. L. 111–139, title I, § 10(a), Feb. 12, 2010, 124 Stat. 21. Provisions similar to those formerly appearing in section 906(a)(2) are now contained in [section 906(k)(6) of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section906/k/6&num=0&edition=prelim), The Congress.
 
 
-<a id="section-1773"></a>
-## § 1773. Community development revolving loan fund for credit unions
+<a id="section-1772e"></a>
+## § 1772e. Community development revolving loan fund for credit unions
 **(a) In general** The Board may exercise the authority granted to it by the Community Development Credit Union Revolving Loan Fund Transfer Act, including any additional appropriation made or earnings accrued, subject only to this section and to regulations prescribed by the Board.
 
 **(b) Investment** The Board may invest any idle Fund moneys in United States Treasury securities. Any interest accrued on such securities shall become a part of the Fund.
@@ -1526,8 +1526,8 @@ Notwithstanding any other provision of law, all moneys of the Board shall be tre
 The Community Development Credit Union Revolving Loan Fund Transfer Act, referred to in subsec. (a), is Pub. L. 99–609, Nov. 6, 1986, 100 Stat. 3475, which is set out as a note under [section 9822 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9822&num=0&edition=prelim), The Public Health and Welfare.
 
 
-<a id="section-1774"></a>
-## § 1774. Forfeiture of organization certificate for money laundering or cash transaction reporting offenses
+<a id="section-1772f"></a>
+## § 1772f. Forfeiture of organization certificate for money laundering or cash transaction reporting offenses
 **(a) Forfeiture of franchise for money laundering or cash transaction reporting offenses**
 
 (1) **Conviction of title 18 offenses**
@@ -1558,6 +1558,40 @@ The Community Development Credit Union Revolving Loan Fund Transfer Act, referre
 
 #### Amendments
 1994—Subsec. (a)(2). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “[section 5322 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5322&num=0&edition=prelim)”.
+
+
+<a id="section-1773"></a>
+## § 1773. Data standards
+**(a) Requirement** The Board shall, by rule, adopt data standards for all collections of information and reports regularly filed with or submitted to the Administration under this chapter.
+
+**(b) Consistency** The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+### Statutory Notes
+
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5873, Dec. 23, 2022, 136 Stat. 3436, provided that: “(a) In General.—The National Credit Union Administration Board shall issue rules to carry out the amendments made by this subtitle [subtitle G (§§ 5871–5874) of title LVIII of div. E of Pub. L. 117–263, enacting this section and [section 1772f of this title](./chapter-014-federal-credit-unions.md#section-1772f)], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5811/a&num=0&edition=prelim). “(b) Scaling of Regulatory Requirements; Minimizing Disruption.—In issuing the rules required under subsection (a), the National Credit Union Administration Board—“(1) may scale data reporting requirements in order to reduce any unjustified burden on smaller regulated entities; and “(2) shall seek to minimize disruptive changes to the persons affected by those regulations.”
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Pub. L. 117–263, div. E, title LVIII, § 5874, Dec. 23, 2022, 136 Stat. 3437, provided that: “Nothing in this subtitle [subtitle G (§§ 5871–5874) of title LVIII of div. E of Pub. L. 117–263, enacting this section, [section 1772f of this title](./chapter-014-federal-credit-unions.md#section-1772f), and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the National Credit Union Administration Board to collect or make publicly available additional information under the Federal Credit Union Act ([12 U.S.C. 1751](./chapter-014-federal-credit-unions.md#section-1751) et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+
+
+<a id="section-1774"></a>
+## § 1774. Open data publication
+
+All public data assets published by the Administration under this subchapter shall be—
+
+(1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+### Statutory Notes
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5874 of Pub. L. 117–263, set out as a note under [section 1772e of this title](./chapter-014-federal-credit-unions.md#section-1772e).
 
 
 <a id="section-1775"></a>
@@ -2237,6 +2271,118 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 (3) **Penalty** — Whoever knowingly violates paragraph (1) or (2) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
+(4) **Exceptions**
+
+  (A) *Certain older offenses*
+
+    (i) *In general* — With respect to an individual, paragraph (1) shall not apply to an offense if—
+
+      (I) it has been 7 years or more since the offense occurred; or
+
+      (II) the individual was incarcerated with respect to the offense and it has been 5 years or more since the individual was released from incarceration.
+
+    (ii) *Offenses committed by individuals 21 or younger* — For individuals who committed an offense when they were 21 years of age or younger, paragraph (1) shall not apply to the offense if it has been more than 30 months since the sentencing occurred.
+
+    (iii) *Limitation* — This subparagraph shall not apply to an offense described under paragraph (1)(B).1
+
+  (B) *Expungement and sealing* — With respect to an individual, paragraph (1) shall not apply to an offense if—
+
+    (i) there is an order of expungement, sealing, or dismissal that has been issued in regard to the conviction in connection with such offense; and
+
+    (ii) it is intended by the language in the order itself, or in the legislative provisions under which the order was issued, that the conviction shall be destroyed or sealed from the individual’s State, Tribal, or Federal record, even if exceptions allow the record to be considered for certain character and fitness evaluation purposes.
+
+  (C) *De minimis exemption*
+
+    (i) *In general* — Paragraph (1) shall not apply to such de minimis offenses as the Board determines, by rule.
+
+    (ii) *Confinement criteria* — In issuing rules under clause (i), the Board shall include a requirement that the offense was punishable by a term of three years or less confined in a correctional facility, where such confinement—
+
+      (I) is calculated based on the time an individual spent incarcerated as a punishment or a sanction, not as pretrial detention; and
+
+      (II) does not include probation or parole where an individual was restricted to a particular jurisdiction or was required to report occasionally to an individual or a specific location.
+
+    (iii) *Bad check criteria* — In setting the criteria for de minimis offenses under clause (i), if the Board establishes criteria with respect to insufficient funds checks, the Board shall require that the aggregate total face value of all insufficient funds checks across all convictions or program entries related to insufficient funds checks is $2,000 or less.
+
+    (iv) *Designated lesser offenses* — Paragraph (1) shall not apply to certain lesser offenses (including the use of a fake ID, shoplifting, trespass, fare evasion, driving with an expired license or tag, and such other low-risk offenses as the Board may designate) if 1 year or more has passed since the applicable conviction or program entry.
+
+(5) **Consent applications**
+
+  (A) *In general* — The Board shall accept consent applications from an individual and from an insured credit union on behalf of an individual that are filed separately or contemporaneously with a regional office of the Board.
+
+  (B) *Sponsored applications filed with regional offices* — Consent applications filed at a regional office of the Board by an insured credit union on behalf of an individual—
+
+    (i) shall be reviewed by such office;
+
+    (ii) may be approved or denied by such office, if such authority has been delegated to such office by the Board; and
+
+    (iii) may only be denied by such office if the general counsel of the Board (or a designee) certifies that the denial is consistent with this section.
+
+  (C) *Individual applications filed with regional offices* — Consent applications filed at a regional office by an individual—
+
+    (i) shall be reviewed by such office; and
+
+    (ii) may be approved or denied by such office, if such authority has been delegated to such office by the Board, except with respect to—
+
+      (I) cases involving an offense described under paragraph (1)(B); 1 and
+
+      (II) such other high-level security cases as may be designated by the Board.
+
+  (D) *National office review* — The national office of the Board shall—
+
+    (i) review any consent application with respect to which a regional office is not authorized to approve or deny the application; and
+
+    (ii) review any consent application that is denied by a regional office, if the individual requests a review by the national office.
+
+  (E) *Forms and instructions*
+
+    (i) *Availability* — The Board shall make all forms and instructions related to consent applications available to the public, including on the website of the Board.
+
+    (ii) *Contents* — The forms and instructions described under clause (i) shall provide a sample cover letter and a comprehensive list of items that may accompany the application, including clear guidance on evidence that may support a finding of rehabilitation.
+
+  (F) *Consideration of criminal history*
+
+    (i) *Regional office consideration* — In reviewing a consent application, a regional office shall—
+
+      (I) primarily rely on the criminal history record of the Federal Bureau of Investigation; and
+
+      (II) provide such record to the applicant to review for accuracy.
+
+    (ii) *Certified copies* — The Board may not require an applicant to provide certified copies of criminal history records unless the Board determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
+
+  (G) *Consideration of rehabilitation* — Consistent with title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.), the Board shall—
+
+    (i) conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 22 So in original. Probably should be preceded by “the”. offense to the responsibilities of the applicable position;
+
+    (ii) consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
+
+    (iii) consider any additional information the Board determines necessary for safety and soundness.
+
+  (H) *Scope of employment* — With respect to an approved consent application filed by an insured credit union on behalf of an individual, if the Board determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Board (which may require a new application) shall be required for any proposed significant changes in the individual’s security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
+
+  (I) *Coordination with FDIC* — In carrying out this subsection, the Board shall consult and coordinate with the Federal Deposit Insurance Corporation as needed to promote consistent implementation where appropriate.
+
+(6) **Definitions** — In this subsection:
+
+  (A) *Consent application* — The term “consent application” means an application filed with Board 2 by an individual (or by an insured credit union on behalf of an individual) seeking the written consent of the Board under paragraph (1)(A).
+
+  (B) *Criminal offense involving dishonesty* — The term “criminal offense involving dishonesty”—
+
+    (i) means an offense under which an individual, directly or indirectly—
+
+      (I) cheats or defrauds; or
+
+      (II) wrongfully takes property belonging to another in violation of a criminal statute;
+
+    (ii) includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
+
+    (iii) does not include—
+
+      (I) a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
+
+      (II) an offense involving the possession of controlled substances.
+
+  (C) *Pretrial diversion or similar program* — The term “pretrial diversion or similar program” means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.
+
 **(e) Security standards; reports; penalty**
 
 (1) The Board shall promulgate rules establishing minimum standards with which each insured credit union must comply with respect to the installation, maintenance, and operation of security devices and procedures, reasonable in cost, to discourage robberies, burglaries, and larcenies and to assist in the identification and apprehension of persons who commit such acts.
@@ -2286,7 +2432,13 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 #### References in Text
 [Section 1008 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1008&num=0&edition=prelim), referred to in subsec. (d)(2)(A)(i)(I), was repealed by Pub. L. 101–73, title IX, § 961(g)(1), Aug. 9, 1989, 103 Stat. 500.
 
+Paragraph (1)(B), referred to in subsec. (d)(4)(A)(iii), (5)(C)(i)(I), probably should be a reference to “paragraph (2)”, meaning par. (2) of subsec. (d). See similar provisions in section 1829(c)(1)(C) and (f)(3)(B)(i) of this title, which refer to offenses described in subsec. (a)(2) of that section, which correspond to those listed in subsec. (d)(2) of this section.
+
+The Civil Rights Act of 1964, referred to in subsec. (d)(5)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2022—Subsec. (d)(4) to (6). Pub. L. 117–263 added pars. (4) to (6).
+
 2010—Subsec. (b)(2)(G)(i). Pub. L. 111–203, § 362(2)(A), struck out “the Office of Thrift Supervision and” before “the Office of the Comptroller”.
 
 Subsec. (i)(1). Pub. L. 111–203, § 362(2)(B), struck out “or the Federal Savings and Loan Insurance Corporation” before “to purchase”.
@@ -4118,13 +4270,13 @@ for gross negligence, including any similar conduct or conduct that demonstrates
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2)(G), (H), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-The Securities Exchange Act of 1934, referred to in subsec. (c)(8)(D)(v)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. Section 3(a)(47) of the Act is classified to [section 78c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (c)(8)(D)(v)(I), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. Section 3(a)(47) of the Act is classified to [section 78c of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78c&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Gramm-Leach-Bliley Act, referred to in subsec. (c)(8)(D)(vi), (15), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338, as amended. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Gramm-Leach-Bliley Act, referred to in subsec. (c)(8)(D)(vi), (15), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 The Legal Certainty for Bank Products Act of 2000, referred to in subsec. (c)(8)(D)(vi), (15), is title IV of H.R. 5660, as enacted by Pub. L. 106–554, § 1(a)(5), Dec. 21, 2000, 114 Stat. 2763, 2763A–457, which is classified to sections 27 to 27f of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (c)(8)(D)(vi), (15), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in subsec. (c)(8)(D)(vi), (15), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 For definition of Canal Zone, referred to in subsec. (k)(2)(B)(iv), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
@@ -4819,7 +4971,7 @@ The Board may pay rewards in connection with an offense affecting an insured cre
 
 (5) **GAO review** — The Comptroller General of the United States shall, under such conditions as the Comptroller General determines to be appropriate—
 
-  (A) review each report made under paragraph (1), including the extent to which the Inspector General of the Board complied with the requirements under section 8L of the Inspector General Act of 1978 (5 U.S.C. App.) with respect to each such report; and
+  (A) review each report made under paragraph (1), including the extent to which the Inspector General of the Board complied with the requirements under [section 419 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section419&num=0&edition=prelim) with respect to each such report; and
 
   (B) recommend improvements to the supervision of insured credit unions (including improvements relating to the implementation of this section).
 
@@ -4891,10 +5043,9 @@ The Board may pay rewards in connection with an offense affecting an insured cre
 
 ### Statutory Notes
 
-#### References in Text
-Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A), is section 8L of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (j)(5)(A). Pub. L. 117–286 substituted “[section 419 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section419&num=0&edition=prelim)” for “section 8L of the Inspector General Act of 1978 (5 U.S.C. App.)”.
+
 2011—Subsec. (o)(2). Pub. L. 111–382 amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘net worth’—
 
 “(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined; and

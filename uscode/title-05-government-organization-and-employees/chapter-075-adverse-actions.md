@@ -11,14 +11,11 @@ source: >-
 
 For the purpose of this subchapter—
 
-(1) “employee” means an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or, except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), who has completed 1 year of current continuous employment in the same or similar positions under other than a temporary appointment limited to 1 year or less; and
+(1) “employee” means an individual in the competitive service who is not serving a probationary or trial period under an initial appointment or who has completed 1 year of current continuous employment in the same or similar positions under other than a temporary appointment limited to 1 year or less; and
 
 (2) “suspension” means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay.
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (1)
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(C), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that paragraph (1) of this section is amended by striking out “, except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim),”. See 2021 Amendment note below.
 
 #### Prior Provisions
 A prior section 7501, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 527, related to removal or suspension without pay of an individual in the competitive service and procedures applicable to such removal or suspension, prior to repeal by Pub. L. 95–454, § 204(a).
@@ -101,7 +98,7 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
     (i) who is not serving a probationary or trial period under an initial appointment; or
 
-    (ii) except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
+    (ii) who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
 
   (B) a preference eligible in the excepted service who has completed 1 year of current continuous service in the same or similar positions—
 
@@ -154,9 +151,6 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 **(c)** The Office may provide for the application of this subchapter to any position or group of positions excepted from the competitive service by regulation of the Office which is not otherwise covered by this subchapter.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (a)(1)(A)(ii)
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(D), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that subsection (a)(1)(A)(ii) of this section is amended by striking out “except as provided in [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim),”. See 2021 Amendment note below.
 
 #### References in Text
 Section 103 of the Foreign Service Act of 1980, referred to in subsec. (b)(6), is classified to [section 3903 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3903&num=0&edition=prelim), Foreign Relations and Intercourse.
@@ -540,16 +534,13 @@ For the purpose of this subchapter—
 
 (1) “employee” means a career appointee in the Senior Executive Service who—
 
-  (A) has completed the probationary period prescribed under [section 3393(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/d&num=0&edition=prelim) or [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim); or
+  (A) has completed the probationary period prescribed under [section 3393(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/d&num=0&edition=prelim); or
 
   (B) was covered by the provisions of subchapter II of this chapter immediately before appointment to the Senior Executive Service; and
 
 (2) “suspension” has the meaning set forth in [section 7501(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7501/2&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Amendment of Paragraph (1)(A)
-Pub. L. 117–81, div. A, title XI, § 1106(a)(1), (b)(2)(E), Dec. 27, 2021, 135 Stat. 1950, effective Dec. 31, 2022, to reflect the probable intent of Congress and the repeal of [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim), provided that paragraph (1)(A) of this section is amended by striking out “, or [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)”. See 2021 Amendment note below.
 
 #### Amendments
 2021—Par. (1)(A). Pub. L. 117–81 struck out “or [section 1599e of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1599e&num=0&edition=prelim)” after “[section 3393(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3393/d&num=0&edition=prelim)”.

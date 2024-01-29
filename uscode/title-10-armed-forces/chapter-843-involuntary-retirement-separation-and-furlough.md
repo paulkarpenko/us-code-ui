@@ -10,7 +10,7 @@ source: >-
 ## § 8371. Mandatory retirement: Superintendent of the United States Naval Academy; waiver authority
 **(a) Mandatory Retirement.—** Upon the termination of the detail of an officer to the position of Superintendent of the United States Naval Academy, the Secretary of the Navy shall retire the officer under any provision of chapter 841 of this title under which the officer is eligible to retire.
 
-**(b) Waiver Authority.—** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment.
+**(b) Waiver Authority.—** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.
 
 ### Statutory Notes
 
@@ -18,6 +18,8 @@ source: >-
 A prior section 8371, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1527, related to promotion of officers to grade of colonel to fill vacancies in Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 inserted at end “In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.”
+
 2018—Pub. L. 115–232, § 807(b)(16), renumbered [section 6371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6371&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–232, § 809(a), substituted “chapter 841” for “chapter 571”.
@@ -39,7 +41,7 @@ Section not applicable to an officer serving on Oct. 5, 1999, in the position of
 
 (2) Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of commander, has failed of selection for promotion to the grade of captain for the second time, and is not on a list of officers recommended for promotion to the grade of captain shall—
 
-  (A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time; or
+  (A) if eligible for retirement as a commissioned officer under any provision of law, be retired under that provision of law on the date requested by the officer and approved by the Secretary of the Navy, except that the date of retirement may not be later than the first day of the seventh month beginning after the month in which the Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public; or
 
   (B) if not eligible for retirement as a commissioned officer, be retired on the date requested by the officer and approved by the Secretary of the Navy after the officer becomes eligible for retirement as a commissioned officer, except that the date of retirement may not be later than the first day of the seventh calendar month beginning after the month in which the officer becomes eligible for retirement as a commissioned officer.
 
@@ -123,6 +125,8 @@ The second proviso in § 312(f) of the Officer Personnel Act of 1947 ([34 U.S.C.
 A prior section 8372, added Pub. L. 85–861, § 1(178)(C), Sept. 2, 1958, 72 Stat. 1527; amended Pub. L. 86–559, § 1(57), June 30, 1960, 74 Stat. 276, related to promotion of officers with special qualifications to grade of captain, major, lieutenant colonel, or colonel of Air Force Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1629(c)(1), Oct. 5, 1994, 108 Stat. 2963, effective Oct. 1, 1996. See section 14301 et seq. of this title.
 
 #### Amendments
+2023—Subsec. (a)(2)(A). Pub. L. 118–31, which directed the substitution of “Secretary concerned releases the promotion results of the board which considered the officer for the second time to the public” for “President approves the report of the board which considered him for the second time”, was executed by making the substitution for “President approves the report of the selection board in which the officer is considered as having failed for promotion to the grade of captain for a second time”, to reflect the probable intent of Congress.
+
 2018—Pub. L. 115–232, § 807(b)(16), renumbered [section 6383 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6383&num=0&edition=prelim) as this section.
 
 Subsec. (c)(2). Pub. L. 115–232, § 809(a), substituted “section 8333” for “section 6333”.
@@ -214,7 +218,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Amendment by Pub. L. 98–94 effective Oct. 1, 1983, see section 922(e) of Pub. L. 98–94, set out as a note under [section 1401 of this title](./chapter-071-computation-of-retired-pay.md#section-1401).
 
 #### Effective Date of 1980 Amendment
-Amendment by section 336 of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 336 of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1963 Amendment
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -334,10 +338,10 @@ Amendment by section 1673(c)(1) of Pub. L. 103–337 effective Dec. 1, 1994, exc
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8374"></a>
@@ -378,7 +382,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Amendment by Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under [section 1174 of this title](./chapter-059-separation.md#section-1174).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8375"></a>

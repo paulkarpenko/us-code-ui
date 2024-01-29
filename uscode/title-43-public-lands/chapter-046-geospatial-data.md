@@ -226,7 +226,7 @@ Pub. L. 115–254, div. B, title VII, § 751(b), Oct. 5, 2018, 132 Stat. 3413, p
 
 (2) shall be composed of members appointed by the Chairperson of the Advisory Committee;
 
-(3) shall act under the direction of the Chairperson of the Advisory Committee and the officer or employee designated under section 10(e) of the Federal Advisory Committee Act (5 U.S.C. App.) with respect to the Advisory Committee;
+(3) shall act under the direction of the Chairperson of the Advisory Committee and the officer or employee designated under section 10(e) of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. with respect to the Advisory Committee;
 
 (4) shall report the recommendations of the subcommittee to the Advisory Committee for consideration; and
 
@@ -280,9 +280,9 @@ Pub. L. 115–254, div. B, title VII, § 751(b), Oct. 5, 2018, 132 Stat. 3413, p
 
 **(h) Applicability of FACA**
 
-(1) **In general** — Except as provided in paragraph (2), the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Advisory Committee.
+(1) **In general** — Except as provided in paragraph (2), the Federal Advisory Committee Act (5 U.S.C. App.) 1 shall apply to the Advisory Committee.
 
-(2) **No termination** — Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Committee.
+(2) **No termination** — Section 14(a)(2) of the Federal Advisory Committee Act (5 U.S.C. App.) 1 shall not apply to the Advisory Committee.
 
 **(i) Termination**
 
@@ -293,7 +293,7 @@ Pub. L. 115–254, div. B, title VII, § 751(b), Oct. 5, 2018, 132 Stat. 3413, p
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsecs. (c)(3) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsecs. (c)(3) and (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Sections 10 and 14 of the Act were repealed and restated as sections 1009 and 1013, respectively, of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-2804"></a>

@@ -52,7 +52,7 @@ Pub. L. 104–106, div. A, title V, § 512(b), Feb. 10, 1996, 110 Stat. 305, pro
 2002—Subsec. (c). Pub. L. 107–296 substituted “Homeland Security” for “Transportation” in heading and text.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12523"></a>
@@ -150,7 +150,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 Subsec. (a)(2). Pub. L. 104–201, § 547(2), added par. (2) and struck out former par. (2) which read as follows: “An insured member who does not receive pay on a monthly basis shall pay the Secretary directly the premium amount applicable for the level of benefits for which the member is insured.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12528"></a>

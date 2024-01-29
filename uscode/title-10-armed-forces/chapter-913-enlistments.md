@@ -30,9 +30,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 
 <a id="section-9132"></a>
-## § 9132. Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments
+## § 9132. Regular Air Force and Space Force: gender-free basis for acceptance of original enlistments
 
-In accepting persons for original enlistment in the Regular Air Force or the Regular Space Force, the Secretary of the Air Force may not—
+In accepting persons for original enlistment in the Regular Air Force or the Space Force, the Secretary of the Air Force may not—
 
 (1) set a minimum or maximum percentage of persons who may be accepted for such an enlistment according to gender for skill categories or jobs; or
 
@@ -44,6 +44,8 @@ In accepting persons for original enlistment in the Regular Air Force or the Reg
 Another section 9132 was renumbered [section 9138 of this title](./chapter-913-enlistments.md#section-9138).
 
 #### Amendments
+2023—Pub. L. 118–31 struck out “Regular” before “Space Force:” in section catchline and “Regular” before “Space Force” in introductory provisions.
+
 2021—Pub. L. 116–283 substituted “Regular Air Force and Regular Space Force: gender-free basis for acceptance of original enlistments” for “Regular Air Force: gender-free basis for acceptance of original enlistments” in section catchline and inserted “or the Regular Space Force” after “Regular Air Force” in introductory provisions.
 
 2018—Pub. L. 115–232 renumbered [section 8252 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8252&num=0&edition=prelim) as this section.
@@ -109,15 +111,15 @@ Subsec. (c). Pub. L. 96–513 substituted “Any enlisted member” for “Any m
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9138"></a>
-## § 9138. Regular Air Force and Regular Space Force: reenlistment after service as an officer
-**(a)** Any former enlisted member of the Regular Air Force or the Regular Space Force who has served on active duty as an officer of the Air Force or the Space Force, or who was discharged as an enlisted member to accept an appointment as an officer of the Air Force or the Space Force, is entitled to be reenlisted in the Regular Air Force or the Regular Space Force in the enlisted grade that he held before his service as an officer, without loss of seniority or credit for service, regardless of the existence of a vacancy in his grade or of a physical disability incurred or having its inception in line of duty, if (1) his service as an officer is terminated by an honorable discharge or he is relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and (2) he applies for reenlistment within six months (or such other period as the Secretary of the Air Force prescribes for exceptional circumstances) after termination of that service.
+## § 9138. Regular Air Force and Space Force: reenlistment after service as an officer
+**(a)** Any former enlisted member of the Regular Air Force or the Space Force who has served on active duty as an officer of the Air Force or the Space Force, or who was discharged as an enlisted member to accept an appointment as an officer of the Air Force or the Space Force, is entitled to be reenlisted in the Regular Air Force or the Space Force in the enlisted grade that he held before his service as an officer, without loss of seniority or credit for service, regardless of the existence of a vacancy in his grade or of a physical disability incurred or having its inception in line of duty, if (1) his service as an officer is terminated by an honorable discharge or he is relieved from active duty for a purpose other than to await appellate review of a sentence that includes dismissal or dishonorable discharge, and (2) he applies for reenlistment within six months (or such other period as the Secretary of the Air Force prescribes for exceptional circumstances) after termination of that service.
 
 **(b)** A person is not entitled to be reenlisted under this section if—
 
@@ -143,6 +145,10 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 The words “former” and “as an enlisted member” are inserted for clarity. The words “credit for service” are substituted for the words “of service”. The words “in his grade” are substituted for the words “in the appropriate enlisted grade”. The words “he applies” are substituted for the words “application * * * shall be made”. The words “Hereafter” and “while on active duty” are omitted as surplusage.
 
 #### Amendments
+2023—Pub. L. 118–31, § 1721(a)(2)(B), struck out “Regular” before “Space Force:” in section catchline.
+
+Subsec. (a). Pub. L. 118–31, § 1721(a)(2)(A), struck out “Regular” before “Space Force” in two places.
+
 2021—Pub. L. 117–81 renumbered [section 9132 of this title](./chapter-913-enlistments.md#section-9132) relating to Regular Air Force and Regular Space Force: reenlistment after service as an officer as this section.
 
 Pub. L. 116–283, § 923(c)(2)(B), which directed the amendment of “such section 9132” by substituting “9132” for “9138” as the section designation and “Regular Air Force and Regular Space Force: reenlistment after service as an officer” for “Regular Air Force: reenlistment after service as an officer” as the section catchline, was executed to this section to reflect the probable intent of Congress.

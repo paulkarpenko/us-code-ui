@@ -2,7 +2,7 @@
 title: 29
 chapter: '32'
 heading: WORKFORCE INNOVATION AND OPPORTUNITY
-section_count: 94
+section_count: 95
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -1733,9 +1733,6 @@ This Act, referred to in subsec. (i)(3), is Pub. L. 113–128, July 22, 2014, 12
 2015—Subsec. (b)(2)(A)(iv). Pub. L. 114–18, § 2(c)(1), substituted “clause (i)(VI)” for “clause (i)(IV)”.
 
 Subsec. (g)(1). Pub. L. 114–18, § 2(c)(2), struck out “for a program described in subsection (d)(2)(A)” after “part B”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–18 effective as if included in the Workforce Innovation and Opportunity Act [Pub. L. 113–128], see § 2(f) of Pub. L. 114–18, set out as a note under [section 3112 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3112).
@@ -3845,9 +3842,6 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(3)(C), is Pub. 
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (d)(2), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
@@ -4077,9 +4071,6 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Statutory Notes
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
@@ -4273,9 +4264,6 @@ Section effective on the first day of the first full program year after July 22,
 #### References in Text
 The Occupational Safety and Health Act of 1970, referred to in subsec. (g)(2), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, which is classified principally to chapter 15 (§ 651 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 651 of this title](./chapter-015-occupational-safety-and-health.md#section-651) and Tables.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
 
@@ -4340,9 +4328,6 @@ Section effective on the first day of the first full program year after July 22,
 (4) the Subcommittee on Labor, Health and Human Services, Education, and Related Agencies of the Committee of Appropriations of the Senate.
 
 ### Statutory Notes
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -4485,7 +4470,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (F) *Meetings* — The Council shall meet not less than twice each year.
 
-  (G) *Application* — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+  (G) *Application* — [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Council.
 
 (5) **Technical assistance** — The Secretary, acting through the unit established under paragraph (1), is authorized to provide technical assistance to entities described in subsection (c) that receive assistance under such subsection to enable such entities to improve the activities authorized under this section that are provided by such entities.
 
@@ -4522,9 +4507,9 @@ The Indian Employment, Training and Related Services Demonstration Act of 1992, 
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i)(4)(G), is section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (i)(4)(G). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2015—Subsec. (b)(3). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7517 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7517&num=0&edition=prelim).
 
 #### Effective Date of 2015 Amendment
@@ -4771,9 +4756,6 @@ Section effective on the first day of the first full program year after July 22,
 
 #### References in Text
 This Act, referred to in subsec. (b)(4)(A), (J), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, known as the Workforce Innovation and Opportunity Act, which enacted this chapter, repealed chapter 30 (§ 2801 et seq.) of this title and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101) and Tables.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -5652,8 +5634,8 @@ Section effective on the first day of the first full program year after July 22,
 Pub. L. 109–281, § 3, Sept. 22, 2006, 120 Stat. 1182, provided that: “(a) Definitions.—For purposes of this section, unless otherwise provided or indicated by the context—“(1) the term ‘Federal agency’ has the meaning given to the term ‘agency’ by [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim), United States Code; “(2) the term ‘function’ means any duty, obligation, power, authority, responsibility, right, privilege, activity, or program; and “(3) the term ‘office’ includes any office, administration, agency, institute, unit, organizational entity, or component thereof. “(b) Transfer of Functions.—There are transferred to the Department of Labor all functions which the Secretary of Housing and Urban Development exercised before the effective date of this section [Sept. 22, 2006] (including all related functions of any officer or employee of the Department of Housing and Urban Development) relating to subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([former] [42 U.S.C. 12899](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12899&num=0&edition=prelim) et seq.). “(c) Determinations of Certain Functions by the Office of Management and Budget.—If necessary, the Office of Management and Budget shall make any determination of the functions that are transferred under subsection (b). “(d) Personnel Provisions.—“(1) Appointments.—The Secretary of Labor may appoint and fix the compensation of such officers and employees, including investigators, attorneys, and administrative law judges, as may be necessary to carry out the respective functions transferred under this section. Except as otherwise provided by law, such officers and employees shall be appointed in accordance with the civil service laws and their compensation fixed in accordance with title 5, United States Code. “(2) Experts and consultants.—The Secretary of Labor may obtain the services of experts and consultants in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), United States Code, and compensate such experts and consultants for each day (including traveltime) at rates not in excess of the rate of pay for level IV of the Executive Schedule under section 5315 of such title. The Secretary of Labor may pay experts and consultants who are serving away from their homes or regular place of business travel expenses and per diem in lieu of subsistence at rates authorized by sections 5702 and 5703 of such title for persons in Government service employed intermittently. “(e) Delegation and Assignment.—Except where otherwise expressly prohibited by law or otherwise provided by this section, the Secretary of Labor may delegate any of the functions transferred to the Secretary of Labor by this section and any function transferred or granted to the Secretary of Labor after the effective date of this section to such officers and employees of the Department of Labor as the Secretary of Labor may designate, and may authorize successive redelegations of such functions as may be necessary or appropriate. No delegation of functions by the Secretary of Labor under this subsection or under any other provision of this section shall relieve the Secretary of Labor of responsibility for the administration of such functions. “(f) Reorganization.—The Secretary of Labor is authorized to allocate or reallocate any function transferred under subsection (b) among the officers of the Department of Labor, and to establish, consolidate, alter, or discontinue such organizational entities in the Department of Labor as may be necessary or appropriate. “(g) Rules.—The Secretary of Labor is authorized to prescribe, in accordance with the provisions of chapters 5 and 6 of title 5, United States Code, such rules and regulations as the Secretary of Labor determines necessary or appropriate to administer and manage the functions of the Department of Labor. “(h) Transfer and Allocations of Appropriations.—Except as otherwise provided in this section, the assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with the functions transferred by this section, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, shall be transferred to the Department of Labor. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated. “(i) Transfers.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, is authorized to make such determinations as may be necessary with regard to the functions transferred by this section, and to make such dispositions of assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds used, held, arising from, available to, or to be made available in connection with such functions, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, as may be necessary to carry out the provisions of this section. The Director of the Office of Management and Budget shall provide for the termination of the affairs of all entities terminated by this section and for such further measures and dispositions as may be necessary to effectuate the purposes of this section. “(j) Savings Provisions.—“(1) Continuing effect of legal documents.—All orders, determinations, rules, regulations, permits, agreements, grants, contracts, certificates, licenses, registrations, privileges, and other administrative actions—“(A) which have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official thereof, or by a court of competent jurisdiction, in the performance of functions which are transferred under this section; and “(B) which are in effect at the time this section takes effect, or were final before the effective date of this section and are to become effective on or after the effective date of this section, shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of Labor or other authorized official, a court of competent jurisdiction, or by operation of law. “(2) Proceedings not affected.—The provisions of this section shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before the Department of Housing and Urban Development at the time this section takes effect, with respect to functions transferred by this section but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this section had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this paragraph shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this section had not been enacted. “(3) Suits not affected.—The provisions of this section shall not affect suits commenced before the effective date of this section, and in all such suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this section had not been enacted. “(4) Nonabatement of actions.—No suit, action, or other proceeding commenced by or against the Department of Housing and Urban Development, or by or against any individual in the official capacity of such individual as an officer of the Department of Housing and Urban Development, shall abate by reason of the enactment of this section. “(5) Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the Department of Housing and Urban Development relating to a function transferred under this section may be continued by the Department of Labor with the same effect as if this section had not been enacted. “(k) Separability.—If a provision of this section or its application to any person or circumstance is held invalid, neither the remainder of this section nor the application of the provision to other persons or circumstances shall be affected. “(l) Transition.—The Secretary of Labor is authorized to utilize—“(1) the services of such officers, employees, and other personnel of the Department of Housing and Urban Development with respect to functions transferred to the Department of Labor by this section; and “(2) funds appropriated to such functions for such period of time, as may reasonably be needed to facilitate the orderly implementation of this section. “(m) Accomplishing Orderly Transfer.—Consistent with the requirements of this section, the Secretary of Labor and the Secretary of Housing and Urban Development shall take such actions as the Secretaries determine are appropriate to accomplish the orderly transfer of functions as described in subsection (b). “(n) Administration of Prior Grants.—Notwithstanding any other provision of this Act [See Short Title of 2006 Amendment note set out under [section 2801 of this title](./chapter-030-workforce-investment-systems.md#section-2801)], grants awarded under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act ([former] [42 U.S.C. 12899](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12899&num=0&edition=prelim) et seq.) with funds appropriated for fiscal year 2006 or a preceding fiscal year shall be subject to the continuing authority of the Secretary of Housing and Urban Development under the provisions of such subtitle, as in effect on the day before the date of enactment of this Act [Sept. 22, 2006], until the authority to expend applicable funds for the grants, as specified by the Secretary of Housing and Urban Development, has expired and the Secretary has completed the administrative responsibilities associated with the grants. “(o) References.—A reference in any other Federal law, Executive order, rule, regulation, or delegation of authority, or any document of or relating to—“(1) the Secretary of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Secretary of Labor; and “(2) the Department of Housing and Urban Development with regard to functions transferred under subsection (b), shall be deemed to refer to the Department of Labor. “(p) Effective Date.—This section takes effect on the earlier of—“(1) the date of enactment of this Act [Sept. 22, 2006]; and “(2) September 30, 2006.”
 
 
-<a id="section-3241"></a>
-## § 3241. Re-enrollment in alternative school by high-school dropout
+<a id="section-3228"></a>
+## § 3228. Re-enrollment in alternative school by high-school dropout
 
 For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high school and re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
 
@@ -5665,8 +5647,8 @@ Section was enacted as part of the Department of Labor Appropriations Act, 2010,
 Section was formerly classified to [section 2918b of this title](./chapter-030-workforce-investment-systems.md#section-2918b).
 
 
-<a id="section-3242"></a>
-## § 3242. Authorization of appropriations
+<a id="section-3241"></a>
+## § 3241. Authorization of appropriations
 **(a) Native American programs** There are authorized to be appropriated to carry out [section 3221 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3221) (not including subsection (k) of such section)—
 
 (1) $46,082,000 for fiscal year 2015;
@@ -5734,6 +5716,177 @@ Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were 
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
+
+
+<a id="section-3242"></a>
+## § 3242. Worker ownership, readiness, and knowledge
+**(a) Definitions** In this section:
+
+(1) **Existing program** — The term “existing program” means a program, designed to promote employee ownership, that exists on the date on which the Secretary is carrying out a responsibility authorized under this section.
+
+(2) **Initiative** — The term “Initiative” means the Employee Ownership Initiative established under subsection (b).
+
+(3) **New program** — The term “new program” means a program, designed to promote employee ownership, that does not exist on the date on which the Secretary is carrying out a responsibility authorized under this section.
+
+(4) **Secretary** — The term “Secretary” means the Secretary of Labor.
+
+(5) **State** — The term “State” has the meaning given the term under [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102).
+
+**(b) Employee Ownership Initiative**
+
+(1) **Establishment** — The Secretary shall establish within the Department of Labor an Employee Ownership Initiative to promote employee ownership.
+
+(2) **Functions** — In carrying out the Initiative, the Secretary shall—
+
+  (A) support within the States existing programs designed to promote employee ownership; and
+
+  (B) facilitate within the States the formation of new programs designed to promote employee ownership.
+
+(3) **Duties** — To carry out the functions enumerated in paragraph (2), the Secretary shall support new programs and existing programs by—
+
+  (A) making Federal grants authorized under subsection (d); and
+
+  (B)
+
+    (i) acting as a clearinghouse on techniques employed by new programs and existing programs within the States, and disseminating information relating to those techniques to the programs; or
+
+    (ii) funding projects for information gathering on those techniques, and dissemination of that information to the programs, by groups outside the Department of Labor.
+
+(4) **Consultation with Treasury** — The Secretary shall consult with the Secretary of the Treasury, or the Secretary’s delegate, in the case of any employee ownership arrangements or structures the administration and enforcement of which are within the jurisdiction of the Department of the Treasury.
+
+**(c) Programs regarding employee ownership**
+
+(1) **Establishment of program** — Not later than 180 days after December 29, 2022, the Secretary shall establish a program to encourage new programs and existing programs within the States to foster employee ownership throughout the United States.
+
+(2) **Purpose of program** — The purpose of the program established under paragraph (1) is to encourage new and existing programs within the States that focus on—
+
+  (A) providing education and outreach to inform employees and employers about the possibilities and benefits of employee ownership and business ownership succession planning, including providing information about financial education, employee teams, open-book management, and other tools that enable employees to share ideas and information about how their businesses can succeed;
+
+  (B) providing technical assistance to assist employee efforts to become business owners, to enable employers and employees to explore and assess the feasibility of transferring full or partial ownership to employees, and to encourage employees and employers to start new employee-owned businesses;
+
+  (C) training employees and employers with respect to methods of employee participation in open-book management, work teams, committees, and other approaches for seeking greater employee input; and
+
+  (D) training other entities to apply for funding under this subsection, to establish new programs, and to carry out program activities.
+
+(3) **Program details** — The Secretary may include, in the program established under paragraph (1), provisions that—
+
+  (A) in the case of activities described in paragraph (2)(A)—
+
+    (i) target key groups, such as retiring business owners, senior managers, labor organizations, trade associations, community organizations, and economic development organizations;
+
+    (ii) encourage cooperation in the organization of workshops and conferences; and
+
+    (iii) prepare and distribute materials concerning employee ownership, and business ownership succession planning;
+
+  (B) in the case of activities described in paragraph (2)(B)—
+
+    (i) provide preliminary technical assistance to employee groups, managers, and retiring owners exploring the possibility of employee ownership;
+
+    (ii) provide for the performance of preliminary feasibility assessments;
+
+    (iii) assist in the funding of objective third-party feasibility studies and preliminary business valuations, and in selecting and monitoring professionals qualified to conduct such studies; and
+
+    (iv) provide a data bank to help employees find legal, financial, and technical advice in connection with business ownership;
+
+  (C) in the case of activities described in paragraph (2)(C)—
+
+    (i) provide for courses on employee participation; and
+
+    (ii) provide for the development and fostering of networks of employee-owned companies to spread the use of successful participation techniques; and
+
+  (D) in the case of training described in paragraph (2)(D)—
+
+    (i) provide for visits to existing programs by staff from new programs receiving funding under this section; and
+
+    (ii) provide materials to be used for such training.
+
+(4) **Guidance** — The Secretary shall issue formal guidance, for—
+
+  (A) recipients of grants awarded under subsection (d) and one-stop partners (as defined in [section 3102 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3102)) affiliated with the workforce development systems (as so defined) of the States, proposing that programs and other activities funded under this section be—
+
+    (i) proactive in encouraging actions and activities that promote employee ownership of businesses; and
+
+    (ii) comprehensive in emphasizing both employee ownership of businesses so as to increase productivity and broaden capital ownership; and
+
+  (B) acceptable standards and procedures to establish good faith fair market value for shares of a business to be acquired by an employee stock ownership plan (as defined in [section 1107(d)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1107/d/6&num=0&edition=prelim)).
+  The guidance under subparagraph (B) shall be prescribed in consultation with the Secretary of the Treasury.
+
+**(d) Grants**
+
+(1) **In general** — In carrying out the program established under subsection (c), the Secretary may make grants for use in connection with new programs and existing programs within a State for any of the following activities:
+
+  (A) Education and outreach as provided in subsection (c)(2)(A).
+
+  (B) Technical assistance as provided in subsection (c)(2)(B).
+
+  (C) Training activities for employees and employers as provided in subsection (c)(2)(C).
+
+  (D) Activities facilitating cooperation among employee-owned firms.
+
+  (E) Training as provided in subsection (c)(2)(D) for new programs provided by participants in existing programs dedicated to the objectives of this section, except that, for each fiscal year, the amount of the grants made for such training shall not exceed 10 percent of the total amount of the grants made under this section.
+
+(2) **Amounts and conditions** — The Secretary shall determine the amount and any conditions for a grant made under this subsection. The amount of the grant shall be subject to paragraph (6), and shall reflect the capacity of the applicant for the grant.
+
+(3) **Applications** — Each entity desiring a grant under this subsection shall submit an application to the Secretary at such time, in such manner, and accompanied by such information as the Secretary may reasonably require.
+
+(4) **State applications** — Each State may sponsor and submit an application under paragraph (3) on behalf of any local entity consisting of a unit of State or local government, State-supported institution of higher education, or nonprofit organization, meeting the requirements of this section.
+
+(5) **Applications by entities**
+
+  (A) *Entity applications* — If a State fails to support or establish a program pursuant to this section during any fiscal year, the Secretary shall, in the subsequent fiscal years, allow local entities described in paragraph (4) from that State to make applications for grants under paragraph (3) on their own initiative.
+
+  (B) *Application screening* — Any State failing to support or establish a program pursuant to this section during any fiscal year may submit applications under paragraph (3) in the subsequent fiscal years but may not screen applications by local entities described in paragraph (4) before submitting the applications to the Secretary.
+
+(6) **Limitations** — A recipient of a grant made under this subsection shall not receive, during a fiscal year, in the aggregate, more than the following amounts:
+
+  (A) For fiscal year 2025, $300,000.
+
+  (B) For fiscal year 2026, $330,000.
+
+  (C) For fiscal year 2027, $363,000.
+
+  (D) For fiscal year 2028, $399,300.
+
+  (E) For fiscal year 2029, $439,200.
+
+(7) **Annual report** — For each year, each recipient of a grant under this subsection shall submit to the Secretary a report describing how grant funds allocated pursuant to this subsection were expended during the 12-month period preceding the date of the submission of the report.
+
+**(e) Evaluations** The Secretary is authorized to reserve not more than 10 percent of the funds appropriated for a fiscal year to carry out this section, for the purposes of conducting evaluations of the grant programs identified in subsection (d) and to provide related technical assistance.
+
+**(f) Reporting** Not later than the expiration of the 36-month period following December 29, 2022, the Secretary shall prepare and submit to Congress a report—
+
+(1) on progress related to employee ownership in businesses in the United States; and
+
+(2) containing an analysis of critical costs and benefits of activities carried out under this section.
+
+**(g) Authorizations of appropriations**
+
+(1) **In general** — There are authorized to be appropriated for the purpose of making grants pursuant to subsection (d) the following:
+
+  (A) For fiscal year 2025, $4,000,000.
+
+  (B) For fiscal year 2026, $7,000,000.
+
+  (C) For fiscal year 2027, $10,000,000.
+
+  (D) For fiscal year 2028, $13,000,000.
+
+  (E) For fiscal year 2029, $16,000,000.
+
+(2) **Administrative expenses** — There are authorized to be appropriated for the purpose of funding the administrative expenses related to the Initiative—
+
+  (A) for fiscal year 2024, $200,000, and
+
+  (B) for each of fiscal years 2025 through 2029, an amount not in excess of the lesser of—
+
+    (i) $350,000; or
+
+    (ii) 5.0 percent of the maximum amount available under paragraph (1) for that fiscal year.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the SECURE 2.0 Act of 2022, and also as part of the Consolidated Appropriations Act, 2023, and not as part of title I of the Workforce Innovation and Opportunity Act which comprises this subchapter.
 
 
 <a id="section-3243"></a>
@@ -6035,7 +6188,7 @@ Section effective on the first day of the first full program year after July 22,
 
   (C) *Additional requirement* — The reports on the results of such audits shall cite the law, regulation, policy, or other criteria applicable to any finding contained in the reports.
 
-  (D) *Rule of construction* — Nothing contained in this subchapter shall be construed so as to be inconsistent with the Inspector General Act of 1978 (5 U.S.C. App.) or government auditing standards issued by the Comptroller General of the United States.
+  (D) *Rule of construction* — Nothing contained in this subchapter shall be construed so as to be inconsistent with chapter 4 of title 5 or government auditing standards issued by the Comptroller General of the United States.
 
 **(c) Grantee information responsibilities** Each State, each local board, and each recipient (other than a subrecipient, subgrantee, or contractor of a recipient) receiving funds under this subchapter—
 
@@ -6079,11 +6232,8 @@ Section effective on the first day of the first full program year after July 22,
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (b)(3)(D), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+#### Amendments
+2022—Subsec. (b)(3)(D). Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978 (5 U.S.C. App.)”.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -6245,9 +6395,6 @@ Section effective on the first day of the first full program year after July 22,
   (D) *Expedited determination regarding provision of waivers* — If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
 ### Statutory Notes
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).
@@ -7347,9 +7494,6 @@ Section effective on the first day of the first full program year after July 22,
 **(d) Report** The Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate and make available to the public, a report on the activities carried out under this section.
 
 ### Statutory Notes
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date
 Section effective on the first day of the first full program year after July 22, 2014 (July 1, 2015), see section 506 of Pub. L. 113–128, set out as a note under [section 3101 of this title](./chapter-032-workforce-innovation-and-opportunity.md#section-3101).

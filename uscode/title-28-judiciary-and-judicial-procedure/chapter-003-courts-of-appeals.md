@@ -316,7 +316,7 @@ Pub. L. 101–650, title II, § 202(a), Dec. 1, 1990, 104 Stat. 5098, provided t
 Ex. Ord. No. 11972, Feb. 14, 1977, 42 F.R. 9659, as amended by Ex. Ord. No. 11993, May 24, 1977, 42 F.R. 27197, which related to the United States Circuit Judge Nominating Commission, was revoked by Ex. Ord. No. 12059, May 11, 1978, 43 F.R. 20949, formerly set out below.
 
 #### Executive Order No. 12059
-Ex. Ord. No. 12059, May 11, 1978, 43 F.R. 20949, as amended by Ex. Ord. No. 12097, Nov. 8, 1978, 43 F.R. 52455, which established the United States Circuit Judge Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12059, May 11, 1978, 43 F.R. 20949, as amended by Ex. Ord. No. 12097, Nov. 8, 1978, 43 F.R. 52455, which established the United States Circuit Judge Nominating Commission and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12305, May 5, 1981, 46 F.R. 25421, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 13300. Facilitating the Administration of Justice in the Federal Courts
 Ex. Ord. No. 13300, May 9, 2003, 68 F.R. 25807, provided:

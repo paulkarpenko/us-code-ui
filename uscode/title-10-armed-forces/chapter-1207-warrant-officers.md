@@ -51,6 +51,9 @@ Pub. L. 99–145, title V, § 531(c), Nov. 8, 1985, 99 Stat. 633, provided that:
 #### Presidential Functions
 Pub. L. 111–383, div. A, title V, § 502(c), Jan. 7, 2011, 124 Stat. 4207, provided that: “Except as otherwise provided by the President by Executive order, the provisions of Executive Order 13384 ([10 U.S.C. 531](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531) note) relating to the functions of the President under the second sentence of [section 571(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section571/b&num=0&edition=prelim), United States Code, shall apply in the same manner to the functions of the President under [section 12241(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12241/b&num=0&edition=prelim), United States Code.”
 
+#### Delegation of Functions
+Authority of President under subsec. (b) of this section to appoint by commission reserve chief warrant officers in the Coast Guard delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(h), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2101&num=0&edition=prelim), Coast Guard.
+
 
 <a id="section-12242"></a>
 ## § 12242. Warrant officers: promotion

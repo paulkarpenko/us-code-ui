@@ -40,7 +40,7 @@ source: >-
 
   (D) by a member of a reserve component while serving on active duty, full-time National Guard duty, or active duty for training for a period of more than 30 days but not in excess of 365 days.
 
-(6) An enlisted member of the armed forces who would lose accumulated leave in excess of 120 days of leave under [section 701(f)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/f/1&num=0&edition=prelim) may elect to be paid in cash or by a check on the Treasurer of the United States for any leave in excess so accumulated for up to 30 days of such leave. A member may make an election under this paragraph only once.
+(6) An enlisted member of the armed forces who would lose accumulated leave in excess of 90 days of leave under [section 701(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/e&num=0&edition=prelim) may elect to be paid in cash or by a check on the Treasurer of the United States for any leave in excess so accumulated for up to 30 days of such leave. A member may make an election under this paragraph only once.
 
 **(c)** Unused accrued leave for which payment is made under subsection (b) is not considered as service for any purpose.
 
@@ -67,7 +67,7 @@ source: >-
 (3) who is transferred to another department or agency of the United States under circumstances in which, by any other law, his leave may be transferred.
 In this subsection, the term “accumulated annual leave” means unused accrued annual leave carried forward from one leave year into the next leave year, and the term “accrued annual leave” means the annual leave accruing to an officer during one leave year.
 
-**(h)** Payment shall be made for all leave accumulated under [section 701(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/g&num=0&edition=prelim) as soon as possible after the name of the person concerned is removed from a missing status, as defined in [section 551(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section551/2&num=0&edition=prelim).
+**(h)** Payment shall be made for all leave accumulated under [section 701(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/f&num=0&edition=prelim) as soon as possible after the name of the person concerned is removed from a missing status, as defined in [section 551(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section551/2&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -98,6 +98,10 @@ In subsection (f), the words “cash” and “unused or accumulated” are omit
 In subsection (g), the word “retirement” is omitted as covered by the words “separation or release from active duty”. The words “under this subsection” are substituted for the words “for such unused leave”. The word “appointment” is substituted for the word “commission”.
 
 #### Amendments
+2022—Subsec. (b)(6). Pub. L. 117–263, § 631(c)(2)(A)(i), substituted “90 days of leave under section 701(e)” for “120 days of leave under section 701(f)(1)”.
+
+Subsec. (h). Pub. L. 117–263, § 631(c)(2)(A)(ii), substituted “section 701(f)” for “section 701(g)”.
+
 2021—Subsec. (b)(1). Pub. L. 116–283, § 925(g)(3)(A), substituted “the member’s” for “his” in two places and “the member” for “he”.
 
 Pub. L. 116–283, § 925(g)(1)(A), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
@@ -177,6 +181,9 @@ Subsec. (d). Pub. L. 89–151, § 2, included members who die while on active se
 #### Change of Name
 Reference to Reserve Corps of the Public Health Service deemed to be a reference to the Ready Reserve Corps, see [section 204(c)(3) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section204/c/3&num=0&edition=prelim), The Public Health and Welfare.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–232 effective Jan. 1, 2023, see section 631(d) of Pub. L. 117–263, set out as a note under [section 701 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title VI, § 651(b), Dec. 28, 2001, 115 Stat. 1153, provided that: “Subparagraph (D) of [section 501(b)(5) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section501/b/5&num=0&edition=prelim), United States Code, as added by subsection (a)(3), shall apply with respect to periods of active duty beginning on or after October 1, 2001.”
 
@@ -210,7 +217,7 @@ Pub. L. 94–361, title III, § 304(h), July 14, 1976, 90 Stat. 926, provided th
 ## § 502. Absences due to sickness, wounds, and certain other causes
 **(a)** A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or the Secretary’s designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by [section 701 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim), is entitled to the pay and allowances to which the member would be entitled if the member were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which the member would be entitled if the member were not on leave, and to any additional allowances otherwise provided by law for members on leave.
 
-**(b)** Except as provided in subsection (a) and [section 701(h) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/h&num=0&edition=prelim), a member who is authorized by the Secretary concerned, or the Secretary’s designated representative, to be absent for a period that is longer than the leave authorized by [section 701 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim) is not entitled to pay or allowances during the part of the member’s absence that is more than the number of days’ leave authorized by that section.
+**(b)** Except as provided in subsection (a) and [section 701(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/g&num=0&edition=prelim), a member who is authorized by the Secretary concerned, or the Secretary’s designated representative, to be absent for a period that is longer than the leave authorized by [section 701 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim) is not entitled to pay or allowances during the part of the member’s absence that is more than the number of days’ leave authorized by that section.
 
 ### Statutory Notes
 
@@ -229,6 +236,8 @@ In subsections (a) and (b), the words “, or his designated representative,” 
 In subsection (b), the words “Except as provided in subsection (a) of this section” are inserted for clarity. The words “the part of his absence that is more than the number of days’ leave authorized by that section” are substituted for the words “such absence”.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 substituted “section 701(g)” for “section 701(h)”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 925(g)(3)(B)(i), (ii), substituted “the Secretary’s designated representative” for “his designated representative” and substituted “the member” for “he” wherever appearing.
 
 Pub. L. 116–283, § 925(g)(1)(B), which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
@@ -243,6 +252,9 @@ Subsec. (b). Pub. L. 116–283, § 925(g)(3)(B)(i), (iii), substituted “the Se
 
 1966—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–232 effective Jan. 1, 2023, see section 631(d) of Pub. L. 117–263, set out as a note under [section 701 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim), Armed Forces.
+
 #### Effective Date of 1980 Amendment
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), Armed Forces.
 
@@ -252,7 +264,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 <a id="section-503"></a>
 ## § 503. Absence without leave or over leave
-**(a)** A member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
+**(a)**
+
+(1) Subject to paragraph (2), a member of the Army, Navy, Air Force, Marine Corps, Space Force, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent without leave or over leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
+
+(2)
+
+  (A) In the case of a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard when it is operating as service in the Department of the Navy, the Secretary of Defense may determine to pay the pay and allowances described in paragraph (1).
+
+  (B) The Secretary may not delegate the authority to make a determination under subparagraph (A).
+
+  (C) Not later than 30 days after determining to pay any pay or allowance under subparagraph (A), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report regarding such determination.
 
 **(b)** A commissioned officer of the Regular Corps of the Public Health Service, or an officer of the Reserve Corps 11 See Change of Name note below. of the Public Health Service on active duty, who is absent without leave, forfeits all pay and allowances for the period of that absence, unless it is excused as unavoidable.
 
@@ -268,6 +290,8 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 In subsections (a) and (b), the words “for the period of that absence” are substituted for the words “during such absence”.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 designated existing provisions as par. (1), substituted “Subject to paragraph (2), a member” for “A member”, and added par. (2).
+
 2021—Subsec. (a). Pub. L. 116–283, which directed insertion of “Space Force,” after “Marines Corps,”, was executed by making the insertion after “Marine Corps,” to reflect the probable intent of Congress.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.

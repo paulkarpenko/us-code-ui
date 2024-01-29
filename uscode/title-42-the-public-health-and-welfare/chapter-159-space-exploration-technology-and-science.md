@@ -551,7 +551,7 @@ Subsec. (a). Pub. L. 114–90, § 114(b)(1)(B), substituted “through at least 
 
 
 <a id="section-18361"></a>
-## § 18361. Maintenance of the United States segment and assurance of continued operations of the International Space Station.
+## § 18361. Maintenance of the United States segment and assurance of continued operations of the International Space Station
 **(a) In general** The Administrator shall take all actions necessary to ensure the safe and effective operation, maintenance, and maximum utilization of the United States segment of the ISS through at least September 30, 2030.
 
 **(b) Vehicle and component review**

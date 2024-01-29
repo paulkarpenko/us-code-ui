@@ -125,21 +125,10 @@ Pub. L. 109–435, § 601(a)(3), renumbered [section 3603 of this title](https:/
 
   (B) Paragraph (2) shall not prevent the Commission from requiring production of information in the course of any discovery procedure established in connection with a proceeding under this title. The Commission shall, by regulations based on rule 26(c) of the Federal Rules of Civil Procedure, establish procedures for ensuring appropriate confidentiality for information furnished to any party.
 
-**(h)**
-
-(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittent services of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
-
-(2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.
-
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–108, title II, § 209(d), (e), Apr. 6, 2022, 136 Stat. 1152, provided that, effective 180 days after Apr. 6, 2022, this section is amended by striking subsection (h). See 2022 Amendment note below.
 
 #### References in Text
 Rule 26(c) of the Federal Rules of Civil Procedure, referred to subsec. (g)(3)(B), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-The Inspector General Act of 1978, referred to in subsec. (h)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 2022—Subsec. (d). Pub. L. 117–108, § 205(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “There are authorized to be appropriated, out of the Postal Service Fund, such sums as may be necessary for the Postal Regulatory Commission. In requesting an appropriation under this subsection for a fiscal year, the Commission shall prepare and submit to the Congress under section 2009 a budget of the Commission’s expenses, including expenses for facilities, supplies, compensation, and employee benefits.”
@@ -149,6 +138,8 @@ Subsec. (h). Pub. L. 117–108, § 209(d), struck out subsec. (h) which read as 
 “(1) Notwithstanding any other provision of this title or of the Inspector General Act of 1978, the authority to select, appoint, and employ officers and employees of the Office of Inspector General of the Postal Regulatory Commission, and to obtain any temporary or intermittent services of experts or consultants (or an organization of experts or consultants) for such Office, shall reside with the Inspector General of the Postal Regulatory Commission.
 
 “(2) Except as provided in paragraph (1), any exercise of authority under this subsection shall, to the extent practicable, be in conformance with the applicable laws and regulations that govern selections, appointments, and employment, and the obtaining of any such temporary or intermittent services, within the Postal Regulatory Commission.”
+
+Subsec. (h)(1). Pub. L. 117–286, which directed substitution of “chapter 4 of title 5,” for “the Inspector General Act of 1978,”, could not be executed because of the intervening amendment by Pub. L. 117–108, § 209(d). See above.
 
 2006—Pub. L. 109–435, § 601(a)(3), renumbered [section 3604 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3604&num=0&edition=prelim) as this section.
 
@@ -169,10 +160,10 @@ Subsec. (c). Pub. L. 94–421 redesignated former subsec. (b) as (c), transferre
 Subsecs. (d), (e). Pub. L. 94–421 redesignated former subsecs. (c) and (d) as (d) and (e), respectively, and in subsec. (d), as so redesignated, made minor changes in phraseology.
 
 #### Effective Date of 2022 Amendment
-Amendment by section 209(d) of Pub. L. 117–108 effective 180 days after Apr. 6, 2022, see section 209(e) of Pub. L. 117–108, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Amendment by section 209(d) of Pub. L. 117–108 effective 180 days after Apr. 6, 2022, see section 209(e) of Pub. L. 117–108, set out as a note under [section 202 of this title](./chapter-002-organization.md#section-202).
 
 #### Effective Date of 2006 Amendment; Savings Provisions
-Amendment by section 603(a) of Pub. L. 109–435 applicable with respect to fiscal years beginning on or after Oct. 1, 2008, subject to savings provisions, see section 603(d) of Pub. L. 109–435, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Pub. L. 109–435, title VI, § 603(d), Dec. 20, 2006, 120 Stat. 3241, provided that: “(1) In general.—The amendments made by this section [amending this section, sections 2003 and 2009 of this title, and former section 8G of Pub. L. 95–452, see [section 415 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section415&num=0&edition=prelim), Government Organization and Employees] shall apply with respect to fiscal years beginning on or after October 1, 2008. “(2) Savings provision.—The provisions of title 39, United States Code, and the Inspector General Act of 1978 ([former] 5 U.S.C. App.) [see [5 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim) et seq.] that are amended by this section shall, for purposes of any fiscal year before the first fiscal year to which the amendments made by this section apply, continue to apply in the same way as if this section had never been enacted.”
 
 #### Ex. Ord. No. 11570. Regulation of Conduct for Postal Rate Commission and Its Employees
 Ex. Ord. No. 11570, Nov. 24, 1970, 35 F.R. 18183, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:

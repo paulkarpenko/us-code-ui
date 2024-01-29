@@ -138,6 +138,20 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 
 (3) **Certain set-asides described in section 4942(g)(2)** — In the case of a deficiency attributable to the failure of an amount set aside by a private foundation for a specific project to be treated as a qualifying distribution under the provisions of section 4942(g)(2)(B)(ii), such deficiency may be assessed at any time before the expiration of 2 years after the expiration of the period within which a deficiency may be assessed for the taxable year to which the amount set aside relates.
 
+(4) **Individual retirement plans**
+
+  (A) *In general* — For purposes of any tax imposed by section 4973 or 4974 in connection with an individual retirement plan, the return referred to in this section shall include the income tax return filed by the person on whom the tax under such section is imposed for the year in which the act (or failure to act) giving rise to the liability for such tax occurred.
+
+  (B) *Rule in case of individuals not required to file return* — In the case of a person who is not required to file an income tax return for such year—
+
+    (i) the return referred to in this section shall be the income tax return that such person would have been required to file but for the fact that such person was not required to file such return, and
+
+    (ii) the 3-year period referred to in subsection (a) with respect to the return shall be deemed to begin on the date by which the return would have been required to be filed (excluding any extension thereof).
+
+  (C) *Period for assessment in case of income tax return* — In any case in which the return with respect to a tax imposed by section 4973 is the individual’s income tax return for purposes of this section, subsection (a) shall be applied by substituting a 6-year period in lieu of the 3-year period otherwise referred to in such subsection.
+
+  (D) *Exception for certain acquisitions of property* — In the case of any tax imposed by section 4973 that is attributable to acquiring property for less than fair market value, subparagraph (A) shall not apply.
+
 **(m) Deficiencies attributable to election of certain credits** The period for assessing a deficiency attributable to any election under section 30B(h)(9), 30C(e)(4), 30D(f)(6), 35(g)(11), 40(f), 43, 45B, 45C(d)(4), 45H(g), or 51(j) (or any revocation thereof) shall not expire before the date 1 year after the date on which the Secretary is notified of such election (or revocation).
 
 **(n) Cross reference** For period of limitations for assessment and collection in the case of a joint income return filed after separate returns have been filed, see section 6013(b)(3) and (4).
@@ -145,7 +159,9 @@ the personal holding company tax for such year may be assessed, or a proceeding 
 ### Statutory Notes
 
 #### Amendments
-2022—Subsec. (m). Pub. L. 117–169 substituted “30D(f)(6)” for “30D(e)(4)”.
+2022—Subsec. (l)(4). Pub. L. 117–328 added par. (4).
+
+Subsec. (m). Pub. L. 117–169 substituted “30D(f)(6)” for “30D(e)(4)”.
 
 2018—Subsec. (c)(4)(A). Pub. L. 115–141, § 205(b), struck out “in this section” after “time prescribed”.
 
@@ -398,6 +414,8 @@ Subsec. (g)(2). Pub. L. 85–866, § 81(a), substituted “organization” for �
 Subsecs. (h), (i). Pub. L. 85–866, § 81(b), added subsec. (h) and redesignated former subsec. (h) as (i).
 
 #### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title III, § 313(b), Dec. 29, 2022, 136 Stat. 5349, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 29, 2022].”
+
 Amendment by Pub. L. 117–169 applicable to vehicles placed in service after Dec. 31, 2022, see section 13401(k)(1) of Pub. L. 117–169, set out in an Effective Date of 2022; Transition Rule note under [section 30D of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-30d).
 
 #### Effective Date of 2018 Amendment
@@ -1773,7 +1791,7 @@ then, if the correction authorized is made, the amount of the assessment, or the
 ### Statutory Notes
 
 #### References in Text
-The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (a), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
 
 
 <a id="section-6531"></a>

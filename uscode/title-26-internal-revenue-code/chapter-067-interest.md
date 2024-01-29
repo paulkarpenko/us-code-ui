@@ -666,7 +666,7 @@ Pub. L. 94–12, title I, § 101(b), Mar. 29, 1975, 89 Stat. 28, as amended by P
 ### Statutory Notes
 
 #### References in Text
-The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see [section 3311 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3311) and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (c), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see [section 3311 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3311) and Tables.
 
 #### Amendments
 2018—Subsec. (c). Pub. L. 115–141 inserted “sections” before “2014(e)” and substituted “6420” for “and 6420”.

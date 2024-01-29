@@ -210,7 +210,7 @@ The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to i
 
     (ii) 50 percent of the acreage for which expressions of interest have been submitted for lease sales during that period; and
 
-(2) the Secretary may not issue a lease for offshore wind development under [section 1337(p)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1337/p/1/C&num=0&edition=prelim) unless—
+(2) the Secretary may not issue a lease for offshore wind development under section 8(p)(1)(C) of the Outer Continental Shelf Lands Act ([43 U.S.C. 1337(p)(1)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1337/p/1/C&num=0&edition=prelim)) unless—
 
   (A) an offshore lease sale has been held during the 1-year period ending on the date of the issuance of the lease for offshore wind development; and
 
@@ -227,4 +227,4 @@ The Outer Continental Shelf Lands Act, referred to in subsec. (a)(2)(A), is act 
 Section was enacted as part of Pub. L. 117–169, and not as part of subtitle B of title III of div. Z of Pub. L. 116–260 which comprises this chapter.
 
 #### Definitions
-Pub. L. 117–169, title V, § 50211, Aug. 16, 2022, 136 Stat. 2052, provided that: “In this subtitle [enacting this section, [section 1356c of this title](./chapter-029-submerged-lands.md#section-1356c), and [section 1727 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1727&num=0&edition=prelim), Mineral Lands and Mining, and amending sections 1331, 1337, and 1344 of this title and sections 188 and 226 of Title 30]: “(1) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(2) United states insular areas.—The term ‘United States Insular Areas’ means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, the Commonwealth of Puerto Rico, and the United States Virgin Islands.”
+Pub. L. 117–169, title V, § 50211, Aug. 16, 2022, 136 Stat. 2052, provided that: “In this subtitle [subtitle B (§§ 50211–50281), enacting this section, [section 1356c of this title](./chapter-029-submerged-lands.md#section-1356c), and [section 1727 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1727&num=0&edition=prelim), Mineral Lands and Mining, and amending sections 1331, 1337, and 1344 of this title and sections 188 and 226 of Title 30]: “(1) Secretary.—The term ‘Secretary’ means the Secretary of the Interior. “(2) United states insular areas.—The term ‘United States Insular Areas’ means American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, the Commonwealth of Puerto Rico, and the United States Virgin Islands.”

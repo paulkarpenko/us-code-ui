@@ -16,13 +16,13 @@ source: >-
 
   (B) a military department;
 
-  (C) an establishment (as such term is defined in section 11(2) 11 See References in Text note below. of the Inspector General Act of 1978) which is not an executive department;
+  (C) an establishment (as such term is defined in [section 401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim)) which is not an executive department;
 
   (D) the United States Postal Service;
 
   (E) the National Science Foundation; and
 
-  (F) a designated Federal entity (as such term is defined under section 8G(a)(2) of the Inspector General Act of 1978);
+  (F) a designated Federal entity (as such term is defined under [section 415(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section415/a&num=0&edition=prelim));
 
 (2) “authority head” means—
 
@@ -57,9 +57,9 @@ source: >-
 
   (A)
 
-    (i) in the case of an authority in which an Office of Inspector General is established by the Inspector General Act of 1978 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
+    (i) in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, is the Inspector General of that authority or an officer or employee of such Office designated by the Inspector General;
 
-    (ii) in the case of an authority in which an Office of Inspector General is not established by the Inspector General Act of 1978 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under [section 3803(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3803/a/1&num=0&edition=prelim); or
+    (ii) in the case of an authority in which an Office of Inspector General is not established by chapter 4 of title 5 or by any other Federal law, is an officer or employee of the authority designated by the authority head to conduct investigations under [section 3803(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3803/a/1&num=0&edition=prelim); or
 
     (iii) in the case of a military department, is the Inspector General of the Department of Defense or an officer or employee of the Office of Inspector General of the Department of Defense who is designated by the Inspector General; and
 
@@ -137,11 +137,17 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(C), (F), (4)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees. Section 11(2) of the Act was renumbered section 12(2) by Pub. L. 110–409, § 7(a), Oct. 14, 2008, 122 Stat. 4305.
-
 The Internal Revenue Code of 1986, referred to in subsec. (a)(3), (9), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (a)(1)(C). Pub. L. 117–286, § 4(b)(56)(A), substituted “[section 401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim))” for “section 11(2) of the Inspector General Act of 1978)”.
+
+Subsec. (a)(1)(F). Pub. L. 117–286, § 4(b)(56)(B), substituted “[section 415(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section415/a&num=0&edition=prelim))” for “section 8G(a)(2) of the Inspector General Act of 1978)”.
+
+Subsec. (a)(4)(A)(i). Pub. L. 117–286, § 4(b)(56)(C), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
+
+Subsec. (a)(4)(A)(ii). Pub. L. 117–286, § 4(b)(56)(D), substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
+
 2008—Subsec. (a)(1)(F). Pub. L. 110–409 added subpar. (F).
 
 2007—Subsec. (a)(1)(E). Pub. L. 110–69 added subpar. (E).
@@ -421,7 +427,7 @@ Any such determination shall be based on the preponderance of the evidence.
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to [section 1396a(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (c)(2)(C)(i) to (vi), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, XVIII, and XX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), XVIII (§ 1395 et seq.), and XX (§ 1397 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. Section 1902(a) of the Act is classified to [section 1396a(a) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a/a&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 3 of the Food and Nutrition Act of 2008, referred to in subsec. (c)(2)(C)(vii), is classified to [section 2012 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2012&num=0&edition=prelim), Agriculture.
 
@@ -570,12 +576,12 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 **(b)** A civil action to recover a penalty or assessment under [section 3806 of this title](./chapter-038-administrative-remedies-for-false-claims-and-statements.md#section-3806) shall be commenced within 3 years after the date on which the determination of liability for such penalty or assessment becomes final.
 
-**(c)** If at any time during the course of proceedings brought pursuant to this chapter the authority head receives or discovers any specific information regarding bribery, gratuities, conflict of interest, or other corruption or similar activity in relation to a false claim or statement, the authority head shall immediately report such information to the Attorney General, and in the case of an authority in which an Office of Inspector General is established by the Inspector General Act of 1978 or by any other Federal law, to the Inspector General of that authority.
+**(c)** If at any time during the course of proceedings brought pursuant to this chapter the authority head receives or discovers any specific information regarding bribery, gratuities, conflict of interest, or other corruption or similar activity in relation to a false claim or statement, the authority head shall immediately report such information to the Attorney General, and in the case of an authority in which an Office of Inspector General is established by chapter 4 of title 5 or by any other Federal law, to the Inspector General of that authority.
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978”.
 
 
 <a id="section-3809"></a>

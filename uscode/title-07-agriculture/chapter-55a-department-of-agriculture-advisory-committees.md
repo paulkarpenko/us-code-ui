@@ -107,7 +107,7 @@ The Secretary shall terminate any advisory committee upon a finding that any suc
 
 (1) has expended funds in excess of its estimated annual operating costs by more than 10 per centum or $500, whichever is greater, without the prior approval of the Secretary pursuant to the provisions of [section 2285 of this title](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2285);
 
-(2) has failed to file all reports required under the provisions of the Federal Advisory Committee Act or this chapter;
+(2) has failed to file all reports required under the provisions of chapter 10 of title 5 or this chapter;
 
 (3) has failed to meet for two consecutive years;
 
@@ -117,10 +117,9 @@ The Secretary shall terminate any advisory committee upon a finding that any suc
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in par. (2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Par. (2). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act”.
+
 1981—Pub. L. 97–98 substituted provision relating to termination of advisory committees for provision relating to advisory committee charter requirements.
 
 #### Effective Date of 1981 Amendment

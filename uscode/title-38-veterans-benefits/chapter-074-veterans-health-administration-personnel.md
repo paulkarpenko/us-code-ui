@@ -2,7 +2,7 @@
 title: 38
 chapter: '74'
 heading: VETERANS HEALTH ADMINISTRATION—PERSONNEL
-section_count: 41
+section_count: 42
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -15,7 +15,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 (2) Scientific and professional personnel, such as microbiologists, chemists, and biostatisticians.
 
-(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, and such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
+(3) Audiologists, licensed hearing aid specialists, speech pathologists, and audiologist-speech pathologists, biomedical engineers, certified or registered respiratory therapists, dietitians, licensed physical therapists, licensed practical or vocational nurses, nurse assistants, medical instrument technicians, medical records administrators or specialists, medical records technicians, medical technologists, dental hygienists, dental assistants, nuclear medicine technologists, occupational therapists, occupational therapy assistants, kinesiotherapists, orthotist-prosthetists, pharmacists, pharmacy technicians, physical therapy assistants, prosthetic representatives, psychologists, diagnostic radiologic technologists, therapeutic radiologic technologists, social workers, marriage and family therapists, licensed professional mental health counselors, blind rehabilitation specialists, blind rehabilitation outpatient specialists, statisticians, economists, informaticists, data scientists, and and 11 So in original. such other classes of health care occupations as the Secretary considers necessary for the recruitment and retention needs of the Department subject to the following requirements:
 
   (A) Such other classes of health care occupations—
 
@@ -39,6 +39,8 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 Provisions similar to those in this section were contained in [section 4104 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4104) prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
 
 #### Amendments
+2022—Par. (3). Pub. L. 117–328 inserted “statisticians, economists, informaticists, data scientists, and” after “blind rehabilitation outpatient specialists,” in introductory provisions.
+
 2017—Par. (4). Pub. L. 115–41 added par. (4).
 
 2016—Par. (3). Pub. L. 114–256 inserted “licensed hearing aid specialists,” after “Audiologists,” in introductory provisions.
@@ -63,6 +65,18 @@ Par. (3). Pub. L. 108–170, § 301(a)(1)(B), added par. (3) and struck out form
 
 #### Effective Date of 2003 Amendment
 Amendment by section 302(a) of Pub. L. 108–170 effective at end of 180-day period beginning on Dec. 6, 2003, see section 302(h) of Pub. L. 108–170, set out as a note under [section 7316 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7316).
+
+#### Third Party Review of Appointees in Veterans Health Administration Who Had a License Terminated for Cause and Notice to Individuals Treated by Those Appointees if Determined That an Episode of Care or Services That They Received Was Below the Standard of Care
+Pub. L. 117–328, div. U, title I, § 111, Dec. 29, 2022, 136 Stat. 5410, provided that: “(a) Third Party Review.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall enter into a contract or other agreement with an organization that is not part of the Federal Government to conduct a clinical review for quality management of hospital care or medical services furnished by covered providers. “(2) Qualifications.—The Secretary shall ensure that each review of a covered provider under this subsection is performed by an individual who is licensed in the same specialty as the covered provider. “(b) Notice to Patients Treated by Covered Providers.—With respect to hospital care or medical services furnished by a covered provider under the laws administered by the Secretary, if a clinical review for quality management under subsection (a) determines that the standard of care was not met during an episode of care, the Secretary shall notify the individual who received such care or services from the covered provider as described in applicable policy of the Veterans Heath Administration. “(c) Definitions.—In this section:“(1) Covered provider.—The term ‘covered provider’ means an individual who—“(A) was appointed to the Veterans Health Administration under [section 7401 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7401), United States Code; and “(B) before such appointment, had a license terminated for cause by a State licensing board for hospital care or medical services provided in a facility that is not a facility of the Veterans Health Administration. “(2) Hospital care or medical services.—The terms ‘hospital care’ and ‘medical services’ have the meanings given those terms in [section 1701 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701), United States Code.”
+
+#### Modification of Resource Allocation System To Include Peer Specialists
+Pub. L. 117–328, div. U, title I, § 192, Dec. 29, 2022, 136 Stat. 5439, provided that: “(a) In General.—Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall modify the Veterans Equitable Resource Allocation system, or successor system, to ensure that resource allocations under such system, or successor system, include peer specialists appointed under [section 7402(b)(13) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7402/b/13&num=0&edition=prelim), United States Code. “(b) Veterans Equitable Resource Allocation System Defined.—In this section, the term ‘Veterans Equitable Resource Allocation system’ means the resource allocation system established pursuant to section 429 of the Departments of Veterans Affairs and House and Urban Development, and Independent Agencies Appropriations Act, 1997 [probably means section 429 of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997, which is not classified to the Code] (Public Law 104–204; 110 Stat. 2929).”
+
+#### Expansion of Mental Health Training for Department of Veterans Affairs
+Pub. L. 117–328, div. V, title I, § 103, Dec. 29, 2022, 136 Stat. 5500, provided that: “(a) In General.—Not later than three years after the date of the enactment of this Act [Dec. 29, 2022] and subject to the availability of appropriations, the Secretary of Veterans Affairs, in collaboration with the Office of Mental Health and Suicide Prevention and the Office of Academic Affiliations, shall add an additional 250 paid trainee slots in covered mental health disciplines to the workforce of the Department of Veterans Affairs. “(b) Covered Mental Health Disciplines Defined.—In this section, the term ‘covered mental health disciplines’ means psychiatry, psychology, advanced practice nursing (with a focus on mental health or substance use disorder), social work, licensed professional mental health counseling, and marriage and family therapy.”
+
+#### Outreach
+Pub. L. 117–328, div. V, title I, § 104(c), Dec. 29, 2022, 136 Stat. 5501, provided that: “(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary shall develop a public awareness campaign to encourage veterans and mental health professionals to choose the Department for their mental health career. “(2) Elements.—The campaign required under paragraph (1)—“(A) shall advertise the paid trainee, scholarship, and loan repayment opportunities offered by the Department; and “(B) may highlight the new graduate medical education residencies available at the Department for medical students entering residency.”
 
 #### National Rural Recruitment and Hiring Plan for Veterans Health Administration
 Pub. L. 117–168, title IX, § 901, Aug. 10, 2022, 136 Stat. 1808, provided that: “(a) In General.—Not later than 18 months after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs, in collaboration with the directors of each community-based outpatient clinic and medical center of the Department of Veterans Affairs, shall develop and implement a national rural recruitment and hiring plan for the Veterans Health Administration to—“(1) recruit health care professionals for rural and highly rural community-based outpatient clinics and rural and highly rural medical centers of the Department; “(2) determine which such clinics or centers have a staffing shortage of health care professionals; “(3) develop best practices and techniques for recruiting health care professionals for such clinics and centers; “(4) not less frequently than annually, provide virtually based, on-demand training to human resources professionals of the Veterans Health Administration on the best practices and techniques developed under paragraph (3); and “(5) provide recruitment resources, such as pamphlets and marketing material to—“(A) Veterans Integrated Service Networks of the Department; “(B) rural and highly rural community-based outpatient clinics of the Department; and “(C) rural and highly rural medical centers of the Department. “(b) Annual Report.—Not later than 18 months after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report that includes—“(1) the plan developed and implemented under subsection (a); and “(2) an assessment of the outcomes related to recruitment and retention of employees of the Veterans Health Administration at rural and highly rural facilities of the Department. “(c) Definitions.—In this section, the terms ‘rural’ and ‘highly rural’ have the meanings given those terms under the rural-urban commuting areas coding system of the Department of Agriculture.”
@@ -891,6 +905,106 @@ Pub. L. 113–146, title III, § 301(a)(3), Aug. 7, 2014, 128 Stat. 1784, provid
 Section 502(a)(1) of Pub. L. 115–182, which directed that this section be added at the end of subchapter I of chapter 74, without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
 
+<a id="section-7414"></a>
+## § 7414. Compliance with requirements for examining qualifications and clinical abilities of health care professionals
+**(a) Compliance With Credentialing Requirements.—** The Secretary shall ensure that each medical center of the Department, in a consistent manner—
+
+(1) compiles, verifies, and reviews documentation for each health care professional of the Department at such medical center regarding, at a minimum—
+
+  (A) the professional licensure, certification, or registration of the health care professional;
+
+  (B) whether the health care professional holds a Drug Enforcement Administration registration; and
+
+  (C) the education, training, experience, malpractice history, and clinical competence of the health care professional; and
+
+(2) continuously monitors any changes to the matters under paragraph (1), including with respect to suspensions, restrictions, limitations, probations, denials, revocations, and other changes, relating to the failure of a health care professional to meet generally accepted standards of clinical practice in a manner that presents reasonable concern for the safety of patients.
+
+**(b) Registration Regarding Controlled Substances.—**
+
+(1) Except as provided in paragraph (2), the Secretary shall ensure that each covered health care professional holds an active Drug Enforcement Administration registration.
+
+(2) The Secretary shall—
+
+  (A) determine the circumstances in which a medical center of the Department must obtain a waiver under section 302(d) of the Controlled Substances Act ([21 U.S.C. 822(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section822/d&num=0&edition=prelim)) with respect to covered health care professionals; and
+
+  (B) establish a process for medical centers to request such waivers.
+
+(3) In carrying out paragraph (1), the Secretary shall ensure that each medical center of the Department monitors the Drug Enforcement Administration registrations of covered health care professionals at such medical center in a manner that ensures the medical center is made aware of any change in status in the registration by not later than seven days after such change in status.
+
+(4) If a covered health care professional does not hold an active Drug Enforcement Administration registration, the Secretary shall carry out any of the following actions, as the Secretary determines appropriate:
+
+  (A) Obtain a waiver pursuant to paragraph (2).
+
+  (B) Transfer the health care professional to a position that does not require prescribing, dispensing, administering, or conducting research with controlled substances.
+
+  (C) Take appropriate actions under subchapter V of this chapter, with respect to an employee of the Department, or take appropriate contract administration actions, with respect to a contractor of the Department.
+
+**(c) Reviews of Concerns Relating to Quality of Clinical Care.—**
+
+(1) The Secretary shall ensure that each medical center of the Department, in a consistent manner, carries out—
+
+  (A) ongoing, retrospective, and comprehensive monitoring of the performance and quality of the health care delivered by each health care professional of the Department located at the medical center, including with respect to the safety of such care; and
+
+  (B) timely and documented reviews of such care if an individual notifies the Secretary of any potential concerns relating to a failure of a health care professional of the Department to meet generally accepted standards of clinical practice in a manner that presents reasonable concern for the safety of patients.
+
+(2) The Secretary shall establish a policy to carry out paragraph (1), including with respect to—
+
+  (A) determining the period by which a medical center of the Department must initiate the review of a concern described in subparagraph (B) of such paragraph following the date on which the concern is received; and
+
+  (B) ensuring the compliance of each medical center with such policy.
+
+**(d) Compliance With Requirements for Reporting Quality of Care Concerns.—** If the Secretary substantiates a concern relating to the clinical competency of, or quality of care delivered by, a health care professional of the Department (including a former health care professional of the Department), the Secretary shall ensure that the appropriate medical center of the Department timely notifies the following entities of such concern, as appropriate:
+
+(1) The appropriate licensing, registration, or certification body in each State in which the health care professional is licensed, registered, or certified.
+
+(2) The Drug Enforcement Administration.
+
+(3) The National Practitioner Data Bank established pursuant to the Health Care Quality Improvement Act of 1986 ([42 U.S.C. 11101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11101&num=0&edition=prelim) et seq.).
+
+(4) Any other relevant entity.
+
+**(e) Prohibition on Certain Settlement Agreement Terms.—**
+
+(1) The Secretary may not enter into a settlement agreement relating to an adverse action against a health care professional of the Department if such agreement includes terms that require the Secretary to conceal from the personnel file of the employee a serious medical error or lapse in clinical practice that constitutes a substantial failure to meet generally accepted standards of clinical practice as to raise reasonable concern for the safety of patients.
+
+(2) Nothing in paragraph (1) limits—
+
+  (A) the right of an employee to appeal a quality of care determination; or
+
+  (B) the rights of an employee under sections 1214 and 1221 of title 5.
+
+**(f) Training.—** Not less frequently than annually, the Secretary shall provide mandatory training on the following duties to employees of the Department who are responsible for performing such duties:
+
+(1) Compiling, validating, or reviewing the credentials of health care professionals of the Department.
+
+(2) Reviewing the quality of clinical care delivered by health care professionals of the Department.
+
+(3) Taking adverse privileging actions or making determinations relating to other disciplinary actions or employment actions against health care professionals of the Department for reasons relating to the failure of a health care professional to meet generally accepted standards of clinical practice in a manner that presents reasonable concern for the safety of patients.
+
+(4) Making notifications under subsection (d).
+
+**(g) Definitions.—** In this section:
+
+(1) The term “controlled substance” has the meaning given that term in section 102 of the Controlled Substances Act ([21 U.S.C. 802](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim)).
+
+(2) The term “covered health care professional” means an individual employed in a position as a health care professional of the Department, or a contractor of the Department, that requires the individual to be authorized to prescribe, dispense, administer, or conduct research with, controlled substances.
+
+(3) The term “Drug Enforcement Administration registration” means registration with the Drug Enforcement Administration under section 303 of the Controlled Substances Act ([21 U.S.C. 823](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823&num=0&edition=prelim)) 302 of the Controlled Substances Act ([21 U.S.C. 822](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section822&num=0&edition=prelim)) by health care practitioners authorized to dispense, prescribe, administer, or conduct research with, controlled substances.
+
+(4) The term “health care professional of the Department” means an individual working for the Department in a position described in [section 7401 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7401), including a contractor of the Department serving in such a position.
+
+### Statutory Notes
+
+#### References in Text
+The Health Care Quality Improvement Act of 1986, referred to in subsec. (d)(3), is title IV of Pub. L. 99–660, Nov. 14, 1986, 100 Stat. 3784, which is classified generally to chapter 117 (§ 11101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 11101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11101&num=0&edition=prelim) and Tables.
+
+#### Deadline for Implementation
+Pub. L. 117–328, div. U, title I, § 112(c), Dec. 29, 2022, 136 Stat. 5414, provided that: “The Secretary of Veterans Affairs shall commence the implementation of [section 7414 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7414), United States Code, as added by subsection (a), by the following dates: “(1) With respect to subsections (a), (c)(2), (d), and (f) of such section, not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022]. “(2) With respect to subsection (c)(1) of such section, not later than one year after the date of the enactment of this Act. “(3) With respect to subsection (b)(2) of such section, not later than 18 months after the date of the enactment of this Act.”
+
+#### Audits and Reports
+Pub. L. 117–328, div. U, title I, § 112(d), Dec. 29, 2022, 136 Stat. 5414, provided that: “(1) Audits.—“(A) In general.—The Secretary of Veterans Affairs shall carry out annual audits of the compliance of medical centers of the Department of Veterans Affairs with the matters required by [section 7414 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7414), United States Code, as added by subsection (a). “(B) Conduct of audits.—In carrying out audits under subparagraph (A), the Secretary—“(i) may not authorize the medical center being audited to conduct the audit; and “(ii) may enter into an agreement with another department or agency of the Federal Government or a nongovernmental entity to conduct such audits. “(2) Reports.—“(A) In general.—Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], and annually thereafter for five years, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the audits conducted under paragraph (1). “(B) Elements.—Each report submitted under subparagraph (A) shall include a summary of the compliance by each medical center of the Department of Veterans Affairs with the matters required by [section 7414 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7414), United States Code, as added by subsection (a). “(C) Initial report.—The Secretary shall include in the first report submitted under subparagraph (A) the following:“(i) A description of the progress made by the Secretary in implementing [section 7414 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7414), United States Code, as added by subsection (a), including any matters under such section that the Secretary has not fully implemented. “(ii) An analysis of the feasibility, advisability, and cost of requiring credentialing employees of the Department to be trained by an outside entity and to maintain a credentialing certification.”
+
+
 <a id="section-7421"></a>
 ## § 7421. Personnel administration: in general
 **(a)** Notwithstanding any law, Executive order, or regulation, the Secretary shall prescribe by regulation the hours and conditions of employment and leaves of absence of employees appointed under any provision of this title in positions in the Veterans Health Administration listed in subsection (b).
@@ -1019,7 +1133,7 @@ Pub. L. 102–40, title II, § 205, May 7, 1991, 105 Stat. 207, provided that: �
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in section 4108(a), (c), and (e) of this title prior to the repeal of that section as part of the complete revision of chapter 73 of this title by Pub. L. 102–40.
@@ -1107,6 +1221,9 @@ Subsec. (c). Pub. L. 116–283, § 1103(d)(1)(B), added subsec. (c).
 
 #### Effective Date of 2021 Amendment
 Pub. L. 116–283, div. A, title XI, § 1103(d)(2), Jan. 1, 2021, 134 Stat. 3888, provided that: “The amendments made by paragraph (1) [amending this section] shall apply with respect to any event for which leave may be taken under subchapter V of chapter 63 of title 5, United States Code, occurring on or after October 1, 2020.”
+
+#### Department of Veterans Affairs: Including Military Service in Determining Family and Medical Leave Eligibility
+Pub. L. 118–31, div. A, title XI, § 1114(c), Dec. 22, 2023, 137 Stat. 432, provided that: “Not later than 6 months after the date of enactment of this Act [Dec. 22, 2023], the Secretary of Veterans Affairs shall modify the family and medical leave program provided by operation of [section 7425(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7425/c&num=0&edition=prelim), United States Code, to conform with the requirements of the amendment made by subsection (a) [amending [section 6381 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6381&num=0&edition=prelim), Government Organization and Employees] with respect to military service in [section 6381(1)(B)(ii) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6381/1/B/ii&num=0&edition=prelim), United States Code, as added by such subsection.”
 
 
 <a id="section-7426"></a>
@@ -1378,6 +1495,12 @@ Pub. L. 116–12, § 1(b)(5)(A), (B)(ii), redesignated subsec. (a)(2) as (b) and
 
 (3) The range of basic pay for each such grade shall be divided into equal increments, known as “steps”. The Secretary shall prescribe the number of steps. Each grade in a covered position shall have the same number of steps. Rates of pay within a grade may not be established at rates other than whole steps. Any increase (other than an adjustment under subsection (d)) within a grade in the rate of basic pay payable to an employee in a covered position shall be by one or more of such step increments.
 
+(4)
+
+  (A) The director of each medical center of the Department shall submit to the Secretary an annual locality pay survey and rates of basic pay for covered positions at such medical center to ensure that pay rates remain competitive in the local labor market.
+
+  (B) Not less than once per fiscal year, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on rates of basic pay for covered positions at medical centers of the Department.
+
 **(d)**
 
 (1) Subject to subsection (e), the rates of basic pay for each grade in a covered position shall be adjusted periodically in accordance with this subsection in order to achieve the purposes of this section. Such adjustments shall be made—
@@ -1476,6 +1599,8 @@ The General Schedule, referred to in subsec. (d)(1)(A), is set out under [sectio
 
 Subsec. (c)(2). Pub. L. 117–103, § 102(a)(2), added par. (2) and struck out former par. (2) which read as follows: “The maximum rate of basic pay for any grade for a covered position may not exceed the maximum rate of basic pay established for positions in level IV of the Executive Schedule under [section 5316 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim). The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
 
+Subsec. (c)(4). Pub. L. 117–263 added par. (4).
+
 2017—Subsec. (a)(2)(B), (C). Pub. L. 115–46 added subpar. (B), redesignated former subpar. (B) as (C), and, in subpar. (C), substituted “registered nurse, and physician assistant” for “and registered nurse”.
 
 2010—Subsec. (c)(2). Pub. L. 111–163, § 601(g), (h), substituted “level IV” for “level V” and inserted at end “The maximum rate of basic pay for a grade for the position of certified registered nurse anesthetist pursuant to an adjustment under subsection (d) may exceed the maximum rate otherwise provided in the preceding sentence.”
@@ -1570,7 +1695,7 @@ Subsec. (g)(8). Pub. L. 102–40, § 401(c)(2)(C), substituted “7452(b)(2)” 
 Amendment by sections 301(b) to 303 and 304(b) of Pub. L. 102–585 effective with respect to first pay period beginning on or after end of six-month period beginning on Nov. 4, 1992, see section 308 of Pub. L. 102–585, set out as a note under [section 7404 of this title](./chapter-074-veterans-health-administration-personnel.md#section-7404).
 
 #### Effective Date
-Section 104 of Pub. L. 101–366, as amended by Pub. L. 102–40, title III, § 301(e), May 7, 1991, 105 Stat. 208, provided that: “(a) In General.—(1) Except as provided in subsection (b), section 101 [amending former [section 4107 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4107) and enacting provisions set out as a note under former [section 4107 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4107)] and the amendments made by section 102 [enacting this section and section 4142 [now 7452] of this title and amending former sections 4104 and 4107 of this title] shall take effect on the date of enactment [Aug. 15, 1990]. “(2) The amendment made by section 103 [amending former [section 4107 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4107)] shall take effect on the first day of the first pay period beginning after April 1, 1991. “(b) New Pay Rates.—The rates of basic pay established pursuant to section 4141 [now 7451] of title 38, United States Code, as added by section 102, shall take effect for covered positions (as defined in that section) with respect to the first pay period beginning on or after April 1, 1991.”
+Pub. L. 101–366, title I, § 104, Aug. 15, 1990, 104 Stat. 437, as amended by Pub. L. 102–40, title III, § 301(e), May 7, 1991, 105 Stat. 208, provided that: “(a) In General.—(1) Except as provided in subsection (b), section 101 [amending former [section 4107 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4107) and enacting provisions set out as a note under former [section 4107 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4107)] and the amendments made by section 102 [enacting this section and section 4142 [now 7452] of this title and amending former sections 4104 and 4107 of this title] shall take effect on the date of enactment [Aug. 15, 1990]. “(2) The amendment made by section 103 [amending former [section 4107 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4107)] shall take effect on the first day of the first pay period beginning after April 1, 1991. “(b) New Pay Rates.—The rates of basic pay established pursuant to section 4141 [now 7451] of title 38, United States Code, as added by section 102, shall take effect for covered positions (as defined in that section) with respect to the first pay period beginning on or after April 1, 1991.”
 
 #### Savings Provision
 Pub. L. 102–40, title III, § 301(a), May 7, 1991, 105 Stat. 208, provided that: “Physician assistants and expanded-function dental auxiliaries shall continue to be paid after August 14, 1990, according to the Nurse Schedule in [section 4107(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4107/b&num=0&edition=prelim) [former [section 4107(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4107/b&num=0&edition=prelim)], United States Code, as in effect on August 14, 1990, until the effective date of a determination by the Secretary to convert those occupations to ‘covered positions’ and pay them pursuant to section 7451 of such title, as redesignated by section 401(c).”

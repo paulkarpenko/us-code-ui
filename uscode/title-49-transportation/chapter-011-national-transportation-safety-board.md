@@ -8,8 +8,13 @@ source: >-
 ---
 <a id="section-1101"></a>
 ## § 1101. Definitions
+**(a) In General.—** In this chapter:
 
-[Section 2101(23) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/23&num=0&edition=prelim) and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) apply to this chapter. In this chapter, the term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
+(1) **Accident.—** — The term “accident” includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.
+
+(2) **State.—** — The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, the Northern Mariana Islands, and Guam.
+
+**(b) Applicability of Other Definitions.—** [Section 2101(23) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/23&num=0&edition=prelim) and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) shall apply to this chapter.
 
 ### Statutory Notes
 
@@ -23,9 +28,14 @@ A number of the source provisions of the chapter are taken from 49 App.:ch. 20. 
 This section is included to ensure that the identical definitions that are relevant are used without repeating them. The source provisions for the definitions are found in the revision note for section 40102(a) of the revised title.
 
 #### Amendments
+2024—Pub. L. 118–63 amended section generally. Prior to amendment, text read as follows: “[Section 2101(23) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/23&num=0&edition=prelim) and [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) apply to this chapter. In this chapter, the term ‘accident’ includes damage to or destruction of vehicles in surface or air transportation or pipelines, regardless of whether the initiating event is accidental or otherwise.”
+
 2018—Pub. L. 115–232 substituted “Section 2101(23)” for “Section 2101(17a)”.
 
 2000—Pub. L. 106–424 amended section catchline and text generally. Prior to amendment, text read as follows: “[Section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) applies to this chapter.”
+
+#### Short Title of 2024 Amendment
+Pub. L. 118–63, title XII, § 1201, May 16, 2024, 138 Stat. 1422, provided that: “This title [amending this section and sections 1113 to 1116, 1118, 1131, 1134 to 1136, 1138 to 1140, 1151, 1155, and 24316 of this title, enacting provisions set out as notes under section 1111, 1114, and 1131 of this title, and repealing provisions set out as a note under [section 1113 of this title](./chapter-011-national-transportation-safety-board.md#section-1113)] may be cited as the ‘National Transportation Safety Board Amendments Act of 2024’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–110, § 1(a), Dec. 18, 2015, 129 Stat. 2228, provided that: “This Act [see Tables for classification] may be cited as the ‘Surface Transportation Board Reauthorization Act of 2015’.”
@@ -170,6 +180,9 @@ Subsecs. (i), (j). Pub. L. 109–443, § 9(d)(4), (5), added subsec. (i) and red
 
 2000—Subsecs. (h), (i). Pub. L. 106–424 added subsec. (h) and redesignated former subsec. (h) as (i).
 
+#### Drug-Free Workplace
+Pub. L. 118–63, title XII, § 1218, May 16, 2024, 138 Stat. 1431, provided that: “Not later than 12 months after the date of enactment of this Act [May 16, 2024], the National Transportation Safety Board shall implement a drug testing program applicable to Board employees, including employees in safety or security sensitive positions, in accordance with Executive Order No. 12564 (51 Fed. Reg. 32889).”
+
 #### Utilization Plan
 Pub. L. 109–443, § 2(a)(2), Dec. 21, 2006, 120 Stat. 3297, provided that: “(A) Plan.—Within 90 days after the date of enactment of this Act [Dec. 21, 2006], the National Transportation Safety Board shall—“(i) develop a plan to achieve, to the maximum extent feasible, the self-sufficient operation of the National Transportation Safety Board Academy and utilize the Academy’s facilities and resources; “(ii) submit a draft of the plan to the Comptroller General for review and comment; and “(iii) submit a draft of the plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives. “(B) Plan development considerations.—The Board shall—“(i) give consideration in developing the plan under subparagraph (A)(i) to other revenue-generating measures, including subleasing the facility to another entity; and “(ii) include in the plan a detailed financial statement that covers current Academy expenses and revenues and an analysis of the projected impact of the plan on the Academy’s expenses and revenues. “(C) Report.—Within 180 days after the date of enactment of this Act [Dec. 21, 2006], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—“(i) an updated copy of the plan developed pursuant to subparagraph (A)(i); “(ii) any comments and recommendations made by the Comptroller General pursuant to the Government Accountability Office’s review of the draft plan; and “(iii) a response to the Comptroller General’s comments and recommendations, including a description of any modifications made to the plan in response to those comments and recommendations. “(D) Implementation.—The plan developed pursuant to subparagraph (A)(i) shall be implemented within 2 years after the date of enactment of this Act [Dec. 21, 2006].”
 
@@ -236,9 +249,15 @@ In subsection (c), the words “when convened to investigate an accident certifi
 
   (H) make contracts with nonprofit entities to carry out studies related to duties and powers of the Board;
 
-  (I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board; and
+  (I) negotiate and enter into agreements with individuals and private entities and departments, agencies, and instrumentalities of the Government, State and local governments, and governments of foreign countries for the provision of facilities, accident-related and technical services or training in accident investigation theory and techniques, and require that such entities provide appropriate consideration for the reasonable costs of any facilities, goods, services, or training provided by the Board;
 
-  (J) notwithstanding [section 1343 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343&num=0&edition=prelim), acquire 1 or more small unmanned aircraft (as defined in section 44801) for use in investigations under this chapter.
+  (J) notwithstanding [section 1343 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1343&num=0&edition=prelim), acquire 1 or more small unmanned aircraft (as defined in section 44801) for use in investigations under this chapter; and
+
+  (K) notwithstanding [section 3301 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3301&num=0&edition=prelim), acquire training on emerging transportation technologies if such training—
+
+    (i) is required for an ongoing investigation; and
+
+    (ii) meets the criteria under [section 3304(a)(7)(A) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section3304/a/7/A&num=0&edition=prelim).
 
 (2) The Board shall deposit in the Treasury amounts received under paragraph (1)(I) of this subsection to be credited as offsetting collections to the appropriation of the Board. The Board shall maintain an annual record of collections received under paragraph (1)(I) of this subsection.
 
@@ -260,7 +279,45 @@ In subsection (c), the words “when convened to investigate an accident certifi
 
 (4) **Basic pay defined.—** — In this subsection, the term “basic pay” includes any applicable locality-based comparability payment under [section 5304 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5304&num=0&edition=prelim) (or similar provision of law) and any special rate of pay under [section 5305 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5305&num=0&edition=prelim) (or similar provision of law).
 
-(5) **Annual report.—** — Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).
+**(h) Strategic Workforce Plan.—**
+
+(1) **In general.—** — The Board shall develop a strategic workforce plan that addresses the immediate and long-term workforce needs of the Board with respect to carrying out the authorities and duties of the Board under this chapter.
+
+(2) **Aligning the workforce to strategic goals.—** — In developing the strategic workforce plan under paragraph (1), the Board shall take into consideration—
+
+  (A) the current state and capabilities of the Board, including a high-level review of mission requirements, structure, workforce, and performance of the Board;
+
+  (B) the significant workforce trends, needs, issues, and challenges with respect to the Board and the transportation industry;
+
+  (C) with respect to employees involved in transportation safety work, the needs, issues, and challenges, including accident severity and risk, posed by each mode of transportation, and how the Board’s staffing for each transportation mode reflects these aspects;
+
+  (D) the workforce policies, strategies, performance measures, and interventions to mitigate succession risks that guide the workforce investment decisions of the Board;
+
+  (E) a workforce planning strategy that identifies workforce needs, including the knowledge, skills, and abilities needed to recruit and retain skilled employees at the Board;
+
+  (F) a workforce management strategy that is aligned with the mission of the Board, including plans for continuity of leadership and knowledge sharing;
+
+  (G) an implementation system that addresses workforce competency gaps, particularly in mission-critical occupations; and
+
+  (H) a system for analyzing and evaluating the performance of the Board’s workforce management policies, programs, and activities.
+
+(3) **Planning period.—** — The strategic workforce plan developed under paragraph (1) shall address a 5-year forecast period, but may include planning for longer periods based on information about emerging technologies or safety trends in transportation.
+
+(4) **Plan updates.—** — The Board shall update the strategic workforce plan developed under paragraph (1) not less than once every 5 years.
+
+(5) **Relationship to strategic plan.—** — The strategic workforce plan developed under paragraph (1) may be developed separately from, or incorporated into, the strategic plan required under [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim).
+
+(6) **Availability.—** — The strategic workforce plan under paragraph (1) and the strategic plan required under [section 306 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section306&num=0&edition=prelim) shall be—
+
+  (A) submitted to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (B) made available to the public on a website of the Board.
+
+**(i) Non-accident-related Travel Budget.—**
+
+(1) **In general.—** — The Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for each Board member.
+
+(2) **Notification.—** — The Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of any non-accident-related travel budget overrun for any Board member not later than 30 days of such overrun becoming known to the Board.
 
 ### Statutory Notes
 
@@ -316,6 +373,14 @@ In subsection (f), the words “prescribe regulations to carry out this chapter�
 GS–10 of the General Schedule, referred to in subsec. (g)(1), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2024—Subsec. (b)(1)(K). Pub. L. 118–63, § 1204(a), added subpar. (K).
+
+Subsec. (g)(5). Pub. L. 118–63, § 1205, struck out par. (5). Prior to amendment, text of par. (5) read as follows: “Not later than January 31, 2002, and annually thereafter, the Board shall transmit to the Senate Committee on Commerce, Science, and Transportation and the House Transportation and Infrastructure Committee a report identifying the total amount of overtime payments made under this subsection in the preceding fiscal year, and the number of employees whose overtime pay under this subsection was limited in that fiscal year as a result of the 15 percent limit established by paragraph (2).”
+
+Subsec. (h). Pub. L. 118–63, § 1206, added subsec. (h).
+
+Subsec. (i). Pub. L. 118–63, § 1207(a), added subsec. (i).
+
 2018—Subsec. (a)(1). Pub. L. 115–254, § 1112(e), substituted “subpoena” for “subpena”.
 
 Subsec. (b)(1)(J). Pub. L. 115–254, § 1112(c), added subpar. (J).
@@ -339,10 +404,10 @@ Subsec. (b)(2). Pub. L. 106–424, § 3(b)(1), inserted “as offsetting collect
 Subsec. (g). Pub. L. 106–424, § 4, added subsec. (g).
 
 #### Relief From Contracting Requirements for Investigations Services
-Pub. L. 108–168, § 4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109–443, § 3, Dec. 21, 2006, 120 Stat. 3298, provided that: “(a) In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of [section 1113(b)(1)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1113/b/1/B&num=0&edition=prelim), United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation. “(b) Report on Usage.—On July 1 of each year, as part of the annual report required by [section 1117 of title 49](./chapter-011-national-transportation-safety-board.md#section-1117), United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform [now Committee on Oversight and Reform], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—“(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and “(2) sets forth the rationale for dispensing with competition requirements with respect to such contract.”
+Pub. L. 108–168, § 4, Dec. 6, 2003, 117 Stat. 2033, as amended by Pub. L. 109–443, § 3, Dec. 21, 2006, 120 Stat. 3298, provided that: “(a) In General.—The National Transportation Safety Board may enter into agreements or contracts under the authority of [section 1113(b)(1)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1113/b/1/B&num=0&edition=prelim), United States Code, for investigations conducted under section 1131 of that title without regard to any other provision of law requiring competition if necessary to expedite the investigation. “(b) Report on Usage.—On July 1 of each year, as part of the annual report required by [section 1117 of title 49](./chapter-011-national-transportation-safety-board.md#section-1117), United States Code, the National Transportation Safety Board shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure, the House of Representatives Committee on Government Reform [now Committee on Oversight and Accountability], the Senate Committee on Commerce, Science, and Transportation, and the Senate Committee on Governmental Affairs that—“(1) describes each contract executed by the Board to which the authority provided by subsection (a) was applied; and “(2) sets forth the rationale for dispensing with competition requirements with respect to such contract.”
 
 #### Travel Budgets
-Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Chairman of the National Transportation Safety Board shall establish annual fiscal year budgets for non-accident-related travel expenditures for Board members which shall be approved by the Board and submitted to the Senate Committee on Commerce, Science, and Transportation and to the House of Representatives Committee on Transportation and Infrastructure together with an annual report detailing the non-accident-related travel of each Board member. The report shall include separate accounting for foreign and domestic travel, including any personnel or other expenses associated with that travel.”
+Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, which required the Chairman of the National Transportation Safety Board to establish annual fiscal year budgets for non-accident-related travel expenditures for Board members to be approved by the Board and submitted to the appropriate congressioal committees with detailed travel reports, was repealed by Pub. L. 118–63, title XII, § 1207(b), May 16, 2024, 138 Stat. 1424.
 
 
 <a id="section-1114"></a>
@@ -353,9 +418,9 @@ Pub. L. 106–424, § 9, Nov. 1, 2000, 114 Stat. 1886, provided that: “The Cha
 
 (2) The Board shall deposit in the Treasury amounts received under paragraph (1) to be credited to the appropriation of the Board as offsetting collections.
 
-**(b) Trade Secrets.—**
+**(b) Certain Confidential Information.—**
 
-(1) The Board may disclose information related to a trade secret referred to in [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim) only—
+(1) **In general.—** — The Board may disclose confidential information described in [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), including trade secrets, only—
 
   (A) to another department, agency, or instrumentality of the United States Government when requested for official use;
 
@@ -451,6 +516,10 @@ In subsection (d)(3), the words “laboratory record made available under paragr
 Section 503(e) of the Supplemental Appropriations Act, 1987, referred to in subsec. (e)(1), is section 503(e) of Pub. L. 100–71, which is set out as a note under [section 7301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7301&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–63, § 1208(a)(1), substituted “Certain Confidential Information” for “Trade Secrets” in heading.
+
+Subsec. (b)(1). Pub. L. 118–63, § 1208(a)(2), inserted heading and substituted “confidential information described in [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), including trade secrets,” for “information related to a trade secret referred to in [section 1905 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim)” in introductory provisions.
+
 2018—Subsec. (c)(1). Pub. L. 115–254, § 1104(a)(1)(C)(i), inserted heading and substituted “Except as provided in paragraph (2), the Board” for “The Board”.
 
 Subsec. (c)(2). Pub. L. 115–254, § 1104(a)(1)(C)(ii), designated second sentence of par. (1) as par. (2) and amended it generally. Prior to amendment, second sentence of par. (1) read as follows: “However, the Board shall make public any part of a transcript or any written depiction of visual information the Board decides is relevant to the accident or incident—
@@ -495,6 +564,9 @@ Subsec. (b)(3). Pub. L. 104–291, § 103, added par. (3).
 
 Subsec. (e). Pub. L. 104–291, § 102(2), added subsec. (e).
 
+#### Electronic Availability of Public Docket Records
+Pub. L. 118–63, title XII, § 1217, May 16, 2024, 138 Stat. 1431, provided that: “(a) In General.—Not later than 24 months after the date of enactment of this Act [May 16, 2024], the National Transportation Safety Board shall make all records included in the public docket of an accident or incident investigation conducted by the Board (or the public docket of a study, report, or other product issued by the Board) electronically available in a publicly accessible database on a website of the Board, regardless of the date on which such public docket or record was created. “(b) Database.—In carrying out subsection (a), the Board may utilize the multimodal accident database management system established pursuant to section 1108 of the FAA Reauthorization Act of 2018 [Pub. L. 115–254] ([49 U.S.C. 1119](./chapter-011-national-transportation-safety-board.md#section-1119) note) or such other publicly available database as the Board determines appropriate. “(c) Briefings.—The Board shall provide the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] an annual briefing on the implementation of this section until requirements of subsection (a) are fulfilled. Such briefings shall include—“(1) the number of public dockets that have been made electronically available pursuant to this section; and “(2) the number of public dockets that were unable to be made electronically available, including all reasons for such inability. “(d) Definitions.—In this section, the terms ‘public docket’ and ‘record’ have the same meanings given such terms in section 801.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this Act.”
+
 
 <a id="section-1115"></a>
 ## § 1115. Training
@@ -516,7 +588,7 @@ Subsec. (e). Pub. L. 104–291, § 102(2), added subsec. (e).
 
 (2) The Board shall maintain an annual record of offsets under paragraph (1)(B) of this subsection.
 
-**(d) Training of board employees and others.—** The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation. The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.
+**(d) Training of board employees and others.—** The Board may conduct training of its employees in those subjects necessary for the proper performance of accident investigation and in those subjects furthering the personnel and workforce development needs set forth in the strategic workforce plan of the Board as required under section 1113(h). The Board may also authorize attendance at courses given under this subsection by other government personnel, personnel of foreign governments, and personnel from industry or otherwise who have a requirement for accident investigation training. The Board may require non-Board personnel to reimburse some or all of the training costs, and amounts so reimbursed shall be credited to the appropriation of the Board as offsetting collections.
 
 ### Statutory Notes
 
@@ -534,6 +606,8 @@ In subsection (b), before clause (1), the words “(established for the purpose 
 In subsection (c)(1), before clause (A), the words “the Secretary shall deposit the fee in the Treasury” are added for clarity. In clause (B), the words “direct and indirect” are omitted as surplus. The word “administration” is omitted as being included in “operating”. The text of 49 App.:1903(b)(10) (last sentence) is omitted because 5:ch. 41 applies to the National Transportation Safety Board by its own terms.
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–63 inserted “and in those subjects furthering the personnel and workforce development needs set forth in the strategic workforce plan of the Board as required under section 1113(h)” after “of accident investigation” in first sentence.
+
 2000—Subsec. (d). Pub. L. 106–424 substituted “of the Board” for “of the ‘National Transportation Safety Board, Salaries and Expenses’ ”.
 
 1996—Subsec. (d). Pub. L. 104–291 added subsec. (d).
@@ -569,13 +643,19 @@ In subsection (c)(1), before clause (A), the words “the Secretary shall deposi
 
 (2) a survey and summary of the recommendations made by the Board to reduce the likelihood of recurrence of those accidents together with the observed response to each recommendation;
 
-(3) a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
+(3) a list of each recommendation made by the Board to the Secretary of Transportation or the Commandant of the Coast Guard that was closed in an unacceptable status in the preceding 12 months, including—
 
-(4) a description of the activities and operations of the National Transportation Safety Board Training Center during the prior calendar year;
+  (A) any explanation the Board received from the Secretary or Commandant; and
 
-(5) a list of accidents, during the prior calendar year, that the Board was required to investigate under section 1131 but did not investigate and an explanation of why they were not investigated; and
+  (B) any explanation from the Board as to why the recommendation was closed in an unacceptable status, including a discussion of why alternate means, if any, taken by the Secretary or Commandant to address the Board’s recommendation were inadequate;
 
-(6) a list of ongoing investigations that have exceeded the expected time allotted for completion by Board order and an explanation for the additional time required to complete each such investigation.
+(4) a detailed appraisal of the accident investigation and accident prevention activities of other departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities having responsibility for those activities under a law of the United States or a State;
+
+(5) a description of the activities and operations of the National Transportation Safety Board Training Center during the prior calendar year;
+
+(6) a list of accidents, during the prior calendar year, that the Board was required to investigate under section 1131 but did not investigate and an explanation of why they were not investigated; and
+
+(7) a list of ongoing investigations that have exceeded the expected time allotted for completion by Board order and an explanation for the additional time required to complete each such investigation.
 
 **(d) Retrospective Reviews.—**
 
@@ -630,6 +710,8 @@ In subsection (b)(3), the words “by regulation” are omitted as unnecessary b
 In subsection (b)(4), the word “effectiveness” is substituted for “efficacy” for clarity.
 
 #### Amendments
+2024—Subsec. (c)(3) to (7). Pub. L. 118–63 added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+
 2018—Pub. L. 115–254, § 1111(a)(1), substituted “, studies, and retrospective reviews” for “and studies” in section catchline.
 
 Subsec. (c). Pub. L. 115–254, § 1107(a), added subsec. (c).
@@ -692,7 +774,21 @@ The date of enactment of the National Transportation Safety Board Reauthorizatio
 
 <a id="section-1118"></a>
 ## § 1118. Authorization of appropriations
-**(a) In General.—** There are authorized to be appropriated for the purposes of this chapter $111,400,000 for fiscal year 2019, $112,400,000 for fiscal year 2020, $113,400,000 for fiscal year 2021, and $114,400,000 for fiscal year 2022. Such sums shall remain available until expended.
+**(a) In General.—**
+
+(1) **Authorizations.—** — There is authorized to be appropriated for purposes of this chapter—
+
+  (A) $140,000,000 for fiscal year 2024;
+
+  (B) $145,000,000 for fiscal year 2025;
+
+  (C) $148,000,000 for fiscal year 2026;
+
+  (D) $151,000,000 for fiscal year 2027; and
+
+  (E) $154,000,000 for fiscal year 2028.
+
+(2) **Availability.—** — Amounts authorized under paragraph (1) shall remain available until expended.
 
 **(b) Emergency Fund.—** The Board has an emergency fund of $2,000,000 available for necessary expenses of the Board, not otherwise provided for, for accident investigations. In addition, there are authorized to be appropriated such sums as may be necessary to increase the fund to, and maintain the fund at, a level not to exceed $4,000,000.
 
@@ -724,6 +820,8 @@ In subsection (a), the words “to the National Transportation Safety Board” a
 In subsection (b)(2), the words “amounts equal to amounts expended annually out of the fund” are substituted for “to replenish the fund annually” for clarity.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63 amended subsec. (a) generally. Prior to amendment, subsec. (a) authorized appropriations for fiscal years 2019 through 2022.
+
 2018—Subsec. (a). Pub. L. 115–254 amended subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for the purposes of this chapter $57,000,000 for fiscal year 2000, $65,000,000 for fiscal year 2001, $72,000,000 for fiscal year 2002, $73,325,000 for fiscal year 2003, $78,757,000 for fiscal year 2004, $83,011,000 for fiscal year 2005, $87,539,000 for fiscal year 2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008. Such sums shall remain available until expended.”
 
 2006—Subsec. (a). Pub. L. 109–443, § 8(a), struck out “and” after “2005,” and substituted “2006, $81,594,000 for fiscal year 2007, and $92,625,000 for fiscal year 2008.” for “2006.”
@@ -805,13 +903,25 @@ Pub. L. 115–254, div. C, § 1108, Oct. 5, 2018, 132 Stat. 3433, provided that:
 
   (A) an aircraft accident the Board has authority to investigate under [section 1132 of this title](./chapter-011-national-transportation-safety-board.md#section-1132) or an aircraft accident involving a public aircraft as defined by [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim) other than an aircraft operated by the Armed Forces or by an intelligence agency of the United States;
 
-  (B) a highway accident, including a railroad grade crossing accident, the Board selects in cooperation with a State;
+  (B) a highway accident, including a railroad grade crossing accident, the Board selects, concurrent with any State investigation, in which case the Board and the relevant State agencies shall coordinate to ensure both the Board and State agencies have timely access to the information needed to conduct each such investigation, including any criminal and enforcement activities conducted by the relevant State agency;
 
-  (C) a railroad accident in which there is a fatality or substantial property damage, or that involves a passenger train;
+  (C) a railroad—
+
+    (i) accident in which there is a fatality or substantial property damage, except—
+
+      (I) a grade crossing accident or incident, unless selected by the Board; or
+
+      (II) an accident or incident involving a trespasser, unless selected by the Board; or
+
+    (ii) accident or incident that involves a passenger train, except in any case in which such accident or incident resulted in no fatalities or serious injuries to the passengers or crewmembers of such train, and—
+
+      (I) was a grade crossing accident or incident, unless selected by the Board; or
+
+      (II) such accident or incident involved a trespasser, unless selected by the Board;
 
   (D) a pipeline accident in which there is a fatality, substantial property damage, or significant injury to the environment;
 
-  (E) a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988, or involving a vessel of the United States (as defined in section 2101(46) 11 See References in Text note below. of title 46), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
+  (E) a major marine casualty (except a casualty involving only public vessels) occurring on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988, or involving a vessel of the United States (as defined in [section 116 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section116&num=0&edition=prelim)), under regulations prescribed jointly by the Board and the head of the department in which the Coast Guard is operating; and
 
   (F) any other accident related to the transportation of individuals or property when the Board decides—
 
@@ -849,7 +959,13 @@ Pub. L. 115–254, div. C, § 1108, Oct. 5, 2018, 132 Stat. 3433, provided that:
 
 **(d) Accidents Involving Public Aircraft.—** The Board, in furtherance of its investigative duties with respect to public aircraft accidents under subsection (a)(1)(A) of this section, shall have the same duties and powers as are specified for civil aircraft accidents under sections 1132(a), 1132(b), and 1134(a), (b), (d), and (f) of this title.
 
-**(e) Accident Reports.—** The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
+**(e) Accident Reports.—** The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public—
+
+(1) in electronic form at no cost in a publicly accessible database on a website of the Board; and
+
+(2) if the electronic form required in paragraph (1) is not printable, in printed form upon a reasonable request at a reasonable cost.
+
+**(f) Timeliness of Reports.—** If any accident report under subsection (e) is not completed within 2 years from the date of the accident, the Board shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report identifying such accident report and the reasons for which such report has not been completed. The Board shall report progress toward completion of the accident report to each such Committees every 90 days thereafter, until such time as the accident report is completed.
 
 ### Statutory Notes
 
@@ -886,9 +1002,17 @@ In subsection (d), the words “in writing” in 49 App.:1903(a)(2) are omitted 
 #### References in Text
 Presidential Proclamation No. 5928, referred to in subsec. (a)(1)(E), is set out as a note under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
-[Section 2101(46) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/46&num=0&edition=prelim), referred to in subsec. (a)(1)(E), was repealed and reenacted as [section 116 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section116&num=0&edition=prelim) by Pub. L. 109–304, §§ 4, 15(2)(A), Oct. 6, 2006, 120 Stat. 1486, 1702.
-
 #### Amendments
+2024—Subsec. (a)(1)(B). Pub. L. 118–63, § 1210(a), substituted “selects, concurrent with any State investigation, in which case the Board and the relevant State agencies shall coordinate to ensure both the Board and State agencies have timely access to the information needed to conduct each such investigation, including any criminal and enforcement activities conducted by the relevant State agency” for “selects in cooperation with a State”.
+
+Subsec. (a)(1)(C). Pub. L. 118–63, § 1210(b), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “a railroad accident in which there is a fatality or substantial property damage, or that involves a passenger train;”.
+
+Subsec. (e). Pub. L. 118–63, § 1211, substituted “public—” and pars. (1) and (2) for “public at reasonable cost.”
+
+Subsec. (f). Pub. L. 118–63, § 1212, added subsec. (f).
+
+2022—Subsec. (a)(1)(E). Pub. L. 117–263 substituted “section 116” for “section 2101(46)”.
+
 2018—Subsec. (a)(1)(A). Pub. L. 115–254 substituted “a public aircraft as defined by [section 40102(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a&num=0&edition=prelim)” for “a public aircraft as defined by [section 40102(a)(37) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102/a/37&num=0&edition=prelim)”.
 
 2006—Subsec. (a)(1)(E). Pub. L. 109–443, § 9(b), substituted “on or under the navigable waters, internal waters, or the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988,” for “on the navigable waters or territorial sea of the United States,” and inserted “(as defined in [section 2101(46) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/46&num=0&edition=prelim))” after “vessel of the United States”.
@@ -910,6 +1034,9 @@ Pub. L. 103–411, § 3(d), Oct. 25, 1994, 108 Stat. 4237, provided that: “The
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Air Safety Investigators
+Pub. L. 118–63, title XII, § 1222, May 16, 2024, 138 Stat. 1432, provided that: “(a) Removal of FAA [Federal Aviation Administration] Medical Certificate Requirement.—Not later than 60 days after the date of enactment of this Act [May 16, 2024], the Director of the Office of Personnel Management, in consultation with the Administrator [of the Federal Aviation Administration] and the Chairman of the National Transportation Safety Board, shall take such actions as may be necessary to revise the eligibility requirements for the Air Safety Investigating Series 1815 occupational series (and any similar occupational series relating to transportation accident investigating) to remove any requirement that an individual hold a current medical certificate issued by the Administrator. “(b) Updates to Other Requirements.—“(1) In general.—Not later than 2 years after the date of enactment of this Act, the Director, in coordination with the Administrator and Chairman, shall take such actions as may be necessary to update and revise experiential, educational, and other eligibility requirements for the Air Safety Investigating Series 1815 occupational series (and any similar occupational series relating to transportation accident investigating). “(2) Considerations.—In updating the requirements under paragraph (1), the Director shall consider—“(A) the direct relationship between any requirement and the duties expected to be performed by the position; “(B) changes in the skills and tools necessary to perform transportation accident investigations; and “(C) such other considerations as the Director, Administrator, or Chairman determines appropriate.”
 
 #### Revision of 1977 Agreement
 Pub. L. 108–168, § 3(b), Dec. 6, 2003, 117 Stat. 2033, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 6, 2003], the National Transportation Safety Board and the Federal Bureau of Investigation shall revise their 1977 agreement on the investigation of accidents to take into account the amendments made by this section [amending [section 1136 of this title](./chapter-011-national-transportation-safety-board.md#section-1136)] and shall submit a copy of the revised agreement to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
@@ -1033,6 +1160,14 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) With or without reimbursement, the Board may obtain a copy of an autopsy report performed by a State or local official on an individual who died because of a transportation accident investigated by the Board under this chapter.
 
+**(g) Recorders and Data.—** In investigating an accident under this chapter, the Board may require from a transportation operator or equipment manufacturer or the vendors, suppliers, subsidiaries, or parent companies of such manufacturer, or operator of a product or service which is subject to an investigation by the Board—
+
+(1) any recorder or recorded information pertinent to the accident;
+
+(2) without undue delay, information the Board determines necessary to enable the Board to read and interpret any recording device or recorded information pertinent to the accident; and
+
+(3) design specifications or data related to the operation and performance of the equipment the Board determines necessary to enable the Board to perform independent physics-based simulations and analyses of the accident situation.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1062,6 +1197,8 @@ In subsection (e), the word “promptly” is substituted for “with reasonable
 In subsection (f)(1), the words “In the case of any fatal accident” in 49 App.:1441(c) are omitted as surplus. The words “to examine the remains of any deceased person aboard the aircraft at the time of the accident, who dies as a result of the accident” are omitted as unnecessary because of the authority of the Board to conduct autopsies.
 
 #### Amendments
+2024—Subsec. (g). Pub. L. 118–63 added subsec. (g).
+
 2018—Subsec. (a)(2). Pub. L. 115–254 inserted “including an electronic record,” after “record,”.
 
 
@@ -1077,7 +1214,11 @@ In subsection (f)(1), the words “In the case of any fatal accident” in 49 Ap
 
 **(b) Timetable for Completing Procedures and Reasons for Refusals.—** A response under subsection (a)(1) or (2) of this section shall include a copy of a proposed timetable for completing the procedures. A response under subsection (a)(2) of this section shall detail the reasons for the refusal to carry out procedures on the remainder of the recommendation. A response under subsection (a)(3) of this section shall detail the reasons for the refusal to carry out procedures.
 
-**(c) Public Availability.—** The Board shall make a copy of each recommendation and response available to the public at reasonable cost.
+**(c) Public Availability.—** The Board shall make a copy of each recommendation and response available to the public—
+
+(1) in electronic form at no cost in a publicly accessible database on a website of the Board; and
+
+(2) if the electronic form required in paragraph (1) is not printable, in printed form upon a reasonable request at a reasonable cost.
 
 **(d) Annual Report on Air Carrier Safety Recommendations.—**
 
@@ -1107,14 +1248,6 @@ In subsection (f)(1), the words “In the case of any fatal accident” in 49 Ap
 
     (ii) a description of the reasons for the refusal to carry out all or part of the procedures to adopt the recommendation.
 
-**(e) Reporting Requirements.—**
-
-(1) **Annual secretarial regulatory status reports.—** — On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board’s “most wanted list”. The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or an Administration within the Department) determines and states in such a report that no action should be taken.
-
-(2) **Failure to report.—** — If on March 1 of each year the Board has not received the Secretary’s report required by this subsection, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the Secretary’s failure to submit the required report.
-
-(3) **Compliance report with recommendations.—** — Within 90 days after the date on which the Secretary submits a report under this subsection, the Board shall review the Secretary’s report and transmit comments on the report to the Secretary, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives.
-
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -1129,6 +1262,10 @@ In subsections (a) and (b), the words “carry out” are substituted for “ini
 In subsection (a)(1), the word “complete” is substituted for “in full” for consistency in the revised title.
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–63, § 1214, substituted “public—” and pars. (1) and (2) for “public at reasonable cost.”
+
+Subsec. (e). Pub. L. 118–63, § 1220(a), struck out subsec. (e), which required the Secretary to annually submit regulatory status reports to Congress.
+
 2010—Subsec. (a). Pub. L. 111–216, § 202(a), as amended by Pub. L. 111–249, § 6(1), inserted “to the Board” after “shall give” in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 111–216, § 202(b), as amended by Pub. L. 111–249, § 6(2), added subsec. (d) and redesignated former subsec. (d) as (e).
@@ -1148,36 +1285,48 @@ Pub. L. 107–355, § 19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 1
 
 
 <a id="section-1136"></a>
-## § 1136. Assistance to families of passengers involved in aircraft accidents
-**(a) In General.—** As soon as practicable after being notified of an aircraft accident involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
+## § 1136. Assistance to passengers involved in aircraft accidents and families of such passengers
+**(a) In General.—** As soon as practicable after being notified of an aircraft accident within United States airspace or airspace delegated to the United States involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the Board shall—
 
 (1) designate and publicize the name and phone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the air carrier or foreign air carrier and the families; and
 
-(2) designate an independent nonprofit organization, with experience in disasters and posttrauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+(2) designate an independent nonprofit organization, with experience in disasters and posttrauma communication with families, which shall have primary responsibility for coordinating the emotional care, psychological care, and family support services of passengers involved in the accident and the families of such passengers.
 
 **(b) Responsibilities of the Board.—** The Board shall have primary Federal responsibility for facilitating the recovery and identification of fatally-injured passengers involved in an accident described in subsection (a).
 
-**(c) Responsibilities of Designated Organization.—** The organization designated for an accident under subsection (a)(2) shall have the following responsibilities with respect to the families of passengers involved in the accident:
+**(c) Responsibilities of Designated Organization.—** The organization designated for an accident under subsection (a)(2) shall have the following responsibilities with respect to passengers involved in the accident and the families of such passengers:
 
-(1) To provide mental health and counseling services, in coordination with the disaster response team of the air carrier or foreign air carrier involved.
+(1) To provide emotional care, psychological care, and family support services, in coordination with the disaster response team of the air carrier or foreign air carrier involved.
 
 (2) To take such actions as may be necessary to provide an environment in which the families may grieve in private.
 
-(3) To meet with the families who have traveled to the location of the accident, to contact the families unable to travel to such location, and to contact all affected families periodically thereafter until such time as the organization, in consultation with the director of family support services designated for the accident under subsection (a)(1), determines that further assistance is no longer needed.
+(3) To meet with passengers involved in the accident and the families of such passengers who have traveled to the location of the accident, to contact the families unable to travel to such location, and to contact all passengers and affected families regularly thereafter until such time as the organization, in consultation with the director of family support services designated for the accident under subsection (a)(1), determines that further assistance is no longer needed.
 
-(4) To communicate with the families as to the roles of the organization, government agencies, and the air carrier or foreign air carrier involved with respect to the accident and the post-accident activities.
+(4) To communicate with the passengers and families as to the roles of the organization, government agencies, and the air carrier or foreign air carrier involved with respect to the accident and the post-accident activities.
 
 (5) To arrange a suitable memorial service, in consultation with the families.
 
 **(d) Passenger Lists.—**
 
-(1) **Requests for passenger lists.—**
+(1) **Requests for passenger lists by the director of family services.—**
 
-  (A) *Requests by director of family support services.—* — It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the air carrier or foreign air carrier involved in the accident a list, which is based on the best available information at the time of the request, of the names of the passengers that were aboard the aircraft involved in the accident.
+  (A) *Requests by director of family support services.—* — It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the air carrier or foreign air carrier involved in the accident a passenger list, which is based on the best available information at the time of the request.
 
-  (B) *Requests by designated organization.—* — The organization designated for an accident under subsection (a)(2) may request from the air carrier or foreign air carrier involved in the accident a list described in subparagraph (A).
+  (B) *Use of information.—* — The director of family support services may not release to any person information on a list obtained under subparagraph (A), except that the director may, to the extent the director considers appropriate, provide information on the list about a passenger to—
 
-(2) **Use of information.—** — The director of family support services and the organization may not release to any person information on a list obtained under paragraph (1) but may provide information on the list about a passenger to the family of the passenger to the extent that the director of family support services or the organization considers appropriate.
+    (i) the family of the passenger; or
+
+    (ii) a local, Tribal, State, or Federal agency responsible for determining the whereabouts or welfare of a passenger.
+
+  (C) *Limitation.—* — A local, Tribal, State, or Federal agency may not release to any person any information obtained under subparagraph (B)(ii), except if given express authority from the director of family support services.
+
+  (D) *Rule of construction.—* — Nothing in subparagraph (C) shall be construed to preclude a local, Tribal, State, or Federal agency from releasing information that is lawfully obtained through other means independent of releases made by the director of family support services under subparagraph (B).
+
+(2) **Requests for passenger lists by designated organization.—**
+
+  (A) *Requests by designated organization.—* — The organization designated for an accident under subsection (a)(2) may request from the air carrier or foreign air carrier involved in the accident a passenger list.
+
+  (B) *Use of information.—* — The designated organization may not release to any person information on a passenger list but may provide information on the list about a passenger to the family of the passenger to the extent the organization considers appropriate.
 
 **(e) Continuing Responsibilities of the Board.—** In the course of its investigation of an accident described in subsection (a), the Board shall, to the maximum extent practicable, ensure that the families of passengers involved in the accident—
 
@@ -1189,15 +1338,15 @@ Pub. L. 107–355, § 19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 1
 
 **(g) Prohibited Actions.—**
 
-(1) **Actions to impede the board.—** — No person (including a State or political subdivision) may impede the ability of the Board (including the director of family support services designated for an accident under subsection (a)(1)), or an organization designated for an accident under subsection (a)(2), to carry out its responsibilities under this section or the ability of the families of passengers involved in the accident to have contact with one another.
+(1) **Actions to impede the board.—** — No person (including a State or political subdivision) may impede the ability of the Board (including the director of family support services designated for an accident under subsection (a)(1)), or an organization designated for an accident under subsection (a)(2), to carry out its responsibilities under this section or the ability of passengers involved in the accident and the families of such passengers to have contact with one another.
 
 (2) **Unsolicited communications.—** — In the event of an accident involving an air carrier providing interstate or foreign air transportation and in the event of an accident involving a foreign air carrier that occurs within the United States, no unsolicited communication concerning a potential action for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation to an individual injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
 
-(3) **Prohibition on actions to prevent mental health and counseling services.—** — No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
+(3) **Prohibition on actions to prevent certain care and support services.—** — No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing emotional care, psychological care, and family support services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the passengers and families and if State and local authorities are notified of the determination.
 
 **(h) Definitions.—** In this section, the following definitions apply:
 
-(1) **Aircraft accident.—** — The term “aircraft accident” means any aviation disaster, regardless of its cause or suspected cause, for which the National Transportation Safety Board is the lead investigative agency.
+(1) **Aircraft accident.—** — The term “aircraft accident” means any aviation disaster, regardless of its cause or suspected cause, for which the Board is the lead investigative agency.
 
 (2) **Passenger.—** — The term “passenger” includes—
 
@@ -1207,7 +1356,9 @@ Pub. L. 107–355, § 19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 1
 
   (C) any other person injured or killed in the aircraft accident, as determined appropriate by the Board.
 
-**(i) Statutory Construction.—** Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.
+(3) **Passenger list.—** — The term “passenger list” means a list based on the best available information at the time of a request, of the name of each passenger aboard the aircraft involved in the accident.
+
+**(i) Statutory Construction.—** Nothing in this section may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to passengers involved in the aircraft accident and the families of such passengers.
 
 **(j) Relinquishment of Investigative Priority.—**
 
@@ -1218,6 +1369,32 @@ Pub. L. 107–355, § 19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 1
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–63, § 1215(a)(1), substituted “to passengers involved in aircraft accidents and families of such passengers” for “to families of passengers involved in aircraft accidents” in section catchline.
+
+Subsec. (a). Pub. L. 118–63, § 1215(a)(2)(A), (B), in introductory provisions, inserted “within United States airspace or airspace delegated to the United States” after “aircraft accident” and substituted “Board shall” for “National Transportation Safety Board shall”.
+
+Subsec. (a)(2). Pub. L. 118–63, § 1215(a)(2)(C), substituted “emotional care, psychological care, and family support services” for “emotional care and support” and “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident”.
+
+Subsec. (c). Pub. L. 118–63, § 1215(a)(3)(A), substituted “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 118–63, § 1215(a)(3)(B), substituted “emotional care, psychological care, and family support services” for “mental health and counseling services”.
+
+Subsec. (c)(3). Pub. L. 118–63, § 1215(a)(3)(C), substituted “passengers involved in the accident and the families of such passengers who have traveled to the location of the accident” for “the families who have traveled to the location of the accident” and “regularly” for “periodically”, and inserted “passengers and” after “contact all”.
+
+Subsec. (c)(4). Pub. L. 118–63, § 1215(a)(3)(D), inserted “passengers and” before “families”.
+
+Subsec. (d). Pub. L. 118–63, § 1215(a)(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to requests for passenger lists and use of such information.
+
+Subsec. (g)(1). Pub. L. 118–63, § 1215(a)(5), substituted “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident”.
+
+Subsec. (g)(3). Pub. L. 118–63, § 1215(a)(6), in heading, substituted “prevent certain care and support” for “prevent mental health and counseling”, and, in text, substituted “providing emotional care, psychological care, and family support services” for “providing mental health and counseling services” and inserted “passengers and” before “families”.
+
+Subsec. (h)(1). Pub. L. 118–63, § 1215(a)(7)(A), struck out “National Transportation Safety” before “Board”.
+
+Subsec. (h)(3). Pub. L. 118–63, § 1215(a)(7)(B), added par. (3).
+
+Subsec. (i). Pub. L. 118–63, § 1215(a)(8), substituted “passengers involved in the aircraft accident and the families of such passengers” for “the families of passengers involved in an aircraft accident”.
+
 2018—Subsec. (a). Pub. L. 115–254, § 1109(c)(1), in introductory provisions, substituted “aircraft accident involving an air carrier or foreign air carrier, resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency” for “aircraft accident within the United States involving an air carrier or foreign air carrier and resulting in a major loss of life”.
 
 Subsec. (h)(1). Pub. L. 115–254, § 1109(c)(2)(A), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘aircraft accident’ means any aviation disaster regardless of its cause or suspected cause.”
@@ -1253,7 +1430,7 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 (3) report periodically to Congress on any progress made in implementing actions to address such problems.
 
-**(c) Access to Information.—** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+**(c) Access to Information.—** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (c) of [section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim).
 
 **(d) Authorizations of Appropriations.—**
 
@@ -1263,16 +1440,15 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 ### Statutory Notes
 
-#### References in Text
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “subsections (a) and (c) of [section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim).” for “subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).”
+
 2006—Subsec. (d). Pub. L. 109–443 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Inspector General shall be reimbursed by the Board for the costs associated with carrying out activities under this section.”
 
 
 <a id="section-1138"></a>
 ## § 1138. Evaluation and audit of National Transportation Safety Board
-**(a) In General.—** To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the National Transportation Safety Board. Such evaluation and audit shall be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
+**(a) In General.—** To promote economy, efficiency, and effectiveness in the administration of the programs, operations, and activities of the National Transportation Safety Board, the Comptroller General of the United States shall evaluate and audit the programs and expenditures of the Board. Such evaluation and audit shall be conducted as determined necessary by the Comptroller General or the appropriate congressional committees.
 
 **(b) Responsibility of Comptroller General.—** The Comptroller General shall evaluate and audit Board programs, operations, and activities, including—
 
@@ -1295,6 +1471,8 @@ Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is s
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63 substituted “expenditures of the” for “expenditures of the National Transportation Safety”.
+
 2018—Subsec. (b)(5) to (7). Pub. L. 115–254, § 1110(1), added par. (5) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
 Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
@@ -1303,12 +1481,12 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 
 
 <a id="section-1139"></a>
-## § 1139. Assistance to families of passengers involved in rail passenger accidents
-**(a) In General.—** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the National Transportation Safety Board shall—
+## § 1139. Assistance to passengers involved in rail passenger accidents and families of such passengers
+**(a) In General.—** As soon as practicable after being notified of a rail passenger accident within the United States involving a rail passenger carrier and resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency, the Chairman of the Board shall—
 
 (1) designate and publicize the name and telephone number of a director of family support services who shall be an employee of the Board and shall be responsible for acting as a point of contact within the Federal Government for the families of passengers involved in the accident and a liaison between the rail passenger carrier and the families; and
 
-(2) designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care and support of the families of passengers involved in the accident.
+(2) designate an independent nonprofit organization, with experience in disasters and post-trauma communication with families, which shall have primary responsibility for coordinating the emotional care, psychological care, and family support services of passengers involved in the accident and the families of such passengers.
 
 **(b) Responsibilities of the Board.—** The Board shall have primary Federal responsibility for—
 
@@ -1322,25 +1500,37 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 
   (C) the rail passenger carrier involved.
 
-**(c) Responsibilities of Designated Organization.—** The organization designated for an accident under subsection (a)(2) shall have the following responsibilities with respect to the families of passengers involved in the accident:
+**(c) Responsibilities of Designated Organization.—** The organization designated for an accident under subsection (a)(2) shall have the following responsibilities with respect to passengers involved in the accident and the families of such passengers:
 
-(1) To provide mental health and counseling services, in coordination with the disaster response team of the rail passenger carrier involved.
+(1) To provide emotional care, psychological care, and family support services, in coordination with the disaster response team of the rail passenger carrier involved.
 
 (2) To take such actions as may be necessary to provide an environment in which the families may grieve in private.
 
-(3) To meet with the families who have traveled to the location of the accident, to contact the families unable to travel to such location, and to contact all affected families periodically thereafter until such time as the organization, in consultation with the director of family support services designated for the accident under subsection (a)(1), determines that further assistance is no longer needed.
+(3) To meet with passengers involved in the accident and the families of such passengers who have traveled to the location of the accident, to contact the families unable to travel to such location, and to contact all passengers and affected families periodically thereafter until such time as the organization, in consultation with the director of family support services designated for the accident under subsection (a)(1), determines that further assistance is no longer needed.
 
-(4) To arrange a suitable memorial service, in consultation with the families.
+(4) To arrange a suitable memorial service, in consultation with the passengers and families.
 
 **(d) Passenger Lists.—**
 
-(1) **Requests for passenger lists.—**
+(1) **Requests for passenger lists by the director of family services.—**
 
-  (A) *Requests by director of family support services.—* — It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the rail passenger carrier involved in the accident a list, which is based on the best available information at the time of the request, of the names of the passengers that were aboard the rail passenger carrier’s train involved in the accident. A rail passenger carrier shall use reasonable efforts, with respect to its unreserved trains, and passengers not holding reservations on its other trains, to ascertain the names of passengers aboard a train involved in an accident.
+  (A) *Requests by director of family support services.—* — It shall be the responsibility of the director of family support services designated for an accident under subsection (a)(1) to request, as soon as practicable, from the rail passenger carrier involved in the accident a passenger list, which is based on the best available information at the time of the request.
 
-  (B) *Requests by designated organization.—* — The organization designated for an accident under subsection (a)(2) may request from the rail passenger carrier involved in the accident a list described in subparagraph (A).
+  (B) *Use of information.—* — The director of family support services may not release to any person information on a list obtained under subparagraph (A), except that the director may, to the extent the director considers appropriate, provide information on the list about a passenger to—
 
-(2) **Use of information.—** — Except as provided in subsection (k), the director of family support services and the organization may not release to any person information on a list obtained under paragraph (1) but may provide information on the list about a passenger to the family of the passenger to the extent that the director of family support services or the organization considers appropriate.
+    (i) the family of the passenger; or
+
+    (ii) a local, Tribal, State, or Federal agency responsible for determining the whereabouts or welfare of a passenger.
+
+  (C) *Limitation.—* — A local, Tribal, State, or Federal agency may not release to any person any information obtained under subparagraph (B)(ii), except if given express authority from the director of family support services.
+
+  (D) *Rule of construction.—* — Nothing in subparagraph (C) shall be construed to preclude a local, Tribal, State, or Federal agency from releasing information that is lawfully obtained through other means independent of releases made by the director of family support services under subparagraph (B).
+
+(2) **Requests for passenger lists by designated organization.—**
+
+  (A) *Requests by designated organization.—* — The organization designated for an accident under subsection (a)(2) may request from the rail passenger carrier involved in the accident a passenger list.
+
+  (B) *Use of information.—* — The designated organization may not release to any person information on a passenger list but may provide information on the list about a passenger to the family of the passenger to the extent the organization considers appropriate.
 
 **(e) Continuing Responsibilities of the Board.—** In the course of its investigation of an accident described in subsection (a), the Board shall, to the maximum extent practicable, ensure that the families of passengers involved in the accident—
 
@@ -1352,11 +1542,11 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 
 **(g) Prohibited Actions.—**
 
-(1) **Actions to impede the board.—** — No person (including a State or political subdivision thereof) may impede the ability of the Board (including the director of family support services designated for an accident under subsection (a)(1)), or an organization designated for an accident under subsection (a)(2), to carry out its responsibilities under this section or the ability of the families of passengers involved in the accident to have contact with one another.
+(1) **Actions to impede the board.—** — No person (including a State or political subdivision thereof) may impede the ability of the Board (including the director of family support services designated for an accident under subsection (a)(1)), or an organization designated for an accident under subsection (a)(2), to carry out its responsibilities under this section or the ability of passengers involved in the accident and the families of such passengers to have contact with one another.
 
 (2) **Unsolicited communications.—** — No unsolicited communication concerning a potential action or settlement offer for personal injury or wrongful death may be made by an attorney (including any associate, agent, employee, or other representative of an attorney) or any potential party to the litigation, including the railroad carrier or rail passenger carrier, to an individual (other than an employee of the rail passenger carrier) injured in the accident, or to a relative of an individual involved in the accident, before the 45th day following the date of the accident.
 
-(3) **Prohibition on actions to prevent mental health and counseling services.—** — No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing mental health and counseling services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the families and if State and local authorities are notified of the determination.
+(3) **Prohibition on actions to prevent certain care and support services.—** — No State or political subdivision thereof may prevent the employees, agents, or volunteers of an organization designated for an accident under subsection (a)(2) from providing emotional care, psychological care, and family support services under subsection (c)(1) in the 30-day period beginning on the date of the accident. The director of family support services designated for the accident under subsection (a)(1) may extend such period for not to exceed an additional 30 days if the director determines that the extension is necessary to meet the needs of the passengers and families and if State and local authorities are notified of the determination.
 
 **(h) Definitions.—** In this section:
 
@@ -1364,7 +1554,7 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 
   (A) results in any loss of life;
 
-  (B) the National Transportation Safety Board will serve as the lead investigative agency for; and
+  (B) the Board will serve as the lead investigative agency for; and
 
   (C) occurs in the provision of—
 
@@ -1387,6 +1577,8 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 
   (C) any other person injured or killed in a rail passenger accident, as determined appropriate by the Board.
 
+(4) **Passenger list.—** — The term “passenger list” means a list based on the best available information at the time of the request, of the name of each passenger aboard the rail passenger carrier’s train involved in the accident. A rail passenger carrier shall use reasonable efforts, with respect to its unreserved trains, and passengers not holding reservations on its other trains, to ascertain the names of passengers aboard a train involved in an accident.
+
 **(i) Limitation on Statutory Construction.—** Nothing in this section may be construed as limiting the actions that a rail passenger carrier may take, or the obligations that a rail passenger carrier may have, in providing assistance to the families of passengers involved in a rail passenger accident.
 
 **(j) Relinquishment of Investigative Priority.—**
@@ -1400,6 +1592,30 @@ Subsec. (c). Pub. L. 115–254, § 1110(2), inserted comma after “Science”.
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–63, § 1215(c)(1), substituted “to passengers involved in rail passenger accidents and families of such passengers” for “to families of passengers involved in rail passenger accidents” in section catchline.
+
+Subsec. (a). Pub. L. 118–63, § 1215(c)(2), substituted “Board shall” for “National Transportation Safety Board shall” in introcuctory provisions.
+
+Subsec. (a)(2). Pub. L. 118–63, § 1215(c)(3), substituted “emotional care, psychological care, and family support services” for “emotional care and support” and “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident”.
+
+Subsec. (c). Pub. L. 118–63, § 1215(c)(4)(A), substituted “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 118–63, § 1215(c)(4)(B), substituted “emotional care, psychological care, and family support services” for “mental health and counseling services”.
+
+Subsec. (c)(3). Pub. L. 118–63, § 1215(c)(4)(C), substituted “passengers involved in the accident and the families of such passengers who have traveled to the location of the accident” for “the families who have traveled to the location of the accident” and inserted “passengers and” before “affected families”.
+
+Subsec. (c)(4). Pub. L. 118–63, § 1215(c)(4)(D), inserted “passengers and” before “families”.
+
+Subsec. (d). Pub. L. 118–63, § 1215(c)(5), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to requests for passenger lists and use of such information.
+
+Subsec. (g)(1). Pub. L. 118–63, § 1215(c)(6)(A), substituted “passengers involved in the accident and the families of such passengers” for “the families of passengers involved in the accident”.
+
+Subsec. (g)(3). Pub. L. 118–63, § 1215(c)(6)(B), in heading, substituted “prevent certain care and support” for “prevent mental health and counseling”, and, in text, substituted “providing emotional care, psychological care, and family support services” for “providing mental health and counseling services” and inserted “passengers and” before “families”.
+
+Subsec. (h)(1)(B). Pub. L. 118–63, § 1215(c)(7)(A), struck out “National Transportation Safety” before “Board ”.
+
+Subsec. (h)(4). Pub. L. 118–63, § 1215(c)(7)(B), added par. (4).
+
 2018—Subsec. (a). Pub. L. 115–254, § 1109(d)(1), substituted “resulting in any loss of life, and for which the National Transportation Safety Board will serve as the lead investigative agency” for “resulting in a major loss of life” in introductory provisions.
 
 Subsec. (h)(1). Pub. L. 115–254, § 1109(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “The term ‘rail passenger accident’ means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
@@ -1424,15 +1640,20 @@ Pub. L. 110–432, div. A, title V, § 503, Oct. 16, 2008, 122 Stat. 4899, provi
 
 
 <a id="section-1140"></a>
-## § 1140. Information for families of individuals involved in accidents
+## § 1140. Information 11 So in original. Probably should be followed by “for”. individuals involved in accidents and families of such individuals
 
-In the course of an investigation of an accident described in section 1131(a)(1), except an aircraft accident described in section 1136 or a rail passenger accident described in section 1139, the Board may, to the maximum extent practicable, ensure that the families of individuals involved in the accident, and other individuals the Board deems appropriate—
+In the course of an investigation of an accident described in section 1131(a)(1), except an aircraft accident described in section 1136 or a rail passenger accident described in section 1139, the Board may, to the maximum extent practicable, ensure that individuals involved in accidents and the families of such individuals, and other individuals the Board deems appropriate—
 
 (1) are informed as to the roles, with respect to the accident and the post-accident activities, of the Board;
 
 (2) are briefed, before any public briefing, about the accident, its causes, and any other findings from the investigation; and
 
 (3) are individually informed of and allowed to attend any public hearings and meetings of the Board about the accident.
+
+### Statutory Notes
+
+#### Amendments
+2024—Pub. L. 118–63 substituted “individuals involved in accidents and families of such individuals” for “for families of individuals involved in accidents” in section catchline and “individuals involved in accidents and the families of such individuals” for “the families of individuals involved in the accident” in introductory provisions in text.
 
 
 <a id="section-1151"></a>
@@ -1446,6 +1667,20 @@ In the course of an investigation of an accident described in section 1131(a)(1)
 (2) to prosecute a person violating those sections or a regulation prescribed or order issued under any of those sections.
 
 **(c) Participation of Board.—** On request of the Attorney General, the Board may participate in a civil action to enforce section 1132, 1134(b) or (f)(1) (related to an aircraft accident), 1136(g)(2), or 1155(a) of this title.
+
+**(d) Notification to Congress.—** If the Board or Attorney General carry out such civil actions described in subsection (a) or (b) of this section against an airman employed at the time of the accident or incident by an air carrier operating under part 121 of title 14, Code of Federal Regulations, the Board shall immediately notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of such civil actions, including—
+
+(1) the labor union representing the airman involved, if applicable;
+
+(2) the air carrier at which the airman is employed;
+
+(3) the docket information of the incident or accident in which the airman was involved;
+
+(4) the date of such civil actions taken by the Board or Attorney General; and
+
+(5) a description of why such civil actions were taken by the Board or Attorney General.
+
+**(e) Subsequent Notification to Congress.—** Not later than 15 days after the notification described in subsection (d), the Board shall submit a report to or brief the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the status of compliance with the civil actions taken.
 
 ### Statutory Notes
 
@@ -1473,6 +1708,8 @@ In subsection (b), before clause (1), the words “Attorney General” are subst
 In subsection (c), the words “civil action” are substituted for “proceeding in court” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
+2024—Subsecs. (d), (e). Pub. L. 118–63 added subsecs. (d) and (e).
+
 2000—Pub. L. 106–181 inserted “1136(g)(2),” before “or 1155(a)” in subsecs. (a), (b)(1), and (c).
 
 #### Effective Date of 2000 Amendment
@@ -1646,10 +1883,10 @@ Subsec. (a)(6). Pub. L. 106–424, § 5(c)(1)(D), which directed the amendment o
 
 
 <a id="section-1155"></a>
-## § 1155. Aviation penalties
+## § 1155. Penalties
 **(a) Civil Penalty.—**
 
-(1) A person violating section 1132, section 1134(b), section 1134(f)(1), or section 1136(g) (related to an aircraft accident) of this title or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
+(1) A person violating section 1132, section 1134(b), section 1134(f)(1), section 1136(g), or [section 1139(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section1139/g&num=0&edition=prelim) or a regulation prescribed or order issued under any of those sections is liable to the United States Government for a civil penalty of not more than $1,000. A separate violation occurs for each day a violation continues.
 
 (2) This subsection does not apply to a member of the armed forces of the United States or an employee of the Department of Defense subject to the Uniform Code of Military Justice when the member or employee is performing official duties. The appropriate military authorities are responsible for taking necessary disciplinary action and submitting to the National Transportation Safety Board a timely report on action taken.
 
@@ -1693,6 +1930,10 @@ The Uniform Code of Military Justice, referred to in subsec. (a)(2), is classifi
 Prior chapter 31 (§§ 3101–3104) of subtitle II redesignated and restated as chapter 315 (§§ 31501–31504) of subtitle VI of this title by Pub. L. 103–272, § 1(c), (e).
 
 #### Amendments
+2024—Pub. L. 118–63, § 1216(a)(1), substituted “Penalties” for “Aviation penalties” in section catchline.
+
+Subsec. (a)(1). Pub. L. 118–63, § 1216(a)(2), substituted “section 1136(g), or section 1139(g)” for “or section 1136(g) (related to an aircraft accident)”.
+
 1996—Subsec. (a)(1). Pub. L. 104–264 substituted “, section 1134(b), section 1134(f)(1), or section 1136(g)” for “or 1134(b) or (f)(1)” and “any of” for “either of”.
 
 #### Effective Date of 1996 Amendment

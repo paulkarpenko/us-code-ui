@@ -286,9 +286,13 @@ Amendment by Pub. L. 117–58 effective Oct. 1, 2021, see section 10003 of Pub. 
 Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101).
 
 #### Buy America Waiver Notification and Annual Reports
-Pub. L. 117–103, div. L, title I, § 122, Mar. 15, 2022, 136 Stat. 704, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall provide an annual report to the House and Senate Committees on Appropriations on any waivers granted under the Buy America requirements.”
+Pub. L. 118–42, div. F, title I, § 122, Mar. 9, 2024, 138 Stat. 321, provided that: “Not less than 15 days prior to waiving, under his or her statutory authority, any Buy America requirement for Federal-aid highways projects, the Secretary of Transportation shall make an informal public notice and comment opportunity on the intent to issue such waiver and the reasons therefor: Provided, That the Secretary shall post on a website any waivers granted under the Buy America requirements.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. L, title I, § 122, Dec. 29, 2022, 136 Stat. 5116.
+
+Pub. L. 117–103, div. L, title I, § 122, Mar. 15, 2022, 136 Stat. 704.
 
 Pub. L. 116–260, div. L, title I, § 122, Dec. 27, 2020, 134 Stat. 1841.
 
@@ -629,7 +633,7 @@ Section 1036 of the Intermodal Surface Transportation Efficiency Act of 1991, re
 
 The date of enactment of this subsection, referred to in subsec. (c), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
 
-The Transportation Equity Act for the 21st Century, referred to in subsec. (h)(4), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101) and Tables.
+The Transportation Equity Act for the 21st Century, referred to in subsec. (h)(4), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107. For complete classification of this Act to the Code, see section 1(a) of Pub. L. 105–178, set out as a Short Title of 1998 Amendment note under [section 101 of this title](./chapter-001-federal-aid-highways.md#section-101) and Tables.
 
 #### Prior Provisions
 A prior section 322, added Pub. L. 91–605, title II, § 205(a), Dec. 31, 1970, 84 Stat. 1742; amended Pub. L. 93–643, § 117, Jan. 4, 1975, 88 Stat. 2288; Pub. L. 97–449, § 5(d)(3), Jan. 12, 1983, 96 Stat. 2442, related to demonstration projects for elimination or protection of certain ground-level rail-highway crossings and required study of problem of providing increased highway safety at public and private ground-level rail-highway crossings on nationwide basis through elimination of such crossings or otherwise, and report to Congress on such study not later than July 1, 1972, prior to repeal by Pub. L. 100–17, title I, § 133(e)(1), Apr. 2, 1987, 101 Stat. 173.
@@ -723,7 +727,7 @@ Pub. L. 105–178, title III, § 3015(c), June 9, 1998, 112 Stat. 361, as amende
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (d). Pub. L. 117–58 inserted “([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.)” after “National Environmental Policy Act of 1969” in introductory provisions.
@@ -768,7 +772,7 @@ No person shall on the ground of sex be excluded from participation in, be denie
 ### Statutory Notes
 
 #### References in Text
-The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in text, is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Civil Rights Act of 1964 is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000d of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000d&num=0&edition=prelim) and Tables.
 
 
 <a id="section-325"></a>
@@ -855,7 +859,7 @@ Repeal effective Oct. 1, 2021, see section 10003 of Pub. L. 117–58, set out as
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 326, added Pub. L. 102–240, title VI, § 6004(a), Dec. 18, 1991, 105 Stat. 2169; amended Pub. L. 105–130, § 5(e)(4), Dec. 1, 1997, 111 Stat. 2558, related to education and training program, prior to repeal by Pub. L. 105–178, title V, § 5119(b), June 9, 1998, 112 Stat. 452.
@@ -1185,7 +1189,7 @@ Pub. L. 112–140, title I, § 101(e)(2), June 29, 2012, 126 Stat. 392, provided
 ### Statutory Notes
 
 #### References in Text
-The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, as amended, which is classified principally to chapter 104 (§ 7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7701&num=0&edition=prelim) and Tables.
+The Plant Protection Act, referred to in subsec. (b)(1), is title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to chapter 104 (§ 7701 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 7701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section7701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Subsec. (a)(1). Pub. L. 114–94 inserted “provision of habitat, forage, and migratory way stations for Monarch butterflies, other native pollinators, and honey bees,” before “and aesthetic enhancement”.

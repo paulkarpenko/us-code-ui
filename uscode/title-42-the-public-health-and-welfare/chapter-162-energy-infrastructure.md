@@ -88,7 +88,7 @@ This division, referred to in subsec. (a)(1)(B)(i), is div. D of Pub. L. 117–5
 The Energy Act of 2020, referred to in subsec. (a)(1)(B)(ii), is div. Z of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 2418. For complete classification of div. Z to the Code, see Short Title of 2020 Amendment note under [section 17001 of this title](./chapter-152-energy-independence-and-security.md#section-17001) and Tables.
 
 #### Codification
-Section is comprised of section 41201 of div. D of Pub. L. 117–58. Subsec. (g) of section 41201 of div. D of Pub. L. 117–58 amended [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391).
+Section is comprised of section 41201 of div. D of Pub. L. 117–58. Subsec. (g) (now subsec. (i)) of section 41201 of div. D of Pub. L. 117–58 amended [section 16391 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16391).
 
 #### Amendments
 2022—Subsec. (b). Pub. L. 117–167, § 10723(1), inserted “including the Office of Technology Transitions, the Loan Program Office, and all applied program offices,” after “Department,” in introductory provisions.
@@ -928,7 +928,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 ## § 18724. Rural and municipal utility advanced cybersecurity grant and technical assistance program
 **(a) Definitions** In this section:
 
-(1) **Advanced cybersecurity technology** — The term “advanced cybersecurity technology” means any technology, operational capability, or service, including computer hardware, software, or a related asset, that enhances the security posture of electric utilities through improvements in the ability to protect against, detect, respond to, or recover from a cybersecurity threat (as defined in [section 1501 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1501&num=0&edition=prelim)).
+(1) **Advanced cybersecurity technology** — The term “advanced cybersecurity technology” means any technology, operational capability, or service, including computer hardware, software, or a related asset, that enhances the security posture of electric utilities through improvements in the ability to protect against, detect, respond to, or recover from a cybersecurity threat (as defined in [section 650 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim)).
 
 (2) **Bulk-power system** — The term “bulk-power system” has the meaning given the term in section 824o(a) of title 16.
 
@@ -983,6 +983,9 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 **(f) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $250,000,000 for the period of fiscal years 2022 through 2026.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263 substituted “[section 650 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim)” for “[section 1501 of title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1501&num=0&edition=prelim)”.
 
 #### Wage Rate Requirements
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).

@@ -578,7 +578,7 @@ Section 590g–2, act July 5, 1952, ch. 574, title I, 66 Stat. 347, which relate
 #### References in Text
 The Food Security Act of 1985, referred to in subsec. (b)(1), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subchapter A of chapter 4 of subtitle D of title XII of the Act is classified generally to subpart A (§ 3839aa et seq.) of part IV of subchapter IV of chapter 58 of this title. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim), Agriculture, and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, ++which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

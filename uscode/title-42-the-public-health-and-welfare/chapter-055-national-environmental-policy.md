@@ -2,7 +2,7 @@
 title: 42
 chapter: '55'
 heading: NATIONAL ENVIRONMENTAL POLICY
-section_count: 57
+section_count: 63
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -424,7 +424,7 @@ The Cabinet Committee on the Environment was terminated and its functions transf
 The Domestic Council was abolished by Reorg. Plan No. 1 of 1977, § 3, 42 F.R. 56101, 91 Stat. 1633, set out in the Appendix to Title 5, Government Organization and Employees, effective on or before Apr. 1, 1978, at such time as specified by the President. Section 5D of Reorg. Plan No. 1 of 1977 transferred all functions vested in the Domestic Council to the President with power to delegate the performance of such transferred functions within the Executive Office of the President.
 
 #### Termination of Citizens’ Advisory Committee on Environmental Quality
-For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 11514. Protection and Enhancement of Environmental Quality
 Ex. Ord. No. 11514, Mar. 5, 1970, 35 F.R. 4247, as amended by Ex. Ord. No. 11991, May 24, 1977, 42 F.R. 26967, provided:
@@ -871,7 +871,7 @@ In order to avoid duplication of resources, agencies in their procedures shall p
 Jimmy Carter.
 
 #### Executive Order No. 12194
-Ex. Ord. No. 12194, Feb. 21, 1980, 45 F.R. 12209, which established the Radiation Policy Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 23, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12194, Feb. 21, 1980, 45 F.R. 12209, which established the Radiation Policy Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 23, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Executive Order No. 12737
 Ex. Ord. No. 12737, Dec. 12, 1990, 55 F.R. 51681, which established President’s Commission on Environmental Quality and provided for its functions and administration, was revoked by Ex. Ord. No. 12852, § 4(c), June 29, 1993, 58 F.R. 35841, formerly set out below.
@@ -906,10 +906,10 @@ Sec. 5. Information System. The Council on Environmental Quality shall establish
 George Bush.
 
 #### Executive Order No. 12852
-Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819; Ex. Ord. No. 13053, June 30, 1997, 62 F.R. 39945 [35945]; Ex. Ord. No. 13114, Feb. 25, 1999, 64 F.R. 10099, which established the President’s Council on Sustainable Development, was revoked by Ex. Ord. No. 13138, § 3(f), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12852, June 29, 1993, 58 F.R. 35841, as amended by Ex. Ord. No. 12855, July 19, 1993, 58 F.R. 39107; Ex. Ord. No. 12965, June 27, 1995, 60 F.R. 34087; Ex. Ord. No. 12980, Nov. 17, 1995, 60 F.R. 57819; Ex. Ord. No. 13053, June 30, 1997, 62 F.R. 39945 [35945]; Ex. Ord. No. 13114, Feb. 25, 1999, 64 F.R. 10099, which established the President’s Council on Sustainable Development, was revoked by Ex. Ord. No. 13138, § 3(f), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 12898. Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations
-Ex. Ord. No. 12898, Feb. 11, 1994, 59 F.R. 7629, as amended by Ex. Ord. No. 12948, Jan. 30, 1995, 60 F.R. 6381; Ex. Ord. No. 14008, § 220, Jan. 27, 2021, 86 F.R. 7629; Ex. Ord. No. 14082, § 4(b), Sept. 12, 2022, 87 F.R. 56863, provided:
+Ex. Ord. No. 12898, Feb. 11, 1994, 59 F.R. 7629, as amended by Ex. Ord. No. 12948, Jan. 30, 1995, 60 F.R. 6381; Ex. Ord. No. 14008, § 220, Jan. 27, 2021, 86 F.R. 7629; Ex. Ord. No. 14082, § 4(b), Sept. 12, 2022, 87 F.R. 56863; Ex. Ord. No. 14096, § 7, Apr. 21, 2023, 88 F.R. 25258, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -921,53 +921,79 @@ Section 1–1. IMPLEMENTATION.
 
 (b) Membership. The Interagency Council shall consist of the following additional members:
 
-(i) the Secretary of Defense;
+(i) the Secretary of State;
 
-(ii) the Attorney General;
+(ii) the Secretary of Defense;
 
-(iii) the Secretary of the Interior;
+(iii) the Attorney General;
 
-(iv) the Secretary of Agriculture;
+(iv) the Secretary of the Interior;
 
-(v) the Secretary of Commerce;
+(v) the Secretary of Agriculture;
 
-(vi) the Secretary of Labor;
+(vi) the Secretary of Commerce;
 
-(vii) the Secretary of Health and Human Services;
+(vii) the Secretary of Labor;
 
-(viii) the Secretary of Housing and Urban Development;
+(viii) the Secretary of Health and Human Services;
 
-(ix) the Secretary of Transportation;
+(ix) the Secretary of Housing and Urban Development;
 
-(x) the Secretary of Energy;
+(x) the Secretary of Transportation;
 
-(xi) the Chair of the Council of Economic Advisers;
+(xi) the Secretary of Energy;
 
-(xii) the Administrator of the Environmental Protection Agency;
+(xii) the Secretary of Veterans Affairs;
 
-(xiii) the Director of the Office of Management and Budget;
+(xiii) the Secretary of Homeland Security;
 
-(xiv) the Executive Director of the Federal Permitting Improvement Steering Council;
+(xiv) the Administrator of the Environmental Protection Agency;
 
-(xv) the Director of the Office of Science and Technology Policy;
+(xv) the Director of the Office of Management and Budget;
 
-(xvi) the National Climate Advisor;
+(xvi) the Chair of the Council of Economic Advisers;
 
-(xvii) the Assistant to the President for Domestic Policy;
+(xvii) the Administrator of General Services;
 
-(xviii) the Assistant to the President for Economic Policy; and
+(xviii) the Executive Director of the Federal Permitting Improvement Steering Council;
 
-(xix) the Senior Advisor for Clean Energy Innovation and Implementation.
+(xix) the Director of the Office of Science and Technology Policy;
+
+(xx) the Assistant to the President and National Climate Advisor;
+
+(xxi) the Assistant to the President for Domestic Policy;
+
+(xxii) the Assistant to the President for Economic Policy;
+
+(xxiii) the Executive Director of the White House Gender Policy Council;
+
+(xxiv) the Senior Advisor to the President for Clean Energy Innovation and Implementation; and
+
+(xxv) other relevant agency heads as determined by the Chair of CEQ.
 
 (c) At the direction of the Chair, the Interagency Council may establish subgroups consisting exclusively of Interagency Council members or their designees under this section, as appropriate.
 
-(d) Mission and Work. The Interagency Council shall develop a strategy to address current and historic environmental injustice by consulting with the White House Environmental Justice Advisory Council and with local environmental justice leaders. The Interagency Council shall also develop clear performance metrics to ensure accountability, and publish an annual public performance scorecard on its implementation.
+(d) Mission and Work. The Interagency Council shall develop a strategy to address current and historic environmental injustice by consulting with the White House Environmental Justice Advisory Council and with local environmental justice leaders. The Interagency Council shall also develop clear performance metrics to ensure accountability, and publish an annual public performance scorecard on its implementation. The Interagency Council shall support and facilitate interagency collaboration on programs and activities related to environmental justice, including the development of materials for environmental justice training to build the capacity of Federal employees to advance environmental justice and to increase the meaningful participation of individuals from communities with environmental justice concerns in Federal activities.
 
 (e) Administration. The Office of Administration within the Executive Office of the President shall provide funding and administrative support for the Interagency Council, to the extent permitted by law and within existing appropriations. To the extent permitted by law, including the Economy Act ([31 U.S.C. 1535](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim)), and subject to the availability of appropriations, the Department of Labor, the Department of Transportation, and the Environmental Protection Agency shall provide administrative support as necessary.
 
 (f) Meetings and Staff. The Chair shall convene regular meetings of the Council, determine its agenda, and direct its work. The Chair shall designate an Executive Director of the Council, who shall coordinate the work of the Interagency Council and head any staff assigned to the Council.
 
-(g) Officers. To facilitate the work of the Interagency Council, the head of each agency listed in subsection (b) shall assign a designated official within the agency to be an Environmental Justice Officer, with the authority to represent the agency on the Interagency Council and perform such other duties relating to the implementation of this order within the agency as the head of the agency deems appropriate.
+(g) Officers. The head of each agency on the Interagency Council shall designate an Environmental Justice Officer within the agency with the authority to represent the agency on the Interagency Council and with the responsibility for leading agency planning and implementation of the agency’s Environmental Justice Strategic Plan, coordinating with CEQ and other agencies, and performing such other duties related to advancing environmental justice as the head of the agency deems appropriate.
+
+(h) Memorandum of Understanding. The Interagency Council shall adopt a Memorandum of Understanding among its members that sets forth the objectives, structure, and planned operations of the Interagency Council.
+
+(i) Public meetings. In coordination with the White House Environmental Justice Advisory Council, the Interagency Council shall hold at least one public meeting per year. The Interagency Council shall prepare, for public review, a summary of the comments and recommendations discussed at public meetings of the Interagency Council.
+
+(j) Clearinghouse. The Administrator of EPA, in coordination with the Interagency Council, shall, no later than March 31, 2024, establish a public, internet-based, whole-of-government clearinghouse composed of culturally and linguistically appropriate and accessible materials related to environmental justice, including:
+
+(i) information describing the activities of the members of the Interagency Council to address issues relating to environmental justice;
+
+(ii) information on technical assistance, tools, and resources to assist communities with environmental justice concerns in building capacity for public participation;
+
+(iii) copies of training materials developed by the Interagency Council or its members to help individuals and employees understand and carry out environmental justice activities; and
+
+(iv) any other information deemed appropriate by the Administrator, in coordination with the Interagency Council.
 
 1–103. Development of Agency Strategies. (a) Except as provided in section 6–605 of this order, each Federal agency shall develop an agency-wide environmental justice strategy, as set forth in subsections (b)–(e) of this section that identifies and addresses disproportionately high and adverse human health or environmental effects of its programs, policies, and activities on minority populations and low-income populations. The environmental justice strategy shall list programs, policies, planning and public participation processes, enforcement, and/or rulemakings related to human health or the environment that should be revised to, at a minimum: (1) promote enforcement of all health and environmental statutes in areas with minority populations and low-income populations; (2) ensure greater public participation; (3) improve research and data collection relating to the health of and environment of minority populations and low-income populations; and (4) identify differential patterns of consumption of natural resources among minority populations and low-income populations. In addition, the environmental justice strategy shall include, where appropriate, a timetable for undertaking identified revisions and consideration of economic and social implications of the revisions.
 
@@ -1009,7 +1035,7 @@ Sec. 4–4. SUBSISTENCE CONSUMPTION OF FISH AND WILDLIFE.
 
 4–402. Guidance. Federal agencies, whenever practicable and appropriate, shall work in a coordinated manner to publish guidance reflecting the latest scientific information available concerning methods for evaluating the human health risks associated with the consumption of pollutant-bearing fish or wildlife. Agencies shall consider such guidance in developing their policies and rules.
 
-Sec. 5–5. PUBLIC PARTICIPATION AND ACCESS TO INFORMATION. (a) The public may submit recommendations to Federal agencies relating to the incorporation of environmental justice principles into Federal agency programs or policies. Each Federal agency shall convey such recommendations to the Working Group.
+Sec. 5–5. PUBLIC PARTICIPATION AND ACCESS TO INFORMATION. (a) The public may submit recommendations to Federal agencies relating to the incorporation of environmental justice principles into Federal agency programs or policies. Each Federal agency shall convey such recommendations to the Interagency Council.
 
 (b) Each Federal agency may, whenever practicable and appropriate, translate crucial public documents, notices, and hearings relating to human health or the environment for limited English speaking populations.
 
@@ -1284,7 +1310,7 @@ Sec. 7. Judicial Review. This order does not create any right or benefit, substa
 William J. Clinton.
 
 #### Executive Order No. 13080
-Ex. Ord. No. 13080, Apr. 7, 1998, 63 F.R. 17667, as amended by Ex. Ord. No. 13093, July 27, 1998, 63 F.R. 40357, which established the American Heritage Rivers Initiative Advisory Committee, was revoked by Ex. Ord. No. 13225, § 3(b), Sept. 28, 2001, 66 F.R. 50292, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 13080, Apr. 7, 1998, 63 F.R. 17667, as amended by Ex. Ord. No. 13093, July 27, 1998, 63 F.R. 40357, which established the American Heritage Rivers Initiative Advisory Committee, was revoked by Ex. Ord. No. 13225, § 3(b), Sept. 28, 2001, 66 F.R. 50292, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Proc. No. 7112. Designation of American Heritage Rivers
 Proc. No. 7112, July 30, 1998, 63 F.R. 41949, provided:
@@ -1418,7 +1444,7 @@ Sec. 3. National Invasive Species Council. (a) A National Invasive Species Counc
 
 (c) The Council shall be co-chaired by the Secretary of the Interior (Secretary), the Secretary of Agriculture, and the Secretary of Commerce, who shall meet quarterly or more frequently if needed, and who may designate a senior-level representative to perform the functions of the Co-Chair. The Council shall meet no less than once each year. The Secretary of the Interior shall, after consultation with the Co-Chairs, appoint an Executive Director of the Council to oversee a staff that supports the duties of the Council. Within 1 year of the date of this order, the Co-Chairs of the Council shall, with consensus of its members, complete a charter, which shall include any administrative policies and processes necessary to ensure the Council can satisfy the functions and responsibilities described in this order.
 
-(d) The Secretary of the Interior shall maintain the current Invasive Species Advisory Committee established under the Federal Advisory Committee Act, 5 U.S.C. App., to provide information and advice for consideration by the Council. The Secretary shall, after consultation with other members of the Council, appoint members of the advisory committee who represent diverse stakeholders and who have expertise to advise the Council.
+(d) The Secretary of the Interior shall maintain the current Invasive Species Advisory Committee established under the Federal Advisory Committee Act, [former] 5 U.S.C. App. [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], to provide information and advice for consideration by the Council. The Secretary shall, after consultation with other members of the Council, appoint members of the advisory committee who represent diverse stakeholders and who have expertise to advise the Council.
 
 (e) Administration of the Council. The Department of the Interior shall provide funding and administrative support for the Council and the advisory committee consistent with existing authorities. To the extent permitted by law, including the Economy Act, and within existing appropriations, participating agencies may detail staff to the Department of the Interior to support the Council’s efforts.
 
@@ -1469,9 +1495,11 @@ Sec. 6. Judicial Review and Administration. (a) This order is intended only to i
 (e) The requirements of this order do not affect the obligations of the Department of Health and Human Services under the Public Health Service Act or the Federal Food, Drug, and Cosmetic Act.
 
 #### Extension of Term of Invasive Species Advisory Committee
-Term of Invasive Species Advisory Committee extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Invasive Species Advisory Committee extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of Invasive Species Advisory Committee were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -1943,7 +1971,7 @@ Sec. 221. White House Environmental Justice Advisory Council. There is hereby es
 
 (c) Administration. The Environmental Protection Agency shall provide funding and administrative support for the Advisory Council to the extent permitted by law and within existing appropriations. Members of the Advisory Council shall serve without either compensation or reimbursement of expenses.
 
-(d) Federal Advisory Committee Act. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Administrator of the Environmental Protection Agency in accordance with the guidelines that have been issued by the Administrator of General Services.
+(d) Federal Advisory Committee Act. Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act [see [5 U.S.C. 1005](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1005&num=0&edition=prelim)], shall be performed by the Administrator of the Environmental Protection Agency in accordance with the guidelines that have been issued by the Administrator of General Services.
 
 Sec. 222. Agency Responsibilities. In furtherance of the policy set forth in section 219:
 
@@ -1994,7 +2022,11 @@ Sec. 301. General Provisions. (a) Nothing in this order shall be construed to im
 J.R. Biden, Jr.
 
 #### Extension of Term of White House Environmental Justice Advisory Council
-Term of White House Environmental Justice Advisory Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of White House Environmental Justice Advisory Council extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
+
+Previous extension of term of White House Environmental Justice Advisory Council was contained in the following prior Executive Order:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 #### Ex. Ord. No. 14057. Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability
 Ex. Ord. No. 14057, Dec. 8, 2021, 86 F.R. 70935, provided:
@@ -2189,6 +2221,219 @@ Sec. 606. General Provisions. (a) Nothing in this order shall be construed to im
 
 J.R. Biden, Jr.
 
+#### Ex. Ord. No. 14096. Revitalizing Our Nation’s Commitment to Environmental Justice for All
+Ex. Ord. No. 14096, Apr. 21, 2023, 88 F.R. 25251, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to advance environmental justice, it is hereby ordered as follows:
+
+Section 1. Policy. To fulfill our Nation’s promises of justice, liberty, and equality, every person must have clean air to breathe; clean water to drink; safe and healthy foods to eat; and an environment that is healthy, sustainable, climate-resilient, and free from harmful pollution and chemical exposure. Restoring and protecting a healthy environment—wherever people live, play, work, learn, grow, and worship—is a matter of justice and a fundamental duty that the Federal Government must uphold on behalf of all people.
+
+We must advance environmental justice for all by implementing and enforcing the Nation’s environmental and civil rights laws, preventing pollution, addressing climate change and its effects, and working to clean up legacy pollution that is harming human health and the environment. Advancing environmental justice will require investing in and supporting culturally vibrant, sustainable, and resilient communities in which every person has safe, clean, and affordable options for housing, energy, and transportation. It is also necessary to prioritize building an equitable, inclusive, and sustainable economy that offers economic opportunities, workforce training, and high-quality and well-paying jobs, including union jobs, and facilitating an equitable transition of the workforce as part of a clean energy future. Achieving this vision will also require improving equitable access to parks, tree cover, playgrounds, sports fields, rivers, ponds, beaches, lakes, and all of the benefits provided by nature, including America’s public lands and waters. Pursuing these and other objectives integral to advancing environmental justice can successfully occur only through meaningful engagement and collaboration with underserved and overburdened communities to address the adverse conditions they experience and ensure they do not face additional disproportionate burdens or underinvestment.
+
+We have more work to do to make environmental justice a reality for our Nation, both for today and for the generations that will follow us. Even as many communities in the United States have prospered and thrived in recent decades, many other communities have been left behind. Communities with environmental justice concerns face entrenched disparities that are often the legacy of racial discrimination and segregation, redlining, exclusionary zoning, and other discriminatory land use decisions or patterns. These decisions and patterns may include the placement of polluting industries, hazardous waste sites, and landfills in locations that cause cumulative impacts to the public health of communities and the routing of highways and other transportation corridors in ways that divide neighborhoods. These remnants of discrimination persist today. Communities with environmental justice concerns exist in all areas of the country, including urban and rural areas and areas within the boundaries of Tribal Nations and United States Territories. Such communities are found in geographic locations that have a significant proportion of people who have low incomes or are otherwise adversely affected by persistent poverty or inequality. Such communities are also found in places with a significant proportion of people of color, including individuals who are Black, Latino, Indigenous and Native American, Asian American, Native Hawaiian, and Pacific Islander. Communities with environmental justice concerns also include geographically dispersed and mobile populations, such as migrant farmworkers.
+
+Communities with environmental justice concerns experience disproportionate and adverse human health or environmental burdens. These burdens arise from a number of causes, including inequitable access to clean water, clean air, natural places, and resources for other basic human health and environmental needs; the concentration of pollution, hazardous waste, and toxic exposures; and underinvestment in affordable housing that is safe and healthy and in basic infrastructure and services to support such housing, including safe drinking water and effective sewage management. The cumulative impacts of exposure to those types of burdens and other stressors, including those related to climate change and the environment, further disadvantage communities with environmental justice concerns. People in these communities suffer from poorer health outcomes and have lower life expectancies than those in other communities in our Nation. Moreover, gaps in environmental and human health data can conceal these harms from public view, and, in doing so, are themselves a persistent and pernicious driver of environmental injustice.
+
+Nearly three decades after the issuance of Executive Order 12898 of February 11, 1994 (Federal Actions To Address Environmental Justice in Minority Populations and Low-Income Populations) [set out above], the Federal Government must build upon and strengthen its commitment to deliver environmental justice to all communities across America. Our Nation needs an ambitious approach to environmental justice that is informed by scientific research, high-quality data, and meaningful Federal engagement with communities with environmental justice concerns and that uses the tools available to the Federal Government, including enforcement of civil rights and environmental laws. Our Nation must also take further steps to dismantle racial discrimination and institutional bias that disproportionately affect the health, environment, safety, and resiliency of communities with environmental justice concerns.
+
+To ensure that the Nation’s policies and investments respond to the needs of every community, all people should be afforded the opportunity to meaningfully participate in agency decision-making processes that may affect the health of their community or environment. The Federal Government must continue to remove barriers to the meaningful involvement of the public in such decision-making, particularly those barriers that affect members of communities with environmental justice concerns, including those related to disability, language access, and lack of resources. The Federal Government must also continue to respect Tribal sovereignty and support self-governance by ensuring that Tribal Nations are consulted on Federal policies that have Tribal implications. In doing so, we must recognize, honor, and respect the different cultural practices—including subsistence practices, ways of living, Indigenous Knowledge, and traditions—in communities across America. As our Nation reaffirms our commitment to environmental justice, the Federal Government must continue to be transparent about, and accountable for, its actions.
+
+It is the policy of my Administration to pursue a whole-of-government approach to environmental justice. This order builds upon my Administration’s ongoing efforts to advance environmental justice and equity consistent with Executive Order 13985 of January 20, 2021 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note], Executive Order 13990 of January 20, 2021 (Protecting Public Health and the Environment and Restoring Science To Tackle the Climate Crisis) [set out above], Executive Order 14008 of January 27, 2021 (Tackling the Climate Crisis at Home and Abroad) [set out above], Executive Order 14052 of November 15, 2021 (Implementation of the Infrastructure Investment and Jobs Act) [[23 U.S.C. 101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim) note], Executive Order 14057 of December 8, 2021 (Catalyzing Clean Energy Industries and Jobs Through Federal Sustainability) [set out above], Executive Order 14082 of September 12, 2022 (Implementation of the Energy and Infrastructure Provisions of the Inflation Reduction Act of 2022) [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) note], and Executive Order 14091 of February 16, 2023 (Further Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note]. This order also supplements the foundational efforts of Executive Order 12898 to address environmental justice. In partnership with State, Tribal, territorial, and local governments, as well as community organizations, businesses, and members of the public, the Federal Government will advance environmental justice and help create a more just and sustainable future for all.
+
+Sec. 2. Definitions. As used in this order:
+
+(a) “Agency” means an executive agency as defined by [5 U.S.C. 105](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), excluding the Government Accountability Office and independent regulatory agencies, as defined in [44 U.S.C. 3502(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim).
+
+(b) “Environmental justice” means the just treatment and meaningful involvement of all people, regardless of income, race, color, national origin, Tribal affiliation, or disability, in agency decision-making and other Federal activities that affect human health and the environment so that people:
+
+(i) are fully protected from disproportionate and adverse human health and environmental effects (including risks) and hazards, including those related to climate change, the cumulative impacts of environmental and other burdens, and the legacy of racism or other structural or systemic barriers; and
+
+(ii) have equitable access to a healthy, sustainable, and resilient environment in which to live, play, work, learn, grow, worship, and engage in cultural and subsistence practices.
+
+(c) “Federal activity” means any agency rulemaking, guidance, policy, program, practice, or action that affects or has the potential to affect human health and the environment, including an agency action related to climate change. Federal activities may include agency actions related to: assuring compliance with applicable laws; licensing, permitting, and the reissuance of licenses and permits; awarding, conditioning, or oversight of Federal funds; and managing Federal resources and facilities. This may also include such activities in the District of Columbia and the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, and other Territories and possessions of the United States.
+
+(d) “Tribal Nation” means an American Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges as a federally recognized Tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, [25 U.S.C. 5130](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5130&num=0&edition=prelim), 5131.
+
+Sec. 3. Government-Wide Approach to Environmental Justice. (a) Consistent with section 1–101 of Executive Order 12898 and each agency’s statutory authority, each agency should make achieving environmental justice part of its mission. Each agency shall, as appropriate and consistent with applicable law:
+
+(i) identify, analyze, and address disproportionate and adverse human health and environmental effects (including risks) and hazards of Federal activities, including those related to climate change and cumulative impacts of environmental and other burdens on communities with environmental justice concerns;
+
+(ii) evaluate relevant legal authorities and, as available and appropriate, take steps to address disproportionate and adverse human health and environmental effects (including risks) and hazards unrelated to Federal activities, including those related to climate change and cumulative impacts of environmental and other burdens on communities with environmental justice concerns;
+
+(iii) identify, analyze, and address historical inequities, systemic barriers, or actions related to any Federal regulation, policy, or practice that impair the ability of communities with environmental justice concerns to achieve or maintain a healthy and sustainable environment;
+
+(iv) identify, analyze, and address barriers related to Federal activities that impair the ability of communities with environmental justice concerns to receive equitable access to human health or environmental benefits, including benefits related to natural disaster recovery and climate mitigation, adaptation, and resilience;
+
+(v) evaluate relevant legal authorities and, as available and appropriate, take steps to provide, in consultation with unions and employers, opportunities for workforce training and to support the creation of high-quality and well-paying jobs, including union jobs, for people who are part of communities with environmental justice concerns;
+
+(vi) evaluate relevant legal authorities and, where available and appropriate, consider adopting or requiring measures to avoid, minimize, or mitigate disproportionate and adverse human health and environmental effects (including risks) and hazards of Federal activities on communities with environmental justice concerns, to the maximum extent practicable, and to address any contribution of such Federal activities to adverse effects—including cumulative impacts of environmental and other burdens—already experienced by such communities;
+
+(vii) provide opportunities for the meaningful engagement of persons and communities with environmental justice concerns who are potentially affected by Federal activities, including by:
+
+(A) providing timely opportunities for members of the public to share information or concerns and participate in decision-making processes;
+
+(B) fully considering public input provided as part of decision-making processes;
+
+(C) seeking out and encouraging the involvement of persons and communities potentially affected by Federal activities by:
+
+(1) ensuring that agencies offer or provide information on a Federal activity in a manner that provides meaningful access to individuals with limited English proficiency and is accessible to individuals with disabilities;
+
+(2) providing notice of and engaging in outreach to communities or groups of people who are potentially affected and who are not regular participants in Federal decision-making; and
+
+(3) addressing, to the extent practicable and appropriate, other barriers to participation that individuals may face; and
+
+(D) providing technical assistance, tools, and resources to assist in facilitating meaningful and informed public participation, whenever practicable and appropriate;
+
+(viii) continue to engage in consultation on Federal activities that have Tribal implications and potentially affect human health or the environment, pursuant to Executive Order 13175 of November 6, 2000 (Consultation and Coordination With Indian Tribal Governments) [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) note], the Presidential Memorandum of January 26, 2021 (Tribal Consultation and Strengthening Nation-to-Nation Relationships) [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) note], and the Presidential Memorandum of November 30, 2022 (Uniform Standards for Tribal Consultation) [[25 U.S.C. 5301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) note], and fulfill obligations established pursuant to Executive Order 13007 of May 24, 1996 (Indian Sacred Sites) [[42 U.S.C. 1996](./chapter-021-civil-rights.md#section-1996) note];
+
+(ix) carry out environmental reviews under the National Environmental Policy Act (NEPA), [42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq., consistent with the statute and its implementing regulations and through the exercise of the agency’s expertise and technical judgment, in a manner that:
+
+(A) analyzes direct, indirect, and cumulative effects of Federal actions on communities with environmental justice concerns;
+
+(B) considers best available science and information on any disparate health effects (including risks) arising from exposure to pollution and other environmental hazards, such as information related to the race, national origin, socioeconomic status, age, disability, and sex of the individuals exposed; and
+
+(C) provides opportunities for early and meaningful involvement in the environmental review process by communities with environmental justice concerns potentially affected by a proposed action, including when establishing or revising agency procedures under NEPA;
+
+(x) in accordance with Title VI of the Civil Rights Act of 1964, [42 U.S.C. 2000d](./chapter-021-civil-rights.md#section-2000d) [et seq.], and agency regulations, ensure that all programs or activities receiving Federal financial assistance that potentially affect human health or the environment do not directly, or through contractual or other arrangements, use criteria, policies, practices, or methods of administration that discriminate on the basis of race, color, or national origin;
+
+(xi) ensure that the public, including members of communities with environmental justice concerns, has adequate access to information on Federal activities, including planning, regulatory actions, implementation, permitting, compliance, and enforcement related to human health or the environment, when required under the Freedom of Information Act, [5 U.S.C. 552](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim); the Government in the Sunshine Act, [5 U.S.C. 552b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim); the Clean Air Act, [42 U.S.C. 7401](./chapter-085-air-pollution-prevention-and-control.md#section-7401) et seq.; the Clean Water Act, [33 U.S.C. 1251](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) et seq.; the Emergency Planning and Community Right-to-Know Act of 1986 (EPCRA), [42 U.S.C. 11001](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11001) et seq.; or other environmental statutes with public information provisions;
+
+(xii) improve collaboration and communication with State, Tribal, territorial, and local governments on programs and activities to advance environmental justice;
+
+(xiii) encourage and, to the extent permitted by law, ensure that Government-owned, contractor-operated facilities take appropriate steps to implement the directives of this order;
+
+(xiv) consider ways to encourage and, as appropriate, ensure that recipients of Federal funds—including recipients of block grant funding—and entities subject to contractual, licensing, or other arrangements with Federal agencies advance environmental justice;
+
+(xv) develop internal mechanisms to achieve the goals of this order, including by:
+
+(A) creating performance metrics and other means of accountability;
+
+(B) identifying and dedicating staff, funding, and other resources; and
+
+(C) providing appropriate professional development and training of agency staff; and
+
+(xvi) consistent with section 2–2 of Executive Order 12898, ensure that Federal activities do not have the effect of:
+
+(A) excluding persons, including populations, from participation in Federal activities on the basis of their race, color, or national origin;
+
+(B) denying persons, including populations, the benefits of Federal activities on the basis of their race, color, or national origin; or
+
+(C) subjecting persons, including populations, to discrimination on the basis of their race, color, or national origin.
+
+(b) The Administrator of the Environmental Protection Agency (EPA) shall:
+
+(i) in carrying out responsibilities under section 309 of the Clean Air Act, [42 U.S.C. 7609](./chapter-085-air-pollution-prevention-and-control.md#section-7609), assess whether each agency analyzes and avoids or mitigates disproportionate human health and environmental effects on communities with environmental justice concerns; and
+
+(ii) report annually to the Chair of the Council on Environmental Quality (CEQ) and the White House Environmental Justice Interagency Council (Interagency Council) described in section 7 of this order on EPA’s Clean Air Act section 309 reviews regarding communities with environmental justice concerns and provide recommendations on legislative, regulatory, or policy options to advance environmental justice in Federal decision-making.
+
+(c) In carrying out assigned responsibilities under Executive Order 12250 of November 2, 1980 (Leadership and Coordination of Nondiscrimination Laws) [[42 U.S.C. 2000d–1](./chapter-021-civil-rights.md#section-2000d-1) note], the Attorney General shall assess agency efforts to ensure compliance with civil rights laws in programs and activities receiving Federal financial assistance that potentially affect human health or the environment and shall report annually based on publicly available information to the Chair of CEQ regarding any relevant pending or closed litigation.
+
+Sec. 4. Environmental Justice Strategic Plans. (a) No later than 18 months after the date of this order [Apr. 21, 2023] and every 4 years thereafter, each agency shall submit to the Chair of CEQ and make available to the public online an Environmental Justice Strategic Plan.
+
+(b) Each Environmental Justice Strategic Plan shall, based on guidance provided by the Chair of CEQ under section 9 of this order, set forth the agency’s vision, goals, priority actions, and metrics to address and advance environmental justice and to fulfill the directives of this order, including through the identification of new staffing, policies, regulations, or guidance documents.
+
+(c) Each Environmental Justice Strategic Plan shall also identify and address opportunities through regulations, policies, permits, or other means to improve accountability and compliance with any statute the agency administers that affects the health and environment of communities with environmental justice concerns. Such measures may include:
+
+(i) increasing public reporting by regulated entities;
+
+(ii) expanding use of pollution measurement and other environmental impact or compliance assessment tools such as fenceline monitoring;
+
+(iii) improving the effectiveness of remedies to provide relief to individuals and communities with environmental justice concerns, such as remedies that penalize and deter violations and promote future compliance, including harm mitigation and corrective action; and
+
+(iv) considering whether to remove exemptions or waivers that may undermine the achievement of human health or environmental standards.
+
+(d) No later than 2 years after the submission of an Environmental Justice Strategic Plan, each agency shall submit to the Chair of CEQ, and make available to the public, an Environmental Justice Assessment that evaluates, based on guidance provided by the Chair of CEQ under section 9 of this order, the effectiveness of the agency’s Environmental Justice Strategic Plan. The Environmental Justice Assessment shall include an evaluation of:
+
+(i) the agency’s progress in implementing its Environmental Justice Strategic Plan;
+
+(ii) any barriers to implementing the agency’s Environmental Justice Strategic Plan; and
+
+(iii) steps taken to address any barriers identified.
+
+(e) An agency’s completion of an Environmental Justice Strategic Plan and Environmental Justice Assessment shall satisfy the requirements of section 1–103 of Executive Order 12898.
+
+(f) The Environmental Justice Scorecard established under section 223(d) of Executive Order 14008 shall address agency progress toward achieving the goals outlined in this order and shall include, among other items, a section on agencies’ Environmental Justice Strategic Plans and Environmental Justice Assessments.
+
+(g) The Chair of CEQ may request additional periodic reports, information, or evaluations on environmental justice issues from agencies.
+
+(h) Independent regulatory agencies are strongly encouraged to comply with the provisions of this order and to provide a notice to the Chair of CEQ of their intention to do so. The Chair of CEQ shall make such notices publicly available and maintain a list online of such agencies.
+
+Sec. 5. Research, Data Collection, and Analysis to Advance Environmental Justice. (a) To address the need for a coordinated Federal strategy to identify and address gaps in science, data, and research related to environmental justice, the Director of the Office of Science and Technology Policy (OSTP) shall establish an Environmental Justice Subcommittee of the National Science and Technology Council (Environmental Justice Subcommittee).
+
+(i) The Director of OSTP, in consultation with the Chair of CEQ, shall designate at least two co-chairs of the Environmental Justice Subcommittee and may designate additional co-chairs as appropriate. The membership of the Subcommittee shall consist of representatives of agencies invited by the Director, in consultation with the Chair of CEQ.
+
+(ii) The Environmental Justice Subcommittee and the Interagency Council described in section 7 of this order shall hold an annual summit on the connection of science, data, and research with policy and action on environmental justice.
+
+(iii) The Environmental Justice Subcommittee shall prepare, and update biennially, an Environmental Justice Science, Data, and Research Plan (Research Plan) to:
+
+(A) analyze any gaps and inadequacies in data collection and scientific research related to environmental justice, with a focus on gaps and inadequacies that may affect agencies’ ability to advance environmental justice, including through the Environmental Justice Strategic Plans required under section 4 of this order;
+
+(B) identify opportunities for agencies to coordinate with the research efforts of State, Tribal, territorial, and local governments; academic institutions; communities; the private sector; the non-profit sector; and other relevant actors to accelerate the development of data, research, and techniques—including consideration of Indigenous Knowledge—to address gaps and inadequacies in data collection and scientific research that may affect agencies’ ability to advance environmental justice;
+
+(C) provide recommendations to agencies on the development and use of science, data, and research to support environmental justice policy and the agency responsibilities outlined in section 3 of this order;
+
+(D) provide recommendations to the Chair of CEQ on data sources to include in the Climate and Economic Justice Screening Tool established pursuant to section 222(a) of Executive Order 14008;
+
+(E) provide recommendations to agencies on ethical standards, privacy protections, and other requirements for the development and use of science, data, and research addressed in the Research Plan, including recommendations with respect to engaging in consultation with and obtaining consent of Tribal Nations; and
+
+(F) provide recommendations to agencies on:
+
+(1) encouraging participatory science, such as research or data collection undertaken by communities or the public, and, as appropriate, integrating such science into agency decision-making processes;
+
+(2) taking steps to ensure or encourage, as appropriate, that collections of data related to environmental justice include data from the Territories and possessions of the United States;
+
+(3) improving the public accessibility of research and information produced or distributed by the Federal Government, including through the use of machine-readable formats, where appropriate;
+
+(4) disaggregating environmental risk, exposure, and health data by race, national origin, income, socioeconomic status, age, sex, disability, and other readily accessible and appropriate categories;
+
+(5) identifying and addressing data collection challenges related to patterns of historical or ongoing racial discrimination and bias;
+
+(6) analyzing cumulative impacts (including risks) from multiple sources, pollutants or chemicals, and exposure pathways, and accounting for non-chemical stressors and current and anticipated climate change;
+
+(7) in collaboration with Tribal Nations, as appropriate, collecting, maintaining, and analyzing information on consumption patterns of fish, wildlife, and plants related to subsistence and cultural practices of Tribal and Indigenous populations;
+
+(8) providing opportunities for meaningful engagement for communities with environmental justice concerns on the development and design of data collection and research strategies relevant to those communities; and
+
+(9) implementing sections 3–3 and 4–4 of Executive Order 12898 in an efficient and effective manner.
+
+(b) Consistent with sections 3–3 and 4–4 of Executive Order 12898, each agency shall take appropriate steps, considering the recommendations of the Environmental Justice Subcommittee, to promote the development of research and data related to environmental justice, including enhancing the collection of data, supporting the creation of tools to improve the consideration of environmental justice in decision-making, providing analyses of cumulative impacts and risks, and promoting science needed to inform decisions that advance environmental justice.
+
+(c) When conducting research and data collection in furtherance of the directives in this order and Executive Order 12898, agencies shall comply with applicable regulations and directives, including those related to standards of ethics for the protection of human subjects, such as those set forth in Executive Order 12975 of October 3, 1995 (Protection of Human Research Subjects and Creation of National Bioethics Advisory Commission) [former [42 U.S.C. 6601](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6601) note], and the Presidential Memorandum of January 27, 2021 (Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking) [[42 U.S.C. 6601](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6601) note].
+
+Sec. 6. Community Notification on Toxic Chemical Releases. To ensure that the public, including members of communities with environmental justice concerns, receives timely information about releases of toxic chemicals that may affect them and health and safety measures available to address such releases:
+
+(a) Each agency shall report in accordance with sections 301 through 313 of EPCRA [[42 U.S.C. 11001](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11001) to 11023] after considering applicable EPA guidance and without regard to the Standard Industrial Classification or North American Industry Classification System delineations.
+
+(b) No later than 6 weeks following a release requiring notification by an agency under section 304(a) of EPCRA, the notifying agency shall hold a public meeting providing the information required under section 304(b)(2) of EPCRA [[42 U.S.C. 11004(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11004/b/2&num=0&edition=prelim)], including information on the nature of the release, known or anticipated health risks, and the proper precautions to take as a result. The agency shall provide notice of a public meeting no later than 72 hours after a release.
+
+(c) The Administrator of EPA shall evaluate available legal authorities and consider any additional steps it may require or encourage non-Federal facilities that report releases under EPCRA to undertake in connection with the report.
+
+(d) The Administrator of EPA shall provide the Environmental Justice Subcommittee established by section 5 of this order with an annual report on trends in data in the Toxic Release Inventory established by section 313 of EPCRA [[42 U.S.C. 11023](./chapter-116-emergency-planning-and-community-right-to-know.md#section-11023)] to inform the development of the Research Plan required under section 5(a)(iii) of this order.
+
+Sec. 7. White House Environmental Justice Interagency Council. [Amended Ex. Ord. No. 12898, set out above]
+
+Sec. 8. White House Office of Environmental Justice. (a) The White House Office of Environmental Justice is hereby established within CEQ.
+
+(b) The Office shall be headed by a Federal Chief Environmental Justice Officer, who shall be appointed by the President. The Federal Chief Environmental Justice Officer shall advance environmental justice initiatives, including by coordinating the development of policies, programs, and partnerships to achieve the policies set forth in this order; identifying opportunities for collaboration and coordination with State, Tribal, territorial, and local governments; supporting the Interagency Council; and advising the Chair of CEQ and the Interagency Council on environmental justice matters.
+
+(c) The heads of all agencies shall cooperate with the Federal Chief Environmental Justice Officer and provide such information, support, and assistance as the Federal Chief Environmental Justice Officer may request, as appropriate.
+
+Sec. 9. Guidance. Within 6 months of the date of this order, the Chair of CEQ shall issue interim guidance, in consultation with the Interagency Council, to inform agency implementation of this order, and shall request recommendations on the guidance from the White House Environmental Justice Advisory Council established by Executive Order 14008 (Advisory Council). To reduce redundancy and streamline reporting obligations, the interim guidance shall identify ways for agencies to align other related efforts, such as obligations that agencies may have under Executive Order 13985 and Executive Order 14008. Within 18 months of the date of this order, the Chair of CEQ shall issue final guidance after considering any recommendations of the Advisory Council. The Chair of CEQ may revise any guidance, or issue additional guidance under this order, as appropriate, and shall consider any additional recommendations made by the Advisory Council in issuing or revising guidance under this section.
+
+Sec. 10. Reports to the President. Within 1 year of the date for the submission of agency Environmental Justice Strategic Plans to the Chair of CEQ under section 4(a) of this order, the Chair shall, after consultation with the Interagency Council and after considering recommendations from the Advisory Council, submit to the President a report that describes the implementation of this order, includes each agency’s Environmental Justice Strategic Plan, provides recommendations for additional steps to advance environmental justice, and, beginning with the second report, also provides any insights gathered from each agency’s Environmental Justice Assessment required under section 4(d) of this order.
+
+Sec. 11. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 
 <a id="section-4332"></a>
 ## § 4332. Congressional declaration of national environmental policy
@@ -2227,24 +2472,30 @@ Ex. Ord. No. 11752, Dec. 17, 1973, 38 F.R. 34793, which related to the preventio
 
 The Congress authorizes and directs that, to the fullest extent possible: (1) the policies, regulations, and public laws of the United States shall be interpreted and administered in accordance with the policies set forth in this chapter, and (2) all agencies of the Federal Government shall—
 
-(A) utilize a systematic, interdisciplinary approach which will insure the integrated use of the natural and social sciences and the environmental design arts in planning and in decisionmaking which may have an impact on man’s environment;
+(A) utilize a systematic, interdisciplinary approach which will ensure the integrated use of the natural and social sciences and the environmental design arts in planning and in decisionmaking which may have an impact on man’s environment;
 
-(B) identify and develop methods and procedures, in consultation with the Council on Environmental Quality established by subchapter II of this chapter, which will insure that presently unquantified environmental amenities and values may be given appropriate consideration in decisionmaking along with economic and technical considerations;
+(B) identify and develop methods and procedures, in consultation with the Council on Environmental Quality established by subchapter II of this chapter, which will ensure that presently unquantified environmental amenities and values may be given appropriate consideration in decisionmaking along with economic and technical considerations;
 
-(C) include in every recommendation or report on proposals for legislation and other major Federal actions significantly affecting the quality of the human environment, a detailed statement by the responsible official on—
+(C) consistent with the provisions of this chapter and except where compliance would be inconsistent with other statutory requirements, include in every recommendation or report on proposals for legislation and other major Federal actions significantly affecting the quality of the human environment, a detailed statement by the responsible official on—
 
-  (i) the environmental impact of the proposed action,
+  (i) reasonably foreseeable environmental effects of the proposed agency action;
 
-  (ii) any adverse environmental effects which cannot be avoided should the proposal be implemented,
+  (ii) any reasonably foreseeable adverse environmental effects which cannot be avoided should the proposal be implemented;
 
-  (iii) alternatives to the proposed action,
+  (iii) a reasonable range of alternatives to the proposed agency action, including an analysis of any negative environmental impacts of not implementing the proposed agency action in the case of a no action alternative, that are technically and economically feasible, and meet the purpose and need of the proposal;
 
-  (iv) the relationship between local short-term uses of man’s environment and the maintenance and enhancement of long-term productivity, and
+  (iv) the relationship between local short-term uses of man’s environment and the maintenance and enhancement of long-term productivity; and
 
-  (v) any irreversible and irretrievable commitments of resources which would be involved in the proposed action should it be implemented.
-  Prior to making any detailed statement, the responsible Federal official shall consult with and obtain the comments of any Federal agency which has jurisdiction by law or special expertise with respect to any environmental impact involved. Copies of such statement and the comments and views of the appropriate Federal, State, and local agencies, which are authorized to develop and enforce environmental standards, shall be made available to the President, the Council on Environmental Quality and to the public as provided by [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), and shall accompany the proposal through the existing agency review processes;
+  (v) any irreversible and irretrievable commitments of Federal resources which would be involved in the proposed agency action should it be implemented.
+  Prior to making any detailed statement, the head of the lead agency shall consult with and obtain the comments of any Federal agency which has jurisdiction by law or special expertise with respect to any environmental impact involved. Copies of such statement and the comments and views of the appropriate Federal, State, and local agencies, which are authorized to develop and enforce environmental standards, shall be made available to the President, the Council on Environmental Quality and to the public as provided by [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), and shall accompany the proposal through the existing agency review processes;
 
-(D) Any detailed statement required under subparagraph (C) after January 1, 1970, for any major Federal action funded under a program of grants to States shall not be deemed to be legally insufficient solely by reason of having been prepared by a State agency or official, if:
+(D) ensure the professional integrity, including scientific integrity, of the discussion and analysis in an environmental document;
+
+(E) make use of reliable data and resources in carrying out this chapter;
+
+(F) consistent with the provisions of this chapter, study, develop, and describe technically and economically feasible alternatives;
+
+(G) any detailed statement required under subparagraph (C) after January 1, 1970, for any major Federal action funded under a program of grants to States shall not be deemed to be legally insufficient solely by reason of having been prepared by a State agency or official, if:
 
   (i) the State agency or official has statewide jurisdiction and has the responsibility for such action,
 
@@ -2255,19 +2506,47 @@ The Congress authorizes and directs that, to the fullest extent possible: (1) th
   (iv) after January 1, 1976, the responsible Federal official provides early notification to, and solicits the views of, any other State or any Federal land management entity of any action or any alternative thereto which may have significant impacts upon such State or affected Federal land management entity and, if there is any disagreement on such impacts, prepares a written assessment of such impacts and views for incorporation into such detailed statement.
   The procedures in this subparagraph shall not relieve the Federal official of his responsibilities for the scope, objectivity, and content of the entire statement or of any other responsibility under this chapter; and further, this subparagraph does not affect the legal sufficiency of statements prepared by State agencies with less than statewide jurisdiction.11 So in original. The period probably should be a semicolon.
 
-(E) study, develop, and describe appropriate alternatives to recommended courses of action in any proposal which involves unresolved conflicts concerning alternative uses of available resources;
+(H) study, develop, and describe appropriate alternatives to recommended courses of action in any proposal which involves unresolved conflicts concerning alternative uses of available resources;
 
-(F) recognize the worldwide and long-range character of environmental problems and, where consistent with the foreign policy of the United States, lend appropriate support to initiatives, resolutions, and programs designed to maximize international cooperation in anticipating and preventing a decline in the quality of mankind’s world environment;
+(I) consistent with the provisions of this chapter, recognize the worldwide and long-range character of environmental problems and, where consistent with the foreign policy of the United States, lend appropriate support to initiatives, resolutions, and programs designed to maximize international cooperation in anticipating and preventing a decline in the quality of mankind’s world environment;
 
-(G) make available to States, counties, municipalities, institutions, and individuals, advice and information useful in restoring, maintaining, and enhancing the quality of the environment;
+(J) make available to States, counties, municipalities, institutions, and individuals, advice and information useful in restoring, maintaining, and enhancing the quality of the environment;
 
-(H) initiate and utilize ecological information in the planning and development of resource-oriented projects; and
+(K) initiate and utilize ecological information in the planning and development of resource-oriented projects; and
 
-(I) assist the Council on Environmental Quality established by subchapter II of this chapter.
+(L) assist the Council on Environmental Quality established by subchapter II of this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Par. (2)(A), (B). Pub. L. 118–5, § 321(a)(1), (2), substituted “ensure” for “insure”.
+
+Par. (2)(C). Pub. L. 118–5, § 321(a)(3)(A), (C), inserted “consistent with the provisions of this chapter and except where compliance would be inconsistent with other statutory requirements,” before “include in every” in introductory provisions and substituted “the head of the lead agency” for “the responsible Federal official” in concluding provisions.
+
+Par. (2)(C)(i) to (v). Pub. L. 118–5, § 321(a)(3)(B), added cls. (i) to (v) and struck out former cls. (i) to (v) which read as follows:
+
+“(i) the environmental impact of the proposed action,
+
+“(ii) any adverse environmental effects which cannot be avoided should the proposal be implemented,
+
+“(iii) alternatives to the proposed action,
+
+“(iv) the relationship between local short-term uses of man’s environment and the maintenance and enhancement of long-term productivity, and
+
+“(v) any irreversible and irretrievable commitments of resources which would be involved in the proposed action should it be implemented.”
+
+Par. (2)(D). Pub. L. 118–5, § 321(a)(6), added subpar. (D). Former subpar. (D) redesignated (G).
+
+Pub. L. 118–5, § 321(a)(4), substituted “any detailed” for “Any detailed”.
+
+Par. (2)(E), (F). Pub. L. 118–5, § 321(a)(6), added subpars. (E) and (F). Former subpars. (E) and (F) redesignated (H) and (I), respectively.
+
+Par. (2)(G), (H). Pub. L. 118–5, § 321(a)(5), redesignated subpars. (D) and (E) as (G) and (H), respectively.
+
+Par. (2)(I). Pub. L. 118–5, § 321(a)(5), (7), redesignated subpar. (F) as (I) and inserted “consistent with the provisions of this chapter,” before “recognize”.
+
+Par. (2)(J) to (L). Pub. L. 118–5, § 321(a)(5), redesignated subpars. (G) to (I) as (J) to (L), respectively.
+
 1975—Par. (2)(D) to (I). Pub. L. 94–83 added subpar. (D) and redesignated former subpars. (D) to (H) as (E) to (I), respectively.
 
 #### Certain Commercial Space Launch Activities
@@ -2332,10 +2611,285 @@ All agencies of the Federal Government shall review their present statutory auth
 Nothing in section 4332 or 4333 of this title shall in any way affect the specific statutory obligations of any Federal agency (1) to comply with criteria or standards of environmental quality, (2) to coordinate or consult with any other Federal or State agency, or (3) to act, or refrain from acting contingent upon the recommendations or certification of any other Federal or State agency.
 
 
-<a id="section-4341"></a>
-## § 4341. Efforts supplemental to existing authorizations
+<a id="section-4336"></a>
+## § 4336. Efforts supplemental to existing authorizations
 
 The policies and goals set forth in this chapter are supplementary to those set forth in existing authorizations of Federal agencies.
+
+
+<a id="section-4336a"></a>
+## § 4336a. Procedure for determination of level of review
+**(a) Threshold determinations** An agency is not required to prepare an environmental document with respect to a proposed agency action if—
+
+(1) the proposed agency action is not a final agency action within the meaning of such term in chapter 5 of title 5;
+
+(2) the proposed agency action is excluded pursuant to one of the agency’s categorical exclusions, another agency’s categorical exclusions consistent with [section 4336c of this title](./chapter-055-national-environmental-policy.md#section-4336c), or another provision of law;
+
+(3) the preparation of such document would clearly and fundamentally conflict with the requirements of another provision of law; or
+
+(4) the proposed agency action is a nondiscretionary action with respect to which such agency does not have authority to take environmental factors into consideration in determining whether to take the proposed action.
+
+**(b) Levels of review**
+
+(1) **Environmental impact statement** — An agency shall issue an environmental impact statement with respect to a proposed agency action requiring an environmental document that has a reasonably foreseeable significant effect on the quality of the human environment.
+
+(2) **Environmental assessment** — An agency shall prepare an environmental assessment with respect to a proposed agency action that does not have a reasonably foreseeable significant effect on the quality of the human environment, or if the significance of such effect is unknown, unless the agency finds that the proposed agency action is excluded pursuant to one of the agency’s categorical exclusions, another agency’s categorical exclusions consistent with [section 4336c of this title](./chapter-055-national-environmental-policy.md#section-4336c), or another provision of law. Such environmental assessment shall be a concise public document prepared by a Federal agency to set forth the basis of such agency’s finding of no significant impact or determination that an environmental impact statement is necessary.
+
+(3) **Sources of information** — In making a determination under this subsection, an agency—
+
+  (A) may make use of any reliable data source; and
+
+  (B) is not required to undertake new scientific or technical research unless the new scientific or technical research is essential to a reasoned choice among alternatives, and the overall costs and time frame of obtaining it are not unreasonable.
+
+
+<a id="section-4336b"></a>
+## § 4336b. Timely and unified Federal reviews
+**(a) Lead agency**
+
+(1) **Designation**
+
+  (A) *In general* — If there are two or more participating Federal agencies, such agencies shall determine, by letter or memorandum, which agency shall be the lead agency based on consideration of the—
+
+    (i) magnitude of agency’s involvement;
+
+    (ii) project approval or disapproval authority;
+
+    (iii) expertise concerning the action’s environmental effects;
+
+    (iv) duration of agency’s involvement; and
+
+    (v) sequence of agency’s involvement.
+
+  (B) *Joint lead agencies* — In making a determination under subparagraph (A), the participating Federal agencies may appoint such State, Tribal, or local agencies as joint lead agencies as the involved Federal agencies shall determine appropriate. Joint lead agencies shall jointly fulfill the role described in paragraph (2).
+
+(2) **Role** — A lead agency shall, with respect to a proposed agency action—
+
+  (A) supervise the preparation of an environmental document if, with respect to such proposed agency action, there is more than one participating Federal agency;
+
+  (B) request the participation of each cooperating agency at the earliest practicable time;
+
+  (C) in preparing an environmental document, give consideration to any analysis or proposal created by a cooperating agency;
+
+  (D) develop a schedule, in consultation with each cooperating agency, the applicant, and such other entities as the lead agency determines appropriate, for completion of any environmental review, permit, or authorization required to carry out the proposed agency action;
+
+  (E) if the lead agency determines that a review, permit, or authorization will not be completed in accordance with the schedule developed under subparagraph (D), notify the agency responsible for issuing such review, permit, or authorization of the discrepancy and request that such agency take such measures as such agency determines appropriate to comply with such schedule; and
+
+  (F) meet with a cooperating agency that requests such a meeting.
+
+(3) **Cooperating agency** — The lead agency may, with respect to a proposed agency action, designate any Federal, State, Tribal, or local agency that has jurisdiction by law or special expertise with respect to any environmental impact involved in a proposal to serve as a cooperating agency. A cooperating agency may, not later than a date specified in the schedule established by the lead agency, submit comments to the lead agency.
+
+(4) **Request for designation** — Any Federal, State, Tribal, or local agency or person that is substantially affected by the lack of a designation of a lead agency with respect to a proposed agency action under paragraph (1) may submit a written request for such a designation to a participating Federal agency. An agency that receives a request under this paragraph shall transmit such request to each participating Federal agency and to the Council.
+
+(5) **Council designation**
+
+  (A) *Request* — If the participating Federal agencies are unable to agree on the designation of a lead agency within 45 days of the request under paragraph (4), then the Federal, State, Tribal or local agency or person that is substantially affected by the lack or a designation of a lead agency may request that the Council designate a lead agency. Such request shall consist of—
+
+    (i) a precise description of the nature and extent of the proposed agency action; and
+
+    (ii) a detailed statement with respect to each participating Federal agency and each factor listed in paragraph (1) regarding which agency should serve as lead agency.
+
+  (B) *Transmission* — The Council shall transmit a request received under subparagraph (A) to each participating Federal agency.
+
+  (C) *Response* — A participating Federal agency may, not later than 20 days after the date of the submission of a request under subparagraph (A), submit to the Council a response to such request.
+
+  (D) *Designation* — Not later than 40 days after the date of the submission of a request under subparagraph (A), the Council shall designate the lead agency with respect to the relevant proposed agency action.
+
+**(b) One document** To the extent practicable, if a proposed agency action will require action by more than one Federal agency and the lead agency has determined that it requires preparation of an environmental document, the lead and cooperating agencies shall evaluate the proposal in a single environmental document.
+
+**(c) Request for public comment** Each notice of intent to prepare an environmental impact statement under [section 4332 of this title](./chapter-055-national-environmental-policy.md#section-4332) shall include a request for public comment on alternatives or impacts and on relevant information, studies, or analyses with respect to the proposed agency action.
+
+**(d) Statement of purpose and need** Each environmental document shall include a statement of purpose and need that briefly summarizes the underlying purpose and need for the proposed agency action.
+
+**(e) Page limits**
+
+(1) **Environmental impact statements**
+
+  (A) *In general* — Except as provided in subparagraph (B), an environmental impact statement shall not exceed 150 pages, not including any citations or appendices.
+
+  (B) *Extraordinary complexity* — An environmental impact statement for a proposed agency action of extraordinary complexity shall not exceed 300 pages, not including any citations or appendices.
+
+(2) **Environmental assessments** — An environmental assessment shall not exceed 75 pages, not including any citations or appendices.
+
+**(f) Sponsor preparation** A lead agency shall prescribe procedures to allow a project sponsor to prepare an environmental assessment or an environmental impact statement under the supervision of the agency. Such agency may provide such sponsor with appropriate guidance and assist in the preparation. The lead agency shall independently evaluate the environmental document and shall take responsibility for the contents.
+
+**(g) Deadlines**
+
+(1) **In general** — Except as provided in paragraph (2), with respect to a proposed agency action, a lead agency shall complete, as applicable—
+
+  (A) the environmental impact statement not later than the date that is 2 years after the sooner of, as applicable—
+
+    (i) the date on which such agency determines that [section 4332(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim) requires the issuance of an environmental impact statement with respect to such action;
+
+    (ii) the date on which such agency notifies the applicant that the application to establish a right-of-way for such action is complete; and
+
+    (iii) the date on which such agency issues a notice of intent to prepare the environmental impact statement for such action; and
+
+  (B) the environmental assessment not later than the date that is 1 year after the sooner of, as applicable—
+
+    (i) the date on which such agency determines that [section 4336(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4336/b/2&num=0&edition=prelim) requires the preparation of an environmental assessment with respect to such action;
+
+    (ii) the date on which such agency notifies the applicant that the application to establish a right-of-way for such action is complete; and
+
+    (iii) the date on which such agency issues a notice of intent to prepare the environmental assessment for such action.
+
+(2) **Delay** — A lead agency that determines it is not able to meet the deadline described in paragraph (1) may extend such deadline, in consultation with the applicant, to establish a new deadline that provides only so much additional time as is necessary to complete such environmental impact statement or environmental assessment.
+
+(3) **Petition to court**
+
+  (A) *Right to petition* — A project sponsor may obtain a review of an alleged failure by an agency to act in accordance with an applicable deadline under this section by filing a written petition with a court of competent jurisdiction seeking an order under subparagraph (B).
+
+  (B) *Court order* — If a court of competent jurisdiction finds that an agency has failed to act in accordance with an applicable deadline, the court shall set a schedule and deadline for the agency to act as soon as practicable, which shall not exceed 90 days from the date on which the order of the court is issued, unless the court determines a longer time period is necessary to comply with applicable law.
+
+**(h) Report**
+
+(1) **In general** — The head of each lead agency shall annually submit to the Committee on Natural Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate a report that—
+
+  (A) identifies any environmental assessment and environmental impact statement that such lead agency did not complete by the deadline described in subsection (g); and
+
+  (B) provides an explanation for any failure to meet such deadline.
+
+(2) **Inclusions** — Each report submitted under paragraph (1) shall identify, as applicable—
+
+  (A) the office, bureau, division, unit, or other entity within the Federal agency responsible for each such environmental assessment and environmental impact statement;
+
+  (B) the date on which—
+
+    (i) such lead agency notified the applicant that the application to establish a right-of-way for the major Federal action is complete;
+
+    (ii) such lead agency began the scoping for the major Federal action; or
+
+    (iii) such lead agency issued a notice of intent to prepare the environmental assessment or environmental impact statement for the major Federal action; and
+
+  (C) when such environmental assessment and environmental impact statement is expected to be complete.
+
+
+<a id="section-4336c"></a>
+## § 4336c. Programmatic environmental document
+
+When an agency prepares a programmatic environmental document for which judicial review was available, the agency may rely on the analysis included in the programmatic environmental document in a subsequent environmental document for related actions as follows:
+
+(1) Within 5 years and without additional review of the analysis in the programmatic environmental document, unless there are substantial new circumstances or information about the significance of adverse effects that bear on the analysis.
+
+(2) After 5 years, so long as the agency reevaluates the analysis in the programmatic environmental document and any underlying assumption to ensure reliance on the analysis remains valid.
+
+
+<a id="section-4336d"></a>
+## § 4336d. Adoption of categorical exclusions
+
+An agency may adopt a categorical exclusion listed in another agency’s NEPA procedures for a category of proposed agency actions for which the categorical exclusion was established consistent with this paragraph. The agency shall—
+
+(1) identify the categorical exclusion listed in another agency’s NEPA procedures that covers a category of proposed actions or related actions;
+
+(2) consult with the agency that established the categorical exclusion to ensure that the proposed adoption of the categorical exclusion to a category of actions is appropriate;
+
+(3) identify to the public the categorical exclusion that the agency plans to use for its proposed actions; and
+
+(4) document adoption of the categorical exclusion.
+
+
+<a id="section-4336e"></a>
+## § 4336e. E-NEPA
+**(a) Permitting portal study** The Council on Environmental Quality shall conduct a study and submit a report to Congress within 1 year of the enactment of this Act 11 See References in Text note below. on the potential for online and digital technologies to address delays in reviews and improve public accessibility and transparency under [section 4332(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim) including, but not limited to, a unified permitting portal that would—
+
+(1) allow applicants to—
+
+  (A) submit required documents or materials for their project in one unified portal;
+
+  (B) upload and collaborate with the applicable agencies to edit documents in real-time, as required;
+
+  (C) upload and display visual features such as video, animation, geographic information system displays, and three-dimensional renderings; and
+
+  (D) track the progress of individual applications;
+
+(2) include a cloud based, digital tool for more complex reviews that would enhance interagency coordination in consultation by—
+
+  (A) centralizing, across all necessary agencies, the data, visuals, and documents, including but not limited to geographic information system displays, other visual renderings, and completed reports and analyses necessary for reviews;
+
+  (B) streamlining communications between all necessary agencies and the applicant;
+
+  (C) allowing for comments and responses by and to all necessary agencies in one unified portal;
+
+  (D) generating analytical reports to aid in organizing and cataloguing public comments; and
+
+  (E) be 22 So in original. Probably should be “being”. accessible on mobile devices;
+
+(3) boost transparency in agency processes and present information suitable for a lay audience, including but not limited to—
+
+  (A) scientific data and analysis; and
+
+  (B) anticipated agency process and timeline; and
+
+(4) include examples describing how at least five permits would be reviewed and processed through this portal.
+
+**(b) Authorization of appropriations** There is authorized to be appropriated $500,000 for the Council on Environmental Quality to carry out the study directed by this section.
+
+### Statutory Notes
+
+#### References in Text
+The enactment of this Act, referred to in subsec. (a), probably means the enactment of Pub. L. 118–5, which added this section to title I of Pub. L. 91–190 and was approved June 3, 2023.
+
+
+<a id="section-4341"></a>
+## § 4341. Definitions
+
+In this subchapter:
+
+(1) **Categorical exclusion** — The term “categorical exclusion” means a category of actions that a Federal agency has determined normally does not significantly affect the quality of the human environment within the meaning of [section 4332(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim).
+
+(2) **Cooperating agency** — The term “cooperating agency” means any Federal, State, Tribal, or local agency that has been designated as a cooperating agency under [section 4336a(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4336a/a/3&num=0&edition=prelim).
+
+(3) **Council** — The term “Council” means the Council on Environmental Quality established in subchapter II.
+
+(4) **Environmental assessment** — The term “environmental assessment” means an environmental assessment prepared under [section 4336(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4336/b/2&num=0&edition=prelim).
+
+(5) **Environmental document** — The term “environmental document” means an environmental impact statement, an environmental assessment, or a finding of no significant impact.
+
+(6) **Environmental impact statement** — The term “environmental impact statement” means a detailed written statement that is required by [section 4332(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4332/2/C&num=0&edition=prelim).
+
+(7) **Finding of no significant impact** — The term “finding of no significant impact” means a determination by a Federal agency that a proposed agency action does not require the issuance of an environmental impact statement.
+
+(8) **Participating Federal agency** — The term “participating Federal agency” means a Federal agency participating in an environmental review or authorization of an action.
+
+(9) **Lead agency** — The term “lead agency” means, with respect to a proposed agency action—
+
+  (A) the agency that proposed such action; or
+
+  (B) if there are 2 or more involved Federal agencies with respect to such action, the agency designated under [section 4336a(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4336a/a/1&num=0&edition=prelim).
+
+(10) **Major Federal action**
+
+  (A) *In general* — The term “major Federal action” means an action that the agency carrying out such action determines is subject to substantial Federal control and responsibility.
+
+  (B) *Exclusion* — The term “major Federal action” does not include—
+
+    (i) a non-Federal action—
+
+      (I) with no or minimal Federal funding; or
+
+      (II) with no or minimal Federal involvement where a Federal agency cannot control the outcome of the project;
+
+    (ii) funding assistance solely in the form of general revenue sharing funds which do not provide Federal agency compliance or enforcement responsibility over the subsequent use of such funds;
+
+    (iii) loans, loan guarantees, or other forms of financial assistance where a Federal agency does not exercise sufficient control and responsibility over the subsequent use of such financial assistance or the effect of the action;
+
+    (iv) business loan guarantees provided by the Small Business Administration pursuant to section 7(a) or (b) and 11 So in original. The word “and” probably should not appear. of the Small Business Act ( U.S.C. 636(a)),22 So in original. Probably should refer to [15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim), (b). or title V of the Small Business Investment Act of 1958 ([15 U.S.C. 695](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section695&num=0&edition=prelim) et seq.);
+
+    (v) bringing judicial or administrative civil or criminal enforcement actions;
+
+    (vi) extraterritorial activities or decisions, which means agency activities or decisions with effects located entirely outside of the jurisdiction of the United States; or
+
+    (vii) activities or decisions that are non-discretionary and made in accordance with the agency’s statutory authority.
+
+(11) **Programmatic environmental document** — The term “programmatic environmental document” means an environmental impact statement or environmental assessment analyzing all or some of the environmental effects of a policy, program, plan, or group of related actions.
+
+(12) **Proposal** — The term “proposal” means a proposed action at a stage when an agency has a goal, is actively preparing to make a decision on one or more alternative means of accomplishing that goal, and can meaningfully evaluate its effects.
+
+(13) **Special expertise** — The term “special expertise” means statutory responsibility, agency mission, or related program experience.
+
+### Statutory Notes
+
+#### References in Text
+The Small Business Investment Act of 1958, referred to in par. (10)(B)(iv), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689. Title V of the Act is classified generally to subchapter V (§ 695 et seq.) of chapter 14B of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
 
 
 <a id="section-4342"></a>
@@ -2437,7 +2991,7 @@ In exercising its powers, functions, and duties under this chapter, the Council 
 Executive Order numbered 11472, dated May 29, 1969, referred to in par. (1), is set out as a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 #### Citizens’ Advisory Committee on Environmental Quality
-For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+For provisions relating to termination of Citizens’ Advisory Committee on Environmental Quality, see Ex. Ord. No. 12007, Aug. 22, 1977, 42 F.R. 42839, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-4346a"></a>
@@ -2601,9 +3155,9 @@ Provisions similar to those in this section were contained in the following prio
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act referred to in par. (1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
+The Clean Air Act, referred to in par. (1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of this title](./chapter-085-air-pollution-prevention-and-control.md#section-7401) and Tables.
 
-The Federal Water Pollution Control Act referred to in par. (1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
+The Federal Water Pollution Control Act, referred to in par. (1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
 This Act, referred to in par. (2), is Pub. L. 96–229, Apr. 7, 1980, 94 Stat. 325, known as the Environmental, Research, Development, and Demonstration Authorization Act of 1980, which enacted sections 4363, 4363a, 4369a, and 4370 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -2738,7 +3292,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim).
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -3229,7 +3783,7 @@ In this subchapter:
 
 (6) **Covered project**
 
-  (A) *In general* — The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, or any other sector as determined by a majority vote of the Council that—
+  (A) *In general* — The term “covered project” means any activity in the United States that requires authorization or environmental review by a Federal agency involving construction of infrastructure for renewable or conventional energy production, electricity transmission, surface transportation, aviation, ports and waterways, water resource projects, broadband, pipelines, manufacturing, semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity, carbon capture, energy storage, or any other sector as determined by a majority vote of the Council that—
 
     (i)
 
@@ -3308,6 +3862,8 @@ The National Environmental Policy Act of 1969 or NEPA, referred to in pars. (6)(
 Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+2023—Par. (6)(A). Pub. L. 118–5 inserted “energy storage,” before “or any other sector”.
+
 2022—Par. (6)(A). Pub. L. 117–173 inserted “semiconductors, artificial intelligence and machine learning, high-performance computing and advanced computer hardware and software, quantum information science and technology, data storage and data management, cybersecurity,” after “manufacturing,” in introductory provisions.
 
 2021—Par. (3). Pub. L. 117–58, § 70801(a)(1), inserted “and any interagency consultation” after “issued by an agency”.
@@ -3500,6 +4056,8 @@ Section was enacted as part of the Fixing America’s Surface Transportation Act
 
     (ii) to effectuate the adoption by agencies of the best practices and recommendations of the Council described in paragraph (2).
 
+  (E) *Personnel* — The Executive Director of the Council may appoint and fix the compensation of such employees as the Executive Director considers necessary to carry out the roles and responsibilities of the Executive Director.
+
 (2) **Council**
 
   (A) *Recommendations*
@@ -3552,6 +4110,8 @@ Section was enacted as part of the Fixing America’s Surface Transportation Act
 Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (c)(1)(E). Pub. L. 117–328 added subpar. (E).
+
 2021—Pub. L. 117–58, § 70801(b)(1), substituted “Federal Permitting Improvement Steering Council” for “Federal Permitting Improvement Council” in section catchline.
 
 Subsec. (b)(2)(A)(i). Pub. L. 117–58, § 70801(b)(2)(A), designated existing provisions as subcl. (I), inserted subcl. heading, and added subcl. (II).
@@ -3603,7 +4163,7 @@ Subsec. (d). Pub. L. 117–58, § 70801(b)(4), struck out subsec. (d). Prior to 
 
     (i) kept confidential; and
 
-    (ii) exempt from the disclosure requirements under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”) and the Federal Advisory Committee Act (5 U.S.C. App.).
+    (ii) exempt from the disclosure requirements under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim) (commonly known as the “Freedom of Information Act”) and the Federal Advisory Committee Act (5 U.S.C. App.).11 See References in Text note below.
 
 (2) **Invitation**
 
@@ -3866,7 +4426,7 @@ Subsec. (d). Pub. L. 117–58, § 70801(b)(4), struck out subsec. (d). Prior to 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a)(1)(D)(ii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(1)(D)(ii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 NEPA, referred to in subsec. (f)(1)(B), means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to this chapter. See [section 4370m(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m/16&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
@@ -4162,7 +4722,7 @@ Section was enacted as part of the Fixing America’s Surface Transportation Act
 
 (1) **In general** — All amounts collected pursuant to this section shall be deposited into a separate fund in the Treasury of the United States to be known as the “Environmental Review Improvement Fund” (referred to in this section as the “Fund”).
 
-(2) **Availability** — Amounts in the Fund shall be available to the Executive Director, without fiscal year limitation, solely for the purposes of administering, implementing, and enforcing this subchapter, including the expenses of the Council, staffing of the Office of the Executive Director, and support of the role of the Council as a Federal center for permitting excellence, which may include supporting interagency detailee and rotation opportunities, advanced training, enhanced support for agency project managers, and fora for sharing information and lessons learned.
+(2) **Availability** — Amounts in the Fund shall be available to the Executive Director, without fiscal year limitation, solely for the purposes of administering, implementing, and enforcing this subchapter, including the expenses of the Council, appointing and fixing the compensation of such employees as the Executive Director considers necessary to carry out the roles and responsibilities of the Executive Director, and support of the role of the Council as a Federal center for permitting excellence, which may include supporting interagency detailee and rotation opportunities, advanced training, enhanced support for agency project managers, and fora for sharing information and lessons learned.
 
 (3) **Transfer** — For the purpose of carrying out this subchapter, the Executive Director, with the approval of the Director of the Office of Management and Budget, may transfer amounts in the Fund to other Federal agencies and State, Tribal, and local governments to facilitate timely and efficient environmental reviews and authorizations for covered projects and other projects under this subchapter, including direct reimbursement agreements with agency CERPOs, reimbursable agreements, and approval and consultation processes and staff for covered projects.
 
@@ -4180,6 +4740,8 @@ Section was enacted as part of the Fixing America’s Surface Transportation Act
 Section was enacted as part of the Fixing America’s Surface Transportation Act, also known as the FAST Act, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (d)(2). Pub. L. 117–328 substituted “appointing and fixing the compensation of such employees as the Executive Director considers necessary to carry out the roles and responsibilities of the Executive Director” for “staffing of the Office of the Executive Director”.
+
 2021—Subsec. (a). Pub. L. 117–58, § 70801(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The heads of agencies listed in [section 4370m–1(b)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4370m–1/b/2/B&num=0&edition=prelim), with the guidance of the Director of the Office of Management and Budget and in consultation with the Executive Director, may, after public notice and opportunity for comment, issue regulations establishing a fee structure for project proponents to reimburse the United States for reasonable costs incurred in conducting environmental reviews and authorizations for covered projects.”
 
 Subsec. (b). Pub. L. 117–58, § 70801(g)(2), substituted “through 4370m–7” for “and 4370m–2”.

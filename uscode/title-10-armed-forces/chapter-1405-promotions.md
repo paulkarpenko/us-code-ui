@@ -321,7 +321,9 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (2) The date of rank of an officer appointed to a higher grade under this section may be adjusted in the same manner as an adjustment may be made under [section 741(d)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section741/d/4&num=0&edition=prelim) in the date of rank of an officer appointed to a higher grade under [section 624(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section624/a&num=0&edition=prelim). In any use of the authority under the preceding sentence, subparagraph (C)(ii) of such section shall be applied by substituting “reserve active-status list” for “active-duty list”.
 
-(3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer’s promotion is adjusted to reflect a date earlier than the actual date of the officer’s promotion.
+(3) The Secretary concerned may adjust the date of rank of an officer whose name is placed on a reserve active-status promotion list pursuant to subsection (e) or (f) of [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).
+
+(4) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer’s promotion is adjusted to reflect a date earlier than the actual date of the officer’s promotion.
 
 **(d) Officers With Running Mates.—** An officer to whom a running mate system applies under [section 14306 of this title](./chapter-1405-promotions.md#section-14306) and who is selected for promotion is eligible for promotion to the grade for which selected when the officer who is that officer’s running mate becomes eligible for promotion under chapter 36 of this title. The effective date of the promotion of that officer shall be the same as that of the officer’s running mate in the grade to which the running mate is promoted.
 
@@ -335,7 +337,15 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
 (1) The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
 
-(2) If the Secretary concerned determines that there was an undue delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force, and the delay was not attributable to the action (or inaction) of such officer, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion.
+(2) If there is a delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force that exceeds 100 days from the date the National Guard Bureau deems such officer’s application for Federal recognition to be completely submitted by the State and ready for review at the National Guard Bureau, and the delay was not attributable to the action or inaction of such officer—
+
+  (A) in the event of State promotion with an effective date before January 1, 2024, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion; and
+
+  (B) in the event of State promotion with an effective date on or after January 1, 2024, the effective date of the promotion concerned under paragraph (1) shall be adjusted by the Secretary concerned to the later of—
+
+    (i) the date the National Guard Bureau deems such officer’s application for Federal recognition to be completely submitted by the State and ready for review at the National Guard Bureau; and
+
+    (ii) the date on which the officer occupies a billet in the next higher grade.
 
 **(g) Army and Air Force General Officer Promotions.—** A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 
@@ -345,6 +355,10 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 Provisions similar to those in subsecs. (a), (d), and (f) of this section were contained in sections 3385, 5902(a) to (c), and 8374 of this title, prior to repeal by Pub. L. 103–337, § 1629(a)(1), (b)(2), (c)(1).
 
 #### Amendments
+2023—Subsec. (c)(3), (4). Pub. L. 118–31 added par. (3) and redesignated former par. (3) as (4).
+
+2022—Subsec. (f)(2). Pub. L. 117–263 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the Secretary concerned determines that there was an undue delay in extending Federal recognition in the next higher grade in the Army National Guard or the Air National Guard to a reserve commissioned officer of the Army or the Air Force, and the delay was not attributable to the action (or inaction) of such officer, the effective date of the promotion concerned under paragraph (1) may be adjusted to a date determined by the Secretary concerned, but not earlier than the effective date of the State promotion.”
+
 2019—Subsec. (a). Pub. L. 116–92 inserted “or based on particular merit, as determined by the promotion board” after “reserve active-status list”.
 
 2018—Subsec. (f)(1). Pub. L. 115–232, § 518(a)(1), which directed amendment of subsec. (f) by inserting “(1)” before “The effective date of promotion”, was executed by making the insertion before “The effective date of a promotion” to reflect the probable intent of Congress.

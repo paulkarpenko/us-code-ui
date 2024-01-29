@@ -241,7 +241,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–22 effective Jan. 1, 1969, see section 405 of Pub. L. 90–22, set out as a note under [section 7033 of this title](./chapter-705-the-army-staff.md#section-7033).

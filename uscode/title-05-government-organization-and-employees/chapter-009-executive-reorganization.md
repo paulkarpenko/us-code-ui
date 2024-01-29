@@ -345,12 +345,6 @@ Functions relating to disbursement of postal revenues and all other funds under 
 
 Public Buildings Branch of Procurement Division and its functions and personnel were transferred to Public Buildings Administration, and functions of Secretary of Agriculture and Director of Procurement Division relating to administration thereof and to selection of sites for public buildings were transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, §§ 301, 303, effective July 1, 1939. See also sections 307–310 of said plan for provisions relating to transfer of records, property, funds, and personnel.
 
-#### Executive Order No. 11007
-Ex. Ord. No. 11007, Feb. 27, 1962, 27 F.R. 1875, which related to regulations for formation and use of advisory committees, was superseded by Ex. Ord. No. 11671, June 5, 1972, 37 F.R. 11307.
-
-#### Executive Order No. 11671
-Ex. Ord. No. 11671, June 5, 1972, 37 F.R. 11307, which related to committee management, was superseded by Ex. Ord. No. 11686, Oct. 7, 1972, 37 F.R. 21421, set out in the Appendix to this title.
-
 
 <a id="section-902"></a>
 ## § 902. Definitions
@@ -700,7 +694,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-911"></a>

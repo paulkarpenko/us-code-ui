@@ -1821,7 +1821,19 @@ For provisions relating to definition of “local government” as used in this 
 
 (12) Payment of administrative costs to project sponsors, for which each project sponsor may use not more than 10 percent of the total funds made available to that project sponsor through this part for such costs.
 
-(13) Facilitating and coordinating activities to ensure compliance with subsection (e) of [section 12491 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491&num=0&edition=prelim) and monitoring compliance with the confidentiality protections of subsection (c)(4) of such section.
+(13) 11 So in original. Two pars. (13) have been enacted. Facilitating and coordinating activities to ensure compliance with subsection (e) of [section 12491 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491&num=0&edition=prelim) and monitoring compliance with the confidentiality protections of subsection (c)(4) of such section.
+
+(13) 1 Projects in rural areas that consist of one or more of the following activities:
+
+  (A) Payment of short-term emergency lodging, including in motels or shelters, directly or through vouchers.
+
+  (B) Repairs to units—
+
+    (i) in which homeless individuals and families will be housed; or
+
+    (ii) which are currently not fit for human habitation.
+
+  (C) Staff training, professional development, skill development, and staff retention activities.
 
 **(b) Minimum grant terms** The Secretary may impose minimum grant terms of up to 5 years for new projects providing permanent housing.
 
@@ -1870,7 +1882,9 @@ A prior section 11383, Pub. L. 100–77, title IV, § 423, as added Pub. L. 102�
 Another prior section 11383, Pub. L. 100–77, title IV, § 423, July 22, 1987, 101 Stat. 501; Pub. L. 100–628, title IV, §§ 441(b), (c), 445(a), 446–448(a), 449, Nov. 7, 1988, 102 Stat. 3233, 3234; Pub. L. 101–625, title VIII, § 833(c)–(e), (g), Nov. 28, 1990, 104 Stat. 4362, 4363, which outlined types of assistance provided under the supportive housing demonstration program, was repealed by Pub. L. 102–550, title XIV, § 1403(a), Oct. 28, 1992, 106 Stat. 4013.
 
 #### Amendments
-2022—Subsec. (a)(13). Pub. L. 117–103 added par. (13).
+2022—Subsec. (a)(13). Pub. L. 117–263 added par. (13) relating to the eligibility of certain projects in rural areas.
+
+Pub. L. 117–103 added par. (13) relating to facilitating and coordinating activities to ensure compliance with [section 12491(e) of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491/e&num=0&edition=prelim).
 
 2015—Subsec. (g). Pub. L. 114–94 inserted “private nonprofit organization,” after “unit of general local government,”.
 
@@ -2985,7 +2999,7 @@ Pub. L. 101–645, title IV, § 401(b), Nov. 29, 1990, 104 Stat. 4723, provided 
 Pub. L. 101–645, title IV, § 401(d), Nov. 29, 1990, 104 Stat. 4723, provided that: “No later than 90 days after the date of the enactment of this Act [Nov. 29, 1990], the Administrator of General Services, the Secretary of Health and Human Services, and the Secretary of Housing and Urban Development shall promulgate regulations implementing this section and the amendment made by this section [amending this section and enacting provisions set out as notes under this section].”
 
 #### Exemption of Department of Defense Off-Site Use and Off-Site Removal Only Non-Mobile Properties From Certain Excess Property Disposal Requirements
-Pub. L. 115–232, div. B, title XXVIII, § 2822, Aug. 13, 2018, 132 Stat. 2268, provided that: “(a) In General.—Excess or unutilized or underutilized non-mobile property of the Department of Defense that is situated on non-excess land shall be exempt from the requirements of title V of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11411](./chapter-119-homeless-assistance.md#section-11411) et seq.) upon a determination by the head of the department, agency, or other element of the Department having jurisdiction of the property that—“(1) the property is not feasible to relocate; “(2) the property is located in an area to which the general public is denied access in the interest of national security; and “(3) the exemption would facilitate the efficient disposal of excess property or result in more efficient real property management. “(b) Consultation.—Before making an initial determination under the authority in subsection (a), and periodically thereafter, the head of a department, agency, or other element of the Department shall consult with the Executive Director of the United States Interagency Council on Homelessness on types of non-mobile properties that may be feasible for relocation and suitable to assist the homeless. “(c) Reporting Requirement.—“(1) In general.—If any head of a department, agency, or other element of the Department makes a determination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year. “(2) Form.—Any report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate; and “(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives. “(d) Sunset.—The authority under subsection (a) shall expire on September 30, 2021.”
+Pub. L. 115–232, div. B, title XXVIII, § 2822, Aug. 13, 2018, 132 Stat. 2268, provided that: “(a) In General.—Excess or unutilized or underutilized non-mobile property of the Department of Defense that is situated on non-excess land shall be exempt from the requirements of title V of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11411](./chapter-119-homeless-assistance.md#section-11411) et seq.) upon a determination by the head of the department, agency, or other element of the Department having jurisdiction of the property that—“(1) the property is not feasible to relocate; “(2) the property is located in an area to which the general public is denied access in the interest of national security; and “(3) the exemption would facilitate the efficient disposal of excess property or result in more efficient real property management. “(b) Consultation.—Before making an initial determination under the authority in subsection (a), and periodically thereafter, the head of a department, agency, or other element of the Department shall consult with the Executive Director of the United States Interagency Council on Homelessness on types of non-mobile properties that may be feasible for relocation and suitable to assist the homeless. “(c) Reporting Requirement.—“(1) In general.—If any head of a department, agency, or other element of the Department makes a determination under subsection (a) during a fiscal year, not later than 90 days after the end of that fiscal year, the Secretary of Defense shall submit to the appropriate committees of Congress a report listing all the buildings, facilities, and other properties for which a determination was made under that subsection during that fiscal year. “(2) Form.—Any report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex. “(3) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the Committee on Armed Services, the Committee on Banking, Housing, and Urban Affairs, and the Committee on Homeland Security and Governmental Affairs of the Senate; and “(B) the Committee on Armed Services, the Committee on Financial Services, and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives. “(d) Sunset.—The authority under subsection (a) shall expire on September 30, 2021.”
 
 #### Consultation and Report Regarding Use of National Guard Facilities as Overnight Shelters for Homeless Individuals
 Pub. L. 102–550, title XIV, § 1411, Oct. 28, 1992, 106 Stat. 4039, required the Secretary of Housing and Urban Development to consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for the homeless, determine the availability of incidental services at such facilities, and submit to Congress, not later than the expiration of the 1-year period beginning on Oct. 28, 1992, a report regarding the consultations and determinations made by the Secretary under this section, including recommendations.
@@ -3500,9 +3514,6 @@ Subsec. (h). Pub. L. 114–95, § 9102(6), struck out subsec. (h) which related 
 
 2008—Subsec. (h). Pub. L. 110–289 added subsec. (h).
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).
 
@@ -3762,9 +3773,6 @@ Subsec. (g). Pub. L. 114–95, § 9104(5), added subsec. (g) and struck out form
 Subsec. (h)(1)(A). Pub. L. 114–95, § 9104(6), substituted “primary nighttime residence” for “location” and inserted before semicolon at end “in all areas served by local educational agencies”.
 
 Subsec. (i). Pub. L. 114–95, § 9104(7), substituted “December 10, 2015” for “January 8, 2002”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Oct. 1, 2016, see section 9107 of Pub. L. 114–95, set out as a note under [section 11431 of this title](./chapter-119-homeless-assistance.md#section-11431).

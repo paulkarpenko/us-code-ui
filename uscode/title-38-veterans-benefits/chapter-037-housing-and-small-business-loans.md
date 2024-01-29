@@ -45,7 +45,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended. Title III of the Servicemen’s Readjustment Act of 1944 was classified generally to subchapter II (§ 694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed and the provisions thereof reenacted as this chapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c), is act June 22, 1944, ch. 268, 58 Stat. 284. Title III of the Servicemen’s Readjustment Act of 1944 was classified generally to subchapter II (§ 694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed and the provisions thereof reenacted as this chapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Amendments
 2021—Subsec. (b)(2). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
@@ -428,7 +428,7 @@ Pub. L. 100–322, title IV, § 415(f), May 20, 1988, 102 Stat. 552, provided th
 ### Statutory Notes
 
 #### References in Text
-The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding [section 101 of this title](./chapter-001-general.md#section-101).
+The Servicemen’s Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding [section 101 of this title](./chapter-001-general.md#section-101).
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
@@ -676,14 +676,16 @@ Pub. L. 90–77, title IV, § 403(c), Aug. 31, 1967, 81 Stat. 190, provided that
 
 **(e)** Any housing loan which is financed through the assistance of this chapter and to which section 3714 of this chapter applies shall include a provision that the loan is immediately due and payable upon transfer of the property securing such loan to any transferee unless the acceptability of the assumption of the loan is established pursuant to such section 3714.
 
-**(f)** A loan for the purchase or construction of new residential property, the construction of which began after the energy efficiency standards under section 109 of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12709](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12709&num=0&edition=prelim)), as amended by section 101(c) of the Energy Policy Act of 1992, take effect, may not be financed through the assistance of this chapter unless the new residential property is constructed in compliance with such standards.
+**(f)** A loan for the purchase or construction of new residential property, the construction of which began after the energy efficiency standards under section 109 of the Cranston-Gonzalez National Affordable Housing Act ([42 U.S.C. 12709](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12709&num=0&edition=prelim)), as amended by section 101(c) of the Energy Policy Act of 1992, take effect, may not be financed through the assistance of this chapter unless the new residential property is constructed in compliance with the standards established under such section 109, as in effect on the date of such construction.
 
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsecs. (b) and (d), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsecs. (b) and (d), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–328 substituted “the standards established under such section 109, as in effect on the date of such construction” for “such standards”.
+
 2012—Subsec. (c)(2). Pub. L. 112–154 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In any case in which a veteran is in active duty status as a member of the Armed Forces and is unable to occupy a property because of such status, the occupancy requirements of—
 
 “(A) paragraph (1) of this subsection;
@@ -895,7 +897,7 @@ Pub. L. 102–547, § 3(b), Oct. 28, 1992, 106 Stat. 3635, directed Secretary of
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to [section 1715z–16 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715z–16&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsecs. (a) and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of Title 12, Banks and Banking. Section 251 of the Act is classified to [section 1715z–16 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1715z–16&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2012—Subsec. (a). Pub. L. 112–154 substituted “project under this section” for “demonstration project under this section during fiscal years 2004 through 2012”.
@@ -1214,6 +1216,62 @@ If there is an indebtedness which is secured by a lien against land owned by the
 
 (3) When applying the term “value of the property” to a loan guaranteed under subsection (a)(12), such term means the appraised value of the stock or membership entitling the purchaser to the permanent occupancy of the dwelling unit in the development, project, or structure of the cooperative housing corporation.
 
+**(i)**
+
+(1) The Secretary, in consultation with the advisory group established under paragraph (3)(A), shall prescribe regulations and issue guidance to assist lenders in evaluating the sufficiency of the residual income of a veteran pursuant to paragraph (2).
+
+(2)
+
+  (A) Pursuant to the regulations and guidance prescribed under paragraph (1), in the case of a loan to a veteran to be guaranteed under this chapter, if the veteran provides to the lender an energy efficiency report described in subparagraph (B)—
+
+    (i) the evaluation by the lender of the sufficiency of the residual income of the veteran shall include a consideration of the estimate of the expected energy cost savings contained in the report; and
+
+    (ii) the lender may apply the underwriting expertise of the lender in adjusting the residual income of the veteran in accordance with the information in the report.
+
+  (B) An energy efficiency report described in this subparagraph is a report made with respect to a home for which a loan is to be guaranteed under this chapter that includes each of the following:
+
+    (i) An estimate of the expected energy cost savings specific to the home, based on specific information about the home, including savings relating to electricity or natural gas, oil, and any other fuel regularly used to supply energy to the home.
+
+    (ii) Any information required to be included pursuant to the regulations and guidance and regulations prescribed by the Secretary under paragraph (1).
+
+    (iii) Information with respect to the energy efficiency of the home as determined pursuant to—
+
+      (I) the Residential Energy Service Network’s Home Energy Rating System (commonly know as ‘HERS’) by an individual certified by such Network; or
+
+      (II) an other method determined appropriate by the Secretary, in consultation with the advisory group under paragraph (3), including with respect to third-party quality assurance procedures.
+
+(3)
+
+  (A) To assist the Secretary in carrying out this subsection, the Secretary shall establish an advisory group consisting of individuals representing the interests of—
+
+    (i) mortgage lenders;
+
+    (ii) appraisers;
+
+    (iii) energy raters and residential energy consumption experts;
+
+    (iv) energy efficiency organizations;
+
+    (v) real estate agents;
+
+    (vi) home builders and remodelers;
+
+    (vii) consumer advocates;
+
+    (viii) veterans’ service organizations; and
+
+    (ix) other persons determined appropriate by the Secretary.
+
+  (B) The advisory group established under subparagraph (A) shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).11 See References in Text note below.
+
+(4) The Secretary shall ensure that marketing materials that the Secretary provides to veterans with respect to loans guaranteed under this chapter include information regarding the use of energy efficiency reports under this subsection.
+
+(5) Not later than one year after the date on which the Secretary issues the regulations and guidance pursuant to paragraph (2), and every year thereafter, the Secretary shall submit to Congress and make publicly available a report that includes the following information for the year covered by the report:
+
+  (A) An enumeration of the number of loans guaranteed under this chapter for which a veteran provided to the Secretary an energy efficiency report under this subsection, including the number of such loans for which cost savings were taken into account pursuant to paragraph (1).
+
+  (B) Of the number of loans enumerated under subparagraph (A), an enumeration of the default rates and rates of foreclosure, including how such enumeration compares with the default rates and rates of foreclosure for guaranteed loans for which no energy efficiency report is provided.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1221,10 +1279,14 @@ The date of the enactment of this paragraph, referred to in subsec. (a)(12), is 
 
 Section 216(b)(1) of the Internal Revenue Code of 1986, referred to in subsec. (h)(2), is classified to [section 216(b)(1) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section216/b/1&num=0&edition=prelim), Internal Revenue Code.
 
+The Federal Advisory Committee Act, referred to in subsec. (i)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+
 #### Codification
 Another section 11(b) of Pub. L. 100–198 amended section 1831 [now 3731] of this title.
 
 #### Amendments
+2022—Subsec. (i). Pub. L. 117–328 added subsec. (i).
+
 2019—Subsec. (d)(4). Pub. L. 116–23 substituted “subparagraph (B) or (C) of [section 3703(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/a/1&num=0&edition=prelim)” for “[section 3703(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3703/a/1/B&num=0&edition=prelim)”.
 
 2008—Subsec. (b)(8). Pub. L. 110–389 substituted “100 percent” for “90 percent”.
@@ -1409,9 +1471,9 @@ Pub. L. 102–547, § 9(c), Oct. 28, 1992, 106 Stat. 3642, directed Secretary of
 ### Statutory Notes
 
 #### References in Text
-Title III of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) et seq.), referred to in subsec. (c)(2), probably means title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, known as the Consolidated Farm and Rural Development Act, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+Title III of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1921](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) et seq.), referred to in subsec. (c)(2), probably means title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, known as the Consolidated Farm and Rural Development Act, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
-The Housing Act of 1949, referred to in subsec. (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (c)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (k). Pub. L. 105–368 struck out “and [section 3723 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3723&num=0&edition=prelim)” after “functions under this section” in two places.
@@ -2149,7 +2211,7 @@ Section 1819 was renumbered [section 1812 of this title](./chapter-018-benefits-
 ### Statutory Notes
 
 #### References in Text
-The Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (h). Pub. L. 115–251 struck out par. (1) designation before “The Secretary may, upon” and struck out par. (2) which read as follows: “The Secretary may not under this subsection guarantee the payment of principal and interest on certificates or other securities issued or approved after September 30, 2018.”
@@ -2417,7 +2479,7 @@ If, under any law of the United States, loans and mortgages insured under title 
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of Title 12, Banks and Banking. For complete classification of this Act to the Code, see [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1991—Pub. L. 102–83 renumbered [section 1828 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1828&num=0&edition=prelim) as this section.
@@ -2443,7 +2505,7 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 
 (1) The amount of the fee shall be determined from the loan fee table in paragraph (2). The fee is expressed as a percentage of the total amount of the loan guaranteed, insured, or made, or, in the case of a loan assumption, the unpaid principal balance of the loan on the date of the transfer of the property.
 
-(2) The loan fee table referred to in paragraph (1) is as follows: Type of loanActive duty veteranReservistOther obligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before January 1, 2020)2.152.40NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before April 7, 2023)2.302.30NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after April 7, 2023, and before January 14, 2031)2.152.15NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 14, 2031)1.401.40NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2004, and before January 1, 2020)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before April 7, 2023)3.603.60NA (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after April 7, 2023, and before January 14, 2031)3.303.30NA (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 14, 2031)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before January 1, 2020)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before April 7, 2023)1.651.65NA (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after April 7, 2023, and before January 14, 2031)1.501.50NA (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 14, 2031)0.750.75NA (D)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before January 1, 2020)1.251.50NA (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before April 7, 2023)1.401.40NA (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after April 7, 2023, and before January 14, 2031)1.251.25NA (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 14, 2031)0.500.50NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25.
+(2) The loan fee table referred to in paragraph (1) is as follows: Type of loanActive duty veteranReservistOther obligor (A)(i) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after October 1, 2004, and before January 1, 2020)2.152.40NA (A)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after January 1, 2020, and before April 7, 2023)2.302.30NA (A)(iii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after April 7, 2023, and before November 15, 2031)2.152.15NA (A)(iv) Initial loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other initial loan described in section 3710(a) other than with 5-down or 10-down (closed on or after November 15, 2031)1.401.40NA (B)(i) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after October 1, 2004, and before January 1, 2020)3.303.30NA (B)(ii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after January 1, 2020, and before April 7, 2023)3.603.60NA (B)(iii) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after April 7, 2023, and before November 15, 2031)3.303.30NA (B)(iv) Subsequent loan described in section 3710(a) to purchase or construct a dwelling with 0-down, or any other subsequent loan described in section 3710(a) (closed on or after November 15, 2031)1.251.25NA (C)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed before January 1, 2020)1.501.75NA (C)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after January 1, 2020, and before April 7, 2023)1.651.65NA (C)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after April 7, 2023, and before November 15, 2031)1.501.50NA (C)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 5-down (closed on or after November 15, 2031)0.750.75NA (D)(i) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed before January 1, 2020)1.251.50NA (D)(ii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after January 1, 2020, and before April 7, 2023)1.401.40NA (D)(iii) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after April 7, 2023, and before November 15, 2031)1.251.25NA (D)(iv) Loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after November 15, 2031)0.500.50NA (E) Interest rate reduction refinancing loan0.500.50NA (F) Direct loan under section 37111.001.00NA (G) Manufactured home loan under section 3712 (other than an interest rate reduction refinancing loan)1.001.00NA (H) Loan to Native American veteran under section 3762 (other than an interest rate reduction refinancing loan)1.251.25NA (I) Loan assumption under section 37140.500.500.50 (J) Loan under section 3733(a)2.252.252.25.
 
 (3) Any reference to a section in the “Type of loan” column in the loan fee table in paragraph (2) refers to a section of this title.
 
@@ -2492,6 +2554,10 @@ Section effective Nov. 28, 1979, see section 601(b) of Pub. L. 96–128, set out
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(2). Pub. L. 118–19 substituted “November 15, 2031” for “November 14, 2031” wherever appearing in table.
+
+2022—Subsec. (b)(2). Pub. L. 117–328 substituted “November 14, 2031” for “January 14, 2031” wherever appearing in table.
+
 2021—Subsec. (b)(2). Pub. L. 117–76 substituted “January 14, 2031” for “October 1, 2030” wherever appearing in table.
 
 Pub. L. 116–315, § 2103, substituted “October 1, 2030” for “October 1, 2029” wherever appearing in table.
@@ -2798,6 +2864,9 @@ Subsec. (f). Pub. L. 100–198, § 11(b)(3), added subsec. (f).
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–23, § 7(b), June 25, 2019, 133 Stat. 976, provided that: “The amendments made by this section [amending this section] shall apply with respect to an appraisal under section 3731 of such title [meaning title 38, United States Code], on or after January 1, 2020.”
+
+#### Improving Access to the Veterans Affairs Home Loan Benefit
+Pub. L. 117–308, Dec. 27, 2022, 136 Stat. 4393, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Improving Access to the VA Home Loan Benefit Act of 2022’. “SEC. 2. RECOMMENDATIONS FOR IMPROVING APPRAISAL DELIVERY TIMES.“Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2022], the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives recommendations for improving the delivery times for appraisals for loans guaranteed by the Department of Veterans Affairs. “SEC. 3. UPDATE OF APPRAISAL REQUIREMENTS FOR CERTAIN LOANS GUARANTEED BY THE DEPARTMENT OF VETERANS AFFAIRS.“(a) Updated Regulations Required.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Veterans Affairs shall prescribe updated regulations or program requirements to clarify when an appraisal is required, how an appraisal is to be conducted, and who is eligible to conduct an appraisal for a loan guaranteed by the Department of Veterans Affairs under chapter 37 of title 38, United States Code, for any purpose described in section 3710(a) of such title. In prescribing updated regulations or program requirements under this section, the Secretary shall take into consideration the recommendations of the Secretary submitted under section 2. “(b) Waiver of Requirement for Certain Properties.—In prescribing updated regulations or program requirements under subsection (a), the Secretary shall consider making changes applicable to—“(1) certification requirements for appraisers; “(2) minimum property requirements; “(3) the process for selecting and reviewing comparable sales; “(4) quality control processes; “(5) the Assisted Appraisal Processing Program; and “(6) the use of waivers or other alternatives to existing appraisal processes. “(c) Desk Top Appraisals.—In prescribing updated regulations or program guidance under subsection (a), the Secretary shall provide guidance for the use of the authority under [section 3731(b)(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3731/b/3&num=0&edition=prelim), United States Code, taking into consideration—“(1) situations in which the use of such authority would provide for cost savings for the borrower; and “(2) situations in which a traditional appraisal requirement could cause a delay substantial enough to jeopardize the ability of a borrower to complete a transaction. “SEC. 4. DETERMINATION OF BUDGETARY EFFECTS.“The budgetary effects of this Act, for the purpose of complying with the Statutory Pay-As-You-Go Act of 2010 [[2 U.S.C. 931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section931&num=0&edition=prelim) et seq.], shall be determined by reference to the latest statement titled ‘Budgetary Effects of PAYGO Legislation’ for this Act, submitted for printing in the Congressional Record by the Chairman of the House Budget Committee, provided that such statement has been submitted prior to the vote on passage.”
 
 #### Guidance To Implement Amendment by Pub. L. 116–23
 Pub. L. 116–23, § 7(c), June 25, 2019, 133 Stat. 976, provided that: “Notwithstanding section 501 of such title [meaning title 38, United States Code], the Secretary of Veterans Affairs may issue guidance to implement this section [amending this section and enacting provisions set out as a note under this section] before prescribing new regulations under sections [sic] 3731 of such title, as amended by subsection (a).”

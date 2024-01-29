@@ -2,7 +2,7 @@
 title: 16
 chapter: '31'
 heading: MARINE MAMMAL PROTECTION
-section_count: 59
+section_count: 65
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -313,7 +313,7 @@ Pub. L. 103–238, § 24(a)(1), Apr. 30, 1994, 108 Stat. 565, provided that: “
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Termination of Trust Territory of the Pacific Islands
 For termination of Trust Territory of the Pacific Islands, see note set out preceding [section 1681 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1681&num=0&edition=prelim), Territories and Insular Possessions.
@@ -660,7 +660,7 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1372"></a>
@@ -1114,7 +1114,7 @@ On and after November 29, 1999, all fines collected by the United States Fish an
 ### Statutory Notes
 
 #### References in Text
-The Marine Mammal Protection Act, referred to in text, probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+The Marine Mammal Protection Act, referred to in text, probably means the Marine Mammal Protection Act of 1972, Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
 
 #### Codification
 Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 2000, and not as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
@@ -1410,7 +1410,7 @@ Grants made under this subsection may not exceed 50 per centum of the costs of d
 
 The Regulatory Flexibility Act, referred to in subsec. (d)(2), is Pub. L. 96–354, Sept. 19, 1980, 94 Stat. 1164, which is classified generally to chapter 6 (§ 601 et seq.) of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) and Tables.
 
-The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, as amended, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
+The Paperwork Reduction Act, referred to in subsec. (d)(2), probably means the Paperwork Reduction Act of 1980, Pub. L. 96–511, Dec. 11, 1980, 94 Stat. 2812, which was classified principally to chapter 35 (§ 3501 et seq.) of Title 44, Public Printing and Documents, prior to the general amendment of that chapter by the Paperwork Reduction Act of 1995, Pub. L. 104–13, § 2, May 22, 1995, 109 Stat. 163. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section101&num=0&edition=prelim) and Tables.
 
 Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. (d)(2), was formerly set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees, and was revoked by Ex. Ord. No. 12866, § 11, Sept. 30, 1993, 58 F.R. 51735.
 
@@ -2167,7 +2167,7 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
   (F) any other issue which the Secretary or the groups consider appropriate.
 
-(2) The scientific review groups established under this subsection shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.).
+(2) The scientific review groups established under this subsection shall not be subject to chapter 10 of title 5.
 
 (3) Members of the scientific review groups shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their obligations.
 
@@ -2177,8 +2177,8 @@ For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 10
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (d)(2). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 App. U.S.C.).”
 
 
 <a id="section-1387"></a>
@@ -2384,7 +2384,7 @@ The Federal Advisory Committee Act, referred to in subsec. (d)(2), is Pub. L. 92
 
   (C) Members of take reduction teams shall have expertise regarding the conservation or biology of the marine mammal species which the take reduction plan will address, or the fishing practices which result in the incidental mortality and serious injury of such species. Members shall include representatives of Federal agencies, each coastal State which has fisheries which interact with the species or stock, appropriate Regional Fishery Management Councils, interstate fisheries commissions, academic and scientific organizations, environmental groups, all commercial and recreational fisheries groups and gear types which incidentally take the species or stock, Alaska Native organizations or Indian tribal organizations, and others as the Secretary deems appropriate. Take reduction teams shall, to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests.
 
-  (D) Take reduction teams shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.). Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
+  (D) Take reduction teams shall not be subject to chapter 10 of title 5. Meetings of take reduction teams shall be open to the public, and prior notice of meetings shall be made public in a timely fashion.
 
   (E) Members of take reduction teams shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their duties as members of the team.
 
@@ -2509,9 +2509,9 @@ The Endangered Species Act of 1973, referred to in subsecs. (a)(2), (d)(4)(A), (
 
 Act of November 7, 1986, referred to in subsec. (a)(4), is Pub. L. 99–625, Nov. 7, 1986, 100 Stat. 3500, which amended [section 718b of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718b) and provisions set out as a table of National Wildlife Refuges under [section 668dd of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-668dd) and enacted provisions set out as a note under [section 1536 of this title](./chapter-035-endangered-species.md#section-1536). For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (f)(6)(D). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 App. U.S.C.).”
+
 1996—Subsecs. (a)(1), (c)(2)(B)(ii), (l). Pub. L. 104–208 made technical amendment to references in original act which appear in text as references to sections 1802 and 1824(b) of this title.
 
 #### Effective Date of 1996 Amendment
@@ -2519,6 +2519,9 @@ Pub. L. 104–208, div. A, title I, § 101(a) [title II, § 211(b)], Sept. 30, 1
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+
+#### North Atlantic Right Whales and Regulations
+Pub. L. 117–328, div. JJ, title I, § 101, Dec. 29, 2022, 136 Stat. 6089, provided that: “(a) In General.—Notwithstanding any other provision of law except as provided in subsection (b), for the period beginning on the date of enactment of this Act [Dec. 29, 2022] and ending on December 31, 2028, the Final Rule amending the regulations implementing the Atlantic Large Whale Take Reduction Plan (86 Fed. Reg. 51970) shall be deemed sufficient to ensure that the continued Federal and State authorizations of the American lobster and Jonah crab fisheries are in full compliance with the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361](./chapter-031-marine-mammal-protection.md#section-1361) et seq.) and the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.). The National Marine Fisheries Service shall—“(1) throughout the period described in the preceding sentence, in consultation with affected States and fishing industry participants, promote the innovation and adoption of gear technologies in the fisheries described in the preceding sentence, in order to implement additional whale protection measures by December 31, 2028; “(2) promulgate new regulations for the American lobster and Jonah crab fisheries consistent with the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361](./chapter-031-marine-mammal-protection.md#section-1361) et seq.) and the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.) that take effect by December 31, 2028, utilizing existing and innovative gear technologies, as appropriate; and “(3) in consultation with affected States, submit an annual report to Congress on the status of North Atlantic Right Whales, the actions taken and plans to implement measures expected to not exceed Potential Biological Removal by December 31, 2028, the amount of serious injury and mortality by fishery and country, and the proportion of the American lobster and Jonah crab fisheries that have transitioned to innovative gear technologies that reduce harm to the North Atlantic Right Whale. “(b) Exception.—The provisions of subsection (a) shall not apply to an existing emergency rule, or any action taken to extend or make final an emergency rule that is in place on the date of enactment of this Act, affecting lobster and Jonah crab.”
 
 
 <a id="section-1388"></a>
@@ -2655,7 +2658,7 @@ The amounts authorized to be appropriated under this subsection are in addition 
 
     (iii) *Majority agreement required* — A committee established under this subparagraph may take action with respect to a permit application and removal under this subsection only with majority agreement by the committee members.
 
-    (iv) *Nonapplicability of FACA* — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to a committee established under this subparagraph.
+    (iv) *Nonapplicability of FACA* — The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to a committee established under this subparagraph.
 
 (7) **Individual exception** — For purposes of this subsection, any sea lion located upstream of river mile 112 and downstream of McNary Dam, or in any tributary to the Columbia River that includes spawning habitat of threatened or endangered salmon or steelhead is deemed to be individually identifiable.
 
@@ -2687,7 +2690,7 @@ The amounts authorized to be appropriated under this subsection are in addition 
 
   (A) shall to the maximum extent practicable, consist of an equitable balance among representatives of resource user interests and nonuser interests; and
 
-  (B) shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.).
+  (B) shall not be subject to chapter 10 of title 5.
 
 (2) Meetings of any task force established under this section shall be open to the public, and prior notice of those meetings shall be given to the public by the task force in a timely fashion.
 
@@ -2702,9 +2705,11 @@ The amounts authorized to be appropriated under this subsection are in addition 
 #### References in Text
 The Endangered Species Act of 1973, referred to in subsecs. (b)(1)(A), (B), (e)(1), and (f)(1)(A), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsecs. (f)(6)(D)(iv) and (i)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(6)(D)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (i)(1)(B). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 App. U.S.C.).”
+
 2018—Subsec. (f). Pub. L. 115–329 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to a scientific investigation and report on the impact of California sea lions and Pacific harbor seals.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
@@ -2712,6 +2717,318 @@ Committee on Merchant Marine and Fisheries of House of Representatives abolished
 
 #### Treaty Rights of Federally Recognized Indian Tribes
 Pub. L. 115–329, § 4, Dec. 18, 2018, 132 Stat. 4478, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361)] or the amendments made by this Act shall be construed to enlarge, confirm, adjudicate, affect, or modify any treaty or other right of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))).”
+
+
+<a id="section-1390"></a>
+## § 1390. Assistance to ports to reduce impacts of vessel traffic and port operations on marine mammals
+**(a) In general** Not later than 180 days after December 23, 2022, the Under Secretary, in consultation with the Director of the United States Fish and Wildlife Service, the Secretary, the Secretary of Defense, and the Administrator of the Maritime Administration, shall establish a grant program to provide assistance to eligible entities to develop and implement mitigation measures that will lead to a quantifiable reduction in threats to marine mammals from vessel traffic, including shipping activities and port operations.
+
+**(b) Eligible uses** Assistance provided under subsection (a) may be used to develop, assess, and carry out activities that reduce threats to marine mammals by—
+
+(1) reducing underwater stressors related to marine traffic;
+
+(2) reducing mortality and serious injury from vessel strikes and other physical disturbances;
+
+(3) monitoring sound;
+
+(4) reducing vessel interactions with marine mammals;
+
+(5) conducting other types of monitoring that are consistent with reducing the threats to, and enhancing the habitats of, marine mammals; or
+
+(6) supporting State agencies and Tribal governments in developing the capacity to receive assistance under this section through education, training, information sharing, and collaboration to participate in the grant program under this section.
+
+**(c) Priority** The Under Secretary shall prioritize providing assistance under subsection (a) for projects that—
+
+(1) are based on the best available science with respect to methods to reduce threats to marine mammals;
+
+(2) collect data on the effects of such methods and the reduction of such threats;
+
+(3) assist ports that pose a higher relative threat to marine mammals listed as threatened or endangered under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.);
+
+(4) are in close proximity to areas in which threatened or endangered cetaceans are known to experience other stressors; or
+
+(5) allow eligible entities to conduct risk assessments and to track progress toward threat reduction.
+
+**(d) Outreach** The Under Secretary, in coordination with the Secretary, the Administrator of the Maritime Administration, and the Director of the United States Fish and Wildlife Service, as appropriate, shall conduct coordinated outreach to ports to provide information with respect to—
+
+(1) how to apply for assistance under subsection (a);
+
+(2) the benefits of such assistance; and
+
+(3) facilitation of best practices and lessons, including the best practices and lessons learned from activities carried out using such assistance.
+
+**(e) Report required** Not less frequently than annually, the Under Secretary shall make available to the public on a publicly accessible website of the National Oceanic and Atmospheric Administration a report that includes the following information:
+
+(1) The name and location of each entity to which assistance was awarded under subsection (a) during the year preceding submission of the report.
+
+(2) The amount of each such award.
+
+(3) A description of the activities carried out with each such award.
+
+(4) An estimate of the likely impact of such activities on the reduction of threats to marine mammals.
+
+**(f) Definition of eligible entity** In this section, the term “eligible entity” means—
+
+(1) a port authority for a port;
+
+(2) a State, regional, local, or Tribal government, or an Alaska Native or Native Hawaiian entity that has jurisdiction over a maritime port authority or a port;
+
+(3) an academic institution, research institution, or nonprofit organization working in partnership with a port; or
+
+(4) a consortium of entities described in paragraphs (1) through (3).
+
+**(g) Funding** From funds otherwise appropriated to the Under Secretary, $10,000,000 is authorized to carry out this section for each of fiscal years 2023 through 2028.
+
+**(h) Savings clause** An activity may not be carried out under this section if the Secretary of Defense, in consultation with the Under Secretary, determines that the activity would negatively impact the defense readiness or the national security of the United States.
+
+### Statutory Notes
+
+#### References in Text
+The Endangered Species Act of 1973, referred to in subsec. (c)(3), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+#### Codification
+Section was enacted as part of the Don Young Coast Guard Authorization Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
+
+#### Pilot Program To Establish a Cetacean Desk for Puget Sound Region
+Pub. L. 117–263, div. K, title CXIII, § 11304, Dec. 23, 2022, 136 Stat. 4075, provided that: “(a) Establishment.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], the Secretary, with the concurrence of the Under Secretary, shall carry out a pilot program to establish a Cetacean Desk, which shall be—“(A) located and manned within the Puget Sound Vessel Traffic Service; and “(B) designed—“(i) to improve coordination with the maritime industry to reduce the risk of vessel impacts on large cetaceans, including impacts from vessel strikes, disturbances, and other sources; and “(ii) to monitor the presence and location of large cetaceans during the months during which such large cetaceans are present in Puget Sound, the Strait of Juan de Fuca, and the United States portion of the Salish Sea. “(2) Duration and staffing.—The pilot program required under paragraph (1)—“(A) shall—“(i) be for a duration of 4 years; and “(ii) require not more than 1 full-time equivalent position, who shall also contribute to other necessary Puget Sound Vessel Traffic Service duties and responsibilities as needed; and “(B) may be supported by other existing Federal employees, as appropriate. “(b) Engagement With Vessel Operators.—“(1) In general.—In carrying out the pilot program required under subsection (a), the Secretary shall require personnel of the Cetacean Desk to engage with vessel operators in areas where large cetaceans have been seen or could reasonably be present to ensure compliance with applicable laws, regulations, and voluntary guidance, to reduce the impact of vessel traffic on large cetaceans. “(2) Contents.—In engaging with vessel operators as required under paragraph (1), personnel of the Cetacean Desk shall communicate where and when sightings of large cetaceans have occurred. “(c) Memorandum of Understanding.—The Secretary and the Under Secretary may enter into a memorandum of understanding to facilitate real-time sharing of data relating to large cetaceans between the Quiet Sound program of the State of Washington, the National Oceanic and Atmospheric Administration, the Puget Sound Vessel Traffic Service, and other relevant entities, as appropriate. “(d) Data.—The Under Secretary shall leverage existing data collection methods, the program required by section 11303 [[16 U.S.C. 1391](./chapter-031-marine-mammal-protection.md#section-1391)], and public data to ensure accurate and timely information on the sighting of large cetaceans. “(e) Consultations.—“(1) In general.—In carrying out the pilot program required under subsection (a), the Secretary shall consult with Tribal governments, the State of Washington, institutions of higher education, the maritime industry, ports in the Puget Sound region, and nongovernmental organizations. “(2) Coordination with Canada.—When appropriate, the Secretary shall coordinate with the Government of Canada, consistent with policies and agreements relating to management of vessel traffic in Puget Sound. “(f) Puget Sound Vessel Traffic Service Local Variance and Policy.—The Secretary, with the concurrence of the Under Secretary and in consultation with the Captain of the Port for the Puget Sound region—“(1) shall implement local variances, as authorized by subsection (c) of [section 70001 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70001&num=0&edition=prelim), United States Code, to reduce the impact of vessel traffic on large cetaceans; and “(2) may enter into cooperative agreements, in accordance with subsection (d) of such section, with Federal, State, Tribal, and local officials to reduce the likelihood of vessel interactions with protected large cetaceans, which may include—“(A) communicating marine mammal protection guidance to vessels; “(B) training on requirements imposed by local, State, Tribal, and Federal laws and regulations and guidelines concerning—“(i) vessel buffer zones; “(ii) vessel speed; “(iii) seasonal no-go zones for vessels; “(iv) protected areas, including areas designated as critical habitat, as applicable to marine operations; and “(v) any other activities to reduce the direct and indirect impact of vessel traffic on large cetaceans; “(C) training to understand, utilize, and communicate large cetacean location data; and “(D) training to understand and communicate basic large cetacean detection, identification, and behavior, including—“(i) cues of the presence of large cetaceans such as spouts, water disturbances, breaches, or presence of prey; “(ii) important feeding, breeding, calving, and rearing habitats that co-occur with areas of high risk of vessel strikes; “(iii) seasonal large cetacean migration routes that co-occur with areas of high risk of vessel strikes; and “(iv) areas designated as critical habitat for large cetaceans. “(g) Report Required.—Not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], and every 2 years thereafter for the duration of the pilot program, the Commandant [of the Coast Guard], in coordination with the Under Secretary and the Administrator of the Maritime Administration, shall submit to the appropriate congressional committees a report that—“(1) evaluates the functionality, utility, reliability, responsiveness, and operational status of the Cetacean Desk established under this section, including a quantification of reductions in vessel strikes to large cetaceans as a result of the pilot program; “(2) assesses the efficacy of communication between the Cetacean Desk and the maritime industry and provides recommendations for improvements; “(3) evaluates the integration and interoperability of existing data collection methods, as well as public data, into the Cetacean Desk operations; “(4) assesses the efficacy of collaboration and stakeholder engagement with Tribal governments, the State of Washington, institutions of higher education, the maritime industry, ports in the Puget Sound region, and nongovernmental organizations; and “(5) evaluates the progress, performance, and implementation of guidance and training procedures for Puget Sound Vessel Traffic Service personnel, as required under subsection (f).”
+
+[For definition of “Secretary” as used in section 11304 of Pub. L. 117–263, set out above, see section 11002 of div. K of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard.]
+
+[For definitions of terms as used in section 11304 of Pub. L. 117–263, set out above, see section 11301 of div. K of Pub. L. 117–263, set out as a note below.]
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 11002 of div. K of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard.
+
+Pub. L. 117–263, div. K, title CXIII, § 11301, Dec. 23, 2022, 136 Stat. 4069, provided that: “In this subtitle [subtitle A (§§ 11301–11305) of title CXIII of div. K of Pub. L. 117–263, enacting this section and sections 1391 and 1392 of this title and provisions set out as a note under this section]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Commerce, Science, and Transportation of the Senate; and “(B) the Committees on Transportation and Infrastructure and Natural Resources of the House of Representatives. “(2) Core foraging habitats.—The term ‘core foraging habitats’ means areas—“(A) with biological and physical oceanographic features that aggregate Calanus finmarchicus; and “(B) where North Atlantic right whales foraging aggregations have been well documented. “(3) Exclusive economic zone.—The term ‘exclusive economic zone’ has the meaning given that term in [section 107 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section107&num=0&edition=prelim), United States Code. “(4) Institution of higher education.—The term ‘institution of higher education’ has the meaning given that term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)). “(5) Large cetacean.—The term ‘large cetacean’ means all endangered or threatened species within—“(A) the suborder Mysticeti; “(B) the genera Physeter; or “(C) the genera Orcinus. “(6) Near real-time.—The term ‘near real-time’, with respect to monitoring of whales, means that visual, acoustic, or other detections of whales are processed, transmitted, and reported as close to the time of detection as is technically feasible. “(7) Nonprofit organization.—The term ‘nonprofit organization’ means an organization that is described in section 501(c) of the Internal Revenue Code of 1986 [[26 U.S.C. 501(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c&num=0&edition=prelim)] and exempt from tax under section 501(a) of such Code [[26 U.S.C. 501(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim)]. “(8) Puget Sound region.—The term ‘Puget Sound region’ means the Vessel Traffic Service Puget Sound area described in section 161.55 of title 33, Code of Federal Regulations (as of the date of enactment of this Act [Dec. 23, 2022]). “(9) Tribal government.—The term ‘Tribal government’ means the recognized governing body of any Indian or Alaska Native Tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this Act pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 5131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim)). “(10) Under Secretary.—The term ‘Under Secretary’ means the Under Secretary of Commerce for Oceans and Atmosphere.”
+
+
+<a id="section-1391"></a>
+## § 1391. Near real-time monitoring and mitigation program for large cetaceans
+**(a) Establishment** The Under Secretary, in coordination with the heads of other relevant Federal agencies, shall design and deploy a cost-effective, efficient, and results-oriented near real-time monitoring and mitigation program (referred to in this section as the “Program”) for threatened or endangered cetaceans.
+
+**(b) Purpose** The purpose of the Program shall be to reduce the risk to large cetaceans posed by vessel collisions and to minimize other impacts on large cetaceans through the use of near real-time location monitoring and location information.
+
+**(c) Requirements** The Program shall—
+
+(1) prioritize species of large cetaceans for which impacts from vessel collisions are of particular concern;
+
+(2) prioritize areas where such impacts are of particular concern;
+
+(3) be capable of detecting and alerting ocean users and enforcement agencies of the probable location of large cetaceans on an actionable real-time basis, including through real-time data whenever possible;
+
+(4) inform sector-specific mitigation protocols to effectively reduce takes (as defined in section 216.3 of title 50, Code of Federal Regulations, or successor regulations) of large cetaceans;
+
+(5) integrate technology improvements; and
+
+(6) be informed by technologies, monitoring methods, and mitigation protocols developed under the pilot project required under subsection (d).
+
+**(d) Pilot project**
+
+(1) **Establishment** — In carrying out the Program, the Under Secretary shall first establish a pilot monitoring and mitigation project (referred to in this section as the “pilot project”) for North Atlantic right whales for the purposes of informing the Program.
+
+(2) **Requirements** — In designing and deploying the pilot project, the Under Secretary, in coordination with the heads of other relevant Federal agencies, shall, using the best available scientific information, identify and ensure coverage of—
+
+  (A) core foraging habitats; and
+
+  (B) important feeding, breeding, calving, rearing, or migratory habitats of North Atlantic right whales that co-occur with areas of high risk of mortality or serious injury of such whales from vessels, vessel strikes, or disturbance.
+
+(3) **Components** — Not later than 3 years after December 23, 2022, the Under Secretary, in consultation with relevant Federal agencies and Tribal governments, and with input from affected stakeholders, shall design and deploy a near real-time monitoring system for North Atlantic right whales that—
+
+  (A) comprises the best available detection power, spatial coverage, and survey effort to detect and localize North Atlantic right whales within habitats described in paragraph (2);
+
+  (B) is capable of detecting North Atlantic right whales, including visually and acoustically;
+
+  (C) uses dynamic habitat suitability models to inform the likelihood of North Atlantic right whale occurrence habitats described in paragraph (2) at any given time;
+
+  (D) coordinates with the Integrated Ocean Observing System of the National Oceanic and Atmospheric Administration and Regional Ocean Partnerships to leverage monitoring assets;
+
+  (E) integrates historical data;
+
+  (F) integrates new near real-time monitoring methods and technologies as such methods and technologies become available;
+
+  (G) accurately verifies and rapidly communicates detection data to appropriate ocean users;
+
+  (H) creates standards for contributing, and allows ocean users to contribute, data to the monitoring system using comparable near real-time monitoring methods and technologies;
+
+  (I) communicates the risks of injury to large cetaceans to ocean users in a manner that is most likely to result in informed decision-making regarding the mitigation of those risks; and
+
+  (J) minimizes additional stressors to large cetaceans as a result of the information available to ocean users.
+
+(4) **Reports**
+
+  (A) *Preliminary report*
+
+    (i) *In general* — Not later than 2 years after December 23, 2022, the Under Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives, and make available to the public, a preliminary report on the pilot project.
+
+    (ii) *Elements* — The report required under clause (i) shall include the following:
+
+      (I) A description of the monitoring methods and technology in use or planned for deployment under the pilot project.
+
+      (II) An analysis of the efficacy of the methods and technology in use or planned for deployment for detecting North Atlantic right whales.
+
+      (III) An assessment of the manner in which the monitoring system designed and deployed under this subsection is directly informing and improving the management, health, and survival of North Atlantic right whales.
+
+      (IV) A prioritized identification of technology or research gaps.
+
+      (V) A plan to communicate the risks of injury to large cetaceans to ocean users in a manner that is most likely to result in informed decision making regarding the mitigation of such risks.
+
+      (VI) Any other information on the potential benefits and efficacy of the pilot project the Under Secretary considers appropriate.
+
+  (B) *Final report*
+
+    (i) *In general* — Not later than 6 years after December 23, 2022, the Under Secretary, in coordination with the heads of other relevant Federal agencies, shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives, and make available to the public, a final report on the pilot project.
+
+    (ii) *Elements* — The report required under clause (i) shall—
+
+      (I) address the preliminary report required under subparagraph (A); and
+
+      (II) include—
+
+        (aa) an assessment of the benefits and efficacy of the pilot project;
+
+        (bb) a strategic plan to expand the pilot project to provide near real-time monitoring and mitigation measures—
+
+          (AA) to additional large cetaceans of concern for which such measures would reduce risk of serious injury or death; and
+
+          (BB) in important feeding, breeding, calving, rearing, or migratory habitats of large cetaceans that co-occur with areas of high risk of mortality or serious injury from vessel strikes or disturbance;
+
+        (cc) a budget and description of funds necessary to carry out such plan;
+
+        (dd) a prioritized plan for acquisition, deployment, and maintenance of monitoring technologies; and
+
+        (ee) the locations or species to which such plan would apply.
+
+**(e) Mitigation protocols** The Under Secretary, in consultation with the Secretary, the Secretary of Defense, the Secretary of Transportation, and the Secretary of the Interior, and with input from affected stakeholders, shall develop and deploy mitigation protocols that make use of any monitoring system designed and deployed under this section to direct sector-specific mitigation measures that avoid and significantly reduce risk of serious injury and mortality to North Atlantic right whales.
+
+**(f) Access to data** The Under Secretary shall provide access to data generated by any monitoring system designed and deployed under this section for purposes of scientific research and evaluation and public awareness and education, including through the Right Whale Sighting Advisory System of the National Oceanic and Atmospheric Administration and WhaleMap or other successor public website portals, subject to review for national security considerations.
+
+**(g) Additional authority** The Under Secretary may enter into and perform such contracts, leases, grants, or cooperative agreements as may be necessary to carry out this section on such terms as the Under Secretary considers appropriate, consistent with the Federal Acquisition Regulation.
+
+**(h) Savings clause** An activity may not be carried out under this section if the Secretary of Defense, in consultation with the Under Secretary, determines that the activity would negatively impact the defense readiness or the national security of the United States.
+
+**(i) Funding** From funds otherwise appropriated to the Under Secretary $5,000,000 is authorized to support development, deployment, application, and ongoing maintenance of the Program and to otherwise carry out this section for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Don Young Coast Guard Authorization Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
+
+#### Definitions
+For definition of “Secretary” as used in this section, see section 11002 of div. K of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard.
+
+For definitions of terms used in this section, see section 11301 of div. K of Pub. L. 117–263, set out as a note under [section 1390 of this title](./chapter-031-marine-mammal-protection.md#section-1390).
+
+
+<a id="section-1392"></a>
+## § 1392. Monitoring ocean soundscapes
+**(a) In general** The Under Secretary shall maintain and expand an ocean soundscape development program to—
+
+(1) award grants to expand the deployment of Federal and non-Federal observing and data management systems capable of collecting measurements of underwater sound for purposes of monitoring and analyzing baselines and trends in the underwater soundscape to protect and manage marine life;
+
+(2) continue to develop and apply standardized forms of measurements to assess sounds produced by marine animals, physical processes, and anthropogenic activities; and
+
+(3) after coordinating with the Secretary of Defense, coordinate and make accessible to the public the datasets, modeling and analysis, and user-driven products and tools resulting from observations of underwater sound funded through grants awarded under paragraph (1).
+
+**(b) Coordination** The program described in subsection (a) shall—
+
+(1) include the Ocean Noise Reference Station Network of the National Oceanic and Atmospheric Administration and the National Park Service;
+
+(2) use and coordinate with the Integrated Ocean Observing System; and
+
+(3) coordinate with the Regional Ocean Partnerships and the Director of the United States Fish and Wildlife Service, as appropriate.
+
+**(c) Priority** In awarding grants under subsection (a), the Under Secretary shall consider the geographic diversity of the recipients of such grants.
+
+**(d) Savings clause** An activity may not be carried out under this section if the Secretary of Defense, in consultation with the Under Secretary, determines that the activity would negatively impact the defense readiness or the national security of the United States.
+
+**(e) Funding** From funds otherwise appropriated to the Under Secretary, $1,500,000 is authorized for each of fiscal years 2023 through 2028 to carry out this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Don Young Coast Guard Authorization Act of 2022 and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see section 11301 of div. K of Pub. L. 117–263, set out as a note under [section 1390 of this title](./chapter-031-marine-mammal-protection.md#section-1390).
+
+
+<a id="section-1393"></a>
+## § 1393. Conservation and mitigation assistance
+**(a) Assistance**
+
+(1) **In general** — Not later than 180 days after December 29, 2022, the Secretary of Commerce, acting through the Under Secretary of Commerce for Oceans and Atmosphere (in this title 11 See References in Text note below. referred to as the “Under Secretary”) shall establish a program to provide competitive financial assistance, on an annual basis, and cooperative agreements including multiyear grants and direct payment, to eligible entities for eligible uses, such as projects designed to reduce the lethal and sub-lethal effects of human activities on North Atlantic right whales.
+
+(2) **Use of existing authorities** — Assistance provided under this section shall be carried out in a manner consistent with authorities available to the Secretary under the Endangered Species Act of 1973 ([16 U.S.C. 1531](./chapter-035-endangered-species.md#section-1531) et seq.) and the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361](./chapter-031-marine-mammal-protection.md#section-1361) et seq.).
+
+(3) **Cooperative agreements** — The Under Secretary may enter into cooperative agreements with the National Fish and Wildlife Foundation established by the National Fish and Wildlife Foundation Establishment Act ([16 U.S.C. 3701](./chapter-057-national-fish-and-wildlife-foundation.md#section-3701) et seq.) to carry out this title.1
+
+**(b) Eligible entities** An entity is an eligible entity for purposes of assistance awarded under subsection (a) if the entity is—
+
+(1) a relevant port authority for a port;
+
+(2) a relevant State, regional, local, or Tribal government;
+
+(3) any other individual or entity, as determined appropriate by the Under Secretary, including—
+
+  (A) an owner or operator of a vessel, as defined under [section 3 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section3&num=0&edition=prelim); and
+
+  (B) participants within sectors of the maritime industry, such as boating, shipping, fishing, fishing gear and rope manufacturing, and other maritime activities;
+
+(4) a nonprofit organization or research institution with expertise in commercial fisheries, gear innovation, and North Atlantic right whale conservation; or
+
+(5) a consortium of entities described in paragraphs (1) through (4).
+
+**(c) Eligible uses** Assistance awarded under subsection (a) may be used to develop, assess, and carry out activities that reduce human induced threats to North Atlantic right whales, including—
+
+(1) funding research to identify, deploy, or test innovative gear technologies;
+
+(2) subsidizing acquisition of innovative gear technologies to improve adoption of those technologies by fisheries participants, which may include direct payment to fisheries participants;
+
+(3) training for fisheries participants to improve deployment, safety, and adoption of innovative gear technologies;
+
+(4) funding for monitoring necessary to support dynamic management of fisheries, vessel traffic, or other needs; and
+
+(5) other uses as determined by the Under Secretary in consultation with relevant eligible entities.
+
+**(d) Priority** In determining whether to fund project proposals under this section, the Under Secretary shall prioritize projects—
+
+(1) with a substantial likelihood of reducing lethal and sub-lethal effects on North Atlantic right whales from fishing gear entanglements or vessel collisions;
+
+(2) that include cooperation with fishing industry participants or other private sector stakeholders; and
+
+(3) that demonstrate, or have the potential to provide, economic benefits to small businesses based in the United States.
+
+**(e) Prohibited uses**
+
+(1) **In general** — Except as provided in paragraph (2), funds awarded under this section may not be used to distribute resources to an entity or individual that is not a United States person (as defined in [section 7701(a)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701/a/3&num=0&edition=prelim)).
+
+(2) **Exception** — Funds awarded under this section may be used to distribute resources to a partnership that includes an entity or individual that is not a United States person (as defined in [section 7701(a)(30) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701/a/30&num=0&edition=prelim)) if the resources are distributed directly to a partner in the partnership that is a United States person (as so defined).
+
+**(f) Project reporting**
+
+(1) **In general** — Each individual or entity that receives assistance under this section for a project shall submit to the Under Secretary periodic reports (at such intervals as the Under Secretary may require) that include all information that the Under Secretary, after consultation with other government officials, determines is necessary to evaluate the progress and success of the project for the purposes of ensuring positive results, assessing problems, and fostering improvements.
+
+(2) **Availability to the public** — Reports under paragraph (1) shall be made available to the public in a timely manner.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (a)(1), (3), means title II of div. JJ of Pub. L. 117–328, which enacted this section and provisions set out as notes under this section. For complete classification of title II to the Code, see Tables.
+
+The Endangered Species Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
+
+The Marine Mammal Protection Act of 1972, referred to in subsec. (a)(2), is Pub. L. 92–522, Oct. 21, 1972, 86 Stat. 1027, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361) and Tables.
+
+The National Fish and Wildlife Foundation Establishment Act, referred to in subsec. (a)(3), is Pub. L. 98–244, Mar. 26, 1984, 98 Stat. 107, which is classified generally to chapter 57 (§ 3701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of this title](./chapter-057-national-fish-and-wildlife-foundation.md#section-3701).
+
+#### Codification
+Section was enacted as part of the Consolidated Appropriations Act, 2023, and not as part of the Marine Mammal Protection Act of 1972 which comprises this chapter.
+
+#### Report to Congress
+Pub. L. 117–328, div. JJ, title II, § 202, Dec. 29, 2022, 136 Stat. 6092, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 29, 2022], and every 5 years thereafter, the Under Secretary [of Commerce for Oceans and Atmosphere] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives a report on the results and effectiveness of projects receiving assistance provided under this title [enacting this section and provisions set out as notes under this section].”
+
+#### Acceptance and Use of Donations
+Pub. L. 117–328, div. JJ, title II, § 203(b), Dec. 29, 2022, 136 Stat. 6092, provided that: “The Under Secretary [of Commerce for Oceans and Atmosphere] may accept, receive, solicit, hold, administer, and use any gift, devise, or bequest, consistent with policy of the Department of Commerce in effect on the date of enactment of this Act [Dec. 29, 2022], to provide assistance under section 201 [[16 U.S.C. 1393](./chapter-031-marine-mammal-protection.md#section-1393)].”
 
 
 <a id="section-1401"></a>
@@ -2805,7 +3122,7 @@ Section effective upon the expiration of the sixty-day period following Oct. 21,
 Section effective upon the expiration of the sixty-day period following Oct. 21, 1972, see section 4 of Pub. L. 92–522, set out as a note under [section 1361 of this title](./chapter-031-marine-mammal-protection.md#section-1361).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -3310,35 +3627,137 @@ Pub. L. 102–587, title III, § 3002, Nov. 4, 1992, 106 Stat. 5060, provided th
 
 (1) procedures and practices for—
 
-  (A) rescuing and rehabilitating stranded marine mammals, including criteria used by stranding network participants, on a species-by-species basis, for determining at what point a marine mammal undergoing rescue and rehabilitation is returnable to the wild; and
+  (A) rescuing and rehabilitating stranded or entangled marine mammals, including criteria used by stranding network participants, on a species-by-species basis, for determining at what point a marine mammal undergoing rescue and rehabilitation is returnable to the wild; and
 
   (B) collecting, preserving, labeling, and transporting marine mammal tissues for physical, chemical, and biological analyses;
 
 (2) appropriate scientific literature on marine mammal health, disease, and rehabilitation;
 
-(3) strandings, which the Secretary shall compile and analyze, by region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals; and
+(3) strandings and entanglements, including unusual mortality events, which the Secretary shall compile and analyze, by stranding region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals and entangled marine mammals to allow comparison of the causes of illness and deaths in stranded marine mammals and entangled marine mammals with physical, chemical, and biological environmental parameters; and
 
-(4) other life history and reference level data, including marine mammal tissue analyses, that would allow comparison of the causes of illness and deaths in stranded marine mammals with physical, chemical, and biological environmental parameters.
+(4) other life history and reference level data, including marine mammal tissue analyses.
 
-**(c) Availability** The Secretary shall make information collected under this section available to stranding network participants and other qualified scientists.
+**(c) Information required to be submitted and collected**
+
+(1) **In general** — After each response to a stranding or entanglement event, the Secretary shall collect (including from any staff of the National Oceanic and Atmospheric Administration that respond directly to such an event), and shall require each stranding network participant who responds to that stranding or entanglement to submit to the Administrator of the National Oceanic and Atmospheric Administration or the Director of the United States Fish and Wildlife Service—
+
+  (A) data on the stranding event, including NOAA Form 89–864 (OMB #0648–0178), NOAA Form 89–878 (OMB #0648–0178), similar successor forms, or similar information in an appropriate format required by the United States Fish and Wildlife Service for species under its management authority;
+
+  (B) supplemental data to the data described in subparagraph (A), which may include, as available, relevant information about—
+
+    (i) weather and tide conditions;
+
+    (ii) offshore human, predator, or prey activity;
+
+    (iii) morphometrics;
+
+    (iv) behavior;
+
+    (v) health assessments;
+
+    (vi) life history samples; or
+
+    (vii) stomach and intestinal contents; and
+
+  (C) data and results from laboratory analysis of tissues, which may include, as appropriate and available—
+
+    (i) histopathology;
+
+    (ii) toxicology;
+
+    (iii) microbiology;
+
+    (iv) virology; or
+
+    (v) parasitology.
+
+(2) **Timeline** — A stranding network participant shall submit—
+
+  (A) the data described in paragraph (1)(A) not later than 30 days after the date of a response to a stranding or entanglement event;
+
+  (B) the compiled data described in paragraph (1)(B) not later than 30 days after the date on which the data is available to the stranding network participant; and
+
+  (C) the compiled data described in paragraph (1)(C) not later than 30 days after the date on which the laboratory analysis has been reported to the stranding network participant.
+
+(3) **Online data input system** — The Secretary, acting through the Under Secretary of Commerce for Oceans and Atmosphere, in consultation with the stranding network and the Office of Evaluation Sciences of the General Services Administration, shall establish an online system for the purposes of efficient and timely submission of data described in paragraph (1).
+
+**(d) Availability of data**
+
+(1) **In general** — The Secretary shall develop a program to make information, including any data and metadata collected under paragraph (3) or (4) of subsection (b) or subsection (c), available to researchers, stranding network participants, and the public—
+
+  (A) to improve real-time coordination of response to stranding and entanglement events across geographic areas and between stranding coordinators;
+
+  (B) to identify and quickly disseminate information on potential public health risks;
+
+  (C) to facilitate integrated interdisciplinary research;
+
+  (D) to facilitate peer-reviewed publications;
+
+  (E) to archive regional data into 1 national database for future analyses; and
+
+  (F) for education and outreach activities.
+
+(2) **Access to data** — The Secretary shall ensure that any data or metadata collected under subsection (c)—
+
+  (A) by staff of the National Oceanic and Atmospheric Administration or the United States Fish and Wildlife Service that responded directly to a stranding or entanglement event is available to the public through the Health MAP and the Observation System not later than 30 days after that data or metadata is collected by, available to, or reported to the Secretary; and
+
+  (B) by a stranding network participant that responded directly to a stranding or entanglement event is made available to the public through the Health MAP and the Observation System 2 years after the date on which that data are submitted to the Secretary under subsection (c).
+
+(3) **Exceptions**
+
+  (A) *Written release* — Notwithstanding paragraph (2)(B), the Secretary may make data described in paragraph (2)(B) publicly available earlier than 2 years after the date on which that data are submitted to the Secretary under subsection (c), if the stranding network participant has completed a written release stating that such data may be made publicly available.
+
+  (B) *Law enforcement* — Notwithstanding paragraph (2), the Secretary may withhold data for a longer period than the period of time described in paragraph (2) in the event of a law enforcement action or legal action that may be related to that data.
+
+**(e) Standards** The Secretary, in consultation with the marine mammal stranding community, shall—
+
+(1) make publicly available guidance about uniform data and metadata standards to ensure that data collected in accordance with this section can be archived in a form that is readily accessible and understandable to the public through the Health MAP and the Observation System; and
+
+(2) periodically update such guidance.
+
+**(f) Management policy** In collaboration with the regional stranding networks, the Secretary shall develop, and periodically update, a data management and public outreach collaboration policy for stranding or entanglement events.
+
+**(g) Authorship agreements and acknowledgment policy** The Secretary, acting through the Under Secretary of Commerce for Oceans and Atmosphere, shall include authorship agreements or other acknowledgment considerations for use of data by the public, as determined by the Secretary.
+
+**(h) Savings clause** The Secretary shall not require submission of research data that are not described in subsection (c).
 
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(1)(A). Pub. L. 117–263, § 10401(1)(A), inserted “or entangled” after “stranded”.
+
+Subsec. (b)(3). Pub. L. 117–263, § 10401(1)(B), substituted “strandings and entanglements, including unusual mortality events, which the Secretary shall compile and analyze, by stranding region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals and entangled marine mammals to allow comparison of the causes of illness and deaths in stranded marine mammals and entangled marine mammals with physical, chemical, and biological environmental parameters; and” for “strandings, which the Secretary shall compile and analyze, by region, to monitor species, numbers, conditions, and causes of illnesses and deaths of stranded marine mammals; and”.
+
+Subsec. (b)(4). Pub. L. 117–263, § 10401(1)(C), substituted “analyses.” for “analyses, that would allow comparison of the causes of illness and deaths in stranded marine mammals with physical, chemical, and biological environmental parameters.”
+
+Subsecs. (c) to (h). Pub. L. 117–263, § 10401(2), added subsecs. (c) to (h) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The Secretary shall make information collected under this section available to stranding network participants and other qualified scientists.”
 
 #### Implementation
 Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided that: “The Secretary of Commerce shall— “(1) in accordance with section 302(a) and (b) [now 402(a), (b)] of the Marine Mammal Protection Act of 1972 [[16 U.S.C. 1421a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421a/a&num=0&edition=prelim), (b)], as amended by this Act, and not later than 24 months after the date of enactment of this Act [Nov. 4, 1992]—“(A) develop and implement objective criteria to determine at what point a marine mammal undergoing rehabilitation is returnable to the wild; and “(B) collect and make available information on marine mammal health and health trends; and “(2) in accordance with section 304(b) [now 404(b)] of the Marine Mammal Protection Act of 1972 [[16 U.S.C. 1421c(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421c/b&num=0&edition=prelim)], as amended by this Act, issue a detailed contingency plan for responding to any unusual mortality event—“(A) in proposed form by not later than 18 months after the date of enactment of this Act; and “(B) in final form by not later than 24 months after the date of enactment of this Act.”
 
 
 <a id="section-1421b"></a>
-## § 1421b. Stranding response agreements
-**(a) In general** The Secretary may enter into an agreement under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) with any person to take marine mammals under [section 1379(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/h/1&num=0&edition=prelim) in response to a stranding.
+## § 1421b. Stranding or entanglement response agreements
+**(a) In general** The Secretary may enter into an agreement under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) with any person to take marine mammals under [section 1379(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/h/1&num=0&edition=prelim) in response to a stranding or entanglement.
 
 **(b) Required provision** An agreement authorized by subsection (a) shall—
 
-(1) specify each person who is authorized to perform activities under the agreement; and
+(1) specify each person who is authorized to perform activities under the agreement;
 
-(2) specify any terms and conditions under which a person so specified may delegate that authority to another person.
+(2) specify any terms and conditions under which a person so specified may delegate that authority to another person; and
+
+(3) include a description of the data management and public outreach policy established under [section 1421a(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421a/f&num=0&edition=prelim).
 
 **(c) Review** The Secretary shall periodically review agreements under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) that are entered into pursuant to this subchapter, for performance adequacy and effectiveness.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–263, § 10402(a)(1), inserted “or entanglement” before “response” in section catchline.
+
+Subsec. (a). Pub. L. 117–263, § 10402(a)(2), inserted “or entanglement” after “stranding”.
+
+Subsec. (b)(3). Pub. L. 117–263, § 10402(a)(3), added par. (3).
 
 
 <a id="section-1421c"></a>
@@ -3355,7 +3774,7 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided
 
     (iii) developing the contingency plan in accordance with subsection (b), to assist the Secretary in responding to unusual mortality events.
 
-  (B) The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
+  (B) Chapter 10 of title 5 shall not apply to the marine mammal unusual mortality event working group established under this paragraph.
 
 (2) **Response timing** — The Secretary, in consultation with the Secretary of the Interior, shall to the extent necessary and practicable—
 
@@ -3413,29 +3832,21 @@ Pub. L. 102–587, title III, § 3003(b), Nov. 4, 1992, 106 Stat. 5066, provided
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (a)(1)(B). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 App. U.S.C.)”.
 
 
 <a id="section-1421d"></a>
 ## § 1421d. Unusual mortality event activity funding
 **(a) Establishment of Fund** There is established in the Treasury an interest bearing fund to be known as the “Marine Mammal Unusual Mortality Event Fund”, which shall consist of amounts deposited into the Fund under subsection (c).
 
-**(b) Uses**
+**(b) Uses** Amounts in the Fund shall be available only for use by the Secretary, in consultation with the Secretary of the Interior, and dispersed among claimants based on budgets approved by the Secretary prior to expenditure—
 
-(1) **In general** — Amounts in the Fund—
+(1) to make advance, partial, or progress payments under contracts or other funding mechanisms for property, supplies, salaries, services, and travel costs incurred in acting in accordance with the contingency plan issued under [section 1421c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421c/b&num=0&edition=prelim) or under the direction of an Onsite Coordinator for an unusual mortality event designated under [section 1421c(a)(2)(B)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421c/a/2/B/iii&num=0&edition=prelim);
 
-  (A) shall be available only for use by the Secretary, in consultation with the Secretary of the Interior—
+(2) for reimbursing any stranding network participant for costs incurred in the collection, preparation, analysis, and transportation of marine mammal tissues and samples collected with respect to an unusual mortality event for the Tissue Bank; and
 
-    (i) to compensate persons for special costs incurred in acting in accordance with the contingency plan issued under [section 1421c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421c/b&num=0&edition=prelim) or under the direction of an Onsite Coordinator for an unusual mortality event;
-
-    (ii) for reimbursing any stranding network participant for costs incurred in preparing and transporting tissues collected with respect to an unusual mortality event for the Tissue Bank; and
-
-    (iii) for care and maintenance of marine mammal seized under [section 1374(c)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/2/D&num=0&edition=prelim); and
-
-  (B) shall remain available until expended.
-
-(2) **Pending claims** — If sufficient amounts are not available in the Fund to satisfy any authorized pending claim, such claim shall remain pending until such time as sufficient amounts are available. All authorized pending claims shall be satisfied in the order received.
+(3) for the care and maintenance of a marine mammal seized under [section 1374(c)(2)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1374/c/2/D&num=0&edition=prelim); and 11 So in original. The “; and” probably should be a period.
 
 **(c) Deposits into Fund** There shall be deposited into the Fund—
 
@@ -3450,6 +3861,8 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(1)(B), is Pub. L.
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to uses of amounts in the Marine Mammal Unusual Mortality Event Fund and payment of pending claims.
+
 1994—Subsec. (a). Pub. L. 103–238, § 16(b), substituted “an interest bearing fund” for “a fund”.
 
 Subsec. (b)(1)(A)(i). Pub. L. 103–238, § 24(c)(2), made technical amendment to reference to [section 1421c(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421c/b&num=0&edition=prelim) to reflect renumbering of corresponding section of original act.
@@ -3461,7 +3874,7 @@ Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and [section 1374(c)(2)(D) 
 
 <a id="section-1421e"></a>
 ## § 1421e. Liability
-**(a) In general** A person who is authorized to respond to a stranding pursuant to an agreement entered into under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) is deemed to be an employee of the government for purposes of chapter 171 of title 28, with respect to actions of the person that are—
+**(a) In general** A person who is authorized to respond to a stranding or entanglement pursuant to an agreement entered into under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) is deemed to be an employee of the Government for purposes of chapter 171 of title 28, with respect to actions of the person that are—
 
 (1) in accordance with the agreement; and
 
@@ -3478,6 +3891,8 @@ Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and [section 1374(c)(2)(D) 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, in introductory provisions, inserted “or entanglement” after “to a stranding” and substituted “Government” for “government”.
+
 1994—Subsec. (a)(2)(A), (B). Pub. L. 103–238, § 24(c)(3), (4), made technical amendment to references to [section 1421c of this title](./chapter-031-marine-mammal-protection.md#section-1421c) to reflect renumbering of corresponding section of original act.
 
 
@@ -3515,11 +3930,11 @@ Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and [section 1374(c)(2)(D) 
 
 (2) **Contents** — The data base established under this subsection shall include—
 
-  (A) reference data on the health of marine mammals and populations of marine mammals; and
+  (A) reference data on marine mammal health and mortality and the health of populations of marine mammals; and
 
   (B) data on species of marine mammals that are subject to unusual mortality events.
 
-**(d) Access** The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for access to—
+**(d) Access** The Secretary shall, in consultation with the Secretary of the Interior, establish criteria, after an opportunity for public review and comment, for public access to—
 
 (1) marine mammal tissues in the Tissue Bank;
 
@@ -3528,55 +3943,311 @@ Subsec. (d). Pub. L. 103–238, § 6(2), inserted “and [section 1374(c)(2)(D) 
 (3) marine mammal data in the data base maintained under subsection (c);
 which provide for appropriate uses of the tissues, analyses, and data by qualified scientists, including stranding network participants.
 
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (c)(2)(A). Pub. L. 117–263, § 10405(1), substituted “marine mammal health and mortality and the health of” for “the health of marine mammals and”.
+
+Subsec. (d). Pub. L. 117–263, § 10405(2), inserted “public” before “access” in introductory provisions.
+
 
 <a id="section-1421f-1"></a>
-## § 1421f–1. John H. Prescott Marine Mammal Rescue Assistance Grant Program
-**(a) In general**
+## § 1421f–1. Marine Mammal Rescue and Response Grant Program and Rapid Response Fund
+**(a) Definitions** In this section:
 
-(1) Subject to the availability of appropriations, the Secretary shall conduct a grant program to be known as the John H. Prescott Marine Mammal Rescue Assistance Grant Program, to provide grants to eligible stranding network participants for the recovery or treatment of marine mammals, the collection of data from living or dead stranded marine mammals for scientific research regarding marine mammal health, and facility operation costs that are directly related to those purposes.
+(1) **Emergency assistance**
 
-(2)
+  (A) *In general* — The term “emergency assistance” means—
 
-  (A) The Secretary shall ensure that, to the greatest extent practicable, funds provided as grants under this subsection are distributed equitably among the stranding regions designated as of December 21, 2000, and in making such grants shall give preference to those facilities that have established records for rescuing or rehabilitating sick and stranded marine mammals in each of the respective regions, or subregions.
+    (i) financial assistance provided to respond to, or that results from, a stranding event or entanglement event that—
 
-  (B) In determining priorities among such regions, the Secretary may consider—
+      (I) causes an immediate increase in the cost of a response, recovery, or rehabilitation that is greater than the usual cost of a response, recovery, or rehabilitation;
 
-    (i) any episodic stranding or any mortality event other than an event described in [section 1421h(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421h/6&num=0&edition=prelim), that occurred in any region in the preceding year;
+      (II) is cyclical or endemic; or
 
-    (ii) data regarding average annual strandings and mortality events per region; and
+      (III) involves a marine mammal that is out of the normal range for that marine mammal; or
 
-    (iii) the size of the marine mammal populations inhabiting a geographic area within such a region.
+    (ii) financial assistance provided to respond to, or that results from, a stranding event or an entanglement event that—
 
-**(b) Application** To receive a grant under this section, a stranding network participant shall submit an application in such form and manner as the Secretary may prescribe.
+      (I) the applicable Secretary considers to be an emergency; or
 
-**(c) Consultation** The Secretary shall consult with the Marine Mammal Commission, a representative from each of the designated stranding regions, and other individuals who represent public and private organizations that are actively involved in rescue, rehabilitation, release, scientific research, marine conservation, and forensic science regarding stranded marine mammals, regarding the development of criteria for the implementation of the grant program and the awarding of grants under the program.
+      (II) with the concurrence of the applicable Secretary, a State, territorial, or Tribal Government considers to be an emergency.
 
-**(d) Limitation** The amount of a grant under this section shall not exceed $100,000.
-
-**(e) Matching requirement**
-
-(1) **In general** — The non-Federal share of the costs of an activity conducted with a grant under this section shall be 25 percent of such costs.
-
-(2) **In-kind contributions** — The Secretary may apply to the non-Federal share of an activity conducted with a grant under this section the amount of funds, and the fair market value of property and services, provided by non-Federal sources and used for the activity.
-
-**(f) Administrative expenses** Of amounts available each fiscal year to carry out this section, the Secretary may expend not more than 6 percent or $80,000, whichever is greater, to pay the administrative expenses necessary to carry out this section.
-
-**(g) Definitions** In this section:
-
-(1) **Designated stranding region** — The term “designated stranding region” means a geographic region designated by the Secretary for purposes of administration of this subchapter.
+  (B) *Exclusions* — The term “emergency assistance” does not include financial assistance to respond to an unusual mortality event.
 
 (2) **Secretary** — The term “Secretary” has the meaning given that term in [section 1362(12)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1362/12/A&num=0&edition=prelim).
 
-**(h) Authorization of appropriations** There are authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2001 through 2003, to remain available until expended, of which—
+(3) **Stranding region** — The term “stranding region” means a geographic region designated by the applicable Secretary for purposes of administration of this subchapter.
 
-(1) $4,000,000 may be available to the Secretary of Commerce; and
+**(b) John H. Prescott Marine Mammal Rescue and Response Grant Program**
 
-(2) $1,000,000 may be available to the Secretary of the Interior.
+(1) **In general** — The applicable Secretary shall carry out a grant program, to be known as the “John H. Prescott Marine Mammal Rescue and Response Grant Program” (referred to in this section as the “grant program”), to award grants to eligible stranding network participants or stranding network collaborators, as described in this subsection.
+
+(2) **Purposes** — The purposes of the grant program are to provide for—
+
+  (A) the recovery, care, or treatment of sick, injured, or entangled marine mammals;
+
+  (B) responses to marine mammal stranding events that require emergency assistance;
+
+  (C) the collection of data and samples from living or dead stranded marine mammals for scientific research or assessments regarding marine mammal health;
+
+  (D) facility operating costs that are directly related to activities described in subparagraph (A), (B), or (C); and
+
+  (E) development of stranding network capacity, including training for emergency response, where facilities do not exist or are sparse.
+
+(3) **Contract, grant, and cooperative agreement authority**
+
+  (A) *In general* — The applicable Secretary may enter into a contract, grant, or cooperative agreement with any eligible stranding network participant or stranding network collaborator, as the Secretary determines to be appropriate, for the purposes described in paragraph (2).
+
+  (B) *Emergency award flexibility* — Following a request for emergency award flexibility and analysis of the merits of and necessity for such a request, the applicable Secretary may—
+
+    (i) amend any contract, grant, or cooperative agreement entered into under this paragraph, including provisions concerning the period of performance; or
+
+    (ii) waive the requirements under subsection (f) for grant applications submitted during the provision of emergency assistance.
+
+(4) **Equitable distribution of funds**
+
+  (A) *In general* — The Secretary shall ensure, to the extent practicable, that funds awarded under the grant program are distributed equitably among the stranding regions.
+
+  (B) *Considerations* — In determining priorities among the stranding regions under this paragraph, the Secretary may consider—
+
+    (i) equitable distribution within the stranding regions, including the subregions (including, but not limited to, the Gulf of Mexico);
+
+    (ii) any episodic stranding, entanglement, or mortality events, except for unusual mortality events, that occurred in any stranding region in the preceding year;
+
+    (iii) any data with respect to average annual stranding, entanglements, and mortality events per stranding region;
+
+    (iv) the size of the marine mammal populations inhabiting a stranding region;
+
+    (v) the importance of the region’s marine mammal populations to the well-being of indigenous communities; and
+
+    (vi) the conservation of protected, depleted, threatened, or endangered marine mammal species.
+
+  (C) *Strandings* — For the purposes of this program, priority is to be given to applications focusing on marine mammal strandings.
+
+(5) **Application** — To be eligible for a grant under the grant program, a stranding network participant shall—
+
+  (A) submit an application in such form and manner as the applicable Secretary prescribes; and
+
+  (B) be in compliance with the data reporting requirements under [section 1421a(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421a/d&num=0&edition=prelim) and any applicable reporting requirements of the United States Fish and Wildlife Service for species under its management jurisdiction.
+
+(6) **Grant criteria** — The Secretary shall, in consultation with the Marine Mammal Commission, a representative from each of the stranding regions, and other individuals who represent public and private organizations that are actively involved in rescue, rehabilitation, release, scientific research, marine conservation, and forensic science with respect to stranded marine mammals under that Department’s jurisdiction, develop criteria for awarding grants under their respective grant programs.
+
+(7) **Maximum grant amount** — No grant made under the grant program for a single award may exceed $150,000 in any 12-month period.
+
+(8) **Administrative costs and expenses** — The Secretary’s administrative costs and expenses related to reviewing and awarding grants under the grant program, in any fiscal year may not exceed the greater of—
+
+  (A) 6 percent of the amounts made available each fiscal year to carry out the grant program; or
+
+  (B) $80,000.
+
+(9) **Transparency** — The Secretary shall make publicly available a list of grant proposals for the upcoming fiscal year, funded grants, and requests for grant flexibility under this subsection.
+
+**(c) Joseph R. Geraci Marine Mammal Rescue and Rapid Response Fund**
+
+(1) **In general** — There is established in the Treasury of the United States an interest-bearing fund, to be known as the “Joseph R. Geraci Marine Mammal Rescue and Rapid Response Fund” (referred to in this section as the “Rapid Response Fund”).
+
+(2) **Use of funds** — Amounts in the Rapid Response Fund shall be available only for use by the Secretary to provide emergency assistance.
+
+**(d) Authorization of appropriations**
+
+(1) **In general**
+
+  (A) *Authorization of appropriations* — There is authorized to be appropriated to carry out the grant program $7,000,000 for each of fiscal years 2023 through 2028, to remain available until expended, of which for each fiscal year—
+
+    (i) $6,000,000 shall be made available to the Secretary of Commerce; and
+
+    (ii) $1,000,000 shall be made available to the Secretary of the Interior.
+
+  (B) *Derivation of funds* — Funds to carry out the activities under this section shall be derived from amounts authorized to be appropriated pursuant to subparagraph (A) that are enacted after December 23, 2022.
+
+(2) **Joseph R. Geraci Marine Mammal Rescue and Rapid Response Fund** — There is authorized to be appropriated to the Rapid Response Fund $500,000 for each of fiscal years 2023 through 2028.
+
+**(e) Acceptance of donations**
+
+(1) **In general** — For the purposes of carrying out this section, the Secretary may solicit, accept, receive, hold, administer, and use gifts, devises, and bequests without any further approval or administrative action.
+
+(2) **Monetary donations** — A monetary gift, devise, or bequest accepted by the Secretary under paragraph (1) shall be credited as discretionary offsetting collections to the currently applicable appropriation, account, or fund of the Department of Commerce and shall be made available for such purposes only to the extent and in the amounts provided in advance in appropriations Acts.
+
+**(f) Matching requirement**
+
+(1) **In general** — The non-Federal share of a project conducted with funds awarded under the grant program under this section shall be not less than 25 percent of such project.
+
+(2) **In-kind contributions** — The Secretary may apply to the non-Federal share of a project conducted with a grant under this section the amount of funds, and the fair market value of property and services, provided by non-Federal sources and used for the project.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 408 of Pub. L. 92–522 was renumbered section 409, and is classified to [section 1421g of this title](./chapter-031-marine-mammal-protection.md#section-1421g).
+
+#### Amendments
+2022—Pub. L. 117–263, § 10406(a)(1), substituted “Marine Mammal Rescue and Response Grant Program and Rapid Response Fund” for “John H. Prescott Marine Mammal Rescue Assistance Grant Program” in section catchline.
+
+Subsecs. (a) to (d). Pub. L. 117–263, § 10406(a)(2), (4), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to authorization of the John H. Prescott Marine Mammal Rescue Assistance Grant Program, grant applications, required consultations, and limitation of the grant amount, respectively.
+
+Subsec. (e). Pub. L. 117–263, § 10406(a)(4), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 117–263, § 10406(a)(2), (3), redesignated subsec. (e) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Of amounts available each fiscal year to carry out this section, the Secretary may expend not more than 6 percent or $80,000, whichever is greater, to pay the administrative expenses necessary to carry out this section.”
+
+Subsec. (f)(1). Pub. L. 117–263, § 10406(b)(1), substituted “a project conducted with funds awarded under the grant program under this section shall be not less than 25 percent of such project” for “the costs of an activity conducted with a grant under this section shall be 25 percent of such costs”.
+
+Subsec. (f)(2). Pub. L. 117–263, § 10406(b)(2), substituted “a project” for “an activity” and “the project” for “the activity”.
+
+Subsecs. (g), (h). Pub. L. 117–263, § 10406(a)(2), struck out subsecs. (g) and (h) which defined “designated stranding region” and “Secretary” and authorized appropriations for fiscal years 2001 through 2003, respectively.
+
+
+<a id="section-1421f-2"></a>
+## § 1421f–2. Marine Mammal Health Monitoring and Analysis Platform (Health MAP)
+**(a) In general** Not later than 1 year after December 23, 2022, the Secretary, acting through the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Secretary of the Interior and the Marine Mammal Commission, shall—
+
+(1) establish a marine mammal health monitoring and analysis platform (referred to in this chapter as the “Health MAP”);
+
+(2) incorporate the Health MAP into the Observation System; and
+
+(3) make the Health MAP—
+
+  (A) publicly accessible through the web portal of the Observation System; and
+
+  (B) interoperable with other national data systems or other data systems for management or research purposes, as practicable.
+
+**(b) Purposes** The purposes of the Health MAP are—
+
+(1) to promote—
+
+  (A) interdisciplinary research among individuals with knowledge and experience in marine mammal science, marine mammal veterinary and husbandry practices, medical science, and oceanography, and with other marine scientists;
+
+  (B) timely and sustained dissemination and availability of marine mammal health, stranding, entanglement, and mortality data;
+
+  (C) identification of spatial and temporal patterns of marine mammal mortality, disease, and stranding;
+
+  (D) evaluation of marine mammal health in terms of mortality, as well as sublethal marine mammal health impacts;
+
+  (E) improved collaboration and forecasting of marine mammal and larger ecosystem health events;
+
+  (F) rapid communication and dissemination of information regarding marine mammal strandings that may have implications for human health, such as those caused by harmful algal blooms; and
+
+  (G) increased accessibility of data in a user friendly visual interface for public education and outreach; and
+
+(2) to contribute to an ocean health index that incorporates marine mammal health data.
+
+**(c) Requirements** The Health MAP shall—
+
+(1) integrate in situ, remote, and other marine mammal health, stranding, and mortality data, including visualizations and metadata, collected by marine mammal stranding networks, Federal, State, local, and Tribal governments, private partners, and academia; and
+
+(2) be designed—
+
+  (A) to enhance data and information availability, including data sharing among stranding network participants, scientists, and the public within and across stranding network regions;
+
+  (B) to facilitate data and information access across scientific disciplines, scientists, and managers;
+
+  (C) to facilitate public access to national and regional marine mammal health, stranding, entanglement, and mortality data, including visualizations and metadata, through the national and regional data portals of the Observation System; and
+
+  (D) in collaboration with, and with input from, States and stranding network participants.
+
+**(d) Procedures and guidelines** The Secretary shall establish and implement policies, protocols, and standards for—
+
+(1) reporting marine mammal health data collected by stranding networks consistent with subsections (c) and (d) of [section 1421a of this title](./chapter-031-marine-mammal-protection.md#section-1421a);
+
+(2) promptly transmitting health data from the stranding networks and other appropriate data providers to the Health MAP;
+
+(3) disseminating and making publicly available data on marine mammal health, stranding, entanglement, and mortality data in a timely and sustained manner; and
+
+(4) integrating additional marine mammal health, stranding, or other relevant data as the Secretary determines appropriate.
+
+**(e) Consultation** The Administrator of the National Oceanic and Atmospheric Administration shall maintain and update the Health MAP in consultation with the Secretary of the Interior and the Marine Mammal Commission.
+
+**(f) Acceptance of donations**
+
+(1) **In general** — For the purposes of carrying out this section, the Secretary may solicit, accept, receive, hold, administer, and use gifts, devises, and bequests without any further approval or administrative action.
+
+(2) **Monetary donations** — A monetary gift, devise, or bequest accepted by the Secretary under paragraph (1) shall be credited as discretionary offsetting collections to the currently applicable appropriation, account, or fund of the Department of Commerce and shall be made available for such purposes only to the extent and in the amounts provided in advance in appropriations Acts.
+
+
+<a id="section-1421f-3"></a>
+## § 1421f–3. Reports to Congress
+**(a) Definition of appropriate committees of Congress** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Commerce, Science, and Transportation of the Senate;
+
+(2) the Committee on Environment and Public Works of the Senate;
+
+(3) the Committee on Natural Resources of the House of Representatives; and
+
+(4) the Committee on Science, Space, and Technology of the House of Representatives.
+
+**(b) Health MAP status report**
+
+(1) **In general** — Not later than 2 years after December 23, 2022, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Marine Mammal Commission, the Secretary of the Interior, and the National Ocean Research Leadership Council, shall submit to the appropriate committees of Congress a report describing the status of the Health MAP.
+
+(2) **Requirements** — The report under paragraph (1) shall include—
+
+  (A) a detailed evaluation of the data made publicly available through the Health MAP;
+
+  (B) a detailed list of any gaps in data collected pursuant to the Health MAP, a description of the reasons for those gaps, and recommended actions to close those gaps;
+
+  (C) an analysis of the effectiveness of using the website of the Observation System as the platform to collect, organize, visualize, archive, and disseminate marine mammal stranding and health data;
+
+  (D) a list of publications, presentations, or other relevant work product resulting from, or produced in collaboration with, the Health MAP;
+
+  (E) a description of emerging marine mammal health concerns and the applicability of those concerns to human health;
+
+  (F) an analysis of the feasibility of the Observation System being used as an alert system during stranding events, entanglement events, and unusual mortality events for the stranding network, Observation System partners, Health MAP partners, Federal and State agencies, and local and Tribal governments;
+
+  (G) an evaluation of the use of Health MAP data to predict broader ecosystem events and changes that may impact marine mammal or human health and specific examples of proven or potential uses of Observation System data for those purposes; and
+
+  (H) recommendations for the Health MAP with respect to—
+
+    (i) filling any identified data gaps;
+
+    (ii) standards that could be used to improve data quality, accessibility, transmission, interoperability, and sharing;
+
+    (iii) any other strategies that would contribute to the effectiveness and usefulness of the Health MAP; and
+
+    (iv) the funding levels needed to maintain and improve the Health MAP.
+
+**(c) Data gap analysis**
+
+(1) **In general** — Not later than 5 years after the date on which the report required under subsection (b)(1) is submitted, and every 10 years thereafter, the Administrator of the National Oceanic and Atmospheric Administration, in consultation with the Marine Mammal Commission and the Director of the United States Fish and Wildlife Service, shall—
+
+  (A) make publicly available a report on the data gap analysis described in paragraph (2); and
+
+  (B) provide a briefing to the appropriate committees of Congress concerning that data gap analysis.
+
+(2) **Requirements** — The data gap analysis under paragraph (1) shall include—
+
+  (A) an overview of existing participants within a marine mammal stranding network;
+
+  (B) an identification of coverage needs and participant gaps within a network;
+
+  (C) an identification of data and reporting gaps from members of a network; and
+
+  (D) an analysis of how stranding and health data are shared and made available to scientists, academics, State, local, and Tribal governments, and the public.
+
+**(d) Marine mammal response capabilities in the Arctic**
+
+(1) **In general** — Not later than 1 year after December 23, 2022, the Administrator of the National Oceanic and Atmospheric Administration, the Director of the United States Fish and Wildlife Service, and the Director of the United States Geologic Survey, in consultation with the Marine Mammal Commission, shall—
+
+  (A) make publicly available a report describing the response capabilities for sick and injured marine mammals in the Arctic regions of the United States; and
+
+  (B) provide a briefing to the appropriate committees of Congress on that report.
+
+(2) **Arctic** — The term “Arctic” has the meaning given the term in [section 4111 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section4111&num=0&edition=prelim).
+
+(3) **Requirements** — The report under paragraph (1) shall include—
+
+  (A) a description, developed in consultation with the Fish and Wildlife Service of the Department of the Interior, of all marine mammal stranding agreements in place for the Arctic region of the United States, including species covered, response capabilities, facilities and equipment, and data collection and analysis capabilities;
+
+  (B) a list of State and local government agencies that have personnel trained to respond to marine mammal strandings in the Arctic region of the United States;
+
+  (C) an assessment of potential response and data collection partners and sources of local information and knowledge, including Alaska Native people and villages;
+
+  (D) an analysis of spatial and temporal trends in marine mammal strandings and unusual mortality events that are correlated with changing environmental conditions in the Arctic region of the United States;
+
+  (E) a description of training and other resource needs to meet emerging response requirements in the Arctic region of the United States;
+
+  (F) an analysis of oiled marine mammal response and rehabilitation capabilities in the Arctic region of the United States, including personnel, equipment, facilities, training, and husbandry capabilities, and an assessment of factors that affect response and rehabilitation success rates; and
+
+  (G) recommendations to address future stranding response needs for marine mammals in the Arctic region of the United States.
 
 
 <a id="section-1421g"></a>
@@ -3584,15 +4255,21 @@ A prior section 408 of Pub. L. 92–522 was renumbered section 409, and is class
 
 There is authorized to be appropriated—
 
-(1) to the Secretary for carrying out this subchapter (other than sections 1421d and 1421f of this title) $250,000 for each of fiscal years 1993 and 1994;
+(1) to the Secretary for carrying out this subchapter (other than sections 1421d and 1421f of this title) $250,000 for each of fiscal years 2023 through 2028;
 
-(2) to the Secretary for carrying out [section 1421f of this title](./chapter-031-marine-mammal-protection.md#section-1421f), $250,000 for each of fiscal years 1993 and 1994; and
+(2) to the Secretary for carrying out [section 1421f of this title](./chapter-031-marine-mammal-protection.md#section-1421f), $250,000 for each of fiscal years 2023 through 2028; and
 
-(3) to the Fund, $500,000 for fiscal year 1993.
+(3) to the Fund, $500,000 for for 11 So in original. each of fiscal years 2023 through 2028.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (1). Pub. L. 117–263, § 10409(1), substituted “2023 through 2028;” for “1993 and 1994;”.
+
+Par. (2). Pub. L. 117–263, § 10409(2), substituted “2023 through 2028;” for “1993 and 1994;”.
+
+Par. (3). Pub. L. 117–263, § 10409(3), substituted “for each of fiscal years 2023 through 2028.” for “fiscal year 1993.”
+
 1994—Par. (1). Pub. L. 103–238, § 24(c)(5), made technical amendment to references to sections 1421d and 1421f of this title to reflect renumbering of corresponding sections of original act.
 
 Par. (2). Pub. L. 103–238, § 24(c)(6), made technical amendment to reference to [section 1421f of this title](./chapter-031-marine-mammal-protection.md#section-1421f) to reflect renumbering of corresponding section of original act.
@@ -3603,11 +4280,21 @@ Par. (2). Pub. L. 103–238, § 24(c)(6), made technical amendment to reference 
 
 In this subchapter, the following definitions apply:
 
-(1) The term “Fund” means the Marine Mammal Unusual Mortality Event Fund established by [section 1421d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421d/a&num=0&edition=prelim).
+(1) The term “entangle” or “entanglement” means an event in the wild in which a living or dead marine mammal has gear, rope, line, net, or other material wrapped around or attached to the marine mammal and is—
 
-(2) The term “Office” means the Office of Protected Resources, in the National Marine Fisheries Service.
+  (A) on lands under the jurisdiction of the United States, including beaches and shorelines; or
 
-(3) The term “stranding” means an event in the wild in which—
+  (B) in waters under the jurisdiction of the United States, including any navigable waters.
+
+(2) Except as used in [section 1421f–1 of this title](./chapter-031-marine-mammal-protection.md#section-1421f-1), the term “Fund” means the Marine Mammal Unusual Mortality Event Fund established by [section 1421d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421d/a&num=0&edition=prelim).
+
+(3) The term “Health MAP” means the Marine Mammal Health Monitoring and Analysis Platform established under [section 1421f–2(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421f–2/a/1&num=0&edition=prelim).
+
+(4) The term “Observation System” means the National Integrated Coastal and Ocean Observation System established under [section 3603 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3603&num=0&edition=prelim).
+
+(5) The term “Office” means the Office of Protected Resources, in the National Marine Fisheries Service.
+
+(6) The term “stranding” means an event in the wild in which—
 
   (A) a marine mammal is dead and is—
 
@@ -3623,11 +4310,11 @@ In this subchapter, the following definitions apply:
 
     (iii) in the waters under the jurisdiction of the United States (including any navigable waters), but is unable to return to its natural habitat under its own power or without assistance.
 
-(4) The term “stranding network participant” means a person who is authorized by an agreement under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) to take marine mammals as described in [section 1379(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/h/1&num=0&edition=prelim) in response to a stranding.
+(7) The term “stranding network participant” means a person who is authorized by an agreement under [section 1382(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1382/c&num=0&edition=prelim) to take marine mammals as described in [section 1379(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1379/h/1&num=0&edition=prelim) in response to a stranding.
 
-(5) The term “Tissue Bank” means the National Marine Tissue Bank provided for under [section 1421f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421f/a&num=0&edition=prelim).
+(8) The term “Tissue Bank” means the National Marine Tissue Bank provided for under [section 1421f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421f/a&num=0&edition=prelim).
 
-(6) The term “unusual mortality event” means a stranding that—
+(9) The term “unusual mortality event” means a stranding that—
 
   (A) is unexpected;
 
@@ -3638,6 +4325,14 @@ In this subchapter, the following definitions apply:
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (1). Pub. L. 117–263, § 10410(2), added par. (1). Former par. (1) redesignated (2).
+
+Par. (2). Pub. L. 117–263, § 10410(3), substituted “Except as used in [section 1421f–1 of this title](./chapter-031-marine-mammal-protection.md#section-1421f-1), the term” for “The term”.
+
+Pub. L. 117–263, § 10410(1), redesignated par. (1) as (2). Former par. (2) redesignated (5).
+
+Pars. (3) to (9). Pub. L. 117–263, § 10410(1), (4), added pars. (3) and (4) and redesignated former pars. (2) to (6) as (5) to (9), respectively.
+
 1994—Par. (1). Pub. L. 103–238, § 24(c)(7), made technical amendment to reference to [section 1421d(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421d/a&num=0&edition=prelim) to reflect renumbering of corresponding section of original act.
 
 Par. (5). Pub. L. 103–238, § 24(c)(8), made technical amendment to reference to [section 1421f(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1421f/a&num=0&edition=prelim) to reflect renumbering of corresponding section of original act.

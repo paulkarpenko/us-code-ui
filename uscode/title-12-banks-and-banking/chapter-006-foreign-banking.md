@@ -242,7 +242,7 @@ Each corporation organized as provided in sections 611 to 614 of this title shal
 #### References in Text
 Each corporation organized as provided in sections 611 to 614 of this title, referred to in first par., was in the original “Each corporation so organized”.
 
-This act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 This subchapter, referred to in subsecs. (a) and (c), was in the original “this section”, meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§ 611 et seq.).
 
@@ -301,7 +301,7 @@ No corporation shall be organized under the provisions of this subchapter with a
 #### References in Text
 This subchapter, referred to in text, was in the original “this section”, meaning section 25A of act Dec. 23, 1913, which is classified to this subchapter (§ 611 et seq.).
 
-This Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 Subchapter I of this chapter, referred to in text, was in the original “section 25 of the Federal Reserve Act as amended” and “section 25”, which is classified to subchapter I (§ 601 et seq.) of this chapter.
 
@@ -333,7 +333,7 @@ The International Banking Act of 1978, referred to in text, is Pub. L. 95–369,
 
 Subchapter I of this chapter, referred to in text, was in the original “section 25”, meaning section 25 of the Federal Reserve Act, which is classified to subchapter I (§ 601 et seq.) of this chapter.
 
-The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
 #### Codification
 Section is comprised of par. 11 (undesignated) of section 25A of act Dec. 23, 1913, which comprises this subchapter. For complete classification of section 25A of this Act, see Codification note set out under [section 611 of this title](./chapter-006-foreign-banking.md#section-611).
@@ -553,7 +553,7 @@ Notwithstanding any other provision of law, all suits of a civil nature at commo
 ### Statutory Notes
 
 #### References in Text
-The Gold Reserve Act of 1934, as amended, referred to in text, is act Jan. 30, 1934, ch. 6, 48 Stat. 337, as amended, which enacted sections 315b, 405b, 408a, 408b, 440 to 446, 754a, 754b, 822a, 822b, and 824 of former Title 31, Money and Finance, and amended sections 314, 316, 733, 734, 752, 753, 767, 771, and 821 of former Title 31 and sections 411, 412, 413, 414, 415, 417, and 467 of this title. Title 31 was revised, codified, and enacted into law by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877. For disposition of sections of former Title 31 into revised Title 31, see Table preceding [section 101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section101&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Gold Reserve Act of 1934, as amended, referred to in text, is act Jan. 30, 1934, ch. 6, 48 Stat. 337, which enacted sections 315b, 405b, 408a, 408b, 440 to 446, 754a, 754b, 822a, 822b, and 824 of former Title 31, Money and Finance, and amended sections 314, 316, 733, 734, 752, 753, 767, 771, and 821 of former Title 31 and sections 411, 412, 413, 414, 415, 417, and 467 of this title. Title 31 was revised, codified, and enacted into law by Pub. L. 97–258, § 1, Sept. 13, 1982, 96 Stat. 877. For disposition of sections of former Title 31 into revised Title 31, see Table preceding [section 101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section101&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 The Silver Purchase Act of 1934, as amended, referred to in text, is act June 19, 1934, ch. 674, 48 Stat. 1178, which was classified to sections 311a, 316a, 316b, 405a, 448 to 448e, 734a, and 734b of former Title 31, Money and Finance, and was repealed by Pub. L. 88–36, title I, § 1, June 4, 1963, 77 Stat. 54. For complete classification of this Act to the Code, see Tables.
 

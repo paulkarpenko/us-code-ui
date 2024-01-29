@@ -151,9 +151,9 @@ There are authorized to be appropriated such sums as may be necessary for each o
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Servicemen’s Readjustment Act of 1944, referred to in subsec. (a), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), Veterans’ Benefits.
+The Servicemen’s Readjustment Act of 1944, referred to in subsec. (a), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), Veterans’ Benefits.
 
 #### Codification
 Section was enacted as part of the Housing and Urban Development Act of 1965, and not as part of the National Housing Act which comprises this chapter.
@@ -381,7 +381,7 @@ The General Insurance Fund, referred to in text, was established by [section 173
 
 Sections 302 and 306 of the Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (a)(2), are sections 302 and 306, respectively, of act Oct. 17, 1940, ch. 888, 54 Stat. 1178. That Act was amended generally and renamed the “Servicemembers Civil Relief Act” by Pub. L. 108–189, § 1, Dec. 19, 2003, 117 Stat. 2835. As so amended, provisions of the Servicemembers Civil Relief Act that are similar to those contained in former sections 302 and 306 of act Oct. 17, 1940, are now contained in sections 3953 and 3959 of Title 50, War and National Defense.
 
-The Housing Amendments of 1955, referred to in subsec. (f)(2), is act Aug. 11, 1955, ch. 783, 69 Stat. 635, as amended. For complete classification of this Act to the Code, see Short Title of 1955 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing Amendments of 1955, referred to in subsec. (f)(2), is act Aug. 11, 1955, ch. 783, 69 Stat. 635. For complete classification of this Act to the Code, see Short Title of 1955 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 In subsec. (g), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -592,13 +592,13 @@ The Secretary is further authorized to insure or to make commitments to insure u
 ### Statutory Notes
 
 #### References in Text
-Public Law 849, Seventy-sixth Congress, as amended, referred to in text, is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, as amended, known as the “Lanham Public War Housing Act”, which is classified generally to subchapters II to VII (§§ 1521 et seq., 1531 et seq., 1541 et seq., 1561 et seq., 1571 et seq., and 1581 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
+Public Law 849, Seventy-sixth Congress, as amended, referred to in text, is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, known as the “Lanham Public War Housing Act”, which is classified generally to subchapters II to VII (§§ 1521 et seq., 1531 et seq., 1541 et seq., 1561 et seq., 1571 et seq., and 1581 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
 
 Public Law 781, Seventy-sixth Congress, as amended, referred to in text, is the Second Supplemental National Defense Appropriation Act, 1941, act Sept. 9, 1940, ch. 717, 54 Stat. 872. Section 201 thereof appropriated $100,000,000 to the President for allocation to the former “War” Department, and to the Navy Department, for the construction of housing necessary to the national defense program. This provision was not classified to the code.
 
 Public Laws 9, 73, or 353, Seventy-seventh Congress, as amended, referred to in text, refer to the following acts, respectively: Public Law 9, Urgent Deficiency Appropriation Act, 1941, act Mar. 1, 1941, ch. 9, 55 Stat. 14; Public Law 73, Additional Urgent Deficiency Appropriation Act, 1941, act May 24, 1941, ch. 132, 55 Stat. 197; and Public Law 353, Third Supplemental National Defense Appropriation Act, 1942, act Dec. 17, 1941, ch. 591, 55 Stat. 810. These three acts appropriated a total of $320,000,000 to the President for the purpose of providing housing necessary because of national defense activities and conditions arising out of World War II. These provisions were not classified to the code, although all three acts are cited in a “Prior Additional Appropriations” note under [section 1523 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1523&num=0&edition=prelim), The Public Health and Welfare.
 
-Public Law 671, Seventy-sixth Congress, referred to in text, is act June 28, 1940, ch. 440, 54 Stat. 676, as amended. Provisions of the Act relating to housing are contained in title II, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Tables.
+Public Law 671, Seventy-sixth Congress, referred to in text, is act June 28, 1940, ch. 440, 54 Stat. 676. Provisions of the Act relating to housing are contained in title II, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 The Emergency Relief Appropriation Act of 1935, referred to in text, is Joint Res. Apr. 8, 1935, ch. 48, 49 Stat. 115. It was a temporary legislation, and was formerly set out in a note in former chapter 16 of Title 15, Commerce and Trade. See notes under sections 721 to 728 of that title.
 
@@ -1535,11 +1535,11 @@ On and after December 19, 1963, necessary expenses of inspections and of providi
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 which was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, The Public Health and Welfare, was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make grants or loans under such chapter after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413. Title I of the Housing Act of 1949 which was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, The Public Health and Welfare, was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make grants or loans under such chapter after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 The Housing Act of 1950, referred to in text, is act Apr. 20, 1950, ch. 94, 64 Stat. 48. Title IV of the Act was classified generally to this subchapter and was repealed by Pub. L. 99–498, title VII, § 702, Oct. 17, 1986, 100 Stat. 1545. For complete classification of this Act to the Code, see Short Title of 1950 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Housing Amendments of 1955, referred to in text, is act Aug. 11, 1955, ch. 783, 69 Stat. 645, as amended. Title II of the Act was classified generally to chapter 8B (§ 1491 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated authority to make grants or loans under such title II after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing Amendments of 1955, referred to in text, is act Aug. 11, 1955, ch. 783, 69 Stat. 645. Title II of the Act was classified generally to chapter 8B (§ 1491 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated authority to make grants or loans under such title II after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 “Chapter 35 of title 40” substituted in text for “title VII of the Housing Act of 1954, as amended” and for “title VII of the Housing Act of 1954” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -2167,7 +2167,7 @@ This chapter may be cited as the “National Housing Act.”
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 #### Short Title of 2019 Amendment
 Pub. L. 116–33, § 1, July 25, 2019, 133 Stat. 1038, provided that: “This Act [amending [section 1721 of this title](./chapter-013-national-housing.md#section-1721) and [section 3709 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3709&num=0&edition=prelim), Veterans’ Benefits, and enacting provisions set out as a note under [section 1721 of this title](./chapter-013-national-housing.md#section-1721)] may be cited as the ‘Protecting Affordable Mortgages for Veterans Act of 2019’.”
@@ -2560,17 +2560,17 @@ There is established as of June 30, 1954, a revolving fund, and the Secretary of
 ### Statutory Notes
 
 #### References in Text
-The Lanham Act, as amended, referred to in cls. (1), (6), and (7), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, as amended, known as the Lanham Public War Housing Act. Title I of the Lanham Act is classified generally to subchapter II (§ 1521 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. Titles II and V of the Lanham Act were classified to subchapters III (§ 1531 et seq.) and VI (§ 1571 et seq.), respectively, of chapter 9 of Title 42, and were omitted from the Code. For further details, see References in Text note set out under [section 1522 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1522&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
+The Lanham Act, as amended, referred to in cls. (1), (6), and (7), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, known as the Lanham Public War Housing Act. Title I of the Lanham Act is classified generally to subchapter II (§ 1521 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. Titles II and V of the Lanham Act were classified to subchapters III (§ 1531 et seq.) and VI (§ 1571 et seq.), respectively, of chapter 9 of Title 42, and were omitted from the Code. For further details, see References in Text note set out under [section 1522 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1522&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
 
-The Defense Housing and Community Facilities and Services Act, as amended, referred to in cls. (1) and (6), is act Sept. 1, 1951, ch. 378, 65 Stat. 293, as amended. Title III of the Act is classified generally to subchapter IX (§ 1592 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
+The Defense Housing and Community Facilities and Services Act, as amended, referred to in cls. (1) and (6), is act Sept. 1, 1951, ch. 378, 65 Stat. 293. Title III of the Act is classified generally to subchapter IX (§ 1592 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Short Title of 1951 Amendment note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
 
 The War Mobilization and Reconversion Act of 1944, referred to in cl. (2), is act Oct. 3, 1944, ch. 480, 58 Stat. 785, which was classified to section 1651 et seq. of the former Appendix to Title 50, War and National Defense, and which has been omitted from the Code. Title V of the War Mobilization and Reconversion Act of 1944 was classified to section 1671 of the former Appendix to Title 50. For complete classification of this Act to the Code, see Tables.
 
-Act of October 13, 1949, referred to in cl. (2), is act Oct. 13, 1949, ch. 685, 63 Stat. 841, as amended, which was classified generally to subchapter I (§ 451 et seq.) of chapter 9 of former Title 40, Public Buildings, Property, and Works. Sections 1–5, 7, and 8 of the Act were repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 6 of the Act was repealed by act Aug. 2, 1954, ch. 649, title VIII, § 802(b), 68 Stat. 642. See section 1701o of this title.
+Act of October 13, 1949, referred to in cl. (2), is act Oct. 13, 1949, ch. 685, 63 Stat. 841, which was classified generally to subchapter I (§ 451 et seq.) of chapter 9 of former Title 40, Public Buildings, Property, and Works. Sections 1–5, 7, and 8 of the Act were repealed by Pub. L. 107–217, § 6(b), Aug. 21, 2002, 116 Stat. 1304. Section 6 of the Act was repealed by act Aug. 2, 1954, ch. 649, title VIII, § 802(b), 68 Stat. 642. See section 1701o of this title.
 
 Reorganization Plan No. 23 of 1950, referred to in cl. (3) and in the last proviso, is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Alaska Housing Act, as amended, referred to in cl. (3) and in the third proviso, is act Apr. 23, 1949, ch. 89, 63 Stat. 57, as amended, which was classified principally to sections 484 to 484d of Title 48, Territories and Insular Possessions and was omitted from the Code, except for section 2(a) of the Act, which added section 214 to the National Housing Act and which is classified to [section 1715d of this title](./chapter-013-national-housing.md#section-1715d). For complete classification of this Act to the Code, see Tables.
+The Alaska Housing Act, as amended, referred to in cl. (3) and in the third proviso, is act Apr. 23, 1949, ch. 89, 63 Stat. 57, which was classified principally to sections 484 to 484d of Title 48, Territories and Insular Possessions and was omitted from the Code, except for section 2(a) of the Act, which added section 214 to the National Housing Act and which is classified to [section 1715d of this title](./chapter-013-national-housing.md#section-1715d). For complete classification of this Act to the Code, see Tables.
 
 Act June 29, 1936, 49 Stat. 2035, referred to in cl. (5), which related to resettlement or rural rehabilitation projects, and which was classified to sections 431 to 434 of former Title 40, Public Buildings, Property, and Works, was repealed by act Aug. 14, 1946, ch. 964, § 2(a)(1), 60 Stat. 1062. See chapter 50 (§ 1921 et seq.) of Title 7, Agriculture.
 
@@ -2639,7 +2639,7 @@ The Secretary shall transfer all assets and liabilities of the fund established 
 #### References in Text
 Section 717 of the Housing and Urban Development Act of 1970, as amended ([42 U.S.C. 4518](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4518&num=0&edition=prelim)), referred to in text, was repealed by Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983, 97 Stat. 1239, but remaining in effect until completion of the transfer required in title I of the Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984.
 
-The Independent Offices Appropriation Act, 1955, as amended, referred to in text, is act June 24, 1954, ch. 359, 68 Stat. 272, as amended. Provisions of title II of this Act relating to the establishment of the revolving fund (liquidating programs) are classified to [section 1701g–5 of this title](./chapter-013-national-housing.md#section-1701g-5). For complete classification of this Act to the Code, see Tables.
+The Independent Offices Appropriation Act, 1955, as amended, referred to in text, is act June 24, 1954, ch. 359, 68 Stat. 272. Provisions of title II of this Act relating to the establishment of the revolving fund (liquidating programs) are classified to [section 1701g–5 of this title](./chapter-013-national-housing.md#section-1701g-5). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984, and not as part of the National Housing Act which comprises this chapter.
@@ -2659,7 +2659,7 @@ Section was enacted as part of the Housing Act of 1956, and not as part of the N
 1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator”.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1709b"></a>
@@ -2686,11 +2686,11 @@ Section 1701i–1, act Sept. 1, 1951, ch. 378, title VI, § 615, 65 Stat. 317, i
 ### Statutory Notes
 
 #### References in Text
-The Housing and Urban Development Act of 1968, referred to in subsec. (a), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476, as amended. Title IV of the Housing and Urban Development Act, which was classified to chapter 48 (§ 3901 et seq.) of Title 42, The Public Health and Welfare, was repealed, with certain exceptions which were omitted from the Code, by Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983, 97 Stat. 1239. Sections 403 and 407 of the Housing and Urban Development Act of 1968 were classified to sections 3902 and 3906, respectively, of Title 42, and were repealed by section 474(e) of Pub. L. 98–181. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing and Urban Development Act of 1968, referred to in subsec. (a), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IV of the Housing and Urban Development Act, which was classified to chapter 48 (§ 3901 et seq.) of Title 42, The Public Health and Welfare, was repealed, with certain exceptions which were omitted from the Code, by Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983, 97 Stat. 1239. Sections 403 and 407 of the Housing and Urban Development Act of 1968 were classified to sections 3902 and 3906, respectively, of Title 42, and were repealed by section 474(e) of Pub. L. 98–181. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Housing and Urban Development Act of 1970, referred to in subsec. (a), is Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1770, as amended. Title VII of the Housing and Urban Development Act of 1970, known as the Urban Growth and New Community Development Act of 1970, is classified principally to chapter 59 (§ 4501 et seq.) of Title 42. Sections 713 and 717 of the Housing and Urban Development Act of 1970 were classified to sections 4514 and 4518, respectively, of Title 42, and were repealed by Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983, 97 Stat. 1239. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing and Urban Development Act of 1970, referred to in subsec. (a), is Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1770. Title VII of the Housing and Urban Development Act of 1970, known as the Urban Growth and New Community Development Act of 1970, is classified principally to chapter 59 (§ 4501 et seq.) of Title 42. Sections 713 and 717 of the Housing and Urban Development Act of 1970 were classified to sections 4514 and 4518, respectively, of Title 42, and were repealed by Pub. L. 98–181, title I [title IV, § 474(e)], Nov. 30, 1983, 97 Stat. 1239. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Independent Offices Appropriation Act, 1955, as amended, referred to in subsec. (a), is act June 24, 1954, ch. 359, 68 Stat. 272, as amended. Provisions of title II of this Act relating to the establishment of the revolving fund (liquidating programs) are classified to [section 1701g–5 of this title](./chapter-013-national-housing.md#section-1701g-5). For complete classification of this Act to the Code, see Tables.
+The Independent Offices Appropriation Act, 1955, referred to in subsec. (a), is act June 24, 1954, ch. 359, 68 Stat. 272. Provisions of title II of this Act relating to the establishment of the revolving fund (liquidating programs) are classified to [section 1701g–5 of this title](./chapter-013-national-housing.md#section-1701g-5). For complete classification of this Act to the Code, see Tables.
 
 The Department of Housing and Urban Development-Independent Agencies Appropriation Act, 1984, referred to in subsecs. (a), (c), and (d), is Pub. L. 98–45, July 12, 1983, 97 Stat. 219. Provisions of title I of this Act requiring the transfer of assets and liabilities to the revolving fund (liquidating programs) are classified to [section 1701g–5a of this title](./chapter-013-national-housing.md#section-1701g-5a). For complete classification of this Act to the Code, see Tables.
 
@@ -2710,7 +2710,7 @@ Section 289(c) of the Cranston-Gonzalez National Affordable Housing Act (Pub. L.
 
 [Section 1452b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1452b&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 101–625, title II, § 289(b), Nov. 28, 1990, 104 Stat. 4128.
 
-The Independent Offices Appropriation Act, 1955, as amended, referred to in text, is act June 24, 1954, ch. 359, 68 Stat. 272, as amended. Provisions of title II of this Act relating to the establishment of the revolving fund (liquidating programs) are classified to [section 1701g–5 of this title](./chapter-013-national-housing.md#section-1701g-5). For complete classification of this Act to the Code, see Tables.
+The Independent Offices Appropriation Act, 1955, as amended, referred to in text, is act June 24, 1954, ch. 359, 68 Stat. 272. Provisions of title II of this Act relating to the establishment of the revolving fund (liquidating programs) are classified to [section 1701g–5 of this title](./chapter-013-national-housing.md#section-1701g-5). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1992, and not as part of the National Housing Act which comprises this chapter.
@@ -2724,7 +2724,7 @@ The Secretary of Housing and Urban Development is authorized to establish such a
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, known as the Housing Act of 1949, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+This Act, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, known as the Housing Act of 1949, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing Act of 1949, and not as part of the National Housing Act which comprises this chapter.
@@ -2739,7 +2739,7 @@ Section was enacted as part of the Housing Act of 1949, and not as part of the N
 1954—Act Aug. 2, 1954, permitted heads of constituent agencies of the Housing and Home Finance Agency to establish advisory committees, inserted provisions relating to inapplicability of the conflict-of-interest statutes with respect to committee members serving without compensation, and inserted provisions relating to payment of expenses.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 10486. Advisory Committee on Government Housing Policies and Programs
 Ex. Ord. No. 10486, Sept. 12, 1953, 18 F.R. 5561, provided:
@@ -2924,7 +2924,7 @@ Pub. L. 102–550, title V, § 514, Oct. 28, 1992, 106 Stat. 3789, directed Secr
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b)(1), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 #### Codification
 Section was enacted as part of the Housing and Community Development Act of 1974, and not as part of the National Housing Act which comprises this chapter.
@@ -3046,7 +3046,7 @@ The right to redeem provided for by [section 2410(c) of title 28](https://uscode
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, as amended, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, as amended, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing Act of 1950, and not as part of the National Housing Act which comprises this chapter.
@@ -3072,7 +3072,7 @@ It is the intent of Congress that no sale of a dwelling on which a mortgage is i
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, as amended, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, as amended, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing Act of 1950, and not as part of the National Housing Act which comprises this chapter.
@@ -3416,6 +3416,12 @@ The Secretary shall not reject an application on technical grounds without givin
 
 (8) **Use of project reserves** — Amounts for project reserves for a project assisted under this section may be used for costs, subject to reasonable limitations as the Secretary determines appropriate, for reducing the number of dwelling units in the project. Such use shall be subject to the approval of the Secretary to ensure that the use is designed to retrofit units that are currently obsolete or unmarketable.
 
+(9) **Carbon monoxide alarms** — Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
+
+  (A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+
+  (B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.
+
 **(k) Definitions**
 
 (1) The term “elderly person” means a household composed of one or more persons at least one of whom is 62 years of age or more at the time of initial occupancy.
@@ -3469,26 +3475,46 @@ The Secretary shall not reject an application on technical grounds without givin
 ### Statutory Notes
 
 #### Amendment of Subsection (j)
-Pub. L. 116–260, div. Q, title I, § 101(c), (h), Dec. 27, 2020, 134 Stat. 2163, 2165, provided that, effective 2 years after Dec. 27, 2020, subsection (j) of this section is amended by adding at the end the following:
+Pub. L. 117–328, div. AA, title VI, § 601(b), (h), Dec. 29, 2022, 136 Stat. 5544, 5548, provided that, effective two years after Dec. 29, 2022, subsection (j) of this section is amended by adding at the end the following:
 
-“(9) Carbon monoxide alarms
+(10) Qualifying smoke alarms
 
-“Each owner of a dwelling unit assisted under this section shall ensure that carbon monoxide alarms or detectors are installed in the dwelling unit in a manner that meets or exceeds—
+(A) In general
 
-“(A) the standards described in chapters 9 and 11 of the 2018 publication of the International Fire Code, as published by the International Code Council; or
+Each owner of a dwelling unit assisted under this section shall ensure that qualifying smoke alarms are installed in accordance with the requirements of applicable codes and standards and the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
 
-“(B) any other standards as may be adopted by the Secretary, including any relevant updates to the International Fire Code, through a notice published in the Federal Register.”
+(B) Definitions
 
-See 2020 Amendment note below.
+For purposes of this paragraph, the following definitions shall apply:
+
+(i) Smoke alarm defined
+
+The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+(ii) Qualifying smoke alarm defined
+
+The term “qualifying smoke alarm” means a smoke alarm that—
+
+(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+(aa)(AA) is hardwired; or
+
+(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
+See 2022 Amendment note below.
 
 #### References in Text
-This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+This Act, referred to in subsec. (g)(1), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, known as the Housing Act of 1959. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 The Housing and Community Development Act of 1992, referred to in subsecs. (i)(1) and (j)(7), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672. Subtitle C of title VI of the Act is classified generally to subchapter I (§ 13601 et seq.) of chapter 135 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
-The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
 
 #### Codification
 “Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (j)(5)(A) for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act)” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
@@ -3496,6 +3522,8 @@ The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90
 Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (j)(10). Pub. L. 117–328 added par. (10).
+
 2020—Subsec. (j)(9). Pub. L. 116–260 added par. (9).
 
 2014—Subsec. (f)(2)(A). Pub. L. 113–76, § 241(a)(1), in introductory provisions, substituted “The Secretary shall establish procedures to delegate the award, review and processing of projects, selected by the Secretary in a national competition, to a State or local housing agency that—” for “In issuing a capital advance under this subsection for any project for which financing for the purposes described in the last two sentences of subsection (b) is provided by a combination of a capital advance under subsection (c)(1) and sources other than this section, within 30 days of award of the capital advance, the Secretary shall delegate review and processing of such projects to a State or local housing agency that—”.
@@ -3750,6 +3778,9 @@ Subsec. (c)(3). Pub. L. 87–70, § 201(a)(4), substituted “credited to the co
 
 Subsec. (e). Pub. L. 87–70, § 201(d), added subsec. (e).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. AA, title VI, § 601(h), Dec. 29, 2022, 136 Stat. 5548, provided that: “The amendments made by subsections (a) through (f) [amending this section and sections 1437a, 1437f, 1484 to 1486, 8013, and 12905 of Title 42, The Public Health and Welfare] shall take effect on the date that is 2 years after the date of enactment of this Act [Dec. 29, 2022].”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. Q, title I, § 101(h), Dec. 27, 2020, 134 Stat. 2165, provided that: “The amendments made by subsections (b) through (e) [amending this section and sections 1437a, 1437f, 8013, and 12905 of Title 42, The Public Health and Welfare] shall take effect on the date that is 2 years after the date of enactment of this Act [Dec. 27, 2020].”
 
@@ -3789,8 +3820,11 @@ Pub. L. 87–723, § 3(b), Sept. 28, 1962, 76 Stat. 670, provided that the amend
 #### Regulations
 Pub. L. 106–74, title V, § 502, Oct. 20, 1999, 113 Stat. 1101, provided that: “The Secretary of Housing and Urban Development shall issue any regulations to carry out this title [see Short Title of 1999 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701)] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
 
+#### Construction of 2022 Amendment
+Pub. L. 117–328, div. AA, title VI, § 601(i), Dec. 29, 2022, 136 Stat. 5548, provided that: “Nothing in the amendments made by this section [see Effective Date of 2022 Amendment note above] shall be construed to preempt or limit the applicability of any State or local law relating to the installation and maintenance of smoke alarms in housing that requires standards that are more stringent than the standards described in the amendments made by this section.”
+
 #### Construction of 2020 Amendment
-Nothing in amendment made by section 101(c) of Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a&num=0&edition=prelim), The Public Health and Welfare.
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Rental Assistance Contract Obligations
 Pub. L. 111–117, div. A, title II, Dec. 16, 2009, 123 Stat. 3088, as amended by Pub. L. 112–10, div. B, title XII, § 2256, Apr. 15, 2011, 125 Stat. 197, provided in part: “That amounts obligated for initial project rental assistance contracts from amounts appropriated in fiscal year 2003 and thereafter shall remain available for the purpose of paying such obligations incurred prior to the expiration of such amounts for a 10 year period following such expiration”.
@@ -4121,9 +4155,9 @@ Section was enacted as part of the Senior Citizens Housing Act of 1962, and not 
 #### References in Text
 The United States Housing Act of 1937, referred to in subsec. (d)(2), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) and Tables.
 
-The National Housing Act, referred to in subsec. (d)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsec. (d)(2), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (d)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 [Section 1701q of this title](./chapter-013-national-housing.md#section-1701q), referred to in subsec. (d)(2), was amended generally by Pub. L. 101–625, title VIII, § 801(a), Nov. 28, 1990, 104 Stat. 4297, and, as so amended, no longer contains a subsec. (d)(4) or a definition of the term “elderly or handicapped families”.
 
@@ -4192,7 +4226,7 @@ An application shall be eligible for assistance under the previous sentence only
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsecs. (g) and (l), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended which is classified principally to this chapter (§ 1701 et seq.). Title II of the National Housing Act is classified generally to subchapter II (§ 1707 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsecs. (g) and (l), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). Title II of the National Housing Act is classified generally to subchapter II (§ 1707 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Section 236 contracts, referred to in subsec. (m)(2), refer to contracts under [section 1715z–1 of this title](./chapter-013-national-housing.md#section-1715z-1).
 
@@ -4299,7 +4333,7 @@ The Congress affirms the national goal, as set forth in [section 1441 of title 4
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476, as amended, known as the Housing and Urban Development Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+This Act, referred to in text, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476, known as the Housing and Urban Development Act of 1968. For complete classification of this Act to the Code, see Short Title of 1968 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
@@ -4834,7 +4868,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 
       (III) section 18(a)(4)(D) ([42 U.S.C. 1437p(a)(4)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437p/a/4/D&num=0&edition=prelim));
 
-      (IV) section 23(c)(4) ([42 U.S.C. 1437u(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437u/c/4&num=0&edition=prelim));
+      (IV) section 23(c)(4) 11 See References in Text note below. ([42 U.S.C. 1437u(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437u/c/4&num=0&edition=prelim));
 
       (V) section 32(e)(4) ([42 U.S.C. 1437z–4(e)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437z–4/e/4&num=0&edition=prelim));
 
@@ -4854,7 +4888,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 
     (vii) sections 12872(b)(6), 12873(b)(7), 12874(c)(4), 12892(b)(6), and 12893(b)(6) of title 42;
 
-    (viii) section 11408(b)(1)(F)(iii) 11 See References in Text note below. of title 42;
+    (viii) section 11408(b)(1)(F)(iii) 1 of title 42;
 
     (ix) sections 202(3) 1 and 810(b)(2)(A) 1 of the Native American Housing and Self-Determination Act of 1996 ([25 U.S.C. 4132(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4132/3&num=0&edition=prelim), 4229(b)(2)(A));
 
@@ -4882,7 +4916,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 
       (II) section 18(a)(4)(D) ([42 U.S.C. 1437p(a)(4)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437p/a/4/D&num=0&edition=prelim));
 
-      (III) section 23(c)(4) ([42 U.S.C. 1437u(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437u/c/4&num=0&edition=prelim));
+      (III) section 23(c)(4) 1 ([42 U.S.C. 1437u(c)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437u/c/4&num=0&edition=prelim));
 
       (IV) section 32(e)(4) ([42 U.S.C. 1437z–4(e)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437z–4/e/4&num=0&edition=prelim));
 
@@ -4993,13 +5027,13 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(iv), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(iv), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
 
-The National Housing Act, referred to in subsecs. (a)(2), (d)(9)(K), and (g)(1)(B)(x), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of this chapter. Section 237 of the Act, which was formerly classified to [section 1715z–2 of this title](./chapter-013-national-housing.md#section-1715z-2), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(6), July 30, 2008, 122 Stat. 2835. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsecs. (a)(2), (d)(9)(K), and (g)(1)(B)(x), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of this chapter. Section 237 of the Act, which was formerly classified to [section 1715z–2 of this title](./chapter-013-national-housing.md#section-1715z-2), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(6), July 30, 2008, 122 Stat. 2835. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Section 152 of the Housing and Community Development Act of 1992, referred to in subsec. (a)(3), is section 152 of Pub. L. 102–550, which was set out as a note under [section 1437f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, § 550(f), Oct. 21, 1998, 112 Stat. 2610.
 
-The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+The Housing Act of 1949, referred to in subsec. (c)(4)(B), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 The Servicemembers Civil Relief Act, referred to in subsec. (c)(5)(A)(ii)(IV), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which was classified to section 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
@@ -5010,6 +5044,8 @@ Section 302(a)(4) of the American Homeownership and Economic Opportunity Act of 
 [Section 11408(b)(1)(F)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section11408/b/1/F/iii&num=0&edition=prelim), referred to in subsec. (g)(1)(B)(viii), (C)(vi), was redesignated [section 11408(b)(1)(J)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section11408/b/1/J/iii&num=0&edition=prelim) by Pub. L. 111–22, div. B., title IV, § 1401(2)(C)(i), May 20, 2009, 123 Stat. 1697.
 
 Sections 202(3) and 810(b)(2)(A) of the Native American Housing and Self-Determination Act of 1996, referred to in subsec. (g)(1)(B)(ix), (C)(vii), probably means sections 202(3) and 810(b)(2)(A) of Pub. L. 104–330, known as the Native American Housing Assistance and Self-Determination Act of 1996, which are classified to sections 4132(3) and 4229(b)(2)(A), respectively, of Title 25, Indians.
+
+Section 23(c)(4) of the United States Housing Act of 1937, referred to in subsec. (g)(1)(B)(ii)(IV), (C)(ii)(III), was classified to [section 1437u(c)(4) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437u/c/4&num=0&edition=prelim), The Public Health and Welfare, and was redesignated as section 23(d)(4) of that Act and then amended generally by Pub. L. 115–174, title III, § 306(a)(4), (6)(D), May 24, 2018, 132 Stat. 1340, 1341. As amended, [section 1437u(d)(4) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437u/d/4&num=0&edition=prelim) still relates to an employment requirement but no longer contains a provision for counseling.
 
 Subsection (g)(4) of the Department of Housing and Urban Development Act, referred to in subsec. (g)(2), probably means section 4(g)(4) of Pub. L. 89–174, known as the Department of Housing and Urban Development Act, which is classified to [section 3533(g)(4) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3533/g/4&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -5416,7 +5452,7 @@ The Secretary of Housing and Urban Development is authorized and directed to und
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in text, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq. of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+This title, referred to in text, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, which is classified generally to section 1701z–1 et seq. of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Urban Development Act of 1970, and not as part of the National Housing Act which comprises this chapter.
@@ -5471,7 +5507,7 @@ Pub. L. 101–625, title IX, § 951(b), Nov. 28, 1990, 104 Stat. 4417, directed 
 ### Statutory Notes
 
 #### References in Text
-This title, referred to in subsecs. (c), (d), and (f) following “under”, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, as amended, which is classified generally to section 1701z–1 et seq., of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+This title, referred to in subsecs. (c), (d), and (f) following “under”, is title V of the Housing and Urban Development Act of 1970, Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1784, which is classified generally to section 1701z–1 et seq., of this title. For complete classification of this Act to the Code, see Short Title of 1970 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 For effective date of [section 3204 of title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3204&num=0&edition=prelim) as provided in section 15(a) of the Postal Reorganization Act, referred to in subsec. (d), see notes preceding section 101 and under [section 3204 of Title 39](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title39-section3204&num=0&edition=prelim), Postal Service.
 
@@ -5703,9 +5739,9 @@ Section, act June 27, 1934, ch. 847, title II, § 228, as added Aug. 2, 1954, ch
 ### Statutory Notes
 
 #### References in Text
-The National Manufactured Housing Construction and Safety Standards Act of 1974, referred to in subsec. (a), is title VI of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 700, as amended, which is classified generally to chapter 70 (§ 5401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5401&num=0&edition=prelim) and Tables.
+The National Manufactured Housing Construction and Safety Standards Act of 1974, referred to in subsec. (a), is title VI of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 700, which is classified generally to chapter 70 (§ 5401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5401&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in subsec. (b)(7), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (b)(7), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 [Section 1706a of this title](./chapter-013-national-housing.md#section-1706a), referred to in subsec. (e), was repealed by act June 3, 1939, ch. 175, § 3, 53 Stat. 805, eff. July 1, 1939.
 
@@ -6262,7 +6298,7 @@ Pub. L. 95–557, title II, § 207, Oct. 31, 1978, 92 Stat. 2093, as amended by 
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsec. (a), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Urban Development Act of 1970, and not as part of the National Housing Act which comprises this chapter.
@@ -6320,7 +6356,7 @@ Section was enacted as part of the Housing and Urban Development Act of 1970, an
 ### Statutory Notes
 
 #### References in Text
-The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part C of title III of such act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim) and Tables.
+The Energy Policy and Conservation Act, referred to in subsecs. (c)(4) and (f), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part C of title III of such act is classified generally to part B (§ 6321 et seq.) of subchapter III of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Urban Development Act of 1970, and not as part of the National Housing Act which comprises this chapter.
@@ -6452,7 +6488,7 @@ Section 544 of Pub. L. 102–550 was transferred to [section 1715z–22a of this
 
   (B) to meet the housing needs of the borrowers that the single family mortgage insurance program under this subchapter is designed to serve.
 
-**(b) Advisory Board** There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of the Federal Advisory Committee Act.
+**(b) Advisory Board** There is created a Federal Housing Administration Advisory Board (“Board”) that shall review operation of the Federal Housing Administration, including the activities of the Mortgagee Review Board, and shall provide advice to the Federal Housing Commissioner with respect to the formulation of general policies of the Federal Housing Administration and such other matters as the Federal Housing Commissioner may deem appropriate. The Advisory Board shall, in all other respects, be subject to the provisions of chapter 10 of title 5.
 
 (1) The Advisory Board shall be composed of 15 members to be appointed from among individuals who have substantial expertise and broad experience in housing and mortgage lending of whom—
 
@@ -6488,7 +6524,7 @@ Section 544 of Pub. L. 102–550 was transferred to [section 1715z–22a of this
 
 (9) The Board shall meet in Washington, D.C., not less than twice annually, or more frequently if requested by the Federal Housing Commissioner or a majority of the members. The Board shall elect a chair, vice-chair and secretary and adopt methods of procedure. The Board may establish committees and subcommittees as needed.
 
-(10) Subject to the provisions of Section 7 of the Federal Advisory Committee Act, all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
+(10) Subject to the provisions of [section 1006 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1006&num=0&edition=prelim), all members of the Board may be compensated and shall be entitled to reimbursement from the Department for traveling expenses incurred in attendance at meetings of the Board.
 
 (11) The Board shall terminate on January 1, 1995.
 
@@ -6674,8 +6710,6 @@ Section 544 of Pub. L. 102–550 was transferred to [section 1715z–22a of this
 #### References in Text
 The Federal Credit Reform Act of 1990, referred to in subsec. (a)(1), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 [Section 3537b(c) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3537b/c&num=0&edition=prelim), referred to in subsec. (b)(5), was in the original “section 112(c) of the Department of Housing and Urban Development Reform Act of 1989”, meaning section 112 of Pub. L. 101–235, which does not contain a subsec. (c), but enacted section 13 of the Department of Housing and Urban Development Act, which was classified to [section 3537b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3537b&num=0&edition=prelim) prior to repeal by Pub. L. 104–65, § 11(b)(1), Dec. 19, 1995, 109 Stat. 701, and which contained a subsec. (c) relating to registration with the Secretary.
 
 The Equal Credit Opportunity Act, referred to in subsec. (c)(1), (3)(B), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
@@ -6694,6 +6728,10 @@ The S.A.F.E. Mortgage Licensing Act of 2008, referred to in subsec. (d)(2)(F), i
 [Section 1709(s) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1709/s&num=0&edition=prelim), which was transferred and redesignated as subsec. (e) of this section by Pub. L. 110–289, div. B, title I, § 2116(3), July 30, 2008, 122 Stat. 2832, was based on act June 27, 1934, ch. 847, title II, § 203(s), as added Pub. L. 101–235, title I, § 135, Dec. 15, 1989, 103 Stat. 2028; amended Pub. L. 108–386, § 8(b), Oct. 30, 2004, 118 Stat. 2231; Pub. L. 110–289, div. B, title I, § 2116(2), July 30, 2008, 122 Stat. 2832.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–286, § 4(a)(54)(A), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.” in introductory provisions.
+
+Subsec. (b)(10). Pub. L. 117–286, § 4(a)(54)(B), substituted “[section 1006 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1006&num=0&edition=prelim),” for “Section 7 of the Federal Advisory Committee Act,”.
+
 2010—Subsec. (f)(5). Pub. L. 111–203, § 373(1), added par. (5) and struck out former par. (5) which read as follows: “if the mortgagee is a national bank, or a subsidiary or affiliate of such a bank, the Comptroller of the Currency;”.
 
 Subsec. (f)(6). Pub. L. 111–203, § 373(2), inserted “and” at end.
@@ -7607,7 +7645,7 @@ Pub. L. 90–301, § 4, May 7, 1968, 82 Stat. 114, as amended by Pub. L. 90–56
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (a)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Titles I and II of the National Housing Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsec. (a)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the National Housing Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Veterans Housing Amendments Act of 1976, and not as part of the National Housing Act which comprises this chapter.
@@ -7647,11 +7685,11 @@ The Secretary of Housing and Urban Development, in establishing maximum loan-to-
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Amendments by sections 101, 102, and 103 of this act, referred to in text, refers to amendment of sections 1709(b), (i), 1715k(d)(3), and 1715m(b) of this title by Pub. L. 85–104. [Section 1709(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1709/i&num=0&edition=prelim) was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(1), July 30, 2008, 122 Stat. 2835. [Section 1715m of this title](./chapter-013-national-housing.md#section-1715m) was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(5), July 30, 2008, 122 Stat. 2835.
 
-The Servicemen’s Readjustment Act of 1944, as amended, referred to in text, is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), Veterans’ Benefits.
+The Servicemen’s Readjustment Act of 1944, as amended, referred to in text, is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), Veterans’ Benefits.
 
 #### Codification
 Section was enacted as part of the Housing Act of 1957, and not as part of the National Housing Act which comprises this chapter.
@@ -8059,11 +8097,11 @@ In determining the manner in which a project is to be managed or disposed of, th
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsecs. (a)(1), (b)(1), (e)(3)(A), and (f)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsecs. (a)(1), (b)(1), (e)(3)(A), and (f)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Section 183(c) of the Housing and Community Development Act of 1987, referred to in subsec. (b)(2)(D), is section 183(c) of Pub. L. 100–242, which was set out as a note under [section 1437f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by Pub. L. 105–276, title V, § 582(a)(2), Oct. 21, 1998, 112 Stat. 2643.
 
-Section 101 of the Housing and Urban Development Act of 1965, referred to in subsecs. (b)(2)(D)(i) and (e)(1)(D)(i)(VI), (VII), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, as amended, which enacted [section 1701s of this title](./chapter-013-national-housing.md#section-1701s) and amended sections 1451 and 1465 of Title 42.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in subsecs. (b)(2)(D)(i) and (e)(1)(D)(i)(VI), (VII), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted [section 1701s of this title](./chapter-013-national-housing.md#section-1701s) and amended sections 1451 and 1465 of Title 42.
 
 Section 23 of the United States Housing Act of 1937, referred to in subsecs. (b)(2)(D)(iii) and (e)(1)(D)(i)(V), was classified to [section 1421b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1421b&num=0&edition=prelim) and was omitted from the Code following the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653.
 
@@ -8071,7 +8109,7 @@ The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (c)(2)(E), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Subtitle B of title IV of the Act is classified principally to part A (§ 12871 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12701&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsec. (f)(9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (f)(9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 6 of the HUD Demonstration Act of 1993, referred to in subsec. (h)(1)(B)(i), is section 6 of Pub. L. 103–120, which is set out as a note under [section 1437f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437f&num=0&edition=prelim).
 
@@ -8670,7 +8708,7 @@ Pub. L. 102–550, title V, § 508(b), Oct. 28, 1992, 106 Stat. 3782, provided t
 ### Statutory Notes
 
 #### References in Text
-The Housing Amendments of 1955, referred to in subsec. (f)(2), is act Aug. 11, 1955, ch. 783, 69 Stat. 635, as amended. For complete classification of this Act to the Code, see Short Title of 1955 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing Amendments of 1955, referred to in subsec. (f)(2), is act Aug. 11, 1955, ch. 783, 69 Stat. 635. For complete classification of this Act to the Code, see Short Title of 1955 Amendments note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 This chapter, referred to in subsecs. (g) and (h), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
@@ -8982,7 +9020,7 @@ The mortgage shall provide for complete amortization by periodic payments (unles
 
 This chapter, referred to in subsecs. (d), (g) and (r), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
-The National Housing Act Amendments of 1938, referred to in subsec. (o), is act Feb. 3, 1938, ch. 13, 42 Stat. 8, as amended, section 3 of which amended this section generally. For complete classification of this Act to the Code, see [section 1701a of this title](./chapter-013-national-housing.md#section-1701a) and Tables.
+The National Housing Act Amendments of 1938, referred to in subsec. (o), is act Feb. 3, 1938, ch. 13, 42 Stat. 8, section 3 of which amended this section generally. For complete classification of this Act to the Code, see [section 1701a of this title](./chapter-013-national-housing.md#section-1701a) and Tables.
 
 #### Codification
 In subsec. (l), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -9822,7 +9860,7 @@ For establishment of the General Insurance Fund, see [section 1735c of this titl
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, as amended, referred to in subsecs. (d)(1)(A), (B)(ii), and (h)(1), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949, which was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, The Public Health and Welfare, including sections 110, 111, and 117 [[42 U.S.C. 1460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1460&num=0&edition=prelim), 1462, 1468], was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make loans or grants under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, as amended, referred to in subsecs. (d)(1)(A), (B)(ii), and (h)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title I of the Housing Act of 1949, which was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, The Public Health and Welfare, including sections 110, 111, and 117 [[42 U.S.C. 1460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1460&num=0&edition=prelim), 1462, 1468], was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make loans or grants under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 [Section 1720 of this title](./chapter-013-national-housing.md#section-1720), referred to in subsec. (d)(3)(B)(iii)(III), was repealed by Pub. L. 98–181, title I [title IV, § 483(a)], Nov. 30, 1983, 97 Stat. 1240.
 
@@ -10052,9 +10090,9 @@ This chapter, referred to in subsec. (f), was in the original “this Act”, me
 
 [Section 1701q of this title](./chapter-013-national-housing.md#section-1701q), referred to in subsec. (f), was amended generally by Pub. L. 101–625, title VIII, § 801(a), Nov. 28, 1990, 104 Stat. 4297, and, as so amended, no longer contains provisions related to handicapped persons.
 
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
-Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (f), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, as amended, which enacted [section 1715z–1a of this title](./chapter-013-national-housing.md#section-1715z-1a) and amended [section 1715z–1 of this title](./chapter-013-national-housing.md#section-1715z-1).
+Section 201 of the Housing and Community Development Amendments of 1978, referred to in subsec. (f), is section 201 of Pub. L. 95–557, title II, Oct. 31, 1978, 92 Stat. 2084, which enacted [section 1715z–1a of this title](./chapter-013-national-housing.md#section-1715z-1a) and amended [section 1715z–1 of this title](./chapter-013-national-housing.md#section-1715z-1).
 
 Subsection (h) of [section 1710 of this title](./chapter-013-national-housing.md#section-1710), referred to in subsec. (g)(1), was redesignated subsec. (i) by Pub. L. 105–276, title VI, § 602(1), Oct. 21, 1998, 112 Stat. 2674.
 
@@ -10559,17 +10597,17 @@ Section, act June 27, 1934, ch. 847, title II, § 222, as added Aug. 2, 1954, ch
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
-Public Law 849, Seventy-sixth Congress, as amended, referred to in subsec. (a)(1), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, as amended, known as the “Lanham Public War Housing Act”, which is classified generally to subchapters II to VII (§§ 1521 et seq., 1531 et seq., 1541 et seq., 1561 et seq., 1571 et seq., and 1581 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
+Public Law 849, Seventy-sixth Congress, as amended, referred to in subsec. (a)(1), is act Oct. 14, 1940, ch. 862, 54 Stat. 1125, known as the “Lanham Public War Housing Act”, which is classified generally to subchapters II to VII (§§ 1521 et seq., 1531 et seq., 1541 et seq., 1561 et seq., 1571 et seq., and 1581 et seq.) of chapter 9 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1501&num=0&edition=prelim) and Tables.
 
 Public Laws 9, 73, and 353, Seventy-seventh Congress, referred to in subsec. (a)(1), refer to the following acts, respectively: Public Law 9, Urgent Deficiency Appropriation Act, 1941, act Mar. 1, 1941, ch. 9, 55 Stat. 14; Public Law 73, Additional Urgent Deficiency Appropriation Act, 1941, act May 24, 1941, ch. 132, 55 Stat. 197; and Public Law 353, Third Supplemental National Defense Appropriation Act, 1942, act Dec. 17, 1941, ch. 591, 55 Stat. 810. These three acts appropriated a total of $320,000,000 to the President for the purpose of providing housing necessary because of national defense activities and conditions arising out of World War II. These provisions were not classified to the code, although all three acts are cited in a “Prior Additional Appropriations” note under [section 1523 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1523&num=0&edition=prelim).
 
-Public Law 671, Seventy-sixth Congress, referred to in subsec. (a)(2), is act June 28, 1940, ch. 440, 54 Stat. 676, as amended. Provisions of the Act relating to housing are contained in title II, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Tables.
+Public Law 671, Seventy-sixth Congress, referred to in subsec. (a)(2), is act June 28, 1940, ch. 440, 54 Stat. 676. Provisions of the Act relating to housing are contained in title II, which is classified generally to subchapter I (§ 1501 et seq.) of chapter 9 of Title 42. For complete classification of this Act to the Code, see Tables.
 
 The Emergency Relief Appropriation Act of 1935, referred to in subsec. (a)(3), is Joint Res. Apr. 8, 1935, ch. 48, 49 Stat. 115. It was temporary legislation, and was formerly set out in a note in former chapter 16 of Title 15, Commerce and Trade. See notes under former sections 721 to 728 of that title.
 
 Subsections 3(b)(1) and 3(b)(2) of the Coulee Dam Community Act of 1957 [Pub. L. 85–240, Aug. 30, 1957, 71 Stat. 524], referred to in subsec. (a)(3), are set out in a note under [section 835c of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section835c&num=0&edition=prelim), Conservation.
 
-The Boulder Canyon Project Act of December 21, 1928, as amended and supplemented, referred to in subsec. (a)(3), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 617t of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section617t&num=0&edition=prelim) and Tables.
+The Boulder Canyon Project Act of December 21, 1928, as amended and supplemented, referred to in subsec. (a)(3), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of Title 43, Public Lands. For complete classification of this Act to the Code, see [section 617t of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section617t&num=0&edition=prelim) and Tables.
 
 Subsections 3(b)(1) and 3(b)(2) of the Boulder City Act of 1958 [Pub. L. 85–900, Sept. 2, 1958, 72 Stat. 1726], referred to in subsec. (a)(3), are not classified to the Code. Subsections (a) to (d) of section 3 read as follows: “(a) The Secretary is authorized to sell such dwelling houses, duplex houses or units thereof, and garages, with furniture, fixtures, and appurtenances, as are owned by the United States within the Boulder City municipal area and are not needed in connection with the administration, operation, and maintenance of Federal activities located within or near the Boulder City municipal area. “(b) Except in the case of property determined to be substandard under subsection (c) of this section, the following system of priority shall be established with respect to property authorized to be sold under subsection (a) of this section:“(1) Persons employed by the Federal Government within or near the Boulder City municipal area (and surviving spouses of such persons who have not remarried) who are tenants in Federal housing in Boulder City shall be offered the opportunity to purchase the property in which they are tenants at the appraised value as established under subsection (d) of this section. This right of priority shall expire unless notice of intent to purchase has been received by the Secretary before the expiration of sixty days after the date on which the property has been offered for sale, and shall be deemed abandoned unless before the expiration of sixty days after the Secretary’s tender of the instrument of transfer the prospective purchaser concludes the sale; “(2) Persons employed by the Federal Government within or near the Boulder City municipal area may apply to purchase housing not purchased under subsection (b)(1) of this section. Applicants to purchase shall be placed in order of opportunity to choose pursuant to a public drawing, but spouses of such applicants shall not be entitled to apply. Sales shall be made at the appraised value as established under subsection (d) of this section and selections and purchases by successful applicants shall be concluded within limits of time to be established by the Secretary. A purchase under subsection (b)(1) or (b)(2) of this section shall render the purchaser and any spouse of such purchaser ineligible thereafter to purchase under subsection (b)(1) or (b)(2); and “(3) Property subject to disposal under this section and not sold pursuant to subsections (b)(1) and (b)(2) of this section shall be opened to bids from the general public, and shall be sold to the highest responsible bidder.“In the event that incorporation of the municipality shall be effected within four years after the date of this Act, persons purchasing housing under this subsection or their successors, assigns, or legal representatives, shall be entitled to a reduction in the purchase price (or rebate as appropriate) of 10 per centum: Provided, That no person who has purchased a house under the Act of May 25, 1948 (62 Stat. 268), shall be eligible for such reduction. “(c) Where the Secretary determines that property authorized to be sold under subsection (a) of this section is substandard, he shall sell such property only for off-site use, such property to be opened to bids from the general public for sale to the highest responsible bidder. “(d) The appraised value of all property to be sold under subsections (b)(1) and (b)(2) of this section, and of all lots leased or to be leased by the United States for the purpose of maintaining, locating, or erecting permanent structures thereon, shall be determined by an appraiser or appraisers to be designated by the Administrator of Housing and Home Finance Agency at the request of the Secretary. Said appraisals shall be made promptly after the date of this Act, or immediately prior to the granting of any lease of lands not previously appraised, as the case may be. The representatives of the Boulder City community, as determined by the Secretary, shall be granted an opportunity to offer advice in connection with [sic] such appraisals.”
 
@@ -11225,7 +11263,7 @@ The General Insurance Fund, referred to in subsec. (d)(1), was established by [s
 
 Section 1521 of the Public Health Service Act, referred to in subsec. (d)(4)(A), is section 1521 of act July 1, 1944, which was classified to [section 300m of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300m&num=0&edition=prelim), The Public Health and Welfare, prior to repeal, effective Jan. 1, 1987, by Pub. L. 99–660, title VII, § 701(a), Nov. 14, 1986, 100 Stat. 3799.
 
-The Social Security Act, referred to in subsec. (i)(1), is act Aug. 13, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (i)(1), is act Aug. 13, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (b)(4)(B). Pub. L. 105–276 made technical correction to directory language of Pub. L. 105–65. See 1997 Amendment note below.
@@ -11833,9 +11871,9 @@ Amendment by Pub. L. 97–253 to be implemented only if Secretary determines tha
 
 [Section 1715z–10 of this title](./chapter-013-national-housing.md#section-1715z-10), referred to in subsecs. (c)(2)(A) and (q)(12), (14), was repealed by Pub. L. 110–289, div. B, title I, § 2120(a)(7), July 30, 2008, 122 Stat. 2835.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (h)(1), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (h)(1), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
 
-Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (i)(3)(A), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, as amended, which enacted [section 1701s of this title](./chapter-013-national-housing.md#section-1701s) and amended sections 1451 and 1465 of Title 42.
+Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (i)(3)(A), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted [section 1701s of this title](./chapter-013-national-housing.md#section-1701s) and amended sections 1451 and 1465 of Title 42.
 
 [Section 1709–1 of this title](./chapter-013-national-housing.md#section-1709-1), referred to in subsec. (q)(4)(B), was repealed by Pub. L. 98–181, title I [title IV, § 404(a)], Nov. 30, 1983, 97 Stat. 1208.
 
@@ -12400,7 +12438,7 @@ An application shall be eligible for assistance under the previous sentence only
 ### Statutory Notes
 
 #### References in Text
-The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (f)(1)(B)(iii), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§ 4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
+The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (f)(1)(B)(iii), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which is classified principally to chapter 42 (§ 4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (f)(1)(B)(iii), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of this title and which amended [section 1715z–6 of this title](./chapter-013-national-housing.md#section-1715z-6), were amended generally by Pub. L. 101–625 and are classified to subchapter I (§ 4101 et seq.) of chapter 42 of this title. Subtitles C and D of title II amended [section 1715z–15 of this title](./chapter-013-national-housing.md#section-1715z-15) and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§ 4141 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
 
@@ -12881,13 +12919,13 @@ Pub. L. 91–47, title II, § 201, July 22, 1969, 83 Stat. 53, increased by $45,
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, as amended, referred to in subsecs. (a), (b), (c)(1)(A), and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, as amended, referred to in subsecs. (a), (b), (c)(1)(A), and (d)(3), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) and Tables.
 
-The Housing Act of 1959, referred to in subsec. (a), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654, as amended. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing Act of 1959, referred to in subsec. (a), is Pub. L. 86–372, Sept. 23, 1959, 73 Stat. 654. For complete classification of this Act to the Code, see Short Title of 1959 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Housing and Urban Development Act of 1965, as amended, referred to in subsecs. (a), (c)(1)(A), (B), and (h), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451, as amended. Section 101 of the Act enacted [section 1701s of this title](./chapter-013-national-housing.md#section-1701s) and amended sections 1451 and 1465 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1965 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing and Urban Development Act of 1965, as amended, referred to in subsecs. (a), (c)(1)(A), (B), and (h), is Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451. Section 101 of the Act enacted [section 1701s of this title](./chapter-013-national-housing.md#section-1701s) and amended sections 1451 and 1465 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1965 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Section 23 of the United States Housing Act of 1937, referred to in subsec. (c)(1)(B), was classified to [section 1421b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1421b&num=0&edition=prelim) and was omitted in the general revision of the United States Housing Act of 1937 by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653.
 
@@ -13090,7 +13128,7 @@ Pub. L. 100–628, title X, § 1011(b), Nov. 7, 1988, 102 Stat. 3268, provided t
 ### Statutory Notes
 
 #### References in Text
-The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (a), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which is classified principally to chapter 42 (§ 4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
+The Low-Income Housing Preservation and Resident Homeownership Act of 1990, referred to in subsec. (a), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which is classified principally to chapter 42 (§ 4101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
 
 The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (a), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, which, as amended by Pub. L. 101–625, is known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990. Subtitles A and B of title II, which were formerly set out as a note under section 1715l of this title and which amended [section 1715z–6 of this title](./chapter-013-national-housing.md#section-1715z-6), were amended generally by Pub. L. 101–625 and are classified to subchapter I (§ 4101 et seq.) of chapter 42 of this title. Subtitles C and D of title II amended [section 1715z–15 of this title](./chapter-013-national-housing.md#section-1715z-15) and sections 1437f, 1472, 1485, and 1487 of Title 42, The Public Health and Welfare. Another subtitle C of title II of Pub. L. 100–242, as added by Pub. L. 102–550, is classified generally to subchapter II (§ 4141 et seq.) of chapter 42 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of this title](./chapter-042-low-income-housing-preservation-and-resident-homeownership.md#section-4101) and Tables.
 
@@ -13163,7 +13201,7 @@ Any contract of co-insurance under this section shall contain such provisions re
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a), (e), and (f)(5), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a), (e), and (f)(5), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 Section 1437o of title 42, referred to in subsec. (h), was repealed by Pub. L. 101–625, title II, § 289(b), Nov. 28, 1990, 104 Stat. 4128.
 
@@ -13435,7 +13473,7 @@ Amendment by Pub. L. 109–171 not applicable to any transaction that formally c
 ### Statutory Notes
 
 #### References in Text
-The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended. The Hawaiian Homes Commission Act of 1920, referred to in subsecs. (d) and (e), probably means the Hawaiian Homes Commission Act, 1920. Sections 204, 207, 208, and 209 of that Act were classified to sections 698, 701, 702, and 703 of Title 48, Territories and Insular Possessions, and were omitted from the Code.
+The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), is act July 9, 1921, ch. 42, 42 Stat. 108. The Hawaiian Homes Commission Act of 1920, referred to in subsecs. (d) and (e), probably means the Hawaiian Homes Commission Act, 1920. Sections 204, 207, 208, and 209 of that Act were classified to sections 698, 701, 702, and 703 of Title 48, Territories and Insular Possessions, and were omitted from the Code.
 
 Section 4 of the Act entitled “An Act to provide for the admission of the State of Hawaii into the Union”, approved Mar. 18, 1959 (73 Stat. 5), referred to in subsecs. (a)(1) and (d), is section 4 of Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 5, which is set out as a note preceding [section 491 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section491&num=0&edition=prelim).
 
@@ -13508,11 +13546,11 @@ Subsec. (d). Pub. L. 100–202 extended subsec. (c)(1) term “native Hawaiian�
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§ 5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
 
 Chapter 67 of title 31, referred to in subsec. (i)(1), was repealed by Pub. L. 99–272, title XIV, § 14001(a)(1), Apr. 7, 1986, 100 Stat. 327. A new chapter 67 of Title 31, Money and Finance, was added by Pub. L. 103–322, title III, § 31001(a), Sept. 13, 1994, 108 Stat. 1859.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Subsec. (f). Pub. L. 110–289 substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in [section 1735c of this title](./chapter-013-national-housing.md#section-1735c)” and struck out “(1) all references in [section 1710 of this title](./chapter-013-national-housing.md#section-1710) to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
@@ -13750,15 +13788,15 @@ Amendment by Pub. L. 99–272 effective Oct. 18, 1986, see section 14001(e) of P
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (l)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
+The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (l)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, which is classified principally to chapter 43 (§ 4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 4101 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4101&num=0&edition=prelim) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (l)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (l)(8), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (l)(8), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to chapter 46 (§ 5301 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5301&num=0&edition=prelim) and Tables.
 
@@ -14103,15 +14141,15 @@ Pub. L. 116–260, div. Q, title I, § 105(c), Dec. 27, 2020, 134 Stat. 2171, pr
 ### Statutory Notes
 
 #### References in Text
-The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), (5), is act July 9, 1921, ch. 42, 42 Stat. 108, as amended, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 204 of the Act was classified to [section 698 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section698&num=0&edition=prelim).
+The Hawaiian Homes Commission Act, 1920, referred to in subsec. (a)(1), (5), is act July 9, 1921, ch. 42, 42 Stat. 108, which was classified generally to sections 691 to 718 of Title 48, Territories and Insular Possessions, and was omitted from the Code. Section 204 of the Act was classified to [section 698 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section698&num=0&edition=prelim).
 
-The National Housing Act, referred to in subsecs. (c)(4)(B)(i) and (h)(2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). Title II of the Act is classified generally to this subchapter (§ 1707 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsecs. (c)(4)(B)(i) and (h)(2)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). Title II of the Act is classified generally to this subchapter (§ 1707 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (c)(4)(B)(iii), is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (l), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (l), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
-The Fair Housing Act, referred to in subsec. (l), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+The Fair Housing Act, referred to in subsec. (l), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
@@ -14241,7 +14279,7 @@ After December 1, 1987, the Secretary of Housing and Urban Development shall con
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, as amended, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, as amended, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Community Development Act of 1987, and not as part of the National Housing Act which comprises this chapter.
@@ -14270,7 +14308,7 @@ Section was enacted as part of the Housing and Community Development Act of 1987
 ### Statutory Notes
 
 #### References in Text
-The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in subsec. (b), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2003—Subsec. (d)(1)(C). Pub. L. 108–186 substituted “3” for “five”
@@ -14384,7 +14422,7 @@ The Secretary shall not consent to any request for an extension of the time for 
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). Title II of the National Housing Act is classified generally to this subchapter (§ 1707 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsecs. (a) and (c), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). Title II of the National Housing Act is classified generally to this subchapter (§ 1707 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Housing and Community Development Act of 1987, and not as part of the National Housing Act which comprises this chapter.
@@ -14668,11 +14706,11 @@ Secretary of Housing and Urban Development to implement system of mortgage insur
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VII of the Act was added by act July 30, 1956, ch. 779, § 2, 70 Stat. 717, and is classified generally to subchapter V (§ 292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (c), is act July 1, 1944, ch. 373, 58 Stat. 682. Title VII of the Act was added by act July 30, 1956, ch. 779, § 2, 70 Stat. 717, and is classified generally to subchapter V (§ 292 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 [Section 8211 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8211&num=0&edition=prelim), referred to in subsec. (d)(2)(B), was omitted from the Code pursuant to [section 8229 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim), The Public Health and Welfare, which terminated authority under that section on June 30, 1989.
 
-The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d)(5)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles XVIII and XIX of the Act are classified generally to subchapters XVIII (§ 1395 et seq.) and XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (i)(1). Pub. L. 113–76 substituted “July 31, 2016” for “July 31, 2011”.
@@ -15369,11 +15407,11 @@ Pub. L. 105–276, title V, § 593(e)(2), Oct. 21, 1998, 112 Stat. 2655, provide
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsecs. (b)(5) and (c)(4), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsecs. (b)(5) and (c)(4), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§ 1701 et seq.). For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c)(9)(A)(i)(I), (ii), (iii)(IV), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c)(9)(A)(i)(I), (ii), (iii)(IV), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Lead-Based Paint Poisoning Prevention Act, referred to in subsec. (c)(9)(B), is Pub. L. 91–695, Jan. 13, 1971, 84 Stat. 2078, as amended, which is classified generally to chapter 63 (§ 4801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4801&num=0&edition=prelim) and Tables.
+The Lead-Based Paint Poisoning Prevention Act, referred to in subsec. (c)(9)(B), is Pub. L. 91–695, Jan. 13, 1971, 84 Stat. 2078, which is classified generally to chapter 63 (§ 4801 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4801&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly set out as a note under [section 1707 of this title](./chapter-013-national-housing.md#section-1707).
@@ -15475,7 +15513,7 @@ For purposes of this subtitle:
 ### Statutory Notes
 
 #### References in Text
-This subtitle, referred to in text, means subtitle C (§§ 541–544) of Pub. L. 102–550, title V, Oct. 28, 1992, 106 Stat. 3794, as amended, known as the Multifamily Housing Finance Improvement Act, which enacted this section and [section 1715z–22 of this title](./chapter-013-national-housing.md#section-1715z-22) and provisions set out as a note under [section 1701 of this title](./chapter-013-national-housing.md#section-1701). For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+This subtitle, referred to in text, means subtitle C (§§ 541–544) of Pub. L. 102–550, title V, Oct. 28, 1992, 106 Stat. 3794, known as the Multifamily Housing Finance Improvement Act, which enacted this section and [section 1715z–22 of this title](./chapter-013-national-housing.md#section-1715z-22) and provisions set out as a note under [section 1701 of this title](./chapter-013-national-housing.md#section-1701). For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was formerly set out as a note under [section 1707 of this title](./chapter-013-national-housing.md#section-1707).
@@ -16208,17 +16246,17 @@ Pub. L. 90–448, title VIII, § 810, Aug. 1, 1968, 82 Stat. 545, as amended by 
 #### References in Text
 [Section 1720 of this title](./chapter-013-national-housing.md#section-1720), referred to in subsecs. (a)(2)(A) and (b)(1), was repealed by Pub. L. 98–181, title I [title IV, § 483(a)], Nov. 30, 1983, 97 Stat. 1240.
 
-The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (b)(1), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-The Servicemen’s Readjustment Act of 1944, referred to in subsec. (b)(1), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), Veterans’ Benefits.
+The Servicemen’s Readjustment Act of 1944, referred to in subsec. (b)(1), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim), Veterans’ Benefits.
 
-The Public Health Service Act, referred to in subsec. (b)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title VI of the Public Health Service Act is classified generally to part B (§ 291j–1 et seq.) of subchapter IV of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (b)(1), is act July 1, 1944, ch. 373, 58 Stat. 682. Part B of title VI of the Public Health Service Act is classified generally to part B (§ 291j–1 et seq.) of subchapter IV of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 Subchapter IX–A of this chapter and [section 1749cc–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1749cc–1&num=0&edition=prelim), referred to in subsec. (b)(1), were repealed by Pub. L. 101–235, title I, § 133(a), Dec. 15, 1989, 103 Stat. 2027.
 
 The effective date of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (b)(2), probably means the date of enactment of div. A of Pub. L. 110–289, which was approved July 30, 2008.
 
-The National Energy Conservation Policy Act, referred to in subsec. (b)(3), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208, as amended. Title II of the National Energy Conservation Policy Act is classified principally to subchapter II (§ 8211 et seq.) of chapter 91 of Title 42, The Public Health and Welfare. Section 210 of the Act [[42 U.S.C. 8211](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8211&num=0&edition=prelim)] was omitted from the Code pursuant to [section 8229 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim) which terminated authority under that section on June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8201&num=0&edition=prelim) and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (b)(3), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3208. Title II of the National Energy Conservation Policy Act is classified principally to subchapter II (§ 8211 et seq.) of chapter 91 of Title 42, The Public Health and Welfare. Section 210 of the Act [[42 U.S.C. 8211](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8211&num=0&edition=prelim)] was omitted from the Code pursuant to [section 8229 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8229&num=0&edition=prelim) which terminated authority under that section on June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under [section 8201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8201&num=0&edition=prelim) and Tables.
 
 [Section 4542 of this title](./chapter-046-government-sponsored-enterprises.md#section-4542), referred to in subsec. (b)(6), was repealed and a new section 4542 was added by Pub. L. 110–289, div. A, title I, §§ 1122, 1124(d), July 30, 2008, 122 Stat. 2693. The new section 4542 does not relate to obtaining the approval of the Secretary.
 
@@ -16763,11 +16801,11 @@ Paragraph (c) of [section 1716 of this title](./chapter-013-national-housing.md#
 
 [Section 1720 of this title](./chapter-013-national-housing.md#section-1720), referred to in subsec. (f), was repealed by Pub. L. 98–181, title I [title IV, § 483(a)], Nov. 30, 1983, 97 Stat. 1240.
 
-The Housing Act of 1949, referred to in subsec. (g)(1), (3)(A), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (g)(1), (3)(A), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-The Servicemen’s Readjustment Act of 1944, referred to in subsec. (g)(1), (3)(A), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
+The Servicemen’s Readjustment Act of 1944, referred to in subsec. (g)(1), (3)(A), is act June 22, 1944, ch. 268, 58 Stat. 284, which was classified generally to chapter 11C (§§ 693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which enacted Title 38, Veterans’ Benefits. For distribution of sections 693 to 697g of former Title 38 to Title 38, Veterans’ Benefits, see Table preceding [section 101 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
 
-The Public Health Service Act, referred to in subsec. (g)(1), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIII of the Public Health Service Act, is title XIII of act July 1, 1944, ch. 373, as added by act Dec. 29, 1973, Pub. L. 93–222, § 2, 87 Stat. 914, which is classified generally to subchapter XI (§ 300e et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (g)(1), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XIII of the Public Health Service Act, is title XIII of act July 1, 1944, ch. 373, as added by act Dec. 29, 1973, Pub. L. 93–222, § 2, 87 Stat. 914, which is classified generally to subchapter XI (§ 300e et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2019—Subsec. (g)(1). Pub. L. 116–33 struck out “The Association may not guarantee the timely payment of principal and interest on a security that is backed by a mortgage insured or guaranteed under chapter 37 of title 38 and that was refinanced until the later of the date that is 210 days after the date on which the first monthly payment is made on the mortgage being refinanced and the date on which 6 full monthly payments have been made on the mortgage being refinanced.” after “guaranteed under [section 1715z–13a of this title](./chapter-013-national-housing.md#section-1715z-13a).”
@@ -17182,7 +17220,7 @@ Pub. L. 93–383, title VIII, § 806(k), Aug. 22, 1974, 88 Stat. 728, provided t
 For effective date of amendment by title VIII of Pub. L. 90–448, see section 808 of Pub. L. 90–448, set out as an Effective Date note under [section 1716b of this title](./chapter-013-national-housing.md#section-1716b).
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Proposal by Federal National Mortgage Association Respecting Mortgage-Backed Securities Program; Approval, Etc.
 Pub. L. 96–399, title III, § 330, Oct. 8, 1980, 94 Stat. 1652, provided that: “If the Federal National Mortgage Association submits to the Secretary of Housing and Urban Development or the Secretary of the Treasury, after the date of enactment of this section [Oct. 8, 1980], a proposal with respect to undertaking a mortgage-backed securities program, the Secretary of Housing and Urban Development or the Secretary of the Treasury, as the case may be, shall, within 90 days after submission of such proposal, approve the proposal or transmit to the Congress a report explaining why the proposal has not been approved.”
@@ -17456,7 +17494,7 @@ Notwithstanding any other provision of law, the Secretary is authorized to refus
 ### Statutory Notes
 
 #### References in Text
-The Servicemen’s Readjustment Act of 1944, as amended, referred to in text, is act June 22, 1944, ch. 268, 58 Stat. 284, as amended. Title III of the Servicemen’s Readjustment Act of 1944 was classified generally to subchapter II (§ 694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which reenacted title III of such Act as chapter 37 (§ 1801 [now 3701] et seq.) of Title 38, Veterans’ Benefits.
+The Servicemen’s Readjustment Act of 1944, as amended, referred to in text, is act June 22, 1944, ch. 268, 58 Stat. 284. Title III of the Servicemen’s Readjustment Act of 1944 was classified generally to subchapter II (§ 694 et seq.) of chapter 11C of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by section 14(87) of Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1273, the first section of which reenacted title III of such Act as chapter 37 (§ 1801 [now 3701] et seq.) of Title 38, Veterans’ Benefits.
 
 #### Prior Provisions
 A prior section 512 of act of June 27, 1934, related to offenses and penalties, and was classified to [section 1731 of this title](./chapter-013-national-housing.md#section-1731), prior to repeal by act June 25, 1948, ch. 645, § 21, 62 Stat. 862, eff. Sept. 1, 1948. See note under section 1731.

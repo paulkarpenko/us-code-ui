@@ -913,7 +913,7 @@ In subsec. (c)(1), (4), “December 15, 1967” substituted for “enactment of 
 Section effective Dec. 15, 1967, see section 20 of Pub. L. 90–201, set out as a note under [section 601 of this title](./chapter-012-meat-inspection.md#section-601).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-671"></a>
@@ -1105,21 +1105,22 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b), is act Jun
 
 **(g) Conflicts of interest** The Secretary shall promulgate regulations regarding conflicts of interest with respect to the members of the panel.
 
-**(h) Exemption** The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2281&num=0&edition=prelim) et seq.) shall not apply to the panel.
+**(h) Exemption** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2281&num=0&edition=prelim) et seq.) shall not apply to the panel.
 
 **(i) Funding** From funds available to the Secretary to carry out this chapter and the Poultry Products Inspection Act ([21 U.S.C. 451](./chapter-010-poultry-and-poultry-products-inspection.md#section-451) et seq.), the Secretary shall allocate such sums as may be necessary to carry out this section.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Food and Agriculture Act of 1977, referred to in subsec. (h), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
 
 The Poultry Products Inspection Act, referred to in subsec. (i), is Pub. L. 85–172, Aug. 28, 1957, 71 Stat. 441, which is classified generally to chapter 10 (§ 451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 451 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-451) and Tables.
 
 #### Prior Provisions
 A prior section 410 of act Mar. 4, 1907, was renumbered section 411, and is classified to [section 680 of this title](./chapter-012-meat-inspection.md#section-680).
+
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 #### Use of Appropriated Funds
 For prohibition of use of funds appropriated by div. A of Pub. L. 113–235 or any other Act to carry out this section, see section 741 Pub. L. 113–235, set out as a note under [section 471 of this title](./chapter-010-poultry-and-poultry-products-inspection.md#section-471).

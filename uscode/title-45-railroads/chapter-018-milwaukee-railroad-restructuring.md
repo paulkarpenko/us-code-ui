@@ -31,7 +31,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, as amended, known as the Milwaukee Railroad Restructuring Act, which enacted this chapter and amended sections 231f, 662, 721, former section 821, and [section 825 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section825&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, known as the Milwaukee Railroad Restructuring Act, which enacted this chapter and amended sections 231f, 662, 721, former section 821, and [section 825 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section825&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 1983 Amendment
 Pub. L. 97–468, title II, § 201, Jan. 14, 1983, 96 Stat. 2543, provided that: “This title [amending sections 797c, 907, 913, 915, 1004, 1005, 1007, 1014, and 1017 of this title, repealing [section 1008 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1008) and enacting provisions set out as notes under this section] may be referred to as the ‘Bankrupt Railroad Service Preservation and Employee Protection Act of 1982’.”
@@ -189,7 +189,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 ### Statutory Notes
 
 #### References in Text
-The Emergency Rail Services Act of 1970, referred to in subsec. (d), is Pub. L. 91–663, Jan. 8, 1971, 84 Stat. 1975, as amended, which is classified generally to chapter 15 (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-015-emergency-rail-services.md#section-661) and Tables.
+The Emergency Rail Services Act of 1970, referred to in subsec. (d), is Pub. L. 91–663, Jan. 8, 1971, 84 Stat. 1975, which is classified generally to chapter 15 (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-015-emergency-rail-services.md#section-661) and Tables.
 
 Directed service under title 49, referred to in subsec. (g), probably refers to directed service under [section 11125 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section11125&num=0&edition=prelim), Transportation, prior to the general amendment of subtitle IV of Title 49, by Pub. L. 104–88, § 102(a).
 
@@ -280,7 +280,7 @@ shall be entitled to receive monthly supplementary unemployment insurance in acc
 ### Statutory Notes
 
 #### References in Text
-The Railroad Unemployment Insurance Act, referred to in subsecs. (c)(2) and (e)(2), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
+The Railroad Unemployment Insurance Act, referred to in subsecs. (c)(2) and (e)(2), is act June 25, 1938, ch. 680, 52 Stat. 1094, which is classified principally to chapter 11 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see [section 367 of this title](./chapter-011-railroad-unemployment-insurance.md#section-367) and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (e)(1), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of this title. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of this title](./chapter-009-retirement-of-railroad-employees.md#section-231), [section 231t of this title](./chapter-009-retirement-of-railroad-employees.md#section-231t), and Tables.
 
@@ -334,7 +334,7 @@ Any employee who receives any assistance under section 909 or [section 911 of th
 #### References in Text
 [Section 909 of this title](./chapter-018-milwaukee-railroad-restructuring.md#section-909), referred to in text, was in the original “section 10”, meaning section 10 of Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 741. Subsecs. (a) to (g) of section 10 are classified to [section 909 of this title](./chapter-018-milwaukee-railroad-restructuring.md#section-909). Subsec. (h) of section 10 amended [section 231f(b)(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231f/b/7&num=0&edition=prelim).
 
-The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 
 <a id="section-913"></a>
@@ -490,7 +490,7 @@ The provisions of the National Environmental Policy Act [[42 U.S.C. 4321](https:
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act, referred to in text, probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act, referred to in text, probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-918"></a>
@@ -548,4 +548,4 @@ If an event described in [section 920(b) of this title](https://uscode.house.gov
 ### Statutory Notes
 
 #### References in Text
-The Emergency Rail Services Act of 1970, referred to in text, is Pub. L. 91–663, Jan. 8, 1971, 84 Stat. 1975, as amended, which is classified generally to chapter 15 (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-015-emergency-rail-services.md#section-661) and Tables.
+The Emergency Rail Services Act of 1970, referred to in text, is Pub. L. 91–663, Jan. 8, 1971, 84 Stat. 1975, which is classified generally to chapter 15 (§ 661 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of this title](./chapter-015-emergency-rail-services.md#section-661) and Tables.

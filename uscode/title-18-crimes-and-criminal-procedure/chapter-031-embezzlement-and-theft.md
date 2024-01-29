@@ -771,7 +771,10 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
 
-1974—Pub. L. 93–406 substituted “any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act”.
+1974—Pub. L. 93–406, § 112(a)(2)(A), formerly § 111(a)(2)(A), as renumbered by Pub. L. 117–328, substituted “any employee benefit plan subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as a note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 1974 Amendment
 Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in [section 1031(b)(2) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1031/b/2&num=0&edition=prelim), Labor, see [section 1031(b)(1) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1031/b/1&num=0&edition=prelim).

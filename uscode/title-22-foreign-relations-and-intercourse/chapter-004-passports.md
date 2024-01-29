@@ -2,7 +2,7 @@
 title: 22
 chapter: '4'
 heading: PASSPORTS
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -30,8 +30,17 @@ Pub. L. 103–236 substituted “by diplomatic and consular officers of the Unit
 
 1978—Pub. L. 95–426 inserted provision prohibiting passport restrictions except for countries with which the United States is at war, where armed hostilities are in progress or there is imminent danger to the public health or physical safety of United States travellers.
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–31, div. F, title LXI, § 6114(a), Dec. 22, 2023, 137 Stat. 968, provided that: “This section [amending [section 214 of this title](./chapter-004-passports.md#section-214)] may be cited as the ‘First Responders Passport Act’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–167, § 1, Jan. 10, 2006, 119 Stat. 3578, provided that: “This Act [amending [section 214 of this title](./chapter-004-passports.md#section-214)] may be cited as the ‘Passport Services Enhancement Act of 2005’.”
+
+#### Special Hiring Authority for Passport Services
+Pub. L. 118–31, div. F, title LXI, § 6101, Dec. 22, 2023, 137 Stat. 965, provided that: “During the 3-year period beginning on the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State], without regard to the provisions under sections 3309 through 3318 of title 5, United States Code, may directly appoint up to 80 candidates to positions in the competitive service (as defined in section 2102 of such title) at the Department [of State] in the Passport and Visa Examining Series 0967.”
+
+#### Passport Travel Advisories
+Pub. L. 118–31, div. F, title LXI, § 6103, Dec. 22, 2023, 137 Stat. 965, provided that: “Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Department [of State] should make prominent in United States regular passports, on the first three pages of the passport, the following information: “(1) A prominent, clear advisory for all travelers to check travel.state.gov for updated travel warnings and advisories. “(2) A prominent, clear notice urging all travelers to register with the Department prior to overseas travel. “(3) A prominent, clear advisory—“(A) noting that many countries deny entry to travelers during the last 6 months of their passport validity period; and “(B) urging all travelers to renew their passport not later than 1 year prior to its expiration.”
 
 #### Limitations on Use of Funds for Procurement of Paper for Passports
 Pub. L. 100–440, title VI, § 617(b), Sept. 22, 1988, 102 Stat. 1755, provided that: “None of the funds made available by this or any other Act with respect to any fiscal year may be used to procure paper for passports granted or issued pursuant to the first section of the Act entitled ‘An Act to regulate the issue and validity of passports, and for other purposes’, approved July 3, 1926 ([22 U.S.C. 211a](./chapter-004-passports.md#section-211a)), if such paper is manufactured outside of the United States or its possessions or is procured from any corporation or other entity owned or controlled by persons not citizens of the United States. This subsection shall not apply if no domestic manufacturer for passport paper exists.”
@@ -123,6 +132,8 @@ The Immigration and Nationality Act, referred to in subsec. (a)(2), is act June 
 
 (2) **Authority to reissue** — Notwithstanding paragraph (1), the Secretary of State may reissue a passport that does not include a unique identifier if an individual described in subsection (a) reapplies for a passport and the Angel Watch Center provides a written determination, through the process developed for that purpose under [section 21507 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21507&num=0&edition=prelim), to the Secretary of State that the individual is no longer required to register as a covered sex offender.
 
+(3) **Clarification with respect to continuing registration** — An individual may not be issued or reissued a passport without a unique identifier solely because the individual has moved or otherwise resides outside the United States.
+
 **(c) Defined terms** In this section—
 
 (1) the term “covered sex offender” means an individual who—
@@ -141,6 +152,11 @@ The Immigration and Nationality Act, referred to in subsec. (a)(2), is act June 
 
 **(f) Effective date** This section shall take effect upon certification by the Secretary of State, the Secretary of Homeland Security, and the Attorney General, that the process developed and reported to the appropriate congressional committees under [section 21507 of title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section21507&num=0&edition=prelim) has been successfully implemented.
 
+### Statutory Notes
+
+#### Amendments
+2023—Subsec. (b)(3). Pub. L. 117–347 added par. (3).
+
 
 <a id="section-213"></a>
 ## § 213. Application for passport; verification by oath of initial passport
@@ -158,25 +174,91 @@ Second sentence of act June 15, 1917, which related to fees for taking applicati
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
+#### Strengthening Passport Customer Visibility and Transparency
+Pub. L. 118–31, div. F, title LXI, § 6106, Dec. 22, 2023, 137 Stat. 966, provided that: “(a) Online Status Tool.—Not later than 2 years after the date of the enactment of this division [Dec. 22, 2023], the Department [of State] should modernize the online passport application status tool to include, to the greatest extent possible, step by step updates on the status of passport applications, including with respect to the following stages:“(1) Submitted for processing. “(2) In process at a lockbox facility. “(3) Awaiting adjudication. “(4) In process of adjudication. “(5) Adjudicated with a result of approval or denial. “(6) Materials shipped. “(b) Additional Information.—The tool pursuant to subsection (a) should include a display that informs each passport applicant of—“(1) the date on which his or her passport application was received; and “(2) the estimated wait time remaining in the passport application process. “(c) Report.—Not later than 90 days after the date of the enactment of this division, the Secretary shall submit a report to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] that outlines a plan for coordinated comprehensive public outreach to increase public awareness and understanding of—“(1) the online status tool required under subsection (a); “(2) passport travel advisories required under section 6103 [[22 U.S.C. 211a](./chapter-004-passports.md#section-211a) note]; and “(3) passport wait times.”
+
+#### Publication and Updates of Estimated Time for Processing of Passport Applications
+Pub. L. 118–31, div. F, title LXI, § 6108, Dec. 22, 2023, 137 Stat. 967, provided that: “The Secretary [of State] shall publish and update on a quarterly basis on relevant websites of the Department [of State] the estimated time for processing of passport applications.”
+
+#### Use of Commercially Available Technology in Online Passport Renewal Program
+Pub. L. 118–31, div. F, title LXI, § 6111, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall take such steps as may be necessary to compare and use the best commercially available technology in the private sector, as determined by the Secretary, in the development of the Department [of State]’s online passport renewal program or any successor program.”
+
+#### Agreements With Foreign Countries Regarding Passports Nearing Expiration
+Pub. L. 118–31, div. F, title LXI, § 6113, Dec. 22, 2023, 137 Stat. 968, provided that: “The President, acting through the Secretary [of State], shall seek to reach agreements with the governments of foreign countries that do not accept United States passports that are at or within 6 months of expiration to allow for the use of such United States passports.”
+
+#### Return of Supporting Documents for Passport Applications Through United States Postal Service Certified Mail
+Pub. L. 117–263, div. I, title XCVII, § 9714, Dec. 23, 2022, 136 Stat. 3921, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary shall establish a procedure that provides, to any individual applying for a new United States passport or to renew the United States passport of the individual by mail, the option to have supporting documents for the application returned to the individual by the United States Postal Service through certified mail. “(b) Cost.—“(1) Responsibility.—The cost of returning supporting documents to an individual as described in subsection (a) shall be the responsibility of the individual. “(2) Fee.—The fee charged to the individual by the Secretary for returning supporting documents as described in subsection (a) shall be the sum of—“(A) the retail price charged by the United States Postal Service for the service; and “(B) the estimated cost of processing the return of the supporting documents. “(3) Report.—Not later than 30 days after the establishment of the procedure required under subsection (a), the Secretary shall submit a report to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] that—“(A) details the costs included in the processing fee described in paragraph (2); and “(B) includes an estimate of the average cost per request.”
+
 #### Issuance of Passports for Children Under Age 14
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title II, § 236], Nov. 29, 1999, 113 Stat. 1536, 1501A–430, provided that: “(a) In General.—“(1) Regulations.—Not later than 1 year after the date of the enactment of this Act [Nov. 29, 1999], the Secretary of State shall issue regulations providing that before a child under the age of 14 years is issued a passport the requirements under paragraph (2) shall apply under penalty of perjury. “(2) Requirements.—“(A) Both parents, or the child’s legal guardian, must execute the application and provide documentary evidence demonstrating that they are the parents or guardian; or “(B) the person executing the application must provide documentary evidence that such person—“(i) has sole custody of the child; “(ii) has the consent of the other parent to the issuance of the passport; or “(iii) is in loco parentis and has the consent of both parents, of a parent with sole custody over the child, or of the child’s legal guardian, to the issuance of the passport. “(b) Exceptions.—The regulations required by subsection (a) may provide for exceptions in exigent circumstances, such as those involving the health or welfare of the child, or when the Secretary determines that issuance of a passport is warranted by special family circumstances.”
 
 
+<a id="section-213a"></a>
+## § 213a. Authority to designate additional passport acceptance agents
+**(a) Authority to designate** The Secretary may designate any person described in subsection (b) that meets such other requirements as the Secretary may prescribe pursuant to regulations to serve as a passport acceptance agent, unless the Secretary withdraws such authorization on a case-by-case basis with respect to a given person.
+
+**(b) Authorized persons** A person described in this subsection is any of the following:
+
+(1) An employee of the clerk of any Federal court.
+
+(2) An employee of the clerk of any State court of record.
+
+(3) A postal employee at a United States post office that has been selected to accept passport applications.
+
+(4) An employee of the Department of Defense at a military installation that has been authorized to accept passport applications.
+
+(5) An employee of a Federal department or agency that has been selected to accept passport applications.
+
+(6) Any other person specifically designated by the Secretary.
+
+**(c) Regulations** The Secretary shall prescribe or revise such regulations as may be necessary to carry out this division.
+
+### Statutory Notes
+
+#### References in Text
+This division, referred to in subsec. (c), is div. F of Pub. L. 118–31, Dec. 22, 2023, 137 Stat. 963, known as the Department of State Authorization Act of 2023. For complete classification of div. F to the Code, see Tables.
+
+#### Definition
+For definition of “Secretary” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-214"></a>
 ## § 214. Fees for execution and issuance of passports; persons excused from payment
-**(a)** There shall be collected and paid into the Treasury of the United States a fee, prescribed by the Secretary of State by regulation, for the filing of each application for a passport (including the cost of passport issuance and use) and a fee, prescribed by the Secretary of State by regulation, for executing each such application except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service. Such fees shall not be refundable, except as the Secretary may by regulation prescribe. No passport fee shall be collected from an officer or employee of the United States proceeding abroad in the discharge of official duties, or from members of his immediate family; from an American seaman who requires a passport in connection with his duties aboard an American flag-vessel; from a widow, widower, child, parent, grandparent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member or to attend a funeral or memorial service for such member; or from an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes. No execution fee shall be collected for an application made before a Federal official by a person excused from payment of the passport fee under this section.
+**(a)**
+
+(1) There shall be collected and paid into the Treasury of the United States a fee, prescribed by the Secretary of State by regulation, for the filing of each application for a passport (including the cost of passport issuance and use) and a fee, prescribed by the Secretary of State by regulation, for executing each such application except that the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service. Such fees shall not be refundable, except as the Secretary may by regulation prescribe.
+
+(2) Notwithstanding paragraph (1), no passport fee shall be collected from—
+
+  (A) an officer or employee of the United States proceeding abroad in the discharge of official duties, or from immediate family of such officer or employee;
+
+  (B) an American sailor who requires a passport in connection with assigned duties aboard an American flag-vessel;
+
+  (C) a widow, widower, child, parent, grandparent, brother, or sister of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member or to attend a funeral or memorial service for such member;
+
+  (D) an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes;
+
+  (E) at the discretion of the Secretary, an individual who—
+
+    (i) is operating under a contract, grant, or cooperative agreement with the United States Government to participate in search, rescue, and other related disaster relief operations within a foreign country following a natural disaster; or
+
+    (ii) is required pursuant to such contract, grant, or cooperative agreement to be available to travel abroad to assist in search, rescue, or other related disaster relief efforts immediately upon notice from the United States Government.
+
+(3) No execution fee shall be collected for an application made before a Federal official by a person excused from payment of the passport fee under this section.
 
 **(b)**
 
 (1) The Secretary of State may by regulation establish and collect a surcharge on applicable fees for the filing of each application for a passport in order to cover the costs of meeting the increased demand for passports as a result of actions taken to comply with section 7209(b) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458; [8 U.S.C. 1185](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1185&num=0&edition=prelim) note). Such surcharge shall be in addition to the fees provided for in subsection (a) and in addition to the surcharges or fees otherwise authorized by law and shall be deposited in the Consular and Border Security Programs account, to remain available until expended for the purposes of meeting such costs.11 See Extension of Consular Fees note below.
 
-(2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.22 See Extension of Authority note below.
+(2) The authority to collect the surcharge provided under paragraph (1) may not be exercised after September 30, 2010.22 See Extension of Authority To Collect Surcharge note below.
 
 (3) The Secretary of State shall ensure that, to the extent practicable, the total cost of a passport application during fiscal years 2006 and 2007, including the surcharge authorized under paragraph (1), shall not exceed the cost of the passport application as of December 1, 2005.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 designated first two sentences as par. (1); designated third sentence as par. (2), substituted “Notwithstanding paragraph (1), no passport fee shall be collected from—” for “No passport fee shall be collected from”, inserted subpar. (A) designation before “an officer”, substituted “or from immediate family of such officer or employee;” and subpar. (B) for “or from members of his immediate family; from an American seaman who requires a passport in connection with his duties aboard an American flag-vessel; from”, inserted subpar. (C) designation before “a widow”, substituted “memorial service for such member;” for “memorial service for such member; or”, inserted subpar. (D) designation before “an individual”, substituted “law enforcement purposes;” for “law enforcement purposes.”, and added subpar. (E); and designated last sentence as par. (3).
+
 2017—Subsec. (b)(1). Pub. L. 115–31 substituted “in the Consular and Border Security Programs account” for “as an offsetting collection to the appropriate Department of State appropriation”.
 
 2007—Subsec. (a). Pub. L. 109–472 substituted “from a widow” for “or from a widow” and inserted “; or from an individual or individuals abroad, returning to the United States, when the Secretary determines that foregoing the collection of such fee is justified for humanitarian reasons or for law enforcement purposes” after “memorial service for such member”.
@@ -208,20 +290,29 @@ Pub. L. 92–14, § 2, May 14, 1971, 85 Stat. 38, as amended by Pub. L. 93–126
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–428 effective on thirtieth day following July 26, 1968, see section 4 of Pub. L. 90–428, set out as a note under [section 217a of this title](./chapter-004-passports.md#section-217a).
 
+#### Electronic Payment for Passport Application Fees
+Pub. L. 118–31, div. F, title LXI, § 6112, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall develop a process to accept electronic payment for all fees associated with the processing of passport applications, including for applications submitted by regular mail.”
+
 #### Deposit of Consular Fees in the Consular and Border Security Programs Account
 Pub. L. 117–103, div. K, title VII, § 7069(e), Mar. 15, 2022, 136 Stat. 681, provided that: “Beginning on October 1, 2021 and for each fiscal year thereafter, fees collected pursuant to subsection (a) of section 1 of the Passport Act of June 4, 1920 ([22 U.S.C. 214(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/a&num=0&edition=prelim)) shall, notwithstanding such subsection, be deposited in the Consular and Border Security Programs account as discretionary offsetting receipts: Provided, That amounts deposited in fiscal year 2022 shall remain available until expended for the purposes of such account: Provided further, That the Secretary of State may by regulation authorize State officials or the United States Postal Service to collect and retain the execution fee for each application for a passport accepted by such officials or by that Service.”
 
 #### Extension of Consular Fees
-Pub. L. 117–103, div. K, title VII, § 7069(a), Mar. 15, 2022, 136 Stat. 681, provided that: “Section 1(b)(1) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/1&num=0&edition=prelim)) shall be applied through fiscal year 2022 by substituting ‘the costs of providing consular services’ for ‘such costs’.”
+Pub. L. 118–47, div. F, title VII, § 7068(a), Mar. 23, 2024, 138 Stat. 848, provided that: “Section 1(b)(1) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/1&num=0&edition=prelim)) shall be applied through fiscal year 2024 by substituting ‘the costs of providing consular services’ for ‘such costs’.”
 
-Prior extension was contained in the following prior act:
+Prior extensions were contained in the following prior acts:
+
+Pub. L. 117–328, div. K, title VII, § 7068(a), Dec. 29, 2022, 136 Stat. 5089.
+
+Pub. L. 117–103, div. K, title VII, § 7069(a), Mar. 15, 2022, 136 Stat. 681.
 
 Pub. L. 116–260, div. K, title VII, § 7069(a), Dec. 27, 2020, 134 Stat. 1812.
 
 #### Extension of Authority To Collect Surcharge
-Pub. L. 117–103, div. K, title VII, § 7034(l)(1), Mar. 15, 2022, 136 Stat. 623, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2022’ for ‘September 30, 2010’.”
+Pub. L. 117–263, div. I, title XCVIII, § 9802(a), Dec. 23, 2022, 136 Stat. 3924, provided that: “Section 1(b)(2) of the Passport Act of June 4, 1920 ([22 U.S.C. 214(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214/b/2&num=0&edition=prelim)) shall be applied by striking ‘September 30, 2010’ and inserting ‘September 30, 2026’.”
 
 Prior extensions were contained in the following prior acts:
+
+Pub. L. 117–103, div. K, title VII, § 7034(l)(1), Mar. 15, 2022, 136 Stat. 623.
 
 Pub. L. 116–260, div. K, title VII, § 7034(l)(1), Dec. 27, 2020, 134 Stat. 1749.
 
@@ -310,6 +401,9 @@ Pub. L. 97–241, title I, § 116(b)(2), Aug. 24, 1982, 96 Stat. 279, provided t
 
 #### Effective Date of 1968 Amendment
 Pub. L. 90–428, § 4, July 26, 1968, 82 Stat. 446, provided that: “This Act [amending this section and sections 213 and 214 of this title] shall take effect on the thirtieth day following the date of its enactment [July 26, 1968].”
+
+#### Notification of Passport Expiration
+Pub. L. 118–31, div. F, title LXI, § 6110, Dec. 22, 2023, 137 Stat. 968, provided that: “The Secretary [of State] shall take such steps as may be necessary to ensure that each individual holding a valid United States passport is notified of the upcoming expiration of such passport not later than one year before the date of such expiration.”
 
 
 <a id="section-218"></a>

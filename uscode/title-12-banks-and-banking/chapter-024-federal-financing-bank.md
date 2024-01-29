@@ -23,10 +23,10 @@ Pub. L. 93–224, § 1, Dec. 29, 1973, 87 Stat. 937, provided: “That this Act 
 Pub. L. 93–224, § 19, Dec. 29, 1973, 87 Stat. 942, provided that: “If any provision of this Act [enacting this chapter and amending [section 24 of this title](./chapter-002-national-banks.md#section-24)], or the application thereof to any person or circumstance, is held invalid, the validity of the remainder of the Act [this chapter], and the application of such provisions to other persons or circumstances, shall not be affected.”
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 11782
-Ex. Ord. No. 11782, May 6, 1974, 39 F.R. 15991, which established the Federal Financing Bank Advisory Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 15, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 11782, May 6, 1974, 39 F.R. 15991, which established the Federal Financing Bank Advisory Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 15, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2282"></a>
@@ -73,7 +73,7 @@ Nothing in any provision of law shall be construed to authorize the Federal Fina
 ### Statutory Notes
 
 #### References in Text
-Title I of the New York City Loan Guarantee Act of 1978, referred to in text, is title I of Pub. L. 95–339, Aug. 8, 1978, 92 Stat. 460, as amended, which was classified generally to subchapter II (§ 1521 et seq.) of chapter 27 of former Title 31, and was omitted from the Code in the general revision and reenactment of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
+Title I of the New York City Loan Guarantee Act of 1978, referred to in text, is title I of Pub. L. 95–339, Aug. 8, 1978, 92 Stat. 460, which was classified generally to subchapter II (§ 1521 et seq.) of chapter 27 of former Title 31, and was omitted from the Code in the general revision and reenactment of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
 
 #### Codification
 Section was enacted as part of the New York City Loan Guarantee Act of 1978, and not as part of the Federal Financing Bank Act of 1973 which comprises this chapter.

@@ -1918,13 +1918,13 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
 (42) **Tribal coalition** — The term “tribal coalition” means an established nonprofit, nongovernmental Indian organization, Alaska Native organization, or a Native Hawaiian organization that—
 
-  (A) provides education, support, and technical assistance to member Indian service providers in a manner that enables those member providers to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
+  (A) provides education, support, and technical assistance to member Indian service providers, Native Hawaiian organizations, or the Native Hawaiian community in a manner that enables those member providers, organizations, or communities to establish and maintain culturally appropriate services, including shelter and rape crisis services, designed to assist Indian or Native Hawaiian women and the dependents of those women who are victims of domestic violence, dating violence, sexual assault, and stalking; and
 
   (B) is comprised of board and general members that are representative of—
 
-    (i) the member service providers described in subparagraph (A); and
+    (i) the member service providers, organizations, or communities described in subparagraph (A); and
 
-    (ii) the tribal communities in which the services are being provided.
+    (ii) the tribal communities or Native Hawaiian communities in which the services are being provided.
 
 (43) **Tribal government** — The term “tribal government” means—
 
@@ -2197,7 +2197,15 @@ Subsec. (a)(32) to (39). Pub. L. 117–103, § 2(a)(1)(D), redesignated pars. (2
 
 Subsec. (a)(40). Pub. L. 117–103, § 2(a)(1)(X), added par. (40). Former par. (40) redesignated (47).
 
-Subsec. (a)(41) to (49). Pub. L. 117–103, § 2(a)(1)(C), redesignated pars. (34) to (42) as (41) to (49), respectively. Former pars. (43) to (45) redesignated (50) to (52), respectively.
+Subsec. (a)(41), (42). Pub. L. 117–103, § 2(a)(1)(C), redesignated pars. (34) and (35) as (41) and (42), respectively. Former pars. (41) and (42) redesignated (48) and (49), respectively.
+
+Subsec. (a)(42)(A). Pub. L. 117–315, § 2(b)(1), inserted “, Native Hawaiian organizations, or the Native Hawaiian community” after “Indian service providers”, “, organizations, or communities” after “member providers”, and “or Native Hawaiian” after “designed to assist Indian”.
+
+Subsec. (a)(42)(B)(i). Pub. L. 117–315, § 2(b)(2)(A), inserted “, organizations, or communities” after “member service providers”.
+
+Subsec. (a)(42)(B)(ii). Pub. L. 117–315, § 2(b)(2)(B), inserted “or Native Hawaiian communities” after “tribal communities”.
+
+Subsec. (a)(43) to (49). Pub. L. 117–103, § 2(a)(1)(C), redesignated pars. (36) to (42) as (43) to (49), respectively. Former pars. (43) to (45) redesignated (50) to (52), respectively.
 
 Subsec. (a)(50). Pub. L. 117–103, § 2(a)(1)(B), redesignated par. (43) as (50).
 
@@ -2348,6 +2356,8 @@ Subsec. (b)(1). Pub. L. 109–271, § 1(f), added par. (1) and struck out former
 Subsec. (b)(11). Pub. L. 109–271, § 2(e), inserted “Of the total amounts appropriated under this subchapter, not less than 3 percent and up to 8 percent, unless otherwise noted, shall be available for providing training and technical assistance relating to the purposes of this subchapter to improve the capacity of the grantees, subgrantees, and other entities.” before “If there is a demonstrated history”.
 
 #### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–315 effective one day after Dec. 27, 2022, see section 3 of Pub. L. 117–315, set out as a note under [section 10441 of this title](./chapter-101-justice-system-improvement.md#section-10441).
+
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
@@ -4746,7 +4756,7 @@ Subsec. (c)(2)(A). Pub. L. 117–103, § 702(4), inserted “or sexual harassmen
 
 Subsec. (e). Pub. L. 117–103, § 702(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 117–103, § 702(7), redesignated subsec. (e) as (f) and substituted “$2,000,000 for each of fiscal years 2023 through 2027” for “$1,000,000 for each of fiscal years 2014 through 2018”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 117–103, § 702(5), (7), redesignated subsec. (e) as (f) and substituted “$2,000,000 for each of fiscal years 2023 through 2027” for “$1,000,000 for each of fiscal years 2014 through 2018”. Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 117–103, § 702(5), redesignated subsec. (f) as (g).
 
@@ -5854,7 +5864,7 @@ Section was formerly classified to [section 14118 of Title 42](https://uscode.ho
 
 (1) For administrative purposes, the advisory board appointed under subsection (a) shall be considered an advisory board to the Director of the Federal Bureau of Investigation.
 
-(2) Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the advisory board appointed under subsection (a).
+(2) [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply with respect to the advisory board appointed under subsection (a).
 
 (3) The DNA advisory board established under this section shall be separate and distinct from any other advisory board administered by the FBI, and is to be administered separately.
 
@@ -5879,8 +5889,6 @@ Section was formerly classified to [section 14118 of Title 42](https://uscode.ho
 #### References in Text
 This Act, referred to in subsec. (a)(5)(B), probably means the DNA Identification Act of 1994, which is subtitle C (§§ 210301–210306) of title XXI of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2065. For complete classification of this Act to the Code, see Short Title of 1994 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(2), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The effective date of this Act, referred to in subsec. (c)(1), probably means the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 This subtitle, referred to in subsec. (c)(3), is subtitle C (§§ 210301–210306) of title XXI of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 2065, known as the DNA Identification Act of 1994. For complete classification of this subtitle to the Code, see Short Title of 1994 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
@@ -5891,6 +5899,8 @@ The Omnibus Crime Control and Safe Streets Act of 1968, referred to in subsec. (
 Section was formerly classified to [section 14131 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14131&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2017—Subsec. (a)(5). Pub. L. 115–50 added par. (5).
 
 
@@ -6191,7 +6201,7 @@ Section was formerly classified to [section 14171 of Title 42](https://uscode.ho
 
 **(c) Preference** In awarding grants under subsection (a)(1), the Attorney General shall give preference to law enforcement or public safety agencies that partner with nonprofit organizations that appropriately use person-centered plans minimizing restrictive interventions and that have a direct link to individuals, and families of individuals, with forms of dementia, such as Alzheimer’s Disease, or developmental disabilities, such as autism.
 
-**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2018 through 2022.
+**(d) Authorization of appropriations** There are authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.
 
 **(e) Grant accountability** All grants awarded by the Attorney General under this section shall be subject to the following accountability provisions:
 
@@ -6255,6 +6265,8 @@ Section was formerly classified to [section 14171 of Title 42](https://uscode.ho
 Section was formerly classified to [section 14181 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14181&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–263 substituted “2023 through 2027” for “2018 through 2022”.
+
 2018—Pub. L. 115–141, § 102(a)(1), substituted “Americans” for “Alzheimer’s Disease Patient” in section catchline.
 
 Subsec. (a). Pub. L. 115–141, § 102(a)(2), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Attorney General shall, subject to the availability of appropriations, award a grant to an eligible organization to assist the organization in paying for the costs of planning, designing, establishing, and operating a Missing Alzheimer’s Disease Patient Alert Program, which shall be a locally based, proactive program to protect and locate missing patients with Alzheimer’s disease and related dementias.”

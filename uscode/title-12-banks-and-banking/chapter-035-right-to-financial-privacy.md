@@ -650,7 +650,7 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 #### References in Text
 [Section 3421 of this title](./chapter-035-right-to-financial-privacy.md#section-3421), referred to in subsec. (a)(1), was repealed by Pub. L. 104–66, title III, § 3001(d), Dec. 21, 1995, 109 Stat. 734.
 
-Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended, which was set out as a note under [section 3056 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), Crimes and Criminal Procedure, prior to repeal by Pub. L. 98–587, § 2, Oct. 30, 1984, 98 Stat. 3111. See [18 U.S.C. 3056(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056/a/7&num=0&edition=prelim).
+Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, which was set out as a note under [section 3056 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056&num=0&edition=prelim), Crimes and Criminal Procedure, prior to repeal by Pub. L. 98–587, § 2, Oct. 30, 1984, 98 Stat. 3111. See [18 U.S.C. 3056(a)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3056/a/7&num=0&edition=prelim).
 
 #### Amendments
 2015—Subsec. (a)(2). Pub. L. 114–23, § 501(b), inserted before period at end “and a term that specifically identifies a customer, entity, or account to be used as the basis for the production and disclosure of financial records”.
@@ -801,7 +801,7 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 #### References in Text
 Rule 6(e) of the Federal Rules of Criminal Procedure, referred to in subsec. (a)(2), (4), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
-The Controlled Substance Act, referred to in subsec. (b)(1)(A), probably means the Controlled Substances Act, which is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substance Act, referred to in subsec. (b)(1)(A), probably means the Controlled Substances Act, which is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (b)(1)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
@@ -839,7 +839,7 @@ Except as provided in the Securities Exchange Act of 1934 [[15 U.S.C. 78a](https
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in text, is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1980—Pub. L. 96–433 substituted provision making this chapter applicable with respect to the Commission, except as provided in the Securities Exchange Act of 1934, for provision exempting the Commission from this chapter for a period of two years from November 10, 1978.

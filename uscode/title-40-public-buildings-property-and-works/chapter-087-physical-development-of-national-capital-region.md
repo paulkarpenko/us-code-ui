@@ -155,7 +155,7 @@ In subsection (g), the words “Said Commission shall report to Congress annuall
 In subsection (h), the words “beginning in fiscal year 1998 and thereafter” are omitted as obsolete.
 
 #### References in Text
-Act of March 2, 1893, referred to in subsec. (f), is act Mar. 2, 1893, ch. 197, 27 Stat. 532, as amended, which is not classified to the Code.
+Act of March 2, 1893, referred to in subsec. (f), is act Mar. 2, 1893, ch. 197, 27 Stat. 532, which is not classified to the Code.
 
 Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 43 Stat. 463, which enacted sections 71 to 71i, 72, 73, and 74 of former Title 40, Public Buildings, Property, and Works. Sections 71, 71a, 71c, 71d, 71f to 71i, 72, 73, and 74 of former Title 40 were repealed and reenacted as sections 8701, 8702, 8711, 8721 to 8724, 8731, and 8737 of this title by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 71b of former Title 40 was repealed by Pub. L. 107–217. Section 71e of former Title 40 was repealed by Pub. L. 93–198, title II, § 203(e), Dec. 24, 1973, 87 Stat. 782. For complete classification of this Act to the Code, see Tables.
 
@@ -165,9 +165,9 @@ Act of June 6, 1924, referred to in subsec. (f), is act June 6, 1924, ch. 270, 4
 2006—Subsec. (a). Pub. L. 109–284 inserted “of this title” after “sections 5101 and 5102”.
 
 #### Change of Name
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
 #### Compensation of Appointed Commission Members
 Pub. L. 108–108, title II, Nov. 10, 2003, 117 Stat. 1301, provided in part: “That for fiscal year 2004 and thereafter, all appointed members of the Commission will be compensated at a rate not to exceed the daily equivalent of the annual rate of pay for positions at level IV of the Executive Schedule for each day such member is engaged in the actual performance of duties.”
@@ -287,7 +287,7 @@ In subsection (e)(2), before clause (A), the words “in addition and at its dis
 In subsection (g), the words “from time to time” are omitted as unnecessary.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-8722"></a>

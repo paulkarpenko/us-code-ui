@@ -327,7 +327,7 @@ Subsecs. (a) and (b) of this section were renumbered as sections 1205 and 1206, 
 Subchapter effective 90 days following Apr. 10, 1989, see section 11 of Pub. L. 101–12, set out as a note under [section 1201 of this title](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1201).
 
 #### Allegations of Wrongdoing Against Special Counsel or Deputy Special Counsel
-Pub. L. 110–409, § 7(b), Oct. 14, 2008, 122 Stat. 4312, which provided for review by the Integrity Committee of allegations of wrongdoing against the Special Counsel or the Deputy Special Counsel, was repealed by Pub. L. 114–317, § 7(a)(1), Dec. 16, 2016, 130 Stat. 1605. See section 11(d)(12) of Pub. L. 95–452, set out in the Appendix to this title.
+Pub. L. 110–409, § 7(b), Oct. 14, 2008, 122 Stat. 4312, which provided for review by the Integrity Committee of allegations of wrongdoing against the Special Counsel or the Deputy Special Counsel, was repealed by Pub. L. 114–317, § 7(a)(1), Dec. 16, 2016, 130 Stat. 1605. See [section 424(d)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section424/d/12&num=0&edition=prelim).
 
 #### Transfer of Funds
 Pub. L. 101–12, § 8(c), Apr. 10, 1989, 103 Stat. 34, provided that: “The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available to the Special Counsel of the Merit Systems Protection Board are, subject to [section 1531 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1531&num=0&edition=prelim), United States Code, transferred to the Special Counsel referred to in [section 1211 of title 5](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1211), United States Code (as added by section 3(a) of this Act), for appropriate allocation.”
@@ -482,7 +482,7 @@ Subsec. (i). Pub. L. 115–91, § 1097(g), added subsec. (i).
 Subsec. (g)(2). Pub. L. 103–424, § 3(b)(2), substituted “an evaluation of the work performance, ability, aptitude, general qualifications, character, loyalty, or suitability for any personnel action of any” for “a matter described in subparagraph (A) or (B) of section 2302(b)(2) in connection with a”.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–199 effective 30 days after Nov. 27, 2012, see section 202 of Pub. L. 112–199, set out as a note under [section 1204 of this title](./chapter-012-merit-systems-protection-board-office-of-special-counsel-and-employee-right-of-action.md#section-1204).

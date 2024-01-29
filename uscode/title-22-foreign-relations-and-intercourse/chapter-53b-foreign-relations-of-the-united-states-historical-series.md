@@ -196,12 +196,12 @@ Pub. L. 102–138, title I, § 198(c)(1), Oct. 28, 1991, 105 Stat. 691, provided
 
 (2) The Secretary of State is authorized to provide for necessary secretarial and staff assistance for the Advisory Committee.
 
-(3) The Federal Advisory Committee Act shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that Act.
+(3) Chapter 10 of title 5 shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that chapter.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (f)(3). Pub. L. 117–286 substituted “Chapter 10 of title 5 shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that chapter.” for “The Federal Advisory Committee Act shall not apply to the Advisory Committee to the extent that the provisions of this chapter are inconsistent with that Act.”
 
 #### Termination of Previous Advisory Committee on Historical Diplomatic Documentation
 Pub. L. 102–138, title I, § 198(b), Oct. 28, 1991, 105 Stat. 691, provided that: “The Advisory Committee on Historical Documentation for the Department of State established before the date of enactment of this Act [Oct. 28, 1991] shall terminate on such date.”

@@ -42,7 +42,7 @@ A prior section 8010 was renumbered [section 8011 of this title](./chapter-803-d
 
 1980—Subsec. (a)(3). Pub. L. 96–513, § 513(2), struck out “, male or female,” after “person”.
 
-Subsec. (a)(9), (10). Pub. L. 96–513, § 371, struck out pars. (9) and (10) which defined the active lists of the Navy and the Marine Corps, respectively. See [section 101 of this title](./chapter-001-definitions.md#section-101).
+Subsec. (a)(9), (10). Pub. L. 96–513, § 371, struck out pars. (9) and (10) which defined the active lists of the Navy and the Marine Corps, respectively. See [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 1961—Subsec. (a)(8). Pub. L. 87–123 struck out provisions which related to Marine Corps officers designated for supply duty.
 
@@ -50,6 +50,6 @@ Subsec. (a)(9), (10). Pub. L. 96–513, § 371, struck out pars. (9) and (10) wh
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by section 371 of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 371 of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 Amendment by section 513(2) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.

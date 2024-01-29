@@ -92,7 +92,7 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 
 (1) is in addition to the prohibition specified in [section 3322(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3322/a&num=0&edition=prelim) on the use of the cost-plus-a-percentage-of-cost system of contracting; and
 
-(2) applies notwithstanding.11 So in original. The period probably should not appear. a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act ([50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim)) that includes the use of the armed forces.
+(2) applies notwithstanding a declaration of war or the declaration by the President of a national emergency under section 201 of the National Emergencies Act ([50 U.S.C. 1621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1621&num=0&edition=prelim)) that includes the use of the armed forces.
 
 ### Statutory Notes
 
@@ -100,6 +100,8 @@ Section and amendment by Pub. L. 116–283 effective Jan. 1, 2022, with addition
 The text of subsec. (c) of [section 2306 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306&num=0&edition=prelim), which was transferred to this section and amended by Pub. L. 116–283, § 1817(g), was based on Pub. L. 112–81, div. B, title XXVIII, § 2801(a), Dec. 31, 2011, 125 Stat. 1684.
 
 #### Amendments
+2023—Subsec. (b)(2). Pub. L. 118–31 struck out period after “notwithstanding”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 1817(g)(1), (2), redesignated subsec. (c) of [section 2306 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2306&num=0&edition=prelim) as subsec. (a) of this section and inserted heading. Former second sentence of subsec. (a) designated subsec. (b).
 
 Subsec. (b). Pub. L. 116–283, § 1817(g)(1), (3), designated second sentence of subsec. (a) as subsec. (b), inserted heading, and substituted “The prohibition specified in subsection (a)—

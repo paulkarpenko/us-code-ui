@@ -40,7 +40,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 
 <a id="section-3862"></a>
-## § 3862. Requests for equitable adjustment or other relief: certification
+## § 3862. Requests for equitable adjustment or other relief
 **(a) Certification Requirement.—** A request for equitable adjustment to contract terms or request for relief under Public Law 85–804 ([50 U.S.C. 1431](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1431&num=0&edition=prelim) et seq.) that exceeds the simplified acquisition threshold may not be paid unless a person authorized to certify the request on behalf of the contractor certifies, at the time the request is submitted, that—
 
 (1) the request is made in good faith, and
@@ -53,7 +53,15 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 (2) specifically states that this subsection does not apply with respect to the payment directed by that provision of law.
 
-**(c) Definition.—** In this section, the term “simplified acquisition threshold” has the meaning given that term in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim).
+**(c) Treatment of Certain Clauses Implementing Executive Orders.—** The unilateral insertion of a covered clause into an existing Department of Defense contract, order, or other transaction by a contracting officer shall be treated as a change directed by the contracting officer pursuant to, and subject to, the Changes clause of the underlying contract, order, or other transaction.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “simplified acquisition threshold” has the meaning given that term in [section 134 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section134&num=0&edition=prelim).
+
+(2) The term “Changes clause” means the clause described in part 52.243–4 of the Federal Acquisition Regulation or any successor regulation.
+
+(3) The term “covered clause” means any clause implementing the requirements of an Executive order issued by the President.
 
 ### Statutory Notes
 
@@ -61,6 +69,12 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Public Law 85–804, referred to in subsecs. (a) and (b), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2022—Pub. L. 117–263, § 805(a)(1), struck out “: certification” after “relief” in section catchline.
+
+Subsec. (c). Pub. L. 117–263, § 805(a)(3), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 117–263, § 805(a)(2), (4), redesignated subsec. (c) as (d), substituted “Definitions” for “Definition” in heading, substituted “In this section:” for “In this section,”, designated remainder of existing provisions as par. (1), substituted “The term” for “the term”, and added pars. (2) and (3).
+
 2021—Pub. L. 116–283, § 1836(b), renumbered [section 2410 of this title](./chapter-141-miscellaneous-provisions-relating-to-property.md#section-2410) as this section.
 
 Subsec. (b). Pub. L. 117–81 substituted “section 3063” for “section 2303(a)” in introductory provisions.
@@ -76,6 +90,12 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 
 #### Effective Date
 For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under [section 8752 of this title](./chapter-873-procurement-of-supplies-and-services.md#section-8752).
+
+#### Conforming Regulations
+Pub. L. 117–263, div. A, title VIII, § 805(c), Dec. 23, 2022, 136 Stat. 2702, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to implement the requirements of [section 3862 of title 10](./chapter-281-claims-and-disputes.md#section-3862), United States Code, as amended by subsection (a).”
+
+#### Conforming Policy Guidance
+Pub. L. 117–263, div. A, title VIII, § 805(d), Dec. 23, 2022, 136 Stat. 2702, provided that: “Not later than 120 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall revise applicable policy guidance on other transactions to implement the requirements of [section 3862 of title 10](./chapter-281-claims-and-disputes.md#section-3862), United States Code, as amended by subsection (a).”
 
 
 <a id="section-3863"></a>

@@ -339,7 +339,7 @@ Subparagraphs (C) and (D) of [section 411(b)(2) of title 26](https://uscode.hous
 
 Section 3(d)(2) of the Age Discrimination in Employment Amendments of 1996, referred to in subsec. (j)(1), probably means Pub. L. 104–208, div. A, title I, § 101(a) [title I, § 119[2(d)(2)]], Sept. 30, 1996, 110 Stat. 3009, 3009–23, 3009–25, which is set out as a note under this section.
 
-The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (l)(1)(A)(ii)(II), (2)(D)(i), (ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II and XVIII of the Act are classified generally to subchapters II (§ 401 et seq.) and XVIII (§ 1395 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Subsec. (l)(1)(B)(i)(I). Pub. L. 114–95 substituted “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))” for “[section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)”.
@@ -692,15 +692,15 @@ For the purposes of this chapter—
 ### Statutory Notes
 
 #### References in Text
-The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
+The National Labor Relations Act, referred to in subsec. (e)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
 
-The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (e)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401), and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (h), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401), and Tables.
 
 For definition of Canal Zone, referred to in subsec. (i), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (i), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1990—Subsec. (l). Pub. L. 101–433 added subsec. (l).

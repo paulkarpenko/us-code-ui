@@ -40,9 +40,11 @@ source: >-
 
     (ii) any decision to enter into low-rate initial production or full-rate production;
 
-    (iii) any certification under [section 4376 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4376); and
+    (iii) any certification under [section 4376 of this title](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4376);
 
     (iv) any report under section 2445c(f) 11 See References in Text note below. of this title; and
+
+    (v) any decision to enter into a contract in connection with a military construction project of a value greater than $500,000,000; and
 
   (B) at any other time considered appropriate by the Director, upon the request of the Under Secretary of Defense for Acquisition and Sustainment, or upon the request of the milestone decision authority;
 
@@ -66,6 +68,8 @@ The text of subsec. (h) of [section 2334 of this title](https://uscode.house.gov
 A prior section 3221, act Aug. 10, 1956, ch. 1041, 70A Stat. 176, related to authorized strength of Army Reserve, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§ 1662(a)(3), 1691, Oct. 5, 1994, 108 Stat. 2988, 3026, effective Dec. 1, 1994. See [section 12001 of this title](./chapter-1201-authorized-strengths-and-distribution-in-grade.md#section-12001).
 
 #### Amendments
+2022—Subsec. (b)(6)(A)(v). Pub. L. 117–263 added cl. (v).
+
 2021—Subsec. (a). Pub. L. 116–283, § 1812(b)(1), transferred subsec. (a) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) to this section.
 
 Subsec. (b). Pub. L. 116–283, § 1812(b)(1), (2)(A), designated second sentence of subsec. (a) as (b), inserted heading, and substituted “In carrying out the responsibility of the Director under subsection (a),” for “In carrying out that responsibility,” in introductory provisions.
@@ -83,6 +87,9 @@ Subsec. (b)(8). Pub. L. 116–283, § 1812(b)(2)(D), as amended by Pub. L. 117�
 Subsec. (c). Pub. L. 117–81, § 1701(c)(1), substituted “under this chapter” for “under this section”.
 
 Pub. L. 116–283, § 1812(b)(3), redesignated subsec. (h) of [section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim) as subsec. (c) of this section.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–263 applicable to contracts entered into on or after Dec. 23, 2022, see section 2806(c) of Pub. L. 117–263, set out as a note under [section 2851 of this title](./chapter-169-military-construction-and-military-family-housing.md#section-2851).
 
 #### Effective Date of 2021 Amendment
 Amendment by section 1701(c)(1), (d)(5) of Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and Effective Date note below.

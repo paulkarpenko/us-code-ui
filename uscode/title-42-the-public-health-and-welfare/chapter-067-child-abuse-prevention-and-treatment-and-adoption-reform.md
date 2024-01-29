@@ -201,7 +201,7 @@ Pub. L. 101–126, § 8, Oct. 25, 1989, 103 Stat. 769, provided that: “This Ac
 Pub. L. 98–457, title I, § 128, Oct. 9, 1984, 98 Stat. 1755, provided that: “(a) Except as provided in subsection (b), the provisions of this part or any amendment made by this part [part B (§§ 121–128) of title I of Pub. L. 98–457, amending this section and [section 5103 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5103) and enacting provisions set out as notes under sections 5101 and 5103 of this title] shall be effective on the date of the enactment of this Act [Oct. 9, 1984]. “(b)(1) Except as provided in paragraph (2), the amendments made by sections 122 and 123(b) of this Act [amending [section 5103 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5103)] shall become effective one year after the date of such enactment [Oct. 9, 1984]. “(2) In the event that, prior to such effective date, funds have not been appropriated pursuant to section 5 of the Act (as amended by section 104 of this Act) [[section 5104 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5104)] for the purpose of grants under section 4(c)(1) of the Act (as added by section 123(a) of this Act) [[section 5103(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5103/c/1&num=0&edition=prelim)], any State which has not met any requirement of section 4(b)(2)(K) of the Act (as added by section 122(3) of this Act) may be granted a waiver of such requirements for a period of not more than one year, if the Secretary finds that such State is making a good-faith effort to comply with such requirements.”
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of its establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the end of such period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Limitations on Use of Appropriated Funds
 Pub. L. 105–277, div. A, § 101(f) [title II, § 206], Oct. 21, 1998, 112 Stat. 2681–337, 2681–359, provided that: “None of the funds appropriated in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts, may be obligated or expended for the Federal Council on Aging under the Older Americans Act [of 1965, [42 U.S.C. 3001](./chapter-035-programs-for-older-americans.md#section-3001) et seq.] or the Advisory Board on Child Abuse and Neglect under the Child Abuse Prevention and Treatment Act [[42 U.S.C. 5101](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101) et seq.].”
@@ -1046,9 +1046,6 @@ Subsec. (c)(6)(C)(ii). Pub. L. 102–295, § 141(2), substituted “child with d
 1988—Pub. L. 100–294 amended section generally, substituting provision authorizing grants to public agencies and nonprofit private organizations for demonstration or service programs and projects for provision directing the Secretary to ensure coordination among Federal programs related to child abuse and neglect. See [section 5106e of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106e).
 
 1984—Pub. L. 98–457 substituted “among programs” for “between programs”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-5106a"></a>
@@ -1946,6 +1943,9 @@ Subsec. (d). Pub. L. 111–320, § 118(c), added subsec. (d).
 
 1989—Subsec. (b). Pub. L. 101–126, § 3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-5106f-1"></a>
 ## § 5106f–1. Report concerning voluntary reporting system
@@ -1990,7 +1990,7 @@ Section was enacted as part of the Child Abuse, Domestic Violence, Adoption and 
 
 **(b) Special rule**
 
-(1) **In general** — For purposes of section 3(2) 11 See References in Text note below. and subsection (a)(4), a child shall be considered a victim of “child abuse and neglect” and of “sexual abuse” if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) 1 of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) 1 of that section.
+(1) **In general** — For purposes of section 3(2) 11 See References in Text note below. and subsection (a)(4), a child shall be considered a victim of “child abuse and neglect” and of “sexual abuse” if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of human trafficking.
 
 (2) **State option** — Notwithstanding the definition of “child” in section 3(1),1 a State may elect to define that term for purposes of the application of paragraph (1) to section 3(2) 1 and subsection (a)(4) as a person who has not attained the age of 24.
 
@@ -1999,12 +1999,12 @@ Section was enacted as part of the Child Abuse, Domestic Violence, Adoption and 
 #### References in Text
 Section 3, referred to in subsec. (b), means section 3 of Pub. L. 93–247, which is set out as a Definitions note under [section 5101 of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5101).
 
-Paragraphs (9)(A) and (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim), referred to in subsec. (b)(1), were redesignated pars. (11) and (12), respectively, of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim) by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
-
 #### Prior Provisions
 A prior section 111 of Pub. L. 93–247 was renumbered section 109 and is classified to [section 5106e of this title](./chapter-067-child-abuse-prevention-and-treatment-and-adoption-reform.md#section-5106e).
 
 #### Amendments
+2023—Subsec. (b)(1). Pub. L. 117–348 substituted “a victim of ‘child abuse and neglect’ and of ‘sexual abuse’ if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of human trafficking.” for “a victim of ‘child abuse and neglect’ and of ‘sexual abuse’ if the child is identified, by a State or local agency employee of the State or locality involved, as being a victim of sex trafficking (as defined in paragraph (10) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)) or a victim of severe forms of trafficking in persons described in paragraph (9)(A) of that section.”
+
 2015—Pub. L. 114–22, § 802(c)(1), designated existing provisions as subsec. (a) and inserted heading and added subsec. (b).
 
 Subsec. (a)(5)(C). Pub. L. 114–22, § 802(c)(3), substituted period for semicolon at end.

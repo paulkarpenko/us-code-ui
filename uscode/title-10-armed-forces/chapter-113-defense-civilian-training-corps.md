@@ -8,12 +8,19 @@ source: >-
 ---
 <a id="section-2200g"></a>
 ## § 2200g. Establishment
+**(a) In General.—** The Secretary of Defense, acting through the Under Secretary for 11 So in original. Probably should be “of”. Defense for Acquisition and Sustainment, shall establish and maintain a Defense Civilian Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees.
 
-For the purposes of preparing selected students for public service in Department of Defense occupations relating to acquisition, science, engineering, or other civilian occupations determined by the Secretary of Defense, and to target critical skill gaps in the Department of Defense, the Secretary of Defense shall establish and maintain a Defense Civilian Training Corps program, organized into one or more units, at any accredited civilian educational institution authorized to grant baccalaureate degrees.
+**(b) Purpose.—** The purpose of the Defense Civilian Training Corps is to target critical skills gaps necessary to achieve the objectives of the national defense strategies required by [section 113(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim) and the national security strategies required by section 108 of the National Security Act of 1947 ([50 U.S.C. 3043](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3043&num=0&edition=prelim)) by preparing students selected for the Defense Civilian Training Corps for Department of Defense careers relating to acquisition, digital technologies, critical technologies, science, engineering, finance, and other civilian occupations determined by the Secretary of Defense.
+
+**(c) Use of Resources and Programs.—** The Under Secretary of Defense for Acquisition and Sustainment may leverage the resources and programs of the acquisition research organization within a civilian college or university that is described under [section 4142(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4142/a&num=0&edition=prelim) (commonly referred to as the “Acquisition Innovation Research Center”) to carry out the requirements of this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 inserted heading.
+
+2022—Pub. L. 117–263 designated existing provisions as subsec. (a), substituted “The Secretary of Defense, acting through the Under Secretary for Defense for Acquisition and Sustainment, shall establish and maintain” for “For the purposes of preparing selected students for public service in Department of Defense occupations relating to acquisition, science, engineering, or other civilian occupations determined by the Secretary of Defense, and to target critical skill gaps in the Department of Defense, the Secretary of Defense shall establish and maintain”, and added subsecs. (b) and (c).
+
 2021—Pub. L. 116–283 substituted “§” for “SEC.” in section designation.
 
 #### Implementation Timeline

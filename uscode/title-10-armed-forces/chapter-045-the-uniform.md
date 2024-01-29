@@ -66,7 +66,7 @@ The words “Except as otherwise provided by law” are inserted to give effect 
 
 **(h)** While attending a course of military instruction conducted by the Army, Navy, Air Force, Marine Corps, or Space Force, a civilian may wear the uniform prescribed by that armed force if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned.
 
-**(i)** Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force school may wear the appropriate aviation badges of the Air Force.
+**(i)** Under such regulations as the Secretary of the Air Force may prescribe, a citizen of a foreign country who graduates from an Air Force or Space Force school may wear the appropriate aviation or space badges of the Air Force or Space Force.
 
 **(j)** A person in any of the following categories may wear the uniform prescribed for that category:
 
@@ -103,6 +103,10 @@ In subsection (i), the words “Air Force school” are substituted for the word
 For information regarding the constitutionality of certain provisions of this section as enacted by act Aug. 10, 1956, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
+2023—Subsec. (i). Pub. L. 118–31, § 1741(b)(2)(B), substituted “aviation or space badges of the Air Force or Space Force” for “aviation badges of the Air Force”.
+
+Pub. L. 118–31, § 1741(b)(2)(A), which directed amendment of subsec. (i) by substituting “an Air Force or Space Force school” for “an Air Force School”, was executed by making the substitution for “an Air Force school” to reflect the probable intent of Congress.
+
 2021—Pub. L. 116–283 substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
 
 1996—Subsec. (h). Pub. L. 104–201 inserted before period at end “if the wear of such uniform is specifically authorized under regulations prescribed by the Secretary of the military department concerned”.
@@ -260,11 +264,13 @@ Pub. L. 100–26, § 12(a), Apr. 21, 1987, 101 Stat. 289, provided that: “The 
 
 (1) The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
 
-(2) The number of officers of an armed force on the active-duty list who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section523/a&num=0&edition=prelim) for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
+(2) The number of officers of an armed force on the active-duty list, or for the Space Force, the Space Force officer list, who are authorized as described in subsection (a) to wear the insignia for a grade to which a limitation on total number applies under [section 523(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section523/a&num=0&edition=prelim) for a fiscal year may not exceed 1 percent, or, for the grades of colonel and Navy captain, 2 percent, of the total number provided for the officers in that grade in that armed force in the administration of the limitation under that section for that fiscal year.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d)(2). Pub. L. 118–31 inserted “, or for the Space Force, the Space Force officer list,” after “active-duty list”.
+
 2011—Subsec. (b)(3)(B). Pub. L. 111–383 struck out “and a period of 30 days has elapsed after the date of the notification” after “grade”.
 
 2006—Subsec. (a). Pub. L. 109–163, § 503(c), inserted “in a grade below the grade of major general or, in the case of the Navy, rear admiral,” after “An officer” in first sentence.

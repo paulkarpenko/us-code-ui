@@ -312,7 +312,7 @@ In this chapter:
 
     (ii) the Board recommends to Congress for designation as a Partnership;
 
-  (B) describes any proposed modifications to a Partnership previously designated by Congress under subsection (f);
+  (B) describes any proposed modifications to a Partnership previously designated by Congress under subsection (f); 11 So in original. Probably should be followed by “and”.
 
   (C) with respect to each entity recommended for designation as a Partnership, describes, to the maximum extent practicable—
 
@@ -590,7 +590,7 @@ The Water Resources Development Act of 1986, referred to in subsec. (g)(2)(C), i
 <a id="section-8211"></a>
 ## § 8211. Nonapplicability of Federal Advisory Committee Act
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to—
+The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to—
 
 (1) the Board; or
 
@@ -599,7 +599,7 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to—
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-8212"></a>

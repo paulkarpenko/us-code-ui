@@ -14,7 +14,7 @@ It shall be lawful for any citizen of the United States, or any person of requis
 ### Statutory Notes
 
 #### References in Text
-Section 3 of the Act of June 16, 1955, referred to in text, is section 3 of act June 16, 1955, ch. 145, 69 Stat. 138, as amended, which is set out as an Additional Desert-Land Entry note under [section 83 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section83&num=0&edition=prelim), Mineral Lands and Mining.
+Section 3 of the Act of June 16, 1955, referred to in text, is section 3 of act June 16, 1955, ch. 145, 69 Stat. 138, which is set out as an Additional Desert-Land Entry note under [section 83 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section83&num=0&edition=prelim), Mineral Lands and Mining.
 
 #### Codification
 The original text provided for the sale of 640 acres. The aggregate quantity which any person could acquire under all the land laws was limited, however, to 320 acres by act Aug. 30, 1890 (set out as [section 212 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section212&num=0&edition=prelim)) except in the case of mineral lands.

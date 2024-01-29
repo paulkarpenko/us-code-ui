@@ -28,7 +28,7 @@ As used in this chapter:
 #### References in Text
 Act of June 17, 1902, referred to in par. (2), is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
-The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§ 422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 422k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-422k) and Tables.
+The Small Reclamation Projects Act of 1956, referred to in par. (3), is act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§ 422a et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 422k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-422k) and Tables.
 
 #### Short Title
 Pub. L. 102–250, § 1, Mar. 5, 1992, 106 Stat. 53, provided that: “This Act [enacting this chapter] may be cited as the ‘Reclamation States Emergency Drought Relief Act of 1991’.”
@@ -287,7 +287,7 @@ For provisions directing that authorities established under this subchapter shal
 
 **(b) Coordination with BPA** If a Governor referred to in subsection (a) is the Governor of the State of Washington, Oregon, Idaho, or Montana, the Governor shall coordinate with the Administrator of the Bonneville Power Administration before making a request under subsection (a).
 
-**(c) Termination of authority** The authorities established under this subchapter shall terminate on September 30, 2022.
+**(c) Termination of authority** The authorities established under this subchapter shall terminate on September 30, 2022.11 See Extension of Termination of Authority note below.
 
 ### Statutory Notes
 
@@ -307,6 +307,13 @@ For provisions directing that authorities established under this subchapter shal
 2000—Subsec. (a). Pub. L. 106–566, § 201(a)(1), inserted “and in the State of Hawaii” after “Reclamation State”.
 
 Subsec. (c). Pub. L. 106–566, § 201(a)(2), substituted “on September 30, 2005” for “ten years after March 5, 1992”.
+
+#### Extension of Termination of Authority
+Pub. L. 118–42, div. D, title II, § 206(a), Mar. 9, 2024, 138 Stat. 194, provided that: “Section 104(c) of the Reclamation States Emergency Drought Relief Act of 1991 ([43 U.S.C. 2214(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section2214/c&num=0&edition=prelim)) shall be applied by substituting ‘2024’ for ‘2022’.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. D, title II, § 206(a), Dec. 29, 2022, 136 Stat. 4631.
 
 
 <a id="section-2221"></a>
@@ -361,7 +368,7 @@ The Secretary, acting pursuant to the Federal Reclamation laws, utilizing the re
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The Fish and Wildlife Coordination Act, referred to in subsec. (d), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, which is classified generally to sections 661 to 666c–1 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 661(a) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661/a&num=0&edition=prelim), Short Title note set out under [section 661 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section661&num=0&edition=prelim), and Tables.
 
@@ -394,7 +401,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 <a id="section-2242"></a>
 ## § 2242. Authorization of appropriations
 
-Except as otherwise provided in [section 2243 of this title](./chapter-040-reclamation-states-emergency-drought-relief.md#section-2243) (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2022.
+Except as otherwise provided in [section 2243 of this title](./chapter-040-reclamation-states-emergency-drought-relief.md#section-2243) (relating to temperature control devices at Shasta Dam, California), there is authorized to be appropriated not more than $120,000,000 in total for the period of fiscal years 2006 through 2022.11 See Extension of Authorization of Appropriations note below.
 
 ### Statutory Notes
 
@@ -422,6 +429,13 @@ Pub. L. 108–7 substituted “2002, and 2003” for “and 2002”.
 1999—Pub. L. 106–60 substituted “1999, and 2000” for “and 1997”.
 
 1996—Pub. L. 104–206 substituted “1996, and 1997” for “and 1996”.
+
+#### Extension of Authorization of Appropriations
+Pub. L. 118–42, div. D, title II, § 206(b), Mar. 9, 2024, 138 Stat. 194, provided that: “Section 301 of the Reclamation States Emergency Drought Relief Act of 1991 ([43 U.S.C. 2241](./chapter-040-reclamation-states-emergency-drought-relief.md#section-2241)) shall be applied by substituting ‘2024’ for ‘2022’ and by substituting ‘$130,000,000’ for ‘$120,000,000’.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. D, title II, § 206(b), Dec. 29, 2022, 136 Stat. 4631.
 
 
 <a id="section-2243"></a>

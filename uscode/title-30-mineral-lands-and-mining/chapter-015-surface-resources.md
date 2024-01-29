@@ -14,11 +14,11 @@ The Secretary, under such rules and regulations as he may prescribe, may dispose
 ### Statutory Notes
 
 #### References in Text
-Subchapter V (§ 1181a et seq.) of chapter 28 of title 43, referred to in text, was in the original a reference to the Acts of Aug. 28, 1937 (50 Stat. 874), and June 24, 1954 (68 Stat. 270), as amended. For complete classification of these Acts to the Code, see Tables.
+Subchapter V (§ 1181a et seq.) of chapter 28 of title 43, referred to in text, was in the original a reference to the Acts of Aug. 28, 1937 (50 Stat. 874), and June 24, 1954 (68 Stat. 270). For complete classification of these Acts to the Code, see Tables.
 
-Subchapter I (§ 315 et seq.) of chapter 8A of title 43, referred to in text, was in the original a reference to the Act of June 28, 1934 (48 Stat. 1269), as amended, known as the Taylor Grazing Act. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315&num=0&edition=prelim) and Tables.
+Subchapter I (§ 315 et seq.) of chapter 8A of title 43, referred to in text, was in the original a reference to the Act of June 28, 1934 (48 Stat. 1269), known as the Taylor Grazing Act. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section315&num=0&edition=prelim) and Tables.
 
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended. Title III of such Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of such Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1955—Act July 23, 1955, required disposal under this subchapter of common varieties of sand, stone, gravel, pumice, pumicite, and cinders, and gave the Secretary of Agriculture the same authority as to lands under his jurisdiction as the Secretary of Interior possesses as to lands under his jurisdiction in the disposal of mining and vegetative materials.
@@ -67,7 +67,7 @@ Subchapter I of chapter 44 of title 43, referred to in text, was in the original
 
 Subchapter III of chapter 44 of title 43, referred to in text, was in the original a reference to act June 24, 1954, ch. 357, 68 Stat. 270, which is classified principally to subchapter III (§ 2631 et seq.) of chapter 44 of Title 43. For complete classification of this Act to the Code, see Tables.
 
-Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, as amended. Section 1 of that Act, which made reservation of certain Alaska lands for educational purposes, covered disposition of proceeds or income derived from reserved lands, and set out the exclusion of certain lands, was classified to [section 353 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section353&num=0&edition=prelim), Territories and Insular Possessions, and was repealed by Pub. L. 85–508, § 6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915 (38 Stat. 1214), referred to in text, is act Mar. 4, 1915, ch. 181, 38 Stat. 1214. Section 1 of that Act, which made reservation of certain Alaska lands for educational purposes, covered disposition of proceeds or income derived from reserved lands, and set out the exclusion of certain lands, was classified to [section 353 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section353&num=0&edition=prelim), Territories and Insular Possessions, and was repealed by Pub. L. 85–508, § 6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1955—Act July 23, 1955, provided for the disposal of moneys received by the Secretary of Agriculture, and for the disposal of revenues from lands described in subchapters I and III of chapter 44 of title 43.

@@ -268,6 +268,9 @@ Subsec. (c)(3)(C). Pub. L. 115–325, § 101(c)(2)(B)–(D), added subpar. (C).
 
 Subsec. (c)(5). Pub. L. 115–325, § 101(c)(3), substituted “Not later than 1 year after December 18, 2018, the Secretary of Energy shall” for “The Secretary of Energy may”.
 
+#### Tribal Energy Loan Guarantee Program
+Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4637, provided in part: “That in this fiscal year and subsequent fiscal years, under section 2602(c) of the Energy Policy Act of 1992 ([25 U.S.C. 3502(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3502/c&num=0&edition=prelim)), the Secretary of Energy may also provide direct loans, as defined in section 502 of the Congressional Budget Act of 1974 ([2 U.S.C. 661a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661a&num=0&edition=prelim)): Provided further, That such direct loans shall be made through the Federal Financing Bank, with the full faith and credit of the United States Government on the principal and interest: Provided further, That any funds previously appropriated for the cost of loan guarantees under section 2602(c) of the Energy Policy Act of 1992 ([25 U.S.C. 3502(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3502/c&num=0&edition=prelim)) may also be used, in this fiscal year and subsequent fiscal years, for the cost of direct loans provided under such section of such Act”.
+
 
 <a id="section-3503"></a>
 ## § 3503. Indian tribal energy resource regulation

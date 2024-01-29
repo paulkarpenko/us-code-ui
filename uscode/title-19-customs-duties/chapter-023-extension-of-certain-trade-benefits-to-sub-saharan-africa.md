@@ -868,7 +868,7 @@ It is the sense of the Congress that, to the extent appropriate, the United Stat
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 10 of part I of the Act is classified generally to part X (§ 2293 et seq.) of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (b)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 10 of part I of the Act is classified generally to part X (§ 2293 et seq.) of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is comprised of section 127 of Pub. L. 106–200. Subsec. (c) of section 127 of Pub. L. 106–200 amended [section 2293 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293&num=0&edition=prelim), Foreign Relations and Intercourse.

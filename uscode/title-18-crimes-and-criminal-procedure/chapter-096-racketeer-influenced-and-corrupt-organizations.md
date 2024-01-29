@@ -36,7 +36,7 @@ As used in this chapter—
 #### References in Text
 Section 102 of the Controlled Substances Act, referred to in par. (1)(A), (D), is classified to [section 802 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802&num=0&edition=prelim), Food and Drugs.
 
-Sections 2421–2424, referred to in par. (1)(B), are contained in chapter 117 of this title, the heading of which was amended by Pub. L. 99–628, § 5(a)(1), Nov. 7, 1986, 100 Stat. 3511, by substituting “Transportation for Illegal Sexual Activity and Related Crimes” for “White Slave Traffic”.
+Sections 2421–24, referred to in par. (1)(B), probably means sections 2421 to 2424 of this title, which are contained in chapter 117 of this title, the heading of which was amended by Pub. L. 99–628, § 5(a)(1), Nov. 7, 1986, 100 Stat. 3511, by substituting “Transportation for Illegal Sexual Activity and Related Crimes” for “White Slave Traffic”.
 
 The Currency and Foreign Transactions Reporting Act, referred to in par. (1)(E), is title II of Pub. L. 91–508, Oct. 26, 1970, 84 Stat. 1118, which was repealed and reenacted as subchapter II of chapter 53 of Title 31, Money and Finance, by Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31.
 
@@ -161,7 +161,7 @@ Pub. L. 91–452, title IX, § 904, Oct. 15, 1970, 84 Stat. 947, provided that: 
 Pub. L. 98–368, July 17, 1984, 98 Stat. 490, provided for the Commission established by Ex. Ord. No. 12435, formerly set out below, authority relating to taking of testimony, receipt of evidence, subpoena power, testimony of persons in custody, immunity, service of process, witness fees, access to other records and information, Federal protection for members and staff, closure of meetings, rules, and procedures, for the period of July 17, 1984, until the earlier of 2 years or the expiration of the Commission.
 
 #### Executive Order No. 12435
-Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507, Mar. 22, 1985, 50 F.R. 11835, which established and provided for the administration of the President’s Commission on Organized Crime, was revoked by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12435, July 28, 1983, 48 F.R. 34723, as amended Ex. Ord. No. 12507, Mar. 22, 1985, 50 F.R. 11835, which established and provided for the administration of the President’s Commission on Organized Crime, was revoked by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1962"></a>

@@ -2,7 +2,7 @@
 title: 46
 chapter: '700'
 heading: PORTS AND WATERWAYS SAFETY
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -439,6 +439,41 @@ Section 6(g)(1)(A) of Pub. L. 89–670, transferred functions, powers, and dutie
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
+<a id="section-70007"></a>
+## § 70007. Anchorage grounds
+**(a) Anchorage Grounds.—**
+
+(1) **Establishment.—** — The Secretary of the department in which the Coast Guard is operating shall define and establish anchorage grounds in the navigable waters of the United States for vessels operating in such waters.
+
+(2) **Relevant factors for establishment.—** — In carrying out paragraph (1), the Secretary shall take into account all relevant factors concerning navigational safety, protection of the marine environment, proximity to undersea pipelines and cables, safe and efficient use of Marine Transportation System, and national security.
+
+**(b) Vessel Requirements.—** Vessels, of certain sizes or type determined by the Secretary, shall—
+
+(1) set and maintain an anchor alarm for the duration of an anchorage;
+
+(2) comply with any directions or orders issued by the Captain of the Port; and
+
+(3) comply with any applicable anchorage regulations.
+
+**(c) Prohibitions.—** A vessel may not—
+
+(1) anchor in any Federal navigation channel unless authorized or directed to by the Captain of the Port;
+
+(2) anchor in near proximity, within distances determined by the Coast Guard, to an undersea pipeline or cable, unless authorized or directed to by the Captain of the Port; and
+
+(3) anchor or remain anchored in an anchorage ground during any period in which the Captain of the Port orders closure of the anchorage ground due to inclement weather, navigational hazard, a threat to the environment, or other safety or security concern.
+
+**(d) Safety Exception.—** Nothing in this section shall be construed to prevent a vessel from taking actions necessary to maintain the safety of the vessel or to prevent the loss of life or property.
+
+### Statutory Notes
+
+#### Savings Clause
+Pub. L. 117–263, div. K, title CXIII, § 11318(c), Dec. 23, 2022, 136 Stat. 4091, provided that: “Nothing in this section [enacting this section and provisions set out as a note under this section] shall limit any authority available, as of the date of enactment of this Act [Dec. 23, 2022], to the captain of a port with respect to safety measures or any other authority as necessary for the safety of vessels located in anchorage grounds in the navigable waters of the United States.”
+
+#### Construction; Applicability of Regulations
+Pub. L. 117–263, div. K, title CXIII, § 11318(e), Dec. 23, 2022, 136 Stat. 4091, provided that: “The amendments made by subsection (a) [enacting this section] may not be construed to alter any existing rules, regulations, or final agency actions issued under [section 70006 of title 46](./chapter-700-ports-and-waterways-safety.md#section-70006), United States Code, as in effect on the day before the date of enactment of this Act [Dec. 23, 2022], until all regulations required under subsection (b) [136 Stat. 4091] take effect.”
+
+
 <a id="section-70011"></a>
 ## § 70011. Waterfront safety
 **(a) In General.—** The Secretary may take such action as is necessary to—
@@ -593,6 +628,11 @@ Subsec. (c)(2). Pub. L. 116–283, § 8508(1)(B)(ii), substituted “periodicall
 Subsec. (e). Pub. L. 116–283, § 8508(1)(B)(i), substituted “section 70001(a)(5)” for “section 4(a)(5)” in introductory provisions.
 
 Subsec. (h). Pub. L. 116–283, § 8508(1)(B)(iii), struck out subsec. (h). Text read as follows: “In this section, the term ‘foreign vessel’ has the meaning given that term in [section 110 of title 46](./chapter-001-definitions.md#section-110), United States Code.”
+
+#### Prohibition on Entry and Operation of Russian Vessels
+Pub. L. 117–263, div. K, title CXV, § 11524, Dec. 23, 2022, 136 Stat. 4143, provided that: “(a) Prohibition.—“(1) In general.—Except as otherwise provided in this section, during the period in which Executive Order 14065 (87 Fed. Reg. 10293, relating to blocking certain Russian property or transactions), or any successor Executive Order is in effect, no vessel described in subsection (b) may enter or operate in the navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States. “(2) Limitations on application.—“(A) In general.—The prohibition under paragraph (1) shall not apply with respect to a vessel described in subsection (b) if the Secretary of State determines that—“(i) the vessel is owned or operated by a Russian national or operated by the government of the Russian Federation; and “(ii) it is in the national security interest not to apply the prohibition to such vessel. “(B) Notice.—Not later than 15 days after making a determination under subparagraph (A), the Secretary of State shall submit to the Committee on Foreign Affairs and the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Foreign Relations and the Committee on Commerce, Science, and Transportation of the Senate written notice of the determination and the basis upon which the determination was made. “(C) Publication.—The Secretary of State shall publish a notice in the Federal Register of each determination made under subparagraph (A). “(3) Savings clause.—The prohibition under paragraph (1) shall not apply with respect to vessels engaged in passage permitted under international law. “(b) Vessels Described.—A vessel referred to in subsection (a) is a vessel owned or operated by a Russian national or operated by the government of the Russian Federation. “(c) Information and Publication.—The Secretary, with the concurrence of the Secretary of State, shall—“(1) maintain timely information on the registrations of all foreign vessels owned or operated by or on behalf of the Government of the Russian Federation, a Russian national, or a entity organized under the laws of the Russian Federation or any jurisdiction within the Russian Federation; and “(2) periodically publish in the Federal Register a list of the vessels described in paragraph (1). “(d) Notification of Governments.—“(1) In general.—The Secretary of State shall notify each government, the agents or instrumentalities of which are maintaining a registration of a foreign vessel that is included on a list published under subsection (c)(2), not later than 30 days after such publication, that all vessels registered under such government’s authority are subject to subsection (a). “(2) Additional notification.—In the case of a government that continues to maintain a registration for a vessel that is included on such list after receiving an initial notification under paragraph (1), the Secretary shall issue an additional notification to such government not later than 120 days after the publication of a list under subsection (c)(2). “(e) Notification of Vessels.—Upon receiving a notice of arrival under [section 70001(a)(5) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70001/a/5&num=0&edition=prelim), United States Code, from a vessel described in subsection (b), the Secretary shall notify the master of such vessel that the vessel may not enter or operate in the navigable waters of the United States or transfer cargo in any port or place under the jurisdiction of the United States, unless—“(1) the Secretary of State has made a determination under subsection (a)(2); or “(2) the Secretary allows provisional entry of the vessel, or transfer of cargo from the vessel, under subsection (f). “(f) Provisional Entry or Cargo Transfer.—Notwithstanding any other provision of this section, the Secretary may allow provisional entry of, or transfer of cargo from, a vessel, if such entry or transfer is necessary for the safety of the vessel or persons aboard.”
+
+[For definition of “Secretary” as used in section 11524 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard.]
 
 
 <a id="section-70031"></a>
@@ -807,9 +847,9 @@ William J. Clinton.
 [Provisions of Proc. No. 6867 superseded to the extent of inconsistency with provisions of Procs. No. 7757, 9398, and 9699, see Sec. 6 of Proc. No. 7757, Sec. 6 of Proc. No. 9398, and Sec. 6 of Proc. No. 9699, set out below.]
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
-Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11601, provided:
+Notice of President of the United States, dated Feb. 17, 2023, 88 F.R. 10821, provided:
 
-On March 1, 1996, by Proclamation 6867, a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed United States-registered, civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757 [[46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051) note], the national emergency was expanded to deny monetary and material support to the Cuban government. On February 24, 2016, by Proclamation 9398, and on February 22, 2018, by Proclamation 9699 [[46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051) notes], the national emergency was further modified based on continued disturbances or threatened disturbances of the international relations of the United States related to Cuba. The Cuban government has not demonstrated that it will refrain from the use of excessive force against United States vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba.
+On March 1, 1996, by Proclamation 6867, a national emergency was declared to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Cuban government of two unarmed, United States-registered civilian aircraft in international airspace north of Cuba. On February 26, 2004, by Proclamation 7757 [[46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051) note], the national emergency was expanded to deny monetary and material support to the Cuban government. On February 24, 2016, by Proclamation 9398, and on February 22, 2018, by Proclamation 9699 [[46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051) notes], the national emergency was further modified based on continued disturbances or threatened disturbances of the international relations of the United States related to Cuba. The Cuban government has not demonstrated that it will refrain from the use of excessive force against United States vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba.
 
 Further, the unauthorized entry of any United States-registered vessel into Cuban territorial waters continues to be detrimental to the foreign policy of the United States because such entry could facilitate a mass migration from Cuba. It continues to be United States policy that a mass migration from Cuba would endanger United States national security by posing a disturbance or threatened disturbance of the international relations of the United States.
 
@@ -820,6 +860,10 @@ This notice shall be published in the Federal Register and transmitted to the Co
 J.R. Biden, Jr.
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 23, 2022, 87 F.R. 10685.
+
+Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11601.
 
 Notice of President of the United States, dated Feb. 25, 2020, 85 F.R. 11825.
 
@@ -1009,6 +1053,54 @@ Sec. 7. This proclamation shall be immediately transmitted to the Congress and p
 IN WITNESS WHEREOF, I have hereunto set my hand this twenty-second day of February, in the year of our Lord two thousand eighteen, and of the Independence of the United States of America the two hundred and forty-second.
 
 Donald J. Trump.
+
+#### Proc. No. 10371. Declaration of National Emergency and Invocation of Emergency Authority Relating to the Regulation of the Anchorage and Movement of Russian-Affiliated Vessels to United States Ports
+Proc. No. 10371, Apr. 21, 2022, 87 F.R. 24265, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) and section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (Magnuson Act) ([46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051)), I, JOSEPH R. BIDEN JR., President of the United States of America, hereby find and proclaim that:
+
+The policies and actions of the Government of the Russian Federation to continue the premeditated, unjustified, unprovoked, and brutal war against Ukraine constitute a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States. In order to address this national emergency and secure the observance of the rights and obligations of the United States, I hereby authorize the Secretary of Homeland Security (Secretary) to make and issue such rules and regulations as the Secretary may find appropriate to regulate the anchorage and movement of Russian-affiliated vessels, and delegate to the Secretary my authority to approve such rules and regulations, as authorized by the Magnuson Act.
+
+Section 1. I hereby prohibit Russian-affiliated vessels from entering into United States ports.
+
+Sec. 2. The prohibition of section 1 of this proclamation applies except:
+
+(a) to Russian-affiliated vessels used in the transport of source material, special nuclear material, and nuclear byproduct material for which, and for such time as, the Secretary of Energy, in consultation with the Secretary of State and the Secretary of Commerce, determines that no viable source of supply is available that would not require transport by Russian-affiliated vessels; and
+
+(b) to Russian-affiliated vessels requesting only to enter United States ports due to force majeure, solely to allow seafarers of any nationality to disembark or embark for purposes of conducting crew changes, emergency medical care, or for other humanitarian need.
+
+Sec. 3. For the purposes of this proclamation:
+
+(a) the term “Russian-affiliated vessels” means:
+
+(i) vessels of Russian registry (i.e., the vessel is Russian flagged);
+
+(ii) vessels that are Russian owned (i.e., the legal title of ownership of the vessel that appears on the ship’s registration documents is the Government of the Russian Federation or a Russian company, citizen, or permanent resident); or
+
+(iii) vessels that are Russian operated (i.e., a Russian company, citizen, or permanent resident is responsible for the commercial decisions concerning the employment of a ship and decides how and where that asset is employed).
+
+(b) the term “byproduct material” has the same meaning given to that term in section 11(e) of the Atomic Energy Act of 1954, as amended (AEA) ([42 U.S.C. 2014(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/e&num=0&edition=prelim)).
+
+(c) the term “source material” has the same meaning given to that term in section 11(z) of the AEA ([42 U.S.C. 2014(z)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/z&num=0&edition=prelim)).
+
+(d) the term “special nuclear material” has the same meaning given to that term in section 11(aa) of the AEA ([42 U.S.C. 2014(aa)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/aa&num=0&edition=prelim)).
+
+Sec. 4. The prohibition set forth in this proclamation shall be effective as of 12:01 a.m. eastern daylight time on April 28, 2022, and shall be immediately transmitted to the Congress and published in the Federal Register.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-first day of April, in the year of our Lord two thousand twenty-two, and of the Independence of the United States of America the two hundred and forty-sixth.
+
+J.R. Biden, Jr.
+
+#### Continuation of National Emergency Declared by Proc. No. 10371
+Notice of President of the United States, dated Apr. 18, 2023, 88 F.R. 24327, provided:
+
+On April 21, 2022, by Proclamation 10371, I declared a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States and authorized the Secretary of Homeland Security to regulate the anchorage and movement of Russian-affiliated vessels, pursuant to the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) and section 1 of title II of Public Law 65–24, ch. 30, June 15, 1917, as amended (Magnuson Act) ([46 U.S.C. 70051](./chapter-700-ports-and-waterways-safety.md#section-70051)).
+
+The policies and actions of the Government of the Russian Federation to continue the premeditated, unjustified, unprovoked, and brutal war against Ukraine continue to constitute a national emergency by reason of a disturbance or threatened disturbance of international relations of the United States. Therefore, in accordance with section 202(d) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim)), I am continuing for 1 year the national emergency with respect to the Russian Federation and the emergency authority relating to the regulation of the anchorage and movement of Russian-affiliated vessels to United States ports set out in Proclamation 10371.
+
+This notice shall be published in the Federal Register and transmitted to the Congress.
+
+J.R. Biden, Jr.
 
 
 <a id="section-70052"></a>

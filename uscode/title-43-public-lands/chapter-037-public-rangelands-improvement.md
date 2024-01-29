@@ -37,7 +37,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Act of December 15, 1971, referred to in subsec. (a)(6), is Pub. L. 92–195, Dec. 15, 1971, 85 Stat. 649, as amended, popularly known as the Wild Free-Roaming Horses and Burros Act, which is classified generally to chapter 30 (§ 1331 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1331&num=0&edition=prelim) and Tables.
+Act of December 15, 1971, referred to in subsec. (a)(6), is Pub. L. 92–195, Dec. 15, 1971, 85 Stat. 649, popularly known as the Wild Free-Roaming Horses and Burros Act, which is classified generally to chapter 30 (§ 1331 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1331 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1331&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which enacted this chapter and amended sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
@@ -83,9 +83,9 @@ This chapter, referred to in opening provision and in subsec. (b), was in the or
 ### Statutory Notes
 
 #### References in Text
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
 
-The Taylor Grazing Act, referred to in subsec. (b), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of this title](./chapter-8a-grazing-lands.md#section-315) and Tables.
+The Taylor Grazing Act, referred to in subsec. (b), is act June 28, 1934, ch. 865, 48 Stat. 1269, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of this title](./chapter-8a-grazing-lands.md#section-315) and Tables.
 
 
 <a id="section-1904"></a>
@@ -101,7 +101,7 @@ The Taylor Grazing Act, referred to in subsec. (b), is act June 28, 1934, ch. 86
 ### Statutory Notes
 
 #### References in Text
-National Environmental Policy Act, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+National Environmental Policy Act, referred to in subsec. (d), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1905"></a>

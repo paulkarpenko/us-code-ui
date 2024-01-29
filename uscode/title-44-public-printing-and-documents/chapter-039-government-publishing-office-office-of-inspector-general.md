@@ -86,7 +86,7 @@ Section effective 180 days after Oct. 18, 1988, see section 206 of 100–504, se
 
 <a id="section-3903"></a>
 ## § 3903. Duties, responsibilities, authority, and reports
-**(a)** Sections 4, 5, 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3) shall apply to the Inspector General of the Government Publishing Office and the Office of such Inspector General and such sections shall be applied to the Government Publishing Office and the Director of the Government Publishing Office by substituting—
+**(a)** Sections 404, 405, 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5 shall apply to the Inspector General of the Government Publishing Office and the Office of such Inspector General and such sections shall be applied to the Government Publishing Office and the Director of the Government Publishing Office by substituting—
 
 (1) “Government Publishing Office” for “establishment”; and
 
@@ -98,7 +98,7 @@ Section effective 180 days after Oct. 18, 1988, see section 206 of 100–504, se
 
 (2) Appointments under the authority under paragraph (1) shall be made consistent with personnel security and suitability requirements.
 
-(3) Any appointment of a consultant under the authority under paragraph (1) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).
+(3) Any appointment of a consultant under the authority under paragraph (1) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).11 See References in Text note below.
 
 **(c)**
 
@@ -140,7 +140,7 @@ Section effective 180 days after Oct. 18, 1988, see section 206 of 100–504, se
 
 (3)
 
-  (A) Before the first grant of authority under paragraph (1), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this subsection.
+  (A) Before the first grant of authority under paragraph (1), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.),1 the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this subsection.
 
   (B) The authority granted under this subsection (including any grant of authority to an individual under paragraph (1), without regard to whether the individual is in compliance with paragraph (2)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under subparagraph (A) of this paragraph or paragraph (4). Any suspension of authority under this subparagraph shall be reported to the appropriate committees of Congress.
 
@@ -159,9 +159,11 @@ Section effective 180 days after Oct. 18, 1988, see section 206 of 100–504, se
 ### Statutory Notes
 
 #### References in Text
-Sections 4, 5, 6, and 7 of the Inspector General Act of 1978, referred to in subsecs. (a), (b)(3), and (c)(3)(A), are sections 4, 5, 6, and 7 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsecs. (b)(3) and (c)(3)(A), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “Sections 404, 405, 406 (other than subsection (a)(7) and (8) thereof), and 407 of title 5” for “Sections 4, 5, 6 (other than subsection (a)(7) and (8) thereof), and 7 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3)” in introductory provisions.
+
 2019—Subsec. (b). Pub. L. 116–94, § 1605(c), designated existing provisions as par. (1), inserted “, without the supervision or approval of any other employee, office, or other entity within the Government Publishing Office,” after “is authorized”, and added pars. (2) and (3).
 
 Subsec. (c). Pub. L. 116–94, § 1603(c), added subsec. (c).

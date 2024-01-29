@@ -2,7 +2,7 @@
 title: 10
 chapter: '50'
 heading: MISCELLANEOUS COMMAND RESPONSIBILITIES
-section_count: 4
+section_count: 5
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -273,21 +273,31 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 
   (A) In the case of a military installation at which at least 2,000 members of the armed forces on active duty are assigned, the Secretary concerned—
 
-    (i) shall provide counseling on financial services under this subsection through a full-time financial services counselor at such installation; and
+    (i) shall provide counseling on financial services under this subsection through a full-time financial services counselor at such installation;
 
-    (ii) may provide such counseling at such installation by any means elected by the Secretary from among the following:
+    (ii) shall provide such counseling at such installation—
 
-      (I) Through members of the armed forces in pay grade E–7 or above, or civilians, who provide such counseling as part of their other duties for the armed forces or the Department of Defense.
+      (I) through members of the armed forces in pay grade E–7 or above, or civilians, who provide such counseling as part of their other duties for the armed forces or the Department of Defense;
 
-      (II) By contract, including contract for services by telephone and by the Internet.
+      (II) by contract, including contract for services by telephone and by the Internet; or
 
-      (III) Through qualified representatives of nonprofit organizations and agencies under formal agreements with the Department of Defense to provide such counseling.
+      (III) through qualified representatives of nonprofit organizations and agencies under formal agreements with the Department of Defense to provide such counseling; and
 
-  (B) In the case of any military installation not described in subparagraph (A), the Secretary concerned shall provide counseling on financial services under this subsection at such installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.
+    (iii) may not provide financial services through any individual unless such individual agrees to submit financial disclosures annually to the Secretary.
+
+  (B) In the case of any military installation not described in subparagraph (A), the Secretary concerned shall provide counseling on financial services under this subsection at such installation in accordance with the requirements established under subparagraph (A)(ii) and (iii).
 
 (3) Each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), shall be an individual who, by reason of education, training, or experience, is qualified to provide helpful counseling to members of the armed forces and their spouses on financial services and marketing practices described in subsection (a)(1). Such individual may be a member of the armed forces or an employee of the Federal Government.
 
-(4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
+(4)
+
+  (A) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
+
+  (B) In carrying out the requirements of subparagraph (A), the Secretary concerned shall establish a requirement that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraph (2), submit financial disclosures annually to the Secretary.
+
+  (C) The Secretary concerned shall review all financial disclosures submitted pursuant to subparagraph (B) to ensure the counselor, or the individual providing counseling, is free from conflict as required under this paragraph.
+
+  (D) If the Secretary concerned determines that a financial services counselor under paragraph (2)(A)(i), or any other individual providing counseling on financial services under paragraph (2), is not free from conflict as required under this paragraph, the Secretary shall ensure that the counselor, or the individual providing counseling, does not provide such services until such time as the Secretary determines that such conflict is resolved.
 
 **(c) Life Insurance.—** In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers’ Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
@@ -314,6 +324,22 @@ Pub. L. 106–398, § 1 [[div. A], title V, § 574(d)], Oct. 30, 2000, 114 Stat.
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(2)(A)(i). Pub. L. 118–31, § 524(a)(1)(A), struck out “and” after “installation;”.
+
+Subsec. (b)(2)(A)(ii). Pub. L. 118–31, § 524(a)(1)(B)(i), (ii), in introductory provisions, substituted “shall” for “may” and “installation—” for “installation by any means elected by the Secretary from among the following:”.
+
+Subsec. (b)(2)(A)(ii)(I). Pub. L. 118–31, § 524(a)(1)(B)(iii), substituted “through” for “Through” and “Defense;” for “Defense.”
+
+Subsec. (b)(2)(A)(ii)(II). Pub. L. 118–31, § 524(a)(1)(B)(iv), substituted “by contract” for “By contract” and “Internet; or” for “Internet.”
+
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 118–31, § 524(a)(1)(B)(v), substituted “through” for “Through” and “counseling; and” for “counseling.”
+
+Subsec. (b)(2)(A)(iii). Pub. L. 118–31, § 524(a)(1)(C), added cl. (iii).
+
+Subsec. (b)(2)(B). Pub. L. 118–31, § 524(a)(2), substituted “installation in accordance with the requirements established under subparagraph (A)(ii) and (iii).” for “installation by any of the means set forth in subparagraph (A)(ii), as elected by the Secretary concerned.”
+
+Subsec. (b)(4). Pub. L. 118–31, § 524(a)(3), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+
 2015—Pub. L. 114–92, § 661(e)(1), substituted “Financial literacy training: financial services” for “Consumer education: financial services” in section catchline.
 
 Subsec. (a). Pub. L. 114–92, § 661(b)(1), substituted “Financial Literacy Training” for “Consumer Education” in heading.
@@ -398,6 +424,9 @@ Subsec. (b)(1) to (3). Pub. L. 112–239, § 2851(b), added pars. (1) and (2) an
 
 Subsec. (d). Pub. L. 112–239, § 2851(c), added subsec. (d).
 
+#### Special Operations Force Structure
+Pub. L. 118–31, div. A, title X, § 1075, Dec. 22, 2023, 137 Stat. 410, provided that: “(a) Report.—Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report containing an assessment of the optimal force structure for special operations forces. Such report shall include—“(1) a description of the role of special operations forces in implementing the most recent national defense strategy under [section 113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), United States Code; “(2) a detailed accounting of the demand for special operations forces by the geographic combatant commands; “(3) an assessment of current and projected capabilities and capacities of the general purpose forces of the United States Armed Forces, including forces that enable special operations, that could affect force structure capability and capacity requirements of special operations forces; “(4) an assessment of the size, composition, and organizational structure of the special operations command headquarters of each of the Armed Forces and subordinate headquarters elements; “(5) an assessment of the adequacy of special operations force structure for meeting the goals of the National Military Strategy under [section 153(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section153/b&num=0&edition=prelim), United States Code; “(6) a description of the role of special operations forces in supporting the Joint Concept for Competing; and “(7) any other matters the Secretary of Defense determines relevant. “(b) Notification Required.—Except as provided in subsection (d), not later than 15 days before making any reduction in the number of special operations forces by more than 1,000 personnel and prior to implementing or announcing such reduction, the Secretary of Defense shall submit to the congressional defense committees written notification of the decision to make such reduction. “(c) Contents of Notification.—A notification required under subsection (b) shall include—“(1) details of the planned changes to force structure and personnel requirements and a justification for the planned changes, including—“(A) which units or occupational skills are planned to be reduced or reallocated; and “(B) to which units or capabilities the force structure is planned to be transferred or reallocated; “(2) an accounting of the personnel planned to be transferred under the force structure change, including which units such personnel are planned to be transferred to and from; “(3) an analysis of the expected implications of the planned change on the ability of the Department of Defense to carry out operational and campaign plans of combatant commanders, support the Joint Concept for Competing, and meet the goals of the most recent national defense strategy under [section 113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113/g&num=0&edition=prelim), United States Code; and “(4) any other matters the Secretary of Defense determines relevant. “(d) Exception.—The notification requirement under subsection (b) shall not apply with respect to a reduction in the number of special operations forces if the Secretary of Defense submits to the congressional defense committees certification that such reduction needs to be implemented expeditiously for reasons of military urgency. “(e) Definitions.—In this section:“(1) The term ‘special operations forces’ means the forces described in [section 167(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/j&num=0&edition=prelim), United States Code. “(2) The term ‘force structure’, when used with respect to an organization, means—“(A) the mission of the organization; “(B) the personnel required to operate the organization; and “(C) the equipment required to execute the mission of the organization.”
+
 #### Notification of Necessary Assessments or Studies
 Pub. L. 113–66, div. A, title X, § 1074(b), Dec. 26, 2013, 127 Stat. 870, provided that: “The Secretary of the Army, when making a congressional notification in accordance with [section 993 of title 10](./chapter-050-miscellaneous-command-responsibilities.md#section-993), United States Code, shall include the Secretary’s assessment of whether or not the changes covered by the notification require an Environmental Assessment or Environmental Impact Statement in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.), and, if an assessment or study is required, the plan for conducting such assessment or study.”
 
@@ -409,3 +438,22 @@ Pub. L. 113–66, div. A, title X, § 1074(b), Dec. 26, 2013, 127 Stat. 870, pro
 **(b) Eligible Dogs.—** A retired military working dog eligible for veterinary care under this section is any military working dog adopted under [section 2583 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2583).
 
 **(c) Standards of Care.—** The veterinary care provided under the system authorized by this section shall meet such standards as the Secretary shall establish and from time to time update.
+
+
+<a id="section-995"></a>
+## § 995. Accountability for contractors using military working dogs
+**(a) Annual Reporting Requirement for Contractors.—** Each covered contract shall specify that the contractor is required to submit to the Under Secretary of Defense (Comptroller), on an annual basis for the duration of the covered contract, a report containing an identification of—
+
+(1) the number of military working dogs that are in the possession of the covered contractor and located outside of the continental United States in support of a military operation, if any; and
+
+(2) the primary location of any such military working dogs.
+
+**(b) Covered Contract Defined.—** In this section the term “covered contract” means a contract that the Secretary of Defense determines involves military working dogs.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–263, div. A, title III, § 382(b), Dec. 23, 2022, 136 Stat. 2543, provided that: “[Section 995 of title 10](./chapter-050-miscellaneous-command-responsibilities.md#section-995), United States Code, as added by subsection (a), shall apply with respect to a contract entered into on or after the date of the enactment of this Act [Dec. 23, 2022].”
+
+#### Deadline for Guidance
+Pub. L. 117–263, div. A, title III, § 382(d), Dec. 23, 2022, 136 Stat. 2543, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense (Comptroller) shall issue the guidance on the annual reporting requirement under [section 995 of title 10](./chapter-050-miscellaneous-command-responsibilities.md#section-995), United States Code, as added by subsection (a).”

@@ -579,7 +579,7 @@ Subsec. (j). Pub. L. 117–58, § 22413, added subsec. (j).
 
 (1) to provide information, directly cause information to be provided, or otherwise directly assist in any investigation regarding any conduct which the employee reasonably believes constitutes a violation of any Federal law, rule, or regulation relating to railroad safety or security, or gross fraud, waste, or abuse of Federal grants or other public funds intended to be used for railroad safety or security, if the information or assistance is provided to or an investigation stemming from the provided information is conducted by—
 
-  (A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);
+  (A) a Federal, State, or local regulatory or law enforcement agency (including an office of the Inspector General under chapter 4 of title 5; 11 So in original. A closing parenthesis probably should precede the semicolon.
 
   (B) any Member of Congress, any committee of Congress, or the Government Accountability Office; or
 
@@ -635,17 +635,17 @@ Subsec. (j). Pub. L. 117–58, § 22413, added subsec. (j).
 
   (A) *In general.—* — Any action under paragraph (1) shall be governed under the rules and procedures set forth in section 42121(b), including:
 
-    (i) *Burdens of proof.—* — Any action brought under (d)(1) 11 So in original. Probably should be preceded by “subsection”. shall be governed by the legal burdens of proof set forth in section 42121(b).
+    (i) *Burdens of proof.—* — Any action brought under (d)(1) 22 So in original. Probably should be preceded by “subsection”. shall be governed by the legal burdens of proof set forth in section 42121(b).
 
     (ii) *Statute of limitations.—* — An action under paragraph (1) shall be commenced not later than 180 days after the date on which the alleged violation of subsection (a), (b), or (c) of this section occurs.
 
-    (iii) *Civil actions to enforce.—* — If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121.22 So in original. Probably should be preceded by “section”.
+    (iii) *Civil actions to enforce.—* — If a person fails to comply with an order issued by the Secretary of Labor pursuant to the procedures in section 42121(b), the Secretary of Labor may bring a civil action to enforce the order in the district court of the United States for the judicial district in which the violation occurred, as set forth in 42121.33 So in original. Probably should be preceded by “section”.
 
   (B) *Exception.—* — Notification made under section 42121(b)(1) shall be made to the person named in the complaint and the person’s employer.
 
 (3) **De novo review.—** — With respect to a complaint under paragraph (1), if the Secretary of Labor has not issued a final decision within 210 days after the filing of the complaint and if the delay is not due to the bad faith of the employee, the employee may bring an original action at law or equity for de novo review in the appropriate district court of the United States, which shall have jurisdiction over such an action without regard to the amount in controversy, and which action shall, at the request of either party to such action, be tried by the court with a jury.
 
-(4) **Appeals.—** — Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b),33 So in original. The comma probably should not appear. may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
+(4) **Appeals.—** — Any person adversely affected or aggrieved by an order issued pursuant to the procedures in section 42121(b),44 So in original. The comma probably should not appear. may obtain review of the order in the United States court of appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. The review shall conform to chapter 7 of title 5. The commencement of proceedings under this paragraph shall not, unless ordered by the court, operate as a stay of the order.
 
 **(e) Remedies.—**
 
@@ -709,10 +709,9 @@ Subsection (d) is substituted for 45:441(d) for clarity and to eliminate unneces
 
 Subsection (e)(2) is substituted for 45:441(f)(2) to eliminate unnecessary words.
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(A), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a)(1)(A). Pub. L. 117–286 substituted “chapter 4 of title 5;” for “the Inspector General Act of 1978 (5 U.S.C. App.; Public Law 95–452);”.
+
 2008—Subsec. (c). Pub. L. 110–432, § 419(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 110–432, § 419(a)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
@@ -1199,7 +1198,7 @@ The Secretary may make applicable some or all of the standards established under
 
 **(c) Personnel.—** The Secretary may establish within the Department of Transportation 2 additional full-time equivalent positions beyond the number permitted under existing law to assist with the drafting, prescribing, and implementation of regulations under this section.
 
-**(d) Consultation.—** In prescribing regulations, issuing orders, and making amendments under this section, the Secretary may consult with Amtrak, public authorities operating railroad passenger service, other railroad carriers transporting passengers, organizations of passengers, and organizations of employees. A consultation is not subject to the Federal Advisory Committee Act (5 U.S.C. App.), but minutes of the consultation shall be placed in the public docket of the regulatory proceeding.
+**(d) Consultation.—** In prescribing regulations, issuing orders, and making amendments under this section, the Secretary may consult with Amtrak, public authorities operating railroad passenger service, other railroad carriers transporting passengers, organizations of passengers, and organizations of employees. A consultation is not subject to chapter 10 of title 5, but minutes of the consultation shall be placed in the public docket of the regulatory proceeding.
 
 ### Statutory Notes
 
@@ -1216,10 +1215,9 @@ In subsections (b) and (c), the word “subsequent” is omitted as surplus.
 
 In subsection (c), the word “Amtrak” is substituted for “National Railroad Passenger Corporation” for consistency in this subtitle. The word “regulatory” is substituted for “rulemaking” for consistency in the revised title.
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–286 substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (5 U.S.C. App.),”.
+
 1996—Subsec. (b)(1). Pub. L. 104–287, § 5(47)(A), substituted “November 2, 1994” for “the date of enactment of the Federal Railroad Safety Authorization Act of 1994”.
 
 Subsec. (b)(2). Pub. L. 104–287, § 5(47)(B), substituted “November 2, 1994” for “such date of enactment”.
@@ -2644,7 +2642,15 @@ A prior section 20167, Pub. L. 110–432, div. A, title IV, § 418(a), Oct. 16, 
 
 (2) **Exemptions.—** — The Secretary may exempt any railroad carrier subject to the requirements of subsection (a) or any part of the carrier’s operations from the requirements under subsection (a) if the Secretary determines that the carrier has implemented an alternative technology or practice that provides an equivalent or greater safety benefit or that is better suited to the risks of the operation.
 
-**(f) Tampering.—** A railroad carrier subject to the requirements of subsection (a) may take appropriate enforcement or administrative action against any employee that tampers with or disables an audio or inward- or outward-facing image recording device installed by the railroad carrier.
+**(f) Tampering.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), a railroad carrier subject to the requirements of subsection (a) may take appropriate enforcement or administrative action against any employee that tampers with or disables an audio or inward- or outward-facing image recording device installed by the railroad carrier.
+
+(2) **Temporarily obscuring field of view of an image recording device while expressing breast milk.—**
+
+  (A) *In general.—* — For purposes of expressing breast milk, an employee may temporarily obscure the field of view of an image recording device required under this section if the passenger train on which such device is installed is not in motion.
+
+  (B) *Resuming operation.—* — The crew of a passenger train on which an image recording device has been obscured pursuant to subparagraph (A) shall ensure that such image recording device is no longer obscured immediately after the employee has finished expressing breast milk and before resuming operation of the passenger train.
 
 **(g) Preservation of Data.—** Each railroad carrier subject to the requirements of subsection (a) shall preserve recording device data for 1 year after the date of a reportable accident or incident.
 
@@ -2658,6 +2664,12 @@ A prior section 20167, Pub. L. 110–432, div. A, title IV, § 418(a), Oct. 16, 
 
 #### References in Text
 The date of enactment of the Passenger Rail Reform and Investment Act of 2015, referred to in subsec. (a), is the date of enactment of title XI of div. A of Pub. L. 114–94, which was approved Dec. 4, 2015.
+
+#### Amendments
+2022—Subsec. (f). Pub. L. 117–328 designated existing provisions as par. (1) and inserted heading, substituted “Except as provided in paragraph (2), a railroad carrier” for “A railroad carrier”, and added par. (2).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. KK, § 103(c), Dec. 29, 2022, 136 Stat. 6096, provided that: “The amendments made by section 102(c) [amending this section] shall take effect on the date of enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date
 Section effective Oct. 1, 2015, see section 1003 of Pub. L. 114–94, set out as an Effective Date of 2015 Amendment note under [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees.

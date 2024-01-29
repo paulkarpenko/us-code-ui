@@ -373,7 +373,7 @@ Subsec. (b)(5)(E) to (K). Pub. L. 113–274, § 202(3), added subpars. (E) to (K
 ### Statutory Notes
 
 #### References in Text
-The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which is classified generally to section 1862h et seq. of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim) and Tables.
+The Scientific and Advanced Technology Act of 1992, referred to in subsec. (b)(1), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which enacted sections 1862h to 1862j of Title 42, The Public Health and Welfare, and amended [section 1862 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1861 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1861&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (a)(1). Pub. L. 116–115, § 3(f)(1), inserted “and students who are veterans” after “these fields”.

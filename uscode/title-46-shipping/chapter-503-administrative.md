@@ -2,7 +2,7 @@
 title: 46
 chapter: '503'
 heading: ADMINISTRATIVE
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -10,7 +10,7 @@ source: >-
 ## § 50301. Vessel Operations Revolving Fund
 **(a) In General.—** There is a “Vessel Operations Revolving Fund” for use by the Secretary of Transportation in carrying out duties and powers related to vessel operations, including charter, operation, maintenance, repair, reconditioning, and improvement of merchant vessels under the jurisdiction of the Secretary. The Fund has a working capital of $20,000,000, to remain available until expended.
 
-**(b) Relationship to Other Laws.—** Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294),11 See References in Text note below. apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
+**(b) Relationship to Other Laws.—** Notwithstanding any other law, rates for shipping services provided under the Fund shall be prescribed by the Secretary and the Fund shall be credited with receipts from vessel operations conducted under the Fund. Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 ([50 U.S.C. 4701(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4701/a&num=0&edition=prelim), (c), 4703(c), 4704), apply to those operations and to seamen employed through general agents as employees of the United States Government. Notwithstanding any other law on the employment of persons by the Government, the seamen may be employed in accordance with customary commercial practices in the maritime industry.
 
 **(c) Advancements.—** With the approval of the Director of the Office of Management and Budget, the Secretary may advance amounts the Secretary considers necessary, but not more than 2 percent of vessel operating expenses, from the Fund to the appropriation “Salaries and Expenses” in carrying out duties and powers related to vessel operations, without regard to the limitations on amounts stated in that appropriation.
 
@@ -66,8 +66,8 @@ In subsection (f), the words “On and after June 20, 1956”, and the last prov
 
 In subsection (g), the words “beginning July 1, 1956” and “after July 1, 1956” are omitted as obsolete.
 
-#### References in Text
-Sections 1(a) and (c), 3(c), and 4 of the Act of March 24, 1943 (50 App. U.S.C. 1291(a), (c), 1293(c), 1294), referred to in subsec. (b), are sections 1(a) and (c), 3(c), and 4 of act Mar. 24, 1943, ch. 26, 57 Stat. 45, 47, 49, 51, which were formerly classified to sections 1291(a), (c), 1293(c), and 1294 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification as sections 4701(a), (c), 4703(c), and 4704, respectively, of Title 50.
+#### Amendments
+2023—Subsec. (b). Pub. L. 118–31 substituted “([50 U.S.C. 4701(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4701/a&num=0&edition=prelim), (c), 4703(c), 4704)” for “(50 App. U.S.C. 1291(a), (c), 1293(c), 1294)”.
 
 
 <a id="section-50302"></a>
@@ -161,7 +161,7 @@ Subsec. (e)(3). Pub. L. 116–283, § 3504(4), inserted “or subsection (d)” 
 Pub. L. 116–92, div. C, title XXXV, § 3514(c), Dec. 20, 2019, 133 Stat. 1984, provided that: “A repeal made by subsection (b) of this section [amending this section] shall not affect amounts apportioned or allocated before the effective date of the repeal. Such apportioned or allocated funds shall continue to be subject to the requirements to which the funds were subject under— “(1) [section 50302(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50302/c&num=0&edition=prelim), United States Code, as in effect on the day before the date of enactment of this title [Dec. 20, 2019]; “(2) section 9008 of the SAFETEA-LU Act (Public Law 109–59; 119 Stat. 1926); “(3) section 10205 of the SAFETEA-LU Act (Public Law 109–59; 119 Stat. 1934); and “(4) section 3512 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ([48 U.S.C. 1421r](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1421r&num=0&edition=prelim)).”
 
 #### Strategic Seaports
-Pub. L. 113–66, div. C, title XXXV, § 3505(a), Dec. 26, 2013, 127 Stat. 1086, provided that: “(1) In general.—Under the port infrastructure development program established under [former] [section 50302(c) of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section50302/c&num=0&edition=prelim), United States Code, the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements. “(2) Strategic seaport defined.—In this subsection the term ‘strategic seaport’ means a military port or and [sic] commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations.”
+Pub. L. 113–66, div. C, title XXXV, § 3505(a), Dec. 26, 2013, 127 Stat. 1086, which established priority for funding to strategic seaports in support of national security requirements, was repealed by Pub. L. 118–31, div. C, title XXXV, § 3514(a)(1)(C), Dec. 22, 2023, 137 Stat. 810. See section 54301(a)(6)(C), (12)(E) of this title.
 
 
 <a id="section-50303"></a>
@@ -291,41 +291,123 @@ Subsection (c) is substituted for the source provision to eliminate unnecessary 
 
 <a id="section-50307"></a>
 ## § 50307. Maritime environmental and technical assistance program
-**(a) In General.—** The Secretary of Transportation, acting through the Maritime Administrator, shall engage in the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system through the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.
+**(a) Emerging Marine Technologies and Practices.—**
 
-**(b) Components.—** Under this section, the Secretary of Transportation shall identify, study, evaluate, test, demonstrate, or improve emerging marine technologies and practices to improve—
+(1) **In general.—** — The Secretary of Transportation, acting through the Maritime Administrator, shall engage in or support the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system through eligible entities.
 
-(1) environmental performance to meet United States Federal and international standards and guidelines, including—
+(2) **Components.—** — Under this subsection, the Secretary of Transportation shall identify, study, evaluate, test, demonstrate, improve, or support efforts related to, emerging marine technologies and practices to improve—
 
-  (A) reducing air emissions, water emissions, or other ship discharges;
+  (A) environmental performance to meet United States Federal and international standards and guidelines, including—
 
-  (B) increasing fuel economy or the use of alternative fuels and alternative energy (including the use of shore power); or
+    (i) reducing air emissions, water emissions, or other ship discharges;
 
-  (C) controlling aquatic invasive species; or
+    (ii) increasing fuel economy or the use of alternative fuels and alternative energy (including the use of shore power); or
 
-  (D) reducing propeller cavitation; and
+    (iii) controlling aquatic invasive species; or
 
-(2) the efficiency and safety of domestic maritime industries.
+    (iv) reducing incidental vessel-generated underwater noise, such as noise from propeller cavitation or hydrodynamic flow; and
 
-**(c) Coordination.—** Coordination under subsection (b)(2) may include—
+  (B) the efficiency and safety of domestic maritime industries.
 
-(1) activities that are associated with the development or approval of validation and testing regimes; and
+(3) **Coordination.—** — Coordination with other Federal agencies or with State, local, or Tribal governments, as appropriate, under paragraph (2)(B) may include—
 
-(2) certification or validation of emerging technologies or practices that demonstrate significant environmental or other benefits to domestic maritime industries.
+  (A) activities that are associated with the development or approval of validation and testing regimes; and
 
-**(d) Assistance.—** The Secretary of Transportation may accept gifts, or enter into cooperative agreements, contracts, or other agreements with academic, public, private, and nongovernmental entities and facilities to carry out the activities authorized under subsection (a).
+  (B) certification or validation of emerging technologies or practices that demonstrate significant environmental or other benefits to domestic maritime industries.
 
-**(e) Uses.—** The results of activities conducted under subsection (b)(1) shall be used to inform—
+(4) **Assistance.—** — The Secretary of Transportation may accept gifts, or enter into cooperative agreements, contracts, or other agreements with eligible entities to carry out the activities authorized under this subsection.
+
+(5) **Grants.—** — Subject to the availability of appropriations, the Maritime Administrator, may establish and carry out a competitive grant program to award grants to eligible entities for projects in the United States consistent with the goals of this subsection to study, evaluate, test, demonstrate, or apply technologies and practices to improve environmental performance.
+
+**(b) Uses.—** The results of activities conducted under this section shall be used to inform—
 
 (1) the policy decisions of the United States related to domestic regulations; and
 
 (2) the position of the United States on matters before the International Maritime Organization.
 
-**(f) Limitations on the Use of Funds.—** Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.
+**(c) Vessels.—** Activities carried out under a grant or cooperative agreement made under this section may be conducted on public vessels under the control of the Maritime Administration, upon approval of the Maritime Administrator.
+
+**(d) Eligible Entity Defined.—** In this section, the term “eligible entity” means—
+
+(1) a private entity, including a nonprofit organization;
+
+(2) a State, regional, or local government or entity, including special districts;
+
+(3) an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim))) or a consortium of Indian Tribes;
+
+(4) an institution of higher education as defined under section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)); or
+
+(5) a partnership or collaboration of entities described in paragraphs (1) through (4).
+
+**(e) Center for Maritime Innovation.—**
+
+(1) **In general.—** — The Secretary of Transportation shall, through a cooperative agreement, establish a United States Center for Maritime Innovation (referred to in this subsection as the “Center”) to support the study, research, development, assessment, and deployment of emerging marine technologies and practices related to the maritime transportation system.
+
+(2) **Selection.—** — The Center shall be—
+
+  (A) selected through a competitive process of eligible entities, and if a private entity, a domestic entity;
+
+  (B) based in the United States with technical expertise in emerging marine technologies and practices related to the maritime transportation system; and
+
+  (C) located in close proximity to eligible entities with expertise in United States emerging marine technologies and practices, including the use of alternative fuels and the development of both vessel and shoreside infrastructure.
+
+(3) **Coordination.—** — The Secretary of Transportation shall coordinate with other agencies critical for science, research, and regulation of emerging marine technologies for the maritime sector, including the Department of Energy, the Environmental Protection Agency, the National Science Foundation, and the Coast Guard, when establishing the Center.
+
+(4) **Functions.—** — The Center shall—
+
+  (A) support eligible entities regarding the development and use of clean energy and necessary infrastructure to support the deployment of clean energy on vessels of the United States;
+
+  (B) monitor and assess, on an ongoing basis, the current state of knowledge regarding emerging marine technologies in the United States;
+
+  (C) identify any significant gaps in emerging marine technologies research specific to the United States maritime industry, and seek to fill those gaps;
+
+  (D) conduct research, development, testing, and evaluation for equipment, technologies, and techniques to address the components under subsection (a)(2);
+
+  (E) provide—
+
+    (i) guidance on best available technologies;
+
+    (ii) technical analysis;
+
+    (iii) assistance with understanding complex regulatory requirements; and
+
+    (iv) documentation of best practices in the maritime industry, including training and informational webinars on solutions for the maritime industry; and
+
+  (F) work with academic and private sector response training centers and Domestic Maritime Workforce Training and Education Centers of Excellence to develop maritime strategies applicable to various segments of the United States maritime industry, including the inland, deep water, and coastal fleets.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 3543(a)(1), designated existing provisions as par. (1) and inserted subsec. heading.
+
+Subsec. (a)(1). Pub. L. 117–263, § 3543(a)(7)(A), inserted “or support” after “engage in” and substituted “eligible entities.” for “the use of public vessels under the control of the Maritime Administration or private vessels under United States registry, and through partnerships and cooperative efforts with academic, public, private, and nongovernmental entities and facilities.”
+
+Subsec. (a)(2). Pub. L. 117–263, § 3543(a)(4), (7)(B), redesignated subsec. (b) as par. (2), realigned margins, and substituted “this subsection” for “this section” and “improve, or support efforts related to,” for “or improve” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 117–263, § 3543(a)(4), (7)(C), redesignated subsec. (c) as par. (3), realigned margins, and substituted “with other Federal agencies or with State, local, or Tribal governments, as appropriate, under paragraph (2)(B) may include” for “under subsection (b)(2) may include” in introductory provisions.
+
+Subsec. (a)(4). Pub. L. 117–263, § 3543(a)(4), (7)(D), redesignated subsec. (d) as par. (4), realigned margins, and substituted “eligible entities” for “academic, public, private, and nongovernmental entities and facilities” and “this subsection” for “subsection (a)”.
+
+Subsec. (a)(5). Pub. L. 117–263, § 3543(a)(7)(E), added par. (5).
+
+Subsec. (b). Pub. L. 117–263, § 3543(a)(8), substituted “this section” for “subsection (b)(1)” in introductory provisions.
+
+Pub. L. 117–263, § 3543(a)(5), redesignated subsec. (e) as (b). Former subsec. (b) redesignated (a)(2).
+
+Pub. L. 117–263, § 3543(a)(2)(B), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, and realigned margins.
+
+Subsec. (b)(1). Pub. L. 117–263, § 3543(a)(2)(A), redesignated subpars. (A) to (D) as cls. (i) to (iv), respectively, realigned margins, and substituted “incidental vessel-generated underwater noise, such as noise from propeller cavitation or hydrodynamic flow” for “propeller cavitation” in cl. (iv).
+
+Subsec. (c). Pub. L. 117–263, § 3543(a)(9), added subsec. (c). Former subsec. (c) redesignated (a)(3).
+
+Pub. L. 117–263, § 3543(a)(3), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively, and realigned margins.
+
+Subsec. (d). Pub. L. 117–263, § 3543(a)(9), added subsec. (d). Former subsec. (d) redesignated (a)(4).
+
+Subsec. (e). Pub. L. 117–263, § 3543(a)(9), added subsec. (e). Former subsec. (e) redesignated (b).
+
+Subsec. (f). Pub. L. 117–263, § 3543(a)(6), struck out subsec. (f). Text read as follows: “Not more than three percent of the funds appropriated to carry out this section may be used for administrative purposes.”
+
 2021—Subsec. (a). Pub. L. 116–283 substituted “maritime transportation” for “marine transportation”.
 
 Subsecs. (e), (f). Pub. L. 117–81 added subsec. (e) and redesignated former subsec. (e) as (f).
@@ -338,6 +420,9 @@ Subsec. (c)(2). Pub. L. 116–92, § 3503(3), substituted “or other benefits t
 
 Subsec. (e). Pub. L. 116–92, § 3503(4), added subsec. (e).
 
+#### Deadline for Implementation
+Pub. L. 117–263, div. C, title XXXV, § 3543(b), Dec. 23, 2022, 136 Stat. 3100, provided that: “The Secretary of Transportation shall establish the United States Center for Maritime Innovation under subsection (e) of [section 50307 of title 46](./chapter-503-administrative.md#section-50307), United States Code, as added by subsection (a), by not later than one year after the date of the enactment of this Act [Dec. 23, 2022].”
+
 
 <a id="section-50308"></a>
 ## § 50308. Maritime transportation system emergency relief program
@@ -349,7 +434,7 @@ Subsec. (e). Pub. L. 116–92, § 3503(4), added subsec. (e).
 
   (A) the one-year period beginning on the date of a declaration of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4); and
 
-  (B) an additional one-year period beginning one year after the date of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4), if the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Administration,11 So in original. Probably should be “Agency,”. determines there is a compelling need arising out of the emergency for which the declaration is made.
+  (B) an additional one-year period beginning one year after the date of an emergency referred to in subparagraph (A) or (B) of subsection (j)(4), if the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, determines there is a compelling need arising out of the emergency for which the declaration is made.
 
 **(b) Allocation.—**
 
@@ -433,7 +518,7 @@ Subsec. (e). Pub. L. 116–92, § 3503(4), added subsec. (e).
 
 (4) **Emergency.—** — The term “emergency” means a natural disaster affecting a wide area (such as a flood, hurricane, tidal wave, earthquake, severe storm, or landslide) or a catastrophic failure from any external cause, that impacts the United States maritime transportation system and as a result of which—
 
-  (A) the Governor of a State has declared an emergency and the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Administration,1 has concurred in the declaration;
+  (A) the Governor of a State has declared an emergency and the Maritime Administrator, in consultation with the Administrator of the Federal Emergency Management Agency, has concurred in the declaration;
 
   (B) the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim));
 
@@ -448,5 +533,75 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The National Emergencies Act, referred to in subsec. (j)(4)(C), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
+#### Amendments
+2023—Subsec. (a)(2)(B). Pub. L. 118–31, § 3514(e)(1), substituted “Federal Emergency Management Agency” for “Federal Emergency Management Administration”.
+
+Subsec. (j)(4)(A). Pub. L. 118–31, § 3514(e)(2), substituted “Federal Emergency Management Agency” for “Federal Emergency Management Administration”.
+
 #### Inclusion of COVID–19 Pandemic Public Health Emergency
 Pub. L. 116–283, div. C, title XXXV, § 3505(c), Jan. 1, 2021, 134 Stat. 4405, provided that: “For purposes of [section 50308 of title 46](./chapter-503-administrative.md#section-50308), United States Code, as added by subsection (a), the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic shall be treated as an emergency.”
+
+
+<a id="section-50309"></a>
+## § 50309. Securing logistics information data of the United States
+**(a) In General.—**
+
+(1) **Prohibition.—** — A covered entity shall not use a covered logistics platform.
+
+(2) **Eligibility.—** — A covered entity that is found to use a covered logistics platform shall not be eligible to receive any Federal grant funding as long as the covered entity uses a covered logistics platform.
+
+**(b) Guidance.—** The Secretary of Transportation shall—
+
+(1) notify covered entities of the prohibition in subsection (a) as soon as practicable, including notice of funding opportunities for grant programs; and
+
+(2) publish on a website of the Department of Transportation, and update regularly, a list of covered logistics platforms subject to the prohibition in subsection (a).
+
+**(c) Consultation.—** In carrying out this section, the Secretary shall consult with—
+
+(1) the Secretary of Defense;
+
+(2) the Secretary of the Department in which the Coast Guard is operating;
+
+(3) the Secretary of State; and
+
+(4) the Secretary of Commerce.
+
+**(d) Waiver.—** The Secretary of Transportation, in consultation with the Secretary of Defense, may waive the provisions of this section for a specific contract if the Secretary of Transportation—
+
+(1) makes a determination that such waiver is vital to the national security of the United States; and
+
+(2) submits to Congress a report justifying the use of such waiver and the importance of such waiver to the national security of the United States.
+
+**(e) Definitions.—** In this section:
+
+(1) **Covered logistics platform.—** — The term “covered logistics platform” means a data exchange platform that utilizes or provides, in part or whole—
+
+  (A) the national transportation logistics public information platform (commonly referred to as “LOGINK”) provided by the People’s Republic of China, or departments, ministries, centers, agencies, or instrumentalities of the Government of the People’s Republic of China;
+
+  (B) any national transportation logistics information platform provided by or sponsored by the People’s Republic of China, or a controlled commercial entity; or
+
+  (C) a similar system provided by Chinese state-affiliated entities.
+
+(2) **Covered entity.—** — The term “covered entity” means—
+
+  (A) a port authority that receives funding after the date of the enactment of this section under—
+
+    (i) the port infrastructure development program under section 54301;
+
+    (ii) the maritime transportation system emergency relief program under section 50308; or
+
+    (iii) any Federal grant funding program;
+
+  (B) any marine terminal operator located on property owned by a port authority as described in subparagraph (A) or at a seaport described in subparagraph (D);
+
+  (C) any agency or instrumentality of the United States Government or that of a State; or
+
+  (D) a commercial strategic seaport within the National Port Readiness Network.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (e)(2)(A), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
+#### Countering Adversary Logistics Information Technologies
+Pub. L. 118–31, div. A, title VIII, § 825, Dec. 22, 2023, 137 Stat. 332, provided that: “(a) Countering the Spread of Covered Logistics Platforms.—“(1) Contracting prohibition.—“(A) In general.—The Secretary of Defense may not enter into a contract with an entity that provides data to covered logistics platforms. “(B) Applicability.—This paragraph shall apply with respect to any contract entered into on or after the date that is 180 days after the date of the enactment of this subsection [Dec. 22, 2023]. “(2) Waiver.—The Secretary of Defense may waive the provisions of this subsection for a specific contract if the Secretary—“(A) makes a determination that such waiver is vital to the national security of the United States; and “(B) submits to Congress a report justifying the use of such waiver and the importance of such waiver to the national security of the United States. “(3) Report.—Not later than one year after the date of the enactment of this subsection, and annually for three subsequent years, the Secretary of Defense shall submit to Congress a report on the implementation of this subsection. “(b) Policy With Respect to Ports Accepting Federal Grant Money.—“(1) [Enacted this section.] “(2) [Amended analysis of chapter 503 of this title.] “(3) Applicability.—[Section 50309 of title 46](./chapter-503-administrative.md#section-50309), United States Code, as added by paragraph (1), shall apply with respect to any contract entered into on or after the date that is 180 days after the date of the enactment of this subsection [Dec. 22, 2023]. “(4) Reporting.—Not later than one year after the date of the enactment of this subsection, and annually for three subsequent years, the Secretary of Transportation shall submit to Congress a report on the implementation of [section 50309 of title 46](./chapter-503-administrative.md#section-50309), United States Code, as added by paragraph (1). “(c) Negotiations With Allies and Partners.—“(1) Negotiations required.—The Secretary of State shall seek to enter into negotiations with United States ally and partner countries, including those described in paragraph (3), if the President determines that ports or other entities operating within the jurisdiction of such ally or partner countries are using or are considering using a covered logistics platform. “(2) Elements.—As part of the negotiations described in paragraph (1), the President shall—“(A) urge governments of such ally and partner countries to require entities within the jurisdiction of such governments to terminate the use of a covered logistics platform; “(B) describe the threats posed by a covered logistics platform to United States military and strategic interests and the implications such threats may have for the presence of members of the Armed Forces of the United States in such countries; “(C) urge governments to use their voice, influence, and vote to align with the United States and to counter attempts by foreign adversaries at international standards-setting bodies to adopt standards that incorporate a covered logistics platform; and “(D) attempt to establish, through multilateral entities, bilateral or multilateral negotiations, military cooperation, and other relevant engagements or agreements, a prohibition on the use of a covered logistics platform. “(3) Allies and partners described.—The countries and entities with which the President shall conduct negotiations described in this subsection shall include—“(A) all countries party to a collective defense treaty or other collective defense arrangement with the United States; “(B) India; and “(C) Taiwan. “(4) Report.—Not later than one year after the date of the enactment of this subsection [Dec. 22, 2023], the Secretary of State shall submit a report to the appropriate congressional committees describing—“(A) the efforts made by the United States Government as of the date of the submission of the report in the negotiations described in this subsection; and “(B) the actions taken by the governments of ally and partner countries pursuant to the negotiation priorities described in this subsection. “(d) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committees on Armed Services, Foreign Affairs, and Transportation and Infrastructure of the House of Representatives; and “(B) the Committees on Armed Services, Foreign Relations, and Commerce, Science, and Transportation of the Senate. “(2) Covered logistics platform.—The term ‘covered logistics platform’ has the meaning given in [section 50309 of title 46](./chapter-503-administrative.md#section-50309), United States Code, as added by this section. “(3) Foreign adversary.—The term ‘foreign adversary’ means—“(A) the People’s Republic of China, including the Hong Kong and Macau Special Administrative Regions; “(B) the Republic of Cuba; “(C) the Islamic Republic of Iran; “(D) the Democratic People’s Republic of Korea; “(E) the Russian Federation; and “(F) the Bolivarian Republic of Venezuela under the regime of Nicolás Maduro Moros.”

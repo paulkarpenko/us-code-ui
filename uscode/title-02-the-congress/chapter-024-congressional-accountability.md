@@ -1177,7 +1177,7 @@ Pub. L. 104–53, title III, § 309(c), Nov. 19, 1995, 109 Stat. 538, provided t
 
 **(j) Opening of Office** The Office shall be open for business, including receipt of requests for counseling under [section 1402 of this title](./chapter-024-congressional-accountability.md#section-1402), not later than 1 year after January 23, 1995.
 
-**(k) Financial disclosure reports** Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under title I of the Ethics in Government Act of 1978 with the Clerk of the House of Representatives.
+**(k) Financial disclosure reports** Members of the Board and officers and employees of the Office shall file the financial disclosure reports required under subchapter I of chapter 131 of title 5 with the Clerk of the House of Representatives.
 
 **(l) Annual reports on awards and settlements**
 
@@ -1234,11 +1234,11 @@ The Federal Regulation of Lobbying Act, referred to in subsec. (d)(2)(A), is tit
 
 This chapter, referred to in subsec. (h)(3), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
-The Ethics in Government Act of 1978, referred to in subsec. (k), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
 Part A of subchapter II, referred to in subsec. (l)(1)(A), (B)(ii)(II), (5), was in the original “part A of title II”, meaning part A (§§ 201–207) of title II of Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 7, which is classified principally to part A of subchapter II of this chapter. For complete classification of part A to the Code, see Tables.
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–286 substituted “subchapter I of chapter 131 of title 5” for “title I of the Ethics in Government Act of 1978”.
+
 2018—Pub. L. 115–397, § 308(a)(1), substituted “Office of Congressional Workplace Rights” for “Office of Compliance” in section catchline.
 
 Subsec. (a). Pub. L. 115–397, § 308(a)(2), substituted “Office of Congressional Workplace Rights” for “Office of Compliance”.
@@ -2352,7 +2352,7 @@ Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, pro
 
   (D) A final decision in a civil action under [section 1408 of this title](./chapter-024-congressional-accountability.md#section-1408) that is no longer subject to appeal.
 
-(7) **Senior staff defined** — In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
+(7) **Senior staff defined** — In this subsection, the term “senior staff” means any individual who, at the time a violation occurred, was required to file a report under title I of the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).11 See References in Text note below.
 
 **(e) Final decisions** A final decision entered under section 1405(g) or 1406(e) of this title shall be made public if it is in favor of the complaining covered employee, or in favor of the charging party under [section 1331 of this title](./chapter-024-congressional-accountability.md#section-1331), or if the decision reverses a decision of a hearing officer which had been in favor of the covered employee or charging party. The Board may make public any other decision at its discretion.
 
@@ -2363,7 +2363,7 @@ Pub. L. 113–76, div. I, title I, § 1101(b), Jan. 17, 2014, 128 Stat. 425, pro
 #### References in Text
 This chapter, referred to in subsec. (d)(2), was in the original “this Act”, meaning Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 
-The Ethics in Government Act of 1978, referred to in subsec. (d)(7), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (d)(7), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title I of the Act was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in subchapter I (§ 13101 et seq.) of chapter 131 of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of title I of the Act into subchapter I of chapter 131 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–397, § 114(b)(1), (2), redesignated subsec. (b) as (a) and struck out former subsec. (a). Prior to amendment, text of subsec. (a) read as follows: “All counseling shall be strictly confidential, except that the Office and a covered employee may agree to notify the employing office of the allegations.”

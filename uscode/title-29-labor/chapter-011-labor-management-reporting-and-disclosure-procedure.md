@@ -17,11 +17,11 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
-The Railway Labor Act, referred to in subsec. (c), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (c), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 #### Short Title
 Pub. L. 86–257, § 1, Sept. 14, 1959, 73 Stat. 519, provided that: “This Act [enacting this chapter, amending sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacting provisions set out as notes under sections 153, 158, and 481 of this title] may be cited as the ‘Labor-Management Reporting and Disclosure Act of 1959’.”
@@ -85,15 +85,15 @@ This chapter, referred to in the opening phrase, was in the original “titles I
 
 For definition of Canal Zone, referred to in subsec. (b), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
-The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
+The Labor Management Relations Act, 1947, referred to in subsec. (c), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401) and Tables.
+This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401) and Tables.
 
-The Railway Labor Act, referred to in subsecs. (c) and (j)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsecs. (c) and (j)(1), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
-The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
+The National Labor Relations Act, referred to in subsec. (j)(1), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
 
 #### Amendments
 1978—Subsec. (d). Pub. L. 95–598 substituted “cases under title 11” for “bankruptcy”.
@@ -207,11 +207,11 @@ Section is comprised of subsecs. (a) to (c) of section 201 of Pub. L. 86–257. 
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
-The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
+The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of act Aug. 26, 1935, ch. 687, 49 Stat. 803, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by Pub. L. 109–58, title XII, § 1263, Aug. 8, 2005, 119 Stat. 974. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-433"></a>
@@ -316,10 +316,13 @@ Each surety company which issues any bond required by this chapter or the Employ
 ### Statutory Notes
 
 #### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 #### Amendments
-1974—Pub. L. 93–406 substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act”.
+1974—Pub. L. 93–406, § 112(a)(2)(D), formerly § 111(a)(2)(D), as renumbered by Pub. L. 117–328, substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as a note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 1974 Amendment
 Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in [section 1031(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1031/b/2&num=0&edition=prelim), see [section 1031(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1031/b/1&num=0&edition=prelim).
@@ -503,8 +506,8 @@ any salary which would be otherwise due such person by virtue of such office or 
 
 ### Statutory Notes
 
-#### Editorial Notes
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+#### Constitutionality
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 1987—Subsec. (a). Pub. L. 100–182, in concluding provisions, substituted “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, the United States district court for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements under [section 994(a) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a&num=0&edition=prelim),” for “the United States Parole Commission”, “court” and “court’s” for “Commission” and “Commission’s”, respectively, and “a hearing” for “an administrative hearing”.
@@ -556,13 +559,13 @@ The phrase “this chapter (except subchapter II of this chapter)”, referred t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, known as the Labor-Management Reporting and Disclosure Act of 1959, which enacted this chapter, amended sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacted provisions set out as notes under sections 153, 158, and 481 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401) and Tables.
 
 The phrase “this chapter and section 186(a)–(c) of this title”, referred to in subsec. (b), was in original “titles I, II, III, IV, V, or VI of this Act”. The phrase “this chapter” later appearing in subsec. (b), was in original “said titles (except section 505) of this Act”. Original text reference, in both instances, includes those sections of the Act which are classified principally to this chapter. For complete classification of such titles to the Code, see Tables.
 
-The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
-The National Labor Relations Act, referred to in subsec. (b), is act July 5, 1935, ch. 372, 49 Stat. 452, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
+The National Labor Relations Act, referred to in subsec. (b), is act July 5, 1935, ch. 372, 49 Stat. 452, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
 
 
 <a id="section-524"></a>
@@ -581,7 +584,7 @@ Notwithstanding this or any other Act regulating labor-management relations, eac
 #### References in Text
 This Act, referred to in text, probably means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 1 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1&num=0&edition=prelim), Crimes and Criminal Procedure, and Tables.
 
-The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
+The National Labor Relations Act, referred to in text, is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see [section 167 of this title](./chapter-007-labor-management-relations.md#section-167) and Tables.
 
 #### Codification
 Section was not enacted as part of the Labor-Management Reporting and Disclosure Act of 1959, which comprises this chapter.

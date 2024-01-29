@@ -98,7 +98,7 @@ No provision of this Act shall relieve any public land applicant or claimant fro
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, as amended, which enacted sections 79a to 79c of this title, repealed sections 80 and 80a of this title, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Apr. 24, 1944, ch. 177, 58 Stat. 215, which enacted sections 79a to 79c of this title, repealed sections 80 and 80a of this title, and enacted provisions set out as notes under this section. For complete classification of this Act to the Code, see Tables.
 
 #### Repeals
 Act Apr. 24, 1944, ch. 177, § 4, 58 Stat. 215, provided that: “Sections 2237 and 2240 of the Revised Statutes and the act of May 21, 1928 (45 Stat. 684; 43 U.S.C., sec. 80), as amended [sections 80 and 80a of this title], are hereby repealed, and all other provisions of law inconsistent with this Act [See References in Text note above] are repealed to the extent of such inconsistency.”

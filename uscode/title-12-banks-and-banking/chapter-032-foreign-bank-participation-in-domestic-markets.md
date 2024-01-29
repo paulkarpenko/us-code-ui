@@ -50,7 +50,7 @@ For the purposes of this chapter—
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–369, Sept. 17, 1978, 92 Stat. 607, known as the International Banking Act of 1978, which enacted this chapter and sections 347d and 611a of this title, amended sections 72, 378, 614, 615, 618, 619, 1813, 1815, 1817, 1818, 1820 to 1823, 1828, 1829b, 1831b, and 1841 of this title, and enacted provisions set out as notes under this section and sections 36, 247, 601, and 611a of this title and formerly set out as notes under sections 36, 247, and 601 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act of 1956, referred to in par. (13), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
 #### Amendments
 1999—Par. (15). Pub. L. 106–102 substituted “or State agency;” for “State agency, or subsidiary of a foreign bank;”.
@@ -119,7 +119,7 @@ Pub. L. 96–221, title IX, §§ 901, 902, Mar. 31, 1980, 94 Stat. 192, 193, pro
 #### References in Text
 For definition of “this chapter”, referred to in subsec. (b), see References in Text note set out under [section 3101 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3101).
 
-The National Bank Act, referred to in subsec. (b), is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
+The National Bank Act, referred to in subsec. (b), is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
 [Section 3104 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3104), referred to in subsec. (g)(1), was in the original a reference to section 6 of Pub. L. 95–369, which enacted [section 3104 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3104) and amended sections 1813, 1815, 1817, 1818, 1820, 1821, 1822, 1823, 1828, 1829b, and 1831b of this title.
 
@@ -211,7 +211,7 @@ Pub. L. 102–242, title II, § 215, Dec. 19, 1991, 105 Stat. 2304, as amended b
 #### References in Text
 For definition of “this chapter”, referred to in subsec. (a)(1), (2), see References in Text note set out under [section 3101 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3101).
 
-The Community Reinvestment Act of 1977, referred to in subsec. (a)(8)(A), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (a)(8)(A), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
 
 Section 25A of the Federal Reserve Act, referred to in subsec. (a)(7)(A)(ii), (8)(B), popularly known as the Edge Act, is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of this title](./chapter-006-foreign-banking.md#section-611) and Tables.
 
@@ -262,7 +262,7 @@ Subsec. (d). Pub. L. 103–328, § 104(c), added subsec. (d).
 #### References in Text
 For definition of “this chapter”, referred to in subsec. (d)(1), see References in Text note set out under [section 3101 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3101).
 
-The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (d)(1), (3), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Amendments
 2006—Subsecs. (b), (c)(1), (d)(1), (2). Pub. L. 109–173, § 2(c)(4)(A), substituted “an amount equal to the standard maximum deposit insurance amount” for “$100,000”.
@@ -655,7 +655,7 @@ Section effective upon the expiration of 120 days after Nov. 10, 1978, see secti
 #### References in Text
 For definition of “this chapter”, referred to in subsecs. (a)(2), (c), and (d), see References in Text note set out under [section 3101 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3101).
 
-The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (c), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
 #### Amendments
 1999—Subsec. (c). Pub. L. 106–102 inserted at end “The Board may also make examinations of any affiliate of a foreign bank conducting business in any State if the Board deems it necessary to determine and enforce compliance with this chapter, the Bank Holding Company Act of 1956, or other applicable Federal banking law.”
@@ -721,9 +721,9 @@ Pub. L. 103–328, title I, § 115(b), Sept. 29, 1994, 108 Stat. 2368, provided 
 #### References in Text
 For definition of “this chapter”, referred to in text, see References in Text note set out under [section 3101 of this title](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3101).
 
-The Federal Deposit Insurance Act, referred to in subsecs. (b)(1) and (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsecs. (b)(1) and (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
-The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Amendments
 1991—Subsec. (b). Pub. L. 102–242 inserted heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (6).

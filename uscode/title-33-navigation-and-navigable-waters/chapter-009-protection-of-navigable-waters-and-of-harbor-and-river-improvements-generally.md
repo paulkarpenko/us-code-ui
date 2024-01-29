@@ -2,7 +2,7 @@
 title: 33
 chapter: '9'
 heading: PROTECTION OF NAVIGABLE WATERS AND OF HARBOR AND RIVER IMPROVEMENTS GENERALLY
-section_count: 102
+section_count: 103
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -438,7 +438,7 @@ Any and every master, pilot, and engineer, or person or persons acting in such c
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Mar. 3, 1899, ch. 425, 30 Stat. 1148, as amended, popularly known as the Rivers and Harbors Appropriation Act of 1899, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title, and amended [section 686 of this title](./chapter-014-california-debris-commission.md#section-686). For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Mar. 3, 1899, ch. 425, 30 Stat. 1148, popularly known as the Rivers and Harbors Appropriation Act of 1899, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title, and amended [section 686 of this title](./chapter-014-california-debris-commission.md#section-686). For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section is from part of section 16 of act Mar. 3, 1899, popularly known as the “Rivers and Harbors Appropriation Act of 1899”. The balance of such section, relating to penalties for the wrongful deposit of refuse, is classified to [section 411 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-411).
@@ -1525,7 +1525,7 @@ Any deviation from such dumping or discharging place specified in such permit sh
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Aug. 18, 1894, ch. 299, 28 Stat. 356, as amended, which enacted sections 1, 31, and 452 of this title and amended sections 443 to 448 and 499 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Aug. 18, 1894, ch. 299, 28 Stat. 356, which enacted sections 1, 31, and 452 of this title and amended sections 443 to 448 and 499 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of act June 29, 1888, enacted sections 443 to 448 of this title. See Codification note set out under [section 443 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-443).
@@ -1552,7 +1552,7 @@ Each supervisor of a harbor is authorized and directed to appoint inspectors and
 ### Statutory Notes
 
 #### References in Text
-Act of August 18, 1894, referred to in provision preceding First paragraph, and Act aforesaid, referred to in Fourth paragraph, mean act Aug. 18, 1894, ch. 299, 28 Stat. 356, as amended, which enacted sections 1, 31, and 452 of this title and amended sections 443 to 448 and 499 of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 18, 1894, referred to in provision preceding First paragraph, and Act aforesaid, referred to in Fourth paragraph, mean act Aug. 18, 1894, ch. 299, 28 Stat. 356, which enacted sections 1, 31, and 452 of this title and amended sections 443 to 448 and 499 of this title. For complete classification of this Act to the Code, see Tables.
 
 Sections 443 to 448 of this title, referred to in the Second paragraph, were in the original “this section of this Act” meaning section 3 of act June 29, 1888, which enacted sections 443 to 448 of this title. The provision of section 3 relating to issuance of permits is classified to [section 443 of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-443).
 
@@ -2002,7 +2002,7 @@ Pub. L. 104–303, title II, § 215(b), Oct. 12, 1996, 110 Stat. 3685, provided 
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsec. (a), is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 3 of Pub. L. 92–367 was renumbered section 4 and is classified to [section 467b of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467b).
@@ -2262,14 +2262,12 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (B) *Other individuals* — To the extent amounts are made available in advance in appropriations Acts, each member of the Board who represents a State agency, the member of the Board who represents the private sector, and each member of a work group created under paragraph (1) shall be reimbursed for travel expenses by FEMA, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from home or regular place of business of the member in performance of services for the Board.
 
-(9) **Applicability of Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+(9) **Applicability of chapter 10 of title 5** — Chapter 10 of title 5 shall not apply to the Board.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 467j of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467j), referred to in subsec. (e)(1), was in the original “section 13” and was translated as meaning section 13 of Pub. L. 92–367 prior to its redesignation as section 14 by Pub. L. 113–121, § 3001(d)(1).
-
-The Federal Advisory Committee Act, referred to in subsec. (f)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 467f, Pub. L. 92–367, § 7, as added Pub. L. 99–662, title XII, § 1201(b), Nov. 17, 1986, 100 Stat. 4260; amended Pub. L. 102–580, title II, § 209(a), Oct. 31, 1992, 106 Stat. 4830, related to funding for State dam safety programs, prior to repeal by Pub. L. 104–303, title II, § 215(c)(2), Oct. 12, 1996, 110 Stat. 3685.
@@ -2277,6 +2275,8 @@ A prior section 467f, Pub. L. 92–367, § 7, as added Pub. L. 99–662, title X
 A prior section 8 of Pub. L. 92–367 was classified to [section 467g of this title](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467g) prior to repeal by Pub. L. 104–303.
 
 #### Amendments
+2022—Subsec. (f)(9). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2014—Pub. L. 113–121, § 3001(a)(1), substituted “Administrator” for “Director” wherever appearing.
 
 Subsec. (c)(4). Pub. L. 113–121, § 3001(c)(1), added par. (4) and struck out former par. (4) which read as follows: “develop and encourage public awareness projects to increase public acceptance and support of State dam safety programs;”.
@@ -2564,7 +2564,7 @@ Subsec. (i)(1). Pub. L. 116–260, § 132(b)(6), substituted “an eligible subr
 Pub. L. 114–322, title IV, § 5006(c), Dec. 16, 2016, 130 Stat. 1896, provided that: “(1) Proposed rulemaking.—Not later than 90 days after the date of enactment of this Act [Dec. 16, 2016], the Administrator of the Federal Emergency Management Agency shall issue a notice of proposed rulemaking regarding applications for grants of assistance under the amendments made by subsection (b) to the National Dam Safety Program Act ([33 U.S.C. 467](./chapter-009-protection-of-navigable-waters-and-of-harbor-and-river-improvements-generally.md#section-467) et seq.) [enacting this section]. “(2) Final rule.—Not later than 180 days after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall promulgate a final rule regarding the amendments described in paragraph (1).”
 
 #### Rehabilitation of Corps of Engineers Constructed Dams
-Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, § 1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, § 305, Dec. 27, 2020, 134 Stat. 2703, provided that: “(a) In General.—If the Secretary [of the Army] determines that the project is feasible, the Secretary may carry out a project for the rehabilitation of a dam described in subsection (b). “(b) Eligible Dams.—A dam eligible for assistance under this section is a dam—“(1) that has been constructed, in whole or in part, by the Corps of Engineers for flood control purposes; “(2) for which construction was completed before 1940; “(3) that is classified as ‘high hazard potential’ by the State dam safety agency of the State in which the dam is located; and “(4) that is operated by a non-Federal entity. “(c) Cost Sharing.—Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all land, easements, rights-of-way, and necessary relocations. “(d) Agreements.—Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary [of the Army]—“(1) to pay the non-Federal share of the costs of construction under subsection (c); and “(2) to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary. “(e) Cost Limitation.—The Secretary shall not expend more than $60,000,000 for a project at any single dam under this section. “(f) Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2026.”
+Pub. L. 114–322, title I, § 1177, Dec. 16, 2016, 130 Stat. 1674, as amended by Pub. L. 115–270, title I, § 1132, Oct. 23, 2018, 132 Stat. 3781; Pub. L. 116–260, div. AA, title III, § 305, Dec. 27, 2020, 134 Stat. 2703; Pub. L. 117–263, div. H, title LXXXI, § 8370, Dec. 23, 2022, 136 Stat. 3806, provided that: “(a) In General.—If the Secretary [of the Army] determines that the project is feasible, the Secretary may carry out a project for the rehabilitation of a dam described in subsection (b). “(b) Eligible Dams.—A dam eligible for assistance under this section is a dam—“(1) that has been constructed, in whole or in part, by the Corps of Engineers for flood control purposes; “(2) for which construction was completed before 1940; “(3) that is classified as ‘high hazard potential’ by the State dam safety agency of the State in which the dam is located; and “(4) that is operated by a non-Federal entity. “(c) Cost Sharing.—Non-Federal interests shall provide 35 percent of the cost of construction of any project carried out under this section, including provision of all land, easements, rights-of-way, and necessary relocations. “(d) Agreements.—Construction of a project under this section shall be initiated only after a non-Federal interest has entered into a binding agreement with the Secretary [of the Army]—“(1) to pay the non-Federal share of the costs of construction under subsection (c); and “(2) to pay 100 percent of any operation, maintenance, and replacement and rehabilitation costs with respect to the project in accordance with regulations prescribed by the Secretary. “(e) Cost Limitation.—The Secretary shall not expend more than $60,000,000 for a project at any single dam under this section. “(f) Funding.—There is authorized to be appropriated to carry out this section $60,000,000 for each of fiscal years 2017 through 2026. “(g) Special Rule.—Notwithstanding subsection (c), the non-Federal share of the cost of the project for rehabilitation of Waterbury Dam, Washington County, Vermont, under this section, including the cost of any required study, shall be the same share assigned to the non-Federal interest for the cost of initial construction of the Waterbury Dam.”
 
 
 <a id="section-467g"></a>
@@ -2811,3 +2811,44 @@ Pub. L. 114–322, title I, § 1139, Dec. 16, 2016, 130 Stat. 1658, provided tha
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-467o"></a>
+## § 467o. National low-head dam inventory
+**(a) Definitions** In this section:
+
+(1) **Inventory** — The term “inventory” means the national low-head dam inventory developed under subsection (b)(1)(A).
+
+(2) **Low-head dam** — The term “low-head dam” means a river-wide artificial barrier that generally spans a stream channel, blocking the waterway and creating a backup of water behind the barrier, with a drop off over the wall of not less than 6 inches and not more than 25 feet.
+
+**(b) National low-head dam inventory**
+
+(1) **In general** — Not later than 18 months after December 23, 2022, the Secretary of the Army, in consultation with the heads of appropriate Federal and State agencies, shall—
+
+  (A) develop an inventory of low-head dams in the United States that includes—
+
+    (i) the location, ownership, description, current use, condition, height, and length of each low-head dam;
+
+    (ii) any information on public safety conditions at each low-head dam;
+
+    (iii) public safety information on the dangers of low-head dams;
+
+    (iv) a directory of financial and technical assistance resources available to reduce safety hazards and fish passage barriers at low-head dams; and
+
+    (v) any other relevant information concerning low-head dams; and
+
+  (B) submit the inventory to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(2) **Data** — In carrying out this subsection, the Secretary shall—
+
+  (A) coordinate with Federal and State agencies and other relevant entities; and
+
+  (B) use data provided to the Secretary by those agencies and entities.
+
+(3) **Public availability** — The Secretary shall make the inventory publicly available, including on a publicly available website.
+
+(4) **Updates** — The Secretary, in consultation with the heads of appropriate Federal and State agencies, shall maintain and periodically publish updates to the inventory.
+
+**(c) Authorization of appropriations** There is authorized to be appropriated to the Secretary to carry out this section $30,000,000.
+
+**(d) Clarification** Nothing in this section provides authority to the Secretary to carry out an activity, with respect to a low-head dam, that is not explicitly authorized under this section.

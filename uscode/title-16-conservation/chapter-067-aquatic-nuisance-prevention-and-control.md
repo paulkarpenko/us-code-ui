@@ -64,7 +64,7 @@ source: >-
 
 (1) to prevent unintentional introduction and dispersal of nonindigenous species into waters of the United States through ballast water management and other requirements;
 
-(2) to coordinate federally conducted, funded or authorized research, prevention 11 So in original. Probably should be followed by a comma. control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
+(2) to coordinate federally conducted, funded, or authorized research, prevention control, information dissemination and other activities regarding the zebra mussel and other aquatic nuisance species;
 
 (3) to develop and carry out environmentally sound control methods to prevent, monitor and control unintentional introductions of nonindigenous species from pathways other than ballast water exchange;
 
@@ -78,6 +78,8 @@ source: >-
 This chapter, referred to in subsec. (b), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–263 inserted comma after “funded”.
+
 1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1002, which enacted this section.
 
 Subsec. (a)(2), (3). Pub. L. 104–332, § 2(a)(1)(A), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
@@ -99,7 +101,7 @@ Pub. L. 104–332, § 1(a), Oct. 26, 1996, 110 Stat. 4073, provided that: “Thi
 Pub. L. 101–646, title I, § 1001, Nov. 29, 1990, 104 Stat. 4761, as amended by Pub. L. 104–332, § 2(h)(1), Oct. 26, 1996, 110 Stat. 4091, provided that: “This title [enacting this chapter and amending [section 42 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section42&num=0&edition=prelim), Crimes and Criminal Procedure] may be cited as the ‘Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990’.”
 
 #### Invasive Species in Alpine Lakes Pilot Program
-Pub. L. 116–260, div. AA, title V, § 507, Dec. 27, 2020, 134 Stat. 2749, provided that: “(a) Establishment.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a pilot program (referred to in this section as the ‘pilot program’) to develop and carry out effective measures necessary to prevent, control, or eradicate aquatic invasive species in alpine lakes that are not located within a unit of the National Park System. “(b) Partnerships.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall offer to enter into a partnership to carry out the pilot program with—“(1) any relevant partnering Federal agency; and “(2) any relevant compact agency organized with the consent of Congress under article I, section 10 of the Constitution of the United States. “(c) Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program $25,000,000 for the period of fiscal years 2022 through 2024.”
+Pub. L. 116–260, div. AA, title V, § 507, Dec. 27, 2020, 134 Stat. 2749, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8382(b), Dec. 23, 2022, 136 Stat. 3828, provided that: “(a) Establishment.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall establish a pilot program (referred to in this section as the ‘pilot program’) to develop and carry out effective measures necessary to prevent, control, or eradicate aquatic invasive species in alpine lakes that are not located within a unit of the National Park System. “(b) Partnerships.—The Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall offer to enter into a partnership to carry out the pilot program with—“(1) any relevant partnering Federal agency; and “(2) any relevant compact agency organized with the consent of Congress under article I, section 10 of the Constitution of the United States. “(c) Authorization of Appropriations.—There is authorized to be appropriated to carry out the pilot program $25,000,000 for the period of fiscal years 2022 through 2028.”
 
 #### Aquatic Invasive Species Prevention
 Pub. L. 113–121, title I, § 1039(b), June 10, 2014, 128 Stat. 1237, as amended by Pub. L. 116–260, div. AA, title V, § 506, Dec. 27, 2020, 134 Stat. 2749, provided that: “(1) Multiagency effort to slow the spread of asian carp in the mississippi river and tributaries, including sub-basins.—“(A) In general.—The Director of the United States Fish and Wildlife Service, in coordination with the Secretary [of the Army], the Director of the National Park Service, and the Director of the United States Geological Survey, shall lead a multiagency effort to slow the spread of Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River, by providing technical assistance, coordination, best practices, and support to State and local governments in carrying out activities designed to slow, and eventually eliminate, the threat posed by Asian carp. “(B) Best practices.—To the maximum extent practicable, the multiagency effort shall apply lessons learned and best practices such as those described in the document prepared by the Asian Carp Working Group entitled ‘Management and Control Plan for Bighead, Black, Grass, and Silver Carps in the United States’ and dated November 2007, the Mississippi River Basin Asian Carp Control Strategy Framework, and the Asian Carp Regional Coordinating Committee’s Asian Carp Action Plan. “(2) Report to congress.—“(A) In general.—Not later than December 31, 2020, and biennially thereafter, the Director of the United States Fish and Wildlife Service, in coordination with the Secretary, shall submit to the Committee on Appropriations and the Committee on Environment and Public Works of the Senate and the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Transportation and Infrastructure of the House of Representatives and make publicly available a report describing the coordinated strategies established and progress made toward the goals of controlling and eliminating Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River. “(B) Contents.—Each report submitted under subparagraph (A) shall include—“(i) any observed changes in the range of Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River, during the 2-year period preceding submission of the report; “(ii) a summary of Federal agency efforts, including cooperative efforts with non-Federal partners, to control the spread of Asian carp in the Mississippi River and tributaries, including the 6 sub-basins of the River; “(iii) any research that the Director determines could improve the ability to control the spread of Asian carp; “(iv) any quantitative measures that the Director intends to use to document progress in controlling the spread of Asian carp; and “(v) a cross-cut accounting of Federal and non-Federal expenditures to control the spread of Asian carp.”
@@ -128,7 +130,7 @@ As used in this chapter, the term—
 
 (6) “environmentally sound” methods, efforts, actions or programs means methods, efforts, actions or programs to prevent introductions or control infestations of aquatic nuisance species that minimize adverse impacts to the structure and function of an ecosystem and adverse effects on non-target organisms and ecosystems and emphasize integrated pest management techniques and nonchemical measures;
 
-(7) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canandian 11 So in original. Probably should be “Canadian”. Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.
+(7) “Great Lakes” means Lake Ontario, Lake Erie, Lake Huron (including Lake St. Clair), Lake Michigan, Lake Superior, and the connecting channels (Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, and Saint Lawrence River to the Canadian Border), and includes all other bodies of water within the drainage basin of such lakes and connecting channels.11 So in original. The period probably should be a semicolon.
 
 (8) “Great Lakes region” means the 8 States that border on the Great Lakes;
 
@@ -166,15 +168,19 @@ As used in this chapter, the term—
 
 (12) “Secretary” means the Secretary of the department in which the Coast Guard is operating;
 
-(13) “Task Force” means the Aquatic Nuisance Species Task Force established under [section 4721 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4721);
+(13) “State” means each of the several States, the District of Columbia, American Samoa, Guam, Puerto Rico, the Northern Mariana Islands, and the Virgin Islands of the United States;
 
-(14) “territorial sea” means the belt of the sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
+(14) “recreational vessel” has the meaning given that term in [section 1362 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1362&num=0&edition=prelim);
 
-(15) “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere;
+(15) “Task Force” means the Aquatic Nuisance Species Task Force established under [section 4721 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4721);
 
-(16) “waters of the United States” means the navigable waters and the territorial sea of the United States; and
+(16) “territorial sea” means the belt of the sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988;
 
-(17) “unintentional introduction” means an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes.
+(17) “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere;
+
+(18) “waters of the United States” means the navigable waters and the territorial sea of the United States; and
+
+(19) “unintentional introduction” means an introduction of nonindigenous species that occurs as the result of activities other than the purposeful or intentional introduction of the species involved, such as the transport of nonindigenous species in ballast or in water used to transport fish, mollusks or crustaceans for aquaculture or other purposes.
 
 ### Statutory Notes
 
@@ -183,11 +189,15 @@ This chapter, referred to in text, was in the original “this Act”, which, to
 
 Proclamation Number 5030, referred to in par. (5), is set out under [section 1453 of this title](./chapter-033-coastal-zone-management.md#section-1453).
 
-The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (9), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
-Presidential Proclamation Number 5928, referred to in par. (14), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim).
+Presidential Proclamation Number 5928, referred to in par. (16), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim).
 
 #### Amendments
+2022—Par. (7). Pub. L. 117–263, § 11327(e)(2), substituted “Canadian” for “Canandian”.
+
+Pars. (13) to (19). Pub. L. 117–263, § 11327(a), added pars. (13) and (14) and redesignated former pars. (13) to (17) as (15) to (19), respectively.
+
 1996—Pub. L. 104–332, § 2(h)(1), (3), made technical amendment to Pub. L. 101–646, § 1003, which enacted this section.
 
 Par. (1). Pub. L. 104–332, § 2(a)(2)(A), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “ ‘appropriate Committees’ means the Committee on Public Works and Transportation and the Committee on Merchant Marine and Fisheries in the House of Representatives and the Committee on Environment and Public Works and Committee on Commerce, Science, and Transportation in the Senate; and”.
@@ -495,11 +505,17 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (5) the Assistant Secretary;
 
-(6) the Secretary of Agriculture; and
+(6) the Secretary of Agriculture;
 
-(7) the head of any other Federal agency that the chairpersons designated under subsection (d) deem appropriate.
+(7) the Director of the National Park Service;
 
-**(c) Ex officio members** The chairpersons designated under subsection (d) shall invite representatives of the Great Lakes Commission, the Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
+(8) the Director of the Bureau of Land Management;
+
+(9) the Commissioner of Reclamation; and
+
+(10) the head of any other Federal agency that the chairpersons designated under subsection (d) deem appropriate.
+
+**(c) Ex officio members** The chairpersons designated under subsection (d) shall invite representatives of the Great Lakes Commission, the Patrick Leahy Lake Champlain Basin Program, the Chesapeake Bay Program, the San Francisco Bay-Delta Estuary Program, and State agencies and other governmental entities to participate as ex officio members of the Task Force.
 
 **(d) Chairpersons** The Director and the Under Secretary shall serve as co-chairpersons of the Task Force and shall be jointly responsible, and are authorized to undertake such activities as may be necessary, for carrying out this subchapter in consultation and cooperation with the other members of the Task Force.
 
@@ -507,12 +523,20 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(f) Coordination** Each Task Force member shall coordinate any action to carry out this subchapter with any such action by other members of the Task Force, and regional, State and local entities.
 
+**(g) Observers** The chairpersons designated under subsection (d) may invite representatives of nongovernmental entities to participate as observers of the Task Force.
+
 ### Statutory Notes
 
 #### References in Text
 This subchapter, referred to in subsecs. (d) to (f), was in the original “this subtitle”, meaning subtitle C (§§ 1201–1209) of title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4765, which enacted this subchapter and amended [section 42 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section42&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Amendments
+2022—Subsec. (b)(7) to (10). Pub. L. 117–263, § 11327(c), added pars. (7) to (9) and redesignated former par. (7) as (10).
+
+Subsec. (c). Pub. L. 117–328 inserted “Patrick Leahy” before “Lake Champlain Basin Program”.
+
+Subsec. (g). Pub. L. 117–263, § 11327(b), added subsec. (g).
+
 1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1201, which enacted this section.
 
 Subsec. (b)(5) to (7). Pub. L. 104–332, § 2(e)(2)(A), struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
@@ -570,6 +594,20 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 (2) **Decisions** — The Task Force or any other affected agency or entity may recommend that the Task Force initiate a control effort. In determining whether a control program is warranted, the Task Force shall evaluate the need for control (including the projected consequences of no control and less than full control); the technical and biological feasibility and cost-effectiveness of alternative control strategies and actions; whether the benefits of control, including costs avoided, exceed the costs of the program; the risk of harm to non-target organisms and ecosystems, public health and welfare; and such other considerations the Task Force determines appropriate. The Task Force shall also determine the nature and extent of control of target aquatic nuisance species that is feasible and desirable.
 
 (3) **Programs** — If the Task Force determines in accordance with paragraph (2) that control of an aquatic nuisance species is warranted, the Task Force shall develop a proposed control program to achieve the target level of control. A notice summarizing the proposed action and soliciting comments shall be published in the Federal Register, in major newspapers in the region affected, and in principal trade publications of the industries affected. Within 180 days of proposing a control program, and after consultation with affected governmental and other appropriate entities and taking into consideration other comments received, the Task Force shall complete development of the proposed control program.
+
+(4) **Technical assistance and recommendations** — The Task Force may provide technical assistance and recommendations for best practices to an agency or entity engaged in vessel inspections or decontaminations for the purpose of—
+
+  (A) effectively managing and controlling the movement of aquatic nuisance species into, within, or out of water of the United States; and
+
+  (B) inspecting recreational vessels in a manner that minimizes disruptions to public access for boating and recreation in non-contaminated vessels.
+
+(5) **Consultation and input** — In carrying out paragraph (4), including the development of recommendations, the Task Force may consult with Indian Tribes and solicit input from—
+
+  (A) State and Tribal fish and wildlife management agencies;
+
+  (B) other State and Tribal agencies that manage fishery resources of the State or sustain fishery habitat; and
+
+  (C) relevant nongovernmental entities.
 
 **(f) Research**
 
@@ -647,12 +685,18 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (2) On an annual basis after the submission of the report under paragraph (1), the Task Force shall submit a report to the Congress detailing progress in carrying out this section.
 
+(3) Not later than 90 days after December 23, 2022, the Task Force shall submit a report to Congress recommending legislative, programmatic, or regulatory changes to eliminate remaining gaps in authorities between members of the Task Force to effectively manage and control the movement of aquatic nuisance species.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (e)(1) and (f)(3), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 4701 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4701) and Tables.
 
 #### Amendments
+2022—Subsec. (e)(4), (5). Pub. L. 117–263, § 11327(d)(1), added pars. (4) and (5).
+
+Subsec. (k)(3). Pub. L. 117–263, § 11327(d)(2), added par. (3).
+
 2006—Subsec. (i)(3)(C). Pub. L. 109–234 substituted “such sums as are necessary to carry out the dispersal barrier demonstration project directed by this paragraph” for “, to carry out this paragraph, $750,000”.
 
 1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1202, which enacted this section.
@@ -682,11 +726,11 @@ Subsec. (k). Pub. L. 104–332, § 2(g), substituted “Congress” for “appro
 
   (E) provide advice to public and private individuals and entities concerning methods of controlling aquatic nuisance species; and
 
-  (F) submit annually a report to the Task Force describing activities within the Great Lakes region related to aquatic nuisance species prevention, research,11 So in original. Probably should be followed by “and”. control.
+  (F) submit annually a report to the Task Force describing activities within the Great Lakes region related to aquatic nuisance species prevention, research, and control.
 
 (2) **Consultation** — The Task Force shall request that the Great Lakes Fishery Commission provide information to the panel convened under this subsection on technical and policy matters related to the international fishery resources of the Great Lakes.
 
-(3) **Canadian participation** — The panel convened under this subsection is encourage 22 So in original. Probably should be “encouraged”. to invite representatives from the Federal, provincial or territorial governments of Canada to participate as observers.
+(3) **Canadian participation** — The panel convened under this subsection is encouraged to invite representatives from the Federal, provincial or territorial governments of Canada to participate as observers.
 
 **(b) Western regional panel** Not later than 30 days after October 26, 1996, the Task Force shall request a Western regional panel, comprised of Western region representatives from Federal, State, and local agencies and from private environmental and commercial interests, to—
 
@@ -716,6 +760,10 @@ Act of July 24, 1968, referred to in subsec. (a)(1), is Pub. L. 90–419, July 2
 This chapter, referred to in subsecs. (a)(1)(D) and (b)(3), was in the original “this Act”, which, to reflect the probable intent of Congress, was translated as reading “this title” meaning title I of Pub. L. 101–646, Nov. 29, 1990, 104 Stat. 4761, known as the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 4701 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4701) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(1)(F). Pub. L. 117–263, § 11327(e)(3)(A), inserted “and” after “research,”.
+
+Subsec. (a)(3). Pub. L. 117–263, § 11327(e)(3)(B), substituted “encouraged” for “encourage”.
+
 1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1203, which enacted this section.
 
 Pub. L. 104–332, § 2(e)(5)(A), substituted “Regional” for “Great Lakes regional” in section catchline.
@@ -763,11 +811,11 @@ Pub. L. 104–332, § 2(e)(5)(B)–(F), designated existing provisions as subsec
 
   (B) The Federal share of the cost of each public facility management plan implemented with Federal assistance under this section in any fiscal year shall not exceed 50 percent of the cost incurred by the State in implementing such management program and the non-Federal share of such costs shall be provided from non-Federal sources.
 
-(4) **Adminisrative 11 So in original. Probably should be “Administrative”. costs** — For the purposes of this section, administrative costs for activities and programs carried out with a grant in any fiscal year shall not exceed 5 percent of the amount of the grant in that year.
+(4) **Administrative costs** — For the purposes of this section, administrative costs for activities and programs carried out with a grant in any fiscal year shall not exceed 5 percent of the amount of the grant in that year.
 
 (5) **In-kind contributions** — In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
 
-**(c) Enforcement assistance** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 22 See References in Text note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
+**(c) Enforcement assistance** Upon request of a State or Indian tribe, the Director or the Under Secretary, to the extent allowable by law and in a manner consistent with section 141 11 See References in Text note below. of title 14, may provide assistance to a State or Indian tribe in enforcing an approved State or interstate invasive species management plan.
 
 ### Statutory Notes
 
@@ -775,6 +823,8 @@ Pub. L. 104–332, § 2(e)(5)(B)–(F), designated existing provisions as subsec
 [Section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim), referred to in subsec. (c), was redesignated [section 701 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section701&num=0&edition=prelim) by Pub. L. 115–282, title I, § 106(b), Dec. 4, 2018, 132 Stat. 4203, and references to [section 141 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section141&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
 
 #### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–263 substituted “Administrative” for “Adminisrative” in heading.
+
 1996—Pub. L. 104–332, § 2(h)(1), made technical amendment to Pub. L. 101–646, § 1204, which enacted this section.
 
 Subsec. (a). Pub. L. 104–332, § 2(e)(6)(A)(i), substituted “State or interstate invasive species management plans” for “State plan” in heading.
@@ -857,11 +907,13 @@ Pub. L. 104–332, § 2(g), substituted “Congress” for “appropriate Commit
 <a id="section-4728"></a>
 ## § 4728. Brown tree snake control program
 
-The Task Force shall, within the program developed under subsection (a),11 So in original. Probably should be “subsection (a) of [section 4722 of this title](./chapter-067-aquatic-nuisance-prevention-and-control.md#section-4722),”. undertake a comprehensive, environmentally sound program in coordination with regional, territorial, State and local entities to control the brown tree snake (Boiga irregularis) in Guam and other areas where the species is established outside of its historic range.
+The Task Force shall, within the program developed under [section 4722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4722/a&num=0&edition=prelim), undertake a comprehensive, environmentally sound program in coordination with regional, territorial, State and local entities to control the brown tree snake (Boiga irregularis) in Guam and other areas where the species is established outside of its historic range.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–263 substituted “[section 4722(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4722/a&num=0&edition=prelim)” for “subsection (a)”.
+
 1996—Pub. L. 104–332 made technical amendment to Pub. L. 101–646, § 1209, which enacted this section.
 
 

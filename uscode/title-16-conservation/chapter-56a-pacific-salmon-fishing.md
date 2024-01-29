@@ -121,14 +121,13 @@ For extension of territorial sea of United States, see Proc. No. 5928, set out a
 
 (8) In any matter where the Secretary of State determines that the United States is in jeopardy of not fulfilling its international obligations under the Treaty, the Secretary of State shall so certify to the United States Section. Such certification shall include the reasons for such determination and shall specify the date by which a decision by the United States Section is desired. If the United States Section has not reached a decision by the date specified, the Secretary of State, after consultation with the Secretary and the Secretary of the Interior, shall report on the matter to the President.
 
-**(i) Consultation** In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply.
+**(i) Consultation** In carrying out their functions under the Treaty, the Commissioners and Panel members may consult with such other interested parties as they consider appropriate. Chapter 10 of title 5 shall not apply.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (i), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (i). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
+
 2000—Subsec. (f). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(A)], added subsec. (f). Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(5)(B), (C)], redesignated subsec. (f) as (g) and substituted “For the northern, southern, and Fraser River panels, the appointing authorities” for “The appointing authorities”. Former subsec. (g) redesignated (h).
@@ -260,7 +259,7 @@ All actions taken under sections 3632(g),11 See References in Text note below. 3
 ### Statutory Notes
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-3640"></a>

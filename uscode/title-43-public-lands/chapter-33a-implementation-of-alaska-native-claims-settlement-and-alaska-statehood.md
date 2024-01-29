@@ -37,13 +37,13 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
-This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
-The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Submerged Lands Act, referred to in subsecs. (a)(2) and (d), is act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-029-submerged-lands.md#section-1301) and Tables.
+The Submerged Lands Act, referred to in subsecs. (a)(2) and (d), is act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-029-submerged-lands.md#section-1301) and Tables.
 
 #### Codification
 August 16, 1988, referred to in subsec. (b)(1), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 100–395, which amended this section generally, to reflect the probable intent of Congress.
@@ -77,11 +77,11 @@ For definition of the terms “land”, “Federal land”, “public lands”, 
 ### Statutory Notes
 
 #### References in Text
-The Submerged Lands Act, referred to in subsec. (a), is Act May 22, 1953, ch. 65, 67 Stat. 29, as amended, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-029-submerged-lands.md#section-1301) and Tables.
+The Submerged Lands Act, referred to in subsec. (a), is Act May 22, 1953, ch. 65, 67 Stat. 29, which is classified generally to subchapters I and II (§§ 1301 et seq., 1311 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-029-submerged-lands.md#section-1301) and Tables.
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IX of Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2430, which enacted this chapter, amended sections 1614 and 1620 of this title, and amended provisions set out as notes under [section 1611 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1611) and preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of title IX to the code, see Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
 
 <a id="section-1633"></a>
@@ -266,15 +266,15 @@ Act of January 2, 1976 (89 Stat. 1145), as amended or supplemented by Public Law
 ### Statutory Notes
 
 #### References in Text
-Act of March 8, 1922 ([43 U.S.C. 270–11](./chapter-007-homesteads.md#section-270-11)), referred to in subsec. (a)(2), is act Mar. 8, 1922, ch. 96, 42 Stat. 415, as amended, which enacted sections 270–11 to 270–13 of this title. Sections 270–11 and 270–13 of this title were repealed by Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789. For complete classification of this Act to the Code, see Tables.
+Act of March 8, 1922 ([43 U.S.C. 270–11](./chapter-007-homesteads.md#section-270-11)), referred to in subsec. (a)(2), is act Mar. 8, 1922, ch. 96, 42 Stat. 415, which enacted sections 270–11 to 270–13 of this title. Sections 270–11 and 270–13 of this title were repealed by Pub. L. 94–579, title VII, § 703(a), Oct. 21, 1976, 90 Stat. 2789. For complete classification of this Act to the Code, see Tables.
 
 Act of May 17, 1906, as amended, referred to in subsecs. (a)(3), (4), (5), (d), (e), and (f)(1)(A), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of this title prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710.
 
-The Alaska Statehood Act, referred to in subsecs. (a)(4) and (e), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsecs. (a)(4) and (e), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(4), (5)(A), (e), and (f)(4)(A), (5)(C)(ii)(I), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(4), (5)(A), (e), and (f)(4)(A), (5)(C)(ii)(I), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
-That Act, as amended, referred to in subsec. (d), is the Federal Power Act, act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. Part I of the Federal Power Act of June 10, 1920, as amended, is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+That Act, as amended, referred to in subsec. (d), is the Federal Power Act, act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. Part I of the Federal Power Act of June 10, 1920, as amended, is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsecs. (a)(1), (3)–(5), (c), and (d), “December 2, 1980” substituted for “the effective date of this Act”, which probably meant the date of enactment of Pub. L. 96–487.
@@ -420,19 +420,19 @@ Subsec. (f). Pub. L. 102–415, § 12, added subsec. (f).
 #### References in Text
 Act of March 4, 1915, as confirmed and transferred in section 6(k) of the Alaska Statehood Act, referred to in subsec. (b)(1), is act Mar. 4, 1915, ch. 181, § 1, 38 Stat. 1214, which was classified to [section 353 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section353&num=0&edition=prelim), Territories and Insular Possessions, and was repealed by section 6(k) of the Alaska Statehood Act, Pub. L. 85–508, § 6(k), July 7, 1958, 72 Stat. 343. See section 6(k) of the Alaska Statehood Act set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim).
 
-The Alaska Statehood Act, referred to in text, is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in text, is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
-The Alaska Native Claims Settlement Act, referred to in subsecs. (c)(1), (d)(1), (2), (6), (e), (h)(1), (l)(1), and (o)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (c)(1), (d)(1), (2), (6), (e), (h)(1), (l)(1), and (o)(1), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
-This Act, referred to in subsecs. (d)(1), (g), (k), (l)(1), and (n)(2), (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+This Act, referred to in subsecs. (d)(1), (g), (k), (l)(1), and (n)(2), (4), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 The Classification and Multiple Use Act, referred to in subsec. (j)(3), probably means Pub. L. 88–607, Sept. 19, 1964, 78 Stat. 986, which enacted sections 1411 to 1418 of this title, and was omitted from the Code.
 
-The National Forest Management Act, as amended, referred to in subsec. (j)(4), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim), Conservation, and Tables.
+The National Forest Management Act, as amended, referred to in subsec. (j)(4), probably means the National Forest Management Act of 1976, Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim), Conservation, and Tables.
 
-The Federal Land Policy and Management Act, referred to in subsec. (j)(5), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
+The Federal Land Policy and Management Act, referred to in subsec. (j)(5), probably means the Federal Land Policy and Management Act of 1976, Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
 
-Section 12 of the Act January 2, 1976 (Public Law 94–204), referred to in subsec. (n)(1) and (2), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, as amended, which is set out as a note under [section 1611 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1611).
+Section 12 of the Act January 2, 1976 (Public Law 94–204), referred to in subsec. (n)(1) and (2), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under [section 1611 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1611).
 
 Sections 4 and 5 of the Act of October 4, 1976 (Public Law 94–456), referred to in subsec. (n)(1), are sections 4 and 5 of Pub. L. 94–456, Oct. 4, 1976, 90 Stat. 1935, which are set out as a note under [section 1611 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1611).
 
@@ -620,9 +620,9 @@ Pub. L. 108–452, title IV, § 404, Dec. 10, 2004, 118 Stat. 3593, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (d)(1)(A) and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
-This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+This Act, referred to in subsec. (e), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 #### Amendments
 1998—Subsec. (d)(1)(A). Pub. L. 105–333, § 1(a), in introductory provisions, inserted “or conveyed to a Native Corporation pursuant to an exchange authorized by section 22(f) of the Alaska Native Claims Settlement Act or [section 3192(h) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3192/h&num=0&edition=prelim) or other applicable law” after “Settlement Trust”.
@@ -660,7 +660,7 @@ With the agreement of the party to whom a patent is to be issued under this chap
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
 
 <a id="section-1638"></a>
@@ -671,11 +671,11 @@ The National Environmental Policy Act of 1969 (83 Stat. 852) [[42 U.S.C. 4321](h
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 
 <a id="section-1639"></a>
@@ -686,9 +686,9 @@ Except as specifically provided in this Act, (i) the provisions of the Alaska Na
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in cl. (i), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in cl. (i), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
 #### Codification
 Section was not enacted as part of title IX of Pub. L. 96–487 which comprises this chapter.
@@ -704,7 +704,7 @@ Whenever a valid State or Native selection is partly in and partly out of the bo
 #### References in Text
 The Alaska Statehood Act as amended by this Act, referred to in text, is Pub. L. 85–508, July 7, 1958, 72 Stat. 339 as amended by Pub. L. 96–487, Dec. 2, 1980, 96 Stat. 2371, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
-This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+This Act, referred to in text, is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 #### Codification
 Section was not enacted as part of title IX of Pub. L. 96–487 which comprises this chapter.
@@ -741,13 +741,13 @@ Section was not enacted as part of title IX of Pub. L. 96–487 which comprises 
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsecs. (b)(1)(A), (3), (d), and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsecs. (b)(1)(A), (3), (d), and (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
-Act of March 4, 1915, as amended, referred to in subsec. (b)(2), is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, as amended, which enacted [section 353 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section353&num=0&edition=prelim), Territories and Insular Possessions, and a provision set out as a note under [section 852 of this title](./chapter-020-reservations-and-grants-to-states-for-public-purposes.md#section-852). [Section 353 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section353&num=0&edition=prelim) was repealed by Pub. L. 85–508, § 6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
+Act of March 4, 1915, as amended, referred to in subsec. (b)(2), is act Mar. 4, 1915, ch. 181, 38 Stat. 1214, which enacted [section 353 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section353&num=0&edition=prelim), Territories and Insular Possessions, and a provision set out as a note under [section 852 of this title](./chapter-020-reservations-and-grants-to-states-for-public-purposes.md#section-852). [Section 353 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section353&num=0&edition=prelim) was repealed by Pub. L. 85–508, § 6(k), July 7, 1958, 72 Stat. 343. For complete classification of this Act to the Code, see Tables.
 
-Act of January 21, 1929, as amended, referred to in subsec. (b)(2), is act Jan. 21, 1929, ch. 92, 45 Stat. 1091, as amended, which is set out as a note under [section 852 of this title](./chapter-020-reservations-and-grants-to-states-for-public-purposes.md#section-852). For complete classification of this Act to the Code, see Tables.
+Act of January 21, 1929, as amended, referred to in subsec. (b)(2), is act Jan. 21, 1929, ch. 92, 45 Stat. 1091, which is set out as a note under [section 852 of this title](./chapter-020-reservations-and-grants-to-states-for-public-purposes.md#section-852). For complete classification of this Act to the Code, see Tables.
 
-Act July 28, 1956, referred to in subsec. (b)(2), is act July 28, 1956, ch. 772, 70 Stat. 709, as amended. For complete classification of this Act to the Code, see Tables.
+Act July 28, 1956, referred to in subsec. (b)(2), is act July 28, 1956, ch. 772, 70 Stat. 709. For complete classification of this Act to the Code, see Tables.
 
 Section 6(g) of the Alaska Statehood Act, referred to in subsec. (b)(2), is section 6(g) of Pub. L. 85–508, July 7, 1948, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions.
 
@@ -755,7 +755,7 @@ Act of January 2, 1976 (Public Law 94–204) as amended by the Act of October 4,
 
 This title, referred to in subsec. (d), is title XIV of Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2491, which enacted sections 1639 to 1641 of this title, amended sections 1602, 1606, 1607, 1611, 1613, 1620, and 1621 of this title, enacted provisions set out as notes under sections 1605, 1613, and 1618 of this title, and amended provisions set out as notes under sections 1611 and 1613 of this title. For complete classification of title XIV to the Code, see Tables.
 
-This Act, referred to in subsec. (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
+This Act, referred to in subsec. (d), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3101&num=0&edition=prelim), Conservation, and Tables.
 
 #### Codification
 Section was not enacted as part of title IX of Pub. L. 96–487 which comprises this chapter.
@@ -769,7 +769,7 @@ Solely for the purpose of bringing claims that arise from the discharge of oil, 
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
+The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title](./chapter-033-alaska-native-claims-settlement.md#section-1601) and Tables.
 
 #### Effective Date
 Section applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as a note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.

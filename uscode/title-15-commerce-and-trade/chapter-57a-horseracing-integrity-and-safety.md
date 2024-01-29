@@ -208,7 +208,7 @@ Pub. L. 116–260, div. FF, title XII, § 1201, Dec. 27, 2020, 134 Stat. 3252, p
 
 (3) **Assessment and collection of fees by the Authority**
 
-  (A) CalculationIf a State racing commission does not elect to remit fees pursuant to paragraph (2) or withdraws its election under such paragraph, the Authority shall, not less frequently than monthly, calculate the applicable fee per racing start multiplied by the number of racing starts in the State during the preceding month.
+  (A) *Calculation* — If a State racing commission does not elect to remit fees pursuant to paragraph (2) or withdraws its election under such paragraph, the Authority shall, not less frequently than monthly, calculate the applicable fee per racing start multiplied by the number of racing starts in the State during the preceding month.
 
   (B) *Allocation* — The Authority shall allocate equitably the amount calculated under subparagraph (A) collected among covered persons involved with covered horseraces pursuant to such rules as the Authority may promulgate.
 
@@ -294,16 +294,19 @@ This chapter, referred to in subsec. (f)(5), was in the original “this Act” 
 
 (2) **Notice and comment** — The Commission shall publish in the Federal Register any such proposed rule, standard, or procedure and provide an opportunity for public comment.
 
-**(e) Interim final rules** The Commission may adopt an interim final rule, to take effect immediately, under conditions specified in [section 553(b)(B) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b/B&num=0&edition=prelim), if the Commission finds that such a rule is necessary to protect—
-
-(1) the health and safety of covered horses; or
-
-(2) the integrity of covered horseraces and wagering on those horseraces.
+**(e) Amendment by Commission of rules of authority** The Commission, by rule in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), may abrogate, add to, and modify the rules of the Authority promulgated in accordance with this chapter as the Commission finds necessary or appropriate to ensure the fair administration of the Authority, to conform the rules of the Authority to requirements of this chapter and applicable rules approved by the Commission, or otherwise in furtherance of the purposes of this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (c)(2)(A), was in the original “this Act” and was translated as reading “this title”, meaning title XII of div. FF of Pub. L. 116–260, to reflect the probable intent of Congress.
+This chapter, referred to in subsecs. (c)(2)(A) and (e), was in the original “this Act” and was translated as reading “this title”, meaning title XII of div. FF of Pub. L. 116–260, to reflect the probable intent of Congress.
+
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–328 amended subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may adopt an interim final rule, to take effect immediately, under conditions specified in [section 553(b)(B) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553/b/B&num=0&edition=prelim), if the Commission finds that such a rule is necessary to protect—
+
+“(1) the health and safety of covered horses; or
+
+“(2) the integrity of covered horseraces and wagering on those horseraces.”
 
 
 <a id="section-3054"></a>

@@ -21,7 +21,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, as amended, which is classified principally to this chapter (§ 2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101) and Tables.
+The National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), is Pub. L. 93–43, June 18, 1973, 87 Stat. 75, which is classified principally to this chapter (§ 2400 et seq.). For complete classification of this Act to the Code, see section 1 of Pub. L. 93–43 set out as a Short Title of 1973 Amendment note under [section 101 of this title](./chapter-001-general.md#section-101) and Tables.
 
 For national cemeteries transferred from the Department of the Army to the Veterans’ Administration by the National Cemeteries Act of 1973, and any other cemetery, memorial, or monument transferred to the Veterans’ Administration by the National Cemeteries Act of 1973, referred to in subsec. (b)(1), (3), see Transfer of Functions note set out under [section 2404 of this title](./chapter-024-national-cemeteries-and-memorials.md#section-2404).
 
@@ -105,7 +105,7 @@ There shall be appointed by the Secretary an Advisory Committee on Cemeteries an
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a periodic report to Congress on the Advisory Committee on Cemeteries and Memorials is listed on page 145), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2402"></a>
@@ -114,7 +114,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 (1) Any veteran (which for the purposes of this chapter includes a person who died in the active military, naval, air, or space service).
 
-(2) Any member of a Reserve component of the Armed Forces, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
+(2) Any member of a Reserve component of the Armed Forces, any member of the Space Force, and any member of the Army National Guard or the Air National Guard, whose death occurs under honorable conditions while such member is hospitalized or undergoing treatment, at the expense of the United States, for injury or disease contracted or incurred under honorable conditions while such member is performing active duty for training, inactive duty training, or undergoing that hospitalization or treatment at the expense of the United States.
 
 (3) Any member of the Reserve Officers’ Training Corps of the Army, Navy, or Air Force whose death occurs under honorable conditions while such member is—
 
@@ -188,6 +188,8 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 Section 2(1) of the Hmong Veterans’ Naturalization Act of 2000, referred to in subsec. (a)(10)(A)(i), is section 2(1) of Pub. L. 106–207, May 26, 2000, 114 Stat. 316, which is set out as a note under [section 1423 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1423&num=0&edition=prelim), Aliens and Nationality.
 
 #### Amendments
+2023—Subsec. (a)(2). Pub. L. 118–31 inserted “any member of the Space Force,” after “a Reserve component of the Armed Forces,”.
+
 2021—Subsec. (a)(1). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 Subsec. (a)(10)(B). Pub. L. 117–81 added subpar. (B).
@@ -320,9 +322,11 @@ Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, o
 
   (B) in the case of any cemetery with a section which has flat markers on October 28, 1986, the Secretary may continue to provide for flat grave markers in such section;
 
-  (C) in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers; and
+  (C) in the case of any cemetery located on the grounds of or adjacent to a Department health-care facility, the Secretary may provide for flat grave markers;
 
-  (D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers.
+  (D) in the case of grave sites of cremated remains that are interred in the ground, the Secretary may provide for flat grave markers; and
+
+  (E) in the case of grave sites in a green burial section designated under subsection (i), the Secretary may provide for grave markers of such type as the Secretary considers appropriate.
 
 **(d)** There shall be kept in each national cemetery, and at the main office of the Department, a register of burials in each cemetery setting forth the name of each person buried in the cemetery, the number of the grave in which the veteran is buried, and such other information as the Secretary by regulation may prescribe.
 
@@ -352,9 +356,23 @@ Amendment by Pub. L. 97–66 applicable with respect to veterans dying before, o
 
 (4) The Secretary shall prescribe regulations to carry out this subsection.
 
+**(i)**
+
+(1) The Secretary may designate one or more sections in any national cemetery as green burial sections.
+
+(2) In this subsection, the term “green burial section” means a section of a cemetery in which the remains of individuals interred in that section—
+
+  (A) have been prepared for interment in a manner that does not involve chemicals or embalming fluids; and
+
+  (B) have been interred in a natural manner or in completely biodegradable burial receptacles.
+
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (c)(2)(E). Pub. L. 117–355, § 3(1), added subpar. (E).
+
+Subsec. (i). Pub. L. 117–355, § 3(2), added subsec. (i).
+
 2013—Subsec. (h). Pub. L. 112–260 added subsec. (h).
 
 1991—Pub. L. 102–83, § 5(a), renumbered [section 1004 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1004&num=0&edition=prelim) as this section.
@@ -392,7 +410,7 @@ Pub. L. 93–43, § 6, June 18, 1973, 87 Stat. 81, provided that: “[Jurisdicti
 Pub. L. 112–260, title I, § 102(b), Jan. 10, 2013, 126 Stat. 2419, provided that: “The Secretary may carry out paragraphs (1) through (3) of section 2404(h) of such title [[38 U.S.C. 2404(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2404/h&num=0&edition=prelim)], as added by subsection (a), before the Secretary prescribes regulations pursuant to paragraph (4) of such section, as so added.”
 
 #### Use of Flat Grave Markers at Santa Fe National Cemetery, New Mexico
-Pub. L. 106–117, title VI, § 612, Nov. 30, 1999, 113 Stat. 1580, provided that: “Notwithstanding [section 2404(c)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2404/c/2&num=0&edition=prelim), United States Code, the Secretary [of Veterans Affairs] may provide for flat grave markers at the Santa Fe National Cemetery, New Mexico.”
+Pub. L. 106–117, title VI, § 612, Nov. 30, 1999, 113 Stat. 1580, authorized the Secretary of Veterans Affairs to provide for flat grave markers at the Santa Fe National Cemetery, New Mexico, prior to repeal by Pub. L. 118–31, div. E, title L, § 5002(a), Dec. 22, 2023, 137 Stat. 931.
 
 #### Independent Study on Improvements to Veterans’ Cemeteries
 Pub. L. 106–117, title VI, § 613, Nov. 30, 1999, 113 Stat. 1581, provided that: “(a) Study.—Not later than 180 days after the date of the enactment of this Act [Nov. 30, 1999], the Secretary [of Veterans Affairs] shall enter into a contract with one or more qualified organizations to conduct a study of national cemeteries described in subsection (b). For purposes of this section, an entity of Federal, State, or local government is not a qualified organization. “(b) Matters Studied.—(1) The study conducted pursuant to the contract entered into under subsection (a) shall include an assessment of each of the following:“(A) The one-time repairs required at each national cemetery under the jurisdiction of the National Cemetery Administration of the Department of Veterans Affairs to ensure a dignified and respectful setting appropriate to such cemetery, taking into account the variety of age, climate, and burial options at individual national cemeteries. “(B) The feasibility of making standards of appearance of active national cemeteries, and the feasibility of making standards of appearance of closed national cemeteries, commensurate with standards of appearance of the finest cemeteries in the world. “(C) The number of additional national cemeteries that will be required for the interment and memorialization in such cemeteries of individuals qualified under chapter 24 of title 38, United States Code, who die after 2005. “(D) The advantages and disadvantages of the use by the National Cemetery Administration of flat grave markers and upright grave markers. “(E) The current condition of flat grave marker sections at each of the national cemeteries. “(2) In presenting the assessment of additional national cemeteries required under paragraph (1)(C), the report shall identify by five-year period, beginning with 2005 and ending with 2020, the following:“(A) The number of additional national cemeteries required during each such five-year period. “(B) With respect to each such five-year period, the areas in the United States with the greatest concentration of veterans whose needs are not served by national cemeteries or State veterans’ cemeteries. “(c) Report.—(1) Not later than one year after the date on which a qualified organization enters into a contract under subsection (a), the organization shall submit to the Secretary a report setting forth the results of the study conducted and conclusions of the organization with respect to such results. “(2) Not later than 120 days after the date on which a report is submitted under paragraph (1), the Secretary shall transmit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a copy of the report, together with any comments on the report that the Secretary considers appropriate.”
@@ -439,12 +457,23 @@ Subsec. (c). Pub. L. 99–576, § 701(56)(B), substituted “The Administrator�
 
 <a id="section-2406"></a>
 ## § 2406. Acquisition of lands
+**(a) In General.—** As additional lands are needed for national cemeteries, they may be acquired by the Secretary by purchase, gift (including donations from States or political subdivisions thereof), condemnation, transfer from other Federal agencies, exchange, or otherwise, as the Secretary determines to be in the best interest of the United States.
 
-As additional lands are needed for national cemeteries, they may be acquired by the Secretary by purchase, gift (including donations from States or political subdivisions thereof), condemnation, transfer from other Federal agencies, exchange, or otherwise, as the Secretary determines to be in the best interest of the United States.
+**(b) Transfer of Department of the Interior Land for Use as a National Cemetery.—** Notwithstanding section 204(d) of the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1714(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1714/d&num=0&edition=prelim)), if the Secretary and the Secretary of the Interior agree to a transfer under subsection (a) of any land for use by the Department as a national cemetery, the land shall be—
+
+(1) withdrawn from all forms of appropriation under the public land laws, including the mining laws, the mineral leasing laws, and the geothermal leasing laws;
+
+(2) subject to valid existing rights;
+
+(3) transferred to the administrative jurisdiction of the Secretary of Veterans Affairs; and
+
+(4) deemed to be property (as defined in [section 102(9) of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102/9&num=0&edition=prelim)) for as long as the land remains under the administrative jurisdiction of the Secretary of Veterans Affairs.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Pub. L. 117–355 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 2004—Pub. L. 108—454 inserted “exchange,” after “agencies,”.
 
 1991—Pub. L. 102–83 renumbered [section 1006 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1006&num=0&edition=prelim) as this section.
@@ -582,9 +611,6 @@ Subject to such restrictions as the Secretary may prescribe, the Secretary may a
 (2) The term “trust land” has the meaning given that term in [section 3765(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3765/1&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### Applicability of 2021 Amendment
-Amendment of section by section 2205(a) and (b)(1) of Pub. L. 116–315 applicable with respect to grants applications submitted on or after the date that is two years after Jan. 5, 2021. See 2021 Amendment notes and Effective Date of 2021 Amendment; Applicability note below.
 
 #### Amendments
 2022—Subsec. (d)(2). Pub. L. 117–103, § 102(a)(1), substituted “Except as provided in subsection (i), the Secretary may” for “The Secretary may”.
@@ -767,7 +793,7 @@ Pub. L. 117–103, div. CC, § 102(b), Mar. 15, 2022, 136 Stat. 1110, provided t
 1989—Subsec. (b). Pub. L. 101–237 inserted “of the Army” after “Secretary”.
 
 #### Updates and Preservation of Memorials to Chaplains at Arlington National Cemetery
-Pub. L. 117–81, div. A, title V, § 584, Dec. 27, 2021, 135 Stat. 1758, provided that: “(a) Updates and Preservation of Memorials.—“(1) Protestant chaplains memorial.—The Secretary of the Army may permit NCMAF—“(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial; “(B) to provide an updated bronze plaque, described in subparagraph (A), including the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed; and “(C) to make such other updates and corrections to the memorial that the Secretary determines necessary. “(2) Catholic and jewish chaplain memorials.—The Secretary of the Army may permit NCMAF to update and make corrections to the Catholic and Jewish chaplain memorials located on Chaplains Hill that the Secretary determines necessary. “(3) No cost to federal government.—The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government. “(b) Verification of Names.—NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force or the Chaplain of the United States Marine Corps, depending on the branch of the Armed Forces in which the chaplain served. “(c) Prohibition on Expansion of Memorials.—Except as provided in subsection (a)(1)(A), this section may not be construed as authorizing the expansion of any memorial that is located on Chaplains Hill as of the date of the enactment of this Act [Dec. 27, 2021]. “(d) Definitions.—In this section:“(1) The term ‘Chaplains Hill’ means the area in Arlington National Cemetery that, as of the date of the enactment of this Act, is generally identified and recognized as Chaplains Hill. “(2) The term ‘NCMAF’ means the National Conference on Ministry to the Armed Forces or any successor organization recognized in law for purposes of the operation of this section.”
+Pub. L. 117–81, div. A, title V, § 584, Dec. 27, 2021, 135 Stat. 1758, as amended by Pub. L. 117–263, div. A, title V, § 593, Dec. 23, 2022, 136 Stat. 2612, provided that: “(a) Updates and Preservation of Memorials.—“(1) Protestant chaplains memorial.—The Secretary of the Army may permit NCMAF—“(A) to modify the memorial to Protestant chaplains located on Chaplains Hill to include a granite, marble, or other stone base for the bronze plaque of the memorial; “(B) to provide an updated bronze plaque, described in subparagraph (A), including the name of each chaplain, verified as described in subsection (b), who died while serving on active duty in the Armed Forces after the date on which the original memorial was placed; and “(C) to make such other updates and corrections to the memorial that the Secretary determines necessary. “(2) Catholic and jewish chaplain memorials.—The Secretary of the Army may permit NCMAF to update and make corrections to the Catholic and Jewish chaplain memorials located on Chaplains Hill that the Secretary determines necessary. “(3) No cost to federal government.—The activities of NCMAF authorized by this subsection shall be carried out at no cost to the Federal Government. “(4) Authority of secretary of the army.—The Secretary of the Army may permit NCMAF to carry out any action authorized by this subsection without regard to the time limitation under [section 2409(b)(2)(C) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2409/b/2/C&num=0&edition=prelim), United States Code. “(b) Verification of Names.—NCMAF may not include the name of a chaplain on a memorial on Chaplains Hill under subsection (a) unless that name has been verified by the Chief of Chaplains of the Army, Navy, or Air Force or the Chaplain of the United States Marine Corps, depending on the branch of the Armed Forces in which the chaplain served. “(c) Prohibition on Expansion of Memorials.—Except as provided in subsection (a)(1)(A), this section may not be construed as authorizing the expansion of any memorial that is located on Chaplains Hill as of the date of the enactment of this Act [Dec. 27, 2021]. “(d) Definitions.—In this section:“(1) The term ‘Chaplains Hill’ means the area in Arlington National Cemetery that, as of the date of the enactment of this Act, is generally identified and recognized as Chaplains Hill. “(2) The term ‘NCMAF’ means the National Conference on Ministry to the Armed Forces or any successor organization recognized in law for purposes of the operation of this section.”
 
 #### Transfer to the Secretary of the Army and Management of Parcel of Federal Land in Arlington, Virginia
 Pub. L. 116–92, div. B, title XXVIII, § 2834(a), Dec. 20, 2019, 133 Stat. 1893, provided that: “(1) Transfer.—Administrative jurisdiction over the parcel of Federal land described in paragraph (2) is transferred from the Secretary of the Interior to the Secretary of the Army. “(2) Description of land.—The parcel of Federal land referred to in paragraph (1) is the approximately 16.09-acre parcel of land in Arlington, Virginia, as depicted on the map entitled ‘Arlington National Cemetery, Memorial Ave–NPS Parcel’ and dated February 11, 2019.”
@@ -841,7 +867,7 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
 
 <a id="section-2411"></a>
-## § 2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing Federal or State capital crimes
+## § 2411. Prohibition against interment or memorialization in the National Cemetery Administration or Arlington National Cemetery of persons committing certain Federal or State crimes
 **(a)**
 
 (1) In the case of a person described in subsection (b), the appropriate Federal official may not—
@@ -866,13 +892,19 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
 (4) A person—
 
-  (A) who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.); 11 See References in Text note below.
+  (A) who has been convicted of a Federal or State crime causing the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.); and
 
-  (B) who, for such crime, is sentenced to a minimum of life imprisonment; and
+  (B) who, for such crime, is sentenced to a minimum of life imprisonment or to a period of 99 years or more; and
 
   (C) whose conviction is final (other than a person whose sentence was commuted by the President or Governor of a State, as the case may be).
 
-**(c)** A finding under subsection (b)(3) shall be made by the appropriate Federal official. Any such finding may only be made based upon a showing of clear and convincing evidence, after an opportunity for a hearing in a manner prescribed by the appropriate Federal official.
+(5) A person who—
+
+  (A) is found (as provided in subsection (c)) to have committed a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.); but
+
+  (B) has not been convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution.
+
+**(c)** A finding under paragraph (3) or (5) of subsection (b) shall be made by the appropriate Federal official. Any such finding may only be made based upon a showing of clear and convincing evidence, after an opportunity for a hearing in a manner prescribed by the appropriate Federal official.
 
 **(d)**
 
@@ -888,7 +920,7 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
     (i) In a case described in subsection (e)(1)(A), the appropriate Federal official shall provide notice to the deceased person’s next of kin or other person authorized to arrange burial or memorialization of the deceased person of the decision of the appropriate Federal official to disinter the remains of the deceased person or to remove a memorial headstone or marker memorializing the deceased person.
 
-    (ii) In a case described in subsection (e)(1)(B), if the appropriate Federal official finds, based upon a showing of clear and convincing evidence and after an opportunity for a hearing in a manner prescribed by the appropriate Federal official, that the person had committed a Federal capital crime or a State capital crime but had not been convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution, the appropriate Federal official shall provide notice to the deceased person’s next of kin or other person authorized to arrange burial or memorialization of the deceased person of the decision of the appropriate Federal official to disinter the remains of the deceased person or to remove a memorial headstone or marker memorializing the deceased person.
+    (ii) In a case described in subsection (e)(1)(B), if the appropriate Federal official finds, based upon a showing of clear and convincing evidence and after an opportunity for a hearing in a manner prescribed by the appropriate Federal official, that the person had committed a Federal capital crime, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.), but had not been convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution, the appropriate Federal official shall provide notice to the deceased person’s next of kin or other person authorized to arrange burial or memorialization of the deceased person of the decision of the appropriate Federal official to disinter the remains of the deceased person or to remove a memorial headstone or marker memorializing the deceased person.
 
   (B) Notice under subparagraph (A) shall be provided by the appropriate Federal official as follows:
 
@@ -918,7 +950,7 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 
   (A) written notice of a conviction referred to in subsection (b)(1), (b)(2), or (b)(4) of a person described in paragraph (2); or
 
-  (B) information that a person described in paragraph (2) may have committed a Federal capital crime or a State capital crime but was not convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution.
+  (B) information that a person described in paragraph (2) may have committed a Federal capital crime, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.), but was not convicted of such crime by reason of such person not being available for trial due to death or flight to avoid prosecution.
 
 (2) A person described in this paragraph is a person—
 
@@ -941,9 +973,23 @@ Pub. L. 112–154, title VI, § 602(c), Aug. 6, 2012, 126 Stat. 1200, provided t
 ### Statutory Notes
 
 #### References in Text
-The Sex Offender Registration and Notification Act, referred to in subsec. (b)(4)(A), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which was classified principally to subchapter I (§ 16901 et seq.) of chapter 151 of Title 42, The Public Health and Welfare, prior to editorial reclassification as chapter 209 (§ 20901 et seq.) of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see Short Title of 2006 Act note set out under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim) and Tables.
+The Sex Offender Registration and Notification Act, referred to in subsecs. (b)(4)(A), (5)(A), (d)(2)(A)(ii), and (e)(1)(B), is title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, which is classified principally to subchapter I (§ 20901 et seq.) of chapter 209 of Title 34, Crime Control and Law Enforcement. For complete classification of this Act to the Code, see section 101 of Pub. L. 109–248, set out as a Short Title of 2006 Act note under [section 10101 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10101&num=0&edition=prelim), and Tables.
 
 #### Amendments
+2023—Pub. L. 117–355, § 6(a)(1), substituted “certain Federal or State crimes” for “Federal or State capital crimes” in section catchline.
+
+Subsec. (b)(4)(A). Pub. L. 117–355, § 6(a)(2)(A)(i), substituted “([34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.); and” for “([42 U.S.C. 16901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16901&num=0&edition=prelim) et seq.);”.
+
+Subsec. (b)(4)(B). Pub. L. 117–355, § 6(a)(2)(A)(ii), inserted “or to a period of 99 years or more” after “life imprisonment”.
+
+Subsec. (b)(5). Pub. L. 117–355, § 6(a)(2)(B), added par. (5).
+
+Subsec. (c). Pub. L. 117–355, § 6(a)(3), substituted “paragraph (3) or (5) of subsection (b)” for “subsection (b)(3)”.
+
+Subsec. (d)(2)(A)(ii). Pub. L. 117–355, § 6(a)(4), substituted “, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.),” for “or a State capital crime”.
+
+Subsec. (e)(1)(B). Pub. L. 117–355, § 6(a)(5), substituted “, a State capital crime, or a Federal or State crime that would cause the person to be a tier III sex offender for purposes of the Sex Offender Registration and Notification Act ([34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.),” for “or a State capital crime”.
+
 2015—Subsec. (e)(1). Pub. L. 114–58 substituted “Federal official” for “federal official” in introductory provisions.
 
 2013—Subsec. (a)(2). Pub. L. 113–65, § 2(b), struck out “such official approves an application for” after “received by the appropriate Federal official before”.

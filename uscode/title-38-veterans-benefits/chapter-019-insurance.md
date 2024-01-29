@@ -269,7 +269,7 @@ Any person guilty of mutiny, treason, spying, or desertion, or who, because of c
 #### References in Text
 The Servicemen’s Indemnity Act of 1951, referred to in subsec. (d), is act Apr. 25, 1951, ch. 39, pt. I, 65 Stat. 33, as amended, which was classified generally to subchapter II (§ 851 et seq.) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and was repealed by act Aug. 1, 1956, ch. 837, title V, § 502(9), 70 Stat. 886.
 
-The National Service Life Insurance Act of 1940, referred to in subsec. (d), is act Oct. 8, 1940, ch. 757, title VI, pt. I, §§ 601 to 623, 54 Stat. 1008, as amended, which was classified generally to subchapter I (§§ 801 to 824) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(75), Sept. 2, 1958, 72 Stat. 1272, and the provisions thereof reenacted generally as this subchapter by the first section of Pub. L. 85–857 which enacted Title 38, Veterans’ Benefits. Section 602(n) of the 1940 Act, also referred to in subsec. (d), is covered by this section.
+The National Service Life Insurance Act of 1940, referred to in subsec. (d), is act Oct. 8, 1940, ch. 757, title VI, pt. I, §§ 601 to 623, 54 Stat. 1008, which was classified generally to subchapter I (§§ 801 to 824) of chapter 13 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(75), Sept. 2, 1958, 72 Stat. 1272, and the provisions thereof reenacted generally as this subchapter by the first section of Pub. L. 85–857 which enacted Title 38, Veterans’ Benefits. Section 602(n) of the 1940 Act, also referred to in subsec. (d), is covered by this section.
 
 #### Amendments
 1991—Pub. L. 102–83, § 5(a), renumbered [section 712 of this title](./chapter-007-employees.md#section-712) as this section.
@@ -396,7 +396,21 @@ Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” f
 
 <a id="section-1917"></a>
 ## § 1917. Insurance maturing on or after August 1, 1946
-**(a)** The insured shall have the right to designate the beneficiary or beneficiaries of insurance maturing on or after August 1, 1946, and shall, subject to regulations, at all times have the right to change the beneficiary or beneficiaries of such insurance without the consent of such beneficiary or beneficiaries.
+**(a)**
+
+(1) A person who enrolls in insurance maturing on or after August 1, 1946, may designate a beneficiary of the insurance policy. The insured shall, subject to regulations, at all times have the right to change the beneficiary or beneficiaries of such insurance without the consent of such beneficiary or beneficiaries.
+
+(2) If a person enrolled in insurance maturing on or after August 1, 1946, does not designate a beneficiary under paragraph (1) before the veteran dies, or if a designated beneficiary predeceases the veteran, the Secretary shall determine the beneficiary in the following order:
+
+  (A) The surviving spouse of the insured person.
+
+  (B) The children of the insured person and descendants of deceased children by representation.
+
+  (C) The parents of the insured person or the survivors of the parents.
+
+  (D) The duly appointed executor or administrator of the estate of the insured person.
+
+  (E) Other next of kin of the insured person entitled under the laws of domicile of the insured person at the time of the death of the insured person.
 
 **(b)** Insurance maturing on or after August 1, 1946, shall be payable in accordance with the following optional modes of settlement:
 
@@ -418,15 +432,21 @@ Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” f
 
 (1) Following the death of the insured and in a case not covered by subsection (d)—
 
-  (A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
+  (A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within one year after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
 
-  (B) if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
+  (B) if, within two years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
 
 (2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–313, § 3(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “The insured shall have the right to designate the beneficiary or beneficiaries of insurance maturing on or after August 1, 1946, and shall, subject to regulations, at all times have the right to change the beneficiary or beneficiaries of such insurance without the consent of such beneficiary or beneficiaries.”
+
+Subsec. (f)(1)(A). Pub. L. 117–313, § 2(a)(1), substituted “one year” for “two years”.
+
+Subsec. (f)(1)(B). Pub. L. 117–313, § 2(a)(2), substituted “two years” for “four years”.
+
 2003—Subsec. (f). Pub. L. 108–183 added subsec. (f).
 
 1991—Pub. L. 102–83 renumbered [section 717 of this title](./chapter-007-employees.md#section-717) as this section and substituted “Secretary” for “Administrator” in subsec. (e).
@@ -436,6 +456,11 @@ Subsec. (e). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” f
 1970—Subsec. (c). Pub. L. 91–291 struck out provision that options (3) and (4) were not available in cases where the endowment contract matured by reason of the completion of the endowment period.
 
 Subsec. (e). Pub. L. 91–291 added subsec. (e).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–313, § 2(c), Dec. 27, 2022, 136 Stat. 4399, provided that: “The amendments made by this section [amending this section and [section 1952 of this title](./chapter-019-insurance.md#section-1952)] shall apply with respect to the death of an insured person occurring on or after the date that is two years before the date of the enactment of this Act [Dec. 27, 2022].”
+
+Pub. L. 117–313, § 3(c), Dec. 27, 2022, 136 Stat. 4400, provided that: “The amendments made by this section [amending this section and [section 1949 of this title](./chapter-019-insurance.md#section-1949)] shall apply with respect to the death of an insured person occurring on or after the date that is two years before the date of the enactment of this Act [Dec. 27, 2022].”
 
 #### Effective Date of 2003 Amendment
 Pub. L. 108–183, title I, § 103(c), Dec. 16, 2003, 117 Stat. 2655, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1952 of this title](./chapter-019-insurance.md#section-1952)] shall take effect on October 1, 2004.”
@@ -486,7 +511,7 @@ Amendment by Pub. L. 96–128 effective Nov. 28, 1979, see section 601(b) of Pub
 ### Statutory Notes
 
 #### References in Text
-The National Service Life Insurance Act of 1940, referred to in subsec. (a), is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, as amended, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The National Service Life Insurance Act of 1940, referred to in subsec. (a), is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 Section 602(v)(i) of the National Service Life Insurance Act of 1940, referred to in subsec. (b), is section 602(v)(1) of act Oct. 8, 1940, ch. 757, title VI, pt. I, 54 Stat. 1009, which enacted section 802(v)(1) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as section 715 [now 1915] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
@@ -1222,14 +1247,30 @@ The Secretary shall include in United States Government life insurance policies 
 
 
 <a id="section-1949"></a>
-## § 1949. Change of beneficiary
+## § 1949. Beneficiaries
+**(a) Designation.—** A person who enrolls in United States Government life insurance may designate a beneficiary of the insurance policy. Subject to regulations, the insured person shall at all times have the right to change the beneficiary or beneficiaries of a United States Government life insurance policy without the consent of such beneficiary or beneficiaries.
 
-Subject to regulations, the insured shall at all times have the right to change the beneficiary or beneficiaries of a United States Government life insurance policy without the consent of such beneficiary or beneficiaries.
+**(b) Determination in Cases of Non-Designation.—** If a person enrolled in United States Government life insurance does not designate a beneficiary under subsection (a) before the insured person dies, or if a designated beneficiary predeceases the insured person, the Secretary shall determine the beneficiary in the following order:
+
+(1) The surviving spouse of the insured person.
+
+(2) The children of the insured person and descendants of deceased children by representation.
+
+(3) The parents of the insured person or the survivors of the parents.
+
+(4) The duly appointed executor or administrator of the estate of the insured person.
+
+(5) Other next of kin of the insured person entitled under the laws of domicile of the insured person at the time of the death of the insured person.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–313 amended section generally. Prior to amendment, text read as follows: “Subject to regulations, the insured shall at all times have the right to change the beneficiary or beneficiaries of a United States Government life insurance policy without the consent of such beneficiary or beneficiaries.”
+
 1991—Pub. L. 102–83 renumbered [section 749 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section749&num=0&edition=prelim) as this section.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–313 applicable with respect to the death of an insured person occurring on or after the date that is two years before Dec. 27, 2022, see section 3(c) of Pub. L. 117–313, set out as a note under [section 1917 of this title](./chapter-019-insurance.md#section-1917).
 
 
 <a id="section-1950"></a>
@@ -1266,15 +1307,19 @@ United States Government life insurance, except as provided in this subchapter, 
 
 (1) Following the death of the insured and in a case not covered by [section 1950 of this title](./chapter-019-insurance.md#section-1950)—
 
-  (A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within two years after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
+  (A) if the first beneficiary otherwise entitled to payment of the insurance does not make a claim for such payment within one year after the death of the insured, payment may be made to another beneficiary designated by the insured, in the order of precedence as designated by the insured, as if the first beneficiary had predeceased the insured; and
 
-  (B) if, within four years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
+  (B) if, within two years after the death of the insured, no claim has been filed by a person designated by the insured as a beneficiary and the Secretary has not received any notice in writing that any such claim will be made, payment may (notwithstanding any other provision of law) be made to such person as may in the judgment of the Secretary be equitably entitled thereto.
 
 (2) Payment of insurance under paragraph (1) shall be a bar to recovery by any other person.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c)(1)(A). Pub. L. 117–313, § 2(b)(1), substituted “one year” for “two years”.
+
+Subsec. (c)(1)(B). Pub. L. 117–313, § 2(b)(2), substituted “two years” for “four years”.
+
 2003—Subsec. (c). Pub. L. 108–183 added subsec. (c).
 
 1991—Pub. L. 102–83 renumbered [section 752 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section752&num=0&edition=prelim) as this section and substituted “Secretary” for “Administrator” in subsecs. (a) and (b).
@@ -1284,6 +1329,9 @@ United States Government life insurance, except as provided in this subchapter, 
 1981—Subsec. (a). Pub. L. 97–66 inserted provision empowering beneficiaries, in the case of insurance maturing after Sept. 30, 1981, and for which the insured has not exercised the right of election of the insured as provided in this subchapter, to elect to receive payment of the insurance in one sum.
 
 1970—Pub. L. 91–291 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–313 applicable with respect to the death of an insured person occurring on or after the date that is two years before Dec. 27, 2022, see section 2(c) of Pub. L. 117–313, set out as a note under [section 1917 of this title](./chapter-019-insurance.md#section-1917).
 
 #### Effective Date of 2003 Amendment
 Amendment by Pub. L. 108–183 effective Oct. 1, 2004, see section 103(c) of Pub. L. 108–183, set out as a note under [section 1917 of this title](./chapter-019-insurance.md#section-1917).
@@ -1515,7 +1563,7 @@ For the purpose of this subchapter—
 
 (2) The term “active duty for training” means—
 
-  (A) full-time duty in the Armed Forces performed by Reserves for training purposes;
+  (A) full-time duty in the Armed Forces performed by Reserves, or by members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)) but not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim), for training purposes;
 
   (B) full-time duty for training purposes performed as a commissioned officer of the Reserve Corps 1 of the Public Health Service;
 
@@ -1525,7 +1573,7 @@ For the purpose of this subchapter—
 
 (3) The term “inactive duty training” means—
 
-  (A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service) which duty is scheduled in advance by competent authority to begin at a specific time and place; and
+  (A) duty (other than full-time duty) prescribed or authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)), which duty is scheduled in advance by competent authority to begin at a specific time and place; and
 
   (B) in the case of a member of the National Guard or Air National Guard of any State, such term means duty (other than full-time duty) which is scheduled in advance by competent authority to begin at a specific time and place under sections 316, 502, 503, 504, or 505 of title 32, United States Code.
 
@@ -1562,9 +1610,13 @@ For the purpose of this subchapter—
 #### References in Text
 Chapter 67 of title 10 as in effect before the effective date of the Reserve Officer Personnel Management Act, referred to in par. (5)(B), means chapter 67 (§ 1331 et seq.) of Title 10, Armed Forces, prior to its transfer to part II of subtitle E of Title 10, its renumbering as chapter 1223, and its general revision by section 1662(j)(1) of Pub. L. 103–337. A new chapter 67 (§ 1331) of Title 10 was added by section 1662(j)(7) of Pub. L. 103–337. For effective date of the Reserve Officer Personnel Management Act (Pub. L. 103–337, title XVI), see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10001&num=0&edition=prelim).
 
-[Section 12304(i)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304/i/1&num=0&edition=prelim), referred to in par. (5)(C), was redesignated [section 12304(j)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304/j/1&num=0&edition=prelim) by Pub. L. 109–364, div. A, title V, § 522(b), Oct. 17, 2006, 120 Stat. 2192.
+[Section 12304(i)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304/i/1&num=0&edition=prelim), referred to in par. (5)(C), was redesignated [section 12304(j)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304/j/1&num=0&edition=prelim) by Pub. L. 109–364, div. A, title V, § 522(b), Oct. 17, 2006, 120 Stat. 2192. [Section 12304(j)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304/j/1&num=0&edition=prelim) was subsequently redesignated [section 12304(k)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12304/k/2&num=0&edition=prelim) by Pub. L. 118–31, div. A, title XV, § 1532(2), (7)(A), Dec. 22, 2023, 137 Stat. 563, 564.
 
 #### Amendments
+2023—Par. (2)(A). Pub. L. 118–31, § 1723(a)(2)(A), which directed insertion of “, or by members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)) but not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim),” after “for Reserves”, was executed by making the insertion after “Reserves”, to reflect the probable intent of Congress.
+
+Par. (3)(A). Pub. L. 118–31, § 1723(a)(2)(B), inserted “, or for members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)),” after “(including commissioned officers of the Reserve Corps of the Public Health Service)”.
+
 2008—Par. (10)(C). Pub. L. 110–389 added subpar. (C).
 
 2006—Par. (11). Pub. L. 109–233 struck out par. (11) which read as follows: “The term ‘activities of daily living’ means the inability to independently perform 2 of the 6 following functions:
@@ -2427,7 +2479,7 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 ### Statutory Notes
 
 #### References in Text
-Veterans’ Insurance Act of 1974, referred to in subsec. (e), is Pub. L. 93–289, May 24, 1974, 88 Stat. 165, as amended, which enacted sections 777, 778, and 779 [now 1977, 1978, and 1979] of this title, [section 707 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section707&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, amended sections 723, 765, 767 to 771, and 774 [now 1923, 1965, 1967 to 1971, and 1974] of this title, and enacted provisions set out as notes under sections 723, 765, 767, and 768 [now 1923, 1965, 1967, and 1968] of this title and [section 707 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section707&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+Veterans’ Insurance Act of 1974, referred to in subsec. (e), is Pub. L. 93–289, May 24, 1974, 88 Stat. 165, which enacted sections 777, 778, and 779 [now 1977, 1978, and 1979] of this title, [section 707 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section707&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, amended sections 723, 765, 767 to 771, and 774 [now 1923, 1965, 1967 to 1971, and 1974] of this title, and enacted provisions set out as notes under sections 723, 765, 767, and 768 [now 1923, 1965, 1967, and 1968] of this title and [section 707 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section707&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 Subchapter D of chapter 64 of the Internal Revenue Code of 1986, referred to in subsec. (g)(3), is classified to subchapter D (§ 6331 et seq.) of chapter 64 of Title 26, Internal Revenue Code.
 
@@ -2603,7 +2655,7 @@ Pub. L. 102–54 amended section generally. Prior to amendment, section read as 
 Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub. L. 91–291, set out as a note under [section 1317 of this title](./chapter-013-dependency-and-indemnity-compensation-for-service-connected-deaths.md#section-1317).
 
 #### Termination of Advisory Councils
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1975"></a>
@@ -3202,11 +3254,11 @@ Nothing in this title or any amendment or repeal made by the Act enacting this t
 ### Statutory Notes
 
 #### References in Text
-The War Risk Insurance Act, referred to in text, is act Sept. 2, 1914, ch. 293, 38 Stat. 711, as amended. Sections 600 and 601 of the World War Veterans’ Act, 1924 (act June 7, 1924, ch. 320, 43 Stat. 607, 629) repealed the War Risk Insurance Act subject to certain limitations provided in section 602 thereof.
+The War Risk Insurance Act, referred to in text, is act Sept. 2, 1914, ch. 293, 38 Stat. 711. Sections 600 and 601 of the World War Veterans’ Act, 1924 (act June 7, 1924, ch. 320, 43 Stat. 607, 629) repealed the War Risk Insurance Act subject to certain limitations provided in section 602 thereof.
 
-The World War Veterans’ Act, 1924, referred to in text, is act June 7, 1924, ch. 320, 43 Stat. 607, as amended, which was classified generally to chapter 10 (§§ 421 to 574) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(51), Sept. 2, 1958, 72 Stat. 1271. For distribution of sections 421 to 574 of former Title 38 in this title, see Table preceding [section 101 of this title](./chapter-001-general.md#section-101).
+The World War Veterans’ Act, 1924, referred to in text, is act June 7, 1924, ch. 320, 43 Stat. 607, which was classified generally to chapter 10 (§§ 421 to 574) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed by Pub. L. 85–857, § 14(51), Sept. 2, 1958, 72 Stat. 1271. For distribution of sections 421 to 574 of former Title 38 in this title, see Table preceding [section 101 of this title](./chapter-001-general.md#section-101).
 
-The National Service Life Insurance Act of 1940, referred to in text, is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, as amended, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
+The National Service Life Insurance Act of 1940, referred to in text, is act Oct. 8, 1940, ch. 757, title VI, part I, 54 Stat. 1008, which was classified generally to chapter 13 (§ 801 et seq.) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, and which was repealed and the provisions thereof reenacted as this subchapter by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
 #### Prior Provisions
 A prior section 2000 was renumbered [section 4100 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4100).

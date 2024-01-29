@@ -40,14 +40,11 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 
 <a id="section-273"></a>
-## § 273. Detail of Army officer
-
-The Secretary of the Army shall be authorized to detail an officer of the Army, not above the rank of captain, for special duty with reference to Indian education.
+## § 273. Repealed. Pub. L. 117–317, § 2(8), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Change of Name
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Section, act June 23, 1879, ch. 35, § 7, 21 Stat. 35; July 26, 1947, ch. 343, title II, § 205(a), 61 Stat. 501, related to detail of Army officer for special duty with reference to Indian education.
 
 
 <a id="section-274"></a>
@@ -181,9 +178,11 @@ The Secretary of the Interior is authorized to make and enforce such rules and r
 
 
 <a id="section-283"></a>
-## § 283. Regulations for withholding rations for non­attendance at schools
+## § 283. Repealed. Pub. L. 117–317, § 2(9), Dec. 27, 2022, 136 Stat. 4419
 
-The Secretary of the Interior may in his discretion, establish such regulations as will prevent the issuing of rations or the furnishing of subsistence either in money or in kind to the head of any Indian family for or on account of any Indian child or children between the ages of eight and twenty-one years who shall not have attended school during the preceding year in accordance with such regulations. This provision shall not apply to reservations or part of reservations where sufficient school facilities have not been furnished nor until full notice of such regulations shall have been given to the Indians to be affected thereby.
+### Statutory Notes
+
+Section, act Mar. 3, 1893, ch. 209, § 1, 27 Stat. 628, 635, related to regulations for withholding rations and discretionary withholding of rations, clothing, and other annuities for non­attendance at schools.
 
 
 <a id="section-284"></a>
@@ -196,14 +195,11 @@ Section, act July 13, 1892, ch. 164, § 1, 27 Stat. 143, which related to issuan
 
 
 <a id="section-285"></a>
-## § 285. Withholding annuities from Osage Indians for nonattendance at schools
-
-The Commissioner of Indian Affairs is authorized in his discretion to withhold any annuities or other payments due to Osage Indian minors, above six years of age, whose parents fail, neglect, or refuse to place such minors in some established school for a reasonable portion of each year and to keep such children in regular attendance thereof. The Commissioner of Indian Affairs is authorized to make such rules and regulations as may be necessary to put this provision into force and effect.
+## § 285. Repealed. Pub. L. 117–317, § 2(10), Dec. 27, 2022, 136 Stat. 4419
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act June 30, 1913, ch. 4, § 18, 38 Stat. 96, related to withholding annuities from Osage Indians for nonattendance at schools.
 
 
 <a id="section-286"></a>
@@ -420,14 +416,11 @@ Section 301, act Mar. 3, 1911, ch. 210, § 1, 36 Stat. 1061, related to appropri
 
 
 <a id="section-302"></a>
-## § 302. Indian Reform School; rules and regulations; consent of parents to placing youth in reform school
-
-The Commissioner of Indian Affairs, under the direction of the Secretary of the Interior, is authorized and directed to select and designate some one of the schools or other institution herein specifically provided for as an “Indian Reform School”, and to make all needful rules and regulations for its conduct, and the placing of Indian youth therein: Provided, That the appropriation for collection and transportation, and so forth, of pupils, and the specific appropriation for such school so selected shall be available for its support and maintenance: Provided further, That the consent of parents, guardians, or next of kin shall not be required to place Indian youth in said school.
+## § 302. Repealed. Pub. L. 117–317, § 2(11), Dec. 27, 2022, 136 Stat. 4420
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act June 21, 1906, ch. 3504, 34 Stat. 328, related to designation of Indian Reform Schools, appropriations, and parental consent.
 
 
 <a id="section-303"></a>

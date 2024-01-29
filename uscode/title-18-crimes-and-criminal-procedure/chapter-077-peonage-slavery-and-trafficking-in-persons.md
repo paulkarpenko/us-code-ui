@@ -458,7 +458,7 @@ Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and re
 
 <a id="section-1595"></a>
 ## § 1595. Civil remedy
-**(a)** An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
+**(a)** An individual who is a victim of a violation of this chapter may bring a civil action against the perpetrator (or whoever knowingly benefits, or attempts or conspires to benefit, financially or by receiving anything of value from participation in a venture which that person knew or should have known has engaged in an act in violation of this chapter) in an appropriate district court of the United States and may recover damages and reasonable attorneys fees.
 
 **(b)**
 
@@ -477,6 +477,8 @@ Subsecs. (f), (g). Pub. L. 114–22, § 105(a)(3), (4), added subsec. (f) and re
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 117–347 inserted “or attempts or conspires to benefit,” after “whoever knowingly benefits,”.
+
 2018—Subsecs. (b)(1), (c). Pub. L. 115–164, § 6(b), substituted “subsection (a)” for “this section”.
 
 Subsec. (d). Pub. L. 115–164, § 6(a), added subsec. (d).

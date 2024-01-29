@@ -2,7 +2,7 @@
 title: 12
 chapter: '3'
 heading: FEDERAL RESERVE SYSTEM
-section_count: 165
+section_count: 167
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -14,7 +14,7 @@ Wherever the word “bank” is used in this chapter, the word shall be held to 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 This section is comprised of the second to fourth pars. of section 1 of act Dec. 23, 1913. The first par. of section 1 is classified to [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226).
@@ -50,7 +50,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-As used in this chapter, referred to in text, was in the original “As used in this Act and in any provision of law amended by this Act”, meaning act June 16, 1933, ch. 89, 48 Stat. 162, as amended, known as the Banking Act of 1933. For complete classification of this Act to the Code, see References in Text note set out under [section 227 of this title](./chapter-003-federal-reserve-system.md#section-227) and Tables.
+As used in this chapter, referred to in text, was in the original “As used in this Act and in any provision of law amended by this Act”, meaning act June 16, 1933, ch. 89, 48 Stat. 162, known as the Banking Act of 1933. For complete classification of this Act to the Code, see References in Text note set out under [section 227 of this title](./chapter-003-federal-reserve-system.md#section-227) and Tables.
 
 #### Amendments
 1966—Subsec. (b)(4). Pub. L. 89–485, § 13(a), added par. (4) which incorporates definitions of “holding company affiliate” contained in cls. (1) and (2) of former subsec. (c) of this section, and substituted “a member bank” for “any one bank” in first two places.
@@ -126,7 +126,7 @@ The organization of reserve districts and Federal reserve cities shall not be co
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of part of the thirteenth par. of section 2 of act Dec. 23, 1913. Some of the other provisions of the thirteenth par. are classified to [section 281 of this title](./chapter-003-federal-reserve-system.md#section-281), and some were not included in the Code. For classification of other pars. of section 2 of this Act, see Codification note set out under [section 222 of this title](./chapter-003-federal-reserve-system.md#section-222).
@@ -223,7 +223,7 @@ The short title of the Act of December 23, 1913, ch. 6, 38 Stat. 251, shall be t
 ### Statutory Notes
 
 #### References in Text
-The Act of December 23, 1913, ch. 6, referred to in text, is classified to this section, sections 1, 35, 59, 90, 92, 141, 142, 221, 222 to 225b, 241 to 246, 247 to 247b, 248, 248–1, 248a, 248b, 261 to 263, 281 to 290, 301 to 308, 321 to 336, 338 to 339a, 341 to 352, 353 to 361, 371 to 371b, 371b–2 to 376, 391, 392, 393, 411 to 416, 418 to 421, 441 to 448, 461, 462, 462b to 467, 481 to 486, 501a to 506, 521, 522, 531, 601 to 604a, and 611 to 633 of this title and as a provision set out as a note under this section. Subsecs. (a)–(c) and (h)–(k) of section 22 of the Act, which were classified to former sections 593 to 599 of this title, were repealed and restated in sections 217 to 220, 433, 655, 656, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §§ 1, 21, 62 Stat. 683, 862, the first section of which enacted Title 18. Sections 217 to 220 of Title 18 were subsequently renumbered sections 212 to 215 of Title 18, respectively, by Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899. For complete classification of this Act to the Code, see Tables.
+The Act of December 23, 1913, ch. 6, referred to in text, is classified to this section, sections 1, 35, 59, 90, 92, 141, 142, 221, 222 to 225b, 241 to 246, 247 to 247b, 248, 248–1, 248a to 248c, 253, 261 to 263, 281 to 290, 301 to 308, 321 to 336, 338 to 339a, 341 to 352, 353 to 361, 371 to 371b, 371b–2 to 376, 391, 392, 393, 411 to 416, 418 to 421, 441 to 448, 461, 462, 462b to 467, 481 to 486, 501a to 506, 521, 522, 531, 601 to 604a, and 611 to 633 of this title and as a provision set out as a note under this section. Subsecs. (a)–(c) and (h)–(k) of section 22 of the Act, which were classified to former sections 593 to 599 of this title, were repealed and restated in sections 217 to 220, 433, 655, 656, 1005, 1014, 1906, and 1909 of Title 18, Crimes and Criminal Procedure, by act June 25, 1948, ch. 645, §§ 1, 21, 62 Stat. 683, 862, the first section of which enacted Title 18. Sections 217 to 220 of Title 18 were subsequently renumbered sections 212 to 215 of Title 18, respectively, by Pub. L. 87–849, § 1(d), Oct. 23, 1962, 76 Stat. 1125. Sections 212 and 213 of Title 18, as renumbered by Pub. L. 87–849, were subsequently repealed by Pub. L. 108–198, § 2(a), Dec. 19, 2003, 117 Stat. 2899. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 This section is comprised of the first par. of section 1 of act Dec. 23, 1913. The second to fourth pars. of section 1 are classified to [section 221 of this title](./chapter-003-federal-reserve-system.md#section-221).
@@ -391,7 +391,7 @@ The principal offices of the Board shall be in the District of Columbia. At meet
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act, specific amendments thereof”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act, specific amendments thereof”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of fourth par. of section 10 of act Dec. 23, 1913. For classification to this title of other pars. of section 10, see Codification note set out under [section 241 of this title](./chapter-003-federal-reserve-system.md#section-241).
@@ -429,7 +429,7 @@ Nothing in this chapter contained shall be construed as taking away any powers h
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of sixth par. of section 10 of act Dec. 23, 1913. For classification to this title of other pars. of section 10, see Codification note set out under [section 241 of this title](./chapter-003-federal-reserve-system.md#section-241).
@@ -637,9 +637,9 @@ This chapter, referred to in subsecs. (c), (h), (i), (n), and (r)(1) and in par.
 
 Reference in subsec. (e) to “section 20 of this Act” means section 20 of the Federal Reserve Act which is not classified to the Code. Since section 20 does not set forth any reserve requirements, section 19 of the Federal Reserve Act might have been intended. For provisions of section 19 relating to reserve requirements, see note above.
 
-The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (l), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, as amended, which enacted section 42 of former Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642a of former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. Section 42 of former Title 40 was repealed and reenacted as [section 8165 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section8165&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
+The Act of January sixteenth, eighteen hundred and eighty-three, referred to in subsec. (l), is act Jan. 16, 1883, ch. 27, 22 Stat. 403, which enacted section 42 of former Title 40, Public Buildings, Property, and Works, and sections 632, 633, 635, 637, 638, and 640 to 642a of former Title 5, Executive Departments and Government Officers and Employees. For complete classification of this Act to the Code, see Tables. Section 42 of former Title 40 was repealed and reenacted as [section 8165 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section8165&num=0&edition=prelim), Public Buildings, Property, and Works, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. The sections that were classified to former Title 5 were repealed by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 632, the first section of which enacted Title 5, Government Organization and Employees. For distribution of former sections of Title 5 into the revised Title 5, see table at the beginning of Title 5.
 
-This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This title, referred to in subsec. (p), probably should read “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act, which does not contain titles. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 Subsection (a) or (c) of section 1109 of the Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in par. (7) of the first subsec. (s) (relating to Federal Reserve transparency and release of information), is subsec. (a) or (c) of section 1109 of Pub. L. 111–203, title XI, 124 Stat. 2127, 2128, which is not classified to the Code.
 
@@ -813,6 +813,60 @@ Section effective on first day of sixth month which begins after Mar. 31, 1980, 
 The Board shall order an annual independent audit of the financial statements of each Federal reserve bank and the Board.
 
 
+<a id="section-248c"></a>
+## § 248c. Master account and services database
+**(a) Definitions** In this section:
+
+(1) **Access request** — The term “access request” means a request to a Federal reserve bank for access to a reserve bank master account and services, including any written documentation or formal indication that an entity intends to seek access to a reserve bank master account and services.
+
+(2) **Official accountholder** — The term “official accountholder” means—
+
+  (A) a foreign state, as defined in [section 632 of this title](./chapter-006-foreign-banking.md#section-632);
+
+  (B) a central bank, as defined in [section 632 of this title](./chapter-006-foreign-banking.md#section-632), other than a commercial bank;
+
+  (C) a public international organization entitled to enjoy privileges, exemptions, and immunities as an international organization under the International Organizations Immunities Act ([22 U.S.C. 288](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) et seq.); and
+
+  (D) any governmental entity for which the Secretary of the Treasury has directed a Federal reserve bank to receive deposits as fiscal agent of the United States under [section 391 of this title](./chapter-003-federal-reserve-system.md#section-391).
+
+(3) **Reserve bank master account and services** — The term “reserve bank master account and services” means an account in which a Federal reserve bank—
+
+  (A) receives deposits for an entity other than an official accountholder; or
+
+  (B) provides any service under [section 248a(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section248a/b&num=0&edition=prelim) to an entity other than an official accountholder.
+
+**(b) Publishing master account and access information**
+
+(1) **Online database** — The Board shall create and maintain a public, online, and searchable database that contains—
+
+  (A) a list of every entity that currently has access to a reserve bank master account and services, including the date on which the access was granted to the extent the date is knowable;
+
+  (B) a list of every entity that submits an access request for a reserve bank master account and services after enactment of this section (or that has submitted an access request that is pending on December 23, 2022), including whether, and the dates on which, a request—
+
+    (i) was submitted; and
+
+    (ii) was approved, rejected, pending, or withdrawn; and
+
+  (C) for each list described in subparagraph (A) or (B), the type of entity that holds or submitted an access request for a reserve bank master account and services, including whether such entity is—
+
+    (i) an insured depository institution, as defined in [section 1813 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1813);
+
+    (ii) an insured credit union, as defined in [section 1752 of this title](./chapter-014-federal-credit-unions.md#section-1752); or
+
+    (iii) a depository institution that is not an insured depository institution or an insured credit union.
+
+(2) **Updates** — Not less frequently than once every quarter, the Board shall update the database to add any new information required under paragraph (1).
+
+(3) **Deadline** — Not later than 180 days after December 23, 2022, the Board shall publish the database with the information required under paragraph (1).
+
+### Statutory Notes
+
+#### References in Text
+The International Organizations Immunities Act, referred to in subsec. (a)(2)(C), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
+
+Enactment of this section, referred to in subsec. (b)(1)(B), means the enactment of this section by Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+
 <a id="section-248-1"></a>
 ## § 248–1. Rules and regulations for transfer of funds and charges therefor among banks; clearing houses
 
@@ -907,6 +961,41 @@ Pub. L. 106–102, title I, § 109, Nov. 12, 1999, 113 Stat. 1362, provided that
 
 #### Definitions
 Pub. L. 104–208, div. A, title II, § 2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: “Except as otherwise specified in this title [see Tables for classification], the following definitions shall apply for purposes of this title: “(1) Appraisal subcommittee.—The term ‘Appraisal Subcommittee’ means the Appraisal Subcommittee established under section 1011 of the Federal Financial Institutions Examination Council Act of 1978 [[12 U.S.C. 3310](./chapter-034-federal-financial-institutions-examination-council.md#section-3310)] (as in existence on the day before the date of enactment of this Act [Sept. 30, 1996]). “(2) Appropriate Federal banking agency.—The term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act [[12 U.S.C. 1813](./chapter-016-federal-deposit-insurance-corporation.md#section-1813)]. “(3) Board.—The term ‘Board’ means the Board of Governors of the Federal Reserve System. “(4) Corporation.—The term ‘Corporation’ means the Federal Deposit Insurance Corporation. “(5) Council.—The term ‘Council’ means the Financial Institutions Examination Council established under section 1004 of the Federal Financial Institutions Examination Council Act of 1978 [[12 U.S.C. 3303](./chapter-034-federal-financial-institutions-examination-council.md#section-3303)]. “(6) Insured credit union.—The term ‘insured credit union’ has the same meaning as in section 101 of the Federal Credit Union Act [[12 U.S.C. 1752](./chapter-014-federal-credit-unions.md#section-1752)]. “(7) Insured depository institution.—The term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act.”
+
+
+<a id="section-253"></a>
+## § 253. Open data publication by the Board of Governors
+
+All public data assets published by the Board of Governors under this chapter, the Bank Holding Company Act of 1956 ([12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841) et seq.), the Financial Stability Act of 2010 ([12 U.S.C. 5311](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5311) et seq.), the Home Owners’ Loan Act ([12 U.S.C. 1461](./chapter-012-savings-associations.md#section-1461) et seq.), the Payment, Clearing, and Settlement Supervision Act of 2010 ([12 U.S.C. 5461](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5461) et seq.), or the Enhancing Financial Institution Safety and Soundness Act of 2010 (title III of Public Law 111–203) (or any provision of law amended by that Act) shall be—
+
+(1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+### Statutory Notes
+
+#### References in Text
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+
+The Financial Stability Act of 2010, referred to in text, is title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to subchapter I (§ 5311 et seq.) of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Home Owners’ Loan Act, referred to in text, is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see [section 1461 of this title](./chapter-012-savings-associations.md#section-1461) and Tables.
+
+The Payment, Clearing, and Settlement Supervision Act of 2010, referred to in text, is title VIII of Pub. L. 111–203, July 21, 2010, 124 Stat. 1802, which is classified generally to subchapter IV (§ 5461 et seq.) of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+The Enhancing Financial Institution Safety and Soundness Act of 2010, referred to in text, is title III of Pub. L. 111–203, July 21, 2010, 124 Stat. 1520. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5863, Dec. 23, 2022, 136 Stat. 3435, provided that: “(a) In General.—The Board of Governors of the Federal Reserve System shall issue rules to carry out the amendments made by this subtitle [subtitle F (§§ 5861–5864) of title LVIII of div. E of Pub. L. 117–263, enacting this section and amending sections 1467a, 1844, 5361, and 5468 of this title], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5811/a&num=0&edition=prelim). “(b) Scaling of Regulatory Requirements; Minimizing Disruption.—In issuing the rules required under subsection (a), the Board of Governors of the Federal Reserve System—“(1) may scale data reporting requirements in order to reduce any unjustified burden on smaller regulated entities; and “(2) shall seek to minimize disruptive changes to the persons affected by those regulations.”
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Pub. L. 117–263, div. E, title LVIII, § 5864, Dec. 23, 2022, 136 Stat. 3436, provided that: “Nothing in this subtitle [subtitle F (§§ 5861–5864) of title LVIII of div. E of Pub. L. 117–263, enacting this section, amending sections 1467a, 1844, 5361, and 5468 of this title, and enacting provisions set out as notes under this section], or the amendments made by this subtitle, shall be construed to require the Board of Governors of the Federal Reserve System to collect or make publicly available additional information under any Act amended by this subtitle, any Act referenced in an amendment made by this subtitle, or any Act amended by an Act referenced in an amendment made by this subtitle, beyond information that was collected or made publicly available under any such provision of law, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
 
 
 <a id="section-261"></a>
@@ -1191,7 +1280,7 @@ Every Federal reserve bank shall be conducted under the supervision and control 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of pars. 6 to 8 of section 4 of act Dec. 23, 1913.
@@ -1254,7 +1343,7 @@ Directors of class A and class B shall be chosen in the following manner: The Bo
 ### Statutory Notes
 
 #### References in Text
-The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act of 1956, referred to in text, is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
 #### Codification
 Section is comprised of pars. 16 to 21 of section 4 of act Dec. 23, 1913. For classification to this title of other pars. of section 4, see Codification note set out under [section 301 of this title](./chapter-003-federal-reserve-system.md#section-301).
@@ -1334,7 +1423,7 @@ Any bank incorporated by special law of any State, operating under the Code of L
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of the first three pars. of section 9 of act Dec. 23, 1913, as amended. The first par. of this section is comprised of the first par. of section 9 as amended in 1917 (40 Stat. 232). The second par. of this section was added as a new par. to follow the first par. of section 9, by act Aug. 17, 1950. The third par. of this section originally constituted the second par. of section 9, as amended by act Feb. 25, 1927, and became the third par. when act Aug. 17, 1950 added the new second par. The fourth to twenty-third pars. of section 9, as amended, are classified to sections 322 to 338a of this title. [Section 329a of this title](./chapter-003-federal-reserve-system.md#section-329a), which was based on par. twelve of section 9, was omitted from the Code. Paragraph twenty-two of section 9, which was classified to [section 337 of this title](./chapter-003-federal-reserve-system.md#section-337), was repealed by Pub. L. 89–485, § 13(g), July 1, 1966, 80 Stat. 243.
@@ -1511,7 +1600,7 @@ No applying bank shall be admitted to membership unless it possesses capital sto
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in text, is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Codification
 Section is comprised of the eleventh par. of section 9 of act Dec. 23, 1913, as amended. The eleventh par. constituted the ninth par. of section 9 in 1917 (40 Stat. 232), became the tenth par. in 1927 (44 Stat. 1229), and became the eleventh par. in 1950 (64 Stat. 458). For further details, see Codification note set out under [section 321 of this title](./chapter-003-federal-reserve-system.md#section-321).
@@ -1789,7 +1878,7 @@ Upon the filing of the organization certificate with the Comptroller of the Curr
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in the Fifth, Seventh, and closing pars., was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in the Fifth, Seventh, and closing pars., was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of pars. 4 and 5 of section 4 of act Dec. 23, 1913. For classification to this title of other pars. of section 4, see Codification note set out under [section 301 of this title](./chapter-003-federal-reserve-system.md#section-301).
@@ -2210,7 +2299,7 @@ Any Federal reserve bank may, subject to regulations and limitations to be presc
 ### Statutory Notes
 
 #### References in Text
-Subchapter VIII of this chapter, referred to in text, was in the original “section 9 of this Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. Section 9 of the act is classified generally to subchapter VIII (§ 321 et seq.) of this chapter.
+Subchapter VIII of this chapter, referred to in text, was in the original “section 9 of this Act”, meaning section 9 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. Section 9 of the act is classified generally to subchapter VIII (§ 321 et seq.) of this chapter.
 
 [Section 1031 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1031&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 92–181, title V, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See [section 2074 of this title](./chapter-023-farm-credit-system.md#section-2074).
 
@@ -2509,7 +2598,7 @@ The discount and rediscount and the purchase and sale by any Federal reserve ban
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is based on the tenth par. of section 13 of act Dec. 23, 1913, as amended. The tenth par. constituted the eighth par. of section 13 in 1916 (39 Stat. 753), became the ninth par. in 1923 (42 Stat. 1478), and became the tenth par. in 1932 (47 Stat. 715). For further details, see Codification notes under sections 342 to 344 of this title.
@@ -2980,7 +3069,7 @@ The effective date of this Act, referred to in subsec. (b)(2)(E), probably means
 
 The Gramm-Leach-Bliley Act, referred to in subsecs. (b)(11) and (e)(4)(B), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. Section 122 of the Act is set out as a note under [section 1843 of this title](./chapter-017-bank-holding-companies.md#section-1843). For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
-This chapter, referred to in subsec. (e)(4)(B), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in subsec. (e)(4)(B), was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Amendments
 2010—Subsec. (b)(1)(D). Pub. L. 111–203, § 608(a)(1)(A), added subpar. (D) and struck out former subpar. (D) which read as follows:
@@ -3230,7 +3319,7 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 
 **(d) Ratio limit for domestic transactions** Notwithstanding subsections (b) and (c), with respect to any institution, the aggregate acceptances, including obligations for a participation share in such acceptances, growing out of domestic transactions shall not exceed 50 per centum of the aggregate of all acceptances, including obligations for a participation share in such acceptances, authorized for such institution under this section.
 
-**(e) Ratio limit for single entity; foreign banks; secu­rity** No institution shall accept bills, or be obligated for a participation share in such bills, whether in a foreign or domestic transaction, for any one person, partnership, corporation, association or other entity in an amount equal at any time in the aggregate to more than 10 per centum of its paid up and unimpaired capital stock and surplus, or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h), unless the institution is secured either by attached documents or by some other actual security growing out of the same transaction as the acceptance.
+**(e) Ratio limit for single entity; foreign banks; security** No institution shall accept bills, or be obligated for a participation share in such bills, whether in a foreign or domestic transaction, for any one person, partnership, corporation, association or other entity in an amount equal at any time in the aggregate to more than 10 per centum of its paid up and unimpaired capital stock and surplus, or, in the case of a United States branch or agency of a foreign bank, its dollar equivalent as determined by the Board under subsection (h), unless the institution is secured either by attached documents or by some other actual security growing out of the same transaction as the acceptance.
 
 **(f) Exception for participation agreements** With respect to an institution which issues an acceptance, the limitations contained in this section shall not apply to that portion of an acceptance which is issued by such institution and which is covered by a participation agreement sold to another institution.
 
@@ -3287,7 +3376,7 @@ No member bank shall act as the medium or agent of a nonmember bank in applying 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of part of subsec. (e), formerly eighth par., of section 19 of act Dec. 23, 1913, as redesignated by Pub. L. 89–597. Remainder of subsec. (e) of such section 19 is classified to [section 463 of this title](./chapter-003-federal-reserve-system.md#section-463).
@@ -3811,7 +3900,7 @@ The Board of Governors of the Federal Reserve System shall have the right, actin
 ### Statutory Notes
 
 #### References in Text
-Subchapter XIII of this chapter, referred to in text, was in the original “section 18 of this Act”, meaning section 18 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. Section 18 of the act was classified generally to subchapter XIII (§ 441 et seq.) of this chapter.
+Subchapter XIII of this chapter, referred to in text, was in the original “section 18 of this Act”, meaning section 18 of act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. Section 18 of the act was classified generally to subchapter XIII (§ 441 et seq.) of this chapter.
 
 #### Codification
 Section is comprised of fourth par. of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under [section 411 of this title](./chapter-003-federal-reserve-system.md#section-411).
@@ -3913,7 +4002,7 @@ In order to furnish suitable notes for circulation as Federal reserve notes, the
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of the seventh par. (formerly the eighth par.) of section 16 of act Dec. 23, 1913. For classification to this title of other pars. of section 16, see Codification note set out under [section 411 of this title](./chapter-003-federal-reserve-system.md#section-411).
@@ -4165,7 +4254,7 @@ Section 448 related to exchange of one-year gold notes for 3 per centum gold bon
 #### References in Text
 This section, referred to in subsec. (a), means section 19 of act Dec. 23, 1913, which is classified to sections 142, 371b, 371b–1, 374, 374a, 461, 463 to 466, 505, and 506 of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (b)(1)(A)(vi), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b)(1)(A)(vi), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 Section 25 of this Act and section 25, referred to in subsec. (b)(6), (12)(C), mean section 25 of act Dec. 23, 1913, ch. 6, which is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title.
 
@@ -4331,7 +4420,7 @@ In estimating the reserve balances required by this chapter, member banks may de
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Codification
 Section is comprised of subsec. (g), formerly tenth par., of section 19 of act Dec. 23, 1913, as redesignated by Pub. L. 89–597.
@@ -4575,7 +4664,7 @@ It shall be unlawful for any officer, director, agent, or employee of any Federa
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “the act of December 23, 1913, known as the Federal Reserve Act,” and “said act,” respectively, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+This chapter, referred to in text, was in the original “the act of December 23, 1913, known as the Federal Reserve Act,” and “said act,” respectively, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 Subchapter VIII of chapter 3 of this title, referred to in text, was in the original “section nine of said Federal reserve Act”. Section 9 is classified generally to subchapter VIII (§ 321 et seq.) of chapter 3 of this title.
 

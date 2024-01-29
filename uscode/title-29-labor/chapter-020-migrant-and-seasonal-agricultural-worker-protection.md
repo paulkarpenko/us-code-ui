@@ -41,7 +41,7 @@ The Secretary may deny a certificate of registration to any farm labor contracto
 ### Statutory Notes
 
 #### References in Text
-The Farm Labor Contractor Registration Act of 1963, referred to in text, is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in text, is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 #### Effective Date
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
@@ -115,7 +115,7 @@ As used in this chapter—
 ### Statutory Notes
 
 #### References in Text
-That Act, referred to in par. (5), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, known as the Fair Labor Standards Act of 1938, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see [section 201 of this title](./chapter-008-fair-labor-standards.md#section-201) and Tables.
+That Act, referred to in par. (5), is act June 25, 1938, ch. 676, 52 Stat. 1060, known as the Fair Labor Standards Act of 1938, which is classified generally to chapter 8 (§ 201 et seq.) of this title. For complete classification of this Act to the Code, see [section 201 of this title](./chapter-008-fair-labor-standards.md#section-201) and Tables.
 
 #### Amendments
 1986—Par. (3). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -170,7 +170,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 ### Statutory Notes
 
 #### References in Text
-That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
+That Act, referred to in subsec. (a)(3)(B), is act June 23, 1947, ch. 120, 61 Stat. 136, known as the Labor Management Relations Act, 1947, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
 #### Effective Date
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
@@ -189,7 +189,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 ### Statutory Notes
 
 #### References in Text
-The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49) and Tables.
+The Wagner-Peyser Act, referred to in subsec. (d), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§ 49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49) and Tables.
 
 #### Effective Date
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
@@ -251,7 +251,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 ### Statutory Notes
 
 #### References in Text
-The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 #### Amendments
 1986—Subsec. (a)(6). Pub. L. 99–603 added par. (6).
@@ -276,7 +276,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 ### Statutory Notes
 
 #### References in Text
-The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 #### Effective Date
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).
@@ -646,7 +646,7 @@ Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–47
 ### Statutory Notes
 
 #### References in Text
-The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
+The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is Pub. L. 88–582, Sept. 7, 1964, 78 Stat. 920, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by Pub. L. 97–470, title V, § 523, Jan. 14, 1983, 96 Stat. 2600. See section 1801 et seq. of this title.
 
 #### Effective Date
 Section effective 90 days from Jan. 14, 1983, see section 524 of Pub. L. 97–470, set out as a note under [section 1801 of this title](./chapter-020-migrant-and-seasonal-agricultural-worker-protection.md#section-1801).

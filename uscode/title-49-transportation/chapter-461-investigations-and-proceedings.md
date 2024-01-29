@@ -24,6 +24,12 @@ source: >-
 
 **(b) Complaints Against Members of Armed Forces.—** The Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall refer a complaint against a member of the armed forces of the United States performing official duties to the Secretary of the department concerned for action. Not later than 90 days after receiving the complaint, the Secretary of that department shall inform the Secretary of Transportation, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration of the action taken on the complaint, including any corrective or disciplinary action taken.
 
+**(c) Prohibition on Using ADS–B Out Data to Initiate an Investigation.—**
+
+(1) **In general.—** — Notwithstanding any other provision of this section, the Administrator of the Federal Aviation Administration may not initiate an investigation (excluding a criminal investigation) of a person based exclusively on automatic dependent surveillance–broadcast data.
+
+(2) **Rule of construction.—** — Nothing in this subsection shall prohibit the use of automatic dependent surveillance–broadcast data in an investigation that was initiated for any reason other than the review of automatic dependent surveillance–broadcast data, including if such investigation was initiated as a result of a report or complaint submitted to the Administrator.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -52,6 +58,8 @@ In subsection (a)(2), before clause (A), the words “the Secretary of Transport
 In subsection (a)(4), the words “an opportunity for a” are added for consistency in the revised title and with other titles of the United States Code. The words “compel compliance with this part” are substituted for “compel such person to comply therewith” for clarity. The words “in an investigation under this subsection” are substituted for “in any investigation instituted upon complaint or upon their own initiative” to eliminate unnecessary words. The words “is violating this part” are substituted for “has failed to comply with any provision of this chapter or any requirement established pursuant thereto” for clarity and to eliminate unnecessary words. The words “with respect to matters within their jurisdiction” are omitted as unnecessary because of the restatement.
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–63 added subsec. (c).
+
 2018—Pub. L. 115–254, § 1991(f)(4), substituted “Administrator of the Transportation Security Administration,” for “Under Secretary,” wherever appearing.
 
 Pub. L. 115–254, § 1991(f)(2), substituted “or Administrator of the Federal Aviation Administration” for “or Administrator” wherever appearing.
@@ -150,13 +158,23 @@ Subsec. (d). Pub. L. 107–71, § 140(b)(6), inserted “the Under Secretary,”
 
   (A) by personal service;
 
-  (B) on a designated agent; or
+  (B) on a designated agent;
 
-  (C) by certified or registered mail to the person to be served or the designated agent of the person.
+  (C) by certified or registered mail to the person to be served or the designated agent of the person;
+
+  (D) by electronic or facsimile transmission to the person to be served or the designated agent of the person; or
+
+  (E) as designated by regulation or guidance published in the Federal Register.
 
 (2) The date of service made by certified or registered mail is the date of mailing.
 
-**(c) Serving Agents.—** Service on an agent designated under this section shall be made at the office or usual place of residence of the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.
+(3) The date of service made by an electronic or facsimile method is—
+
+  (A) the date an electronic or facsimile transmission is sent; or
+
+  (B) the date a notification is sent by an electronic or facsimile method that a notice, process, or action is immediately available and accessible in an electronic database.
+
+**(c) Serving Agents.—** Service on an agent designated under this section shall be made at the office or usual place of residence of the agent or at the electronic or facsimile address designated by the agent. If an air carrier or foreign air carrier does not have a designated agent, service may be made by posting the notice, process, or action in the office of the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration.
 
 ### Statutory Notes
 
@@ -184,6 +202,12 @@ In subsection (b)(2), the word “date” is substituted for “time” for clar
 In subsection (c), the words “with like effect as if made personally upon such carrier” are omitted as surplus.
 
 #### Amendments
+2024—Subsec. (b)(1)(D), (E). Pub. L. 118–63, § 219(1)(A), added subpars. (D) and (E).
+
+Subsec. (b)(3). Pub. L. 118–63, § 219(1)(B), added par. (3).
+
+Subsec. (c). Pub. L. 118–63, § 219(2), substituted “Service on an agent designated under this section shall be made at the office or usual place of residence of the agent or at the electronic or facsimile address designated by the agent.” for “Service on an agent designated under this section shall be made at the office or usual place of residence of the agent.”
+
 2018—Subsec. (a)(1). Pub. L. 115–254, § 1991(f)(3), substituted “by the Administrator of the Federal Aviation Administration)” for “by the Administrator)”.
 
 Pub. L. 115–254, § 1991(f)(1), substituted “Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration” for “Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary”.
@@ -465,7 +489,7 @@ The words “proceeding . . . or civil action” are substituted for “proceedi
 
 <a id="section-46110"></a>
 ## § 46110. Judicial review
-**(a) Filing and Venue.—** Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) in whole or in part under this part, part B, or subsection (l) or (s) 11 See References in Text note below. of section 114 may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
+**(a) Filing and Venue.—** Except for an order related to a foreign air carrier subject to disapproval by the President under section 41307 or 41509(f) of this title, a person disclosing a substantial interest in an order issued by the Secretary of Transportation (or the Administrator of the Transportation Security Administration with respect to security duties and powers designated to be carried out by the Administrator of the Transportation Security Administration or the Administrator of the Federal Aviation Administration with respect to aviation duties and powers designated to be carried out by the Administrator of the Federal Aviation Administration) in whole or in part under this part, part B, or subsection (l) or (r) of section 114 may apply for review of the order by filing a petition for review in the United States Court of Appeals for the District of Columbia Circuit or in the court of appeals of the United States for the circuit in which the person resides or has its principal place of business. The petition must be filed not later than 60 days after the order is issued. The court may allow the petition to be filed after the 60th day only if there are reasonable grounds for not filing by the 60th day.
 
 **(b) Judicial Procedures.—** When a petition is filed under subsection (a) of this section, the clerk of the court immediately shall send a copy of the petition to the Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration, as appropriate. The Secretary, Administrator of the Transportation Security Administration, or Administrator of the Federal Aviation Administration shall file with the court a record of any proceeding in which the order was issued, as provided in [section 2112 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2112&num=0&edition=prelim).
 
@@ -507,10 +531,9 @@ In subsection (c), the word “amend” is added for consistency in the revised 
 
 In subsection (d), the words “made in the proceeding conducted by” are substituted for “urged before” for clarity.
 
-#### References in Text
-Subsection (s) of section 114, referred to in subsec. (a), was redesignated subsec. (r) by Pub. L. 110–161, div. E, title V, § 568(a), Dec. 26, 2007, 121 Stat. 2092.
-
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63 substituted “subsection (l) or (r) of section 114” for “subsection (l) or (s) of section 114”.
+
 2018—Pub. L. 115–254, § 1991(f)(4), substituted “Administrator of the Transportation Security Administration,” for “Under Secretary,” wherever appearing.
 
 Pub. L. 115–254, § 1991(f)(2), substituted “or Administrator of the Federal Aviation Administration” for “or Administrator” wherever appearing.

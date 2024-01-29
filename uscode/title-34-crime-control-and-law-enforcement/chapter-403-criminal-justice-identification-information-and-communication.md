@@ -264,7 +264,7 @@ Section was formerly classified to [section 14613 of Title 42](https://uscode.ho
 
 **(c) Authority of FBI under Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973** Nothing in the Compact shall be construed to affect the authority of the FBI under the Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973 (Public Law 92–544 (86 Stat. 1115)).
 
-**(d) Federal Advisory Committee Act** The Council shall not be considered to be a Federal advisory committee for purposes of the Federal Advisory Committee Act (5 U.S.C. App.).
+**(d) Chapter 10 of title 5** The Council shall not be considered to be a Federal advisory committee for purposes of chapter 10 of title 5.
 
 **(e) Members of Council not Federal officers or employees** Members of the Council (other than a member from the FBI or any at-large member who may be a Federal official or employee) shall not, by virtue of such membership, be deemed—
 
@@ -289,10 +289,11 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in subsec. (c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was formerly classified to [section 14614 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14614&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
 
 <a id="section-40315"></a>
@@ -314,11 +315,12 @@ The Contracting Parties agree to the following:
 ### Statutory Notes
 
 #### References in Text
-The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees, and provisions set out as notes under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) and Tables.
+The Privacy Act of 1974, referred to in Art. IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, which enacted [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim), Government Organization and Employees, and provisions set out as notes under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 552a of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Article VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
+The Departments of State, Justice, and Commerce, the Judiciary, and Related Agencies Appropriation Act, 1973, referred to in Art. VIII(c), is Pub. L. 92–544, Oct. 25, 1972, 86 Stat. 1109. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 14616 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14616&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2022—Art. VIII(a). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.

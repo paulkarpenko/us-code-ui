@@ -2,7 +2,7 @@
 title: 22
 chapter: '52'
 heading: FOREIGN SERVICE
-section_count: 213
+section_count: 217
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -24,7 +24,7 @@ source: >-
 
 (1) assuring, in accordance with merit principles, admission through impartial and rigorous examination, acquisition of career status only by those who have demonstrated their fitness through successful completion of probationary assignments, effective career development, advancement and retention of the ablest, and separation of those who do not meet the requisite standards of performance;
 
-(2) fostering the development and vigorous implementation of policies and procedures, including affirmative action programs, which will facilitate and encourage (A) entry into and advancement in the Foreign Service by persons from all segments of American society, and (B) equal opportunity and fair and equitable treatment for all without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, or handicapping condition;
+(2) fostering the development and vigorous implementation of policies and procedures, including affirmative action programs, which will facilitate and encourage (A) entry into and advancement in the Foreign Service by persons from all segments of American society, and (B) equal opportunity and fair and equitable treatment for all without regard to political affiliation, race, color, religion, national origin, sex, marital status, age, or disability;
 
 (3) providing for more efficient, economical, and equitable personnel administration through a simplified structure of Foreign Service personnel categories and salaries;
 
@@ -50,6 +50,9 @@ Act of May 24, 1924 (commonly known as the Rogers Act), referred to in subsec. (
 The Foreign Service Act of 1946, referred to in subsec. (a)(3), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, which was classified principally to chapter 14 (§ 801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, § 2205(1), Oct. 17, 1980, 94 Stat. 2159, the Foreign Service Act of 1980, as part of the general revision of the laws relating to the administration of the Foreign Service. For complete classification of the 1946 Act to the Code prior to its repeal, see Tables.
 
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–263 substituted “disability” for “handicapping condition”.
 
 #### Effective Date
 Pub. L. 96–465, title II, § 2403, Oct. 17, 1980, 94 Stat. 2169, as amended by Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, provided that: “(a) Except as otherwise provided, this Act [see Short Title note set out below] shall take effect on February 15, 1981. “(b) Personnel actions may be taken on and after the effective date of this Act on the basis of any then current Foreign Service evaluation cycle as if this Act [see Short Title note set out below] had been in effect at the beginning of that cycle. “[(c) Repealed. Pub. L. 99–93, title I, § 119(b), Aug. 16, 1985, 99 Stat. 412, eff. Oct. 1, 1985] “(d)(1) Section 812 of this Act [[section 4052 of this title](./chapter-052-foreign-service.md#section-4052)], and the repeal of sections 631 and 632 of the Foreign Service Act of 1946 [sections 1001 and 1002 of this title] and section 625(k) of the Foreign Assistance Act of 1961 [[section 2385(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2385/k&num=0&edition=prelim)], shall be effective as of the date of enactment of this Act [Oct. 17, 1980]. “(2) For purposes of implementing section 2101 [[section 4151 of this title](./chapter-052-foreign-service.md#section-4151)], sections 402(a) and 403 [sections 3962(a) and 3963 of this title] shall be effective as of the date of enactment of this Act [Oct. 17, 1980]. “(e)(1) The provisions of chapter 8 of title I [subchapter VIII of this chapter] regarding the rights of former spouses to any annuity under section 814(a) [[section 4054(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4054/a&num=0&edition=prelim)] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of an individual who separates from the Service after such date. “(2) Except to the extent provided in section 2109 [[section 4159 of this title](./chapter-052-foreign-service.md#section-4159)], the provisions of such chapter [subchapter VIII of this chapter] regarding the rights of former spouses to receive survivor annuities under chapter 8 [subchapter VIII of this chapter] shall apply in the case of any individual who after the effective date of this Act becomes a former spouse of a participant or former participant in the Foreign Service Retirement and Disability System.”
@@ -346,7 +349,7 @@ Members of the Service shall, under the direction of the Secretary—
 
 **(b) Rules and regulations; discrimination; reprisals for disclosure of information; submission of reports, evaluations, or recommendations; freedom from prohibited personnel practices** The Secretary shall administer the provisions of this chapter and shall prescribe such regulations as may be necessary to ensure that members of the Service, as well as applicants for appointments in the Service—
 
-(1) are free from discrimination on the basis of race, color, religion, sex, national origin, age, handicapping condition, marital status, geographic or educational affiliation within the United States, or political affiliation, as prohibited under [section 2302(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/1&num=0&edition=prelim);
+(1) are free from discrimination on the basis of race, color, religion, sex, national origin, age, disability, marital status, geographic or educational affiliation within the United States, or political affiliation, as prohibited under [section 2302(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/1&num=0&edition=prelim);
 
 (2) are free from reprisal for—
 
@@ -383,7 +386,7 @@ Members of the Service shall, under the direction of the Secretary—
 
 (3) [section 206(d) of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/d&num=0&edition=prelim), prohibiting discrimination on the basis of sex;
 
-(4) sections 791 and 794a of title 29, prohibiting discrimination on the basis of handicapping condition; or
+(4) sections 791 and 794a of title 29, prohibiting discrimination on the basis of disability; or
 
 (5) any provision of law, rule, or regulation prohibiting discrimination on the basis of marital status or political affiliation.
 
@@ -393,6 +396,8 @@ Members of the Service shall, under the direction of the Secretary—
 Subsec. (d)(2) of this section, which required the Secretary to transmit at least once annually to the Chairman of the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives the Department’s reports on equal employment opportunity, affirmative action, and minority recruitment programs, which reports are required by law, regulation, or directive to be submitted to the Equal Employment Opportunity Commission (EEOC) or the Office of Personnel Management (OPM), terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 129 of House Document No. 103–7.
 
 #### Amendments
+2022—Subsecs. (b)(1), (e)(4). Pub. L. 117–263 substituted “disability” for “handicapping condition”.
+
 1990—Subsec. (b)(1). Pub. L. 101–246 inserted “geographic or educational affiliation within the United States,” after “marital status,”.
 
 1987—Subsec. (d)(2). Pub. L. 100–204 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Not later than January 31 of each year, the Secretary shall transmit to each House of the Congress a report, signed by the Secretary, on the activities of the Secretary under paragraph (1). Such report shall include any affirmative action plans submitted by the Secretary under [section 2000e–16 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e–16&num=0&edition=prelim) and any data necessary to evaluate the effectiveness of the program under paragraph (1) for the preceding fiscal year, together with recommendations for administrative or legislative action the Secretary considers appropriate.”
@@ -408,6 +413,15 @@ Subsec. (d)(2) of this section, which required the Secretary to transmit at leas
 
 #### References in Text
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+
+#### Curtailments, Removals From Post, and Waivers of Privileges and Immunities
+Pub. L. 117–263, div. I, title XCII, § 9209, Dec. 23, 2022, 136 Stat. 3873, provided that: “(a) Curtailments Report.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], and every 180 days thereafter, the Secretary [of State] shall submit a report to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] regarding curtailments of Department [of State] personnel from overseas posts. “(2) Contents.—The Secretary shall include in the report required under paragraph (1)—“(A) relevant information about any post that, during the 6-month period preceding the report—“(i) had more than 5 curtailments; or “(ii) had curtailments representing more than 5 percent of Department personnel at such post; and “(B) for each post referred to in subparagraph (A), the number of curtailments, disaggregated by month of occurrence. “(C) Additional contents for initial report.—The initial report submitted pursuant to paragraph (1) shall identify—“(i) the number of curtailments at the Deputy Chief of Mission or Principal Officer level for each of the previous 5 years; and “(ii) to the extent practicable— “(I) the number of such curtailments that were voluntary and the number of such curtailments that were involuntary; and “(II) the number of those curtailed who left the service within 1 year after such curtailment. “(b) Removal of Diplomats.—Not later than 20 days after the date on which any United States personnel under Chief of Mission authority is declared persona non grata by a host government, the Secretary shall—“(1) notify the Committee on Foreign Relations of the Senate, the Select Committee on Intelligence of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Permanent Select Committee on Intelligence of the House of Representatives of such declaration; and “(2) include with such notification—“(A) the official reason for such declaration (if provided by the host government); “(B) the date of the declaration; and “(C) whether the Department responded by declaring a host government’s diplomat in the United States persona non grata. “(c) Waiver of Privileges and Immunities.—Not later than 15 days after any waiver of privileges and immunities pursuant to the Vienna Convention on Diplomatic Relations, done at Vienna April 18, 1961, that is applicable to an entire diplomatic post or to the majority of United States personnel under Chief of Mission authority, the Secretary shall notify the appropriate congressional committees of such waiver and the reason for such waiver. “(d) Termination.—This section shall terminate on the date that is 5 years after the date of the enactment of this Act.”
+
+#### Management Assessments at Diplomatic and Consular Posts
+Pub. L. 117–263, div. I, title XCII, § 9212, Dec. 23, 2022, 136 Stat. 3874, provided that: “(a) In General.—Beginning not later than 1 year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary [of State] shall annually conduct, at each diplomatic and consular post, a voluntary survey, which shall be offered to all staff assigned to that post who are citizens of the United States (excluding the Chief of Mission) to assess the management and leadership of that post by the Chief of Mission, the Deputy Chief of Mission, and the Charge d’Affaires. “(b) Anonymity.—All responses to the survey shall be—“(1) fully anonymized; and “(2) made available to the Director General of the Foreign Service. “(c) Survey.—The survey shall seek to assess—“(1) the general morale at post; “(2) the presence of any hostile work environment; “(3) the presence of any harassment, discrimination, retaliation, or other mistreatment; and “(4) effective leadership and collegial work environment. “(d) Director General Recommendations.—Upon compilation and review of the surveys, the Director General of the Foreign Service shall issue recommendations to posts, as appropriate, based on the findings of the surveys. “(e) Referral.—If the surveys reveal any action that is grounds for referral to the Inspector General of the Department of State and the Foreign Service, the Director General of the Foreign Service may refer the matter to the Inspector General of the Department of State and the Foreign Service, who shall, as the Inspector General considers appropriate, conduct an inspection of the post in accordance with section 209(b) of the Foreign Service Act of 1980 ([22 U.S.C. 3929(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3929/b&num=0&edition=prelim)). “(f) Annual Report.—The Director General of the Foreign Service shall submit an annual report to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] that includes—“(1) any trends or summaries from the surveys; “(2) the posts where corrective action was recommended or taken in response to any issues identified by the surveys; and “(3) the number of referrals to the Inspector General of the Department of State and the Foreign Service, as applicable. “(g) Initial Basis.—The surveys and reports required under this section shall be carried out on an initial basis for the 5-year period beginning on the date of the enactment of this Act.”
+
+#### Third Party Verification of Permanent Change of Station (PCS) Orders
+Pub. L. 117–263, div. I, title XCII, § 9214, Dec. 23, 2022, 136 Stat. 3875, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary [of State] shall establish a mechanism for third parties to verify the employment of, and the validity of permanent change of station (PCS) orders received by, members of the Foreign Service, in a manner that protects the safety, security, and privacy of sensitive employee information.”
 
 
 <a id="section-3922"></a>
@@ -454,7 +468,7 @@ Reorganization Plan Numbered 3 of 1979, referred to in subsec. (a)(3)(A), is Reo
 Pub. L. 105–277, § 1335(k)(1), substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (a)(1), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
@@ -651,6 +665,24 @@ Section was enacted as part of the Departments of Commerce, Justice, and State, 
 2011—Subsec. (c). Pub. L. 112–74 struck out subsec. (c). Prior to amendment, text read as follows: “Not later than 1 year after December 8, 2004, and annually thereafter, the Secretary of State shall submit a report on such reviews that occurred during the previous 12 months, together with the Secretary’s recommendations regarding such reviews to the appropriate committees of Congress, the heads of all affected departments or agencies, and the Inspector General of the Department of State.”
 
 
+<a id="section-3927b"></a>
+## § 3927b. Reporting requirement on chiefs of mission
+
+Not later than 30 days following the end of each calendar quarter, the Secretary shall submit to the appropriate congressional committees—
+
+(1) a list of every chief of mission or United States representative overseas with the rank of Ambassador who, during the prior quarter, was granted approval by the Under Secretary of State for Management to be outside a country of assignment for purposes other than official travel or temporary duty orders; and
+
+(2) the number of days each such chief of mission or United States representative overseas with the rank of Ambassador was outside a country of assignment during the previous quarter for purposes other than official travel or temporary duty orders.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act of 2023, and also as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### Definitions
+For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-3928"></a>
 ## § 3928. Director General of Foreign Service
 
@@ -753,7 +785,7 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
 **(e) Applicability of powers and responsibilities under other statutory provisions; assignment of Service employees to Inspector General; participation in formal interviews**
 
-(1) The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under section 6 of the Inspector General Act of 1978 to each Inspector General of an establishment (as defined in section 11(2) of such Act) for carrying out the provisions of that Act, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 6(b) and (c) of such Act.
+(1) The Inspector General shall have the same authority in carrying out the provisions of this section as is granted under [section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim) to each Inspector General of an establishment (as defined in [section 401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim)) for carrying out the provisions of chapter 4 of title 5, and the responsibilities of other officers of the Government to the Inspector General shall be the same as the responsibilities of the head of an agency or establishment under section 406(c) and (d) of title 5.
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
 
@@ -769,10 +801,9 @@ The President shall appoint, by and with the advice and consent of the Senate, a
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (e)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in Title 5, Appendix, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (e)(1). Pub. L. 117–286 substituted “[section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim)” for “section 6 of the Inspector General Act of 1978”, “[section 401 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim))” for “section 11(2) of such Act)”, “chapter 4 of title 5,” for “that Act,”, and “section 406(c) and (d) of title 5.” for “section 6(b) and (c) of such Act.”
+
 2016—Subsec. (c)(6). Pub. L. 114–323 added par. (6).
 
 1999—Subsec. (c)(5). Pub. L. 106–113, § 1000(a)(7) [div. A, title III, § 339(a)], added par. (5).
@@ -789,7 +820,7 @@ Subsec. (e)(3). Pub. L. 105–277, § 2208(b), added par. (3).
 Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(e)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “The amendments made by this section [amending this section] shall apply to cases opened on or after the date of the enactment of this Act [Nov. 29, 1999].”
 
 #### Construction of 1999 Amendment
-Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “Nothing in the amendments made by this section [amending this section] may be construed to modify— “(1) section 209(d)(4) of the Foreign Service Act of 1980 ([22 U.S.C. 3929(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3929/d/4&num=0&edition=prelim)); “(2) section 7(b) of the Inspector General Act of 1978 (5 U.S.C. app.); “(3) the Privacy Act of 1974 ([5 U.S.C. 552a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim)); “(4) the provisions of [section 2302(b)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/8&num=0&edition=prelim) (relating to whistleblower protection); “(5) rule 6(e) of the Federal Rules of Criminal Procedure [18 U.S.C. App.] (relating to the protection of grand jury information); or “(6) any statute or executive order pertaining to the protection of classified information.”
+Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title III, § 339(c)], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, as amended by Pub. L. 117–286, § 4(b)(43), Dec. 27, 2022, 136 Stat. 4348, provided that: “Nothing in the amendments made by this section [amending this section] may be construed to modify— “(1) section 209(d)(4) of the Foreign Service Act of 1980 ([22 U.S.C. 3929(d)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3929/d/4&num=0&edition=prelim)); “(2) [section 407(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section407/b&num=0&edition=prelim), United States Code; “(3) the Privacy Act of 1974 ([5 U.S.C. 552a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a&num=0&edition=prelim)); “(4) the provisions of [section 2302(b)(8) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b/8&num=0&edition=prelim) (relating to whistleblower protection); “(5) rule 6(e) of the Federal Rules of Criminal Procedure [18 U.S.C. App.] (relating to the protection of grand jury information); or “(6) any statute or executive order pertaining to the protection of classified information.”
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this section relating to the requirement that the Secretary of State transmit a copy of the annual report furnished by the Inspector General, together with any comments which the Secretary deems appropriate, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 129 of House Document No. 103–7.
@@ -856,7 +887,7 @@ Pub. L. 105–277, § 1335(k)(2), substituted “Broadcasting Board of Governors
 1985—Pub. L. 99–93 substituted “shall be chaired by an individual appointed by the President” for “shall be chaired by a career member of the Senior Foreign Service designated by the Secretary of State”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 “United States Information Agency” substituted in text for “International Communication Agency” pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
@@ -1013,6 +1044,9 @@ The Secretary may appoint the members of the Service (other than the members of 
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
+#### Lateral Entry Into the Foreign Service
+Pub. L. 114–323, title IV, § 404, Dec. 16, 2016, 130 Stat. 1928, as amended by Pub. L. 118–31, div. F, title LXII, § 6204(a), Dec. 22, 2023, 137 Stat. 972, provided that: “(a) Sense of Congress.—It is the sense of Congress that the Foreign Service [of the United States] should permit mid-career entry into the Foreign Service for qualified individuals who are willing to bring their outstanding talents and experiences to the work of the Foreign Service. “(b) Pilot Program.—Not later than 180 days after the date of the enactment of this Act [Dec. 16, 2016], the Secretary [of State] shall establish a 5-year pilot program for lateral entry into the Foreign Service that—“(1) targets mid-career individuals from the civil service and private sector who have skills and experience that would be extremely valuable to the Foreign Service; “(2) is in full comportment with current Foreign Service intake procedures, including the requirement to pass the Foreign Service exam; “(3) offers participants in such pilot program placement in the Foreign Service at a grade level higher than FS–4 if such placement is warranted by the education and qualifying experience of such individuals; “(4) requires only one directed assignment in a position appropriate to such pilot program participant’s grade level; “(5) includes, as part of the required initial training, a class or module that specifically prepares participants in such pilot program for life in the Foreign Service, including conveying to such participants essential elements of the practical knowledge that is normally acquired during a Foreign Service officer’s initial assignments[;] “(6) includes an annual assessment of the progress of such pilot program by a review board consisting of Department [of State] officials with appropriate expertise, including employees of the Foreign Service, in order to evaluate such pilot program’s success; “(7) does not include the use of Foreign Service-Limited or other noncareer Foreign Service hiring authorities; and “(8) includes not fewer than 30 participants for each year of the pilot program. “(c) Annual Reporting.—Not later than 1 year after the date of the enactment of this Act and annually thereafter for the duration of the pilot program described in subsection (b), the Secretary shall submit to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] a report that describes the following:“(1) The cumulative number of accepted and unaccepted applicants to such pilot program. “(2) The cumulative number of pilot program participants placed into each Foreign Service cone. “(3) The grade level at which each pilot program participant entered the Foreign Service. “(4) Information about the first assignment to which each pilot program participant was directed. “(5) The structure and operation of such pilot program, including—“(A) the operation of such pilot program to date; and “(B) any observations and lessons learned about such pilot program that the Secretary considers relevant. “(d) Longitudinal Data.—The Secretary shall—“(1) collect and maintain data on the career progression of each pilot program participant for the length of each participant’s Foreign Service career; and “(2) make the data described in paragraph (1) available to the appropriate congressional committees upon request. “(e) Certification.—If the Secretary does not commence the lateral entry program within 180 days after the date of the enactment of this subsection [Dec. 22, 2023], the Secretary shall submit a report to the appropriate congressional committees—“(1) certifying that progress is being made on implementation of the pilot program and describing such progress, including the date on which applicants will be able to apply; “(2) estimating the date by which the pilot program will be fully implemented; [and] “(3) outlining how the Department will use the Lateral Entry Program to fill needed skill sets in key areas such as cyberspace, emerging technologies, economic statecraft, multilateral diplomacy, and data and other sciences.”
+
 #### Prohibition on Certain Employment at United States Diplomatic and Consular Missions in Communist Countries
 Pub. L. 100–204, title I, § 157, Dec. 22, 1987, 101 Stat. 1354, provided that: “(a) Prohibition.—After September 30, 1990, no national of a Communist country may be employed as a foreign national employee in any area of a United States diplomatic or consular facility in any Communist country where classified materials are maintained. “(b) Definition.—As used in this section, the term ‘Communist country’ means a country listed in section 620(f) of the Foreign Assistance Act of 1961 [[22 U.S.C. 2370(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2370/f&num=0&edition=prelim)]. “(c) Additional Funds for Hiring United States Citizens.—The Congress expresses its willingness to provide additional funds to the Department of State for the expenses of employing United States nationals to replace the individuals dismissed by reason of subsection (a). “(d) Report and Request for Funds.—As a part of the Department of State’s authorization request for fiscal years 1990 and 1991, the Secretary of State, in consultation with the heads of all relevant agencies, shall submit—“(1) a report, which shall include—“(A) a feasibility study of the implementation of this section; and “(B) an analysis of the impact of the implementation of this section on the budget of the Department of State; and “(2) a request for funds necessary for the implementation of this section pursuant to the findings and conclusions specified in the report under paragraph (1). “(e) Waiver.—The President may waive this section—“(1) if funds are not specifically authorized and appropriated to carry out this section; or “(2) the President determines that it is in the national security interest of the United States to continue to employ foreign service nationals. The President shall notify the appropriate committees of Congress each time he makes the waiver conferred on him by this section.”
 
@@ -1047,11 +1081,15 @@ George Bush.
 
 (1) In order to assist the President in selecting qualified candidates for appointment or assignment as chiefs of mission, the Secretary of State shall from time to time furnish the President with the names of career members of the Service who are qualified to serve as chiefs of mission, together with pertinent information about such members.
 
-(2) Each individual nominated by the President to be a chief of mission, ambassador at large, or minister shall, at the time of nomination, file with the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives a report of contributions made by such individual and by members of his or her immediate family during the period beginning on the first day of the fourth calendar year preceding the calendar year of the nomination and ending on the date of the nomination. The report shall be verified by the oath of the nominee, taken before any individual authorized to administer oaths. The chairman of the Committee on Foreign Relations of the Senate shall have each such report printed in the Congressional Record. As used in this paragraph, the term “contribution” has the same meaning given such term by [section 30101(8) of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/8&num=0&edition=prelim), and the term “immediate family” means the spouse of the nominee, and any child, parent, grandparent, brother, or sister of the nominee and the spouses of any of them.
+(2) The Secretary shall also furnish to the President, on an annual basis and to assist the President in selecting qualified candidates for appointments or assignments as chief of mission, the names of between 5 and 10 career civil servants serving at the Department of State or the United States Agency for International Development who are qualified to serve as chiefs of mission, together with pertinent information about such individuals.
+
+(3) Each individual nominated by the President to be a chief of mission, ambassador at large, or minister shall, at the time of nomination, file with the Committee on Foreign Relations of the Senate and the Speaker of the House of Representatives a report of contributions made by such individual and by members of his or her immediate family during the period beginning on the first day of the fourth calendar year preceding the calendar year of the nomination and ending on the date of the nomination. The report shall be verified by the oath of the nominee, taken before any individual authorized to administer oaths. The chairman of the Committee on Foreign Relations of the Senate shall have each such report printed in the Congressional Record. As used in this paragraph, the term “contribution” has the same meaning given such term by [section 30101(8) of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101/8&num=0&edition=prelim), and the term “immediate family” means the spouse of the nominee, and any child, parent, grandparent, brother, or sister of the nominee and the spouses of any of them.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(2), (3). Pub. L. 118–31 added par. (2) and redesignated former par. (2) as (3).
+
 1999—Subsec. (c). Pub. L. 106–113 struck out subsec. (c) which read as follows: “Within 6 months after assuming the position, the chief of mission to a foreign country shall submit, to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives, a report describing his or her own foreign language competence and the foreign language competence of the mission staff in the principal language or other dialect of that country.”
 
 #### Public Availability of Reports on Nominees To Be Chiefs of Mission
@@ -1143,9 +1181,13 @@ A career candidate for appointment as a Foreign Service officer may not be initi
 ### Statutory Notes
 
 #### USAID Overseas Program
-Pub. L. 117–103, div. K, title VII, § 7065(a)–(d), Mar. 15, 2022, 136 Stat. 678, provided that: “(a) Authority.—Up to $170,000,000 of the funds made available in title III of this Act [title III of div. K of Pub. L. 117–103, 136 Stat. 575] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948) and 3949). “(b) Restriction.—The authority to hire individuals contained in subsection (a) shall expire on September 30, 2023. “(c) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. K of Pub. L. 117–103, 136 Stat. 574] under the heading ‘Operating Expenses’. “(d) Foreign Service Limited Extensions.—Individuals hired and employed by USAID [United States Agency for International Development], with funds made available in this Act [div. K. of Pub. L. 117–103, 136 Stat. 564] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
+Pub. L. 118–47, div. F, title VII, § 7065(a)–(d), Mar. 23, 2024, 138 Stat. 846, provided that: “(a) Authority.—Up to $170,000,000 of the funds made available in title III of this Act [title III of div. F of Pub. L. 118–47, 138 Stat. 740] pursuant to or to carry out the provisions of part I of the Foreign Assistance Act of 1961 [[22 U.S.C. 2151](./chapter-032-foreign-assistance.md#section-2151) et seq.], including funds appropriated under the heading ‘Assistance for Europe, Eurasia and Central Asia’, may be used by the United States Agency for International Development to hire and employ individuals in the United States and overseas on a limited appointment basis pursuant to the authority of sections 308 and 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3948](./chapter-052-foreign-service.md#section-3948) and 3949). “(b) Restriction.—The authority to hire individuals contained in subsection (a) shall expire on September 30, 2025. “(c) Program Account Charged.—The account charged for the cost of an individual hired and employed under the authority of this section shall be the account to which the responsibilities of such individual primarily relate: Provided, That funds made available to carry out this section may be transferred to, and merged with, funds appropriated by this Act in title II [title II of div. F of Pub. L. 118–47, 138 Stat. 739] under the heading ‘Operating Expenses’. “(d) Foreign Service Limited Extensions.—Individuals hired and employed by USAID [United States Agency for International Development], with funds made available in this Act [div. F of Pub. L. 118–47, 138 Stat. 729] or prior Acts making appropriations for the Department of State, foreign operations, and related programs, pursuant to the authority of section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)), may be extended for a period of up to 4 years notwithstanding the limitation set forth in such section.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. K, title VII, § 7065(a)–(d), Dec. 29, 2022, 136 Stat. 5086.
+
+Pub. L. 117–103, div. K, title VII, § 7065(a)–(d), Mar. 15, 2022, 136 Stat. 678.
 
 Pub. L. 116–260, div. K, title VII, § 7064(a)–(d), Dec. 27, 2020, 134 Stat. 1809.
 
@@ -1479,9 +1521,9 @@ unless the performance of the member during that period is found in a review by 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et. seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et. seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
 #### Amendments
 2002—Subsec. (a)(1). Pub. L. 107–228 in third sentence substituted “payments by the Government and employees to (i) a trust or other fund in a financial institution in order to finance future benefits for employees, including provision for retention in the fund of accumulated interest and dividends for the benefit of covered employees; or (ii) a Foreign Service National Savings Fund established in the Treasury of the United States, which (I) shall be administered by the Secretary, at whose direction the Secretary of the Treasury shall invest amounts not required for the current needs of the Fund; and (II) shall be public monies, which are authorized to be appropriated and remain available without fiscal year limitation to pay benefits, to be invested in public debt obligations bearing interest at rates determined by the Secretary of the Treasury taking into consideration current average market yields on outstanding marketable obligations of the United States of comparable maturity, and to pay administrative expenses.” for “payments by the Government and employees to a trust or other fund in a financial institution in order to finance future benefits for employees, including provision for retention in the fund of accumulated interest for the benefit of covered employees.”
@@ -1513,7 +1555,7 @@ Pub. L. 96–60, title I, § 107(a), Aug. 15, 1979, 93 Stat. 397, provided that:
 
 <a id="section-3968a"></a>
 ## § 3968a. Locally-employed staff wages
-**(a) Market-responsive staff wages** Not later than 180 days after December 16, 2016, and periodically thereafter, the Secretary shall establish and implement a prevailing wage rates goal for positions in the local compensation plan, as described in [section 3968 of this title](./chapter-052-foreign-service.md#section-3968), at each diplomatic post that—
+**(a) Market-responsive staff wages** Not later than 180 days after December 16, 2016, and every 3 years thereafter, the Secretary shall establish and implement a prevailing wage rates goal for positions in the local compensation plan, as described in [section 3968 of this title](./chapter-052-foreign-service.md#section-3968), at each diplomatic post that—
 
 (1) is based on the specific recruiting and retention needs of each such post and local labor market conditions, as determined annually; and
 
@@ -1531,6 +1573,9 @@ Pub. L. 96–60, title I, § 107(a), Aug. 15, 1979, 93 Stat. 397, provided that:
 
 #### Codification
 Section was enacted as part of the Department of State Authorities Act, Fiscal Year 2017, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### Amendments
+2023—Subsec. (a). Pub. L. 118–31 substituted “every 3 years” for “periodically” in introductory provisions.
 
 #### Definitions
 For definitions of “Secretary” and “appropriate congressional committees” as used in this section, see section 2 of Pub. L. 114–323, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
@@ -1728,6 +1773,9 @@ The Secretary shall designate and classify positions in the Department and at Fo
 2016—Subsec. (a)(2). Pub. L. 114–323 inserted “or prohibited from being assigned to” after “assigned to” and struck out “exclusively” before “on the basis”.
 
 1983—Subsec. (d). Pub. L. 98–164 added subsec. (d).
+
+#### Supporting Tandem Spouses in the Foreign Service
+Pub. L. 118–31, div. F, title LXII, § 6227, Dec. 22, 2023, 137 Stat. 980, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) challenges finding and maintaining spousal employment and family dissatisfaction are one of the leading reasons employees cite for leaving the Department [of State]; “(2) tandem Foreign Service personnel represent important members of the Foreign Service community, who act as force multipliers for our diplomacy; “(3) the Department can and should do more to keep tandem spouses posted together and consider family member employment needs when assigning tandem officers; and “(4) common sense steps providing more flexibility in the assignments process would improve outcomes for tandem officers without disadvantaging other Foreign Service Officers. “(b) Definitions.—In this section:“(1) Family togetherness.—The term ‘family togetherness’ means facilitating the placement of Foreign Service personnel at the same United States diplomatic post when both spouses are members of a tandem couple of Foreign Service personnel. “(2) Tandem foreign service personnel; tandem.—The terms ‘tandem Foreign Service personnel’ and ‘tandem’ mean a member of a couple of which one spouse is a career or career candidate employee of the Foreign Service and the other spouse is a career or career candidate employee of the Foreign Service or an employee of one of the agencies authorized to use the Foreign Service Personnel System under section 202 of the Foreign Service Act of 1980 ([22 U.S.C. 3922](./chapter-052-foreign-service.md#section-3922)). “(c) Family Togetherness in Assignments.—Not later than 90 days after the date of enactment of this division [Dec. 22, 2023], the Department shall amend and update its policies to further promote the principle of family togetherness in the Foreign Service, which shall include the following:“(1) Entry-level foreign service personnel.—The Secretary [of State] shall adopt policies and procedures to facilitate the assignment of entry-level tandem Foreign Service personnel on directed assignments to the same diplomatic post or country as their tandem spouse if they request to be assigned to the same post or country. The Secretary shall also provide a written justification to the requesting personnel explaining any denial of a request that would result in tandem spouses not serving together at the same post or country. “(2) Tenured foreign service personnel.—The Secretary shall add family togetherness to the criteria when making a needs of the Service determination, as defined by the Foreign Affairs Manual, for the placement of tenured tandem Foreign Service personnel at United States diplomatic posts. “(3) Updates to antinepotism policy.—The Secretary shall update antinepotism policies so that nepotism rules only apply when an employee and a relative are placed into positions wherein they jointly and exclusively control government resources, property, or money or establish government policy. “(4) Temporary supervision of tandem spouse.—The Secretary shall update policies to allow for a tandem spouse to temporarily supervise another tandem spouse for up to 90 days in a calendar year, including at a United States diplomatic mission. “(d) Report.—Not later than 90 days after the date of enactment of this division, and annually thereafter for two years, the Secretary shall submit to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] a report that includes—“(1) the number of Foreign Service tandem spouses currently serving; “(2) the number of Foreign Service tandems currently serving in separate locations, or, to the extent possible, that are on leave without pay (LWOP); and “(3) an estimate of the cost savings that would result if all Foreign Service tandem spouses were placed at a single post.”
 
 #### Report Respecting Policies and Procedures Adopted To Improve Competitive Ability of Personnel
 Pub. L. 98–164, title I, § 130(c), Nov. 22, 1983, 97 Stat. 1028, directed Secretary of State, not later than one year after Nov. 22, 1983, to submit a report to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate describing policies and procedures adopted pursuant to the amendment made by section 130(b) of Pub. L. 98–164, adding subsec. (d) of this section, prior to repeal by Pub. L. 103–236, title I, § 139(10), Apr. 30, 1994, 108 Stat. 398.
@@ -1934,11 +1982,25 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 ## § 4003. Recommendations and rankings
 **(a)** Recommendations and rankings by selection boards shall be based upon records of the character, ability, conduct, quality of work, industry, experience, dependability, usefulness, and general performance of members of the Service. Such records may include reports prepared by or on behalf of the Inspector General of the Department of State and the Foreign Service, performance evaluation reports of supervisors, records of commendations, reports of language test scores from the George P. Shultz National Foreign Affairs Training Center, awards, reprimands, and other disciplinary actions, and (with respect to members of the Senior Foreign Service) records of current and prospective assignments.
 
-**(b)** Precepts for selection boards shall include a description of the needs of the Service for performance requirements, skills, and qualities, which are to be considered in recommendations for promotion. The precepts for selection boards responsible for recommending promotions into and within the Senior Foreign Service shall emphasize performance which demonstrates the strong policy formulation capabilities, executive leadership qualities, and highly developed functional and area expertise, which are required for the Senior Foreign Service. The precepts for selection boards shall include, whether the member of the Service or the member of the Senior Foreign Service, as the case may be, has demonstrated—
+**(b)** Precepts for selection boards shall include a description of the needs of the Service for performance requirements, skills, and qualities, which are to be considered in recommendations for promotion. The precepts for selection boards responsible for recommending promotions into and within the Senior Foreign Service shall emphasize performance which demonstrates the strong policy formulation capabilities, executive leadership qualities, and highly developed functional and area expertise, which are required for the Senior Foreign Service. The precepts for selection boards shall include, whether the member of the Service or the member of the Senior Foreign Service, as the case may be, and when occupying positions for which the following is, to any degree, an element of the member’s duties, has demonstrated—
 
-(1) a willingness and ability to explain United States policies in person and through the media when occupying positions for which such willingness and ability is, to any degree, an element of the member’s duties, or
+(1) a willingness and ability to explain United States policies in person and through the media;
 
-(2) other experience in public diplomacy.
+(2) experience serving at an international organization, multilateral institution, or engaging in multinational negotiations;
+
+(3) willingness to serve in hardship posts overseas where applicable and across geographically distinct regions;
+
+(4) experience advancing policies or developing expertise that enhance the United States’ competitiveness with regard to critical and emerging technologies;
+
+(5) willingness to participate in appropriate and relevant professional development opportunities offered by the Foreign Service Institute or other educational institutions associated with the Department;
+
+(6) willingness to enable and encourage subordinates at various levels to avail themselves of appropriate and relevant professional development opportunities offered by the Foreign Service Institute or other educational institutions associated with the Department;
+
+(7) a willingness and ability to regularly and meaningfully engage with civil society and other local actors in country;
+
+(8) other demonstrated experience in public diplomacy; or
+
+(9) the ability to effectively manage and assess risk associated with the conduct of diplomatic operations.
 
 **(c)**
 
@@ -1951,6 +2013,16 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(2) to (9). Pub. L. 118–31 added pars. (2) to (6) and redesignated former pars. (2) to (4) as (7) to (9), respectively.
+
+2022—Subsec. (b). Pub. L. 117–263, § 9302(k)(1), inserted “and when occupying positions for which the following is, to any degree, an element of the member’s duties,” after “as the case may be,” in introductory provisions.
+
+Subsec. (b)(1). Pub. L. 117–263, § 9302(k)(2), substituted semicolon at end for “when occupying positions for which such willingness and ability is, to any degree, an element of the member’s duties, or”.
+
+Subsec. (b)(2), (3). Pub. L. 117–263, § 9302(k)(3), (4), added pars. (2) and (3) and struck out former par. (2) which read as follows: “other experience in public diplomacy.”
+
+Subsec. (b)(4). Pub. L. 117–263, § 9302(k)(5), which directed that par. (4) be added after par. (3) “as redesignated”, was executed by adding par. (4) after par. (3) as added by Pub. L. 117–263, § 9302(k)(3), to reflect the probable intent of Congress. See above.
+
 2021—Subsec. (c). Pub. L. 117–81 added subsec. (c).
 
 2004—Subsec. (b). Pub. L. 108–458 inserted at end “The precepts for selection boards shall include, whether the member of the Service or the member of the Senior Foreign Service, as the case may be, has demonstrated—” and pars. (1) and (2).
@@ -2092,7 +2164,7 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by P
 ## § 4010. Separation for cause; suspension
 **(a) Authorization of Secretary; right to hearing; attorneys fees and backpay; leave without pay**
 
-(1) The Secretary may decide to separate any member from the Service for such cause as will promote the efficiency of the Service.
+(1) The Secretary may separate any member from the Service for such cause as will promote the efficiency of the Service, including upon receiving notification from the Bureau of Diplomatic Security that such member has engaged in criminal misconduct, such as murder, rape, or other sexual assault.
 
 (2)
 
@@ -2150,6 +2222,8 @@ Pub. L. 95–105, title IV, § 411, Aug. 17, 1977, 91 Stat. 855, as amended by P
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263 struck out “decide to” after “The Secretary may” and inserted before period at end “, including upon receiving notification from the Bureau of Diplomatic Security that such member has engaged in criminal misconduct, such as murder, rape, or other sexual assault”.
+
 2021—Subsec. (c)(1). Pub. L. 117–81, § 5317(1), substituted “indefinitely suspend without duties” for “suspend” in introductory provisions.
 
 Subsec. (c)(5), (6). Pub. L. 117–81, § 5317(3), added pars. (5) and (6). Former par. (5) redesignated (7).
@@ -2184,6 +2258,9 @@ Subsec. (a)(5). Pub. L. 102–138, § 143(a)(3), substituted “the conviction r
 
 #### Effective Date of 1987 Amendment
 Amendment by Pub. L. 100–204 not applicable with respect to any grievance in which the Board has issued a final decision pursuant to [section 4137 of this title](./chapter-052-foreign-service.md#section-4137) before Dec. 22, 1987, see section 181(e) of Pub. L. 100–204, set out as a note under [section 3946 of this title](./chapter-052-foreign-service.md#section-3946).
+
+#### Update to Foreign Affairs Manual
+Pub. L. 117–263, div. I, title XCII, § 9202(b)(2), Dec. 23, 2022, 136 Stat. 3864, provided that: “The Director of Global Talent Management shall— “(A) update the ‘Grounds for Disciplinary Action’ and ‘List of Disciplinary Offenses and Penalties’ sections of the Foreign Affairs Manual to reflect the amendments made under paragraph (1) [amending this section]; and “(B) communicate such updates to Department [of State] staff through publication in Department Notices.”
 
 #### Expedited Separation Out
 Pub. L. 105–277, div. G, subdiv. B, title XXIII, § 2311(b), Oct. 21, 1998, 112 Stat. 2681–826, provided that: “(1) Separation of lowest ranked foreign service members.—Not later than 90 days after the date of enactment of this Act [Oct. 21, 1998], the Secretary of State shall develop and implement procedures to identify, and recommend for separation, any member of the Foreign Service ranked by promotion boards of the Department of State in the bottom 5 percent of his or her class for 2 or more of the 5 years preceding the date of enactment of this Act (in this subsection referred to as the ‘years of lowest ranking’) if the rating official for such member was not the same individual for any two of the years of lowest ranking. “(2) Special internal reviews.—In any case where the member was evaluated by the same rating official in any 2 of the years of lowest ranking, an internal review of the member’s file shall be conducted to determine whether the member should be considered for action leading to separation. “(3) Procedures.—The Secretary of State shall develop procedures for the internal reviews required under paragraph (2).”
@@ -2443,6 +2520,9 @@ Committee on International Relations of House of Representatives changed to Comm
 #### Amendments
 1987—Subsec. (f). Pub. L. 100–204 struck out subsec. (f) which related to report to Congress and President.
 
+#### Professional Development
+Pub. L. 117–263, div. I, title XCII, § 9211, Dec. 23, 2022, 136 Stat. 3874, provided that: “(a) Requirements.—The Secretary [of State] shall strongly encourage that Foreign Service officers seeking entry into the Senior Foreign Service participate in professional development described in subsection (c). “(b) Requirements.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary shall submit recommendations on requiring that Foreign Service officers complete professional development described in subsection (c) to be eligible for entry into the Senior Foreign Service. “(c) Professional Development Described.—Professional development described in this subsection is not less than 6 months of training or experience outside of the Department [of State], including time spent—“(1) as a detailee to another government agency, including Congress or a State, Tribal, or local government; or “(2) in Department-sponsored and -funded university training that results in an advanced degree, excluding time spent at a university that is fully funded or operated by the Federal Government. “(d) Promotion Precepts.—The Secretary shall instruct promotion boards to consider positively long-term training and out-of-agency detail assignments as described in this section.”
+
 
 <a id="section-4024"></a>
 ## § 4024. Functions of Secretary
@@ -2638,6 +2718,16 @@ Except as otherwise provided, Secretary of State to have and exercise any author
 
 **(d) Economic and commercial diplomacy** The Secretary of State, with the assistance of other relevant officials and the private sector, shall establish as part of the standard training provided for economic and commercial officers of the Foreign Service, chiefs of mission, and deputy chiefs of mission, training on matters related to economic and commercial diplomacy, with particular attention to market access and other elements of an enabling framework for United States businesses, commercial advocacy, and United States foreign economic policy, in addition to awareness about the support of the United States Government available to United States businesses, including support provided by the Department of Agriculture, the Department of Commerce, the Export-Import Bank of the United States, the Millennium Challenge Corporation, the Trade and Development Agency, the Department of the Treasury, the United States Agency for International Development, and the United States International Development Finance Corporation.
 
+**(e) Training in multilateral diplomacy**
+
+(1) **In general** — The Secretary, in consultation with other senior officials as appropriate, shall establish training courses on—
+
+  (A) the conduct of diplomacy at international organizations and other multilateral institutions; and
+
+  (B) broad-based multilateral negotiations of international instruments.
+
+(2) **Required training** — Members of the Service, including appropriate chiefs of mission and other officers who are assigned to United States missions representing the United States to international organizations and other multilateral institutions or who are assigned in other positions that have as their primary responsibility formulation of policy related to such organizations and institutions, or participation in negotiations of international instruments, shall receive specialized training in the areas described in paragraph (1) prior to the beginning of service for such assignment or, if receiving such training at that time is not practical, within the first year of beginning such assignment.
+
 ### Statutory Notes
 
 #### References in Text
@@ -2646,6 +2736,8 @@ The Trafficking Victims Protection Act of 2000, referred to in subsec. (a)(1)(C)
 The Child Soldiers Prevention Act of 2008, referred to in subsec. (c), is title IV of Pub. L. 110–457, Dec. 23, 2008, 122 Stat. 5087, which is classified principally to sections 2370c to 2370c–2 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
+2023—Subsec. (e). Pub. L. 118–31 added subsec. (e).
+
 2019—Subsec. (a)(1)(D). Pub. L. 115–441 added subpar. (D).
 
 Subsec. (d). Pub. L. 116–94 added subsec. (d).
@@ -2664,6 +2756,12 @@ Subsecs. (b), (c). Pub. L. 114–281, § 103(a)(2), (3), inserted headings.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see section 407 of Pub. L. 110–457, set out as an Effective Date note under [section 2370c of this title](./chapter-032-foreign-assistance.md#section-2370c).
+
+#### Economic and Commercial Diplomacy Training
+Pub. L. 118–47, div. F, title VII, § 7028(b), Mar. 23, 2024, 138 Stat. 778, provided that: “In carrying out section 705 of title VII of division J of Public Law 116–94 [amending this section], the Secretary of State shall annually assess training needs across the economic and commercial diplomacy issue areas and ensure, after a review of course offerings, course attendance records, and course evaluation results, that current offerings meet training needs.”
+
+#### Training for Department Employees
+Pub. L. 118–31, div. F, title LXVII, § 6702(b), Dec. 22, 2023, 137 Stat. 1015, provided that: “The Secretary of State shall ensure that employees of the Department of State who are assigned to positions described in paragraph (2) of subsection (e) of section 708 of the Foreign Service Act of 1980 [[22 U.S.C. 4028(e)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4028/e/2&num=0&edition=prelim)] (as added by subsection (a) of this section), including members of the civil service or general service, or who are seconded to international organizations for a period of at least one year, receive training described in such subsection and participate in other such courses as the Secretary may recommend to build or augment identifiable skills that would be useful for such Department officials representing United States interests at these institutions and organizations.”
 
 
 <a id="section-4029"></a>
@@ -2686,6 +2784,24 @@ Amendment by Pub. L. 110–457 effective 180 days after Dec. 23, 2008, see secti
 
 #### Codification
 Section was enacted as part of the Intelligence Reform and Terrorism Prevention Act of 2004, and also as part of the 9/11 Commission Implementation Act of 2004, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+
+<a id="section-4030"></a>
+## § 4030. Suitability reviews for Foreign Service Institute instructors
+
+The Secretary shall take reasonable steps to ensure that all instructors at the Foreign Service Institute, including direct hires and contractors, who provide language instruction are—
+
+(1) subject to suitability reviews and background investigations; and
+
+(2) subject to periodic background checks or reinvestigations to the extent consistent with Department and Executive policy for other Department personnel.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act of 2023, and also as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### Definitions
+For definitions of “Secretary” and “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-4041"></a>
@@ -3030,7 +3146,7 @@ Pub. L. 99–335, § 405(a)(2), added subsec. (h).
 1983—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: “Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under [section 4056 of this title](./chapter-052-foreign-service.md#section-4056) for periods of internment during World War II.”
 
 #### Effective Date of 2022 Amendment
-Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–228, div. A, title III, § 322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) [amending this section] and (b)(2) [amending [section 4071e of this title](./chapter-052-foreign-service.md#section-4071e)] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
@@ -3141,7 +3257,7 @@ Pub. L. 105–33, title VII, § 7001(d)(1)–(2)(B), Aug. 5, 1997, 111 Stat. 659
 
     (iv) The service of an affected employee shall no longer be eligible for treatment under clause (ii) if such service occurs after the employee is transferred to a supervisory or administrative position related to the activities of the former covered position of the employee.
 
-    (v) In accordance with procedures established by the Secretary, an affected special agent may file an election to have any creditable service performed by the affected special agent treated in accordance with this subchapter, without regard to clause (ii).
+    (v) In accordance with procedures established by the Secretary, an affected special agent may file an election to have any creditable service performed by the affected special agent treated in accordance with this part, without regard to clause (ii).
 
 (7) In the case of a special agent who becomes or became subject to part II—
 
@@ -3275,8 +3391,6 @@ Section 1(b) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set ou
 (2) no contribution is required for such service as provided under [section 4045(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4045/f&num=0&edition=prelim) as deemed to be amended by this Order, or under any other statute.
 
 #### References in Text
-This subchapter, referred to in subsec. (a)(6)(D), was so in the original but probably should have been a reference to “this chapter”, meaning chapter 8 of title I of the Foreign Service Act of 1980, which is classified to this subchapter.
-
 The Social Security Act, referred to in subsec. (m)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
@@ -3323,7 +3437,7 @@ Pub. L. 99–335, § 406, added subsec. (m).
 Subsec. (n). Pub. L. 99–335, § 407, added subsec. (n).
 
 #### Effective Date of 2022 Amendment
-Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–228, div. A, title III, § 322(c)(1), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(1) [amending this section] and (b)(1) [amending [section 4071d of this title](./chapter-052-foreign-service.md#section-4071d)] shall apply to service performed on or after the first day of the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act [Sept. 30, 2002].”
@@ -3566,7 +3680,7 @@ Section 4(a)(2) of the Department of State Special Agents Retirement Act of 1998
 1990—Subsec. (a). Pub. L. 101–513 designated existing provisions as par. (1) and added par. (2).
 
 #### Effective Date of 2022 Amendment
-Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under [section 4044 of this title](./chapter-052-foreign-service.md#section-4044).
@@ -3785,7 +3899,7 @@ The lump-sum credit of the participant shall be reduced by the amount of the lum
 ### Statutory Notes
 
 #### Amendment of Section
-Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title](./chapter-052-foreign-service.md#section-4059), as determined by the Secretary of the Treasury.
+Ex. Ord. No. 12446, § 1(a), (c), Oct. 17, 1983, 48 F.R. 48443, set out as a note under [section 4067 of this title](./chapter-052-foreign-service.md#section-4067), provided that the first sentence of subsection (h) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under [section 4055(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4055/h&num=0&edition=prelim) and voluntary contributions under [section 4065(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section4065/a&num=0&edition=prelim) from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under [section 4059 of this title](./chapter-052-foreign-service.md#section-4059), as determined by the Secretary of the Treasury.
 
 #### Amendments
 1988—Subsec. (a). Pub. L. 100–238 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whenever a participant becomes separated from the Service without becoming eligible for an annuity or a deferred annuity under this subchapter, a lump-sum credit shall be paid to the participant (and to any former spouse of the participant, in accordance with subsection (i) of this section). A participant who becomes subject to part II of this subchapter shall be entitled to payment of the lump-sum credit if, and to the extent that, such lump-sum credit relates to service of a type described in clauses (i) through (iii) of section 302(a)(1)(C) of the Federal Employees’ Retirement System Act of 1986.”
@@ -3827,7 +3941,7 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 (2) A participant may make a special contribution for any period or periods of approved leave without pay while serving before November 7, 1976, as a full-time officer or employee of an organization composed primarily of Government employees. Any such contribution shall be based upon the suspended Foreign Service salary rate and shall be computed in accordance with [section 4045 of this title](./chapter-052-foreign-service.md#section-4045). A participant who makes such contributions shall be allowed full retirement credit for the period or periods of leave without pay. If this contribution is not made, up to 6 months’ retirement credit shall be allowed for such periods of leave without pay each calendar year.
 
-**(d) Special contribution in repayment of refund of retirement contributions** 22 See Amendment of Section note below. A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under [section 4045 of this title](./chapter-052-foreign-service.md#section-4045). Credit may not be allowed for service covered by the refund unless the special contribution is made.
+**(d) Special contribution in repayment of refund of retirement contributions** 1 A participant who has received a refund of retirement contributions (which has not been repaid) under this or any other retirement system for Government employees covering service which may be creditable may make a special contribution for such service under [section 4045 of this title](./chapter-052-foreign-service.md#section-4045). Credit may not be allowed for service covered by the refund unless the special contribution is made.
 
 **(e) Civilian service under other Government retirement system** No credit in annuity computation shall be allowed for any period of civilian service for which a participant made retirement contributions to another retirement system for Government employees unless—
 
@@ -4189,6 +4303,9 @@ Pub. L. 99–335, § 402(a)(2), substituted “this part” for “this subchapt
 Amendment by Pub. L. 99–556 effective Jan. 1, 1987, and applicable to any individual in a reemployed status on or after that date, see section 408 of Pub. L. 99–556, set out as a note under [section 4046 of this title](./chapter-052-foreign-service.md#section-4046).
 
 Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub. L. 99–335, set out as an Effective Date note under [section 8401 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8401&num=0&edition=prelim), Government Organization and Employees.
+
+#### Department of State Inspector General Waiver Authority
+Pub. L. 117–263, div. I, title XCVIII, § 9802(f), Dec. 23, 2022, 136 Stat. 3924, provided that: “The Inspector General of the Department [of State] may waive the provisions of subsections (a) through (d) of section 824 of the Foreign Service Act of 1980 ([22 U.S.C. 4064](./chapter-052-foreign-service.md#section-4064)), on a case-by-case basis, for an annuitant reemployed by the Inspector General on a temporary basis, subject to the same constraints and in the same manner by which the Secretary of State may exercise such waiver authority pursuant to subsection (g) of such section.”
 
 #### Extension of Authority
 Extensions of the waiver authority of the Secretary of State under former subsec. (g)(2) of this section (see 2016 Amendment note above) were contained in the following acts:
@@ -4891,7 +5008,7 @@ Committee on Governmental Affairs of Senate changed to Committee on Homeland Sec
 Section applicable to any individual who, on or after Jan. 8, 1988, is married to a participant or former participant, see section 261(b)(1) of Pub. L. 100–238, set out as an Effective Date of 1988 Amendment note under [section 4054 of this title](./chapter-052-foreign-service.md#section-4054).
 
 #### Abolition of House Committee on Post Office and Civil Service
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight of House of Representatives, see section 1(b) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-4071"></a>
@@ -5015,7 +5132,7 @@ Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Central Intelligence Agency Retirement Act, referred to in subsec. (c), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§ 2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2001&num=0&edition=prelim) and Tables.
 
@@ -5507,6 +5624,36 @@ Pub. L. 107–228, div. A, title III, § 315(b), Sept. 30, 2002, 116 Stat. 1379,
 [For definitions of “Secretary” and “Department” as used in section 315(b) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).]
 
 
+<a id="section-4081a"></a>
+## § 4081a. Exception for Government-financed air transportation; reducing hardship for transportation of domestic animals
+(1) **In general** — Notwithstanding subsections (a) and (c) of [section 40118 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40118&num=0&edition=prelim), the Department is authorized to pay for the transportation by a foreign air carrier of Department personnel and any in-cabin or accompanying checked baggage or cargo if—
+
+  (A) no air carrier holding a certificate under section 41102 of such title is willing and able to transport up to 3 domestic animals accompanying such Federal personnel; and
+
+  (B) the transportation is from a place—
+
+    (i) outside the United States to a place in the United States;
+
+    (ii) in the United States to a place outside the United States; or
+
+    (iii) outside the United States to another place outside the United States.
+
+(2) **Limitation** — An amount paid pursuant to paragraph (1) for transportation by a foreign carrier may not be greater than the amount that would otherwise have been paid had the transportation been on an air carrier holding a certificate under section 41102 had that carrier been willing and able to provide such transportation. If the amount that would otherwise have been paid to such an air carrier is less than the cost of transportation on the applicable foreign carrier, the Department personnel may pay the difference of such amount.
+
+(3) **Domestic animal defined** — In this subsection, the term “domestic animal” means a dog or a cat.
+
+### Statutory Notes
+
+#### References in Text
+This subsection, referred to in par. (3), means subsec. (a) of section 6224 of Pub. L. 118–31, which is classified to this section.
+
+#### Codification
+Section was enacted as part of the Department of State Authorization Act of 2023, and also as part of the National Defense Authorization Act for Fiscal Year 2024, and not as part of the Foreign Service Act of 1980 which comprises this chapter.
+
+#### Definition
+For definition of “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-4082"></a>
 ## § 4082. Loan of household effects
 
@@ -5567,6 +5714,9 @@ Subsec. (d). Pub. L. 99–93, § 122(3), amended subsec. (d) generally. Prior to
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–238 effective 90 days after Jan. 8, 1988, see section 261(a) of Pub. L. 100–238, set out as a note under [section 4054 of this title](./chapter-052-foreign-service.md#section-4054).
 
+#### Improving Mental Health Services for Foreign and Civil Servants
+Pub. L. 118–31, div. F, title LXII, § 6222(a), Dec. 22, 2023, 137 Stat. 978, provided that: “(a) Additional Personnel to Address Mental Health.—“(1) In general.—The Secretary [of State] shall seek to increase the number of personnel within the Bureau of Medical Services to address mental health needs for both foreign and civil servants. “(2) Employment targets.—Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary shall seek to employ not fewer than 10 additional personnel in the Bureau of Medical Services, compared to the number of personnel employed as of the date of the enactment of this division.”
+
 #### Coronavirus Pandemic Response
 Pub. L. 116–136, div. B, title XI, § 21010, Mar. 27, 2020, 134 Stat. 592, provided that: “The Department of State and the United States Agency for International Development are authorized to enter into contracts with individuals for the provision of personal services (as described in section 104 of part 37 of title 48, Code of Federal Regulations and including pursuant to section 904 of the Foreign Service Act of 1980 ([22 U.S.C. 4084](./chapter-052-foreign-service.md#section-4084))) to prevent, prepare for, and respond to coronavirus, within the United States and abroad, subject to prior consultation with, and the notification procedures of, the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives: Provided, That such individuals may not be deemed employees of the United States for the purpose of any law administered by the Office of Personnel Management: Provided further, That not later than 15 days after utilizing this authority, the Secretary of State shall provide a report to the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives on the overall staffing needs for the Office of Medical Services: Provided further, That the authority made available pursuant to this section shall expire on September 30, 2022.”
 
@@ -5608,6 +5758,12 @@ The terms governing the termination of residential or motor vehicle leases and t
 The Servicemembers Civil Relief Act, referred to in text, is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, which is classified generally to chapter 50 (§ 3901 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see [section 3901 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3901&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, known as the Foreign Service Act of 1980, which is classified principally to this chapter (§ 3901 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
+
+
+<a id="section-4088"></a>
+## § 4088. Education allowance
+
+A Department employee who is on leave to perform service in the uniformed services (as defined in [section 4303(13) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4303/13&num=0&edition=prelim)) may receive an education allowance if the employee would, if not for such service, be eligible to receive the education allowance.
 
 
 <a id="section-4101"></a>
@@ -5668,7 +5824,7 @@ As used in this subchapter, the term—
 
 (11) “labor organization” means an organization composed in whole or in part of employees, in which employees participate and pay dues, and which has as a purpose dealing with the Department concerning grievances (as defined in [section 4131 of this title](./chapter-052-foreign-service.md#section-4131)) and conditions of employment, but does not include—
 
-  (A) an organization which, by its constitution, bylaws, tacit agreement among its members, or otherwise, denies membership because of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
+  (A) an organization which, by its constitution, bylaws, tacit agreement among its members, or otherwise, denies membership because of race, color, creed, national origin, sex, age, preferential or nonpreferential civil service status, political affiliation, marital status, or disability;
 
   (B) an organization which advocates the overthrow of the constitutional form of government of the United States;
 
@@ -5697,6 +5853,8 @@ As used in this subchapter, the term—
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (11)(A). Pub. L. 117–263 substituted “disability” for “handicapping condition”.
+
 1994—Par. (8)(A). Pub. L. 103–236 inserted “a member of the Service who is a United States citizen (other than a family member) employed under [section 3951 of this title](./chapter-052-foreign-service.md#section-3951),”.
 
 
@@ -5720,7 +5878,7 @@ As used in this subchapter, the term—
 Pub. L. 105–277, § 1335(k)(3), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (a), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
@@ -5770,7 +5928,7 @@ Amendment by section 1422(b)(4)(C) of Pub. L. 105–277 effective Apr. 1, 1999, 
 ### Statutory Notes
 
 #### Amendments
-1994—Subsec. (a)(3) to (7). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respec­tively.
+1994—Subsec. (a)(3) to (7). Pub. L. 103–236, as amended by Pub. L. 103–415, added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
 
 
 <a id="section-4106"></a>
@@ -6046,7 +6204,7 @@ the Board may take such action and make such recommendations concerning the Fore
 
 (3) to coerce, discipline, fine, or attempt to coerce a member of the labor organization as punishment or reprisal, or for the purpose of hindering or impeding the member’s work performance or productivity as an employee or the discharge of the member’s functions as an employee;
 
-(4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis of race, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or handicapping condition;
+(4) to discriminate against an employee with regard to the terms and conditions of membership in the labor organization on the basis of race, color, creed, national origin, sex, age preferential or nonpreferential civil service status, political affiliation, marital status, or disability;
 
 (5) to refuse to consult or negotiate in good faith with the Department, as required under this subchapter;
 
@@ -6084,6 +6242,8 @@ if the expression contains no threat of reprisal or force or promise of benefit 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–263 substituted “disability” for “handicapping condition”.
+
 1991—Subsec. (d). Pub. L. 102–138 substituted “section 4139(a)(2)” for “section 4139(b)”.
 
 #### Effective Date of 1991 Amendment
@@ -6285,7 +6445,7 @@ Subsec. (b)(3). Pub. L. 103–236, § 181(a)(4), made technical amendment to ref
 Subsec. (b). Pub. L. 102–138, § 153(a)(2), in par. (4), substituted “section 4139(a)(2)” for “section 4139(b)” and inserted at end “Nothing in this subsection shall exclude any act, omission, or condition alleged to violate any law, rule, regulation, or policy directive referred to in subsection (a)(1)(H) from such term.”
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 “United States Information Agency” substituted for “International Communication Agency” in subsec. (c), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 

@@ -410,7 +410,7 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 
 **(f) Travel expenses of non-Federal members** Non-Federal members of the Advisory Committee, while attending meetings of the Advisory Committee or while otherwise serving at the request of the head of the Advisory Committee away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), for individuals in the Government serving without pay. Nothing in this subsection shall be construed to prohibit members of the Advisory Committee who are officers or employees of the United States from being allowed travel expenses, including per diem in lieu of subsistence, in accordance with existing law.
 
-**(g) FACA exemption** The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).
+**(g) FACA exemption** The Advisory Committee shall be exempt from section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).11 See References in Text note below.
 
 ### Statutory Notes
 
@@ -418,7 +418,7 @@ For termination of section, see [section 8815 of this title](./chapter-114-natio
 For termination of section, see [section 8815 of this title](./chapter-114-national-quantum-initiative.md#section-8815).
 
 #### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (g), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### Amendments
 2021—Subsec. (d)(1). Pub. L. 117–81 substituted “, the Subcommittee on Quantum Information Science, and the Subcommittee on Economic and Security Implications” for “and the Subcommittee”.
@@ -463,7 +463,7 @@ Sec. 4. Administration. (a) The heads of agencies shall, to the extent permitted
 
 Sec. 5. Revocation. Executive Order 13885 of August 30, 2019 (Establishing the National Quantum Initiative Advisory Committee) [formerly set out above], is hereby revoked.
 
-Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended [Pub. L. 92–463] (5 U.S.C. App.) (FACA), may apply to the Committee, any functions of the President under the FACA, except for those in section 6 of the FACA, shall be performed by the Secretary of Energy, in consultation with the Director, in accordance with the guidelines and procedures established by the Administrator of General Services.
+Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended [Pub. L. 92–463] ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (FACA), may apply to the Committee, any functions of the President under the FACA, except for those in section 6 of the FACA [see [5 U.S.C. 1005](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1005&num=0&edition=prelim)], shall be performed by the Secretary of Energy, in consultation with the Director, in accordance with the guidelines and procedures established by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 

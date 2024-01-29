@@ -144,7 +144,7 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Social Security Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Social Security Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Part D of title IV of such Act is classified generally to part D (§ 651 et seq.) of subchapter IV of chapter 7 of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (b), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
@@ -306,7 +306,7 @@ such amounts as the Secretary determines to be necessary for allotment in accord
 ### Statutory Notes
 
 #### References in Text
-The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3311 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3311&num=0&edition=prelim) and Tables.
+The Federal Unemployment Tax Act, referred to in subsec. (b)(1), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3311 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3311&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (c)(3). Pub. L. 105–220 struck out par. (3) which read as follows:
@@ -579,7 +579,7 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 (1) The Comptroller General of the United States shall evaluate the expenditures by States of funds received under this chapter in order to assure that expenditures are consistent with the provisions of this chapter and to determine the effectiveness of the State in accomplishing the purposes of this chapter. The Comptroller General shall conduct evaluations whenever determined necessary and shall periodically report to the Congress on the findings of such evaluations.
 
-(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Department of Labor of his responsibilities under the Inspector General Act.
+(2) Nothing in this chapter shall be deemed to relieve the Inspector General of the Department of Labor of his responsibilities under chapter 4 of title 5.
 
 (3) For the purpose of evaluating and reviewing programs established or provided for by this chapter, the Comptroller General shall have access to and the right to copy any books, accounts, records, correspondence, or other documents pertinent to such programs that are in the possession, custody, or control of the State.
 
@@ -587,10 +587,9 @@ Except as otherwise provided, definitions in section 3 of Pub. L. 113–128, whi
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act, referred to in subsec. (b)(2), probably means the Inspector General Act of 1978, Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act.”
+
 1982—Pub. L. 97–300 amended section generally, substituting provisions requiring the States to prepare accounting procedures under Federal guidance, to submit to biennial audit with evaluation of expenditures by the Comptroller General and providing for repayment of improperly expended funds, for provisions requiring reports on expenditures to the Secretary under his regulations and giving him authority to revoke State certification.
 
 #### Effective Date of 1982 Amendment
@@ -850,7 +849,7 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 
   (E) *Travel expenses* — The members of the Council shall not receive compensation for the performance of services for the Council, but shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Council. Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Secretary may accept the voluntary and uncompensated services of members of the Council.
 
-  (F) *Permanent Council* — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+  (F) *Permanent Council* — [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Council.
 
 **(e) State responsibilities**
 
@@ -897,14 +896,14 @@ Section effective Oct. 1, 1983, but with Secretary authorized to use funds appro
 #### References in Text
 Section 134(d), referred to in subsec. (a)(1)(B)(iii), probably means section 134(d) of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to [section 2864(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2864/d&num=0&edition=prelim). The Wagner-Peyser Act, of which this section is a part, does not contain a section 134.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(2)(F), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsec. (f), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended generally by Pub. L. 109–270, § 1(b), Aug. 12, 2006, 120 Stat. 683, which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 15 of act of June 6, 1933, was renumbered section 16, and is set out as a Short Title note under [section 49 of this title](./chapter-4b-federal-employment-service.md#section-49).
 
 #### Amendments
+2022—Subsec. (d)(2)(F). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2018—Subsec. (e)(2)(B). Pub. L. 115–224, § 301(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “consult with State educational agencies and local educational agencies concerning the provision of workforce and labor market information in order to meet the needs of secondary school and postsecondary school students who seek such information;”.
 
 Subsec. (e)(2)(I). Pub. L. 115–224, § 301(2)–(4), added subpar. (I).
@@ -940,9 +939,6 @@ Subsec. (g). Pub. L. 113–128, § 308(g), substituted “$60,153,000 for fiscal
 Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(A)], struck out “of this section” after “statistical purposes”.
 
 Subsec. (e)(2)(G). Pub. L. 105–277, § 101(f) [title VIII, § 403(a)(1)(B)], and Pub. L. 105–332, § 5(b)(1)(B), amended subpar. (G) identically, substituting “comple­mentarity” for “complementary”.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2301&num=0&edition=prelim), Education.

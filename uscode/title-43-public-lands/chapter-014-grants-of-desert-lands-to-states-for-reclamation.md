@@ -14,7 +14,7 @@ To aid the public-land States in the reclamation of the desert lands therein, an
 ### Statutory Notes
 
 #### References in Text
-Act approved March 3, 1877, referred to in text, is act Mar. 3, 1877, ch. 107, 19 Stat. 377, as amended, popularly known as the Desert Lands Act, which is classified generally to sections 321 to 323, 325, 327 to 329 of this title. For complete classification of this Act to the Code, see Tables.
+Act approved March 3, 1877, referred to in text, is act Mar. 3, 1877, ch. 107, 19 Stat. 377, popularly known as the Desert Lands Act, which is classified generally to sections 321 to 323, 325, 327 to 329 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Act amendatory thereof, approved March 3, 1891, referred to in text, is act Mar. 3, 1891, ch. 561, 26 Stat. 1095, which enacted sections 161, 162, 165, 173, 174, 185, 202, 212, 321, 323, 325, 327 to 329, 663, 671, 687a–6, 718, 728, 732, 893, 946 to 949, 989, 2505, and 2506 of this title, former [section 1181 of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181), sections 471, 607, 611, 611a, and 613 of Title 16, Conservation, [section 426 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section426&num=0&edition=prelim), Indians, former [section 495 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section495&num=0&edition=prelim), and sections 30, 36, 44, 45, 48, and 52 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Tables.
 

@@ -873,7 +873,7 @@ The provisions of this subchapter shall in no way expand or restrict the authori
 
 (4) any establishment (A)(i) which is physically located within the premises of any establishment otherwise covered by this subsection, or (ii) within the premises of which is physically located any such covered establishment, and (B) which holds itself out as serving patrons of such covered establishment.
 
-**(c) Operations affecting commerce; criteria; “commerce” defined** The operations of an establishment affect commerce within the meaning of this subchapter if (1) it is one of the establishments described in paragraph (1) of subsection (b); (2) in the case of an establishment described in paragraph (2) of subsection (b), it serves or offers to serve interstate travelers of a substantial portion of the food which it serves, or gasoline or other products which it sells, has moved in commerce; (3) in the case of an establishment described in paragraph (3) of subsection (b), it customarily presents films, performances, athletic teams, exhibitions, or other sources of entertainment which move in commerce; and (4) in the case of an establishment described in paragraph (4) of subsection (b), it is physically located within the premises of, or there is physically located within its premises, an establishment the operations of which affect commerce within the meaning of this subsection. For purposes of this section, “commerce” means travel, trade, traffic, commerce, transportation, or communication among the several States, or between the District of Columbia and any State, or between any foreign country or any territory or possession and any State or the District of Columbia, or between points in the same State but through any other State or the District of Columbia or a foreign country.
+**(c) Operations affecting commerce; criteria; “commerce” defined** The operations of an establishment affect commerce within the meaning of this subchapter if (1) it is one of the establishments described in paragraph (1) of subsection (b); (2) in the case of an establishment described in paragraph (2) of subsection (b), it serves or offers to serve interstate travelers or a substantial portion of the food which it serves, or gasoline or other products which it sells, has moved in commerce; (3) in the case of an establishment described in paragraph (3) of subsection (b), it customarily presents films, performances, athletic teams, exhibitions, or other sources of entertainment which move in commerce; and (4) in the case of an establishment described in paragraph (4) of subsection (b), it is physically located within the premises of, or there is physically located within its premises, an establishment the operations of which affect commerce within the meaning of this subsection. For purposes of this section, “commerce” means travel, trade, traffic, commerce, transportation, or communication among the several States, or between the District of Columbia and any State, or between any foreign country or any territory or possession and any State or the District of Columbia, or between points in the same State but through any other State or the District of Columbia or a foreign country.
 
 **(d) Support by State action** Discrimination or segregation by an establishment is supported by State action within the meaning of this subchapter if such discrimination or segregation (1) is carried on under color of any law, statute, ordinance, or regulation; or (2) is carried on under color of any custom or usage required or enforced by officials of the State or political subdivision thereof; or (3) is required by action of the State or political subdivision thereof.
 
@@ -3154,6 +3154,8 @@ William J. Clinton.
 Sections 2000e–16a to 2000e–16c of this title, referred to in text, was in the original “this title”, meaning title III of Pub. L. 102–166, which is classified generally to sections 2000e–16a to 2000e–16c of this title. For complete classification of title III to the Code, see Tables.
 
 #### Codification
+Section was enacted as part of the Government Employee Rights Act of 1991, and not as part of the Civil Rights Act of 1964, title VII of which comprises this subchapter.
+
 Section was formerly classified to [section 1201 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1201&num=0&edition=prelim), The Congress.
 
 #### Amendments
@@ -3189,6 +3191,8 @@ Section effective Nov. 21, 1991, except as otherwise provided, see section 402 o
 [Section 1219 of title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1219&num=0&edition=prelim), referred to in text, was repealed by Pub. L. 104–331, § 5(a), Oct. 26, 1996, 110 Stat. 4072.
 
 #### Codification
+Section was enacted as part of the Government Employee Rights Act of 1991, and not as part of the Civil Rights Act of 1964, title VII of which comprises this subchapter.
+
 Section was formerly classified to [section 1202 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1202&num=0&edition=prelim), The Congress.
 
 #### Amendments
@@ -3240,6 +3244,8 @@ In making the foregoing determinations, the court shall review the whole record 
 ### Statutory Notes
 
 #### Codification
+Section was enacted as part of the Government Employee Rights Act of 1991, and not as part of the Civil Rights Act of 1964, title VII of which comprises this subchapter.
+
 Section was formerly classified to [section 1220 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1220&num=0&edition=prelim), The Congress.
 
 #### Prior Provisions

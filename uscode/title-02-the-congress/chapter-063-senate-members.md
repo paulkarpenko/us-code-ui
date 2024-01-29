@@ -444,35 +444,55 @@ Section was formerly classified to [section 55 of this title](./chapter-003-comp
 
 (2) The Senator may lease, on behalf of the United States Senate, the office space so secured for a term not extending beyond the term of office which he is serving on the first day of such lease, except that, in the case of a Senator whose term of office is expiring and who has been elected for another term, such lease may extend until the end of the term for which he has been so elected. Each such lease shall contain a provision permitting its cancellation upon sixty days written notice by the Sergeant at Arms and Doorkeeper of the Senate, in the event of the death or resignation of the Senator. A copy of each such lease shall be furnished to the Sergeant at Arms. Nothing in this paragraph shall be construed to require the Sergeant at Arms to enter into or execute any lease for or on behalf of a Senator.
 
-**(b) Maximum amount of aggregate square feet for each Senator** The aggregate square feet of office space secured for Senator shall not at any time exceed—
+**(b) Maximum amount of aggregate square feet for each Senator**
 
-(1) 5,000 square feet if the population of the State of the Senator is less than 3,000,000;
+(1) Subject to paragraph (2), the aggregate square feet of office space secured for Senator shall not at any time exceed—
 
-(2) 5,200 square feet if such population is 3,000,000 but less than 4,000,000;
+  (A) 5,000 square feet if the population of the State of the Senator is less than 3,000,000;
 
-(3) 5,400 square feet if such population is 4,000,000 but less than 5,000,000;
+  (B) 5,200 square feet if such population is 3,000,000 but less than 4,000,000;
 
-(4) 5,800 square feet if such population is 5,000,000 but less than 7,000,000;
+  (C) 5,400 square feet if such population is 4,000,000 but less than 5,000,000;
 
-(5) 6,200 square feet if such population is 7,000,000 but less than 9,000,000;
+  (D) 5,800 square feet if such population is 5,000,000 but less than 7,000,000;
 
-(6) 6,400 square feet if such population is 9,000,000 but less than 10,000,000;
+  (E) 6,200 square feet if such population is 7,000,000 but less than 9,000,000;
 
-(7) 6,600 square feet if such population is 10,000,000 but less than 11,000,000;
+  (F) 6,400 square feet if such population is 9,000,000 but less than 10,000,000;
 
-(8) 6,800 square feet if such population is 11,000,000 but less than 12,000,000;
+  (G) 6,600 square feet if such population is 10,000,000 but less than 11,000,000;
 
-(9) 7,000 square feet if such population is 12,000,000 but less than 13,000,000;
+  (H) 6,800 square feet if such population is 11,000,000 but less than 12,000,000;
 
-(10) 7,400 square feet if such population is 13,000,000 but less than 15,000,000;
+  (I) 7,000 square feet if such population is 12,000,000 but less than 13,000,000;
 
-(11) 7,800 square feet if such population is 15,000,000 but less than 17,000,000; or
+  (J) 7,400 square feet if such population is 13,000,000 but less than 15,000,000;
 
-(12) 8,200 square feet if such population is 17,000,000 or more.
+  (K) 7,800 square feet if such population is 15,000,000 but less than 17,000,000; or
+
+  (L) 8,200 square feet if such population is 17,000,000 or more.
+
+(2) The aggregate square feet of office space for purposes of paragraph (1) shall not include any portion of the office space used for security or safety enhancements that are—
+
+  (A) of a kind authorized by the Committee on Rules and Administration of the Senate, which shall include an information technology security closet and a secure lobby or reception area; and
+
+  (B) approved by the Sergeant at Arms and Doorkeeper of the Senate.
 
 **(c) Maximum annual rental rate; maximum aggregate amount for acquisition of furniture, equipment, and other office furnishings**
 
-(1) The maximum annual rate that may be paid for the rental of an office secured for a Senator not in a post office or other Federal building shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office by the Administrator of General Services, based upon a 100 percent building quality rating, for office space located in the place in which the Senator’s office is located, multiplied by the number of square feet contained in that office used by the Senator and his employees to perform their duties.
+(1)
+
+  (A) Subject to subparagraph (B), the maximum annual rate that may be paid for the rental of an office secured for a Senator not in a post office or other Federal building shall not exceed the highest rate per square foot charged Federal agencies on the first day of the lease of such office by the Administrator of General Services, based upon a 100 percent building quality rating, for office space located in the place in which the Senator’s office is located, multiplied by the number of square feet contained in that office used by the Senator and his employees to perform their duties.
+
+  (B) The portion of the cost of a rental described in subparagraph (A) that is attributable to building security and safety measures shall not be included in determining the annual rate paid for the rental for purposes of subparagraph (A) if—
+
+    (i) the costs are for building security and safety measures—
+
+      (I) of a kind authorized by the Committee on Rules and Administration of the Senate, which shall include guard services, access control, and facility monitoring; and
+
+      (II) approved by the Sergeant at Arms and Doorkeeper of the Senate; and
+
+    (ii) such costs are itemized separately in a manner approved by the Sergeant at Arms and Doorkeeper of the Senate.
 
 (2) The aggregate amount that may be paid for the acquisition of furniture, equipment, and other office furnishings heretofore provided by the Administrator of General Services for one or more offices secured for the Senator is $40,000 if the aggregate square feet of office space is not in excess of 5,000 square feet. Such amount is increased by $1,000 for each authorized additional incremental increase in office space of 200 square feet. Effective beginning with the 106th Congress, the aggregate amount in effect under this paragraph for any Congress shall be increased by the inflation adjustment factor for the calendar year in which the Congress begins. For purposes of the preceding sentence, the inflation adjustment factor for any calendar year is a fraction the numerator of which is the implicit price deflator for the gross domestic product as computed and published by the Department of Commerce for the preceding calendar year and the denominator of which is such deflator for the calendar year 1998.
 
@@ -519,6 +539,10 @@ Section was formerly classified to [section 59 of this title](./chapter-003-comp
 Section is comprised of section 3 of Pub. L. 93–371. Subsec. (e) of section 3 of Pub. L. 93–371 amended [section 6314 of this title](./chapter-063-senate-members.md#section-6314).
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–36, § 1(1), and Pub. L. 118–47, § 104(1), amended subsec. (b) identically, designating existing provisions as par. (1), substituting “Subject to paragraph (2), the aggregate” for “The aggregate” in introductory provisions, redesignating former pars. (1) to (12) as subpars. (A) to (L), respectively, of par. (1), and adding par. (2).
+
+Subsec. (c)(1). Pub. L. 118–36, § 1(2), and Pub. L. 118–47, § 104(2), amended par. (1) identically, designating existing provisions as subpar. (A), substituting “Subject to subparagraph (B), the maximum” for “The maximum”, and adding subpar. (B).
+
 2003—Subsec. (f)(3). Pub. L. 108–7 inserted concluding provisions.
 
 1999—Subsec. (b)(1). Pub. L. 106–57, § 3(1)(A), added par. (1) and struck out former par. (1) which read as follows: “4,800 square feet if the population of his State is less than 2,000,000;”.

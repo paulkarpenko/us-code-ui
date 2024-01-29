@@ -16,6 +16,8 @@ source: >-
 
 (3) The Northern Border Regional Commission.
 
+(4) The Great Lakes Authority.
+
 **(b) Membership.—**
 
 (1) **Federal and state members.—** — Each Commission shall be composed of the following members:
@@ -64,6 +66,8 @@ source: >-
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–328 added par. (4).
+
 2018—Subsec. (f). Pub. L. 115–334 added subsec. (f).
 
 #### Effective Date

@@ -983,7 +983,7 @@ Pub. L. 101–73, § 701(b)(1), (3)(A), substituted “Board” for “board” 
 ### Statutory Notes
 
 #### References in Text
-The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (g)(2), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
 
 The Home Mortgage Disclosure Act of 1975, referred to in subsec. (k)(1)(B), is title III of Pub. L. 94–200, Dec. 31, 1975, 89 Stat. 1125, which is classified generally to chapter 29 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2801 of this title](./chapter-029-home-mortgage-disclosure.md#section-2801) and Tables.
 
@@ -1137,7 +1137,7 @@ Section, act July 22, 1932, ch. 522, § 10a, as added June 27, 1934, ch. 847, §
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified generally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Amendments
 2008—Subsec. (a). Pub. L. 110–289 substituted “the Director” for “the Board”.
@@ -1569,9 +1569,9 @@ The Director shall from time to time, at least annually, require examinations an
 ### Statutory Notes
 
 #### References in Text
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
-The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 #### Amendments
 2008—Pub. L. 110–289 substituted “The Director” for “The Board” and “the Director” for “the Board” wherever appearing.
@@ -2087,7 +2087,7 @@ For purposes of [section 1441a–2 of this title](./chapter-011-federal-home-loa
 ### Statutory Notes
 
 #### References in Text
-The Housing and Urban Development Act of 1968, referred to in par. (2), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476, as amended. Title IX of the Housing and Urban Development Act of 1968 is classified principally to chapter 49 (§ 3931 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing and Urban Development Act of 1968, referred to in par. (2), is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Housing and Urban Development Act of 1968 is classified principally to chapter 49 (§ 3931 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section was enacted as part of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989, and not as part of the Federal Home Loan Bank Act which comprises this chapter.
@@ -2475,7 +2475,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (a)(1) of this
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+The Securities Act of 1933, referred to in subsec. (f)(8)(B), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
 [Section 9105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9105&num=0&edition=prelim), referred to in subsec. (h)(3), was amended generally by Pub. L. 101–576, title III, § 305, Nov. 15, 1990, 104 Stat. 2853, and, as so amended, no longer contains provisions relating to mixed-ownership Government corporations having capital of the Government.
 

@@ -62,11 +62,11 @@ Pub. L. 102–484, div. D, title XLIV, § 4403, Oct. 23, 1992, 106 Stat. 2702, a
 
 (2) In the case of a regular Army warrant officer, the calculation of years of active service under paragraph (1) shall include only years of active service as a warrant officer.
 
-(3) In the case of a regular Navy warrant officer in the grade of chief warrant officer, W–5, the officer shall be retired 60 days after the date on which the officer completes 33 years of total active service.
+(3) In the case of a regular Navy warrant officer in the grade of chief warrant officer, W–5, or a Marine Corps Marine Gunner warrant officer in such grade, the officer shall be retired 60 days after the date on which the officer completes 33 years of total active service.
 
-**(b)** The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when he would otherwise be required to retire under this section.
+**(b)** The Secretary concerned may defer, for not more than four months, the retirement under subsection (a) of any warrant officer if, because of unavoidable circumstances, evaluation of his physical condition and determination of his entitlement to retirement or separation for physical disability require hospitalization or medical observation that cannot be completed before the date when the warrant officer would otherwise be required to retire under this section.
 
-**(c)** Under such regulations as he may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after he becomes 62 years of age.
+**(c)** Under such regulations as the Secretary concerned may prescribe, the Secretary concerned may defer the retirement under subsection (a) of any warrant officer upon the recommendation of a board of officers and with the consent of the warrant officer, but not later than 60 days after the warrant officer becomes 62 years of age.
 
 ### Statutory Notes
 
@@ -91,6 +91,12 @@ In subsection (c), the words “the Secretary concerned may defer the retirement
 Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a)(1), is section 511 of act Oct. 12, 1949, ch. 681, which was formerly set out as a note under [section 580 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-580).
 
 #### Amendments
+2023—Subsec. (a)(3). Pub. L. 118–31, § 509A(1), inserted “or a Marine Corps Marine Gunner warrant officer in such grade,” after “chief warrant officer, W–5,”.
+
+Subsec. (b). Pub. L. 118–31, § 509A(2), substituted “when the warrant officer” for “when he”.
+
+Subsec. (c). Pub. L. 118–31, § 509A(3), substituted “as the Secretary concerned” for “as he” and “after the warrant officer” for “after he”.
+
 2013—Subsec. (a)(1). Pub. L. 112–239, § 504(1), substituted “Subject to paragraphs (2) and (3), a regular warrant officer” for “A regular warrant officer (other than a regular Army warrant officer)” and “date on which the officer” for “date on which he”.
 
 Subsec. (a)(3). Pub. L. 112–239, § 504(2), added par. (3).

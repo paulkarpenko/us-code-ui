@@ -23,7 +23,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, known as the Real Estate Settlement Procedures Act of 1974, which is classified principally to this chapter (§ 2601 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, known as the Real Estate Settlement Procedures Act of 1974, which is classified principally to this chapter (§ 2601 et seq.). For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 #### Change of Name
 Reference to Administrator of Veterans’ Affairs deemed to refer to Secretary of Veterans Affairs pursuant to section 10 of Pub. L. 100–527, set out as a Department of Veterans Affairs Act note under [section 301 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section301&num=0&edition=prelim), Veterans’ Benefits.
@@ -664,7 +664,7 @@ No fee shall be imposed or charge made upon any other person (as a part of settl
 ### Statutory Notes
 
 #### References in Text
-Truth in Lending Act, referred to in text, is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in text, is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1990—Pub. L. 101–625 substituted present section catchline for “Fee for preparation of truth-in-lending and uniform settlement statements”, inserted after first comma “or by a servicer (as the term is defined under [section 2605(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2605/i&num=0&edition=prelim)),”, and substituted “lender or servicer” for second reference to “lender” and “2609(c)” for “2605”.

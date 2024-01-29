@@ -518,6 +518,9 @@ A prior section 15 of Pub. L. 102–477 was classified to [section 3414 of this 
 
 1994—Subsec. (b). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-3417"></a>
 ## § 3417. Assignment of Federal personnel to State Indian economic development programs

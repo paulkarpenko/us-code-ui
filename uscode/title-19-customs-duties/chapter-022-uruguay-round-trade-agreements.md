@@ -330,7 +330,7 @@ William J. Clinton.
     (ii) the States will be provided an opportunity to submit, on a continuing basis, to the Trade Representative information and advice with respect to matters referred to in clause (i); and
 
     (iii) the Trade Representative will take into account the information and advice received from the States under clause (ii) when formulating United States positions regarding matters referred to in clause (i).
-    The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Federal-State consultation process established by this paragraph.
+    Chapter 10 of title 5 shall not apply to the Federal-State consultation process established by this paragraph.
 
   (C) *Federal-State cooperation in WTO dispute settlement*
 
@@ -406,7 +406,8 @@ William J. Clinton.
 #### References in Text
 This Act, referred to in subsecs. (a)(2) and (d), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (b)(1)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (b)(1)(B). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in concluding provisions.
 
 
 <a id="section-3521"></a>
@@ -920,9 +921,9 @@ Section effective on the date on which the WTO Agreement enters into force with 
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsecs. (a)(1), (4), (6), (b)(1), (2), and (c)(1), (2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§ 1202 et seq.) of this title. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsecs. (a)(1), (4), (6), (b)(1), (2), and (c)(1), (2)(A), is act June 17, 1930, ch. 497, 46 Stat. 590, which is classified generally to chapter 4 (§ 1202 et seq.) of this title. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
-The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsecs. (a)(1), (4) and (c)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Codification
 Section is comprised of section 129 of Pub. L. 103–465. Subsecs. (a)(7) and (e) of section 129 of Pub. L. 103–465 amended sections 2254 and 1516a, respectively, of this title.
@@ -1188,9 +1189,9 @@ countervailing duties shall be assessed at rates equal to the amount of the cash
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsecs. (b)(1), (c)(1), and (e)(2)(B), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitles A and C of title VII of the Act are classified generally to parts I (§ 1671 et seq.) and III (§ 1675 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsecs. (b)(1), (c)(1), and (e)(2)(B), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitles A and C of title VII of the Act are classified generally to parts I (§ 1671 et seq.) and III (§ 1675 et seq.), respectively, of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
-The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title III of the Act is classified principally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title III of the Act is classified principally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 This Act, referred to in subsec. (e)(1)(C)(ii), is Pub. L. 103–465, Dec. 8, 1994, 108 Stat. 4809, known as the Uruguay Round Agreements Act. For complete classification of this Act to the Code, see Short Title note set out under [section 3501 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3501) and Tables.
 

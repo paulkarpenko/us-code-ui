@@ -137,7 +137,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
+The Federal Power Act, referred to in subsec. (a), was in the original the “Federal Water Power Act”, and was redesignated the Federal Power Act by [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a). The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, and is classified generally to chapter 12 (§ 791a et seq.) of this title. For complete classification of this Act to the Code, see [section 791a of this title](./chapter-012-federal-regulation-and-development-of-power.md#section-791a) and Tables.
 
 #### Amendments
 1954—Subsec. (c). Act Aug. 30, 1954, repealed subsec. (c) which required the Secretary of the Interior to submit an annual financial statement and report to Congress concerning the transmission and sale of electric energy generated at the Fort Peck project.

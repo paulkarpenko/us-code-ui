@@ -428,7 +428,7 @@ The coal, oil, or gas deposits reserved to the United States in accordance with 
 ### Statutory Notes
 
 #### References in Text
-Act of March 8, 1922 and this Act, referred to in text, is act Mar. 8, 1922, ch. 96, 42 Stat. 415, as amended, which is classified to sections 270–11 to 270–13 of this title. The provisions added by the act of Aug. 17, 1961, and amended by the act of Oct. 3, 1962 were classified to [section 270–13 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–13&num=0&edition=prelim). Sections 270–11 and 270–13 of this title were repealed by section 703(a) of Pub. L. 94–579. For complete classification of this Act to the Code, see Tables.
+Act of March 8, 1922 and this Act, referred to in text, is act Mar. 8, 1922, ch. 96, 42 Stat. 415, which is classified to sections 270–11 to 270–13 of this title. The provisions added by the act of Aug. 17, 1961, and amended by the act of Oct. 3, 1962 were classified to [section 270–13 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section270–13&num=0&edition=prelim). Sections 270–11 and 270–13 of this title were repealed by section 703(a) of Pub. L. 94–579. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 377 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section377&num=0&edition=prelim), Territories and Insular Possessions.
@@ -722,11 +722,11 @@ The effective date of this subsection, referred to in subsecs. (b)(1)(A) and (c)
 
 This title, referred to in subsec. (i)(1), is unidentifiable because act Dec. 29, 1916, does not contain titles.
 
-The Mineral Leasing Act, referred to in subsec. (p)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act, referred to in subsec. (p)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
-The Geothermal Steam Act of 1970, referred to in subsec. (p)(2), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (p)(2), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, which is classified principally to chapter 23 (§ 1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1001&num=0&edition=prelim) and Tables.
 
-The Materials Act of 1947, referred to in subsec. (p)(3), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
+The Materials Act of 1947, referred to in subsec. (p)(3), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1993—Pub. L. 103–23 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (p).

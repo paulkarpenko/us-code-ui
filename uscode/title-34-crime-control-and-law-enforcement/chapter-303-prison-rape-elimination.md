@@ -522,17 +522,16 @@ Section was formerly classified to [section 15605 of Title 42](https://uscode.ho
 
 **(m) Termination** The Commission shall terminate on the date that is 60 days after the date on which the Commission submits the reports required by this section.
 
-**(n) Exemption** The Commission shall be exempt from the Federal Advisory Committee Act.
+**(n) Exemption** The Commission shall be exempt from chapter 10 of title 5.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (n), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was formerly classified to [section 15606 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section15606&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (n). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2008—Subsec. (d)(3)(A). Pub. L. 110–199 substituted “5 years” for “3 years” in introductory provisions.
 
 2006—Subsec. (d)(3)(A). Pub. L. 109–162 made amendment identical to that made by Pub. L. 109–108. See 2005 Amendment note below.

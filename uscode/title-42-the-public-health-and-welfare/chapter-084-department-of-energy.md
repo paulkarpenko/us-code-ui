@@ -2,7 +2,7 @@
 title: 42
 chapter: '84'
 heading: DEPARTMENT OF ENERGY
-section_count: 235
+section_count: 236
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -70,7 +70,7 @@ For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which
 For short title of section 1 [div. C, title XXXVI] of Pub. L. 106–398, which enacted subchapter XVI of this chapter, as the “Energy Employees Occupational Illness Compensation Program Act of 2000”, see section 1 [div. C, title XXXVI, § 3601] of Pub. L. 106–398, set out as a note under [section 7384 of this title](./chapter-084-department-of-energy.md#section-7384).
 
 #### Executive Order No. 12083
-Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 20, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 20, Aug. 17, 1982, 47 F.R. 36100, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-7112"></a>
@@ -553,10 +553,10 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 ### Statutory Notes
 
-Section, Pub. L. 95–91, title II, § 208, Aug. 4, 1977, 91 Stat. 575; Pub. L. 96–226, title II, § 202, Apr. 3, 1980, 94 Stat. 315; Pub. L. 97–375, title II, § 205, Dec. 21, 1982, 96 Stat. 1823, related to the Office of Inspector General in the Department of Energy, providing for (a) appointment and confirmation of Inspector General and Deputy Inspector General, removal, assistants, and compensation; (b) duties and responsibilities of Inspector General; (c) semiannual reports to Secretary and Congress; (d) report on problems, abuses, or deficiencies relating to administration of Department programs and operations; (e) additional investigations and reports; (f) transmittal of reports, information, or documents without clearance or approval; (g) additional authority of Inspector General; (h) auditing requirements; (i) avoidance of duplication and coordination and cooperation with activities of Comptroller General; and (j) report of violations of Federal criminal law to Attorney General. See section 9 of Pub. L. 95–452, Inspector General Act of 1978, as amended, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, Pub. L. 95–91, title II, § 208, Aug. 4, 1977, 91 Stat. 575; Pub. L. 96–226, title II, § 202, Apr. 3, 1980, 94 Stat. 315; Pub. L. 97–375, title II, § 205, Dec. 21, 1982, 96 Stat. 1823, related to the Office of Inspector General in the Department of Energy, providing for (a) appointment and confirmation of Inspector General and Deputy Inspector General, removal, assistants, and compensation; (b) duties and responsibilities of Inspector General; (c) semiannual reports to Secretary and Congress; (d) report on problems, abuses, or deficiencies relating to administration of Department programs and operations; (e) additional investigations and reports; (f) transmittal of reports, information, or documents without clearance or approval; (g) additional authority of Inspector General; (h) auditing requirements; (i) avoidance of duplication and coordination and cooperation with activities of Comptroller General; and (j) report of violations of Federal criminal law to Attorney General. See section 9 of Pub. L. 95–452, Inspector General Act of 1978, as amended, formerly set out in the Appendix to Title 5, Government Organization and Employees, as restated in [5 U.S.C. 422](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section422&num=0&edition=prelim).
 
 #### Effective Date of Repeal
-Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective Date of 1988 Amendment note under section 5 of Pub. L. 95–452 [Inspector General Act of 1978] in the Appendix to Title 5, Government Organization and Employees.
+Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–504, set out as an Effective and Termination Dates of 1988 Amendments note under [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-7140"></a>
@@ -602,7 +602,7 @@ Repeal effective 180 days after Oct. 18, 1988, see section 113 of Pub. L. 100–
 ### Statutory Notes
 
 #### References in Text
-The Research and Development, Competition, and Innovation Act, referred to in subsec. (e)(2)(B), is div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1399, which is enacted chapter 163 (§ 18901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 18901 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-18901) and Tables.
+The Research and Development, Competition, and Innovation Act, referred to in subsec. (e)(2)(B), is div. B of Pub. L. 117–167, Aug. 9, 2022, 136 Stat. 1399, which enacted chapter 163 (§ 18901 et seq.) of this title and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 18901 of this title](./chapter-163-research-and-development-competition-and-innovation.md#section-18901) and Tables.
 
 #### Amendments
 2022—Subsecs. (d), (e). Pub. L. 117–167 added subsecs. (d) and (e).
@@ -1325,6 +1325,10 @@ Pub. L. 99–500, § 101(e) [title III], Oct. 18, 1986, 100 Stat. 1783–194, 17
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–42, div. D, title III, Mar. 9, 2024, 138 Stat. 205.
+
+Pub. L. 117–328, div. D, title III, Dec. 29, 2022, 136 Stat. 4642.
+
 Pub. L. 117–103, div. D, title III, Mar. 15, 2022, 136 Stat. 231.
 
 Pub. L. 116–260, div. D, title III, Dec. 27, 2020, 134 Stat. 1372.
@@ -1807,21 +1811,20 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 <a id="section-7235"></a>
 ## § 7235. Advisory committees
 
-The Secretary is authorized to establish in accordance with the Federal Advisory Committee Act such advisory committees as he may deem appropriate to assist in the performance of his functions. Members of such advisory committees, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise serving at the request of the Secretary while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for individuals in the Government serving without pay.
+The Secretary is authorized to establish in accordance with chapter 10 of title 5 such advisory committees as he may deem appropriate to assist in the performance of his functions. Members of such advisory committees, other than full-time employees of the Federal Government, while attending meetings of such committees or while otherwise serving at the request of the Secretary while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim) for individuals in the Government serving without pay.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act”.
+
 1997—Pub. L. 105–28 struck out subsec. (a) designation and struck out subsec. (b) which read as follows: “[Section 776 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section776&num=0&edition=prelim) shall be applicable to advisory committees chartered by the Secretary, or transferred to the Secretary or the Department under this chapter, except that where an advisory committee advises the Secretary on matters pertaining to research and development, the Secretary may determine that such meeting shall be closed because it involves research and development matters and comes within the exemption of [section 552b(c)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b/c/4&num=0&edition=prelim).”
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
-#### Department of Energy Project Review Groups not Subject to Federal Advisory Committee Act by Reason of Inclusion of Employees of Department of Energy Management and Operating Contractors
-Pub. L. 108–136, div. C, title XXXI, § 3112, Nov. 24, 2003, 117 Stat. 1743, provided that: “An officer or employee of a management and operating contractor of the Department of Energy, when serving as a member of a group reviewing or advising on matters related to any one or more management and operating contracts of the Department, shall be treated as an officer or employee of the Department for purposes of determining whether the group is an advisory committee within the meaning of section 3 of the Federal Advisory Committee Act (5 U.S.C. App.).”
+#### Department of Energy Project Review Groups not Subject to Chapter 10 of Title 5, United States Code, by Reason of Inclusion of Employees of Department of Energy Management and Operating Contractors
+Pub. L. 108–136, div. C, title XXXI, § 3112, Nov. 24, 2003, 117 Stat. 1743, as amended by Pub. L. 117–286, § 4(a)(267), Dec. 27, 2022, 136 Stat. 4335, provided that: “An officer or employee of a management and operating contractor of the Department of Energy, when serving as a member of a group reviewing or advising on matters related to any one or more management and operating contracts of the Department, shall be treated as an officer or employee of the Department for purposes of determining whether the group is an advisory committee within the meaning of [section 1001 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-7236"></a>
@@ -2901,8 +2904,8 @@ Pub. L. 104–201, div. C, title XXXI, § 3153, Sept. 23, 1996, 110 Stat. 2839, 
 Pub. L. 104–106, div. C, title XXXI, § 3156, Feb. 10, 1996, 110 Stat. 625, which was formerly set out as a note under this section, was renumbered section 4405 of Pub. L. 107–314, the Bob Stump National Defense Authorization Act for Fiscal Year 2003 by Pub. L. 108–136, div. C, title XXXI, § 3141(g)(6)(A)–(C), Nov. 24, 2003, 117 Stat. 1765, and is classified to [section 2585 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2585&num=0&edition=prelim), War and National Defense.
 
 
-<a id="section-7274m-to-7274o"></a>
-## § 7274m to 7274o. Authority to transfer certain Department of Energy property
+<a id="section-7274l-1"></a>
+## § 7274l–1. Authority to transfer certain Department of Energy property
 **(a) Authority to transfer**
 
 (1) Notwithstanding any other provision of law, the Secretary of Energy may transfer, for consideration, all right, title, and interest of the United States in and to the property referred to in subsection (b) to any person if the Secretary determines that such transfer will mitigate the adverse economic consequences that might otherwise arise from the closure of a Department of Energy facility.
@@ -2921,6 +2924,20 @@ Pub. L. 104–106, div. C, title XXXI, § 3156, Feb. 10, 1996, 110 Stat. 625, wh
 
 #### Codification
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1994, and not as part of the Department of Energy Organization Act which comprises this chapter.
+
+
+<a id="section-7274m-to-7274o"></a>
+## § 7274m to 7274o. Vesting title in property interests related to energy development, demonstration, and deployment programs funded under Department of Energy appropriations
+**(a)** Hereafter, for energy development, demonstration, and deployment programs funded under Department of Energy appropriations (other than those for the National Nuclear Security Administration and Office of Environmental Management) provided for fiscal year 2022, the current fiscal year, or any fiscal year thereafter (including by Acts other than appropriations Acts), the Secretary may vest unconditional title or other property interests acquired under projects in an award recipient, subrecipient, or successor in interest, including the United States, at the conclusion of the award period for projects receiving an initial award in fiscal year 2022 or later.
+
+**(b)** Upon vesting unconditional title pursuant to subsection (a) in an award recipient, subrecipient, or successor in interest other than the United States, the United States shall have no liabilities or obligations to the property.
+
+**(c)** For purposes of this section, the term “property interest” does not include any interest in intellectual property developed using funding provided under a project.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2023, and also as part of the Consolidated Appropriations Act, 2023, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 
 <a id="section-7274p"></a>
@@ -4052,6 +4069,11 @@ A prior section 3167 of Pub. L. 101–510 was renumbered section 3168 and is cla
 
 (8) **Tribal College or University** — The term “Tribal College or University” has the meaning given the term in [section 1059c(b) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c/b&num=0&edition=prelim).
 
+### Statutory Notes
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-7381g"></a>
 ## § 7381g. Summer institutes
@@ -4568,7 +4590,7 @@ The General Schedule, referred to in subsec. (a), is set out under [section 5332
 
 (5) The members and employees of the Commission shall hold security clearances appropriate for the matters considered by the Commission in the discharge of its duties under this section.
 
-**(f) Applicability of FACA** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission.
+**(f) Applicability of chapter 10 of title 5** The provisions of chapter 10 of title 5 shall not apply to the activities of the Commission.
 
 **(g) Funding**
 
@@ -4579,12 +4601,13 @@ The General Schedule, referred to in subsec. (a), is set out under [section 5332
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Sections 3101 and 3103, referred to in subsec. (g), are sections 3101 and 3103 of Pub. L. 106–65, div. C, title XXXI, Oct. 5, 1999, 113 Stat. 915, 919, which are not classified to the Code.
 
 #### Codification
 Section is comprised of section 3142 of Pub. L. 106–65. Subsec. (h)(1) of section 3142 of Pub. L. 106–65 repealed section 3161 of Pub. L. 105–85, formerly set out as a note under [section 7251 of this title](./chapter-084-department-of-energy.md#section-7251). Subsec. (h)(2) of section 3142 of Pub. L. 106–65 amended [section 2657 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2657&num=0&edition=prelim), War and National Defense.
+
+#### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 #### Change of Name
 Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director’s capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under [section 3001 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3001&num=0&edition=prelim), War and National Defense.
@@ -4788,6 +4811,9 @@ This subchapter, referred to in text, was in the original “this subtitle”, m
 
 ### Statutory Notes
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–31, div. E, title LV, § 5501(a), Dec. 22, 2023, 137 Stat. 956, provided that: “This section [amending sections 7384l and 7385s–16 of this title] may be cited as the ‘Beryllium Testing Fairness Act’.”
+
 #### Short Title
 Pub. L. 106–398, § 1 [div. C, title XXXVI, § 3601], Oct. 30, 2000, 114 Stat. 1654, 1654A–495, provided that: “This title [enacting this subchapter] may be cited as the ‘Energy Employees Occupational Illness Compensation Program Act of 2000’.”
 
@@ -4834,7 +4860,7 @@ Sec. 2. Designation of Responsibilities for Administering the Energy Employees�
 
 (iv) Upon request from the Secretary of Energy, appoint members for a physician panel or panels to consider individual workers’ compensation claims as part of the Worker Assistance Program under the process established pursuant to subsection (c)(v); and
 
-(v) Provide the Advisory Board established under section 4 of this order with administrative services, funds, facilities, staff, and other necessary support services and perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), with respect to the Advisory Board.
+(v) Provide the Advisory Board established under section 4 of this order with administrative services, funds, facilities, staff, and other necessary support services and perform the administrative functions of the President under the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], with respect to the Advisory Board.
 
 (c) Secretary of Energy. The Secretary of Energy shall:
 
@@ -4895,9 +4921,11 @@ Sec. 6. Administration and Judicial Review. (a) This Executive Order shall be ca
 William J. Clinton.
 
 #### Extension of Term of Advisory Board on Radiation and Worker Health
-Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of Advisory Board on Radiation and Worker Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
@@ -5034,7 +5062,11 @@ In this subchapter:
 
 (8) The term “covered beryllium illness” means any of the following:
 
-  (A) Beryllium sensitivity as established by an abnormal beryllium lymphocyte proliferation test performed on either blood or lung lavage cells.
+  (A) Beryllium sensitivity as established by—
+
+    (i) an abnormal beryllium lymphocyte proliferation test performed on either blood or lung lavage cells; or
+
+    (ii) three borderline beryllium lymphocyte proliferation tests performed on blood cells over a period of 3 years.
 
   (B) Established chronic beryllium disease.
 
@@ -5152,6 +5184,8 @@ Executive Order No. 12344, referred to in par. (12)(A), is set out as a note und
 Section 4(b)(2) of the Radiation Exposure Compensation Act, referred to in par. (17)(A), is section 4(b)(2) of Pub. L. 101–426, which is set out in a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210).
 
 #### Amendments
+2023—Par. (8)(A). Pub. L. 118–31 inserted dash after “established by”, designated remainder of existing provisions as cl. (i), and added cl. (ii).
+
 2004—Par. (3). Pub. L. 108–375, § 3168(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘atomic weapons employee’ means an individual employed by an atomic weapons employer during a period when the employer was processing or producing, for the use by the United States, material that emitted radiation and was used in the production of an atomic weapon, excluding uranium mining and milling.”
 
 Par. (14)(C)(ii). Pub. L. 108–375, § 3166(b)(2), substituted “30 days” for “180 days”.
@@ -5287,7 +5321,7 @@ The Privacy Act, referred to in subsec. (f), is probably a reference to [section
 2004—Subsecs. (e), (f). Pub. L. 108–375 added subsecs. (e) and (f).
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-7384r"></a>
@@ -6115,7 +6149,7 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 
   (B) shall not be subject to subsection (b) of that section.
 
-**(j) Sunset** The Board shall terminate on the date that is 10 years after December 19, 2014.
+**(j) Sunset** The Board shall terminate on the date that is 15 years after December 19, 2014.
 
 ### Statutory Notes
 
@@ -6123,6 +6157,8 @@ The Radiation Exposure Compensation Act, referred to in subsec. (b), is Pub. L. 
 Section 151 of title I of division B of Appendix D of the Consolidated Appropriations Act, 2001, referred to in subsec. (i)(2)(A), (B), is Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 151], Dec. 21, 2000, 114 Stat. 2763, 2763A–251, which is not classified to the Code.
 
 #### Amendments
+2023—Subsec. (j). Pub. L. 118–31 substituted “15 years” for “10 years”.
+
 2019—Subsec. (b)(1)(E), (F). Pub. L. 116–92, § 3134(b)(1), added subpars. (E) and (F).
 
 Subsec. (g). Pub. L. 116–92, § 3134(b)(2), substituted “The Secretary of Energy and the Secretary of Labor shall each” for “The Secretary of Energy shall” and inserted at end “The Secretary of Labor shall make available to the Board the program’s medical director, toxicologist, industrial hygienist and program’s support contractors as requested by the Board.”
@@ -6156,7 +6192,7 @@ Sec. 3. Functions. (a) The Advisory Board shall advise the Secretary of Labor wi
 
 (b) To the extent necessary, the Advisory Board also shall coordinate exchanges of data and findings with the Advisory Board on Radiation and Worker Health, which was authorized by EEOICPA and established by Executive Order 13179 of December 7, 2000.
 
-Sec. 4. Administration. (a) The Secretary of Labor shall provide the Advisory Board with funding and administrative support, including the appointment of staff and, as the Secretary determines appropriate, authorization for the detail of Federal employees from within the Department of Labor and employment of outside contractors and specialists, to the extent permitted by law and within existing appropriations. The Secretary also shall perform the administrative functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App. 2), with respect to the Advisory Board.
+Sec. 4. Administration. (a) The Secretary of Labor shall provide the Advisory Board with funding and administrative support, including the appointment of staff and, as the Secretary determines appropriate, authorization for the detail of Federal employees from within the Department of Labor and employment of outside contractors and specialists, to the extent permitted by law and within existing appropriations. The Secretary also shall perform the administrative functions of the President under the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App. 2) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], with respect to the Advisory Board.
 
 (b) The Secretary of Labor shall designate a senior officer of the Department of Labor to serve as the Director of the staff of the Advisory Board.
 

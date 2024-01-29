@@ -726,11 +726,15 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 ## § 105. Subject matter of copyright: United States Government works
 **(a) In General.—** Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise.
 
-**(b) Copyright Protection of Certain of 11 So in original. Works.—** Subject to subsection (c),22 So in original. There are two subsecs. designated (c). the covered author of a covered work owns the copyright to that covered work.
+**(b) Copyright Protection of Certain Works.—** Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work.
 
-**(c) 2 Use by Federal Government.—** The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+**(c) Use by Federal Government.—**
 
-**(c) 2 Definitions.—** In this section:
+(1) **Secretary of defense authority.—** — With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (L) of subsection (d)(2), the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+(2) **Director of national intelligence authority.—** — With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M),11 So in original. There are two subpars. designated (M) in subsec. (d)(2). the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.
+
+**(d) Definitions.—** In this section:
 
 (1) The term “covered author” means a civilian member of the faculty of a covered institution.
 
@@ -760,7 +764,19 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
   (L) United States Coast Guard Academy.
 
-(3) The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
+  (M) 22 So in original. There are two subpars. (M). United States Merchant Marine Academy.
+
+  (M) 2 National Intelligence University.
+
+(3) The term “covered Secretary” 33 Term does not appear in section after amendment by section 6306(2) of Pub. L. 117–263. See 2022 Amendment notes for subsec. (c) below. means—
+
+  (A) the Secretary of Transportation, with respect to the United States Merchant Marine Academy;
+
+  (B) the Secretary of Homeland Security, with respect to the United States Coast Guard Academy; or
+
+  (C) the Secretary of Defense, with respect to any other covered institution under paragraph (2).
+
+(4) The term “covered work” means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal.
 
 ### Statutory Notes
 
@@ -789,6 +805,20 @@ Retention of a saving clause has been urged on the ground that the present statu
 Works of the United States Postal Service. The intent of section 105 [this section] is to restrict the prohibition against Government copyright to works written by employees of the United States Government within the scope of their official duties. In accordance with the objectives of the Postal Reorganization Act of 1970 [Pub. L. 91–375, which enacted title 39, Postal Service], this section does not apply to works created by employees of the United States Postal Service. In addition to enforcing the criminal statutes proscribing the forgery or counterfeiting of postage stamps, the Postal Service could, if it chooses, use the copyright law to prevent the reproduction of postage stamp designs for private or commercial non-postal services (for example, in philatelic publications and catalogs, in general advertising, in art reproductions, in textile designs, and so forth). However, any copyright claimed by the Postal Service in its works, including postage stamp designs, would be subject to the same conditions, formalities, and time limits as other copyrightable works.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263, § 3514(1), substituted “Certain Works” for “Certain of Works” in heading.
+
+Subsec. (c). Pub. L. 117–263, § 6306(2), added subsec. (c) and struck out former subsec. (c). Text read as follows: “A covered Secretary may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government.”
+
+Pub. L. 117–263, § 3514(2), substituted “A covered Secretary” for “The Secretary of Defense”.
+
+Subsec. (d). Pub. L. 117–263, §§ 3514(3), 6306(1), made identical amendments, redesignating subsec. (c) relating to definitions as (d).
+
+Subsec. (d)(2)(M). Pub. L. 117–263, § 6306(3), added subpar. (M) relating to National Intelligence University.
+
+Pub. L. 117–263, § 3514(4)(A), added subpar. (M) relating to United States Merchant Marine Academy.
+
+Subsec. (d)(3), (4). Pub. L. 117–263, § 3514(4)(B), (C), added par. (3) and redesignated former par. (3) as (4).
+
 2019—Pub. L. 116–92 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b) and two subsecs. (c). Heading of subsec. (a) was conformed to the style used in this title.
 
 
@@ -4657,7 +4687,7 @@ Section effective Oct. 19, 1976, see section 102 of Pub. L. 94–553, set out as
 ### Statutory Notes
 
 #### References in Text
-The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. Sections 338, 339, 342, and 397 of the Act are classified to sections 338, 339, 342, and 397, respectively, of Title 47. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
+The Communications Act of 1934, referred to in subsec. (d)(6), is act June 19, 1934, ch. 652, 48 Stat. 1064, which is classified principally to chapter 5 (§ 151 et seq.) of Title 47, Telecommunications. Sections 342 and 397 of the Act are classified to sections 342 and 397, respectively, of Title 47. For complete classification of this Act to the Code, see [section 609 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section609&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (f)(1), (2)(A), (E), is the date of enactment of Pub. L. 111–175, which shall be deemed to refer to Feb. 27, 2010. See section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under [section 111 of this title](./chapter-001-subject-matter-and-scope-of-copyright.md#section-111).
 

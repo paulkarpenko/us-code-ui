@@ -62,7 +62,7 @@ When ordered to active duty, a member of the Navy Reserve or the Marine Corps Re
 | Revised section | Source (U.S. Code) | Source (Statutes at Large) |
 | 7853 | [50 U.S.C. 1073](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1073&num=0&edition=prelim). | July 9, 1952, ch. 608, § 503, 66 Stat. 500. |
 
-The words “in the service of the United States” are omitted as covered by the definition of “active duty” in [§ 101 of this title](./chapter-001-definitions.md#section-101). The words “is relieved” are substituted for the words “shall stand relieved”.
+The words “in the service of the United States” are omitted as covered by the definition of “active duty” in [§ 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101). The words “is relieved” are substituted for the words “shall stand relieved”.
 
 #### Amendments
 2018—Pub. L. 115–232 renumbered [section 7853 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7853&num=0&edition=prelim) as this section.

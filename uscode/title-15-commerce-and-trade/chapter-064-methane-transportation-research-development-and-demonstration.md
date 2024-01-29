@@ -39,7 +39,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, as amended, referred to in subsec. (b)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, as amended, referred to in subsec. (b)(4), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Short Title
 Pub. L. 96–512, § 1, Dec. 12, 1980, 94 Stat. 2827, provided: “That this Act [enacting this chapter] may be cited as the ‘Methane Transportation Research, Development, and Demonstration Act of 1980’.”

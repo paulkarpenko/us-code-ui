@@ -2,7 +2,7 @@
 title: 36
 chapter: '1'
 heading: PATRIOTIC AND NATIONAL OBSERVANCES
-section_count: 47
+section_count: 48
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -25,6 +25,9 @@ The President is requested to issue each year a proclamation—
 | 101 | 36:169b. | Dec. 30, 1963, Pub. L. 88–254, 77 Stat. 843. |
 
 In clause (2), the words “chief executive officers” are substituted for “Governors”, and the words “territories, and possessions” are substituted for “territories”, for clarity and consistency in the revised title and with other titles of the United States Code.
+
+#### Short Title of 2023 Amendment
+Pub. L. 117–340, § 1, Jan. 5, 2023, 136 Stat. 6175, provided that: “This Act [enacting sections 220514 and 220530A of this title, amending sections 220505 and 220524 of this title, and enacting provisions set out as notes under [section 220505 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220505)] may be cited as the ‘Equal Pay for Team USA Act of 2022’.”
 
 #### Short Title of 2022 Amendment
 Pub. L. 117–103, div. W, title XIII, § 1310(a), Mar. 15, 2022, 136 Stat. 931, provided that: “This section [enacting [section 146 of this title](./chapter-001-patriotic-and-national-observances.md#section-146) relating to Choose Respect Day and [section 20131 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20131&num=0&edition=prelim), Crime Control and Law Enforcement] may be cited as the ‘Choose Respect Act’.”
@@ -939,14 +942,29 @@ The President shall issue each year a proclamation calling on the people of the 
 
 (2) remember and honor the atomic veterans of the United States whose brave service and sacrifice played an important role in the defense of the Nation.
 
+### Statutory Notes
 
-<a id="section-146"></a>
-## § 146. Choose Respect Day
+#### Prior Provisions
+Another [section 146 of this title](./chapter-001-patriotic-and-national-observances.md#section-146) was renumbered [section 147 of this title](./chapter-001-patriotic-and-national-observances.md#section-147).
+
+
+<a id="section-147"></a>
+## § 147. Choose Respect Day
 **(a) Designation.—** October 1 is Choose Respect Day.
 
 **(b) Recognition.—** All private citizens, organizations, and Federal, State, and local governmental and legislative entities are encouraged to recognize Choose Respect Day through proclamations, activities, and educational efforts in furtherance of changing the culture around the tolerance of violence against women.
 
 ### Statutory Notes
 
+#### Amendments
+2023—Pub. L. 118–31 renumbered [section 146 of this title](./chapter-001-patriotic-and-national-observances.md#section-146), relating to Choose Respect Day, as this section.
+
 #### Effective Date
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-148"></a>
+## § 148. U.S. Hostage and Wrongful Detainee Day
+**(a) Designation.—** March 9 is U.S. Hostage and Wrongful Detainee Day.
+
+**(b) Proclamation.—** The President is requested to issue each year a proclamation calling on the people of the United States to observe U.S. Hostage and Wrongful Detainee Day with appropriate ceremonies and activities.

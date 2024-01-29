@@ -1194,7 +1194,7 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 **(f) Responsibilities of Center** The Center shall—
 
-(1) pay to the Library of Congress funds sufficient to cover the gross salary and the employer’s share of taxes under [section 3111 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim) for Center employees, in amounts computed by the Library of Congress;
+(1) except as provided in subsection (g), pay to the Library of Congress funds sufficient to cover the gross salary and the employer’s share of taxes under [section 3111 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim) for Center employees, in amounts computed by the Library of Congress;
 
 (2) as required by the Library of Congress, reimburse the Library of Congress for reasonable administrative costs incurred under subsection (e)(1);
 
@@ -1204,12 +1204,22 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 (5) consult with the Librarian of Congress on the administration and implementation of this section.
 
-**(g) Regulations** The Librarian of Congress may prescribe regulations to carry out this section.
+**(g) Reimbursement for certain compensation** Notwithstanding paragraph (1) of subsection (f), in the case of expenses described in such paragraph which are attributable to the compensation of the Executive Director and Deputy Executive Director of the Center, the Librarian of Congress may reimburse the Center for such expenses from amounts appropriated or otherwise made available for salaries and expenses of the Library of Congress.
+
+**(h) Regulations** The Librarian of Congress may prescribe regulations to carry out this section.
 
 ### Statutory Notes
 
 #### References in Text
 Section 205(g)(1) of the Legislative Branch Appropriations Act, 1991, referred to in subsec. (a)(1)(A), is section 205(g)(1) of Pub. L. 101–520, which is set out as a note under [section 141 of this title](./chapter-005-library-of-congress.md#section-141).
+
+#### Amendments
+2022—Subsec. (f)(1). Pub. L. 117–328, § 141(a)(1), substituted “except as provided in subsection (g), pay to the Library of Congress” for “pay to the Library of Congress”.
+
+Subsecs. (g), (h). Pub. L. 117–328, § 141(a)(2), (3), added subsec. (g) and redesignated former subsec. (g) as (h).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. I, title I, § 141(b), Dec. 29, 2022, 136 Stat. 4932, provided that: “The amendment made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
 #### Funding for Little Scholars Child Development Center and Tiny Findings Child Development Center
 Pub. L. 116–159, div. A, § 159, Oct. 1, 2020, 134 Stat. 721, provided that: “Notwithstanding any other provision of this Act [div. A of Pub. L. 116–159, see Tables for classification]— “(1) the authority of the Library of Congress to reimburse the Little Scholars Child Development Center at the Library of Congress under section 19004 of the CARES Act ([2 U.S.C. 162b](./chapter-005-library-of-congress.md#section-162b) note; 134 Stat. 578) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic; and “(2) the authority of the Government Accountability Office to reimburse the Tiny Findings Child Development Center under section 19009 of the CARES Act (134 Stat. 579) shall remain in effect with respect to salaries incurred until the termination of the public health emergency declared pursuant to section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)) resulting from the COVID–19 pandemic.”
@@ -2782,7 +2792,7 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
 **(d) Duties, responsibilities, authority, and reports**
 
-(1) **In general** — Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.) shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
+(1) **In general** — Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and (8) thereof),11 See References in Text note below. and 407 of title 5 shall apply to the Inspector General of the Library of Congress and the Office of such Inspector General and such sections shall be applied to the Library of Congress and the Librarian of Congress by substituting—
 
   (A) “Library of Congress” for “establishment”; and
 
@@ -2794,7 +2804,7 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
   (B) *Security and suitability* — Appointments under the authority under subparagraph (A) shall be made consistent with personnel security and suitability requirements.
 
-  (C) *Consultants* — Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).
+  (C) *Consultants* — Any appointment of a consultant under the authority under subparagraph (A) shall be made consistent with section 6(a)(8) of the Inspector General Act of 1978 (5 U.S.C. App.).1
 
 (3) **Law enforcement authority**
 
@@ -2836,7 +2846,7 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 
   (C) *Semiannual certification of program*
 
-    (i) *In general* — Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
+    (i) *In general* — Before the first grant of authority under subparagraph (A), and semiannually thereafter as part of the report under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.),1 the Inspector General shall submit to the appropriate committees of Congress a written certification that adequate internal safeguards and management procedures exist that, except to the extent the Inspector General determines necessary to effectively carry out the duties of the Office of the Inspector General, are in compliance with standards established by the Council of the Inspectors General on Integrity and Efficiency, which incorporate Department of Justice guidelines, to ensure proper exercise of the powers authorized under this paragraph.
 
     (ii) *Suspension of authority* — The authority granted under this paragraph (including any grant of authority to an individual under subparagraph (A), without regard to whether the individual is in compliance with subparagraph (B)) may be suspended by the Inspector General if the Office of Inspector General fails to comply with the reporting and review requirements under clause (i) of this subparagraph or subparagraph (D). Any suspension of authority under this clause shall be reported to the appropriate committees of Congress.
 
@@ -2863,12 +2873,16 @@ Section is from the Legislative Branch Appropriations Act, 2006.
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(C), (3)(C)(i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 406(a) (other than paragraphs (7) and (8) thereof) of title 5, referred to in subsec. (d)(1), probably should be a reference to section “406 (other than subsection (a)(7))” of title 5. Pub. L. 116–94, § 1602(a)(2), had amended subsec. (d)(1) by substituting a reference to section “6 (other than subsection (a)(7))” of the Inspector General Act of 1978 for a reference to section “6(a) (other than paragraphs (7) and (8) thereof)” of that Act. The reference was subsequently amended by Pub. L. 117–286 to reflect the repeal of section 6 of the Act and its restatement as [section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim), but that amendment was based on the text as it existed prior to the amendment by Pub. L. 116–94. See 2019 and 2022 Amendment notes below.
+
+Sections 5 and 6(a)(8) of the Inspector General Act of 1978, referred to in subsec. (d)(2)(C), (3)(C)(i), are sections 5 and 6(a)(8) of Pub. L. 95–452, which were set out in the Appendix to Title 5, Government Organization and Employees, and were repealed and restated as sections 405 and 406(a)(8), respectively, of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4219, 4361.
 
 #### Codification
 Section is from the Legislative Branch Appropriations Act, 2006.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–286, which directed the substitution of “Sections 404, 405 (other than subsection (b)(13)), 406(a) (other than paragraphs (7) and (8) thereof), and 407 of title 5” for “Sections 4, 5 (other than subsections (a)(13)), 6(a) (other than paragraphs (7) and (8) thereof), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)”, was executed by making the substitution for “Sections 4, 5 (other than subsection (a)(13)), 6 (other than subsection (a)(7)), and 7 of the Inspector General Act of 1978 (5 U.S.C. App.)” to reflect the probable intent of Congress and the prior amendment by Pub. L. 116–94, § 1602(a)(2). See 2019 Amendment note below.
+
 2019—Subsec. (c). Pub. L. 116–94, § 1602(a)(1)(A), inserted “; pay; limits on bonuses; counsel” after “removal” in heading.
 
 Subsec. (c)(2). Pub. L. 116–94, § 1602(a)(1)(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Inspector General may be removed from office by the Librarian of Congress. The Librarian of Congress shall, promptly upon such removal, communicate in writing the reasons for any such removal to each House of the Congress.”

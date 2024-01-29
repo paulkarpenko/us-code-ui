@@ -138,17 +138,17 @@ Pursuant to the terms of the Organic Act of Guam (64 Stat. 384), as amended [[48
 ### Statutory Notes
 
 #### References in Text
-The Organic Act of Guam, referred to in text, is act Aug. 1, 1950, ch. 512, 64 Stat. 384, as amended, which is classified generally to chapter 8A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-8a-guam.md#section-1421) and Tables.
+The Organic Act of Guam, referred to in text, is act Aug. 1, 1950, ch. 512, 64 Stat. 384, which is classified generally to chapter 8A (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of this title](./chapter-8a-guam.md#section-1421) and Tables.
 
-The Joint resolution to Approve the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in text, is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, as amended, which is classified generally to subchapter I (§ 1801 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Tables.
+The Joint resolution to Approve the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America, referred to in text, is Pub. L. 94–241, Mar. 24, 1976, 90 Stat. 263, which is classified generally to subchapter I (§ 1801 et seq.) of chapter 17 of this title. For complete classification of this Act to the Code, see Tables.
 
-The Puerto Rican Federal Relations Act, referred to in text, is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, also known as the Jones Act, which is classified principally to chapter 4 (§ 731 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
+The Puerto Rican Federal Relations Act, referred to in text, is act Mar. 2, 1917, ch. 145, 39 Stat. 951, also known as the Jones Act, which is classified principally to chapter 4 (§ 731 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
 
-The Revised Organic Act of the Virgin Islands, referred to in text, is act July 22, 1954, ch. 558, 68 Stat. 497, as amended, which is classified principally to chapter 12 (§ 1541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1541 of this title](./chapter-012-virgin-islands-1954.md#section-1541) and Tables.
+The Revised Organic Act of the Virgin Islands, referred to in text, is act July 22, 1954, ch. 558, 68 Stat. 497, which is classified principally to chapter 12 (§ 1541 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1541 of this title](./chapter-012-virgin-islands-1954.md#section-1541) and Tables.
 
-The Act to authorize appropriations for certain insular areas of the United States, and for other purposes (92 Stat. 487), as amended, referred to in text, is Pub. L. 95–348, Aug. 18, 1978, 92 Stat. 487. For complete classification of this Act to the Code, see Tables.
+The Act to authorize appropriations for certain insular areas of the United States, and for other purposes (92 Stat. 487), referred to in text, is Pub. L. 95–348, Aug. 18, 1978, 92 Stat. 487. For complete classification of this Act to the Code, see Tables.
 
-Public Law 99–177, referred to in text, is Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, as amended, title II of which is known as the “Balanced Budget and Emergency Deficit Control Act of 1985”, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+Public Law 99–177, referred to in text, is Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1037, title II of which is known as the “Balanced Budget and Emergency Deficit Control Act of 1985”, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 Public Law 99–366, referred to in text, is Pub. L. 99–366, July 31, 1986, 100 Stat. 773, which is classified as a note under [section 904 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section904&num=0&edition=prelim).
 
@@ -168,6 +168,10 @@ Section is from the appropriation act cited as the credit to this section.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in the following prior appropriations acts:
+
+Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4778.
+
+Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 367.
 
 Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1497.
 
@@ -866,7 +870,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (a)(1)(C), (c)(1)(C), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
 Sections 1494 to 1494c of this title, referred to in subsecs. (a)(3), (b)(2), (c)(3), (d)(1), (e)(1), and (f)(1), (2), was in the original “this Act”, and was translated as reading “this subtitle” meaning subtitle A of title V of Pub. L. 99–570 to reflect the probable intent of Congress. See Short Title note set out under [section 1494 of this title](./chapter-010-territorial-provisions-of-a-general-nature.md#section-1494).
 

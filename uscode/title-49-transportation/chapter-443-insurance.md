@@ -2,7 +2,7 @@
 title: 49
 chapter: '443'
 heading: INSURANCE
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -290,9 +290,34 @@ Determination of President of the United States, No. 2004–13, Dec. 11, 2003, 6
 Determination of President of the United States, No. 01–29, Sept. 23, 2001, 66 F.R. 49075.
 
 
+<a id="section-44302a"></a>
+## § 44302a. Temporary insurance
+**(a) In General.—** The Secretary may provide insurance or reinsurance under this section to or for an air carrier for 1 coverage period not to exceed 90 days. Except as otherwise provided in this section, such insurance or reinsurance shall be subject to the requirements of this chapter.
+
+**(b) Restrictions.—** A policy for insurance or reinsurance issued under this section—
+
+(1) may not be issued unless the insurance carrier of the air carrier has unilaterally terminated the air carrier’s war risk liability coverage pursuant to—
+
+  (A) notice under the policy;
+
+  (B) an endorsement to the policy; or
+
+  (C) an automatic termination provision in the policy or any endorsement thereto; and
+
+(2) may cover hull, comprehensive, and third party liability risks.
+
+**(c) Premium.—** A premium for insurance or reinsurance provided under this section shall be calculated based on a prorated amount equivalent to the premium that was in effect under the terminated insurance carrier policy.
+
+**(d) Approval.—** A policy for insurance or reinsurance provided under this section—
+
+(1) shall be exempt from the requirements of section 44302(c); and
+
+(2) may provide coverage to the extent allowed under section 44303, as determined by the Secretary, notwithstanding any determination by the President in subsection (a)(1) of such section.
+
+
 <a id="section-44303"></a>
 ## § 44303. Coverage
-**(a) In General.—** The Secretary of Transportation may provide insurance and reinsurance, or reimburse insurance costs, as authorized under [section 44302 of this title](./chapter-443-insurance.md#section-44302) for the following:
+**(a) In General.—** The Secretary of Transportation may provide insurance and reinsurance, or reimburse insurance costs, as authorized under sections 44302 and 44302a of this title for the following:
 
 (1) an American aircraft or foreign-flag aircraft engaged in aircraft operations the President decides are necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government.
 
@@ -339,6 +364,8 @@ In this section, before clause (1), the words “persons, property, or interest�
 The text of section 201(b)(2) of Pub. L. 107–42, which was transferred and redesignated so as to appear as subsec. (b) of this section and amended by Pub. L. 107–296, was based on Pub. L. 107–42, title II, § 201(b)(2), Sept. 22, 2001, 115 Stat. 235, formerly included in a note set out under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328 substituted “sections 44302 and 44302a” for “section 44302” in introductory provisions.
+
 2014—Subsec. (b). Pub. L. 113–235 substituted “December 11, 2014” for “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015”.
 
 Pub. L. 113–164 substituted “the date specified in section 106(3) of the Continuing Appropriations Resolution, 2015” for “September 30, 2014”.
@@ -751,9 +778,9 @@ Pub. L. 113–291, div. A, title X, § 1074(b), Dec. 19, 2014, 128 Stat. 3519, p
 
 <a id="section-44310"></a>
 ## § 44310. Ending effective date
-**(a) In General.—** The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than section 44305 is not effective after December 11, 2014.
+**(a) In General.—** The authority of the Secretary of Transportation to provide insurance and reinsurance under any provision of this chapter other than sections 44302a and 44305 is not effective after December 11, 2014.
 
-**(b) Insurance of United States Government Property.—** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after September 30, 2023.
+**(b) Insurance of United States Government Property.—** The authority of the Secretary of Transportation to provide insurance and reinsurance for a department, agency, or instrumentality of the United States Government under section 44305 is not effective after September 30, 2028.
 
 ### Statutory Notes
 
@@ -765,6 +792,16 @@ Pub. L. 113–291, div. A, title X, § 1074(b), Dec. 19, 2014, 128 Stat. 3519, p
 The words “is not effective after” are substituted for “shall expire at the termination of” for clarity and consistency in the revised title.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–63 substituted “September 30, 2028” for “May 10, 2024”.
+
+Pub. L. 118–41 substituted “May 10, 2024” for “March 8, 2024”.
+
+2023—Subsec. (b). Pub. L. 118–34 substituted “March 8, 2024” for “December 31, 2023”.
+
+Pub. L. 118–15 substituted “December 31, 2023” for “September 30, 2023”.
+
+2022—Subsec. (a). Pub. L. 117–328 substituted “sections 44302a and 44305” for “section 44305”.
+
 2019—Subsec. (b). Pub. L. 116–92 substituted “September 30, 2023” for “December 31, 2019”.
 
 2016—Subsec. (b). Pub. L. 114–328 substituted “December 31, 2019” for “December 31, 2018”.

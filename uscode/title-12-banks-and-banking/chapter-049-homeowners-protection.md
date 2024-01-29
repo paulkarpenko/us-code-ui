@@ -80,9 +80,9 @@ In this chapter, the following definitions shall apply:
 #### References in Text
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–216, July 29, 1998, 112 Stat. 897, known as the Homeowners Protection Act of 1998. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
-The National Housing Act, referred to in par. (13), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in par. (13), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
-The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in par. (13), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Par. (1). Pub. L. 106–569, § 402(b), inserted at end “A residential mortgage that: (A) does not fully amortize over the term of the obligation; and (B) contains a conditional right to refinance or modify the unamortized principal at the maturity date of the term, shall be considered to be an adjustable rate mortgage for purposes of this chapter.”
@@ -295,7 +295,7 @@ Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–21
 #### References in Text
 The effective date of this chapter, referred to in subsec. (b), is 1 year after July 29, 1998, see section 13 of Pub. L. 105–216, set out as an Effective Date note under [section 4901 of this title](./chapter-049-homeowners-protection.md#section-4901).
 
-The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, as amended, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601) and Tables.
+The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (c), is Pub. L. 93–533, Dec. 22, 1974, 88 Stat. 1724, which is classified principally to chapter 27 (§ 2601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of this title](./chapter-027-real-estate-settlement-procedures.md#section-2601) and Tables.
 
 #### Amendments
 2000—Subsec. (a)(1). Pub. L. 106–569, §§ 402(c)(2)(A)(i), 403(b)(1)(A), substituted “residential mortgage transaction (other than a residential mortgage transaction described in [section 4902(g)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4902/g/1&num=0&edition=prelim))” for “residential mortgage or mortgage transaction (other than a mortgage or mortgage transaction described in [section 4902(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section4902/f/1&num=0&edition=prelim))” in introductory provisions.
@@ -378,7 +378,7 @@ Section effective 1 year after July 29, 1998, see section 13 of Pub. L. 105–21
 ### Statutory Notes
 
 #### References in Text
-The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2000—Subsec. (c). Pub. L. 106–569, § 403(c)(1)(A), struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.

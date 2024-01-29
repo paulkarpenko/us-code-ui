@@ -34,7 +34,7 @@ The words “obsolete or excess material” are substituted for the words “suc
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9684"></a>
@@ -64,7 +64,7 @@ The words “the Chief of Ordnance” are omitted, since the functions which, fo
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9685"></a>
@@ -110,4 +110,4 @@ The words “subject to such regulations as he may prescribe” are omitted, sin
 1980—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 ([40 U.S.C. 486](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim))” for “[section 486 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486&num=0&edition=prelim)”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).

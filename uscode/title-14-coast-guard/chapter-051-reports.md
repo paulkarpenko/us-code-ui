@@ -2,7 +2,7 @@
 title: 14
 chapter: '51'
 heading: REPORTS
-section_count: 12
+section_count: 15
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -131,6 +131,9 @@ Subsec. (c). Pub. L. 114–120, § 204(b)(2), (3), redesignated subsec. (b) as (
 1990—Pub. L. 101–595 substituted “Shore Facilities Plan, and Information Resources Management Plan.” for “and Shore Facilities Plan.”
 
 1988—Pub. L. 100–448 inserted at end “Not later than 30 days after the date on which the President submits to the Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) which includes a proposed 2-year budget for the Coast Guard, the Secretary shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate, and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives, detailed Coast Guard budget estimates for the fiscal years covered by such proposed 2-year budget.”
+
+#### Report on Shoreside Infrastructure and Facilities Projects
+Pub. L. 117–263, div. K, title CXII, § 11201, Dec. 23, 2022, 136 Stat. 4006, provided that: “(a) In General.—Not less frequently than annually, the Commandant [of the Coast Guard] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that includes—“(1) a detailed list of Coast Guard shoreside infrastructure projects contemplated in each Coast Guard Sector area of responsibility and planned within the 7 years following the submission of the annual report for all Coast Guard facilities located within each Coast Guard Sector area of responsibility in the order of priority, including recapitalization, maintenance needs in excess of $100,000, dredging, and other shoreside infrastructure needs of the Coast Guard; “(2) the estimated cost of projects to fulfill each project, to the extent available; and “(3) a general description of the state of planning, including design and engineering, for each such project. “(b) Contents.—The report submitted under subsection (a) shall include all unfunded shoreside infrastructure and facility priorities meeting the criteria under subsection (a) recommended to the Commandant for consideration for inclusion in the unfunded priority list report to Congress under [section 5108 of title 14](./chapter-051-reports.md#section-5108), United States Code, regardless of whether the unfunded shoreside infrastructure project is included in the final annual unfunded priority list to Congress.”
 
 #### Ensuring Maritime Coverage
 Pub. L. 115–282, title VIII, § 817(d), Dec. 4, 2018, 132 Stat. 4307, provided that: “In order to meet Coast Guard mission requirements for search and rescue, ports, waterways, and coastal security, and maritime environmental response during recapitalization of Coast Guard vessels, the Coast Guard shall ensure continuity of the coverage, to the maximum extent practicable, in the locations that may lose assets.”
@@ -566,3 +569,69 @@ Pub. L. 111–281, title II, § 217, Oct. 15, 2010, 124 Stat. 2917, formerly set
 2021—Pub. L. 116–283, § 8501(a)(7)(A), (B)(i), redesignated section 217 of Pub. L. 111–281 as this section, made technical changes to conform this section to other sections of this title, and substituted section catchline for former section catchline “Report on Sexual Assaults in the Coast Guard”. See Codification note above.
 
 Subsec. (b)(5). Pub. L. 116–283, § 8501(a)(7)(B)(ii), added par. (5).
+
+
+<a id="section-5113"></a>
+## § 5113. Officers not on active duty promotion list
+
+Not later than 60 days after the date on which the President submits to Congress a budget pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the Commandant shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate the number of Coast Guard officers serving at other Federal entities on a reimbursable basis, and the number of Coast Guard officers who are serving at other Federal agencies on a non-reimbursable basis, but not on the active duty promotion list.
+
+
+<a id="section-5114"></a>
+## § 5114. Expenses of performing and executing defense readiness missions
+
+Not later than 1 year after the date of enactment of this section, and every February 1 thereafter, the Commandant shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that adequately represents a calculation of the annual costs and expenditures of performing and executing all defense readiness mission activities, including—
+
+(1) all expenses related to the Coast Guard’s coordination, training, and execution of defense readiness mission activities in the Coast Guard’s capacity as an armed force (as such term is defined in [section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim)) in support of Department of Defense national security operations and activities or for any other military department or Defense Agency (as such terms are defined in such section);
+
+(2) costs associated with Coast Guard detachments assigned in support of the defense readiness mission of the Coast Guard; and
+
+(3) any other related expenses, costs, or matters the Commandant considers appropriate or otherwise of interest to Congress.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in text, is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+
+<a id="section-5115"></a>
+## § 5115. Major grants, contracts, or other transactions
+**(a) Notification.—**
+
+(1) **In general.—** — Subject to subsection (b), the Commandant shall notify the appropriate committees of Congress and the Coast Guard Office of Congressional and Governmental Affairs not later than 3 full business days in advance of the Coast Guard—
+
+  (A) making or awarding a grant allocation or grant in excess of $1,000,000;
+
+  (B) making or awarding a contract, other transaction agreement, or task or delivery order for the Coast Guard on the multiple award contract, or issuing a letter of intent totaling more than $4,000,000;
+
+  (C) awarding a task or delivery order requiring an obligation of funds in an amount greater than $10,000,000 from multi-year Coast Guard funds;
+
+  (D) making a sole-source grant award; or
+
+  (E) announcing publicly the intention to make or award an item described in subparagraph (A), (B), (C), or (D), including a contract covered by the Federal Acquisition Regulation.
+
+(2) **Element.—** — A notification under this subsection shall include—
+
+  (A) the amount of the award;
+
+  (B) the fiscal year for which the funds for the award were appropriated;
+
+  (C) the type of contract;
+
+  (D) an identification of the entity awarded the contract, such as the name and location of the entity; and
+
+  (E) the account from which the funds are to be drawn.
+
+**(b) Exception.—** If the Commandant determines that compliance with subsection (a) would pose a substantial risk to human life, health, or safety, the Commandant—
+
+(1) may make an award or issue a letter described in such subsection without the notification required under such subsection; and
+
+(2) shall notify the appropriate committees of Congress not later than 5 full business days after such an award is made or letter issued.
+
+**(c) Applicability.—** Subsection (a) shall not apply to funds that are not available for obligation.
+
+**(d) Appropriate Committees of Congress Defined.—** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and
+
+(2) the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives.

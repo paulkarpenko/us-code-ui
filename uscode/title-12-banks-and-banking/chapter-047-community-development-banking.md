@@ -125,9 +125,9 @@ For purposes of this subchapter, the following definitions shall apply:
 ### Statutory Notes
 
 #### References in Text
-The Small Business Investment Act of 1958, referred to in par. (6), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
+The Small Business Investment Act of 1958, referred to in par. (6), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
 
-The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-4703"></a>
@@ -170,7 +170,7 @@ The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is 
 
 **(d) Advisory Board**
 
-(1) **Establishment** — There is established an advisory board to the Fund to be known as the Community Development Advisory Board, which shall be operated in accordance with the provisions of the Federal Advisory Committee Act, except that section 14 of that Act does not apply to the Board.
+(1) **Establishment** — There is established an advisory board to the Fund to be known as the Community Development Advisory Board, which shall be operated in accordance with the provisions of chapter 10 of title 5, except that [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) does not apply to the Board.
 
 (2) **Membership** — The Board shall consist of 15 members, including—
 
@@ -210,7 +210,7 @@ The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is 
 
 (6) **Meetings** — The Board shall meet at least annually and at such other times as requested by the Administrator or the chairperson. A majority of the members of the Board shall constitute a quorum.
 
-(7) **Reimbursement for expenses** — The members of the Board may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with the Federal Advisory Committee Act.
+(7) **Reimbursement for expenses** — The members of the Board may receive reimbursement for travel, per diem, and other necessary expenses incurred in the performance of their duties, in accordance with chapter 10 of title 5.
 
 (8) **Costs and expenses** — The Fund shall provide to the Board all necessary staff and facilities.
 
@@ -256,13 +256,14 @@ The Alaska Native Claims Settlement Act, referred to in pars. (11) and (12), is 
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(1), (7), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5.
-
 #### Codification
 Section is comprised of section 104 of Pub. L. 103–325. Subsecs. (e) and (i) of section 104 of Pub. L. 103–325 amended [section 9101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9101&num=0&edition=prelim), Money and Finance, and [section 5313 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), Government Organization and Employees, respectively.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–286, § 4(a)(57)(A), substituted “chapter 10 of title 5, except that [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “the Federal Advisory Committee Act, except that section 14 of that Act”.
+
+Subsec. (d)(7). Pub. L. 117–286, § 4(a)(57)(B), substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2012—Subsec. (b)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
 
 #### Effective Date of 2012 Amendment
@@ -316,7 +317,7 @@ Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237.
 
     (ii) the National Credit Union Administration, in the case of an insured credit union; or
 
-  (C) listed in the Federal Deposit Insurance Corporation’s Minority Depository Institutions List published for the Third Quarter 2020.
+  (C) listed in the Federal Deposit Insurance Corporation’s Minority Depository Institutions List published for the Third Quarter 2020.11 So in original. The period probably should be a semicolon.
 
 (7) the term “Program” means the Emergency Capital Investment Program established under subsection (b);
 
@@ -356,7 +357,7 @@ Pub. L. 104–19, title I, July 27, 1995, 109 Stat. 237.
 
     (ii) describes how the business strategy and operating goals of the applicant will address community development needs in communities that may be disproportionately impacted by the economic effects of COVID–19, which includes the needs of small businesses, consumers, nonprofit organizations, community development, and other projects providing direct benefits to low- and moderate-income communities, low-income individuals, and minorities within the minority, rural, and urban low-income and underserved areas served by the applicant;
 
-    (iii) includes a plan to provide community outreach and communication, where appropriate;
+    (iii) includes a plan to provide community outreach and communication, where appropriate; 22 So in original. Probably should be followed by “and”.
 
     (iv) includes details on how the applicant plans to expand or maintain significant lending or investment activity in low- or moderate-income minority communities, especially those that may be disproportionately impacted by COVID–19 to historically disadvantaged borrowers, and to minorities that have significant unmet capital or financial services needs.
 
@@ -789,7 +790,7 @@ Pub. L. 116–260, div. N, title V, § 524, Dec. 27, 2020, 134 Stat. 2089, provi
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (e)(4), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 
 <a id="section-4708"></a>
@@ -883,7 +884,7 @@ The Fund shall—
 ### Statutory Notes
 
 #### References in Text
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(3), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 
 <a id="section-4713"></a>
@@ -955,7 +956,7 @@ The Housing and Community Development Act of 1974, referred to in subsec. (a)(3)
 #### References in Text
 The Bank Enterprise Act of 1991, referred to in subsecs. (a)(2), (5) and (b)(6), is subtitle C (§§ 231–234) of title II of Pub. L. 102–242, Dec. 19, 1991, 105 Stat. 2308–2315, which enacted sections 1834 to 1834b of this title, amended [section 1817 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1817), and enacted provisions set out as a note under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811). For complete classification of this Act to the Code, see Short Title of 1991 Amendment note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a)(5), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Codification
 Section is comprised of section 114 of Pub. L. 103–325. Subsec. (c) of section 114 of Pub. L. 103–325 amended [section 1834a of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1834a).
@@ -1151,20 +1152,24 @@ Section is comprised of section 114 of Pub. L. 103–325. Subsec. (c) of section
 
 (2) **Implementation** — Not later than 2 years after September 27, 2010, the Secretary shall implement this section.
 
-**(k) Termination** This section is repealed, and the authority provided under this section shall terminate, on September 30, 2014.
+**(k) Termination** This section is repealed, and the authority provided under this section shall terminate, on September 30, 2014.11 See Termination of Section note below.
 
 ### Statutory Notes
 
 #### Termination of Section
-For delay of termination of section by Pub. L. 117–103, see Termination Date note below.
+For delay of termination of section by Pub. L. 118–47, see Termination Date note below.
 
 #### References in Text
 The Community Reinvestment Act of 1977, referred to in subsec. (i), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
 
 #### Termination Date
-Pub. L. 117–103, div. E, title I, Mar. 15, 2022, 136 Stat. 244, provided in part: “That such section 114A [this section] shall remain in effect until December 31, 2022.”
+Pub. L. 118–47, div. B, title I, Mar. 23, 2024, 138 Stat. 525, provided in part: “That such section 114A [this section] shall remain in effect until December 31, 2025”.
 
 Additional provisions delaying the termination of this section were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. E, title I, Dec. 29, 2022, 136 Stat. 4655.
+
+Pub. L. 117–103, div. E, title I, Mar. 15, 2022, 136 Stat. 244.
 
 Pub. L. 116–260, div. E, title I, Dec. 27, 2020, 134 Stat. 1385.
 
@@ -1304,7 +1309,7 @@ Pub. L. 113–235, div. E, title I, Dec. 16, 2014, 128 Stat. 2336.
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Codification
 Section is comprised of section 119 of Pub. L. 103–325. Subsec. (c) of section 119 of Pub. L. 103–325 amended [section 657 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section657&num=0&edition=prelim), Crimes and Criminal Procedure.
@@ -1494,7 +1499,7 @@ For purposes of this subchapter—
 ### Statutory Notes
 
 #### References in Text
-The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
+The Federal Credit Union Act, referred to in par. (2)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
 
 
 <a id="section-4743"></a>

@@ -71,9 +71,11 @@ Pub. L. 86–797, § 1, as added by Pub. L. 105–85, div. B, title XXIX, § 290
 
     (i) the conservation and rehabilitation of natural resources on such installations;
 
-    (ii) the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
+    (ii) the use of natural and nature-based features to maintain or improve military installation resilience;
 
-    (iii) subject to safety requirements and military security, public access to military installations to facilitate the use.
+    (iii) the sustainable multipurpose use of the resources on such installations, which shall include hunting, fishing, trapping, and nonconsumptive uses; and
+
+    (iv) subject to safety requirements and military security, public access to military installations to facilitate the use.
 
   (B) In the case of a State-owned National Guard installation, such program shall be carried out in coordination with the chief executive officer of the State in which the installation is located.
 
@@ -152,9 +154,9 @@ unless the effects of that sale or leasing are compatible with the purposes of t
 
   (B) the Committee on Armed Services and the Committee on Environment and Public Works of the Senate.
 
-**(g) Pilot program for invasive species management for military installations in Guam**
+**(g) Program for invasive species management for military installations**
 
-(1) **Inclusion of invasive species management** — During fiscal years 2009 through 2014, the Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations in Guam the management, control, and eradication of invasive species—
+(1) **Inclusion of invasive species management** — The Secretary of Defense shall, to the extent practicable and conducive to military readiness, incorporate in integrated natural resources management plans for military installations the management, control, and eradication of invasive species—
 
   (A) that are not native to the ecosystem of the military installation; and
 
@@ -165,6 +167,12 @@ unless the effects of that sale or leasing are compatible with the purposes of t
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(3)(A)(ii) to (iv). Pub. L. 117–263, § 387(a), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+
+Subsec. (g). Pub. L. 117–263, § 387(b)(1), substituted “Program for invasive species management for military installations” for “Pilot program for invasive species management for military installations in Guam” in heading.
+
+Subsec. (g)(1). Pub. L. 117–263, § 387(b)(2), in introductory provisions, substituted “The” for “During fiscal years 2009 through 2014, the” and struck out “in Guam” after “military installations”.
+
 2011—Pub. L. 112–81, § 312(b)(1)(A), (B), inserted section catchline.
 
 Subsec. (a)(1)(B). Pub. L. 112–81, § 312(a)(2)(A), designated existing provisions as cl. (i) and added cl. (ii).
@@ -277,7 +285,7 @@ Section, Pub. L. 99–561, § 2, Oct. 27, 1986, 100 Stat. 3149, related to natur
 ### Statutory Notes
 
 #### References in Text
-The Migratory Bird Hunting Stamp Act, referred to in subsec. (b), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 452, as amended, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718) and Tables.
+The Migratory Bird Hunting Stamp Act, referred to in subsec. (b), subsequently renamed the Migratory Bird Hunting and Conservation Stamp Act, is act Mar. 16, 1934, ch. 71, 48 Stat. 452, which is classified generally to subchapter IV (§ 718 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718) and Tables.
 
 Public Law 85–337, referred to in subsec. (b), is Pub. L. 85–337, Feb. 28, 1958, 72 Stat. 28, which is classified to [section 2671 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2671&num=0&edition=prelim), Armed Forces, section 472 of former Title 40, Public Buildings, Property, and Works [now [40 U.S.C. 102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102&num=0&edition=prelim)], and sections 155 to 158 of Title 43, Public Lands. For complete classification of this Act to the Code, see Tables.
 

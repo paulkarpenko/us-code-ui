@@ -818,7 +818,7 @@ Section, Pub. L. 95–113, title XIV, § 1407, Sept. 29, 1977, 91 Stat. 986; Pub
 
 **(e) Appointment** A member of the Advisory Board shall be appointed by the Secretary for a term of up to 3 years. The members of the Advisory Board shall be appointed to serve staggered terms.
 
-**(f) Federal Advisory Committee Act** The Advisory Board shall be deemed to have filed a charter for the purpose of section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+**(f) Chapter 10 of title 5** The Advisory Board shall be deemed to have filed a charter for the purpose of [section 1008(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1008/c&num=0&edition=prelim).
 
 **(g) Annual limitation on Advisory Board expenses**
 
@@ -837,14 +837,16 @@ Act of August 30, 1890, referred to in subsec. (b)(3)(C)(ii), is act Aug. 30, 18
 
 For definition of “this chapter”, referred to in subsec. (d)(2), see note set out under [section 3102 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3102).
 
-Section 9 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “[section 1008(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1008/c&num=0&edition=prelim).” for “section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
+
 2018—Subsec. (b)(1). Pub. L. 115–334, § 7103(1)(A), substituted “15” for “25”.
 
 Subsec. (b)(3). Pub. L. 115–334, § 7103(1)(B), amended par. (3) generally. Prior to amendment, par. (3) provided 25 membership categories of the Advisory Board.
@@ -965,7 +967,7 @@ Pub. L. 110–234, title VII, § 7102(b), May 22, 2008, 122 Stat. 1215, and Pub.
 
   (D) *Termination* — The subcommittee established under subparagraph (A) shall terminate on September 30, 2023.
 
-  (E) *Federal Advisory Committee Act* — The subcommittee established under subparagraph (A) shall be covered by the exemption to section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.) applicable to the Advisory Board under [section 3123(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3123/f&num=0&edition=prelim).
+  (E) *Chapter 10 of title 5* — The subcommittee established under subparagraph (A) shall be covered by the exemption to [section 1008(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1008/c&num=0&edition=prelim) applicable to the Advisory Board under [section 3123(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3123/f&num=0&edition=prelim).
 
 **(b) Members**
 
@@ -1033,16 +1035,17 @@ Pub. L. 110–234, title VII, § 7102(b), May 22, 2008, 122 Stat. 1215, and Pub.
 
 ### Statutory Notes
 
-#### References in Text
-Section 9 of the Federal Advisory Committee Act, referred to in subsec. (a)(2)(E), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
 A prior section 3123a, Pub. L. 95–113, title XIV, § 1408A, as added Pub. L. 101–624, title XVI, § 1605(a), Nov. 28, 1990, 104 Stat. 3711; amended Pub. L. 102–237, title IV, § 402(3), (4), Dec. 13, 1991, 105 Stat. 1863, related to establishment of Agricultural Science and Technology Review Board, prior to repeal by Pub. L. 104–127, title VIII, § 853(a), Apr. 4, 1996, 110 Stat. 1172.
 
 #### Amendments
+2022—Subsec. (a)(2)(E). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “[section 1008(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1008/c&num=0&edition=prelim)” for “section 9(c) of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Subsec. (a)(2)(A). Pub. L. 115–334, § 7104(1), substituted “specialty” for “speciality”.
 
 Subsec. (a)(2)(B). Pub. L. 115–334, § 7104(2)(A), substituted “11” for “9” in introductory provisions.
@@ -1150,11 +1153,11 @@ This partnership in publicly supported agricultural research, extension, and tea
 
 **(d) Designation of State agricultural experiment stations and Agricultural Research Service facilities; pilot projects; additional research** To address more effectively the critical need for reducing farm input costs, improving soil, water, and energy conservation on farms and in rural areas, using sustainable agricultural methods, adopting alternative processing and marketing systems, and encouraging rural resources management, the Secretary is encouraged to designate at least one State agricultural experiment station and one Agricultural Research Service facility to examine these issues in an integrated and comprehensive manner, while conducting ongoing pilot projects contributing additional research through the Federal-State partnership.
 
-**(e) Applicability of Federal Advisory Committee Act**
+**(e) Applicability of chapter 10 of title 5**
 
 (1) **Public meetings** — All meetings of any entity described in paragraph (3) shall be publicly announced in advance and shall be open to the public. Detailed minutes of meetings and other appropriate records of the activities of such an entity shall be kept and made available to the public on request.
 
-(2) **Exemption** — The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act [[7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.] shall not apply to any entity described in paragraph (3).
+(2) **Exemption** — Chapter 10 of title 5 and title XVIII of this Act [[7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.] shall not apply to any entity described in paragraph (3).
 
 (3) **Entities described** — This subsection shall apply to any committee, board, commission, panel, or task force, or similar entity that—
 
@@ -1187,11 +1190,13 @@ Act of June 29, 1935, referred to in subsec. (a)(3)(C), is act June 29, 1935, ch
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of the Foreign Assistance Act of 1961 probably means title XII of chapter 2 of part I of the Act, which is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (e)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Title XVIII of this Act, referred to in subsec. (e)(2), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–286, § 4(a)(33)(A), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading.
+
+Subsec. (e)(2). Pub. L. 117–286, § 4(a)(33)(B), substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 1996—Subsec. (e). Pub. L. 104–127 added subsec. (e).
 
 1990—Subsecs. (c) to (e). Pub. L. 101–624 redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out former subsec. (c) which read as follows: “In order to meet the increasing needs of consumers and to promote the health and welfare of people, the Secretary shall ensure that the cooperative research, extension, and teaching programs of the various States adequately address the challenges described in paragraph (10) of [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101). The Secretary may implement new cooperative initiatives in home economics and related disciplines to address such challenges.”
@@ -1505,16 +1510,17 @@ A prior section 3129, Pub. L. 95–113, title XIV, § 1413A, as added Pub. L. 96
 
 
 <a id="section-3129a"></a>
-## § 3129a. Federal Advisory Committee Act exemption for competitive research, extension, and education programs
+## § 3129a. Exemption from chapter 10 of title 5 for competitive research, extension, and education programs
 
-The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act [[7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.] shall not apply to any committee, board, commission, panel, or task force, or similar entity, created solely for the purpose of reviewing applications or proposals requesting funding under any competitive research, extension, or education program carried out by the Secretary.
+Chapter 10 of title 5 and title XVIII of this Act [[7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.] shall not apply to any committee, board, commission, panel, or task force, or similar entity, created solely for the purpose of reviewing applications or proposals requesting funding under any competitive research, extension, or education program carried out by the Secretary.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Title XVIII of this Act, referred to in text, is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+
+#### Amendments
+Pub. L. 117–286 substituted “Exemption from chapter 10 of title 5” for “Federal Advisory Committee Act exemption” in section catchline and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-3130"></a>
@@ -1873,7 +1879,7 @@ Subsec. (h). Pub. L. 115–334, § 7106(2), designated existing provisions as pa
 
   (G) to support current agriculture in the classroom programs for grades K–12.
 
-**(k) Administration** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
+**(k) Administration** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created for the purpose of reviewing applications and proposals for grants or nominations for awards submitted under this section.
 
 **(l) Report** The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a biennial report detailing the distribution of funds used to implement the teaching programs under subsection (j).
 
@@ -1888,14 +1894,14 @@ Subsec. (h). Pub. L. 115–334, § 7106(2), designated existing provisions as pa
 #### References in Text
 The Act of June 29, 1935, referred to in subsec. (h), is act June 29, 1935, ch. 338, 49 Stat. 436, popularly known as the Bankhead-Jones Act and also as the Agricultural Research Act. For complete classification of this Act to the Code, see Short Title of 1935 Amendment note under [section 3101 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3101) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, . Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
+The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
+
 2018—Subsec. (m)(2). Pub. L. 115–334 substituted “2023” for “2018”.
 
 2015—Subsec. (j)(1)(B). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).
@@ -2539,7 +2545,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(i) Rules** The Secretary of Agriculture may issue such rules and regulations as the Secretary deems necessary to carry out this section.
 
-**(j) Application of other laws** The Federal Advisory Committee Act and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
+**(j) Application of other laws** Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created for the purpose of reviewing applications or proposals submitted under this section.
 
 **(k) Emphasis on sustainable agriculture** The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in [section 3103 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3103).
 
@@ -2552,8 +2558,6 @@ Section 3 of the Specialty Crops Competitiveness Act of 2004, referred to in sub
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (e)(1)(A), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§ 136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 136 of this title](./chapter-006-insecticides-and-environmental-pesticide-control.md#section-136) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
@@ -2564,6 +2568,8 @@ Section was enacted as the Competitive, Special, and Facilities Research Grant A
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (j). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
+
 2018—Subsec. (b)(2)(D)(iii) to (viii). Pub. L. 115–334, § 7504(1)(A), added cl. (iii) and redesignated former cls. (iii) to (vii) as (iv) to (viii), respectively.
 
 Subsec. (b)(2)(E)(v). Pub. L. 115–334, § 7504(1)(B), added cl. (v).
@@ -3464,19 +3470,19 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 **(e) Distribution of multiyear grants** In the case of multiyear grants, the Secretary shall distribute funds to grant recipients on a schedule which is reasonably related to the timetable required for the orderly conduct of the research project involved.
 
-**(f) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act [[7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
+**(f) Applicability of chapter 10 of title 5** Chapter 10 of title 5 and title XVIII of this Act [[7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, which is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2008—Subsec. (a). Pub. L. 110–246, § 7119, substituted “2012” for “2007”.
 
 Subsec. (b). Pub. L. 110–246, § 7120, inserted “(including 1890 Institutions (as defined in [section 7601 of this title](./chapter-103-agricultural-research-extension-and-education-reform.md#section-7601)))” after “universities”.
@@ -4012,13 +4018,17 @@ Pub. L. 97–98, title XIV, § 1432(b), Dec. 22, 1981, 95 Stat. 1311, as amended
 
 (2) **Condition** — The Secretary may only award a grant under this subsection to a college or university described in paragraph (1) if the Secretary determines that such college or university has established a competitive scholarship awards process for the award of scholarships to individuals described in such paragraph.
 
-(3) **Annual limitation** — Of the funds made available under subsection (b)(1), the Secretary may use not more than $10,000,000 to award grants under this subsection for the academic year beginning on July 1, 2020, and each of the three succeeding academic years.
+(3) **Annual limitation** — Of the funds made available under subsection (b)(1), the Secretary may use not more than $10,000,000 to award grants under this subsection for the academic year beginning on July 1, 2020, and each of the 4 succeeding academic years.
 
 (4) **Amount of grant** — Each grant made under this section shall be in an amount of not less than $500,000.
 
 **(b) Funding**
 
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $40,000,000 not later than October 1, 2019, to remain available until expended.
+(1) **Mandatory funding**
+
+  (A) *Funding* — Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $40,000,000 not later than October 1, 2019, to remain available until expended.
+
+  (B) *Additional funding* — Not later than 30 days after November 17, 2023, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $10,000,000, to remain available until expended.
 
 (2) **Discretionary funding** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2020 through 2023.
 
@@ -4042,6 +4052,11 @@ Another section 1446 of Pub. L. 95–113 amended [section 3104 of this title](./
 
 #### Prior Provisions
 A prior section 3222a, Pub. L. 95–113, title XIV, § 1446, as added Pub. L. 101–624, title XVI, § 1612(a), Nov. 28, 1990, 104 Stat. 3721; amended Pub. L. 102–237, title IV, § 402(9), (10), Dec. 13, 1991, 105 Stat. 1863, which related to resident instruction at 1890 land-grant colleges, including Tuskegee University, was repealed by Pub. L. 104–127, title VIII, § 855, Apr. 4, 1996, 110 Stat. 1172.
+
+#### Amendments
+2023—Subsec. (a)(3). Pub. L. 118–22, § 102(d)(5)(A)(i), substituted “4 succeeding” for “three succeeding”.
+
+Subsec. (b)(1). Pub. L. 118–22, § 102(d)(5)(A)(ii), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 
 <a id="section-3222b"></a>
@@ -5366,6 +5381,8 @@ Section, Pub. L. 95–113, title XIV, § 1473C, as added Pub. L. 99–198, title
 For definition of “this chapter”, referred to in subsec. (a), see note set out under [section 3102 of this title](./chapter-064-agricultural-research-extension-and-teaching.md#section-3102).
 
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

@@ -74,7 +74,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
       (I) the individual is an active-duty or retired officer of the Navy or Marine Corps in a grade not below the grade of captain or colonel, respectively; and
 
-      (II) at the time of the selection of that individual as President, the individual permanently appointed to the position of Provost and Academic Dean has a doctorate degree in such a field of study.
+      (II) at the time of the selection of that individual as President, the individual selected for the position of Provost and Chief Academic Officer has a doctorate degree in such a field of study.
 
   (B) A comprehensive understanding of the Department of the Navy, the Department of Defense, and joint and combined operations.
 
@@ -105,6 +105,8 @@ In subsection (b) the words “line and staff” and “as may be necessary” a
 A prior section 8542, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, authorized President to detail certain officers as chief and assistant chief of staff of wings of Air National Guard in Federal service, prior to repeal by Pub. L. 103–337, div. A, title XVI, § 1662(g)(2), Oct. 5, 1994, 108 Stat. 2996, effective Dec. 1, 1994. See [section 12502(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12502/b&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (a)(4)(A)(ii)(II). Pub. L. 117–263 substituted “selected for the position of Provost and Chief Academic Officer” for “permanently appointed to the position of Provost and Academic Dean”.
+
 2018—Pub. L. 115–232 renumbered [section 7042 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7042&num=0&edition=prelim) as this section.
 
 2011—Subsec. (a)(1)(A). Pub. L. 111–383 struck out comma after “captain”.
@@ -126,14 +128,14 @@ Pub. L. 108–375, div. A, title V, § 557(a)(1), (2), Oct. 28, 2004, 118 Stat. 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8543"></a>
-## § 8543. Provost and Academic Dean
-**(a)** There is at the Naval Postgraduate School the civilian position of Provost and Academic Dean. The Provost and Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy. Before making an appointment to the position of Provost and Academic Dean, the Secretary shall consult with the Board of Advisors for the Naval Postgraduate School and shall consider any recommendation of the leadership and faculty of the Naval Postgraduate School regarding an appointment to that position.
+## § 8543. Provost and Chief Academic Officer
+**(a)** There is at the Naval Postgraduate School the civilian position of Provost and Chief Academic Officer. An individual selected by the Secretary of the Navy for the position of Provost and Chief Academic Officer shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years. Before making an appointment to the position of Provost and Chief Academic Officer, the Secretary shall consult with the Board of Advisors for the Naval Postgraduate School and shall consider any recommendation of the leadership and faculty of the Naval Postgraduate School regarding an appointment to that position.
 
-**(b)** The Provost and Academic Dean is entitled to such compensation for his services as the Secretary prescribes, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
+**(b)** The Provost and Chief Academic Officer is entitled to such compensation for his services as the Secretary prescribes, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
 ### Statutory Notes
 
@@ -158,6 +160,12 @@ Level IV of the Executive Schedule, referred to in subsec. (b), is set out in [s
 A prior section 8543, act Aug. 10, 1956, ch. 1041, 70A Stat. 527, related to number of authorized aides, prior to repeal by Pub. L. 114–328, div. A, title V, § 502(pp)(1), Dec. 23, 2016, 130 Stat. 2106.
 
 #### Amendments
+2022—Pub. L. 117–263, § 554(a)(2)(A), substituted “Chief Academic Officer” for “Academic Dean” in section catchline.
+
+Pub. L. 117–263, § 554(a)(1)(A), substituted “Chief Academic Officer” for “Academic Dean” wherever appearing.
+
+Subsec. (a). Pub. L. 117–263, § 554(a)(1)(B), substituted “An individual selected by the Secretary of the Navy for the position of Provost and Chief Academic Officer shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.” for “The Provost and Academic Dean shall be appointed, to serve for periods of not more than five years, by the Secretary of the Navy.”
+
 2018—Pub. L. 115–232 renumbered [section 7043 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7043&num=0&edition=prelim) as this section.
 
 2004—Pub. L. 108–375, § 557(b)(3)(B), substituted “Provost and Academic Dean” for “Academic Dean” in section catchline.
@@ -181,7 +189,7 @@ Pub. L. 108–375, div. A, title V, § 557(b)(1), (2), Oct. 28, 2004, 118 Stat. 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8544"></a>
@@ -214,7 +222,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 8545. Officers of the other armed forces; enlisted members: admission
 **(a)**
 
-(1) The Secretary of the Navy may permit officers of the Army, Air Force, and Coast Guard to receive instruction at the Naval Postgraduate School. The numbers and grades of such officers shall be as agreed upon by the Secretary of the Navy with the Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security, respectively.
+(1) The Secretary of the Navy may permit officers of the Army, Air Force, Space Force, and Coast Guard to receive instruction at the Naval Postgraduate School. The numbers and grades of such officers shall be as agreed upon by the Secretary of the Navy with the Secretary of the Army, the Secretary of the Air Force, and the Secretary of Homeland Security, respectively.
 
 (2)
 
@@ -230,7 +238,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
     (ii) To be eligible to be provided instruction under this subparagraph, the enlisted member must have been awarded a baccalaureate degree by an institution of higher education.
 
-    (iii) Instruction under this subparagraph may be provided only on a space-available basis.
+    (iii) Instruction under this subparagraph may be provided.
 
     (iv) An enlisted member who successfully completes a course of instruction under this subparagraph may be awarded a master’s degree under [section 8548 of this title](./chapter-855-united-states-naval-postgraduate-school.md#section-8548).
 
@@ -246,7 +254,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (3) The requirements for payment of costs and fees under paragraph (1) shall be subject to such exceptions as the Secretary of Defense may prescribe for members of the armed forces who receive instruction at the Postgraduate School in connection with pursuit of a degree or certification as participants in the Cyber Scholarship program under chapter 112 of this title.
 
-**(c)** While receiving instruction at the Postgraduate School, members of the Army, Air Force, and Coast Guard are subject to such regulations, as determined appropriate by the Secretary of the Navy, as apply to students who are members of the naval service.
+**(c)** While receiving instruction at the Postgraduate School, members of the Army, Air Force, Space Force, and Coast Guard are subject to such regulations, as determined appropriate by the Secretary of the Navy, as apply to students who are members of the naval service.
 
 **(d)** The Secretary may not award a baccalaureate, masters, or doctorate degree to an enlisted member based upon instruction received at the Postgraduate School under subsection (a)(2)(C).
 
@@ -267,6 +275,12 @@ In subsection (c) the words “rules and” are omitted. The words “who are of
 A prior section 8545, act Aug. 10, 1956, ch. 1041, 70A Stat. 528, provided that cooking for enlisted members of Air Force should be superintended by officers of organizations to which members belonged, prior to repeal by Pub. L. 90–235, § 4(b)(1), Jan. 2, 1968, 81 Stat. 760.
 
 #### Amendments
+2023—Subsec. (a)(1). Pub. L. 118–31, § 915(1), substituted “Space Force, and Coast Guard” for “and Coast Guard”.
+
+Subsec. (c). Pub. L. 118–31, § 915(2), substituted “Space Force, and Coast Guard” for “and Coast Guard”.
+
+2022—Subsec. (a)(2)(D)(iii). Pub. L. 117–263 struck out “only on a space-available basis” after “provided”.
+
 2018—Pub. L. 115–232, § 807(c)(1), renumbered [section 7045 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7045&num=0&edition=prelim) as this section.
 
 Subsec. (a)(2)(D)(iv). Pub. L. 115–232, § 809(a), substituted “section 8548” for “section 7048”.
@@ -317,10 +331,10 @@ Subsec. (b). Pub. L. 96–513, § 513(23)(A), substituted reference to Transport
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8546"></a>

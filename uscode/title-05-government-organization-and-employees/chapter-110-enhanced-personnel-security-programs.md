@@ -52,21 +52,15 @@ source: >-
 
 (6) **Effect on other reviews.—** — Reviews conducted under paragraph (1) are in addition to investigations and reinvestigations conducted pursuant to section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341&num=0&edition=prelim)).
 
-**(d) Review.—**
-
-(1) **In general.—** — Beginning 2 years after the date of the implementation of the enhanced personnel security program of an agency under subsection (a), the Inspector General of the agency shall conduct at least 1 review to assess the effectiveness and fairness, which shall be determined in accordance with performance measures and standards established by the Director of National Intelligence, to covered individuals of the enhanced personnel security program of the agency.
-
-(2) **Submissions to dni.—** — The results of each review conducted under paragraph (1) shall be submitted to the Director of National Intelligence to assess the effectiveness and fairness of the enhanced personnel security programs across the Federal Government.
-
-**(e) Definitions.—** In this section—
+**(d) Definitions.—** In this section—
 
 (1) the term “agency” has the meaning given that term in section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 ([50 U.S.C. 3341](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3341&num=0&edition=prelim));
 
 (2) the term “consumer reporting agency” has the meaning given that term in section 603 of the Fair Credit Reporting Act ([15 U.S.C. 1681a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1681a&num=0&edition=prelim));
 
-(3) the term “covered individual” means an individual employed by an agency or a contractor of an agency who has been determined eligible for access to classified information or eligible to hold a sensitive position; 11 So in original. Probably should be followed by “and”.
+(3) the term “covered individual” means an individual employed by an agency or a contractor of an agency who has been determined eligible for access to classified information or eligible to hold a sensitive position; and
 
-(4) the term “enhanced personnel security program” means a program implemented by an agency at the direction of the Director of National Intelligence under subsection (a); and 22 So in original. The “; and” probably should be a period.
+(4) the term “enhanced personnel security program” means a program implemented by an agency at the direction of the Director of National Intelligence under subsection (a).
 
 ### Statutory Notes
 
@@ -74,6 +68,12 @@ source: >-
 The date of the enactment of the Intelligence Authorization Act for Fiscal Year 2016, referred to in subsec. (a)(2)(A), is the date of enactment of div. M of Pub. L. 114–113, which was approved Dec. 18, 2015.
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31, § 7327(b)(1), redesignated subsec. (e) as (d) and struck out former subsec. (d) which provided for review by the Inspector General of each agency of the enhanced personnel security program.
+
+Subsec. (d)(3), (4). Pub. L. 118–31, § 7327(b)(2), inserted “and” after the semicolon at end of par. (3) and substituted a period for “; and” at end of par. (4).
+
+Subsec. (e). Pub. L. 118–31, § 7327(b)(1)(B), redesignated subsec. (e) as (d).
+
 2019—Subsec. (d). Pub. L. 116–92 substituted “Review” for “Audit” in heading and “review” for “audit” in text of pars. (1) and (2).
 
 #### Resolution of Backlog of Overdue Periodic Reinvestigations

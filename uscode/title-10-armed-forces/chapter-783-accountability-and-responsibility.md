@@ -109,13 +109,13 @@ Pub. L. 110–181, div. A, title X, § 1063(c), Jan. 28, 2008, 122 Stat. 322, pr
 Pub. L. 109–163, div. A, title VI, § 683(a)(3), Jan. 6, 2006, 119 Stat. 3322, which provided for termination of amendments by Pub. L. 109–163, § 683(a), amending this section and the analysis to this chapter, on Dec. 31, 2007, and restoration of provisions as in effect on the day before Jan. 6, 2006, was repealed by Pub. L. 109–364, div. A, title VI, § 673(a)(3), Oct. 17, 2006, 120 Stat. 2271.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1962 Amendment
 Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 87–649, set out as an Effective Date note preceding [section 101 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section101&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Regulations
 Pub. L. 109–364, div. A, title VI, § 673(d), Oct. 17, 2006, 120 Stat. 2272, provided that: “The Secretary of Defense shall prescribe the regulations required for purposes of sections 4837, 6161, and 9837 [now 7837, 8271, and 9837] of title 10, United States Code, as amended by this section, not later than March 1, 2007.”

@@ -640,11 +640,17 @@ A prior section 1409, Pub. L. 91–230, title VI, § 610, as added Pub. L. 101�
 
 (1) **Outlying areas and freely associated States**
 
-  (A) *Funds reserved* — From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve not more than 1 percent, which shall be used—
+  (A) *Funds reserved* — From the amount appropriated for any fiscal year under subsection (i), the Secretary shall reserve not more than 1 percent, which shall be used as follows:
 
-    (i) to provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21; and
+    (i) To provide assistance to the outlying areas in accordance with their respective populations of individuals aged 3 through 21.
 
-    (ii) to provide each freely associated State a grant in the amount that such freely associated State received for fiscal year 2003 under this subchapter, but only if the freely associated State meets the applicable requirements of this subchapter, as well as the requirements of [section 1411(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/b/2/C&num=0&edition=prelim) as such section was in effect on the day before December 3, 2004.
+    (ii)
+
+      (I) To provide each freely associated State a grant so that no freely associated State receives a lesser share of the total funds reserved for the freely associated State than the freely associated State received of those funds for fiscal year 2023.
+
+      (II) Each freely associated State shall establish its eligibility under this subparagraph consistent with the requirements for a State under [section 1412 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1412).
+
+      (III) The funds provided to each freely associated State under this subchapter may be used to provide, to each infant or toddler with a disability (as defined in [section 1432 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1432)), either a free appropriate public education, consistent with [section 1412 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1412), or early intervention services consistent with subchapter III, notwithstanding the application and eligibility requirements of sections 1431(2), 1435, and 1437 of this title.
 
   (B) *Special rule* — The provisions of Public Law 95–134, permitting the consolidation of grants by the outlying areas, shall not apply to funds provided to the outlying areas or the freely associated States under this section.
 
@@ -990,6 +996,8 @@ A prior section 1411, Pub. L. 91–230, title VI, § 611, as added Pub. L. 105�
 Another prior section 1411, Pub. L. 91–230, title VI, § 611, Apr. 13, 1970, 84 Stat. 178; Pub. L. 93–380, title VI, § 614(a), (e)(1), (2), Aug. 21, 1974, 88 Stat. 580, 582; Pub. L. 94–142, §§ 2(a)(1)–(3), 5(a), (c), Nov. 29, 1975, 89 Stat. 773, 776, 794; Pub. L. 95–561, title XIII, § 1341(a), Nov. 1, 1978, 92 Stat. 2364; Pub. L. 96–270, § 13, June 14, 1980, 94 Stat. 498; Pub. L. 98–199, §§ 3(b), 15, Dec. 2, 1983, 97 Stat. 1358, 1374; Pub. L. 99–159, title VI, § 601, Nov. 22, 1985, 99 Stat. 904; Pub. L. 99–362, § 2, July 9, 1986, 100 Stat. 769; Pub. L. 99–457, title II, § 201(b), title IV, §§ 403, 404, Oct. 8, 1986, 100 Stat. 1158, 1173; Pub. L. 100–630, title I, § 102(a), Nov. 7, 1988, 102 Stat. 3290; Pub. L. 101–476, title II, § 201, title IX, § 901(b)(25)–(32), Oct. 30, 1990, 104 Stat. 1111, 1143; Pub. L. 102–73, title VIII, § 802(d)(2), (3), July 25, 1991, 105 Stat. 361; Pub. L. 102–119, §§ 4, 25(a)(4), (19), (b), Oct. 7, 1991, 105 Stat. 587, 606, 607; Pub. L. 103–382, title III, § 311, Oct. 20, 1994, 108 Stat. 3931, related to entitlements and allocations, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
+2024—Subsec. (b)(1)(A). Pub. L. 118–42 added subpar. (A) and struck out former subpar. (A) which related to reserving appropriated funds to provide assistance to outlying areas and grants to freely associated States.
+
 2015—Subsec. (e)(2)(C)(x). Pub. L. 114–95, § 9215(ss)(2)(A)(i), substituted “6361 of this title” for “7301 of this title”.
 
 Subsec. (e)(2)(C)(xi). Pub. L. 114–95, § 9215(ss)(2)(A)(ii), substituted “including direct student services described in [section 6303b(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6303b/c/3&num=0&edition=prelim) to children with disabilities, to schools or local educational agencies implementing comprehensive support and improvement activities or targeted support and improvement activities under [section 6311(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/d&num=0&edition=prelim) on the basis of consistent underperformance of the disaggregated subgroup of children with disabilities” for “including supplemental educational services as defined in 6316(e) of this title to children with disabilities, in schools or local educational agencies identified for improvement under [section 6316 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6316&num=0&edition=prelim) on the sole basis of the assessment results of the disaggregated subgroup of children with disabilities” and “based on the challenging academic standards described in [section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim)” for “to meet or exceed the objectives established by the State under [section 6311(b)(2)(G) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/2/G&num=0&edition=prelim)”.
@@ -1003,11 +1011,19 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 Subchapter effective July 1, 2005, see section 302(a) of Pub. L. 108–446, set out as a note under [section 1400 of this title](./chapter-033-education-of-individuals-with-disabilities.md#section-1400).
 
 #### Effect of Reduction
-Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 478, provided in part: “That the Secretary [of Education] may, in any fiscal year in which a State’s allocation under section 611 [[20 U.S.C. 1411](./chapter-033-education-of-individuals-with-disabilities.md#section-1411)] is reduced in accordance with section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)], reduce the amount a State may reserve under section 611(e)(1) [[20 U.S.C. 1411(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/e/1&num=0&edition=prelim)] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) [[20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) [[20 U.S.C. 1412(a)(18)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/A&num=0&edition=prelim)] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a](./chapter-031-general-provisions-concerning-education.md#section-1234a))”.
+Pub. L. 118–47, div. D, title III, Mar. 23, 2024, 138 Stat. 685, provided in part: “That the Secretary [of Education] may, in any fiscal year in which a State’s allocation under section 611 [[20 U.S.C. 1411](./chapter-033-education-of-individuals-with-disabilities.md#section-1411)] is reduced in accordance with section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)], reduce the amount a State may reserve under section 611(e)(1) [[20 U.S.C. 1411(e)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/e/1&num=0&edition=prelim)] by an amount that bears the same relation to the maximum amount described in that paragraph as the reduction under section 612(a)(18)(B) bears to the total allocation the State would have received in that fiscal year under section 611(d) [[20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] in the absence of the reduction: Provided further, That the Secretary shall either reduce the allocation of funds under section 611 for any fiscal year following the fiscal year for which the State fails to comply with the requirement of section 612(a)(18)(A) [[20 U.S.C. 1412(a)(18)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/A&num=0&edition=prelim)] as authorized by section 612(a)(18)(B), or seek to recover funds under section 452 of the General Education Provisions Act ([20 U.S.C. 1234a](./chapter-031-general-provisions-concerning-education.md#section-1234a))”.
 
-Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 478, provided in part: “That the amount by which a State’s allocation under section 611(d) of the IDEA [Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] is reduced under section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. H, title III, Dec. 29, 2022, 136 Stat. 4890.
+
+Pub. L. 118–47, div. D, title III, Mar. 23, 2024, 138 Stat. 685, provided in part: “That the amount by which a State’s allocation under section 611(d) of the IDEA [Individuals with Disabilities Education Act, [20 U.S.C. 1411(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411/d&num=0&edition=prelim)] is reduced under section 612(a)(18)(B) [[20 U.S.C. 1412(a)(18)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1412/a/18/B&num=0&edition=prelim)] and the amounts distributed to States under the previous provisos in fiscal year 2012 or any subsequent year shall not be considered in calculating the awards under section 611(d) for fiscal year 2013 or for any subsequent fiscal years”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. H, title III, Dec. 29, 2022, 136 Stat. 4890.
+
+Pub. L. 117–103, div. H, title III, Mar. 15, 2022, 136 Stat. 478.
 
 Pub. L. 116–260, div. H, title III, Dec. 27, 2020, 134 Stat. 1601.
 
@@ -1238,11 +1254,11 @@ Pub. L. 113–76, div. H, title III, Jan. 17, 2014, 128 Stat. 394.
 
   (C) *Qualifications for special education teachers* — The qualifications described in subparagraph (A) shall ensure that each person employed as a special education teacher in the State who teaches elementary school, middle school, or secondary school—
 
-    (i) has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State’s public charter school law;
+    (i) has obtained full State certification as a special education teacher (including participating in an alternate route to certification as a special educator, if such alternate route meets minimum requirements described in section 2005.56(a)(2)(ii) 11 So in original. Probably should be “200.56(a)(2)(ii)”. of title 34, Code of Federal Regulations, as such section was in effect on November 28, 2008), or passed the State special education teacher licensing examination, and holds a license to teach in the State as a special education teacher, except with respect to any teacher teaching in a public charter school who shall meet the requirements set forth in the State’s public charter school law;
 
     (ii) has not had special education certification or licensure requirements waived on an emergency, temporary, or provisional basis; and
 
-    (iii) holds at least a bachelor’s degree..11 So in original.
+    (iii) holds at least a bachelor’s degree..22 So in original.
 
   (D) *Policy* — In implementing this section, a State shall adopt a policy that includes a requirement that local educational agencies in the State take measurable steps to recruit, hire, train, and retain personnel who meet the applicable requirements described in this paragraph to provide special education and related services under this subchapter to children with disabilities.
 
@@ -2123,9 +2139,6 @@ A prior section 1414a, Pub. L. 91–230, title VI, § 614A, as added Pub. L. 103
 #### Amendments
 2015—Subsec. (b)(5)(A). Pub. L. 114–95 inserted “, as such section was in effect on the day before December 10, 2015” after “of this title”.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of this title](./chapter-070-strengthening-and-improvement-of-elementary-and-secondary-schools.md#section-6301).
 
@@ -2846,9 +2859,6 @@ The General Education Provisions Act, referred to in subsec. (g), is title IV of
 A prior section 1416, Pub. L. 91–230, title VI, § 616, as added Pub. L. 105–17, title I, § 101, June 4, 1997, 111 Stat. 99, related to withholding of payments and judicial review, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1416, Pub. L. 91–230, title VI, § 616, as added Pub. L. 94–142, § 5(a), Nov. 29, 1975, 89 Stat. 789; amended Pub. L. 98–199, § 3(b), Dec. 2, 1983, 97 Stat. 1358; Pub. L. 100–630, title I, § 102(f), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, § 901(b)(76), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, § 25(b), Oct. 7, 1991, 105 Stat. 607, related to withholding of payments, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-1417"></a>

@@ -82,13 +82,13 @@ Section 9 of the National Capital Transportation Act of 1969, referred to in par
 
 The Federal Farm Loan Act, referred to in par. Seventh, is act July 17, 1916, ch. 245, 39 Stat. 360, which was classified to section 641 et seq. of this title prior to its repeal by Pub. L. 92–181, § 5.26(a), Dec. 10, 1971, 85 Stat. 624. See chapter 23 (§ 2001 et seq.) of this title.
 
-The National Housing Act, referred to in par. Seventh, is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title XI of the National Housing Act is title XI of act June 27, 1934, ch. 847, as added by act Nov. 3, 1966, Pub. L. 89–754, title V, § 502(a), 80 Stat. 1274, which is classified generally to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in par. Seventh, is act June 27, 1934, ch. 847, 48 Stat. 1246. Title XI of the National Housing Act is title XI of act June 27, 1934, ch. 847, as added by act Nov. 3, 1966, Pub. L. 89–754, title V, § 502(a), 80 Stat. 1274, which is classified generally to subchapter IX–B (§ 1749aaa et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Section 110 of the Housing Act of 1949 [[42 U.S.C. 1460](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1460&num=0&edition=prelim)], referred to in par. Seventh, was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim), The Public Health and Welfare, which terminated authority to make grants or loans under title I of that Act [[42 U.S.C. 1450](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1450&num=0&edition=prelim) et seq.] after Jan. 1, 1975.
 
 The United States Housing Act of 1937, referred to in par. Seventh, is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, and is classified to chapter 8 (§ 1437 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) and Tables.
 
-The Housing and Urban Development Act of 1968, referred to in par. Seventh, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476, as amended. Title IX of the Housing and Urban Development Act is classified principally to chapter 49 (§ 3931 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The Housing and Urban Development Act of 1968, referred to in par. Seventh, is Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476. Title IX of the Housing and Urban Development Act is classified principally to chapter 49 (§ 3931 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title of 1968 Amendment note set out under [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Section 4 of the Securities Act of 1933, referred to in par. Seventh, was amended by section 201(b), (c) of Pub. L. 112–106, and the provisions which formerly appeared in section 4 of the Act now appear in section 4(a) of the Act.
 
@@ -436,7 +436,7 @@ The Gramm-Leach-Bliley Act, referred to in subsecs. (a)(2)(B)(iii), (b)(2)(A), (
 
 Section 25 of the Federal Reserve Act, referred to in subsec. (g)(3)(B), is classified to subchapter I (§ 601 et seq.) of chapter 6 of this title. Section 25A of the Federal Reserve Act is classified to subchapter II (§ 611 et seq.) of chapter 6 of this title.
 
-The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, as amended, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see [section 1861 of this title](./chapter-018-bank-service-companies.md#section-1861) and Tables.
+The Bank Service Company Act, referred to in subsec. (g)(3)(B), is Pub. L. 87–856, Oct. 23, 1962, 76 Stat. 1132, which is classified generally to chapter 18 (§ 1861 et seq.) of this title. For complete classification of this Act to the Code, see [section 1861 of this title](./chapter-018-bank-service-companies.md#section-1861) and Tables.
 
 #### Prior Provisions
 A prior section 5136A of the Revised Statutes was renumbered section 5136B by Pub. L. 106–102 and is classified to [section 25a of this title](./chapter-002-national-banks.md#section-25a).
@@ -775,9 +775,9 @@ Any bank incorporated by special law of any State or of the United States or org
 #### References in Text
 This Act, referred to in first par., may refer to the Federal Reserve Act, act Dec. 23, 1913, from which this wording is derived; or section 5154 of the Revised Statutes which the Federal Reserve Act amended; or act June 3, 1864, from which R.S. § 5154 was derived; or Congress might have intended to refer to the preceding provisions of the 1913 amendment. Similar reference in R.S. § 5154 prior to 1913 amendment was to “this Title,” meaning title 62 of the Revised Statutes, which title comprised the National Bank Act (June 3, 1864, ch. 106, 13 Stat. 99). See [section 38 of this title](./chapter-002-national-banks.md#section-38). Note also specific reference to the Federal Reserve Act and the National Banking Act in first par.
 
-The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
-The National Banking Act, referred to in text, is probably intended to be a reference to the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
+The National Banking Act, referred to in text, is probably intended to be a reference to the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
 #### Codification
 R.S. § 5154 derived from act June 3, 1864, ch. 106, § 44, 13 Stat. 112, which was the National Bank Act. See [section 38 of this title](./chapter-002-national-banks.md#section-38).
@@ -984,7 +984,7 @@ The Act entitled “An Act to provide a national currency secured by a pledge of
 ### Statutory Notes
 
 #### References in Text
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, as amended. The act was incorporated into the Revised Statutes as R.S. §§ 324 to 327, 328 to 331, 333, 380, 563, 629, 736, 884, 885, 3473, 3475, 3651, 5133 to 5136, 5137 to 5154, 5156, 5158 to 5170, 5172, 5173, 5175, 5177, 5182 to 5184, 5187, 5189, 5190 to 5192, 5195 to 5204, 5206, 5209 to 5211, 5214 to 5215, 5219 to 5222, 5224 to 5239, 5240 to 5242, 5417, which are classified to sections 1 to 4, 8, 11 to 14, 21, 22 to 24, 26, 27, 29, 35, 39, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 84 to 86, 90, 91, 93, 94, 141 to 144, 161, 165, 181, 182, 192 to 194, 196, 481 to 485, 541, and 548 of this title, [section 197 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section197&num=0&edition=prelim), Customs Duties, and section 543 of former Title 31, Money and Finance. See, also, sections 8, 333, 334, 471, 472, 656, and 1005 of Title 18, Crimes and Criminal Procedure, and sections 507, 1348, 1394, and 1733 of Title 28, Judiciary and Judicial Procedure.
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99. The act was incorporated into the Revised Statutes as R.S. §§ 324 to 327, 328 to 331, 333, 380, 563, 629, 736, 884, 885, 3473, 3475, 3651, 5133 to 5136, 5137 to 5154, 5156, 5158 to 5170, 5172, 5173, 5175, 5177, 5182 to 5184, 5187, 5189, 5190 to 5192, 5195 to 5204, 5206, 5209 to 5211, 5214 to 5215, 5219 to 5222, 5224 to 5239, 5240 to 5242, 5417, which are classified to sections 1 to 4, 8, 11 to 14, 21, 22 to 24, 26, 27, 29, 35, 39, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 84 to 86, 90, 91, 93, 94, 141 to 144, 161, 165, 181, 182, 192 to 194, 196, 481 to 485, 541, and 548 of this title, [section 197 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section197&num=0&edition=prelim), Customs Duties, and section 543 of former Title 31, Money and Finance. See, also, sections 8, 333, 334, 471, 472, 656, and 1005 of Title 18, Crimes and Criminal Procedure, and sections 507, 1348, 1394, and 1733 of Title 28, Judiciary and Judicial Procedure.
 
 
 <a id="section-39"></a>
@@ -1011,7 +1011,7 @@ The National Bank Act, as amended [[12 U.S.C. 21](./chapter-002-national-banks.m
 ### Statutory Notes
 
 #### References in Text
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
 
 <a id="section-41"></a>
@@ -1022,7 +1022,7 @@ The National Bank Act [[12 U.S.C. 21](./chapter-002-national-banks.md#section-21
 ### Statutory Notes
 
 #### References in Text
-The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
+The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
 
 <a id="section-42"></a>
@@ -2092,7 +2092,7 @@ Except to the extent that authority to issue such rules and regulations has been
 ### Statutory Notes
 
 #### References in Text
-The Glass-Steagall Act, referred to in text, probably refers to act June 16, 1933, ch. 89, 48 Stat. 162, as amended, also known as the Banking Act of 1933 or the Glass-Steagall Act, 1933, rather than to act Feb. 27, 1932, ch. 58, 47 Stat. 56, known as the Glass-Steagall Act, 1932. Section 16 of the 1933 act, which amended section 24 (Seventh) of this title, related in part to securities activities of national banks. For complete classification of these Acts to the Code, see Tables.
+The Glass-Steagall Act, referred to in text, probably refers to act June 16, 1933, ch. 89, 48 Stat. 162, also known as the Banking Act of 1933 or the Glass-Steagall Act, 1933, rather than to act Feb. 27, 1932, ch. 58, 47 Stat. 56, known as the Glass-Steagall Act, 1932. Section 16 of the 1933 act, which amended section 24 (Seventh) of this title, related in part to securities activities of national banks. For complete classification of these Acts to the Code, see Tables.
 
 
 <a id="section-94"></a>
@@ -2405,7 +2405,7 @@ Section 153, act Feb. 14, 1880, ch. 25, 21 Stat. 66, related to conversion of go
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Codification
 R.S. § 5211 derived from act June 3, 1864, ch. 106, § 34, 13 Stat. 109, which was the National Bank Act, and act Mar. 3, 1869, ch. 130, § 1, 15 Stat. 326. See [section 38 of this title](./chapter-002-national-banks.md#section-38).
@@ -2764,7 +2764,7 @@ R.S. § 5238 derived from act June 3, 1864, ch. 106, § 51, 13 Stat. 115, which 
 #### References in Text
 Section fifty-two hundred and thirty-four and other sections of the Revised Statutes of the United States, referred to in subsec. (a), are classified to [section 192 of this title](./chapter-002-national-banks.md#section-192) and other sections of the Code. See Tables.
 
-This Act, referred to in subsec. (a), is act June 30, 1876, ch. 156, 19 Stat. 63, as amended, sections 1 to 4 of which are classified as a note under [section 191 of this title](./chapter-002-national-banks.md#section-191) and to [section 191 of this title](./chapter-002-national-banks.md#section-191), this section, and [section 55 of this title](./chapter-002-national-banks.md#section-55), respectively. Section 5 of the Act, which was classified to section 424 of former Title 31, was repealed and reenacted as [section 5153 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5153&num=0&edition=prelim), Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
+This Act, referred to in subsec. (a), is act June 30, 1876, ch. 156, 19 Stat. 63, sections 1 to 4 of which are classified as a note under [section 191 of this title](./chapter-002-national-banks.md#section-191) and to [section 191 of this title](./chapter-002-national-banks.md#section-191), this section, and [section 55 of this title](./chapter-002-national-banks.md#section-55), respectively. Section 5 of the Act, which was classified to section 424 of former Title 31, was repealed and reenacted as [section 5153 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5153&num=0&edition=prelim), Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.
 
 #### Amendments
 1959—Subsec. (a). Pub. L. 86–230 designated former first par., less last sentence, as subsec. (a), and incorporated references to Federal Deposit Insurance Corporation respecting receiverships under [section 1821(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1821/c&num=0&edition=prelim), convocation of shareholders, transfer of assets, execution of instruments and discharge from liability, omitted provision for deposit of money with the Treasurer of the United States for the redemption of the circulating notes of the association, and for the value of shares as a test to determine whether a majority vote has been cast in a stockholders’ meeting, required the windup agent to file a bond to the shareholders in an amount satisfactory to them with sureties approved by appropriate district court instead of a bond from the shareholders satisfactory to the Comptroller and to condition the bond to payment of proved claims to the extent possible from the remaining instead of payment of the claims in full, only.
@@ -2888,7 +2888,7 @@ The appointment of a conservator pursuant to this subsection shall not be subjec
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (d), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 This Act, referred to in subsec. (d), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, popularly known as the Emergency Banking and Bank Conservation Act, which is classified to sections 51a, 51b, 51c, 51d, 95, 201 to 212, 248, 347b, 347c, 347d, 445 of this title and to [section 4305 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305&num=0&edition=prelim), War and National Defense, and classified as a note under [section 4305 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4305&num=0&edition=prelim).
 
@@ -2948,7 +2948,7 @@ Functions vested by any provision of law in Comptroller of the Currency, referre
 ### Statutory Notes
 
 #### References in Text
-The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (c), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Amendments
 1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “If the Comptroller of the Currency becomes satisfied that it may safely be done and that it would be in the public interest, he may, in his discretion, terminate the conservatorship and permit such bank to resume the transaction of its business subject to such terms, conditions, restrictions and limitations as he may prescribe.”
@@ -3034,7 +3034,7 @@ This Act, referred to in subsec. (a), is act Mar. 9, 1933, ch. 1, 48 Stat. 1, po
 
 [Section 51d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section51d&num=0&edition=prelim) was repealed by act June 30, 1947, ch. 166, title II, § 206(b), (o), 61 Stat. 208. For effect of the repeal on outstanding debentures held by banks, see References in Text note set out under [section 51b–1 of this title](./chapter-002-national-banks.md#section-51b-1).
 
-The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Amendments
 1989—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “The Comptroller of the Currency is authorized and empowered, with the approval of the Secretary of the Treasury, to prescribe such rules and regulations as he may deem necessary in order to carry out the provisions of this subchapter. Whoever violates any rule or regulation made pursuant to this section shall be deemed guilty of a misdemeanor and, upon conviction thereof, shall be fined not more than $5,000, or imprisoned not more than one year, or both.”
@@ -3242,7 +3242,7 @@ Subsec. (f). Pub. L. 112–231, § 2(b)(2)(B)(ii), substituted “or receiver”
 ### Statutory Notes
 
 #### References in Text
-The Bank Holding Company Act of 1956, referred to in subsec. (e), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (e), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
 
 <a id="section-215a-3"></a>
@@ -3303,7 +3303,7 @@ Provisions similar to those comprising this section were contained in section 5 
 #### References in Text
 [Section 1815(d)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1815/d/3&num=0&edition=prelim), referred to in subsec. (a), which related to optional conversions by insured depository institutions subject to special rules on deposit insurance payments, was struck out and former section 1815(d)(1)(C) redesignated section 1815(d)(3) by Pub. L. 109–173, § 8(a)(4), (5)(D), Feb. 15, 2006, 119 Stat. 3610, 3611.
 
-This Act, referred to in subsec. (c), probably means the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
+This Act, referred to in subsec. (c), probably means the National Bank Act, act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
 #### Codification
 Section was not enacted as part of act Nov. 7, 1918, ch. 209, as added Sept. 8, 1959, Pub. L. 86–230, § 20, 73 Stat. 460, which comprises this subchapter.

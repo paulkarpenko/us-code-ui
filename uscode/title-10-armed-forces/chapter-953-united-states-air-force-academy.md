@@ -71,7 +71,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 108–136, div. A, title V, § 529(d), Nov. 24, 2003, 117 Stat. 1472, provided that: “The amendments made by this section [amending this section and sections 9335 and 9336 of this title] shall apply with respect to any Dean of the Faculty of the United States Air Force Academy selected on or after the date of the enactment of this Act [Nov. 24, 2003].”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Appropriations for the Air Force Academy After August 1, 1964; Requirement of Authorization in Subsequent Legislation; Appropriations for Advance Planning and Minor Construction
 Pub. L. 88–390, title VI, § 608, Aug. 1, 1964, 78 Stat. 364, provided that: “Notwithstanding the provisions of section 9 of the Act of April 1, 1954 (Public Law 325) as amended [set out below], no funds may be appropriated after the date of enactment of this Act [Aug. 1, 1964] for construction at the Air Force Academy unless appropriation of such funds has been authorized in this Act [Military Construction Authorization Act, 1965] or any Act enacted after the date of enactment of this Act: Provided, That funds are authorized to be appropriated to accomplish advance planning and minor construction at the Air Force Academy in the same manner as for other projects under the Act of September 28, 1951, as amended ([31 U.S.C. 723](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section723&num=0&edition=prelim)) [[10 U.S.C. 2661a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2661a/a&num=0&edition=prelim)], and title 10, United States Code, section 2674, as amended.”
@@ -238,14 +238,14 @@ Amendment by Pub. L. 108–136 applicable with respect to any Dean of the Facult
 Amendment by Pub. L. 99–661 applicable with respect to appointments or details made on or after Nov. 14, 1986, see section 508(f) of Pub. L. 99–661, set out as an Effective Date note under [section 12210 of this title](./chapter-1205-appointment-of-reserve-officers.md#section-12210).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9436"></a>
 ## § 9436. Permanent professors; director of admissions
-**(a)** A permanent professor of the Academy who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel in the Air Force or the equivalent grade in the Space Force. However, a permanent professor appointed from the Regular Air Force has the grade of colonel and a permanent professor appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force after the date when such person completes six years of service as a professor, or after the date on which such person would have been promoted had such person been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel in the Air Force or the equivalent grade in the Space Force.
+**(a)** A permanent professor of the Academy who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel in the Air Force or the Space Force. However, a permanent professor appointed from the Regular Air Force or the Space Force has the grade of colonel after the date when such person completes six years of service as a professor, or after the date on which such person would have been promoted had such person been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel in the Air Force or the Space Force.
 
-**(b)** A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel in the Air Force or the equivalent grade in the Space Force, and, after such person has served six years as director of admissions, has the regular grade of colonel in the Air Force or the equivalent grade in the Space Force. However, a person appointed from the Regular Air Force has the regular grade of colonel and a person appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force after the date when such person completes six years of service as director of admissions, or after the date on which such person would have been promoted had such person been selected for promotion from among officers in the promotion zone, whichever is earlier.
+**(b)** A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel in the Air Force or the grade of lieutenant colonel in the Space Force, and, after such person has served six years as director of admissions, has the regular grade of colonel in the Air Force or the grade of lieutenant colonel in the Space Force. However, a person appointed from the Regular Air Force has the regular grade of colonel and a person appointed from the Space Force has the grade of colonel in the Space Force after the date when such person completes six years of service as director of admissions, or after the date on which such person would have been promoted had such person been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
 ### Statutory Notes
 
@@ -261,6 +261,10 @@ The word “grade” is substituted for the word “rank”. The words “pay, a
 The word “regular” is deleted [in sections 9335 and 9336] to make clear that a Dean or professor of the United States Air Force Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 1721(c)(1)(A), struck out “the equivalent grade in” before “the Space Force.” in two places and “and a permanent professor appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” before “after the date when such person completes” and inserted “or the Space Force” after “from the Regular Air Force”.
+
+Subsec. (b). Pub. L. 118–31, § 1721(c)(1)(B), substituted “the grade of lieutenant colonel in” for “the equivalent grade in” in two places and “Space Force has the grade of colonel in the Space Force” for “Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force”.
+
 2021—Pub. L. 116–283, § 923(d)(9)(B), substituted “such person” for “he” wherever appearing.
 
 Subsec. (a). Pub. L. 116–283, § 923(d)(9)(A)(i), inserted “in the Air Force or the equivalent grade in the Space Force” after “grade of colonel”, “and a permanent professor appointed from the Regular Space Force has the grade equivalent to the grade of colonel in the Regular Air Force” after “Force has the grade of colonel”, and “in the Air Force or the equivalent grade in the Space Force” after “lieutenant colonel”.
@@ -298,10 +302,10 @@ Amendment by Pub. L. 108–136 applicable with respect to any Dean of the Facult
 #### Effective Date of 1980 Amendment
 Amendment by section 218(b) of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513.
 
-Amendment by section 504(24) of Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 504(24) of Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective August 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective August 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Service Performed as Registrar Prior to August 6, 1958
 Prohibition against accrual of increase in pay or allowances for service performed prior to Aug. 6, 1958, see note set out under [section 7436 of this title](./chapter-753-united-states-military-academy.md#section-7436).
@@ -391,12 +395,12 @@ Section effective with respect to nominations for appointment to the first class
 
 (7) Six cadets from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
 
-(8) Four cadets from Guam, nominated by the Delegate in Congress from Guam.
+(8) Five cadets from Guam, nominated by the Delegate in Congress from Guam.
 
 (9) Three cadets from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 (10) Three cadets from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
-Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons 11 See Applicability of Amendment note below. for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a cadet, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
 **(b)** In addition, there may be appointed each year at the Academy cadets as follows:
 
@@ -406,18 +410,18 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 
   (B) are, or who died while they were, retired with pay or granted retired or retainer pay;
 
-  (C) are serving as members of reserve components and are credited with at least eight years of service computed under [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733); or
+  (C) are serving as members of reserve components, or the Space Force, and are credited with at least eight years of service computed under [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733); or
 
   (D) would be, or who died while they would have been, entitled to retired pay under chapter 1223 of this title except for not having attained 60 years of age;
   however, a person who is eligible for selection under paragraph (1) of subsection (a) may not be selected under this paragraph.
 
-(2) 85 nominated by the Secretary of the Air Force from enlisted members of the Regular Air Force or the Regular Space Force.
+(2) 85 nominated by the Secretary of the Air Force from enlisted members of the Regular Air Force or the Space Force.
 
 (3) 85 nominated by the Secretary of the Air Force from enlisted members of reserve components of the Air Force.
 
 (4) 20 nominated by the Secretary of the Air Force, under regulations prescribed by the Secretary, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Air Force Reserve Officers’ Training Corps.
 
-(5) 150 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to [section 9443 of this title](./chapter-953-united-states-air-force-academy.md#section-9443)) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
+(5) 200 1 selected by the Secretary of the Air Force in order of merit (prescribed pursuant to [section 9443 of this title](./chapter-953-united-states-air-force-academy.md#section-9443)) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 
 **(c)** The President may also appoint as cadets at the Academy children of persons who have been awarded the Medal of Honor for acts performed while in the armed forces.
 
@@ -499,12 +503,27 @@ In subsection (g), the words “(National Guard of the United States, the Air Na
 
 In subsection (h), the words “or shall hereafter be” are omitted as surplusage.
 
+#### Applicability of Amendment
+Amendment of section by section 561(c) of Pub. L. 118–31 applicable to nominations of candidates and appointments to the Service Academies for classes entering such Service Academies beginning with the 2025-2026 academic year. See 2023 Amendment note below.
+
 #### Prior Provisions
 A prior section 9442 was renumbered [section 9492 of this title](./chapter-959-civil-air-patrol.md#section-9492).
 
 Another prior section 9442, added Pub. L. 98–525, title XV, § 1533(b)(1), Oct. 19, 1984, 98 Stat. 2632, related to assistance of Civil Air Patrol by other agencies, prior to the general amendment of former chapter 909 (now 959) of this title by Pub. L. 106–398.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 561(c)(1), substituted “15 persons” for “10 persons” in concluding provisions.
+
+Subsec. (a)(8). Pub. L. 118–31, § 562(c), substituted “Five” for “Four”.
+
+Subsec. (b)(1)(C). Pub. L. 118–31, § 1721(c)(2)(A), inserted “, or the Space Force,” after “members of reserve components”.
+
+Subsec. (b)(2). Pub. L. 118–31, § 1721(c)(2)(B), struck out “Regular” before “Space Force”.
+
+Subsec. (b)(5). Pub. L. 118–31, § 561(c)(2), substituted “200” for “150”.
+
+2022—Subsec. (b)(5). Pub. L. 117–263 substituted “paragraphs (3) through (10)” for “paragraphs (3) and (4)”.
+
 2021—Pub. L. 116–283, § 923(d)(10)(A)(i), substituted “cadets” for “Air Force Cadets” wherever appearing.
 
 Subsec. (b)(2). Pub. L. 116–283, § 923(d)(10)(A)(ii), inserted “or the Regular Space Force” after “Regular Air Force”.
@@ -619,6 +638,9 @@ Subsec. (b)(3). Pub. L. 89–650, § 1(5), substituted “reserve components of 
 
 Subsec. (c). Pub. L. 87–663, § 1(6), inserted references to American Samoa, Guam, and the Virgin Islands, and substituted “Clauses (1)–(5) and (10)” for “clauses (1)–(5)”.
 
+#### Effective Date of 2023 Amendment
+Amendment by section 561(c) of Pub. L. 118–31 applicable to nominations of candidates and appointments to the Service Academies for classes entering such Service Academies beginning with the 2025-2026 academic year, see section 561(d) of Pub. L. 118–31, set out as a note under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442).
+
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
@@ -646,7 +668,7 @@ Amendment by Pub. L. 97–60 effective with respect to nominations for appointme
 #### Effective Date of 1980 Amendments
 Amendment by Pub. L. 96–600 effective beginning with nominations for appointment to the service academies for academic years beginning more than one year after Dec. 24, 1980, see section 2(d) of Pub. L. 96–600, set out as a note under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442).
 
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1973 Amendment
 Amendment by Pub. L. 93–171 effective beginning with the nominations for appointment to the service academies in the calendar year 1974, see section 4 of Pub. L. 93–171, set out as a note under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442).
@@ -793,23 +815,19 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (2) That upon graduation from the Academy the cadet—
 
-  (A) will accept an appointment, if tendered, as a commissioned officer of the Regular Air Force or the Regular Space Force; and
+  (A) will accept an appointment, if tendered, as a commissioned officer of the Regular Air Force or the Space Force; and
 
   (B) will serve on active duty for at least five years immediately after such appointment.
 
-(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer before completion of the commissioned service obligation of the cadet, the cadet—
+(3) That if an appointment described in paragraph (2) is not tendered or if the cadet is permitted to resign as a regular officer, or to terminate the officer’s order to sustained duty in the Space Force before completion of the commissioned service obligation of the cadet, the cadet—
 
-  (A) will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve or as a Reserve in the Space Force for service in the Space Force Reserve; and
+  (A) will accept an appointment as a commissioned officer as a Reserve in the Air Force for service in the Air Force Reserve or will accept further assignment in a space force active status; and
 
-  (B) will remain in that reserve component until completion of the commissioned service obligation of the cadet.
+  (B) will remain in that reserve component, or the Space Force, until completion of the commissioned service obligation of the cadet.
 
 (4) That if an appointment described in paragraph (2) or (3) is tendered and the cadet participates in a program under [section 2121 of this title](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2121), the cadet will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under [section 2123 of this title](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2123) for participation in such program.
 
-(5) That the cadet—
-
-  (A) will not seek release from the cadet’s commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
-
-  (B) understands that the appointment alternative described in paragraph (2) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period.
+(5) That the cadet may not obtain employment as a professional athlete until two years after the cadet graduates from the Academy.
 
 **(b)**
 
@@ -819,15 +837,23 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (3) For the purposes of paragraph (1), a cadet shall be considered to have breached an agreement under subsection (a) if the cadet is separated from the Academy under circumstances which the Secretary determines constitute a breach by the cadet of the cadet’s agreement to complete the course of instruction at the Academy and accept an appointment as a commissioned officer upon graduation from the Academy.
 
+(4) A cadet who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).
+
 **(c)** The Secretary of the Air Force shall prescribe regulations to carry out this section. Those regulations shall include—
 
 (1) standards for determining what constitutes, for the purpose of subsection (b), a breach of an agreement under subsection (a);
 
-(2) procedures for determining whether such a breach has occurred; and
+(2) that a cadet who obtains employment as a professional athlete—
 
-(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection(b).
+  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection; and
 
-**(d)** In this section, the term “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer’s appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+  (B) at least two years after the cadet graduates from the Academy has not breached an agreement under subsection (a);
+
+(3) procedures for determining whether such a breach has occurred; and
+
+(4) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection(b).
+
+**(d)** In this section, the term “commissioned service obligation”, with respect to a cadet, means the period beginning on the date of the cadet’s appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 **(e)**
 
@@ -835,7 +861,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (2) In the case of a cadet who is a minor and who has parents or a guardian, the cadet may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-**(f)** A cadet or former cadet who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+**(f)** A cadet or former cadet who does not fulfill each term of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 ### Statutory Notes
 
@@ -850,6 +876,28 @@ The word “agreement” is substituted for the word “articles”. The words �
 A prior section 9448 was renumbered [section 9498 of this title](./chapter-959-civil-air-patrol.md#section-9498).
 
 #### Amendments
+2023—Subsec. (a)(2)(A). Pub. L. 118–31, § 1721(c)(3)(A), struck out “Regular” before “Space Force”.
+
+Subsec. (a)(3). Pub. L. 118–31, § 1721(c)(3)(B)(i), inserted “, or to terminate the officer’s order to sustained duty in the Space Force” after “resign as a regular officer” in introductory provisions.
+
+Subsec. (a)(3)(A). Pub. L. 118–31, § 1721(c)(3)(B)(ii), substituted “or will accept further assignment in a space force active status” for “or as a Reserve in the Space Force for service in the Space Force Reserve”.
+
+Subsec. (a)(3)(B). Pub. L. 118–31, § 1721(c)(3)(B)(iii), inserted “, or the Space Force,” after “that reserve component”.
+
+2022—Subsec. (a)(5). Pub. L. 117–263, § 553(c)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the cadet—
+
+“(A) will not seek release from the cadet’s commissioned service obligation or seek or accept approval for off-duty employment while completing the cadet’s commissioned service obligation to obtain employment as a professional athlete following graduation until the cadet completes a period of at least two consecutive years of commissioned service; and
+
+“(B) understands that the appointment alternative described in paragraph (2) will not be used to allow the cadet to obtain such employment until at least the end of that two-year period.”
+
+Subsec. (b)(4). Pub. L. 117–263, § 553(c)(2), added par. (4).
+
+Subsec. (c)(2) to (4). Pub. L. 117–263, § 553(c)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (d). Pub. L. 117–263, § 553(c)(4), substituted “with respect to a cadet” for “with respect to an officer who is a graduate of the Academy” and “cadet’s” for “officer’s”.
+
+Subsec. (f). Pub. L. 117–263, § 553(c)(5), substituted “each term” for “the terms”.
+
 2021—Subsec. (a)(2)(A). Pub. L. 116–283, § 923(d)(11)(A), inserted “or the Regular Space Force” after “Regular Air Force”.
 
 Subsec. (a)(3)(A). Pub. L. 116–283, § 923(d)(11)(B), inserted “or as a Reserve in the Space Force for service in the Space Force Reserve” after “Air Force Reserve”.
@@ -895,6 +943,9 @@ Subsec. (a)(3). Pub. L. 98–525, § 542(d), substituted “at least the sixth a
 1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–263 only applicable to cadets or midshipmen who first enroll in the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after June 1, 2021, see section 553(d) of Pub. L. 117–263, as added by section 202(a) of Pub. L. 117–328, set out as a note under [section 7448 of this title](./chapter-753-united-states-military-academy.md#section-7448).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -1026,7 +1077,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b)** If a cadet who is charged with violating a regulation issued under subsection (a), the penalty for which is or may be dismissal from the Academy, requests in writing a trial by a general court-martial, he may not be dismissed for that offense except under sentence of such a court.
 
-**(c)** A cadet dismissed from the Academy for hazing may not be reappointed as a cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, Marine Corps, or Space Force, until two years after the graduation of his class.
+**(c)** A cadet dismissed from the Academy for hazing may not be reappointed as a cadet, and is ineligible for appointment as a commissioned officer in a regular component of the Army, Navy, Air Force, or Marine Corps, or in the Space Force, until two years after the graduation of his class.
 
 ### Statutory Notes
 
@@ -1042,6 +1093,8 @@ In subsection (b), the words “the penalty for which is or may be” are substi
 In subsection (c), the words “a regular component” are inserted, since the source statute historically applied only to the regular components.
 
 #### Amendments
+2023—Subsec. (c). Pub. L. 118–31 substituted “or Marine Corps, or in the Space Force,” for “Marine Corps, or Space Force,”.
+
 2021—Subsec. (c). Pub. L. 116–283 substituted “as a cadet” for “as an Air Force cadet” and “Marine Corps, or Space Force” for “or Marine Corps”.
 
 2018—Pub. L. 115–232 renumbered [section 9352 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9352&num=0&edition=prelim) as this section.
@@ -1054,7 +1107,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 9453. Cadets: degree and commission on graduation
 **(a)** The Superintendent of the Academy may, under such conditions as the Secretary of the Air Force may prescribe, confer the degree of bachelor of science upon graduates of the Academy.
 
-**(b)** Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force or in the equivalent grade in the Regular Space Force under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
+**(b)** Notwithstanding any other provision of law, a cadet who completes the prescribed course of instruction may, upon graduation, be appointed a second lieutenant in the Regular Air Force under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531) or a second lieutenant in the Space Force under section 531 or 20201 of this title.
 
 ### Statutory Notes
 
@@ -1079,6 +1132,8 @@ It is unnecessary to include a reference to [section 541 of title 10](./chapter-
 The change reflects the opinion of the Judge Advocate General of the Air Force (July 19, 1957) that the words “from and after the date of the accrediting of said academies” in the source law for section 9353(a) (Act of May 25, 1933, ch. 37 (48 Stat. 73), as amended) were a condition precedent to the authority to grant degrees and should not have been omitted.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31 struck out “or in the equivalent grade in the Regular Space Force” after “Regular Air Force” and inserted before period at end “or a second lieutenant in the Space Force under section 531 or 20201 of this title”.
+
 2021—Subsec. (b). Pub. L. 116–283 inserted “or in the equivalent grade in the Regular Space Force” after “Regular Air Force”.
 
 2018—Pub. L. 115–232 renumbered [section 9353 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9353&num=0&edition=prelim) as this section.
@@ -1095,10 +1150,10 @@ Subsec. (b). Pub. L. 85–861, § 1(201), struck out “except [section 541 of t
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1958 Amendment
-Amendment by section 33(a)(43) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 33(a)(43) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9454"></a>

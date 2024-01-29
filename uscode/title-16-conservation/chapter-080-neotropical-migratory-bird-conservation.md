@@ -32,6 +32,9 @@ Congress finds that—
 #### Amendments
 2006—Par. (1). Pub. L. 109–363 inserted “but breed in Canada and the United States” after “the Caribbean”.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–51, § 1, Apr. 24, 2024, 138 Stat. 1005, provided that: “This Act [amending sections 6103, 6104, 6106, and 6109 of this title] may be cited as the ‘Migratory Birds of the Americas Conservation Enhancements Act of 2023’.”
+
 #### Short Title of 2006 Amendment
 Pub. L. 109–363, title III, § 301, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title [amending this section and sections 6102 to 6104 and 6106 to 6109 of this title and enacting provisions set out as notes under sections 6106 and 6108 of this title] may be cited as the ‘Neotropical Migratory Bird Conservation Improvement Act of 2006’.”
 
@@ -61,11 +64,9 @@ The purposes of this chapter are—
 
 In this chapter:
 
-(1) **Fund** — The term “Fund” means the Neotropical Migratory Bird Conservation Fund established by [section 6108(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6108/a&num=0&edition=prelim).11 So in original. Pars. (1) and (4) have identical text.
+(1) **Caribbean** — The term “Caribbean” includes Puerto Rico and the United States Virgin Islands.
 
-(2) **Caribbean** — The term “Caribbean” includes Puerto Rico and the United States Virgin Islands.
-
-(3) **Conservation** — The term “conservation” means the use of methods and procedures necessary to bring a species of neotropical migratory bird to the point at which there are sufficient populations in the wild to ensure the long-term viability of the species, including—
+(2) **Conservation** — The term “conservation” means the use of methods and procedures necessary to bring a species of neotropical migratory bird to the point at which there are sufficient populations in the wild to ensure the long-term viability of the species, including—
 
   (A) protection and management of neotropical migratory bird populations;
 
@@ -77,13 +78,15 @@ In this chapter:
 
   (E) community outreach and education.
 
-(4) **Fund** — The term “Fund” means the Neotropical Migratory Bird Conservation Fund established by [section 6108(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6108/a&num=0&edition=prelim).1
+(3) **Fund** — The term “Fund” means the Neotropical Migratory Bird Conservation Fund established by [section 6108(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6108/a&num=0&edition=prelim).
 
-(5) **Secretary** — The term “Secretary” means the Secretary of the Interior.
+(4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Pub. L. 118–51 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “The term ‘Fund’ means the Neotropical Migratory Bird Conservation Fund established by [section 6108(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6108/a&num=0&edition=prelim).”
+
 2006—Par. (1). Pub. L. 109–363, § 302(h)(3)(A), added par. (1) and struck out former par. (1). Text read as follows: “The term ‘Account’ means the Neotropical Migratory Bird Conservation Account established by [section 6108(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6108/a&num=0&edition=prelim).”
 
 Pars. (2) to (5). Pub. L. 109–363, § 302(c), added pars. (2) and (4) and redesignated former pars. (2) and (3) as (3) and (5), respectively.
@@ -133,7 +136,7 @@ Pars. (2) to (5). Pub. L. 109–363, § 302(c), added pars. (2) and (4) and rede
 
 **(e) Cost sharing**
 
-(1) **Federal share** — The Federal share of the cost of each project shall be not greater than 25 percent.
+(1) **Federal share** — The Federal share of the cost of each project shall be not greater than 33.3 percent.
 
 (2) **Non-Federal share**
 
@@ -148,6 +151,8 @@ Pars. (2) to (5). Pub. L. 109–363, § 302(c), added pars. (2) and (4) and rede
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (e)(1). Pub. L. 118–51 substituted “33.3 percent” for “25 percent”.
+
 2006—Subsec. (c)(2). Pub. L. 109–363, § 302(d), inserted “Canada,” after “United States,”.
 
 Subsec. (e)(2)(B). Pub. L. 109–363, § 302(e), amended subpar. (B) generally. Prior to amendment, text read as follows:
@@ -189,7 +194,7 @@ In carrying out this chapter, the Secretary shall—
 
 **(b) Advisory group**
 
-(1) **In general** — To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of neotropical migratory birds. The advisory group as a whole shall have expertise in the methods and procedures set forth in [section 6103(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6103/2&num=0&edition=prelim) in each country and region of the Western Hemisphere 11 So in original. Probably should be followed by a period.
+(1) **In general** — To assist in carrying out this chapter, the Secretary may convene an advisory group consisting of individuals representing public and private organizations actively involved in the conservation of neotropical migratory birds. The advisory group as a whole shall have expertise in the methods and procedures set forth in [section 6103(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6103/2&num=0&edition=prelim) in each country and region of the Western Hemisphere.
 
 (2) **Public participation**
 
@@ -203,14 +208,19 @@ In carrying out this chapter, the Secretary shall—
 
   (C) *Minutes* — Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
 
-(3) **Exemption from Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+(3) **Exemption from chapter 10 of title 5** — Chapter 10 of title 5 shall not apply to the advisory group.
+
+**(c) Report to Congress** Not later than 180 days after April 24, 2024, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Natural Resources of the House of Representatives a report describing the implementation of subsection (b) by the Secretary, which shall include, if applicable, a description of the composition of the advisory group convened under paragraph (1) of that subsection.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–51, § 2(d)(2), inserted period at end.
+
+Subsec. (c). Pub. L. 118–51, § 2(b), added subsec. (c).
+
+2022—Subsec. (b)(3). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2006—Subsec. (b)(1). Pub. L. 109–363 inserted at end “The advisory group as a whole shall have expertise in the methods and procedures set forth in [section 6103(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6103/2&num=0&edition=prelim) in each country and region of the Western Hemisphere”.
 
 #### Encouragement To Convene
@@ -263,13 +273,15 @@ Pub. L. 109–363, title III, § 302(h)(4), Oct. 17, 2006, 120 Stat. 2077, provi
 
 <a id="section-6109"></a>
 ## § 6109. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to carry out this chapter $6,500,000 for each of fiscal years 2019 through 2023.
+**(a) In general** There is authorized to be appropriated to carry out this chapter $6,500,000 for each of fiscal years 2019 through 2028.
 
 **(b) Use of funds** Of the amounts made available under subsection (a) for each fiscal year, not less than 75 percent shall be expended for projects carried out at a location outside of the United States.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–51 substituted “2028” for “2023”.
+
 2019—Pub. L. 116–9 amended section generally. Prior to amendment, section related to approriations for fiscal years 2006 through 2010.
 
 2006—Pub. L. 109–363 designated existing provisions as subsec. (a), inserted heading, substituted “for each of fiscal years 2006 through 2010 the amount specified for that fiscal year in subsection (b)” for “$5,000,000 for each of fiscal years 2001 through 2005”, and added subsecs. (b) to (d).

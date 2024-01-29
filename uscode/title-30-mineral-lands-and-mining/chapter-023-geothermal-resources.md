@@ -239,7 +239,7 @@ Subsecs. (f), (g). Pub. L. 109–58, § 223(b), added subsecs. (f) and (g).
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
+The Mineral Leasing Act, referred to in subsec. (a)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
 #### Amendments
 2005—Pub. L. 109–58, §§ 223(a)(1)–(3), 224(a)(1), 228, 230(1)–(3), 233(a), 236(7), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, redesignated subpars. (1) and (2) of par. (c) as subpars. (A) and (B), respectively, redesignated pars. (a) to (d) as pars. (1) to (4), respectively, of subsec. (a), added new pars. (1) to (3) of subsec. (a) and struck out former pars. (1) to (4) of subsec. (a) which related to royalties for amount or value of steam or other form of heat energy, royalty for value of byproducts, payment of annual rental, and royalties in lieu of rentals.
@@ -310,7 +310,7 @@ Pub. L. 109–58, title II, § 224(c)–(e), Aug. 8, 2005, 119 Stat. 663, 664, p
 ### Statutory Notes
 
 #### References in Text
-The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, as amended, which is classified principally to chapter 12 (§ 521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 521 of this title](./chapter-012-multiple-mineral-development-of-the-same-tracts.md#section-521) and Tables.
+The Multiple Mineral Development Act, referred to in subsec. (i), is act Aug. 13, 1954, ch. 730, 68 Stat. 708, which is classified principally to chapter 12 (§ 521 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 521 of this title](./chapter-012-multiple-mineral-development-of-the-same-tracts.md#section-521) and Tables.
 
 #### Codification
 August 8, 2005, referred to in introductory provisions of subsec. (d), was in the original “the date of the enactment of this subsection” and “the date of enactment of this subsection”, which was translated as meaning the date of enactment of Pub. L. 109–58, which substantially amended this section, to reflect the probable intent of Congress.
@@ -710,7 +710,7 @@ The United States reserves the ownership of and the right to extract under such 
 ### Statutory Notes
 
 #### References in Text
-Public Law 98–473, referred to in subsec. (f), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837, as amended. For complete classification of this Act to the Code, see Tables.
+Public Law 98–473, referred to in subsec. (f), is Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1837. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2005—Pub. L. 109–58, § 236(26), inserted section catchline.

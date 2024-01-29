@@ -736,7 +736,7 @@ If any citizen, company, or corporation taking advantage of the benefits of sect
 ### Statutory Notes
 
 #### References in Text
-Act of July 2, 1890, referred to in text, is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
+Act of July 2, 1890, referred to in text, is act July 2, 1890, ch. 647, 26 Stat. 209, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
 #### Repeal; Savings Provision
 Section repealed by Pub. L. 94–579, title VII, § 706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System. Such repeal not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see section 701 of Pub. L. 94–579, set out as a note under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701).

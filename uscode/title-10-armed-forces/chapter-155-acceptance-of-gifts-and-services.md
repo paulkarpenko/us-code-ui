@@ -149,10 +149,10 @@ Subsec. (i)(2). Pub. L. 112–239, § 587(a), inserted “education,” before �
 1980—Subsec. (b)(4). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Limitation on Solicitation of Gifts
 Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, provided that: “The Secretary of Defense shall prescribe regulations implementing sections 2601 and 2608 of title 10, United States Code, that prohibit the solicitation of any gift under such sections by any employee of the Department of Defense if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in such program.”
@@ -182,11 +182,13 @@ Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, pro
 
 (1) as described in [section 1413a(e)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1413a/e/2&num=0&edition=prelim);
 
-(2) in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a); or
+(2) in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a);
 
-(3) under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
+(3) that results in enrollment in a Warriors in Transition program, as defined in section 738(e) of the National Defense Authorization Act for Fiscal Year 2013 (Public Law 112–239; [10 U.S.C. 1071](./chapter-055-medical-and-dental-care.md#section-1071) note); or
 
-**(c) Covered Employees.—** This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in paragraph (1), (2) or (3) of subsection (b).
+(4) under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
+
+**(c) Covered Employees.—** This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in subsection (b).
 
 **(d) Gifts From Certain Sources Prohibited.—** The regulations prescribed under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
 
@@ -195,6 +197,10 @@ Pub. L. 110–181, div. A, title V, § 593(b), Jan. 28, 2008, 122 Stat. 138, pro
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(3), (4). Pub. L. 117–263, § 522(1), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (c). Pub. L. 117–263, § 522(2), struck out “paragraph (1), (2) or (3) of” before “subsection (b)”.
+
 2014—Subsec. (a)(1). Pub. L. 113–291, § 1071(f)(19)(A), substituted “prescribe” for “issue”.
 
 Subsec. (d). Pub. L. 113–291, § 1071(f)(19)(B), substituted “prescribed” for “issued”.
@@ -253,20 +259,28 @@ Pub. L. 103–337, div. A, title III, § 383(b), Oct. 5, 1994, 108 Stat. 2740, p
 
 <a id="section-2603"></a>
 ## § 2603. Acceptance of fellowships, scholarships, or grants
-**(a)** Notwithstanding any other provision of law, a fellowship, scholarship, or grant may, under regulations to be prescribed by the President or his designee, be made by a corporation, fund, foundation, or educational institution that is organized and operated primarily for scientific, literary, or educational purposes to any member of the armed forces, and the benefits thereof may be accepted by him—
+**(a)** Notwithstanding any other provision of law, a fellowship, scholarship, or grant may, under regulations to be prescribed by the President (or an individual designated by the President), be made by a corporation, fund, foundation, or educational institution that is organized and operated primarily for scientific, literary, or educational purposes to any member of the armed forces, and the benefits thereof may be accepted by the member—
 
-(1) in recognition of outstanding performance in his field;
+(1) in recognition of outstanding performance in the field of the member;
 
 (2) to undertake a project that may be of value to the United States; or
 
-(3) for development of his recognized potential for future career service.
-However, the benefits of such a fellowship, scholarship, or grant may be accepted by the member in addition to his pay and allowances only to the extent that those benefits would be conferred upon him if the education or training contemplated by that fellowship, scholarship, or grant were provided at the expense of the United States. In addition, if such a benefit, in cash or in kind, is for travel, subsistence, or other expenses, an appropriate reduction shall be made from any payment that is made for the same purpose to the member by the United States incident to his acceptance of the fellowship, scholarship, or grant.
+(3) for development of the recognized potential for future career service of the member.
+However, the benefits of such a fellowship, scholarship, or grant may be accepted by the member in addition to the member’s pay and allowances only to the extent that those benefits would be conferred upon the member if the education or training contemplated by that fellowship, scholarship, or grant were provided at the expense of the United States. In addition, if such a benefit, in cash or in kind, is for travel, subsistence, or other expenses, an appropriate reduction shall be made from any payment that is made for the same purpose to the member by the United States incident to the member’s acceptance of the fellowship, scholarship, or grant.
 
-**(b)** Each member of the armed forces who accepts a fellowship, scholarship, or grant in accordance with subsection (a) shall, before he is permitted to undertake the education or training contemplated by that fellowship, scholarship, or grant, agree in writing that, after he completes the education or training, he will serve on active duty for a period at least three times the length of the period of the education or training.
+**(b)** Each member of the armed forces who accepts a fellowship, scholarship, or grant in accordance with subsection (a) shall, before he is permitted to undertake the education or training contemplated by that fellowship, scholarship, or grant, agree in writing that, after he completes the education or training, he will serve on active duty for a period three times the length of the period of the education or training.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 523(b)(1), (4), in introductory provisions, substituted “(or an individual designated by the President)” for “or his designee” and “the member—” for “him—”, and, in concluding provisions, substituted “the member’s” for “his” in two places and “the member” for “him”.
+
+Subsec. (a)(1). Pub. L. 117–263, § 523(b)(2), substituted “the field of the member” for “his field”.
+
+Subsec. (a)(3). Pub. L. 117–263, § 523(b)(3), substituted “the recognized potential for future career service of the member” for “his recognized potential for future career service”.
+
+Subsec. (b). Pub. L. 117–263, § 523(a), struck out “at least” before “three times”.
+
 2011—Pub. L. 111–383 substituted “armed forces” for “Armed Forces” in two places.
 
 #### Ex. Ord. No. 11079. Regulations for Acceptance of Fellowships, Scholarships, or Grants
@@ -631,17 +645,16 @@ Pub. L. 108–375, div. A, title X, § 1084(f), Oct. 28, 2004, 118 Stat. 2064, p
 
 (2) to assist in administering the collection, distribution, and use of travel benefits under this section.
 
-**(g) Family Member Defined.—** In this section, the term “family member” has the meaning given that term in [section 481h(b) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h/b&num=0&edition=prelim).11 See References in Text note below.
+**(g) Family Member Defined.—** In this section, the term “family member” has the meaning given that term in [section 451(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section451/a&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### References in Text
-[Section 481h of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h&num=0&edition=prelim), referred to in subsec. (g), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 #### Codification
 Another section 2613 was renumbered [section 2614 of this title](./chapter-155-acceptance-of-gifts-and-services.md#section-2614).
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–263 substituted “section 451(a)” for “section 481h(b)”.
+
 2018—Subsec. (g). Pub. L. 115–232 substituted “481h(b)” for “481h(b)(1)”.
 
 2013—Subsec. (g). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.

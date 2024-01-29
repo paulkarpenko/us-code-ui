@@ -122,7 +122,7 @@ In this chapter:
 
     (iii) *Quorum* — A majority of the members of the Advisory Committee shall constitute a quorum to conduct business.
 
-    (iv) *Public meetings* — Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+    (iv) *Public meetings* — Meetings of the Advisory Committee, except when in executive session, shall be open to the public. Prior notice of each non-executive meeting shall be made public in a timely fashion. The Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).11 See References in Text note below.
 
     (v) *Cost savings* — In order to reduce the cost of Advisory Committee meetings, the Advisory Committee shall, to the extent practicable, utilize teleconferences and webinars for that purpose.
 
@@ -143,7 +143,7 @@ In this chapter:
 #### References in Text
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d)(1)(C)(i), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (d)(1)(C)(iv), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-7803"></a>

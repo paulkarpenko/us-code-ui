@@ -126,6 +126,9 @@ No person shall land or operate in the United States any submarine cable directl
 #### Codification
 Section was not enacted as part of the Submarine Cable Act which comprises this chapter.
 
+#### Short Title
+Act May 27, 1921, ch. 12, which enacted sections 34 to 39 of this title, is popularly known as the Cable Landing Licensing Act.
+
 #### Delegation of Functions
 For delegation of functions, vested in President by sections 34 to 39 of this title, to Federal Communications Commission, see section 5(a) of Ex. Ord. No. 10530, eff. May 10, 1954, 19 F.R. 2709, set out under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 

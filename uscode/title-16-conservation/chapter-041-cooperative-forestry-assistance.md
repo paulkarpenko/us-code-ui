@@ -991,7 +991,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Amendment by section 7511(c)(36) of Pub. L. 110–246 effective Oct. 1, 2009, see section 7511(c) of Pub. L. 110–246, set out as a note under [section 1522 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1522&num=0&edition=prelim), Agriculture.
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-2106"></a>
@@ -1533,11 +1533,11 @@ A prior section 14 of Pub. L. 95–313 was renumbered section 17 and is set out 
 #### References in Text
 Act of April 26, 1940, known as the White Pine Blister Rust Protection Act (54 Stat. 168; [16 U.S.C. 594a](./chapter-004-protection-of-timber-and-depredations.md#section-594a)), referred to in subsec. (a)(2), is act Apr. 26, 1940, ch. 159, 54 Stat. 168, which enacted [section 594a of this title](./chapter-004-protection-of-timber-and-depredations.md#section-594a).
 
-The Forest Pest Control Act, referred to in subsec. (a)(3), is act June 25, 1947, ch. 141, 61 Stat. 177, as amended, which enacted sections 594–1 to 594–5 of this title and enacted provisions set out as notes under [section 594–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section594–1&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Forest Pest Control Act, referred to in subsec. (a)(3), is act June 25, 1947, ch. 141, 61 Stat. 177, which enacted sections 594–1 to 594–5 of this title and enacted provisions set out as notes under [section 594–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section594–1&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
-The Cooperative Forest Management Act, referred to in subsec. (a)(4), is act Aug. 25, 1950, ch. 781, 64 Stat. 473, as amended, which enacted sections 568c and 568d of this title, repealed [section 568b of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-568b), and enacted a provision set out as a note under [section 568c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section568c&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+The Cooperative Forest Management Act, referred to in subsec. (a)(4), is act Aug. 25, 1950, ch. 781, 64 Stat. 473, which enacted sections 568c and 568d of this title, repealed [section 568b of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-568b), and enacted a provision set out as a note under [section 568c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section568c&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
-The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§ 2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Rural Development Act of 1972, referred to in subsec. (a)(6), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657. Title IV of the Rural Development Act of 1972 was classified generally to subchapter I (§ 2651 et seq.) of chapter 59 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 Section 1010 of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973, referred to in subsec. (a)(7), was classified to [section 1510 of this title](./chapter-034-rural-environmental-conservation-program.md#section-1510) prior to repeal by Pub. L. 104–127, title III, § 336(d)(1), Apr. 4, 1996, 110 Stat. 1006.
 
@@ -1702,7 +1702,11 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
     (i) National Forest System land; or
 
-    (ii) public land (as defined in [section 1702 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702&num=0&edition=prelim)).
+    (ii) public land (as defined in [section 1702 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702&num=0&edition=prelim)); or
+
+    (iii) National Park System land; or
+
+    (iv) National Wildlife Refuge Land.
 
   (B) *Exclusions* — The term “Federal land” does not include—
 
@@ -1724,7 +1728,7 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
   (B) *Exclusions* — The term “forest, rangeland, and watershed restoration services” does not include—
 
-    (i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System road that is—
+    (i) construction, reconstruction, repair, or restoration of paved or permanent roads or parking areas, other than the reconstruction, repair, or restoration of a National Forest System, Bureau of Land Management, National Park Service, or National Wildlife Refuge managed road that is—
 
       (I) necessary to carry out authorized restoration services pursuant to a good neighbor agreement; and
 
@@ -1774,11 +1778,11 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 
       (II) if there are funds remaining after carrying out subclause (I), to carry out authorized restoration services on Federal land within the State under other good neighbor agreements.
 
-    (ii) *Termination of effectiveness* — The authority provided by this subparagraph terminates effective October 1, 2023.
+    (ii) *Termination of effectiveness* — The authority provided by this subparagraph terminates effective October 1, 2024.
 
 (3) **Retention of NEPA responsibilities** — Any decision required to be made under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.) with respect to any authorized restoration services to be provided under this section on Federal land shall not be delegated to a Governor or county.
 
-(4) **Receipts** — Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System land or Bureau of Land Management land, as applicable.
+(4) **Receipts** — Notwithstanding any other provision of law, any payment made by a county to the Secretary under a project conducted under a good neighbor agreement shall not be considered to be monies received from National Forest System, Bureau of Land Management, National Park System, or U.S. Fish and Wildlife Service land, as applicable.
 
 ### Statutory Notes
 
@@ -1786,9 +1790,21 @@ Amendment by section 7511(c)(37) of Pub. L. 110–246 effective Oct. 1, 2009, se
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
+Pub. L. 118–42, § 443, which directed amendment of section 8206 of the “Agriculture Act of 2014”, was executed to this section, which is section 8206 of the Agricultural Act of 2014, to reflect the probable intent of Congress.
+
 Section was enacted as part of the Agricultural Act of 2014, and not as part of the Cooperative Forestry Assistance Act of 1978 which comprises this chapter.
 
 #### Amendments
+2024—Subsec. (a)(3)(A)(iii), (iv). Pub. L. 118–42, § 443(1), added cls. (iii) and (iv). See Codification note above.
+
+Subsec. (a)(4)(B)(i). Pub. L. 118–42, § 443(2), (3), in introductory provisions, substituted a comma for “or” before “Bureau of Land Management” and inserted “, National Park Service, or National Wildlife Refuge” after “Bureau of Land Management”. See Codification note above.
+
+Subsec. (b)(2)(C)(ii). Pub. L. 118–42, § 443(4), substituted “2024” for “2023”. See Codification note above.
+
+Subsec. (b)(4). Pub. L. 118–42, § 443(5), (6), substituted a comma for “land or” before “Bureau of Land Management” and inserted “, National Park System, or U.S. Fish and Wildlife Service” after “Bureau of Land Management”. See Codification note above.
+
+2022—Subsec. (a)(4)(B)(i). Pub. L. 117–328 inserted “or Bureau of Land Management managed” after “National Forest System” in introductory provisions.
+
 2018—Subsec. (a)(1)(A). Pub. L. 115–334, § 8624(a)(1), substituted “land, non-Federal land, and land owned by an Indian tribe” for “land and non-Federal land”.
 
 Subsec. (a)(1)(B). Pub. L. 115–334, § 8624(b)(1)(A), inserted “or county, as applicable,” after “Governor”.

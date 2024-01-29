@@ -2,7 +2,7 @@
 title: 40
 chapter: '5'
 heading: PROPERTY MANAGEMENT
-section_count: 66
+section_count: 67
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -1135,6 +1135,149 @@ Sec. 5. This order shall supersede Executive Order No. 12821 of November 16, 199
 Sec. 6. Judicial Review. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
 
 William J. Clinton.
+
+
+<a id="section-549a"></a>
+## § 549a. Donation of personal property through nonprofit refurbishers
+**(a) Authorization.—** Not later than 30 days after the date on which the Administrator provides State agencies for surplus property an opportunity to review surplus computer or technology equipment under section 549, the Administrator shall, as appropriate, transfer full title to such surplus computer or technology equipment that is determined to be eligible under subsection (b)(1) to nonprofit computer refurbishers for repair, distribution, and subsequent transfer of full title of the equipment to eligible recipients under this section.
+
+**(b) Eligibility, Participation, and Duties.—**
+
+(1) **Eligibility.—** — Surplus computer or technology equipment is eligible for transfer under this section if a Federal agency determines that—
+
+  (A) the surplus computer or technology equipment is repairable; and
+
+  (B) the surplus computer or technology equipment meets the Guidelines for Media Sanitization issued by the National Institute of Standards and Technology (NIST Special Publication 800–88), or any successor thereto.
+
+(2) **Participation.—** — The Administrator may establish partnerships with nongovernmental entities, at no cost and through cooperative agreements, to facilitate the identification and participation of nonprofit computer refurbishers under this section.
+
+(3) **Duties of refurbishers.—** — A nonprofit computer refurbisher that receives surplus computer or technology equipment under this section shall—
+
+  (A) make necessary repairs to restore the surplus computer or technology equipment to working order;
+
+  (B) distribute the repaired surplus computer or technology equipment to eligible recipients at no cost, except to the extent—
+
+    (i) necessary to facilitate shipping and handling of such equipment; and
+
+    (ii) that such cost is consistent with any regulations promulgated by the Administrator under subsection (d);
+
+  (C) offer training programs on the use of the repaired computers and technology equipment for the recipients of the equipment; and
+
+  (D) use recyclers to the maximum extent practicable in the event that surplus computer or technology equipment transferred under this section cannot be repaired or reused.
+
+**(c) Reporting Requirements.—**
+
+(1) **Refurbisher reports.—** — A nonprofit computer refurbisher that receives surplus computer or technology equipment under this section shall provide the Administrator with any information the Administrator determines to be necessary for required reporting—
+
+  (A) including information about the distribution of such equipment; and
+
+  (B) which shall not include any personal identifying information about the recipient of such equipment apart from whether a recipient is an educational institution, individual with disabilities, low-income individual, student, senior in need, or veteran for the purposes of eligibility under this section.
+
+(2) **Administrator reports.—** — Annually and consistent with reporting requirements for transfers of Federal personal property to non-Federal entities, the Administrator shall submit to Congress and make publicly available a report that includes, for the period covered by the report—
+
+  (A) a description of the efforts of the Administrator under this section;
+
+  (B) a list of nongovernmental entities with which the Administrator had a partnership described in subsection (b)(2);
+
+  (C) a list of nonprofit computer refurbishers that received, made repairs to, and distributed surplus computer and technology equipment, including disclosure of any foreign ownership interest in a nonprofit computer refurbisher; and
+
+  (D) a list of donated and subsequently repaired surplus computer or technology equipment identifying—
+
+    (i) the Federal agency that donated the surplus computer or technology equipment;
+
+    (ii) the State and county (or similar unit of local government) where the recipient is located; and
+
+    (iii) whether the recipient is an educational institution, individual with disabilities, low-income individual, student, senior in need, or veteran.
+
+(3) **Agency reports.—** — Not later than 5 years after the date of enactment of this section, and annually thereafter, the head of each Federal agency shall make publicly available a report on the number of pieces of repairable surplus computer or technology equipment that were sent to recycling, abandoned, or destroyed.
+
+**(d) Regulations.—** The Administrator shall issue regulations that are necessary and appropriate to implement this section, including—
+
+(1) allowing nonprofit computer refurbishers to assess nominal fees (which shall not exceed fair market value) on recipients of refurbished surplus computer or technology equipment to facilitate shipping and handling of the surplus computer or technology equipment;
+
+(2) determining, in coordination with other relevant Federal agencies, eligibility and certification requirements for nongovernmental entities and nonprofit computer refurbishers to participate in the program established under this section, including whether the participation of a nongovernmental entity or nonprofit computer refurbisher poses any actual or potential harm to the national security interests of the United States;
+
+(3) establishing an efficient process for identifying eligible recipients; and
+
+(4) determining appropriate recyclers to dispose of surplus computer or technology equipment if it cannot be repaired or refurbished under this section.
+
+**(e) Judicial Review.—** Nothing in this section shall be construed to create any substantive or procedural right or benefit enforceable by law by a party against the United States, its agencies, its officers, or its employees.
+
+**(f) Rule of Construction.—** Nothing in this section may be construed to supersede the requirements of the Stevenson-Wydler Technology Innovation Act of 1980 (Public Law 96–480; [15 U.S.C. 3701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) et seq.).
+
+**(g) Definitions.—** In this section:
+
+(1) **Administrator.—** — The term “Administrator” means the Administrator of General Services.
+
+(2) **Digital divide.—** — The term “digital divide” means the gap between those who have an internet-connected computer and the skills to use the computer and those who do not.
+
+(3) **Disability.—** — The term “disability” has the meaning given that term in section 3 of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12102](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim)).
+
+(4) **Educational institution.—** — The term “educational institution” means—
+
+  (A) any public or private child care center, preschool, elementary school, secondary school, accredited institution of vocational or professional education, or institution of higher education;
+
+  (B) in the case of an accredited institution of vocational or professional education or an institution of higher education composed of more than 1 school, college, or department that is administratively a separate unit, each such school, college, or department; and
+
+  (C) a home school (whether treated as a home school or private school for the purposes of applicable State law).
+
+(5) **Eligible recipient.—** — The term “eligible recipient” means an educational institution, individual with a disability, low-income individual, student, senior in need, or veteran that is residing or based in the United States.
+
+(6) **Institution of higher education.—** — The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)).
+
+(7) **Low-income individual.—** — The term “low-income individual” has the meaning given that term in section 351 of the Small Business Investment Act of 1958 ([15 U.S.C. 689](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section689&num=0&edition=prelim)).
+
+(8) **Nongovernmental entity.—** — The term “nongovernmental entity” means an organization or group of organizations that—
+
+  (A) are not part of a Federal, State, local, Tribal, or territorial government; and
+
+  (B) are nonprofit computer refurbishers or other industry participants that—
+
+    (i) primarily work to improve access to information and communication technology in their mission to bridge the digital divide through coordination and oversight of computer refurbishment and repair; and
+
+    (ii) operate in the United States.
+
+(9) **Nonprofit computer refurbisher.—** — The term “nonprofit computer refurbisher” means a nonprofit organization that—
+
+  (A) primarily works to improve access to information and communication technology in their mission to bridge the digital divide; and
+
+  (B) operates in the United States.
+
+(10) **Nonprofit organization.—** — The term “nonprofit organization” means an organization that is described under section 501(c)(3) of the Internal Revenue Code of 1986 and is exempt from taxation under section 501(a) of such Code.
+
+(11) **Repairable.—** — The term “repairable” means property that is unusable in its current state but can be economically repaired.
+
+(12) **Secondary school.—** — The term “secondary school” has the meaning given that term in section 8101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim)).
+
+(13) **Senior.—** — The term “senior” means an individual who is 65 years of age or older.
+
+(14) **Senior in need.—** — The term “senior in need” means a senior who experiences cultural, social, or geographical isolation that—
+
+  (A) restricts the ability of the senior to perform normal daily tasks; or
+
+  (B) threatens the capacity of the senior to live independently.
+
+(15) **State agency for surplus property.—** — The term “State agency for surplus property” has the meaning given the term “state agency” under section 549(a).
+
+(16) **Student.—** — The term “student” means any individual enrolled in an educational institution, but not a public or private child care center.
+
+(17) **Surplus computer or technology equipment.—** — The term “surplus computer or technology equipment” means computer or technology equipment that is property described under section 549(b)(2).
+
+(18) **Technology equipment.—** — The term “technology equipment” means any physical asset related to a computer or information technology, including any peripheral component, tablet, communication device (such as a router, server, or cell phone), printer, scanner, uninterruptible power source, cable, or connection.
+
+(19) **Veteran.—** — The term “veteran” has the meaning given that term in [section 101 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsec. (c)(3), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+
+Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (g)(10), is classified to [section 501 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), Internal Revenue Code.
+
+#### Findings
+Pub. L. 117–328, div. Z, § 102, Dec. 29, 2022, 136 Stat. 5523, provided that: “Congress finds the following: “(1) Access to computers and computer technology is indispensable for success in the 21st century. Millions of Americans do not regularly use a computer and research shows that substantial disparities remain in both internet use and the quality of access, with the digital divide concentrated among older, less educated, less affluent populations, especially veterans, low-income students, and senior citizens. “(2) The COVID–19 pandemic has highlighted the gap between those with computer access and those without. Millions of students, their families, and workers from across the economy were unable to do schoolwork, work remotely from home, or connect to loved ones and their communities because of the digital divide. “(3) Any Federal program that distributes surplus, repairable Federal computers or technology equipment would benefit from a partnership with a nonprofit organization whose mission is bridging the digital divide.”
 
 
 <a id="section-550"></a>
@@ -2361,6 +2504,18 @@ In subsection (e), the words “beyond such liability presently existing by virt
 
 (5) **Notification.—** — No amounts made available by law may be used to implement this subsection without advance notice to the Committees on Appropriations of the House of Representatives and the Senate.
 
+(6) **Application to house of representatives.—** — This subsection shall apply with respect to the House of Representatives in the same manner as it applies to an Executive agency, except that—
+
+  (A) the authority granted to the Office of Personnel Management shall be exercised with respect to the House of Representatives by the Speaker of the House of Representatives in accordance with regulations promulgated by the Committee on House Administration; and
+
+  (B) amounts may be made available to implement this subsection with respect to the House of Representatives without advance notice to the Committee on Appropriations of the Senate.
+
+(7) **Application to senate.—** — This subsection shall apply with respect to the Senate in the same manner as it applies to an Executive agency, except that—
+
+  (A) the authority granted to the Office of Personnel Management shall be exercised with respect to the Senate, by the Majority and Minority Leaders of the Senate, in accordance with regulations promulgated by the Committee on Rules and Administration of the Senate; and
+
+  (B) amounts may be made available to implement this subsection with respect to the Senate without advance notice to the Committee on Appropriations of the House of Representatives.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -2389,7 +2544,17 @@ In subsection (g)(5), the words “in this or any other Act” are omitted as un
 Section 231 of the Crime Control Act of 1990, referred to in subsec. (f)(2), is section 231 of Pub. L. 101–647, which was classified to [section 13041 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section13041&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification as [section 20351 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20351&num=0&edition=prelim), Crime Control and Law Enforcement.
 
 #### Amendments
+2024—Subsec. (g)(7). Pub. L. 118–47 added par. (7).
+
+2022—Subsec. (g)(6). Pub. L. 117–328 added par. (6).
+
 2004—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–47, div. E, title I, § 103(b), Mar. 23, 2024, 138 Stat. 712, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2024 and each succeeding fiscal year.”
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. I, title I, § 117(b), Dec. 29, 2022, 136 Stat. 4924, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
 
 <a id="section-591"></a>
@@ -2562,6 +2727,9 @@ In order to provide an economical and efficient system for transportation of Fed
 | --- | --- | --- |
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 601 | 40:491(a). | June 30, 1949, ch. 288, title II, § 211(a), as added Sept. 5, 1950, ch. 849, § 5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, § 2, 68 Stat. 1126. |
+
+#### Strategic Electric Vehicle Management
+Pub. L. 117–263, div. G, title LXXII, subtitle C, Dec. 23, 2022, 136 Stat. 3676, provided that: “SEC. 7231. SHORT TITLE.“This subtitle may be cited as the ‘Strategic EV Management Act of 2022’. “SEC. 7232. DEFINITIONS.“In this subtitle:“(1) Administrator.—The term ‘Administrator’ means the Administrator of General Services. “(2) Agency.—The term ‘agency’ has the meaning given the term in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim), United States Code. “(3) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Oversight and Reform [now Committee on Oversight and Accountability] of the House of Representatives; “(C) the Committee on Environment and Public Works of the Senate; “(D) the Committee on Energy and Natural Resources of the Senate; “(E) the Committee on Energy and Commerce of the House of Representatives; “(F) the Committee on Appropriations of the Senate; and “(G) the Committee on Appropriations of the House of Representatives. “(4) Director.—The term ‘Director’ means the Director of the Office of Management and Budget. “SEC. 7233. STRATEGIC GUIDANCE.“(a) In General.—Not later than 2 years after the date of enactment of this Act [Dec. 23, 2022], the Administrator, in consultation with the Director, shall coordinate with the heads of agencies to develop a comprehensive, strategic plan for Federal electric vehicle fleet battery management. “(b) Contents.—The strategic plan required under subsection (a) shall—“(1) maximize both cost and environmental efficiencies; and “(2) incorporate—“(A) guidelines for optimal charging practices that will maximize battery longevity and prevent premature degradation; “(B) guidelines for reusing and recycling the batteries of retired vehicles; “(C) guidelines for disposing electric vehicle batteries that cannot be reused or recycled; and “(D) any other considerations determined appropriate by the Administrator and Director. “(c) Modification.—The Administrator, in consultation with the Director, may periodically update the strategic plan required under subsection (a) as the Administrator and Director may determine necessary based on new information relating to electric vehicle batteries that becomes available. “(d) Consultation.—In developing the strategic plan required under subsection (a) the Administrator, in consultation with the Director, may consult with appropriate entities, including—“(1) the Secretary of Energy; “(2) the Administrator of the Environmental Protection Agency; “(3) the Chair of the Council on Environmental Quality; “(4) scientists who are studying electric vehicle batteries and reuse and recycling solutions; “(5) laboratories, companies, colleges, universities, or start-ups engaged in battery use, reuse, and recycling research; “(6) industries interested in electric vehicle battery reuse and recycling; “(7) electric vehicle equipment manufacturers and recyclers; and “(8) any other relevant entities, as determined by the Administrator and Director. “(e) Report.—“(1) In general.—Not later than 3 years after the date of enactment of this Act, the Administrator and the Director shall submit to the appropriate congressional committees a report that describes the strategic plan required under subsection (a). “(2) Briefing.—Not later than 4 years after the date of enactment of this Act, the Administrator and the Director shall brief the appropriate congressional committees on the implementation of the strategic plan required under subsection (a) across agencies. “SEC. 7234. STUDY OF FEDERAL FLEET VEHICLES.“Not later than 2 years after the date of enactment of this Act [Dec. 23, 2022], the Comptroller General of the United States shall submit to Congress a report on how the costs and benefits of operating and maintaining electric vehicles in the Federal fleet compare to the costs and benefits of operating and maintaining internal combustion engine vehicles.”
 
 #### Ex. Ord. No. 10579. Interagency Motor-Vehicle Pools and Systems
 Ex. Ord. No. 10579, Dec. 1, 1954, 19 F.R. 7925, provided:
@@ -2940,7 +3108,7 @@ Pub. L. 114–318, § 2, Dec. 16, 2016, 130 Stat. 1608, provided that: “The pu
 ### Statutory Notes
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-623"></a>
@@ -3087,7 +3255,7 @@ The date of enactment of this subchapter, referred to in subsec. (e)(1), (7), is
 The Tennessee Valley Authority Act of 1933, referred to in subsec. (i)(4), is act May 18, 1933, ch. 32, 48 Stat. 58, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-624"></a>

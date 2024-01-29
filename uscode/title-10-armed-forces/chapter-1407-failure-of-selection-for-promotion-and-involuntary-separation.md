@@ -131,7 +131,7 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 
   (A) shall not be disseminated or publicly released on the list of officers recommended for promotion by the promotion board recommending the promotion of the person; and
 
-  (B) shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under [section 14308(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/a&num=0&edition=prelim).
+  (B) shall not be forwarded for appointment or nomination to the Secretary of Defense, the President, or the Senate, as applicable.
 
 **(b) Convening.—**
 
@@ -212,6 +212,11 @@ Section effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set
 (2) Any regulation prescribed by the Secretary of a military department to supplement the regulations prescribed pursuant to paragraph (1) may not take effect without the approval of the Secretary of Defense, in writing.
 
 **(h) Promotion Board Defined.—** In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under [section 14101(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14101/a&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2023—Subsec. (a)(2)(B). Pub. L. 118–31 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “shall not be forwarded to the Secretary of Defense, the President, or the Senate, as applicable, or included on a promotion list under [section 14308(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section14308/a&num=0&edition=prelim).”
 
 
 <a id="section-14503"></a>

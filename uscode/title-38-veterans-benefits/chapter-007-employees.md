@@ -21,6 +21,9 @@ Provisions similar to those in this section were contained in [section 231 of th
 #### Amendments
 2021—Pub. L. 116–283 substituted “Air Force, and Space Force” for “and Air Force” and “air, or space service” for “or air service”.
 
+#### Department of Veterans Affairs Communication With Employees Responsible for Homelessness Assistance Programs
+Pub. L. 117–328, div. U, title III, § 308, Dec. 29, 2022, 136 Stat. 5473, provided that: “The Under Secretary for Health of the Department of Veterans Affairs shall clearly communicate with employees of the Department of Veterans Affairs whose responsibilities are related to homelessness assistance programs regarding— “(1) the measurement of performance of such programs by the Homeless Programs Office of the Department; and “(2) how to obtain and provide feedback about performance measures.”
+
 #### Reemployment of Former Employees at Department of Veterans Affairs
 Pub. L. 115–46, title II, § 204, Aug. 12, 2017, 131 Stat. 963, provided that: “(a) In General.—Notwithstanding sections 3309 through 3318 of title 5, United States Code, the Secretary of Veterans Affairs may noncompetitively appoint a qualified former career or career conditional employee to any position within the competitive service at the Department of Veterans Affairs that is one grade or equivalent higher than the grade or equivalent of the position at the Department most recently occupied by the employee. “(b) Limitation.—The Secretary may not appoint a qualified former employee to a position that is more than one grade (or equivalent) higher than the position at the Department most recently occupied by the employee. “(c) Definition of Qualified Former Employee.—For purposes of this section, the term ‘qualified former employee’ means any individual who—“(1) formerly occupied any career or career conditional position at the Department of Veterans Affairs within 2 years before applying for reemployment at the Department; “(2) voluntarily left such position, or was subject to a reduction in force, and had a satisfactory performance record while occupying such position; and “(3) since leaving such position has maintained licensing requirements, related to the position, if any, and gained skill, knowledge, or other factors related to the position.”
 
@@ -158,9 +161,9 @@ Provisions similar to those in this section were contained in [section 234 of th
 
 (4) An incentive provided under paragraph (1) shall not be considered basic pay for any purpose.
 
-(5) The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive under paragraph (1).
+(5) The Secretary may prescribe conditions, including with respect to eligibility, and limitations on provision of incentive 22 So in original. Probably should be preceded by “an”. under paragraph (1).
 
-(6) Incentive provided under paragraph (1) shall not be included in the calculation of total amount of compensation under [section 7431(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/4&num=0&edition=prelim).
+(6) Incentive 33 So in original. Probably should be “An incentive”. provided under paragraph (1) shall not be included in the calculation of total amount of compensation under [section 7431(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7431/e/4&num=0&edition=prelim).
 
 **(e) Student Loan Repayments.—**
 
@@ -244,7 +247,7 @@ A prior section 706 was renumbered [section 1906 of this title](./chapter-019-in
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in subsecs. (a)(1)–(5) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 901, 903, 904(d), and 905 of the Foreign Service Act of 1980 are classified to sections 4081, 4083, 4084(d), and 4085, respectively of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in subsecs. (a)(1)–(5) and (b), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 901, 903, 904(d), and 905 of the Foreign Service Act of 1980 are classified to sections 4081, 4083, 4084(d), and 4085, respectively of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior sections 707 and 708 were renumbered sections 1907 and 1908 of this title, respectively.
@@ -945,7 +948,7 @@ A prior section 732, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Se
 
 <a id="section-733"></a>
 ## § 733. Training regarding whistleblower disclosures
-**(a) Training.—** Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.), shall provide to each employee of the Department training regarding whistleblower disclosures, including—
+**(a) Training.—** Not less frequently than once every two years, the Secretary, in coordination with the Whistleblower Protection Ombudsman designated under section 3(d)(1)(C) of the Inspector General Act of 1978 (5 U.S.C. App.),11 See References in Text note below. shall provide to each employee of the Department training regarding whistleblower disclosures, including—
 
 (1) an explanation of each method established by law in which an employee may file a whistleblower disclosure;
 
@@ -968,7 +971,7 @@ A prior section 732, added Pub. L. 114–223, div. A, title II, § 247(a)(1), Se
 ### Statutory Notes
 
 #### References in Text
-Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 3(d)(1)(C) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(d)(1)(C) of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 403(d)(1)(C) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/d/1/C&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4209, 4361.
 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(3), is section 264(c) of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
 

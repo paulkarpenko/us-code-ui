@@ -12,17 +12,19 @@ source: >-
 ## § 531. Original appointments of commissioned officers
 **(a)**
 
-(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President alone.
+(1) Original appointments in the grades of second lieutenant, first lieutenant, and captain in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Space Force shall be made by the President alone.
 
-(2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of lieutenant commander, commander, and captain in the Regular Navy, and in the equivalent grades in the Regular Space Force shall be made by the President, by and with the advice and consent of the Senate.
+(2) Original appointments in the grades of major, lieutenant colonel, and colonel in the Regular Army, Regular Air Force, and Regular Marine Corps in the grades of lieutenant commander, commander, and captain in the Regular Navy, and in the equivalent grades in the Space Force shall be made by the President, by and with the advice and consent of the Senate.
 
 **(b)** The grade of a person receiving an appointment under this section who at the time of appointment (1) is credited with service under [section 533 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-533), and (2) is not a commissioned officer of a reserve component shall be determined under regulations prescribed by the Secretary of Defense based upon the amount of service credited. The grade of a person receiving an appointment under this section who at the time of the appointment is a commissioned officer of a reserve component is determined under [section 533(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section533/f&num=0&edition=prelim).
 
-**(c)** Subject to the authority, direction, and control of the President, an original appointment as a commissioned officer in the Regular Army, Regular Air Force, Regular Navy, Regular Marine Corps, or Regular Space Force may be made by the Secretary of Defense in the case of a reserve commissioned officer upon the transfer of such officer from the reserve active-status list of a reserve component of the armed forces to the active-duty list of an armed force, notwithstanding the requirements of subsection (a).
+**(c)** Subject to the authority, direction, and control of the President, an original appointment as a commissioned officer in the Regular Army, Regular Air Force, Regular Navy, Regular Marine Corps, or Space Force may be made by the Secretary of Defense in the case of a reserve commissioned officer upon the transfer of such officer from the reserve active-status list of a reserve component of the armed forces to the active-duty list of an armed force, notwithstanding the requirements of subsection (a).
 
 ### Statutory Notes
 
 #### Amendments
+2023—Pub. L. 118–31 struck out “Regular” before “Space Force” wherever appearing.
+
 2021—Subsec. (a)(1). Pub. L. 116–283, § 924(b)(13)(A), substituted “in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy, and in the equivalent grades in the Regular Space Force” for “and in the grades of ensign, lieutenant (junior grade), and lieutenant in the Regular Navy”.
 
 Subsec. (a)(2). Pub. L. 116–283, § 924(b)(13)(B), substituted “in the grades of lieutenant commander, commander, and captain in the Regular Navy, and in the equivalent grades in the Regular Space Force” for “and in the grades of lieutenant commander, commander, and captain in the Regular Navy”.
@@ -41,7 +43,7 @@ Subsec. (c). Pub. L. 108–375, § 501(c)(5), added subsec. (c).
 Pub. L. 108–375, div. A, title V, § 501(g), Oct. 28, 2004, 118 Stat. 1875, provided that: “(1) Except as provided in paragraph (2), the amendments made by this section [enacting [section 647 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-647), amending this section and sections 532, 619, 641, 1174, 2114, 12201, 12203, and 12731 of this title, and repealing [section 522 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-522)] shall take effect on the first day of the first month beginning more than 180 days after the date of the enactment of this Act [Oct. 28, 2004]. “(2) The amendment made by subsection (a)(1) [amending [section 532 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-532)] shall take effect on May 1, 2005.”
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this chapter effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Transition Provisions Under Defense Officer Personnel Management Act
 For provisions to prevent extinction or premature termination of rights, duties, penalties, or proceedings that existed or were begun prior to the effective date of Pub. L. 96–513 and otherwise to allow for an orderly transition to the system of officer personnel management put in place under Pub. L. 96–513, see section 601 et seq. of Pub. L. 96–513, set out as a note under [section 611 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-611).
@@ -71,7 +73,7 @@ George W. Bush.
 
 <a id="section-532"></a>
 ## § 532. Qualifications for original appointment as a commissioned officer
-**(a)** Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force may be given only to a person who—
+**(a)** Under regulations prescribed by the Secretary of Defense, an original appointment as a commissioned officer (other than as a commissioned warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps may be given only to a person who—
 
 (1) is a citizen of the United States;
 
@@ -106,6 +108,8 @@ George W. Bush.
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 substituted “or Regular Marine Corps” for “Regular Marine Corps, or Regular Space Force” in introductory provisions.
+
 2021—Subsec. (a). Pub. L. 116–283 substituted “Regular Marine Corps, or Regular Space Force” for “or Regular Marine Corps” in introductory provisions.
 
 2018—Subsec. (a)(2) to (5). Pub. L. 115–232, § 501(a), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “is able to complete 20 years of active commissioned service before his sixty-second birthday;”.
@@ -145,7 +149,7 @@ Amendment by section 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with pr
 Amendment by section 501(a)(1) of Pub. L. 108–375 effective on May 1, 2005, and amendment by section 501(a)(2), (3)(A) of Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Appointment of Citizens of Northern Mariana Islands as Commissioned Officers
 Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a citizen of the Northern Mariana Islands who indicates in writing to a commissioned officer of the Armed Forces of the United States an intent to become a citizen, and not a national, of the United States, and who is otherwise qualified for military service under applicable laws and regulations, may be appointed as an officer in the Armed Forces of the United States, may be appointed or enrolled in the Senior Reserve Officers’ Training Corps program of any of the Armed Forces under chapter 103 of title 10, United States Code, and may be selected to be a participant in the Armed Forces Health Professions Scholarship program under chapter 105 of such title, and that this section shall expire upon the establishment of the Commonwealth of the Northern Mariana Islands. The Commonwealth was established as of 12:01 a.m., Nov. 4, 1986, see section 2(a), (b) of Proc. No. 5564, set out as a note under [section 1801 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1801&num=0&edition=prelim), Territories and Insular Possessions.
@@ -155,13 +159,13 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 ## § 533. Service credit upon original appointment as a commissioned officer
 **(a)**
 
-(1) For the purpose of determining the grade and rank within grade of a person receiving an original appointment in a commissioned grade (other than a warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force, such person shall be credited at the time of such appointment with any active commissioned service (other than service as a commissioned warrant officer) that he performed in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service before such appointment.
+(1) For the purpose of determining the grade and rank within grade of a person receiving an original appointment in a commissioned grade (other than a warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Space Force, such person shall be credited at the time of such appointment with any active commissioned service (other than service as a commissioned warrant officer) that he performed in any armed force, the National Oceanic and Atmospheric Administration, or the Public Health Service before such appointment.
 
 (2) The Secretary of Defense shall prescribe regulations, which shall apply uniformly among the Army, Navy, Air Force, Marine Corps, and Space Force, to authorize the Secretary of the military department concerned to limit the amount of prior active commissioned service with which a person receiving an original appointment may be credited under paragraph (1), or to deny any such credit, in the case of a person who at the time of such appointment is credited with constructive service under subsection (b).
 
 **(b)**
 
-(1) Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned shall credit a person who is receiving an original appointment in a commissioned grade (other than a commissioned warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force and who has advanced education or training or special experience with constructive service for such education, training, or experience as follows:
+(1) Under regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned shall credit a person who is receiving an original appointment in a commissioned grade (other than a commissioned warrant officer grade) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Space Force and who has advanced education or training or special experience with constructive service for such education, training, or experience as follows:
 
   (A) One year for each year of advanced education beyond the baccalaureate degree level, for persons appointed, designated, or assigned in officer categories requiring such advanced education or an advanced degree as a prerequisite for such appointment, designation, or assignment. In determining the number of years of constructive service to be credited under this clause to officers in any professional field, the Secretary concerned shall credit an officer with, but with not more than, the number of years of advanced education required by a majority of institutions that award degrees in that professional field for completion of the advanced education or award of the advanced degree.
 
@@ -201,7 +205,7 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 
 **(e)** If the Secretary of Defense determines that the number of qualified judge advocates serving on active duty in the Army, Navy, Air Force, or Marine Corps in grades below major or lieutenant commander is critically below the number needed by such armed force in such grades, he may authorize the Secretary of the military department concerned to credit any person receiving an original appointment in the Judge Advocate General’s Corps of the Army or Navy, or any person receiving an original appointment in the Air Force or Marine Corps with a view to designation as a judge advocate, with a period of constructive service in such an amount (in addition to any period of service credited such person under subsection (b)(1)) as will result in the grade of such person being that of captain or, in the case of an officer of the Navy, lieutenant and the date of rank of such person being junior to that of all other officers of the same grade serving on active duty.
 
-**(f)** A reserve officer (other than a warrant officer) who receives an original appointment as an officer (other than as a warrant officer) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Space Force shall—
+**(f)** A reserve officer (other than a warrant officer) who receives an original appointment as an officer (other than as a warrant officer) in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Space Force shall—
 
 (1) in the case of an officer on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank held by the officer on the active-duty list immediately before the appointment; and
 
@@ -210,6 +214,8 @@ Pub. L. 98–94, title X, § 1006, Sept. 24, 1983, 97 Stat. 661, provided that a
 ### Statutory Notes
 
 #### Amendments
+2023—Subsecs. (a)(1), (b)(1), (f). Pub. L. 118–31 struck out “Regular” before “Space Force”.
+
 2021—Subsec. (a)(1). Pub. L. 116–283, § 924(b)(4)(C), substituted “Regular Marine Corps, or Regular Space Force” for “or Regular Marine Corps”.
 
 Subsec. (a)(2). Pub. L. 116–283, § 924(b)(1)(B), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
@@ -259,7 +265,7 @@ Subsec. (d)(1). Pub. L. 97–22, § 3(c)(4), inserted provision that, in the cas
 Subsec. (f). Pub. L. 97–22, § 3(c)(5), substituted “A reserve officer (other than a warrant officer) who receives an original appointment as an officer (other than as a warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps shall (1) in the case of an officer on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank held by the officer on the active-duty list immediately before the appointment; and (2) in the case of an officer not on the active-duty list immediately before that appointment as a regular officer, be appointed in the same grade and with the same date of rank as the grade and date of rank which the officer would have held had the officer been serving on the active-duty list on the date of the appointment as a regular officer” for “An officer of a reserve component who receives an original appointment as an officer (other than a warrant officer) in the Regular Army, Regular Navy, Regular Air Force, or Regular Marine Corps shall be appointed in the grade and with the date of rank to which he would have been entitled had he been serving on active duty as an officer of a reserve component on the date of such original appointment as a regular officer”.
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Annual Report
 Pub. L. 116–283, div. A, title V, § 502(c), Jan. 1, 2021, 134 Stat. 3564, provided that: “(1) In general.—Not later than February 1, 2022, and every four years thereafter [sic], each Secretary of a military department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the use of the authorities in subparagraph (D) of section 553(b)(1) [probably means section 533(b)(1)] of title 10, United States Code (as amended by subsection (a)), and subparagraph (D) of section 12207(b)(1) of such title (as amended by subsection (b)) (each referred to in this subsection as a ‘constructive credit authority’) during the preceding fiscal year for the Armed Forces under the jurisdiction of such Secretary. “(2) Elements.—Each report under paragraph (1) shall include, for the fiscal year and Armed Forces covered by such report, the following:“(A) The manner in which constructive service credit was calculated under each constructive credit authority. “(B) The number of officers credited constructive service credit under each constructive credit authority. “(C) A description and assessment of the utility of the constructive credit authorities in meeting the operational needs of the Armed Force concerned. “(D) Such other matters in connection with the constructive credit authorities as the Secretary of the military department concerned considers appropriate.”

@@ -2,7 +2,7 @@
 title: 26
 chapter: '1'
 heading: NORMAL TAXES AND SURTAXES
-section_count: 864
+section_count: 866
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26&num=0&edition=prelim
 ---
@@ -1017,6 +1017,17 @@ Pub. L. 89–809, title I, § 103(n), Nov. 13, 1966, 80 Stat. 1555, provided tha
 #### Effective Date of 1964 Amendment
 Pub. L. 88–272, title I, § 131, Feb. 26, 1964, 78 Stat. 30, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “Except for purposes of section 21 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] (relating to effect of changes in rates during a taxable year), the amendments made by parts I and II of this title [amending this section and sections 2, 11, 37, 141, 144, 242, 821, 871, 963, 6016, 6074, 6154, 6212, 6504, and 6655 of this title] shall apply with respect to taxable years beginning after December 31, 1963.”
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–60, § 1, May 10, 2024, 138 Stat. 1018, provided that: “This Act [amending [section 9502 of this title](./chapter-098-trust-fund-code.md#section-9502)] may be cited as the ‘Airport and Airway Extension Act of 2024, Part II’.”
+
+Pub. L. 118–41, § 1, Mar. 8, 2024, 138 Stat. 20, provided that: “This Act [amending sections 4043, 4081, 4083, 4261, 4271, and 9502 of this title, [section 124n of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section124n&num=0&edition=prelim), Domestic Security, sections 106, 41742, 41743, 44310, 44803, 44807, 44810, 47104, 47107, 47114, 47115, 47141, 47143, 48101 to 48103, and 48105 of Title 49, Transportation, and [section 50905 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50905&num=0&edition=prelim), National and Commercial Space Programs, and amending provisions set out as a note preceding [section 42301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42301&num=0&edition=prelim) and provisions set out as notes under sections 40103, 41705, 41731, 42302, 44810, 47102, 47104, and 47141 of Title 49] may be cited as the ‘Airport and Airway Extension Act of 2024’.”
+
+#### Short Title of 2023 Amendment
+Pub. L. 118–34, § 1(a), Dec. 26, 2023, 137 Stat. 1112, provided that: “This Act [amending sections 4043, 4081, 4083, 4261, 4271, and 9502 of this title, sections 106, 41742, 41743, 44310, 44803, 44807, 44810, 47104, 47107, 47114, 47115, 47141, 47143, 48101 to 48103, and 48105 of Title 49, Transportation, and [section 50905 of Title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50905&num=0&edition=prelim), National and Commercial Space Programs, and amending provisions set out as a note preceding [section 42301 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section42301&num=0&edition=prelim) and provisions set out as notes under sections 40103, 41705, 41731, 42302, 44810, 47102, 47104, and 47141 of Title 49] may be cited as the ‘Airport and Airway Extension Act of 2023, Part II’.”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–328, div. T, § 1(a), Dec. 29, 2022, 136 Stat. 5275, provided that: “This division [see Tables for classification] may be cited as the ‘SECURE 2.0 Act of 2022’.”
+
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. N, title II, § 271(a), Dec. 27, 2020, 134 Stat. 1964, provided that: “This subtitle [subtitle B (§§ 271–288) of title II of div. N of Pub. L. 116–260, see Tables for classification] may be cited as the ‘COVID-related Tax Relief Act of 2020’.”
 
@@ -1552,8 +1563,13 @@ Pub. L. 94–164, § 1A, Dec. 23, 1975, 89 Stat. 970, provided that: “(a) Cong
 #### Congressional Declaration Relating to 1964 Amendment
 Pub. L. 88–272, § 1, Feb. 26, 1964, 78 Stat. 19, provided that: “It is the sense of Congress that the tax reduction provided by this Act [see Short Title of 1964 Amendment note above] through stimulation of the economy, will, after a brief transitional period, raise (rather than lower) revenues and that such revenue increases should first be used to eliminate the deficits in the administrative budgets and then to reduce the public debt. To further the objective of obtaining balanced budgets in the near future, Congress by this action, recognizes the importance of taking all reasonable means to restrain Government spending and urges the President to declare his accord with this objective.”
 
+#### Definitions
+Pub. L. 105–277, div. J, title IV, § 4001(a), Oct. 21, 1998, 112 Stat. 2681–906, provided that: “For purposes of this title [amending this section, sections 51, 56, 67, 68, 86, 135, 137, 163, 172, 219, 221, 264, 351, 368, 408A, 469, 873, 954, 2001, 2031, 6015, 6103, 6159, 6311, 6404, 6693, 7421, 7443A, 7491, 9503, and 9510 of this title, and sections 401 and 407 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 51, 67, 68, 86, 172, 833, 6103, and 9503 of this title, and [section 401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim), and amending provisions set out as notes under sections 6601 and 7508A of this title]— “(1) 1986 code.—The term ‘1986 Code’ means the Internal Revenue Code of 1986. “(2) 1998 act.—The term ‘1998 Act’ means the Internal Revenue Service Restructuring and Reform Act of 1998 (Public Law 105–206) [see Tables for classification]. “(3) 1997 act.—The term ‘1997 Act’ means the Taxpayer Relief Act of 1997 (Public Law 105–34) [see Tables for classification].”
+
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A, 25B, 32, 36B, 42, 45R, 55, 59, 62, 63, 68, 125, 132, 135, 137, 146, 147, 148, 151, 152, 179, 179D, 199A, 213, 219, 220, 221, 223, 408A, 448, 461, 512, 513, 642, 685, 831, 877, 877A, 911, 1274A, 2010, 2032A, 2503, 2523, 2631, 4001, 4003, 4161, 4261, 5000A, 6012, 6013, 6033, 6039F, 6323, 6334, 6601, 6651, 6652, 6695, 6698, 6699, 6721, 6722, 7345, 7430, 7702B, and 9831 of this title for certain years were contained in the following:
+
+2023—Revenue Procedure 2022–38.
 
 2022—Revenue Procedure 2021–45.
 
@@ -1627,8 +1643,70 @@ Provisions relating to inflation adjustment of items in sections 1, 23, 24, 25A,
 
 1985—Revenue Procedure 84–79.
 
-#### Definitions
-Pub. L. 105–277, div. J, title IV, § 4001(a), Oct. 21, 1998, 112 Stat. 2681–906, provided that: “For purposes of this title [amending this section, sections 51, 56, 67, 68, 86, 135, 137, 163, 172, 219, 221, 264, 351, 368, 408A, 469, 873, 954, 2001, 2031, 6015, 6103, 6159, 6311, 6404, 6693, 7421, 7443A, 7491, 9503, and 9510 of this title, and sections 401 and 407 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section, sections 51, 67, 68, 86, 172, 833, 6103, and 9503 of this title, and [section 401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim), and amending provisions set out as notes under sections 6601 and 7508A of this title]— “(1) 1986 code.—The term ‘1986 Code’ means the Internal Revenue Code of 1986. “(2) 1998 act.—The term ‘1998 Act’ means the Internal Revenue Service Restructuring and Reform Act of 1998 (Public Law 105–206) [see Tables for classification]. “(3) 1997 act.—The term ‘1997 Act’ means the Taxpayer Relief Act of 1997 (Public Law 105–34) [see Tables for classification].”
+#### Ex. Ord. No. 14082. Implementation of the Energy and Infrastructure Provisions of the Inflation Reduction Act of 2022
+Ex. Ord. No. 14082, Sept. 12, 2022, 87 F.R. 56861, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to effectively implement the historic energy and infrastructure provisions in Public Law 117–169, commonly referred to as the Inflation Reduction Act of 2022 (the “Act”) [see Tables for classification], and to accelerate United States global leadership in clean energy innovation, manufacturing, and deployment in a way that cuts consumer energy costs, creates well-paying union jobs and sustainable and equitable economic opportunity, advances environmental justice, and addresses the climate crisis, it is hereby ordered as follows:
+
+Section 1. Background. The Act is the single largest and most ambitious investment in the ability of the United States to advance clean energy, cut consumer energy costs, confront the climate crisis, promote environmental justice, and strengthen energy security, among other vital provisions that will lower costs for families, reduce the deficit, and grow and strengthen the economy. The Act will:
+
+(a) build on the once-in-a-generation investment in the infrastructure and competitiveness of the United States set forth in the Infrastructure Investment and Jobs Act (Public Law 117–58) [see Tables for classification] by accelerating the deployment of clean energy technologies, making home energy efficiency and clean energy installations more affordable, and incentivizing the purchase of electric vehicles;
+
+(b) boost energy security and lower energy costs for families, businesses, and government;
+
+(c) revitalize American manufacturing by investing in domestic clean energy supply chains and creating well-paying union jobs, including in traditional energy communities;
+
+(d) improve public health and advance environmental justice and economic opportunity for frontline communities who disproportionately bear the brunt of cumulative exposure to industrial and energy pollution;
+
+(e) promote climate justice by reducing harmful greenhouse gas emissions in line with the goal of realizing net-zero emissions by no later than 2050;
+
+(f) harness nature-based solutions—including climate-smart agriculture and forestry—that deliver economic benefits for rural communities, Tribes, farmers, ranchers, and forest landowners;
+
+(g) expand research and accelerate innovation in the development of clean energy, climate, and related technologies; and
+
+(h) increase the resilience of our communities in the face of a changing climate.
+
+Achieving these goals will require effective implementation of the Act by my Administration, as well as by State, local, Tribal, and territorial governments.
+
+Sec. 2. Implementation Priorities. In implementing the Act, all agencies (as described in [section 3502(1) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/1&num=0&edition=prelim), United States Code, except for the agencies described in [section 3502(5) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/5&num=0&edition=prelim)) shall, as appropriate and to the extent consistent with law, prioritize:
+
+(a) investing public dollars effectively and efficiently, working to avoid waste, and achieving measurable, demonstrable outcomes for the American people;
+
+(b) driving progress to achieve the climate goals of the United States to reduce greenhouse gas emissions 50–52 percent below 2005 levels in 2030, achieve a carbon pollution-free electricity sector by 2035, and achieve net-zero emissions by no later than 2050;
+
+(c) advancing environmental and climate justice through an all-of-government approach, including through the Justice40 Initiative set forth in Executive Order 14008 of January 27, 2021 (Tackling the Climate Crisis at Home and Abroad) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) note], to protect and improve the health and well-being of fence-line and frontline communities in the United States;
+
+(d) promoting construction of clean energy generation, storage, and transmission, and enabling technologies through efficient, effective mechanisms that incorporate community engagement;
+
+(e) increasing the competitiveness of the United States economy and investment in critical supply chains, including through the Act’s incentives and measures to strengthen domestic manufacturing and supply chains;
+
+(f) increasing high-quality job opportunities for American workers and improving equitable access to these jobs, including in traditional energy communities, through the timely implementation of the Act’s requirements for prevailing wages and registered apprenticeships and by focusing on high labor standards and the free and fair chance to join a union;
+
+(g) reducing energy costs for working families, businesses, and governments at all levels while increasing energy security for the benefit of United States economic competitiveness and national security;
+
+(h) accelerating innovation by directing the scientific and technical expertise of America’s researchers, businesses, and workers toward achieving breakthroughs in clean energy and climate technologies; and
+
+(i) effectively coordinating with State, local, Tribal, and territorial governments, as well as with private-sector stakeholders and nongovernmental organizations, in implementing the critical investments outlined in this section to build sustainable, resilient communities.
+
+Sec. 3. White House Office on Clean Energy Innovation and Implementation. There is hereby established the White House Office on Clean Energy Innovation and Implementation within the Executive Office of the President, which shall coordinate the policymaking process with respect to implementing the energy and infrastructure provisions of the Act and other essential initiatives. The White House Office on Clean Energy Innovation and Implementation shall have a staff headed by the Senior Advisor for Clean Energy Innovation and Implementation; shall have such staff and other assistance as may be necessary to carry out the provisions of this order, subject to the availability of appropriations; and may work with established or ad hoc committees and interagency groups.
+
+Sec. 4. Interagency Coordination. (a) [Amended Ex. Ord. No. 14008, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.]
+
+(b) [Amended Ex. Ord. No. 12898, set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim).]
+
+(c) [Amended Ex. Ord. No. 14052, set out as a note under [section 101 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), Highways.]
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-2"></a>
@@ -2721,7 +2799,7 @@ the section 22 amount shall be reduced by one-half of the excess of the adjusted
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(A)(i)(I), (B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (c)(3)(A)(i)(II), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
@@ -4367,10 +4445,27 @@ Pub. L. 111–5, div. B, title I, § 1004(c), Feb. 17, 2009, 123 Stat. 314, as a
 
 ### Statutory Notes
 
+#### Amendment of Subsection (d)(1)
+Pub. L. 117–328, div. T, title I, § 103(e)(1), (f), Dec. 29, 2022, 136 Stat. 5286, provided that, applicable to taxable years beginning after Dec. 31, 2026, subsection (d)(1) of this section is amended by striking “the sum of—” and all that follows through “the amount of contributions made before January 1, 2026” and inserting “the amount of contributions made before January 1, 2026”. See 2022 Amendment note below.
+
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–328 substituted “the amount of contributions made before January 1, 2026” for “the sum of—
+
+“(A) the amount of the qualified retirement contributions (as defined in section 219(e)) made by the eligible individual,
+
+“(B) the amount of—
+
+“(i) any elective deferrals (as defined in section 402(g)(3)) of such individual, and
+
+“(ii) any elective deferral of compensation by such individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A),
+
+“(C) the amount of voluntary employee contributions by such individual to any qualified retirement plan (as defined in section 4974(c)), and
+
+“(D) the amount of contributions made before January 1, 2026”.
+
 2017—Subsec. (b)(3)(B). Pub. L. 115–97, § 11002(d)(1)(C), substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.
 
 Subsec. (d)(1)(D). Pub. L. 115–97, § 11024(b), added subpar. (D).
@@ -4410,6 +4505,9 @@ Subsec. (h). Pub. L. 109–280, § 812, struck out heading and text of subsec. (
 Subsecs. (g), (h). Pub. L. 107–147, § 417(1), redesignated subsec. (g), relating to termination, as (h).
 
 2001—Subsec. (g). Pub. L. 107–16, § 618(b)(1), added subsec. (g) relating to limitation based on amount of tax.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2026, see section 103(f) of Pub. L. 117–328, set out as an Effective Date note under [section 6433 of this title](./chapter-065-abatements-credits-and-refunds.md#section-6433).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 31, 2011, see section 104(d) of Pub. L. 112–240, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
@@ -4610,7 +4708,7 @@ Amendment by section 618(b)(1) of Pub. L. 107–16 applicable to taxable years b
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 117–169, title I, § 13704(b)(1), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (d)(3) of this section is amended by striking “and” at the end of subparagraph (A), striking the period at the end of subparagraph (B) and inserting “, and”, and adding at the end the following new subparagraph:
+Pub. L. 117–169, title I, § 13704(b)(1), (c), Aug. 16, 2022, 136 Stat. 2002, 2003, provided that, applicable to transportation fuel produced after Dec. 31, 2024, subsection (d)(3) of this section is amended by striking “and” at the end of subparagraph (A), by striking the period at the end of subparagraph (B) and inserting “, and”, and by adding at the end the following new subparagraph:
 
 (C) transportation fuel (as defined in section 45Z(d)(5)).
 
@@ -4646,7 +4744,10 @@ For purposes of this section, the term “qualified manufacturer” means any ma
 
 For purposes of this subsection, the term “specified property” means any qualified energy property and any property described in subparagraph (B) or (C) of subsection (c)(3).
 
-See 2022 Amendment note below.
+See 2022 Amendment notes below.
+
+#### References in Text
+The date of the enactment of this subsection, referred to in subsec. (e)(2), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments
 2022—Pub. L. 117–169, § 13301(h)(1), substituted “Energy efficient home improvement credit” for “Nonbusiness energy property” in section catchline.
@@ -4659,7 +4760,7 @@ Subsec. (a). Pub. L. 117–169, § 13301(b), amended subsec. (a) generally. Prio
 
 Subsec. (a)(3). Pub. L. 117–169, § 13301(f)(1), added par. (3).
 
-Subsec. (b). Pub. L. 117–169, § 13301(c), amended subsec. (b) generally. Prior to amendment, text of subsec. (b) read as follows:
+Subsec. (b). Pub. L. 117–169, § 13301(c), amended subsec. (b) generally. Prior to amendment, text read as follows:
 
 “(1) Lifetime limitation.—The credit allowed under this section with respect to any taxpayer for any taxable year shall not exceed the excess (if any) of $500 over the aggregate credits allowed under this section with respect to such taxpayer for all prior taxable years ending after December 31, 2005.
 
@@ -4967,7 +5068,7 @@ Subsec. (a)(6). Pub. L. 117–169, § 13302(b)(1), amended par. (6) generally. P
 
 Subsec. (d)(3). Pub. L. 117–169, § 13302(c)(1), inserted “, without regard to subparagraph (D) thereof” after “section 48(c)(1)”.
 
-Subsec. (d)(6). Pub. L. 117–169, § 13302(b)(2), amended par. (6) generally. Prior to amendment, par. (6) related to qualified biomass fuel property expenditure, and subpars. (A) and (B) read as follows:
+Subsec. (d)(6). Pub. L. 117–169, § 13302(b)(2), amended par. (6) generally. Prior to amendment, text read as follows:
 
 “(A) In general.—The term ‘qualified biomass fuel property expenditure’ means an expenditure for property—
 
@@ -4977,7 +5078,7 @@ Subsec. (d)(6). Pub. L. 117–169, § 13302(b)(2), amended par. (6) generally. P
 
 “(B) Biomass fuel.—For purposes of this section, the term ‘biomass fuel’ means any plant-derived fuel available on a renewable or recurring basis.”
 
-Subsec. (g)(2). Pub. L. 117–169, § 13302(a)(2)(A), substituted “before January 1, 2022, 26 percent,” for “before January 1, 2023, 26 percent, and”
+Subsec. (g)(2). Pub. L. 117–169, § 13302(a)(2)(A), substituted “before January 1, 2022, 26 percent,” for “before January 1, 2023, 26 percent, and”.
 
 Subsec. (g)(3) to (5). Pub. L. 117–169, § 13302(a)(2)(B), added pars. (3) to (5) and struck out former par. (3) which read as follows: “in the case of property placed in service after December 31, 2022, and before January 1, 2024, 22 percent.”
 
@@ -5179,18 +5280,14 @@ Section applicable to property placed in service after Dec. 31, 2005, in taxable
 
 **(e) Application of certain rules** For purposes of this section, rules similar to the rules of section 30D(f) (without regard to paragraph (10) or (11) thereof) shall apply for purposes of this section.
 
-**(f) Termination** No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032.
+**(f) Transfer of credit** Rules similar to the rules of section 30D(g) shall apply.
+
+**(g) Termination** No credit shall be allowed under this section with respect to any vehicle acquired after December 31, 2032.
 
 ### Statutory Notes
 
-#### Amendment of Section
-Pub. L. 117–169, title I, § 13402(b), (e)(2), Aug. 16, 2022, 136 Stat. 1963, 1964, provided that, applicable to vehicles acquired after Dec. 31, 2023, this section is amended by redesignating subsection (f) as subsection (g) and adding the following new subsection (f):
-
-(f) Transfer of credit
-
-Rules similar to the rules of section 30D(g) shall apply.
-
-See 2022 Amendment note below.
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (c)(2)(C), is the date of enactment of Pub. L. 117–169, which was approved Aug. 16, 2022.
 
 #### Amendments
 2022—Subsecs. (f), (g). Pub. L. 117–169, § 13402(b), added subsec. (f) and redesignated former subsec. (f) as (g).
@@ -5938,7 +6035,7 @@ Pub. L. 109–432, div. A, title I, § 119, Dec. 20, 2006, 120 Stat. 2942, as am
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Sections 202(i), 209(b), and 243(e)(2) of the Act are classified to sections 7521(i), 7543(b), and 7583(e)(2), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in text, is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Sections 202(i), 209(b), and 243(e)(2) of the Act are classified to sections 7521(i), 7543(b), and 7583(e)(2), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this section, referred to in subsecs. (b)(3)(B) and (h)(2), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
@@ -6173,15 +6270,13 @@ Subsec. (c)(1)(B)(iv). Pub. L. 117–169, § 13704(b)(2), added cl. (iv).
 
 Subsec. (c)(3). Pub. L. 117–169, § 13404(e), added par. (3).
 
-Subsec. (f). Pub. L. 117–169, § 13404(c), added subsec. (f). Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 117–169, § 13404(c), added subsec. (f). Former subsec. (f) redesignated (g), then (h).
 
-Subsec. (g). Pub. L. 117–169, § 13404(d), added subsec. (g). Former subsec. (g) redesignated (h).
-
-Pub. L. 117–169, § 13404(c), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 117–169, § 13404(d), added subsec. (g). Former subsec. (g) redesignated (h), then (i).
 
 Pub. L. 117–169, § 13404(a), substituted “December 31, 2032” for “December 31, 2021”.
 
-Subsecs. (h), (i). Pub. L. 117–169, § 13404(d), redesignated subsecs. (g) and (h) as (h) and (i), respectively.
+Subsecs. (h), (i). Pub. L. 117–169, § 13404(c), (d), successively redesignated subsecs. (f) and (g) as (h) and (i), respectively.
 
 2020—Subsec. (g). Pub. L. 116–260 substituted “December 31, 2021” for “December 31, 2020”.
 
@@ -6294,9 +6389,9 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 (1) **In general** — The amount determined under this subsection with respect to any new clean vehicle is the sum of the amounts determined under paragraphs (2) and (3) with respect to such vehicle.
 
-(2) **Base amount** — The amount determined under this paragraph is $2,500.
+(2) **Critical minerals** — In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.
 
-(3) **Battery capacity** — In the case of a vehicle which draws propulsion energy from a battery with not less than 5 kilowatt hours of capacity, the amount determined under this paragraph is $417, plus $417 for each kilowatt hour of capacity in excess of 5 kilowatt hours. The amount determined under this paragraph shall not exceed $5,000.
+(3) **Battery components** — In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.
 
 **(c) Application with other credits**
 
@@ -6334,13 +6429,15 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
     (iii) the battery capacity of the vehicle,
 
-    (iv) verification that original use of the vehicle commences with the taxpayer, and
+    (iv) verification that original use of the vehicle commences with the taxpayer,
 
-    (v) the maximum credit under this section allowable to the taxpayer with respect to the vehicle.
+    (v) the maximum credit under this section allowable to the taxpayer with respect to the vehicle, and
+
+    (vi) in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer.
 
 (2) **Motor vehicle** — The term “motor vehicle” means any vehicle which is manufactured primarily for use on public streets, roads, and highways (not including a vehicle operated exclusively on a rail or rails) and which has at least 4 wheels.
 
-(3) **Qualified manufacturer** — he term “qualified manufacturer” means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ([42 U.S.C. 7521](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521&num=0&edition=prelim) et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
+(3) **Qualified manufacturer** — The term “qualified manufacturer” means any manufacturer (within the meaning of the regulations prescribed by the Administrator of the Environmental Protection Agency for purposes of the administration of title II of the Clean Air Act ([42 U.S.C. 7521](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7521&num=0&edition=prelim) et seq.)) which enters into a written agreement with the Secretary under which such manufacturer agrees to make periodic written reports to the Secretary (at such times and in such manner as the Secretary may provide) providing vehicle identification numbers and such other information related to each vehicle manufactured by such manufacturer as the Secretary may require.
 
 (4) **Battery capacity** — The term “capacity” means, with respect to any battery, the quantity of electricity which the battery is capable of storing, expressed in kilowatt hours, as measured from a 100 percent state of charge to a 0 percent state of charge.
 
@@ -6348,7 +6445,62 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 (6) **New qualified fuel cell motor vehicle** — For purposes of this section, the term “new clean vehicle” shall include any new qualified fuel cell motor vehicle (as defined in section 30B(b)(3)) which meets the requirements under subparagraphs (G) and (H) of paragraph (1).
 
-**(e) Repealed. Pub. L. 117–169, title I, § 13401(d), Aug. 16, 2022, 136 Stat. 1956]**
+(7) **Excluded entities** — For purposes of this section, the term “new clean vehicle” shall not include—
+
+  (A) any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act ([42 U.S.C. 18741(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18741/a/5&num=0&edition=prelim))), or
+
+  (B) any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined).
+
+**(e) Critical mineral and battery component requirements**
+
+(1) **Critical minerals requirement**
+
+  (A) *In general* — The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section 45X(c)(6)) contained in such battery that were—
+
+    (i) extracted or processed—
+
+      (I) in the United States, or
+
+      (II) in any country with which the United States has a free trade agreement in effect, or
+
+    (ii) recycled in North America,
+    is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
+
+  (B) *Applicable percentage* — For purposes of subparagraph (A), the applicable percentage shall be—
+
+    (i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,
+
+    (ii) in the case of a vehicle placed in service during calendar year 2024, 50 percent,
+
+    (iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent,
+
+    (iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent, and
+
+    (v) in the case of a vehicle placed in service after December 31, 2026, 80 percent.
+
+(2) **Battery components**
+
+  (A) *In general* — The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
+
+  (B) *Applicable percentage* — For purposes of subparagraph (A), the applicable percentage shall be—
+
+    (i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,
+
+    (ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,
+
+    (iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent,
+
+    (iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,
+
+    (v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,
+
+    (vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent.
+
+(3) **Regulations and guidance**
+
+  (A) *In general* — The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
+
+  (B) *Deadline for proposed guidance* — Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection.
 
 **(f) Special rules**
 
@@ -6356,7 +6508,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
 (2) **No double benefit** — The amount of any deduction or other credit allowable under this chapter for a vehicle for which a credit is allowable under subsection (a) shall be reduced by the amount of credit allowed under such subsection for such vehicle (determined without regard to subsection (c)).
 
-(3) **Property used by tax-exempt entity** — In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.
+(3) **Repealed. Pub. L. 117–169, title I, § 13401(g)(2)(B)(i), Aug. 16, 2022, 136 Stat. 1960]**
 
 (4) **Property used outside United States not qualified** — No credit shall be allowable under subsection (a) with respect to any property referred to in section 50(b)(1).
 
@@ -6370,7 +6522,7 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
   (B) the motor vehicle safety provisions of sections 30101 through 30169 of title 49, United States Code.
 
-(8) **One credit per vehicle** — In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle.
+(8) **One credit per vehicle** — In the case of any vehicle, the credit described in subsection (a) shall only be allowed once with respect to such vehicle, as determined based upon the vehicle identification number of such vehicle, including any vehicle with respect to which the taxpayer elects the application of subsection (g).
 
 (9) **VIN requirement** — No credit shall be allowed under this section with respect to any vehicle unless the taxpayer includes the vehicle identification number of such vehicle on the return of tax for the taxable year.
 
@@ -6412,226 +6564,65 @@ For provisions that nothing in amendment by Pub. L. 115–141 be construed to af
 
   (C) *Regulations and guidance* — For purposes of this paragraph, the Secretary shall prescribe such regulations or other guidance as the Secretary determines necessary for determining vehicle classifications using criteria similar to that employed by the Environmental Protection Agency and the Department of the Energy to determine size and class of vehicles.
 
-**(g) Credit allowed for 2- and 3-wheeled plug-in electric vehicles**
+**(g) Transfer of credit**
 
-(1) **In general** — In the case of a qualified 2- or 3-wheeled plug-in electric vehicle—
+(1) **In general** — Subject to such regulations or other guidance as the Secretary determines necessary, if the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer).
 
-  (A) there shall be allowed as a credit against the tax imposed by this chapter for the taxable year an amount equal to the sum of the applicable amount with respect to each such qualified 2- or 3-wheeled plug-in electric vehicle placed in service by the taxpayer during the taxable year, and
+(2) **Eligible entity** — For purposes of this subsection, the term “eligible entity” means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has—
 
-  (B) the amount of the credit allowed under subparagraph (A) shall be treated as a credit allowed under subsection (a).
+  (A) subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,
 
-(2) **Applicable amount** — For purposes of paragraph (1), the applicable amount is an amount equal to the lesser of—
+  (B) prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle—
 
-  (A) 10 percent of the cost of the qualified 2- or 3-wheeled plug-in electric vehicle, or
+    (i) the manufacturer’s suggested retail price,
 
-  (B) $2,500.
+    (ii) the value of the credit allowed and any other incentive available for the purchase of such vehicle, and
 
-(3) **Qualified 2- or 3-wheeled plug-in electric vehicle** — The term “qualified 2- or 3-wheeled plug-in electric vehicle” means any vehicle which—
+    (iii) the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),
 
-  (A) has 2 or 3 wheels,
+  (C) not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and
 
-  (B) meets the requirements of subparagraphs (A), (B), (C), (E), and (F) of subsection (d)(1) (determined by substituting “2.5 kilowatt hours” for “4 kilowatt hours” in subparagraph (F)(i)),
+  (D) with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that—
 
-  (C) is manufactured primarily for use on public streets, roads, and highways,
+    (i) the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and
 
-  (D) is capable of achieving a speed of 45 miles per hour or greater, and
+    (ii) such election shall not limit the value or use of such incentive.
 
-  (E) is acquired—
+(3) **Timing** — An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased.
 
-    (i) after December 31, 2011, and before January 1, 2014, or
+(4) **Revocation of registration** — Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer.
 
-    (ii) in the case of a vehicle that has 2 wheels, after December 31, 2014, and before January 1, 2022.
+(5) **Tax treatment of payments** — With respect to any payment described in paragraph (2)(C), such payment—
+
+  (A) shall not be includible in the gross income of the taxpayer, and
+
+  (B) with respect to the dealer, shall not be deductible under this title.
+
+(6) **Application of certain other requirements** — In the case of any election under paragraph (1) with respect to any vehicle—
+
+  (A) the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section with respect to such vehicle were allowed to such taxpayer,
+
+  (B) paragraph (6) of such subsection shall not apply, and
+
+  (C) the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied if the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide.
+
+(7) **Advance payment to registered dealers**
+
+  (A) *In general* — The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made.
+
+  (B) *Excessive payments* — Rules similar to the rules of section 6417(d)(6) shall apply for purposes of this paragraph.
+
+  (C) *Treatment of advance payments* — For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
+
+(8) **Dealer** — For purposes of this subsection, the term “dealer” means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/m&num=0&edition=prelim)) 11 So in original. Another closing parenthesis probably should appear. to engage in the sale of vehicles.
+
+(9) **Indian tribal government** — For purposes of this subsection, the term “Indian tribal government” means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 5131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim)).
+
+(10) **Recapture** — In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer.
 
 **(h) Termination** No credit shall be allowed under this section with respect to any vehicle placed in service after December 31, 2032.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 117–169, title I, § 13401(a), (e), (k)(3), Aug. 16, 2022, 136 Stat. 1954, 1956, 1961, provided that, applicable to vehicles placed in service after the date on which the proposed guidance described in subsection (e)(3)(B) of this section, set out below, is issued by the Secretary of the Treasury (or the Secretary’s delegate), this section is amended as follows:
-
-(1) in subsection (b), by striking paragraphs (2) and (3) and inserting the following:
-
-“(2) Critical minerals
-
-“In the case of a vehicle with respect to which the requirement described in subsection (e)(1)(A) is satisfied, the amount determined under this paragraph is $3,750.
-
-“(3) Battery components
-
-“In the case of a vehicle with respect to which the requirement described in subsection (e)(2)(A) is satisfied, the amount determined under this paragraph is $3,750.”;
-
-(2) in subsection (d), by adding at the end the following:
-
-“(7) Excluded entities
-
-“For purposes of this section, the term ‘new clean vehicle’ shall not include—
-
-“(A) any vehicle placed in service after December 31, 2024, with respect to which any of the applicable critical minerals contained in the battery of such vehicle (as described in subsection (e)(1)(A)) were extracted, processed, or recycled by a foreign entity of concern (as defined in section 40207(a)(5) of the Infrastructure Investment and Jobs Act ([42 U.S.C. 18741(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18741/a/5&num=0&edition=prelim))), or
-
-“(B) any vehicle placed in service after December 31, 2023, with respect to which any of the components contained in the battery of such vehicle (as described in subsection (e)(2)(A)) were manufactured or assembled by a foreign entity of concern (as so defined).”; and
-
-(3) by inserting after subsection (d) the following:
-
-“(e) Critical mineral and battery component requirements
-
-“(1) Critical minerals requirement
-
-“(A) In general
-
-“The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the applicable critical minerals (as defined in section 45X(c)(6)) contained in such battery that were—
-
-“(i) extracted or processed—
-
-“(I) in the United States, or
-
-“(II) in any country with which the United States has a free trade agreement in effect, or
-
-“(ii) recycled in North America,
-
-is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
-
-“(B) Applicable percentage
-
-“For purposes of subparagraph (A), the applicable percentage shall be—
-
-“(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 40 percent,
-
-“(ii) in the case of a vehicle placed in service during calendar year 2024, 50 percent,
-
-“(iii) in the case of a vehicle placed in service during calendar year 2025, 60 percent,
-
-“(iv) in the case of a vehicle placed in service during calendar year 2026, 70 percent, and
-
-“(v) in the case of a vehicle placed in service after December 31, 2026, 80 percent.
-
-“(2) Battery components
-
-“(A) In general
-
-“The requirement described in this subparagraph with respect to a vehicle is that, with respect to the battery from which the electric motor of such vehicle draws electricity, the percentage of the value of the components contained in such battery that were manufactured or assembled in North America is equal to or greater than the applicable percentage (as certified by the qualified manufacturer, in such form or manner as prescribed by the Secretary).
-
-“(B) Applicable percentage
-
-“For purposes of subparagraph (A), the applicable percentage shall be—
-
-“(i) in the case of a vehicle placed in service after the date on which the proposed guidance described in paragraph (3)(B) is issued by the Secretary and before January 1, 2024, 50 percent,
-
-“(ii) in the case of a vehicle placed in service during calendar year 2024 or 2025, 60 percent,
-
-“(iii) in the case of a vehicle placed in service during calendar year 2026, 70 percent,
-
-“(iv) in the case of a vehicle placed in service during calendar year 2027, 80 percent,
-
-“(v) in the case of a vehicle placed in service during calendar year 2028, 90 percent,
-
-“(vi) in the case of a vehicle placed in service after December 31, 2028, 100 percent.
-
-“(3) Regulations and guidance
-
-“(A) In general
-
-“The Secretary shall issue such regulations or other guidance as the Secretary determines necessary to carry out the purposes of this subsection, including regulations or other guidance which provides for requirements for recordkeeping or information reporting for purposes of administering the requirements of this subsection.
-
-“(B) Deadline for proposed guidance
-
-“Not later than December 31, 2022, the Secretary shall issue proposed guidance with respect to the requirements under this subsection.”
-
-See 2022 Amendment notes below.
-
-Pub. L. 117–169, title I, § 13401(g), (k)(4), Aug. 16, 2022, 136 Stat. 1958, 1962, provided that, applicable to vehicles placed in service after Dec. 31, 2023, this section is amended as follows:
-
-(1) in subsection (d)(1)(H), by striking “and” at the end of clause (iv), striking the period at the end of clause (v) and inserting “, and”, and adding at the end the following:
-
-“(vi) in the case of a taxpayer who makes an election under subsection (g)(1), any amount described in subsection (g)(2)(C) which has been provided to such taxpayer.”;
-
-(2) in subsection (f):
-
-(A) by striking paragraph (3); and
-
-(B) in paragraph (8), by inserting “, including any vehicle with respect to which the taxpayer elects the application of subsection (g)” before the period at the end; and
-
-(3) by striking subsection (g) and inserting the following:
-
-“(g) Transfer of credit
-
-“(1) In general
-
-“Subject to such regulations or other guidance as the Secretary determines necessary, if the taxpayer who acquires a new clean vehicle elects the application of this subsection with respect to such vehicle, the credit which would (but for this subsection) be allowed to such taxpayer with respect to such vehicle shall be allowed to the eligible entity specified in such election (and not to such taxpayer).
-
-“(2) Eligible entity
-
-“For purposes of this subsection, the term ‘eligible entity’ means, with respect to the vehicle for which the credit is allowed under subsection (a), the dealer which sold such vehicle to the taxpayer and has—
-
-“(A) subject to paragraph (4), registered with the Secretary for purposes of this paragraph, at such time, and in such form and manner, as the Secretary may prescribe,
-
-“(B) prior to the election described in paragraph (1) and not later than at the time of such sale, disclosed to the taxpayer purchasing such vehicle—
-
-“(i) the manufacturer’s suggested retail price,
-
-“(ii) the value of the credit allowed and any other incentive available for the purchase of such vehicle, and
-
-“(iii) the amount provided by the dealer to such taxpayer as a condition of the election described in paragraph (1),
-
-“(C) not later than at the time of such sale, made payment to such taxpayer (whether in cash or in the form of a partial payment or down payment for the purchase of such vehicle) in an amount equal to the credit otherwise allowable to such taxpayer, and
-
-“(D) with respect to any incentive otherwise available for the purchase of a vehicle for which a credit is allowed under this section, including any incentive in the form of a rebate or discount provided by the dealer or manufacturer, ensured that—
-
-“(i) the availability or use of such incentive shall not limit the ability of a taxpayer to make an election described in paragraph (1), and
-
-“(ii) such election shall not limit the value or use of such incentive.
-
-“(3) Timing
-
-“An election described in paragraph (1) shall be made by the taxpayer not later than the date on which the vehicle for which the credit is allowed under subsection (a) is purchased.
-
-“(4) Revocation of registration
-
-“Upon determination by the Secretary that a dealer has failed to comply with the requirements described in paragraph (2), the Secretary may revoke the registration (as described in subparagraph (A) of such paragraph) of such dealer.
-
-“(5) Tax treatment of payments
-
-“With respect to any payment described in paragraph (2)(C), such payment—
-
-“(A) shall not be includible in the gross income of the taxpayer, and
-
-“(B) with respect to the dealer, shall not be deductible under this title.
-
-“(6) Application of certain other requirements
-
-“In the case of any election under paragraph (1) with respect to any vehicle—
-
-“(A) the requirements of paragraphs (1) and (2) of subsection (f) shall apply to the taxpayer who acquired the vehicle in the same manner as if the credit determined under this section with respect to such vehicle were allowed to such taxpayer,
-
-“(B) paragraph (6) of such subsection shall not apply, and
-
-“(C) the requirement of paragraph (9) of such subsection (f) shall be treated as satisfied if the eligible entity provides the vehicle identification number of such vehicle to the Secretary in such manner as the Secretary may provide.
-
-“(7) Advance payment to registered dealers
-
-“(A) In general
-
-“The Secretary shall establish a program to make advance payments to any eligible entity in an amount equal to the cumulative amount of the credits allowed under subsection (a) with respect to any vehicles sold by such entity for which an election described in paragraph (1) has been made.
-
-“(B) Excessive payments
-
-“Rules similar to the rules of section 6417(d)(6) shall apply for purposes of this paragraph.
-
-“(C) Treatment of advance payments
-
-“For purposes of [section 1324 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1324&num=0&edition=prelim), United States Code, the payments under subparagraph (A) shall be treated in the same manner as a refund due from a credit provision referred to in subsection (b)(2) of such section.
-
-“(8) Dealer
-
-“For purposes of this subsection, the term ‘dealer’ means a person licensed by a State, the District of Columbia, the Commonwealth of Puerto Rico, any other territory or possession of the United States, an Indian tribal government, or any Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/m&num=0&edition=prelim)) to engage in the sale of vehicles.
-
-“(9) Indian tribal government
-
-“For purposes of this subsection, the term ‘Indian tribal government’ means the recognized governing body of any Indian or Alaska Native tribe, band, nation, pueblo, village, community, component band, or component reservation, individually identified (including parenthetically) in the list published most recently as of the date of enactment of this subsection pursuant to section 104 of the Federally Recognized Indian Tribe List Act of 1994 ([25 U.S.C. 5131](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5131&num=0&edition=prelim)).
-
-“(10) Recapture
-
-“In the case of any taxpayer who has made an election described in paragraph (1) with respect to a new clean vehicle and received a payment described in paragraph (2)(C) from an eligible entity, if the credit under subsection (a) would otherwise (but for this subsection) not be allowable to such taxpayer pursuant to the application of subsection (f)(10), the tax imposed on such taxpayer under this chapter for the taxable year in which such vehicle was placed in service shall be increased by the amount of the payment received by such taxpayer.”
-
-See 2022 Amendment notes below.
 
 #### References in Text
 The Clean Air Act, referred to in subsecs. (d)(1)(D), (3), (f)(7)(A), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act, known as the National Emissions Standards Act, is classified generally to subchapter II (§ 7521 et seq.) of chapter 85 of Title 42. Section 209(b) of the Act is classified to [section 7543(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7543/b&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
@@ -6655,7 +6646,7 @@ Subsec. (d)(1)(F)(i). Pub. L. 117–169, § 13401(c)(1)(B)(iii)(I), substituted 
 
 Subsec. (d)(1)(G). Pub. L. 117–169, § 13401(b)(1), added subpar. (G).
 
-Subsec. (d)(1)(H). Pub. L. 117–169, § 13401(c)(1)(B)(iii)(II), (iv), (v), added subpar. (H).
+Subsec. (d)(1)(H). Pub. L. 117–169, § 13401(c)(1)(B)(iii)(II)–(v), added subpar. (H).
 
 Subsec. (d)(1)(H)(vi). Pub. L. 117–169, § 13401(g)(2)(A), added cl. (vi).
 
@@ -6671,7 +6662,7 @@ Subsec. (e). Pub. L. 117–169, § 13401(e)(1), added subsec. (e).
 
 Pub. L. 117–169, § 13401(d), struck out subsec. (e) which related to limitation on number of new qualified plug-in electric drive motor vehicles eligible for credit.
 
-Subsec. (f)(3). Pub. L. 117–169, § 13401(g)(2)(B)(i), struck out par. (3). Prior to amendment, text read as follows: “In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
+Subsec. (f)(3). Pub. L. 117–169, § 13401(g)(2)(B)(i), struck out par. (3). Text read as follows: “In the case of a vehicle the use of which is described in paragraph (3) or (4) of section 50(b) and which is not subject to a lease, the person who sold such vehicle to the person or entity using such vehicle shall be treated as the taxpayer that placed such vehicle in service, but only if such person clearly discloses to such person or entity in a document the amount of any credit allowable under subsection (a) with respect to such vehicle (determined without regard to subsection (c)). For purposes of subsection (c), property to which this paragraph applies shall be treated as of a character subject to an allowance for depreciation.”
 
 Subsec. (f)(8). Pub. L. 117–169, § 13401(g)(2)(B)(ii), inserted “, including any vehicle with respect to which the taxpayer elects the application of subsection (g)” before period at end.
 
@@ -6708,7 +6699,7 @@ Subsec. (g). Pub. L. 112–240, § 403(a), added subsec. (g).
 2009—Pub. L. 111–5 amended section generally. Prior to amendment, section provided credit with respect to each new qualified plug-in electric drive motor vehicle placed in service and set forth provisions defining “applicable amount” and “new qualified plug-in electric drive motor vehicle” and stating limitations based on vehicle weight, the number of vehicles eligible for credit, and amount of tax liability.
 
 #### Effective Date of 2022 Amendment; Transition Rule
-Pub. L. 117–169, title I, § 13401(k), Aug. 16, 2022, 136 Stat. 1961, provided that: “(1) In general.—Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section [amending this section and sections 30B, 38, 6213, and 6501 of this title] shall apply to vehicles placed in service after December 31, 2022. “(2) Final assembly.—The amendments made by subsection (b) [amending this section] shall apply to vehicles sold after the date of enactment of this Act [Aug. 16, 2022]. “(3) Per vehicle dollar limitation and related requirements.—The amendments made by subsections (a) and (e) [amending this section] shall apply to vehicles placed in service after the date on which the proposed guidance described in paragraph (3)(B) of section 30D(e) of the Internal Revenue Code of 1986 (as added by subsection (e)) is issued by the Secretary of the Treasury (or the Secretary’s delegate). “(4) Transfer of credit.—The amendments made by subsection (g) [amending this section] shall apply to vehicles placed in service after December 31, 2023. “(5) Elimination of manufacturer limitation.—The amendment made by subsection (d) [amending this section] shall apply to vehicles sold after December 31, 2022.”
+Pub. L. 117–169, title I, § 13401(k), Aug. 16, 2022, 136 Stat. 1961, provided that: “(1) In general.—Except as provided in paragraphs (2), (3), (4), and (5), the amendments made by this section [amending this section and sections 30B, 38, 6213, and 6501 of this title] shall apply to vehicles placed in service after December 31, 2022. “(2) Final assembly.—The amendments made by subsection (b) [amending this section] shall apply to vehicles sold after the date of enactment of this Act [Aug. 16, 2022]. “(3) Per vehicle dollar limitation and related requirements.—The amendments made by subsections (a) and (e) [amending this section] shall apply to vehicles placed in service after the date on which the proposed guidance described in paragraph (3)(B) of section 30D(e) of the Internal Revenue Code of 1986 (as added by subsection (e)) is issued by the Secretary of the Treasury (or the Secretary’s delegate) [proposed guidance issued Apr. 17, 2023, see 88 F.R. 23370]. “(4) Transfer of credit.—The amendments made by subsection (g) [amending this section] shall apply to vehicles placed in service after December 31, 2023. “(5) Elimination of manufacturer limitation.—The amendment made by subsection (d) [amending this section] shall apply to vehicles sold after December 31, 2022.”
 
 Pub. L. 117–169, title I, § 13401(l), Aug. 16, 2022, 136 Stat. 1962, provided that: “Solely for purposes of the application of section 30D of the Internal Revenue Code of 1986, in the case of a taxpayer that—“(1) after December 31, 2021, and before the date of enactment of this Act [Aug. 16, 2022], purchased, or entered into a written binding contract to purchase, a new qualified plug-in electric drive motor vehicle (as defined in section 30D(d)(1) of the Internal Revenue Code of 1986, as in effect on the day before the date of enactment of this Act), and “(2) placed such vehicle in service on or after the date of enactment of this Act, such taxpayer may elect (at such time, and in such form and manner, as the Secretary of the Treasury, or the Secretary’s delegate, may prescribe) to treat such vehicle as having been placed in service on the day before the date of enactment of this Act.”
 
@@ -7038,7 +7029,7 @@ The Social Security Act, referred to in subsecs. (c)(2)(B)(v), (m), and (n)(1)(D
 
 The United States Housing Act of 1937, referred to in subsec. (l)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, § 201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§ 1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note under [section 1437 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437&num=0&edition=prelim) and Tables.
 
-The Housing Act of 1949, referred to in subsec. (l)(2), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in subsec. (l)(2), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 Section 101 of the Housing and Urban Development Act of 1965, referred to in subsec. (l)(3), is section 101 of Pub. L. 89–117, title I, Aug. 10, 1965, 79 Stat. 451, which enacted [section 1701s of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701s&num=0&edition=prelim), Banks and Banking, and amended sections 1451 and 1465 of Title 42.
 
@@ -8090,7 +8081,7 @@ Pub. L. 107–210, div. A, title II, § 203(f), Aug. 6, 2002, 116 Stat. 972, pro
 Pub. L. 114–27, title IV, § 407(g), June 29, 2015, 129 Stat. 383, provided that: “As soon as possible after the date of the enactment of this Act [June 29, 2015], the Secretaries of the Treasury, Health and Human Services, and Labor (or such Secretaries’ delegates) and the Director of the Pension Benefit Guaranty Corporation (or the Director’s delegate) shall carry out programs of public outreach, including on the Internet, to inform potential eligible individuals (as defined in section 35(c)(1) of the Internal Revenue Code of 1986) of the extension of the credit under section 35 of the Internal Revenue Code of 1986 and the availability of the election to claim such credit retroactively for coverage months beginning after December 31, 2013.”
 
 #### Survey and Report on Enhanced Health Coverage Tax Credit Program
-Pub. L. 111–5, div. B, title I, § 1899I, Feb. 17, 2009, 123 Stat. 431, provided that: “(a) Survey.—“(1) In general.—The Secretary of the Treasury shall conduct a biennial survey of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) relating to the health coverage tax credit under section 35 of the Internal Revenue Code of 1986 (hereinafter in this section referred to as the ‘health coverage tax credit’). “(2) Information obtained.—The survey conducted under subsection (a) shall obtain the following information:“(A) HCTC participants.—In the case of eligible individuals receiving the health coverage tax credit (including individuals participating in the health coverage tax credit program under section 7527 of such Code, hereinafter in this section referred to as the ‘HCTC program’)—“(i) demographic information of such individuals, including income and education levels, “(ii) satisfaction of such individuals with the enrollment process in the HCTC program, “(iii) satisfaction of such individuals with available health coverage options under the credit, including level of premiums, benefits, deductibles, cost-sharing requirements, and the adequacy of provider networks, and “(iv) any other information that the Secretary determines is appropriate. “(B) Non-HCTC participants.—In the case of eligible individuals not receiving the health coverage tax credit—“(i) demographic information of each individual, including income and education levels, “(ii) whether the individual was aware of the health coverage tax credit or the HCTC program, “(iii) the reasons the individual has not enrolled in the HCTC program, including whether such reasons include the burden of the process of enrollment and the affordability of coverage, “(iv) whether the individual has health insurance coverage, and, if so, the source of such coverage, and “(v) any other information that the Secretary determines is appropriate. “(3) Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor, and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1). “(b) Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor, and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:“(1) In each State and nationally—“(A) the total number of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) and the number of eligible individuals receiving the health coverage tax credit, “(B) the total number of such eligible individuals who receive an advance payment of the health coverage tax credit through the HCTC program, “(C) the average length of the time period of the participation of eligible individuals in the HCTC program, and “(D) the total number of participating eligible individuals in the HCTC program who are enrolled in each category of coverage as described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in section 35(c)(1) of such Code. “(2) In each State and nationally, an analysis of—“(A) the range of monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, and “(B) the average and median monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, with respect to each category of coverage as described in section 35(e)(1) of such Code. “(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the health coverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:“(A) Deductible amounts. “(B) Other out-of-pocket cost-sharing amounts. “(C) A description of any annual or lifetime limits on coverage or any other significant limits on coverage services, or benefits. The information required under this paragraph shall be reported with respect to each category of coverage described in such subparagraphs. “(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section. “(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities. “(6) The cost of administering the HCTC program by function, including the cost of subcontractors, and recommendations on ways to reduce administrative costs, including recommended statutory changes. “(7) The number of States applying for and receiving national emergency grants under [former] section 173(f) of the Workforce Investment Act of 1998 ([former] [29 U.S.C. 2918(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants.”
+Pub. L. 111–5, div. B, title I, § 1899I, Feb. 17, 2009, 123 Stat. 431, provided that: “(a) Survey.—“(1) In general.—The Secretary of the Treasury shall conduct a biennial survey of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) relating to the health coverage tax credit under section 35 of the Internal Revenue Code of 1986 (hereinafter in this section referred to as the ‘health coverage tax credit’). “(2) Information obtained.—The survey conducted under subsection (a) shall obtain the following information:“(A) HCTC participants.—In the case of eligible individuals receiving the health coverage tax credit (including individuals participating in the health coverage tax credit program under section 7527 of such Code, hereinafter in this section referred to as the ‘HCTC program’)—“(i) demographic information of such individuals, including income and education levels, “(ii) satisfaction of such individuals with the enrollment process in the HCTC program, “(iii) satisfaction of such individuals with available health coverage options under the credit, including level of premiums, benefits, deductibles, cost-sharing requirements, and the adequacy of provider networks, and “(iv) any other information that the Secretary determines is appropriate. “(B) Non-HCTC participants.—In the case of eligible individuals not receiving the health coverage tax credit—“(i) demographic information of each individual, including income and education levels, “(ii) whether the individual was aware of the health coverage tax credit or the HCTC program, “(iii) the reasons the individual has not enrolled in the HCTC program, including whether such reasons include the burden of the process of enrollment and the affordability of coverage, “(iv) whether the individual has health insurance coverage, and, if so, the source of such coverage, and “(v) any other information that the Secretary determines is appropriate. “(3) Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1). “(b) Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor [now Committee on Education and the Workforce], and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:“(1) In each State and nationally—“(A) the total number of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) and the number of eligible individuals receiving the health coverage tax credit, “(B) the total number of such eligible individuals who receive an advance payment of the health coverage tax credit through the HCTC program, “(C) the average length of the time period of the participation of eligible individuals in the HCTC program, and “(D) the total number of participating eligible individuals in the HCTC program who are enrolled in each category of coverage as described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in section 35(c)(1) of such Code. “(2) In each State and nationally, an analysis of—“(A) the range of monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, and “(B) the average and median monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, with respect to each category of coverage as described in section 35(e)(1) of such Code. “(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the health coverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:“(A) Deductible amounts. “(B) Other out-of-pocket cost-sharing amounts. “(C) A description of any annual or lifetime limits on coverage or any other significant limits on coverage services, or benefits. The information required under this paragraph shall be reported with respect to each category of coverage described in such subparagraphs. “(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section. “(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities. “(6) The cost of administering the HCTC program by function, including the cost of subcontractors, and recommendations on ways to reduce administrative costs, including recommended statutory changes. “(7) The number of States applying for and receiving national emergency grants under [former] section 173(f) of the Workforce Investment Act of 1998 ([former] [29 U.S.C. 2918(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2918/f&num=0&edition=prelim)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants.”
 
 
 <a id="section-36"></a>
@@ -8776,17 +8767,21 @@ A prior section 37 was renumbered [section 22 of this title](./chapter-001-norma
 
 (31) the small employer health insurance credit determined under section 45R,
 
-(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a), plus
+(32) in the case of an eligible employer (as defined in section 45S(c)), the paid family and medical leave credit determined under section 45S(a),
 
-(33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a).
+(33) in the case of an eligible employer (as defined in section 45T(c)), the retirement auto-enrollment credit determined under section 45T(a), plus
 
-(35) 11 See Amendment of Subsection (b) note below. the sustainable aviation fuel credit determined under section 40B,
+(34) the zero-emission nuclear power production credit determined under section 45U(a).
+
+(35) the sustainable aviation fuel credit determined under section 40B,
 
 (36) the clean hydrogen production credit determined under section 45V(a),
 
 (37) the qualified commercial clean vehicle credit determined under section 45W, plus
 
 (38) the advanced manufacturing production credit determined under section 45X(a).
+
+(41) 11 See Amendment of Subsection (b) note below. in the case of an eligible small employer (as defined in section 45AA(c)), the military spouse retirement plan eligibility credit determined under section 45AA(a).
 
 **(c) Limitation based on amount of tax**
 
@@ -8895,12 +8890,6 @@ A prior section 37 was renumbered [section 22 of this title](./chapter-001-norma
 ### Statutory Notes
 
 #### Amendment of Subsection (b)
-Pub. L. 117–169, title I, § 13105(b)(1), (c), Aug. 16, 2022, 136 Stat. 1931, provided that, applicable to electricity produced and sold after Dec. 31, 2023, in taxable years beginning after such date, subsection (b) of this section is amended by striking “plus” at the end of paragraph (32), striking the period at the end of paragraph (33) and inserting “, plus”, and adding at the end the following new paragraph:
-
-(34) the zero-emission nuclear power production credit determined under section 45U(a).
-
-See 2022 Amendment note below.
-
 Pub. L. 117–169, title I, § 13701(b)(1), (c), Aug. 16, 2022, 136 Stat. 1990, provided that, applicable to facilities placed in service after Dec. 31, 2024, subsection (b) of this section is amended by striking “plus” at the end of paragraph (37), striking the period at the end of paragraph (38) and inserting “, plus”, and adding at the end the following new paragraph:
 
 (39) the clean electricity production credit determined under section 45Y(a).
@@ -8942,6 +8931,8 @@ Subsec. (b)(38). Pub. L. 117–169, § 13502(b)(1), added par. (38).
 Subsec. (b)(39). Pub. L. 117–169, § 13701(b)(1), added par. (39).
 
 Subsec. (b)(40). Pub. L. 117–169, § 13704(b)(3), added par. (40).
+
+Subsec. (b)(41). Pub. L. 117–328 added par. (41).
 
 Subsec. (c)(6)(E). Pub. L. 117–169, § 10101(d), amended subpar. (E) generally. Prior to amendment, text read as follows: “In the case of a corporation, this subsection shall be applied by treating the corporation as having a tentative minimum tax of zero.”
 
@@ -9198,6 +9189,8 @@ Pub. L. 99–514, § 231(d)(3)(B), inserted “41(a),” after “40(a),”.
 1984—Subsec. (c)(2). Pub. L. 98–369, § 612(e)(1), substituted “section 26(b)” for “section 25(b)”.
 
 #### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 112(e), Dec. 29, 2022, 136 Stat. 5295, provided that: “The amendments made by this section [enacting [section 45AA of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45aa) and amending this section and [section 3511 of this title](./chapter-025-general-provisions-relating-to-employment-taxes.md#section-3511)] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 29, 2022].”
+
 Amendment by section 10101(d) of Pub. L. 117–169 applicable to taxable years beginning after Dec. 31, 2022, see section 10101(f) of Pub. L. 117–169, set out as a note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
 
 Amendment by section 13105(b)(1) of Pub. L. 117–169 applicable to electricity produced and sold after Dec. 31, 2023, in taxable years beginning after such date, see section 13105(c) of Pub. L. 117–169, set out as an Effective Date note under [section 45U of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45u).
@@ -11080,7 +11073,7 @@ A prior section 41, added Pub. L. 97–34, title III, § 331(a), Aug. 13, 1981, 
 Another prior section 41 was renumbered [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
 
 #### Amendments
-2022—Subsec. (h)(4)(B)(i). Pub. L. 117–169, § 13902(a), designated existing provisions as subcl. I, inserted heading, and added subcl. (II).
+2022—Subsec. (h)(4)(B)(i). Pub. L. 117–169, § 13902(a), designated existing provisions as subcl. (I), inserted heading, and added subcl. (II).
 
 Subsec. (h)(5)(B)(ii). Pub. L. 117–169, § 13902(c), substituted “each of the $250,000 amounts” for “the $250,000 amount”.
 
@@ -13280,6 +13273,10 @@ Pub. L. 101–508, title XI, § 11511(d), Nov. 5, 1990, 104 Stat. 1388–485, pr
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+2023—Internal Revenue Notice 2023–57.
+
+2022—Internal Revenue Notice 2022–19.
+
 2021—Internal Revenue Notice 2021–47.
 
 2020—Internal Revenue Notice 2020–31.
@@ -13399,7 +13396,7 @@ For purposes of paragraph (1)(B), an employee shall be considered full-time if s
 ### Statutory Notes
 
 #### References in Text
-The Americans With Disabilities Act of 1990, referred to in subsecs. (c)(1) and (d)(1) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
+The Americans With Disabilities Act of 1990, referred to in subsecs. (c)(1) and (d)(1) is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this section, referred to in subsecs. (c)(1), (4) and (d)(1), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
@@ -14071,7 +14068,9 @@ A prior section 45 was renumbered [section 37 of this title](./chapter-001-norma
 #### Amendments
 2022—Subsec. (a)(1). Pub. L. 117–169, § 13101(b)(1), substituted “0.3 cents” for “1.5 cents”.
 
-Subsec. (b)(2). Pub. L. 117–169, § 13101(i)(1), substituted “If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.” for “If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.”Pub. L. 117–169, § 13101(b)(2), substituted “0.3 cent” for “1.5 cent”.
+Subsec. (b)(2). Pub. L. 117–169, § 13101(i)(1), substituted “If the 0.3 cent amount as increased under the preceding sentence is not a multiple of 0.05 cent, such amount shall be rounded to the nearest multiple of 0.05 cent. In any other case, if an amount as increased under this paragraph is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.” for “If any amount as increased under the preceding sentence is not a multiple of 0.1 cent, such amount shall be rounded to the nearest multiple of 0.1 cent.”
+
+Pub. L. 117–169, § 13101(b)(2), substituted “The 0.3 cent” for “The 1.5 cent”.
 
 Subsec. (b)(3). Pub. L. 117–169, § 13101(h), amended par. (3) generally. Prior to amendment, par. (3) related to credit reduced for grants, tax-exempt bonds, subsidized energy financing, and other credits.
 
@@ -14083,13 +14082,15 @@ Subsec. (b)(5). Pub. L. 117–169, § 13101(e)(2)(A), inserted “which is place
 
 Subsec. (b)(6) to (8). Pub. L. 117–169, § 13101(f), added pars. (6) to (8).
 
-Subsec. (b)(9). Pub. L. 117–169, § 13101(g)(2), added par. (9). Former par. (9) (added by section 13101(f), see below) redesignated (12).Pub. L. 117–169, § 13101(f), added par. (9), which was subsequently redesignated (12).
+Subsec. (b)(9). Pub. L. 117–169, § 13101(g)(2), added par. (9). Former par. (9) (added by section 13101(f), see below) redesignated (12).
+
+Pub. L. 117–169, § 13101(f), added par. (9), which was subsequently redesignated (12).
 
 Subsec. (b)(10), (11). Pub. L. 117–169, § 13101(g)(2), added pars. (10) and (11).
 
 Subsec. (b)(12). Pub. L. 117–169, § 13101(g)(1), redesignated par. (9) as (12).
 
-Subsec. (c)(10)(A)(v). Pub. L. 117–169, § 13101(j)(2)(A), added cl. (v). Conforming amendment striking “or” in cl. (iii) was executed by striking the “or” at the end of the clause, to reflect the probable intent of Congress.
+Subsec. (c)(10)(A)(v). Pub. L. 117–169, § 13101(j)(2)(A), added cl. (v). Conforming amendment striking “or” in cl. (iii) of subsec. (c)(10)(A) was executed by striking the “or” at the end of the clause, to reflect the probable intent of Congress.
 
 Subsec. (d)(1). Pub. L. 117–169, § 13101(e)(1), substituted “January 1, 2025” for “January 1, 2022”.
 
@@ -14101,7 +14102,7 @@ Subsec. (d)(4). Pub. L. 117–169, § 13101(c), substituted “and the construct
 
 “(A) in the case of a facility using solar energy, is placed in service before January 1, 2006, or
 
-“(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022”
+“(B) in the case of a facility using geothermal energy, the construction of which begins before January 1, 2022”.
 
 Concluding provisions following former subpar. (B) were joined with the preceding paragraph to reflect the probable intent of Congress.
 
@@ -14456,6 +14457,10 @@ Section applicable to taxable years ending after Dec. 31, 1992, see section 1914
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
 
+2023—Internal Revenue Notice 2023–51.
+
+2022–Internal Revenue Notice 2022–20.
+
 2021—Internal Revenue Notice 2021–32.
 
 2020—Internal Revenue Notice 2020–38.
@@ -14621,7 +14626,7 @@ Provisions relating to inflation adjustment of items in this section for certain
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c)(6), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 103–66, which was approved Aug. 10, 1993.
 
@@ -14693,6 +14698,42 @@ Amendment by Pub. L. 104–188 applicable to individuals who begin work for the 
 
 #### Effective Date
 Section applicable to wages paid or incurred after Dec. 31, 1993, see section 13322(f) of Pub. L. 103–66, set out as an Effective Date of 1993 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
+
+
+<a id="section-45aa"></a>
+## § 45AA. Military spouse retirement plan eligibility credit for small employers
+**(a) In general** For purposes of section 38, in the case of any eligible small employer, the military spouse retirement plan eligibility credit determined under this section for any taxable year is an amount equal to the sum of—
+
+(1) $200 with respect to each military spouse who is an employee of such employer and who participates in an eligible defined contribution plan of such employer at any time during such taxable year, plus
+
+(2) so much of the contributions made by such employer (other than an elective deferral (as defined in section 402(g)(3)) 11 So in original. Probably should be followed by another closing parenthesis. to all such plans with respect to such employee during such taxable year as do not exceed $300.
+
+**(b) Limitation** An individual shall only be taken into account as a military spouse under subsection (a) for the taxable year which includes the date on which such individual began participating in the eligible defined contribution plan of the employer and the 2 succeeding taxable years.
+
+**(c) Eligible small employer** For purposes of this section, the term “eligible small employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I).22 So in original. Another closing parenthesis probably should precede the period.
+
+**(d) Military spouse** For purposes of this section—
+
+(1) **In general** — The term “military spouse” means, with respect to any employer, any individual who is married (within the meaning of section 7703 as of the first date that the employee is employed by the employer) to an individual who is a member of the uniformed services (as defined [section 101(a)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/5&num=0&edition=prelim), United States Code) serving on active duty. For purposes of this section, an employer may rely on an employee’s certification that such employee’s spouse is a member of the uniformed services if such certification provides the name, rank, and service branch of such spouse.
+
+(2) **Exclusion of highly compensated employees** — With respect to any employer, the term “military spouse” shall not include any individual if such individual is a highly compensated employee of such employer (within the meaning of section 414(q)).
+
+**(e) Eligible defined contribution plan** For purposes of this section, the term “eligible defined contribution plan” means, with respect to any eligible small employer, any defined contribution plan (as defined in section 414(i)) of such employer if, under the terms of such plan—
+
+(1) military spouses employed by such employer are eligible to participate in such plan not later than the date which is 2 months after the date on which such individual begins employment with such employer, and
+
+(2) military spouses who are eligible to participate in such plan—
+
+  (A) are immediately eligible to receive an amount of employer contributions under such plan which is not less the amount of such contributions that a similarly situated participant who is not a military spouse would be eligible to receive under such plan after 2 years of service, and
+
+  (B) immediately have a nonforfeitable right to the employee’s accrued benefit derived from employer contributions under such plan.
+
+**(f) Aggregation rule** All persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one employer for purposes of this section.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to taxable years beginning after Dec. 29, 2022, see section 112(e) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
 
 
 <a id="section-45b"></a>
@@ -15314,7 +15355,7 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 121(g)], Dec. 21, 2000, 114 Stat. 276
 
 (3) **First credit year** — The term “first credit year” means—
 
-  (A) the taxable year which includes the date that the eligible employer plan to which such costs relate becomes effective, or
+  (A) the taxable year which includes the date that the eligible employer plan to which such costs relate becomes effective with respect to the eligible employer, or
 
   (B) at the election of the eligible employer, the taxable year preceding the taxable year referred to in subparagraph (A).
 
@@ -15322,16 +15363,66 @@ Pub. L. 106–554, § 1(a)(7) [title I, § 121(g)], Dec. 21, 2000, 114 Stat. 276
 
 (1) **Aggregation rules** — All persons treated as a single employer under subsection (a) or (b) of section 52, or subsection (m) or (o) of section 414, shall be treated as one person. All eligible employer plans shall be treated as 1 eligible employer plan.
 
-(2) **Disallowance of deduction** — No deduction shall be allowed for that portion of the qualified startup costs paid or incurred for the taxable year which is equal to the credit determined under subsection (a).
+(2) **Disallowance of deduction** — No deduction shall be allowed—
+
+  (A) for that portion of the qualified startup costs paid or incurred for the taxable year which is equal to so much of the portion of the credit determined under subsection (a) as is properly allocable to such costs, and
+
+  (B) for that portion of the employer contributions by the employer for the taxable year which is equal to so much of the credit increase determined under subsection (f) as is properly allocable to such contributions.
 
 (3) **Election not to claim credit** — This section shall not apply to a taxpayer for any taxable year if such taxpayer elects to have this section not apply for such taxable year.
+
+(4) **Increased credit for certain small employers** — In the case of an employer which would be an eligible employer under subsection (c) if section 408(p)(2)(C)(i) was applied by substituting “50 employees” for “100 employees”, subsection (a) shall be applied by substituting “100 percent” for “50 percent”.
+
+**(f) Additional credit for employer contributions by certain eligible employers**
+
+(1) **In general** — In the case of an eligible employer, the credit allowed for the taxable year under subsection (a) (determined without regard to this subsection) shall be increased by an amount equal to the applicable percentage of employer contributions (other than any elective deferrals (as defined in section 402(g)(3)) by the employer to an eligible employer plan (other than a defined benefit plan (as defined in section 414(j))).
+
+(2) **Limitations**
+
+  (A) *Dollar limitation* — The amount determined under paragraph (1) (before the application of subparagraph (B)) with respect to any employee of the employer shall not exceed $1,000.
+
+  (B) *Credit phase-in* — In the case of any eligible employer which had for the preceding taxable year more than 50 employees, the amount determined under paragraph (1) (without regard to this subparagraph) shall be reduced by an amount equal to the product of—
+
+    (i) the amount otherwise so determined under paragraph (1), multiplied by
+
+    (ii) a percentage equal to 2 percentage points for each employee of the employer for the preceding taxable year in excess of 50 employees.
+
+  (C) *Wage limitation*
+
+    (i) *In general* — No contributions with respect to any employee who receives wages from the employer for the taxable year in excess of $100,000 may be taken into account for such taxable year under subparagraph (A).
+
+    (ii) *Wages* — For purposes of the preceding sentence, the term “wages” has the meaning given such term by section 3121(a).
+
+    (iii) *Inflation adjustment* — In the case of any taxable year beginning in a calendar year after 2023, the $100,000 amount under clause (i) shall be increased by an amount equal to—
+
+      (I) such dollar amount, multiplied by
+
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2007” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    If any amount as adjusted under this clause is not a multiple of $5,000, such amount shall be rounded to the next lowest multiple of $5,000.
+
+(3) **Applicable percentage** — For purposes of this section, the applicable percentage for the taxable year during which the eligible employer plan is established with respect to the eligible employer shall be 100 percent, and for taxable years thereafter shall be determined under the following table: In the case of the following taxable year beginning after the taxable year during which plan is established with respect to the eligible employer:The applicable percentage shall be: 1st100% 2nd75% 3rd50% 4th25% Any taxable year thereafter0%
+
+(4) **Determination of eligible employer; number of employees** — For purposes of this subsection, whether an employer is an eligible employer and the number of employees of an employer shall be determined under the rules of subsection (c), except that paragraph (2) thereof shall only apply to the taxable year during which the eligible employer plan to which this section applies is established with respect to the eligible employer.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (d)(3)(A). Pub. L. 117–328, § 111(a), substituted “effective with respect to the eligible employer” for “effective”.
+
+Subsec. (e)(2). Pub. L. 117–328, § 102(c), amended par. (2) generally. Prior to amendment, text read as follows: “No deduction shall be allowed for that portion of the qualified startup costs paid or incurred for the taxable year which is equal to the credit determined under subsection (a).”
+
+Subsec. (e)(4). Pub. L. 117–328, § 102(a), added par. (4).
+
+Subsec. (f). Pub. L. 117–328, § 102(b), added subsec. (f).
+
 2019—Subsec. (b)(1). Pub. L. 116–94 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “$500 for the first credit year and each of the 2 taxable years immediately following the first credit year, and”.
 
 2002—Subsec. (e)(1). Pub. L. 107–147 substituted “subsection (m)” for “subsection (n)”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 102(d), Dec. 29, 2022, 136 Stat. 5278, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2022.”
+
+Pub. L. 117–328, div. T, title I, § 111(b), Dec. 29, 2022, 136 Stat. 5293, provided that: “The amendment made by this section [amending this section] shall take effect as if included in the enactment of section 104 of the Setting Every Community Up for Retirement Enhancement Act of 2019 [div. O of Pub. L. 116–94, see Effective Date of 2019 Amendment note below].”
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. O, title I, § 104(b), Dec. 20, 2019, 133 Stat. 3147, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
@@ -15759,6 +15850,12 @@ Section applicable to production in taxable years beginning after Dec. 31, 2004,
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2023—Internal Revenue Notice 2023–58.
+
+2022—Internal Revenue Notice 2023–41.
+
+2021—Internal Revenue Notice 2022–18.
 
 2020—Internal Revenue Notice 2021–34.
 
@@ -16269,6 +16366,10 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 #### Inflation Adjusted Items and Reference Price for Certain Years
 Provisions relating to inflation adjustment of items in this section and reference price for certain years were contained in the following:
 
+2022—Internal Revenue Notice 2023–49.
+
+2021—Internal Revenue Notice 2022–17.
+
 2020—Internal Revenue Notice 2021–29.
 
 2019—Internal Revenue Notice 2020–28.
@@ -16405,8 +16506,6 @@ Provisions relating to inflation adjustment of items in this section and referen
 #### References in Text
 The date of the enactment of this section, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
-The National Appliance Energy Conservation Act of 1987, referred to in subsec. (c)(1)(A)(ii), is Pub. L. 100–12, Mar. 17, 1987, 101 Stat. 103. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim), The Public Health and Welfare, and Tables.
-
 #### Amendments
 2022—Subsec. (a)(2). Pub. L. 117–169, § 13304(b), amended par. (2) generally. Prior to amendment, par. (2) related to applicable amount for dwelling unit.
 
@@ -16414,7 +16513,9 @@ Subsec. (c). Pub. L. 117–169, § 13304(c), amended subsec. (c) generally. Prio
 
 Subsec. (e). Pub. L. 117–169, § 13304(e), inserted at end “This subsection shall not apply for purposes of determining the adjusted basis of any building under section 42.”
 
-Subsec. (g). Pub. L. 117–169, § 13304(d), added subsec. (g). Former subsec. (g) redesignated (h).Pub. L. 117–169, § 13304(a), substituted “December 31, 2032” for “December 31, 2021”.
+Subsec. (g). Pub. L. 117–169, § 13304(d), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Pub. L. 117–169, § 13304(a), substituted “December 31, 2032” for “December 31, 2021”.
 
 Subsec. (h). Pub. L. 117–169, § 13304(d), redesignated subsec. (g) as (h).
 
@@ -16988,13 +17089,15 @@ Subsec. (b)(1)(A)(ii)(II). Pub. L. 117–169, § 13104(b)(2)(B), substituted “
 
 Subsec. (b)(1)(B), (C). Pub. L. 117–169, § 13104(c)(1)(B), added subpars. (B) and (C). Former subpar. (B) redesignated (D).
 
-Subsec. (b)(1)(D). Pub. L. 117–169, § 13104(c)(2)(B), substituted “subparagraph (A), (B), or (C)” for “subparagraph (A)”.Pub. L. 117–169, § 13104(c)(1)(A), redesignated subpar. (B) as (D).
+Subsec. (b)(1)(D). Pub. L. 117–169, § 13104(c)(2)(B), substituted “subparagraph (A), (B), or (C)” for “subparagraph (A)”.
+
+Pub. L. 117–169, § 13104(c)(1)(A), redesignated subpar. (B) as (D).
 
 Subsec. (d). Pub. L. 117–169, § 13104(a)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) defined qualified facility.
 
 Subsec. (e). Pub. L. 117–169, § 13104(a)(2)(A), added pars. (1) and (2) and redesignated former pars. (1) to (3) as (3) to (5), respectively.
 
-Subsec. (f)(3). Pub. L. 117–169, § 13104(e)(1), struck out par. (3) which related to credit reduced for certain tax-exempt bonds at end of subsec. (f).
+Subsec. (f)(3). Pub. L. 117–169, § 13104(e)(1), struck out par. (3) which had appeared after par. (7) and related to credit reduced for certain tax-exempt bonds.
 
 Subsec. (f)(8). Pub. L. 117–169, § 13104(e)(2), added par. (8).
 
@@ -17022,7 +17125,7 @@ Subsec. (d)(2). Pub. L. 111–5, § 1131(b)(1), inserted “the Secretary of Ene
 
 Subsec. (e). Pub. L. 111–5, § 1131(b)(3), substituted “taken into account in accordance with subsection (a)” for “captured and disposed of or used as a tertiary injectant”.
 
-#### Effective Dates of 2022 Amendment
+#### Effective Date of 2022 Amendment
 Pub. L. 117–169, title I, § 13104(i), Aug. 16, 2022, 136 Stat. 1929, provided that: “(1) In general.—Except as provided in paragraphs (2), (3), and (4), the amendments made by this section [amending this section and [section 142 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-142)] shall apply to facilities or equipment placed in service after December 31, 2022. “(2) Modification of carbon oxide capture requirements.—The amendments made by subsection (a) [amending this section and [section 142 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-142)] shall apply to facilities or equipment the construction of which begins after the date of enactment of this Act [Aug. 16, 2022]. “(3) Application of section for certain carbon capture equipment.—The amendments made by subsection (f) [amending this section] shall take effect on the date of enactment of this Act. “(4) Election.—The amendments made by subsection (g) [amending this section] shall apply to carbon oxide captured and disposed of after December 31, 2021.”
 
 #### Effective Date of 2021 Amendment
@@ -17042,6 +17145,10 @@ Section applicable to carbon dioxide captured after Oct. 3, 2008, see section 11
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2023—Internal Revenue Notice 2023–46.
+
+2022—Internal Revenue Notice 2022–38.
 
 2021—Internal Revenue Notice 2021–35.
 
@@ -18665,14 +18772,14 @@ For purposes of section 38, the amount of the investment credit determined under
 #### Amendment of Section
 Pub. L. 117–169, title I, § 13702(b)(1), (c), Aug. 16, 2022, 136 Stat. 1996, 1997, provided that, applicable to property placed in service after Dec. 31, 2024, this section is amended by adding at the end the following:
 
-“(7) the clean electricity investment credit.”
+(7) the clean electricity investment credit.
 
 See 2022 Amendment note below.
 
 #### Amendments
 2022—Par. (6). Pub. L. 117–167 amended par. (6) generally. Prior to amendment, text read as follows: “the qualifying therapeutic discovery project credit.”
 
-Par. (7). Pub. L. 117–169, § 13702(b)(1), added par. (7).
+Par. (7). Pub. L. 117–169 added par. (7).
 
 2014—Par. (4). Pub. L. 113–295 inserted a comma at end.
 
@@ -19949,7 +20056,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
       (II) independently (and disconnected) from such grid, and
 
-    (iii) is not part of a bulk-power system (as defined in section 215 of the Federal Power Act ([16 U.S.C. 824o](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824o&num=0&edition=prelim))).
+    (iii) is not part of a bulk-power system (as defined in section 215 of the Federal Power Act ([16 U.S.C. 824](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section824&num=0&edition=prelim)o)).
 
   (C) *Termination* — The term “microgrid controller” shall not include any property the construction of which begins after December 31, 2024.
 
@@ -20003,7 +20110,7 @@ Functions, powers, and duties of Federal Aviation Agency and of Administrator an
 
   (B) *Qualified low-income residential building project* — A facility shall be treated as part of a qualified low-income residential building project if—
 
-    (i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ([34 U.S.C. 12491(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491/a/3&num=0&edition=prelim)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))) or such other affordable housing programs as the Secretary may provide, and
+    (i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ([34 U.S.C. 12491(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491/a/3&num=0&edition=prelim)),22 So in original. Another closing parenthesis probably should precede the comma. a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))) or such other affordable housing programs as the Secretary may provide, and
 
     (ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
 
@@ -21895,7 +22002,7 @@ Section applicable to property placed in service after Dec. 31, 2022, and, for a
 
   (B) *Qualified low-income residential building project* — A facility shall be treated as part of a qualified low-income residential building project if—
 
-    (i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ([34 U.S.C. 12491(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491/a/3&num=0&edition=prelim)), a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))) or such other affordable housing programs as the Secretary may provide, and
+    (i) such facility is installed on a residential rental building which participates in a covered housing program (as defined in section 41411(a) of the Violence Against Women Act of 1994 ([34 U.S.C. 12491(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section12491/a/3&num=0&edition=prelim)),11 So in original. Another closing parenthesis probably should precede the comma. a housing assistance program administered by the Department of Agriculture under title V of the Housing Act of 1949, a housing program administered by a tribally designated housing entity (as defined in section 4(22) of the Native American Housing Assistance and Self-Determination Act of 1996 ([25 U.S.C. 4103(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4103/22&num=0&edition=prelim))) or such other affordable housing programs as the Secretary may provide, and
 
     (ii) the financial benefits of the electricity produced by such facility are allocated equitably among the occupants of the dwelling units of such building.
 
@@ -21941,7 +22048,7 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 The Housing Act of 1949, referred to in subsec. (h)(2)(B)(i), is act July 15, 1949, ch. 338, 63 Stat. 413. Title V of the Act is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
 #### Effective Date
-Pub. L. 117–169, title I, § 13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: “The amendments made by this section [enacting this section and amending sections 46, 49 and 50 of this title] shall apply to property placed in service after December 31, 2024.”
+Pub. L. 117–169, title I, § 13702(c), Aug. 16, 2022, 136 Stat. 1997, provided that: “The amendments made by this section [enacting this section and amending sections 46, 49, and 50 of this title] shall apply to property placed in service after December 31, 2024.”
 
 
 <a id="section-49"></a>
@@ -22072,7 +22179,7 @@ A prior section 49, Pub. L. 91–172, title VII, § 703(a), Dec. 30, 1969, 83 St
 #### Amendments
 2022—Subsec. (a)(1)(C)(vi). Pub. L. 117–167 added cl. (vi).
 
-Subsec. (a)(1)(C)(vii), (viii). Pub. L. 117–169, § 13702(b)(2), added cls. (vii) and (viii).
+Subsec. (a)(1)(C)(vii), (viii). Pub. L. 117–169 added cls. (vii) and (viii).
 
 2018—Subsec. (a)(1)(C)(vi). Pub. L. 115–141, § 401(d)(3)(B)(i), struck out cl. (vi) which read as follows: “the basis of any property to which paragraph (1) of section 48D(e) applies which is part of a qualifying therapeutic discovery project under such section 48D.”
 
@@ -22325,7 +22432,7 @@ Pub. L. 117–167, § 107(b)(3)(A)(i), which directed the insertion of “, or a
 
 Pub. L. 117–167, § 107(b)(1), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5), (6). Pub. L. 117–167, § 107(b)(1), redesignated pars. (4) as (5) as (5) and (6), respectively.
+Subsec. (a)(5), (6). Pub. L. 117–167, § 107(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively.
 
 Subsec. (a)(6)(C). Pub. L. 117–167, § 107(b)(3)(B), substituted “paragraph (1), (2), or (3)” for “paragraph (1) or (2)”.
 
@@ -22725,13 +22832,13 @@ Repeal applicable to taxable years beginning after Dec. 31, 1983, and to carryba
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to [section 682 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section682&num=0&edition=prelim), was repealed by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c)(2)(B) and (d)(2)(B), (6)(B)(iii), (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Title XVI of the Act is classified generally to subchapter XVI (§ 1381 et seq.) of chapter 7 of Title 42. Section 482 of the Act, which was classified to [section 682 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section682&num=0&edition=prelim), was repealed by Pub. L. 104–193, title I, § 108(e), Aug. 22, 1996, 110 Stat. 2167. Sections 1148(g) and 1616 of the Act are classified to sections 1320b–19(g) and 1382e, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 3111(d), referred to in subsec. (c)(5), was repealed by Pub. L. 115–141, div. U, title IV, § 401(b)(34), Mar. 23, 2018, 132 Stat. 1204.
 
 The Food and Nutrition Act of 2008, referred to in subsec. (d)(3)(A)(i), (8)(A)(ii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§ 2011 et seq.) of Title 7, Agriculture. Section 6(o) of the Act is classified to section 2015(o) of Title 7. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (d)(6)(B)(i), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, which is classified generally to chapter 16 (§ 701 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section701&num=0&edition=prelim) and Tables.
 
 Section 212 of Public Law 93–66, referred to in subsec. (d)(9), is set out as a note under [section 1382 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1382&num=0&edition=prelim), The Public Health and Welfare.
 
@@ -26022,15 +26129,15 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 #### References in Text
 Section 208 of the Congressional Accountability Act of 1995, referred to in subsec. (e)(2), was formerly section 207 of the Act prior to renumbering by Pub. L. 116–92, and is classified to [section 1317 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1317&num=0&edition=prelim), The Congress. A new section 207 of the Act was enacted by Pub. L. 116–92 and is classified to [section 1316b of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1316b&num=0&edition=prelim). Pub. L. 116–92 amended list of Act sections in subsec. (e)(2) of this section without corresponding amendment of Code citations, see 2019 Amendment note below.
 
-The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 1935, ch. 372, 49 Stat. 449, as amended, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
+The National Labor Relations Act, referred to in subsec. (e)(3), is act July 5, 1935, ch. 372, 49 Stat. 449, which is classified generally to subchapter II (§ 151 et seq.) of chapter 7 of Title 29, Labor. For complete classification of this Act to the Code, see [section 167 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section167&num=0&edition=prelim) and Tables.
 
-The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
+The Fair Labor Standards Act of 1938, referred to in subsec. (e)(4), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§ 201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see [section 201 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section201&num=0&edition=prelim) and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
+The Education Amendments of 1972, referred to in subsec. (e)(8), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§ 1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under [section 1681 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1681&num=0&edition=prelim) and Tables.
 
-The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, as amended, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2001&num=0&edition=prelim) and Tables.
+The Employee Polygraph Protection Act of 1988, referred to in subsec. (e)(9), is Pub. L. 100–347, June 27, 1988, 102 Stat. 646, which is classified generally to chapter 22 (§ 2001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2001&num=0&edition=prelim) and Tables.
 
-The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, as amended, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2101&num=0&edition=prelim) and Tables.
+The Worker Adjustment and Retraining Notification Act, referred to in subsec. (e)(10), is Pub. L. 100–379, Aug. 4, 1988, 102 Stat. 890, which is classified generally to chapter 23 (§ 2101 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 2101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2101&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (a)(18). Pub. L. 116–260, § 104(b)(2)(A), struck out par. (18). Text read as follows: “The deduction allowed by section 222.”
@@ -27128,6 +27235,8 @@ Repeal applicable to any divorce or separation instrument (as defined in former 
 
 (2) **Treatment of employee contributions under defined contribution plans** — For purposes of this section, employee contributions (and any income allocable thereto) under a defined contribution plan may be treated as a separate contract.
 
+(3) **Treatment of contributions to a pension-linked emergency savings account** — For purposes of this section, contributions to a pension-linked emergency savings account to which section 402A(e) applies (and any income allocable thereto) may be treated as a separate contract.
+
 **(e) Amounts not received as annuities**
 
 (1) **Application of subsection**
@@ -27442,6 +27551,42 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
 (5) **Special rules for loans, etc., from certain contracts** — For purposes of this subsection, any amount received as a loan under a contract purchased under a qualified employer plan (and any assignment or pledge with respect to such a contract) shall be treated as a loan under such employer plan.
 
+(6) **Increase in limit on loans not treated as distributions**
+
+  (A) *In general* — In the case of any loan from a qualified employer plan to a qualified individual made during the applicable period—
+
+    (i) clause (i) of paragraph (2)(A) shall be applied by substituting “$100,000” for “$50,000”, and
+
+    (ii) clause (ii) of such paragraph shall be applied by substituting “the present value of the nonforfeitable accrued benefit of the employee under the plan” for “one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan”.
+
+  (B) *Delay of repayment* — In the case of a qualified individual with respect to any qualified disaster with an outstanding loan from a qualified employer plan on or after the applicable date with respect to the qualified disaster—
+
+    (i) if the due date pursuant to subparagraph (B) or (C) of paragraph (2) for any repayment with respect to such loan occurs during the period beginning on the first day of the incident period of such qualified disaster and ending on the date which is 180 days after the last day of such incident period, such due date may be delayed for 1 year,
+
+    (ii) any subsequent repayments with respect to any such loan may be appropriately adjusted to reflect the delay in the due date under clause (i) and any interest accruing during such delay, and
+
+    (iii) in determining the 5-year period and the term of a loan under subparagraph (B) or (C) of paragraph (2), the period described in clause (i) may be disregarded.
+
+  (C) *Definitions* — For purposes of this paragraph—
+
+    (i) *Qualified individual* — The term “qualified individual” means any individual—
+
+      (I) whose principal place of abode at any time during the incident period of any qualified disaster is located in the qualified disaster area with respect to such qualified disaster, and
+
+      (II) who has sustained an economic loss by reason of such qualified disaster.
+
+    (ii) *Applicable period* — The applicable period with respect to any disaster is the period—
+
+      (I) beginning on the applicable date with respect to such disaster, and
+
+      (II) ending on the date that is 180 days after such applicable date.
+
+    (iii) *Other terms* — For purposes of this paragraph—
+
+      (I) the terms “applicable date”, “qualified disaster”, “qualified disaster area”, and “incident period” have the meaning given such terms under subsection (t)(11), and
+
+      (II) the term “applicable period” has the meaning given such term under subsection (t)(8).
+
 **(q) 10-percent penalty for premature distributions from annuity contracts**
 
 (1) **Imposition of penalty** — If any taxpayer receives any amount under an annuity contract, the taxpayer’s tax under this chapter for the taxable year in which such amount is received shall be increased by an amount equal to 10 percent of the portion of such amount which is includible in gross income.
@@ -27467,17 +27612,29 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
   (I) under an immediate annuity contract (within the meaning of section 72(u)(4)), or
 
   (J) which is purchased by an employer upon the termination of a plan described in section 401(a) or 403(a) and which is held by the employer until such time as the employee separates from service.
+  For purposes of subparagraph (D), periodic payments shall not fail to be treated as substantially equal merely because they are amounts received as an annuity, and such periodic payments shall be deemed to be substantially equal if they are payable over a period described in subparagraph (D) and would satisfy the requirements applicable to annuity payments under section 401(a)(9) if such requirements applied.
 
-(3) **Change in substantially equal payments** — If—
+(3) **Change in substantially equal payments**
 
-  (A) paragraph (1) does not apply to a distribution by reason of paragraph (2)(D), and
+  (A) *In general* — If—
 
-  (B) the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
+    (i) paragraph (1) does not apply to a distribution by reason of paragraph (2)(D), and
 
-    (i) before the close of the 5-year period beginning on the date of the first payment and after the taxpayer attains age 59½, or
+    (ii) the series of payments under such paragraph are subsequently modified (other than by reason of death or disability)—
 
-    (ii) before the taxpayer attains age 59½,
-  the taxpayer’s tax for the 1st taxable year in which such modification occurs shall be increased by an amount, determined under regulations, equal to the tax which (but for paragraph (2)(D)) would have been imposed, plus interest for the deferral period (within the meaning of subsection (t)(4)(B)).
+      (I) before the close of the 5-year period beginning on the date of the first payment and after the taxpayer attains age 59½, or
+
+      (II) before the taxpayer attains age 59½,
+    the taxpayer’s tax for the 1st taxable year in which such modification occurs shall be increased by an amount, determined under regulations, equal to the tax which (but for paragraph (2)(D)) would have been imposed, plus interest for the deferral period (within the meaning of subsection (t)(4)(B)).
+
+  (B) *Exchanges to subsequent contracts* — If—
+
+    (i) payments described in paragraph (2)(D) are being made from an annuity contract,
+
+    (ii) an exchange of all or a portion of such contract for another contract is made under section 1035, and
+
+    (iii) the aggregate distributions from the contracts involved in the exchange continue to satisfy the requirements of paragraph (2)(D) as if the exchange had not taken place,
+    such exchange shall not be treated as a modification under subparagraph (A)(ii), and compliance with paragraph (2)(D) shall be determined on the basis of the combined distributions described in clause (iii).
 
 **(r) Certain railroad retirement benefits treated as received under employer plans**
 
@@ -27581,9 +27738,12 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
     (vi) dividends paid with respect to stock of a corporation which are described in section 404(k),
 
-    (vii) made on account of a levy under section 6331 on the qualified retirement plan, or
+    (vii) made on account of a levy under section 6331 on the qualified retirement plan,
 
-    (viii) payments under a phased retirement annuity under section 8366a(a)(5) 33 So in original. Probably should refer to section 8336a. or 8412a(a)(5) of title 5, United States Code, or a composite retirement annuity under section 8366a(a)(1) 3 or 8412a(a)(1) of such title.
+    (viii) payments under a phased retirement annuity under section 8366a(a)(5) 33 So in original. Probably should refer to section 8336a. or 8412a(a)(5) of title 5, United States Code, or a composite retirement annuity under section 8366a(a)(1) 3 or 8412a(a)(1) of such title, or
+
+    (ix) attributable to withdrawal of net income attributable to a contribution which is distributed pursuant to section 408(d)(4).
+  For purposes of clause (iv), periodic payments shall not fail to be treated as substantially equal merely because they are amounts received as an annuity, and such periodic payments shall be deemed to be substantially equal if they are payable over a period described in clause (iv) and satisfy the requirements applicable to annuity payments under section 401(a)(9).
 
   (B) *Medical expenses* — Distributions made to the employee (other than distributions described in subparagraph (A), (C), or (D)) to the extent such distributions do not exceed the amount allowable as a deduction under section 213 to the employee for amounts paid during the taxable year for medical care (determined without regard to whether the employee itemizes deductions for such taxable year).
 
@@ -27643,7 +27803,7 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
     (v) *Amount distributed may be repaid*
 
-      (I) *In general* — Any individual who receives a qualified birth or adoption distribution may make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an applicable eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+      (I) *In general* — Any individual who receives a qualified birth or adoption distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an applicable eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
 
       (II) *Limitation on contributions to applicable eligible retirement plans other than IRAs* — The aggregate amount of contributions made by an individual under subclause (I) to any applicable eligible retirement plan which is not an individual retirement plan shall not exceed the aggregate amount of qualified birth or adoption distributions which are made from such plan to such individual. Subclause (I) shall not apply to contributions to any applicable eligible retirement plan which is not an individual retirement plan unless the individual is eligible to make contributions (other than those described in subclause (I)) to such applicable eligible retirement plan.
 
@@ -27659,7 +27819,82 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
       (III) *Taxpayer must include TIN* — A distribution shall not be treated as a qualified birth or adoption distribution with respect to any child or eligible adoptee unless the taxpayer includes the name, age, and TIN of such child or eligible adoptee on the taxpayer’s return of tax for the taxable year.
 
-      (IV) *Distributions treated as meeting plan distribution requirements* — Any qualified birth or adoption distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(ii), 403(b)(11), and 457(d)(1)(A).
+      (IV) *Distributions treated as meeting plan distribution requirements* — Any qualified birth or adoption distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A).
+
+  (I) *Distributions for certain emergency expenses*
+
+    (i) *In general* — Any emergency personal expense distribution.
+
+    (ii) *Annual limitation* — Not more than 1 distribution per calendar year may be treated as an emergency personal expense distribution by any individual.
+
+    (iii) *Dollar limitation* — The amount which may be treated as an emergency personal expense distribution by any individual in any calendar year shall not exceed the lesser of $1,000 or an amount equal to the excess of—
+
+      (I) the individual’s total nonforfeitable accrued benefit under the plan (the individual’s total interest in the plan in the case of an individual retirement plan), determined as of the date of each such distribution, over
+
+      (II) $1,000.
+
+    (iv) *Emergency personal expense distribution* — For purposes of this subparagraph, the term “emergency personal expense distribution” means any distribution from an applicable eligible retirement plan (as defined in subparagraph (H)(vi)(I)) to an individual for purposes of meeting unforeseeable or immediate financial needs relating to necessary personal or family emergency expenses. The administrator of an applicable eligible retirement plan may rely on an employee’s written certification that the employee satisfies the conditions of the preceding sentence in determining whether any distribution is an emergency personal expense distribution. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee’s certification, and for procedures for addressing cases of employee misrepresentation.
+
+    (v) *Treatment of plan distributions* — If a distribution to an individual would (without regard to clause (ii) or (iii)) be an emergency personal expense distribution, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as an emergency personal expense distribution, unless the number or the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer, determined as provided in subparagraph (H)(iv)(II)) to such individual exceeds the limitation determined under clause (ii) or (iii).
+
+    (vi) *Amount distributed may be repaid* — Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an individual who receives a distribution to which clause (i) applies.
+
+    (vii) *Limitation on subsequent distributions* — If a distribution is treated as an emergency personal expense distribution in any calendar year with respect to a plan of the employee, no amount may be treated as such a distribution during the immediately following 3 calendar years with respect to such plan unless—
+
+      (I) such previous distribution is fully repaid to such plan pursuant to clause (vi), or
+
+      (II) the aggregate of the elective deferrals and employee contributions to the plan (the total amounts contributed to the plan in the case of an individual retirement plan) subsequent to such previous distribution is at least equal to the amount of such previous distribution which has not been so repaid.
+
+    (viii) *Special rules* — Rules similar to the rules of subclauses (II) and (IV) of subparagraph (H)(vi) shall apply to any emergency personal expense distribution.
+
+  (J) *Distributions from pension-linked emergency savings account* — Distributions from a pension-linked emergency savings account pursuant to section 402A(e).
+
+  (K) *Distribution from retirement plan in case of domestic abuse*
+
+    (i) *In general* — Any eligible distribution to a domestic abuse victim.
+
+    (ii) *Limitation* — The aggregate amount which may be treated as an eligible distribution to a domestic abuse victim by any individual shall not exceed an amount equal to the lesser of—
+
+      (I) $10,000, or
+
+      (II) 50 percent of the present value of the nonforfeitable accrued benefit of the employee under the plan.
+
+    (iii) *Eligible distribution to a domestic abuse victim* — For purposes of this subparagraph—
+
+      (I) *In general* — A distribution shall be treated as an eligible distribution to a domestic abuse victim if such distribution is from an applicable eligible retirement plan and is made to an individual during the 1-year period beginning on any date on which the individual is a victim of domestic abuse by a spouse or domestic partner.
+
+      (II) *Domestic abuse* — The term “domestic abuse” means physical, psychological, sexual, emotional, or economic abuse, including efforts to control, isolate, humiliate, or intimidate the victim, or to undermine the victim’s ability to reason independently, including by means of abuse of the victim’s child or another family member living in the household.
+
+    (iv) *Treatment of plan distributions* — If a distribution to an individual would (without regard to clause (ii)) be an eligible distribution to a domestic abuse victim, a plan shall not be treated as failing to meet any requirement of this title merely because the plan treats the distribution as an eligible distribution to a domestic abuse victim, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer, determined as provided in subparagraph (H)(iv)(II)) to such individual exceeds the limitation under clause (ii).
+
+    (v) *Amount distributed may be repaid* — Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an individual who receives a distribution to which clause (i) applies.
+
+    (vi) *Definition and special rules* — For purposes of this subparagraph:
+
+      (I) *Applicable eligible retirement plan* — The term “applicable eligible retirement plan” means an eligible retirement plan (as defined in section 402(c)(8)(B)) other than a defined benefit plan or a plan to which sections 401(a)(11) and 417 apply.
+
+      (II) *Exemption of distributions from trustee to trustee transfer and withholding rules* — For purposes of sections 401(a)(31), 402(f), and 3405, an eligible distribution to a domestic abuse victim shall not be treated as an eligible rollover distribution.
+
+      (III) *Distributions treated as meeting plan distribution requirements; self-certification* — Any distribution which the employee or participant certifies as being an eligible distribution to a domestic abuse victim shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A).
+
+    (vii) *Inflation adjustment* — In the case of a taxable year beginning in a calendar year after 2024, the $10,000 amount in clause (ii)(I) shall be increased by an amount equal to—
+
+      (I) such dollar amount, multiplied by
+
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2023” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+    If any amount after adjustment under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
+
+  (L) *Terminal illness*
+
+    (i) *In general* — Distributions which are made to the employee who is a terminally ill individual on or after the date on which such employee has been certified by a physician as having a terminal illness.
+
+    (ii) *Definition* — For purposes of this subparagraph, the term “terminally ill individual” has the same meaning given such term under section 101(g)(4)(A), except that “84 months” shall be substituted for “24 months”.
+
+    (iii) *Documentation* — For purposes of this subparagraph, an employee shall not be considered to be a terminally ill individual unless such employee furnishes sufficient evidence to the plan administrator in such form and manner as the Secretary may require.
+
+    (iv) *Amount distributed may be repaid* — Rules similar to the rules of subparagraph (H)(v) shall apply with respect to an individual who receives a distribution to which clause (i) applies.
+
+  (M) *Distributions from retirement plans in connection with federally declared disasters* — Any qualified disaster recovery distribution.
 
 (3) **Limitations**
 
@@ -27682,9 +27917,23 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
   (B) *Deferral period* — For purposes of this paragraph, the term “deferral period” means the period beginning with the taxable year in which (without regard to paragraph (2)(A)(iv)) the distribution would have been includible in gross income and ending with the taxable year in which the modification described in subparagraph (A) occurs.
 
+  (C) *Rollovers to subsequent plan* — If—
+
+    (i) payments described in paragraph (2)(A)(iv) are being made from a qualified retirement plan,
+
+    (ii) a transfer or a rollover from such qualified retirement plan of all or a portion of the taxpayer’s benefit under the plan is made to another qualified retirement plan, and
+
+    (iii) distributions from the transferor and transferee plans would in combination continue to satisfy the requirements of paragraph (2)(A)(iv) if they had been made only from the transferor plan,
+    such transfer or rollover shall not be treated as a modification under subparagraph (A)(ii), and compliance with paragraph (2)(A)(iv) shall be determined on the basis of the combined distributions described in clause (iii).
+
 (5) **Employee** — For purposes of this subsection, the term “employee” includes any participant, and in the case of an individual retirement plan, the individual for whose benefit such plan was established.
 
-(6) **Special rules for simple retirement accounts** — In the case of any amount received from a simple retirement account (within the meaning of section 408(p)) during the 2-year period beginning on the date such individual first participated in any qualified salary reduction arrangement maintained by the individual’s employer under section 408(p)(2), paragraph (1) shall be applied by substituting “25 percent” for “10 percent”.
+(6) **Special rules for simple retirement accounts**
+
+  (A) *In general*
+  In the case of any amount received from a simple retirement account (within the meaning of section 408(p)) during the 2-year period beginning on the date such individual first participated in any qualified salary reduction arrangement maintained by the individual’s employer under section 408(p)(2), paragraph (1) shall be applied by substituting “25 percent” for “10 percent”.
+
+  (B) *Waiver in case of plan conversion to 401(k) or 403(b)* — In the case of an employee of an employer which terminates the qualified salary reduction arrangement of the employer under section 408(p) and establishes a qualified cash or deferred arrangement described in section 401(k) or purchases annuity contracts described in section 403(b), subparagraph (A) shall not apply to any amount which is paid in a rollover contribution described in section 408(d)(3) into a qualified trust under section 401(k) (but only if such contribution is subsequently subject to the rules of section 401(k)(2)(B)) or an annuity contract described in section 403(b) (but only if such contribution is subsequently subject to the rules of section 403(b)(12)) for the benefit of the employee.
 
 (7) **Qualified higher education expenses** — For purposes of paragraph (2)(E)—
 
@@ -27717,7 +27966,7 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
       (I) such individual (and if married, such individual’s spouse) had no present ownership interest in a principal residence during the 2-year period ending on the date of acquisition of the principal residence to which this paragraph applies, and
 
-      (II) subsection (h) or (k) of section 1034 44 See References in Text note below. (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 4 (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
+      (II) subsection (h) or (k) of section 1034 55 See References in Text note below. (as in effect on the day before the date of the enactment of this paragraph) did not suspend the running of any period of time specified in section 1034 5 (as so in effect) with respect to such individual on the day before the date the distribution is applied pursuant to subparagraph (A).
 
     (ii) *Principal residence* — The term “principal residence” has the same meaning as when used in section 121.
 
@@ -27733,17 +27982,97 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
     (ii) such amount shall not be taken into account in determining whether section 408(d)(3)(B) applies to any other amount.
 
+  (F) *Recontributions*
+
+    (i) *General rule*
+
+      (I) *In general* — Any individual who received a qualified distribution may, during the applicable period, make one or more contributions in an aggregate amount not to exceed the amount of such qualified distribution to an eligible retirement plan (as defined in section 402(c)(8)(B)) of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), or 408(d)(3), as the case may be.
+
+      (II) *Treatment of repayments* — Rules similar to the rules of clauses (ii) and (iii) of paragraph (11)(C) shall apply for purposes of this subsection.
+
+    (ii) *Qualified distribution* — For purposes of this subparagraph, the term “qualified distribution” means any distribution—
+
+      (I) which is a qualified first-time homebuyer distribution,
+
+      (II) which was to be used to purchase or construct a principal residence in a qualified disaster area, but which was not so used on account of the qualified disaster with respect to such area, and
+
+      (III) which was received during the period beginning on the date which is 180 days before the first day of the incident period of such qualified disaster and ending on the date which is 30 days after the last day of such incident period.
+
+    (iii) *Applicable period* — For purposes of this subparagraph, the term “applicable period” means, in the case of a principal residence in a qualified disaster area with respect to any qualified disaster, the period beginning on the first day of the incident period of such qualified disaster and ending on the date which is 180 days after the applicable date with respect to such disaster.
+
 (9) **Special rule for rollovers to section 457 plans** — For purposes of this subsection, a distribution from an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A) shall be treated as a distribution from a qualified retirement plan described in 4974(c)(1) to the extent that such distribution is attributable to an amount transferred to an eligible deferred compensation plan from a qualified retirement plan (as defined in section 4974(c)).
 
-(10) **Distributions to qualified public safety employees in governmental plans**
+(10) **Distributions to qualified public safety employees and private sector firefighters**
 
-  (A) *In general* — In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)), paragraph (2)(A)(v) shall be applied by substituting “age 50” for “age 55”.
+  (A) *In general* — In the case of a distribution to a qualified public safety employee from a governmental plan (within the meaning of section 414(d)) or a distribution from a plan described in clause (iii), (iv), or (vi) of section 402(c)(8)(B) to an employee who provides firefighting services, paragraph (2)(A)(v) shall be applied by substituting “age 50 or 25 years of service under the plan, whichever is earlier” for “age 55”.
 
   (B) *Qualified public safety employee* — For purposes of this paragraph, the term “qualified public safety employee” means—
 
-    (i) any employee of a State or political subdivision of a State who provides police protection, firefighting services, or emergency medical services for any area within the jurisdiction of such State or political subdivision, or
+    (i) any employee of a State or political subdivision of a State who provides police protection, firefighting services, emergency medical services, or services as a corrections officer or as a forensic security employee providing for the care, custody, and control of forensic patients for any area within the jurisdiction of such State or political subdivision, or
 
     (ii) any Federal law enforcement officer described in section 8331(20) or 8401(17) of title 5, United States Code, any Federal customs and border protection officer described in section 8331(31) or 8401(36) of such title, any Federal firefighter described in section 8331(21) or 8401(14) of such title, any air traffic controller described in 8331(30) or 8401(35) of such title, any nuclear materials courier described in section 8331(27) or 8401(33) of such title, any member of the United States Capitol Police, any member of the Supreme Court Police, or any diplomatic security special agent of the Department of State.
+
+(11) **Qualified disaster recovery distribution** — For purposes of paragraph (2)(M)—
+
+  (A) *In general* — Except as provided in subparagraph (B), the term “qualified disaster recovery distribution” means any distribution made—
+
+    (i) on or after the first day of the incident period of a qualified disaster and before the date that is 180 days after the applicable date with respect to such disaster, and
+
+    (ii) to an individual whose principal place of abode at any time during the incident period of such qualified disaster is located in the qualified disaster area with respect to such qualified disaster and who has sustained an economic loss by reason of such qualified disaster.
+
+  (B) *Aggregate dollar limitation*
+
+    (i) *In general* — For purposes of this subsection, the aggregate amount of distributions received by an individual which may be treated as qualified disaster recovery distributions with respect to any qualified disaster in all taxable years shall not exceed $22,000.
+
+    (ii) *Treatment of plan distributions* — If a distribution to an individual would (without regard to clause (i)) be a qualified disaster recovery distribution, a plan shall not be treated as violating any requirement of this title merely because the plan treats such distribution as a qualified disaster recovery distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $22,000 with respect to the same qualified disaster.
+
+    (iii) *Controlled group* — For purposes of clause (ii), the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414.
+
+  (C) *Amount distributed may be repaid*
+
+    (i) *In general* — Any individual who receives a qualified disaster recovery distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make one or more contributions in an aggregate amount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), as the case may be.
+
+    (ii) *Treatment of repayments of distributions from eligible retirement plans other than IRAs* — For purposes of this title, if a contribution is made pursuant to clause (i) with respect to a qualified disaster recovery distribution from a plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received the qualified disaster recovery distribution in an eligible rollover distribution (as defined in section 402(c)(4)) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+    (iii) *Treatment of repayments for distributions from IRAs* — For purposes of this title, if a contribution is made pursuant to clause (i) with respect to a qualified disaster recovery distribution from an individual retirement plan, then, to the extent of the amount of the contribution, the qualified disaster recovery distribution shall be treated as a distribution described in section 408(d)(3) and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution.
+
+  (D) *Income inclusion spread over 3-year period*
+
+    (i) *In general* — In the case of any qualified disaster recovery distribution, unless the taxpayer elects not to have this subparagraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable year period beginning with such taxable year.
+
+    (ii) *Special rule* — For purposes of clause (i), rules similar to the rules of subparagraph (E) of section 408A(d)(3) shall apply.
+
+  (E) *Qualified disaster* — For purposes of this paragraph and paragraph (8), the term “qualified disaster” means any disaster with respect to which a major disaster has been declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act after December 27, 2020.
+
+  (F) *Other definitions* — For purposes of this paragraph and paragraph (8)—
+
+    (i) *Qualified disaster area*
+
+      (I) *In general* — The term “qualified disaster area” means, with respect to any qualified disaster, the area with respect to which the major disaster was declared under the Robert T. Stafford Disaster Relief and Emergency Assistance Act.
+
+      (II) *Exceptions* — Such term shall not include any area which is a qualified disaster area solely by reason of section 301 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020.
+
+    (ii) *Incident period* — The term “incident period” means, with respect to any qualified disaster, the period specified by the Federal Emergency Management Agency as the period during which such disaster occurred.
+
+    (iii) *Applicable date* — The term “applicable date” means the latest of—
+
+      (I) the date of the enactment of this paragraph,
+
+      (II) the first day of the incident period with respect to the qualified disaster, or
+
+      (III) the date of the disaster declaration with respect to the qualified disaster.
+
+    (iv) *Eligible retirement plan* — The term “eligible retirement plan” shall have the meaning given such term by section 402(c)(8)(B).
+
+  (G) *Special rules*
+
+    (i) *Exemption of distributions from trustee to trustee transfer and withholding rules* — For purposes of sections 401(a)(31), 402(f), and 3405, qualified disaster recovery distributions shall not be treated as eligible rollover distributions.
+
+    (ii) *Qualified disaster recovery distributions treated as meeting plan distribution requirements* — For purposes of this title—
+
+      (I) a qualified disaster recovery distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A), and
+
+      (II) in the case of a money purchase pension plan, a qualified disaster recovery distribution which is an in-service withdrawal shall be treated as meeting the requirements of section 401(a) applicable to distributions.
 
 **(u) Treatment of annuity contracts not held by natural persons**
 
@@ -27825,6 +28154,25 @@ then, for purposes of this subtitle, no part of such lump sum shall be considere
 
 ### Statutory Notes
 
+#### Amendment of Subsection (t)(2)
+Pub. L. 117–328, div. T, title III, § 334(c), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (t)(2) of this section is amended by adding at the end the following new subparagraph:
+
+“(N) Qualified long-term care distributions
+
+“(i) In general
+
+“Any qualified long-term care distribution to which section 401(a)(39) applies.
+
+“(ii) Exception
+
+“If, with respect to the plan, the individual covered by the long-term care coverage to which such distribution relates is the spouse of the employee, clause (i) shall apply only if the employee and the employee’s spouse file a joint return.
+
+“(iii) Exemption of distributions from trustee to trustee transfer and withholding rules
+
+“For purposes of sections 401(a)(31), 402(f), and 3405, any qualified long-term care distribution described in clause (i) shall not be treated as an eligible rollover distribution.”.
+
+See 2022 Amendment note below.
+
 #### References in Text
 The enactment of the Economic Growth and Tax Relief Reconciliation Act of 2001, referred to in subsec. (f), means the enactment of Pub. L. 107–16, which was approved June 7, 2001.
 
@@ -27836,7 +28184,57 @@ The date of the enactment of this subparagraph, referred to in subsec. (t)(2)(G)
 
 Section 1034 (as in effect on the day before the date of the enactment of this paragraph), referred to in subsec. (t)(8)(D)(i)(II), means [section 1034 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1034) as in effect on the day before Aug. 5, 1997. Section 1034 was repealed by Pub. L. 105–34, title III, § 312(b), Aug. 5, 1997, 111 Stat. 839.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (t)(11)(E), (F)(i)(I), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. Section 401 of the Act is classified to [section 5170 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5170&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+
+Section 301 of the Taxpayer Certainty and Disaster Tax Relief Act of 2020, referred to in subsec. (t)(11)(F)(i)(II), is section 301 of Pub. L. 116–260, div. EE, title III, Dec. 27, 2020, 134 Stat. 3070, which is not classified to the Code.
+
+The date of the enactment of this paragraph, referred to in subsec. (t)(11)(F)(iii)(I), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
 #### Amendments
+2022—Subsec. (d)(3). Pub. L. 117–328, § 127(e)(3), added par. (3).
+
+Subsec. (p)(6). Pub. L. 117–328, § 331(c)(1), added par. (6).
+
+Subsec. (q)(2). Pub. L. 117–328, § 323(d)(2), added concluding provisions.
+
+Subsec. (q)(3). Pub. L. 117–328, § 323(b), designated existing provisions as subpar. (A) and inserted heading, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and cls. (i) and (ii) of former subpar. (B) as subcls. (I) and (II), respectively, of cl. (ii), and added subpar. (B).
+
+Subsec. (t)(2)(A). Pub. L. 117–328, § 323(d)(1), added concluding provisions.
+
+Subsec. (t)(2)(A)(ix). Pub. L. 117–328, § 333(a), added cl. (ix).
+
+Subsec. (t)(2)(H)(v)(I). Pub. L. 117–328, § 311(a), substituted “may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make” for “may make”.
+
+Subsec. (t)(2)(H)(vi)(IV). Pub. L. 117–328, § 401(b)(1), substituted “403(b)(7)(A)(i)” for “403(b)(7)(A)(ii)”.
+
+Subsec. (t)(2)(I). Pub. L. 117–328, § 115(a), added subpar. (I).
+
+Subsec. (t)(2)(J). Pub. L. 117–328, § 127(e)(2), added subpar. (J).
+
+Subsec. (t)(2)(K). Pub. L. 117–328, § 314(a), added subpar. (K).
+
+Subsec. (t)(2)(L). Pub. L. 117–328, § 326(a), added subpar. (L).
+
+Subsec. (t)(2)(M). Pub. L. 117–328, § 331(a)(1), added subpar. (M).
+
+Subsec. (t)(2)(N). Pub. L. 117–328, § 334(c), added subpar. (N).
+
+Subsec. (t)(4)(C). Pub. L. 117–328, § 323(a), added subpar. (C).
+
+Subsec. (t)(6). Pub. L. 117–328, § 332(b)(1), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
+
+Subsec. (t)(8)(F). Pub. L. 117–328, § 331(b)(1), added subpar. (F).
+
+Subsec. (t)(10). Pub. L. 117–328, § 308(b), substituted “and private sector firefighters” for “in governmental plans” in heading.
+
+Subsec. (t)(10)(A). Pub. L. 117–328, § 329(a), substituted “age 50 or 25 years of service under the plan, whichever is earlier” for “age 50”.
+
+Pub. L. 117–328, § 308(a), substituted “414(d)) or a distribution from a plan described in clause (iii), (iv), or (vi) of section 402(c)(8)(B) to an employee who provides firefighting services” for “414(d))”.
+
+Subsec. (t)(10)(B)(i). Pub. L. 117–328, § 330(a), substituted “emergency medical services, or services as a corrections officer or as a forensic security employee providing for the care, custody, and control of forensic patients” for “or emergency medical services”.
+
+Subsec. (t)(11). Pub. L. 117–328, § 331(a)(2), added par. (11).
+
 2019—Subsec. (p)(2)(D), (E). Pub. L. 116–94, § 108(a), added subpar. (D) and redesignated former subpar. (D) as (E).
 
 Subsec. (t)(2)(H). Pub. L. 116–94, § 113(a), added subpar. (H).
@@ -28243,6 +28641,39 @@ Subsec. (f). Pub. L. 87–834 inserted sentence providing that par. (2) shall no
 
 Subsecs. (m) to (o). Pub. L. 87–792, § 4(b), added subsecs. (m) and (n) and redesignated former subsec. (m) as (o).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 115(c), Dec. 29, 2022, 136 Stat. 5297, provided that: “The amendments made by this section [amending this section] shall apply to distributions made after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title I, § 127(g), Dec. 29, 2022, 136 Stat. 5330, provided that: “The amendments made by this section [enacting sections 1193 to 1193c of Title 29, Labor, and amending this section, [section 402A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402a), and sections 1002, 1021, 1030, and 1104 of Title 29] shall apply to plan years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title III, § 308(c), Dec. 29, 2022, 136 Stat. 5345, provided that: “The amendments made by this section [amending this section] shall apply to distributions made after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 311(b), Dec. 29, 2022, 136 Stat. 5347, provided that: “(1) In general.—Except as provided in paragraph (2), the amendment made by this section [amending this section] shall apply to distributions made after the date of the enactment of this Act [Dec. 29, 2022]. “(2) Temporary rule with respect to distributions already made.—In the case of a qualified birth or adoption distribution (as defined in section 72(t)(2)(H)(iii)(I) of the Internal Revenue Code of 1986) made on or before the date of the enactment of this Act, section 72(t)(2)(H)(v)(I) of such Code (as amended by this Act [div. T of Pub. L. 117–328]) shall apply to such distribution by substituting ‘after such distribution and before January 1, 2026’ for ‘during the 3-year period beginning on the day after the date on which such distribution was received’.”
+
+Pub. L. 117–328, div. T, title III, § 314(b), Dec. 29, 2022, 136 Stat. 5350, provided that: “The amendments made by this section [amending this section] shall apply to distributions made after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title III, § 323(e), Dec. 29, 2022, 136 Stat. 5358, provided that: “(1) In general.—The amendments made by subsections (a), (b), and (c) [amending this section and [section 6724 of this title](./chapter-068-additions-to-the-tax-additional-amounts-and-assessable-penalties.md#section-6724)] shall apply to transfers, rollovers, and exchanges occurring after December 31, 2023. “(2) Annuity payments.—The amendment made by subsection (d) [amending this section] shall apply to distributions commencing on or after the date of the enactment of this Act [Dec. 29, 2022]. “(3) No inference.—Nothing in the amendments made by this section shall be construed to create an inference with respect to the law in effect prior to the effective date of such amendments.”
+
+Pub. L. 117–328, div. T, title III, § 326(b), Dec. 29, 2022, 136 Stat. 5359, provided that: “The amendment made by this section [amending this section] shall apply to distributions made after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 329(b), Dec. 29, 2022, 136 Stat. 5361, provided that: “The amendment made by this section [amending this section] shall apply to distributions made after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 330(b), Dec. 29, 2022, 136 Stat. 5361, provided that: “The amendment made by this section [amending this section] shall apply to distributions made after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 331(a)(3), Dec. 29, 2022, 136 Stat. 5363, provided that: “The amendments made by this subsection [amending this section] shall apply to distributions with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
+
+Pub. L. 117–328, div. T, title III, § 331(b)(3), Dec. 29, 2022, 136 Stat. 5365, provided that: “The amendments made by this subsection [amending this section and [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402)] shall apply to recontributions of withdrawals for home purchases with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
+
+Pub. L. 117–328, div. T, title III, § 331(c)(2), Dec. 29, 2022, 136 Stat. 5366, provided that: “The amendment made by paragraph (1) [amending this section] shall apply to plan loans made with respect to disasters the incident period (as defined in section 72(t)(11)(F)(ii) of the Internal Revenue Code of 1986, as added by this subsection) for which begins on or after the date which is 30 days after the date of the enactment of the Taxpayer Certainty and Disaster Tax Relief Act of 2020 [Dec. 27, 2020].”
+
+Pub. L. 117–328, div. T, title III, § 332(c), Dec. 29, 2022, 136 Stat. 5368, provided that: “The amendments made by this section [amending this section and [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408)] shall apply to plan years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title III, § 333(b), Dec. 29, 2022, 136 Stat. 5368, provided that: “The amendments made by this section [amending this section] shall apply to any determination of, or affecting, liability for taxes, interest, or penalties which is made on or after the date of the enactment of this Act [Dec. 29, 2022], without regard to whether the act (or failure to act) upon which the determination is based occurred before such date of enactment. Notwithstanding the preceding sentence, nothing in the amendments made by this section shall be construed to create an inference with respect to the law in effect prior to the effective date of such amendments.”
+
+Pub. L. 117–328, div. T, title III, § 334(e), Dec. 29, 2022, 136 Stat. 5372, provided that: “The amendments made by this section [enacting [section 6050Z of this title](./chapter-061-information-and-returns.md#section-6050z) and amending this section and sections 401, 403, 457, and 6724 of this title] shall apply to distributions made after the date which is 3 years after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title IV, § 401(c), Dec. 29, 2022, 136 Stat. 5388, provided that: “The amendments made by this section [amending this section and sections 401, 408, 408A, and 4973 of this title] shall take effect as if included in the section of the Setting Every Community Up for Retirement Enhancement Act of 2019 [div. O of Pub. L. 116–94] to which the amendment relates.”
+
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. O, title I, § 108(b), Dec. 20, 2019, 133 Stat. 3149, provided that: “The amendments made by subsection (a) [amending this section] shall apply to loans made after the date of the enactment of this Act [Dec. 20, 2019].”
 
@@ -28421,7 +28852,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 Pub. L. 94–455, title XIX, § 1951(b)(1)(B), Oct. 4, 1976, 90 Stat. 1836, provided that: “Notwithstanding subparagraph (A) [repealing subsec. (i) of this section], if the provisions of section 72(i) applied to amounts received in taxable years beginning before January 1, 1977, under an annuity contract, then amounts received under such contract on or after such date shall be treated as if such provisions were not repealed.”
 
 #### Special Rules for Use of Retirement Funds
-Pub. L. 116–136, div. A, title II, § 2202, Mar. 27, 2020, 134 Stat. 340, as amended by Pub. L. 116–260, div. N, title II, § 280(a), Dec. 27, 2020, 134 Stat. 1982, provided that: “(a) Tax-favored Withdrawals From Retirement Plans.—“(1) In general.—Section 72(t) of the Internal Revenue Code of 1986 shall not apply to any coronavirus-related distribution. “(2) Aggregate dollar limitation.—“(A) In general.—For purposes of this subsection, the aggregate amount of distributions received by an individual which may be treated as coronavirus-related distributions for any taxable year shall not exceed $100,000. “(B) Treatment of plan distributions.—If a distribution to an individual would (without regard to subparagraph (A)) be a coronavirus-related distribution, a plan shall not be treated as violating any requirement of the Internal Revenue Code of 1986 merely because the plan treats such distribution as a coronavirus-related distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000. “(C) Controlled group.—For purposes of subparagraph (B), the term ‘controlled group’ means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of the Internal Revenue Code of 1986. “(3) Amount distributed may be repaid.—“(A) In general.—Any individual who receives a coronavirus-related distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make 1 or more contributions in an aggregate amount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), of the Internal Revenue Code of 1986, as the case may be. “(B) Treatment of repayments of distributions from eligible retirement plans other than iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received the coronavirus-related distribution in an eligible rollover distribution (as defined in section 402(c)(4) of such Code) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution. “(C) Treatment of repayments of distributions from iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an individual retirement plan (as defined by section 7701(a)(37) of such Code), then, to the extent of the amount of the contribution, the coronavirus-related distribution shall be treated as a distribution described in section 408(d)(3) of such Code and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution. “(4) Definitions.—For purposes of this subsection—“(A) Coronavirus-related distribution.—Except as provided in paragraph (2), the term ‘coronavirus-related distribution’ means any distribution from an eligible retirement plan made—“(i) on or after January 1, 2020, and before December 31, 2020, “(ii) to an individual— “(I) who is diagnosed with the virus SARS–CoV–2 or with coronavirus disease 2019 (COVID–19) by a test approved by the Centers for Disease Control and Prevention, “(II) whose spouse or dependent (as defined in section 152 of the Internal Revenue Code of 1986) is diagnosed with such virus or disease by such a test, or “(III) who experiences adverse financial consequences as a result of being quarantined, being furloughed or laid off or having work hours reduced due to such virus or disease, being unable to work due to lack of child care due to such virus or disease, closing or reducing hours of a business owned or operated by the individual due to such virus or disease, or other factors as determined by the Secretary of the Treasury (or the Secretary’s delegate). “(B) Employee certification.—The administrator of an eligible retirement plan may rely on an employee’s certification that the employee satisfies the conditions of subparagraph (A)(ii) in determining whether any distribution is a coronavirus-related distribution. “(C) Eligible retirement plan.—The term ‘eligible retirement plan’ has the meaning given such term by section 402(c)(8)(B) of the Internal Revenue Code of 1986. “(5) Income inclusion spread over 3-year period.—“(A) In general.—In the case of any coronavirus-related distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable-year period beginning with such taxable year. “(B) Special rule.—For purposes of subparagraph (A), rules similar to the rules of subparagraph (E) of section 408A(d)(3) of the Internal Revenue Code of 1986 shall apply. “(6) Special rules.—“(A) Exemption of distributions from trustee to trustee transfer and withholding rules.—For purposes of sections 401(a)(31), 402(f), and 3405 of the Internal Revenue Code of 1986, coronavirus-related distributions shall not be treated as eligible rollover distributions. “(B) Coronavirus-related distributions treated as meeting plan distribution requirements.—For purposes of the Internal Revenue Code of 1986, a coronavirus-related distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A) of such Code and [section 8433(h)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8433/h/1&num=0&edition=prelim), United States Code, and, in the case of a money purchase pension plan, a coronavirus-related distribution which is an in-service withdrawal shall be treated as meeting the distribution rules of section 401(a) of the Internal Revenue Code of 1986. “(b) Loans From Qualified Plans.—“(1) Increase in limit on loans not treated as distributions.—In the case of any loan from a qualified employer plan (as defined under section 72(p)(4) of the Internal Revenue Code of 1986) to a qualified individual made during the 180-day period beginning on the date of the enactment of this Act [Mar. 27, 2020]—“(A) clause (i) of section 72(p)(2)(A) of such Code shall be applied by substituting ‘$100,000’ for ‘$50,000’, and “(B) clause (ii) of such section shall be applied by substituting ‘the present value of the nonforfeitable accrued benefit of the employee under the plan’ for ‘one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan’. “(2) Delay of repayment.—In the case of a qualified individual with an outstanding loan (on or after the date of the enactment of this Act) from a qualified employer plan (as defined in section 72(p)(4) of the Internal Revenue Code of 1986)—“(A) if the due date pursuant to subparagraph (B) or (C) of section 72(p)(2) of such Code for any repayment with respect to such loan occurs during the period beginning on the date of the enactment of this Act and ending on December 31, 2020, such due date shall be delayed for 1 year, “(B) any subsequent repayments with respect to any such loan shall be appropriately adjusted to reflect the delay in the due date under subparagraph (A) and any interest accruing during such delay, and “(C) in determining the 5-year period and the term of a loan under subparagraph (B) or (C) of section 72(p)(2) of such Code, the period described in subparagraph (A) of this paragraph shall be disregarded. “(3) Qualified individual.—For purposes of this subsection, the term ‘qualified individual’ means any individual who is described in subsection (a)(4)(A)(ii). “(c) Provisions Relating to Plan Amendments.—“(1) In general.—If this subsection applies to any amendment to any plan or annuity contract—“(A) such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in paragraph (2)(B)(i), and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such plan or contract shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(2) Amendments to which subsection applies.—“(A) In general.—This subsection shall apply to any amendment to any plan or annuity contract which is made—“(i) pursuant to any provision of this section, or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or the delegate of either such Secretary) under any provision of this section, and “(ii) on or before the last day of the first plan year beginning on or after January 1, 2022, or such later date as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), clause (ii) shall be applied by substituting the date which is 2 years after the date otherwise applied under clause (ii). “(B) Conditions.—This subsection shall not apply to any amendment unless—“(i) during the period— “(I) beginning on the date that this section or the regulation described in subparagraph (A)(i) takes effect (or in the case of a plan or contract amendment not required by this section or such regulation, the effective date specified by the plan), and “(II) ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect, and “(ii) such plan or contract amendment applies retroactively for such period.”
+Pub. L. 116–136, div. A, title II, § 2202, Mar. 27, 2020, 134 Stat. 340, as amended by Pub. L. 116–260, div. N, title II, § 280(a), Dec. 27, 2020, 134 Stat. 1982; Pub. L. 117–328, div. T, title V, § 501(c)(2)(A), Dec. 29, 2022, 136 Stat. 5389, provided that: “(a) Tax-favored Withdrawals From Retirement Plans.—“(1) In general.—Section 72(t) of the Internal Revenue Code of 1986 shall not apply to any coronavirus-related distribution. “(2) Aggregate dollar limitation.—“(A) In general.—For purposes of this subsection, the aggregate amount of distributions received by an individual which may be treated as coronavirus-related distributions for any taxable year shall not exceed $100,000. “(B) Treatment of plan distributions.—If a distribution to an individual would (without regard to subparagraph (A)) be a coronavirus-related distribution, a plan shall not be treated as violating any requirement of the Internal Revenue Code of 1986 merely because the plan treats such distribution as a coronavirus-related distribution, unless the aggregate amount of such distributions from all plans maintained by the employer (and any member of any controlled group which includes the employer) to such individual exceeds $100,000. “(C) Controlled group.—For purposes of subparagraph (B), the term ‘controlled group’ means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of the Internal Revenue Code of 1986. “(3) Amount distributed may be repaid.—“(A) In general.—Any individual who receives a coronavirus-related distribution may, at any time during the 3-year period beginning on the day after the date on which such distribution was received, make 1 or more contributions in an aggregate amount not to exceed the amount of such distribution to an eligible retirement plan of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under section 402(c), 403(a)(4), 403(b)(8), 408(d)(3), or 457(e)(16), of the Internal Revenue Code of 1986, as the case may be. “(B) Treatment of repayments of distributions from eligible retirement plans other than iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an eligible retirement plan other than an individual retirement plan, then the taxpayer shall, to the extent of the amount of the contribution, be treated as having received the coronavirus-related distribution in an eligible rollover distribution (as defined in section 402(c)(4) of such Code) and as having transferred the amount to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution. “(C) Treatment of repayments of distributions from iras.—For purposes of the Internal Revenue Code of 1986, if a contribution is made pursuant to subparagraph (A) with respect to a coronavirus-related distribution from an individual retirement plan (as defined by section 7701(a)(37) of such Code), then, to the extent of the amount of the contribution, the coronavirus-related distribution shall be treated as a distribution described in section 408(d)(3) of such Code and as having been transferred to the eligible retirement plan in a direct trustee to trustee transfer within 60 days of the distribution. “(4) Definitions.—For purposes of this subsection—“(A) Coronavirus-related distribution.—Except as provided in paragraph (2), the term ‘coronavirus-related distribution’ means any distribution from an eligible retirement plan made—“(i) on or after January 1, 2020, and before December 31, 2020, “(ii) to an individual— “(I) who is diagnosed with the virus SARS–CoV–2 or with coronavirus disease 2019 (COVID–19) by a test approved by the Centers for Disease Control and Prevention, “(II) whose spouse or dependent (as defined in section 152 of the Internal Revenue Code of 1986) is diagnosed with such virus or disease by such a test, or “(III) who experiences adverse financial consequences as a result of being quarantined, being furloughed or laid off or having work hours reduced due to such virus or disease, being unable to work due to lack of child care due to such virus or disease, closing or reducing hours of a business owned or operated by the individual due to such virus or disease, or other factors as determined by the Secretary of the Treasury (or the Secretary’s delegate). “(B) Employee certification.—The administrator of an eligible retirement plan may rely on an employee’s certification that the employee satisfies the conditions of subparagraph (A)(ii) in determining whether any distribution is a coronavirus-related distribution. “(C) Eligible retirement plan.—The term ‘eligible retirement plan’ has the meaning given such term by section 402(c)(8)(B) of the Internal Revenue Code of 1986. “(5) Income inclusion spread over 3-year period.—“(A) In general.—In the case of any coronavirus-related distribution, unless the taxpayer elects not to have this paragraph apply for any taxable year, any amount required to be included in gross income for such taxable year shall be so included ratably over the 3-taxable-year period beginning with such taxable year. “(B) Special rule.—For purposes of subparagraph (A), rules similar to the rules of subparagraph (E) of section 408A(d)(3) of the Internal Revenue Code of 1986 shall apply. “(6) Special rules.—“(A) Exemption of distributions from trustee to trustee transfer and withholding rules.—For purposes of sections 401(a)(31), 402(f), and 3405 of the Internal Revenue Code of 1986, coronavirus-related distributions shall not be treated as eligible rollover distributions. “(B) Coronavirus-related distributions treated as meeting plan distribution requirements.—For purposes of the Internal Revenue Code of 1986, a coronavirus-related distribution shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A) of such Code and [section 8433(h)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8433/h/1&num=0&edition=prelim), United States Code, and, in the case of a money purchase pension plan, a coronavirus-related distribution which is an in-service withdrawal shall be treated as meeting the distribution rules of section 401(a) of the Internal Revenue Code of 1986. “(b) Loans From Qualified Plans.—“(1) Increase in limit on loans not treated as distributions.—In the case of any loan from a qualified employer plan (as defined under section 72(p)(4) of the Internal Revenue Code of 1986) to a qualified individual made during the 180-day period beginning on the date of the enactment of this Act [Mar. 27, 2020]—“(A) clause (i) of section 72(p)(2)(A) of such Code shall be applied by substituting ‘$100,000’ for ‘$50,000’, and “(B) clause (ii) of such section shall be applied by substituting ‘the present value of the nonforfeitable accrued benefit of the employee under the plan’ for ‘one-half of the present value of the nonforfeitable accrued benefit of the employee under the plan’. “(2) Delay of repayment.—In the case of a qualified individual with an outstanding loan (on or after the date of the enactment of this Act) from a qualified employer plan (as defined in section 72(p)(4) of the Internal Revenue Code of 1986)—“(A) if the due date pursuant to subparagraph (B) or (C) of section 72(p)(2) of such Code for any repayment with respect to such loan occurs during the period beginning on the date of the enactment of this Act and ending on December 31, 2020, such due date shall be delayed for 1 year, “(B) any subsequent repayments with respect to any such loan shall be appropriately adjusted to reflect the delay in the due date under subparagraph (A) and any interest accruing during such delay, and “(C) in determining the 5-year period and the term of a loan under subparagraph (B) or (C) of section 72(p)(2) of such Code, the period described in subparagraph (A) of this paragraph shall be disregarded. “(3) Qualified individual.—For purposes of this subsection, the term ‘qualified individual’ means any individual who is described in subsection (a)(4)(A)(ii). “(c) Provisions Relating to Plan Amendments.—“(1) In general.—If this subsection applies to any amendment to any plan or annuity contract—“(A) such plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in paragraph (2)(B)(i), and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such plan or contract shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(2) Amendments to which subsection applies.—“(A) In general.—This subsection shall apply to any amendment to any plan or annuity contract which is made—“(i) pursuant to any provision of this section, or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or the delegate of either such Secretary) under any provision of this section, and “(ii) on or before the last day of the first plan year beginning on or after January 1, 2025, or such later date as the Secretary of the Treasury (or the Secretary’s delegate) may prescribe. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), clause (ii) shall be applied by substituting the date which is 2 years after the date otherwise applied under clause (ii). “(B) Conditions.—This subsection shall not apply to any amendment unless—“(i) during the period— “(I) beginning on the date that this section or the regulation described in subparagraph (A)(i) takes effect (or in the case of a plan or contract amendment not required by this section or such regulation, the effective date specified by the plan), and “(II) ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect, and “(ii) such plan or contract amendment applies retroactively for such period.”
 
 [Pub. L. 116–260, div. N, title II, § 280(b), Dec. 27, 2020, 134 Stat. 1982, provided that: “The amendment made by this section [amending section 2202 of Pub. L. 116–136, set out above] shall apply as if included in the enactment of section 2202 of the CARES Act [Pub. L. 116–136, approved Mar. 27, 2020].” ]
 
@@ -29347,7 +29778,7 @@ any social security benefit shall be treated as an amount received as a pension 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a)(1) and (d)(1)(A), (3), (4)(A), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42. Sections 207, 224, and 708 of the Act are classified to sections 407, 424a, and 909 of Title 42, respectively. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a)(1) and (d)(1)(A), (3), (4)(A), (5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42. Sections 207, 224, and 708 of the Act are classified to sections 407, 424a, and 909 of Title 42, respectively. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 The Railroad Retirement Act of 1974, referred to in subsec. (d)(3), (4), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. Section 3(a)(1), (f)(3) of the Act is classified to section 231b(a)(1), (f)(3) of Title 45. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
@@ -30462,7 +30893,7 @@ Pub. L. 98–369, div. A, title VI, § 628(f), July 18, 1984, 98 Stat. 932, as a
 Pub. L. 98–369, div. A, title VI, § 628(h), July 18, 1984, 98 Stat. 932, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “In the case of any obligation issued on December 11, 1981, section 103(b)(6)(I) of the Internal Revenue Code of 1986 [formerly I.R.C. 1954] shall be applied by substituting ‘$15,000,000’ for ‘$10,000,000’ if— “(1) such obligation is part of an issue, “(2) substantially all of the proceeds of such issue are used to provide facilities with respect to which an urban development action grant under section 119 of the Housing and Community Development Act of 1974 [[42 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5318&num=0&edition=prelim)] was preliminarily approved by the Secretary of Housing and Urban Development on January 10, 1980, and “(3) the Secretary of Housing and Urban Development determines, at the time such grant is approved, that the amount of such grant will equal or exceed 5 percent of the total capital expenditures incurred with respect to such facilities.”
 
 #### Student Loan Bonds
-Pub. L. 98–369, div. A, title VI, § 625, July 18, 1984, 98 Stat. 924, as amended by Pub. L. 99–514, § 2, title XVIII, § 1868, Oct. 22, 1986, 100 Stat. 2095, 2888, provided that: “(a) Arbitrage Regulations.—“(1) In general.—The Secretary shall prescribe regulations which specify the circumstances under which a qualified student loan bond shall be treated as an arbitrage bond for purposes of section 103 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]. Such regulations may provide that—“(A) paragraphs (4) and (5) of section 103(c) of such Code shall not apply, and “(B) rules similar to section 103(c)(6) shall apply, to qualified student loan bonds. “(2) Definitions.—For purposes of this subsection—“(A) Qualified student loan bond.—The term ‘qualified student loan bond’ has the meaning given to such term by section 103(o)(3) of the Internal Revenue Code of 1986 (as amended by this Act). “(B) Arbitrage bond.—The term ‘arbitrage bond’ has the meaning given to such term by section 103(c)(2). “(3) Effective date.—“(A) In general.—Except as otherwise provided in this paragraph, any regulations prescribed by the Secretary under paragraph (1) shall apply to obligations issued after the qualified date. “(B) Qualified date.—“(i) In general.—For purposes of this paragraph, the term ‘qualified date’ means the earlier of— “(I) the date on which the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.] expires, or “(II) the date, after the date of enactment of this Act [July 18, 1984], on which the Higher Education Act of 1965 is reauthorized. “(ii) Publication of regulations.—Notwithstanding clause (i), the qualified date shall not be a date which is prior to the date that is 6 months after the date on which the regulations prescribed under paragraph (1) are published in the Federal Register. “(C) Refunding obligations.—Regulations prescribed by the Secretary under paragraph (1) shall not apply to any obligation (or series of refunding obligations) issued exclusively to refund any qualified student loan bond which was issued before the qualified date, except that the requirements of subparagraphs (A) and (B) of section 626(b)(4) of this Act [set out in Effective Date of 1984 Amendment note above] must be met with respect to such refunding. “(D) Fulfillment of commitments.—Regulations prescribed by the Secretary under paragraph (1) shall not apply to any obligations which are needed to fulfill written commitments to acquire or finance student loans which are originated after June 30, 1984, and before the qualified date, but only if—“(i) such commitments are binding on the qualified date, and “(ii) the amount of such commitments is consistent with practices of the issuer which were in effect on March 15, 1984, with respect to establishing secondary markets for student loans. “(b) Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds.—Under regulations prescribed by the Secretary of the Treasury or his delegate, any student loan bond (other than a qualified student loan bond) issued after December 31, 1985, shall be treated as an obligation not described in subsection (a)(1) or (2) of section 103 of the Internal Revenue Code of 1986 unless the issue of which such obligation is a part meets requirements similar to those of sections 103(c)(6) and 103A(i) of such Code. “(c) Issuance of Student Loan Bonds Which Are Not Tax-Exempt.—Any issuer who may issue obligations described in section 103(a) of the Internal Revenue Code of 1986 may elect to issue student loan bonds which are not described in such section 103(a) of such Code without prejudice to—“(1) the status of any other obligations issued, or to be issued, by such issuer as obligations described in section 103(a) of such Code, or “(2) the status of the issuer as an organization exempt from taxation under such Code. “(d) Federal Executive Branch Jurisdiction Over Tax-Exempt Status.—For purposes of Federal law, any determination by the executive branch of the Federal Government of whether interest on any obligation is exempt from taxation under the Internal Revenue Code of 1986 shall be exclusively within the jurisdiction of the Department of the Treasury. “(e) Study on Tax-Exempt Student Loan Bonds.—“(1) In general.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall conduct studies of—“(A) the appropriate role of tax-exempt bonds which are issued in connection with the guaranteed student loan program and the PLUS program established under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.], and “(B) the appropriate arbitrage rules for such bonds. “(2) Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act [July 18, 1984].”
+Pub. L. 98–369, div. A, title VI, § 625, July 18, 1984, 98 Stat. 924, as amended by Pub. L. 99–514, § 2, title XVIII, § 1868, Oct. 22, 1986, 100 Stat. 2095, 2888, provided that: “(a) Arbitrage Regulations.—“(1) In general.—The Secretary shall prescribe regulations which specify the circumstances under which a qualified student loan bond shall be treated as an arbitrage bond for purposes of section 103 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954]. Such regulations may provide that—“(A) paragraphs (4) and (5) of section 103(c) of such Code shall not apply, and “(B) rules similar to section 103(c)(6) shall apply, to qualified student loan bonds. “(2) Definitions.—For purposes of this subsection—“(A) Qualified student loan bond.—The term ‘qualified student loan bond’ has the meaning given to such term by section 103(o)(3) of the Internal Revenue Code of 1986 (as amended by this Act). “(B) Arbitrage bond.—The term ‘arbitrage bond’ has the meaning given to such term by section 103(c)(2). “(3) Effective date.—“(A) In general.—Except as otherwise provided in this paragraph, any regulations prescribed by the Secretary under paragraph (1) shall apply to obligations issued after the qualified date. “(B) Qualified date.—“(i) In general.—For purposes of this paragraph, the term ‘qualified date’ means the earlier of— “(I) the date on which the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.] expires, or “(II) the date, after the date of enactment of this Act [July 18, 1984], on which the Higher Education Act of 1965 is reauthorized. “(ii) Publication of regulations.—Notwithstanding clause (i), the qualified date shall not be a date which is prior to the date that is 6 months after the date on which the regulations prescribed under paragraph (1) are published in the Federal Register. “(C) Refunding obligations.—Regulations prescribed by the Secretary under paragraph (1) shall not apply to any obligation (or series of refunding obligations) issued exclusively to refund any qualified student loan bond which was issued before the qualified date, except that the requirements of subparagraphs (A) and (B) of section 626(b)(4) of this Act [set out in Effective Date of 1984 Amendment note above] must be met with respect to such refunding. “(D) Fulfillment of commitments.—Regulations prescribed by the Secretary under paragraph (1) shall not apply to any obligations which are needed to fulfill written commitments to acquire or finance student loans which are originated after June 30, 1984, and before the qualified date, but only if—“(i) such commitments are binding on the qualified date, and “(ii) the amount of such commitments is consistent with practices of the issuer which were in effect on March 15, 1984, with respect to establishing secondary markets for student loans. “(b) Arbitrage Limitation on Student Loan Bonds Which Are Not Qualified Student Loan Bonds.—Under regulations prescribed by the Secretary of the Treasury or his delegate, any student loan bond (other than a qualified student loan bond) issued after December 31, 1985, shall be treated as an obligation not described in subsection (a)(1) or (2) of section 103 of the Internal Revenue Code of 1986 unless the issue of which such obligation is a part meets requirements similar to those of sections 103(c)(6) and 103A(i) of such Code. “(c) Issuance of Student Loan Bonds Which Are Not Tax-Exempt.—Any issuer who may issue obligations described in section 103(a) of the Internal Revenue Code of 1986 may elect to issue student loan bonds which are not described in such section 103(a) of such Code without prejudice to—“(1) the status of any other obligations issued, or to be issued, by such issuer as obligations described in section 103(a) of such Code, or “(2) the status of the issuer as an organization exempt from taxation under such Code. “(d) Federal Executive Branch Jurisdiction Over Tax-Exempt Status.—For purposes of Federal law, any determination by the executive branch of the Federal Government of whether interest on any obligation is exempt from taxation under the Internal Revenue Code of 1986 shall be exclusively within the jurisdiction of the Department of the Treasury. “(e) Study on Tax-Exempt Student Loan Bonds.—“(1) In general.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall conduct studies of—“(A) the appropriate role of tax-exempt bonds which are issued in connection with the guaranteed student loan program and the PLUS program established under the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) et seq.], and “(B) the appropriate arbitrage rules for such bonds. “(2) Report.—The Comptroller General of the United States and the Director of the Congressional Budget Office, shall submit to the Committee on Finance and the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate and the Committee on Ways and Means and the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives reports on the studies conducted under paragraph (1) by no later than 9 months after the date of enactment of this Act [July 18, 1984].”
 
 #### Obligations Issued To Provide Solid Waste-Energy Producing Facilities
 Pub. L. 96–223, title II, § 241(b), Apr. 2, 1980, 94 Stat. 282, as amended by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, provided that: “(1) General rule.—For purposes of section 103 of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], any obligation issued by an authority for 2 or more political subdivisions of a State which is part of an issue substantially all of the proceeds of which are to be used to provide solid waste-energy producing facilities shall be treated as an obligation of a political subdivision of a State which meets the requirements of section 103(b)(4)(E) of such Code (relating to solid waste disposal, etc., facilities). Nothing in the preceding sentence shall be construed to override the limitations of section 103(c) of such Code (relating to arbitrage bonds). “(2) Solid waste-energy producing facilities.—For purposes of paragraph (1), the term ‘solid waste-energy producing facilities’ means any solid waste disposal facility and any facility for the production of steam and electrical energy if—“(A) substantially all of the fuel for the facility producing steam and electrical energy is derived from solid waste from such solid waste disposal facility, “(B) both such solid waste disposal facility and the facility producing steam and electrical energy are owned and operated by the authority referred to in paragraph (1), and “(C) all of the electrical energy and steam produced by the facility for producing steam and electricity which is not used by such facility is sold, for purposes other than resale, to an agency or instrumentality of the United States. “(3) Solid waste disposal facility.—For purposes of paragraph (2), the term ‘solid waste disposal facility’ means any solid waste disposal facility within the meaning of section 103(b)(4)(E) of the Internal Revenue Code of 1986 (determined without regard to section 103(g) of such Code). “(4) Obligations must be in registered form.—This subsection shall not apply to any obligation which is not issued in registered form.”
@@ -30960,7 +31391,7 @@ Pub. L. 94–455, title V, § 505(d), Oct. 4, 1976, 90 Stat. 1568, as amended by
 ### Statutory Notes
 
 #### References in Text
-COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82, as amended. For complete classification of this Act to the Code, see Tables.
+COBRA, referred to in the heading for subsec. (b)(5), probably means the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, Apr. 7, 1986, 100 Stat. 82. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2020—Subsec. (f). Pub. L. 116–136 added subsec. (f) and struck out former subsec. (f). Prior to amendment, text read as follows: “For purposes of this section and section 105, reimbursement for expenses incurred for a medicine or a drug shall be treated as a reimbursement for medical expenses only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
@@ -33475,13 +33906,13 @@ Pub. L. 98–369, div. A, title V, § 531(b)(5), July 18, 1984, 98 Stat. 883, as
 ### Statutory Notes
 
 #### References in Text
-The Water Bank Act, referred to in subsec. (a)(3), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, as amended, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) and Tables.
+The Water Bank Act, referred to in subsec. (a)(3), is Pub. L. 91–559, Dec. 19, 1970, 84 Stat. 1468, which is classified generally to chapter 29 (§ 1301 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1301&num=0&edition=prelim) and Tables.
 
-The Agricultural Credit Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–334, Aug. 4, 1978, 92 Stat. 420, as amended. Title IV of the Agricultural Credit Act of 1978 is classified generally to chapter 42 (§ 2201 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+The Agricultural Credit Act of 1978, referred to in subsec. (a)(4), is Pub. L. 95–334, Aug. 4, 1978, 92 Stat. 420. Title IV of the Agricultural Credit Act of 1978 is classified generally to chapter 42 (§ 2201 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
-The Soil Conservation and Domestic Allotment Act, referred to in subsec. (a)(5), (6), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, as amended, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
+The Soil Conservation and Domestic Allotment Act, referred to in subsec. (a)(5), (6), is act Apr. 27, 1935, ch. 85, 49 Stat. 163, which is classified generally to chapter 3B (§ 590a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 590q of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590q&num=0&edition=prelim) and Tables.
 
-The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(6), is act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in subsec. (a)(6), is act July 22, 1937, ch. 517, 50 Stat. 522, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 126 was renumbered [section 140 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-140).
@@ -35397,7 +35828,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a) and (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part C of title XVIII of the Act is classified generally to part C (§ 1395w–21 et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1859 of the Act is classified to [section 1395w–28 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–28&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a) and (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part C of title XVIII of the Act is classified generally to part C (§ 1395w–21 et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Section 1859 of the Act is classified to [section 1395w–28 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395w–28&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 138 was renumbered [section 140 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-140).
@@ -35465,7 +35896,7 @@ but only to the extent any expense compensated by such payment is not otherwise 
 #### References in Text
 Section 406 of the Air Transportation Safety and System Stabilization Act, referred to in subsec. (f), is section 406 of Pub. L. 107–42, which is set out as a note under [section 40101 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim), Transportation.
 
-The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (g)(2), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 109–7, which was approved Apr. 15, 2005.
 
@@ -35574,14 +36005,38 @@ Pub. L. 110–142, § 5(c), Dec. 20, 2007, 121 Stat. 1806, provided that: “The
 
 
 <a id="section-139c"></a>
-## § 139C. Repealed. Pub. L. 115–141, div. U, title IV, § 401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212]
+## § 139C. Certain disability-related first responder retirement payments
+**(a) In general** In the case of an individual who receives qualified first responder retirement payments for any taxable year, gross income shall not include so much of such payments as do not exceed the annualized excludable disability amount with respect to such individual.
+
+**(b) Qualified first responder retirement payments** For purposes of this section, the term “qualified first responder retirement payments” means, with respect to any taxable year, any pension or annuity which but for this section would be includible in gross income for such taxable year and which is received—
+
+(1) from a plan described in clause (iii), (iv), (v), or (vi) of section 402(c)(8)(B), and
+
+(2) in connection with such individual’s qualified first responder service.
+
+**(c) Annualized excludable disability amount** For purposes of this section—
+
+(1) **In general** — The term “annualized excludable disability amount” means, with respect to any individual, the service-connected excludable disability amounts which are properly attributable to the 12-month period immediately preceding the date on which such individual attains retirement age.
+
+(2) **Service-connected excludable disability amount** — The term “service-connected excludable disability amount” means periodic payments received by an individual which—
+
+  (A) are not includible in such individual’s gross income under section 104(a)(1),
+
+  (B) are received in connection with such individual’s qualified first responder service, and
+
+  (C) terminate when such individual attains retirement age.
+
+(3) **Special rule for partial-year payments** — In the case of an individual who only receives service-connected excludable disability amounts properly attributable to a portion of the 12-month period described in paragraph (1), such paragraph shall be applied by multiplying such amounts by the ratio of 365 to the number of days in such period to which such amounts were properly attributable.
+
+**(d) Qualified first responder service** For purposes of this section, the term “qualified first responder service” means service as a law enforcement officer, firefighter, paramedic, or emergency medical technician.
 
 ### Statutory Notes
 
-Section, added Pub. L. 111–5, div. B, title III, § 3001(a)(15)(A), Feb. 17, 2009, 123 Stat. 465; amended Pub. L. 111–144, § 3(b)(5)(B), Mar. 2, 2010, 124 Stat. 44, related to COBRA premium assistance.
+#### Prior Provisions
+A prior section, added Pub. L. 111–5, div. B, title III, § 3001(a)(15)(A), Feb. 17, 2009, 123 Stat. 465; amended Pub. L. 111–144, § 3(b)(5)(B), Mar. 2, 2010, 124 Stat. 44, related to COBRA premium assistance, prior to repeal by Pub. L. 115–141, div. U, title IV, § 401(d)(7)(C), Mar. 23, 2018, 132 Stat. 1212.
 
-#### Savings Provision
-For provisions that nothing in repeal by Pub. L. 115–141 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Mar. 23, 2018, for purposes of determining liability for tax for periods ending after Mar. 23, 2018, see section 401(e) of Pub. L. 115–141, set out as a note under [section 23 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-23).
+#### Effective Date
+Pub. L. 117–328, div. T, title III, § 309(c), Dec. 29, 2022, 136 Stat. 5346, provided that: “The amendments made by this section [enacting this section] shall apply to amounts received with respect to taxable years beginning after December 31, 2026.”
 
 
 <a id="section-139d"></a>
@@ -36698,7 +37153,7 @@ The date of the enactment of this subsection, referred to in subsec. (m)(1)(A), 
 A prior section 142, act Aug. 16, 1954, ch. 736, 68A Stat. 40, enumerated individuals not eligible for standard deduction, prior to repeal by Pub. L. 95–30, title I, § 101(d)(1), May 23, 1977, 91 Stat. 133, applicable to taxable years beginning after Dec. 31, 1976.
 
 #### Amendments
-2022—Subsec. (o)(1)(B). Pub. L. 117–169 substituted “section 45Q(e)(3)” for “45Q(e)(1)”.
+2022—Subsec. (o)(1)(B). Pub. L. 117–169 substituted “section 45Q(e)(3)” for “section 45Q(e)(1)”.
 
 2021—Subsec. (a)(16). Pub. L. 117–58, § 80401(a), added par. (16).
 
@@ -44942,7 +45397,7 @@ Pub. L. 93–482, § 4, Oct. 26, 1974, 88 Stat. 1456, as amended by Pub. L. 99�
 ### Statutory Notes
 
 #### Amendment of Subsection (e)(3)(B)
-Pub. L. 117–169, title I, § 13703, Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to facilities and property placed in service after Dec. 31, 2024, subsection (e)(3)(B) of this section is amended—
+Pub. L. 117–169, title I, § 13703, Aug. 16, 2022, 136 Stat. 1997, provided that, applicable to facilities and property placed in service after Dec. 31, 2024, subsection (e)(3)(B) of this section is amended:
 
 (1) in clause (vi)(III), by striking “and” at the end,
 
@@ -44965,7 +45420,7 @@ The date of the enactment of this paragraph, referred to in subsec. (f)(5)(B)(ii
 
 The Tax Reform Act of 1986, referred to in subsecs. (f)(5)(B)(iii), (C) and (i)(7)(A), is Pub. L. 99–514, section 201(a) of which amended this section generally.
 
-The Communications Satellite Act of 1962, referred to in subsec. (i)(10)(C), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§ 701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section701&num=0&edition=prelim) and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (i)(10)(C), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, which is classified generally to chapter 6 (§ 701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section701&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this sentence, referred to in subsec. (j)(6), is the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
 
@@ -46021,7 +46476,7 @@ Pub. L. 115–97, title I, § 13201(h), Dec. 22, 2017, 131 Stat. 2108, provided 
 
 Pub. L. 115–97, title I, § 13203(c), Dec. 22, 2017, 131 Stat. 2109, provided that: “The amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017, in taxable years ending after such date.”
 
-Pub. L. 115–97, title I, § 13204(b), Dec. 22, 2017, 131 Stat. 2111, as amended by Pub. L. 116–260, div. EE, title II, § 202, Dec. 27, 2020, 134 Stat. 3056, provided that: “(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017. “(2) Amendments related to electing real property trade or business.—The amendments made by subsection (a)(3)(A) [amending this section] shall apply to taxable years beginning after December 31, 2017. “(3) Certain residential rental property“In the case of any residential rental property—“(A) which was placed in service before January 1, 2018, “(B) which is held by an electing real property trade or business (as defined in section 163(j)(7)(B) of the Internal Revenue Code of 1986), and “(C) for which subparagraph (A), (B), (C), (D), or (E) of section 168(g)(1) of the Internal Revenue Code of 1986 did not apply prior to such date, the amendments made by subsection (a)(3)(C) shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 115–97, title I, § 13204(b), Dec. 22, 2017, 131 Stat. 2111, as amended by Pub. L. 116–260, div. EE, title II, § 202, Dec. 27, 2020, 134 Stat. 3056, provided that: “(1) In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section [amending this section] shall apply to property placed in service after December 31, 2017. “(2) Amendments related to electing real property trade or business.—The amendments made by subsection (a)(3)(A) [amending this section] shall apply to taxable years beginning after December 31, 2017. “(3) Certain residential rental property.—In the case of any residential rental property—“(A) which was placed in service before January 1, 2018, “(B) which is held by an electing real property trade or business (as defined in section 163(j)(7)(B) of the Internal Revenue Code of 1986), and “(C) for which subparagraph (A), (B), (C), (D), or (E) of section 168(g)(1) of the Internal Revenue Code of 1986 did not apply prior to such date,the amendments made by subsection (a)(3)(C) shall apply to taxable years beginning after December 31, 2017.”
 
 Pub. L. 115–97, title I, § 13205(b), Dec. 22, 2017, 131 Stat. 2111, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2017.”
 
@@ -46397,7 +46852,7 @@ Pub. L. 97–34, title II, § 209(d)(4), Aug. 13, 1981, 95 Stat. 227, as amended
 #### References in Text
 The Federal Water Pollution Control Act, as amended ([33 U.S.C. 466](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section466&num=0&edition=prelim) et seq.), referred to in subsec. (d)(1)(B), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. The subject matter of section 13(a) of the act, referred to in subsec. (d)(2), is covered by [section 1362(1) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1362/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (d)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (d)(1)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 Section 302(b) of the Clean Air Act, referred to in subsec. (d)(2), formerly classified to [section 1857h(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1857h/b&num=0&edition=prelim), was reclassified to [section 7602(b) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7602/b&num=0&edition=prelim) on enactment of Pub. L. 95–95.
 
@@ -47077,6 +47532,24 @@ For purposes of this section, the term “charitable contribution” also means 
 
   (B) the taxpayer obtains a contemporaneous written acknowledgment (determined under rules similar to the rules of paragraph (8)(C)) from the sponsoring organization (as so defined) of such donor advised fund that such organization has exclusive legal control over the assets contributed.
 
+(19) **Certain qualified conservation contributions**
+
+  (A) *In general* — In the case of a qualified conservation contribution to which this paragraph applies, no deduction shall be allowed under subsection (a) for such contribution unless the partnership making such contribution—
+
+    (i) includes on its return for the taxable year in which the contribution is made a statement that the partnership made such a contribution, and
+
+    (ii) provides such information about the contribution as the Secretary may require.
+
+  (B) *Contributions to which this paragraph applies* — This paragraph shall apply to any qualified conservation contribution—
+
+    (i) the conservation purpose of which is the preservation of any building which is a certified historic structure (as defined in subsection (h)(4)(C)),
+
+    (ii) which is made by a partnership (whether directly or as a distributive share of a contribution of another partnership), and
+
+    (iii) the amount of which exceeds 2.5 times the sum of each partner’s relevant basis (as defined in subsection (h)(7)) in the partnership making the contribution.
+
+  (C) *Application to other pass-through entities* — Except as may be otherwise provided by the Secretary, the rules of this paragraph shall apply to S corporations and other pass-through entities in the same manner as such rules apply to partnerships.
+
 **(g) Amounts paid to maintain certain students as members of taxpayer’s household**
 
 (1) **In general** — Subject to the limitations provided by paragraph (2), amounts paid by the taxpayer to maintain an individual (other than a dependent, as defined in section 152 (determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof), or a relative of the taxpayer) as a member of his household during the period that such individual is—
@@ -47185,6 +47658,54 @@ For purposes of this section, the term “charitable contribution” also means 
   (A) subsurface oil, gas, or other minerals, and
 
   (B) the right to access to such minerals.
+
+(7) **Limitation on deduction for qualified conservation contributions made by pass-through entities**
+
+  (A) *In general* — A contribution by a partnership (whether directly or as a distributive share of a contribution of another partnership) shall not be treated as a qualified conservation contribution for purposes of this section if the amount of such contribution exceeds 2.5 times the sum of each partner’s relevant basis in such partnership.
+
+  (B) *Relevant basis* — For purposes of this paragraph—
+
+    (i) *In general* — The term “relevant basis” means, with respect to any partner, the portion of such partner’s modified basis in the partnership which is allocable (under rules similar to the rules of section 755) to the portion of the real property with respect to which the contribution described in subparagraph (A) is made.
+
+    (ii) *Modified basis* — The term “modified basis” means, with respect to any partner, such partner’s adjusted basis in the partnership as determined—
+
+      (I) immediately before the contribution described in subparagraph (A),
+
+      (II) without regard to section 752, and
+
+      (III) by the partnership after taking into account the adjustments described in subclauses (I) and (II) and such other adjustments as the Secretary may provide.
+
+  (C) *Exception for contributions outside 3-year holding period* — Subparagraph (A) shall not apply to any contribution which is made at least 3 years after the latest of—
+
+    (i) the last date on which the partnership that made such contribution acquired any portion of the real property with respect to which such contribution is made,
+
+    (ii) the last date on which any partner in the partnership that made such contribution acquired any interest in such partnership, and
+
+    (iii) if the interest in the partnership that made such contribution is held through 1 or more partnerships—
+
+      (I) the last date on which any such partnership acquired any interest in any other such partnership, and
+
+      (II) the last date on which any partner in any such partnership acquired any interest in such partnership.
+
+  (D) *Exception for family partnerships*
+
+    (i) *In general* — Subparagraph (A) shall not apply with respect to any contribution made by any partnership if substantially all of the partnership interests in such partnership are held, directly or indirectly, by an individual and members of the family of such individual.
+
+    (ii) *Members of the family* — For purposes of this subparagraph, the term “members of the family” means, with respect to any individual—
+
+      (I) the spouse of such individual, and
+
+      (II) any individual who bears a relationship to such individual which is described in subparagraphs (A) through (G) of section 152(d)(2).
+
+  (E) *Exception for contributions to preserve certified historic structures* — Subparagraph (A) shall not apply to any qualified conservation contribution the conservation purpose of which is the preservation of any building which is a certified historic structure (as defined in paragraph (4)(C)).
+
+  (F) *Application to other pass-through entities* — Except as may be otherwise provided by the Secretary, the rules of this paragraph shall apply to S corporations and other pass-through entities in the same manner as such rules apply to partnerships.
+
+  (G) *Regulations* — The Secretary shall prescribe such regulations or other guidance as may be necessary or appropriate to carry out the purposes of this paragraph, including regulations or other guidance—
+
+    (i) to require reporting, including reporting related to tiered partnerships and the modified basis of partners, and
+
+    (ii) to prevent the avoidance of the purposes of this paragraph.
 
 **(i) Standard mileage rate for use of passenger automobile** For purposes of computing the deduction under this section for use of a passenger automobile, the standard mileage rate shall be 14 cents per mile.
 
@@ -47356,6 +47877,10 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Sections 1202(a), 1204(a), 1206(a), (b)(1), 1213(a)–(d), 1214(a), (b), 1215(a), 1216(a), 1217(a), 1218(a), 1219(c)(1), and 1234(a) of Pub. L. 109–280, which directed the amendment of section 170 without specifying the act to be amended, were executed to this section which is section 170 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (f)(19). Pub. L. 117–328, § 605(b), added par. (19).
+
+Subsec. (h)(7). Pub. L. 117–328, § 605(a)(1), added par. (7).
+
 2020—Subsecs. (p), (q). Pub. L. 116–260 added subsec. (p) and redesignated former subsec. (p) as (q).
 
 2018—Subsec. (b)(1)(A)(ix). Pub. L. 115–141, § 401(a)(52), inserted “National” before “Agricultural”.
@@ -47795,6 +48320,9 @@ Subsec. (b)(4). Pub. L. 85–866, § 12, added par. (4).
 #### Change of Name
 International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under [section 1461 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1461&num=0&edition=prelim), Foreign Relations and Intercourse. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of Title 22.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title VI, § 605(c), Dec. 29, 2022, 136 Stat. 5395, provided that: “(1) In general.—The amendments made by this section [amending this section and sections 6662, 6664, and 6751 of this title] shall apply to contributions made after the date of the enactment of this Act [Dec. 29, 2022]. “(2) No inference.—No inference is intended as to the appropriate treatment of contributions made in taxable years ending on or before the date specified in paragraph (1), or as to any contribution for which a deduction is not disallowed by reason of section 170(h)(7) of the Internal Revenue Code of 1986, as added by this section.”
+
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–260 applicable to taxable years beginning after Dec. 31, 2020, see section 212(d) of div. EE of Pub. L. 116–260, set out as a note under [section 62 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-62).
 
@@ -48069,6 +48597,12 @@ Pub. L. 114–113, div. Q, title I, § 111(b)(3), Dec. 18, 2015, 129 Stat. 3047,
 United States International Development Cooperation Agency (other than Agency for International Development and Overseas Private Investment Corporation) abolished and functions and authorities transferred, see sections 6561 and 6562 of Title 22, Foreign Relations and Intercourse.
 
 For transfer of functions, personnel, assets, and liabilities of the Overseas Private Investment Corporation to the United States International Development Finance Corporation and treatment of related references, see sections 9683 and 9686(d) of Title 22, Foreign Relations and Intercourse.
+
+#### Extension of Statute of Limitations for Listed Transactions
+Pub. L. 117–328, div. T, title VI, § 605(a)(3), Dec. 29, 2022, 136 Stat. 5395, provided that: “Any contribution with respect to which any deduction was disallowed by reason of section 170(h)(7) of the Internal Revenue Code of 1986 (as added by this subsection) shall be treated for purposes of sections 6501(c)(10) and 6235(c)(6) of such Code as a transaction specifically identified by the Secretary as a tax avoidance transaction for purposes of section 6011 of such Code.”
+
+#### Safe Harbors and Opportunity for Donor to Correct Certain Deed Errors
+Pub. L. 117–328, div. T, title VI, § 605(d), Dec. 29, 2022, 136 Stat. 5395, provided that: “(1) In general.—The Secretary of the Treasury (or such Secretary’s delegate) shall, within 120 days after the date of the enactment of this Act [Dec. 29, 2022], publish safe harbor deed language for extinguishment clauses and boundary line adjustments. “(2) Opportunity to correct.—“(A) In general.—During the 90-day period beginning on the date of publication of the safe harbor deed language under paragraph (1), a donor may amend an easement deed to substitute the safe harbor language for the corresponding language in the original deed if—“(i) the amended deed is signed by the donor and donee and recorded within such 90-day period, and “(ii) such amendment is treated as effective as of the date of the recording of the original easement deed. “(B) Exceptions.—Subparagraph (A) shall not apply to an easement deed relating to any contribution—“(i) which—“(I) is part of a reportable transaction (as defined in section 6707A(c)(1) of the Internal Revenue Code of 1986), or “(II) is described in Internal Revenue Service Notice 2017–10, “(ii) which by reason of section 170(h)(7) of such Code, as added by this section, is not treated as a qualified conservation contribution, “(iii) if a deduction for such contribution under section 170 of such Code has been disallowed by the Secretary of the Treasury (or such Secretary’s delegate), and the donor is contesting such disallowance in a case which is docketed in a Federal court on a date before the date the amended deed is recorded by the donor, or “(iv) if a claimed deduction for such contribution under section 170 of such Code resulted in an underpayment to which a penalty under section 6662 or 6663 of such Code applies and—“(I) such penalty has been finally determined administratively, or “(II) if such penalty is challenged in court, the judicial proceeding with respect to such penalty has been concluded by a decision or judgment which has become final.”
 
 #### Temporary Modification of Limitations on Charitable Contributions
 Pub. L. 116–136, div. A, title II, § 2205, Mar. 27, 2020, 134 Stat. 345, as amended by Pub. L. 116–260, div. EE, title II, § 213(a), (b), Dec. 27, 2020, 134 Stat. 3068, provided that: “(a) Temporary Suspension of Limitations on Certain Cash Contributions.—“(1) In general.—Except as otherwise provided in paragraph (2), qualified contributions shall be disregarded in applying subsections (b) and (d) of section 170 of the Internal Revenue Code of 1986. “(2) Treatment of excess contributions.—For purposes of section 170 of the Internal Revenue Code of 1986—“(A) Individuals.—In the case of an individual—“(i) Limitation.—Any qualified contribution shall be allowed as a deduction only to the extent that the aggregate of such contributions does not exceed the excess of the taxpayer’s contribution base (as defined in subparagraph (H) of section 170(b)(1) of such Code) over the amount of all other charitable contributions allowed under section 170(b)(1) of such Code. “(ii) Carryover.—If the aggregate amount of qualified contributions made in the contribution year (within the meaning of section 170(d)(1) of such Code) exceeds the limitation of clause (i), such excess shall be added to the excess described in section 170(b)(1)(G)(ii). “(B) Corporations.—In the case of a corporation—“(i) Limitation.—Any qualified contribution shall be allowed as a deduction only to the extent that the aggregate of such contributions does not exceed the excess of 25 percent of the taxpayer’s taxable income (as determined under paragraph (2) of section 170(b) of such Code) over the amount of all other charitable contributions allowed under such paragraph. “(ii) Carryover.—If the aggregate amount of qualified contributions made in the contribution year (within the meaning of section 170(d)(2) of such Code) exceeds the limitation of clause (i), such excess shall be appropriately taken into account under section 170(d)(2) subject to the limitations thereof. “(3) Qualified contributions.—“(A) In general.—For purposes of this subsection, the term ‘qualified contribution’ means any charitable contribution (as defined in section 170(c) of the Internal Revenue Code of 1986) if—“(i) such contribution is paid in cash during calendar year 2020 or 2021 to an organization described in section 170(b)(1)(A) of such Code, and “(ii) the taxpayer has elected the application of this section with respect to such contribution. “(B) Exception.—Such term shall not include a contribution by a donor if the contribution is—“(i) to an organization described in section 509(a)(3) of the Internal Revenue Code of 1986, or “(ii) for the establishment of a new, or maintenance of an existing, donor advised fund (as defined in section 4966(d)(2) of such Code). “(C) Application of election to partnerships and s corporations.—In the case of a partnership or S corporation, the election under subparagraph (A)(ii) shall be made separately by each partner or shareholder. “(b) Increase in Limits on Contributions of Food Inventory.—In the case of any charitable contribution of food during 2020 or 2021 to which section 170(e)(3)(C) of the Internal Revenue Code of 1986 applies, subclauses (I) and (II) of clause (ii) thereof shall each be applied by substituting ‘25 percent’ for ‘15 percent.’ “(c) Effective Date.—This section shall apply to taxable years ending after December 31, 2019.”
@@ -49864,7 +50398,7 @@ Pub. L. 108–357, title III, § 338(c), Oct. 22, 2004, 118 Stat. 1481, provided
 #### References in Text
 The date of the enactment of this section, referred to in subsec. (c)(1)(B), (2)(A), is the date of enactment of Pub. L. 109–58, which was approved Aug. 8, 2005.
 
-The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (c)(3), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Subsec. (c)(1)(B). Pub. L. 110–343, § 209(a)(1), substituted “January 1, 2014” for “January 1, 2012”.
@@ -49972,7 +50506,7 @@ Pub. L. 109–58, title XIII, § 1323(c), Aug. 8, 2005, 119 Stat. 1015, provided
 
     (i) the United States, any State or political subdivision thereof, any possession of the United States, or any agency or instrumentality of any of the foregoing,
 
-    (ii) an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/m&num=0&edition=prelim)), and
+    (ii) an Indian tribal government (as defined in section 30D(g)(9)) or Alaska Native Corporation (as defined in section 3 of the Alaska Native Claims Settlement Act ([43 U.S.C. 1602(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1602/m&num=0&edition=prelim)),11 So in original. Another closing parenthesis probably should precede the comma. and
 
     (iii) any organization exempt from tax imposed by this chapter.
 
@@ -51994,7 +52528,7 @@ No deductions to be allowed in computing taxable income for two-thirds of any am
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part B of title XVIII of the Social Security Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part B of title XVIII of the Social Security Act is classified generally to part B (§ 1395j et seq.) of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (a). Pub. L. 116–260, § 101(a)(1), substituted “7.5 percent” for “10 percent”.
@@ -52593,6 +53127,13 @@ Repeal effective with respect to contributions the payment of which is made afte
 
     (ii) *Rounding rules* — If any amount after adjustment under clause (i) is not a multiple of $500, such amount shall be rounded to the next lower multiple of $500.
 
+    (iii) *Indexing of catch-up limitation* — In the case of any taxable year beginning in a calendar year after 2023, the $1,000 amount under subparagraph (B)(ii) shall be increased by an amount equal to—
+
+      (I) such dollar amount, multiplied by
+
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+If any amount after adjustment under the preceding sentence is not a multiple of $100, such amount shall be rounded to the next lower multiple of $100.
+
 **(c) Kay Bailey Hutchison Spousal IRA**
 
 (1) **In general** — In the case of an individual to whom this paragraph applies for the taxable year, the limitation of paragraph (1) of subsection (b) shall be equal to the lesser of—
@@ -52759,6 +53300,8 @@ For inflation adjustment of certain items in this section, see Revenue Procedure
 A prior section 219 was renumbered [section 224 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-224).
 
 #### Amendments
+2022—Subsec. (b)(5)(C)(iii). Pub. L. 117–328 added cl. (iii).
+
 2021—Subsec. (g)(3)(A)(ii). Pub. L. 117–2 inserted “85(c),” before “135”.
 
 2020—Subsec. (g)(3)(A)(ii). Pub. L. 116–260 struck out “222,” after “221,”.
@@ -53004,6 +53547,9 @@ Subsec. (c)(2). Pub. L. 94–455, § 1501(b)(4)(C), inserted “For purposes of 
 Subsec. (c)(3). Pub. L. 94–455, § 1501(b)(4)(D), added par. (3).
 
 Subsec. (c)(4). Pub. L. 94–455, § 1503(a), added par. (4).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 108(b), Dec. 29, 2022, 136 Stat. 5289, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2023.”
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–2 applicable to taxable years beginning after Dec. 31, 2019, see section 9042(c) of Pub. L. 117–2, set out as a note under [section 74 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-74).
@@ -53528,7 +54074,7 @@ If any increase under the preceding sentence is not a multiple of $50, such incr
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to [section 1395c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (b)(7) and (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Section 1811 of the Act is classified to [section 1395c of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395c&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 220 was renumbered 224 of this title.
@@ -53985,7 +54531,7 @@ Repeal of section applicable to taxable years beginning after Dec. 31, 2020, see
 
     (i) coverage for any benefit provided by permitted insurance,
 
-    (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023,) 11 So in original. The comma probably should not appear. telehealth and other remote care, and
+    (ii) coverage (whether through insurance or otherwise) for accidents, disability, dental care, vision care, long-term care, or (in the case of months or plan years to which paragraph (2)(E) applies) telehealth and other remote care, and
 
     (iii) for taxable years beginning after December 31, 2006, coverage under a health flexible spending arrangement during any period immediately following the end of a plan year of such arrangement during which unused benefits or contributions remaining at the end of such plan year may be paid or reimbursed to plan participants for qualified benefit expenses incurred during such period if—
 
@@ -54023,7 +54569,12 @@ Repeal of section applicable to taxable years beginning after Dec. 31, 2020, see
 
     (ii) *Annual deductible* — Such plan’s annual deductible for services provided outside of such network shall not be taken into account for purposes of subsection (b)(2).
 
-  (E) *Safe harbor for absence of deductible for telehealth* — In the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023, a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
+  (E) *Safe harbor for absence of deductible for telehealth* — In the case of—
+
+    (i) months beginning after March 31, 2022, and before January 1, 2023, and
+
+    (ii) plan years beginning on or before December 31, 2021, or after December 31, 2022, and before January 1, 2025,
+    a plan shall not fail to be treated as a high deductible health plan by reason of failing to have a deductible for telehealth and other remote care services.
 
   (F) *Special rule for surprise billing* — A plan shall not fail to be treated as a high deductible health plan by reason of providing benefits for medical care in accordance with section 9816 or 9817, section 2799A–1 or 2799A–2 of the Public Health Service Act, or section 716 or 717 of the Employee Retirement Income Security Act of 1974, or any State law providing similar protections to individuals, prior to the satisfaction of the deductible under paragraph (2)(A)(i).
 
@@ -54198,7 +54749,7 @@ The reports required by this subsection shall be filed at such time and in such 
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table below and under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (b)(7), (c)(2)(C), (d)(2)(C)(iv), (f)(4)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 1811, 1861, and 1882 of the Act are classified to sections 1395c, 1395x, and 1395ss, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Sections 2799A–1 and 2799A–2 of the Public Health Service Act, referred to in subsec. (c)(1)(D), (2)(F), are classified to sections 300gg–111 and 300gg–112, respectively, of Title 42, The Public Health and Welfare.
 
@@ -54210,9 +54761,13 @@ Section 7002(e)(4) of the Biologics Price Competition and Innovation Act of 2009
 A prior section 223 was renumbered [section 224 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-224).
 
 #### Amendments
-2022—Subsec. (c)(1)(B)(ii). Pub. L. 117–103, § 307(b), inserted “, or in the case of months beginning after March 31, 2022, and before January 1, 2023,” after “December 31, 2021”.
+2022—Subsec. (c)(1)(B)(ii). Pub. L. 117–328, § 4151(b), which directed the substitution of “(in the case of months or plan years to which paragraph (2)(E) applies)” for “(in the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023)”, was executed by making the substitution for “(in the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023,)”, to reflect the probable intent of Congress.
 
-Subsec. (c)(2)(E). Pub. L. 117–103, § 307(a), inserted “or in the case of months beginning after March 31, 2022, and before January 1, 2023,” after “December 31, 2021,”.
+Pub. L. 117–103, § 307(b), inserted “, or in the case of months beginning after March 31, 2022, and before January 1, 2023,” after “December 31, 2021”.
+
+Subsec. (c)(2)(E). Pub. L. 117–328, § 4151(a), substituted “In the case of—” and cls. (i) and (ii) for “In the case of plan years beginning on or before December 31, 2021, or in the case of months beginning after March 31, 2022, and before January 1, 2023,”.
+
+Pub. L. 117–103, § 307(a), inserted “or in the case of months beginning after March 31, 2022, and before January 1, 2023,” after “December 31, 2021,”.
 
 Subsec. (c)(2)(G). Pub. L. 117–169 added subpar. (G).
 
@@ -54267,6 +54822,8 @@ Subsec. (g)(1). Pub. L. 109–432, § 304, inserted concluding provisions.
 2005—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
 
 #### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. FF, title IV, § 4151(c), Dec. 29, 2022, 136 Stat. 5931, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2022.”
+
 Pub. L. 117–169, title I, § 11408(b), Aug. 16, 2022, 136 Stat. 1905, provided that: “The amendment made by this section [amending this section] shall apply to plan years beginning after December 31, 2022.”
 
 Pub. L. 117–103, div. P, title II, § 307(c), Mar. 15, 2022, 136 Stat. 807, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Mar. 15, 2022].”
@@ -54308,6 +54865,10 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2023—Revenue Procedure 2022–24.
+
+2022—Revenue Procedure 2021–25.
 
 2021—Revenue Procedure 2020–32.
 
@@ -54459,7 +55020,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 ### Statutory Notes
 
 #### References in Text
-The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (a)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (b)(1)(B). Pub. L. 115–141, § 401(d)(1)(D)(v), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if—
@@ -55235,7 +55796,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### References in Text
-The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (b)(2), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
 
 Section 2(a) of the Bank Holding Company Act of 1956, referred to in subsec. (c)(3)(B)(ii), is classified to [section 1841(a) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1841/a&num=0&edition=prelim), Banks and Banking.
 
@@ -57951,13 +58512,13 @@ Paragraph (1) shall not apply to any taxes to the extent such taxes are allowabl
 ### Statutory Notes
 
 #### References in Text
-The Federal Insurance Contributions Act, referred to in subsec. (a)(1)(A), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (a)(1)(A), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
 
 #### Codification
 Pub. L. 95–600, § 701(t)(3)(B) (effective Oct. 4, 1976, see Pub. L. 95–600, § 701(t)(5), set out as an Effective Date of 1978 Amendment note under [section 859 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-859)) repealed § 1605(b)(1) of Pub. L. 94–455, cited as a credit to this section, which had duplicated the amendment to subsec. (a)(6) made by § 1307(d)(2)(A) of Pub. L. 94–455.
 
 #### Amendments
-2022—Subsec. (a)(6). Pub. L. 117–169, § 11003(b), inserted “50A,” after “46”.
+2022—Subsec. (a)(6). Pub. L. 117–169, § 11003(b), inserted “50A,” after “46,”.
 
 Pub. L. 117–169, § 10201(b), inserted “37,” before “41”.
 
@@ -58108,9 +58669,9 @@ Pub. L. 90–346, June 18, 1968, 82 Stat. 183, provided for advertising in a con
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (b)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(3), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Commodity Exchange Act, referred to in subsec. (b)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in subsec. (b)(3), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (a). Pub. L. 113–295 struck out “, 244,” after “sections 243”.
@@ -58806,7 +59367,7 @@ No deduction or credit shall be allowed for any amount paid or incurred during t
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Schedules I and II are set out in [section 812 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in text, is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. Schedules I and II are set out in [section 812 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Pub. L. 97–248, title III, § 351(c), Sept. 3, 1982, 96 Stat. 640, provided that: “The amendments made by this section [enacting this section] shall apply to amounts paid or incurred after the date of the enactment of this Act [Sept. 3, 1982] in taxable years ending after such date.”
@@ -59139,6 +59700,10 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+2023—Revenue Procedure 2023–14.
+
+2022—Revenue Procedure 2022–17.
 
 2021—Revenue Procedure 2021–31.
 
@@ -61801,7 +62366,7 @@ Pub. L. 99–514, title VI, § 633, Oct. 22, 1986, 100 Stat. 2277, as amended by
 ### Statutory Notes
 
 #### References in Text
-The Tax Reform Act of 1986, referred to in subsec. (d), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085, as amended. Subtitle D (§§ 631–634) of title VI of the Tax Reform Act of 1986 enacted sections 336 and 337 of this title, amended sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealed former sections 333, 336, and 337 of this title. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1986, referred to in subsec. (d), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085. Subtitle D (§§ 631–634) of title VI of the Tax Reform Act of 1986 enacted sections 336 and 337 of this title, amended sections 26, 311, 312, 332, 334, 338, 341, 346, 367, 453, 453B, 467, 852, 897, 1056, 1248, 1255, 1276, 1363, 1366, 1374, and 1375 of this title, and repealed former sections 333, 336, and 337 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 A prior section 337, acts Aug. 16, 1954, ch. 736, 68A Stat. 106; Sept. 2, 1958, Pub. L. 85–866, title I, § 19, 72 Stat. 1615; Oct. 4, 1976, Pub. L. 94–455, title XIX, §§ 1901(a)(46), 1906(b)(13)(A), title XXI, § 2118(a), 90 Stat. 1772, 1834, 1912; Nov. 6, 1978, Pub. L. 95–600, title VII, § 701(i)(1), 92 Stat. 2904; Nov. 10, 1978, Pub. L. 95–628, § 4(a), 92 Stat. 3628; Apr. 2, 1980, Pub. L. 96–223, title IV, § 403(b)(2)(A), 94 Stat. 304; Oct. 19, 1980, Pub. L. 96–471, § 2(c)(2), 94 Stat. 2254; Dec. 24, 1980, Pub. L. 96–589, § 5(c), 94 Stat. 3405; Sept. 3, 1982, Pub. L. 97–248, title II, § 224(c)(5), (6), 96 Stat. 489; Oct. 22, 1986, Pub. L. 99–514, title XVIII, § 1804(e)(7)(A), 100 Stat. 2803, related to gain or loss on sales or exchanges in connection with certain liquidations, prior to repeal by Pub. L. 99–514, § 631(a).
@@ -65433,29 +65998,38 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
       (III) such distributions begin not later than 1 year after the date of the employee’s death or such later date as the Secretary may by regulations prescribe,
     for purposes of clause (ii), the portion referred to in subclause (I) shall be treated as distributed on the date on which such distributions begin.
 
-    (iv) *Special rule for surviving spouse of employee.—* — If the designated beneficiary referred to in clause (iii)(I) is the surviving spouse of the employee—
+    (iv) *Special rule for surviving spouse of employee.—* — If the designated beneficiary referred to in clause (iii)(I) is the surviving spouse of the employee and the surviving spouse elects the treatment in this clause—
 
-      (I) the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained age 72, and
+      (I) the regulations referred to in clause (iii)(II) shall treat the surviving spouse as if the surviving spouse were the employee,
 
-      (II) if the surviving spouse dies before the distributions to such spouse begin, this subparagraph shall be applied as if the surviving spouse were the employee.
+      (II) the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained the applicable age, and
+
+      (III) if the surviving spouse dies before the distributions to such spouse begin, this subparagraph shall be applied as if the surviving spouse is the employee.
+    An election described in this clause shall be made at such time and in such manner as prescribed by the Secretary, shall include a timely notice to the plan administrator, and once made may not be revoked except with the consent of the Secretary.
 
   (C) *Required beginning date.—* — For purposes of this paragraph—
 
     (i) *In general.—* — The term “required beginning date” means April 1 of the calendar year following the later of—
 
-      (I) the calendar year in which the employee attains age 72, or
+      (I) the calendar year in which the employee attains the applicable age, or
 
       (II) the calendar year in which the employee retires.
 
     (ii) *Exception.—* — Subclause (II) of clause (i) shall not apply—
 
-      (I) except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains age 72, or
+      (I) except as provided in section 409(d), in the case of an employee who is a 5-percent owner (as defined in section 416) with respect to the plan year ending in the calendar year in which the employee attains the applicable age, or
 
       (II) for purposes of section 408(a)(6) or (b)(3).
 
     (iii) *Actuarial adjustment.—* — In the case of an employee to whom clause (i)(II) applies who retires in a calendar year after the calendar year in which the employee attains age 70½, the employee’s accrued benefit shall be actuarially increased to take into account the period after age 70½ in which the employee was not receiving any benefits under the plan.
 
     (iv) *Exception for governmental and church plans.—* — Clauses (ii) and (iii) shall not apply in the case of a governmental plan or church plan. For purposes of this clause, the term “church plan” means a plan maintained by a church for church employees, and the term “church” means any church (as defined in section 3121(w)(3)(A)) or qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
+
+    (v) *Applicable age.—*
+
+      (I) In the case of an individual who attains age 72 after December 31, 2022, and age 73 before January 1, 2033, the applicable age is 73.
+
+      (II) In the case of an individual who attains age 74 after December 31, 2032, the applicable age is 75.
 
   (D) *Life expectancy.—* — For purposes of this paragraph, the life expectancy of an employee and the employee’s spouse (other than in the case of a life annuity) may be redetermined but not more frequently than annually.
 
@@ -65498,7 +66072,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
 
       (I) it is to be divided immediately upon the death of the employee into separate trusts for each beneficiary, or
 
-      (II) no individual (other than a 11 So in original. Probably should be “an”. eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee’s interest in the plan until the death of all such eligible designated beneficiaries with respect to the trust,
+      (II) no beneficiary (other than a 11 So in original. Probably should be “an”. eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii)) has any right to the employee’s interest in the plan until the death of all such eligible designated beneficiaries with respect to the trust,
     for purposes of a trust described in subclause (I), clause (ii) shall be applied separately with respect to the portion of the employee’s interest that is payable to any eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii); and, for purposes of a trust described in subclause (II), subparagraph (B)(iii) shall apply to the distribution of the employee’s interest and any beneficiary who is not such an eligible designated beneficiary shall be treated as a beneficiary of the eligible designated beneficiary upon the death of such eligible designated beneficiary.
 
     (v) *Applicable multi-beneficiary trust.—* — For purposes of this subparagraph, the term “applicable multi-beneficiary trust” means a trust—
@@ -65508,6 +66082,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
       (II) all of the beneficiaries of which are treated as designated beneficiaries for purposes of determining the distribution period pursuant to this paragraph, and
 
       (III) at least one of the beneficiaries of which is an eligible designated beneficiary described in subclause (III) or (IV) of subparagraph (E)(ii).
+    For purposes of the preceding sentence, in the case of a trust the terms of which are described in clause (iv)(II), any beneficiary which is an organization described in section 408(d)(8)(B)(i) shall be treated as a designated beneficiary described in subclause (II).
 
     (vi) *Application to certain eligible retirement plans.—* — For purposes of applying the provisions of this subparagraph in determining amounts required to be distributed pursuant to this paragraph, all eligible retirement plans (as defined in section 402(c)(8)(B), other than a defined benefit plan described in clause (iv) or (v) thereof or a qualified trust which is a part of a defined benefit plan) shall be treated as a defined contribution plan.
 
@@ -65532,6 +66107,20 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
       (I) the required beginning date with respect to any individual shall be determined without regard to this subparagraph for purposes of applying this paragraph for calendar years after 2020, and
 
       (II) if clause (ii) of subparagraph (B) applies, the 5-year period described in such clause shall be determined without regard to calendar year 2020.
+
+  (J) *Certain increases in payments under a commercial annuity.—* — Nothing in this section shall prohibit a commercial annuity (within the meaning of section 3405(e)(6)) that is issued in connection with any eligible retirement plan (within the meaning of section 402(c)(8)(B), other than a defined benefit plan) from providing one or more of the following types of payments on or after the annuity starting date:
+
+    (i) annuity payments that increase by a constant percentage, applied not less frequently than annually, at a rate that is less than 5 percent per year,
+
+    (ii) a lump sum payment that—
+
+      (I) results in a shortening of the payment period with respect to an annuity or a full or partial commutation of the future annuity payments, provided that such lump sum is determined using reasonable actuarial methods and assumptions, as determined in good faith by the issuer of the contract, or
+
+      (II) accelerates the receipt of annuity payments that are scheduled to be received within the ensuing 12 months, regardless of whether such acceleration shortens the payment period with respect to the annuity, reduces the dollar amount of benefits to be paid under the contract, or results in a suspension of annuity payments during the period being accelerated,
+
+    (iii) an amount which is in the nature of a dividend or similar distribution, provided that the issuer of the contract determines such amount using reasonable actuarial methods and assumptions, as determined in good faith by the issuer of the contract, when calculating the initial annuity payments and the issuer’s experience with respect to those factors, or
+
+    (iv) a final payment upon death that does not exceed the excess of the total amount of the consideration paid for the annuity payments, less the aggregate amount of prior distributions or payments from or under the contract.
 
 (10) **Other requirements.—**
 
@@ -65795,7 +66384,7 @@ Repeal effective for taxable years beginning after Dec. 31, 1976, see section 19
       (II) the distributee does not make an election under subparagraph (A) and does not elect to receive the distribution directly,
     the plan administrator shall make such transfer to an individual retirement plan of a designated trustee or issuer and shall notify the distributee in writing (either separately or as part of the notice under section 402(f)) that the distribution may be transferred to another individual retirement plan.
 
-    (ii) *Eligible plan.—* — For purposes of clause (i), the term “eligible plan” means a plan which provides that any nonforfeitable accrued benefit for which the present value (as determined under section 411(a)(11)) does not exceed $5,000 shall be immediately distributed to the participant.
+    (ii) *Eligible plan.—* — For purposes of clause (i), the term “eligible plan” means a plan which provides that any nonforfeitable accrued benefit for which the present value (as determined under section 411(a)(11)) does not exceed $7,000 shall be immediately distributed to the participant.
 
   (C) *Limitation.—* — Subparagraphs (A) and (B) shall apply only to the extent that the eligible rollover distribution would be includible in gross income if not transferred as provided in subparagraph (A) (determined without regard to sections 402(c), 403(a)(4), 403(b)(8), and 457(e)(16)). The preceding sentence shall not apply to such distribution if the plan to which such distribution is transferred—
 
@@ -65979,7 +66568,16 @@ Paragraphs (11), (12), (13), (14), (15), (19), and (20) shall apply only in the 
 
 (1) **Certain retroactive changes in plan** — A stock bonus, pension, profit-sharing, or annuity plan shall be considered as satisfying the requirements of subsection (a) for the period beginning with the date on which it was put into effect, or for the period beginning with the earlier of the date on which there was adopted or put into effect any amendment which caused the plan to fail to satisfy such requirements, and ending with the time prescribed by law for filing the return of the employer for his taxable year in which such plan or amendment was adopted (including extensions thereof) or such later time as the Secretary may designate, if all provisions of the plan which are necessary to satisfy such requirements are in effect by the end of such period and have been made effective for all purposes for the whole of such period.
 
-(2) **Adoption of plan** — If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year.
+(2) **Adoption of plan** — If an employer adopts a stock bonus, pension, profit-sharing, or annuity plan after the close of a taxable year but before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof), the employer may elect to treat the plan as having been adopted as of the last day of the taxable year. In the case of an individual who owns the entire interest in an unincorporated trade or business, and who is the only employee of such trade or business, any elective deferrals (as defined in section 402(g)(3)) under a qualified cash or deferred arrangement to which the preceding sentence applies, which are made by such individual before the time for filing the return of such individual for the taxable year (determined without regard to any extensions) ending after or with the end of the plan’s first plan year, shall be treated as having been made before the end of such first plan year.
+
+(3) **Retroactive plan amendments that increase benefit accruals** — If—
+
+  (A) an employer amends a stock bonus, pension, profit-sharing, or annuity plan to increase benefits accrued under the plan effective as of any date during the immediately preceding plan year (other than increasing the amount of matching contributions (as defined in subsection (m)(4)(A))),
+
+  (B) such amendment would not otherwise cause the plan to fail to meet any of the requirements of this subchapter, and
+
+  (C) such amendment is adopted before the time prescribed by law for filing the return of the employer for the taxable year (including extensions thereof) which includes the date described in subparagraph (A),
+  the employer may elect to treat such amendment as having been adopted as of the last day of the plan year in which the amendment is effective.
 
 **(c) Definitions and rules relating to self-employed individuals and owner-employees** For purposes of this section—
 
@@ -66150,7 +66748,7 @@ then such trust shall be considered as having constituted a qualified trust unde
 
 (4) **Other requirements**
 
-  (A) *Benefits (other than matching contributions) must not be contingent on election to defer* — A cash or deferred arrangement of any employer shall not be treated as a qualified cash or deferred arrangement if any other benefit is conditioned (directly or indirectly) on the employee electing to have the employer make or not make contributions under the arrangement in lieu of receiving cash. The preceding sentence shall not apply to any matching contribution (as defined in section 401(m)) made by reason of such an election.
+  (A) *Benefits (other than matching contributions) must not be contingent on election to defer* — A cash or deferred arrangement of any employer shall not be treated as a qualified cash or deferred arrangement if any other benefit (other than a de minimis financial incentive (not paid for with plan assets) provided to employees who elect to have the employer make contributions under the arrangement in lieu of receiving cash) is conditioned (directly or indirectly) on the employee electing to have the employer make or not make contributions under the arrangement in lieu of receiving cash. The preceding sentence shall not apply to any matching contribution (as defined in section 401(m)) made by reason of such an election.
 
   (B) *Eligibility of State and local governments and tax-exempt organizations*
 
@@ -66255,11 +66853,13 @@ then such trust shall be considered as having constituted a qualified trust unde
 
     (i) *In general* — The requirements of this subparagraph are met if, under the arrangement—
 
-      (I) an employee may elect to have the employer make elective contributions for the year on behalf of the employee to a trust under the plan in an amount which is expressed as a percentage of compensation of the employee but which in no event exceeds the amount in effect under section 408(p)(2)(A)(ii),
+      (I) an employee may elect to have the employer make elective contributions for the year on behalf of the employee to a trust under the plan in an amount which is expressed as a percentage of compensation of the employee but which in no event exceeds the amount in effect under section 408(p)(2)(A)(ii) (after the application of any election under section 408(p)(2)(E)(i)(II)),
 
-      (II) the employer is required to make a matching contribution to the trust for the year in an amount equal to so much of the amount the employee elects under subclause (I) as does not exceed 3 percent of compensation for the year, and
+      (II) the employer is required to make a matching contribution to the trust for the year in an amount equal to so much of the amount the employee elects under subclause (I) as does not exceed 3 percent of compensation for the year,
 
-      (III) no other contributions may be made other than contributions described in subclause (I) or (II).
+      (III) the employer may make nonelective contributions of a uniform percentage (up to 10 percent) of compensation, but not to exceed the amount in effect under section 408(p)(2)(A)(iv) in any year, for each employee who is eligible to participate in the arrangement and who has at least $5,000 of compensation from the employer for the year, and
+
+      (IV) no other contributions may be made other than contributions described in subclause (I), (II), or (III).
 
     (ii) *Employer may elect 2-percent nonelective contribution* — An employer shall be treated as meeting the requirements of clause (i)(II) for any year if, in lieu of the contributions described in such clause, the employer elects (pursuant to the terms of the arrangement) to make nonelective contributions of 2 percent of compensation for each employee who is eligible to participate in the arrangement and who has at least $5,000 of compensation from the employer for the year. If an employer makes an election under this subparagraph for any year, the employer shall notify employees of such election within a reasonable period of time before the 60th day before the beginning of such year.
 
@@ -66276,6 +66876,8 @@ then such trust shall be considered as having constituted a qualified trust unde
     (i) *Definitions* — For purposes of this paragraph, any term used in this paragraph which is also used in section 408(p) shall have the meaning given such term by such section.
 
     (ii) *Coordination with top-heavy rules* — A plan meeting the requirements of this paragraph for any year shall not be treated as a top-heavy plan under section 416 for such year if such plan allows only contributions required under this paragraph.
+
+  (E) *Employers electing increased contributions* — In the case of an employer which applies an election under section 408(p)(2)(E)(i)(II) for purposes of the contribution requirements of this paragraph under subparagraph (B)(i)(I), rules similar to the rules of subparagraphs (B)(iii), (C)(ii)(IV), and (G) of section 408(p)(2) shall apply for purposes of subparagraphs (B)(i)(II) and (B)(ii) of this paragraph.
 
 (12) **Alternative methods of meeting nondiscrimination requirements**
 
@@ -66327,7 +66929,7 @@ then such trust shall be considered as having constituted a qualified trust unde
 
     (iii) *4-percent contribution requirement* — Clause (i)(II) shall not apply to an arrangement unless the amount of the contributions described in subparagraph (C) which the employer is required to make under the arrangement for the plan year with respect to any employee is an amount equal to at least 4 percent of the employee’s compensation.
 
-  (G) *Other plans* — An arrangement shall be treated as meeting the requirements under subparagraph (A)(i) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
+  (G) *Other plans* — An arrangement shall be treated as meeting the contribution requirements under subparagraph (B) or (C) if any other plan maintained by the employer meets such requirements with respect to employees eligible under the arrangement.
 
 (13) **Alternative method for automatic contribution arrangements to meet nondiscrimination requirements**
 
@@ -66381,7 +66983,7 @@ then such trust shall be considered as having constituted a qualified trust unde
 
       (II) the requirements of subparagraph (B) of paragraph (2) are met with respect to all such employer contributions.
 
-    (iv) *Application of certain other rules* — The rules of subparagraphs (E)(ii) and (F) of paragraph (12) shall apply for purposes of subclauses (I) and (II) of clause (i).
+    (iv) *Application of certain other rules* — The rules of subparagraphs (E)(ii) and (G) of paragraph (12) shall apply for purposes of subclauses (I) and (II) of clause (i).
 
   (E) *Notice requirements*
 
@@ -66425,6 +67027,13 @@ then such trust shall be considered as having constituted a qualified trust unde
 
   (B) *No requirement to take available loan* — A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
 
+  (C) *Employee certification* — In determining whether a distribution is upon the hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is—
+
+    (i) on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need, and
+
+    (ii) not in excess of the amount required to satisfy such financial need, and
+    that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee’s certification, and for procedures for addressing cases of employee misrepresentation.
+
 (15) **Special rules for participation requirement for long-term, part-time workers** — For purposes of paragraph (2)(D)(ii)—
 
   (A) *Age requirement must be met* — Paragraph (2)(D)(ii) shall not apply to an employee unless the employee has met the requirement of section 410(a)(1)(A)(i) by the close of the last of the 12-month periods described in such paragraph.
@@ -66435,13 +67044,13 @@ then such trust shall be considered as having constituted a qualified trust unde
 
       (I) notwithstanding subsection (a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the arrangement, and
 
-      (II) an employer may elect to exclude such employees from the application of subsection (a)(4), paragraphs (3), (12), and (13), subsection (m)(2), and section 410(b).
+      (II) an employer may elect to exclude such employees from the application of subsection (a)(4), paragraphs (3), (12), and (13), paragraphs (2), (11), and (12) of subsection (m), and section 410(b).
 
     (ii) *Top-heavy rules* — An employer may elect to exclude all employees who are eligible to participate in a plan maintained by the employer solely by reason of paragraph (2)(D)(ii) from the application of the vesting and benefit requirements under subsections (b) and (c) of section 416.
 
-    (iii) *Vesting* — For purposes of determining whether an employee described in clause (i) has a nonforfeitable right to employer contributions (other than contributions described in paragraph (3)(D)(i)) under the arrangement, each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service, and section 411(a)(6) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof.
+    (iii) *Vesting* — For purposes of determining whether an employee described in clause (i) has a nonforfeitable right to employer contributions (other than contributions described in paragraph (3)(D)(i)) under the plan, each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service, and section 411(a)(6) shall be applied by substituting “at least 500 hours of service” for “more than 500 hours of service” in subparagraph (A) thereof.
 
-    (iv) *Employees who become full-time employees* — This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning after the plan year in which the employee meets the requirements of section 410(a)(1)(A)(ii) without regard to paragraph (2)(D)(ii).
+    (iv) *Employees who become full-time employees* — This subparagraph (other than clause (iii)) shall cease to apply to any employee as of the first plan year beginning after the plan year in which the employee meets the requirements of paragraph (2)(D) without regard to paragraph (2)(D)(ii).
 
   (C) *Exception for employees under collectively bargained plans, etc.* — Paragraph (2)(D)(ii) shall not apply to employees described in section 410(b)(3).
 
@@ -66450,6 +67059,56 @@ then such trust shall be considered as having constituted a qualified trust unde
     (i) *Time of participation* — The rules of section 410(a)(4) shall apply to an employee eligible to participate in an arrangement solely by reason of paragraph (2)(D)(ii).
 
     (ii) *12-month periods* — 12-month periods shall be determined in the same manner as under the last sentence of section 410(a)(3)(A).
+
+(16) **Starter 401(k) deferral-only plans for employers with no retirement plan**
+
+  (A) *In general* — A starter 401(k) deferral-only arrangement maintained by an eligible employer shall be treated as meeting the requirements of paragraph (3)(A)(ii).
+
+  (B) *Starter 401(k) deferral-only arrangement* — For purposes of this paragraph, the term “starter 401(k) deferral-only arrangement” means any cash or deferred arrangement which meets—
+
+    (i) the automatic deferral requirements of subparagraph (C),
+
+    (ii) the contribution limitations of subparagraph (D), and
+
+    (iii) the requirements of subparagraph (E) of paragraph (13).
+
+  (C) *Automatic deferral*
+
+    (i) *In general* — The requirements of this subparagraph are met if, under the arrangement, each eligible employee is treated as having elected to have the employer make elective contributions in an amount equal to a qualified percentage of compensation.
+
+    (ii) *Election out* — The election treated as having been made under clause (i) shall cease to apply with respect to any employee if such employee makes an affirmative election—
+
+      (I) to not have such contributions made, or
+
+      (II) to make elective contributions at a level specified in such affirmative election.
+
+    (iii) *Qualified percentage* — For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the arrangement if such percentage is applied uniformly and is not less than 3 or more than 15 percent.
+
+  (D) *Contribution limitations*
+
+    (i) *In general* — The requirements of this subparagraph are met if, under the arrangement—
+
+      (I) the only contributions which may be made are elective contributions of employees described in subparagraph (C), and
+
+      (II) the aggregate amount of such elective contributions which may be made with respect to any employee for any calendar year shall not exceed $6,000.
+
+    (ii) *Cost-of-living adjustment* — In the case of any calendar year beginning after December 31, 2024, the $6,000 amount under clause (i) shall be adjusted in the same manner as under section 402(g)(4), except that “2023” shall be substituted for “2005”.
+
+    (iii) *Catch-up contributions for individuals age 50 or over* — In the case of an individual who has attained the age of 50 before the close of the taxable year, the limitation under clause (i)(II) shall be increased by the applicable amount determined under section 219(b)(5)(B)(ii) (after the application of section 219(b)(5)(C)(iii)).
+
+  (E) *Eligible employer* — For purposes of this paragraph—
+
+    (i) *In general* — The term “eligible employer” means any employer if the employer does not maintain a qualified plan with respect to which contributions are made, or benefits are accrued, for service in the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees described in such subparagraph are eligible to participate.
+
+    (ii) *Relief for acquisitions, etc.* — Rules similar to the rules of section 408(p)(10) shall apply for purposes of clause (i).
+
+    (iii) *Qualified plan* — The term “qualified plan” means a plan, contract, pension, account, or trust described in subparagraph (A) or (B) of paragraph (5) of section 219(g) (determined without regard to the last sentence of such paragraph (5)).
+
+  (F) *Eligible employee* — For purposes of this paragraph—
+
+    (i) *In general* — The term “eligible employee” means any employee of the employer who meets the minimum age and service conditions described in section 410(a)(1).
+
+    (ii) *Exclusions* — The employer may elect to exclude from such definition any employee described in paragraph (3) or (4) of section 410(b).
 
 **(l) Permitted disparity in plan contributions or benefits**
 
@@ -66598,9 +67257,11 @@ then such trust shall be considered as having constituted a qualified trust unde
 
   (A) *Matching contribution* — The term “matching contribution” means—
 
-    (i) any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee contribution made by such employee, and
+    (i) any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee contribution made by such employee,
 
-    (ii) any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee’s elective deferral.
+    (ii) any employer contribution made to a defined contribution plan on behalf of an employee on account of an employee’s elective deferral, and
+
+    (iii) subject to the requirements of paragraph (14), any employer contribution made to a defined contribution plan on behalf of an employee on account of a qualified student loan payment.
 
   (B) *Elective deferral* — The term “elective deferral” means any employer contribution described in section 402(g)(3).
 
@@ -66609,6 +67270,17 @@ then such trust shall be considered as having constituted a qualified trust unde
     (i) the employee may not elect to have the contribution paid to the employee in cash instead of being contributed to the plan, and
 
     (ii) the requirements of subparagraphs (B) and (C) of subsection (k)(2) are met.
+
+  (D) *Qualified student loan payment* — The term “qualified student loan payment” means a payment made by an employee in repayment of a qualified education loan (as defined in section 221(d)(1)) incurred by the employee to pay qualified higher education expenses, but only—
+
+    (i) to the extent such payments in the aggregate for the year do not exceed an amount equal to—
+
+      (I) the limitation applicable under section 402(g) for the year (or, if lesser, the employee’s compensation (as defined in section 415(c)(3)) for the year), reduced by
+
+      (II) the elective deferrals made by the employee for such year, and
+
+    (ii) if the employee certifies annually to the employer making the matching contribution under this paragraph that such payment has been made on such loan.
+    For purposes of this subparagraph, the term “qualified higher education expenses” means the cost of attendance (as defined in section 472 of the Higher Education Act of 1965, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997) at an eligible educational institution (as defined in section 221(d)(2)).
 
 (5) **Employees taken into consideration**
 
@@ -66674,11 +67346,37 @@ then such trust shall be considered as having constituted a qualified trust unde
 
 (12) **Alternative method for automatic contribution arrangements** — A defined contribution plan shall be treated as meeting the requirements of paragraph (2) with respect to matching contributions if the plan—
 
-  (A) is a qualified automatic contribution arrangement (as defined in subsection (k)(13)), and
+  (A) is a qualified automatic contribution arrangement (as defined in subsection (k)(13)),
 
-  (B) meets the requirements of paragraph (11)(B).
+  (B) meets the notice requirements of subsection (k)(13)(E), and
 
-(13) **Cross reference** — For excise tax on certain excess contributions, see section 4979.
+  (C) meets the requirements of paragraph (11)(B).
+
+(13) **Matching contributions for qualified student loan payments**
+
+  (A) *In general* — For purposes of paragraph (4)(A)(iii), an employer contribution made to a defined contribution plan on account of a qualified student loan payment shall be treated as a matching contribution for purposes of this title if—
+
+    (i) the plan provides matching contributions on account of elective deferrals at the same rate as contributions on account of qualified student loan payments,
+
+    (ii) the plan provides matching contributions on account of qualified student loan payments only on behalf of employees otherwise eligible to receive matching contributions on account of elective deferrals,
+
+    (iii) under the plan, all employees eligible to receive matching contributions on account of elective deferrals are eligible to receive matching contributions on account of qualified student loan payments, and
+
+    (iv) the plan provides that matching contributions on account of qualified student loan payments vest in the same manner as matching contributions on account of elective deferrals.
+
+  (B) *Treatment for purposes of nondiscrimination rules, etc.*
+
+    (i) *Nondiscrimination rules* — For purposes of subparagraph (A)(iii), subsection (a)(4), and section 410(b), matching contributions described in paragraph (4)(A)(iii) shall not fail to be treated as available to an employee solely because such employee does not have debt incurred under a qualified education loan (as defined in section 221(d)(1)).
+
+    (ii) *Student loan payments not treated as plan contribution.—* — Except as provided in clause (iii), a qualified student loan payment shall not be treated as a contribution to a plan under this title.
+
+    (iii) *Matching contribution rules* — Solely for purposes of meeting the requirements of paragraph (11)(B), (12), or (13) of this subsection, or paragraph (11)(B)(i)(II), (12)(B), (13)(D), or (16)(D) of subsection (k), a plan may treat a qualified student loan payment as an elective deferral or an elective contribution, whichever is applicable.
+
+    (iv) *Actual deferral percentage testing* — In determining whether a plan meets the requirements of subsection (k)(3)(A)(ii) for a plan year, the plan may apply the requirements of such subsection separately with respect to all employees who receive matching contributions described in paragraph (4)(A)(iii) for the plan year.
+
+  (C) *Employer may rely on employee certification* — The employer may rely on an employee certification of payment under paragraph (4)(D)(ii).
+
+(14) **Cross reference** — For excise tax on certain excess contributions, see section 4979.
 
 **(n) Coordination with qualified domestic relations orders** The Secretary shall prescribe such rules or regulations as may be necessary to coordinate the requirements of subsection (a)(13)(B) and section 414(p) (and the regulations issued by the Secretary of Labor thereunder) with the other provisions of this chapter.
 
@@ -66819,16 +67517,181 @@ then such trust shall be considered as having constituted a qualified trust unde
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table below.
 
-#### References in Text
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(12), (13)(C)(i)(II), (III), (iii)(II), (33)(C), (34), (35)(G)(iii), (36)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 4 of subtitle B of title I of the Act is classified generally to part 4 (§ 1101 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Title IV of the Act is classified generally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 407, 412, 4021, 4050, and 4203 of the Act are classified to sections 1107, 1112, 1321, 1350, and 1383, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+#### Amendment of Section
+Pub. L. 117–328, div. T, title I, § 123, Dec. 29, 2022, 136 Stat. 5313, provided that, applicable to plan years beginning after Dec. 31, 2027, subsection (a)(35) of this section is amended by adding at the end the following new subparagraph:
 
-The Social Security Act, referred to in subsecs. (a)(15), (l)(4)(C)(ii), (5)(A)(ii), (D)(ii), (E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42. Sections 223(d) and 230 of the Social Security Act are classified to sections 423(d) and 430, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+“(I) ESOP rules relating to publicly traded securities.—In the case of an applicable defined contribution plan which is an employee stock ownership plan, an employer security shall be treated as described in subparagraph (G)(v) if—
+
+“(i) the security is the subject of priced quotations by at least 4 dealers, published and made continuously available on an interdealer quotation system (as such term is used in section 13 of the Securities Exchange Act of 1934) which has made the request described in section 6(j) of such Act to be treated as an alternative trading system,
+
+“(ii) the security is not a penny stock (as defined by section 3(a)(51) of such Act),
+
+“(iii) the security is issued by a corporation which is not a shell company (as such term is used in section 4(d)(6) of the Securities Act of 1933), a blank check company (as defined in section 7(b)(3) of such Act), or subject to bankruptcy proceedings,
+
+“(iv) the security has a public float (as such term is used in section 240.12b-2 of title 17, Code of Federal Regulations) which has a fair market value of at least $1,000,000 and constitutes at least 10 percent of the total shares issued and outstanding.
+
+“(v) in the case of a security issued by a domestic corporation, the issuer publishes, not less frequently than annually, financial statements audited by an independent auditor registered with the Public Company Accounting Oversight Board established under the Sarbanes-Oxley Act of 2002, and
+
+“(vi) in the case of a security issued by a foreign corporation, the security is represented by a depositary share (as defined under section 240.12b-2 of title 17, Code of Federal Regulations), or is issued by a foreign corporation incorporated in Canada and readily tradeable on an established securities market in Canada, and the issuer—
+
+“(I) is subject to, and in compliance with, the reporting requirements of section 13 or 15(d) of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim) or 78o(d)),
+
+“(II) is subject to, and in compliance with, the reporting requirements of section 230.257 of title 17, Code of Federal Regulations, or
+
+“(III) is exempt from such requirements under section 240.12g3–2(b) of title 17, Code of Federal Regulations.”
+
+See 2022 Amendment note below.
+
+Pub. L. 117–328, div. T, title I, § 125(a)(2)(B)(ii), (c), (f)(1), Dec. 29, 2022, 136 Stat. 5315, 5316, provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (k) of this section is amended as follows:
+
+(1) in paragraph (2)(D)(ii), by striking “3” and inserting “2”; and
+
+(2) in paragraph (15)(B)(i), by inserting “, or by reason of such paragraph and section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974” after “paragraph (2)(D)(ii)”.
+
+See 2022 Amendment notes below.
+
+Pub. L. 117–328, div. T, title III, § 334(a), (b)(1), (e), Dec. 29, 2022, 136 Stat. 5368, 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, this section is amended as follows:
+
+(1) in subsection (a), by inserting after paragraph (38) the following new paragraph:
+
+“(39) Qualified long-term care distributions
+
+“(A) In general.—A trust forming part of a defined contribution plan shall not be treated as failing to constitute a qualified trust under this section solely by reason of allowing qualified long-term care distributions.
+
+“(B) Qualified long-term care distribution.—For purposes of this paragraph—
+
+“(i) In general.—The term ‘qualified long-term care distribution’ means so much of the distributions made during the taxable year as does not exceed, in the aggregate, the least of the following:
+
+“(I) The amount paid by or assessed to the employee during the taxable year for or with respect to certified long-term care insurance for the employee or the employee’s spouse (or other family member of the employee as provided by the Secretary by regulation).
+
+“(II) An amount equal to 10 percent of the present value of the nonforfeitable accrued benefit of the employee under the plan.
+
+“(III) $2,500.
+
+“(ii) Adjustment for inflation.—In the case of taxable years beginning after December 31, 2024, the $2,500 amount in clause (i)(II) shall be increased by an amount equal to—
+
+“(I) such dollar amount, multiplied by
+
+“(II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting ‘calendar year 2023’ for ‘calendar year 2016’ in subparagraph (A)(ii) thereof.
+
+If any increase under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
+
+“(C) Certified long-term care insurance.—The term ‘certified long-term care insurance’ means—
+
+“(i) a qualified long-term care insurance contract (as defined in section 7702B(b)) covering qualified long-term care services (as defined in section 7702B(c)),
+
+“(ii) coverage of the risk that an insured individual would become a chronically ill individual (within the meaning of section 101(g)(4)(B)) under a rider or other provision of a life insurance contract which satisfies the requirements of section 101(g)(3) (determined without regard to subparagraph (D) thereof), or
+
+“(iii) coverage of qualified long-term care services (as so defined) under a rider or other provision of an insurance or annuity contract which is treated as a separate contract under section 7702B(e) and satisfies the requirements of section 7702B(g),
+
+if such coverage provides meaningful financial assistance in the event the insured needs home-based or nursing home care. For purposes of the preceding sentence, coverage shall not be deemed to provide meaningful financial assistance unless benefits are adjusted for inflation and consumer protections are provided, including protection in the event the coverage is terminated.
+
+“(D) Distributions must otherwise be includible.—Rules similar to the rules of section 402(l)(3) shall apply for purposes of this paragraph.
+
+“(E) Long-term care premium statement.—
+
+“(i) In general.—No distribution shall be treated as a qualified long-term care distribution unless a long-term care premium statement with respect to the employee has been filed with the plan.
+
+“(ii) Long-term care premium statement.—For purposes of this paragraph, a long-term care premium statement is a statement provided by the issuer of long-term care coverage, upon request by the owner of such coverage, which includes—
+
+“(I) the name and taxpayer identification number of such issuer,
+
+“(II) a statement that the coverage is certified long-term care insurance,
+
+“(III) identification of the employee as the owner of such coverage,
+
+“(IV) identification of the individual covered and such individual’s relationship to the employee,
+
+“(V) the premiums owed for the coverage for the calendar year, and
+
+“(VI) such other information as the Secretary may require.
+
+“(iii) Filing with secretary.—A long-term care premium statement will be accepted only if the issuer has completed a disclosure to the Secretary for the specific coverage product to which the statement relates. Such disclosure shall identify the issuer, type of coverage, and such other information as the Secretary may require which is included in the filing of the product with the applicable State authority.”; and
+
+(2) in subsection (k)(2)(B)(i), by striking “or” at the end of subclause (V), by adding “or” at the end of subclause (VI), and by adding at the end the following new subclause:
+
+“(VII) as provided in section 401(a)(39),”.
+
+See 2022 Amendment notes below.
+
+#### References in Text
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(12), (13)(C)(i)(II), (III), (iii)(II), (33)(C), (34), (35)(G)(iii), (36)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Part 4 of subtitle B of title I of the Act is classified generally to part 4 (§ 1101 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. Title IV of the Act is classified generally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 407, 412, 4021, 4050, and 4203 of the Act are classified to sections 1107, 1112, 1321, 1350, and 1383, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+
+The Social Security Act, referred to in subsecs. (a)(15), (l)(4)(C)(ii), (5)(A)(ii), (D)(ii), (E)(i), (F), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42. Sections 223(d) and 230 of the Social Security Act are classified to sections 423(d) and 430, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 521 of the Unemployment Compensation Amendments of 1992, referred to in subsec. (a)(20), is section 521 of Pub. L. 102–318, which amended section 402(a) to (f) of this title generally, and, as so amended, subsec. (a) of section 402 does not contain a par. (6)(B).
 
 The Railroad Retirement Act of 1974, referred to in subsec. (l)(6), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, § 101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231&num=0&edition=prelim), [section 231t of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section231t&num=0&edition=prelim), and Tables.
 
+Section 472 of the Higher Education Act of 1965, as in effect on the day before the date of the enactment of the Taxpayer Relief Act of 1997, referred to in subsec. (m)(4)(D), means section 472 of Pub. L. 89–329, which is classified to section 1087ll of Title 20, Education, as in effect on the day before the date of enactment of Pub. L. 105–34, which was approved Aug. 5, 1997.
+
 #### Amendments
+2022—Subsec. (a)(9)(B)(iv). Pub. L. 117–328, § 327(a), amended cl. (iv) generally. Prior to amendment, text read as follows: “If the designated beneficiary referred to in clause (iii)(I) is the surviving spouse of the employee—
+
+“(I) the date on which the distributions are required to begin under clause (iii)(III) shall not be earlier than the date on which the employee would have attained the applicable age, and
+
+“(II) if the surviving spouse dies before the distributions to such spouse begin, this subparagraph shall be applied as if the surviving spouse were the employee.”
+
+Subsec. (a)(9)(B)(iv)(I). Pub. L. 117–328, § 107(b), substituted “the applicable age” for “age 72”.
+
+Subsec. (a)(9)(C)(i)(I). Pub. L. 117–328, § 107(a), substituted “the applicable age” for “age 72”.
+
+Subsec. (a)(9)(C)(ii)(I). Pub. L. 117–328, § 107(b), substituted “the applicable age” for “age 72”.
+
+Subsec. (a)(9)(C)(v). Pub. L. 117–328, § 107(c), added cl. (v).
+
+Subsec. (a)(9)(H)(iv)(II). Pub. L. 117–328, § 337(a), substituted “no beneficiary” for “no individual”.
+
+Subsec. (a)(9)(H)(v). Pub. L. 117–328, § 337(b), inserted concluding provisions.
+
+Subsec. (a)(9)(J). Pub. L. 117–328, § 201(a), added subpar. (J).
+
+Subsec. (a)(31)(B)(ii). Pub. L. 117–328, § 304(a), substituted “$7,000” for “$5,000”.
+
+Subsec. (a)(35)(I). Pub. L. 117–328, § 123(a), added subpar. (I).
+
+Subsec. (a)(39). Pub. L. 117–328, § 334(a), added par. (39).
+
+Subsec. (b)(2). Pub. L. 117–328, § 317(a), inserted at end “In the case of an individual who owns the entire interest in an unincorporated trade or business, and who is the only employee of such trade or business, any elective deferrals (as defined in section 402(g)(3)) under a qualified cash or deferred arrangement to which the preceding sentence applies, which are made by such individual before the time for filing the return of such individual for the taxable year (determined without regard to any extensions) ending after or with the end of the plan’s first plan year, shall be treated as having been made before the end of such first plan year.”
+
+Subsec. (b)(3). Pub. L. 117–328, § 316(a), added par. (3).
+
+Subsec. (k)(2)(B)(i)(VII). Pub. L. 117–328, § 334(b)(1), added subcl. (VII).
+
+Subsec. (k)(2)(D)(ii). Pub. L. 117–328, § 125(c), substituted “2” for “3”.
+
+Subsec. (k)(4)(A). Pub. L. 117–328, § 113(a), inserted “(other than a de minimis financial incentive (not paid for with plan assets) provided to employees who elect to have the employer make contributions under the arrangement in lieu of receiving cash)” after “any other benefit”.
+
+Subsec. (k)(11)(B)(i)(I). Pub. L. 117–328, § 117(g)(1), inserted before comma at end “(after the application of any election under section 408(p)(2)(E)(i)(II))”.
+
+Subsec. (k)(11)(B)(i)(III), (IV). Pub. L. 117–328, § 116(b)(2), (3), added subcl. (III), redesignated former subcl. (III) as (IV), and substituted “, (II), or (III)” for “or (II)” in subcl. (IV).
+
+Subsec. (k)(11)(E). Pub. L. 117–328, § 117(g)(2), added subpar. (E).
+
+Subsec. (k)(12)(G). Pub. L. 117–328, § 401(b)(2), substituted “the contribution requirements under subparagraph (B) or (C)” for “the requirements under subparagraph (A)(i)”.
+
+Subsec. (k)(13)(D)(iv). Pub. L. 117–328, § 401(b)(3), substituted “and (G)” for “and (F)”.
+
+Subsec. (k)(14)(C). Pub. L. 117–328, § 312(a), added subpar. (C).
+
+Subsec. (k)(15)(B)(i). Pub. L. 117–328, § 125(a)(2)(B)(ii), in introductory provisions, inserted “, or by reason of such paragraph and section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974” after “paragraph (2)(D)(ii)”.
+
+Subsec. (k)(15)(B)(i)(II). Pub. L. 117–328, § 401(a)(2)(A), substituted “paragraphs (2), (11), and (12) of subsection (m)” for “subsection (m)(2)”.
+
+Subsec. (k)(15)(B)(iii). Pub. L. 117–328, § 401(a)(2)(B), substituted “under the plan” for “under the arrangement”.
+
+Subsec. (k)(15)(B)(iv). Pub. L. 117–328, § 401(a)(2)(C), substituted “paragraph (2)(D)” for “section 410(a)(1)(A)(ii)”.
+
+Subsec. (k)(16). Pub. L. 117–328, § 121(a), added par. (16).
+
+Subsec. (m)(4)(A)(iii). Pub. L. 117–328, § 110(a), added cl. (iii).
+
+Subsec. (m)(4)(D). Pub. L. 117–328, § 110(b), added subpar. (D).
+
+Subsec. (m)(12)(B), (C). Pub. L. 117–328, § 401(a)(1), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (m)(13), (14). Pub. L. 117–328, § 110(c), added par. (13) and redesignated former par. (13) as (14).
+
 2020—Subsec. (a)(9)(I). Pub. L. 116–136 added subpar. (I).
 
 Subsec. (a)(36). Pub. L. 116–260 amended par. (36) generally. Prior to amendment, text read as follows: “A trust forming part of a pension plan shall not be treated as failing to constitute a qualified trust under this section solely because the plan provides that a distribution may be made from such trust to an employee who has attained age 59½ and who is not separated from employment at the time of such distribution.”
@@ -67591,10 +68454,45 @@ Pub. L. 87–792, § 2(3), redesignated former subsec. (c) as (h).
 
 Subsec. (i). Pub. L. 87–863 redesignated former subsec. (h) as (i).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 107(e), Dec. 29, 2022, 136 Stat. 5289, provided that: “The amendments made by this section [amending this section and [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408)] shall apply to distributions required to be made after December 31, 2022, with respect to individuals who attain age 72 after such date.”
+
+Pub. L. 117–328, div. T, title I, § 110(h), Dec. 29, 2022, 136 Stat. 5293, provided that: “The amendments made by this section [amending this section and sections 403, 408, and 457 of this title] shall apply to contributions made for plan years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title I, § 113(e), Dec. 29, 2022, 136 Stat. 5296, provided that: “The amendments made by this section [amending this section and sections 403 and 4975 of this title and [section 1108 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108&num=0&edition=prelim), Labor] shall apply with respect to plan years beginning after the date of enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title I, § 116(c), Dec. 29, 2022, 136 Stat. 5299, provided that: “The amendments made by this section [amending this section and [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408)] shall apply to taxable years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title I, § 117(h), Dec. 29, 2022, 136 Stat. 5301, provided that: “The amendments made by this section [amending this section and sections 408 and 414 of this title] shall apply to taxable years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title I, § 121(d), Dec. 29, 2022, 136 Stat. 5311, provided that: “The amendments made by this section [amending this section and sections 403 and 416 of this title] shall apply to plan years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title I, § 123(b), Dec. 29, 2022, 136 Stat. 5314, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2027.”
+
+Pub. L. 117–328, div. T, title I, § 125(f), Dec. 29, 2022, 136 Stat. 5316, provided that: “(1) In general.—Except as provided in paragraph (2), the amendments made by this section [amending this section, sections 403 and 416 of this title and sections 1052 and 1053 of Title 29, Labor, and provisions set out as a note under this section] shall apply to plan years beginning after December 31, 2024. “(2) Subsection (d) and (e).—The amendments made by subsections (d) and (e) [amending [section 416 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-416) and provisions set out as a note under this section] shall take effect as if included in the enactment of section 112 of the Setting Every Community Up for Retirement Enhancement Act of 2019 [div. O of Pub. L. 116–94].”
+
+Pub. L. 117–328, div. T, title II, § 201(b), Dec. 29, 2022, 136 Stat. 5331, provided that: “This section [amending this section] shall apply to calendar years ending after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 304(b), Dec. 29, 2022, 136 Stat. 5341, provided that: “The amendments made by this section [amending this section, [section 411 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-411), and [section 1053 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1053&num=0&edition=prelim), Labor] shall apply to distributions made after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title III, § 312(d), Dec. 29, 2022, 136 Stat. 5348, provided that: “The amendments made by this section [amending this section and sections 403 and 457 of this title] shall apply to plan years beginning after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 316(b), Dec. 29, 2022, 136 Stat. 5352, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title III, § 317(b), Dec. 29, 2022, 136 Stat. 5352, provided that: “The amendment made by this section [amending this section] shall apply to plan years beginning after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 327(c), Dec. 29, 2022, 136 Stat. 5360, provided that: “The amendments made by this section [amending this section] shall apply to calendar years beginning after December 31, 2023.”
+
+Amendment by section 334(a), (b)(1) of Pub. L. 117–328 applicable to distributions made after the date which is 3 years after Dec. 29, 2022, see section 334(e) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Pub. L. 117–328, div. T, title III, § 337(c), Dec. 29, 2022, 136 Stat. 5373, provided that: “The amendments made by this section [amending this section] shall apply to calendar years beginning after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Amendment by section 401(a)(1), (2), (b)(2), (3) of Pub. L. 117–328 effective as if included in the section of div. O of Pub. L. 116–94 to which the amendment relates, see section 401(c) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. EE, title II, § 208(b), Dec. 27, 2020, 134 Stat. 3066, provided that: “The amendment made by this section [amending this section] shall apply to distributions made before, on, or after the date of the enactment of this Act [Dec. 27, 2020].”
 
-Pub. L. 116–136, div. A, title II, § 2203(c), Mar. 27, 2020, 134 Stat. 344, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402)] shall apply for calendar years beginning after December 31, 2019. “(2) Provisions relating to plan or contract amendments.—“(A) In general.—If this paragraph applies to any plan or contract amendment—“(i) such plan or contract shall not fail to be treated as being operated in accordance with the terms of the plan during the period described in subparagraph (B)(ii) solely because the plan operates in accordance with this section, and “(ii) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such plan or contract shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(B) Amendments to which paragraph applies.—“(i) In general.—This paragraph shall apply to any amendment to any plan or annuity contract which—“(I) is made pursuant to the amendments made by this section, and “(II) is made on or before the last day of the first plan year beginning on or after January 1, 2022. In the case of a governmental plan, subclause (II) shall be applied by substituting ‘2024’ for ‘2022’. “(ii) Conditions.—This paragraph shall not apply to any amendment unless during the period beginning on the effective date of the amendment and ending on December 31, 2020, the plan or contract is operated as if such plan or contract amendment were in effect.”
+Pub. L. 116–136, div. A, title II, § 2203(c), Mar. 27, 2020, 134 Stat. 344, as amended by Pub. L. 117–328, div. T, title V, § 501(c)(2)(B), Dec. 29, 2022, 136 Stat. 5389, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402)] shall apply for calendar years beginning after December 31, 2019. “(2) Provisions relating to plan or contract amendments.—“(A) In general.—If this paragraph applies to any plan or contract amendment—“(i) such plan or contract shall not fail to be treated as being operated in accordance with the terms of the plan during the period described in subparagraph (B)(ii) solely because the plan operates in accordance with this section, and “(ii) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such plan or contract shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(B) Amendments to which paragraph applies.—“(i) In general.—This paragraph shall apply to any amendment to any plan or annuity contract which—“(I) is made pursuant to the amendments made by this section, and “(II) is made on or before the last day of the first plan year beginning on or after January 1, 2025. In the case of a governmental plan, subclause (II) shall be applied by substituting ‘2027’ for ‘2025’. “(ii) Conditions.—This paragraph shall not apply to any amendment unless during the period beginning on the effective date of the amendment and ending on December 31, 2020, the plan or contract is operated as if such plan or contract amendment were in effect.”
 
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. M, § 104(c), Dec. 20, 2019, 133 Stat. 3095, provided that: “The amendments made by this section [amending this section and [section 457 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-457)] shall apply to plan years beginning after December 31, 2019.”
@@ -67605,7 +68503,7 @@ Pub. L. 116–94, div. O, title I, § 103(d), Dec. 20, 2019, 133 Stat. 3147, pro
 
 Pub. L. 116–94, div. O, title I, § 109(e), Dec. 20, 2019, 133 Stat. 3152, provided that: “The amendments made by this section [amending this section and sections 403 and 457 of this title] shall apply to plan years beginning after December 31, 2019.”
 
-Pub. L. 116–94, div. O, title I, § 112(b), Dec. 20, 2019, 133 Stat. 3154, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2020, except that, for purposes of section 401(k)(2)(D)(ii) of the Internal Revenue Code of 1986 (as added by such amendments), 12-month periods beginning before January 1, 2021, shall not be taken into account.”
+Pub. L. 116–94, div. O, title I, § 112(b), Dec. 20, 2019, 133 Stat. 3154, as amended by Pub. L. 117–328, div. T, title I, § 125(d), Dec. 29, 2022, 136 Stat. 5315, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2020, except that, for purposes of paragraphs (2)(D)(ii) and (15)(B)(iii) of section 401(k) of the Internal Revenue Code of 1986 (as added by such amendments), 12-month periods beginning before January 1, 2021, shall not be taken into account.”
 
 Pub. L. 116–94, div. O, title I, § 114(d), Dec. 20, 2019, 133 Stat. 3156, provided that: “The amendments made by this section [amending this section and [section 408 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408)] shall apply to distributions required to be made after December 31, 2019, with respect to individuals who attain age 70½ after such date.”
 
@@ -67903,6 +68801,18 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 Pub. L. 87–792, § 1, Oct. 10, 1962, 76 Stat. 809, provided: “That this Act [enacting sections 405 and 6047 of this title and amending this section and sections 37, 62, 72, 101, 104, 105, 172, 402 to 404, 503, 805, 1361, 2039, 2517, 3306, 3401, and 7207 of this title] may be cited as the ‘Self-Employed Individuals Tax Retirement Act of 1962’.”
 
 #### Regulations
+Pub. L. 117–328, div. T, title I, § 110(g), Dec. 29, 2022, 136 Stat. 5293, provided that: “The Secretary of the Treasury (or such Secretary’s delegate) shall prescribe regulations for purposes of implementing the amendments made by this section, including regulations— “(1) permitting a plan to make matching contributions for qualified student loan payments, as defined in sections 401(m)(4)(D) and 408(p)(2)(F) of the Internal Revenue Code of 1986, as added by this section, at a different frequency than matching contributions are otherwise made under the plan, provided that the frequency is not less than annually; “(2) permitting employers to establish reasonable procedures to claim matching contributions for such qualified student loan payments under the plan, including an annual deadline (not earlier than 3 months after the close of each plan year) by which a claim must be made; and “(3) promulgating model amendments which plans may adopt to implement matching contributions on such qualified student loan payments for purposes of sections 401(m), 408(p), 403(b), and 457(b) of the Internal Revenue Code of 1986.”
+
+Pub. L. 117–328, div. T, title II, § 202, Dec. 29, 2022, 136 Stat. 5331, provided that: “(a) In General.—Not later than the date which is 18 months after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of the Treasury (or the Secretary’s delegate) shall amend the regulation issued by the Department of the Treasury relating to ‘Longevity Annuity Contracts’ (79 Fed. Reg. 37633 (July 2, 2014)), as follows:“(1) Repeal 25-percent premium limit.—The Secretary (or delegate) shall amend Q&A–17(b)(3) of Treas. Reg. section 1.401(a)(9)–6 and Q&A–12(b)(3) of Treas. Reg. section 1.408–8 to eliminate the requirement that premiums for qualifying longevity annuity contracts be limited to 25 percent of an individual’s account balance, and to make such corresponding changes to the regulations and related forms as are necessary to reflect the elimination of this requirement. “(2) Increase dollar limitation.—“(A) In general.—The Secretary (or delegate) shall amend Q&A–17(b)(2)(i) of Treas. Reg. section 1.401(a)(9)–6 and Q&A–12(b)(2)(i) of Treas. Reg. section 1.408–8 to increase the dollar limitation on premiums for qualifying longevity annuity contracts from $125,000 to $200,000, and to make such corresponding changes to the regulations and related forms as are necessary to reflect this increase in the dollar limitation. “(B) Adjustments for inflation.—The Secretary (or delegate) shall amend Q&A–17(d)(2)(i) of Treas. Reg. section 1.401(a)(9)–6 to provide that, in the case of calendar years beginning on or after January 1 of the second year following the year of enactment of this Act [div. T of Pub. L. 117–328, enacted in 2022], the $200,000 dollar limitation (as increased by subparagraph (A)) will be adjusted at the same time and in the same manner as the limits are adjusted under section 415(d) of the Internal Revenue Code of 1986, except that the base period shall be the calendar quarter beginning July 1 of the year of enactment of this Act, and any increase to such dollar limitation which is not a multiple of $10,000 will be rounded to the next lowest multiple of $10,000. “(3) Facilitate joint and survivor benefits.—The Secretary (or delegate) shall amend Q&A–17(c) of Treas. Reg. section 1.401(a)(9)–6, and make such corresponding changes to the regulations and related forms as are necessary, to provide that, in the case of a qualifying longevity annuity contract which was purchased with joint and survivor annuity benefits for the individual and the individual’s spouse which were permissible under the regulations at the time the contract was originally purchased, a divorce occurring after the original purchase and before the annuity payments commence under the contract will not affect the permissibility of the joint and survivor annuity benefits or other benefits under the contract, or require any adjustment to the amount or duration of benefits payable under the contract, provided that any qualified domestic relations order (within the meaning of section 414(p) of the Internal Revenue Code of 1986) or, in the case of an arrangement not subject to section 414(p) of such Code or section 206(d) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1056(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/d&num=0&edition=prelim)], any divorce or separation instrument (as defined in subsection (b))—“(A) provides that the former spouse is entitled to the survivor benefits under the contract; “(B) provides that the former spouse is treated as a surviving spouse for purposes of the contract; “(C) does not modify the treatment of the former spouse as the beneficiary under the contract who is entitled to the survivor benefits; or “(D) does not modify the treatment of the former spouse as the measuring life for the survivor benefits under the contract. “(4) Permit short free look period.—The Secretary (or delegate) shall amend Q&A–17(a)(4) of Treas. Reg. section 1.401(a)(9)–6 to ensure that such Q&A does not preclude a contract from including a provision under which an employee may rescind the purchase of the contract within a period not exceeding 90 days from the date of purchase. “(b) Divorce or Separation Instrument.—For purposes of subsection (a)(3), the term ‘divorce or separation instrument’ means—“(1) a decree of divorce or separate maintenance or a written instrument incident to such a decree; “(2) a written separation agreement; or “(3) a decree (not described in paragraph (1)) requiring a spouse to make payments for the support or maintenance of the other spouse. “(c) Effective Dates, Enforcement, and Interpretations.—“(1) Effective dates.—“(A) Paragraphs (1) and (2) of subsection (a) shall be effective with respect to contracts purchased or received in an exchange on or after the date of the enactment of this Act. “(B) Paragraphs (3) and (4) of subsection (a) shall be effective with respect to contracts purchased or received in an exchange on or after July 2, 2014. “(2) Enforcement and interpretations.—Prior to the date on which the Secretary of the Treasury issues final regulations pursuant to subsection (a)—“(A) the Secretary (or delegate) shall administer and enforce the law in accordance with subsection (a) and the effective dates in paragraph (1) of this subsection; and “(B) taxpayers may rely upon their reasonable good faith interpretations of subsection (a). “(d) Regulatory Successor Provision.—Any reference to a regulation under this section shall be treated as including a reference to any successor regulation thereto.”
+
+Pub. L. 117–328, div. T, title II, § 204, Dec. 29, 2022, 136 Stat. 5334, provided that: “(a) Eliminating a Penalty on Partial Annuitization.—The Secretary of the Treasury (or the Secretary’s delegate) shall amend the regulations under section 401(a)(9) of the Internal Revenue Code of 1986 to provide that if an employee’s benefit is in the form of an individual account under a defined contribution plan, the plan may allow the employee to elect to have the amount required to be distributed from such account under such section for a year to be calculated as the excess of the total required amount for such year over the annuity amount for such year. “(b) Definitions.—For purposes of this section—“(1) Total required amount.—The term ‘total required amount’, with respect to a year, means the amount which would be required to be distributed under Treas. Reg. section 1.401(a)(9)–5 (or any successor regulation) for the year, determined by treating the account balance as of the last valuation date in the immediately preceding calendar year as including the value on that date of all annuity contracts which were purchased with a portion of the account and from which payments are made in accordance with Treas. Reg. section 1.401(a)(9)–6. “(2) Annuity amount.—The term ‘annuity amount’, with respect to a year, is the total amount distributed in the year from all annuity contracts described in paragraph (1). “(c) Conforming Regulatory Amendments.—The Secretary of the Treasury (or the Secretary’s delegate) shall amend the regulations under sections 403(b)(10), 408(a)(6), 408(b)(3), and 457(d)(2) of the Internal Revenue Code of 1986 to conform to the amendments described in subsection (a). Such conforming amendments shall treat all individual retirement plans (as defined in section 7701(a)(37) of such Code) which an individual holds as the owner, or which an individual holds as a beneficiary of the same decedent, as one such plan for purposes of the amendments described in subsection (a). Such conforming amendments shall also treat all contracts described in section 403(b) of such Code which an individual holds as an employee, or which an individual holds as a beneficiary of the same decedent, as one such contract for such purposes. “(d) Effective Date.—The modifications and amendments required under subsections (a) and (c) shall be deemed to have been made as of the date of the enactment of this Act [Dec. 29, 2022], and as of such date—“(1) all applicable laws shall be applied in all respects as though the actions which the Secretary of the Treasury (or the Secretary’s delegate) is required to take under such subsections had been taken, and “(2) until such time as such actions are taken, taxpayers may rely upon their reasonable good faith interpretations of this section.”
+
+Pub. L. 117–328, div. T, title III, § 327(b), Dec. 29, 2022, 136 Stat. 5360, provided that: “The Secretary shall amend Q&A–5(a) of Treasury Regulation section 1.401(a)(9)–5 (or any successor regulation thereto) to provide that if the surviving spouse is the employee’s sole designated beneficiary and the spouse elects treatment under section 401(a)(9)(B)(iv), then the applicable distribution period for distribution calendar years after the distribution calendar year including the employee’s date of death is determined under the uniform lifetime table.”
+
+Pub. L. 117–328, div. T, title III, § 341, Dec. 29, 2022, 136 Stat. 5375, provided that: “Not later than 2 years after the date of enactment of this Act [Dec. 29, 2022], the Secretary of Labor and the Secretary of the Treasury (or such Secretaries’ delegates) shall adopt regulations providing that a plan (as defined in section 3 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002&num=0&edition=prelim))) may, but is not required to, consolidate 2 or more of the notices required under sections 404(c)(5)(B) and 514(e)(3) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1104(c)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1104/c/5/B&num=0&edition=prelim) and [29 U.S.C. 1144(e)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1144/e/3&num=0&edition=prelim)) and sections 401(k)(12)(D), 401(k)(13)(E), and 414(w)(4) of the Internal Revenue Code of 1986 into a single notice so long as the combined notice—“(1) includes the required content; “(2) clearly identifies the issues addressed therein; “(3) is furnished at the time and with the frequency required for each such notice; and “(4) is presented in a manner that is reasonably calculated to be understood by the average plan participant and that does not obscure or fail to highlight the primary information required for each notice. This section shall not be interpreted as preventing the consolidation of any other notices required under the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.], or Internal Revenue Code of 1986, to the extent otherwise permitted by the Secretary of Labor or the Secretary of the Treasury (or either such Secretary’s delegate), as applicable.”
+
+Pub. L. 115–123, div. D, title II, § 41113, Feb. 9, 2018, 132 Stat. 161, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Feb. 9, 2018], the Secretary of the Treasury shall modify Treasury Regulation section 1.401(k)–1(d)(3)(iv)(E) to—“(1) delete the 6-month prohibition on contributions imposed by paragraph (2) thereof, and “(2) make any other modifications necessary to carry out the purposes of section 401(k)(2)(B)(i)(IV) of the Internal Revenue Code of 1986. “(b) Effective Date.—The revised regulations under this section shall apply to plan years beginning after December 31, 2018.”
+
 Pub. L. 109–280, title VIII, § 823, Aug. 17, 2006, 120 Stat. 998, provided that: “The Secretary of the Treasury shall issue regulations under which a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986) shall, for all years to which section 401(a)(9) of such Code applies to such plan, be treated as having complied with such section 401(a)(9) if such plan complies with a reasonable good faith interpretation of such section 401(a)(9).”
 
 Pub. L. 109–280, title VIII, § 826, Aug. 17, 2006, 120 Stat. 999, provided that: “Within 180 days after the date of the enactment of this Act [Aug. 17, 2006], the Secretary of the Treasury shall modify the rules for determining whether a participant has had a hardship for purposes of section 401(k)(2)(B)(i)(IV) of the Internal Revenue Code of 1986 to provide that if an event (including the occurrence of a medical expense) would constitute a hardship under the plan if it occurred with respect to the participant’s spouse or dependent (as defined in section 152 of such Code), such event shall, to the extent permitted under a plan, constitute a hardship if it occurs with respect to a person who is a beneficiary under the plan with respect to the participant. The Secretary of the Treasury shall issue similar rules for purposes of determining whether a participant has had— “(1) a hardship for purposes of section 403(b)(11)(B) of such Code; or “(2) an unforeseen financial emergency for purposes of sections 409A(a)(2)(A)(vi), 409A(a)(2)(B)(ii), and 457(d)(1)(A)(iii) of such Code.”
@@ -67911,8 +68821,14 @@ Pub. L. 107–16, title VI, § 657(c)(2), June 7, 2001, 115 Stat. 136, provided 
 
 Pub. L. 99–514, title XI, § 1141, Oct. 22, 1986, 100 Stat. 2490, provided that: “The Secretary of the Treasury or his delegate shall issue before February 1, 1988, such final regulations as may be necessary to carry out the amendments made by— “(1) section 1111 [amending this section], relating to application of nondiscrimination rules to integrated plans, “(2) section 1112 [amending this section and sections 402, 404, 406, 407, 410, and 818 of this title], relating to coverage requirements for qualified plans, “(3) section 1113 [amending sections 410 and 411 of this title and sections 1052 to 1054 of Title 29, Labor], relating to minimum vesting standards, “(4) section 1114 [amending this section, sections 106, 117, 120, 127, 129, 132, 274, 404A, 406, 407, 411, 414, 415, 423, 501, 505, and 4975 of this title, and [section 1108 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1108&num=0&edition=prelim)], relating to the definition of highly compensated employee, “(5) section 1115 [amending [section 414 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-414)], relating to separate lines of business and the definition of compensation, “(6) section 1116 [amending this section], relating to rules for section 401(k) plans, “(7) section 1117 [enacting [section 4979 of this title](./chapter-043-qualified-pension-etc-plans.md#section-4979) and amending this section and [section 414 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-414)], relating to nondiscrimination requirements for employer matching and employer contribution, “(8) section 1120 [amending [section 403 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-403)], relating to nondiscrimination requirements for tax sheltered annuities, and “(9) section 1133 [enacting section 4981A [now 4980A] of this title], relating to tax on excess distributions.”
 
-#### Modification of Rules Governing Hardship Distributions
-Pub. L. 115–123, div. D, title II, § 41113, Feb. 9, 2018, 132 Stat. 161, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Feb. 9, 2018], the Secretary of the Treasury shall modify Treasury Regulation section 1.401(k)–1(d)(3)(iv)(E) to—“(1) delete the 6-month prohibition on contributions imposed by paragraph (2) thereof, and “(2) make any other modifications necessary to carry out the purposes of section 401(k)(2)(B)(i)(IV) of the Internal Revenue Code of 1986. “(b) Effective Date.—The revised regulations under this section shall apply to plan years beginning after December 31, 2018.”
+#### Reports by Secretary
+Pub. L. 117–328, div. T, title I, § 117(i), Dec. 29, 2022, 136 Stat. 5301, provided that: “(1) In general.—The Secretary of the Treasury shall, not later than December 31, 2024, and annually thereafter, report to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate and the Committees on Ways and Means and Education and Labor [now Committee on Education and the Workforce] of the House of Representatives on the data described in paragraph (2), together with any recommendations the Secretary deems appropriate. “(2) Data described.—For purposes of the report required under paragraph (1), the Secretary of the Treasury shall collect data and information on—“(A) the number of plans described in section 408(p) or 401(k)(11) of the Internal Revenue Code of 1986 that are maintained or established during a year; “(B) the number of participants eligible to participate in such plans for such year; “(C) median contribution amounts for the participants described in subparagraph (B); “(D) the types of investments that are most common under such plans; and “(E) the fee levels charged in connection with the maintenance of accounts under such plans. Such data and information shall be collected separately for each type of plan. For purposes of collecting such data, the Secretary of the Treasury may use such data as is otherwise available to the Secretary for publication and may use such approaches as are appropriate under the circumstances, including the use of voluntary surveys and collaboration on studies.”
+
+#### Expansion of Employee Plans Compliance Resolution System
+Pub. L. 117–328, div. T, title III, § 305, Dec. 29, 2022, 136 Stat. 5341, provided that: “(a) In General.—Except as otherwise provided in the Internal Revenue Code of 1986, regulations, or other guidance of general applicability prescribed by the Secretary of the Treasury or the Secretary’s delegate (referred to in this section as the ‘Secretary’), any eligible inadvertent failure to comply with the rules applicable under section 401(a), 403(a), 403(b), 408(p), or 408(k) of such Code may be self-corrected under the Employee Plans Compliance Resolution System (as described in Revenue Procedure 2021–30, or any successor guidance, and hereafter in this section referred to as the ‘EPCRS’), except to the extent that (1) such failure was identified by the Secretary prior to any actions which demonstrate a specific commitment to implement a self-correction with respect to such failure, or (2) the self-correction is not completed within a reasonable period after such failure is identified. For purposes of self-correction of an eligible inadvertent failure, the correction period under section 9.02 of Revenue Procedure 2021–30 (or any successor guidance), except as otherwise provided under such Code, regulations, or other guidance of general applicability prescribed by the Secretary, is indefinite and has no last day, other than with respect to failures identified by the Secretary prior to any actions which demonstrate a specific commitment to implement a self-correction with respect to such failure or with respect to a self-correction that is not completed within a reasonable period, as described in the preceding sentence. “(b) Loan Errors.—In the case of an eligible inadvertent failure relating to a loan from a plan to a participant—“(1) such failure may be self-corrected under subsection (a) according to the rules of section 6.07 of Revenue Procedure 2021–30 (or any successor guidance), including the provisions related to whether a deemed distribution must be reported on Form 1099–R, “(2) the Secretary of Labor shall treat any such failure which is so self-corrected under subsection (a) as meeting the requirements of the Voluntary Fiduciary Correction Program of the Department of Labor if, with respect to the violation of the fiduciary standards of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.], there is a similar loan error eligible for correction under EPCRS and the loan error is corrected in such manner, and “(3) the Secretary of Labor may impose reporting or other procedural requirements with respect to parties that intend to rely on the Voluntary Fiduciary Correction Program for self-corrections described in paragraph (2). “(c) EPCRS for IRAs.—The Secretary shall expand the EPCRS to allow custodians of individual retirement plans (as defined in section 7701(a)(37) of the Internal Revenue Code of 1986) to address eligible inadvertent failures with respect to an individual retirement plan (as so defined), including (but not limited to)—“(1) waivers of the excise tax which would otherwise apply under section 4974 of the Internal Revenue Code of 1986, and “(2) rules permitting a nonspouse beneficiary to return distributions to an inherited individual retirement plan described in section 408(d)(3)(C) of the Internal Revenue Code of 1986 in a case where, due to an inadvertent error by a service provider, the beneficiary had reason to believe that the distribution could be rolled over without inclusion in income of any part of the distributed amount. “(d) Correction Methods for Eligible Inadvertent Failures.—The Secretary shall issue guidance on correction methods that are required to be used to correct eligible inadvertent failures, including general principles of correction if a specific correction method is not specified by the Secretary. “(e) Eligible Inadvertent Failure.—For purposes of this section—“(1) In general.—Except as provided in paragraph (2), the term ‘eligible inadvertent failure’ means a failure that occurs despite the existence of practices and procedures which—“(A) satisfy the standards set forth in section 4.04 of Revenue Procedure 2021–30 (or any successor guidance), or “(B) satisfy similar standards in the case of an individual retirement plan. “(2) Exception.—The term ‘eligible inadvertent failure’ shall not include any failure which is egregious, relates to the diversion or misuse of plan assets, or is directly or indirectly related to an abusive tax avoidance transaction. “(f) Application of Certain Requirements for Correcting Errors.—This section shall not apply to any failure unless the correction of such failure under this section is made in conformity with the general principles that apply to corrections of such failures under the Internal Revenue Code of 1986, including regulations or other guidance issued thereunder and including those principles and corrections set forth in Revenue Procedure 2021–30 (or any successor guidance). “(g) Issuance of Guidance.—The Secretary of the Treasury, or the Secretary’s delegate, shall revise Revenue Procedure 2021–30 (or any successor guidance) to take into account the provisions of this section not later than the date which is 2 years after the date of enactment of this Act [Dec. 29, 2022].”
+
+#### Disclosure to Treasury of Long-Term Care Insurance Products
+Pub. L. 117–328, div. T, title III, § 334(f), Dec. 29, 2022, 136 Stat. 5372, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall issue such forms and guidance as are necessary to collect the filing required by section 401(a)(39)(E)(iii) of the Internal Revenue Code of 1986, as added by this section.”
 
 #### Special Rules for Multiple Employer Plans of Certain Cooperatives
 Pub. L. 109–280, title I, § 104, Aug. 17, 2006, 120 Stat. 816, as amended by Pub. L. 111–192, title II, § 202(b), June 25, 2010, 124 Stat. 1298; Pub. L. 113–97, title I, § 103(b), Apr. 7, 2014, 128 Stat. 1117, provided that: “(a) General Rule.—Except as provided in this section, if a plan in existence on July 26, 2005, was an eligible cooperative plan or an eligible charity plan for its plan year which includes such date, the amendments made by this subtitle [subtitle A (§§ 101 to 108) of title I of Pub. L. 109–280, enacting sections 1082 and 1083 of Title 29, Labor, amending sections 1021, 1023, 1053, 1054, 1056, 1103, 1108, 1132, 1301, 1303, 1310, 1362, 1371, and 1423 of Title 29 and section 106 of 1978 Reorg. Plan No. 4, set out in the Appendix to Title 5, Government Organization and Employees, and as a note under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim), and repealing sections 1057, 1082 to 1086 of Title 29] and subtitle B [subtitle B (§§ 111 to 116) of title I of Pub. L. 109–280, enacting sections 430 and 436 of this title, amending this section and sections 409A, 411, 412, 414, 420, 4971, 4972, and 6059 of this title, and amending provisions set out as a note under [section 412 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-412)] shall not apply to plan years beginning before the earlier of—“(1) the first plan year for which the plan ceases to be an eligible cooperative plan or an eligible charity plan, or “(2) January 1, 2017. “(b) Interest Rate.—In applying section 302(b)(5)(B) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1082(b)(5)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1082/b/5/B&num=0&edition=prelim)] and section 412(b)(5)(B) of the Internal Revenue Code of 1986 (as in effect before the amendments made by this subtitle and subtitle B) to an eligible cooperative plan or an eligible charity plan for plan years beginning after December 31, 2007, and before the first plan year to which such amendments apply, the third segment rate determined under section 303(h)(2)(C)(iii) of such Act [[29 U.S.C. 1083(h)(2)(C)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/C/iii&num=0&edition=prelim)] and section 430(h)(2)(C)(iii) of such Code (as added by such amendments) shall be used in lieu of the interest rate otherwise used. “(c) Eligible Cooperative Plan Defined.—For purposes of this section, a plan shall be treated as an eligible cooperative plan for a plan year if the plan is maintained by more than 1 employer and at least 85 percent of the employers are—“(1) rural cooperatives (as defined in section 401(k)(7)(B) of such Code without regard to clause (iv) thereof), or “(2) organizations which are—“(A) cooperative organizations described in section 1381(a) of such Code which are more than 50-percent owned by agricultural producers or by cooperatives owned by agricultural producers, or “(B) more than 50-percent owned, or controlled by, one or more cooperative organizations described in subparagraph (A). A plan shall also be treated as an eligible cooperative plan for any plan year for which it is described in section 210(a) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1060(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/a&num=0&edition=prelim)] and is maintained by a rural telephone cooperative association described in section 3(40)(B)(v) of such Act [[29 U.S.C. 1002(40)(B)(v)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/40/B/v&num=0&edition=prelim)]. “(d) Eligible Charity Plan Defined.—“(1) In general.—For purposes of this section, a plan shall be treated as an eligible charity plan for a plan year if the plan is maintained by more than one employer (determined without regard to section 414(c) of the Internal Revenue Code) and 100 percent of the employers are described in section 501(c)(3) of such Code. “(2) Election not to be an eligible charity plan.—A plan sponsor may elect for a plan to cease to be treated as an eligible charity plan for plan years beginning after December 31, 2013. Such election shall be made at such time and in such form and manner as shall be prescribed by the Secretary of the Treasury. Any such election may be revoked only with the consent of the Secretary of the Treasury. “(3) Election to use funding options available to other plan sponsors.—“(A) A plan sponsor that makes the election described in paragraph (2) may elect for a plan to apply the rules described in subparagraphs (B), (C), and (D) for plan years beginning after December 31, 2013. Such election shall be made at such time and in such form and manner as shall be prescribed by the Secretary of the Treasury. Any such election may be revoked only with the consent of the Secretary of the Treasury. “(B) Under the rules described in this subparagraph, for the first plan year beginning after December 31, 2013, a plan has—“(i) an 11-year shortfall amortization base, “(ii) a 12-year shortfall amortization base, and “(iii) a 7-year shortfall amortization base. “(C) Under the rules described in this subparagraph, section 303(c)(2)(A) and (B) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(c)(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/2/A&num=0&edition=prelim), (B)], and section 430(c)(2)(A) and (B) of the Internal Revenue Code of 1986 shall be applied by—“(i) in the case of an 11-year shortfall amortization base, substituting ‘11-plan-year period’ for ‘7-plan-year period’ wherever such phrase appears, and “(ii) in the case of a 12-year shortfall amortization base, substituting ‘12-plan-year period’ for ‘7-plan-year period’ wherever such phrase appears. “(D) Under the rules described in this subparagraph, section 303(c)(7) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(c)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/7&num=0&edition=prelim)] and section 430(c)(7) of the Internal Revenue Code of 1986 shall apply to a plan for which an election has been made under subparagraph (A). Such provisions shall apply in the following manner:“(i) The first plan year beginning after December 31, 2013, shall be treated as an election year, and no other plan years shall be so treated. “(ii) All references in section 303(c)(7) of such Act [[29 U.S.C. 1083(c)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/7&num=0&edition=prelim)] and section 430(c)(7) of such Code to ‘February 28, 2010’ or ‘March 1, 2010’ shall be treated as references to ‘February 28, 2013’ or ‘March 1, 2013’, respectively. “(E) For purposes of this paragraph, the 11-year amortization base is an amount, determined for the first plan year beginning after December 31, 2013, equal to the unamortized principal amount of the shortfall amortization base (as defined in section 303(c)(3) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/3&num=0&edition=prelim)] and section 430(c)(3) of the Internal Revenue Code of 1986) that would have applied to the plan for the first plan beginning after December 31, 2009, if—“(i) the plan had never been an eligible charity plan, “(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(c)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/2/D/i&num=0&edition=prelim)] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section 303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect to the shortfall amortization base for the first plan year beginning after December 31, 2009, and “(iii) no event had occurred under paragraph (6) or (7) of section 303(c) of such Act [[29 U.S.C. 1083(c)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/6&num=0&edition=prelim), (7)] or paragraph (6) or (7) of section 430(c) of such Code that, as of the first day of the first plan year beginning after December 31, 2013, would have modified the shortfall amortization base or the shortfall amortization installments with respect to the first plan year beginning after December 31, 2009. “(F) For purposes of this paragraph, the 12-year amortization base is an amount, determined for the first plan year beginning after December 31, 2013, equal to the unamortized principal amount of the shortfall amortization base (as defined in section 303(c)(3) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(c)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/3&num=0&edition=prelim)] and section 430(c)(3) of the Internal Revenue Code of 1986) that would have applied to the plan for the first plan beginning after December 31, 2010, if—“(i) the plan had never been an eligible charity plan, “(ii) the plan sponsor had made the election described in section 303(c)(2)(D)(i) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(c)(2)(D)(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/2/D/i&num=0&edition=prelim)] and in section 430(c)(2)(D)(i) of the Internal Revenue Code of 1986 to have section 303(c)(2)(D)(i) of such Act and section 430(c)(2)(D)(iii) of such Code apply with respect to the shortfall amortization base for the first plan year beginning after December 31, 2010, and “(iii) no event had occurred under paragraph (6) or (7) of section 303(c) of such Act [[29 U.S.C. 1083(c)(6)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/c/6&num=0&edition=prelim), (7)] or paragraph (6) or (7) of section 430(c) of such Code that, as of the first day of the first plan year beginning after December 31, 2013, would have modified the shortfall amortization base or the shortfall amortization installments with respect to the first plan year beginning after December 31, 2010. “(G) For purposes of this paragraph, the 7-year shortfall amortization base is an amount, determined for the first plan year beginning after December 31, 2013, equal to—“(i) the shortfall amortization base for the first plan year beginning after December 31, 2013, without regard to this paragraph, minus “(ii) the sum of the 11-year shortfall amortization base and the 12-year shortfall amortization base. “(4) Retroactive election.—Not later than December 31, 2014, a plan sponsor may make a one-time, irrevocable, retroactive election to not be treated as an eligible charity plan. Such election shall be effective for plan years beginning after December 31, 2007, and shall be made by providing reasonable notice to the Secretary of the Treasury.”
@@ -67974,6 +68890,8 @@ Pub. L. 93–406, title II, § 2006, Sept. 2, 1974, 88 Stat. 992, as amended by 
 
 #### Inflation Adjusted Items for Certain Years
 Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 401, 402, 404, 408, 408A, 409, 414 to 416, 430, 432, 457, and 664 of this title for certain years were contained in the following:
+
+2023—Internal Revenue Notice 2022–55.
 
 2022—Internal Revenue Notice 2021–61.
 
@@ -68172,6 +69090,34 @@ Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 
 
   (B) *Certain trusts treated as beneficiaries* — For purposes of this paragraph, to the extent provided in rules prescribed by the Secretary, a trust maintained for the benefit of one or more designated beneficiaries shall be treated in the same manner as a designated beneficiary.
 
+(12) In the case of an inadvertent benefit overpayment from a plan to which section 414(aa)(1) applies that is transferred to an eligible retirement plan by or on behalf of a participant or beneficiary—
+
+  (A) the portion of such overpayment with respect to which recoupment is not sought on behalf of the plan shall be treated as having been paid in an eligible rollover distribution if the payment would have been an eligible rollover distribution but for being an overpayment, and
+
+  (B) the portion of such overpayment with respect to which recoupment is sought on behalf of the plan shall be permitted to be returned to such plan and in such case shall be treated as an eligible rollover distribution transferred to such plan by the participant or beneficiary who received such overpayment (and the plans making and receiving such transfer shall be treated as permitting such transfer).
+
+(13) **Recontributions of withdrawals for home purchases**
+
+  (A) *General rule*
+
+    (i) *In general* — Any individual who received a qualified distribution may, during the applicable period, make one or more contributions in an aggregate amount not to exceed the amount of such qualified distribution to an eligible retirement plan (as defined in paragraph (8)(B)) of which such individual is a beneficiary and to which a rollover contribution of such distribution could be made under subsection (c) or section 403(a)(4), 403(b)(8), or 408(d)(3), as the case may be.
+
+    (ii) *Treatment of repayments* — Rules similar to the rules of clauses (ii) and (iii) of section 72(t)(11)(C) shall apply for purposes of this subsection.
+
+  (B) *Qualified distribution* — For purposes of this paragraph, the term “qualified distribution” means any distribution—
+
+    (i) described in section 401(k)(2)(B)(i)(IV), 403(b)(7)(A)(i)(V), or 403(b)(11)(B),
+
+    (ii) which was to be used to purchase or construct a principal residence in a qualified disaster area, but which was not so used on account of the qualified disaster with respect to such area, and
+
+    (iii) which was received during the period beginning on the date which is 180 days before the first day of the incident period of such qualified disaster and ending on the date which is 30 days after the last day of such incident period.
+
+  (C) *Definitions* — For purposes of this paragraph—
+
+    (i) the terms “qualified disaster”, “qualified disaster area”, and “incident period” have the meaning given such terms under section 72(t)(11), and
+
+    (ii) the term “applicable period” has the meaning given such term under section 72(t)(8)(F).
+
 **(d) Taxability of beneficiary of certain foreign situs trusts** For purposes of subsections (a), (b), and (c), a stock bonus, pension, or profit-sharing trust which would qualify for exemption from tax under section 501(a) except for the fact that it is a trust created or organized outside the United States shall be treated as if it were a trust exempt from tax under section 501(a).
 
 **(e) Other rules applicable to exempt trusts**
@@ -68266,8 +69212,6 @@ Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 
 
   (B) *Applicable dollar amount* — For purposes of subparagraph (A), the applicable dollar amount is $15,000.
 
-  (C) *Catch-up contributions* — In addition to subparagraph (A), in the case of an eligible participant (as defined in section 414(v)), gross income shall not include elective deferrals in excess of the applicable dollar amount under subparagraph (B) to the extent that the amount of such elective deferrals does not exceed the applicable dollar amount under section 414(v)(2)(B)(i) for the taxable year (without regard to the treatment of the elective deferrals by an applicable employer plan under section 414(v)).
-
 (2) **Distribution of excess deferrals**
 
   (A) *In general* — If any amount (hereinafter in this paragraph referred to as “excess deferrals”) is included in the gross income of an individual under paragraph (1) (or would be included but for the last sentence thereof) for any taxable year—
@@ -68331,9 +69275,11 @@ Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 
 
 (1) **In general** — Except as provided in paragraph (2), contributions made by an employer on behalf of an employee to an individual retirement plan pursuant to a simplified employee pension (as defined in section 408(k))—
 
-  (A) shall not be treated as distributed or made available to the employee or as contributions made by the employee, and
+  (A) shall not be treated as distributed or made available to the employee or as contributions made by the employee,
 
-  (B) if such contributions are made pursuant to an arrangement under section 408(k)(6) under which an employee may elect to have the employer make contributions to the simplified employee pension on behalf of the employee, shall not be treated as distributed or made available or as contributions made by the employee merely because the simplified employee pension includes provisions for such election.
+  (B) if such contributions are made pursuant to an arrangement under section 408(k)(6) under which an employee may elect to have the employer make contributions to the simplified employee pension on behalf of the employee, shall not be treated as distributed or made available or as contributions made by the employee merely because the simplified employee pension includes provisions for such election, and
+
+  (C) in the case of any contributions pursuant to a simplified employer pension which are made to an individual retirement plan designated as a Roth IRA, such contribution shall not be excludable from gross income.
 
 (2) **Limitations on employer contributions** — Contributions made by an employer to a simplified employee pension with respect to an employee for any year shall be treated as distributed or made available to such employee and as contributions made by the employee to the extent such contributions exceed the lesser of—
 
@@ -68341,7 +69287,7 @@ Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 
 
   (B) the limitation in effect under section 415(c)(1)(A), reduced in the case of any highly compensated employee (within the meaning of section 414(q)) by the amount taken into account with respect to such employee under section 408(k)(3)(D).
 
-(3) **Distributions** — Any amount paid or distributed out of an individual retirement plan pursuant to a simplified employee pension shall be included in gross income by the payee or distributee, as the case may be, in accordance with the provisions of section 408(d).
+(3) **Distributions** — Any amount paid or distributed out of an individual retirement plan pursuant to a simplified employee pension shall be included in gross income by the payee or distributee, as the case may be, in accordance with the provisions of section 408(d) (or section 408A(d) in the case of an individual retirement plan designated as a Roth IRA).
 
 **(i) Treatment of self-employed individuals** For purposes of this section, except as otherwise provided in subsection (e)(4)(D)(i), the term “employee” includes a self-employed individual (as defined in section 401(c)(1)(B)) and the employer of such individual shall be the person treated as his employer under section 401(c)(4).
 
@@ -68381,7 +69327,11 @@ Provisions relating to inflation adjustment of items in sections 25B, 45A, 219, 
 
 (5) **Special rules** — For purposes of this subsection—
 
-  (A) *Direct payment to insurer required* — Paragraph (1) shall only apply to a distribution if payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan.
+  (A) *Direct payment to insurer permitted*
+
+    (i) *In general* — Paragraph (1) shall apply to a distribution without regard to whether payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan, or is made to the employee.
+
+    (ii) *Reporting* — In the case of a payment made to the employee as described in clause (i), the employee shall include with the return of tax for the taxable year in which the distribution is made an attestation that the distribution does not exceed the amount paid by the employee for qualified health insurance premiums for such taxable year.
 
   (B) *Related plans treated as 1* — All eligible retirement plans of an employer shall be treated as a single plan.
 
@@ -68406,6 +69356,18 @@ Section 415(c)(4) (as in effect before the enactment of the Economic Growth and 
 Section 1204(9)(A) of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796b(9)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim)), as in effect immediately before the enactment of the National Defense Authorization Act for Fiscal Year 2013, referred to in subsec. (l)(4)(C), means section 1204(9)(A) of Pub. L. 90–351 prior to its amendment by Pub. L. 112–239, div. A, title X, § 1086(b)(1)(E)(v)(I), Jan. 2, 2013, 126 Stat. 1967. Section 1204(9)(A) of Pub. L. 90–351 was classified to [section 3796b(9)(A) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796b/9/A&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as [section 10284(9)(A) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/9/A&num=0&edition=prelim), Crime Control and Law Enforcement. [Section 10284(9)(A) of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10284/9/A&num=0&edition=prelim) was redesignated as section 10284(14)(A) and amended by Pub. L. 117–61, § 3(1), (7)(A), Nov. 18, 2021, 135 Stat. 1475, 1476.
 
 #### Amendments
+2022—Subsec. (c)(12). Pub. L. 117–328, § 301(b)(2), added par. (12).
+
+Subsec. (c)(13). Pub. L. 117–328, § 331(b)(2), added par. (13).
+
+Subsec. (g)(1)(C). Pub. L. 117–328, § 603(b)(1), struck out subpar. (C). Text read as follows: “In addition to subparagraph (A), in the case of an eligible participant (as defined in section 414(v)), gross income shall not include elective deferrals in excess of the applicable dollar amount under subparagraph (B) to the extent that the amount of such elective deferrals does not exceed the applicable dollar amount under section 414(v)(2)(B)(i) for the taxable year (without regard to the treatment of the elective deferrals by an applicable employer plan under section 414(v)).”
+
+Subsec. (h)(1)(C). Pub. L. 117–328, § 601(b)(1), added subpar. (C).
+
+Subsec. (h)(3). Pub. L. 117–328, § 601(b)(2), inserted “(or section 408A(d) in the case of an individual retirement plan designated as a Roth IRA)” before period at end.
+
+Subsec. (l)(5)(A). Pub. L. 117–328, § 328(a), amended subpar. (A) generally. Prior to amendment, text read as follows: “Paragraph (1) shall only apply to a distribution if payment of the premiums is made directly to the provider of the accident or health plan or qualified long-term care insurance contract by deduction from a distribution from the eligible retirement plan.”
+
 2020—Subsec. (c)(4). Pub. L. 116–136 substituted “2020” for “2009” in two places in concluding provisions.
 
 2018—Subsec. (i). Pub. L. 115–141 substituted “subsection (e)(4)(D)(i)” for “subparagraph (A) of subsection (d)(4)”.
@@ -68882,6 +69844,17 @@ Subsecs. (b), (d). Pub. L. 88–272, § 232(e)(2), (3), struck out “except tha
 
 Subsec. (a)(4). Pub. L. 86–437, § 1, added par. (4).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title III, § 301(c), Dec. 29, 2022, 136 Stat. 5338, provided that: “The amendments made by this section [amending this section, [section 414 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-414), and [section 1056 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056&num=0&edition=prelim), Labor] shall apply as of the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 328(b), Dec. 29, 2022, 136 Stat. 5360, provided that: “The amendment made by this section [amending this section] shall apply to distributions made after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Amendment by section 331(b)(2) of Pub. L. 117–328 applicable to recontributions of withdrawals for home purchases with respect to disasters the incident period (as defined in [section 72(t)(11)(F)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72/t/11/F/ii&num=0&edition=prelim)) for which begins on or after the date which is 30 days after Dec. 27, 2020, see section 331(b)(3) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Pub. L. 117–328, div. T, title VI, § 601(e), Dec. 29, 2022, 136 Stat. 5390, provided that: “The amendments made by this section [amending this section and sections 408 and 408A of this title] shall apply to taxable years beginning after December 31, 2022.”
+
+Pub. L. 117–328, div. T, title VI, § 603(c), Dec. 29, 2022, 136 Stat. 5392, provided that: “The amendments made by this section [amending this section and sections 414 and 457 of this title] shall apply to taxable years beginning after December 31, 2023.”
+
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–136 applicable for calendar years beginning after Dec. 31, 2019, with additional provisions relating to plan or contract amendments, see section 2203(c) of Pub. L. 116–136, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -69073,6 +70046,9 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 #### Savings Provision
 For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under [section 45K of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-45k).
 
+#### Certain Actions Before Date of Enactment of Pub. L. 117–328
+Pub. L. 117–328, div. T, title III, § 301(d), Dec. 29, 2022, 136 Stat. 5338, provided that: “Plans, fiduciaries, employers, and plan sponsors are entitled to rely on—“(1) a reasonable good faith interpretation of then existing administrative guidance for inadvertent benefit overpayment recoupments and recoveries that commenced before the date of enactment of this Act [Dec. 29, 2022], and “(2) determinations made before the date of enactment of this Act by the responsible plan fiduciary, in the exercise of its fiduciary discretion, not to seek recoupment or recovery of all or part of an inadvertent benefit overpayment. In the case of a benefit overpayment that occurred prior to the date of enactment of this Act, any installment payments by the participant or beneficiary to the plan or any reduction in periodic benefit payments to the participant or beneficiary, which were made in recoupment of such overpayment and which commenced prior to such date, may continue after such date. Nothing in this subsection shall relieve a fiduciary from responsibility for an overpayment that resulted from a breach of its fiduciary duties.”
+
 #### Clarification of Disqualification Rules Relating to Acceptance of Rollover Contributions
 Pub. L. 105–34, title XV, § 1509, Aug. 5, 1997, 111 Stat. 1068, provided that: “The Secretary of the Treasury or his delegate shall clarify that, under the Internal Revenue Service regulations protecting pension plans from disqualification by reason of the receipt of invalid rollover contributions under section 402(c) of the Internal Revenue Code of 1986, in order for the administrator of the plan receiving any such contribution to reasonably conclude that the contribution is a valid rollover contribution it is not necessary for the distributing plan to have a determination letter with respect to its status as a qualified plan under section 401 of such Code.”
 
@@ -69128,13 +70104,17 @@ Pub. L. 94–267, § 1(d), Apr. 15, 1976, 90 Stat. 367, as amended by Pub. L. 99
 ## § 402A. Optional treatment of elective deferrals as Roth contributions
 **(a) General rule** If an applicable retirement plan includes a qualified Roth contribution program—
 
-(1) any designated Roth contribution made by an employee pursuant to the program shall be treated as an elective deferral for purposes of this chapter, except that such contribution shall not be excludable from gross income, and
+(1) any designated Roth contribution made by an employee pursuant to the program shall be treated as an elective deferral for purposes of this chapter, except that such contribution shall not be excludable from gross income,
 
-(2) such plan (and any arrangement which is part of such plan) shall not be treated as failing to meet any requirement of this chapter solely by reason of including such program.
+(2) any designated Roth contribution which pursuant to the program is made by the employer on the employee’s behalf on account of the employee’s contribution, elective deferral, or (subject to the requirements of section 401(m)(13)) qualified student loan payment shall be treated as a matching contribution for purposes of this chapter, except that such contribution shall not be excludable from gross income,
+
+(3) any designated Roth contribution which pursuant to the program is made by the employer on the employee’s behalf and which is a nonelective contribution shall be nonforfeitable and shall not be excludable from gross income, and
+
+(4) such plan (and any arrangement which is part of such plan) shall not be treated as failing to meet any requirement of this chapter solely by reason of including such program.
 
 **(b) Qualified Roth contribution program** For purposes of this section—
 
-(1) **In general** — The term “qualified Roth contribution program” means a program under which an employee may elect to make designated Roth contributions in lieu of all or a portion of elective deferrals the employee is otherwise eligible to make under the applicable retirement plan.
+(1) **In general** — The term “qualified Roth contribution program” means a program under which an employee may elect to make, or to have made on the employee’s behalf, designated Roth contributions in lieu of all or a portion of elective deferrals the employee is otherwise eligible to make, or of matching contributions or nonelective contributions which may otherwise be made on the employee’s behalf, under the applicable retirement plan.
 
 (2) **Separate accounting required** — A program shall not be treated as a qualified Roth contribution program unless the applicable retirement plan—
 
@@ -69144,7 +70124,7 @@ Pub. L. 94–267, § 1(d), Apr. 15, 1976, 90 Stat. 367, as amended by Pub. L. 99
 
 **(c) Definitions and rules relating to designated Roth contributions** For purposes of this section—
 
-(1) **Designated Roth contribution** — The term “designated Roth contribution” means any elective deferral which—
+(1) **Designated Roth contribution** — The term “designated Roth contribution” means any elective deferral, matching contribution, or nonelective contribution which—
 
   (A) is excludable from gross income of an employee without regard to this section, and
 
@@ -69215,7 +70195,155 @@ Pub. L. 94–267, § 1(d), Apr. 15, 1976, 90 Stat. 367, as amended by Pub. L. 99
 
 (4) **Aggregation rules** — Section 72 shall be applied separately with respect to distributions and payments from a designated Roth account and other distributions and payments from the plan.
 
-**(e) Other definitions** For purposes of this section—
+(5) **Mandatory distribution rules not to apply before death** — Notwithstanding sections 403(b)(10) and 457(d)(2), the following provisions shall not apply to any designated Roth account:
+
+  (A) Section 401(a)(9)(A).
+
+  (B) The incidental death benefit requirements of section 401(a).
+
+**(e) Pension-linked emergency savings accounts**
+
+(1) **In general** — An applicable retirement plan—
+
+  (A) may—
+
+    (i) include a pension-linked emergency savings account established pursuant to section 801 of the Employee Retirement Income Security Act of 1974, which, except as otherwise provided in this subsection, shall be treated for purposes of this title as a designated Roth account, and
+
+    (ii) either—
+
+      (I) offer to enroll an eligible participant in such pension-linked emergency savings account, or
+
+      (II) automatically enroll an eligible participant in such account pursuant to an automatic contribution arrangement described in paragraph (4), and
+
+  (B) shall—
+
+    (i) separately account for contributions to such account and any earnings properly allocable to the contributions,
+
+    (ii) maintain separate recordkeeping with respect to each such account, and
+
+    (iii) allow withdrawals from such account in accordance with paragraph (7).
+
+(2) **Eligible participant**
+
+  (A) *In general* — For purposes of this subsection, the term “eligible participant”, with regard to a defined contribution plan, means an individual, without regard to whether the individual is otherwise a participant in such plan, who—
+
+    (i) meets any age, service, and other eligibility requirements of the plan, and
+
+    (ii) is not a highly compensated employee (as defined in section 414(q)).
+
+  (B) *Eligible participant who becomes a highly compensated employee* — Notwithstanding subparagraph (A)(ii), an individual on whose behalf a pension-linked emergency savings account is established who thereafter becomes a highly compensated employee (as so defined) may not make further contributions to such account, but retains the right to withdraw any account balance of such account in accordance with paragraphs (7) and (8).
+
+(3) **Contribution limitation**
+
+  (A) *In general* — Subject to subparagraph (B), no contribution shall be accepted to a pension-linked emergency savings account to the extent such contribution would cause the portion of the account balance attributable to participant contributions to exceed the lesser of—
+
+    (i) $2,500; or
+
+    (ii) an amount determined by the plan sponsor of the pension-linked emergency savings account.
+    In the case of contributions made in taxable years beginning after December 31, 2024, the Secretary shall adjust the amount under clause (i) at the same time and in the same manner as the adjustment made under section 415(d), except that the base period shall be the calendar quarter beginning July 1, 2023. Any increase under the preceding sentence which is not a multiple of $100 shall be rounded to the next lowest multiple of $100.
+
+  (B) *Excess contributions* — To the extent any contribution to the pension-linked emergency savings account of a participant for a taxable year would exceed the limitation of subparagraph (A)—
+
+    (i) in the case of an eligible participant with another designated Roth account under the defined contribution plan, the plan may provide that—
+
+      (I) the participant may elect to increase the participant’s contribution to such other account, and
+
+      (II) in the absence of such a participant election, the participant is deemed to have elected to increase the participant’s contributions to such account at the rate at which contributions were being made to the pension-linked emergency savings account, and
+
+    (ii) in any other case, such plan shall provide that such excess contributions will not be accepted.
+
+(4) **Automatic contribution arrangement** — For purposes of this section—
+
+  (A) *In general* — An automatic contribution arrangement described in this paragraph is an arrangement under which an eligible participant is treated as having elected to have the plan sponsor make elective contributions to a pension-linked emergency savings account at a participant contribution rate that is not more than 3 percent of the compensation of the eligible participant, unless the eligible participant, at any time (subject to such reasonable advance notice as is required by the plan administrator), affirmatively elects to—
+
+    (i) make contributions at a different rate, or
+
+    (ii) opt out of such contributions.
+
+  (B) *Participant contribution rate* — For purposes of an automatic contribution arrangement described in subparagraph (A), the plan sponsor—
+
+    (i) shall select a participant contribution rate under such automatic contribution arrangement which meets the requirements of subparagraph (A), and
+
+    (ii) may amend such rate (prior to the plan year for which such amendment would take effect) not more than once annually.
+
+(5) **Disclosure by plan sponsor**
+
+  (A) *In general* — With respect to a defined contribution plan which includes a pension-linked emergency savings account, the administrator of the plan shall, not less than 30 days and not more than 90 days prior to the date of the first contribution to the pension-linked emergency savings account, including any contribution under an automatic contribution arrangement described in section 801(d)(2) of the Employee Retirement Income Security Act of 1974, or the date of any adjustment to the participant contribution rate under section 801(d)(2)(B)(ii) of such Act, and not less than annually thereafter, shall furnish to the participant a notice describing—
+
+    (i) the purpose of the account, which is for short-term, emergency savings;
+
+    (ii) the limits on, and tax treatment of, contributions to the pension-linked emergency savings account of the participant;
+
+    (iii) any fees, expenses, restrictions, or charges associated with such pension-linked emergency savings account;
+
+    (iv) procedures for electing to make contributions or opting out of the pension-linked emergency savings account, changing participant contribution rates for such account, and making participant withdrawals from such pension-linked emergency savings account, including any limits on frequency;
+
+    (v) the amount of the intended contribution or the change in the percentage of the compensation of the participant of such contribution, if applicable;
+
+    (vi) the amount in the pension-linked emergency savings account and the amount or percentage of compensation that a participant has contributed to such account;
+
+    (vii) the designated investment option under section 801(c)(1)(A)(iii) of the Employee Retirement Income Security Act of 1974 for amounts contributed to the pension-linked emergency savings account;
+
+    (viii) the options under section 801(e) of such Act for the account balance of the pension-linked emergency savings account after termination of the employment of the participant; and
+
+    (ix) the ability of a participant who becomes a highly compensated employee (as such term is defined in section 414(q)) to, as described in section 801(b)(2) of the Employee Retirement Income Security Act of 1974, withdraw any account balance from a pension-linked emergency savings account and the restriction on the ability of such a participant to make further contributions to the pension-linked emergency savings account.
+
+  (B) *Notice requirements* — A notice furnished to a participant under subparagraph (A) shall be—
+
+    (i) sufficiently accurate and comprehensive to apprise the participant of the rights and obligations of the participant with regard to the pension-linked emergency savings account of the participant; and
+
+    (ii) written in a manner calculated to be understood by the average participant.
+
+  (C) *Consolidated notices* — The required notices under subparagraph (A) may be included with any other notice under the Employee Retirement Income Security Act of 1974, including under section 404(c)(5)(B) or 514(e)(3) of such Act, or under section 401(k)(13)(E) or 414(w)(4), if such other notice is provided to the participant at the time required for such notice.
+
+(6) **Employer matching contributions to a defined contribution plan for employee contributions to a pension-linked emergency savings account**
+
+  (A) *In general* — If an employer makes any matching contributions to a defined contribution plan of which a pension-linked emergency savings account is part, subject to the limitations of paragraph (3), the employer shall make matching contributions on behalf of an eligible participant on account of the participant’s contributions to the pension-linked emergency savings account at the same rate as any other matching contribution on account of an elective contribution by such participant. The matching contributions shall be made to the participant’s account under the defined contribution plan which is not the pension-linked emergency savings account. Such matching contributions on account of contributions to the pension-linked emergency savings account shall not exceed the maximum account balance under paragraph (3)(A) for such plan year.
+
+  (B) *Coordination rule* — For purposes of any applicable limitation on matching contributions, any matching contributions made under the plan shall be treated first as attributable to the elective deferrals of the participant other than contributions to a pension-linked emergency savings account.
+
+  (C) *Matching contributions* — For purposes of subparagraph (A), the term “matching contribution” has the meaning given such term in section 401(m)(4).
+
+(7) **Distributions**
+
+  (A) *In general* — A pension-linked emergency savings account shall allow for withdrawal by the participant on whose behalf the account is established of the account balance, in whole or in part at the discretion of the participant, at least once per calendar month and for distribution of such withdrawal to the participant as soon as practicable after the date on which the participant elects to make such withdrawal.
+
+  (B) *Treatment of distributions* — Any distribution from a pension-linked emergency savings account in accordance with subparagraph (A)—
+
+    (i) shall be treated as a qualified distribution for purposes of subsection (d), and
+
+    (ii) shall be treated as meeting the requirements of sections 401(k)(2)(B)(i), 403(b)(7)(A)(i), 403(b)(11), and 457(d)(1)(A).
+
+(8) **Account balance after termination**
+
+  (A) *In general* — Upon termination of employment of the participant, or termination by the plan sponsor of the pension-linked emergency savings account, the pension-linked emergency savings account of such participant in a defined contribution plan shall—
+
+    (i) allow, at the election of the participant, for transfer by the participant of the account balance of such account, in whole or in part, into another designated Roth account of the participant under the defined contribution plan; and
+
+    (ii) for any amounts in such account not transferred under paragraph (1), make such amounts available within a reasonable time to the participant.
+
+  (B) *Prohibition of certain transfers* — No amounts shall be transferred by the participant from another account of the participant under any plan of the employer into the pension-linked emergency savings account of the participant.
+
+  (C) *Coordination with section 72* — Subparagraph (F) of section 408A(d)(3) shall not apply (including by reason of subsection (c)(4)(D) of this section) to any rollover contribution of amounts in a pension-linked emergency savings account under subparagraph (A).
+
+(9) **Coordination with distribution of excess deferrals** — If any excess deferrals are distributed under section 402(g)(2)(A) to a participant, such amounts shall be distributed first from any pension-linked emergency savings account of the participant to the extent contributions were made to such account for the taxable year.
+
+(10) **Treatment of account balances**
+
+  (A) *In general* — Except as provided in subparagraph (B), a distribution from a pension-linked emergency savings account shall not be treated as an eligible rollover distribution for purposes of sections 401(a)(31), 402(f), and 3405.
+
+  (B) *Termination* — In the case of termination of employment of the participant, or termination by the plan sponsor of the pension-linked emergency savings account, except for purposes of 401(a)(31)(B), a distribution from a pension-linked emergency savings account which is contributed as provided in paragraph (8)(A)(i) shall be treated as an eligible rollover distribution.
+
+(11) **Exception to plan amendment rules** — Notwithstanding section 411(d)(6), a plan which includes a pension-linked emergency savings account may cease to offer such accounts at any time.
+
+(12) **Anti-abuse rules** — A plan of which a pension-linked emergency savings account is part—
+
+  (A) may employ reasonable procedures to limit the frequency or amount of matching contributions with respect to contributions to such account, solely to the extent necessary to prevent manipulation of the rules of the plan to cause matching contributions to exceed the intended amounts or frequency, and
+
+  (B) shall not be required to suspend matching contributions following any participant withdrawal of contributions, including elective deferrals and employee contributions, whether or not matched and whether or not made pursuant to an automatic contribution arrangement described in paragraph (4).
+  The Secretary, in consultation with the Secretary of Labor, shall issue regulations or other guidance not later than 12 months after the date of the enactment of the SECURE 2.0 Act of 2022 with respect to the anti-abuse rules described in the preceding sentence.
+
+**(f) Other definitions** For purposes of this section—
 
 (1) **Applicable retirement plan** — The term “applicable retirement plan” means—
 
@@ -69231,12 +70359,37 @@ Pub. L. 94–267, § 1(d), Apr. 15, 1976, 90 Stat. 367, as amended by Pub. L. 99
 
   (B) any elective deferral of compensation by an individual under an eligible deferred compensation plan (as defined in section 457(b)) of an eligible employer described in section 457(e)(1)(A).
 
+(3) **Matching contribution** — The term “matching contribution” means—
+
+  (A) any matching contribution described in section 401(m)(4)(A), and
+
+  (B) any contribution to an eligible deferred compensation plan (as defined in section 457(b)) by an eligible employer described in section 457(e)(1)(A) on behalf of an employee and on account of such employee’s elective deferral under such plan,
+  but only if such contribution is nonforfeitable at the time received.
+
 ### Statutory Notes
 
 #### References in Text
 Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means [section 403(b)(7)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b/7/A/ii&num=0&edition=prelim) prior to amendment by Pub. L. 116–94, div. O, title I, § 109(c)(2), Dec. 20, 2019, 133 Stat. 3151.
 
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (e)(1)(A)(i), (5)(A), (C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Sections 404, 514, and 801 of the Act are classifed to sections 1104, 1144, and 1193, respectively, of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+
+The date of the enactment of the SECURE 2.0 Act of 2022, referred to in subsec. (e)(12), is the date of enactment of div. T of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328, § 604(a), added pars. (2) and (3) and redesignated former par. (2) as (4).
+
+Subsec. (b)(1). Pub. L. 117–328, § 604(b), inserted “, or to have made on the employee’s behalf,” after “elect to make” and “, or of matching contributions or nonelective contributions which may otherwise be made on the employee’s behalf,” after “otherwise eligible to make”.
+
+Subsec. (c)(1). Pub. L. 117–328, § 604(c), inserted “, matching contribution, or nonelective contribution” after “elective deferral” in introductory provisions.
+
+Subsec. (d)(5). Pub. L. 117–328, § 325(a), added par. (5).
+
+Subsec. (e). Pub. L. 117–328, § 127(e)(1), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 117–328, § 127(e)(1), redesignated subsec. (e) as (f).
+
+Subsec. (f)(3). Pub. L. 117–328, § 604(d), added par. (3).
+
 2014—Subsec. (c)(4)(E)(iii). Pub. L. 113–295 substituted “403(b)(7)(A)(ii)” for “403(b)(7)(A)(i)”.
 
 2013—Subsec. (c)(4)(E). Pub. L. 112–240 added subpar. (E).
@@ -69246,6 +70399,13 @@ Section 403(b)(7)(A)(ii), referred to in subsec. (c)(4)(E)(iii), probably means 
 Subsec. (e)(1)(C). Pub. L. 111–240, § 2111(a), added subpar. (C).
 
 Subsec. (e)(2). Pub. L. 111–240, § 2111(b), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘elective deferral’ means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).”
+
+#### Effective Date of 2022 Amendment
+Amendment by section 127 of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Pub. L. 117–328, div. T, title III, § 325(b), Dec. 29, 2022, 136 Stat. 5359, provided that: “(1) In general.—Except as provided in paragraph (2), the amendment made by this section [amending this section] shall apply to taxable years beginning after December 31, 2023. “(2) Special rule.—The amendment made by this section shall not apply to distributions which are required with respect to years beginning before January 1, 2024, but are permitted to be paid on or after such date.”
+
+Pub. L. 117–328, div. T, title VI, § 604(e), Dec. 29, 2022, 136 Stat. 5393, provided that: “The amendments made by this section [amending this section] shall apply to contributions made after the date of the enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–240, title IX, § 902(b), Jan. 2, 2013, 126 Stat. 2371, provided that: “The amendment made by this section [amending this section] shall apply to transfers after December 31, 2012, in taxable years ending after such date.”
@@ -69257,6 +70417,9 @@ Pub. L. 111–240, title II, § 2112(b), Sept. 27, 2010, 124 Stat. 2566, provide
 
 #### Effective Date
 Section applicable to taxable years beginning after Dec. 31, 2005, see section 617(f) of Pub. L. 107–16, set out as an Effective Date of 2001 Amendment note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
+
+#### Regulatory Authority
+Pub. L. 117–328, div. T, title I, § 127(f), Dec. 29, 2022, 136 Stat. 5329, provided that: “The Secretary of Labor and the Secretary of the Treasury (or a delegate of either such Secretary) shall have authority to issue regulations or other guidance, and to coordinate in developing regulations or other guidance, to carry out the purposes of this Act [div. T of Pub. L. 117–328, see Tables for classification], including— “(1) adjustment of the limitation under section 801(d)(1) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1193(d)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1193/d/1&num=0&edition=prelim)] and section 402A(e)(3) of the Internal Revenue Code of 1986, as added by this Act, to account for inflation; “(2) expansion of corrections programs, if necessary; “(3) model plan language and notices relating to pension-linked emergency savings accounts; and “(4) with regard to interactions with section 401(k)(13) of the Internal Revenue Code of 1986.”
 
 
 <a id="section-403"></a>
@@ -69323,9 +70486,9 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 
 (6) **Repealed. Pub. L. 107–147, title IV, § 411(p)(2), Mar. 9, 2002, 116 Stat. 50]**
 
-(7) **Custodial accounts for regulated investment company stock**
+(7) **Custodial accounts**
 
-  (A) *Amounts paid treated as contributions* — For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—
+  (A) *Amounts paid treated as contributions* — For purposes of this title, amounts paid by an employer described in paragraph (1)(A) to a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as amounts contributed by him for an annuity contract for his employee if the amounts are to be held in that custodial account and are invested in regulated investment company stock or a group trust intended to satisfy the requirements of Internal Revenue Service Revenue Ruling 81–100 (or any successor guidance), and under the custodial account—
 
     (i) no such amounts may be paid or made available to any distributee (unless such amount is a distribution to which section 72(t)(2)(G) applies) before—
 
@@ -69337,7 +70500,7 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 
       (IV) the employee becomes disabled (within the meaning of section 72(m)(7)),
 
-      (V) in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)), the employee encounters financial hardship, or
+      (V) subject to the provisions of paragraph (17), the employee encounters financial hardship, or
 
       (VI) except as may be otherwise provided by regulations, with respect to amounts invested in a lifetime income investment (as defined in section 401(a)(38)(B)(ii)), the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
 
@@ -69346,6 +70509,13 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
   (B) *Account treated as plan* — For purposes of this title, a custodial account which satisfies the requirements of section 401(f)(2) shall be treated as an organization described in section 401(a) solely for purposes of subchapter F and subtitle F with respect to amounts received by it (and income from investment thereof).
 
   (C) *Regulated investment company* — For purposes of this paragraph, the term “regulated investment company” means a domestic corporation which is a regulated investment company within the meaning of section 851(a).
+
+  (D) *Employee certification* — In determining whether a distribution is upon the financial hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is—
+
+    (i) on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need, and
+
+    (ii) not in excess of the amount required to satisfy such financial need, and
+    that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee’s certification, and for procedures for addressing cases of employee misrepresentation.
 
 (8) **Rollover amounts**
 
@@ -69376,7 +70546,7 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 
   (A) when the employee attains age 59½, has a severance from employment, dies, or becomes disabled (within the meaning of section 72(m)(7)),
 
-  (B) in the case of hardship,
+  (B) subject to the provisions of paragraph (17), in the case of hardship,
 
   (C) for distributions to which section 72(t)(2)(G) applies, or
 
@@ -69385,7 +70555,7 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
     (i) on or after the date that is 90 days prior to the date that such lifetime income investment may no longer be held as an investment option under the contract, and
 
     (ii) in the form of a qualified distribution (as defined in section 401(a)(38)(B)(i)) or a qualified plan distribution annuity contract (as defined in section 401(a)(38)(B)(iv)).
-  Such contract may not provide for the distribution of any income attributable to such contributions in the case of hardship.
+  In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need and is not in excess of the amount required to satisfy such financial need, and that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee’s certification, and for procedures for addressing cases of employee misrepresentation.
 
 (12) **Nondiscrimination requirements**
 
@@ -69394,7 +70564,7 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
     (i) with respect to contributions not made pursuant to a salary reduction agreement, such plan meets the requirements of paragraphs (4), (5), (17), and (26) of section 401(a), section 401(m), and section 410(b) in the same manner as if such plan were described in section 401(a), and
 
     (ii) all employees of the organization may elect to have the employer make contributions of more than $200 pursuant to a salary reduction agreement if any employee of the organization may elect to have the organization make contributions for such contracts pursuant to such agreement.
-    For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or a qualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4), there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week.
+    For purposes of clause (i), a contribution shall be treated as not made pursuant to a salary reduction agreement if under the agreement it is made pursuant to a 1-time irrevocable election made by the employee at the time of initial eligibility to participate in the agreement or is made pursuant to a similar arrangement involving a one-time irrevocable election specified in regulations. For purposes of clause (ii), there may be excluded any employee who is a participant in an eligible deferred compensation plan (within the meaning of section 457) or a qualified cash or deferred arrangement of the organization or another annuity contract described in this subsection. Any nonresident alien described in section 410(b)(3)(C) may also be excluded. Subject to the conditions applicable under section 410(b)(4), there may be excluded for purposes of this subparagraph employees who are students performing services described in section 3121(b)(10) and employees who normally work less than 20 hours per week. The fact that the employer offers matching contributions on account of qualified student loan payments as described in section 401(m)(13) shall not be taken into account in determining whether the arrangement satisfies the requirements of clause (ii) (and any regulation thereunder).11 As to preceding sentence, see Effective Date of 2022 Amendment note below for section 110(e) of Pub. L. 117–328. A plan shall not fail to satisfy clause (ii) solely by reason of offering a de minimis financial incentive (not derived from plan assets) to employees to elect to have the employer make contributions pursuant to a salary reduction agreement.
 
   (B) *Church* — For purposes of paragraph (1)(D), the term “church” has the meaning given to such term by section 3121(w)(3)(A). Such term shall include any qualified church-controlled organization (as defined in section 3121(w)(3)(B)).
 
@@ -69408,11 +70578,154 @@ Section applicable to taxable years beginning after Dec. 31, 2005, see section 6
 
 (14) **Death benefits under USERRA-qualified active military service** — This subsection shall not apply to an annuity contract unless such contract meets the requirements of section 401(a)(37).
 
+(15) **Multiple employer plans**
+
+  (A) *In general* — Except in the case of a church plan, this subsection shall not be treated as failing to apply to an annuity contract solely by reason of such contract being purchased under a plan maintained by more than 1 employer.
+
+  (B) *Treatment of employers failing to meet requirements of plan*
+
+    (i) *In general* — In the case of a plan maintained by more than 1 employer, this subsection shall not be treated as failing to apply to an annuity contract held under such plan merely because of one or more employers failing to meet the requirements of this subsection if such plan satisfies rules similar to the rules of section 413(e)(2) with respect to any such employer failure.
+
+    (ii) *Additional requirements in case of non-governmental plans* — A plan shall not be treated as meeting the requirements of this subparagraph unless the plan satisfies rules similar to the rules of subparagraph (A) or (B) of section 413(e)(1), except in the case of a multiple employer plan maintained solely by any of the following: A State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing.
+
+(16) **Safe harbor deferral-only plans for employers with no retirement plan**
+
+  (A) *In general* — A safe harbor deferral-only plan maintained by an eligible employer shall be treated as meeting the requirements of paragraph (12).
+
+  (B) *Safe harbor deferral-only plan* — For purposes of this paragraph, the term “safe harbor deferral-only plan” means any plan which meets—
+
+    (i) the automatic deferral requirements of subparagraph (C),
+
+    (ii) the contribution limitations of subparagraph (D), and
+
+    (iii) the requirements of subparagraph (E) of section 401(k)(13).
+
+  (C) *Automatic deferral*
+
+    (i) *In general* — The requirements of this subparagraph are met if, under the plan, each eligible employee is treated as having elected to have the employer make elective contributions in an amount equal to a qualified percentage of compensation.
+
+    (ii) *Election out* — The election treated as having been made under clause (i) shall cease to apply with respect to any eligible employee if such eligible employee makes an affirmative election—
+
+      (I) to not have such contributions made, or
+
+      (II) to make elective contributions at a level specified in such affirmative election.
+
+    (iii) *Qualified percentage* — For purposes of this subparagraph, the term “qualified percentage” means, with respect to any employee, any percentage determined under the plan if such percentage is applied uniformly and is not less than 3 or more than 15 percent.
+
+  (D) *Contribution limitations*
+
+    (i) *In general* — The requirements of this subparagraph are met if, under the plan—
+
+      (I) the only contributions which may be made are elective contributions of eligible employees, and
+
+      (II) the aggregate amount of such elective contributions which may be made with respect to any employee for any calendar year shall not exceed $6,000.
+
+    (ii) *Cost-of-living adjustment* — In the case of any calendar year beginning after December 31, 2024, the $6,000 amount under clause (i) shall be adjusted in the same manner as under section 402(g)(4), except that “2023” shall be substituted for “2005”.
+
+    (iii) *Catch-up contributions for individuals age 50 or over* — In the case of an individual who has attained the age of 50 before the close of the taxable year, the limitation under clause (i)(II) shall be increased by the applicable amount determined under section 219(b)(5)(B)(ii) (after the application of section 219(b)(5)(C)(iii)).
+
+  (E) *Eligible employer* — For purposes of this paragraph—
+
+    (i) *In general* — The term “eligible employer” means any employer if the employer does not maintain a qualified plan with respect to which contributions are made, or benefits are accrued, for service in the year for which the determination is being made. If only individuals other than employees described in subparagraph (A) of section 410(b)(3) are eligible to participate in such arrangement, then the preceding sentence shall be applied without regard to any qualified plan in which only employees described in such subparagraph are eligible to participate.
+
+    (ii) *Relief for acquisitions, etc.* — Rules similar to the rules of section 408(p)(10) shall apply for purposes of clause (i).
+
+    (iii) *Qualified plan* — The term “qualified plan” means a plan, contract, pension, account, or trust described in subparagraph (A) or (B) of paragraph (5) of section 219(g) (determined without regard to the last sentence of such paragraph (5)).
+
+  (F) *Eligible employee* — For purposes of this paragraph, the term “eligible employee” means any employee of the employer other than an employee who is permitted to be excluded under paragraph (12)(A).
+
+(17) **Special rules relating to hardship withdrawals** — For purposes of paragraphs (7) and (11)—
+
+  (A) *Amounts which may be withdrawn* — The following amounts may be distributed upon hardship of the employee:
+
+    (i) Contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D)).
+
+    (ii) Qualified nonelective contributions (as defined in section 401(m)(4)(C)).
+
+    (iii) Qualified matching contributions described in section 401(k)(3)(D)(ii)(I).
+
+    (iv) Earnings on any contributions described in clause (i), (ii), or (iii).
+
+  (B) *No requirement to take available loan* — A distribution shall not be treated as failing to be made upon the hardship of an employee solely because the employee does not take any available loan under the plan.
+
 **(c) Taxability of beneficiary under nonqualified annuities or under annuities purchased by exempt organizations** Premiums paid by an employer for an annuity contract which is not subject to subsection (a) shall be included in the gross income of the employee in accordance with section 83 (relating to property transferred in connection with performance of services), except that the value of such contract shall be substituted for the fair market value of the property for purposes of applying such section. The preceding sentence shall not apply to that portion of the premiums paid which is excluded from gross income under subsection (b). In the case of any portion of any contract which is attributable to premiums to which this subsection applies, the amount actually paid or made available under such contract to any beneficiary which is attributable to such premiums shall be taxable to the beneficiary (in the year in which so paid or made available) under section 72 (relating to annuities).
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–328, div. T, title I, § 125(a)(2)(A), (B)(i), (f)(1), Dec. 29, 2022, 136 Stat. 5314–5316, provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (b)(12) of this section is amended as follows:
+
+(1) in the last sentence of subparagraph (A), by inserting “and section 202(c) of the Employee Retirement Income Security Act of 1974” after “under section 410(b)(4)”; and
+
+(2) by adding at the end the following new subparagraph:
+
+“(D) Rules relating to certain part-time employees
+
+“(i) In general
+
+“In the case of employees who are eligible to participate in the agreement solely by reason of section 202(c)(1)(B) of the Employee Retirement Income Security Act of 1974—
+
+“(I) notwithstanding section 401(a)(4), an employer shall not be required to make nonelective or matching contributions on behalf of such employees even if such contributions are made on behalf of other employees eligible to participate in the plan, and
+
+“(II) the employer may elect to exclude such employees from the application of subsections (a)(4), (k)(3), (k)(12), (k)(13), and (m)(2) of section 401 and section 410(b).”
+
+See 2022 Amendment notes below.
+
+Pub. L. 117–328, div. T, title III, § 334(b)(2)–(4), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, this section is amended as follows:
+
+(1) in subsection (a), by adding at the end the following new paragraph:
+
+(6) Qualified long-term care distributions
+
+“An annuity contract shall not fail to be subject to this subsection solely by reason of allowing distributions to which section 401(a)(39) applies.”; and
+
+(2) in subsection (b)—
+
+(A) in paragraph (7)(A)(i), by striking “or” at the end of subclause (V), by striking “and” at the end of subclause (VI) and inserting “or”, and by adding at the end the following new subclause:
+
+“(VII) as provided for distributions to which section 401(a)(39) applies, and”; and
+
+(B) in paragraph (11), by striking “or” at the end of subparagraph (C), by striking the period at the end of subparagraph (D) and inserting “, or”, and by inserting after subparagraph (D) the following new subparagraph:
+
+“(E) for distributions to which section 401(a)(39) applies.”
+
+See 2022 Amendment notes below.
+
 #### Amendments
+2022—Subsec. (a)(6). Pub. L. 117–328, § 334(b)(2), added par. (6).
+
+Subsec. (b)(7). Pub. L. 117–328, § 128(b), struck out “for regulated investment company stock” after “Custodial accounts” in heading.
+
+Subsec. (b)(7)(A). Pub. L. 117–328, § 128(a), in introductory provisions, substituted “if the amounts are to be held in that custodial account and are invested in regulated investment company stock or a group trust intended to satisfy the requirements of Internal Revenue Service Revenue Ruling 81–100 (or any successor guidance)” for “if the amounts are to be invested in regulated investment company stock to be held in that custodial account”.
+
+Subsec. (b)(7)(A)(i)(V). Pub. L. 117–328, § 602(b)(1), substituted “subject to the provisions of paragraph (17)” for “in the case of contributions made pursuant to a salary reduction agreement (within the meaning of section 3121(a)(5)(D))”.
+
+Subsec. (b)(7)(A)(i)(VII). Pub. L. 117–328, § 334(b)(3), added subcl. (VII).
+
+Subsec. (b)(7)(D). Pub. L. 117–328, § 312(b)(1), added subpar. (D).
+
+Subsec. (b)(11). Pub. L. 117–328, § 602(b)(2)(B), in concluding provisions, struck out “Such contract may not provide for the distribution of any income attributable to such contributions in the case of hardship.” before “In determining”.
+
+Pub. L. 117–328, § 312(b)(2), in concluding provisions, inserted at end “In determining whether a distribution is upon hardship of an employee, the administrator of the plan may rely on a written certification by the employee that the distribution is on account of a financial need of a type which is deemed in regulations prescribed by the Secretary to be an immediate and heavy financial need and is not in excess of the amount required to satisfy such financial need, and that the employee has no alternative means reasonably available to satisfy such financial need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the employee’s certification, and for procedures for addressing cases of employee misrepresentation.”
+
+Subsec. (b)(11)(B). Pub. L. 117–328, § 602(b)(2)(A), substituted “subject to the provisions of paragraph (17), in” for “in”.
+
+Subsec. (b)(11)(E). Pub. L. 117–328, § 334(b)(4), added subpar. (E).
+
+Subsec. (b)(12)(A). Pub. L. 117–328, § 125(a)(2)(B)(i), which directed that the “last sentence” of subpar. (A) be amended by inserting “and section 202(c) of the Employee Retirement Income Security Act of 1974” after “under section 410(b)(4)”, was executed by making the insertion after “under section 410(b)(4)” in what had been the last sentence of concluding provisions prior to amendments by Pub. L. 117–328, §§ 110(e), 113(b), to reflect the probable intent of Congress. See notes below.
+
+Pub. L. 117–328, § 113(b), in concluding provisions, inserted at end “A plan shall not fail to satisfy clause (ii) solely by reason of offering a de minimis financial incentive (not derived from plan assets) to employees to elect to have the employer make contributions pursuant to a salary reduction agreement.”
+
+Pub. L. 117–328, § 110(e), in concluding provisions, inserted at end “The fact that the employer offers matching contributions on account of qualified student loan payments as described in section 401(m)(13) shall not be taken into account in determining whether the arrangement satisfies the requirements of clause (ii) (and any regulation thereunder).”
+
+Subsec. (b)(12)(D). Pub. L. 117–328, § 125(a)(2)(A), added subpar. (D).
+
+Subsec. (b)(15). Pub. L. 117–328, § 106(a), added par. (15).
+
+Subsec. (b)(16). Pub. L. 117–328, § 121(b), added par. (16).
+
+Subsec. (b)(17). Pub. L. 117–328, § 602(a), added par. (17).
+
 2019—Subsec. (b)(7)(A). Pub. L. 116–94, § 109(c)(2), substituted “if the amounts are to be invested in regulated investment company stock to be held in that custodial account, and under the custodial account—” for “if—” and cls. (i) and (ii) for former cls. (i) and (ii) which read as follows:
 
 “(i) the amounts are to be invested in regulated investment company stock to be held in that custodial account, and
@@ -69645,6 +70958,25 @@ Subsec. (b)(3). Pub. L. 87–370, § (3)(a)(2), substituted “the employer desc
 
 Subsecs. (b) to (d). Pub. L. 85–866, § 23(a), added subsec. (b), redesignated former subsec. (b) as (c), and added subsec. (d).
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 106(h)(1), Dec. 29, 2022, 136 Stat. 5289, provided that: “The amendments made by this section [amending this section, sections 6057 and 6058 of this title, and [section 1002 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002&num=0&edition=prelim), Labor] shall apply to plan years beginning after December 31, 2022.”
+
+Amendment by section 110(e) of Pub. L. 117–328 applicable to contributions made for plan years beginning after Dec. 31, 2023, see section 110(h) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 113(b) of Pub. L. 117–328 applicable with respect to plan years beginning after Dec. 29, 2022, see section 113(e) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 121(b) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 121(d) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 125(a)(2)(A), (B)(i) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2024, see section 125(f)(1) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 117–328, div. T, title I, § 128(c), Dec. 29, 2022, 136 Stat. 5330, provided that: “The amendments made by this section [amending this section] shall apply to amounts invested after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Amendment by section 312(b) of Pub. L. 117–328 applicable to plan years beginning after Dec. 29, 2022, see section 312(d) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 334(b)(2)–(4) of Pub. L. 117–328 applicable to distributions made after the date which is 3 years after Dec. 29, 2022, see section 334(e) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Pub. L. 117–328, div. T, title VI, § 602(c), Dec. 29, 2022, 136 Stat. 5391, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2023.”
+
 #### Effective Date of 2019 Amendment
 Amendment by section 109(c) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 109(e) of Pub. L. 116–94, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -69791,7 +71123,15 @@ Pub. L. 87–370, § 3(b), Oct. 4, 1961, 75 Stat. 801, provided that: “The ame
 Pub. L. 85–866, § 23(g), Sept. 2, 1958, 72 Stat. 1623, provided that: “The amendments made by subsections (a), (b), (c), and (d) [amending this section and [section 101 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-101)] shall apply with respect to taxable years beginning after December 31, 1957. The amendments made by subsection (e) [amending [section 2039 of this title](./chapter-011-estate-tax.md#section-2039)] shall apply with respect to estates of decedents dying after December 31, 1957. The amendments made by subsection (f) [amending [section 2517 of this title](./chapter-012-gift-tax.md#section-2517)] shall apply with respect to calendar years after 1957.”
 
 #### Regulations
+Pub. L. 117–328, div. T, title I, § 106(e), Dec. 29, 2022, 136 Stat. 5288, provided that: “The Secretary of the Treasury (or the Secretary’s delegate) shall prescribe such regulations as may be necessary to clarify, in the case of plans to which section 403(b)(15) of the Internal Revenue Code of 1986 applies, the treatment of an employer departing such plan in connection with such employer’s failure to meet multiple employer plan requirements.”
+
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by section 1120 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+#### Rule of Construction
+Pub. L. 117–328, div. T, title I, § 106(h)(2), Dec. 29, 2022, 136 Stat. 5289, provided that: “Nothing in the amendments made by subsection (a) [amending this section] shall be construed as limiting the authority of the Secretary of the Treasury or the Secretary’s delegate (determined without regard to such amendment) to provide for the proper treatment of a failure to meet any requirement applicable under the Internal Revenue Code of 1986 with respect to one employer (and its employees) in the case of a plan to which section 403(b)(15) of the Internal Revenue Code of 1986 applies.”
+
+#### No Inference With Respect to Church Plans
+Pub. L. 117–328, div. T, title I, § 106(g), Dec. 29, 2022, 136 Stat. 5288, provided that: “Regarding any application of section 403(b) of the Internal Revenue Code of 1986 to an annuity contract purchased under a church plan (as defined in section 414(e) of such Code) maintained by more than 1 employer, or to any application of rules similar to section 413(e) of such Code to such a plan, no inference shall be made from section 403(b)(15)(A) of such Code (as added by this Act [div. T of Pub. L. 117–328]) not applying to such plans.”
 
 #### Treatment of Custodial Accounts on Termination of Section 403(b) Plans
 Pub. L. 116–94, div. O, title I, § 110, Dec. 20, 2019, 133 Stat. 3152, provided that: “Not later than six months after the date of enactment of this Act [Dec. 20, 2019], the Secretary of the Treasury shall issue guidance to provide that, if an employer terminates the plan under which amounts are contributed to a custodial account under subparagraph (A) of section 403(b)(7), the plan administrator or custodian may distribute an individual custodial account in kind to a participant or beneficiary of the plan and the distributed custodial account shall be maintained by the custodian on a tax-deferred basis as a section 403(b)(7) custodial account, similar to the treatment of fully-paid individual annuity contracts under Revenue Ruling 2011–7, until amounts are actually paid to the participant or beneficiary. The guidance shall provide further (i) that the section 403(b)(7) status of the distributed custodial account is generally maintained if the custodial account thereafter adheres to the requirements of section 403(b) that are in effect at the time of the distribution of the account and (ii) that a custodial account would not be considered distributed to the participant or beneficiary if the employer has any material retained rights under the account (but the employer would not be treated as retaining material rights simply because the custodial account was originally opened under a group contract). Such guidance shall be retroactively effective for taxable years beginning after December 31, 2008.”
@@ -70167,13 +71507,13 @@ Section 277 (relating to deductions incurred by certain membership organizations
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### References in Text
-The Social Security Act, referred to in subsec. (a)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (a)(1)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 401(a)(17), referred to in subsec. (a)(2), was repealed by Pub. L. 97–248, title II, § 237(b), Sept. 3, 1982, 96 Stat. 511. A new section 401(a)(17) was added by Pub. L. 99–514, title XI, § 1106(d)(1), Oct. 22, 1986, 100 Stat. 2423.
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (a)(3)(A)(v)(II), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(1)(D)(iv), (7)(C)(iv), (g)(1), (3)(B), (C), (4), and (o)(3)(B)(ii), (5), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 4021, 4022, 4041, 4062, 4063, and 4064 of the Employee Retirement Income Security Act of 1974 are classified to sections 1321, 1322, 1341, 1362, 1363, and 1364, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (a)(1)(D)(iv), (7)(C)(iv), (g)(1), (3)(B), (C), (4), and (o)(3)(B)(ii), (5), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Part 1 of subtitle E of title IV of the Employee Retirement Income Security Act of 1974 is classified generally to part 1 (§ 1381 et seq.) of subtitle E of subchapter III of chapter 18 of Title 29. Sections 4021, 4022, 4041, 4062, 4063, and 4064 of the Employee Retirement Income Security Act of 1974 are classified to sections 1321, 1322, 1341, 1362, 1363, and 1364, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The date of the enactment of the Retirement Protection Act of 1994, referred to in subsec. (g)(4), is the date of enactment of subtitle F (§§ 750–781) of title VII of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
@@ -71210,7 +72550,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 (3) Under regulations prescribed by the Secretary, rules similar to the rules of section 401(a)(9) and the incidental death benefit requirements of section 401(a) shall apply to the distribution of the entire interest of the owner.
 
 (4) The entire interest of the owner is nonforfeitable.
-Such term does not include such an annuity contract for any taxable year of the owner in which it is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains age 72; if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed the dollar amount in effect under section 219(b)(1)(A).
+Such term does not include such an annuity contract for any taxable year of the owner in which it is disqualified on the application of subsection (e) or for any subsequent taxable year. For purposes of this subsection, no contract shall be treated as an endowment contract if it matures later than the taxable year in which the individual in whose name such contract is purchased attains the applicable age (determined under section 401(a)(9)(C)(v) for the calendar year in which such taxable year begins); if it is not for the exclusive benefit of the individual in whose name it is purchased or his beneficiaries; or if the aggregate annual premiums under all such contracts purchased in the name of such individual for any taxable year exceed the dollar amount in effect under section 219(b)(1)(A).
 
 **(c) Accounts established by employers and certain associations of employees** A trust created or organized in the United States by an employer for the exclusive benefit of his employees or their beneficiaries, or by an association of employees (which may include employees within the meaning of section 401(c)(1)) for the exclusive benefit of its members or their beneficiaries, shall be treated as an individual retirement account (described in subsection (a)), but only if the written governing instrument creating the trust meets the following requirements:
 
@@ -71269,7 +72609,7 @@ The assets of the trust may be held in a common fund for the account of all indi
 
   (F) *Frozen deposits* — For purposes of this paragraph, rules similar to the rules of section 402(c)(7) (relating to frozen deposits) shall apply.
 
-  (G) *Simple retirement accounts* — In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
+  (G) *Simple retirement accounts* — In the case of any payment or distribution out of a simple retirement account (as defined in subsection (p)) to which section 72(t)(6)(A) applies, this paragraph shall not apply unless such payment or distribution is paid into another simple retirement account.
 
   (H) *Application of section 72*
 
@@ -71345,6 +72685,52 @@ The assets of the trust may be held in a common fund for the account of all indi
 
   (E) *Denial of deduction* — Qualified charitable distributions which are not includible in gross income pursuant to subparagraph (A) shall not be taken into account in determining the deduction under section 170.
 
+  (F) *One-time election for qualified charitable distribution to split-interest entity*
+
+    (i) *In general* — A taxpayer may for a taxable year elect under this subparagraph to treat as meeting the requirement of subparagraph (B)(i) any distribution from an individual retirement account which is made directly by the trustee to a split-interest entity, but only if—
+
+      (I) an election is not in effect under this subparagraph for a preceding taxable year,
+
+      (II) the aggregate amount of distributions of the taxpayer with respect to which an election under this subparagraph is made does not exceed $50,000, and
+
+      (III) such distribution meets the requirements of clauses (iii) and (iv).
+
+    (ii) *Split-interest entity* — For purposes of this subparagraph, the term “split-interest entity” means—
+
+      (I) a charitable remainder annuity trust (as defined in section 664(d)(1)), but only if such trust is funded exclusively by qualified charitable distributions,
+
+      (II) a charitable remainder unitrust (as defined in section 664(d)(2)), but only if such unitrust is funded exclusively by qualified charitable distributions, or
+
+      (III) a charitable gift annuity (as defined in section 501(m)(5)), but only if such annuity is funded exclusively by qualified charitable distributions and commences fixed payments of 5 percent or greater not later than 1 year from the date of funding.
+
+    (iii) *Contributions must be otherwise deductible* — A distribution meets the requirements of this clause only if—
+
+      (I) in the case of a distribution to a charitable remainder annuity trust or a charitable remainder unitrust, a deduction for the entire value of the remainder interest in the distribution for the benefit of a specified charitable organization would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph), and
+
+      (II) in the case of a charitable gift annuity, a deduction in an amount equal to the amount of the distribution reduced by the value of the annuity described in section 501(m)(5)(B) would be allowable under section 170 (determined without regard to subsection (b) thereof and this paragraph).
+
+    (iv) *Limitation on income interests* — A distribution meets the requirements of this clause only if—
+
+      (I) no person holds an income interest in the split-interest entity other than the individual for whose benefit such account is maintained, the spouse of such individual, or both, and
+
+      (II) the income interest in the split-interest entity is nonassignable.
+
+    (v) *Special rules*
+
+      (I) *Charitable remainder trusts* — Notwithstanding section 664(b), distributions made from a trust described in subclause (I) or (II) of clause (ii) shall be treated as ordinary income in the hands of the beneficiary to whom the annuity described in section 664(d)(1)(A) or the payment described in section 664(d)(2)(A) is paid.
+
+      (II) *Charitable gift annuities* — Qualified charitable distributions made to fund a charitable gift annuity shall not be treated as an investment in the contract for purposes of section 72(c).
+
+  (G) *Inflation adjustment*
+
+    (i) *In general* — In the case of any taxable year beginning after 2023, each of the dollar amounts in subparagraphs (A) and (F) shall be increased by an amount equal to—
+
+      (I) such dollar amount, multiplied by
+
+      (II) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2022” for “calendar year 2016” in subparagraph (A)(ii) thereof.
+
+    (ii) *Rounding* — If any dollar amount increased under clause (i) is not a multiple of $1,000, such dollar amount shall be rounded to the nearest multiple of $1,000.
+
 (9) **Distribution for health savings account funding**
 
   (A) *In general* — In the case of an individual who is an eligible individual (as defined in section 223(c)) and who elects the application of this paragraph for a taxable year, gross income of the individual for the taxable year does not include a qualified HSA funding distribution to the extent such distribution is otherwise includible in gross income.
@@ -71387,9 +72773,11 @@ The assets of the trust may be held in a common fund for the account of all indi
 
   (A) *In general* — If, during any taxable year of the individual for whose benefit any individual retirement account is established, that individual or his beneficiary engages in any transaction prohibited by section 4975 with respect to such account, such account ceases to be an individual retirement account as of the first day of such taxable year. For purposes of this paragraph—
 
-    (i) the individual for whose benefit any account was established is treated as the creator of such account, and
+    (i) the individual for whose benefit any account was established is treated as the creator of such account,
 
-    (ii) the separate account for any individual within an individual retirement account maintained by an employer or association of employees is treated as a separate individual retirement account.
+    (ii) the separate account for any individual within an individual retirement account maintained by an employer or association of employees is treated as a separate individual retirement account, and
+
+    (iii) each individual retirement plan of the individual shall be treated as a separate contract.
 
   (B) *Account treated as distributing all its assets* — In any case in which any account ceases to be an individual retirement account by reason of subparagraph (A) as of the first day of any taxable year, paragraph (1) of subsection (d) applies as if there were a distribution on such first day in an amount equal to the fair market value (on such first day) of all assets in the account (on such first day).
 
@@ -71513,7 +72901,9 @@ In the case of a simple retirement account under subsection (p), only one report
 
   (H) *Termination* — This paragraph shall not apply to years beginning after December 31, 1996. The preceding sentence shall not apply to a simplified employee pension of an employer if the terms of simplified employee pensions of such employer, as in effect on December 31, 1996, provide that an employee may make the election described in subparagraph (A).
 
-(7) **Definitions** — For purposes of this subsection and subsection (l)—
+(7) **Roth contribution election** — An individual retirement plan which is designated as a Roth IRA shall not be treated as a simplified employee pension under this subsection unless the employee elects for such plan to be so treated (at such time and in such manner as the Secretary may provide).
+
+(8) **Definitions** — For purposes of this subsection and subsection (l)—
 
   (A) *Employee, employer, or owner-employee* — The terms “employee”, “employer”, and “owner-employee” shall have the respective meanings given such terms by section 401(c).
 
@@ -71525,9 +72915,9 @@ In the case of a simple retirement account under subsection (p), only one report
 
     (ii) if the employer elects, subject to such terms and conditions as the Secretary may prescribe, to maintain the simplified employee pension on the basis of the employer’s taxable year.
 
-(8) **Cost-of-living adjustment** — The Secretary shall adjust the $450 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B); except that any increase in the $450 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
+(9) **Cost-of-living adjustment** — The Secretary shall adjust the $450 amount in paragraph (2)(C) at the same time and in the same manner as under section 415(d) and shall adjust the $200,000 amount in paragraphs (3)(C) and (6)(D)(ii) at the same time, and by the same amount, as any adjustment under section 401(a)(17)(B); except that any increase in the $450 amount which is not a multiple of $50 shall be rounded to the next lowest multiple of $50.
 
-(9) **Cross reference** — For excise tax on certain excess contributions, see section 4979.
+(10) **Cross reference** — For excise tax on certain excess contributions, see section 4979.
 
 **(l) Simplified employer reports**
 
@@ -71647,7 +73037,7 @@ In the case of a simple retirement account under subsection (p), only one report
 
 (5) **Special rule for difficulty of care payments excluded from gross income** — In the case of an individual who for a taxable year excludes from gross income under section 131 a qualified foster care payment which is a difficulty of care payment, if—
 
-  (A) the deductible amount in effect for the taxable year under subsection (b), exceeds
+  (A) the deductible amount in effect for the taxable year under section 219(b), exceeds
 
   (B) the amount of compensation includible in the individual’s gross income for the taxable year,
   the individual may elect to increase the nondeductible limit under paragraph (2) for the taxable year by an amount equal to the lesser of such excess or the amount so excluded.
@@ -71672,15 +73062,20 @@ In the case of a simple retirement account under subsection (p), only one report
 
     (ii) the amount which an employee may elect under clause (i) for any year is required to be expressed as a percentage of compensation and may not exceed a total of the applicable dollar amount for any year,
 
-    (iii) the employer is required to make a matching contribution to the simple retirement account for any year in an amount equal to so much of the amount the employee elects under clause (i)(I) as does not exceed the applicable percentage of compensation for the year, and
+    (iii) the employer is required to make a matching contribution to the simple retirement account for any year in an amount equal to so much of the amount the employee elects under clause (i)(I) as does not exceed the applicable percentage of compensation for the year,
 
-    (iv) no contributions may be made other than contributions described in clause (i) or (iii).
+    (iv) the employer may make nonelective contributions of a uniform percentage (up to 10 percent) of compensation for each employee who is eligible to participate in the arrangement, and who has at least $5,000 of compensation from the employer for the year, but such contributions with respect to any employee shall not exceed $5,000 for the year, and
+
+    (v) no contributions may be made other than contributions described in clause (i), (iii), or (iv).
+    The compensation taken into account under clause (iv) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).
 
   (B) *Employer may elect 2-percent nonelective contribution*
 
     (i) *In general* — An employer shall be treated as meeting the requirements of subparagraph (A)(iii) for any year if, in lieu of the contributions described in such clause, the employer elects to make nonelective contributions of 2 percent of compensation for each employee who is eligible to participate in the arrangement and who has at least $5,000 of compensation from the employer for the year. If an employer makes an election under this subparagraph for any year, the employer shall notify employees of such election within a reasonable period of time before the 60-day period for such year under paragraph (5)(C).
 
     (ii) *Compensation limitation* — The compensation taken into account under clause (i) for any year shall not exceed the limitation in effect for such year under section 401(a)(17).
+
+    (iii) *Special rule for electing larger employers* — In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, clause (i) shall be applied for such year by substituting “3 percent” for “2 percent”.
 
   (C) *Definitions* — For purposes of this subsection—
 
@@ -71692,11 +73087,13 @@ In the case of a simple retirement account under subsection (p), only one report
 
     (ii) *Applicable percentage*
 
-      (I) *In general* — The term “applicable percentage” means 3 percent.
+      (I) *In general* — Except as provided in subclause (IV), the term “applicable percentage” means 3 percent.
 
-      (II) *Election of lower percentage* — An employer may elect to apply a lower percentage (not less than 1 percent) for any year for all employees eligible to participate in the plan for such year if the employer notifies the employees of such lower percentage within a reasonable period of time before the 60-day election period for such year under paragraph (5)(C). An employer may not elect a lower percentage under this subclause for any year if that election would result in the applicable percentage being lower than 3 percent in more than 2 of the years in the 5-year period ending with such year.
+      (II) *Election of lower percentage* — An employer may elect to apply a lower percentage (not less than 1 percent) for any year for all employees eligible to participate in the plan for such year if the employer notifies the employees of such lower percentage within a reasonable period of time before the 60-day election period for such year under paragraph (5)(C). An employer may not elect a lower percentage under this subclause for any year if that election would result in the applicable percentage being lower than the applicable percentage in more than 2 of the years in the 5-year period ending with such year.
 
-      (III) *Special rule for years arrangement not in effect* — If any year in the 5-year period described in subclause (II) is a year prior to the first year for which any qualified salary reduction arrangement is in effect with respect to the employer (or any predecessor), the employer shall be treated as if the level of the employer matching contribution was at 3 percent of compensation for such prior year.
+      (III) *Special rule for years arrangement not in effect* — If any year in the 5-year period described in subclause (II) is a year prior to the first year for which any qualified salary reduction arrangement is in effect with respect to the employer (or any predecessor), the employer shall be treated as if the level of the employer matching contribution was at the applicable percentage of compensation for such prior year.
+
+      (IV) *Special rule for electing larger employers* — In the case of an employer which had more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year, and which makes the election under subparagraph (E)(i)(II) for any year, subclause (I) shall be applied for such year by substituting “4 percent” for “3 percent”.
 
   (D) *Arrangement may be only plan of employer*
 
@@ -71706,9 +73103,52 @@ In the case of a simple retirement account under subsection (p), only one report
 
   (E) *Applicable dollar amount; cost-of-living adjustment*
 
-    (i) *In general* — For purposes of subparagraph (A)(ii), the applicable amount is $10,000.
+    (i) *In general* — For purposes of subparagraph (A)(ii), the applicable dollar amount is—
 
-    (ii) *Cost-of-living adjustment* — In the case of a year beginning after December 31, 2005, the Secretary shall adjust the $10,000 amount under clause (i) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+      (I) the adjusted dollar amount in the case of an eligible employer described in clause (iii) which had not more than 25 employees who received at least $5,000 of compensation from the employer for the preceding year,
+
+      (II) the adjusted dollar amount in the case of an eligible employer described in clause (iii) which is not described in subclause (I) and which elects, at such time and in such manner as prescribed by the Secretary, the application of this subclause for the year, and
+
+      (III) $10,000 in any other case.
+
+    (ii) *Adjusted dollar amount* — For purposes of clause (i), the adjusted dollar amount is an amount equal to 110 percent of the dollar amount in effect under clause (i)(III) for calendar year 2024.
+
+    (iii) *Cost-of-living adjustment*
+
+      (I) *Certain large employers* — In the case of a year beginning after December 31, 2005, the Secretary shall adjust the $10,000 amount under clause (i)(III) at the same time and in the same manner as under section 415(d), except that the base period taken into account shall be the calendar quarter beginning July 1, 2004, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+
+      (II) *Other employers* — In the case of a year beginning after December 31, 2024, the Secretary shall adjust annually the adjusted dollar amount under clause (ii) in the manner provided under subclause (I) of this clause, except that the base period taken into account shall be the calendar quarter beginning July 1, 2023.
+
+    (iv) *Employer has not had another plan within 3 years* — An eligible employer is described in this clause only if, during the 3-taxable-year period immediately preceding the 1st year the employer maintains the qualified salary reduction arrangement under this paragraph, neither the employer nor any member of any controlled group including the employer (or any predecessor of either) established or maintained any plan described in clause (i), (ii), or (iv) of section 219(g)(5)(A) with respect to which contributions were made, or benefits were accrued, for substantially the same employees as are eligible to participate in such qualified salary reduction arrangement.
+
+  (F) *Matching contributions for qualified student loan payments*
+
+    (i) *In general* — Subject to the rules of clause (iii), an arrangement shall not fail to be treated as meeting the requirements of subparagraph (A)(iii) solely because under the arrangement, solely for purposes of such subparagraph, qualified student loan payments are treated as amounts elected by the employee under subparagraph (A)(i)(I) to the extent such payments do not exceed—
+
+      (I) the applicable dollar amount under subparagraph (E) (after application of section 414(v)) for the year (or, if lesser, the employee’s compensation (as defined in section 415(c)(3)) for the year), reduced by
+
+      (II) any other amounts elected by the employee under subparagraph (A)(i)(I) for the year.
+
+    (ii) *Qualified student loan payment* — For purposes of this subparagraph—
+
+      (I) *In general* — The term “qualified student loan payment” means a payment made by an employee in repayment of a qualified education loan (as defined in section 221(d)(1)) incurred by the employee to pay qualified higher education expenses, but only if the employee certifies to the employer making the matching contribution that such payment has been made on such a loan.
+
+      (II) *Qualified higher education expenses* — The term “qualified higher education expenses” has the same meaning as when used in section 401(m)(4)(D).
+
+    (iii) *Applicable rules* — Clause (i) shall apply to an arrangement only if, under the arrangement—
+
+      (I) matching contributions on account of qualified student loan payments are provided only on behalf of employees otherwise eligible to elect contributions under subparagraph (A)(i)(I), and
+
+      (II) all employees otherwise eligible to participate in the arrangement are eligible to receive matching contributions on account of qualified student loan payments.
+
+  (G) *Adjustment for inflation* — In the case of taxable years beginning after December 31, 2024, the $5,000 amount in subparagraph (A)(iv)(II) shall be increased by an amount equal to—
+
+    (i) such amount, multiplied by
+
+    (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “2023” for “2016” in subparagraph (A)(ii) thereof.
+    If any amount as adjusted under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
+
+  (H) *2-year grace period* — An eligible employer which had not more than 25 employees who received at least $5,000 of compensation from the employer for 1 or more years, and which has more than 25 such employees for any subsequent year, shall be treated for purposes of subparagraph (E)(i) as having 25 such employees for the 2 years following the last year the employer had not more than 25 such employees, and not as having made the election under subparagraph (E)(i)(II) for such 2 years. Rules similar to the second sentence of subparagraph (C)(i)(II) shall apply for purposes of this subparagraph.
 
 (3) **Vesting requirements** — The requirements of this paragraph are met with respect to a simple retirement account if the employee’s rights to any contribution to the simple retirement account are nonforfeitable. For purposes of this paragraph, rules similar to the rules of subsection (k)(4) shall apply.
 
@@ -71749,7 +73189,11 @@ In the case of a simple retirement account under subsection (p), only one report
 
 (7) **Use of designated financial institution** — A plan shall not be treated as failing to satisfy the requirements of this subsection or any other provision of this title merely because the employer makes all contributions to the individual retirement accounts or annuities of a designated trustee or issuer. The preceding sentence shall not apply unless each plan participant is notified in writing (either separately or as part of the notice under subsection (l)(2)(C)) that the participant’s balance may be transferred without cost or penalty to another individual account or annuity in accordance with subsection (d)(3)(G).
 
-(8) **Coordination with maximum limitation under subsection (a)** — In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting “the sum of the dollar amount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable” for “the dollar amount in effect under section 219(b)(1)(A)”.
+(8) **Coordination with maximum limitation** — In the case of any simple retirement account—
+
+  (A) subsection (a)(1) shall be applied by substituting for “the amount in effect for such taxable year under section 219(b)(1)(A)” the following: “the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employer contribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee”, and
+
+  (B) subsection (b)(2)(B) shall be applied by substituting for “the dollar amount in effect under section 219(b)(1)(A)” the following: “the sum of the dollar amount in effect under subsection (p)(2)(A)(ii), the employer contribution required under subsection (p)(2)(A)(iii) or (p)(2)(B)(i), whichever is applicable, and a contribution which meets the requirement of subsection (p)(2)(A)(iv) with respect to the employee”.
 
 (9) **Matching contributions on behalf of self-employed individuals not treated as elective employer contributions** — Any matching contribution described in paragraph (2)(A)(iii) which is made on behalf of a self-employed individual (as defined in section 401(c)) shall not be treated as an elective employer contribution to a simple retirement account for purposes of this title.
 
@@ -71770,6 +73214,22 @@ In the case of a simple retirement account under subsection (p), only one report
     (iii) the participation requirements under paragraph (4).
 
   (C) *Transition period* — For purposes of this paragraph, the term “transition period” means the period beginning on the date of any transaction described in subparagraph (A) and ending on the last day of the second calendar year following the calendar year in which such transaction occurs.
+
+(11) **Replacement of simple retirement accounts with safe harbor plans during plan year**
+
+  (A) *In general* — Subject to the requirements of this paragraph, an employer may elect (in such form and manner as the Secretary may prescribe) at any time during a year to terminate the qualified salary reduction arrangement under paragraph (2), but only if the employer establishes and maintains (as of the day after the termination date) a safe harbor plan to replace the terminated arrangement.
+
+  (B) *Combined limits on contributions* — The terminated arrangement and safe harbor plan shall both be treated as violating the requirements of paragraph (2)(A)(ii) or section 401(a)(30) (whichever is applicable) if the aggregate elective contributions of the employee under the terminated arrangement during its last plan year and under the safe harbor plan during its transition year exceed the sum of—
+
+    (i) the applicable dollar amount for such arrangement (determined on a full-year basis) under this subsection (after the application of section 414(v)) with respect to the employee for such last plan year multiplied by a fraction equal to the number of days in such plan year divided by 365, and
+
+    (ii) the applicable dollar amount (as so determined) under section 402(g)(1) for such safe harbor plan on such elective contributions during the transition year multiplied by a fraction equal to the number of days in such transition year divided by 365.
+
+  (C) *Transition year* — For purposes of this paragraph, the transition year is the period beginning after the termination date and ending on the last day of the calendar year during which the termination occurs.
+
+  (D) *Safe harbor plan* — For purposes of this paragraph, the term “safe harbor plan” means a qualified cash or deferred arrangement which meets the requirements of paragraph (11), (12), (13), or (16) of section 401(k).
+
+(12) **Roth contribution election** — An individual retirement plan which is designated as a Roth IRA shall not be treated as a simple retirement account under this subsection unless the employee elects for such plan to be so treated (at such time and in such manner as the Secretary may provide).
 
 **(q) Deemed IRAs under qualified employer plans**
 
@@ -71807,6 +73267,52 @@ For inflation adjustment of certain items in this section, see Internal Revenue 
 Paragraph (6) or (7) of section 101 of the Federal Credit Union Act, referred to in subsec. (n)(2), is classified to section 1752(6), (7) of Title 12, Banks and Banking.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–328, § 107(d), in concluding provisions, substituted “the applicable age (determined under section 401(a)(9)(C)(v) for the calendar year in which such taxable year begins)” for “age 72”.
+
+Subsec. (d)(3)(G). Pub. L. 117–328, § 332(b)(2), substituted “72(t)(6)(A)” for “72(t)(6)”.
+
+Subsec. (d)(8)(F). Pub. L. 117–328, § 307(a), added subpar. (F).
+
+Subsec. (d)(8)(G). Pub. L. 117–328, § 307(b), added subpar. (G).
+
+Subsec. (e)(2)(A)(iii). Pub. L. 117–328, § 322(a), added cl. (iii).
+
+Subsec. (k)(7) to (10). Pub. L. 117–328, § 601(b)(3), added par. (7) and redesignated former pars. (7) to (9) as (8) to (10), respectively.
+
+Subsec. (o)(5)(A). Pub. L. 117–328, § 401(b)(4), substituted “section 219(b)” for “subsection (b)”.
+
+Subsec. (p)(2)(A). Pub. L. 117–328, § 116(a)(2), inserted concluding provisions.
+
+Subsec. (p)(2)(A)(iv). Pub. L. 117–328, § 116(a)(1), added cl. (iv). Former cl. (iv) redesignated (v).
+
+Subsec. (p)(2)(A)(v). Pub. L. 117–328, § 116(b)(1), substituted “, (iii), or (iv)” for “or (iii)”.
+
+Pub. L. 117–328, § 116(a)(1), redesignated cl. (iv) as (v).
+
+Subsec. (p)(2)(B)(iii). Pub. L. 117–328, § 117(d), added cl. (iii).
+
+Subsec. (p)(2)(C)(ii)(I). Pub. L. 117–328, § 117(c)(1), substituted “Except as provided in subclause (IV), the term” for “The term”.
+
+Subsec. (p)(2)(C)(ii)(II), (III). Pub. L. 117–328, § 117(c)(3), substituted “the applicable percentage” for “3 percent”.
+
+Subsec. (p)(2)(C)(ii)(IV). Pub. L. 117–328, § 117(c)(2), added subcl. (IV).
+
+Subsec. (p)(2)(E)(i) to (iii). Pub. L. 117–328, § 117(a), substituted “dollar amount is—” and subcls. (I) to (III) for “amount is $10,000.” in cl. (i), added cl. (ii) and redesignated former cl. (ii) as (iii), and, in cl. (iii), designated existing provisions as subcl. (I), inserted subcl. heading, substituted “clause (i)(III)” for “clause (i)”, and added subcl. (II).
+
+Subsec. (p)(2)(E)(iv). Pub. L. 117–328, § 117(f), added cl. (iv).
+
+Subsec. (p)(2)(F). Pub. L. 117–328, § 110(d), added subpar. (F).
+
+Subsec. (p)(2)(G). Pub. L. 117–328, § 116(a)(4), added subpar. (G).
+
+Subsec. (p)(2)(H). Pub. L. 117–328, § 117(e), added subpar. (H).
+
+Subsec. (p)(8). Pub. L. 117–328, § 116(a)(3), amended par. (8) generally. Prior to amendment, text read as follows: “In the case of any simple retirement account, subsections (a)(1) and (b)(2) shall be applied by substituting ‘the sum of the dollar amount in effect under paragraph (2)(A)(ii) of this subsection and the employer contribution required under subparagraph (A)(iii) or (B)(i) of paragraph (2) of this subsection, whichever is applicable’ for ‘the dollar amount in effect under section 219(b)(1)(A)’.”
+
+Subsec. (p)(11). Pub. L. 117–328, § 332(a), added par. (11).
+
+Subsec. (p)(12). Pub. L. 117–328, § 601(c)(1), added par. (12).
+
 2019—Subsec. (b). Pub. L. 116–94, § 114(c), substituted “age 72” for “age 70½” in concluding provisions.
 
 Subsec. (c)(3). Pub. L. 116–94, § 101(a)(3), added par. (3).
@@ -72199,6 +73705,25 @@ Subsec. (d)(4). Pub. L. 94–455, § 1501(b)(5), as amended by Pub. L. 95–600,
 
 Subsecs. (h), (i). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2022 Amendment
+Amendment by section 107(d) of Pub. L. 117–328 applicable to distributions required to be made after Dec. 31, 2022, with respect to individuals who attain age 72 after such date, see section 107(e) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 110(d) of Pub. L. 117–328 applicable to contributions made for plan years beginning after Dec. 31, 2023, see section 110(h) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 116(a), (b)(1) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2023, see section 116(c) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 117(a), (c)–(f) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2023, see section 117(h) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 117–328, div. T, title III, § 307(c), Dec. 29, 2022, 136 Stat. 5345, provided that: “The amendment made by this section [amending this section] shall apply to distributions made in taxable years beginning after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Pub. L. 117–328, div. T, title III, § 322(b), Dec. 29, 2022, 136 Stat. 5356, provided that: “(1) In general.—The amendments made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 29, 2022]. “(2) No inference.—Nothing in the amendments made by this section shall be construed to infer the proper treatment under the Internal Revenue Code of 1986 of individual retirement plans as 1 contract in the case of any other provision of such Code to which the amendments made by this section do not apply.”
+
+Amendment by section 332(a), (b)(2) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 332(c) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Amendment by section 401(b)(4) of Pub. L. 117–328 effective as if included in the section of div. O of Pub. L. 116–94 to which the amendment relates, see section 401(c) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Amendment by section 601(b)(3), (c)(1) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2022, see section 601(e) of Pub. L. 117–328, set out as a note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
+
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. O, title I, § 101(e), Dec. 20, 2019, 133 Stat. 3145, provided that: “(1) In general.—The amendments made by this section [amending this section, [section 413 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-413), and sections 1002, 1023, 1024, and 1112 of Title 29, Labor] shall apply to plan years beginning after December 31, 2020. “(2) Rule of construction.—Nothing in the amendments made by subsection (a) [amending this section and [section 413 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-413)] shall be construed as limiting the authority of the Secretary of the Treasury or the Secretary’s delegate (determined without regard to such amendment) to provide for the proper treatment of a failure to meet any requirement applicable under the Internal Revenue Code of 1986 with respect to one employer (and its employees) in a multiple employer plan.”
 
@@ -72382,6 +73907,9 @@ Amendment by section 1501(b)(2), (5), (10) of Pub. L. 94–455 effective for tax
 #### Effective Date
 Section applicable to taxable years beginning after Dec. 31, 1974, see section 2002(i)(1) of Pub. L. 93–406, set out as a note under [section 219 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-219).
 
+#### Treasury Guidance on Rollovers
+Pub. L. 117–328, div. T, title III, § 324, Dec. 29, 2022, 136 Stat. 5358, provided that: “(a) In General.—Not later than January 1, 2025, the Secretary of the Treasury or the Secretary’s delegate shall, to simplify, standardize, facilitate, and expedite the completion of rollovers to eligible retirement plans (as defined in section 402(c)(8)(B) of the Internal Revenue Code of 1986) and trustee-to-trustee transfers from individual retirement plans (as defined in section 7701(a)(37) of such Code), develop and issue—“(1) guidance in the form of sample forms (including relevant procedures and protocols) for rollovers of eligible rollover distributions from a retirement to an eligible retirement plan which—“(A) are written in a manner calculated to be understood by the average person, and “(B) can be used by both distributing eligible retirement plans and receiving retirement plans, and “(2) guidance in the form of sample forms (including relevant procedures and protocols) for trustee-to-trustee transfers of amounts from an individual retirement plan to another individual retirement plan which—“(A) are written in a manner calculated to be understood by the average person, and “(B) can be used by both transferring individual retirement plans and individual retirement plans receiving the transfer. “(b) Other Requirements.—In developing the sample forms under subsection (a), the Secretary (or Secretary’s delegate) shall obtain relevant information from participants and plan sponsor representatives and consider potential coordination with sections 319 and 336 of this Act [div. T of Pub. L. 117–328; 136 Stat. 5353, 5373].”
+
 #### Rollover of Amounts Received in Airline Carrier Bankruptcy
 Pub. L. 112–95, title XI, § 1106, Feb. 14, 2012, 126 Stat. 152, as amended by Pub. L. 113–243, § 1, Dec. 18, 2014, 128 Stat. 2863; Pub. L. 114–113, div. Q, title III, § 307(a), Dec. 18, 2015, 129 Stat. 3089, provided that: “(a) General Rules.—“(1) Rollover of airline payment amount.—If a qualified airline employee receives any airline payment amount and transfers any portion of such amount to a traditional IRA within 180 days of receipt of such amount (or, if later, within 180 days of the date of the enactment of this Act [Feb. 14, 2012]), then such amount (to the extent so transferred) shall be treated as a rollover contribution described in section 402(c) of the Internal Revenue Code of 1986. A qualified airline employee making such a transfer may exclude from gross income the amount transferred, in the taxable year in which the airline payment amount was paid to the qualified airline employee by the commercial passenger airline carrier. “(2) Transfer of amounts attributable to airline payment amount following rollover to roth ira.—A qualified airline employee who has contributed an airline payment amount to a Roth IRA that is treated as a qualified rollover contribution pursuant to section 125 of the Worker, Retiree, and Employer Recovery Act of 2008 [Pub. L. 110–458, [26 U.S.C. 408A](./chapter-001-normal-taxes-and-surtaxes.md#section-408a) note], may transfer to a traditional IRA, in a trustee-to-trustee transfer, all or any part of the contribution (together with any net income allocable to such contribution), and the transfer to the traditional IRA will be deemed to have been made at the time of the rollover to the Roth IRA, if such transfer is made within 180 days of the date of the enactment of this Act. A qualified airline employee making such a transfer may exclude from gross income the airline payment amount previously rolled over to the Roth IRA, to the extent an amount attributable to the previous rollover was transferred to a traditional IRA, in the taxable year in which the airline payment amount was paid to the qualified airline employee by the commercial passenger airline carrier. No amount so transferred to a traditional IRA may be treated as a qualified rollover contribution with respect to a Roth IRA within the 5-taxable year period beginning with the taxable year in which such transfer was made. “(3) Extension of time to file claim for refund.—A qualified airline employee who excludes an amount from gross income in a prior taxable year under paragraph (1) or (2) may reflect such exclusion in a claim for refund filed within the period of limitation under section 6511(a) of such Code (or, if later, April 15, 2015). “(4) Overall limitation on amounts transferred to traditional iras.—“(A) In general.—The aggregate amount of airline payment amounts which may be transferred to 1 or more traditional IRAs under paragraphs (1) and (2) with respect to any qualified employee for any taxable year shall not exceed the excess (if any) of—“(i) 90 percent of the aggregate airline payment amounts received by the qualified airline employee during the taxable year and all preceding taxable years, over “(ii) the aggregate amount of such transfers to which paragraphs (1) and (2) applied for all preceding taxable years. “(B) Special rules.—For purposes of applying the limitation under subparagraph (A)—“(i) any airline payment amount received by the surviving spouse of any qualified employee, and any amount transferred to a traditional IRA by such spouse under subsection (d), shall be treated as an amount received or transferred by the qualified employee, and “(ii) any amount transferred to a traditional IRA which is attributable to net income described in paragraph (2) shall not be taken into account. “(5) Covered executives not eligible to make transfers.—Paragraphs (1) and (2) shall not apply to any transfer by a qualified airline employee (or any transfer authorized under subsection (d) by a surviving spouse of the qualified airline employee) if at any time during the taxable year of the transfer or any preceding taxable year the qualified airline employee held a position described in subparagraph (A) or (B) of section 162(m)(3) [probably means section 162(m)(3) of the Internal Revenue Code of 1986] with the commercial passenger airline carrier from whom the airline payment amount was received. “(6) Special rule for certain airline payment amounts.—In the case of any amount which became an airline payment amount by reason of the amendments made by section 1(b) of Public Law 113–243 ([26 U.S.C. 408](./chapter-001-normal-taxes-and-surtaxes.md#section-408) note), paragraph (1) shall be applied by substituting ‘(or, if later, within the period beginning on December 18, 2014, and ending on the date which is 180 days after the date of enactment of the Protecting Americans from Tax Hikes Act of 2015 [Dec. 18, 2015])’ for ‘(or, if later, within 180 days of the date of the enactment of this Act [Feb. 14, 2012])’. “(b) Treatment of Airline Payment Amounts and Transfers for Employment Taxes.—For purposes of chapter 21 of the Internal Revenue Code of 1986 and section 209 of the Social Security Act [[42 U.S.C. 409](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section409&num=0&edition=prelim)], an airline payment amount shall not fail to be treated as a payment of wages by the commercial passenger airline carrier to the qualified airline employee in the taxable year of payment because such amount is excluded from the qualified airline employee’s gross income under subsection (a). “(c) Definitions and Special Rules.—For purposes of this section—“(1) Airline payment amount.—“(A) In general.—The term ‘airline payment amount’ means any payment of any money or other property which is payable by a commercial passenger airline carrier to a qualified airline employee—“(i) under the approval of an order of a Federal bankruptcy court in a case filed after September 11, 2001, and before January 1, 2007, or filed on November 29, 2011, and “(ii) in respect of the qualified airline employee’s interest in a bankruptcy claim against the carrier, any note of the carrier (or amount paid in lieu of a note being issued), or any other fixed obligation of the carrier to pay a lump sum amount. The amount of such payment shall be determined without regard to any requirement to deduct and withhold tax from such payment under sections 3102(a) of the Internal Revenue Code of 1986 and 3402(a) of such Code. “(B) Exception.—An airline payment amount shall not include any amount payable on the basis of the carrier’s future earnings or profits. “(2) Qualified airline employee.—The term ‘qualified airline employee’ means an employee or former employee of a commercial passenger airline carrier who was a participant in a defined benefit plan maintained by the carrier which—“(A) is a plan described in section 401(a) of the Internal Revenue Code of 1986 which includes a trust exempt from tax under section 501(a) of such Code, and “(B) was terminated, became subject to the restrictions contained in paragraphs (2) and (3) of section 402(b) of the Pension Protection Act of 2006 [Pub. L. 109–280, [26 U.S.C. 430](./chapter-001-normal-taxes-and-surtaxes.md#section-430) note], or was frozen effective November 1, 2012. “(3) Traditional ira.—The term ‘traditional IRA’ means an individual retirement plan (as defined in section 7701(a)(37) of the Internal Revenue Code of 1986) which is not a Roth IRA. “(4) Roth ira.—The term ‘Roth IRA’ has the meaning given such term by section 408A(b) of such Code. “(d) Surviving Spouse.—If a qualified airline employee died after receiving an airline payment amount, or if an airline payment amount was paid to the surviving spouse of a qualified airline employee in respect of the qualified airline employee, the surviving spouse of the qualified airline employee may take all actions permitted under section 125 of the Worker, Retiree and Employer Recovery Act of 2008 [Pub. L. 110–458, [26 U.S.C. 408A](./chapter-001-normal-taxes-and-surtaxes.md#section-408a) note], or under this section, to the same extent that the qualified airline employee could have done had the qualified airline employee survived. “(e) Effective Date.—This section shall apply to transfers made after the date of the enactment of this Act [Feb. 14, 2012] with respect to airline payment amounts paid before, on, or after such date.”
 
@@ -72418,7 +73946,7 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
 
 (2) **Contribution limit** — The aggregate amount of contributions for any taxable year to all Roth IRAs maintained for the benefit of an individual shall not exceed the excess (if any) of—
 
-  (A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (d)(1) 11 See References in Text note below. or (g) of such section), over
+  (A) the maximum amount allowable as a deduction under section 219 with respect to such individual for such taxable year (computed without regard to subsection (g) of such section), over
 
   (B) the aggregate amount of contributions for such taxable year to all other individual retirement plans (other than Roth IRAs) maintained for the benefit of the individual.
 
@@ -72456,6 +73984,12 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
     (ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which the taxable year begins, determined by substituting “calendar year 2005” for “calendar year 2016” in subparagraph (A)(ii) thereof.
     Any increase determined under the preceding sentence shall be rounded to the nearest multiple of $1,000.
 
+  (E) *Special rule for certain transfers from qualified tuition programs* — The amount determined under subparagraph (A) shall be increased by the lesser of—
+
+    (i) the amount of contributions described in section 529(c)(3)(E) for the taxable year, or
+
+    (ii) the amount of the reduction determined under such subparagraph (determined without regard to this subparagraph).
+
 (4) **Mandatory distribution rules not to apply before death** — Notwithstanding subsections (a)(6) and (b)(3) of section 408 (relating to required distributions), the following provisions shall not apply to any Roth IRA:
 
   (A) Section 401(a)(9)(A).
@@ -72466,7 +74000,11 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
 
   (A) *In general* — No rollover contribution may be made to a Roth IRA unless it is a qualified rollover contribution.
 
-  (B) *Coordination with limit* — A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+  (B) *Coordination with limit*
+
+    (i) *In general* — A qualified rollover contribution shall not be taken into account for purposes of paragraph (2).
+
+    (ii) *Exception for rollovers from qualified tuition programs* — Clause (i) shall not apply to any qualified rollover contribution described in subsection (e)(1)(C).
 
 (6) **Time when contributions made** — For purposes of this section, the rule of section 219(f)(3) shall apply.
 
@@ -72486,7 +74024,7 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
 
     (iv) which is a qualified special purpose distribution.
 
-  (B) *Distributions within nonexclusion period* — A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual’s spouse made a contribution to a Roth IRA) established for such individual.
+  (B) *Distributions within nonexclusion period* — A payment or distribution from a Roth IRA shall not be treated as a qualified distribution under subparagraph (A) if such payment or distribution is made within the 5-taxable year period beginning with the first taxable year for which the individual made a contribution to a Roth IRA (or such individual’s spouse, or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k)), made a contribution to a Roth IRA) established for such individual.
 
   (C) *Distributions of excess contributions and earnings* — The term “qualified distribution” shall not include any distribution of any contribution described in section 408(d)(4) and any net income allocable to the contribution.
 
@@ -72573,8 +74111,9 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
 
     (i) in the case of an individual retirement plan, such rollover contribution meets the requirements of section 408(d)(3), and
 
-    (ii) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable.
-    For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA.
+    (ii) in the case of any eligible retirement plan (as defined in section 402(c)(8)(B) other than clauses (i) and (ii) thereof), such rollover contribution meets the requirements of section 402(c), 403(b)(8), or 457(e)(16), as applicable, and
+
+  (C) from a qualified tuition program to the extent provided in section 529(c)(3)(E).For purposes of section 408(d)(3)(B), there shall be disregarded any qualified rollover contribution from an individual retirement plan (other than a Roth IRA) to a Roth IRA. The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A).
 
 (2) **Military death gratuity**
 
@@ -72588,21 +74127,34 @@ Pub. L. 95–600, title I, § 157(d)(3), Nov. 6, 1978, 92 Stat. 2806, as amended
 
   (C) *Application of section 72* — For purposes of applying section 72 in the case of a distribution which is not a qualified distribution, the amount treated as a rollover by reason of subparagraph (A) shall be treated as investment in the contract.
 
-**(f) Individual retirement plan** For purposes of this section—
-
-(1) a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and
-
-(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).
+(3) **Simple retirement accounts** — In the case of any payment or distribution out of a simple retirement account (as defined in section 408(p)) with respect to which an election has been made under section 408(p)(12) and to which 72(t)(6) applies, the term “qualified rollover contribution” shall not include any payment or distribution paid into an account other than another simple retirement account (as so defined).
 
 ### Statutory Notes
 
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
-#### References in Text
-Subsection (d)(1) of such section, referred to in subsec. (c)(2)(A), means [section 219(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section219/d/1&num=0&edition=prelim), which was repealed by Pub. L. 116–94, div. O, title I, § 107(a), Dec. 20, 2019, 133 Stat. 3148.
-
 #### Amendments
+2022—Subsec. (c)(2)(A). Pub. L. 117–328, § 401(b)(5), struck out “(d)(1) or” before “(g) of such section”.
+
+Subsec. (c)(3)(E). Pub. L. 117–328, § 126(b)(2)(B), added subpar. (E).
+
+Subsec. (c)(5)(B). Pub. L. 117–328, § 126(b)(2)(A), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Subsec. (d)(2)(B). Pub. L. 117–328, § 601(d), inserted “, or employer in the case of a simple retirement account (as defined in section 408(p)) or simplified employee pension (as defined in section 408(k)),” after “individual’s spouse”.
+
+Subsec. (e)(1). Pub. L. 117–328, § 126(b)(1)(C), inserted at end of concluding provisions “The earnings and contributions of any qualified tuition program from which a qualified rollover contribution is made under subparagraph (C) shall be treated in the same manner as the earnings and contributions of a Roth IRA from which a qualified rollover contribution is made under subparagraph (A).”
+
+Subsec. (e)(1)(C). Pub. L. 117–328, § 126(b)(1)(A), (B), added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 117–328, § 601(c)(2), added par. (3).
+
+Subsec. (f). Pub. L. 117–328, § 601(a), struck out subsec. (f). Text read as follows: “For purposes of this section—
+
+“(1) a simplified employee pension or a simple retirement account may not be designated as a Roth IRA; and
+
+“(2) contributions to any such pension or account shall not be taken into account for purposes of subsection (c)(2)(B).”
+
 2019—Subsec. (c)(4) to (7). Pub. L. 116–94 redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4). Prior to amendment, text of par. (4) read as follows: “Contributions to a Roth IRA may be made even after the individual for whom the account is maintained has attained age 70½.”
 
 2018—Subsec. (d)(3)(B). Pub. L. 115–141, § 401(a)(77), inserted period at end.
@@ -72740,6 +74292,13 @@ Subsec. (d)(6). Pub. L. 105–206, § 6005(b)(6)(A), added par. (6).
 Subsec. (d)(7). Pub. L. 105–206, § 6005(b)(7), added par. (7).
 
 Subsec. (f). Pub. L. 105–206, § 6005(b)(9), added subsec. (f).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 126(d), Dec. 29, 2022, 136 Stat. 5317, provided that: “The amendments made by this section [amending this section and [section 529 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-529)] shall apply with respect to distributions after December 31, 2023.”
+
+Amendment by section 401(b)(5) of Pub. L. 117–328 effective as if included in the section of div. O of Pub. L. 116–94 to which the amendment relates, see section 401(c) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Amendment by section 601(a), (c)(2), (d) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2022, see section 601(e) of Pub. L. 117–328, set out as a note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 applicable to contributions made for taxable years beginning after Dec. 31, 2019, see section 107(d)(1) of div. O of Pub. L. 116–94, set out in a note under [section 219 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-219).
@@ -73779,7 +75338,7 @@ Pub. L. 108–357, title VIII, § 885(f), Oct. 22, 2004, 118 Stat. 1641, as amen
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§ 181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§ 181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (b)(3). Pub. L. 109–280, in concluding provisions, substituted “For purposes of subparagraph (B), management pilots who are not represented in accordance with title II of the Railway Labor Act shall be treated as covered by a collective bargaining agreement described in such subparagraph if the management pilots manage the flight operations of air pilots who are so represented and the management pilots are, pursuant to the terms of the agreement, included in the group of employees benefitting under the trust described in such subparagraph. Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard an aircraft in flight (other than management pilots described in the preceding sentence).” for “Subparagraph (B) shall not apply in the case of a plan which provides contributions or benefits for employees whose principal duties are not customarily performed aboard aircraft in flight.”
@@ -74085,7 +75644,7 @@ For provisions directing that if any amendments made by section 9203(a)(2) of Pu
 
 (11) **Restrictions on certain mandatory distributions**
 
-  (A) *In general* — If the present value of any nonforfeitable accrued benefit exceeds $5,000, a plan meets the requirements of this paragraph only if such plan provides that such benefit may not be immediately distributed without the consent of the participant.
+  (A) *In general* — If the present value of any nonforfeitable accrued benefit exceeds $7,000, a plan meets the requirements of this paragraph only if such plan provides that such benefit may not be immediately distributed without the consent of the participant.
 
   (B) *Determination of present value* — For purposes of subparagraph (A), the present value shall be calculated in accordance with section 417(e)(3).
 
@@ -74263,6 +75822,8 @@ For provisions directing that if any amendments made by section 9203(a)(2) of Pu
 
   (G) *Benefit accrued to date* — For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
 
+(6) **Projected interest crediting rate** — For purposes of subparagraphs (A), (B), and (C) of paragraph (1), in the case of an applicable defined benefit plan (as defined in subsection (a)(13)(C)) which provides variable interest crediting rates, the interest crediting rate which is treated as in effect and as the projected interest crediting rate shall be a reasonable projection of such variable interest crediting rate, not to exceed 6 percent.
+
 **(c) Allocation of accrued benefits between employer and employee contributions**
 
 (1) **Accrued benefit derived from employer contributions** — For purposes of this section, an employee’s accrued benefit derived from employer contributions as of any applicable date is the excess, if any, of the accrued benefit for such employee as of such applicable date over the accrued benefit derived from contributions made by such employee as of such date.
@@ -74401,9 +75962,13 @@ Section 4205(b)(2)(A)(i) of such Act, referred to in subsec. (a)(4)(G)(i)(II), i
 
 Section 4048 of such Act, referred to in subsec. (a)(4)(G)(ii), is classified to [section 1348 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1348&num=0&edition=prelim), Labor.
 
-The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a)(9) and (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(11)(A). Pub. L. 117–328, § 304(a), substituted “$7,000” for “$5,000”.
+
+Subsec. (b)(6). Pub. L. 117–328, § 348(a), added par. (6).
+
 2018—Subsec. (a)(3)(F)(i). Pub. L. 115–141, § 401(b)(19), struck out “under section 418D or” before “under section 4281”.
 
 Subsec. (a)(4)(A). Pub. L. 115–141, § 401(a)(82), substituted semicolon for comma at end.
@@ -74585,6 +76150,11 @@ Subsecs. (c)(2)(B)(ii), (D), (d)(2), (3). Pub. L. 94–455, § 1906(b)(13)(A), s
 Subsec. (e)(1)(C). Pub. L. 94–455, § 1901(a)(62)(D), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
 Subsec. (e)(2). Pub. L. 94–455, § 1901(a)(62)(E), substituted reference to Sept. 1, 1974, for reference to the date before the date of enactment of the Employee Retirement Income Security Act of 1974.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 304(a) of Pub. L. 117–328 applicable to distributions made after Dec. 31, 2023, see section 304(b) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 117–328, div. T, title III, § 348(c), Dec. 29, 2022, 136 Stat. 5385, provided that: “The amendments made by this section [amending this section and [section 1054 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054&num=0&edition=prelim), Labor] shall apply with respect to plan years beginning after the date of enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–235, div. P, § 2(c), Dec. 16, 2014, 128 Stat. 2829, provided that: “The amendments made by this section [amending this section and [section 1054 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054&num=0&edition=prelim), Labor] shall apply to all periods before, on, and after the date of enactment of this Act [Dec. 16, 2014].”
@@ -75466,6 +77036,9 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, see section 210(a) of Pu
 #### Effective Date
 Section applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under [section 410 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-410).
 
+#### Modification of Model Plan Language, Etc.
+Pub. L. 117–328, div. T, title I, § 106(f), Dec. 29, 2022, 136 Stat. 5288, provided that: “(1) Plan notifications.—The Secretary of the Treasury (or the Secretary’s delegate), in consultation with the Secretary of Labor, shall modify the model plan language published under section 413(e)(5) of the Internal Revenue Code of 1986 to include language that requires participating employers be notified that the plan is subject to the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) et seq.] and that such employer is a plan sponsor with respect to its employees participating in the multiple employer plan and, as such, has certain fiduciary duties with respect to the plan and to its employees. “(2) Model plans for multiple employer 403(b) plans.—For plans to which section 403(b)(15)(A) of the Internal Revenue Code of 1986 applies (other than a plan maintained for its employees by a State, a political subdivision of a State, or an agency or instrumentality of any one or more of the foregoing), the Secretary of the Treasury (or the Secretary’s delegate), in consultation with the Secretary of Labor, shall publish model plan language similar to model plan language published under section 413(e)(5) of such Code. “(3) Educational outreach to employers exempt from tax.—The Secretary of the Treasury (or the Secretary’s delegate), in consultation with the Secretary of Labor, shall provide education and outreach to increase awareness to employers described in section 501(c)(3) of the Internal Revenue Code of 1986, and which are exempt from tax under section 501(a) of such Code, that multiple employer plans are subject to the Employee Retirement Income Security Act of 1974 and that such employer is a plan sponsor with respect to its employees participating in the multiple employer plan and, as such, has certain fiduciary duties with respect to the plan and to its employees.”
+
 
 <a id="section-414"></a>
 ## § 414. Definitions and special rules
@@ -75475,7 +77048,19 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
 (2) in any case in which the employer maintains a plan which is not the plan maintained by a predecessor employer, service for such predecessor shall, to the extent provided in regulations prescribed by the Secretary, be treated as service for the employer.
 
-**(b) Employees of controlled group of corporations** For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a), determined without regard to section 1563(a)(4) and (e)(3)(C)) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the applicable limitations provided by section 404(a) shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary.
+**(b) Employees of controlled group of corporations**
+
+(1) **In general** — For purposes of sections 401, 408(k), 408(p), 410, 411, 415, and 416, all employees of all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a), determined without regard to section 1563(a)(4) and (e)(3)(C)) shall be treated as employed by a single employer. With respect to a plan adopted by more than one such corporation, the applicable limitations provided by section 404(a) shall be determined as if all such employers were a single employer, and allocated to each employer in accordance with regulations prescribed by the Secretary.
+
+(2) **Special rules for applying family attribution** — For purposes of applying the attribution rules under section 1563 with respect to paragraph (1), the following rules apply:
+
+  (A) Community property laws shall be disregarded for purposes of determining ownership.
+
+  (B) Except as provided by the Secretary, stock of an individual not attributed under section 1563(e)(5) to such individual’s spouse shall not be attributed to such spouse by reason of the combined application of paragraphs (1) and (6)(A) of section 1563(e).
+
+  (C) Except as provided by the Secretary, in the case of stock in different corporations that is attributed to a child under section 1563(e)(6)(A) from each parent, and is not attributed to such parents as spouses under section 1563(e)(5), such attribution to the child shall not by itself result in such corporations being members of the same controlled group.
+
+(3) **Plan shall not fail to be treated as satisfying this section** — If application of paragraph (2) causes 2 or more entities to be a controlled group or to no longer be in a controlled group, such change shall be treated as a transaction to which section 410(b)(6)(C) applies.
 
 **(c) Employees of partnerships, proprietorships, etc., which are under common control**
 
@@ -75746,7 +77331,19 @@ Section applicable, except as otherwise provided in section 1017(c) through (i) 
 
   (A) *Organization defined* — The term “organization” means a corporation, partnership, or other organization.
 
-  (B) *Ownership* — In determining ownership, the principles of section 318(a) shall apply.
+  (B) *Ownership*
+
+    (i) *In general* — In determining ownership, the principles of section 318(a) shall apply, except that community property laws shall be disregarded for purposes of determining ownership.
+
+    (ii) *Special rules for applying family attribution* — For purposes of applying the attribution rules under section 318 with respect to clause (i), the following rules apply:
+
+      (I) Community property laws shall be disregarded for purposes of determining ownership.
+
+      (II) Except as provided by the Secretary, stock of an individual not attributed under section 318(a)(1)(A)(i) to such individual’s spouse shall not be attributed by reason of the combined application of paragraphs (1)(A)(ii) and (4) of section 318(a) to such spouse from a child who has not attained the age of 21 years.
+
+      (III) Except as provided by the Secretary, in the case of stock in different organizations which is attributed under section 318(a)(1)(A)(ii) from each parent to a child who has not attained the age of 21 years, and is not attributed to such parents as spouses under section 318(a)(1)(A)(i), such attribution to the child shall not by itself result in such organizations being members of the same affiliated service group.
+
+    (iii) *Plan shall not fail to be treated as satisfying this section* — If the application of clause (ii) causes two or more entities to be an affiliated service group, or to no longer be in an affiliated service group, such change shall be treated as a transaction to which section 410(b)(6)(C) applies.
 
 **(n) Employee leasing**
 
@@ -75842,7 +77439,8 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
     (i) relates to the provision of child support, alimony payments, or marital property rights to a spouse, former spouse, child, or other dependent of a participant, and
 
-    (ii) is made pursuant to a State domestic relations law (including a community property law).
+    (ii) is made pursuant to a State or Tribal domestic relations law (including a community property law).
+    For purposes of clause (ii), the term “Tribal” with respect to a domestic relations law means such a law which is issued by or under the laws of an Indian tribal government, a subdivision of such an Indian tribal government, or an agency or instrumentality of either.
 
 (2) **Order must clearly specify certain facts** — A domestic relations order meets the requirements of this paragraph only if such order clearly specifies—
 
@@ -76140,9 +77738,20 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
     (i) In the case of an applicable employer plan other than a plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $5,000.
 
-    (ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), the applicable dollar amount is $2,500.
+    (ii) In the case of an applicable employer plan described in section 401(k)(11) or 408(p), except as provided in clause (iii), the applicable dollar amount is $2,500.
 
-  (C) *Cost-of-living adjustment* — In the case of a year beginning after December 31, 2006, the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+    (iii) In the case of an applicable employer plan—
+
+      (I) which is maintained by an eligible employer described in section 408(p)(2)(E)(i)(I), or
+
+      (II) to which an election under section 408(p)(2)(E)(i)(II) applies for the year (including a plan described in section 401(k)(11) which is maintained by an eligible employer described in section 408(p)(2)(E)(i)(II) and to which such election applies by reason of subparagraphs (B)(i)(I) and (E) of section 401(k)(11)),
+    the applicable dollar amount is an amount equal to 110 percent of the dollar amount in effect under clause (ii) for calendar year 2024.
+
+  (C) *Cost-of-living adjustment*
+
+    (i) *Certain large employers* — In the case of a year beginning after December 31, 2006, the Secretary shall adjust annually the $5,000 amount in subparagraph (B)(i) and the $2,500 amount in subparagraph (B)(ii) for increases in the cost-of-living at the same time and in the same manner as adjustments under section 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2005, and any increase under this subparagraph which is not a multiple of $500 shall be rounded to the next lower multiple of $500.
+
+    (ii) *Other employers* — In the case of a year beginning after December 31, 2024, the Secretary shall adjust annually the dollar amount described in subparagraph (B)(iii) in the manner provided under clause (i) of this subparagraph, except that the base period taken into account shall be the calendar quarter beginning July 1, 2023.
 
   (D) *Aggregation of plans* — For purposes of this paragraph, plans described in clauses (i), (ii), and (iv) of paragraph (6)(A) that are maintained by the same employer (as determined under subsection (b), (c), (m) or (o)) shall be treated as a single plan, and plans described in clause (iii) of paragraph (6)(A) that are maintained by the same employer shall be treated as a single plan.
 
@@ -76183,6 +77792,18 @@ The regulations prescribed under subsection (n) shall include provisions to mini
   (B) *Elective deferral* — The term “elective deferral” has the meaning given such term by subsection (u)(2)(C).
 
   (C) *Exception for section 457 plans* — This subsection shall not apply to a participant for any year for which a higher limitation applies to the participant under section 457(b)(3).
+
+(7) **Certain deferrals must be Roth contributions**
+
+  (A) *In general* — Except as provided in subparagraph (C), in the case of an eligible participant whose wages (as defined in section 3121(a)) for the preceding calendar year from the employer sponsoring the plan exceed $145,000, paragraph (1) shall apply only if any additional elective deferrals are designated Roth contributions (as defined in section 402A(c)(1)) made pursuant to an employee election.
+
+  (B) *Roth option* — In the case of an applicable employer plan with respect to which subparagraph (A) applies to any participant for a plan year, paragraph (1) shall not apply to the plan unless the plan provides that any eligible participant may make the participant’s additional elective deferrals as designated Roth contributions.
+
+  (C) *Exception* — Subparagraph (A) shall not apply in the case of an applicable employer plan described in paragraph (6)(A)(iv).
+
+  (D) *Election to change deferrals* — The Secretary may provide by regulations that an eligible participant may elect to change the participant’s election to make additional elective deferrals if the participant’s compensation is determined to exceed the limitation under subparagraph (A) after the election is made.
+
+  (E) *Cost of living adjustment* — In the case of a year beginning after December 31, 2024, the Secretary shall adjust annually the $145,000 amount in subparagraph (A) for increases in the cost-of-living at the same time and in the same manner as adjustments under 415(d); except that the base period taken into account shall be the calendar quarter beginning July 1, 2023, and any increase under this subparagraph which is not a multiple of $5,000 shall be rounded to the next lower multiple of $5,000.
 
 **(w) Special rules for certain withdrawals from eligible automatic contribution arrangements**
 
@@ -76421,17 +78042,136 @@ The regulations prescribed under subsection (n) shall include provisions to mini
 
     (ii) in the case of a plan other than a defined benefit plan, the balance of the employee’s account under the plan.
 
+**(aa) Special rules applicable to benefit overpayments**
+
+(1) **In general** — A plan shall not fail to be treated as described in clause (i), (ii), (iii), or (iv) of section 219(g)(5)(A) (and shall not fail to be treated as satisfying the requirements of section 401(a) or 403) merely because—
+
+  (A) the plan fails to obtain payment from any participant, beneficiary, employer, plan sponsor, fiduciary, or other party on account of any inadvertent benefit overpayment made by the plan, or
+
+  (B) the plan sponsor amends the plan to increase past, or decrease future, benefit payments to affected participants and beneficiaries in order to adjust for prior inadvertent benefit overpayments.
+
+(2) **Reduction in future benefit payments and recovery from responsible party** — Paragraph (1) shall not fail to apply to a plan merely because, after discovering a benefit overpayment, such plan—
+
+  (A) reduces future benefit payments to the correct amount provided for under the terms of the plan, or
+
+  (B) seeks recovery from the person or persons responsible for such overpayment.
+
+(3) **Employer funding obligations** — Nothing in this subsection shall relieve an employer of any obligation imposed on it to make contributions to a plan to meet the minimum funding standards under sections 412 and 430 or to prevent or restore an impermissible forfeiture in accordance with section 411.
+
+(4) **Observance of benefit limitations** — Notwithstanding paragraph (1), a plan to which paragraph (1) applies shall observe any limitations imposed on it by section 401(a)(17) or 415. The plan may enforce such limitations using any method approved by the Secretary for recouping benefits previously paid or allocations previously made in excess of such limitations.
+
+(5) **Coordination with other qualification requirements** — The Secretary may issue regulations or other guidance of general applicability specifying how benefit overpayments and their recoupment or non-recoupment from a participant or beneficiary shall be taken into account for purposes of satisfying any requirement applicable to a plan to which paragraph (1) applies.
+
+**(bb) Eliminating unnecessary plan requirements related to unenrolled participants**
+
+(1) **In general** — Notwithstanding any other provision of this title, with respect to any defined contribution plan, no disclosure, notice, or other plan document (other than the notices and documents described in subparagraphs (A) and (B)) shall be required to be furnished under this title to any unenrolled participant if the unenrolled participant is furnished—
+
+  (A) an annual reminder notice of such participant’s eligibility to participate in such plan and any applicable election deadlines under the plan, and
+
+  (B) any document requested by such participant that the participant would be entitled to receive notwithstanding this subsection.
+
+(2) **Unenrolled participant** — For purposes of this subsection, the term “unenrolled participant” means an employee who—
+
+  (A) is eligible to participate in a defined contribution plan,
+
+  (B) has been furnished—
+
+    (i) the summary plan description pursuant to section 104(b) of the Employee Retirement Income Security Act of 1974, and
+
+    (ii) any other notices related to eligibility under the plan and required to be furnished under this title, or the Employee Retirement Income Security Act of 1974, in connection with such participant’s initial eligibility to participate in such plan,
+
+  (C) is not participating in such plan, and
+
+  (D) satisfies such other criteria as the Secretary of the Treasury may determine appropriate, as prescribed in guidance issued in consultation with the Secretary of Labor.
+  For purposes of this subsection, any eligibility to participate in the plan following any period for which such employee was not eligible to participate shall be treated as initial eligibility.
+
+(3) **Annual reminder notice** — For purposes of this subsection, the term “annual reminder notice” means the notice described in section 111(c) of the Employee Retirement Income Security Act of 1974.
+
+**(cc) Correcting automatic contribution errors**
+
+(1) **In general** — Any plan or arrangement shall not fail to be treated as a plan described in sections 401(a), 403(b), 408, or 457(b), as applicable, solely by reason of a corrected error.
+
+(2) **Corrected error defined** — For purposes of this subsection, the term “corrected error” means a reasonable administrative error—
+
+  (A)
+
+    (i) made in implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee covered by such feature), or
+
+    (ii) made by failing to afford an eligible employee the opportunity to make an affirmative election because such employee was improperly excluded from the plan], and
+
+  (B) that is corrected prospectively by implementing an automatic enrollment or automatic escalation feature with respect to an eligible employee (or an affirmative election made by an eligible employee) determined in accordance with the terms of an eligible automatic contribution arrangement (as defined under subsection (w)(3)), provided that—
+
+    (i) such implementation error is corrected not later than—
+
+      (I) the date of the first payment of compensation made by the employer to the employee on or after the last day of the 9½ month-period after the end of the plan year during which such error with respect to the employee first occurred, or
+
+      (II) if earlier in the case of an employee who notifies the plan sponsor of such error, the date of the first payment of compensation made by the employer to the employee on or after the last day of the month following the month in which such notification was made,
+
+    (ii) in the case of an employee who would have been entitled to additional matching contributions had any missed elective deferral been made, the plan sponsor makes a corrective allocation, not later than the deadline specified by the Secretary in regulations or other guidance prescribed under paragraph (3), of matching contributions on behalf of the employee in an amount equal to the additional matching contributions to which the employee would have been so entitled (adjusted to account for earnings had the missed elective deferrals been made).
+
+    (iii) such implementation error is of a type which is so corrected for all similarly situated participants in a nondiscriminatory manner,
+
+    (iv) notice of such error is given to the employee not later than 45 days after the date on which correct deferrals begin, and
+
+    (v) the notice under clause (iv) satisfies such regulations or other guidance as the Secretary prescribes under paragraph (4).
+  Such correction may occur before or after the participant has terminated employment and may occur without regard to whether the error is identified by the Secretary.
+
+(3) **No obligation for employer to restore missed elective deferrals** — If the requirements of paragraph (2)(B) are satisfied, the employer will not be required to provide eligible employees with the missed amount of elective deferrals resulting from a reasonable administrative error described in paragraph (2)(A)(i) or (ii) through a qualified nonelective contribution, or otherwise.
+
+(4) **Regulations and guidance for favorable correction methods** — The Secretary shall by regulations or other guidance of general applicability prescribe—
+
+  (A) the deadline for making a corrective allocation of matching contributions required by paragraph (2)(B)(ii),
+
+  (B) the content of the notice required by paragraph (2)(B)(iv),
+
+  (C) the manner in which the amount of the corrective allocation under paragraph (2)(B)(ii) is determined,
+
+  (D) the manner of adjustment to account for earnings on matching contributions under paragraph (2)(B)(ii), and
+
+  (E) such other rules as are necessary to carry out the purposes of the subsection.
+
 ### Statutory Notes
 
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
+#### Amendment of Subsection (v)(2)
+Pub. L. 117–328, div. T, title I, § 109, Dec. 29, 2022, 136 Stat. 5290, provided that, applicable to taxable years beginning after Dec. 31, 2024, subsection (v)(2) of this section is amended as follows:
+
+(1) in subparagraph (B)—
+
+(A) in clause (i), by inserting the following before the period: “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year)”; and
+
+(B) in clause (ii), by inserting the following before the period: “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year)”;
+
+(2) in subparagraph (C), by adding at the end the following: “In the case of a year beginning after December 31, 2025, the Secretary shall adjust annually the adjusted dollar amounts applicable under clauses (i) and (ii) of subparagraph (E) for increases in the cost-of-living at the same time and in the same manner as adjustments under the preceding sentence; except that the base period taken into account shall be the calendar quarter beginning July 1, 2024.”; and
+
+(3) by adding at the end the following new subparagraph:
+
+(E) Adjusted dollar amount
+
+For purposes of subparagraph (B), the adjusted dollar amount is—
+
+(i) in the case of clause (i) of subparagraph (B), the greater of—
+
+(I) $10,000, or
+
+(II) an amount equal to 150 percent of the dollar amount which would be in effect under such clause for 2024 for eligible participants not described in the parenthetical in such clause, or
+
+(ii) in the case of clause (ii) of subparagraph (B), the greater of—
+
+(I) $5,000, or
+
+(II) an amount equal to equal to 150 percent of the dollar amount which would be in effect under such clause for 2025 for eligible participants not described in the parenthetical in such clause.
+
+See 2022 Amendment notes below.
+
 #### References in Text
 The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (d), means act Aug. 29, 1935, ch. 812, 49 Stat. 867, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–444, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
-The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (d), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. The Act also amended several other laws including the Internal Revenue Code of 1939. For exemption from taxation of income of international organizations and of the compensation of employees thereof, see sections 892 and 893 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
+The International Organizations Immunities Act (59 Stat. 669), referred to in subsec. (d), is act Dec. 29, 1945, ch. 652, title I, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. The Act also amended several other laws including the Internal Revenue Code of 1939. For exemption from taxation of income of international organizations and of the compensation of employees thereof, see sections 892 and 893 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(3), (5), (6)(B), (F) and (l)(1), (2)(E), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Section 3(37)(A)(iii) of the Act is classified to [section 1002(37)(A)(iii) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/37/A/iii&num=0&edition=prelim). Section 4403(b) and (c) of the Employee Retirement Income Security Act of 1974 probably means section 4303(b) and (c) of such Act which is classified to section 1453(b) and (c) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (f)(3), (5), (6)(B), (F), (l)(1), (2)(E), and (bb)(2)(B), (3), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 3(37)(A)(iii), 104(b), and 111(c) of the Act are classified to sections 1002(37)(A)(iii), 1024(b), and 1031(c), respectively, of Title 29. Section 4403(b) and (c) of the Employee Retirement Income Security Act of 1974 probably means section 4303(b) and (c) of such Act which is classified to section 1453(b) and (c) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 The date of the enactment of the Multiemployer Pension Plan Amendments Act of 1980, referred to in subsec. (f)(4), (5), means the date of the enactment of Pub. L. 96–364, which was approved Sept. 26, 1980.
 
@@ -76444,6 +78184,38 @@ Section 403(b)(7)(A)(ii), referred to in subsec. (u)(12)(B)(i), probably means [
 The Preservation of Access to Care for Medicare Beneficiaries and Pension Relief Act of 2010, referred to in subsec. (y)(1)(A)(ii), (3)(B), is Pub. L. 111–192, June 25, 2010, 124 Stat. 1280. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim), Labor, and Tables.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–328, § 315(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (m)(6)(B). Pub. L. 117–328, § 315(a)(2)(A), (B), designated existing provisions as cl. (i), inserted heading, and added cls. (ii) and (iii).
+
+Subsec. (m)(6)(B)(i). Pub. L. 117–328, § 315(a)(2)(C), substituted “apply, except that community property laws shall be disregarded for purposes of determining ownership” for “apply”.
+
+Subsec. (p)(1)(B). Pub. L. 117–328, § 339(a)(2), inserted concluding provisions.
+
+Subsec. (p)(1)(B)(ii). Pub. L. 117–328, § 339(a)(1), inserted “or Tribal” after “State”.
+
+Subsec. (v)(2)(B)(i). Pub. L. 117–328, § 109(a)(1), inserted before period at end “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year)”.
+
+Subsec. (v)(2)(B)(ii). Pub. L. 117–328, § 117(b)(1)(A), substituted “except as provided in clause (iii), the applicable” for “the applicable”.
+
+Pub. L. 117–328, § 109(a)(2), inserted before period at end “(the adjusted dollar amount, in the case of an eligible participant who would attain age 60 but would not attain age 64 before the close of the taxable year)”.
+
+Subsec. (v)(2)(B)(iii). Pub. L. 117–328, § 117(b)(1)(B), added cl. (iii).
+
+Subsec. (v)(2)(C). Pub. L. 117–328, § 117(b)(2), designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+
+Pub. L. 117–328, § 109(c), inserted at end “In the case of a year beginning after December 31, 2025, the Secretary shall adjust annually the adjusted dollar amounts applicable under clauses (i) and (ii) of subparagraph (E) for increases in the cost-of-living at the same time and in the same manner as adjustments under the preceding sentence; except that the base period taken into account shall be the calendar quarter beginning July 1, 2024.”
+
+Subsec. (v)(2)(E). Pub. L. 117–328, § 109(b), added subpar. (E).
+
+Subsec. (v)(7). Pub. L. 117–328, § 603(a), added par. (7).
+
+Subsec. (aa). Pub. L. 117–328, § 301(b)(1), added subsec. (aa).
+
+Subsec. (bb). Pub. L. 117–328, § 320(b), added subsec. (bb).
+
+Subsec. (cc). Pub. L. 117–328, § 350(a), added subsec. (cc).
+
 2020—Subsec. (y)(1)(D). Pub. L. 116–136 added subpar. (D).
 
 2018—Subsec. (l)(2)(G). Pub. L. 115–141, § 401(a)(87), substituted “depository institutions” for “banks” in heading.
@@ -76826,6 +78598,21 @@ Subsec. (g)(2)(C). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his del
 
 Subsec. (l). Pub. L. 94–455, § 1901(a)(64)(B), substituted reference to Sept. 2, 1974, for reference to the date of enactment of the Employee Retirement Income Security Act of 1974.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 109(d), Dec. 29, 2022, 136 Stat. 5290, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2024.”
+
+Amendment by section 117(b) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2023, see section 117(h) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 117–328, div. T, title III, § 315(b), Dec. 29, 2022, 136 Stat. 5352, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2023.”
+
+Pub. L. 117–328, div. T, title III, § 320(c), Dec. 29, 2022, 136 Stat. 5356, provided that: “The amendments made by this section [enacting [section 1030a of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1030a&num=0&edition=prelim), Labor, and amending this section, sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, and sections 441 and 1031 of Title 29] shall apply to plan years beginning after December 31, 2022.”
+
+Pub. L. 117–328, div. T, title III, § 339(c), Dec. 29, 2022, 136 Stat. 5375, provided that: “The amendments made by this section [amending this section and [section 1056 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056&num=0&edition=prelim), Labor] shall apply to domestic relations orders received by plan administrators after December 31, 2022, including any such order which is submitted for reconsideration after such date.”
+
+Pub. L. 117–328, div. T, title III, § 350(b), Dec. 29, 2022, 136 Stat. 5387, provided that: “The amendment made by this section [amending this section] shall apply with respect to any errors with respect to which the date referred to in section 414(cc) (as added by this section) is after December 31, 2023. Prior to the application of any regulations or other guidance prescribed under paragraph (3) of section 414(cc) of the Internal Revenue Code of 1986 (as added by this section), taxpayers may rely upon their reasonable good faith interpretations of the provisions of such section.”
+
+Amendment by section 603(a) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2023, see section 603(c) of Pub. L. 117–328, set out as a note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–136, div. A, title III, § 3609(c), Mar. 27, 2020, 134 Stat. 414, provided that: “The amendments made by this section [amending this section and [section 1060 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060&num=0&edition=prelim), Labor] shall apply to plan years beginning after December 31, 2018.”
 
@@ -76985,8 +78772,11 @@ Pub. L. 109–280, title X, § 1001, Aug. 17, 2006, 120 Stat. 1052, provided tha
 
 Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final regulations to carry out amendments made by sections 1114, 1115, and 1117 of Pub. L. 99–514, see section 1141 of Pub. L. 99–514, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
+#### Provisions Relating to Plan Amendments Pursuant to Pub. L. 117–328
+Pub. L. 117–328, div. T, title V, § 501(a), (b), Dec. 29, 2022, 136 Stat. 5388, provided that: “(a) In General.—If this section applies to any retirement plan or contract amendment—“(1) such retirement plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subsection (b)(2)(A); and “(2) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such retirement plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(b) Amendments to Which Section Applies.—“(1) In general.—This section shall apply to any amendment to any retirement plan or annuity contract which is made—“(A) pursuant to any amendment made by this Act or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or a delegate of either such Secretary) under this Act [div. T of Pub. L. 117–328, see Tables for classification]; and “(B) on or before the last day of the first plan year beginning on or after January 1, 2025, or such later date as the Secretary of the Treasury may prescribe. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), or an applicable collectively bargained plan, this paragraph shall be applied by substituting ‘2027’ for ‘2025’. For purposes of the preceding sentence, the term ‘applicable collectively bargained plan’ means a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act [Dec. 29, 2022]. “(2) Conditions.—This section shall not apply to any amendment unless—“(A) during the period—“(i) beginning on the date the legislative or regulatory amendment described in paragraph (1)(A) takes effect (or in the case of a plan or contract amendment not required by such legislative or regulatory amendment, the effective date specified by the plan); and “(ii) ending on the date described in paragraph (1)(B) (as modified by the second sentence of paragraph (1)) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect; and “(B) such plan or contract amendment applies retroactively for such period.”
+
 #### Provisions Relating to Plan Amendments Pursuant to Pub. L. 116–94
-Pub. L. 116–94, div. O, title VI, § 601, Dec. 20, 2019, 133 Stat. 3181, provided that: “(a) In General.—If this section applies to any retirement plan or contract amendment—“(1) such retirement plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subsection (b)(2)(A); and “(2) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such retirement plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(b) Amendments to Which Section Applies.—“(1) In general.—This section shall apply to any amendment to any retirement plan or annuity contract which is made—“(A) pursuant to any amendment made by this Act or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or a delegate of either such Secretary) under this Act [div. O of Pub. L. 116–94, see Tables for classification]; and “(B) on or before the last day of the first plan year beginning on or after January 1, 2022, or such later date as the Secretary of the Treasury may prescribe. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), or an applicable collectively bargained plan in the case of section 401 (and the amendments made thereby), this paragraph shall be applied by substituting ‘2024’ for ‘2022’. For purposes of the preceding sentence, the term ‘applicable collectively bargained plan’ means a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act [Dec. 20, 2019]. “(2) Conditions.—This section shall not apply to any amendment unless—“(A) during the period—“(i) beginning on the date the legislative or regulatory amendment described in paragraph (1)(A) takes effect (or in the case of a plan or contract amendment not required by such legislative or regulatory amendment, the effective date specified by the plan); and “(ii) ending on the date described in paragraph (1)(B) (as modified by the second sentence of paragraph (1)) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect; and “(B) such plan or contract amendment applies retroactively for such period.”
+Pub. L. 116–94, div. O, title VI, § 601, Dec. 20, 2019, 133 Stat. 3181, as amended by Pub. L. 117–328, div. T, title V, § 501(c)(1), Dec. 29, 2022, 136 Stat. 5389, provided that: “(a) In General.—If this section applies to any retirement plan or contract amendment—“(1) such retirement plan or contract shall be treated as being operated in accordance with the terms of the plan during the period described in subsection (b)(2)(A); and “(2) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), such retirement plan shall not fail to meet the requirements of section 411(d)(6) of the Internal Revenue Code of 1986 and section 204(g) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1054(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/g&num=0&edition=prelim)] by reason of such amendment. “(b) Amendments to Which Section Applies.—“(1) In general.—This section shall apply to any amendment to any retirement plan or annuity contract which is made—“(A) pursuant to any amendment made by this Act or pursuant to any regulation issued by the Secretary of the Treasury or the Secretary of Labor (or a delegate of either such Secretary) under this Act [div. O of Pub. L. 116–94, see Tables for classification]; and “(B) on or before the last day of the first plan year beginning on or after January 1, 2025, or such later date as the Secretary of the Treasury may prescribe. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), or an applicable collectively bargained plan in the case of section 401 (and the amendments made thereby), this paragraph shall be applied by substituting ‘2027’ for ‘2025’. For purposes of the preceding sentence, the term ‘applicable collectively bargained plan’ means a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before the date of enactment of this Act [Dec. 20, 2019]. “(2) Conditions.—This section shall not apply to any amendment unless—“(A) during the period—“(i) beginning on the date the legislative or regulatory amendment described in paragraph (1)(A) takes effect (or in the case of a plan or contract amendment not required by such legislative or regulatory amendment, the effective date specified by the plan); and “(ii) ending on the date described in paragraph (1)(B) (as modified by the second sentence of paragraph (1)) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect; and “(B) such plan or contract amendment applies retroactively for such period.”
 
 #### Provisions Relating to Plan Amendments Pursuant to Pub. L. 110–245
 Pub. L. 110–245, title I, § 105(c), June 17, 2008, 122 Stat. 1629, provided that: “(1) In general.—If this subsection applies to any plan or annuity contract amendment, such plan or contract shall be treated as being operated in accordance with the terms of the plan or contract during the period described in paragraph (2)(B)(i). “(2) Amendments to which section applies.—“(A) In general.—This subsection shall apply to any amendment to any plan or annuity contract which is made—“(i) pursuant to any amendment made by subsection (b)(1) [amending this section], and “(ii) on or before the last day of the first plan year beginning on or after January 1, 2010. In the case of a governmental plan (as defined in section 414(d) of the Internal Revenue Code of 1986), this subparagraph shall be applied by substituting ‘2012’ for ‘2010’ in clause (ii). “(B) Conditions.—This subsection shall not apply to any plan or annuity contract amendment unless—“(i) during the period beginning on the date the amendment described in subparagraph (A)(i) takes effect and ending on the date described in subparagraph (A)(ii) (or, if earlier, the date the plan or contract amendment is adopted), the plan or contract is operated as if such plan or contract amendment were in effect, and “(ii) such plan or contract amendment applies retroactively for such period.”
@@ -77028,6 +78818,65 @@ For provisions directing that if any amendments made by subtitle B [§§ 521–5
 
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+
+<a id="section-414a"></a>
+## § 414A. Requirements related to automatic enrollment
+**(a) In general** Except as otherwise provided in this section—
+
+(1) an arrangement shall not be treated as a qualified cash or deferred arrangement described in section 401(k) unless such arrangement meets the automatic enrollment requirements of subsection (b), and
+
+(2) an annuity contract otherwise described in section 403(b) which is purchased under a salary reduction agreement shall not be treated as described in such section unless such agreement meets the automatic enrollment requirements of subsection (b).
+
+**(b) Automatic enrollment requirements**
+
+(1) **In general** — An arrangement or agreement meets the requirements of this subsection if such arrangement or agreement is an eligible automatic contribution arrangement (as defined in section 414(w)(3)) which meets the requirements of paragraphs (2) through (4).
+
+(2) **Allowance of permissible withdrawals** — An eligible automatic contribution arrangement meets the requirements of this paragraph if such arrangement allows employees to make permissible withdrawals (as defined in section 414(w)(2)).
+
+(3) **Minimum contribution percentage**
+
+  (A) *In general* — An eligible automatic contribution arrangement meets the requirements of this paragraph if—
+
+    (i) the uniform percentage of compensation contributed by the participant under such arrangement during the first year of participation is not less than 3 percent and not more than 10 percent (unless the participant specifically elects not to have such contributions made or to have such contributions made at a different percentage), and
+
+    (ii) effective for the first day of each plan year starting after each completed year of participation under such arrangement such uniform percentage is increased by 1 percentage point (to at least 10 percent, but not more than 15 percent) unless the participant specifically elects not to have such contributions made or to have such contributions made at a different percentage.
+
+  (B) *Initial reduced ceiling for certain plans* — In the case of any eligible automatic contribution arrangement (other than an arrangement that meets the requirements of paragraph (12) or (13) of section 401(k)), for plan years ending before January 1, 2025, subparagraph (A)(ii) shall be applied by substituting “10 percent” for “15 percent”.
+
+(4) **Investment requirements** — An eligible automatic contribution arrangement meets the requirements of this paragraph if amounts contributed pursuant to such arrangement, and for which no investment is elected by the participant, are invested in accordance with the requirements of section 2550.404c-5 of title 29, Code of Federal Regulations (or any successor regulations).
+
+**(c) Exceptions** For purposes of this section—
+
+(1) **Simple plans** — Subsection (a) shall not apply to any simple plan (within the meaning of section 401(k)(11)).
+
+(2) **Exception for plans or arrangements established before enactment of section**
+
+  (A) *In general* — Subsection (a) shall not apply to—
+
+    (i) any qualified cash or deferred arrangement established before the date of the enactment of this section, or
+
+    (ii) any annuity contract purchased under a plan established before the date of the enactment of this section.
+
+  (B) *Post-enactment adoption of multiple employer plan* — Subparagraph (A) shall not apply in the case of an employer adopting after such date of enactment a plan maintained by more than one employer, and subsection (a) shall apply with respect to such employer as if such plan were a single plan.
+
+(3) **Exception for governmental and church plans** — Subsection (a) shall not apply to any governmental plan (within the meaning of section 414(d)) or any church plan (within the meaning of section 414(e)).
+
+(4) **Exception for new and small businesses**
+
+  (A) *New business* — Subsection (a) shall not apply to any qualified cash or deferred arrangement, or any annuity contract purchased under a plan, while the employer maintaining such plan (and any predecessor employer) has been in existence for less than 3 years.
+
+  (B) *Small businesses* — Subsection (a) shall not apply to any qualified cash or deferred arrangement, or any annuity contract purchased under a plan, earlier than the date that is 1 year after the close of the first taxable year with respect to which the employer maintaining the plan normally employed more than 10 employees.
+
+  (C) *Treatment of multiple employer plans* — In the case of a plan maintained by more than 1 employer, subparagraphs (A) and (B) shall be applied separately with respect to each such employer, and all such employers to which subsection (a) applies (after the application of this paragraph) shall be treated as maintaining a separate plan for purposes of this section.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, and such date of enactment, referred to in subsec. (c)(2), is the date of enactment of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
+#### Effective Date
+Pub. L. 117–328, div. T, title I, § 101(c), Dec. 29, 2022, 136 Stat. 5277, provided that: “The amendments made by this section [enacting this section] shall apply to plan years beginning after December 31, 2024.”
 
 
 <a id="section-415"></a>
@@ -77176,6 +79025,23 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
     (ii) *Revocation of election* — An election under clause (i) may be revoked not later than the last day of the third plan year beginning after the date of the enactment of this clause. The revocation shall apply to all plan years to which the election applied and to all subsequent plan years. Any amount paid by a plan in a taxable year ending after the revocation shall be includible in income in such taxable year under the rules of this chapter in effect for such taxable year, except that, for purposes of applying the limitations imposed by this section, any portion of such amount which is attributable to any taxable year during which the election was in effect shall be treated as received in such taxable year.
 
 (11) **Special limitation rule for governmental and multiemployer plans** — In the case of a governmental plan (as defined in section 414(d)) or a multiemployer plan (as defined in section 414(f)), subparagraph (B) of paragraph (1) shall not apply. Subparagraph (B) of paragraph (1) shall not apply to a plan maintained by an organization described in section 3121(w)(3)(A) except with respect to highly compensated benefits. For purposes of this paragraph, the term “highly compensated benefits” means any benefits accrued for an employee in any year on or after the first year in which such employee is a highly compensated employee (as defined in section 414(q)) of the organization described in section 3121(w)(3)(A). For purposes of applying paragraph (1)(B) to highly compensated benefits, all benefits of the employee otherwise taken into account (without regard to this paragraph) shall be taken into account.
+
+(12) **Special rule for certain employees of rural electric cooperatives**
+
+  (A) *In general* — Subparagraph (B) of paragraph (1) shall not apply to a participant in an eligible rural electric cooperative plan, except in the case of a participant who was a highly compensated employee (as defined in section 414(q)) of an employer maintaining such plan for the earlier of—
+
+    (i) the plan year in which the participant terminated employment with such employer, or
+
+    (ii) the plan year in which distributions commence under the plan with respect to the participant, or
+    for any of the 5 plan years immediately preceding such earlier plan year.
+
+  (B) *Eligible rural electric cooperative plan* — For purposes of this paragraph—
+
+    (i) *In general* — The term “eligible rural electric cooperative plan” means a plan maintained by more than 1 employer, with respect to which at least 85 percent of the employers maintaining the plan are rural cooperatives described in clause (i) or (ii) of section 401(k)(7)(B) or are a national association of such a rural cooperative.
+
+    (ii) *Election* — An employer maintaining an eligible rural cooperative plan may elect not to have subparagraph (A) apply to its employees.
+
+  (C) *Regulations* — The Secretary shall prescribe such regulations and other guidance as are necessary to limit the application of subparagraph (A) such that it does not result in increased benefits for highly compensated employees.
 
 **(c) Limitation for defined contribution plans**
 
@@ -77458,6 +79324,8 @@ The Social Security Act, referred to in subsecs. (b)(8) and (d)(2)(B), is act Au
 The date of the enactment of this clause, referred to in subsec. (b)(10)(C)(ii), is the date of enactment of Pub. L. 104–188, which was approved Aug. 20, 1996.
 
 #### Amendments
+2022—Subsec. (b)(12). Pub. L. 117–328 added par. (12).
+
 2019—Subsec. (c)(8). Pub. L. 116–94 added par. (8).
 
 2018—Subsec. (g). Pub. L. 115–141 substituted “subsection (f)(2)” for “subsection (f)(3)”.
@@ -77844,6 +79712,9 @@ Subsec. (e)(5). Pub. L. 94–455, § 803(b)(4), substituted “For purposes of t
 
 Subsecs. (g), (i), (j). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 119(b), Dec. 29, 2022, 136 Stat. 5303, provided that: “The amendment made by this section [amending this section] shall apply to limitation years ending after the date of the enactment of this Act [Dec. 29, 2022].”
+
 #### Effective Date of 2019 Amendment
 Pub. L. 116–94, div. O, title I, § 116(b)(2), Dec. 20, 2019, 133 Stat. 3161, provided that: “The amendment made by this subsection [amending this section] shall apply to plan years beginning after December 31, 2015.”
 
@@ -78099,6 +79970,8 @@ Pub. L. 93–406, title II, § 2004(a)(3), Sept. 2, 1974, 88 Stat. 985, as amend
 
       (II) This subparagraph shall not apply to any plan required to be included in an aggregation group if such plan enables a defined benefit plan required to be included in such group to meet the requirements of section 401(a)(4) or 410.
 
+  (C) *Application to employees not meeting age and service requirements* — Any employees not meeting the age or service requirements of section 410(a)(1) (without regard to subparagraph (B) thereof) may be excluded from consideration in determining whether any plan of the employer meets the requirements of subparagraphs (A) and (B).
+
 **(d) Repealed. Pub. L. 99–514, title XI, § 1106(d)(3)(B)(i), Oct. 22, 1986, 100 Stat. 2424]**
 
 **(e) Plan must meet requirements without taking into account social security and similar contributions and benefits** A top-heavy plan shall not be treated as meeting the requirement of subsection (b) or (c) unless such plan meets such requirement without taking into account contributions or benefits under chapter 2 (relating to tax on self-employment income), chapter 21 (relating to Federal Insurance Contributions Act), title II of the Social Security Act, or any other Federal or State law.
@@ -78174,12 +80047,12 @@ Pub. L. 93–406, title II, § 2004(a)(3), Sept. 2, 1974, 88 Stat. 985, as amend
 
   (G) *Simple retirement accounts* — The term “top-heavy plan” shall not include a simple retirement account under section 408(p).
 
-  (H) *Cash or deferred arrangements using alternative methods of meeting nondiscrimination requirements* — The term “top-heavy plan” shall not include a plan which consists solely of—
+  (H) *Cash or deferred arrangements or plans using alternative methods of meeting nondiscrimination requirements* — The term “top-heavy plan” shall not include a plan which consists solely of—
 
-    (i) a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13), and
+    (i) a cash or deferred arrangement which meets the requirements of section 401(k)(12) or 401(k)(13) and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or
 
-    (ii) matching contributions with respect to which the requirements of section 401(m)(11) or 401(m)(12) are met.
-    If, but for this subparagraph, a plan would be treated as a top-heavy plan because it is a member of an aggregation group which is a top-heavy group, contributions under the plan may be taken into account in determining whether any other plan in the group meets the requirements of subsection (c)(2).
+    (ii) a starter 401(k) deferral-only arrangement described in section 401(k)(16)(B) or a safe harbor deferral-only plan described in section 403(b)(16).
+    Such term shall not include a plan solely because such plan does not provide nonelective or matching contributions to employees described in section 401(k)(15)(B)(i). If, but for this subparagraph, a plan would be treated as a top-heavy plan because it is a member of an aggregation group which is a top-heavy group, contributions under the plan may be taken into account in determining whether any other plan in the group meets the requirements of subsection (c)(2).
 
 **(h) Repealed. Pub. L. 104–188, title I, § 1452(c)(7), Aug. 20, 1996, 110 Stat. 1816]**
 
@@ -78240,11 +80113,17 @@ Pub. L. 93–406, title II, § 2004(a)(3), Sept. 2, 1974, 88 Stat. 985, as amend
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
 #### References in Text
-The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (e), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
 
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (c)(2)(C). Pub. L. 117–328, § 310(a), added subpar. (C).
+
+Subsec. (g)(4)(H). Pub. L. 117–328, § 125(e), inserted “Such term shall not include a plan solely because such plan does not provide nonelective or matching contributions to employees described in section 401(k)(15)(B)(i).” before “If, but” in concluding provisions.
+
+Pub. L. 117–328, § 121(c), substituted “arrangements or plans” for “arrangements” in heading and “and matching contributions with respect to which the requirements of paragraph (11), (12), or (13) of section 401(m) are met, or” for “, and” in cl. (i), added cl. (ii), and struck out former cl. (ii) which read as follows: “matching contributions with respect to which the requirements of section 401(m)(11) or 401(m)(12) are met.”
+
 2006—Subsec. (g)(4)(H)(i). Pub. L. 109–280, § 902(c)(1), inserted “or 401(k)(13)” after “401(k)(12)”.
 
 Subsec. (g)(4)(H)(ii). Pub. L. 109–280, § 902(c)(2), inserted “or 401(m)(12)” after “401(m)(11)”.
@@ -78328,6 +80207,13 @@ Subsec. (i)(1)(A)(ii). Pub. L. 98–369, § 713(f)(1)(B), required a key employe
 Subsec. (i)(1)(B)(iii). Pub. L. 98–369, § 713(f)(6)(B), substituted subparagraph “(A)(ii)” for “(A)(ii)(II)”.
 
 Subsec. (i)(1)(C). Pub. L. 98–369, § 713(f)(1)(A), substituted in heading “ownership in the employer” for “5-percent or 1-percent owners”.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 121(c) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 121(d) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 125(e) of Pub. L. 117–328 effective as if included in the enactment of section 112 of div. O of Pub. L. 116–94, see section 125(f)(2) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 117–328, div. T, title III, § 310(b), Dec. 29, 2022, 136 Stat. 5347, provided that: “The amendment made by subsection (a) [amending this section] shall apply to plan years beginning after December 31, 2023.”
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 applicable to plan years beginning after Dec. 31, 2007, see section 902(g) of Pub. L. 109–280, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -79267,7 +81153,7 @@ Pub. L. 99–514, title XVIII, § 1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, 
 
 (3) **Limitation on amount transferred** — The amount of excess pension assets which may be transferred to an account in a qualified transfer shall not exceed the amount which is reasonably estimated to be the amount the employer maintaining the plan will pay (whether directly or through reimbursement) out of such account during the taxable year of the transfer for qualified current retiree liabilities.
 
-(4) **Expiration** — No transfer made after December 31, 2025, shall be treated as a qualified transfer.
+(4) **Expiration** — No transfer made after December 31, 2032, shall be treated as a qualified transfer.
 
 **(c) Requirements of plans transferring assets**
 
@@ -79307,7 +81193,7 @@ Pub. L. 99–514, title XVIII, § 1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, 
 
   (C) *Election to compute cost separately* — An employer may elect to have this paragraph applied separately for applicable health benefits with respect to individuals eligible for benefits under title XVIII of the Social Security Act at any time during the taxable year and with respect to individuals not so eligible, and separately for applicable life insurance benefits with respect to individuals age 65 or older at any time during the taxable year and with respect to individuals under age 65 during the taxable year.
 
-  (D) *Cost maintenance period* — For purposes of this paragraph, the term “cost maintenance period” means the period of 5 taxable years beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
+  (D) *Cost maintenance period* — For purposes of this paragraph, the term “cost maintenance period” means the period of 5 taxable years (7 taxable years in the case of a transfer to which subsection (e)(7) applies) beginning with the taxable year in which the qualified transfer occurs. If a taxable year is in two or more overlapping cost maintenance periods, this paragraph shall be applied by taking into account the highest applicable employer cost required to be provided under subparagraph (A) for such taxable year.
 
   (E) *Regulations*
 
@@ -79384,6 +81270,12 @@ Pub. L. 99–514, title XVIII, § 1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, 
 
   (B) in accordance with such modifications of this section (and the provisions of this title relating to this section) as the Secretary determines appropriate to reflect the fact the plan is not maintained by a single employer.
 
+(7) **Special rule for de minimis transfers**
+
+  (A) *In general* — In the case of a transfer of an amount which is not more than 1.75 percent of the amount determined under paragraph (2)(A) by a plan which meets the requirements of subparagraph (B), paragraph (2)(B) shall be applied by substituting “110 percent” for “125 percent”.
+
+  (B) *Two-year lookback requirement* — A plan is described in this subparagraph if, as of any valuation date in each of the 2 plan years immediately preceding the plan year in which the transfer occurs, the amount determined under paragraph (2)(A) exceeded 110 percent of the sum of the funding target and the target normal cost determined under section 430 for each such plan year.
+
 **(f) Qualified transfers to cover future retiree costs and collectively bargained retiree benefits**
 
 (1) **In general** — An employer maintaining a defined benefit plan (other than a multiemployer plan) may, in lieu of a qualified transfer, elect for any taxable year to have the plan make—
@@ -79407,7 +81299,11 @@ Pub. L. 99–514, title XVIII, § 1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, 
 
   (B) *Excess pension assets*
 
-    (i) *In general* — In determining excess pension assets for purposes of this subsection, subsection (e)(2) shall be applied by substituting “120 percent” for “125 percent”.
+    (i) *In general*
+
+      (I) *Determination* — In determining excess pension assets for purposes of this subsection, subsection (e)(2)(B) shall be applied by substituting “120 percent” for “125 percent”.
+
+      (II) *Special rule for collectively bargained transfers* — In determining excess pension assets for purposes of a collectively bargained transfer, subsection (e)(7) shall not apply.
 
     (ii) *Requirement to maintain funded status* — If, as of any valuation date of any plan year in the transfer period, the amount determined under subsection (e)(2)(B) (after application of clause (i)) exceeds the amount determined under subsection (e)(2)(A), either—
 
@@ -79429,7 +81325,7 @@ Pub. L. 99–514, title XVIII, § 1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, 
 
     (i) *In general* — The requirements of subsection (c)(3) shall be treated as met if—
 
-      (I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided, provides applicable health benefits or applicable life insurance benefits, as the case may be, during the period beginning with the first year of the transfer period and ending with the last day of the 4th year following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
+      (I) in the case of a qualified future transfer, each group health plan or arrangement under which applicable health benefits are provided, and each group-term life insurance plan or arrangement under which applicable life insurance benefits are provided, provides applicable health benefits or applicable life insurance benefits, as the case may be, during the period beginning with the first year of the transfer period and ending with the last day of the 4th year (the 6th year in the case of a transfer to which subsection (e)(7) applies) following the transfer period such that the annual average amount of the applicable employer cost during such period is not less than the applicable employer cost determined under subsection (c)(3)(A) with respect to the transfer, and
 
       (II) in the case of a collectively bargained transfer, each collectively bargained plan under which collectively bargained health benefits or collectively bargained life insurance benefits are provided provides that the collectively bargained employer cost for each taxable year during the collectively bargained cost maintenance period shall not be less than the amount specified by the collective bargaining agreement.
 
@@ -79515,13 +81411,23 @@ Pub. L. 99–514, title XVIII, § 1851(a)(3)(B), Oct. 22, 1986, 100 Stat. 2859, 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (c)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (c)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, which is classified principally to chapter 18 (§ 1001 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
 Subsection (c)(3) as in effect before the amendments made by section 535 of the Tax Relief Extension Act of 1999, referred to in subsec. (f)(2)(D)(ii), is subsec. (c)(3) of this section prior to its general amendment by section 535(b)(1) of Pub. L. 106–170.
 
 #### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–328, § 606(a)(1), substituted “December 31, 2032” for “December 31, 2025”.
+
+Subsec. (c)(3)(D). Pub. L. 117–328, § 606(a)(2)(B), substituted “5 taxable years (7 taxable years in the case of a transfer to which subsection (e)(7) applies)” for “5 taxable years”.
+
+Subsec. (e)(7). Pub. L. 117–328, § 606(a)(2)(A), added par. (7).
+
+Subsec. (f)(2)(B)(i). Pub. L. 117–328, § 606(a)(2)(C)(i), designated existing provisions as subcl. (I), inserted heading, substituted “subsection (e)(2)(B)” for “subsection (e)(2)”, and added subcl. (II).
+
+Subsec. (f)(2)(D)(i)(I). Pub. L. 117–328, § 606(a)(2)(C)(ii), substituted “4th year (the 6th year in the case of a transfer to which subsection (e)(7) applies)” for “4th year”.
+
 2020—Subsec. (f)(7). Pub. L. 116–260 added par. (7).
 
 2018—Subsec. (c)(1)(A). Pub. L. 115–141 substituted “subsection (e)(1)(E)” for “subsection (e)(1)(D)”.
@@ -79705,6 +81611,9 @@ Subsec. (c)(3). Pub. L. 103–465, § 731(b), amended par. (3) generally, substi
 Subsec. (e)(1)(B). Pub. L. 103–465, § 731(c)(2), reenacted subpar. (B) heading without change and amended text generally. Prior to amendment, text read as follows: “The amount determined under subparagraph (A) shall be reduced by any amount previously contributed to a health benefits account or welfare benefit fund (as defined in section 419(e)(1)) to pay for the qualified current retiree health liabilities. The portion of any reserves remaining as of the close of December 31, 1990, shall be allocated on a pro rata basis to qualified current retiree health liabilities.”
 
 Subsec. (e)(1)(D). Pub. L. 103–465, § 731(c)(3), substituted “and shall not be subject to the minimum benefit requirements of subsection (c)(3)” for “or in calculating applicable employer cost under subsection (c)(3)(B)”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title VI, § 606(c), Dec. 29, 2022, 136 Stat. 5398, provided that: “The amendments made by this section [amending this section and sections 1021, 1103, and 1108 of Title 29, Labor] shall apply to transfers made after the date of the enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. N, title II, § 285(b), Dec. 27, 2020, 134 Stat. 1989, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2019.”
@@ -81041,7 +82950,7 @@ The date of the enactment of this subparagraph, referred to in subsec. (c)(2)(D)
 
 The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(7)(E)(i)(I), (v)(II), (h)(5)(B)(i), (ii), and (k)(2), (4)(C), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Title I of the Act is classified generally to subchapter I (§ 1001 et seq.) of chapter 18 of Title 29, Labor. Title IV of the Act is classified principally to subchapter III (§ 1301 et seq.) of chapter 18 of Title 29. Sections 4001, 4006, 4021, 4043, and 4068 of the Act are classified to sections 1301, 1306, 1321, 1343, and 1368, respectively, of Title 29. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1001&num=0&edition=prelim) and Tables.
 
-The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (h)(3)(D)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (c)(8). Pub. L. 117–2, § 9705(a), added par. (8).
@@ -81179,6 +83088,8 @@ Pub. L. 109–280, title I, § 112(b), Aug. 17, 2006, 120 Stat. 846, provided th
 Pub. L. 116–136, div. A, title III, § 3608, Mar. 27, 2020, 134 Stat. 413, provided that: “(a) Delay in Payment of Minimum Required Contributions.—In the case of any minimum required contribution (as determined under section 430(a) of the Internal Revenue Code of 1986 and section 303(a) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1083(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/a&num=0&edition=prelim))) which (but for this section) would otherwise be due under section 430(j) of such Code (including quarterly contributions under paragraph (3) thereof) and section 303(j) of such Act ([29 U.S.C. 1083(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/j&num=0&edition=prelim)) (including quarterly contributions under paragraph (3) thereof) during calendar year 2020—“(1) the due date for such contributions shall be January 1, 2021, and “(2) the amount of each such minimum required contribution shall be increased by interest accruing for the period between the original due date (without regard to this section) for the contribution and the payment date, at the effective rate of interest for the plan for the plan year which includes such payment date. “(b) Benefit Restriction Status.—For purposes of section 436 of the Internal Revenue Code of 1986 and section 206(g) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1056(g)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1056/g&num=0&edition=prelim)), a plan sponsor may elect to treat the plan’s adjusted funding target attainment percentage for the last plan year ending before January 1, 2020, as the adjusted funding target attainment percentage for plan years which include calendar year 2020.”
 
 #### Mortality Tables
+Pub. L. 117–328, div. T, title III, § 335, Dec. 29, 2022, 136 Stat. 5372, provided that: “(a) In General.—Not later than 18 months after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of the Treasury (or the Secretary’s delegate) shall amend the regulation relating to ‘Mortality Tables for Determining Present Value Under Defined Benefit Pension Plans’ (82 Fed. Reg. 46388 (October 5, 2017)). Under such amendment, for valuation dates occurring during or after 2024, such mortality improvement rates shall not assume for years beyond the valuation date future mortality improvements at any age which are greater than .78 percent. The Secretary of the Treasury (or delegate) shall by regulation modify the .78 percent figure in the preceding sentence as necessary to reflect material changes in the overall rate of improvement projected by the Social Security Administration. “(b) Effective Date.—The amendments required under subsection (a) shall be deemed to have been made as of the date of the enactment of this Act, and as of such date all applicable laws shall be applied in all respects as though the actions which the Secretary of the Treasury (or the Secretary’s delegate) is required to take under such subsection had been taken.”
+
 Pub. L. 114–74, title V, § 503, Nov. 2, 2015, 129 Stat. 593, provided that: “(a) Credibility.—For purposes of subclause (I) of section 430(h)(3)(C)(iii) of the Internal Revenue Code of 1986 and subclause (I) of section 303(h)(3)(C)(iii) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1083(h)(3)(C)(iii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/3/C/iii&num=0&edition=prelim)], the determination of whether plans have credible information shall be made in accordance with established actuarial credibility theory, which—“(1) is materially different from rules under such section of such Code, including Revenue Procedure 2007–37, that are in effect on the date of the enactment of this Act [Nov. 2, 2015]; and “(2) permits the use of tables that reflect adjustments to the tables described in subparagraphs (A) and (B) of section 430(h)(3) of such Code, and subparagraphs (A) and (B) of section 303(h)(3) of such Act, if such adjustments are based on the experience described in subclause (II) of section 430(h)(3)(C)(iii) of such Code and in subclause (II) of section 303(h)(3)(C)(iii) of such Act. “(b) Effective Date.—This section shall apply to plan years beginning after December 31, 2015.”
 
 #### Applicability of Subtitles A and B of Title I of Pub. L. 109–280
@@ -85155,7 +87066,11 @@ Pub. L. 87–109, § 2, July 26, 1961, 75 Stat. 224, provided that: “The amend
 
     (ii) so much of the plan ceiling established for purposes of paragraph (2) for taxable years before the taxable year as has not previously been used under paragraph (2) or this paragraph,
 
-(4) which provides that compensation will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
+(4) which provides that compensation—
+
+  (A) in the case of an eligible employer described in subsection (e)(1)(A), will be deferred only if an agreement providing for such deferral has been entered into before the compensation is currently available to the individual, and
+
+  (B) in any other case, will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,
 
 (5) which meets the distribution requirements of subsection (d), and
 
@@ -85167,7 +87082,7 @@ Pub. L. 87–109, § 2, July 26, 1961, 75 Stat. 224, provided that: “The amend
 
   (C) all income attributable to such amounts, property, or rights,
   shall remain (until made available to the participant or other beneficiary) solely the property and rights of the employer (without being restricted to the provision of benefits under the plan), subject only to the claims of the employer’s general creditors.
-A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year.
+A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) and which is administered in a manner which is inconsistent with the requirements of any of the preceding paragraphs shall be treated as not meeting the requirements of such paragraph as of the 1st plan year beginning more than 180 days after the date of notification by the Secretary of the inconsistency unless the employer corrects the inconsistency before the 1st day of such plan year. A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely because the plan, or another plan maintained by the employer which meets the requirements of section 401(a) or 403(b), provides for matching contributions on account of qualified student loan payments as described in section 401(m)(13).
 
 **(c) Limitation** The maximum amount of the compensation of any one individual which may be deferred under subsection (a) during any taxable year shall not exceed the amount in effect under subsection (b)(2)(A) (as modified by any adjustment provided under subsection (b)(3)).
 
@@ -85195,6 +87110,13 @@ A plan which is established and maintained by an employer which is described in 
 (2) **Minimum distribution requirements** — A plan meets the minimum distribution requirements of this paragraph if such plan meets the requirements of section 401(a)(9).
 
 (3) **Special rule for government plan** — An eligible deferred compensation plan of an employer described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely by reason of making a distribution described in subsection (e)(9)(A).
+
+(4) **Participant certification** — In determining whether a distribution to a participant is made when the participant is faced with an unforeseeable emergency, the administrator of a plan maintained by an eligible employer described in subsection (e)(1)(A) may rely on a written certification by the participant that the distribution is—
+
+  (A) made when the participant is faced with an unforeseeable emergency of a type which is described in regulations prescribed by the Secretary as an unforeseeable emergency, and
+
+  (B) not in excess of the amount required to satisfy the emergency need, and
+  that the participant has no alternative means reasonably available to satisfy such emergency need. The Secretary may provide by regulations for exceptions to the rule of the preceding sentence in cases where the plan administrator has actual knowledge to the contrary of the participant’s certification, and for procedures for addressing cases of participant misrepresentation.
 
 **(e) Other definitions and special rules** For purposes of this section—
 
@@ -85321,7 +87243,7 @@ A plan which is established and maintained by an employer which is described in 
 
     (i) the plan ceiling established for purposes of subsection (b)(2) (without regard to subsection (b)(3)), plus
 
-    (ii) the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
+    (ii) the lesser of any designated Roth contributions made by the participant to the plan or the applicable dollar amount for the taxable year determined under section 414(v)(2)(B)(i), or
 
   (B) the amount determined under the applicable subsection (without regard to this paragraph).
 
@@ -85394,10 +87316,27 @@ A plan which is established and maintained by an employer which is described in 
 #### Inflation Adjusted Items for Certain Years
 For inflation adjustment of certain items in this section, see Internal Revenue Notices listed in a table under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
+#### Amendment of Subsection (d)(1)(A)
+Pub. L. 117–328, div. T, title III, § 334(b)(5), (e), Dec. 29, 2022, 136 Stat. 5370, 5372, provided that, applicable to distributions made after the date which is 3 years after Dec. 29, 2022, subsection (d)(1)(A) of this section is amended by striking “or” at the end of clause (iii), by striking the comma at the end of clause (iv) and inserting “, or”, and by adding at the end the following new clause:
+
+“(v) as provided in section 401(a)(39),”.
+
+See 2022 Amendment note below.
+
 #### References in Text
 Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(11)(D)(ii)(I), is classified to [section 7801 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim), Education.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–328, § 110(f), inserted at end of concluding provisions “A plan which is established and maintained by an employer which is described in subsection (e)(1)(A) shall not be treated as failing to meet the requirements of this subsection solely because the plan, or another plan maintained by the employer which meets the requirements of section 401(a) or 403(b), provides for matching contributions on account of qualified student loan payments as described in section 401(m)(13).”
+
+Subsec. (b)(4). Pub. L. 117–328, § 306(a), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “which provides that compensation will be deferred for any calendar month only if an agreement providing for such deferral has been entered into before the beginning of such month,”.
+
+Subsec. (d)(1)(A)(v). Pub. L. 117–328, § 334(b)(5), added cl. (v).
+
+Subsec. (d)(4). Pub. L. 117–328, § 312(c), added par. (4).
+
+Subsec. (e)(18)(A)(ii). Pub. L. 117–328, § 603(b)(2), inserted “the lesser of any designated Roth contributions made by the participant to the plan or” before “the applicable dollar amount”.
+
 2019—Subsec. (d)(1)(A)(i). Pub. L. 116–94, § 104(b), inserted “(in the case of a plan maintained by an employer described in subsection (e)(1)(A), age 59½)” before comma at end.
 
 Subsec. (d)(1)(A)(iv). Pub. L. 116–94, § 109(d)(1), added cl. (iv).
@@ -85527,6 +87466,17 @@ Subsec. (e)(13). Pub. L. 100–647, § 6064(c), added par. (13).
 1984—Subsec. (e)(2). Pub. L. 98–369, § 491(d)(33), struck out subpar. (C) which provided that par. (1) of this subsection not apply to a qualified bond purchase plan described in section 405(a), and redesignated subpars. (D) and (E) as (C) and (D), respectively.
 
 1980—Subsec. (d)(9)(B). Pub. L. 96–222 in cl. (i) struck out “described in section 501(c)(12)” after “any organization” and substituted “electric service on a mutual or cooperative basis” for “electric service” and in cl. (ii) substituted “paragraph (4) or (6) of section 501(a)” for “section 501(c)(6)” and “at least 80 percent of the members” for “all the members”.
+
+#### Effective Date of 2022 Amendment
+Amendment by section 110(f) of Pub. L. 117–328 applicable to contributions made for plan years beginning after Dec. 31, 2023, see section 110(h) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Pub. L. 117–328, div. T, title III, § 306(b), Dec. 29, 2022, 136 Stat. 5343, provided that: “The amendment made by this section [amending this section] shall apply to taxable years beginning after the date of the enactment of this Act [Dec. 29, 2022].”
+
+Amendment by section 312(c) of Pub. L. 117–328 applicable to plan years beginning after Dec. 29, 2022, see section 312(d) of Pub. L. 117–328, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
+
+Amendment by section 334(b)(5) of Pub. L. 117–328 applicable to distributions made after the date which is 3 years after Dec. 29, 2022, see section 334(e) of Pub. L. 117–328, set out as a note under [section 72 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-72).
+
+Amendment by section 603(b)(2) of Pub. L. 117–328 applicable to taxable years beginning after Dec. 31, 2023, see section 603(c) of Pub. L. 117–328, set out as a note under [section 402 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-402).
 
 #### Effective Date of 2019 Amendment
 Amendment by section 104(b) of Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2019, see section 104(c) of Pub. L. 116–94, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
@@ -87550,7 +89500,7 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 ### Statutory Notes
 
 #### References in Text
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (d)(2)(A), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended. Title V of that Act is classified generally to subchapter V (§ 1251 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining. Sections 511 and 528 of that Act are classified to sections 1261 and 1278, respectively, of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (d)(2)(A), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445. Title V of that Act is classified generally to subchapter V (§ 1251 et seq.) of chapter 25 of Title 30, Mineral Lands and Mining. Sections 511 and 528 of that Act are classified to sections 1261 and 1278, respectively, of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
 
 The Solid Waste Disposal Act, referred to in subsec. (d)(2)(B)(i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, § 2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§ 6901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6901&num=0&edition=prelim) and Tables.
 
@@ -87832,7 +89782,7 @@ Pub. L. 99–514, title XVIII, § 1807(a)(4)(A)(ii), Oct. 22, 1986, 100 Stat. 28
 ### Statutory Notes
 
 #### References in Text
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (g)(2)(B), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (g)(2)(B), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (g). Pub. L. 109–222 reenacted heading without change and amended text of subsec. (g) generally. Prior to amendment, text read as follows: “Nothing in any provision of law shall be construed as providing that an escrow account, settlement fund, or similar fund is not subject to current income tax. The Secretary shall prescribe regulations providing for the taxation of any such account or fund whether as a grantor trust or otherwise.”
@@ -90248,7 +92198,7 @@ Sections 1181(b) and 1855(d) of the Social Security Act, referred to in subsecs.
 
 Sections 212(a)(3)(B) and 219 of the Immigration and Nationality Act, referred to in subsec. (p)(2)(A), (C)(i), are classified to sections 1182(a)(3)(B) and 1189, respectively, of Title 8, Aliens and Nationality.
 
-The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (p)(2)(B), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 Section 5 of the United Nations Participation Act of 1945, referred to in subsec. (p)(2)(B), is classified to [section 287c of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section287c&num=0&edition=prelim), Foreign Relations and Intercourse.
 
@@ -90698,7 +92648,7 @@ For provisions that nothing in amendment by section 401(b)(22) of Pub. L. 115–
 Pub. L. 111–148, title IX, § 9007(c), Mar. 23, 2010, 124 Stat. 857, provided that: “The Secretary of the Treasury or the Secretary’s delegate shall review at least once every 3 years the community benefit activities of each hospital organization to which section 501(r) of the Internal Revenue Code of 1986 (as added by this section) applies.”
 
 #### Reports
-Pub. L. 111–148, title IX, § 9007(e), Mar. 23, 2010, 124 Stat. 858, provided that: “(1) Report on levels of charity care.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate an annual report on the following:“(A) Information with respect to private tax-exempt, taxable, and government-owned hospitals regarding—“(i) levels of charity care provided, “(ii) bad debt expenses, “(iii) unreimbursed costs for services provided with respect to means-tested government programs, and “(iv) unreimbursed costs for services provided with respect to non-means tested government programs. “(B) Information with respect to private tax-exempt hospitals regarding costs incurred for community benefit activities. “(2) Report on trends.—“(A) Study.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall conduct a study on trends in the information required to be reported under paragraph (1). “(B) Report.—Not later than 5 years after the date of the enactment of this Act [Mar. 23, 2010], the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit a report on the study conducted under subparagraph (A) to the Committees on Ways and Means, Education and Labor, and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.”
+Pub. L. 111–148, title IX, § 9007(e), Mar. 23, 2010, 124 Stat. 858, provided that: “(1) Report on levels of charity care.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit to the Committees on Ways and Means, Education and Labor [now Committee on Education and the Workforce], and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate an annual report on the following:“(A) Information with respect to private tax-exempt, taxable, and government-owned hospitals regarding—“(i) levels of charity care provided, “(ii) bad debt expenses, “(iii) unreimbursed costs for services provided with respect to means-tested government programs, and “(iv) unreimbursed costs for services provided with respect to non-means tested government programs. “(B) Information with respect to private tax-exempt hospitals regarding costs incurred for community benefit activities. “(2) Report on trends.—“(A) Study.—The Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall conduct a study on trends in the information required to be reported under paragraph (1). “(B) Report.—Not later than 5 years after the date of the enactment of this Act [Mar. 23, 2010], the Secretary of the Treasury, in consultation with the Secretary of Health and Human Services, shall submit a report on the study conducted under subparagraph (A) to the Committees on Ways and Means, Education and Labor [now Committee on Education and the Workforce], and Energy and Commerce of the House of Representatives and to the Committees on Finance and Health, Education, Labor, and Pensions of the Senate.”
 
 #### Payments by Charitable Organizations Treated as Exempt Payments
 Pub. L. 107–134, title I, § 104, Jan. 23, 2002, 115 Stat. 2431, provided that: “(a) In General.—For purposes of the Internal Revenue Code of 1986—“(1) payments made by an organization described in section 501(c)(3) of such Code by reason of the death, injury, wounding, or illness of an individual incurred as the result of the terrorist attacks against the United States on September 11, 2001, or an attack involving anthrax occurring on or after September 11, 2001, and before January 1, 2002, shall be treated as related to the purpose or function constituting the basis for such organization’s exemption under section 501 of such Code if such payments are made in good faith using a reasonable and objective formula which is consistently applied; and “(2) in the case of a private foundation (as defined in section 509 of such Code), any payment described in paragraph (1) shall not be treated as made to a disqualified person for purposes of section 4941 of such Code. “(b) Effective Date.—This section shall apply to payments made on or after September 11, 2001.”
@@ -92654,11 +94604,11 @@ Pub. L. 98–369, div. A, title III, § 311, July 18, 1984, 98 Stat. 786, as ame
 ### Statutory Notes
 
 #### References in Text
-The Tax Reform Act of 1976, referred to in subsec. (b)(3)(C)(iii), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (b)(3)(C)(iii), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
 
 The date of the enactment of the American Jobs Creation Act of 2004, referred to in subsec. (c)(6)(A)(ii), is the date of enactment of Pub. L. 108–357, which was approved Oct. 22, 2004.
 
-The Small Business Investment Act of 1958, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. Section 303(a) of the Act is classified to [section 683(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section683/a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(6)(A)(ii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. Section 303(a) of the Act is classified to [section 683(a) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section683/a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (c)(9)(C)(iv). Pub. L. 109–280 added cl. (iv).
@@ -93479,6 +95429,20 @@ Pub. L. 94–455, title XXI, § 2101(e), Oct. 4, 1976, 90 Stat. 1899, provided t
 
   (D) *Special rule for contributions of refunded amounts* — In the case of a beneficiary who receives a refund of any qualified higher education expenses from an eligible educational institution, subparagraph (A) shall not apply to that portion of any distribution for the taxable year which is recontributed to a qualified tuition program of which such individual is a beneficiary, but only to the extent such recontribution is made not later than 60 days after the date of such refund and does not exceed the refunded amount.
 
+  (E) *Special rollover to roth iras from long-term qualified tuition programs*
+
+    (i) *In general* — In the case of a distribution from a qualified tuition program of a designated beneficiary which has been maintained for the 15-year period ending on the date of such distribution, subparagraph (A) shall not apply to so much the portion of such distribution which—
+
+      (I) does not exceed the aggregate amount contributed to the program (and earnings attributable thereto) before the 5-year period ending on the date of the distribution, and
+
+      (II) is paid in a direct trustee-to-trustee transfer to a Roth IRA maintained for the benefit of such designated beneficiary.
+
+    (ii) *Limitations*
+
+      (I) *Annual limitation* — Clause (i) shall only apply to so much of any distribution as does not exceed the amount applicable to the designated beneficiary under section 408A(c)(2) for the taxable year (reduced by the amount of aggregate contributions made during the taxable year to all individual retirement plans maintained for the benefit of the designated beneficiary).
+
+      (II) *Aggregate limitation* — This subparagraph shall not apply to any distribution described in clause (i) to the extent that the aggregate amount of such distributions with respect to the designated beneficiary for such taxable year and all prior taxable years exceeds $35,000.
+
 (4) **Estate tax treatment**
 
   (A) *In general* — No amount shall be includible in the gross estate of any individual for purposes of chapter 11 by reason of an interest in a qualified tuition program.
@@ -93515,7 +95479,11 @@ Pub. L. 94–455, title XXI, § 2101(e), Oct. 4, 1976, 90 Stat. 1899, provided t
 
     (ii) *Sibling defined* — For purposes of this paragraph, the term “sibling” means an individual who bears a relationship to the designated beneficiary which is described in section 152(d)(2)(B).
 
-**(d) Reports** Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this subsection shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
+**(d) Reports**
+
+(1) **In general** — Each officer or employee having control of the qualified tuition program or their designee shall make such reports regarding such program to the Secretary and to designated beneficiaries with respect to contributions, distributions, and such other matters as the Secretary may require. The reports required by this paragraph shall be filed at such time and in such manner and furnished to such individuals at such time and in such manner as may be required by the Secretary.
+
+(2) **Rollover distributions** — In the case of any distribution described in subsection (c)(3)(E), the officer or employee having control of the qualified tuition program (or their designee) shall provide a report to the trustee of the Roth IRA to which the distribution is made. Such report shall be filed at such time and in such manner as the Secretary may require and shall include information with respect to the contributions, distributions, and earnings of the qualified tuition program as of the date of the distribution described in subsection (c)(3)(A), together with such other matters as the Secretary may require.
 
 **(e) Other definitions and special rules** For purposes of this section—
 
@@ -93578,6 +95546,10 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(5)(A), p
 The Higher Education Act of 1965, referred to in subsec. (e)(5), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (c)(3)(E). Pub. L. 117–328, § 126(a), added subpar. (E).
+
+Subsec. (d). Pub. L. 117–328, § 126(c), designated existing provisions as par. (1), inserted heading, substituted “by this paragraph” for “by this subsection”, and added par. (2).
+
 2019—Subsec. (c)(8). Pub. L. 116–94, § 302(a), added par. (8).
 
 Subsec. (c)(9). Pub. L. 116–94, § 302(b)(1), added par. (9).
@@ -93719,6 +95691,9 @@ Subsec. (e)(2). Pub. L. 105–34, § 211(b)(1), amended heading and text of par.
 Subsec. (e)(3). Pub. L. 105–34, § 211(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘qualified higher education expenses’ means tuition, fees, books, supplies, and equipment required for the enrollment or attendance of a designated beneficiary at an eligible educational institution (as defined in section 135(c)(3)).”
 
 Subsec. (e)(5). Pub. L. 105–34, § 211(b)(2), added par. (5).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable with respect to distributions after Dec. 31, 2023, see section 126(d) of Pub. L. 117–328, set out as a note under [section 408A of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-408a).
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 applicable to distributions made after Dec. 31, 2018, see section 302(c) of Pub. L. 116–94, set out as a note under [section 221 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-221).
@@ -93924,12 +95899,17 @@ Pub. L. 104–188, title I, § 1806(c), Aug. 20, 1996, 110 Stat. 1898, as amende
 
 ### Statutory Notes
 
+#### Amendment of Subsection (e)
+Pub. L. 117–328, div. T, title I, § 124, Dec. 29, 2022, 136 Stat. 5314, provided that, applicable to taxable years beginning after Dec. 31, 2025, paragraphs (1)(A) and (2)(A)(i)(II) of subsection (e) of this section are amended by striking “age 26” and inserting “age 46”. See 2022 Amendment note below.
+
 #### References in Text
 The Stephen Beck, Jr., ABLE Act of 2014, referred to in subsec. (d)(4), is div. B of Pub. L. 113–295, Dec. 19, 2014, 128 Stat. 4056, also known as the “Stephen Beck, Jr., Achieving a Better Life Experience Act of 2014”. Section 103 of div. B of Pub. L. 113–295 is set out as a note under this section.
 
 The Social Security Act, referred to in subsecs. (e)(1)(A), (2) and (f), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, XVI, and XIX of the Act are classified generally to subchapters II (§ 401 et seq.), XVI (§ 1381 et seq.), and XIX (§ 1396 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. Sections 1614 and 1861 of the Act are classified to sections 1382c and 1395x, respectively, of Title 42. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (e)(1)(A), (2)(A)(i)(II). Pub. L. 117–328 substituted “age 46” for “age 26”.
+
 2018—Subsec. (c)(1)(D). Pub. L. 115–141, § 101(o), struck out subpar. (D) which related to operating rules.
 
 Subsec. (d)(4). Pub. L. 115–141, § 401(a)(129), substituted “Stephen Beck, Jr., ABLE Act of 2014” for “Achieving a Better Life Experience Act of 2014”.
@@ -93951,6 +95931,9 @@ Subsec. (d)(3). Pub. L. 114–113, § 303(b)(1), struck out “and State of resi
 Subsec. (d)(4). Pub. L. 114–113, § 303(c)(1), substituted “section 103” for “section 4”.
 
 Subsec. (e)(7). Pub. L. 114–113, § 303(b)(2), struck out par. (7). Text read as follows: “The term ‘contracting State’ means a State without a qualified ABLE program which has entered into a contract with a State with a qualified ABLE program to provide residents of the contracting State access to a qualified ABLE program.”
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 124(b), Dec. 29, 2022, 136 Stat. 5314, provided that: “The amendments made by this section [amending this section] shall apply to taxable years beginning after December 31, 2025.”
 
 #### Effective Date of 2018 Amendment
 Amendment by section 101(o) of Pub. L. 115–141 effective as if included in the provision of the Protecting Americans from Tax Hikes Act of 2015, div. Q of Pub. L. 114–113, to which such amendment relates, see section 101(s) of Pub. L. 115–141, set out as a note under [section 24 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-24).
@@ -94802,7 +96785,7 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 ### Statutory Notes
 
 #### References in Text
-The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(7), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to this Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (c)(5). Pub. L. 115–141, § 401(a)(132), substituted semicolon for comma at end.
@@ -95799,7 +97782,7 @@ For purposes of sections 582 and 584, the term “bank” means a bank or trust 
 ### Statutory Notes
 
 #### References in Text
-The Small Business Investment Act of 1958, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, as amended, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
+The Small Business Investment Act of 1958, referred to in subsec. (c)(2)(A)(iii), is Pub. L. 85–699, Aug. 21, 1958, 72 Stat. 689, which is classified principally to chapter 14B (§ 661 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 661 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section661&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Subsec. (c)(1). Pub. L. 108–357 struck out “, and any regular interest in a FASIT,” before “shall be treated”.
@@ -96474,7 +98457,7 @@ Repeal effective with respect to taxable years beginning after Dec. 31, 1976, se
 ### Statutory Notes
 
 #### References in Text
-The Tax Reform Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (c)(2), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
 
 Section 5(e) of the Federal Deposit Insurance Act, referred to in subsec. (e)(1), is classified to [section 1815(e) of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1815/e&num=0&edition=prelim), Banks and Banking.
 
@@ -103250,6 +105233,9 @@ Section applicable to taxable years beginning after Dec. 31, 1983, see section 2
 #### Delay in Effective Date for Diversification Requirements With Respect to Accounts for Certain Immediate Annuities
 Pub. L. 100–647, title I, § 1010(i), Nov. 10, 1988, 102 Stat. 3455, provided that: “Section 817(h) of the 1986 Code shall not apply until January 1, 1989, with respect to a variable contract (as defined in section 817(d) of the 1986 Code) if— “(1) such contract provides for the payment of an immediate annuity (as defined in section 72(u)(4) of the 1986 Code), “(2) such contract was outstanding on September 12, 1986, and “(3) the segregated asset account on which such contract is based was, on September 12, 1986, wholly invested in deposits insured by the Federal Deposit Insurance Corporation or the Federal Savings and Loan Insurance Corporation.”
 
+#### Insurance-Dedicated Exchange-Traded Funds
+Pub. L. 117–328, div. T, title II, § 203, Dec. 29, 2022, 136 Stat. 5333, provided that: “(a) In General.—Not later than the date which is 7 years after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of the Treasury (or the Secretary’s delegate) shall amend the regulation issued by the Department of the Treasury relating to ‘Income Tax; Diversification Requirements for Variable Annuity, Endowment, and Life Insurance Contracts’, 54 Fed. Reg. 8728 (March 2, 1989), and make any necessary corresponding amendments to other regulations, in order to facilitate the use of exchange-traded funds as investment options under variable contracts within the meaning of section 817(d) of the Internal Revenue Code of 1986, in accordance with subsections (b) and (c) of this section. “(b) Designate Certain Authorized Participants and Market Makers as Eligible Investors.—The Secretary of the Treasury (or the Secretary’s delegate) shall amend Treas. Reg. section 1.817–5(f)(3) to provide that satisfaction of the requirements in Treas. Reg. section 1.817–5(f)(2)(i) with respect to an exchange-traded fund shall not be prevented by reason of beneficial interests in such a fund being held by 1 or more authorized participants or market makers. “(c) Define Relevant Terms.—In amending Treas. Reg. section 1.817–5(f)(3) in accordance with subsection (b), the Secretary of the Treasury (or the Secretary’s delegate) shall provide definitions consistent with the following:“(1) Exchange-traded fund.—The term ‘exchange-traded fund’ means a regulated investment company, partnership, or trust—“(A) that is registered with the Securities and Exchange Commission as an open-end investment company or a unit investment trust; “(B) the shares of which can be purchased or redeemed directly from the fund only by an authorized participant; and “(C) the shares of which are traded throughout the day on a national stock exchange at market prices that may or may not be the same as the net asset value of the shares. “(2) Authorized participant.—The term ‘authorized participant’ means a financial institution that is a member or participant of a clearing agency registered under section 17A(b) of the Securities Exchange Act of 1934 [[15 U.S.C. 78q–1(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78q–1/b&num=0&edition=prelim)] that enters into a contractual relationship with an exchange-traded fund pursuant to which the financial institution is permitted to purchase and redeem shares directly from the fund and to sell such shares to third parties, but only if the contractual arrangement or applicable law precludes the financial institution from—“(A) purchasing the shares for its own investment purposes rather than for the exclusive purpose of creating and redeeming such shares on behalf of third parties; and “(B) selling the shares to third parties who are not market makers or otherwise described in Treas. Reg. section 1.817–5(f) (1) and (3). “(3) Market maker.—The term ‘market maker’ means a financial institution that is a registered broker or dealer under section 15(b) of the Securities Exchange Act of 1934 [[15 U.S.C. 78](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78&num=0&edition=prelim)o(b)] that maintains liquidity for an exchange-traded fund on a national stock exchange by being always ready to buy and sell shares of such fund on the market, but only if the financial institution is contractually or legally precluded from selling or buying such shares to or from persons who are not authorized participants or otherwise described in Treas. Reg. section 1.817–5(f) (2) and (3). “(d) Effective Date.—This section shall apply to segregated asset account investments made on or after the date which is 7 years after the date of the enactment of this Act.”
+
 #### Plan Amendments Not Required Until January 1, 1989
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI [§§ 1101–1147 and 1171–1177] or title XVIII [§§ 1800–1899A] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under [section 401 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-401).
 
@@ -105131,7 +107117,7 @@ This subsection shall not apply in the case of a unit investment trust which is 
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to [section 80a–2(a)(36) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2/a/36&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, as amended, referred to in subsecs. (a)(1), (b)(2)(A), (c)(6), and (f)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. Section 2(a)(36) of the Act is classified to [section 80a–2(a)(36) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–2/a/36&num=0&edition=prelim). For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2017—Subsec. (b). Pub. L. 115–97 substituted “section 951(a)(1)(A)” for “section 951(a)(1)(A)(i)” in concluding provisions.
@@ -105611,7 +107597,7 @@ section 562(c) (relating to preferential dividends) shall not apply to a distrib
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (a)(1)(B). Pub. L. 115–141, § 401(a)(144), substituted “265 and” for “265,”.
@@ -107073,7 +109059,7 @@ shall be treated as having met the requirement of subsection (a)(6) for the taxa
 #### References in Text
 The date of the enactment of this subparagraph, referred to in subsec. (c)(2)(I), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (c)(5)(F), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this paragraph and such date of enactment, referred to in subsec. (c)(10), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -110981,7 +112967,7 @@ Pub. L. 99–514, title XII, § 1211(d), Oct. 22, 1986, 100 Stat. 2536, directed
 #### References in Text
 Section 207 of the Social Security Act, referred to in subsec. (a)(3)(A), is classified to [section 407 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section407&num=0&edition=prelim), The Public Health and Welfare.
 
-The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
+The Trade Act of 1974, referred to in subsec. (f)(2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Trade Act of 1974 is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
 The date of the enactment of this subsection, referred to in subsec. (l)(1)(A)(i), (iii), (B)(iv)(I)(aa), is the date of enactment of Pub. L. 111–226, which was approved Aug. 10, 2010.
 
@@ -111521,7 +113507,7 @@ Subsec. (a). Pub. L. 99–514, § 1272(b), amended subsec. (a) generally, substi
 Subsec. (b). Pub. L. 99–514, § 1272(b), amended subsec. (b) generally, inserting references to Guam, American Samoa, and the Northern Mariana Islands.
 
 #### Effective Date of 1986 Amendment
-Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under [section 931 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-931).
+Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under [section 931 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-931)..
 
 
 <a id="section-877"></a>
@@ -112538,7 +114524,7 @@ For applicability of amendment by section 701(e)(4)(F) of Pub. L. 99–514 notwi
 ### Statutory Notes
 
 #### References in Text
-The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, as amended, which is classified generally to chapter 6 (§ 701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section701&num=0&edition=prelim) and Tables.
+The Communications Satellite Act of 1962, referred to in subsec. (b), is Pub. L. 87–624, Aug. 31, 1962, 76 Stat. 419, which is classified generally to chapter 6 (§ 701 et seq.) of Title 47, Telecommunications. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Subsec. (a)(4). Pub. L. 108–357 substituted “(6), (7), and (8)” for “(5), (6), and (7)”.
@@ -114035,7 +116021,7 @@ The date of the enactment of the Tax Reform Act of 1976, referred to in subsec. 
 
 The date of the enactment of the Tax Reform Act of 1986, referred to in subsec. (g)(2), is the date of enactment of Pub. L. 99–514, which was approved Oct. 22, 1986.
 
-The Arms Export Control Act, referred to in subsec. (j)(2)(A)(i), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
+The Arms Export Control Act, referred to in subsec. (j)(2)(A)(i), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
 Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j)(2)(A)(iv), was classified to [section 4605(j) of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
@@ -116464,13 +118450,13 @@ The following items shall not be included in gross income, and shall be exempt f
 ### Statutory Notes
 
 #### References in Text
-The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
+The Foreign Service Act of 1980, referred to in par. (1)(A), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071. Chapter 9 of title I of the Foreign Service Act of 1980 is classified generally to subchapter IX (§ 4081 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3901&num=0&edition=prelim) and Tables.
 
 Title II of the Overseas Differentials and Allowances Act, referred to in pars. (1)(C) and (2), was title II of Pub. L. 86–707, Sept. 6, 1960, 74 Stat. 793, which was repealed and reenacted as sections 5922 to 5925 of Title 5, Government Organization and Employees, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
 Sections 1(e) and (f) and 22 of the Administrative Expenses Act of 1946, referred to in par. (1)(D), were repealed and the provisions thereof reenacted as sections 5726(b), 5727(b) to (e), and 5913 of Title 5, by Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.
 
-The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of that act are classified to sections 2504 and 2505 of Title 22. For complete classification of this act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
+The Peace Corps Act, referred to in par. (3), is Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, which is classified principally to chapter 34 (§ 2501 et seq.) of Title 22, Foreign Relations and Intercourse. Sections 5 and 6 of that act are classified to sections 2504 and 2505 of Title 22. For complete classification of this act to the Code, see Short Title note set out under [section 2501 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2501&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Par. (1)(B). Pub. L. 115–141 substituted “([50 U.S.C. 3505](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3505&num=0&edition=prelim))” for “(50 U.S.C., sec. 403e)”.
@@ -117233,7 +119219,7 @@ The payments referred to in paragraph (4) are payments which would be unlawful u
 ### Statutory Notes
 
 #### References in Text
-The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 Clause (iii), referred to in subsec. (c)(1)(B)(ii), means cl. (iii) of subsec. (c)(1)(B), which was amended by Pub. L. 115–97, § 14211(b)(1). As amended, subcl. (I) was struck out and subcls. (II) and (III) were redesignated (I) and (II), respectively. See 2017 Amendment note below.
 
@@ -119216,7 +121202,7 @@ Repeal effective with respect to taxable years for foreign corporations beginnin
 ### Statutory Notes
 
 #### References in Text
-The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in subsec. (a), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2017—Subsec. (b). Pub. L. 115–97, § 14212(b)(4), struck out “, 955,” after “sections 952”.
@@ -121553,7 +123539,7 @@ Pub. L. 96–223, title IV, § 401(d), Apr. 2, 1980, 94 Stat. 300, as amended by
 #### References in Text
 Section 2521, referred to in subsec. (d)(2), was repealed by Pub. L. 94–455, title XX, § 2001(b)(3), Oct. 4, 1976, 90 Stat. 1849.
 
-The Internal Revenue Code of 1939, referred to in subsec. (d)(5), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+The Internal Revenue Code of 1939, referred to in subsec. (d)(5), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### Amendments
 1984—Subsec. (e). Pub. L. 98–369 added subsec. (e).
@@ -121735,7 +123721,7 @@ the basis of such automobile shall be reduced by the amount of the tax imposed b
 #### References in Text
 Section 1020, referred to in subsec. (a)(2), was repealed by Pub. L. 94–455, title XIX, § 1901(a)(125), Oct. 4, 1976, 90 Stat. 1784.
 
-The Tax Reform Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (a)(2), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, which was enacted Oct. 4, 1976. For complete classification of this Act to the Code, see Tables.
 
 The Tax Reform Act of 1986, referred to in subsec. (a)(3)(D), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085. Part II of subchapter L of this chapter was repealed and part III of subchapter L of this chapter was redesignated as part II by Pub. L. 99–514, title X, § 1024(a)(1), (2), Oct. 22, 1986, 100 Stat. 2405.
 
@@ -123458,12 +125444,29 @@ Any reduction in basis under this subsection shall not be taken into account for
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–328, div. T, title I, § 114, Dec. 29, 2022, 136 Stat. 5296, provided that, applicable to sales after Dec. 31, 2027, this section is amended:
+
+(a) in subsection (c)(1)(A), by striking “domestic C corporation” and inserting “domestic corporation”; and
+
+(b) by adding at the end the following new subsection:
+
+(h) Application of section to sale of stock in S corporation
+
+In the case of the sale of qualified securities of an S corporation, the election under subsection (a) may be made with respect to not more than 10 percent of the amount realized on such sale for purposes of determining the amount of gain not recognized and the extent to which (if at all) the amount realized on such sale exceeds the cost of qualified replacement property. The portion of adjusted basis that is properly allocable to the portion of the amount realized with respect to which the election is made under this subsection shall be taken into account for purposes of the preceding sentence.
+
+See 2022 Amendment notes below.
+
 #### References in Text
 The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (c)(1)(B)(ii), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 The Tax Reform Act of 1986, referred to in subsec. (c)(4)(A), is Pub. L. 99–514, which was approved Oct. 22, 1986.
 
 #### Amendments
+2022—Subsec. (c)(1)(A). Pub. L. 117–328, § 114(a), substituted “domestic corporation” for “domestic C corporation”.
+
+Subsec. (h). Pub. L. 117–328, § 114(b), added subsec. (h).
+
 1997—Subsec. (g). Pub. L. 105–34 added subsec. (g).
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–188, § 1316(d)(3), substituted “domestic C corporation” for “domestic corporation”.
@@ -123511,6 +125514,9 @@ Subsec. (c)(7). Pub. L. 99–514, § 1854(a)(6)(A), added par. (7).
 Subsec. (d). Pub. L. 99–514, § 1854(a)(7), inserted last sentence.
 
 Subsecs. (e), (f). Pub. L. 99–514, § 1854(a)(8)(A), added subsec. (e) and redesignated former subsec. (e) as (f).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 114(c), Dec. 29, 2022, 136 Stat. 5296, provided that: “The amendments made by this section [amending this section] shall apply to sales after December 31, 2027.”
 
 #### Effective Date of 1997 Amendment
 Pub. L. 105–34, title IX, § 968(b), Aug. 5, 1997, 111 Stat. 896, provided that: “The amendment made by this section [amending this section] shall apply to sales after December 31, 1997.”
@@ -123702,7 +125708,7 @@ Revenue Act of 1932, referred to in section catchline and subsec. (a), is act Ju
 
 Revenue Act of 1934, referred to in section catchline and subsec. (b), is act May 10, 1934, ch. 277, 48 Stat. 680. For complete classification of this Act to the Code, see Tables.
 
-The Internal Revenue Code of 1939, referred to in section catchline and subsec. (c), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. For Table comparisons of the 1939 Code to the 1986 Code, see table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+The Internal Revenue Code of 1939, referred to in section catchline and subsec. (c), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. For Table comparisons of the 1939 Code to the 1986 Code, see table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 Section 113 of the Internal Revenue Code of 1939, referred to in subsec. (c), was classified to section 113 of former Title 26, Internal Revenue Code. Section 113 was repealed by [section 7851(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/a/1/A&num=0&edition=prelim). For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1). See, also, [section 7851(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7851/e&num=0&edition=prelim) for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
@@ -124804,41 +126810,6 @@ Section, added Pub. L. 87–403, § 1(a), Feb. 2, 1962, 76 Stat. 4, related to d
 ### Statutory Notes
 
 Section, Aug. 16, 1954, ch. 736, 68A Stat. 320; Mar. 13, 1956, ch. 83, § 5(7), 70 Stat. 49; Pub. L. 86–69, § 3(f)(2), June 25, 1959, 73 Stat. 140; Pub. L. 87–834, § 8(g)(3), Oct. 16, 1962, 76 Stat. 999; Pub. L. 91–172, title V, § 511(b), Dec. 30, 1969, 83 Stat. 635; Pub. L. 94–455, title XIX, § 1901(a)(135), (b)(33)(L), Oct. 4, 1976, 90 Stat. 1786, 1801; Pub. L. 95–600, title IV, §§ 401(a), 403(a), (b), Nov. 6, 1978, 92 Stat. 2866, 2868; Pub. L. 96–222, title I, § 104(a)(2)(B), (3)(A), Apr. 1, 1980, 94 Stat. 214, 215; Pub. L. 98–369, div. A, title II, § 211(b)(16), July 18, 1984, 98 Stat. 756; Pub. L. 99–514, title III, § 311(a), title X, § 1024(c)(14), Oct. 22, 1986, 100 Stat. 2219, 2408; Pub. L. 100–647, title I, § 1003(c)(1), title II, § 2004(l), Nov. 10, 1988, 102 Stat. 3384, 3606; Pub. L. 103–66, title XIII, § 13221(c)(2), Aug. 10, 1993, 107 Stat. 477; Pub. L. 104–188, title I, § 1703(f), Aug. 20, 1996, 110 Stat. 1876; Pub. L. 105–34, title III, § 314(a), Aug. 5, 1997, 111 Stat. 842; Pub. L. 110–234, title XV, § 15311(a), May 22, 2008, 122 Stat. 1502; Pub. L. 110–246, § 4(a), title XV, § 15311(a), June 18, 2008, 122 Stat. 1664, 2264; Pub. L. 114–113, div. Q, title III, § 334(a), Dec. 18, 2015, 129 Stat. 3108, related to alternative tax for corporations.
-
-#### Subsection (b) of this Section Prior to Repeal
-Prior to repeal by section 13001(b)(2)(A) of Pub. L. 115–97, subsection (b) of this section read as follows:
-
-(b) Special rate for qualified timber gains
-
-(1) In general
-
-If, for any taxable year beginning in 2016, a corporation has both a net capital gain and qualified timber gain—
-
-(A) subsection (a) shall apply to such corporation for the taxable year without regard to whether the applicable tax rate exceeds 35 percent, and
-
-(B) the tax computed under subsection (a)(2) shall be equal to the sum of—
-
-(i) 23.8 percent of the least of—
-
-(I) qualified timber gain,
-
-(II) net capital gain, or
-
-(III) taxable income, plus
-
-(ii) 35 percent of the excess (if any) of taxable income over the sum of the amounts for which a tax was determined under subsection (a)(1) and clause (i).
-
-(2) Qualified timber gain
-
-For purposes of this section, the term “qualified timber gain” means, with respect to any taxpayer for any taxable year, the excess (if any) of—
-
-(A) the sum of the taxpayer’s gains described in subsections (a) and (b) of section 631 for such year, over
-
-(B) the sum of the taxpayer’s losses described in such subsections for such year.
-
-For purposes of subparagraphs (A) and (B), only timber held more than 15 years shall be taken into account.
-
-See Extension of Special Rule Relating to Qualified Timber Gain note set out below.
 
 #### Effective Date of Repeal
 Repeal applicable to taxable years beginning after Dec. 31, 2017, see section 13001(c)(1) of Pub. L. 115–97, set out as an Effective Date of 2017 Amendment note under [section 11 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-11).
@@ -127688,13 +129659,13 @@ Section 8 of the United States Housing Act of 1937, referred to in subsec. (a)(1
 
 The Housing Act of 1949, referred to in subsec. (a)(1)(B)(iv), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title V of the Housing Act of 1949 is classified generally to subchapter III (§ 1471 et seq.) of chapter 8A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-The Tax Reform Act of 1976, referred to in subsec. (b)(3), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. Section 1951(a)(4)(A) of the Act repealed [section 168 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-168). For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (b)(3), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520. Section 1951(a)(4)(A) of the Act repealed [section 168 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-168). For complete classification of this Act to the Code, see Tables.
 
 The Tax Reform Act of 1986, referred to in subsec. (b)(3), is Pub. L. 99–514, Oct. 22, 1986, 100 Stat. 2085. Section 242(a) of the Act repealed [section 185 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-185). For complete classification of this Act to the Code, see Tables.
 
 The Revenue Reconciliation Act of 1990, referred to in subsec. (b)(3), is title XI of Pub. L. 101–508, Nov. 5, 1990, 104 Stat. 1388–400. Section 11801(a)(13) of the Act repealed [section 188 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-188). For complete classification of this Act to the Code, see Short Title note set out under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1) and Tables.
 
-The Economic Recovery Tax Act of 1981, referred to in subsec. (b)(4), is Pub. L. 97–34, Aug. 13, 1981, 95 Stat. 172, as amended. [Section 191 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-191) was repealed by section 212(d)(1) of Pub. L. 97–34. For complete classification of this Act to the Code, see Tables.
+The Economic Recovery Tax Act of 1981, referred to in subsec. (b)(4), is Pub. L. 97–34, Aug. 13, 1981, 95 Stat. 172. [Section 191 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-191) was repealed by section 212(d)(1) of Pub. L. 97–34. For complete classification of this Act to the Code, see Tables.
 
 Such sentence, referred to in subsec. (d)(4)(D), probably should be a reference to [section 1033(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1033/b/2&num=0&edition=prelim), following the amendment by Pub. L. 105–206, § 6023(12), which substituted “section 1033(b)(2)” for “the last sentence of section 1033(b)” in the preceding reference. See 1998 Amendment note below.
 

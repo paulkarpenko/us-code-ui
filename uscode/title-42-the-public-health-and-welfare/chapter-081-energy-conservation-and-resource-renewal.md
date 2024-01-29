@@ -146,7 +146,7 @@ The Secretary shall include in each annual report submitted under [section 7267 
 ### Statutory Notes
 
 #### References in Text
-The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117, as amended. Title I of such Act is classified principally to chapter 46 (§ 2601 et seq.) of Title 16, Conservation, and title III of such Act is classified generally to chapter 59 (§ 3201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim) and Tables.
+The Public Utility Regulatory Policies Act of 1978, referred to in subsec. (a), is Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3117. Title I of such Act is classified principally to chapter 46 (§ 2601 et seq.) of Title 16, Conservation, and title III of such Act is classified generally to chapter 59 (§ 3201 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 2601 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1978—Pub. L. 95–617 substituted provisions relating to grants to State utility regulatory commissions and nonregulated electric utilities for provisions authorizing appropriations to carry out this subchapter.

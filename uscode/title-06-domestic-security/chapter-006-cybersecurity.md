@@ -2,7 +2,7 @@
 title: 6
 chapter: '6'
 heading: CYBERSECURITY
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6&num=0&edition=prelim
 ---
@@ -213,57 +213,25 @@ In this subchapter:
 
   (G) The Office of the Director of National Intelligence.
 
-(4) **Cybersecurity purpose** — The term “cybersecurity purpose” means the purpose of protecting an information system or information that is stored on, processed by, or transiting an information system from a cybersecurity threat or security vulnerability.
+(4) **Cybersecurity purpose** — The term “cybersecurity purpose” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-(5) **Cybersecurity threat**
+(5) **Cybersecurity threat** — The term “cybersecurity threat” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-  (A) *In general* — Except as provided in subparagraph (B), the term “cybersecurity threat” means an action, not protected by the First Amendment to the Constitution of the United States, on or through an information system that may result in an unauthorized effort to adversely impact the security, availability, confidentiality, or integrity of an information system or information that is stored on, processed by, or transiting an information system.
+(6) **Cyber threat indicator** — The term “cyber threat indicator” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-  (B) *Exclusion* — The term “cybersecurity threat” does not include any action that solely involves a violation of a consumer term of service or a consumer licensing agreement.
-
-(6) **Cyber threat indicator** — The term “cyber threat indicator” means information that is necessary to describe or identify—
-
-  (A) malicious reconnaissance, including anomalous patterns of communications that appear to be transmitted for the purpose of gathering technical information related to a cybersecurity threat or security vulnerability;
-
-  (B) a method of defeating a security control or exploitation of a security vulnerability;
-
-  (C) a security vulnerability, including anomalous activity that appears to indicate the existence of a security vulnerability;
-
-  (D) a method of causing a user with legitimate access to an information system or information that is stored on, processed by, or transiting an information system to unwittingly enable the defeat of a security control or exploitation of a security vulnerability;
-
-  (E) malicious cyber command and control;
-
-  (F) the actual or potential harm caused by an incident, including a description of the information exfiltrated as a result of a particular cybersecurity threat;
-
-  (G) any other attribute of a cybersecurity threat, if disclosure of such attribute is not otherwise prohibited by law; or
-
-  (H) any combination thereof.
-
-(7) **Defensive measure**
-
-  (A) *In general* — Except as provided in subparagraph (B), the term “defensive measure” means an action, device, procedure, signature, technique, or other measure applied to an information system or information that is stored on, processed by, or transiting an information system that detects, prevents, or mitigates a known or suspected cybersecurity threat or security vulnerability.
-
-  (B) *Exclusion* — The term “defensive measure” does not include a measure that destroys, renders unusable, provides unauthorized access to, or substantially harms an information system or information stored on, processed by, or transiting such information system not owned by—
-
-    (i) the private entity operating the measure; or
-
-    (ii) another entity or Federal entity that is authorized to provide consent and has provided consent to that private entity for operation of such measure.
+(7) **Defensive measure** — The term “defensive measure” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
 (8) **Federal entity** — The term “Federal entity” means a department or agency of the United States or any component of such department or agency.
 
-(9) **Information system** — The term “information system”—
-
-  (A) has the meaning given the term in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim); and
-
-  (B) includes industrial control systems, such as supervisory control and data acquisition systems, distributed control systems, and programmable logic controllers.
+(9) **Information system** — The term “information system” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
 (10) **Local government** — The term “local government” means any borough, city, county, parish, town, township, village, or other political subdivision of a State.
 
-(11) **Malicious cyber command and control** — The term “malicious cyber command and control” means a method for unauthorized remote identification of, access to, or use of, an information system or information that is stored on, processed by, or transiting an information system.
+(11) **Malicious cyber command and control** — The term “malicious cyber command and control” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-(12) **Malicious reconnaissance** — The term “malicious reconnaissance” means a method for actively probing or passively monitoring an information system for the purpose of discerning security vulnerabilities of the information system, if such method is associated with a known or suspected cybersecurity threat.
+(12) **Malicious reconnaissance** — The term “malicious reconnaissance” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-(13) **Monitor** — The term “monitor” means to acquire, identify, or scan, or to possess, information that is stored on, processed by, or transiting an information system.
+(13) **Monitor** — The term “monitor” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
 (14) **Non-Federal entity**
 
@@ -281,13 +249,22 @@ In this subchapter:
 
   (C) *Exclusion* — The term “private entity” does not include a foreign power as defined in [section 1801 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1801&num=0&edition=prelim).
 
-(16) **Security control** — The term “security control” means the management, operational, and technical controls used to protect against an unauthorized effort to adversely affect the confidentiality, integrity, and availability of an information system or its information.
+(16) **Security control** — The term “security control” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
-(17) **Security vulnerability** — The term “security vulnerability” means any attribute of hardware, software, process, or procedure that could enable or facilitate the defeat of a security control.
+(17) **Security vulnerability** — The term “security vulnerability” has the meaning given the term in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
 (18) **Tribal** — The term “tribal” has the meaning given the term “Indian tribe” in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pars. (4) to (7). Pub. L. 117–263, § 7143(b)(4)(A), added pars. (4) to (7) and struck out former pars. (4) to (7) which defined cybersecurity purpose, cybersecurity threat, cyber threat indicator, and defensive measure, respectively.
+
+Par. (9). Pub. L. 117–263, § 7143(b)(4)(B), added par. (9) and struck out former par. (9) which defined information system.
+
+Pars. (11) to (13). Pub. L. 117–263, § 7143(b)(4)(C), added pars. (11) to (13) and struck out former pars. (11) to (13) which defined malicious cyber command and control, malicious reconnaissance, and monitor, respectively.
+
+Pars. (16), (17). Pub. L. 117–263, § 7143(b)(4)(D), added pars. (16) and (17) and struck out former pars. (16) and (17) which defined security control and security vulnerability, respectively.
 
 #### Short Title
 Pub. L. 114–113, div. N, § 1(a), Dec. 18, 2015, 129 Stat. 2935, provided that: “This division [enacting this chapter and sections 149 and 151 of this title, amending sections 131, 148, 149, and 150 of this title, [section 1029 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1029&num=0&edition=prelim), Crimes and Criminal Procedure, and sections 3553 and 3554 of Title 44, Public Printing and Documents, enacting provisions set out as notes under this section and sections 101, 131, and 151 of this title and [section 301 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section301&num=0&edition=prelim), Government Organization and Employees] may be cited as the ‘Cybersecurity Act of 2015’.”
@@ -852,7 +829,7 @@ In this subchapter:
 
   (B) the Committee on Homeland Security of the House of Representatives.
 
-(4) **Cybersecurity risk; information system** — The terms “cybersecurity risk” and “information system” have the meanings given those terms in [section 659 of this title](./chapter-001-homeland-security-organization.md#section-659).
+(4) **Cybersecurity risk; information system** — The terms “cybersecurity risk” and “information system” have the meanings given those terms in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
 (5) **Director** — The term “Director” means the Director of the Office of Management and Budget.
 
@@ -868,6 +845,8 @@ In this subchapter:
 This subchapter, referred to in text, was in the original “this subtitle”, meaning subtitle B (§§ 221–229) of title II of div. N of Pub. L. 114–113, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 #### Amendments
+2022—Par. (4). Pub. L. 117–263 substituted “[section 650 of this title](./chapter-001-homeland-security-organization.md#section-650)” for “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)”.
+
 2018—Par. (2). Pub. L. 115–278, § 2(h)(1)(D)(i), substituted “[section 660 of this title](./chapter-001-homeland-security-organization.md#section-660)” for “[section 149 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section149&num=0&edition=prelim), as added by section 223(a)(4) of this division”.
 
 Par. (4). Pub. L. 115–278, § 2(h)(1)(D)(ii), substituted “[section 659 of this title](./chapter-001-homeland-security-organization.md#section-659)” for “[section 148 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section148&num=0&edition=prelim), as so redesignated by section 223(a)(3) of this division”.
@@ -951,7 +930,7 @@ The text of [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=
 
 (1) **Agency information** — The term “agency information” has the meaning given the term in section 2213 of the Homeland Security Act of 2002 [[6 U.S.C. 663](./chapter-001-homeland-security-organization.md#section-663)].
 
-(2) **Cyber threat indicator; defensive measure** — The terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in [section 1501 of this title](./chapter-006-cybersecurity.md#section-1501).
+(2) **Cyber threat indicator; defensive measure** — The terms “cyber threat indicator” and “defensive measure” have the meanings given those terms in [section 650 of this title](./chapter-001-homeland-security-organization.md#section-650).
 
 (3) **Intrusion assessments** — The term “intrusion assessments” means actions taken under the intrusion assessment plan to identify and remove intruders in agency information systems.
 
@@ -1027,6 +1006,8 @@ The text of [section 11331 of title 40](https://uscode.house.gov/view.xhtml?req=
 Subtitle D of title II of the Homeland Security Act of 2002, referred to in subsec. (c)(1)(C)(ii), is subtitle D (§§ 231–237) of title II of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2159, which enacted part D (§ 161 et seq.) of subchapter II of chapter 1 of this title and amended sections 10102 and 10122 of Title 34, Crime Control and Law Enforcement. Subtitle D was redesignated subtitle C of title II of the Homeland Security Act of 2002 by Pub. L. 115–278, § 2(g)(2)(K), Nov. 16, 2018, 132 Stat. 4178, and is classified principally to part C (§ 161 et seq.) of subchapter II of chapter 1 of this title. For complete classification of subtitle C to the Code, see Tables.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263 substituted “[section 650 of this title](./chapter-001-homeland-security-organization.md#section-650)” for “[section 1501 of this title](./chapter-006-cybersecurity.md#section-1501)”.
+
 2018—Subsec. (a)(1). Pub. L. 115–278, § 2(h)(1)(F)(i)(I), substituted “section 2213” for “section 230” and struck out before period at end “, as added by section 223(a)(6) of this division”.
 
 Subsec. (a)(4). Pub. L. 115–278, § 2(h)(1)(F)(i)(II), substituted “section 2210(b)(1)” for “section 228(b)(1)” and struck out before period at end “, as added by section 223(a)(4) of this division”.
@@ -1038,13 +1019,17 @@ Subsec. (c)(1)(A)(vi). Pub. L. 115–278, § 2(h)(1)(F)(ii), substituted “sect
 
 <a id="section-1525"></a>
 ## § 1525. Termination
-**(a) In general** The authority provided under [section 663 of this title](./chapter-001-homeland-security-organization.md#section-663), and the reporting requirements under [section 1524(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1524/c&num=0&edition=prelim) shall terminate on the date that is 7 years after December 18, 2015.
+**(a) In general** The authority provided under [section 663 of this title](./chapter-001-homeland-security-organization.md#section-663), and the reporting requirements under [section 1524(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section1524/c&num=0&edition=prelim) shall terminate on September 30, 2024.
 
 **(b) Rule of construction** Nothing in subsection (a) shall be construed to affect the limitation of liability of a private entity for assistance provided to the Secretary under section 663(d)(2) 11 So in original. Probably should be “663(c)(2)”. of this title, if such assistance was rendered before the termination date under subsection (a) or otherwise during a period in which the assistance was authorized.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–47 substituted “September 30, 2024” for “September 30, 2023”.
+
+2022—Subsec. (a). Pub. L. 117–328 substituted “September 30, 2023” for “the date that is 7 years after December 18, 2015”.
+
 2018—Subsec. (a). Pub. L. 115–278, § 2(h)(1)(G)(i), substituted “[section 663 of this title](./chapter-001-homeland-security-organization.md#section-663)” for “[section 151 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151&num=0&edition=prelim), as added by section 223(a)(6) of this division,”.
 
 Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “[section 663(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section663/d/2&num=0&edition=prelim)” for “[section 151(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section151/d/2&num=0&edition=prelim), as added by section 223(a)(6) of this division,”.
@@ -1099,7 +1084,10 @@ Subsec. (b). Pub. L. 115–278, § 2(h)(1)(G)(ii), substituted “[section 663(d
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of the Quantum Computing Cybersecurity Preparedness Act, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
+Section was enacted as part of the Quantum Computing Cybersecurity Preparedness Act, and not as part of the Cybersecurity Act of 2015 which comprises this chapter.
+
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Findings; Sense of Congress
 Pub. L. 117–260, § 2, Dec. 21, 2022, 136 Stat. 2389, provided that: “(a) Findings.—Congress finds the following:“(1) Cryptography is essential for the national security of the United States and the functioning of the economy of the United States. “(2) The most widespread encryption protocols today rely on computational limits of classical computers to provide cybersecurity. “(3) Quantum computers might one day have the ability to push computational boundaries, allowing us to solve problems that have been intractable thus far, such as integer factorization, which is important for encryption. “(4) The rapid progress of quantum computing suggests the potential for adversaries of the United States to steal sensitive encrypted data today using classical computers, and wait until sufficiently powerful quantum systems are available to decrypt it. “(b) Sense of Congress.—It is the sense of Congress that—“(1) a strategy for the migration of information technology of the Federal Government to post-quantum cryptography is needed; and “(2) the governmentwide and industrywide approach to post-quantum cryptography should prioritize developing applications, hardware intellectual property, and software that can be easily updated to support cryptographic agility.”
@@ -1291,3 +1279,23 @@ Reference to the Assistant Director for Emergency Communications deemed to be a 
 Section 264(c) of the Health Insurance Portability and Accountability Act of 1996, referred to subsec. (d)(1)(C)(ii), is section 264(c) of Pub. L. 104–191, which is set out as a note under [section 1320d–2 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320d–2&num=0&edition=prelim), The Public Health and Welfare.
 
 The Health Information Technology for Economic and Clinical Health Act, referred to in subsec. (d)(1)(C)(iii), is title XIII of div. A and title IV of div. B of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 226, 467, also known as the HITECH Act. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+
+
+<a id="section-1534"></a>
+## § 1534. Cybercrime
+
+Subject to the availability of appropriations, and in accordance with the comparable level of the General Schedule, the Attorney General and the Secretary of Homeland Security shall provide incentive pay, in an amount that is not more than 25 percent of the basic pay of the individual, to an individual appointed to a position in the Department of Justice (including the Federal Bureau of Investigation) or the Department of Homeland Security (including positions in Homeland Security Investigations), respectively, requiring significant cyber skills, including to aid in—
+
+(1) the protection of trafficking victims;
+
+(2) the prevention of trafficking in persons; or
+
+(3) the prosecution of technology-facilitated crimes against children by buyers or traffickers in persons.
+
+### Statutory Notes
+
+#### References in Text
+The General Schedule, referred to in text, is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
+#### Codification
+Section was enacted as part of the Abolish Trafficking Reauthorization Act of 2022, and not as part of the Cybersecurity Act of 2015 which comprises this chapter.

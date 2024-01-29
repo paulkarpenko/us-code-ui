@@ -151,7 +151,7 @@ Section 25 of the Federal Reserve Act, referred to in par. (2), is classified to
 
 This chapter, referred to in par. (9), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 95–630, known as the Depository Institution Management Interlocks Act, to reflect the probable intent of Congress.
 
-The Home Owners’ Loan Act, referred to in par. (9), is act June 13, 1933, ch. 64, 48 Stat. 128, as amended, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see [section 1461 of this title](./chapter-012-savings-associations.md#section-1461) and Tables.
+The Home Owners’ Loan Act, referred to in par. (9), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see [section 1461 of this title](./chapter-012-savings-associations.md#section-1461) and Tables.
 
 #### Amendments
 1989—Par. (9). Pub. L. 101–73 added par. (9).

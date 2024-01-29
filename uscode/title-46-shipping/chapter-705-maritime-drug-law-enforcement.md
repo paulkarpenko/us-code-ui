@@ -72,9 +72,11 @@ Congress finds and declares that (1) trafficking in controlled substances aboard
 
   (A) a vessel aboard which the master or individual in charge makes a claim of registry that is denied by the nation whose registry is claimed;
 
-  (B) a vessel aboard which the master or individual in charge fails, on request of an officer of the United States authorized to enforce applicable provisions of United States law, to make a claim of nationality or registry for that vessel; and
+  (B) a vessel aboard which the master or individual in charge fails, on request of an officer of the United States authorized to enforce applicable provisions of United States law, to make a claim of nationality or registry for that vessel;
 
-  (C) a vessel aboard which the master or individual in charge makes a claim of registry and for which the claimed nation of registry does not affirmatively and unequivocally assert that the vessel is of its nationality.
+  (C) a vessel aboard which the master or individual in charge makes a claim of registry and for which the claimed nation of registry does not affirmatively and unequivocally assert that the vessel is of its nationality; and
+
+  (D) a vessel aboard which no individual, on request of an officer of the United States authorized to enforce applicable provisions of United States law, claims to be the master or is identified as the individual in charge, and that has no other claim of nationality or registry under paragraph (1) or (2) of subsection (e).
 
 (2) **Response to claim of registry.—** — The response of a foreign nation to a claim of registry under paragraph (1)(A) or (C) may be made by radio, telephone, or similar oral or electronic means, and is proved conclusively by certification of the Secretary of State or the Secretary’s designee.
 
@@ -110,6 +112,8 @@ In subsection (b)(3), the words “placed under foreign registry, or operated un
 In subsection (d)(1)(B), the word “authorized” is substituted for “empowered” for consistency with subsection (b)(2)(B).
 
 #### Amendments
+2022—Subsec. (d)(1)(D). Pub. L. 117–263 added subpar. (D).
+
 2008—Pub. L. 110–181, § 3525(b), repealed Pub. L. 109–241, § 303. See 2006 Amendment note below.
 
 Subsec. (d)(2). Pub. L. 110–181, § 3525(a)(6), incorporated the substance of the amendment by Pub. L. 109–241, § 303, into this section by amending heading and text of par. (2) generally. Prior to amendment, text read as follows: “A claim of registry under paragraph (1)(A) or (C) may be verified or denied by radio, telephone, or similar oral or electronic means. The denial of such a claim is proved conclusively by certification of the Secretary of State or the Secretary’s designee.” See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).

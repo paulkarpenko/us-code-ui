@@ -29,7 +29,7 @@ Act Jan. 31, 1942, provided that the amendments made by that act are effective f
 Act Aug. 3, 1956, ch. 934, 70 Stat. 989, provided: “That the Secretary of Agriculture is authorized to pay expenses of an Advisory Committee on Soil and Water Conservation and related matters, but such Committee members (other than ex officio members) shall not be deemed to be employees of the United States and shall not receive compensation.”
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Transfer of Functions
 Agricultural Adjustment Administration consolidated into Production and Marketing Administration by 1946 Reorg. Plan No. 3, eff. July 4, 1946, 11 F.R. 7876, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees. See note set out under [section 610 of this title](./chapter-026-agricultural-adjustment.md#section-610).
@@ -3469,6 +3469,8 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 ### Statutory Notes
 
 #### Codification
+Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year pursuant to title I of Pub. L. 113–79 and amendment made by section 1301 of Pub. L. 115–334 applicable to the 2024 crop year for sugarcane or sugar beets, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Prior Provisions
@@ -4053,6 +4055,8 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 The date of enactment of this section, referred to in subsec. (b), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
+Provisions of law applicable to sugarcane or sugar beets for the 2023 crop year pursuant to title I of Pub. L. 113–79 and amendment made by section 1301 of Pub. L. 115–334 applicable to the 2024 crop year for sugarcane or sugar beets, see section 102(c)(1) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments

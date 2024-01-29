@@ -815,21 +815,22 @@ A prior section 4 of Pub. L. 88–74 was classified to [section 390c of this tit
 
 
 <a id="section-390c"></a>
-## § 390c. Applicability of Federal Advisory Committee Act
+## § 390c. Applicability of chapter 10 of title 5
 
-The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
+Chapter 10 of title 5 and title XVIII of the Food and Agriculture Act of 1977 ([7 U.S.C. 2281](./chapter-55a-department-of-agriculture-advisory-committees.md#section-2281) et seq.) shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Food and Agriculture Act of 1977, referred to in text, is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913. Title XVIII of the Act is classified generally to chapter 55A (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1281 of this title](./chapter-035-agricultural-adjustment-act-of-1938.md#section-1281) and Tables.
 
 #### Prior Provisions
 A prior section 390c, Pub. L. 88–74, § 4, July 22, 1963, 77 Stat. 91; Pub. L. 95–113, title XIV, § 1416(2), Sept. 29, 1977, 91 Stat. 994; Pub. L. 97–98, title XIV, § 1416, Dec. 22, 1981, 95 Stat. 1304; Pub. L. 99–198, title XIV, § 1411(d), Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, § 1601(a), Nov. 28, 1990, 104 Stat. 3703, related to appropriations and administrative authority, prior to the general amendment of this subchapter by Pub. L. 104–127.
 
 A prior section 5 of Pub. L. 88–74 was classified to [section 390d of this title](./chapter-014-agricultural-experiment-stations.md#section-390d) prior to the general amendment of this subchapter by Pub. L. 104–127.
+
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in section catchline and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-390d"></a>
@@ -845,6 +846,8 @@ A prior section 5 of Pub. L. 88–74 was classified to [section 390d of this tit
 ### Statutory Notes
 
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

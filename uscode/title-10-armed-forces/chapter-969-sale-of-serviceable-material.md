@@ -107,7 +107,7 @@ Subsec. (f). Pub. L. 104–106, § 375(b)(2)(B), inserted “or by commercial cr
 1962—Subsecs. (a), (b). Pub. L. 87–651 substituted “[section 2208 of this title](./chapter-131-planning-and-coordination.md#section-2208)” for “sections 172–172j of title 5”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9622"></a>
@@ -176,7 +176,7 @@ Subsec. (c). Pub. L. 96–513, § 514(17)(A), substituted “United States Soldi
 Amendment by Pub. L. 101–510 effective one year after Nov. 5, 1990, see section 1541 of Pub. L. 101–510, formerly set out as an Effective Date note under [section 401 of Title 24](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title24-section401&num=0&edition=prelim), Hospitals and Asylums.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9625"></a>

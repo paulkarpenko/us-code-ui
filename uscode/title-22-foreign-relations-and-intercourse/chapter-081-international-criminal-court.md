@@ -166,7 +166,23 @@ Subsec. (e). Pub. L. 110–181, § 1212(b)(1)(E), substituted “and 7425” for
 
 **(g) Restriction on assistance pursuant to mutual legal assistance treaties** The United States shall exercise its rights to limit the use of assistance provided under all treaties and executive agreements for mutual legal assistance in criminal matters, multilateral conventions with legal assistance provisions, and extradition treaties, to which the United States is a party, and in connection with the execution or issuance of any letter rogatory, to prevent the transfer to, or other use by, the International Criminal Court of any assistance provided by the United States under such treaties and letters rogatory.
 
-**(h) Prohibition on investigative activities of agents** No agent of the International Criminal Court may conduct, in the United States or any territory subject to the jurisdiction of the United States, any investigative activity relating to a preliminary inquiry, investigation, prosecution, or other proceeding at the International Criminal Court.
+**(h) Prohibition on investigative activities of agents**
+
+(1) **In general** — No agent of the International Criminal Court may conduct, in the United States or any territory subject to the jurisdiction of the United States, any investigative activity relating to a preliminary inquiry, investigation, prosecution, or other proceeding at the International Criminal Court.
+
+(2) **Exception** — The prohibition under paragraph (1) shall not apply with respect to investigative activities that—
+
+  (A) relate solely to investigations and prosecutions of foreign persons for crimes within the jurisdiction of the International Criminal Court related to the Situation in Ukraine; and
+
+  (B) are undertaken in concurrence with the Attorney General.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–328 designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+#### Rule of Construction
+Pub. L. 117–328, div. K, title VII, § 7073(c), Dec. 29, 2022, 136 Stat. 5092, provided that: “Nothing in this section [amending this section and [section 7433 of this title](./chapter-081-international-criminal-court.md#section-7433)] may be construed to modify the existing roles or authorities of any Federal agency or official.”
 
 
 <a id="section-7424"></a>
@@ -311,5 +327,16 @@ Committee on International Relations of House of Representatives changed to Comm
 
 <a id="section-7433"></a>
 ## § 7433. Assistance to international efforts
+**(a) Assistance** Nothing in this subchapter shall prohibit the United States from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda,11 So in original. leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity, or from rendering assistance to the International Criminal Court to assist with investigations and prosecutions of foreign nationals related to the Situation in Ukraine, including to support victims and witnesses.
 
-Nothing in this subchapter shall prohibit the United States from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda, leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity.
+**(b) Authority** Assistance made available pursuant to subsection (a) of this section may be made available notwithstanding [section 7401 of this title](./chapter-081-international-criminal-court.md#section-7401), except that none of the funds made available pursuant to this subsection may be made available for the purpose of supporting investigations or prosecutions of U.S. servicemembers or other covered United States persons or covered allied persons as such terms are defined in [section 7432 of this title](./chapter-081-international-criminal-court.md#section-7432).
+
+**(c) Notification** The Secretary of State shall notify the Committees on Appropriations, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives, of any amounts obligated pursuant to subsection (b) not later than 15 days before such obligation is made.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–328 substituted subsecs. (a) to (c) for “Nothing in this subchapter shall prohibit the United States from rendering assistance to international efforts to bring to justice Saddam Hussein, Slobodan Milosovic, Osama bin Laden, other members of Al Queda, leaders of Islamic Jihad, and other foreign nationals accused of genocide, war crimes or crimes against humanity.”
+
+#### Rule of Construction
+Nothing in amendment by Pub. L. 117–328 to be construed to modify the existing roles or authorities of any Federal agency or official, see section 7073(c) of Pub. L. 117–328, set out as a note under [section 7423 of this title](./chapter-081-international-criminal-court.md#section-7423).

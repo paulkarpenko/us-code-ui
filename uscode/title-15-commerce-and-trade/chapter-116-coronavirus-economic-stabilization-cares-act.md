@@ -232,7 +232,7 @@ Section, Pub. L. 116–136, div. A, title I, § 1106, Mar. 27, 2020, 134 Stat. 2
 
 (2) $675,000,000 under the heading “Small Business Administration—Salaries and Expenses” for salaries and expenses of the Administration;
 
-(3) $25,000,000 under the heading “Small Business Administration—Office of Inspector General”, to remain available until September 30, 2024, for necessary expenses of the Office of Inspector General of the Administration in carrying out the provisions of the Inspector General Act of 1978 (5 U.S.C. App.);
+(3) $25,000,000 under the heading “Small Business Administration—Office of Inspector General”, to remain available until September 30, 2024, for necessary expenses of the Office of Inspector General of the Administration in carrying out the provisions of the Inspector General Act of 1978 (5 U.S.C. App.); 11 See References in Text note below.
 
 (4) $265,000,000 under the heading “Small Business Administration—Entrepreneurial Development Programs”, of which—
 
@@ -259,7 +259,7 @@ The CARES Act, referred to in subsec. (a)(1), (7), is Pub. L. 116–136, Mar. 27
 
 Section 1102(a) of this Act, referred to in subsec. (a)(1), means section 1102(a) of div. A of Pub. L. 116–136.
 
-The Inspector General Act of 1978, referred to in subsec. (a)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (a)(3), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
 2020—Subsec. (a)(1). Pub. L. 116–139 substituted “$670,335,000,000” for “$349,000,000,000”.
@@ -409,7 +409,7 @@ Amendment by Pub. L. 116–260 effective on Dec. 27, 2020, and applicable to loa
 
 (2) has not received such a loan during the period beginning on February 15, 2020 and ending on December 31, 2020.
 
-**(g) Opt-in for SBA qualified lenders** Lenders qualified to participate as a lender under 7(a) 22 So in original. Probably should be preceded by “section”. of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)).
+**(g) Opt-in for SBA qualified lenders** Lenders qualified to participate as a lender under 7(a) 33 So in original. Probably should be preceded by “section”. of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)) may elect to participate in the paycheck protection program under the criteria, terms, and conditions established under this section. Such participation shall not preclude the lenders from continuing participation as a lender under section 7(a) of the Small Business Act ([15 U.S.C. 636(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a&num=0&edition=prelim)).
 
 **(h) Program administration** With guidance from the Secretary, the Administrator shall administer the program established under this section, including the making and purchasing of guarantees on loans under the program, until the date on which the national emergency declared by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to the Coronavirus Disease 2019 (COVID–19) expires.
 
@@ -435,7 +435,7 @@ The Small Business Act, referred to in subsec. (i), is Pub. L. 85–536, § 2(1 
 Amendment by Pub. L. 116–260 effective as if included in Pub. L. 116–136 and applicable to any loan made pursuant to [section 636(a)(36) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/a/36&num=0&edition=prelim) before, on, or after Dec. 27, 2020, including forgiveness of such a loan, with provisions relating to exclusion of loans already forgiven, see section 304(c) of Pub. L. 116–260, set out as a note under [section 636 of this title](./chapter-14a-aid-to-small-business.md#section-636).
 
 #### Clarification of Tax Treatment of Certain Loan Forgiveness and Other Business Financial Assistance
-Pub. L. 116–260, div. N, title II, § 278, Dec. 27, 2020, 134 Stat. 1980, provided that: “(a) United States Treasury Program Management Authority.—For purposes of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]—“(1) no amount shall be included in the gross income of a borrower by reason of forgiveness of indebtedness described in section 1109(d)(2)(D) of the CARES Act [[15 U.S.C. 9008(d)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9008/d/2/D&num=0&edition=prelim)], “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a borrower that is a partnership or S corporation—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986 [[26 U.S.C. 705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section705&num=0&edition=prelim), 1366], and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the partner’s distributive share of deductions resulting from costs giving rise to forgiveness described in section 1109(d)(2)(D) of the CARES Act. “(b) Emergency EIDL Grants and Targeted EIDL Advances.—For purposes of the Internal Revenue Code of 1986—“(1) any advance described in section 1110(e) of the CARES Act [[15 U.S.C. 9009(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009/e&num=0&edition=prelim)] or any funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[15 U.S.C. 9009b](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009b)] shall not be included in the gross income of the person that receives such advance or funding, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such advance or funding—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(c) Subsidy for Certain Loan Payments.—For purposes of the Internal Revenue Code of 1986—“(1) any payment described in section 1112(c) of the CARES Act [[15 U.S.C. 9011(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9011/c&num=0&edition=prelim)] shall not be included in the gross income of the person on whose behalf such payment is made, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation on whose behalf of a payment described in section 1112(c) of the CARES Act is made—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the sum of the partner’s distributive share of deductions resulting from interest and fees described in section 1112(c) of the CARES Act and the partner’s share, as determined under section 752 of the Internal Revenue Code of 1986, of principal described in section 1112(c) of the CARES Act. “(d) Grants for Shuttered Venue Operators.—For purposes of the Internal Revenue Code of 1986—“(1) any grant made under section 324 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[15 U.S.C. 9009a](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009a)] shall not be included in the gross income of the person that receives such grant, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such grant—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(e) Effective Dates.—“(1) In general.—Except as otherwise provided in this subsection, subsections (a), (b), and (c) shall apply to taxable years ending after the date of the enactment of the CARES Act [Pub. L. 116–136]. “(2) Grants for shuttered venue operators; targeted eidl advances.—Subsection (d), and so much of subsection (b) as relates to funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, shall apply to taxable years ending after the date of the enactment of this Act [Dec. 27, 2020].”
+Pub. L. 116–260, div. N, title II, § 278, Dec. 27, 2020, 134 Stat. 1980, provided that: “(a) United States Treasury Program Management Authority.—For purposes of the Internal Revenue Code of 1986 [[26 U.S.C. 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim) et seq.]—“(1) no amount shall be included in the gross income of a borrower by reason of forgiveness of indebtedness described in section 1109(d)(2)(D) of the CARES Act [[15 U.S.C. 9008(d)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9008/d/2/D&num=0&edition=prelim)], “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a borrower that is a partnership or S corporation—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986 [[26 U.S.C. 705](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section705&num=0&edition=prelim), 1366], and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the partner’s distributive share of deductions resulting from costs giving rise to forgiveness described in section 1109(d)(2)(D) of the CARES Act. “(b) Emergency EIDL Grants and Targeted EIDL Advances.—For purposes of the Internal Revenue Code of 1986—“(1) any advance described in section 1110(e) of the CARES Act [[15 U.S.C. 9009(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9009/e&num=0&edition=prelim)] or any funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[15 U.S.C. 9009b](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009b)] shall not be included in the gross income of the person that receives such advance or funding, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such advance or funding—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(c) Subsidy for Certain Loan Payments.—For purposes of the Internal Revenue Code of 1986—“(1) any payment described in section 1112(c) of the CARES Act [[15 U.S.C. 9011(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9011/c&num=0&edition=prelim)] shall not be included in the gross income of the person on whose behalf such payment is made, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation on whose behalf of a payment described in section 1112(c) of the CARES Act is made—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) except as provided by the Secretary of the Treasury (or the Secretary’s delegate), any increase in the adjusted basis of a partner’s interest in a partnership under section 705 of the Internal Revenue Code of 1986 with respect to any amount described in subparagraph (A) shall equal the sum of the partner’s distributive share of deductions resulting from interest and fees described in section 1112(c) of the CARES Act and the partner’s share, as determined under section 752 of the Internal Revenue Code of 1986, of principal described in section 1112(c) of the CARES Act. “(d) Grants for Shuttered Venue Operators.—For purposes of the Internal Revenue Code of 1986—“(1) any grant made under section 324 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act [[15 U.S.C. 9009a](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9009a)] shall not be included in the gross income of the person that receives such grant, “(2) no deduction shall be denied, no tax attribute shall be reduced, and no basis increase shall be denied, by reason of the exclusion from gross income provided by paragraph (1), and “(3) in the case of a partnership or S corporation that receives such grant—“(A) any amount excluded from income by reason of paragraph (1) shall be treated as tax exempt income for purposes of sections 705 and 1366 of the Internal Revenue Code of 1986, and “(B) the Secretary of the Treasury (or the Secretary’s delegate) shall prescribe rules for determining a partner’s distributive share of any amount described in subparagraph (A) for purposes of section 705 of the Internal Revenue Code of 1986. “(e) Effective Dates.—“(1) In general.—Except as otherwise provided in this subsection, subsections (a), (b), and (c) shall apply to taxable years ending after the date of the enactment of the CARES Act [Pub. L. 116–136, approved Mar. 27, 2020]. “(2) Grants for shuttered venue operators; targeted eidl advances.—Subsection (d), and so much of subsection (b) as relates to funding under section 331 of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act, shall apply to taxable years ending after the date of the enactment of this Act [Dec. 27, 2020].”
 
 
 <a id="section-9009"></a>
@@ -456,17 +456,17 @@ Pub. L. 116–260, div. N, title II, § 278, Dec. 27, 2020, 134 Stat. 1980, prov
 
   (E) a tribal small business concern, as described in [section 657a(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section657a/b/2/C&num=0&edition=prelim), with not more than 500 employees; or
 
-  (F) an agricultural enterprise (as defined in [section 647(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section647/b&num=0&edition=prelim) with not more than 500 employees.
+  (F) an agricultural enterprise (as defined in [section 647(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section647/b&num=0&edition=prelim) 11 So in original. Probably should be followed by a closing parenthesis. with not more than 500 employees.
 
 **(b) Eligible entities** During the covered period, in addition to small business concerns, private nonprofit organizations, and small agricultural cooperatives, an eligible entity shall be eligible for a loan made under [section 636(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/2&num=0&edition=prelim).
 
 **(c) Terms; credit elsewhere** With respect to a loan made under [section 636(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/2&num=0&edition=prelim) in response to COVID–19 during the covered period, the Administrator shall waive—
 
-(1) any rules related 11 So in original. Probably should be followed by “to”. the personal guarantee on advances and loans of not more than $200,000 during the covered period for all applicants;
+(1) any rules related 22 So in original. Probably should be followed by “to”. the personal guarantee on advances and loans of not more than $200,000 during the covered period for all applicants;
 
 (2) the requirement that an applicant needs to be in business for the 1-year period before the disaster, except that no waiver may be made for a business that was not in operation on January 31, 2020; and
 
-(3) the requirement in the flush matter following subparagraph (E) of [section 636(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/2&num=0&edition=prelim), as so redesignated by subsection (f) of this section,22 See Codification note below. that an applicant be unable to obtain credit elsewhere.
+(3) the requirement in the flush matter following subparagraph (E) of [section 636(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/2&num=0&edition=prelim), as so redesignated by subsection (f) of this section,33 See Codification note below. that an applicant be unable to obtain credit elsewhere.
 
 **(d) Approval and ability to repay for small dollar loans** With respect to a loan made under [section 636(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636/b/2&num=0&edition=prelim) in response to COVID–19 during the covered period, the Administrator may—
 
@@ -1247,6 +1247,8 @@ Funding under this section not included in gross income of recipient, see sectio
 
 #### References in Text
 Section 2301 of the CARES Act, referred to in subsec. (a)(8)(A), is section 2301 of Pub. L. 116–136, which is set out as a note under [section 3111 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3111&num=0&edition=prelim), Internal Revenue Code.
+
+[Section 636m(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636m/a&num=0&edition=prelim) (as redesignated, transferred, and amended by section 304(b) of the Economic Aid to Hard-Hit Small Businesses, Nonprofits, and Venues Act (Public Law 116–260)), referred to in subsec. (c)(5)(H), probably means [section 636m(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section636m/a&num=0&edition=prelim), as redesignated, transferred, and amended by section 304(b) of title III of div. N of Pub. L. 116–260.
 
 #### Codification
 Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
@@ -2095,7 +2097,7 @@ Pub. L. 117–2, title IX, § 9014(b), Mar. 11, 2021, 135 Stat. 119, provided th
 
 (2) **Administration**
 
-  (A) *In general* — There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act ([42 U.S.C. 1101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1101/a&num=0&edition=prelim)) of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act ([42 U.S.C. 501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section501&num=0&edition=prelim) et seq.)) in meeting the costs of administration of agreements under this section.
+  (A) *In general* — There are appropriated out of the employment security administration account (as established by section 901(a) of the Social Security Act ([42 U.S.C. 1101(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1101/a&num=0&edition=prelim)) 33 So in original. A third closing parenthesis probably should appear. of the Unemployment Trust Fund, without fiscal year limitation, such funds as may be necessary for purposes of assisting States (as provided in title III of the Social Security Act ([42 U.S.C. 501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section501&num=0&edition=prelim) et seq.)) in meeting the costs of administration of agreements under this section.
 
   (B) *Transfer of funds* — Notwithstanding any other provision of law, the Secretary of the Treasury shall transfer from the general fund of the Treasury (from funds not otherwise appropriated) to the employment security administration account such sums as the Secretary of Labor estimates to be necessary to make payments described in subparagraph (A). There are appropriated from the general fund of the Treasury, without fiscal year limitation, the sums referred to in the preceding sentence and such sums shall not be required to be repaid.
 
@@ -2416,12 +2418,12 @@ Pub. L. 116–260, div. N, title II, § 234(c), Dec. 27, 2020, 134 Stat. 1959, p
 <a id="section-9031"></a>
 ## § 9031. Funding for the DOL Office of Inspector General for oversight of unemployment provisions
 
-There are appropriated, out of moneys in the Treasury not otherwise appropriated, to the Office of the Inspector General of the Department of Labor, $25,000,000 to carry out audits, investigations, and other oversight activities authorized under the Inspector General Act of 1978 (5 U.S.C. App.) that are related to the provisions of, and amendments made by, this subtitle, to remain available without fiscal year limitation.
+There are appropriated, out of moneys in the Treasury not otherwise appropriated, to the Office of the Inspector General of the Department of Labor, $25,000,000 to carry out audits, investigations, and other oversight activities authorized under the Inspector General Act of 1978 (5 U.S.C. App.) 11 See References in Text note below. that are related to the provisions of, and amendments made by, this subtitle, to remain available without fiscal year limitation.
 
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 This subtitle, referred to in text, is subtitle A (§ 2101 et seq.) of title II of div. A of Pub. L. 116–136, Mar. 27, 2020, 134 Stat. 313, known as the Relief for Workers Affected by Coronavirus Act. For complete classification of subtitle A to the Code, see Short Title note set out under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001) and Tables.
 
@@ -2550,7 +2552,7 @@ The Railway Labor Act, referred to in par. (5)(B), is act May 20, 1926, ch. 347,
 
 (1) Not more than $0 shall be available to make loans and loan guarantees for passenger air carriers, eligible businesses that are certified under part 145 of title 14, Code of Federal Regulations, and approved to perform inspection, repair, replace, or overhaul services, and ticket agents (as defined in [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim)).
 
-(2) Not more than 0 11 So in original. Probably should be “$0”. shall be available to make loans and loan guarantees for cargo air carriers.
+(2) Not more than 0 11 So in original. Probably should be preceded by a dollar sign. shall be available to make loans and loan guarantees for cargo air carriers.
 
 (3) Not more than 0 1 shall be available to make loans and loan guarantees for businesses critical to maintaining national security.
 
@@ -2614,7 +2616,7 @@ The Railway Labor Act, referred to in par. (5)(B), is act May 20, 1926, ch. 347,
 
     (iii) *Waiver* — The Secretary may waive the requirement under clause (ii) with respect to any program or facility upon a determination that such waiver is necessary to protect the interests of the Federal Government. If the Secretary exercises a waiver under this clause, the Secretary shall make himself available to testify before the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives regarding the reasons for the waiver.
 
-  (B) *Federal Reserve Act taxpayer protections and other requirements apply* — For the avoidance of doubt, any applicable requirements under [section 343(3) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim), including requirements relating to loan collateralization, taxpayer protection, and borrower solvency, shall apply with respect to any program or facility described in subsection (b)(4).
+  (B) *Federal Reserve Act taxpayer protections and other requirements apply* — For the avoidance of doubt, any applicable requirements under section 13(3) of the Federal Reserve Act ([12 U.S.C. 343(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim)), including requirements relating to loan collateralization, taxpayer protection, and borrower solvency, shall apply with respect to any program or facility described in subsection (b)(4).
 
   (C) *United States businesses* — A program or facility in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4) shall only purchase obligations or other interests (other than securities that are based on an index or that are based on a diversified pool of securities) from, or make loans or other advances to, businesses that are created or organized in the United States or under the laws of the United States and that have significant operations in and a majority of its employees based in the United States.
 
@@ -2642,7 +2644,7 @@ The Railway Labor Act, referred to in par. (5)(B), is act May 20, 1926, ch. 347,
 
       (X) that the recipient will remain neutral in any union organizing effort for the term of the loan.
 
-    (ii) *Main street lending program* — Nothing in this subparagraph shall limit the discretion of the Board of Governors of the Federal Reserve System to establish a Main Street Lending Program or other similar program or facility that supports lending to small and mid-sized businesses on such terms and conditions as the Board may set consistent with [section 343(3) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim), including any such program in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4).
+    (ii) *Main street lending program* — Nothing in this subparagraph shall limit the discretion of the Board of Governors of the Federal Reserve System to establish a Main Street Lending Program or other similar program or facility that supports lending to small and mid-sized businesses on such terms and conditions as the Board may set consistent with section 13(3) of the Federal Reserve Act ([12 U.S.C. 343(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section343/3&num=0&edition=prelim)), including any such program in which the Secretary makes a loan, loan guarantee, or other investment under subsection (b)(4).
 
   (E) *Government participants* — The Secretary shall endeavor to seek the implementation of a program or facility in accordance with subsection (b)(4) that provides liquidity to the financial system that supports lending to States and municipalities.
 
@@ -2682,7 +2684,7 @@ The Railway Labor Act, referred to in par. (5)(B), is act May 20, 1926, ch. 347,
 
 (2) After the deposits specified in paragraph (1) of this subsection have been made, into the Federal Old-Age and Survivors Insurance Trust Fund established under [section 401(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401/a&num=0&edition=prelim).
 
-**(f) Administrative provisions** Notwithstanding any other provision of law, the Secretary may use not greater than $100,000,000 of the funds made available under [section 9061 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9061) to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
+**(f) Administrative provisions** Notwithstanding any other provision of law, the Secretary may use not greater than 61,000,000 1 of the funds made available under [section 9061 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9061) to pay costs and administrative expenses associated with the loans, loan guarantees, and other investments authorized under this section. The Secretary is authorized to take such actions as the Secretary deems necessary to carry out the authorities in this part, including, without limitation—
 
 (1) using direct hiring authority to hire employees to administer this part;
 
@@ -2714,6 +2716,8 @@ This part, referred to in subsecs. (e)(1) and (f), was in the original “this s
 The Internal Revenue Code of 1986, referred to in subsec. (h)(1), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–328 substituted “61,000,000” for “$100,000,000” in introductory provisions.
+
 2020—Subsec. (a). Pub. L. 116–260, § 1003(b)(1)(A), substituted “$0” for “$500,000,000,000”.
 
 Subsec. (b)(1). Pub. L. 116–260, § 1003(b)(1)(B)(i), substituted “0” for “25,000,000,000”.
@@ -2725,6 +2729,9 @@ Subsec. (b)(3). Pub. L. 116–260, § 1003(b)(1)(B)(iii), substituted “0” fo
 Subsec. (b)(4). Pub. L. 116–260, § 1003(b)(1)(B)(iv), substituted “$0” for “$454,000,000,000” in introductory provisions.
 
 Subsec. (e). Pub. L. 116–260, § 1004, substituted “Notwithstanding any other provision of law, amounts” for “Amounts” in introductory provisions.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub. L. 117–328, set out as a note under secton 802 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. N, title X, § 1003(b)(1), Dec. 27, 2020, 134 Stat. 2146, provided in part that the amendment made by section 1003(b)(1) is effective Jan. 9, 2021.
@@ -2787,7 +2794,7 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
   (B) without regard to paragraph (4)(A)(ii) thereof.
 
-**(c) Excise tax holiday period** For purposes of this section, the term “excise tax holiday period” means the period beginning after March 27, 2020 and ending before January 1, 2021.
+**(c) Excise tax holiday period** For purposes of this section, the term “excise tax holiday period” means the period beginning after March 27, 2020, and ending before January 1, 2021.
 
 
 <a id="section-9047"></a>
@@ -2798,7 +2805,7 @@ Notwithstanding any other provision of law and in coordination with the Federal 
 
 <a id="section-9048"></a>
 ## § 9048. Temporary Government in the Sunshine Act relief
-**(a) In general** Except as provided in subsection (b), notwithstanding any other provision of law, if the Chairman of the Board of Governors of the Federal Reserve System determines, in writing, that unusual and exigent circumstances exist, the Board may conduct meetings without regard to the requirements of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) during the period beginning on March 27, 2020 and ending on the earlier of—
+**(a) In general** Except as provided in subsection (b), notwithstanding any other provision of law, if the Chairman of the Board of Governors of the Federal Reserve System determines, in writing, that unusual and exigent circumstances exist, the Board may conduct meetings without regard to the requirements of [section 552b of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552b&num=0&edition=prelim) during the period beginning on March 27, 2020, and ending on the earlier of—
 
 (1) the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) terminates; or
 
@@ -2929,7 +2936,7 @@ Subsec. (d)(1). Pub. L. 116–260, § 541(4), inserted “, including insurance 
 
   (B) includes a credit union.
 
-**(b) Temporary relief from CECL standards** Notwithstanding any other provision of law, no insured depository institution, bank holding company, or any affiliate thereof shall be required to comply with the Financial Accounting Standards Board Accounting Standards Update No. 2016–13 (“Measurement of Credit Losses on Financial Instruments”), including the current expected credit losses methodology for estimating allowances for credit losses, during the period beginning on March 27, 2020 and ending on the earlier of—
+**(b) Temporary relief from CECL standards** Notwithstanding any other provision of law, no insured depository institution, bank holding company, or any affiliate thereof shall be required to comply with the Financial Accounting Standards Board Accounting Standards Update No. 2016–13 (“Measurement of Credit Losses on Financial Instruments”), including the current expected credit losses methodology for estimating allowances for credit losses, during the period beginning on March 27, 2020, and ending on the earlier of—
 
 (1) the first day of the fiscal year of the insured depository institution, bank holding company, or any affiliate thereof that begins after the date on which the national emergency concerning the novel coronavirus disease (COVID–19) outbreak declared by the President on March 13, 2020 under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) terminates; or
 
@@ -2947,7 +2954,7 @@ Subsec. (b)(2). Pub. L. 116–260, § 540(a)(1)(B), substituted “January 1, 20
 
 
 <a id="section-9053"></a>
-## § 9053. Special Inspector General for pandemic recovery
+## § 9053. Special Inspector General for Pandemic Recovery
 **(a) Office of Inspector General** There is hereby established within the Department of the Treasury the Office of the Special Inspector General for Pandemic Recovery.
 
 **(b) Appointment of Inspector General; removal**
@@ -2956,15 +2963,15 @@ Subsec. (b)(2). Pub. L. 116–260, § 540(a)(1)(B), substituted “January 1, 20
 
 (2) **Nomination** — The nomination of the Special Inspector General shall be made on the basis of integrity and demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations. The nomination of an individual as Special Inspector General shall be made as soon as practicable after any loan, loan guarantee, or other investment is made under [section 9042 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9042).
 
-(3) **Removal** — The Special Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).
+(3) **Removal** — The Special Inspector General shall be removable from office in accordance with the provisions of section 3(b) of the Inspector General Act of 1978 (5 U.S.C. App.).11 See References in Text note below.
 
 (4) **Political activity** — For purposes of [section 7324 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section7324&num=0&edition=prelim), the Special Inspector General shall not be considered an employee who determines policies to be pursued by the United States in the nationwide administration of Federal law.
 
-(5) **Basic pay** — The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).
+(5) **Basic pay** — The annual rate of basic pay of the Special Inspector General shall be the annual rate of basic pay for an Inspector General under section 3(e) of the Inspector General Act of 1978 (5 U.S.C. App.).1
 
 **(c) Duties**
 
-(1) **In general** — It shall be the duty of the Special Inspector General to, in accordance with section 4(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.), conduct, supervise, and coordinate audits and investigations of the making, purchase, management, and sale of loans, loan guarantees, and other investments made by the Secretary of the Treasury under any program established by the Secretary under this Act, and the management by the Secretary of any program established under this Act, including by collecting and summarizing the following information:
+(1) **In general** — It shall be the duty of the Special Inspector General to, in accordance with section 4(b)(1) of the Inspector General Act of 1978 (5 U.S.C. App.),1 conduct, supervise, and coordinate audits and investigations of the making, purchase, management, and sale of loans, loan guarantees, and other investments made by the Secretary of the Treasury under any program established by the Secretary under this Act, and the management by the Secretary of any program established under this Act, including by collecting and summarizing the following information:
 
   (A) A description of the categories of the loans, loan guarantees, and other investments made by the Secretary.
 
@@ -2978,13 +2985,13 @@ Subsec. (b)(2). Pub. L. 116–260, § 540(a)(1)(B), substituted “January 1, 20
 
 (2) **Maintenance of systems** — The Special Inspector General shall establish, maintain, and oversee such systems, procedures, and controls as the Special Inspector General considers appropriate to discharge the duties of the Special Inspector General under paragraph (1).
 
-(3) **Additional duties and responsibilities** — In addition to the duties described in paragraphs (1) and (2), the Special Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 (5 U.S.C. App.).
+(3) **Additional duties and responsibilities** — In addition to the duties described in paragraphs (1) and (2), the Special Inspector General shall also have the duties and responsibilities of inspectors general under the Inspector General Act of 1978 (5 U.S.C. App.).1
 
 **(d) Powers and authorities**
 
-(1) **In general** — In carrying out the duties of the Special Inspector General under subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+(1) **In general** — In carrying out the duties of the Special Inspector General under subsection (c), the Special Inspector General shall have the authorities provided in section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).1
 
-(2) **Treatment of Office** — The Office of the Special Inspector General for Pandemic Recovery shall be considered to be an office described in section 6(f)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) and shall be exempt from an initial determination by the Attorney General under section 6(f)(2) of that Act.
+(2) **Treatment of Office** — The Office of the Special Inspector General for Pandemic Recovery shall be considered to be an office described in section 6(f)(3) of the Inspector General Act of 1978 (5 U.S.C. App.) 1 and shall be exempt from an initial determination by the Attorney General under section 6(f)(2) of that Act.
 
 **(e) Personnel, facilities, and other resources**
 
@@ -3024,7 +3031,7 @@ Subsec. (b)(2). Pub. L. 116–260, § 540(a)(1)(B), substituted “January 1, 20
 
 **(h) Termination** The Office of the Special Inspector General shall terminate on the date 5 years after March 27, 2020.
 
-**(i) Council of the Inspectors General on integrity and efficiency** The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) until the date of termination of the Office of the Special Inspector General.
+**(i) Council of the Inspectors General on integrity and efficiency** The Special Inspector General shall be a member of the Council of the Inspectors General on Integrity and Efficiency established under section 11 of the Inspector General Act of 1978 (5 U.S.C. App.) 1 until the date of termination of the Office of the Special Inspector General.
 
 **(j) Corrective responses to audit problems** The Secretary shall—
 
@@ -3035,7 +3042,7 @@ Subsec. (b)(2). Pub. L. 116–260, § 540(a)(1)(B), substituted “January 1, 20
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsecs. (b) to (d) and (i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsecs. (b) to (d) and (i), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. Sections 3, 4, 6, and 11 of the Act were repealed and restated as sections 403, 404, 406, and 424, respectively, of Title 5. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 This Act, referred to in subsec. (c)(1), probably means subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which is classified principally to this part. For complete classification of this Act to the Code, see section 4001 of Pub. L. 116–136, set out as a Short Title note under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001), and Tables.
 
@@ -3154,7 +3161,7 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 
 (5) **Reports** — The Oversight Commission shall receive and consider all reports required to be submitted to the Oversight Commission under this part.
 
-**(f) Termination** The Oversight Commission shall terminate on September 30, 2025.
+**(f) Termination** The Oversight Commission shall terminate on June 30, 2023.
 
 **(g) Funding for expenses**
 
@@ -3168,6 +3175,9 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 This part, referred to in subsecs. (b), (d)(3), (e)(5), and (g)(2), was in the original “this subtitle”, meaning subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which is classified principally to this part. For complete classification of subtitle A to the Code, see section 4001 of Pub. L. 116–136, set out as a Short Title note under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001), and Tables.
 
 Level I of the Executive Schedule, referred to in subsec. (c)(2), is set out in [section 5312 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5312&num=0&edition=prelim), Government Organization and Employees.
+
+#### Amendments
+2022—Subsec. (f). Pub. L. 117–328 substituted “June 30, 2023” for “September 30, 2025”.
 
 
 <a id="section-9056"></a>
@@ -3474,7 +3484,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
     (iv) utilities and home energy costs arrears; and
 
-    (v) other expenses related to housing incurred due, directly or indirectly, to the novel coronavirus disease (COVID-19) outbreak, as defined by the Secretary.
+    (v) other expenses related to housing incurred due, directly or indirectly, to the novel coronavirus disease (COVID–19) outbreak, as defined by the Secretary.
     Such assistance shall be provided for a period not to exceed 12 months except that grantees may provide assistance for an additional 3 months only if necessary to ensure housing stability for a household subject to the availability of funds.
 
   (B) *Limitation on assistance for prospective rent payments*
@@ -3499,7 +3509,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
     (ii) *Documentation* — For any payments made by an eligible grantee to a lessor or utility provider on behalf of an eligible household, the eligible grantee shall provide documentation of such payments to such household.
 
-(3) **Housing stability services** — Not more than 10 percent of funds received by an eligible grantee from a payment made under this section may be used to provide eligible households with case management and other services related to the novel coronavirus disease (COVID-19) outbreak, as defined by the Secretary, intended to help keep households stably housed.
+(3) **Housing stability services** — Not more than 10 percent of funds received by an eligible grantee from a payment made under this section may be used to provide eligible households with case management and other services related to the novel coronavirus disease (COVID–19) outbreak, as defined by the Secretary, intended to help keep households stably housed.
 
 (4) **Prioritization of assistance**
 
@@ -3509,7 +3519,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
     (ii) 1 or more individuals within the household are unemployed as of the date of the application for assistance and have not been employed for the 90-day period preceding such date.
 
-  (B) Nothing in this section shall be construed to prohibit an eligible grantee from providing a process for the further prioritizing of applications for financial assistance and housing stability services from a payment made under this section, including to eligible households in which 1 or more individuals within the household were unable to reach their place of employment or their place of employment was closed because of a public health order imposed as a direct result of the COVID-19 public health emergency.
+  (B) Nothing in this section shall be construed to prohibit an eligible grantee from providing a process for the further prioritizing of applications for financial assistance and housing stability services from a payment made under this section, including to eligible households in which 1 or more individuals within the household were unable to reach their place of employment or their place of employment was closed because of a public health order imposed as a direct result of the COVID–19 public health emergency.
 
 (5) **Administrative costs**
 
@@ -3599,7 +3609,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
 (3) **Appropriation** — Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated to the Office of the Inspector General of the Department of the Treasury, $6,500,000 to carry out oversight and recoupment activities under this subsection. Amounts appropriated under the preceding sentence shall remain available until expended.
 
-(4) **Authority of Inspector General** — Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.)
+(4) **Authority of Inspector General** — Nothing in this subsection shall be construed to diminish the authority of any Inspector General, including such authority as provided in the Inspector General Act of 1978 (5 U.S.C. App.) 33 So in original. Probably should be followed by a period. See References in Text note below.
 
 **(j) Treatment of assistance** Assistance provided to a household from a payment made under this section shall not be regarded as income and shall not be regarded as a resource for purposes of determining the eligibility of the household or any member of the household for benefits or assistance, or the amount or extent of benefits or assistance, under any Federal program or under any State or local program financed in whole or in part with Federal funds.
 
@@ -3621,7 +3631,7 @@ The National Emergencies Act, referred to in subsec. (f)(4), (5)(A), is Pub. L. 
 
   (A) *In general* — The term “eligible household” means a household of 1 or more individuals who are obligated to pay rent on a residential dwelling and with respect to which the eligible grantee involved determines—
 
-    (i) that 1 or more individuals within the household has 33 So in original. Probably should be followed by a dash.
+    (i) that 1 or more individuals within the household has 44 So in original. Probably should be followed by a dash.
 
       (I) qualified for unemployment benefits or
 
@@ -3664,7 +3674,7 @@ The Native American Housing Assistance and Self-Determination Act of 1996, refer
 
 The Further Consolidated Appropriations Act, 2020, referred to in subsecs. (b)(2)(A)(ii) and (k)(2)(C), is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534. Provisions under the heading “native american programs” under the heading “Public and Indian Housing” of title II of division H of the Act [133 Stat. 2985] are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (i)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (i)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (k)(2)(C), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
@@ -3809,7 +3819,7 @@ Section was enacted as part of the American Rescue Plan Act of 2021, and not as 
 
   (B) 1 or more individuals within the household can demonstrate a risk of experiencing homelessness or housing instability; and
 
-  (C) the household is a low-income family (as such term is defined in [section 1437a(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b&num=0&edition=prelim).
+  (C) the household is a low-income family (as such term is defined in [section 1437a(b) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1437a/b&num=0&edition=prelim).22 So in original. A closing parenthesis probably should precede the period.
 
 (3) **Inspector general** — The term “Inspector General” means the Inspector General of the Department of the Treasury.
 
@@ -4013,7 +4023,7 @@ This part, referred to in subsec. (b), was in the original “this subtitle”, 
 This Act, referred to in subsec. (c), probably means subtitle A (§§ 4001–4029) of title IV of div. A of Pub. L. 116–136, known as the Coronavirus Economic Stabilization Act of 2020, which is classified principally to this part. For complete classification of this Act to the Code, see section 4001 of Pub. L. 116–136, set out as a Short Title note under [section 9001 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9001), and Tables.
 
 #### Amendments
-2022—Subsec. (c). Pub. L. 117–103 substituted “semiannual” for “quarterly” and inserted at end: “This subsection shall have no force or effect after December 31, 2027.”
+2022—Subsec. (c). Pub. L. 117–103 substituted “semiannual” for “quarterly” and inserted at end “This subsection shall have no force or effect after December 31, 2027.”
 
 
 <a id="section-9061"></a>
@@ -4152,7 +4162,15 @@ Unless otherwise specified, the terms in [section 40102(a) of title 49](https://
 
 (3) contractors, in an aggregate amount up to $3,000,000,000.
 
-**(b) Administrative expenses** Notwithstanding any other provision of law, the Secretary, may use $100,000,000 of the funds made available under section 9080(a) 11 So in original. There is no subsec. (a) in [section 9080 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9080). of this title for costs and administrative expenses associated with providing financial assistance under this part.
+**(b) Administrative expenses** Notwithstanding any other provision of law, the Secretary, may use $67,000,000 of the funds made available under section 9080(a) 11 So in original. There is no subsec. (a) in [section 9080 of this title](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9080). of this title for costs and administrative expenses associated with providing financial assistance under this part.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–328 substituted “$67,000,000” for “$100,000,000”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective upon issuance of guidance or the promulgation of a rule by the Secretary of the Treasury, in consultation with the Secretary of Transportation, see section 102(c) of Pub. L. 117–328, set out as a note under secton 802 of Title 42, The Public Health and Welfare.
 
 
 <a id="section-9073"></a>
@@ -4724,7 +4742,7 @@ Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, No
 
       (I) on March 1, 2020, had more than 500 full-time, part-time, or temporary employees; and
 
-      (II) has not received assistance under paragraph (1), (2), or (3) of [section 9042(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9042/b&num=0&edition=prelim), or subtitle B of title IV of division A, of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 134 Stat. 281) [[15 U.S.C. 9071](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9071) et seq.].
+      (II) has not received assistance under paragraph (1), (2), or (3) of [section 9042(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9042/b&num=0&edition=prelim), or subtitle B of title IV of division A,11 So in original. The comma probably should not appear. of the Coronavirus Aid, Relief, and Economic Security Act (Public Law 116–136; 134 Stat. 281) [[15 U.S.C. 9071](./chapter-116-coronavirus-economic-stabilization-cares-act.md#section-9071) et seq.].
 
   (B) *Scope of eligibility for certain companies*
 
@@ -4848,7 +4866,7 @@ Section was enacted as part of the Economic Aid to Hard-Hit Small Businesses, No
 
   (A) be considered an overpayment for purposes of any State or Federal unemployment law; or
 
-  (B) be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note 11 So in original. Probably should be “[26 U.S.C. 3304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim) note”.)).
+  (B) be subject to any overpayment recovery efforts by a State agency (as defined in section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (U.S.C. 3304 note 22 So in original. Probably should be “[26 U.S.C. 3304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3304&num=0&edition=prelim) note”. )).
 
 **(f) Administrative provisions**
 
@@ -4901,7 +4919,7 @@ Section was enacted as part of the Coronavirus Economic Relief for Transportatio
 
     (i) shall not be subject to the reduced apportionments under [section 47114(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114/f&num=0&edition=prelim);
 
-    (ii) shall first be apportioned as set forth in sections 47114(c)(1)(A), 47114(c)(1)(C)(i), 47114(c)(1)(C)(ii), 47114(c)(2)(A), 47114(c)(2)(B), and 47114(c)(2)(E) of title 49; and
+    (ii) shall first be apportioned as set forth in sections 47114(c)(1)(A), 47114(c)(1)(C)(i),11 See References in Text note below. 47114(c)(1)(C)(ii),1 47114(c)(2)(A), 47114(c)(2)(B), and 47114(c)(2)(E) 1 of title 49; and
 
     (iii) shall not be subject to a maximum apportionment limit set forth in [section 47114(c)(1)(B) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114/c/1/B&num=0&edition=prelim).
 
@@ -4962,6 +4980,11 @@ Section was enacted as part of the Coronavirus Economic Relief for Transportatio
   (B) is a joint venture (as defined in section 23.3 of title 49, Code of Federal Regulations).
 
 ### Statutory Notes
+
+#### References in Text
+Sections 47114(c)(1)(C)(i) and 47114(c)(1)(C)(ii) of title 49, referred to in subsec. (b)(1)(B)(ii), were omitted in the general amendment of subsec. (c)(1) of [section 47114 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114&num=0&edition=prelim) by Pub. L. 118–63, title VII, § 712(a)(1), May 16, 2024, 138 Stat. 1254. The new subsec. (c)(1)(C) of [section 47114 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114&num=0&edition=prelim) does not contain any clauses.
+
+[Section 47114(c)(2)(E) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114/c/2/E&num=0&edition=prelim), referred to in subsec. (b)(1)(B)(ii), was redesignated [section 47114(c)(2)(D) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section47114/c/2/D&num=0&edition=prelim) by Pub. L. 118–63, title VII, § 712(a)(2)(C), May 16, 2024, 138 Stat. 1255.
 
 #### Codification
 Section was enacted as part of the American Rescue Plan Act of 2021, and not as part of the CARES Act which in part comprises this chapter.
@@ -5097,7 +5120,7 @@ Section was enacted as part of the American Rescue Plan Act of 2021, and not as 
 
         (aa) $3,000,000; and
 
-        (bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the air carrier in calendar year 2019.
+        (bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the air carrier in calendar year 2019.22 So in original. The period probably should be a semicolon.
 
 (5) the term “eligible contractor” means a contractor that—
 
@@ -5127,7 +5150,7 @@ Section was enacted as part of the American Rescue Plan Act of 2021, and not as 
 
         (aa) $3,000,000; and
 
-        (bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the contractor in calendar year 2019.
+        (bb) 50 percent of the excess over $3,000,000 of the total compensation received by the officer or employee from the contractor in calendar year 2019.33 So in original. The period probably should be “; and”.
 
 (6) the term “Secretary” means the Secretary of the Treasury.
 
@@ -5153,7 +5176,7 @@ Section was enacted as part of the American Rescue Plan Act of 2021, and not as 
 
 (3) **In general**
 
-  (A) *Forms; terms and conditions* — The Secretary shall provide financial assistance to an eligible air carrier or eligible contractor under this section in the same form and on the same terms and conditions as determined by pursuant to 22 So in original. [section 9093(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9093/b/1/A&num=0&edition=prelim).
+  (A) *Forms; terms and conditions* — The Secretary shall provide financial assistance to an eligible air carrier or eligible contractor under this section in the same form and on the same terms and conditions as determined by pursuant to 44 So in original. [section 9093(b)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section9093/b/1/A&num=0&edition=prelim).
 
   (B) *Procedures* — The Secretary shall publish streamlined and expedited procedures not later than 5 days after March 11, 2021, for eligible air carriers and eligible contractors to submit requests for financial assistance under this section.
 

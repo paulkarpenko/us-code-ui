@@ -69,7 +69,7 @@ Section 12303 permits the Secretary and any State, when it is the issuing author
 
 <a id="section-12304"></a>
 ## § 12304. Certificates of numbers
-**(a)** A certificate of number is granted for a number issued under this chapter. The certificate shall be pocketsized, shall be at all times available for inspection on the vessel for which issued when the vessel is in operation, and may be valid for not more than 3 years. The certificate of number for a vessel less than 26 feet in length and leased or rented to another for the latter’s noncommercial operation of less than 7 days may be retained on shore by the vessel’s owner or representative at the place from which the vessel departs or returns to the possession of the owner or the owner’s representative. A vessel that does not have the certificate of number on board shall be identified when in operation, and comply with requirements, as the issuing authority prescribes.
+**(a)** A certificate of number is granted for a number issued under this chapter. The certificate shall be at all times available for inspection on the vessel for which issued when the vessel is in operation, and may be in hard copy or digital form. Any certificate issued in hard copy under this section shall be pocketsized. The certificate shall be valid for not more than 3 years. The certificate of number for a vessel less than 26 feet in length and leased or rented to another for the latter’s noncommercial operation of less than 7 days may be retained on shore by the vessel’s owner or representative at the place from which the vessel departs or returns to the possession of the owner or the owner’s representative. A vessel that does not have the certificate of number on board shall be identified when in operation, and comply with requirements, as the issuing authority prescribes.
 
 **(b)** The owner of a vessel numbered under this chapter shall provide—
 
@@ -85,6 +85,9 @@ Section 12303 permits the Secretary and any State, when it is the issuing author
 | 12304 | 46:1469 |
 
 Section 12304 describes a certificate of number and stipulates when it must be carried on board a vessel. It also requires that the number issuing authority be notified when a boat is sold, transferred, destroyed, or abandoned, or when the owner’s address changes.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263 struck out “shall be pocketsized,” after “this chapter. The certificate” and inserted “in hard copy or digital form. Any certificate issued in hard copy under this section shall be pocketsized. The certificate shall be” after “operation, and may be”.
 
 
 <a id="section-12305"></a>

@@ -1395,7 +1395,7 @@ This title, referred to in subsec. (a), is title II of Pub. L. 116–113, Jan. 2
 ### Statutory Notes
 
 #### References in Text
-The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Codification
 Section was formerly classified to [section 3371 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3371&num=0&edition=prelim) prior to renumbering by Pub. L. 116–113.
@@ -1438,7 +1438,7 @@ Pub. L. 116–113, title V, § 502(e), Jan. 29, 2020, 134 Stat. 70, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Trade Act of 1974, referred to in subsecs. (a) to (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsecs. (a) to (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Codification
 Section was formerly classified to [section 3372 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3372&num=0&edition=prelim) prior to renumbering by Pub. L. 116–113.
@@ -1458,7 +1458,7 @@ Upon a basis of reciprocity secured by the USMCA, an alien who is a citizen of C
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly classified to [section 3401 of this title](./chapter-021-north-american-free-trade.md#section-3401) and [section 1184 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1184&num=0&edition=prelim), Aliens and Nationality, prior to renumbering by Pub. L. 116–113.
@@ -1862,7 +1862,7 @@ Pub. L. 116–113, title V, § 504(k), Jan. 29, 2020, 134 Stat. 76, provided tha
 #### References in Text
 Section 105, referred to in subsec. (c)(2)(B)(3), is section 105 of Pub. L. 103–182, title I, Dec. 8, 1993, 107 Stat. 2064, which was classified to [section 3315 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3315&num=0&edition=prelim) prior to repeal by Pub. L. 116–113, title VI, § 601, Jan. 29, 2020, 134 Stat. 78, effective on the date on which the USMCA entered into force (July 1, 2020), and which related to the United States Section of NAFTA Secretariat. See [section 4515(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4515/a&num=0&edition=prelim).
 
-The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsec. (g), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 #### Codification
 Section was formerly classified to [section 3432 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3432&num=0&edition=prelim) prior to renumbering by Pub. L. 116–113.
@@ -2109,7 +2109,7 @@ The industry may request the Trade Representative to take appropriate action to 
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsecs. (d)(1)(B), (2) and (e)(3), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Subtitle A of title VII of the Act is classified generally to part I (§ 1671 et seq.) of subtitle IV of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 #### Codification
 Section was formerly classified to [section 3437 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3437&num=0&edition=prelim) prior to renumbering by Pub. L. 116–113.
@@ -2144,7 +2144,7 @@ shall apply to goods from a USMCA country only to the extent specified in the am
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in par. (1), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Section 303 of the Act was classified to [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303) and was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, § 261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under former [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303). For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in par. (1), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. Section 303 of the Act was classified to [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303) and was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, § 261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under former [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303). For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
 #### Codification
 Section was formerly classified to [section 3438 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3438&num=0&edition=prelim) prior to renumbering by Pub. L. 116–113.

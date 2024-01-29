@@ -94,8 +94,6 @@ Pub. L. 109–364, div. A, title X, § 1017, Oct. 17, 2006, 120 Stat. 2379, as a
 
 [Pub. L. 110–181, div. C, title XXXV, § 3526(a), Jan. 28, 2008, 122 Stat. 601, which directed amendment of section 1017(b)(2) of Pub. L. 109–364, set out above, by substituting “sections 12112, 50501, and 55102 of title 46, United States Code” for “section 27 of the Merchant Marine Act, 1920 ([46 U.S.C. 883](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section883&num=0&edition=prelim)), [section 12106 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12106&num=0&edition=prelim), United States Code, and section 2 of the Shipping Act, 1916 (46 U.S.C. App. 802)”, could not be executed because those words did not appear subsequent to amendment by section 1063(c)(9) of Pub. L. 110–181, which was effective as of Oct. 17, 2006, and as if included in Pub. L. 109–364 as enacted. See Effective Date of 2008 Amendment note under [section 624 of this title](./chapter-036-promotion-separation-and-involuntary-retirement-of-officers-on-the-active-duty-list.md#section-624).]
 
-[For termination, effective Dec. 31, 2021, of annual reporting provisions in section 1017(e) of Pub. L. 109–364, set out above, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).]
-
 #### Delegation of Authority Under the Cargo Preference Act
 Memorandum of the President of the United States, Aug. 7, 1985, 50 F.R. 36565, provided:
 
@@ -234,6 +232,9 @@ Pub. L. 100–180, div. A, title III, § 318(d), Dec. 4, 1987, 101 Stat. 1077, r
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Pilot Program on Car Sharing on Remote or Isolated Military Installations
+Pub. L. 117–263, div. A, title V, § 596, Dec. 23, 2022, 136 Stat. 2614, provided that: “(a) Determination.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall determine whether it is feasible and advisable to carry out a pilot program to allow car sharing on more than two remote or isolated military installations. “(b) Authority.—If the Secretary determines that such a pilot program is feasible and advisable, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan to carry out the pilot program not later than 90 days after such determination. “(c) Program Elements.—To carry out a pilot program under this section, the Secretary shall take steps including the following:“(1) Seek to enter into an agreement with an entity that—“(A) provides car sharing services; and “(B) is capable of serving the selected military installations. “(2) Provide to members assigned to such military installations the resources the Secretary determines necessary to participate in such pilot program. “(3) Promote such pilot program to such members as the Secretary determines. “(d) Duration.—A pilot program under this section shall terminate two years after the Secretary commences such pilot program. “(e) Report.—Upon the termination of a pilot program under this section, the Secretary of Defense shall submit to the congressional defense committees a report containing the following information:“(1) The number of individuals who used car sharing services offered pursuant to the pilot program. “(2) The cost to the United States of the pilot program. “(3) An analysis of the effect of the pilot program on mental health and community connectedness of members described in subsection (b)(2). “(4) Other information the Secretary determines appropriate. “(f) Military Installation Defined.—In this section, the term ‘military installation’ has the meaning given such term in [section 2801 of title 10](./chapter-169-military-construction-and-military-family-housing.md#section-2801), United States Code.”
+
 
 <a id="section-2633"></a>
 ## § 2633. Stevedoring and terminal services: vessels carrying cargo or passengers sponsored by military department
@@ -256,7 +257,7 @@ Section 2633 is restated, without substantive change, to conform to the style ad
 1962—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-2634"></a>
@@ -287,10 +288,10 @@ Section, added Pub. L. 87–651, title I, § 111(b), Sept. 7, 1962, 76 Stat. 510
 1980—Subsec. (a). Pub. L. 96–513 substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-2636"></a>
@@ -831,7 +832,7 @@ Subsec. (a). Pub. L. 113–291, § 1044(a)(1), substituted “Subject to subsect
 
 Subsec. (a)(3). Pub. L. 113–291, § 1071(g)(4), amended Pub. L. 113–66, § 1073(a)(2)(B). See 2013 Amendment note below.
 
-Pub. L. 113–291, § 1071(f)(22), inserted “and” before “military transportation services provided in support”. Amendment was executed prior to amendment by Pub. L. 113–291, § 1044(a)(2)(B), see below, pursuant to section 1071(k) of Pub. L. 113–291, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Pub. L. 113–291, § 1071(f)(22), inserted “and” before “military transportation services provided in support”. Amendment was executed prior to amendment by Pub. L. 113–291, § 1044(a)(2)(B), see below, pursuant to section 1071(k) of Pub. L. 113–291, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 Pub. L. 113–291, § 1044(a)(2)(B), substituted “Department of Defense” for “Department of Defense and military transportation services provided in support of foreign military sales”.
 
@@ -866,6 +867,9 @@ Pub. L. 115–91, div. A, title X, § 1081(f), Dec. 12, 2017, 131 Stat. 1601, pr
 
 #### Effective Date of 2014 Amendment
 Pub. L. 113–291, div. A, title X, § 1071(g), Dec. 19, 2014, 128 Stat. 3511, provided that the amendment made by section 1071(g)(4) is effective as of Dec. 26, 2013, and as if included in Pub. L. 113–66 as enacted.
+
+#### Executive Branch Support for Recently Enacted Commissions
+Pub. L. 117–263, div. A, title X, § 1050, Dec. 23, 2022, 136 Stat. 2775, as amended by Pub. L. 118–31, div. A, title X, § 1082(b), Dec. 22, 2023, 137 Stat. 417, provided that: “(a) Assistance From Department of Defense.—At the request of a covered commission, the Secretary of Defense may provide to the covered commission, on a reimbursable basis, such services, funds, facilities, staff, and other support services as necessary for the performance of the functions of the commission. Amounts provided to a covered commission pursuant to this section may be provided from amounts appropriated for the Department of Defense, as provided in advance in appropriations Acts. “(b) Provision of Travel Support to Certain Commissions.—For the purpose of providing support to facilitate overseas travel requests from a legislative branch commission, or any commission so designated for support under this subsection jointly by the Majority Leader of the Senate, the Speaker of the House of Representatives, the Minority Leader of the Senate, and the Minority Leader of the House of Representatives, the Secretary of Defense and the Secretary of State shall consider such requests as equivalent to a request from Congress, and apply the same standards in determining the extent to which such support may be provided under law and regulation. Any support so provided shall be funded out of amounts appropriated for the operation of such commission. “(c) Covered Commission Defined.—In this section, the term ‘covered commission’ means a commission established pursuant to any of the following sections of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81):“(1) Section 1004 [135 Stat. 1884] (Commission on Planning, Programming, Budgeting, and Execution Reform). “(2) section 1091 [135 Stat. 1929] (National Security Commission on Emerging Biotechnology). “(3) section 1094 [135 Stat. 1935] (Afghanistan War Commission). “(4) section 1095 [135 Stat. 1943] (Commission on the National Defense Strategy). “(5) section 1687 [135 Stat. 2126] (Congressional Commission on the Strategic Posture of the United States).”
 
 
 <a id="section-2643"></a>
@@ -1130,10 +1134,10 @@ Subsec. (a). Pub. L. 108–375, § 1072(b)(2)(B)–(D), struck out “(1) on ves
 1980—Subsec. (a). Pub. L. 96–513 substituted “Secretary of Commerce” for “Chairman of the Federal Maritime Board”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-2650"></a>

@@ -71,47 +71,7 @@ A prior section 2357, act Aug. 10, 1956, ch. 1041, 70A Stat. 135, required Secre
 
 
 <a id="section-2358c"></a>
-## § 2358c. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293]
-
-### Statutory Notes
-
-Section, added Pub. L. 116–283, div. A, title XI, § 1115(a), Jan. 1, 2021, 134 Stat. 3895, related to enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories.
-
-#### Codification
-Pub. L. 117–81, div. A, title II, § 215(d)(14), title XVII, § 1701(e)(3)(A), Dec. 27, 2021, 135 Stat. 1595, 2138, attempted to transfer this section to subchapter II of chapter 303 of this title, insert it after [section 4093 of this title](./chapter-303-research-and-engineering-activities.md#section-4093), redesignate it as section 4094, and amend subsec. (f) by striking “by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2358](./chapter-chapter-139-chapter-chapter-139.md#section-2358) note)” and inserting “by [section 4121(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4121/b&num=0&edition=prelim)”, all of which was to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 1701(a)(3) of Pub. L. 117–81, set out in an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001). However, this chapter, which included this section, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-Prior to repeal, this section read as follows:
-
-§ 2358c. Enhanced pay authority for certain research and technology positions in science and technology reinvention laboratories
-
-(a) In General.—The Secretary of Defense may carry out a program using the pay authority specified in subsection (d) to fix the rate of basic pay for positions described in subsection (c) in order to assist the military departments in attracting and retaining high quality acquisition and technology experts in positions responsible for managing and performing complex, high-cost research and technology development efforts in the science and technology reinvention laboratories of the Department of Defense.
-
-(b) Approval Required.—The program may be carried out in a military department only with the approval of the service acquisition executive of the military department concerned.
-
-(c) Positions.—The positions described in this subsection are positions in the science and technology reinvention laboratories of the Department of Defense that—
-
-(1) require expertise of an extremely high level in a scientific, technical, professional, or acquisition management field; and
-
-(2) are critical to the successful accomplishment of an important research or technology development mission.
-
-(d) Rate of Basic Pay.—The pay authority specified in this subsection is authority as follows:
-
-(1) Authority to fix the rate of basic pay for a position at a rate not to exceed 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the service acquisition executive concerned.
-
-(2) Authority to fix the rate of basic pay for a position at a rate in excess of 150 percent of the rate of basic pay payable for level I of the Executive Schedule, upon the approval of the Secretary of the military department concerned.
-
-(e) Limitations.—
-
-(1) In general.—The authority in subsection (a) may be used only to the extent necessary to competitively recruit or retain individuals exceptionally well qualified for positions described in subsection (c).
-
-(2) Number of positions.—The authority in subsection (a) may not be used with respect to more than five positions in each military department at any one time.
-
-(3) Term of positions.—The authority in subsection (a) may be used only for positions having a term of less than five years.
-
-(f) Science and Technology Reinvention Laboratories of the Department of Defense Defined.—In this section, the term “science and technology reinvention laboratories of the Department of Defense” means the laboratories designated as science and technology reinvention laboratories by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 ([10 U.S.C. 2358](./chapter-chapter-139-chapter-chapter-139.md#section-2358) note).
-
-#### Effective Date of Repeal
-Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+## § 2358c. Renumbered § 4094]
 
 
 <a id="section-2359"></a>
@@ -285,32 +245,4 @@ Section, added Pub. L. 103–160, div. A, title II, § 214(a), Nov. 30, 1993, 10
 
 
 <a id="section-2374b"></a>
-## § 2374b. Repealed. Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293]
-
-### Statutory Notes
-
-Section, added Pub. L. 116–283, div. A, title II, § 212(a)(1), Jan. 1, 2021, 134 Stat. 3456, related to disclosure requirements for recipients of research and development funds.
-
-#### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(e)(4)(A), Dec. 27, 2021, 135 Stat. 2139, attempted to transfer this section to subchapter II of chapter 301 of this title, add it at the end of such subchapter, and redesignate it as section 4027, all of which was to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 1701(a)(3) of Pub. L. 117–81, set out in an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001). However, this chapter, which included this section, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-Prior to repeal, this section read as follows:
-
-§ 2374b. Disclosure requirements for recipients of research and development funds
-
-(a) In General.—Except as provided in subsections (b) and (c), an individual or entity (including a State or local government) that uses funds received from the Department of Defense to carry out research or development activities shall include, in any public document pertaining to such activities, a clear statement indicating the dollar amount of the funds received from the Department for such activities.
-
-(b) Exception.—The disclosure requirement under subsection (a) shall not apply to a public document consisting of fewer than 280 characters.
-
-(c) Waiver.—The Secretary of Defense may waive the disclosure requirement under subsection (a) on a case-by-case basis.
-
-(d) Public Document Defined.—In this section, the term “public document” means any document or other written statement made available for public reference or use, regardless of whether such document or statement is made available in hard copy or electronic format.
-
-#### Prior Provisions
-A prior section 2374b, added Pub. L. 107–314, div. A, title II, § 248(c)(1), Dec. 2, 2002, 116 Stat. 2502, related to prizes for achievements in promoting science, mathematics, engineering, or technology education, prior to repeal by Pub. L. 112–239, div. A, title X, § 1076(g)(4), Jan. 2, 2013, 126 Stat. 1955.
-
-#### Effective Date of Repeal
-Repeal effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### Effective Date
-Pub. L. 116–283, div. A, title II, § 212(b), Jan. 1, 2021, 134 Stat. 3456, provided that: “The amendments made by subsection (a) [enacting this section] shall take effect on October 1, 2021, and shall apply with respect to funds for research and development that are awarded by the Department of Defense on or after that date.”
+## § 2374b. Renumbered § 4027]

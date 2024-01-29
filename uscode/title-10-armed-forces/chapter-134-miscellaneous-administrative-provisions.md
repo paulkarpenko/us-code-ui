@@ -28,6 +28,8 @@ source: >-
 
 **(c) Activities of the National Committee for Employer Support of the Guard and Reserve.—** Amounts appropriated for operation and maintenance may, under regulations prescribed by the Secretary of Defense, be used by the Secretary for official reception, representation, and advertising activities and materials of the National Committee for Employer Support of the Guard and Reserve to further employer commitments to their employees who are members of a reserve component.
 
+**(d) Implementation of Vienna Document 2011.—** Amounts appropriated for operation and maintenance may be used by the Secretary of Defense for travel, transportation, and subsistence expenses for meetings and demonstrations hosted by the Department of Defense for the implementation of the Vienna Document 2011 on Confidence and Security-Building Measures.
+
 ### Statutory Notes
 
 #### Historical and Revision Notes
@@ -40,25 +42,49 @@ Subsection (b) of this section and sections 2242(1), (4) and 2253(a)(1) of this 
 Section 705 of Public Law 98–212, to be codified as [10 U.S.C. 2241(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2241/b&num=0&edition=prelim), provides that defense appropriations may be used in connection with certain services and supplies “as may be necessary to carry out the purposes of this Act”. The reference to “this Act” means Public Law 98–212, the FY84 Defense Appropriations Act. Language similar to section 705 had been enacted as part of the annual defense appropriation Act for many years. In the FY84 Act, section 705 was enacted as a permanent provision. The quoted phrase above was not, however, revised from the traditional annual wording as the provision had appeared in annual appropriations Acts in order to give it effect beyond the fiscal year concerned. Since the general purpose of a defense appropriations Act is to provide funds for national defense purposes, the committee, in codifying this provision, revised the quoted phrase so as to read “that may be necessary for the national defense”. No change in meaning is intended.
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
+
 2003—Subsec. (c). Pub. L. 108–136 added subsec. (c).
+
+#### Reimbursement of Pay, Allowances and Other Expenses When Members of the National Guard and Reserve Provide Intelligence or Counterintelligence Support to Combatant Commands, Defense Agencies and Joint Intelligence Activities
+Pub. L. 118–47, div. A, title VIII, § 8049, Mar. 23, 2024, 138 Stat. 495, provided that: “In this fiscal year and each fiscal year thereafter, funds appropriated for operation and maintenance of the Military Departments, Combatant Commands and Defense Agencies shall be available for reimbursement of pay, allowances and other expenses which would otherwise be incurred against appropriations for the National Guard and Reserve when members of the National Guard and Reserve provide intelligence or counterintelligence support to Combatant Commands, Defense Agencies and Joint Intelligence Activities, including the activities and programs included within the National Intelligence Program and the Military Intelligence Program: Provided, That nothing in this section authorizes deviation from established Reserve and National Guard personnel and training procedures.”
+
+#### Policy Required for Support of Entertainment Projects
+Pub. L. 117–263, div. A, title XII, § 1257(c), Dec. 23, 2022, 136 Stat. 2852, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue a policy that describes how the Department of Defense will review requests to provide active or direct support to any film, television, or other entertainment project. The policy shall include ways to assess Chinese influence or potential influence over the content of a film, television, or other entertainment project, actions the Department can take to prevent Chinese censorship of a project, and criteria the Department shall use when evaluating requests to support a project.”
 
 #### Prohibition on Transfer of Department of Defense Funds or Resources to the Taliban
 Pub. L. 117–81, div. A, title XII, § 1213, Dec. 27, 2021, 135 Stat. 1963, provided that: “(a) Prohibition.—None of the funds authorized to be appropriated by this Act [Pub. L. 117–81, see Tables for classification] or otherwise made available to the Department of Defense may be made available—“(1) to provide any funds or resources to the Taliban; or “(2) to conduct any military cooperation or sharing of military intelligence with the Taliban, unless the Secretary of Defense determines that such cooperation or sharing advances the national security interests of the United States. “(b) Notification.—–—[sic]“(1) Submission required.—If the Secretary makes an affirmative determination described in subsection (1)(a) [probably should be subsection (a)(2)], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written description of the military cooperation or military intelligence that was shared with the Taliban pursuant to such determination, not later than 5 days after the date of such cooperation or sharing. The Secretary shall include with such description any other matter the Secretary determines relevant. “(2) Form.—The information described in paragraph (1) shall be submitted in an unclassified format and may include a classified annex.”
 
 #### Prohibition on Transporting Currency to the Taliban or the Islamic Emirate of Afghanistan
-Pub. L. 117–81, div. A, title XII, § 1214, Dec. 27, 2021, 135 Stat. 1963, provided that: “None of the amounts authorized to be appropriated by this Act [Pub. L. 117–81, see Tables for classification] or otherwise made available to the Department of Defense may be made available for the operation of any aircraft of the Department of Defense to transport currency or other items of value to the Taliban, the Islamic Emirate of Afghanistan, or any subsidiary, agent, or instrumentality of either the Taliban or the Islamic Emirate of Afghanistan.”
+Pub. L. 118–31, div. A, title XII, § 1271, Dec. 22, 2023, 137 Stat. 486, provided that: “None of the amounts authorized to be appropriated by this Act [Pub. L. 118–31, see Tables for classification] or otherwise made available to the Department of Defense may be made available for the operation of any aircraft of the Department of Defense to transport currency or other items of value to the Taliban, the Islamic Emirate of Afghanistan, or any subsidiary, agent, or instrumentality of either the Taliban or the Islamic Emirate of Afghanistan.”
+
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–263, div. A, title XII, § 1223, Dec. 23, 2022, 136 Stat. 2836.
+
+Pub. L. 117–81, div. A, title XII, § 1214, Dec. 27, 2021, 135 Stat. 1963.
 
 #### Restriction on Counter-ISIS Train and Equip Fund
 Pub. L. 117–81, div. A, title XII, § 1223(e), Dec. 27, 2021, 135 Stat. 1971, provided that: “Amounts authorized to be appropriated by this Act [Pub. L. 117–81, see Tables for classification] or the amendments made by this Act or otherwise made available for any fiscal year to the Counter-Islamic State of Iraq and Syria Train and Equip Fund are authorized to be made available only in support of partner forces eligible to receive assistance under section 1209(a) of the Carl Levin and Howard P. ‘Buck’ McKeon National Defense Authorization Act for Fiscal Year 2015 (Public Law 113–291; 128 Stat. 3541) or subsection (a) of section 1236 of such Act [128 Stat. 3558], as amended by subsection (a) of this section.”
 
-#### Prohibition on Transfers to Badr Organization
-Pub. L. 117–81, div. A, title XII, § 1225, Dec. 27, 2021, 135 Stat. 1972, provided that: “None of the amounts authorized to be appropriated by this Act [Pub. L. 117–81, see Tables for classification] or otherwise made available to the Department of Defense may be made available, directly or indirectly, to the Badr Organization.”
+#### Prohibition on Transfers to the Badr Organization
+Pub. L. 118–31, div. A, title XII, § 1267, Dec. 22, 2023, 137 Stat. 483, provided that: “None of the amounts authorized to be appropriated by this Act [Pub. L. 118–31, see Tables for classification] or otherwise made available to the Department of Defense may be made available, directly or indirectly, to the Badr Organization.”
+
+Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–263, div. A, title XII, § 1239, Dec. 23, 2022, 136 Stat. 2841.
+
+Pub. L. 117–81, div. A, title XII, § 1225, Dec. 27, 2021, 135 Stat. 1972.
 
 #### Prohibition on Transfers to Iran
-Pub. L. 117–81, div. A, title XII, § 1226, Dec. 27, 2021, 135 Stat. 1972, provided that: “None of the amounts authorized to be appropriated by this Act [Pub. L. 117–81, see Tables for classification] or otherwise made available to the Department of Defense may be made available to transfer or facilitate a transfer of pallets of currency, currency, or other items of value to the Government of Iran, any subsidiary of such Government, or any agent or instrumentality of Iran.”
+Pub. L. 117–263, div. A, title XII, § 1235, Dec. 23, 2022, 136 Stat. 2838, provided that: “None of the amounts authorized to be appropriated by this Act [Pub. L. 117–263, see Tables for classification] or otherwise made available to the Department of Defense may be made available to transfer or facilitate a transfer of pallets of currency, currency, or other items of value to the Government of Iran, any subsidiary of such Government, or any agent or instrumentality of Iran.”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 117–81, div. A, title XII, § 1226, Dec. 27, 2021, 135 Stat. 1972.
 
 #### Limitation on Provision of Funds to Institutions of Higher Education Hosting Confucius Institutes
-Pub. L. 116–283, div. A, title X, § 1062, Jan. 1, 2021, 134 Stat. 3859, provided that: “(a) Limitation.—Except as provided in subsection (b), none of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be provided to an institution of higher education that hosts a Confucius Institute, other than amounts provided directly to students as educational assistance. “(b) Waiver.—“(1) In general.—The Secretary of Defense may waive the limitation under subsection (a) with respect to an institution of higher education if the Secretary, after consultation with the National Academies of Sciences, Engineering, and Medicine, determines such a waiver is appropriate. “(2) Management process.—If the Secretary issues a waiver under paragraph (1), the academic liaison designated pursuant to subsection (g) of section 1286 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 [Pub. L. 115–232] ([former] [10 U.S.C. 2358](./chapter-chapter-139-chapter-chapter-139.md#section-2358) note) [now [10 U.S.C. 4001](./chapter-301-research-and-engineering-generally.md#section-4001) note], as amended by section 1299C of this Act, shall manage the waiver process on behalf of the Secretary. “(c) Effective Date.—The limitation under subsection (a) shall apply with respect to the first fiscal year that begins after the date that is 24 months after the date of the enactment of this Act [Jan. 1, 2021] and to any subsequent fiscal year. “(d) Definitions.—In this section:“(1) The term ‘Confucius Institute’ means a cultural institute directly or indirectly funded by the Government of the People’s Republic of China. “(2) The term ‘institution of higher education’ has the meaning given such term in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)).”
+Pub. L. 116–283, div. A, title X, § 1062, Jan. 1, 2021, 134 Stat. 3859, as amended by Pub. L. 118–31, div. A, title X, §§ 1044(a), 1045, Dec. 22, 2023, 137 Stat. 389, 390, provided that: “(a) Limitation.—Except as provided in subsection (b), none of the funds authorized to be appropriated or otherwise made available for any fiscal year for the Department of Defense may be provided to an institution of higher education that hosts a Confucius Institute, other than amounts provided directly to students as educational assistance. “(b) Waiver.—“(1) In general.—The Secretary of Defense may waive the limitation under subsection (a) with respect to an institution of higher education if the Secretary, after consultation with the National Academies of Sciences, Engineering, and Medicine, determines such a waiver is appropriate. “(2) Management process.—If the Secretary issues a waiver under paragraph (1), the academic liaison designated pursuant to subsection (g) of section 1286 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 [Pub. L. 115–232] ([former] [10 U.S.C. 2358](./chapter-chapter-139-chapter-chapter-139.md#section-2358) note) [now [10 U.S.C. 4001](./chapter-301-research-and-engineering-generally.md#section-4001) note], as amended by section 1299C of this Act, shall manage the waiver process on behalf of the Secretary. “(3) Termination of authority.—The authority to issue a waiver under paragraph (1) shall terminate on October 1, 2026, and any waiver issued under such paragraph shall not apply on or after such date. “(c) Effective Date.—The limitation under subsection (a) shall apply with respect to the first fiscal year that begins after the date that is 24 months after the date of the enactment of this Act [Jan. 1, 2021] and to any subsequent fiscal year. “(d) Definitions.—In this section:“(1) Confucius institute.—The term ‘Confucius Institute’ means—“(A) any program that receives funding or support from—“(i) the Chinese International Education Foundation; or “(ii) the Center for Language Exchange Cooperation of the Ministry of Education of the People’s Republic of China; or “(B) any cultural institute funded by the Government of the People’s Republic of China. “(2) The term ‘institution of higher education’ has the meaning given such term in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)).”
 
 #### Obligation of Funds for Space Force Procurement
 Pub. L. 116–260, div. C, title VIII, § 8089, Dec. 27, 2020, 134 Stat. 1326, provided that: “In this fiscal year and each fiscal year thereafter, funds appropriated under the heading ‘Procurement, Space Force’ may be obligated for payment of satellite on-orbit incentives in the fiscal year in which an incentive payment is earned: Provided, That any obligation made pursuant to this section may not be entered into until 30 calendar days in session after the congressional defense committees [see section 8028 of Pub. L. 116–260, set out below] have been notified that an on-orbit incentive payment has been earned.”
@@ -299,7 +325,51 @@ Section, added Pub. L. 109–163, div. A, title III, § 373(a), Jan. 6, 2006, 11
 
 
 <a id="section-2246"></a>
-## § 2246. Renumbered § 2491a]
+## § 2246. Authorization of certain support for military service academy foundations
+**(a) Authority.—** Subject to subsection (b) and pursuant to regulations prescribed by the Secretary of Defense, the Superintendent of a Service Academy may authorize a covered foundation to use, on an unreimbursed basis, facilities or equipment of such Service Academy.
+
+**(b) Limitations.—** Use of facilities or equipment under subsection (a) may be provided only if such use—
+
+(1) is without any liability of the United States to the covered foundation;
+
+(2) does not affect the ability of any official or employee of the military department concerned, or any member of the armed forces, to carry out any responsibility or duty in a fair and objective manner;
+
+(3) does not compromise the integrity or appearance of integrity of any program of the military department concerned, or any individual involved in such a program;
+
+(4) does not include the participation of any cadet or midshipman, other than participation in an honor guard at an event of the covered foundation;
+
+(5) complies with the Joint Ethics Regulation; and
+
+(6) has been reviewed and approved by an attorney of the military department concerned.
+
+**(c) Briefing.—** In any fiscal year during which the Superintendent of a Service Academy exercises the authority under subsection (a), the Secretary of the military department concerned shall provide a briefing not later than the last day of that fiscal year to the Committees on Armed Services of the Senate and House of Representatives regarding the number of events or activities of a covered foundation supported by such exercise during such fiscal year.
+
+**(d) Definitions.—** In this section:
+
+(1) The term “covered foundation” means a charitable, educational, or civic nonprofit organization under section 501(c)(3) of the Internal Revenue Code of 1986, that the Secretary concerned determines operates exclusively to support, with respect to a Service Academy, any of the following:
+
+  (A) Recruiting.
+
+  (B) Parent or alumni development.
+
+  (C) Academic, leadership, or character development.
+
+  (D) Institutional development.
+
+  (E) Athletics.
+
+(2) The term “Service Academy” has the meaning given such term in [section 347 of this title](./chapter-016-security-cooperation.md#section-347).
+
+### Statutory Notes
+
+#### References in Text
+Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (d)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
+
+#### Codification
+Pub. L. 117–263, div. A, title V, § 551(a), Dec. 23, 2022, 136 Stat. 2591, which directed amendment of this subchapter by inserting this section “after section 2245 the end”, was executed by inserting this section after [section 2245 of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2245) to reflect the probable intent of Congress.
+
+#### Prior Provisions
+A prior [section 2246 of this title](./chapter-134-miscellaneous-administrative-provisions.md#section-2246) was renumbered [section 2491a of this title](./chapter-147-commissaries-and-exchanges-and-other-morale-welfare-and-recreation-activities.md#section-2491a).
 
 
 <a id="section-2247"></a>
@@ -475,14 +545,15 @@ Pub. L. 102–484, div. A, title X, § 1071(b), Oct. 23, 1992, 106 Stat. 2508, p
 
 **(b) Regulations.—** The Secretary of Defense shall prescribe regulations for the administration of this section. Such regulations shall ensure consistent application of the authority in subsection (a) across the military departments.
 
-**(c) Delegation.—** The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management of the Department.
-
-**(d) Transparency.—** Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
+**(c) Transparency.—** Each determination of the Secretary under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request.
 
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of this section, referred to in subsec. (a)(4), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
+
+#### Amendments
+2023—Subsecs. (c), (d). Pub. L. 118–31 redesignated subsec. (d) as (c), struck out “, or the Secretary’s designee,” after “Secretary” and “, through the Office of the Director of Administration and Management” after “request”, and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management of the Department.”
 
 #### Effective Date
 Pub. L. 112–81, div. A, title X, § 1082(b), Dec. 31, 2011, 125 Stat. 1601, provided that: “[Section 2254a of title 10](./chapter-134-miscellaneous-administrative-provisions.md#section-2254a), United States Code, as added by subsection (a), shall apply to any information entered into any data file of the military flight operations quality assurance system before, on, or after the date of the enactment of this Act [Dec. 31, 2011].”

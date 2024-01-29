@@ -2,7 +2,7 @@
 title: 34
 chapter: '413'
 heading: CRIME REPORTS AND STATISTICS
-section_count: 12
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -190,7 +190,7 @@ Section was formerly classified as a note under [section 522 of Title 28](https:
 
 <a id="section-41307"></a>
 ## § 41307. Reporting requirement for missing children
-**(a) In general** Each Federal, State, and local law enforcement agency shall report each case of a missing child under the age of 21 reported to such agency to the National Crime Information Center of the Department of Justice.
+**(a) In general** Each Federal, State, and local law enforcement agency shall report each case of a missing child under the age of 21 reported to such agency to the National Crime Information Center of the Department of Justice and, consistent with section 40507 (including rules promulgated pursuant to section 40507(c)) of this title, shall also report such case, either directly or through authorization described in such section to transmit, enter, or share information on such case, to the NamUs databases.
 
 **(b) Guidelines** The Attorney General may establish guidelines for the collection of such reports including procedures for carrying out the purposes of this section and [section 41308 of this title](./chapter-413-crime-reports-and-statistics.md#section-41308).11 See References in Text note below.
 
@@ -205,7 +205,12 @@ This section and [section 41308 of this title](./chapter-413-crime-reports-and-s
 Section was formerly classified to [section 5779 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5779&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–327 inserted before period at end “and, consistent with section 40507 (including rules promulgated pursuant to section 40507(c)) of this title, shall also report such case, either directly or through authorization described in such section to transmit, enter, or share information on such case, to the NamUs databases”.
+
 2003—Subsec. (a). Pub. L. 108–21 substituted “age of 21” for “age of 18”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–327 applicable with respect to reports made before, on, or after Dec. 27, 2022, see [section 40506(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40506/c/3&num=0&edition=prelim).
 
 
 <a id="section-41308"></a>
@@ -215,7 +220,7 @@ Each State reporting under the provisions of this section and [section 41307 of 
 
 (1) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the observance of any waiting period before accepting a missing child or unidentified person report;
 
-(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system or the National Crime Information Center computer database based solely on the age of the person;
+(2) ensure that no law enforcement agency within the State establishes or maintains any policy that requires the removal of a missing person entry from its State law enforcement system, the National Crime Information Center computer database, or the NamUs databases based solely on the age of the person;
 
 (3) provide that each such report and all necessary and available information, which, with respect to each missing child report, shall include—
 
@@ -226,11 +231,11 @@ Each State reporting under the provisions of this section and [section 41307 of 
   (C) the date and location of the last known contact with the child; and
 
   (D) the category under which the child is reported missing;
-  is entered within 2 hours of receipt into the State law enforcement system and the National Crime Information Center computer networks and made available to the Missing Children Information Clearinghouse within the State or other agency designated within the State to receive such reports; and
+  is entered within 2 hours of receipt into the State law enforcement system, the National Crime Information Center computer networks, and the NamUs databases and made available to the Missing Children Information Clearinghouse within the State or other agency designated within the State to receive such reports; and
 
-(4) provide that after receiving reports as provided in paragraph (3), the law enforcement agency that entered the report into the National Crime Information Center shall—
+(4) provide that after receiving reports as provided in paragraph (3), the law enforcement agency that entered the report into the National Crime Information Center or the NamUs databases shall—
 
-  (A) no later than 30 days after the original entry of the record into the State law enforcement system and National Crime Information Center computer networks, verify and update such record with any additional information, including, where available, medical and dental records and a photograph taken during the previous 180 days;
+  (A) no later than 30 days after the original entry of the record into the State law enforcement system, National Crime Information Center computer networks, and the NamUs databases, verify and update such record with any additional information, including, where available, medical and dental records and a photograph taken during the previous 180 days;
 
   (B) institute or assist with appropriate search and investigative procedures;
 
@@ -246,6 +251,14 @@ Each State reporting under the provisions of this section and [section 41307 of 
 Section was formerly classified to [section 5780 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5780&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Par. (2). Pub. L. 117–327, § 2(c)(2)(A), substituted “, the National Crime Information Center computer database, or the NamUs databases” for “or the National Crime Information Center computer database”.
+
+Par. (3). Pub. L. 117–327, § 2(c)(2)(B), substituted “, the National Crime Information Center computer networks, and the NamUs databases” for “and the National Crime Information Center computer networks” in concluding provisions.
+
+2022—Par. (4). Pub. L. 117–327, § 2(c)(2)(C)(i), inserted “or the NamUs databases” after “National Crime Information Center” in introductory provisions.
+
+Par. (4)(A). Pub. L. 117–327, § 2(c)(2)(C)(ii), substituted “, National Crime Information Center computer networks, and the NamUs databases” for “and National Crime Information Center computer networks”.
+
 2015—Par. (2). Pub. L. 114–22, § 116(b)(1), struck out “and” at end.
 
 Par. (3)(B) to (D). Pub. L. 114–22, § 116(b)(2), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
@@ -263,6 +276,9 @@ Pub. L. 114–22, § 116(b)(3)(D), redesignated subpar. (C) as (D).
 Par. (4)(E). Pub. L. 114–22, § 116(b)(3)(G), added subpar. (E).
 
 2006—Pub. L. 109–248 added par. (2), redesignated former pars. (2) and (3) as (3) and (4), respectively, and substituted “within 2 hours of receipt” for “immediately” in concluding provisions of par. (3).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–327 applicable with respect to reports made before, on, or after Dec. 27, 2022, see [section 40506(c)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section40506/c/3&num=0&edition=prelim).
 
 
 <a id="section-41309"></a>
@@ -306,6 +322,9 @@ Section is comprised of subsecs. (a) and (b) of section 237 of Pub. L. 110–457
 
 #### Amendments
 2018—Subsec. (b)(4), (5). Pub. L. 115–392 added pars. (4) and (5).
+
+#### Cumulative Biennial Report on Data Collection and Statistics
+Pub. L. 117–347, title IV, § 405, Jan. 5, 2023, 136 Stat. 6209, provided that: “Not later than 280 days after the date of enactment of this Act [Jan. 5, 2023], and every 2 years thereafter, the Attorney General and the Secretary of Health and Human Services shall each submit to the Committee on the Judiciary and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on the Judiciary and the Committee on Energy and Commerce of the House of Representatives the status of the required data collection and reporting requirements of the Attorney General and the Secretary, respectively, related to trafficking, which shall include the status of— “(1) the study required under section 201(a)(1)(B)(ii) of the Trafficking Victims Protection Reauthorization Act of 2005 ([34 U.S.C. 20701(a)(1)(B)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20701/a/1/B/ii&num=0&edition=prelim)); “(2) the State reports required under section 237(b) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 ([34 U.S.C. 41309(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section41309/b&num=0&edition=prelim)) to be included in the Uniform Crime Reporting Program and the National Incident-Based Reporting System; “(3) the report required under section 237(c)(1)(A) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5084 [5083]); “(4) the report required under section 237(c)(1)(B) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5084 [5083]); “(5) the report required under section 237(c)(1)(C) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5084 [5083]); and “(6) the comprehensive study required under section 237(c)(2) of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008 (Public Law 110–457; 122 Stat. 5085 [5084]).”
 
 
 <a id="section-41310"></a>
@@ -374,3 +393,20 @@ Not later than one year after January 5, 2021, and annually thereafter, the Atto
 (2) the protections available and actions taken, if any, by Federal, State, and local agencies to protect such women and girls; and
 
 (3) the actions taken by Federal agencies to educate and assist communities and key stakeholders about female genital mutilation.
+
+
+<a id="section-41313"></a>
+## § 41313. GAO study on incidence of fatal and non-fatal physical and sexual assault of passengers, TNC drivers, and drivers of other for-hire vehicles
+**(a) GAO report** Not later than 1 year after January 5, 2023, and every 2 years thereafter, the Comptroller General of the United States shall submit to Congress a report that includes the results of a study regarding—
+
+(1) the incidence of fatal and non-fatal physical assault and sexual assault perpetrated in the preceding 2 calendar years (starting with calendar years 2019 and 2020 for the first study)—
+
+  (A) against TNC drivers and drivers of other for-hire vehicles (including taxicabs) by passengers and riders of for-hire vehicles; and
+
+  (B) against passengers and riders by other passengers and TNC drivers or drivers of other for-hire vehicles (including taxicabs), including the incidences that are committed by individuals who are not TNC drivers or drivers of other for-hire vehicles but who pose as TNC drivers or drivers of other for-hire vehicles;
+
+(2) the nature and specifics of any background checks conducted on prospective TNC drivers and drivers of other for-hire vehicles (including taxicabs), including any State and local laws requiring those background checks; and
+
+(3) the safety steps taken by transportation network companies and other for-hire vehicle services (including taxicab companies) related to rider and driver safety.
+
+**(b) Sexual assault defined** In this section, the term “sexual assault” means the occurrence of an act that constitutes any nonconsensual sexual act proscribed by Federal, Tribal, or State law, including when the victim lacks capacity to consent.

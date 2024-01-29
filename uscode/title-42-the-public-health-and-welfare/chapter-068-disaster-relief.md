@@ -2,7 +2,7 @@
 title: 42
 chapter: '68'
 heading: DISASTER RELIEF
-section_count: 112
+section_count: 113
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -47,7 +47,12 @@ Pub. L. 115–254, div. D, § 1202, Oct. 5, 2018, 132 Stat. 3438, provided that:
 #### Effective Date
 Pub. L. 93–288, title VI, § 605, May 22, 1974, 88 Stat. 164, provided that Pub. L. 93–288 was effective Apr. 1, 1974, with the exception of [section 5178 of this title](./chapter-068-disaster-relief.md#section-5178), prior to repeal by Pub. L. 100–707, title I, § 108(b), Nov. 23, 1988, 102 Stat. 4708.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–44, § 1, Mar. 18, 2024, 138 Stat. 455, provided that: “This Act [amending [section 5177 of this title](./chapter-068-disaster-relief.md#section-5177) and enacting provisions set out as a note under [section 5177 of this title](./chapter-068-disaster-relief.md#section-5177)] may be cited as the ‘Disaster Assistance Deadlines Alignment Act’.”
+
 #### Short Title of 2022 Amendment
+Pub. L. 117–263, div. G, title LXXIII, § 7311, Dec. 23, 2022, 136 Stat. 3689, provided that: “This subtitle [subtitle B (§§ 7311–7315) of title LXXIII of div. G of Pub. L. 117–263, enacting [section 5136a of this title](./chapter-068-disaster-relief.md#section-5136a) and provisions set out as notes under [section 5136a of this title](./chapter-068-disaster-relief.md#section-5136a)] may be cited as the ‘Technological Hazards Preparedness and Training Act of 2022’.”
+
 Pub. L. 117–255, § 1, Dec. 20, 2022, 136 Stat. 2363, provided that: “This Act [enacting [section 5136 of this title](./chapter-068-disaster-relief.md#section-5136), amending this section, and enacting provisions set out as notes under [section 5136 of this title](./chapter-068-disaster-relief.md#section-5136)] may be cited as the ‘Community Disaster Resilience Zones Act of 2022’.”
 
 Pub. L. 117–251, § 1, Dec. 20, 2022, 136 Stat. 2354, provided that: “This Act [amending sections 5183, 5189d, and 5196c of this title and enacting provisions set out as notes under sections 5131, 5183, 5189d, and 5196c of this title] may be cited as the ‘FEMA Improvement, Reform, and Efficiency Act of 2022’ or the ‘FIRE Act’.”
@@ -475,12 +480,7 @@ Pub. L. 117–251, §§ 2, 4, Dec. 20, 2022, 136 Stat. 2354, 2356, provided that
 
 (3) **Certification to Congress** — The Administrator of the Federal Emergency Management Agency shall submit to Congress a certification regarding whether all financial assistance under this section was awarded in accordance with this section.
 
-**(m) Latest published editions** For purposes of subsections (e)(1)(B)(iv) and (g)(10), the term “latest published editions” means, with respect to relevant consensus-based codes, specifications, and standards, the 2 most recently published editions.
-
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–254, div. D, § 1234(d), Oct. 5, 2018, 132 Stat. 3463, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (m). See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsecs. (e)(1)(B)(iv), (g)(5), (10), and (i), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
@@ -634,11 +634,9 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (2) **Reservation of funds** — The Administrator shall reserve not more than 2.5 percent of the amount made available to carry out this section for the Federal Emergency Management Agency for—
 
-  (A) administrative costs incurred in carrying out this section;
+  (A) administrative costs incurred in carrying out this section; and
 
-  (B) providing technical assistance to participating entities under subsection (b)(2); and
-
-  (C) capitalization grants to insular areas under paragraph (4).
+  (B) providing technical assistance to participating entities under subsection (b)(2).
 
 (3) **Priority** — In the apportionment of capitalization grants under this subsection, the Administrator shall give priority to entity applications under subsection (b) that—
 
@@ -648,13 +646,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (C) take into account regional impacts of hazards on river basins, river corridors, micro-watersheds, macro-watersheds, estuaries, lakes, bays, and coastal regions and areas at risk of earthquakes, tsunamis, droughts, severe storms, and wildfires, including the wildland-urban interface; or
 
-  (D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments, insular areas, and Indian tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
-
-(4) **Insular areas**
-
-  (A) *Apportionment* — From any amount remaining of funds reserved under paragraph (2), the Administrator may enter into agreements to provide capitalization grants to insular areas.
-
-  (B) *Requirements* — An insular area receiving a capitalization grant under this section shall comply with the requirements of this section as applied to participating entities.
+  (D) propose projects for the resilience of major economic sectors or critical national infrastructure, including ports, global commodity supply chain assets (located within an entity or within the jurisdiction of local governments and Tribal governments), power and water production and distribution centers, and bridges and waterways essential to interstate commerce.
 
 **(e) Environmental review of revolving loan fund projects** The Administrator may delegate to a participating entity all of the responsibilities for environmental review, decision making, and action pursuant to the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.), and other applicable Federal environmental laws including the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.) and the National Historic Preservation Act of 1966 ([54 U.S.C. 300101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section300101&num=0&edition=prelim) et seq.) that would apply to the Administrator were the Administrator to undertake projects under this section as Federal projects so long as the participating entity carries out such responsibilities in the same manner and subject to the same requirements as if the Administrator carried out such responsibilities.
 
@@ -816,27 +808,19 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (2) **Agency** — The term “Agency” means the Federal Emergency Management Agency.
 
-(3) **Eligible entity** — The term “eligible entity” means—
-
-  (A) a State; or
-
-  (B) an Indian tribal government that has received a major disaster declaration during the 5-year period ending on January 1, 2021.
+(3) **Eligible entity** — The term “eligible entity” means a State or an Indian tribal government that has received a major disaster declaration pursuant to [section 5170 of this title](./chapter-068-disaster-relief.md#section-5170).
 
 (4) **Hazard mitigation plan** — The term “hazard mitigation plan” means a mitigation plan submitted under [section 5165 of this title](./chapter-068-disaster-relief.md#section-5165).
 
-(5) **Insular area** — The term “insular area” means Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+(5) **Low-income geographic area** — The term “low-income geographic area” means an area described in paragraph (1) or (2) of [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
 
-(6) **Low-income geographic area** — The term “low-income geographic area” means an area described in paragraph (1) or (2) of [section 3161(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3161/a&num=0&edition=prelim).
+(6) **Participating entity** — The term “participating entity” means an eligible entity that has entered into an agreement under this section.
 
-(7) **Participating entity** — The term “participating entity” means an eligible entity that has entered into an agreement under this section.
+(7) **Repetitive loss structure** — The term “repetitive loss structure” has the meaning given the term in [section 4121 of this title](./chapter-050-national-flood-insurance.md#section-4121).
 
-(8) **Repetitive loss structure** — The term “repetitive loss structure” has the meaning given the term in [section 4121 of this title](./chapter-050-national-flood-insurance.md#section-4121).
+(8) **Severe repetitive loss structure** — The term “severe repetitive loss structure” has the meaning given the term in [section 4104c(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4104c/h&num=0&edition=prelim).
 
-(9) **Severe repetitive loss structure** — The term “severe repetitive loss structure” has the meaning given the term in [section 4104c(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4104c/h&num=0&edition=prelim).
-
-(10) **State** — The term “State” means any State of the United States, the District of Columbia, and Puerto Rico.
-
-(11) **Wildland-urban interface** — The term “wildland-urban interface” has the meaning given the term in [section 6511 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6511&num=0&edition=prelim).
+(9) **Wildland-urban interface** — The term “wildland-urban interface” has the meaning given the term in [section 6511 of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section6511&num=0&edition=prelim).
 
 **(n) Authorization of appropriations** There are authorized to be appropriated $100,000,000 for each of fiscal years 2022 through 2023 to carry out this section.
 
@@ -850,6 +834,17 @@ The Endangered Species Act of 1973, referred to in subsec. (e), is Pub. L. 93–
 The National Historic Preservation Act of 1966, referred to in subsec. (e), probably means the National Historic Preservation Act, Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, which was classified generally to subchapter II (§ 470 et seq.) of chapter 1A of Title 16, Conservation, was substantially repealed and replaced in division A (§ 300101 et seq.) of subtitle III of Title 54, National Park Service and Related Programs, by Pub. L. 113–287, §§ 3, 7, 128 Stat. 3187, 3272. For complete classification of this Act to the Code, see Short Title of 1966 Act note set out under [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim), and Tables. For disposition of former sections of Title 16, see Disposition Table preceding [section 100101 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section100101&num=0&edition=prelim).
 
 This chapter, referred to in subsec. (f)(2), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+
+#### Amendments
+2022—Subsec. (d)(2)(C). Pub. L. 117–328, § 540(1)(A), struck out subpar. (C) which read as follows: “capitalization grants to insular areas under paragraph (4).”
+
+Subsec. (d)(3)(D). Pub. L. 117–328, § 540(1)(B), substituted “local governments and Tribal governments” for “local governments, insular areas, and Indian tribal governments”.
+
+Subsec. (d)(4). Pub. L. 117–328, § 540(1)(C), struck out par. (4), which related to insular areas.
+
+Subsec. (m)(3). Pub. L. 117–328, § 540(2)(A), added par. (3) and struck out former par. (3), which defined “eligible entity”.
+
+Subsec. (m)(5) to (11). Pub. L. 117–328, § 540(2)(B)–(D), redesignated pars. (6) to (9) as (5) to (8), respectively, and par. (11) as (9), and struck out former pars. (5) and (10), which defined “insular area” and “State”, respectively.
 
 
 <a id="section-5136"></a>
@@ -1027,6 +1022,61 @@ Pub. L. 117–255, § 3(c), Dec. 20, 2022, 136 Stat. 2367, provided that: “The
 Pub. L. 117–255, § 3(b), Dec. 20, 2022, 136 Stat. 2367, provided that: “Nothing in section 206 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5136](./chapter-068-disaster-relief.md#section-5136)], as added by subsection (a) of this section, shall be construed to prohibit the Administrator of the Federal Emergency Management Agency from using amounts available to maintain and update the National Risk Index until the earlier of— “(1) the date on which those amounts are transferred to another source; and “(2) 3 years after the date of enactment of this Act [Dec. 20, 2022].”
 
 
+<a id="section-5136a"></a>
+## § 5136a. Assistance and training for communities with technological hazards and related emerging threats
+**(a) In general** The Administrator shall maintain the capacity to provide States, local, and Indian Tribal governments with technological hazards and related emerging threats technical assistance, training, and other preparedness programming to build community resilience to technological hazards and related emerging threats.
+
+**(b) Authorities** The Administrator shall carry out subsection (a) in accordance with—
+
+(1) the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](./chapter-068-disaster-relief.md#section-5121) et seq.);
+
+(2) [section 5196g of this title](./chapter-068-disaster-relief.md#section-5196g); and
+
+(3) the Post-Katrina Emergency Management Reform Act of 2006 (Public Law 109–295; 120 Stat. 1394).
+
+**(c) Assessment and notification** In carrying out subsection (a), the Administrator shall—
+
+(1) use any available and appropriate multi-hazard risk assessment and mapping tools and capabilities to identify the communities that have the highest risk of and vulnerability to a technological hazard in each State; and
+
+(2) ensure each State and Indian Tribal government is aware of—
+
+  (A) the communities identified under paragraph (1); and
+
+  (B) the availability of programming under this section for—
+
+    (i) technological hazards and related emerging threats preparedness; and
+
+    (ii) building community capability.
+
+**(d) Report** Not later than 1 year after December 23, 2022, and annually thereafter, the Administrator shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate, the Committee on Appropriations of the Senate, the Committee on Energy and Natural Resources of the Senate, the Committee on Health, Education, Labor, and Pensions of the Senate, the Committee on Energy and Commerce of the House of Representatives, the Committee on Homeland Security of the House of Representatives, the Committee on Appropriations of the House of Representatives, and the Committee on Transportation and Infrastructure of the House of Representatives a report relating to—
+
+(1) actions taken to implement this section; and
+
+(2) technological hazards and related emerging threats preparedness programming provided under this section during the 1-year period preceding the date of submission of the report.
+
+**(e) Consultation** The Secretary of Homeland Security may seek continuing input relating to technological hazards and related emerging threats preparedness needs by consulting State, Tribal, territorial, and local emergency services organizations and private sector stakeholders.
+
+**(f) Coordination** The Secretary of Homeland Security shall coordinate with the Secretary of Energy relating to technological hazard preparedness and training for a hazard that could result from activities or facilities authorized or licensed by the Department of Energy.
+
+**(g) Non-duplication of effort** In carrying out activities under subsection (a), the Administrator shall ensure that such activities do not unnecessarily duplicate efforts of other Federal departments or agencies, including programs within the Department of Health and Human Services.
+
+### Statutory Notes
+
+#### References in Text
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
+
+The Post-Katrina Emergency Management Reform Act of 2006, referred to in subsec. (b)(3), is title VI of Pub. L. 109–295, Oct. 4, 2006, 120 Stat. 1394. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section701&num=0&edition=prelim), Domestic Security, and Tables.
+
+#### Codification
+Section was enacted as part of the Technological Hazards Preparedness and Training Act of 2022 and as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### Savings Provision
+Pub. L. 117–263, div. G, title LXXIII, § 7315, Dec. 23, 2022, 136 Stat. 3691, provided that: “Nothing in this subtitle [subtitle B (§§ 7311–7315) of title LXXIII of div. G of Pub. L. 117–263, see Short Title of 2022 Amendment note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121)] shall diminish or divert resources from— “(1) the full completion of federally-led chemical surety material storage missions or chemical demilitarization missions that are underway as of the date of enactment of this Act [Dec. 23, 2022]; or “(2) any transitional activities or other community assistance incidental to the completion of the missions described in paragraph (1).”
+
+#### Definitions
+Pub. L. 117–263, div. G, title LXXIII, § 7312, Dec. 23, 2022, 136 Stat. 3689, provided that: “In this subtitle [subtitle B (§§ 7311–7315) of title LXXIII of div. G of Pub. L. 117–263, see Short Title of 2022 Amendment note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121)]: “(1) Administrator.—The term ‘Administrator’ means the Administrator of the Federal Emergency Management Agency. “(2) Indian tribal government.—The term ‘Indian Tribal government’ has the meaning given the term ‘Indian tribal government’ in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](./chapter-068-disaster-relief.md#section-5122)). “(3) Local government; state.—The terms ‘local government’ and ‘State’ have the meanings given such terms in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122](./chapter-068-disaster-relief.md#section-5122)). “(4) Technological hazard and related emerging threat.—The term ‘technological hazard and related emerging threat’—“(A) means a hazard that involves materials created by humans that pose a unique hazard to the general public and environment and which may result from—“(i) an accident; “(ii) an emergency caused by another hazard; or “(iii) intentional use of the hazardous materials; and “(B) includes a chemical, radiological, biological, and nuclear hazard.”
+
+
 <a id="section-5141"></a>
 ## § 5141. Waiver of administrative conditions
 
@@ -1169,9 +1219,9 @@ A prior section 305 of Pub. L. 93–288 was classified to [section 5145 of this 
 
 **(d) Personnel performing service responding to disasters and emergencies**
 
-(1) **USERRA employment and reemployment rights** — The protections, rights, benefits, and obligations provided under chapter 43 of title 38 shall apply to intermittent personnel appointed pursuant to subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 401 and 501 or to train for such service.
+(1) **USERRA employment and reemployment rights** — The protections, rights, benefits, and obligations provided under chapter 43 of title 38 shall apply to intermittent personnel appointed pursuant to subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 5170 and 5191 of this title or to train for such service.
 
-(2) **Notice of absence from position of employment** — Preclusion of giving notice of service by necessity of service under subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 401 and 501 or to train for such service shall be considered preclusion by “military necessity” for purposes of [section 4312(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4312/b&num=0&edition=prelim) pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to review in any judicial or administrative proceeding.
+(2) **Notice of absence from position of employment** — Preclusion of giving notice of service by necessity of service under subsection (b)(1) to perform service to the Federal Emergency Management Agency under sections 5170 and 5191 of this title or to train for such service shall be considered preclusion by “military necessity” for purposes of [section 4312(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4312/b&num=0&edition=prelim) pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Administrator and shall not be subject to review in any judicial or administrative proceeding.
 
 ### Statutory Notes
 
@@ -1392,30 +1442,11 @@ Section was enacted as part of the National Flood Insurance Reform Act of 1994 a
 
 (3) **Effect of partial benefits** — Receipt of partial benefits for a major disaster or emergency shall not preclude provision of additional Federal assistance for any part of a loss or need for which benefits have not been provided.
 
-(4) **Waiver of general prohibition**
-
-  (A) *In general* — The President may waive the general prohibition provided in subsection (a) upon request of a Governor on behalf of the State or on behalf of a person, business concern, or any other entity suffering losses as a result of a major disaster or emergency, if the President finds such waiver is in the public interest and will not result in waste, fraud, or abuse. In making this decision, the President may consider the following:
-
-    (i) The recommendations of the Administrator of the Federal Emergency Management Agency made in consultation with the Federal agency or agencies administering the duplicative program.
-
-    (ii) If a waiver is granted, the assistance to be funded is cost effective.
-
-    (iii) Equity and good conscience.
-
-    (iv) Other matters of public policy considered appropriate by the President.
-
-  (B) *Grant or denial of waiver* — A request under subparagraph (A) shall be granted or denied not later than 45 days after submission of such request.
-
-  (C) *Prohibition on determination that loan is a duplication* — Notwithstanding subsection (c), in carrying out subparagraph (A), the President may not determine that a loan is a duplication of assistance, provided that all Federal assistance is used toward a loss suffered as a result of the major disaster or emergency.
-
 **(c) Recovery of duplicative benefits** A person receiving Federal assistance for a major disaster or emergency shall be liable to the United States to the extent that such assistance duplicates benefits available to the person for the same purpose from another source. The agency which provided the duplicative assistance shall collect such duplicative assistance from the recipient in accordance with chapter 37 of title 31, relating to debt collection, when the head of such agency considers it to be in the best interest of the Federal Government.
 
 **(d) Assistance not income** Federal major disaster and emergency assistance provided to individuals and families under this chapter, and comparable disaster assistance provided by States, local governments, and disaster assistance organizations, shall not be considered as income or a resource when determining eligibility for or benefit levels under federally funded income assistance or resource-tested benefit programs.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 115–254, div. D, § 1210(a)(4), Oct. 5, 2018, 132 Stat. 3443, provided that, effective 5 years after Oct. 5, 2018, this section is amended by striking subsection (b)(4). See 2018 Amendment note below.
 
 #### References in Text
 This chapter, referred to in subsec. (d), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
@@ -1745,9 +1776,41 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 (1) participate in the disaster declaration process under [section 5170 of this title](./chapter-068-disaster-relief.md#section-5170) and the emergency declaration process under [section 5191 of this title](./chapter-068-disaster-relief.md#section-5191), to ensure that the needs of rural communities are being addressed;
 
-(2) assist small population States in the preparation of requests for major disaster or emergency declarations; and
+(2) assist small population States in the preparation of requests for major disaster or emergency declarations;
 
-(3) conduct such other activities as the Administrator of the Federal Emergency Management Agency considers appropriate.
+(3) assist States in the collection and presentation of material in the disaster or emergency declaration request relevant to demonstrate severe localized impacts within the State for a specific incident, including—
+
+  (A) the per capita personal income by local area, as calculated by the Bureau of Economic Analysis;
+
+  (B) the disaster impacted population profile, as reported by the Bureau of the Census, including—
+
+    (i) the percentage of the population for whom poverty status is determined;
+
+    (ii) the percentage of the population already receiving Government assistance such as Supplemental Security Income and Supplemental Nutrition Assistance Program benefits;
+
+    (iii) the pre-disaster unemployment rate;
+
+    (iv) the percentage of the population that is 65 years old and older;
+
+    (v) the percentage of the population 18 years old and younger;
+
+    (vi) the percentage of the population with a disability;
+
+    (vii) the percentage of the population who speak a language other than English and speak English less than “very well”; and
+
+    (viii) any unique considerations regarding American Indian and Alaskan Native Tribal populations raised in the State’s request for a major disaster declaration that may not be reflected in the data points referenced in this subparagraph;
+
+  (C) the impact to community infrastructure, including—
+
+    (i) disruptions to community life-saving and life-sustaining services;
+
+    (ii) disruptions or increased demand for essential community services; and
+
+    (iii) disruptions to transportation, infrastructure, and utilities; and
+
+  (D) any other information relevant to demonstrate severe local impacts; and
+
+(4) conduct such other activities as the Administrator of the Federal Emergency Management Agency considers appropriate.
 
 ### Statutory Notes
 
@@ -1755,6 +1818,8 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121) and Tables.
 
 #### Amendments
+2022—Subsec. (c)(3), (4). Pub. L. 117–263 added par. (3) and redesignated former par. (3) as (4).
+
 2011—Subsec. (c)(3). Pub. L. 111–351 substituted “Administrator” for “Director”.
 
 #### Construction
@@ -1984,6 +2049,9 @@ A prior section 401 of Pub. L. 93–288 was renumbered section 405 by Pub. L. 10
 
 #### Amendments
 2013—Pub. L. 113–2 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
+
+#### Preliminary Damage Assessment
+Pub. L. 117–263, div. E, title LVI, § 5603, Dec. 23, 2022, 136 Stat. 3405, provided that: “(a) Findings.—Congress finds the following:“(1) Preliminary damage assessments play a critical role in assessing and validating the impact and magnitude of a disaster. “(2) Through the preliminary damage assessment process, representatives from the Federal Emergency Management Agency validate information gathered by State and local officials that serves as the basis for disaster assistance requests. “(3) Various factors can impact the duration of a preliminary damage assessment and the corresponding submission of a major disaster request, however, the average time between when a disaster occurs, and the submission of a corresponding disaster request has been found to be approximately twenty days longer for flooding disasters. “(4) With communities across the country facing increased instances of catastrophic flooding and other extreme weather events, accurate and efficient preliminary damage assessments have become critically important to the relief process for impacted States and municipalities. “(b) Report to Congress.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Dec. 23, 2022], the Administrator of the Federal Emergency Management Agency shall submit to Congress a report describing the preliminary damage assessment process, as supported by the Federal Emergency Management Agency in the 5 years before the date of enactment of this Act. “(2) Contents.—The report described in paragraph (1) shall contain the following:“(A) The process of the Federal Emergency Management Agency for deploying personnel to support preliminary damage assessments. “(B) The number of Agency staff participating on disaster assessment teams. “(C) The training and experience of such staff described in subparagraph (B). “(D) A calculation of the average amount of time disaster assessment teams described in subparagraph (A) are deployed to a disaster area. “(E) The efforts of the Agency to maintain a consistent liaison between the Agency and State, local, tribal, and territorial officials within a disaster area. “(c) Preliminary Damage Assessment.—“(1) In general.—Not later than 6 months after the date of enactment of this Act, the Administrator of the Federal Emergency Management Agency shall convene an advisory panel consisting of emergency management personnel employed by State, local, territorial, or tribal authorities, and the representative organizations of such personnel to assist the Agency in improving critical components of the preliminary damage assessment process. “(2) Membership.—“(A) In general.—This advisory panel shall consist of at least 2 representatives from national emergency management organizations and at least 1 representative from each of the 10 regions of the Federal Emergency Management Agency, selected from emergency management personnel employed by State, local, territorial, or tribal authorities within each region. “(B) Inclusion on panel.—To the furthest extent practicable, representation on the advisory panel shall include emergency management personnel from both rural and urban jurisdictions. “(3) Considerations.—The advisory panel convened under paragraph (1) shall—“(A) consider—“(i) establishing a training regime to ensure preliminary damage assessments are conducted and reviewed under consistent guidelines; “(ii) utilizing a common technological platform to integrate data collected by State and local governments with data collected by the Agency; and “(iii) assessing instruction materials provided by the Agency for omissions of pertinent information or language that conflicts with other statutory requirements; and “(B) identify opportunities for streamlining the consideration of preliminary damage assessments by the Agency, including eliminating duplicative paperwork requirements and ensuring consistent communication and decision making among Agency staff. “(4) Interim report.—Not later than 18 months after the date of enactment of this Act, the Administrator shall submit to Congress a report regarding the findings of the advisory panel, steps that will be undertaken by the Agency to implement the findings of the advisory panel, and additional legislation that may be necessary to implement the findings of the advisory panel. “(5) Rulemaking and final report.—Not later than 2 years after the date of enactment of this Act, the Administrator shall issue such regulations as are necessary to implement the recommendations of the advisory panel and submit to Congress a report discussing—“(A) the implementation of recommendations from the advisory panel; “(B) the identification of any additional challenges to the preliminary damage assessment process, including whether specific disasters result in longer preliminary damage assessments; and “(C) any additional legislative recommendations necessary to improve the preliminary damage assessment process.”
 
 #### Local Impact
 Pub. L. 115–254, div. D, § 1232, Oct. 5, 2018, 132 Stat. 3460, provided that: “(a) In General.—In making recommendations to the President regarding a major disaster declaration, the Administrator of the Federal Emergency Management Agency shall give greater consideration to severe local impact or recent multiple disasters. Further, the Administrator shall make corresponding adjustments to the [Federal Emergency Management] Agency’s policies and regulations regarding such consideration. Not later than 1 year after the date of enactment of this section [Oct. 5, 2018], the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate on the changes made to regulations and policies and the number of declarations that have been declared based on the new criteria. “(b) Effective Date.—This section shall be effective on the date of enactment of this Act [Oct. 5, 2018].”
@@ -2336,6 +2404,9 @@ Pub. L. 103–181, § 2(b), Dec. 3, 1993, 107 Stat. 2054, provided that: “The 
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Hazard Eligibility and Local Projects
+Pub. L. 117–332, Jan. 5, 2023, 136 Stat. 6119, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Hazard Eligibility and Local Projects Act’. “SEC. 2. AUTHORITY TO BEGIN IMPLEMENTATION OF ACQUISITION AND DEMOLITION ASSISTANCE PROJECTS.“(a) Definitions.—In this section:“(1) Administrator.—The term ‘Administrator’ means the Administrator of the Federal Emergency Management Agency. “(2) Covered project.—The term ‘covered project’ means a project that—“(A) is an acquisition and demolition project for which an entity began implementation, including planning or construction, before or after requesting assistance for the project under a hazard mitigation assistance program; and “(B) qualifies for a categorical exclusion under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.). “(3) Hazard mitigation assistance program.—The term ‘hazard mitigation assistance program’ means—“(A) any grant program authorized under section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5133](./chapter-068-disaster-relief.md#section-5133)); “(B) the hazard mitigation grant program authorized under section 404 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170c](./chapter-068-disaster-relief.md#section-5170c)); and “(C) the flood mitigation assistance program authorized under section 1366 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4104c](./chapter-050-national-flood-insurance.md#section-4104c)). “(b) Eligibility for Assistance for Covered Projects.—“(1) In general.—An entity seeking assistance under a hazard mitigation assistance program may be eligible to receive that assistance for a covered project if—“(A) the entity—“(i) complies with all other eligibility requirements of the hazard mitigation assistance program for acquisition or demolition projects, including extinguishing all incompatible encumbrances; and “(ii) complies with all Federal requirements for the covered project; and “(B) the Administrator determines that the covered project—“(i) qualifies for a categorical exclusion under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.); “(ii) is compliant with applicable floodplain management and protection of wetland regulations and criteria; and “(iii) does not require consultation under any other environmental or historic preservation law or regulation or involve any extraordinary circumstances. “(2) Costs incurred.—An entity seeking assistance under a hazard mitigation assistance program shall be responsible for any project costs incurred by the entity for a covered project if the covered project is not awarded, or is determined to be ineligible for, assistance. “(c) Applicability.—This Act shall apply to covered projects started on or after the date of enactment of this Act [Jan. 5, 2023]. “(d) Report.—Not later than 180 days after the date of enactment of this Act, and annually thereafter for 3 years, the Administrator shall submit to Congress a report on use of the authority under this Act, including—“(1) how many applicants used the authority; “(2) how many applicants using the authority successfully obtained a grant; “(3) how many applicants were not able to successfully obtain a grant; “(4) the reasons applicants were not able to obtain a grant; and “(5) the extent to which applicants using the authority were able to comply with all necessary Federal environmental, historic preservation, and other related laws and regulations. “(e) Termination.—The authority provided under this Act shall cease to be effective on the date that is 3 years after the date of enactment of this Act.”
 
 #### Wage Rate Requirements
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of this title](./chapter-162-energy-infrastructure.md#section-18851).
@@ -2994,13 +3065,11 @@ Pub. L. 115–254, div. D, § 1211(b), Oct. 5, 2018, 132 Stat. 3447, provided th
 
 (2) **Authority** — Notwithstanding [section 3716(e) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3716/e&num=0&edition=prelim), the Administrator—
 
-  (A) subject to subparagraph (B), may waive a debt owed to the United States related to covered assistance provided to an individual or household if—
+  (A) except as provided in subparagraph (B), shall—
 
-    (i) the covered assistance was distributed based on an error by the Agency;
+    (i) waive a debt owed to the United States related to covered assistance provided to an individual or household if the covered assistance was distributed based on an error by the Agency and such debt shall be construed as a hardship; and
 
-    (ii) there was no fault on behalf of the debtor; and
-
-    (iii) the collection of the debt would be against equity and good conscience; and
+    (ii) waive a debt owed to the United States related to covered assistance provided to an individual or household if such assistance is subject to a claim or legal action, including in accordance with section 11 So in original. Probably should be a reference to section 317 of the Act. of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5160](./chapter-068-disaster-relief.md#section-5160)); and
 
   (B) may not waive a debt under subparagraph (A) if the debt involves fraud, the presentation of a false claim, or misrepresentation by the debtor or any party having an interest in the claim.
 
@@ -3008,11 +3077,11 @@ Pub. L. 115–254, div. D, § 1211(b), Oct. 5, 2018, 132 Stat. 3447, provided th
 
   (A) *In general* — The Inspector General of the Department of Homeland Security shall monitor the distribution of covered assistance to individuals and households to determine the percentage of such assistance distributed based on an error.
 
-  (B) *Removal of waiver authority based on excessive error rate* — If the Inspector General of the Department of Homeland Security determines, with respect to any 12-month period, that the amount of covered assistance distributed based on an error by the Agency exceeds 4 percent of the total amount of covered assistance distributed—
+  (B) *Report on waiver authority based on excessive error rate* — If the Inspector General of the Department of Homeland Security determines, with respect to any 12-month period, that the amount of covered assistance distributed based on an error by the Agency exceeds 4 percent of the total amount of covered assistance distributed—
 
     (i) the Inspector General shall notify the Administrator and publish the determination in the Federal Register; and
 
-    (ii) with respect to any major disaster or emergency declared by the President under section 5170 or section 5191, respectively, of this title after the date on which the determination is published under subparagraph (A), the authority of the Administrator to waive debt under paragraph (2) shall no longer be effective.
+    (ii) with respect to any major disaster or emergency declared by the President under section 5170 or section 5191, respectively, of this title after the date on which the determination is published under subparagraph (A), the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate actions that the Administrator will take to reduce the error rate.
 
 **(b) Recoupment of certain assistance prohibited**
 
@@ -3044,6 +3113,21 @@ Pub. L. 115–254, div. D, § 1211(b), Oct. 5, 2018, 132 Stat. 3447, provided th
 Section was enacted as part of the Disaster Recovery Reform Act of 2018 and as part of the FAA Reauthorization Act of 2018, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
 Section is comprised of section 1216 of Pub. L. 115–254. Subsec. (c)(1) of section 1216 of Pub. L. 115–254 amended [section 5205 of this title](./chapter-068-disaster-relief.md#section-5205).
+
+#### Amendments
+2022—Subsec. (a)(2)(A). Pub. L. 117–263, § 5602(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows:
+
+“(A) subject to subparagraph (B), may waive a debt owed to the United States related to covered assistance provided to an individual or household if—
+
+“(i) the covered assistance was distributed based on an error by the Agency;
+
+“(ii) there was no fault on behalf of the debtor; and
+
+“(iii) the collection of the debt would be against equity and good conscience; and”.
+
+Subsec. (a)(3)(B). Pub. L. 117–263, § 5602(a)(2)(A), substituted “Report on” for “Removal of” in heading.
+
+Subsec. (a)(3)(B)(ii). Pub. L. 117–263, § 5602(a)(2)(B), substituted “the Administrator shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Homeland Security and Governmental Affairs of the Senate actions that the Administrator will take to reduce the error rate” for “the authority of the Administrator to waive debt under paragraph (2) shall no longer be effective”.
 
 #### Effective Date
 Authorities provided under div. D of Pub. L. 115–254, which enacted this section, applicable to each major disaster and emergency declared by the President under Pub. L. 93–288 on or after Jan. 1, 2016, except as otherwise provided, see section 1202(b) of Pub. L. 115–254, set out in an Effective Date of 2018 Amendment note under [section 5121 of this title](./chapter-068-disaster-relief.md#section-5121).
@@ -3137,6 +3221,16 @@ A prior section 409 of Pub. L. 93–288 was renumbered section 412 by Pub. L. 10
 
 (2) **Federal assistance** — The President may provide reemployment assistance services under other laws to individuals who are unemployed as a result of a major disaster and who reside in a State which does not provide such services.
 
+**(c) Application deadline**
+
+(1) **In general** — With respect to a major disaster for which assistance is provided under this section and [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174), the application deadline for an individual seeking assistance under this section shall match the application deadline for individuals and households seeking assistance under [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174).
+
+(2) **Extension** — The President may accept an application from an individual described in paragraph (1) that is submitted after the deadline described in paragraph (1) if—
+
+  (A) the individual has good cause for the late submission; and
+
+  (B) the individual submits the application before the date on which the period during which assistance is provided under this section for the applicable major disaster expires.
+
 ### Statutory Notes
 
 #### References in Text
@@ -3146,9 +3240,14 @@ This chapter, referred to in subsec. (b)(1), was in the original “this Act”,
 A prior section 410 of Pub. L. 93–288 was renumbered section 413 by Pub. L. 100–707 and is classified to [section 5180 of this title](./chapter-068-disaster-relief.md#section-5180).
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–44 added subsec. (c).
+
 1988—Subsec. (a). Pub. L. 100–707, § 106(f)(1)–(3), inserted “for the weeks of such unemployment with respect to which the individual is not entitled to any other unemployment compensation (as that term is defined in [section 85(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section85/b&num=0&edition=prelim)) or waiting period credit” for “is unemployed” before period at end of first sentence, substituted “26 weeks” for “one year” in second sentence, and substituted “occurred” for “occurred, and the amount of assistance under this section to any such individual for a week of unemployment shall be reduced by any amount of unemployment compensation or of private income protection insurance compensation available to such individual for such week of unemployment” in third sentence.
 
 Subsec. (b). Pub. L. 100–707, § 106(f)(4), inserted heading and amended text generally. Prior to amendment, text read as follows: “The President is further authorized for the purposes of this chapter to provide reemployment assistance services under other laws to individuals who are unemployed as a result of a major disaster.”
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–44, § 3, Mar. 18, 2024, 138 Stat. 456, provided that: “The amendment made by section 2 [amending this section] shall apply only with respect to amounts appropriated on or after the date of enactment of this Act [Mar. 18, 2024].”
 
 
 <a id="section-5177a"></a>
@@ -3902,7 +4001,7 @@ A prior section 501 of Pub. L. 93–288 enacted subchapter VIII (§ 3231 et seq.
 
 (5) remove debris in accordance with the terms and conditions of [section 5173 of this title](./chapter-068-disaster-relief.md#section-5173);
 
-(6) provide assistance in accordance with [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174);
+(6) provide assistance in accordance with [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174) and [section 5183 of this title](./chapter-068-disaster-relief.md#section-5183);
 
 (7) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance; and
 
@@ -3919,6 +4018,8 @@ A prior section 501 of Pub. L. 93–288 enacted subchapter VIII (§ 3231 et seq.
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(6). Pub. L. 117–263 inserted “and [section 5183 of this title](./chapter-068-disaster-relief.md#section-5183)” after “[section 5174 of this title](./chapter-068-disaster-relief.md#section-5174)”.
+
 2006—Subsec. (a)(1). Pub. L. 109–295, § 681(b)(1)(A), inserted “, including precautionary evacuations” before semicolon at end.
 
 Subsec. (a)(8). Pub. L. 109–295, § 681(b)(1)(B)–(D), added par. (8).
@@ -3928,6 +4029,9 @@ Subsec. (b). Pub. L. 109–295, § 681(b)(2), inserted “, including precaution
 Subsec. (c). Pub. L. 109–295, § 681(b)(3), added subsec. (c).
 
 2000—Subsec. (a)(6). Pub. L. 106–390 struck out “temporary housing” after “provide”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. G, title LXXIII, § 7321(b), Dec. 23, 2022, 136 Stat. 3691, provided that: “The amendment made by subsection (a) [amending this section] shall only apply to amounts appropriated on or after the date of enactment of this Act [Dec. 23, 2022].”
 
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–390 effective 18 months after Oct. 30, 2000, see section 206(d) of Pub. L. 106–390, set out as a note under [section 5174 of this title](./chapter-068-disaster-relief.md#section-5174).
@@ -5438,7 +5542,7 @@ Sec. 9. General. (a) This order is not intended to change any existing statutes 
 
 William J. Clinton.
 
-[Ex. Ord. No. 13138, § 3(c), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, revoked “Section 5 and that part of section 6(f) of Executive Order 13010, as amended by section 3 of Executive Order 13025, Executive Order 13041, sections 1, 2, and that part of section 3 of Executive Order 13064, and Executive Order 13077, establishing the Advisory Committee to the President’s Commission on Critical Infrastructure Protection”.]
+[Ex. Ord. No. 13138, § 3(c), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees, revoked “Section 5 and that part of section 6(f) of Executive Order 13010, as amended by section 3 of Executive Order 13025, Executive Order 13041, sections 1, 2, and that part of section 3 of Executive Order 13064, and Executive Order 13077, establishing the Advisory Committee to the President’s Commission on Critical Infrastructure Protection”.]
 
 #### Executive Order No. 13130
 Ex. Ord. No. 13130, July 14, 1999, 64 F.R. 38535, which established the National Infrastructure Assurance Council, was revoked by Ex. Ord. No. 13231, § 10(e)(iii), Oct. 16, 2001, 66 F.R. 53070, set out as a note under [section 121 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section121&num=0&edition=prelim), Domestic Security.
@@ -5628,7 +5732,7 @@ Sec. 4. Executive Committee Joint Program Office.
 
 Sec. 4.1. The Secretary of Homeland Security shall establish an Executive Committee Joint Program Office (JPO) to provide full-time, expert, and administrative support for the Executive Committee’s performance of its responsibilities under section 3.3 of this order. Staff of the JPO shall include detailees, as needed and appropriate, from agencies represented on the Executive Committee. The Department of Homeland Security shall provide resources to support the JPO. The JPO shall be responsive to the guidance of the Executive Committee.
 
-Sec. 4.2. The responsibilities of the JPO shall include: coordination of programs that support NS/EP missions, priorities, goals, and policy; and, when directed by the Executive Committee, the convening of governmental and nongovernmental groups (consistent with the Federal Advisory Committees [sic] Act, as amended (5 U.S.C. App.)), coordination of activities, and development of policies for senior official review and approval.
+Sec. 4.2. The responsibilities of the JPO shall include: coordination of programs that support NS/EP missions, priorities, goals, and policy; and, when directed by the Executive Committee, the convening of governmental and nongovernmental groups (consistent with the Federal Advisory Committees [sic] Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.]), coordination of activities, and development of policies for senior official review and approval.
 
 Sec. 5. Specific Department and Agency Responsibilities.
 

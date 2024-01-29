@@ -92,7 +92,7 @@ Pub. L. 95–272, title I, §§ 101–109, May 3, 1978, 92 Stat. 222–224, call
 Pub. L. 95–272, title II, §§ 201–209, May 3, 1978, 92 Stat. 224–226, called for a White House Conference on the Humanities to be held no later than Dec. 31, 1979, to help develop a climate in which the humanities can flourish and to formulate recommendations relating to the appropriate growth of the humanities in all parts of the Nation, established a National Planning Council on the Humanities to provide guidance and planning for the Conference, directed the Council to submit a report of the Conference to the President and to the Congress no later than 180 days following the date on which the Conference was called, and provided the Council cease to exist 180 days, unless extended by the President, but in no event to exceed one year, after submission of the report.
 
 #### Executive Order No. 12275
-Ex. Ord. No. 12275, Jan. 16, 1981, 46 F.R. 5857, which established the Design Liaison Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 10, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12275, Jan. 16, 1981, 46 F.R. 5857, which established the Design Liaison Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 10, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-952"></a>
@@ -564,6 +564,8 @@ Subsecs. (j), (k). Pub. L. 90–348, § 2(b), inserted “of exceptional talent�
 1967—Subsec. (d). Pub. L. 90–83 struck out provisions setting the compensation for the Chairman of the National Council on the Arts and the National Endowment for the Arts.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1990 Amendment
@@ -1085,6 +1087,8 @@ Subsec. (c)(5). Pub. L. 91–346, § 8(c), announced intention to foster educati
 1967—Subsec. (b)(1). Pub. L. 90–83 struck out provision setting the compensation of the Chairman at the level prescribed by law for the Director of the National Science Foundation.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1990 Amendment
@@ -1131,7 +1135,13 @@ Section was not enacted as part of the National Foundation on the Arts and the H
 1986—Pub. L. 99–500 and Pub. L. 99–591 substituted “whose primary purpose is” for “which are engaged primarily in” in first par. and “annual income, exclusive of Federal Funds,” for “an annual operating budget”, “operating budget”, and “operating budgets” in third and fourth pars.
 
 #### Eligibility Limitation
-Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 407, provided in part: “That the item relating to ‘National Capital Arts and Cultural Affairs’ in the Department of the Interior and Related Agencies Appropriations Act, 1986, as enacted into law by section 101(d) of Public Law 99–190 ([20 U.S.C. 956a](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-956a)), shall be applied in fiscal year 2022 in the second paragraph by inserting ‘, calendar year 2020 excluded’ before the first period: Provided further, That in determining an eligible organization’s annual income for calendar years 2021 and 2022, funds or grants received by the eligible organization from any supplemental appropriations Act related to coronavirus or any other law providing appropriations for the purpose of preventing, preparing for, or responding to coronavirus shall be counted as part of the eligible organization’s annual income.”
+Pub. L. 118–42, div. E, title III, Mar. 9, 2024, 138 Stat. 282, provided in part: “That the item relating to ‘National Capital Arts and Cultural Affairs’ in the Department of the Interior and Related Agencies Appropriations Act, 1986, as enacted into law by section 101(d) of Public Law 99–190 ([20 U.S.C. 956a](./chapter-026-support-and-scholarship-in-humanities-and-arts-museum-services.md#section-956a)), shall be applied in fiscal year 2024 in the second paragraph by inserting ‘, calendar year 2020 excluded’ before the first period: Provided further, That in determining an eligible organization’s annual income for calendar years 2021, 2022, and 2023, funds or grants received by the eligible organization from any supplemental appropriations made available in 2020 and 2021 in connection with the public health emergency declared by the Secretary of Health and Human Services on January 31, 2020 (including renewals thereof) shall be counted as part of the eligible organization’s annual income.”
+
+Similar provisions were contained in the following prior appropriation act:
+
+Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4818.
+
+Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 407.
 
 #### Redesignation of Capital Children’s Museum as National Children’s Museum
 Pub. L. 108–81, title V, § 502, Sept. 25, 2003, 117 Stat. 1003, provided that: “(a) Designation.—The Capital Children’s Museum located at 800 Third Street, NE, Washington, D.C. (or any successor location), organized under the laws of the District of Columbia, is designated as the ‘National Children’s Museum’. “(b) References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Capital Children’s Museum referred to in subsection (a) shall be deemed to be a reference to the ‘National Children’s Museum’.”

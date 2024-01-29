@@ -44,7 +44,7 @@ source: >-
 
   (G) predictive models based on indicators of marine environmental health or public health threats.
 
-(2) Coordination with the National Ocean Research Leadership Council ([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim)) to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
+(2) Coordination with the National Ocean Research Leadership Council ([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim)) 1 to ensure that any integrated ocean and coastal observing system provides information necessary to monitor and reduce marine public health problems including health-related data on biological populations and detection of contaminants in marine waters and seafood.
 
 (3) Development through partnerships among Federal agencies, States, academic institutions, or non-profit research organizations of new technologies and approaches for detecting and reducing hazards to human health from ocean sources and to strengthen understanding of the value of marine biodiversity to biomedicine, including—
 
@@ -77,6 +77,8 @@ source: >-
 #### References in Text
 [Section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001), referred to in subsec. (b), was in the original “section 603 of the Harmful Algal Bloom and Hypoxia Research and Control Act of 1998 ([16 U.S.C. 1451](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) note)”, meaning section 603 of Pub. L. 105–383, which was set out in a note under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim), Conservation, prior to transfer to [section 4001 of this title](./chapter-053-harmful-algal-bloom-and-hypoxia-research-and-control.md#section-4001).
 
+The reference to the National Ocean Research Leadership Council ([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim)), referred to in subsec. (c)(2), is no longer accurate insofar as [section 8932 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932&num=0&edition=prelim) was amended by Pub. L. 116–283 so as to instead refer to the Ocean Policy Committee.
+
 #### Amendments
 2018—Subsec. (c)(2). Pub. L. 115–232 substituted “([10 U.S.C. 8932(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/a&num=0&edition=prelim))” for “([10 U.S.C. 7902(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7902/a&num=0&edition=prelim))”.
 
@@ -101,7 +103,7 @@ Pub. L. 108–447, div. B, title IX, § 901, Dec. 8, 2004, 118 Stat. 2930, provi
 
 (5) distinguished scholars and traineeships.
 
-**(b) Advisory panel** The Secretary is authorized to establish an oceans and human health advisory panel to assist in the development and implementation of the Oceans and Human Health Initiative. Membership of the advisory group shall provide for balanced representation of individuals with multi-disciplinary expertise in the marine and biomedical sciences. The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the oceans and human health advisory panel.
+**(b) Advisory panel** The Secretary is authorized to establish an oceans and human health advisory panel to assist in the development and implementation of the Oceans and Human Health Initiative. Membership of the advisory group shall provide for balanced representation of individuals with multi-disciplinary expertise in the marine and biomedical sciences. Chapter 10 of title 5 shall not apply to the oceans and human health advisory panel.
 
 **(c) National centers**
 
@@ -121,8 +123,8 @@ Pub. L. 108–447, div. B, title IX, § 901, Dec. 8, 2004, 118 Stat. 2930, provi
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-3103"></a>

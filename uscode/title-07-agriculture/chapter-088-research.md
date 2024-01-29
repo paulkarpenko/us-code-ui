@@ -671,14 +671,13 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 
 **(k) Reports** The advisory council may prepare such reports as the advisory council determines to be appropriate.
 
-**(l) Application of Advisory Committee Act** Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.) relating to the termination of an advisory committee shall not apply to the advisory council established under this section.
+**(l) Application of chapter 10 of title 5** [Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim) relating to the termination of an advisory committee shall not apply to the advisory council established under this section.
 
 ### Statutory Notes
 
-#### References in Text
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (l), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (l). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Advisory Committee Act” in heading and “[Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim)” for “Section 14(a) of the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Subsec. (a)(1). Pub. L. 115–334, § 7206(a)(1)(A), designated first sentence as par. (1) and inserted heading.
 
 Subsec. (a)(2). Pub. L. 115–334, § 7206(a)(1)(B), (C), designated second sentence as par. (2), inserted heading, and substituted “13” for “nine”.
@@ -2009,9 +2008,11 @@ Pub. L. 107–171, title VII, § 7409, May 13, 2002, 116 Stat. 461, related to r
 
 (1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section, to remain available until expended—
 
-  (A) $5,000,000 for each of the periods of fiscal years 2008 through 2012 and 2014 through 2018; and
+  (A) $5,000,000 for each of the periods of fiscal years 2008 through 2012 and 2014 through 2018;
 
-  (B) $5,000,000 for the period of fiscal years 2019 through 2023.
+  (B) $5,000,000 for the period of fiscal years 2019 through 2023; and
+
+  (C) $1,000,000 for fiscal year 2024.
 
 (2) **Discretionary funding** — In addition to funds made available under paragraph (1), there are authorized to be appropriated to carry out this section not more than $5,000,000 for each of fiscal years 2008 through 2023, to remain available until expended.
 
@@ -2026,6 +2027,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+2023—Subsec. (d)(1)(C). Pub. L. 118–22 added subpar. (C).
+
 2018—Subsec. (d)(1). Pub. L. 115–334, § 10103(1), struck out “through fiscal year 2012” after “funding” in heading, substituted “, to remain available until expended—” for “$5,000,000, to remain available until expended.”, and added subpars. (A) and (B).
 
 Subsec. (d)(2), (3). Pub. L. 115–334, § 10103(2)–(4), redesignated par. (3) as (2), substituted “paragraph (1)” for “paragraphs (1) and (2)” and “2023” for “2018”, and struck out former par. (2) which related to mandatory funding.
@@ -2041,6 +2044,9 @@ Subsec. (d)(2). Pub. L. 112–240, § 701(g)(4)(B), substituted “Discretionary
 Subsec. (d)(3). Pub. L. 112–240, § 701(g)(4)(C), added par. (3)
 
 2008—Pub. L. 110–246, § 10302, amended section generally. Prior to amendment, text read as follows: “The Secretary shall ensure that segregated data on the production and marketing of organic agricultural products is included in the ongoing baseline of data collection regarding agricultural production and marketing.”
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -2150,9 +2156,21 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 **(d) Funding**
 
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $10,000,000 for fiscal year 2019, to remain available until expended.
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section—
+
+  (A) $10,000,000 for fiscal year 2019, to remain available until expended; and
+
+  (B) $2,000,000 for fiscal year 2024, to remain available until expended.
 
 (2) **Authorization of appropriations** — In addition to amounts made available under paragraph (1), there is authorized to be appropriated to carry out this section $10,000,000 for each of fiscal years 2019 through 2023.
+
+### Statutory Notes
+
+#### Amendments
+2023—Subsec. (d)(1). Pub. L. 118–22 inserted dash after “section”, designated remainder of existing provisions as subpar. (A), and added subpar. (B).
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 
 <a id="section-5926"></a>
@@ -2905,7 +2923,7 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (i) the individual;
 
-    (ii) a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.)) of that individual; or
+    (ii) a relative (as defined in [section 13101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim)) of that individual; or
 
     (iii) a business organization or other entity in which the individual has an interest, including an organization or other entity with which the individual is negotiating employment.
 
@@ -2923,6 +2941,8 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
     (ii) *Enhanced funding* — On the date on which the strategic plan described in subsection (f)(3)(B)(iv) is submitted, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $185,000,000, to remain available until expended.
 
+    (iii) *Additional funding* — Not later than 30 days after November 17, 2023, of the funds of the Commodity Credit Corporation, the Secretary shall transfer to the Foundation to carry out this section $37,000,000, to remain available until expended.
+
   (B) *Conditions on expenditure*
 
     (i) *In general* — The Foundation may use the funds made available under subparagraph (A) to carry out the purposes, duties, and powers of the Foundation only to the extent that the Foundation secures an equal amount of matching funds from a non-Federal source, including an agricultural commodity promotion, research, and information program.
@@ -2935,13 +2955,14 @@ Section, Pub. L. 110–234, title VII, § 7529, May 22, 2008, 122 Stat. 1278; Pu
 
 ### Statutory Notes
 
-#### References in Text
-Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (f)(4)(B)(ii), is section 109 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was enacted as part of the Agricultural Act of 2014, and not as part of subtitle H of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 which comprises this subchapter.
 
 #### Amendments
+2023—Subsec. (g)(1)(A)(iii). Pub. L. 118–22 added cl. (iii).
+
+2022—Subsec. (f)(4)(B)(ii). Pub. L. 117–286 substituted “[section 13101 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim))” for “section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.))”.
+
 2018—Subsec. (d)(1)(B)(ii). Pub. L. 115–334, § 7603(1)(A)(i), substituted “conflicts, specifically at the Department of Agriculture; and” for “conflicts;”.
 
 Subsec. (d)(1)(B)(iii). Pub. L. 115–334, § 7603(1)(A)(ii), added cl. (iii).
@@ -2970,7 +2991,7 @@ Subsec. (g)(1)(B). Pub. L. 115–334, § 7603(4)(C), designated existing provisi
 
 
 <a id="section-5940"></a>
-## § 5940. Repealed. Pub. L. 115–334, title VII, § 7605(b), Dec. 20, 2018, 132 Stat. 4829; Pub. L. 116–159, div. A, § 122, Oct. 1, 2020, 134 Stat. 714; Pub. L. 116–260, div. A, title VII, § 782, Dec. 27, 2020, 134 Stat. 1230
+## § 5940. Repealed. Pub. L. 115–334, title VII, § 7605(b), Dec. 20, 2018, 132 Stat. 4829; Pub. L. 116–159, div. A, § 122, Oct. 1, 2020, 134 Stat. 714; Pub. L. 116–260, div. A, title VII, § 782, Dec. 27, 2020, 134 Stat. 1230.
 
 ### Statutory Notes
 

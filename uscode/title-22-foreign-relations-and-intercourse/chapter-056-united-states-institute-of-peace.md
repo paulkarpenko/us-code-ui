@@ -198,6 +198,8 @@ Subsecs. (c) to (o). Pub. L. 101–520, § 319(a)(2), (3), added subsec. (c) and
 1987—Subsec. (b)(3). Pub. L. 100–50, as amended by Pub. L. 100–418, inserted “establish a Jeannette Rankin Research Program on Peace to” before “conduct research”.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment
@@ -291,6 +293,8 @@ Subsec. (e)(5). Pub. L. 110–315, § 921(b)(1)(B), added par. (5).
 Subsec. (b)(4), (5). Pub. L. 105–277, § 1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2008 Amendment
@@ -451,6 +455,8 @@ Beginning two years after October 19, 1984, and at intervals of two years therea
 1998—Pub. L. 105–244 substituted “President may prepare” for “President shall prepare” and “may hold hearings” for “shall hold hearings”.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1998 Amendment

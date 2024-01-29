@@ -394,7 +394,7 @@ Pub. L. 110–53, title XV, § 1537(a), Aug. 3, 2007, 121 Stat. 467, provided th
 
   (B) the harm was not caused by willful or criminal misconduct, gross negligence, reckless misconduct, or a conscious, flagrant indifference to the right or safety of the party harmed by the individual.
 
-(9) **Inapplicability of federal advisory committee act.—** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the unified carrier registration plan, the board, or its committees.
+(9) **Inapplicability of chapter 10 of title 5.—** — Chapter 10 of title 5 shall not apply to the unified carrier registration plan, the board, or its committees.
 
 (10) **Certain fees not affected.—** — This section does not limit the amount of money a State may charge for vehicle registration or the amount of any fuel use tax a State may impose pursuant to the International Fuel Tax Agreement (as defined in section 31701).
 
@@ -493,11 +493,11 @@ The date of enactment of this section, referred to in subsec. (a)(7), is the dat
 
 Section 13903(b), referred to in subsec. (b), was redesignated section 13903(d) by Pub. L. 112–141, div. C, title II, § 32916(a)(2), July 6, 2012, 126 Stat. 820.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The date of enactment of the Unified Carrier Registration Act of 2005, referred to in subsecs. (e)(1) and (g)(1), (2), is the date of enactment of subtitle C of title IV of Pub. L. 109–59, which was approved Aug. 10, 2005.
 
 #### Amendments
+2022—Subsec. (d)(9). Pub. L. 117–286 substituted “chapter 10 of title 5” for “federal advisory committee act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2012—Subsec. (c)(1)(C). Pub. L. 112–141, § 32933(b)(1), substituted “section” for “sections”.
 
 Subsec. (c)(1)(D)(ii)(II). Pub. L. 112–141, § 32933(b)(2), substituted “; and” for period at end.

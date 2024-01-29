@@ -661,12 +661,12 @@ This chapter, referred to in subsec. (a)(2), was in the original “this Act”,
 ## § 2146. Ethics
 **(a) Conflict of interest** Notwithstanding any ethics provision governing employees of the covered territory, all members and staff of the Oversight Board shall be subject to the Federal conflict of interest requirements described in [section 208 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section208&num=0&edition=prelim).
 
-**(b) Financial disclosure** Notwithstanding any ethics provision governing employees of the covered territory, all members of the Oversight Board and staff designated by the Oversight Board shall be subject to disclosure of their financial interests, the contents of which shall conform to the same requirements set forth in section 102 of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+**(b) Financial disclosure** Notwithstanding any ethics provision governing employees of the covered territory, all members of the Oversight Board and staff designated by the Oversight Board shall be subject to disclosure of their financial interests, the contents of which shall conform to the same requirements set forth in [section 13104 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13104&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### References in Text
-Section 102 of the Ethics in Government Act of 1978, referred to in subsec. (b), is section 102 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “[section 13104 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13104&num=0&edition=prelim).” for “section 102 of the Ethics in Government Act of 1978 (5 U.S.C. App.).”
 
 
 <a id="section-2147"></a>

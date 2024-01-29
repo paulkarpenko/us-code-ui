@@ -97,7 +97,7 @@ In carrying out the provisions of this chapter it shall be the duty of the Secre
 2013—Pub. L. 112–239 inserted “and the Broadcasting Board of Governors” after “Secretary” in two places.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1078(e), Jan. 2, 2013, 126 Stat. 1959, provided that: “This section [amending this section and sections 1461, 1461–1a, and 1462 of this title and enacting provisions set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461)] shall take effect and apply on the date that is 180 days after the date of the enactment of this section [Jan. 2, 2013].”
@@ -369,7 +369,7 @@ For the effective date of section 1078 of the National Defense Authorization Act
 1972—Pub. L. 92–352 substituted provisions relating to the prohibition, except as otherwise provided, on the dissemination of information within the United States, its territories, or possessions, other than “Problems of Communism” which could continue to be sold at the Government Printing Office, for provisions relating to the availability of press release or radio scripts for examination by representatives of United States press associations, newspapers, magazines, radio systems, and stations, and, on request, Members of Congress.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, see section 1078(e) of Pub. L. 112–239, set out as a note under [section 1437 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1437).
@@ -826,7 +826,7 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 1994—Pub. L. 103–236 inserted at end “The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs.”
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, see section 1078(e) of Pub. L. 112–239, set out as a note under [section 1437 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1437).
@@ -843,7 +843,7 @@ In authorizing international information activities under this chapter, it is th
 2013—Pub. L. 112–239 inserted “and the Broadcasting Board of Governors” after “Secretary” and “or the Broadcasting Board of Governors” after “Department”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, see section 1078(e) of Pub. L. 112–239, set out as a note under [section 1437 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1437).
@@ -923,7 +923,7 @@ Pub. L. 105–277, § 1335(a)(1)(A), (B), in first sentence, substituted “Broa
 Subsec. (e)(3). Pub. L. 105–277, § 1335(a)(1)(B), substituted “Broadcasting Board of Governors” for “United States Information Agency”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -954,7 +954,7 @@ Pub. L. 100–204, title II, § 207, Dec. 22, 1987, 101 Stat. 1374, which provid
 1998—Subsec. (c). Pub. L. 105–277, in introductory provisions, substituted “Broadcasting Board of Governors” for “Director of the United States Information Agency”, “Board begins” for “Agency begins”, and “Board shall” for “Director shall”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1016,7 +1016,7 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 Subsecs. (d), (f). Pub. L. 105–277, § 1324(3), substituted “the Broadcasting Board of Governors” for “the Director of the United States Information Agency”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1072,7 +1072,7 @@ Pub. L. 105–277, § 1324(3), which directed the substitution of “the Broadca
 1994—Pub. L. 103–236 substituted “of the Voice of America” for “and the Associate Director for Broadcasting of the United States Information Agency”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1130,7 +1130,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 Subsec. (c). Pub. L. 105–277, § 1325(2), in heading struck out “USIA” before “Television” and in text substituted “the ‘Television” for “ ‘USIA Television”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1188,7 +1188,7 @@ Subsec. (d). Pub. L. 101–246, § 245(a)(3), amended subsec. (d) generally. Pri
 Subsec. (e). Pub. L. 101–246, § 245(a)(4), substituted “The ex officio members” for “The ex officio member”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1231,7 +1231,7 @@ Subsec. (b). Pub. L. 105–277, § 1325(4)(C), substituted “Board facilities�
 Subsec. (c). Pub. L. 105–277, § 1325(3), (4)(D), in heading struck out “USIA” before “Authority”, and in text substituted “Board” for “Agency” in two places.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1257,7 +1257,7 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 Subsec. (b). Pub. L. 105–277, § 1324(2), substituted “Board” for “Agency” in two places.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1280,7 +1280,7 @@ Section was enacted as part of the Television Broadcasting to Cuba Act which com
 1998—Pub. L. 105–277 substituted “Broadcasting Board of Governors” for “United States Information Agency” and “the Board” for “the Agency”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1387,7 +1387,7 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 Subsec. (b). Pub. L. 105–277, § 1324(2), substituted “Board” for “Agency” in two places.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -1554,7 +1554,7 @@ Pub. L. 106–113, § 1000(a)(7) [div. A, title IV, § 404(a), (c)(1)], amended 
 1987—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date
 Section effective Oct. 1, 1979, and applicable only with respect to funds appropriated after Aug. 15, 1979, where new authorities provide for expenditure of appropriated funds, see section 209 of Pub. L. 96–60, set out as an Effective Date of 1979 Amendment note under [section 1471 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1471).
@@ -1646,7 +1646,7 @@ Pub. L. 96–60, title II, § 209, Aug. 15, 1979, 93 Stat. 402, provided that: �
 The Commission on Educational Exchange, created by [section 1466 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1466&num=0&edition=prelim), abolished pursuant to Pub. L. 87–256, § 111(a)(2), Sept. 21, 1961, 75 Stat. 538.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Contractor Requirements
 Pub. L. 100–204, title IV, § 403, Dec. 22, 1987, 101 Stat. 1381, provided that: “(a) Findings.—The Congress finds that the overriding national security aspects of the $1,300,000,000 facilities modernization program of the Voice of America require the assurance of uninterrupted logistic support under all circumstances for the program. Therefore, it is in the best interests of the United States to provide a preference for United States contractors bidding on the projects of this program. “(b) Responsive Bid.—A bid shall not be treated as a responsive bid for purposes of the facilities modernization program of the Voice of America unless the bidder can establish that the United States goods and services content, excluding consulting and management fees, of his proposal and the resulting contract will not be less than 55 percent of the value of his proposal and the resulting total contract. “(c) Preference for United States Contractors.—Notwithstanding any other provision of law, in any case where there are two or more qualified bidders on projects of the facilities modernization program of the Voice of America, including design and construction projects and projects with respect to transmitters, antennas, spare parts, and other technical equipment, all the responsive bids of United States persons and qualified United States joint venture persons shall be considered to be reduced by 10 percent. “(d) Exception.—“(1) Subsection (c) shall not apply with respect to any project of the facilities modernization program of the Voice of America when—“(A) precluded by the terms of an international agreement with the host foreign country; “(B) a foreign bidder can establish that he is a national of a country whose government permits United States contractors and suppliers the opportunity to bid on a competitive and nondiscriminatory basis with its national contractors and suppliers, on procurement and projects related to the construction, modernization, upgrading, or expansion of—“(i) its national public radio and television sector, or “(ii) its private radio and television sector, to the extent that such procurement or project is, in whole or in part, funded or otherwise under the control of a government agency or authority; or “(C) the Secretary of Commerce certifies (in advance of the award of the contract for that project) to the Director of the United States Information Agency that the foreign bidder is not receiving any direct subsidy from any government, the effect of which would be to disadvantage the competitive position of United States persons who also bid on the project; or “(D) the statutes of a host foreign country prohibit the use of United States contractors on such projects within that country. “(2) An exception under paragraph (1)(D) shall only become effective with respect to a foreign country 30 days after the Secretary of State certifies to the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate what specific actions the Secretary has taken to urge the foreign country to permit the use of United States contractors on such projects. “(d) [sic] Definitions.—For purposes of this section—“(1) the term ‘United States person’ means a person that—“(A) is incorporated or otherwise legally organized under the laws of the United States, including any State (and any political subdivision thereof) and the District of Columbia; “(B) has its principal place of business in the United States; “(C) has been incorporated or otherwise legally organized in the United States for more than 5 years before the issuance date of the Invitation For Bids or the Request For Proposals with respect to a modernization project under subsection (b); “(D) has proven, as indicated by prior contracting experience, to possess the technical, managerial, and financial capability to successfully complete a project similar in nature and technical complexity to that being contracted for; “(E)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States; “(ii) employs United States citizens in more than half of its permanent, full-time positions in the United States; and “(iii) will employ United States citizens in at least 80 percent of the supervisory positions on the modernization project site; and “(F) has the existing technical and financial resources in the United States to perform the contract; and “(2) the term ‘qualified United States joint venture person’ means a joint venture in which a United States person or persons own at least 51 percent of the assets of the joint venture. “(e) Effective Date.—The provisions of this section shall apply to any project with respect to which the Request For Proposals (commonly referred to as ‘RFP’) or the Invitation For Bids (commonly referred to as ‘IFB’) was issued after December 28, 1986.”
@@ -1706,7 +1706,7 @@ In subsec. (a)(2), “[section 6306 of title 41](https://uscode.house.gov/view.x
 1982—Pub. L. 97–241 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Transfer of Functions
 United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
@@ -1818,7 +1818,7 @@ Par. (20). Pub. L. 97–241, § 304(d), added par. (20).
 
 Par. (10). Pub. L. 96–60, § 204(b)(1), substituted “ten” for “five” years.
 
-Par. (14). Pub. L. 96–60, § 204(b)(3), substituted a semicolon for “, when funds are appropriated therefor.”.
+Par. (14). Pub. L. 96–60, § 204(b)(3), substituted a semicolon for “, when funds are appropriated therefor.”
 
 Pars. (15) to (19). Pub. L. 96–60, § 204(b)(4), added pars. (15) to (19).
 
@@ -1970,7 +1970,7 @@ Subsec. (c). Pub. L. 105–277, § 1335(a)(5)(A), substituted “overseas public
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
 
 #### Guidance for Closure of Public Diplomacy Facilities
-Pub. L. 117–81, div. E, title LVI, § 5606, Dec. 27, 2021, 135 Stat. 2379, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of State shall adopt, and include in the Foreign Affairs Manual, guidelines to collect and utilize information from each diplomatic post at which the construction of a new embassy compound or new consulate compound would result in the closure or co-location of an American Space, American Center, American Corner, or any other public diplomacy facility under the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI]] ([22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865) et seq.) [sic, see Short Title of 1999 Amendment note set out under [section 4801 of this title](./chapter-058-diplomatic-security.md#section-4801)]. “(b) Requirements.—The guidelines required by subsection (a) shall include the following:“(1) Standardized notification to each chief of mission at a diplomatic post describing the requirements of the Secure Embassy Construction and Counterterrorism Act of 1999 and the impact on the mission footprint of such requirements. “(2) An assessment and recommendations from each chief of mission of potential impacts to public diplomacy programming at such diplomatic post if any public diplomacy facility referred to in subsection (a) is closed or staff is co-located in accordance with such Act. “(3) A process by which assessments and recommendations under paragraph (2) are considered by the Secretary and the appropriate Under Secretaries and Assistant Secretaries of the Department. “(4) Notification to the appropriate congressional committees, prior to the initiation of a new embassy compound or new consulate compound design, of the intent to close any such public diplomacy facility or co-locate public diplomacy staff in accordance with such Act. “(c) Report.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report containing the guidelines required under subsection (a) and any recommendations for any modifications to such guidelines.”
+Pub. L. 117–81, div. E, title LVI, § 5606, Dec. 27, 2021, 135 Stat. 2379, as amended by Pub. L. 117–263, div. I, title XCIII, § 9301(e)(1), Dec. 23, 2022, 136 Stat. 3881, provided that: “(a) In General.—In order to preserve public diplomacy facilities that are accessible to the publics of foreign countries, not later than 180 days after the date of the enactment of the Secure Embassy Construction and Counterterrorism Act of 2022 [Dec. 23, 2022], the Secretary of State shall adopt guidelines to collect and utilize information from each diplomatic post at which the construction of a new embassy compound or new consulate compound could result in the closure or co-location of an American Space that is owned and operated by the United States Government, generally known as an American Center, or any other public diplomacy facility under the Secure Embassy Construction and Counterterrorism Act of 1999 [Pub. L. 106–113, div. B, § 1000(a)(7) [div. A, title VI]] ([22 U.S.C. 4865](./chapter-058-diplomatic-security.md#section-4865) et seq.) [sic, see Short Title of 1999 Amendment note set out under [section 4801 of this title](./chapter-058-diplomatic-security.md#section-4801)]. “(b) Requirements.—The guidelines required by subsection (a) shall include the following:“(1) Standardized notification to each chief of mission at a diplomatic post describing the requirements of the Secure Embassy Construction and Counterterrorism Act of 1999 and the impact on the mission footprint of such requirements. “(2) An assessment and recommendations from each chief of mission of potential impacts to public diplomacy programming at such diplomatic post if any public diplomacy facility referred to in subsection (a) is closed or staff is co-located in accordance with such Act. “(3) A process by which assessments and recommendations under paragraph (2) are considered by the Secretary and the appropriate Under Secretaries and Assistant Secretaries of the Department. “(4) Notification to the appropriate congressional committees, prior to the initiation of a new embassy compound or new consulate compound design, of the intent to close any such public diplomacy facility or co-locate public diplomacy staff in accordance with such Act. “(c) Report.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report containing the guidelines required under subsection (a) and any recommendations for any modifications to such guidelines.”
 
 [For definitions of “Department” and “appropriate congressional committees” as used in section 5606 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).]
 

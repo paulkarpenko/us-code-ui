@@ -685,7 +685,7 @@ The terms used in paragraph (1) that are not defined in this chapter or otherwis
 ### Statutory Notes
 
 #### References in Text
-The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(3), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
 
 #### Amendments
 1991—Subsec. (a). Pub. L. 102–242, § 212(h)(2), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act ([12 U.S.C. 1813(s)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/s&num=0&edition=prelim)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 ([12 U.S.C. 3101](./chapter-032-foreign-bank-participation-in-domestic-markets.md#section-3101)).”

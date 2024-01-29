@@ -208,9 +208,12 @@ Section (3)(16) of the Employee Retirement Income Security Act of 1974, referred
 #### Amendments
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in first par.
 
-1974—Pub. L. 93–406 substituted “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act, as amended” and “sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974” for “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended”.
+1974—Pub. L. 93–406, § 112(a)(2)(C), formerly § 111(a)(2)(C), as renumbered by Pub. L. 117–328, substituted “any employee welfare benefit plan or employee pension benefit plan, respectively, subject to any provision of title I of the Employee Retirement Income Security Act of 1974” for “any such plan subject to the provisions of the Welfare and Pension Plans Disclosure Act, as amended” and “sections 3(4) and (3)(16) of the Employee Retirement Income Security Act of 1974” for “sections 3(3) and 5(b)(1) and (2) of the Welfare and Pension Plans Disclosure Act, as amended”.
 
 1970—Pub. L. 91–452 struck out letter designation “(a)” preceding first sentence and struck out subsec. (b) which related to the immunity from prosecution of any witness compelled to testify or produce evidence after claiming his privilege against self-incrimination. See section 6001 et seq. of this title.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as a note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 1974 Amendment
 Amendment by Pub. L. 93–406 effective Jan. 1, 1975, except as provided in [section 1031(b)(2) of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1031/b/2&num=0&edition=prelim), Labor, see [section 1031 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1031&num=0&edition=prelim).
@@ -445,6 +448,8 @@ Offices of collector of customs, comptroller of customs, surveyor of customs, an
 
 (3) For purposes of this section, a transfer of funds from 1 place to another, by wire or any other means, shall constitute a single, continuing transaction. Any person who conducts (as that term is defined in subsection (c)(2)) any portion of the transaction may be charged in any district in which the transaction takes place.
 
+**(j) Seven-year Limitation.—** Notwithstanding section 3282, no person shall be prosecuted, tried, or punished for a violation of this section or section 1957 if the specified unlawful activity constituting the violation is the activity defined in subsection (c)(7)(B) of this section, unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
+
 ### Statutory Notes
 
 #### References in Text
@@ -489,6 +494,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 2022—Subsec. (c)(7)(D). Pub. L. 117–159 substituted “section 924(n), 932, or 933” for “section 924(n)”.
+
+Subsec. (j). Pub. L. 117–263 added subsec. (j).
 
 2016—Subsec. (c)(7)(D). Pub. L. 114–122 substituted “section 92 of” for “or section 92 of” and inserted at end “, or section 104(a) of the North Korea Sanctions Enforcement Act of 2016 (relating to prohibited activities with respect to North Korea);”.
 
@@ -638,7 +645,7 @@ Pub. L. 101–647, § 1404(a)(2), inserted “; or” after “Trading with the 
 
 Pub. L. 101–647, § 107, substituted “a felony violation of the Chemical Diversion and Trafficking Act of 1988” for “section 310 of the Controlled Substances Act ([21 U.S.C. 830](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section830&num=0&edition=prelim))”.
 
-Subsec. (c)(7)(E). Pub. L. 101–647, § 1404(a)(2), amended par. (7) by inserting “; or” and subpar. (E) before the period.
+Subsec. (c)(7)(E). Pub. L. 101–647, § 1404(a)(2), inserted heading and added subpar. (E).
 
 Subsec. (c)(8). Pub. L. 101–647, § 1205(j), added par. (8).
 
@@ -657,6 +664,9 @@ Pub. L. 100–690, § 6466, inserted “section 542 (relating to entry of goods 
 Pub. L. 100–690, § 6183, substituted “section 38(c) (relating to criminal violations) of the Arms Export Control Act, section 11 (relating to violations) of the Export Administration Act of 1979, section 206 (relating to penalties) of the International Emergency Economic Powers Act, or section 16 (relating to offenses and punishment) of the Trading with the Enemy Act.” for “section 38 of the Arms Export Control Act ([22 U.S.C. 2778](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2778&num=0&edition=prelim)), section 2 (relating to criminal penalties) of the Export Administration Act of 1979 (50 U.S.C. App. 2401), section 203 (relating to criminal sanctions) of the International Emergency Economic Powers Act ([50 U.S.C. 1702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1702&num=0&edition=prelim)), or section 3 (relating to criminal violations) of the Trading with the Enemy Act (50 U.S.C. App. 3)”.
 
 Subsec. (e). Pub. L. 100–690, § 6469(a)(1), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. E, title LIX, § 5904(b), Dec. 23, 2022, 136 Stat. 3441, provided that: “The amendments made by this section [amending this section] shall apply to— “(1) conduct that occurred before the date of enactment of this Act [Dec. 23, 2022] for which the applicable statute of limitations has not expired; and “(2) conduct that occurred on or after the date of enactment of this Act.”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.

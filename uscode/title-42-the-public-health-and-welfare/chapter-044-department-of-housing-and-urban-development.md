@@ -2,7 +2,7 @@
 title: 42
 chapter: '44'
 heading: DEPARTMENT OF HOUSING AND URBAN DEVELOPMENT
-section_count: 27
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -679,7 +679,7 @@ Amendment by Pub. L. 90–448 effective from and after a date, no more than 120 
 Pub. L. 105–276, title V, § 591, Oct. 21, 1998, 112 Stat. 2652, provided that: “(a) In General.—Not later than 12 months after the date of the enactment of this Act [Oct. 21, 1998], the Inspector General of the Department of Housing and Urban Development shall submit to the Congress a report, which shall include information relating to—“(1) with respect to 1- to 4-family dwellings owned by the Department of Housing and Urban Development, on a monthly average basis—“(A) the total number of units in those dwellings; “(B) the number and percentage of units in those dwellings that are unoccupied, and their average period of vacancy, and the number and percentage of units in those dwellings that have been unoccupied for more than 1 year, as of that date; and “(C) the number and percentage of units in those projects that are determined by the Inspector General to be substandard, based on any—“(i) lack of hot or cold piped water; “(ii) lack of working toilets; “(iii) regular and prolonged breakdowns in heating; “(iv) dangerous electrical problems; “(v) unsafe hallways or stairways; “(vi) leaking roofs, windows, or pipes; “(vii) open holes in walls and ceilings; and “(viii) indications of rodent infestation; and “(2) with respect to multifamily housing projects (as that term is defined in section 203 of the Housing and Community Development Amendments of 1978 [[12 U.S.C. 1701z–11](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701z–11&num=0&edition=prelim)]) owned by the Department of Housing and Urban Development on a monthly average basis—“(A) the total number of units in those projects; “(B) the number and percentage of units in those projects that are unoccupied, and their average period of vacancy, and the number and percentage of units in those projects that have been unoccupied for more than 1 year, as of that date; and “(C) the number and percentage of units in those projects that are determined by the Inspector General to be substandard, based on any—“(i) lack of hot or cold piped water; “(ii) lack of working toilets; “(iii) regular and prolonged breakdowns in heating; “(iv) dangerous electrical problems; “(v) unsafe hallways or stairways; “(vi) leaking roofs, windows, or pipes; “(vii) open holes in walls and ceilings; and “(viii) indications of rodent infestation; and “(3) the Department’s plans and operations to address vacancies and substandard physical conditions described in paragraphs (1) and (2). “(b) Effective Date.—This section shall take effect on the date of the enactment of this Act [Oct. 21, 1998].”
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -905,6 +905,17 @@ Office of Emergency Preparedness [formerly Office of Emergency Planning], includ
 
 #### Delegation of Functions
 Functions of President under Disaster Relief Act of 1970 delegated to Secretary of Homeland Security by section 4–201 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under [section 5195 of this title](./chapter-068-disaster-relief.md#section-5195). Sections 5–112 and 5–113 of Ex. Ord. No. 12148, revoked Ex. Ord. Nos. 11725 and 11749, respectively, which had previously transferred President’s functions under Disaster Relief Act of 1970 to Secretary of Housing and Urban Development. See Transfer of Functions note above.
+
+
+<a id="section-3539a"></a>
+## § 3539a. Department of Housing and Urban Development Nonrecurring Expenses Fund
+
+There is hereby established in the Treasury of the United States a fund to be known as the “Department of Housing and Urban Development Nonrecurring Expenses Fund” (the Fund): Provided, That unobligated balances of expired discretionary funds appropriated for this or any succeeding fiscal year from the General Fund of the Treasury to the Department of Housing and Urban Development by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which they were appropriated) into the Fund: Provided further, That amounts deposited in the Fund shall be available until expended, in addition to such other funds as may be available for such purposes, for capital needs of the Department, including facilities infrastructure and information technology infrastructure, subject to approval by the Office of Management and Budget: Provided further, That amounts in the Fund may be obligated only after the House and Senate Committees on Appropriations are notified at least 15 days in advance of the planned use of funds.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Department of Housing and Urban Development Appropriations Act, 2024, and also as part of the Consolidated Appropriations Act, 2024, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 
 
 <a id="section-3540"></a>
@@ -1268,6 +1279,10 @@ Section was enacted as part of the appropriation act cited as the credit to this
 
 #### Similar Provisions
 Provisions similar to those in this section were contained in the following appropriation acts:
+
+Pub. L. 118–42, div. F, title II, § 216, Mar. 9, 2024, 138 Stat. 378.
+
+Pub. L. 117–328, div. L, title II, § 216, Dec. 29, 2022, 136 Stat. 5175.
 
 Pub. L. 117–103, div. L, title II, § 216, Mar. 15, 2022, 136 Stat. 759.
 

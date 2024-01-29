@@ -454,7 +454,7 @@ In subsection (b), before clause (1), the words “shipper, consignor, consignee
 
 (3) an individual who is at least 65 years of age.
 
-(4) an individual who has severely impaired vision or hearing or another physical or mental handicap and an accompanying attendant needed by that individual.
+(4) an individual who has severely impaired vision or hearing or another physical or mental disability and an accompanying attendant needed by that individual.
 
 ### Statutory Notes
 
@@ -473,3 +473,6 @@ In subsection (a)(7), the words “or other emergency” are substituted for “
 In subsection (b)(2), the words “no longer gainfully employed” are substituted for “retired” and “For purposes of this subsection, the term ‘retired’ means no longer gainfully employed as defined by the Board” to eliminate unnecessary words.
 
 In subsection (b)(4), the words “an individual who has severely impaired vision or hearing or another physical or mental handicap” are substituted for “handicapped person” and “For the purposes of this subsection, the term ‘handicapped person’ means any person who has severely impaired vision or hearing, and any other physically or mentally handicapped person, as defined by the Board” to eliminate unnecessary words.
+
+#### Amendments
+2024—Subsec. (b)(4). Pub. L. 118–63 substituted “disability” for “handicap”.

@@ -42,7 +42,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-3452"></a>
@@ -256,6 +256,9 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings provision, see section 836(h) of Pub. L. 115–232, set out as an Effective Date of 2018 Amendment; Savings Provision note under [section 453b of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section453b&num=0&edition=prelim), Domestic Security.
 
+#### Increase in Air Force and Navy Use of Used Commercial Dual-Use Parts in Certain Aircraft and Engines
+Pub. L. 117–263, div. A, title I, § 161, Dec. 23, 2022, 136 Stat. 2461, provided that: “(a) In General.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of the Air Force, with respect to the Air Force, and the Secretary of the Navy, with respect to the Navy, shall develop and implement processes and procedures for—“(1) the acquisition of used, overhauled, reconditioned, and remanufactured commercial dual-use parts; and “(2) the use of such commercial dual-use parts in all—“(A) commercial derivative aircraft and engines; and “(B) aircraft used by the Air Force or Navy that are based on the design of commercial products. “(b) Procurement of Parts.—The processes and procedures implemented under subsection (a) shall provide that commercial dual-use parts shall be acquired—“(1) pursuant to competitive procedures (as defined in [section 3012 of title 10](./chapter-201-definitions.md#section-3012), United States Code); and “(2) only from suppliers that provide parts that possess an Authorized Release Certificate Federal Aviation Administration Form 8130-3 Airworthy Approval Tag from a certified repair station pursuant to part 145 of title 14, Code of Federal Regulations. “(c) Definitions.—In this section:“(1) Commercial derivative.—The term ‘commercial derivative’ means an item procured by the Department of Defense that is or was produced using the same or similar production facilities, a common supply chain, and the same or similar production processes that are used for the production of the item as predominantly used by the general public or by nongovernmental entities for purposes other than governmental purposes. “(2) Commercial dual-use part.—The term ‘commercial dual-use part’ means a product that is—“(A) a commercial product; “(B) dual-use; “(C) described in subsection (b)(2); and “(D) not a life-limited part. “(3) Commercial product.—The term ‘commercial product’ has the meaning given such term in [section 103 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103&num=0&edition=prelim), United States Code. “(4) Dual-use.—The term ‘dual-use’ has the meaning given such term in [section 4801 of title 10](./chapter-381-defense-industrial-base-generally.md#section-4801), United States Code.”
+
 #### Use of Commercial Items in Distributed Common Ground Systems
 Pub. L. 115–91, div. A, title XVI, § 1698, Dec. 12, 2017, 131 Stat. 1794, provided that: “(a) In General.—The procurement process for each covered Distributed Common Ground System shall be carried out in accordance with [section 2377 of title 10](./chapter-chapter-140-chapter-chapter-140.md#section-2377), United States Code [now [10 U.S.C. 3453](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3453)]. “(b) Certification.—Not later than 30 days after the date of the enactment of this Act [Dec. 12, 2017], the service acquisition executive responsible for each covered Distributed Common Ground System shall certify to the appropriate congressional committees that the procurement process for increments of the system procured after the date of the enactment of this Act will be carried out in accordance with [section 2377 of title 10](./chapter-chapter-140-chapter-chapter-140.md#section-2377), United States Code [now [10 U.S.C. 3453](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3453)]. “(c) Definitions.—In this section:“(1) The term ‘appropriate congressional committees’ means—“(A) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(B) the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives. “(2) The term ‘covered Distributed Common Ground System’ includes the following:“(A) The Distributed Common Ground System of the Army. “(B) The Distributed Common Ground System of the Navy. “(C) The Distributed Common Ground System of the Marine Corps. “(D) The Distributed Common Ground System of the Air Force. “(E) The Distributed Common Ground System of the Special Operations Forces.”
 
@@ -290,11 +293,33 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 
 (2) the congressional defense committees are notified at least 30 days before such treatment or purchase occurs.
 
-**(b) Treatment of Subsystems as Commercial Products.—** A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in [section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)) shall be treated as a commercial product and purchased under procedures established for the procurement of commercial products if either—
+**(b) Treatment of Subsystems as Commercial Products.—**
 
-(1) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (a); or
+(1) A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in [section 104 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section104&num=0&edition=prelim)) shall be treated as a commercial product and purchased under procedures established for the procurement of commercial products if either—
 
-(2) the contracting officer determines in writing that the subsystem is a commercial product.
+  (A) the subsystem is intended for a major weapon system that is being purchased, or has been purchased, under procedures established for the procurement of commercial products in accordance with the requirements of subsection (a); or
+
+  (B) the contracting officer determines in writing that the subsystem is a commercial product.
+
+(2)
+
+  (A) For a subsystem proposed as commercial (as defined in [section 103(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim)) and that has not been previously determined commercial in accordance with [section 3703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3703/d&num=0&edition=prelim), the offeror shall—
+
+    (i) identify the comparable commercial product the offeror sells to the general public or nongovernmental entities that serves as the basis for the “of a type” assertion;
+
+    (ii) submit to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the subsystem and the comparable commercial product identified under clause (i); and
+
+    (iii) provide to the contracting officer the National Stock Number for both the comparable commercial product identified under clause (i), if one is assigned, and the subsystem, if one is assigned.
+
+  (B) If the offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than governmental purposes that can serve as the basis for an “of a type” assertion with respect to the subsystem—
+
+    (i) the offeror shall—
+
+      (I) notify the contracting officer in writing that it does not so sell such a comparable commercial product; and
+
+      (II) provide to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the subsystem and the most comparable commercial product in the commercial marketplace, to the extent reasonably known by the offeror; and
+
+    (ii) subparagraph (A) shall not apply with respect to the offeror for such subsystem.
 
 **(c) Treatment of Components and Spare Parts as Commercial Products.—**
 
@@ -308,33 +333,65 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 
   (B) the contracting officer determines in writing that the component or spare part is a commercial product.
 
-(2) This subsection shall apply only to components and spare parts that are acquired by the Department of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).
+(2)
 
-**(d) Information Submitted.—**
+  (A) For a component or spare part proposed as commercial (as defined in [section 103(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim)) and that has not previously been determined commercial in accordance with [section 3703(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3703/d&num=0&edition=prelim), the offeror shall—
 
-(1) To the extent necessary to determine the reasonableness of the price for items acquired under this section, the contracting officer shall require the offeror to submit—
+    (i) identify the comparable commercial product the offeror sells to the general public or nongovernmental entities that serves as the basis for the “of a type” assertion;
 
-  (A) prices paid for the same or similar commercial products under comparable terms and conditions by both Government and commercial customers;
+    (ii) submit to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the component or spare part and the comparable commercial product identified under clause (i); and
 
-  (B) if the contracting officer determines that the offeror does not have access to and cannot provide sufficient information described in subparagraph (A) to determine the reasonableness of price, information on—
+    (iii) provide to the contracting officer the National Stock Number for both the comparable commercial product identified under clause (i), if one is assigned, and the component or spare part, if one is assigned.
 
-    (i) prices for the same or similar items sold under different terms and conditions;
+  (B) If the offeror does not sell a comparable commercial product to the general public or nongovernmental entities for purposes other than governmental purposes that can serve as the basis for an “of a type” assertion with respect to the component or spare part—
 
-    (ii) prices for similar levels of work or effort on related products or services;
+    (i) the offeror shall—
 
-    (iii) prices for alternative solutions or approaches; and
+      (I) notify the contracting officer in writing that it does not so sell such a comparable commercial product; and
 
-    (iv) other relevant information that can serve as the basis for a price assessment; and
+      (II) provide to the contracting officer a comparison necessary to serve as the basis of the “of a type” assertion of the physical characteristics and functionality between the component or spare part and the most comparable commercial product in the commercial marketplace, to the extent reasonably known by the offeror; and
 
-  (C) if the contracting officer determines that the information submitted pursuant to subparagraphs (A) and (B) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
+    (ii) subparagraph (A) shall not apply with respect to the offeror for such component or spare part.
+
+**(d) Information Submitted for Procurements That Are Not Covered by the Exceptions in Section 3703(a)(1) of This Title.—**
+
+(1) To the extent necessary to determine the reasonableness of the price for items acquired under this section, the offeror shall, in accordance with paragraph (4), submit to the contracting officer or provide the contracting officer access to—
+
+  (A) a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products under comparable terms and conditions by both Government and commercial customers, and the terms and conditions of such sales;
+
+  (B) if the contracting officer determines that the offeror does not have access to and cannot provide sufficient information described in subparagraph (A) to determine the reasonableness of price, a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products sold under different terms and conditions, and the terms and conditions of such sales; and
+
+  (C) only if the contracting officer determines that the information submitted pursuant to subparagraphs (A) and (B) is not sufficient to determine the reasonableness of price because either the comparable commercial products provided by the offeror are not a valid basis for a price analysis or the contracting officer determines the proposed price is not reasonable after evaluating sales data, and the contracting officer receives the approval described in paragraph (5), other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
 (2) An offeror may submit information or analysis relating to the value of a commercial product to aid in the determination of the reasonableness of the price of such item. A contracting officer may consider such information or analysis in addition to the information submitted pursuant to paragraphs (1)(A) and (1)(B).
 
 (3) An offeror may not be required to submit information described in paragraph (1)(C) with regard to a commercially available off-the-shelf item and may be required to submit such information with regard to any other item that was developed exclusively at private expense only after the head of the contracting activity determines in writing that the information submitted pursuant to paragraphs (1)(A) and (1)(B) is not sufficient to determine the reasonableness of price.
 
+(4)
+
+  (A) An offeror may redact data information submitted or made available under subparagraph (A) or (B) of paragraph (1) with respect to sales of an item acquired under this section only to the extent necessary to remove information individually identifying government customers, commercial customers purchasing such item for governmental purposes, and commercial customers purchasing such item for commercial, mixed, or unknown purposes.
+
+  (B) Before an offeror may exercise the authority under subparagraph (A) with respect to a customer, the offeror shall certify in writing to the contracting officer whether the customer is a government customer, a commercial customer purchasing the item for governmental purpose, or a commercial customer purchasing the item for a commercial, mixed, or unknown purpose.
+
+(5) A contracting officer may not require an offeror to submit or make available information under paragraph (1)(C) without approval from a level above the contracting officer.
+
+(6) Nothing in this subsection shall relieve an offeror of other obligations under any other law or regulation to disclose and support the actual rationale of the offeror for the price proposed by the offeror to the Government for any good or service.
+
 **(e) Delegation.—** The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
 
 **(f) Major Weapon System Defined.—** In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in section 2430 11 See References in Text note below. of this title).
+
+**(g) Applicability.—**
+
+(1) **In general.—** — Subsections (b) and (c) shall apply only with respect to subsystems described in subsection (b) and components or spare parts described in subsection (c), respectively, that the Department of Defense acquires through—
+
+  (A) a prime contract;
+
+  (B) a modification to a prime contract; or
+
+  (C) a subcontract described in paragraph (2).
+
+(2) **Subcontract described.—** — A subcontract described in this paragraph is a subcontract through which the Department of Defense acquires a subsystem or component or spare part proposed as commercial (as defined in [section 103(1) of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section103/1&num=0&edition=prelim)) under this section and that has not previously been determined commercial in accordance with section 3703(d).
 
 ### Statutory Notes
 
@@ -342,6 +399,32 @@ Pub. L. 110–181, div. A, title VIII, § 826(b), Jan. 28, 2008, 122 Stat. 228, 
 [Section 2430 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2430), referred to in subsec. (f), was transferred to sections 4201, 4202, and 4204 of this title by Pub. L. 116–283, div. A, title XVIII, § 1846(c)(1), (d)(1), (f)(1), Jan. 1, 2021, 134 Stat. 4248–4250. [Section 4201 of this title](./chapter-321-general-matters.md#section-4201) defines “major defense acquisition program”.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263, § 803(a), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
+
+Subsec. (c)(2). Pub. L. 117–263, § 803(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “This subsection shall apply only to components and spare parts that are acquired by the Department of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).”
+
+Subsec. (d). Pub. L. 117–263, § 803(c)(1), inserted “for Procurements That Are Not Covered by the Exceptions in Section 3703(a)(1) of This Title” after “Submitted” in heading.
+
+Subsec. (d)(1). Pub. L. 117–263, § 803(c)(2)(A), in introductory provisions, substituted “the offeror shall, in accordance with paragraph (4), submit to the contracting officer or provide the contracting officer access to—” for “the contracting officer shall require the offeror to submit—”.
+
+Subsec. (d)(1)(A). Pub. L. 117–263, § 803(c)(2)(B), inserted “a representative sample, as determined by the contracting officer, of the” before “prices paid” and “, and the terms and conditions of such sales” before semicolon at end.
+
+Subsec. (d)(1)(B). Pub. L. 117–263, § 803(c)(2)(C), substituted “a representative sample, as determined by the contracting officer, of the prices paid for the same or similar commercial products sold under different terms and conditions, and the terms and conditions of such sales; and” for “information on—
+
+“(i) prices for the same or similar items sold under different terms and conditions;
+
+“(ii) prices for similar levels of work or effort on related products or services;
+
+“(iii) prices for alternative solutions or approaches; and
+
+“(iv) other relevant information that can serve as the basis for a price assessment; and”.
+
+Subsec. (d)(1)(C). Pub. L. 117–263, § 803(c)(2)(D), inserted “only” before “if the contracting officer” and “because either the comparable commercial products provided by the offeror are not a valid basis for a price analysis or the contracting officer determines the proposed price is not reasonable after evaluating sales data, and the contracting officer receives the approval described in paragraph (5)” after “reasonableness of price”.
+
+Subsec. (d)(4) to (6). Pub. L. 117–263, § 803(c)(3), added pars. (4) to (6).
+
+Subsec. (g). Pub. L. 117–263, § 803(d), added subsec. (g).
+
 2021—Pub. L. 116–283, § 1821(a)(2), renumbered [section 2379 of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2379) as this section.
 
 Subsec. (c)(1). Pub. L. 116–283, § 1831(j)(4), which directed amendment of this section by substituting “sections 3701–3708” for “section 2306a” and could not be executed, was repealed by Pub. L. 117–81, § 1701(b)(10)(I)(ii).
@@ -426,7 +509,7 @@ Pub. L. 109–163, div. A, title VIII, § 803(b), Jan. 6, 2006, 119 Stat. 3371, 
 
   (B) consider the views of appropriate public and private sector entities.
 
-(2) **Memorandum.—** — Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification for such determination.
+(2) **Memorandum.—** — Within 30 days after a contract award, the contracting officer shall, consistent with the policies and regulations of the Department, submit a written memorandum summarizing the determination referred to in paragraph (1), including a detailed justification why the product or service was determined to be commercial or noncommercial. Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.
 
 **(c) Items Previously Acquired Using Commercial Acquisition Procedures.—**
 
@@ -445,6 +528,8 @@ Pub. L. 109–163, div. A, title VIII, § 803(b), Jan. 6, 2006, 119 Stat. 3371, 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b)(2). Pub. L. 118–31 substituted “why the product or service was determined to be commercial or noncommercial” for “for such determination” and inserted at end “Upon the request of the contractor or subcontractor offering the product or service for which such determination is summarized in such memorandum, the contracting officer shall provide to such contractor or subcontractor a copy of such memorandum.”
+
 2021—Pub. L. 116–283, § 1821(a)(2), renumbered [section 2380 of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2380) as this section.
 
 Subsec. (b). Pub. L. 116–283, § 816(2), added subsec. (b). Former subsec. (b) redesignated (c).
@@ -563,7 +648,7 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 
 (1) The Secretary may not enter into a contract or agreement in excess of $100,000,000 using the authority under subsection (a) without a written determination from the Under Secretary of Defense for Acquisition and Sustainment or the relevant service acquisition executive of the efficacy of the effort to meet mission needs of the Department of Defense or the relevant military department.
 
-(2) Contracts or agreements entered into using the authority under subsection (a) shall be fixed-price, including fixed-price incentive fee contracts.
+(2) Contracts or agreements entered into using the authority under subsection (a) shall be fixed-price, including fixed-price incentive contracts.
 
 (3) Notwithstanding [section 3451(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3451/1&num=0&edition=prelim), products and services acquired using the authority under subsection (a) shall be treated as commercial products and commercial services.
 
@@ -590,6 +675,8 @@ Amendment by Pub. L. 115–232 effective Jan. 1, 2020, subject to a savings prov
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c)(2). Pub. L. 117–263 substituted “fixed-price incentive contracts” for “fixed-price incentive fee contracts”.
+
 2021—Pub. L. 117–81, § 803(b)(1), renumbered [section 2380c of this title](./chapter-chapter-140-chapter-chapter-140.md#section-2380c) as this section.
 
 Subsec. (b). Pub. L. 117–81, § 803(b)(3)(A), substituted “chapter 221” for “chapter 137”.
@@ -598,6 +685,9 @@ Subsec. (c)(3). Pub. L. 117–81, § 803(b)(3)(B), substituted “section 3451(1
 
 #### Effective Date of 2021 Amendment
 Pub. L. 117–81, div. A, title VIII, § 803(b)(4), Dec. 27, 2021, 135 Stat. 1816, provided that: “The transfer, redesignation, and amendments made by this subsection [amending this section and repealing provisions set out as a note under [section 2302 of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2302)] shall take [sic] as if included in title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283).”
+
+#### Focused Commercial Solutions Openings Opportunities
+Pub. L. 118–31, div. A, title VIII, § 813, Dec. 22, 2023, 137 Stat. 325, provided that: “(a) Requirement.—During each fiscal year beginning after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Defense, in coordination with the service acquisition executives of each military department, shall exercise the authority under [section 3458 of title 10](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458), United States Code, not less than four times to acquire goods or services addressing the mission needs of a geographic combatant command. “(b) Execution.—With respect to acquisition carried out under [section 3458 of title 10](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458), United States Code, pursuant to subsection (a), the Secretary of Defense shall—“(1) assign the responsibility for carrying out such acquisition to a program executive officer and a head of a science and technology reinvention laboratory from the same military department, who shall co-lead such acquisition; and “(2) ensure that the program executive officer and the head of a science and technology reinvention laboratory assigned as co-leads under paragraph (1) have similar existing requirements and funding for transitioning technologies to acquisition programs within the area of focus for such acquisition. “(c) Sunset.—Subsection (a) shall expire on September 30, 2027. “(d) Definitions.—In this section:“(1) The terms ‘military department’ and ‘services acquisition executive’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code. “(2) The term ‘program executive officer’ has the meaning given such term in [section 1737(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1737/a&num=0&edition=prelim), United States Code. “(3) The term ‘science and technology reinvention laboratory’ means a science and technology reinvention laboratory designated under [section 4121(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4121/b&num=0&edition=prelim), United States Code.”
 
 #### Data Collection
 Pub. L. 117–81, div. A, title VIII, § 803(a)(3), Dec. 27, 2021, 135 Stat. 1815, provided that: “(A) In general.—The Secretary of Defense and each Secretary of a military department shall collect and analyze data on the use of the authority under [section 2380c of title 10](./chapter-chapter-140-chapter-chapter-140.md#section-2380c), United States Code [now [10 U.S.C. 3458](./chapter-247-procurement-of-commercial-products-and-commercial-services.md#section-3458)], as added by paragraph (1), for the purposes of—“(i) developing and sharing best practices for achieving the objectives of the authority; “(ii) gathering information on the implementation of the authority and related policy issues; and “(iii) informing the congressional defense committees on the use of the authority. “(B) Plan required.—The authority under section 2380c [now 3458] of title 10, United States Code, as added by paragraph (1), may not be exercised by the Secretary of Defense or any Secretary of a military department during the period beginning on October 1, 2022, and ending on the date on which the Secretary of Defense submits to the congressional defense committees a completed plan for carrying out the data collection required under paragraph (1). “(C) Congressional defense committees; military department defined.—In this paragraph, the terms ‘congressional defense committees’ and ‘military department’ have the meanings given such terms in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim), United States Code.”

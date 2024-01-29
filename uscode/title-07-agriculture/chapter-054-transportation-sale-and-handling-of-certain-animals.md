@@ -488,6 +488,9 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under [section 2131 of this title](./chapter-054-transportation-sale-and-handling-of-certain-animals.md#section-2131).
 
+#### Compliance With Animal Welfare Act
+Pub. L. 117–328, div. A, title VII, § 750, Dec. 29, 2022, 136 Stat. 4505, provided that: “In this fiscal year [fiscal year 2023] and thereafter, and notwithstanding any other provision of law, ARS facilities as described in the ‘Memorandum of Understanding Between the U.S. Department of Agriculture Animal and Plant Health Inspection Service (APHIS) and the U.S. Department of Agriculture Agricultural Research Service (ARS) Concerning Laboratory Animal Welfare’ (16–6100–0103–MU Revision 16–1) shall be inspected by APHIS for compliance with the Animal Welfare Act [[7 U.S.C. 2131](./chapter-054-transportation-sale-and-handling-of-certain-animals.md#section-2131) et seq.] and its regulations and standards.”
+
 
 <a id="section-2145"></a>
 ## § 2145. Consultation and cooperation with Federal, State, and local governmental bodies by Secretary of Agriculture
@@ -555,6 +558,9 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 #### Effective Date of 1970 Amendment
 Amendment by Pub. L. 91–579 effective 30 days after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under [section 2131 of this title](./chapter-054-transportation-sale-and-handling-of-certain-animals.md#section-2131).
 
+#### Non-recording of Observed Violations of Animal Welfare Act
+Pub. L. 117–328, div. A, title VII, § 756, Dec. 29, 2022, 136 Stat. 4506, provided that: “Hereafter, none of the funds made available by this Act [div. A of Pub. L. 117–328, see Tables for classification] or any other Act, may be used to pay the salaries or expenses of personnel to implement any activities related to the permitting of non-recording of observed violations of the Animal Welfare Act or its regulations on official inspection reports.”
+
 
 <a id="section-2146a"></a>
 ## § 2146a. Searchable database requirements
@@ -584,7 +590,7 @@ The Horse Protection Act, referred to in subsec. (b)(2), is Pub. L. 91–540, De
 Section was enacted as part of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2020, and also as part of the Further Consolidated Appropriations Act, 2020, and not as part of the Animal Welfare Act which comprises this chapter.
 
 #### Amendments
-2022—Subsec. (b). Pub. L. 117–103 amended subsec. (b) generally. Prior to amendment, text read as follows: “hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
+2022—Subsec. (b). Pub. L. 117–103 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “hereafter, make publicly available via searchable database, in their entirety without redactions except signatures, the following records after enactment of this Act for a subsequent period of three years:
 
 “(1) all final Animal Welfare Act inspection reports, including all reports documenting all Animal Welfare Act non-compliances observed by USDA officials and all animal inventories;
 

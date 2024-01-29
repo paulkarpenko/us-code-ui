@@ -228,15 +228,15 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) **Minutes** — Minutes of each meeting of the advisory group shall be kept by the Secretary and shall be made available to the public.
 
-**(c) Exemption from Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+**(c) Exemption from chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the advisory group.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 9 of Pub. L. 103–391 was renumbered section 10 and is classified to [section 5306 of this title](./chapter-073-rhinoceros-and-tiger-conservation.md#section-5306).
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 
 <a id="section-5306"></a>

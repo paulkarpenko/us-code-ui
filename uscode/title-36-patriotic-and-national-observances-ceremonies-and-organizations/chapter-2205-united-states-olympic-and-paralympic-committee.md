@@ -2,7 +2,7 @@
 title: 36
 chapter: '2205'
 heading: UNITED STATES OLYMPIC AND PARALYMPIC COMMITTEE
-section_count: 29
+section_count: 31
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36&num=0&edition=prelim
 ---
@@ -339,11 +339,19 @@ Subsec. (b)(3). Pub. L. 105–277, § 142(e)(2), inserted “, the Paralympic Ga
 
     (i) the policies and procedures developed under subparagraph (C) of section 220541(a)(1); and
 
-    (ii) the requirement described in paragraph (2)(A) of section 220542(a); and
+    (ii) the requirement described in paragraph (2)(A) of section 220542(a);
 
-  (C) to ensure that each national governing body and the corporation enforces temporary measures and sanctions issued pursuant to the authority of the Center.
+  (C) to ensure that each national governing body and the corporation enforces temporary measures and sanctions issued pursuant to the authority of the Center; and
 
-(2) **Rule of construction.—** — Nothing in this subsection shall be construed to preempt or otherwise abrogate the duty of care of the corporation under State law or the common law.
+  (D) with respect to a sport for which the corporation conducts separate programs for female and male athletes, to ensure that female and male athletes who represent the United States in international amateur athletic events receive, from funds directly provided by the corporation to the athlete (excluding any prize or award based on the athlete’s performance in an international amateur athletic competition), equivalent and nondiscriminatory compensation, wages, benefits, medical care, travel arrangements, and payment or reimbursement for expenses, all insofar as these are implemented in connection with such amateur athletic events, where “equivalent” means “equal” except that it shall be permissible—
+
+    (i) to consider merit, performance, seniority, or quantity of play in determining contract or other terms of participation; and
+
+    (ii) to provide more beneficial terms of participation to athletes representing the United States in international events to address disparities in outside income, including in compensation made available by international sports federations and other event organizers, or the need to foster underdeveloped programs or address documented and justifiable personal need on the part of specific athletes or teams.
+
+(2) **Advocacy.—** — The corporation shall take all reasonable steps, in collaboration with affected athletes, to advocate to international sports federations and other event organizers to equalize prizes, compensation, funding, and other support provided to athletes by such federations and organizers.
+
+(3) **Rule of construction.—** — Nothing in this subsection shall be construed to preempt or otherwise abrogate the duty of care of the corporation under State law or the common law.
 
 ### Statutory Notes
 
@@ -359,6 +367,10 @@ In subsection (a), before clause (1), the words “not inconsistent with the law
 In subsection (b), the text of 36:379 is omitted as executed and obsolete. In clause (4), the word “devises” is substituted for “devices” to use standard contemporary spelling. In clause (5), the words “acquire, own, lease, encumber, and transfer” are substituted for “acquire, hold, and dispose of” for consistency in the revised title. The words “real and personal” and “may be” are omitted as unnecessary. The words “to carry out the purposes of the corporation” are substituted for “for its corporate purposes” for consistency in the revised title. In clause (6), the words “to carry out its corporate purposes” are omitted as unnecessary and for consistency in the revised title. The words “issue instruments of indebtedness, and secure its obligations by granting security interests in its property” are substituted for “issue notes, bonds, or other evidences of indebtedness therefor, and secure the same by mortgage” for consistency in the revised title. The words “subject in each case to the laws of the United States or of any State” are omitted as unnecessary.
 
 #### Amendments
+2023—Subsec. (d)(1)(D). Pub. L. 117–340, § 2(a)(1)(A), added subpar. (D).
+
+Subsec. (d)(2), (3). Pub. L. 117–340, § 2(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
 2020—Pub. L. 116–189, § 6(c)(1)(A), substituted “Powers and duties” for “Powers” in section catchline.
 
 Subsec. (c)(3). Pub. L. 116–189, § 4(a)(5)(A), substituted “the Pan-American Games, and the Parapan American Games” for “and the Pan-American Games”.
@@ -380,6 +392,12 @@ Subsec. (c)(3). Pub. L. 105–277, § 142(f)(2)(B), substituted “Games, the Pa
 Subsec. (c)(4). Pub. L. 105–277, § 142(f)(2)(C), substituted “Games, or as paralympic sports organizations for any sport that is included on the program of the Paralympic Games;” for “Games;”.
 
 Subsec. (c)(5). Pub. L. 105–277, § 142(f)(2)(D), substituted “Games, the Paralympic Games, the Pan-American Games, world championship competition,” for “Games,”.
+
+#### Rule of Construction
+Pub. L. 117–340, § 2(d), Jan. 5, 2023, 136 Stat. 6177, provided that: “Nothing in this Act [see Short Title of 2023 Amendment note set out under [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101)] shall be construed— “(1) to supersede, nullify, or diminish the rights of any individual under any Federal law or the law of any State or political subdivision of any State or jurisdiction; “(2) to prohibit an individual athlete or a group of athletes from receiving compensation from an individual or entity other than a national governing body or the corporation for the use of, as applicable, the name, image, or likeness of the individual athlete or the names, images, or likenesses of the group of athletes; or “(3) to prohibit a team or group of athletes from accepting outside sponsorships or endorsements, or from participating in outside promotional events or marketing campaigns, even if a team or group of athletes of another gender are not offered equivalent sponsorships, endorsements, or participation in outside promotional events or marketing campaigns.”
+
+#### Implementation Period and Reports to Congress
+Pub. L. 117–340, § 2(c), Jan. 5, 2023, 136 Stat. 6177, provided that: “Not later than 1 year after the date of the enactment of this Act [Jan. 5, 2023]— “(1) the corporation shall—“(A) attain full compliance, and require as a condition of continued certification that each national governing body attains and maintains full compliance, with the applicable amendments made by this Act [see Short Title of 2023 Amendment note set out under [section 101 of this title](./chapter-001-patriotic-and-national-observances.md#section-101)]; and “(B) submit to Congress a report describing such compliance of the corporation and each national governing body; and “(2) each national governing body shall—“(A) attain full compliance with the applicable amendments made by this Act; and “(B) submit to Congress a report describing such compliance.”
 
 
 <a id="section-220506"></a>
@@ -439,7 +457,7 @@ In subsection (c), the words “the corporation may file a civil action against 
 In subsection (d)(2), the words “the words or any combination of the words described in subsection (a)(4) of this section, or a trademark, trade name, sign, symbol, or insignia described in subsection (c)(4) of this section” are substituted for “any other trademark, trade name, sign, symbol, or insignia described in subsections (a)(3) and (4) of this section” for clarity.
 
 #### References in Text
-The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) and Tables.
+The Trademark Act of 1946, referred to in subsec. (c), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2020—Subsec. (a)(1). Pub. L. 116–189, § 4(a)(6)(A)(i), substituted “United States Olympic and Paralympic Committee” for “United States Olympic Committee”.
@@ -808,6 +826,21 @@ In obtaining representation for the United States in each competition and event 
 **(d) Public Availability.—** The corporation shall make the results of each such survey available to the public on an internet website of the corporation.
 
 
+<a id="section-220514"></a>
+## § 220514. Annual report on equal treatment of athletes
+**(a) In General.—** Not less frequently than annually, the corporation shall submit to Congress a report on the compliance of the corporation with paragraphs (1)(D) and (2) of section 220505(d).
+
+**(b) Matters To Be Included.—** Each report required by subsection (a) shall include detailed information on the median, minimum, and maximum stipends and bonuses provided to athletes, disaggregated by gender, race, and, as applicable, status of participation on a professional sports team.
+
+### Statutory Notes
+
+#### Codification
+Section 2(a)(2)(A) of Pub. L. 117–340, which directed that this section be added at the end of “subchapter I of title 36, United States Code”, was executed by adding this section at the end of subchapter I of this chapter, to reflect the probable intent of Congress.
+
+#### Rule of Construction
+For construction of Pub. L. 117–340 as it pertains to certain rights of athletes, see section 2(d) of Pub. L. 117–340, set out as a note under [section 220505 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220505).
+
+
 <a id="section-220521"></a>
 ## § 220521. Certification of national governing bodies
 **(a) In General.—** With respect to each sport included on the program of the Olympic Games, the Paralympic Games, the Pan-American Games, or the Parapan American Games, the corporation—
@@ -1085,21 +1118,29 @@ In subsection (b), the words “national governing body” are omitted (the firs
 
 (6) provide equitable support and encouragement for participation by women where separate programs for male and female athletes are conducted on a national basis;
 
-(7) encourage and support amateur athletic sports programs for individuals with disabilities and the participation of individuals with disabilities in amateur athletic activity, including, where feasible, the expansion of opportunities for meaningful participation by individuals with disabilities in programs of athletic competition for able-bodied individuals;
+(7) with respect to a sport for which a national governing body conducts separate programs for female and male athletes, ensure that female and male athletes who represent the United States in international amateur athletic events receive, from funds directly provided by the national governing body to the athlete (excluding any prize or award based on the athlete’s performance in an international amateur athletic competition), equivalent and nondiscriminatory compensation, wages, benefits, medical care, travel arrangements, and payment or reimbursement for expenses, all insofar as these are implemented in connection with such amateur athletic events, where “equivalent” means “equal” except that it shall be permissible—
 
-(8) provide and coordinate technical information on physical training, equipment design, coaching, and performance analysis;
+  (A) to consider merit, performance, seniority, or quantity of play in determining contract or other terms of participation; and
 
-(9) encourage and support research, development, and dissemination of information in the areas of sports medicine and sports safety;
+  (B) to provide more beneficial terms of participation to athletes representing the United States in international events to address disparities in outside income, including in compensation made available by international sports federations and other event organizers, or the need to foster underdeveloped programs or address documented and justifiable personal need on the part of specific athletes or teams;
 
-(10) develop 1 or more policies that prohibit any individual who is an employee, contractor, or agent of the national governing body from assisting a member or former member in obtaining a new job (except for the routine transmission of administrative and personnel files) if the individual knows that such member or former member violated the policies or procedures of the Center related to sexual misconduct or was convicted of a crime involving sexual misconduct with a minor in violation of applicable law or the policies or procedures of the Center;
+(8) take all reasonable steps, in collaboration with affected athletes, to advocate to international sports federations and other event organizers to equalize prizes, compensation, funding, and other support provided to athletes by such federations and organizers;
 
-(11) promote a safe environment in sports that is free from abuse of any amateur athlete, including emotional, physical, and sexual abuse;
+(9) encourage and support amateur athletic sports programs for individuals with disabilities and the participation of individuals with disabilities in amateur athletic activity, including, where feasible, the expansion of opportunities for meaningful participation by individuals with disabilities in programs of athletic competition for able-bodied individuals;
 
-(12) take care to promote a safe environment in sports using information relating to any temporary measure or sanction issued pursuant to the authority of the Center;
+(10) provide and coordinate technical information on physical training, equipment design, coaching, and performance analysis;
 
-(13) immediately report to law enforcement any allegation of child abuse of an amateur athlete who is a minor; and
+(11) encourage and support research, development, and dissemination of information in the areas of sports medicine and sports safety;
 
-(14) have in place policies and procedures to report immediately any allegation of child abuse of an amateur athlete, consistent with—
+(12) develop 1 or more policies that prohibit any individual who is an employee, contractor, or agent of the national governing body from assisting a member or former member in obtaining a new job (except for the routine transmission of administrative and personnel files) if the individual knows that such member or former member violated the policies or procedures of the Center related to sexual misconduct or was convicted of a crime involving sexual misconduct with a minor in violation of applicable law or the policies or procedures of the Center;
+
+(13) promote a safe environment in sports that is free from abuse of any amateur athlete, including emotional, physical, and sexual abuse;
+
+(14) take care to promote a safe environment in sports using information relating to any temporary measure or sanction issued pursuant to the authority of the Center;
+
+(15) immediately report to law enforcement any allegation of child abuse of an amateur athlete who is a minor; and
+
+(16) have in place policies and procedures to report immediately any allegation of child abuse of an amateur athlete, consistent with—
 
   (A) the policies and procedures developed under subparagraph (C) of section 220541(a)(1); and
 
@@ -1117,6 +1158,8 @@ In subsection (b), the words “national governing body” are omitted (the firs
 In clause (4), the word “by” is substituted for “under its auspices or that of . . . other” for clarity and to eliminate unnecessary words. The words “the national governing body” are substituted for “it” for clarity.
 
 #### Amendments
+2023—Subsec. (a)(7) to (16). Pub. L. 117–340, § 2(b)(1), added pars. (7) and (8) and redesignated former pars. (7) to (14) as (9) to (16), respectively.
+
 2020—Pub. L. 116–189, § 7(c)(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 Pub. L. 116–189, § 7(a)(2)(A)(iv), struck out “amateur sports” before “organizations” in pars. (1) and (2) and before “organization or person, unless” in par. (5) prior to redesignation of existing section as subsec. (a).
@@ -1124,6 +1167,9 @@ Pub. L. 116–189, § 7(a)(2)(A)(iv), struck out “amateur sports” before “
 Subsec. (a)(10) to (14). Pub. L. 116–189, § 7(c)(2), added pars. (10) to (14).
 
 1998—Pars. (4) to (9). Pub. L. 105–277, added par. (4) and redesignated former pars. (4) to (8) as (5) to (9), respectively.
+
+#### Rule of Construction
+For construction of Pub. L. 117–340 as it pertains to certain rights of athletes, see section 2(d) of Pub. L. 117–340, set out as a note under [section 220505 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220505).
 
 
 <a id="section-220525"></a>
@@ -1438,6 +1484,18 @@ In subsection (e)(2), the words “the reopening is based on the motion of a par
 2020—Subsec. (a)(2). Pub. L. 116–189, § 7(f)(1), inserted “, including communications,” after “interactions”.
 
 Subsec. (a)(4). Pub. L. 116–189, § 7(f)(2), substituted “makes—” and subpars. (A) and (B) for “makes a report under paragraph (1).”
+
+
+<a id="section-220530a"></a>
+## § 220530A. Annual report on equal treatment of athletes
+**(a) In General.—** Not less frequently than annually, each national governing body shall submit to the corporation and Congress a report on the compliance of the national governing body with paragraphs (7) and (8) of section 220524(a).
+
+**(b) Matters To Be Included.—** Each report required by subsection (a) shall include detailed information on the median, minimum, and maximum stipends and bonuses provided to athletes, disaggregated by gender, race, and, as applicable, status of participation on a professional sports team.
+
+### Statutory Notes
+
+#### Rule of Construction
+For construction of Pub. L. 117–340 as it pertains to certain rights of athletes, see section 2(d) of Pub. L. 117–340, set out as a note under [section 220505 of this title](./chapter-2205-united-states-olympic-and-paralympic-committee.md#section-220505).
 
 
 <a id="section-220531"></a>

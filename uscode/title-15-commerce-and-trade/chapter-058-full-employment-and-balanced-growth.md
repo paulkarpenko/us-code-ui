@@ -115,6 +115,8 @@ Not later than one year after October 27, 1978, the Committee on Labor and Human
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–523, Oct. 27, 1978, 92 Stat. 1887, known as the Full Employment and Balanced Growth Act of 1978, which enacted this chapter and sections 1022a to 1022f of this title, amended sections 1021, 1022, and 1023 of this title, sections 632 and 636 of Title 2, The Congress, and [section 225a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section225a&num=0&edition=prelim), Banks and Banking, and enacted provisions set out as notes under sections 1021 and 3101 of this title and [section 225a of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section225a&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-058-full-employment-and-balanced-growth.md#section-3101) and Tables.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Previously, Committee on Human Resources of the Senate changed to Committee on Labor and Human Resources effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of the Senate adopted Nov. 14, 1979.
 
 
@@ -175,7 +177,7 @@ For definition of “this chapter”, referred to in subsec. (a), see References
 The Employment Act of 1946, referred to in subsec. (a), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, which is classified generally to chapter 21 (§ 1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1021 of this title](./chapter-021-national-policy-on-employment-and-productivity.md#section-1021) and Tables.
 
 #### Executive Order No. 12329
-Ex. Ord. No. 12329, Oct. 14, 1981, 46 F.R. 50919, which established the President’s Task Force on Private Sector Initiatives and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(i), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12329, Oct. 14, 1981, 46 F.R. 50919, which established the President’s Task Force on Private Sector Initiatives and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(i), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-3117"></a>

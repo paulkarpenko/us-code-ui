@@ -209,11 +209,11 @@ Upon request of the Secretary of the Interior—
 ### Statutory Notes
 
 #### References in Text
-The Richard B. Russell National School Lunch Act, as amended, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
+The Richard B. Russell National School Lunch Act, as amended, referred to in subsec. (b), is act June 4, 1946, ch. 281, 60 Stat. 230, which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) and Tables.
 
-The Vocational Education Act of 1946, referred to in subsec. (c), is act June 8, 1936, ch. 541, 49 Stat. 1488, as amended, which was classified to sections 15h to 15q, 15aa to 15jj, and 15aaa to 15ggg of Title 20, Education, and was repealed by section 103 of Pub. L. 90–576, title I, Oct. 16, 1968, 82 Stat. 1091. See section 2301 et seq. of Title 20.
+The Vocational Education Act of 1946, referred to in subsec. (c), is act June 8, 1936, ch. 541, 49 Stat. 1488, which was classified to sections 15h to 15q, 15aa to 15jj, and 15aaa to 15ggg of Title 20, Education, and was repealed by section 103 of Pub. L. 90–576, title I, Oct. 16, 1968, 82 Stat. 1091. See section 2301 et seq. of Title 20.
 
-The Hospital Survey and Construction Act, referred to in subsec. (c), is act Aug. 13, 1946, ch. 958, 60 Stat. 1041, as amended, which added a title VI to the Public Health Service Act, and was classified to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Such title VI was amended generally by Pub. L. 88–443, § 3(a) Aug. 18, 1964, 78 Stat. 447. For complete classification of this Act to the Code, see Tables.
+The Hospital Survey and Construction Act, referred to in subsec. (c), is act Aug. 13, 1946, ch. 958, 60 Stat. 1041, which added a title VI to the Public Health Service Act, and was classified to subchapter IV (§ 291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. Such title VI was amended generally by Pub. L. 88–443, § 3(a) Aug. 18, 1964, 78 Stat. 447. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1999—Subsec. (b). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
@@ -245,19 +245,18 @@ Pub. L. 90–576, title I, § 103, Oct. 16, 1968, 82 Stat. 1091, provided that t
 
 (2) The authority to report to the Secretary of the Interior and the Governor of American Samoa all failures to collect amounts due the government, and expenditures of funds or uses or property which are irregular or not pursuant to law.
 
-**(c) Scope of authority transferred** The authority granted in paragraph (b) shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by the Inspector General Act of 1978 (92 Stat. 1101), as amended.
+**(c) Scope of authority transferred** The authority granted in paragraph (b) shall extend to all activities of the government of American Samoa, and shall be in addition to the authority conferred upon the Inspector General by chapter 4 of title 5.
 
 **(d) Transfer of personnel, assets, etc., of office of government comptroller for American Samoa to Office of Inspector General, Department of the Interior** In order to carry out the provisions of this section, the personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, available or to be made available, of the office of the government comptroller for American Samoa relating to its audit function are hereby transferred to the Office of Inspector General, Department of the Interior.
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 1668, Pub. L. 96–205, title V, § 501, Mar. 12, 1980, 94 Stat. 90, mandated payment of salary and expenses of the government comptroller for American Samoa from funds appropriated to the Department of the Interior, prior to repeal by Pub. L. 97–357, § 402.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (92 Stat. 1101), as amended.”
+
 1998—Subsec. (a). Pub. L. 105–362 struck out “The Governor shall transmit the comprehensive annual financial report to the Inspector General of the Department of the Interior who shall audit it and report his findings to the Congress.” after “other information required by the Congress.” and “He shall also submit to the Congress, the Secretary of the Interior, and the cognizant Federal auditors a written statement of actions taken or contemplated on Federal audit recommendations within sixty days after the issuance date of the audit report.” after “under applicable Federal law.”
 
 #### Termination of Reporting Requirements

@@ -212,6 +212,12 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 Provisions authorizing commemorative medals were contained in the following acts:
 
+Pub. L. 117–334, Jan. 5, 2023, 136 Stat. 6140, recognizing Emmett Till and Mamie Till-Mobley for heroic actions in the midst of evil, injustice, and grief that became a catalyst for the civil rights movement.
+
+Pub. L. 117–328, div. AA, title VII, Dec. 29, 2022, 136 Stat. 5549, recognizing Benjamin Berell Ferencz for his service to the United States and international community during the post-World War II Nuremberg trials and lifelong advocacy for international criminal justice and rule of law.
+
+Pub. L. 117–320, Dec. 27, 2022, 136 Stat. 4426, recognizing the 53 hostages of the Iran Hostage Crisis of 1979–1981 for their bravery and endurance throughout their captivity.
+
 Pub. L. 117–256, Dec. 21, 2022, 136 Stat. 2368, recognizing Glen Doherty, J. Christopher Stevens, Sean Smith, and Tyrone Woods, killed in the attack on the United States consulate in Benghazi, Libya, on September 11, 2012, for their contributions to the nation.
 
 Pub. L. 117–132, June 7, 2022, 136 Stat. 1232, recognizing United States Army Rangers Veterans of World War II.
@@ -1601,6 +1607,8 @@ Pub. L. 99–185, § 2(g), Dec. 17, 1985, 99 Stat. 1178, provided that: “The S
 #### Commemorative Coins
 Provisions authorizing commemorative coins were contained in the following acts:
 
+Pub. L. 118–10, July 26, 2023, 137 Stat. 56.—United States Marine Corps 250th Anniversary.
+
 Pub. L. 117–163, Aug. 3, 2022, 136 Stat. 1353.—Harriet Tubman Bicentennial.
 
 Pub. L. 117–162, Aug. 3, 2022, 136 Stat. 1349.—National World War II Memorial.
@@ -2853,14 +2861,13 @@ Pub. L. 102–390, title II, § 221(b), Oct. 6, 1992, 106 Stat. 1627, provided t
 
 (2) **Contents.—** — The report required by paragraph (1) shall describe the activities of the Advisory Committee during the preceding year and the reports and recommendations made by the Advisory Committee to the Secretary of the Treasury.
 
-**(h) Federal Advisory Committee Act Does Not Apply.—** Subject to the requirements of subsection (b)(8), the Federal Advisory Committee Act shall not apply with respect to the Committee.
+**(h) Chapter 10 of Title 5 Does Not Apply.—** Subject to the requirements of subsection (b)(8), chapter 10 of title 5 shall not apply with respect to the Committee.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act” in text.
+
 2003—Pub. L. 108–15 amended section catchline and text generally. Prior to amendment, text provided for the establishment of the Citizens Commemorative Coin Advisory Committee and contained provisions concerning its oversight, membership, duties, and funding, the term of each membership, and the compensation of each member.
 
 1996—Subsec. (a)(4). Pub. L. 104–329 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Each member appointed under clause (i) or (iii) of paragraph (3)(A) shall be appointed for a term of 4 years.”
@@ -2997,7 +3004,7 @@ In subsection (d), the words “each fiscal year” are substituted for “ensui
 In subsection (e), the words “Secretary shall maintain” are substituted for “shall be established” because of sections 301 and 303 of the revised title and to eliminate executed words. The words “in the Treasury” are substituted for “with the Treasurer of the United States” because of Department of the Treasury Order 229 of January 14, 1974 (39 F.R. 2280). The text of 31:181a(f)(last sentence) is omitted as unnecessary because of the source provisions restated in section 3325 of the revised title.
 
 #### Replacement Currency Production Facility
-Pub. L. 116–6, div. D, title I, § 127, Feb. 15, 2019, 133 Stat. 149, provided that: “Beginning in fiscal year 2019 and for each fiscal year thereafter, amounts in the Bureau of Engraving and Printing Fund may be used for the acquisition of necessary land for, and construction of, a replacement currency production facility.”
+Pub. L. 116–6, div. D, title I, § 127, Feb. 15, 2019, 133 Stat. 149, as amended by Pub. L. 117–328, div. E, title I, § 127, Dec. 29, 2022, 136 Stat. 4660, provided that: “Beginning in fiscal year 2019 and for each fiscal year thereafter, amounts in the Bureau of Engraving and Printing Fund may be used for the acquisition of necessary land for, and construction of, a replacement currency production facility, including public improvements in the area around such facility to mitigate traffic impacts caused by the construction and occupancy of the facility.”
 
 
 <a id="section-5143"></a>

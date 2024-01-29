@@ -2,7 +2,7 @@
 title: 50
 chapter: '50'
 heading: SERVICEMEMBERS CIVIL RELIEF
-section_count: 63
+section_count: 64
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -112,7 +112,7 @@ For the purposes of this chapter:
 
 (2) **Military service** — The term “military service” means—
 
-  (A) in the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard—
+  (A) in the case of a servicemember who is a member of the Army, Navy, Air Force, Marine Corps, Space Force, or Coast Guard—
 
     (i) active duty, as defined in [section 101(d)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/1&num=0&edition=prelim), and
 
@@ -164,6 +164,8 @@ Section was formerly classified to section 511 of the former Appendix to this ti
 A prior section 101 of act Oct. 17, 1940, ch. 888, art. I, 54 Stat. 1179; Pub. L. 92–540, title V, § 504(1), Oct. 24, 1972, 86 Stat. 1098; Pub. L. 102–12, § 9(1), Mar. 18, 1991, 105 Stat. 38; Pub. L. 107–330, title III, § 305, Dec. 6, 2002, 116 Stat. 2826, related to definitions, prior to the general amendment of this Act by Pub. L. 108–189.
 
 #### Amendments
+2023—Par. (2)(A). Pub. L. 118–31 inserted “Space Force,” after “Marine Corps,” in introductory provisions.
+
 2004—Par. (9). Pub. L. 108–454 added par. (9).
 
 #### Effective Date
@@ -289,6 +291,8 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 **(b) Persons ordered to report for induction** A person who has been ordered to report for induction under the Military Selective Service Act [[50 U.S.C. 3801](./chapter-049-military-selective-service.md#section-3801) et seq.] is entitled to the rights and protections provided a servicemember under this subchapter and subchapters II and III during the period beginning on the date of receipt of the order for induction and ending on the date on which the person reports for induction (or, if the order to report for induction is revoked before the date on which the person reports for induction, on the date on which the order is revoked).
 
+**(c) Member of the Space Force ordered to report for military service** The provisions of subsection (a) apply to a member of the Space Force who is ordered to report for military service in the same manner as to a member of a reserve component who is ordered to report for military service.
+
 ### Statutory Notes
 
 #### Termination of Induction for Training and Service
@@ -302,6 +306,9 @@ Section was formerly classified to section 516 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 106 of act Oct. 17, 1940, ch. 888, art. I, as added Oct. 6, 1942, ch. 581, § 4, 56 Stat. 770; amended Pub. L. 102–12, § 9(5), Mar. 18, 1991, 105 Stat. 39, related to extension of benefits to persons ordered to report for induction or military service, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### Amendments
+2023—Subsec. (c). Pub. L. 118–31 added subsec. (c).
 
 #### Effective Date
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
@@ -369,7 +376,7 @@ Application by a servicemember for, or receipt by a servicemember of, a stay, po
 
 (4) A refusal by an insurer to insure the servicemember.
 
-(5) An annotation in a servicemember’s record by a creditor or a person engaged in the practice of assembling or evaluating consumer credit information, identifying the servicemember as a member of the National Guard or a reserve component.
+(5) An annotation in a servicemember’s record by a creditor or a person engaged in the practice of assembling or evaluating consumer credit information, identifying the servicemember as a member of the National Guard or a reserve component or as a member of the Space Force.
 
 (6) A change in the terms offered or conditions required for the issuance of insurance.
 
@@ -380,6 +387,9 @@ Section was formerly classified to section 518 of the former Appendix to this ti
 
 #### Prior Provisions
 A prior section 108 of act Oct. 17, 1940, ch. 888, art. I, as added Pub. L. 102–12, § 7, Mar. 18, 1991, 105 Stat. 38, related to the effect of certain future financial transactions on the exercise of rights, prior to the general amendment of this Act by Pub. L. 108–189.
+
+#### Amendments
+2023—Par. (5). Pub. L. 118–31 inserted “or as a member of the Space Force” before period at end.
 
 #### Effective Date
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
@@ -908,7 +918,7 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
     (i) The term “catastrophic injury or illness” has the meaning given that term in [section 439(g) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section439/g&num=0&edition=prelim).
 
-    (ii) The term “covered service” means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim).
+    (ii) The term “covered service” means full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).
 
 **(b) Covered leases** This section applies to the following leases:
 
@@ -1066,10 +1076,14 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 
 <a id="section-3958"></a>
-## § 3958. Termination of telephone, multichannel video programming, and internet access service contracts
-**(a) Termination by servicemember**
+## § 3958. Termination of certain consumer contracts
+**(a) Termination by servicemember or dependent of a servicemember**
 
-(1) **Termination** — A servicemember may terminate a contract described in subsection (b) at any time after the date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract.
+(1) **Termination** — A servicemember may terminate a contract described in subsection (b) at any time after—
+
+  (A) the date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract; or
+
+  (B) the date the servicemember, while in military service, receives military orders for a permanent change of station, thereafter enters into the contract, and then receives a stop movement order issued by the Secretary of Defense or the Secretary of Homeland Security in response to a local, national, or global emergency, effective for an indefinite period or for a period of not less than 30 days, that prevents the servicemember from using the services provided under the contract.
 
 (2) **Notice** — In the case that a servicemember terminates a contract as described in paragraph (1), the service provider under the contract shall provide such servicemember with written or electronic notice of the servicemember’s rights under such paragraph.
 
@@ -1083,7 +1097,25 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
   (C) A member of the reserve components performing military service or performing full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as such terms are defined in [section 101(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d&num=0&edition=prelim)).
 
-**(b) Covered contracts** A contract described in this subsection is a contract for commercial mobile service, telephone exchange service, internet access service, or multichannel video programming service entered into by the servicemember before receiving the military orders referred to in subsection (a)(1).
+  (D) The spouse or dependent of a servicemember, described in paragraph (1)(B), who accompanies such servicemember during the period of relocation.
+
+**(b) Covered contracts** A contract described in this subsection is a contract—
+
+(1) for—
+
+  (A) commercial mobile service;
+
+  (B) telephone exchange service;
+
+  (C) internet access service;
+
+  (D) multichannel video programming service;
+
+  (E) a gym membership or fitness program; or
+
+  (F) home security services; and
+
+(2) entered into by a servicemember before receiving the military orders referred to in subsection (a)(1).
 
 **(c) Retention of telephone number** In the case of a contract for commercial mobile service or telephone exchange service terminated under subsection (a) by a servicemember whose period of relocation is for a period of three years or less, the service provider under the contract shall, notwithstanding any other provision of law, allow the servicemember to keep the telephone number the servicemember has under the contract if the servicemember re-subscribes to the service during the 90-day period beginning on the last day of such period of relocation.
 
@@ -1107,11 +1139,13 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 (1) The term “commercial mobile service” has the meaning given that term in [section 332(d) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim).
 
-(2) The term “multichannel video programming service” means a subscription video service offered by a multichannel video programming distributor, as that term is defined in [section 522 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section522&num=0&edition=prelim), over a system the distributor owns or controls.
+(2) The terms “military orders” and “permanent change of station” have the meanings given such terms in [section 3955 of this title](./chapter-050-servicemembers-civil-relief.md#section-3955).
 
-(3) The term “provider-owned consumer premises equipment” means any equipment that a provider of internet access service or multichannel video programming service rents or loans to a customer during the provision of that service, including gateways, routers, cable modems, voice-capable modems, CableCARDs, converters, digital adapters, remote controls, and any other equipment provided.
+(3) The term “multichannel video programming service” means a subscription video service offered by a multichannel video programming distributor, as that term is defined in [section 522 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section522&num=0&edition=prelim), over a system the distributor owns or controls.
 
-(4) The term “telephone exchange service” has the meaning given that term under [section 153 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section153&num=0&edition=prelim).
+(4) The term “provider-owned consumer premises equipment” means any equipment that a provider of internet access service or multichannel video programming service rents or loans to a customer during the provision of that service, including gateways, routers, cable modems, voice-capable modems, CableCARDs, converters, digital adapters, remote controls, and any other equipment provided.
+
+(5) The term “telephone exchange service” has the meaning given that term under [section 153 of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section153&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -1119,6 +1153,18 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 Section was formerly classified to section 535a of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2023—Pub. L. 117–333, § 17(a)(1), substituted “certain consumer” for “telephone, multichannel video programming, and internet access service” in section catchline.
+
+Subsec. (a). Pub. L. 117–333, § 17(a)(2)(A), inserted “or dependent of a servicemember” after “servicemember” in heading.
+
+Subsec. (a)(1). Pub. L. 117–333, § 17(a)(2)(B), substituted “after—” for “after the date the servicemember receives military orders to relocate for a period of not less than 90 days to a location that does not support the contract.” and added subpars. (A) and (B).
+
+Subsec. (a)(4)(D). Pub. L. 117–333, § 17(a)(2)(C), added subpar. (D).
+
+Subsec. (b). Pub. L. 117–333, § 17(a)(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “A contract described in this subsection is a contract for commercial mobile service, telephone exchange service, internet access service, or multichannel video programming service entered into by the servicemember before receiving the military orders referred to in subsection (a)(1).”
+
+Subsec. (g)(2) to (5). Pub. L. 117–333, § 17(a)(4), added par. (2) and redesignated former pars. (2) to (4) as (3) to (5), respectively.
+
 2021—Subsec. (a)(4). Pub. L. 116–285 added par. (4).
 
 2018—Pub. L. 115–407, § 304(a)(1), inserted “, multichannel video programming, and internet access” after “telephone” in section catchline.
@@ -1134,6 +1180,9 @@ Subsec. (e). Pub. L. 115–407, § 304(a)(5), designated first sentence of exist
 Subsec. (g). Pub. L. 115–407, § 304(a)(6), added pars. (1) to (3), redesignated former par. (2) as (4), and struck out former par. (1) which read as follows: “The term ‘cellular telephone service’ means commercial mobile service, as that term is defined in [section 332(d) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section332/d&num=0&edition=prelim).”
 
 2010—Pub. L. 111–275 amended section generally, substituting provisions relating to termination of telephone service contracts for provisions relating to termination or suspension of contracts for cellular telephone service.
+
+#### Effective Date of 2023 Amendment; Retroactive Application
+Pub. L. 117–333, § 17(b), Jan. 5, 2023, 136 Stat. 6137, provided that: “The amendments made by this section [amending this section] shall apply to stop movement orders issued on or after March 1, 2020.”
 
 
 <a id="section-3959"></a>
@@ -1679,11 +1728,15 @@ Section applicable to any case not final before Dec. 19, 2003, see section 3 of 
 
 (1) **In general** — A servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the servicemember by reason of being absent or present in any tax jurisdiction of the United States solely in compliance with military orders.
 
-(2) **Spouses**
+(2) **Spouses** — A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders.
 
-  (A) *In general* — A spouse of a servicemember shall neither lose nor acquire a residence or domicile for purposes of taxation with respect to the person, personal property, or income of the spouse by reason of being absent or present in any tax jurisdiction of the United States solely to be with the servicemember in compliance with the servicemember’s military orders if the residence or domicile, as the case may be, is the same for the servicemember and the spouse.
+(3) **Election** — For any taxable year of the marriage, a servicemember and the spouse of such servicemember may elect to use for purposes of taxation, regardless of the date on which the marriage of the servicemember and the spouse occurred, any of the following:
 
-  (B) *Election* — For any taxable year of the marriage, the spouse of a servicemember may elect to use the same residence for purposes of taxation as the servicemember regardless of the date on which the marriage of the spouse and the servicemember occurred.
+  (A) The residence or domicile of the servicemember.
+
+  (B) The residence or domicile of the spouse.
+
+  (C) The permanent duty station of the servicemember.
 
 **(b) Military service compensation** Compensation of a servicemember for military service shall not be deemed to be income for services performed or from sources within a tax jurisdiction of the United States if the servicemember is not a resident or domiciliary of the jurisdiction in which the servicemember is serving in compliance with military orders.
 
@@ -1728,6 +1781,8 @@ Section 513, act Oct. 17, 1940, ch. 888, art. V, 54 Stat. 1190, related to defer
 Section 514, act Oct. 17, 1940, ch. 888, art. V, as added Oct. 6, 1942, ch. 581, § 17, 56 Stat. 777; amended July 3, 1944, ch. 397, § 1, 58 Stat. 722; Pub. L. 87–771, Oct. 9, 1962, 76 Stat. 768; Pub. L. 102–12, § 9(24), Mar. 18, 1991, 105 Stat. 41, related to residence for tax purposes. See [section 4001 of this title](./chapter-050-servicemembers-civil-relief.md#section-4001).
 
 #### Amendments
+2023—Subsec. (a)(2), (3). Pub. L. 117–333 added pars. (2) and (3) and struck out former par. (2) which related to residence of spouses of servicemembers for tax purposes.
+
 2018—Subsec. (a)(2). Pub. L. 115–407 designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 2009—Subsec. (a). Pub. L. 111–97, § 3(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
@@ -2000,8 +2055,8 @@ A prior section 703 of act Oct. 17, 1940, ch. 888, art. VII, as added Pub. L. 10
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
-<a id="section-4026"></a>
-## § 4026. Health insurance reinstatement
+<a id="section-4025a"></a>
+## § 4025a. Health insurance reinstatement
 **(a) Reinstatement of health insurance** A servicemember who, by reason of military service as defined in [section 4023(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4023/a/1&num=0&edition=prelim), is entitled to the rights and protections of this chapter shall also be entitled upon termination or release from such service to reinstatement of any health insurance that—
 
 (1) was in effect on the day before such service commenced; and
@@ -2043,8 +2098,8 @@ Subsec. (e). Pub. L. 109–233, § 302(a), added subsec. (e).
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
 
 
-<a id="section-4027"></a>
-## § 4027. Guarantee of residency for military personnel and spouses of military personnel
+<a id="section-4026"></a>
+## § 4026. Guarantee of residency for military personnel and spouses of military personnel
 **(a) In general** For the purposes of voting for any Federal office (as defined in [section 30101 of title 52](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section30101&num=0&edition=prelim)) or a State or local office, a person who is absent from a State in compliance with military or naval orders shall not, solely by reason of that absence—
 
 (1) be deemed to have lost a residence or domicile in that State, without regard to whether or not the person intends to return to that State;
@@ -2089,6 +2144,31 @@ Pub. L. 111–97, § 2(c), Nov. 11, 2009, 123 Stat. 3007, provided that: “Subs
 
 #### Effective Date
 Section applicable to any case not final before Dec. 19, 2003, see section 3 of Pub. L. 108–189, set out as a note under [section 3901 of this title](./chapter-050-servicemembers-civil-relief.md#section-3901).
+
+
+<a id="section-4027"></a>
+## § 4027. Portability of professional licenses of servicemembers and their spouses
+**(a) In general** In any case in which a servicemember or the spouse of a servicemember has a covered license and such servicemember or spouse relocates his or her residency because of military orders for military service to a location that is not in the jurisdiction of the licensing authority that issued the covered license, such covered license shall be considered valid at a similar scope of practice and in the discipline applied for in the jurisdiction of such new residency for the duration of such military orders if such servicemember or spouse—
+
+(1) provides a copy of such military orders to the licensing authority in the jurisdiction in which the new residency is located;
+
+(2) remains in good standing with—
+
+  (A) the licensing authority that issued the covered license; and
+
+  (B) every other licensing authority that has issued to the servicemember or the spouse of a servicemember a license valid at a similar scope of practice and in the discipline applied in the jurisdiction of such licensing authority; 11 So in original. Probably should be followed by “and”.
+
+(3) submits to the authority of the licensing authority in the new jurisdiction for the purposes of standards of practice, discipline, and fulfillment of any continuing education requirements.
+
+**(b) Interstate licensure compacts** If a servicemember or spouse of a servicemember is licensed and able to operate in multiple jurisdictions through an interstate licensure compact, with respect to services provided in the jurisdiction of the interstate licensure compact by a licensee covered by such compact, the servicemember or spouse of a servicemember shall be subject to the requirements of the compact or the applicable provisions of law of the applicable State and not this section.
+
+**(c) Covered license defined** In this section, the term “covered license” means a professional license or certificate—
+
+(1) that is in good standing with the licensing authority that issued such professional license or certificate;
+
+(2) that the servicemember or spouse of a servicemember has actively used during the two years immediately preceding the relocation described in subsection (a); and
+
+(3) that is not a license to practice law.
 
 
 <a id="section-4041"></a>

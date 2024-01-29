@@ -2,21 +2,27 @@
 title: 33
 chapter: '48'
 heading: OCEAN AND COASTAL MAPPING INTEGRATION
-section_count: 7
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
 <a id="section-3501"></a>
 ## § 3501. Establishment of program
-**(a) In general** The President, in coordination with the Interagency Committee on Ocean and Coastal Mapping and affected coastal states, shall establish a program to develop a coordinated and comprehensive Federal ocean and coastal mapping plan for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the continental shelf of the United States that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science.
+**(a) In general** The President, in coordination with the Interagency Working Group on Ocean and Coastal Mapping under [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502) and affected coastal states, shall establish and maintain a program to coordinate comprehensive Federal ocean and coastal mapping efforts for the Great Lakes and coastal state waters, the territorial sea, the exclusive economic zone, and the continental shelf of the United States that—
 
-**(b) Membership** The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
+(1) enhances ecosystem approaches in decisionmaking for natural resource and habitat management restoration and conservation, emergency response, and coastal resilience and adaptation;
 
-**(c) Program parameters** In developing such a program, the President, through the Committee, shall—
+(2) establishes research and mapping priorities;
+
+(3) supports the siting of research and other platforms; and
+
+(4) advances ocean and coastal science.
+
+**(b) Program parameters** In maintaining such a program, the President, through the Working Group, shall—
 
 (1) identify all Federal and federally-funded programs conducting shoreline delineation and ocean or coastal mapping, noting geographic coverage, frequency, spatial coverage, resolution, and subject matter focus of the data and location of data archives;
 
-(2) facilitate cost-effective, cooperative mapping efforts that incorporate policies for contracting with non-governmental entities among all Federal agencies conducting ocean and coastal mapping, by increasing data sharing, developing appropriate data acquisition and metadata standards, and facilitating the interoperability of in situ data collection systems, data processing, archiving, and distribution of data products;
+(2) facilitate cost-effective, cooperative mapping efforts that incorporate policies for contracting with non-governmental entities among all Federal agencies conducting ocean and coastal mapping and for leveraging existing Federal geospatial services capacities and contract vehicles for efficiencies, by increasing data sharing, developing appropriate data acquisition and metadata standards, and facilitating the interoperability of in situ data collection systems, data processing, archiving, and distribution of data products;
 
 (3) facilitate the adaptation of existing technologies as well as foster expertise in new ocean and coastal mapping technologies, including through research, development, and training conducted among Federal agencies and in cooperation with non-governmental entities;
 
@@ -26,15 +32,43 @@ source: >-
 
 (6) develop data standards and protocols consistent with standards developed by the Federal Geographic Data Committee for use by Federal, coastal state, and other entities in mapping and otherwise documenting locations of federally permitted activities, living and nonliving coastal and marine resources, marine ecosystems, sensitive habitats, submerged cultural resources, undersea cables, offshore aquaculture projects, offshore energy projects, and any areas designated for purposes of environmental protection or conservation and management of living and nonliving coastal and marine resources;
 
-(7) identify the procedures to be used for coordinating the collection and integration of Federal ocean and coastal mapping data with coastal state and local government programs;
+(7) identify the procedures to be used for coordinating the collection and integration of Federal ocean and coastal mapping data with mapping programs, in conjunction with Federal and State agencies, Tribal governments, private industry, academia, and nongovernmental organizations;
 
-(8) facilitate, to the extent practicable, the collection of real-time tide data and the development of hydrodynamic models for coastal areas to allow for the application of V-datum tools that will facilitate the seamless integration of onshore and offshore maps and charts;
+(8) facilitate, to the extent practicable, the collection of tide data and water-level data and the development and dissemination of hydrodynamic models for coastal areas to allow for the application of V-datum tools that will facilitate the seamless integration of onshore and offshore maps and charts;
 
-(9) establish a plan for the acquisition and collection of ocean and coastal mapping data; and
+(9) establish a plan for the acquisition and collection of ocean and coastal mapping data;
 
-(10) set forth a timetable for completion and implementation of the plan.
+(10) set forth a timetable for completion and implementation of the plan; and
+
+(11) support—
+
+  (A) the Ocean Science and Technology Subcommittee of the Ocean Policy Committee established under [section 8932(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/c&num=0&edition=prelim); and
+
+  (B) the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act.11 See References in Text note below.
 
 ### Statutory Notes
+
+#### References in Text
+Section 5405 of the National Ocean Exploration Act, referred to in subsec. (b)(11)(B), probably means section 10304 of Pub. L. 117–263, which established the National Ocean Mapping, Exploration, and Characterization Council and is classified to [section 3408 of this title](./chapter-047-ocean-exploration.md#section-3408). Prior versions of the bill that was enacted into law as title CIII of div. J of Pub. L. 117–263 included such Short Title, but it was not enacted as part of Pub. L. 117–263. Pub. L. 117–263 does not contain a section 5405.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 10307(b)(1)(A)(i), substituted “Interagency Working Group on Ocean and Coastal Mapping under [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502)” for “Interagency Committee on Ocean and Coastal Mapping” in introductory provisions.
+
+Pub. L. 117–263, § 10307(a)(1), substituted “establish and maintain a program to coordinate” for “establish a program to develop a coordinated and”, “efforts” for “plan”, and “that—” for “that enhances ecosystem approaches in decision-making for conservation and management of marine resources and habitats, establishes research and mapping priorities, supports the siting of research and other platforms, and advances ocean and coastal science.” and added pars. (1) to (4).
+
+Subsec. (b). Pub. L. 117–263, § 10307(a)(3)(A), (b)(1)(A)(ii), substituted “maintaining” for “developing” and “Working Group” for “Committee” in introductory provisions.
+
+Pub. L. 117–263, § 10307(a)(2), redesignated subsec. (c) as (b) and struck out former subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Committee shall be comprised of high-level representatives of the Department of Commerce, through the National Oceanic and Atmospheric Administration, the Department of the Interior, the National Science Foundation, the Department of Defense, the Environmental Protection Agency, the Department of Homeland Security, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.”
+
+Subsec. (b)(2). Pub. L. 117–263, § 10307(a)(3)(B), inserted “and for leveraging existing Federal geospatial services capacities and contract vehicles for efficiencies” after “coastal mapping”.
+
+Subsec. (b)(7). Pub. L. 117–263, § 10307(a)(3)(C), substituted “with mapping programs, in conjunction with Federal and State agencies, Tribal governments, private industry, academia, and nongovernmental organizations” for “with coastal state and local government programs”.
+
+Subsec. (b)(8). Pub. L. 117–263, § 10307(a)(3)(D), substituted “of tide data and water-level data and the development and dissemination” for “of real-time tide data and the development”.
+
+Subsec. (b)(11). Pub. L. 117–263, § 10307(a)(3)(E)–(G), added par. (11).
+
+Subsec. (c). Pub. L. 117–263, § 10307(a)(2), redesignated subsec. (c) as (b).
 
 #### Short Title
 Pub. L. 111–11, title XII, § 12201, Mar. 30, 2009, 123 Stat. 1421, provided that: “This subtitle [subtitle B (§§ 12201–12208) of title XII of Pub. L. 111–11, enacting this chapter] may be cited as the ‘Ocean and Coastal Mapping Integration Act’.”
@@ -80,47 +114,86 @@ Donald J. Trump.
 
 
 <a id="section-3502"></a>
-## § 3502. Interagency committee on ocean and coastal mapping
-**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration, within 30 days after March 30, 2009, shall convene or utilize an existing interagency committee on ocean and coastal mapping to implement [section 3501 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3501).
+## § 3502. Interagency Working Group on Ocean and Coastal Mapping
+**(a) In general** The Administrator of the National Oceanic and Atmospheric Administration, not later than 30 days after the date of the enactment of the National Ocean Exploration Act,11 See References in Text note below. shall use the Interagency Working Group on Ocean and Coastal Mapping in existence as of the date of the enactment of such Act to implement [section 3501 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3501).
 
-**(b) Membership** The committee shall be comprised of senior representatives from Federal agencies with ocean and coastal mapping and surveying responsibilities. The representatives shall be high-ranking officials of their respective agencies or departments and, whenever possible, the head of the portion of the agency or department that is most relevant to the purposes of this chapter. Membership shall include senior representatives from the National Oceanic and Atmospheric Administration, the Chief of Naval Operations, the United States Geological Survey, the Minerals Management Service, the National Science Foundation, the National Geospatial-Intelligence Agency, the United States Army Corps of Engineers, the Coast Guard, the Environmental Protection Agency, the Federal Emergency Management Agency, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
+**(b) Membership** The Working Group shall be comprised of senior-level representatives from Federal agencies with ocean and coastal mapping and surveying responsibilities. Membership shall include senior-level representatives from the National Oceanic and Atmospheric Administration, the Department of the Navy, the United States Geological Survey, the Bureau of Ocean Energy Management of the Department of the Interior, the Office of the Assistant Secretary, Fish and Wildlife and Parks of the Department of the Interior, the National Science Foundation, the National Geospatial-Intelligence Agency, the United States Army Corps of Engineers, the Coast Guard, the Environmental Protection Agency, the Federal Emergency Management Agency, the National Aeronautics and Space Administration, and other appropriate Federal agencies involved in ocean and coastal mapping.
 
-**(c) Co-chairmen** The Committee shall be co-chaired by the representative of the Department of Commerce and a representative of the Department of the Interior.
+**(c) Co-Chairs** The Working Group shall be co-chaired by one representative from each of the following:
 
-**(d) Subcommittee** The co-chairmen shall establish a subcommittee to carry out the day-to-day work of the Committee, comprised of senior representatives of any member agency of the committee. Working groups may be formed by the full Committee to address issues of short duration. The subcommittee shall be chaired by the representative from the National Oceanic and Atmospheric Administration. The chairmen of the Committee may create such additional subcommittees and working groups as may be needed to carry out the work of Committee.
+(1) The National Oceanic and Atmospheric Administration.
 
-**(e) Meetings** The committee shall meet on a quarterly basis, but each subcommittee and each working group shall meet on an as-needed basis.
+(2) The Department of the Interior.
 
-**(f) Coordination** The committee shall coordinate activities when appropriate, with—
+**(d) Subordinate groups** The co-chairs may establish such permanent or temporary subordinate groups as determined appropriate by the Working Group.
 
-(1) other Federal efforts, including the Digital Coast, Geospatial One-Stop, and the Federal Geographic Data Committee;
+**(e) Meetings** The Working Group shall meet on a quarterly basis, but each subordinate group shall meet on an as-needed basis.
+
+**(f) Coordination** The Working Group shall coordinate activities when appropriate, with—
+
+(1) other Federal efforts;
 
 (2) international mapping activities;
 
-(3) coastal states;
+(3) coastal States;
 
-(4) user groups through workshops and other appropriate mechanisms; and
+(4) coastal Indian Tribes;
 
-(5) representatives of nongovernmental entities.
+(5) data acquisition and user groups through workshops, partnerships, and other appropriate mechanisms; and
 
-**(g) Advisory panel** The Administrator may convene an ocean and coastal mapping advisory panel consisting of representatives from non-governmental entities to provide input regarding activities of the committee in consultation with the interagency committee.
+(6) representatives of nongovernmental entities.
+
+**(g) Support functions** The Working Group shall support the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of the National Ocean Exploration Act 1 and the Ocean Science and Technology Subcommittee of the Ocean Policy Committee established under [section 8932(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932/c&num=0&edition=prelim) on ocean mapping activities and associated technology development across the Federal Government, State governments, coastal Indian Tribes, private industry, nongovernmental organizations, and academia.
 
 ### Statutory Notes
 
-#### Transfer of Functions
-The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.
+#### References in Text
+The date of the enactment of the National Ocean Exploration Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022. Prior versions of the bill that was enacted into law as title CIII of div. J of Pub. L. 117–263 included such Short Title, but it was not enacted as part of Pub. L. 117–263.
+
+Section 5405 of the National Ocean Exploration Act, referred to in subsec. (g), probably means section 10304 of Pub. L. 117–263, which established the National Ocean Mapping, Exploration, and Characterization Council and is classified to [section 3408 of this title](./chapter-047-ocean-exploration.md#section-3408). Prior versions of the bill that was enacted into law as title CIII of div. J of Pub. L. 117–263 included such Short Title, but it was not enacted as part of Pub. L. 117–263. Pub. L. 117–263 does not contain a section 5405.
+
+#### Amendments
+2022—Pub. L. 117–263, § 10307(b)(1)(B)(i), substituted “Working Group” for “committee” in section catchline.
+
+Subsec. (a). Pub. L. 117–263, § 10307(b)(2), substituted “not later than 30 days after the date of the enactment of the National Ocean Exploration Act, shall use the Interagency Working Group on Ocean and Coastal Mapping in existence as of the date of the enactment of such Act to implement [section 3501 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3501).” for “within 30 days after March 30, 2009, shall convene or utilize an existing interagency committee on ocean and coastal mapping to implement [section 3501 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3501).”
+
+Subsec. (b). Pub. L. 117–263, § 10307(b)(3), substituted “senior-level” for “senior” in two places, “the Department of the Navy” for “the Chief of Naval Operations”, and “the Bureau of Ocean Energy Management of the Department of the Interior, the Office of the Assistant Secretary, Fish and Wildlife and Parks of the Department of the Interior” for “the Minerals Management Service” and struck out “The representatives shall be high-ranking officials of their respective agencies or departments and, whenever possible, the head of the portion of the agency or department that is most relevant to the purposes of this chapter.” after “surveying responsibilities.”
+
+Pub. L. 117–263, § 10307(b)(1)(B)(ii), substituted “Working Group” for “committee”.
+
+Subsec. (c). Pub. L. 117–263, § 10307(b)(4), amended subsec. (c) generally. Prior to amendment, text read as follows: “The Committee shall be co-chaired by the representative of the Department of Commerce and a representative of the Department of the Interior.”
+
+Subsec. (d). Pub. L. 117–263, § 10307(b)(5), amended subsec. (d) generally. Prior to amendment, text read as follows: “The co-chairmen shall establish a subcommittee to carry out the day-to-day work of the Committee, comprised of senior representatives of any member agency of the committee. Working groups may be formed by the full Committee to address issues of short duration. The subcommittee shall be chaired by the representative from the National Oceanic and Atmospheric Administration. The chairmen of the Committee may create such additional subcommittees and working groups as may be needed to carry out the work of Committee.”
+
+Subsec. (e). Pub. L. 117–263, § 10307(b)(1)(B)(iii), (6), substituted “Working Group” for “committee” and “each subordinate group” for “each subcommittee and each working group”.
+
+Subsec. (f). Pub. L. 117–263, § 10307(b)(7), added pars. (1) to (6) and struck out former pars. (1) to (5) which read as follows:
+
+“(1) other Federal efforts, including the Digital Coast, Geospatial One-Stop, and the Federal Geographic Data Committee;
+
+“(2) international mapping activities;
+
+“(3) coastal states;
+
+“(4) user groups through workshops and other appropriate mechanisms; and
+
+“(5) representatives of nongovernmental entities.”
+
+Pub. L. 117–263, § 10307(b)(1)(B)(iv), substituted “Working Group” for “committee” in introductory provisions.
+
+Subsec. (g). Pub. L. 117–263, § 10307(b)(8), (9), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “The Administrator may convene an ocean and coastal mapping advisory panel consisting of representatives from non-governmental entities to provide input regarding activities of the committee in consultation with the interagency committee.”
 
 
 <a id="section-3503"></a>
 ## § 3503. Biennial reports
 
-No later than 18 months after March 30, 2009, and biennially thereafter, the co-chairmen of the Committee shall transmit to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives a report detailing progress made in implementing this chapter, including—
+Not later than 18 months after the date of the enactment of the National Ocean Exploration Act,11 See References in Text note below. and biennially thereafter until 2040, the co-chairs of the Working Group, in coordination with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of such Act,1 shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives, a report detailing progress made in implementing this chapter, including—
 
-(1) an inventory of ocean and coastal mapping data within the territorial sea and the exclusive economic zone and throughout the Continental Shelf of the United States, noting the age and source of the survey and the spatial resolution (metadata) of the data;
+(1) an inventory of ocean and coastal mapping data, including the data maintained by the National Centers for Environmental Information of the National Oceanic and Atmospheric Administration, within the territorial sea and the exclusive economic zone and throughout the Continental Shelf of the United States, noting the age and source of the survey and the spatial resolution (metadata) of the data;
 
 (2) identification of priority areas in need of survey coverage using present technologies;
 
-(3) a resource plan that identifies when priority areas in need of modern ocean and coastal mapping surveys can be accomplished;
+(3) a resource plan that identifies when priority areas in need of modern ocean and coastal mapping surveys can be accomplished, including a plan to map the coasts of the United States on a requirements-based cycle, with mapping agencies and partners coordinating on a unified approach that factors in recent related studies, meets multiple user requirements, and identifies gaps;
 
 (4) the status of efforts to produce integrated digital maps of ocean and coastal areas;
 
@@ -134,40 +207,47 @@ No later than 18 months after March 30, 2009, and biennially thereafter, the co-
 
 (9) a statement of the status of efforts to declassify data gathered by the Navy, the National Geospatial-Intelligence Agency, and other agencies to the extent possible without jeopardizing national security, and make it available to partner agencies and the public;
 
-(10) a resource plan for a digital coast integrated mapping pilot project for the northern Gulf of Mexico that will—
+(10) the status of efforts to coordinate Federal programs with international, coastal State, and local government and nongovernmental mapping programs and leverage those programs;
 
-  (A) cover the area from the authorized coastal counties through the territorial sea;
+(11) a description of efforts of Federal agencies to streamline and expand contracting with nongovernmental entities for the purpose of fulfilling Federal mapping and charting responsibilities, plans, and strategies;
 
-  (B) identify how such a pilot project will leverage public and private mapping data and resources, such as the United States Geological Survey National Map, to result in an operational coastal change assessment program for the subregion;
+(12) an inventory and description of any new Federal or federally funded programs conducting shoreline delineation and ocean or coastal mapping since the previous reporting cycle;
 
-(11) the status of efforts to coordinate Federal programs with coastal state and local government programs and leverage those programs;
+(13) a progress report on the development of new and innovative technologies and applications through research and development, including cooperative or other agreements with joint or cooperative research institutes and centers and other nongovernmental entities;
 
-(12) a description of efforts of Federal agencies to increase contracting with nongovernmental entities; and
+(14) a description of best practices in data processing and distribution and leveraging opportunities among agencies represented on the Working Group and with coastal States, coastal Indian Tribes, and nongovernmental entities;
 
-(13) an inventory and description of any new Federal or federally funded programs conducting shoreline delineation and ocean or coastal mapping since the previous reporting cycle.
+(15) an identification of any training, technology, or other requirements for enabling Federal mapping programs, vessels, and aircraft to support a coordinated ocean and coastal mapping program; and
+
+(16) a timetable for implementation and completion of the plan described in paragraph (3), including recommendations for integrating new approaches into the program.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Ocean Exploration Act, referred to in text, probably means the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022. See below.
+
+Section 5405 of such Act, referred to in text, means section 5405 of the National Ocean Exploration Act, but probably should have been a reference to section 10304 of Pub. L. 117–263, which established the National Ocean Mapping, Exploration, and Characterization Council, and is classified to [section 3408 of this title](./chapter-047-ocean-exploration.md#section-3408). Prior versions of the bill that was enacted into law as title CIII of div. J of Pub. L. 117–263 included such Short Title, but it was not enacted as part of Pub. L. 117–263. Pub. L. 117–263 does not contain a section 5405.
+
+#### Amendments
+2022—Pub. L. 117–263, § 10307(c)(1), substituted “Not later than 18 months after the date of the enactment of the National Ocean Exploration Act, and biennially thereafter until 2040, the co-chairs of the Working Group, in coordination with the National Ocean Mapping, Exploration, and Characterization Council established under section 5405 of such Act, shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Energy and Natural Resources of the Senate, and the Committee on Natural Resources and the Committee on Science, Space, and Technology of the House of Representatives,” for “No later than 18 months after March 30, 2009, and biennially thereafter, the co-chairmen of the Committee shall transmit to the Committees on Commerce, Science, and Transportation and Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” in introductory provisions.
+
+Par. (1). Pub. L. 117–263, § 10307(c)(2), inserted “, including the data maintained by the National Centers for Environmental Information of the National Oceanic and Atmospheric Administration,” after “mapping data”.
+
+Par. (3). Pub. L. 117–263, § 10307(c)(3), inserted “, including a plan to map the coasts of the United States on a requirements-based cycle, with mapping agencies and partners coordinating on a unified approach that factors in recent related studies, meets multiple user requirements, and identifies gaps” after “accomplished”.
+
+Par. (10). Pub. L. 117–263, § 10307(c)(4), (5), redesignated par. (11) as (10), substituted “with international, coastal State, and local government and nongovernmental mapping programs” for “with coastal state and local government programs”, and struck out former par. (10) which related to a resource plan for a digital coast integrated mapping pilot project for the northern Gulf of Mexico.
+
+Par. (11). Pub. L. 117–263, § 10307(c)(4), (6), redesignated par. (12) as (11), substituted “streamline and expand” for “increase”, inserted “for the purpose of fulfilling Federal mapping and charting responsibilities, plans, and strategies” after “entities”, and struck out “and” at end. Former par. (11) redesignated (10).
+
+Par. (12). Pub. L. 117–263, § 10307(c)(4), (7), redesignated par. (13) as (12) and substituted semicolon for period at end. Former par. (12) redesignated (11).
+
+Pars. (13) to (16). Pub. L. 117–263, § 10307(c)(8), added pars. (13) to (16). Former par. (13) redesignated (12).
 
 
 <a id="section-3504"></a>
-## § 3504. Plan
-**(a) In general** Not later than 6 months after March 30, 2009, the Administrator, in consultation with the Committee, shall develop and submit to the Congress a plan for an integrated ocean and coastal mapping initiative within the National Oceanic and Atmospheric Administration.
+## § 3504. NOAA joint ocean and coastal mapping centers
 
-**(b) Plan requirements** The plan shall—
-
-(1) identify and describe all ocean and coastal mapping programs within the agency, including those that conduct mapping or related activities in the course of existing missions, such as hydrographic surveys, ocean exploration projects, living marine resource conservation and management programs, coastal zone management projects, and ocean and coastal observations and science projects;
-
-(2) establish priority mapping programs and establish and periodically update priorities for geographic areas in surveying and mapping across all missions of the National Oceanic and Atmospheric Administration, as well as minimum data acquisition and metadata standards for those programs;
-
-(3) encourage the development of innovative ocean and coastal mapping technologies and applications, through research and development through cooperative or other agreements with joint or cooperative research institutes or centers and with other non-governmental entities;
-
-(4) document available and developing technologies, best practices in data processing and distribution, and leveraging opportunities with other Federal agencies, coastal states, and non-governmental entities;
-
-(5) identify training, technology, and other resource requirements for enabling the National Oceanic and Atmospheric Administration’s programs, vessels, and aircraft to support a coordinated ocean and coastal mapping program;
-
-(6) identify a centralized mechanism or office for coordinating data collection, processing, archiving, and dissemination activities of all such mapping programs within the National Oceanic and Atmospheric Administration that meets Federal mandates for data accuracy and accessibility and designate a repository that is responsible for archiving and managing the distribution of all ocean and coastal mapping data to simplify the provision of services to benefit Federal and coastal state programs; and
-
-(7) set forth a timetable for implementation and completion of the plan, including a schedule for submission to the Congress of periodic progress reports and recommendations for integrating approaches developed under the initiative into the interagency program.
-
-**(c) NOAA joint ocean and coastal mapping centers** The Administrator may maintain and operate up to 3 joint ocean and coastal mapping centers, including a joint hydrographic center, which shall each be co-located with an institution of higher education. The centers shall serve as hydrographic centers of excellence and may conduct activities necessary to carry out the purposes of this chapter, including—
+The Administrator may maintain and operate up to three joint ocean and coastal mapping centers, including a joint hydrographic center, which shall each be co-located with an institution of higher education. The centers shall serve as hydrographic centers of excellence and may conduct activities necessary to carry out the purposes of this chapter, including—
 
 (1) research and development of innovative ocean and coastal mapping technologies, equipment, and data products;
 
@@ -175,11 +255,51 @@ No later than 18 months after March 30, 2009, and biennially thereafter, the co-
 
 (3) data processing for nontraditional data and uses;
 
-(4) advancing the use of remote sensing technologies, for related issues, including mapping and assessment of essential fish habitat and of coral resources, ocean observations, and ocean exploration; and
+(4) advancing the use of remote sensing and uncrewed technologies, for related issues, including mapping and assessment of essential fish habitat and of coral resources, ocean observations, and ocean exploration; and
 
 (5) providing graduate education and training in ocean and coastal mapping sciences for members of the National Oceanic and Atmospheric Administration Commissioned Officer Corps, personnel of other agencies with ocean and coastal mapping programs, and civilian personnel.
 
-**(d) NOAA report** The Administrator shall continue developing a strategy for expanding contracting with non-governmental entities to minimize duplication and take maximum advantage of nongovernmental capabilities in fulfilling the Administration’s mapping and charting responsibilities. Within 120 days after March 30, 2009, the Administrator shall transmit a report describing the strategy developed under this subsection to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Natural Resources of the House of Representatives.
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–263, § 10307(d)(2), substituted “NOAA joint ocean and coastal mapping centers” for “Plan” in section catchline, redesignated subsec. (c) as entire section, struck out subsec. (c) heading “NOAA joint ocean and coastal mapping centers” before introductory provisions, and struck out subsecs. (a), (b), and (d) which related to development of a plan for an integrated ocean and coastal mapping initiative, requirements for the plan, and strategy for expanding contracting with non-governmental entities, respectively.
+
+Subsec. (c). Pub. L. 117–263, § 10307(d)(1), in subsec. (c) prior to its redesignation as entire section, substituted “three” for “3” in introductory provisions and inserted “and uncrewed” after “sensing” in par. (4).
+
+
+<a id="section-3504a"></a>
+## § 3504a. Ocean and coastal mapping Federal funding opportunity
+**(a) In general** Not later than one year after the date of the enactment of the National Ocean Exploration Act,11 See References in Text note below. the Administrator shall develop an integrated ocean and coastal mapping Federal funding match opportunity, to be known as the “Brennan Ocean Mapping Fund” in memory of Rear Admiral Richard T. Brennan, within the National Oceanic and Atmospheric Administration with Federal, State, Tribal, local, nonprofit, private industry, or academic partners in order to increase the coordinated acquisition, processing, stewardship, and archival of new ocean and coastal mapping data in United States waters.
+
+**(b) Rules** The Administrator shall develop administrative and procedural rules for the ocean and coastal mapping Federal funding match opportunity developed under subsection (a), to include—
+
+(1) specific and detailed criteria that must be addressed by an applicant, such as geographic overlap with preestablished priorities, number and type of project partners, benefit to the applicant, coordination with other funding opportunities, and benefit to the public;
+
+(2) determination of the appropriate funding match amounts and mechanisms to use, such as grants, agreements, or contracts; and
+
+(3) other funding award criteria as are necessary or appropriate to ensure that evaluations of proposals and decisions to award funding under this section are based on objective standards applied fairly and equitably to those proposals.
+
+**(c) Geospatial services and contract vehicles** The ocean and coastal mapping Federal funding match opportunity developed under subsection (a) shall leverage Federal expertise and capacities for geospatial services and Federal geospatial contract vehicles using the private sector for acquisition efficiencies.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Ocean Exploration Act, referred to in subsec. (a), probably means the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022. Prior versions of the bill that was enacted into law as title CIII of div. J of Pub. L. 117–263 included such Short Title, but it was not enacted as part of Pub. L. 117–263.
+
+#### Prior Provisions
+A prior section 12206 of Pub. L. 111–11 was renumbered 12208 and is classified to [section 3505 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3505).
+
+
+<a id="section-3504b"></a>
+## § 3504b. Agreements and financial assistance
+**(a) Agreements** Subject to the availability of appropriations for such purpose, the head of a Federal agency that is represented on the Interagency Committee on Ocean and Coastal Mapping may enter into agreements with any other agency that is so represented to provide, on a reimbursable or nonreimbursable basis, facilities, equipment, services, personnel, and other support services to carry out the purposes of this chapter.
+
+**(b) Financial assistance** The Administrator may make financial assistance awards (grants of cooperative agreements) to any State or subdivision thereof or any public or private organization or individual to carry out the purposes of this chapter.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 12207 of Pub. L. 111–11 was renumbered section 12209 and is classified to [section 3506 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3506).
 
 
 <a id="section-3505"></a>
@@ -187,30 +307,31 @@ No later than 18 months after March 30, 2009, and biennially thereafter, the co-
 
 Nothing in this chapter shall be construed to supersede or alter the existing authorities of any Federal agency with respect to ocean and coastal mapping.
 
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 12208 of Pub. L. 111–11 was renumbered 12210 is classified to [section 3507 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3507).
+
 
 <a id="section-3506"></a>
 ## § 3506. Authorization of appropriations
-**(a) In general** In addition to the amounts authorized by [section 892d of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-892d), there are authorized to be appropriated to the Administrator to carry out this chapter—
+**(a) In general** In addition to the amounts authorized by [section 892d of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-892d), there are authorized to be appropriated to the Administrator to carry out this chapter $45,000,000 for each of fiscal years 2023 through 2028.
 
-(1) $26,000,000 for fiscal year 2009;
+**(b) Joint ocean and coastal mapping centers** Of the amounts appropriated pursuant to subsection (a), the following amounts shall be used to carry out section 3504(c) 11 See References in Text Note below. of this title $15,000,000 for each of fiscal years 2023 through 2028.
 
-(2) $32,000,000 for fiscal year 2010;
+**(c) Ocean and coastal mapping Federal funding opportunity** Of amounts authorized pursuant to subsection (a), $20,000,000 is authorized to carry out [section 3504a of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3504a).
 
-(3) $38,000,000 for fiscal year 2011; and
+### Statutory Notes
 
-(4) $45,000,000 for each of fiscal years 2012 through 2015.
+#### References in Text
+[Section 3504 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3504), referred to in subsec. (b), was amended by Pub. L. 117–263, div. J, title CIII, § 10307(d)(2)(B), (C), Dec. 23, 2022, 136 Stat. 3978, by striking out the subsec. (c) designation and striking all the other subsections, thereby redesignating subsec. (c) as all of [section 3504 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3504).
 
-**(b) Joint ocean and coastal mapping centers** Of the amounts appropriated pursuant to subsection (a), the following amounts shall be used to carry out [section 3504(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3504/c&num=0&edition=prelim):
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 10307(f)(1), substituted “this chapter $45,000,000 for each of fiscal years 2023 through 2028.” for “this chapter—” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
 
-(1) $11,000,000 for fiscal year 2009.
+Subsec. (b). Pub. L. 117–263, § 10307(f)(2), substituted “this chapter $15,000,000 for each of fiscal years 2023 through 2028.” for “this title:” and struck out pars. (1) to (4) which authorized appropriations for fiscal years 2009 through 2015.
 
-(2) $12,000,000 for fiscal year 2010.
-
-(3) $13,000,000 for fiscal year 2011.
-
-(4) $15,000,000 for each of fiscal years 2012 through 2015.
-
-**(c) Cooperative agreements** To carry out interagency activities under [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502), the head of any department or agency may execute a cooperative agreement with the Administrator, including those authorized by [section 883e of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-883e).
+Subsec. (c). Pub. L. 117–263, § 10307(f)(3), (4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “To carry out interagency activities under [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502), the head of any department or agency may execute a cooperative agreement with the Administrator, including those authorized by [section 883e of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-883e).”
 
 
 <a id="section-3507"></a>
@@ -222,11 +343,11 @@ In this chapter:
 
 (2) **Coastal state** — The term “coastal state” has the meaning given that term by [section 1453(4) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453/4&num=0&edition=prelim).
 
-(3) **Committee** — The term “Committee” means the Interagency Ocean and Coastal Mapping Committee established by [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502).
+(3) **Working Group** — The term “Working Group” means the Interagency Working Group on Ocean and Coastal Mapping under [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502).
 
 (4) **Exclusive economic zone** — The term “exclusive economic zone” means the exclusive economic zone of the United States established by Presidential Proclamation No. 5030, of March 10, 1983.
 
-(5) **Ocean and coastal mapping** — The term “ocean and coastal mapping” means the acquisition, processing, and management of physical, biological, geological, chemical, and archaeological characteristics and boundaries of ocean and coastal areas, resources, and sea beds through the use of acoustics, satellites, aerial photogrammetry, light and imaging, direct sampling, and other mapping technologies.
+(5) **Ocean and coastal mapping** — The term “ocean and coastal mapping” means the acquisition, processing, management, maintenance, interpretation, certification, and dissemination of physical, biological, geological, chemical, and archaeological characteristics and boundaries of ocean and coastal areas, resources, and sea beds through the use of acoustics, satellites, aerial photogrammetry, light and imaging, direct sampling, and other mapping technologies.
 
 (6) **Territorial sea** — The term “territorial sea” means the belt of sea measured from the baseline of the United States determined in accordance with international law, as set forth in Presidential Proclamation Number 5928, dated December 27, 1988.
 
@@ -234,9 +355,18 @@ In this chapter:
 
 (8) **Outer Continental Shelf** — The term “Outer Continental Shelf” means all submerged lands lying seaward and outside of lands beneath navigable waters (as that term is defined in [section 1301 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim)), and of which the subsoil and seabed appertain to the United States and are subject to its jurisdiction and control.
 
+(9) **Coastal Indian Tribe** — The term “coastal Indian Tribe” means an “Indian Tribe”, as defined in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim), the land of which is located in a coastal State.
+
 ### Statutory Notes
 
 #### References in Text
 Presidential Proclamation No. 5030, referred to in par. (4), is set out under [section 1453 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), Conservation.
 
 Presidential Proclamation Number 5928, referred to in par. (6), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
+
+#### Amendments
+2022—Par. (3). Pub. L. 117–263, § 10307(b)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: “The term ‘Committee’ means the Interagency Ocean and Coastal Mapping Committee established by [section 3502 of this title](./chapter-048-ocean-and-coastal-mapping-integration.md#section-3502).”
+
+Par. (5). Pub. L. 117–263, § 10307(g)(1), substituted “processing, management, maintenance, interpretation, certification, and dissemination” for “processing, and management”.
+
+Par. (9). Pub. L. 117–263, § 10307(g)(2), added par. (9).

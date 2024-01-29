@@ -2,25 +2,25 @@
 title: 38
 chapter: '18'
 heading: BENEFITS FOR CHILDREN OF VIETNAM VETERANS AND CERTAIN OTHER VETERANS
-section_count: 18
+section_count: 22
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
 <a id="section-1801"></a>
-## § 1801. Nonduplication of benefits
-**(a) Monetary Allowance.—** In the case of an eligible child under subchapter II of this chapter whose only covered birth defect is spina bifida, a monetary allowance shall be paid under subchapter I of this chapter. In the case of an eligible child under subchapter II of this chapter who has spina bifida and one or more additional covered birth defects, a monetary allowance shall be paid under subchapter II of this chapter. In the case of a child eligible for benefits under subchapter I or II of this chapter who is also eligible for benefits under subchapter III of this chapter, a monetary allowance shall be paid under the subchapter of this chapter elected by the child.
+## § 1801. Biennial report
 
-**(b) Vocational Rehabilitation.—** An individual may only be provided one program of vocational training under this chapter.
+Not less frequently than once every two years, the Secretary shall submit to Congress a report setting forth the following:
+
+(1) The number of covered children receiving health care or benefits under this chapter as of the date on which the report is submitted.
+
+(2) The number of covered children for which the Department is paying for or providing a social worker as of such date.
+
+(3) Metrics on outreach conducted under [section 1836(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1836/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
 #### Prior Provisions
-Prior sections 1834, 1835, and 1841 to 1851 were renumbered sections 3734, 3735, and 3741 to 3751 of this title, respectively.
-
-#### Amendments
-2003—Pub. L. 108–183, § 102(a)(1), renumbered [section 1824 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1824&num=0&edition=prelim) as this section.
-
-Subsec. (a). Pub. L. 108–183, § 102(c), inserted at end: “In the case of a child eligible for benefits under subchapter I or II of this chapter who is also eligible for benefits under subchapter III of this chapter, a monetary allowance shall be paid under the subchapter of this chapter elected by the child.”
+Prior sections 1841 to 1851 were renumbered sections 3741 to 3751 of this title, respectively.
 
 
 <a id="section-1802"></a>
@@ -450,9 +450,13 @@ In this chapter:
 
     (ii) was conceived after the date on which that veteran first entered service described in subsection (c) of that section.
 
-(2) The term “Vietnam veteran” means an individual who performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era, without regard to the characterization of that individual’s service.
+(2) The term “covered child” means a child who is eligible for health care and benefits under this chapter.
 
-(3) The term “Vietnam era” with respect to—
+(3) The term “covered veteran” means an individual whose children are eligible for health care and benefits under this chapter.
+
+(4) The term “Vietnam veteran” means an individual who performed active military, naval, or air service in the Republic of Vietnam during the Vietnam era, without regard to the characterization of that individual’s service.
+
+(5) The term “Vietnam era” with respect to—
 
   (A) subchapter I of this chapter, means the period beginning on January 9, 1962, and ending on May 7, 1975; and
 
@@ -464,6 +468,8 @@ In this chapter:
 A prior section 1831 was renumbered [section 3731 of this title](./chapter-037-housing-and-small-business-loans.md#section-3731).
 
 #### Amendments
+2023—Pars. (2) to (5). Pub. L. 118–18 added pars. (2) and (3) and redesignated former pars. (2) and (3) as (4) and (5), respectively.
+
 2019—Par. (1)(B). Pub. L. 116–23, § 4(b)(1)(A), substituted “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)” for “subchapter III of this chapter” in introductory provisions.
 
 Par. (1)(B)(i). Pub. L. 116–23, § 4(b)(1)(B), substituted “that section” for “[section 1821 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1821)”.
@@ -483,6 +489,9 @@ Amendment by Pub. L. 116–23 effective Jan. 1, 2020, see section 4(f) of Pub. L
 
 #### Effective Date
 Subchapter effective on the first day of the first month beginning more than one year after Nov. 1, 2000, see section 401(g) of Pub. L. 106–419, set out as a note under [section 1811 of this title](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1811).
+
+#### Memorandum of Understanding
+Pub. L. 118–18, § 1(c), Oct. 6, 2023, 137 Stat. 104, provided that: “Not later than 90 days after the date of the enactment of this Act [Oct. 6, 2023], the Under Secretary for Benefits of the Department of Veterans Affairs and the Under Secretary for Health of the Department shall enter into a memorandum of understanding— “(1) to better assist covered children (as defined in [section 1831 of title 38](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1831), United States Code, as amended by subsection (a)); and “(2) to establish conditions to be included in the report required by [section 1836(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1836/c&num=0&edition=prelim), United States Code, as added by subsection (b).”
 
 
 <a id="section-1833"></a>
@@ -527,3 +536,68 @@ A prior section 1833 was renumbered [section 3733 of this title](./chapter-037-h
 
 #### Amendments
 2003—Pub. L. 108–183 renumbered [section 1823 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1823&num=0&edition=prelim) as this section.
+
+
+<a id="section-1835"></a>
+## § 1835. Nonduplication of benefits
+**(a) Monetary Allowance.—** In the case of an eligible child under subchapter II of this chapter whose only covered birth defect is spina bifida, a monetary allowance shall be paid under subchapter I of this chapter. In the case of an eligible child under subchapter II of this chapter who has spina bifida and one or more additional covered birth defects, a monetary allowance shall be paid under subchapter II of this chapter. In the case of a child eligible for benefits under subchapter I or II of this chapter who is also eligible for benefits under subchapter III of this chapter, a monetary allowance shall be paid under the subchapter of this chapter elected by the child.
+
+**(b) Vocational Rehabilitation.—** An individual may only be provided one program of vocational training under this chapter.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 1834 was renumbered [section 3734 of this title](./chapter-037-housing-and-small-business-loans.md#section-3734).
+
+#### Amendments
+2003—Pub. L. 108–183, § 102(a)(1), renumbered [section 1824 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1824&num=0&edition=prelim) as this section.
+
+Subsec. (a). Pub. L. 108–183, § 102(c), inserted at end: “In the case of a child eligible for benefits under subchapter I or II of this chapter who is also eligible for benefits under subchapter III of this chapter, a monetary allowance shall be paid under the subchapter of this chapter elected by the child.”
+
+
+<a id="section-1836"></a>
+## § 1836. Advisory council
+**(a) In General.—** The Secretary shall establish an advisory council on health care and benefits for covered children.
+
+**(b) Membership.—** The advisory council established under subsection (a) shall be composed of Federal employees.
+
+**(c) Duties.—** The advisory council established under subsection (a) shall solicit feedback from covered children and covered veterans on the health care and benefits provided under this chapter and communicate such feedback to the Secretary.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 1835 was renumbered [section 2041 of this title](./chapter-020-benefits-for-homeless-veterans.md#section-2041).
+
+#### Deadline for Establishment of Advisory Council
+Pub. L. 118–18, § 1(d)(1), Oct. 6, 2023, 137 Stat. 104, provided that: “Not later than 270 days after the date of the enactment of this Act [Oct. 6, 2023], the Secretary of Veterans Affairs shall establish the advisory council required under [section 1835 of title 38](./chapter-018-benefits-for-children-of-vietnam-veterans-and-certain-other-veterans.md#section-1835), United States Code, as added by subsection (b).”
+
+
+<a id="section-1837"></a>
+## § 1837. Care and coordination teams
+**(a) In General.—** The Secretary shall establish care and coordination teams for covered children.
+
+**(b) Outreach.—** A care and coordination team established under subsection (a) shall attempt to contact each covered child—
+
+(1) not less frequently than once every 180 days, to ensure the continued care of the child and assist with any changes in care needed due to a changed situation of the child; and
+
+(2) as soon as practicable after the identification of a condition listed in the report required by subsection (c).
+
+**(c) Report.—** Not later than 180 days after the date of the enactment of this section, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report setting forth a list of conditions that will trigger outreach to covered children under subsection (b)(2).
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 118–18, which was approved Oct. 6, 2023.
+
+#### Deadline for Establishment of Care and Coordination Teams
+Pub. L. 118–18, § 1(d)(2), Oct. 6, 2023, 137 Stat. 104, provided that: “Not later than one year after the date of the enactment of this Act [Oct. 6, 2023], the Secretary of Veterans Affairs shall establish the care and coordination teams required under section 1836 of such title, as added by subsection (b).”
+
+
+<a id="section-1838"></a>
+## § 1838. Duration of health care and benefits provided
+
+The Secretary shall provide a covered child with health care and benefits under this chapter—
+
+(1) for the duration of the life of the child; and
+
+(2) notwithstanding any death of a parent of the child that precedes the death of the child.

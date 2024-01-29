@@ -55,7 +55,7 @@ Commissioned officers of the Army, Navy, and Air Force may be detailed for duty 
 1968—Subsec. (a)(1)(A). Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-712"></a>
@@ -133,11 +133,11 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 (7) Commanders of combatant commands.
 
-**(b) Protection for Additional Personnel.—**
+**(b) 11 See Temporary Extension of Authority To Provide Security for Former Department of Defense Officials note below. Protection for Additional Personnel.—**
 
 (1) **Authority to provide.—** — The Secretary of Defense, under regulations prescribed by the Secretary and in accordance with guidelines approved by the Secretary and the Attorney General, may authorize qualified members of the armed forces and qualified civilian employees of the Department of Defense to provide physical protection and personal security within the United States to individuals other than individuals described in paragraphs (1) through (7) of subsection (a) if the Secretary determines that such protection and security are necessary because—
 
-  (A) there is an imminent and credible threat to the safety of the individual for whom protection is to be provided; or
+  (A) there is an 22 So in original. Probably should be “a”. serious and credible threat to the safety of the individual for whom protection is to be provided; or
 
   (B) compelling operational considerations make such protection essential to the conduct of official Department of Defense business.
 
@@ -145,7 +145,7 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
   (A) Any official or employee of the Department of Defense or member of the armed forces.
 
-  (B) A former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for a period of up to two years beginning on the date on which the official separates from the Department.
+  (B) A former or retired official who faces serious and credible threats arising from duties performed while employed by the Department.
 
   (C) A head of a foreign state, an official representative of a foreign government, or any other distinguished foreign visitor to the United States who is primarily conducting official business with the Department of Defense.
 
@@ -157,17 +157,11 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 (4) **Requirement for written determination.—** — A determination of the Secretary of Defense to provide physical protection and personal security under this subsection shall be in writing, shall be based on a threat assessment by an appropriate law enforcement, security, or intelligence organization, and shall include the name and title of the officer, employee, or other individual affected, the reason for such determination, the duration of the authorized protection and security for such officer, employee, or individual, and the nature of the arrangements for the protection and security.
 
-(5) **Duration of protection.—**
-
-  (A) *Initial period of protection.—* — After making a written determination under paragraph (4), the Secretary of Defense may provide protection and security to an individual under this subsection for an initial period of not more than 90 calendar days.
-
-  (B) *Subsequent period.—* — If, at the end of the period that protection and security is provided to an individual under subsection (A), the Secretary determines that a condition described in subparagraph (A) or (B) of paragraph (1) continues to exist with respect to the individual, the Secretary may extend the period that such protection and security is provided for additional 60-day periods. The Secretary shall review such a determination at the end of each 60-day period to determine whether to continue to provide such protection and security.
-
-  (C) *Requirement for compliance with regulations.—* — Protection and personal security provided under subparagraph (B) shall be provided in accordance with the regulations and guidelines referred to in paragraph (1).
+(5) **Duration of protection.—** — The Secretary of Defense shall require periodic reviews, not less than once every six months, of the duration of protection provided to individuals under this subsection.
 
 (6) **Submission to congress.—**
 
-  (A) *In general.—* — Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees each determination made under paragraph (4) to provide protection and security to an individual and of each determination under paragraph (5)(B) to extend such protection and security, together with the justification for such determination, not later than 15 days after the date on which the determination is made.
+  (A) *In general.—* — Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees each determination made under paragraph (4) to provide protection and security to an individual, together with the justification for such determination, not later than 15 days after the date on which the determination is made.
 
   (B) *Form of report.—* — A report submitted under subparagraph (A) may be made in classified form.
 
@@ -199,6 +193,8 @@ In subsection (b), the words “The Secretary concerned may” are substituted f
 
 (3) **Authorities of other departments.—** — Nothing in this section may be construed to preclude or limit, in any way, the express or implied powers of the Secretary of Defense or other Department of Defense officials, or the duties and authorities of the Secretary of State, the Director of the United States Secret Service, the Director of the United States Marshals Service, or any other Federal law enforcement agency.
 
+**(e) Reimbursement.—** The Secretary of Defense may reimburse a former or retired official who faces serious and credible threats arising from duties performed while employed by the Department for security services and equipment procured at the personal expense of the official, not to exceed an aggregate of $15,000,000 in any fiscal year for all former and retired officials authorized by the Secretary of Defense for such reimbursement.
+
 ### Statutory Notes
 
 #### Codification
@@ -210,6 +206,16 @@ A prior section 714, added Pub. L. 105–85, div. A, title V, § 597(a), Nov. 18
 Another prior section 714, act Aug. 10, 1956, ch. 1041, 70A Stat. 33, related to reports to Congress on length of tours of duty outside the United States by members of the Army and Air Force, prior to repeal by Pub. L. 86–533, § 1(5)(A), June 29, 1960, 74 Stat. 246.
 
 #### Amendments
+2023—Subsec. (b)(1)(A). Pub. L. 118–31, § 529A(a)(1), substituted “serious and credible threat” for “imminent and credible threat”.
+
+Subsec. (b)(2)(B). Pub. L. 118–31, § 529A(a)(2), struck out “for a period of up to two years beginning on the date on which the official separates from the Department” before period at end.
+
+Subsec. (b)(5). Pub. L. 118–31, § 529A(a)(3), amended par. (5) generally. Prior to amendment, par. (5) consisted of subpars. (A) to (C) relating to initial period of protection, subsequent period of protection, and requirement for compliance with regulations, respectively.
+
+Subsec. (b)(6)(A). Pub. L. 118–31, § 529A(a)(4), struck out “and of each determination under paragraph (5)(B) to extend such protection and security” after “an individual”.
+
+Subsec. (e). Pub. L. 118–31, § 529A(b), added subsec. (e).
+
 2016—Subsec. (a). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces” in introductory provisions.
 
 Subsec. (a)(6). Pub. L. 114–328, § 952(c)(5)(A)(i), substituted “Members of the Joint Chiefs of Staff in addition to the Chairman and Vice Chairman” for “Chiefs of the Services”.
@@ -229,6 +235,9 @@ Subsec. (c). Pub. L. 114–328, § 952(c)(4)(B), substituted “section, the ter
 Subsec. (d)(1). Pub. L. 114–328, § 952(c)(4)(A), substituted “armed forces” for “Armed Forces”.
 
 Subsec. (d)(2). Pub. L. 114–328, § 952(c)(4)(C), struck out “, United States Code” after “title 18”.
+
+#### Temporary Extension of Authority To Provide Security for Former Department of Defense Officials
+Pub. L. 117–263, div. A, title XI, § 1105, Dec. 23, 2022, 136 Stat. 2817, provided that: “During the period beginning on the date of enactment of this Act [Dec. 23, 2022] and ending on January 1, 2024, subsection (b) of [section 714 of title 10](./chapter-041-special-appointments-assignments-details-and-duties.md#section-714), United States Code, shall be applied— “(1) in paragraph (1)(A), by substituting ‘a serious and credible threat’ for ‘an imminent and credible threat’; “(2) in paragraph (2)(B), by substituting ‘three years’ for ‘two years’; and “(3) in paragraph (6)(A), by substituting—“(A) ‘congressional leadership and the congressional defense committees’ for ‘the congressional defense committees’; and “(B) by substituting ‘the justification for such determination, scope of the protection, and the anticipated cost and duration of such protection’ for ‘the justification for such determination’.”
 
 
 <a id="section-715"></a>
@@ -275,7 +284,7 @@ Another section 716 was renumbered [section 717 of this title](./chapter-041-spe
 1970—Pub. L. 91–392 substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in section catchline and “his armed force”, “another armed force”, “An officer transferred under this section may not be assigned”, and “before his transfer” for “the Army, Navy, Air Force, or Marine Corps”, “any other of those armed forces”, “No officer transferred pursuant to this authority shall be assigned”, and “prior to such transfer” in text, respectively, and authorized interservice transfers of officers of the Coast Guard.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Delegation of Functions
 Functions of President under subsec. (a) of this section delegated to Secretary of Commerce by section 1(m) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
@@ -366,10 +375,10 @@ Subsecs. (e), (f). Pub. L. 96–513, § 511(22) (A), (C), redesignated subsec. (
 1965—Subsec. (b). Pub. L. 89–348 repealed provision of subsec. (b) which required the Secretary of Defense or the Secretary of the Treasury, as the case may be, to report to the Committees on the Armed Services of the Senate and House of Representatives the details of the proposed participation by members of the Armed Forces under his jurisdiction in international amateur sports competition.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-718"></a>
@@ -391,7 +400,7 @@ Upon the request of the Secretary of Commerce, the Secretary of a military depar
 1980—Pub. L. 96–513 substituted “of members of the armed forces to National Oceanic and Atmospheric” for “to Environmental Science Services” in section catchline, and substituted “National Oceanic and Atmospheric” for “Environmental Science Services” in text.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-720"></a>

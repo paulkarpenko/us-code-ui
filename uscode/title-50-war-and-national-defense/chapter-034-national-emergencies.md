@@ -35,6 +35,9 @@ Pub. L. 94–412, title V, § 501(h), Sept. 14, 1976, 90 Stat. 1258, provided th
 
 ### Statutory Notes
 
+#### Termination of National Emergency Concerning COVID–19
+Pub. L. 118–3, Apr. 10, 2023, 137 Stat. 6, provided: “That, pursuant to section 202 of the National Emergencies Act ([50 U.S.C. 1622](./chapter-034-national-emergencies.md#section-1622)), the national emergency declared by the finding of the President on March 13, 2020, in Proclamation 9994 (85 Fed. Reg. 15337) [set out below] is hereby terminated.”
+
 #### Proc. No. 7463. Declaration of National Emergency by Reason of Certain Terrorist Attacks
 Proc. No. 7463, Sept. 14, 2001, 66 F.R. 48199, provided:
 
@@ -51,17 +54,19 @@ IN WITNESS WHEREOF, I have hereunto set my hand this fourteenth day of September
 George W. Bush.
 
 #### Continuation of National Emergency Declared by Proc. No. 7463
-Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897, provided:
+Notice of President of the United States, dated Sept. 7, 2023, 88 F.R. 62433, provided:
 
 Consistent with section 202(d) of the National Emergencies Act, [50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim), I am continuing for 1 year the national emergency previously declared on September 14, 2001, in Proclamation 7463, with respect to the terrorist attacks of September 11, 2001, and the continuing and immediate threat of further attacks on the United States.
 
-Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2022. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
+Because the terrorist threat continues, the national emergency declared on September 14, 2001, and the powers and authorities adopted to deal with that emergency must continue in effect beyond September 14, 2023. Therefore, I am continuing in effect for an additional year the national emergency that was declared on September 14, 2001, with respect to the terrorist threat.
 
 This notice shall be published in the Federal Register and transmitted to the Congress.
 
 J.R. Biden, Jr.
 
 Prior continuations of national emergency declared by Proc. No. 7463 were contained in the following:
+
+Notice of President of the United States, dated Sept. 9, 2022, 87 F.R. 55897.
 
 Notice of President of the United States, dated Sept. 9, 2021, 86 F.R. 50835.
 
@@ -139,16 +144,13 @@ IN WITNESS WHEREOF, I have hereunto set my hand this thirteenth day of March, in
 
 Donald J. Trump.
 
-#### Continuation of the National Emergency Declared by Proc. No. 9994
-Notice of President of the United States, dated Feb. 18, 2022, 87 F.R. 10289, provided:
+[National emergency declared in Proc. No. 9994, set out above, terminated by Pub. L. 118–3, Apr. 10, 2023, 137 Stat. 6, set out above.]
 
-On March 13, 2020, by Proclamation 9994 [set out above], the President declared a national emergency concerning the coronavirus disease 2019 (COVID–19) pandemic. The COVID–19 pandemic continues to cause significant risk to the public health and safety of the Nation. For this reason, the national emergency declared on March 13, 2020, and beginning March 1, 2020, must continue in effect beyond March 1, 2022. Therefore, in accordance with section 202(d) of the National Emergencies Act ([50 U.S.C. 1622(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1622/d&num=0&edition=prelim)), I am continuing the national emergency declared in Proclamation 9994 concerning the COVID–19 pandemic.
+Continuations of the national emergency declared by Proc. No. 9994 were contained in the following:
 
-This notice shall be published in the Federal Register and transmitted to the Congress.
+Notice of President of the United States, dated Feb. 10, 2023, 88 F.R. 9385.
 
-J.R. Biden, Jr.
-
-Prior continuation of the national emergency declared by Proc. No. 9994 was contained in the following:
+Notice of President of the United States, dated Feb. 18, 2022, 87 F.R. 10289.
 
 Notice of President of the United States, dated Feb. 24, 2021, 86 F.R. 11599.
 
@@ -369,6 +371,31 @@ For provisions relating to the release of the American hostages in Iran, see Ex.
 
 **(c) Expenditures during national emergency; Presidential reports to Congress** When the President declares a national emergency or Congress declares war, the President shall transmit to Congress, within ninety days after the end of each six-month period after such declaration, a report on the total expenditures incurred by the United States Government during such six-month period which are directly attributable to the exercise of powers and authorities conferred by such declaration. Not later than ninety days after the termination of each such emergency or war, the President shall transmit a final report on all such expenditures.
 
+### Statutory Notes
+
+#### Delegation of Authority of Certain National Emergency Expenditure Reporting Functions
+Memorandum of President of the United States, July 7, 2023, 88 F.R. 44665, provided:
+
+Memorandum for the Secretary of Homeland Security[,] the Secretary of Health and Human Services[, and] the Secretary of the Treasury
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.) (NEA) and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
+
+Section 1. Delegations. The Secretary of Homeland Security is hereby authorized to submit expenditure information to the Congress on the national emergency declared in Proclamation 6867 [[46 U.S.C. 70051](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim) note], as amended [sic] by Proclamation 7757 [[46 U.S.C. 70051](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim) note], Proclamation 9398 [[46 U.S.C. 70051](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim) note], and Proclamation 9699 [[46 U.S.C. 70051](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim) note], consistent with section 401(c) of the NEA ([50 U.S.C. 1641(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641/c&num=0&edition=prelim)). The Secretary of Homeland Security is hereby authorized to submit expenditure information to the Congress on the national emergency declared in Proclamation 10371 [[46 U.S.C. 70051](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70051&num=0&edition=prelim) note], consistent with section 401(c) of the NEA. The Secretary of Health and Human Services, in consultation with the Secretary of the Treasury, is hereby authorized to submit expenditure information to the Congress on the national emergency declared in Proclamation 9994 [[50 U.S.C. 1621](./chapter-034-national-emergencies.md#section-1621) note], consistent with section 401(c) of the NEA. With respect to the delegations under this section, the Secretaries may consult with the Congress as warranted to ensure that the Congress receives complete and accurate expenditure information as expeditiously as possible.
+
+Sec. 2. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Homeland Security is authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
+
 
 <a id="section-1651"></a>
 ## § 1651. Other laws, powers and authorities conferred thereby, and actions taken thereunder; Congressional studies
@@ -389,19 +416,12 @@ For provisions relating to the release of the American hostages in Iran, see Ex.
 ### Statutory Notes
 
 #### References in Text
-Public Law 85–804, referred to in subsec. (a)(4), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, as amended, which is classified generally to chapter 29 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
-
-#### Codification
-In subsec. (a)(1), “Chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “Act of June 30, 1949 ([41 U.S.C. 252](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section252&num=0&edition=prelim))” on authority of Pub. L. 107–217, § 5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
-
-In subsec. (a)(2), “Section 3727(a)–(e)(1) of title 31” substituted for “Section 3477 of the Revised Statutes, as amended ([31 U.S.C. 203](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section203&num=0&edition=prelim))” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
-
-In subsec. (a)(3), “[Section 6305 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6305&num=0&edition=prelim)” substituted for “Section 3737 of the Revised Statutes, as amended ([41 U.S.C. 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section15&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+Public Law 85–804, referred to in subsec. (a)(4), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
-2021—Subsec. (a). Pub. L. 117–81 added pars. (1) to (5) and struck out former pars. (1) to (5), which set out sections and provisions to which the provisions of this chapter are inapplicable.
+2021—Subsec. (a). Pub. L. 117–81 added pars. (1) to (5) and struck out former pars. (1) to (5) which set out sections and provisions to which the provisions of this chapter are inapplicable.
 
-2002—Subsec. (a). Pub. L. 107–314 struck out par. (2), which read “Act of April 28, 1942 ([40 U.S.C. 278b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section278b&num=0&edition=prelim));”, and redesignated pars. (3) to (7) as (1) to (5), respectively.
+2002—Subsec. (a). Pub. L. 107–314 redesignated pars. (3) to (7) as (1) to (5), respectively, and struck out former par. (2) which read as follows: “Act of April 28, 1942 ([40 U.S.C. 278b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section278b&num=0&edition=prelim));”.
 
 1998—Subsec. (a)(6). Pub. L. 105–362 substituted “1431 et seq.” for “1431–1435”.
 

@@ -20,7 +20,7 @@ source: >-
 
 (5) To ensure that DNA testing and analysis of samples from crimes, including sexual assault and other serious violent crimes, are carried out in a timely manner.
 
-(6) To implement a DNA arrestee collection process consistent with subchapter III of this chapter.
+(6) Repealed. Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134.
 
 (7) To conduct an audit consistent with subsection (n) of the samples of sexual assault evidence that are in the possession of the State or unit of local government and are awaiting testing.
 
@@ -70,7 +70,7 @@ source: >-
 
   (C) For each of fiscal years 2019 through 2024, not less than 75 percent of the total grant amounts shall be awarded for a combination of purposes under paragraphs (1), (2), and (3) of subsection (a).
 
-(4) **Allocation of grant awards for audits** — For each of fiscal years 2014 through 2022, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
+(4) **Allocation of grant awards for audits** — For each of fiscal years 2014 through 2029, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(7), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 
 (5) **Allocation of grant awards for prosecutors** — For each fiscal year, not less than 5 percent, but not more than 7 percent, of the grant amounts distributed under paragraph (1) shall, if sufficient applications to justify such amounts are received by the Attorney General, be awarded for purposes described in subsection (a)(9), provided that none of the funds required to be distributed under this paragraph shall decrease or otherwise limit the availability of funds required to be awarded to States or units of local government under paragraph (3).
 
@@ -124,7 +124,7 @@ source: >-
 
 **(i) Definition** For purposes of this section, the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
-**(j) Authorization of appropriations** There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2019 through 2024.
+**(j) Authorization of appropriations** There are authorized to be appropriated to the Attorney General for grants under subsection (a) $151,000,000 for each of fiscal years 2024 through 2029.
 
 **(k) Use of funds for accreditation and audits** The Attorney General may distribute not more than 1 percent of the grant amounts under subsection (j)—
 
@@ -154,107 +154,7 @@ source: >-
 
 **(m) External audits and remedial efforts** In the event that a laboratory operated by a State or unit of local government which has received funds under this Act has undergone an external audit conducted to determine whether the laboratory is in compliance with standards established by the Director of the Federal Bureau of Investigation, and, as a result of such audit, identifies measures to remedy deficiencies with respect to the compliance by the laboratory with such standards, the State or unit of local government shall implement any such remediation as soon as practicable.
 
-**(n) Use of funds for auditing sexual assault evidence backlogs**
-
-(1) **Eligibility** — The Attorney General may award a grant under this section to a State or unit of local government for the purpose described in subsection (a)(7) only if the State or unit of local government—
-
-  (A) submits a plan for performing the audit of samples described in such subsection; and
-
-  (B) includes in such plan a good-faith estimate of the number of such samples.
-
-(2) **Grant conditions** — A State or unit of local government receiving a grant for the purpose described in subsection (a)(7)—
-
-  (A) may not enter into any contract or agreement with any non-governmental vendor laboratory to conduct an audit described in subsection (a)(7); and
-
-  (B) shall—
-
-    (i) not later than 1 year after receiving the grant, complete the audit referred to in paragraph (1)(A) in accordance with the plan submitted under such paragraph;
-
-    (ii) not later than 60 days after receiving possession of a sample of sexual assault evidence that was not in the possession of the State or unit of local government at the time of the initiation of an audit under paragraph (1)(A), subject to paragraph (4)(F), include in any required reports under clause (v), the information listed under paragraph (4)(B);
-
-    (iii) for each sample of sexual assault evidence that is identified as awaiting testing as part of the audit referred to in paragraph (1)(A)—
-
-      (I) assign a unique numeric or alphanumeric identifier to each sample of sexual assault evidence that is in the possession of the State or unit of local government and is awaiting testing; and
-
-      (II) identify the date or dates after which the State or unit of local government would be barred by any applicable statutes of limitations from prosecuting a perpetrator of the sexual assault to which the sample relates;
-
-    (iv) provide that—
-
-      (I) the chief law enforcement officer of the State or unit of local government, respectively, is the individual responsible for the compliance of the State or unit of local government, respectively, with the reporting requirements described in clause (v); or
-
-      (II) the designee of such officer may fulfill the responsibility described in subclause (I) so long as such designee is an employee of the State or unit of local government, respectively, and is not an employee of any governmental laboratory or non-governmental vendor laboratory; and
-
-    (v) comply with all grantee reporting requirements described in paragraph (4).
-
-(3) **Extension of initial deadline** — The Attorney General may grant an extension of the deadline under paragraph (2)(B)(i) to a State or unit of local government that demonstrates that more time is required for compliance with such paragraph.
-
-(4) **Sexual assault forensic evidence reports**
-
-  (A) *In general* — For not less than 12 months after the completion of an initial count of sexual assault evidence that is awaiting testing during an audit referred to in paragraph (1)(A), a State or unit of local government that receives a grant award under subsection (a)(7) shall, not less than every 60 days, submit a report to the Department of Justice, on a form prescribed by the Attorney General, which shall contain the information required under subparagraph (B).
-
-  (B) *Contents of reports* — A report under this paragraph shall contain the following information:
-
-    (i) The name of the State or unit of local government filing the report.
-
-    (ii) The period of dates covered by the report.
-
-    (iii) The cumulative total number of samples of sexual assault evidence that, at the end of the reporting period—
-
-      (I) are in the possession of the State or unit of local government at the reporting period;
-
-      (II) are awaiting testing; and
-
-      (III) the State or unit of local government has determined should undergo DNA or other appropriate forensic analyses.
-
-    (iv) The cumulative total number of samples of sexual assault evidence in the possession of the State or unit of local government that, at the end of the reporting period, the State or unit of local government has determined should not undergo DNA or other appropriate forensic analyses, provided that the reporting form shall allow for the State or unit of local government, at its sole discretion, to explain the reasoning for this determination in some or all cases.
-
-    (v) The cumulative total number of samples of sexual assault evidence in a total under clause (iii) that have been submitted to a laboratory for DNA or other appropriate forensic analyses.
-
-    (vi) The cumulative total number of samples of sexual assault evidence identified by an audit referred to in paragraph (1)(A) or under paragraph (2)(B)(ii) for which DNA or other appropriate forensic analysis has been completed at the end of the reporting period.
-
-    (vii) The total number of samples of sexual assault evidence identified by the State or unit of local government under paragraph (2)(B)(ii), since the previous reporting period.
-
-    (viii) The cumulative total number of samples of sexual assault evidence described under clause (iii) for which the State or unit of local government will be barred within 12 months by any applicable statute of limitations from prosecuting a perpetrator of the sexual assault to which the sample relates.
-
-  (C) *Publication of reports* — Not later than 7 days after the submission of a report under this paragraph by a State or unit of local government, the Attorney General shall, subject to subparagraph (D), publish and disseminate a facsimile of the full contents of such report on an appropriate internet website.
-
-  (D) *Personally identifiable information* — The Attorney General shall ensure that any information published and disseminated as part of a report under this paragraph, which reports information under this subsection, does not include personally identifiable information or details about a sexual assault that might lead to the identification of the individuals involved.
-
-  (E) *Optional reporting* — The Attorney General shall—
-
-    (i) at the discretion of a State or unit of local government required to file a report under subparagraph (A), allow such State or unit of local government, at their sole discretion, to submit such reports on a more frequent basis; and
-
-    (ii) make available to all States and units of local government the reporting form created pursuant to subparagraph (A), whether or not they are required to submit such reports, and allow such States or units of local government, at their sole discretion, to submit such reports for publication.
-
-  (F) *Samples exempt from reporting requirement* — The reporting requirements described in paragraph (2) shall not apply to a sample of sexual assault evidence that—
-
-    (i) is not considered criminal evidence (such as a sample collected anonymously from a victim who is unwilling to make a criminal complaint); or
-
-    (ii) relates to a sexual assault for which the prosecution of each perpetrator is barred by a statute of limitations.
-
-(5) **Definitions** — In this subsection:
-
-  (A) *Awaiting testing* — The term “awaiting testing” means, with respect to a sample of sexual assault evidence, that—
-
-    (i) the sample has been collected and is in the possession of a State or unit of local government;
-
-    (ii) DNA and other appropriate forensic analyses have not been performed on such sample; and
-
-    (iii) the sample is related to a criminal case or investigation in which final disposition has not yet been reached.
-
-  (B) *Final disposition* — The term “final disposition” means, with respect to a criminal case or investigation to which a sample of sexual assault evidence relates—
-
-    (i) the conviction or acquittal of all suspected perpetrators of the crime involved;
-
-    (ii) a determination by the State or unit of local government in possession of the sample that the case is unfounded; or
-
-    (iii) a declaration by the victim of the crime involved that the act constituting the basis of the crime was not committed.
-
-  (C) *Possession*
-
-    (i) *In general* — The term “possession”, used with respect to possession of a sample of sexual assault evidence by a State or unit of local government, includes possession by an individual who is acting as an agent of the State or unit of local government for the collection of the sample.
-
-    (ii) *Rule of construction* — Nothing in clause (i) shall be construed to create or amend any Federal rights or privileges for non-governmental vendor laboratories described in regulations promulgated under [section 12591 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12591).
+**(n) Repealed. Pub. L. 113–4, title X, § 1006, Mar. 7, 2013, 127 Stat. 134**
 
 **(o) Establishment of protocols, technical assistance, and definitions**
 
@@ -282,9 +182,6 @@ source: >-
 
 ### Statutory Notes
 
-#### Amendment of Section
-For termination of amendment by section 1006 of Pub. L. 113–4, see Termination Date of 2013 Amendment note below.
-
 #### References in Text
 Subchapter III of this chapter, referred to in subsec. (a)(6), was in the original “the Katie Sepich Enhanced DNA Collection Act of 2012”, meaning Pub. L. 112–253, Jan. 10, 2013, 126 Stat. 2407, which is classified principally to subchapter III (§ 40741 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title of 2013 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
 
@@ -294,6 +191,10 @@ This Act, referred to in subsecs. (e)(1), (k)(2)(B), and (m), is Pub. L. 106–5
 Section was formerly classified to [section 14135 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14135&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section. Some section numbers or references in amendment notes below reflect the classification of such sections or references prior to editorial reclassification.
 
 #### Amendments
+2024—Subsec. (c)(4). Pub. L. 118–72, § 3, substituted “2029” for “2022”.
+
+Subsec. (j). Pub. L. 118–72, § 2, substituted “fiscal years 2024 through 2029” for “fiscal years 2019 through 2024”.
+
 2019—Subsec. (a)(2). Pub. L. 116–104, § 2(1)(A), substituted “prioritizing, to the extent practicable consistent with public safety considerations” for “including”.
 
 Subsec. (a)(8). Pub. L. 116–104, § 2(1)(B), substituted “in particular,” for “including”.
@@ -821,9 +722,6 @@ Pub. L. 108–405, title IV, § 413, Oct. 30, 2004, 118 Stat. 2285, as amended b
 **(e) Authorization of appropriations** There are authorized to be appropriated $30,000,000 for each of fiscal years 2023 through 2027 to carry out this section.
 
 ### Statutory Notes
-
-#### References in Text
-[Section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), referred to in subsec. (c)(1)(A), was in the original a reference to section “4002” of the Violence Against Women Act of 1994 and was translated as if it referred to section 40002 of that act to reflect the probable intent of Congress.
 
 #### Codification
 Section was formerly classified to [section 14136a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14136a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.

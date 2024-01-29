@@ -344,5 +344,7 @@ A prior section 293, added Pub. L. 88–130, § 1(10)(C), Sept. 24, 1963, 77 Sta
 #### Amendments
 2018—Pub. L. 115–282 renumbered [section 5 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section5&num=0&edition=prelim) as this section.
 
-#### Definition of Commandant
-Pub. L. 116–283, div. G, § 8002, Jan. 1, 2021, 134 Stat. 4633, provided that: “In this division [div. G of Pub. L. 116–283, see Tables for classification], the term ‘Commandant’ means the Commandant of the Coast Guard.”
+#### Definitions
+Pub. L. 117–263, div. K, § 11002, Dec. 23, 2022, 136 Stat. 4003, provided that: “In this division [div. K (§§ 11001–11808) of Pub. L. 117–263, see Tables for classification]: “(1) Commandant.—The term ‘Commandant’ means the Commandant of the Coast Guard. “(2) Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of the department in which the Coast Guard is operating.”
+
+Pub. L. 116–283, div. G, § 8002, Jan. 1, 2021, 134 Stat. 4633, provided that: “In this division [div. G (§§ 8001–8605) of Pub. L. 116–283, see Tables for classification], the term ‘Commandant’ means the Commandant of the Coast Guard.”

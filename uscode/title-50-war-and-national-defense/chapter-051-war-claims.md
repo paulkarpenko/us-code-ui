@@ -969,7 +969,7 @@ Section was formerly classified to section 2017k of the former Appendix to this 
 #### References in Text
 The Small Business Act, as amended, referred to in subsec. (a)(1), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
-The Philippine Rehabilitation Act of 1946, as amended, referred to in subsec. (f), is act Apr. 30, 1946, ch. 243, 60 Stat. 128, which was classified to sections 1751 to 1806 of the former Appendix to this title, prior to omission from the Code as terminated.
+The Philippine Rehabilitation Act of 1946, referred to in subsec. (f), is act Apr. 30, 1946, ch. 243, 60 Stat. 128, which was classified to sections 1751 to 1806 of the former Appendix to this title, prior to omission from the Code as terminated.
 
 #### Codification
 Section was formerly classified to section 2017l of the former Appendix to this title prior to editorial reclassification and renumbering as this section.

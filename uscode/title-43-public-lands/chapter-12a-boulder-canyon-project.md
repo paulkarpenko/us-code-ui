@@ -166,7 +166,7 @@ Section, act Dec. 21, 1928, ch. 42, § 11, 45 Stat. 1063, authorized Secretary o
 #### References in Text
 That certain Act of Congress of the United States approved June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
-The Federal Power Act, referred to in text, was in the original the “Federal Water Power Act”, which was redesignated the Federal Power Act by [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim), Conservation. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in text, was in the original the “Federal Water Power Act”, which was redesignated the Federal Power Act by [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim), Conservation. The Federal Power Act is act June 10, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-617l"></a>
@@ -339,7 +339,7 @@ payments made hereunder to the State by or under the authority of which such tax
 #### References in Text
 The Project Act, referred to in text, is defined in [section 618k of this title](./chapter-12a-boulder-canyon-project.md#section-618k).
 
-The Colorado River Basin Project Act, referred to in subd. (e), is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. Title IV of the Act is classified to subchapter IV (§ 1541 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+The Colorado River Basin Project Act, referred to in subd. (e), is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. Title IV of the Act is classified to subchapter IV (§ 1541 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
 #### Amendments
 1984—Pub. L. 98–381, § 104(a)(4)(i), amended introductory provisions generally, inserting “, without further appropriation,” after “available”.
@@ -486,7 +486,7 @@ The following terms wherever used in this subchapter shall have the following re
 ### Statutory Notes
 
 #### References in Text
-The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
+The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
 
 #### Amendments
 1984—Pub. L. 98–381 substituted “beginning June 1, 1937” for “during the period from June 1, 1937, to May 31, 1987, inclusive” in definition of “Replacements”.

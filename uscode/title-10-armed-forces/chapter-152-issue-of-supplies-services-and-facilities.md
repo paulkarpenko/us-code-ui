@@ -134,7 +134,7 @@ Subsec. (e)(2). Pub. L. 105–225, § 4(a)(2)(B), substituted “[section 507 of
 1980—Subsec. (a). Pub. L. 96–513 substituted “the first section of the Presidential Inaugural Ceremonies Act ([36 U.S.C. 721](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section721&num=0&edition=prelim))” for “[section 721 of title 36](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section721&num=0&edition=prelim)”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-2554"></a>
@@ -261,7 +261,7 @@ Another section 2555 was renumbered [section 2565 of this title](./chapter-152-i
 Pub. L. 98–94, title III, § 305(b), Sept. 24, 1983, 97 Stat. 629, provided that: “Section 2546 [now 2556] of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1983.”
 
 #### Prior Certification Required for Use of Department of Defense Facilities by Other Federal Agencies for Temporary Housing Support
-Pub. L. 114–328, div. B, title XXVIII, § 2815, Dec. 23, 2016, 130 Stat. 2718, provided that: “The Secretary of Defense shall not sign a memorandum of agreement with another Federal agency to provide the agency with a vacant facility for purposes of temporary housing support unless the Secretary first submits to the Committees on Armed Services of the House of Representatives and Senate a certification that the provision of the facility to the agency for such purpose will not negatively affect military training, operations, readiness, or other military requirements, including National Guard and Reserve readiness.”
+Pub. L. 114–328, div. B, title XXVIII, § 2815, Dec. 23, 2016, 130 Stat. 2718, as amended by Pub. L. 118–31, div. B, title XXVIII, § 2840, Dec. 22, 2023, 137 Stat. 761, provided that: “The Secretary of Defense shall not sign a memorandum of agreement with another Federal agency to provide the agency with a vacant facility for purposes of temporary housing support unless the Secretary first submits to the Committees on Armed Services of the House of Representatives and Senate a certification that the provision of the facility to the agency for such purpose will not negatively affect military training, operations, readiness, or other military requirements, including National Guard and Reserve readiness. Upon granting such certification, the Secretary of Defense shall notify each Member of Congress representing the area in which such facility is located of such grant of certification.”
 
 
 <a id="section-2557"></a>
@@ -407,11 +407,23 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 
 (3) Each report under this subsection shall set forth the following information regarding activities during the previous fiscal year:
 
-  (A) The total amount of funds obligated for humanitarian relief under this section.
+  (A) The total amount of funds obligated for humanitarian assistance under this section.
 
-  (B) The number of scheduled and completed transportation missions for purposes of providing humanitarian assistance under this section.
+  (B) A comprehensive list of humanitarian assistance efforts for which support was provided under this section, disaggregated by foreign partner country, amount obligated, and purpose specified in subsection (b).
 
-  (C) A description of any transfer of excess nonlethal supplies of the Department of Defense made available for humanitarian relief purposes under [section 2557 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2557). The description shall include the date of the transfer, the entity to whom the transfer is made, and the quantity of items transferred.
+  (C) A description of the manner in which such efforts address—
+
+    (i) the humanitarian needs of the foreign partner country; and
+
+    (ii) Department of Defense objectives and broader United States national security objectives.
+
+  (D) A description of any transfer of nonlethal excess supplies of the Department of Defense made available for humanitarian relief purposes under [section 2557 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2557), including, for each such transfer—
+
+    (i) the date of the transfer;
+
+    (ii) the entity to which the transfer is made; and
+
+    (iii) the quantity of items transferred.
 
 **(d) Report Regarding Relief for Unauthorized Countries.—** In any case in which the Secretary of Defense provides for the transportation of humanitarian relief to a country to which the transportation of humanitarian relief has not been specifically authorized by law, the Secretary shall notify the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the Secretary’s intention to provide such transportation. The notification shall be submitted not less than 15 days before the commencement of such transportation.
 
@@ -426,6 +438,14 @@ Provisions similar to those in this section were contained in Pub. L. 101–165,
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c)(3)(A). Pub. L. 117–263, § 1053(a)(1), substituted “assistance” for “relief”.
+
+Subsec. (c)(3)(B) to (D). Pub. L. 117–263, § 1053(a)(2), added subpars. (B) to (D) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) The number of scheduled and completed transportation missions for purposes of providing humanitarian assistance under this section.
+
+“(C) A description of any transfer of excess nonlethal supplies of the Department of Defense made available for humanitarian relief purposes under [section 2557 of this title](./chapter-152-issue-of-supplies-services-and-facilities.md#section-2557). The description shall include the date of the transfer, the entity to whom the transfer is made, and the quantity of items transferred.”
+
 2013—Subsec. (f)(2). Pub. L. 112–239 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
 
 2003—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1) and added par. (2).
@@ -457,9 +477,6 @@ Subsec. (e). Pub. L. 104–106, § 1312(3), (5), redesignated subsec. (g) as (e)
 Subsec. (f). Pub. L. 104–106, § 1312(6), added subsec. (f). Former subsec. (f) redesignated (d).
 
 Subsec. (g). Pub. L. 104–106, § 1312(5), redesignated subsec. (g) as (e).
-
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions in subsec. (c) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Notifications Regarding Humanitarian Relief
 Notification provided to appropriate congressional committees with respect to assistance under this section to include detailed description of items for which transportation is provided that are excess nonlethal supplies of Department of Defense, including quantity, acquisition value, and value at time of transportation of such items, see section 1504(c) of Pub. L. 103–160, set out in a Humanitarian and Civic Assistance note under [section 401 of this title](./chapter-020-humanitarian-and-other-assistance.md#section-401).

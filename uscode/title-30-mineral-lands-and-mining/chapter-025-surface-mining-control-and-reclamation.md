@@ -36,7 +36,7 @@ The Congress finds and declares that—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in pars. (e), (f), and (k), was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which enacted this chapter and amended [section 1114 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in pars. (e), (f), and (k), was in the original “this Act”, meaning Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which enacted this chapter and amended [section 1114 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1114&num=0&edition=prelim), Crimes and Criminal Procedure. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title of 2020 Amendment
 Pub. L. 116–260, div. Y, § 1, Dec. 27, 2020, 134 Stat. 2417, provided that: “This division [amending [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232) and enacting provisions set out as a note under [section 1232 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1232)] may be cited as the ‘American Miner Benefits Improvement Act of 2020’.”
@@ -152,7 +152,7 @@ It is the purpose of this chapter to—
 ### Statutory Notes
 
 #### References in Text
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
 
 #### Amendments
 1980—Subsec. (e). Pub. L. 96–511 struck subsec. (e) which provided for consideration of Office of Surface Mining Reclamation and Enforcement as an independent Federal regulatory agency. See [section 3502(10) of Title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/10&num=0&edition=prelim), Public Printing and Documents.
@@ -172,6 +172,10 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 Pub. L. 100–446, title I, Sept. 27, 1988, 102 Stat. 1793, provided: “That notwithstanding any other provisions of law, appropriations for the Office of Surface Mining Reclamation and Enforcement may, hereafter, provide for the travel and per diem expenses of State and tribal personnel attending OSMRE sponsored training”.
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 118–42, div. E, title I, Mar. 9, 2024, 138 Stat. 229.
+
+Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4770.
 
 Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 359.
 
@@ -457,12 +461,9 @@ A prior section 1228, Pub. L. 95–87, title III, § 308, Aug. 3, 1977, 91 Stat.
 
 **(e) National plan for research** The Committee shall develop a national plan for research in mining and mineral resources, considering ongoing efforts in the universities, the Federal Government, and the private sector, and shall formulate and recommend a program to implement the plan utilizing resources provided for under this subchapter. The Committee shall submit such plan to the Secretary, the President, and the Congress on or before March 1, 1986, and shall submit an annual update of such plan by January 15 of each calendar year.
 
-**(f) Application of Federal Advisory Committee Act** Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+**(f) Application of chapter 10 of title 5** [Section 1009 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009&num=0&edition=prelim) shall not apply to the Committee.
 
 ### Statutory Notes
-
-#### References in Text
-Section 10 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 10 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was enacted as part of the Mining and Mineral Resources Institutes Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
@@ -471,6 +472,8 @@ Section was enacted as part of the Mining and Mineral Resources Institutes Act, 
 A prior section 1229, Pub. L. 95–87, title III, § 309, Aug. 3, 1977, 91 Stat. 455, contained provisions similar to this section covering fiscal years 1978 through 1984.
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “[Section 1009 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009&num=0&edition=prelim)” for “Section 10 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 1988—Subsec. (a)(7). Pub. L. 100–483, § 8, substituted “7 other persons” for “six other persons”, “this subchapter, 3” for “section 301 of the Surface Mining Control and Reclamation Act of 1977, two”, and “7 appointments” for “six appointments”.
 
 Subsec. (e). Pub. L. 100–483, § 9, substituted “submit an annual update of such plan by January 15 of each calendar year” for “update the plan annually thereafter”.
@@ -711,7 +714,37 @@ Pub. L. 99–509, title III, § 3501, Oct. 21, 1986, 100 Stat. 1891, as amended 
 
 (3) **Contract aggregation** — In applying for grants under paragraph (1), States and Indian Tribes may aggregate bids into larger statewide or regional contracts.
 
-**(c) Covered activities** Grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1233](./chapter-025-surface-mining-control-and-reclamation.md#section-1233), 1240).
+**(c) Covered activities**
+
+(1) **In general** — Except as provided in paragraph (2), grants under subsection (b)(1) shall only be used for activities described in subsections (a) and (b) of section 403 and section 410 of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1233](./chapter-025-surface-mining-control-and-reclamation.md#section-1233), 1240).
+
+(2) **Long-term abandoned mine land reclamation**
+
+  (A) *In general* — Not more than 30 percent of the total amount of a grant made annually under subsection (b)(1) may be retained by the recipient of the grant if those amounts are deposited into a long-term abandoned mine land reclamation fund established under State law, from which amounts (together with all interest earned on the amounts) are expended by the State or Indian Tribe, as applicable, for—
+
+    (i) the abatement of the causes and the treatment of the effects of acid mine drainage resulting from coal mining practices, including for the costs of building, operating, maintaining, and rehabilitating acid mine drainage treatment systems;
+
+    (ii) the prevention, abatement, and control of subsidence; or
+
+    (iii) the prevention, abatement, and control of coal mine fires.
+
+  (B) *Reporting requirements* — Each recipient of a grant under subsection (b)(1) that deposits grant amounts into a long-term abandoned mine land reclamation fund under subparagraph (A) shall—
+
+    (i) offer amendments to the inventory maintained under section 403(c) of the Surface Mining Control and Reclamation Act of 1977 ([30 U.S.C. 1233(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1233/c&num=0&edition=prelim)) to reflect the use of the amounts for—
+
+      (I) acid mine drainage abatement and treatment;
+
+      (II) subsidence prevention, abatement, and control; and
+
+      (III) coal mine fire prevention, abatement, and control; and
+
+    (ii) include in the annual grant report of the recipient information on the status and balance of amounts in the long-term abandoned mine land reclamation fund.
+
+  (C) *Term* — Amounts retained under subparagraph (A) shall not be subject to—
+
+    (i) subsection (d)(4)(B); or
+
+    (ii) any other limitation on the length of the term of an annual grant under subsection (b)(1).
 
 **(d) Allocation**
 
@@ -748,6 +781,9 @@ The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (
 
 #### Codification
 Section was enacted as part of the Infrastructure Investment and Jobs Act, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–328 designated existing provisions as par. (1), inserted heading, substituted “Except as provided in paragraph (2), grants under” for “Grants under”, and added par. (2).
 
 #### Wage Rate Requirements
 For provisions relating to rates of wages to be paid to laborers and mechanics on projects for construction, alteration, or repair work funded under div. D or an amendment by div. D of Pub. L. 117–58, including authority of Secretary of Labor, see [section 18851 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section18851&num=0&edition=prelim), The Public Health and Welfare.
@@ -1112,7 +1148,7 @@ Subsec. (h)(2)(C)(ii)(II). Pub. L. 116–260, § 2(a)(3), inserted “(or, in th
 
 Pub. L. 116–260, § 2(a)(2), substituted “2019, or any year thereafter,” for “or 2019”.
 
-Subsec. (i)(3)(C). Pub. L. 116–260, § 2(b), addded subpar. (C).
+Subsec. (i)(3)(C). Pub. L. 116–260, § 2(b), added subpar. (C).
 
 2019—Subsec. (h)(2)(C)(ii). Pub. L. 116–94, § 103(4), substituted “January 1, 2019” for “January 1, 2017” in concluding provisions.
 
@@ -1593,7 +1629,7 @@ Amendment by Pub. L. 101–508 effective Oct. 1, 1991, see section 6014 of Pub. 
 ### Statutory Notes
 
 #### References in Text
-The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, as amended, which is classified principally to chapter 88 (§ 7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7901&num=0&edition=prelim) and Tables.
+The Uranium Mill Tailings Radiation Control Act of 1978, referred to in subsec. (d), is Pub. L. 95–604, Nov. 8, 1978, 92 Stat. 3021, which is classified principally to chapter 88 (§ 7901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7901 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7901&num=0&edition=prelim) and Tables.
 
 The Comprehensive Environmental Response Compensation and Liability Act of 1980, referred to in subsec. (d), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
@@ -1745,7 +1781,7 @@ The date, time, and place of any hearing held on the proposed regulations shall 
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsec. (a)(B), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1251a"></a>
@@ -1761,7 +1797,7 @@ The Clean Air Act, referred to in subsec. (a)(B), is act July 14, 1955, ch. 360,
 ### Statutory Notes
 
 #### References in Text
-The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to this chapter (§ 1201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1201) and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in par. (1), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to this chapter (§ 1201 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of this title](./chapter-025-surface-mining-control-and-reclamation.md#section-1201) and Tables.
 
 #### Codification
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Surface Mining Control and Reclamation Act of 1977 which comprises this chapter.
@@ -1833,7 +1869,7 @@ The Secretary shall approve or disapprove a State program, in whole or in part, 
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsec. (b)(2), is act June 30, 1948, ch. 758, 62 Stat. 1155, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (b)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (b)(2), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1254"></a>
@@ -1898,7 +1934,7 @@ If State compliance with clause (1) of this subsection requires an act of the St
 ### Statutory Notes
 
 #### References in Text
-The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
+The Federal Mineral Leasing Act, as amended, referred to in subsec. (c), probably means act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
 
 <a id="section-1257"></a>
@@ -1985,6 +2021,10 @@ Amendment by Pub. L. 101–508, effective Oct. 1, 1991, see section 6014 of Pub.
 Pub. L. 113–76, div. G, title I, Jan. 17, 2014, 128 Stat. 299, provided in part: “That, in subsequent fiscal years [after fiscal year 2014], all amounts collected by the Office of Surface Mining from permit fees pursuant to section 507 of Public Law 95–87 ([30 U.S.C. 1257](./chapter-025-surface-mining-control-and-reclamation.md#section-1257)) shall be credited to this account [Office of Surface Mining Reclamation and Enforcement—regulation and technology] as discretionary offsetting collections, to remain available until expended.”
 
 Similar provisions were contained in the following appropriations acts:
+
+Pub. L. 118–42, div. E, title I, Mar. 9, 2024, 138 Stat. 229.
+
+Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4770.
 
 Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 359.
 
@@ -2473,7 +2513,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 ### Statutory Notes
 
 #### References in Text
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsec. (a), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, § 101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§ 801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-022-mine-safety-and-health.md#section-801) and Tables.
 
 
 <a id="section-1267"></a>
@@ -2685,11 +2725,11 @@ Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (c), is 
 ### Statutory Notes
 
 #### References in Text
-The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (e)(2)(B), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, as amended, which is classified generally to sections 528 to 531 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528&num=0&edition=prelim) and Tables.
+The Multiple-Use Sustained-Yield Act of 1960, referred to in subsec. (e)(2)(B), is Pub. L. 86–517, June 12, 1960, 74 Stat. 215, which is classified generally to sections 528 to 531 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 528 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section528&num=0&edition=prelim) and Tables.
 
 The Federal Coal Leasing Amendments Act of 1975, referred to in subsec. (e)(2)(B), is Pub. L. 94–377, Aug. 4, 1976, 90 Stat. 1083, which was redesignated the Federal Coal Leasing Amendments Act of 1976 by Pub. L. 95–554, § 8, Oct. 30, 1978, 92 Stat. 2075, and which enacted sections 202a, 208–1, and 208–2 of this title, amended sections 184, 191, 201, 203, 207, 209, and 352 of this title, repealed sections 201–1 and 204 of this title, and enacted provisions set out as notes under sections 181, 184, 201, 201–1, 203, and 204 of this title. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
-The National Forest Management Act of 1976, referred to in subsec. (e)(2)(B), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
+The National Forest Management Act of 1976, referred to in subsec. (e)(2)(B), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, 581h, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1273"></a>
@@ -3177,11 +3217,11 @@ Pub. L. 105–277, div. A, § 101(e) [title I], Oct. 21, 1998, 112 Stat. 2681–
 ### Statutory Notes
 
 #### References in Text
-The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (a), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 The Water Pollution Control Act, referred to in subsec. (a), probably means act June 30, 1948, ch. 758, 62 Stat. 1155, known as the Federal Water Pollution Control Act, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
+The Department of Energy Organization Act, referred to in subsec. (a), is Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, which is classified principally to chapter 84 (§ 7101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7101&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1304"></a>
@@ -3226,7 +3266,7 @@ Nothing in this chapter shall be construed as increasing or diminishing the righ
 ### Statutory Notes
 
 #### References in Text
-The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+The Alaska Native Claims Settlement Act, referred to in text, is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1307"></a>
@@ -3427,7 +3467,7 @@ Subsecs. (d), (e). Pub. L. 95–617, § 604(c), substituted “Secretary of Ener
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to requirement that the President transmit each annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 153 of House Document No. 103–7.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).

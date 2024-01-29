@@ -1174,7 +1174,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
   (A) *Prior to revision* — In making adjustments to the loan rate for cotton (including any review of the adjustments) as provided in this subsection, the Secretary shall consult with representatives of the United States cotton industry.
 
-  (B) *Inapplicability of Federal Advisory Committee Act* — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultations under this subsection.
+  (B) *Inapplicability of chapter 10 of title 5* — Chapter 10 of title 5 shall not apply to consultations under this subsection.
 
 (4) **Review of adjustments** — The Secretary may review the operation of the upland cotton quality adjustments implemented pursuant to this subsection and may make further revisions to the administration of the loan program for upland cotton, by—
 
@@ -1191,10 +1191,11 @@ This subtitle and subtitles B through E, referred to in subsec. (b), probably me
 
 The date of enactment of this Act, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2022—Subsec. (d)(3)(B). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1649,7 +1650,7 @@ Section, Pub. L. 110–234, title I, § 1501, May 22, 2008, 122 Stat. 990; Pub. 
 
 (1) **New contracts** — No forward price contract may be entered into under the program established under this section after September 30, 2023.
 
-(2) **Application** — No forward contract entered into under the program may extend beyond September 30, 2026.
+(2) **Application** — No forward contract entered into under the program may extend beyond September 30, 2027.
 
 ### Statutory Notes
 
@@ -1659,6 +1660,8 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2023—Subsec. (e)(2). Pub. L. 118–22 substituted “2027” for “2026”.
+
 2018—Subsec. (e)(1). Pub. L. 115–334, § 1402(a)(1), substituted “2023” for “2018”.
 
 Subsec. (e)(2). Pub. L. 115–334, § 1402(a)(2), substituted “2026” for “2021”.
@@ -1666,6 +1669,9 @@ Subsec. (e)(2). Pub. L. 115–334, § 1402(a)(2), substituted “2026” for “
 2014—Subsec. (e)(1). Pub. L. 113–79, § 1424(1), substituted “2018” for “2012”.
 
 Subsec. (e)(2). Pub. L. 113–79, § 1424(2), substituted “2021” for “2015”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

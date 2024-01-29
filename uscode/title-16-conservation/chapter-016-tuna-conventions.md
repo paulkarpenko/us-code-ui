@@ -102,7 +102,7 @@ For additional provisions relating to the designation of Alternate United States
 
   (D) The General Advisory Committee shall be invited to attend all non-executive meetings of the United States delegation and at such meetings shall be given opportunity to examine and to be heard on all proposed programs of investigation, reports, recommendations, and regulations of the Commission.
 
-  (E) The General Advisory Committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), and the Convention. The General Advisory Committee shall publish and make available to the public a statement of its organization, practices, and procedures. Meetings of the General Advisory Committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in timely fashion. The General Advisory Committee shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+  (E) The General Advisory Committee shall determine its organization, and prescribe its practices and procedures for carrying out its functions under this chapter, the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](./chapter-038-fishery-conservation-and-management.md#section-1801) et seq.), and the Convention. The General Advisory Committee shall publish and make available to the public a statement of its organization, practices, and procedures. Meetings of the General Advisory Committee, except when in executive session, shall be open to the public, and prior notice of meetings shall be made public in timely fashion. The General Advisory Committee shall not be subject to chapter 10 of title 5.
 
 (2) **Information sharing** — The Secretary and the Secretary of State shall furnish the General Advisory Committee with relevant information concerning fisheries and international fishery agreements.
 
@@ -151,9 +151,9 @@ This chapter, referred to in subsec. (a)(1)(E), was in the original “this titl
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1)(E), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified generally to chapter 38 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-038-fishery-conservation-and-management.md#section-1801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(1)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a)(1)(E). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
 2015—Subsec. (a). Pub. L. 114–81, § 205(1), added subsec. (a) and struck out former subsec. (a), which related to General Advisory Committee appointment, public participation, and compensation.
 
 Subsec. (b). Pub. L. 114–81, § 205(2), substituted “Scientific Advisory Subcommittee” for “Functions” in heading.
@@ -170,7 +170,7 @@ Subsec. (b)(3). Pub. L. 114–81, § 205(3), substituted “General Advisory Com
 For effective date of amendment by Pub. L. 105–42, see section 8 of Pub. L. 105–42, set out as a note under [section 1362 of this title](./chapter-031-marine-mammal-protection.md#section-1362).
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-954"></a>

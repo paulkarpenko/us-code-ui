@@ -670,9 +670,9 @@ For delegation of functions of President under this section, see section 1 of Ex
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
+The Tariff Act of 1930, referred to in subsec. (d)(3)(A)(i), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see [section 1654 of this title](./chapter-004-tariff-act-of-1930.md#section-1654) and Tables.
 
-The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (d)(3)(A)(i), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 Sections 2104(d)(3) and 2102(b)(14) of the Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (d)(3)(C)(ii), are classified to subsec. (d)(3) of this section and [section 3802(b)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3802/b/14&num=0&edition=prelim), respectively.
 

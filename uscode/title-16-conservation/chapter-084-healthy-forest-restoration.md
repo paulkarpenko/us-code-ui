@@ -440,7 +440,7 @@ In this subchapter:
 
   (B) that is located primarily in forests of mixed conifer, dry Douglas fir, or wet Ponderosa pine.
 
-(11) **Implementation Plan** — The term “Implementation Plan” means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) (and subsequent revisions).
+(11) **Implementation Plan** — The term “Implementation Plan” means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) 11 See References in Text note below. (and subsequent revisions).
 
 (12) **Municipal water supply system** — The term “municipal water supply system” means the reservoirs, canals, ditches, flumes, laterals, pipes, pipelines, and other surface facilities and systems constructed or installed for the collection, impoundment, storage, transportation, or distribution of drinking water.
 
@@ -486,6 +486,8 @@ In this subchapter:
 
 #### References in Text
 The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in pars. (1)(A)(i) and (11), is Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 922. Title IV of the act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+
+House Report No. 106–64, referred to in par. (11), does not exist. However, there was a House Report No. 106–646 that accompanied H.R. 4578, which became the Department of the Interior and Related Agencies Appropriations Act, 2001. The conference report that accompanied H.R. 4578 was H. Rept. 106–914.
 
 The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531) and Tables.
 
@@ -628,7 +630,7 @@ The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–20
 
 (1) **In general** — The Secretary shall consider recommendations under subsection (a) that are made by at-risk communities that have developed community wildfire protection plans.
 
-(2) **Exemption** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the planning process and recommendations concerning community wildfire protection plans.
+(2) **Exemption** — Chapter 10 of title 5 shall not apply to the planning process and recommendations concerning community wildfire protection plans.
 
 **(c) Administration**
 
@@ -689,11 +691,11 @@ The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–20
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2018—Subsec. (e). Pub. L. 115–334 added subsec. (e).
 
 
@@ -1388,12 +1390,42 @@ The authority provided by this subchapter terminates effective October 1, 2023.
 
 (2) **Cost-effectiveness** — The Secretary of Agriculture shall also consider the cost-effectiveness of each agreement or easement, and associated restoration plans, so as to maximize the environmental benefits per dollar expended.
 
+**(g) Easement modification or termination**
+
+(1) **In general** — The Secretary may modify or terminate an easement or other interest in land administered by the Secretary under this title if—
+
+  (A) the owner of the land agrees to the modification or termination; and
+
+  (B) the Secretary determines that the modification or termination—
+
+    (i) will address a compelling public need for which there is no practicable alternative; and
+
+    (ii) is in the public interest.
+
+(2) **Consideration; conditions**
+
+  (A) *Termination* — As consideration for termination of an easement or other interest in land under this subsection, the Secretary shall enter into a compensatory arrangement, as the Secretary determines to be appropriate.
+
+  (B) *Modification* — In the case of a modification of an easement or other interest in land under this subsection—
+
+    (i) as a condition of the modification, the owner of the land shall enter into a compensatory arrangement, as the Secretary determines to be appropriate, to incur the costs of modification; and
+
+    (ii) the Secretary shall ensure that—
+
+      (I) the modification will not adversely affect the forest ecosystem functions and values for which the easement or other interest in land was acquired;
+
+      (II) any adverse impacts will be mitigated by enrollment and restoration of other land that provides greater forest ecosystem functions and values at no additional cost to the Federal Government; and
+
+      (III) the modification will result in equal or greater environmental and economic values to the United States.
+
 ### Statutory Notes
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
+2022—Subsec. (g). Pub. L. 117–328 added subsec. (g).
+
 2018—Subsec. (b). Pub. L. 115–334, § 8407(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “To be eligible for enrollment in the healthy forests reserve program, land shall be—
 
 “(1) private land the enrollment of which will restore, enhance, or otherwise measurably increase the likelihood of recovery of a species listed as endangered or threatened under [section 1533 of this title](./chapter-035-endangered-species.md#section-1533); and
@@ -1646,6 +1678,9 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 ### Statutory Notes
 
+#### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+
 #### Amendments
 2018—Subsec. (d)(1). Pub. L. 115–334, § 8407(b)(1), substituted “subsection (b)—” and subpars. (A) and (B) for “subsection (b) to reduce the risk or extent of, or increase the resilience to, insect or disease infestation in the areas.”
 
@@ -1873,9 +1908,9 @@ The Materials Act of 1947, referred to in subsec. (d)(5), is act July 31, 1947, 
 
 The Act of June 9, 1930, referred to in subsec. (e)(3)(B), is act June 9, 1930, ch. 416, 46 Stat. 527, popularly known as the Knutson-Vandenberg Act, which is classified generally to sections 576, 576a, and 576b of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 576 of this title](./chapter-003-forests-forest-service-reforestation-management.md#section-576) and Tables.
 
-[Section 490 of this title](./chapter-002-national-forests.md#section-490), referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490](./chapter-002-national-forests.md#section-490))”, and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, as amended, which are classified to [section 490 of this title](./chapter-002-national-forests.md#section-490).
+[Section 490 of this title](./chapter-002-national-forests.md#section-490), referred to in subsec. (f)(1), was in the original “the Act of August 11, 1916 ([16 U.S.C. 490](./chapter-002-national-forests.md#section-490))”, and was translated as referring to the undesignated provisions appearing in act Aug. 11, 1916, ch. 313, 39 Stat. 462, which are classified to [section 490 of this title](./chapter-002-national-forests.md#section-490).
 
-[Section 498 of this title](./chapter-002-national-forests.md#section-498), referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498](./chapter-002-national-forests.md#section-498))”, and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, as amended, which are classified to [section 498 of this title](./chapter-002-national-forests.md#section-498).
+[Section 498 of this title](./chapter-002-national-forests.md#section-498), referred to in subsec. (f)(2), was in the original “the Act of June 30, 1914 ([16 U.S.C. 498](./chapter-002-national-forests.md#section-498))”, and was translated as referring to the undesignated provisions appearing in act June 30, 1914, ch. 131, 38 Stat. 430, which are classified to [section 498 of this title](./chapter-002-national-forests.md#section-498).
 
 #### Amendments
 2018—Subsec. (g)(2). Pub. L. 115–141, § 205, added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
@@ -2473,7 +2508,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(A),
 
     (iii) to streamline subsequent projects based on existing statutory or regulatory authorities; and
 
-    (iv) to develop interagency teams to increase coordination and efficiency under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim)) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim)]; and
+    (iv) to develop interagency teams to increase coordination and efficiency under the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim)) [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.]; and
 
   (D) establishes a process for coordinating prioritization and treatment with State and local entities and affected stakeholders.
 

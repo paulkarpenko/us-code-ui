@@ -2,7 +2,7 @@
 title: 33
 chapter: '12'
 heading: RIVER AND HARBOR IMPROVEMENTS GENERALLY
-section_count: 128
+section_count: 129
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -476,7 +476,7 @@ In any case in which it may be necessary or advisable in the execution of an aut
 ### Statutory Notes
 
 #### References in Text
-The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
+The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -496,7 +496,7 @@ The Secretary of the Army is authorized and empowered, under such terms and cond
 ### Statutory Notes
 
 #### References in Text
-The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, as amended, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
+The Tennessee Valley Authority Act, referred to in text, is act May 18, 1933, ch. 32, 48 Stat. 58, known as the Tennessee Valley Authority Act of 1933, which is classified generally to chapter 12A (§ 831 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see [section 831 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) and Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1027,7 +1027,7 @@ The cost of operation and maintenance of the general navigation features of smal
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 91–611, Dec. 31, 1970, 84 Stat. 1818, as amended. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 91–611, Dec. 31, 1970, 84 Stat. 1818. For complete classification of this Act to the Code, see Tables.
 
 Hereafter, referred to in text, probably means after Dec. 31, 1970.
 
@@ -1253,7 +1253,7 @@ Section, Pub. L. 115–270, title I, § 1301, Oct. 23, 2018, 132 Stat. 3814, rel
 ## § 579d–2. Deauthorization of inactive projects
 **(a) Purposes** The purposes of this section are—
 
-(1) to identify water resources development projects authorized by Congress that are no longer viable for construction due to—
+(1) to identify water resources development projects, and separable elements of projects, authorized by Congress that are no longer viable for construction due to—
 
   (A) a lack of local support;
 
@@ -1261,9 +1261,9 @@ Section, Pub. L. 115–270, title I, § 1301, Oct. 23, 2018, 132 Stat. 3814, rel
 
   (C) an authorizing purpose that is no longer relevant or feasible;
 
-(2) to create an expedited and definitive process for Congress to deauthorize water resources development projects that are no longer viable for construction; and
+(2) to create an expedited and definitive process for Congress to deauthorize water resources development projects and separable elements that are no longer viable for construction; and
 
-(3) to allow the continued authorization of water resources development projects that are viable for construction.
+(3) to allow the continued authorization of water resources development projects and separable elements that are viable for construction.
 
 **(b) Proposed deauthorization list**
 
@@ -1271,43 +1271,33 @@ Section, Pub. L. 115–270, title I, § 1301, Oct. 23, 2018, 132 Stat. 3814, rel
 
   (A) *In general* — The Secretary shall develop a preliminary list of each water resources development project, or separable element of a project, authorized for construction before November 8, 2007, for which—
 
-    (i) planning, design, or construction was not initiated before December 27, 2020; or
+    (i) planning, design, or construction was not initiated before the date of enactment of this Act; or
 
-    (ii) planning, design, or construction was initiated before December 27, 2020, but for which no funds, Federal or non-Federal, were obligated for planning, design, or construction of the project or separable element of the project during the current fiscal year or any of the 10 preceding fiscal years.
+    (ii) planning, design, or construction was initiated before the date of enactment of this Act, but for which no funds, Federal or non-Federal, were obligated for planning, design, or construction of the project or separable element of the project during the current fiscal year or any of the 10 preceding fiscal years.
 
   (B) *Use of comprehensive construction backlog and operation and maintenance report* — The Secretary may develop the preliminary list from the comprehensive construction backlog and operation and maintenance reports developed pursuant to [section 579a(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section579a/b/2&num=0&edition=prelim).
 
-  (C) *Exclusions* — The Secretary shall not include on the preliminary list—
-
-    (i) an environmental infrastructure assistance project authorized to be carried out by the Secretary (including a project authorized pursuant to an environmental assistance program); or
-
-    (ii) a project or separable element of a project authorized as part of the Comprehensive Everglades Restoration Plan described in section 601 of the Water Resources Development Act of 2000 (114 Stat. 2680).
-
 (2) **Preparation of proposed deauthorization list**
 
-  (A) *Deauthorization amount* — The Secretary shall prepare a proposed list of projects for deauthorization comprised of a subset of projects and separable elements identified on the preliminary list developed under paragraph (1) that have, in the aggregate, an estimated Federal cost to complete that is at least $10,000,000,000.
+  (A) *Proposed list and estimated deauthorization amount* — The Secretary shall—
+
+    (i) prepare a proposed list of projects for deauthorization comprised of a subset of projects and separable elements identified on the preliminary list developed under paragraph (1) that are projects or separable elements described in subsection (a)(1), as determined by the Secretary; and
+
+    (ii) include with such proposed list an estimate, in the aggregate, of the Federal cost to complete such projects.
 
   (B) *Determination of Federal cost to complete* — For purposes of subparagraph (A), the Federal cost to complete shall take into account any allowances authorized by [section 2280 of this title](./chapter-036-water-resources-development.md#section-2280), as applied to the most recent project schedule and cost estimate.
 
-  (C) *Inclusion of deauthorization of antiquated projects* — The Secretary shall reduce the amount identified for deauthorization under paragraph (2)(A) by an amount equivalent to the estimated current value of each project, or separable element of a project, that is deauthorized by subsection (f).
-
-(3) **Sequencing of projects**
-
-  (A) *In general* — The Secretary shall identify projects and separable elements for inclusion on the proposed list of projects for deauthorization under paragraph (2) according to the order in which the projects and separable elements were authorized, beginning with the earliest authorized projects and separable elements and ending with the latest project or separable element necessary to meet the aggregate amount under paragraph (2)(A).
-
-  (B) *Factors to consider* — The Secretary may identify projects and separable elements in an order other than that established by subparagraph (A) if the Secretary determines, on a case-by-case basis, that a project or separable element is critical for interests of the United States, based on the possible impact of the project or separable element on public health and safety, the national economy, or the environment.
-
-(4) **Public comment and consultation**
+(3) **Public comment and consultation**
 
   (A) *In general* — The Secretary shall solicit comments from the public and the Governors of each applicable State on the proposed deauthorization list prepared under paragraph (2)(A).
 
   (B) *Comment period* — The public comment period shall be 90 days.
 
-(5) **Preparation of final deauthorization list**
+(4) **Preparation of final deauthorization list**
 
   (A) *In general* — The Secretary shall prepare a final deauthorization list by—
 
-    (i) considering any comments received under paragraph (4); and
+    (i) considering any comments received under paragraph (3); and
 
     (ii) revising the proposed deauthorization list prepared under paragraph (2)(A) as the Secretary determines necessary to respond to such comments.
 
@@ -1319,25 +1309,15 @@ Section, Pub. L. 115–270, title I, § 1301, Oct. 23, 2018, 132 Stat. 3814, rel
 
 **(c) Submission of final deauthorization list to Congress for congressional review; publication**
 
-(1) **In general** — Not later than 90 days after the date of the close of the comment period under subsection (b)(4), the Secretary shall—
+(1) **In general** — Not later than 90 days after the date of the close of the comment period under subsection (b)(3), the Secretary shall—
 
-  (A) submit the final deauthorization list and appendix prepared under subsection (b)(5) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate; and
+  (A) submit the final deauthorization list and appendix prepared under subsection (b)(4) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate; and
 
   (B) publish the final deauthorization list and appendix in the Federal Register.
 
 (2) **Exclusions** — The Secretary shall not include in the final deauthorization list submitted under paragraph (1) any project or separable element with respect to which Federal funds for planning, design, or construction are obligated after the development of the preliminary list under subsection (b)(1)(A) but prior to the submission of the final deauthorization list under paragraph (1)(A) of this subsection.
 
-**(d) Deauthorization; congressional review**
-
-(1) **In general** — After the expiration of the 2-year period beginning on the date of publication of the final deauthorization list and appendix under subsection (c)(1)(B), a project or separable element of a project identified in the final deauthorization list is hereby deauthorized, unless Congress passes a joint resolution disapproving the final deauthorization list prior to the end of such period.
-
-(2) **Non-Federal contributions**
-
-  (A) *In general* — A project or separable element of a project identified in the final deauthorization list under subsection (c) shall not be deauthorized under this subsection if, before the expiration of the 2-year period referred to in paragraph (1), the non-Federal interest for the project or separable element of the project provides sufficient funds to complete the project or separable element of the project.
-
-  (B) *Treatment of projects* — Notwithstanding subparagraph (A), each project and separable element of a project identified in the final deauthorization list shall be treated as deauthorized for purposes of the aggregate deauthorization amount specified in subsection (b)(2)(A).
-
-(3) **Projects identified in appendix** — A project or separable element of a project identified in the appendix to the final deauthorization list shall remain subject to future deauthorization by Congress.
+**(d) Repealed. Pub. L. 117–263, div. H, title LXXXI, § 8301(b), Dec. 23, 2022, 136 Stat. 3776**
 
 **(e) Special rules**
 
@@ -1380,7 +1360,12 @@ Section, Pub. L. 115–270, title I, § 1301, Oct. 23, 2018, 132 Stat. 3814, rel
 ### Statutory Notes
 
 #### References in Text
-Section 601 of the Water Resources Development Act of 2000, referred to in subsec. (b)(1)(C)(ii), is section 601 of Pub. L. 106–541, title VI, Dec. 11, 2000, 114 Stat. 2680, which is not classified to the Code.
+The date of enactment of this Act, referred to in subsec. (b)(1)(A), probably means the date of enactment of Pub. L. 117–263, which added subsec. (b) and was approved Dec. 23, 2022.
+
+#### Amendments
+2022—Subsecs. (a) to (c). Pub. L. 117–263, § 8301(a), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to purposes of this section, development of proposed deauthorization list, and submission to Congress and publication of final deauthorization list, respectively.
+
+Subsec. (d). Pub. L. 117–263, § 8301(b), struck out subsec. (d) which provided for deauthorization of projects on final deauthorization list subject to congressional review and non-Federal contributions.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 116–260, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -1478,13 +1463,27 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 <a id="section-583a"></a>
 ## § 583a. Payment of pay and allowances of officers of Corps of Engineers from appropriation for improvements
+**(a) In general** The personnel described in subsection (b) who are employed primarily on duty connected with non-military public works prosecuted under the direction of the Chief of Engineers, including river and harbor improvements, flood control, and other such works, shall, while so employed, be paid their pay and allowances from the appropriation for the works upon which they are employed.
 
-Regular officers of the Corps of Engineers of the Army, and reserve officers of the Army who are assigned to the Corps of Engineers, who are employed primarily on duty connected with non-military public works prosecuted under the direction of the Chief of Engineers, including river and harbor improvements, flood control, and other such works, shall, while so employed, be paid their pay and allowances from the appropriation for the works upon which they are employed.
+**(b) Personnel described** The personnel referred to in subsection (a) are the following:
+
+(1) Regular officers of the Corps of Engineers of the Army.
+
+(2) The following members of the Army who are assigned to the Corps of Engineers:
+
+  (A) Reserve component officers.
+
+  (B) Warrant officers (whether regular or reserve component).
+
+  (C) Enlisted members (whether regular or reserve component).
 
 ### Statutory Notes
 
 #### Codification
 Section is derived from the third proviso of Act June 26, 1936, ch. 839, 49 Stat. 1974, which was classified to [section 181a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181a&num=0&edition=prelim) prior to the general revision and enactment of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, § 1, 70A Stat. 1.
+
+#### Amendments
+2022—Pub. L. 117–263 designated existing provisions as subsec. (a), inserted heading, substituted “The personnel described in subsection (b)” for “Regular officers of the Corps of Engineers of the Army, and reserve officers of the Army who are assigned to the Corps of Engineers,”, and added subsec. (b).
 
 
 <a id="section-584-584a"></a>
@@ -1495,6 +1494,13 @@ Section is derived from the third proviso of Act June 26, 1936, ch. 839, 49 Stat
 Section 584, act Jan. 21, 1927, ch. 47, § 5(d), 44 Stat. 1021, related to expenses incident to transportation of household effects of civilian employees.
 
 Section 584a, act July 3, 1930, ch. 847, § 6, 46 Stat. 948, related to travel expenses of civilian employees on river and harbor works.
+
+
+<a id="section-585"></a>
+## § 585. Reserve component training at water resources development projects
+**(a) In general** In carrying out military training activities or otherwise fulfilling military training requirements, units or members of a reserve component of the Armed Forces may perform services and furnish supplies in support of a water resources development project or program of the Corps of Engineers without reimbursement.
+
+**(b) Exception** This section shall not apply to any member of a reserve component of the Armed Forces who is employed by the Corps of Engineers on a full-time basis.
 
 
 <a id="section-591"></a>
@@ -1683,11 +1689,13 @@ Section, acts July 25, 1912, ch. 253, § 1, 37 Stat. 222; July 3, 1930, ch. 847,
 <a id="section-603a"></a>
 ## § 603a. Removal of snags and debris, and straightening, clearing, and protecting channels in navigable waters
 
-The Secretary of the Army is authorized to allot not to exceed $5,000,000 from any appropriations made prior to or after March 2, 1945, for any one fiscal year for improvement of rivers and harbors, for removing accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel, and for protecting, clearing, and straightening channels in navigable harbors and navigable streams and tributaries thereof, when in the opinion of the Chief of Engineers such work is advisable in the interest of navigation, flood control, or recreation.
+The Secretary of the Army is authorized to allot not to exceed $5,000,000 from any appropriations made prior to or after March 2, 1945, for any one fiscal year for improvement of rivers and harbors, for removing accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel, and for protecting, clearing, and straightening channels in navigable harbors and navigable streams and tributaries thereof, when in the opinion of the Chief of Engineers such work is advisable in the interest of navigation, flood control, ecosystem restoration, or recreation.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–263 substituted “ecosystem restoration, or recreation” for “or recreation”.
+
 2016—Pub. L. 114–322 substituted “$5,000,000” for “$1,000,000”, “accumulated snags, obstructions, and other debris located in or adjacent to a Federal channel” for “accumulated snags and other debris”, and “, flood control, or recreation” for “or flood control”.
 
 1986—Pub. L. 99–662 substituted “$1,000,000” for “$300,000”.
@@ -1884,7 +1892,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
     (i) $10,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (f); and
 
-    (ii) $50,000,000 for each of fiscal years 2021 through 2024 to carry out subsection (g)(2).
+    (ii) $75,000,000 for each of fiscal years 2021 through 2028 to carry out subsection (g)(2).
 
   (B) *Invasive plant species pilot program* — There is authorized to be appropriated to the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, $10,000,000 to carry out subsection (g)(3).
 
@@ -1962,7 +1970,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
   (B) *Use of existing plans* — In developing a management plan under subparagraph (A), the Secretary shall consider a management plan submitted by a participating State under [section 4724(a) of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4724/a&num=0&edition=prelim).
 
-(4) **Termination of authority** — The authority provided under this subsection shall terminate on September 30, 2024.
+(4) **Termination of authority** — The authority provided under this subsection shall terminate on September 30, 2028.
 
 **(g) Invasive species prevention, control, and eradication**
 
@@ -1970,9 +1978,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 (2) **Invasive species partnerships**
 
-  (A) *In general* — The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity or water quality in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, and the Upper Missouri River Basin.
+  (A) *In general* — The Secretary may enter into partnerships with applicable States and other Federal agencies to carry out actions to prevent the introduction of, control, or eradicate, to the maximum extent practicable, invasive species that adversely impact water quantity, water quality, or ecosystems in the Platte River Basin, the Upper Colorado River Basin, the Upper Snake River Basin, the Lake Erie Basin, the Ohio River Basin, and the Upper Missouri River Basin.
 
-  (B) *Prioritization* — In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive (Elaeagnus angustifolia) or saltcedar (of the genus Tamarix).
+  (B) *Prioritization* — In selecting actions to carry out under a partnership under subparagraph (A), the Secretary shall give priority to projects that are intended to control or eradicate the Russian olive (Elaeagnus angustifolia), hydrilla (Hydrilla verticillata), or saltcedar (of the genus Tamarix).
 
 (3) **Invasive plant species pilot program**
 
@@ -2008,7 +2016,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
   (C) *Report to Congress* — Not later than 18 months after December 27, 2020, the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the implementation of the pilot program.
 
-  (D) *Termination of authority* — The authority provided under this paragraph shall terminate on September 30, 2024.
+  (D) *Termination of authority* — The authority provided under this paragraph shall terminate on September 30, 2028.
 
 (4) **Cost share** — The Federal share of an action carried out under a partnership under paragraph (2) or an activity carried out under the pilot program under paragraph (3) shall not exceed 80 percent of the total cost of the action or activity.
 
@@ -2018,6 +2026,16 @@ Department of War designated Department of the Army and title of Secretary of Wa
 Executive Order 13112, referred to in subsecs. (f)(1) and (g)(1), is set out as a note under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
+2022—Subsec. (b)(2)(A)(ii). Pub. L. 117–263, § 8305(b)(1), substituted “$75,000,000” for “$50,000,000” and “2028” for “2024”.
+
+Subsec. (f)(4). Pub. L. 117–263, § 8305(b)(2), substituted “2028” for “2024”.
+
+Subsec. (g)(2)(A). Pub. L. 117–263, § 8305(b)(3)(A)(i), substituted “water quantity, water quality, or ecosystems” for “water quantity or water quality” and inserted “the Lake Erie Basin, the Ohio River Basin,” after “the Upper Snake River Basin,”.
+
+Subsec. (g)(2)(B). Pub. L. 117–263, § 8305(b)(3)(A)(ii), inserted “, hydrilla (Hydrilla verticillata),” after “(Elaeagnus angustifolia)”.
+
+Subsec. (g)(3)(D). Pub. L. 117–263, § 8305(b)(3)(B), substituted “2028” for “2024”.
+
 2020—Subsec. (b)(1). Pub. L. 116–260, § 505(1)(A)(i), substituted “this section (except for subsections (f) and (g)) $130,000,000” for “this section $110,000,000” in introductory provisions.
 
 Subsec. (b)(1)(D), (E). Pub. L. 116–260, § 505(1)(A)(ii)–(iv), added subpars. (D) and (E).
@@ -2081,16 +2099,16 @@ Subsec. (c). Pub. L. 106–53, § 205(3), added subsec. (c).
 Subsec. (b). Pub. L. 89–298 designated part of existing provisions as subsec. (b), substituting the appropriations authorization of $5,000,000 annually as first sentence for former provisions which authorized “an estimated additional cost for the expanded program over that now underway of $1,350,000 annually for five years, of which 70 per centum, presently estimated at $945,000, shall be borne by the United States and 30 per centum, presently estimated at $405,000, by local interests” and incorporating former second proviso in second sentence.
 
 #### Harmful Algal Bloom Demonstration Program
-Pub. L. 116–260, div. AA, title I, § 128, Dec. 27, 2020, 134 Stat. 2642, provided that: “(a) In General.—The Secretary [of the Army] shall carry out a demonstration program to determine the causes of, and implement measures to effectively detect, prevent, treat, and eliminate, harmful algal blooms associated with water resources development projects. “(b) Consultation; Use of Existing Data and Program Authorities.—In carrying out the demonstration program under subsection (a), the Secretary shall—“(1) consult with the heads of appropriate Federal and State agencies; and “(2) make maximum use of existing Federal and State data and ongoing programs and activities of Federal and State agencies, including the activities of the Secretary carried out through the Engineer Research and Development Center pursuant to section 1109 of the Water Resources Development Act of 2018 [Pub. L. 115–270] ([33 U.S.C. 610](./chapter-012-river-and-harbor-improvements-generally.md#section-610) note). “(c) Focus Areas.—In carrying out the demonstration program under subsection (a), the Secretary shall undertake program activities related to harmful algal blooms in the Great Lakes, the tidal and inland waters of the State of New Jersey, the coastal and tidal waters of the State of Louisiana, the waterways of the counties that comprise the Sacramento-San Joaquin Delta, California, the Allegheny Reservoir Watershed, New York, and Lake Okeechobee, Florida. “(d) Additional Focus Areas.—In addition to the areas described in subsection (c), in carrying out the demonstration program under subsection (a), the Secretary shall undertake program activities related to harmful algal blooms at any Federal reservoir located in the Upper Missouri River Basin or the North Platte River Basin, at the request and expense of another Federal agency. “(e) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary $25,000,000 to carry out this section. Such sums shall remain available until expended.”
+Pub. L. 116–260, div. AA, title I, § 128, Dec. 27, 2020, 134 Stat. 2642, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8305(c), Dec. 23, 2022, 136 Stat. 3778, provided that: “(a) In General.—The Secretary [of the Army] shall carry out a demonstration program to determine the causes of, and implement measures to effectively detect, prevent, treat, and eliminate, harmful algal blooms associated with water resources development projects. “(b) Consultation; Use of Existing Data and Program Authorities.—In carrying out the demonstration program under subsection (a), the Secretary shall—“(1) consult with the heads of appropriate Federal and State agencies; and “(2) make maximum use of existing Federal and State data and ongoing programs and activities of Federal and State agencies, including the activities of the Secretary carried out through the Engineer Research and Development Center pursuant to section 1109 of the Water Resources Development Act of 2018 [Pub. L. 115–270] ([33 U.S.C. 610](./chapter-012-river-and-harbor-improvements-generally.md#section-610) note). “(c) Focus Areas.—In carrying out the demonstration program under subsection (a), the Secretary shall undertake program activities related to harmful algal blooms in—“(1) the Great Lakes; “(2) the tidal and inland waters of the State of New Jersey, including Lake Hopatcong, New Jersey; “(3) the coastal and tidal waters of the State of Louisiana; “(4) the waterways of the counties that comprise the Sacramento-San Joaquin Delta, California; “(5) the Allegheny Reservoir Watershed, New York; “(6) Lake Okeechobee, Florida; “(7) the Caloosahatchee and St. Lucie Rivers, Florida; “(8) Lake Sidney Lanier, Georgia; “(9) Rio Grande River Basin, Colorado, New Mexico, and Texas; “(10) lakes and reservoirs in the State of Ohio; “(11) the Upper Mississippi River and tributaries; “(12) Detroit Lake, Oregon; “(13) Ten Mile Lake, Oregon; and “(14) the coastal waters of the United States Virgin Islands. “(d) Additional Focus Areas.—In addition to the areas described in subsection (c), in carrying out the demonstration program under subsection (a), the Secretary shall undertake program activities related to harmful algal blooms at any Federal reservoir located in the Upper Missouri River Basin or the North Platte River Basin, at the request and expense of another Federal agency. “(e) Authorization of Appropriations.—There is authorized to be appropriated to the Secretary $25,000,000 to carry out this section. Such sums shall remain available until expended.”
 
 #### Update on Invasive Species Policy Guidance
-Pub. L. 116–260, div. AA, title V, § 501, Dec. 27, 2020, 134 Stat. 2744, provided that: “(a) In General.—The Secretary [of the Army] shall periodically update the Invasive Species Policy Guidance, developed under section 104 of the River and Harbor Act of 1958 ([33 U.S.C. 610](./chapter-012-river-and-harbor-improvements-generally.md#section-610)) and the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) et seq.), in accordance with the most recent National Invasive Species Council Management Plan developed pursuant to Executive Order 13112 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) note]. “(b) Inclusion.—The Secretary may include in the updated guidance invasive species specific efforts at federally authorized water resources development projects located in—“(1) high-altitude lakes; and “(2) the Tennessee and Cumberland River basins.”
+Pub. L. 116–260, div. AA, title V, § 501, Dec. 27, 2020, 134 Stat. 2744, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8305(d), Dec. 23, 2022, 136 Stat. 3779, provided that: “(a) In General.—The Secretary [of the Army] shall periodically update the Invasive Species Policy Guidance, developed under section 104 of the River and Harbor Act of 1958 ([33 U.S.C. 610](./chapter-012-river-and-harbor-improvements-generally.md#section-610)) and the Nonindigenous Aquatic Nuisance Prevention and Control Act of 1990 ([16 U.S.C. 4701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4701&num=0&edition=prelim) et seq.), in accordance with the most recent National Invasive Species Council Management Plan developed pursuant to Executive Order 13112 [[42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) note]. “(b) Inclusion.—The Secretary may include in the updated guidance invasive species specific efforts at federally authorized water resources development projects located in—“(1) high-altitude lakes; “(2) the Tennessee and Cumberland River basins; and “(3) the Sacramento-San Joaquin Delta, California.”
 
 #### Terrestrial Noxious Weed Control Pilot Program
 Pub. L. 116–260, div. AA, title V, § 503, Dec. 27, 2020, 134 Stat. 2745, provided that: “(a) In General.—The Secretary [of the Army] shall carry out a pilot program, in consultation with the Federal Interagency Committee for the Management of Noxious and Exotic Weeds, to identify and develop new and improved strategies for terrestrial noxious weed control on Federal land under the jurisdiction of the Secretary. “(b) Partnerships.—In carrying out the pilot program under subsection (a), the Secretary shall act in partnership with such other individuals and entities as the Secretary determines to be appropriate. “(c) Cooperative Agreements.—The Secretary may utilize cooperative agreements with county and State agencies for the implementation of the pilot program under subsection (a). “(d) Report to Congress.—Not later than 2 years after the date of enactment of this Act [Dec. 27, 2020], the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report describing the new and improved strategies developed through the pilot program under subsection (a).”
 
 #### Asian Carp Prevention and Control Pilot Program
-Pub. L. 116–260, div. AA, title V, § 509(a), Dec. 27, 2020, 134 Stat. 2750, provided that: “(a) Corps of Engineers Asian Carp Prevention Pilot Program.—“(1) In general.—The Secretary [of the Army], in conjunction with the Tennessee Valley Authority and other relevant Federal agencies, shall carry out an Asian carp prevention pilot program to carry out projects to manage and prevent the spread of Asian carp using innovative technologies, methods, and measures. “(2) Project selection.—“(A) Location.—Each project under the pilot program shall be carried out in a river system or reservoir in the Cumberland River Watershed or Tennessee River Watershed in which Asian carp populations are expanding or have been documented. “(B) Consultation.—In selecting projects to carry out under the pilot program, the Secretary shall consult with—“(i) applicable Federal, State, and local agencies; “(ii) institutions of higher education; and “(iii) relevant private organizations, including nonprofit organizations. “(C) Limitations.—“(i) Number of projects.—The Secretary may select not more than 10 projects to carry out under the pilot program. “(ii) Deadline.—Not later than September 30, 2024, the Secretary shall complete projects selected to be carried out under the pilot program. “(3) Best practices.—In carrying out the pilot program, to the maximum extent practicable, the Secretary shall consider existing best practices, such as those described in the document of the Asian Carp Working Group of the Aquatic Nuisance Species Task Force entitled ‘Management and Control Plan for Bighead, Black, Grass, and Silver Carps in the United States’ and dated November 2007. “(4) Cost-share.—“(A) In general.—The Federal share of the costs of a project carried out under the program may not exceed 75 percent of the total costs of the project. “(B) Operation, maintenance, rehabilitation, and repair.—After the completion of a project under the pilot program, the Federal share of the costs for operation, maintenance, rehabilitation, and repair of the project shall be 100 percent. “(5) Memorandum of agreement.—For projects carried out in reservoirs owned or managed by the Tennessee Valley Authority, the Secretary and the Tennessee Valley Authority shall execute a memorandum of agreement establishing the framework for a partnership and the terms and conditions for sharing expertise and resources. “(6) Payments.—The Secretary is authorized to accept and expend funds from the Tennessee Valley Authority to complete any work under this section at a reservoir owned or managed by the Tennessee Valley Authority. “(7) Report.—Not later than 2 years after the date of enactment of this Act [Dec. 27, 2020], and 2 years thereafter, the Secretary shall submit to Congress a report describing the results of the pilot program, including an analysis of the effectiveness of the innovative technologies, methods, and measures used in projects carried out under the pilot program at preventing the spread, or managing the eradicating of, Asian carp. “(8) Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $25,000,000, to remain available until expended.”
+Pub. L. 116–260, div. AA, title V, § 509(a), Dec. 27, 2020, 134 Stat. 2750, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8391, Dec. 23, 2022, 136 Stat. 3832, provided that: “(a) Corps of Engineers Asian Carp Prevention Pilot Program.—“(1) In general.—The Secretary [of the Army], in conjunction with the Tennessee Valley Authority and other relevant Federal agencies, shall carry out an Asian carp prevention pilot program to carry out projects to manage and prevent the spread of Asian carp using innovative technologies, methods, and measures. “(2) Project selection.—“(A) Location.—Each project under the pilot program shall be carried out in a river system or reservoir in the Cumberland River Watershed, Tennessee River Watershed, or Tombigbee River Watershed in which Asian carp populations are expanding or have been documented. “(B) Consultation.—In selecting projects to carry out under the pilot program, the Secretary shall consult with—“(i) applicable Federal, State, and local agencies; “(ii) institutions of higher education; and “(iii) relevant private organizations, including nonprofit organizations. “(C) Limitations.—“(i) Number of projects.—The Secretary may select not more than 10 projects to carry out under the pilot program, of which not fewer than 1 shall be carried out on the Tennessee–Tombigbee Waterway. “(ii) Deadline.—Not later than September 30, 2024, the Secretary shall complete projects selected to be carried out under the pilot program. “(3) Best practices.—In carrying out the pilot program, to the maximum extent practicable, the Secretary shall consider existing best practices, such as those described in the document of the Asian Carp Working Group of the Aquatic Nuisance Species Task Force entitled ‘Management and Control Plan for Bighead, Black, Grass, and Silver Carps in the United States’ and dated November 2007. “(4) Cost-share.—“(A) In general.—The Federal share of the costs of a project carried out under the program may not exceed 75 percent of the total costs of the project. “(B) Operation, maintenance, rehabilitation, and repair.—After the completion of a project under the pilot program, the Federal share of the costs for operation, maintenance, rehabilitation, and repair of the project shall be 100 percent. “(5) Memorandum of agreement.—For projects carried out in reservoirs owned or managed by the Tennessee Valley Authority, the Secretary and the Tennessee Valley Authority shall execute a memorandum of agreement establishing the framework for a partnership and the terms and conditions for sharing expertise and resources. “(6) Payments.—The Secretary is authorized to accept and expend funds from the Tennessee Valley Authority to complete any work under this section at a reservoir owned or managed by the Tennessee Valley Authority. “(7) Report.—Not later than 2 years after the date of enactment of this Act [Dec. 27, 2020], and 2 years thereafter, the Secretary shall submit to Congress a report describing the results of the pilot program, including an analysis of the effectiveness of the innovative technologies, methods, and measures used in projects carried out under the pilot program at preventing the spread, or managing the eradicating of, Asian carp. “(8) Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $25,000,000, to remain available until expended.”
 
 #### Harmful Algal Bloom Technology Demonstration
 Pub. L. 115–270, title I, § 1109, Oct. 23, 2018, 132 Stat. 3774, provided that: “(a) In General.—The Secretary [of the Army], acting through the Engineer Research and Development Center, shall implement a 5-year harmful algal bloom technology development demonstration program under the Aquatic Nuisance Research Program. To the extent practicable, the Secretary shall support research that will identify and develop improved strategies for early detection, prevention, and management techniques and procedures to reduce the occurrence and effects of harmful algal blooms in the Nation’s water resources. “(b) Scalability Requirement.—The Secretary shall ensure that technologies identified, tested, and deployed under the harmful algal bloom technology development demonstration program have the ability to scale up to meet the needs of harmful-algal-bloom-related events.”

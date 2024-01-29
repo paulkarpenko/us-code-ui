@@ -2,17 +2,14 @@
 title: 33
 chapter: '16'
 heading: LIGHTHOUSES
-section_count: 58
+section_count: 59
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
-<a id="section-711-to-715"></a>
-## § 711 to 715. Omitted
+<a id="section-711-to-713"></a>
+## § 711 to 713. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(2)–(4), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
-
-#### Codification
-Sections related to the establishment of the Bureau of Lighthouses in the Department of Commerce. The Bureau of Lighthouses and its functions were transferred to and consolidated with the Coast Guard in the Department of the Treasury to be administered as a part thereof by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees. Further provision to perfect the consolidation of the Lighthouse Service with the Coast Guard by authorizing the commissioning, appointment, and enlistment in the Coast Guard, of certain officers and employees of the Lighthouse Service, was made by act Aug. 5, 1939, ch. 477, 53 Stat. 1216.
 
 Section 711, acts June 17, 1910, ch. 301, § 4, 36 Stat. 537; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; June 5, 1920, ch. 264, § 2, 41 Stat. 1059; July 3, 1930, ch. 850, 46 Stat. 1003; Aug. 16, 1937, ch. 665, § 4, 50 Stat. 667, related to establishment of Bureau of Lighthouses, personnel, salaries, and annual reports.
 
@@ -22,9 +19,18 @@ Section 712, acts July 27, 1912, ch. 255, § 2, 37 Stat. 239; Mar. 4, 1913, ch. 
 
 Section 713, acts June 17, 1910, ch. 301, § 10, 36 Stat. 538; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, related to regulations for Lighthouse Service.
 
+
+<a id="section-714-715"></a>
+## § 714, 715. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(5), (6), Dec. 23, 2022, 136 Stat. 4165
+
+### Statutory Notes
+
 Section 714, acts June 17, 1910, ch. 301, § 6, 36 Stat. 538; acts Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736, transferred duties of Lighthouse Board to Commissioner of Lighthouses.
 
 Section 715, act June 17, 1910, ch. 301, § 5, 36 Stat. 537, related to transfer of employees.
+
+#### Operation of Repeals
+Pub. L. 117–263, div. K, title CXVIII, § 11808(b), Dec. 23, 2022, 136 Stat. 4166, provided that: “The repeals under paragraphs (5) and (6) of subsection (a) [repealing sections 714 and 715 of this title] shall not affect the operation of [section 103 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section103&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-716"></a>
@@ -66,12 +72,11 @@ Repeal effective first day of third month after approval by President [Aug. 4, 1
 
 
 <a id="section-719"></a>
-## § 719. Omitted
+## § 719. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(7), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### Codification
-Section, R.S. § 4679, provided that no additional salary should be allowed to any civil, military, or naval officer on account of his being employed in the Light-House Board, or being in any manner attached to the light-house service. The functions of the Light-House Board and all employees of or in the Light-House Board or the Light-House Establishment, except army and navy officers, were transferred to the Bureau of Lighthouses by act June 17, 1910, ch. 301, §§ 5, 6, 36 Stat. 537. The Bureau of Lighthouses was transferred to and consolidated in the Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees. Act Aug. 5, 1939, ch. 477, 53 Stat. 1216, provided for the commissioning or enlistment in the Coast Guard of former employees of the Bureau of Lighthouses.
+Section, R.S. § 4679, provided that no additional salary should be allowed to any civil, military, or naval officer on account of his being employed on the Light-House Board, or being in any manner attached to the light-house service.
 
 
 <a id="section-720-720a"></a>
@@ -88,12 +93,11 @@ Repeal effective first day of third month after approval by President [Aug. 4, 1
 
 
 <a id="section-721"></a>
-## § 721. Omitted
+## § 721. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(2), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### Codification
-Section, acts June 17, 1910, ch. 301, § 4, 36 Stat. 537; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Aug. 16, 1937, ch. 665, § 4, 50 Stat. 667, gave Commissioner the power to settle damage claims up to $500. These duties and functions of Commissioner of Lighthouses were taken over by Commandant of Coast Guard under Reorg. Plan II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, acts June 17, 1910, ch. 301, § 4, 36 Stat. 537; Mar. 4, 1913, ch. 141, § 1, 37 Stat. 736; Aug. 16, 1937, ch. 665, § 4, 50 Stat. 667, gave Commissioner of Lighthouses the power to settle damage claims up to $500.
 
 
 <a id="section-721a-to-724"></a>
@@ -248,15 +252,20 @@ Section, R.S. § 4676; acts June 10, 1910, ch. 301, § 6, 36 Stat. 538; Aug. 16,
 Repeal effective first day of third month after approval by President [Aug. 4, 1949], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
 
 
-<a id="section-737-738"></a>
-## § 737, 738. Omitted
+<a id="section-737"></a>
+## § 737. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(8), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### Codification
-Section 737, act May 14, 1908, ch. 168, § 4, 35 Stat. 162, as affected by act June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to maintenance of anchorage buoys in New York and Philadelphia harbors. See [section 472 of this title](./chapter-010-anchorage-grounds-and-harbor-regulations-generally.md#section-472).
+Section, act May 14, 1908, ch. 168, § 4, 35 Stat. 162, as affected by act June 17, 1910, ch. 301, § 6, 36 Stat. 538, related to maintenance of anchorage buoys in New York and Philadelphia harbors. See [section 548 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section548&num=0&edition=prelim), Coast Guard.
 
-Section 738, act June 5, 1920, ch. 235, § 1, 41 Stat. 880, provided that the Lighthouse Service should cooperate with the Coast Guard in marking certain anchorage grounds. The Lighthouse Service was consolidated in the Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
+
+<a id="section-738"></a>
+## § 738. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(9), Dec. 23, 2022, 136 Stat. 4165
+
+### Statutory Notes
+
+Section, acts June 5, 1920, ch. 235, § 1, 41 Stat. 880; Aug. 4, 1949, ch. 393, § 20, 63 Stat. 563, provided that the Lighthouse Service should cooperate with the Coast Guard in marking certain anchorage grounds. The provision comprising this section may have already been repealed by section 20 of act Aug. 4, 1949, which Act enacted Title 14, Coast Guard. The table of repealed laws in that section did not include this Code section, but it did refer to the Act provision comprising this section in a footnote. The Lighthouse Service was consolidated in the Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
 
 
 <a id="section-739-to-740b"></a>
@@ -302,12 +311,11 @@ Prior provisions for the arrangement of the various lighthouse districts were ma
 
 
 <a id="section-744"></a>
-## § 744. Omitted
+## § 744. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(10), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### Codification
-Section, act June 20, 1918, ch. 103, § 7, 40 Stat. 608, related to superintendents of lighthouses and their salaries. The Bureau of Lighthouses and its functions were transferred and consolidated with the Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
+Section, act June 20, 1918, ch. 103, § 7, 40 Stat. 608, related to superintendents of lighthouses and their salaries.
 
 
 <a id="section-745"></a>
@@ -374,20 +382,11 @@ Section, act June 20, 1918, ch. 103, § 2, 40 Stat. 608; 1939 Reorg. Plan No. II
 
 
 <a id="section-748a"></a>
-## § 748a. Transportation expenses for school children
-
-In all appropriations hereafter made for “General expenses, Coast Guard” there is authorized to be made available not exceeding $2,500 in any fiscal year, for the transportation, under regulations prescribed by the Secretary of Transportation, of the children of lighthouse keepers at isolated light stations where necessary to enable such children to attend school.
+## § 748a. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(11), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### Transfer of Functions
-“Coast Guard” substituted in text for “Lighthouse Service” on authority of Reorg. Plan No. II of 1939, § 2(a), set out in the Appendix to Title 5, Government Organization and Employees, which transferred and consolidated Bureau of Lighthouses, of which Lighthouse Service was a part, with Coast Guard.
-
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
-
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+Section, act May 13, 1938, ch. 215, § 2, 52 Stat. 353; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938, related to transportation expenses for school children of lighthouse keepers.
 
 
 <a id="section-749"></a>
@@ -425,11 +424,10 @@ Repeal effective first day of third month after approval by President [Aug. 4, 1
 
 
 <a id="section-752b"></a>
-## § 752b. Omitted
+## § 752b. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(12), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### Codification
 Section, act June 15, 1938, ch. 398, 52 Stat. 692, related to disposal of materials to the Boys Scouts of America. See [section 901 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section901&num=0&edition=prelim), Coast Guard.
 
 
@@ -480,14 +478,14 @@ Repeal effective first day of third month after approval by President [Aug. 4, 1
 
 
 <a id="section-763"></a>
-## § 763. Repealed or Omitted
+## § 763. Repealed. Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(a), Jan. 1, 2021, 134 Stat. 4757; Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(13), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### Codification
-Section, acts June 20, 1918, ch. 103, § 6, 40 Stat. 608; Nov. 4, 1918, ch. 201, § 1, 40 Stat. 1036; June 21, 1955, ch. 170, § 1, 69 Stat. 166; Pub. L. 85–142, Aug. 14, 1957, 71 Stat. 365; Pub. L. 90–164, § 1, Nov. 29, 1967, 81 Stat. 519; Pub. L. 92–455, § 6(a), Oct. 2, 1972, 86 Stat. 761, was repealed in part and omitted in part.
+Section, acts June 20, 1918, ch. 103, § 6, 40 Stat. 608; Nov. 4, 1918, ch. 201, § 1, 40 Stat. 1036; June 21, 1955, ch. 170, § 1, 69 Stat. 166; Pub. L. 85–142, Aug. 14, 1957, 71 Stat. 365; Pub. L. 90–164, § 1, Nov. 29, 1967, 81 Stat. 519; Pub. L. 92–455, § 6(a), Oct. 2, 1972, 86 Stat. 761, related to retirement of officers and employees of the Lighthouse Service.
 
-Section 763 consisted mostly of provisions from section 6 of act June 20, 1918, as amended, with one additional proviso from act Nov. 4, 1918, and was restated at [section 2532 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2532&num=0&edition=prelim), Coast Guard. Section 6 of act June 20, 1918, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(a), Jan. 1, 2021, 134 Stat. 4757. Although it was not repealed, the proviso from act Nov. 4, 1918, was omitted from the Code given the repeal of the remainder of this section and the inclusion of the content of that proviso within [section 2532 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2532&num=0&edition=prelim).
+#### Codification
+Section 763 consisted mostly of provisions from section 6 of act June 20, 1918, as amended, with one additional proviso from act Nov. 4, 1918, and was restated at former [section 2532 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2532&num=0&edition=prelim), Coast Guard. Section 6 of act June 20, 1918, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(a), Jan. 1, 2021, 134 Stat. 4757. The proviso from act Nov. 4, 1918, was repealed by Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(13), Dec. 23, 2022, 136 Stat. 4165.
 
 
 <a id="section-763a"></a>
@@ -513,28 +511,11 @@ For pay increases remaining in effect notwithstanding repeals by section 8512(a)
 
 
 <a id="section-763a-2"></a>
-## § 763a–2. Application to persons of Coast Guard
-
-The provisions of sections 763 11 See References in Text note below. and 763a–1 1 of this title shall not apply to persons of the Coast Guard other than officers and employees of the former Lighthouse Service who, on June 30, 1939, met the requirements for retirement (except those relating to age and period of service) of said sections.
+## § 763a–2. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(14), Dec. 23, 2022, 136 Stat. 4165
 
 ### Statutory Notes
 
-#### References in Text
-[Section 763 of this title](./chapter-016-lighthouses.md#section-763), referred to in text, was repealed, to the extent comprised of section 6 of act June 20, 1918, by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(a), Jan. 1, 2021, 134 Stat. 4757.
-
-[Section 763a–1 of this title](./chapter-016-lighthouses.md#section-763a-1), referred to in text, was repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(10), Jan. 1, 2021, 134 Stat. 4759.
-
-#### Codification
-Sections 763 and 763a–1 of this title, referred to in text, was, in the original: “The provisions of section 6 of the Act approved June 20, 1918 (40 Stat. 608), as amended and supplemented (U.S.C., 1934 edition, Supp. V., title 33, secs. 763 and 763a–1)”.
-
-#### Transfer of Functions
-Bureau of Lighthouses, of which Lighthouse Service was a part, transferred and consolidated with Coast Guard by Reorg. Plan No. II of 1939, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees.
-
-For transfer of functions of other officers, employees, and agencies of Department of the Treasury, with certain exceptions, to Secretary of the Treasury with power to delegate, see Reorg. Plan No. 26 of 1950, §§ 1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5. Functions of Coast Guard, and Commandant of Coast Guard, were excepted from transfer when Coast Guard is operating as part of Navy under former sections 1 and 3 (now 101 and 103) of Title 14, Coast Guard.
-
-Coast Guard transferred to Department of Transportation, and all functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in former section 3 (now 103) of Title 14. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
-
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+Section, act June 6, 1940, ch. 257, § 7, 54 Stat. 247, related to application of former sections 763 and 763a–1 of this title to persons of the Coast Guard.
 
 
 <a id="section-763b"></a>
@@ -576,40 +557,21 @@ Section, act July 9, 1956, ch. 524, 70 Stat. 510, provided for an additional inc
 
 
 <a id="section-764"></a>
-## § 764. Omitted
+## § 764. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(15), Dec. 23, 2022, 136 Stat. 4166
 
 ### Statutory Notes
 
-#### Codification
 Section, act Mar. 4, 1921, ch. 161, § 1, 41 Stat. 1417, Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(13), Jan. 1, 2021, 134 Stat. 4759, related to privilege granted employees of continuing service after retirement and which was limited to a ten year period after Mar. 4, 1921.
 
 
-<a id="section-765"></a>
-## § 765. Retirement for disability
-
-Any officer or employee to whom [section 763 of this title](./chapter-016-lighthouses.md#section-763) applies, who has been in the active service of the Government fifteen years or more and who is found, after examination by a medical officer of the United States, to be disabled for useful and efficient service by reason of disease or injury not due to vicious habits, intemperance, or willful misconduct on his part, shall be retired under rules to be prescribed by the Secretary of Transportation on an annuity computed in the manner provided in said section.
+<a id="section-765-766"></a>
+## § 765, 766. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(16), Dec. 23, 2022, 136 Stat. 4166
 
 ### Statutory Notes
 
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+Section 765, act Mar. 4, 1925, ch. 523, § 1, 43 Stat. 1261; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938, related to retirement for disability.
 
-#### Transfer of Functions
-The officers or employees to be retired refer to the officers and employees of the Lighthouse Service. The Lighthouse Service was under the Secretary of Commerce prior to the transfer and consolidation of the Bureau of Lighthouses, of which the Lighthouse Service was a part, with the Coast Guard which was under the Secretary of the Treasury by Reorg. Plan No. II, § 2(a), set out in the Appendix to Title 5, Government Organization and Employees. Subsequently, the functions of the Secretary of the Treasury relating to the Coast Guard were transferred to the Secretary of Transportation by section 6(b)(1) of Pub. L. 89–670. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
-
-
-<a id="section-766"></a>
-## § 766. Restoration to active duty after retirement for disability
-
-Any officer or employee retired under [section 765 of this title](./chapter-016-lighthouses.md#section-765) may, upon recovery, be restored to active duty, and shall from time to time, before reaching the age at which he may be retired under [section 763 of this title](./chapter-016-lighthouses.md#section-763) be reexamined by a medical officer of the United States upon the request of the Secretary of Transportation.
-
-### Statutory Notes
-
-#### Transfer of Functions
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
-
-#### Transfer of Functions
-The officers or employees to be retired refer to the officers and employees of the Lighthouse Service. The Lighthouse Service was under the Secretary of Commerce prior to the transfer and consolidation of the Bureau of Lighthouses, of which the Lighthouse Service was a part, with the Coast Guard which was under the Secretary of the Treasury by Reorg. Plan No. II, § 2(a), set out in the Appendix to Title 5, Government Organization and Employees. Subsequently, the functions of the Secretary of the Treasury relating to the Coast Guard were transferred to the Secretary of Transportation by section 6(b)(1) of Pub. L. 89–670. See [section 108 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section108&num=0&edition=prelim), Transportation.
+Section 766, act Mar. 4, 1925, ch. 523, § 2, 43 Stat. 1262; 1939 Reorg. Plan No. II, § 2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938, related to restoration to active duty after retirement for disability.
 
 
 <a id="section-767-to-769"></a>
@@ -666,7 +628,7 @@ Bureau of Lighthouses, of which Lighthouse Service was a part, transferred and c
 Section, Aug. 19, 1950, ch. 761, § 2, 64 Stat. 466; Pub. L. 85–351, § 1, Mar. 28, 1958, 72 Stat. 49; Pub. L. 89–670, § 6(b)(1), Oct. 15, 1966, 80 Stat. 938; Pub. L. 90–163, § 1, Nov. 29, 1967, 81 Stat. 518; Pub. L. 90–167, § 1(b), Nov. 29, 1967, 81 Stat. 520; Pub. L. 98–557, § 15(b)(2), Oct. 30, 1984, 98 Stat. 2866, related to death of employee due to non-service-connected causes after 15 years’ service and amount of payment to surviving spouse.
 
 #### Savings
-For continuation of benefit payments nothwithtanding repeals made by section 8512 of Pub. L. 116–283, see section 8512(b)(1) of Pub. L. 116–283, set out as a note under [section 725 of this title](./chapter-016-lighthouses.md#section-725).
+For continuation of benefit payments notwithstanding repeals made by section 8512 of Pub. L. 116–283, see section 8512(b)(1) of Pub. L. 116–283, set out as a note under [section 725 of this title](./chapter-016-lighthouses.md#section-725).
 
 
 <a id="section-773"></a>
@@ -675,7 +637,7 @@ For continuation of benefit payments nothwithtanding repeals made by section 851
 ### Statutory Notes
 
 #### Codification
-Section, act Aug. 19, 1950, ch. 761, § 3, 64 Stat. 466, which related to application for benefits for surviving spouses of Lighthouse Service employees and employee death benefits, was transferred to [section 2534(a) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/a&num=0&edition=prelim), Coast Guard.
+Section, act Aug. 19, 1950, ch. 761, § 3, 64 Stat. 466, which related to application for benefits for surviving spouses of Lighthouse Service employees and employee death benefits, was transferred to former [section 2534(a) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/a&num=0&edition=prelim), Coast Guard. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166, repealed [section 2534 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534&num=0&edition=prelim).
 
 
 <a id="section-774"></a>
@@ -684,18 +646,15 @@ Section, act Aug. 19, 1950, ch. 761, § 3, 64 Stat. 466, which related to applic
 ### Statutory Notes
 
 #### Codification
-Section, Aug. 19, 1950, ch. 761, § 4, 64 Stat. 466, which related to rules and regulations necessary to carry out benefit provisions, was transferred to [section 2534(b) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/b&num=0&edition=prelim), Coast Guard.
+Section, Aug. 19, 1950, ch. 761, § 4, 64 Stat. 466, which related to rules and regulations necessary to carry out benefit provisions, was transferred to former [section 2534(b) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/b&num=0&edition=prelim), Coast Guard. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166, repealed [section 2534 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534&num=0&edition=prelim).
 
 
 <a id="section-775"></a>
-## § 775. Payments nonassignable and exempt from process
-
-No payment under sections 771 to 775 11 See References in Text note below. of this title shall be assignable, either in law or in equity, or be subject to execution, levy, lien, attachment, garnishment, or other legal process.
+## § 775. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(17), Dec. 23, 2022, 136 Stat. 4166
 
 ### Statutory Notes
 
-#### References in Text
-Sections 771 and 772 of this title, referred to in text, were repealed by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8512(a)(15), Jan. 1, 2021, 134 Stat. 4759. [Section 773 of this title](./chapter-016-lighthouses.md#section-773), referred to in text, was transferred to [section 2534(a) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/a&num=0&edition=prelim), Coast Guard, by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(b)(2)(A), Jan. 1, 2021, 134 Stat. 4758. [Section 774 of this title](./chapter-016-lighthouses.md#section-774), referred to in text, was transferred to [section 2534(b) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/b&num=0&edition=prelim) by Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(b)(3)(A), Jan. 1, 2021, 134 Stat. 4758.
+Section, act Aug. 19, 1950, ch. 761, § 5, 64 Stat. 466, related to payments nonassignable and exempt from process.
 
 
 <a id="section-776"></a>
@@ -704,4 +663,4 @@ Sections 771 and 772 of this title, referred to in text, were repealed by Pub. L
 ### Statutory Notes
 
 #### Codification
-Section, Pub. L. 112–74, div. C, title V, Dec. 23, 2011, 125 Stat. 919, which related to payment of certain annuities out of the Civil Service Retirement and Disability Fund, was transferred to [section 2534(c) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/c&num=0&edition=prelim), Coast Guard.
+Section, Pub. L. 112–74, div. C, title V, Dec. 23, 2011, 125 Stat. 919, which related to payment of certain annuities out of the Civil Service Retirement and Disability Fund, was transferred to former [section 2534(c) of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534/c&num=0&edition=prelim), Coast Guard. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166, repealed [section 2534 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2534&num=0&edition=prelim).

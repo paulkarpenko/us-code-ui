@@ -146,7 +146,7 @@ Nothing in this chapter shall be deemed to modify the National Environmental Pol
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in text, probably means act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
@@ -278,9 +278,9 @@ Pub. L. 98–569, § 6, Oct. 30, 1984, 98 Stat. 2939, provided that: “The amen
 ### Statutory Notes
 
 #### References in Text
-Public Law 90–537, referred to in subsec. (a)(5), is act Sept. 30, 1968, 82 Stat. 885, as amended, popularly known as the “Colorado River Basin Project Act”, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+Public Law 90–537, referred to in subsec. (a)(5), is act Sept. 30, 1968, 82 Stat. 885, popularly known as the “Colorado River Basin Project Act”, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
-Public Law 84–485, referred to in subsec. (a)(5), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, popularly known as the “Colorado River Storage Project Act”, which is classified to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
+Public Law 84–485, referred to in subsec. (a)(5), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, popularly known as the “Colorado River Storage Project Act”, which is classified to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
 
 The Reclamation Act of 1902, referred to in subsec. (a)(5), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
@@ -381,7 +381,7 @@ Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 
 ### Statutory Notes
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1595"></a>
@@ -441,7 +441,7 @@ The Federal Water Pollution Control Act Amendments of 1972, referred to in subse
 
 [Section 620d(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620d/d/5&num=0&edition=prelim), referred to in subsec. (c), was in the original a reference to “[section 205(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section205/d&num=0&edition=prelim)”, meaning section 205(d) of title II of Pub. L. 93–320. Such section 205(d) amended section 5(d) of the Colorado River Storage Project Act by inserting a new par. (5), which is classified to [section 620d(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620d/d/5&num=0&edition=prelim).
 
-The Colorado River Storage Project Act, referred to in subsec. (d), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
+The Colorado River Storage Project Act, referred to in subsec. (d), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (f)(1), (3), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -482,7 +482,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 Amendment by Pub. L. 98–569 effective Oct. 30, 1984, see section 6 of Pub. L. 98–569, set out as a note under [section 1591 of this title](./chapter-32a-colorado-river-basin-salinity-control.md#section-1591).
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1596"></a>
@@ -499,7 +499,7 @@ Sections 615ww and 616e of this title, referred to in text, were omitted from th
 For termination, effective May 15, 2000, of provisions in this section relating to the requirement that the Secretary submit a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 4th item on page 113 of House Document No. 103–7.
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1597"></a>
@@ -514,19 +514,19 @@ Sections 620d(d)(5), 1543(g)(2), and 1595(b) of this title, referred to in text,
 
 This subchapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 93–320, which enacted this subchapter and amended sections 1620d(d) and 1543(g) of this title. For complete classification of title II to the Code, see Tables.
 
-The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, which is classified principally to chapter 32 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
-The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
+The Colorado River Storage Project Act, referred to in text, is act Apr. 11, 1956, ch. 203, 70 Stat. 105, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
 
 The Colorado River Compact (45 Stat. 1057), the Upper Colorado River Basin Compact (63 Stat. 31), and the Water Treaty of 1944, referred to in text, are not classified to the Code.
 
 The Boulder Canyon Project Act, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
 
-The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
+The Boulder Canyon Project Adjustment Act, referred to in text, is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
 
 Section 6 of the Fryingpan-Arkansas Project Act [[43 U.S.C. 616e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section616e&num=0&edition=prelim)] and section 15 of the Navajo Indian irrigation project and initial stage of the San Juan-Chama Project Act [[43 U.S.C. 615ww](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section615ww&num=0&edition=prelim)], referred to in text, were omitted from the Code.
 
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, as amended, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 

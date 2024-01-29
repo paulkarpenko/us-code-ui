@@ -38,7 +38,7 @@ The word “give” is substituted for the words “dispose of without charge”
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1975 Amendment
 Pub. L. 93–628, § 2, Jan. 3, 1975, 88 Stat. 2148, provided that: “The amendments made by the first section [amending this section] shall take effect on the date of the enactment of this Act [Jan. 3, 1975].”
@@ -62,7 +62,7 @@ Subject to regulations under [section 121 of title 40](https://uscode.house.gov/
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8761b"></a>
@@ -107,7 +107,7 @@ In subsection (b) the words “for other distribution” are substituted for the
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8763"></a>
@@ -204,7 +204,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 |  | [34 U.S.C. 546h](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section546h&num=0&edition=prelim) (last sentence as applicable to [34 U.S.C. 546g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section546g&num=0&edition=prelim)). | Aug. 7, 1946, ch. 804, § 3 (last sentence as applicable to § 2), 60 Stat. 897. |
 |  | [34 U.S.C. 546k](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section546k&num=0&edition=prelim) (1st sentence as applicable to [34 U.S.C. 546g](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section546g&num=0&edition=prelim), and 3d sentence). | Aug. 7, 1946, ch. 804, § 6 (1st sentence as applicable to § 2, and 3d sentence), 60 Stat. 898. |
 
-In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”. Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in [section 101 of this title](./chapter-001-definitions.md#section-101) and is therefore covered by clause (1).
+In subsection (a) the words, “ordnance material” are substituted for the words “ordnance, guns, projectiles”. Posts of the Grand Army of the Republic are omitted from the list of authorized donees because there are no surviving members of that organization. The word “Commonwealth” is inserted to reflect the present status of Puerto Rico. Specific reference to the Canal Zone is omitted as unnecessary, since the Zone is a “possession of the United States” as defined in [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101) and is therefore covered by clause (1).
 
 Subsection (d) is added to note the existence of a later act, codified in [§ 2572 of this title](./chapter-153-exchange-of-material-and-disposal-of-obsolete-surplus-or-unclaimed-property.md#section-2572), which provides similar disposal authority, and to give effect to § 2 of the Act of February 27, 1948, ch. 76, 62 Stat. 37, which is not now contained in the U.S. Code, and which saves this section despite the apparent implied repeal.
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 107–314, div. A, title X, § 1062(e), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(e)(2) is effective as if included in Pub. L. 107–217 as originally enacted.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8766"></a>

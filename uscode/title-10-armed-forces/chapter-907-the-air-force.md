@@ -76,7 +76,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(i)**
 
-(1) During the period beginning on October 1, 2017, and ending on October 1, 2026, the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,970 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
+(1) During the period beginning on October 1, 2017, and ending on October 1, 2026, the Secretary of the Air Force shall maintain a total aircraft inventory of fighter aircraft of not less than 1,800 aircraft, and a total primary mission aircraft inventory (combat-coded) of not less than 1,145 fighter aircraft.
 
 (2) In this subsection:
 
@@ -92,9 +92,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(j)**
 
-(1) Except as provided in paragraph (2), effective October 1, 2019, the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft of not less than 479 aircraft.
+(1) Except as provided in paragraph (2), the Secretary of the Air Force shall maintain a total aircraft inventory of air refueling tanker aircraft of not less than 466 aircraft.
 
-(2) The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below 479 only if—
+(2) The Secretary of the Air Force may reduce the number of air refueling tanker aircraft in the total aircraft inventory of the Air Force below 466 only if—
 
   (A) the Secretary certifies to the congressional defense committees that such reduction is justified by the results of the mobility capability and requirements study conducted under section 144(b) of the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91); and
 
@@ -105,6 +105,46 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
   (A) The term “air refueling tanker aircraft” means an aircraft that has as its primary mission the refueling of other aircraft.
 
   (B) The term “total aircraft inventory” means aircraft authorized to a flying unit for operations or training.
+
+**(k)**
+
+(1) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2023 and ending on September 30, 2027, the Secretary of the Air Force may not—
+
+  (A) retire an F–22 aircraft;
+
+  (B) reduce funding for unit personnel or weapon system sustainment activities for F–22 aircraft in a manner that presumes future congressional authority to divest such aircraft;
+
+  (C) keep an F–22 aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status); or
+
+  (D) decrease the total aircraft inventory of F–22 aircraft below 184 aircraft.
+
+(2) The prohibition under paragraph (1) shall not apply to individual F–22 aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+
+**(l)**
+
+(1) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2029, the Secretary of the Air Force may not—
+
+  (A) retire more than 68 F–15E aircraft;
+
+  (B) reduce funding for unit personnel or weapon system sustainment activities for retained F–15E aircraft in a manner that presumes future congressional authority to divest such aircraft; or
+
+  (C) keep an F–15E aircraft (other than an aircraft identified for retirement under subparagraph (A)) in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status).
+
+(2) The prohibition under paragraph (1) shall not apply to individual F–15E aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
+
+**(m)**
+
+(1) During the period beginning on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 and ending on September 30, 2028, the Secretary of the Air Force may not—
+
+  (A) retire an RQ–4 aircraft;
+
+  (B) reduce funding for unit personnel or weapon system sustainment activities for RQ–4 aircraft in a manner that presumes future congressional authority to divest such aircraft;
+
+  (C) keep an RQ–4 aircraft in a status considered excess to the requirements of the possessing command and awaiting disposition instructions (commonly referred to as “XJ” status); or
+
+  (D) decrease the total aircraft inventory of RQ–4 aircraft below 10 aircraft.
+
+(2) The prohibition under paragraph (1) shall not apply to individual RQ–4 aircraft that the Secretary of the Air Force determines, on a case-by-case basis, to be no longer mission capable and uneconomical to repair because of aircraft accidents, mishaps, or excessive material degradation and non-airworthiness status of certain aircraft.
 
 ### Statutory Notes
 
@@ -135,7 +175,23 @@ Section 141(c)(3) of the National Defense Authorization Act for Fiscal Year 2013
 
 Section 144(b) of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (j)(2)(A), is section 144(b) of Pub. L. 115–91, div. A, title I, Dec. 12, 2017, 131 Stat. 1321, which is not classified to the Code.
 
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2023, referred to in subsec. (k)(1), is the date of enactment of Pub. L. 117–263, also known as the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, which was approved Dec. 23, 2022.
+
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (l)(1) and (m)(1), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
 #### Amendments
+2023—Subsec. (l). Pub. L. 118–31, § 131(a), added subsec. (l).
+
+Subsec. (m). Pub. L. 118–31, § 132, added subsec. (m).
+
+2022—Subsec. (i)(1). Pub. L. 117–263, § 141(a), substituted “1,800” for “1,970”.
+
+Subsec. (j)(1). Pub. L. 117–263, § 142(a), struck out “effective October 1, 2019,” after “paragraph (2),” and substituted “466” for “479”.
+
+Subsec. (j)(2). Pub. L. 117–263, § 142(a)(2), substituted “466” for “479” in introductory provisions.
+
+Subsec. (k). Pub. L. 117–263, § 143(a), added subsec. (k).
+
 2021—Subsec. (h). Pub. L. 116–283 struck out subsec. (h) which read as follows:
 
 “(1) Beginning October 1, 2011, the Secretary of the Air Force may not retire more than six B–1 aircraft.
@@ -176,7 +232,10 @@ Subsec. (g). Pub. L. 109–364 added subsec. (g).
 Amendment by sections 806(c) and 809(a) of Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
+
+#### Clarification of Relationship Between Limitations
+Pub. L. 118–31, div. A, title I, § 131(c), Dec. 22, 2023, 137 Stat. 172, provided that: “The authority of the Secretary of the Air Force to retire F–15E aircraft to the extent allowed under subsection (l)(1)(A) of [section 9062 of title 10](./chapter-907-the-air-force.md#section-9062), United States Code (as added by subsection (a) of this section) shall not apply until the Secretary complies with the requirements of section 150 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 2456) (as amended by subsection (b) of this section).”
 
 #### Modification of Force Structure Objectives for Bomber Aircraft
 Pub. L. 116–283, div. A, title I, § 132, Jan. 1, 2021, 134 Stat. 3430, provided that: “(a) Minimum Level for All Bomber Aircraft.—“(1) In general.—During the period beginning on the date of the enactment of this Act [Jan. 1, 2021] and ending on October 1, 2025, the Secretary of the Air Force shall, except as provided in paragraph (2), maintain not less than 92 bomber aircraft based on the Primary Mission Aircraft Inventory (PMAI) of the Air Force. “(2) Exception.—The Secretary may reduce the number of aircraft required by the Primary Mission Aircraft Inventory below the number specified in paragraph (1) if the Secretary determines, on a case-by-case basis, that a bomber aircraft is no longer to be so required because such aircraft is no longer mission capable due to mishap or other damage, or being uneconomical to repair. “(b) Repeal of Minimum B–1 Inventory Requirement.— [Amended this section.] “(c) Preservation of Certain B–1 Aircraft and Maintenance Personnel.—Until the date on which the Secretary determines that the B–21 bomber aircraft has attained initial operating capability, the Secretary—“(1) shall preserve four B–1 aircraft that are retired pursuant to subsection (a), in a manner that ensures the components and parts of each such aircraft are maintained in reclaimable condition that is consistent with type 2000 recallable storage, or better; and “(2) may not reduce the number of billets assigned to maintenance of B–1 aircraft in effect on January 1, 2020.”
@@ -274,7 +333,7 @@ Subsec. (f). Pub. L. 85–861 struck out “female” before “commissioned off
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9064"></a>
@@ -288,7 +347,7 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. 
 #### Amendments
 2019—Pub. L. 116–92, § 952(b)(1), renumbered [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim) as this section.
 
-Subsec. (a). Pub. L. 116–92, § 1731(a)(61), substituted “is” for “are”. Amendment was directed to [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim) and was executed before amendment by section 952(b)(1) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Subsec. (a). Pub. L. 116–92, § 1731(a)(61), substituted “is” for “are”. Amendment was directed to [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim) and was executed before amendment by section 952(b)(1) of Pub. L. 116–92, see above, pursuant to section 1731(f) of Pub. L. 116–92, set out as a Coordination of Certain Sections of an Act With Other Provisions of That Act note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 2018—Pub. L. 115–232 renumbered [section 8069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8069&num=0&edition=prelim) as [section 9069 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9069&num=0&edition=prelim).
 

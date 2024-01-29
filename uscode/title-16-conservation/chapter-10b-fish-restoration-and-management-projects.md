@@ -169,11 +169,11 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
   (B) *Available amounts* — The available amount referred to in subparagraph (A) is—
 
-    (i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+    (i) for the fiscal year that includes November 15, 2021, the product obtained by multiplying—
 
-      (I) the available amount specified in this subparagraph for the preceding fiscal year; and
+      (I) $12,786,434; and
 
-      (II) $979,500; and
+      (II) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
 
     (ii) for each fiscal year thereafter, the sum obtained by adding—
 
@@ -233,6 +233,12 @@ The Coastal Wetlands Planning, Protection and Restoration Act, referred to in su
 Section 5604(c) of the Clean Vessel Act of 1992, referred to in subsec. (a)(3)(A), is section 5604(c) of Pub. L. 102–587, which is set out as a note under [section 1322 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1322&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Amendments
+2022—Subsec. (b)(1)(B)(i). Pub. L. 117–263 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+
+“(I) the available amount specified in this subparagraph for the preceding fiscal year; and
+
+“(II) $979,500; and”.
+
 2021—Subsec. (a). Pub. L. 117–58, § 28001(a)(1)(A), substituted “fiscal year 2026” for “fiscal year 2021” in introductory provisions.
 
 Subsec. (b)(1)(A). Pub. L. 117–58, § 28001(a)(1)(B)(i)(I), substituted “fiscal year 2026” for “fiscal year 2021”.
@@ -745,7 +751,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 (6) costs of audits under subsection (d);
 
-(7) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+(7) costs of necessary training of Federal and State personnel who administer this chapter to improve administration of this chapter;
 
 (8) costs of travel to States, territories, and Canada by personnel who—
 
@@ -753,7 +759,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
   (B) administer grants under section 777e or 777m of this title;
 
-(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 (10) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
 
@@ -793,6 +799,10 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 In subsec. (d)(2)(A), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2022—Subsec. (a)(7). Pub. L. 117–263, § 11324(a)(2)(A), struck out “full-time” before “personnel”.
+
+Subsec. (a)(9). Pub. L. 117–263, § 11324(a)(2)(B), struck out “on a full-time basis” after “administer this chapter”.
+
 2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
 
 Subsec. (a)(2). Pub. L. 117–58, § 28001(a)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
@@ -975,14 +985,13 @@ Section effective Oct. 1, 1988, see section 6(e) of Pub. L. 100–448, set out a
 
 (3) A portion, as determined by the Sport Fishing and Boating Partnership Council, of funds disbursed for the purposes described in paragraph (2) but remaining unobligated as of October 1, 2021, shall be used to study the impact of derelict vessels and identify recyclable solutions for recreational vessels.
 
-**(f) Nonapplicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
+**(f) Nonapplicability of chapter 10 of title 5** Chapter 10 of title 5 shall not apply to any activity carried out under this section.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2021—Subsec. (e)(3). Pub. L. 117–58 added par. (3).
 
 2015—Subsec. (a)(1). Pub. L. 114–94, § 10001(f)(1), struck out “of each annual appropriation made in accordance with the provisions of [section 777b of this title](./chapter-10b-fish-restoration-and-management-projects.md#section-777b)” after “$3,000,000”.

@@ -174,9 +174,18 @@ Pub. L. 116–283, div. C, title XXXV, § 3511(c), Jan. 1, 2021, 134 Stat. 4419,
 
 (3) **Concurrence of award.—** — The Secretary of Transportation may not approve an application for an operating agreement without the concurrence of the Secretary of Defense.
 
-**(c) Limitation.—** For any fiscal year, the Secretary of Transportation may not award operating agreements under this chapter that require payments under [section 53406 of this title](./chapter-534-tanker-security-fleet.md#section-53406) for more than 10 vessels.
+**(c) Limitation.—** The Secretary of Transportation may not award operating agreements under this chapter that require payments under [section 53406 of this title](./chapter-534-tanker-security-fleet.md#section-53406) for more than—.11 So in original. The period probably should not appear.
+
+(1) for each of fiscal years 2022 and 2023, 10 vessels; and
+
+(2) for any subsequent fiscal year, 20 vessels.
 
 **(d) Judicial Review.—** No court shall have jurisdiction to review the Secretary’s decision with respect to the award or non-award of an operating agreement issued under this chapter.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–263 substituted “The Secretary” for “For any fiscal year, the Secretary” and “more than—” for “more than 10 vessels”, designated existing provisions as introductory provisions, and added pars. (1) and (2).
 
 
 <a id="section-53404"></a>
@@ -242,7 +251,7 @@ Pub. L. 116–283, div. C, title XXXV, § 3511(c), Jan. 1, 2021, 134 Stat. 4419,
 
 <a id="section-53406"></a>
 ## § 53406. Payments
-**(a) Annual Payment.—** Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section.
+**(a) Annual Payment.—** Subject to the availability of appropriations for such purpose and the other provisions of this chapter, the Secretary shall pay to program participant for an operating agreement under this chapter an amount equal to $6,000,000 for each vessel covered by the agreement for each fiscal year that the vessel is covered by the agreement. Such amount shall be paid in equal monthly installments on the last day of each month. The amount payable under this subsection may not be reduced except as provided by this section or section 51307(b).
 
 **(b) Certification Required for Payment.—** As a condition of receiving payment under this section for a fiscal year for a vessel, the program participant shall certify, in accordance with regulations issued by the Secretary, that the vessel has been and will be operated in accordance with [section 53405(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section53405/a&num=0&edition=prelim) for at least 320 days during the fiscal year. Days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
@@ -273,6 +282,11 @@ Pub. L. 116–283, div. C, title XXXV, § 3511(c), Jan. 1, 2021, 134 Stat. 4419,
 (2) **Limitation on application.—** — Paragraph (1) shall not apply to a program participant that is a citizen of the United States within the meaning of [section 50501 of this title](./chapter-505-other-general-provisions.md#section-50501), applying the 75 percent ownership requirement of that section.
 
 (3) **Participates in a noncontiguous trade defined.—** — In this subsection the term “participates in a noncontiguous domestic trade” means directly or indirectly owns, charters, or operates a vessel engaged in transportation of cargo between a point in the contiguous 48 States and a point in Alaska, Hawaii, or Puerto Rico, other than a point in Alaska north of the Arctic Circle.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263 inserted “or section 51307(b)” after “this section”.
 
 
 <a id="section-53407"></a>
@@ -348,7 +362,12 @@ The Secretary of Transportation and the Secretary of Defense may each prescribe 
 <a id="section-53411"></a>
 ## § 53411. Authorization of appropriations
 
-There is authorized to be appropriated for payments under section 53406, $60,000,000 for each of fiscal years 2022 through 2035, to remain available until expended.
+There is authorized to be appropriated for payments under section 53406, $60,000,000 for each of fiscal years 2022 and 2023, and $120,000,000 for fiscal years 2024 through 2035, to remain available until expended.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–263 substituted “and 2023, and $120,000,000 for fiscal years 2024 through 2035” for “through 2035”.
 
 
 <a id="section-53412"></a>

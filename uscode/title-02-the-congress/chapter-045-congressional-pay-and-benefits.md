@@ -95,9 +95,13 @@ Pub. L. 88–426, title II, § 201, Aug. 14, 1964, 78 Stat. 413, provided that: 
 Pub. L. 113–3, § 3, Feb. 4, 2013, 127 Stat. 51, provided that: “(a) Holding Salaries in Escrow.—“(1) In general.—If by April 15, 2013, a House of Congress has not agreed to a concurrent resolution on the budget for fiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974 [[2 U.S.C. 632](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-632)], during the period described in paragraph (2) the payroll administrator of that House of Congress shall deposit in an escrow account all payments otherwise required to be made during such period for the compensation of Members of Congress who serve in that House of Congress, and shall release such payments to such Members only upon the expiration of such period. “(2) Period described.—With respect to a House of Congress, the period described in this paragraph is the period which begins on April 16, 2013, and ends on the earlier of—“(A) the day on which the House of Congress agrees to a concurrent resolution on the budget for fiscal year 2014 pursuant to section 301 of the Congressional Budget Act of 1974 [[2 U.S.C. 632](./chapter-17a-congressional-budget-and-fiscal-operations.md#section-632)]; or “(B) the last day of the One Hundred Thirteenth Congress. “(3) Withholding and remittance of amounts from payments held in escrow.—The payroll administrator shall provide for the same withholding and remittance with respect to a payment deposited in an escrow account under paragraph (1) that would apply to the payment if the payment were not subject to paragraph (1). “(4) Release of amounts at end of the congress.—In order to ensure that this section is carried out in a manner that shall not vary the compensation of Senators or Representatives in violation of the twenty-seventh article of amendment to the Constitution of the United States, the payroll administrator of a House of Congress shall release for payments to Members of that House of Congress any amounts remaining in any escrow account under this section on the last day of the One Hundred Thirteenth Congress. “(5) Role of secretary of the treasury.—The Secretary of the Treasury shall provide the payroll administrators of the Houses of Congress with such assistance as may be necessary to enable the payroll administrators to carry out this section. “(b) Treatment of Delegates as Members.—In this section, the term ‘Member’ includes a Delegate or Resident Commissioner to the Congress. “(c) Payroll Administrator Defined.—In this section, the ‘payroll administrator’ of a House of Congress means—“(1) in the case of the House of Representatives, the Chief Administrative Officer of the House of Representatives, or an employee of the Office of the Chief Administrative Officer who is designated by the Chief Administrative Officer to carry out this section; and “(2) in the case of the Senate, the Secretary of the Senate, or an employee of the Office of the Secretary of the Senate who is designated by the Secretary to carry out this section.”
 
 #### Cost of Living Adjustment
-Pub. L. 117–103, § 6, Mar. 15, 2022, 136 Stat. 52, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501](./chapter-045-congressional-pay-and-benefits.md#section-4501)) (relating to cost of living adjustments for Members of Congress) during fiscal year 2022.”
+Pub. L. 118–47, § 7, Mar. 23, 2024, 138 Stat. 461, provided that: “Notwithstanding any other provision of law, no adjustment shall be made under section 601(a) of the Legislative Reorganization Act of 1946 ([2 U.S.C. 4501](./chapter-045-congressional-pay-and-benefits.md#section-4501)) (relating to cost of living adjustments for Members of Congress) during fiscal year 2024.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–328, § 6, Dec. 29, 2022, 136 Stat. 4462.
+
+Pub. L. 117–103, § 6, Mar. 15, 2022, 136 Stat. 52.
 
 Pub. L. 116–260, § 7, Dec. 27, 2020, 134 Stat. 1185.
 
@@ -762,13 +766,13 @@ Pars. (3), (4). Pub. L. 116–94, § 212(b)(1)(B), (C), added par. (3) and redes
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 effective on the later of the first day of the first applicable pay period beginning on or after Jan. 1, 2020, or the first day of the first applicable pay period beginning on or after Dec. 20, 2019, see section 212(c) of Pub. L. 116–94, set out as a note under [section 282b of this title](./chapter-009-office-of-legislative-counsel.md#section-282b).
 
-#### Speaker Pelosi, May 6, 2022
+#### Speaker Pelosi, December 30, 2022
 Pursuant to the authority vested in the Speaker by section 311(d) of the Legislative Branch Appropriations Act, 1988, as amended by section 212(b) of the Legislative Branch Appropriations Act, 2020 ([2 U.S.C. 4532](./chapter-045-congressional-pay-and-benefits.md#section-4532)), in order to ensure parity of treatment between employees of the House of Representatives and certain other employees of the Government, it is hereby—
 
 Ordered,
 
 #### pay for specified positions
-SEC. 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the Chaplain, the General Counsel to the House, the Inspector General, the Director of Interparliamentary Affairs, the Attending Physician, and one additional position in the Office of the Sergeant at Arms with duties related to emergency preparedness, planning and operations is $203,700.
+SEC. 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chief Administrative Officer, the Chaplain, the General Counsel to the House, the Inspector General, the Director of Interparliamentary Affairs, the Attending Physician, and one additional position in the Office of the Sergeant at Arms with duties related to emergency preparedness, planning and operations is $212,100.
 
 (b) Subject to the maximum established under subsection (a), the annual rate of pay for the following positions is subject to the approval of the Speaker:
 
@@ -779,15 +783,17 @@ SEC. 1. (a) The annual rate of pay for the Clerk, the Sergeant-at-Arms, the Chie
 (3) The Law Revision Counsel.
 
 #### maximum and minimum rates of pay
-SEC. 2. (a) The maximum annual rate of pay is $203,700 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation. (b) The minimum annual rate of pay is $45,000 for any full-time employee whose pay is disbursed by the Chief Administrative Officer, subject to the rules and regulations promulgated by the Committee on House Administration.
+SEC. 2. (a) The maximum annual rate of pay is $212,100 for any employee whose pay is disbursed by the Chief Administrative Officer and is not otherwise provided for in this Order or otherwise limited by law, rule, or regulation. (b) The minimum annual rate of pay is $45,000 for any full-time employee whose pay is disbursed by the Chief Administrative Officer, subject to the rules and regulations promulgated by the Committee on House Administration.
 
 #### pay for shared employees
 SEC. 3. An employee who, under applicable rules and regulations, is paid from two (2) or more House sources may receive pay totaling the highest limitation applicable to any of the positions the employee occupies.
 
 #### effective date
-SEC. 4. This Order shall apply to pay periods beginning on or after the date on which the Order is signed, except that section 2(b) shall take effect September 1, 2022.
+SEC. 4. This Order be effective January 1, 2023.
 
 Prior Orders of the Speaker of the House of Representatives were issued on the following dates:
+
+May 6, 2022, eff. for pay periods on or after May 6, 2022; section 2(b) eff. Sept. 1, 2022.
 
 Aug. 12, 2021, eff. Aug. 1, 2021.
 
@@ -903,7 +909,17 @@ Section effective immediately prior to noon on Jan. 3, 1971, see section 601(1) 
 
 <a id="section-4536"></a>
 ## § 4536. Student loan repayment program for House employees
-**(a) Establishment** The Chief Administrative Officer shall establish a program under which an employing office of the House of Representatives may agree to repay (by direct payment on behalf of the employee) any student loan previously taken out by an employee of the office. For purposes of this section, a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) shall not be considered to be an employee of the House of Representatives.
+**(a) Program to cover student loan repayment, educational assistance, and professional development for House employees**
+
+(1) **Establishment** — The Chief Administrative Officer shall establish a program under which an employing office of the House of Representatives may agree—
+
+  (A) to repay (by direct payment on behalf of the employee) any student loan previously taken out by an employee of the office;
+
+  (B) to make direct payments on behalf of an employee of the office or to reimburse an employee of the office for expenses paid by the employee for the employee’s educational and professional development; and
+
+  (C) to make direct payments on behalf of an employee of the office or to reimburse an employee of the office for credentialing, professional accreditation, professional licensure, and professional certification expenses paid by the employee.
+
+(2) **Exclusion of members** — For purposes of this section, a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) shall not be considered to be an employee of the House of Representatives.
 
 **(b) Lifetime limit on aggregate payments made on behalf of any individual** The aggregate amount of payments made on behalf of any individual under the program under this section by all employing offices of the House of Representatives may not exceed $80,000.
 
@@ -919,7 +935,12 @@ Section was formerly classified to [section 60c–6 of this title](./chapter-004
 Section is from the Legislative Branch Appropriations Act, 2003, which is div. H of the Consolidated Appropriations Resolution, 2003.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328 amended subsec. (a) generally. Prior to amendment, text read as follows: “The Chief Administrative Officer shall establish a program under which an employing office of the House of Representatives may agree to repay (by direct payment on behalf of the employee) any student loan previously taken out by an employee of the office. For purposes of this section, a Member of the House of Representatives (including a Delegate or Resident Commissioner to the Congress) shall not be considered to be an employee of the House of Representatives.”
+
 2020—Subsecs. (b) to (d). Pub. L. 116–260 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. I, title I, § 114(b), Dec. 29, 2022, 136 Stat. 4923, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to payments made during fiscal year 2023 or any succeeding fiscal year.”
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. I, title I, § 114(b)(1), Dec. 27, 2020, 134 Stat. 1636, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to fiscal year 2021 and each succeeding fiscal year.”
@@ -1316,8 +1337,8 @@ Pub. L. 100–202, § 101(i) [title III, § 311(c)], Dec. 22, 1987, 101 Stat. 13
 #### Effective Date of 1972 Amendment
 Amendment by Pub. L. 92–392 effective on first day of first applicable pay period beginning on or after 90th day after Aug. 19, 1972, see section 15(a) of Pub. L. 92–392, set out as an Effective Date note under [section 5341 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5341&num=0&edition=prelim), Government Organization and Employees.
 
-#### March 15, 2022
-By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 ([2 U.S.C. 4571](./chapter-045-congressional-pay-and-benefits.md#section-4571)) and section 212(a)(1)(B) of the Legislative Branch Appropriations Act, 2020 ([2 U.S.C. 4575a](./chapter-045-congressional-pay-and-benefits.md#section-4575a)), and the amendments made by section 213 of division I of the Consolidated Appropriations Act, 2022 [Pub. L. 117–103, amending this section and sections 4573 and 4575 of this title] in order to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note; Public Law 101–194) and the amendments made by such section [amending [section 4501 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4501), [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees, and [section 461 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section461&num=0&edition=prelim), Judiciary and Judicial Procedure]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2022, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code,
+#### December 28, 2022
+By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 ([2 U.S.C. 4571](./chapter-045-congressional-pay-and-benefits.md#section-4571)) and section 212(a)(1)(B) of the Legislative Branch Appropriations Act, 2020 ([2 U.S.C. 4575a](./chapter-045-congressional-pay-and-benefits.md#section-4575a)), and the amendments made by section 213 of division I of the Consolidated Appropriations Act, 2022 [Pub. L. 117–103, amending this section and sections 4573 and 4575 of this title] in order to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim) note; Public Law 101–194) and the amendments made by such section [amending [section 4501 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4501), [section 104 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section104&num=0&edition=prelim), The President, [section 5318 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5318&num=0&edition=prelim), Government Organization and Employees, and [section 461 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section461&num=0&edition=prelim), Judiciary and Judicial Procedure]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2023, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code,
 
 it is hereby—
 
@@ -1328,7 +1349,7 @@ Section 1. For purposes of this Order—
 
 (1) the term “employee” includes an officer (other than a United States Senator); and
 
-(2) pursuant to the authority under the amendments made by section 213 of division I of the Consolidated Appropriations Act, 2022, the term “annual rate for level II” means the annual rate of basic pay for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), United States Code, including any adjustment to such rate after the date of this Order [Mar. 15, 2022].
+(2) pursuant to the authority under the amendments made by section 213 of division I of the Consolidated Appropriations Act, 2022, the term “annual rate for level II” means the annual rate of basic pay for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim), United States Code, including any adjustment to such rate after the date of this Order [Dec. 28, 2022].
 
 #### rate of pay for statutory employees
 Sec. 2. (a) The annual rates of compensation of the Secretary of the Senate, the Sergeant at Arms and Doorkeeper, and the Legislative Counsel shall each be equal to the annual rate for level II.
@@ -1377,28 +1398,24 @@ Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch A
 #### senators’ offices
 Sec. 6. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575)), and to the other provisions of this Order, each Senator is authorized to increase the annual rate of compensation of any employee in the office of the Senator.
 
-(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2021, increased by an additional 3.02 percent.
+(b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2022, increased by an additional 4.86 percent.
 
-(c)(1) The figure “$3,196” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim)) (as provided in section 6(c) of the Order of the President pro tempore of January 5, 2021) shall be deemed to be the figure “$3,293”.
+(c)(1) The figure “$3,293” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(d)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d/2&num=0&edition=prelim)) (as provided in section 6(c) of the Order of the President pro tempore of March 15, 2022) shall be deemed to be the figure “$3,454”.
 
 (2) The maximum annual rate of compensation for an employee described in subsection (a) shall be the annual rate for level II.
 
-(d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 [Pub. L. 95–94] ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575) note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be—
-
-(1) $521,700 through the day before the first day of the first applicable pay period beginning on or after the date of enactment of the Legislative Branch Appropriations Act, 2022 [div. I of Pub. L. 117–103, approved Mar. 15, 2022]; and
-
-(2) $611,100 after the day described in paragraph (1).
+(d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 [Pub. L. 95–94] ([2 U.S.C. 4575](./chapter-045-congressional-pay-and-benefits.md#section-4575) note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 (Public Law 102–392; 106 Stat. 1706) shall be $636,300.
 
 #### general limitation
-Sec. 7. (a) The figure “$3,196” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided in section 7(a) of the Order of the President pro tempore of January 5, 2021) shall be deemed to be the figure “$3,293”.
+Sec. 7. (a) The figure “$3,293” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) (as provided in section 7(a) of the Order of the President pro tempore of March 15, 2022) shall be deemed to be the figure “$3,454”.
 
-(b) The maximum annual rate of compensation for an employee described in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)), as amended by section 213(a)(1) of the Legislative Branch Appropriations Act, 2022, shall be the annual rate for level II.
+(b) The maximum annual rate of compensation for an employee described in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim)) shall be the annual rate for level II.
 
 #### notifying disbursing office of increases
 Sec. 8. In order for an employee to receive the increase in the annual rate of compensation of the employee pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that the individual authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim))) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/a/2&num=0&edition=prelim)).
 
 #### dual compensation
-Sec. 9. The figure “$38,442” referred to in [section 5533(c)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c/1&num=0&edition=prelim), United States Code (as provided in section 9 of the Order of the President pro tempore of January 5, 2021) shall be deemed to be the figure “$39,603”.
+Sec. 9. The figure “$39,603” referred to in [section 5533(c)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c/1&num=0&edition=prelim), United States Code (as provided in section 9 of the Order of the President pro tempore of March 15, 2022) shall be deemed to be the figure “$41,528”.
 
 #### office of the senate legal counsel
 Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall be equal to the annual rate for level II.
@@ -1408,13 +1425,15 @@ Sec. 10. (a) The annual rate of compensation of the Senate Legal Counsel shall b
 (c) The maximum annual rate of compensation of each Assistant Senate Legal Counsel may not at any time exceed the annual rate for level II.
 
 #### effective date
-Sec. 11. Except as provided in section 213(b) of the Legislative Branch Appropriations Act, 2022 [see Effective Date of 2022 Amendment note set out above], sections 1 through 10 of this Order are effective on and after January 1, 2022.
+Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2023.
 
 Patrick Leahy
 
 President pro tempore
 
 Prior Orders of the President pro tempore of the Senate were issued on the following dates:
+
+Mar. 15, 2022, eff. Jan. 1, 2022.
 
 Jan. 5, 2021, eff. Jan. 1, 2021.
 
@@ -1558,7 +1577,7 @@ Section was formerly classified to [section 60a–1a of this title](./chapter-00
 
 <a id="section-4573"></a>
 ## § 4573. Senate pay adjustments; action by President pro tempore of Senate
-**(a)** Whenever, after November 5, 1990, there is an adjustment in rates of pay for Senators (other than an adjustment which occurs by virtue of an adjustment under [section 5303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim) in rates of pay under the General Schedule), the President pro tempore of the Senate may, notwithstanding any other provision of law, rule, or regulation, adjust the rate of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Secretary of the Senate (including such personnel appointed to positions for which the specific amount of the rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 and such personnel appointed to positions for which the maximum rates of pay for the particular positions were fixed by or pursuant to law on the day before such effective date), subject to section 4575(f)of this title.
+**(a)** Whenever, after November 5, 1990, there is an adjustment in rates of pay for Senators (other than an adjustment which occurs by virtue of an adjustment under [section 5303 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5303&num=0&edition=prelim) in rates of pay under the General Schedule), the President pro tempore of the Senate may, notwithstanding any other provision of law, rule, or regulation, adjust the rate of pay (and any minimum or maximum rate, limitation, or allowance) applicable to personnel whose pay is disbursed by the Secretary of the Senate (including such personnel appointed to positions for which the specific amount of the rate of pay for the particular position is fixed by statute on the day before the effective date of the amendments made by section 212 of the Legislative Branch Appropriations Act, 2020 and such personnel appointed to positions for which the maximum rates of pay for the particular positions were fixed by or pursuant to law on the day before such effective date), subject to [section 4575(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/f&num=0&edition=prelim).
 
 **(b)** Adjustments made by the President pro tempore under this section shall be made in such manner as he considers advisable and shall have the force and effect of law.
 
@@ -1682,21 +1701,27 @@ The dollar amounts set out in the text of subsecs. (d)(2) and (f) are based on m
 Section is comprised of subsecs. (a) to (f) and (j) of section 105 of Pub. L. 90–57, the Legislative Branch Appropriation Act, 1968. Subsec. (j), which was redesignated subsec. (g) of this section for purposes of codification, was repealed by Pub. L. 104–186. Other subsections of such section 105 provided as follows: subsecs. (g) and (h) amended [section 4507(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4507/b&num=0&edition=prelim) and [section 5533(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5533/c&num=0&edition=prelim), respectively; subsec. (i) repealed sections 60f, 72a–1, 72a–1a, and 72a–4 of this title and amended provisions set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571); subsec. (k) is set out as an Effective Date note below.
 
 #### Amendments
-2022—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2022, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2021, to be increased by an additional 3.02 percent.
+2022—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2023, by section 6(b) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2021, to be increased by an additional 4.86 percent.
+
+The table was revised upward, effective Jan. 1, 2022, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2021, to be increased by an additional 3.02 percent.
 
 Pub. L. 117–103, § 102, revised table upward, deeming dollar amounts in table, as adjusted by law and in effect on Sept. 30, 2021, to be increased by an additional $75,000 each.
 
-Subsec. (d)(2). Pub. L. 117–103 substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim)” for “$173,900”.
+Subsec. (d)(2). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim)” for “$173,900”.
 
-Figure “$3,196” to be deemed to refer, effective Jan. 1, 2022, to the figure “$3,293”, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+Figure “$3,293” to be deemed to refer, effective Jan. 1, 2023, to the figure “$3,454”, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
-Subsec. (e)(3)(B). Pub. L. 117–103 substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim)” for “$173,900”.
+Figure “$3,196” to be deemed to refer, effective Jan. 1, 2022, to the figure “$3,293”, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
-Subsec. (f). Pub. L. 117–103 substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim)” for “$173,900”.
+Subsec. (e)(3)(B). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim)” for “$173,900”.
 
-Figure “$3,196” to be deemed to refer, effective Jan. 1, 2022, to the figure “$3,293”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+Subsec. (f). Pub. L. 117–103, § 213(a)(1), substituted “the annual rate of basic pay in effect for level II of the Executive Schedule under [section 5313 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5313&num=0&edition=prelim)” for “$173,900”.
 
-2021—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2021, by section 6(b) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2021, formerlyset out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2020, to be increased by an additional 1.0 percent.
+Figure “$3,293” to be deemed to refer, effective Jan. 1, 2023, to the figure “$3,454”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
+Figure “$3,196” to be deemed to refer, effective Jan. 1, 2022, to the figure “$3,293”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+
+2021—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2021, by section 6(b) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2021, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2020, to be increased by an additional 1.0 percent.
 
 Subsec. (d)(2). Figure “$3,164” to be deemed to refer, effective Jan. 1, 2021, to the figure “$3,196”, see section 6(c)(1) of Salary Directive of President pro tempore of the Senate, Jan. 5, 2021, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
@@ -1722,7 +1747,7 @@ Figure “$2,988” to be deemed to refer, effective Jan. 1, 2019, to the figure
 
 2018—Subsec. (d)(1)(A). The table was revised upward, effective Jan. 1, 2018, by section 6(b) of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571), which deemed dollar amounts in table in effect on Dec. 31, 2017, to be increased by an additional 2.29 percent.
 
-Subsec. (d)(2). Figures “$2,921” and “$169,459” to be deemed to refer, effective Jan. 1, 2018, to the figures “$2,988” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, sformerly et out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
+Subsec. (d)(2). Figures “$2,921” and “$169,459” to be deemed to refer, effective Jan. 1, 2018, to the figures “$2,988” and “$169,459”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
 Subsec. (f). Figure “$2,921” to be deemed to refer, effective Jan. 1, 2018, to the figure “$2,988”, see section 7(a) of Salary Directive of President pro tempore of the Senate, Mar. 23, 2018, formerly set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).
 
@@ -2128,7 +2153,7 @@ Pub. L. 92–184 revised upward, effective Jan. 1, 1972, the table covering the 
 
 The table was revised upward, effective Feb. 1, 1971, by Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
 
-Subsec. (d)(2). Figures “$1,230”, “$19,680”, “$26,568”, “$32,226”, “$33,702”, “$35,178” to be deemed to refer, effective Jan. 1, 1972, to the figures “$1,295”, “$20,720”, “$27,972”, “$33,929”, “$35,483”, and “$37,037”, respectfully, see section 6(c) of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
+Subsec. (d)(2). Figures “$1,230”, “$19,680”, “$26,568”, “$32,226”, “$33,702”, “$35,178” to be deemed to refer, effective Jan. 1, 1972, to the figures “$1,295”, “$20,720”, “$27,972”, “$33,929”, “$35,483”, and “$37,037”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Dec. 23, 1971, formerly set out as a note under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
 
 Figures “$1,095”, “$17,520”, “$23,652”, “$28,689”, “$30,003”, and “$31,317” to be deemed to refer, effective Feb. 1, 1971, to the figures “$1,230”, “$19,680”, “$26,568”, “$32,226”, “$33,702”, and “$35,178”, respectively, see section 6(c) of Salary Directive of President pro tempore of the Senate, Jan. 15, 1971, formerly set out as a note under [section 60a–1 of this title](./chapter-004-officers-and-employees-of-senate-and-house-of-representatives.md#section-60a-1).
 
@@ -2285,9 +2310,9 @@ Pub. L. 94–157, title I, § 111(c), Dec. 18, 1975, 89 Stat. 832, provided in p
 #### Aggregate of Gross Compensation for Employees in Office of Senator for Each Fiscal Year; Increase in Amount; Reduction in Amounts for Committee Chairmen, Ranking Minority Members, etc.
 Pub. L. 95–94, title I, § 111(a), (b), Aug. 5, 1977, 91 Stat. 662, as amended by Pub. L. 95–240, title II, § 206, Mar. 7, 1978, 92 Stat. 117, eff. Oct. 1, 1977; Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819; Pub. L. 102–392, title I, § 1, Oct. 6, 1992, 106 Stat. 1706, eff. Oct. 1, 1992, provided that: “(a) Except as provided in subsection (b), the aggregate of the gross compensation which may be paid to employees in the office of a Senator during each fiscal year under section 105(d) of the Legislative Branch Appropriation Act, 1968, as amended and modified ([2 U.S.C. 61–1(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section61–1/d&num=0&edition=prelim)) [now [2 U.S.C. 4575(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section4575/d&num=0&edition=prelim)], is increased by an amount equal to 3 times the maximum annual gross rate of compensation that may be paid to an employee of the office of a Senator. “(b) [Repealed. Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819].”
 
-[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $521,700 through the day before the first day of the first applicable pay period beginning on or after Mar. 15, 2022, and $611,100 thereafter by § 6(d) of the Salary Directive of President pro tempore of the Senate, Mar. 15, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).]
+[The amount of the increase referred to in section 111(a) of Pub. L. 95–94, set out above, was set at $636,300 by § 6(d) of the Salary Directive of President pro tempore of the Senate, Dec. 28, 2022, set out as a note under [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571).]
 
-[Prior amounts of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under former section 60a–1 and [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571): Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d); Jan. 5, 2010, § 6(d); Jan. 27, 2014, § 6(d); Dec. 23, 2014, § 6(d); Dec. 28, 2015, § 6(d); May 5, 2017, § 6(d); Mar. 23, 2018, § 6(d); Apr. 1, 2019, § 6(d); Jan. 6, 2020, § 6(d); Jan. 5, 2021, § 6(d).]
+[Prior amounts of increase authorized by section 111(a) of Pub. L. 95–94, set out above, were contained in the following Salary Directives of President pro tempore of the Senate, formerly set out as notes under former section 60a–1 and [section 4571 of this title](./chapter-045-congressional-pay-and-benefits.md#section-4571): Oct. 9, 1978, § 6(d); Oct. 13, 1979, § 6(d); Oct. 1, 1980, § 6(d); Oct. 5, 1981, as amended Dec. 15, 1981, § 6(d); Oct. 1, 1982, § 6(d); Dec. 20, 1983, as amended May 2, 1984, § 6(d); Jan. 4, 1985, § 6(d); Dec. 19, 1986, § 6(d); Jan. 4, 1988, § 6(d); Dec. 9, 1988, § 6(d); Dec. 21, 1989, § 6(d); Dec. 20, 1990, § 6(d); Dec. 18, 1991, § 6(d); Dec. 17, 1992, § 6(d); Dec. 28, 1994, § 6(d); Dec. 18, 1996, § 6(d); Dec. 19, 1997, § 6(d); Dec. 16, 1998, § 6(d); Dec. 12, 1999, § 6(d); Dec. 20, 2000, § 6(d); Dec. 20, 2001, § 6(d); Dec. 19, 2002, § 6(d); Dec. 15, 2003, § 6(d); Mar. 5, 2004, § 6(d); Jan. 3, 2005, § 6(d); Jan. 4, 2006, § 6(d); Feb. 16, 2007, § 6(d); Jan. 7, 2008, § 6(d); Mar. 12, 2009, § 6(d); Jan. 5, 2010, § 6(d); Jan. 27, 2014, § 6(d); Dec. 23, 2014, § 6(d); Dec. 28, 2015, § 6(d); May 5, 2017, § 6(d); Mar. 23, 2018, § 6(d); Apr. 1, 2019, § 6(d); Jan. 6, 2020, § 6(d); Jan. 5, 2021, § 6(d); Mar. 15, 2022, § 6(d).]
 
 [Pub. L. 100–137, § 3, Oct. 21, 1987, 101 Stat. 819, provided that the repeal of section 111(b) of Pub. L. 95–94 is effective as of the first day of the 100th Congress [Jan. 6, 1987]].
 
@@ -2521,7 +2546,7 @@ Section effective on the later of the first day of the first applicable pay peri
 
 (3)
 
-  (A) For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.), the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
+  (A) For purposes of the Ethics in Government Act of 1978 (5 U.S.C. App.),11 See References in Text note below. the rate of basic pay for an individual serving in more than 1 qualifying position under subsection (a) shall be the total basic pay received by the individual from all such positions.
 
   (B) For an individual serving in more than one qualifying position under subsection (a), for purposes of the rights and obligations described in, or described in the provisions applied under, title II of the Congressional Accountability Act of 1995 ([2 U.S.C. 1311](./chapter-024-congressional-accountability.md#section-1311) et seq.) related to practices used at a time when the individual is serving in such a qualifying position with an employing office, the rate of pay for the individual shall be the individual rate of pay received from the employing office.
 
@@ -2568,7 +2593,7 @@ Section effective on the later of the first day of the first applicable pay peri
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec.(b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§ 13101 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 The Congressional Accountability Act of 1995, referred to in subsec. (b)(3)(B), is Pub. L. 104–1, Jan. 23, 1995, 109 Stat. 3. Title II of the Act is classified principally to subchapter II (§ 1311 et seq.) of chapter 24 of this title. For complete classification of this Act to the Code, see Short Title note under [section 1301 of this title](./chapter-024-congressional-accountability.md#section-1301) and Tables.
 

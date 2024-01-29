@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-661"></a>
 ## § 661. Management policies for joint qualified officers
-**(a) Establishment.—** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, Marine Corps, and Space Force on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in [section 668 of this title](./chapter-038-joint-officer-management.md#section-668)). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
+**(a) Establishment.—** The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list, and officers of the Space Force on the Space Force officer list, who are particularly trained in, and oriented toward, joint matters (as defined in [section 668 of this title](./chapter-038-joint-officer-management.md#section-668)). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
 
 **(b) Levels, Designation, and Numbers.—**
 
@@ -95,6 +95,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 substituted “and Marine Corps” for “Marine Corps, and Space Force” and inserted “, and officers of the Space Force on the Space Force officer list,” after “active-duty list”.
+
 2021—Subsec. (a). Pub. L. 116–283 substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
 2019—Subsec. (d)(3)(B). Pub. L. 116–92 inserted “or a designee of the Chairman who is an officer of the armed forces in grade O–9 or higher” after “Chairman of the Joint Chiefs of Staff”.
@@ -159,6 +161,9 @@ Subsec. (d)(2) to (4). Pub. L. 100–180, § 1302(b), added pars. (2) to (4) and
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–364, div. A, title V, § 516(f), Oct. 17, 2006, 120 Stat. 2189, provided that: “The amendments made by this section [amending this section] shall take effect on October 1, 2007.”
+
+#### Designation of at Least One General Officer of the Marine Corps Reserve as a Joint Qualified Officer
+Pub. L. 118–31, div. A, title V, § 516, Dec. 22, 2023, 137 Stat. 249, provided that: “The Secretary of Defense shall ensure that at least one general officer of the Marine Corps Reserve is designated as a joint qualified officer.”
 
 #### Treatment of Current Joint Specialty Officers
 Pub. L. 109–364, div. A, title V, § 516(g), Oct. 17, 2006, 120 Stat. 2189, provided that: “For the purposes of chapter 38 of title 10, United States Code, and sections 154, 164, and 619a of such title, an officer who, as of September 30, 2007, has been selected for or has the joint specialty under section 661 of such title, as in effect on that date, shall be considered after that date to be an officer designated as joint qualified by the Secretary of Defense under section 661(b)(2) of such title, as amended by this section.”

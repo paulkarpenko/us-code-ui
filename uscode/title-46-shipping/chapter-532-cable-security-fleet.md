@@ -246,7 +246,7 @@ The effective date of this chapter, referred to in subsec. (b)(1), probably mean
 
 (1) **In general.—** — The Secretary, subject to availability of appropriations and other provisions of this section, shall pay to the Contractor for an operating agreement, for each vessel that is covered by the operating agreement, an amount equal to $5,000,000 for each fiscal year 2021 through 2035.
 
-(2) **Timing.—** — This amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section.
+(2) **Timing.—** — This amount shall be paid in equal monthly installments at the end of each month. The amount shall not be reduced except as provided by this section or section 51307(b).
 
 **(b) Certification Required for Payment.—** As a condition of receiving payment under this section for a fiscal year for a vessel, the Contractor for the vessel shall certify that the vessel has been and will be operated in accordance with section 53205(a)(1) for 365 days in each fiscal year. Up to thirty (30) days during which the vessel is drydocked, surveyed, inspected, or repaired shall be considered days of operation for purposes of this subsection.
 
@@ -257,6 +257,11 @@ The effective date of this chapter, referred to in subsec. (b)(1), probably mean
 (2) more than 40 years of age.
 
 **(d) Reductions in Payments.—** With respect to payments under this chapter for a vessel covered by an Operating Agreement, the Secretary shall make a pro rata reduction for each day less than 365 in a fiscal year that the vessel is not operated in accordance with section 53205(a)(1), with days during which the vessel is drydocked or undergoing survey, inspection or repair to be considered days on which the vessel is operated as provided in subsection (b).
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263 inserted “or section 51307(b)” after “this section”.
 
 
 <a id="section-53207"></a>

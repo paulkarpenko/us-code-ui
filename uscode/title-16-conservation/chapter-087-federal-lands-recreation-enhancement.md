@@ -232,7 +232,7 @@ This chapter, referred to in subsec. (d)(1), (4), was in the original “this Ac
 
 [Section 101 of title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section101&num=0&edition=prelim), referred to in subsec. (d)(1)(G), was subsequently amended, and section 101 no longer defines “Federal-aid System”.
 
-The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
+The Alaska National Interest Lands Conservation Act, referred to in subsec. (d)(3)(H), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
 #### Prohibition on Entrance Fee at Statue of Liberty National Monument
 Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstanding any other provision of law, after the date of enactment of this Act [June 19, 1987], the Secretary of the Interior shall not charge any entrance or admission fee at the Statue of Liberty National Monument, New Jersey and New York.”
@@ -336,7 +336,7 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 
   (B) *Records* — A Recreation Resource Advisory Committee shall maintain records of the meetings of the Recreation Resource Advisory Committee and make the records available for public inspection.
 
-(12) **Federal Advisory Committee Act** — A Recreation Resource Advisory Committee is subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+(12) **Chapter 10 of title 5** — A Recreation Resource Advisory Committee is subject to the provisions of chapter 10 of title 5.
 
 **(e) Miscellaneous administrative provisions regarding recreation fees and recreation passes**
 
@@ -349,7 +349,8 @@ Pub. L. 100–55, June 19, 1987, 101 Stat. 371, provided: “That, notwithstandi
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), (d)(1)(B), and (e)(2), was in the original “this Act”, and was translated as reading “this title”, meaning title VIII of div. J of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3377, known as the Federal Lands Recreation Enhancement Act, to reflect the probable intent of Congress. For complete classification of title VIII to the Code, see Short Title note set out under [section 6801 of this title](./chapter-087-federal-lands-recreation-enhancement.md#section-6801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(12), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (d)(12). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
 #### Change of Name
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
@@ -568,7 +569,7 @@ Not later than May 1, 2006, and every 3 years thereafter, the Secretary shall su
 <a id="section-6809"></a>
 ## § 6809. Sunset provision
 
-The authority of the Secretary to carry out this chapter shall terminate September 30, 2019.
+The authority of the Secretary to carry out this chapter shall terminate September 30, 2019.11 See Recreation Fees note below.
 
 ### Statutory Notes
 
@@ -585,9 +586,13 @@ This chapter, referred to in text, was in the original “this Act”, and was t
 2014—Pub. L. 113–235 substituted “on September 30, 2016” for “10 years after December 8, 2004”. Amendment was executed as the probable intent of Congress, notwithstanding error in directory language which referenced the editorial translation of “December 8, 2004” rather than “the date of the enactment of this Act” which appeared in the original.
 
 #### Recreation Fees
-Pub. L. 117–103, div. G, title IV, § 421, Mar. 15, 2022, 136 Stat. 415, provided that: “Section 810 of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6809](./chapter-087-federal-lands-recreation-enhancement.md#section-6809)) shall be applied by substituting ‘October 1, 2023’ for ‘September 30, 2019’.”
+Pub. L. 118–42, div. E, title IV, § 421, Mar. 9, 2024, 138 Stat. 290, provided that: “Section 810 of the Federal Lands Recreation Enhancement Act ([16 U.S.C. 6809](./chapter-087-federal-lands-recreation-enhancement.md#section-6809)) shall be applied by substituting ‘October 1, 2025’ for ‘September 30, 2019’.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title IV, § 421, Dec. 29, 2022, 136 Stat. 4826.
+
+Pub. L. 117–103, div. G, title IV, § 421, Mar. 15, 2022, 136 Stat. 415.
 
 Pub. L. 116–260, div. G, title IV, § 423, Dec. 27, 2020, 134 Stat. 1541.
 

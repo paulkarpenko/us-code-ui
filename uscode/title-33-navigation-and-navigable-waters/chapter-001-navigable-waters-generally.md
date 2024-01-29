@@ -545,7 +545,7 @@ Turtle Bay and Turtle Bayou, in Chambers County, in the State of Texas, are decl
 ### Statutory Notes
 
 #### References in Text
-The Rivers and Harbors Act approved June 25, 1910, referred to in text, is act June 25, 1910, ch. 382, 36 Stat. 630, as amended, which is classified to sections 546, 564, and 643 of this title. For complete classification of this Act to the Code, see Tables.
+The Rivers and Harbors Act approved June 25, 1910, referred to in text, is act June 25, 1910, ch. 382, 36 Stat. 630, which is classified to sections 546, 564, and 643 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-51"></a>
@@ -650,7 +650,7 @@ Bayou Terrebonne west of Barrow Street and Bayou LeCarpe west of the Intracoasta
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Change of Name
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress.
@@ -672,7 +672,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, s
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
 The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, have been omitted. Such provisions appear at 114 Stat. 2614 to 2618.
@@ -726,7 +726,7 @@ That portion of the East River, in New York County, State of New York, lying bet
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (d)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-59c-1"></a>
@@ -743,7 +743,7 @@ If the Secretary of the Army, acting through the Chief of Engineers, finds that 
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-59c-3"></a>
@@ -778,7 +778,7 @@ is declared to be nonnavigable waters of the United States.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-59d"></a>
@@ -800,7 +800,7 @@ The old channel of the River Raisin in Monroe County, Michigan, lying between th
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is comprised of section 1079 of Pub. L. 102–240. Subsections (a), (b), and (c) of section 1079 of Pub. L. 102–240 provided for deauthorization of a portion of a project for harbor modification of Cleveland Harbor which was authorized by section 202(a) of the Water Resources Development Act of 1986, Pub. L. 99–662, title II, Nov. 17, 1986, 100 Stat. 4095, which is not classified to the Code.
@@ -828,7 +828,7 @@ For purposes of bridge administration, the Sacramento River Barge Canal, which c
 ### Statutory Notes
 
 #### References in Text
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
 
 
 <a id="section-59ee-1"></a>
@@ -841,7 +841,7 @@ All waters within such portion of the project are declared to be nonnavigable wa
 #### References in Text
 “Such portion of the project”, referred to in text, means “The portion of the project for navigation, Sacramento Deep Water Ship Channel, California, authorized by section 202(a) of the Water Resources Development Act of 1986 (100 Stat. 4092), beginning from the confluence of the Sacramento River and the Barge Canal to a point 3,300 feet west of the William G. Stone Lock western gate (including the William G. Stone Lock and the Bascule Bridge and Barge Canal).” See first sentence of section 347(a)(2) of Pub. L. 106–541, Dec. 11, 2000, 114 Stat. 2618.
 
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
 
 #### Codification
 Section is comprised of the last sentence of section 347(a)(2) of Pub. L. 106–541.
@@ -855,7 +855,7 @@ Bayou Lafourche, in the State of Louisiana, between Canal Boulevard, city of Thi
 ### Statutory Notes
 
 #### References in Text
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
 
 
 <a id="section-59f"></a>
@@ -881,7 +881,7 @@ That portion of Boston Inner Harbor and Fort Point Channel in Suffolk County, Co
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
 The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (a) and pars. (1) to (3) of subsec. (b), which is not set out in the Code, appears at 105 Stat. 2228 to 2231.
@@ -904,7 +904,7 @@ Steele Bayou, in Warren, Issaquena, Sharkey, and Washington Counties, Mississipp
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -960,7 +960,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pu
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (e)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1999—Subsec. (a). Pub. L. 106–53, § 585(1), inserted “all or any part of” after “absolute title to” in first sentence.
@@ -1157,9 +1157,9 @@ Pub. L. 92–605, § 2, Oct. 31, 1972, 86 Stat. 1494, provided that: “This dec
 ### Statutory Notes
 
 #### References in Text
-Act of March 3, 1899, referred to in subsec. (b)(2)(A), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, as amended, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended [section 686 of this title](./chapter-014-california-debris-commission.md#section-686). For complete classification of this Act to the Code, see Tables.
+Act of March 3, 1899, referred to in subsec. (b)(2)(A), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended [section 686 of this title](./chapter-014-california-debris-commission.md#section-686). For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-59j-1"></a>
@@ -1183,7 +1183,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (b)(2)(C),
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Codification
 The text of the boundary descriptions contained in pars. (1) to (5) of subsec. (a), which is not set out in the Code, appears at 102 Stat. 4032 to 4038.
@@ -1206,7 +1206,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, s
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-59kk"></a>
@@ -1217,7 +1217,7 @@ For purposes of bridge administration, the portion of the Wateree River in the S
 ### Statutory Notes
 
 #### References in Text
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
 
 
 <a id="section-59l"></a>
@@ -1270,7 +1270,7 @@ The Coalbank Slough in Coos Bay, Oregon, is deemed to not be navigable waters of
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-59n-1"></a>
@@ -1300,7 +1300,7 @@ The Federal Water Pollution Control Act, referred to in text, is act June 30, 19
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-59p"></a>
@@ -1328,7 +1328,7 @@ The portion of the Union Canal, also known as the Union Ship Canal, an appendage
 ### Statutory Notes
 
 #### References in Text
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
 
 
 <a id="section-59r"></a>
@@ -1362,7 +1362,7 @@ The body of water known as Lawyer’s Ditch located at block 5,000 in the city o
 ### Statutory Notes
 
 #### References in Text
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
 
 
 <a id="section-59v"></a>
@@ -1402,7 +1402,7 @@ Committee on Public Works and Transportation of House of Representatives treated
 ### Statutory Notes
 
 #### References in Text
-The General Bridge Act of 1946, referred to in subsec. (a), is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in subsec. (a), is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
 
 #### Codification
 Pub. L. 100–448 and Pub. L. 100–457 enacted identical sections.
@@ -1419,7 +1419,7 @@ Pub. L. 100–448 and Pub. L. 100–457 enacted identical sections.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 100–676, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -1433,4 +1433,4 @@ The three bodies of water located at block 4004, lots 1 and 2, and block 4003, l
 ### Statutory Notes
 
 #### References in Text
-The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, as amended, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.
+The General Bridge Act of 1946, referred to in text, is title V of act Aug. 2, 1946, ch. 753, 60 Stat. 847, which is classified generally to subchapter III (§ 525 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 525 of this title](./chapter-011-bridges-over-navigable-waters.md#section-525) and Tables.

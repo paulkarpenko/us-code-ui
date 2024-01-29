@@ -2,7 +2,7 @@
 title: 2
 chapter: '55'
 heading: HOUSE OF REPRESENTATIVES OFFICERS AND ADMINISTRATION
-section_count: 50
+section_count: 51
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
@@ -151,7 +151,7 @@ Section was formerly classified to [section 95b of this title](./chapter-004-off
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
 
 #### Amendments
-2022—Subsec. (c)(2). Pub. L. 117–103, which directed insertion of “ ‘Allowance for Compensation of Interns in House Appropriations Committee Offices’, ‘Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices’,” after “ ‘Allowance for Compensation of Interns in Member Offices’,”, was executed by making the insertion after “ ‘Allowance for Compensation of Interns in Member Offices’ ”, to reflect the probable intent of Congress.
+2022—Subsec. (c)(2). Pub. L. 117–103, which directed insertion of “ ‘Allowance for Compensation of Interns in House Appropriations Committee Offices’, ‘Allowance for Compensation of Interns in House Standing, Special and Select Committee Offices’,” after “ ‘Allowance for Compensation of Interns in Member Offices’,”, was executed by making the insertion after “ ‘Allowance for Compensation of Interns in Member Offices’ ” to reflect the probable intent of Congress.
 
 2020—Subsec. (c)(2). Pub. L. 116–260 substituted “ ‘Allowance for Compensation of Interns in House Leadership Offices’, and ‘House of Representatives Modernization Initiatives Account’.” for “, and ‘Allowance for Compensation of Interns in House Leadership Offices’.”
 
@@ -758,7 +758,11 @@ Section is from the Legislative Branch Appropriations Act, 2003, which is div. H
 
 (7) The collection of a service fee from vendors of the Master Web Services Agreement or the Technology Services Contract for failure to abide by and maintain House of Representatives security policies.
 
-**(b) Use of amounts in Fund** Amounts in the Revolving Funds 22 So in original. Probably should be “Fund”. shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction, which is approved by the Committee on Appropriations of the House of Representatives.
+(8) The operation of the House Dry Cleaning and Laundry Service.
+
+(9) Other activities related to the operation of services offered by the House of Representatives, as approved by the Committee on Appropriations of the House of Representatives.
+
+**(b) Use of amounts in Fund** Amounts in the Revolving Funds 22 So in original. Probably should be “Fund”. shall be used for any purpose designated by the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction, upon notification provided by the Chief Administrative Officer to the Committee on Appropriations of the House of Representatives.
 
 **(c) Transfer authority** The Revolving Fund shall be treated as a category of allowances and expenses for purposes of [section 5507(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section5507/a&num=0&edition=prelim).
 
@@ -789,6 +793,10 @@ Section was formerly classified to [section 117m of this title](./chapter-004-of
 Section is from the Legislative Branch Appropriations Act, 2005, which is div. G of the Consolidated Appropriations Act, 2005.
 
 #### Amendments
+2022—Subsec. (a)(8), (9). Pub. L. 117–328, § 115(a), added pars. (8) and (9).
+
+Subsec. (b). Pub. L. 117–328, § 115(b), substituted “upon notification provided by the Chief Administrative Officer to” for “which is approved by”.
+
 2018—Subsec. (a)(7). Pub. L. 115–141 added par. (7).
 
 2009—Subsec. (a)(6). Pub. L. 111–8 added par. (6).
@@ -796,6 +804,9 @@ Section is from the Legislative Branch Appropriations Act, 2005, which is div. G
 2007—Subsec. (b). Pub. L. 110–161 substituted “the Chief Administrative Officer, including purposes relating to energy and water conservation and environmental activities carried out in buildings, facilities, and grounds under the Chief Administrative Officer’s jurisdiction,” for “the Chief Administrative Officer”.
 
 2005—Subsec. (a)(5). Pub. L. 109–13 added par. (5).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. I, title I, § 115(c), Dec. 29, 2022, 136 Stat. 4923, provided that: “The amendments made by this section [amending this section] shall apply with respect to fiscal year 2023 and each succeeding fiscal year.”
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–141, div. I, title I, § 118(b), Mar. 23, 2018, 132 Stat. 777, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date of the enactment of this Act [Mar. 23, 2018].”
@@ -866,6 +877,29 @@ Section is from the Emergency Appropriations for Coronavirus Health Response and
 
 #### Definition
 For definition of “coronavirus”, see section 23005 of Pub. L. 116–136, set out as a note under [section 162b of this title](./chapter-005-library-of-congress.md#section-162b).
+
+
+<a id="section-5549"></a>
+## § 5549. House Intern Resource Office
+**(a) Establishment; Coordinator**
+
+(1) **Establishment; Coordinator** — There is established in the Office of the Chief Administrative Officer of the House of Representatives the House Intern Resource Office (hereinafter referred to as the “Office”).
+
+(2) **Appointment** — The Office shall be headed by the House Intern Resource Coordinator (hereinafter referred to as the “Coordinator”), who shall be employed by the Chief Administrative Officer in consultation with the chair and ranking minority member of the Committee on House Administration.
+
+**(b) Duties** In consultation with the Office of Diversity and Inclusion and such other offices as the Coordinator considers appropriate, the Office shall—
+
+(1) provide support services, such as accommodations, training, and professional development, to interns of offices of the House of Representatives;
+
+(2) serve as a center for resources and best practices for the recruitment, hiring, training, and use of interns by offices of the House of Representatives; and
+
+(3) gather demographic and other data about interns of offices of the House of Representatives.
+
+**(c) Addressing inequities in access to internships** In carrying out its duties, the Office shall consider inequities in access to internships in offices of the House of Representatives, and shall consider the viability of establishing an intern stipend program for interns from underrepresented backgrounds, including those who attend Historically Black Colleges and Universities (HBCUs), Tribal Colleges and Universities, Hispanic-Serving Institutions (HSIs), and other Minority Serving Institutions described in [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim).
+
+**(d) Authorization of appropriations** There are authorized to be appropriated for fiscal year 2023 and each succeeding fiscal year such sums as may be necessary to carry out this section.
+
+**(e) Effective date** This section shall apply with respect to fiscal year 2023 and each succeeding fiscal year.
 
 
 <a id="section-5561"></a>

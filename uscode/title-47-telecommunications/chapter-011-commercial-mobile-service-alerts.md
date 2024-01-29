@@ -138,14 +138,14 @@ Pub. L. 109–347, title VI, § 601, Oct. 13, 2006, 120 Stat. 1936, provided tha
 
 (3) **Additional rules** — The Advisory Committee may adopt other rules as needed.
 
-**(f) Federal Advisory Committee Act** Neither the Federal Advisory Committee Act (5 U.S.C. App.) nor any rule, order, or regulation promulgated under that Act shall apply to the Advisory Committee.
+**(f) Chapter 10 of title 5** Neither chapter 10 of title 5 nor any rule, order, or regulation promulgated under that chapter shall apply to the Advisory Committee.
 
 **(g) Consultation with NIST** The Advisory Committee shall consult with the National Institute of Standards and Technology in its work on developing recommendations under paragraphs (2) and (3) of subsection (c).
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5 nor any rule, order, or regulation promulgated under that chapter” for “the Federal Advisory Committee Act (5 U.S.C. App.) nor any rule, order, or regulation promulgated under that Act” in text.
 
 
 <a id="section-1203"></a>

@@ -27,6 +27,8 @@ The purpose of this subtitle is to provide the Federal Government with an econom
 | 101 | 40:471. | June 30, 1949, ch. 288, § 2, 63 Stat. 378; Sept. 1, 1954, ch. 1211, § 1, 68 Stat. 1126. |
 
 #### Short Title of 2022 Amendment
+Pub. L. 117–328, div. Z, § 101, Dec. 29, 2022, 136 Stat. 5523, provided that: “This division [enacting [section 549a of this title](./chapter-005-property-management.md#section-549a) and provisions set out as a note under [section 549a of this title](./chapter-005-property-management.md#section-549a)] may be cited as the ‘Computers for Veterans and Students Act of 2022’ or the ‘COVS Act’.”
+
 Pub. L. 117–202, § 1, Oct. 17, 2022, 136 Stat. 2224, provided that: “This Act [amending [section 3313 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3313) and enacting provisions set out as a note under [section 3313 of this title](./chapter-033-acquisition-construction-and-alteration.md#section-3313)] may be cited as the ‘Bulb Replacement Improving Government with High-efficiency Technology Act’ or the ‘BRIGHT Act’.”
 
 Pub. L. 117–148, § 1, June 16, 2022, 136 Stat. 1288, provided that: “This Act [amending [section 6121 of this title](./chapter-061-united-states-supreme-court-building-and-grounds.md#section-6121)] may be cited as the ‘Supreme Court Police Parity Act of 2022’.”
@@ -487,19 +489,19 @@ In subsection (e)(2), subparagraph (A) is substituted for 40:754 (last sentence)
 In subsection (f), the words “expenses under” are substituted for “subsistence, as authorized by” for consistency in the revised title. The words “[section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim)” are substituted for “section 5 of the Act of August 2, 1946 ([5 U.S.C. 73b–2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section73b–2&num=0&edition=prelim))” in section 205(g) of the Federal Property and Administrative Services Act of 1949 because of section 7(b) of the Act of September 6, 1966 (Public Law 89–554, 80 Stat. 631), the first section of which enacted Title 5, United States Code.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 12072. Federal Space Management
-Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, as amended by Ex. Ord. No. 13946, § 1, Aug. 24, 2020, 85 F.R. 52879, provided:
+Ex. Ord. No. 12072, Aug. 16, 1978, 43 F.R. 36869, as amended by Ex. Ord. No. 13946, § 1, Aug. 24, 2020, 85 F.R. 52879; Ex. Ord. No. 14091, § 6(c), Feb. 16, 2023, 88 F.R. 10830, provided:
 
 By the authority vested in me as President of the United States of America by Section 205(a) of the Federal Property and Administrative Services Act of 1949, as amended ([40 U.S.C. 486(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section486/a&num=0&edition=prelim)) [now [40 U.S.C. 121(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section121/a&num=0&edition=prelim)], and in order to prescribe appropriate policies and directives, not inconsistent with that Act [now chapters 1 to 11 of this title and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts] and other applicable provisions of law, for the planning, acquisition, utilization, and management of Federal space facilities, it is hereby ordered as follows:
 
-#### 1–1. Space Acquisition and Management. [sic]
+#### 1–1. Space Acquisition
 1–101. Federal facilities and Federal use of space in urban areas shall serve to strengthen the Nation’s cities and to make them attractive places to live and work. Such Federal space shall conserve existing urban resources and encourage the development and redevelopment of cities.
 
 1–102. Procedures for meeting space needs in urban areas shall give serious consideration to the impact a site selection will have on improving the social, economic, environmental, and cultural conditions of the communities in the urban area.
 
-1–103. In the process for meeting Federal space needs, except where such selection is otherwise prohibited, and where cost and security considerations take precedence, preference is to be given to qualified opportunity zones (as defined in [26 U.S.C. 1400Z–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1400Z–1&num=0&edition=prelim)), other distressed areas, and centralized community business areas (including other specific areas which may be recommended by local officials).
+1–103. Except where such selection is otherwise prohibited, the process for meeting Federal space needs in urban areas shall give first consideration to a centralized community business area and adjacent areas of similar character, including other specific areas which may be recommended by local officials.
 
 1–104. The process of meeting Federal space needs in urban areas shall be consistent with the policies of this Order and shall include consideration of the following criteria:
 
@@ -528,9 +530,9 @@ By the authority vested in me as President of the United States of America by Se
 1–106. Site selection and space assignments shall take into account the management needs for consolidation of agencies or activities in common or adjacent space in order to improve administration and management and effect economies.
 
 #### 1–2. Administrator of General Services
-1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition, utilization, and disposal of Federally owned and leased space. In particular, the Administrator shall:
+1–201. The Administrator of General Services shall develop programs to implement the policies of this Order through the efficient acquisition and utilization of Federally owned and leased space. In particular, the Administrator shall:
 
-(a) Select, acquire, manage, and dispose of Federal space in a manner that will foster the policies and programs of the Federal Government and improve the management and administration of government activities.
+(a) Select, acquire, and manage Federal space in a manner which will foster the policies and programs of the Federal government and improve the management and administration of government activities.
 
 (b) Issue regulations, standards, and criteria for the selection, acquisition, and management of Federally owned and leased space.
 
@@ -538,9 +540,11 @@ By the authority vested in me as President of the United States of America by Se
 
 (d) Ensure, in cooperation with the heads of Executive agencies, that their essential space requirements are met in a manner that is economically feasible and prudent.
 
-(e) Make maximum use of existing Federally controlled facilities which, in the Administrator’s judgment, are adequate or economically adaptable to meeting the space needs of executive agencies.
+(e) Make maximum use of existing Federally controlled facilities which, in his judgment, are adequate or economically adaptable to meeting the space needs of executive agencies.
 
-1–202. The Administrator is authorized to request from any Executive agency such information and assistance deemed necessary to carry out the Administrator’s functions under this Order. Each agency shall, to the extent not prohibited by law, furnish such information and assistance to the Administrator.
+(f) Annually submit long–range plans and programs for the acquisition, modernization, and use of space for approval by the President.
+
+1–202. The Administrator is authorized to request from any Executive agency such information and assistance deemed necessary to carry out his functions under this Order. Each agency shall, to the extent not prohibited by law, furnish such information and assistance to the Administrator.
 
 1–203. In the process of meeting Federal space needs in urban areas and implementing the policies of this Order, the Administrator shall:
 
@@ -613,90 +617,8 @@ Sec. 12. (a) The provisions of section 3 of this order shall only apply to situa
 
 William J. Clinton.
 
-#### Ex. Ord. No. 12977. Interagency Security Committee
-Ex. Ord. No. 12977, Oct. 19, 1995, 60 F.R. 54411, as amended by Ex. Ord. No. 13286, § 23, Feb. 28, 2003, 68 F.R. 10624, provided:
-
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the quality and effectiveness of security in and protection of buildings and facilities in the United States occupied by Federal employees for nonmilitary activities (“Federal facilities”), and to provide a permanent body to address continuing government-wide security for Federal facilities, it is hereby ordered as follows:
-
-Section 1. Establishment. There is hereby established within the executive branch the Interagency Security Committee (“Committee”). The Committee shall consist of: (a) the Secretary of Homeland Security (“Secretary”);
-
-(b) representatives from the following agencies, appointed by the agency heads:
-
-(1) Department of State;
-
-(2) Department of the Treasury;
-
-(3) Department of Defense;
-
-(4) Department of Justice;
-
-(5) Department of the Interior;
-
-(6) Department of Agriculture;
-
-(7) Department of Commerce;
-
-(8) Department of Labor;
-
-(9) Department of Health and Human Services;
-
-(10) Department of Housing and Urban Development;
-
-(11) Department of Transportation;
-
-(12) Department of Energy;
-
-(13) Department of Education;
-
-(14) Department of Veterans Affairs;
-
-(15) Environmental Protection Agency;
-
-(16) Central Intelligence Agency;
-
-(17) Office of Management and Budget; and
-
-(18) General Services Administration;
-
-(c) the following individuals or their designees:
-
-(1) the Director, United States Marshals Service;
-
-(2) the Assistant to the President for National Security Affairs; and
-
-(3) the Director, Security Policy Board; and
-
-(d) such other Federal employees as the President shall appoint.
-
-Sec. 2. Chair. The Committee shall be chaired by the Secretary, or the designee of the Secretary.
-
-Sec. 3. Working Groups. The Committee is authorized to establish interagency working groups to perform such tasks as may be directed by the Committee.
-
-Sec. 4. Consultation. The Committee may consult with other parties, including the Administrative Office of the United States Courts, to perform its responsibilities under this order, and, at the discretion of the Committee, such other parties may participate in the working groups.
-
-Sec. 5. Duties and Responsibilities. (a) The Committee shall: (1) establish policies for security in and protection of Federal facilities;
-
-(2) develop and evaluate security standards for Federal facilities, develop a strategy for ensuring compliance with such standards, and oversee the implementation of appropriate security measures in Federal facilities; and
-
-(3) take such actions as may be necessary to enhance the quality and effectiveness of security and protection of Federal facilities, including but not limited to:
-
-(A) encouraging agencies with security responsibilities to share security-related intelligence in a timely and cooperative manner;
-
-(B) assessing technology and information systems as a means of providing cost-effective improvements to security in Federal facilities;
-
-(C) developing long-term construction standards for those locations with threat levels or missions that require blast resistant structures or other specialized security requirements;
-
-(D) evaluating standards for the location of, and special security related to, day care centers in Federal facilities; and
-
-(E) assisting the Secretary in developing and maintaining a centralized security data base of all Federal facilities.
-
-Sec. 6. Agency Support and Cooperation. (a) Administrative Support. To the extent permitted by law and subject to the availability of appropriations, the Secretary, acting by and through the Assistant Commissioner, shall provide the Committee such administrative services, funds, facilities, staff and other support services as may be necessary for the performance of its functions under this order.
-
-(b) Cooperation. Each executive agency and department shall cooperate and comply with the policies and recommendations of the Committee issued pursuant to this order, except where the Director of Central Intelligence determines that compliance would jeopardize intelligence sources and methods. To the extent permitted by law and subject to the availability of appropriations, executive agencies and departments shall provide such support as may be necessary to enable the Committee to perform its duties and responsibilities under this order.
-
-(c) Compliance. The Secretary shall be responsible for monitoring Federal agency compliance with the policies and recommendations of the Committee.
-
-Sec. 7. Judicial Review. This order is intended only to improve the internal management of the Federal Government, and is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees.
+#### Executive Order No. 12977
+Ex. Ord. No. 12977, Oct. 19, 1995, 60 F.R. 54411, as amended by Ex. Ord. No. 13286, § 23, Feb. 28, 2003, 68 F.R. 10624, which established the Interagency Security Committee, was superseded and revoked by Ex. Ord. No. 14111, § 7, Nov. 27, 2023, 88 F.R. 83811, set out in a note below.
 
 #### Ex. Ord. No. 13327. Federal Real Property Asset Management
 Ex. Ord. No. 13327, Feb. 4, 2004, 69 F.R. 5897, as amended by Ex. Ord. No. 13423, § 11(c), Jan. 24, 2007, 72 F.R. 3923; Ex. Ord. No. 13693, § 16(d), Mar. 19, 2015, 80 F.R. 15881, provided:
@@ -811,6 +733,145 @@ This memorandum shall be implemented consistent with applicable law and is not i
 The Director of the OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.
+
+#### Ex. Ord. No. 14111. Interagency Security Committee
+Ex. Ord. No. 14111, Nov. 27, 2023, 88 F.R. 83809, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to enhance the quality and effectiveness of security in and protection of buildings and facilities in the United States occupied by Federal employees or Federal contractor workers for nonmilitary activities, and to provide an ongoing entity to address continuing Government-wide security for Federal facilities, it is hereby ordered as follows:
+
+Section 1. Establishment. There is hereby established the Interagency Security Committee (Committee). The Committee shall consist of:
+
+(a) the Secretary of Homeland Security (Secretary);
+
+(b) representatives from the following executive departments and agencies (agencies), designated by the heads of such agencies:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Defense;
+
+(iv) the Department of Justice;
+
+(v) the Department of the Interior;
+
+(vi) the Department of Agriculture;
+
+(vii) the Department of Commerce;
+
+(viii) the Department of Labor;
+
+(ix) the Department of Health and Human Services;
+
+(x) the Department of Housing and Urban Development;
+
+(xi) the Department of Transportation;
+
+(xii) the Department of Energy;
+
+(xiii) the Department of Education;
+
+(xiv) the Department of Veterans Affairs;
+
+(xv) the Environmental Protection Agency;
+
+(xvi) the Office of Management and Budget;
+
+(xvii) the Office of the Director of National Intelligence; and
+
+(xviii) the General Services Administration;
+
+(c) the following officials or their designees:
+
+(i) the Director of the United States Marshals Service;
+
+(ii) the Director of the Federal Protective Service;
+
+(iii) the Director of the Central Intelligence Agency;
+
+(iv) the Director of the Office of Personnel Management; and
+
+(v) the Director of the Federal Bureau of Investigation; and
+
+(d) such other Federal officials as the President may from time to time designate.
+
+Sec. 2. Chair. The Committee shall be chaired by the Secretary or the designee of the Secretary.
+
+Sec. 3. Working Groups. The Committee is authorized to establish interagency working groups to perform such tasks as may be directed by the Committee.
+
+Sec. 4. Consultation. The Committee may consult with officials in other Federal Government entities, including the Administrative Office of the United States Courts and the United States Postal Service, to perform its responsibilities under this order, and, at the discretion of the Committee, officials from other Federal Government entities may participate in the interagency working groups.
+
+Sec. 5. Duties and Responsibilities. The Committee shall:
+
+(a) establish policies and standards for security in and protection of Federal facilities;
+
+(b) evaluate existing security standards for Federal facilities and develop a strategy to monitor the implementation of such standards to ensure compliance by agencies;
+
+(c) take such actions as may be necessary to enhance the quality and effectiveness of security in and protection of Federal facilities, including:
+
+(i) encouraging agencies with security responsibilities to share security-related intelligence in a timely and cooperative manner;
+
+(ii) assessing technology and information systems as means of providing cost-effective improvements to security in Federal facilities;
+
+(iii) developing long-term construction standards for those locations with threat levels or missions that require blast-resistant structures or other specialized security requirements;
+
+(iv) evaluating standards for the location of, and special security related to, child care centers in Federal facilities;
+
+(v) assisting the Secretary in developing and maintaining a centralized security database of all Federal facilities; and
+
+(vi) providing best practices for securing a mobile Federal workforce; and
+
+(d) no later than 1 year after the date of this order [Nov. 27, 2023] and biennially thereafter, prepare and provide to the Director of the Office of Management and Budget and the Assistant to the President for National Security Affairs a summary report describing the results of compliance under subsection 6(c) of this order.
+
+Sec. 6. Agency Support and Cooperation. (a) To the extent permitted by law and subject to the availability of appropriations, the Secretary shall provide the Committee such administrative services, funds, facilities, staff, and other support services as may be necessary for the performance of its functions under this order.
+
+(b) Each agency shall cooperate and comply with the requirements of this order and the policies and standards of the Committee issued pursuant to this order, except in situations in which the Director of National Intelligence, or other United States Intelligence Community official within the Office of the Director of National Intelligence designated by the Director of National Intelligence, determines that compliance would jeopardize intelligence sources and methods. To the extent permitted by law and subject to the availability of appropriations, agencies shall provide such cooperation and compliance as may be necessary to enable the Committee to perform its duties and responsibilities under this order.
+
+(i) Each agency shall designate a senior official who shall be responsible for agency implementation of, and compliance with, this order.
+
+(ii) The senior official shall ensure that the official’s agency supports Facility Security Committees, as applicable, in the performance of the official’s duties.
+
+(c) The Secretary shall monitor agency compliance with the policies and standards of the Committee. Monitoring compliance shall consist, at a minimum, of the following:
+
+(i) maintaining compliance benchmarks to measure compliance progress;
+
+(ii) requiring periodic compliance reporting by all relevant agencies; and
+
+(iii) conducting risk-based compliance verification.
+
+(d) In situations in which a Federal facility is occupied by multiple agencies for both military and nonmilitary activities, and each such occupancy is substantial, those occupants shall coordinate on the security of the facility.
+
+Sec. 7. Administrative Provision. This order supersedes Executive Order 12977 of October 19, 1995 (Interagency Security Committee) [formerly set out above], which is hereby revoked. To the extent that this order is inconsistent with any provision of any previous Executive Order or Presidential Memorandum, this order shall control. All policies and standards implemented by the Interagency Security Committee that was established pursuant to Executive Order 12977 shall remain in effect until rescinded or replaced by the Committee established pursuant to this order.
+
+Sec. 8. Definitions. For purposes of this order:
+
+(a) “Agency” means an executive agency, as defined in [section 105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section105&num=0&edition=prelim), United States Code.
+
+(b) “Federal facility” means a federally owned or leased building, structure, or the land it resides on, in whole or in part, that is regularly occupied by Federal employees or Federal contractor workers for nonmilitary activities. The term “Federal facility” also means any building or structure acquired by a contractor through ownership or leasehold interest, in whole or in part, solely for the purpose of executing a nonmilitary Federal mission or function under the direction of an agency. The term “Federal facility” does not include public domain land, including improvements thereon; withdrawn lands; or buildings or facilities outside of the United States.
+
+(c) “Federal employee” means an employee, as defined in [section 2105 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2105&num=0&edition=prelim), United States Code, of an agency.
+
+(d) “Federal contractor worker” means any individual who performs work for or on behalf of any agency under a contract, subcontract, or contract-like instrument and who, in order to perform the work specified under the contract, subcontract, or contract-like instrument, requires access to space, information, information technology systems, staff, or other assets of the Federal Government in buildings and facilities of the United States. Such contracts include the following:
+
+(i) personal service contracts;
+
+(ii) contracts between any non-Federal entity and any agency; and
+
+(iii) subcontracts between any non-Federal entity and another non-Federal entity to perform work related to the primary contract with an agency.
+
+(e) “Facility Security Committee” means a committee that is established in accordance with an Interagency Security Committee standard, and that is responsible for addressing facility-specific security issues and approving the implementation of security measures and practices in multi-tenant facilities.
+
+Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-122"></a>

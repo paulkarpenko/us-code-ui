@@ -10,18 +10,18 @@ source: >-
 ## § 2701. Advisory Committee on the Records of Congress
 **(a)** There is established the Advisory Committee on the Records of Congress (hereafter in this chapter referred to as the Committee).
 
-**(b)** The Committee shall be subject to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), except that the Committee shall be of permanent duration, notwithstanding any provision of section 14 of the Federal Advisory Committee Act.
+**(b)** The Committee shall be subject to the provisions of chapter 10 of title 5, except that the Committee shall be of permanent duration, notwithstanding any provision of [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim).
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Another section 1 of title IV of Pub. L. 101–509, 104 Stat. 1421, amended [section 8902 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8902&num=0&edition=prelim), Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 2701, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1295, established Federal Records Council and set forth composition, compensation, etc., of such Council, prior to repeal by Pub. L. 95–378, § 2(a), Sept. 22, 1978, 92 Stat. 723. Section 1 of Pub. L. 95–378 abolished the Federal Records Council.
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 10 of title 5, except that the Committee shall be of permanent duration, notwithstanding any provision of [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim).” for “the Federal Advisory Committee Act (5 U.S.C. App.), except that the Committee shall be of permanent duration, notwithstanding any provision of section 14 of the Federal Advisory Committee Act.”
 
 
 <a id="section-2702"></a>

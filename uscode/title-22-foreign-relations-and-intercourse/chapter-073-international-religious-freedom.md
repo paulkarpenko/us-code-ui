@@ -818,15 +818,15 @@ Section was enacted as part of the United States Commission on International Rel
 <a id="section-6435a"></a>
 ## § 6435a. Applicability of other laws
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+Chapter 10 of title 5 shall not apply to the Commission.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 206 of Pub. L. 105–292 was renumbered section 209 and is classified to [section 6436 of this title](./chapter-073-international-religious-freedom.md#section-6436).
+
+#### Amendments
+2022—Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-6436"></a>

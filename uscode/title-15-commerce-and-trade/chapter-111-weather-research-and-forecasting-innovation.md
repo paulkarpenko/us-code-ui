@@ -2,7 +2,7 @@
 title: 15
 chapter: '111'
 heading: WEATHER RESEARCH AND FORECASTING INNOVATION
-section_count: 28
+section_count: 29
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15&num=0&edition=prelim
 ---
@@ -54,8 +54,8 @@ Pub. L. 115–25, § 1(a), Apr. 18, 2017, 131 Stat. 91, provided that: “This A
 In conducting research, the Under Secretary shall prioritize improving weather data, modeling, computing, forecasting, and warnings for the protection of life and property and for the enhancement of the national economy.
 
 
-<a id="section-8513"></a>
-## § 8513. Weather research and forecasting innovation
+<a id="section-8512a"></a>
+## § 8512a. Weather research and forecasting innovation
 **(a) Program** The Assistant Administrator for the Office of Oceanic and Atmospheric Research shall conduct a program to develop improved understanding of and forecast capabilities for atmospheric events and their impacts, placing priority on developing more accurate, timely, and effective warnings and forecasts of high impact weather events that endanger life and property.
 
 **(b) Program elements** The program described in subsection (a) shall focus on the following activities:
@@ -88,9 +88,9 @@ In conducting research, the Under Secretary shall prioritize improving weather d
 
   (G) additional sources of weather data and information, including commercial observing systems.
 
-(4) 11 So in original. Two pars. (4) have been enacted. A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
+(4) A technology transfer initiative, carried out jointly and in coordination with the Director of the National Weather Service, and in cooperation with the United States weather industry and academic partners, to ensure continuous development and transition of the latest scientific and technological advances into operations of the National Weather Service and to establish a process to sunset outdated and expensive operational methods and tools to enable cost-effective transfer of new methods and tools into operations.
 
-(4) 1 Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
+(5) Advancing weather modeling skill, reclaiming and maintaining international leadership in the area of numerical weather prediction, and improving the transition of research into operations by—
 
   (A) leveraging the weather enterprise to provide expertise on removing barriers to improving numerical weather prediction;
 
@@ -119,7 +119,128 @@ In conducting research, the Under Secretary shall prioritize improving weather d
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(4), (5). Pub. L. 117–263 redesignated par. (4) relating to advancing weather modeling skill as (5).
+
 2019—Subsec. (b)(4). Pub. L. 115–423 added par. (4) relating to advancing weather modeling skill.
+
+
+<a id="section-8513"></a>
+## § 8513. Learning excellence and good examples from new developers
+**(a) Definitions** In this section:
+
+(1) **Administration** — The term “Administration” means the National Oceanic and Atmospheric Administration.
+
+(2) **Administrator** — The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere and Administrator of the National Oceanic and Atmospheric Administration.
+
+(3) **Earth Prediction Innovation Center** — The term “Earth Prediction Innovation Center” means the community global weather research modeling system described in paragraph (5)(E) of [section 8512(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b&num=0&edition=prelim).
+
+(4) **Model** — The term “model” means any vetted numerical model and associated data assimilation of the Earth’s system or its components—
+
+  (A) developed, in whole or in part, by scientists and engineers employed by the Administration; or
+
+  (B) otherwise developed, in whole or in part, using Federal funds.
+
+(5) **Open license** — The term “open license” has the same meaning given such term in [section 3502(21) of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502/21&num=0&edition=prelim).
+
+(6) **Operational model** — The term “operational model” means any model that has an output used by the Administration for operational functions.
+
+(7) **Suitable model** — The term “suitable model” means a model that meets the requirements described in paragraph (5)(E)(ii) of [section 8512(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section8512/b&num=0&edition=prelim), as determined by the Administrator.
+
+**(b) Purposes** The purposes of this section are—
+
+(1) to support innovation in modeling by allowing interested stakeholders to have easy and complete access to operational model codes and to other models, as the Administrator determines appropriate; and
+
+(2) to use vetted innovations arising from access described in paragraph (1) to improve modeling by the Administration.
+
+**(c) Plan and implementation of plan to make certain models and data available to the public**
+
+(1) **In general** — The Administrator shall develop and implement a plan to make available to the public, at no cost and with no restrictions on copying, publishing, distributing, citing, adapting, or otherwise using under an open license, the following:
+
+  (A) Operational models developed by the Administration.
+
+  (B) Models that are not operational models, including experimental and developmental models, as the Administrator determines appropriate.
+
+  (C) Applicable information and documentation for models described in subparagraphs (A) and (B), including a description of intended model outputs.
+
+  (D) Subject to subsection (f), all data owned by the Federal Government and data that the Administrator has the legal right to redistribute that are associated with models made available to the public pursuant to the plan and used in operational forecasting by the Administration, including—
+
+    (i) relevant metadata; and
+
+    (ii) data used for operational models used by the Administration as of December 23, 2022.
+
+(2) **Accommodations** — In developing and implementing the plan under paragraph (1), the Administrator may make such accommodations as the Administrator considers appropriate to ensure that the public release of any model, information, documentation, or data pursuant to the plan do 11 So in original. Probably should be “does”. not jeopardize—
+
+  (A) national security;
+
+  (B) intellectual property or redistribution rights, including under titles 17 and 35;
+
+  (C) any trade secret or commercial or financial information subject to [section 552(b)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/4&num=0&edition=prelim);
+
+  (D) any models or data that are otherwise restricted by contract or other written agreement; or
+
+  (E) the mission of the Administration to protect lives and property.
+
+(3) **Priority** — In developing and implementing the plan under paragraph (1), the Administrator shall prioritize making available to the public the models described in paragraph (1)(A).
+
+(4) **Protections for privacy and statistical information** — In developing and implementing the plan under subsection (a), the Administrator shall ensure that all requirements incorporated into any models described in paragraph (1)(A) ensure compliance with statistical laws and other relevant data protection requirements, including the protection of any personally identifiable information.
+
+(5) **Exclusion of certain models** — In developing and implementing the plan under paragraph (1), the Administrator may exclude models that the Administrator determines will be retired or superseded in fewer than 5 years after December 23, 2022.
+
+(6) **Platforms** — In carrying out paragraphs (1) and (2), the Administrator may use government servers, contracts or agreements with a private vendor, or any other platform consistent with the purpose of this title.22 See References in Text note below.
+
+(7) **Support program** — The Administrator shall plan for and establish a program to support infrastructure, including telecommunications and technology infrastructure of the Administration and the platforms described in paragraph (6), relevant to making operational models and data available to the public pursuant to the plan under subsection (a).
+
+(8) **Omitted**
+
+**(d) Requirement to review models and leverage innovations** The Administrator shall—
+
+(1) consistent with the mission of the Earth Prediction Innovation Center, periodically review innovations and improvements made by persons not employed by the Administration as Federal employees to the operational models made available to the public pursuant to the plan under subsection (c)(1) in order to improve the accuracy and timeliness of forecasts of the Administration; and
+
+(2) if the Administrator identifies an innovation for a suitable model, develop and implement a plan to use the innovation to improve the model.
+
+**(e) Report on implementation**
+
+(1) **In general** — Not later than 2 years after December 23, 2022, the Administrator shall submit to the appropriate congressional committees a report on the implementation of this section that includes a description of—
+
+  (A) the implementation of the plan required by subsection (c);
+
+  (B) the process of the Administration under subsection (d)—
+
+    (i) for engaging with interested stakeholders to learn what innovations those stakeholders have found;
+
+    (ii) for reviewing those innovations; and
+
+    (iii) for operationalizing innovations to improve suitable models; and
+
+  (C) the use of any Federal financial assistance, including under [section 3719 of this title](./chapter-063-technology-innovation.md#section-3719) 2 or the Crowdsourcing and Citizen Science Act ([15 U.S.C. 3724](./chapter-063-technology-innovation.md#section-3724)), in order to facilitate and incentivize the sharing of externally developed improvements for testing, evaluation, validation, and application to further improve the mission of the Administration, and any other Administration priorities.
+
+(2) **Appropriate congressional committees defined** — In this subsection, the term “appropriate congressional committees” means—
+
+  (A) the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate; and
+
+  (B) the Committee on Science, Space, and Technology and the Committee on Appropriations of the House of Representatives.
+
+**(f) Protection of national security interests**
+
+(1) **In general** — Notwithstanding any other provision of this section, for models developed in whole or in part with the Department of Defense, the Administrator, in consultation with the Secretary of Defense, as appropriate, shall withhold any model or data if the Administrator or the Secretary of Defense determines doing so to be necessary to protect the national security interests of the United States.
+
+(2) **Rule of construction** — Nothing in this section shall be construed to supersede any other provision of law governing the protection of the national security interests of the United States.
+
+**(g) Authorization of appropriations** There is authorized to be appropriated to carry out this section $2,000,000 for each of fiscal years 2023 through 2027.
+
+### Statutory Notes
+
+#### References in Text
+This title, referred to in subsec. (c)(6), means title CVI of div. J of Pub. L. 117–263, which enacted this section and amended [section 8512 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8512).
+
+[Section 3719 of this title](./chapter-063-technology-innovation.md#section-3719), referred to in subsec. (e)(1)(C), was in the original “section 24 of the Stevenson-Wydler Technology Innovation Act of 1990” and was translated as reading “section 24 of the Stevenson-Wydler Technology Innovation Act of 1980”, to reflect the probable intent of Congress.
+
+The Crowdsourcing and Citizen Science Act, referred to in subsec. (e)(1)(C), is section 402 of title IV of Pub. L. 114–329, Jan. 6, 2017, 130 Stat. 3019, which is classified to [section 3724 of this title](./chapter-063-technology-innovation.md#section-3724).
+
+#### Codification
+Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
+
+Section is comprised of section 10601 of div. J of Pub. L. 117–263. Subsec. (c)(8) of section 10601 of div. J of Pub. L. 117–263 amended [section 8512 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8512).
 
 
 <a id="section-8514"></a>
@@ -128,9 +249,16 @@ In conducting research, the Under Secretary shall prioritize improving weather d
 
 **(b) Goal** The goal of such program shall be to reduce the loss of life and economic losses from tornadoes through the development and extension of accurate, effective, and timely tornado forecasts, predictions, and warnings, including the prediction of tornadoes beyond 1 hour in advance.
 
-**(c) Program plan** Not later than 180 days after April 18, 2017, the Assistant Administrator for Oceanic and Atmospheric Research, in coordination with the Director of the National Weather Service, shall develop a program plan that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the program goal.
+**(c) Innovative observations** The Under Secretary shall ensure that the program periodically examines the value of incorporating innovative observations, such as acoustic or infrasonic measurements, observations from phased array radars, and observations from mesonets, with respect to the improvement of tornado forecasts, predictions, and warnings.
 
-**(d) Annual budget for plan submittal** Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service, shall, not less frequently than once each year, submit to Congress a proposed budget corresponding with the activities identified in the plan.
+**(d) Program plan** Not later than 180 days after April 18, 2017, the Assistant Administrator for Oceanic and Atmospheric Research, in coordination with the Director of the National Weather Service, shall develop a program plan that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the program goal.
+
+**(e) Annual budget for plan submittal** Following completion of the plan, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in coordination with the Director of the National Weather Service, shall, not less frequently than once each year, submit to Congress a proposed budget corresponding with the activities identified in the plan.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsecs. (c) to (e). Pub. L. 117–316 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 
 <a id="section-8515"></a>
@@ -141,11 +269,18 @@ In conducting research, the Under Secretary shall prioritize improving weather d
 
 (1) improving the prediction of rapid intensification and track of hurricanes;
 
-(2) improving the forecast and communication of storm surges from hurricanes; and
+(2) improving the forecast and communication of storm surges from hurricanes;
 
-(3) incorporating risk communication research to create more effective watch and warning products.
+(3) incorporating risk communication research to create more effective watch and warning products; and
+
+(4) evaluating and incorporating, as appropriate, innovative observations, including acoustic or infrasonic measurements.
 
 **(c) Project plan** Not later than 1 year after April 18, 2017, the Under Secretary, acting through the Assistant Administrator for Oceanic and Atmospheric Research and in consultation with the Director of the National Weather Service, shall develop a plan for the project maintained under subsection (a) that details the specific research, development, and technology transfer activities, as well as corresponding resources and timelines, necessary to achieve the goal set forth in subsection (b).
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–316 added par. (4).
 
 
 <a id="section-8516"></a>
@@ -155,11 +290,16 @@ Not later than 1 year after April 18, 2017, and not less frequently than once ea
 
 (1) describes the forecasting skill and technology goals, objectives, and progress of the National Oceanic and Atmospheric Administration in carrying out the program conducted under [section 8512 of this title](./chapter-111-weather-research-and-forecasting-innovation.md#section-8512);
 
-(2) identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather mission of the National Weather Service to achieve a weather-ready Nation;
+(2) identifies and prioritizes specific research and development activities, and performance metrics, weighted to meet the operational weather and flood-event mission of the National Weather Service to achieve a weather-ready Nation;
 
 (3) describes how the program will collaborate with stakeholders, including the United States weather industry and academic partners; and
 
 (4) identifies, through consultation with the National Science Foundation, the United States weather industry, and academic partners, research necessary to enhance the integration of social science knowledge into weather forecast and warning processes, including to improve the communication of threat information necessary to enable improved severe weather planning and decisionmaking on the part of individuals and communities.
+
+### Statutory Notes
+
+#### Amendments
+2022—Par. (2). Pub. L. 117–316 inserted “and flood-event” after “operational weather”.
 
 
 <a id="section-8517"></a>
@@ -433,7 +573,7 @@ Subsec. (c). Pub. L. 115–25, § 109(3), added subsec. (c). See Codification no
 
 **(f) Forecast communication coordinators**
 
-(1) **In general** — The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This may include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
+(1) **In general** — The Under Secretary shall foster effective communication, understanding, and use of the forecasts by the intended users of the information described in subsection (d). This shall include assistance to States for forecast communication coordinators to enable local interpretation and planning based on the information.
 
 (2) **Requirements** — For each State that requests assistance under this subsection, the Under Secretary may—
 
@@ -499,6 +639,8 @@ Section was formerly set out as a note under [section 313 of this title](./chapt
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (f)(1). Pub. L. 117–316 substituted “shall include” for “may include”.
+
 2019—Subsec. (j). Pub. L. 115–423, § 3(a)(1), amended subsec. (j) generally. Prior to amendment, text read as follows: “For each of fiscal years 2017 and 2018, there are authorized out of funds appropriated to the National Weather Service, $26,500,000 to carry out the activities of this section.”
 
 Subsec. (k). Pub. L. 115–423, § 3(a)(2), added subsec. (k).
@@ -980,7 +1122,7 @@ The General Schedule, referred to in subsec. (b), is set out under [section 5332
 ### Statutory Notes
 
 #### Codification
-This section was enacted as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Weather Research and Forecasting Innovation Act of 2017, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
+This section was enacted as part of the National Integrated Drought Information System Reauthorization Act of 2018, and not as part of the Weather Research and Forecasting Innovation Act of 2017 which comprises this chapter.
 
 
 <a id="section-8562"></a>

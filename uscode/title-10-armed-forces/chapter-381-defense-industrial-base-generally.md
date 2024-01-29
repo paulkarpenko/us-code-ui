@@ -11,7 +11,7 @@ source: >-
 
 In this subpart:
 
-(1) The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, and Canada.
+(1) The term “national technology and industrial base” means the persons and organizations that are engaged in research, development, production, integration, services, or information technology activities conducted within the United States, the United Kingdom of Great Britain and Northern Ireland, Australia, New Zealand, and Canada.
 
 (2) The term “dual-use” with respect to products, services, standards, processes, or acquisition practices, means products, services, standards, processes, or acquisition practices, respectively, that are capable of meeting requirements for military and nonmilitary applications.
 
@@ -83,6 +83,8 @@ A prior section 4805, act Aug. 10, 1956, ch. 1041, 70A Stat. 271, related to rep
 A prior section 4806 was renumbered [section 7806 of this title](./chapter-781-military-claims.md#section-7806).
 
 #### Amendments
+2022—Par. (1). Pub. L. 117–263 inserted “New Zealand,” after “Australia,”.
+
 2021—Pub. L. 116–283, § 1866(c)(1), as amended by Pub. L. 117–81, § 1701(b)(21)(A)(i), substituted “In this subpart” for “In this chapter” in introductory provisions.
 
 Pub. L. 116–283, § 1866(c), renumbered [section 2500 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2500) as this section.

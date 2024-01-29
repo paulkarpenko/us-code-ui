@@ -364,7 +364,7 @@ The Native American Graves Protection and Repatriation Act, referred to in subse
 
 The Archaeological Resources Protection Act of 1979, referred to in subsecs. (a)(3)(C)(ii) and (b)(4)(C)(ii)(II), is Pub. L. 96–95, Oct. 31, 1979, 93 Stat. 721, which is classified generally to chapter 1B (§ 470aa et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 470aa of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section470aa&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in subsec. (b)(1)(B)(III)(bb), (5)(A)(ii)(II), (8)(B), was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3071 of this title](./chapter-32b-safeguard-tribal-objects-of-patrimony.md#section-3071) and Tables.
+This chapter, referred to in subsec. (b)(1)(B)(i)(III)(bb), (5)(A)(ii)(II), (8)(B), was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3071 of this title](./chapter-32b-safeguard-tribal-objects-of-patrimony.md#section-3071) and Tables.
 
 
 <a id="section-3074"></a>
@@ -435,7 +435,7 @@ The Archaeological Resources Protection Act of 1979, referred to in subsec. (b)(
 
 This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 117–258, Dec. 21, 2022, 136 Stat. 2372, known as the Safeguard Tribal Objects of Patrimony Act of 2021, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 3071 of this title](./chapter-32b-safeguard-tribal-objects-of-patrimony.md#section-3071) and Tables.
 
-An amendment made by this Act, referred to in subsec. (c)(1), means the amendment made by Pub. L. 117–258, which amended [section 1170 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1170&num=0&edition=prelim), Crimes and Criminal Procedure.
+The amendments made by this Act, referred to in subsec. (c)(1), means the amendment made by Pub. L. 117–258, which amended [section 1170 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1170&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 
 <a id="section-3076"></a>
@@ -474,12 +474,12 @@ An amendment made by this Act, referred to in subsec. (c)(1), means the amendmen
 
   (G) Any other relevant Federal agency, committee, or working group.
 
-**(e) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Native working group convened under subsection (a).
+**(e) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Native working group convened under subsection (a).
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-3077"></a>

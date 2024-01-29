@@ -674,6 +674,9 @@ Pars. (25) to (29). Pub. L. 102–10, § 3(2), redesignated pars. (24) to (28) a
 
 Par. (30). Pub. L. 102–10, § 3(2), (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.
 
@@ -1643,9 +1646,13 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 Section effective Oct. 1, 1993, see section 123 of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim), Conservation.
 
 #### Overall Minimum Share Requirement
-Pub. L. 117–103, div. H, title IV, § 402, Mar. 15, 2022, 136 Stat. 488, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
+Pub. L. 118–47, div. D, title IV, § 402, Mar. 23, 2024, 138 Stat. 695, provided that: “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) [[42 U.S.C. 12571(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12571/e&num=0&edition=prelim)] or the member support Federal share limitations in section 140 of the 1990 Act [National and Community Service Act of 1990, [42 U.S.C. 12594](./chapter-129-national-and-community-service.md#section-12594)], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. H, title IV, § 402, Dec. 29, 2022, 136 Stat. 4900.
+
+Pub. L. 117–103, div. H, title IV, § 402, Mar. 15, 2022, 136 Stat. 488.
 
 Pub. L. 116–260, div. H, title IV, § 402, Dec. 27, 2020, 134 Stat. 1614.
 
@@ -4354,12 +4361,9 @@ Amendment by section 402(b)(2) of Pub. L. 103–82 effective Oct. 1, 1993, see s
 
 (14) The Chief Executive Officer.
 
-**(c) Inapplicability of termination requirement** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Advisory Board.
+**(c) Inapplicability of termination requirement** [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Advisory Board.
 
 ### Statutory Notes
-
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was formerly classified to section 12653l of this title prior to renumbering by Pub. L. 103–82.
@@ -4370,6 +4374,8 @@ A prior section 12623, Pub. L. 101–610, title I, § 167, Nov. 16, 1990, 104 St
 A prior section 163 of Pub. L. 101–610 was classified to [section 12614 of this title](./chapter-129-national-and-community-service.md#section-12614) prior to repeal by Pub. L. 103–82.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2009—Subsec. (a). Pub. L. 111–13, § 1513(1), substituted “There shall be” for “Upon the establishment of the Program, there shall also be”, inserted “National” before “Civilian Community Corps Advisory Board”, and substituted “to assist the Corps in responding rapidly and efficiently in times of natural and other disasters. The Advisory Board members shall help coordinate activities with the Corps as appropriate, including the mobilization of volunteers and coordination of volunteer centers to help local communities recover from the effects of natural and other disasters.” for “to assist in the development and administration of the Corps.”
 
 Subsec. (b)(8) to (12). Pub. L. 111–13, § 1513(2)(B), added pars. (8) to (12). Former pars. (8) and (9) redesignated (13) and (14), respectively.
@@ -5567,16 +5573,16 @@ Amendment by Pub. L. 103–82 effective Oct. 1, 1993, see section 123 of Pub. L.
 
   (A) such assistance; and
 
-  (B) the duties of the Inspector General under the Inspector General Act of 1978 (5 U.S.C. App.).
+  (B) the duties of the Inspector General under chapter 4 of title 5.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in subsecs. (a)(1) and (b)(1), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (c)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (c)(2)(B). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
+
 2009—Subsec. (a). Pub. L. 111–13, § 1611(1), substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory,” after “local government,” in par. (1).
 
 Subsec. (b). Pub. L. 111–13, § 1611(2), substituted “Consistent with otherwise applicable law, the” for “The” in introductory provisions and inserted “territory” after “local government,” in par. (1).
@@ -5855,7 +5861,7 @@ Pub. L. 111–13, title I, § 1710, Apr. 21, 2009, 123 Stat. 1549, provided that
 Pub. L. 103–82, title II, § 202(d), Sept. 21, 1993, 107 Stat. 888, provided that: “The individuals who, on the day before the date of enactment of this Act [Sept. 21, 1993], are performing any of the functions required by section 190 of the National and Community Service Act of 1990 ([42 U.S.C. 12651](./chapter-129-national-and-community-service.md#section-12651)), as in effect on such date, to be performed by the members of the Board of Directors of the Commission on National and Community Service may, subject to section 193A of the National and Community Service Act of 1990 [[42 U.S.C. 12651d](./chapter-129-national-and-community-service.md#section-12651d)], as added by subsection (a) of this section, continue to perform such functions until the date on which the Board of Directors of the Corporation for National and Community Service conducts the first meeting of the Board. The service of such individuals as members of the Board of Directors of such Commission, and the employment of such individuals as special Government employees, shall terminate on such date.”
 
 #### Business Plan for Corporation for National and Community Service
-Pub. L. 103–82, title II, § 204, Sept. 21, 1993, 107 Stat. 895, provided that: “(a) Business Plan Required.—“(1) In general.—The Corporation for National and Community Service (referred to in this section as the ‘Corporation’) shall prepare and submit to Congress a business plan. The Corporation may not provide assistance under section 121 of the National and Community Service Act of 1990 [[42 U.S.C. 12571](./chapter-129-national-and-community-service.md#section-12571)] before the twentieth day of continuous session of Congress after the date on which the Corporation submits the business plan to Congress. “(2) Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1), continuity of a session of the Congress shall be considered to be broken only by—“(A) an adjournment of the Congress sine die; and “(B) the days on which either House is not in session because of an adjournment of more than 3 days to a date certain. “(b) Required Elements of Business Plan.—“(1) Allocation of funds.—The business plan shall contain—“(A) a description of the manner in which the Corporation will allocate funds for programs carried out by the Corporation after October 1, 1993; “(B) information on the principal offices and officers of the Corporation that will allocate such funds; and “(C) information that indicates how accountability for such funds can be determined, in terms of the office or officer responsible for such funds. “(2) Investigative and audit functions.—The business plan shall include a description of the plans of the Corporation—“(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period, consistent with the Inspector General Act of 1978 (5 U.S.C. App.); and “(B) to carry out investigative and audit functions and implement financial management controls regarding programs carried out by the Corporation after October 1, 1993, consistent with the Inspector General Act of 1978, including a specific description of—“(i) the manner in which the Office of Inspector General shall be established in the Corporation, in accordance with section 194(b) of the National Community Service Act of 1990 [[42 U.S.C. 12651e(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651e/b&num=0&edition=prelim)], as added by section 202 of this Act; and “(ii) the manner in which grants made by the Corporation shall be audited by such Office and the financial management controls that shall apply with regard to such grants and programs. “(3) Accountability measures.—The business plan shall include a detailed description of the accountability measures to be established by the Corporation to ensure effective control of all funds for programs carried out by the Corporation after October 1, 1993. “(4) Information resources.—The business plan shall include a description of an information resource management program that will support the program and financial management needs of the Corporation. “(5) Corporation staffing and integration of action.—“(A) Transfers.—The business plan shall include a report on the progress and plans of the President for transferring the functions, programs, and related personnel of ACTION to the Corporation, and shall include a timetable for the transfer. “(B) Details and assignments.—The report shall specify the number of ACTION employees detailed or assigned to the Corporation, and describe the hiring activity of the Corporation, during the transition period. “(C) Structure.—The business plan shall include a description of the organizational structure of the Corporation during the transition period. “(D) Staffing.—The business plan shall include a description of—“(i) measures to ensure adequate staffing during the transition period with respect to programs carried out by the Corporation after October 1, 1993; and “(ii) the responsibilities and authorities of the Managing Directors and other key personnel of the Corporation. “(E) Senior executive service.—The business plan shall include—“(i) an explanation of the number of the employees of the Corporation who will be paid at or above the rate of pay for level 1 of the Senior Executive Service Schedule under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), United States Code; and “(ii) information justifying such pay for such employees. “(6) Duplication of functions.—The business plan shall include a description of the measures that the Corporation is taking or will take to minimize duplication of functions in the Corporation caused by the transfer of the functions of the Commission on National and Community Service, and the transfer of the functions of ACTION, to the Corporation. This description shall address functions at both the national and State levels. “(c) Definition.—The term ‘transition period’ means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) [see Effective Date of 1993 Amendment note above].”
+Pub. L. 103–82, title II, § 204, Sept. 21, 1993, 107 Stat. 895, as amended by Pub. L. 117–286, § 4(b)(84), Dec. 27, 2022, 136 Stat. 4352, provided that: “(a) Business Plan Required.—“(1) In general.—The Corporation for National and Community Service (referred to in this section as the ‘Corporation’) shall prepare and submit to Congress a business plan. The Corporation may not provide assistance under section 121 of the National and Community Service Act of 1990 [[42 U.S.C. 12571](./chapter-129-national-and-community-service.md#section-12571)] before the twentieth day of continuous session of Congress after the date on which the Corporation submits the business plan to Congress. “(2) Computation.—For purposes of the computation of the 20-day period referred to in paragraph (1), continuity of a session of the Congress shall be considered to be broken only by—“(A) an adjournment of the Congress sine die; and “(B) the days on which either House is not in session because of an adjournment of more than 3 days to a date certain. “(b) Required Elements of Business Plan.—“(1) Allocation of funds.—The business plan shall contain—“(A) a description of the manner in which the Corporation will allocate funds for programs carried out by the Corporation after October 1, 1993; “(B) information on the principal offices and officers of the Corporation that will allocate such funds; and “(C) information that indicates how accountability for such funds can be determined, in terms of the office or officer responsible for such funds. “(2) Investigative and audit functions.—The business plan shall include a description of the plans of the Corporation—“(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period, consistent with chapter 4 of title 5, United States Code; and “(B) to carry out investigative and audit functions and implement financial management controls regarding programs carried out by the Corporation after October 1, 1993, consistent with chapter 4 of title 5, United States Code, including a specific description of—“(i) the manner in which the Office of Inspector General shall be established in the Corporation, in accordance with section 194(b) of the National Community Service Act of 1990 [[42 U.S.C. 12651e(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651e/b&num=0&edition=prelim)], as added by section 202 of this Act; and “(ii) the manner in which grants made by the Corporation shall be audited by such Office and the financial management controls that shall apply with regard to such grants and programs. “(3) Accountability measures.—The business plan shall include a detailed description of the accountability measures to be established by the Corporation to ensure effective control of all funds for programs carried out by the Corporation after October 1, 1993. “(4) Information resources.—The business plan shall include a description of an information resource management program that will support the program and financial management needs of the Corporation. “(5) Corporation staffing and integration of action.—“(A) Transfers.—The business plan shall include a report on the progress and plans of the President for transferring the functions, programs, and related personnel of ACTION to the Corporation, and shall include a timetable for the transfer. “(B) Details and assignments.—The report shall specify the number of ACTION employees detailed or assigned to the Corporation, and describe the hiring activity of the Corporation, during the transition period. “(C) Structure.—The business plan shall include a description of the organizational structure of the Corporation during the transition period. “(D) Staffing.—The business plan shall include a description of—“(i) measures to ensure adequate staffing during the transition period with respect to programs carried out by the Corporation after October 1, 1993; and “(ii) the responsibilities and authorities of the Managing Directors and other key personnel of the Corporation. “(E) Senior executive service.—The business plan shall include—“(i) an explanation of the number of the employees of the Corporation who will be paid at or above the rate of pay for level 1 of the Senior Executive Service Schedule under [section 5382 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5382&num=0&edition=prelim), United States Code; and “(ii) information justifying such pay for such employees. “(6) Duplication of functions.—The business plan shall include a description of the measures that the Corporation is taking or will take to minimize duplication of functions in the Corporation caused by the transfer of the functions of the Commission on National and Community Service, and the transfer of the functions of ACTION, to the Corporation. This description shall address functions at both the national and State levels. “(c) Definition.—The term ‘transition period’ means the period beginning on October 1, 1993 and ending on the day before the effective date of section 203(c)(2) [see Effective Date of 1993 Amendment note above].”
 
 #### Proc. No. 6662. Transfer of Functions of ACTION Agency to Corporation for National and Community Service
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
@@ -5938,7 +5944,7 @@ Sec. 3. Administration. (a) Each Federal agency, to the extent permitted by law 
 
 (e) The Council, with the approval of the Chief Executive Officer of the CNCS, may establish subcommittees of the Council, consisting exclusively of members of the Council, as appropriate to aid the Council in carrying out its mission under this order.
 
-Sec. 4. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
+Sec. 4. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
 
 (b) Unless further extended by the President, this order shall expire on June 30, 2009.
 
@@ -6052,7 +6058,7 @@ Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set
 
   (C) review the performance of the Chief Executive Officer annually and forward a report on that review to the President;
 
-(6) receive any report as provided under subsection (b), (c), or (d) of section 8E 11 See References in Text note below. of the Inspector General Act of 1978;
+(6) receive any report as provided under subsection (b), (c), or (d) of [section 414 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section414&num=0&edition=prelim);
 
 (7) make recommendations relating to a program of research for the Corporation with respect to national and community service programs, including service-learning programs;
 
@@ -6072,7 +6078,7 @@ Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set
 
 (11) prepare and make recommendations to the authorizing committees and the President for changes in the national service laws resulting from the studies and demonstrations the Chief Executive Officer is required to carry out under [section 12651d(b)(11) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651d/b/11&num=0&edition=prelim), which recommendations shall be submitted to the authorizing committees and President not later than January 1, 2012.
 
-**(h) Administration** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Board.
+**(h) Administration** Chapter 10 of title 5 shall not apply with respect to the Board.
 
 **(i) Limitation on participation** All employees and officers of the Corporation shall recuse themselves from decisions that would constitute conflicts of interest.
 
@@ -6081,13 +6087,13 @@ Section effective Sept. 21, 1993, see section 202(i)(2) of Pub. L. 103–82, set
 ### Statutory Notes
 
 #### References in Text
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (g)(6), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, § 202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (g)(10)(A), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
-
 #### Amendments
+2022—Subsec. (g)(6). Pub. L. 117–286, § 4(b)(85), substituted “[section 414 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section414&num=0&edition=prelim);” for “section 8E of the Inspector General Act of 1978;”.
+
+Subsec. (h). Pub. L. 117–286, § 4(a)(275), substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2009—Subsec. (g). Pub. L. 111–13, § 1702(1), substituted “shall have responsibility for setting overall policy for the Corporation and shall—” for “shall—” in introductory provisions.
 
 Subsec. (g)(1). Pub. L. 111–13, § 1702(2), inserted “, and review the budget proposal in advance of submission to the Office of Management and Budget” before semicolon at end.
@@ -6150,7 +6156,7 @@ Pub. L. 111–13, title VI, § 6101(b), Apr. 21, 2009, 123 Stat. 1600, provided 
 
 <a id="section-12651e"></a>
 ## § 12651e. Authorities and duties of the Chief Executive Officer
-**(a) General powers and duties** The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that are not reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in section 8E 11 See References in Text note below. of the Inspector General Act of 1978.
+**(a) General powers and duties** The Chief Executive Officer shall be responsible for the exercise of the powers and the discharge of the duties of the Corporation that are not reserved to the Board, and shall have authority and control over all personnel of the Corporation, except as provided in [section 414 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section414&num=0&edition=prelim).
 
 **(b) Duties** In addition to the duties conferred on the Chief Executive Officer under any other provision of the national service laws, the Chief Executive Officer, in collaboration with the State Commissions, shall—
 
@@ -6357,8 +6363,6 @@ Pub. L. 111–13, title VI, § 6101(b), Apr. 21, 2009, 123 Stat. 1600, provided 
 ### Statutory Notes
 
 #### References in Text
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, § 202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Public Law 91–378, referred to in subsec. (b)(11)(A), is Pub. L. 91–378, Aug. 13, 1970, 84 Stat. 794, popularly known as the Youth Conservation Corps Act of 1970, which is classified generally to chapter 37 (§ 1701 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1701&num=0&edition=prelim) and Tables.
 
 This chapter, referred to in subsecs. (b)(11)(A)(i), (B), (c)(7), and (e)(4), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 12501 of this title](./chapter-129-national-and-community-service.md#section-12501) and Tables.
@@ -6376,6 +6380,8 @@ For the effective date of the Serve America Act, referred to in subsec. (f)(2)(B
 For the effective date of this subsection, referred to in subsec. (g)(3), see Effective Date of 1993 Amendment note below.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “[section 414 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section414&num=0&edition=prelim).” for “section 8E of the Inspector General Act of 1978.”
+
 2009—Subsec. (b). Pub. L. 111–13, § 1704(1)(A), substituted “, in collaboration with the State Commissions, shall” for “shall” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 111–13, § 1704(1)(B), inserted “, including a plan for having 50 percent of all approved national service positions be full-time positions by 2012,” after “a strategic plan”.
@@ -6433,7 +6439,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 (1) **Office** — There shall be in the Corporation an Office of the Inspector General.
 
-(2) **Appointment** — The Office shall be headed by an Inspector General, appointed in accordance with the Inspector General Act of 1978 [5 U.S.C. App.].
+(2) **Appointment** — The Office shall be headed by an Inspector General, appointed in accordance with chapter 4 of title 5.
 
 **(c) Chief Financial Officer**
 
@@ -6468,13 +6474,13 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 ### Statutory Notes
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsec. (b)(2), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (d)(1), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394. Title I of the Act is classified generally to subchapter I (§ 4951 et seq.) of chapter 66 of this title. Part A of title I of the Act is classified generally to part A (§ 4951 et seq.) of subchapter I of chapter 66 of this title. Part B of title I of the Act, which was classified generally to part B (§ 4971 et seq.) of subchapter I of chapter 66 of this title, was repealed by Pub. L. 111–13, title II, § 2121, Apr. 21, 2009, 123 Stat. 1584. Parts A, B, and C of title II of the Act are classified generally to parts A (§ 5001 et seq.), B (§ 5011 et seq.), and C (§ 5013 et seq.), respectively, of subchapter II of chapter 66 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
 
 Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (d)(2), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under [section 12651 of this title](./chapter-129-national-and-community-service.md#section-12651). For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 12651 of this title](./chapter-129-national-and-community-service.md#section-12651).
 
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
+
 2012—Subsec. (a)(1). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” after “President”.
 
 2009—Subsec. (c). Pub. L. 111–13 added par. (1), redesignated par. (3) as (2), and struck out former pars. (1) and (2) which read as follows:
@@ -6497,7 +6503,7 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 
 <a id="section-12651g"></a>
 ## § 12651g. Employees, consultants, and other personnel
-**(a) Employees** Except as provided in subsection (b), [section 12651e(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651e/d&num=0&edition=prelim), and section 8E 11 See References in Text note below. of the Inspector General Act of 1978, the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
+**(a) Employees** Except as provided in subsection (b), [section 12651e(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12651e/d&num=0&edition=prelim), and [section 414 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section414&num=0&edition=prelim), the Chief Executive Officer shall, in accordance with applicable provisions of title 5, appoint and determine the compensation of such employees as the Chief Executive Officer determines to be necessary to carry out the duties of the Corporation.
 
 **(b) Alternative personnel system**
 
@@ -6562,8 +6568,6 @@ Section effective Oct. 1, 1993, see section 202(i) of Pub. L. 103–82, set out 
 ### Statutory Notes
 
 #### References in Text
-Section 8E of the Inspector General Act of 1978, referred to in subsec. (a), is section 8E of Pub. L. 95–452, as added by Pub. L. 103–82, title II, § 202(g)(1), Sept. 21, 1993, 107 Stat. 889, which was renumbered section 8F of the Act by Pub. L. 103–204, § 23(a)(3), Dec. 17, 1993, 107 Stat. 2408, and is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Section 203(c)(2) of the National and Community Service Trust Act of 1993, referred to in subsec. (c)(2)(C), is section 203(c)(2) of Pub. L. 103–82, which is set out as a note under [section 12651 of this title](./chapter-129-national-and-community-service.md#section-12651). For the effective date of section 203(c)(2) of this Act, see section 203(d) of Pub. L. 103–82, set out as an Effective Date of 1993 Amendment note under [section 12651 of this title](./chapter-129-national-and-community-service.md#section-12651).
 
 The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified generally to chapter 66 (§ 4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950) and Tables.
@@ -6572,6 +6576,8 @@ The Domestic Volunteer Service Act of 1973, referred to in subsec. (c)(2)(C), is
 A prior section 195 of Pub. L. 101–610 was renumbered section 151 by Pub. L. 103–82 and is classified to [section 12611 of this title](./chapter-129-national-and-community-service.md#section-12611).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “[section 414 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section414&num=0&edition=prelim),” for “section 8E of the Inspector General Act of 1978,”.
+
 2009—Subsec. (c)(2)(B). Pub. L. 111–13, § 1706(1)(A), inserted “territory,” after “subdivision of a State,”.
 
 Subsec. (c)(3). Pub. L. 111–13, § 1706(1)(B), substituted “Nonvoting member” for “Member” in heading and inserted “nonvoting” before “member” in text.

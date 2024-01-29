@@ -366,7 +366,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
   (C) that individual is not subject to sections 203 and 205 of title 18, with respect to official acts performed as an agent or attorney for or otherwise representing the Panama Canal Authority; and
 
-  (D) that individual is not subject to sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978 (5 U.S.C. App.), with respect to compensation received for, and service in, the position of Administrator of the Panama Canal Authority; and
+  (D) that individual is not subject to sections 13143(a) and 13144(a)(4) of title 5, with respect to compensation received for, and service in, the position of Administrator of the Panama Canal Authority; and
 
 (2) effective upon termination of the individual’s appointment as Administrator of the Panama Canal Commission at noon on the Canal Transfer Date, that individual is not subject to [section 207 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207&num=0&edition=prelim), with respect to acts done in carrying out official duties as Administrator of the Panama Canal Authority.
 
@@ -377,9 +377,9 @@ Level III of the Executive Schedule, referred to in subsec. (b), is set out in [
 
 The Foreign Agents Registration Act of 1938, referred to in subsec. (d)(1)(A), is act June 8, 1938, ch. 327, 52 Stat. 631, which is classified generally to subchapter II (§ 611 et seq.) of chapter 11 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 611 of this title](./chapter-011-foreign-agents-and-propaganda.md#section-611) and Tables.
 
-Sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978, referred to in subsec. (d)(1)(D), are sections 501(a) and 502(a)(4) of Pub. L. 95–521, which are set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (d)(1)(D). Pub. L. 117–286 substituted “sections 13143(a) and 13144(a)(4) of title 5,” for “sections 501(a) and 502(a)(4) of the Ethics in Government Act of 1978 (5 U.S.C. App.),”.
+
 1997—Subsecs. (c), (d). Pub. L. 105–85 added subsecs. (c) and (d).
 
 1996—Pub. L. 104–201 amended section generally. Prior to amendment, section read as follows: “There shall be an Administrator of the Commission, who shall be appointed by the President, by and with the advice and consent of the Senate, and shall hold office at the pleasure of the President.”
@@ -512,7 +512,7 @@ Functions vested in President by this section delegated to Secretary of State wh
 
 (4) section 1343, 1344, and 1349(b) of title 31;
 
-(5) the Ethics in Government Act of 1978 (92 Stat. 1824), as amended; and
+(5) chapter 131 of title 5; and
 
 (6) those provisions of the laws and regulations of the Republic of Panama which are substantially equivalent to those of the United States set forth in this subsection.
 
@@ -542,13 +542,12 @@ Functions vested in President by this section delegated to Secretary of State wh
 
 ### Statutory Notes
 
-#### References in Text
-The Ethics in Government Act of 1978 (92 Stat. 1824), as amended, referred to in subsec. (b)(5), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
 #### Codification
 In subsec. (b)(4), “sections 1343, 1344, and 1349(b) of title 31” substituted for “section 5 of the Act of July 16, 1914 ([31 U.S.C. 638a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section638a&num=0&edition=prelim)), as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+2022—Subsec. (b)(5). Pub. L. 117–286 substituted “chapter 131 of title 5;” for “the Ethics in Government Act of 1978 (92 Stat. 1824), as amended;”.
+
 1997—Subsec. (b). Pub. L. 105–85, § 3550(d)(2)(A), substituted “October 1, 1979” for “the effective date of this Act”.
 
 Subsecs. (e), (f). Pub. L. 105–85, § 3522, added subsecs. (e) and (f).
@@ -595,7 +594,7 @@ As used in this part—
 ### Statutory Notes
 
 #### Employment of Commission Employees by Government of Panama
-Pub. L. 103–160, div. C, title XXXV, § 3504, Nov. 30, 1993, 107 Stat. 1965, provided that: “(a) Consent of Congress.—Subject to subsection (b), the Congress consents to employees of the Panama Canal Commission who are not citizens of the United States accepting civil employment with agencies and organizations affiliated with the Government of Panama (and compensation for that employment) for which the consent of Congress is required by the 8th clause of section 9 of article I of the Constitution of the United States, relating to acceptance of emolument, office, or title from a foreign State. “(b) Condition.—Employees described in subsection (a) may accept employment described in such subsection (and compensation for that employment) only if the employment is approved by the designated agency ethics official of the Panama Canal Commission designated pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App.), and by the Administrator of the Panama Canal Commission.”
+Pub. L. 103–160, div. C, title XXXV, § 3504, Nov. 30, 1993, 107 Stat. 1965, as amended by Pub. L. 117–286, § 4(c)(32), Dec. 27, 2022, 136 Stat. 4358, provided that: “(a) Consent of Congress.—Subject to subsection (b), the Congress consents to employees of the Panama Canal Commission who are not citizens of the United States accepting civil employment with agencies and organizations affiliated with the Government of Panama (and compensation for that employment) for which the consent of Congress is required by the 8th clause of section 9 of article I of the Constitution of the United States, relating to acceptance of emolument, office, or title from a foreign State. “(b) Condition.—Employees described in subsection (a) may accept employment described in such subsection (and compensation for that employment) only if the employment is approved by the designated agency ethics official of the Panama Canal Commission designated pursuant to chapter 131 of title 5, United States Code, and by the Administrator of the Panama Canal Commission.”
 
 
 <a id="section-3644"></a>

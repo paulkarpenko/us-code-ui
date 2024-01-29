@@ -57,7 +57,7 @@ Pub. L. 94–413, § 1, Sept. 17, 1976, 90 Stat. 1260, provided: “That this Ac
 
 As used in this chapter, the term—
 
-(1) Omitted
+(1) Omitted.
 
 (2) “advanced electric or hybrid vehicle” means a vehicle which—
 
@@ -77,7 +77,7 @@ As used in this chapter, the term—
 
 (6) “project” means the Electric and Hybrid Vehicle Research, Development, and Demonstration Project established under [section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2503/a&num=0&edition=prelim);
 
-(7) Omitted
+(7) Omitted.
 
 (8) “small business concern” shall have the meaning prescribed by the Secretary of Energy after consultation with the Small Business Administration.
 

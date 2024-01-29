@@ -388,9 +388,11 @@ The Middle Class Tax Relief and Job Creation Act of 2012, referred to in text, i
 <a id="section-1513"></a>
 ## § 1513. No additional funds authorized
 
-No additional funds are authorized to be appropriated to carry out this chapter. This chapter shall be carried out using amounts otherwise authorized.
+No additional funds are authorized to be appropriated to carry out this chapter, or the amendments made by this title.11 See References in Text note below. This chapter, and the amendments made by this title,1 shall be carried out using amounts otherwise authorized.
 
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title VI of div. P of Pub. L. 115–141, Mar. 23, 2018, 132 Stat. 1097, which is classified principally to this chapter. For complete classification of title VI to the Code, see Short Title note set out under [section 1501 of this title](./chapter-014-making-opportunities-for-broadband-investment-and-limiting-excessive-and-needless-obstacles-to-wireless.md#section-1501) and Tables.
+
+This title, referred to in text, means title VI of div. P of Pub. L. 115–141. See note above.

@@ -89,7 +89,7 @@ Entries existing on February 7, 1925, and allowed prior to April 1, 1924, under 
 ### Statutory Notes
 
 #### References in Text
-The Stock Raising Homestead Act of December 29, 1916, referred to in text, is act Dec. 29, 1916, ch. 9, 39 Stat. 862, as amended, which was classified generally to subchapter X (§ 291 et seq.) of chapter 7 of this title and was repealed by Pub. L. 94–579, title VII, §§ 702, 704(a), Oct. 21, 1976, 90 Stat. 2787, 2792, except for sections 9 and 11 which are classified to sections 299 and 301, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section291&num=0&edition=prelim) and Tables.
+The Stock Raising Homestead Act of December 29, 1916, referred to in text, is act Dec. 29, 1916, ch. 9, 39 Stat. 862, which was classified generally to subchapter X (§ 291 et seq.) of chapter 7 of this title and was repealed by Pub. L. 94–579, title VII, §§ 702, 704(a), Oct. 21, 1976, 90 Stat. 2787, 2792, except for sections 9 and 11 which are classified to sections 299 and 301, respectively, of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 291 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section291&num=0&edition=prelim) and Tables.
 
 
 <a id="section-145"></a>
@@ -202,7 +202,7 @@ No public land, water, or land and water area shall, except by Act of Congress, 
 ### Statutory Notes
 
 #### References in Text
-The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-029-submerged-lands.md#section-1301) and Tables.
+The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-029-submerged-lands.md#section-1301) and Tables.
 
 
 <a id="section-157"></a>

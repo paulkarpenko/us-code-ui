@@ -437,7 +437,7 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 300
 
 <a id="section-431"></a>
 ## § 431. Authority to engage in commercial activities as security for intelligence collection activities
-**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2023.
+**(a) Authority.—** The Secretary of Defense, subject to the provisions of this subchapter, may authorize the conduct of those commercial activities necessary to provide security for authorized intelligence collection activities abroad undertaken by the Department of Defense. No commercial activity may be initiated pursuant to this subchapter after December 31, 2024.
 
 **(b) Interagency Coordination and Support.—** Any such activity shall—
 
@@ -464,6 +464,8 @@ Subsec. (e). Pub. L. 113–291, § 1071(c)(5)(B), substituted “([50 U.S.C. 300
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 substituted “December 31, 2024” for “December 31, 2023”.
+
 2017—Subsec. (a). Pub. L. 115–91 substituted “December 31, 2023” for “December 31, 2017”.
 
 2014—Subsec. (a). Pub. L. 113–291 substituted “December 31, 2017” for “December 31, 2015”.

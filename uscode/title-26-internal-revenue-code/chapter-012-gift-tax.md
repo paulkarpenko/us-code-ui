@@ -359,7 +359,7 @@ the value thereof shall, for purposes of computing the tax under this chapter, b
 ### Statutory Notes
 
 #### References in Text
-The Tax Reform Act of 1976, referred to in subsec. (a)(3), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. [Section 2521 of this title](./chapter-012-gift-tax.md#section-2521) was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (a)(3), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520. [Section 2521 of this title](./chapter-012-gift-tax.md#section-2521) was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1998—Subsec. (c). Pub. L. 105–206 substituted “gifts” for “certain gifts for preceding calendar periods” in heading and amended text generally. Prior to amendment, text read as follows: “If the time has expired within which a tax may be assessed under this chapter or under corresponding provisions of prior laws on the transfer of property by gift made during a preceding calendar period, as defined in section 2502(b), the value of such gift made in such preceding calendar period shall, for purposes of computing the tax under this chapter for any calendar year, be the value of such gift which was used in computing the tax for the last preceding calendar period for which a tax under this chapter or under corresponding provisions of prior laws was assessed or paid.”
@@ -415,7 +415,7 @@ For purposes of applying paragraph (2) for any calendar year, the rates of tax i
 ### Statutory Notes
 
 #### References in Text
-The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. [Section 2521 of this title](./chapter-012-gift-tax.md#section-2521) was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520. [Section 2521 of this title](./chapter-012-gift-tax.md#section-2521) was repealed by section 2001(b)(3) of Pub. L. 94–455. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2010—Subsec. (a). Pub. L. 111–312, § 302(d)(2), inserted concluding provisions.

@@ -2,7 +2,7 @@
 title: 12
 chapter: '16'
 heading: FEDERAL DEPOSIT INSURANCE CORPORATION
-section_count: 73
+section_count: 75
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -3511,7 +3511,7 @@ Pub. L. 101–73, title IX, § 916, Aug. 9, 1989, 103 Stat. 486, provided that b
 Pub. L. 101–73, title IX, § 917, Aug. 9, 1989, 103 Stat. 487, directed appropriate Federal banking agencies (as defined in [section 1813(q) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1813/q&num=0&edition=prelim) and National Credit Union Administration Board to create a joint task force to study desirability and feasibility of delegating investigation and enforcement authority to their regional or district offices or banks, provided for composition of task force, and required that not later than Sept. 30, 1990, task force report to Congress its findings and recommendations, together with responses of Comptroller of the Currency, Director of Office of Thrift Supervision, Chairperson of Federal Deposit Insurance Corporation, Chairman of Board of Governors of Federal Reserve System, and Chairman of National Credit Union Administration.
 
 #### Credit Standards Advisory Committee
-Pub. L. 101–73, title XII, § 1205, Aug. 9, 1989, 103 Stat. 521, as amended by Pub. L. 102–242, title IV, § 422, Dec. 19, 1991, 105 Stat. 2377; Pub. L. 111–203, title III, § 367(7), July 21, 2010, 124 Stat. 1557, provided that: “(a) Establishment.—There is hereby established the Credit Standards Advisory Committee (in this section referred to as the ‘Committee’). “(b) Membership.—“(1) Appointment.—The Committee shall consist of 11 members, as follows:“(A) The Chairman of the Board of Governors of the Federal Reserve System, or the Chairman’s designee. “(B) The Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson’s designee. “(C) The Comptroller of the Currency, or the Comptroller’s designee. “(D) The Chairman of the National Credit Union Administration, or the Chairman’s designee. “(E) 6 members of the public appointed by the President who are knowledgeable with the credit standards and lending practices of insured depository institutions, no more than 3 of whom shall be from the same political party. “(2) Terms.—Each member appointed under paragraph (1)(E) shall serve for the life of the Committee. “(3) Chairperson.—The Chairperson of the Committee shall be designated by the President from among the members appointed under paragraph (1)(F) [now (1)(E)]. “(4) Vacancies.—Any vacancy on the Committee shall be filled in the manner in which the original appointment was made. “(5) Pay and expenses.—Members of the Committee shall serve without pay but each member of the Committee shall be reimbursed for expenses incurred in connection with attendance of such members at meetings of the Committee. All expenses of the Committee shall be shared on a pro rata basis, based upon each agency’s total budget for the preceding year by the Federal financial regulators specified in subparagraphs (A) through (E) of paragraph (1). “(6) Meetings.—The Committee shall meet, not less frequently than quarterly, at the call of the chairperson or a majority of the members. “(c) Duties of the Committee.—The Committee shall do the following:“(1) Review credit standards, lending practices, and supervision by federal regulators.—Review the credit standards and lending practices of insured depository institutions and the supervision of such standards and practices by the Federal financial regulators. “(2) Prepare recommendations.—Prepare written comments and recommendations for the Federal financial regulators to ensure that insured depository institutions adhere to prudential credit standards and lending practices that are consistent for all insured depository institutions, to the maximum extent possible. “(3) Monitor credit standards, lending practices, and supervision by federal regulators.—Monitor the credit standards and lending practices of insured depository institutions, and the supervision of such standards and practices by the Federal financial regulators, to ensure that insured depository institutions can meet the demands of a modern and globally competitive financial world. “(d) Annual Report.—“(1) Required.—Not later than January 30 of each year, the Committee shall submit a report to the Committee on Banking, Finance and Urban Affairs [now Committee on Financial Services] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. “(2) Contents.—The report required by paragraph (1) shall describe the activities of the Committee during the preceding year and the reports and recommendations made by the Committee to the Federal financial regulators. “(e) Conflict of Interest Guidelines.—The Committee shall prescribe such guidelines as the Committee determines to be appropriate to avoid conflicts of interest with respect to the disclosure to and use by members of the Committee of information relating to insured depository institutions and the Federal financial regulators. “(f) Federal Advisory Committee Act Does not Apply.—The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply with respect to the Committee.”
+Pub. L. 101–73, title XII, § 1205, Aug. 9, 1989, 103 Stat. 521, as amended by Pub. L. 102–242, title IV, § 422, Dec. 19, 1991, 105 Stat. 2377; Pub. L. 111–203, title III, § 367(7), July 21, 2010, 124 Stat. 1557; Pub. L. 117–286, § 4(a)(55), Dec. 27, 2022, 136 Stat. 4311, provided that: “(a) Establishment.—There is hereby established the Credit Standards Advisory Committee (in this section referred to as the ‘Committee’). “(b) Membership.—“(1) Appointment.—The Committee shall consist of 11 members, as follows:“(A) The Chairman of the Board of Governors of the Federal Reserve System, or the Chairman’s designee. “(B) The Chairperson of the Federal Deposit Insurance Corporation, or the Chairperson’s designee. “(C) The Comptroller of the Currency, or the Comptroller’s designee. “(D) The Chairman of the National Credit Union Administration, or the Chairman’s designee. “(E) 6 members of the public appointed by the President who are knowledgeable with the credit standards and lending practices of insured depository institutions, no more than 3 of whom shall be from the same political party. “(2) Terms.—Each member appointed under paragraph (1)(E) shall serve for the life of the Committee. “(3) Chairperson.—The Chairperson of the Committee shall be designated by the President from among the members appointed under paragraph (1)(F) [now (1)(E)]. “(4) Vacancies.—Any vacancy on the Committee shall be filled in the manner in which the original appointment was made. “(5) Pay and expenses.—Members of the Committee shall serve without pay but each member of the Committee shall be reimbursed for expenses incurred in connection with attendance of such members at meetings of the Committee. All expenses of the Committee shall be shared on a pro rata basis, based upon each agency’s total budget for the preceding year by the Federal financial regulators specified in subparagraphs (A) through (E) of paragraph (1). “(6) Meetings.—The Committee shall meet, not less frequently than quarterly, at the call of the chairperson or a majority of the members. “(c) Duties of the Committee.—The Committee shall do the following:“(1) Review credit standards, lending practices, and supervision by federal regulators.—Review the credit standards and lending practices of insured depository institutions and the supervision of such standards and practices by the Federal financial regulators. “(2) Prepare recommendations.—Prepare written comments and recommendations for the Federal financial regulators to ensure that insured depository institutions adhere to prudential credit standards and lending practices that are consistent for all insured depository institutions, to the maximum extent possible. “(3) Monitor credit standards, lending practices, and supervision by federal regulators.—Monitor the credit standards and lending practices of insured depository institutions, and the supervision of such standards and practices by the Federal financial regulators, to ensure that insured depository institutions can meet the demands of a modern and globally competitive financial world. “(d) Annual Report.—“(1) Required.—Not later than January 30 of each year, the Committee shall submit a report to the Committee on Banking, Finance and Urban Affairs [now Committee on Financial Services] of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate. “(2) Contents.—The report required by paragraph (1) shall describe the activities of the Committee during the preceding year and the reports and recommendations made by the Committee to the Federal financial regulators. “(e) Conflict of Interest Guidelines.—The Committee shall prescribe such guidelines as the Committee determines to be appropriate to avoid conflicts of interest with respect to the disclosure to and use by members of the Committee of information relating to insured depository institutions and the Federal financial regulators. “(f) Chapter 10 of Title 5, United States Code, Does not Apply.—Chapter 10 of title 5, United States Code, shall not apply with respect to the Committee.”
 
 [For termination, effective May 15, 2000, of reporting provisions under 1205(d) of Pub. L. 101–73, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 159 of House Document No. 103–7.]
 
@@ -4082,7 +4082,7 @@ Nothing contained in section 203 of Pub. L. 89–695 amending subsecs. (b) and (
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (d)(6), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (d)(6), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
@@ -7435,7 +7435,7 @@ Pub. L. 97–320, title II, § 205, Oct. 15, 1982, 96 Stat. 1495, provided that:
 #### References in Text
 The Emergency Economic Stabilization Act of 2008, referred to in subsec. (a)(3)(C), is div. A of Pub. L. 110–343, Oct. 3, 2008, 122 Stat. 3765, which is classified principally to chapter 52 (§ 5201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5201 of this title](./chapter-052-emergency-economic-stabilization.md#section-5201) and Tables.
 
-The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, as amended, which is classified generally to chapter 24 (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2281 of this title](./chapter-024-federal-financing-bank.md#section-2281) and Tables.
+The Federal Financing Bank Act of 1973, referred to in subsec. (b), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, which is classified generally to chapter 24 (§ 2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2281 of this title](./chapter-024-federal-financing-bank.md#section-2281) and Tables.
 
 #### Codification
 “Chapter 31 of title 31” substituted in subsec. (a) for “the Second Liberty Bond Act, as amended” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -8878,11 +8878,11 @@ This Act and the Act, referred to in text, probably are references to Pub. L. 10
 
 Title LXII of the Revised Statutes, referred to in subsec. (a)(1)(A), consists of R.S. §§ 5133 to 5244, which are classified to sections 16, 21, 22 to 24a, 25a, 25b, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§ 5133 to 5244 to the Code, see Tables.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (b)(2)(A), (4)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (b)(2)(A), (4)(A), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
-The Federal Reserve Act, referred to in subsec. (b)(2)(A), (4)(A), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+The Federal Reserve Act, referred to in subsec. (b)(2)(A), (4)(A), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (c)(1)(A), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Codification
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
@@ -8920,7 +8920,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 ### Statutory Notes
 
 #### References in Text
-The National Bank Consolidation and Merger Act, referred to in subsec. (a), is act Nov. 7, 1918, ch. 209, as added by Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 460, and amended, which is classified generally to subchapter XVI (§ 215 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 215 of this title](./chapter-002-national-banks.md#section-215) and Tables.
+The National Bank Consolidation and Merger Act, referred to in subsec. (a), is act Nov. 7, 1918, ch. 209, as added by Pub. L. 86–230, § 20, Sept. 8, 1959, 73 Stat. 460, which is classified generally to subchapter XVI (§ 215 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 215 of this title](./chapter-002-national-banks.md#section-215) and Tables.
 
 #### Codification
 Section was enacted as part of the Gramm-Leach-Bliley Act, and not as part of the Federal Deposit Insurance Act which comprises this chapter.
@@ -8966,7 +8966,41 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 **(b) Penalty** Whoever knowingly violates subsection (a) shall be fined not more than $1,000,000 for each day such prohibition is violated or imprisoned for not more than 5 years, or both.
 
-**(d) 22 So in original. No subsec. (c) has been enacted. Bank holding companies**
+**(c) Exceptions**
+
+(1) **Certain older offenses**
+
+  (A) *In general* — With respect to an individual, subsection (a) shall not apply to an offense if—
+
+    (i) it has been 7 years or more since the offense occurred; or
+
+    (ii) the individual was incarcerated with respect to the offense and it has been 5 years or more since the individual was released from incarceration.
+
+  (B) *Offenses committed by individuals 21 or younger* — For individuals who committed an offense when they were 21 years of age or younger, subsection (a) shall not apply to the offense if it has been more than 30 months since the sentencing occurred.
+
+  (C) *Limitation* — This paragraph shall not apply to an offense described under subsection (a)(2).
+
+(2) **Expungement and sealing** — With respect to an individual, subsection (a) shall not apply to an offense if—
+
+  (A) there is an order of expungement, sealing, or dismissal that has been issued in regard to the conviction in connection with such offense; and
+
+  (B) it is intended by the language in the order itself, or in the legislative provisions under which the order was issued, that the conviction shall be destroyed or sealed from the individual’s State, Tribal, or Federal record, even if exceptions allow the record to be considered for certain character and fitness evaluation purposes.
+
+(3) **De minimis exemption**
+
+  (A) *In general* — Subsection (a) shall not apply to such de minimis offenses as the Corporation determines, by rule.
+
+  (B) *Confinement criteria* — In issuing rules under subparagraph (A), the Corporation shall include a requirement that the offense was punishable by a term of three years or less confined in a correctional facility, where such confinement—
+
+    (i) is calculated based on the time an individual spent incarcerated as a punishment or a sanction, not as pretrial detention; and
+
+    (ii) does not include probation or parole where an individual was restricted to a particular jurisdiction or was required to report occasionally to an individual or a specific location.
+
+  (C) *Bad check criteria* — In setting the criteria for de minimis offenses under subparagraph (A), if the Corporation establishes criteria with respect to insufficient funds checks, the Corporation shall require that the aggregate total face value of all insufficient funds checks across all convictions or program entries related to insufficient funds checks is $2,000 or less.
+
+  (D) *Designated lesser offenses* — Subsection (a) shall not apply to certain lesser offenses (including the use of a fake ID, shoplifting, trespass, fare evasion, driving with an expired license or tag, and such other low-risk offenses as the Corporation may designate) if 1 year or more has passed since the applicable conviction or program entry.
+
+**(d) Bank holding companies**
 
 (1) **In general** — Subsections (a) and (b) shall apply to any company (other than a foreign bank) that is a bank holding company and any organization organized and operated under section 25A of the Federal Reserve Act [[12 U.S.C. 611](./chapter-006-foreign-banking.md#section-611) et seq.] or operating under section 25 of the Federal Reserve Act [[12 U.S.C. 601](./chapter-006-foreign-banking.md#section-601) et seq.], as if such bank holding company or organization were an insured depository institution, except that such subsections shall be applied for purposes of this subsection by substituting “Board of Governors of the Federal Reserve System” for “Corporation” each place that term appears in such subsections.
 
@@ -8978,6 +9012,84 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 (2) **Authority of Director** — The Board of Governors of the Federal Reserve System may provide exemptions, by regulation or order, from the application of paragraph (1) if the exemption is consistent with the purposes of this subsection.
 
+**(f) Consent applications**
+
+(1) **In general** — The Corporation shall accept consent applications from an individual and from an insured depository institution or depository institution holding company on behalf of an individual that are filed separately or contemporaneously with a regional office of the Corporation.
+
+(2) **Sponsored applications filed with regional offices** — Consent applications filed at a regional office of the Corporation by an insured depository institution or depository institution holding company on behalf of an individual—
+
+  (A) shall be reviewed by such office;
+
+  (B) may be approved or denied by such office, if such authority has been delegated to such office by the Corporation; and
+
+  (C) may only be denied by such office if the general counsel of the Corporation (or a designee) certifies that the denial is consistent with this section.
+
+(3) **Individual applications filed with regional offices** — Consent applications filed at a regional office by an individual—
+
+  (A) shall be reviewed by such office; and
+
+  (B) may be approved or denied by such office, if such authority has been delegated to such office by the Corporation, except with respect to—
+
+    (i) cases involving an offense described under subsection (a)(2); and
+
+    (ii) such other high-level security cases as may be designated by the Corporation.
+
+(4) **National office review** — The national office of the Corporation shall—
+
+  (A) review any consent application with respect to which a regional office is not authorized to approve or deny the application; and
+
+  (B) review any consent application that is denied by a regional office, if the individual requests a review by the national office.
+
+(5) **Forms and instructions**
+
+  (A) *Availability* — The Corporation shall make all forms and instructions related to consent applications available to the public, including on the website of the Corporation.
+
+  (B) *Contents* — The forms and instructions described under subparagraph (A) shall provide a sample cover letter and a comprehensive list of items that may accompany the application, including clear guidance on evidence that may support a finding of rehabilitation.
+
+(6) **Consideration of criminal history**
+
+  (A) *Regional office consideration* — In reviewing a consent application, a regional office shall—
+
+    (i) primarily rely on the criminal history record of the Federal Bureau of Investigation; and
+
+    (ii) provide such record to the applicant to review for accuracy.
+
+  (B) *Certified copies* — The Corporation may not require an applicant to provide certified copies of criminal history records unless the Corporation determines that there is a clear and compelling justification to require additional information to verify the accuracy of the criminal history record of the Federal Bureau of Investigation.
+
+(7) **Consideration of rehabilitation** — Consistent with title VII of the Civil Rights Act of 1964 ([42 U.S.C. 2000e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000e&num=0&edition=prelim) et seq.), the Corporation shall—
+
+  (A) conduct an individualized assessment when evaluating consent applications that takes into account evidence of rehabilitation, the applicant’s age at the time of the conviction or program entry, the time that has elapsed since conviction or program entry, and the relationship of individual’s 22 So in original. Probably should be preceded by “the”. offense to the responsibilities of the applicable position;
+
+  (B) consider the individual’s employment history, letters of recommendation, certificates documenting participation in substance abuse programs, successful participating in job preparation and educational programs, and other relevant mitigating evidence; and
+
+  (C) consider any additional information the Corporation determines necessary for safety and soundness.
+
+(8) **Scope of employment** — With respect to an approved consent application filed by an insured depository institution or depository institution holding company on behalf of an individual, if the Corporation determines it appropriate, such approved consent application shall allow the individual to work for the same employer (without restrictions on the location) and across positions, except that the prior consent of the Corporation (which may require a new application) shall be required for any proposed significant changes in the individual’s security-related duties or responsibilities, such as promotion to an officer or other positions that the employer determines will require higher security screening credentials.
+
+(9) **Coordination with the NCUA** — In carrying out this section, the Corporation shall consult and coordinate with the National Credit Union Administration as needed to promote consistent implementation where appropriate.
+
+**(g) Definitions** In this section:
+
+(1) **Consent application** — The term “consent application” means an application filed with Corporation 2 by an individual (or by an insured depository institution or depository institution holding company on behalf of an individual) seeking the written consent of the Corporation under subsection (a)(1).
+
+(2) **Criminal offense involving dishonesty** — The term “criminal offense involving dishonesty”—
+
+  (A) means an offense under which an individual, directly or indirectly—
+
+    (i) cheats or defrauds; or
+
+    (ii) wrongfully takes property belonging to another in violation of a criminal statute;
+
+  (B) includes an offense that Federal, State, or local law defines as dishonest, or for which dishonesty is an element of the offense; and
+
+  (C) does not include—
+
+    (i) a misdemeanor criminal offense committed more than one year before the date on which an individual files a consent application, excluding any period of incarceration; or
+
+    (ii) an offense involving the possession of controlled substances.
+
+(3) **Pretrial diversion or similar program** — The term “pretrial diversion or similar program” means a program characterized by a suspension or eventual dismissal or reversal of charges or criminal prosecution upon agreement by the accused to restitution, drug or alcohol rehabilitation, anger management, or community service.
+
 ### Statutory Notes
 
 #### References in Text
@@ -8985,7 +9097,13 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (d)(1), are classified to subchapters I (§ 601 et seq.) and II (§ 611 et seq.), respectively, of chapter 6 of this title.
 
+The Civil Rights Act of 1964, referred to in subsec. (f)(7), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VII of the Act is classified generally to subchapter VI (§ 2000e et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–263, § 5705(a)(1), added subsec. (c).
+
+Subsecs. (f), (g). Pub. L. 117–263, § 5705(a)(2), added subsecs. (f) and (g).
+
 2010—Subsec. (e). Pub. L. 111–203 substituted “Board of Governors of the Federal Reserve System” for “Director of the Office of Thrift Supervision” in two places.
 
 2006—Subsecs. (d), (e). Pub. L. 109–351 added subsecs. (d) and (e).
@@ -9429,7 +9547,7 @@ Section is derived from subsec. (z) of former [section 264 of this title](./chap
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (f)(2)(A), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 [Section 1831u of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831u), referred to in subsec. (j)(4), was subsequently amended, and subsec. (f) of section 1831u no longer defines the terms “host State”, “home State”, and “out-of-State bank”. However, such terms are defined elsewhere in that section.
 
@@ -9651,6 +9769,26 @@ Pub. L. 111–203, title VI, § 605(b), July 21, 2010, 124 Stat. 1607, provided 
 [For definition of “transfer date” as used in section 605(b) of Pub. L. 111–203, set out above, see [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301).]
 
 
+<a id="section-1831cc"></a>
+## § 1831cc. Data standards
+**(a) Definition** In this section, the term “financial company” has the meaning given the term in section 201(a) of the Dodd-Frank Wall Street Reform and Consumer Protection Act ([12 U.S.C. 5381(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5381/a&num=0&edition=prelim)).
+
+**(b) Requirement** The Corporation shall, by rule, adopt data standards for all collections of information with respect to information received by the Corporation from any depository institution or financial company under this chapter or under title II of the Dodd-Frank Wall Street Reform and Consumer Protection Act ([12 U.S.C. 5381](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5381) et seq.).
+
+**(c) Consistency** The data standards required under subsection (b) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+### Statutory Notes
+
+#### References in Text
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in subsec. (b), is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376. Title II of the Act is classified principally to subchapter II (§ 5381 et seq.) of chapter 53 of this title. For complete classification of the Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5833, Dec. 23, 2022, 136 Stat. 3431, provided that: “(a) In General.—The Federal Deposit Insurance Corporation shall issue rules to carry out the amendments made by this subtitle [subtitle C (§§ 5831–5834) of title LVIII of div. E of Pub. L. 117–263, enacting this section and [section 1831dd of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831dd)], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5811/a&num=0&edition=prelim). “(b) Scaling of Regulatory Requirements; Minimizing Disruption.—In issuing the rules required under subsection (a), the Federal Deposit Insurance Corporation—“(1) may scale data reporting requirements in order to reduce any unjustified burden on smaller regulated entities; and “(2) shall seek to minimize disruptive changes to the persons affected by those regulations.”
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Pub. L. 117–263, div. E, title LVIII, § 5834, Dec. 23, 2022, 136 Stat. 3431, provided that: “Nothing in this title [probably means “this subtitle”, subtitle C (§§ 5831–5834) of title LVIII of div. E of Pub. L. 117–263, enacting this section, [section 1831dd of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831dd), and provisions set out as a note under this section], or the amendments made by this title, shall be construed to require the Federal Deposit Insurance Corporation to collect or make publicly available additional information under the Acts amended by this title (or under any provision of law referenced in an amendment made by this title), beyond information that was collected or made publicly available under any such provision, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+
+
 <a id="section-1831d"></a>
 ## § 1831d. State-chartered insured depository institutions and insured branches of foreign banks
 **(a) Interest rates** In order to prevent discrimination against State-chartered insured depository institutions, including insured savings banks, or insured branches of foreign banks with respect to interest rates, if the applicable rate prescribed in this subsection exceeds the rate such State bank or insured branch of a foreign bank would be permitted to charge in the absence of this subsection, such State bank or such insured branch of a foreign bank may, notwithstanding any State constitution or statute which is hereby preempted for the purposes of this section, take, receive, reserve, and charge on any loan or discount made, or upon any note, bill of exchange, or other evidence of debt, interest at a rate of not more than 1 per centum in excess of the discount rate on ninety-day commercial paper in effect at the Federal Reserve bank in the Federal Reserve district where such State bank or such insured branch of a foreign bank is located or at the rate allowed by the laws of the State, territory, or district where the bank is located, whichever may be greater.
@@ -9675,6 +9813,28 @@ In any case in which one or more provisions of, or amendments made by, title V o
 
 #### Definition of “State”
 For purposes of this section, the term “State” to include the several States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, the Trust Territories of the Pacific Islands, the Northern Mariana Islands, and the Virgin Islands, see section 527 of Pub. L. 96–221, set out as a note under [section 1735f–7a of this title](./chapter-013-national-housing.md#section-1735f-7a).
+
+
+<a id="section-1831dd"></a>
+## § 1831dd. Open data publication
+
+All public data assets published by the Corporation under this chapter or under the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 1376) shall be—
+
+(1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+### Statutory Notes
+
+#### References in Text
+The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in text, is Pub. L. 111–203, July 21, 2010, 124 Stat. 1376, which enacted chapter 53 (§ 5301 et seq.) of this title and chapters 108 (§ 8201 et seq.) and 109 (§ 8301 et seq.) of Title 15, Commerce and Trade, and enacted, amended, and repealed numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5301) and Tables.
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5834 of Pub. L. 117–263, set out as a note under [section 1831cc of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1831cc).
 
 
 <a id="section-1831e"></a>
@@ -10261,15 +10421,15 @@ Pub. L. 102–242, title II, § 251(a)(4), Dec. 19, 1991, 105 Stat. 2332, provid
 ### Statutory Notes
 
 #### References in Text
-The Federal Credit Union Act, referred to in subsec. (a)(1)(A)(ii), is act June 26, 1934, ch. 750, 48 Stat. 1216, as amended, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
+The Federal Credit Union Act, referred to in subsec. (a)(1)(A)(ii), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§ 1751 et seq.) of this title. For complete classification of this Act to the Code, see [section 1751 of this title](./chapter-014-federal-credit-unions.md#section-1751) and Tables.
 
-The Federal Reserve Act, referred to in subsec. (a)(1)(A)(iv), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+The Federal Reserve Act, referred to in subsec. (a)(1)(A)(iv), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
-The Bank Holding Company Act Amendments of 1970, referred to in subsec. (a)(1)(A)(v), is Pub. L. 91–607, Dec. 31, 1970, 84 Stat. 1760, as amended. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act Amendments of 1970, referred to in subsec. (a)(1)(A)(v), is Pub. L. 91–607, Dec. 31, 1970, 84 Stat. 1760. For complete classification of this Act to the Code, see Short Title of 1970 Amendment note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
-The Bank Holding Company Act of 1956, referred to in subsec. (a)(1)(A)(vi), is act May 9, 1956, ch. 240, 70 Stat. 133, as amended, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
+The Bank Holding Company Act of 1956, referred to in subsec. (a)(1)(A)(vi), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§ 1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1841 of this title](./chapter-017-bank-holding-companies.md#section-1841) and Tables.
 
-The Home Owners’ Loan Act, referred to in subsec. (a)(1)(A)(vii), is act June 13, 1933, ch. 64, 48 Stat. 128, as amended, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see [section 1461 of this title](./chapter-012-savings-associations.md#section-1461) and Tables.
+The Home Owners’ Loan Act, referred to in subsec. (a)(1)(A)(vii), is act June 13, 1933, ch. 64, 48 Stat. 128, which is classified generally to chapter 12 (§ 1461 et seq.) of this title. For complete classification of this Act to the Code, see [section 1461 of this title](./chapter-012-savings-associations.md#section-1461) and Tables.
 
 #### Amendments
 1994—Subsec. (a)(1)(A)(iii). Pub. L. 103–325, § 602(a)(62), substituted “section” for “sections” and “or” for “and”.
@@ -11123,7 +11283,7 @@ Pub. L. 102–233, title VI, § 618, Dec. 12, 1991, 105 Stat. 1789, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Subsec. (k). Pub. L. 111–203, § 987(b), substituted “Reviews” for “Review” and “losses” for “material loss” in heading.
@@ -11854,7 +12014,7 @@ Pub. L. 102–242, title II, § 241(b), Dec. 19, 1991, 105 Stat. 2331, as amende
 ### Statutory Notes
 
 #### References in Text
-The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+The Federal Reserve Act, referred to in subsec. (c), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
 
 <a id="section-1831r-1"></a>
@@ -12663,7 +12823,7 @@ Section effective 120 days after Nov. 12, 1999, see section 161 of Pub. L. 106�
 ### Statutory Notes
 
 #### References in Text
-The Community Reinvestment Act of 1977, referred to in subsecs. (a) and (e)(1)(A), (B)(iii), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
+The Community Reinvestment Act of 1977, referred to in subsecs. (a) and (e)(1)(A), (B)(iii), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
 
 
 <a id="section-1831z"></a>
@@ -13314,7 +13474,7 @@ Pub. L. 102–550, title XVI, § 1605(a)(3), Oct. 28, 1992, 106 Stat. 4085, whic
 #### References in Text
 The Neighborhood Reinvestment Corporation Act, referred to in subsec. (a)(4)(C), is title VI of Pub. L. 95–557, Oct. 31, 1978, 92 Stat. 2115, which is classified to subchapter I (§ 8101 et seq.) of chapter 90 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 601 of Pub. L. 95–557, set out as a Short Title note under [section 8101 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8101&num=0&edition=prelim) and Tables.
 
-The Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(D), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(4)(D), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633. Title I of the Act is classified principally to chapter 69 (§ 5301 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 5301 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5301&num=0&edition=prelim) and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(4)(E), (F), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, also known as the “HOME Investment Partnerships Act”, is classified principally to subchapter II (§ 12721 et seq.) of chapter 130 of Title 42. Subtitles B and C of title IV of the Act are classified respectively to parts A (§ 12871 et seq.) and B (§ 12891 et seq.) of subchapter IV of chapter 130 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 12701 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12701&num=0&edition=prelim) and Tables.
 
@@ -13572,7 +13732,7 @@ Section was enacted as part of the Small Business Loan Securitization and Second
 #### References in Text
 This title, referred to in subsecs. (a), (d), and (e)(4), is title I of Pub. L. 103–328, Sept. 29, 1994, 108 Stat. 2339, which enacted this section and sections 43, 215a–1, and 1831u of this title, amended sections 30, 36, 215, 215a, 215b, 1462a, 1820, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and [section 1927 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1927&num=0&edition=prelim), Agriculture, enacted provisions set out as notes under sections 215, 1811, 1828, 3104, 3105, and 3107 of this title and [section 1927 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1927&num=0&edition=prelim), and amended provisions set out as a note under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811). For complete classification of this title to the Code, see Tables.
 
-The Community Reinvestment Act of 1977, referred to in subsec. (c)(2)(D), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, as amended, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
+The Community Reinvestment Act of 1977, referred to in subsec. (c)(2)(D), is title VIII of Pub. L. 95–128, Oct. 12, 1977, 91 Stat. 1147, which is classified generally to chapter 30 (§ 2901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2901 of this title](./chapter-030-community-reinvestment.md#section-2901) and Tables.
 
 #### Codification
 Section was enacted as part of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, and not as part of the Federal Deposit Insurance Act which comprises this chapter.

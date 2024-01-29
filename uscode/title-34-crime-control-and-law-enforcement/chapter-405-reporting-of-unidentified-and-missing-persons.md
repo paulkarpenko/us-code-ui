@@ -2,7 +2,7 @@
 title: 34
 chapter: '405'
 heading: REPORTING OF UNIDENTIFIED AND MISSING PERSONS
-section_count: 5
+section_count: 8
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -152,4 +152,123 @@ Not later than 18 months after December 31, 2020, and every year thereafter, the
 ### Statutory Notes
 
 #### Codification
-Section was enacted as part of Missing Persons and Unidentified Remains Act of 2019, and not as part of Jennifer’s Law which comprises this chapter.
+Section was enacted as part of the Missing Persons and Unidentified Remains Act of 2019, and not as part of Jennifer’s Law which comprises this chapter.
+
+
+<a id="section-40506"></a>
+## § 40506. Authorization of the National Missing and Unidentified Persons System
+**(a) In general** The Attorney General,11 So in original. The comma probably should not appear. shall maintain the “National Missing and Unidentified Persons System” or “NamUs”, consistent with the following:
+
+(1) The NamUs shall be a national information clearinghouse and resource center for missing, unidentified, and unclaimed person cases across the United States administered by the National Institute of Justice and managed through an agreement with an eligible entity.
+
+(2) The NamUs shall coordinate or provide—
+
+  (A) online database technology which serves as a national information clearinghouse to help expedite case associations and resolutions;
+
+  (B) various free-of-charge forensic services to aid in the identification of missing persons and unidentified remains;
+
+  (C) investigative support for criminal justice efforts to help missing and unidentified person case resolutions;
+
+  (D) technical assistance for family members of missing persons;
+
+  (E) assistance and training by coordinating State and local service providers in order to support individuals and families impacted by the loss or disappearance of a loved one; and
+
+  (F) training and outreach from NamUs subject matter experts, including assistance with planning and facilitating Missing Person Day events across the country.
+
+**(b) Permissible use of funds**
+
+(1) **In general** — The permissible use of funds awarded under this section for the implementation and maintenance of the agreement created in subparagraph (a)(1) include the use of funds—
+
+  (A) to hire additional personnel to provide case support and perform other core NamUs functions;
+
+  (B) to develop new technologies to facilitate timely data entry into the relevant data bases;
+
+  (C) to conduct contracting activities relevant to core NamUs services;
+
+  (D) to provide forensic analyses to support the identification of missing and unidentified persons, to include, but not limited to DNA typing, forensic odontology, fingerprint examination, and forensic anthropology;
+
+  (E) to train State, local, and Tribal law enforcement personnel and forensic medicine service providers to use NamUs resources and best practices for the investigation of missing and unidentified person cases;
+
+  (F) to assist States in providing information to the NCIC database, the NamUs database, or any future database system for missing, unidentified, and unclaimed person cases;
+
+  (G) to report to law enforcement authorities in the jurisdiction in which the remains were found information on every deceased, unidentified person, regardless of age;
+
+  (H) to participate in Missing Person Days and other events to directly support family members of the missing with NamUs case entries and DNA collections;
+
+  (I) to provide assistance and training by coordinating State and local service providers in order to support individuals and families;
+
+  (J) to conduct data analytics and research projects for the purpose of enhancing knowledge, best practices, and training related to missing and unidentified person cases, as well as developing NamUs system enhancements;
+
+  (K) to create and maintain a secure, online, nationwide critical incident response tool for professionals that will connect law enforcement, medico-legal and emergency management professionals, as well as victims and families during a critical incident; and
+
+  (L) for other purposes consistent with the goals of this section.
+
+**(c) Amendments to the Crime Control Act of 1990 to require reports of missing children to NamUs**
+
+(1) **, (2) Omitted**
+
+(3) **Effective date** — The amendments made by this subsection shall apply with respect to reports made before, on, or after December 27, 2022.
+
+### Statutory Notes
+
+#### References in Text
+For the amendments made by this subsection, referred to in subsec. (c)(3), see Codification note below.
+
+#### Codification
+Section is comprised of section 2 of Pub. L. 117–327. Subsec. (c)(1) and (2) of section 2 of Pub. L. 117–327 amended sections 41307 and 41308 of this title, respectively.
+
+Section was enacted as part of Billy’s Law, also known as the Help Find the Missing Act, and not as part of Jennifer’s Law which comprises this chapter.
+
+#### Definitions
+“In this Act [see section 1 of Pub. L. 117–327, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)]: “(1) Authorized agency.—The term ‘authorized agency’ means a Government agency with an originating agency identification (ORI) number and that is a criminal justice agency, as defined in section 20.3 of title 28, Code of Federal Regulations. “(2) FBI.—The term ‘FBI’ means the Federal Bureau of Investigation. “(3) Forensic medicine service provider.—The term ‘forensic medicine service provider’ means a State or unit of local government forensic medicine service provider having not fewer than 1 part-time or full-time employed forensic pathologist, or forensic pathologist under contract, who conducts medicolegal death investigations, including examinations of human remains, and who provides reports or opinion testimony with respect to such activity in courts of law within the United States. “(4) Forensic science service provider.—The term ‘forensic science service provider’ means a State or unit of local government agency having not fewer than 1 full-time analyst who examines physical evidence in criminal or investigative matters and provides reports or opinion testimony with respect to such evidence in courts in the United States. “(5) Namus databases.—The term ‘NamUs databases’ means the National Missing and Unidentified Persons System Missing Persons database and National Missing and Unidentified Persons System Unidentified Decedents database maintained by the National Institute of Justice of the Department of Justice, which serves as a clearinghouse and resource center for missing, unidentified, and unclaimed person cases. “(6) NCIC database.—The term ‘NCIC database’ means the National Crime Information Center Missing Person File and National Crime Information Center Unidentified Person File of the National Crime Information Center database of the FBI, established pursuant to [section 534 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section534&num=0&edition=prelim), United States Code. “(7) Qualifying law enforcement agency defined.—The term ‘qualifying law enforcement agency’ means a State, local, or Tribal law enforcement agency. “(8) State.—The term ‘State’ means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands.”
+
+
+<a id="section-40507"></a>
+## § 40507. Information sharing
+**(a) Access to NCIC** Not later than 1 year after December 27, 2022, the Attorney General shall, in accordance with this section, provide access to the NCIC Missing Person and Unidentified Person Files to the National Institute of Justice or its designee administering the NamUs program as a grantee or contractor, for the purpose of reviewing missing and unidentified person records in NCIC for case validation and NamUs data reconciliation.
+
+**(b) Electronic data sharing** Not later than 6 months after December 27, 2022, the Attorney General shall, in accordance with this section, have completed an assessment of the NCIC and NamUs system architectures and governing statutes, policies, and procedures and provide a proposed plan for the secure and automatic data transmission of missing and unidentified person records that are reported to and entered into the NCIC database, with the following criteria, to be electronically transmitted to the NamUs system.
+
+(1) Missing Person cases with an MNP (Missing Person) code of CA (Child Abduction) or AA (Amber Alert) within 72 hours of entry into NCIC;
+
+(2) Missing Person cases with an MNP code EME (Endangered) or EMI (Involuntary) within 30 days of entry into NCIC;
+
+(3) All other Missing Person cases that have been active (non-cancelled) in NCIC for 180 days;
+
+(4) Unidentified person cases that have been active (non-cancelled) in NCIC for 60 days;
+
+(5) Once case data are transmitted to NamUs, cases are marked as such within NCIC, and any updates to such cases will be transmitted to NamUs within 24 hours.
+
+**(c) Rules on confidentiality**
+
+(1) **In general** — Not later than 1 year after December 27, 2022, the Attorney General, in consultation with the Director of the FBI, shall promulgate rules pursuant to notice and comment that specify the information the Attorney General may allow NamUs to access from the NCIC Missing Person and Unidentified Person files or be transmitted from the NCIC database to the NamUs databases for purposes of this Act. Such rules shall—
+
+  (A) provide for the protection of confidential, private, and law enforcement sensitive information contained in the NCIC Missing Person and Unidentified Person files; and
+
+  (B) specify the circumstances in which access to portions of information in the Missing Person and Unidentified Person files may be withheld from the NamUs databases.
+
+### Statutory Notes
+
+#### References in Text
+This Act, referred to in subsec. (c)(1), is Pub. L. 117–327, Dec. 27, 2022, 136 Stat. 4454, known as Billy’s Law and also as the Help Find the Missing Act, which is classified principally to sections 40506 to 40508 of this title. For complete classification of this Act to the Code, see Short Title of 2022 Amendment note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+#### Codification
+Section was enacted as part of Billy’s Law, also known as the Help Find the Missing Act, and not as part of Jennifer’s Law which comprises this chapter.
+
+#### Definitions
+For definitions of terms used in this section, see section 6 of Pub. L. 117–327, set out as a note under [section 40506 of this title](./chapter-405-reporting-of-unidentified-and-missing-persons.md#section-40506).
+
+
+<a id="section-40508"></a>
+## § 40508. Report to Congress
+**(a) In general** Not later than 1 year after December 27, 2022, and biennially thereafter, the Attorney General shall submit to the Committee on the Judiciary of the House of Representatives and the Committee on the Judiciary of the Senate a report describing the status of the NCIC database and NamUs databases.
+
+**(b) Contents** The report required by subsection (a) shall describe, to the extent available, information on the process of information sharing between the NCIC database and NamUs databases.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of Billy’s Law, also known as the Help Find the Missing Act, and not as part of Jennifer’s Law which comprises this chapter.
+
+#### Definitions
+For definitions of “NCIC database” and “NamUs databases” as used in this section, see section 6 of Pub. L. 117–327, set out as a note under [section 40506 of this title](./chapter-405-reporting-of-unidentified-and-missing-persons.md#section-40506).

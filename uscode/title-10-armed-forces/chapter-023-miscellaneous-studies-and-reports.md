@@ -54,11 +54,13 @@ source: >-
 
 (2) The specific types of assault (including unwanted sexual contact) that have occurred, and the number of times each respondent has been assaulted during the preceding year.
 
-(3) The effectiveness of Department of Defense policies designed to improve professional relationships between male and female members of the armed forces.
+(3) Indicators of the assault (including unwanted sexual contact) that give reason to believe that the victim was targeted, or discriminated against, or both, for a status in a group.
 
-(4) The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault (including unwanted sexual contact).
+(4) The effectiveness of Department of Defense policies designed to improve professional relationships between male and female members of the armed forces.
 
-(5) Any other issues relating to discrimination, harassment, or assault (including unwanted sexual contact) as the Secretary of Defense considers appropriate.
+(5) The effectiveness of current processes for complaints on and investigations into gender-based discrimination, harassment, and assault (including unwanted sexual contact).
+
+(6) Any other issues relating to discrimination, harassment, or assault (including unwanted sexual contact) as the Secretary of Defense considers appropriate.
 
 **(d) When Surveys Required.—**
 
@@ -81,6 +83,8 @@ source: >-
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (c)(3) to (6). Pub. L. 118–31 added par. (3) and redesignated former pars. (3) to (5) as (4) to (6), respectively.
+
 2021—Subsec. (d). Pub. L. 116–283 amended subsec. (d) generally. Prior to amendment, subsec. (d) provided for timing and frequency of Armed Forces Workplace and Gender Relations Surveys and Armed Forces Workplace and Equal Opportunity Surveys.
 
 2019—Subsec. (c). Pub. L. 116–92 inserted “(including unwanted sexual contact)” after “assault” wherever appearing.
@@ -109,6 +113,9 @@ Pub. L. 107–314, div. A, title V, § 561(b), Dec. 2, 2002, 116 Stat. 2554, pro
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Best Practices for the Retention of Certain Female Members of the Armed Forces
+Pub. L. 117–263, div. A, title V, § 537, Dec. 23, 2022, 136 Stat. 2577, provided that: “The Secretaries of the military departments shall share and implement best practices regarding the use of retention and exit survey data to identify barriers and lessons learned to improve the retention of female members of the Armed Forces under the jurisdiction of such Secretaries.”
 
 #### Annual Report on Status of Female Members of the Armed Forces
 Pub. L. 107–314, div. A, title V, § 562, Dec. 2, 2002, 116 Stat. 2554, provided that: “(a) Requirement for Report.—The Secretary of Defense shall submit to Congress, for each of fiscal years 2002 through 2006, a report on the status of female members of the Armed Forces. Information in the annual report shall be shown for the Department of Defense as a whole and separately for each of the Army, Navy, Air Force, and Marine Corps. “(b) Matters To Be Included.—The report for a fiscal year under subsection (a) shall include the following information:“(1) The positions, weapon systems, and fields of skills for which, by policy, female members are not eligible for assignment, as follows:“(A) In the report for fiscal year 2002—“(i) an identification of each position, weapon system, and field of skills for which, by policy, female members are not eligible; and “(ii) the rationale for the applicability of the policy to each such position, weapon system, and field. “(B) In the report for each fiscal year after fiscal year 2002, the positions, weapon systems, and fields for which policy on the eligibility of female members for assignment has changed during that fiscal year, including a discussion of how the policy has changed and the rationale for the change. “(2) Information on joint spouse assignments, as follows:“(A) The number of cases in which members of the Armed Forces married to each other are in assignments to which they were jointly assigned during that fiscal year, as defined in the applicable Department of Defense and military department personnel assignment policies. “(B) The number of cases in which members of the Armed Forces married to each other are in assignments to which they were assigned during that fiscal year, but were not jointly assigned (as so defined). “(3) Promotion selection rates for female members, for male members, and for all personnel in the reports submitted by promotion selection boards in that fiscal year for promotion to grades E–7, E–8, and E–9, and, in the case of commissioned officers, promotion to grades O–4, O–5, and O–6. “(4) Retention rates for female members in each grade and for male members in each grade during that fiscal year. “(5) Selection rates for female members and for male members for assignment to grade O–6 and grade O–5 command positions in reports of command selection boards that were submitted during that fiscal year. “(6) Selection rates for female members and for male members for attendance at intermediate service schools (ISS) and, separately, for attendance at senior service schools (SSS) in reports of selection boards that were submitted during that fiscal year. “(7) The extent of assignments of female members during that fiscal year in each field in which at least 80 percent of the Armed Forces personnel assigned in the field are men. “(8) The incidence of sexual harassment complaints made during that fiscal year, stated as the number of cases in which complaints of sexual harassment were filed under procedures of military departments that are applicable to the submission of sexual harassment complaints, together with the number and percent of the complaints that were substantiated. “(9) Satisfaction (based on surveys) of female active-duty members, female dependents of active-duty members, and female dependents of nonactive duty members entitled to health care provided by the Department of Defense with access to, and quality of, women’s health care benefits provided by the Department of Defense. “(c) Time for Report.—The report for a fiscal year under this section shall be submitted not later than 120 days after the end of that fiscal year.”
@@ -168,9 +175,9 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 ## § 482. Readiness reports
 **(a) Reports and Briefings.—**
 
-(1) Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
+(1) Not later than 30 days after the end of the second and fourth quarter of each calendar year, the Secretary of Defense shall submit to Congress a report regarding the military readiness of the active and reserve components and the Space Force. The Secretary of Defense shall submit each such report in writing and shall also submit a copy of each such report to the Chairman of the Joint Chiefs of Staff.
 
-(2) Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components.
+(2) Not later than 30 days after the end of the first and third quarter of each calendar year, the Secretary of Defense shall provide to Congress a briefing regarding the military readiness of the active and reserve components and the Space Force.
 
 (3) Each report under this subsection shall contain the elements required by subsection (b) for the quarter covered by the report, and each briefing shall address any changes to the elements described in subsection (b) since the submittal of the most recently submitted report.
 
@@ -196,7 +203,9 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 (10) Information regarding the extent to which any member of the armed forces is assigned or detailed outside the member’s unit or away from training in order to perform any function that had previously been performed by civilian employees of the Federal Government.
 
-(11) Such other information as determined necessary or appropriate by the Secretary of Defense.
+(11) A summary of the joint medical estimate under section 732(b)(1) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1817) prepared by the Joint Staff Surgeon, with a mitigation plan to correct any readiness problem or deficiency and the timeline, cost, and any legislative action required to correct any such problem or deficiency.
+
+(12) Such other information as determined necessary or appropriate by the Secretary of Defense.
 
 **(c) Consideration of Readiness Assessments.—** The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
 
@@ -224,7 +233,14 @@ Pub. L. 113–291, div. A, title X, § 1073(a)(3), Dec. 19, 2014, 128 Stat. 3518
 
 ### Statutory Notes
 
+#### References in Text
+Section 732(b)(1) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019, referred to subsec. (b)(11), is section 732(b)(1) of Pub. L. 115–232, div. A, title VII, Aug. 13, 2018, 132 Stat. 1817, which is not classified to the Code.
+
 #### Amendments
+2023—Subsec. (a)(1), (2). Pub. L. 118–31 inserted “and the Space Force” after “active and reserve components”.
+
+2022—Subsec. (b)(11), (12). Pub. L. 117–263 added par. (11) and redesignated former par. (11) as (12).
+
 2021—Subsec. (b)(10), (11). Pub. L. 117–81 added par. (10) and redesignated former par. (10) as (11).
 
 2019—Pub. L. 116–92, § 361(b)(1), substituted “Readiness reports” for “Quarterly reports: personnel and unit readiness” in section catchline.
@@ -396,6 +412,8 @@ Pub. L. 105–85, div. A, title III, § 322(d), Nov. 18, 1997, 111 Stat. 1675, p
 
 (5) A summary of any internal score cards that will be or were, whichever applies, used to make the basing decision.
 
+(6) With respect to any decision of the Secretary concerned that would result in a significant increase in the number of members of the Armed Forces assigned to a military installation, a description of the consultation with appropriate State and local entities regarding the basing decision to ensure consideration of matters affecting the local community, including requirements for transportation, utility infrastructure, housing, education, and family support activities.
+
 **(d) Notice and Wait Requirements.—** No irrevocable action may be taken to effect or implement a basing decision reached through the decision-making process described in subsection (a) until the end of the 14-day period beginning on the date on which the Secretary concerned submits, in an electronic medium pursuant to [section 480 of this title](./chapter-023-miscellaneous-studies-and-reports.md#section-480), the notice referred to in subsection (b)(3) regarding a preferred location for the major headquarters, covered military unit, or major weapon system.
 
 **(e) Annual Reporting Requirement.—**
@@ -441,6 +459,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (f)(1), is
 A prior section 483, added Pub. L. 105–85, div. A, title III, § 323(a), Nov. 18, 1997, 111 Stat. 1675; amended Pub. L. 106–65, div. A, title X, § 1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 106–398, § 1 [[div. A], title III, § 372], Oct. 30, 2000, 114 Stat. 1654, 1654A–80, related to reports on transfers from high-priority readiness appropriations, prior to repeal by Pub. L. 113–66, div. A, title X, § 1084(a)(1)(A), Dec. 26, 2013, 127 Stat. 871.
 
 #### Amendments
+2022—Subsec. (c)(6). Pub. L. 117–263 added par. (6).
+
 2021—Subsec. (f)(3). Pub. L. 117–81 inserted “this” before “title”.
 
 Pub. L. 116–283, § 1883(b)(2), which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was executed by substituting “section 3041(a) and (b) of this title” for “section 2302(5) of title”. Section 1806(c)(2) of Pub. L. 116–283 first redesignated [section 2302(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2302/5&num=0&edition=prelim) as section 3041(a) and subsequently designated the third sentence thereof as subsec. (b).
@@ -577,11 +597,27 @@ A prior section 486, added Pub. L. 106–65, div. A, title II, § 241(a)(1), Oct
 
 
 <a id="section-487"></a>
-## § 487. Repealed. Pub. L. 112–81, div. A, title X, § 1061(9)(A), Dec. 31, 2011, 125 Stat. 1583]
+## § 487. Biannual briefing on missile defense and related activities
+**(a) In General.—** On or about June 1 and December 1 of each year, the officials specified in subsection (b) shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on matters relating to missile defense policies, operations, technology development, and other similar topics as requested by such committees.
+
+**(b) Officials Specified.—** The officials specified in this subsection are the following:
+
+(1) The Assistant Secretary of Defense for Acquisition.
+
+(2) The Assistant Secretary of Defense for Space Policy.
+
+(3) The Director of the Missile Defense Agency.
+
+(4) The Director for Strategy, Plans, and Policy of the Joint Staff.
+
+**(c) Delegation.—** An official specified in subsection (b) may delegate the authority to provide a briefing required by subsection (a) to a member of the Senior Executive Service who reports to the official.
+
+**(d) Termination.—** The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028.
 
 ### Statutory Notes
 
-Section, added Pub. L. 106–65, div. A, title IX, § 923(b)(1), Oct. 5, 1999, 113 Stat. 724; amended Pub. L. 108–136, div. A, title V, § 541(c), Nov. 24, 2003, 117 Stat. 1477; Pub. L. 108–375, div. A, title X, § 1084(d)(4), Oct. 28, 2004, 118 Stat. 2061, related to annual report on unit operations tempo and personnel tempo.
+#### Prior Provisions
+A prior section 487, added Pub. L. 106–65, div. A, title IX, § 923(b)(1), Oct. 5, 1999, 113 Stat. 724; amended Pub. L. 108–136, div. A, title V, § 541(c), Nov. 24, 2003, 117 Stat. 1477; Pub. L. 108–375, div. A, title X, § 1084(d)(4), Oct. 28, 2004, 118 Stat. 2061, related to annual report on unit operations tempo and personnel tempo, prior to repeal by Pub. L. 112–81, div. A, title X, § 1061(9)(A), Dec. 31, 2011, 125 Stat. 1583.
 
 
 <a id="section-488"></a>

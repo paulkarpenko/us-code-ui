@@ -52,7 +52,7 @@ Except as this chapter provides for (a) validation of certain mining claims loca
 ### Statutory Notes
 
 #### References in Text
-Section 5(b)(1) of the Atomic Energy Act of 1946, as amended, referred to in text, was formerly classified to [section 1805(b)(1) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1805/b/1&num=0&edition=prelim), The Public Health and Welfare, and defined “source material”. Such term is defined in section 11(z) of the Atomic Energy Act of 1954, as amended, which is classified to [section 2014(z) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/z&num=0&edition=prelim).
+Section 5(b)(1) of the Atomic Energy Act of 1946, referred to in text, was formerly classified to [section 1805(b)(1) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1805/b/1&num=0&edition=prelim), The Public Health and Welfare, and defined “source material”. Such term is defined in section 11(z) of the Atomic Energy Act of 1954, as amended, which is classified to [section 2014(z) of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2014/z&num=0&edition=prelim).
 
 #### Transfer of Functions
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42, The Public Health and Welfare. See, also, Transfer of Functions notes set out under those sections.
@@ -68,8 +68,8 @@ As used in this chapter “mineral leasing laws” shall mean the Act of October
 #### References in Text
 Act of October 20, 1914, referred to in text, is act Oct. 20, 1914, ch. 330, 38 Stat. 741, known as the Alaska Coal Lands Act, which was repealed by Pub. L. 86–252, § 1, Sept. 9, 1959, 73 Stat. 490. The subject matter of this Act is generally covered by subchapters I to VII (§ 181 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code prior to repeal, see Tables.
 
-Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
+Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
-Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, as amended, which is classified generally to subchapter VIII (§ 271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
+Act of April 17, 1926, referred to in text, is act Apr. 17, 1926, ch. 158, 44 Stat. 301, which is classified generally to subchapter VIII (§ 271 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, as amended, which enacted subchapter IX (§ 281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+Act of February 7, 1927, referred to in text, is act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§ 281 et seq.) of chapter 3A of this title, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.

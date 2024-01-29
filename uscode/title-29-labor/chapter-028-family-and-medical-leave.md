@@ -305,6 +305,9 @@ Section effective 6 months after Feb. 5, 1993, except that, in the case of colle
 #### Regulations
 Pub. L. 111–84, div. A, title V, § 565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: “In prescribing regulations to carry out the amendments made by this subsection [amending this section and sections 2612 and 2613 of this title], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
 
+#### FMLA: Including Military Service in Determining Eligibility
+Pub. L. 118–31, div. A, title XI, § 1114(b), Dec. 22, 2023, 137 Stat. 432, provided that: “(1) In general.—A covered employee who has completed 12 months of service which qualifies as honorable active service in the Army, Navy, Air Force, Space Force, or Marine Corps of the United States shall be deemed to have met the service requirement in section 101(1)(A) [probably should be 101(2)(A)] of the Family and Medical Leave Act of 1993 [[29 U.S.C. 2611(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section2611/2/A&num=0&edition=prelim)], notwithstanding the requirements of such section 101(1)(A). “(2) Covered employee defined.—In this subsection, the term ‘covered employee’—“(A) includes—“(i) any Federal employee eligible for family and medical leave under the Family and Medical Leave Act of 1993 [[29 U.S.C. 2601](./chapter-028-family-and-medical-leave.md#section-2601) et seq.] based on their status as such an employee; “(ii) any Federal employee covered by the Congressional Accountability Act of 1995 [[2 U.S.C. 1301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1301&num=0&edition=prelim) et seq.] eligible for family and medical leave by operation of section 202 of such Act [[2 U.S.C. 1312](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1312&num=0&edition=prelim)]; “(iii) any Federal employee of the Executive Office of the President eligible for family and medical leave by operation of [section 412 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section412&num=0&edition=prelim), United States Code; and “(iv) any non-judicial employee of the District of Columbia courts and any employee of the District of Columbia Public Defender Service; and “(B) does not include any member of the Commissioned Corps of the Public Health Service or the Commissioned Corps of the National Oceanic and Atmospheric Administration, [sic]”
+
 
 <a id="section-2613"></a>
 ## § 2613. Leave requirement
@@ -412,7 +415,7 @@ Pub. L. 111–84, div. A, title V, § 565(a)(5), Oct. 28, 2009, 123 Stat. 2311, 
 The date the Emergency Family and Medical Leave Expansion Act takes effect, referred to in subsec. (a)(1)(F), is the effective date of div. C of Pub. L. 116–127, which is set out as an Effective Date note under [section 2620 of this title](./chapter-028-family-and-medical-leave.md#section-2620).
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
 2020—Subsec. (a)(1)(F). Pub. L. 116–127, § 3102(a)(1), added subpar. (F).
@@ -766,9 +769,9 @@ Section effective 6 months after Feb. 5, 1993, except that, in the case of colle
 ### Statutory Notes
 
 #### References in Text
-The Individuals with Disabilities Education Act, referred to in subsec. (b), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (b), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, which is classified generally to chapter 33 (§ 1400 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1400&num=0&edition=prelim) and Tables.
 
-The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
+The Civil Rights Act of 1964, referred to in subsec. (b), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241. Title VI of the Act is classified generally to subchapter V (§ 2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 2000a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2000a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2015—Subsec. (a)(1)(A). Pub. L. 114–95 made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim).

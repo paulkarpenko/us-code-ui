@@ -63,7 +63,7 @@ See Codification note set out under [section 4351 of this title](./chapter-324-s
 
     (iii) if the original Baseline Estimate was adjusted or revised pursuant to [section 4214(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4214/d/2&num=0&edition=prelim), such adjusted or revised estimate, along with the associated risk and sensitivity analysis of that estimate; and
 
-    (iv) the primary risk parameters associated with the current procurement cost for the program (as that term is used in section 4355(4) 11 See References in Text note below. of this title);
+    (iv) the primary risk parameters associated with the current procurement cost for the program (as that term is used in subsection (e)(4));
 
   (C) a summary of the history of significant developments from the date each major defense acquisition program or designated major subprogram included in the report was first included in a Selected Acquisition Report and program highlights since the last Selected Acquisition Report;
 
@@ -145,15 +145,14 @@ See Codification note set out under [section 4351 of this title](./chapter-324-s
 
 ### Statutory Notes
 
-#### References in Text
-Section 4355(4), referred to in subsec. (c)(1)(B)(iv), probably should be a reference to subsec. (e)(4) of this section. Prior to amendment by Pub. L. 116–283, such reference was to [section 2432(e)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2432/e/4&num=0&edition=prelim), which was initially transferred to [section 4355(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4355/4&num=0&edition=prelim) but, after amendment by Pub. L. 117–81, § 1701(o)(1)(B), was instead transferred to subsec. (e)(4) of this section.
-
 #### Codification
 Pub. L. 116–283, § 1849(a)–(l), which had initially directed the enactment of sections 4350 to 4358 of this title, the transfers of various subsections of [section 2432 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2432) to those new sections, and the subsequent repeal of section 2432, was amended by Pub. L. 117–81, § 1701(o)(1)–(5), by revising subsecs. (a) to (d), striking out subsecs. (e) to (k), and redesignating subsec. (l) as (e). After that amendment, those enactments and transfers were no longer directed. Instead, Pub. L. 116–283, § 1849(b), as amended by Pub. L. 117–81, directed the transfer of [section 2432 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2432) in its entirety to this section, thereby omitting what would have been sections 4350 and 4352 to 4358 of this title.
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+2023—Subsec. (c)(1)(B)(iv). Pub. L. 118–31 substituted “subsection (e)(4)” for “[section 4355(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4355/4&num=0&edition=prelim)”.
+
 2021—Pub. L. 116–283, § 1849(b), as amended by Pub. L. 117–81, § 1701(o)(1)(B), renumbered [section 2432 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2432) as this section. See Codification note above.
 
 Subsec. (c)(1)(A). Pub. L. 116–283, § 1849(c)(1), as amended by Pub. L. 117–81, § 1701(o)(3), substituted “section 4205” for “section 2431”.
@@ -351,7 +350,7 @@ Pub. L. 108–375, div. A, title VIII, § 801(c), Oct. 28, 2004, 118 Stat. 2004,
 Pub. L. 101–510, div. A, title XIV, § 1407(d), Nov. 5, 1990, 104 Stat. 1681, as amended by Pub. L. 102–25, title VII, § 704(a)(8), Apr. 6, 1991, 105 Stat. 119, provided that: “The amendments made by subsection (a) [amending this section] shall take effect with respect to Selected Acquisition Reports submitted under [section 2432 of title 10](./chapter-chapter-144-chapter-chapter-144.md#section-2432), United States Code [now [10 U.S.C. 4351](./chapter-324-selected-acquisition-reports.md#section-4351)], after December 31, 1991.”
 
 #### Effective Date of 1987 Amendment
-Amendment by section 1233(a)(1) of Pub. L. 100–180 applicable as if included in enactment of the Defense Technical Corrections Act of 1987, Pub. L. 100–26, see section 1233(c) of Pub. L. 100–180, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 1233(a)(1) of Pub. L. 100–180 applicable as if included in enactment of the Defense Technical Corrections Act of 1987, Pub. L. 100–26, see section 1233(c) of Pub. L. 100–180, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 Amendment by section 1314(a)(1) of Pub. L. 100–180 applicable as if included in enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986, Pub. L. 99–433, see section 1314(e) of Pub. L. 100–180, set out as a note under [section 743 of this title](./chapter-043-rank-and-command.md#section-743).
 
@@ -360,6 +359,9 @@ Pub. L. 99–500, § 101(c) [title X, § 961(c)], Oct. 18, 1986, 100 Stat. 1783�
 
 #### Effective Date
 Pub. L. 97–252, title XI, § 1107(c), Sept. 8, 1982, 96 Stat. 746, provided that: “Sections 139a [now [10 U.S.C. 4351](./chapter-324-selected-acquisition-reports.md#section-4351)] and 139b [see [10 U.S.C. 4371](./chapter-325-cost-growth-unit-cost-reports-nunn-mccurdy.md#section-4371) to 4375] of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 1983, and shall apply beginning with respect to reports for the first quarter of fiscal year 1983. The repeal made by subsection (b) [repealing section 811 of Pub. L. 94–106, formerly set out as a Reports to Congress of Acquisitions for Major Defense Systems note under [section 2431 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2431)] shall take effect on January 1, 1983.”
+
+#### Acquisition Reporting System
+Pub. L. 117–263, div. A, title VIII, § 809(a), (b), Dec. 23, 2022, 136 Stat. 2705, provided that: “(a) In General.—The Secretary of Defense shall institute a defense acquisition reporting system to replace the requirements of [section 4351 of title 10](./chapter-324-selected-acquisition-reports.md#section-4351), United States Code, as soon as practicable but not later than June 30, 2023. “(b) Elements.—The reporting system required under subsection (a) shall—“(1) produce the information necessary to carry out the actions specified in chapter 325 of title 10, United States Code; “(2) produce the information necessary to carry out the actions specified in sections 4217 and 4311 of the Atomic Energy Defense Act ([50 U.S.C. 2537](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2537&num=0&edition=prelim), 2577); “(3) incorporate—“(A) the lessons learned from the demonstration carried out under subsection (b) of section 805 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1816); and “(B) the plans required under subsection (c) of such section (Public Law 117–81; 135 Stat. 1817); “(4) provide the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and other designated Government entities with access to acquisition reporting that is updated on a not less than quarterly basis; and “(5) include such other information and functions as the Secretary of Defense determines appropriate to support the acquisition reporting needs of the Department of Defense.”
 
 #### Termination of Reporting Requirements
 For termination, effective Dec. 31, 2021, of provisions in this section requiring submittal of reports to Congress, see section 1051(x) of Pub. L. 115–91, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).

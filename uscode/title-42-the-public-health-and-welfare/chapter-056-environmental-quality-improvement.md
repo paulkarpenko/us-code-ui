@@ -33,7 +33,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-Public Law 91–190, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, 5 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
+Public Law 91–190, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 #### Short Title
 Pub. L. 91–224, title II, § 201, Apr. 3, 1970, 84 Stat. 114, provided that: “This title [enacting this chapter] may be cited as the ‘Environmental Quality Improvement Act of 1970’.”

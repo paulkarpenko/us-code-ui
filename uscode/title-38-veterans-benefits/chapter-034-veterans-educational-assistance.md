@@ -851,9 +851,12 @@ Prior to renumbering of sections 1651 to 1693 of this chapter as sections 3451 t
 <a id="section-3483"></a>
 ## § 3483. Approval of courses
 
-An eligible veteran shall receive the benefits of this chapter while enrolled in a course of education offered by an educational institution only if such course is approved in accordance with the provisions of subchapter I of chapter 36 of this title.
+An eligible veteran shall receive the benefits of this chapter while enrolled in a course of education offered by an educational institution only if such course is approved in accordance with the provisions of subchapter I 11 See References in Text note below. of chapter 36 of this title.
 
 ### Statutory Notes
+
+#### References in Text
+Subchapter I of chapter 36 of this title, referred to in text, was redesignated subchapter II (§ 3670 et seq.) of chapter 36 of this title by Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
 
 #### Amendments
 1991—Pub. L. 102–83 renumbered [section 1683 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1683&num=0&edition=prelim) as this section.
@@ -871,7 +874,7 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 
 <a id="section-3485"></a>
-## § 3485. Work-study allowance 11 See Payment of Work-Study Allowances During Emergency Situations note below.
+## § 3485. Work-study allowance
 **(a)**
 
 (1) In accordance with paragraph (4), individuals utilized under the authority of subsection (b) shall be paid an additional educational assistance allowance (hereinafter in this section referred to as “work-study allowance”). Such allowance shall be paid in return for an individual’s entering into an agreement described in paragraph (3).
@@ -974,7 +977,7 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 **(e)**
 
-(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 22 See References in Text note below. of such title).
+(1) Subject to paragraph (2) of this subsection, the Secretary may, notwithstanding any other provision of law, enter into an agreement with an individual under this section, or a modification of such an agreement, whereby the individual agrees to perform a qualifying work-study activity described in subsection (a)(5) and agrees that the Secretary shall, in lieu of paying the work-study allowance payable for such services, as provided in subsection (a) of this section, deduct the amount of the allowance from the amount which the individual has been determined to be indebted to the United States by virtue of such individual’s participation in a benefits program under this chapter, chapter 30, 31, 32, 33, 35, or 36 of this title, or chapter 1606 or 1607 of title 10 (other than an indebtedness arising from a refund penalty imposed under section 2135 11 See References in Text note below. of such title).
 
 (2)
 
@@ -998,6 +1001,18 @@ Any eligible veteran may pursue a program of apprenticeship or other on-job trai
 
 (4) The Secretary shall promulgate regulations to carry out this subsection.
 
+**(f)**
+
+(1) In case of an individual who is in receipt of work-study allowance pursuant to an agreement described in subsection (a)(3) as of the date on which an emergency situation occurs and who is unable to continue to perform qualifying work-study activities described in subsection (a)(4) by reason of the emergency situation—
+
+  (A) the Secretary may continue to pay work-study allowance under this section or make deductions described in subsection (e)(1) during the period of such emergency situation, notwithstanding the inability of the individual to perform such work-study activities by reason of such emergency situation; and
+
+  (B) at the option of the individual, the Secretary shall extend the agreement described in subsection (a)(3) with the individual for any subsequent period of enrollment initiated during the emergency situation, notwithstanding the inability of the individual to perform work-study activities described in subsection (a)(4) by reason of such emergency situation.
+
+(2) The amount of work-study allowance payable to an individual under paragraph (1)(A) during the period of an emergency situation shall be an amount determined by the Secretary but may not exceed the amount that would be payable under subsection (a)(2) if the individual worked 25 hours per week paid during such period.
+
+(3) The term “emergency situation” has the meaning given that term in [section 3601 of this title](./chapter-036-administration-of-educational-benefits.md#section-3601).
+
 ### Statutory Notes
 
 #### References in Text
@@ -1006,6 +1021,8 @@ The Higher Education Act of 1965, referred to in subsec. (a)(5)(H), is Pub. L. 8
 [Section 2135 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2135&num=0&edition=prelim), referred to in subsec. (e)(1), was renumbered [section 16135 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16135&num=0&edition=prelim), Armed Forces, by Pub. L. 103–337, div. A, title XVI, § 1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
+2023—Subsec. (f). Pub. L. 117–333 added subsec. (f).
+
 2021—Subsec. (a)(5)(K). Pub. L. 116–315, § 1006(a), which directed amendment of par. (4) by adding subpar. (K) at the end, was executed by adding subpar. (K) at the end of par. (5), to reflect the probable intent of Congress and the redesignation of former par. (4) as (5) by Pub. L. 116–154, § 6(a)(2). See 2020 Amendment note below.
 
 2020—Subsec. (a)(1). Pub. L. 116–154, § 6(a)(1), substituted “In accordance with paragraph (4), individuals” for “Individuals”.
@@ -1150,7 +1167,7 @@ Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L.
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Payment of Work-Study Allowances During Emergency Situations
-Pub. L. 116–140, § 3, Apr. 28, 2020, 134 Stat. 631, as amended by Pub. L. 117–76, § 5(f), Dec. 21, 2021, 135 Stat. 1520, provided that: “During the period beginning on March 1, 2020, and ending on June 1, 2022, the Secretary of Veterans Affairs shall apply [section 3485 of title 38](./chapter-034-veterans-educational-assistance.md#section-3485), United States Code, as if it were amended by adding at the end the following new subsection: “ ‘(f)(1) In case of an individual who is in receipt of work-study allowance pursuant to an agreement described in subsection (a)(3) as of the date on which an emergency situation occurs and who is unable to continue to perform qualifying work-study activities described in subsection (a)(4) by reason of the emergency situation— “ ‘(A) the Secretary may continue to pay work-study allowance under this section or make deductions described in subsection (e)(1) during the period of such emergency situation, notwithstanding the inability of the individual to perform such work-study activities by reason of such emergency situation; and “ ‘(B) at the option of the individual, the Secretary shall extend the agreement described in subsection (a)(3) with the individual for any subsequent period of enrollment initiated during the emergency situation, notwithstanding the inability of the individual to perform work-study activities described in subsection (a)(4) by reason of such emergency situation. “ ‘(2) The amount of work-study allowance payable to an individual under paragraph (1)(A) during the period of an emergency situation shall be an amount determined by the Secretary but may not exceed the amount that would be payable under subsection (a)(2) if the individual worked 25 hours per week paid during such period.’.”
+Pub. L. 116–140, § 3, Apr. 28, 2020, 134 Stat. 631, as amended by Pub. L. 117–76, § 5(f), Dec. 21, 2021, 135 Stat. 1520, which temporarily allowed for payment of work-study allowances during emergency situations, was repealed by Pub. L. 117–333, § 5(b), Jan. 5, 2023, 136 Stat. 6129. See subsec. (f) of this section.
 
 
 <a id="section-3486-3487"></a>

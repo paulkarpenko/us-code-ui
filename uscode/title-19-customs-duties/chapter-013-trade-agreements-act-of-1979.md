@@ -2,53 +2,12 @@
 title: 19
 chapter: '13'
 heading: TRADE AGREEMENTS ACT OF 1979
-section_count: 45
+section_count: 43
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19&num=0&edition=prelim
 ---
 <a id="section-2501"></a>
-## § 2501. Definitions
-
-Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2571), for purposes of this part—
-
-(1) **NAFTA** — The term “NAFTA” means the North American Free Trade Agreement.
-
-(2) **State** — The term “State” means any of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
-
-
-<a id="section-2502"></a>
-## § 2502. Notice of United States participation in international standard-setting activities
-**(a) In general** The President shall designate an agency to be responsible for informing the public of the sanitary and phytosanitary standard-setting activities of each international standard-setting organization.
-
-**(b) Notification** Not later than June 1 of each year, the agency designated under subsection (a) with respect to each international standard-setting organization shall publish notice in the Federal Register of the information specified in subsection (c) with respect to that organization. The notice shall cover the period ending on June 1 of the year in which the notice is published, and beginning on the date of the preceding notice under this subsection, except that the first such notice shall cover the 1-year period ending on the date of the notice.
-
-**(c) Required information** The information to be provided in the notice under subsection (b) is—
-
-(1) the sanitary or phytosanitary standards under consideration or planned for consideration by that organization;
-
-(2) for each sanitary or phytosanitary standard specified in paragraph (1)—
-
-  (A) a description of the consideration or planned consideration of the standard;
-
-  (B) whether the United States is participating or plans to participate in the consideration of the standard;
-
-  (C) the agenda for the United States participation, if any; and
-
-  (D) the agency responsible for representing the United States with respect to the standard.
-
-**(d) Public comment** The agency specified in subsection (c)(2)(D) shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
-
-### Statutory Notes
-
-#### Effective Date
-Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
-
-#### Designation of Agency
-Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).
-
-
-<a id="section-2502"></a>
-## § 2502. Equivalence determinations
+## § 2501. Equivalence determinations
 **(a) In general** An agency may not determine that a sanitary or phytosanitary measure of a foreign country is equivalent to a sanitary or phytosanitary measure established under the authority of Federal law unless the agency determines that the sanitary or phytosanitary measure of the foreign country provides at least the same level of sanitary or phytosanitary protection as the comparable sanitary or phytosanitary measure established under the authority of Federal law.
 
 **(b) FDA determination** If the Commissioner proposes to issue a determination of the equivalency of a sanitary or phytosanitary measure of a foreign country to a measure that is required to be promulgated as a rule under the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) et seq.) or other statute administered by the Food and Drug Administration, the Commissioner shall issue a proposed regulation to incorporate such determination and shall include in the notice of proposed rulemaking the basis for the determination that the sanitary or phytosanitary measure of a foreign country provides at least the same level of sanitary or phytosanitary protection as the comparable Federal sanitary or phytosanitary measure. The Commissioner shall provide opportunity for interested persons to comment on the proposed regulation. The Commissioner shall not issue a final regulation based on the proposal without taking into account the comments received.
@@ -58,7 +17,7 @@ Secretary of Agriculture designated under this section as official responsible f
 ### Statutory Notes
 
 #### References in Text
-The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (b) and (c), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (c). Pub. L. 104–295 substituted “phytosanitary” for “phystosanitary” before “measure of the Food and Drug Administration”.
@@ -165,14 +124,6 @@ This Act, referred to in text, is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, 
 <a id="section-2512"></a>
 ## § 2512. Purposes
 
-
-<a id="section-2513"></a>
-## § 2513. Purposes
-
-
-<a id="section-2514"></a>
-## § 2514. Congressional statement of purposes
-
 The purposes of this Act are—
 
 (1) to approve and implement the trade agreements negotiated under the Trade Act of 1974 [[19 U.S.C. 2101](./chapter-012-trade-act-of-1974.md#section-2101) et seq.];
@@ -188,11 +139,11 @@ The purposes of this Act are—
 #### References in Text
 This Act, referred to in provision preceding par. (1), is Pub. L. 96–39, July 26, 1979, 93 Stat. 144, known as the Trade Agreements Act of 1979. For complete classification of this Act to the Code, see References in Text note set out under [section 2501 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2501) and Tables.
 
-The Trade Act of 1974, referred to in par. (1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in par. (1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 
-<a id="section-2515"></a>
-## § 2515. Approval of trade agreements
+<a id="section-2513"></a>
+## § 2513. Approval of trade agreements
 **(a) Approval of agreements and statements of administrative action** In accordance with the provisions of sections 2112 and 2191 of this title, the Congress approves the trade agreements described in subsection (c) submitted to the Congress on June 19, 1979, and the statements of administrative action proposed to implement such trade agreements submitted to the Congress on that date.
 
 **(b) Acceptance of agreements by the President**
@@ -369,8 +320,8 @@ e. In accordance with section 601(a) of the Trade Agreements Act of 1979 (93 Sta
 Jimmy Carter.
 
 
-<a id="section-2516"></a>
-## § 2516. Relationship of trade agreements to United States law
+<a id="section-2514"></a>
+## § 2514. Relationship of trade agreements to United States law
 **(a) United States statutes to prevail in conflict** No provision of any trade agreement approved by the Congress under [section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/a&num=0&edition=prelim), nor the application of any such provision to any person or circumstance, which is in conflict with any statute of the United States shall be given effect under the laws of the United States.
 
 **(b) Implementing regulations** Regulations necessary or appropriate to carry out actions proposed in any statement of proposed administrative action submitted to the Congress under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112) to implement each agreement approved under [section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/a&num=0&edition=prelim) shall be issued within 1 year after the date of the entry into force of such agreement with respect to the United States.
@@ -413,8 +364,8 @@ As originally enacted section 3 of Pub. L. 96–39 consisted of subsecs. (a) to 
 Subsec. (c) of this section applicable as if United States-Canada Free-Trade Agreement, which entered into force on Jan. 1, 1989, were an agreement approved under [section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/a&num=0&edition=prelim), see section 102(e) of Pub. L. 100–449, set out in a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112).
 
 
-<a id="section-2517"></a>
-## § 2517. General authority to modify discriminatory purchasing requirements
+<a id="section-2515"></a>
+## § 2515. General authority to modify discriminatory purchasing requirements
 **(a) Presidential waiver of discriminatory purchasing requirements** Subject to subsection (f) of this section, the President may waive, in whole or in part, with respect to eligible products of any foreign country or instrumentality designated under subsection (b), and suppliers of such products, the application of any law, regulation, procedure, or practice regarding Government procurement that would, if applied to such products and suppliers, result in treatment less favorable than that accorded—
 
 (1) to United States products and suppliers of such products; or
@@ -774,8 +725,8 @@ Construction contracts—$6,500,000
 [For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.]
 
 
-<a id="section-2518"></a>
-## § 2518. Authority to encourage reciprocal competitive procurement practices
+<a id="section-2516"></a>
+## § 2516. Authority to encourage reciprocal competitive procurement practices
 **(a) Authority to bar procurement from non-designated countries**
 
 (1) **In general** — Subject to paragraph (2), the President, in order to encourage additional countries to become parties to the Agreement and to provide appropriate reciprocal competitive government procurement opportunities to United States products and suppliers of such products—
@@ -846,7 +797,7 @@ Subsec. (b)(1). Pub. L. 103–465, § 343(b)(1), amended par. (1) generally. Pri
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–465, title III, § 344, Dec. 8, 1994, 108 Stat. 4955, provided that: “(a) In General.—Except as provided in subsection (b), the amendments made by this subtitle [subtitle E (§§ 341–344 of title III of Pub. L. 103–465, amending this section and sections 2513 to 2515, 2517, and 2518 of this title, repealing [section 2516 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2516), and amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim), Agriculture] take effect on the date on which the Agreement on Government Procurement referred to in section 101(d)(17) [[19 U.S.C. 3511(d)(17)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim)] enters into force with respect to the United States [Jan. 1, 1995]. “(b) Section 342(g).—The amendments made by section 342(g) [amending provisions set out as a note under [section 903 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section903&num=0&edition=prelim)] take effect on the date on which the WTO Agreement enters into force with respect to the United States [Jan. 1, 1995].”
@@ -858,8 +809,8 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3), see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under [section 2511 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2511).
 
 
-<a id="section-2531"></a>
-## § 2531. Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft
+<a id="section-2517"></a>
+## § 2517. Waiver of discriminatory purchasing requirements with respect to purchases of civil aircraft
 
 The President may waive the application of the provisions of chapter 83 of title 41 in the case of any procurement of civil aircraft and related articles of a country or instrumentality which is a party to the Agreement on Trade in Civil Aircraft referred to in [section 2503(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/c&num=0&edition=prelim) and approved under [section 2503(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2503/a&num=0&edition=prelim). The President may modify or withdraw any waiver granted pursuant to this section.
 
@@ -881,8 +832,8 @@ Section effective July 26, 1979, but authority of President to grant waivers und
 Functions of President under this section delegated to United States Trade Representative, see section 1–103(b) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
 
-<a id="section-2532"></a>
-## § 2532. Expansion of the coverage of the Agreement
+<a id="section-2518"></a>
+## § 2518. Expansion of the coverage of the Agreement
 **(a) Overall negotiating objective** The President shall seek in the renegotiations provided for in article XXIV(7) of the Agreement more open and equitable market access abroad, and the harmonization, reduction, or elimination of devices which distort trade or commerce related to Government procurement, with the overall goal of maximizing the economic benefit to the United States through maintaining and enlarging foreign markets for products of United States agriculture, industry, mining, and commerce, the development of fair and equitable market opportunities, and open and nondiscriminatory world trade. In carrying out the provisions of this subsection, the President shall consider the assessment made in the report required under section 2516(a) 11 See References in Text note below. of this title.
 
 **(b) Sector negotiating objectives** The President shall seek, consistent with the overall objective set forth in subsection (a) and to the maximum extent feasible, with respect to appropriate product sectors, competitive opportunities for the export of United States products to the developed countries of the world equivalent to the competitive opportunities afforded by the United States, taking into account all barriers to, and other distortions of, international trade affecting that sector.
@@ -904,7 +855,7 @@ Functions of President under this section delegated to United States Trade Repre
 #### References in Text
 [Section 2516 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2516), referred to in subsec. (a), was repealed by Pub. L. 103–355, title VII, § 7206(c), Oct. 13, 1994, 108 Stat. 3382, and Pub. L. 103–465, title III, § 342(d), Dec. 8, 1994, 108 Stat. 4953.
 
-The Trade Act of 1974, referred to in subsec. (e), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 6 of title I of the Trade Act of 1974 is classified generally to part 6 of subchapter I (§ 2211 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (e), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 6 of title I of the Trade Act of 1974 is classified generally to part 6 of subchapter I (§ 2211 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Amendments
 1996—Subsec. (a). Pub. L. 104–295, § 20(c)(11)(A), struck out comma after “XXIV(7)”.
@@ -927,8 +878,8 @@ Functions of President under this section delegated to United States Trade Repre
 The Agreement on Government Procurement, as referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), entered into force with respect to the United States on Jan. 1, 1995. See note set out under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).
 
 
-<a id="section-2533"></a>
-## § 2533. Monitoring and enforcement
+<a id="section-2531"></a>
+## § 2531. Monitoring and enforcement
 **(a) Monitoring and enforcement structure recommendations** In the preparation of the recommendations for the reorganization of trade functions, the President shall ensure that careful consideration is given to monitoring and enforcing the requirements of the Agreement and this subchapter, with particular regard to the tendering procedures required by the Agreement or otherwise agreed to by a country or instrumentality likely to be designated pursuant to [section 2511(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2511/b&num=0&edition=prelim).
 
 **(b) Rules of origin**
@@ -1157,8 +1108,8 @@ Functions of President under subsec. (c) delegated to United States Trade Repres
 Functions of Secretary of the Treasury under subsec. (b) transferred to Secretary of Commerce, to exercise in consultation with Secretary of the Treasury, by section 5(a)(1)(A) of Reorg. Plan No. 3 of 1979, 44 F.R. 69274, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
 
-<a id="section-2541"></a>
-## § 2541. Repealed. Pub. L. 103–355, title VII, § 7206(c), Oct. 13, 1994, 108 Stat. 3382; Pub. L. 103–465, title III, § 342(d), Dec. 8, 1994, 108 Stat. 4953
+<a id="section-2532"></a>
+## § 2532. Repealed. Pub. L. 103–355, title VII, § 7206(c), Oct. 13, 1994, 108 Stat. 3382; Pub. L. 103–465, title III, § 342(d), Dec. 8, 1994, 108 Stat. 4953
 
 ### Statutory Notes
 
@@ -1168,8 +1119,8 @@ Section, Pub. L. 96–39, title III, § 306, July 26, 1979, 93 Stat. 240, relate
 Repeal by Pub. L. 103–465 effective on the date on which the Agreement on Government Procurement, referred to in [section 3511(d)(17) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3511/d/17&num=0&edition=prelim), enters into force with respect to the United States (Jan. 1, 1995), see section 344(a) of Pub. L. 103–465, set out as an Effective Date of 1994 Amendment note under [section 2512 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2512).
 
 
-<a id="section-2542"></a>
-## § 2542. Availability of information to Members of Congress designated as official advisers
+<a id="section-2533"></a>
+## § 2533. Availability of information to Members of Congress designated as official advisers
 
 The United States Trade Representative shall make available to the Members of Congress designated as official advisers pursuant to [section 2211 of this title](./chapter-012-trade-act-of-1974.md#section-2211) information compiled by the Committee on Government Procurement under article XIX(5) of the Agreement.
 
@@ -1185,8 +1136,8 @@ Amendment by Pub. L. 103–465 effective on the date on which the Agreement on G
 “United States Trade Representative” substituted in text for “Special Representative for Trade Negotiations” pursuant to Reorg. Plan No. 3 of 1979, § 1(1)(b), 44 F.R. 69273, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171). See, also, [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171) as amended by Pub. L. 97–456.
 
 
-<a id="section-2543"></a>
-## § 2543. Definitions
+<a id="section-2541"></a>
+## § 2541. Definitions
 
 As used in this subchapter—
 
@@ -1339,8 +1290,8 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 
-<a id="section-2544"></a>
-## § 2544. Certain standards-related activities
+<a id="section-2542"></a>
+## § 2542. Certain standards-related activities
 **(a) No bar to engaging in standards activity** Nothing in this subchapter may be construed—
 
 (1) to prohibit a Federal agency from engaging in activity related to standards-related measures, including any such measure relating to safety, the protection of human, animal, or plant life or health, the environment, or consumers; or
@@ -1361,8 +1312,8 @@ Pub. L. 103–465, title III, § 352, Dec. 8, 1994, 108 Stat. 4957, provided tha
 Pub. L. 96–39, title IV, § 454, July 26, 1979, 93 Stat. 250, which provided that this subchapter was to take effect on Jan. 1, 1980, if the Agreement on Technical Barriers to Trade entered into force with respect to the United States by that date, was repealed by Pub. L. 103–465, title III, § 351(g), Dec. 8, 1994, 108 Stat. 4957.
 
 
-<a id="section-2545"></a>
-## § 2545. Federal standards-related activities
+<a id="section-2543"></a>
+## § 2543. Federal standards-related activities
 
 No Federal agency may engage in any standards-related activity that creates unnecessary obstacles to the foreign commerce of the United States, including, but not limited to, standards-related activities that violate any of the following requirements:
 
@@ -1418,15 +1369,15 @@ No Federal agency may engage in any standards-related activity that creates unne
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
 
 
-<a id="section-2546"></a>
-## § 2546. State and private standards-related activities
+<a id="section-2544"></a>
+## § 2544. State and private standards-related activities
 **(a) In general** It is the sense of the Congress that no State agency and no private person should engage in any standards-related activity that creates unnecessary obstacles to the foreign commerce of the United States.
 
 **(b) Presidential action** The President shall take such reasonable measures as may be available to promote the observance by State agencies and private persons, in carrying out standards-related activities, of requirements equivalent to those imposed on Federal agencies under [section 2532 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2532), and of procedures that provide for notification, participation, and publication with respect to such activities.
 
 
-<a id="section-2547"></a>
-## § 2547. Functions of Trade Representative
+<a id="section-2545"></a>
+## § 2545. Functions of Trade Representative
 **(a) In general** The Trade Representative shall coordinate the consideration of international trade policy issues that arise as a result of, and shall develop international trade policy as it relates to, the implementation of this subchapter.
 
 **(b) Negotiating functions** The Trade Representative has responsibility for coordinating United States discussions and negotiations with foreign countries for the purpose of establishing mutual arrangements with respect to standards-related activities. In carrying out this responsibility, the Trade Representative shall inform and consult with any Federal agency having expertise in the matters under discussion and negotiation.
@@ -1445,8 +1396,8 @@ Subsec. (c). Pub. L. 104–295, § 21(b)(2), substituted “Trade Representative
 Subsecs. (a), (b). Pub. L. 103–182, § 351(b)(2)(A), as amended by Pub. L. 104–295, § 21(b)(1), substituted “Trade Representative” for “Special Representative” wherever appearing.
 
 
-<a id="section-2551"></a>
-## § 2551. Establishment and operation of technical offices
+<a id="section-2546"></a>
+## § 2546. Establishment and operation of technical offices
 **(a) Establishment**
 
 (1) **For nonagricultural products** — The Secretary of Commerce shall establish and maintain within the Department of Commerce a technical office that shall carry out the functions prescribed under subsection (b) with respect to nonagricultural products.
@@ -1461,8 +1412,8 @@ Subsecs. (a), (b). Pub. L. 103–182, § 351(b)(2)(A), as amended by Pub. L. 104
 Functions of President under subsec. (b) of this section delegated to Secretary of Commerce regarding technical office established under subsec. (a)(1) of this section, and to Secretary of Agriculture regarding technical office established under subsec. (a)(2) of this section, see section 1–103(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 990, set out as a note under [section 2171 of this title](./chapter-012-trade-act-of-1974.md#section-2171).
 
 
-<a id="section-2552"></a>
-## § 2552. Representation of United States interests before international standards organizations
+<a id="section-2547"></a>
+## § 2547. Representation of United States interests before international standards organizations
 **(a) Oversight and consultation** The Secretary concerned shall—
 
 (1) inform, and consult and coordinate with, the Trade Representative with respect to international standards-related activities identified under paragraph (2);
@@ -1508,8 +1459,8 @@ Functions of President under subsec. (b) of this section delegated to Secretary 
 1993—Subsec. (a)(1). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
 
-<a id="section-2553"></a>
-## § 2553. Standards information center
+<a id="section-2551"></a>
+## § 2551. Standards information center
 **(a) Establishment** The Secretary of Commerce shall maintain within the Department of Commerce a standards information center.
 
 **(b) Functions** The standards information center shall—
@@ -1555,8 +1506,8 @@ Amendment by section 351(d) of Pub. L. 103–465 effective on the date on which 
 Amendment by section 431(a) of Pub. L. 103–465 effective on the date of entry into force of the WTO Agreement with respect to the United States [Jan. 1, 1995], except as otherwise provided, see section 451 of Pub. L. 103–465, set out as an Effective Date note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
 
 
-<a id="section-2554"></a>
-## § 2554. Contracts and grants
+<a id="section-2552"></a>
+## § 2552. Contracts and grants
 **(a) In general** For purposes of carrying out this subchapter, and otherwise encouraging compliance with the Agreement, the Trade Representative and the Secretary concerned may each, with respect to functions for which responsible under this subchapter, make grants to, or enter into contracts with, any other Federal agency, any State agency, or any private person, to assist such agency or person to implement appropriate programs and activities, including, but not limited to, programs and activities—
 
 (1) to increase awareness of proposed and adopted standards-related activities;
@@ -1582,8 +1533,8 @@ No contract entered into under this section shall be effective except to such ex
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 
 
-<a id="section-2561"></a>
-## § 2561. Technical assistance
+<a id="section-2553"></a>
+## § 2553. Technical assistance
 
 The Trade Representative and the Secretary concerned may each, with respect to functions for which responsible under this subchapter, make available, on a reimbursable basis or otherwise, to any other Federal agency, State agency, or private person such assistance, including, but not limited to, employees, services, and facilities, as may be appropriate to assist such agency or person in carrying out standards-related activities in a manner consistent with this subchapter.
 
@@ -1595,8 +1546,8 @@ The Trade Representative and the Secretary concerned may each, with respect to f
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
 
-<a id="section-2562"></a>
-## § 2562. Consultations with representatives of domestic interests
+<a id="section-2554"></a>
+## § 2554. Consultations with representatives of domestic interests
 
 In carrying out the functions for which responsible under this subchapter, the Trade Representative and the Secretary concerned shall solicit technical and policy advice from the committees, established under [section 2155 of this title](./chapter-012-trade-act-of-1974.md#section-2155), that represent the interests concerned, and may solicit advice from appropriate State agencies and private persons.
 
@@ -1608,14 +1559,14 @@ In carrying out the functions for which responsible under this subchapter, the T
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
 
-<a id="section-2571"></a>
-## § 2571. Right of action
+<a id="section-2561"></a>
+## § 2561. Right of action
 
 Except as provided under this subpart, the provisions of this part do not create any right of action under the laws of the United States with respect to allegations that any standards-related activity engaged in within the United States violates the obligations of the United States under the Agreement.
 
 
-<a id="section-2572"></a>
-## § 2572. Representations
+<a id="section-2562"></a>
+## § 2562. Representations
 
 Any—
 
@@ -1632,8 +1583,8 @@ may make a representation to the Trade Representative alleging that a standards-
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 
 
-<a id="section-2573"></a>
-## § 2573. Action after receipt of representations
+<a id="section-2571"></a>
+## § 2571. Action after receipt of representations
 **(a) Review** Upon receipt of any representation made under [section 2552 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2552), the Trade Representative shall review the issues concerned in consultation with—
 
 (1) the agency or person alleged to be engaging in violations under the Agreement;
@@ -1654,15 +1605,15 @@ may make a representation to the Trade Representative alleging that a standards-
 1993—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
 
 
-<a id="section-2575"></a>
-## § 2575. Procedure after finding by international forum
+<a id="section-2572"></a>
+## § 2572. Procedure after finding by international forum
 **(a) In general** If an appropriate international forum finds that a standards-related activity being engaged in within the United States conflicts with the obligations of the United States under the Agreement, the interagency trade organization established under [section 1872(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1872/a&num=0&edition=prelim) shall review the finding and the matters related thereto with a view to recommending appropriate action.
 
 **(b) Cross reference** For provisions of law regarding remedies available to domestic persons alleging that standards activities engaged in by Parties to the Agreement (other than the United States) violate the obligations of the Agreement, see [section 2411 of this title](./chapter-012-trade-act-of-1974.md#section-2411).
 
 
-<a id="section-2575a"></a>
-## § 2575a. Findings of reciprocity required in administrative proceedings
+<a id="section-2573"></a>
+## § 2573. Findings of reciprocity required in administrative proceedings
 **(a) In general** Except as provided under subpart 1, no Federal agency may consider a complaint or petition against any standards-related activity regarding an imported product, if that activity is engaged in within the United States and is covered by the Agreement, unless the Trade Representative finds, and informs the agency concerned in writing, that—
 
 (1) the country of origin of the imported product is a Party to the Agreement or a foreign country described in [section 2552(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2552/2&num=0&edition=prelim); and
@@ -1684,14 +1635,14 @@ This section does not apply with respect to petitions and proceedings that are p
 1993—Subsec. (a). Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
 
 
-<a id="section-2575b"></a>
-## § 2575b. Consideration of standards-related activities by an international forum
+<a id="section-2575"></a>
+## § 2575. Consideration of standards-related activities by an international forum
 
 No standards-related activity being engaged in within the United States may be stayed in any judicial or administrative proceeding on the basis that such activity is currently being considered, pursuant to the Agreement, by an international forum.
 
 
-<a id="section-2576"></a>
-## § 2576. Definitions
+<a id="section-2575a"></a>
+## § 2575a. Definitions
 
 As used in this subchapter—
 
@@ -1799,8 +1750,8 @@ Pars. (17), (18). Pub. L. 103–465, § 351(e)(9), added par. (17) and redesigna
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
 
 
-<a id="section-2576a"></a>
-## § 2576a. Exemptions
+<a id="section-2575b"></a>
+## § 2575b. Exemptions
 
 This subchapter does not apply to—
 
@@ -1809,8 +1760,8 @@ This subchapter does not apply to—
 (2) any standards activity engaged in by any private person solely for use in the production or consumption of products by that person.
 
 
-<a id="section-2576b"></a>
-## § 2576b. Reports to Congress on operation of agreement
+<a id="section-2576"></a>
+## § 2576. Reports to Congress on operation of agreement
 
 As soon as practicable after the close of the 3-year period beginning on the date on which this subchapter takes effect, and as soon as practicable after the close of each succeeding 3-year period through 2001, the Trade Representative shall prepare and submit to Congress a report containing an evaluation of the operation of the Agreement, both domestically and internationally, during the period.
 
@@ -1827,8 +1778,8 @@ As soon as practicable after the close of the 3-year period beginning on the dat
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States (Jan. 1, 1995), see section 352 of Pub. L. 103–465, set out as a note under [section 2531 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2531).
 
 
-<a id="section-2577"></a>
-## § 2577. General
+<a id="section-2576a"></a>
+## § 2576a. General
 
 Nothing in this subpart may be construed—
 
@@ -1837,8 +1788,8 @@ Nothing in this subpart may be construed—
 (2) to limit the authority of a Federal agency or State agency to determine the level of protection of human, animal, or plant life or health the agency considers appropriate.
 
 
-<a id="section-2578"></a>
-## § 2578. Inquiry point
+<a id="section-2576b"></a>
+## § 2576b. Inquiry point
 
 The standards information center maintained under [section 2544 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2544) shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
@@ -1851,8 +1802,8 @@ The standards information center maintained under [section 2544 of this title](.
 (4) the location of notices of the type required under article 719 of the NAFTA, or where the information contained in such notices can be obtained.
 
 
-<a id="section-2578a"></a>
-## § 2578a. Subpart definitions
+<a id="section-2577"></a>
+## § 2577. Subpart definitions
 
 Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2571), for purposes of this subpart—
 
@@ -1908,8 +1859,8 @@ Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-
     (viii) a quarantine treatment, such as a relevant requirement associated with the transportation of animals or plants or with material necessary for their survival during transportation.
 
 
-<a id="section-2578b"></a>
-## § 2578b. General
+<a id="section-2578"></a>
+## § 2578. General
 **(a) No bar to engaging in standards activity** Nothing in this subpart shall be construed—
 
 (1) to prohibit a Federal agency from engaging in activity related to standards-related measures, including any such measure relating to safety, the protection of human, animal, or plant life or health, the environment or consumers; or
@@ -1923,8 +1874,8 @@ Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-
 (2) sanitary or phytosanitary measures under subpart 1.
 
 
-<a id="section-2581"></a>
-## § 2581. Inquiry point
+<a id="section-2578a"></a>
+## § 2578a. Inquiry point
 
 The standards information center maintained under [section 2544 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2544) shall, in addition to the functions specified therein, make available to the public relevant documents, at such reasonable fees as the Secretary of Commerce may prescribe, and information regarding—
 
@@ -1935,8 +1886,8 @@ The standards information center maintained under [section 2544 of this title](.
 (3) the Federal agency procedures for assessment of risk, and factors the agency considers in conducting the assessment and establishing the levels of protection that the agency considers appropriate.
 
 
-<a id="section-2582"></a>
-## § 2582. Subpart definitions
+<a id="section-2578b"></a>
+## § 2578b. Subpart definitions
 
 Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2571), for purposes of this subpart—
 
@@ -1988,3 +1939,44 @@ Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-
   set out in a document, including applicable administrative, explanatory, and other related provisions, with which compliance is mandatory.
 
 (8) **Telecommunications service** — The term “telecommunications service” means a service provided by means of the transmission and reception of signals by any electromagnetic means, but does not mean the cable, broadcast, or other electromagnetic distribution of radio or television programming to the public generally.
+
+
+<a id="section-2581"></a>
+## § 2581. Definitions
+
+Notwithstanding [section 2571 of this title](./chapter-013-trade-agreements-act-of-1979.md#section-2571), for purposes of this part—
+
+(1) **NAFTA** — The term “NAFTA” means the North American Free Trade Agreement.
+
+(2) **State** — The term “State” means any of the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+
+
+<a id="section-2582"></a>
+## § 2582. Notice of United States participation in international standard-setting activities
+**(a) In general** The President shall designate an agency to be responsible for informing the public of the sanitary and phytosanitary standard-setting activities of each international standard-setting organization.
+
+**(b) Notification** Not later than June 1 of each year, the agency designated under subsection (a) with respect to each international standard-setting organization shall publish notice in the Federal Register of the information specified in subsection (c) with respect to that organization. The notice shall cover the period ending on June 1 of the year in which the notice is published, and beginning on the date of the preceding notice under this subsection, except that the first such notice shall cover the 1-year period ending on the date of the notice.
+
+**(c) Required information** The information to be provided in the notice under subsection (b) is—
+
+(1) the sanitary or phytosanitary standards under consideration or planned for consideration by that organization;
+
+(2) for each sanitary or phytosanitary standard specified in paragraph (1)—
+
+  (A) a description of the consideration or planned consideration of the standard;
+
+  (B) whether the United States is participating or plans to participate in the consideration of the standard;
+
+  (C) the agenda for the United States participation, if any; and
+
+  (D) the agency responsible for representing the United States with respect to the standard.
+
+**(d) Public comment** The agency specified in subsection (c)(2)(D) shall provide an opportunity for public comment with respect to the standards for which the agency is responsible and shall take the comments into account in participating in the consideration of the standards and in proposing matters to be considered by the organization.
+
+### Statutory Notes
+
+#### Effective Date
+Section effective on the date of entry into force of the WTO Agreement with respect to the United States (Jan. 1, 1995), except as otherwise provided, see section 451 of Pub. L. 103–465, set out as a note under [section 3601 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3601).
+
+#### Designation of Agency
+Secretary of Agriculture designated under this section as official responsible for informing public of sanitary and phytosanitary standard-setting activities of each international standard-setting organization, see par. (4) of Proc. No. 6780, Mar. 23, 1995, 60 F.R. 15847, set out as a note under [section 3511 of this title](./chapter-022-uruguay-round-trade-agreements.md#section-3511).

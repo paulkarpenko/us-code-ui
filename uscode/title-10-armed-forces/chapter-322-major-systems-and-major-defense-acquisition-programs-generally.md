@@ -1151,7 +1151,7 @@ Section applicable with respect to major defense acquisition programs that reach
 
 (5) Advising acquisition officials on performance issues regarding a major defense acquisition program that may arise—
 
-  (A) before certification under sections 4736 11 So in original. Probably should be “4376”. and 4377 of this title;
+  (A) before certification under sections 4376 and 4377 of this title;
 
   (B) before entry into full-rate production; or
 
@@ -1163,7 +1163,7 @@ Section applicable with respect to major defense acquisition programs that reach
 
 (2) The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
 
-**(d) Root Cause Analyses.—** For purposes of this section and sections 4736 1 and 4377 of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
+**(d) Root Cause Analyses.—** For purposes of this section and sections 4736 11 So in original. Probably should be “4376”. and 4377 of this title, a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
 
 (1) unrealistic performance expectations;
 
@@ -1189,6 +1189,8 @@ Section applicable with respect to major defense acquisition programs that reach
 Section 103 of Pub. L. 111–23, formerly set out as a note under [section 2430 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2430), which was transferred to chapter 144 of this title, renumbered as section 2438, and amended by Pub. L. 111–383, § 901(d), (k)(1)(F), and subsequently renumbered as this section and amended by Pub. L. 116–283, § 1847(e)(3), was based on Pub. L. 111–23, title I, § 103, May 22, 2009, 123 Stat. 1715.
 
 #### Amendments
+2023—Subsec. (b)(5)(A). Pub. L. 118–31 substituted “sections 4376” for “sections 4736”.
+
 2021—Pub. L. 116–283, § 1847(e)(3), renumbered [section 2438 of this title](./chapter-chapter-144-chapter-chapter-144.md#section-2438) as this section.
 
 Subsec. (b)(2). Pub. L. 116–283, § 1847(e)(3)(A), as amended by Pub. L. 117–81, § 1701(b)(16)(B), substituted “section 4376(a)(1)” for “section 2433a(a)(1)”.

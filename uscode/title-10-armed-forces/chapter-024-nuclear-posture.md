@@ -2,7 +2,7 @@
 title: 10
 chapter: '24'
 heading: NUCLEAR POSTURE
-section_count: 13
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -20,9 +20,9 @@ source: >-
 
 **(b) Annual Briefings.—** Not later than March 15 of each year, the Secretary of Defense shall provide to the congressional defense committees a briefing regarding the nuclear weapons employment strategy, plans, and options of the United States.
 
-**(c) Reports on 2010 Nuclear Posture Review Implementation Study Decisions.—** During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
+**(c) Reports on Nuclear Posture Review Implementation Study Decisions.—** During each of fiscal years 2022 through 2031, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to a Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
 
-(1) ensure that the annual report required under section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576) is transmitted to Congress, if so required;
+(1) ensure that the report required by [section 492a of this title](./chapter-024-nuclear-posture.md#section-492a) is transmitted to Congress, if so required under such section;
 
 (2) ensure that the report required under [section 494(a)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section494/a/2/A&num=0&edition=prelim) is transmitted to Congress, if so required under such section; and
 
@@ -33,10 +33,13 @@ source: >-
 #### Codification
 Section was formerly part of chapter 23 of this title, prior to being transferred to this chapter by Pub. L. 112–239, § 1031(a)(1).
 
-#### References in Text
-Section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (c)(1), is section 1043(a)(1) of title X of Pub. L. 112–81, div. A, Dec. 31, 2011, 125 Stat. 1579, which is not classified to the Code.
-
 #### Amendments
+2023—Subsec. (c). Pub. L. 118–31 substituted “pursuant to a” for “pursuant to the a” in introductory provisions.
+
+2022—Subsec. (c). Pub. L. 117–263, § 1637(1), (2), struck out “2010” after “Reports on” in heading and substituted “2022 through 2031” for “2012 through 2021” and “a” for “2010” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 117–263, § 1637(3), added par. (1) and struck out former par. (1) which read as follows: “ensure that the annual report required under section 1043(a)(1) of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576) is transmitted to Congress, if so required;”.
+
 2014—Subsec. (c)(3). Pub. L. 113–291 substituted “([50 U.S.C. 3003(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3003/4&num=0&edition=prelim))” for “([50 U.S.C. 401a(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section401a/4&num=0&edition=prelim))”.
 
 2013—Pub. L. 112–239, § 1031(a)(2)(A)–(D), inserted “weapons” after “Nuclear” in section catchline, substituted “nuclear weapons employment strategy” for “nuclear employment strategy” in two places in introductory provisions and “to the nuclear weapons employment strategy, plans, and options of” for “to nuclear employment strategy of” in par. (1), and added par. (4).
@@ -58,6 +61,9 @@ Pub. L. 112–239, § 1031(a)(2)(F), added subsec. (c).
 Subsec. (d). Pub. L. 113–66, § 1052(b)(2), redesignated subsec. (d) as (c).
 
 Pub. L. 112–239, § 1032(b), added subsec. (d).
+
+#### Congressional Notification of Nuclear Cooperation Between Russia and China
+Pub. L. 118–31, div. A, title XVI, § 1649, Dec. 22, 2023, 137 Stat. 601, provided that: “If the Commander of the United States Strategic Command determines, after consultation with the Director of the Defense Intelligence Agency, that militarily significant cooperation between the Russian Federation and the People’s Republic of China related to nuclear or strategic capabilities is likely to occur or has likely occurred, the Commander shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification of such determination that includes— “(1) a description of the military significant cooperation; and “(2) an assessment of the implication of such cooperation for the United States with respect to nuclear deterrence, extended deterrence, assurance, and defense.”
 
 #### Plan To Train Officers in Nuclear Command, Control, and Communications
 Pub. L. 115–232, div. A, title XVI, § 1668, Aug. 13, 2018, 132 Stat. 2156, provided that: “(a) In General.—The Secretary of Defense, in consultation with the Secretary of the Air Force, the Secretary of the Navy, the Chairman of the Joint Chiefs of Staff, and the Commander of the United States Strategic Command, shall develop a plan to train, educate, manage, and track officers of the Armed Forces in nuclear command, control, and communications. “(b) Elements.—The plan required by subsection (a) shall address—“(1) manpower requirements at various grades; “(2) desired career paths and promotion timing; and “(3) any other matters the Secretary of Defense considers relevant to develop a mature cadre of officers with nuclear command, control, and communications expertise. “(c) Submission of Plan.—Not later than 180 days after the date of the enactment of this Act [Aug. 13, 2018], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives the plan required by subsection (a). “(d) Implementation.—Not later than 18 months after the date of the enactment of this Act, the Secretary of Defense shall implement the plan required by subsection (a).”
@@ -164,7 +170,7 @@ Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as
 ## § 492a. Annual report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system
 **(a) Report Required.—**
 
-(1) **In general.—** — Not later than 30 days after the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for each of fiscal years 2013 through 2024, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
+(1) **In general.—** — Not later than 30 days after the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for each of fiscal years 2013 through 2029, the President, in consultation with the Secretary of Defense and the Secretary of Energy, shall transmit to the congressional defense committees, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives a detailed report on the plan for the nuclear weapons stockpile, nuclear weapons complex, nuclear weapons delivery systems, and nuclear weapons command and control system.
 
 (2) **Elements.—** — Each report required under paragraph (1) shall include the following:
 
@@ -220,12 +226,40 @@ Pub. L. 112–81, div. A, title X, § 1041(b), Dec. 31, 2011, 125 Stat. 1574, as
 
 (2) submit to the congressional defense committees a summary of each such review.
 
+**(d) Independent Assessment by United States Strategic Command.—**
+
+(1) **In general.—** — Not later than 150 days after the submission to Congress of the budget of the President under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), for each fiscal year the Commander of United States Strategic Command shall complete an independent assessment of any operational effects of the sufficiency of the execution, as of the date of the assessment, of the acquisition, construction, and recapitalization programs of the Department of Defense and the National Nuclear Security Administration to modernize the nuclear forces of the United States and meet current and future deterrence requirements.
+
+(2) **Contents.—** — Each assessment required under paragraph (1) shall include an evaluation of the ongoing execution of modernization programs associated with—
+
+  (A) the nuclear weapons design, production, and sustainment infrastructure;
+
+  (B) the nuclear weapons stockpile;
+
+  (C) the delivery systems for nuclear weapons; and
+
+  (D) the nuclear command, control, and communications system.
+
+(3) **Routing and submission.—**
+
+  (A) *Submission to nuclear weapons council.—* — Not later than 15 days after completion of an assessment required by paragraph (1), the Commander of United States Strategic Command shall—
+
+    (i) submit the assessment to the Chairman of the Nuclear Weapons Council; and
+
+    (ii) notify the congressional defense committees that the assessment has been submitted to the Chairman of the Nuclear Weapons Council.
+
+  (B) *Submission to congress.—* — Not later than 15 days after the Chairman of the Nuclear Weapons Council receives an assessment required by paragraph (1), the Chairman shall transmit the assessment, without change, to the congressional defense committees.
+
 ### Statutory Notes
 
 #### Codification
 Section, as added and amended by Pub. L. 116–92, is based on Pub. L. 112–81, div. A, title X, § 1043, Dec. 31, 2011, 125 Stat. 1576, as amended by Pub. L. 112–239, div. A, title X, § 1041(a), Jan. 2, 2013, 126 Stat. 1931; Pub. L. 113–66, div. A, title X, § 1054, Dec. 26, 2013, 127 Stat. 861; Pub. L. 113–291, div. A, title XVI, § 1643, Dec. 19, 2014, 128 Stat. 3650; Pub. L. 115–91, div. A, title XVI, § 1665, Dec. 12, 2017, 131 Stat. 1767; Pub. L. 115–232, div. A, title XVI, § 1670, Aug. 13, 2018, 132 Stat. 2157; Pub. L. 116–92, div. A, title XVI, § 1665(a), (b), Dec. 20, 2019, 133 Stat. 1773, which was transferred to this chapter and renumbered as this section.
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
+
+2022—Subsec. (a)(1). Pub. L. 117–263 substituted “2029” for “2024”.
+
 2021—Subsec. (c)(1). Pub. L. 116–283, § 1633(1), substituted “periodically review reports submitted” for “review each report”.
 
 Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 days after the date on which such report under subsection (a) is submitted,” before “submit to the congressional defense committees”.
@@ -233,6 +267,34 @@ Subsec. (c)(2). Pub. L. 116–283, § 1633(2), struck out “not later than 180 
 2019—Pub. L. 116–92, § 1665(c)(1)(D), conformed section designation and catchline to the style of this title.
 
 Pub. L. 116–92, § 1665(c)(1)(A)–(C), transferred section 1043 of Pub. L. 112–81, as amended, to this chapter and renumbered it as this section. See Codification note above.
+
+
+<a id="section-492b"></a>
+## § 492b. Biannual briefing on nuclear weapons and related activities
+**(a) In General.—** On or about May 1 and November 1 of each year, the officials specified in subsection (b) shall provide to the Committees on Armed Services of the Senate and the House of Representatives a briefing on matters relating to nuclear weapons policies, operations, technology development, and other similar topics as requested by such committees.
+
+**(b) Officials Specified.—** The officials specified in this subsection are the following:
+
+(1) The Assistant Secretary of Defense for Acquisition.
+
+(2) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
+
+(3) The Assistant Secretary of Defense for Space Policy.
+
+(4) The Deputy Administrator for Defense Programs of the National Nuclear Security Administration.
+
+(5) The Director for Strategy, Plans, and Policy of the Joint Staff.
+
+(6) The Director for Capability and Resource Integration for the United States Strategic Command.
+
+**(c) Delegation.—** An official specified in subsection (b) may delegate the authority to provide a briefing under subsection (a) to a member of the Senior Executive Service who reports to the official.
+
+**(d) Termination.—** The requirement to provide a briefing under subsection (a) shall terminate on January 1, 2028.
+
+### Statutory Notes
+
+#### Codification
+As enacted by Pub. L. 117–263, “SEC.” preceding section designation and catchline text were editorially conformed to the style used in this title.
 
 
 <a id="section-493"></a>
@@ -254,6 +316,31 @@ Pub. L. 112–239, § 1031(b)(3)(B)(iv), as amended by Pub. L. 113–66, § 1091
 
 #### Effective Date of 2013 Amendment
 Pub. L. 113–66, div. A, title X, § 1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(5) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+
+
+<a id="section-493a"></a>
+## § 493a. Industrial base monitoring for B–21 and Sentinel programs
+**(a) Designation.—** The Secretary of the Air Force, acting through the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, shall designate a senior official, who shall report to the Assistant Secretary, to monitor the combined industrial base supporting the acquisition of—
+
+(1) B–21 aircraft; and
+
+(2) the Sentinel intercontinental ballistic missile weapon system.
+
+**(b) Requirements for Monitoring.—** In monitoring the combined industrial base described in subsection (a), the senior official designated under such subsection shall—
+
+(1) have the authority to select staff to assist the senior official from among civilian employees of the Department and members of the armed forces, who may provide such assistance concurrently while serving in another position;
+
+(2) monitor the acquisition by the combined industrial base of—
+
+  (A) materials, technologies, and components associated with nuclear weapons systems; and
+
+  (B) commodities purchased on a large scale;
+
+(3) monitor the hiring or contracting by the combined industrial base of personnel with critical skills; and
+
+(4) assess whether personnel with critical skills and knowledge, intellectual property on manufacturing processes, and facilities and equipment necessary to design, develop, manufacture, repair, and support a program are available and affordable within the scopes of the B–21 aircraft program and the Sentinel intercontinental ballistic missile weapon system program.
+
+**(c) Annual Report.—** At the same time as the submission of the budget of the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for a fiscal year, the Secretary shall submit to the congressional defense committees a report with respect to the status of the combined industrial base described in subsection (a).
 
 
 <a id="section-494"></a>
@@ -383,7 +470,7 @@ Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 113–66 substituted “December 31, 20
 
 Subsec. (d). Pub. L. 112–239, § 1034, added subsec. (d).
 
-#### Effective date of 2013 Amendment
+#### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: “The amendment made by paragraph (1)(D) [amending this section] shall take effect on October 1, 2012.”
 
 #### Termination of Reporting Requirements
@@ -401,7 +488,7 @@ Pub. L. 113–291, div. A, title XVI, § 1644, Dec. 19, 2014, 128 Stat. 3651, pr
 Pub. L. 113–66, div. A, title X, § 1056(a)(2), (3), (f), Dec. 26, 2013, 127 Stat. 862–864, provided that: “(a) Implementation.—“(2) Consolidated budget display.—The Secretary [of Defense] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code, at or about the time as such defense budget materials are submitted. “(3) Fiscal year specified.—A fiscal year specified in this paragraph is each fiscal year that occurs during the period beginning with fiscal year 2015 and ending on the date on which the New START Treaty is no longer in force. “(f) Definitions.—In this section:“(1) The term ‘defense budget materials’ has the meaning given that term in [section 231(f) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim), United States Code. “(2) The term ‘New START Treaty’ means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.”
 
 #### “Congressional Defense Committees” Defined
-Congressional defense committees has the meaning given that term in [section 101(a)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), see section 3 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1316. See also note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Congressional defense committees has the meaning given that term in [section 101(a)(16) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim), see section 3 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1316. See also note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Delegation of Reporting Functions Specified in Section 1045 of the National Defense Authorization Act for Fiscal Year 2012, and Condition 9 of the Resolution of Advice and Consent to Ratification of the Treaty Between the United States of America and the Russian Federation on the Measures for the Further Reduction and Limitation of Strategic Offensive Arms (the “New START Treaty”)
 Memorandum of President of the United States, Mar. 16, 2012, 77 F.R. 16649, provided:
@@ -444,7 +531,7 @@ Barack Obama.
 
 (5) maintaining the nuclear command and control system (as first reported under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 (Public Law 112–81; 125 Stat. 1576)).
 
-**(b) Additional Report Matters Following Certain Certifications.—** If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
+**(b) Additional Report Matters Following Certain Certifications.—** If in any year prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011 (commonly referred to as the “New START Treaty”), the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 492(a) 11 See References in Text note below. of this title the following:
 
 (1) A determination of whether or not the lack of full funding will result in a loss of military capability when compared with the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010.
 
@@ -485,9 +572,13 @@ Barack Obama.
 #### References in Text
 Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsecs. (a) and (b)(1), is section 1251 of Pub. L. 111–84, which is set out as a note under [section 2523 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2523&num=0&edition=prelim), War and National Defense.
 
-Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsecs. (a)(5) and (b), is section 1043 of title X of div. A of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
+Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (a)(5), is section 1043 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1576, which is not classified to the Code.
+
+[Section 492(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section492/a&num=0&edition=prelim), referred to in subsec. (b), relates to biennial assessments by certain military officials of delivery platforms for nuclear weapons and the nuclear command and control system. [Section 492a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section492a/a&num=0&edition=prelim) requires the President to transmit annual reports to Congress on certain nuclear matters.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31, in introductory provisions, substituted “prior to the expiration of the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011 (commonly referred to as the ‘New START Treaty’),” for “before fiscal year 2020” and “492(a) of this title” for “1043 of the National Defense Authorization Act for Fiscal Year 2012”.
+
 2018—Subsec. (a). Pub. L. 115–232 substituted “The” for “Beginning in fiscal year 2013, the” in introductory provisions.
 
 2013—Subsec. (c)(3). Pub. L. 112–240 substituted “whether the Russian Federation” for “that the Russian Federation” and inserted “strategic” before “arms control obligations”.
@@ -495,8 +586,11 @@ Section 1043 of the National Defense Authorization Act for Fiscal Year 2012, ref
 #### Effective Date of 2013 Amendment
 Pub. L. 112–240, title VIII, § 801(b), Jan. 2, 2013, 126 Stat. 2369, provided that: “The amendments made by subsection (a) [amending this section] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 [Pub. L. 112–239].”
 
+#### Congressional Notification of Decision To Delay Strategic Delivery System Test Event
+Pub. L. 118–31, div. A, title XVI, § 1648, Dec. 22, 2023, 137 Stat. 600, provided that: “(a) Notification.—Not later than five days after the Secretary of Defense makes a decision to delay a scheduled test event for a strategic delivery system, the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] written notice of such decision. “(b) Report.—“(1) In general.—Except as provided in paragraph (3), not later than 60 days after the submission of a notification required under subsection (a) with respect to a decision to delay a scheduled test event, the Secretary shall submit to the congressional defense committees a report on the decision. “(2) Elements required.—A report submitted under paragraph (1) shall include each of the following with respect to the scheduled test event covered by the report:“(A) A description of the objectives of the test. “(B) An explanation for the decision to cancel the test. “(C) An estimate of expenditures related to the cancelled test. “(D) An assessment of the effect of the test cancellation on—“(i) confidence in the reliability of the strategic nuclear weapons delivery system involved; and “(ii) any research, development, test, and evaluation activities related to the test. “(E) A plan to reschedule the test event. “(3) Exception.—A report shall not be required under paragraph (1) in the case of a decision to delay a scheduled test event due to any of the following circumstances:“(A) Unfavorable weather conditions. “(B) Safety concerns. “(C) Technical issues related to the delivery system or test facility. “(D) Operational or security concerns at the test facility or on the test range.”
+
 #### Retention of Capability To Redeploy Multiple Independently Targetable Reentry Vehicles
-Pub. L. 113–66, div. A, title X, § 1057, Dec. 26, 2013, 127 Stat. 864, provided that: “(a) Deployment Capability.—The Secretary of the Air Force shall ensure that the Air Force is capable of—“(1) deploying multiple independently targetable reentry vehicles to Minuteman III intercontinental ballistic missiles; and “(2) commencing such deployment not later than 180 days after the date on which the President determines such deployment necessary. “(b) Warhead Capability.—The Nuclear Weapons Council established by [section 179 of title 10](./chapter-007-boards-councils-and-committees.md#section-179), United States Code, shall ensure that—“(1) the nuclear weapons stockpile contains a sufficient number of nuclear warheads that are capable of being deployed as multiple independently targetable reentry vehicles with respect to Minuteman III intercontinental ballistic missiles; and “(2) such deployment is capable of being commenced not later than 180 days after the date on which the President determines such deployment necessary.”
+Pub. L. 113–66, div. A, title X, § 1057, Dec. 26, 2013, 127 Stat. 864, as amended by Pub. L. 118–31, div. A, title XVI, § 1638, Dec. 22, 2023, 137 Stat. 594, provided that: “(a) Deployment Capability.—The Secretary of the Air Force shall ensure that the Air Force is capable of—“(1) deploying multiple independently targetable reentry vehicles to Minuteman III and Sentinel intercontinental ballistic missiles; and “(2) commencing such deployment not later than 180 days after the date on which the President determines such deployment necessary. “(b) Warhead Capability.—The Nuclear Weapons Council established by [section 179 of title 10](./chapter-007-boards-councils-and-committees.md#section-179), United States Code, shall ensure that—“(1) the nuclear weapons stockpile contains a sufficient number of nuclear warheads that are capable of being deployed as multiple independently targetable reentry vehicles with respect to Minuteman III and Sentinel intercontinental ballistic missiles; and “(2) such deployment is capable of being commenced not later than 180 days after the date on which the President determines such deployment necessary.”
 
 #### Senses of Congress on Ensuring the Modernization of the Nuclear Forces of the United States
 Pub. L. 113–66, div. A, title X, § 1062(a), Dec. 26, 2013, 127 Stat. 866, provided that: “It is the policy of the United States to— “(1) modernize or replace the triad of strategic nuclear delivery systems; “(2) proceed with a robust stockpile stewardship program; “(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety, security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and “(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States.”
@@ -654,13 +748,33 @@ Subsec. (f). Pub. L. 117–81, § 1633(4), added subsec. (f).
 
 (3) Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary of Defense shall submit to the congressional defense committees the report, any comments of the Council on the report under paragraph (2), and any comments of the Secretary on the report.
 
-**(d) Quarterly Briefings.—** Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.
+**(d) Quarterly Briefings.—**
 
-**(e) Termination.—** The requirements of this section shall terminate on December 31, 2027.
+(1) Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate—
+
+  (A) a briefing on any intrusion or anomaly in the nuclear command, control, and communications system that was identified during the previous quarter, including—
+
+    (i) an assessment of any known, suspected, or potential impacts of such intrusions and anomalies to the mission effectiveness of military capabilities as of the date of the briefing; and
+
+    (ii) with respect to cyber intrusions of contractor networks known or suspected to have resulted in the loss or compromise of design information regarding the nuclear command, control, and communications system; or
+
+  (B) if no such intrusion or anomaly occurred with respect to the quarter to be covered by that briefing, a notification of such lack of intrusions and anomalies.
+
+(2) In this subsection:
+
+  (A) The term “anomaly” means a malicious, suspicious or abnormal cyber incident that potentially threatens the national security or interests of the United States, or that is likely to result in demonstrable harm to the national security of the United States.
+
+  (B) The term “intrusion” means an unauthorized and malicious cyber incident that compromises a nuclear command, control, and communications system by breaking the security of such a system or causing it to enter into an insecure state.
+
+**(e) Termination.—** The requirements of this section shall terminate on December 31, 2032.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–263, § 1636(a), amended subsec. (d) generally. Prior to amendment, text read as follows: “Not less than once every quarter, the Deputy Secretary of Defense and the Vice Chairman of the Joint Chiefs of Staff shall jointly provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on any known or suspected critical intelligence parameter breaches that were identified during the previous quarter, including an assessment of any known or suspected impacts of such breaches to the mission effectiveness of military capabilities as of the date of the briefing or thereafter.”
+
+Subsec. (e). Pub. L. 117–263, § 1636(b), substituted “December 31, 2032” for “December 31, 2027”.
+
 2021—Subsec. (c). Pub. L. 117–81, § 1534(1), substituted “Reports” for “Report” in heading.
 
 Subsec. (c)(1). Pub. L. 117–81, § 1534(2), substituted “For each assessment conducted under subsection (a), the Commanders” for “The Commanders” and “the assessment” for “the assessment required by subsection (a)” in introductory provisions.
@@ -668,6 +782,9 @@ Subsec. (c)(1). Pub. L. 117–81, § 1534(2), substituted “For each assessment
 Subsec. (c)(2). Pub. L. 117–81, § 1534(3), which directed substitution of “each report” for “the report”, was executed by making the substitution in both places it appeared, to reflect the probable intent of Congress.
 
 Subsec. (c)(3). Pub. L. 117–81, § 1534(4), substituted “Not later than 90 days after the date of the submission of a report under paragraph (1), the Secretary” for “The Secretary” and struck out “required by paragraph (1)” before “, any comments”.
+
+#### Cybersecurity Enhancements for Nuclear Command, Control, and Communications Network
+Pub. L. 118–31, div. A, title XV, § 1512, Dec. 22, 2023, 137 Stat. 542, provided that: “(a) Establishment of Cross-functional Team.—“(1) Establishment.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], and consistent with section 911(c) of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; [10 U.S.C. 111](./chapter-002-department-of-defense.md#section-111) note), the Secretary of Defense shall establish a cross-functional team to develop and direct the implementation of a threat-driven cyber defense construct for the systems and networks that support the nuclear command, control, and communications (commonly referred to as ‘NC3’) mission (in this section referred to as the ‘cross-functional team’). “(2) Composition of cross-functional team.—“(A) In general.—The cross functional team shall be composed of senior officers selected from among each of the military departments, the Defense Information Systems Agency, the National Security Agency, the United States Cyber Command, the United States Strategic Command, and any other organization or element of the Department of Defense determined appropriate by the Secretary. “(B) Leadership.—The Secretary shall designate a senior officer from those selected under subparagraph (A) to serve as the leader of the cross-functional team. “(C) Staff.—The Secretary shall ensure the heads of the organizations and elements specified in subparagraph (A) detail staff to support the cross-functional team in carrying out the duties under paragraph (3). “(3) Duties.—The duties of the cross-functional team shall be to enhance the cyber defense of the systems and networks that support the nuclear command, control, and communications mission. “(b) Required Construct, Plan of Action, and Milestones.—Not later than one year after the date of the enactment of this Act, the leader of the cross-functional team designated pursuant to subsection (a)(2)(B) shall develop a threat-driven cyber defense construct, and associated plans and milestones, to enhance the security of the systems and networks that support the nuclear command, control, and communications mission. Such construct shall be based on—“(1) the application of the principles of the approach to cybersecurity commonly referred to as ‘zero trust architecture’; “(2) an analysis of appropriately comprehensive endpoint and network telemetry data; and “(3) control capabilities enabling rapid investigation and remediation of indicators of compromise and threats to mission execution. “(c) Annual Briefings.—During the 60-day period beginning on the date that is 30 days before the date on which the President submits to Congress the budget of the President pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), United States Code, for each of fiscal years 2025 through 2028, the Secretary shall provide to the appropriate congressional committees a briefing on the implementation of this section. “(d) Termination.—“(1) In general.—Except as provided in paragraph (2), the cross-functional team under this section shall terminate on October 31, 2028. “(2) Extension authority.—The Secretary of Defense may extend the date of termination under paragraph (1) as the Secretary determines appropriate. “(e) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives]; and “(2) the Permanent Select Committee on Intelligence of the House of Representatives.”
 
 #### Ensuring Cyber Resiliency of Nuclear Command and Control System
 Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, provided that: “(a) Plan for Implementation of Findings and Recommendations From First Annual Assessment of Cyber Resiliency of Nuclear Command and Control System.—Not later than October 1, 2021, the Secretary of Defense shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a comprehensive plan, including a schedule and resourcing plan, for the implementation of the findings and recommendations included in the first report submitted under [section 499(c)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section499/c/3&num=0&edition=prelim), United States Code. “(b) Concept of Operations and Oversight Mechanism for Cyber Defense of Nuclear Command and Control System.—Not later than October 1, 2021, the Secretary shall develop and establish—“(1) a concept of operations for defending the nuclear command and control system against cyber attacks, including specification of the—“(A) roles and responsibilities of relevant entities within the Office of the Secretary, the military services, combatant commands, the Defense Agencies, and the Department of Defense Field Activities; and “(B) cybersecurity capabilities to be acquired and employed and operational tactics, techniques, and procedures, including cyber protection team and sensor deployment strategies, to be used to monitor, defend, and mitigate vulnerabilities in nuclear command and control systems; and “(2) an oversight mechanism or governance model for overseeing the implementation of the concept of operations developed and established under paragraph (1), related development, systems engineering, and acquisition activities and programs, and the plan required by subsection (a), including specification of the—“(A) roles and responsibilities of relevant entities within the Office of the Secretary, the military services, combatant commands, the Defense Agencies, and the Department of Defense Field Activities in overseeing the defense of the nuclear command and control system against cyber attacks; “(B) responsibilities and authorities of the Strategic Cybersecurity Program in overseeing and, as appropriate, executing—“(i) vulnerability assessments; and “(ii) development, systems engineering, and acquisition activities; and “(C) processes for coordination of activities, policies, and programs relating to the cybersecurity and defense of the nuclear command and control system.”
@@ -750,3 +867,56 @@ Pub. L. 116–283, div. A, title XVII, § 1747, Jan. 1, 2021, 134 Stat. 4140, pr
   (A) an unedited copy of the report of the Commander submitted under paragraph (1); and
 
   (B) any additional recommendations or other matters the Secretary considers appropriate.
+
+
+<a id="section-499c"></a>
+## § 499c. Portfolio management framework for nuclear forces
+**(a) Requirement.—** Not later than January 1, 2024, the Secretary of Defense shall—
+
+(1) implement a portfolio management framework for nuclear forces of the United States that—
+
+  (A) specifies the portfolio of nuclear forces covered by the framework;
+
+  (B) establishes a portfolio governance structure for such forces that takes advantage of, or is modeled on, an existing portfolio governance structure, such as the Deputy’s Management Action Group described in Department of Defense Directive 5105.79;
+
+  (C) outlines the approach of the Secretary for identifying and managing risk relating to such forces and prioritizing the efforts among such forces, including how the Secretary, acting through the Under Secretary of Defense for Acquisition and Sustainment, will coordinate such identification, management, and prioritization with the Administrator for Nuclear Security using the coordination processes of the Nuclear Weapons Council; and
+
+  (D) incorporates the findings and recommendations identified by the Comptroller General of the United States in the report titled “Nuclear Enterprise: DOD and NNSA Could Further Enhance How They Manage Risk and Prioritize Efforts” (GAO–22–104061) and dated January 2022; and
+
+(2) complete a comprehensive assessment of the portfolio management capabilities required to identify and manage risk in the portfolio of nuclear forces, including how to draw upon public and private sector resources and the program management expertise within the Defense Acquisition University.
+
+**(b) Annual Briefings; Notifications.—**
+
+(1) In conjunction with the submission of the budget of the President to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for fiscal year 2025 and each fiscal year thereafter through the date specified in subsection (c), the Secretary shall provide to the congressional defense committees a briefing on identifying and managing risk relating to nuclear forces and prioritizing the efforts among such forces, including, with respect to the period covered by the briefing—
+
+  (A) the current and projected operational requirements for nuclear forces that were used for such identification, management, and prioritization;
+
+  (B) key areas of risk identified; and
+
+  (C) a description of the actions proposed or carried out to mitigate such risk.
+
+(2) The Secretary may provide the briefings under paragraph (1) in classified form.
+
+(3) If a House of Congress adopts a bill authorizing or appropriating funds that, as determined by the Secretary, provides funds in an amount that will result in a significant delay in the nuclear certification or delivery of nuclear forces, the Secretary shall notify the congressional defense committees of the determination.
+
+**(c) Termination.—** The requirements of this section shall terminate 90 days after the date on which the Secretary certifies to the congressional defense committees that each of the following have achieved full operational capability:
+
+(1) The LGM–35A Sentinel intercontinental ballistic missile weapon system.
+
+(2) The Columbia-class ballistic missile submarine program.
+
+(3) The long-range standoff weapon program.
+
+(4) The B–21 Raider bomber aircraft program.
+
+(5) The F–35A dual-capable aircraft program.
+
+**(d) Nuclear Forces Defined.—** In this section, the term “nuclear forces” includes, at a minimum—
+
+(1) nuclear weapons;
+
+(2) the delivery platforms and systems for nuclear weapons;
+
+(3) nuclear command, control, and communications systems; and
+
+(4) the infrastructure and facilities of the Department of Defense and the National Nuclear Security Administration that support nuclear weapons, the delivery platforms and systems for nuclear weapons, and nuclear command, control, and communications systems, including with respect to personnel, construction, operation, and maintenance.

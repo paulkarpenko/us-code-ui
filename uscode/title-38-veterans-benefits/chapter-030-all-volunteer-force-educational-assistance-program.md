@@ -68,6 +68,8 @@ For the purposes of this chapter—
 
 (8) The term “educational institution” has the meaning given such term in [section 3452(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3452/c&num=0&edition=prelim).
 
+(9) The term “emergency situation” has the meaning given such term in [section 3601 of this title](./chapter-036-administration-of-educational-benefits.md#section-3601).
+
 ### Statutory Notes
 
 #### Prior Provisions
@@ -78,6 +80,8 @@ Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, rela
 Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title, respectively.
 
 #### Amendments
+2023—Par. (9). Pub. L. 117–333 added par. (9).
+
 2006—Par. (6)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
 
 2002—Par. (5). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
@@ -165,12 +169,12 @@ Pub. L. 104–275, title I, § 107(b), Oct. 9, 1996, 110 Stat. 3329, provided th
 
   (C) is released after service on active duty characterized by the Secretary concerned as honorable service and is placed on the retired list, is transferred to the Fleet Reserve or Fleet Marine Corps Reserve, or is placed on the temporary disability retired list; or
 
-  (D) is released from active duty for further service in a reserve component of the Armed Forces after service on active duty characterized by the Secretary concerned as honorable service;
+  (D) is released from active duty for further service in a reserve component of the Armed Forces or for further service in the Space Force in a space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim) after service on active duty characterized by the Secretary concerned as honorable service;
 is entitled to basic educational assistance under this chapter.
 
 **(b)**
 
-(1) Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (c)(1) of this section shall be reduced by $100 for each of the first 12 months that such individual is entitled to such pay.
+(1) Except as provided in paragraph (2), the basic pay of any individual described in subsection (a)(1)(A) of this section who does not make an election under subsection (c)(1) of this section shall be reduced by $100 for each of the first 12 months that begin after the date that is 270 days after the date on which the individual initially enters initial training.
 
 (2) In the case of an individual covered by paragraph (1) who is a member of the Selected Reserve, the Secretary of Defense shall collect from the individual an amount equal to $1,200 not later than one year after completion by the individual of the two years of service on active duty providing the basis for such entitlement. The Secretary of Defense may collect such amount through reductions in basic pay in accordance with paragraph (1) or through such other method as the Secretary of Defense considers appropriate.
 
@@ -178,7 +182,7 @@ is entitled to basic educational assistance under this chapter.
 
 **(c)**
 
-(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces. Any individual who makes such an election is not entitled to educational assistance under this chapter.
+(1) An individual described in subsection (a)(1)(A) of this section may make an election not to receive educational assistance under this chapter. Any such election shall be made during the 90-day period beginning on the day that is 180 days after the date on which the individual initially enters initial training. Any individual who makes such an election is not entitled to educational assistance under this chapter.
 
 (2) An individual who after December 31, 1976, receives a commission as an officer in the Armed Forces upon graduation from the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy is not eligible for educational assistance under this section.
 
@@ -246,21 +250,14 @@ is entitled to basic educational assistance under this chapter.
 
 ### Statutory Notes
 
-#### Amendment of Subsections (b)(1) and (c)(1)
-Pub. L. 116–315, title I, § 1003, Jan. 5, 2021, 134 Stat. 4939, provided that, effective two years after Jan. 5, 2021, subsections (b)(1) and (c)(1) of this section are amended as follows:
-
-(1) in subsection (b)(1), by striking “that such individual is entitled to such pay” and inserting “that begin after the date that is 270 days after the date on which the individual initially enters initial training”; and
-
-(2) in subsection (c)(1), by striking “Any such election shall be made at the time the individual initially enters on active duty as a member of the Armed Forces” and inserting “Any such election shall be made during the 90-day period beginning on the day that is 180 days after the date on which the individual initially enters initial training”.
-
-See 2021 Amendment notes below.
-
 #### Prior Provisions
 Prior section 3011 was renumbered [section 5111 of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5111).
 
 Another prior section 3011, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1227; Pub. L. 86–490, June 8, 1960, 74 Stat. 161, related to the effective date of an award of increased compensation, dependency and indemnity compensation, or pension, prior to repeal by Pub. L. 87–825, § 5(a), Oct. 15, 1962, 76 Stat. 950.
 
 #### Amendments
+2023—Subsec. (a)(3)(D). Pub. L. 118–31, which directed insertion of “or for further service in the Space Force in a space force active status not on sustained duty under [section 20105 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105&num=0&edition=prelim)” after “of the Armed Forces,”, was executed by making the insertion after “of the Armed Forces” to reflect the probable intent of Congress.
+
 2021—Subsec. (a)(1)(A). Pub. L. 116–315, § 1004, substituted “during the period beginning July 1, 1985, and ending September 30, 2030” for “after June 30, 1985”.
 
 Subsec. (b)(1). Pub. L. 116–315, § 1003(a)(2), substituted “that begin after the date that is 270 days after the date on which the individual initially enters initial training” for “that such individual is entitled to such pay”.
@@ -1921,8 +1918,8 @@ Section effective July 1, 1986, see section 702(b) of Pub. L. 98–525, set out 
 
 
 <a id="section-3031"></a>
-## § 3031. Time limitation for use of eligibility and entitlement 11 See Extension of Time Limitations for Use of Entitlement: Montgomery GI Bill note below.
-**(a)** Except as provided in subsections (b) through (g), and subject to subsection (h), of this section, the period during which an individual entitled to educational assistance under this chapter may use such individual’s entitlement expires at the end of the 10-year period beginning on the date of such individual’s last discharge or release from active duty, except that such 10-year period shall begin—
+## § 3031. Time limitation for use of eligibility and entitlement
+**(a)** Except as provided in subsections (b) through (g) and subsection (i), and subject to subsection (h), of this section, the period during which an individual entitled to educational assistance under this chapter may use such individual’s entitlement expires at the end of the 10-year period beginning on the date of such individual’s last discharge or release from active duty, except that such 10-year period shall begin—
 
 (1) in the case of an individual who becomes entitled to such assistance under clause (A) or (B) of [section 3012(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3012/a/1&num=0&edition=prelim), on the later of the date of such individual’s last discharge or release from active duty or the date on which the four-year requirement described in clause (A)(ii) or (B)(ii), respectively, of such section 3012(a)(1) is met;
 
@@ -1968,12 +1965,42 @@ Section effective July 1, 1986, see section 702(b) of Pub. L. 98–525, set out 
 
 **(h)** For purposes of subsection (a) of this section, an individual’s last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in [section 3011(a)(1)(A)(ii)(III) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3011/a/1/A/ii/III&num=0&edition=prelim).
 
+**(i)**
+
+(1) 11 So in original. Two subsecs. (i) have been enacted. In the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual’s chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section because of a covered reason, as determined by the Secretary, such 10-year period—
+
+  (A) shall not run during the period the individual is so prevented from pursuing such program; and
+
+  (B) shall again begin running on a date determined by the Secretary that is—
+
+    (i) not earlier than the first day after the individual is able to resume pursuit of a program of education with educational assistance under this chapter; and
+
+    (ii) not later than 90 days after that day.
+
+(2) In this subsection, a covered reason is—
+
+  (A) the temporary or permanent closure of an educational institution by reason of an emergency situation; or
+
+  (B) another reason that prevents the individual from pursuing the individual’s chosen program of education, as determined by the Secretary.
+
+**(i)** 1 In the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual’s chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, such 10-year period—
+
+(1) shall not run during the period the individual is so prevented from pursuing such program; and
+
+(2) shall again begin running on the first day after the individual is able to resume pursuit of a program of education with educational assistance under this chapter.
+
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of the Veterans Millennium Health Care and Benefits Act, referred to in subsec. (g), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+2023—Subsec. (i). Pub. L. 117–333 added subsec. (i) referring to expiration of the 10-year period for the use of entitlement because the educational institution or training establishment closed (temporarily or permanently) under an established policy based on an Executive order.
+
+2022—Subsec. (a). Pub. L. 117–328, § 232(a)(1), inserted “and subsection (i)” after “through (g)” in introductory provisions.
+
+Subsec. (i). Pub. L. 117–328, § 232(a)(2), added subsec. (i) referring to expiration of the 10-year period for the use of entitlement because of a covered reason, as determined by the Secretary.
+
 2011—Subsec. (d). Pub. L. 111–377 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to application of the 10-year entitlement period to eligible individuals prevented from pursuing a program of education before the period’s expiration because of a physical or mental disability which was not the result of the individual’s own willful misconduct.
 
 2002—Subsec. (a)(3). Pub. L. 107–330 substituted “December 27, 2001” for “the date of the enactment of this paragraph”.
@@ -2031,13 +2058,11 @@ Pub. L. 111–377, title II, § 201(d), Jan. 4, 2011, 124 Stat. 4124, provided t
 Amendment by Pub. L. 102–568 effective Oct. 28, 1986, see section 302(b) of Pub. L. 102–568, set out as a note under [section 3011 of this title](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3011).
 
 #### Extension of Time Limitations for Use of Entitlement: Montgomery GI Bill
-Pub. L. 116–315, title I, § 1105(a), Jan. 5, 2021, 134 Stat. 4964, as amended by Pub. L. 117–76, § 5(a), Dec. 21, 2021, 135 Stat. 1520, provided that: “The subsection (i) temporarily added to [section 3031 of title 38](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031), United States Code, by subsection (a) of section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140)[set out as a note below] is amended— “(1) in paragraph (1), by striking ‘the period the individual is so prevented from pursuing such program’ and inserting ‘the period beginning on March 1, 2020, and ending on June 1, 2022’; and “(2) in paragraph (2), by striking ‘the first day after the individual is able to resume pursuit of a program of education with educational assistance under this chapter’ and inserting ‘December 22, 2021’.”
+Pub. L. 116–315, title I, § 1105(a), Jan. 5, 2021, 134 Stat. 4964, as amended by Pub. L. 117–76, § 5(a), Dec. 21, 2021, 135 Stat. 1520, amended text temporarily added by Pub. L. 116–140, § 6(a), formerly set out below.
 
-Pub. L. 116–315, title I, § 1107(d)(1), Jan. 5, 2021, 134 Stat. 4966, provided that: “The subsection (i) temporarily added to [section 3031 of title 38](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031), United States Code, by subsection (a) of section 6 of the Student Veteran Coronavirus Response Act of 2020 (Public Law 116–140) [set out as a note below], as amended by [section 1105 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1105&num=0&edition=prelim), is further amended by inserting ‘or training establishment’ after ‘educational institution’.”
+Pub. L. 116–315, title I, § 1107(d)(1), Jan. 5, 2021, 134 Stat. 4966, amended text temporarily added by Pub. L. 116–140, § 6(a), formerly set out below.
 
-Pub. L. 116–140, § 6(a), Apr. 28, 2020, 134 Stat. 632, provided that: “During the covered period, the Secretary of Veterans Affairs shall apply [section 3031 of title 38](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031), United States Code, as if it were amended by adding at the end the following new subsection: “ ‘(i) In the case of an individual eligible for educational assistance under this chapter who is prevented from pursuing the individual’s chosen program of education before the expiration of the 10-year period for the use of entitlement under this chapter otherwise applicable under this section because the educational institution closed (temporarily or permanently) under an established policy based on an Executive order of the President or due to an emergency situation, such 10-year period— “ ‘(1) shall not run during the period the individual is so prevented from pursuing such program; and “ ‘(2) shall again begin running on the first day after the individual is able to resume pursuit of a program of education with educational assistance under this chapter.’.”
-
-[The term “covered period” as used in section 6(a) of Pub. L. 116–140, set out above, means Mar. 1, 2020, to June 1, 2022, see section 2 of Pub. L. 116–140, set out as a note below.]
+Pub. L. 116–140, § 6(a), Apr. 28, 2020, 134 Stat. 632, which temporarily allowed for the tolling of the 10-year period to use educational assistance due to closure of an educational institution, was repealed by Pub. L. 117–333, § 3(f), Jan. 5, 2023, 136 Stat. 6128. See subsec. (i) of this section.
 
 #### Delimiting Period
 Pub. L. 106–419, title I, § 102(e), Nov. 1, 2000, 114 Stat. 1825, provided that: “(1) In the case of an individual described in paragraph (2), with respect to the time limitation under [section 3031 of title 38](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031), United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—“(A) the date of the enactment of this Act [Nov. 1, 2000]; or “(B) the date of the individual’s last discharge or release from active duty. “(2) An individual referred to in paragraph (1) is an individual who—“(A) before the date of the enactment of this Act, was not eligible for such basic educational assistance by reason of the requirement of a secondary school diploma (or equivalency certificate) as a condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and “(B) becomes entitled to basic educational assistance under section 3011(a)(2), 3012(a)(2), or 3018(b)(4) of title 38, United States Code, by reason of the amendments made by this section [amending sections 3011, 3012, 3017, and 3018 of this title and [section 16132 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section16132&num=0&edition=prelim), Armed Forces].”
@@ -2045,7 +2070,7 @@ Pub. L. 106–419, title I, § 102(e), Nov. 1, 2000, 114 Stat. 1825, provided th
 Pub. L. 106–419, title I, § 103(e), Nov. 1, 2000, 114 Stat. 1826, provided that: “(1) In the case of an individual described in paragraph (2), with respect to the time limitation under [section 3031 of title 38](./chapter-030-all-volunteer-force-educational-assistance-program.md#section-3031), United States Code, for use of eligibility and entitlement of basic educational assistance under chapter 30 of such title, the 10-year period applicable under such section shall begin on the later of—“(A) the date of the enactment of this Act [Nov. 1, 2000]; or “(B) the date of the individual’s last discharge or release from active duty. “(2) An individual referred to in paragraph (1) is an individual who—“(A) before the date of the enactment of this Act, was not eligible for basic educational assistance under chapter 30 of such title by reason of the requirement of an initial obligated period of active duty as condition of eligibility for such assistance as in effect on the date preceding the date of the enactment of this Act; and “(B) on or after such date becomes eligible for such assistance by reason of the amendments made by this section [amending sections 3011 to 3013 and 3015 of this title].”
 
 #### Covered Period Defined
-Pub. L. 116–140, § 2, Apr. 28, 2020, 134 Stat. 631, as amended by Pub. L. 116–159, div. E, title II, § 5202(a), Oct. 1, 2020, 134 Stat. 749; Pub. L. 117–76, § 2(a), Dec. 21, 2021, 135 Stat. 1517, provided that: “For purposes of this Act [see Short Title of 2020 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101)], the term ‘covered period’ means the period beginning on March 1, 2020, and ending on June 1, 2022.”
+Pub. L. 116–140, § 2, Apr. 28, 2020, 134 Stat. 631, as amended by Pub. L. 116–159, div. E, title II, § 5202(a), Oct. 1, 2020, 134 Stat. 749; Pub. L. 117–76, § 2(a), Dec. 21, 2021, 135 Stat. 1517, defined the term “covered period”, for purposes of Pub. L. 116–140, as the period from Mar. 1, 2020, to June 1, 2022.
 
 
 <a id="section-3032"></a>
@@ -2204,7 +2229,7 @@ Pub. L. 108–454, title I, § 103(a), Dec. 10, 2004, 118 Stat. 3600, provided t
 ### Statutory Notes
 
 #### References in Text
-The Hostage Relief Act of 1980, referred to in subsec. (a)(1), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, as amended, which was formerly set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
+The Hostage Relief Act of 1980, referred to in subsec. (a)(1), is Pub. L. 96–449, Oct. 14, 1980, 94 Stat. 1967, which was formerly set out as a note under [section 5561 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5561&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
 2008—Subsec. (a)(1). Pub. L. 110–252, § 5003(b)(1)(A)(i), inserted “33,” after “32,”.

@@ -41,13 +41,17 @@ In this chapter:
 
 (2) **Co-Chairs of the Task Force** — The term “Co-Chairs of the Task Force” means the Secretary of State, the Secretary of the Interior, and the Attorney General, as established pursuant to Executive Order 13648.
 
-(3) **Community conservation** — The term “community conservation” means an approach to conservation that recognizes the rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
+(3) **Community conservation** — The term “community conservation” means an approach to conservation involving local communities that recognizes the rights of local people to manage, or benefit directly and indirectly from wildlife and other natural resources in a long-term biologically viable manner and includes—
 
   (A) devolving management and governance to local communities to create positive conditions for resource use that takes into account current and future ecological requirements; and
 
   (B) building the capacity of communities for conservation and natural resource management.
 
-(4) **Country of concern** — The term “country of concern” refers to a foreign country specially designated by the Secretary of State pursuant to subsection (b) of [section 7621 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7621) as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
+(4) **Country of concern** — The term “country of concern” means a foreign country specially designated by the Secretary of State pursuant to [section 7621(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7621/b&num=0&edition=prelim) as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which—
+
+  (A) the government has actively engaged in, or knowingly profited from, the trafficking of protected species; or
+
+  (B) the government facilitates such trafficking through conduct that may include a persistent failure to make serious and sustained efforts to prevent and prosecute such trafficking.
 
 (5) **Focus country** — The term “focus country” refers to a foreign country determined by the Secretary of State to be a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products.
 
@@ -61,7 +65,7 @@ In this chapter:
 
 (10) **Security force** — The term “security force” means a military, law enforcement, gendarmerie, park ranger, or any other security force with a responsibility for protecting wildlife and natural habitats.
 
-(11) **Task Force** — The term “Task Force” means the Presidential Task Force on Wildlife Trafficking, as established by Executive Order 13648 (78 Fed. Reg. 40621) and modified by section 7621 11 See References in Text note below. of this title.
+(11) **Task Force** — The term “Task Force” means the Presidential Task Force on Wildlife Trafficking, as established by Executive Order 13648 (78 Fed. Reg. 40621) and modified by [section 7631 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7631).
 
 (12) **Wildlife trafficking** — The term “wildlife trafficking” refers to the poaching or other illegal taking of protected or managed species and the illegal trade in wildlife and their related parts and products.
 
@@ -72,7 +76,12 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 Executive Order 13648, referred to in pars. (2) and (11), is Ex. Ord. No. 13648, July 1, 2013, 78 F.R. 40621, which is set out as a note under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531).
 
-[Section 7621 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7621), referred to in par. (11), was in the original a reference to “section 201” but probably should be a reference “section 301”, meaning section 301 of Pub. L. 114–231, which is classified to [section 7631 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7631) and relates to the Presidential Task Force on Wildlife Trafficking.
+#### Amendments
+2022—Par. (3). Pub. L. 117–263, § 5943(b)(1), inserted “involving local communities” after “approach to conservation” in introductory provisions.
+
+Par. (4). Pub. L. 117–263, § 5943(b)(2), amended par. (4) generally. Prior to amendment, text read as follows: “The term ‘country of concern’ refers to a foreign country specially designated by the Secretary of State pursuant to subsection (b) of [section 7621 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7621) as a major source of wildlife trafficking products or their derivatives, a major transit point of wildlife trafficking products or their derivatives, or a major consumer of wildlife trafficking products, in which the government has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.”
+
+Par. (11). Pub. L. 117–263, § 5943(b)(3), substituted “section 7631” for “section 7621”.
 
 #### Short Title
 Pub. L. 114–231, § 1(a), Oct. 7, 2016, 130 Stat. 949, provided that: “This Act [enacting this chapter and amending [section 1956 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1956&num=0&edition=prelim), Crimes and Criminal Procedure, and [section 1978 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1978&num=0&edition=prelim), Foreign Relations and Intercourse] may be cited as the ‘Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016’.”
@@ -137,19 +146,28 @@ It is the policy of the United States—
 
 <a id="section-7631"></a>
 ## § 7631. Report
-**(a) Report** Not later than one year after October 7, 2016, and annually thereafter, the Secretary of State, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall submit to Congress a report that lists each country determined by the Secretary of State to be a focus country within the meaning of this chapter.
+**(a) Report** Not later than one year after October 7, 2016, and biennially thereafter by June 1 of each year in which a report is required, the Secretary of State, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall submit to Congress a report that lists each country determined by the Secretary of State to be a focus country within the meaning of this chapter.
 
-**(b) Special designation** In each report required under subsection (a), the Secretary of State, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall identify each country of concern listed in the report the government of which has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.
+**(b) Special designation** In each report required under subsection (a), the Secretary of State, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall also list each country determined by the Secretary of State to be a country of concern within the meaning of this chapter 11 So in original. Probably should be followed by a period.
 
-**(c) Sunset** This section shall terminate on the date that is 5 years after October 7, 2016.
+**(c) Procedure for removing countries from list** Concurrently with the first report required under this section and submitted after December 23, 2022, the Secretary of State, in consultation with the Secretary of the Interior and the Secretary of Commerce, shall publish in the Federal Register a procedure for removing from the list described in subsection (b) any country that no longer meets the definition of country of concern under [section 7601(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section7601/4&num=0&edition=prelim).
+
+**(d) Sunset** This section shall cease to have force or effect on September 30, 2028.
 
 ### Statutory Notes
 
 #### Termination of Section
-For termination of section 5 years after Oct. 7, 2016, see subsec. (c) of this section.
+For termination of section on Sept. 30, 2028, see subsec. (d) of this section.
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, known as the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note under [section 7601 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7601) and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, known as the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note under [section 7601 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7601) and Tables.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 5943(c)(1)(A), substituted “biennially thereafter by June 1 of each year in which a report is required” for “annually thereafter”.
+
+Subsec. (b). Pub. L. 117–263, § 5943(c)(1)(B), substituted “shall also list each country determined by the Secretary of State to be a country of concern within the meaning of this chapter” for “shall identify each country of concern listed in the report the government of which has actively engaged in or knowingly profited from the trafficking of endangered or threatened species.”
+
+Subsecs. (c), (d). Pub. L. 117–263, § 5943(c)(1)(C), added subsecs. (c) and (d) and struck out former subsec. (c). Prior to amendment, text of subsec. (c) read as follows: “This section shall terminate on the date that is 5 years after October 7, 2016.”
 
 
 <a id="section-7641"></a>
@@ -162,9 +180,27 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 (3) coordinate efforts among United States Federal agencies and non-Federal partners, including missions, domestic and international organizations, the private sector, and other global partners, to implement the strategic plans required by paragraph (2) in each focus country;
 
-(4) not less frequently than annually, consult and coordinate with stakeholders qualified to provide advice, assistance, and information regarding effective support for anti-poaching activities, coordination of regional law enforcement efforts, development of and support for effective legal enforcement mechanisms, and development of strategies to reduce illicit trade and reduce consumer demand for illegally traded wildlife and wildlife products, and other relevant topics under this chapter; and
+(4) not less frequently than annually, consult and coordinate with stakeholders qualified to provide advice, assistance, and information regarding effective support for anti-poaching activities, coordination of regional law enforcement efforts, development of and support for effective legal enforcement mechanisms, and development of strategies to reduce illicit trade and reduce consumer demand for illegally traded wildlife and wildlife products, and other relevant topics under this chapter;
 
-(5) coordinate or carry out other functions as are necessary to implement this chapter.
+(5) pursue programs and develop a strategy—
+
+  (A) to expand the role of technology for anti-poaching and anti-trafficking efforts, in partnership with the private sector, foreign governments, academia, and nongovernmental organizations (including technology companies and the transportation and logistics sectors); and
+
+  (B) to enable local governments to develop and use such technologies;
+
+(6) consider programs and initiatives that address the expansion of the illegal wildlife trade to digital platforms, including the use of digital currency and payment platforms for transactions by collaborating with the private sector, academia, and nongovernmental organizations, including social media, e-commerce, and search engine companies, as appropriate;
+
+(7)
+
+  (A) implement interventions to address the drivers of poaching, trafficking, and demand for illegal wildlife and wildlife products in focus countries and countries of concern;
+
+  (B) set benchmarks for measuring the effectiveness of such interventions; and
+
+  (C) consider alignment and coordination with indicators developed by the Task Force;
+
+(8) consider additional opportunities to increase coordination between law enforcement and financial institutions to identify trafficking activity; and
+
+(9) coordinate or carry out other functions as are necessary to implement this chapter.
 
 **(b) Duplication and efficiency** The Task Force shall—
 
@@ -174,7 +210,7 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 **(c) Consistency with agency responsibilities** The Task Force shall carry out its responsibilities under this chapter in a manner consistent with the authorities and responsibilities of agencies represented on the Task Force.
 
-**(d) Task Force strategic review** One year after October 7, 2016, and annually thereafter, the Task Force shall submit a strategic assessment of its work and provide a briefing to the appropriate congressional committees that shall include—
+**(d) Task Force strategic review** One year after October 7, 2016, and biennially thereafter, the Task Force shall submit a strategic assessment of its work and provide a briefing to the appropriate congressional committees that shall include—
 
 (1) a review and assessment of the Task Force’s implementation of this chapter, identifying successes, failures, and gaps in its work, or that of agencies represented on the Task Force, including detailed descriptions of—
 
@@ -186,18 +222,29 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 (3) an account of total United States funding each year since fiscal year 2014 for all government agencies and programs involved in countering poaching and wildlife trafficking;
 
-(4) an account of total United States funding since fiscal year 2014 to support the activities of the Task Force, including administrative overhead costs and congressional reporting; and
+(4) an account of total United States funding since fiscal year 2014 to support the activities of the Task Force, including administrative overhead costs and congressional reporting;
 
-(5) recommendations for how to improve United States and international efforts to suppress and prevent illegal wildlife trafficking in the future, based upon the Task Force’s experience as of the time of the review.
+(5) recommendations for how to improve United States and international efforts to suppress and prevent illegal wildlife trafficking in the future, based upon the Task Force’s experience as of the time of the review; and
 
-**(e) Termination of Task Force** The statutory authorization for the Task Force provided by this chapter shall terminate 5 years after October 7, 2016, or such earlier date that the President terminates the Task Force by rescinding, superseding, or otherwise modifying relevant portions of Executive Order 13648.
+(6) an analysis of the indicators developed by the Task Force, and recommended by the Government Accountability Office, to track and measure inputs, outputs, law enforcement outcomes, and the market for wildlife products for each focus country listed in the report, including baseline measures, as appropriate, for each indicator in each focus country to determine the effectiveness and appropriateness of such indicators to assess progress and whether additional or separate indicators, or adjustments to indicators, may be necessary for focus countries.
+
+**(e) Termination of Task Force** The statutory authorization for the Task Force provided by this chapter shall terminate on September 30, 2028 11 So in original. Probably should be followed by a period.
 
 ### Statutory Notes
 
 #### References in Text
-Executive Order 13648, referred to in subsecs. (a) and (e), is Ex. Ord. No. 13648, July 1, 2013, 78 F.R. 40621, which is set out as a note under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531).
+Executive Order 13648, referred to in subsec. (a), is Ex. Ord. No. 13648, July 1, 2013, 78 F.R. 40621, which is set out as a note under [section 1531 of this title](./chapter-035-endangered-species.md#section-1531).
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 114–231, Oct. 7, 2016, 130 Stat. 949, known as the Eliminate, Neutralize, and Disrupt Wildlife Trafficking Act of 2016, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note under [section 7601 of this title](./chapter-095-eliminate-neutralize-and-disrupt-wildlife-trafficking.md#section-7601) and Tables.
+
+#### Amendments
+2022—Subsec. (a)(5) to (9). Pub. L. 117–263, § 5943(c)(2), added pars. (5) to (8) and redesignated former par. (5) as (9).
+
+Subsec. (d). Pub. L. 117–263, § 5943(c)(3)(A)(i), substituted “biennially” for “annually” in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 117–263, § 5943(c)(3)(A)(ii)–(iv), added par. (6).
+
+Subsec. (e). Pub. L. 117–263, § 5943(c)(3)(B), substituted “on September 30, 2028” for “5 years after October 7, 2016, or such earlier date that the President terminates the Task Force by rescinding, superseding, or otherwise modifying relevant portions of Executive Order 13648.”
 
 
 <a id="section-7642"></a>

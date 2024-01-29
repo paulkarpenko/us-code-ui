@@ -164,6 +164,9 @@ The following is the policy of the United States:
 #### References in Text
 This subchapter, referred to in pars. (3) and (11), was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
 
+#### No Technology for Terror
+Pub. L. 118–50, div. N, Apr. 24, 2024, 138 Stat. 986, provided that: “SEC. 1. SHORT TITLE.“This division may be cited as the ‘No Technology for Terror Act’. “SEC. 2. APPLICATION OF FOREIGN-DIRECT PRODUCT RULES TO IRAN.“(a) In General.—Beginning on the date that is 90 days after the date of the enactment of this division [Apr. 24, 2024], a foreign-produced item shall be subject to the Export Administration Regulations (pursuant to the Export Control Reform Act of 2018 ([50 U.S.C. 4801](./chapter-058-export-control-reform.md#section-4801) et seq.)) if the item—“(1) meets—“(A) the product scope requirements described in subsection (b); and “(B) the destination scope requirements described in subsection (c); and “(2) is exported, reexported, or in-country transferred to Iran from abroad or involves the Government of Iran. “(b) Product Scope Requirements.—A foreign-produced item meets the product scope requirements of this subsection if the item—“(1) is a direct product of United States-origin technology or software subject to the Export Administration Regulations that is specified in a covered Export Control Classification Number or is identified in supplement no. 7 to part 746 of the Export Administration Regulations; or “(2) is produced by any plant or major component of a plant that is located outside the United States, if the plant or major component of a plant, whether made in the United States or a foreign country, itself is a direct product of United States-origin technology or software subject to the Export Administration Regulations that is specified in a covered Export Control Classification Number. “(c) Destination Scope Requirements.—A foreign-produced item meets the destination scope requirements of this subsection if there is knowledge that the foreign-produced item is destined to Iran or will be incorporated into or used in the production or development of any part, component, or equipment subject to the Export Administration Regulations and produced in or destined to Iran. “(d) License Requirements.—“(1) In general.—A license shall be required to export, reexport, or in-country transfer a foreign-produced item from abroad that meets the product scope requirements described in subsection (b) and the destination scope requirements described in subsection (c) and is subject to the Export Administration Regulations pursuant to this section. “(2) Exceptions.—The license requirements of paragraph (1) shall not apply to—“(A) food, medicine, or medical devices that are—“(i) designated as EAR99; or “(ii) not designated under or listed on the Commerce Control List; or “(B) services, software, or hardware (other than services, software, or hardware for end-users owned or controlled by the Government of Iran) that are—“(i) necessarily and ordinarily incident to communications; or “(ii) designated as— “(I) EAR99; or “(II) Export Control Classification Number 5A992.c or 5D992.c, and classified in accordance with section 740.17 of title 15 Code of Federal Regulations; and “(iii) subject to a general license issued by the Department of Commerce or Department of Treasury. “(e) National Interest Waiver.—The Secretary of Commerce may waive the requirements imposed under this section if the Secretary—“(1) determines that the waiver is in the national interests of the United States; and “(2) submits to the Committee on Foreign Affairs and the Committee on Financial Services of the House of Representatives and to the Committee on Foreign Relations and the Committee on Banking, Housing, and Urban Affairs of the Senate a report explaining which requirements are being waived and the reasons for the waiver. “(f) Sunset.—The authority provided under this section shall terminate on the date that is 7 years after the date of the enactment of this division. “(g) Definitions.—In this section—“(1) the term ‘Commerce Control List’ means the list maintained pursuant to part 744 of the Export Administration Regulations; “(2) the term ‘covered Export Control Classification Number’ means an Export Control Classification Number in product group D or E of Category 3, 4, 5, 6, 7, 8, or 9 of the Commerce Control List; “(3) the terms ‘Export Administration Regulations’, ‘export’, ‘reexport’, and ‘in-country transfer’ have the meanings given those terms in section 1742 of the Export Control Reform Act of 2018 ([50 U.S.C. 4801](./chapter-058-export-control-reform.md#section-4801)); and “(4) the terms ‘direct product’, ‘technology’, ‘software’, ‘major component’, ‘knowledge’, ‘production’, ‘development’, ‘part’, ‘component’, ‘equipment’, and ‘government end users’ have the meanings given those terms in section 734.9 or part 772 of the Export Administration Regulations, as the case may be.”
+
 
 <a id="section-4813"></a>
 ## § 4813. Authority of the President
@@ -183,7 +186,7 @@ This subchapter, referred to in pars. (3) and (11), was in the original “this 
 
   (E) foreign maritime nuclear projects; and
 
-  (F) foreign military intelligence services.
+  (F) foreign military, security, or intelligence services.
 
 **(b) Requirements** In exercising authority under this subchapter to carry out the policy set forth in paragraphs (1) through (10) of [section 4811 of this title](./chapter-058-export-control-reform.md#section-4811), the President shall—
 
@@ -207,6 +210,9 @@ This subchapter, referred to in pars. (3) and (11), was in the original “this 
 
 #### References in Text
 This subchapter, referred to in subsec. (b), was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+
+#### Amendments
+2022—Subsec. (a)(2)(F). Pub. L. 117–263 inserted “, security, or” before “intelligence”.
 
 
 <a id="section-4814"></a>
@@ -241,7 +247,7 @@ This subchapter, referred to in subsec. (b), was in the original “this part”
 
 (12) keep the public appropriately apprised of changes in policy, regulations, and procedures established under this subchapter;
 
-(13) appoint technical advisory committees in accordance with the Federal Advisory Committee Act [5 U.S.C. App.];
+(13) appoint technical advisory committees in accordance with the Federal Advisory Committee Act;
 
 (14) create, as warranted, exceptions to licensing requirements in order to further the objectives of this subchapter;
 
@@ -328,7 +334,7 @@ This subchapter, referred to in subsec. (b), was in the original “this part”
 #### References in Text
 This subchapter, referred to in subsecs. (a), (b), (d)(1)(A), and (e), was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (a)(13), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a)(13), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 IEEPA, referred to in subsec. (b), is the International Emergency Economic Powers Act, title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701) and Tables.
 
@@ -556,7 +562,7 @@ Donald J. Trump.
 
 (4) **Classified information** — Not fewer than half of the members of the Emerging Technology and Research Advisory Committee should hold sufficient security clearances such that classified information, including classified information described in clauses (ii) and (iii) of subsection (a)(2)(A), from the interagency process established under subsection (a) can be shared with those members to inform the advice provided by the Advisory Committee.
 
-(5) **Applicability of Federal Advisory Committee Act** — Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Emerging Technology and Research Advisory Committee.
+(5) **Applicability of Federal Advisory Committee Act** — Subsections (a)(1), (a)(3), and (b) of section 10 and sections 11, 13, and 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Emerging Technology and Research Advisory Committee.
 
 (6) **Report** — The Emerging Technology and Research Advisory Committee shall include the findings of the Advisory Committee under this subsection in the annual report to Congress required by [section 4824 of this title](./chapter-058-export-control-reform.md#section-4824).
 
@@ -571,7 +577,7 @@ Donald J. Trump.
 #### References in Text
 Executive Order 12981, referred to in subsec. (b)(3)(A), is Ex. Ord. No. 12981, Dec. 5, 1995, 60 F.R. 62981, which is set out as a note under former [section 4603 of this title](./chapter-056-export-administration.md#section-4603).
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (f)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. Sections 10, 11, 13, and 14 of the Act were repealed and restated as sections 1009, 1010, 1012, and 1013, respectively, of Title 5. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 This chapter, referred to in subsec. (g), was in the original “this subtitle”, meaning subtitle B (§§ 1741–1781) of title XVII of div. A of Pub. L. 115–232, Aug. 13, 2018, 132 Stat. 2208, known as the Export Control Reform Act of 2018, which is classified principally to this chapter. For complete classification of subtitle B to the Code, see section 1741 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
 
@@ -837,9 +843,6 @@ The International Emergency Economic Powers Act, referred to in subsec. (e)(1)(B
 
 ### Statutory Notes
 
-#### Codification
-Section is comprised of section 1761 of Pub. L. 115–232. Subsec. (f) of section 1761 of Pub. L. 115–232 amended [section 2516 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2516&num=0&edition=prelim), Crimes and Criminal Procedure.
-
 #### References in Text
 This subchapter, referred to in subsecs. (a), (b)(1), (2), (d), (e), and (h), was in the original “this part”, meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
 
@@ -848,6 +851,9 @@ The Export Administration Act of 1979, referred to in subsec. (h)(2)(B)(i), is P
 The International Emergency Economic Powers Act, referred to in subsec. (h)(2)(B)(i), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-international-emergency-economic-powers.md#section-1701) and Tables.
 
 This subchapter, referred to in subsec. (k), was in the original “this Act”, and was translated as meaning part I (§§ 1751–1768) of subtitle B of title XVII of div. A of Pub. L. 115–232, known as the Export Controls Act of 2018, which is classified principally to this subchapter, as the probable intent of Congress. For complete classification of part I to the Code, see section 1751 of Pub. L. 115–232, set out as a Short Title note under [section 4801 of this title](./chapter-058-export-control-reform.md#section-4801) and Tables.
+
+#### Codification
+Section is comprised of section 1761 of Pub. L. 115–232. Subsec. (f) of section 1761 of Pub. L. 115–232 amended [section 2516 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2516&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 
 <a id="section-4822"></a>

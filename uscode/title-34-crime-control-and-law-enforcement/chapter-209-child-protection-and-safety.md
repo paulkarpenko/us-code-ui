@@ -1302,7 +1302,7 @@ Section was formerly classified to [section 16984 of Title 42](https://uscode.ho
 
 (2) **RAINN** — The term “RAINN” means the Rape, Abuse & Incest National Network, a 501(c)(3) nonprofit corporation headquartered in the District of Columbia.
 
-**(d) Authorization of appropriations** There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2007 through 2010.
+**(d) Authorization of appropriations** There is authorized to be appropriated to the Administrator to carry out this section, $3,000,000 for each of fiscal years 2022 through 2027.
 
 ### Statutory Notes
 
@@ -1313,6 +1313,9 @@ The Violence Against Women Act, referred to in subsec. (a)(5), probably means th
 
 #### Codification
 Section was formerly classified to [section 16985 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section16985&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2023—Subsec. (d). Pub. L. 117–347 substituted “fiscal years 2022 through 2027” for “fiscal years 2007 through 2010”.
 
 
 <a id="section-20986"></a>

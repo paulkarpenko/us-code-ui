@@ -33,7 +33,7 @@ Section applicable with respect to releases from active duty described in this s
 <a id="section-9252"></a>
 ## § 9252. Service credit: regular enlisted members; service as an officer to be counted as enlisted service
 
-An enlisted member of the Regular Air Force or the Regular Space Force is entitled to count active service as an officer in the Air Force, in the Space Force, and in the Army, as enlisted service for all purposes.
+An enlisted member of the Regular Air Force or the Space Force is entitled to count active service as an officer in the Air Force, in the Space Force, and in the Army, as enlisted service for all purposes.
 
 ### Statutory Notes
 
@@ -43,6 +43,8 @@ An enlisted member of the Regular Air Force or the Regular Space Force is entitl
 | 8684 | 10:631a (last proviso). | July 14, 1939, ch. 267, § 1 (last proviso); restated May 29, 1954, ch. 249, § 19(b) (last proviso), 68 Stat. 166. |
 
 #### Amendments
+2023—Pub. L. 118–31 struck out “Regular” before “Space Force is entitled”.
+
 2021—Pub. L. 116–283 inserted “or the Regular Space Force” after “Regular Air Force” and “in the Space Force,” after “in the Air Force,”.
 
 2018—Pub. L. 115–232 renumbered [section 8684 of this title](./chapter-863-naval-vessels.md#section-8684) as this section.

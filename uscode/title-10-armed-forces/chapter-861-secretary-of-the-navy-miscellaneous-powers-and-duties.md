@@ -2,7 +2,7 @@
 title: 10
 chapter: '861'
 heading: 'SECRETARY OF THE NAVY: MISCELLANEOUS POWERS AND DUTIES'
-section_count: 23
+section_count: 24
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -52,7 +52,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Amendment by Pub. L. 98–525 effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as an Effective Date note under [section 520b of this title](./chapter-031-enlistments.md#section-520b).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -101,7 +101,7 @@ In subsection (b) the words “except the authority to prescribe regulations” 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -176,7 +176,7 @@ A prior section 8611, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided that 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -189,7 +189,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ## § 8612. Employment of outside architects and engineers
 **(a)** Whenever the Secretary of the Navy believes that the existing facilities of the Department of the Navy are inadequate and he considers it advantageous to national defense, he may employ, by contract or otherwise, without advertising and without reference to sections 305, 3324, and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of title 5, architectural or engineering corporations, or firms, or individual architects or engineers, to produce designs, plans, drawings, and specifications for the accomplishment of any naval public works or utilities project or for the construction of any vessel or aircraft, or part thereof.
 
-**(b)** The fee for any service under this section may not exceed 6 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
+**(b)** The fee for any service under this section may not exceed 10 percent of the estimated cost, as determined by the Secretary, of the project to which the fee applies.
 
 ### Statutory Notes
 
@@ -204,6 +204,8 @@ In subsection (a) the word “outside” is omitted as surplusage and the words 
 A prior section 8612, act Aug. 10, 1956, ch. 1041, 70A Stat. 531, provided for disposition of uniforms of enlisted members of Air Force who were discharged and for disposition of uniforms of and issuance of civilian clothing to enlisted members of Air Force who were discharged otherwise than honorably, prior to repeal by Pub. L. 90–235, § 8(2), Jan. 2, 1968, 81 Stat. 764.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31 substituted “10 percent” for “6 percent”.
+
 2018—Pub. L. 115–232 renumbered [section 7212 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7212&num=0&edition=prelim) as this section.
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “and 7204, chapter 51, and subchapters III, IV, and VI of chapter 53 of” for “5101–5115, 5331–5338, 5341, 5342, and 7204 of title 5 and subchapter VI of chapter 53 of such”.
@@ -218,7 +220,7 @@ Pub. L. 95–454, § 703(c)(3), substituted “7204” for “7154”.
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1978 Amendment
 Amendment by section 703(c)(3) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees.
@@ -342,6 +344,45 @@ Section 501(c)(3) of the Internal Revenue Code of 1986, referred to in subsec. (
 
 #### Lease or License of United States Navy Museum Facilities
 Pub. L. 109–163, div. B, title XXVIII, § 2852, Jan. 6, 2006, 119 Stat. 3530, as amended by Pub. L. 117–81, div. B, title XXVIII, § 2822, Dec. 27, 2021, 135 Stat. 2197, provided that: “(a) Leases and Licenses Authorized.—The Secretary of the Navy may lease or license any portion of the facilities of a United States Navy museum to a foundation established to support that museum for the purpose of permitting the foundation to carry out the following activities:“(1) Generation of revenue for that United States Navy museum through the rental of facilities to the public, commercial and non-profit entities, State and local governments, and other Federal agencies. “(2) Performance of administrative activities in support of that United States Navy museum. “(b) Limitation.—Activities carried out at a facility subject to a lease or license under subsection (a) must be consistent with the operations of the United States Navy museum of which the facility is a part. “(c) Consideration.—The amount of consideration paid in a year by a foundation described in subsection (a) to the United States for the lease or license of facilities under subsection (a) may not exceed the actual cost, as determined by the Secretary, of the annual operation and maintenance of the facilities. “(d) Deposit and Use of Proceeds.—Consideration paid under subsection (c) shall be deposited into the appropriations account available for the operation and maintenance of the applicable United States Navy museum. The Secretary may use the amounts so deposited to cover costs associated with the operation and maintenance of that museum and its exhibits. “(e) Additional Terms and Conditions.—The Secretary may require such additional terms and conditions in connection with a lease or license under subsection (a) as the Secretary considers appropriate to protect the interests of the United States. “(f) United States Navy Museum.—In this section, the term ‘United States Navy museum’ means a museum under the jurisdiction of the Secretary of Defense and operated through the Naval History and Heritage Command.”
+
+
+<a id="section-8618"></a>
+## § 8618. Marine Corps Heritage Center and National Museum of the Marine Corps at Marine Corps Base, Quantico, Virginia
+**(a) Joint Venture for Development and Continued Maintenance and Operation.—** The Secretary of the Navy may enter into a joint venture with the Marine Corps Heritage Foundation (in this section referred to as the “Foundation”), a not-for-profit entity, for the design, construction, and maintenance and operation of a multipurpose facility to be used for historical displays for public viewing, curation, and storage of artifacts, research facilities, classrooms, offices, and associated activities consistent with the mission of the Marine Corps University. The facility shall be known as the Marine Corps Heritage Center and the National Museum of the Marine Corps.
+
+**(b) Design and Construction.—** For each phase of development of the facility described in subsection (a), the Secretary may—
+
+(1) permit the Foundation to contract for the design, construction, or both of such phase of development; or
+
+(2) accept funds from the Foundation for the design, construction, or both of such phase of development.
+
+**(c) Acceptance Authority.—** Upon completion of construction of any phase of development of the facility described in subsection (a) by the Foundation to the satisfaction of the Secretary, and the satisfaction of any financial obligations incident thereto by the Foundation, the facility shall become the real property of the Department of the Navy with all right, title, and interest in and to facility being in the United States.
+
+**(d) Maintenance, Operation, and Support.—**
+
+(1) The Secretary may, for the purpose of maintenance and operation of the Marine Corps Heritage Center and the National Museum of the Marine Corps—
+
+  (A) enter into contracts or cooperative agreements, on a sole-source basis, with the Foundation for the procurement of property or services for the direct benefit or use of the Marine Corps Heritage Center and the National Museum of the Marine Corps; and
+
+  (B) notwithstanding the requirements of subsection (h) of [section 2667 of this title](./chapter-159-real-property-related-personal-property-and-lease-of-non-excess-property.md#section-2667) and under such terms and conditions as the Secretary considers appropriate for the joint venture authorized by subsection (a), lease in accordance with such section 2667 portions of the facility developed under subsection (a) to the Foundation for use in generating revenue for activities of the facility and for such administrative purposes as may be necessary for support of the facility.
+
+(2) In making a determination of fair market value under [section 2667(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667/b/4&num=0&edition=prelim) for payment of consideration pursuant to a lease described in paragraph (1)(B), the Secretary may consider the entirety of the educational efforts of the Foundation, support to the Marine Corps Heritage Center history division by the Foundation, or the funding of museum programs and exhibits by the Foundation, or other support related to the Marine Corps Heritage Center and the National Museum of the Marine Corps, in addition to the types of in-kind consideration provided under [section 2667(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667/c&num=0&edition=prelim).
+
+(3) The Secretary may authorize the Foundation to use real or personal property within the Marine Corps Heritage Center and National Museum of the Marine Corps to conduct additional revenue-generating activities, as the Secretary considers appropriate considering the work of the Foundation and needs of the Marine Corps Heritage Center and National Museum of the Marine Corps. The Secretary shall only authorize the use of such property for a revenue-generating activity if the Secretary determines the activity will not interfere with military activities and personnel or the activities of the Marine Corps Heritage Center and National Museum of the Marine Corps.
+
+(4) The Secretary shall retain lease payments received under this section, other than in-kind consideration authorized under paragraph (2) or under [section 2667(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2667/c&num=0&edition=prelim), solely for use in support of the Marine Corps Heritage Center and the National Museum of the Marine Corps, and funds received as lease payments shall remain available until expended.
+
+**(e) Authority to Accept Gifts.—**
+
+(1) The Secretary of the Navy may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of the Marine Corps Heritage Center or the National Museum of the Marine Corps. Section 2601 (other than subsections (b), (c), and (e)) of this title shall apply to gifts accepted under this subsection.
+
+(2) The Secretary may display at the Marine Corps Heritage Center or the National Museum of the Marine Corps recognition for an individual or organization that contributes money to a partner organization, or an individual or organization that contributes a gift directly to the Navy, for the benefit of the Marine Corps Heritage Center or the National Museum of the Marine Corps, whether or not the contribution is subject to the condition that the recognition be provided. The Secretary shall prescribe regulations governing the circumstances under which contributor recognition may be provided, appropriate forms of recognition, and suitable display standards.
+
+(3) The Secretary may authorize the sale of donated property received under paragraph (1). A sale under this paragraph need not be conducted in accordance with disposal requirements that would otherwise apply, so long as the sale is conducted at arms-length and includes an auditable transaction record.
+
+(4) Any money received under paragraph (1) and any proceeds from the sale of property under paragraph (3) shall be deposited into a fund established in the Treasury to support the Marine Corps Heritage Center and the National Museum of the Marine Corps.
+
+**(f) Additional Terms and Conditions.—** The Secretary may require such additional terms and conditions in connection with the joint venture authorized by subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
 
 <a id="section-8619"></a>
@@ -747,7 +788,7 @@ Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as am
 
 <a id="section-8634"></a>
 ## § 8634. Submarine safety programs: participation of NATO naval personnel
-**(a) Acceptance of Assignment of Foreign Naval Personnel.—** In order to facilitate the development, standardization, and interoperability of submarine vessel safety and rescue systems and procedures, the Secretary of the Navy may conduct a program under which members of the naval service of any of the member nations of the North Atlantic Treaty Organization may be assigned to United States commands to work on such systems and procedures.
+**(a) Acceptance of Assignment of Foreign Naval Personnel.—** In order to facilitate the development, standardization, and interoperability of submarine vessel safety and rescue systems and procedures, the Secretary of the Navy may conduct a program beginning on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 under which members of the naval service of any of the member nations of the North Atlantic Treaty Organization may be assigned to United States commands to work on such systems and procedures.
 
 **(b) Reciprocity Not Required.—** The authority under subsection (a) is not an exchange program. Reciprocal assignments of members of the Navy to the naval service of a foreign country is not a condition for the exercise of such authority.
 
@@ -777,14 +818,19 @@ Pub. L. 103–160, div. A, title I, § 126, Nov. 30, 1993, 107 Stat. 1567, as am
 
 **(d) Relationship to Other Authority.—** The provisions of this section shall apply in the exercise of any authority of the Secretary of the Navy to enter into an agreement with the government of a foreign country, subject to the concurrence of the Secretary of State, to provide for the assignment of members of the naval service of the foreign country to a Navy submarine safety program. The Secretary of the Navy may prescribe regulations for the application of this section in the exercise of such authority.
 
-**(e) Termination of Authority.—** The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008.
-
 ### Statutory Notes
+
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsec. (a), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Prior Provisions
 A prior section 8634, act Aug. 10, 1956, ch. 1041, 70A Stat. 532; Pub. L. 101–510, div. A, title III, § 327(c), Nov. 5, 1990, 104 Stat. 1532, generally prohibited Air Force band from being paid for performance outside air base, prior to repeal by Pub. L. 110–181, div. A, title V, § 590(b)(1), Jan. 28, 2008, 122 Stat. 138. See [section 974 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-974).
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 1248(b), substituted “the Secretary of the Navy may conduct a program beginning on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024” for “the Secretary of the Navy may conduct a program”.
+
+Subsec. (e). Pub. L. 118–31, § 1248(a), struck out subsec. (e). Text read as follows: “The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008.”
+
 2018—Pub. L. 115–232 renumbered [section 7234 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7234&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment

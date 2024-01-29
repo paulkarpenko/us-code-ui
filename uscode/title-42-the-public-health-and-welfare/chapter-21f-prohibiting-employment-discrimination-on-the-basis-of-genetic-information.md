@@ -519,6 +519,9 @@ Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110�
 #### References in Text
 This Act, referred to in subsecs. (a), (b), and (e), is Pub. L. 110–233, May 21, 2008, 122 Stat. 881, known as the Genetic Information Nondiscrimination Act of 2008. For complete classification of this Act to the Code, see Short Title note set out under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff) and Tables.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 Section effective 18 months after May 21, 2008, see section 213 of Pub. L. 110–233, set out as a note under [section 2000ff of this title](./chapter-21f-prohibiting-employment-discrimination-on-the-basis-of-genetic-information.md#section-2000ff).
 

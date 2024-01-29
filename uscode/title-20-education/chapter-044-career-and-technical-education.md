@@ -180,9 +180,6 @@ Section 2403, Pub. L. 88–210, title IV, § 403, as added Pub. L. 98–524, § 
 
 Section 2404, Pub. L. 88–210, title IV, § 404, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2468; amended Pub. L. 101–392, title IV, § 405, Sept. 25, 1990, 104 Stat. 809; Pub. L. 103–382, title III, § 351(a)(2), Oct. 20, 1994, 108 Stat. 3966, related to National Center or Centers for Research in Vocational Education.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date
 Section effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as an Effective Date of 2018 Amendment note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
@@ -1051,9 +1048,6 @@ Subsec. (f). Pub. L. 115–224, § 9(3), added subsec. (f).
 
 2015—Subsec. (e). Pub. L. 114–95 substituted “[section 6311(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1&num=0&edition=prelim)” for “[section 6311(b)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6311/b/1/D&num=0&edition=prelim)”.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–224 effective July 1, 2019, see section 4 of Pub. L. 115–224, set out as a note under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301).
 
@@ -1635,7 +1629,7 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 
   (C) *Independent analysis* — The advisory panel shall transmit to the Secretary, the Director, the relevant committees of Congress, and the Library of Congress an independent analysis of the findings and recommendations resulting from the evaluation described in paragraph (2).
 
-  (D) *FACA* — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the panel established under this paragraph.
+  (D) *Chapter 10 of title 5* — Chapter 10 of title 5 shall not apply to the panel established under this paragraph.
 
 (2) **Evaluation**
 
@@ -1884,8 +1878,6 @@ Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to ce
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(1)(D), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Strengthening Career and Technical Education for the 21st Century Act, referred to in subsec. (d)(2)(A), (B)(viii), (4)(B)(ii), is Pub. L. 115–224, July 31, 2018, 132 Stat. 1563. For complete classification of this Act to the Code, see Short Title of 2018 Amendment note set out under [section 2301 of this title](./chapter-044-career-and-technical-education.md#section-2301) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (d)(2)(B)(viii)(III), (4)(B)(ii)(V), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of this title, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
@@ -1900,6 +1892,8 @@ A prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 105–
 Another prior section 2324, Pub. L. 88–210, title I, § 114, as added Pub. L. 98–524, § 1, Oct. 19, 1984, 98 Stat. 2449; amended Pub. L. 101–392, title I, § 114, Sept. 25, 1990, 104 Stat. 769, related to development and approval of State plans, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
+2022—Subsec. (d)(1)(D). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Subsec. (a)(1). Pub. L. 115–224, § 113(1), substituted “The Secretary shall, in consultation with the Director, collect” for “The Secretary shall collect” and inserted “from eligible agencies under [section 2323(b)(3)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2323/b/3/C&num=0&edition=prelim)” after “pursuant to this subchapter”.
 
 Subsec. (b). Pub. L. 115–224, § 113(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) required the collection of information at reasonable cost and the cooperation of eligible agencies receiving assistance under this chapter.

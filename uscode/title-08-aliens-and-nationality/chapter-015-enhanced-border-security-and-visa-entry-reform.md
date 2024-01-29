@@ -254,9 +254,13 @@ Section appears under the heading “Consular and Border Security Programs” in
 Section is comprised of section 7081 of title VII of div. J of Pub. L. 115–31. Subsecs. (b) and (c) of section 7081 of Pub. L. 115–31 amended sections 1713 and 1714, respectively, of this title. Subsecs. (d) and (e) of section 7081 amended provisions set out as notes under sections 1153 and 1183a, respectively, of this title. Subsec. (f) of section 7081 amended [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim), Foreign Relations and Intercourse, and subsec. (g) of section 7081 amended provisions set out as a note under [section 214 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section214&num=0&edition=prelim).
 
 #### Transfer of Balances
-Pub. L. 117–103, div. K, title VII, § 7034(l)(9), Mar. 15, 2022, 136 Stat. 624, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [[8 U.S.C. 1715(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1715/h&num=0&edition=prelim)] shall continue in effect during fiscal year 2022.”
+Pub. L. 118–47, div. F, title VII, § 7034(k)(4), Mar. 23, 2024, 138 Stat. 791, provided that: “Section 7081(h) of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2017 (division J of Public Law 115–31) [[8 U.S.C. 1715(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1715/h&num=0&edition=prelim)] shall continue in effect during fiscal year 2024.”
 
 Similar provisions were contained in the following prior acts:
+
+Pub. L. 117–328, div. K, title VII, § 7034(l)(4), Dec. 29, 2022, 136 Stat. 5033.
+
+Pub. L. 117–103, div. K, title VII, § 7034(l)(9), Mar. 15, 2022, 136 Stat. 624.
 
 Pub. L. 116–260, div. K, title VII, § 7034(l)(9), Dec. 27, 2020, 134 Stat. 1750.
 
@@ -300,7 +304,7 @@ Pub. L. 116–6, div. F, title VII, § 7034(m)(9), Feb. 15, 2019, 133 Stat. 327.
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
 
 [Section 403–3 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section403–3&num=0&edition=prelim), referred to in subsec. (c)(3)(F), was repealed and a new section 403–3 was enacted by Pub. L. 108–458, title I, § 1011(a), Dec. 17, 2004, 118 Stat. 3643, 3655, and subsequently editorially reclassified to [section 3025 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3025&num=0&edition=prelim), War and National Defense; as so enacted, subsec. (c)(7) no longer contains provisions relating to the protection of sources and methods used to acquire intelligence information. See [section 3024 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3024&num=0&edition=prelim).
 
@@ -805,7 +809,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of this title](./chapter-013-immigration-and-naturalization-service.md#section-1551).
@@ -848,7 +852,7 @@ The Department of State shall retain, for a period of seven years from the date 
 ### Statutory Notes
 
 #### References in Text
-The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
+The Immigration and Nationality Act, referred to in text, is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-012-immigration-and-nationality.md#section-1101) and Tables.
 
 
 <a id="section-1777"></a>

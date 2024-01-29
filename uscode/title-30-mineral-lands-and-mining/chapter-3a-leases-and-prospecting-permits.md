@@ -153,11 +153,11 @@ The Secretary of the Interior shall reserve and may exercise the authority to ca
 #### References in Text
 The date of enactment of this section, referred to in subsec. (a), probably means the date of enactment of Pub. L. 94–377, which was Aug. 4, 1976.
 
-The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890, as amended, referred to in subsec. (l)(4)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
+The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, approved July 2, 1890, referred to in subsec. (l)(4)(A), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-The Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914, as amended, referred to in subsec. (l)(4)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, and is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+The Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes”, approved October 15, 1914, referred to in subsec. (l)(4)(B), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, and is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (l)(4)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (l)(4)(C), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 Act of June 19, 1936, chapter 592, referred to in subsec. (l)(4)(E), is act June 19, 1936, ch. 592, 49 Stat. 1526, known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 13 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section13&num=0&edition=prelim) and Tables.
 
@@ -374,17 +374,17 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (h)(1), is Pub. L. 91–190, Jan 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (k), the effective date of this provision, referred to in subsec. (q), and the effective date of this subsection, referred to in subsec. (t), probably mean the date of approval of Pub. L. 93–153, which was Nov. 16, 1973.
 
-The Natural Gas Act, referred to in subsec. (r)(3)(A), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
+The Natural Gas Act, referred to in subsec. (r)(3)(A), is act June 21, 1938, ch. 556, 52 Stat. 821, which is classified generally to chapter 15B (§ 717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 717w of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section717w&num=0&edition=prelim) and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (s)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (s)(3), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
-The National Emergencies Act, referred to in subsec. (s)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+The National Emergencies Act, referred to in subsec. (s)(3), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
-The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended. Part B of title II of the Act is classified generally to part B (§ 6271 et seq.) of subchapter II of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim) and Tables.
+The Energy Policy and Conservation Act, referred to in subsec. (s)(3), is Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871. Part B of title II of the Act is classified generally to part B (§ 6271 et seq.) of subchapter II of chapter 77 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6201&num=0&edition=prelim) and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (u), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
@@ -583,7 +583,7 @@ A copy of said notice, together with information concerning rental, royalty, vol
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act for Acquired Lands, referred to in subsec. (d)(1), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of this title](./chapter-007-lease-of-mineral-deposits-within-acquired-lands.md#section-351) and Tables.
+The Mineral Leasing Act for Acquired Lands, referred to in subsec. (d)(1), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of this title](./chapter-007-lease-of-mineral-deposits-within-acquired-lands.md#section-351) and Tables.
 
 #### Amendments
 2022—Subsec. (d)(1). Pub. L. 117–169, § 50262(e)(2)(A), substituted “[section 226(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section226/b&num=0&edition=prelim)” for “section 226(b) or (c) of this title”.
@@ -596,7 +596,7 @@ Subsec. (e)(3). Pub. L. 117–169, § 50262(e)(2)(B)(ii), inserted “and” aft
 
 Pub. L. 117–169, § 50262(a)(2), substituted “20” for “16⅔” in two places.
 
-Subsec. (f). Pub. L. 117–169, § 50262(e)(2)(F), (G), redesignated subsec. (g) as (f) and struck out subsec. (f) which related to issuance of noncompetitive oil and gas lease.
+Subsec. (f). Pub. L. 117–169, § 50262(e)(2)(F), (G), redesignated subsec. (g) as (f) and struck out former subsec. (f) which related to issuance of noncompetitive oil and gas lease.
 
 Subsec. (g). Pub. L. 117–169, § 50262(e)(2)(G), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
@@ -1080,11 +1080,11 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 #### References in Text
 This section, referred to in subsec. (a)(1), is section 2 of act Feb. 25, 1920, as amended, which is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 comprise this section, subsec. (c) of section 2 comprises [section 202 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202), and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, comprises [section 202a of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202a).
 
-The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
+The Federal Land Policy and Management Act of 1976, referred to in subsec. (a)(1), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743. Title V of the Federal Land Policy and Management Act of 1976 is classified generally to subchapter V (§ 1761 et seq.) of chapter 35 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1701&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (a)(3)(E), is act June 30, 1948, ch. 758, 62 Stat. 1155, formerly classified to chapter 23 (§ 1151 et seq.) of Title 33, Navigation and Navigable Waters, which was completely revised by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, and is classified generally to chapter 26 (§ 1251 et seq.) of Title 33. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The Clean Air Act, referred to in subsec. (a)(3)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (a)(3)(E), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is comprised of subsecs. (a) and (b) of section 2 of act Feb. 25, 1920, as amended by section 1 of act June 3, 1948. Subsec. (c) of section 2 of act Feb. 25, 1920, is classified to [section 202 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202). Subsec. (d) of said section 2, as added by Pub. L. 94–377, § 5(b), Aug. 4, 1976, 90 Stat. 1086, is classified to [section 202a of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202a).
@@ -1206,7 +1206,7 @@ Section is comprised of subsec. (c) of section 2 of act Feb. 25, 1920, as amende
 #### References in Text
 The date of enactment of this Act, referred to in par. (5), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
 
-This section, referred to in pars. (5) and (8), is section 2 of act Feb. 25, 1920, as amended, which is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to [section 201 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-201), subsec. (c) of section 2 is classified to [section 202 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202), and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to this section.
+This section, referred to in pars. (5) and (8), is section 2 of act Feb. 25, 1920, which is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to [section 201 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-201), subsec. (c) of section 2 is classified to [section 202 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202), and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to this section.
 
 #### Codification
 Section is comprised of subsec. (d) of section 2 of act Feb. 25, 1920, as added by Pub. L. 94–377. Subsecs. (a) and (b) of said section 2 are classified to [section 201 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-201). Subsec. (c) of said section 2 is classified to [section 202 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202).
@@ -1381,7 +1381,7 @@ Repeal by Pub. L. 97–468 became effective on date of transfer of Alaska Railro
 ### Statutory Notes
 
 #### References in Text
-Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, as amended, and is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to [section 201 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-201), subsec. (c) of section 2 is classified to [section 202 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202), and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to [section 202a of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202a).
+Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, and is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to [section 201 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-201), subsec. (c) of section 2 is classified to [section 202 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202), and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to [section 202a of this title](./chapter-3a-leases-and-prospecting-permits.md#section-202a).
 
 The date of enactment of this Act, referred to in subsecs. (f) and (g), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
 
@@ -1696,13 +1696,13 @@ Terms and conditions of mineral leases on submerged lands of outer Continental S
 ### Statutory Notes
 
 #### References in Text
-Act of March 1, 1911, referred to in subsecs. (b)(3)(E) and (o)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section552&num=0&edition=prelim) and Tables.
+Act of March 1, 1911, referred to in subsec. (o)(5)(A), is act Mar. 1, 1911, ch. 186, 36 Stat. 961, popularly known as the Weeks Law, which enacted former sections 513 and 514 and sections 515 to 519, 521, 552, and 563 of Title 16, Conservation, and amended sections 480 and 500 of Title 16. For complete classification of this Act to the Code, see Short Title note set out under [section 552 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section552&num=0&edition=prelim) and Tables.
 
 The Federal Onshore Oil and Gas Leasing Reform Act of 1987, referred to in subsec. (d), is subtitle B (§§ 5101 to 5113) of title V of Pub. L. 100–203, Dec. 22, 1987, 101 Stat. 1330–256. For complete classification of this Act to the Code, see Short Title of 1987 Amendment note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
 The Combined Hydrocarbon Leasing Act of 1981, referred to in subsec. (n)(2), is Pub. L. 97–78, Nov. 16, 1981, 95 Stat. 1070, which amended sections 181, 182, 184, 209, 226, 241, 351, and 352 of this title and enacted a provision set out as a note under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181). For complete classification of this Act to the Code, see Short Title of 1981 Amendment note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (p)(2)(A), (3)(A), (B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (p)(2)(A), (3)(A), (B), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2022—Pub. L. 117–169, § 50262(a)(1)(B), substituted “16⅔ percent” for “12½ per centum” wherever appearing.
@@ -2027,7 +2027,7 @@ Nothing in this act shall be construed as affecting existing leases within the b
 ### Statutory Notes
 
 #### References in Text
-This act, referred to in text, is act Aug. 8, 1946, ch. 916, 60 Stat. 950, as amended, which is classified generally to sections 181, 184, 187a, 187b, 188, 193, 209, 225, 226, 226c to 226e, 236b, and 285 of this title. For complete classification of this Act to the Code, see Tables.
+This act, referred to in text, is act Aug. 8, 1946, ch. 916, 60 Stat. 950, which is classified generally to sections 181, 184, 187a, 187b, 188, 193, 209, 225, 226, 226c to 226e, 236b, and 285 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.
@@ -2194,7 +2194,7 @@ Upon showing to the satisfaction of the Secretary of the Interior that valuable 
 #### References in Text
 Subchapter VII [§ 141 et seq.] of chapter 3 of this title, referred to in text, was repealed by act Feb. 7, 1927, ch. 66, § 6, 44 Stat. 1058.
 
-Subchapter IX of this chapter, referred to in text, was in the original “act February 7, 1927 (Forty-fourth Statutes at Large, page 1057)” meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, as amended, which enacted subchapter IX (§ 281 et seq.) of this chapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+Subchapter IX of this chapter, referred to in text, was in the original “act February 7, 1927 (Forty-fourth Statutes at Large, page 1057)” meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted subchapter IX (§ 281 et seq.) of this chapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1928—Act Dec. 11, 1928, amended section generally.
@@ -2295,7 +2295,7 @@ The Secretary of the Interior is hereby authorized, under such rules and regulat
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, as amended, which enacted this subchapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Feb. 7, 1927, ch. 66, 44 Stat. 1057, which enacted this subchapter, amended sections 181 and 193 of this title, and repealed subchapter VII (§ 141 et seq.) of chapter 3 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which comprises this chapter.

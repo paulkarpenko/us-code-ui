@@ -2,7 +2,7 @@
 title: 38
 chapter: '11'
 heading: COMPENSATION FOR SERVICE-CONNECTED DISABILITY OR DEATH
-section_count: 53
+section_count: 54
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -49,6 +49,9 @@ Pub. L. 94–433, title IV, § 406, Sept. 30, 1976, 90 Stat. 1380, provided that
 Pub. L. 98–223, title I, § 108, Mar. 2, 1984, 98 Stat. 40, provided that: “It is the sense of the Congress that any increase provided by law to take effect after fiscal year 1984 in the rates of disability compensation and dependency and indemnity compensation payable under chapters 11 and 13, respectively, of title 38, United States Code, shall take effect on December 1 of the fiscal year involved and that the budgets for any such fiscal year include amounts to achieve such purpose.”
 
 [Section 108 of Pub. L. 98–223 effective Apr. 1, 1984, see section 107 of Pub. L. 98–223, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).]
+
+#### Improving Processing by Department of Veterans Affairs of Disability Claims for Post-Traumatic Stress Disorder Through Improved Training
+Pub. L. 118–31, div. E, title L, § 5003, Dec. 22, 2023, 137 Stat. 931, provided that: “(a) Formal Process for Conduct of Annual Analysis of Training Needs Based on Trends.—Not later than 180 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary of Veterans Affairs, acting through the Under Secretary for Benefits, shall establish a formal process to analyze, on an annual basis, training needs of employees of the Department who review claims for disability compensation for post-traumatic stress disorder, based on identified processing error trends. “(b) Formal Process for Conduct of Annual Studies to Support Annual Analysis.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act, the Secretary, acting through the Under Secretary, shall establish a formal process to conduct, on an annual basis, studies to help guide the process established under subsection (a). “(2) Elements.—Each study conducted under paragraph (1) shall cover the following:“(A) Military post-traumatic stress disorder stressors. “(B) Decision-making claims for claims processors.”
 
 #### Veterans’ Disability Benefits Commission
 Pub. L. 108–136, div. A, title XV, Nov. 24, 2003, 117 Stat. 1676, as amended by Pub. L. 109–163, div. A, title V, § 590, Jan. 6, 2006, 119 Stat. 3279, provided that: “SEC. 1501. ESTABLISHMENT OF COMMISSION.“(a) Establishment of Commission.—There is hereby established a commission to be known as the Veterans’ Disability Benefits Commission (hereinafter in this title referred to as the ‘commission’). “(b) Membership.—(1) The commission shall be composed of 13 members, appointed as follows:“(A) Two members appointed by the Speaker of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2). “(B) Two members appointed by the minority leader of the House of Representatives, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2). “(C) Two members appointed by the majority leader of the Senate, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2). “(D) Two members appointed by the minority leader of the Senate, at least one of whom shall be a veteran who was awarded a decoration specified in paragraph (2). “(E) Five members appointed by the President, at least three of whom shall be veterans who were awarded a decoration specified in paragraph (2). “(2) A decoration specified in this paragraph is any of the following:“(A) The Medal of Honor. “(B) The Distinguished Service Cross, the Navy Cross, or the Air Force Cross. “(C) The Silver Star. “(3) A vacancy in the Commission shall be filled in the manner in which the original appointment was made. “(4) The appointment of members of the commission under this subsection shall be made not later than 60 days after the date of the enactment of this Act [Nov. 24, 2003]. “(c) Period of Appointment.—Members of the commission shall be appointed for the life of the commission. A vacancy in the commission shall not affect its powers. “(d) Initial Meeting.—The commission shall hold its first meeting not later than 30 days after the date on which a majority of the members of the commission have been appointed. “(e) Meetings.—The commission shall meet at the call of the chairman. “(f) Quorum.—A majority of the members of the commission shall constitute a quorum, but a lesser number may hold hearings. “(g) Chairman.—The President shall designate a member of the commission to be chairman of the commission. “SEC. 1502. DUTIES OF THE COMMISSION.“(a) Study.—The commission shall carry out a study of the benefits under the laws of the United States that are provided to compensate and assist veterans and their survivors for disabilities and deaths attributable to military service. “(b) Scope of Study.—In carrying out the study, the commission shall examine and make recommendations concerning the following:“(1) The appropriateness of such benefits under the laws in effect on the date of the enactment of this Act [Nov. 24, 2003]. “(2) The appropriateness of the level of such benefits. “(3) The appropriate standard or standards for determining whether a disability or death of a veteran should be compensated. “(c) Contents of Study.—The study to be carried out by the commission under this section shall be a comprehensive evaluation and assessment of the benefits provided under the laws of the United States to compensate veterans and their survivors for disability or death attributable to military service, together with any related issues that the commission determines are relevant to the purposes of the study. The study shall include an evaluation and assessment of the following:“(1) The laws and regulations which determine eligibility for disability and death benefits, and other assistance for veterans and their survivors. “(2) The rates of such compensation, including the appropriateness of a schedule for rating disabilities based on average impairment of earning capacity. “(3) Comparable disability benefits provided to individuals by the Federal Government, State governments, and the private sector. “(d) Consultation With Institute of Medicine.—In carrying out the study under this section, the commission shall consult with the Institute of Medicine of the National Academy of Sciences with respect to the medical aspects of contemporary disability compensation policies. “SEC. 1503. REPORT.“Not later than October 1, 2007, the commission shall submit to the President and Congress a report on the study. The report shall include the following:“(1) The findings and conclusions of the commission, including its findings and conclusions with respect to the matters referred to in section 1502(c). “(2) The recommendations of the commission for revising the benefits provided by the United States to veterans and their survivors for disability and death attributable to military service. “(3) Other information and recommendations with respect to such benefits as the commission considers appropriate. “SEC. 1504. POWERS OF THE COMMISSION.“(a) Hearings.—The commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the commission considers advisable to carry out the purposes of this title. “(b) Information From Federal Agencies.—In addition to the information referred to in section 1502(c), the commission may secure directly from any Federal department or agency such information as the commission considers necessary to carry out the provisions of this title. Upon request of the chairman of the commission, the head of such department or agency shall furnish such information to the commission. “(c) Postal Services.—The commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government. “(d) Gifts.—The commission may accept, use, and dispose of gifts or donations of services or property. “SEC. 1505. PERSONNEL MATTERS.“(a) Compensation of Members.—Each member of the commission who is not an officer or employee of the United States shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the commission. All members of the commission who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States. “(b) Travel Expenses.—The members of the commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the commission. “(c) Staff.—(1) The chairman of the commission may, without regard to the civil service laws and regulations, appoint an executive director and such other personnel as may be necessary to enable the commission to perform its duties. The appointment of an executive director shall be subject to approval by the commission. “(2) The chairman of the commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title. “(d) Detail of Government Employees.—Upon request of the chairman of the commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the commission to assist it in carrying out its duties. “(e) Procurement of Temporary and Intermittent Services.—The chairman of the commission may procure temporary and intermittent services under [section 3109(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109/b&num=0&edition=prelim), United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title. “SEC. 1506. TERMINATION OF COMMISSION.“The commission shall terminate 60 days after the date on which the commission submits its report under section 1503. “SEC. 1507. FUNDING.“(a) In General.—The Secretary of Veterans Affairs shall, upon the request of the chairman of the commission, make available to the commission such amounts as the commission may require to carry out its duties under this title. “(b) Availability.—Any sums made available to the commission under subsection (a) shall remain available, without fiscal year limitation, until the termination of the commission.”
@@ -141,7 +144,7 @@ Pub. L. 105–178, title VIII, § 8202(b), as amended by Pub. L. 105–206, titl
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2003—Subsec. (a). Pub. L. 108–183 substituted “2013” for “2011”.
@@ -328,7 +331,7 @@ shall be considered to have been incurred in or aggravated by such service, notw
 ### Statutory Notes
 
 #### References in Text
-The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
+The Radiation Exposure Compensation Act, referred to in subsec. (c)(4), is Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, which is set out as a note under [section 2210 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Amendments
 2022—Subsec. (c)(3)(B)(v). Pub. L. 117–168, § 401(b), added cl. (v).
@@ -1673,31 +1676,11 @@ Pub. L. 85–782, § 2, Aug. 27, 1958, 72 Stat. 936, provided that the amendment
 Pub. L. 97–253, title IV, § 405, Sept. 8, 1982, 96 Stat. 803, [amending this section and sections 315, 362, 411, 413, and 414 [now 1115, 1162, 1311, 1313, and 1314] of this title and enacting provisions set out as notes under this section] was repealed by Pub. L. 97–306, title I, § 107, Oct. 14, 1982, 96 Stat. 1431. Section 405 of Pub. L. 97–253 had amended those sections relating to compensation to be effective Jan. 1, 1983, in contemplation of the later enactment of a law providing for cost-of-living increases for fiscal year 1983, with the intent that the increases provided for under section 405 of Pub. L. 97–253 be superseded by increases provided for in the later law. Pub. L. 97–306 provided for the anticipated increases and repealed section 405 of Pub. L. 97–253.
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
-Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208, provided that:
-
-SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.
-
-“(a) Rate Adjustment.—Effective on December 1, 2022, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2022, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b).
-
-“(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:
-
-“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code.
-
-“(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title.
-
-“(3) Clothing allowance.—The dollar amount under section 1162 of such title.
-
-“(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title.
-
-“(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title.
-
-“(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2022, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)).
-
-SEC. 3. PUBLICATION OF ADJUSTED RATES.
-
-“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2023.”
+Pub. L. 118–6, §§ 2(a)–(c), 3, June 14, 2023, 137 Stat. 50, 51, provided that: “SEC. 2. INCREASE IN RATES OF DISABILITY COMPENSATION AND DEPENDENCY AND INDEMNITY COMPENSATION.“(a) Rate Adjustment.—Effective on December 1, 2023, the Secretary of Veterans Affairs shall increase, in accordance with subsection (c), the dollar amounts in effect on November 30, 2023, for the payment of disability compensation and dependency and indemnity compensation under the provisions specified in subsection (b). “(b) Amounts To Be Increased.—The dollar amounts to be increased pursuant to subsection (a) are the following:“(1) Wartime disability compensation.—Each of the dollar amounts under [section 1114 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114), United States Code. “(2) Additional compensation for dependents.—Each of the dollar amounts under section 1115(1) of such title. “(3) Clothing allowance.—The dollar amount under section 1162 of such title. “(4) Dependency and indemnity compensation to surviving spouse.—Each of the dollar amounts under subsections (a) through (d) of section 1311 of such title. “(5) Dependency and indemnity compensation to children.—Each of the dollar amounts under sections 1313(a) and 1314 of such title. “(c) Determination of Increase.—Each dollar amount described in subsection (b) shall be increased by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act ([42 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section401&num=0&edition=prelim) et seq.) are increased effective December 1, 2023, as a result of a determination under section 215(i) of such Act ([42 U.S.C. 415(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i&num=0&edition=prelim)). “SEC. 3. PUBLICATION OF ADJUSTED RATES.“The Secretary of Veterans Affairs shall publish in the Federal Register the amounts specified in section 2(b), as increased under that section, not later than the date on which the matters specified in section 215(i)(2)(D) of the Social Security Act ([42 U.S.C. 415(i)(2)(D)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section415/i/2/D&num=0&edition=prelim)) are required to be published by reason of a determination made under section 215(i) of such Act during fiscal year 2024.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 117–191, §§ 2(a)–(c), 3, Oct. 10, 2022, 136 Stat. 2207, 2208.
 
 Pub. L. 117–45, §§ 2(a)–(c), 3, Oct. 8, 2021, 135 Stat. 389, 390.
 
@@ -1748,9 +1731,11 @@ Pub. L. 103–418, §§ 2(a)–(c), 3, Oct. 25, 1994, 108 Stat. 4336, 4337.
 Pub. L. 102–510, § 2(a), (c), Oct. 24, 1992, 106 Stat. 3318, 3319.
 
 #### Administrative Adjustment of Disability Rates of Certain Persons Not Covered by This Chapter
-Pub. L. 117–191, § 2(d), Oct. 10, 2022, 136 Stat. 2207, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
+Pub. L. 118–6, § 2(d), June 14, 2023, 137 Stat. 50, provided that: “The Secretary of Veterans Affairs may adjust administratively, consistent with the increases made under subsection (a) [set out as a note above], the rates of disability compensation payable to persons under section 10 of Public Law 85–857 (72 Stat. 1263) [set out as a note preceding [section 101 of this title](./chapter-001-general.md#section-101)] who have not received compensation under chapter 11 of title 38, United States Code.”
 
 Similar provisions were contained in the following acts:
+
+Pub. L. 117–191, § 2(d), Oct. 10, 2022, 136 Stat. 2207.
 
 Pub. L. 117–45, § 2(d), Oct. 8, 2021, 135 Stat. 389.
 
@@ -2348,7 +2333,7 @@ For increases in rates and limitations on Department of Veterans Affairs disabil
 
 **(b)** The Secretary shall ensure that any determination made on or after the date of the enactment of the Sergeant First Class Heath Robinson Honoring our Promise to Address Comprehensive Toxics Act of 2022 regarding a presumption of service connection based on exposure to an herbicide agent under this section is made pursuant to subchapter VII of this chapter, including with respect to assessing reports received by the Secretary from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991 (Public Law 102–4).
 
-**(c)** For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who performed covered service, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
+**(c)** For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who performed covered service,11 So in original. The comma probably should not appear. shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
 **(d)** In this section, the term “covered service” means active military, naval, air, or space service—
 
@@ -2630,7 +2615,7 @@ Pub. L. 116–23, § 3(c), June 25, 2019, 133 Stat. 970, provided that: “(1) G
 [Section 1118(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1118/c&num=0&edition=prelim), referred to in subsec. (b)(1), was repealed by Pub. L. 117–168, title II, § 202(d)(3)(A), Aug. 10, 2022, 136 Stat. 1775.
 
 #### Amendments
-2022—Subsec. (a)(1). Pub. L. 117–168, § 405(a), substituted “became manifest to any degree at any time.” for “became manifest—”
+2022—Subsec. (a)(1). Pub. L. 117–168, § 405(a), substituted “became manifest to any degree at any time.” for “became manifest—
 
 “(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -2692,14 +2677,14 @@ Pub. L. 103–446, title I, §§ 102–105, 107, 109, 110, Nov. 2, 1994, 108 Sta
 Section 106(c) of Pub. L. 103–446 directed Secretary of Veterans Affairs, not later than 60 days after Nov. 2, 1994, to submit to Congress a report stating whether or not the Secretary intended to pay compensation as provided in this section.
 
 #### Executive Order No. 12961
-Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses, was revoked by Ex. Ord. No. 13138, § 3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12961, May 26, 1995, 60 F.R. 28507, which established the Presidential Advisory Committee on Gulf War Veterans’ Illnesses, was revoked by Ex. Ord. No. 13138, § 3(g), Sept. 30, 1999, 64 F.R. 53880, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 13034. Extension of Presidential Advisory Committee on Gulf War Veterans’ Illnesses
 Ex. Ord. No. 13034, Jan. 30, 1997, 62 F.R. 5137, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. Extension. The Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”), established pursuant to Executive Order 12961 [set out above] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President’s designation of a Chairperson, shall remain in effect. The limitations set forth in section 2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, 5 U.S.C. App.
+Section 1. Extension. The Presidential Advisory Committee on Gulf War Veterans’ Illnesses (the “Committee”), established pursuant to Executive Order 12961 [formerly set out above] of May 26, 1995, is hereby extended for the purposes set forth herein. All provisions of that order relating to membership and administration shall remain in effect. All Committee appointments, as well as the President’s designation of a Chairperson, shall remain in effect. The limitations set forth in section 2(c)–(e) and section 4(a) of Executive Order 12961 shall also remain in effect. The Committee shall remain subject to the Federal Advisory Committee Act, as amended, [former] 5 U.S.C. App. [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.].
 
 Sec. 2. Functions. (a) The Committee shall report to the President through the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Health and Human Services.
 
@@ -2854,15 +2839,13 @@ The date of the enactment of the Sergeant First Class Heath Robinson Honoring ou
 
   (F) Lymphoma cancer of any type.
 
-  (G) Lymphomatic cancer of any type.
+  (G) Kidney cancer.
 
-  (H) Kidney cancer.
+  (H) Brain cancer.
 
-  (I) Brain cancer.
+  (I) Melanoma.
 
-  (J) Melanoma.
-
-  (K) Pancreatic cancer.
+  (J) Pancreatic cancer.
 
 (3) Chronic bronchitis.
 
@@ -2894,8 +2877,14 @@ The date of the enactment of the Sergeant First Class Heath Robinson Honoring ou
 
 ### Statutory Notes
 
+#### Amendments
+2022—Subsec. (b)(2)(G) to (K). Pub. L. 117–263 redesignated subpars. (H) to (K) as (G) to (J), respectively, and struck out former subpar. (G) which read as follows: “Lymphomatic cancer of any type.”
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. E, title LI, § 5124(d), Dec. 23, 2022, 136 Stat. 3211, provided that: “The amendments made by this section [amending this section and sections 8103 and 8104 of this title] shall take effect as if included in the enactment of the Honoring our PACT Act of 2022 (Public Law 117–168).”
+
 #### Effective Date
-Pub. L. 117–168, title IV, § 406(d), Aug. 10, 2022, 136 Stat. 1784, provided that: “The amendments made by this section [enacting this section and amending [section 1113 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1113)] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows: “(1) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and veterans whom the Secretary of Veterans Affairs determines are—“(A) terminally ill; “(B) homeless; “(C) under extreme financial hardship; “(D) more than 85 years old; or “(E) capable of demonstrating other sufficient cause. “(2) On the date of the enactment of this Act for everyone not described in paragraph (1), with respect to paragraphs (1), (2)(C), (2)(I), (5), (6), (7), (8), (9), (10), (11), (12), (13), and (14), of [section 1120(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1120/b&num=0&edition=prelim), United States Code, as added by subsection (b). “(3) On October 1, 2023, for everyone not described in paragraph (1), with respect to paragraphs (3) and (4) of section 1120(b) of such title, as so added. “(4) On October 1, 2024, for everyone not described in paragraph (1), with respect to subparagraphs (A), (B), (D), (E), (F), (G), and (K) of section 1120(b)(2) of such title, as so added. “(5) On October 1, 2025, for everyone not described in paragraph (1), with respect to subparagraphs (H) and (J) of section 1120(b)(2) of such title, as so added.”
+Pub. L. 117–168, title IV, § 406(d), Aug. 10, 2022, 136 Stat. 1784, provided that: “The amendments made by this section [enacting this section and amending [section 1113 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1113)] shall take effect on the date of the enactment of this Act [Aug. 10, 2022] and shall apply as follows: “(1) On the date of the enactment of this Act for claimants for dependency and indemnity compensation under chapter 13 of title 38, United States Code, and veterans whom the Secretary of Veterans Affairs determines are—“(A) terminally ill; “(B) homeless; “(C) under extreme financial hardship; “(D) more than 85 years old; or “(E) capable of demonstrating other sufficient cause. “(2) On the date of the enactment of this Act for everyone not described in paragraph (1), with respect to paragraphs (1), (2)(C), (2)(I) [now (2)(H)], (5), (6), (7), (8), (9), (10), (11), (12), (13), and (14), of [section 1120(b) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1120/b&num=0&edition=prelim), United States Code, as added by subsection (b). “(3) On October 1, 2023, for everyone not described in paragraph (1), with respect to paragraphs (3) and (4) of section 1120(b) of such title, as so added. “(4) On October 1, 2024, for everyone not described in paragraph (1), with respect to subparagraphs (A), (B), (D), (E), (F), [former] (G), and (K) [now (J)] of section 1120(b)(2) of such title, as so added. “(5) On October 1, 2025, for everyone not described in paragraph (1), with respect to subparagraphs (H) [now (G)] and (J) [now (I)] of section 1120(b)(2) of such title, as so added.”
 
 
 <a id="section-1121"></a>
@@ -3294,7 +3283,7 @@ Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” f
 Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L. 94–433, set out as a note under [section 1101 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1101).
 
 #### Radiation Dose Reconstruction Program of Department of Defense
-Pub. L. 108–183, title VI, § 601, Dec. 16, 2003, 117 Stat. 2667, provided that: “(a) Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense. “(2) In conducting the review under paragraph (1), the Secretaries shall—“(A) determine whether any additional actions are required to ensure that the quality assurance and quality control mechanisms of the Radiation Dose Reconstruction Program are adequate and sufficient for purposes of the program; and “(B) determine the actions that are required to ensure that the mechanisms of the Radiation Dose Reconstruction Program for communication and interaction with veterans are adequate and sufficient for purposes of the program, including mechanisms to permit veterans to review the assumptions utilized in their dose reconstructions. “(3) Not later than 90 days after the date of the enactment of this Act [Dec. 16, 2003], the Secretaries shall jointly submit to Congress a report on the review under paragraph (1). The report shall set forth—“(A) the results of the review; “(B) a plan for any actions determined to be required under paragraph (2); and “(C) such other recommendations for the improvement of the mission, procedures, and administration of the Radiation Dose Reconstruction Program as the Secretaries jointly consider appropriate. “(b) On-Going Review and Oversight.—The Secretaries shall jointly take appropriate actions to ensure the on-going independent review and oversight of the Radiation Dose Reconstruction Program, including the establishment of the advisory board required by subsection (c). “(c) Advisory Board.—(1) In taking actions under subsection (b), the Secretaries shall jointly appoint an advisory board to provide review and oversight of the Radiation Dose Reconstruction Program. “(2) The advisory board under paragraph (1) shall be composed of the following:“(A) At least one expert in historical dose reconstruction of the type conducted under the Radiation Dose Reconstruction Program. “(B) At least one expert in radiation health matters. “(C) At least one expert in risk communications matters. “(D) A representative of the Department of Veterans Affairs. “(E) A representative of the Defense Threat Reduction Agency. “(F) At least three veterans, including at least one veteran who is a member of an atomic veterans group. “(3) The advisory board under paragraph (1) shall—“(A) conduct periodic, random audits of dose reconstructions under the Radiation Dose Reconstruction Program and of decisions by the Department of Veterans Affairs on claims for service connection of radiogenic diseases; “(B) assist the Department of Veterans Affairs and the Defense Threat Reduction Agency in communicating to veterans information on the mission, procedures, and evidentiary requirements of the Radiation Dose Reconstruction Program; and “(C) carry out such other activities with respect to the review and oversight of the Radiation Dose Reconstruction Program as the Secretaries shall jointly specify. “(4) The advisory board under paragraph (1) may make such recommendations on modifications in the mission or procedures of the Radiation Dose Reconstruction Program as the advisory board considers appropriate as a result of the audits conducted under paragraph (3)(A).”
+Pub. L. 108–183, title VI, § 601, Dec. 16, 2003, 117 Stat. 2667, as amended by Pub. L. 117–263, div. A, title VII, § 734, Dec. 23, 2022, 136 Stat. 2668, provided that: “(a) Review of Mission, Procedures, and Administration.—(1) The Secretary of Veterans Affairs and the Secretary of Defense shall jointly conduct a review of the mission, procedures, and administration of the Radiation Dose Reconstruction Program of the Department of Defense. “(2) In conducting the review under paragraph (1), the Secretaries shall—“(A) determine whether any additional actions are required to ensure that the quality assurance and quality control mechanisms of the Radiation Dose Reconstruction Program are adequate and sufficient for purposes of the program; and “(B) determine the actions that are required to ensure that the mechanisms of the Radiation Dose Reconstruction Program for communication and interaction with veterans are adequate and sufficient for purposes of the program, including mechanisms to permit veterans to review the assumptions utilized in their dose reconstructions. “(3) Not later than 90 days after the date of the enactment of this Act [Dec. 16, 2003], the Secretaries shall jointly submit to Congress a report on the review under paragraph (1). The report shall set forth—“(A) the results of the review; “(B) a plan for any actions determined to be required under paragraph (2); and “(C) such other recommendations for the improvement of the mission, procedures, and administration of the Radiation Dose Reconstruction Program as the Secretaries jointly consider appropriate. “(b) On-Going Review and Oversight.—The Secretaries shall jointly take appropriate actions to ensure the on-going independent review and oversight of the Radiation Dose Reconstruction Program.”
 
 #### Review of Dose Reconstruction Program of the Defense Threat Reduction Agency
 Pub. L. 106–419, title III, § 305, Nov. 1, 2000, 114 Stat. 1853, provided that: “(a) Review by National Academy of Sciences.—Not later than 30 days after the date of the enactment of this Act [Nov. 1, 2000], the Secretary of Defense shall enter into a contract with the National Academy of Sciences to carry out periodic reviews of the program of the Defense Threat Reduction Agency of the Department of Defense known as the ‘dose reconstruction program’. “(b) Review Activities.—The periodic reviews of the dose reconstruction program under the contract under subsection (a) shall consist of the periodic selection of random samples of doses reconstructed by the Defense Threat Reduction Agency in order to determine—“(1) whether or not the reconstruction of the sampled doses is accurate; “(2) whether or not the reconstructed dosage number is accurately reported; “(3) whether or not the assumptions made regarding radiation exposure based upon the sampled doses are credible; and “(4) whether or not the data from nuclear tests used by the Defense Threat Reduction Agency as part of the reconstruction of the sampled doses is accurate. “(c) Duration of Review.—The periodic reviews under the contract under subsection (a) shall occur over a period of 24 months. “(d) Report.—(1) Not later than 60 days after the conclusion of the period referred to in subsection (c), the National Academy of Sciences shall submit to Congress a report on its activities under the contract under this section. “(2) The report shall include the following:“(A) A detailed description of the activities of the National Academy of Sciences under the contract. “(B) Any recommendations that the National Academy of Sciences considers appropriate regarding a permanent system of review of the dose reconstruction program of the Defense Threat Reduction Agency.”
@@ -3550,16 +3539,65 @@ Amendment by Pub. L. 94–433 effective Oct. 1, 1976, see section 406 of Pub. L.
 
 <a id="section-1162"></a>
 ## § 1162. Clothing allowance
-
-The Secretary under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $716 per year to each veteran who—
+**(a) Eligibility Requirements.—** The Secretary, under regulations which the Secretary shall prescribe, shall pay a clothing allowance of $716 11 See Special Benefit Allowance Rates note below. per year to each veteran who—
 
 (1) because of a service-connected disability, wears or uses a prosthetic or orthopedic appliance (including a wheelchair) which the Secretary determines tends to wear out or tear the clothing of the veteran; or
 
-(2) uses medication which (A) a physician has prescribed for a skin condition which is due to a service-connected disability, and (B) the Secretary determines causes irreparable damage to the veteran’s outergarments.
+(2) uses medication which—
+
+  (A) a physician has prescribed for a skin condition which is due to a service-connected disability; and
+
+  (B) the Secretary determines causes irreparable damage to the veteran’s outergarments.
+
+**(b) Continuous Nature of Payments.—** Payments made to a veteran under subsection (a) shall continue on an automatically recurring annual basis until the earlier of the following:
+
+(1) The date on which the veteran elects to no longer receive such payments.
+
+(2) The date on which the Secretary determines the veteran is no longer eligible pursuant to subsection (c).
+
+**(c) Reviews of Claims.—**
+
+(1) The Secretary shall, in accordance with this subsection, conduct reviews of a claim on which a clothing allowance for a veteran under subsection (a) is based to determine the continued eligibility of the veteran for such allowance.
+
+(2) The Secretary shall prescribe standards for determining whether a claim for a clothing allowance is based on a veteran’s wearing or use of a prosthetic, orthopedic appliance (including a wheelchair), or medication whose wear or tear or irreparable damage on a veteran’s outergarments or clothing is as likely as not subject to no change for the duration of such wearing or use.
+
+(3)
+
+  (A) If the Secretary determines, pursuant to standards prescribed under paragraph (2), that a claim for a clothing allowance is based on wear or tear or irreparable damage that is as likely as not subject to no change, the veteran shall continue to be deemed eligible for receipt of a clothing allowance under this section until the Secretary—
+
+    (i) receives notice under subparagraph (B); or
+
+    (ii) finds otherwise under subparagraph (C) or (D).
+
+  (B) The Secretary shall require a veteran who is receiving a clothing allowance under subsection (a), based on the wearing or use of a prosthetic, orthopedic appliance (including a wheelchair), or medication, to notify the Secretary when the veteran terminates the wearing or use of such a prosthetic, orthopedic appliance, or medication.
+
+  (C) For each veteran who is receiving a clothing allowance under subsection (a), based on the wearing or use of a prosthetic, orthopedic appliance (including a wheelchair), or medication, the Secretary shall periodically review the veteran’s Department records for evidence that the veteran has terminated the wearing or use of such a prosthetic, orthopedic appliance, or medication.
+
+  (D) If a veteran who is receiving a clothing allowance under subsection (a), based on the wearing or use of a prosthetic, orthopedic appliance (including a wheelchair), or medication, has received such clothing allowance beyond the prescribed or intended lifespan of such prosthetic, orthopedic appliance, or medication, the Secretary may periodically request the veteran to attest to continued usage.
+
+(4) If the Secretary determines that a claim for a clothing allowance under subsection (a) does not meet the requirements of paragraph (3)(A), then the Secretary may require the veteran to recertify the veteran’s continued eligibility for a clothing allowance under this section periodically, but not more frequently than once each year.
+
+(5) When reviewing a claim under this subsection, the Secretary shall evaluate the evidence presented by the veteran and such other relevant evidence as the Secretary determines appropriate.
+
+**(d) Determination Regarding Continued Eligibility.—** If the Secretary determines, as the result of a review of a claim conducted under subsection (c), that the veteran who submitted such claim no longer meets the requirements specified in subsection (a), the Secretary shall—
+
+(1) provide to the veteran notice of such determination that includes a description of applicable actions that may be taken following the determination, including the actions specified in [section 5104C of this title](./chapter-051-claims-effective-dates-and-payments.md#section-5104c); and
+
+(2) discontinue the clothing allowance based on such claim.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–328 designated existing provisions as subsec. (a) and inserted heading, inserted comma after “The Secretary” in introductory provisions, and added subsecs. (b) to (d).
+
+Subsec. (a)(2). Pub. L. 117–328, § 201(b)(2), substituted “which—
+
+“(A) a physician has prescribed for a skin condition which is due to a service-connected disability; and
+
+“(B) the Secretary determines causes irreparable damage to the veteran’s outergarments.”
+
+for “which (A) a physician has prescribed for a skin condition which is due to a service-connected disability, and (B) the Secretary determines causes irreparable damage to the veteran’s outergarments.”
+
 2009—Pub. L. 111–37 substituted “$716” for “$677” in introductory provisions.
 
 2008—Pub. L. 110–324 substituted “$677” for “$662” in introductory provisions.
@@ -3625,6 +3663,9 @@ Pub. L. 97–253, § 405(d), (h), eff. Jan. 1, 1983, substituted “$304” for 
 1976—Pub. L. 94–433, §§ 301, 404(24), substituted “$190” for “$175” and “the Administrator shall prescribe” for “he shall prescribe”.
 
 1975—Pub. L. 94–71 substituted “$175” for “$150”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. U, title II, § 201(c), Dec. 29, 2022, 136 Stat. 5447, provided that: “The amendments made by subsection (b) [amending this section] shall apply with respect to— “(1) claims for clothing allowance submitted on or after the date of the enactment of this Act [Dec. 29, 2022]; and “(2) claims for clothing allowance submitted prior to the date of the enactment of this Act, if the veteran who submitted such claim is in receipt of the clothing allowance as of the date of the enactment of this Act.”
 
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–37 effective Dec. 1, 2008, see section 3(g) of Pub. L. 111–37, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
@@ -3703,6 +3744,9 @@ Section 405(d) of Pub. L. 97–253, cited as a credit to this section, was repea
 
 #### Disability Compensation and Dependency and Indemnity Compensation Rate Increases
 For increases in rates and limitations on Department of Veterans Affairs disability compensation and dependency and indemnity compensation, see notes set out under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
+
+#### Special Benefit Allowance Rates
+For current VA special benefit allowance rates, see https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/
 
 
 <a id="section-1163"></a>
@@ -3841,6 +3885,9 @@ The date of the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans 
 #### Codification
 Another section 1164 was renumbered [section 1166 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1166).
 
+#### Medical Opinions for Certain Veterans With Service-Connected Disabilities Who Die of COVID–19
+Pub. L. 117–328, div. U, title II, § 202(a), (b), Dec. 29, 2022, 136 Stat. 5447, provided that: “(a) In General.—The Secretary of Veterans Affairs shall secure a medical opinion to determine if a service-connected disability was the principal or contributory cause of death before notifying the survivor of the final decision in any case in which all of the following factors are met:“(1) A claim for compensation is filed under chapter 13 of title 38, United States Code, with respect to a veteran with one or more service-connected disabilities who dies. “(2) The death certificate for the veteran identifies Coronavirus Disease 2019 (COVID–19) as the principal or contributory cause of death. “(3) The death certificate does not clearly identify any of the service-connected disabilities of the veteran as the principal or contributory cause of death. “(4) A service-connected disability of the veteran includes a condition more likely to cause severe illness from COVID–19 as determined by the Centers for Disease Control and Prevention. “(5) The claimant is not entitled to benefits under section 1318 of such title. “(6) The evidence to support the claim does not result in a preliminary finding in favor of the claimant. “(b) Outreach.—The Secretary shall provide information to veterans, dependents, and veterans service organizations about applying to dependency and indemnity compensation when a veteran dies from COVID–19. The Secretary shall provide such information through the website of the Department of Veterans Affairs and via other outreach mechanisms.”
+
 
 <a id="section-1165"></a>
 ## § 1165. Choice of sex of medical examiner for certain disabilities
@@ -3852,23 +3899,65 @@ Another section 1164 was renumbered [section 1166 of this title](./chapter-011-c
 
 
 <a id="section-1166"></a>
-## § 1166. Specialized teams to evaluate claims involving military sexual trauma
-**(a) In General.—** The Secretary shall establish specialized teams to process claims for compensation for a covered mental health condition based on military sexual trauma experienced by a veteran during active military, naval, or air service.
+## § 1166. Claims involving military sexual trauma
+**(a) Processing.—**
 
-**(b) Training.—** The Secretary shall ensure that members of teams established under subsection (a) are trained to identify markers indicating military sexual trauma.
+(1) The Secretary shall establish specialized teams to process claims for compensation for a covered mental health condition based on military sexual trauma experienced by a veteran during active military, naval, air, or space service.
 
-**(c) Definitions.—** In this section:
+(2) A peer support specialist of the Department—
+
+  (A) shall not be responsible for providing any assistance to a veteran regarding a claim described in paragraph (1), other than counseling services, guidance, and support, pursuant to duties determined by the Under Secretary for Health; and
+
+  (B) shall not participate in the adjudication of such a claim.
+
+**(b) Referrals to MST Coordinators.—** The Secretary shall include, in forms for claims described in subsection (a), an option for a veteran to elect to be referred to a military sexual trauma coordinator of the Veterans Health Administration at the facility of the Department nearest to the residence of such veteran.
+
+**(c) Training.—**
+
+(1) The Secretary shall ensure that members of teams established under subsection (a) are trained to identify markers indicating military sexual trauma.
+
+(2) The Secretary shall ensure that peer support specialists of the Department receive annual training on how to provide peer support regarding military sexual trauma.
+
+(3) The Secretary shall provide annual training, regarding the processing of claims described in subsection (a), to the following individuals:
+
+  (A) Military sexual trauma coordinators of the Veterans Health Administration.
+
+  (B) Peer support specialists of the Department.
+
+**(d) Definitions.—** In this section:
 
 (1) The term “covered mental health condition” means post-traumatic stress disorder, anxiety, depression, or other mental health diagnosis described in the current version of the Diagnostic and Statistical Manual of Mental Disorders published by the American Psychiatric Association that the Secretary determines to be related to military sexual trauma.
 
-(2) The term “military sexual trauma” means, with respect to a veteran, a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment during active military, naval, or air service.
+(2) The term “military sexual trauma” means, with respect to a veteran, a physical assault of a sexual nature, battery of a sexual nature, or sexual harassment during active military, naval, air, or space service.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–271, § 1(b)(1), substituted “Claims” for “Specialized teams to evaluate claims” in section catchline.
+
+Subsec. (a). Pub. L. 117–271, § 1(a)(2)(B), (C), designated existing provisions as par. (1) and added par. (2).
+
+Pub. L. 117–271, § 1(a)(1), (2)(A), substituted “Processing” for “In General” in heading and “air, or space service” for “or air service” in text.
+
+Subsec. (b). Pub. L. 117–271, § 1(a)(4), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 117–271, § 1(a)(5), designated existing provisions as par. (1) and added pars. (2) and (3).
+
+Pub. L. 117–271, § 1(a)(3), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+
+Subsec. (c)(2). Pub. L. 117–271, § 1(a)(1), substituted “air, or space service” for “or air service”.
+
+Subsec. (d). Pub. L. 117–271, § 1(a)(3), redesignated subsec. (c) as (d).
+
 2021—Pub. L. 117–16, § 7(b)(4)(A), made technical correction to directory language of Pub. L. 116–315, § 5501(a)(1), which enacted this section.
 
 Pub. L. 117–16, § 7(a)(1), renumbered [section 1164 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1164), relating to specialized teams to evaluate claims involving military sexual trauma, as this section.
+
+#### Military Sexual Trauma Claims Coordination
+Pub. L. 117–303, Dec. 27, 2022, 136 Stat. 4387, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘MST Claims Coordination Act’. “SEC. 2. VETERANS HEALTH ADMINISTRATION AND VETERANS BENEFITS ADMINISTRATION COORDINATION FOR CERTAIN CLAIMS ARISING FROM MILITARY SEXUAL TRAUMA.“(a) Coordinated Provision of Materials.—“(1) Required materials.—During or immediately after each covered event, and together with each covered document, in a claim for compensation arising from military sexual trauma experienced by a covered individual, the Under Secretary for Benefits of the Veterans Benefits Administration, in coordination with the Under Secretary for Health of the Veterans Health Administration, shall provide, to the covered individual—“(A) outreach letters; “(B) information on the Veterans Crisis Line; “(C) information on how to make an appointment with a mental health provider; and “(D) other information on available resources relating to military sexual trauma (including information on military sexual trauma coordinators of the Veterans Health Administration, mental health providers trained in military sexual trauma issues, and peer support specialists). “(2) Format of materials.—Materials described in paragraph (1) may be provided electronically. “(b) Automatic Notification System.—In a claim for compensation arising from military sexual trauma experienced by a veteran, if the veteran is enrolled in the patient enrollment system of the Department of Veterans Affairs under [section 1705 of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1705), United States Code, and consents to the notification system under this subsection, the Under Secretary for Benefits shall automatically notify the Under Secretary for Health shortly before the veteran—“(1) participates in any covered event; or “(2) receives any covered document. “(c) Implementation Deadline.—The Secretary of Veterans Affairs shall implement this Act not later than 18 months after the date of the enactment of this Act [Dec. 27, 2022]. “(d) Definitions.—In this section:“(1) The term ‘compensation’ has the meaning given that term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code. “(2) The term ‘covered document’ means a determination (including a rating determination) that the Secretary of Veterans Affairs provides to the claimant in connection with a claim for compensation. “(3) The term ‘covered event’ includes, with respect to a claim for compensation—“(A) a medical examination under [section 5103A of title 38](./chapter-051-claims-effective-dates-and-payments.md#section-5103a), United States Code; “(B) a hearing before the Board of Veterans’ Appeals under section 7107 of such title; and “(C) any other event determined relevant by the Secretary of Veterans Affairs. “(4) The term ‘covered individual’ means a former member of the Armed Forces (as that term is defined in [section 1720D of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1720d), United States Code) who elects to receive materials under subsection (a). “(5) The term ‘military sexual trauma’ has the meaning given that term in [section 1166 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1166), United States Code. “(6) The term ‘Veterans Crisis Line’ means the toll-free hotline for veterans established under [section 1720F(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1720F/h&num=0&edition=prelim), United States Code.”
+
+#### Review of Language and Practices Used in Connection With Claims Involving Military Sexual Trauma
+Pub. L. 117–300, § 2, Dec. 27, 2022, 136 Stat. 4379, provided that: “(a) Board of Veterans’ Appeals.—“(1) In general.— [Amended [section 7112 of this title](./chapter-071-board-of-veterans-appeals.md#section-7112).] “(2) Clerical amendments.—“(A) Section heading.— [Amended [section 7112 of this title](./chapter-071-board-of-veterans-appeals.md#section-7112).] “(B) Table of sections.— [Amended analysis preceding [section 7101 of this title](./chapter-071-board-of-veterans-appeals.md#section-7101).] “(b) Audit and Modification of Denial Letters.—“(1) Requirement.—The Secretary of Veterans Affairs shall conduct an audit of the language used in letters sent to individuals to explain the decision by the Secretary to deny covered claims. Not later than 180 days after the date of the enactment of this Act [Dec. 27, 2022], the Secretary shall modify the letters to ensure that—“(A) the letters use trauma-informed language; and “(B) veterans are not re-traumatized through insensitive language. “(2) Consultation.—The Secretary shall carry out paragraph (1) in consultation with veterans service organizations and other stakeholders as the Secretary determines appropriate. “(c) Examinations.—The Secretary shall establish protocols for Department of Veterans Affairs medical providers and contract medical providers to ensure that the medical providers conduct examinations regarding covered claims using trauma-informed practices. “(d) Definitions.—In this section:“(1) The term ‘compensation’ has the meaning given that term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code. “(2) The term ‘contract medical provider’ means a medical provider who contracts with the Department of Veterans Affairs to provide a medical examination or a medical opinion when such an examination or opinion is necessary to make a decision on a claim under the laws administered by the Secretary of Veterans Affairs. “(3) The term ‘covered claim’ means a claim for compensation based on military sexual trauma experienced by a veteran. “(4) The term ‘military sexual trauma’ has the meaning given that term in [section 1166 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1166), United States Code. “(5) The term ‘trauma-informed’ means, with respect to language or practices, using language or carrying out practices in a manner that—“(A) is based on a knowledge of the awareness of the prevalence and impact of trauma on the physical, emotional, and mental health of an individual, the behaviors of the individual, and the engagement by the individual to services; “(B) is aimed at ensuring environments and services are welcoming and engaging to the individual who receives such services and the staff who provide such services; and “(C) ensures that the language or practices do not retraumatize the individual.”
 
 
 <a id="section-1167"></a>
@@ -3900,10 +3989,23 @@ Pub. L. 117–16, § 7(a)(1), renumbered [section 1164 of this title](./chapter-
 ### Statutory Notes
 
 #### Effective Date
-Pub. L. 117–168, title II, § 203(b), Aug. 10, 2022, 136 Stat. 1776, provided that: “[Section 1167 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1167), United States Code, as added by subsection (a), shall apply with respect to presumptions of service connection established or modified on or after the date of the enactment of this Act [Aug. 10, 2022], including pursuant to amendments made by this Act [see Short Title of 2022 Amendment set out under [section 101 of this title](./chapter-001-general.md#section-101)].”
+Pub. L. 117–168, title II, § 203(b), Aug. 10, 2022, 136 Stat. 1776, provided that: “[Section 1167 of title 38](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1167), United States Code, as added by subsection (a), shall apply with respect to presumptions of service connection established or modified on or after the date of the enactment of this Act [Aug. 10, 2022], including pursuant to amendments made by this Act [see Short Title of 2022 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101)].”
 
 #### Rule of Construction
 Pub. L. 117–168, title II, § 203(c), Aug. 10, 2022, 136 Stat. 1776, provided that: “Nothing in this section [enacting this section and provisions set out as a note above] shall be construed as— “(1) modifying the obligations of the Department of Veterans Affairs under Federal court decisions or settlements in effect as of the date of the enactment of this Act [Aug. 10, 2022]; or “(2) requiring a retroactively applied effective date of a supplemental claim earlier than the date a presumption of service connection is established or modified.”
+
+
+<a id="section-1167"></a>
+## § 1167. Mental health consultations
+**(a) In General.—** Not later than 30 days after the date on which a veteran submits to the Secretary a claim for compensation under this chapter for a service-connected disability relating to a mental health diagnosis, the Secretary shall offer the veteran a mental health consultation to assess the mental health needs of, and care options for, the veteran.
+
+**(b) Availability.—** The Secretary shall—
+
+(1) offer a veteran a consultation under subsection (a) without regard to any previous denial or approval of a claim of that veteran for a service-connected disability relating to a mental health diagnosis; and
+
+(2) ensure that a veteran offered a mental health consultation under subsection (a) may elect to receive such consultation during the one-year period beginning on the date on which the consultation is offered or during such longer period beginning on such date as the Secretary considers appropriate.
+
+**(c) Rule of Construction.—** A consultation provided to a veteran under this section shall not be construed as a determination that any disability of such veteran is service-connected for the purposes of any benefit under the laws administered by the Secretary.
 
 
 <a id="section-1168"></a>

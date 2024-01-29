@@ -832,6 +832,9 @@ The Richard B. Russell National School Lunch Act, referred to in text, is act Ju
 
 1970—Pub. L. 91–248 provided that regulations under this chapter and under the National School Lunch Act may include provisions relating to the service of food in participating schools and service institutions in competition with programs under this chapter and the National School Lunch Act, provided for transfer of funds by any State between programs authorized under this chapter and under the National School Lunch Act, and provided for a reserve of up to one percent of the funds available for apportionment to any State to carry out special development projects.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2010 Amendment
 Amendment by Pub. L. 111–296 effective Oct. 1, 2010, except as otherwise specifically provided, see section 445 of Pub. L. 111–296, set out as a note under [section 1751 of this title](./chapter-013-school-lunch-programs.md#section-1751).
 
@@ -1129,7 +1132,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
       (II) provided under [section 403 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section403&num=0&edition=prelim) for housing that is acquired or constructed under subchapter IV of chapter 169 of title 10 or any related provision of law; and
 
-    (ii) any cost-of-living allowance provided under section 475 11 See References in Text note below. of title 37 to a member of a uniformed service who is on duty outside the contiguous States of the United States.
+    (ii) any cost-of-living allowance provided under [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) to a member of a uniformed service who is on duty outside the contiguous States of the United States.
 
   (C) *Combat pay.—* — For the purpose of determining income eligibility under this section, a State agency shall exclude from income any additional payment under chapter 5 of title 37, or otherwise designated by the Secretary to be appropriate for exclusion under this subparagraph, that is received by or from a member of the United States Armed Forces deployed to a designated combat zone, if the additional pay—
 
@@ -1531,7 +1534,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
       (II) may transfer the funds to local agencies for use in carrying out the program.
 
-    (iv) *Implementation.—* — The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010, and may subsequently revise the criteria for awarding performance bonuses; and 22 So in original. The “; and” probably should be a period.
+    (iv) *Implementation.—* — The Secretary shall provide the first performance bonuses not later than 1 year after December 13, 2010, and may subsequently revise the criteria for awarding performance bonuses; and 11 So in original. The “; and” probably should be a period.
 
 (5)
 
@@ -1934,9 +1937,9 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
 (4) As used in this subsection:
 
-  (A) The term “community health center” has the meaning given the term in section 254c(a) 1 of this title.
+  (A) The term “community health center” has the meaning given the term in section 254c(a) 22 See References in Text note below. of this title.
 
-  (B) The term “migrant health center” has the meaning given the term in section 254b(a)(1) 1 of this title.
+  (B) The term “migrant health center” has the meaning given the term in section 254b(a)(1) 2 of this title.
 
 **(k) National Advisory Council on Maternal, Infant, and Fetal Nutrition; establishment; membership; term; officers; meetings; quorum; technical assistance by Secretary**
 
@@ -2028,7 +2031,7 @@ Secretary prohibited from delaying or withholding or causing any State to delay 
 
     (iii) demonstrated ability to satisfactorily operate the existing program; and
 
-    (iv) whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 1 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 1 will increase the rate of coupon redemption.
+    (iv) whether, in the case of a State that intends to use any funding provided under subparagraph (G)(i) 2 to increase the value of the Federal share of the benefits received by a recipient, the funding provided under subparagraph (G)(i) 2 will increase the rate of coupon redemption.
 
   (D)
 
@@ -2257,8 +2260,6 @@ The Food and Nutrition Act of 2008, referred to in subsecs. (d)(2)(A)(ii)(I), (m
 
 The Social Security Act, referred to in subsecs. (d)(2)(A)(ii)(II), (iii)(I), (e)(4)(A), and (f)(17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV, title XIX, and title XXI of the Act are classified generally to part A (§ 601 et seq.) of subchapter IV, subchapter XIX (§ 1396 et seq.), and subchapter XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
 
-[Section 475 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475&num=0&edition=prelim), referred to in subsec. (d)(2)(B)(ii), was transferred to [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
-
 The Americans with Disabilities Act of 1990, referred to in subsec. (d)(3)(C)(i), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to chapter 126 (§ 12101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of this title](./chapter-126-equal-opportunity-for-individuals-with-disabilities.md#section-12101) and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(15), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section301&num=0&edition=prelim) and Tables.
@@ -2276,6 +2277,8 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 2022—Subsec. (b)(24). Pub. L. 117–129, § 2(1), added par. (24).
+
+Subsec. (d)(2)(B)(ii). Pub. L. 117–263 substituted “section 405” for “section 475”.
 
 Subsec. (h)(8)(L), (M). Pub. L. 117–129, § 2(2), added subpars. (L) and (M).
 
@@ -3036,7 +3039,7 @@ Subsec. (b). Pub. L. 93–150, § 6(b), authorized appropriation of $40,000,000 
 Subsec. (e). Pub. L. 93–150, § 6(c), extended dates for submission of preliminary and final evaluation reports from Oct. 1, 1973, to Oct. 1, 1974, and from Mar. 30, 1974, to Mar. 30, 1975, respectively.
 
 #### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2013 Amendment
 Pub. L. 112–239, div. A, title X, § 1076(a), Jan. 2, 2013, 126 Stat. 1947, provided that the amendment made by section 1076(a)(9) is effective Dec. 31, 2011, and as if included in Pub. L. 112–81 as enacted.
@@ -3126,7 +3129,7 @@ Pub. L. 95–166, § 20, Nov. 10, 1977, 91 Stat. 1346, provided that the amendme
 Pub. L. 94–105, § 14, Oct. 7, 1975, 89 Stat. 518, provided that the amendment made by that section is effective beginning with the fiscal year ending June 30, 1976.
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Regulations
 Pub. L. 108–265, title II, § 203(c)(2)(B), June 30, 2004, 118 Stat. 772, provided that: “Not later than 18 months after the date of receiving the review initiated by the National Academy of Sciences, Institute of Medicine in September 2003 of the supplemental foods available for the special supplemental nutrition program for women, infants, and children authorized under section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786](./chapter-13a-child-nutrition.md#section-1786)), the Secretary shall promulgate a final rule updating the prescribed supplemental foods available through the program.”
@@ -3596,33 +3599,39 @@ Section effective Oct. 1, 1978, and no provisions to be construed to impair or t
 
 (2) **Apparently wholesome food** — The term “apparently wholesome food” means food that meets all quality and labeling standards imposed by Federal, State, and local laws and regulations even though the food may not be readily marketable due to appearance, age, freshness, grade, size, surplus, or other conditions.
 
-(3) **Donate** — The term “donate” means to give without requiring anything of monetary value from the recipient, except that the term shall include giving by a nonprofit organization to another nonprofit organization, notwithstanding that the donor organization has charged a nominal fee to the donee organization, if the ultimate recipient or user is not required to give anything of monetary value.
+(3) **Donate** — The term “donate” means to give without requiring anything of monetary value from the recipient, except that the term shall include giving by a nonprofit organization to another nonprofit organization, notwithstanding that the donor organization has charged a nominal fee to the donee organization, if the ultimate recipient or user is not required to give anything of monetary value or is charged a good Samaritan reduced price.
 
 (4) **Food** — The term “food” means any raw, cooked, processed, or prepared edible substance, ice, beverage, or ingredient used or intended for use in whole or in part for human consumption.
 
 (5) **Gleaner** — The term “gleaner” means a person who harvests for free distribution to the needy, or for donation to a nonprofit organization for ultimate distribution to the needy, an agricultural crop that has been donated by the owner.
 
-(6) **Grocery product** — The term “grocery product” means a nonfood grocery product, including a disposable paper or plastic product, household cleaning product, laundry detergent, cleaning product, or miscellaneous household item.
+(6) **Good Samaritan reduced price** — The term “good Samaritan reduced price” means, with respect to the price of an apparently wholesome food or apparently fit grocery product, a price that is an amount not greater than the cost of handling, administering, harvesting, processing, packaging, transporting, and distributing the apparently wholesome food or apparently fit grocery product.
 
-(7) **Gross negligence** — The term “gross negligence” means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likely to be harmful to the health or well-being of another person.
+(7) **Grocery product** — The term “grocery product” means a nonfood grocery product, including a disposable paper or plastic product, household cleaning product, laundry detergent, cleaning product, or miscellaneous household item.
 
-(8) **Intentional misconduct** — The term “intentional misconduct” means conduct by a person with knowledge (at the time of the conduct) that the conduct is harmful to the health or well-being of another person.
+(8) **Gross negligence** — The term “gross negligence” means voluntary and conscious conduct (including a failure to act) by a person who, at the time of the conduct, knew that the conduct was likely to be harmful to the health or well-being of another person.
 
-(9) **Nonprofit organization** — The term “nonprofit organization” means an incorporated or unincorporated entity that—
+(9) **Intentional misconduct** — The term “intentional misconduct” means conduct by a person with knowledge (at the time of the conduct) that the conduct is harmful to the health or well-being of another person.
+
+(10) **Nonprofit organization** — The term “nonprofit organization” means an incorporated or unincorporated entity that—
 
   (A) is operating for religious, charitable, or educational purposes; and
 
   (B) does not provide net earnings to, or operate in any other manner that inures to the benefit of, any officer, employee, or shareholder of the entity.
 
-(10) **Person** — The term “person” means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the case of a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
+(11) **Person** — The term “person” means an individual, corporation, partnership, organization, association, or governmental entity, including a retail grocer, wholesaler, hotel, motel, manufacturer, restaurant, caterer, farmer, and nonprofit food distributor or hospital. In the case of a corporation, partnership, organization, association, or governmental entity, the term includes an officer, director, partner, deacon, trustee, council member, or other elected or appointed individual responsible for the governance of the entity.
+
+(12) **Qualified direct donor** — The term “qualified direct donor” means a retail grocer, wholesaler, agricultural producer, agricultural processor, agricultural distributor, restaurant, caterer, school food authority, or institution of higher education (as defined in [section 1002 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)).
 
 **(c) Liability for damages from donated food and grocery products**
 
-(1) **Liability of person or gleaner** — A person or gleaner shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals.
+(1) **Liability of person or gleaner** — A person or gleaner shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the person or gleaner donates in good faith to a nonprofit organization for ultimate distribution to needy individuals at zero cost or at a good Samaritan reduced price.
 
-(2) **Liability of nonprofit organization** — A nonprofit organization shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the nonprofit organization received as a donation in good faith from a person or gleaner for ultimate distribution to needy individuals.
+(2) **Liability of nonprofit organization** — A nonprofit organization shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the nonprofit organization received as a donation in good faith from a person or gleaner for ultimate distribution to needy individuals at zero cost or at a good Samaritan reduced price.
 
-(3) **Exception** — Paragraphs (1) and (2) shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the person, gleaner, or nonprofit organization, as applicable, constituting gross negligence or intentional misconduct.
+(3) **Direct donations to needy individuals** — A qualified direct donor shall not be subject to civil or criminal liability arising from the nature, age, packaging, or condition of apparently wholesome food or an apparently fit grocery product that the qualified direct donor donates in good faith to a needy individual at zero cost.
+
+(4) **Exception** — Paragraphs (1), (2), and (3) shall not apply to an injury to or death of an ultimate user or recipient of the food or grocery product that results from an act or omission of the person, gleaner, or nonprofit organization, as applicable, constituting gross negligence or intentional misconduct.
 
 **(d) Collection or gleaning of donations** A person who allows the collection or gleaning of donations on property owned or occupied by the person by gleaners, or paid or unpaid representatives of a nonprofit organization, for ultimate distribution to needy individuals shall not be subject to civil or criminal liability that arises due to the injury or death of the gleaner or representative, except that this paragraph shall not apply to an injury or death that results from an act or omission of the person constituting gross negligence or intentional misconduct.
 
@@ -3642,6 +3651,18 @@ Section effective Oct. 1, 1978, and no provisions to be construed to impair or t
 Section was formerly classified to [section 12672 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12672&num=0&edition=prelim) prior to renumbering by Pub. L. 104–210.
 
 #### Amendments
+2023—Subsec. (b)(3). Pub. L. 117–362, § 1(1)(A), inserted “or is charged a good Samaritan reduced price” before period at end.
+
+Subsec. (b)(6) to (11). Pub. L. 117–362, § 1(1)(B), (C), added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
+
+Subsec. (b)(12). Pub. L. 117–362, § 1(1)(D), added par. (12).
+
+Subsec. (c)(1), (2). Pub. L. 117–362, § 1(2)(A), inserted “at zero cost or at a good Samaritan reduced price” after “needy individuals”.
+
+Subsec. (c)(3). Pub. L. 117–362, § 1(2)(C), added par. (3). Former par. (3) redesignated (4).
+
+Subsec. (c)(4). Pub. L. 117–362, § 1(2)(B), (D), redesignated par. (3) as (4) and substituted “, (2), and (3)” for “and (2)”.
+
 1996—Pub. L. 104–210, § 1(a)(2)(A), substituted “Bill Emerson” for “Model” in section catchline.
 
 Subsec. (a). Pub. L. 104–210, § 1(a)(2)(B), inserted “Bill Emerson” before “Good”.

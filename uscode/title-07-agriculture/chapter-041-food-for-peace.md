@@ -1362,16 +1362,15 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 (2) **Consultation regarding food aid quality efforts** — The Administrator shall seek input from and consult with the Group on the implementation of [section 1722(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1722/h&num=0&edition=prelim).
 
-**(e) Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Group.
+**(e) Chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the Group.
 
 **(f) Termination** The Group shall terminate on December 31, 2023.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–286, which directed amendment of “Section 205(e) of the Agricultural Trade Development and Assistance Act of 1954” by substituting “Chapter 10 of title 5” for “Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text, was executed to this section, which is section 205(e) of the Food for Peace Act, to reflect the probable intent of Congress.
+
 2018—Subsec. (b)(2). Pub. L. 115–334, § 12405(c), substituted “Under Secretary of Agriculture for Trade and Foreign Agricultural Affairs” for “Under Secretary of Agriculture for Farm and Foreign Agricultural Services”.
 
 Subsec. (d)(1). Pub. L. 115–334, § 3105(1), substituted “30 days” for “45 days”.
@@ -2824,7 +2823,7 @@ Section 1736bb–5, Pub. L. 100–202, § 6, Dec. 22, 1987, 101 Stat. 1329–447
 Section 1736bb–6, Pub. L. 100–202, § 7, Dec. 22, 1987, 101 Stat. 1329–447; Pub. L. 100–418, title IV, § 4610(b), Aug. 23, 1988, 102 Stat. 1411; Pub. L. 101–624, title XV, § 1515(b), Nov. 28, 1990, 104 Stat. 3663; Pub. L. 102–237, title III, § 307, Dec. 13, 1991, 105 Stat. 1856, provided definitions for former sections 1736bb to 1736bb–6.
 
 #### Inapplicability of Federal Advisory Committee Act to Agricultural Aid and Trade Missions
-Pub. L. 100–277, § 7, Apr. 4, 1988, 102 Stat. 69, provided that any agricultural aid and trade mission established under this section and any other activity under sections 1736bb to 1736bb–6 of this title were not to be considered advisory committee for purposes of Federal Advisory Committee Act, 5 App. U.S.C., prior to repeal by Pub. L. 104–127, title II, § 271(b), Apr. 4, 1996, 110 Stat. 976.
+Pub. L. 100–277, § 7, Apr. 4, 1988, 102 Stat. 69, provided that any agricultural aid and trade mission established under this section and any other activity under sections 1736bb to 1736bb–6 of this title were not to be considered advisory committee for purposes of Federal Advisory Committee Act, see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq., prior to repeal by Pub. L. 104–127, title II, § 271(b), Apr. 4, 1996, 110 Stat. 976.
 
 
 <a id="section-1736e"></a>
@@ -3167,7 +3166,7 @@ Functions of President under subsec. (b) of this section delegated to Director o
 
 (1) **In general** — The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2023.
 
-(2) **Disposal of eligible commodities** — Eligible commodities remaining in the trust after September 30, 2023, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+(2) **Disposal of eligible commodities** — Eligible commodities remaining in the trust after September 30, 2024, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
 ### Statutory Notes
 
@@ -3179,6 +3178,8 @@ The Food for Peace Act, referred to in subsecs. (b)(2)(B)(i), (c)(1)(B), (C), (e
 [Section 4606 of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4606&num=0&edition=prelim), referred to in subsec. (e)(2), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232.
 
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is title III of the Agricultural Act of 1980, and not as part of the Food for Peace Act which comprises this chapter.
@@ -3187,6 +3188,8 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 A prior section 1736f–1, Pub. L. 96–494, title III, § 302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, § 1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, § 1143, title XV, § 1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, § 225(a).
 
 #### Amendments
+2023—Subsec. (h)(2). Pub. L. 118–22 substituted “2024” for “2023”.
+
 2018—Subsec. (b)(2)(B)(i). Pub. L. 115–334, § 3303(1), substituted “2023” for “2018” in two places.
 
 Subsec. (h). Pub. L. 115–334, § 3303(2), substituted “2023” for “2018” in pars. (1) and (2).
@@ -3252,6 +3255,9 @@ Subsec. (f)(2). Pub. L. 105–385, § 212(a)(4)(A), inserted “of trust” afte
 Subsec. (f)(2)(A). Pub. L. 105–385, § 212(a)(4)(B), inserted before period at end “and the funds shall be available to replenish the trust under subsection (b)”.
 
 Subsecs. (f)(2)(B)(ii), (h)(1), (2). Pub. L. 105–385, § 212(b)(3)(B), substituted “trust” for “reserve”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -3322,6 +3328,8 @@ Section effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out a
 ### Statutory Notes
 
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 #### Amendments

@@ -15,13 +15,23 @@ A member of the armed forces shall be considered to be involuntarily separated f
 
 (2) in the case of a reserve officer who is on the active-duty list or, if not on the active-duty list, is on full-time active duty (or in the case of a member of the National Guard, full-time National Guard duty) for the purpose of organizing, administering, recruiting, instructing, or training the reserve components, the officer is involuntarily discharged or released from active duty or full-time National Guard (other than a release from active duty or full-time National Guard duty incident to a transfer to retired status) under other than adverse conditions, as characterized by the Secretary concerned;
 
-(3) in the case of a regular enlisted member serving on active duty, the member is (A) denied reenlistment, or (B) involuntarily discharged under other than adverse conditions, as characterized by the Secretary concerned; and
+(3) in the case of a regular enlisted member serving on active duty, the member is (A) denied reenlistment, or (B) involuntarily discharged under other than adverse conditions, as characterized by the Secretary concerned;
 
-(4) in the case of a reserve enlisted member who is on full-time active duty (or in the case of a member of the National Guard, full-time National Guard duty) for the purpose of organizing, administering, recruiting, instructing, or training the reserve components, the member (A) is denied reenlistment, or (B) is involuntarily discharged or released from active duty (or full-time National Guard) under other than adverse conditions, as characterized by the Secretary concerned.
+(4) in the case of a reserve enlisted member who is on full-time active duty (or in the case of a member of the National Guard, full-time National Guard duty) for the purpose of organizing, administering, recruiting, instructing, or training the reserve components, the member (A) is denied reenlistment, or (B) is involuntarily discharged or released from active duty (or full-time National Guard) under other than adverse conditions, as characterized by the Secretary concerned;
+
+(5) in the case of an officer of the Space Force (other than a retired officer), the officer is involuntarily discharged or released from active duty under other than adverse conditions, as characterized by the Secretary of the Air Force; and
+
+(6) in the case of an enlisted member of the Space Force, the member is—
+
+  (A) denied reenlistment; or
+
+  (B) involuntarily discharged or released from active duty under other than adverse conditions, as characterized by the Secretary of the Air Force.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Pars. (5), (6). Pub. L. 118–31 added pars. (5) and (6).
+
 1994—Pub. L. 103–337, in introductory provisions, substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” and “or after November 29, 1993, or, with respect to a member of the Coast Guard, if the member was on active duty in the Coast Guard after September 30, 1994,” for “or on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994”.
 
 1993—Pub. L. 103–160 inserted “or on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1994” after “September 30, 1990,”.
@@ -117,9 +127,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (D) Whether the member was a member of a regular or reserve component of an armed force.
 
-  (E) Disability.
+  (E) Potential or confirmed disability.
 
-  (F) Character of discharge (including expedited discharge and discharge under conditions other than honorable).
+  (F) Potential or confirmed character of discharge (including expedited discharge and discharge under conditions other than honorable).
 
   (G) Health (including mental health).
 
@@ -178,6 +188,10 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (c)(1)(E). Pub. L. 118–31, § 571(1), substituted “Potential or confirmed disability” for “Disability”.
+
+Subsec. (c)(1)(F). Pub. L. 118–31, § 571(2), substituted “Potential or confirmed character” for “Character”.
+
 2019—Subsec. (b)(19). Pub. L. 116–92, § 561, added par. (19).
 
 Subsec. (c)(3). Pub. L. 116–92, § 1731(a)(26), substituted “paragraph (2)(C)” for “paragraph (2)(B)”.
@@ -324,9 +338,13 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, pro
 
 **(d) Employment Preference by Nonappropriated Fund Instrumentalities.—** The Secretary of Defense shall take such steps as necessary to provide that members of Army, Navy, Air Force, Marine Corps, or Space Force who are involuntarily separated, and the dependents of such members, shall be provided a preference in hiring by nonappropriated fund instrumentalities of the Department. Such preference shall be administered in the same manner as the preference for military spouses provided under [section 1784(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1784/a/2&num=0&edition=prelim), except that a preference under that section shall have priority over a preference under this subsection. A person may receive a preference in hiring under this subsection only once. The Secretary of Homeland Security shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.
 
-**(e) Employment Skills Training.—**
+**(e) Employment Skills Training; Skillbridge.—**
 
-(1) The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector.
+(1)
+
+  (a) 11 So in original. Probably should be “(A)”. The Secretary concerned may carry out one or more programs to provide eligible members of the armed forces under the jurisdiction of the Secretary with job training and employment skills training, including apprenticeship programs, to help prepare such members for employment in the civilian sector. Such a program shall be known as “Skillbridge”.
+
+  (B) The Secretary of a military department shall carry out one or more programs under this subsection.
 
 (2) A member of the armed forces is an eligible member for purposes of a program under this subsection if the member—
 
@@ -334,13 +352,33 @@ Pub. L. 103–337, div. A, title V, § 543(h), Oct. 5, 1994, 108 Stat. 2772, pro
 
   (B) is expected to be discharged or released from active duty in the armed forces within 180 days of the date of commencement of participation in such a program.
 
-(3) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary concerned considers appropriate.
+(3) To carry out this subsection, the Secretary concerned shall—
 
-(4) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
+  (A) assign not fewer than two full-time equivalent positions; and
+
+  (B) develop for each fiscal year a funding plan that includes funding lines across the future-years defense program under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221).
+
+(4) For any program under this subsection, the Secretary concerned shall, on an annual basis—
+
+  (A) circulate, to members serving on active duty under the jurisdiction of such Secretary concerned, information about the program (including eligibility requirements and the application process); and
+
+  (B) conduct outreach to inform potential employers about Skillbridge, participating members, and how the program operates, and to increase the number of, and types of, employers that hire program participants.
+
+(5) Any program under this subsection may be carried out at, through, or in consultation with such other departments or agencies of the Federal Government as the Secretary concerned considers appropriate.
+
+(6) Any program under this subsection shall be carried out in accordance with regulations prescribed by the Secretary concerned.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (e)(1). Pub. L. 118–31, § 572(a)(1), designated existing provisions as subpar. “(a)” and added subpar. (B).
+
+Subsec. (e)(3) to (6). Pub. L. 118–31, § 572(a)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
+
+2022—Subsec. (e). Pub. L. 117–263, § 561(a)(1), inserted “; Skillbridge” after “Training” in heading.
+
+Subsec. (e)(1). Pub. L. 117–263, § 561(a)(2), inserted at end “Such a program shall be known as ‘Skillbridge’.”
+
 2021—Subsecs. (a)(2)(A), (c)(2)(A)(ii). Pub. L. 116–283, § 924(b)(1)(J), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
 
 Subsec. (d). Pub. L. 116–283, § 924(b)(3)(R), substituted “Marine Corps, or Space Force” for “or Marine Corps”.
@@ -376,10 +414,13 @@ Subsec. (c). Pub. L. 103–337, § 542(a)(2)(D), inserted “and the Secretary o
 Subsec. (d). Pub. L. 103–337, § 542(a)(2)(E), inserted at end “The Secretary of Transportation shall provide the same preference in hiring to involuntarily separated members of the Coast Guard, and the dependents of such members, in Coast Guard nonappropriated fund instrumentalities.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
+
+#### Regulations
+Pub. L. 117–263, div. A, title V, § 561(b), Dec. 23, 2022, 136 Stat. 2598, provided that: “To carry out Skillbridge, the Secretary of Defense shall, not later than September 30, 2023— “(1) update Department of Defense Instruction 1322.29, titled ‘Job Training, Employment Skills Training, Apprenticeships, and Internships (JTEST-AI) for Eligible Service Members’; and “(2) develop a funding plan for Skillbridge that includes funding lines across the future-years defense program under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code.”
 
 #### Authority To Expand Eligibility for the United States Military Apprenticeship Program
 Pub. L. 115–91, div. A, title V, § 546, Dec. 12, 2017, 131 Stat. 1397, provided that: “(a) Expansion Authorized.—The Secretary of Defense may expand eligibility for the United Services Military Apprenticeship Program to include any member of the uniformed services. “(b) Definition.—In this section, the term ‘uniformed services’ has the meaning given such term in [section 101(a)(5) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/5&num=0&edition=prelim), United States Code.”
@@ -432,7 +473,7 @@ Pub. L. 102–484, div. D, title XLIV, § 4464, Oct. 23, 1992, 106 Stat. 2741, w
 
 **(b) Elements of Program.—** In establishing and carrying out a program under this section, the Secretary of Labor shall do the following:
 
-(1) Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities, (C) instruction in resumé preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
+(1) Provide information concerning employment and training assistance, including (A) labor market information, (B) civilian work place requirements and employment opportunities (including apprenticeship programs approved under chapters 30 through 36 of title 38), (C) instruction in resumé preparation, and (D) job analysis techniques, job search techniques, and job interview techniques.
 
 (2) In providing information under paragraph (1), use experience obtained from implementation of the pilot program established under section 408 of Public Law 101–237.
 
@@ -526,6 +567,8 @@ Section 408 of Public Law 101–237, referred to in subsec. (b)(2), is set out a
 The National Apprenticeship Act, referred to in subsec. (e), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(1)(B). Pub. L. 117–328 inserted “(including apprenticeship programs approved under chapters 30 through 36 of title 38)” after “employment opportunities”.
+
 2018—Subsec. (a)(1). Pub. L. 115–232, § 552(b)(1)(A), substituted “Subject to subsection (f)(2), such services” for “Such services”.
 
 Subsec. (b)(8) to (11). Pub. L. 115–232, § 553(b)(1), redesignated pars. (9) to (11) as (8) to (10), respectively, and struck out former par. (8) which read as follows: “Provide information regarding the public and community service jobs program carried out under [section 1143a of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1143a).”
@@ -586,7 +629,7 @@ Subsec. (b)(6). Pub. L. 102–190, § 1061(a)(6)(C), substituted “those areas�
 Amendment by section 221(a) of Pub. L. 112–56 effective on the date that is 1 year after Nov. 21, 2011, see section 221(c) of Pub. L. 112–56, set out as a note under [section 1142 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1142).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Command Matters in Connection With Transition Assistance Programs
 Pub. L. 116–92, div. A, title V, § 568, Dec. 20, 2019, 133 Stat. 1397, provided that: “The training provided a commander of a military installation in connection with the commencement of assignment to the installation shall include a module on the covered transition assistance programs available for members of the Armed Forces assigned to the installation.”
@@ -623,7 +666,7 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 ## § 1145. Health benefits
 **(a) Transitional Health Care.—**
 
-(1) For the time period described in paragraph (4), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member) shall be entitled to receive—
+(1) For the time period described in paragraph (4), a member of the armed forces who is separated from active service as described in paragraph (2) (and the dependents of the member) shall be entitled to receive—
 
   (A) except as provided in paragraph (3), medical and dental care under [section 1076 of this title](./chapter-055-medical-and-dental-care.md#section-1076) in the same manner as a dependent described in subsection (a)(2) of such section; and
 
@@ -643,15 +686,17 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 
   (F) A member who is separated from active duty who agrees to become a member of the Selected Reserve of the Ready Reserve of a reserve component.
 
-(3) In the case of a member described in paragraph (2)(B), the dental care to which the member is entitled under this subsection shall be the dental care to which a member of the uniformed services on active duty for more than 30 days is entitled under [section 1074 of this title](./chapter-055-medical-and-dental-care.md#section-1074).
+  (G) A member of the National Guard who is separated from full-time National Guard Duty to which called or ordered under [section 502(f) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f&num=0&edition=prelim) for a period of active service of more than 30 days to perform duties that are authorized by the President or the Secretary of Defense for the purpose of responding to a national emergency declared by Congress or the President and supported by Federal funds.
 
-(4) Except as provided in paragraph (7), transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active duty. For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty.
+(3) In the case of a member described in subparagraph (B) or (G) of paragraph (2), the dental care to which the member is entitled under this subsection shall be the dental care to which a member of the uniformed services on active duty for more than 30 days is entitled under [section 1074 of this title](./chapter-055-medical-and-dental-care.md#section-1074).
+
+(4) Except as provided in paragraph (7), transitional health care for a member under subsection (a) shall be available for 180 days beginning on the date on which the member is separated from active service. For purposes of the preceding sentence, in the case of a member on active service as described in subparagraph (B), (C), (D), or (G) of paragraph (2) who, without a break in service, is extended on active service for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active service.
 
 (5)
 
-  (A) Except as provided in subparagraph (D), the Secretary concerned shall require a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) to undergo a physical examination and a mental health assessment conducted pursuant to [section 1074n of this title](./chapter-055-medical-and-dental-care.md#section-1074n) immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
+  (A) Except as provided in subparagraph (D), the Secretary concerned shall require a member of the armed forces scheduled to be separated from active service as described in paragraph (2) to undergo a physical examination and a mental health assessment conducted pursuant to [section 1074n of this title](./chapter-055-medical-and-dental-care.md#section-1074n) immediately before that separation. The physical examination shall be conducted in accordance with regulations prescribed by the Secretary of Defense.
 
-  (B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active duty as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active duty, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member’s unit commander.
+  (B) Notwithstanding subparagraph (A), if a member of the armed forces scheduled to be separated from active service as described in paragraph (2) has otherwise undergone a physical examination within 12 months before the scheduled date of separation from active service, the requirement for a physical examination under subparagraph (A) may be waived in accordance with regulations prescribed under this paragraph. Such regulations shall require that such a waiver may be granted only with the consent of the member and with the concurrence of the member’s unit commander.
 
   (C) The Secretary concerned shall ensure that each physical examination of a member under subparagraph (A) includes an assessment of whether the member was—
 
@@ -679,13 +724,13 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 
 (7)
 
-  (A) A member who has a medical condition relating to service on active duty that warrants further medical care that has been identified during the member’s 180-day transition period, which condition can be resolved within 180 days as determined by a Department of Defense physician, shall be entitled to receive medical and dental care for that medical condition, and that medical condition only, as if the member were a member of the armed forces on active duty for 180 days following the diagnosis of the condition.
+  (A) A member who has a medical condition relating to active service that warrants further medical care that has been identified during the member’s 180-day transition period, which condition can be resolved within 180 days as determined by a Department of Defense physician, shall be entitled to receive medical and dental care for that medical condition, and that medical condition only, as if the member were a member of the armed forces on active service for 180 days following the diagnosis of the condition.
 
   (B) The Secretary concerned shall ensure that the Defense Enrollment and Eligibility Reporting System (DEERS) is continually updated in order to reflect the continuing entitlement of members covered by subparagraph (A) to the medical and dental care referred to in that subparagraph.
 
 **(b) Conversion Health Policies.—**
 
-(1) The Secretary of Defense shall inform each member referred to in subsection (a) before the date of the member’s discharge or release from active duty of the availability for purchase by the member of a conversion health policy for the member and the dependents of that member. A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.
+(1) The Secretary of Defense shall inform each member referred to in subsection (a) before the date of the member’s discharge or release from active service of the availability for purchase by the member of a conversion health policy for the member and the dependents of that member. A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.
 
 (2) If a member referred to in subsection (a) purchases a conversion health policy during the period applicable to the member (or within a reasonable time after that period as prescribed by the Secretary of Defense), the Secretary shall provide health care, or pay the costs of health care provided, to the member and the dependents of the member—
 
@@ -715,7 +760,7 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 
 (1) The Secretary concerned shall provide a physical examination pursuant to subsection (a)(5) to each member of a reserve component who—
 
-  (A) during the two-year period before the date on which the member is scheduled to be separated from the armed forces served on active duty in support of a contingency operation for a period of more than 30 days;
+  (A) during the two-year period before the date on which the member is scheduled to be separated from the armed forces served on active service in support of a contingency operation for a period of more than 30 days;
 
   (B) will not otherwise receive such an examination under such subsection; and
 
@@ -738,6 +783,22 @@ Pub. L. 101–510, div. A, title V, § 502(c), Nov. 5, 1990, 104 Stat. 1557, dir
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263, § 702(b)(1)(A), substituted “active service” for “active duty” in introductory provisions.
+
+Subsec. (a)(2)(G). Pub. L. 117–263, § 702(a), added subpar. (G).
+
+Subsec. (a)(3). Pub. L. 117–263, § 702(b)(1)(B), substituted “subparagraph (B) or (G) of paragraph (2)” for “paragraph (2)(B)”.
+
+Subsec. (a)(4). Pub. L. 117–263, § 702(b)(1)(C), substituted “active service” for “active duty” wherever appearing and “(D), or (G)” for “or (D)”.
+
+Subsec. (a)(5)(A), (B). Pub. L. 117–263, § 702(b)(1)(D), substituted “active service” for “active duty” wherever appearing.
+
+Subsec. (a)(7)(A). Pub. L. 117–263, § 702(b)(1)(E), substituted “active service” for “service on active duty” and “active service for” for “active duty for”.
+
+Subsec. (b)(1). Pub. L. 117–263, § 702(b)(2), substituted “active service” for “active duty”.
+
+Subsec. (d)(1)(A). Pub. L. 117–263, § 702(b)(3), substituted “active service” for “active duty”.
+
 2021—Subsec. (a)(5)(A). Pub. L. 117–81, § 717(1), substituted “Except as provided in subparagraph (D), the Secretary” for “The Secretary”.
 
 Subsec. (a)(5)(D). Pub. L. 117–81, § 717(2), added subpar. (D).
@@ -820,7 +881,7 @@ Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship 
 #### Effective Date of 2002 Amendment
 Pub. L. 107–314, div. A, title VII, § 706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section [amending this section] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 [Pub. L. 107–107] as enacted.”
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
@@ -950,7 +1011,7 @@ The Secretary of Defense and the Secretary of Homeland Security shall develop a 
 1994—Pub. L. 103–337 inserted “and the Secretary of Transportation” after “Secretary of Defense”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
@@ -974,7 +1035,7 @@ Under regulations prescribed by the Secretary of Defense or the Secretary of Hom
 1994—Pub. L. 103–337 inserted “or the Secretary of Transportation with respect to the Coast Guard” after “Secretary of Defense” and struck out “of the military department” before “concerned”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
@@ -1006,7 +1067,7 @@ Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who
 1992—Subsec. (a). Pub. L. 102–484 struck out “involuntarily” after “who is”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under [section 1141 of this title](./chapter-058-benefits-and-services-for-members-being-separated-or-recently-separated.md#section-1141).
@@ -1074,7 +1135,7 @@ Subsec. (g)(2). Pub. L. 104–106 substituted “not later than April 3, 1994,�
 Pub. L. 103–337, § 1132(a)(1), substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1153"></a>
@@ -1161,7 +1222,7 @@ Subsec. (e)(1). Pub. L. 103–337, § 543(e)(7)(A), inserted “, and the Secret
 Subsec. (e)(2). Pub. L. 103–337, § 543(e)(7)(B), inserted “concerned” after “The Secretary”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1154"></a>
@@ -1176,17 +1237,21 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
     (i) at least 30 percent of the students enrolled in the school are from families with incomes below 185 percent of poverty level (as defined by the Office of Management and Budget and revised at least annually in accordance with section 9(b)(1) of the Richard B. Russell National School Lunch Act ([42 U.S.C. 1758(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1758/b/1&num=0&edition=prelim)) applicable to a family of the size involved; or
 
-    (ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act ([20 U.S.C. 1411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411&num=0&edition=prelim) et seq.); or
+    (ii) at least 13 percent of the students enrolled in the school qualify for assistance under part B of the Individuals with Disabilities Education Act ([20 U.S.C. 1411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411&num=0&edition=prelim) et seq.);
 
-  (B) a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ([25 U.S.C. 2021(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021/3&num=0&edition=prelim)).
+  (B) a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ([25 U.S.C. 2021(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2021/3&num=0&edition=prelim)); or
+
+  (C) a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3197](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3197&num=0&edition=prelim)).
 
 (3) **High-need school.—** — The term “high-need school” means—
 
   (A) an elementary or middle school in which at least 50 percent of the enrolled students are children from low-income families, based on the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.), the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act ([42 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section601&num=0&edition=prelim) et seq.), the number of children eligible to receive medical assistance under the Medicaid program, or a composite of these indicators;
 
-  (B) a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools; or
+  (B) a high school in which at least 40 percent of enrolled students are children from low-income families, which may be calculated using comparable data from feeder schools;
 
-  (C) a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965.
+  (C) a school that is in a local educational agency that is eligible under section 5211(b) of the Elementary and Secondary Education Act of 1965; or
+
+  (D) a Job Corps center as defined in section 147 of the Workforce Innovation and Opportunity Act ([29 U.S.C. 3197](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3197&num=0&edition=prelim)).
 
 (4) **Member of the armed forces.—** — The term “member of the armed forces” includes a retired or former member of the armed forces.
 
@@ -1208,9 +1273,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
     (i) receiving grants under part A of title I of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim) et seq.) as a result of having within their jurisdictions concentrations of children from low-income families; or
 
-    (ii) experiencing a shortage of teachers, in particular a shortage of science, mathematics, special education, foreign language, or career or technical teachers; and
+    (ii) experiencing a shortage of teachers, in particular a shortage of science, mathematics, special education, foreign language, or career or technical teachers;
 
-  (B) in elementary schools or secondary schools, or as career or technical teachers.
+  (B) in elementary schools or secondary schools, or as career or technical teachers; and
+
+  (C) as administrators and instructors of the Junior Reserve Officers’ Training Corps under [section 2031(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2031/d&num=0&edition=prelim).
 
 **(c) Counseling and Referral Services.—** The Secretary may provide counseling and referral services to members of the armed forces who do not meet the eligibility criteria described in subsection (d), including the education qualification requirements under paragraph (3)(B) of such subsection.
 
@@ -1264,7 +1331,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
     (i) have educational or military experience in science, mathematics, special education, foreign language, or career or technical subjects; and
 
-    (ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or in other schools under the jurisdiction of a local educational agency; and
+    (ii) agree to seek employment as science, mathematics, foreign language, or special education teachers in elementary schools or secondary schools or Job Corps centers or in other schools under the jurisdiction of a local educational agency; and
 
   (B) may give priority to members who agree to seek employment in a high-need school.
 
@@ -1296,7 +1363,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (D) is unable to secure employment for a period not to exceed 12 months by reason of the care required by a spouse who is disabled;
 
-  (E) is unable to find full-time employment as a teacher in an eligible elementary school or secondary school or as a career or technical teacher for a single period not to exceed 27 months; or
+  (E) is unable to find full-time employment as a teacher in an eligible elementary school or secondary school or Job Corps center or as a career or technical teacher for a single period not to exceed 27 months; or
 
   (F) satisfies the provisions of additional reimbursement exceptions that may be prescribed by the Secretary.
 
@@ -1370,7 +1437,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 **(j) Limitation on Total Fiscal-year Obligations.—** The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
-**(k) Sunset.—** The Program shall terminate on July 1, 2025, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
+**(k) Sunset.—** The Program shall terminate on July 1, 2027, with respect to the selection of new participants for the program. Participants in the Program as of that date may complete their program, and remain eligible for benefits under this section.
 
 ### Statutory Notes
 
@@ -1386,6 +1453,18 @@ The Social Security Act, referred to in subsec. (a)(3)(A), is act Aug. 14, 1935,
 The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2023—Subsec. (a)(2)(C). Pub. L. 118–31, § 573(1)(A), added subpar. (C).
+
+Subsec. (a)(3)(D). Pub. L. 118–31, § 573(1)(B), added subpar. (D).
+
+Subsec. (b)(2)(C). Pub. L. 118–31, § 574(1), added subpar (C).
+
+Subsec. (d)(4)(A)(ii). Pub. L. 118–31, § 573(2), inserted “or Job Corps centers” after “secondary schools”.
+
+Subsec. (e)(2)(E). Pub. L. 118–31, § 573(3), inserted “or Job Corps center” after “secondary school”.
+
+Subsec. (k). Pub. L. 118–31, § 574(2), substituted “2027” for “2025”.
+
 2021—Subsec. (b). Pub. L. 117–81, § 551(a), substituted “shall” for “may” in introductory provisions.
 
 Subsecs. (i), (j). Pub. L. 117–81, § 551(b), added subsec. (i) and redesignated former subsec. (i) as (j).
@@ -1403,6 +1482,9 @@ Subsec. (a)(3)(C). Pub. L. 114–95, § 9215(uuu)(2)(B), substituted “section 
 Subsec. (a)(8). Pub. L. 114–95, § 9215(uuu)(2)(C), substituted “section 8101 of the Elementary and Secondary Education Act of 1965” for “section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section7801&num=0&edition=prelim))”.
 
 2014—Subsec. (a)(2)(A)(ii). Pub. L. 113–291 substituted “[20 U.S.C. 1411](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1411&num=0&edition=prelim)” for “20 U.S.C.1411”.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2015 Amendment
 Amendment by Pub. L. 114–95 effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 114–95, set out as a note under [section 6301 of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section6301&num=0&edition=prelim), Education.

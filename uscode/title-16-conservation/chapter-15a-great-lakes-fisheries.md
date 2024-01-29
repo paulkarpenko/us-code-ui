@@ -98,7 +98,7 @@ Secretary of State authorized to designate Alternate United States Commissioners
 2002—Subsec. (c). Pub. L. 107–228, which directed the substitution of “ten” for “five” and “the annual” for “each” in subsec. (c) of section 4 of the Great Lakes Fisheries Act of 1956, was executed by making the substitutions in subsec. (c) of this section, which is section 4 of the Great Lakes Fishery Act of 1956, to reflect the probable intent of Congress.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-934"></a>

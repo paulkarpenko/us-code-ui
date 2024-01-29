@@ -1357,7 +1357,7 @@ Subsec. (b)(3). Pub. L. 114–60, § 2(a)(3), amended par. (3) generally. Prior 
 
     (iii) on the basis that the plan provides treatments necessary to prevent patients’ deaths in circumstances the Exchange determines are inappropriate or too costly.
 
-(2) **Premium considerations** — The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) 1 of the Public Health Service Act [[42 U.S.C. 300gg–94(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–94/b/1&num=0&edition=prelim)] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
+(2) **Premium considerations** — The Exchange shall require health plans seeking certification as qualified health plans to submit a justification for any premium increase prior to implementation of the increase. Such plans shall prominently post such information on their websites. The Exchange shall take this information, and the information and the recommendations provided to the Exchange by the State under section 2794(b)(1) of the Public Health Service Act [[42 U.S.C. 300gg–94(b)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–94/b/1&num=0&edition=prelim)] (relating to patterns or practices of excessive or unjustified premium increases), into consideration when determining whether to make such health plan available through the Exchange. The Exchange shall take into account any excess of premium growth outside the Exchange as compared to the rate of such growth inside the Exchange, including information reported by the States.
 
 (3) **Transparency in coverage**
 
@@ -1505,8 +1505,6 @@ This title, referred to in subsecs. (b)(1) and (e)(3)(A)(viii), is title I of Pu
 Section 2716 of the Public Health Service Act, referred to in subsec. (c)(5), probably should be section 2715 of the Public Health Service Act, act July 1, 1944, which is classified to [section 300gg–15 of this title](./chapter-6a-public-health-service.md#section-300gg-15) and requires the Secretary to develop a uniform explanation of coverage documents and standardized definitions. Section 2716 of act July 1, 1944, which is classified to [section 300gg–16 of this title](./chapter-6a-public-health-service.md#section-300gg-16), relates to prohibition on discrimination in favor of highly compensated individuals.
 
 The Social Security Act, referred to in subsecs. (c)(6)(C), (d)(4)(F), and (f)(3)(B)(ii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of title XVIII of the Act is classified generally to part D (§ 1395w–101 et seq.) of subchapter XVIII of chapter 7 of this title. Titles XIX and XXI of the Act are classified generally to subchapters XIX (§ 1396 et seq.) and XXI (§ 1397aa et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see [section 1305 of this title](./chapter-007-social-security.md#section-1305) and Tables.
-
-Section 2794 of the Public Health Service Act, referred to in subsec. (e)(2), probably means section 2794 of act July 1, 1944, as added by section 1003 of Pub. L. 111–148, which relates to premium increases for consumers and is classified to [section 300gg–94 of this title](./chapter-6a-public-health-service.md#section-300gg-94). Another section 2794 of act July 1, 1944, relates to uniform fraud and abuse referral format and is classified to [section 300gg–95 of this title](./chapter-6a-public-health-service.md#section-300gg-95).
 
 The Public Health Service Act, referred to in subsec. (h)(1)(A)(i), is act July 1, 1944, ch. 373, 58 Stat. 682. Part C of title IX of the Act is classified generally to part C (§ 299b–21 et seq.) of subchapter VII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
@@ -1828,7 +1826,7 @@ This Act, referred to in subsec. (e)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 
     (ii) *Travel expenses* — Each member shall receive travel expenses, including per diem in lieu of subsistence under subchapter I of chapter 57 of title 5.
 
-  (E) *Application of FACA* — The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory board, except that section 14 of such Act shall not apply.
+  (E) *Application of chapter 10 of title 5* — Chapter 10 of title 5 shall apply to the advisory board, except that [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply.
 
   (F) *Termination* — The advisory board shall terminate on the earlier of the date that it completes its duties under this section or December 31, 2015.
 
@@ -1899,8 +1897,6 @@ This Act, referred to in subsec. (e)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(4)(E), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Public Health Service Act, referred to in subsec. (c)(6), is act July 1, 1944, ch. 373, 58 Stat. 682. Part A of title XXVII of the Act is classified generally to part A (§ 300gg et seq.) of subchapter XXV of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title](./chapter-6a-public-health-service.md#section-201) and Tables.
 
 Subtitles A and C of this Act, referred to in subsec. (c)(6), are subtitles A (§§ 1001–1004) and C (§§ 1201–1255), respectively, of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, 154. Subtitle A enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under [section 300gg–11 of this title](./chapter-6a-public-health-service.md#section-300gg-11). Subtitle C enacted subchapter II of this chapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg) to [section 300gg–3 of this title](./chapter-6a-public-health-service.md#section-300gg-3), amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under [section 300gg of this title](./chapter-6a-public-health-service.md#section-300gg). For complete classification of subtitles A and C to the Code, see Tables.
@@ -1911,6 +1907,8 @@ This Act, referred to in subsec. (i)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of section 1322 of Pub. L. 111–148 amended sections 501, 4958, and 6033 of Title 26, Internal Revenue Code.
 
 #### Amendments
+2022—Subsec. (b)(4)(E). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5 shall apply to the advisory board, except that [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the advisory board, except that section 14 of such Act” in text.
+
 2010—Subsec. (b)(3), (4). Pub. L. 111–148, § 10104(l), added par. (3) and redesignated former par. (3) as (4).
 
 #### Consumer Operated and Oriented Plan Program Contingency Fund
@@ -2848,6 +2846,9 @@ Section 1513, referred to in subsec. (i)(1), means section 1513 of Pub. L. 111�
 
 #### Amendments
 2016—Subsec. (b)(3)(B), (C). Pub. L. 114–255 added subpar. (B) and redesignated former subpar. (B) as (C).
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2016 Amendment
 Amendment by Pub. L. 114–255 applicable to applications for enrollment made after Dec. 31, 2016, see section 18001(a)(7)(F) of Pub. L. 114–255, set out in a note under [section 36B of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section36B&num=0&edition=prelim), Internal Revenue Code.

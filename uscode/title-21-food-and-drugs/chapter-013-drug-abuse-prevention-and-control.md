@@ -2026,6 +2026,8 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 
 (2) Notwithstanding paragraph (1), a registrant who is a veterinarian shall not be required to have a separate registration in order to transport and dispense controlled substances in the usual course of veterinary practice at a site other than the registrant’s registered principal place of business or professional practice, so long as the site of transporting and dispensing is located in a State where the veterinarian is licensed to practice veterinary medicine and is not a principal place of business or professional practice.
 
+(3) Notwithstanding paragraph (1), a registrant that is dispensing pursuant to section 823(g) 1 of this title narcotic drugs to individuals for maintenance treatment or detoxification treatment shall not be required to have a separate registration to incorporate one or more mobile medication units into the registrant’s practice to dispense such narcotics at locations other than the registrant’s principal place of business or professional practice described in paragraph (1), so long as the registrant meets such standards for operation of a mobile medication unit as the Attorney General may establish.
+
 **(f) Inspection** The Attorney General is authorized to inspect the establishment of a registrant or applicant for registration in accordance with the rules and regulations promulgated by him.
 
 **(g) Delivery of controlled substances by ultimate users for disposal**
@@ -2101,8 +2103,12 @@ This subchapter, referred to in subsecs. (a)(3), (b), (c), and (g)(1), was in th
 
 [Section 802(25) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/25&num=0&edition=prelim), referred to in subsec. (c)(3), was redesignated [section 802(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/26&num=0&edition=prelim) by Pub. L. 98–473, title II, § 507(a), Oct. 12, 1984, 98 Stat. 2071, and was further redesignated [section 802(27) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/27&num=0&edition=prelim) by Pub. L. 99–570, title I, § 1003(b)(2), Oct. 27, 1986, 100 Stat. 3207–6.
 
+[Section 823(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g&num=0&edition=prelim), referred to in subsec. (e)(3), was redesignated [section 823(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim) by Pub. L. 117–215, title I, § 103(a)(1), Dec. 2, 2022, 136 Stat. 2261.
+
 #### Amendments
-2022—Subsec. (g)(5)(A)(iii)(I)(bb). Pub. L. 117–215 substituted “823(g)” for “823(f)”.
+2022—Subsec. (e)(3). Pub. L. 117–328, § 1252(a), added par. (3).
+
+Subsec. (g)(5)(A)(iii)(I)(bb). Pub. L. 117–215 substituted “823(g)” for “823(f)”.
 
 2021—Subsec. (a)(3). Pub. L. 117–53 added par. (3).
 
@@ -2377,169 +2383,13 @@ Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, 
 
 (3) Article 7 of the Convention on Psychotropic Substances shall not be construed to prohibit, or impose additional restrictions upon, research involving drugs or other substances scheduled under the convention which is conducted in conformity with this subsection and other applicable provisions of this subchapter.
 
-**(h) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications; waiver**
+**(h) Practitioners dispensing narcotic drugs for narcotic treatment; annual registration; separate registration; qualifications** Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment shall obtain annually a separate registration for that purpose. The Attorney General shall register an applicant to dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment (or both)—
 
-(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment shall obtain annually a separate registration for that purpose. The Attorney General shall register an applicant to dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment (or both)
+(1) if the applicant is a practitioner who is determined by the Secretary to be qualified (under standards established by the Secretary) to engage in the treatment with respect to which registration is sought;
 
-  (A) if the applicant is a practitioner who is determined by the Secretary to be qualified (under standards established by the Secretary) to engage in the treatment with respect to which registration is sought;
+(2) if the Attorney General determines that the applicant will comply with standards established by the Attorney General respecting (A) security of stocks of narcotic drugs for such treatment, and (B) the maintenance of records (in accordance with [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827)) on such drugs; and
 
-  (B) if the Attorney General determines that the applicant will comply with standards established by the Attorney General respecting (i) security of stocks of narcotic drugs for such treatment, and (ii) the maintenance of records (in accordance with [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827)) on such drugs; and
-
-  (C) if the Secretary determines that the applicant will comply with standards established by the Secretary (after consultation with the Attorney General) respecting the quantities of narcotic drugs which may be provided for unsupervised use by individuals in such treatment.
-
-(2)
-
-  (A) Subject to subparagraphs (D) and (J), the requirements of paragraph (1) are waived in the case of the dispensing (including the prescribing), by a practitioner, of narcotic drugs in schedule III, IV, or V or combinations of such drugs if the practitioner meets the conditions specified in subparagraph (B) and the narcotic drugs or combinations of such drugs meet the conditions specified in subparagraph (C).
-
-  (B) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to a practitioner are that, before the initial dispensing of narcotic drugs in schedule III, IV, or V or combinations of such drugs to patients for maintenance or detoxification treatment, the practitioner submit to the Secretary a notification of the intent of the practitioner to begin dispensing the drugs or combinations for such purpose, and that the notification contain the following certifications by the practitioner:
-
-    (i) The practitioner is a qualifying practitioner (as defined in subparagraph (G)).
-
-    (ii) With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the practitioner has the capacity to provide directly, by referral, or in such other manner as determined by the Secretary—
-
-      (I) all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder, including for maintenance, detoxification, overdose reversal, and relapse prevention; and
-
-      (II) appropriate counseling and other appropriate ancillary services.
-
-    (iii)
-
-      (I) The total number of such patients of the practitioner at any one time will not exceed the applicable number. Except as provided in subclause (II), the applicable number is 30.
-
-      (II) The applicable number is—
-
-        (aa) 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients;
-
-        (bb) 100 if the practitioner holds additional credentialing, as defined in section 8.2 of title 42, Code of Federal Regulations (or successor regulations);
-
-        (cc) 100 if the practitioner provides medication-assisted treatment (MAT) using covered medications (as such terms are defined in section 8.2 of title 42, Code of Federal Regulations (or successor regulations)) in a qualified practice setting (as described in section 8.615 of title 42, Code of Federal Regulations (or successor regulations)); or
-
-        (dd) 275 if the practitioner meets the requirements specified in sections 8.610 through 8.655 of title 42, Code of Federal Regulations (or successor regulations).
-
-      (III) The Secretary may by regulation change such applicable number.
-
-      (IV) The Secretary may exclude from the applicable number patients to whom such drugs or combinations of drugs are directly administered by the qualifying practitioner in the office setting.
-
-  (C) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to narcotic drugs in schedule III, IV, or V or combinations of such drugs are as follows:
-
-    (i) The drugs or combinations of drugs have, under the Federal Food, Drug, and Cosmetic Act [[21 U.S.C. 301](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) et seq.] or [section 262 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section262&num=0&edition=prelim), been approved for use in maintenance or detoxification treatment.
-
-    (ii) The drugs or combinations of drugs have not been the subject of an adverse determination. For purposes of this clause, an adverse determination is a determination published in the Federal Register and made by the Secretary, after consultation with the Attorney General, that the use of the drugs or combinations of drugs for maintenance or detoxification treatment requires additional standards respecting the qualifications of practitioners to provide such treatment, or requires standards respecting the quantities of the drugs that may be provided for unsupervised use.
-
-  (D)
-
-    (i) A waiver under subparagraph (A) with respect to a practitioner is not in effect unless (in addition to conditions under subparagraphs (B) and (C)) the following conditions are met:
-
-      (I) The notification under subparagraph (B) is in writing and states the name of the practitioner.
-
-      (II) The notification identifies the registration issued for the practitioner pursuant to subsection (g).
-
-      (III) If the practitioner is a member of a group practice, the notification states the names of the other practitioners in the practice and identifies the registrations issued for the other practitioners pursuant to subsection (g).
-
-    (ii) Upon receiving a determination from the Secretary under clause (iii) finding that a practitioner meets all requirements for a waiver under subparagraph (B), the Attorney General shall assign the practitioner involved an identification number under this paragraph for inclusion with the registration issued for the practitioner pursuant to subsection (g). The identification number so assigned shall be appropriate to preserve the confidentiality of patients for whom the practitioner has dispensed narcotic drugs under a waiver under subparagraph (A).
-
-    (iii) Not later than 45 days after the date on which the Secretary receives a notification under subparagraph (B), the Secretary shall make a determination of whether the practitioner involved meets all requirements for a waiver under subparagraph (B) and shall forward such determination to the Attorney General. If the Secretary fails to make such determination by the end of the such 45-day period, the Attorney General shall assign the practitioner an identification number described in clause (ii) at the end of such period.
-
-  (E)
-
-    (i) If a practitioner is not registered under paragraph (1) and, in violation of the conditions specified in subparagraphs (B) through (D), dispenses narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, the Attorney General may, for purposes of [section 824(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section824/a/4&num=0&edition=prelim), consider the practitioner to have committed an act that renders the registration of the practitioner pursuant to subsection (g) to be inconsistent with the public interest.
-
-    (ii)
-
-      (I) Upon the expiration of 45 days from the date on which the Secretary receives a notification under subparagraph (B), a practitioner who in good faith submits a notification under subparagraph (B) and reasonably believes that the conditions specified in subparagraphs (B) through (D) have been met shall, in dispensing narcotic drugs in schedule III, IV, or V or combinations of such drugs for maintenance treatment or detoxification treatment, be considered to have a waiver under subparagraph (A) until notified otherwise by the Secretary, except that such a practitioner may commence to prescribe or dispense such narcotic drugs for such purposes prior to the expiration of such 45-day period if it facilitates the treatment of an individual patient and both the Secretary and the Attorney General are notified by the practitioner of the intent to commence prescribing or dispensing such narcotic drugs.
-
-      (II) For purposes of subclause (I), the publication in the Federal Register of an adverse determination by the Secretary pursuant to subparagraph (C)(ii) shall (with respect to the narcotic drug or combination involved) be considered to be a notification provided by the Secretary to practitioners, effective upon the expiration of the 30-day period beginning on the date on which the adverse determination is so published.
-
-  (F)
-
-    (i) With respect to the dispensing of narcotic drugs in schedule III, IV, or V or combinations of such drugs to patients for maintenance or detoxification treatment, a practitioner may, in his or her discretion, dispense such drugs or combinations for such treatment under a registration under paragraph (1) or a waiver under subparagraph (A) (subject to meeting the applicable conditions).
-
-    (ii) This paragraph may not be construed as having any legal effect on the conditions for obtaining a registration under paragraph (1), including with respect to the number of patients who may be served under such a registration.
-
-  (G) For purposes of this paragraph:
-
-    (i) The term “group practice” has the meaning given such term in [section 1395nn(h)(4) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395nn/h/4&num=0&edition=prelim).
-
-    (ii) The term “qualifying physician” means a physician who is licensed under State law and who meets one or more of the following conditions:
-
-      (I) The physician holds a board certification in addiction psychiatry or addiction medicine from the American Board of Medical Specialties.
-
-      (II) The physician holds an addiction certification or board certification from the American Society of Addiction Medicine or the American Board of Addiction Medicine.
-
-      (III) The physician holds a board certification in addiction medicine from the American Osteopathic Association.
-
-      (IV) The physician has, with respect to the treatment and management of opiate-dependent patients, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Psychiatric Association, or any other organization that the Secretary determines is appropriate for purposes of this subclause. Such training shall include—
-
-        (aa) opioid maintenance and detoxification;
-
-        (bb) appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of opioid use disorder;
-
-        (cc) initial and periodic patient assessments (including substance use monitoring);
-
-        (dd) individualized treatment planning, overdose reversal, and relapse prevention;
-
-        (ee) counseling and recovery support services;
-
-        (ff) staffing roles and considerations;
-
-        (gg) diversion control; and
-
-        (hh) other best practices, as identified by the Secretary.
-
-      (V) The physician has participated as an investigator in one or more clinical trials leading to the approval of a narcotic drug in schedule III, IV, or V for maintenance or detoxification treatment, as demonstrated by a statement submitted to the Secretary by the sponsor of such approved drug.
-
-      (VI) The physician has such other training or experience as the State medical licensing board (of the State in which the physician will provide maintenance or detoxification treatment) considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients.
-
-      (VII) The physician has such other training or experience as the Secretary considers to demonstrate the ability of the physician to treat and manage opiate-dependent patients. Any criteria of the Secretary under this subclause shall be established by regulation. Any such criteria are effective only for 3 years after the date on which the criteria are promulgated, but may be extended for such additional discrete 3-year periods as the Secretary considers appropriate for purposes of this subclause. Such an extension of criteria may only be effectuated through a statement published in the Federal Register by the Secretary during the 30-day period preceding the end of the 3-year period involved.
-
-      (VIII) The physician graduated in good standing from an accredited school of allopathic medicine or osteopathic medicine in the United States during the 5-year period immediately preceding the date on which the physician submits to the Secretary a written notification under subparagraph (B) and successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency that—
-
-        (aa) included not less than 8 hours of training on treating and managing opioid-dependent patients; and
-
-        (bb) included, at a minimum—
-
-          (AA) the training described in items (aa) through (gg) of subclause (IV); and
-
-          (BB) training with respect to any other best practice the Secretary determines should be included in the curriculum, which may include training on pain management, including assessment and appropriate use of opioid and non-opioid alternatives.
-
-    (iii) The term “qualifying practitioner” means—
-
-      (I) a qualifying physician, as defined in clause (ii);
-
-      (II) a qualifying other practitioner, as defined in clause (iv), who is a nurse practitioner or physician assistant; or
-
-      (III) for the period beginning on October 1, 2018, and ending on October 1, 2023, a qualifying other practitioner, as defined in clause (iv), who is a clinical nurse specialist, certified registered nurse anesthetist, or certified nurse midwife.
-
-    (iv) The term “qualifying other practitioner” means a nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant who satisfies each of the following:
-
-      (I) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is licensed under State law to prescribe schedule III, IV, or V medications for the treatment of pain.
-
-      (II) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant has—
-
-        (aa) completed not fewer than 24 hours of initial training addressing each of the topics listed in clause (ii)(IV) (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Assistants, or any other organization that the Secretary determines is appropriate for purposes of this subclause; or
-
-        (bb) has such other training or experience as the Secretary determines will demonstrate the ability of the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant to treat and manage opiate-dependent patients.
-
-      (III) The nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is supervised by, or works in collaboration with, a qualifying physician, if the nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, certified nurse midwife, or physician assistant is required by State law to prescribe medications for the treatment of opioid use disorder in collaboration with or under the supervision of a physician.
-      The Secretary may, by regulation, revise the requirements for being a qualifying other practitioner under this clause.
-
-  (H)
-
-    (i) In consultation with the Administrator of the Drug Enforcement Administration, the Administrator of the Substance Abuse and Mental Health Services Administration, the Director of the National Institute on Drug Abuse, and the Commissioner of Food and Drugs, the Secretary shall issue regulations (through notice and comment rulemaking) or issue practice guidelines to address the following:
-
-      (I) Approval of additional credentialing bodies and the responsibilities of additional credentialing bodies.
-
-      (II) Additional exemptions from the requirements of this paragraph and any regulations under this paragraph.
-
-      (III) Such other elements of the requirements under this paragraph as the Secretary determines necessary for purposes of implementing such requirements.
-      Nothing in such regulations or practice guidelines may authorize any Federal official or employee to exercise supervision or control over the practice of medicine or the manner in which medical services are provided.
-
-    (ii) Not later than 18 months after the date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act,22See References in Text note below. the Secretary shall update the treatment improvement protocol containing best practice guidelines for the treatment of opioid-dependent patients in office-based settings. The Secretary shall update such protocol in consultation with experts in opioid use disorder research and treatment.
-
-  (I) Notwithstanding [section 903 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-903), nothing in this paragraph shall be construed to preempt any State law that—
-
-    (i) permits a qualifying practitioner to dispense narcotic drugs in schedule III, IV, or V, or combinations of such drugs, for maintenance or detoxification treatment in accordance with this paragraph to a total number of patients that is more than 30 or less than the total number applicable to the qualifying practitioner under subparagraph (B)(iii)(II) if a State enacts a law modifying such total number and the Attorney General is notified by the State of such modification; or
-
-    (ii) requires a qualifying practitioner to comply with additional requirements relating to the dispensing of narcotic drugs in schedule III, IV, or V, or combinations of such drugs, including requirements relating to the practice setting in which the qualifying practitioner practices and education, training, and reporting requirements.
+(3) if the Secretary determines that the applicant will comply with standards established by the Secretary (after consultation with the Attorney General) respecting the quantities of narcotic drugs which may be provided for unsupervised use by individuals in such treatment.
 
 **(i) Applicants for distribution of list I chemicals** The Attorney General shall register an applicant to distribute a list I chemical unless the Attorney General determines that registration of the applicant is inconsistent with the public interest. Registration under this subsection shall not be required for the distribution of a drug product that is exempted under clause (iv) or (v) of [section 802(39)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section802/39/A&num=0&edition=prelim). In determining the public interest for the purposes of this subsection, the Attorney General shall consider—
 
@@ -2707,22 +2557,74 @@ Pub. L. 115–271, title III, subtitle B, ch. 6, Oct. 24, 2018, 132 Stat. 3950, 
 
   (N) The term “verbal order” means an oral directive that is given through any method of communication including by radio or telephone, directly to an emergency medical services professional, to contemporaneously administer a controlled substance to individuals in need of emergency medical services outside the physical presence of the medical director or authorizing medical professional.
 
-**(l) “Factors as may be relevant to and consistent with the public health and safety” defined** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+**(l) 22 So in original. Two subsecs. (l) have been enacted. “Factors as may be relevant to and consistent with the public health and safety” defined** In this section, the phrase “factors as may be relevant to and consistent with the public health and safety” means factors that are relevant to and consistent with the findings contained in [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
+
+**(l) 2 Required training for prescribers**
+
+(1) **Training required** — As a condition on registration under this section to dispense controlled substances in schedule II, III, IV, or V, the Attorney General shall require any qualified practitioner, beginning with the first applicable registration for the practitioner, to meet the following:
+
+  (A) If the practitioner is a physician (as defined under [section 1395x(r) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r&num=0&edition=prelim)) and the practitioner meets one or more of the following conditions:
+
+    (i) The physician holds a board certification in addiction psychiatry or addiction medicine from the American Board of Medical Specialties.
+
+    (ii) The physician holds a board certification from the American Board of Addiction Medicine.
+
+    (iii) The physician holds a board certification in addiction medicine from the American Osteopathic Association.
+
+    (iv) The physician has, with respect to the treatment and management of patients with opioid or other substance use disorders, or the safe pharmacological management of dental pain and screening, brief intervention, and referral for appropriate treatment of patients with or at risk of developing opioid or other substance use disorders, completed not less than 8 hours of training (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) that is provided by—
+
+      (I) the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Dental Association, the American Association of Oral and Maxillofacial Surgeons, the American Psychiatric Association, or any other organization accredited by the Accreditation Council for Continuing Medical Education (ACCME) or the Commission for Continuing Education Provider Recognition (CCEPR);
+
+      (II) any organization accredited by a State medical society accreditor that is recognized by the ACCME or the CCEPR;
+
+      (III) any organization accredited by the American Osteopathic Association to provide continuing medical education; or
+
+      (IV) any organization approved by the Assistant Secretary for Mental Health and Substance Use, the ACCME, or the CCEPR.
+
+    (v) The physician graduated in good standing from an accredited school of allopathic medicine, osteopathic medicine, dental surgery, or dental medicine in the United States during the 5-year period immediately preceding the date on which the physician first registers or renews under this section and has successfully completed a comprehensive allopathic or osteopathic medicine curriculum or accredited medical residency or dental surgery or dental medicine curriculum that included not less than 8 hours of training on—
+
+      (I) treating and managing patients with opioid or other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder; or
+
+      (II) the safe pharmacological management of dental pain and screening, brief intervention, and referral for appropriate treatment of patients with or at risk of developing opioid and other substance use disorders.
+
+  (B) If the practitioner is not a physician (as defined under [section 1395x(r) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1395x/r&num=0&edition=prelim)), the practitioner is legally authorized by the State to dispense controlled substances under schedule II, III, IV, or V and is dispensing such substances within such State in accordance with all applicable State laws, and the practitioner meets one or more of the following conditions:
+
+    (i) The practitioner has completed not fewer than 8 hours of training with respect to the treatment and management of patients with opioid or other substance use disorders (through classroom situations, seminars at professional society meetings, electronic communications, or otherwise) provided by the American Society of Addiction Medicine, the American Academy of Addiction Psychiatry, the American Medical Association, the American Osteopathic Association, the American Nurses Credentialing Center, the American Psychiatric Association, the American Association of Nurse Practitioners, the American Academy of Physician Associates, or any other organization approved or accredited by the Assistant Secretary for Mental Health and Substance Use or the Accreditation Council for Continuing Medical Education.
+
+    (ii) The practitioner has graduated in good standing from an accredited physician assistant school or accredited school of advanced practice nursing in the United States during the 5-year period immediately preceding the date on which the practitioner first registers or renews under this section and has successfully completed a comprehensive physician assistant or advanced practice nursing curriculum that included not fewer than 8 hours of training on treating and managing patients with opioid and other substance use disorders, including the appropriate clinical use of all drugs approved by the Food and Drug Administration for the treatment of a substance use disorder.
+
+(2) **One-time training**
+
+  (A) *In general* — The Attorney General shall not require any qualified practitioner to complete the training described in clause (iv) or (v) of paragraph (1)(A) or clause (i) or (ii) of paragraph (1)(B) more than once.
+
+  (B) *Notification* — Not later than 90 days after December 29, 2022, the Attorney General shall provide to qualified practitioners a single written, electronic notification of the training described in clauses (iv) and (v) of paragraph (1)(A) or clauses (i) and (ii) of paragraph (1)(B).
+
+(3) **Rule of construction** — Nothing in this subsection shall be construed—
+
+  (A) to preclude the use, by a qualified practitioner, of training received pursuant to this subsection to satisfy registration requirements of a State or for some other lawful purpose; or
+
+  (B) to preempt any additional requirements by a State related to the dispensing of controlled substances under schedule II, III, IV, or V.
+
+(4) **Definitions** — In this section:
+
+  (A) *First applicable registration* — The term “first applicable registration” means the first registration or renewal of registration by a qualified practitioner under this section that occurs on or after the date that is 180 days after December 29, 2022.
+
+  (B) *Qualified practitioner* — In this subsection, the term “qualified practitioner” means a practitioner who—
+
+    (i) is licensed under State law to prescribe controlled substances; and
+
+    (ii) is not solely a veterinarian.
 
 ### Statutory Notes
 
 #### References in Text
-Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (g)(2), (h)(2), and (k)(1), (4), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
+Schedules I, II, III, IV, and V, referred to in subsecs. (a) to (g)(2), (k)(1), (4), and (l)(1), (3)(B), are set out in [section 812(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section812/c&num=0&edition=prelim).
+
+This chapter, referred to in subsecs. (c)(1)(A), (B) and (k)(13)(A)(i), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 Section 105 of the Medical Marijuana and Cannabidiol Research Expansion Act, referred to in subsecs. (c)(1)(B)(vi) and (g)(2)(B)(i)(II), is section 105 of Pub. L. 117–215, which is set out as a note below.
 
 This subchapter, referred to in subsecs. (g)(3) and (k)(12)(A), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
-
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (h)(2)(C)(i), is act June 25, 1938, ch. 675, 52 Stat. 1040, which is classified generally to chapter 9 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see [section 301 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-301) and Tables.
-
-The date of enactment of the Opioid Use Disorder Treatment Expansion and Modernization Act, referred to in subsec. (h)(2)(H)(ii), probably means the date of enactment of Pub. L. 114–198, known as the Comprehensive Addiction and Recovery Act of 2016, which was approved July 22, 2016. The Opioid Use Disorder Treatment Expansion and Modernization Act was H.R. 4981 of the 114th Congress, as introduced on Apr. 18, 2016. Amendatory provisions of H.R. 4981 were incorporated into Pub. L. 114–198, but no such Short Title was enacted.
-
-This chapter, referred to in subsecs. (c)(1)(A), (B) and (k)(13)(A)(i), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 #### Amendments
 2022—Subsecs. (c) to (e). Pub. L. 117–215, § 103(a)(1), (2), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively. Former subsec. (e) redesignated (f).
@@ -2735,7 +2637,9 @@ Subsec. (f)(2)(B)(vi). Pub. L. 117–215, § 102(a), added cl. (vi).
 
 Subsec. (g). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 117–328, § 1262(a), which directed amendment of subsec. (g) by substituting “Practitioners who dispense narcotic drugs (other than narcotic drugs in schedule III, IV, or V) to individuals for maintenance treatment or detoxification treatment” for “(1) Except as provided in paragraph (2), practitioners who dispense narcotic drugs to individuals for maintenance treatment or detoxification treatment”, redesignating subpars. (A) to (C) of former par. (1) as pars. (1) to (3), respectively, redesignating cls. (i) and (ii) of par. (2) as subpars. (A) and (B), respectively, and striking former par. (2) which related to waiver of registration requirements, was executed to subsec. (h) to reflect the probable intent of Congress and the redesignation of subsec. (g) as (h) by Pub. L. 117–215, § 103(a)(1). See Amendment note below.
+
+Pub. L. 117–215, § 103(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
 Subsec. (h)(2). Pub. L. 117–215, § 103(a)(3), substituted “subsection (g)” for “subsection (f)” wherever appearing.
 
@@ -2747,7 +2651,9 @@ Subsec. (j)(1). Pub. L. 117–215, § 103(a)(4), substituted “subsection (e)�
 
 Subsec. (k). Pub. L. 117–215, § 103(a)(1), (5), redesignated subsec. (j) as (k) and substituted “subsection (g)” for “subsection (f)” wherever appearing. Former subsec. (k) redesignated (l).
 
-Subsec. (l). Pub. L. 117–215, § 103(a)(1), redesignated subsec. (k) as (l).
+Subsec. (l). Pub. L. 117–328, § 1263(a), added subsec. (l) relating to required training for prescribers.
+
+Pub. L. 117–215, § 103(a)(1), redesignated subsec. (k) as (l).
 
 2018—Subsec. (g)(2)(B)(iii)(II). Pub. L. 115–271, § 3201(a), amended subcl. (II) generally. Prior to amendment, subcl. (II) read as follows: “The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of the need and intent of the practitioner to treat up to 100 patients.”
 
@@ -2842,6 +2748,8 @@ Section effective on first day of seventh calendar month that begins after Oct. 
 Pub. L. 117–215, title I, § 102(b), Dec. 2, 2022, 136 Stat. 2261, provided that: “Not later than 1 year after the date of enactment of this Act [Dec. 2, 2022], the Attorney General shall promulgate regulations to carry out the amendment made by this section [amending this section].”
 
 #### Update Regulations
+Pub. L. 117–328, div. FF, title I, § 1252(b), Dec. 29, 2022, 136 Stat. 5681, provided that: “Not later than 18 months after the date of enactment of this Act [Dec. 29, 2022], the Secretary of Health and Human Services shall revise section 8.12(e)(1) of title 42, Code of Federal Regulations (or successor regulations), to eliminate the requirement that an opioid treatment program only admit an individual for treatment under the program if the individual has been addicted to opioids for at least 1 year before being so admitted for treatment.”
+
 Pub. L. 114–198, title III, § 303(c), July 22, 2016, 130 Stat. 723, provided that: “Not later than 18 months after the date of enactment of this Act [July 22, 2016], the Attorney General and the Secretary of Health and Human Services, as appropriate, shall update regulations regarding practitioners described in subsection (a)(3)(B)(vii) (as amended by this section) [probably means subsec. (a)(3)(B)(vii) “of this section”, set out as a note below] to include nurse practitioners and physician assistants to ensure the quality of patient care and prevent diversion.”
 
 #### Adequate and Uninterrupted Supply
@@ -2860,13 +2768,13 @@ Pub. L. 117–215, title II, Dec. 2, 2022, 136 Stat. 2264, provided that: “SEC
 [For definitions of terms used in title II of Pub. L. 117–215, set out above, see section 2(a) of Pub. L. 117–215, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).]
 
 #### Treatment for Children
-Pub. L. 115–271, title III, § 3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: “The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in subparagraph (G)(ii) of section 303(g)(2) [now 303(h)(2)] of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [now [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders.”
+Pub. L. 115–271, title III, § 3202(b), Oct. 24, 2018, 132 Stat. 3945, provided that: “The Secretary of Health and Human Services shall consider ways to ensure that an adequate number of qualified practitioners, as defined in [former] subparagraph (G)(ii) of section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [former [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], who have a specialty in pediatrics or the treatment of children or adolescents, are granted a waiver under such section 303(g)(2) to treat children and adolescents with substance use disorders.”
 
 #### Grants To Enhance Access to Substance Use Disorder Treatment
-Pub. L. 115–271, title III, § 3203, Oct. 24, 2018, 132 Stat. 3945, provided that: “(a) In General.—The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under subclause (VIII) of section 303(g)(2)(G)(ii) [now 303(h)(2)(G)(ii)] of the Controlled Substances Act [[21 U.S.C. 823(h)(2)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2/G/ii&num=0&edition=prelim)], as added by section 3202(a) of this Act. “(b) Authorization of Appropriations.—There is authorized to be appropriated, for grants under subsection (a), $4,000,000 for each of fiscal years 2019 through 2023.”
+Pub. L. 115–271, title III, § 3203, Oct. 24, 2018, 132 Stat. 3945, provided that: “(a) In General.—The Secretary of Health and Human Services shall establish a grant program under which the Secretary may make grants to accredited schools of allopathic medicine or osteopathic medicine and teaching hospitals located in the United States to support the development of curricula that meet the requirements under [former] subclause (VIII) of section 303(g)(2)(G)(ii) of the Controlled Substances Act [former [21 U.S.C. 823(h)(2)(G)(ii)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2/G/ii&num=0&edition=prelim)], as added by section 3202(a) of this Act. “(b) Authorization of Appropriations.—There is authorized to be appropriated, for grants under subsection (a), $4,000,000 for each of fiscal years 2019 through 2023.”
 
 #### Reports to Congress
-Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, provided that: “(A) In general.—Not later than 3 years after the date of enactment of this Act [July 22, 2016] and not later than 3 years thereafter, the Secretary of Health and Human Services, in consultation with the Drug Enforcement Administration and experts in opioid use disorder research and treatment, shall—“(i) perform a thorough review of the provision of opioid use disorder treatment services in the United States, including services provided in opioid treatment programs and other specialty and nonspecialty settings; and “(ii) submit a report to the Congress on the findings and conclusions of such review. “(B) Contents.—Each report under subparagraph (A) shall include an assessment of—“(i) compliance with the requirements of section 303(g)(2) [now 303(h)(2)] of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [now [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], as amended by this section; “(ii) the measures taken by the Secretary of Health and Human Services to ensure such compliance; “(iii) whether there is further need to increase or decrease the number of patients a practitioner, pursuant to a waiver under section 303(g)(2) [now 303(h)(2)] of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [now [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], is permitted to treat; “(iv) the extent to which, and proportions with which, the full range of Food and Drug Administration-approved treatments for opioid use disorder are used in routine health care settings and specialty substance use disorder treatment settings; “(v) access to, and use of, counseling and recovery support services, including the percentage of patients receiving such services; “(vi) changes in State or local policies and legislation relating to opioid use disorder treatment; “(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver described in clause (iii); “(viii) the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in clause (vii); and “(ix) the effectiveness of cross-agency collaboration between [the] Department of Health and Human Services and the Drug Enforcement Administration for expanding effective opioid use disorder treatment.”
+Pub. L. 114–198, title III, § 303(a)(3), July 22, 2016, 130 Stat. 722, provided that: “(A) In general.—Not later than 3 years after the date of enactment of this Act [July 22, 2016] and not later than 3 years thereafter, the Secretary of Health and Human Services, in consultation with the Drug Enforcement Administration and experts in opioid use disorder research and treatment, shall—“(i) perform a thorough review of the provision of opioid use disorder treatment services in the United States, including services provided in opioid treatment programs and other specialty and nonspecialty settings; and “(ii) submit a report to the Congress on the findings and conclusions of such review. “(B) Contents.—Each report under subparagraph (A) shall include an assessment of—“(i) compliance with the requirements of [former] section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [former [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], as amended by this section; “(ii) the measures taken by the Secretary of Health and Human Services to ensure such compliance; “(iii) whether there is further need to increase or decrease the number of patients a practitioner, pursuant to a waiver under [former] section 303(g)(2) of the Controlled Substances Act ([21 U.S.C. 823(g)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/g/2&num=0&edition=prelim)) [former [21 U.S.C. 823(h)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim)], is permitted to treat; “(iv) the extent to which, and proportions with which, the full range of Food and Drug Administration-approved treatments for opioid use disorder are used in routine health care settings and specialty substance use disorder treatment settings; “(v) access to, and use of, counseling and recovery support services, including the percentage of patients receiving such services; “(vi) changes in State or local policies and legislation relating to opioid use disorder treatment; “(vii) the use of prescription drug monitoring programs by practitioners who are permitted to dispense narcotic drugs to individuals pursuant to a waiver described in clause (iii); “(viii) the findings resulting from inspections by the Drug Enforcement Administration of practitioners described in clause (vii); and “(ix) the effectiveness of cross-agency collaboration between [the] Department of Health and Human Services and the Drug Enforcement Administration for expanding effective opioid use disorder treatment.”
 
 #### Provisional Registration
 For provisional registration of persons engaged in manufacturing, distributing, or dispensing of controlled substances on the day before the effective date of [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822) who are registered on such date under [section 360 of this title](./chapter-009-federal-food-drug-and-cosmetic-act.md#section-360) or [section 4722 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4722&num=0&edition=prelim), Internal Revenue Code, see section 703 of Pub. L. 91–513, set out as a note under [section 822 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-822).
@@ -2885,7 +2793,7 @@ For provisional registration of persons engaged in manufacturing, distributing, 
 (4) has committed such acts as would render his registration under [section 823 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-823) inconsistent with the public interest as determined under such section; or
 
 (5) has been excluded (or directed to be excluded) from participation in a program pursuant to [section 1320a–7(a) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1320a–7/a&num=0&edition=prelim).
-A registration pursuant to [section 823(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/1&num=0&edition=prelim) to dispense a narcotic drug for maintenance treatment or detoxification treatment may be suspended or revoked by the Attorney General upon a finding that the registrant has failed to comply with any standard referred to in [section 823(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/1&num=0&edition=prelim).
+A registration pursuant to section 823(h)(1) 11 See References in Text note below. of this title to dispense a narcotic drug for maintenance treatment or detoxification treatment may be suspended or revoked by the Attorney General upon a finding that the registrant has failed to comply with any standard referred to in section 823(h)(1) 1 of this title.
 
 **(b) Limits of revocation or suspension** The Attorney General may limit revocation or suspension of a registration to the particular controlled substance or list I chemical with respect to which grounds for revocation or suspension exist.
 
@@ -2909,7 +2817,7 @@ A registration pursuant to [section 823(h)(1) of this title](https://uscode.hous
 
 **(d) Suspension of registration in cases of imminent danger**
 
-(1) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in [section 823(h)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/1&num=0&edition=prelim) may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
+(1) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this section, in cases where he finds that there is an imminent danger to the public health or safety. A failure to comply with a standard referred to in section 823(h)(1) 1 of this title may be treated under this subsection as grounds for immediate suspension of a registration granted under such section. A suspension under this subsection shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
 (2) In this subsection, the phrase “imminent danger to the public health or safety” means that, due to the failure of the registrant to maintain effective controls against diversion or otherwise comply with the obligations of a registrant under this subchapter or subchapter II, there is a substantial likelihood of an immediate threat that death, serious bodily harm, or abuse of a controlled substance will occur in the absence of an immediate suspension of the registration.
 
@@ -2928,14 +2836,20 @@ A registration pursuant to [section 823(h)(1) of this title](https://uscode.hous
 ### Statutory Notes
 
 #### References in Text
+[Section 823(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h&num=0&edition=prelim), referred to in subsecs. (a) and (d)(1), originally consisted of pars. (1) and (2). Par. (1) was redesignated as the entire subsec. (h), with its subpars. (A) to (C) redesignated pars. (1) to (3), and former par. (2) was struck out by Pub. L. 117–328, div. FF, title I, § 1262(a), Dec. 29, 2022, 136 Stat. 5681.
+
 This subchapter, referred to in subsecs. (a)(1), (2), (c)(4), (d)(2), and (h), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801) and Tables.
 
 Subchapter II, referred to in subsecs. (a)(1), (2) and (d)(2), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Amendments
-2022—Subsec. (a). Pub. L. 117–215, in concluding provisions, substituted “823(h)(1)” for “823(g)(1)” in two places.
+2022—Subsec. (a). Pub. L. 117–328, § 1262(b)(1), which directed substitution of “823(g)” for “823(g)(1)” in two places in concluding provisions, could not be executed because of the intervening amendment by Pub. L. 117–215, § 103(b)(1)(C). See Amendment note below.
 
-Subsec. (d)(1). Pub. L. 117–215 substituted “823(h)(1)” for “823(g)(1)”.
+Pub. L. 117–215, in concluding provisions, substituted “823(h)(1)” for “823(g)(1)” in two places.
+
+Subsec. (d)(1). Pub. L. 117–328, § 1262(b)(1), which directed substitution of “823(g)” for “823(g)(1)”, could not be executed because of the intervening amendment by Pub. L. 117–215, § 103(b)(1)(C). See Amendment note below.
+
+Pub. L. 117–215 substituted “823(h)(1)” for “823(g)(1)”.
 
 2021—Subsec. (h). Pub. L. 117–36 added subsec. (h).
 
@@ -3417,7 +3331,7 @@ Pub. L. 114–198, title VII, § 702(b), July 22, 2016, 130 Stat. 741, provided 
 Pub. L. 116–215, div. B, title III, § 1302, Dec. 11, 2020, 134 Stat. 1046, provided that: “Not later than 180 days after the date of enactment of this Act [Dec. 11, 2020], the Attorney General shall revise section 1306.07(b) of title 21, Code of Federal Regulations, so that practitioners, in accordance with applicable State, Federal, or local laws relating to controlled substances, are allowed to dispense not more than a three-day supply of narcotic drugs to one person or for one person’s use at one time for the purpose of initiating maintenance treatment or detoxification treatment (or both).”
 
 #### Programs and Materials for Training on Certain Circumstances Under Which a Pharmacist May Decline To Fill a Prescription
-Pub. L. 115–271, title III, § 3212, Oct. 24, 2018, 132 Stat. 3947, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Oct. 24, 2018], the Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate, as appropriate, materials for pharmacists, health care providers, and patients on—“(1) circumstances under which a pharmacist may, consistent with section 309 of the Controlled Substances Act ([21 U.S.C. 829](./chapter-013-drug-abuse-prevention-and-control.md#section-829)) and regulations thereunder, including section 1306.04 of title 21, Code of Federal Regulations, decline to fill a prescription for a controlled substance because the pharmacist suspects the prescription is fraudulent, forged, or of doubtful, questionable, or suspicious origin; and “(2) other Federal requirements pertaining to declining to fill a prescription under such circumstances, including the partial fill of prescriptions for certain controlled substances. “(b) Materials Included.—In developing materials under subsection (a), the Secretary of Health and Human Services shall include information for—“(1) pharmacists on how to decline to fill a prescription and actions to take after declining to fill a prescription; and “(2) other health care practitioners and the public on a pharmacist’s ability to decline to fill prescriptions in certain circumstances and a description of those circumstances (as described in the materials developed under subsection (a)(1)). “(c) Stakeholder Input.—In developing the programs and materials required under subsection (a), the Secretary of Health and Human Services shall seek input from relevant national, State, and local associations, boards of pharmacy, medical societies, licensing boards, health care practitioners, and patients, including individuals with chronic pain.”
+Pub. L. 115–271, title III, § 3212, Oct. 24, 2018, 132 Stat. 3947, as amended by Pub. L. 117–328, div. FF, title I, § 1271(a), Dec. 29, 2022, 136 Stat. 5685, provided that: “(a) In General.—The Secretary of Health and Human Services, in consultation with the Administrator of the Drug Enforcement Administration, Commissioner of Food and Drugs, Director of the Centers for Disease Control and Prevention, and Assistant Secretary for Mental Health and Substance Use, shall develop and disseminate not later than 1 year after the date of enactment of the Restoring Hope for Mental Health and Well-Being Act of 2022 [Dec. 29, 2022], and update periodically thereafter, as appropriate, materials for pharmacists, health care providers, and patients on—“(1) circumstances under which a pharmacist may, consistent with section 309 of the Controlled Substances Act ([21 U.S.C. 829](./chapter-013-drug-abuse-prevention-and-control.md#section-829)) and regulations thereunder, including section 1306.04 of title 21, Code of Federal Regulations, decline to fill a prescription for a controlled substance because the pharmacist suspects the prescription is fraudulent, forged, or of doubtful, questionable, or suspicious origin; and “(2) other Federal requirements pertaining to declining to fill a prescription under such circumstances, including the partial fill of prescriptions for certain controlled substances. “(b) Materials Included.—In developing materials under subsection (a), the Secretary of Health and Human Services shall include information for—“(1) pharmacists on how to verify the identity of the patient; “(2) pharmacists on how to decline to fill a prescription and actions to take after declining to fill a prescription; and “(3) other health care practitioners and the public on a pharmacist’s ability to decline to fill prescriptions in certain circumstances and a description of those circumstances (as described in the materials developed under subsection (a)(1)). “(c) Stakeholder Input.—In developing the programs and materials required under subsection (a), the Secretary of Health and Human Services shall seek input from relevant national, State, and local associations, boards of pharmacy, medical societies, licensing boards, health care practitioners, and patients, including individuals with chronic pain. “(d) Materials for Training on Verification of Identity.—Not later than 1 year after the date of enactment of this subsection [Dec. 29, 2022], the Secretary of Health and Human Services, after seeking stakeholder input in accordance with subsection (c), shall—“(1) update the materials developed under subsection (a) to include information for pharmacists on how to verify the identity of the patient; and “(2) disseminate, as appropriate, the updated materials.”
 
 #### Effect of Scheduling on Prescriptions
 Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that any prescription for anabolic steroids subject to refill on or after Nov. 29, 1990, could be refilled without restriction under subsec. (a) of this section.
@@ -3429,17 +3343,13 @@ Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provide
 
 (1) the controlled substance is delivered by the pharmacy to the prescribing practitioner or the practitioner administering the controlled substance, as applicable, at the location listed on the practitioner’s certificate of registration issued under this subchapter;
 
-(2) the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under [section 823(h)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section823/h/2&num=0&edition=prelim) and—
-
-  (A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
-
-  (B) the controlled substance is to be administered by injection or implantation;
+(2) the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;
 
 (3) the pharmacy and the practitioner are authorized to conduct the activities specified in this section under the law of the State in which such activities take place;
 
 (4) the prescription is not issued to supply any practitioner with a stock of controlled substances for the purpose of general dispensing to patients;
 
-(5) except as provided in subsection (b), the controlled substance is to be administered only to the patient named on the prescription not later than 14 days after the date of receipt of the controlled substance by the practitioner; and
+(5) except as provided in subsection (b), the controlled substance is to be administered only to the patient named on the prescription not later than 45 days after the date of receipt of the controlled substance by the practitioner; and
 
 (6) notwithstanding any exceptions under [section 827 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-827), the prescribing practitioner, and the practitioner administering the controlled substance, as applicable, maintain complete and accurate records of all controlled substances delivered, received, administered, or otherwise disposed of under this section, including the persons to whom controlled substances were delivered and such other information as may be required by regulations of the Attorney General.
 
@@ -3461,7 +3371,17 @@ Pub. L. 101–647, title XIX, § 1902(c), Nov. 29, 1990, 104 Stat. 4852, provide
 Section 3204(b) of the SUPPORT for Patients and Communities Act, referred to in subsec. (b)(2), is section 3204(b) of Pub. L. 115–271, title III, Oct. 24, 2018, 132 Stat. 3946, which is not classified to the Code.
 
 #### Amendments
-2022—Subsec. (a)(2). Pub. L. 117–215 substituted “823(h)(2)” for “823(g)(2)” in introductory provisions.
+2022—Subsec. (a)(2). Pub. L. 117–328, § 1262(b)(2), which directed substitution of “the controlled substance is a narcotic drug in schedule III, IV, or V to be administered for the purpose of maintenance or detoxification treatment and is to be administered by injection or implantation;” for “the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(g)(2) and—”
+
+“(A) the practitioner who issued the prescription is a qualifying practitioner authorized under, and acting within the scope of that section; and
+
+“(B) the controlled substance is to be administered by injection or implantation;”
+
+was executed by making the substitution for “the controlled substance is to be administered for the purpose of maintenance or detoxification treatment under section 823(h)(2) and—” and subpars. (A) and (B), to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–215. See Amendment note below.
+
+Pub. L. 117–215 substituted “823(h)(2)” for “823(g)(2)” in introductory provisions.
+
+Subsec. (a)(5). Pub. L. 117–328, § 1264, substituted “45 days” for “14 days”.
 
 
 <a id="section-830"></a>
@@ -4636,6 +4556,40 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 #### Effective Date
 Section effective on first day of seventh calendar month that begins after Oct. 26, 1970, see section 704 of Pub. L. 91–513, set out as a note under [section 801 of this title](./chapter-013-drug-abuse-prevention-and-control.md#section-801).
 
+#### Proc. No. 10467. Granting Pardon for the Offense of Simple Possession of Marijuana
+Proc. No. 10467, Oct. 6, 2022, 87 F.R. 61441, provided:
+
+Acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, I, Joseph R. Biden Jr., do hereby grant a full, complete, and unconditional pardon to (1) all current United States citizens and lawful permanent residents who committed the offense of simple possession of marijuana in violation of the Controlled Substances Act, as currently codified at [21 U.S.C. 844](./chapter-013-drug-abuse-prevention-and-control.md#section-844) and as previously codified elsewhere in the United States Code, or in violation of D.C. Code 48–904.01(d)(1), on or before the date of this proclamation [Oct. 6, 2022], regardless of whether they have been charged with or prosecuted for this offense on or before the date of this proclamation; and (2) all current United States citizens and lawful permanent residents who have been convicted of the offense of simple possession of marijuana in violation of the Controlled Substances Act, as currently codified at [21 U.S.C. 844](./chapter-013-drug-abuse-prevention-and-control.md#section-844) and as previously codified elsewhere in the United States Code, or in violation of D.C. Code 48–904.01(d)(1); which pardon shall restore to them full political, civil, and other rights.
+
+My intent by this proclamation is to pardon only the offense of simple possession of marijuana in violation of Federal law or in violation of D.C. Code 48–904.01(d)(1), and not any other offenses related to marijuana or other controlled substances. No language herein shall be construed to pardon any person for any other offense, including possession of other controlled substances, whether committed prior, subsequent, or contemporaneous to the pardoned offense of simple possession of marijuana. This pardon does not apply to individuals who were non-citizens not lawfully present in the United States at the time of their offense.
+
+Pursuant to this proclamation, the Attorney General, acting through the Pardon Attorney, shall administer and effectuate the issuance of certificates of pardon to eligible applicants who have been charged or convicted for the offense of simple possession of marijuana in violation of the Controlled Substances Act, as currently codified at [21 U.S.C. 844](./chapter-013-drug-abuse-prevention-and-control.md#section-844) and as previously codified elsewhere in the United States Code, or in violation of D.C. Code 48–904.01(d)(1). The Attorney General, acting through the Pardon Attorney, is directed to develop and announce application procedures for certificates of pardon and to begin accepting applications in accordance with such procedures as soon as reasonably practicable. The Attorney General, acting through the Pardon Attorney, shall review all properly submitted applications and shall issue certificates of pardon to eligible applicants in due course.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this sixth day of October, in the year of our Lord two thousand twenty-two, and of the Independence of the United States of America the two hundred and forty-seventh.
+
+J.R. Biden, Jr.
+
+#### Proc. No. 10688. Granting Pardon for the Offense of Simple Possession of Marijuana, Attempted Simple Possession of Marijuana, or Use of Marijuana
+Proc. No. 10688, Dec. 22, 2023, 88 F.R. 90083, provided:
+
+In Proclamation 10467 of October 6, 2022 (Granting Pardon for the Offense of Simple Possession of Marijuana) [set out above], I exercised my authority under the Constitution to pardon individuals who committed or were convicted of the offense of simple possession of marijuana in violation of the Controlled Substances Act [[21 U.S.C. 801](./chapter-013-drug-abuse-prevention-and-control.md#section-801) et seq.] and section 48–904.01(d)(1) of the Code of the District of Columbia (D.C. Code). As I have said before, convictions for simple possession of marijuana have imposed needless barriers to employment, housing, and educational opportunities. Through this proclamation, consistent with the grant of Proclamation 10467, I am pardoning additional individuals who may continue to experience the unnecessary collateral consequences of a conviction for simple possession of marijuana, attempted simple possession of marijuana, or use of marijuana. Therefore, acting pursuant to the grant of authority in Article II, Section 2, of the Constitution of the United States, I, Joseph R. Biden Jr., do hereby grant a full, complete, and unconditional pardon to all current United States citizens and lawful permanent residents who, on or before the date of this proclamation [Dec. 22, 2023], committed or were convicted of the offense of simple possession of marijuana, attempted simple possession of marijuana, or use of marijuana, regardless of whether they have been charged with or prosecuted for these offenses on or before the date of this proclamation, in violation of:
+
+(1) [section 844 of title 21](./chapter-013-drug-abuse-prevention-and-control.md#section-844), United States Code, [section 846 of title 21](./chapter-013-drug-abuse-prevention-and-control.md#section-846), United States Code, and previous provisions in the United States Code that prohibited simple possession of marijuana or attempted simple possession of marijuana;
+
+(2) section 48–904.01(d)(1) of the D.C. Code and previous provisions in the D.C. Code that prohibited simple possession of marijuana;
+
+(3) section 48–904.09 of the D.C. Code and previous provisions in the D.C. Code that prohibited attempted simple possession of marijuana; and
+
+(4) provisions in the Code of Federal Regulations, including as enforced under the United States Code, that prohibit only the simple possession or use of marijuana on Federal properties or installations, or in other locales, as currently or previously codified, including but not limited to 25 C.F.R. 11.452(a); 32 C.F.R. 1903.12(b)(2); 36 C.F.R. 2.35(b)(2); 36 C.F.R. 1002.35(b)(2); 36 C.F.R. 1280.16(a)(1); 36 C.F.R. 702.6(b); 41 C.F.R. 102–74.400(a); 43 C.F.R. 8365.1–4(b)(2); and 50 C.F.R. 27.82(b)(2).
+
+My intent by this proclamation is to pardon only the offenses of simple possession of marijuana, attempted simple possession of marijuana, or use of marijuana in violation of the Federal and D.C. laws set forth in paragraphs (1) through (3) of this proclamation, as well as the provisions in the Code of Federal Regulations consistent with paragraph (4) of this proclamation, and not any other offenses involving other controlled substances or activity beyond simple possession of marijuana, attempted simple possession of marijuana, or use of marijuana, such as possession of marijuana with intent to distribute or driving offenses committed while under the influence of marijuana. This pardon does not apply to individuals who were non-citizens not lawfully present in the United States at the time of their offense.
+
+Pursuant to the procedures in Proclamation 10467, the Attorney General, acting through the Pardon Attorney, shall review all properly submitted applications for certificates of pardon and shall issue such certificates of pardon to eligible applicants in due course.
+
+IN WITNESS WHEREOF, I have hereunto set my hand this twenty-second day of December, in the year of our Lord two thousand twenty-three, and of the Independence of the United States of America the two hundred and forty-eighth.
+
+J.R. Biden, Jr.
+
 
 <a id="section-844a"></a>
 ## § 844a. Civil penalty for possession of small amounts of certain controlled substances
@@ -5744,7 +5698,7 @@ Section 711(a)(1), referred to in subsec. (a)(2)(A), is section 711(a)(1) of Pub
 Section was enacted as part of the USA PATRIOT Improvement and Reauthorization Act of 2005 and also as part of the Combat Methamphetamine Epidemic Act of 2005, and not as part of the Controlled Substances Act which comprises this subchapter.
 
 #### Change of Name
-Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-872"></a>
@@ -5945,7 +5899,7 @@ The Attorney General may from time to time appoint committees to advise him with
 ### Statutory Notes
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-875"></a>

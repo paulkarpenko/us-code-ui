@@ -1339,6 +1339,9 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 #### Effective Date of 1984 Amendment
 Pub. L. 98–353, title III, § 552, formerly § 553, July 10, 1984, 98 Stat. 392, as renumbered by Pub. L. 98–531, § 1(2), Oct. 19, 1984, 98 Stat. 2704, provided that: “(a) Except as otherwise provided in this section the amendments made by this title [see Tables for classification] shall become effective to cases filed 90 days after the date of enactment of this Act [July 10, 1984]. “(b) The amendments made by section 426(b) [amending [section 303 of this title](./chapter-003-case-administration.md#section-303)] shall become effective upon the date of enactment of this Act. “(c) The amendments made by subtitle J [enacting [section 1113 of this title](./chapter-011-reorganization.md#section-1113)], shall become effective as provided in section 541(c) [set out as an Effective Date note under [section 1113 of this title](./chapter-011-reorganization.md#section-1113)].”
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–24, § 1, Dec. 19, 2023, 137 Stat. 128, provided that: “This Act [amending provisions set out as a note under [section 707 of this title](./chapter-007-liquidation.md#section-707)] may be cited as the ‘National Guard and Reservists Debt Relief Extension Act of 2023’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–151, § 1, June 21, 2022, 136 Stat. 1298, provided that: “This Act [amending this section, sections 104, 109, 1182, 1183, and 1191 of this title, and [section 589a of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a&num=0&edition=prelim), Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section, sections 104 and 109 of this title, and [section 589a of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section589a&num=0&edition=prelim)] may be cited as the ‘Bankruptcy Threshold Adjustment and Technical Corrections Act’.”
 
@@ -1666,7 +1669,7 @@ By notice dated Jan. 31, 2022, 87 F.R. 6625, the Judicial Conference of the Unit
 | Section 1409(b)—a trustee may commence a proceeding arising in or related to a case to recover |  |  |
 | (1)—money judgment of or property worth less than | $1,375 | $1,525. |
 | (2)—a consumer debt less than | $20,450 | $22,700. |
-| (3)—a non consumer debt against a non-insider less than | $25,000 | $27,750. |
+| (3)—a non-consumer debt against a non-insider less than | $25,000 | $27,750. |
 
 | 11 U.S.C. | Dollar amount to be adjusted | New (adjusted) dollar amount 1 |
 | --- | --- | --- |
@@ -2086,7 +2089,7 @@ Section 1(b) of the International Banking Act of 1978, referred to in subsec. (b
 #### Amendments
 2022—Subsec. (e). Pub. L. 117–151, § 2(i)(1)(A), amended subsec. (e) to read as it read on the day before the date of enactment of Pub. L. 117–151, which is June 21, 2022. See note below. Prior to reversion, subsec. (e), as amended by section 2(c) of Pub. L. 117–151, read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated debts of less than $2,750,000 or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated debts that aggregate less than $2,750,000 may be a debtor under chapter 13 of this title.”
 
-Subsec. (e). Pub. L. 117–151, § 2(c), added subsec. (e) and struck out former subsec. (e) which read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.” For adjustments to dollar amounts in quoted text, see Adjustment of Dollar Amounts notes below.
+Pub. L. 117–151, § 2(c), added subsec. (e) and struck out former subsec. (e) which read as follows: “Only an individual with regular income that owes, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts of less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000, or an individual with regular income and such individual’s spouse, except a stockbroker or a commodity broker, that owe, on the date of the filing of the petition, noncontingent, liquidated, unsecured debts that aggregate less than $250,000 and noncontingent, liquidated, secured debts of less than $750,000 may be a debtor under chapter 13 of this title.” For adjustments to dollar amounts in quoted text, see Adjustment of Dollar Amounts notes below.
 
 2010—Subsec. (b)(3)(B). Pub. L. 111–327, § 2(a)(6)(A), inserted closing parenthesis after “1978”.
 
@@ -2133,7 +2136,7 @@ Subsec. (f). Pub. L. 98–353, § 301, added subsec. (f).
 #### Effective Date of 2022 Amendment
 Amendment by section 2(c) of Pub. L. 117–151 effective June 21, 2022, see section 2(h)(1) of Pub. L. 117–151, set out as a note under [section 104 of this title](./chapter-001-general-provisions.md#section-104).
 
-Pub. L. 117–151, § 2(i), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(A) is effective on the date that is 2 years after June 21, 2022.
+Pub. L. 117–151, § 2(i)(1), June 21, 2022, 136 Stat. 1300, provided in part that the amendment made by section 2(i)(1)(A) is effective on the date that is 2 years after June 21, 2022.
 
 #### Effective Date of 2009 Amendment
 Pub. L. 111–16, § 7, May 7, 2009, 123 Stat. 1609, provided that: “The amendments made by this Act [amending this section, sections 322, 332, 342, 521, 704, 749, and 764 of this title, sections 983, 1514, 1963, 2252A, 2339B, 3060, 3432, 3509, and 3771 of Title 18, Crimes and Criminal Procedure, section 7 of the Classified Information Procedures Act set out in the Appendix to Title 18, [section 853 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section853&num=0&edition=prelim), Food and Drugs, and sections 636, 1453, and 2107 of Title 28, Judiciary and Judicial Procedure] shall take effect on December 1, 2009.”

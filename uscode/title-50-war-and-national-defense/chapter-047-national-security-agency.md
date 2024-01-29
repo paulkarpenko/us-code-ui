@@ -2,7 +2,7 @@
 title: 50
 chapter: '47'
 heading: NATIONAL SECURITY AGENCY
-section_count: 19
+section_count: 20
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -44,7 +44,7 @@ A prior section 2 of Pub. L. 86–36, May 29, 1959, 73 Stat. 63; Pub. L. 87–36
 2014—Pub. L. 113–126 added subsec. (a) and designated existing provisions as subsec. (b).
 
 #### Effective Date of 2014 Amendment
-Amendment by Pub. L. 113–126 effective Oct. 1, 2014, and applicable upon the earlier of the date of the first nomination by the President of an individual to serve as the Director of the National Security Agency that occurs on or after Oct. 1, 2014, or the date of the cessation of the performance of the duties of the Director of the National Security Agency by the individual performing such duties on Oct. 1, 2014, subject to an exception for initial nominations, see section 403 of Pub. L. 113–126, set out as a note under section 8G of the Inspector General Act of 1978, Pub. L. 95–452, in the Appendix to Title 5, Government Organization and Employees.
+Pub. L. 113–126, title IV, § 403, July 7, 2014, 128 Stat. 1408, as amended by Pub. L. 117–286, § 4(b)(11), Dec. 27, 2022, 136 Stat. 4344, provided that: “(a) In General.—Except as otherwise specifically provided, the amendments made by sections 401 [amending this section] and 402 [amending sections 8G and 12 of Pub. L. 95–452, formerly set out in the Appendix to Title 5, Government Organization and Employees] shall take effect on October 1, 2014, and shall apply upon the earlier of—“(1) in the case of section 401—“(A) the date of the first nomination by the President of an individual to serve as the Director of the National Security Agency that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Director of the National Security Agency by the individual performing such duties on October 1, 2014; and “(2) in the case of section 402—“(A) the date of the first nomination by the President of an individual to serve as the Inspector General of the National Security Agency that occurs on or after October 1, 2014; or “(B) the date of the cessation of the performance of the duties of the Inspector General of the National Security Agency by the individual performing such duties on October 1, 2014. “(b) Exception for Initial Nominations.—Notwithstanding paragraph (1)(A) or (2)(A) of subsection (a), an individual serving as the Director of the National Security Agency or the Inspector General of the National Security Agency on the date that the President first nominates an individual for such position on or after October 1, 2014, may continue to perform in that position after such date of nomination and until the individual appointed to the position, by and with the advice and consent of the Senate, assumes the duties of the position. “(c) Incumbent Inspector General.—The individual serving as Inspector General of the National Security Agency on the date of the enactment of this Act [July 7, 2014] shall be eligible to be appointed by the President to a new term of service under [section 403 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403&num=0&edition=prelim), United States Code, by and with the advice and consent of the Senate.”
 
 #### Position of Importance and Responsibility
 Pub. L. 113–126, title IV, § 401(b), July 7, 2014, 128 Stat. 1408, provided that: “(1) In general.—The President may designate the Director of the National Security Agency as a position of importance and responsibility under [section 601 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section601&num=0&edition=prelim), United States Code. “(2) Effective date.—Paragraph (1) shall take effect on the date of the enactment of this Act [July 7, 2014].”
@@ -420,7 +420,7 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 
 **(d) Eligibility**
 
-(1) To be eligible for assignment under subsection (b), a program participant,11 So in original. must agree in writing—
+(1) To be eligible for assignment under subsection (b), a program participant must agree in writing—
 
   (A) to continue in the service of the Agency for the period of the assignment and to complete the educational course of training for which the program participant is assigned;
 
@@ -444,7 +444,7 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 
   (B) The Secretary of Defense may release a person, in whole or in part, from the obligation to reimburse the United States under an agreement described in paragraph (1) when, in his discretion, the Secretary determines that equity or the interests of the United States so require.
 
-  (C) The Secretary of Defense shall permit an 1 program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
+  (C) The Secretary of Defense shall permit an 11 So in original. program participant assigned under this section who, prior to commencing a second academic year of such assignment, voluntarily terminates the assignment or the program participant’s employment with the Agency, to satisfy his obligation under an agreement described in paragraph (1) to reimburse the United States by reimbursement according to a schedule of monthly payments which results in completion of reimbursement by a date five years after the date of termination of the assignment or employment or earlier at the option of the program participant.
 
 **(e) Recruitment of individuals** Agency efforts to recruit individuals at educational institutions for participation in the undergraduate and graduate training program established by this section shall be made openly and according to the common practices of universities and employers recruiting at such institutions.
 
@@ -460,6 +460,8 @@ Section effective Oct. 1, 1981, see section 806 of Pub. L. 97–89, set out as a
 Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
 
 #### Amendments
+2023—Subsec. (d)(1). Pub. L. 118–31 substituted “program participant must” for “program participant, must”.
+
 2010—Subsec. (a). Pub. L. 111–259, § 312(a)(1), inserted “and graduate” after “undergraduate” and substituted “a baccalaureate or graduate” for “the baccalaureate”.
 
 Subsec. (b). Pub. L. 111–259, § 312(b)(1), substituted “civilians who may or may not be employees” for “civilian employees”.
@@ -518,12 +520,15 @@ Section was formerly classified in a note under [section 402 of this title](./ch
 
 **(b) Duties** The Panel shall study and assess, and periodically advise the Director on, the research, development, and application of existing and emerging science and technology advances, advances in encryption, and other topics.
 
-**(c) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Panel.
+**(c) Applicability of chapter 10 of title 5** Chapter 10 of title 5 shall not apply with respect to the Panel.
 
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified in a note under [section 402 of this title](./chapter-015-national-security.md#section-402) prior to editorial reclassification as this section.
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-3618"></a>
@@ -549,3 +554,14 @@ Section was formerly classified in a note under [section 402 of this title](./ch
 **(a) Establishment** The Director of the National Security Agency shall establish an honorary award for the recognition of female personnel of the National Security Agency for distinguished career contributions in support of the mission of the Agency as civilian employees or members of the Armed Forces assigned to the Agency. The award shall be known as the “Senior Chief Petty Officer Shannon Kent Award” and shall consist of a design determined appropriate by the Director.
 
 **(b) Award** The Director shall award the Senior Chief Petty Officer Shannon Kent Award to female civilian employees, members of the Armed Forces, or former civilian employees or members, whom the Director determines meet the criteria under subsection (a).
+
+
+<a id="section-3620"></a>
+## § 3620. Congressional notification of intelligence collection adjustments
+**(a) Notification** Not later than 30 days after the date on which the Director of the National Security Agency determines the occurrence of an intelligence collection adjustment, the Director shall submit to the congressional intelligence committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a notification of the intelligence collection adjustment.
+
+**(b) Definitions** In this section:
+
+(1) **Congressional intelligence committees** — The term “congressional intelligence committees” has the meaning given that term in [section 3003 of this title](./chapter-044-national-security.md#section-3003).
+
+(2) **Intelligence collection adjustment** — The term “intelligence collection adjustment” includes a change by the United States Government to a policy on intelligence collection or the prioritization thereof that results in a significant loss of intelligence.

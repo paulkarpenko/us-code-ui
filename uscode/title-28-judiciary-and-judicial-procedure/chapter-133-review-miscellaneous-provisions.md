@@ -24,6 +24,13 @@ source: >-
 
 ### Statutory Notes
 
+#### Amendment of Subsection (g)
+Pub. L. 118–31, div. A, title V, § 533(a)(2)(B), (b), Dec. 22, 2023, 137 Stat. 261, provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, subsection (g) of this section is amended to read as follows:
+
+“(g) The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces, or the decision of a Court of Criminal Appeals that the United States Court of Appeals for the Armed Forces refuses to grant a petition to review, shall be as prescribed by rules of the Supreme Court.”
+
+See 2023 Amendment note below.
+
 #### 1948 Act
 Based on title 28, U.S.C., 1940 ed., §§ 47, 47a, 349a, 350, 380, 380a, [section 29 of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section29&num=0&edition=prelim), U.S.C., 1940 ed., Commerce and Trade, and [section 45 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section45&num=0&edition=prelim), U.S.C., 1940 ed., Transportation (Feb. 11, 1903, ch. 544, § 2, 32 Stat. 1167; Mar. 3, 1911, ch. 231, §§ 210, 266, 291, 36 Stat. 1150, 1162, 1167; Mar. 4, 1913, ch. 160, 37 Stat. 1013; Oct. 22, 1913, ch. 32, 38 Stat. 220; Sept. 6, 1916, ch. 448, § 6, 39 Stat. 727; Feb. 13, 1925, ch. 229, §§ 1, 8 (a, b, d), 43 Stat. 938, 940; Jan. 31, 1928, ch. 14, § 1, 45 Stat. 54; June 7, 1934, ch. 426, 48 Stat. 936; Aug. 24, 1937, ch. 754, §§ 2, 3, 50 Stat. 752; June 9, 1944, ch. 239, 58 Stat. 272).
 
@@ -53,6 +60,8 @@ The new subsection (d) of section 2101 supplies an omission in revised title 28,
 The other amendment merely renumbers subsections (d) and (e) of such section 2101 as subsections (e) and (f), respectively.
 
 #### Amendments
+2023—Subsec. (g). Pub. L. 118–31 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “The time for application for a writ of certiorari to review a decision of the United States Court of Appeals for the Armed Forces shall be as prescribed by rules of the Supreme Court.”
+
 1994—Subsec. (g). Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals”.
 
 1988—Subsec. (a). Pub. L. 100–352 substituted “section 1253” for “sections 1252, 1253, and 2282”.
@@ -62,6 +71,9 @@ The other amendment merely renumbers subsections (d) and (e) of such section 210
 1949—Subsec. (c). Act May 24, 1949, § 106(a), clarified the allowance of an additional 60 days in which to apply for a writ of certiorari.
 
 Subsecs. (d) to (f). Act May 24, 1949, § 106(b), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–31(a) effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with provisions for inapplicability to pending decisions, finality of decisions before effective date, and requiring Supreme Court to prescribe rules to carry out subsection (g) of this section by the effective date specified, see section 533(b) of Pub. L. 118–31, set out as a note under [section 867a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section867a&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date of 1988 Amendment
 Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under [section 1254 of this title](./chapter-081-supreme-court.md#section-1254).

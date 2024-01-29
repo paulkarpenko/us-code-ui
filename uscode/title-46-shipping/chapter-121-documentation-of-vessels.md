@@ -463,7 +463,7 @@ Pub. L. 108–293, title VI, § 608(b), Aug. 9, 2004, 118 Stat. 1056, provided t
 
 **(f) Vessels Measuring Less Than 100 Feet.—** The Secretary shall establish reasonable and necessary requirements to demonstrate compliance with subsections (c) and (d), with respect to vessels measuring less than 100 feet in registered length, and shall seek to minimize the administrative burden on individuals who own and operate those vessels.
 
-**(g) Vessels Purchased Through Fishing Capacity Reduction Program.—** A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) et seq.) or section 308 of the Interjurisdictional Fisheries Act of 1986 ([16 U.S.C. 4107](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107&num=0&edition=prelim)) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
+**(g) Vessels Purchased Through Fishing Capacity Reduction Program.—** A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act ([16 U.S.C. 1801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) et seq.) or section 308 22 See References in Text note below. of the Interjurisdictional Fisheries Act of 1986 ([16 U.S.C. 4107](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107&num=0&edition=prelim)) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 
 **(h) Revocation of Endorsements.—** The Secretary shall revoke the fishery endorsement of any vessel subject to subsection (c) or (d) whose owner does not comply with those provisions.
 
@@ -503,6 +503,8 @@ Section 208(e) and (g) of the American Fisheries Act, referred to in subsec. (d)
 Section 219(a)(7) of the Department of Commerce and Related Agencies Appropriations Act, 2005, referred to in subsec. (d)(2)(B)(ii), (C)(iii), is section 219(a)(7) of Pub. L. 108–447, div. B, title II, Dec. 8, 2004, 118 Stat. 2887, which is not classified to the Code.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (g), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
+
+Section 308 of the Interjurisdictional Fisheries Act of 1986 ([16 U.S.C. 4107](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4107&num=0&edition=prelim)), referred to in subsec. (g), was repealed by Pub. L. 117–328, div. S, title II, § 204(a), Dec. 29, 2022, 136 Stat. 5270.
 
 #### Prior Provisions
 A prior section 12113, Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588, originally derived from section 65a of former Title 46, Shipping, related to ports of documentation, prior to being repealed by Pub. L. 100–710, title I, §§ 106(b)(5), 107(a), Nov. 23, 1988, 102 Stat. 4752, effective Jan. 1, 1989.

@@ -2,7 +2,7 @@
 title: 49
 chapter: '417'
 heading: OPERATIONS OF CARRIERS
-section_count: 51
+section_count: 54
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49&num=0&edition=prelim
 ---
@@ -24,6 +24,9 @@ The Secretary of Transportation may establish—
 |  | 49 App.:1551(b)(1)(E). | Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, § 3(e), 98 Stat. 1704. |
 
 In this section, before clause (1), the words “from time to time” are omitted as unnecessary. In clauses (1) and (2), the word “just” is omitted as being included in “reasonable”. In clause (1), the word “groups” is omitted as being included in “classifications”. The words “transportation provided” are substituted for “services performed” for consistency in the revised title. In clause (2), the word “requirements” is substituted for “rules and regulations pursuant to and consistent with the provisions of this subchapter” as being more appropriate and for consistency in the revised title.
+
+#### Crewmember Pumping Guidance
+Pub. L. 118–63, title IV, § 421, May 16, 2024, 138 Stat. 1165, provided that: “(a) In General.—Not later than 180 days after the date of enactment of this Act [May 16, 2024], the Administrator [of the Federal Aviation Administration] shall issue guidance to part 121 air carriers relating to the expression of milk by crewmembers on an aircraft during noncritical phases of flight, consistent with the performance of the crewmember’s duties aboard the aircraft. The guidance shall be equally applicable to any lactating crewmember. In developing the guidance, the Administrator shall—“(1) consider multiple methods of expressing breast milk that could be used by crewmembers, including the use of wearable lactation technology; and “(2) ensure the guidance will not require an air carrier or foreign air carrier to incur significant expense, such as through—“(A) the addition of an extra crewmember in response to providing a break; “(B) removal or retrofitting of seats on the aircraft; or “(C) modification or retrofitting of an aircraft. “(b) Definitions.—In this section:“(1) Crewmember.—The term ‘crewmember’ has the meaning given such term in section 1.1 of title 14, Code of Federal Regulations. “(2) Critical phases of flight.—The term ‘critical phases of flight’ has the meaning given such term in section 121.542 of title 14, Code of Federal Regulations. “(3) Part 121.—The term ‘part 121’ means part 121 of title 14, Code of Federal Regulations. “(c) Aviation Safety.—Nothing in this section shall limit the authority of the Administrator relating to aviation safety under subtitle VII of title 49, United States Code.”
 
 
 <a id="section-41702"></a>
@@ -130,7 +133,7 @@ Pub. L. 114–190, title II, § 2305, July 15, 2016, 130 Stat. 640, provided tha
 
 
 <a id="section-41705"></a>
-## § 41705. Discrimination against handicapped individuals
+## § 41705. Discrimination against individuals with disabilities
 **(a) In General.—** In providing air transportation, an air carrier, including (subject to section 40105(b)) any foreign air carrier, may not discriminate against an otherwise qualified individual on the following grounds:
 
 (1) the individual has a physical or mental impairment that substantially limits one or more major life activities.
@@ -143,7 +146,17 @@ Pub. L. 114–190, title II, § 2305, July 15, 2016, 130 Stat. 640, provided tha
 
 **(c) Investigation of Complaints.—**
 
-(1) **In general.—** — The Secretary shall investigate each complaint of a violation of subsection (a).
+(1) **In general.—** — The Secretary shall—
+
+  (A) not later than 120 days after the receipt of any complaint of a violation of this section or a regulation prescribed under this section, investigate such complaint; and
+
+  (B) provide, in writing, to the individual that filed the complaint and the air carrier or foreign air carrier alleged to have violated this section or a regulation prescribed under this section, the determination of the Secretary with respect to—
+
+    (i) whether the air carrier or foreign air carrier violated this section or a regulation prescribed under this section;
+
+    (ii) the facts underlying the complaint; and
+
+    (iii) any action the Secretary is taking in response to the complaint.
 
 (2) **Publication of data.—** — The Secretary shall publish disability-related complaint data in a manner comparable to other consumer complaint data.
 
@@ -168,6 +181,10 @@ In this section, before clause (1), the words “on the following grounds” are
 The date of the enactment of this subsection, referred to in subsec. (c)(4), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
+2024—Pub. L. 118–63, § 550(c), substituted “individuals with disabilities” for “handicapped individuals” in section catchline.
+
+Subsec. (c)(1). Pub. L. 118–63, § 549, added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Secretary shall investigate each complaint of a violation of subsection (a).”
+
 2003—Subsec. (b). Pub. L. 108–176 substituted “section 46301” for “section 46301(a)(3)(E)”.
 
 2000—Pub. L. 106–181 designated existing provisions as subsec. (a), inserted heading, substituted “carrier, including (subject to section 40105(b)) any foreign air carrier,” for “carrier” in introductory provisions, and added subsecs. (b) and (c).
@@ -184,15 +201,13 @@ Pub. L. 115–254, div. B, title IV, § 440, Oct. 5, 2018, 132 Stat. 3347, provi
 [For definition of “covered air carrier” as used in section 440 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101).]
 
 #### Airline Passengers With Disabilities Bill of Rights
-Pub. L. 115–254, div. B, title IV, § 434, Oct. 5, 2018, 132 Stat. 3343, provided that: “(a) Airline Passengers With Disabilities Bill of Rights.—The Secretary of Transportation shall develop a document, to be known as the ‘Airline Passengers with Disabilities Bill of Rights’, using plain language to describe the basic protections and responsibilities of covered air carriers, their employees and contractors, and people with disabilities under the [sic] [section 41705 of title 49](./chapter-417-operations-of-carriers.md#section-41705), United States Code. “(b) Content.—In developing the Airline Passengers with Disabilities Bill of Rights under subsection (a), the Secretary shall include, at a minimum, plain language descriptions of protections and responsibilities provided in law related to the following:“(1) The right of passengers with disabilities to be treated with dignity and respect. “(2) The right of passengers with disabilities to receive timely assistance, if requested, from properly trained covered air carrier and contractor personnel. “(3) The right of passengers with disabilities to travel with wheelchairs, mobility aids, and other assistive devices, including necessary medications and medical supplies, including stowage of such wheelchairs, aids, and devices. “(4) The right of passengers with disabilities to receive seating accommodations, if requested, to accommodate a disability. “(5) The right of passengers with disabilities to receive announcements in an accessible format. “(6) The right of passengers with disabilities to speak with a complaint resolution officer or to file a complaint with a covered air carrier or the Department of Transportation. “(c) Rule of Construction.—The development of the Airline Passengers with Disabilities Bill of Rights under subsections (a) and (b) shall not be construed as expanding or restricting the rights available to passengers with disabilities on the day before the date of the enactment of this Act [Oct. 5, 2018] pursuant to any statute or regulation. “(d) Consultations.—In developing the Airline Passengers with Disabilities Bill of Rights under subsection (a), the Secretary of Transportation shall consult with stakeholders, including disability organizations and covered air carriers and their contractors. “(e) Display.—Each covered air carrier shall include the Airline Passengers with Disabilities Bill of Rights—“(1) on a publicly available internet website of the covered air carrier; and “(2) in any pre-flight notifications or communications provided to passengers who alert the covered air carrier in advance of the need for accommodations relating to a disability. “(f) Training.—Covered air carriers and contractors of covered air carriers shall submit to the Secretary of Transportation plans that ensure employees of covered air carriers and their contractors receive training on the protections and responsibilities described in the Airline Passengers with Disabilities Bill of Rights. The Secretary shall review such plans to ensure the plans address the matters described in subsection (b).”
-
-[For definition of “covered air carrier” as used in section 434 of Pub. L. 115–254, set out above, see section 401 of Pub. L. 115–254, set out as a Definitions of Terms in Pub. L. 115–254 note under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101).]
+Pub. L. 115–254, div. B, title IV, § 434, Oct. 5, 2018, 132 Stat. 3343, which provided that the Secretary of Transportation would develop an Airline Passengers with Disabilities Bill of Rights to describe the basic protections and responsibilities of covered air carriers, their employees and contractors, and people with disabilities under [section 41705 of this title](./chapter-417-operations-of-carriers.md#section-41705), was transferred to this chapter and redesignated as [section 41728 of this title](./chapter-417-operations-of-carriers.md#section-41728) by Pub. L. 118–63, title V, § 510(b)(1), May 16, 2024, 138 Stat. 1194.
 
 #### Harmonization of Service Animal Standards
 Pub. L. 115–254, div. B, title IV, § 437, Oct. 5, 2018, 132 Stat. 3344, provided that: “(a) Rulemaking.—The Secretary of Transportation shall conduct a rulemaking proceeding—“(1) to define the term ‘service animal’ for purposes of air transportation; and “(2) to develop minimum standards for what is required for service and emotional support animals carried in aircraft cabins. “(b) Considerations.—In conducting the rulemaking under subsection (a), the Secretary shall consider, at a minimum—“(1) whether to align the definition of ‘service animal’ with the definition of that term in regulations of the Department of Justice implementing the Americans with Disabilities Act of 1990 (Public Law 101–336) [[42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.]; “(2) reasonable measures to ensure pets are not claimed as service animals, such as—“(A) whether to require photo identification for a service animal identifying the type of animal, the breed of animal, and the service the animal provides to the passenger; “(B) whether to require documentation indicating whether or not a service animal was trained by the owner or an approved training organization; “(C) whether to require, from a licensed physician, documentation indicating the mitigating task or tasks a service animal provides to its owner; and “(D) whether to allow a passenger to be accompanied by more than 1 service animal; “(3) reasonable measures to ensure the safety of all passengers, such as—“(A) whether to require health and vaccination records for a service animal; and “(B) whether to require third-party proof of behavioral training for a service animal; “(4) the impact additional requirements on service animals could have on access to air transportation for passengers with disabilities; and “(5) if impacts on access to air transportation for passengers with disabilities are found, ways to eliminate or mitigate those impacts. “(c) Final Rule.—Not later than 18 months after the date of enactment of this Act [Oct. 5, 2018], the Secretary shall issue a final rule pursuant to the rulemaking conducted under this section.”
 
-#### Advisory Committee on the Air Travel Needs of Passengers With Disabilities
-Pub. L. 115–254, div. B, title IV, § 439, Oct. 5, 2018, 132 Stat. 3345, provided that: “(a) Establishment.—The Secretary of Transportation shall establish an advisory committee on issues related to the air travel needs of passengers with disabilities (referred to in this section as the ‘Advisory Committee’). “(b) Duties.—The Advisory Committee shall—“(1) identify and assess the disability-related access barriers encountered by passengers with disabilities; “(2) determine the extent to which the programs and activities of the Department of Transportation are addressing the barriers identified in paragraph (1); “(3) recommend consumer protection improvements to the air travel experience of passengers with disabilities; “(4) advise the Secretary with regard to the implementation of [section 41705 of title 49](./chapter-417-operations-of-carriers.md#section-41705), United States Code; and “(5) conduct such activities as the Secretary considers necessary to carry out this section. “(c) Membership.—“(1) In general.—The Advisory Committee shall be composed of at least 1 representative of each of the following groups:“(A) Passengers with disabilities. “(B) National disability organizations. “(C) Air carriers. “(D) Airport operators. “(E) Contractor service providers. “(F) Aircraft manufacturers. “(G) Wheelchair manufacturers. “(H) National veterans organizations representing disabled veterans. “(2) Appointment.—The Secretary of Transportation shall appoint each member of the Advisory Committee. “(3) Vacancies.—A vacancy in the Advisory Committee shall be filled in the manner in which the original appointment was made. “(d) Chairperson.—The Secretary of Transportation shall designate, from among the members appointed under subsection (c), an individual to serve as chairperson of the Advisory Committee. “(e) Travel Expenses.—Members of the Advisory Committee shall serve without pay, but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code. “(f) Reports.—“(1) In general.—Not later than 14 months after the date of establishment of the Advisory Committee, and annually thereafter, the Advisory Committee shall submit to the Secretary of Transportation a report on the needs of passengers with disabilities in air travel, including—“(A) an assessment of existing disability-related access barriers, and any emerging disability-related access barriers that will likely be an issue in the next 5 calendar years; “(B) an evaluation of the extent to which the Department of Transportation’s programs and activities are eliminating disability-related access barriers; “(C) a description of the Advisory Committee’s actions; “(D) a description of improvements related to the air travel experience of passengers with disabilities; and “(E) any recommendations for legislation, administrative action, or other action that the Advisory Committee considers appropriate. “(2) Report to congress.—Not later than 60 days after the date the Secretary receives the report under paragraph (1), the Secretary shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] a copy of the report, including any additional findings or recommendations that the Secretary considers appropriate. “(g) Termination.—The Advisory Committee established under this section shall terminate on September 30, 2023. “(h) Termination of the Next Generation Air Transportation System Senior Policy Committee.—The Next Generation Air Transportation System Senior Policy Committee established by the Secretary of Transportation shall terminate on the date of the initial appointment of the members of the Advisory Committee.”
+#### Air Carrier Access Act Advisory Committee
+Pub. L. 115–254, div. B, title IV, § 439, Oct. 5, 2018, 132 Stat. 3345, as amended by Pub. L. 118–15, div. B, title II, § 2202(t), Sept. 30, 2023, 137 Stat. 84; Pub. L. 118–34, title I, § 102(t), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, § 102(t), Mar. 8, 2024, 138 Stat. 22; Pub. L. 118–63, title V, § 541(a), May 16, 2024, 138 Stat. 1201, provided that: “(a) Establishment.—The Secretary of Transportation shall establish an advisory committee on issues related to the air travel needs of passengers with disabilities (referred to in this section as the ‘Advisory Committee’). “(b) Duties.—The Advisory Committee shall—“(1) identify and assess the disability-related access barriers encountered by passengers with disabilities; “(2) determine the extent to which the programs and activities of the Department of Transportation are addressing the barriers identified in paragraph (1); “(3) recommend consumer protection improvements to the air travel experience of passengers with disabilities; “(4) advise the Secretary with regard to the implementation of [section 41705 of title 49](./chapter-417-operations-of-carriers.md#section-41705), United States Code; and “(5) conduct such activities as the Secretary considers necessary to carry out this section. “(c) Membership.—“(1) In general.—The Advisory Committee shall be composed of at least 1 representative of each of the following groups:“(A) Passengers with disabilities. “(B) National disability organizations. “(C) Air carriers. “(D) Airport operators. “(E) Contractor service providers. “(F) Aircraft manufacturers. “(G) Manufacturers of wheelchairs, including powered wheelchairs, and other mobility aids. “(H) National veterans organizations representing disabled veterans. “(2) Appointment.—The Secretary of Transportation shall appoint each member of the Advisory Committee. “(3) Vacancies.—A vacancy in the Advisory Committee shall be filled in the manner in which the original appointment was made. “(d) Chairperson.—The Secretary of Transportation shall designate, from among the members appointed under subsection (c), an individual to serve as chairperson of the Advisory Committee. “(e) Travel Expenses.—Members of the Advisory Committee shall serve without pay, but shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code. “(f) Reports.—“(1) In general.—Not later than 14 months after the date of establishment of the Advisory Committee, and annually thereafter, the Advisory Committee shall submit to the Secretary of Transportation a report on the needs of passengers with disabilities in air travel, including—“(A) an assessment of existing disability-related access barriers, and any emerging disability-related access barriers that will likely be an issue in the next 5 calendar years; “(B) an evaluation of the extent to which the Department of Transportation’s programs and activities are eliminating disability-related access barriers; “(C) a description of the Advisory Committee’s actions; “(D) a description of improvements related to the air travel experience of passengers with disabilities; and “(E) any recommendations for legislation, administrative action, or other action that the Advisory Committee considers appropriate. “(2) Report to congress.—Not later than 60 days after the date the Secretary receives the report under paragraph (1), the Secretary shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] a copy of the report, including any additional findings or recommendations that the Secretary considers appropriate. “(g) Termination.—The Advisory Committee established under this section shall terminate on September 30, 2028. “(h) Termination of the Next Generation Air Transportation System Senior Policy Committee.—The Next Generation Air Transportation System Senior Policy Committee established by the Secretary of Transportation shall terminate on the date of the initial appointment of the members of the Advisory Committee.”
 
 #### Training Policies Regarding Assistance for Persons With Disabilities
 Pub. L. 115–254, div. B, title IV, § 433, Oct. 5, 2018, 132 Stat. 3342, provided that: “Following the receipt of the report required under section 2107 of the FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190; 130 Stat. 622) [set out below], the Secretary of Transportation shall develop, if appropriate, specific recommendations regarding improvements to wheelchair assistance provided by air carriers and recommendations on how training programs by air carriers can address consumer complaints regarding wheelchair assistance.”
@@ -874,9 +889,9 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
   (A) *Hourly limitation.—* — The exemptions granted—
 
-    (i) under subsections (a) and (b) and departures authorized under subsection (g)(2) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m.; and
+    (i) under subsections (a), (b), and (i) and departures authorized under subsection (g)(2) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m.; and
 
-    (ii) under subsections (a), (b), and (g) may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 5 operations.
+    (ii) under subsections (a), (b), (g), and (i) may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 5 operations.
 
   (B) *Use of existing slots.—* — A non-limited incumbent air carrier utilizing an exemption authorized under subsection (g)(3) for an arrival permitted between the hours of 10:01 p.m. and 11:00 p.m. under this section shall discontinue use of an existing slot during the same time period the arrival exemption is operated.
 
@@ -948,12 +963,54 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 (3) consider applications from foreign air carriers that are certificated by the government of Canada if such consideration is required by the bilateral aviation agreement between the United States and Canada and so long as the conditions and limitations under this section apply to such foreign air carriers.
 
+**(i) Additional Slot Exemptions.—**
+
+(1) **Increase in slot exemptions.—** — Not later than 60 days after the date of enactment of the FAA Reauthorization Act of 2024, the Secretary shall grant, by order, 10 exemptions from—
+
+  (A) the application of sections 49104(a)(5), 49109, and 41714 to air carriers to operate limited frequencies and aircraft on routes between Ronald Reagan Washington National Airport and domestic airports located within or beyond the perimeter described in section 49109; and
+
+  (B) the requirements of subparts K, S, and T of part 93 of title 14, Code of Federal Regulations.
+
+(2) **Non-limited incumbents.—** — Of the slot exemptions made available under paragraph (1), the Secretary shall make 8 available to incumbent air carriers qualifying for status as a non-limited incumbent carrier at Ronald Reagan Washington National Airport as of the date of enactment of the FAA Reauthorization Act of 2024.
+
+(3) **Limited incumbents.—** — Of the slot exemptions made available under paragraph (1), the Secretary shall make 2 available to incumbent air carriers qualifying for status as a limited incumbent carrier at Ronald Reagan Washington National Airport as of the date of enactment of the FAA Reauthorization Act of 2024.
+
+(4) **Allocation procedures.—** — The Secretary shall allocate the 10 slot exemptions provided under paragraph (1) pursuant to the application process established by the Secretary under subsection (d), subject to the following:
+
+  (A) *Limitations.—* — Each air carrier that is eligible under paragraph (2) and paragraph (3) shall be eligible to operate no more and no less than 2 of the newly authorized slot exemptions.
+
+  (B) *Criteria.—* — The Secretary shall consider the extent to which the exemptions will—
+
+    (i) enhance options for nonstop travel to beyond-perimeter airports that do not have nonstop service from Ronald Reagan Washington National Airport as of the date of enactment of the FAA Reauthorization Act of 2024; or
+
+    (ii) have a positive impact on the overall level of competition in the markets that will be served as a result of those exemptions.
+
+(5) **Prohibition.—**
+
+  (A) *In general.—* — The Metropolitan Washington Airports Authority may not assess any penalty or similar levy against an individual air carrier solely for obtaining and operating a slot exemption authorized under this subsection.
+
+  (B) *Rule of construction.—* — Subparagraph (A) shall not be construed as prohibiting the Metropolitan Washington Airports Authority from assessing and collecting any penalty, fine, or other levy, such as a handling fee or landing fee, that is—
+
+    (i) authorized by the Metropolitan Washington Airports Regulations;
+
+    (ii) agreed to in writing by the air carrier; or
+
+    (iii) charged in the ordinary course of business to an air carrier operating at Ronald Reagan Washington National Airport regardless of whether or not the air carrier obtained a slot exemption authorized under this subsection.
+
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of the FAA Modernization and Reform Act of 2012, referred to in subsec. (g)(1), (3), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
+The date of enactment of the FAA Reauthorization Act of 2024, referred to in subsec. (i)(1) to (3), (4)(B)(i), is the date of enactment of Pub. L. 118–63, which was approved May 16, 2024.
+
 #### Amendments
+2024—Subsec. (c)(2)(A)(i). Pub. L. 118–63, § 502(b)(1), substituted “, (b), and (i)” for “and (b)”.
+
+Subsec. (c)(2)(A)(ii). Pub. L. 118–63, § 502(b)(2), substituted “(g), and (i)” for “and (g)”.
+
+Subsec. (i). Pub. L. 118–63, § 502(a), added subsec. (i).
+
 2012—Subsec. (c)(2). Pub. L. 112–95, § 414(b), amended par. (2) generally. Prior to amendment, text read as follows: “The exemptions granted under subsections (a) and (b) may not be for operations between the hours of 10:00 p.m. and 7:00 a.m. and may not increase the number of operations at Ronald Reagan Washington National Airport in any 1-hour period during the hours between 7:00 a.m. and 9:59 p.m. by more than 3 operations.”
 
 Subsecs. (g), (h). Pub. L. 112–95, § 414(a), added subsecs. (g) and (h).
@@ -988,6 +1045,9 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 #### Regulations
 Pub. L. 108–176, title IV, § 426(b), Dec. 12, 2003, 117 Stat. 2556, provided that: “The Administrator of the Federal Aviation Administration shall revise regulations to take into account the amendment made by subsection (a) [amending this section].”
+
+#### Construction of 2024 Amendment: Preservation of Existing Within Perimeter Service
+Pub. L. 118–63, title V, § 502(c), May 16, 2024, 138 Stat. 1188, provided that: “Nothing in this section [amending this section], or the amendments made by this section, shall be construed as authorizing the conversion of a within-perimeter exemption or slot at Ronald Reagan Washington National Airport that is in effect on the date of enactment of this Act [May 16, 2024] to serve an airport located beyond the perimeter described in [section 49109 of title 49](./chapter-491-metropolitan-washington-airports.md#section-49109), United States Code.”
 
 #### General Aviation Flights at Ronald Reagan Washington National Airport
 Pub. L. 108–176, title VIII, § 823, Dec. 12, 2003, 117 Stat. 2595, provided that: “(a) Security Plan.—The Secretary of Homeland Security shall develop and implement a security plan to permit general aviation aircraft to land and take off at Ronald Reagan Washington National Airport. “(b) Landings and Takeoffs.—The Administrator of the Federal Aviation Administration shall allow general aviation aircraft that comply with the requirements of the security plan to land and take off at the Airport except during any period that the President suspends the plan developed under subsection (a) due to national security concerns. “(c) Report.—If the President suspends the security plan developed under subsection (a), the President shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a report on the reasons for the suspension not later than 30 days following the first day of the suspension. The report may be submitted in classified form.”
@@ -1241,6 +1301,125 @@ Final regulations, referred to in subsecs. (b) and (c), were issued Dec. 29, 201
 **(c) Covered Air Carrier Defined.—** In this section, the term “covered air carrier” means an air carrier or a foreign air carrier as those terms are defined in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code.
 
 
+<a id="section-41727"></a>
+## § 41727. Passenger Rights 11 So in original. Probably should not be capitalized.
+**(a) Guidelines.—** The Secretary of Transportation shall require each covered air carrier to submit a summarized 1-page document that describes the rights of passengers in air transportation, including guidelines for the following:
+
+(1) Compensation (regarding rebooking options, refunds, meals, and lodging) for flight delays of various lengths.
+
+(2) Compensation (regarding rebooking options, refunds, meals, and lodging) for flight diversions.
+
+(3) Compensation (regarding rebooking options, refunds, meals, and lodging) for flight cancellations.
+
+(4) Compensation for mishandled baggage, including delayed, damaged, pilfered, or lost baggage.
+
+(5) Voluntary relinquishment of a ticketed seat due to overbooking or priority of other passengers.
+
+(6) Involuntary denial of boarding and forced removal for whatever reason, including for safety and security reasons.
+
+**(b) Filing of Summarized Guidelines.—** Not later than 90 days after each air carrier submits its guidelines to the Secretary under subsection (a), the air carrier shall make available such 1-page document in a prominent location on its website.
+
+### Statutory Notes
+
+#### Codification
+Section, as added and amended by section 510(a) of Pub. L. 118–63, is based on Pub. L. 115–254, div. B, title IV, § 429, Oct. 5, 2018, 132 Stat. 3341, which was formerly set out as a note preceding [section 42301 of this title](./chapter-423-passenger-air-service-improvements.md#section-42301) before being transferred to this chapter and renumbered as this section.
+
+#### Amendments
+2024—Pub. L. 118–63, § 510(a)(1), transferred section 429 of Pub. L. 115–254 to this chapter, renumbered it as this section, and amended style of section catchline. See Codification note above.
+
+Subsec. (a). Pub. L. 118–63, § 510(a)(2), substituted “The Secretary” for “Not later than 90 days after the date of enactment of this Act, the Secretary” in introductory provisions.
+
+
+<a id="section-41728"></a>
+## § 41728. Airline passengers with disabilities bill of rights
+**(a) Airline Passengers With Disabilities Bill of Rights.—** The Secretary of Transportation shall develop a document, to be known as the “Airline Passengers with Disabilities Bill of Rights”, using plain language to describe the basic protections and responsibilities of covered air carriers,11 See Definition note below. their employees and contractors, and people with disabilities under section 41705.
+
+**(b) Content.—** In developing the Airline Passengers with Disabilities Bill of Rights under subsection (a), the Secretary shall include, at a minimum, plain language descriptions of protections and responsibilities provided in law related to the following:
+
+(1) The right of passengers with disabilities to be treated with dignity and respect.
+
+(2) The right of passengers with disabilities to receive timely assistance, if requested, from properly trained covered air carrier and contractor personnel.
+
+(3) The right of passengers with disabilities to travel with wheelchairs, mobility aids, and other assistive devices, including necessary medications and medical supplies, including stowage of such wheelchairs, aids, and devices.
+
+(4) The right of passengers with disabilities to receive seating accommodations, if requested, to accommodate a disability.
+
+(5) The right of passengers with disabilities to receive announcements in an accessible format.
+
+(6) The right of passengers with disabilities to speak with a complaint resolution officer or to file a complaint with a covered air carrier or the Department of Transportation.
+
+**(c) Rule of Construction.—** The development of the Airline Passengers with Disabilities Bill of Rights under subsections (a) and (b) shall not be construed as expanding or restricting the rights available to passengers with disabilities on the day before the date of enactment of the FAA Reauthorization Act of 2018 pursuant to any statute or regulation.
+
+**(d) Consultations.—** In developing the Airline Passengers with Disabilities Bill of Rights under subsection (a), the Secretary of Transportation shall consult with stakeholders, including disability organizations and covered air carriers and their contractors.
+
+**(e) Display.—** Each covered air carrier shall include the Airline Passengers with Disabilities Bill of Rights—
+
+(1) on a publicly available internet website of the covered air carrier; and
+
+(2) in any pre-flight notifications or communications provided to passengers who alert the covered air carrier in advance of the need for accommodations relating to a disability.
+
+**(f) Training.—** Covered air carriers and contractors of covered air carriers shall submit to the Secretary of Transportation plans that ensure that employees of covered air carriers and their contractors receive training on the protections and responsibilities described in the Airline Passengers with Disabilities Bill of Rights. The Secretary shall review such plans to ensure the plans address the matters described in subsection (b).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the FAA Reauthorization Act of 2018, referred to in subsec. (c), is the date of enactment of Pub. L. 115–254, which was approved Oct. 5, 2018.
+
+#### Codification
+Section, as added and amended by section 510(b) of Pub. L. 118–63, is based on Pub. L. 115–254, div. B, title IV, § 434, Oct. 5, 2018, 132 Stat. 3343, which was formerly set out as a note under [section 41705 of this title](./chapter-417-operations-of-carriers.md#section-41705) before being transferred to this chapter and renumbered as this section.
+
+#### Amendments
+2024—Pub. L. 118–63, § 510(b)(1), transferred section 434 of Pub. L. 115–254 to this chapter, renumbered it as this section, and amended style of section catchline. See Codification note above.
+
+Subsec. (a). Pub. L. 118–63, § 510(b)(2)(A), substituted “section 41705” for “the [section 41705 of title 49](./chapter-417-operations-of-carriers.md#section-41705), United States Code”.
+
+Subsec. (c). Pub. L. 118–63, § 510(b)(2)(B), substituted “the date of enactment of the FAA Reauthorization Act of 2018” for “the date of the enactment of this Act”.
+
+Subsec. (f). Pub. L. 118–63, § 510(b)(2)(C), substituted “ensure that employees” for “ensure employees”.
+
+#### Improved Training Standards for Assisting Passengers Who Use Wheelchairs
+Pub. L. 118–63, title V, § 542, May 16, 2024, 138 Stat. 1201, provided that: “(a) Rulemaking.—Not later than 6 months after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall issue a notice of proposed rulemaking to develop requirements for minimum training standards for airline personnel or contractors who assist wheelchair users who board or deplane using an aisle chair or other boarding device. “(b) Requirements.—The training standards developed under subsection (a) shall require, at a minimum, that airline personnel or contractors who assist passengers who use wheelchairs who board or deplane using an aisle chair or other boarding device—“(1) before being allowed to assist a passenger using an aisle chair or other boarding device to board or deplane, be able to successfully demonstrate skills (during hands-on training sessions) on—“(A) how to safely use the aisle chair, or other boarding device, including the use of all straps, brakes, and other safety features; “(B) how to assist in the transfer of passengers to and from their wheelchair, the aisle chair, and the aircraft’s passenger seat, either by physically lifting the passenger or deploying a mechanical device for the lift or transfer; and “(C) how to effectively communicate with, and take instruction from, the passenger; “(2) are trained regarding the availability of accessible lavatories and on-board wheelchairs and the right of a qualified individual with a disability to request an on-board wheelchair; and “(3) complete refresher training within 18 months of an initial training and be recertified on the job every 18 months thereafter by a relevant superior in order to remain qualified for providing aisle chair assistance. “(c) Considerations.—In conducting the rulemaking under subsection (a), the Secretary shall consider, at a minimum—“(1) whether to require air carriers and foreign air carriers to partner with national disability organizations and disabled veterans organizations representing individuals with disabilities who use wheelchairs and scooters in developing, administering, and auditing training; “(2) whether to require air carriers and foreign air carriers to use a lift device, instead of an aisle chair, to board and deplane passengers with mobility disabilities; and “(3) whether individuals able to provide boarding and deplaning assistance for passengers with limited or no mobility should receive training incorporating procedures from medical professionals on how to properly lift these passengers. “(d) Final Rule.—Not later than 12 months after the date of enactment of this Act, the Secretary shall issue a final rule pursuant to the rulemaking conducted under this section. “(e) Penalties.—The Secretary may assess a civil penalty in accordance with [section 46301 of title 49](./chapter-463-penalties.md#section-46301), United States Code, to any air carrier or foreign air carrier who fails to meet the requirements established under the final rule under subsection (d).”
+
+#### Training Standards for Stowage of Wheelchairs and Scooters
+Pub. L. 118–63, title V, § 543, May 16, 2024, 138 Stat. 1202, provided that: “(a) Rulemaking.—Not later than 6 months after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall issue a notice of proposed rulemaking to develop minimum training standards related to stowage of wheelchairs and scooters used by passengers with disabilities on aircraft. “(b) Requirements.—The training standards developed under subsection (a) shall require, at a minimum, that personnel and contractors of air carriers and foreign air carriers who stow wheelchairs and scooters on aircraft—“(1) before being allowed to handle or stow a wheelchair or scooter, be able to successfully demonstrate skills (during hands-on training sessions) on—“(A) how to properly handle and configure, at a minimum, the most commonly used power and manual wheelchairs and scooters for stowage on each aircraft type operated by the air carrier or foreign air carrier; “(B) how to properly review any wheelchair or scooter information provided by the passenger or the wheelchair or scooter manufacturer; and “(C) how to properly load, secure, and unload wheelchairs and scooters, including how to use any specialized equipment for loading or unloading, on each aircraft type operated by the air carrier or foreign air carrier; and “(2) complete refresher training within 18 months of an initial training and be recertified on the job every 18 months thereafter by a relevant superior in order to remain qualified for handling and stowing wheelchairs and scooters. “(c) Considerations.—In conducting the rulemaking under subsection (a), the Secretary shall consider, at a minimum, whether to require air carriers and foreign air carriers to partner with wheelchair or scooter manufacturers, national disability and disabled veterans organizations representing individuals who use wheelchairs and scooters, and aircraft manufacturers, in developing, administering, and auditing training. “(d) Final Rule.—Not later than 12 months after the date of enactment of this Act, the Secretary shall issue a final rule pursuant to the rulemaking conducted under this section. “(e) Penalties.—The Secretary may assess a civil penalty in accordance with [section 46301 of title 49](./chapter-463-penalties.md#section-46301), United States Code, to any air carrier or foreign air carrier who fails to meet the requirements established under the final rule under subsection (d).”
+
+#### Mobility Aids on Board Improve Lives and Empower All
+Pub. L. 118–63, title V, § 544, May 16, 2024, 138 Stat. 1203, provided that: “(a) Publication of Cargo Hold Dimensions.—“(1) In general.—Not later than 2 years after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall require air carriers to publish in a prominent and easily accessible place on the public website of the air carrier, information describing the relevant dimensions and other characteristics of the cargo holds of all aircraft types operated by the air carrier, including the dimensions of the cargo hold entry, that would limit the size, weight, and allowable type of cargo. “(2) Proprietary information.—The Secretary shall allow an air carrier to protect the confidentiality of any trade secret or proprietary information submitted in accordance with paragraph (1), as appropriate. “(b) Refund Required for Individual Traveling With Wheelchair.—In the case of a qualified individual with a disability traveling with a wheelchair who has purchased a ticket for a flight from an air carrier, but who cannot travel on the aircraft for such flight because the wheelchair of such qualified individual cannot be physically accommodated in the cargo hold of the aircraft, the Secretary shall require such air carrier to offer a refund to such qualified individual of any previously paid fares, fees, and taxes applicable to such flight. “(c) Evaluation of Data Regarding Damaged Wheelchairs.—Not later than 12 months after the date of enactment of this Act, and annually thereafter, the Secretary shall—“(1) evaluate data regarding the type and frequency of incidents of the mishandling of wheelchairs on aircraft and delineate such data by—“(A) types of wheelchairs involved in such incidents; and “(B) the ways in which wheelchairs are mishandled, including the type of damage to wheelchairs (such as broken drive wheels or casters, bent or broken frames, damage to electrical connectors or wires, control input devices, joysticks, upholstery or other components, loss, or delay of return); “(2) determine whether there are trends with respect to the data evaluated under paragraph (1); and “(3) make available on the public website of the Department of Transportation, in an accessible manner, a report containing the results of the evaluation of data and determination made under paragraphs (1) and (2) and a description of how the Secretary plans to address such results. “(d) Report to Congress on Mishandled Wheelchairs.—Upon completion of each annual report required under subsection (c), the Secretary shall transmit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] such report. “(e) Feasibility of In-Cabin Wheelchair Restraint Systems.—“(1) Roadmap.—Not later than 1 year after the date of enactment of this Act, the Secretary shall submit to the appropriate committees of Congress a publicly available strategic roadmap that describes how the Department of Transportation and the United States Access Board, respectively, shall, in accordance with the recommendations from the National Academies of Science, Engineering, and Mathematics [probably should be “National Academies of Sciences, Engineering, and Medicine”] Transportation Research Board Special Report 341—“(A) establish a program of research, in collaboration with the Rehabilitation Engineering and Assistive Technology Society of North America, the assistive technology industry, air carriers, original equipment manufacturers, national disability and disabled veterans organizations, and any other relevant stakeholders, to test and evaluate an appropriate selection of WC19-compliant wheelchairs and accessories in accordance with applicable FAA [Federal Aviation Administration] crashworthiness and safety performance criteria, including the issues and considerations set forth in such Special Report 341; and “(B) sponsor studies that assess issues and considerations, including those set forth in such Special Report 341, such as—“(i) the likely demand for air travel by individuals who are nonambulatory if such individuals could remain seated in their personal wheelchairs in flight; and “(ii) the feasibility of implementing seating arrangements that would accommodate passengers in wheelchairs in the main cabin in flight. “(2) Study.—If determined to be technically feasible by the Secretary, not later than 2 years after making such determination, the Secretary shall commence a study to assess the economic and financial feasibility of air carriers and foreign air carriers implementing seating arrangements that accommodate passengers with wheelchairs in the main cabin during flight. Such study shall include an assessment of—“(A) the cost of such seating arrangements, equipment, and installation; “(B) the demand for such seating arrangements; “(C) the impact of such seating arrangements on passenger seating and safety on aircraft; “(D) the impact of such seating arrangements on the cost of operations and airfare; and “(E) any other information determined appropriate by the Secretary. “(3) Report.—Not later than 1 year after the date on which the study under paragraph (2) is completed, the Secretary shall submit to the appropriate committees of Congress a publicly available report describing the results of the study conducted under paragraph (2) and any recommendations the Secretary determines appropriate. “(f) Definitions.—In this section:“(1) Air carrier.—The term ‘air carrier’ has the meaning given such term in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code. “(2) Disability; qualified individual with a disability.—The terms ‘disability’ and ‘qualified individual with a disability’ have the meanings given such terms in section 382.3 of title 14, Code of Federal Regulations (as in effect on date of enactment of this Act [May 16, 2024]). “(3) Wheelchair.—The term ‘wheelchair’ has the meaning given such term in section 37.3 of title 49, Code of Federal Regulations (as in effect on date of enactment of this Act), and includes power wheelchairs, manual wheelchairs, and scooters.”
+
+#### Prioritizing Accountability and Accessibility for Aviation Consumers
+Pub. L. 118–63, title V, § 545, May 16, 2024, 138 Stat. 1205, provided that: “(a) Annual Report.—Not later than 1 year after the date of enactment of this Act [May 16, 2024], and annually thereafter, the Secretary [of Transportation] shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives], and make publicly available, a report on aviation consumer complaints related to passengers with a disability filed with the Department of Transportation. “(b) Contents.—Each annual report submitted under subsection (a) shall, at a minimum, include the following:“(1) The number of aviation consumer complaints reported to the Secretary related to passengers with a disability filed with the Department of Transportation during the calendar year preceding the year in which such report is submitted. “(2) The nature of such complaints, including reported issues with—“(A) an air carrier, including an air carrier’s staff training or lack thereof; “(B) mishandling of passengers with a disability or their accessibility equipment, including mobility aids and wheelchairs; “(C) the condition, availability, or lack of accessibility of equipment operated by an air carrier or a contractor of an air carrier; “(D) the accessibility of in-flight services, including accessing and using on-board lavatories, for passengers with a disability; “(E) difficulties experienced by passengers with a disability in communicating with air carrier personnel; “(F) difficulties experienced by passengers with a disability in being moved, handled, or otherwise assisted; “(G) an air carrier changing the flight itinerary of a passenger with a disability without the consent of such passenger; “(H) issues experienced by passengers with a disability traveling with a service animal; and “(I) such other issues as the Secretary determines appropriate. “(3) An overview of the review process for such complaints received during such calendar year. “(4) The median length of time for how quickly review of such complaints was initiated by the Secretary. “(5) The median length of time for how quickly such complaints were resolved or otherwise addressed. “(6) Of the complaints that were found to violate [section 41705 of title 49](./chapter-417-operations-of-carriers.md#section-41705), United States Code—“(A) the number of such complaints for which a formal enforcement order was issued; and “(B) the number of such complaints for which a formal enforcement order was not issued. “(7) How many aviation consumer complaints related to passengers with a disability were referred to the Department of Justice for an enforcement action under—“(A) section 504 of the Rehabilitation Act of 1973 ([29 U.S.C. 794](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794&num=0&edition=prelim)); “(B) the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.); or “(C) any other provision of law. “(8) How many aviation consumer complaints related to passengers with a disability filed with the Department of Transportation that involved airport staff (or other matters under the jurisdiction of the FAA [Federal Aviation Administration]) were referred to the FAA. “(9) The number of disability-related aviation consumer complaints filed with the Department of Transportation involving Transportation Security Administration staff that were referred to the Transportation Security Administration or the Department of Homeland Security. “(c) Definitions.—“(1) In general.—Except as provided in paragraph (2), the definitions set forth in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code, and section 382.3 of title 14, Code of Federal Regulations, apply to this section. “(2) Air carrier.—The term ‘air carrier’ means an air carrier conducting passenger operations under part 121 of title 14, Code of Federal Regulations. “(3) Passengers with a disability.—In this section, the term ‘passengers with a disability’ has the meaning given the term ‘qualified individual with a disability’ in section 382.3 of title 14, Code of Federal Regulations.”
+
+#### Accommodations for Qualified Individuals With Disabilities
+Pub. L. 118–63, title V, § 546, May 16, 2024, 138 Stat. 1206, provided that: “(a) In General.—“(1) Advanced notice of proposed rulemaking.—Not later than 180 days after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall issue an advanced notice of proposed rulemaking regarding seating accommodations for any qualified individual with a disability. “(2) Notice of proposed rulemaking.—Not later than 18 months after the date on which the advanced notice of proposed rulemaking under paragraph (1) is completed, the Secretary shall issue a notice of proposed rulemaking regarding seating accommodations for any qualified individual with a disability. “(3) Final rule.—Not later than 30 months after the date on which the notice of proposed rulemaking under subparagraph (B) [probably should be “paragraph (2)”] is completed, the Secretary shall issue a final rule pursuant to the rulemaking conducted under this subsection. “(b) Considerations.—In carrying out the advanced notice of proposed rulemaking required in subsection (a)(1), the Secretary shall consider the following:“(1) The scope and anticipated number of qualified individuals with a disability who—“(A) may need to be seated with a companion to receive assistance during a flight; or “(B) should be afforded bulkhead seats or other seating considerations. “(2) The types of disabilities that may need seating accommodations. “(3) Whether such qualified individuals with a disability are unable to obtain, or have difficulty obtaining, appropriate seating accommodations. “(4) The scope and anticipated number of individuals assisting a qualified individual with a disability who should be afforded an adjoining seat pursuant to section 382.81 of title 14, Code of Federal Regulations. “(5) Any notification given to qualified individuals with a disability regarding available seating accommodations. “(6) Any method that is adequate to identify fraudulent claims for seating accommodations. “(7) Any other information determined appropriate by the Secretary. “(c) Known Service Animal Travel Pilot Program.—“(1) In general.—The Secretary shall establish a pilot program to allow approved program participants as known service animals for purposes of exemption from the documentation requirements under part 382 of title 14, Code of Federal Regulations, with respect to air travel with a service animal. “(2) Requirements.—The pilot program established under paragraph (1) shall—“(A) be optional for a service animal accompanying a qualified individual with a disability; “(B) provide for assistance for applicants, including over-the-phone assistance, throughout the application process for the program; and “(C) with respect to any web-based components of the pilot program, meet or exceed the standards described in section 508 of the Rehabilitation Act of 1973 ([29 U.S.C. 794d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section794d&num=0&edition=prelim)) and the regulations implementing that Act as set forth in part 1194 of title 36, Code of Federal Regulations (or any successor regulations). “(3) Consultation.—In establishing the pilot program under paragraph (1), the Secretary shall consult with—“(A) disability organizations, including advocacy and nonprofit organizations that represent or provide services to individuals with disabilities; “(B) air carriers and foreign air carriers; “(C) accredited service animal training programs and authorized registrars, such as the International Guide Dog Federation, Assistance Dogs International, and other similar organizations and foreign and domestic governmental registrars of service animals; “(D) other relevant departments or agencies of the Federal Government; and “(E) other entities determined to be appropriate by the Secretary. “(4) Eligibility.—To be eligible to participate in the pilot program under this subsection, an individual shall—“(A) be a qualified individual with a disability; “(B) require the assistance of a service animal because of a disability; and “(C) submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. “(5) Clarification.—The Secretary may award a grant or enter into a contract or cooperative agreement in order to carry out this subsection. “(6) Nominal fee.—The Secretary may require an applicant to pay a nominal fee, not to exceed $25, to participate in the pilot program. “(7) Reports to congress.—Not later than 1 year after the establishment of the pilot program under this subsection, and annually thereafter until the date described in paragraph (8), the Secretary shall submit to the appropriate committees of Congress [Committee on Commerce, Science, and Transportation of the Senate and Committee on Transportation and Infrastructure of the House of Representatives] and make publicly available report on the progress of the pilot program. “(8) Sunset.—The pilot program shall terminate on the date that is 5 years after the date of enactment of this Act. “(d) Accredited Service Animal Training Programs and Authorized Registrars.—Not later than 6 months after the date of enactment of this Act, the Secretary shall publish and maintain, on the website of the Department of Transportation, a list of—“(1) accredited programs that train service animals; and “(2) authorized registrars that evaluate service animals. “(e) Report to Congress on Service Animal Requests.—Not later than 1 year after the date of enactment of this Act, and annually thereafter, the Secretary shall submit to the appropriate committees of Congress a report on requests for air travel with service animals, including—“(1) during the reporting period, how many requests to board an aircraft with a service animal were made in total, and how many requests were made by qualified individuals with disabilities; and “(2) the number and percentage of such requests, categorized by type of request, that were reported by air carriers or foreign air carriers as—“(A) granted; “(B) denied but not fraudulent; or “(C) denied as fraudulent. “(f) Training.—“(1) In general.—Not later than 180 days after the date of enactment of this section [May 16, 2024], the Secretary shall, in consultation with the Air Carrier Access Act Advisory Committee, issue guidance regarding improvements to training for airline personnel (including contractors) in recognizing when a qualified individual with a disability is traveling with a service animal. “(2) Requirements.—The guidance issued under paragraph (1) shall—“(A) take into account respectful engagement with and assistance for individuals with a wide range of visible and nonvisible disabilities; “(B) provide information on—“(i) service animal behavior and whether the service animal is appropriately harnessed, leashed, or otherwise tethered; and “(ii) the various types of service animals, such as guide dogs, hearing or signal dogs, psychiatric service dogs, sensory or social signal dogs, and seizure response dogs; and “(C) outline the rights and responsibilities of the handler of the service animal. “(g) Definitions.—In this section:“(1) Air carrier.—The term ‘air carrier’ has the meaning given that term in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code. “(2) Foreign air carrier.—The term ‘foreign air carrier’ has the meaning given that term in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code. “(3) Qualified individual with a disability.—The term ‘qualified individual with a disability’ has the meaning given that term in section 382.3 of title 14, Code of Federal Regulations. “(4) Service animal.—The term ‘service animal’ has the meaning given that term in section 382.3 of title 14, Code of Federal Regulations.”
+
+#### Equal Accessibility to Passenger Portals
+Pub. L. 118–63, title V, § 547, May 16, 2024, 138 Stat. 1209, provided that: “(a) Applications and Information Communication Technologies.—Not later than 2 years after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall, in consultation with the United States Architectural and Transportation Barriers Compliance Board, issue regulations setting forth minimum standards to ensure that individuals with disabilities are able to access customer-focused kiosks, software applications, and websites of air carriers, foreign air carriers, and airports, in a manner that is equally as effective, and has a substantially equivalent ease of use, as for individuals without disabilities. “(b) Consistency With Guidelines.—The standards set forth under subsection (a) shall be consistent with the standards contained in the Web Content Accessibility Guidelines 2.1 Level AA of the Web Accessibility Initiative of the World Wide Web Consortium or any subsequent version of such Guidelines. “(c) Review.—“(1) Air carrier access act advisory committee review.—The Air Carrier Access Act Advisory Committee shall periodically review, and make appropriate recommendations regarding, the accessibility of websites, kiosks, and information communication technology of air carriers, foreign air carriers, and airports, and make such recommendations publicly available. “(2) DOT review.—Not later than 5 years after issuing regulations under subsection (a), and every 5 years thereafter, the Secretary shall—“(A) review the recommendations of the Air Carrier Access Act Advisory Committee regarding the regulations issued under this subsection; and “(B) update such regulations as necessary.”
+
+#### Aircraft Access Standards
+Pub. L. 118–63, title V, § 548, May 16, 2024, 138 Stat. 1210, provided that: “(a) Aircraft Access Standards.—“(1) Standards.—“(A) Advance notice of proposed rulemaking.—Not later than 1 year after the date of enactment of this Act [May 16, 2024], the Secretary [of Transportation] shall issue an advanced notice of proposed rulemaking regarding standards to ensure that the aircraft boarding and deplaning process is accessible, in terms of design for, transportation of, and communication with, individuals with disabilities, including individuals who use wheelchairs. “(B) Notice of proposed rulemaking.—Not later than 1 year after the date on which the advanced notice of proposed rulemaking under subparagraph (A) is completed, the Secretary shall issue a notice of proposed rulemaking regarding standards addressed in subparagraph (A). “(C) Final rule.—Not later than 1 year after the date on which the notice of proposed rulemaking under subparagraph (B) is completed, the Secretary shall issue a final rule. “(2) Covered airport, equipment, and features.—The standards prescribed under paragraph (1)(A) shall address, at a minimum—“(A) boarding and deplaning equipment; “(B) improved procedures to ensure the priority cabin stowage for manual assistive devices pursuant to section 382.67 of title 14, Code of Federal Regulations; and “(C) improved cargo hold storage to prevent damage to assistive devices. “(3) Consultation.—For purposes of the rulemaking under this subsection, the Secretary shall consult with the Access Board and any other relevant department or agency to determine appropriate accessibility standards. “(b) In-Flight Entertainment Rulemaking.—Not later than 1 year after the date of the enactment of this Act, the Secretary shall issue a notice of proposed rulemaking in accordance with the November 22, 2016, resolution of the Department of Transportation ACCESS Committee and the consensus recommendation set forth in the Term Sheet Reflecting Agreement of the Access [probably should be “ACCESS”] Committee Regarding In-Flight Entertainment. “(c) Negotiated Rulemaking on In-Cabin Wheelchair Restraint Systems and Enplaning and Deplaning Standards.—“(1) Timing.—“(A) In general.—Not later than 1 year after completion of the report required by section 544(e)(2) [probably should be “section 544(e)(3)” of Pub. L. 118–63, set out above], and if such report finds economic and financial feasibility of air carriers and foreign air carriers implementing seating arrangements that accommodate individuals with disabilities using wheelchairs (including power wheelchairs, manual wheelchairs, and scooters) in the main cabin during flight, the Secretary shall conduct a negotiated rulemaking on new type certificated aircraft standards for seating arrangements that accommodate such individuals in the main cabin during flight or an accessible route to a minimum of 2 aircraft passenger seats for passengers to access from personal assistive devices of such individuals. “(B) Requirement.—The negotiated rulemaking under subparagraph (A) shall include participation of representatives of—“(i) air carriers; “(ii) aircraft manufacturers; “(iii) national disability organizations; “(iv) aviation safety experts; and “(v) mobility aid manufacturers. “(2) Notice of proposed rulemaking.—Not later than 1 year after the completion of the negotiated rulemaking required under paragraph (1), the Secretary shall issue a notice of proposed rulemaking regarding the standards described in paragraph (1). “(3) Final rule.—Not later than 1 year after the date on which the notice of proposed rulemaking under paragraph (2) is completed, the Secretary shall issue a final rule regarding the standards described in paragraph (1). “(4) Considerations.—In the negotiated rulemaking and rulemaking required under this subsection, the Secretary shall consider—“(A) a reasonable period for the design, certification, and construction of aircraft that meet the requirements; “(B) the safety of all persons on-board the aircraft, including necessary wheelchair standards and wheelchair compliance with FAA [Federal Aviation Administration] crashworthiness and safety performance criteria; and “(C) the costs of design, installation, equipage, and aircraft capacity impacts, including partial fleet equipage and fare impacts. “(d) Visual and Tactilely Accessible Announcements.—The Advisory Committee established under section 439 of the FAA Reauthorization Act of 2018 [Pub. L. 115–254] ([49 U.S.C. 41705](./chapter-417-operations-of-carriers.md#section-41705) note) shall examine technical solutions and the feasibility of visually and tactilely accessible announcements on-board aircraft. “(e) Airport Facilities.—Not later than 2 years after the date of enactment of this Act, the Secretary shall, in direct consultation with the Access Board, prescribe regulations setting forth minimum standards under [section 41705 of title 49](./chapter-417-operations-of-carriers.md#section-41705), United States Code, that ensure all gates (including counters), ticketing areas, and customer service desks covered under such section at airports are accessible to and usable by all individuals with disabilities, including through the provision of visually and tactilely accessible announcements and full and equal access to aural communications. “(f) Definitions.—In this section:“(1) Access board.—The term ‘Access Board’ means the Architectural and Transportation Barriers Compliance Board. “(2) Air carrier.—The term ‘air carrier’ has the meaning given such term in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code. “(3) Individual with a disability.—The term ‘individual with a disability’ has the meaning given such term in section 382.3 of title 14, Code of Federal Regulations. “(4) Foreign air carrier.—The term ‘foreign air carrier’ has the meaning given such term in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code.”
+
+#### On-Board Wheelchairs in Aircraft Cabin
+Pub. L. 118–63, title V, § 551, May 16, 2024, 138 Stat. 1212, provided that: “(a) In General.—If an individual informs an air carrier or foreign air carrier at the time of booking a ticket for air transportation on a covered aircraft that the individual requires the use of any wheelchair, the air carrier or foreign air carrier shall provide information regarding the provision and use of on-board wheelchairs, including the rights and responsibilities of the air carrier and passenger as such rights and responsibilities relate to the provision and use of on-board wheelchairs. “(b) Availability of Information.—An air carrier or foreign air carrier that operates a covered aircraft shall provide on a publicly available website of the carrier information regarding the rights and responsibilities of both passengers on such aircraft and the air carrier or foreign air carrier relating to on-board wheelchairs, including—“(1) that an air carrier or foreign air carrier is required to equip aircraft that have more than 60 passenger seats and that have an accessible lavatory (whether or not having such a lavatory is required by section 382.63 of title 14, Code of Federal Regulations) with an on-board wheelchair, unless an exception described in such section 382.65 [probably means section 382.65 of such title] applies; “(2) that a qualified individual with a disability (as defined in section 382.3 of title 14, Code of Federal Regulations (as in effect on date of enactment of this Act [May 16, 2024])) may request an on-board wheelchair on aircraft with more than 60 passenger seats even if the lavatory is not accessible and that the basis of such request must be that the individual can use an inaccessible lavatory but cannot reach it from a seat without using an on-board wheelchair; “(3) that the air carrier or foreign air carrier may require the qualified individual with a disability to provide the advance notice specified in section 382.27 of title 14, Code of Federal Regulations, in order for the individual to be provided with the on-board wheelchair; and “(4) if the air carrier or foreign air carrier requires the advance notice described in paragraph (3), information on how such a qualified individual with a disability can make such a request. “(c) Definitions.—In this section:“(1) Applicability of terms.—The definitions contained in [section 40102 of title 49](./chapter-401-general-provisions.md#section-40102), United States Code, apply to this section. “(2) Covered aircraft.—The term ‘covered aircraft’ means an aircraft that is required to be equipped with on-board wheelchairs in accordance with section 382.65 of title 14, Code of Federal Regulations.”
+
+#### Definition
+The term “covered air carrier” is not defined for this section. However, such term was defined for section 434 of Pub. L. 115–254, prior to its transfer to this section, by section 401 of Pub. L. 115–254, which is set out as a Definitions of Terms in Pub. L. 115–254 note under [section 40101 of this title](./chapter-401-general-provisions.md#section-40101).
+
+
+<a id="section-41729"></a>
+## § 41729. COVID–19 vaccination status
+**(a) In General.—** An air carrier (as such term is defined in section 40102) may not deny service to any individual solely based on the vaccination status of the individual with respect to COVID–19.
+
+**(b) Rule of Construction.—** Nothing in this section shall be construed to apply to the regulation of intrastate travel, transportation, or movement, including the intrastate transportation of passengers.
+
+### Statutory Notes
+
+#### Codification
+Section 1107(a) of Pub. L. 118–63, which directed the addition of this section at end of this chapter, was executed by adding this section at the end of subchapter I of this chapter to reflect the probable intent of Congress.
+
+#### Rule of Construction
+Pub. L. 118–63, title XI, § 1107(c), May 16, 2024, 138 Stat. 1417, provided that: “Nothing in this section [enacting this section], or the amendment made by this section, shall be construed to permit or otherwise authorize an executive agency to enact or otherwise impose a COVID–19 vaccine mandate.”
+
+
 <a id="section-41731"></a>
 ## § 41731. Definitions
 **(a) General.—** In this subchapter—
@@ -1261,13 +1440,19 @@ Final regulations, referred to in subsecs. (b) and (c), were issued Dec. 29, 201
 
   (B) had an average of 10 enplanements per service day or more, as determined by the Secretary, during the most recent fiscal year beginning after September 30, 2012;
 
-  (C) had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary; and
+  (C) had an average subsidy per passenger, as determined by the Secretary—
+
+    (i) of less than $1,000 during the most recent fiscal year beginning before October 1, 2026, regardless of driving miles to the nearest large or medium hub airport;
+
+    (ii) of less than $850 during the most recent fiscal year beginning after September 30, 2026, regardless of driving miles to the nearest medium or large hub airport; and
+
+    (iii) of less than $650 during the most recent fiscal year for locations that are less than 175 miles from the nearest large or medium hub airport; and
 
   (D) is a community that, at any time during the period between September 30, 2010, and September 30, 2011, inclusive—
 
     (i) received essential air service for which compensation was provided to an air carrier under this subchapter; or
 
-    (ii) received a 90-day notice of intent to terminate essential air service and the Secretary required the air carrier to continue to provide such service to the community.
+    (ii) received a 140-day notice of intent to terminate essential air service and the Secretary required the air carrier to continue to provide such service to the community.
 
 (2) “enhanced essential air service” means scheduled air transportation to an eligible place of a higher level or quality than basic essential air service described in [section 41732 of this title](./chapter-417-operations-of-carriers.md#section-41732).
 
@@ -1277,7 +1462,21 @@ Final regulations, referred to in subsecs. (b) and (c), were issued Dec. 29, 201
 
 **(d) Exceptions for Locations More Than 175 Driving Miles From the Nearest Large or Medium Hub Airport.—** Subsection (a)(1)(B) shall not apply with respect to locations that are more than 175 driving miles from the nearest large or medium hub airport.
 
-**(e) Waivers.—** For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, on an annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary’s satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements.
+**(e) Waivers.—**
+
+(1) **In general.—** — The Secretary may waive, on an annual basis, subsections (a)(1)(B) and (a)(1)(C)(iii) with respect to an eligible place if such place demonstrates to the Secretary’s satisfaction that the reason the eligibility requirements of such subsections are not met is due to a temporary decline in demand.
+
+(2) **Limitation.—** — Beginning with fiscal year 2027, the Secretary may not provide a waiver of subsection (a)(1)(B) to any location—
+
+  (A) in more than 2 consecutive fiscal years; or
+
+  (B) in more than 5 fiscal years within 25 consecutive years.
+
+(3) **Limitation.—** — Beginning in fiscal year 2027, the Secretary may not provide a waiver of subsection (a)(1)(C)(iii) to any location—
+
+  (A) in more than 2 consecutive fiscal years; or
+
+  (B) in more than 5 fiscal years within 25 consecutive years.
 
 **(f) Definition.—** For purposes of subsection (a)(1)(B), the term “enplanements” means the number of passengers enplaning, at an eligible place, on flights operated by the subsidized essential air service carrier.
 
@@ -1307,6 +1506,12 @@ Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a)(1)(A
 The date of the enactment of the FAA Extension, Safety, and Security Act of 2016, referred to in subsec. (a)(1)(A)(ii), is the date of enactment of Pub. L. 114–190, which was approved July 15, 2016.
 
 #### Amendments
+2024—Subsec. (a)(1)(C). Pub. L. 118–63, § 561(a)(1), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “had an average subsidy per passenger of less than $1,000 during the most recent fiscal year, as determined by the Secretary; and”.
+
+Subsec. (a)(1)(D)(ii). Pub. L. 118–63, § 561(a)(2), substituted “140-day” for “90-day”.
+
+Subsec. (e). Pub. L. 118–63, § 561(a)(3), amended subsec. (e) generally. Prior to amendment, text read as follows: “For fiscal year 2013 and each fiscal year thereafter, the Secretary may waive, on an annual basis, subsection (a)(1)(B) with respect to a location if the location demonstrates to the Secretary’s satisfaction that the reason the location averages fewer than 10 enplanements per day is due to a temporary decline in enplanements.”
+
 2018—Subsec. (a)(1)(A)(ii). Pub. L. 115–254 substituted “FAA Extension, Safety, and Security Act of 2016 (Public Law 114–190),” for “Wendell H. Ford Aviation Investment and Reform Act for the 21st Century,”.
 
 2012—Subsec. (a)(1)(B). Pub. L. 112–95, § 421(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is located not less than 90 miles from the nearest medium or large hub airport; and”.
@@ -1335,11 +1540,14 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 #### Effective Date of 2000 Amendment
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
 
+#### Response Time for Applications To Provide Essential Air Service
+Pub. L. 118–63, title V, § 568, May 16, 2024, 138 Stat. 1219, provided that: “The Secretary [of Transportation] shall take such actions as are necessary to respond with an approval or denial of any application filed by an applicant to provide essential air service under subchapter II of chapter 417 of title 49, United States Code, to the greatest extent practicable not later than 6 months after receiving such application. The Assistant General Counsel for International and Aviation Economic Law shall ensure the timely review of all orders proposed by the Essential Air Service Office, and such timeliness shall be analyzed annually by the General Counsel of the Department of Transportation.”
+
 #### Code-Sharing Pilot Program
 Pub. L. 108–176, title IV, § 406, Dec. 12, 2003, 117 Stat. 2545, provided that: “(a) In General.—The Secretary of Transportation shall establish a pilot program under which the Secretary may require air carriers providing service with compensation under subchapter II of chapter 417 of title 49, United States Code, and major air carriers (as defined in section 41716(a)(2) of such title) serving large hub airports (as defined in section 40102 of such title) to participate in multiple code-share arrangements consistent with normal industry practice whenever and wherever the Secretary determines that such multiple code-sharing arrangements would improve air transportation services. “(b) Limitation.—The Secretary may not require air carriers to participate in the pilot program under this section for more than 10 communities receiving service under subchapter II of chapter 417 of title 49, United States Code.”
 
 #### Measurement of Highway Miles for Purposes of Determining Eligibility of Essential Air Service Subsidies
-Pub. L. 108–176, title IV, § 409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, § 4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, § 5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, § 5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, § 5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, § 205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, § 5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, § 431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, § 102(g), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, § 102(f), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, § 1102(g), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, § 102(g), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, § 102(f), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, § 457, Oct. 5, 2018, 132 Stat. 3350, provided that: “(a) Request for Secretarial Review.—An eligible place (as defined in [section 41731 of title 49](./chapter-417-operations-of-carriers.md#section-41731), United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act [Dec. 12, 2003], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 [Pub. L. 106–69] ([49 U.S.C. 41731](./chapter-417-operations-of-carriers.md#section-41731) note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century [Pub. L. 106–181] ([49 U.S.C. 41731](./chapter-417-operations-of-carriers.md#section-41731) note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action. “(b) Determination of Mileage.—In reviewing an action under subsection (a), the highway mileage between an eligible place and the nearest medium hub airport or large hub airport is the highway mileage of the most commonly used route between the place and the medium hub airport or large hub airport. In identifying such route, the Secretary shall identify the most commonly used route for a community by—“(1) consulting with the Governor of a State or the Governor’s designee; and “(2) considering the certification of the Governor of a State or the Governor’s designee as to the most commonly used route. “(c) Eligibility Determination.—Not later than 60 days after receiving a request under subsection (a), the Secretary shall—“(1) determine whether the eligible place would have been subject to an elimination of compensation eligibility for essential air service, or termination of the eligibility of such place for essential air service, under the provisions of law referred to in subsection (a) based on the determination of the highway mileage of such place from the nearest medium hub airport or large hub airport under subsection (b); and “(2) issue a final order with respect to the eligibility of such place for essential air service compensation under subchapter II of chapter 417 of title 49, United States Code. “(d) Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on September 30, 2023.”
+Pub. L. 108–176, title IV, § 409, Dec. 12, 2003, 117 Stat. 2547, as amended by Pub. L. 110–190, § 4(d)(1), Feb. 28, 2008, 122 Stat. 644; Pub. L. 110–330, § 5(k), Sept. 30, 2008, 122 Stat. 3719; Pub. L. 111–69, § 5(k), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–249, § 5(k), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 112–30, title II, § 205(k), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, § 5(k), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title IV, § 431, Feb. 14, 2012, 126 Stat. 100; Pub. L. 114–55, title I, § 102(g), Sept. 30, 2015, 129 Stat. 523; Pub. L. 114–141, title I, § 102(f), Mar. 30, 2016, 130 Stat. 323; Pub. L. 114–190, title I, § 1102(g), July 15, 2016, 130 Stat. 617; Pub. L. 115–63, title I, § 102(g), Sept. 29, 2017, 131 Stat. 1169; Pub. L. 115–141, div. M, title I, § 102(f), Mar. 23, 2018, 132 Stat. 1046; Pub. L. 115–254, div. B, title IV, § 457, Oct. 5, 2018, 132 Stat. 3350; Pub. L. 118–15, div. B, title II, § 2202(m), Sept. 30, 2023, 137 Stat. 83; Pub. L. 118–34, title I, § 102(m), Dec. 26, 2023, 137 Stat. 1114; Pub. L. 118–41, title I, § 102(m), Mar. 8, 2024, 138 Stat. 22, provided that: “(a) Request for Secretarial Review.—An eligible place (as defined in [section 41731 of title 49](./chapter-417-operations-of-carriers.md#section-41731), United States Code) with respect to which the Secretary has, in the 2-year period ending on the date of enactment of this Act [Dec. 12, 2003], eliminated (or tentatively eliminated) compensation for essential air service to such place, or terminated (or tentatively terminated) the compensation eligibility of such place for essential air service, under section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 [Pub. L. 106–69] ([former] [49 U.S.C. 41731](./chapter-417-operations-of-carriers.md#section-41731) note), section 205 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century [Pub. L. 106–181] ([49 U.S.C. 41731](./chapter-417-operations-of-carriers.md#section-41731) note), or any prior law of similar effect based on the highway mileage of such place from the nearest hub airport (as defined in section 40102 of such title), may request the Secretary to review such action. “(b) Determination of Mileage.—In reviewing an action under subsection (a), the highway mileage between an eligible place and the nearest medium hub airport or large hub airport is the highway mileage of the most commonly used route between the place and the medium hub airport or large hub airport. In identifying such route, the Secretary shall identify the most commonly used route for a community by—“(1) consulting with the Governor of a State or the Governor’s designee; and “(2) considering the certification of the Governor of a State or the Governor’s designee as to the most commonly used route. “(c) Eligibility Determination.—Not later than 60 days after receiving a request under subsection (a), the Secretary shall—“(1) determine whether the eligible place would have been subject to an elimination of compensation eligibility for essential air service, or termination of the eligibility of such place for essential air service, under the provisions of law referred to in subsection (a) based on the determination of the highway mileage of such place from the nearest medium hub airport or large hub airport under subsection (b); and “(2) issue a final order with respect to the eligibility of such place for essential air service compensation under subchapter II of chapter 417 of title 49, United States Code. “(d) Limitation on Period of Final Order.—A final order issued under subsection (c) shall terminate on May 10, 2024.”
 
 [Pub. L. 110–190, § 4(d)(2), Feb. 28, 2008, 122 Stat. 644, provided that: “The amendment made by paragraph (1) [amending section 409(d) of Pub. L. 108–176, set out above] shall take effect on September 29, 2007, and shall apply with respect to any final order issued under section 409(c) of such Act [section 409(c) of Pub. L. 108–176, set out above] that was in effect on such date.” ]
 
@@ -1349,21 +1557,11 @@ Pub. L. 106–181, title II, § 207, Apr. 5, 2000, 114 Stat. 94, provided that: 
 #### Restrictions on Essential Air Service Subsidies
 Pub. L. 106–181, title II, § 205, Apr. 5, 2000, 114 Stat. 94, provided that: “The Secretary [of Transportation] may provide assistance under subchapter II of chapter 417 of title 49, United States Code, with respect to a place that is located within 70 highway miles of a hub airport (as defined by section 41731 of such title) if the most commonly used highway route between the place and the hub airport exceeds 70 miles.”
 
-Pub. L. 106–69, title III, § 332, Oct. 9, 1999, 113 Stat. 1022, provided that: “Hereafter, notwithstanding [49 U.S.C. 41742](./chapter-417-operations-of-carriers.md#section-41742), no essential air service subsidies shall be provided to communities in the 48 contiguous States that are located fewer than 70 highway miles from the nearest large or medium hub airport, or that require a rate of subsidy per passenger in excess of $200 unless such point is greater than 210 miles from the nearest large or medium hub airport.”
+Pub. L. 106–69, title III, § 332, Oct. 9, 1999, 113 Stat. 1022, which did not provide essential air service subsidies to communities in the 48 contiguous States that were located fewer than 70 highway miles from the nearest large or medium hub airport or required a rate of subsidy per passenger in excess of $200 unless such point was greater than 210 miles from the nearest large or medium hub airport, was repealed by Pub. L. 118–63, title V, § 561(a)(4)(A), May 16, 2024, 138 Stat. 1214.
 
-[Pub. L. 112–95, title IV, § 426(c), (d), Feb. 14, 2012, 126 Stat. 99, as amended by Pub. L. 115–254, div. B, title IV, § 458, title V, § 539(s)(2), Oct. 5, 2018, 132 Stat. 3350, 3372, provided that:
+[Pub. L. 112–95, title IV, § 426(c), (d), Feb. 14, 2012, 126 Stat. 99, as amended by Pub. L. 115–254, div. B, title IV, § 458, title V, § 539(s)(2), Oct. 5, 2018, 132 Stat. 3350, 3372, which provided that the Secretary of Transportation could waive the subsidy-per-passenger cap established by section 332 of Pub. L. 106–69, and the Secretary would waive application of the subsidy-per-passenger cap if the Secretary found that the community’s subsidy-per-passenger for a fiscal year was lower than the subsidy-per-passenger for any of the 3 previous fiscal years, was repealed by Pub. L. 118–63, title V, § 561(a)(4)(B), May 16, 2024, 138 Stat. 1214.]
 
-[“(c) Subsidy Cap.—Subject to the availability of funds, the Secretary of Transportation may waive, on a case-by-case basis, the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 (Public Law 106–69; 113 Stat. 1022) [set out above]. A waiver issued under this subsection shall remain in effect for a limited period of time, as determined by the Secretary.
-
-[“(d) Reduction in Subsidy-per-passenger.—
-
-[“(1) In general.—The Secretary shall waive application of the subsidy-per-passenger cap described under subsection (c) if the Secretary finds that the community’s subsidy-per-passenger for a fiscal year is lower than the subsidy-per-passenger for any of the 3 previous fiscal years.
-
-[“(2) Exception.—The Secretary shall waive application of the subsidy-per-passenger cap if the subsidy-per-passenger for a fiscal year is less than 10 percent higher than the highest subsidy-per-passenger from any of the 3 previous fiscal years. The Secretary may only waive application of the subsidy-per-passenger cap under this paragraph once per community.
-
-[“(3) Rule of construction.—Nothing in this subsection shall be construed to limit the Secretary’s ability under subsection (c) to waive application of the subsidy-per-passenger cap.”]
-
-Provisions similar to those in section 332 of Pub. L. 106–69, set out above, were contained in the following prior appropriation acts:
+Provisions similar to those in section 332 of Pub. L. 106–69, formerly set out above, were contained in the following prior appropriation acts:
 
 Pub. L. 105–277, div. A, § 101(g) [title III, § 334], Oct. 21, 1998, 112 Stat. 2681–439, 2681–471.
 
@@ -1374,9 +1572,9 @@ Pub. L. 105–66, title III, § 336, Oct. 27, 1997, 111 Stat. 1447.
 ## § 41732. Basic essential air service
 **(a) General.—** Basic essential air service provided under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733) is scheduled air transportation of passengers and cargo—
 
-(1) to a hub airport that has convenient connecting or single-plane air service to a substantial number of destinations beyond that airport; or
+(1) to a medium or large hub airport less than 650 miles from an eligible place (unless such airport or eligible place are located in a noncontiguous State); or
 
-(2) to a small hub or nonhub airport, when in Alaska or when the nearest hub airport is more than 400 miles from an eligible place.
+(2) to a small hub or nonhub airport, when in Alaska or when the nearest medium or large hub airport is more than 400 miles from an eligible place.
 
 **(b) Minimum Requirements.—** Basic essential air service shall include at least the following:
 
@@ -1388,21 +1586,7 @@ Pub. L. 105–66, title III, § 336, Oct. 27, 1997, 111 Stat. 1447.
 
 (2) flights at reasonable times considering the needs of passengers with connecting flights at the airport and at prices that are not excessive compared to the generally prevailing prices of other air carriers for like service between similar places.
 
-(3) for a place not in Alaska, service provided in an aircraft with an effective capacity of at least 15 passengers if the average daily boardings at the place in any calendar year from 1976-1986 were more than 11 passengers unless—
-
-  (A) that level-of-service requirement would require paying compensation in a fiscal year under section 41733(d) or 41734(d) or (e) of this title for the place when compensation otherwise would not have been paid for that place in that year; or
-
-  (B) the affected community agrees with the Secretary in writing to the use of smaller aircraft to provide service to the place.
-
-(4) service accommodating the estimated passenger and property traffic at an average load factor, for each class of traffic considering seasonal demands for the service, of not more than—
-
-  (A) 50 percent; or
-
-  (B) 60 percent when service is provided by aircraft with more than 14 passenger seats.
-
-(5) service provided in aircraft with at least 2 engines and using 2 pilots, unless scheduled air transportation has not been provided to the place in aircraft with at least 2 engines and using 2 pilots for at least 60 consecutive operating days at any time since October 31, 1978.
-
-(6) service provided by pressurized aircraft when the service is provided by aircraft that regularly fly above 8,000 feet in altitude.
+(3) service provided in aircraft with at least 2 engines and using 2 pilots, unless scheduled air transportation has not been provided to the place in aircraft with at least 2 engines and using 2 pilots for at least 60 consecutive operating days at any time since October 31, 1978.
 
 **(c) Waivers.—** Notwithstanding section 41733(e), upon request by an eligible place, the Secretary may waive, in whole or in part, subsections (a) and (b) of this section or subsections (a) through (c) of section 41734. A waiver issued under this subsection shall remain in effect for a limited period of time, as determined by the Secretary.
 
@@ -1419,7 +1603,30 @@ In subsection (a), before clause (1), the words “provided under [section 41733
 In subsection (b), before clause (1), the words “Basic essential air service” are substituted for “Such transportation” for clarity and consistency in the revised title. In clause (1)(B), the word “1976” is substituted for “calendar year 1976” to eliminate unnecessary words. The words “appropriate State authority of Alaska” are substituted for “State agency of the State of Alaska” for clarity and consistency with the source provisions restated in section 41734(a) of the revised title. The words “agree to a different level of service” are substituted for “otherwise specified under an agreement” for clarity. In clause (2), the word “prices” is substituted for “rates, fares, and charges” and “fares” because of the definition of “price” in section 40102(a) of the revised title. In clause (3), before subclause (A), the word “boardings” is substituted for “enplanements” for clarity and consistency in the revised title. The words “from 1976-1986” are substituted for “beginning after December 31, 1975, and ending on or before December 31, 1986” to eliminate unnecessary words. In subclause (B), the words “affected community” are substituted for “community concerned” for consistency with the source provisions restated in clause (1)(B) of this section. In clause (5), the words “for at least 60 consecutive operating days” are substituted for “on each of 60 consecutive operating days” for clarity.
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–63, § 561(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “to a hub airport that has convenient connecting or single-plane air service to a substantial number of destinations beyond that airport; or”.
+
+Subsec. (a)(2). Pub. L. 118–63, § 561(c)(1), inserted “medium or large” after “nearest”.
+
+Subsec. (b)(3) to (6). Pub. L. 118–63, § 561(c)(2), redesignated par. (5) as (3) and struck out former pars. (3), (4), and (6) which read as follows:
+
+“(3) for a place not in Alaska, service provided in an aircraft with an effective capacity of at least 15 passengers if the average daily boardings at the place in any calendar year from 1976-1986 were more than 11 passengers unless—
+
+“(A) that level-of-service requirement would require paying compensation in a fiscal year under section 41733(d) or 41734(d) or (e) of this title for the place when compensation otherwise would not have been paid for that place in that year; or
+
+“(B) the affected community agrees with the Secretary in writing to the use of smaller aircraft to provide service to the place.
+
+“(4) service accommodating the estimated passenger and property traffic at an average load factor, for each class of traffic considering seasonal demands for the service, of not more than—
+
+“(A) 50 percent; or
+
+“(B) 60 percent when service is provided by aircraft with more than 14 passenger seats.
+
+“(6) service provided by pressurized aircraft when the service is provided by aircraft that regularly fly above 8,000 feet in altitude.”
+
 2018—Subsec. (c). Pub. L. 115–254 added subsec. (c).
+
+#### Restriction on Length of Routes
+Pub. L. 118–63, title V, § 561(b)(2), (3), May 16, 2024, 138 Stat. 1215, provided that: “(2) Exception.—The amendment made by paragraph (1) [amending this section] shall not apply to an eligible place that is served by an air carrier selected to receive essential air service compensation under subchapter II of chapter 417 of title 49, United States Code, if—“(A) such service is in effect upon the date of enactment of this Act [May 16, 2024]; and “(B) such service is provided by the same air carrier that provided service on the date of enactment of this Act. “(3) Sunset.—Paragraph (2) shall cease to have effect on October 1, 2028.”
 
 
 <a id="section-41733"></a>
@@ -1430,7 +1637,7 @@ In subsection (b), before clause (1), the words “Basic essential air service�
 
 (1) The Secretary shall decide on the level of basic essential air service for each eligible place for which a decision was not made before October 1, 1988, establishing the level of essential air transportation, when the Secretary receives notice that service to that place will be provided by only one air carrier. The Secretary shall make the decision by the last day of the 6-month period beginning on the date the Secretary receives the notice. The Secretary may impose notice requirements necessary to carry out this subsection. Before making a decision, the Secretary shall consider the views of any interested community and the appropriate State authority of the State in which the community is located.
 
-(2) Until the Secretary has made a decision on a level of basic essential air service for an eligible place under this subsection, the Secretary, on petition by an appropriate representative of the place, shall prohibit an air carrier from ending, suspending, or reducing air transportation to that place that appears to deprive the place of basic essential air service.
+(2) Until the Secretary has made a decision on a level of basic essential air service for an eligible place under this subsection, the Secretary, on petition by an appropriate representative of the place, as defined by the Secretary, shall prohibit an air carrier from ending, suspending, or reducing air transportation to that place that appears to deprive the place of basic essential air service.
 
 **(c) Availability of Compensation.—**
 
@@ -1438,15 +1645,15 @@ In subsection (b), before clause (1), the words “Basic essential air service�
 
   (A) the demonstrated reliability of the applicant in providing scheduled air service;
 
-  (B) the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;
+  (B) the contractual, marketing, code-share, or interline arrangements the applicant has made with a larger air carrier serving the hub airport;
 
-  (C) the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;
+  (C) the preferences of the actual and potential users of air transportation at the eligible place, including the views of the elected officials representing the users;
 
-  (D) the preferences of the actual and potential users of air transportation at the eligible place, giving substantial weight to the views of the elected officials representing the users;
+  (D) whether the air carrier has included a plan in its proposal to market its services to the community;
 
-  (E) whether the air carrier has included a plan in its proposal to market its services to the community; and
+  (E) for an eligible place in Alaska, the experience of the applicant in providing, in Alaska, scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title; and
 
-  (F) for an eligible place in Alaska, the experience of the applicant in providing, in Alaska, scheduled air service, or significant patterns of non-scheduled air service under an exemption granted under section 40109(a) and (c)–(h) of this title.
+  (F) the total compensation proposed by the air carrier for providing scheduled air service under this section.
 
 (2) Under guidelines prescribed under [section 41737(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section41737/a&num=0&edition=prelim), the Secretary shall pay the rate of compensation for providing basic essential air service under this section and [section 41734 of this title](./chapter-417-operations-of-carriers.md#section-41734).
 
@@ -1482,7 +1689,27 @@ In subsection (b), before clause (1), the words “Basic essential air service�
 
     (iii) the proposal is consistent with the legal and regulatory requirements of the essential air service program.
 
-**(h) Subsidy Cap Defined.—** In this section, the term “subsidy cap” means the subsidy-per-passenger cap established by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 (Public Law 106–69; 113 Stat. 1022).
+**(h) Subsidy Cap Defined.—** In this section, the term “subsidy cap” means the subsidy-per-passenger cap established under section 41731(a)(1)(C).
+
+**(i) Community Petition for Review.—**
+
+(1) **Petition.—** — An appropriate representative of an eligible place, as defined by the Secretary, may submit to the Secretary a petition expressing no confidence in the air carrier providing basic essential air service under this section and requesting a review by the Secretary. A petition submitted under this subsection shall demonstrate that the air carrier—
+
+  (A) is unwilling or unable to meet the operational specifications outlined in the order issued by the Secretary specifying the terms of basic essential air service to such place;
+
+  (B) is experiencing reliability challenges with the potential to adversely affect air service to such place; or
+
+  (C) is no longer able to provide service to such place at the rate of compensation specified by the Secretary.
+
+(2) **Review.—** — Not later than 2 months after the date on which the Secretary receives a petition under paragraph (1), the Secretary shall review the operational performance of the air carrier providing basic essential air service to such place that submitted such petition and determine whether such air carrier is fully complying with the obligations specified in the order issued by the Secretary specifying the terms of basic essential air service to such place.
+
+(3) **Termination.—** — If based on a review under paragraph (2), the Secretary determines noncompliance by an air carrier with an order specifying the terms for basic essential air service to the community, the Secretary may—
+
+  (A) terminate the order issued to the air carrier; and
+
+  (B) issue a notice pursuant to subsection (c) that an air carrier may apply to provide basic essential air service to such place for compensation under this section and select an applicant pursuant to such subsection.
+
+(4) **Continuation of service.—** — If the Secretary makes a determination under paragraph (3) to terminate an order issued to an air carrier under this section, the Secretary shall ensure continuity in air service to the affected place.
 
 ### Statutory Notes
 
@@ -1509,9 +1736,25 @@ Section 419 of the Federal Aviation Act of 1958, referred to in subsec. (a), is 
 
 The date of enactment of this subsection, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 112–95, which was approved Feb. 14, 2012.
 
-Section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000, referred to in subsec. (h), is section 332 of Pub. L. 106–69, which is set out as a note under [section 41731 of this title](./chapter-417-operations-of-carriers.md#section-41731).
-
 #### Amendments
+2024—Subsec. (b)(2). Pub. L. 118–63, § 565(a)(1), inserted “, as defined by the Secretary” after “appropriate representative of the place”.
+
+Subsec. (c)(1)(B). Pub. L. 118–63, § 561(d)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “the contractual and marketing arrangements the applicant has made with a larger carrier to ensure service beyond the hub airport;”.
+
+Subsec. (c)(1)(C). Pub. L. 118–63, § 561(d)(1)(C), (D), redesignated subpar. (D) as (C) and substituted “including” for “giving substantial weight to”. Former subpar. (C) struck out.
+
+Pub. L. 118–63, § 561(d)(1)(B), struck out subpar. (C) which read as follows: “the interline arrangements that the applicant has made with a larger carrier to allow passengers and cargo of the applicant at the hub airport to be transported by the larger carrier through one reservation, ticket, and baggage check-in;”.
+
+Subsec. (c)(1)(D), (E). Pub. L. 118–63, § 561(d)(1)(C), redesignated subpars. (E) and (F) as (D) and (E), respectively. Former subpar. (D) redesignated (C).
+
+Subsec. (c)(1)(F). Pub. L. 118–63, § 561(d)(1)(E)–(G), added subpar. (F). Former subpar. (F) redesignated (E).
+
+Pub. L. 118–63, § 561(d)(1)(C), redesignated subpar. (F) as (E).
+
+Subsec. (h). Pub. L. 118–63, § 561(d)(2), substituted “under section 41731(a)(1)(C)” for “by section 332 of the Department of Transportation and Related Agencies Appropriations Act, 2000 (Public Law 106–69; 113 Stat. 1022)”.
+
+Subsec. (i). Pub. L. 118–63, § 565(a)(2), added subsec. (i).
+
 2012—Subsec. (c)(1)(E), (F). Pub. L. 112–95, § 423, added subpar. (E) and redesignated former subpar. (E) as (F).
 
 Subsec. (f). Pub. L. 112–95, § 424, added subsec. (f).
@@ -1532,25 +1775,27 @@ Pub. L. 106–181, title II, § 209(c), Apr. 5, 2000, 114 Stat. 95, provided tha
 
 <a id="section-41734"></a>
 ## § 41734. Ending, suspending, and reducing basic essential air service
-**(a) Notice Required.—** An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of basic essential air service established for that place under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733) only after giving the Secretary of Transportation, the appropriate State authority, and the affected communities at least 90 days’ notice before ending, suspending, or reducing that transportation.
+**(a) Notice Required.—** Subject to subsection (d), an air carrier may end, suspend, or reduce air transportation to an eligible place below the level of basic essential air service established for that place under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733) only after giving the Secretary of Transportation, the appropriate State authority, and the affected communities at least 140 days’ notice before ending, suspending, or reducing that transportation.
 
 **(b) Continuation of Service for 30 Days After Notice Period.—** If at the end of the notice period under subsection (a) of this section the Secretary has not found another air carrier to provide basic essential air service to the eligible place, the Secretary shall require the carrier providing notice to continue to provide basic essential air service to the place for an additional 30-day period or until another carrier begins to provide basic essential air service to the place, whichever occurs first.
 
 **(c) Continuation of Service for Additional 30-Day Periods.—** If at the end of the 30-day period under subsection (b) of this section the Secretary decides another air carrier will not provide basic essential air service to the place on a continuing basis, the Secretary shall require the carrier providing service to continue to provide service for additional 30-day periods until another carrier begins providing service on a continuing basis. At the end of each 30-day period, the Secretary shall decide if another carrier will provide service on a continuing basis.
 
-**(d) Continuation of Compensation After Notice Period.—** If an air carrier receiving compensation under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733) for providing basic essential air service to an eligible place is required to continue to provide service to the place under this section after the 90-day notice period under subsection (a) of this section, the Secretary shall provide the carrier with compensation sufficient—
+**(d) Continuation of Compensation After Notice Period.—**
 
-(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
+(1) **In general.—** — If an air carrier receiving compensation under section 41733 for providing basic essential air service to an eligible place is required to continue to provide service to such place under this section after the 140-day notice period under subsection (a), the Secretary—
 
-(2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.
+  (A) shall provide the carrier with compensation sufficient to pay to the carrier the amount required by the then existing contract for performing the basic essential air service that was being provided when the 140-day notice was given under subsection (a);
 
-**(e) Compensation to Air Carriers Originally Providing Service Without Compensation.—** If the Secretary requires an air carrier providing basic essential air service to an eligible place without compensation under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733) to continue providing that service after the 90-day notice period required by subsection (a) of this section, the Secretary shall provide the carrier with compensation after the end of the 90-day notice period that is sufficient—
+  (B) may pay an additional amount that represents a reasonable return on investment; and
 
-(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
+  (C) may pay an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier or provider is required to provide the service continues.
 
-(2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.
+(2) **Authority.—** — The Secretary may incorporate contract termination penalties or conditions on compensation into a contract for an air carrier to provide service to an eligible place that take effect in the event an air carrier provides notice that it is ending, suspending, or reducing basic essential air service.
 
-**(f) Finding Replacement Carriers.—** When the Secretary requires an air carrier to continue to provide basic essential air service to an eligible place, the Secretary shall continue to make every effort to find another carrier to provide at least that basic essential air service to the place on a continuing basis.
+**(e) Compensation to Air Carriers Originally Providing Service Without Compensation.—** If the Secretary requires an air carrier providing basic essential air service to an eligible place without compensation under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733) to continue providing that service after the 140-day notice period required by subsection (a), the Secretary may provide the air carrier with compensation after the end of the 140-day notice period to pay for the fully allocated actual cost to the air carrier of performing the basic essential air service that was being provided when the 140-day notice was given under subsection (a) plus a reasonable return on investment that is at least 5 percent of operating costs.
+
+**(f) Finding Replacement Carriers.—** When the Secretary requires an air carrier to continue to provide basic essential air service to an eligible place, the Secretary shall continue to make every effort to find another air carrier to provide at least that basic essential air service to the place on a continuing basis.
 
 **(g) Transfer of Authority.—** If an air carrier, providing basic essential air service under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733) between an eligible place and an airport at which the Administrator of the Federal Aviation Administration limits the number of instrument flight rule takeoffs and landings of aircraft, provides notice under subsection (a) of this section of an intention to end, suspend, or reduce that service and another carrier is found to provide the service, the Secretary shall require the carrier providing notice to transfer any operational authority the carrier has to land or take off at that airport related to the service to the eligible place to the carrier that will provide the service, if—
 
@@ -1593,6 +1838,18 @@ In subsection (g)(2), the words “the authority to be transferred is being used
 The date of enactment of this subsection, referred to in subsec. (i), is the date of enactment of Pub. L. 108–176, which was approved Dec. 12, 2003.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63, § 561(f)(1), substituted “Subject to subsection (d), an air carrier” for “An air carrier” and “140” for “90”.
+
+Subsec. (d). Pub. L. 118–63, § 561(f)(2), added subsec. (d) and struck out former subsec. (d) which related to continuation of compensation after 90-day notice period.
+
+Subsec. (e). Pub. L. 118–63, § 561(f)(3), substituted “providing that service after the 140-day notice period required by subsection (a), the Secretary may provide the air carrier with compensation after the end of the 140-day notice period to pay for the fully allocated actual cost to the air carrier of performing the basic essential air service that was being provided when the 140-day notice was given under subsection (a) plus a reasonable return on investment that is at least 5 percent of operating costs.” for “providing that service after the 90-day notice period required by subsection (a) of this section, the Secretary shall provide the carrier with compensation after the end of the 90-day notice period that is sufficient—” and pars. (1) and (2) which read as follows:
+
+“(1) to pay for the fully allocated actual cost to the carrier of performing the basic essential air service that was being provided when the 90-day notice was given under subsection (a) of this section plus a reasonable return on investment that is at least 5 percent of operating costs; and
+
+“(2) to provide the carrier an additional return that recognizes the demonstrated additional lost profits from opportunities foregone and the likelihood that those lost profits increase as the period during which the carrier is required to provide the service continues.”
+
+Subsec. (f). Pub. L. 118–63, § 561(f)(4), inserted “air” after “find another”.
+
 2012—Subsec. (d). Pub. L. 112–95, in introductory provisions, substituted “provide the carrier with compensation sufficient—” for “continue to pay that compensation after the last day of that period. The Secretary shall pay the compensation until the Secretary finds another carrier to provide the service to the place or the 90th day after the end of that notice period, whichever is earlier. If, after the 90th day after the end of the 90-day notice period, the Secretary has not found another carrier to provide the service, the carrier required to continue to provide that service shall receive compensation sufficient—”.
 
 2003—Subsec. (i). Pub. L. 108–176 added subsec. (i).
@@ -1615,83 +1872,11 @@ For definitions of the terms “slot” and “high density airport” used in s
 
 
 <a id="section-41735"></a>
-## § 41735. Enhanced essential air service
-**(a) Proposals.—**
-
-(1) A State or local government may submit a proposal to the Secretary of Transportation for enhanced essential air service to an eligible place for which basic essential air service is being provided under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733). The proposal shall—
-
-  (A) specify the level and type of enhanced essential air service the State or local government considers appropriate; and
-
-  (B) include an agreement related to compensation required for the proposed service.
-
-(2) The agreement submitted under paragraph (1)(B) of this subsection shall provide that—
-
-  (A) the State or local government or a person pay 50 percent of the compensation required for the proposed service and the United States Government pay the remaining 50 percent; or
-
-  (B)
-
-    (i) the Government pay 100 percent of the compensation; and
-
-    (ii) if the proposed service is not successful for at least a 2-year period under the criteria prescribed by the Secretary under paragraph (3) of this subsection, the eligible place is not eligible for air service or air transportation for which compensation is paid by the Secretary under this subchapter.
-
-(3) The Secretary shall prescribe by regulation objective criteria for deciding whether enhanced essential air service to an eligible place under this section is successful in terms of—
-
-  (A) increasing passenger usage of the airport facilities at the place; and
-
-  (B) reducing the amount of compensation provided by the Secretary under this subchapter for that service.
-
-**(b) Decisions.—** Not later than 90 days after receiving a proposal under subsection (a) of this section, the Secretary shall—
-
-(1) approve the proposal if the Secretary decides the proposal is reasonable; or
-
-(2) if the Secretary decides the proposal is not reasonable, disapprove the proposal and notify the State or local government of the disapproval and the reasons for the disapproval.
-
-**(c) Compensation Payments.—**
-
-(1) The Secretary shall pay compensation under this section when and in the way the Secretary decides is appropriate. Compensation for enhanced essential air service under this section may be paid only for the costs incurred in providing air service to an eligible place that are in addition to the costs incurred in providing basic essential air service to the place under [section 41733 of this title](./chapter-417-operations-of-carriers.md#section-41733). The Secretary shall continue to pay compensation under this section only as long as—
-
-  (A) the air carrier maintains the level of enhanced essential air service;
-
-  (B) the State or local government or person agreeing to pay compensation under this section continues to pay the compensation; and
-
-  (C) the Secretary decides the compensation is necessary to maintain the service to the place.
-
-(2) The Secretary may require the State or local government or person agreeing to pay compensation under this section to make advance payments or provide other security to ensure that timely payments are made.
-
-**(d) Review.—**
-
-(1) The Secretary shall review periodically the enhanced essential air service provided to each eligible place under this section.
-
-(2) For service for which the Government pays 50 percent of the compensation, based on the review and consultation with the affected community and the State or local government or person paying the remaining 50 percent of the compensation, the Secretary shall make appropriate adjustments in the type and level of service to the place.
-
-(3) For service for which the Government pays 100 percent of the compensation, based on the review and consultation with the State or local government submitting the proposal, the Secretary shall decide whether the service has succeeded for at least a 2-year period under the criteria prescribed under subsection (a)(3) of this section. If unsuccessful, the place is not eligible for air service or air transportation for which compensation is paid by the Secretary under this subchapter.
-
-**(e) Ending, Suspending, and Reducing Air Transportation.—** An air carrier may end, suspend, or reduce air transportation to an eligible place below the level of enhanced essential air service established for that place by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation for that service at least 30 days’ notice before ending, suspending, or reducing the service. This subsection does not relieve the carrier of an obligation under [section 41734 of this title](./chapter-417-operations-of-carriers.md#section-41734).
+## § 41735. Repealed. Pub. L. 118–63, title V, § 561(g), May 16, 2024, 138 Stat. 1216]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 41735(a) | 49 App.:1389(c)(1), (3)(C). | Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(c); added Oct. 24, 1978, Pub. L. 95–504, § 33(a), 92 Stat. 1732; Dec. 8, 1983, Pub. L. 98–213, § 10, 97 Stat. 1461; Oct. 4, 1984, Pub. L. 98–443, § 9(r), 98 Stat. 1708; restated Dec. 30, 1987, Pub. L. 100–223, § 202(a)(1), (2), (b)(1), 101 Stat. 1507, 1512. |
-| 41735(b) | 49 App.:1389(c)(2). |  |
-| 41735(c) | 49 App.:1389(c)(5)–(7). |  |
-| 41735(d) | 49 App.:1389(c)(3)(A), (B). |  |
-| 41735(e) | 49 App.:1389(c)(4). |  |
-
-In subsections (a)(2)(B)(ii) and (d)(3), the words “air service or air transportation for which compensation is paid” are substituted for “air service for which compensation is payable” for consistency with the source provisions restated in sections 41733 and 41736 of the revised title.
-
-In subsection (a)(3), the word “prescribe” is substituted for “establish” for consistency in the revised title.
-
-In subsection (b), before clause (1), the words “issue a decision” are omitted as unnecessary because of the restatement.
-
-In subsection (c)(1)(B), the words “State or local government or person agreeing to pay compensation under this section” are substituted for “government or person agreeing to pay any non-Federal share” for clarity.
-
-In subsection (c)(2), the words “State or local government or person agreeing to pay compensation under this section” are substituted for “non-Federal payments for enhanced essential air service under this subsection” for clarity.
-
-In subsection (d)(2), the words “For service for which the Government pays 50 percent of the compensation” are substituted for “If the enhanced essential air service approved under this subsection is to be at a 50 percent Federal share” because of the restatement. The words “the remaining 50 percent” are substituted for “the non-Federal” for clarity and consistency in this section.
-
-In subsection (d)(3), the words “For service for which the Government pays 100 percent of the compensation” are substituted for “If the enhanced essential air service approved under this subsection is to be at a 100 percent Federal share” because of the restatement.
+Section, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1148, related to enhanced essential air service.
 
 
 <a id="section-41736"></a>
@@ -1825,11 +2010,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 (2) if denying the claim, notify the carrier of the denial and the reasons for the denial.
 
-**(d) Authority To Make Agreements and Incur Obligations.—**
-
-(1) The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government’s share of the compensation.
-
-(2) Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incur obligations under this section. Amounts made available under this section remain available until expended.
+**(d) Authority To Make Agreements and Incur Obligations.—** The Secretary may make agreements and incur obligations from the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 ([26 U.S.C. 9502](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim)) to pay compensation under this subchapter. An agreement by the Secretary under this subsection is a contractual obligation of the Government to pay the Government’s share of the compensation.
 
 **(e) Adjustments to Account for Significantly Increased Costs.—**
 
@@ -1858,6 +2039,8 @@ In subsection (b), the words “air service or air transportation” are substit
 In subsection (d)(2), the reference to fiscal year 1992 is omitted as obsolete.
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–63 struck out par. (1) designation before “The Secretary” and par. (2) which read as follows: “Not more than $38,600,000 is available to the Secretary out of the Fund for each of the fiscal years ending September 30, 1993–1998, to incur obligations under this section. Amounts made available under this section remain available until expended.”
+
 2012—Subsec. (a)(1)(D), (E). Pub. L. 112–95 added subpars. (D) and (E).
 
 2003—Subsec. (e). Pub. L. 108–176 added subsec. (e).
@@ -1907,24 +2090,11 @@ The words “quality of transportation” are substituted for “quality of serv
 
 
 <a id="section-41740"></a>
-## § 41740. Joint proposals
-
-The Secretary of Transportation shall encourage the submission of joint proposals, including joint fares, by 2 or more air carriers for providing air service or air transportation under this subchapter through arrangements that maximize the service or transportation to and from major destinations beyond the hub.
+## § 41740. Repealed. Pub. L. 118–63, title V, § 561(i), May 16, 2024, 138 Stat. 1216]
 
 ### Statutory Notes
 
-| Historical and Revision Notes |  |  |
-| --- | --- | --- |
-| Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
-| 41740 | 49 App.:1389(j). | Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, § 419(j); added Oct. 24, 1978, Pub. L. 95–504, § 33(a), 92 Stat. 1732; Dec. 8, 1983, Pub. L. 98–213, § 10, 97 Stat. 1461; Oct. 4, 1984, Pub. L. 98–443, § 9(r), 98 Stat. 1708; restated Dec. 30, 1987, Pub. L. 100–223, § 202(a)(1), (2), (b)(1), 101 Stat. 1507, 1516. |
-
-The words “air service or air transportation” are substituted for “air service”, and the words “the service or transportation” are substituted for “service”, for consistency with the source provisions restated in sections 41733, 41735, and 41736 of the revised title.
-
-#### Amendments
-2003—Pub. L. 108–176 inserted “, including joint fares,” after “joint proposals”.
-
-#### Effective Date of 2003 Amendment
-Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
+Section, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1152; Pub. L. 108–176, title IV, § 403, Dec. 12, 2003, 117 Stat. 2543, related to joint proposals by 2 or more air carriers for providing air service or air transportation under this subchapter.
 
 
 <a id="section-41741"></a>
@@ -1948,7 +2118,7 @@ The words “The Secretary of Transportation may pay . . . only when” are subs
 
 (1) **Authorization.—** — Out of the amounts received by the Federal Aviation Administration credited to the account established under [section 45303 of this title](./chapter-453-fees.md#section-45303) or otherwise provided to the Administration, the sum of $50,000,000 for each fiscal year is authorized and shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter.
 
-(2) **Additional funds.—** — In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $155,000,000 for fiscal year 2018, $158,000,000 for fiscal year 2019, $161,000,000 for fiscal year 2020, $165,000,000 for fiscal year 2021, $168,000,000 for fiscal year 2022, and $172,000,000 for fiscal year 2023 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
+(2) **Additional funds.—** — In addition to amounts authorized under paragraph (1), there is authorized to be appropriated out of the Airport and Airway Trust Fund (established under section 9502 of the Internal Revenue Code of 1986) $348,544,000 for fiscal year 2024, $340,000,000 for fiscal year 2025, $342,000,000 for fiscal year 2026, $342,000,000 for fiscal year 2027, and $350,000,000 for fiscal year 2028 to carry out the essential air service program under this subchapter of which not more than $12,000,000 per fiscal year may be used for the marketing incentive program for communities and for State marketing assistance.
 
 (3) **Authorization for additional employees.—** — In addition to amounts authorized under paragraphs (1) and (2), there are authorized to be appropriated such sums as may be necessary for the Secretary of Transportation to hire and employ 4 additional employees for the office responsible for carrying out the essential air service program.
 
@@ -1967,6 +2137,14 @@ The words “The Secretary of Transportation may pay . . . only when” are subs
 Section 9502 of the Internal Revenue Code of 1986, referred to in subsec. (a)(2), is classified to [section 9502 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9502&num=0&edition=prelim), Internal Revenue Code.
 
 #### Amendments
+2024—Subsec. (a)(2). Pub. L. 118–63 substituted “$348,544,000 for fiscal year 2024, $340,000,000 for fiscal year 2025, $342,000,000 for fiscal year 2026, $342,000,000 for fiscal year 2027, and $350,000,000 for fiscal year 2028” for “$155,000,000 for fiscal year 2018, $158,000,000 for fiscal year 2019, $161,000,000 for fiscal year 2020, $165,000,000 for fiscal year 2021, $168,000,000 for fiscal year 2022, and $172,000,000 for fiscal year 2023, and $216,192,407 for the period beginning on October 1, 2023, and ending on May 10, 2024,”.
+
+Pub. L. 118–41 substituted “$216,192,407 for the period beginning on October 1, 2023, and ending on May 10, 2024,” for “$155,115,628 for the period beginning on October 1, 2023, and ending on March 8, 2024,”.
+
+2023—Subsec. (a)(2). Pub. L. 118–34 substituted “$155,115,628 for the period beginning on October 1, 2023, and ending on March 8, 2024,” for “$89,191,486 for the period beginning on October 1, 2023, and ending on December 31, 2023,”.
+
+Pub. L. 118–15 substituted “2023, and $89,191,486 for the period beginning on October 1, 2023, and ending on December 31, 2023,” for “2023”.
+
 2018—Subsec. (a)(2). Pub. L. 115–254 substituted “$155,000,000 for fiscal year 2018, $158,000,000 for fiscal year 2019, $161,000,000 for fiscal year 2020, $165,000,000 for fiscal year 2021, $168,000,000 for fiscal year 2022, and $172,000,000 for fiscal year 2023” for “$150,000,000 for fiscal year 2011, $143,000,000 for fiscal year 2012, $118,000,000 for fiscal year 2013, $107,000,000 for fiscal year 2014, $93,000,000 for fiscal year 2015, $175,000,000 for each of fiscal years 2016 and 2017, and $150,000,000 for fiscal year 2018”.
 
 Pub. L. 115–141 substituted “2016 and 2017, and $150,000,000 for fiscal year 2018” for “2016 and 2017, and $74,794,521 for the period beginning on October 1, 2017, and ending on March 31, 2018,”.
@@ -2049,7 +2227,7 @@ Pub. L. 104–264, title II, § 278(b), Oct. 9, 1996, 110 Stat. 3249, provided t
 
   (A) *In general.—* — No more than 40 communities or consortia of communities, or a combination thereof, may be selected to participate in the program in each year for which funds are appropriated for the program.
 
-  (B) *Same projects.—* — Except as provided in subparagraph (C), no community, consortia of communities, or combination thereof may participate in the program in support of the same project more than once in a 10-year period, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project at any time.
+  (B) *Same projects.—* — Except as provided in subparagraph (C), no community, consortia of communities, or combination thereof may participate in the program in support of the same project more than once in a 5-year period, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project at any time.
 
   (C) *Exception.—* — The Secretary may waive the limitation under subparagraph (B) related to projects that are the same if the Secretary determines that the community or consortium spent little or no money on its previous project or encountered industry or environmental challenges, due to circumstances that were reasonably beyond the control of the community or consortium.
 
@@ -2057,35 +2235,35 @@ Pub. L. 104–264, title II, § 278(b), Oct. 9, 1996, 110 Stat. 3249, provided t
 
   (A) air fares are higher than the average air fares for all communities;
 
-  (B) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
+  (B) the community has demonstrated support from at least 1 air carrier to provide service;
 
-  (C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
+  (C) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
 
-  (D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited;
+  (D) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
 
-  (E) the assistance will be used to help restore scheduled passenger air service that has been terminated;
+  (E) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited;
 
-  (F) the assistance will be used in a timely fashion; and
+  (F) the assistance will be used to help restore scheduled passenger air service that has been terminated or substantially reduced (as measured by enplanements, capacity (seats), schedule, connections, or routes);
 
-  (G) multiple communities cooperate to submit a regional or multistate application to consolidate air service into one regional airport.
+  (G) the assistance will be used in a timely fashion; and
+
+  (H) multiple communities cooperate to submit a regional or multistate application to consolidate air service into one regional airport.
 
 **(d) Types of Assistance.—** The Secretary may use amounts made available under this section—
 
-(1) to provide assistance to an air carrier to subsidize service to and from an underserved airport for a period not to exceed 3 years;
+(1) to provide assistance to an air carrier to subsidize service to and from an underserved airport for a period not to exceed 3 years, which shall begin with each new grant, including same-project new grants, and which shall be calculated on a non-consecutive basis for air carriers that provide air service that is seasonal;
 
-(2) to provide assistance to an underserved airport to obtain service to and from the underserved airport; and
+(2) to provide assistance to an underserved airport, or an airport where air service has been terminated or substantially reduced, to obtain service to and from the underserved airport; and
 
 (3) to provide assistance to an underserved airport to implement such other measures as the Secretary, in consultation with such airport, considers appropriate to improve air service both in terms of the cost of such service to consumers and the availability of such service, including improving air service through marketing and promotion of air service and enhanced utilization of airport facilities.
 
 **(e) Authority To Make Agreements.—**
 
-(1) **In general.—** — The Secretary may make agreements to provide assistance under this section. The Secretary may amend the scope of a grant agreement at the request of the community or consortium and any participating air carrier, and may limit the scope of a grant agreement to only the elements using grant assistance or to only the elements achieved, if the Secretary determines that the amendment is reasonably consistent with the original purpose of the project.
+(1) **In general.—** — The Secretary may make agreements to provide assistance under this section. The Secretary may amend the scope of a grant agreement at the request of the community or consortium and any participating air carrier, and may limit the scope of a grant agreement to only the elements using grant assistance or to only the elements achieved, if the Secretary determines that the amendment is reasonably consistent with the original purpose of the project or the community’s current air service needs.
 
-(2) **Authorization of appropriations.—** — There is authorized to be appropriated to the Secretary $10,000,000 for each of fiscal years 2018 through 2023 to carry out this section. Such sums shall remain available until expended.
+(2) **Authorization of appropriations.—** — There is authorized to be appropriated to the Secretary $15,000,000 for each of fiscal years 2024 through 2028, to carry out this section. Such sums shall remain available until expended.
 
-**(f) Additional Action.—** Under the program established under subsection (a), the Secretary shall work with air carriers providing service to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports to facilitate joint-fare arrangements consistent with normal industry practice.
-
-**(g) Designation of Responsible Official.—** The Secretary shall designate an employee of the Department of Transportation—
+**(f) Designation of Responsible Official.—** The Secretary shall designate an employee of the Department of Transportation—
 
 (1) to function as a facilitator between small communities and air carriers;
 
@@ -2093,15 +2271,43 @@ Pub. L. 104–264, title II, § 278(b), Oct. 9, 1996, 110 Stat. 3249, provided t
 
 (3) to ensure that the Bureau of Transportation Statistics collects data on passenger information to assess the service needs of small communities;
 
-(4) to work with and coordinate efforts with other Federal, State, and local agencies to increase the viability of service to small communities and the creation of aviation development zones; and
+(4) to work with and coordinate efforts with other Federal, State, and local agencies to increase the viability of service to small communities; and
 
 (5) to provide policy recommendations to the Secretary and Congress that will ensure that small communities have access to quality, affordable air transportation services.
-
-**(h) Air Service Development Zone.—** The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (c)(4)(B). Pub. L. 118–63, § 562(1)(A), substituted “5-year” for “10-year”.
+
+Subsec. (c)(5)(B) to (E). Pub. L. 118–63, § 562(1)(B)(i), (ii), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively. Former subpar. (E) redesignated (F).
+
+Subsec. (c)(5)(F). Pub. L. 118–63, § 562(1)(B)(i), (iii), redesignated subpar. (E) as (F) and inserted “or substantially reduced (as measured by enplanements, capacity (seats), schedule, connections, or routes)” after “terminated”. Former subpar. (F) redesignated (G).
+
+Subsec. (c)(5)(G), (H). Pub. L. 118–63, § 562(1)(B)(i), redesignated subpars. (F) and (G) as (G) and (H), respectively.
+
+Subsec. (d)(1). Pub. L. 118–63, § 562(2)(A), inserted “, which shall begin with each new grant, including same-project new grants, and which shall be calculated on a non-consecutive basis for air carriers that provide air service that is seasonal” after “3 years”.
+
+Subsec. (d)(2). Pub. L. 118–63, § 562(2)(B), inserted “, or an airport where air service has been terminated or substantially reduced,” before “to obtain service”.
+
+Subsec. (e)(1). Pub. L. 118–63, § 562(3)(A), inserted “or the community’s current air service needs” after “the project”.
+
+Subsec. (e)(2). Pub. L. 118–63, § 562(3)(B), substituted “$15,000,000 for each of fiscal years 2024 through 2028” for “$10,000,000 for each of fiscal years 2018 through 2023, and $6,092,896 for the period beginning on October 1, 2023, and ending on May 10, 2024”.
+
+Pub. L. 118–41 substituted “$6,092,896 for the period beginning on October 1, 2023, and ending on May 10, 2024,” for “$4,371,585 for the period beginning on October 1, 2023, and ending on March 8, 2024,”.
+
+Subsec. (f). Pub. L. 118–63, § 562(5), redesignated subsec. (g) as (f) and struck out former subsec. (f). Prior to amendment, text of subsec. (f) read as follows: “Under the program established under subsection (a), the Secretary shall work with air carriers providing service to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports to facilitate joint-fare arrangements consistent with normal industry practice.”
+
+Subsec. (g). Pub. L. 118–63, § 562(5), redesignated subsec. (g) as (f).
+
+Subsec. (g)(4). Pub. L. 118–63, § 562(4), struck out “and the creation of aviation development zones” after “small communities”.
+
+Subsec. (h). Pub. L. 118–63, § 562(5), struck out subsec. (h). Text read as follows: “The Secretary shall designate an airport in the program as an Air Service Development Zone and work with the community or consortium on means to attract business to the area surrounding the airport, to develop land use options for the area, and provide data, working with the Department of Commerce and other agencies.”
+
+2023—Subsec. (e)(2). Pub. L. 118–34 substituted “$4,371,585 for the period beginning on October 1, 2023, and ending on March 8, 2024,” for “$2,513,661 for the period beginning on October 1, 2023, and ending on December 31, 2023,”.
+
+Pub. L. 118–15 inserted “, and $2,513,661 for the period beginning on October 1, 2023, and ending on December 31, 2023,” after “fiscal years 2018 through 2023”.
+
 2018—Subsec. (c)(1). Pub. L. 115–254, § 455(a)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “For calendar year 1997, the airport serving the community or consortium was not larger than a small hub airport, and—
 
 “(A) had insufficient air carrier service; or
@@ -2166,21 +2372,11 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
 
 <a id="section-41744"></a>
-## § 41744. Preservation of basic essential air service at single carrier dominated hub airports
-**(a) In General.—** If the Secretary of Transportation determines that extraordinary circumstances jeopardize the reliable performance of essential air service under this subchapter from a subsidized essential air service community to and from an essential airport facility, the Secretary may require an air carrier that has more than 60 percent of the total annual enplanements at the essential airport facility to take action to enable another air carrier to provide reliable essential air service to that community. Actions required by the Secretary under this subsection may include interline agreements, ground services, subleasing of gates, and the provision of any other service or facility necessary for the performance of satisfactory essential air service to that community.
-
-**(b) Essential Airport Facility Defined.—** In this section, the term “essential airport facility” means a large hub airport in the contiguous 48 States at which one air carrier has more than 60 percent of the total annual enplanements at that airport.
+## § 41744. Repealed. Pub. L. 118–63, title V, § 561(j), May 16, 2024, 138 Stat. 1216]
 
 ### Statutory Notes
 
-#### Amendments
-2003—Subsec. (b). Pub. L. 108–176 struck out “(as defined in section 41731)” after “large hub airport”.
-
-#### Effective Date of 2003 Amendment
-Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as a note under [section 106 of this title](./chapter-001-organization.md#section-106).
-
-#### Effective Date
-Section applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as an Effective Date of 2000 Amendments note under [section 106 of this title](./chapter-001-organization.md#section-106).
+Section, added Pub. L. 106–181, title II, § 204(a), Apr. 5, 2000, 114 Stat. 93; amended Pub. L. 108–176, title II, § 225(b)(4), Dec. 12, 2003, 117 Stat. 2529, related to preservation of basic essential air service at single carrier dominated hub airports.
 
 
 <a id="section-41745"></a>
@@ -2201,27 +2397,9 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
   (D) In combination with other units of local government in the same region, to provide transportation services to and from all the eligible places in that region at an airport or other transportation center that can serve all the eligible places in that region.
 
-  (E) To purchase aircraft to provide transportation to and from the eligible place or to purchase a fractional share in an aircraft to provide such transportation after the effective date of a rule the Secretary issues relating to fractional ownership.
+  (E) To pay for other transportation or related services that the Secretary may permit.
 
-  (F) To pay for other transportation or related services that the Secretary may permit.
-
-**(b) Community Flexibility Pilot Program.—**
-
-(1) **In general.—** — The Secretary shall establish a pilot program for not more than 10 eligible places or consortia of units of local government.
-
-(2) **Election.—** — Under the program, the sponsor of an airport serving an eligible place may elect to forego any essential air service for which compensation is being provided under this subchapter for a 10-year period in exchange for a grant from the Secretary equal in value to twice the compensation paid to provide such service in the most recent 12-month period.
-
-(3) **Grant.—** — Notwithstanding any other provision of law, the Secretary shall make a grant to each airport sponsor participating in the program for use on any project that—
-
-  (A) is eligible for assistance under chapter 471 and complies with the requirements of that chapter;
-
-  (B) is located on the airport property; or
-
-  (C) will improve airport facilities in a way that would make such facilities more usable for general aviation.
-
-**(c) Fractionally Owned Aircraft.—** After the effective date of the rule referred to in subsection (a)(3)(E), only those operating rules that relate to an aircraft that is fractionally owned apply when an aircraft described in subsection (a)(3)(E) is used to provide transportation described in subsection (a)(3)(E).
-
-**(d) Applications.—**
+**(b) Applications.—**
 
 (1) **In general.—** — An entity seeking to participate in a program under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require.
 
@@ -2231,13 +2409,18 @@ Section applicable only to fiscal years beginning after Sept. 30, 1999, see sect
 
   (B) a description of how the compensation or assistance will be used.
 
-**(e) Participation Requirements.—** An eligible place for which compensation or assistance is provided under this section in a fiscal year shall not be eligible in that fiscal year for the essential air service that it would otherwise be entitled to under this subchapter.
+**(c) Participation Requirements.—** An eligible place for which compensation or assistance is provided under this section in a fiscal year shall not be eligible in that fiscal year for the essential air service that it would otherwise be entitled to under this subchapter.
 
-**(f) Subsequent Participation.—** A unit of local government participating in the program under this subsection (a) in a fiscal year shall not be prohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
+**(d) Subsequent Participation.—** A unit of local government participating in the program under this subsection (a) in a fiscal year shall not be prohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
 
-**(g) Funding.—** Amounts appropriated or otherwise made available to carry out the essential air service program under this subchapter shall be available to carry out this section.
+**(e) Funding.—** Amounts appropriated or otherwise made available to carry out the essential air service program under this subchapter shall be available to carry out this section.
 
 ### Statutory Notes
+
+#### Amendments
+2024—Subsec. (a)(3)(E), (F). Pub. L. 118–63, § 561(k)(1), redesignated subpar. (F) as (E) and struck out former subpar. (E) which read as follows: “To purchase aircraft to provide transportation to and from the eligible place or to purchase a fractional share in an aircraft to provide such transportation after the effective date of a rule the Secretary issues relating to fractional ownership.”
+
+Subsecs. (b) to (g). Pub. L. 118–63, § 561(k)(2), (3), redesignated subsecs. (d) to (g) as (b) to (e), respectively, and struck out former subsecs. (b) and (c) which related to community flexibility pilot program and fractionally owned aircraft, respectively.
 
 #### Effective Date
 Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
@@ -2267,31 +2450,13 @@ Section, added Pub. L. 108–176, title IV, § 408(a), Dec. 12, 2003, 117 Stat. 
 
 
 <a id="section-41748"></a>
-## § 41748. Marketing program
-**(a) In General.—** The Secretary of Transportation shall establish a marketing incentive program for eligible places that receive subsidized service by an air carrier under section 41733. Under the program, the sponsor of the airport serving such an eligible place may receive a grant of not more than $50,000 in a fiscal year to develop and implement a marketing plan to increase passenger boardings and the level of passenger usage of its airport facilities.
-
-**(b) Matching Requirement; Success Bonuses—**
-
-(1) **In general.—** — Except as provided in paragraphs (2) and (3), not less than 25 percent of the publicly financed costs associated with a marketing plan to be developed and implemented under this section shall come from non-Federal sources. For purposes of this section—
-
-  (A) the non-Federal portion of the publicly financed costs may be derived from contributions in kind; and
-
-  (B) matching contributions from a State or unit of local government may not be derived, directly or indirectly, from Federal funds, but the use by the State or unit of local government of proceeds from the sale of bonds to provide the matching contribution is not considered to be a contribution derived directly or indirectly from Federal funds, without regard to the Federal income tax treatment of interest paid on those bonds or the Federal income tax treatment of those bonds.
-
-(2) **Bonus for 25-percent increase in usage.—** — Except as provided in paragraph (3), if, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 25 percent or more, then only 10 percent of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
-
-(3) **Bonus for 50-percent increase in usage.—** — If, after any 12-month period during which a marketing plan has been in effect under this section with respect to an eligible place, the Secretary determines that the marketing plan has increased average monthly boardings, or the level of passenger usage, at the airport serving the eligible place, by 50 percent or more, then no portion of the publicly financed costs associated with the marketing plan shall be required to come from non-Federal sources under this subsection for the following 12-month period.
+## § 41748. Repealed. Pub. L. 118–63, title V, § 561(l), May 16, 2024, 138 Stat. 1217]
 
 ### Statutory Notes
 
-#### Codification
+Section, added Pub. L. 108–176, title IV, § 410(b), Dec. 12, 2003, 117 Stat. 2548, established a marketing incentive program for eligible places that received subsidized service by an air carrier under section 41733.
+
 Another section 410(b) of Pub. L. 108–176 amended the table of sections at the beginning of this chapter.
-
-#### Effective Date
-Section applicable only to fiscal years beginning after Sept. 30, 2003, except as otherwise specifically provided, see section 3 of Pub. L. 108–176, set out as an Effective Date of 2003 Amendment note under [section 106 of this title](./chapter-001-organization.md#section-106).
-
-#### Incentive Program
-Pub. L. 108–176, title IV, § 410(a), Dec. 12, 2003, 117 Stat. 2548, provided that: “The purposes of this section [enacting this section] are— “(1) to enable essential air service communities to increase boardings and the level of passenger usage of airport facilities at an eligible place by providing technical, financial, and other marketing assistance to such communities and to States; “(2) to reduce subsidy costs under subchapter II of this chapter [probably means chapter 417 of title 49, United States Code] as a consequence of such increased usage; and “(3) to provide such communities with opportunities to obtain, retain, and improve transportation services.”
 
 
 <a id="section-41761"></a>

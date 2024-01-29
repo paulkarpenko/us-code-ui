@@ -1080,11 +1080,19 @@ Pub. L. 100–647, title II, § 2002(a)(1), Nov. 10, 1988, 102 Stat. 3597, provi
 
 (6) **Special rule relating to deadhead service** — A fractional program aircraft shall not be considered to be used on account of a qualified fractional owner when it is used in deadhead service and a person other than a qualified fractional owner is separately charged for such service.
 
-**(d) Termination** This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2023.
+**(d) Termination** This section shall not apply to liquids used as a fuel in an aircraft after September 30, 2028.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–63 substituted “September 30, 2028” for “May 10, 2024”.
+
+Pub. L. 118–41 substituted “May 10, 2024” for “March 8, 2024”.
+
+2023—Subsec. (d). Pub. L. 118–34 substituted “March 8, 2024” for “December 31, 2023”.
+
+Pub. L. 118–15 substituted “December 31, 2023” for “September 30, 2023”.
+
 2018—Subsec. (d). Pub. L. 115–254 substituted “September 30, 2023” for “September 30, 2021”.
 
 #### Effective Date

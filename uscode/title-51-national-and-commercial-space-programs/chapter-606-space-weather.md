@@ -130,14 +130,14 @@ source: >-
 
   (F) *Reevaluation.—* — The advisory group shall review and assess the survey under subparagraph (A) not less than every 3 years and update, resubmit, and republish the survey in accordance with the requirements of subparagraphs (D) and (E).
 
-(4) **Federal advisory committee act.—** — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
+(4) **Federal advisory committee act.—** — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the advisory group.
 
 ### Statutory Notes
 
 #### References in Text
 The date of enactment of the PROSWIFT Act, referred to in subsecs. (c) and (d)(1)(A), is the date of enactment of Pub. L. 116–181, which was approved Oct. 21, 2020.
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### Space Weather Policy
 Pub. L. 116–181, § 2(a), Oct. 21, 2020, 134 Stat. 882, provided that: “It shall be the policy of the United States to prepare and protect against the social and economic impacts of space weather phenomena by supporting actions to improve space weather forecasts and predictions including: sustaining and enhancing critical observations, identifying research needs and promoting opportunities for research-to-operations and operations-to-research collaborations both within and outside of the Federal Government, advancing space weather models, engaging with all sectors of the space weather community, including academia, the commercial sector, and international partners, and understanding the needs of space weather end users.”
@@ -237,7 +237,7 @@ Sec. 8. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Barack Obama.
 
-[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in [section 651(5) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section651/5&num=0&edition=prelim), Domestic Security, see [section 652a(c)(3) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.]
+[Reference to a Sector Specific Agency (including any permutations or conjugations thereof) deemed to be a reference to the Sector Risk Management Agency of the relevant critical infrastructure sector and have the meaning given such term in [section 650 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section650&num=0&edition=prelim), Domestic Security, see [section 652a(c)(3) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section652a/c/3&num=0&edition=prelim), enacted Jan. 1, 2021.]
 
 
 <a id="section-60602"></a>

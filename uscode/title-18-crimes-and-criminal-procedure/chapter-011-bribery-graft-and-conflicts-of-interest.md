@@ -60,6 +60,12 @@ source: >-
 A prior section 201, act June 25, 1948, ch. 645, 62 Stat. 691, prescribed penalties for anyone who offered or gave anything of value to an officer or other person to influence his decisions, prior to the general amendment of this chapter by Pub. L. 87–849, and is substantially covered by revised section 201.
 
 #### Amendments
+2024—Subsecs. (a)(4), (5), (f). Pub. L. 118–78, § 2(a), repealed Pub. L. 118–31, § 5101, and provided that each provision of law amended by that section is amended to read as it read on the day before the date of enactment. See 2023 Amendment notes below.
+
+2023—Subsec. (a)(4), (5). Pub. L. 118–31, § 5101(1), which added pars. (4) and (5) providing definitions for “foreign official” and “public international organization”, respectively, was repealed by Pub. L. 118–78, § 2(a). See [section 1352(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1352/a&num=0&edition=prelim).
+
+Subsec. (f). Pub. L. 118–31, § 5101(2), which added subsec. (f) relating to demands by foreign officials for bribes, was repealed by Pub. L. 118–78, § 2(a). See [section 1352(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1352/b&num=0&edition=prelim).
+
 1994—Subsec. (b). Pub. L. 103–322, § 330016(2)(D), which directed the amendment of “section 201” by inserting “under this title or” after “be fined” and “whichever is greater,” before “or imprisoned”, was executed by making the insertions in text of last par. of subsec. (b), and not in last par. of subsec. (c), to reflect the probable intent of Congress.
 
 Pub. L. 103–322, § 330011(b)(A), amended Pub. L. 99–646, § 46(b)(1). See 1986 Amendment note below.
@@ -1164,7 +1170,7 @@ For provisions relating to treatment of agencies within the Executive Office of 
 
 (2) if, by regulation issued by the Director of the Office of Government Ethics, applicable to all or a portion of all officers and employees covered by this section, and published in the Federal Register, the financial interest has been exempted from the requirements of subsection (a) as being too remote or too inconsequential to affect the integrity of the services of the Government officers or employees to which such regulation applies;
 
-(3) in the case of a special Government employee serving on an advisory committee within the meaning of the Federal Advisory Committee Act (including an individual being considered for an appointment to such a position), the official responsible for the employee’s appointment, after review of the financial disclosure report filed by the individual pursuant to the Ethics in Government Act of 1978, certifies in writing that the need for the individual’s services outweighs the potential for a conflict of interest created by the financial interest involved; or
+(3) in the case of a special Government employee serving on an advisory committee within the meaning of chapter 10 of title 5 (including an individual being considered for an appointment to such a position), the official responsible for the employee’s appointment, after review of the financial disclosure report filed by the individual pursuant to chapter 131 of title 5, certifies in writing that the need for the individual’s services outweighs the potential for a conflict of interest created by the financial interest involved; or
 
 (4) if the financial interest that would be affected by the particular matter involved is that resulting solely from the interest of the officer or employee, or his or her spouse or minor child, in birthrights—
 
@@ -1183,7 +1189,7 @@ For provisions relating to treatment of agencies within the Executive Office of 
 
 **(d)**
 
-(1) Upon request, a copy of any determination granting an exemption under subsection (b)(1) or (b)(3) shall be made available to the public by the agency granting the exemption pursuant to the procedures set forth in section 105 of the Ethics in Government Act of 1978. In making such determination available, the agency may withhold from disclosure any information contained in the determination that would be exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim). For purposes of determinations under subsection (b)(3), the information describing each financial interest shall be no more extensive than that required of the individual in his or her financial disclosure report under the Ethics in Government Act of 1978.
+(1) Upon request, a copy of any determination granting an exemption under subsection (b)(1) or (b)(3) shall be made available to the public by the agency granting the exemption pursuant to the procedures set forth in [section 13107 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13107&num=0&edition=prelim). In making such determination available, the agency may withhold from disclosure any information contained in the determination that would be exempt from disclosure under [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim). For purposes of determinations under subsection (b)(3), the information describing each financial interest shall be no more extensive than that required of the individual in his or her financial disclosure report under chapter 131 of title 5.
 
 (2) The Office of Government Ethics, after consultation with the Attorney General, shall issue uniform regulations for the issuance of waivers and exemptions under subsection (b) which shall—
 
@@ -1194,10 +1200,6 @@ For provisions relating to treatment of agencies within the Executive Office of 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-The Ethics in Government Act of 1978, referred to in subsecs. (b)(3) and (d)(1), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
 The Alaska Native Claims Settlement Act, referred to in subsec. (b)(4)(A), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
@@ -1206,6 +1208,10 @@ A prior section 208, act June 25, 1948, ch. 645, 62 Stat. 693, related to the ac
 Provisions similar to those comprising this section were contained in [section 434 of this title](./chapter-023-contracts.md#section-434) prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+2022—Subsec. (b)(3). Pub. L. 117–286, § 4(a)(134), (c)(27)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act” and “chapter 131 of title 5,” for “the Ethics in Government Act of 1978,”.
+
+Subsec. (d)(1). Pub. L. 117–286, § 4(c)(27)(B), substituted “[section 13107 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13107&num=0&edition=prelim).” for “section 105 of the Ethics in Government Act of 1978.” and “chapter 131 of title 5.” for “the Ethics in Government Act of 1978.”
+
 1994—Subsec. (b)(4). Pub. L. 103–322, § 330008(6), inserted “if” after “(4)”.
 
 Subsec. (c)(1). Pub. L. 103–322, § 330002(b), substituted “banks” for “Banks”.

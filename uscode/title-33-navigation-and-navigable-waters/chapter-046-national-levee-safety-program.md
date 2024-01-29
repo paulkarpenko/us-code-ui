@@ -2,7 +2,7 @@
 title: 33
 chapter: '46'
 heading: NATIONAL LEVEE SAFETY PROGRAM
-section_count: 8
+section_count: 9
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -107,7 +107,11 @@ In this chapter, the following definitions apply:
 
 (12) **Regional district** — The term “regional district” means a subdivision of a State government, or a subdivision of multiple State governments, that is authorized to acquire, construct, operate, and maintain projects for the purpose of flood damage reduction.
 
-(13) **Rehabilitation** — The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk or meet national levee safety guidelines.
+(13) **Rehabilitation**
+
+  (A) *In general* — The term “rehabilitation” means the repair, replacement, reconstruction, removal of a levee, or reconfiguration of a levee system, including a setback levee, that is carried out to reduce flood risk, increase resiliency to extreme weather events, or meet national levee safety guidelines.
+
+  (B) *Inclusions* — The term “rehabilitation” includes improvements to a levee in conjunction with any repair, replacement, reconstruction, or reconfiguration.
 
 (14) **Risk** — The term “risk” means a measure of the probability and severity of undesirable consequences.
 
@@ -128,6 +132,8 @@ In this chapter, the following definitions apply:
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (13). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, inserted “, increase resiliency to extreme weather events,” after “flood risk”, and added subpar. (B).
+
 2016—Par. (11). Pub. L. 114–322, § 1130(a)(1), substituted “State, regional district, or Indian tribe” for “State or Indian tribe”.
 
 Pars. (12) to (17). Pub. L. 114–322, § 1130(a)(2), (3), added par. (12) and redesignated former pars. (12) to (16) as (13) to (17), respectively.
@@ -217,14 +223,13 @@ Pub. L. 110–114, title IX, § 9001(b), as added Pub. L. 113–121, title III, 
 
 (3) **Standing committee members** — Each member of a standing committee shall serve in a voluntary capacity.
 
-**(h) Applicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the committee.
+**(h) Applicability of chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the committee.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2014—Subsec. (b). Pub. L. 113–121, § 3016(c)(1), added par. (1), redesignated par. (3) as (2), inserted “voting” after “14” in introductory provisions of par. (2), and struck out former pars. (1) and (2) which read as follows:
 
 “(1) The Secretary (or the Secretary’s designee), who shall serve as the chairperson of the Committee.
@@ -452,7 +457,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
   (E) *Authorization of appropriations*
 
-    (i) *In general* — There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2023.
+    (i) *In general* — There is authorized to be appropriated to the Administrator to carry out this subsection $25,000,000 for each of fiscal years 2019 through 2028.
 
     (ii) *Allocation* — For each fiscal year, amounts made available under this subparagraph shall be allocated among the States, regional districts, and Indian tribes as follows:
 
@@ -470,7 +475,7 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 **(h) Levee rehabilitation assistance program**
 
-(1) **Establishment** — The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation activities that result in an overall reduction in flood risk.
+(1) **Establishment** — The Secretary shall provide assistance to States, regional districts, Indian tribes, and local governments relating to addressing flood mitigation and levee rehabilitation activities that result in an overall reduction in flood risk.
 
 (2) **Requirements** — To be eligible to receive assistance under this subsection, a State, regional district, Indian tribe, or local government shall—
 
@@ -528,13 +533,15 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, s
 
 (6) **Cost share** — The maximum Federal share of the cost of any assistance provided under this subsection shall be 65 percent.
 
-(7) **Project limit** — The maximum amount of Federal assistance for a project under this subsection shall be $10,000,000.
+(7) **Project limit** — The maximum amount of Federal assistance for a project under this subsection shall be $25,000,000.
 
 (8) **Limitation** — A project shall not receive Federal assistance under this subsection more than 1 time.
 
 (9) **Federal interest** — For a project that is not a project eligible for rehabilitation assistance under [section 701n of this title](./chapter-015-flood-control.md#section-701n), the Secretary shall determine that the proposed rehabilitation is in the Federal interest prior to providing assistance for such rehabilitation.
 
 (10) **Other laws** — Assistance provided under this subsection shall be subject to all applicable laws (including regulations) that apply to the construction of a civil works project of the Corps of Engineers.
+
+(11) **Prioritization** — To the maximum extent practicable, the Secretary shall prioritize the provision of assistance under this subsection to economically disadvantaged communities (as defined by the Secretary under section 160 of the Water Resources Development Act of 2020 ([33 U.S.C. 2201](./chapter-036-water-resources-development.md#section-2201) note)), including economically disadvantaged communities located in urban and rural areas.
 
 **(i) Effect of section** Nothing in this section—
 
@@ -553,12 +560,22 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 
 The Disaster Mitigation Act of 2000, referred to in subsec. (h)(2)(B)(ii), is Pub. L. 106–390, Oct. 30, 2000, 114 Stat. 1552. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
+Section 160 of the Water Resources Development Act of 2020, referred to in subsec. (h)(11), is section 160 of div. AA of Pub. L. 116–260, which is set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
 The National Flood Insurance Act of 1968, referred to in subsec. (i)(2)(B), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, which is classified principally to chapter 50 (§ 4001 et seq.) of Title 42, The Public Health and Welfare. Chapter I of the Act is classified principally to subchapter I (§ 4011 et seq.) of chapter 50 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4001&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 9005 of Pub. L. 110–114 was renumbered section 9007, and is classified to [section 3304 of this title](./chapter-046-national-levee-safety-program.md#section-3304).
 
 #### Amendments
+2022—Subsec. (g)(2)(E)(i). Pub. L. 117–263, § 8387(b), substituted “2028” for “2023”.
+
+Subsec. (h)(1). Pub. L. 117–263, § 8387(c)(1), inserted “and levee rehabilitation” after “mitigation”.
+
+Subsec. (h)(7). Pub. L. 117–263, § 8387(c)(2), substituted “$25,000,000” for “$10,000,000”.
+
+Subsec. (h)(11). Pub. L. 117–263, § 8387(c)(3), added par. (11).
+
 2018—Subsec. (g)(2)(E)(i). Pub. L. 115–270 substituted “2019 through 2023” for “2015 through 2019”.
 
 2016—Subsec. (c)(1). Pub. L. 114–322, § 1130(c)(1)(A)(i), substituted “1 year after December 16, 2016,” for “1 year after June 10, 2014,” and “State, regional, local, and tribal governments and organizations” for “State, local, and tribal governments and organizations” in introductory provisions.
@@ -614,7 +631,7 @@ Subsec. (h)(3)(D). Pub. L. 114–322, § 1130(c)(4)(C)(ii), substituted “180 d
 Subsec. (h)(4)(A)(i). Pub. L. 114–322, § 1130(c)(4)(D), substituted “State, regional, or tribal” for “State or tribal”.
 
 #### Rehabilitation of Existing Levees
-Pub. L. 113–121, title III, § 3017, June 10, 2014, 128 Stat. 1300, provided that: “(a) In General.—The Secretary [of the Army] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damage reduction projects that were constructed as of the date of enactment of this Act [June 10, 2014] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified. “(b) Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities. “(c) Cost Share.—“(1) In general.—The non-Federal share of the cost of construction of a project carried out under this section shall be determined as provided in subsections (a) through (d) of section 103 of the Water Resources Development Act of 1986 ([33 U.S.C. 2213](./chapter-036-water-resources-development.md#section-2213)). “(2) Certain activities.—The non-Federal share of the cost of operations, maintenance, repair, replacement, and rehabilitation for a project carried out under this section shall be 100 percent. “(d) Report to Congress.—Not later than 5 years after the date of enactment of this Act, the Secretary shall include in the annual report developed under section 7001 [[33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)]—“(1) any recommendations relating to the continued need for the authority provided under this section; “(2) a description of the measures carried out under this section; “(3) any lessons learned relating to the measures implemented under this section; and “(4) best practices for carrying out measures to restore hurricane and storm damage reduction projects. “(e) Termination of Authority.—The authority of the Secretary under this subsection [probably should be “section”] terminates on the date that is 10 years after the date of enactment of this Act.”
+Pub. L. 113–121, title III, § 3017, June 10, 2014, 128 Stat. 1300, as amended by Pub. L. 117–263, div. H, title LXXXI, § 8382(a), Dec. 23, 2022, 136 Stat. 3828, provided that: “(a) In General.—The Secretary [of the Army] shall carry out measures that address consolidation, settlement, subsidence, sea level rise, and new datum to restore federally authorized hurricane and storm damage reduction projects that were constructed as of the date of enactment of this Act [June 10, 2014] to the authorized levels of protection of the projects if the Secretary determines the necessary work is technically feasible, environmentally acceptable, and economically justified. “(b) Limitation.—This section shall only apply to those projects for which the executed project partnership agreement provides that the non-Federal interest is not required to perform future measures to restore the project to the authorized level of protection of the project to account for subsidence and sea-level rise as part of the operation, maintenance, repair, replacement, and rehabilitation responsibilities. “(c) Cost Share.—“(1) In general.—The non-Federal share of the cost of construction of a project carried out under this section shall be determined as provided in subsections (a) through (d) of section 103 of the Water Resources Development Act of 1986 ([33 U.S.C. 2213](./chapter-036-water-resources-development.md#section-2213)). “(2) Certain activities.—The non-Federal share of the cost of operations, maintenance, repair, replacement, and rehabilitation for a project carried out under this section shall be 100 percent. “(d) Report to Congress.—Not later than 5 years after the date of enactment of this Act, the Secretary shall include in the annual report developed under section 7001 [[33 U.S.C. 2282d](./chapter-036-water-resources-development.md#section-2282d)]—“(1) any recommendations relating to the continued need for the authority provided under this section; “(2) a description of the measures carried out under this section; “(3) any lessons learned relating to the measures implemented under this section; and “(4) best practices for carrying out measures to restore hurricane and storm damage reduction projects. “(e) Termination of Authority.—The authority of the Secretary under this section terminates on December 31, 2028.”
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
@@ -738,3 +755,72 @@ Section was enacted as part of the Water Resources Development Act of 2018, and 
 
 #### “Secretary” Defined
 Secretary means the Secretary of the Army, see section 102 of Pub. L. 115–270, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
+<a id="section-3307"></a>
+## § 3307. Assessment of Corps of Engineers levees
+**(a) In general** The Secretary shall periodically conduct assessments of federally authorized levees under the jurisdiction of the Corps of Engineers, to evaluate the potential Federal interest in the modification (including realignment or incorporation of natural features and nature-based features, as such terms are defined in [section 2289a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2289a/a&num=0&edition=prelim)) of levee systems to meet one or more of the following objectives:
+
+(1) Increasing the flood risk reduction benefits of such systems.
+
+(2) Achieving greater flood resiliency.
+
+(3) Restoring hydrological and ecological connections with adjacent floodplains that achieve greater environmental benefits without undermining flood risk reduction or flood resiliency for levee-protected communities.
+
+**(b) Levees operated by non-Federal interests** The Secretary shall carry out an assessment under subsection (a) for a federally authorized levee system operated by a non-Federal interest only if the non-Federal interest—
+
+(1) requests the assessment; and
+
+(2) agrees to provide 50 percent of the cost of the assessment.
+
+**(c) Assessments**
+
+(1) **Considerations** — In conducting an assessment under subsection (a), the Secretary shall consider and identify, with respect to each levee system—
+
+  (A) an estimate of the number of structures and population at risk and protected by the levee system that would be adversely impacted if the levee system fails or water levels exceed the height of any levee segment within the levee system (which may be the applicable estimate included in the levee database established under [section 3303 of this title](./chapter-046-national-levee-safety-program.md#section-3303), if available);
+
+  (B) the number of times the non-Federal interest has received emergency flood-fighting or repair assistance under [section 701n of this title](./chapter-015-flood-control.md#section-701n) for the levee system, and the total expenditures on postflood repairs over the life of the levee system;
+
+  (C) the functionality of the levee system with regard to higher precipitation levels, including due to changing climatic conditions and extreme weather events;
+
+  (D) the potential costs and benefits (including environmental benefits and implications for levee-protected communities) from modifying the applicable levee system to restore connections with adjacent floodplains; and
+
+  (E) available studies, information, literature, or data from relevant Federal, State, or local entities.
+
+(2) **Prioritization** — In conducting an assessment under subsection (a), the Secretary shall, to the maximum extent practicable, prioritize levee systems—
+
+  (A) associated with an area that has been subject to flooding in two or more events in any 10-year period; and
+
+  (B) for which the non-Federal interest has received emergency flood-fighting or repair assistance under [section 701n of this title](./chapter-015-flood-control.md#section-701n) with respect to such flood events.
+
+(3) **Scope** — The Secretary shall ensure that an assessment under subsection (a) shall be similar in cost and scope to an initial assessment prepared by the Secretary pursuant to [section 549a of this title](./chapter-012-river-and-harbor-improvements-generally.md#section-549a).
+
+**(d) Flood plain management services** In conducting an assessment under subsection (a), the Secretary shall consider information on floods and flood damages compiled under [section 709a of this title](./chapter-015-flood-control.md#section-709a).
+
+**(e) Report to Congress**
+
+(1) **In general** — Not later than 18 months after December 23, 2022, and periodically thereafter, the Secretary shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report on the results of the assessments conducted under subsection (a).
+
+(2) **Inclusion** — The Secretary shall include in each report submitted under paragraph (1)—
+
+  (A) identification of any levee system for which the Secretary has conducted an assessment under subsection (a);
+
+  (B) a description of any opportunities identified under such subsection for the modification of a levee system, including the potential benefits of such modification for the purposes identified under such subsection;
+
+  (C) information relating to the willingness and ability of each applicable non-Federal interest to participate in a modification to the relevant levee system, including by obtaining any real estate necessary for the modification; and
+
+  (D) a summary of the information considered and identified under subsection (c)(1).
+
+**(f) Incorporation of information** The Secretary shall include in the levee database established under [section 3303 of this title](./chapter-046-national-levee-safety-program.md#section-3303) the information included in each report submitted under subsection (e), and make such information publicly available (including on a publicly available website).
+
+**(g) Levee system defined** In this section, the term “levee system” has the meaning given that term in [section 3301(9) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section3301/9&num=0&edition=prelim).
+
+**(h) Authorization of appropriations** There is authorized to be appropriated to carry out this section $10,000,000, to remain available until expended.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Water Resources Development Act of 2022, and also as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the National Levee Safety Act of 2007 which comprises this chapter.
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).

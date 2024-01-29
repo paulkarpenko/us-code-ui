@@ -1721,7 +1721,7 @@ Insofar as subsec. (a) of this section related exclusively to Internal Revenue i
 ### Statutory Notes
 
 #### References in Text
-The National Emergencies Act, referred to in subsec. (b)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
+The National Emergencies Act, referred to in subsec. (b)(1), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§ 1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in subsec. (a) of this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 622, 42 Stat. 988, which was superseded by section 318 of the Tariff Act of 1930, comprising this section, and repealed by section 651(a)(1) of said 1930 Act.
@@ -1844,7 +1844,7 @@ Repeal effective on and after thirtieth day following Aug. 8, 1953, and savings 
 ### Statutory Notes
 
 #### References in Text
-Title I of this Act, referred to in subsec. (a)(2)(B), means title I of act June 17, 1930, as amended, which contained the Tariff Schedules of the United States and which formerly were set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202). The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
+Title I of this Act, referred to in subsec. (a)(2)(B), means title I of act June 17, 1930, which contained the Tariff Schedules of the United States and which formerly were set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202). The Tariff Schedules of the United States were replaced by the Harmonized Tariff Schedule of the United States. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Amendments
 2016—Subsec. (a)(2)(C). Pub. L. 114–125 substituted “$800” for “$200”.
@@ -2634,7 +2634,7 @@ Amendment by act Aug. 2, 1956, effective only as to articles entered, or withdra
 ### Statutory Notes
 
 #### References in Text
-The Trademark Act of 1946, referred to in subsec. (a)(1)(C), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) and Tables.
+The Trademark Act of 1946, referred to in subsec. (a)(1)(C), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act, which is classified generally to chapter 22 (§ 1051 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (e)(3), (h), and (k)(2)(B)(ii), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -2903,7 +2903,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 ### Statutory Notes
 
 #### References in Text
-The Trade Act of 1974, referred to in subsec. (c)(2)(A) to (C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapters 1, 2, and 3 of title II of the Trade Act of 1974 are classified generally to parts 1 (§ 2251 et seq.), 2 (§ 2271 et seq.), and 3 (§ 2341 et seq.) of subchapter II of chapter 12 of this title, respectively. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (c)(2)(A) to (C), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapters 1, 2, and 3 of title II of the Trade Act of 1974 are classified generally to parts 1 (§ 2251 et seq.), 2 (§ 2271 et seq.), and 3 (§ 2341 et seq.) of subchapter II of chapter 12 of this title, respectively. Chapter 1 of title III of the Trade Act of 1974 is classified generally to subchapter III (§ 2411 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Prior Provisions
 A prior section 339 of act June 17, 1930, related to effect of repeal and reenactment of laws relating to Tariff Commission upon status of appropriations, employees, and privileges, prior to repeal by Pub. L. 89–554, § 8(a), Sept. 6, 1966, 80 Stat. 648.
@@ -3049,7 +3049,7 @@ The Trade Agreements Extension Act of 1955, referred to in subsec. (a)(1)(A), is
 
 Paragraph (5) of this subsection, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 87–794, title III, § 257(b), Oct. 11, 1962, 76 Stat. 882.
 
-The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, as amended, which is classified generally to chapter 7 (§ 1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§ 1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-007-trade-expansion-program.md#section-1801) and Tables.
+The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, which is classified generally to chapter 7 (§ 1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§ 1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-007-trade-expansion-program.md#section-1801) and Tables.
 
 [Section 1362 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1362&num=0&edition=prelim), referred to in subsec. (c)(2)(A), related to suspension or withdrawal of concessions from Communistic areas and was repealed by Pub. L. 87–794, title II, § 257(e)(1), Oct. 11, 1962, 76 Stat. 882.
 
@@ -3154,9 +3154,9 @@ Ex. Ord. No. 10741, Nov. 26, 1957, 22 F.R. 9451, which established the Trade Pol
 ### Statutory Notes
 
 #### References in Text
-The Trade Expansion Act of 1962, referred to in subsec. (a), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, as amended, which is classified generally to chapter 7 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-007-trade-expansion-program.md#section-1801) and Tables.
+The Trade Expansion Act of 1962, referred to in subsec. (a), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, which is classified generally to chapter 7 (§ 1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of this title](./chapter-007-trade-expansion-program.md#section-1801) and Tables.
 
-The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 [Section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351), referred to in subsec. (c), was in the original “section 1 of this Act”, meaning section 1 of act June 12, 1934, and was translated as referring to section 350 of act June 17, 1930, which was enacted by section 1 of act June 12, 1934, and is classified to [section 1351 of this title](./chapter-004-tariff-act-of-1930.md#section-1351).
 
@@ -3502,7 +3502,7 @@ When used in this subtitle or in part I of subtitle II—
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Import and Export Act, referred to in subsec. (m)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
+The Controlled Substances Import and Export Act, referred to in subsec. (m)(2), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§ 951 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 951 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section951&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is based on the designated subsections of section 401 of act June 17, 1930, as amended. The last undesignated paragraph of section 401, as added by section 201 of act Aug. 5, 1935, was classified to [section 1432a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1432a&num=0&edition=prelim), prior to being repealed by Pub. L. 103–182, § 690(c)(5), Dec. 8, 1993, 107 Stat. 2223.
@@ -4485,13 +4485,13 @@ Subsec. (a)(3)(L)(ii). Pub. L. 107–295, § 108(b)(3)(A), substituted “cargo 
 Subsec. (a)(3)(L)(v). Pub. L. 107–295, § 108(b)(3)(D)(ii)–(iv), added cl. (v).
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2005 Amendment
 Pub. L. 109–59, title XI, § 11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendment made by this section [amending this section] shall take effect on the date of the enactment of this Act [Aug. 10, 2005].”
 
 #### International Postal Agreements
-Pub. L. 115–271, title VIII, § 8004, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) Existing Agreements.—“(1) In general.—In the event that any provision of this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)], or any amendment made by this subtitle, is determined to be in violation of obligations of the United States under any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, the Secretary of State should negotiate to amend the relevant provisions of the agreement so that the United States is no longer in violation of the agreement. “(2) Rule of construction.—Nothing in this subsection shall be construed to permit delay in the implementation of this subtitle or any amendment made by this subtitle. “(b) Future Agreements.—“(1) Consultations.—Before entering into, on or after the date of the enactment of this Act [Oct. 24, 2018], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) [Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Reform, and Committee on Homeland Security of the House of Representatives]. “(2) Expedited negotiation of new agreement.—To the extent that any new postal treaty, convention, or other international agreement related to international postal services would improve the ability of the United States to secure the provision of advance electronic information by foreign postal operators as required by regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002 [[19 U.S.C. 1415(a)(3)(K)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K&num=0&edition=prelim)], as amended by section 8003(a)(1), the Secretary of State should expeditiously conclude such an agreement.”
+Pub. L. 115–271, title VIII, § 8004, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) Existing Agreements.—“(1) In general.—In the event that any provision of this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)], or any amendment made by this subtitle, is determined to be in violation of obligations of the United States under any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, the Secretary of State should negotiate to amend the relevant provisions of the agreement so that the United States is no longer in violation of the agreement. “(2) Rule of construction.—Nothing in this subsection shall be construed to permit delay in the implementation of this subtitle or any amendment made by this subtitle. “(b) Future Agreements.—“(1) Consultations.—Before entering into, on or after the date of the enactment of this Act [Oct. 24, 2018], any postal treaty, convention, or other international agreement related to international postal services, or any amendment to such an agreement, that is related to the ability of the United States to secure the provision of advance electronic information by foreign postal operators, the Secretary of State should consult with the appropriate congressional committees (as defined in section 8003(f)) [Committee on Finance and Committee on Homeland Security and Governmental Affairs of the Senate and Committee on Ways and Means, Committee on Oversight and Accountability, and Committee on Homeland Security of the House of Representatives]. “(2) Expedited negotiation of new agreement.—To the extent that any new postal treaty, convention, or other international agreement related to international postal services would improve the ability of the United States to secure the provision of advance electronic information by foreign postal operators as required by regulations prescribed under section 343(a)(3)(K) of the Trade Act of 2002 [[19 U.S.C. 1415(a)(3)(K)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1415/a/3/K&num=0&edition=prelim)], as amended by section 8003(a)(1), the Secretary of State should expeditiously conclude such an agreement.”
 
 #### Cost Recoupment
 Pub. L. 115–271, title VIII, § 8005, Oct. 24, 2018, 132 Stat. 4079, provided that: “(a) In General.—The United States Postal Service shall, to the extent practicable and otherwise recoverable by law, ensure that all costs associated with complying with this subtitle [subtitle A (§§ 8001–8009) of title VIII of Pub. L. 115–271, see Short Title of 2018 Amendment note set out under [section 1 of this title](./chapter-001-collection-districts-ports-and-officers.md#section-1)] and amendments made by this subtitle are charged directly to foreign shippers or foreign postal operators. “(b) Costs Not Considered Revenue.—The recovery of costs under subsection (a) shall not be deemed revenue for purposes of subchapter I and II of chapter 36 of title 39, United States Code, or regulations prescribed under that chapter.”
@@ -4523,11 +4523,15 @@ Pub. L. 115–271, title VIII, § 8005, Oct. 24, 2018, 132 Stat. 4079, provided 
 
   (H) The trademarks appearing on the goods or packages.
 
-(2) The information listed in paragraph (1) shall not be available for public disclosure if—
+(2)
 
-  (A) the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
+  (A) The information listed in paragraph (1) shall not be available for public disclosure if—
 
-  (B) the information is exempt under the provisions of [section 552(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/1&num=0&edition=prelim).
+    (i) the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
+
+    (ii) the information is exempt under the provisions of [section 552(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/1&num=0&edition=prelim).
+
+  (B) The Secretary shall ensure that any personally identifiable information, including Social Security numbers and passport numbers, is removed from any manifest signed, produced, delivered, or electronically transmitted under this section before access to the manifest is provided to the public.
 
 (3) The Secretary of the Treasury, in order to allow for the timely dissemination and publication of the information listed in paragraph (1), shall establish procedures to provide access to manifests. Such procedures shall include provisions for adequate protection against the public disclosure of information not available for public disclosure from such manifests.
 
@@ -4575,6 +4579,12 @@ R.S. §§ 2806, 2807 (as amended by act June 3, 1902, ch. 86, § 1, 27 Stat. 41)
 R.S. § 2805, relative to the administration of oaths required by that chapter, was superseded to a great extent by the Customs Administrative Act of June 10, 1890, ch. 407, § 22, 26 Stat. 140, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, § 28, 36 Stat. 102, and by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, § IV, S., 38 Stat. 201, which abolished all oaths administered by officers of the customs, except as provided in those acts and repealed by act Sept. 21, 1922, ch. 356, title IV, § 642, 42 Stat. 989.
 
 #### Amendments
+2024—Subsec. (c)(2). Pub. L. 118–39 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The information listed in paragraph (1) shall not be available for public disclosure if—
+
+“(A) the Secretary of the Treasury makes an affirmative finding on a shipment-by-shipment basis that disclosure is likely to pose a threat of personal injury or property damage; or
+
+“(B) the information is exempt under the provisions of [section 552(b)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b/1&num=0&edition=prelim).”
+
 1996—Subsec. (c). Pub. L. 104–295 substituted “a vessel manifest” for “such manifest” in introductory provisions.
 
 Pub. L. 104–153 inserted “vessel or aircraft” before “manifest” in introductory provisions, amended subpars. (D) to (F) generally, substituting “vessel, aircraft, or carrier” for “vessel or carrier” in subpar. (D) and “seaport or airport” for “port” in subpars. (E) and (F), and added subpar. (H).
@@ -4590,6 +4600,9 @@ Subsec. (d). Pub. L. 103–182, § 635(2), added subsec. (d).
 Subsec. (c). Pub. L. 98–573, § 203(2), added subsec. (c).
 
 1953—Act Aug. 8, 1953, designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–39, § 2(b), Feb. 9, 2024, 138 Stat. 16, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on the date that is 30 days after the date of the enactment of this Act [Feb. 9, 2024].”
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–295 applicable as of Dec. 8, 1993, see section 3(b) of Pub. L. 104–295, set out as a note under [section 1321 of this title](./chapter-004-tariff-act-of-1930.md#section-1321).
@@ -4959,7 +4972,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Section was enacted as part of the Synthetics Trafficking and Overdose Prevention Act of 2018, also known as the STOP Act of 2018, and also as part of the Substance Use–Disorder Prevention that Promotes Opioid Recovery and Treatment for Patients and Communities Act, also known as the SUPPORT for Patients and Communities Act, and not as part of the Tariff Act of 1930 which comprises this chapter.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-1437"></a>
@@ -5832,7 +5845,7 @@ the Customs Service may, upon application by an importer in advance, treat such 
 ### Statutory Notes
 
 #### References in Text
-The Foreign Trade Zones Act, referred to in subsec. (i)(4), is act June 18, 1934, ch. 590, 48 Stat. 998, as amended, which is classified generally to chapter 1A (§ 81a et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Foreign Trade Zones Act, referred to in subsec. (i)(4), is act June 18, 1934, ch. 590, 48 Stat. 998, which is classified generally to chapter 1A (§ 81a et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 484, 42 Stat. 960. That section was superseded by section 484 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -7694,7 +7707,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 ### Statutory Notes
 
 #### References in Text
-Title I, referred to in subsec. (g)(2)(C), means title I of act June 17, 1930, ch. 497, as amended, which contains the Harmonized Tariff Schedule of the United States and which is not set out in the Code. See notes preceding [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202) and Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
+Title I, referred to in subsec. (g)(2)(C), means title I of act June 17, 1930, ch. 497, which contains the Harmonized Tariff Schedule of the United States and which is not set out in the Code. See notes preceding [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202) and Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 #### Prior Provisions
 Provisions substantially the same, in most respects, as those in this section, were contained in act Oct. 3, 1913, ch. 16, § III, O, 38 Stat. 188, which substantially reenacted the provisions of Customs Administrative Act of June 10, 1890, ch. 407, § 16, 26 Stat. 138, as renumbered and reenacted without other change by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, § 28, 36 Stat. 100. Section III of the 1913 act was superseded and more closely assimilated to this section by act Sept. 21, 1922, ch. 356, title IV, § 508, 42 Stat. 968, and repealed by section 643 thereof. Section 508 of the 1922 act was superseded by section 509 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -8639,7 +8652,7 @@ For termination of amendment by section 501(c) of Pub. L. 100–449, see Effecti
 #### References in Text
 [Section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303), referred to in subsec. (d), is defined in [section 1677(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/26&num=0&edition=prelim) to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (g)(4)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-021-north-american-free-trade.md#section-3301) and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (g)(4)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-021-north-american-free-trade.md#section-3301) and Tables.
 
 The United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsec. (g)(4)(A), is Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, which is set out as a note under [section 2112 of this title](./chapter-012-trade-act-of-1974.md#section-2112). For complete classification of this Act to the Code, see Tables.
 
@@ -9184,7 +9197,7 @@ Section 203 of the United States–Colombia Trade Promotion Agreement Implementa
 Section 203 of the United States–Panama Trade Promotion Agreement Implementation Act, referred to in subsec. (d), is section 203 of Pub. L. 112–43, which is set out in a note under [section 3805 of this title](./chapter-024-bipartisan-trade-promotion-authority.md#section-3805).
 
 #### Codification
-Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(9) of such Act provides as follows: “Refund of excessive duties (Customs) (2x324).” See 1934 Amendment note below.
+Act June 26, 1934, ch. 756, § 2(a), 48 Stat. 1225, which was classified to section 725a of former Title 31, Money and Finance, provided for the repeal, effective July 1, 1935, of the permanent appropriations under the appropriations titles listed in section 2(b) of such Act, and further provided that such portions of any Acts as made permanent appropriations to be expended under such accounts were amended so as to authorize, in lieu thereof, annual appropriations from the general fund of the Treasury in identical terms and in such amounts as were provided by the laws providing such permanent appropriations. The text of section 2(b)(9) of such Act provides as follows: “Refund of excessive duties (Customs) (2x324).” See 1934 Amendment note below.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 520, 42 Stat. 973. That section was superseded by section 520 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -10347,7 +10360,7 @@ Provisions similar to those in this section were contained in R.S. § 3064, whic
 #### References in Text
 The Export Administration Act of 1979, referred to in subsecs. (a)(2)(D) and (c)(1)(G), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to section 2401 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering as chapter 56 (§ 4601 et seq.) of Title 50, and was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
-The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+The International Emergency Economic Powers Act, referred to in subsecs. (a)(2)(F) and (c)(1)(I), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 [Section 2332a(b) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2332a/b&num=0&edition=prelim), referred to in subsec. (c)(1)(B), does not define the term “weapon of mass destruction”. However, that term is defined elsewhere in that section.
 
@@ -10537,7 +10550,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 ### Statutory Notes
 
 #### References in Text
-The Anti-Smuggling Act, referred to in subsecs. (a) and (b), is act Aug. 5, 1935, ch. 438, 49 Stat. 517, as amended, which is classified principally to chapter 5 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see [section 1711 of this title](./chapter-005-smuggling.md#section-1711) and Tables.
+The Anti-Smuggling Act, referred to in subsecs. (a) and (b), is act Aug. 5, 1935, ch. 438, 49 Stat. 517, which is classified principally to chapter 5 (§ 1701 et seq.) of this title. For complete classification of this Act to the Code, see [section 1711 of this title](./chapter-005-smuggling.md#section-1711) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, § 588, 42 Stat. 981. That section was superseded by section 588 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
@@ -11418,7 +11431,7 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 ### Statutory Notes
 
 #### References in Text
-The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
+The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (c)(1)(C), “[section 80302 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section80302&num=0&edition=prelim)” substituted for “section 1 of the Act of August 9, 1939 (49 U.S.C. App. 781)” on authority of Pub. L. 103–272, § 6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
@@ -13290,7 +13303,7 @@ Section, act June 17, 1930, ch. 497, title IV, § 650, 46 Stat. 762, is set out 
 ### Statutory Notes
 
 #### References in Text
-The Tariff Act of 1922, referred to in subsec. (a)(1), is act Sept. 21, 1922, ch. 356, 42 Stat. 858, as amended. For complete classification of this act to the Code, see Tables. Section 304 of that act was classified, prior to its repeal, to sections 132 and 133 of this title, and section 482 of that act was classified, prior to its repeal, to sections 334 to 337, 342, and 343 of this title.
+The Tariff Act of 1922, referred to in subsec. (a)(1), is act Sept. 21, 1922, ch. 356, 42 Stat. 858. For complete classification of this act to the Code, see Tables. Section 304 of that act was classified, prior to its repeal, to sections 132 and 133 of this title, and section 482 of that act was classified, prior to its repeal, to sections 334 to 337, 342, and 343 of this title.
 
 Section 16 of the act approved June 26, 1884, referred to in subsec. (a)(2), is section 16 of act June 26, 1884, ch. 121, 23 Stat. 57, and was classified, prior to its repeal, to [section 145 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section145&num=0&edition=prelim). See [section 1309 of this title](./chapter-004-tariff-act-of-1930.md#section-1309).
 
@@ -13302,7 +13315,7 @@ Subsection 2 of paragraph N of Section IV of act of October 3, 1913, ch. 16, ref
 
 Act of March 3, 1925, referred to in subsec. (d)(4), was repealed by act Aug. 27, 1935, ch. 740, § 308, 49 Stat. 880.
 
-The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsec. (d)(5), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
 
 #### Codification
 In subsec. (d)(1), “Section 60501 or 60502 of title 46” substituted for “Subsections 1, 2, and 3 of paragraph J of Section IV of the Act entitled ‘An Act to reduce tariff duties and to provide revenue for the Government, and for other purposes,’ approved October 3, 1913 (relating to restrictions on importations in foreign vessels or through contiguous countries), as modified by the Act of March 4, 1915, chapter 171” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted sections 60501 and 60502 of Title 46, Shipping.
@@ -13348,6 +13361,9 @@ Section was not part of Tariff Act of 1930 which constitutes this chapter.
 This chapter may be cited as the “Tariff Act of 1930.”
 
 ### Statutory Notes
+
+#### Short Title of 2024 Amendment
+Pub. L. 118–39, § 1, Feb. 9, 2024, 138 Stat. 16, provided that: “This Act [amending [section 1431 of this title](./chapter-004-tariff-act-of-1930.md#section-1431)] may be cited as the ‘Moving Americans Privacy Protection Act’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–27, title V, § 501, June 29, 2015, 129 Stat. 383, provided that: “This title [amending sections 1677, 1677b, 1677e, and 1677m of this title and enacting provisions set out as a note under [section 3438 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3438&num=0&edition=prelim)] may be cited as the ‘American Trade Enforcement Effectiveness Act’.”
@@ -15722,9 +15738,9 @@ Section repealed effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573
 #### References in Text
 [Section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303), referred to in subsecs. (a)(1), (b)(1)(A), and (c)(1)(A), (6)(C)(i), is defined in [section 1677(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/26&num=0&edition=prelim) to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsecs. (a)(1), (b)(1)(A), and (c)(6)(C)(ii), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
 
-The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (c)(7)(A), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (a)(2)(B)(iii), (iv). Pub. L. 114–125 added cl. (iv), redesignated former cl. (iv) as (iii), and struck out former cl. (iii). Prior to amendment, text of cl. (iii) read as follows: “The administering authority shall, at the time a review under this subparagraph is initiated, direct the Customs Service to allow, at the option of the importer, the posting, until the completion of the review, of a bond or security in lieu of a cash deposit for each entry of the subject merchandise.”
@@ -16650,13 +16666,13 @@ For purposes of this subtitle—
 For termination of amendment by section 501(c) of Pub. L. 100–449, see Effective and Termination Dates of 1988 Amendment note below.
 
 #### References in Text
-The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701) and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in par. (7)(G)(ii)(III), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701) and Tables.
 
 The Harmonized Tariff Schedule of the United States, referred to in par. (20)(A), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
 [Section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303), referred to in pars. (20)(A), (25), and (26), was repealed, effective Jan. 1, 1995, by Pub. L. 103–465, title II, § 261(a), Dec. 8, 1994, 108 Stat. 4908. For savings provisions and treatment of references to section 1303 in other laws, see section 261(b), (d)(1)(C) of Pub. L. 103–465, set out as notes under [section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303).
 
-The Antidumping Act, 1921, referred to in par. (25), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in par. (25), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
 
 For the effective date of title II of the Uruguay Round Agreements Act, referred to in par. (26), as Jan. 1, 1995, see Effective Date of 1994 Amendment note set out under [section 1671 of this title](./chapter-004-tariff-act-of-1930.md#section-1671).
 
@@ -17788,7 +17804,7 @@ Section applicable with respect to investigations initiated by petition or by th
 #### References in Text
 [Section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303), referred to in subsec. (a)(1), is defined in [section 1677(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/26&num=0&edition=prelim) to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-The Antidumping Act, 1921, referred to in subsec. (a)(2), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsec. (a)(2), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
 
 #### Amendments
 1986—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -18046,7 +18062,7 @@ Amendment by section 261(d)(1)(B)(iv) of Pub. L. 103–465 effective on the effe
 ### Statutory Notes
 
 #### References in Text
-The Antidumping Act, 1921, referred to in subsecs. (a)(1)(A)(ii), (b)(1)(A)(ii), and (c)(1)(C), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, as amended, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
+The Antidumping Act, 1921, referred to in subsecs. (a)(1)(A)(ii), (b)(1)(A)(ii), and (c)(1)(C), is act May 27, 1921, ch. 14, title II, 42 Stat. 11, which was classified generally to sections 160 to 171 of this title, and was repealed by Pub. L. 96–39, title I, § 106(a), July 26, 1979, 93 Stat. 193.
 
 [Section 1303 of this title](./chapter-004-tariff-act-of-1930.md#section-1303), referred to in subsecs. (a)(1)(A)(iii), (b)(1)(A)(iii), (c)(1)(D), and (d)(1), is defined in [section 1677(26) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1677/26&num=0&edition=prelim) to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
@@ -18401,7 +18417,7 @@ The Secretary may provide by regulation for the submission of certifications und
 #### References in Text
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under [section 1202 of this title](./chapter-004-tariff-act-of-1930.md#section-1202).
 
-The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, as amended, also popularly known as the Lanham Act. Title I of the Act is classified generally to subchapter I (§ 1051 et seq.) of chapter 22 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) and Tables.
+The Trademark Act of 1946, referred to in subsec. (b), is act July 5, 1946, ch. 540, 60 Stat. 427, also popularly known as the Lanham Act. Title I of the Act is classified generally to subchapter I (§ 1051 et seq.) of chapter 22 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1051 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1051&num=0&edition=prelim) and Tables.
 
 Sections 1333 and 4402 of title 15, referred to in subsecs. (a)(3) and (c)(2)(B), were amended by Pub. L. 111–31, div. A, title II, §§ 201(a), 202(b), 204(a), 205(a), 206, June 22, 2009, 123 Stat. 1842, 1845, 1846, 1848, 1849, and, as so amended, sections 1333(c) and 4402(d) no longer relate to the Federal Trade Commission’s approval of a rotation plan.
 

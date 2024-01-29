@@ -1774,7 +1774,7 @@ Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2
 ## § 1562. Special provisions relating to pension
 **(a)**
 
-(1) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), a special pension at the rate of $1,388.68, as adjusted from time to time under subsection (e), beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
+(1) The Secretary shall pay monthly to each living person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll, and a copy of whose certificate has been delivered to the Secretary under subsection (d) of [section 1134a of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1134a&num=0&edition=prelim), a special pension at the rate of $1,406.73, as adjusted from time to time under subsection (e),11 See Special Benefit Allowance Rates note below. beginning as of the date on which the person’s name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll under subsection (b) of such section.
 
 (2)
 
@@ -1811,7 +1811,7 @@ Repeal applicable with respect to Medals of Honor awarded on or after Dec. 26, 2
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior sections 1601, 1602, 1621 to 1625, 1631 to 1634, 1641, and 1643, which comprised chapter 32, were renumbered sections 3201, 3202, 3221 to 3225, 3231 to 3234, 3241, and 3243 of this title, respectively. Prior section 1642, Pub. L. 94–502, title IV, § 404, Oct. 15, 1976, 90 Stat. 2397; amended Pub. L. 97–295, § 4(37), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 101–237, title IV, § 423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092, directed Secretary of Veterans Affairs and Secretary of Defense to submit a joint report annually on operations of program provided under chapter 32 of this title, prior to repeal by Pub. L. 102–16, § 5(a), Mar. 22, 1991, 105 Stat. 50.
@@ -1937,6 +1937,8 @@ Section 1698, added Pub. L. 92–540, title III, § 308, Oct. 24, 1972, 86 Stat.
 Prior section 1700, which comprised the first section of chapter 35, was renumbered [section 3500 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3500).
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–328 substituted “$1,406.73” for “$1,388.68”.
+
 2021—Subsec. (a). Pub. L. 116–315, § 2003(b)(1), designated existing provisions as par. (1) and added par. (2).
 
 Pub. L. 116–315, § 2003(a), substituted “$1,388.68” for “$1,000”.
@@ -1975,6 +1977,9 @@ Subsecs. (b), (d). Pub. L. 94–169, § 106(45), substituted “such person” f
 
 1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of [section 561 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section561&num=0&edition=prelim),” after “Medal of Honor roll”, and increased pension from $10 to $100.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. U, title IV, § 407(b)(2), Dec. 29, 2022, 136 Stat. 5495, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect as if it were enacted immediately after the enactment of the Johnny Isakson and David P. Roe, M.D. Veterans Health Care and Benefits Improvement Act of 2020 (Public Law 116–315) [approved Jan. 5, 2021].”
+
 #### Effective Date of 2021 Amendment
 Amendment by section 2003(b)(1), (2)(A) of Pub. L. 116–315 applicable with respect to payment of pension under this section for months beginning after Jan. 5, 2021, see section 2003(b)(3) of Pub. L. 116–315, set out as a note under [section 103 of this title](./chapter-001-general.md#section-103).
 
@@ -2001,3 +2006,9 @@ Pub. L. 87–138, § 4, Aug. 14, 1961, 75 Stat. 339, provided that: “The amend
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Special Benefit Allowance Rates
+For current VA special benefit allowance rates, see https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/
+
+#### Treatment of Certain Pension Payments
+Pub. L. 117–328, div. U, title IV, § 407(c), Dec. 29, 2022, 136 Stat. 5495, provided that: “(1) In general.—A payment described in paragraph (2) shall be treated as an authorized payment. “(2) Payments described.—A payment described in this paragraph is a payment of pension under [section 1562 of title 38](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1562), United States Code, by the Secretary of Veterans Affairs—“(A) in the amount of $1,406.73 during the period beginning on January 5, 2021, and ending on November 30, 2021; “(B) in the amount of $1,489.73 during the period beginning on December 1, 2021, and ending on November 30, 2022; or “(C) in the amount of $1,619.34 during the period beginning on December 1, 2022, and ending on the date of the enactment of this Act [Dec. 29, 2022].”

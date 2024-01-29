@@ -219,10 +219,18 @@ Decisions of the United States Court of Appeals for the Armed Forces may be revi
 
 ### Statutory Notes
 
+#### Amendment of Paragraphs (3) and (4)
+Pub. L. 118–31, div. A, title V, § 533(a)(1), (b), Dec. 22, 2023, 137 Stat. 261 provided that, effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with certain provisos, paragraphs (3) and (4) of this section are amended by inserting “or refused to grant” after “granted”. See 2023 Amendment note below.
+
 #### Amendments
+2023—Pars. (3), (4). Pub. L. 118–31 inserted “or refused to grant” after “granted”.
+
 1994—Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in section catchline and wherever appearing in text.
 
 1989—Pub. L. 101–189 substituted “section 867(a)(1)” for “section 867(b)(1)” in par. (1), “section 867(a)(2)” for “section 867(b)(2)” in par. (2), and “section 867(a)(3)” for “section 867(b)(3)” in par. (3).
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–31(a) effective on the date that is one year after Dec. 22, 2023, and applicable with respect to any action of the United States Court of Appeals for the Armed Forces in granting or refusing to grant a petition for review submitted to such Court for the first time on or after Dec. 22, 2023, with provisions relating to inapplicability to pending decisions and finality of decisions before effective date, see section 533(b) of Pub. L. 118–31, set out as a note under [section 867a of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section867a&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date
 Section effective on the first day of the eighth calendar month beginning after Dec. 6, 1983, see section 12(a)(1) of Pub. L. 98–209, set out as an Effective Date of 1983 Amendment note under [section 801 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section801&num=0&edition=prelim), Armed Forces.

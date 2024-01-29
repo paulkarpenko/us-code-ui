@@ -138,15 +138,19 @@ source: >-
 
 (3) **Incompatible office** — An individual appointed to the Board may not, while serving on the Board, be an elected official, officer, or employee of the Federal Government, other than in the capacity as a member of the Board.
 
-(4) **Term** — Each member of the Board shall serve a term of 6 years, except that—
+(4) **Term**
 
-  (A) a member appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term; and
+  (A) *Commencement* — Each member of the Board shall serve a term of 6 years, commencing on the date of the appointment of the member to the Board.
 
-  (B) upon the expiration of the term of office of a member, the member shall continue to serve until the member’s successor has been appointed and qualified, except that no member may serve under this subparagraph—
+  (B) *Reappointment* — A member may be reappointed to one or more additional terms.
 
-    (i) for more than 60 days when Congress is in session unless a nomination to fill the vacancy shall have been submitted to the Senate; or
+  (C) *Vacancy* — A vacancy on the Board shall be filled in the manner in which the original appointment was made.
 
-    (ii) after the adjournment sine die of the session of the Senate in which such nomination is submitted.
+  (D) *Extension* — Upon the expiration of the term of office of a member, the member may continue to serve for up to one year after the date of expiration, at the election of the member—
+
+    (i) during the period preceding the reappointment of the member pursuant to subparagraph (B); or
+
+    (ii) until the member’s successor has been appointed and qualified.
 
 (5) **Quorum and meetings** — The Board shall meet upon the call of the chairman or a majority of its members. Three members of the Board shall constitute a quorum.
 
@@ -180,7 +184,7 @@ source: >-
 
 (1) is an agency (as defined in [section 551(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551/1&num=0&edition=prelim)); and
 
-(2) is not an advisory committee (as defined in section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)).
+(2) is not an advisory committee (as defined in [section 1001(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001/2&num=0&edition=prelim)).
 
 **(m) Authorization of appropriations** There are authorized to be appropriated to carry out this section amounts as follows:
 
@@ -199,12 +203,22 @@ source: >-
 #### References in Text
 [Section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), referred to in subsec. (i)(2), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 3(2) of the Federal Advisory Committee Act, referred to in subsec. (l)(2), is section 3(2) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was formerly set out as a note under [section 601 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (h)(4). Pub. L. 117–263, § 6801, amended par. (4) generally. Prior to amendment, text read as follows: “Each member of the Board shall serve a term of 6 years, except that—
+
+“(A) a member appointed to a term of office after the commencement of such term may serve under such appointment only for the remainder of such term; and
+
+“(B) upon the expiration of the term of office of a member, the member shall continue to serve until the member’s successor has been appointed and qualified, except that no member may serve under this subparagraph—
+
+“(i) for more than 60 days when Congress is in session unless a nomination to fill the vacancy shall have been submitted to the Senate; or
+
+“(ii) after the adjournment sine die of the session of the Senate in which such nomination is submitted.”
+
+Subsec. (l)(2). Pub. L. 117–286 substituted “[section 1001(2) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001/2&num=0&edition=prelim)).” for “section 3(2) of the Federal Advisory Committee Act (5 U.S.C. App.)).”
+
 2018—Subsec. (f). Pub. L. 115–118, § 108(b)(1), substituted “The Board” for “The Board shall” in introductory provisions.
 
 Subsec. (f)(1). Pub. L. 115–118, § 108(b)(2), substituted “shall make its” for “make its”.
@@ -218,7 +232,7 @@ Subsec. (j)(2) to (4). Pub. L. 115–118, § 108(a), added par. (2) and redesign
 2007—Pub. L. 110–53 amended section generally, substituting provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (m), for provisions relating to Privacy and Civil Liberties Oversight Board, consisting of subsecs. (a) to (l).
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2007 Amendment
 Pub. L. 110–53, title VIII, § 801(d), Aug. 3, 2007, 121 Stat. 358, provided that: “(1) In general.—The amendments made by subsection (a) and subsection (b) [amending this section] shall take effect 180 days after the date of enactment of this Act [Aug. 3, 2007]. “(2) Transition provisions.—Subsection (c) [enacting provisions set out as a note under this section] shall take effect on the date of enactment of this Act.”
@@ -361,7 +375,7 @@ George W. Bush.
 
 **(f) Periodic reports**
 
-(1) **In general** — The privacy officers and civil liberties officers of each department, agency, or element referred to or described in subsection (a) or (b) shall periodically, but not less than semiannually, submit a report on the activities of such officers—
+(1) **In general** — The privacy officers and civil liberties officers of each department, agency, or element referred to or described in subsection (a) or (b) shall periodically, but not less than annually, submit a report on the activities of such officers—
 
   (A)
 
@@ -394,6 +408,8 @@ George W. Bush.
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (f)(1). Pub. L. 117–263 substituted “annually” for “semiannually” in introductory provisions.
+
 2018—Subsec. (a). Pub. L. 115–118 inserted “, the Director of the National Security Agency, the Director of the Federal Bureau of Investigation” after “the Director of the Central Intelligence Agency” in introductory provisions.
 
 2014—Subsec. (f)(1). Pub. L. 113–126 substituted “semiannually” for “quarterly” in introductory provisions.
@@ -401,7 +417,7 @@ George W. Bush.
 2007—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: “It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer.”
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-2000ee-2"></a>
@@ -460,7 +476,7 @@ Section was formerly set out as a note under [section 552a of Title 5](https://u
 2007—Subsec. (d). Pub. L. 110–161 added subsec. (d) and struck out former subsec. (d) which related to independent, third-party reviews.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Ex. Ord. No. 13719. Establishment of the Federal Privacy Council
 Ex. Ord. No. 13719, Feb. 9, 2016, 81 F.R. 7961, provided:

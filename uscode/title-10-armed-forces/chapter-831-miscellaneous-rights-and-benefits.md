@@ -116,7 +116,7 @@ Amendment by section 922 of Pub. L. 98–94 effective Oct. 1, 1983, see section 
 Amendment by section 923 of Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under [section 1174 of this title](./chapter-059-separation.md#section-1174).
 
 #### Effective Date of 1980 Amendment
-Amendment by section 503(45) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 503(45) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1963 Amendment
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.

@@ -463,7 +463,7 @@ Barack Obama.
 
 **(k) Funding**
 
-(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2023.
+(1) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall use to carry out this section $3,000,000 for each of fiscal years 2014 through 2024.
 
 (2) **Discretionary funding** — There is authorized to be appropriated to carry out this section $3,000,000 for each of fiscal years 2019 through 2023.
 
@@ -485,6 +485,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8102, Pub. L. 107–171, title IX, § 9002, May 13, 2002, 116 Stat. 476; Pub. L. 109–58, title II, § 205, title IX, § 943(a)(2), (b), Aug. 8, 2005, 119 Stat. 654, 880, 881, related to Federal procurement of biobased products, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2023—Subsec. (k)(1). Pub. L. 118–22 substituted “2024” for “2023”.
+
 2018—Subsec. (b)(2)(A)(iii). Pub. L. 115–334, § 9002(1), added cl. (iii).
 
 Subsec. (f). Pub. L. 115–334, § 9002(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary shall establish a national registry of testing centers for biobased products that will serve biobased product manufacturers.”
@@ -532,6 +534,9 @@ Subsec. (i)(1), (2). Pub. L. 113–79, § 9002(a)(6), added pars. (1) and (2) an
 Subsec. (j). Pub. L. 113–79, § 9002(a)(7), added subsec. (j).
 
 2013—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -747,7 +752,7 @@ Barack Obama.
 
 **(j) USDA assistance for rural electric cooperatives**
 
-(1) **Appropriation** — Notwithstanding subsections (a) through (e) and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $9,700,000,000, to remain available until September 30, 2031, for the long-term resiliency, reliability, and affordability of rural electric systems by providing to an eligible entity (defined as an electric cooperative described in section 501(c)(12) or 1381(a)(2) of title 26 and is or has been a Rural Utilities Service electric loan borrower pursuant to the Rural Electrification Act of 1936 or serving a predominantly rural area or a wholly or jointly owned subsidiary of such electric cooperative) loans, modifications of loans, the cost of loans and modifications, and other financial assistance to achieve the greatest reduction in carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems through the purchase of renewable energy, renewable energy systems, zero-emission systems, and carbon capture and storage systems, to deploy such systems, or to make energy efficiency improvements to electric generation and transmission systems of the eligible entity after August 16, 2022.
+(1) **Appropriation** — Notwithstanding subsections (a) through (e) and (g), in addition to amounts otherwise available, there is appropriated to the Secretary for fiscal year 2022, out of any money in the Treasury not otherwise appropriated, $9,700,000,000, to remain available until September 30, 2031, for the long-term resiliency, reliability, and affordability of rural electric systems by providing to an eligible entity (defined as an electric cooperative described in section 501(c)(12) or 1381(a)(2) of title 26 and is or has been a Rural Utilities Service electric loan borrower pursuant to the Rural Electrification Act of 1936 [[7 U.S.C. 901](./chapter-031-rural-electrification-and-telephone-service.md#section-901) et seq.] or serving a predominantly rural area or a wholly or jointly owned subsidiary of such electric cooperative) loans, modifications of loans, the cost of loans and modifications, and other financial assistance to achieve the greatest reduction in carbon dioxide, methane, and nitrous oxide emissions associated with rural electric systems through the purchase of renewable energy, renewable energy systems, zero-emission systems, and carbon capture and storage systems, to deploy such systems, or to make energy efficiency improvements to electric generation and transmission systems of the eligible entity after August 16, 2022.
 
 (2) **Limitation** — No eligible entity may receive an amount equal to more than 10 percent of the total amount made available by this subsection.
 
@@ -880,7 +885,7 @@ A prior section 8104, Pub. L. 107–171, title IX, § 9004, May 13, 2002, 116 St
 
   (E) $15,000,000 for each of fiscal years 2014 through 2018; and
 
-  (F) $7,000,000 for each of fiscal years 2019 through 2023.
+  (F) $7,000,000 for each of fiscal years 2019 through 2024.
 
 (2) **Discretionary funding** — In addition to any other funds made available to carry out this section, there is authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 2019 through 2023.
 
@@ -895,6 +900,8 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 8105, Pub. L. 107–171, title IX, § 9005, May 13, 2002, 116 Stat. 480, related to an energy audit and renewable energy development program, prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2023—Subsec. (g)(1)(F). Pub. L. 118–22 substituted “2024” for “2023”.
+
 2018—Subsec. (e). Pub. L. 115–334, § 9005(1), designated existing provisions as par. (1), inserted heading, substituted “The Secretary shall” for “The Secretary may” and added par. (2).
 
 Subsec. (g)(1)(F). Pub. L. 115–334, § 9005(2)(A), added subpar. (F).
@@ -906,6 +913,9 @@ Subsec. (g)(2). Pub. L. 115–334, § 9005(2)(B), substituted “2019 through 20
 Subsec. (g)(2). Pub. L. 113–79, § 9005(2), substituted “$20,000,000 for each of fiscal years 2014 through 2018” for “$25,000,000 for each of fiscal years 2009 through 2013”.
 
 2013—Subsec. (g)(2). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
@@ -1625,7 +1635,7 @@ A prior section 8109, Pub. L. 107–171, title IX, § 9011, as added Pub. L. 108
 
 (1) **In general**
 
-  (A) *Purchases and sales* — For each of the 2008 through 2023 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that [section 7272 of this title](./chapter-100-agricultural-market-transition.md#section-7272) is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
+  (A) *Purchases and sales* — For each of the 2008 through 2024 crops, the Secretary shall purchase eligible commodities from eligible entities and sell such commodities to bioenergy producers for the purpose of producing bioenergy in a manner that ensures that [section 7272 of this title](./chapter-100-agricultural-market-transition.md#section-7272) is operated at no cost to the Federal Government by avoiding forfeitures to the Commodity Credit Corporation.
 
   (B) *Competitive procedures* — In carrying out the purchases and sales required under subparagraph (A), the Secretary shall, to the maximum extent practicable, use competitive procedures, including the receiving, offering, and accepting of bids, when entering into contracts with eligible entities and bioenergy producers, provided that such procedures are consistent with the purposes of subparagraph (A).
 
@@ -1633,7 +1643,7 @@ A prior section 8109, Pub. L. 107–171, title IX, § 9011, as added Pub. L. 108
 
 (2) **Notice**
 
-  (A) *In general* — As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2023, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
+  (A) *In general* — As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2024, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
 
   (B) *Reestimates* — Not later than the January 1, April 1, and July 1 of the calendar year following the date of a notice under subparagraph (A), the Secretary shall reestimate the quantity of eligible commodities determined under subparagraph (A), and provide notice and make purchases and sales based on such reestimates.
 
@@ -1687,11 +1697,16 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 A prior section 9010 of Pub. L. 107–171 was classified to [section 8108 of this title](./chapter-107-renewable-energy-research-and-development.md#section-8108), prior to the general amendment of this chapter by Pub. L. 110–246.
 
 #### Amendments
+2023—Subsec. (b)(1)(A), (2)(A). Pub. L. 118–22 substituted “2024” for “2023”.
+
 2018—Subsec. (b)(1)(A), (2)(A). Pub. L. 115–334 substituted “2023” for “2018”.
 
 2014—Subsec. (b)(1)(A), (2)(A). Pub. L. 113–79 substituted “2018” for “2013”.
 
 2013—Subsec. (b)(1)(A), (2)(A). Pub. L. 112–240 substituted “2013” for “2012”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
 
 #### Effective Date of 2013 Amendment
 Amendment by Pub. L. 112–240 effective Sept. 30, 2012, see section 701(j) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).

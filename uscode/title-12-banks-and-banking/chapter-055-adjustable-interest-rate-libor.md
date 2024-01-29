@@ -220,7 +220,7 @@ in each case after giving effect to the provisions of [section 5803 of this titl
 
 (2) prejudice, impair, or affect the rights, interests, or obligations of any person under or with respect to any LIBOR contract.
 
-**(e) No negative inference** Except as provided in subsections (a), (b), or (c)(1) of [section 5803 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5803), nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
+**(e) No negative inference** Except as provided in subsections 33 So in original. Probably should be “subsection”. (a), (b), or (c)(1) of [section 5803 of this title](./chapter-055-adjustable-interest-rate-libor.md#section-5803), nothing in this chapter may be construed to create any negative inference or negative presumption regarding the validity or enforceability of—
 
 (1) any benchmark replacement (including any method for calculating, determining, or implementing an adjustment to the benchmark replacement to account for any historical differences between LIBOR and the benchmark replacement) that is not a Board-selected benchmark replacement; or
 

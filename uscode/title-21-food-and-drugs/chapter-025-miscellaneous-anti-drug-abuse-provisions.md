@@ -30,11 +30,11 @@ source: >-
 
 (3) implement anti-doping education, research, testing, and adjudication programs to prevent United States Amateur Athletes participating in any activity recognized by the United States Olympic Committee from using performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency;
 
-(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency.
+(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes, and the prevention of use by United States amateur athletes of performance-enhancing drugs or prohibited performance-enhancing methods adopted by the Agency; and
 
 (5) promote a positive youth sport experience by using a portion of the funding of the United States Anti-Doping Agency to provide educational materials on sportsmanship, character building, and healthy performance for the athletes, parents, and coaches who participate in youth sports.
 
-**(c) Due Process in arbitration proceedings** Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.
+**(c) Due process in arbitration proceedings** Any action taken by the United States Anti-Doping Agency to enforce a policy, procedure, or requirement of the United States Anti-Doping Agency against a person with respect to a violation of Federal law, including an investigation, a disciplinary action, a sanction, or any other administrative action, shall be carried out in a manner that provides due process protection to the person.
 
 ### Statutory Notes
 
@@ -44,7 +44,7 @@ The Ted Stevens Olympic and Amateur Sports Act, referred to in subsec. (a)(1), i
 #### Amendments
 2022—Subsec. (b)(1). Pub. L. 117–103, § 303(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “serve as the independent anti-doping organization for the amateur athletic competitions recognized by the United States Olympic Committee and be recognized worldwide as the independent national anti-doping organization for the United States;”.
 
-Subsec. (b)(5). Pub. L. 117–103, § 303(1)(B), added par. (5).
+Subsec. (b)(5). Pub. L. 117–103, § 303(1)(B), (C), added par. (5).
 
 Subsec. (c). Pub. L. 117–103, § 303(2), added subsec. (c).
 

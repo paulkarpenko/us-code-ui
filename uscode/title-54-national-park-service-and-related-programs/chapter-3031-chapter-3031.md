@@ -24,7 +24,7 @@ The words “(except chapter 3041) and chapter 3121” are added for clarity. Th
 <a id="section-303102"></a>
 ## § 303102. Funding
 
-For each of fiscal years 2012 to 2023, $150,000,000 shall be deposited in the Historic Preservation Fund from revenues due and payable to the United States under section 9 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1338](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1338&num=0&edition=prelim)), [section 8733(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8733/b&num=0&edition=prelim), or both, notwithstanding any provision of law that those proceeds shall be credited to miscellaneous receipts of the Treasury.
+For each of fiscal years 2012 to 2023,11 See Application of Section note below. $150,000,000 shall be deposited in the Historic Preservation Fund from revenues due and payable to the United States under section 9 of the Outer Continental Shelf Lands Act ([43 U.S.C. 1338](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1338&num=0&edition=prelim)), [section 8733(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8733/b&num=0&edition=prelim), or both, notwithstanding any provision of law that those proceeds shall be credited to miscellaneous receipts of the Treasury.
 
 ### Statutory Notes
 
@@ -42,6 +42,9 @@ Reference to fiscal years 1977–2011 is omitted as obsolete.
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3001&num=0&edition=prelim), Armed Forces.
+
+#### Application of Section
+Pub. L. 118–42, div. E, title I, § 122, Mar. 9, 2024, 138 Stat. 249, provided that: “[Section 303102 of title 54](./chapter-3031-chapter-3031.md#section-303102), United States Code, shall be applied by substituting ‘fiscal year 2024’ for ‘fiscal year 2023’.”
 
 
 <a id="section-303103"></a>

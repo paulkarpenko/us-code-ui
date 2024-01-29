@@ -266,17 +266,35 @@ Pub. L. 109–461, title II, § 204(c), Dec. 22, 2006, 120 Stat. 3411, provided 
 
 <a id="section-5702"></a>
 ## § 5702. Furnishing of records
-**(a)** Any person desiring a copy of any record, paper, and so forth, in the custody of the Secretary that may be disclosed under [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701) must submit to the Secretary an application in writing for such copy. The application shall state specifically—
+**(a)** Any person desiring a copy of any record, paper, and so forth, in the custody of the Secretary that may be disclosed under [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701) must submit to the Secretary an application in writing, including an electronic request submitted through the website or online tool established under subsection (b), for such copy. The application shall state specifically—
 
-(1) the particular record, paper, and so forth, a copy of which is desired and whether certified or uncertified; and
+(1) the particular record, paper, and so forth, a copy of which is desired and whether certified or uncertified;
 
-(2) the purpose for which such copy is desired to be used.
+(2) the purpose for which such copy is desired to be used; and
 
-**(b)** The Secretary may establish a schedule of fees for copies and certification of such records.
+(3) the format in which such copy is desired, including whether in printed form or by downloadable file.
+
+**(b)**
+
+(1) The Secretary shall establish and maintain a secure website or online tool for a claimant or a duly recognized agent or representative of that claimant to submit an electronic request for such records.
+
+(2) The Secretary, upon receipt of a valid request made through the website or online tool established under paragraph (1), shall provide to the requestor—
+
+  (A) not later than 10 days after receipt, confirmation of such receipt; and
+
+  (B) not later than 120 days after receipt, such records requested in the form selected by the requestor.
+
+**(c)** The Secretary may establish a schedule of fees for copies and certification of such records.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–21, § 2(b)(1), substituted “in writing, including an electronic request submitted through the website or online tool established under subsection (b),” for “in writing” in introductory provisions.
+
+Subsec. (a)(3). Pub. L. 118–21, § 2(b)(2)–(4), added par. (3).
+
+Subsecs. (b), (c). Pub. L. 118–21, § 2(a), added subsec. (b) and redesignated former subsec. (b) as (c).
+
 1994—Pub. L. 103–446, § 1201(e)(16)(A), (B), inserted “(a)” before “Any person desiring” and substituted “custody of the Secretary that may be disclosed under [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701) must submit to the Secretary an application in writing for such copy. The application shall state” for “custody of the Secretary, which may be disclosed under [section 5701 of this title](./chapter-057-records-and-investigations.md#section-5701), must make written application therefor to the Secretary, stating”.
 
 Subsec. (b). Pub. L. 103–446, § 1201(e)(16)(C), which directed amendment of subsec. (c) by substituting “may establish” for “is authorized to fix”, was executed to subsec. (b) to reflect the probable intent of Congress, because the language sought to be amended appears in subsec. (b) and this section does not contain a subsec. (c).
@@ -288,6 +306,9 @@ Pub. L. 102–83, § 4(a)(2)(A)(xii), which directed amendment of subsec. (a) of
 Pub. L. 102–40, § 402(d)(1), substituted “5701” for “3301” in undesignated first par.
 
 Subsec. (b). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator”.
+
+#### Deadline; Establishment of Website or Online Tool
+Pub. L. 118–21, § 2(c), Nov. 13, 2023, 137 Stat. 109, provided that: “Not later than one year after the date of the enactment of this Act [Nov. 13, 2023], the Secretary of Veterans Affairs shall establish the website or online tool required under [section 5702(b)(1) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5702/b/1&num=0&edition=prelim), United States Code, as added by this Act, and, to the extent practicable, the Secretary shall utilize existing online resources of the Department of Veterans Affairs for the purposes of such establishment.”
 
 
 <a id="section-5703"></a>
@@ -702,6 +723,9 @@ Pub. L. 109–461, title IX, § 902(c), Dec. 22, 2006, 120 Stat. 3460, provided 
 
 #### Amendments
 2010—Subsec. (g)(2). Pub. L. 111–275 inserted “the” before “Department”.
+
+#### Change of Name
+Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-5724"></a>

@@ -241,7 +241,29 @@ In this subtitle—
 
 (44) “Secretary” means the Secretary of the department in which the Coast Guard is operating.
 
-(45) “small passenger vessel” means a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and a vessel of less than 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)—
+(45) “sexual assault” means any form of abuse or contact as defined in chapter 109A of title 18, or a substantially similar offense under State, local, or Tribal law.
+
+(46) “sexual harassment” means—
+
+  (A) conduct that—
+
+    (i) involves unwelcome sexual advances, requests for sexual favors, or deliberate or repeated offensive comments or gestures of a sexual nature if any—
+
+      (I) submission to such conduct is made either explicitly or implicitly a term or condition of employment, pay, career, benefits, or entitlements of the individual;
+
+      (II) submission to, or rejection, of such conduct by an individual is used as a basis for decisions affecting that individual’s job, pay, career, benefits, or entitlements;
+
+      (III) such conduct has the purpose or effect of unreasonably interfering with an individual’s work performance or creates an intimidating, hostile, or offensive work environment; or
+
+      (IV) conduct may have been by an individual’s supervisor, a supervisor in another area, a co-worker, or another credentialed mariner; and
+
+    (ii) is so severe or pervasive that a reasonable person would perceive, and the victim does perceive, the environment as hostile or offensive;
+
+  (B) any use or condonation associated with first-hand or personal knowledge, by any individual in a supervisory or command position, of any form of sexual behavior to control, influence, or affect the career, pay, benefits, entitlements, or employment of a subordinate; and
+
+  (C) any intentional or repeated unwelcome verbal comment or gesture of a sexual nature towards or about an individual by the individual’s supervisor, a supervisor in another area, a coworker, or another credentialed mariner.
+
+(47) “small passenger vessel” means a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and a vessel of less than 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)—
 
   (A) carrying more than 6 passengers, including at least one passenger for hire;
 
@@ -253,13 +275,13 @@ In this subtitle—
 
   (E) that is a ferry carrying more than 6 passengers.
 
-(46) “steam vessel” means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length.
+(48) “steam vessel” means a vessel propelled in whole or in part by steam, except a recreational vessel of not more than 40 feet in length.
 
-(47) “submersible vessel” means a vessel that is capable of operating below the surface of the water.
+(49) “submersible vessel” means a vessel that is capable of operating below the surface of the water.
 
-(48) “tanker” means a self-propelled tank vessel constructed or adapted primarily to carry oil or hazardous material in bulk in the cargo spaces.
+(50) “tanker” means a self-propelled tank vessel constructed or adapted primarily to carry oil or hazardous material in bulk in the cargo spaces.
 
-(49) “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
+(51) “tank vessel” means a vessel that is constructed or adapted to carry, or that carries, oil or hazardous material in bulk as cargo or cargo residue, and that—
 
   (A) is a vessel of the United States;
 
@@ -267,9 +289,9 @@ In this subtitle—
 
   (C) transfers oil or hazardous material in a port or place subject to the jurisdiction of the United States.
 
-(50) “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
+(52) “towing vessel” means a commercial vessel engaged in or intending to engage in the service of pulling, pushing, or hauling along side, or any combination of pulling, pushing, or hauling along side.
 
-(51) “uninspected passenger vessel” means an uninspected vessel—
+(53) “uninspected passenger vessel” means an uninspected vessel—
 
   (A) of at least 100 gross tons as measured under [section 14502 of this title](./chapter-145-regulatory-measurement.md#section-14502), or an alternate tonnage measured under [section 14302 of this title](./chapter-143-convention-measurement.md#section-14302) as prescribed by the Secretary under [section 14104 of this title](./chapter-141-general.md#section-14104)—
 
@@ -283,9 +305,9 @@ In this subtitle—
 
     (ii) that is chartered with the crew provided or specified by the owner or the owner’s representative and carrying not more than 6 passengers.
 
-(52) “uninspected vessel” means a vessel not subject to inspection under [section 3301 of this title](./chapter-033-inspection-generally.md#section-3301) that is not a recreational vessel.
+(54) “uninspected vessel” means a vessel not subject to inspection under [section 3301 of this title](./chapter-033-inspection-generally.md#section-3301) that is not a recreational vessel.
 
-(53) “vessel of war” means a vessel—
+(55) “vessel of war” means a vessel—
 
   (A) belonging to the armed forces of a country;
 
@@ -295,7 +317,7 @@ In this subtitle—
 
   (D) staffed by a crew under regular armed forces discipline.
 
-(54) “wing-in-ground craft” means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water’s surface.
+(56) “wing-in-ground craft” means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water’s surface.
 
 ### Statutory Notes
 
@@ -443,6 +465,8 @@ Section 2101(46) defines “vessel of the United States” as a vessel that is d
 Presidential Proclamation No. 5928, referred to in par. (23), is set out under [section 1331 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1331&num=0&edition=prelim), Public Lands.
 
 #### Amendments
+2022—Pars. (45) to (56). Pub. L. 117–263 added pars. (45) and (46) and redesignated former pars. (45) to (54) as (47) to (56), respectively.
+
 2018—Pub. L. 115–232 added undesignated par. defining “Commandant” after par. (4), substituted period for semicolon at end of par. (14), and redesignated pars. (1) to (48) as (1) to (54), respectively.
 
 Par. (41). Pub. L. 115–282 designated existing provisions as subpar. (A), inserted “Subject to subparagraph (B),” before “ ‘scientific personnel’ ” and added subpar. (B).
@@ -972,7 +996,7 @@ If the Secretary decides that the application of a provision of part B, C, F, or
 
 (2) exempt an oceanographic research vessel from that provision under conditions the Secretary may specify;
 
-(3) establish different operating and equipment requirements for vessels defined in [section 2101(51)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/51/A&num=0&edition=prelim); and
+(3) establish different operating and equipment requirements for vessels defined in [section 2101(53)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section2101/53/A&num=0&edition=prelim); and
 
 (4) maintain different structural fire protection, manning, operating, and equipment requirements for vessels that satisfied requirements set forth in the Passenger Vessel Safety Act of 1993 (Public Law 103–206) before June 21, 1994.
 
@@ -989,6 +1013,8 @@ Section 2113 provides the Secretary with the authority to exempt certain vessels
 The Passenger Vessel Safety Act of 1993, referred to in par. (4), is Pub. L. 103–206, title V, Dec. 20, 1993, 107 Stat. 2439. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under [section 101 of this title](./chapter-001-definitions.md#section-101) and Tables.
 
 #### Amendments
+2022—Par. (3). Pub. L. 117–263 substituted “section 2101(53)(A)” for “section 2101(51)(A)”.
+
 2018—Par. (3). Pub. L. 115–232, § 3541(b)(6), substituted “section 2101(51)(A)” for “section 2101(42)(A)”.
 
 Par. (4). Pub. L. 115–232, § 3542(a), added par. (4) and struck out former par. (4) which related to establishing different structural fire protection, manning, operating, and equipment requirements for vessels between 100 gross tons and 300 gross tons.
@@ -1017,27 +1043,33 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
   (A) the seaman in good faith has reported or is about to report to the Coast Guard or other appropriate Federal agency or department that the seaman believes that a violation of a maritime safety law or regulation prescribed under that law or regulation has occurred;
 
-  (B) the seaman has refused to perform duties ordered by the seaman’s employer because the seaman has a reasonable apprehension or expectation that performing such duties would result in serious injury to the seaman, other seamen, or the public;
+  (B) the seaman in good faith has reported or is about to report to the vessel owner, Coast Guard or other appropriate Federal agency or department sexual harassment or sexual assault against the seaman or knowledge of sexual harassment or sexual assault against another seaman;
 
-  (C) the seaman testified in a proceeding brought to enforce a maritime safety law or regulation prescribed under that law;
+  (C) the seaman has refused to perform duties ordered by the seaman’s employer because the seaman has a reasonable apprehension or expectation that performing such duties would result in serious injury to the seaman, other seamen, or the public;
 
-  (D) the seaman notified, or attempted to notify, the vessel owner or the Secretary of a work-related personal injury or work-related illness of a seaman;
+  (D) the seaman testified in a proceeding brought to enforce a maritime safety law or regulation prescribed under that law;
 
-  (E) the seaman cooperated with a safety investigation by the Secretary or the National Transportation Safety Board;
+  (E) the seaman notified, or attempted to notify, the vessel owner or the Secretary of a work-related personal injury or work-related illness of a seaman;
 
-  (F) the seaman furnished information to the Secretary, the National Transportation Safety Board, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
+  (F) the seaman cooperated with a safety investigation by the Secretary or the National Transportation Safety Board;
 
-  (G) the seaman accurately reported hours of duty under this part.
+  (G) the seaman furnished information to the Secretary, the National Transportation Safety Board, or any other public official as to the facts relating to any marine casualty resulting in injury or death to an individual or damage to property occurring in connection with vessel transportation; or
 
-(2) The circumstances causing a seaman’s apprehension of serious injury under paragraph (1)(B) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury or serious impairment of health resulting from the performance of duties as ordered by the seaman’s employer.
+  (H) the seaman accurately reported hours of duty under this part.
 
-(3) To qualify for protection against the seaman’s employer under paragraph (1)(B), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
+(2) The circumstances causing a seaman’s apprehension of serious injury under paragraph (1)(C) must be of such a nature that a reasonable person, under similar circumstances, would conclude that there is a real danger of an injury or serious impairment of health resulting from the performance of duties as ordered by the seaman’s employer.
+
+(3) To qualify for protection against the seaman’s employer under paragraph (1)(C), the employee must have sought from the employer, and been unable to obtain, correction of the unsafe condition.
 
 **(b)** A seaman alleging discharge or discrimination in violation of subsection (a) of this section, or another person at the seaman’s request, may file a complaint with respect to such allegation in the same manner as a complaint may be filed under subsection (b) of [section 31105 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31105&num=0&edition=prelim). Such complaint shall be subject to the procedures, requirements, and rights described in that section, including with respect to the right to file an objection, the right of a person to file for a petition for review under subsection (c) of that section, and the requirement to bring a civil action under subsection (d) of that section.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1)(B) to (H). Pub. L. 117–263, § 11605(1), added subpar. (B) and redesignated former subpars. (B) to (G) as (C) to (H), respectively.
+
+Subsec. (a)(2), (3). Pub. L. 117–263, § 11605(2), substituted “paragraph (1)(C)” for “paragraph (1)(B)”.
+
 2010—Subsec. (a)(1)(C) to (G). Pub. L. 111–281, § 611(a)(1)–(3), added subpars. (C) to (G).
 
 Subsec. (b). Pub. L. 111–281, § 611(a)(4), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “A seaman discharged or otherwise discriminated against in violation of this section may bring an action in an appropriate district court of the United States. In that action, the court may order any appropriate relief, including—

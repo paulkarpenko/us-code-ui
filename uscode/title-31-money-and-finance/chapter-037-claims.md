@@ -2361,7 +2361,7 @@ Pub. L. 99–145, title IX, § 931(b), Nov. 8, 1985, 99 Stat. 699, provided that
 
   (A) No court shall have jurisdiction over an action brought under subsection (b) against a Member of Congress, a member of the judiciary, or a senior executive branch official if the action is based on evidence or information known to the Government when the action was brought.
 
-  (B) For purposes of this paragraph, “senior executive branch official” means any officer or employee listed in paragraphs (1) through (8) of section 101(f) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+  (B) For purposes of this paragraph, “senior executive branch official” means any officer or employee listed in paragraphs (1) through (8) of [section 13103(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103/f&num=0&edition=prelim).
 
 (3) In no event may a person bring an action under subsection (b) which is based upon allegations or transactions which are the subject of a civil suit or an administrative civil money penalty proceeding in which the Government is already a party.
 
@@ -2425,9 +2425,9 @@ Subsection (d) is substituted for 31:232(B)(words between 3d and 4th commas) and
 #### References in Text
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(2), (3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Section 101(f) of the Ethics in Government Act of 1978, referred to in subsec. (e)(2)(B), is section 101(f) of Pub. L. 95–521, title I, Oct. 26, 1978, 92 Stat. 1824, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (e)(2)(B). Pub. L. 117–286 substituted “[section 13103(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103/f&num=0&edition=prelim).” for “section 101(f) of the Ethics in Government Act of 1978 (5 U.S.C. App.).”
+
 2010—Subsec. (e)(4). Pub. L. 111–148 added par. (4) and struck out former par. (4) which read as follows:
 
 “(4)(A) No court shall have jurisdiction over an action under this section based upon the public disclosure of allegations or transactions in a criminal, civil, or administrative hearing, in a congressional, administrative, or Government Accounting Office report, hearing, audit, or investigation, or from the news media, unless the action is brought by the Attorney General or the person bringing the action is an original source of the information.

@@ -153,7 +153,7 @@ Pub. L. 88–560, title III, § 301(d), Sept. 2, 1964, 78 Stat. 785, provided th
 Act Aug. 2, 1954, ch. 649, title III, § 312, 68 Stat. 629, as amended by Pub. L. 90–19, § 10(a), May 25, 1967, 81 Stat. 22, provided that notwithstanding the amendments by title III of the 1954 Act to this subchapter, the Secretary of Housing and Urban Development was required to continue to extend financial assistance for the completion of any project covered by any Federal aid contract executed, or prior approval granted, by him under this subchapter before Aug. 2, 1954, in accordance with the provisions of this subchapter in force immediately prior to Aug. 2, 1954.
 
 #### Executive Order No. 12075
-Ex. Ord. No. 12075, Aug. 16, 1978, 43 F.R. 36877, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Interagency Coordinating Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 14, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12075, Aug. 16, 1978, 43 F.R. 36877, as amended by Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Interagency Coordinating Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 14, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1451a"></a>
@@ -1865,6 +1865,45 @@ Amendment by act Aug. 7, 1956, effective July 1, 1956, see section 606(d) of act
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–328, div. AA, title VI, § 601(e)(1), (h), Dec. 29, 2022, 136 Stat. 5546, 5548, provided that, effective two years after Dec. 29, 2022, this section is amended by adding at the end the following:
+
+(k) Qualifying smoke alarms
+
+(1) In general
+
+Housing and related facilities constructed with loans under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+(2) Definitions
+
+For purposes of this subsection, the following definitions shall apply:
+
+(A) Smoke alarm defined
+
+The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+(B) Qualifying smoke alarm defined
+
+The term “qualifying smoke alarm” means a smoke alarm that—
+
+(i) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+(I)(aa) is hardwired; or
+
+(bb) uses 10-year non rechargeable, nonreplaceable primary batteries and—
+
+(AA) is sealed;
+
+(BB) is tamper resistant; and
+
+(CC) contains silencing means; and
+
+(II) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+(ii) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
+See 2022 Amendment note below.
+
 #### References in Text
 Sections 1005a and 1005c(a), (b), and (c) of title 7, referred to in subsec. (b), were repealed by section 341(a) of Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 318 (set out as a note under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim), Agriculture), which also provided that references in other laws to the Bankhead-Jones Farm Tenant Act shall be construed as referring to appropriate provisions of section 1921 et seq. of Title 7. The fund established pursuant to [section 1005a of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1005a&num=0&edition=prelim) was renamed the Agricultural Credit Insurance Fund. See [section 1929 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1929&num=0&edition=prelim).
 
@@ -1874,6 +1913,8 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 Another section 801(b) of Pub. L. 91–609 amended [section 1460(c)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1460/c/1&num=0&edition=prelim).
 
 #### Amendments
+2022—Subsec. (k). Pub. L. 117–328 added subsec. (k).
+
 2020—Subsec. (j). Pub. L. 116–260 added subsec. (j).
 
 2018—Subsec. (f)(3)(A). Pub. L. 115–141 substituted “United States,” for “United States” and inserted “, or a person legally admitted to the United States and authorized to work in agriculture” before semicolon at end.
@@ -1916,11 +1957,17 @@ Subsec. (f)(1), (2). Pub. L. 91–609, § 801(c), substituted “structures (inc
 
 1964—Subsec. (f)(3). Pub. L. 88–560 included residents of the United States after being legally admitted for permanent residence.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective 2 years after Dec. 29, 2022, see section 601(h) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
 
+#### Construction of 2022 Amendment
+Nothing in amendment made by Pub. L. 117–328 to be construed to preempt or limit applicability of certain State or local laws relating to smoke alarms, see section 601(i) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
 #### Construction of 2020 Amendment
-Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of div. Q of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
 
 
 <a id="section-1485"></a>
@@ -2168,6 +2215,31 @@ After August 6, 1996, the ownership or control of a project for which a loan is 
 
 ### Statutory Notes
 
+#### Amendment of Subsection (m)
+Pub. L. 117–328, div. AA, title VI, § 601(e)(2), (h), Dec. 29, 2022, 136 Stat. 5547, 5548, provided that, effective two years after Dec. 29, 2022, subsection (m) of this section is amended by adding at the end the following:
+
+(3) Qualifying Smoke Alarms
+
+(A) In general.—Housing and related facilities rehabilitated or repaired with amounts received under a loan made or insured under this section shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.
+
+(B) Definitions.—For purposes of this paragraph, the following definitions shall apply:
+
+(i) Smoke alarm defined.—The term “smoke alarm” has the meaning given the term “smoke detector” in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim).
+
+(ii) Qualifying smoke alarm defined.—The term “qualifying smoke alarm” means a smoke alarm that—
+
+(I) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+(aa)(AA) is hardwired; or
+
+(BB) uses 10-year non rechargeable, nonreplaceable primary batteries and is sealed, is tamper resistant, and contains silencing means; and
+
+(bb) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+(II) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.
+
+See 2022 Amendment note below.
+
 #### References in Text
 [Section 1928 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1928&num=0&edition=prelim), referred to in subsec. (b)(3), was amended generally by Pub. L. 104–127, title VI, § 605, Apr. 4, 1996, 110 Stat. 1086, and, as so amended, consists of subsecs. (a) and (b) which are substantially similar to provisions formerly contained in the third sentence of such section.
 
@@ -2179,6 +2251,8 @@ The United States Housing Act of 1937, referred to in subsec. (q), is act Sept. 
 Section 203(a) of Pub. L. 100–242, as amended, which was formerly set out in a note under section 1715l of Title 12, Banks and Banking, and which provided that on Nov. 28, 1990, the amendment made by section 263 of Pub. L. 100–242 is repealed and section is to read as it would without such amendment, was omitted in the general amendment of subtitle A of title II of Pub. L. 100–242 by Pub. L. 101–625.
 
 #### Amendments
+2022—Subsec. (m)(3). Pub. L. 117–328 added par. (3).
+
 2020—Subsec. (m). Pub. L. 116–260 designated existing provisions as par. (1) and added par. (2).
 
 2008—Subsec. (h). Pub. L. 110–289, which directed amendment of subsec. (h) by inserting “(1) Condition” after “(h)” and adding par. (2), was executed by making the insertion after “(h) Project transfers” and adding par. (2), to reflect the probable intent of Congress.
@@ -2425,6 +2499,9 @@ Subsec. (d)(4). Pub. L. 89–754, § 805(c), defined fees and charges as used fo
 
 Pub. L. 88–340 substituted “September 30, 1964” for “June 30, 1964” in cl. (5).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective 2 years after Dec. 29, 2022, see section 601(h) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, see section 13(a) of Pub. L. 104–120, set out as an Effective and Termination Dates of 1996 Amendments note under [section 1437d of this title](./chapter-008-low-income-housing.md#section-1437d).
 
@@ -2437,8 +2514,11 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 #### Regulations
 Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agriculture shall issue any regulations necessary to carry out the amendment made by paragraph (1) [amending this section] not later than the expiration of the 45-day period beginning on the date of the enactment of this Act [Oct. 28, 1992]. Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act, the Secretary shall submit a copy of any regulations to be issued under this subsection to the Congress. The requirements of section 534(d) of the Housing Act of 1949 [[42 U.S.C. 1490n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1490n/d&num=0&edition=prelim)] and subsections (b) and (c) of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code, shall apply to any such regulations.”
 
+#### Construction of 2022 Amendment
+Nothing in amendment made by Pub. L. 117–328 to be construed to preempt or limit applicability of certain State or local laws relating to smoke alarms, see section 601(i) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
 #### Construction of 2020 Amendment
-Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
+Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or limit applicability of certain State or local laws relating to carbon monoxide devices, see section 101(j) of div. Q of Pub. L. 116–260, set out as a note under [section 1437a of this title](./chapter-008-low-income-housing.md#section-1437a).
 
 
 <a id="section-1486"></a>
@@ -2573,6 +2653,49 @@ Nothing in amendment made by Pub. L. 116–260 to be construed to preempt or lim
 
 ### Statutory Notes
 
+#### Amendment of Subsections (c) and (g)
+Pub. L. 117–328, div. AA, title VI, § 601(f), (h), Dec. 29, 2022, 136 Stat. 5548, provided that, effective two years after Dec. 29, 2022, this section is amended—
+
+(1) in subsection (c)—
+
+(A) in paragraph (2), by striking “and” at the end;
+
+(B) in paragraph (3), by striking the period at the end and inserting “; and”; and
+
+(C) by adding at the end the following:
+
+“(4) that such housing shall contain qualifying smoke alarms that are installed in accordance with applicable codes and standards published by the International Code Council or the National Fire Protection Association and the requirements of the National Fire Protection Association Standard 72, or any successor standard, in each level and in or near each sleeping area in such dwelling unit, including in basements but excepting crawl spaces and unfinished attics, and in each common area in a project containing such a dwelling unit.”; and
+
+(2) in subsection (g)—
+
+(A) in paragraph (3) by striking “and” at the end;
+
+(B) in paragraph (4), by striking the period at the end and inserting a semicolon; and
+
+(C) by adding at the end the following:
+
+“(5) the term ‘smoke alarm’ has the meaning given the term ‘smoke detector’ in [section 2225(d) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2225/d&num=0&edition=prelim); and
+
+“(6) the term ‘qualifying smoke alarm’ means a smoke alarm that—
+
+“(A) in the case of a dwelling unit built before December 29, 2022, and not substantially rehabilitated after December 29, 2022—
+
+“(i)(I) is hardwired; or
+
+“(II) uses 10-year non rechargeable, nonreplaceable primary batteries and—
+
+“(aa) is sealed;
+
+“(bb) is tamper resistant; and
+
+“(cc) contains silencing means; and
+
+“(ii) provides notification for persons with hearing loss as required by the National Fire Protection Association Standard 72, or any successor standard; or
+
+“(B) in the case of a dwelling unit built or substantially rehabilitated after December 29, 2022, is hardwired.”
+
+See 2022 Amendment notes below.
+
 #### References in Text
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f), is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -2584,6 +2707,10 @@ In subsec. (f), “sections 3141–3144, 3146, and 3147 of title 40” substitut
 Subsec. (k)(6) of this section, which required the Secretary to submit an annual report to Congress summarizing the activities carried out under subsec. (k) and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, item 18 on page 103 of House Document No. 103–7.
 
 #### Amendments
+2022—Subsec. (c)(4). Pub. L. 117–328, § 601(f)(1), added par. (4).
+
+Subsec. (g)(5), (6). Pub. L. 117–328, § 601(f)(2), added pars. (5) and (6).
+
 2000—Subsec. (k)(7)(B). Pub. L. 106–400 made technical amendment to reference in original act which appears in text as reference to [section 11302 of this title](./chapter-119-homeless-assistance.md#section-11302).
 
 1990—Subsec. (k). Pub. L. 101–625 added subsec. (k).
@@ -2609,6 +2736,12 @@ Subsec. (a)(3). Pub. L. 91–609, § 801(d)(3), inserted “, and such housing a
 Subsec. (b). Pub. L. 91–609, § 801(d)(4), substituted “90 per centum” for “two-thirds”.
 
 Subsec. (g)(1). Pub. L. 91–609, § 801(c), substituted “structures (including household furnishings)” for “structures” in cls. (A) and (B).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective 2 years after Dec. 29, 2022, see section 601(h) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
+
+#### Construction of 2022 Amendment
+Nothing in amendment made by Pub. L. 117–328 to be construed to preempt or limit applicability of certain State or local laws relating to smoke alarms, see section 601(i) of div. AA of Pub. L. 117–328, set out as a note under [section 1701q of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701q&num=0&edition=prelim), Banks and Banking.
 
 
 <a id="section-1487"></a>
@@ -3095,7 +3228,7 @@ Pub. L. 93–644, § 9(a), Jan. 4, 1975, 88 Stat. 2310 [[42 U.S.C. 2941](https:/
 
   (A) to make grants to, or contract with, public or private nonprofit corporations, agencies, institutions, organizations, Indian tribes, and other associations approved by him, to pay part or all of the costs of developing, conducting, administering, or coordinating effective and comprehensive programs of technical and supervisory assistance which will aid needy low-income individuals and their families in carrying out mutual or self-help housing efforts, including the repair of units financed under [section 1472 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1472) that are being held in inventory; and
 
-  (B) to establish the Self-Help Housing Land Development Fund, referred to herein as the Self-Help Fund, to be used by the Secretary as a revolving fund for making loans, on such terms and conditions and in such amounts as he deems necessary, to public or private nonprofit organizations and to Indian tribes for the acquisition and development of land as building sites to be subdivided and sold to families, nonprofit organizations, and cooperatives eligible for assistance under section 1715z or 1715z–1 of title 12 or [section 1490a of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490a). Such a loan, with interest at a rate not to exceed 3 percent per annum, shall be repaid within a period not to exceed two years from the making of the loan, or within such additional period as may be authorized by the Secretary in any case as being necessary to carry out the purposes hereof: Provided, That the Secretary may advance funds under this paragraph to organizations receiving assistance under clause (A) to enable them to establish revolving accounts for the purchase of land options and any such advances may bear interest at a rate determined by the Secretary and shall be repaid to the Secretary at the expiration of the period for which the grant to the organization involved was made;
+  (B) to establish the Self-Help Housing Land Development Fund, referred to herein as the Self-Help Fund, to be used by the Secretary as a revolving fund for making loans, on such terms and conditions and in such amounts as he deems necessary, to public or private nonprofit organizations and to Indian tribes for the acquisition and development of land as building sites to be subdivided and sold to families, nonprofit organizations, and cooperatives eligible for assistance under section 1715z or 1715z–1 of title 12 or [section 1490a of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1490a). Such a loan, with interest at a rate not to exceed 3 percent per annum, shall be repaid within a period not to exceed five years from the making of the loan, or within such additional period as may be authorized by the Secretary in any case as being necessary to carry out the purposes hereof: Provided, That the Secretary may advance funds under this paragraph to organizations receiving assistance under clause (A) to enable them to establish revolving accounts for the purchase of land options and any such advances may bear interest at a rate determined by the Secretary and shall be repaid to the Secretary at the expiration of the period for which the grant to the organization involved was made;
 
 (2) to make grants to, or contract with, national or regional private nonprofit corporations to provide training and technical assistance to public or private nonprofit corporations, agencies, institutions, organizations, and other associations, including Indian tribes, eligible to receive assistance under this section in order to expand the use of authorities contained in this section and to improve performance; and
 
@@ -3126,6 +3259,8 @@ Pub. L. 93–644, § 9(a), Jan. 4, 1975, 88 Stat. 2310 [[42 U.S.C. 2941](https:/
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b)(1)(B). Pub. L. 118–42 substituted “five years” for “two years”.
+
 1992—Subsec. (b)(1)(A). Pub. L. 102–550, § 710(1), inserted “, including the repair of units financed under [section 1472 of this title](./chapter-8a-slum-clearance-urban-renewal-and-farm-housing.md#section-1472) that are being held in inventory” after “efforts”.
 
 Subsec. (f). Pub. L. 102–550, § 710(2), struck out subsec. (f) which read as follows: “No grant or loan may be made or contract entered into under the authority of this section after September 30, 1992, except pursuant to a commitment or other obligation entered into pursuant to this section before that date.”
@@ -3226,7 +3361,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 ## § 1490d. Loans to nonprofit organizations to provide building sites for eligible families, nonprofit organizations, public agencies, and cooperatives; interest rates; factors determinative in making loan
 **(a)**
 
-(1) **In general.—** — The Secretary may make loans, on such terms and conditions and in such amounts he deems necessary, to public or private nonprofit organizations and to Indian tribes for the acquisition and development of land as building sites to be subdivided and sold to families, nonprofit organizations, public agencies, and cooperatives eligible for assistance under any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families. Such a loan shall bear interest at a rate prescribed by the Secretary taking into consideration a rate determined annually by the Secretary of the Treasury as the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted to the nearest one-eighth of 1 per centum, and shall be repaid within a period not to exceed two years from the making of the loan or within such additional period as may be authorized by the Secretary in any case as being necessary to carry out the purposes of this section.
+(1) **In general.—** — The Secretary may make loans, on such terms and conditions and in such amounts he deems necessary, to public or private nonprofit organizations and to Indian tribes for the acquisition and development of land as building sites to be subdivided and sold to families, nonprofit organizations, public agencies, and cooperatives eligible for assistance under any section of this subchapter or under any other law which provides financial assistance for housing low- and moderate-income families. Such a loan shall bear interest at a rate prescribed by the Secretary taking into consideration a rate determined annually by the Secretary of the Treasury as the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the average maturities of such loans, adjusted to the nearest one-eighth of 1 per centum, and shall be repaid within a period not to exceed five years from the making of the loan or within such additional period as may be authorized by the Secretary in any case as being necessary to carry out the purposes of this section.
 
 (2) **Revolving funds.—** — The Secretary may make grants to nonprofit housing agencies to establish revolving loan funds for the acquisition and preparation of building sites for low-income housing. Any proceeds and repayments from such loans shall be returned to the revolving loan fund to be used for purposes related to this section. Loan funds and interest payments shall be used solely for the acquisition of land; the preparation of land for building sites; the payment of reimbursable legal and technical costs; and technical assistance and administrative costs, not to exceed 10 percent of the fund.
 
@@ -3235,6 +3370,8 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (a)(1). Pub. L. 118–42 substituted “five years” for “two years”.
+
 1992—Subsec. (a). Pub. L. 102–550 designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
 1980—Subsec. (a). Pub. L. 96–399 inserted reference to Indian tribes.

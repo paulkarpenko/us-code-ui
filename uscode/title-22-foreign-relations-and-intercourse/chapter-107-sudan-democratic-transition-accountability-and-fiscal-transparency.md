@@ -57,7 +57,7 @@ Except as otherwise provided, in this chapter:
 
   (A) the Sudan Armed Forces;
 
-  (B) the Rapid Support Forces,
+  (B) the Rapid Support Forces,11 So in original. The comma probably should be a semicolon.
 
   (C) Sudan’s Popular Defense Forces and other paramilitary units;
 

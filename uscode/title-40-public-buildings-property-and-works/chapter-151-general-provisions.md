@@ -11,7 +11,7 @@ source: >-
 
 In this subtitle, the following definitions apply:
 
-(1) **Commission.—** — The term “Commission” means a Commission established under section 15301.
+(1) **Commission.—** — The term “Commission” means a Commission or Authority established under section 15301.
 
 (2) **Local development district.—** — The term “local development district” means an entity that—
 
@@ -60,6 +60,9 @@ Section 501 of the Internal Revenue Code of 1986, referred to in par. (5), is cl
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2022—Par. (1). Pub. L. 117–328 inserted “or Authority” after “a Commission”.
 
 #### Effective Date
 Enactment of this subtitle and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.

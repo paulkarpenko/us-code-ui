@@ -422,9 +422,9 @@ as the President determines to be necessary or appropriate to maintain the gener
 For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.
 
 #### References in Text
-The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (a)(2), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title V of the Act is classified generally to subchapter V (§ 2461 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
-The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(3)(A), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, as amended, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701) and Tables.
+The Caribbean Basin Economic Recovery Act, referred to in subsec. (a)(3)(A), is title II of Pub. L. 98–67, Aug. 5, 1983, 97 Stat. 384, which is classified principally to chapter 15 (§ 2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-015-caribbean-basin-economic-recovery.md#section-2701) and Tables.
 
 #### Effective and Termination Dates
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).
@@ -492,7 +492,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 #### References in Text
 Part A of subchapter III of this chapter, referred to in subsec. (a)(5)(A), was in the original “subtitle A of title III of this Act”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of subchapter III (§ 4061 et seq.) of this chapter and amended [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252). For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in subsec. (a)(5)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (a)(5)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Effective and Termination Dates
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).
@@ -1070,7 +1070,7 @@ For purposes of section 123 of the Trade Act of 1974 ([19 U.S.C. 2133](./chapter
 For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.
 
 #### References in Text
-The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Effective and Termination Dates
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).
@@ -1313,7 +1313,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.
 
 #### References in Text
-The Trade Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Effective and Termination Dates
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).
@@ -1348,7 +1348,7 @@ For purposes of section 123 of the Trade Act of 1974 ([19 U.S.C. 2133](./chapter
 For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.
 
 #### References in Text
-The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Effective and Termination Dates
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).
@@ -1445,7 +1445,7 @@ For termination of section by section 107(d) of Pub. L. 109–53, see Effective 
 #### References in Text
 Part A, referred to in par. (2)(A), was in the original “subtitle A”, meaning subtitle A (§§ 311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted part A of this subchapter and amended [section 2252 of this title](./chapter-012-trade-act-of-1974.md#section-2252). For complete classification of subtitle A to the Code, see Tables.
 
-The Trade Act of 1974, referred to in par. (2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in par. (2)(B), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Effective and Termination Dates
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).
@@ -1505,7 +1505,7 @@ Section effective on the date the Dominican Republic-Central America-United Stat
 For termination of section by section 107(d) of Pub. L. 109–53, see Effective and Termination Dates note below.
 
 #### References in Text
-The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in text, is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Chapter 1 of title II of the Act is classified generally to part 1 (§ 2251 et seq.) of subchapter II of chapter 12 of this title. For complete classification of this Act to the Code, see [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Effective and Termination Dates
 Section effective on the date the Dominican Republic-Central America-United States Free Trade Agreement enters into force (Mar. 1, 2006) and to cease to have effect on the date the Agreement ceases to be in force with respect to the United States, and, during any period in which a country ceases to be a CAFTA–DR country, to cease to have effect with respect to such country, see section 107 of Pub. L. 109–53, set out as a note under [section 4001 of this title](./chapter-026-dominican-republic-central-america-free-trade.md#section-4001).

@@ -1519,7 +1519,7 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 
 (4) **Consultation required** — The Secretary shall consult with the Board in advance whenever the Secretary establishes or changes, or considers the establishment of or a change to, quality and handling standards for peanuts.
 
-(5) **Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Board.
+(5) **Chapter 10 of title 5** — Chapter 10 of title 5 shall not apply to the Board.
 
 **(d) Priority** The Secretary shall make identifying and combating the presence of all quality concerns related to peanuts a priority in the development of quality and handling standards for peanuts and in the inspection of domestically produced and imported peanuts. The Secretary shall consult with appropriate Federal and State agencies to provide adequate safeguards against all quality concerns related to peanuts.
 
@@ -1550,9 +1550,9 @@ This subchapter, referred to in subsec. (g), was in the original “this subtitl
 #### References in Text
 The Agricultural Adjustment Act, as reenacted with amendments by the Agricultural Marketing Agreement Act of 1937, referred to in subsec. (b), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§ 601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of this title](./chapter-026-agricultural-adjustment.md#section-601) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+Subsec. (c)(5). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Subsec. (c)(2)(B)(iii). Pub. L. 115–334 substituted “Virginia, North Carolina, and South Carolina” for “Virginia and North Carolina”.
 
 

@@ -2,7 +2,7 @@
 title: 33
 chapter: '26'
 heading: WATER POLLUTION PREVENTION AND CONTROL
-section_count: 122
+section_count: 124
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -655,7 +655,7 @@ Section was not enacted as part of the Federal Water Pollution Control Act which
 #### References in Text
 Prior to the date of enactment of the Clean Water Act of 1977, referred to in subsec. (b)(4), means prior to the enactment of Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, which was approved Dec. 27, 1977.
 
-Such Act, referred to in subsec. (b)(4), means Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, as amended, known as the Clean Water Act of 1977. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
+Such Act, referred to in subsec. (b)(4), means Pub. L. 95–217, Dec. 27, 1977, 91 Stat. 1566, known as the Clean Water Act of 1977. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
 #### Amendments
 1977—Subsec. (b)(1). Pub. L. 95–217, § 10(c), (d), substituted “cost of construction of treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel and for the costs of other State treatment works operator training programs, including mobile training units, classroom rental, specialized instructors, and instructional material” for “cost of construction of a treatment works required for a facility to train and upgrade waste treatment works operation and maintenance personnel”.
@@ -765,7 +765,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 ### Statutory Notes
 
 #### References in Text
-Public Law 92–203, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
+Public Law 92–203, referred to in subsec. (e), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, known as the Alaska Native Claims Settlement Act, which is classified generally to chapter 33 (§ 1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Subsec. (c) authorized the Administrator to report to Congress the results of the demonstration project accompanied by his recommendations for the establishment of a statewide project not later than July 1, 1973.
@@ -1899,14 +1899,14 @@ Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–27
 
 
 <a id="section-1270"></a>
-## § 1270. Lake Champlain Basin Program
+## § 1270. Patrick Leahy Lake Champlain Basin Program
 **(a) Establishment**
 
 (1) **In general** — There is established a Lake Champlain Management Conference to develop a comprehensive pollution prevention, control, and restoration plan for Lake Champlain. The Administrator shall convene the management conference within ninety days of November 16, 1990.
 
 (2) **Implementation** — The Administrator—
 
-  (A) may provide support to the State of Vermont, the State of New York, and the New England Interstate Water Pollution Control Commission for the implementation of the Lake Champlain Basin Program; and
+  (A) may provide support to the State of Vermont, the State of New York, and the New England Interstate Water Pollution Control Commission for the implementation of the Patrick Leahy Lake Champlain Basin Program; and
 
   (B) shall coordinate actions of the Environmental Protection Agency under subparagraph (A) with the actions of other appropriate Federal agencies.
 
@@ -1960,7 +1960,7 @@ Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–27
 
 **(f) Grant assistance**
 
-(1) The Administrator may, in consultation with participants in the Lake Champlain Basin Program, make grants to State, interstate, and regional water pollution control agencies, and public or nonprofit agencies, institutions, and organizations.
+(1) The Administrator may, in consultation with participants in the Patrick Leahy Lake Champlain Basin Program, make grants to State, interstate, and regional water pollution control agencies, and public or nonprofit agencies, institutions, and organizations.
 
 (2) Grants under this subsection shall be made for assisting research, surveys, studies, and modeling and technical and supporting work necessary for the development and implementation of the Plan.
 
@@ -1970,7 +1970,7 @@ Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–27
 
 **(g) Definitions** In this section:
 
-(1) **Lake Champlain Basin Program** — The term “Lake Champlain Basin Program” means the coordinated efforts among the Federal Government, State governments, and local governments to implement the Plan.
+(1) **Patrick Leahy Lake Champlain Basin Program** — The term “Patrick Leahy Lake Champlain Basin Program” means the coordinated efforts among the Federal Government, State governments, and local governments to implement the Plan.
 
 (2) **Lake Champlain drainage basin** — The term “Lake Champlain drainage basin” means all or part of Clinton, Franklin, Hamilton, Warren, Essex, and Washington counties in the State of New York and all or part of Franklin, Grand Isle, Chittenden, Addison, Rutland, Bennington, Lamoille, Orange, Washington, Orleans, and Caledonia counties in Vermont, that contain all of the streams, rivers, lakes, and other bodies of water, including wetlands, that drain into Lake Champlain.
 
@@ -1988,17 +1988,23 @@ Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, as amended by Pub. L. 115–27
 
 (3) affects section 304 of the Great Lakes Critical Programs Act of 1990 (Public Law 101–596; [33 U.S.C. 1270](./chapter-026-water-pollution-prevention-and-control.md#section-1270) note).
 
-**(i) Authorization** There are authorized to be appropriated to the Environmental Protection Agency to carry out this section—
-
-(1) $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995;
-
-(2) such sums as are necessary for each of fiscal years 1996 through 2003; and
-
-(3) $11,000,000 for each of fiscal years 2004 through 2008.
+**(i) Authorization of appropriations** There is authorized to be appropriated to the Administrator to carry out this section $35,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–328, § 404(a)(1), (2), inserted “Patrick Leahy” before “Lake Champlain Basin Program” in section catchline and wherever appearing in text.
+
+Subsec. (g)(1). Pub. L. 117–328, § 404(a)(3), inserted “Patrick Leahy” before “Lake Champlain Basin Program” in heading.
+
+Subsec. (i). Pub. L. 117–328, § 404(a)(4), amended subsec. (i) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Environmental Protection Agency to carry out this section—
+
+“(1) $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995;
+
+“(2) such sums as are necessary for each of fiscal years 1996 through 2003; and
+
+“(3) $11,000,000 for each of fiscal years 2004 through 2008.”
+
 2002—Pub. L. 107–303, § 202(1), substituted “Lake Champlain Basin Program” for “Lake Champlain Management Conference” in section catchline.
 
 Subsec. (a). Pub. L. 107–303, § 202(1), (2), designated existing provisions as par. (1), inserted heading, and added par. (2).
@@ -2026,6 +2032,9 @@ Subsec. (h). Pub. L. 107–303, § 202(7), added subsec. (h) and struck out head
 “(2) any international organization or entity related to Lake Champlain created by treaty or memorandum to which the United States is a signatory.”
 
 Subsec. (i). Pub. L. 107–303, § 202(8), substituted “section—” for “section $2,000,000”, inserted “(1) $2,000,000” before “for each of fiscal years 1991,”, substituted “1995;” for “1995.”, and added pars. (2) and (3).
+
+#### Change of Name
+Pub. L. 117–328, div. O, title IV, § 404(c), Dec. 29, 2022, 136 Stat. 5229, provided that: “Any reference in law, regulation, map, document, paper, or other record of the United States to the ‘Lake Champlain Basin Program’ shall be deemed to be a reference to the Patrick Leahy Lake Champlain Basin Program.”
 
 #### Federal Program Coordination
 Pub. L. 101–596, title III, § 304, Nov. 16, 1990, 104 Stat. 3008, as amended by Pub. L. 104–127, title III, § 336(a)(2)(F), Apr. 4, 1996, 110 Stat. 1005; Pub. L. 115–334, title II, § 2301(d)(2)(F), Dec. 20, 2018, 132 Stat. 4555, provided that: “(a) Designation of Lake Champlain as a Priority Area Under the Environmental Quality Incentives Program.—“(1) In general.—Notwithstanding any other provision of law, the Lake Champlain basin, as defined under section 120(h) of the Federal Water Pollution Control Act [[33 U.S.C. 1270(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1270/h&num=0&edition=prelim)], shall be designated by the Secretary of Agriculture as a priority area under the environmental quality incentives program established under subchapter A of chapter 4 of subtitle D of title XII of the Food Security Act of 1985 [[16 U.S.C. 3839aa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section3839aa&num=0&edition=prelim) et seq.]. “(2) Technical assistance reimbursement.—To carry out the purposes of this subsection, the technical assistance reimbursement from the Agricultural Stabilization and Conservation Service authorized under the Soil Conservation and Domestic Allotment Act [[16 U.S.C. 590a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section590a&num=0&edition=prelim) et seq.], shall be increased from 5 per centum to 10 per centum. “(3) Comprehensive agricultural monitoring.—The Secretary, in consultation with the Management Conference and appropriate State and Federal agencies, shall develop a comprehensive agricultural monitoring and evaluation network for all major drainages within the Lake Champlain basin. “(4) Allocation of funds.—In allocating funds under this subsection, the Secretary of Agriculture shall consult with the Management Conference established under section 120 of the Federal Water Pollution Control Act and to the extent allowable by law, allocate funds to those agricultural enterprises located at sites that the Management Conference determines to be priority sites, on the basis of a concern for ensuring implementation of nonpoint source pollution controls throughout the Lake Champlain basin. “(b) Cooperation of the United States Geological Survey of the Department of the Interior.—For the purpose of enhancing and expanding basic data collection and monitoring in operation in the Lake Champlain basin, as defined under section 120 of the Federal Water Pollution Control Act [[33 U.S.C. 1270](./chapter-026-water-pollution-prevention-and-control.md#section-1270)], the Secretary of the Interior, acting through the heads of water resources divisions of the New York and New England districts of the United States Geological Survey, shall—“(1) in cooperation with appropriate universities and private research institutions, and the appropriate officials of the appropriate departments and agencies of the States of New York and Vermont, develop an integrated geographic information system of the Lake Champlain basin; “(2) convert all partial recording sites in the Lake Champlain basin to continuous monitoring stations with full gauging capabilities and status; and “(3) establish such additional continuous monitoring station sites in the Lake Champlain basin as are necessary to carry out basic data collection and monitoring, as defined by the Secretary of the Interior, including groundwater mapping, and water quality and sediment data collection. “(c) Cooperation of the United States Fish and Wildlife Service of the Department of the Interior.—“(1) Resource conservation program.—The Secretary of the Interior, acting through the United States Fish and Wildlife Service, in cooperation with the Lake Champlain Fish and Wildlife Management Cooperative and the Management Conference established pursuant to this subsection shall—“(A) establish and implement a fisheries resources restoration, development and conservation program, including dedicating a level of hatchery production within the Lake Champlain basin at or above the level that existed immediately preceding the date of enactment of this Act [Nov. 16, 1990]; and “(B) conduct a wildlife species and habitat assessment survey in the Lake Champlain basin, including—“(i) a survey of Federal threatened and endangered species, listed or proposed for listing under the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.), New York State and State of Vermont threatened and endangered species and other species of special concern, migratory nongame species of management concern, and national resources plan species; “(ii) a survey of wildlife habitats such as islands, wetlands, and riparian areas; and “(iii) a survey of migratory bird populations breeding, migrating and wintering within the Lake Champlain basin. “(2) To accomplish the purposes of paragraph (1), the Director of the United States Fish and Wildlife Service is authorized to carry out activities related to—“(A) controlling sea lampreys and other nonindigenous aquatic animal nuisances; “(B) improving the health of fishery resources; “(C) conducting investigations about and assessing the status of fishery resources, and disseminating that information to all interested parties; and “(D) conducting and periodically updating a survey of the fishery resources and their habitats and food chains in the Lake Champlain basin. “(d) Authorizations.—(1) There is authorized to be appropriated to the Department of Agriculture $2,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsection (a) of this section. “(2) There is authorized to be appropriated to the Department of [the] Interior $1,000,000 for each of fiscal years 1991, 1992, 1993, 1994, and 1995 to carry out subsections (b) and (c) of this section.”
@@ -2140,7 +2149,7 @@ Section was enacted as part of the Great Lakes Legacy Act of 2002, and also as p
 #### References in Text
 The Federal Water Pollution Control Act, referred to in subsec. (a), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (e), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was formerly set out as a note under [section 1252 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1252).
@@ -2185,19 +2194,21 @@ Subsec. (f). Pub. L. 104–303, § 205(3), added subsec. (f) and struck out head
 
 (4) develop a comprehensive research plan to address the technical needs of the program;
 
-(5) coordinate the grant, research, and planning programs authorized under this section; and
+(5) coordinate the grant, research, and planning programs authorized under this section;
 
-(6) collect and make available to the public publications, and other forms of information the management conference determines to be appropriate, relating to the environmental quality of the Basin.
+(6) collect and make available to the public publications, and other forms of information the management conference determines to be appropriate, relating to the environmental quality of the Basin; and
+
+(7) ensure that the comprehensive conservation and management plan approved for the Basin under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330) is reviewed and revised in accordance with [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330) not less often than once every 5 years, beginning on December 23, 2022.
 
 **(d) Grants** The Administrator may make grants to pay not more than 75 percent of the costs—
 
-(1) for restoration projects and studies recommended by a management conference convened for the Basin under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330); and
+(1) for restoration projects and studies identified in the comprehensive conservation and management plan approved for the Basin under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330); and
 
 (2) for public education projects recommended by the management conference.
 
 **(e) Definitions** In this section, the following definitions apply:
 
-(1) **Basin** — The term “Basin” means the Lake Pontchartrain Basin, a 5,000 square mile watershed encompassing 16 parishes in the State of Louisiana and 4 counties in the State of Mississippi.
+(1) **Basin** — The term “Basin” means the Lake Pontchartrain Basin, a 10,000 square mile watershed encompassing 16 parishes in the State of Louisiana and 4 counties in the State of Mississippi.
 
 (2) **Program** — The term “program” means the Lake Pontchartrain Basin Restoration Program established under subsection (a).
 
@@ -2207,12 +2218,22 @@ Subsec. (f). Pub. L. 104–303, § 205(3), added subsec. (f) and struck out head
 
 (2) **Public education projects** — Not more than 15 percent of the amount appropriated pursuant to paragraph (1) in a fiscal year may be expended on grants for public education projects under subsection (d)(2).
 
+(3) **Administrative expenses** — Not more than 5 percent of the amounts appropriated to carry out this section may be used for administrative expenses.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Another section 121 of act June 30, 1948, was renumbered section 122 and is classified to [section 1274 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1274).
 
 #### Amendments
+2022—Subsec. (c)(7). Pub. L. 117–263, § 8501(c)(1)(A), added par. (7).
+
+Subsec. (d)(1). Pub. L. 117–263, § 8501(c)(1)(B), substituted “identified in the comprehensive conservation and management plan approved for the Basin under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330)” for “recommended by a management conference convened for the Basin under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330)”.
+
+Subsec. (e)(1). Pub. L. 117–263, § 8501(c)(2), substituted “10,000 square mile” for “5,000 square mile”.
+
+Subsec. (f)(3). Pub. L. 117–263, § 8501(c)(3), added par (3).
+
 2012—Subsec. (d). Pub. L. 112–237, § 1(1), inserted “to pay not more than 75 percent of the costs” after “make grants” in introductory provisions.
 
 Subsec. (f)(1). Pub. L. 112–237, § 1(2), substituted “2012 and the amount appropriated for fiscal year 2009 for each of fiscal years 2013 through 2017” for “2011”.
@@ -2432,6 +2453,385 @@ Subsecs. (c), (d). Pub. L. 113–121, § 5011(3)–(5), redesignated subsec. (d)
 **(c) Authorization of appropriations** There is authorized to be appropriated to the Administrator to carry out this section $5,000,000 for each of fiscal years 2022 through 2026.
 
 
+<a id="section-1276a"></a>
+## § 1276a. San Francisco Bay restoration grant program
+**(a) Definitions** In this section:
+
+(1) **Estuary Partnership** — The term “Estuary Partnership” means the San Francisco Estuary Partnership, designated as the management conference for the San Francisco Bay under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+(2) **San Francisco Bay Plan** — The term “San Francisco Bay Plan” means—
+
+  (A) until the date of the completion of the plan developed by the Director under subsection (d), the comprehensive conservation and management plan approved under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330) for the San Francisco Bay estuary; and
+
+  (B) on and after the date of the completion of the plan developed by the Director under subsection (d), the plan developed by the Director under subsection (d).
+
+**(b) Program Office**
+
+(1) **Establishment** — The Administrator shall establish in the Environmental Protection Agency a San Francisco Bay Program Office. The Office shall be located at the headquarters of Region 9 of the Environmental Protection Agency.
+
+(2) **Appointment of Director** — The Administrator shall appoint a Director of the Office, who shall have management experience and technical expertise relating to the San Francisco Bay and be highly qualified to direct the development and implementation of projects, activities, and studies necessary to implement the San Francisco Bay Plan.
+
+(3) **Delegation of authority; staffing** — The Administrator shall delegate to the Director such authority and provide such staff as may be necessary to carry out this section.
+
+**(c) Annual priority list**
+
+(1) **In general** — After providing public notice, the Director shall annually compile a priority list, consistent with the San Francisco Bay Plan, identifying and prioritizing the projects, activities, and studies to be carried out with amounts made available under subsection (e).
+
+(2) **Inclusions** — The annual priority list compiled under paragraph (1) shall include the following:
+
+  (A) Projects, activities, and studies, including restoration projects and habitat improvement for fish, waterfowl, and wildlife, that advance the goals and objectives of the San Francisco Bay Plan, for—
+
+    (i) water quality improvement, including the reduction of marine litter;
+
+    (ii) wetland, riverine, and estuary restoration and protection;
+
+    (iii) nearshore and endangered species recovery; and
+
+    (iv) adaptation to climate change.
+
+  (B) Information on the projects, activities, and studies specified under subparagraph (A), including—
+
+    (i) the identity of each entity receiving assistance pursuant to subsection (e); and
+
+    (ii) a description of the communities to be served.
+
+  (C) The criteria and methods established by the Director for identification of projects, activities, and studies to be included on the annual priority list.
+
+(3) **Consultation** — In compiling the annual priority list under paragraph (1), the Director shall consult with, and consider the recommendations of—
+
+  (A) the Estuary Partnership;
+
+  (B) the State of California and affected local governments in the San Francisco Bay estuary watershed;
+
+  (C) the San Francisco Bay Restoration Authority; and
+
+  (D) any other relevant stakeholder involved with the protection and restoration of the San Francisco Bay estuary that the Director determines to be appropriate.
+
+**(d) San Francisco Bay Plan**
+
+(1) **In general** — Not later than 5 years after December 23, 2022, the Director, in conjunction with the Estuary Partnership, shall review and revise the comprehensive conservation and management plan approved under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330) for the San Francisco Bay estuary to develop a plan to guide the projects, activities, and studies of the Office to address the restoration and protection of the San Francisco Bay.
+
+(2) **Revision of San Francisco Bay Plan** — Not less often than once every 5 years after the date of the completion of the plan described in paragraph (1), the Director shall review, and revise as appropriate, the San Francisco Bay Plan.
+
+(3) **Outreach** — In carrying out this subsection, the Director shall consult with the Estuary Partnership and Indian tribes and solicit input from other non-Federal stakeholders.
+
+**(e) Grant program**
+
+(1) **In general** — The Director may provide funding through cooperative agreements, grants, or other means to State and local agencies, special districts, and public or nonprofit agencies, institutions, and organizations, including the Estuary Partnership, for projects, activities, and studies identified on the annual priority list compiled under subsection (c).
+
+(2) **Maximum amount of grants; non-Federal share**
+
+  (A) *Maximum amount of grants* — Amounts provided to any entity under this section for a fiscal year shall not exceed an amount equal to 75 percent of the total cost of any projects, activities, and studies that are to be carried out using those amounts.
+
+  (B) *Non-Federal share* — Not less than 25 percent of the cost of any project, activity, or study carried out using amounts provided under this section shall be provided from non-Federal sources.
+
+**(f) Funding**
+
+(1) **Administrative expenses** — Of the amount made available to carry out this section for a fiscal year, the Director may not use more than 5 percent to pay administrative expenses incurred in carrying out this section.
+
+(2) **Prohibition** — No amounts made available under this section may be used for the administration of a management conference under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+
+<a id="section-1276b"></a>
+## § 1276b. Puget Sound
+**(a) Definitions** In this section:
+
+(1) **Coastal Nonpoint Pollution Control Program** — The term “Coastal Nonpoint Pollution Control Program” means the State of Washington’s Coastal Nonpoint Pollution Control Program approved under [section 1455b of title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1455b&num=0&edition=prelim).
+
+(2) **Director** — The term “Director” means the Director of the Program Office.
+
+(3) **Federal Action Plan** — The term “Federal Action Plan” means the plan developed under subsection (c)(3)(B).
+
+(4) **International Joint Commission** — The term “International Joint Commission” means the International Joint Commission established by the Treaty relating to the boundary waters and questions arising along the boundary between the United States and Canada, signed at Washington January 11, 1909, and entered into force May 5, 1910 (36 Stat. 2448; TS 548; 12 Bevans 319).
+
+(5) **Pacific Salmon Commission** — The term “Pacific Salmon Commission” means the Pacific Salmon Commission established by the United States and Canada under the Treaty concerning Pacific salmon, with annexes and memorandum of understanding, signed at Ottawa January 28, 1985, and entered into force March 18, 1985 (TIAS 11091; 1469 UNTS 357) (commonly known as the “Pacific Salmon Treaty”).
+
+(6) **Program Office** — The term “Program Office” means the Puget Sound Recovery National Program Office established by subsection (b).
+
+(7) **Puget Sound Action Agenda; Action Agenda** — The term “Puget Sound Action Agenda” or“Action Agenda” means the most recent plan developed by the Puget Sound National Estuary Program Management Conference, in consultation with the Puget Sound Tribal Management Conference, and approved by the Administrator as the comprehensive conservation and management plan for the Puget Sound under [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+(8) **Puget Sound Federal Leadership Task Force** — The term “Puget Sound Federal Leadership Task Force” means the Puget Sound Federal Leadership Task Force established under subsection (c).
+
+(9) **Puget Sound Federal Task Force** — The term “Puget Sound Federal Task Force” means the Puget Sound Federal Task Force established in 2016 under a memorandum of understanding among 9 Federal agencies.
+
+(10) **Puget Sound National Estuary Program Management Conference** — The term “Puget Sound National Estuary Program Management Conference” means the management conference for the Puget Sound convened pursuant to [section 1330 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1330).
+
+(11) **Puget Sound Partnership** — The term “Puget Sound Partnership” means the State agency created under the laws of the State of Washington (section 90.71.210 of the Revised Code of Washington), or its successor agency that has been designated by the Administrator as the lead entity to support the Puget Sound National Estuary Program Management Conference.
+
+(12) **Puget Sound region**
+
+  (A) *In general* — The term “Puget Sound region” means the land and waters in the northwest corner of the State of Washington from the Canadian border to the north to the Pacific Ocean on the west, including Hood Canal and the Strait of Juan de Fuca.
+
+  (B) *Inclusion* — The term “Puget Sound region” includes all watersheds that drain into the Puget Sound.
+
+(13) **Puget Sound Tribal Management Conference** — The term “Puget Sound Tribal Management Conference” means the 20 treaty Indian tribes of western Washington and the Northwest Indian Fisheries Commission.
+
+(14) **Salish Sea** — The term “Salish Sea” means the network of coastal waterways on the west coast of North America that includes the Puget Sound, the Strait of Georgia, and the Strait of Juan de Fuca.
+
+(15) **Salmon Recovery Plans** — The term “Salmon Recovery Plans” means the recovery plans for salmon and steelhead species approved by the Secretary of the Interior under section 4(f) of the Endangered Species Act of 1973 [[16 U.S.C. 1533(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1533/f&num=0&edition=prelim)] that are applicable to the Puget Sound region.
+
+(16) **State Advisory Committee** — The term “State Advisory Committee” means the advisory committee established by subsection (d).
+
+(17) **Treaty Rights at Risk Initiative** — The term “Treaty Rights at Risk Initiative” means the report from the treaty Indian tribes of western Washington entitled “Treaty Rights At Risk: Ongoing Habitat Loss, the Decline of the Salmon Resource, and Recommendations for Change” and dated July 14, 2011, or its successor report that outlines issues and offers solutions for the protection of Tribal treaty rights, recovery of salmon habitat, and management of sustainable treaty and nontreaty salmon fisheries, including through Tribal salmon hatchery programs.
+
+**(b) Puget Sound Recovery National Program Office**
+
+(1) **Establishment** — There is established in the Environmental Protection Agency a Puget Sound Recovery National Program Office, to be located in the State of Washington.
+
+(2) **Director**
+
+  (A) *In general* — There shall be a Director of the Program Office, who shall have leadership and project management experience and shall be highly qualified to—
+
+    (i) direct the integration of multiple project planning efforts and programs from different agencies and jurisdictions; and
+
+    (ii) align numerous, and possibly competing, priorities to accomplish visible and measurable outcomes under the Action Agenda.
+
+  (B) *Position* — The position of Director of the Program Office shall be a career reserved position, as such term is defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim).
+
+(3) **Delegation of authority; staffing** — Using amounts made available to carry out this section, the Administrator shall delegate to the Director such authority and provide such staff as may be necessary to carry out this section.
+
+(4) **Duties** — The Director shall—
+
+  (A) coordinate and manage the timely execution of the requirements of this section, including the formation and meetings of the Puget Sound Federal Leadership Task Force;
+
+  (B) coordinate activities related to the restoration and protection of the Puget Sound across the Environmental Protection Agency;
+
+  (C) coordinate and align the activities of the Administrator with the Action Agenda, Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program;
+
+  (D) promote the efficient use of Environmental Protection Agency resources in pursuit of the restoration and protection of the Puget Sound;
+
+  (E) serve on the Puget Sound Federal Leadership Task Force and collaborate with, help coordinate, and implement activities with other Federal agencies that have responsibilities involving the restoration and protection of the Puget Sound;
+
+  (F) provide or procure such other advice, technical assistance, research, assessments, monitoring, or other support as is determined by the Director to be necessary or prudent to most efficiently and effectively fulfill the objectives and priorities of the Action Agenda, the Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program, consistent with the best available science, to ensure the health of the Puget Sound ecosystem;
+
+  (G) track the progress of the Environmental Protection Agency toward meeting the agency’s specified objectives and priorities within the Action Agenda and the Federal Action Plan;
+
+  (H) implement the recommendations of the Comptroller General set forth in the report entitled “Puget Sound Restoration: Additional Actions Could Improve Assessments of Progress” and dated July 19, 2018;
+
+  (I) serve as liaison and coordinate activities for the restoration and protection of the Salish Sea with Canadian authorities, the Pacific Salmon Commission, and the International Joint Commission; and
+
+  (J) carry out such additional duties as the Director determines necessary and appropriate.
+
+**(c) Puget Sound Federal Leadership Task Force**
+
+(1) **Establishment** — There is established a Puget Sound Federal Leadership Task Force.
+
+(2) **Membership**
+
+  (A) *Composition* — The Puget Sound Federal Leadership Task Force shall be composed of the following members:
+
+    (i) The following individuals appointed by the Secretary of Agriculture:
+
+      (I) A representative of the National Forest Service.
+
+      (II) A representative of the Natural Resources Conservation Service.
+
+    (ii) A representative of the National Oceanic and Atmospheric Administration appointed by the Secretary of Commerce.
+
+    (iii) The following individuals appointed by the Secretary of Defense:
+
+      (I) A representative of the Corps of Engineers.
+
+      (II) A representative of the Joint Base Lewis-McChord.
+
+      (III) A representative of the Commander, Navy Region Northwest.
+
+    (iv) The Director of the Program Office.
+
+    (v) The following individuals appointed by the Secretary of Homeland Security:
+
+      (I) A representative of the Coast Guard.
+
+      (II) A representative of the Federal Emergency Management Agency.
+
+    (vi) The following individuals appointed by the Secretary of the Interior:
+
+      (I) A representative of the Bureau of Indian Affairs.
+
+      (II) A representative of the United States Fish and Wildlife Service.
+
+      (III) A representative of the United States Geological Survey.
+
+      (IV) A representative of the National Park Service.
+
+    (vii) The following individuals appointed by the Secretary of Transportation:
+
+      (I) A representative of the Federal Highway Administration.
+
+      (II) A representative of the Federal Transit Administration.
+
+    (viii) Representatives of such other Federal agencies, programs, and initiatives as the other members of the Puget Sound Federal Leadership Task Force determines necessary.
+
+  (B) *Qualifications* — Members appointed under this paragraph shall have experience and expertise in matters of restoration and protection of large watersheds and bodies of water, or related experience that will benefit the restoration and protection of the Puget Sound.
+
+  (C) *Co-chairs*
+
+    (i) *In general* — The following members of the Puget Sound Federal Leadership Task Force shall serve as Co-Chairs of the Puget Sound Federal Leadership Task Force:
+
+      (I) The representative of the National Oceanic and Atmospheric Administration.
+
+      (II) The Director of the Program Office.
+
+      (III) The representative of the Corps of Engineers.
+
+    (ii) *Leadership* — The Co-Chairs shall ensure the Puget Sound Federal Leadership Task Force completes its duties through robust discussion of all relevant issues. The Co-Chairs shall share leadership responsibilities equally.
+
+(3) **Duties**
+
+  (A) *General duties* — The Puget Sound Federal Leadership Task Force shall—
+
+    (i) uphold Federal trust responsibilities to restore and protect resources crucial to Tribal treaty rights, including by carrying out government-to-government consultation with Indian tribes when requested by such tribes;
+
+    (ii) provide a venue for dialogue and coordination across all Federal agencies represented by a member of the Puget Sound Federal Leadership Task Force to align Federal resources for the purposes of carrying out the requirements of this section and all other Federal laws that contribute to the restoration and protection of the Puget Sound, including by—
+
+      (I) enabling and encouraging such agencies to act consistently with the objectives and priorities of the Action Agenda, the Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program;
+
+      (II) facilitating the coordination of Federal activities that impact such restoration and protection;
+
+      (III) facilitating the delivery of feedback given by such agencies to the Puget Sound Partnership during the development of the Action Agenda;
+
+      (IV) facilitating the resolution of interagency conflicts associated with such restoration and protection among such agencies;
+
+      (V) providing a forum for exchanging information among such agencies regarding activities being conducted, including obstacles or efficiencies found, during restoration and protection activities; and
+
+      (VI) promoting the efficient use of government resources in pursuit of such restoration and protection through coordination and collaboration, including by ensuring that the Federal efforts relating to the science necessary for such restoration and protection are consistent, and not duplicative, across the Federal Government;
+
+    (iii) catalyze public leaders at all levels to work together toward shared goals by demonstrating interagency best practices coming from such agencies;
+
+    (iv) provide advice and support on scientific and technical issues and act as a forum for the exchange of scientific information about the Puget Sound;
+
+    (v) identify and inventory Federal environmental research and monitoring programs related to the Puget Sound, and provide such inventory to the Puget Sound National Estuary Program Management Conference;
+
+    (vi) ensure that Puget Sound restoration and protection activities are as consistent as practicable with ongoing restoration and protection and related efforts in the Salish Sea that are being conducted by Canadian authorities, the Pacific Salmon Commission, and the International Joint Commission;
+
+    (vii) ensure that Puget Sound restoration and protection activities are consistent with national security interests;
+
+    (viii) establish any working groups or committees necessary to assist the Puget Sound Federal Leadership Task Force in its duties, including relating to public policy and scientific issues; and
+
+    (ix) raise national awareness of the significance of the Puget Sound.
+
+  (B) *Puget Sound Federal Action Plan*
+
+    (i) *In general* — Not later than 5 years after December 23, 2022, the Puget Sound Federal Leadership Task Force shall develop and approve a Federal Action Plan that leverages Federal programs across agencies and serves to coordinate diverse programs and priorities for the restoration and protection of the Puget Sound.
+
+    (ii) *Revision of Puget Sound Federal Action Plan* — Not less often than once every 5 years after the date of approval of the Federal Action Plan under clause (i), the Puget Sound Federal Leadership Task Force shall review, and revise as appropriate, the Federal Action Plan.
+
+  (C) *Feedback by Federal agencies* — In facilitating feedback under subparagraph (A)(ii)(III), the Puget Sound Federal Leadership Task Force shall request Federal agencies to consider, at a minimum, possible Federal actions within the Puget Sound region designed to—
+
+    (i) further the goals, targets, and actions of the Action Agenda, the Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program;
+
+    (ii) as applicable, implement and enforce this chapter, the Endangered Species Act of 1973 [[16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.], and all other Federal laws that contribute to the restoration and protection of the Puget Sound, including those that protect Tribal treaty rights;
+
+    (iii) prevent the introduction and spread of invasive species;
+
+    (iv) protect marine and wildlife habitats;
+
+    (v) protect, restore, and conserve forests, wetlands, riparian zones, and nearshore waters;
+
+    (vi) promote resilience to climate change and ocean acidification effects;
+
+    (vii) restore fisheries so that they are sustainable and productive;
+
+    (viii) preserve biodiversity;
+
+    (ix) restore and protect ecosystem services that provide clean water, filter toxic chemicals, and increase ecosystem resilience; and
+
+    (x) improve water quality, including by preventing and managing stormwater runoff, incorporating erosion control techniques and trash capture devices, using sustainable stormwater practices, and mitigating and minimizing nonpoint source pollution, including marine litter.
+
+(4) **Participation of State Advisory Committee and Puget Sound Tribal Management Conference** — The Puget Sound Federal Leadership Task Force shall carry out its duties with input from, and in collaboration with, the State Advisory Committee and the Puget Sound Tribal Management Conference, including by seeking advice and recommendations on the actions, progress, and issues pertaining to the restoration and protection of the Puget Sound.
+
+(5) **Meetings**
+
+  (A) *Initial meeting* — The Puget Sound Federal Leadership Task Force shall meet not later than 180 days after December 23, 2022—
+
+    (i) to determine if all Federal agencies are properly represented;
+
+    (ii) to establish the bylaws of the Puget Sound Federal Leadership Task Force;
+
+    (iii) to establish necessary working groups or committees; and
+
+    (iv) to determine subsequent meeting times, dates, and logistics.
+
+  (B) *Subsequent meetings* — After the initial meeting, the Puget Sound Federal Leadership Task Force shall meet, at a minimum, twice per year to carry out the duties of the Puget Sound Federal Leadership Task Force.
+
+  (C) *Working group meetings* — A meeting of any established working group or committee of the Puget Sound Federal Leadership Task Force shall not be considered a biannual meeting for purposes of subparagraph (B).
+
+  (D) *Joint meetings* — The Puget Sound Federal Leadership Task Force—
+
+    (i) shall offer to meet jointly with the Puget Sound National Estuary Program Management Conference and the Puget Sound Tribal Management Conference, at a minimum, once per year; and
+
+    (ii) may consider such a joint meeting to be a biannual meeting of the Puget Sound Federal Leadership Task Force for purposes of subparagraph (B).
+
+  (E) *Quorum* — A simple majority of the members of the Puget Sound Federal Leadership Task Force shall constitute a quorum.
+
+  (F) *Voting* — For the Puget Sound Federal Leadership Task Force to take an official action, a quorum shall be present, and at least a two-thirds majority of the members present shall vote in the affirmative.
+
+(6) **Puget Sound Federal Leadership Task Force procedures and advice**
+
+  (A) *Advisors* — The Puget Sound Federal Leadership Task Force may seek advice and input from any interested, knowledgeable, or affected party as the Puget Sound Federal Leadership Task Force determines necessary to perform its duties.
+
+  (B) *Compensation* — A member of the Puget Sound Federal Leadership Task Force shall receive no additional compensation for service as a member on the Puget Sound Federal Leadership Task Force.
+
+  (C) *Travel expenses* — Travel expenses incurred by a member of the Puget Sound Federal Leadership Task Force in the performance of service on the Puget Sound Federal Leadership Task Force may be paid by the agency that the member represents.
+
+(7) **Puget Sound Federal Task Force**
+
+  (A) *In general* — On December 23, 2022, the 2016 memorandum of understanding establishing the Puget Sound Federal Task Force shall cease to be effective.
+
+  (B) *Use of previous work* — The Puget Sound Federal Leadership Task Force shall, to the extent practicable, use the work product produced, relied upon, and analyzed by the Puget Sound Federal Task Force in order to avoid duplicating the efforts of the Puget Sound Federal Task Force.
+
+**(d) State Advisory Committee**
+
+(1) **Establishment** — There is established a State Advisory Committee.
+
+(2) **Membership** — The State Advisory Committee shall consist of up to seven members designated by the governing body of the Puget Sound Partnership, in consultation with the Governor of Washington, who will represent Washington State agencies that have significant roles and responsibilities related to the restoration and protection of the Puget Sound.
+
+**(e) Puget Sound Federal Leadership Task Force biennial report on Puget Sound restoration and protection activities**
+
+(1) **In general** — Not later than 1 year after December 23, 2022, and biennially thereafter, the Puget Sound Federal Leadership Task Force, in collaboration with the Puget Sound Tribal Management Conference and the State Advisory Committee, shall submit to the President, Congress, the Governor of Washington, and the governing body of the Puget Sound Partnership a report that summarizes the progress, challenges, and milestones of the Puget Sound Federal Leadership Task Force relating to the restoration and protection of the Puget Sound.
+
+(2) **Contents** — The report submitted under paragraph (1) shall include a description of the following:
+
+  (A) The roles and progress of each State, local government entity, and Federal agency that has jurisdiction in the Puget Sound region relating to meeting the identified objectives and priorities of the Action Agenda, the Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program.
+
+  (B) If available, the roles and progress of Tribal governments that have jurisdiction in the Puget Sound region relating to meeting the identified objectives and priorities of the Action Agenda, the Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program.
+
+  (C) A summary of specific recommendations concerning implementation of the Action Agenda and the Federal Action Plan, including challenges, barriers, and anticipated milestones, targets, and timelines.
+
+  (D) A summary of progress made by Federal agencies toward the priorities identified in the Federal Action Plan.
+
+**(f) Tribal rights and consultation**
+
+(1) **Preservation of tribal treaty rights** — Nothing in this section affects, or is intended to affect, any right reserved by treaty between the United States and one or more Indian tribes.
+
+(2) **Consultation** — Nothing in this section affects any authorization or obligation of a Federal agency to consult with an Indian tribe under any other provision of law.
+
+**(g) Consistency**
+
+(1) **In general** — Actions authorized or implemented under this section shall be consistent with—
+
+  (A) the Salmon Recovery Plans;
+
+  (B) the Coastal Nonpoint Pollution Control Program; and
+
+  (C) the water quality standards of the State of Washington approved by the Administrator under [section 1313 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1313).
+
+(2) **Federal actions** — All Federal agencies represented on the Puget Sound Federal Leadership Task Force shall act consistently with the protection of Tribal, treaty-reserved rights and, to the greatest extent practicable given such agencies’ existing obligations under Federal law, act consistently with the objectives and priorities of the Action Agenda, the Salmon Recovery Plans, the Treaty Rights at Risk Initiative, and the Coastal Nonpoint Pollution Control Program, when—
+
+  (A) conducting Federal agency activities within or outside the Puget Sound that affect any land or water use or natural resources of the Puget Sound region, including activities performed by a contractor for the benefit of a Federal agency;
+
+  (B) interpreting and enforcing regulations that impact the restoration and protection of the Puget Sound;
+
+  (C) issuing Federal licenses or permits that impact the restoration and protection of the Puget Sound; and
+
+  (D) granting Federal assistance to State, local, and Tribal governments for activities related to the restoration and protection of the Puget Sound.
+
+### Statutory Notes
+
+#### References in Text
+The Endangered Species Act of 1973, referred to in subsec. (c)(3)(C)(ii), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+
 <a id="section-1281"></a>
 ## § 1281. Congressional declaration of purpose
 **(a) Development and implementation of waste treatment management plans and practices** It is the purpose of this subchapter to require and to assist the development and implementation of waste treatment management plans and practices which will achieve the goals of this chapter.
@@ -2568,7 +2968,7 @@ Pub. L. 104–303, title V, § 586, Oct. 12, 1996, 110 Stat. 3791, provided that
 Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912, provided in part: “That notwithstanding any other provision of law, beginning in fiscal year 1997 the Administrator may make grants to States, from funds available for obligation in the State under title II of the Federal Water Pollution Control Act [[33 U.S.C. 1281](./chapter-026-water-pollution-prevention-and-control.md#section-1281) et seq.], as amended, for administering the completion and closeout of the State’s construction grants program, based on a budget annually negotiated with the State”.
 
 #### Wastewater Assistance to Colonias
-Pub. L. 104–182, title III, § 307, Aug. 6, 1996, 110 Stat. 1688, provided that: “(a) Definitions.—As used in this section:“(1) Border state.—The term ‘border State’ means Arizona, California, New Mexico, and Texas. “(2) Eligible community.—The term ‘eligible community’ means a low-income community with economic hardship that—“(A) is commonly referred to as a colonia; “(B) is located along the United States-Mexico border (generally in an unincorporated area); and “(C) lacks basic sanitation facilities such as household plumbing or a proper sewage disposal system. “(3) Treatment works.—The term ‘treatment works’ has the meaning provided in section 212(2) of the Federal Water Pollution Control Act ([33 U.S.C. 1292(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1292/2&num=0&edition=prelim)). “(b) Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a border State to provide assistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment. “(c) Use of Funds.—Each grant awarded pursuant to subsection (b) shall be used to provide assistance to one or more eligible communities with respect to which the residents are subject to a significant health risk (as determined by the Administrator or the head of the Federal agency making the grant) attributable to the lack of access to an adequate and affordable treatment works for wastewater. “(d) Cost Sharing.—The amount of a grant awarded pursuant to this section shall not exceed 50 percent of the costs of carrying out the project that is the subject of the grant. “(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $25,000,000 for each of the fiscal years 1997 through 1999.”
+Pub. L. 104–182, title III, § 307, Aug. 6, 1996, 110 Stat. 1688, as amended by Pub. L. 117–263, div. H, title LXXXV, § 8503, Dec. 23, 2022, 136 Stat. 3856, provided that: “(a) Definitions.—As used in this section:“(1) Border state.—The term ‘border State’ means Arizona, California, New Mexico, and Texas. “(2) Covered entity.—The term ‘covered entity’ means each of the following:“(A) A border State. “(B) A local government with jurisdiction over an eligible community. “(3) Eligible community.—The term ‘eligible community’ means a low-income community with economic hardship that—“(A) is commonly referred to as a colonia; “(B) is located along the United States-Mexico border (generally in an unincorporated area); and “(C) lacks basic sanitation facilities such as household plumbing or a proper sewage disposal system. “(4) Treatment works.—The term ‘treatment works’ has the meaning provided in section 212(2) of the Federal Water Pollution Control Act ([33 U.S.C. 1292(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1292/2&num=0&edition=prelim)). “(b) Grants for Wastewater Assistance.—The Administrator of the Environmental Protection Agency and the heads of other appropriate Federal agencies are authorized to award grants to a covered entity to provide assistance to eligible communities for the planning, design, and construction or improvement of sewers, treatment works, and appropriate connections for wastewater treatment. “(c) Use of Funds.—Each grant awarded pursuant to subsection (b) shall be used to provide assistance to one or more eligible communities with respect to which the residents are subject to a significant health risk (as determined by the Administrator or the head of the Federal agency making the grant) attributable to the lack of access to an adequate and affordable treatment works for wastewater. “(d) Cost Sharing.—The amount of a grant awarded pursuant to this section may not be less than 80 percent of the costs of carrying out the project that is the subject of the grant. “(e) Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $100,000,000 for each of the fiscal years 2023 through 2027.”
 
 #### Grants to Indian Tribes for Pollution Prevention, Control and Abatement
 Pub. L. 105–65, title III, Oct. 27, 1997, 111 Stat. 1373, provided in part that: “$745,000,000 for grants to States, federally recognized tribes, and air pollution control agencies for multi-media or single media pollution prevention, control and abatement and related activities pursuant to the provisions set forth under this heading in Public Law 104–134 [see below], provided that eligible recipients of these funds and the funds made available for this purpose since fiscal year 1996 and hereafter include States, federally recognized tribes, interstate agencies, tribal consortia, and air pollution control agencies, as provided in authorizing statutes, subject to such terms and conditions as the Administrator shall establish, and for making grants under section 103 of the Clean Air Act [[42 U.S.C. 7403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7403&num=0&edition=prelim)] for particulate matter monitoring and data collection activities”.
@@ -3270,7 +3670,7 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 ### Statutory Notes
 
 #### References in Text
-The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962&num=0&edition=prelim) and Tables.
+The Water Resources Planning Act, referred to in subsec. (a), is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1290"></a>
@@ -3398,7 +3798,7 @@ Amendment by Pub. L. 96–483 effective Dec. 27, 1977, see section 2(g) of Pub. 
 #### References in Text
 [Section 1171 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1171&num=0&edition=prelim), referred to in subsec. (a), was omitted as superseded.
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (b), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 The Federal Water Pollution Control Act, referred to in subsec. (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to this chapter (§ 1251 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1251) and Tables.
 
@@ -3499,7 +3899,7 @@ Whenever the Governor of a State which has been delegated sufficient authority t
 ### Statutory Notes
 
 #### References in Text
-The Reclamation Projects Authorization and Adjustment Act of 1992, referred to in subsec. (e)(1), is Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4600, as amended. Provisions relating to the reclamation and reuse program are classified generally to section 390h et seq. of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 371 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section371&num=0&edition=prelim) and Tables.
+The Reclamation Projects Authorization and Adjustment Act of 1992, referred to in subsec. (e)(1), is Pub. L. 102–575, Oct. 30, 1992, 106 Stat. 4600. Provisions relating to the reclamation and reuse program are classified generally to section 390h et seq. of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 371 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section371&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2021—Subsec. (b). Pub. L. 117–58, § 50203(6), redesignated subsec. (i) as (b). Former subsec. (b) redesignated (c).
@@ -4334,7 +4734,7 @@ For the purposes of this subsection the phrase “the discharge of any pollutant
 ### Statutory Notes
 
 #### References in Text
-The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (p)(4), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
+The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (p)(4), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, which is classified generally to chapter 25 (§ 1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 1201 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1995—Subsec. (n)(8). Pub. L. 104–66 substituted “By January 1, 1997, and January 1 of every odd-numbered year thereafter, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure” for “Every 6 months after February 4, 1987, the Administrator shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Public Works and Transportation”.
@@ -4825,7 +5225,7 @@ Section was enacted as part of the America’s Water Infrastructure Act of 2018,
 
 <a id="section-1315"></a>
 ## § 1315. State reports on water quality
-**(a)** Omitted
+**(a)** Omitted.
 
 **(b)**
 
@@ -5460,6 +5860,8 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
   (B) An owner or operator participating in efforts under this subsection shall act in accordance with the National Contingency Plan and the applicable response plan required under subsection (j), or as directed by the President, except that the owner or operator may deviate from the applicable response plan if the President or the Federal On-Scene Coordinator determines that deviation from the response plan would provide for a more expeditious or effective response to the spill or mitigation of its environmental effects.
 
+  (C) In any case in which the President or the Federal On-Scene Coordinator authorizes a deviation from the salvor as part of a deviation under subparagraph (B) from the applicable response plan required under subsection (j), the Commandant of the Coast Guard shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the deviation and the reasons for such deviation not less than 3 days after such deviation is authorized.
+
 (4) **Exemption from liability**
 
   (A) A person is not liable for removal costs or damages which result from actions taken or omitted to be taken in the course of rendering care, assistance, or advice consistent with the National Contingency Plan or as otherwise directed by the President relating to a discharge or a substantial threat of a discharge of oil or a hazardous substance.
@@ -5720,6 +6122,102 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 (7) **Area drills** — The President shall periodically conduct drills of removal capability, without prior notice, in areas for which Area Contingency Plans are required under this subsection and under relevant tank vessel, nontank vessel, and facility response plans. The drills may include participation by Federal, State, and local agencies, the owners and operators of vessels and facilities in the area, and private industry. The President may publish annual reports on these drills, including assessments of the effectiveness of the plans and a list of amendments made to improve plans.
 
 (8) **United States Government not liable** — The United States Government is not liable for any damages arising from its actions or omissions relating to any response plan required by this section.
+
+(9) **Western Alaska oil spill planning criteria program**
+
+  (A) *Definitions* — In this paragraph:
+
+    (i) *Alternative planning criteria* — The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on December 23, 2022), for vessel response plans.
+
+    (ii) *Prince William Sound Captain of the Port Zone* — The term “Prince William Sound Captain of the Port Zone” means the area described in section 3.85–15(b) of title 33, Code of Federal Regulations (or successor regulations).
+
+    (iii) *Secretary* — The term “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+
+    (iv) *Vessel response plan* — The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under paragraph (5).
+
+    (v) *Western Alaska Captain of the Port Zone* — The term “Western Alaska Captain of the Port Zone” means the area described in section 3.85–15(a) of title 33, Code of Federal Regulations (as in effect on December 23, 2022).
+
+  (B) *Requirement* — Except as provided in subparagraph (I), for any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area, a vessel response plan with respect to a discharge of oil for such a vessel shall comply with the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
+
+  (C) *Relation to national planning criteria* — The Western Alaska oil spill planning criteria established under subparagraph (D)(i) shall, with respect to a discharge of oil from a vessel described in subparagraph (B), apply in lieu of any alternative planning criteria accepted for vessels operating, prior to the date on which the Western Alaska oil spill planning criteria are established, in any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area.
+
+  (D) *Establishment of Western Alaska oil spill planning criteria*
+
+    (i) *In general* — The President, acting through the Commandant, in consultation with the Western Alaska Oil Spill Criteria Program Manager selected under [section 323 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section323&num=0&edition=prelim), shall establish—
+
+      (I) Western Alaska oil spill planning criteria for a worst case discharge of oil, and a substantial threat of such a discharge, within any part of the area of responsibility of the Western Alaska Captain of the Port Zone or Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area; and
+
+      (II) standardized submission, review, approval, and compliance verification processes for the Western Alaska oil spill planning criteria established under this clause, including the quantity and frequency of drills and on-site verifications of vessel response plans approved pursuant to such planning criteria.
+
+    (ii) *Development of subregions*
+
+      (I) *Development* — After establishing the Western Alaska oil spill planning criteria under clause (i), and if necessary to adequately reflect the needs and capabilities of various locations within the Western Alaska Captain of the Port Zone, the President, acting through the Commandant, and in consultation with the Western Alaska Oil Spill Criteria Program Manager selected under [section 323 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section323&num=0&edition=prelim), may develop subregions for which planning criteria may differ from planning criteria for other subregions in the Western Alaska Captain of the Port Zone.
+
+      (II) *Limitation* — Any planning criteria for a subregion developed under this clause may not be less stringent than the Western Alaska oil spill planning criteria established under clause (i).
+
+    (iii) *Assessment*
+
+      (I) *In general* — Prior to developing a subregion, the President, acting through the Commandant, shall conduct an assessment on any potential impacts to the entire Western Alaska Captain of the Port Zone to include quantity and availability of response resources in the proposed subregion and in surrounding areas and any changes or impacts to surrounding areas resulting in the development of a subregion with different standards.
+
+      (II) *Consultation* — In conducting an assessment under this clause, the President, acting through the Commandant, shall consult with State and local governments, Tribes (as defined in [section 323 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section323&num=0&edition=prelim)), the owners and operators that would operate under the proposed subregions, oil spill removal organizations, Alaska Native organizations, and environmental nongovernmental organizations, and shall take into account any experience with the prior use of subregions within the State of Alaska.
+
+      (III) *Submission* — The President, acting through the Commandant, shall submit the results of an assessment conducted under this clause to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+  (E) *Inclusions*
+
+    (i) *Requirements* — The Western Alaska oil spill planning criteria established under subparagraph (D)(i) shall include planning criteria for the following:
+
+      (I) Mechanical oil spill response resources that are required to be located within any part of the area of responsibility of the Western Alaska Captain of the Port Zone or the Prince William Sound Captain of the Port Zone for which the Secretary has determined that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in such area.
+
+      (II) Response times for mobilization of oil spill response resources and arrival on the scene of a worst case discharge of oil, or substantial threat of such a discharge, occurring within such part of such area.
+
+      (III) Pre-identified vessels for oil spill response that are capable of operating in the ocean environment.
+
+      (IV) Ensuring the availability of at least 1 oil spill removal organization that is classified by the Coast Guard and that—
+
+        (aa) is capable of responding in all operating environments in such part of such area;
+
+        (bb) controls oil spill response resources of dedicated and nondedicated resources within such part of such area, through ownership, contracts, agreements, or other means approved by the President, sufficient—
+
+          (AA) to mobilize and sustain a response to a worst case discharge of oil; and
+
+          (BB) to contain, recover, and temporarily store discharged oil;
+
+        (cc) has pre-positioned oil spill response resources in strategic locations throughout such part of such area in a manner that ensures the ability to support response personnel, marine operations, air cargo, or other related logistics infrastructure;
+
+        (dd) has temporary storage capability using both dedicated and non-dedicated assets located within such part of such area;
+
+        (ee) has non-mechanical oil spill response resources capable of responding to a discharge of persistent oil and a discharge of nonpersistent oil, whether the discharged oil was carried by a vessel as fuel or cargo; and
+
+        (ff) has wildlife response resources for primary, secondary, and tertiary responses to support carcass collection, sampling, deterrence, rescue, and rehabilitation of birds, sea turtles, marine mammals, fishery resources, and other wildlife.
+
+      (V) With respect to tank barges carrying nonpersistent oil in bulk as cargo, oil spill response resources that are required to be carried on board.
+
+      (VI) Specifying a minimum length of time that approval of a vessel response plan under this paragraph is valid.
+
+      (VII) Managing wildlife protection and rehabilitation, including identified wildlife protection and rehabilitation resources in that area.
+
+    (ii) *Additional considerations* — The Western Alaska oil spill planning criteria established under subparagraph (D)(i) may include planning criteria for the following:
+
+      (I) Vessel routing measures consistent with international routing measure deviation protocols.
+
+      (II) Maintenance of real-time continuous vessel tracking, monitoring, and engagement protocols with the ability to detect and address vessel operation anomalies.
+
+  (F) *Requirement for approval* — The President may approve a vessel response plan for a vessel under this paragraph only if the owner or operator of the vessel demonstrates the availability of the oil spill response resources required to be included in the vessel response plan under the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
+
+  (G) *Periodic audits* — The Secretary shall conduct periodic audits to ensure compliance of vessel response plans and oil spill removal organizations within the Western Alaska Captain of the Port Zone and the Prince William Sound Captain of the Port Zone with the Western Alaska oil spill planning criteria established under subparagraph (D)(i).
+
+  (H) *Review of determination* — Not less frequently than once every 5 years, the Secretary shall review each determination of the Secretary under subparagraph (B) that the national planning criteria established pursuant to this subsection are inappropriate for a vessel operating in the area of responsibility of the Western Alaska Captain of the Port Zone and the Prince William Sound Captain of the Port Zone.
+
+  (I) *Vessels in Cook Inlet* — Unless otherwise authorized by the Secretary, a vessel may only operate in Cook Inlet, Alaska, under a vessel response plan approved under paragraph (5) that meets the requirements of the national planning criteria established pursuant to this subsection.
+
+  (J) *Savings provisions* — Nothing in this paragraph affects—
+
+    (i) the requirements under this subsection applicable to vessel response plans for vessels operating within the area of responsibility of the Western Alaska Captain of the Port Zone, within Cook Inlet, Alaska;
+
+    (ii) the requirements under this subsection applicable to vessel response plans for vessels operating within the area of responsibility of the Prince William Sound Captain of the Port Zone that are subject to section 5005 of the Oil Pollution Act of 1990 ([33 U.S.C. 2735](./chapter-040-oil-pollution.md#section-2735)); or
+
+    (iii) the authority of a Federal On-Scene Coordinator to use any available resources when responding to an oil spill.
 
 **(k) Repealed. Pub. L. 101–380, title II, § 2002(b)(2), Aug. 18, 1990, 104 Stat. 507**
 
@@ -6045,7 +6543,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
           (BB) the Committee on Environment and Public Works, the Committee on Commerce, Science, and Transportation, the Committee on Energy and Natural Resources, and the Committee on Appropriations of the Senate.
 
-    (viii) *Application of Federal Advisory Committee Act* — The Council, or any other advisory committee established under this subparagraph, shall not be considered an advisory committee under the Federal Advisory Committee Act (5 U.S.C. App.).
+    (viii) *Application of chapter 10 of title 5* — The Council, or any other advisory committee established under this subparagraph, shall not be considered an advisory committee under chapter 10 of title 5.
 
     (ix) *Sunset* — The authority for the Council, and any other advisory committee established under this subparagraph, shall terminate on the date all funds in the Trust Fund have been expended.
 
@@ -6200,11 +6698,11 @@ Section 1001 of the Oil Pollution Act, referred to in subsec. (a)(11), probably 
 
 The Resources and Ecosystems Sustainability, Tourist Opportunities, and Revived Economies of the Gulf Coast States Act of 2012, referred to in subsecs. (a)(35) and (t)(2)(C)(vii)(IV), (VII)(ee), (D)(ii)(III), (IV)(bb), (E)(ii)(II), (4)(A), is subtitle F (§§ 1601–1608) of title I of div. A of Pub. L. 112–141, July 6, 2012, 126 Stat. 588, which is set out as a note below.
 
-The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
-The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-029-deepwater-ports.md#section-1501) and Tables.
+The Deepwater Port Act of 1974, referred to in subsecs. (b)(1), (2)(A), (3) and (r), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-029-deepwater-ports.md#section-1501) and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (b)(1), (2)(A), (3), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, which is classified principally to chapter 38 (§ 1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1801&num=0&edition=prelim) and Tables.
 
 The date of enactment of this paragraph, referred to in subsec. (b)(2)(B), probably means the date of enactment of Pub. L. 95–576, which amended subsec. (b)(2)(B) and which was approved Nov. 2, 1978.
 
@@ -6214,7 +6712,7 @@ Section 4367 of the Revised Statutes of the United States (46 U.S.C. App. 313), 
 
 [Section 1443 of title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1443&num=0&edition=prelim), referred to in subsec. (b)(12)(C), was repealed by Pub. L. 103–182, title VI, § 690(b)(6), Dec. 8, 1993, 107 Stat. 2223.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (c)(4)(B)(ii), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
 The Oil Pollution Act of 1990, referred to in subsecs. (c)(5)(B), (d)(2)(H), and (j)(5)(H), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, which is classified principally to chapter 40 (§ 2701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§ 2701 et seq.) of chapter 40 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
@@ -6224,12 +6722,16 @@ Par. (3) of [section 1901(a) of this title](https://uscode.house.gov/view.xhtml?
 
 Subsection (i)(l), referred to in subsec. (n), probably should be “subsection (i)(1)”. The par. (1) designation was struck out from subsec. (i) by Pub. L. 101–380, title II, §2002(b)(1), Aug. 18, 1990, 104 Stat. 507.
 
-The Federal Advisory Committee Act, referred to in subsec. (t)(2)(C)(viii), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 In subsec. (b)(12)(A), “[section 60105 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim)” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, § 18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted [section 60105 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section60105&num=0&edition=prelim), Shipping.
 
 #### Amendments
+2022—Subsec. (c)(3)(C). Pub. L. 117–263, § 11306, added subpar. (C).
+
+Subsec. (j)(9). Pub. L. 117–263, § 11309(b)(1), added par. (9).
+
+Subsec. (t)(2)(C)(viii). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
+
 2018—Subsec. (a)(26)(D). Pub. L. 115–232 substituted “section 2101(23)” for “section 2101(17a)”.
 
 2017—Subsec. (a)(11). Pub. L. 115–91 substituted “any facility” for “and any facility” and inserted “, and, for the purposes of applying subsections (b), (c), (e), and (o), any foreign offshore unit (as defined in section 1001 of the Oil Pollution Act) or any other facility located seaward of the exclusive economic zone” after “public vessel”.
@@ -6462,13 +6964,30 @@ Amendment by Pub. L. 96–478 effective Oct. 2, 1983, see section 14(a) of Pub. 
 #### Effective Date of 1977 Amendment
 Pub. L. 95–217, § 58(h), Dec. 27, 1977, 91 Stat. 1596, provided that: “The amendments made by paragraphs (5) and (6) of subsection (d) of this section [amending this section] shall take effect 180 days after the date of enactment of the Clean Water Act of 1977 [Dec. 27, 1977].”
 
+#### Rule of Construction
+Nothing in amendment made by section 11309(b)(1) of Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under [section 245 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section245&num=0&edition=prelim), Domestic Security.
+
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Limited Indemnity Provisions in Standby Oil Spill Response Contracts
+Pub. L. 117–263, div. K, title CXIII, § 11307, Dec. 23, 2022, 136 Stat. 4078, provided that: “(a) In General.—Subject to subsections (b) and (c), a contract with the Coast Guard for the containment or removal of a discharge entered into by the President under section 311(c) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim)) shall contain a provision to indemnify a contractor for liabilities and expenses incidental to the containment or removal arising out of the performance of the contract that is substantially identical to the terms contained in subsections (d) through (h) of section H.4 (except for paragraph (1) of subsection (d)) of the contract offered by the Coast Guard in the solicitation numbered DTCG89–98– A–68F953, dated November 17, 1998. “(b) Requirements.—“(1) Source of funds.—The provision required under subsection (a) shall include a provision that the obligation to indemnify is limited to funds available in the Oil Spill Liability Trust Fund established by section 9509(a) of the Internal Revenue Code of 1986 [[26 U.S.C. 9509(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509/a&num=0&edition=prelim)] at the time the claim for indemnity is made. “(2) Uncompensated removal.—A claim for indemnity under a contract described in subsection (a) shall be made as a claim for uncompensated removal costs under section 1012(a)(4) of the Oil Pollution Act of 1990 ([33 U.S.C. 2712(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2712/a/4&num=0&edition=prelim)). “(3) Limitation.—The total indemnity for a claim under a contract described in subsection (a) may not be more than $50,000 per incident. “(c) Applicability of Exemptions.—Notwithstanding subsection (a), the United States shall not be obligated to indemnify a contractor for any act or omission of the contractor carried out pursuant to a contract entered into under this section where such act or omission is grossly negligent or which constitutes willful misconduct.”
+
+#### Establishment of Western Alaska Oil Spill Planning Criteria
+Pub. L. 117–263, div. K, title CXIII, § 11309(b)(2), Dec. 23, 2022, 136 Stat. 4085, provided that: “(A) Deadline.—Not later than 2 years after the date of enactment of this Act [Dec. 23, 2022], the President shall establish the Western Alaska oil spill planning criteria required to be established under paragraph (9)(D)(i) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)). “(B) Consultation.—In establishing the Western Alaska oil spill planning criteria described in subparagraph (A), the President shall consult with the Federal agencies, State and local governments, Tribes (as defined in [section 323 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section323&num=0&edition=prelim), United States Code), the owners and operators that would be subject to such planning criteria, oil spill removal organizations, Alaska Native organizations, and environmental nongovernmental organizations. “(C) Congressional report.—Not later than 2 years after the date of enactment of this Act, the Secretary shall submit to Congress a report describing the status of implementation of paragraph (9) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)).”
+
+[Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under [section 245 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section245&num=0&edition=prelim), Domestic Security.]
+
+[For definition of “Secretary” as used in section 11309(b)(2) of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard.]
 
 #### Termination of United States District Court for the District of the Canal Zone
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Coast Guard Response Plan Requirements
+Pub. L. 117–263, div. K, title CXIII, § 11315, Dec. 23, 2022, 136 Stat. 4087, provided that: “(a) In General.—Subject to the availability of appropriations, the Commandant [of the Coast Guard] shall develop and carry out a program—“(1) to increase collection and improve the quality of incident data on oil spill location and response capability by periodically evaluating the data, documentation, and analysis of—“(A) Coast Guard-approved vessel response plans, including vessel response plan audits and assessments; “(B) oil spill response drills conducted under section 311(j)(7) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j/7&num=0&edition=prelim)) that occur within the Marine Transportation System; and “(C) responses to oil spill incidents that require mobilization of contracted response resources; “(2) to improve the effectiveness of vessel response plans by—“(A) systematically reviewing the capacity of an oil spill response organization identified in a vessel response plan to provide the specific response resources, such as private personnel, equipment, other vessels identified in such vessel response plan; and “(B) approving a vessel response plan only after confirming the identified oil spill response organization has the capacity to provide such response resources; “(3) to update, not less frequently than annually, information contained in the Coast Guard Response Resource Inventory and other Coast Guard tools used to document the availability and status of oil spill response equipment, so as to ensure that such information remains current; and “(4) subject to [section 552 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552&num=0&edition=prelim), United States Code (commonly known as the ‘Freedom of Information Act’), to make data collected under paragraph (1) available to the public. “(b) Policy.—Not later than 1 year after the date of enactment of this Act [Dec. 23, 2022], the Commandant shall issue a policy—“(1) to establish processes to maintain the program under subsection (a) and support Coast Guard oil spill prevention and response activities, including by incorporating oil spill incident data from after-action oil spill reports and data ascertained from vessel response plan exercises and audits into—“(A) review and approval process standards and metrics; “(B) alternative planning criteria review processes; “(C) Area Contingency Plan development; “(D) risk assessments developed under [section 70001 of title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70001&num=0&edition=prelim), United States Code, including lessons learned from reportable marine casualties; “(E) processes and standards which mitigate the impact of military personnel rotations in Coast Guard field units on knowledge and awareness of vessel response plan requirements, including knowledge relating to the evaluation of proposed alternatives to national planning requirements; and “(F) processes and standards which evaluate the consequences of reporting inaccurate data in vessel response plans submitted to the Commandant pursuant to part 300 of title 40, Code of Federal Regulations, and submitted for storage in the Marine Information for Safety and Law Enforcement database pursuant to section 300.300 of such title (or any successor regulation); “(2) to standardize and develop tools, training, and other relevant guidance that may be shared with vessel owners and operators to assist with accurately calculating and measuring the performance and viability of proposed alternatives to national planning criteria requirements and Area Contingency Plans administered by the Coast Guard; “(3) to improve training of Coast Guard personnel to ensure continuity of planning activities under this section, including by identifying ways in which civilian staffing may improve the continuity of operations; and “(4) to increase Federal Government engagement with State, local, and Tribal governments and stakeholders so as to strengthen coordination and efficiency of oil spill responses. “(c) Periodic Updates.—Not less frequently than every 5 years, the Commandant shall update the processes established under subsection (b)(1) to incorporate relevant analyses of—“(1) incident data on oil spill location and response quality; “(2) oil spill risk assessments; “(3) oil spill response effectiveness and the effects of such response on the environment; “(4) oil spill response drills conducted under section 311(j)(7) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j/7&num=0&edition=prelim)); “(5) marine casualties reported to the Coast Guard; and “(6) near miss incidents documented by a vessel traffic service center (as such terms are defined in sections 70001(m) of title 46, United States Code). “(d) Report.—“(1) In general.—Not later than 1 year after the date of enactment of this Act, and annually thereafter for 5 years, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the status of ongoing and planned efforts to improve the effectiveness and oversight of the program established under subsection (a) and vessel response plan approvals. “(2) Public availability.—The Commandant shall publish the briefing required under paragraph (1) on a publicly accessible website of the Coast Guard.”
+
+[Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under [section 245 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section245&num=0&edition=prelim), Domestic Security.]
+
 Pub. L. 115–282, title VIII, § 823(a), Dec. 4, 2018, 132 Stat. 4311, provided that: “(1) In general.—For purposes of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701) et seq.), the Commandant of the Coast Guard may approve a vessel response plan under section 311 of the Federal Water Pollution Control Act ([33 U.S.C. 1321](./chapter-026-water-pollution-prevention-and-control.md#section-1321)) for a vessel operating in any area covered by the Captain of the Port Zone (as established by the Commandant) that includes the Arctic, if the Commandant verifies that—“(A) equipment required to be available for response under the plan has been tested and proven capable of operating in the environmental conditions expected in the area in which it is intended to be operated; and “(B) the operators of such equipment have conducted training on the equipment within the area covered by such Captain of the Port Zone. “(2) Post-approval requirements.—In approving a vessel response plan under paragraph (1), the Commandant shall—“(A) require that the oil spill removal organization identified in the vessel response plan conduct regular exercises and drills using the response resources identified in the plan in the area covered by the Captain of the Port Zone that includes the Arctic; and “(B) allow such oil spill removal organization to take credit for a response to an actual spill or release in the area covered by such Captain of the Port Zone, instead of conducting an exercise or drill required under subparagraph (A), if the oil spill removal organization—“(i) documents which exercise or drill requirements were met during the response; and “(ii) submits a request for credit to, and receives approval from, the Commandant.”
 
 Pub. L. 113–281, title III, § 317, Dec. 18, 2014, 128 Stat. 3050, provided that: “(a) Vessel Response Plan Contents.—The Secretary of the department in which the Coast Guard is operating shall require that each vessel response plan prepared for a mobile offshore drilling unit includes information from the facility response plan prepared for the mobile offshore drilling unit regarding the planned response to a worst case discharge, and to a threat of such a discharge. “(b) Definitions.—In this section:“(1) Mobile offshore drilling unit.—The term ‘mobile offshore drilling unit’ has the meaning given that term in section 1001 of the Oil Pollution Act of 1990 ([33 U.S.C. 2701](./chapter-040-oil-pollution.md#section-2701)). “(2) Response plan.—The term ‘response plan’ means a response plan prepared under section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)). “(3) Worst case discharge.—The term ‘worst case discharge’ has the meaning given that term under section 311(a) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/a&num=0&edition=prelim)). “(c) Rule of Construction.—Nothing in this section shall be construed to require the Coast Guard to review or approve a facility response plan for a mobile offshore drilling unit.”
@@ -8576,7 +9095,7 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 
 (4) **Report** — The Administrator shall include in each report transmitted under subsection (m) a report on the activities and programs implemented under this subsection during the preceding fiscal year.
 
-**(j) Authorization of appropriations** There is authorized to be appropriated to carry out subsections (h) and (i) not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i). Sums appropriated pursuant to this subsection shall remain available until expended.
+**(j) Authorization of appropriations** There is authorized to be appropriated to carry out subsections (h) and (i) $200,000,000 for each of fiscal years 2023 through 2027; except that for each of such fiscal years not to exceed $7,500,000 may be made available to carry out subsection (i). Sums appropriated pursuant to this subsection shall remain available until expended.
 
 **(k) Consistency of other programs and projects with management programs** The Administrator shall transmit to the Office of Management and Budget and the appropriate Federal departments and agencies a list of those assistance programs and development projects identified by each State under subsection (b)(2)(F) for which individual assistance applications and projects will be reviewed pursuant to the procedures set forth in Executive Order 12372 as in effect on September 17, 1983. Beginning not later than sixty days after receiving notification by the Administrator, each Federal department and agency shall modify existing regulations to allow States to review individual development projects and assistance applications under the identified Federal assistance programs and shall accommodate, according to the requirements and definitions of Executive Order 12372, as in effect on September 17, 1983, the concerns of the State regarding the consistency of such applications or projects with the State nonpoint source pollution management program.
 
@@ -8609,9 +9128,11 @@ Subsec. (c). Pub. L. 95–217 added subsec. (c).
 #### References in Text
 Executive Order 12372, referred to in subsecs. (b)(2)(F) and (k), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under [section 6506 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section6506&num=0&edition=prelim), Money and Finance.
 
-The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is Pub. L. 93–320, June 24, 1974, 88 Stat. 266, as amended, which is classified principally to chapter 32A (§ 1571 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1571 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1571&num=0&edition=prelim) and Tables.
+The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is Pub. L. 93–320, June 24, 1974, 88 Stat. 266, which is classified principally to chapter 32A (§ 1571 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1571 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1571&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (j). Pub. L. 117–263 substituted “subsections (h) and (i) $200,000,000 for each of fiscal years 2023 through 2027” for “subsections (h) and (i) not to exceed $70,000,000 for fiscal year 1988, $100,000,000 per fiscal year for each of fiscal years 1989 and 1990, and $130,000,000 for fiscal year 1991”.
+
 2002—Subsecs. (i)(4), (m), (n). Pub. L. 107–303 repealed Pub. L. 105–362, § 501(c). See 1998 Amendment note below.
 
 1998—Subsec. (i)(4). Pub. L. 105–362, § 501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
@@ -9326,7 +9847,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1987—Subsec. (s). Pub. L. 100–4 redesignated par. (5) as (4), substituted “$25,000 per day for each violation” for “$10,000 per day of such violation”, inserted provision specifying factors to consider in determining the penalty amount, and struck out former par. (4) which read as follows:
@@ -9343,6 +9864,9 @@ Subsecs. (d) to (t). Pub. L. 95–217, § 67(b), added subsecs. (d) to (t).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Maintenance Dredging Permits
+Pub. L. 117–263, div. H, title LXXXI, § 8126, Dec. 23, 2022, 136 Stat. 3715, provided that: “(a) In General.—The Secretary [of the Army] shall, to the maximum extent practicable, prioritize the reissuance of any regional general permit for maintenance dredging under section 404 of the Federal Water Pollution Control Act ([33 U.S.C. 1344](./chapter-026-water-pollution-prevention-and-control.md#section-1344)) that expired prior to May 1, 2021. “(b) Savings Provision.—Nothing in this section affects any obligation to comply with the provisions of any Federal or State environmental law, including—“(1) the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) et seq.); “(2) the Federal Water Pollution Control Act ([33 U.S.C. 1251](./chapter-026-water-pollution-prevention-and-control.md#section-1251) et seq.); and “(3) the Endangered Species Act of 1973 ([16 U.S.C. 1531](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) et seq.).”
 
 #### Mitigation and Mitigation Banking Regulations
 Pub. L. 108–136, div. A, title III, § 314(b), Nov. 24, 2003, 117 Stat. 1431, provided that: “(1) To ensure opportunities for Federal agency participation in mitigation banking, the Secretary of the Army, acting through the Chief of Engineers, shall issue regulations establishing performance standards and criteria for the use, consistent with section 404 of the Federal Water Pollution Control Act ([33 U.S.C. 1344](./chapter-026-water-pollution-prevention-and-control.md#section-1344)), of on-site, off-site, and in-lieu fee mitigation and mitigation banking as compensation for lost wetlands functions in permits issued by the Secretary of the Army under such section. To the maximum extent practicable, the regulatory standards and criteria shall maximize available credits and opportunities for mitigation, provide flexibility for regional variations in wetland conditions, functions and values, and apply equivalent standards and criteria to each type of compensatory mitigation. “(2) Final regulations shall be issued not later than two years after the date of the enactment of this Act [Nov. 24, 2003].”
@@ -9427,9 +9951,9 @@ The Solid Waste Disposal Act, referred to in subsec. (f)(1), is title II of Pub.
 
 The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act July 1, 1944, as added Dec. 16, 1974, Pub. L. 93–523, § 2(a), 88 Stat. 1660, as amended. Part C of the Act is classified generally to part C (§ 300h et seq.) of subchapter XII of chapter 6A of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
-The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
+The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, which is classified generally to chapters 32 (§ 1431 et seq.) and 32A (§ 1447 et seq.) of Title 16, Conservation, and chapters 27 (§ 1401 et seq.) and 41 (§ 2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1401 of this title](./chapter-027-ocean-dumping.md#section-1401) and Tables.
 
-The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
+The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, which is classified generally to chapter 85 (§ 7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 7401 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section7401&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1987—Subsec. (d). Pub. L. 100–4, § 406(a), designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
@@ -9779,7 +10303,7 @@ Pub. L. 87–88, § 6(c), July 20, 1961, 75 Stat. 207, provided that members of 
 Act July 9, 1956, ch. 518, § 3, 70 Stat. 507, provided that the terms of office of members of the Water Pollution Control Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
 
 #### Termination of Advisory Boards
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1364"></a>
@@ -9981,13 +10505,13 @@ Except as expressly provided in this chapter, nothing in this chapter shall (1) 
 ### Statutory Notes
 
 #### References in Text
-Act of March 3, 1899, referred to in subsec. (a), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, as amended, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended [section 686 of this title](./chapter-014-california-debris-commission.md#section-686). For complete classification of this Act to the Code, see Tables.
+Act of March 3, 1899, referred to in subsec. (a), is act Mar. 3, 1899, ch. 425, 30 Stat. 1121, which enacted sections 401, 403, 404, 406, 407, 408, 409, 411 to 416, 418, 502, 549, and 687 of this title and amended [section 686 of this title](./chapter-014-california-debris-commission.md#section-686). For complete classification of this Act to the Code, see Tables.
 
 The Rivers and Harbors Act of 1910, referred to in subsec. (b), probably means act June 23, 1910, ch. 359, 36 Stat. 593.
 
-The Supervisory Harbors Act of 1888, referred to in subsec. (b), probably means act June 29, 1888, ch. 496, 25 Stat. 209, as amended, which is classified generally to subchapter III (§ 441 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
+The Supervisory Harbors Act of 1888, referred to in subsec. (b), probably means act June 29, 1888, ch. 496, 25 Stat. 209, which is classified generally to subchapter III (§ 441 et seq.) of chapter 9 of this title. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1974—Subsec. (d). Pub. L. 93–243 added subsec. (d).
@@ -10049,7 +10573,7 @@ The permitting agency under [section 1342 of this title](./chapter-026-water-pol
 ### Statutory Notes
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
@@ -10141,7 +10665,7 @@ Pub. L. 97–117, § 25, Dec. 29, 1981, 95 Stat. 1633, provided that the Adminis
 Pub. L. 91–224, title I, § 109, Apr. 3, 1970, 34 Stat. 113, directed the Secretary of the Interior to conduct a full and complete investigation and study of the feasibility of all methods of financing the cost of preventing, controlling, and abating water pollution, other than methods authorized by existing law, with results of such investigation and study to be reported to Congress no later than Dec. 31, 1970, together with the recommendations of the Secretary for financing the programs for preventing, controlling, and abating water pollution for the fiscal years beginning after fiscal year 1971, including any necessary legislation.
 
 #### Termination of Advisory Boards
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law, see sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1375a"></a>

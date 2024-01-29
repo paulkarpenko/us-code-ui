@@ -93,11 +93,11 @@ This subchapter, referred to in subsec. (c)(1), was in the original “this Act�
 This section was enacted as part of the American Super Computing Leadership Act of 2017 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 
 #### Amendments
-2018—Subsec. (a)(1). Pub. L. 115–246, § 304(b)(3)(A), as amended by Pub. L. 117–167, § 10104(a)(1), substituted “coordinated program across the Department” for “program”.
+2018—Subsec. (a)(1). Pub. L. 115–246, § 304(b)(3)(A), formerly § 304(a)(3)(A), as renumbered by Pub. L. 117–167, substituted “coordinated program across the Department” for “program”.
 
-Subsec. (b)(2). Pub. L. 115–246, § 304(b)(3)(B), as amended by Pub. L. 117–167, § 10104(a)(1), struck out “, which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures” before semicolon at end.
+Subsec. (b)(2). Pub. L. 115–246, § 304(b)(3)(B), formerly § 304(a)(3)(B), as renumbered by Pub. L. 117–167, struck out “, which may include vector, reconfigurable logic, streaming, processor-in-memory, and multithreading architectures” before semicolon at end.
 
-Subsec. (d). Pub. L. 115–246, § 304(b)(3)(C), as amended by Pub. L. 117–167, § 10104(a)(1), added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
+Subsec. (d). Pub. L. 115–246, § 304(b)(3)(C), formerly § 304(a)(3)(C), as renumbered by Pub. L. 117–167, added subsec. (d) and struck out former subsec. (d) which related to the establishment of a High-End Software Development Center.
 
 
 <a id="section-5502"></a>
@@ -162,7 +162,7 @@ Pub. L. 105–305, § 1, Oct. 28, 1998, 112 Stat. 2919, provided that: “This A
 #### Short Title
 Pub. L. 102–194, § 1, Dec. 9, 1991, 105 Stat. 1594, provided that: “This Act [enacting this chapter] may be cited as the ‘High-Performance Computing Act of 1991’.”
 
-Pub. L. 108–423, § 1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, § 304(b)(1)(A); Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433, Sept. 28, 2018, 132 Stat. 3145, provided that: “This Act [enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under [section 1862n–9 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862n–9&num=0&edition=prelim)] may be cited as the ‘American Super Computing Leadership Act of 2017’.”
+Pub. L. 108–423, § 1, Nov. 30, 2004, 118 Stat. 2400, as amended by Pub. L. 115–246, title III, § 304(b)(1)(A), formerly § 304(a)(1)(A), Sept. 28, 2018, 132 Stat. 3145, renumbered § 304(b)(1)(A) by Pub. L. 117–167, div. B, title I, § 10104(a)(1), Aug. 9, 2022, 136 Stat. 1433, provided that: “This Act [enacting subchapter III of this chapter, amending sections 205l of this title and 1862n–9 of Title 42, The Public Health and Welfare, and enacting provisions set out as a note under [section 1862n–9 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1862n–9&num=0&edition=prelim)] may be cited as the ‘American Super Computing Leadership Act of 2017’.”
 
 #### Congressional Findings
 Pub. L. 105–305, § 2(a), Oct. 28, 1998, 112 Stat. 2919, provided that: “The Congress finds that— “(1) United States leadership in science and technology has been vital to the Nation’s prosperity, national and economic security, and international competitiveness, and there is every reason to believe that maintaining this tradition will lead to long-term continuation of United States strategic advantages in information technology; “(2) the United States investment in science and technology has yielded a scientific and engineering enterprise without peer, and that Federal investment in research is critical to the maintenance of United States leadership; “(3) previous Federal investment in computer networking technology and related fields has resulted in the creation of new industries and new jobs in the United States; “(4) the Internet is playing an increasingly important role in keeping citizens informed of the actions of their government; and “(5) continued inter-agency cooperation is necessary to avoid wasteful duplication in Federal networking research and development programs.”
@@ -471,7 +471,7 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
 (2) In addition to the duties outlined in paragraph (1), the advisory committee shall conduct periodic evaluations of the funding, management, coordination, implementation, and activities of the Program. The advisory committee shall report not less frequently than once every 3 fiscal years to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on its findings and recommendations.
 
-(3) Section 14 of the Federal Advisory Committee Act shall not apply to the advisory committee established under this subsection.
+(3) [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the advisory committee established under this subsection.
 
 **(c) Office of Management and Budget**
 
@@ -535,13 +535,12 @@ Par. (7). Pub. L. 110–69, § 7024(a)(2)(D)–(F), added par. (7).
 
 ### Statutory Notes
 
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b)(3), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
 2022—Subsec. (a)(1)(D). Pub. L. 117–167, § 10374(d)(1)(A), realigned margins.
 
 Subsec. (a)(1)(J) to (P). Pub. L. 117–167, § 10374(d)(1), added subpar. (J), redesignated former subpars. (J) to (O) as (K) to (P), respectively, and realigned margins.
+
+Subsec. (b)(3). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act”.
 
 2017—Pub. L. 114–329, § 105(f)(1), substituted “Networking and Information Technology Research and Development Program” for “National High-Performance Computing Program” in section catchline.
 
@@ -642,7 +641,7 @@ Subsec. (b). Pub. L. 105–305, § 4(b), struck out “High-performance computin
 1995—Subsec. (a)(4)(D) to (F). Pub. L. 104–66 struck out “and” at end of subpar. (D), added subpar. (E), and redesignated former subpar. (E) as (F).
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Delegation of Functions
 President’s Council of Advisors on Science and Technology to serve as the advisory committee identified in subsec. (b) of this section and to be known as the President’s Innovation and Technology Advisory Committee when so serving, see section 3(b)(iii) of Ex. Ord. No. 14007, set out in a note under [section 6601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section6601&num=0&edition=prelim), The Public Health and Welfare.
@@ -678,7 +677,7 @@ Sec. 3. Administration. To the extent permitted by law and subject to the availa
 
 (c) Members of the Committee shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7).
 
-Sec. 4. General. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended [5 U.S.C. App.], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
+Sec. 4. General. (a) Notwithstanding any other Executive order, the functions of the President under the Federal Advisory Committee Act, as amended [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], except that of reporting to the Congress, that are applicable to the Committee shall be performed by the Director of the NCO in accordance with guidelines that have been issued by the Administrator of General Services.
 
 (b) The Committee shall terminate June 1, 2005, unless extended by the President prior to such date.
 
@@ -876,9 +875,9 @@ This subchapter, referred to in text, was in the original “this Act”, meanin
 This section was enacted as part of the American Super Computing Leadership Act of 2017 which comprises this subchapter, and not as part of the High-Performance Computing Act of 1991 which comprises this chapter.
 
 #### Amendments
-2018—Pars. (1) to (5). Pub. L. 115–246, § 304(b)(2)(A), (B), as amended by Pub. L. 117–167, § 10104(a)(1), added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
+2018—Pars. (1) to (5). Pub. L. 115–246, § 304(b)(2)(A), (B), formerly § 304(a)(2)(A), (B), as renumbered by Pub. L. 117–167, added pars. (1) and (2), redesignated former pars. (2) to (4) as (3) to (5), respectively, and struck out former par. (1) which defined “Center”. Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 115–246, § 304(b)(2)(A), (C), as amended by Pub. L. 117–167, § 10104(a)(1), redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
+Par. (6). Pub. L. 115–246, § 304(b)(2)(A), (C), formerly § 304(a)(2)(A), (C), as renumbered by Pub. L. 117–167, redesignated par. (5) as (6) and struck out “, acting through the Director of the Office of Science of the Department of Energy” before period at end.
 
 #### Short Title
 This subchapter known as the “American Super Computing Leadership Act of 2017”, see Short Title note set out under [section 5501 of this title](./chapter-081-high-performance-computing.md#section-5501).

@@ -612,21 +612,21 @@ For termination of amendment by section 1(c) of Pub. L. 103–428, see Effective
 #### References in Text
 The Federal Credit Reform Act of 1990, referred to in subsec. (b)(1)(B), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
-The Foreign Corrupt Practices Act of 1977, referred to in subsec. (b)(1)(B), (L), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Foreign Corrupt Practices Act of 1977, referred to in subsec. (b)(1)(B), (L), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Arms Export Control Act, referred to in subsec. (b)(1)(B), (L), (6)(F), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
+The Arms Export Control Act, referred to in subsec. (b)(1)(B), (L), (6)(F), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) and Tables.
 
-The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(B), (L), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, as amended, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
+The International Emergency Economic Powers Act, referred to in subsec. (b)(1)(B), (L), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (b)(1)(B), (L), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, which was classified principally to chapter 56 (§ 4601 et seq.) of Title 50, War and National Defense, prior to repeal by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232, except for sections 11A, 11B, and 11C thereof ([50 U.S.C. 4611](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4611&num=0&edition=prelim), 4612, 4613).
 
 [Section 2151q of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151q&num=0&edition=prelim), referred to in subsec. (b)(1)(C), was repealed by Pub. L. 96–533, title III, § 304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of Title 22, Foreign Relations and Intercourse.
 
-The African Growth and Opportunity Act, referred to in subsec. (b)(9)(C), is title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, as amended, which is classified principally to chapter 23 (§ 3701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3701&num=0&edition=prelim) and Tables.
+The African Growth and Opportunity Act, referred to in subsec. (b)(9)(C), is title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to chapter 23 (§ 3701 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section3701&num=0&edition=prelim) and Tables.
 
-The Tariff Act of 1930, referred to in subsec. (e)(2)(A)(i), (B), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
+The Tariff Act of 1930, referred to in subsec. (e)(2)(A)(i), (B), is act June 17, 1930, ch. 497, 46 Stat. 590. Title VII of the Act is classified generally to subtitle IV (§ 1671 et seq.) of chapter 4 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 1654 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1654&num=0&edition=prelim) and Tables.
 
-The Trade Act of 1974, referred to in subsec. (e)(2)(A)(ii), (D), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
+The Trade Act of 1974, referred to in subsec. (e)(2)(A)(ii), (D), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978. Title II of the Act is classified generally to subchapter II (§ 2251 et seq.) of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2101&num=0&edition=prelim) and Tables.
 
 December 20, 2006, referred to in subsec. (e)(5), was in the original “the date of the enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 109–438, which enacted subsec. (e)(5), to reflect the probable intent of Congress.
 
@@ -1501,7 +1501,7 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 
     (ii) approved by the Board.
 
-  (C) *Designated agency ethics official* — The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).
+  (C) *Designated agency ethics official* — The Chief Ethics Officer shall serve as the designated agency ethics official for the Bank pursuant to chapter 131 of title 5.
 
 (3) **Duties** — The Office of Ethics has jurisdiction over all employees of, and ethics matters relating to, the Bank. With respect to employees of the Bank, the Office of Ethics shall—
 
@@ -1570,17 +1570,17 @@ Determination No. 2009–21, June 12, 2009, 74 F.R. 28867.—Lao People’s Demo
 ### Statutory Notes
 
 #### Termination of Amendment
-For termination of amendment by Pub. L. 116–94, see section 409(b) of Pub. L. 116–94, set out as a Termination Date of 2019 Amendment note below.
+For termination of amendment by Pub. L. 116–94, see Termination Date of 2019 Amendment note below.
 
 #### References in Text
 The Trade Secrets Act, referred to in subsec. (c)(10)(C)(ii)(III), is probably a reference to [section 1905 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1905&num=0&edition=prelim), Crimes and Criminal Procedure.
-
-The Ethics in Government Act of 1978, referred to in subsec. (k)(2)(C), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
 
 #### Codification
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (k)(2)(C). Pub. L. 117–286 substituted “chapter 131 of title 5.” for “the Ethics in Government Act of 1978 (5 U.S.C. App. 101 et seq.).”
+
 2019—Subsec. (c)(6). Pub. L. 116–94 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2015—Subsec. (g)(3). Pub. L. 114–94, § 54002(c), substituted “$25,000,000” for “$10,000,000”.
@@ -1667,13 +1667,17 @@ Pub. L. 106–46, § 1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 1
 #### Compensation of Employees
 Pub. L. 102–429, title I, § 117, Oct. 21, 1992, 106 Stat. 2196, provided that: “[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1992, 106 Stat. 2196.] “(b) Sunset.—Effective 2 years after the date of enactment of this Act [Oct. 21, 1992], subsection (a) is hereby repealed. “(c) Report.—Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—“(1) the recruitment and employee retention problems of the Bank; “(2) any relief from such problems afforded by the Office of Personnel Management; “(3) any use of the authority provided in subsection (a); and “(4) the conclusions and recommendations of the Bank with respect to—“(A) whether such problems have been satisfactorily addressed; and “(B) whether or not the authority of subsection (a) should be extended.”
 
-[Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2022” .]
+[Pub. L. 118–47, div. F, title VI, Mar. 23, 2024, 138 Stat. 753, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 [Pub. L. 102–429, set out above], subsection (a) of such section shall remain in effect until September 30, 2024” .]
 
 [Prior to repeal, section 117(a) of Pub. L. 102–429 read as follows: “In General.—The Board of Directors of the Export-Import Bank of the United States may compensate not more than 35 employees of the Bank without regard to the provisions of chapter 51 or subchapter III or VIII of chapter 53 of title 5, United States Code.” ]
 
 [Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
 
-Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
+[Pub. L. 117–328, div. K, title VI, Dec. 29, 2022, 136 Stat. 4997.
+
+[Pub. L. 117–103, div. K, title VI, Mar. 15, 2022, 136 Stat. 588.
+
+[Pub. L. 116–260, div. K, title VI, Dec. 27, 2020, 134 Stat. 1716.
 
 [Pub. L. 113–235, div. J, title VI, Dec. 16, 2014, 128 Stat. 2598.
 
@@ -1721,7 +1725,7 @@ Pub. L. 98–181, title I [title VI, § 614(b)], Nov. 30, 1983, 97 Stat. 1256, p
 A Board of Directors and an Advisory Committee reestablished for the Export-Import Bank of Washington, see note set out under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635).
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Termination of Foreign Economic Administration
 Foreign Economic Administration and office of its Administrator terminated by Ex. Ord. No. 9630, Sept. 27, 1945, 10 F.R. 12245.
@@ -1817,7 +1821,7 @@ Pub. L. 112–122, § 16, May 30, 2012, 126 Stat. 359, provided that: “(a) GAO
 ### Statutory Notes
 
 #### References in Text
-The Export-Import Bank Act of 1945, as amended, referred to in subsec. (c), is act July 31, 1945, ch. 341, 59 Stat. 526, as amended, which is classified generally to subchapter 1 (§ 635 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635) and Tables.
+The Export-Import Bank Act of 1945, as amended, referred to in subsec. (c), is act July 31, 1945, ch. 341, 59 Stat. 526, which is classified generally to subchapter 1 (§ 635 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 635 of this title](./chapter-6a-export-import-bank-of-the-united-states.md#section-635) and Tables.
 
 #### Codification
 Section was enacted as part of the Export-Import Bank Act Amendments of 1978, and not as part of the Export-Import Bank Act of 1945 which comprises this subchapter.
@@ -2848,7 +2852,7 @@ Amendment by Pub. L. 114–94 applicable with respect to fiscal year 2016 and ea
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V of Pub. L. 93–344, as added Pub. L. 101–508, title XIII, § 13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§ 661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim) and Tables.
 
@@ -2972,7 +2976,7 @@ Pub. L. 107–189, § 10(b)(2), June 14, 2002, 116 Stat. 703, provided that: “
 1980—Subsec. (c). Pub. L. 96–470 struck out subsec. (c) which required the Board of Directors of the Bank to submit to Congress for the calendar ending Sept. 30, 1968, and each calendar quarter thereafter, a report of all actions taken under authority of sections 635j to 635n of this title during such quarter.
 
 #### Termination of Advisory Committees
-Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory Committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law, see [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 11420. Export Expansion Advisory Committee
 Ex. Ord. No. 11420, July 31, 1968, 33 F.R. 10997, provided:
@@ -3118,7 +3122,7 @@ Pub. L. 100–418, title II, § 2204(d)(2), Aug. 23, 1988, 102 Stat. 1331, provi
 ### Statutory Notes
 
 #### References in Text
-The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapter 4 of part II of the Foreign Assistance Act of 1961 is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim) and Tables.
 
 This subchapter, referred to in subsec. (d), was in the original “this Act” and was translated as meaning the Trade and Development Enhancement Act of 1983, part C (§§ 641–647, 650) of title VI of Pub. L. 98–181, title I, Nov. 30, 1983, 97 Stat. 1263, which enacted this subchapter and [section 1671g of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section1671g&num=0&edition=prelim), Customs Duties, and amended sections 1671a and 1671b of Title 19. For complete classification of this Act to the Code, see Short Title note below and Tables.
 

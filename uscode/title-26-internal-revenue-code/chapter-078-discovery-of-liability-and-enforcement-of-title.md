@@ -1586,8 +1586,6 @@ Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that: �
 
 (4) **Coordination with subsections (a) and (b)** — Paragraph (1) shall not apply with respect to any rum subject to tax under subsection (a) or (b).
 
-(5) **Determination of amount of taxes collected** — For purposes of this subsection, the amount of taxes collected under section 5001(a)(1) shall be determined without regard to section 5001(c).
-
 **(f) Limitation on cover over of tax on distilled spirits** For purposes of this section, with respect to taxes imposed under section 5001 or this section on distilled spirits, the amount covered into the treasuries of Puerto Rico and the Virgin Islands shall not exceed the lesser of the rate of—
 
 (1) $10.50 ($13.25 in the case of distilled spirits brought into the United States after June 30, 1999, and before January 1, 2022), or
@@ -1610,20 +1608,9 @@ Pub. L. 95–30, title IV, § 407, May 23, 1977, 91 Stat. 156, provided that: �
 
 (2) whether such provision of law is a subsequently enacted provision or directly or indirectly seeks to waive the application of this subsection.
 
+**(i) Determination of taxes collected** For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c).
+
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–260, div. EE, title I, § 107(a)(2), (3), Dec. 27, 2020, 134 Stat. 3046, provided that, applicable to distilled spirits brought into the United States and removed after Dec. 31, 2022, this section is amended:
-
-(1) by adding at the end the following new subsection:
-
-“(i) Determination of taxes collected
-
-“For purposes of subsections (a)(3), (b)(3), and (e)(1), refunds under section 5001(c)(4) shall not be taken into account as a refund, and the amount of taxes imposed by and collected under section 5001(a)(1) shall be determined without regard to section 5001(c).”; and
-
-(2) by striking paragraph (5) of subsection (e).
-
-See 2020 Amendment notes below.
 
 #### References in Text
 The date of the enactment of the Trade and Development Act of 2000, referred to in subsec. (b)(3)(A), is the date of enactment of Pub. L. 106–200, which was approved May 18, 2000.
@@ -1816,7 +1803,7 @@ Dwight D. Eisenhower
 ### Statutory Notes
 
 #### References in Text
-Act of August 1, 1950, referred to in subsec. (d), is act Aug. 1, 1950, ch. 512, 64 Stat. 384, as amended, known as the Organic Act of Guam, which is classified principally to chapter 8A (§ 1421 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1421&num=0&edition=prelim) and Tables.
+Act of August 1, 1950, referred to in subsec. (d), is act Aug. 1, 1950, ch. 512, 64 Stat. 384, known as the Organic Act of Guam, which is classified principally to chapter 8A (§ 1421 et seq.) of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under [section 1421 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1421&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1976—Subsec. (d). Pub. L. 94–455 struck out “ch. 512, 64 Stat. 392, section 30” after “August 1, 1950”.
@@ -1901,7 +1888,7 @@ Amendment by Pub. L. 92–606 applicable with respect to taxable years beginning
 ### Statutory Notes
 
 #### References in Text
-The Federal Insurance Contributions Act, referred to in subsec. (a)(2), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (a)(2), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
 
 #### Amendments
 1990—Subsec. (a)(2), (3). Pub. L. 101–508, § 11801(c)(22)(E)(i), substituted period for semicolon at end of par. (2) and struck out par. (3) which cross-referenced former chapter 37 relating to tax on sugar.

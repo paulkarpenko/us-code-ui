@@ -489,9 +489,9 @@ Section 3506 requires the master of a passenger vessel to keep on board a copy o
 
 (1) **In general.—** — This section and section 3508 apply to a passenger vessel (as defined in section 2101(31)) that—
 
-  (A) is authorized to carry at least 250 passengers;
+  (A) is authorized to carry 250 or more passengers;
 
-  (B) has onboard sleeping facilities for each passenger; and
+  (B) has overnight accommodations for 250 or more passengers; and
 
   (C) is on a voyage that embarks or disembarks passengers in the United States.
 
@@ -507,6 +507,10 @@ The date of enactment of the Cruise Vessel Security and Safety Act of 2010, refe
 The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (b)(1)(B)(i), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 #### Amendments
+2022—Subsec. (k)(1)(A). Pub. L. 117–263, § 11802(1), substituted “250 or more” for “at least 250”.
+
+Subsec. (k)(1)(B). Pub. L. 117–263, § 11802(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, subpar. (B) read as follows: “has onboard sleeping facilities for each passenger; and”.
+
 2021—Subsec. (b)(1). Pub. L. 116–283, § 8440(a), designated existing provisions as subpar. (A), inserted heading, struck out “, as determined by the Secretary” before the period, and added subpars. (B) to (H).
 
 Subsec. (b)(2). Pub. L. 116–283, § 8440(b)(2), added par. (2). Former par. (2) redesignated (3).
@@ -577,6 +581,9 @@ Subsec. (e). Pub. L. 115–232, § 3543(b)(3), (4), redesignated subsec. (f) as 
 
 Subsec. (f). Pub. L. 115–232, § 3543(b)(3), redesignated subsec. (f) as (e).
 
+#### Exemptions for Certain Passenger Vessels
+Pub. L. 117–263, div. K, title CXV, § 11510, Dec. 23, 2022, 136 Stat. 4137, provided that: “Notwithstanding any other provision of law, requirements authorized under sections 3508 and 3509 of title 46, United States Code, shall not apply to any passenger vessel, as defined in section 2101 of such title— “(1) that carries in excess of 250 passengers; “(2) that is, or was, in operation exclusively within the inland rivers and internal waters of the United States on voyages inside the Boundary Line, as defined in section 103 of such title, on or before July 27, 2030; and “(3) the operators or charterers of which operated any documented vessels with a coastwise endorsement prior to January 1, 2024.”
+
 #### Definitions
 For definition of “owner” as used in this section, see section 3507(l) of this title.
 
@@ -595,6 +602,11 @@ The owner of a vessel to which section 3507 applies shall ensure that—
   (A) the location of the vessel’s medical facilities; and
 
   (B) the appropriate steps passengers should follow during a medical emergency.
+
+### Statutory Notes
+
+#### Exemptions for Certain Passenger Vessels
+For provisions exempting certain passenger vessels from the requirements authorized under this section, see section 11510 of Pub. L. 117–263, set out as a note under [section 3508 of this title](./chapter-035-carriage-of-passengers.md#section-3508).
 
 
 <a id="section-3510"></a>

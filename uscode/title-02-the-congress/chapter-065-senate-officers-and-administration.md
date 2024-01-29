@@ -2,13 +2,13 @@
 title: 2
 chapter: '65'
 heading: SENATE OFFICERS AND ADMINISTRATION
-section_count: 87
+section_count: 88
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2&num=0&edition=prelim
 ---
 <a id="section-6501"></a>
 ## § 6501. Appointment of consultants by Majority Leader, Minority Leader, Secretary of Senate, and Legislative Counsel of Senate; compensation
-**(a) In general** The Majority Leader and the Minority Leader, are each authorized to appoint and fix the compensation of not more than nine individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The President pro tempore of the Senate is authorized to appoint and fix the compensation of not more than three individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The President pro tempore emeritus of the Senate is authorized to appoint and fix the compensation of one individual consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The Secretary of the Senate is authorized to appoint and fix the compensation of not more than two individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) is authorized to appoint and fix the compensation of not more than two consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section. The provisions of sections 8344 and 8468 of title 5 shall not apply to any individual serving in a position under this authority. Expenditures under this authority shall be paid from the contingent fund of the Senate upon vouchers approved by the President pro tempore, President pro tempore emeritus, Majority Leader, Minority Leader, Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be.
+**(a) In general** The Majority Leader and the Minority Leader, are each authorized to appoint and fix the compensation of not more than 12 individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The President pro tempore of the Senate is authorized to appoint and fix the compensation of not more than three individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The President pro tempore emeritus of the Senate is authorized to appoint and fix the compensation of one individual consultant, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this subsection. The Secretary of the Senate is authorized to appoint and fix the compensation of not more than two individual consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of the per diem equivalent of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate. The Legislative Counsel of the Senate (subject to the approval of the President pro tempore) is authorized to appoint and fix the compensation of not more than two consultants, on a temporary or intermittent basis, at a daily rate of compensation not in excess of that specified in the first sentence of this section. The provisions of sections 8344 and 8468 of title 5 shall not apply to any individual serving in a position under this authority. Expenditures under this authority shall be paid from the contingent fund of the Senate upon vouchers approved by the President pro tempore, President pro tempore emeritus, Majority Leader, Minority Leader, Secretary of the Senate, or Legislative Counsel of the Senate, as the case may be.
 
 **(b) Annual compensation** Any or all appointments under this section may be at an annual rate of compensation rather than at a daily rate of compensation, but such annual rate shall not be in excess of the highest gross rate of annual compensation which may be paid to employees of a standing committee of the Senate.
 
@@ -22,6 +22,8 @@ Section was formerly classified to [section 61h–6 of this title](./chapter-004
 Section is from the Supplemental Appropriations Act, 1977.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–47 substituted “12 individual consultants” for “nine individual consultants”.
+
 2009—Subsec. (a). Pub. L. 111–8 substituted “nine individual consultants” for “eight individual consultants” in first sentence and “three individual consultants” for “two individual consultants” in second sentence.
 
 2003—Subsec. (a). Pub. L. 108–7, § 6(a)(1), substituted “eight individual consultants” for “six individual consultants” in first sentence.
@@ -425,6 +427,42 @@ Section is based on title I (2d proviso under “Senate Office Buildings”) of 
 **(a) In general** Available balances of expired appropriations which are subject to disbursement by the Secretary of the Senate shall be available to the Secretary of the Senate to make the deposit to the credit of the Employees’ Compensation Fund required by [section 8147(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8147/b&num=0&edition=prelim).
 
 **(b) Effective date** This section shall apply with respect to appropriations for fiscal year 2014, and each fiscal year thereafter.
+
+
+<a id="section-6519"></a>
+## § 6519. McCain-Mansfield and SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowships Programs
+**(a) Definitions** In this section—
+
+(1) the term “appropriate committees of the Senate” means the Committee on Appropriations and the Committee on Rules and Administration of the Senate;
+
+(2) the term “Fellowships Programs” means the SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowship Program (commonly referred to as the “Green and Gold Congressional Aide Program”) established under Senate Resolution 442 (117th Congress), agreed to November 4, 2021, and the McCain-Mansfield Fellowship Program established under Senate Resolution 443 (117th Congress), agreed to November 4, 2021, or any successor program to such programs;
+
+(3) the term “Fund” means the Sergeant at Arms Fellowships Fund established under subsection (b); and
+
+(4) the term “Sergeant at Arms” means the Sergeant at Arms and Doorkeeper of the Senate.
+
+**(b) Establishment** There is established under the heading “Contingent Expenses of the Senate” an account to be known as the “sergeant at arms fellowships fund”.
+
+**(c) Use of amounts**
+
+(1) **In general** — Amounts in the Fund shall be available to the Sergeant at Arms for the costs of compensation of fellows under the Fellowships Programs and the administration of the Fellowships Programs, except as provided in paragraph (2).
+
+(2) **Agency contributions** — Agency contributions for the Fellowships Programs shall be paid from the appropriations account for “Salaries, Officers and Employees” of the Senate.
+
+**(d) Oversight** The Sergeant at Arms shall provide to the appropriate committees of the Senate—
+
+(1) a plan regarding the administration of the Fund by the Sergeant at Arms prior to obligation of any funds, to be updated and resubmitted following any changes to the plan; and
+
+(2) annual reports regarding the costs of the Fellowships Programs paid from the Fund.
+
+**(e) Authorization of appropriations** There are authorized to be appropriated to the Fund for fiscal year 2023, and each fiscal year thereafter, such sums as are necessary for the compensation of fellows under the Fellowships Programs during the fiscal year and for the administration of the Fellowships Programs.
+
+**(f) Exclusion for purposes of staffing limits on the Office of the Sergeant at Arms** The payment of compensation to any individual serving in a fellowship under the Fellowships Programs by the Sergeant at Arms shall not be included for purposes of any limitation on staffing levels of the Office of the Sergeant at Arms.
+
+### Statutory Notes
+
+#### References in Text
+Senate Resolution 442 (117th Congress), agreed to November 4, 2021, and Senate Resolution 443 (117th Congress), agreed to November 4, 2021, referred to in subsec. (a)(2), which established the SFC Sean Cooley and SPC Christopher Horton Congressional Gold Star Family Fellowship Program for family members of members of the Armed Forces who die in the line of duty or of veterans who die of service-connected injuries and the McCain-Mansfield Fellowship Program for wounded or disabled veterans, are not classified to the Code.
 
 
 <a id="section-6531"></a>

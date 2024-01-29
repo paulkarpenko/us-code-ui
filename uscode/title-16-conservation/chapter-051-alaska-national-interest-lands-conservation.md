@@ -278,7 +278,7 @@ Subsec. (d). Pub. L. 105–83, § 316(b)(6)(B), which directed the amendment of 
 Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State’s laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under [section 3102 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3102).
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-3116"></a>
@@ -761,7 +761,7 @@ In studying oil and gas alternative transportation systems, the Secretary shall 
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act of 1920, as amended, referred to in subsecs. (a) and (d), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act of 1920, as amended, referred to in subsecs. (a) and (d), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 #### Codification
 Subsec. (b)(4) of this section, which required the Secretary to report yearly to Congress on efforts pursuant to Pub. L. 96–487 regarding the leasing of, and exploration and development activities on, certain lands, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, page 111 of House Document No. 103–7.
@@ -1863,7 +1863,7 @@ The Federal Power Act and that Act, referred to in subsec. (c), is act June 10, 
 
 The Alaska Statehood Act, referred to in subsec. (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, which is set out as a note preceding [section 21 of Title 48](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section21&num=0&edition=prelim), Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
-Act of May 17, 1906, as amended, referred to in subsec. (d), is act May 17, 1906, ch. 2469, 34 Stat. 197, as amended, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710. See [section 1617 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1617&num=0&edition=prelim).
+Act of May 17, 1906, as amended, referred to in subsec. (d), is act May 17, 1906, ch. 2469, 34 Stat. 197, which was classified to sections 270–1 to 270–3 of Title 43, Public Lands, prior to its repeal by Pub. L. 92–203, § 18(a), Dec. 18, 1971, 85 Stat. 710. See [section 1617 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1617&num=0&edition=prelim).
 
 
 <a id="section-3231"></a>

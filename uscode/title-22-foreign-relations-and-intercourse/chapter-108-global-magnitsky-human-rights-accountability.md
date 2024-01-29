@@ -108,9 +108,9 @@ Pub. L. 114–328, div. A, title XII, § 1261, Dec. 23, 2016, 130 Stat. 2533, pr
 
 **(h) Regulatory authority** The President shall issue such regulations, licenses, and orders as are necessary to carry out this section.
 
-**(i) Identification of Sanctionable Foreign Persons** The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairs and other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
+**(i) Identification of sanctionable foreign persons** The Assistant Secretary of State for Democracy, Human Rights, and Labor, in consultation with the Assistant Secretary of State for Consular Affairs and other bureaus of the Department of State, as appropriate, is authorized to submit to the Secretary of State, for review and consideration, the names of foreign persons who may meet the criteria described in subsection (a).
 
-**(j) Appropriate Congressional Committees Defined** In this section, the term “appropriate congressional committees” means—
+**(j) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
 
 (1) the Committee on Banking, Housing, and Urban Affairs and the Committee on Foreign Relations of the Senate; and
 

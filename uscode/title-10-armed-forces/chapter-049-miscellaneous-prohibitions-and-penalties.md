@@ -2,7 +2,7 @@
 title: 10
 chapter: '49'
 heading: MISCELLANEOUS PROHIBITIONS AND PENALTIES
-section_count: 17
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -143,9 +143,11 @@ Pub. L. 104–106, div. A, title V, § 561(e), Feb. 10, 1996, 110 Stat. 323, pro
 
   (A) to a regular officer of an armed force on the active-duty list (and a regular officer of the Coast Guard on the active duty promotion list);
 
-  (B) to a retired regular officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days; and
+  (B) to a retired regular officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days;
 
-  (C) to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days.
+  (C) to a reserve officer of an armed force serving on active duty under a call or order to active duty for a period in excess of 270 days; and
+
+  (D) to an officer on the Space Force officer list serving on active duty under [section 20105(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section20105/b&num=0&edition=prelim) or under a call or order to active duty for a period in excess of 270 days.
 
 (2)
 
@@ -181,7 +183,12 @@ Pub. L. 104–106, div. A, title V, § 561(e), Feb. 10, 1996, 110 Stat. 323, pro
 
 ### Statutory Notes
 
+#### Codification
+Another section 1722(f) of Pub. L. 118–31 amended sections 802, 803, and 937 of this title.
+
 #### Amendments
+2023—Subsec. (b)(1)(D). Pub. L. 118–31 added subpar. (D).
+
 2003—Subsec. (b)(3). Pub. L. 108–136, § 545(2), inserted “by reason of subparagraph (A) of paragraph (1)” after “applies” and substituted “(or of any political subdivision of a State)” for “, the District of Columbia, or a territory, possession, or commonwealth of the United States (or of any political subdivision of any such government)”.
 
 Subsec. (b)(4), (5). Pub. L. 108–136, § 545(1), (3), added par. (4) and redesignated former par. (4) as (5).
@@ -205,10 +212,10 @@ Subsec. (a). Pub. L. 96–513, § 116(a), substituted “of an armed force on ac
 Subsec. (b). Pub. L. 96–513, § 116(b), substituted “regular officer of an armed force on active duty” for “on the active list of the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, or Regular Coast Guard”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Construction and Applicability of Section 973(b)
 Pub. L. 98–94, title X, § 1002(b), (c), Sept. 24, 1983, 97 Stat. 655, 656, provided that: “(b) Nothing in [section 973(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section973/b&num=0&edition=prelim), United States Code, as in effect before the date of the enactment of this Act [Sept. 24, 1983], shall be construed—“(1) to invalidate any action undertaken by an officer of an Armed Force in furtherance of assigned official duties; or “(2) to have terminated the military appointment of an officer of an Armed Force by reason of the acceptance of a civil office, or the exercise of its functions, by that officer in furtherance of assigned official duties. “(c) Nothing in [section 973(b)(3) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section973/b/3&num=0&edition=prelim), United States Code, as added by subsection (a), shall preclude a Reserve office to whom such section applies from holding or exercising the functions of an office described in such section for the term to which the Reserve officer was elected or appointed if, before the date of the enactment of this Act [Sept. 24, 1983], the Reserve officer accepted appointment or election to that office in accordance with the laws and regulations in effect at the time of such appointment or election.”
@@ -303,7 +310,7 @@ A prior section 974, added Pub. L. 90–235, § 6(a)(6)(A), Jan. 2, 1968, 81 Sta
 ## § 976. Membership in military unions, organizing of military unions, and recognition of military unions prohibited
 **(a)** In this section:
 
-(1) The term “member of the armed forces” means (A) a member of the armed forces who is serving on active duty, (B) a member of the National Guard who is serving on full-time National Guard duty, or (C) a member of a Reserve component while performing inactive-duty training.
+(1) The term “member of the armed forces” means (A) a member of the armed forces who is serving on active duty, (B) a member of the National Guard who is serving on full-time National Guard duty, or (C) a member of a Reserve component or the Space Force while performing inactive-duty training.
 
 (2) The term “military labor organization” means any organization that engages in or attempts to engage in—
 
@@ -371,6 +378,8 @@ Nothing in this subsection shall prevent commanders or supervisors from giving c
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a)(1)(C). Pub. L. 118–31 inserted “or the Space Force” after “member of a Reserve component”.
+
 1997—Subsec. (f). Pub. L. 105–85 substituted “shall be fined under title 18 or imprisoned not more than 5 years, or both, except that, in the case of an organization (as defined in section 18 of such title), the fine shall not be less than $25,000.” for “shall, in the case of an individual, be fined not more than $10,000 or imprisoned not more than five years, or both, and in the case of an organization or association, be fined not less than $25,000 and not more than $250,000.”
 
 1987—Subsec. (a)(1) to (3). Pub. L. 100–26 inserted “The term” after each par. designation and struck out uppercase letter of first word after first quotation marks in each paragraph and substituted lowercase letter.
@@ -500,7 +509,7 @@ Subsec. (c)(4). Pub. L. 101–189, § 513(c), added par. (4).
 1987—Pub. L. 100–180 substituted “Mandatory testing for drug, chemical, and alcohol abuse” for “Denial of entrance into the armed forces of persons dependent on drugs or alcohol” in section catchline, and amended text generally, revising and restating as subsecs. (a) to (d) provisions formerly contained in subsecs. (a) and (b).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1989 Amendment
 Pub. L. 101–189, div. A, title V, § 513(d), Nov. 29, 1989, 103 Stat. 1441, provided that: “The amendments made by subsections (a) and (b) [amending this section] shall take effect as of October 1, 1989.”
@@ -568,7 +577,11 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 (2) in the case of research intended to be beneficial to the subject, the informed consent of the subject or a legal representative of the subject is obtained in advance.
 
-**(b)** The Secretary of Defense may waive the prohibition in this section with respect to a specific research project to advance the development of a medical product necessary to the armed forces if the research project may directly benefit the subject and is carried out in accordance with all other applicable laws.
+**(b)**
+
+(1) The Secretary of Defense may waive the prohibition in this section with respect to a specific research project to advance the development of a medical product necessary to the armed forces if the research project may directly benefit the subject and is carried out in accordance with all other applicable laws.
+
+(2) The Secretary may delegate the authority provided by paragraph (1) to the Under Secretary of Defense for Research and Engineering.
 
 ### Statutory Notes
 
@@ -602,6 +615,8 @@ Pub. L. 93–238, title VII, § 743, Jan. 2, 1974, 87 Stat. 1045.
 Pub. L. 92–570, title VII, § 745, Oct. 26, 1972, 86 Stat. 1203.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31 designated existing provisions as par. (1) and added par. (2).
+
 2001—Pub. L. 107–107 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date
@@ -610,13 +625,13 @@ Section effective Oct. 1, 1985, see section 1404 of Pub. L. 98–525, set out as
 
 <a id="section-981"></a>
 ## § 981. Limitation on number of enlisted aides
-**(a)** Subject to subsection (b), the total number of enlisted members that may be assigned or otherwise detailed to duty as enlisted aides on the personal staffs of officers of the Army, Navy, Marine Corps, Air Force, and Coast Guard (when operating as a service of the Navy) during a fiscal year is the number equal to the sum of (1) four times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of general or admiral, and (2) two times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of lieutenant general or vice admiral.
+**(a)** Subject to subsection (b), the total number of enlisted members that may be assigned or otherwise detailed to duty as enlisted aides on the personal staffs of officers of the Army, Navy, Air Force, Marine Corps, Space Force, and Coast Guard (when operating as a service of the Navy) during a fiscal year is the number equal to the sum of (1) four times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of general or admiral, and (2) two times the number of officers serving on active duty at the end of the preceding fiscal year in the grade of lieutenant general or vice admiral.
 
-**(b)** Not more than 300 enlisted members may be assigned to duty at any time as enlisted aides for officers of the Army, Navy, Air Force, and Marine Corps.
+**(b)** Not more than 300 enlisted members may be assigned to duty at any time as enlisted aides for officers of the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 **(c)** Not later than March 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report—
 
-(1) specifying the number of enlisted aides authorized and allocated for general officers and flag officers of the Army, Navy, Air Force, Marine Corps, and joint pool as of September 30 of the previous year; and
+(1) specifying the number of enlisted aides authorized and allocated for general officers and flag officers of the Army, Navy, Air Force, Marine Corps, Space Force, and joint pool as of September 30 of the previous year; and
 
 (2) justifying, on a billet-by-billet basis, the authorization and assignment of each enlisted aide to each general officer and flag officer position.
 
@@ -650,6 +665,12 @@ Pub. L. 94–212, title VII, § 745, Feb. 9, 1976, 90 Stat. 175.
 Pub. L. 93–437, title VIII, § 848, Oct. 8, 1974, 88 Stat. 1232.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 1741(b)(4)(A), substituted “Air Force, Marine Corps, Space Force,” for “Marine Corps, Air Force,”.
+
+Subsec. (b). Pub. L. 118–31, § 1741(b)(4)(B), substituted “Marine Corps, and Space Force” for “and Marine Corps”.
+
+Subsec. (c)(1). Pub. L. 118–31, § 1741(b)(4)(C), inserted “Space Force,” after “Marine Corps,”.
+
 2014—Subsec. (c). Pub. L. 113–291 added subsec. (c).
 
 #### Effective Date
@@ -687,13 +708,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 **(b) Denial of Funds for Preventing Military Recruiting on Campus.—** No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
-(1) the Secretary of a military department or the Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer; or
+(1) the Secretary of a military department or the Secretary of Homeland Security from gaining access to campuses, or access to students (who are 17 years of age or older) on campuses, for purposes of military recruiting in a manner that is at least equal in quality and scope to the access to campuses and to students that is provided to any other employer;
 
-(2) access by military recruiters for purposes of military recruiting to the following information pertaining to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution):
+(2) access by military recruiters for purposes of military recruiting, with respect to students (who are 17 years of age or older) enrolled at that institution (or any subelement of that institution)—
 
-  (A) Names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings.
+  (A) names, addresses, electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings, which information shall be made available not later than the 60th day following the date of a request; and
 
-  (B) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
+  (B) date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 
 **(c) Exceptions.—** The limitation established in subsection (a) or (b) shall not apply to an institution of higher education (or any subelement of that institution) if the Secretary of Defense determines that—
 
@@ -734,6 +755,14 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 Provisions similar to those in this section were contained in Pub. L. 103–337, div. A, title V, § 558, Oct. 5, 1994, 108 Stat. 2776, as amended, and Pub. L. 104–208, div. A, title I, § 101(e) [title V, § 514], Sept. 30, 1996, 110 Stat. 3009–233, 3009–270, which were set out as notes under [section 503 of this title](./chapter-031-enlistments.md#section-503), prior to repeal by Pub. L. 106–65, § 549(b).
 
 #### Amendments
+2023—Subsec. (b)(1). Pub. L. 118–31, § 543(1), substituted “employer;” for “employer; or”.
+
+Subsec. (b)(2). Pub. L. 118–31, § 543(2)(A), (B), in introductory provisions, substituted “, with respect” for “to the following information pertaining” and “institution)—” for “institution):”.
+
+Subsec. (b)(2)(A). Pub. L. 118–31, § 543(2)(C), substituted “names” for “Names” and “telephone listings, which information shall be made available not later than the 60th day following the date of a request; and” for “telephone listings.”.
+
+Subsec. (b)(2)(B). Pub. L. 118–31, § 543(2)(D), substituted “date” for “Date”.
+
 2021—Subsec. (b)(2)(A). Pub. L. 116–283 substituted “electronic mail addresses (which shall be the electronic mail addresses provided by the institution, if available), and telephone listings” for “and telephone listings”.
 
 2013—Subsec. (b)(1). Pub. L. 112–239, § 1076(f)(10), substituted “or the Secretary” for “or Secretary”.
@@ -772,7 +801,7 @@ Subsec. (d)(2)(B). Pub. L. 107–296, § 1704(b)(3), substituted “Department o
 Pub. L. 108–375, div. A, title V, § 552(f), Oct. 28, 2004, 118 Stat. 1912, provided that: “The amendments made by this section [amending this section and repealing provisions set out as a note under this section] shall apply with respect to funds appropriated for fiscal year 2005 and thereafter.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Funds Available Solely for Student Financial Assistance
 Pub. L. 106–79, title VIII, § 8120, Oct. 25, 1999, 113 Stat. 1260, provided that during fiscal year 2000 and thereafter, any Federal grant of funds to an institution of higher education to be available solely for student financial assistance or related administrative costs could be used for the purpose for which the grant was made without regard to any provision to the contrary in section 101(e) [title V, § 514] of Pub. L. 104–208 (formerly [10 U.S.C. 503](./chapter-031-enlistments.md#section-503) note), or [section 983 of this title](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-983), prior to repeal by Pub. L. 108–375, div. A, title V, § 552(e), Oct. 28, 2004, 118 Stat. 1912.
@@ -827,7 +856,7 @@ Subsec. (c). Pub. L. 109–163, § 662(b)(3), amended heading and text of subsec
 Pub. L. 109–163, div. A, title VI, § 662(e), Jan. 6, 2006, 119 Stat. 3316, provided that: “The amendments made by this section [amending this section, [section 1491 of this title](./chapter-075-deceased-personnel.md#section-1491), and [section 2411 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411&num=0&edition=prelim), Veterans’ Benefits and enacting provisions set out as notes under this section and [section 2411 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2411&num=0&edition=prelim)] shall apply with respect to funerals and burials that occur on or after the date of the enactment of this Act [Jan. 6, 2006].”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date
 Pub. L. 105–85, div. A, title X, § 1077(b), Nov. 18, 1997, 111 Stat. 1915, provided that: “[Section 985 of title 10](./chapter-049-miscellaneous-prohibitions-and-penalties.md#section-985), United States Code, as added by subsection (a), applies with respect to persons dying after January 1, 1997.”
@@ -837,14 +866,14 @@ Pub. L. 109–163, div. A, title VI, § 662(d)(2), Jan. 6, 2006, 119 Stat. 3316,
 
 
 <a id="section-986"></a>
-## § 986. Repealed. Pub. L. 110–181, div. A, title X, § 1072(b)(1), Jan. 28, 2008, 122 Stat. 329]
+## § 986. Policy regarding identification of gender or personal pronouns in official correspondence
+
+The Secretary of Defense may not require or prohibit a member of the armed forces or a civilian employee of the Department of Defense to identify the gender or personal pronouns of such member or employee in any official correspondence of the Department.
 
 ### Statutory Notes
 
-Section, added Pub. L. 106–398, § 1 [[div. A], title X, § 1071(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; amended Pub. L. 107–107, div. A, title X, § 1048(c)(3), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–375, div. A, title X, § 1062, Oct. 28, 2004, 118 Stat. 2056, prohibited the Department of Defense from granting or renewing security clearances for certain persons.
-
-#### Effective Date of Repeal
-Pub. L. 110–181, div. A, title X, § 1072(b)(3), Jan. 28, 2008, 122 Stat. 330, provided that: “The amendments made by this subsection [repealing this section] shall take effect on January 1, 2008.”
+#### Prior Provisions
+A prior section 986, added Pub. L. 106–398, § 1 [[div. A], title X, § 1071(a)], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; amended Pub. L. 107–107, div. A, title X, § 1048(c)(3), Dec. 28, 2001, 115 Stat. 1226; Pub. L. 108–375, div. A, title X, § 1062, Oct. 28, 2004, 118 Stat. 2056, prohibited the Department of Defense from granting or renewing security clearances for certain persons, prior to repeal by Pub. L. 110–181, div. A, title X, § 1072(b)(1), (3), Jan. 28, 2008, 122 Stat. 329, 330, effective Jan. 1, 2008.
 
 
 <a id="section-987"></a>
@@ -1054,9 +1083,118 @@ Pub. L. 109–364, div. A, title VI, § 670(d), Oct. 17, 2006, 120 Stat. 2269, p
 
     (ii) A civilian officer or employee in a Senior Executive Service, Senior-Level, or Scientific or Professional position.
 
-(2) The term “Excepted Investment Fund” means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).
+(2) The term “Excepted Investment Fund” means a widely-held investment fund described in section 102(f)(8) of the Ethics in Government Act of 1978 (5 U.S.C. App.).11 See References in Text note below.
 
 ### Statutory Notes
 
 #### References in Text
-Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec. (c)(2), is section 102(f)(8) of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 102(f)(8) of the Ethics in Government Act of 1978, referred to in subsec. (c)(2), is section 102(f)(8) of Pub. L. 95–521, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 13104(f)(8) of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13104/f/8&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(c), (7), Dec. 27, 2022, 136 Stat. 4284, 4361.
+
+
+<a id="section-989"></a>
+## § 989. Prohibition on former members of the armed forces accepting post-service employment with certain foreign governments
+**(a) In General.—** Except as provided by subsection (b), a covered individual may not occupy a covered post-service position.
+
+**(b) Temporary Waiver.—**
+
+(1) **In general.—** — The Secretary of Defense shall establish a process under which a covered individual may be granted a temporary waiver of the prohibition under subsection (a) if—
+
+  (A) the individual, or a Federal agency on behalf of, and with the consent of, the individual, submits to the Secretary a written application for a waiver in such form and manner as the Secretary determines appropriate; and
+
+  (B) the Secretary determines that the waiver is necessary to advance the national security interests of the United States.
+
+(2) **Period of waiver.—** — A waiver issued under paragraph (1) shall apply for a period not exceeding 5 years. The Secretary may renew such a waiver.
+
+(3) **Revocation.—** — The Secretary may revoke a waiver issued under paragraph (1) to a covered individual with respect to a covered-post service position if the Secretary determines that the employment of the individual in the covered-post service position poses a threat to national security.
+
+(4) **Notification.—**
+
+  (A) *In general.—* — Not later than 30 days after the date on which the Secretary issues a waiver under paragraph (1) or revokes a waiver under paragraph (3), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives written notification of the waiver or revocation, as the case may be.
+
+  (B) *Elements.—* — A notification required by subparagraph (A) shall include the following:
+
+    (i) With respect to a waiver issued to a covered individual—
+
+      (I) the details of the application, including the position held by the individual in the armed forces;
+
+      (II) the nature of the post-service position of the individual;
+
+      (III) a description of the national security interests that will be advanced by reason of issuing such a waiver; and
+
+      (IV) the specific reasons why the Secretary determines that issuing the waiver will advance such interests.
+
+    (ii) With respect to a revocation of a waiver issued to a covered individual—
+
+      (I) the details of the waiver, including any renewals of the waiver, and the dates of such waiver and renewals; and
+
+      (II) the specific reasons why the Secretary determined that the revocation is warranted.
+
+**(c) Certification of Prohibition.—** In implementing the prohibition under subsection (a), the Secretary shall establish a process under which each member of the armed forces is, before the member retires or is otherwise separated from the armed forces—
+
+(1) informed in writing of the prohibition, and the penalties for violations of the prohibition; and
+
+(2) required to certify that the member understands the prohibition and those penalties.
+
+**(d) Penalties.—** In the case of a covered individual who knowingly and willfully fails to comply with the prohibition under subsection (a), the Secretary may, as applicable—
+
+(1) withhold any pay, allowances, or benefits that would otherwise be provided to the individual by the Department of Defense; and
+
+(2) revoke any security clearance of the individual.
+
+**(e) Annual Reports.—**
+
+(1) **Requirement.—** — Not later than March 31, 2024, and annually thereafter, the Secretary shall submit to the congressional defense committees a report on covered post-service employment occurring during the year covered by the report.
+
+(2) **Elements.—** — Each report required by paragraph (1) shall include the following:
+
+  (A) The number of former covered individuals who occupy a covered post-service position, broken down by—
+
+    (i) the name of the employer;
+
+    (ii) the foreign government, including by the specific foreign individual, agency, or entity, for whom the covered post-service employment is being performed; and
+
+    (iii) the nature of the services provided as part of the covered post-service employment.
+
+  (B) An assessment by the Secretary of whether—
+
+    (i) the Department of Defense maintains adequate systems and processes for ensuring that former members of the armed forces are submitting required reports relating to their employment by foreign governments;
+
+    (ii) all covered individuals who occupy a covered post-service position are in compliance with this section;
+
+    (iii) the services provided by the covered individuals who occupy a covered post-service position pose a current or future threat to the national security of the United States; and
+
+    (iv) there is any credible information or reporting that any covered individual who occupies a covered post-service position has engaged in activities that violate Federal law.
+
+(3) **Form of report.—** — Each report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+
+**(f) Notifications of Determinations of Certain Threats.—**
+
+(1) **Requirement.—** — In addition to the annual reports under subsection (d), if the Secretary determines that the services provided by a covered individual who occupies a covered post-service position pose a threat described in clause (iii) of paragraph (2)(B) of that subsection, or include activities described in clause (iv) of such paragraph, the Secretary shall notify the congressional defense committees of that determination by not later than 30 days after making the determination.
+
+(2) **Elements.—** — A notification required by paragraph (1) shall include the following:
+
+  (A) The name of the covered individual.
+
+  (B) The name of the employer.
+
+  (C) The foreign government, including the specific foreign individual, agency, or entity, for whom the covered post-service employment is being performed.
+
+  (D) As applicable, a description of the risk to national security and the activities that may violate Federal law.
+
+**(g) Rule of Construction.—** Nothing in this section may be construed to indemnify or shield covered individuals from prosecution under any relevant provision of title 18.
+
+**(h) Definitions.—** In this section:
+
+(1) **Covered individual.—** — The term “covered individual” means an individual who has retired or otherwise separated from an active or reserve component of the Armed Forces.
+
+(2) **Covered post-service employment.—** — The term “covered post-service employment” means direct or indirect employment by, representation of, or any provision of advice or services relating to national security, intelligence, the military, or internal security to—
+
+  (A) the government of—
+
+    (i) a country of concern (as defined in section 1(m) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2651a(m)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a/m&num=0&edition=prelim))); or
+
+    (ii) a country the Secretary of Defense determines acts as a proxy or passthrough for services for a country of concern; or
+
+  (B) any company, entity, or other person the activities of which are directly or indirectly supervised, directed, controlled, financed, or subsidized, in whole or in major part, by a government described in subparagraph (A).
+
+(3) **Covered post-service position.—** — The term “covered post-service position” means a position of employment described in paragraph (2).

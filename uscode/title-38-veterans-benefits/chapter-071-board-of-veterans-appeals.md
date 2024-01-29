@@ -225,9 +225,19 @@ Pub. L. 103–446, title II, § 202, Nov. 2, 1994, 108 Stat. 4657, provided that
 
 **(b)** A proceeding may not be assigned to the Chairman as an individual member. The Chairman may participate in a proceeding assigned to a panel or in a reconsideration assigned to a panel of members.
 
+**(c)**
+
+(1) The Secretary shall ensure that there is offered to each member of the Board an annual training on military sexual trauma and proceedings that concern a claim for compensation based on military sexual trauma experienced by a veteran.
+
+(2) A proceeding that concerns a claim specified in paragraph (1) may not be assigned to an individual member of the Board or to a panel of members unless the individual member, or each member of the panel, as the case may be, has completed the annual training most recently offered to that member pursuant to such paragraph.
+
+(3) In this subsection, the term “military sexual trauma” has the meaning given that term in [section 1166(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1166/c&num=0&edition=prelim).
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–300 added subsec. (c).
+
 1994—Pub. L. 103–271 amended section generally, substituting present provisions for provisions authorizing Chairman to divide Board into sections of three members and to assign proceedings thereto, and provisions relating to assignment where section is composed of fewer than three members, limiting annual period of service, prohibiting more than one member to be a temporary or acting member, and relating to hearing docket and report of determination.
 
 1991—Pub. L. 102–40, § 402(b)(1), renumbered [section 4002 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4002&num=0&edition=prelim) as this section.
@@ -247,6 +257,12 @@ Subsec. (b). Pub. L. 98–223, § 208(d)(3), designated provision relating to th
 Pub. L. 98–223, § 208(c), struck out “associate” before “member” in two places.
 
 Subsec. (c). Pub. L. 98–223, § 208(d)(4), designated provision relating to the section making a determination on any proceeding or motion in connection therewith assigned to the section by the Board and making a report on such determination, which report constitutes its final disposition of the proceeding, as subsec. (c).
+
+#### First Training
+Pub. L. 117–300, § 1(b), Dec. 27, 2022, 136 Stat. 4379, provided that: “The Secretary of Veterans Affairs shall ensure that each member of the Board of Veterans’ Appeals is offered the first annual training under [section 7102(c) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7102/c&num=0&edition=prelim), United States Code, as amended by subsection (a), by not later than 180 days after the date of the enactment of this Act [Dec. 27, 2022].”
+
+#### Applicability of Limitation Under Subsection (c)(2)
+Pub. L. 117–300, § 1(c), Dec. 27, 2022, 136 Stat. 4379, provided that: “The limitation under [section 7102(c)(2) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7102/c/2&num=0&edition=prelim), United States Code, as added by subsection (a), shall apply with respect to the assignment of proceedings on or after the date that is 180 days after the date of the enactment of this Act [Dec. 27, 2022].”
 
 
 <a id="section-7103"></a>
@@ -702,9 +718,25 @@ Section applicable to any determination made before, on, or after Nov. 21, 1997,
 
 
 <a id="section-7112"></a>
-## § 7112. Expedited treatment of remanded claims
+## § 7112. Expedited treatment of certain claims
+**(a) Remanded Claims.—** The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the Board of any claim that is remanded to the Secretary by the Court of Appeals for Veterans Claims.
 
-The Secretary shall take such actions as may be necessary to provide for the expeditious treatment by the Board of any claim that is remanded to the Secretary by the Court of Appeals for Veterans Claims.
+**(b) Claims Involving Military Sexual Trauma.—** The Board shall promptly determine whether a notice of disagreement filed with the Board is a covered case.
+
+**(c) Definitions.—** In this section:
+
+(1) The term “covered case” means a case—
+
+  (A) that concerns a claim for compensation based on military sexual trauma; and
+
+  (B) for which the appellant has requested a hearing in the notice of disagreement filed with the Board pursuant to [section 7105 of this title](./chapter-071-board-of-veterans-appeals.md#section-7105).
+
+(2) The term “military sexual trauma” has the meaning given that term in [section 1166 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1166).
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–300 substituted “certain” for “remanded” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsecs. (b) and (c).
 
 
 <a id="section-7113"></a>

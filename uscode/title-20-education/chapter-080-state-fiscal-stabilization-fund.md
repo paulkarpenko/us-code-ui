@@ -329,6 +329,11 @@ The Comptroller General of the United States shall conduct evaluations of the pr
 
 The Secretary shall submit a report to the Committee on Education and Labor of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committees on Appropriations of the House of Representatives and of the Senate, not less than 6 months following the submission of State reports, that evaluates the information provided in the State reports under [section 10008 of this title](./chapter-080-state-fiscal-stabilization-fund.md#section-10008) and the information required by [section 10005(b)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section10005/b/3&num=0&edition=prelim) including State-by-State information.
 
+### Statutory Notes
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-10011"></a>
 ## § 10011. Prohibition on provision of certain assistance

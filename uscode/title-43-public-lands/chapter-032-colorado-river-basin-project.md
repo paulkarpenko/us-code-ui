@@ -15,7 +15,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Effective Date of Repeal on Failure of Enforceability Date
 Pub. L. 108–451, title I, § 111, Dec. 10, 2004, 118 Stat. 3499, provided that: “(a) In General.—Except as provided in subsection (b), if the Secretary [of the Interior] does not publish a statement of findings under section 207(c) [118 Stat. 3519] by December 31, 2007 [published Dec. 14, 2007, see 72 F.R. 71143]—“(1) this title [see Short Title of 2004 Amendment note below] is repealed effective January 1, 2008, and any action taken by the Secretary and any contract entered under any provision of this title shall be void; and “(2) any amounts appropriated under section 110 [118 Stat. 3498] that remain unexpended shall immediately revert to the general fund of the Treasury. “(b) Exception.—No subcontract amendment executed by the Secretary under the notice of June 18, 2003 (67 Fed. Reg. 36578), shall be considered to be a contract entered into by the Secretary for purposes of subsection (a)(1).”
@@ -43,7 +43,7 @@ Pursuant to the authority set out in the Reclamation Act of June 17, 1902, 32 St
 #### References in Text
 The Reclamation Act of June 17, 1902, 32 Stat. 388, referred to in text, is classified generally to chapter 12 (§ 371 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
-The Water Resources Planning Act, as amended, referred to in text, is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962&num=0&edition=prelim) and Tables.
+The Water Resources Planning Act, referred to in text, is Pub. L. 89–80, July 22, 1965, 79 Stat. 244, as amended, which is classified generally to chapter 19B (§ 1962 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1962 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1980—Pub. L. 96–375 substituted “any Federal official” for “the Secretary” in proviso.
@@ -62,7 +62,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 ### Statutory Notes
 
 #### References in Text
-The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
 #### Codification
 Section was not enacted as part of the Colorado River Basin Project Act which comprises this chapter.
@@ -76,7 +76,7 @@ The Congress declares that the satisfaction of the requirements of the Mexican W
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
 
 <a id="section-1513"></a>
@@ -88,7 +88,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 
 <a id="section-1514"></a>
@@ -164,7 +164,7 @@ Pub. L. 100–512, § 11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: “Up
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
 
 <a id="section-1524"></a>
@@ -194,9 +194,9 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b)(1), (f)(1), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+This chapter, referred to in subsecs. (b)(1), (f)(1), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
-The Boulder Canyon Project Act, referred to in subsec. (c), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
+The Boulder Canyon Project Act, referred to in subsec. (c), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
 
 #### Codification
 Subsec. (g) of this section, which restricted the use of water from the projects authorized by this chapter for the production of basic agricultural commodities on newly irrigated lands for a period of ten years from Sept. 30, 1968, was omitted.
@@ -232,7 +232,7 @@ The conservation and development of the fish and wildlife resources and the enha
 ### Statutory Notes
 
 #### References in Text
-The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
+The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
 
 
 <a id="section-1528"></a>
@@ -257,9 +257,9 @@ Upon completion of each lower basin unit of the project herein or hereafter auth
 #### References in Text
 The Federal reclamation laws, referred to in par. (10), are identified in [section 1554 of this title](./chapter-032-colorado-river-basin-project.md#section-1554).
 
-The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
+The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
 
 <a id="section-1542"></a>
@@ -419,7 +419,7 @@ The date of enactment of this Act, referred to in subsec. (f)(2)(D)(vi), probabl
 
 The Central Arizona Project Settlement Act of 2004, referred to in subsec. (f)(2)(D)(viii), is title I of Pub. L. 108–451, Dec. 10, 2004, 118 Stat. 3486. For complete classification of this Act to the Code, see Short Title of 2004 Amendment note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
-Act of June 24, 1938, referred to in subsec. (f)(4)(B)(i)(I), is act June 24, 1938, ch. 648, 52 Stat. 1037, as amended, which enacted [section 162a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section162a&num=0&edition=prelim), Indians, repealed [section 162 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section162&num=0&edition=prelim), and enacted provisions set out as a note under [section 162a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section162a&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
+Act of June 24, 1938, referred to in subsec. (f)(4)(B)(i)(I), is act June 24, 1938, ch. 648, 52 Stat. 1037, which enacted [section 162a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section162a&num=0&edition=prelim), Indians, repealed [section 162 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section162&num=0&edition=prelim), and enacted provisions set out as a note under [section 162a of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section162a&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
 Section 4 of the Act of March 4, 1939, referred to in subsec. (f)(4)(B)(ii)(IV), probably should be a reference to section 4 of act March 8, 1938, as amended by act March 4, 1939, which is classified to [section 713a–4 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section713a–4&num=0&edition=prelim), Commerce and Trade.
 
@@ -484,13 +484,13 @@ On January 1 of each year the Secretary shall report to the Congress, beginning 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, known as the Colorado River Basin Project Act, which enacted this chapter and sections 616aa–1, 620a–1, 620a–2, 620c–1, and 620d–1 of this title, amended sections 616hh, 620, and 620a of this title, and enacted provisions set out as notes under sections 620, 620k, and 1501 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
-The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
+The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
 
-The Boulder Canyon Project Adjustment Act, referred to in subsec. (a), is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
+The Boulder Canyon Project Adjustment Act, referred to in subsec. (a), is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
 
-The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
+The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (b)(1) of this section relating to the requirement that the Secretary transmit a report to Congress every five years, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 9th item on page 114 of House Document No. 103–7.
@@ -513,11 +513,11 @@ For termination, effective May 15, 2000, of provisions in subsec. (b)(1) of this
 ### Statutory Notes
 
 #### References in Text
-The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, as amended, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
+The Colorado River Storage Project Act, referred to in subsec. (a), is act Apr. 11, 1956, ch. 203, 70 Stat. 105, which is classified generally to chapter 12B (§ 620 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 620 of this title](./chapter-12b-colorado-river-storage-project.md#section-620) and Tables.
 
-The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
+The Boulder Canyon Project Act, referred to in subsec. (a), is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
 
-The Boulder Canyon Project Adjustment Act, referred to in subsec. (a), is act July 19, 1940, ch. 643, 54 Stat. 774, as amended, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
+The Boulder Canyon Project Adjustment Act, referred to in subsec. (a), is act July 19, 1940, ch. 643, 54 Stat. 774, which is classified generally to subchapter II (§ 618 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see section 618o of this title and Tables.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the requirement that the Secretary transmit an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 3rd item on page 113 of House Document No. 103–7.
@@ -549,7 +549,7 @@ Part I of the Federal Power Act [[16 U.S.C. 791a](https://uscode.house.gov/view.
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended. Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063. Part I of the Federal Power Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16, Conservation. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1556"></a>

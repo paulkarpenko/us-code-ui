@@ -260,7 +260,7 @@ Title III of the National Prohibition Act, as amended, and all provisions of the
 ### Statutory Notes
 
 #### References in Text
-The National Prohibition Act, as amended, referred to in text, is act Oct. 28, 1919, ch. 85, 41 Stat. 305, as amended. Title III of such Act was classified principally to chapter 3 (§ 71 et seq.) of Title 27, Intoxicating Liquors, and was omitted from the Code in view of the incorporation of such provisions in the Internal Revenue Code of 1939, and subsequently into the Internal Revenue Code of 1986.
+The National Prohibition Act, as amended, referred to in text, is act Oct. 28, 1919, ch. 85, 41 Stat. 305. Title III of such Act was classified principally to chapter 3 (§ 71 et seq.) of Title 27, Intoxicating Liquors, and was omitted from the Code in view of the incorporation of such provisions in the Internal Revenue Code of 1939, and subsequently into the Internal Revenue Code of 1986.
 
 #### Codification
 Provisions similar to those comprising this section relating to Puerto Rico are classified to [section 734a of this title](./chapter-004-puerto-rico.md#section-734a).
@@ -580,9 +580,9 @@ The government of the Virgin Islands, through its legislative assembly, may gran
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949 (Public Law 171, Eighty-First Congress), as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949 (Public Law 171, Eighty-First Congress), as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, as amended, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1955—Act Aug. 11, 1955, included urban renewal projects, and inserted “as amended” after “Housing Act of 1949” and after “this Act”.
@@ -599,7 +599,7 @@ The legislative assembly may authorize such authority, any provision of the Virg
 ### Statutory Notes
 
 #### References in Text
-The Virgin Islands Organic Act, referred to in text, probably means the Organic Act of the Virgin Islands of the United States, act June 22, 1936, ch. 699, 49 Stat. 1807, as amended, which is classified generally to subchapter II (§ 1405 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 1406m of this title](./chapter-007-virgin-islands.md#section-1406m) and Tables.
+The Virgin Islands Organic Act, referred to in text, probably means the Organic Act of the Virgin Islands of the United States, act June 22, 1936, ch. 699, 49 Stat. 1807, which is classified generally to subchapter II (§ 1405 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 1406m of this title](./chapter-007-virgin-islands.md#section-1406m) and Tables.
 
 
 <a id="section-1408b"></a>
@@ -621,9 +621,9 @@ Notwithstanding the limitation contained in the last sentence of section 110(d) 
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. Title I of the Housing Act of 1949 (Public Law 171, Eighty-first Congress) was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, which is classified principally to chapter 8A (§ 1441 et seq.) of Title 42, The Public Health and Welfare. Title I of the Housing Act of 1949 (Public Law 171, Eighty-first Congress) was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, as amended, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrators.”
@@ -639,7 +639,7 @@ All legislation heretofore enacted by the legislative assembly of the Virgin Isl
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, as amended, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1408e"></a>
@@ -650,7 +650,7 @@ Powers granted in this Act shall be in addition to and not in derogation of any 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, as amended, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, known as the Territorial Enabling Act of 1950, which enacted this subchapter and sections 480 to 480b, 483a, 483b, 721 to 721b, and 910 to 910b of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1409-to-1409j"></a>

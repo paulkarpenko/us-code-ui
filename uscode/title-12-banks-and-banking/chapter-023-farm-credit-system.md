@@ -1655,6 +1655,9 @@ Subsec. (f). Pub. L. 102–552, § 505, in introductory provisions, substituted 
 
 1980—Pub. L. 96–592 designated existing provisions as subsec. (a), inserted provisions relating to currency exchanges and provisions relating to loans, etc., to domestic parties, and added subsecs. (b) to (e).
 
+#### Funding To Be Consistent With Other Laws
+Pub. L. 118–42, div. B, title VII, § 757, Mar. 9, 2024, 138 Stat. 114, provided that: “In this fiscal year and each fiscal year thereafter, and notwithstanding any other provision of law, none of the funds made available by this or any other Act may be used to implement section 3.7(f) of the Farm Credit Act of 1971 [[12 U.S.C. 2128(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2128/f&num=0&edition=prelim)] in a manner inconsistent with section 343(a)(13) of the Consolidated Farm and Rural Development Act [[7 U.S.C. 1991(a)(13)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1991/a/13&num=0&edition=prelim)].”
+
 
 <a id="section-2131"></a>
 ## § 2131. Eligibility
@@ -1690,7 +1693,7 @@ shall be eligible to borrow from a bank for cooperatives. Any such association t
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (b)(1)(A), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Subsec. (b)(1)(A). Pub. L. 115–334, § 6602(b)(17), struck out “or a loan or loan commitment from the Rural Telephone Bank,” before “or that are eligible”.
@@ -1897,7 +1900,7 @@ On a determination by the board of directors of the consolidated bank that the b
 ### Statutory Notes
 
 #### References in Text
-Section 413 of the Agricultural Credit Act of 1987, referred to in text, is section 413 of Pub. L. 100–233, as amended, which is set out as a note under [section 2121 of this title](./chapter-023-farm-credit-system.md#section-2121).
+Section 413 of the Agricultural Credit Act of 1987, referred to in text, is section 413 of Pub. L. 100–233, which is set out as a note under [section 2121 of this title](./chapter-023-farm-credit-system.md#section-2121).
 
 #### Amendments
 1988—Pub. L. 100–399 substituted “consolidated bank” for “United Bank for Cooperatives or the National Bank for Cooperatives” and “establishment of the bank under section 413 of the Agricultural Credit Act of 1987” for “merger”.
@@ -2542,7 +2545,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 ### Statutory Notes
 
 #### References in Text
-The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in subsec. (a), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 4.13 of Pub. L. 92–181, title IV, Dec. 10, 1971, 85 Stat. 613, was renumbered section 4.13B by Pub. L. 99–205, title III, § 301(a), Dec. 23, 1985, 99 Stat. 1707, and is classified to [section 2201 of this title](./chapter-023-farm-credit-system.md#section-2201).
@@ -3331,9 +3334,9 @@ At the time a System institution or an agricultural mortgage loan originator (as
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in text, is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
-The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Food Security Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
+The Food Security Act of 1985, referred to in text, is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354. Subtitles B and C of title XII of the Food Security Act are classified generally to subchapters II (§ 3811 et seq.) and III (§ 3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 1281 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1281&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2018—Pub. L. 115–334 substituted “[section 2279aa of this title](./chapter-023-farm-credit-system.md#section-2279aa))” for “[section 2279aa(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2279aa/7&num=0&edition=prelim))”.
@@ -3525,7 +3528,7 @@ For provisions authorizing interim implementation by Governor of Farm Credit Adm
 
   (C) *Ethics in Government* — The officers and employees of the agency shall be—
 
-    (i) subject to the Ethics in Government Act of 1978; and
+    (i) subject to chapter 131 of title 5; and
 
     (ii) considered officers or employees of the United States for the purposes of sections 201 through 203, and sections 205 through 209, of title 18.
 
@@ -3535,10 +3538,9 @@ For provisions authorizing interim implementation by Governor of Farm Credit Adm
 
 ### Statutory Notes
 
-#### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(C)(i), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
 #### Amendments
+2022—Subsec. (c)(2)(C)(i). Pub. L. 117–286 substituted “chapter 131 of title 5;” for “the Ethics in Government Act of 1978;”.
+
 1989—Subsec. (c)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The officers and employees of the agency shall be—
 
 “(A) subject to the Ethics in Government Act of 1978 ([2 U.S.C. 701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section701&num=0&edition=prelim) et seq.);
@@ -3571,16 +3573,16 @@ For provisions authorizing interim implementation by Governor of Farm Credit Adm
 <a id="section-2248"></a>
 ## § 2248. Advisory committees
 
-The Chairman of the Board, subject to the approval of the Board, may establish one or more advisory committees in accordance with the Federal Advisory Committee Act and may appoint to such committee or committees individuals who are members of the Federal Farm Credit Board when such Board is terminated by the Farm Credit Amendments Act of 1985.
+The Chairman of the Board, subject to the approval of the Board, may establish one or more advisory committees in accordance with chapter 10 of title 5 and may appoint to such committee or committees individuals who are members of the Federal Farm Credit Board when such Board is terminated by the Farm Credit Amendments Act of 1985.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Farm Credit Amendments Act of 1985, referred to in text, is Pub. L. 99–205, Dec. 23, 1985, 99 Stat. 1678. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under [section 2001 of this title](./chapter-023-farm-credit-system.md#section-2001) and Tables.
 
 #### Amendments
+2022—Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act”.
+
 1988—Pub. L. 100–233 inserted “, subject to the approval of the Board,” after “Chairman of the Board”.
 
 1985—Pub. L. 99–205 substituted provisions respecting advisory committees for provisions respecting compliance by the Governor with orders of the Federal Farm Credit Board.
@@ -3676,7 +3678,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 ### Statutory Notes
 
 #### References in Text
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (b)(1), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 5.15 of Pub. L. 92–181 was renumbered section 5.14 and is classified to [section 2249 of this title](./chapter-023-farm-credit-system.md#section-2249).
@@ -4011,11 +4013,11 @@ A prior section 5.18 of Pub. L. 92–181 was renumbered section 5.17 and is clas
 A prior section 5.19 of Pub. L. 92–181 was classified to [section 2253 of this title](./chapter-023-farm-credit-system.md#section-2253) prior to repeal by Pub. L. 99–205, title II, § 202(a), Dec. 23, 1985, 99 Stat. 1693.
 
 #### References in Text
-The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
+The National Bank Act, referred to in subsec. (a), is act June 3, 1864, ch. 106, 13 Stat. 99, which is classified principally to chapter 2 (§ 21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 38 of this title](./chapter-002-national-banks.md#section-38).
 
-The Federal Reserve Act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
+The Federal Reserve Act, referred to in subsec. (a), is act Dec. 23, 1913, ch. 6, 38 Stat. 251, which is classified principally to chapter 3 (§ 221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 226 of this title](./chapter-003-federal-reserve-system.md#section-226) and Tables.
 
-The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (a), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
 #### Amendments
 2018—Subsec. (a). Pub. L. 115–334, § 5411(31)(A), substituted “Each institution” for “Except for Federal land bank associations, each institution” and struck out “Each Federal land bank association shall be examined by Farm Credit Administration examiners at such times as the Farm Credit Administration Board may determine, except that each such association shall be examined at least once every three years.” after “each 18-month period.”
@@ -6539,7 +6541,7 @@ Subsecs. (d), (e). Pub. L. 110–246, § 5406(c)(4), (5), redesignated subsec. (
 1988—Subsec. (a). Pub. L. 100–399 inserted “permanent” after “appointment and election of the”.
 
 #### Effective Date of 2018 Amendment
-Pub. L. 115–334, title V, § 5410(b), Dec. 20, 2018, 132 Stat. 4678, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 1 year after the date a report submitted in accordance with section 5414 of this Act [132 Stat. 4724] indicates that it is feasible to increase the acreage limitation in section 8.8(c)(2) of the Farm Credit Act of 1971 [[12 U.S.C. 2279aa–8(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2279aa–8/c/2&num=0&edition=prelim)] to 2,000 acres.”
+Pub. L. 115–334, title V, § 5410(b), Dec. 20, 2018, 132 Stat. 4678, provided that: “The amendment made by subsection (a) [amending this section] shall take effect 1 year after the date a report submitted in accordance with section 5414 of this Act [132 Stat. 4724] indicates that it is feasible to increase the acreage limitation in section 8.8(c)(2) of the Farm Credit Act of 1971 [[12 U.S.C. 2279aa–8(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section2279aa–8/c/2&num=0&edition=prelim)] to 2,000 acres [report submitted June 2019].”
 
 #### Effective Date of 2008 Amendment
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under [section 8701 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8701&num=0&edition=prelim), Agriculture.
@@ -6685,7 +6687,7 @@ No State or political subdivision thereof may treat the merger or consolidation 
 ### Statutory Notes
 
 #### References in Text
-The Agricultural Credit Act of 1987, referred to in text, is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568, as amended. Title IV of that Act amended this chapter. For complete classification of this Act to the Code see Short Title of 1988 Amendment note set out under [section 2001 of this title](./chapter-023-farm-credit-system.md#section-2001) and Tables.
+The Agricultural Credit Act of 1987, referred to in text, is Pub. L. 100–233, Jan. 6, 1988, 101 Stat. 1568. Title IV of that Act amended this chapter. For complete classification of this Act to the Code see Short Title of 1988 Amendment note set out under [section 2001 of this title](./chapter-023-farm-credit-system.md#section-2001) and Tables.
 
 #### Effective Date
 Section effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as an Effective Date of 1988 Amendment note under [section 2002 of this title](./chapter-023-farm-credit-system.md#section-2002).
@@ -6751,7 +6753,7 @@ For purposes of this subchapter:
 ### Statutory Notes
 
 #### References in Text
-The Consolidated Farm and Rural Development Act, referred to in par. (7)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
+The Consolidated Farm and Rural Development Act, referred to in par. (7)(B), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, which is classified principally to chapter 50 (§ 1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1921&num=0&edition=prelim) and Tables.
 
 The Rural Electrification Act of 1936, referred to in par. (7)(C), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
@@ -7408,9 +7410,9 @@ Repeal effective as if repealing provisions had been enacted immediately after e
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (a)(1), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
-The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (a)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (d). Pub. L. 104–105 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Any provision of the constitution or law of any State which expressly limits the rate or amount of interest, discount points, finance charges, or other charges that may be charged, taken, received, or reserved by agricultural lenders or certified facilities shall not apply to any agricultural loan made by an originator or a certified facility in accordance with this subchapter that is included in a pool for which the Corporation has provided a guarantee.”

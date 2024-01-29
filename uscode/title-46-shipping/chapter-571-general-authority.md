@@ -2,7 +2,7 @@
 title: 46
 chapter: '571'
 heading: GENERAL AUTHORITY
-section_count: 11
+section_count: 12
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -74,7 +74,7 @@ source: >-
 
 (5) **Other matters.—** — Any other matters the Maritime Administrator considers appropriate.
 
-**(g) Vessel Status.—** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be of insufficient value to remain in the National Defense Reserve Fleet shall remain a vessel within the meaning of that term in [section 3 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section3&num=0&edition=prelim), United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
+**(g) Vessel Status.—** A vessel in the National Defense Reserve Fleet determined by the Maritime Administration to be an obsolete vessel shall remain a vessel within the meaning of that term in [section 3 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section3&num=0&edition=prelim), United States Code, and subject to the rights and responsibilities of a vessel under admiralty law at least until such time as the vessel is delivered to a dismantling facility or is disposed of otherwise from the National Defense Reserve Fleet.
 
 ### Statutory Notes
 
@@ -85,6 +85,8 @@ Section 902 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1242), referred to 
 Section, as added and amended by Pub. L. 115–91, is based on act Mar. 8, 1946, ch. 82, § 11, 60 Stat. 49; June 28, 1947, ch. 161, § 1, 61 Stat. 190; Feb. 27, 1948, ch. 78, § 1(a), 62 Stat. 38; Feb. 28, 1949, ch. 12, 63 Stat. 9; June 29, 1949, ch. 281, § 1, 63 Stat. 349; June 30, 1950, ch. 427, § 2, 64 Stat. 308; Pub. L. 97–31, § 12(157), Aug. 6, 1981, 95 Stat. 167; Pub. L. 101–115, § 6, Oct. 13, 1989, 103 Stat. 693; Pub. L. 101–225, title III, § 307(12), Dec. 12, 1989, 103 Stat. 1925; Pub. L. 102–241, § 57, Dec. 19, 1991, 105 Stat. 2234; Pub. L. 102–587, title VI, § 6205(a), Nov. 4, 1992, 106 Stat. 5094; Pub. L. 104–106, div. A, title X, § 1014(b), Feb. 10, 1996, 110 Stat. 424; Pub. L. 104–239, § 9, Oct. 8, 1996, 110 Stat. 3133; Pub. L. 109–364, div. C, title XXXV, § 3503, Oct. 17, 2006, 120 Stat. 2516; Pub. L. 110–181, div. C, title XXXV, §§ 3513, 3516, Jan. 28, 2008, 122 Stat. 594, 595; Pub. L. 112–81, div. C, title XXXV, § 3502, Dec. 31, 2011, 125 Stat. 1716; Pub. L. 112–213, title IV, § 410, Dec. 20, 2012, 126 Stat. 1572; Pub. L. 114–328, div. C, title XXXV, § 3504, Dec. 23, 2016, 130 Stat. 2776, which was formerly classified to [section 4405 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4405&num=0&edition=prelim), War and National Defense, before being transferred to this chapter and renumbered as this section.
 
 #### Amendments
+2023—Subsec. (g). Pub. L. 118–31 substituted “an obsolete vessel” for “of insufficient value to remain in the National Defense Reserve Fleet”.
+
 2018—Subsec. (d)(1). Pub. L. 115–232 substituted “[section 8680 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8680&num=0&edition=prelim)” for “[section 7310 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7310&num=0&edition=prelim), United States Code,”.
 
 2017—Pub. L. 115–91, § 3502(b)(6)(A), inserted section enumerator and catchline.
@@ -103,6 +105,12 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
+#### Consideration of Life-Cycle Cost Estimates for Acquisition and Procurement of Vessels
+Pub. L. 118–31, div. C, title XXXV, § 3535, Dec. 22, 2023, 137 Stat. 835, provided that: “In carrying out the acquisition and procurement of vessels in the National Defense Reserve Fleet, the Secretary of Transportation, acting through the Administrator of the Maritime Administration, shall consider the life-cycle cost estimates of vessels during the design and evaluation processes to the maximum extent practicable.”
+
+#### Recapitalization of National Defense Reserve Fleet
+Pub. L. 117–263, div. C, title XXXV, § 3546, Dec. 23, 2022, 136 Stat. 3100, as amended by Pub. L. 118–31, div. C, title XXXV, § 3532, Dec. 22, 2023, 137 Stat. 827, provided that: “(a) In General.—Subject to the availability of appropriations made specifically available for reimbursements to the Ready Reserve Force, Maritime Administration account of the Department of Transportation for programs, projects, activities, and expenses related to the National Defense Reserve Fleet, the Secretary of the Navy, in consultation with the Chief of Naval Operations and the Commandant of the Coast Guard, shall—“(1) complete the design of a sealift vessel for the National Defense Reserve Fleet to allow for the construction of such vessel to begin in fiscal year 2025; and “(2) seek to enter into an agreement with an appropriate vessel construction manager under which the vessel construction manager shall enter into a contract for the construction of not more than ten such vessels in accordance with this section. “(b) Construction and Documentation Requirements.—A vessel constructed pursuant to this section shall meet the requirements for, and be issued a certificate of, documentation and a coastwise endorsement under chapter 121 of title 46, United States Code. “(c) Design Standards and Construction Practices.—Subject to subsection (b), a vessel constructed pursuant to this section shall be constructed using commercial design standards and commercial construction practices that are consistent with the best interests of the Federal Government. “(d) Consultation With Other Federal Entities.—The Secretary of the Navy shall consult and coordinate with the Secretary of Transportation and may consult with the heads of other appropriate Federal agencies regarding the vessel described in subsection (a) and activities associated with such vessel. “(e) Limitation on Use of Funds for Used Vessels.—None of the funds authorized to be appropriated by this Act or otherwise made available to carry out this section may be used for the procurement of any used vessel. “(f) Limitation.—Of the amounts authorized to be appropriated by this Act [see Tables for classification] or otherwise made available for fiscal year 2024 for the Secretary of the Navy for travel expenses, not more than 50 percent may be obligated or expended until the Secretary of the Navy submits to the congressional defense committees [Committee on Armed Services and Committee on Appropriations of the Senate and House of Representatives] a report that includes a detailed description of the acquisition strategy for the execution of the authority under subsection (a).”
+
 #### Vessel Repair and Maintenance Pilot Program
 Pub. L. 104–239, § 16, Oct. 8, 1996, 110 Stat. 3138, provided that: “(a) In General.—The Secretary of Transportation shall conduct a pilot program to evaluate the feasibility of using renewable contracts for the maintenance and repair of outported vessels in the Ready Reserve Force to enhance the readiness of those vessels. Under the pilot program, the Secretary, subject to the availability of appropriations and within 6 months after the date of the enactment of this Act [Oct. 8, 1996], shall award 9 contracts for this purpose. “(b) Use of Various Contracting Arrangements.—In conducting a pilot program under this section, the Secretary of Transportation shall use contracting arrangements similar to those used by the Department of Defense for procuring maintenance and repair of its vessels. “(c) Contract Requirements.—Each contract with a shipyard under this section shall—“(1) subject to subsection (d), provide for the procurement from the shipyard of all repair and maintenance (including activation, deactivation, and drydocking) for 1 vessel in the Ready Reserve Force that is outported in the geographical vicinity of the shipyard; “(2) be effective for 1 fiscal year; and “(3) be renewable, subject to the availability of appropriations, for each subsequent fiscal year through fiscal year 1998. “(d) Limitation of Work Under Contracts.—A contract under this section may not provide for the procurement of operation or manning for a vessel that may be procured under another contract for the vessel to which section 11(d)(2) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1774(d)(2)) [probably means “(50 U.S.C. App. 1744(d)(2))”, now [46 U.S.C. 57100(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section57100/c/2&num=0&edition=prelim)] applies. “(e) Geographic Distribution.—The Secretary shall seek to distribute contract awards under this section to shipyards located throughout the United States. “(f) Reports.—The Secretary shall submit to the Congress—“(1) an interim report on the effectiveness of each contract under this section in providing for economic and efficient repair and maintenance of the vessel included in the contract, no later than 20 months after the date of the enactment of this Act [Oct. 8, 1996]; and “(2) a final report on that effectiveness no later than 6 months after the termination of all contracts awarded pursuant to this section.”
 
@@ -111,7 +119,7 @@ Pub. L. 104–239, § 16, Oct. 8, 1996, 110 Stat. 3138, provided that: “(a) In
 ## § 57101. Placement of vessels in National Defense Reserve Fleet
 **(a) In General.—** Any vessel acquired by the Maritime Administration of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate shall be placed in the National Defense Reserve Fleet.
 
-**(b) Removal From Fleet.—** A vessel placed in the Fleet under subsection (a) may not be traded out or sold from the Fleet, except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title.
+**(b) Removal From Fleet.—** A vessel placed in the Fleet under subsection (a) may not be traded out or sold from the Fleet, except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title, or [section 308704 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704&num=0&edition=prelim).
 
 **(c) Authority of Federal Entities To Transfer Vessels.—** All Federal entities are authorized to transfer vessels to the National Defense Reserve Fleet without reimbursement subject to the approval of the Secretary of Transportation and the Secretary of the Navy with respect to Ready Reserve Force vessels and the Secretary of Transportation with respect to all other vessels.
 
@@ -127,6 +135,8 @@ In subsection (a), the words “vessel acquired by the Maritime Administration�
 In subsection (b), the words “except as provided in section 57102, 57103, or 57104 or chapter 533, 537, 573, or 575 of this title” are substituted for “except as provided for in subsections (g) and (i) of this section. This limitation shall not affect the rights of the Secretary of Transportation to dispose of a vessel as provided in other sections of this subchapter or in subchapters VII or XI of this chapter” because of the restatement.
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31 inserted “, or [section 308704 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308704&num=0&edition=prelim)” before period at end.
+
 2017—Subsec. (a). Pub. L. 115–91, which directed striking out “maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. 1744)”, was executed by striking out “maintained under section 11 of the Merchant Ship Sales Act of 1946 (50 App. U.S.C. 1744)” before period at end, to reflect the probable intent of Congress.
 
 2012—Subsec. (a). Pub. L. 112–213, § 406, inserted “of 1,500 gross tons or more or such other vessels as the Secretary of Transportation determines are appropriate” after “Administration”.
@@ -135,10 +145,10 @@ Subsec. (c). Pub. L. 112–213, § 407, added subsec. (c).
 
 
 <a id="section-57102"></a>
-## § 57102. Disposition of vessels not worth preserving
-**(a) In General.—** If the Secretary of Transportation determines that a vessel owned by the Maritime Administration is of insufficient value for commercial or military operation to warrant its further preservation, the Secretary may scrap the vessel or sell the vessel for cash.
+## § 57102. Disposition of vessels
+**(a) In General.—** If the Secretary of Transportation determines that a vessel is an obsolete vessel, the Secretary may dispose of such vessel (by sale or by purchase of disposal services).
 
-**(b) Selling Procedure.—** The sale of a vessel under subsection (a) shall be made on the basis of competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.
+**(b) Selling Procedure.—** The sale of a vessel under subsection (a) shall be made on a best value basis. The purchaser does not have to be a citizen of the United States. The purchaser shall provide a surety bond, with a surety approved by the Secretary, to ensure that the vessel will not be operated in the foreign trade of the United States at any time within 10 years after the sale, in competition with a vessel owned by a citizen of the United States and documented under the laws of the United States.
 
 ### Statutory Notes
 
@@ -151,6 +161,13 @@ In subsection (a), the words “vessel owned by the Maritime Administration” a
 
 In subsection (b), the words “The sale of a vessel under section (a) shall be made on the basis of competitive sealed bids, after an appraisal and due advertisement. The purchaser does not have to be a citizen of the United States.” are substituted for “after appraisement and due advertisement, and upon competitive sealed bids, either to citizens of the United States or to aliens” for clarity. The words “provide a surety bond, with a surety approved by the Secretary, to ensure that” are substituted for “enter into an undertaking with sureties approved by the Secretary of Transportation that” for clarity.
 
+#### Amendments
+2023—Pub. L. 118–31, § 3514(j)(4)(A), struck out “not worth preserving” after “Disposition of vessels” in section catchline.
+
+Subsec. (a). Pub. L. 118–31, § 3514(j)(4)(B), substituted “is an obsolete vessel, the Secretary may dispose of such vessel (by sale or by purchase of disposal services).” for “owned by the Maritime Administration is of insufficient value for commercial or military operation to warrant its further preservation, the Secretary may scrap the vessel or sell the vessel for cash.”
+
+Subsec. (b). Pub. L. 118–31, § 3514(j)(4)(C), substituted “on a best value basis” for “on the basis of competitive sealed bids, after an appraisal and due advertisement”.
+
 #### Limitation on Export of Vessels Owned by the Government of the United States for the Purpose of Dismantling, Recycling, or Scrapping
 Pub. L. 110–417, div. C, title XXXV, § 3502, Oct. 14, 2008, 122 Stat. 4761, provided that: “(a) In General.—Except as provided in subsection (b), no vessel that is owned by the Government of the United States shall be approved for export to a foreign country for purposes of dismantling, recycling, or scrapping. “(b) Exception.—Subsection (a) shall not apply with respect to a vessel if the Administrator of the Maritime Administration certifies to the Committee on Armed Services of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate that—“(1) a compelling need for dismantling, recycling, or scrapping the vessel exists; “(2) there is no available capacity in the United States to conduct the dismantling, recycling, or scrapping of the vessel; “(3) any dismantling, recycling, or scrapping of the vessel in a foreign country will be conducted in full compliance with environmental, safety, labor, and health requirements for ship dismantling, recycling, or scrapping that are equivalent to the laws of the United States; and “(4) the export of the vessel under this section will only be for dismantling, recycling, or scrapping of the vessel. “(c) United States Defined.—In this section the term ‘United States’ means the States of the United States, Puerto Rico, and Guam.”
 
@@ -159,8 +176,8 @@ Pub. L. 110–181, div. C, title XXXV, § 3503, Jan. 28, 2008, 122 Stat. 592, pr
 
 
 <a id="section-57103"></a>
-## § 57103. Donation of nonretention vessels in the National Defense Reserve Fleet
-**(a) In General.—** The Secretary of Transportation may convey the right, title, and interest of the United States Government in any vessel of the National Defense Reserve Fleet that has been identified by the Secretary as an obsolete vessel of insufficient value to warrant its further preservation, if the recipient—
+## § 57103. Donation of vessels in the National Defense Reserve Fleet
+**(a) In General.—** The Secretary of Transportation may convey the right, title, and interest of the United States Government in any vessel of the National Defense Reserve Fleet that has been identified by the Secretary as an obsolete vessel, if the recipient—
 
 (1) is a non-profit organization, a State, or a municipal corporation or political subdivision of a State;
 
@@ -204,6 +221,10 @@ Pub. L. 110–181, div. C, title XXXV, § 3503, Jan. 28, 2008, 122 Stat. 592, pr
 In subsection (a), before paragraph (1), the words “Notwithstanding [section 1160(j) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section1160/j&num=0&edition=prelim)” are omitted as unnecessary because section 46 App. U.S.C. 1160(j) is restated in section 57101 of the revised title and that section contains an exception which includes this section. In paragraph (1), the words “Commonwealth, or possession of the United States” and “or the District of Columbia” are omitted as unnecessary because of the definition of “State” in chapter 1 of the revised title.
 
 #### Amendments
+2023—Pub. L. 118–31, § 3514(j)(5)(A), struck out “nonretention” before “vessels” in section catchline.
+
+Subsec. (a). Pub. L. 118–31, § 3514(j)(5)(B), struck out “of insufficient value to warrant its further preservation” after “obsolete vessel”.
+
 2012—Pub. L. 112–213 substituted “Donation of nonretention vessels in the National Defense Reserve Fleet” for “Sale of obsolete vessels in National Defense Reserve Fleet” in section catchline.
 
 
@@ -328,8 +349,8 @@ Unless otherwise authorized by the Secretary of Transportation, a vessel purchas
 The words “only under a certificate of documentation with a registry or coastwise endorsement” are substituted for “only under such registry or enrollment and license” for clarity and to use the appropriate current language.
 
 
-<a id="section-57111"></a>
-## § 57111. Salvage recoveries for subrogated ownership of vessels and cargoes
+<a id="section-57110"></a>
+## § 57110. Salvage recoveries for subrogated ownership of vessels and cargoes
 **(a) Salvage Agreements.—** The Secretary of Transportation is authorized to enter into marine salvage agreements for the recoveries, sale, and disposal of sunken or damaged vessels, cargoes, or properties owned or insured by or on behalf of the Maritime Administration, the United States Shipping Board, the U.S. Shipping Bureau, the United States Maritime Commission, or the War Shipping Administration.
 
 **(b) Military Craft.—** The Secretary of Transportation shall consult with the Secretary of the military department concerned prior to engaging in or authorizing any activity under subsection (a) that will disturb sunken military craft, as such term is defined in section 1408(3) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 (Public Law 108–375; [10 U.S.C. 113](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section113&num=0&edition=prelim) note).
@@ -339,3 +360,27 @@ The words “only under a certificate of documentation with a registry or coastw
 (1) Fifty percent shall be available to the Administrator of the Maritime Administration for the payment or reimbursement of expenses incurred by or on behalf of State maritime academies or the United States Merchant Marine Academy for facility and training ship maintenance, repair, and modernization, and for the purchase of simulators and fuel.
 
 (2) The remainder shall be distributed for maritime heritage preservation to the Department of the Interior for grants as authorized by [section 308703 of title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section308703&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Amendments
+2023—Pub. L. 118–31 renumbered [section 57111 of this title](./chapter-571-general-authority.md#section-57111) as this section.
+
+
+<a id="section-57111"></a>
+## § 57111. Definition of obsolete vessel
+
+In this chapter, the term “obsolete vessel” means a vessel that—
+
+(1) is or will be in the custody and control of the Maritime Administration for purposes of disposing of the vessel; and
+
+(2) has been determined by the Secretary of Transportation to be of insufficient value, with respect to the programs of the Maritime Administration, to warrant—
+
+  (A) preserving for future use or spare parts harvesting; or
+
+  (B) retaining in the National Defense Reserve Fleet.
+
+### Statutory Notes
+
+#### Prior Provisions
+A prior section 57111 was renumbered [section 57110 of this title](./chapter-571-general-authority.md#section-57110).

@@ -191,11 +191,52 @@ Sec. 8. General. (a) Nothing in this order shall be construed as altering existi
 William J. Clinton.
 
 #### Extension of Term of Marine Protected Areas Federal Advisory Committee
-Term of Marine Protected Areas Federal Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Marine Protected Areas Federal Advisory Committee extended until Sept. 30, 2019, by Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extension of term of Marine Protected Areas Federal Advisory Committee was contained in the following prior Executive Order:
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
+
+#### Conserving the Natural and Cultural Heritage of the Pacific Remote Islands
+Memorandum of President of the United States, Mar. 24, 2023, 88 F.R. 19201, provided:
+
+Memorandum for the Secretary of the Interior [and] the Secretary of Commerce
+
+In the middle of the Pacific Ocean lie Howland, Baker, Jarvis, and Wake Islands; Johnston and Palmyra Atolls; and Kingman Reef, whose surrounding reefs, seamounts, and ocean are filled with some of the most diverse and remarkable marine life on the planet, including sharks, rays, marlin, tuna, giant clams, hawksbill turtles, ancient coral forests, and whales. Uninhabited today, for centuries wayfinders of Pacific Island Indigenous Peoples visited these islands while navigating through the expanse of the vast Pacific Ocean.
+
+For years, Native Hawaiian and Pacific Island Indigenous communities, conservation advocates, and scientists have advocated for the protection of United States waters around these remote islands from industrial fishing, oil drilling, and mining. Through Proclamation 8336 of January 6, 2009 (Establishment of the Pacific Remote Islands Marine National Monument) [[54 U.S.C. 320301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim) note], the President partially fulfilled these requests by establishing the Pacific Remote Islands Marine National Monument, which permanently protected the islands, atolls, and emerged reef and 50 nautical miles of water around each. Through Proclamation 9173 of September 25, 2014 (Pacific Remote Islands Marine National Monument Expansion) [[54 U.S.C. 320301](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim) note], the President took a further step to expand the Monument to include 200 nautical miles—the full extent of the United States Exclusive Economic Zone—around Jarvis and Wake Islands and Johnston Atoll. In addition, some areas within the Monument are designated as National Wildlife Refuges.
+
+The areas around Howland and Baker Islands, Palmyra Atoll, and Kingman Reef that remain unprotected include ecologically significant deep-water habitats and an associated array of seamounts with exceptional value for their biodiversity; spawning and feeding grounds for skipjack, yellowfin, and bigeye tuna species; and multiple apex predators that play a vital role in maintaining ecological balance and resilience of the ecosystem. Research continues to reveal the importance of these relatively unexplored habitats to the health, nutrient cycling, and carbon sequestration of the ocean.
+
+To further ensure the protection of this unique and fragile area, support more abundant fisheries in surrounding areas, conserve the capacity of a healthy ocean to capture and store greenhouse gases that would otherwise enter the atmosphere, and appropriately honor ancestral, historical, and cultural connections to this and other Pacific conservation areas, and by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. Initiating National Marine Sanctuary Designation. (a) Within 30 days of the date of this memorandum [Mar. 24, 2023], the Secretary of Commerce should consider initiating designation of a National Marine Sanctuary pursuant to the National Marine Sanctuaries Act, [16 U.S.C. 1431](./chapter-032-marine-sanctuaries.md#section-1431) et seq., to provide the most comprehensive and lasting protections to the significant natural and cultural resources of the submerged lands and waters surrounding the seven islands, atolls, and reefs of the Pacific Remote Islands Marine National Monument—both within and outside the Monument boundary, to the full extent of the seaward limit of the United States Exclusive Economic Zone—including marine life, shoals, seamounts, reefs, banks, and sediments high in minerals and sequestered carbon dioxide for the benefit of present and future generations.
+
+(b) In any proposal of a National Marine Sanctuary designation, as described in subsection (a) of this section, the Secretary of Commerce shall identify the anticipated timeline for the completion of the National Marine Sanctuary designation process as expeditiously as possible, consistent with applicable law.
+
+(c) For any final designation, the Secretary of Commerce shall establish a National Marine Sanctuary advisory council and pursue, as appropriate, opportunities to collaborate with Indigenous Peoples with ancestral, historical, and cultural connections to the area on planning and management.
+
+Sec. 2. Collaboration on Conservation. The Secretary of the Interior and the Secretary of Commerce (Secretaries) shall collaborate, as appropriate, regarding conservation of the lands and surrounding waters of the Pacific Remote Islands.
+
+Sec. 3. Collaborative Process on Naming. In recognition of the deep and enduring cultural significance of this region to the oceanic cultures of the Pacific, the Secretaries shall develop and implement a process to collaborate with Indigenous language experts, Native Hawaiian Organizations, and other representatives from Indigenous Peoples with ancestral, historical, and cultural connections to the area to develop names and naming conventions reflecting ancestral, historical, and cultural connections for the National Wildlife Refuges and any National Marine Sanctuary designated in the area of the Pacific Remote Islands Marine National Monument and for the islands, atolls, reefs, and other natural features in the area. Within 2 years of the date of this memorandum and through the process they develop, the Secretaries shall identify appropriate names for the National Wildlife Refuges within the Pacific Remote Islands Marine National Monument and any National Marine Sanctuary that is designated in the area, provide a recommendation to the President on the potential renaming of the Pacific Remote Islands Marine National Monument, and identify appropriate naming conventions and processes for naming natural features within the boundaries of the Monument and any National Marine Sanctuary that is designated in the area.
+
+Sec. 4. Recommendations on Appropriate Cultural Recognition. Within 2 years of the date of this memorandum, the Secretaries shall engage with Native Hawaiian Organizations and relevant Pacific Island Indigenous communities and coordinate with other executive departments and agencies, as appropriate, to provide the President with recommendations on honoring the heritage, traditional practices, ancestral pathways, and stopping points for Pacific Island voyagers and on providing posthumous recognition for the Hui Panala’au, who were Native Hawaiians sent to the Pacific Remote Islands between 1935 and 1942, many of whom were young men from the Kamehameha Schools.
+
+Sec. 5. General Provisions. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof;
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals; or
+
+(iii) the provisions of Proclamation 8336 and Proclamation 9173, including those related to the rights, authorities, or exemptions for the Department of Defense and actions of the Armed Forces.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Secretary of Commerce is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+J.R. Biden, Jr.
 
 
 <a id="section-1432"></a>
@@ -1155,7 +1196,7 @@ Pub. L. 102–587, title II, § 2201, Nov. 4, 1992, 106 Stat. 5047, provided tha
 
 <a id="section-1445a"></a>
 ## § 1445a. Advisory Councils
-**(a) Establishment** The Secretary may establish one or more advisory councils (in this section referred to as an “Advisory Council”) to advise and make recommendations to the Secretary regarding the designation and management of national marine sanctuaries. The Advisory Councils shall be exempt from the Federal Advisory Committee Act.
+**(a) Establishment** The Secretary may establish one or more advisory councils (in this section referred to as an “Advisory Council”) to advise and make recommendations to the Secretary regarding the designation and management of national marine sanctuaries. The Advisory Councils shall be exempt from chapter 10 of title 5.
 
 **(b) Membership** Members of the Advisory Councils may be appointed from among—
 
@@ -1181,10 +1222,9 @@ Pub. L. 102–587, title II, § 2201, Nov. 4, 1992, 106 Stat. 5047, provided tha
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2000—Subsec. (a). Pub. L. 106–513, § 16, substituted “advise and make recommendations” for “provide assistance”.
 
 Subsec. (b)(2). Pub. L. 106–513, § 19(b)(5), made technical amendment to reference in original act which appears in text as reference to [section 1852 of this title](./chapter-038-fishery-conservation-and-management.md#section-1852).

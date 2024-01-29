@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-741"></a>
 ## § 741. Rank: commissioned officers of the armed forces
-**(a)** Among the grades listed below, the grades of general and admiral are equivalent and are senior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows: Army, Air Force, and Marine CorpsNavy and Coast Guard GeneralAdmiral. Lieutenant generalVice admiral. Major generalRear admiral. Brigadier generalRear admiral (lower half). ColonelCaptain. Lieutenant colonelCommander. MajorLieutenant commander. CaptainLieutenant. First lieutenantLieutenant (junior grade). Second lieutenantEnsign.
+**(a)** Among the grades listed below, the grades of general and admiral are equivalent and are senior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows: Army, Air Force, Marine Corps, and Space ForceNavy and Coast Guard GeneralAdmiral. Lieutenant generalVice admiral. Major generalRear admiral. Brigadier generalRear admiral (lower half). ColonelCaptain. Lieutenant colonelCommander. MajorLieutenant commander. CaptainLieutenant. First lieutenantLieutenant (junior grade). Second lieutenantEnsign.
 
 **(b)** Rank among officers of the same grade or of equivalent grades is determined by comparing dates of rank. An officer whose date of rank is earlier than the date of rank of another officer of the same or equivalent grade is senior to that officer.
 
@@ -68,6 +68,8 @@ In subsection (b), the words “in such grades”, in 10:517 and 34:241a, are om
 In subsection (c), the words “A commissioned officer of the Army or the Air Force” are substituted for the words “All officers of the Army of the United States, including all components thereof”, since rank among officers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 substituted “Marine Corps, and Space Force” for “and Marine Corps” in table.
+
 2021—Subsec. (c). Pub. L. 116–283, § 924(b)(1)(G), substituted “Marine Corps, and Space Force” for “and Marine Corps” in two places.
 
 Subsec. (d). Pub. L. 116–283, § 924(b)(3)(M), substituted “Marine Corps, or Space Force” for “or Marine Corps” wherever appearing.
@@ -119,10 +121,10 @@ Amendment by Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of
 Amendment by Pub. L. 102–190 effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as a note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
 
 #### Effective Date of 1981 Amendment
-Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 97–86 effective Sept. 15, 1981, see section 405(f) of Pub. L. 97–86, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -176,7 +178,7 @@ Pub. L. 100–180, § 1314(a)(2), made technical correction in directory languag
 Pub. L. 100–180, div. A, title XIII, § 1314(e)(1), Dec. 4, 1987, 101 Stat. 1176, provided that: “The amendments made by subsection (a) [amending this section, sections 2431 to 2434 of this title, and provisions set out as notes under sections 111 and 3033 of this title] shall apply as if included in the enactment of the Goldwater-Nichols Department of Defense Reorganization Act of 1986 (Public Law 99–433).”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-744"></a>
@@ -240,4 +242,4 @@ A retired officer has no right to command except when on active duty.
 ### Statutory Notes
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).

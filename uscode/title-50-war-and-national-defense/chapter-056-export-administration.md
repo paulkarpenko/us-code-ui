@@ -41,7 +41,7 @@ Pub. L. 111–259, title IV, § 415, Oct. 7, 2010, 124 Stat. 2727, provided that
 #### Ex. Ord. No. 12131. President’s Export Council
 Ex. Ord. No. 12131, May 4, 1979, 44 F.R. 26841, as amended by Ex. Ord. No. 12551, Feb. 21, 1986, 21 F.R. 6509; Ex. Ord. No. 12991, Mar. 6, 1996, 61 F.R. 9587; Ex. Ord. No. 13138, § 5, Sept. 30, 1999, 64 F.R. 53880; Ex. Ord. No. 13316, § 5, Sept. 17, 2003, 68 F.R. 55256; Ex. Ord. No. 13596, § 1, Dec. 19, 2011, 76 F.R. 80725, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to expand the membership of the President’s Export Council, in accord with the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, and in order to expand the membership of the President’s Export Council, in accord with the provisions of the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], it is hereby ordered as follows:
 
 #### 1–1. Establishment and Membership
 1–101. There is established the President’s Export Council.
@@ -115,7 +115,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 1–302. Each member of the Council, including its executive and subordinate committees, who is not otherwise paid a salary by the Federal Government, shall receive no compensation from the United States by virtue of their service on the Council, but all members may receive the transportation and travel expenses, including per diem in lieu of subsistence, authorized by law ([5 U.S.C. 5702](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5702&num=0&edition=prelim) and 5703).
 
 #### 1–4. General Provisions
-1–401. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.), except that of reporting annually to the Congress, which are applicable to the Council, shall be performed by the Secretary of Commerce in accordance with guidelines and procedures established by the Administrator of General Services.
+1–401. Notwithstanding the provisions of any other Executive order, the functions of the President under the Federal Advisory Committee Act ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], except that of reporting annually to the Congress, which are applicable to the Council, shall be performed by the Secretary of Commerce in accordance with guidelines and procedures established by the Administrator of General Services.
 
 1–402. Executive Order No. 11753 is revoked; however, nothing in this Order shall be deemed to require new charters for the Council, including its executive and subordinate committees, which were current immediately prior to the issuance of this Order.
 
@@ -124,9 +124,11 @@ By the authority vested in me as President by the Constitution and statutes of t
 [Reference to the National Security Staff deemed to be a reference to the National Security Council Staff, see Ex. Ord. No. 13657, set out as a note under [section 3021 of this title](./chapter-044-national-security.md#section-3021).]
 
 #### Extension of Term of President’s Export Council
-Term of President’s Export Council extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Export Council extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of President’s Export Council were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 

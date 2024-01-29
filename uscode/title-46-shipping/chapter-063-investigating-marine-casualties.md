@@ -80,14 +80,14 @@ Section 6303 provides for the rights of parties in interest to an investigation 
 
 
 <a id="section-6304"></a>
-## § 6304. Subpena authority
-**(a)** In an investigation under this chapter, the attendance and testimony of witnesses, including parties in interest, and the production of any evidence may be compelled by subpena. The subpena authority granted by this section is coextensive with that of a district court of the United States, in civil matters, for the district in which the investigation is conducted.
+## § 6304. Subpoena authority
+**(a)** In an investigation under this chapter, the attendance and testimony of witnesses, including parties in interest, and the production of any evidence may be compelled by subpoena. The subpoena authority granted by this section is coextensive with that of a district court of the United States, in civil matters, for the district in which the investigation is conducted.
 
-**(b)** When a person fails to obey a subpena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpena. The court may punish as contempt any disobedience of its order.
+**(b)** When a person fails to obey a subpoena issued under this section, the district court of the United States for the district in which the investigation is conducted or in which the person failing to obey is found, shall on proper application issue an order directing that person to comply with the subpoena. The court may punish as contempt any disobedience of its order.
 
-**(c)** A witness complying with a subpena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
+**(c)** A witness complying with a subpoena issued under this section may be paid for actual travel and attendance at the rate provided for witnesses in the district courts of the United States.
 
-**(d)** An official designated to conduct an investigation under this part may issue subpenas as provided in this section and administer oaths to witnesses.
+**(d)** An official designated to conduct an investigation under this part may issue subpoenas as provided in this section and administer oaths to witnesses.
 
 ### Statutory Notes
 
@@ -97,6 +97,9 @@ Section 6303 provides for the rights of parties in interest to an investigation 
 | 6304 | 46:239(e) 46:239(f) |
 
 Section 6304 provides an officer investigating a marine casualty with the necessary subpena authority to require the attendance and testimony of witnesses and the production of evidence. It also authorizes a district court of the United States to direct compliance with a subpena.
+
+#### Amendments
+2022—Pub. L. 117–263 substituted “subpoena” for “subpena” wherever appearing in text, “subpoenas” for “subpenas” in subsec. (d), and, to reflect the probable intent of Congress, “Subpoena” for “Subpena” in section catchline.
 
 
 <a id="section-6305"></a>

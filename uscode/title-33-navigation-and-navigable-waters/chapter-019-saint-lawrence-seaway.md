@@ -58,7 +58,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 Pub. L. 93–615, § 2, Jan. 2, 1975, 88 Stat. 1977, provided that: “The amendments made to section 2 of the Act of May 13, 1954, by the first section of this Act [amending this section] shall (1) take effect upon the first appointment of an Administrator of the Saint Lawrence Seaway Development Corporation which is made after the date of enactment of this Act [Jan. 2, 1975], and (2) be applicable to such first appointment and to each subsequent appointment to such position.”
 
 #### Termination of Advisory Boards
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-983"></a>

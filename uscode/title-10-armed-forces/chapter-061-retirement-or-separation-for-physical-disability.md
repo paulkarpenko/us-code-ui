@@ -96,7 +96,7 @@ Pub. L. 104–201, div. A, title V, § 572(d), Sept. 23, 1996, 110 Stat. 2533, p
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective and Termination Dates of 1978 Amendment
 Pub. L. 95–377, § 3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
@@ -248,7 +248,7 @@ Amendment by Pub. L. 104–201 effective Sept. 23, 1996, and applicable with res
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective and Termination Dates of 1978 Amendment
 Pub. L. 95–377, § 3, Sept. 19, 1978, 92 Stat. 719, provided that the amendment made by that section is effective only for the period beginning Sept. 15, 1978, and ending Sept. 30, 1979.
@@ -534,7 +534,7 @@ In subsection (b), the words “any other member” are substituted for the word
 Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.
 
 #### Effective Date of 1980 Amendment
-Amendment by section 501(16) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 511(42) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 501(16) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 511(42) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -755,7 +755,7 @@ Subsec. (a)(6). Pub. L. 116–283, § 924(b)(24)(B), substituted “the Air Forc
 1962—Subsec. (d). Pub. L. 87–651 substituted “subsection (b)(1) or (2)” for “subsection (b)(1), (2), or (3)” in cl. (1), and “subsection (b)(4)” for “subsection (b)(5)” in cl. (2).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
@@ -837,13 +837,13 @@ Pub. L. 110–181, div. A, title XVI, § 1646(d), formerly § 1646(c), Jan. 28, 
 [Amendment by Pub. L. 110–389, § 103(a)(1), redesignating section 1646(c) as 1646(d) of Pub. L. 110–181, set out above, effective Jan. 28, 2008, as if included in the Wounded Warrior Act, title XVI of Pub. L. 110–181, to which such amendment relates, see section 103(b) of Pub. L. 110–389, set out as an Effective Date of 2008 Amendment note under [section 1161 of Title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1161&num=0&edition=prelim), Veterans’ Benefits.]
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 2001 Amendment
 Pub. L. 107–107, div. A, title V, § 593(b), Dec. 28, 2001, 115 Stat. 1126, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to members separated under section 1203 or 1206 of title 10, United States Code, on or after date of the enactment of this Act [Dec. 28, 2001].”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Combat-Injured Veterans Tax Fairness
 Pub. L. 114–292, Dec. 16, 2016, 130 Stat. 1500, provided that: “SECTION 1. SHORT TITLE.“This Act may be cited as the ‘Combat-Injured Veterans Tax Fairness Act of 2016’. “SEC. 2. FINDINGS.“Congress makes the following findings:“(1) Approximately 10,000 to 11,000 individuals are retired from service in the Armed Forces for medical reasons each year. “(2) Some of such individuals are separated from service in the Armed Forces for combat-related injuries (as defined in section 104(b)(3) of the Internal Revenue Code of 1986 [[26 U.S.C. 104(b)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section104/b/3&num=0&edition=prelim)]). “(3) Congress has recognized the tremendous personal sacrifice of veterans with combat-related injuries by, among other things, specifically excluding from taxable income severance pay received for combat-related injuries. “(4) Since 1991, the Secretary of Defense has improperly withheld taxes from severance pay for wounded veterans, thus denying them their due compensation and a significant benefit intended by Congress. “(5) Many veterans owed redress are beyond the statutory period to file an amended tax return because they were not or are not aware that taxes were improperly withheld. “SEC. 3. RESTORATION OF AMOUNTS IMPROPERLY WITHHELD FOR TAX PURPOSES FROM SEVERANCE PAYMENTS TO VETERANS WITH COMBAT-RELATED INJURIES.“(a) In General.—Not later than 1 year after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Defense shall—“(1) identify—“(A) the severance payments—“(i) that the Secretary paid after January 17, 1991; “(ii) that the Secretary computed under [section 1212 of title 10](./chapter-061-retirement-or-separation-for-physical-disability.md#section-1212), United States Code; “(iii) that were not considered gross income pursuant to section 104(a)(4) of the Internal Revenue Code of 1986 [[26 U.S.C. 104(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section104/a/4&num=0&edition=prelim)]; and “(iv) from which the Secretary withheld amounts for tax purposes; and “(B) the individuals to whom such severance payments were made; and “(2) with respect to each person identified under paragraph (1)(B), provide—“(A) notice of—“(i) the amount of severance payments in paragraph (1)(A) which were improperly withheld for tax purposes; and “(ii) such other information determined to be necessary by the Secretary of the Treasury to carry out the purposes of this section; and “(B) instructions for filing amended tax returns to recover the amounts improperly withheld for tax purposes. “(b) Extension of Limitation on Time for Credit or Refund.—“(1) Period for filing claim.—If a claim for credit or refund under section 6511(a) of the Internal Revenue Code of 1986 [[26 U.S.C. 6511(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6511/a&num=0&edition=prelim)] relates to a specified overpayment, the 3-year period of limitation prescribed by such subsection shall not expire before the date which is 1 year after the date the information return described in subsection (a)(2) is provided. The allowable amount of credit or refund of a specified overpayment shall be determined without regard to the amount of tax paid within the period provided in section 6511(b)(2) [[26 U.S.C. 6511(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6511/b/2&num=0&edition=prelim)]. “(2) Specified overpayment.—For purposes of paragraph (1), the term ‘specified overpayment’ means an overpayment attributable to a severance payment described in subsection (a)(1). “SEC. 4. REQUIREMENT THAT SECRETARY OF DEFENSE ENSURE AMOUNTS ARE NOT WITHHELD FOR TAX PURPOSES FROM SEVERANCE PAYMENTS NOT CONSIDERED GROSS INCOME.“The Secretary of Defense shall take such actions as may be necessary to ensure that amounts are not withheld for tax purposes from severance payments made by the Secretary to individuals when such payments are not considered gross income pursuant to section 104(a)(4) of the Internal Revenue Code of 1986 [[26 U.S.C. 104(a)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section104/a/4&num=0&edition=prelim)]. “SEC. 5. REPORT TO CONGRESS.“(a) In General.—After completing the identification required by section 3(a) and not later than 1 year after the date of the enactment of this Act [Dec. 16, 2016], the Secretary of Defense shall submit to the appropriate committees of Congress a report on the actions taken by the Secretary to carry out this Act. “(b) Contents.—The report submitted under subsection (a) shall include the following:“(1) The number of individuals identified under section 3(a)(1)(B). “(2) Of all the severance payments described in section 3(a)(1)(A), the aggregate amount that the Secretary withheld for tax purposes from such payments. “(3) A description of the actions the Secretary plans to take to carry out section 4. “(c) Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—“(1) the Committee on Armed Services, the Committee on Veterans’ Affairs, and the Committee on Finance of the Senate; and “(2) the Committee on Armed Services, the Committee on Veterans’ Affairs, and the Committee on Ways and Means of the House of Representatives.”
@@ -869,7 +869,7 @@ The words “a person who has received disability severance pay” are substitut
 1966—Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -989,7 +989,7 @@ In subsection (c), the words “as prescribed by the President” are substitute
 Subsec. (d). Pub. L. 94–225, § 2(a)(2), added subsec. (d).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1976 Amendment
 Pub. L. 94–225, § 2(b), Mar. 4, 1976, 90 Stat. 202, provided that: “The amendments made by subsection (a) of this section [amending this section] shall apply with respect to unfitness determinations made on or after the date of the enactment of this Act [Mar. 4, 1976] by the Secretaries of the military departments concerned for purposes of sections 1201, 1202, and 1203 of title 10, United States Code.”
@@ -1061,7 +1061,7 @@ Aviation cadets were omitted from chapter 61 because Title IV of the Career Comp
 1958—Pub. L. 85–861 struck out provisions which made chapter inapplicable to aviation cadets.
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1218"></a>

@@ -8,7 +8,7 @@ source: >-
 ---
 <a id="section-45301"></a>
 ## § 45301. General provisions
-**(a) Schedule of Fees.—** The Administrator shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
+**(a) Schedule of Fees.—** The Administrator of the Federal Aviation Administration shall establish a schedule of new fees, and a collection process for such fees, for the following services provided by the Administration:
 
 (1) Air traffic control and related services provided to aircraft other than military and civilian aircraft of the United States Government or of a foreign government that neither take off from, nor land in, the United States.
 
@@ -44,6 +44,8 @@ source: >-
 A prior section 45301, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1225; Pub. L. 103–305, title II, § 209, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–287, § 5(76), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, § 3(d)(1)(C), Nov. 20, 1997, 111 Stat. 2215, related to authority to impose fees, prior to repeal by Pub. L. 104–264, title II, §§ 203, 273(a), Oct. 9, 1996, 110 Stat. 3227, 3239, effective 30 days after Oct. 9, 1996.
 
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–63 substituted “The Administrator of the Federal Aviation Administration shall establish” for “The Administrator shall establish” in introductory provisions.
+
 2018—Subsec. (a)(1). Pub. L. 115–254 substituted “United States Government” for “United States government”.
 
 2012—Subsec. (b). Pub. L. 112–95, § 121(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to limitations on fees.
@@ -185,7 +187,7 @@ Pub. L. 100–690, title VII, § 7207(c)(4), Nov. 18, 1988, 102 Stat. 4428, as a
 
 (2) **Air traffic services biennial data reporting.—**
 
-  (A) *Biennial data reporting.—* — Not later than March 31, 2019, and biennially thereafter for 8 years, the Administrator and the Chief Operating Officer shall, using the validated model, complete the following calculations for each segment of air traffic services users for the most recent full fiscal year:
+  (A) *Biennial data reporting.—* — Not later than March 31, 2019, and biennially thereafter for 14 years, the Administrator and the Chief Operating Officer shall, using the validated model, complete the following calculations for each segment of air traffic services users for the most recent full fiscal year:
 
     (i) The total costs allocable to the use of the air traffic services for that segment.
 
@@ -252,6 +254,8 @@ The date of enactment of the FAA Reauthorization Act of 2018, referred to in sub
 A prior section 45303 was renumbered [section 45304 of this title](./chapter-453-fees.md#section-45304).
 
 #### Amendments
+2024—Subsec. (g)(2)(A). Pub. L. 118–63 substituted “14 years” for “8 years” in introductory provisions.
+
 2018—Subsec. (g). Pub. L. 115–254 added subsec. (g).
 
 #### Effective Date

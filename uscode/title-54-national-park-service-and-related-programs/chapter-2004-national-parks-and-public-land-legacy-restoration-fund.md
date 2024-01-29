@@ -150,3 +150,6 @@ The Gulf of Mexico Energy Security Act of 2006, referred to in subsec. (b)(3)(B)
 The Mineral Leasing Act, referred to in subsec. (b)(3)(B)(i)(II), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 The date of enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 116–152, which was approved Aug. 4, 2020.
+
+#### Allocation of Funds
+For certain requirements regarding allocation of funds pursuant to subsec. (c) of this section and as provided in subsec. (e) of this section, see section 430(a)–(c) of div. E of Pub. L. 118–42, set out as a note under [section 200303 of this title](./chapter-2003-land-and-water-conservation-fund.md#section-200303).

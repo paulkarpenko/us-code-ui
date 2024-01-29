@@ -2,7 +2,7 @@
 title: 34
 chapter: '207'
 heading: COMBATING DOMESTIC TRAFFICKING IN PERSONS
-section_count: 14
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -263,6 +263,40 @@ Donald J. Trump.
 
 (4) **Evaluation** — The Assistant Attorney General shall enter into a contract with an academic or non-profit organization that has experience in issues related to sex trafficking of minors and evaluation of grant programs to conduct an annual evaluation of each grant made under this section to determine the impact and effectiveness of programs funded with the grant.
 
+(5) **Pilot demonstration program**
+
+  (A) *Establishment* — The Assistant Attorney General, in consultation with the Assistant Secretary, shall establish a pilot demonstration program, through which community-based organizations in underserved communities, prioritizing rural communities, in the United States may apply for funding to develop, implement, and build replicable treatment models, based on the type of housing unit that the individual being treated lives in, with supportive services and innovative care, treatment, and services.
+
+  (B) *Population to be served* — The program established pursuant to subparagraph (A) shall primarily serve adolescents and youth who—
+
+    (i) are transitioning out of foster care;
+
+    (ii) struggle with substance use disorder;
+
+    (iii) are pregnant or parenting; or
+
+    (iv) have experienced foster care involvement or involvement in the child welfare system, child poverty, child abuse or neglect, human trafficking, juvenile justice involvement, gang involvement, or homelessness.
+
+  (C) *Authorized activities* — Funding provided under subparagraph (A) may be used for—
+
+    (i) providing residential care, including temporary or long-term placement as appropriate;
+
+    (ii) providing 24-hour emergency social services response;
+
+    (iii) providing clothing and other daily necessities needed to keep individuals from returning to living on the street;
+
+    (iv) case management services;
+
+    (v) mental health counseling, including specialized counseling and substance abuse treatment;
+
+    (vi) legal services;
+
+    (vii) specialized training for social service providers, public sector personnel, and private sector personnel likely to encounter sex trafficking and labor trafficking victims on issues related to the sex trafficking and labor trafficking of minors; and
+
+    (viii) outreach and education programs to provide information about deterrence and prevention of sex trafficking and labor trafficking of minors.
+
+  (D) *Funding priority* — The Assistant Attorney General shall give funding priority to community-based programs that provide crisis stabilization, emergency shelter, and addiction treatment for adolescents and transitional age residential programs that have reputable outcomes.
+
 **(c) Mandatory exclusion** An eligible entity that receives a grant under this section that is found to have utilized grant funds for any unauthorized expenditure or otherwise unallowable cost shall not be eligible for any grant funds awarded under the grant for 2 fiscal years following the year in which the unauthorized expenditure or unallowable cost is reported.
 
 **(d) Compliance requirement** An eligible entity shall not be eligible to receive a grant under this section if, during the 5 fiscal years before the eligible entity submits an application for the grant, the eligible entity has been found to have violated the terms or conditions of a Government grant program by utilizing grant funds for unauthorized expenditures or otherwise unallowable costs.
@@ -300,6 +334,8 @@ March 7, 2013, referred to in subsec. (j), was in the original “the date of th
 Section was formerly classified to [section 14044a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2023—Subsec. (b)(5). Pub. L. 117–348 added par. (5).
+
 2018—Pub. L. 115–393, § 301(e)(1)(A), amended section to read as it read on Mar 6, 2017. See 2013 Amendment note below. Prior to amendment, section consisted of subsecs. (a) to (d) relating to grant programs to develop, expand, and strengthen assistance programs for certain persons subject to trafficking.
 
 Subsec. (i). Pub. L. 115–393, § 301(e)(3), substituted “2018 through 2021” for “2014 through 2017”.
@@ -575,6 +611,8 @@ Section 103, referred to in subsec. (a), means section 103 of Pub. L. 114–22. 
 This title, referred to in subsec. (b)(3)(A), (4)(A), is title I of Pub. L. 114–22, May 29, 2015, 129 Stat. 228. For complete classification of title I to the Code, see Tables.
 
 #### Codification
+Section was enacted as part of the Justice for Victims of Trafficking Act of 2015, and not as part of title II of the Trafficking Victims Protection Reauthorization Act of 2005 which comprises this chapter.
+
 Section was formerly classified to [section 14044b–1 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044b–1&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Grant Accountability
@@ -641,6 +679,44 @@ Subsec. (f). Pub. L. 113–4, § 1242(5), added subsec. (f).
 2008—Subsec. (d). Pub. L. 110–457 substituted “$20,000,000 for each of the fiscal years 2008 through 2011” for “$25,000,000 for each of the fiscal years 2006 and 2007”.
 
 
+<a id="section-20705a"></a>
+## § 20705a. Enhancing the ability of State, local, and Tribal child welfare agencies to identify and respond to children who are, or are at risk of being, victims of trafficking
+**(a) Grants to enhance child welfare services** The Secretary of Health and Human Services may make grants to eligible States to develop, improve, or expand programs that assist State, local, or Tribal child welfare agencies with identifying and responding to—
+
+(1) children considered victims of “child abuse and neglect” and of “sexual abuse” under the application of [section 5106g(b)(1) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5106g/b/1&num=0&edition=prelim) because of being identified as being a victim or at risk of being a victim of a severe form of trafficking in persons; and
+
+(2) children over whom such agencies have responsibility for placement, care, or supervision and for whom there is reasonable cause to believe are, or are at risk of being a victim of 1 or more severe forms of trafficking in persons.
+
+**(b) Definitions** In this section:
+
+(1) **Child** — The term “child” means an individual who has not attained 18 years of age or such older age as the State has elected under section 475(8) of the Social Security Act ([42 U.S.C. 675(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section675/8&num=0&edition=prelim)). At the option of an eligible State, such term may include an individual who has not attained 26 years of age.
+
+(2) **Eligible State** — The term “eligible State” means a State that has not received more than 3 grants under this section and meets 1 or more of the following criteria:
+
+  (A) *Elimination of third party control requirement* — The State has eliminated or will eliminate any requirement relating to identification of a controlling third party who causes a child to engage in a commercial sex act in order for the child to be considered a victim of trafficking or a victim of 1 or more severe forms of trafficking in persons for purposes of accessing child welfare services and care.
+
+  (B) *Application of standard for human trafficking* — The State considers a child to be a victim of trafficking if the individual is a victim of a severe form of trafficking in persons, as described in subparagraph (A) of [section 7102(11) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/11&num=0&edition=prelim).
+
+  (C) *Development and implementation of State child welfare plan protocols* — The State agency responsible for administering the State plan for foster care and adoption assistance under part E of title IV of the Social Security Act ([42 U.S.C. 670](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section670&num=0&edition=prelim) et seq.) has developed and is implementing or will develop and implement protocols that meet the following reporting requirements:
+
+    (i) The requirement to report immediately, and in no case later than 24 hours after receiving, information on children who have been identified as being a victim of a severe form of trafficking in persons to law enforcement authorities under paragraph (34)(A) of section 471(a) of the Social Security Act ([42 U.S.C. 671(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671/a&num=0&edition=prelim)).
+
+    (ii) The requirement to report immediately, and in no case later than 24 hours after receiving, information on missing or abducted children to law enforcement authorities, including children classified as “runaways”, for entry into the National Crime Information Center (NCIC) database of the Federal Bureau of Investigation, and to the National Center for Missing and Exploited Children, under paragraph (35)(B) of such section [[42 U.S.C. 671(a)(35)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671/a/35/B&num=0&edition=prelim)].
+
+    (iii) The requirement to report to the Secretary of Health and Human Services the total number of children who are victims of child human trafficking under paragraph (34)(B) of such section [[42 U.S.C. 671(a)(34)(B)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section671/a/34/B&num=0&edition=prelim)].
+
+  (D) *Trafficking-specific protocol* — The State has developed and implemented or will develop and implement a specialized protocol for responding to a child who is, or is at risk of being, a trafficking victim to ensure the response focuses on the child’s specific safety needs as a victim of trafficking, and that includes the development and use of an alternative mechanism for investigating and responding to cases of child human trafficking in which the alleged offender is not the child’s parent or caregiver without utilizing existing processes for investigating and responding to other forms of child abuse or neglect that require the filing of an abuse or neglect petition.
+
+(3) **Indian tribe; tribal organization** — The term “Indian tribe” and “tribal organization” have the meanings given those terms in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
+(4) **State** — The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands. Such term includes an Indian tribe, tribal organization, or tribal consortium with a plan approved under section 479B of the Social Security Act ([42 U.S.C. 679c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section679c&num=0&edition=prelim)), or which is receiving funding to provide foster care under part E of title IV of such Act [[42 U.S.C. 670](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section670&num=0&edition=prelim) et seq.] pursuant to a cooperative agreement or contract with a State.
+
+### Statutory Notes
+
+#### References in Text
+The Social Security Act, referred to in subsec. (b)(2)(C), (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part E of title IV of the Act is classified generally to part E (§ 670 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+
+
 <a id="section-20706"></a>
 ## § 20706. Senior Policy Operating Group
 
@@ -674,7 +750,7 @@ In this chapter:
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 109–164, Jan. 10, 2006, 119 Stat. 3567, which enacted sections 20701 to 20703 and 20705 to 20707 of this title and amended sections 7103 and 7104 of Title 22, Foreign Relations and Intercourse. For complete classification of title II to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title II of Pub. L. 109–164, Jan. 10, 2006, 119 Stat. 3567, which is classified principally to this chapter. For complete classification of title II to the Code, see Tables.
 
 Section 7102(9) and (10) of title 22, referred to in pars. (1) and (2), was redesignated section 7102(11) and (12), respectively, of title 22 by Pub. L. 115–427, § 2(1), Jan. 9, 2019, 132 Stat. 5503.
 
@@ -723,7 +799,7 @@ Par. (3). Pub. L. 113–4, § 1212(b)(2)(C)(iii), substituted “section 7102(4)
 
 **(c) Use of funds** A grant awarded under this section shall be used to—
 
-(1) train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking;
+(1) train law enforcement personnel to identify and protect victims of trafficking, including training such personnel to utilize Federal, State, or local resources to assist victims of trafficking, which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice, such as the Interdiction for the Protection of Children Program;
 
 (2) train law enforcement or State or local prosecutors to identify, investigate, or prosecute acts of trafficking;
 
@@ -756,6 +832,8 @@ Paragraph (9) of [section 7102 of title 22](https://uscode.house.gov/view.xhtml?
 Section was formerly classified to [section 14044f of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044f&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2023—Subsec. (c)(1). Pub. L. 117–347, § 101(a), inserted before semicolon at end “, which may include programs to build law enforcement capacity to identify and respond to human trafficking that are funded through the Office of Community Oriented Policing Services of the Department of Justice, such as the Interdiction for the Protection of Children Program”.
+
 2018—Pub. L. 115–392, § 10(a)(1), substituted “specialized human trafficking training and technical assistance for service providers” for “law enforcement training programs” in section catchline.
 
 Subsec. (a)(2). Pub. L. 115–392, § 10(a)(2), substituted “means—” and subpars. (A) to (F) for “means a State or a local government.”
@@ -860,7 +938,7 @@ Subsec. (c)(4) to (8). Pub. L. 115–392, § 10(a)(4), added pars. (4) to (8).
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 114 of Pub. L. 114–22. Subsec. (d) of section 114 of Pub. L. 114–22 amended [section 3583(k) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583/k&num=0&edition=prelim), Crimes and Criminal Procedure.
+Section is comprised of section 209 of Pub. L. 109–164. Subsec. (d) of section 209 of Pub. L. 109–164 amended [section 3583(k) of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3583/k&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 Section was formerly classified to [section 14044g of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section14044g&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
@@ -881,61 +959,17 @@ Subsec. (f). Pub. L. 115–393, § 502(2), added subsec. (f).
 Pub. L. 114–22, title I, § 110, May 29, 2015, 129 Stat. 239, provided that: “Not later than 180 days after the date of enactment of this Act [May 29, 2015], the Attorney General shall ensure that— “(1) all task forces and working groups within the Innocence Lost National Initiative engage in activities, programs, or operations to increase the investigative capabilities of State and local law enforcement officers in the detection, investigation, and prosecution of persons who patronize, or solicit children for sex; and “(2) all components and task forces with jurisdiction to detect, investigate, and prosecute cases of child labor trafficking engage in activities, programs, or operations to increase the capacity of such components to deter and punish child labor trafficking.”
 
 
-<a id="section-20709a"></a>
-## § 20709a. Holistic training for Federal law enforcement officers and prosecutors
-
-All training required under [section 20709 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20709) and section 7105(c)(4) 11 See References in Text note below. of title 22 shall—
-
-(1) emphasize that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim)) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense;
-
-(2) develop specific curriculum for—
-
-  (A) under appropriate circumstances, arresting and prosecuting buyers of commercial sex, child labor that is a violation of law, or forced labor as a form of primary prevention; and
-
-  (B) investigating and prosecuting individuals who knowingly benefit financially from participation in a venture that has engaged in any act of human trafficking; and
-
-(3) specify that any comprehensive approach to eliminating human trafficking shall include a demand reduction component.
-
-### Statutory Notes
-
-#### References in Text
-[Section 7105(c)(4) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/4&num=0&edition=prelim), referred to in text, was in the original “section 105(c)(4) of the Trafficking Victims Protection Act of 2000” and was translated as if it read “section 107(c)(4)” of the Act to reflect the probable intent of Congress. There is no section 105(c)(4) of the Trafficking Victims Protection Act of 2000 and section 107(c)(4) relates to the training of Government personnel.
-
-
-<a id="section-20709b"></a>
-## § 20709b. Encouraging a victim-centered approach to training of Federal law enforcement personnel
-**(a) Training curriculum improvements** The Attorney General, Secretary of Homeland Security, and Secretary of Labor shall periodically, but not less frequently than once every 2 years, implement improvements to the training programs on human trafficking for employees of the Department of Justice, Department of Homeland Security, and Department of Labor, respectively, after consultation with survivors of human trafficking, or trafficking victims service providers, and Federal law enforcement agencies responsible for the prevention, deterrence, and prosecution of offenses involving human trafficking (such as individuals serving as, or who have served as, investigators in a Federal agency and who have expertise in identifying human trafficking victims and investigating human trafficking cases).
-
-**(b) Advanced training curriculum**
-
-(1) **In general** — Not later than 1 year after December 21, 2018, the Attorney General and the Secretary of Homeland Security shall develop an advanced training curriculum, to supplement the basic curriculum for investigative personnel of the Department of Justice and the Department of Homeland Security, respectively, that—
-
-  (A) emphasizes a multidisciplinary, collaborative effort by law enforcement officers who provide a broad range of investigation and prosecution options in response to perpetrators, and victim service providers, who offer services and resources for victims;
-
-  (B) provides guidance about the recruitment techniques employed by human traffickers to clarify that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim)) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense; and
-
-  (C) explains that—
-
-    (i) victims of sex or labor trafficking often engage in criminal acts as a direct result of severe trafficking in persons and such individuals are victims of a crime and affirmative measures should be taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization; and
-
-    (ii) a comprehensive approach to eliminating human trafficking should include demand reduction as a component.
-
-(2) **Use of curriculum** — The Attorney General and the Secretary of Homeland Security shall provide training using the curriculum developed under paragraph (1) to—
-
-  (A) all law enforcement officers employed by the Department of Justice and the Department of Homeland Security, respectively, who may be involved in the investigation of human trafficking offenses; and
-
-  (B) members of task forces that participate in the investigation of human trafficking offenses.
+<a id="section-20709a-to-20709c"></a>
+## § 20709a to 20709c. Transferred
 
 ### Statutory Notes
 
 #### Codification
-Section is comprised of section 501 of Pub. L. 115–393. Subsec. (c) of section 501 of Pub. L. 115–393 amended [section 7105 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105&num=0&edition=prelim), Foreign Relations and Intercourse.
+Section 20709a, Pub. L. 115–392, § 7, Dec. 21, 2018, 132 Stat. 5253, which related to holistic training for Federal law enforcement officers and prosecutors, was redesignated as section 212 of Pub. L. 109–164 and transferred to [section 20712 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20712).
 
+Section 20709b, Pub. L. 115–393, title V, § 501, Dec. 21, 2018, 132 Stat. 5275, which related to encouraging a victim-centered approach to training of Federal law enforcement personnel, was redesignated as section 213 of Pub. L. 109–164 and transferred to [section 20713 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20713).
 
-<a id="section-20709c"></a>
-## § 20709c. Training of tribal law enforcement and prosecutorial personnel
-
-The Attorney General, in consultation with the Director of the Office of Tribal Justice, shall carry out a program under which tribal law enforcement officials may receive technical assistance and training to pursue a victim-centered approach to investigating and prosecuting severe forms of trafficking in persons (as defined in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)).
+Section 20709c, Pub. L. 115–393, title V, § 504, Dec. 21, 2018, 132 Stat. 5277, which related to training of tribal law enforcement and prosecutorial personnel, was redesignated as section 214 of Pub. L. 109–164 and transferred to [section 20714 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20714).
 
 
 <a id="section-20710"></a>
@@ -1027,3 +1061,70 @@ Section was formerly classified to [section 14044h of Title 42](https://uscode.h
 Subsec. (b)(6). Pub. L. 115–392, § 9, added par. (6).
 
 Subsecs. (c), (d). Pub. L. 115–392, § 15(2), added subsecs. (c) and (d).
+
+
+<a id="section-20712"></a>
+## § 20712. Holistic training for Federal law enforcement officers and prosecutors
+
+All training required under [section 20709 of this title](./chapter-207-combating-domestic-trafficking-in-persons.md#section-20709) and section 7105(c)(4) 11 See References in Text note below. of title 22 shall—
+
+(1) emphasize that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim)) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense;
+
+(2) develop specific curriculum for—
+
+  (A) under appropriate circumstances, arresting and prosecuting buyers of commercial sex, child labor that is a violation of law, or forced labor as a form of primary prevention; and
+
+  (B) investigating and prosecuting individuals who knowingly benefit financially from participation in a venture that has engaged in any act of human trafficking; and
+
+(3) specify that any comprehensive approach to eliminating human trafficking shall include a demand reduction component.
+
+### Statutory Notes
+
+#### References in Text
+[Section 7105(c)(4) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105/c/4&num=0&edition=prelim), referred to in text, was in the original “section 105(c)(4) of the Trafficking Victims Protection Act of 2000” and was translated as if it read “section 107(c)(4)” of the Act to reflect the probable intent of Congress. There is no section 105(c)(4) of the Trafficking Victims Protection Act of 2000 and section 107(c)(4) relates to the training of Government personnel.
+
+#### Codification
+Section was formerly classified to [section 20709a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20709a&num=0&edition=prelim) prior to renumbering by Pub. L. 117–347.
+
+
+<a id="section-20713"></a>
+## § 20713. Encouraging a victim-centered approach to training of Federal law enforcement personnel
+**(a) Training curriculum improvements** The Attorney General, Secretary of Homeland Security, and Secretary of Labor shall periodically, but not less frequently than once every 2 years, implement improvements to the training programs on human trafficking for employees of the Department of Justice, Department of Homeland Security, and Department of Labor, respectively, after consultation with survivors of human trafficking, or trafficking victims service providers, and Federal law enforcement agencies responsible for the prevention, deterrence, and prosecution of offenses involving human trafficking (such as individuals serving as, or who have served as, investigators in a Federal agency and who have expertise in identifying human trafficking victims and investigating human trafficking cases).
+
+**(b) Advanced training curriculum**
+
+(1) **In general** — Not later than 1 year after December 21, 2018, the Attorney General and the Secretary of Homeland Security shall develop an advanced training curriculum, to supplement the basic curriculum for investigative personnel of the Department of Justice and the Department of Homeland Security, respectively, that—
+
+  (A) emphasizes a multidisciplinary, collaborative effort by law enforcement officers who provide a broad range of investigation and prosecution options in response to perpetrators, and victim service providers, who offer services and resources for victims;
+
+  (B) provides guidance about the recruitment techniques employed by human traffickers to clarify that an individual who knowingly solicits or patronizes a commercial sex act from a person who was a minor (consistent with [section 1591(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1591/c&num=0&edition=prelim)) or was subject to force, fraud, or coercion is guilty of an offense under chapter 77 of title 18 and is a party to a human trafficking offense; and
+
+  (C) explains that—
+
+    (i) victims of sex or labor trafficking often engage in criminal acts as a direct result of severe trafficking in persons and such individuals are victims of a crime and affirmative measures should be taken to avoid arresting, charging, or prosecuting such individuals for any offense that is the direct result of their victimization; and
+
+    (ii) a comprehensive approach to eliminating human trafficking should include demand reduction as a component.
+
+(2) **Use of curriculum** — The Attorney General and the Secretary of Homeland Security shall provide training using the curriculum developed under paragraph (1) to—
+
+  (A) all law enforcement officers employed by the Department of Justice and the Department of Homeland Security, respectively, who may be involved in the investigation of human trafficking offenses; and
+
+  (B) members of task forces that participate in the investigation of human trafficking offenses.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 213 of Pub. L. 109–164. Subsec. (c) of section 213 of Pub. L. 109–164 amended [section 7105 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7105&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+Section was formerly classified to [section 20907b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20907b&num=0&edition=prelim) prior to renumbering by Pub. L. 117–347.
+
+
+<a id="section-20714"></a>
+## § 20714. Training of tribal law enforcement and prosecutorial personnel
+
+The Attorney General, in consultation with the Director of the Office of Tribal Justice, shall carry out a program under which tribal law enforcement officials may receive technical assistance and training to pursue a victim-centered approach to investigating and prosecuting severe forms of trafficking in persons (as defined in [section 7102 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Codification
+Section was formerly classified to [section 20709c of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20709c&num=0&edition=prelim) prior to renumbering by Pub. L. 117–347.

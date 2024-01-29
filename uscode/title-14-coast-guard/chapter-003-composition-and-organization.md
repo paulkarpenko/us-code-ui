@@ -2,7 +2,7 @@
 title: 14
 chapter: '3'
 heading: COMPOSITION AND ORGANIZATION
-section_count: 22
+section_count: 23
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -102,11 +102,11 @@ Pub. L. 86–474, § 3, May 14, 1960, 74 Stat. 146, provided that: “Except as 
 
 (1) A Commandant who is not reappointed shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in [section 306(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section306/d&num=0&edition=prelim).
 
-(2) A Vice Commandant who is not reappointed or appointed Commandant shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in section 306(d).
+(2) A Vice Commandant who is retired while serving as Vice Commandant, after serving not less than 2 years as Vice Commandant, shall be retired with the grade of admiral, except as provided in section 306(d).
 
 **(b)** A Commandant or Vice Commandant who is retired for physical disability shall be placed on the retired list with the grade of admiral.
 
-**(c)** An officer who is retired prior to the expiration of the officer’s term, while serving as Commandant or Vice Commandant, may, in the discretion of the President, be retired with the grade of admiral.
+**(c)** An officer who is retired prior to the expiration of the officer’s term, while serving as Commandant or as an officer serving as Vice Commandant who has served less than 2 years as Vice Commandant, may, in the discretion of the President, be retired with the grade of admiral.
 
 **(d)** Retirement under this section is subject to [section 2501(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2501/a&num=0&edition=prelim).
 
@@ -121,6 +121,10 @@ Provision is added for retirement of the Commandant with the grade and pay of vi
 A prior section 303, act Aug. 4, 1949, ch. 393, 63 Stat. 518, required compulsory retirement of warrant officers reaching age of sixty-two years, with retired pay of grade with which retired, prior to repeal by act May 29, 1954, ch. 249, § 20(o), 68 Stat. 167, and by Pub. L. 88–130, § 1(10)(A), Sept. 24, 1963, 77 Stat. 177.
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263, § 11240(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “A Vice Commandant who is not reappointed or appointed Commandant shall be retired with the grade of admiral at the expiration of the appointed term, except as provided in section 306(d).”
+
+Subsec. (c). Pub. L. 117–263, § 11240(2), substituted “or as an officer serving as Vice Commandant who has served less than 2 years as Vice Commandant” for “or Vice Commandant”.
+
 2021—Subsec. (d). Pub. L. 116–283 added subsec. (d).
 
 2018—Pub. L. 115–282, § 104(b), renumbered [section 46 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section46&num=0&edition=prelim) as this section.
@@ -640,7 +644,7 @@ Subsec. (b)(1)(C). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a
 “(3) perform any other missions as the Commandant may specify.”
 
 #### Center of Expertise for Great Lakes Oil Spill Preparedness and Response
-Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Commandant of the Coast Guard shall establish a Center of Expertise for Great Lakes Oil Spill Preparedness and Response (referred to in this section as the ‘Center of Expertise’) in accordance with [section 313 of title 14](./chapter-003-composition-and-organization.md#section-313), United States Code, as amended by this Act. “(b) Location.—The Center of Expertise shall be located in close proximity to—“(1) critical crude oil transportation infrastructure on and connecting the Great Lakes, such as submerged pipelines and high-traffic navigation locks; and “(2) an institution of higher education with adequate aquatic research laboratory facilities and capabilities and expertise in Great Lakes aquatic ecology, environmental chemistry, fish and wildlife, and water resources. “(c) Functions.—The Center of Expertise shall—“(1) monitor and assess, on an ongoing basis, the current state of knowledge regarding freshwater oil spill response technologies and the behavior and effects of oil spills in the Great Lakes; “(2) identify any significant gaps in Great Lakes oil spill research, including an assessment of major scientific or technological deficiencies in responses to past spills in the Great Lakes and other freshwater bodies, and seek to fill those gaps; “(3) conduct research, development, testing, and evaluation for freshwater oil spill response equipment, technologies, and techniques to mitigate and respond to oil spills in the Great Lakes; “(4) educate and train Federal, State, and local first responders located in Coast Guard District 9 in—“(A) the incident command system structure; “(B) Great Lakes oil spill response techniques and strategies; and “(C) public affairs; and “(5) work with academic and private sector response training centers to develop and standardize maritime oil spill response training and techniques for use on the Great Lakes. “(d) Definition.—In this section, the term ‘Great Lakes’ means Lake Superior, Lake Michigan, Lake Huron, Lake Erie, and Lake Ontario.”
+Pub. L. 115–282, title VIII, § 807, Dec. 4, 2018, 132 Stat. 4301, as amended by Pub. L. 117–263, div. K, title CXII, § 11214, Dec. 23, 2022, 136 Stat. 4016, provided that: “(a) In General.—Not later than 1 year after the date of enactment of this Act [Dec. 4, 2018], the Commandant of the Coast Guard shall establish a Center of Expertise for Great Lakes Oil Spill Preparedness and Response (referred to in this section as the ‘Center of Expertise’) in accordance with [section 313 of title 14](./chapter-003-composition-and-organization.md#section-313), United States Code, as amended by this Act. “(b) Location.—The Center of Expertise shall be located in close proximity to—“(1) critical crude oil transportation infrastructure on and connecting the Great Lakes, such as submerged pipelines and high-traffic navigation locks; and “(2) an institution of higher education with adequate aquatic research laboratory facilities and capabilities and expertise in Great Lakes aquatic ecology, environmental chemistry, fish and wildlife, and water resources. “(c) Functions.—The Center of Expertise shall—“(1) monitor and assess, on an ongoing basis, the current state of knowledge regarding freshwater oil spill response technologies and the behavior and effects of oil spills in the Great Lakes; “(2) identify any significant gaps in Great Lakes oil spill research, including an assessment of major scientific or technological deficiencies in responses to past spills in the Great Lakes and other freshwater bodies, and seek to fill those gaps; “(3) conduct research, development, testing, and evaluation for freshwater oil spill response equipment, technologies, and techniques to mitigate and respond to oil spills in the Great Lakes; “(4) educate and train Federal, State, and local first responders located in Coast Guard District 9 in—“(A) the incident command system structure; “(B) Great Lakes oil spill response techniques and strategies; and “(C) public affairs; and “(5) work with academic and private sector response training centers to develop and standardize maritime oil spill response training and techniques for use on the Great Lakes. “(d) Definition.—In this section, the term ‘Great Lakes’ means—“(1) Lake Ontario; “(2) Lake Erie; “(3) Lake Huron (including Lake St. Clair); “(4) Lake Michigan; “(5) Lake Superior; and “(6) the connecting channels (including the following rivers and tributaries of such rivers: Saint Mary’s River, Saint Clair River, Detroit River, Niagara River, Illinois River, Chicago River, Fox River, Grand River, St. Joseph River, St. Louis River, Menominee River, Muskegon River, Kalamazoo River, and Saint Lawrence River to the Canadian border).”
 
 #### Coast Guard Blue Technology Center of Expertise
 Pub. L. 115–265, title III, § 302, Oct. 11, 2018, 132 Stat. 3752, provided that: “(a) Establishment.—Not later than 1 year after the date of the enactment of this Act [Oct. 11, 2018] and subject to the availability of appropriations, the Commandant may establish under section 58 [now 313] of title 14, United States Code, a Blue Technology center of expertise. “(b) Missions.—In addition to the missions listed in section 58(b) [now 313(b)] of title 14, United States Code, the Center may—“(1) promote awareness within the Coast Guard of the range and diversity of Blue Technologies and their potential to enhance Coast Guard mission readiness, operational performance, and regulation of such technologies; “(2) function as an interactive conduit to enable the sharing and dissemination of Blue Technology information between the Coast Guard and representatives from the private sector, academia, nonprofit organizations, and other Federal agencies; “(3) increase awareness among Blue Technology manufacturers, entrepreneurs, and vendors of Coast Guard acquisition policies, procedures, and business practices; “(4) provide technical support, coordination, and assistance to Coast Guard districts and the Coast Guard Research and Development Center, as appropriate; and “(5) subject to the requirements of the Coast Guard Academy, coordinate with the Academy to develop appropriate curricula regarding Blue Technology to be offered in professional courses of study to give Coast Guard cadets and officer candidates a greater background and understanding of Blue Technologies. “(c) Blue Technology Exposition; Briefing.—Not later than 6 months after the date of the enactment of this Act [Oct. 11, 2018], the Commandant shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on the costs and benefits of hosting a biennial Coast Guard Blue Technology exposition to further interactions between representatives from the private sector, academia, and nonprofit organizations, and the Coast Guard and examine emerging technologies and Coast Guard mission demands. “(d) Definitions.—In this section:“(1) Center.—The term ‘Center’ means the Blue Technology center of expertise established under this section. “(2) Commandant.—The term ‘Commandant’ means the Commandant of the Coast Guard. “(3) Blue technology.—The term ‘Blue Technology’ means any technology, system, or platform that—“(A) is designed for use or application above, on, or below the sea surface or that is otherwise applicable to Coast Guard operational needs, including such a technology, system, or platform that provides continuous or persistent coverage; and “(B) supports or facilitates—“(i) maritime domain awareness, including— “(I) surveillance and monitoring; “(II) observation, measurement, and modeling:[;] or “(III) information technology and communications; “(ii) search and rescue; “(iii) emergency response; “(iv) maritime law enforcement; “(v) marine inspections and investigations; or “(vi) protection and conservation of the marine environment.”
@@ -677,46 +681,47 @@ A prior section 314, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to retirin
 
 
 <a id="section-315"></a>
-## § 315. Training course on workings of Congress
-**(a) In General.—** Not later than 180 days after the date of the enactment of the Coast Guard Authorization Act of 2016, the Commandant, in consultation with the Superintendent of the Coast Guard Academy and such other individuals and organizations as the Commandant considers appropriate, shall develop a training course on the workings of the Congress and offer that training course at least once each year.
+## § 315. Training for congressional affairs personnel
+**(a) In General.—** The Commandant shall develop a training course, which shall be administered in person, on the workings of Congress for any member of the Coast Guard selected for a position as a fellow, liaison, counsel, or administrative staff for the Coast Guard Office of Congressional and Governmental Affairs or as any Coast Guard district or area governmental affairs officer.
 
-**(b) Course Subject Matter.—** The training course required by this section shall provide an overview and introduction to the Congress and the Federal legislative process, including—
+**(b) Course Subject Matter.—**
 
-(1) the history and structure of the Congress and the committee systems of the House of Representatives and the Senate, including the functions and responsibilities of the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate;
-
-(2) the documents produced by the Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of those documents;
-
-(3) the legislative processes and rules of the House of Representatives and the Senate, including similarities and differences between the two processes and rules, including—
+(1) **In general.—** — The training course required under this section shall provide an overview and introduction to Congress and the Federal legislative process, including—
 
   (A) the congressional budget process;
 
-  (B) the congressional authorization and appropriation processes;
+  (B) the congressional appropriations process;
 
-  (C) the Senate advice and consent process for Presidential nominees;
+  (C) the congressional authorization process;
 
-  (D) the Senate advice and consent process for treaty ratification;
+  (D) the Senate advice and consent process for Presidential nominees;
 
-(4) the roles of Members of Congress and congressional staff in the legislative process; and
+  (E) the Senate advice and consent process for treaty ratification;
 
-(5) the concept and underlying purposes of congressional oversight within our governance framework of separation of powers.
+  (F) the roles of Members of Congress and congressional staff in the legislative process;
 
-**(c) Lecturers and Panelists.—**
+  (G) the concept and underlying purposes of congressional oversight within the governance framework of separation of powers;
 
-(1) **Outside experts.—** — The Commandant shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training course required by this section are experts on the Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government.
+  (H) the roles of Coast Guard fellows, liaisons, counsels, governmental affairs officers, the Coast Guard Office of Program Review, the Coast Guard Headquarters program offices, and any other entity the Commandant considers relevant; and
 
-(2) **Authority to accept pro bono services.—** — In satisfying the requirement under paragraph (1), the Commandant shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Coast Guard on a pro bono basis.
+  (I) the roles and responsibilities of Coast Guard public affairs and external communications personnel with respect to Members of Congress and the staff of such Members necessary to enhance communication between Coast Guard units, sectors, and districts and Member offices and committees of jurisdiction so as to ensure visibility of Coast Guard activities.
 
-**(d) Completion of Required Training.—** A Coast Guard flag officer who is newly appointed or assigned to a billet in the National Capital Region, and a Coast Guard Senior Executive Service employee who is newly employed in the National Capital Region, shall complete a training course that meets the requirements of this section not later than 60 days after reporting for duty.
+(2) **Detail within coast guard office of budget and programs.—**
+
+  (A) *In general.—* — At the written request of a receiving congressional office, the training course required under this section shall include a multi-day detail within the Coast Guard Office of Budget and Programs to ensure adequate exposure to Coast Guard policy, oversight, and requests from Congress.
+
+  (B) *Nonconsecutive detail permitted.—* — A detail under this paragraph is not required to be consecutive with the balance of the training.
+
+**(c) Completion of Required Training.—** A member of the Coast Guard selected for a position described in subsection (a) shall complete the training required by this section before the date on which such member reports for duty for such position.
 
 ### Statutory Notes
-
-#### References in Text
-The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (a), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 #### Prior Provisions
 A prior section 315, act Aug. 4, 1949, ch. 393, 63 Stat. 520, related to dropping for disabilities due to vicious habits, prior to repeal by act Aug. 3, 1950, ch. 536, § 36, 64 Stat. 408. See [section 1207 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1207&num=0&edition=prelim).
 
 #### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to training course on workings of Congress.
+
 2018—Pub. L. 115–282 renumbered [section 60 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section60&num=0&edition=prelim) as this section.
 
 Subsec. (d). Pub. L. 115–232 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to completion of required training for then current and newly appointed flag officers and employees.
@@ -747,7 +752,7 @@ Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775
 
 (3) an explanation of any environmental remediation issues related to the land associated with the Museum; and
 
-(4) a certification by the Inspector General of the department in which the Coast Guard is operating that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
+(4) a certification by a third party entity qualified to undertake such a certification process that the estimates provided pursuant to paragraphs (1) and (2) are reasonable and realistic.
 
 **(d) Construction.—**
 
@@ -787,6 +792,8 @@ Pub. L. 114–328, div. C, title XXXV, § 3503(e), Dec. 23, 2016, 130 Stat. 2775
 The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Act of 2020, referred to in subsec. (c), is the date of enactment of div. G of Pub. L. 116–283, which was approved Jan. 1, 2021.
 
 #### Amendments
+2022—Subsec. (c)(4). Pub. L. 117–263 substituted “a third party entity qualified to undertake such a certification process” for “the Inspector General of the department in which the Coast Guard is operating”.
+
 2021—Pub. L. 116–283 amended section generally. Prior to amendment, section related to National Coast Guard Museum.
 
 2018—Pub. L. 115–282, § 303, amended section generally. Prior to amendment, section related to National Coast Guard Museum.
@@ -898,19 +905,39 @@ The Comprehensive Environmental Response, Compensation, and Liability Act, refer
 
 
 <a id="section-319"></a>
-## § 319. Land-based unmanned aircraft system program
-**(a) In General.—** Subject to the availability of appropriations, the Secretary shall establish a land-based unmanned aircraft system program under the control of the Commandant.
+## § 319. Unmanned system program and autonomous control and computer vision technology project
+**(a) Unmanned System Program.—** Not later than 2 years after the date of enactment of this section, the Secretary shall establish, under the control of the Commandant, an unmanned system program for the use by the Coast Guard of land-based, cutter-based, and aircraft-based unmanned systems for the purpose of increasing effectiveness and efficiency of mission execution.
 
-**(b) Unmanned Aircraft System Defined.—** In this section, the term “unmanned aircraft system” has the meaning given that term in section 331 of the FAA Modernization and Reform Act of 2012 ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note).11 See References in Text note below.
+**(b) Autonomous Control and Computer Vision Technology Project.—**
 
-**(c) Funding for Certain Enhanced Capabilities.—** In each of fiscal years 2020 and 2021, the Commandant may provide additional funding of $5,000,000 for additional long-range maritime patrol aircraft, acquired through full and open competition.
+(1) **In general.—** — The Commandant shall conduct a project to retrofit 2 or more existing Coast Guard small boats deployed at operational units with—
+
+  (A) commercially available autonomous control and computer vision technology; and
+
+  (B) such sensors and methods of communication as are necessary to control, and technology to assist in conducting, search and rescue, surveillance, and interdiction missions.
+
+(2) **Data collection.—** — As part of the project required under paragraph (1), the Commandant shall collect and evaluate field-collected operational data from the retrofit described in such paragraph to inform future requirements.
+
+(3) **Briefing.—** — Not later than 180 days after the date on which the project required under paragraph (1) is completed, the Commandant shall provide to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a briefing on the project that includes an evaluation of the data collected from the project.
+
+**(c) Unmanned System Defined.—** In this section, the term “unmanned system” means—
+
+(1) an unmanned aircraft system (as such term is defined in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim));
+
+(2) an unmanned marine surface system; and
+
+(3) an unmanned marine subsurface system.
 
 ### Statutory Notes
 
 #### References in Text
-Section 331 of the FAA Modernization and Reform Act of 2012, referred to in subsec. (b), is section 331 of Pub. L. 112–95, title III, Feb. 14, 2012, 126 Stat. 72, which is set out in a note under [section 44802 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44802&num=0&edition=prelim), Transportation.
+The date of enactment of this section, referred to in subsec. (a), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
 
 #### Amendments
+2022—Pub. L. 117–263, § 11225(a), amended section generally. Prior to amendment, section related to land-based unmanned aircraft system program.
+
+Subsec. (b). Pub. L. 117–263, § 11803(a), which directed substitution of “[section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim)” for “section 331 of the FAA Modernization and Reform Act of 2012 ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note)”, could not be executed because of the intervening general amendment of this section by Pub. L. 117–263, § 11225(a). See above.
+
 2021—Subsec. (c). Pub. L. 116–283 added subsec. (c).
 
 #### Unmanned Aircraft Systems Testing
@@ -921,18 +948,25 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8412, Jan. 1, 2021, 134 St
 ## § 320. Coast Guard Junior Reserve Officers’ Training Corps
 **(a) Establishment.—** The Secretary of the department in which the Coast Guard is operating may establish and maintain a Junior Reserve Officers’ Training Corps, organized into units, at public and private secondary educational institutions.
 
-**(b) Applicability.—** Except as provided in subsection (c), the provisions of chapter 102 of title 10 shall apply to a Junior Reserve Officers’ Training Corps established and maintained under this section in the same manner that such provisions apply to the Junior Reserve Officers’ Training Corps of each military department. For purposes of the application of such provisions to this section—
+**(b) Applicability.—** Except as provided in subsection (d), the provisions of chapter 102 of title 10 shall apply to a Junior Reserve Officers’ Training Corps established and maintained under this section in the same manner that such provisions apply to the Junior Reserve Officers’ Training Corps of each military department. For purposes of the application of such provisions to this section—
 
 (1) any reference in such provisions to a “military department” shall be treated as a reference to the department in which the Coast Guard is operating; and
 
 (2) any reference in such provisions to a “Secretary of a military department”, a “Secretary concerned”, or the “Secretary of Defense” shall be treated as a reference to the Secretary of the department in which the Coast Guard is operating.
 
-**(c) Exception.—** The requirements of chapter 102 of title 10 shall not apply to a unit of the Junior Reserve Officers’ Training Corps established by the Secretary of the department in which the Coast Guard is operating before the date of the enactment of this section unless the Secretary determines it is appropriate to apply such requirements to such unit.
+**(c) Scope.—** Beginning on December 31, 2025, the Secretary of the department in which the Coast Guard is operating shall maintain at all times a Junior Reserve Officers’ Training Corps program with not fewer than 1 such program established in each Coast Guard district.
+
+**(d) Exception.—** The requirements of chapter 102 of title 10 shall not apply to a unit of the Junior Reserve Officers’ Training Corps established by the Secretary of the department in which the Coast Guard is operating before the date of the enactment of this section unless the Secretary determines it is appropriate to apply such requirements to such unit.
 
 ### Statutory Notes
 
 #### References in Text
-The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+The date of the enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+
+#### Amendments
+2022—Subsec. (b). Pub. L. 117–263, § 11247(a)(2), substituted “subsection (d)” for “subsection (c)”.
+
+Subsecs. (c), (d). Pub. L. 117–263, § 11247(a)(1), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 
 <a id="section-321"></a>
@@ -1035,3 +1069,80 @@ A prior section 495, act Aug. 4, 1949, ch. 393, 63 Stat. 535, related to additio
 
 #### Amendments
 2021—Pub. L. 116–283 redesignated section 215 of Pub. L. 108–293 as this section and made technical changes to conform this section to other sections of this title. See Codification note above.
+
+
+<a id="section-323"></a>
+## § 323. Western Alaska Oil Spill Planning Criteria Program
+**(a) Establishment.—** There is established within the Coast Guard a Western Alaska Oil Spill Planning Criteria Program (referred to in this section as the “Program”) to develop and administer the Western Alaska oil spill planning criteria.
+
+**(b) Program Manager.—**
+
+(1) **In general.—** — Not later than 1 year after the date of enactment of this section, the Commandant shall select a permanent civilian career employee through a competitive search process for a term of not less than 5 years to serve as the Western Alaska Oil Spill Criteria Program Manager (referred to in this section as the “Program Manager”)—
+
+  (A) the primary duty of whom shall be to administer the Program; and
+
+  (B) who shall not be subject to frequent or routine reassignment.
+
+(2) **Conflicts of interest.—** — The individual selected to serve as the Program Manager shall not have conflicts of interest relating to entities regulated by the Coast Guard.
+
+(3) **Duties.—**
+
+  (A) *Development of guidance.—* — The Program Manager shall develop guidance for—
+
+    (i) approval, drills, and testing relating to the Western Alaska oil spill planning criteria; and
+
+    (ii) gathering input concerning such planning criteria from Federal agencies, State and local governments, Tribes, and relevant industry and nongovernmental entities.
+
+  (B) *Assessments.—* — Not less frequently than once every 5 years, the Program Manager shall—
+
+    (i) assess whether such existing planning criteria adequately meet the needs of vessels operating in the geographic area; and
+
+    (ii) identify methods for advancing response capability so as to achieve, with respect to a vessel, compliance with national planning criteria.
+
+  (C) *Onsite verifications.—* — The Program Manager shall address the relatively small number and limited nature of verifications of response capabilities for vessel response plans by increasing, within the Seventeenth Coast Guard District, the quantity and frequency of onsite verifications of the providers identified in vessel response plans.
+
+**(c) Training.—** The Commandant shall enhance the knowledge and proficiency of Coast Guard personnel with respect to the Program by—
+
+(1) developing formalized training on the Program that, at a minimum—
+
+  (A) provides in-depth analysis of—
+
+    (i) the national planning criteria described in part 155 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section);
+
+    (ii) alternative planning criteria;
+
+    (iii) Western Alaska oil spill planning criteria;
+
+    (iv) Captain of the Port and Federal On-Scene Coordinator authorities related to activation of a vessel response plan;
+
+    (v) the responsibilities of vessel owners and operators in preparing a vessel response plan for submission; and
+
+    (vi) responsibilities of the Area Committee, including risk analysis, response capability, and development of alternative planning criteria;
+
+  (B) explains the approval processes of vessel response plans that involve alternative planning criteria or Western Alaska oil spill planning criteria; and
+
+  (C) provides instruction on the processes involved in carrying out the actions described in paragraphs (9)(D) and (9)(F) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)), including instruction on carrying out such actions—
+
+    (i) in any geographic area in the United States; and
+
+    (ii) specifically in the Seventeenth Coast Guard District; and
+
+(2) providing such training to all Coast Guard personnel involved in the Program.
+
+**(d) Definitions.—** In this section:
+
+(1) **Alternative planning criteria.—** — The term “alternative planning criteria” means criteria submitted under section 155.1065 or 155.5067 of title 33, Code of Federal Regulations (as in effect on the date of enactment of this section), for vessel response plans.
+
+(2) **Tribe.—** — The term “Tribe” has the meaning given the term “Indian Tribe” in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
+
+(3) **Vessel response plan.—** — The term “vessel response plan” means a plan required to be submitted by the owner or operator of a tank vessel or a nontank vessel under regulations issued by the President under section 311(j)(5) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j/5&num=0&edition=prelim)).
+
+(4) **Western alaska oil spill planning criteria.—** — The term “Western Alaska oil spill planning criteria” means the criteria required to be established under paragraph (9) of section 311(j) of the Federal Water Pollution Control Act ([33 U.S.C. 1321(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/j&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of this section, referred to in subsecs. (b)(1), (c)(1)(A)(i), and (d)(1), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+#### Rule of Construction
+Nothing in amendment made by Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under [section 245 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section245&num=0&edition=prelim), Domestic Security.

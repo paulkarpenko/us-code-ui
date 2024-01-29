@@ -271,9 +271,13 @@ Pub. L. 103–397, §5(b)(3), Oct. 22, 1994, 108 Stat. 4159, provided for the am
 Pub. L. 103–397, §5(b)(4), Oct. 22, 1994, 108 Stat. 4160, provided for the amendment of the table at the end of subsec. (c)(2) of this section during fiscal year 1998.
 
 #### Proportional Payments to Local Governments
-Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 366, provided in part: “That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter [meaning chapter 69 of Title 31, [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally”.
+Pub. L. 118–42, div. E, title I, Mar. 9, 2024, 138 Stat. 237, provided in part: “That in the event the sums appropriated for any fiscal year for payments pursuant to this chapter [meaning chapter 69 of Title 31, [31 U.S.C. 6901](./chapter-069-payment-for-entitlement-land.md#section-6901) et seq.] are insufficient to make the full payments authorized by that chapter to all units of local government, then the payment to each local government shall be made proportionally”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4777.
+
+Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 366.
 
 Pub. L. 116–260, div. G, title I, Dec. 27, 2020, 134 Stat. 1496.
 
@@ -370,7 +374,7 @@ The provisions of Act of December 23, 1980 (Public Law 96–586, 94 Stat. 3383) 
 <a id="section-6906"></a>
 ## § 6906. Funding
 
-For fiscal year 2019—
+For fiscal year 2019— 11 See Application of Section note below.
 
 (1) each county or other eligible unit of local government shall be entitled to payment under this chapter; and
 
@@ -397,9 +401,13 @@ The words “to the Secretary of the Interior” are added for clarity. The word
 2008—Pub. L. 110–343 amended section generally. Prior to amendment, section read as follows: “Necessary amounts may be appropriated to the Secretary of the Interior to carry out this chapter. Amounts are available only as provided in appropriation laws.”
 
 #### Application of Section
-Pub. L. 117–103, div. G, title I, § 114, Mar. 15, 2022, 136 Stat. 376, provided that: “[Section 6906 of title 31](./chapter-069-payment-for-entitlement-land.md#section-6906), United States Code, shall be applied by substituting ‘fiscal year 2022’ for ‘fiscal year 2019’.”
+Pub. L. 118–42, div. E, title I, § 114, Mar. 9, 2024, 138 Stat. 247, provided that: “[Section 6906 of title 31](./chapter-069-payment-for-entitlement-land.md#section-6906), United States Code, shall be applied by substituting ‘fiscal year 2024’ for ‘fiscal year 2019’.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title I, § 114, Dec. 29, 2022, 136 Stat. 4787.
+
+Pub. L. 117–103, div. G, title I, § 114, Mar. 15, 2022, 136 Stat. 376.
 
 Pub. L. 116–260, div. G, title I, § 115, Dec. 27, 2020, 134 Stat. 1506.
 

@@ -80,7 +80,7 @@ Provisions similar to those in this section were contained in [section 175 of th
 Pub. L. 111–383, div. A, title V, § 514(a)(2), Jan. 7, 2011, 124 Stat. 4213, provided that: “The amendment made by paragraph (1) [amending this section] shall take effect on July 1, 2011.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date
 Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -148,7 +148,7 @@ Subsec. (h). Pub. L. 99–433, § 501(a)(8)(B), struck out “General” before 
 Amendment by Pub. L. 90–168 effective on first day of first calendar month following date of enactment of Pub. L. 90–168, which was approved Dec. 1, 1967, see section 7 of Pub. L. 90–168, set out as a note under [section 138 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-10303"></a>
@@ -188,15 +188,23 @@ Section effective Dec. 1, 1994, except as otherwise provided, see section 1691 o
 ## § 10305. Air Force Reserve Forces Policy Committee
 **(a)** There is in the Office of the Secretary of the Air Force an Air Reserve Forces Policy Committee on Air National Guard and Air Force Reserve Policy. The Committee shall review and comment upon major policy matters directly affecting the reserve components and the mobilization preparedness of the Air Force. The Committee’s comments on such policy matters shall accompany the final report regarding any such matters submitted to the Secretary of the Air Force and the Chief of Staff.
 
-**(b)** The committee consists of officers in the grade of colonel or above, as follows:
+**(b)**
 
-(1) five members of the Regular Air Force on duty with the Air Staff;
+(1) The committee shall have voting members, who shall be officers in the grade of colonel or above, as follows:
 
-(2) five members of the Air National Guard of the United States not on active duty; and
+  (A) five members of the Regular Air Force on duty with the Air Staff;
 
-(3) five members of the Air Force Reserve not on active duty.
+  (B) five members of the Air National Guard of the United States; and
 
-**(c)** The members of the Committee shall select the Chairman from among the members on the Committee not on active duty.
+  (C) five members of the Air Force Reserve.
+
+(2)
+
+  (A) The committee shall have four nonvoting members, who shall be the Chief Master Sergeants of the Air Force, the Air Force Reserve, the Air National Guard, and the Space Force.
+
+  (B) A nonvoting member who cannot attend a meeting of the committee may designate a member in the grade of E–8 or E–9 to attend in their stead.
+
+**(c)** The members of the Committee shall select the Chairman from among the members of the reserve components on the Committee.
 
 **(d)** A majority of the members of the Committee shall act whenever matters affecting both the Air National Guard of the United States and Air Force Reserve are being considered. However, when any matter solely affecting one of the Air Force Reserve components is being considered, it shall be acted upon only by the Subcommittee on Air National Guard Policy or the Subcommittee on Air Force Reserve Policy, as appropriate.
 
@@ -229,6 +237,16 @@ In subsection (g), the word “perform” is substituted for the words “be cha
 The change is necessary to make subsection (d) coextensive with subsection (c), to which it was a proviso in the source law, the Act of June 3, 1916, chapter 134, section 5 (1st sentence of 2d par.) (formerly [10 U.S.C. 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section38&num=0&edition=prelim) (1st sentence of 2d par.)).
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31, § 916(2)–(4), inserted par. (1) designation before “The committee”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1), and added par. (2).
+
+Pub. L. 118–31, § 916(1), substituted “shall have voting members, who shall be” for “consists of” in introductory provisions.
+
+Subsec. (b)(2). Pub. L. 118–31, § 511(1), struck out “not on active duty” after “Air National Guard of the United States”.
+
+Subsec. (b)(3). Pub. L. 118–31, § 511(1), struck out “not on active duty” before period at end.
+
+Subsec. (c). Pub. L. 118–31, § 511(2), inserted “of the reserve components” after “among the members” and struck out “not on active duty” before period at end.
+
 1994—Pub. L. 103–337 renumbered [section 8021 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8021&num=0&edition=prelim) as this section.
 
 1986—Pub. L. 99–433, § 521(a)(6)(C), renumbered [section 8033 of this title](./chapter-805-office-of-the-chief-of-naval-operations.md#section-8033) as this section, and substituted “Air Force Reserve Forces Policy Committee” for “Reserve components of Air Force; policies and regulations for government of: functions of National Guard Bureau with respect to Air National Guard” in section catchline.
@@ -245,4 +263,4 @@ Subsec. (b)(2). Pub. L. 99–433, § 521(a)(6)(B), inserted “and” after the 
 For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90–168, set out as a note under [section 138 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).

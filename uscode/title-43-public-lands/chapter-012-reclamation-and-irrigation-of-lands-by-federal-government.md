@@ -103,7 +103,7 @@ Under the supervision and direction of the Secretary of the Interior, the reclam
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 #### Codification
 Provisions of this section which prescribed the basic compensation of Commissioner were omitted to conform to the provisions of the Executive Schedule. See [section 5316 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5316&num=0&edition=prelim), Government Organization and Employees.
@@ -477,8 +477,8 @@ Section is comprised of the second, third, fourth, and sixth undesignated pars. 
 
 2003—Pub. L. 108–137 inserted in first par. “, not to exceed $5,000,000 for each causal event giving rise to a claim or claims” after “activities of the Bureau of Reclamation”.
 
-#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dikes
-Pub. L. 115–270, title IV, § 4309, Oct. 23, 2018, 132 Stat. 3889, provided that: “(a) In General.—Notwithstanding any other provision of law (including regulations), effective beginning on the date of enactment of this section [Oct. 23, 2018], the Federal share of the operations and maintenance costs of a dike described in subsection (b) shall be 100 percent. “(b) Description of Dikes.—A dike referred to in subsection (a) is a dike—“(1) that is owned by the Bureau of Reclamation on the date of enactment of this section; “(2) the construction of which was completed not later than December 31, 1945; “(3) a corrective action study for which was completed not later than December 31, 2015; and “(4) the construction of which was authorized by the Act of June 28, 1938 (52 Stat. 1215, chapter 795).”
+#### Operations and Maintenance Costs of Certain Bureau of Reclamation Dams and Dikes
+Pub. L. 115–270, title IV, § 4309, Oct. 23, 2018, 132 Stat. 3889, as amended by Pub. L. 117–263, div. E, title LIX, § 5944, Dec. 23, 2022, 136 Stat. 3472, provided that: “(a) In General.—Notwithstanding any other provision of law (including regulations), effective during the one-year period beginning on the date of the enactment of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 [Dec. 23, 2022], the Federal share of the dam safety modifications costs of a dam or dike described in subsection (b), including repairing or replacing a gate or ancillary gate components, shall be 100 percent. “(b) Description of Dams and Dikes.—A dam or dike referred to in subsection (a) is a dam or dike—“(1) that is owned by the Bureau of Reclamation on the date of enactment of this section [Oct. 23, 2018]; “(2) the construction of which was completed not later than December 31, 1948; “(3) a corrective action study for which was completed not later than December 31, 2015; and “(4) the construction of which was authorized by the Act of June 28, 1938 (52 Stat. 1215, chapter 795).”
 
 
 <a id="section-378"></a>
@@ -706,7 +706,7 @@ Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 St
 ## § 390b. Development of water supplies for domestic, municipal, industrial, and other purposes
 **(a) Declaration of policy** It is declared to be the policy of the Congress to recognize the primary responsibilities of the States and local interests in developing water supplies for domestic, municipal, industrial, and other purposes and that the Federal Government should participate and cooperate with States and local interests in developing such water supplies in connection with the construction, maintenance, and operation of Federal navigation, flood control, irrigation, or multiple purpose projects.
 
-**(b) Storage in reservoir projects; agreements for payment of cost of construction or modification of projects** In carrying out the policy set forth in this section, it is provided that storage may be included in any reservoir project surveyed, planned, constructed or to be planned, surveyed and/or constructed by the Corps of Engineers or the Bureau of Reclamation to impound water for present or anticipated future demand or need for municipal or industrial water, and the reasonable value thereof may be taken into account in estimating the economic value of the entire project: Provided, That the cost of any construction or modification authorized under the provisions of this section shall be determined on the basis that all authorized purposes served by the project shall share equitably in the benefits of multiple purpose construction, as determined by the Secretary of the Army or the Secretary of the Interior, as the case may be: Provided further, That before construction or modification of any project including water supply provisions for present demand is initiated, State or local interests shall agree to pay for the cost of such provisions in accordance with the provisions of this section: And provided further, That (1) for Corps of Engineers projects, not to exceed 30 percent of the total estimated cost of any project may be allocated to anticipated future demands, and, (2) for Bureau of Reclamation projects, not to exceed 30 per centum of the total estimated cost of any project may be allocated to anticipated future demands where State or local interests give reasonable assurances, and there is reasonable evidence, that such demands for the use of such storage will be made within a period of time which will permit paying out the costs allocated to water supply within the life of the project: And provided further, That for Corps of Engineers projects, the Secretary of the Army may permit the full non-Federal contribution to be made, without interest, during construction of the project, or, with interest, over a period of not more than thirty years from the date of completion, with repayment contracts providing for recalculation of the interest rate at, five-year intervals, and for Bureau of Reclamation projects, the entire amount of the construction costs, including interest during construction, allocated to water supply shall be repaid within the life of the project but in no event to exceed fifty years after the project is first used for the storage of water for water supply purposes, except that (1) no payment need be made with respect to storage for future water supply until such supply is first used, and (2) no interest shall be charged on such cost until such supply is first used, but in no case shall the interest-free period exceed ten years. For Corps of Engineers projects, all annual operation, maintenance, and replacement costs for municipal and industrial water supply storage under the provisions of this section shall be reimbursed from State or local interests on an annual basis. For Corps of Engineers projects, any repayment by a State or local interest shall be made with interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period, during the month preceding the fiscal year in which costs for the construction of the project are first incurred (or, when a recalculation is made), plus a premium of one-eighth of one percentage point for transaction costs. For Bureau of Reclamation projects, the interest rate used for purposes of computing interest during construction and interest on the unpaid balance shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from date of issue. The provisions of this subsection insofar as they relate to the Bureau of Reclamation and the Secretary of the Interior shall be alternative to and not a substitute for the provisions of the Reclamation Projects Act of 1939 (53 Stat. 1187) [[43 U.S.C. 485](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485) et seq.] relating to the same subject.
+**(b) Storage in reservoir projects; agreements for payment of cost of construction or modification of projects** In carrying out the policy set forth in this section, it is provided that storage may be included in any reservoir project surveyed, planned, constructed or to be planned, surveyed and/or constructed by the Corps of Engineers or the Bureau of Reclamation to impound water for present or anticipated future demand or need for municipal or industrial water, and the reasonable value thereof may be taken into account in estimating the economic value of the entire project: Provided, That the cost of any construction or modification authorized under the provisions of this section shall be determined on the basis that all authorized purposes served by the project shall share equitably in the benefits of multiple purpose construction, as determined by the Secretary of the Army or the Secretary of the Interior, as the case may be: Provided further, That before construction or modification of any project including water supply provisions for present demand is initiated, State or local interests shall agree to pay for the cost of such provisions in accordance with the provisions of this section: And provided further, That (1) for Corps of Engineers projects, not to exceed 30 percent of the total estimated cost of any project may be allocated to anticipated future demands, and, (2) for Bureau of Reclamation projects, not to exceed 30 per centum of the total estimated cost of any project may be allocated to anticipated future demands where State or local interests give reasonable assurances, and there is reasonable evidence, that such demands for the use of such storage will be made within a period of time which will permit paying out the costs allocated to water supply within the life of the project: And provided further, That for Corps of Engineers projects, the Secretary of the Army may permit the full non-Federal contribution to be made, without interest, during construction of the project, or, with interest, over a period of not more than thirty years from the date of completion, with repayment contracts providing for recalculation of the interest rate at, five-year intervals, and for Bureau of Reclamation projects, the entire amount of the construction costs, including interest during construction, allocated to water supply shall be repaid within the life of the project but in no event to exceed fifty years after the project is first used for the storage of water for water supply purposes, except that (1) no payment need be made with respect to storage for future water supply until such supply is first used, and (2) no interest shall be charged on such cost until such supply is first used, but in no case shall the interest-free period exceed ten years. For Corps of Engineers projects, all annual operation and maintenance costs for municipal and industrial water supply storage under this section shall be reimbursed from State or local interests on an annual basis, and all repair, rehabilitation, and replacement costs for municipal and industrial water supply storage under this section shall be reimbursed from State or local interests (1) without interest, during construction of the repair, rehabilitation, or replacement, (2) with interest, in lump sum on the completion of the repair, rehabilitation, or replacement, or (3) at the request of the State or local interest, with interest, over a period of not more than 25 years beginning on the date of completion of the repair, rehabilitation, or replacement, with repayment contracts providing for recalculation of the interest rate at 5-year intervals. At the request of the State or local interest, the Secretary of the Army shall amend a repayment contract entered into under this section on or before December 23, 2022, for the purpose of incorporating the terms and conditions described in paragraph (3) of the preceding sentence. For Corps of Engineers projects, any repayment by a State or local interest shall be made with interest at a rate to be determined by the Secretary of the Treasury, taking into consideration the average market yields on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the reimbursement period, during the month preceding the fiscal year in which costs for the construction of the project are first incurred (or, when a recalculation is made), plus a premium of one-eighth of one percentage point for transaction costs. For Bureau of Reclamation projects, the interest rate used for purposes of computing interest during construction and interest on the unpaid balance shall be determined by the Secretary of the Treasury, as of the beginning of the fiscal year in which construction is initiated, on the basis of the computed average interest rate payable by the Treasury upon its outstanding marketable public obligations, which are neither due nor callable for redemption for fifteen years from date of issue. The provisions of this subsection insofar as they relate to the Bureau of Reclamation and the Secretary of the Interior shall be alternative to and not a substitute for the provisions of the Reclamation Projects Act of 1939 (53 Stat. 1187) [[43 U.S.C. 485](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485) et seq.] relating to the same subject.
 
 **(c) Release of future water storage**
 
@@ -737,11 +737,13 @@ Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 St
 ### Statutory Notes
 
 #### References in Text
-The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which is classified principally to subchapter X (§ 485 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
+The Reclamation Projects Act of 1939, referred to in subsec. (b), is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, which is classified principally to subchapter X (§ 485 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
 
 This Act, referred to in subsec. (c)(1)(A), (2), probably means the Water Supply Act of 1958. See below.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 substituted in fourth proviso “For Corps of Engineers projects, all annual operation and maintenance costs for municipal and industrial water supply storage under this section shall be reimbursed from State or local interests on an annual basis, and all repair, rehabilitation, and replacement costs for municipal and industrial water supply storage under this section shall be reimbursed from State or local interests (1) without interest, during construction of the repair, rehabilitation, or replacement, (2) with interest, in lump sum on the completion of the repair, rehabilitation, or replacement, or (3) at the request of the State or local interest, with interest, over a period of not more than 25 years beginning on the date of completion of the repair, rehabilitation, or replacement, with repayment contracts providing for recalculation of the interest rate at 5-year intervals. At the request of the State or local interest, the Secretary of the Army shall amend a repayment contract entered into under this section on or before December 23, 2022, for the purpose of incorporating the terms and conditions described in paragraph (3) of the preceding sentence.” for “For Corps of Engineers projects, all annual operation, maintenance, and replacement costs for municipal and industrial water supply storage under the provisions of this section shall be reimbursed from State or local interests on an annual basis.”
+
 2016—Subsec. (f). Pub. L. 114–322 struck out subsec. (f) which related to the Apalachicola-Chattahoochee-Flint River System and Alabama-Coosa-Tallapoosa River System projects.
 
 2014—Subsecs. (c) to (e). Pub. L. 113–121, § 1046(d), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
@@ -1419,7 +1421,7 @@ Pub. L. 102–575, title XVI, § 1601, Oct. 30, 1992, 106 Stat. 4663, provided t
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (b). Pub. L. 104–266 inserted “by the Secretary or the non-Federal project sponsor” after “undertaken” in introductory provisions.
@@ -1957,7 +1959,7 @@ Section, Pub. L. 102–575, title XVI, § 1639, as added Pub. L. 110–229, titl
 ### Statutory Notes
 
 #### References in Text
-The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
+The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 The Technology Transfer Act of 1986, referred to in subsec. (a), is Pub. L. 99–502, Oct. 20, 1986, 100 Stat. 1785, known as the Federal Technology Transfer Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendments note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
@@ -2251,7 +2253,7 @@ Federal reclamation law, referred to in subsecs. (a), (b), (e), and (f), is defi
 #### References in Text
 Federal reclamation law, referred to in subsecs. (a) and (b), is defined in [section 390aa of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390aa).
 
-The Water Supply Act of 1958, as amended, referred to in subsec. (b), is title III of Pub. L. 85–500, July 3, 1958, 72 Stat. 319, as amended, which enacted [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b) and enacted a provision set out as a note under [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b). For complete classification of this Act to the Code, see Short Title note set out under [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b) and Tables.
+The Water Supply Act of 1958, as amended, referred to in subsec. (b), is title III of Pub. L. 85–500, July 3, 1958, 72 Stat. 319, which enacted [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b) and enacted a provision set out as a note under [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b). For complete classification of this Act to the Code, see Short Title note set out under [section 390b of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390b) and Tables.
 
 
 <a id="section-390kk"></a>
@@ -2359,7 +2361,7 @@ Lands receiving irrigation water pursuant to a contract with the Secretary as au
 ### Statutory Notes
 
 #### References in Text
-The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885, as amended. Title III of the Colorado River Basin Project Act is classified generally to subchapter III (§ 1521 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
+The Colorado River Basin Project Act, referred to in text, is Pub. L. 90–537, Sept. 30, 1968, 82 Stat. 885. Title III of the Colorado River Basin Project Act is classified generally to subchapter III (§ 1521 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-032-colorado-river-basin-project.md#section-1501) and Tables.
 
 Federal reclamation law, referred to in text, is defined in [section 390aa of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390aa).
 
@@ -2389,7 +2391,7 @@ Irrigation water temporarily made available from reclamation facilities in exces
 ### Statutory Notes
 
 #### References in Text
-The Reclamation Project Act of 1939, referred to in text, is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which is classified principally to subchapter X (§ 485 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
+The Reclamation Project Act of 1939, referred to in text, is act Aug. 4, 1939, ch. 418, 53 Stat. 1187, which is classified principally to subchapter X (§ 485 et seq.) of this chapter. For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
 
 Federal reclamation law, referred to in text, is defined in [section 390aa of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-390aa).
 
@@ -2581,7 +2583,7 @@ All moneys received by the United States in connection with any irrigation proje
 ### Statutory Notes
 
 #### References in Text
-The Boulder Canyon Project Act (45 Stat. 1057), as amended, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, as amended, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
+The Boulder Canyon Project Act (45 Stat. 1057), as amended, referred to in text, is act Dec. 21, 1928, ch. 42, 45 Stat. 1057, which is classified generally to subchapter I (§ 617 et seq.) of chapter 12A of this title. For complete classification of this Act to the Code, see [section 617t of this title](./chapter-12a-boulder-canyon-project.md#section-617t) and Tables.
 
 #### Transfer of Functions
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under [section 1451 of this title](./chapter-031-department-of-the-interior.md#section-1451).
@@ -2595,7 +2597,7 @@ There shall be covered into the reclamation fund the proceeds of the sales of ma
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, known as the reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+Act of June 17, 1902, known as the reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 
 <a id="section-394"></a>
@@ -2887,7 +2889,7 @@ After June 25, 1910, no irrigation project contemplated by the Act of June 17, 1
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 #### Codification
 Section is comprised of second clause of section 4 of act June 25, 1910. First clause of such section 4 is classified to [section 400 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-400).
@@ -2998,7 +3000,7 @@ In carrying out the provisions of the national irrigation law approved June 17, 
 ### Statutory Notes
 
 #### References in Text
-The national irrigation law approved June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+The national irrigation law approved June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 #### Codification
 Act Mar. 4, 1907 redesignated “forest reserves” as “national forests”.
@@ -3108,7 +3110,7 @@ The Fish and Wildlife Coordination Act, referred to in text, is act Mar. 10, 193
 
 The Federal Water Pollution Control Act, as amended, referred to in text, is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, § 2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§ 1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under [section 1251 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1251&num=0&edition=prelim) and Tables.
 
-The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in text, is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 
 <a id="section-422"></a>
@@ -3119,7 +3121,7 @@ Where, in carrying out projects under the provisions of the national reclamation
 ### Statutory Notes
 
 #### References in Text
-The national reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+The national reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 
 <a id="section-422a"></a>
@@ -3422,7 +3424,7 @@ The payment of all construction charges against said areas temporarily unproduct
 ### Statutory Notes
 
 #### References in Text
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1930—Act Apr. 23, 1930, provided that the credit shall be applied on or after April 23, 1930, and was not to be construed as requiring revision of accounts adjusted before such date, and that no refund shall be made of the charges on unproductive areas and applied as a credit on productive areas.
@@ -3447,7 +3449,7 @@ The Secretary of the Interior is authorized, in his discretion, to amend any exi
 ### Statutory Notes
 
 #### References in Text
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section constitutes a part of section 45 of act May 25, 1926. The remainder of said section 45 (the third par. and the fourth par., except the final proviso, which is classified as the last par. of this section) has been omitted.
@@ -3478,7 +3480,7 @@ The purpose of sections 423 to 423g and 610 of this title is the rehabilitation 
 ### Statutory Notes
 
 #### References in Text
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) has been omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “this Act”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) has been omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-423g"></a>
@@ -3513,7 +3515,7 @@ The Secretary of the Interior, hereinafter styled the Secretary, is authorized i
 ### Statutory Notes
 
 #### References in Text
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “the Act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) has been omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “the Act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) has been omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
 Hereinafter, referred to in text, means in sections 424a to 424d of this title.
 
@@ -3532,7 +3534,7 @@ All “permanently unproductive” and “temporarily unproductive” land now o
 ### Statutory Notes
 
 #### References in Text
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “the Act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “the Act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-424c"></a>
@@ -3543,7 +3545,7 @@ After the purchaser has paid to the United States all amounts due on the purchas
 ### Statutory Notes
 
 #### References in Text
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “the Adjustment Act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “the Adjustment Act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-424d"></a>
@@ -3554,7 +3556,7 @@ In the absence of a contrary requirement in the contracts between the United Sta
 ### Statutory Notes
 
 #### References in Text
-Sections 423 to 423g and 610 of this title, referred to in text, was in the original “said act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, as amended, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
+Sections 423 to 423g and 610 of this title, referred to in text, was in the original “said act of May 25, 1926”, meaning act of May 25, 1926, ch. 383, 44 Stat. 636, which enacted sections 423 to 423g and 610 of this title. [Section 610 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section610&num=0&edition=prelim) was omitted from the Code. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-424e"></a>
@@ -3693,7 +3695,7 @@ Where entries made prior to June 25, 1910, have been or may be relinquished, in 
 ### Statutory Notes
 
 #### References in Text
-The reclamation law, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+The reclamation law, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 #### Codification
 Section comprises part of section 5 of act June 25, 1910, as amended by acts Feb. 18, 1911 and Aug. 13, 1914. Remainder of section 5 is set out as [section 436 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-436).
@@ -3732,7 +3734,7 @@ From and after the filing with the Secretary of the Interior or such officer as 
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 The reclamation Act, referred to in text, probably means act June 17, 1902, see note above.
 
@@ -3875,7 +3877,7 @@ Any exchange pursuant to this subchapter of land that is subject to a mortgage c
 ### Statutory Notes
 
 #### References in Text
-The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, as amended, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
+The Bankhead-Jones Farm Tenant Act, referred to in text, is act July 22, 1937, ch. 517, 50 Stat. 522, which is classified generally to chapter 33 (§ 1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 
 
 <a id="section-451g"></a>
@@ -3926,7 +3928,7 @@ The lands of any homestead entryman under the Act of June 17, 1902, known as the
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, known as the Reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+Act of June 17, 1902, known as the Reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 #### Amendments
 1930—Act June 13, 1930, inserted “and the lands of any entryman on ceded Indian lands within any Indian irrigation project,”.
@@ -3957,7 +3959,7 @@ All such taxes legally assessed shall be a lien upon the lands and may be enforc
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 
 <a id="section-455c"></a>
@@ -4018,7 +4020,7 @@ Whenever water is available and it is impracticable to apportion operation and m
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act Aug. 13, 1914, ch. 247, 38 Stat. 686, as amended, which is classified to sections 373, 414, 418, 435 to 437, 440, 443, 464, 465, 469, 471, 472, 475, 477 to 481, 492, 493, 494 to 497, and 499 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act Aug. 13, 1914, ch. 247, 38 Stat. 686, which is classified to sections 373, 414, 418, 435 to 437, 440, 443, 464, 465, 469, 471, 472, 475, 477 to 481, 492, 493, 494 to 497, and 499 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-466"></a>
@@ -4171,7 +4173,7 @@ For the purpose of providing for United States reclamation projects a feasible a
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
 
 
 <a id="section-485a"></a>
@@ -4202,7 +4204,7 @@ As used in this subchapter—
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, known as the Reclamation Project Act of 1939, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
 
 Act of June 17, 1902, referred to in subsec. (a), is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
@@ -4388,7 +4390,7 @@ If the proposed construction is found by the Secretary to have engineering feasi
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (c)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (c)(3), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
@@ -4414,7 +4416,7 @@ Subsec. (d)(5). Pub. L. 85–611, § 3, struck out provisions which required rep
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
-#### Construction With [Section 101–1 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section101–1&num=0&edition=prelim)
+#### Construction With [Section 701–1 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701–1&num=0&edition=prelim)
 Section as amended and modified by act Dec. 22, 1944, ch. 665, § 1(c), 58 Stat. 665, see [section 701–1(c) of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701–1/c&num=0&edition=prelim), Navigation and Navigable Waters.
 
 #### Wage Rate Requirements
@@ -4508,7 +4510,7 @@ After the execution of a contract pursuant to the authority of section 9(d)(1) o
 ### Statutory Notes
 
 #### References in Text
-That Act, referred to in text, means act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
+That Act, referred to in text, means act Aug. 4, 1939, ch. 418, 53 Stat. 1187, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see [section 485k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485k) and Tables.
 
 #### Codification
 Section was not enacted as part of the Reclamation Project Act of 1939 which comprises this subchapter.
@@ -4550,7 +4552,7 @@ This subchapter may be cited as the “Reclamation Project Act of 1939.”
 ### Statutory Notes
 
 #### References in Text
-This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, as amended, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see Tables.
+This subchapter, referred to in text, was in the original “this Act”, meaning act Aug. 4, 1939, ch. 418, 53 Stat. 1187, which enacted this subchapter, sections 375a, 380a, and 387 to 389 of this title and section 16d of former Title 41, Public Contracts, and enacted provision set out as a note under [section 485j of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485j). For complete classification of this Act to the Code, see Tables.
 
 #### Short Title of 2013 Amendment
 Pub. L. 113–24, § 1, Aug. 9, 2013, 127 Stat. 498, provided that: “This Act [amending [section 485h of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-485h)] may be cited as the ‘Bureau of Reclamation Small Conduit Hydropower Development and Rural Jobs Act’.”
@@ -4757,9 +4759,9 @@ In order to assure continuous operation of all projects and project facilities g
 #### References in Text
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
-The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§ 422a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 422k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-422k) and Tables.
+The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§ 422a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 422k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-422k) and Tables.
 
-The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), referred to in text, probably means act July 4, 1955, ch. 271, 69 Stat. 244, as amended, which is classified generally to sections 421a to 421h of this title. Act May 14, 1956, ch. 268, 70 Stat. 155, amended [section 421c of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-421c). For complete classification of this Act to the Code, see Tables.
+The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto), referred to in text, probably means act July 4, 1955, ch. 271, 69 Stat. 244, which is classified generally to sections 421a to 421h of this title. Act May 14, 1956, ch. 268, 70 Stat. 155, amended [section 421c of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-421c). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1982—Pub. L. 97–275 substituted “all projects and project facilities governed by the Federal reclamation law (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds provided by the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto)” for “irrigation or power systems operated and maintained by the Bureau of Reclamation, Department of the Interior”.
@@ -4840,7 +4842,7 @@ Expenditures of funds hereafter specifically appropriated for rehabilitation and
 ### Statutory Notes
 
 #### References in Text
-The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, as amended, which is classified generally to subchapter IV (§ 422a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 422k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-422k) and Tables.
+The Small Reclamation Projects Act, referred to in text, probably means the Small Reclamation Projects Act of 1956, act Aug. 6, 1956, ch. 972, 70 Stat. 1044, which is classified generally to subchapter IV (§ 422a et seq.) of this chapter. For complete classification of this Act to the Code, see [section 422k of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-422k) and Tables.
 
 Act of June 17, 1902, referred to in text, is popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
@@ -5032,7 +5034,7 @@ The $100,000,000 authorized to be appropriated in the Reclamation Safety of Dams
 
 The Federal Reclamation law, referred to in subsec. (b), probably means act June 17, 1902, ch. 1093, 32 Stat. 388, and Acts amendatory thereof and supplementary thereto. See [section 506 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-506). Act June 17, 1902, popularly known as the Reclamation Act, is classified generally to this chapter. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
-The Federal Water Project Recreation Act, referred to in subsec. (c)(3), (4), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
+The Federal Water Project Recreation Act, referred to in subsec. (c)(3), (4), is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, which is classified principally to part C (§ 460l–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460l–12 of Title 16 and Tables.
 
 #### Amendments
 2004—Subsec. (c). Pub. L. 108–439, § 1(a), inserted “Reimbursement of certain modification costs” as heading and substituted “With respect to the additional amounts authorized to be appropriated by [section 509 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-509)” for “With respect to the additional $650,000,000 authorized to be appropriated in The Reclamation Safety of Dams Act Amendments of 1984, and the additional $95,000,000 further authorized to be appropriated by amendments to that Act in 2000, and the additional $32,000,000 further authorized to be appropriated by amendments to the Act in 2001” in introductory provisions.
@@ -5387,7 +5389,7 @@ In carrying out the provisions of the said reclamation Act, and Acts amendatory 
 ### Statutory Notes
 
 #### References in Text
-The said reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+The said reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 
 <a id="section-525"></a>
@@ -5398,7 +5400,7 @@ The moneys received in pursuance of the contracts authorized by sections 523 and
 ### Statutory Notes
 
 #### References in Text
-The reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+The reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 #### Codification
 The words “the contracts authorized by sections 523 and 524 of this title” substituted in text for “such contracts”.
@@ -5499,7 +5501,7 @@ Any desert-land entryman whose desert-land entry has been embraced within the ex
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, known as the reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+Act of June 17, 1902, known as the reclamation Act, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 The Act entitled “An Act providing for patents on reclamation entries, and for other purposes”, referred to in text, is act Aug. 9, 1912, ch. 278, 37 Stat. 265, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
 
@@ -5555,7 +5557,7 @@ The Secretary of the Interior is authorized, whenever he may deem it necessary, 
 ### Statutory Notes
 
 #### References in Text
-The reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
+The reclamation Act, referred to in text, probably means act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of this title](./chapter-012-reclamation-and-irrigation-of-lands-by-federal-government.md#section-371) and Tables.
 
 
 <a id="section-565"></a>

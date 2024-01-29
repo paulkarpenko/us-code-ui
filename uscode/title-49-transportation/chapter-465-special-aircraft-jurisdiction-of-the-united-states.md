@@ -135,13 +135,17 @@ The United States is a party to the Convention for the Suppression of Unlawful S
 
 <a id="section-46503"></a>
 ## § 46503. Interference with security screening personnel
+**(a) In General.—** An individual in an area within a commercial service airport in the United States who, by assaulting a Federal, airport, or air carrier employee who has security duties within the airport, interferes with the performance of the duties of the employee or lessens the ability of the employee to perform those duties, shall be fined under title 18, imprisoned for not more than 10 years, or both. If the individual used a dangerous weapon in committing the assault or interference, the individual may be imprisoned for any term of years or life imprisonment.
 
-An individual in an area within a commercial service airport in the United States who, by assaulting a Federal, airport, or air carrier employee who has security duties within the airport, interferes with the performance of the duties of the employee or lessens the ability of the employee to perform those duties, shall be fined under title 18, imprisoned for not more than 10 years, or both. If the individual used a dangerous weapon in committing the assault or interference, the individual may be imprisoned for any term of years or life imprisonment.
+**(b) Airport and Air Carrier Employees.—** For purposes of this section, an airport or air carrier employee who has security duties within the airport includes an airport or air carrier employee performing ticketing, check-in, baggage claim, or boarding functions.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 46503, Pub. L. 103–272, § 1(e), July 5, 1994, 108 Stat. 1242, provided for death penalty sentencing procedure for individuals convicted of aircraft piracy, prior to repeal by Pub. L. 103–322, title VI, § 60003(b)(2), Sept. 13, 1994, 108 Stat. 1970.
+
+#### Amendments
+2024—Pub. L. 118–63 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 
 <a id="section-46504"></a>

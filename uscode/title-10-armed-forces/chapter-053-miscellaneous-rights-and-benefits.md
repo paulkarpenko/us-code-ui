@@ -185,7 +185,7 @@ A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Rese
 1999—Subsec. (b)(3)(E). Pub. L. 106–65 added subpar. (E).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1034"></a>
@@ -206,7 +206,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
     (i) a Member of Congress;
 
-    (ii) an Inspector General (as defined in subsection (j)) or any other Inspector General appointed under the Inspector General Act of 1978;
+    (ii) an Inspector General (as defined in subsection (j)) or any other Inspector General appointed under chapter 4 of title 5;
 
     (iii) a member of a Department of Defense audit, inspection, investigation, or law enforcement organization;
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
   (A) order such action as is necessary to correct the record of a personnel action prohibited by subsection (b), including referring the report to the appropriate board for the correction of military records; and
 
-  (B) submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General of the Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).
+  (B) submit to the Inspector General a report on the actions taken by the Secretary pursuant to this paragraph, and provide for the inclusion of a summary of the report under this subparagraph (with any personally identifiable information redacted) in the semiannual report to Congress of the Inspector General of the Department of Defense or the Inspector General of the Department of Homeland Security, as applicable, under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).11 See References in Text note below.
 
 (3) If the Secretary concerned determines under paragraph (1) that an order for corrective or disciplinary action is not appropriate, not later than 30 days after making the determination, such Secretary shall—
 
@@ -386,9 +386,11 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 The words “prevented”, “directly or indirectly”, “concerning any subject”, “or Members”, and “and safety” are omitted as surplusage. The word “unlawful” is substituted for the words “in violation of law”.
 
 #### References in Text
-The Inspector General Act of 1978, referred to in subsecs. (b)(1)(B)(ii) and (f)(2)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 5 of the Inspector General Act of 1978, referred to in subsec. (f)(2)(B), is section 5 of Pub. L. 95–452, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 405 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4212, 4361.
 
 #### Amendments
+2022—Subsec. (b)(1)(B)(ii). Pub. L. 117–286 substituted “chapter 4 of title 5;” for “the Inspector General Act of 1978;”.
+
 2019—Subsec. (b)(1)(B)(ii). Pub. L. 116–92 substituted “subsection (j)” for “subsection (i)”.
 
 2017—Subsec. (c)(2)(A). Pub. L. 115–91 substituted “section 920, 920b, 920c, or 930 of this title (article 120, 120b, 120c, or 130 of the Uniform Code of Military Justice)” for “sections 920 through 920c of this title (articles 120 through 120c of the Uniform Code of Military Justice)”.
@@ -561,7 +563,7 @@ Pub. L. 114–328, div. A, title V, § 532(c), Dec. 23, 2016, 130 Stat. 2121, pr
 Pub. L. 108–375, div. A, title V, § 591(b), Oct. 28, 2004, 118 Stat. 1933, provided that: “The amendments made by this section [amending this section] apply with respect to any unfavorable personnel action taken or threatened, and any withholding of or threat to withhold a favorable personnel action, on or after the date of the enactment of this Act [Oct. 28, 2004].”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1988 Amendment
 Pub. L. 100–456, div. A, title VIII, § 846(d), Sept. 29, 1988, 102 Stat. 2030, provided that: “The amendment to [section 1034 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1034), United States Code, made by subsection (a)(1), shall apply with respect to any personnel action taken (or threatened to be taken) on or after the date of the enactment of this Act [Sept. 29, 1988] as a reprisal prohibited by subsection (b) of that section.”
@@ -729,13 +731,13 @@ The Uniform Code of Military Justice, referred to in subsec. (a), is classified 
 1980—Subsec. (c). Pub. L. 96–513 substituted “Department of Transportation” for “Department of the Treasury”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1985 Amendment
 Pub. L. 99–145, title VI, § 681(b), Nov. 8, 1985, 99 Stat. 665, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to costs incurred after September 30, 1985.”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1038"></a>
@@ -829,7 +831,7 @@ Pub. L. 98–525, title VI, § 611, Oct. 19, 1984, 98 Stat. 2538, provided that 
 Pub. L. 98–94, title IX, § 913(c), Sept. 24, 1983, 97 Stat. 640, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 1036 of this title](./chapter-053-miscellaneous-rights-and-benefits.md#section-1036)] shall apply to travel performed by escorts or attendants of dependents on or after the date of the enactment of this Act [Sept. 24, 1983].”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1041"></a>
@@ -873,7 +875,7 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 
 (2) Members and former members entitled to retired or retainer pay or equivalent pay.
 
-(3) Officers of the commissioned corps of the Public Health Service who are on active duty or entitled to retired or equivalent pay.
+(3) Officers of the commissioned corps of the Public Health Service or the commissioned officer corps of the National Oceanic and Atmospheric Administration who are on active duty or entitled to retired or equivalent pay.
 
 (4) Members of reserve components not covered by paragraph (1) or (2) following release from active duty under a call or order to active duty for more than 30 days issued under a mobilization authority (as determined by the Secretary), for a period of time (prescribed by the Secretary) that begins on the date of the release and is not less than twice the length of the period served on active duty under that call or order to active duty.
 
@@ -904,6 +906,8 @@ Active commissioned service in the National Oceanic and Atmospheric Administrati
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–263 inserted “or the commissioned officer corps of the National Oceanic and Atmospheric Administration” after “Public Health Service”.
+
 2019—Subsec. (d)(3)(B). Pub. L. 116–92 substituted “1565b(a)(1)(A), and 2894(b)(4)” for “and 1565b(a)(1)(A)”.
 
 2015—Subsec. (d)(2). Pub. L. 114–92 substituted “satisfies the additional qualifications and training requirements specified in subsection (d)” for “meets the additional qualifications specified in subsection (d)(2)”.
@@ -1137,7 +1141,7 @@ Subsec. (c)(3). Pub. L. 114–328, § 523(a)(2), substituted “person notarizin
 2002—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1044e"></a>
@@ -1349,7 +1353,7 @@ Pub. L. 113–66, div. A, title XVII, § 1716(b), Dec. 26, 2013, 127 Stat. 969, 
 
 <a id="section-1044f"></a>
 ## § 1044f. Policies with respect to special trial counsel
-**(a) Policies Required.—** The Secretary of Defense shall establish policies with respect to the appropriate mechanisms and procedures that the Secretaries of the military departments shall establish relating to the activities of special trial counsel, including expected milestones for such Secretaries to fully implement such mechanisms and procedures. The policies shall—
+**(a) Policies Required.—** The Secretary of Defense shall establish policies with respect to the appropriate mechanisms and procedures that the Secretaries of the military departments shall establish relating to the activities of special trial counsel, including expected milestones for such Secretaries to fully implement such mechanisms and procedures. Subject to subsection (c), the policies shall—
 
 (1) provide for the establishment of a dedicated office within each military service from which office the activities of the special trial counsel of the military service concerned shall be supervised and overseen;
 
@@ -1373,9 +1377,23 @@ Pub. L. 113–66, div. A, title XVII, § 1716(b), Dec. 26, 2013, 127 Stat. 969, 
 
 **(b) Uniformity.—** The Secretary of Defense shall ensure that any lack of uniformity in the implementation of policies, mechanisms, and procedures established under subsection (a) does not render unconstitutional any such policy, mechanism, or procedure.
 
-**(c) Military Service Defined.—** In this section, the term “military service” means the Army, Navy, Air Force, Marine Corps, and Space Force.
+**(c) Special Trial Counsel of Department of the Air Force.—** In establishing policies under subsection (a), the Secretary of Defense shall—
+
+(1) in lieu of providing for separate offices for the Air Force and Space Force under subsection (a)(1), provide for the establishment of a single dedicated office from which office the activities of the special trial counsel of the Department of the Air Force shall be supervised and overseen; and
+
+(2) in lieu of providing for separate lead special trial counsels for the Air Force and Space Force under subsection (a)(2), provide for the appointment of one lead special trial counsel who shall be responsible for the overall supervision and oversight of the activities of the special trial counsel of the Department of the Air Force.
+
+**(d) Military Service Defined.—** In this section, the term “military service” means the Army, Navy, Air Force, Marine Corps, and Space Force.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 545(a)(1), substituted “Subject to subsection (c), the policies shall” for “The policies shall” in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 117–263, § 545(a)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. A, title V, § 545(b), Dec. 23, 2022, 136 Stat. 2584, provided that: “The amendments made subsection (a) [amending this section] shall take effect immediately after the coming into effect of the amendments made by section 532 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; 135 Stat. 1694) [enacting this section] as provided in section 539C of that Act ([10 U.S.C. 801](./chapter-047-uniform-code-of-military-justice.md#section-801) note).”
 
 #### Effective Date
 Section effective on the date that is two years after Dec. 27, 2021, and applicable with respect to offenses that occur after that date, with provisions for delayed effect and applicability if regulations are not prescribed by the President before the date that is two years after Dec. 27, 2021, see section 539C of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under [section 801 of this title](./chapter-047-uniform-code-of-military-justice.md#section-801).
@@ -2290,7 +2308,7 @@ Other sections 1058 were renumbered sections 1059 and 1060 of this title.
 Subsec. (d). Pub. L. 103–337, § 1070(a)(4), substituted “subject to the Uniform Code of Military Justice (chapter 47 of this title)” for “subject to this chapter”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Pub. L. 103–337, div. A, title X, § 1070(b), Oct. 5, 1994, 108 Stat. 2856, provided that the amendment made by that section is effective as of Nov. 30, 1993, and as if included in the National Defense Authorization Act for Fiscal Year 1994, Pub. L. 103–160, as enacted.
@@ -2300,7 +2318,7 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
 
 <a id="section-1059"></a>
-## § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits
+## § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits; lodging expenses
 **(a) Authority To Pay Compensation.—** The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
 
 **(b) Punitive and Other Adverse Actions Covered.—** This section applies in the case of a member of the armed forces on active duty for a period of more than 30 days—
@@ -2309,15 +2327,21 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
   (A) being separated from active duty pursuant to a sentence of a court-martial; or
 
-  (B) forfeiting all pay and allowances pursuant to a sentence of a court-martial; or
+  (B) forfeiting all pay and allowances pursuant to a sentence of a court-martial;
 
-(2) who is administratively separated, voluntarily or involuntarily, from active duty in accordance with applicable regulations if the basis for the separation includes a dependent-abuse offense.
+(2) who is administratively separated, voluntarily or involuntarily, from active duty in accordance with applicable regulations if the basis for the separation includes a dependent-abuse offense; or
+
+(3) who is—
+
+  (A) convicted of a dependent-abuse offense in a district court of the United States or a State court; and
+
+  (B) separated from active duty pursuant to a sentence of a court-martial, or administratively separated, voluntarily or involuntarily, from active duty, for an offense other than the dependent-abuse offense.
 
 **(c) Dependent-Abuse Offenses.—** For purposes of this section, a dependent-abuse offense is conduct by an individual while a member of the armed forces on active duty for a period of more than 30 days—
 
 (1) that involves abuse of the spouse or a dependent child of the member; and
 
-(2) that is a criminal offense specified in regulations prescribed by the Secretary of Defense under subsection (k).
+(2) that is a criminal offense specified in regulations prescribed by the Secretary of Defense under subsection (m).
 
 **(d) Recipients of Payments.—** In the case of any individual described in subsection (b), the Secretary shall pay such compensation to dependents or former dependents of the individual as follows:
 
@@ -2333,13 +2357,13 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
 (1) Payment of transitional compensation under this section—
 
-  (A) in the case of a member convicted by a court-martial for a dependent-abuse offense, shall commence—
+  (A) in the case of a member convicted by a court-martial for a dependent-abuse offense or an offense described in subsection (b)(3)(B), shall commence—
 
     (i) as of the date the court-martial sentence is adjudged if the sentence, as adjudged, includes a dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; or
 
-    (ii) if there is a pretrial agreement that provides for disapproval or suspension of the dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances, as of the date of entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) if the sentence includes an unsuspended dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances; and
+    (ii) if there is a pretrial agreement that provides for disapproval or suspension of the dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances, as of the date of entry of judgment under [section 860c of this title](./chapter-047-uniform-code-of-military-justice.md#section-860c) (article 60c of the Uniform Code of Military Justice) if the sentence includes an unsuspended dismissal, dishonorable discharge, bad conduct discharge, or forfeiture of all pay and allowances;
 
-  (B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations (if the basis for the separation includes a dependent-abuse offense), shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
+  (B) in the case of a member being considered under applicable regulations for administrative separation from active duty in accordance with such regulations, shall commence as of the date on which the separation action is initiated by a commander of the member pursuant to such regulations, as determined by the Secretary concerned.
 
 (2) Transitional compensation with respect to a member shall be paid for a period of not less than 12 months and not more than 36 months, as established in policies prescribed by the Secretary concerned.
 
@@ -2367,7 +2391,7 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
 (2) If after a punitive or other adverse action is executed in the case of a former member as described in subsection (b) the former member resides in the same household as the spouse or former spouse, or dependent child, to whom compensation is otherwise payable under this section, the Secretary shall terminate payment of such compensation, effective as of the time the former member begins residing in such household. Compensation paid for a period after the former member’s separation, but before the former member resides in the household, shall not be recouped. If the former member subsequently ceases to reside in such household before the end of the period of eligibility for such payments, the Secretary may not resume such payments.
 
-(3) In a case in which the victim of the dependent-abuse offense resulting in a punitive or other adverse action described in subsection (b) was a dependent child, the Secretary concerned may not pay compensation under this section to a spouse or former spouse who would otherwise be eligible to receive such compensation if the Secretary determines (under regulations prescribed under subsection (k)) that the spouse or former spouse was an active participant in the conduct constituting the dependent-abuse offense.
+(3) In a case in which the victim of the dependent-abuse offense resulting in a punitive or other adverse action described in subsection (b) was a dependent child, the Secretary concerned may not pay compensation under this section to a spouse or former spouse who would otherwise be eligible to receive such compensation if the Secretary determines (under regulations prescribed under subsection (m)) that the spouse or former spouse was an active participant in the conduct constituting the dependent-abuse offense.
 
 **(h) Effect of Continuation of Military Pay.—** In the case of payment of transitional compensation by reason of a total forfeiture of pay and allowances pursuant to a sentence of a court-martial, payment of transitional compensation shall not be made for any period for which an order—
 
@@ -2383,25 +2407,13 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
 (2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
 
-**(k) Regulations.—**
+**(k) Lodging Expenses.—** A dependent or former dependent entitled to payment of monthly transitional compensation under this section shall, while receiving payments in accordance with this section, be entitled to lodging expenses for a period not longer than 30 days.
 
-(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+**(l) Exceptional Eligibility for Dependents of Members or Former Members.—**
 
-(2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
+(1) The Secretary concerned, under regulations prescribed under subsection (m), may authorize eligibility for benefits under this section for dependents and former dependents of a member or former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the member or former member engaged in conduct that is a dependent-abuse offense under this section and the member or former member was separated from active duty other than as described in subsection (b).
 
-**(l) Dependent Child Defined.—** In this section, the term “dependent child”, with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse and—
-
-(1) who is under 18 years of age;
-
-(2) who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support; or
-
-(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support.
-
-**(m) Exceptional Eligibility for Dependents of Members or Former Members.—**
-
-(1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a member or former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the member or former member engaged in conduct that is a dependent-abuse offense under this section and the member or former member was separated from active duty other than as described in subsection (b).
-
-(2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the member or former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (k), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
+(2) In a case in which the Secretary concerned, under the authority of paragraph (1), authorizes benefits to be provided under this section, such benefits shall be provided in the same manner as if the member or former member were an individual described in subsection (b), except that, under regulations prescribed under subsection (m), the Secretary shall make such adjustments to the commencement and duration of payment provisions of subsection (e), and may make adjustments to other provisions of this section, as the Secretary considers necessary in light of the circumstances in order to provide benefits substantially equivalent to the benefits provided in the case of an individual described in subsection (b).
 
 (3) For purposes of the provision of benefits under this section pursuant to this subsection, a member shall be considered separated from active duty upon the earliest of—
 
@@ -2411,18 +2423,53 @@ Pub. L. 103–160, div. A, title V, § 551(b), Nov. 30, 1993, 107 Stat. 1662, pr
 
   (C) the date the member’s term of service expires.
 
-(4)
+(4) The Secretary concerned may delegate the authority under paragraph (1) to authorize eligibility for benefits under this section for dependents and former dependents of a member or former member to the first general or flag officer (or civilian equivalent) in the chain of command of the member.
 
-  (A) Except as provided in subparagraph (B), the authority of the Secretary concerned under paragraph (1) may not be delegated.
+**(m) Regulations.—**
 
-  (B) During the two year period following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, the authority of the Secretary concerned under paragraph (1) may be delegated to an official at the Assistant Secretary-level or above. Any exercise of such delegated authority shall be reported to the Secretary concerned on a quarterly basis.
+(1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
+
+(2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
+
+**(n) Dependent Child Defined.—** In this section, the term “dependent child”, with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member or eligible spouse at the time of the dependent-abuse offense referred to in subsection (b) or who was carried during pregnancy at the time of the dependent-abuse offense and was subsequently born alive to the eligible spouse or former spouse and—
+
+(1) who is under 18 years of age;
+
+(2) who is 18 years of age or older and is incapable of self-support because of a mental or physical incapacity that existed before the age of 18 and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support; or
+
+(3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support.
 
 ### Statutory Notes
 
-#### References in Text
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (m)(4)(B), is the date of enactment of Pub. L. 117–81, which was approved Dec. 27, 2021.
-
 #### Amendments
+2023—Pub. L. 118–31, § 632(3), substituted “subsection (m)” for “subsection (k)” wherever appearing.
+
+Pub. L. 118–31, § 632(1), inserted “; lodging expenses” after “benefits” in section catchline.
+
+Subsec. (b)(3). Pub. L. 118–31, § 631(a), added par. (3).
+
+Subsec. (e)(1)(A). Pub. L. 118–31, § 631(b)(1)(A), inserted “or an offense described in subsection (b)(3)(B)” after “offense” in introductory provisions.
+
+Subsec. (e)(1)(A)(ii). Pub. L. 118–31, § 631(b)(1)(B), substituted “allowances;” for “allowances; and”.
+
+Subsec. (e)(1)(B). Pub. L. 118–31, § 631(b)(2), struck out “(if the basis for the separation includes a dependent-abuse offense)” after “with such regulations”.
+
+Subsec. (k). Pub. L. 118–31, § 632(4), added subsec. (k). Former subsec. (k) redesignated (m).
+
+Subsec. (l). Pub. L. 118–31, § 632(2), which directed redesignation of subsec. (m) as (l), was executed by making the redesignation and moving subsec. (l) so as to appear before subsec. (m), to reflect the probable intent of Congress. Former subsec. (l) redesignated (n).
+
+Pub. L. 118–31, § 631(c), in introductory provisions, substituted “referred to in subsection (b) or” for “resulting in the separation of the former member or” and “and was subsequently” for “resulting in the separation of the former member and was subsequently”.
+
+Subsec. (m). Pub. L. 118–31, § 632(2), redesignated subsec. (k) as (m). Former subsec. (m) redesignated (l).
+
+Subsec. (m)(4). Pub. L. 118–31, § 631(d), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
+
+“(A) Except as provided in subparagraph (B), the authority of the Secretary concerned under paragraph (1) may not be delegated.
+
+“(B) During the two year period following the date of the enactment of the National Defense Authorization Act for Fiscal Year 2022, the authority of the Secretary concerned under paragraph (1) may be delegated to an official at the Assistant Secretary-level or above. Any exercise of such delegated authority shall be reported to the Secretary concerned on a quarterly basis.”
+
+Subsec. (n). Pub. L. 118–31, § 632(2), redesignated subsec. (l) as (n).
+
 2021—Subsec. (m)(4). Pub. L. 117–81 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The authority of the Secretary concerned under paragraph (1) may not be delegated.”
 
 2019—Subsec. (m). Pub. L. 116–92, § 621(1), (2), inserted “Members or” before “Former Members” in heading and “member or” before “former member” wherever appearing in pars. (1) and (2).
@@ -2507,7 +2554,7 @@ Pub. L. 108–136, div. A, title V, § 572(d), Nov. 24, 2003, 117 Stat. 1485, pr
 Pub. L. 108–136, div. A, title V, § 573(b), Nov. 24, 2003, 117 Stat. 1485, provided that: “The authority under subsection (m) of [section 1059 of title 10](./chapter-053-miscellaneous-rights-and-benefits.md#section-1059), United States Code, as added by subsection (a), may be exercised with respect to eligibility for benefits under that section only for dependents and former dependents of individuals who are separated from active duty in the Armed Forces on or after the date of the enactment of this Act [Nov. 24, 2003].”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–261, div. A, title V, § 570(c), Oct. 17, 1998, 112 Stat. 2032, provided that: “No benefits shall accrue by reason of the amendments made by this section [amending this section] for any month that begins before the date of the enactment of this Act [Oct. 17, 1998].”
@@ -2619,7 +2666,7 @@ Pub. L. 103–160, div. A, title XIV, § 1433(a), Nov. 30, 1993, 107 Stat. 1833,
 ### Statutory Notes
 
 #### References in Text
-Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149.
+Chapter 137 of this title, referred to in subsec. (e)(2), was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, in conjunction with the transfer and reorganization of acquisition provisions in this title by Pub. L. 116–283, div. A, title XVIII, Jan. 1, 2022, 134 Stat. 4149. For definition of “chapter 137 legacy provisions”, see [section 3016 of this title](./chapter-201-definitions.md#section-3016).
 
 The Immigration and Nationality Act, referred to in subsec. (g)(2)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§ 1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) and Tables.
 
@@ -2649,6 +2696,9 @@ Subsec. (f)(4). Pub. L. 106–65, § 674(d), added par. (4).
 1997—Subsec. (b). Pub. L. 105–85 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “For the purpose of obtaining Federal payments and commodities in order to carry out the program referred to in subsection (a), the Secretary of Agriculture shall make available to the Secretary of Defense from funds appropriated for such purpose, the same payments and commodities as are made for the special supplemental food program in the United States under section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim)).”
 
 1996—Subsec. (f)(2)(B). Pub. L. 104–106 substituted “, as determined in accordance with the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim) et seq.)” for “(as defined in section 101(a)(22) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(22)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/22&num=0&edition=prelim)))”.
+
+#### Food Insecurity Among Military Families: Data Collection; Training; Report
+Pub. L. 117–263, div. A, title VI, § 645, Dec. 23, 2022, 136 Stat. 2637, provided that: “(a) Data Collection.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Under Secretary of Defense for Personnel and Readiness, in coordination with the Under Secretary for Food, Nutrition, and Consumer Services of the Department of Agriculture, shall—“(1) develop a survey, in collaboration with the Department of Agriculture, to determine how many members of the Armed Forces serving on active duty, and dependents of such members, are food insecure; “(2) issue the survey to such members and dependents; “(3) collect data related to the number of such members and dependents who—“(A) are eligible for the basic needs allowance under [section 402b of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section402b&num=0&edition=prelim), United States Code; “(B) receive such basic needs allowance; and “(C) are surveyed on the use, by such members and dependents, of Federal nutrition assistance programs, including—“(i) the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.); “(ii) the special supplemental nutrition program for women, infants, and children under section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim)); and “(iii) the school lunch program under the Richard B. Russell National School Lunch Act ([42 U.S.C. 1751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1751&num=0&edition=prelim) et seq.), and the school breakfast program under section 4 of the Child Nutrition Act of 1966 ([42 U.S.C. 1773](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1773&num=0&edition=prelim)); “(4) develop and carry out a plan to train and designate an individual who will assist members at military installations on how and where to refer such members and their dependents for participation in Federal nutrition assistance programs described in paragraph (3)(C); and “(5) coordinate efforts of the Department of Defense to address food insecurity and nutrition. “(b) Report.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], and annually thereafter for the four subsequent years, the Under Secretary of Defense for Personnel & Readiness shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives], the Committees on Agriculture and Education and Labor [now Committee on Education and the Workforce] of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report including the following:“(1) The number of members of the Armed Forces serving on active duty and their dependents who are food insecure. “(2) The number of such members and their dependents who use the Federal nutrition assistance programs described in subsection (a)(3). “(3) The number of such members and their dependents described in subsection (a)(3). “(4) The status of implementation of the plan under subsection (a)(5) [sic; probably should be “subsection (a)(4)”].”
 
 #### Report on Implementation of Special Supplemental Food Program
 Pub. L. 105–85, div. A, title VI, § 655(b)(2), Nov. 18, 1997, 111 Stat. 1805, directed the Secretary of Defense to submit to Congress a report including plans to implement the program authorized under this section not later than 90 days after Nov. 18, 1997.

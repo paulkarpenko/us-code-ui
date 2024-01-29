@@ -2,7 +2,7 @@
 title: 33
 chapter: '43'
 heading: NATIONAL OCEANIC AND ATMOSPHERIC ADMINISTRATION COMMISSIONED OFFICER CORPS
-section_count: 49
+section_count: 51
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -40,6 +40,8 @@ Pub. L. 107–372, title II, § 201, Dec. 19, 2002, 116 Stat. 3082, provided tha
 
 (7) **Administration** — The term “Administration” means the National Oceanic and Atmospheric Administration.
 
+(8) **Under Secretary** — The term “Under Secretary” means the Under Secretary of Commerce for Oceans and Atmosphere.
+
 ### Statutory Notes
 
 #### References in Text
@@ -49,6 +51,8 @@ This chapter, referred to in text, was in the original “this title”, meaning
 Provisions similar to those in this section were contained in [section 857–1 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section857–1&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2022—Subsec. (b)(8). Pub. L. 117–263 added par. (8).
+
 2020—Subsec. (b)(4) to (7). Pub. L. 116–259 added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
 
@@ -270,6 +274,12 @@ Provisions similar to those in this section were contained in [section 853a of t
 The Secretary may use for public relations purposes of the Department of Commerce any advertising materials developed for use for recruitment and retention of personnel for the commissioned officer corps of the Administration. Any such use shall be under such conditions and subject to such restrictions as the Secretary shall prescribe.
 
 
+<a id="section-3010"></a>
+## § 3010. Awards and decorations
+
+The Under Secretary may provide ribbons, medals, badges, trophies, and similar devices to members of the commissioned officer corps of the Administration and to members of other uniformed services for service and achievement in support of the missions of the Administration.
+
+
 <a id="section-3021"></a>
 ## § 3021. Original appointments and reappointments
 **(a) Original appointments**
@@ -326,7 +336,11 @@ The Secretary may use for public relations purposes of the Department of Commerc
 
 (2) **Reappointments to higher grades** — An appointment under paragraph (1) to a position of importance and responsibility designated under [section 3028 of this title](./chapter-043-national-oceanic-and-atmospheric-administration-commissioned-officer-corps.md#section-3028) may only be made by the President.
 
-**(c) Qualifications** An appointment under subsection (a) or (b) may not be given to an individual until the individual’s mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
+**(c) Qualifications** An appointment under subsection (a) or (b) may—
+
+(1) be given only to an individual who is a citizen of the United States; and
+
+(2) not be given.11 So in original. The period probably should not appear. to an individual until the individual’s mental, moral, physical, and professional fitness to perform the duties of an officer has been established under such regulations as the Secretary shall prescribe.
 
 **(d) Order of precedence** Appointees under this section shall take precedence in the grade to which appointed in accordance with the dates of their commissions as commissioned officers in such grade. The order of precedence of appointees whose dates of commission are the same shall be determined by the Secretary.
 
@@ -344,6 +358,14 @@ The Secretary may use for public relations purposes of the Department of Commerc
 Provisions similar to those in this section were contained in [section 853t of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853t&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–263 substituted “may—
+
+“(1) be given only to an individual who is a citizen of the United States; and
+
+“(2) not be given.”
+
+for “may not be given”.
+
 2020—Pub. L. 116–259 substituted “Original appointments and reappointments” for “Original appointments” in section catchline and amended text generally. Prior to amendment, text related to original appointments in the grades of ensign, lieutenant (junior grade), and lieutenant.
 
 
@@ -392,18 +414,20 @@ Provisions similar to those in this section were contained in [section 853r of t
 
 
 <a id="section-3023"></a>
-## § 3023. Promotion of ensigns to grade of lieutenant (junior grade)
-**(a) In general** An officer in the permanent grade of ensign shall be promoted to and appointed in the grade of lieutenant (junior grade) upon completion of three years of service. The authorized number of officers in the grade of lieutenant (junior grade) shall be temporarily increased as necessary to authorize such appointment.
+## § 3023. Separation of ensigns found not fully qualified
 
-**(b) Separation of ensigns found not fully qualified** If an officer in the permanent grade of ensign is at any time found not fully qualified, the officer’s commission shall be revoked and the officer shall be separated from the commissioned service.
+If an officer in the permanent grade of ensign is at any time found not fully qualified, the officer’s commission shall be revoked and the officer shall be separated from the commissioned service.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 853e of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853e&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
+#### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section consisted of subsecs. (a) and (b) relating, respectively, to promotion of ensigns to grade of lieutenant (junior grade) and separation of ensigns found not fully qualified.
+
 #### Delegation of Functions
-Functions of President under subsec. (b) of this section delegated to Secretary of Commerce by section 1(a) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
+As amended by Pub. L. 117–263, text of section is identical to that of former subsec. (b) of this section. For delegation of functions of President under former subsec. (b) of this section to Secretary of Commerce, see section 1(a) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
 
 
 <a id="section-3024"></a>
@@ -695,7 +719,7 @@ The Secretary may take such measures as the Secretary determines necessary in or
 
 (4) **Travel and transportation allowance**
 
-  (A) *In general* — Subject to subparagraph (B), an officer who participates in a program under this section is entitled, while participating in the program, to the travel and transportation allowances authorized by section 474 11 See References in Text note below. of title 37 for—
+  (A) *In general* — Subject to subparagraph (B), an officer who participates in a program under this section is entitled, while participating in the program, to the travel and transportation allowances authorized by [section 452 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452&num=0&edition=prelim) for—
 
     (i) travel performed from the residence of the officer, at the time of release from active duty to participate in the program, to the location in the United States designated by the officer as the officer’s residence during the period of participation in the program; and
 
@@ -723,15 +747,19 @@ The Secretary may take such measures as the Secretary determines necessary in or
 
 ### Statutory Notes
 
-#### References in Text
-[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
+#### Amendments
+2022—Subsec. (f)(4)(A). Pub. L. 117–263 substituted “section 452” for “section 474”.
 
 
 <a id="section-3041"></a>
 ## § 3041. Involuntary retirement or separation
 **(a) Transfer of officers to retired list; separation from service** As recommended by a personnel board convened under [section 3022 of this title](./chapter-043-national-oceanic-and-atmospheric-administration-commissioned-officer-corps.md#section-3022)—
 
-(1) an officer in the permanent grade of captain or commander may be transferred to the retired list; and
+(1) an officer in the permanent grade of captain or commander may—
+
+  (A) except as provided by subparagraph (B), be transferred to the retired list; or
+
+  (B) if the officer is not qualified for retirement, be separated from service; and
 
 (2) an officer in the permanent grade of lieutenant commander, lieutenant, or lieutenant (junior grade) who is not qualified for retirement may be separated from the service.
 
@@ -753,6 +781,8 @@ The Secretary may take such measures as the Secretary determines necessary in or
 Provisions similar to those in this section were contained in [section 853g of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853g&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “an officer in the permanent grade of captain or commander may be transferred to the retired list; and”.
+
 2020—Subsec. (d). Pub. L. 116–259 added subsec. (d).
 
 
@@ -789,7 +819,7 @@ Provisions similar to those in this section were contained in [section 853h of t
 
 <a id="section-3043"></a>
 ## § 3043. Mandatory retirement for age
-**(a) Officers below grade of rear admiral (lower half)** Unless retired or separated earlier, each officer on the lineal list of the commissioned corps who is serving in a grade below the grade of rear admiral (lower half) shall be retired on the first day of the month following the month in which the officer becomes 62 years of age.
+**(a) Officers below grade of rear admiral (lower half)** Unless retired or separated earlier, each officer on the lineal list of the commissioned corps who is serving in a grade below the grade of rear admiral (lower half) shall be retired or separated (as specified in [section 1251(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1251/e&num=0&edition=prelim)) on the first day of the month following the month in which the officer becomes 62 years of age.
 
 **(b) Flag officers** Notwithstanding subsection (a), the President may defer the retirement of an officer serving in a position that carries a grade above captain for such period as the President considers advisable, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 64 years of age.
 
@@ -797,6 +827,9 @@ Provisions similar to those in this section were contained in [section 853h of t
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 853k of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section853k&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263 substituted “be retired or separated (as specified in [section 1251(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1251/e&num=0&edition=prelim))” for “be retired”.
 
 #### Delegation of Functions
 Functions of President under subsec. (b) of this section delegated to Secretary of Commerce by section 1(e) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, as amended, set out as a note under [section 301 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), The President.
@@ -981,25 +1014,27 @@ Provisions similar to those in this section were contained in [section 858 of th
 
 (16) Chapter 61, relating to retirement or separation for physical disability.
 
-(17) Chapter 69, relating to retired grade, except sections 1370, 1375, and 1376.
+(17) Section 1251(e), relating to retirement or separation based on years of creditable service.
 
-(18) Chapter 71, relating to computation of retired pay.
+(18) Chapter 69, relating to retired grade, except sections 1370, 1375, and 1376.
 
-(19) Chapter 73, relating to annuities based on retired or retainer pay.
+(19) Chapter 71, relating to computation of retired pay.
 
-(20) Subchapter II of chapter 75, relating to death benefits.
+(20) Chapter 73, relating to annuities based on retired or retainer pay.
 
-(21) Subchapter I of chapter 88, relating to military family programs, applicable on an as-available and fully reimbursable basis.
+(21) Subchapter II of chapter 75, relating to death benefits.
 
-(22) Section 2005, relating to advanced education assistance, active duty agreements, and reimbursement requirements.
+(22) Subchapter I of chapter 88, relating to military family programs, applicable on an as-available and fully reimbursable basis.
 
-(23) Section 2634, relating to transportation of motor vehicles for members on permanent change of station.
+(23) Section 2005, relating to advanced education assistance, active duty agreements, and reimbursement requirements.
 
-(24) Sections 2731 and 2735, relating to property loss incident to service.
+(24) Section 2634, relating to transportation of motor vehicles for members on permanent change of station.
 
-(25) Section 2771, relating to final settlement of accounts of deceased members.
+(25) Sections 2731 and 2735, relating to property loss incident to service.
 
-(26) Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
+(26) Section 2771, relating to final settlement of accounts of deceased members.
+
+(27) Such other provisions of subtitle A of that title as may be adopted for applicability to the commissioned officer corps of the National Oceanic and Atmospheric Administration by any other provision of law.
 
 **(b) References** The authority vested by title 10 in the “military departments”, “the Secretary concerned”, or “the Secretary of Defense” with respect to the provisions of law referred to in subsection (a) shall be exercised, with respect to the commissioned officer corps of the Administration, by the Secretary of Commerce or the Secretary’s designee. For purposes of paragraph (8) of subsection (a), the term “Inspector General” in section 1034 of such title 10 shall mean the Inspector General of the Department of Commerce.
 
@@ -1011,6 +1046,8 @@ Provisions similar to those in this section were contained in [section 858 of th
 Provisions similar to those in this section were contained in [section 857a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section857a&num=0&edition=prelim) prior to repeal by Pub. L. 107–372.
 
 #### Amendments
+2022—Subsec. (a)(17) to (27). Pub. L. 117–263 added par. (17) and redesignated former pars. (17) to (26) as (18) to (27), respectively.
+
 2020—Subsec. (a). Pub. L. 116–259, § 207(a), added par. (8) and redesignated former pars. (8) to (25) (as added and redesignated by section 205(a), see note below) as (9) to (26), respectively.
 
 Pub. L. 116–259, § 205(a), added pars. (4) to (7), (11) to (13), (20), and (21), and redesignated former pars. (4) to (6) as (8) to (10), former pars. (7) to (12) as (14) to (19), and former pars. (13) to (16) as (22) to (25), respectively.
@@ -1300,6 +1337,19 @@ The Higher Education Act of 1965, referred to in subsecs. (c) and (e)(2)(B), is 
 **(b) Career appointments** If the Secretary selects an application submitted by an officer described in subsection (a) for a position described in such subsection, the Secretary shall give such officer a career or career-conditional appointment in the competitive service, as appropriate.
 
 **(c) Competitive service defined** In this section, the term “competitive service” has the meaning given the term in [section 2102 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2102&num=0&edition=prelim).
+
+
+<a id="section-3079b"></a>
+## § 3079b. Shore leave for professional mariners
+**(a) In general** The Under Secretary may prescribe regulations relating to shore leave for professional mariners without regard to the requirements of [section 6305 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section6305&num=0&edition=prelim).
+
+**(b) Requirements** The regulations prescribed under subsection (a) shall—
+
+(1) require that a professional mariner serving aboard an ocean-going vessel be granted a leave of absence of 4 days per pay period; and
+
+(2) provide that a professional mariner serving in a temporary promotion position aboard a vessel may be paid the difference between such mariner’s temporary and permanent rates of pay for leave accrued while serving in the temporary promotion position.
+
+**(c) Professional mariner defined** In this section, the term “professional mariner” means an individual employed on a vessel of the Administration who has the necessary expertise to serve in the engineering, deck, steward, electronic technician, or survey department.
 
 
 <a id="section-3079-1"></a>

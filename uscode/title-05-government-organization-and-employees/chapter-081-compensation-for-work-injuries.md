@@ -2,7 +2,7 @@
 title: 5
 chapter: '81'
 heading: COMPENSATION FOR WORK INJURIES
-section_count: 61
+section_count: 62
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5&num=0&edition=prelim
 ---
@@ -1168,6 +1168,9 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### Effective Date of 1974 Amendment
 Amendment by Pub. L. 93–416 effective Sept. 7, 1974, and applicable to any injury or death occurring on or after Sept. 7, 1974, see section 23(a) of Pub. L. 93–416, set out as a note under [section 8101 of this title](./chapter-081-compensation-for-work-injuries.md#section-8101).
 
+#### Increase in Time-Period for FECA Claimant Supply Supporting Documentation to Office of Worker’s Compensation
+Pub. L. 117–263, div. E, title LIII, § 5305(c), Dec. 23, 2022, 136 Stat. 3255, provided that: “Not later than 16 days after the date of enactment of this Act [Dec. 23, 2022], the Secretary of Labor shall— “(1) amend section 10.121 of title 20, Code of Federal Regulations, or any successor regulation, by striking ‘30 days’ and inserting ‘60 days’; and “(2) modify the Federal Employees’ Compensation Act manual to reflect the changes made by the Secretary pursuant to paragraph (1).”
+
 
 <a id="section-8122"></a>
 ## § 8122. Time for making claim
@@ -1444,7 +1447,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <a id="section-8131"></a>
 ## § 8131. Subrogation of the United States
-**(a)** If an injury or death for which compensation is payable under this subchapter is caused under circumstances creating a legal liability on a person other than the United States to pay damages, the Secretary of Labor may require the beneficiary to—
+**(a)** If an injury or death for which continuation of pay or compensation is payable under this subchapter is caused under circumstances creating a legal liability on a person other than the United States to pay damages, the Secretary of Labor may require the beneficiary to—
 
 (1) assign to the United States any right of action he may have to enforce the liability or any right he may have to share in money or other property received in satisfaction of that liability; or
 
@@ -1453,7 +1456,7 @@ An employee required to appear as a party or witness in the prosecution of such 
 
 **(b)** A beneficiary who refuses to assign or prosecute an action in his own name when required by the Secretary is not entitled to compensation under this subchapter.
 
-**(c)** The Secretary may prosecute or compromise a cause of action assigned to the United States. When the Secretary realizes on the cause of action, he shall deduct therefrom and place to the credit of the Employees’ Compensation Fund the amount of compensation already paid to the beneficiary and the expense of realization or collection. Any surplus shall be paid to the beneficiary and credited on future payments of compensation payable for the same injury. However, the beneficiary is entitled to not less than one-fifth of the net amount of a settlement or recovery remaining after the expenses thereof have been deducted.
+**(c)** The Secretary may prosecute or compromise a cause of action assigned to the United States. When the Secretary realizes on the cause of action, he shall deduct therefrom and place to the credit of the Employees’ Compensation Fund the amount of continuation of pay or compensation already paid to the beneficiary and the expense of realization or collection. Any surplus shall be paid to the beneficiary and credited on future payments of compensation payable for the same injury. However, the beneficiary is entitled to not less than one-fifth of the net amount of a settlement or recovery remaining after the expenses thereof have been deducted.
 
 **(d)** If an injury or death for which compensation is payable under this subchapter is caused under circumstances creating a legal liability in the Panama Canal Company to pay damages under the law of a State, a territory or possession of the United States, the District of Columbia, or a foreign country, compensation is not payable until the individual entitled to compensation—
 
@@ -1485,6 +1488,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 #### References in Text
 For definition of Panama Canal Company, referred to in text, see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 5305(b)(1)(A), inserted “continuation of pay or” before “compensation” in introductory provisions.
+
+Subsec. (c). Pub. L. 117–263, § 5305(b)(1)(B), inserted “continuation of pay or” before “compensation already paid”.
+
 #### Personnel Not Affected by 1967 Increase
 Increases authorized under amendment by Pub. L. 90–83 not applicable to specified personnel, see section 7 of Pub. L. 90–83, set out as a note under [section 8103 of this title](./chapter-081-compensation-for-work-injuries.md#section-8103).
 
@@ -1492,7 +1500,7 @@ Increases authorized under amendment by Pub. L. 90–83 not applicable to specif
 <a id="section-8132"></a>
 ## § 8132. Adjustment after recovery from a third person
 
-If an injury or death for which compensation is payable under this subchapter is caused under circumstances creating a legal liability in a person other than the United States to pay damages, and a beneficiary entitled to compensation from the United States for that injury or death receives money or other property in satisfaction of that liability as the result of suit or settlement by him or in his behalf, the beneficiary, after deducting therefrom the costs of suit and a reasonable attorney’s fee, shall refund to the United States the amount of compensation paid by the United States and credit any surplus on future payments of compensation payable to him for the same injury. No court, insurer, attorney, or other person shall pay or distribute to the beneficiary or his designee the proceeds of such suit or settlement without first satisfying or assuring satisfaction of the interest of the United States. The amount refunded to the United States shall be credited to the Employees’ Compensation Fund. If compensation has not been paid to the beneficiary, he shall credit the money or property on compensation payable to him by the United States for the same injury. However, the beneficiary is entitled to retain, as a minimum, at least one-fifth of the net amount of the money or other property remaining after the expenses of a suit or settlement have been deducted; and in addition to this minimum and at the time of distribution, an amount equivalent to a reasonable attorney’s fee proportionate to the refund to the United States.
+If an injury or death for which continuation of pay or compensation is payable under this subchapter is caused under circumstances creating a legal liability in a person other than the United States to pay damages, and a beneficiary entitled to continuation of pay or compensation from the United States for that injury or death receives money or other property in satisfaction of that liability as the result of suit or settlement by him or on his behalf, the beneficiary, after deducting therefrom the costs of suit and a reasonable attorney’s fee, shall refund to the United States the amount of continuation of pay or compensation paid by the United States and credit any surplus on future payments of compensation payable to him for the same injury. No court, insurer, attorney, or other person shall pay or distribute to the beneficiary or his designee the proceeds of such suit or settlement without first satisfying or assuring satisfaction of the interest of the United States. The amount refunded to the United States shall be credited to the Employees’ Compensation Fund. If continuation of pay or compensation has not been paid to the beneficiary, the money or property shall be credited against continuation of pay or compensation payable to him by the United States for the same injury. However, the beneficiary is entitled to retain, as a minimum, at least one-fifth of the net amount of the money or other property remaining after the expenses of a suit or settlement have been deducted; and in addition to this minimum and at the time of distribution, an amount equivalent to a reasonable attorney’s fee proportionate to the refund to the United States.
 
 ### Statutory Notes
 
@@ -1512,6 +1520,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 The words “However, * * * is entitled to retain * * * plus” are substituted for “Provided, That * * * shall have the right to retain * * * and, in addition, to retain”.
 
 #### Amendments
+2022—Pub. L. 117–263 inserted “continuation of pay or” before “compensation is payable”, before “compensation from the United States”, and before “compensation paid by the United States” and substituted “on his behalf” for “in his behalf” and “If continuation of pay or compensation has not been paid to the beneficiary, the money or property shall be credited against continuation of pay or compensation payable to him by the United States for the same injury.” for “If compensation has not been paid to the beneficiary, he shall credit the money or property on compensation payable to him by the United States for the same injury.” Amendment directing insertion of “continuation of pay or” before “ ‘compensation paid by the United States” was executed to reflect the probable intent of Congress due to the extra opening quotation mark in the quoted text.
+
 1974—Pub. L. 93–416 made minor changes in phraseology and inserted provision prohibiting a court, etc., from distributing proceeds of suit or settlement without satisfying or assuring satisfaction of the interests of the United States.
 
 #### Effective Date of 1974 Amendment
@@ -2100,6 +2110,92 @@ The words “a member of the National Teacher Corps” are substituted for “su
 Functions of Commissioner of Education of Department of Health, Education, and Welfare transferred to Secretary of Education by [section 3441(a)(1) of Title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section3441/a/1&num=0&edition=prelim), Education.
 
 
+<a id="section-8143b"></a>
+## § 8143b. Employees in fire protection activities
+**(a) Definitions.—** In this section:
+
+(1) **Employee in fire protection activities.—** — The term “employee in fire protection activities” means an employee employed as a firefighter (including a wildland firefighter), paramedic, emergency medical technician, rescue worker, ambulance personnel, or hazardous material worker who—
+
+  (A) is trained in fire suppression;
+
+  (B) has the legal authority and responsibility to engage in fire suppression;
+
+  (C) is engaged in the prevention, control, or extinguishment of fires or response to emergency situations in which life, property, or the environment is at risk, including the prevention, control, suppression, or management of wildland fires; and
+
+  (D) performs the activities described in subparagraph (C) as a primary responsibility of the job of the employee.
+
+(2) **Rule.—** — The term “rule” has the meaning given the term in section 804.
+
+(3) **Secretary.—** — The term “Secretary” means the Secretary of Labor.
+
+**(b) Certain Illnesses and Diseased 11 So in original. Probably should be “Diseases”. Deemed to Be Proximately Caused by Employment in Fire Protection Activities.—**
+
+(1) **In general.—** — For a claim under this subchapter of disability or death of an employee who has been employed for not less than 5 years in aggregate as an employee in fire protection activities, an illness or disease specified on the list established under paragraph (2) shall be deemed to be proximately caused by the employment of that employee, if the employee is diagnosed with that illness or disease not later than 10 years after the last activedate 22 So in original. of employment as an employee in fire protection activities.
+
+(2) **Establishment of initial list.—** — There is established under this section the following list of illnesses and diseases:
+
+  (A) Bladder cancer.
+
+  (B) Brain cancer.
+
+  (C) Chronic obstructive pulmonary disease.
+
+  (D) Colorectal cancer.
+
+  (E) Esophageal cancer.
+
+  (F) Kidney cancer.
+
+  (G) Leukemias.
+
+  (H) Lung cancer.
+
+  (I) Mesothelioma.
+
+  (J) Multiple myeloma.
+
+  (K) Non-Hodgkin lymphoma.
+
+  (L) Prostate cancer.
+
+  (M) Skin cancer (melanoma).
+
+  (N) A sudden cardiac event or stroke suffered while, or not later than 24 hours after, engaging in the activities described in subsection (a)(1)(C).
+
+  (O) Testicular cancer.
+
+  (P) Thyroid cancer.
+
+(3) **Additions to the list.—**
+
+  (A) *In general.—*
+
+    (i) *Periodic review.—* — The Secretary shall—
+
+      (I) in consultation with the Director of the National Institute for Occupational Safety and Health and any advisory committee determined appropriate by the Secretary, periodically review the list established under paragraph (2); and
+
+      (II) if the Secretary determines that the weight of the best available scientific evidence warrants adding an illness or disease to the list established under paragraph (2), as described in subparagraph (B) of this paragraph, make such an addition through a rule that clearly identifies that scientific evidence.
+
+    (ii) *Classification.—* — A rule issued by the Secretary under clause (i) shall be considered to be a major rule for the purposes of chapter 8.
+
+  (B) *Basis for determination.—* — The Secretary shall add an illness or disease to the list established under paragraph (2) based on the weight of the best available scientific evidence that there is a significant risk to employees in fire protection activities of developing that illness or disease.
+
+  (C) *Available expertise.—* — In determining significant risk for purposes of subparagraph (B), the Secretary may accept as authoritative, and may rely upon, recommendations, risk assessments, and scientific studies (including analyses of National Firefighter Registry data pertaining to Federal firefighters) by the National Institute for Occupational Safety and Health, the National Toxicology Program, the National Academies of Sciences, Engineering, and Medicine, and the International Agency for Research on Cancer.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 117–263, div. E, title LIII, § 5305(a)(1)(C), Dec. 23, 2022, 136 Stat. 3253, provided that: “The amendments made by this paragraph [enacting this section] shall apply to claims for compensation filed on or after the date of enactment of this Act [Dec. 23, 2022].”
+
+#### Research Cooperation
+Pub. L. 117–263, div. E, title LIII, § 5305(a)(2), Dec. 23, 2022, 136 Stat. 3253, provided that: “Not later than 120 days after the date of enactment of this Act [Dec. 23, 2022], the Secretary of Labor (referred to in this subsection as the ‘Secretary’) shall establish a process by which an employee in fire protection activities, as defined in subsection (a) of [section 8143b of title 5](./chapter-081-compensation-for-work-injuries.md#section-8143b), United States Code, as added by paragraph (1) of this subsection (referred to in this subsection as an ‘employee in fire protection activities’) filing a claim under chapter 81 of title 5, United States Code, as amended by this subsection, relating to an illness or disease on the list established under subsection (b)(2) of such section 8143b (referred to in this subsection as ‘ ‘the list’ [sic]) as the list may be updated under such section 8143b, shall be informed about, and offered the opportunity to contribute to science by voluntarily enrolling in, the National Firefighter Registry or a similar research or public health initiative conducted by the Centers for Disease Control and Prevention.”
+
+#### Agenda for Further Review
+Pub. L. 117–263, div. E, title LIII, § 5305(a)(3), Dec. 23, 2022, 136 Stat. 3253, provided that: “Not later than 3 years after the date of enactment of this Act [Dec. 23, 2022], the Secretary [of Labor] shall— “(A) evaluate the best available scientific evidence of the risk to an employee in fire protection activities of developing breast cancer, gynecological cancers, and rhabdomyolysis; “(B) add breast cancer, gynecological cancers, and rhabdomyolysis to the list, by rule in accordance with subsection (b)(3) of [section 8143b of title 5](./chapter-081-compensation-for-work-injuries.md#section-8143b), United States Code, as added by paragraph (1) of this subsection, if the Secretary determines that such evidence supports that addition; and “(C) submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives a report containing—“(i) the findings of the Secretary after making the evaluation required under subparagraph (A); and “(ii) the determination of the Secretary under subparagraph (B).”
+
+[“The list” as used in section 5305(a)(3) of Pub. L. 117–263, set out above, defined as in subsec. (b)(2) of this section, see section 5305(a)(2) of Pub. L. 117–263, set out as a note above.]
+
+
 <a id="section-8144"></a>
 ## § 8144. Student-employees
 
@@ -2420,6 +2516,13 @@ Section applicable to cases where injury or death occurred prior to Sept. 7, 197
 ## § 8152. Annual report
 
 The Secretary of Labor shall, at the end of each fiscal year, prepare a report with respect to the administration of this chapter. Such report shall be submitted to Congress in accordance with the requirement with respect to submission under section 42 of the Longshore 11 So in original. Probably should be “Longshore and”. Harbor Workers’ Compensation Act ([33 U.S.C. 942](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section942&num=0&edition=prelim)).
+
+### Statutory Notes
+
+#### Report on Affected Employees
+Pub. L. 117–263, div. E, title LIII, § 5305(a)(5), Dec. 23, 2022, 136 Stat. 3254, provided that: “Beginning on the date that is 1 year after the date of enactment of this Act [Dec. 23, 2022], with respect to each annual report required under [section 8152 of title 5](./chapter-081-compensation-for-work-injuries.md#section-8152), United States Code, the Secretary [of Labor]— “(A) shall include in the report the total number of, and demographics regarding, employees in fire protection activities with illnesses and diseases described in the list (as the list may be updated under this subsection [enacting [section 8143b of this title](./chapter-081-compensation-for-work-injuries.md#section-8143b) and provisions set out as notes under [section 8143b of this title](./chapter-081-compensation-for-work-injuries.md#section-8143b)] and the amendments made by this subsection), as of the date on which that annual report is submitted, which shall be disaggregated by the specific illness or disease for the purposes of understanding the scope of the problem facing those employees; and “(B) may—“(i) include in the report any information with respect to employees in fire protection activities that the Secretary determines to be necessary; and “(ii) as appropriate, make recommendations in the report for additional actions that could be taken to minimize the risk of adverse health impacts for employees in fire protection activities.”
+
+[“Employee in fire protection activities” and “the list” as used in section 5305(a)(5) of Pub. L. 117–263, set out above, defined as in subsecs. (a) and (b)(2), respectively, of [section 8143b of this title](./chapter-081-compensation-for-work-injuries.md#section-8143b), see section 5305(a)(2) of Pub. L. 117–263, set out as a Research Cooperation note under [section 8143b of this title](./chapter-081-compensation-for-work-injuries.md#section-8143b).]
 
 
 <a id="section-8171"></a>

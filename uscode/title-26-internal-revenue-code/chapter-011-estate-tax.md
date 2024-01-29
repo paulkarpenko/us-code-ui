@@ -265,7 +265,7 @@ Pub. L. 98–369, div. A, title V, § 544(d), July 18, 1984, 98 Stat. 894, provi
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520, as amended. For complete classification of this Act to the Code, see Tables.
+The Tax Reform Act of 1976, referred to in subsec. (b), is Pub. L. 94–455, Oct. 4, 1976, 90 Stat. 1520. For complete classification of this Act to the Code, see Tables.
 
 [Section 2521 of this title](./chapter-012-gift-tax.md#section-2521), referred to in subsec. (b), was repealed by section 2001(b)(3) of Pub. L. 94–455, applicable to gifts made after Dec. 31, 1976.
 
@@ -1185,7 +1185,7 @@ Pub. L. 91–614, title I, § 101(j), Dec. 31, 1970, 84 Stat. 1838, provided tha
 For inflation adjustment of certain items in this section, see Revenue Procedures listed in a table under [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2017—Subsec. (a)(3)(B). Pub. L. 115–97 substituted “for ‘calendar year 2016’ in subparagraph (A)(ii)” for “for ‘calendar year 1992’ in subparagraph (B)”.

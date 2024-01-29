@@ -308,16 +308,19 @@ The Outer Continental Shelf Lands Act, referred to in text, is act Aug. 7, 1953,
 
 <a id="section-1958"></a>
 ## § 1958. Authorization of appropriations
-**(a) In general** There is authorized to be appropriated to the Administrator $15,000,000 for each of fiscal years 2018 through 2022 for carrying out sections 1952, 1954, and 1955 of this title, of which not more than 7 percent is authorized for each fiscal year for administrative costs.
+**(a) In general** There is authorized to be appropriated to the Administrator $15,000,000 for fiscal year 2023 for carrying out sections 1952, 1954, and 1955 of this title, of which not more than 7 percent is authorized for each fiscal year for administrative costs.
 
-**(b) Amounts authorized for Coast Guard** Of the amounts authorized for each fiscal year under section 2702(1) 11 See References in Text note below. of title 14, up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), of which not more than 5 percent is authorized for each fiscal year for administrative costs.
+**(b) Amounts authorized for Coast Guard** Of the amounts authorized for each fiscal year under [section 4902(1) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section4902/1&num=0&edition=prelim), up to $2,000,000 is authorized for the Secretary of the department in which the Coast Guard is operating for use by the Commandant of the Coast Guard to carry out [section 1953 of this title](./chapter-33a-marine-debris-research-prevention-and-reduction.md#section-1953), of which not more than 5 percent is authorized for each fiscal year for administrative costs.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim), referred to in subsec. (b), was redesignated [section 4902 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section4902&num=0&edition=prelim) by Pub. L. 115–282, title I, § 121(b), Dec. 4, 2018, 132 Stat. 4238, and references to [section 2702 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2702&num=0&edition=prelim) deemed to refer to such redesignated section, see section 123(b)(1) of Pub. L. 115–282, set out as a References to Sections of Title 14 as Redesignated by Pub. L. 115–282 note preceding [section 101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section101&num=0&edition=prelim), Coast Guard.
-
 #### Amendments
+2023—Pub. L. 118–31, § 3514(i), amended directory language of Pub. L. 117–263, § 11328(b). See 2022 Amendment notes below.
+
+2022—Subsec. (a). Pub. L. 117–263, § 11328(b)(1), as amended by Pub. L. 118–31, § 3514(i), substituted “fiscal year 2023” for “each of fiscal years 2018 through 2022”.
+
+Subsec. (b). Pub. L. 117–263, § 11328(b)(2), as amended by Pub. L. 118–31, § 3514(i), substituted “4902(1)” for “2702(1)”.
+
 2020—Subsec. (a). Pub. L. 116–224 substituted “$15,000,000” for “$10,000,000” and “7 percent” for “5 percent”.
 
 2018—Pub. L. 115–265 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated for each fiscal year 2006 through 2010—

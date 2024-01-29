@@ -208,7 +208,7 @@ Amendment by Pub. L. 96–60 effective Oct. 1, 1979, see section 209 of Pub. L. 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under [section 1101 of this title](./chapter-011-office-of-personnel-management.md#section-1101).
 
 #### Abolition of House Committee on Post Office and Civil Service
-Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Post Office and Civil Service of House of Representatives abolished by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. References to Committee on Post Office and Civil Service treated as referring to Committee on Government Reform and Oversight, see section 1(b) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-1305"></a>
@@ -222,7 +222,7 @@ For the purpose of sections 3105, 3344, 4301(2)(D), and 5372 of this title and t
 | --- | --- | --- |
 | 1966 Act |  |  |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
-|  | [5 U.S.C. 1010](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1010&num=0&edition=prelim) (5th sentence). | June 11, 1946, ch. 324, § 11 (5th sentence), 60 Stat. 244. |
+|  | [5 U.S.C. 1010](./chapter-010-federal-advisory-committees.md#section-1010) (5th sentence). | June 11, 1946, ch. 324, § 11 (5th sentence), 60 Stat. 244. |
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
@@ -247,7 +247,7 @@ Amendment by section 906(a)(12) of Pub. L. 95–454 respecting functions of the 
 Amendment by Pub. L. 90–83 effective as of Sept. 6, 1966, for all purposes, see section 9(h) of Pub. L. 90–83, set out as a note under [section 5102 of this title](./chapter-051-classification.md#section-5102).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, excluding committees composed wholly of full-time officers or employees of the Federal Government, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to this title.
+Advisory committees in existence on Jan. 5, 1973, excluding committees composed wholly of full-time officers or employees of the Federal Government, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of this title](./chapter-010-federal-advisory-committees.md#section-1013).
 
 
 <a id="section-1306"></a>

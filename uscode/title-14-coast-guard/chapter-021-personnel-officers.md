@@ -2,7 +2,7 @@
 title: 14
 chapter: '21'
 heading: PERSONNEL; OFFICERS
-section_count: 58
+section_count: 60
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -48,6 +48,57 @@ source: >-
 #### Savings Provision
 Pub. L. 88–130, § 5, Sept. 24, 1963, 77 Stat. 193, as amended by Pub. L. 89–444, § 3, June 9, 1966, 80 Stat. 198, provided that: “(a) Officers in each grade who have been recommended as qualified for temporary promotion under laws and regulations in effect the day before the effective date of this Act [Sept. 24, 1963] but not promoted to the grade for which they were recommended shall be placed on a list of selectees in order of their precedence, and they shall be promoted as if they had been selected for promotion in the approved report of a selection board convened under this Act [enacting sections 41a, 211 to 214, 251 to 262, 271 to 277, 281 to 294, 321 to 327, 331 to 335, of this title amending sections 42, 44, 46, 47, 190, 433, 759a, and 791 of this title, and enacting provisions set out as notes under sections 262, 285, and 289 of this title, and repealing sections 221 to 248, 301 to 313a, 435 to 437, 439, and 440 of this title, and act Sept. 21, 1961, 75 Stat. 538, set out as a note under [section 435 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section435&num=0&edition=prelim)]. “(b) Officers who have been recommended for promotion to the grade of rear admiral under laws and regulations in effect the day before the effective date of this Act but have not been promoted to that grade shall be promoted as if they had been so recommended in the approved report of a selection board convened under this Act. “(c) The enactment of this Act does not terminate the appointment of any officer. “(d) An officer of the Regular Coast Guard who on the day before the effective date of this Act had been promoted to and was serving on active duty in a temporary grade higher than his permanent grade shall be considered to have been promoted to that grade under section 271 [now 2121] of title 14, United States Code. “(e) An officer of the Regular Coast Guard who was appointed as a temporary commissioned officer under any provision of law in effect prior to the effective date of this Act and who is serving on active duty shall be considered to have been appointed under section 214 [now 2104] of title 14, United States Code, and subject to the provisions thereof. An officer of the Regular Coast Guard who was appointed as a permanent commissioned officer under any provision of law in effect prior to the effective date of this Act [Sept. 24, 1963], and who is serving on active duty shall be considered to have been appointed under section 211 [now 2101] of title 14, United States Code, and subject to the provisions thereof. “(f) Each officer who would have been required to retire on June 30, 1962, under the provisions of section 288 [now 2149] of title 14, United States Code, had that section been in effect on that date, shall be retired on the last day of the sixth month following the month in which this Act becomes effective. If, under section 288 [now 2149] of title 14, United States Code, the retirement of any other officer would be required after June 30, 1962, but less than six months following the effective date of this Act, his retirement shall be deferred until the last day of the twelfth month following the month in which this Act becomes effective, or June 30, 1964, whichever is earlier. “(g) The enactment of this Act does not increase or decrease the retired pay of any person retired on or prior to the effective date of this Act. “(h) Notwithstanding [section 1431 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1431&num=0&edition=prelim), United States Code, an original election, change, or revocation of an election, made under that section by an officer who is retired under the provisions of section 282, 283, 284, 285, or 288 [now 2142, 2143, 2144, 2145, or 2149] of title 14, United States Code, is effective if made prior to the first day of the third month following the month in which this Act is enacted [September 1963].”
 
+#### Ex. Ord. No. 14106. United States Coast Guard Officer Personnel Management
+Ex. Ord. No. 14106, Aug. 14, 2023, 88 F.R. 55905, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, and in order to delegate certain functions concerning the appointment, promotion, separation, and retirement of commissioned officers of the United States Coast Guard, it is hereby ordered as follows:
+
+Section 1. The Secretary of Homeland Security is directed to perform, without approval, ratification, or other action by the President, the following functions vested in the President:
+
+(a) the authority vested in the President by [section 2118(a) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2118/a&num=0&edition=prelim), United States Code, to approve, modify, or disapprove the report of a selection board;
+
+(b) the authority vested in the President by sections 2118(b) and 2122(a) of title 14, United States Code, to remove a name of an officer from a selection board report or a list of selectees;
+
+(c) the authority vested in the President by [section 2101 of title 14](./chapter-021-personnel-officers.md#section-2101), United States Code, to appoint officers from the categories described in [section 2101(a)(1) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2101/a/1&num=0&edition=prelim), United States Code, to the grades of ensign, lieutenant (junior grade), and lieutenant, and to accept the resignations of officers appointed pursuant to [section 2101 of title 14](./chapter-021-personnel-officers.md#section-2101), United States Code;
+
+(d) the authority vested in the President by [section 2121(e) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2121/e&num=0&edition=prelim), United States Code, to appoint officers in the grades of lieutenant (junior grade) and lieutenant;
+
+(e) the authority vested in the President by [section 2104(a) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2104/a&num=0&edition=prelim), United States Code, to make temporary appointments not above lieutenant in the Regular Coast Guard and Coast Guard Reserve;
+
+(f) the authority vested in the President by [section 2150(f) of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2150/f&num=0&edition=prelim), United States Code, to approve the report of a board convened to recommend for continuation on active duty officers serving in the grade of captain;
+
+(g) the authority vested in the President by [section 571(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section571/b&num=0&edition=prelim), United States Code, to appoint by commission regular chief warrant officers in the Coast Guard; and
+
+(h) the authority vested in the President by sections 12241(b) and 571(b) of title 10, United States Code, to appoint by commission reserve chief warrant officers in the Coast Guard.
+
+Sec. 2. (a) During a time of war or national emergency, the Secretary of Homeland Security is directed to perform the authority vested in the President by [section 2125 of title 14](./chapter-021-personnel-officers.md#section-2125), United States Code, to suspend the operation of any law relating to the selection, promotion, or involuntary separation of officers of the Coast Guard, and to temporarily promote officers serving on active duty and chief warrant officers serving on active duty, as authorized by [section 2125 of title 14](./chapter-021-personnel-officers.md#section-2125), United States Code, without the approval, ratification, or other action by the President.
+
+(b) During a time of war or national emergency, the Secretary of Homeland Security is directed to perform the authority vested in the President by [section 3733 of title 14](./chapter-037-coast-guard-reserve.md#section-3733), United States Code, to suspend the operation of subchapter II of chapter 37 of title 14, United States Code, concerning officers of the Coast Guard Reserve without the approval, ratification, or other action by the President.
+
+(c) The authority delegated to the Secretary of Homeland Security by this section may not be exercised during the time of a national emergency declared by the President, unless the exercise of any such authority is specifically directed by the President in accordance with section 301 of the National Emergencies Act ([50 U.S.C. 1631](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1631&num=0&edition=prelim)).
+
+(d) The Secretary of Homeland Security shall ensure that actions taken pursuant to the authority delegated by this section are accounted for as required by section 401 of the National Emergencies Act ([50 U.S.C. 1641](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1641&num=0&edition=prelim)).
+
+Sec. 3. All actions heretofore taken by the President with respect to the matters affected by this order and in force at the time of issuance of this order, including any regulations prescribed or approved by the President with respect to such matters, shall, except as they may be inconsistent with the provisions of this order, remain in effect until amended, modified, or revoked pursuant to the authority conferred by this order.
+
+Sec. 4. As used in this order, the term “functions” embraces duties, powers, responsibilities, authority, or discretion, and the term “perform” may be construed to mean “exercise.”
+
+Sec. 5. Whenever the entire Coast Guard operates as a service in the Navy, the references to the Secretary of Homeland Security in sections 1 and 2 of this order shall be deemed to be references to the Secretary of Defense.
+
+Sec. 6. If any provision of this order or the application of such provision is held to be invalid, the remainder of this order and other dissimilar applications of such provision shall not be affected.
+
+Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 
 <a id="section-2102"></a>
 ## § 2102. Active duty promotion list
@@ -86,7 +137,21 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 <a id="section-2103"></a>
 ## § 2103. Number and distribution of commissioned officers on active duty promotion list
-**(a) Maximum Total Number.—** The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 6,900; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.
+**(a) Maximum Total Number.—**
+
+(1) **In general.—** — The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed—
+
+  (A) 7,100 in fiscal year 2022;
+
+  (B) 7,200 in fiscal year 2023;
+
+  (C) 7,300 in fiscal year 2024; and
+
+  (D) 7,400 in fiscal year 2025 and each subsequent fiscal year.
+
+(2) **Temporary increase.—** — Notwithstanding paragraph (1), the Commandant may temporarily increase the total number of commissioned officers permitted under such paragraph by up to 4 percent for not more than 60 days after the date of the commissioning of a Coast Guard Academy class.
+
+(3) **Notification.—** — Not later than 30 days after exceeding the total number of commissioned officers permitted under paragraphs (1) and (2), and each 30 days thereafter until the total number of commissioned officers no longer exceeds the number of such officers permitted under paragraphs (1) and (2), the Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate of the number of officers on the active duty promotion list on the last day of the preceding 30-day period.
 
 **(b) Distribution Percentages by Grade.—**
 
@@ -120,6 +185,8 @@ Based on title 14, U.S.C., 1946 ed., § 6a (July 23, 1947, ch. 301, § 1, 61 Sta
 The only change is in phraseology in the second sentence, it being necessary to include the extra numbers authorized by the act of July 23, 1947, in the figure given as the present number of extra numbers in the Coast Guard. 81st Congress, House Report No. 557.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263 amended subsec. (a) generally. Prior to amendment, text read as follows: “The total number of Coast Guard commissioned officers on the active duty promotion list, excluding warrant officers, shall not exceed 6,900; except that the Commandant may temporarily increase that number by up to 2 percent for no more than 60 days following the date of the commissioning of a Coast Guard Academy class.”
+
 2021—Subsec. (c)(3). Pub. L. 116–283 substituted “vice admiral” for “rear admiral (lower half)”.
 
 2018—Pub. L. 115–282 renumbered [section 42 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section42&num=0&edition=prelim) as this section.
@@ -219,6 +286,9 @@ Pub. L. 93–283, § 2, May 14, 1974, 88 Stat. 141, provided that: “Paragraphs
 
 #### Temporary Appointments Prior to September 24, 1963
 Savings provisions in section 5(e) of Pub. L. 88–130 considering officers appointed with temporary commissions prior to Sept. 24, 1963, as appointed under this section, are set out as a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
+
+#### Delegation of Authority
+Authority of President under subsec. (a) of this section to make temporary appointments not above lieutenant in the Regular Coast Guard and Coast Guard Reserve delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(e), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
 
 
 <a id="section-2105"></a>
@@ -422,9 +492,11 @@ Commissioned officers may be appointed as United States Deputy Marshals in Alask
 ## § 2115. Selection boards; information to be furnished boards
 **(a) In General.—** The Secretary shall furnish the appropriate selection board convened under [section 2106 of this title](./chapter-021-personnel-officers.md#section-2106) with—
 
-(1) the number of officers that the board may recommend for promotion to the next higher grade; and
+(1) the number of officers that the board may recommend for promotion to the next higher grade;
 
-(2) the names and records of all officers who are eligible for consideration for promotion to the grade to which the board will recommend officers for promotion.
+(2) the names and records of all officers who are eligible for consideration for promotion to the grade to which the board will recommend officers for promotion; and
+
+(3) in the case of an eligible officer considered for promotion to a rank above lieutenant, any credible information of an adverse nature, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry and any information placed in the personnel service record of the officer under section 1745(a) of the National Defense Authorization Act for Fiscal Year 2014 (Public Law 113–66; [10 U.S.C. 1561](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1561&num=0&edition=prelim) note), shall be furnished to the selection board in accordance with standards and procedures set out in the regulations prescribed by the Secretary.
 
 **(b) Provision of Direction and Guidance.—**
 
@@ -439,6 +511,8 @@ Commissioned officers may be appointed as United States Deputy Marshals in Alask
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–263 added par. (3).
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 258 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section258&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for “section 251” in introductory provisions.
@@ -467,7 +541,7 @@ unless such percentage is a number less than one, in which case the board may re
 
 **(c)**
 
-(1) In selecting the officers to be recommended for promotion, a selection board may recommend officers of particular merit, from among those officers chosen for promotion, to be placed at the top of the list of selectees promulgated by the Secretary under [section 2121(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2121/a&num=0&edition=prelim). The number of officers that a board may recommend to be placed at the top of the list of selectees may not exceed the percentages set forth in subsection (b) unless such a percentage is a number less than one, in which case the board may recommend one officer for such placement. No officer may be recommended to be placed at the top of the list of selectees unless he or she receives the recommendation of at least a majority of the members of a board composed of five members, or at least two-thirds of the members of a board composed of more than five members.
+(1) In selecting the officers to be recommended for promotion, a selection board may recommend officers of particular merit, from among those officers chosen for promotion, to be placed at the top of the list of selectees promulgated by the Secretary under [section 2121(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2121/a&num=0&edition=prelim). The number of officers that a board may recommend to be placed at the top of the list of selectees may not exceed three times the percentages set forth in subsection (b) unless such a percentage is a number less than one, in which case the board may recommend one officer for such placement. No officer may be recommended to be placed at the top of the list of selectees unless he or she receives the recommendation of at least a majority of the members of a board composed of five members, or at least two-thirds of the members of a board composed of more than five members.
 
 (2) The Secretary shall conduct a survey of the Coast Guard officer corps to determine if implementation of this subsection will improve Coast Guard officer retention. A selection board may not make any recommendation under this subsection before the date on which the Secretary publishes a finding, based upon the results of the survey, that implementation of this subsection will improve Coast Guard officer retention.
 
@@ -476,6 +550,8 @@ unless such percentage is a number less than one, in which case the board may re
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–263 inserted “three times” after “may not exceed”.
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 259 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section259&num=0&edition=prelim) as this section.
 
 Subsec. (a). Pub. L. 115–282, § 123(b)(2), substituted “section 2115” for “section 258”.
@@ -525,9 +601,13 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for
 
 **(d)** Except as required by this section, the proceedings of a selection board, including a special selection board convened under section 2120, shall not be disclosed to any individual who is not a member of the board.
 
+**(e)** If the Secretary makes a recommendation under this section that the name of an officer be removed from a report of a selection board and the recommendation is accompanied by information that was not presented to that selection board, that information shall be made available to that officer. The officer shall then be afforded a reasonable opportunity to submit comments on that information to the officials making the recommendation and the officials reviewing the recommendation. If an eligible officer cannot be given access to such information because of its classification status, the officer shall, to the maximum extent practicable, be provided with an appropriate summary of the information.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–263 added subsec. (e).
+
 2021—Subsec. (d). Pub. L. 116–283 substituted “individual who is” for “person”.
 
 2018—Pub. L. 115–282, § 112(b), renumbered [section 261 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section261&num=0&edition=prelim) as this section.
@@ -540,6 +620,9 @@ Subsec. (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2120” for
 
 #### Effective Date of 2012 Amendment
 Pub. L. 112–213, title II, § 208(e)(1), Dec. 20, 2012, 126 Stat. 1549, provided that: “The amendments made by this section [enacting [section 263 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section263&num=0&edition=prelim) and amending this section and [section 262 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section262&num=0&edition=prelim)] shall take effect on the date of enactment of this Act [Dec. 20, 2012] and the Secretary may convene a special selection board on or after that date under section 263 [now 2120] of title 14, United States Code, with respect to any error or other action for which such a board may be convened if that error or other action occurred on or after the date that is 1 year before the date of enactment of this Act.”
+
+#### Delegation of Authority
+Authority of President under subsecs. (a) and (b) of this section to approve, modify, or disapprove the report of a selection board, and to remove a name of an officer from a selection board report, respectively, delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(a), (b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
 
 
 <a id="section-2119"></a>
@@ -655,6 +738,95 @@ Subsec. (h). Pub. L. 115–282, § 123(b)(2), substituted “section 2106” for
 Section effective Dec. 20, 2012, with provision for convening a special selection board for certain errors occurring on or after the date that is 1 year before Dec. 20, 2012, see section 208(e)(1) of Pub. L. 112–213, set out as an Effective Date of 2012 Amendment note under [section 2118 of this title](./chapter-021-personnel-officers.md#section-2118).
 
 
+<a id="section-2120a"></a>
+## § 2120a. Special selection review boards
+**(a) In General.—**
+
+(1) If the Secretary determines that a person recommended by a promotion board for promotion to a grade at or below the grade of rear admiral is the subject of credible information of an adverse nature, including any substantiated adverse finding or conclusion described in [section 2115(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2115/a/3&num=0&edition=prelim) that was not furnished to the promotion board during its consideration of the person for promotion as otherwise required by such section, the Secretary shall convene a special selection review board under this section to review the person and recommend whether the recommendation for promotion of the person should be sustained.
+
+(2) If a person and the recommendation for promotion of the person is subject to review under this section by a special selection review board convened under this section, the name of the person—
+
+  (A) shall not be disseminated or publicly released on the list of officers recommended for promotion by the promotion board recommending the promotion of the person; and
+
+  (B) shall not be forwarded to the President or the Senate, as applicable, or included on a promotion list under [section 2121 of this title](./chapter-021-personnel-officers.md#section-2121).
+
+**(b) Convening.—**
+
+(1) Any special selection review board convened under this section shall be convened in accordance with the provisions of [section 2120(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2120/c&num=0&edition=prelim).
+
+(2) Any special selection review board convened under this section may review such number of persons, and recommendations for promotion of such persons, as the Secretary shall specify in convening such special selection review board.
+
+**(c) Information Considered.—**
+
+(1) In reviewing a person and recommending whether the recommendation for promotion of the person should be sustained under this section, a special selection review board convened under this section shall be furnished and consider the following:
+
+  (A) The record and information concerning the person furnished in accordance with [section 2115 of this title](./chapter-021-personnel-officers.md#section-2115) to the promotion board that recommended the person for promotion.
+
+  (B) Any credible information of an adverse nature on the person, including any substantiated adverse finding or conclusion from an officially documented investigation or inquiry described in [section 2115(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2115/a/3&num=0&edition=prelim).
+
+(2) The furnishing of information to a special selection review board under paragraph (1)(B) shall be governed by the standards and procedures referred to in [section 2115 of this title](./chapter-021-personnel-officers.md#section-2115).
+
+(3)
+
+  (A) Before information on a person described in paragraph (1)(B) is furnished to a special selection review board for purposes of this section, the Secretary shall ensure that—
+
+    (i) such information is made available to the person; and
+
+    (ii) subject to subparagraphs (C) and (D), the person is afforded a reasonable opportunity to submit comments on such information to the special selection review board before its review of the person and the recommendation for promotion of the person under this section.
+
+  (B) If information on a person described in paragraph (1)(B) is not made available to the person as otherwise required by subparagraph (A)(i) due to the classification status of such information, the person shall, to the maximum extent practicable, be furnished a summary of such information appropriate to the person’s authorization for access to classified information.
+
+  (C)
+
+    (i) An opportunity to submit comments on information is not required for a person under subparagraph (A)(ii) if—
+
+      (I) such information was made available to the person in connection with the furnishing of such information under [section 2115(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2115/a&num=0&edition=prelim) to the promotion board that recommended the promotion of the person subject to review under this section; and
+
+      (II) the person submitted comments on such information to that promotion board.
+
+    (ii) The comments on information of a person described in clause (i)(II) shall be furnished to the special selection review board.
+
+  (D) A person may waive either or both of the following:
+
+    (i) The right to submit comments to a special selection review board under subparagraph (A)(ii).
+
+    (ii) The furnishing of comments to a special selection review board under subparagraph (C)(ii).
+
+**(d) Consideration.—**
+
+(1) In considering the record and information on a person under this section, the special selection review board shall compare such record and information with an appropriate sampling of the records of those officers who were recommended for promotion by the promotion board that recommended the person for promotion, and an appropriate sampling of the records of those officers who were considered by and not recommended for promotion by that promotion board.
+
+(2) Records and information shall be presented to a special selection review board for purposes of paragraph (1) in a manner that does not indicate or disclose the person or persons for whom the special selection review board was convened.
+
+(3) In considering whether the recommendation for promotion of a person should be sustained under this section, a special selection review board shall, to the greatest extent practicable, apply standards used by the promotion board that recommended the person for promotion.
+
+(4) The recommendation for promotion of a person may be sustained under this section only if the special selection review board determines that the person—
+
+  (A) ranks on an order of merit created by the special selection review board as better qualified for promotion than the sample officer highest on the order of merit list who was considered by and not recommended for promotion by the promotion board concerned; and
+
+  (B) is comparable in qualification for promotion to those sample officers who were recommended for promotion by that promotion board.
+
+(5) A recommendation for promotion of a person may be sustained under this section only by a vote of a majority of the members of the special selection review board.
+
+(6) If a special selection review board does not sustain a recommendation for promotion of a person under this section, the person shall be considered to have failed of selection for promotion.
+
+**(e) Reports.—**
+
+(1) Each special selection review board convened under this section shall submit to the Secretary a written report, signed by each member of the board, containing the name of each person whose recommendation for promotion it recommends for sustainment and certifying that the board has carefully considered the record and information of each person whose name was referred to it.
+
+(2) The provisions of sections 2117(a) of this title apply to the report and proceedings of a special selection review board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under [section 2106 of this title](./chapter-021-personnel-officers.md#section-2106).
+
+**(f) Appointment of Persons.—**
+
+(1) If the report of a special selection review board convened under this section recommends the sustainment of the recommendation for promotion to the next higher grade of a person whose name was referred to it for review under this section, and the President approves the report, the person shall, as soon as practicable, be appointed to that grade in accordance with [section 2121 of this title](./chapter-021-personnel-officers.md#section-2121).
+
+(2) A person who is appointed to the next higher grade as described in paragraph (1) shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as the person would have had pursuant to the original recommendation for promotion of the promotion board concerned.
+
+**(g) Regulations.—** The Secretary shall prescribe regulations to carry out this section.
+
+**(h) Promotion Board Defined.—** In this section, the term “promotion board” means a selection board convened by the Secretary under [section 2106 of this title](./chapter-021-personnel-officers.md#section-2106).
+
+
 <a id="section-2121"></a>
 ## § 2121. Promotions; appointments
 **(a)** When the report of a board convened to recommend officers for promotion has been approved by the President, the Secretary shall place the names of all officers selected and approved on a list of selectees in the order of their seniority on the active duty promotion list. The names of all officers approved by the President and recommended by the board to be placed at the top of the list of selectees shall be placed at the top of the list of selectees in the order of seniority on the active duty promotion list.
@@ -667,11 +839,35 @@ Section effective Dec. 20, 2012, with provision for convening a special selectio
 
 **(e)** Appointments of regular officers under this section shall be made by the President, by and with the advice and consent of the Senate except that advice and consent is not required for appointments under this section in the grade of lieutenant (junior grade) or lieutenant. Appointments of Reserve officers shall be made as prescribed in [section 12203 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12203&num=0&edition=prelim).
 
-**(f)** The promotion of an officer who is under investigation or against whom proceedings of a court-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.
+**(f)**
+
+(1) The promotion of an officer may be delayed without prejudice if any of the following applies:
+
+  (A) The officer is under investigation or proceedings of a court-martial or a board of officers are pending against the officer.
+
+  (B) A criminal proceeding in a Federal or State court is pending against the officer.
+
+  (C) The Secretary determines that credible information of an adverse nature, including a substantiated adverse finding or conclusion described in section 2115(a)(3), with respect to the officer will result in the convening of a special selection review board under [section 2120a of this title](./chapter-021-personnel-officers.md#section-2120a) to review the officer and recommend whether the recommendation for promotion of the officer should be sustained.
+
+(2)
+
+  (A) Subject to subparagraph (B), a promotion may be delayed under this subsection until, as applicable—
+
+    (i) the completion of the investigation or proceedings described in subparagraph (A);
+
+    (ii) a final decision in the proceeding described in subparagraph (B) is issued; or
+
+    (iii) the special selection review board convened under [section 2120a of this title](./chapter-021-personnel-officers.md#section-2120a) issues recommendations with respect to the officer.
+
+  (B) Unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted.
+
+(3) An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–263 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The promotion of an officer who is under investigation or against whom proceedings of a court-martial or a board of officers are pending may be delayed without prejudice by the Secretary until completion of the investigation or proceedings. However, unless the Secretary determines that a further delay is necessary in the public interest, a promotion may not be delayed under this subsection for more than one year after the date the officer would otherwise have been promoted. An officer whose promotion is delayed under this subsection and who is subsequently promoted shall be given the date of rank and position on the active duty promotion list in the grade to which promoted that he would have held had his promotion not been so delayed.”
+
 2018—Pub. L. 115–282, § 112(b), renumbered [section 271 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section271&num=0&edition=prelim) as this section.
 
 Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2103” for “section 42”.
@@ -702,6 +898,9 @@ Pub. L. 97–417, § 4, Jan. 4, 1983, 96 Stat. 2087, provided that: “(a) An of
 #### Temporary Grades and Recommendations for Promotions in Effect Prior to September 24, 1963
 Savings provisions in section 5(a), (b), and (d) of Pub. L. 88–130, protecting officers recommended for promotion or serving in temporary grade higher than permanent grade, are set out as a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
 
+#### Delegation of Authority
+Authority of President under subsec. (e) of this section to appoint officers in the grades of lieutenant (junior grade) and lieutenant delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(d), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
+
 
 <a id="section-2122"></a>
 ## § 2122. Removal of officer from list of selectees for promotion
@@ -717,6 +916,9 @@ Savings provisions in section 5(a), (b), and (d) of Pub. L. 88–130, protecting
 2018—Pub. L. 115–282, § 112(b), renumbered [section 272 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section272&num=0&edition=prelim) as this section.
 
 Subsecs. (a), (b). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for “section 271”.
+
+#### Delegation of Authority
+Authority of President under subsec. (a) of this section to remove a name of an officer from a list of selectees delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
 
 
 <a id="section-2123"></a>
@@ -782,7 +984,9 @@ Subsec. (i). Pub. L. 115–282, § 123(b)(2), substituted “section 2121” for
 1971—Subsec. (f). Pub. L. 92–129 inserted provision covering appointments of officers in the Coast Guard Reserve to grades above lieutenant commander.
 
 #### Delegation of Authority
-Authority of President under subsec. (a) of this section as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, set out as a note under [section 12302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12302&num=0&edition=prelim), Armed Forces.
+Authority of President under this section, during a time of war or national emergency, to suspend the operation of any law relating to the selection, promotion, or involuntary separation of officers of the Coast Guard, and to temporarily promote officers serving on active duty and chief warrant officers serving on active duty, delegated to Secretary of Homeland Security without the approval, ratification, or other action by the President by Ex. Ord. No. 14106, § 2(a), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
+
+Authority of President under subsec. (a) of this section, as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, set out as a note under [section 12302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12302&num=0&edition=prelim), Armed Forces.
 
 
 <a id="section-2126"></a>
@@ -1297,6 +1501,9 @@ Pub. L. 88–130, § 2(c), Sept. 24, 1963, 77 Stat. 191, provided that: “Offic
 #### Retired Pay on or Prior to September 24, 1963
 Savings provisions in section 5(g) of Pub. L. 88–130 providing that Pub. L. 88–130 does not affect the retired pay of anyone retired on or prior to Sept. 24, 1963, are set out as a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
 
+#### Delegation of Authority
+Authority of President under subsec. (f) of this section to approve the report of a board convened to recommend for continuation on active duty officers serving in the grade of captain delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(f), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
+
 
 <a id="section-2151"></a>
 ## § 2151. Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement
@@ -1527,7 +1734,7 @@ Subsecs. (a), (d). Pub. L. 115–282, § 123(b)(2), substituted “section 2158�
 ### Statutory Notes
 
 #### Amendments
-2018—Pub. L. 115–282, § 112(b), renumbered [section 323 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section323&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282, § 112(b), renumbered [section 323 of this title](./chapter-003-composition-and-organization.md#section-323) as this section.
 
 Subsec. (c). Pub. L. 115–282, § 123(b)(2), substituted “section 2158” for “section 321”.
 
@@ -1642,6 +1849,17 @@ Any regular officer on the retired list recalled to active duty who during such 
 2018—Pub. L. 115–282 renumbered [section 333 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section333&num=0&edition=prelim) as this section.
 
 
+<a id="section-2166"></a>
+## § 2166. Continuation on active duty; Coast Guard officers with certain critical skills
+**(a) In General.—** The Commandant may authorize an officer in a grade above grade O–2 to remain on active duty after the date otherwise provided for the retirement of such officer in [section 2154 of this title](./chapter-021-personnel-officers.md#section-2154), if the officer possesses a critical skill, or specialty, or is in a career field designated pursuant to subsection (b).
+
+**(b) Critical Skills, Specialty, or Career Field.—** The Commandant shall designate any critical skill, specialty, or career field eligible for continuation on active duty as provided in subsection (a).
+
+**(c) Duration of Continuation.—** An officer continued on active duty pursuant to this section shall, if not earlier retired, be retired on the first day of the month after the month in which the officer completes 40 years of active service.
+
+**(d) Policy.—** The Commandant shall carry out this section by prescribing policy which shall specify the criteria to be used in designating any critical skill, specialty, or career field for purposes of subsection (b).
+
+
 <a id="section-2181"></a>
 ## § 2181. Physical fitness of officers
 
@@ -1665,7 +1883,31 @@ The Secretary shall prescribe regulations under which the physical fitness of of
 
   (C) Each officer of the Coast Guard nominated for promotion to the grade of flag officer.
 
-(2) **Post-assessment elements.—** — Following an assessment of an individual pursuant to paragraph (1), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
+(2) **Officers.—** — Each officer of the Coast Guard shall undergo a multirater assessment before promotion to—
+
+  (A) the grade of O–4;
+
+  (B) the grade of O–5; and
+
+  (C) the grade of O–6.
+
+(3) **Enlisted members.—** — Each enlisted member of the Coast Guard shall undergo a multirater assessment before advancement to—
+
+  (A) the grade of E–7;
+
+  (B) the grade of E–8;
+
+  (C) the grade of E–9; and
+
+  (D) the grade of E–10.
+
+(4) **Selection.—** — An individual assessed shall not be permitted to select the peers and subordinates who provide opinions for the multirater assessment of such individual.
+
+(5) **Post-assessment elements.—**
+
+  (A) *In general.—* — Following an assessment of an individual pursuant to paragraphs (1) through (3), the individual shall be provided appropriate post-assessment counseling and leadership coaching.
+
+  (B) *Availability of results.—* — The supervisor of the individual assessed shall be provided with the results of the multirater assessment.
 
 **(b) Multirater Assessment Defined.—** In this section, the term “multirater assessment” means a review that seeks opinion from members senior to the reviewee and the peers and subordinates of the reviewee.
 
@@ -1675,6 +1917,8 @@ The Secretary shall prescribe regulations under which the physical fitness of of
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
 #### Amendments
+2022—Subsec. (a)(2) to (5). Pub. L. 117–263 added pars. (2) to (5) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Following an assessment of an individual pursuant to paragraph (1), the individual shall be provided appropriate post-assessment counseling and leadership coaching.”
+
 2018—Pub. L. 115–282 renumbered [section 429 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section429&num=0&edition=prelim) as this section.
 
 Subsec. (a)(1). Pub. L. 115–232 substituted “Commandant” for “Commandant of the Coast Guard” in introductory provisions.

@@ -3953,6 +3953,9 @@ Section, Pub. L. 95–195, § 6, Nov. 18, 1977, 91 Stat. 1417, which related to 
 #### Codification
 Section, Pub. L. 95–195, § 7, Nov. 18, 1977, 91 Stat. 1418; Pub. L. 114–262, § 2, Dec. 14, 2016, 130 Stat. 1364, which related to establishment of a reservation for the tribe, was omitted from the Code as being of special and not general application.
 
+#### Establishment of Reservation for Confederated Tribes of Siletz Indians of Oregon
+Pub. L. 96–340, Sept. 4, 1980, 94 Stat. 1072, as amended by Pub. L. 103–435, § 3, Nov. 2, 1994, 108 Stat. 4567; Pub. L. 105–256, § 7, Oct. 14, 1998, 112 Stat. 1897; Pub. L. 118–33, § 1, Dec. 26, 2023, 137 Stat. 1110, established a reservation for the Confederated Tribes of Siletz Indians of Oregon, particularly describing, subject to all valid liens, rights-of-way, agreements, licenses, permits, and easements as of Sept. 4, 1980, the parcel of land, consisting of approximately 3,630 acres in the State of Oregon as well as other parcels of land to be conveyed to the Secretary of the Interior, to be held in trust for the Confederated Tribes of Siletz Indians of Oregon, with all parcels of land subject to the provisions of section 461 et seq. of this title and the right of the Secretary of the Interior to establish, without compensation to such tribes, reasonable rights-of-way and easements to provide access to other Federal lands, the continued effect of the Siletz Agreement from Apr. 22, 1980, regarding the hunting, fishing, trapping, and animal gathering rights of the Confederated Tribes of Siletz Indians, and civil and criminal jurisdiction, in accordance with [section 1360 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1360&num=0&edition=prelim), Judiciary and Judicial Procedure, and [section 1162 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1162&num=0&edition=prelim), Crimes and Criminal Procedure, to reside with the State of Oregon with respect to the reservation and any individual on the reservation.
+
 
 <a id="section-711f"></a>
 ## § 711f. Omitted
@@ -4031,6 +4034,9 @@ Section, Pub. L. 97–391, § 7, as added Pub. L. 105–256, § 9, Oct. 14, 1998
 #### Codification
 Section, Pub. L. 98–165, § 2, Nov. 22, 1983, 97 Stat. 1064, which set out definitions, was omitted from the Code as being of special and not general application.
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–32, § 1, Dec. 26, 2023, 137 Stat. 1109, provided that: “This Act [enacting and amending provisions set out as notes under [section 713f of this title](./chapter-014-miscellaneous.md#section-713f)] may be cited as the ‘Grand Ronde Reservation Act Amendment of 2023’.”
+
 #### Short Title
 Pub. L. 98–165, § 1, Nov. 22, 1983, 97 Stat. 1064, provided that Pub. L. 98–165, enacting this subchapter, could be cited as the “Grand Ronde Restoration Act”.
 
@@ -4089,7 +4095,9 @@ Section, Pub. L. 98–165, § 7, Nov. 22, 1983, 97 Stat. 1067, which related to 
 Section, Pub. L. 98–165, § 8, Nov. 22, 1983, 97 Stat. 1068, which related to the establishment of a tribal reservation, was omitted from the Code as being of special and not general application.
 
 #### Confederated Tribes of the Grand Ronde Community of Oregon Reservation
-Pub. L. 100–425, Sept. 9, 1988, 102 Stat. 1594, as amended by Pub. L. 100–581, title II, § 202, Nov. 1, 1988, 102 Stat. 2939; Pub. L. 101–301, § 4, May 24, 1990, 104 Stat. 207; Pub. L. 102–497, § 1, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–263, § 5(a), May 31, 1994, 108 Stat. 708; Pub. L. 103–435, § 2, Nov. 2, 1994, 108 Stat. 4566; Pub. L. 105–256, § 2, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 114–263, § 1, Dec. 14, 2016, 130 Stat. 1366, established a reservation for Confederated Tribes of the Grand Ronde Community of Oregon, specifying hunting, fishing, and trapping rights and vesting civil and criminal jurisdiction in State of Oregon, directed treatment of certain lands as revested Oregon and California railroad grant lands, and provided economic development for the Tribes.
+Pub. L. 100–425, Sept. 9, 1988, 102 Stat. 1594, as amended by Pub. L. 100–581, title II, § 202, Nov. 1, 1988, 102 Stat. 2939; Pub. L. 101–301, § 4, May 24, 1990, 104 Stat. 207; Pub. L. 102–497, § 1, Oct. 24, 1992, 106 Stat. 3255; Pub. L. 103–263, § 5(a), May 31, 1994, 108 Stat. 708; Pub. L. 103–435, § 2, Nov. 2, 1994, 108 Stat. 4566; Pub. L. 105–256, § 2, Oct. 14, 1998, 112 Stat. 1896; Pub. L. 114–263, § 1, Dec. 14, 2016, 130 Stat. 1366; Pub. L. 118–32, § 2, Dec. 26, 2023, 137 Stat. 1109, established a reservation for Confederated Tribes of the Grand Ronde Community of Oregon, prohibiting use of certain real property for gaming, specifying hunting, fishing, and trapping rights, and vesting civil and criminal jurisdiction in State of Oregon, directed treatment of certain lands as revested Oregon and California railroad grant lands, and provided economic development for the Tribes.
+
+[Pub. L. 118–32, § 3, Dec. 26, 2023, 137 Stat. 1109, provided that: “Nothing in this Act [enacting provisions set out as a note under [section 713 of this title](./chapter-014-miscellaneous.md#section-713) and amending Pub. L. 100–425 above], or an amendment made by this Act, shall be construed to enlarge, confirm, adjudicate, affect, or modify any treaty right of an Indian Tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](./chapter-046-indian-self-determination-and-education-assistance.md#section-5304))).” ]
 
 
 <a id="section-713g"></a>

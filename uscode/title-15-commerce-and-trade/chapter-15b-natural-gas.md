@@ -265,7 +265,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a), is Pu
 ### Statutory Notes
 
 #### References in Text
-The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, as amended, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-060-natural-gas-policy.md#section-3301) and Tables.
+The Natural Gas Policy Act of 1978, referred to in subsec. (f)(1), is Pub. L. 95–621, Nov. 9, 1978, 92 Stat. 3350, which is classified generally to chapter 60 (§ 3301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3301 of this title](./chapter-060-natural-gas-policy.md#section-3301) and Tables.
 
 #### Amendments
 2005—Subsec. (f). Pub. L. 109–58 added subsec. (f).
@@ -461,7 +461,7 @@ Pub. L. 107–355, § 26, Dec. 17, 2002, 116 Stat. 3012, required the Federal En
 #### References in Text
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, , which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
+The Coastal Zone Management Act of 1972, referred to in subsec. (d)(1), is title III of Pub. L. 89–454, as added by Pub. L. 92–583, Oct. 27, 1972, 86 Stat. 1280, which is classified generally to chapter 33 (§ 1451 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1451&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2005—Pub. L. 109–58 substituted “Process coordination; hearings; rules of procedure” for “Hearings; rules of procedure” in section catchline, added subsecs. (a) to (d), and redesignated former subsecs. (a) and (b) as (e) and (f), respectively.

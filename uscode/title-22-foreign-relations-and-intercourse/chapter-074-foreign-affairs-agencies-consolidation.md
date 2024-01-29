@@ -146,7 +146,7 @@ The United States Information Agency (other than the Broadcasting Board of Gover
 ### Statutory Notes
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date
 Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 Stat. 2681–776, provided that: “This title [see Tables for classification], and the amendments made by this title, shall take effect on the earlier of— “(1) October 1, 1999; or “(2) the date of abolition [Oct. 1, 1999] of the United States Information Agency pursuant to the reorganization plan described in section 1601 [[22 U.S.C. 6601](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6601)].”
@@ -164,7 +164,7 @@ Pub. L. 105–277, div. G, subdiv. A, title XIII, § 1301, Oct. 21, 1998, 112 St
 For the effective date of this subchapter, referred to in subsec. (a), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-6533"></a>
@@ -181,7 +181,7 @@ Broadcasting Board of Governors renamed United States Agency for Global Media pu
 For the effective date of this subchapter, referred to in subsec. (e), meaning the effective date of title XIII of subdiv. A of div. G of Pub. L. 105–277, see section 1301 of Pub. L. 105–277, set out as a note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
 
 #### Codification
-Section is comprised of section 1314 of Pub. L. 105–277. Subsec. (b) of section 1314 of Pub. L. 105–277 amended section 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, Government Organization and Employees, and subsecs. (c) and (d) of section 1314 of Pub. L. 105–277 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) and [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207), respectively.
+Section is comprised of section 1314 of Pub. L. 105–277. Subsec. (b) of section 1314 of Pub. L. 105–277 amended section 11 of the Inspector General Act of 1978, formerly set out in the Appendix to Title 5, Government Organization and Employees, and subsecs. (c) and (d) of section 1314 of Pub. L. 105–277 amended [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim) and [section 6207 of this title](./chapter-071-united-states-international-broadcasting.md#section-6207), respectively.
 
 
 <a id="section-6541"></a>
@@ -229,7 +229,7 @@ The United States International Broadcasting Act of 1994, referred to in par. (3
 This part, referred to in subsecs. (a) and (b), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-6543"></a>
@@ -269,7 +269,7 @@ For the effective date of this subchapter, referred to in subsecs. (a), (b)(1), 
 This part, referred to in subsecs. (b) to (e), was in the original “this chapter”, meaning chapter 3 (§§ 1321–1328) of title XIII of subdiv. A of div. G of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–777. For complete classification of chapter 3 to the Code, see Tables.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-6544"></a>
@@ -288,7 +288,7 @@ Not later than March 1 of each year, the Broadcasting Board of Governors shall s
 ### Statutory Notes
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 
 <a id="section-6551"></a>
@@ -501,7 +501,7 @@ In this part, the term “United States assistance” means development and othe
 #### References in Text
 The Foreign Assistance Act of 1961, referred to in pars. (1) to (4), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Chapters 1, 10, and 11 of part I of the Act are classified generally to parts I (§ 2151 et seq.), X (§ 2293 et seq.), and XI (§ 2295 et seq.), respectively, of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For provisions deeming references to part I of subchapter I to include a reference to [section 2293 of this title](./chapter-032-foreign-assistance.md#section-2293), see [section 2293(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2293/d/1&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
-The Support for East European Democracy Act, referred to in par. (5), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
+The Support for East European Democracy Act, referred to in par. (5), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to chapter 63 (§ 5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 5401 of this title](./chapter-063-support-for-east-european-democracy-seed.md#section-5401) and Tables.
 
 
 <a id="section-6592"></a>
@@ -722,7 +722,7 @@ This Act, referred to in subsec. (c), probably means division G of Pub. L. 105�
 [Section 4102 of this title](./chapter-052-foreign-service.md#section-4102), referred to in subsec. (c), was in the original “section 1002 of the Foreign Service Act”, and was translated as meaning section 1002 of the Foreign Service Act of 1980 to reflect the probable intent of Congress.
 
 #### Amendments
-1999—Subsec. (c). Pub. L. 106–113 inserted after first sentence “In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State.”.
+1999—Subsec. (c). Pub. L. 106–113 inserted after first sentence “In carrying out the reorganization under this Act, the Secretary shall ensure that the advances made in increasing the number and status of women and minorities within the foreign affairs agencies of the Federal Government, in terms of representation within the agencies as well as relative rank, are not undermined by discrimination within the newly reorganized Department of State.”
 
 
 <a id="section-6614"></a>

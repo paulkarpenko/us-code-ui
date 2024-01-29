@@ -1693,6 +1693,8 @@ Subsec. (b)(2). Pub. L. 115–334, § 6504(b), struck out subpar. (A) designatio
 ### Statutory Notes
 
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
@@ -1758,7 +1760,7 @@ Pub. L. 115–334, title VI, § 6505(b), Dec. 20, 2018, 132 Stat. 4775, provided
 
 (1) **Discretionary funding** — In addition to other funds that are available to carry out this section, there is authorized to be appropriated not more than $10,000,000 for each of fiscal years 2019 through 2023 to carry out this section, to remain available until expended.
 
-(2) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall credit to the subaccount to use for the cost of grants and loans under this section $5,000,000 for each of fiscal years 2022 and 2023, to remain available until expended.
+(2) **Mandatory funding** — Of the funds of the Commodity Credit Corporation, the Secretary shall credit to the subaccount to use for the cost of grants and loans under this section $5,000,000 for each of fiscal years 2022 through 2024, to remain available until expended.
 
 (3) **Other funds** — In addition to the funds described in paragraphs (1) and (2), the Secretary shall use, without fiscal year limitation, to provide grants and loans under this section—
 
@@ -1769,6 +1771,15 @@ Pub. L. 115–334, title VI, § 6505(b), Dec. 20, 2018, 132 Stat. 4775, provided
 **(f) Maintenance of account** The Secretary shall maintain the subaccount described in [section 940c(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c/b/2&num=0&edition=prelim), as in effect in fiscal year 2017, for purposes of carrying out this section.
 
 ### Statutory Notes
+
+#### Amendments
+2023—Subsec. (e)(2). Pub. L. 118–22 substituted “through 2024” for “and 2023”.
+
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–22 to be applied and administered as if enacted on Sept. 30, 2023, see section 102(g) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
+#### Additional Funding for Fiscal Year 2024
+Pub. L. 118–42, div. B, title VII, § 780, Mar. 9, 2024, 138 Stat. 118, provided that: “Section 313B(a) of the Rural Electrification Act of 1936 ([7 U.S.C. 940c–2(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c–2/a&num=0&edition=prelim)), shall be applied for fiscal year 2024 and each fiscal year thereafter until the specified funding has been expended as if the following were inserted after the final period: ‘In addition, the Secretary shall use $9,465,000 of the funds available to carry out this section in fiscal year 2024 for an additional amount for the same purpose and under the same terms and conditions as the Rural Business Development Grants authorized by section 310B of the Consolidated Farm and Rural Development Act ([7 U.S.C. 1932(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1932/c&num=0&edition=prelim)).’.”
 
 #### Implementation of Loan and Grant Program
 Pub. L. 115–334, title VI, § 6504(e), Dec. 20, 2018, 132 Stat. 4774, provided that: “(1) Subject to section 313B(e) of the Rural Electrification Act of 1936 (as added by this section) [[7 U.S.C. 940c–2(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c–2/e&num=0&edition=prelim)], the Secretary of Agriculture shall carry out the loan and grant program required under such section in the same manner as the loan and grant program under section 313(b)(2) of such Act [[7 U.S.C. 940c(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section940c/b/2&num=0&edition=prelim)] is carried out on the day before the date of the enactment of this Act [Dec. 20, 2018], until such time as any regulations necessary to carry out the amendments made by this section [enacting this section and amending sections 912, 940c, and 940c–1 of this title] are fully implemented. “(2) Paragraph (1) shall take effect on the date of the enactment of this Act.”
@@ -2287,6 +2298,8 @@ Section, act May 20, 1936, ch. 432, title V, § 502, as added Nov. 28, 1990, Pub
 ### Statutory Notes
 
 #### Codification
+The authorities provided by each provision of, and each amendment made by, Pub. L. 115–334, as in effect on Sept. 30, 2023, to continue, and authorities to be carried out, until the later of Sept. 30, 2024, or the date specified in the provision of, or amendment made by, Pub. L. 115–334, see section 102(a) of Pub. L. 118–22, set out in an Extension of Agricultural Programs note under [section 9001 of this title](./chapter-115-agricultural-commodity-policy-and-programs.md#section-9001).
+
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under [section 8701 of this title](./chapter-113-agricultural-commodity-support-programs.md#section-8701).
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

@@ -101,7 +101,7 @@ Pub. L. 103–325, title III, § 344, Sept. 23, 1994, 108 Stat. 2239, provided t
 ### Statutory Notes
 
 #### References in Text
-The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Truth in Lending Act, referred to in subsec. (b)(1), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (a)(2) to (4). Pub. L. 104–208 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.

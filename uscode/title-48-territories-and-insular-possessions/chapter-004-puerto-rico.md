@@ -14,7 +14,7 @@ The provisions of this chapter shall apply to the island of Puerto Rico and to t
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in act Apr. 12, 1900, ch. 191, 31 Stat. 77, which is popularly known as the “Foraker Act” and also as the “Puerto Rico Civil Code”.
@@ -55,7 +55,7 @@ From and after May 17, 1932, the island designated “Porto Rico” in the Act e
 ### Statutory Notes
 
 #### References in Text
-Act approved March 2, 1917, as amended, referred to in text, is act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
+Act approved March 2, 1917, as amended, referred to in text, is act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
 
 #### Codification
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
@@ -186,7 +186,7 @@ The statutory laws of the United States not locally inapplicable, except as here
 ### Statutory Notes
 
 #### References in Text
-The Philippine Trade Act of 1946, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, as amended, which is classified principally to subchapters I to IV (§ 1251 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 1354 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1354&num=0&edition=prelim) and Tables.
+The Philippine Trade Act of 1946, referred to in text, is act Apr. 30, 1946, ch. 244, 60 Stat. 141, which is classified principally to subchapters I to IV (§ 1251 et seq.) of chapter 15 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 1354 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1354&num=0&edition=prelim) and Tables.
 
 The Philippine Trade Agreement Revision Act of 1955, referred to in text, is act Aug. 1, 1955, ch. 438, 69 Stat. 413, which is classified generally to subchapter IV–A (§ 1371 et seq.) of chapter 15 of Title 22. For complete classification of this Act to the Code, see Short Title note set out under [section 1373 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section1373&num=0&edition=prelim) and Tables.
 
@@ -265,7 +265,7 @@ Title III of the National Prohibition Act, as amended, and all provisions of the
 ### Statutory Notes
 
 #### References in Text
-The National Prohibition Act, as amended, referred to in text, is act Oct. 28, 1919, ch. 85, 41 Stat. 305, as amended. Title III of such Act was classified principally to chapter 3 (§ 71 et seq.) of Title 27, Intoxicating Liquors, and was omitted from the Code in view of the incorporation of such provisions in the Internal Revenue Code of 1939, and subsequently into the Internal Revenue Code of 1986.
+The National Prohibition Act, as amended, referred to in text, is act Oct. 28, 1919, ch. 85, 41 Stat. 305. Title III of such Act was classified principally to chapter 3 (§ 71 et seq.) of Title 27, Intoxicating Liquors, and was omitted from the Code in view of the incorporation of such provisions in the Internal Revenue Code of 1939, and subsequently into the Internal Revenue Code of 1986.
 
 #### Codification
 Provisions similar to those comprising this section relating to the Virgin Islands are classified to [section 1402 of this title](./chapter-007-virgin-islands.md#section-1402).
@@ -359,7 +359,7 @@ The duties and taxes collected in Puerto Rico in pursuance of the provisions of 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act Apr. 12, 1900, ch. 191, 31 Stat. 77, as amended, popularly known as the Foraker Act, which, insofar as is classified to the Code, enacted sections 733, 736, 738 to 740, 743, 744, 755, 864, and 866 of this title and amended sections 1 and 11 of former Title 11, Bankruptcy. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act Apr. 12, 1900, ch. 191, 31 Stat. 77, popularly known as the Foraker Act, which, insofar as is classified to the Code, enacted sections 733, 736, 738 to 740, 743, 744, 755, 864, and 866 of this title and amended sections 1 and 11 of former Title 11, Bankruptcy. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Additional provisions of act Apr. 12, 1900, § 4, directing the payment of duties and taxes into a separate fund in the Treasury of the United States until the organization of a local civil government, have been omitted.
@@ -405,7 +405,7 @@ The internal-revenue taxes levied by the Legislature of Puerto Rico in pursuance
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to the chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to the chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
 
 #### Codification
 Section is comprised of last part of section 3 of act Mar. 2, 1917, as added by act Mar. 4, 1927. The first two parts are classified to sections 741 and 745 of this title.
@@ -572,7 +572,7 @@ The harbor areas and navigable streams and bodies of water and submerged lands u
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
 
 #### Codification
 A further provision of section 8 of act Mar. 2, 1917, repealing act June 11, 1906, ch. 3075, 34 Stat. 234, and all other laws or parts of laws in conflict herewith was omitted.
@@ -841,7 +841,7 @@ The legislative authority shall extend to all matters of a legislative character
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, as amended, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning act Mar. 2, 1917, ch. 145, 39 Stat. 951, known as the Puerto Rican Federal Relations Act and also popularly known as the Jones Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 731 of this title](./chapter-004-puerto-rico.md#section-731) and Tables.
 
 #### Change of Name
 “Puerto Rico” substituted in text for “Porto Rico” pursuant to act May 17, 1932, which is classified to [section 731a of this title](./chapter-004-puerto-rico.md#section-731a).
@@ -1233,9 +1233,9 @@ The government of Puerto Rico acting through its legislature, may create a publi
 ### Statutory Notes
 
 #### References in Text
-The Housing Act of 1949 (Public Law 171, Eighty-first Congress), as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
+The Housing Act of 1949 (Public Law 171, Eighty-first Congress), as amended, referred to in text, is act July 15, 1949, ch. 338, 63 Stat. 413. Title I of the Housing Act of 1949 was classified generally to subchapter II (§ 1450 et seq.) of chapter 8A of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to [section 5316 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5316&num=0&edition=prelim) which terminated the authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under [section 1441 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1441&num=0&edition=prelim) and Tables.
 
-This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, as amended, known as the Territorial Enabling Act of 1950, which enacted sections 480 to 480b, 483a, 483b, 721 to 721b, 910 to 910b, 1408 to 1408e of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, known as the Territorial Enabling Act of 1950, which enacted sections 480 to 480b, 483a, 483b, 721 to 721b, 910 to 910b, 1408 to 1408e of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
@@ -1273,7 +1273,7 @@ All legislation heretofore enacted by the Legislature of the Territory of Puerto
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, as amended, known as the Territorial Enabling Act of 1950, which enacted sections 480 to 480b, 483a, 483b, 721 to 721b, 910 to 910b, 1408 to 1408e of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means act July 18, 1950, ch. 466, 64 Stat. 344, known as the Territorial Enabling Act of 1950, which enacted sections 480 to 480b, 483a, 483b, 721 to 721b, 910 to 910b, 1408 to 1408e of this title, amended sections 481 to 483 and 722 of this title, and enacted provisions set out as notes under sections 480, 481, and 722 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.

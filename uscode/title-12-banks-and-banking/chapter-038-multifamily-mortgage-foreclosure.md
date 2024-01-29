@@ -71,18 +71,20 @@ As used in this chapter—
 
 (9) “county” means county as defined in [section 2 of title 1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title1-section2&num=0&edition=prelim); and
 
-(10) “Secretary” means the Secretary of Housing and Urban Development.
+(10) “Secretary” means the Secretary of Housing and Urban Development and the Secretary of Agriculture.
 
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§ 1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, § 133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in par. (2)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Title II of the Act is classified principally to subchapter II (§ 1707 et seq.) of chapter 13 of this title. Title X of the Act, which was classified principally to subchapter IX–A (§ 1749aa et seq.) of chapter 13 of this title, was repealed by Pub. L. 101–235, title I, § 133(a), Dec. 15, 1989, 103 Stat. 2027. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 Section 312 of the Housing Act of 1964, referred to in par. (2)(B), is section 312 of Pub. L. 88–560, which was classified to [section 1452b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1452b&num=0&edition=prelim), The Public Health and Welfare, and was repealed by Pub. L. 101–625, title II, § 289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
 
 Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred to in par. (2)(C), (D), is section 801 of Pub. L. 101–625.
 
 #### Amendments
+2024—Par. (10). Pub. L. 118–42, which directed the insertion of “and the Secretary of Agriculture” after “Secretary of Housing Urban Development”, was executed by making the insertion after “Secretary of Housing and Urban Development”, to reflect the probable intent of Congress.
+
 1992—Par. (2). Pub. L. 102–550 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “ ‘multifamily mortgage’ means a mortgage held by the Secretary pursuant to title II of the National Housing Act or section 312 of the House Act of 1964 covering any property, except a property on which there is located a one- to four-family residence;”.
 
 #### Termination of Trust Territory of the Pacific Islands

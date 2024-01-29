@@ -258,7 +258,7 @@ A prior section 49105 was renumbered [section 50105 of this title](./chapter-501
 
   (A) conferred upon it jointly by the legislative authority of Virginia and the District of Columbia or by either of them and concurred in by the legislative authority of the other jurisdiction; and
 
-  (B) that at least meet the specifications of this section and section 49108 11 See References in Text note below. of this title;
+  (B) that at least meet the specifications of this section;
 
 (2) independent of Virginia and its local governments, the District of Columbia, and the United States Government; and
 
@@ -318,7 +318,7 @@ A prior section 49105 was renumbered [section 50105 of this title](./chapter-501
 
   (B) In carrying out their duties on the board, members appointed by the President shall ensure that adequate consideration is given to the national interest.
 
-  (C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of jurisdiction 22 So in original. Probably should be preceded by “the”. from which the member is appointed.
+  (C) A member appointed by the President may be removed by the President for cause. A member appointed by the Mayor of the District of Columbia, the Governor of Maryland or the Governor of Virginia may be removed or suspended from office only for cause and in accordance with the laws of the jurisdiction from which the member is appointed.
 
 (7) Ten votes are required to approve bond issues and the annual budget.
 
@@ -358,10 +358,11 @@ In subsection (d), the words “The Airports Authority shall be subject to a con
 
 In subsection (g), the words “Committee on Transportation and Infrastructure” are substituted for “Committee on Public Works and Transportation” because of the amendment of clause 1(q) of Rule X of the Rules of the House of Representatives by section 202(a) of H. Res. 6, approved January 4, 1995.
 
-#### References in Text
-[Section 49108 of this title](./chapter-491-metropolitan-washington-airports.md#section-49108), referred to in subsec. (a)(1)(B), was repealed by Pub. L. 112–95, title I, § 150, Feb. 14, 2012, 126 Stat. 32.
-
 #### Amendments
+2024—Subsec. (a)(1)(B). Pub. L. 118–63, § 1101(x)(1), struck out “ and [section 49108 of this title](./chapter-491-metropolitan-washington-airports.md#section-49108)” before semicolon at end.
+
+Subsec. (c)(6)(C). Pub. L. 118–63, § 1101(x)(2), inserted “the” before “jurisdiction”.
+
 2011—Subsec. (c)(1). Pub. L. 112–55, § 191(a)(1), substituted “17 members” for “13 members” in introductory provisions.
 
 Subsec. (c)(1)(A). Pub. L. 112–55, § 191(a)(2), substituted “7 members” for “5 members”.
@@ -539,11 +540,7 @@ Amendment by Pub. L. 105–225 effective Nov. 20, 1997, see section 7(c)(3) of P
 ## § 49112. Separability and effect of judicial order
 **(a) Separability.—** If any provision of this chapter, or the application of a provision of this chapter to a person or circumstance, is held invalid, the remainder of this chapter and the application of the provision to other persons or circumstances is not affected.
 
-**(b) Effect of Judicial Order.—**
-
-(1) If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of Public Law 104–264; 110 Stat. 3274) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to section 49108 11 See References in Text note below. of this title from the day after the day the order is issued.
-
-(2) Any action of the Airports Authority that was required to be submitted to the Board of Review under section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–380; Public Law 99–599; 100 Stat. 3341–383) before October 9, 1996, remains in effect and may not be set aside only because of a judicial order invalidating certain functions of the Board.
+**(b) Effect of Judicial Order.—** Any action of the Airports Authority that was required to be submitted to the Board of Review under section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986 (Public Law 99–500; 100 Stat. 1783–380; Public Law 99–599; 100 Stat. 3341–383) before October 9, 1996, remains in effect and may not be set aside only because of a judicial order invalidating certain functions of the Board.
 
 ### Statutory Notes
 
@@ -561,8 +558,7 @@ In subsection (a), the word “thereby” is omitted as surplus.
 In subsection (b)(1), the words “the limitations described in” are omitted as unnecessary.
 
 #### References in Text
-The Metropolitan Washington Airports Amendments Act of 1996, referred to in subsec. (b)(1), is title IX of Pub. L. 104–264, Oct. 9, 1996, 110 Stat. 3274, which amended the Metropolitan Washington Airports Act of 1986, title VI of Pub. L. 99–500, Oct. 18, 1986, 100 Stat. 1783–373, and title VI of Pub. L. 99–591, Oct. 30, 1986, 100 Stat. 3341–376, as amended. The Metropolitan Washington Airports Act of 1986 was classified generally to subchapter III (§ 2451 et seq.) of chapter 33 of former Title 49, Transportation, and was repealed and reenacted as this chapter by Pub. L. 105–102, §§ 2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217.
+Section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (b), is section 6007(f)(4) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–379, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–382, which related to a Board of Review and was classified to section 2456(f)(4) of former Title 49, Transportation. Subsec. (f) of section 6007 was repealed and subsec. (g) redesignated (f) by Pub. L. 104–264, title IX, § 904(a), Oct. 9, 1996, 110 Stat. 3276. Section 6007 was subsequently repealed and reenacted as [section 49106 of Title 49](./chapter-491-metropolitan-washington-airports.md#section-49106), Transportation, by Pub. L. 105–102, §§ 2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217, and does not contain provisions relating to a Board of Review.
 
-[Section 49108 of this title](./chapter-491-metropolitan-washington-airports.md#section-49108), referred to in subsec. (b)(1), was repealed by Pub. L. 112–95, title I, § 150, Feb. 14, 2012, 126 Stat. 32.
-
-Section 6007(f)(4) of the Metropolitan Washington Airports Act of 1986, referred to in subsec. (b)(2), is section 6007(f)(4) of Pub. L. 99–500, title VI, Oct. 18, 1986, 100 Stat. 1783–379, and Pub. L. 99–591, title VI, Oct. 30, 1986, 100 Stat. 3341–382, which related to a Board of Review and was classified to section 2456(f)(4) of former Title 49, Transportation. Subsec. (f) of section 6007 was repealed and subsec. (g) redesignated (f) by Pub. L. 104–264, title IX, § 904(a), Oct. 9, 1996, 110 Stat. 3276. Section 6007 was subsequently repealed and reenacted as [section 49106 of Title 49](./chapter-491-metropolitan-washington-airports.md#section-49106), Transportation, by Pub. L. 105–102, §§ 2(26), 5(b), Nov. 20, 1997, 111 Stat. 2205, 2217, and does not contain provisions relating to a Board of Review.
+#### Amendments
+2024—Subsec. (b). Pub. L. 118–63 struck out par. (2) designation before “Any action” and struck out par. (1) which read as follows: “If any provision of the Metropolitan Washington Airports Amendments Act of 1996 (title IX of Public Law 104–264; 110 Stat. 3274) or the amendments made by the Act, or the application of that provision to a person, circumstance, or venue, is held invalid by a judicial order, the Secretary of Transportation and the Metropolitan Washington Airports Authority shall be subject to [section 49108 of this title](./chapter-491-metropolitan-washington-airports.md#section-49108) from the day after the day the order is issued.”

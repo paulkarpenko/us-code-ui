@@ -27,11 +27,13 @@ For purposes of this chapter:
 
   (B) Any member of the Armed Forces serving on active duty who is suffering from any disability described in clause (i), (ii), (iii), or (iv) of subparagraph (A) if such disability is the result of an injury incurred or disease contracted in or aggravated by active military, naval, air, or space service.
 
-(2) The term “adaptive equipment” includes, but is not limited to, power steering, power brakes, power window lifts, power seats, and special equipment necessary to assist the eligible person into and out of the automobile or other conveyance. Such term also includes (A) air-conditioning equipment when such equipment is necessary to the health and safety of the veteran and to the safety of others, regardless of whether the automobile or other conveyance is to be operated by the eligible person or is to be operated for such person by another person; and (B) any modification of the size of the interior space of the automobile or other conveyance if needed because of the physical condition of such person in order for such person to enter or operate the vehicle.
+(2) The term “adaptive equipment” includes, but is not limited to, power steering, power brakes, power window lifts, power seats, special equipment necessary to assist the eligible person into and out of the automobile or other conveyance, and nonarticulating trailers solely designed to transport powered wheelchairs, powered scooters, or other similar mobility devices. Such term also includes (A) air-conditioning equipment when such equipment is necessary to the health and safety of the veteran and to the safety of others, regardless of whether the automobile or other conveyance is to be operated by the eligible person or is to be operated for such person by another person; and (B) any modification of the size of the interior space of the automobile or other conveyance if needed because of the physical condition of such person in order for such person to enter or operate the vehicle.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Par. (2). Pub. L. 117–333 substituted “special” for “and special” and “conveyance, and nonarticulating trailers solely designed to transport powered wheelchairs, powered scooters, or other similar mobility devices.” for “conveyance.”
+
 2021—Par. (1). Pub. L. 116–283 substituted “air, or space service” for “or air service” in subpars. (A) and (B).
 
 2010—Pub. L. 111–275, § 803(b)(1), substituted “chapter:” for “chapter—” in introductory provisions.
@@ -78,7 +80,7 @@ For short title of Pub. L. 91–666, Jan. 11, 1971, 84 Stat. 1998, which enacted
 
 <a id="section-3902"></a>
 ## § 3902. Assistance for providing automobile and adaptive equipment
-**(a)** The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $18,900 (as adjusted from time to time under subsection (e)), whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
+**(a)** The Secretary, under regulations which the Secretary shall prescribe, shall provide or assist in providing an automobile or other conveyance to each eligible person by paying the total purchase price of the automobile or other conveyance (including all State, local, and other taxes) or $18,900 (as adjusted from time to time under subsection (e)),11 See Special Benefit Allowance Rates note below. whichever is the lesser, to the seller from whom the eligible person is purchasing under a sales agreement between the seller and the eligible person.
 
 **(b)**
 
@@ -157,6 +159,9 @@ Amendment by Pub. L. 95–479 effective Oct. 1, 1978, see section 401(a) of Pub.
 #### Effective Date of 1974 Amendment
 Amendment by section 3(1), (2) of Pub. L. 93–538 effective first day of second calendar month following Dec. 22, 1974, and amendment by section 3(3) of Pub. L. 93–538 effective Jan. 11, 1971, see section 6 of Pub. L. 93–538, set out as a note under [section 3901 of this title](./chapter-039-automobiles-and-adaptive-equipment-for-certain-disabled-veterans-and-members-of-the-armed-forces.md#section-3901).
 
+#### Special Benefit Allowance Rates
+For current VA special benefit allowance rates, see https://www.va.gov/disability/compensation-rates/special-benefit-allowance-rates/
+
 #### Comprehensive Policy for the Automobile Adaptive Equipment Program
 Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that: “(a) Comprehensive Policy.—The Secretary of Veterans Affairs shall develop a comprehensive policy regarding quality standards for providers who provide modification services to veterans under the automobile adaptive equipment program. “(b) Scope.—The policy developed under subsection (a) shall cover each of the following:“(1) The Department of Veterans Affairs-wide management of the automobile adaptive equipment program. “(2) The development of standards for safety and quality of equipment and installation of equipment through the automobile adaptive equipment program, including with respect to the defined differentiations in levels of modification complexity. “(3) The consistent application of standards for safety and quality of both equipment and installation throughout the Department. “(4) In accordance with subsection (c)(1), the certification of a provider by a manufacturer if the Secretary designates the quality standards of such manufacturer as meeting or exceeding the standards developed under this section. “(5) In accordance with subsection (c)(2), the certification of a provider by a third party, nonprofit organization if the Secretary designates the quality standards of such organization as meeting or exceeding the standards developed under this section. “(6) The education and training of personnel of the Department who administer the automobile adaptive equipment program. “(7) The compliance of the provider with the Americans with Disabilities Act of 1990 ([42 U.S.C. 12101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12101&num=0&edition=prelim) et seq.) when furnishing automobile adaptive equipment at the facility of the provider. “(8) The allowance, where technically appropriate, for veterans to receive modifications at their residence or location of choice, including standards that ensure such receipt and notification to veterans of the availability of such receipt. “(c) Certification of Manufacturers and Third Party, Nonprofit Organizations.—“(1) Certification of manufacturers.—The Secretary shall approve a manufacturer as a certifying manufacturer for purposes of subsection (b)(4), if the manufacturer demonstrates that its certification standards meet or exceed the quality standards developed under this section. “(2) Certification of third party, nonprofit organizations.—“(A) In general.—The Secretary may approve two or more private, nonprofit organizations as third party, nonprofit certifying organizations for purposes of subsection (b)(5). “(B) Limitation.—If at any time there is only one third party, nonprofit certifying organization approved by the Secretary for purposes of subsection (b)(5), such organization shall not be permitted to provide certifications under such subsection until such time as the Secretary approves a second third party, nonprofit certifying organization for purposes of such subsection. “(d) Updates.—“(1) Initial updates.—Not later than 1 year after the date of the enactment of this Act [Dec. 14, 2016], the Secretary shall update Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, in accordance with the policy developed under subsection (a). “(2) Subsequent updates.—Not less frequently than once every 6 years thereafter, the Secretary shall update such handbook, or any successor handbook or directive. “(e) Consultation.—The Secretary shall develop the policy under subsection (a), and revise such policy under subsection (d), in consultation with veterans service organizations, the National Highway Transportation Administration, industry representatives, manufacturers of automobile adaptive equipment, and other entities with expertise in installing, repairing, replacing, or manufacturing mobility equipment or developing mobility accreditation standards for automobile adaptive equipment. “(f) Conflicts.—In developing and implementing the policy under subsection (a), the Secretary shall—“(1) minimize the possibility of conflicts of interest, to the extent practicable; and “(2) establish procedures that ensure against the use of a certifying organization referred to in subsection (b)(5) that has a financial conflict of interest regarding the certification of an eligible provider. “(g) Biennial Report.—“(1) In general.—Not later than 1 year after the date on which the Secretary updates Veterans Health Administration Handbook 1173.4, or any successor handbook or directive, under subsection (d), and not less frequently than once every other year thereafter through 2022, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the implementation and facility compliance with the policy developed under subsection (a). “(2) Contents.—The report required by paragraph (1) shall include the following:“(A) A description of the implementation plan for the policy developed under subsection (a) and any revisions to such policy under subsection (d). “(B) A description of the performance measures used to determine the effectiveness of such policy in ensuring the safety of veterans enrolled in the automobile adaptive equipment program. “(C) An assessment of safety issues due to improper installations based on a survey of recipients of adaptive equipment from the Department. “(D) An assessment of the adequacy of the adaptive equipment services of the Department based on a survey of recipients of adaptive equipment from the Department. “(E) An assessment of the training provided to the personnel of the Department with respect to administering the program. “(F) An assessment of the certified providers of the Department of adaptive equipment with respect to meeting the minimum standards developed under subsection (b)(2). “(h) Definitions.—In this section:“(1) Automobile adaptive equipment program.—The term ‘automobile adaptive equipment program’ means the program administered by the Secretary of Veterans Affairs pursuant to chapter 39 of title 38, United States Code. “(2) Veterans service organization.—The term ‘veterans service organization’ means any organization recognized by the Secretary for the representation of veterans under [section 5902 of title 38](./chapter-059-agents-and-attorneys.md#section-5902), United States Code.”
 
@@ -165,7 +170,7 @@ Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that: “(a) Co
 ## § 3903. Limitations on assistance; special training courses
 **(a)**
 
-(1) Except as provided in paragraph (2), no eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
+(1) Except as provided in paragraphs (2) and (3), no eligible person shall be entitled to receive more than one automobile or other conveyance under the provisions of this chapter, and no payment shall be made under this chapter for the repair, maintenance, or replacement of an automobile or other conveyance.
 
 (2) The Secretary may provide or assist in providing an eligible person with a second automobile or other conveyance under this chapter if—
 
@@ -176,6 +181,12 @@ Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that: “(a) Co
     (ii) through no fault of the eligible person; and
 
   (B) the eligible person does not otherwise receive from a property insurer compensation for the loss.
+
+(3) The Secretary may provide or assist in providing an eligible person with an additional automobile or other conveyance under this chapter—
+
+  (A) if more than 30 years have elapsed since the eligible person most recently received an automobile or other conveyance under this chapter; or
+
+  (B) beginning on the day that is 10 years after date 11 So in original. Probably should be preceded by “the”. of the enactment of the Veterans Auto and Education Improvement Act of 2022, if more than 10 years have elapsed since the eligible person most recently received an automobile or other conveyance under this chapter.
 
 **(b)**
 
@@ -201,10 +212,17 @@ Pub. L. 114–256, § 3, Dec. 14, 2016, 130 Stat. 1345, provided that: “(a) Co
 
 ### Statutory Notes
 
+#### References in Text
+Date of the enactment of the Veterans Auto and Education Improvement Act of 2022, referred to in subsec. (a)(3)(B), is the date of enactment of Pub. L. 117–333, which was approved Jan. 5, 2023.
+
 #### Prior Provisions
 Provisions similar to those comprising this section were contained in former sections 1902 and 1904 of this title prior to the general revision of this chapter by Pub. L. 91–666.
 
 #### Amendments
+2023—Subsec. (a)(1). Pub. L. 117–333, § 21(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+
+Subsec. (a)(3). Pub. L. 117–333, § 21(2), added par. (3).
+
 2016—Subsec. (b). Pub. L. 114–256 designated existing provisions as par. (1) and added par. (2).
 
 2012—Subsec. (a). Pub. L. 112–154 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), no” for “No” and added par. (2).

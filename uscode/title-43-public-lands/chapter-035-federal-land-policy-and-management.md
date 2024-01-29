@@ -41,7 +41,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a)(1), (3) and (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Mining and Minerals Policy Act of 1970, referred to in subsec. (a)(12), is Pub. L. 91–631, Dec. 31, 1970, 84 Stat. 1876, which is classified to [section 21a of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section21a&num=0&edition=prelim), Mineral Lands and Mining.
 
@@ -120,7 +120,7 @@ Without altering in any way the meaning of the following terms as used in any ot
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in the opening par. and in subsec. (k), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in the opening par. and in subsec. (k), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Federal Property and Administrative Services Act of 1949, referred to in subsec. (j), is act June 30, 1949, ch. 288, 63 Stat. 377, which was substantially repealed and restated in chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C of subtitle I of Title 41, Public Contracts, by Pub. L. 107–217, §§ 1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, which Act enacted Title 40, and Pub. L. 111–350, §§ 3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855, which Act enacted Title 41. For complete classification of this Act to the Code, see Short Title of 1949 Act note set out under [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim) and Tables. For disposition of sections of former Titles 40 and 41, see Disposition Tables preceding [section 101 of Title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section101&num=0&edition=prelim) and [section 101 of Title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section101&num=0&edition=prelim).
 
@@ -195,9 +195,9 @@ Section was formerly set out as a note under [section 1701 of this title](./chap
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (c)(9), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a) and (c)(9), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The Mining Law of 1872, as amended, referred to in subsec. (e)(3), is act May 10, 1872, ch. 152, 17 Stat. 91, as amended, which was incorporated into the Revised Statutes of 1878 as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of R.S. §§ 2318–2352, see Tables.
+The Mining Law of 1872, as amended, referred to in subsec. (e)(3), is act May 10, 1872, ch. 152, 17 Stat. 91, which was incorporated into the Revised Statutes of 1878 as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of R.S. §§ 2318–2352, see Tables.
 
 #### Amendments
 2014—Subsec. (c)(9). Pub. L. 113–287 substituted “chapter 2003 of title 54” for “the Act of September 3, 1964 (78 Stat. 897), as amended”.
@@ -238,7 +238,7 @@ The Mining Law of 1872, as amended, referred to in subsec. (e)(3), is act May 10
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (g), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a) and (g), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1714"></a>
@@ -294,11 +294,11 @@ On and after the effective date of this Act, referred to in subsecs. (a) and (k)
 
 Act of February 27, 1976 (90 Stat. 199; [16 U.S.C. 668dd(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd/a&num=0&edition=prelim)), referred to in subsec. (j), is Pub. L. 94–223, Feb. 27, 1976, 90 Stat. 199, which amended [section 668dd of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section668dd&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in subsec. (j), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (j), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The Mining Law of 1872 (17 Stat. 91, as amended; [30 U.S.C. 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section22&num=0&edition=prelim) et seq.), referred to in subsec. (l)(1), is act May 10, 1972, ch. 152, 17 Stat. 91, as amended. That act was incorporated into the Revised Statutes as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344 to the Code, see Tables.
+The Mining Law of 1872 (17 Stat. 91, as amended; [30 U.S.C. 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section22&num=0&edition=prelim) et seq.), referred to in subsec. (l)(1), is act May 10, 1972, ch. 152, 17 Stat. 91. That act was incorporated into the Revised Statutes as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344 to the Code, see Tables.
 
-The Mineral Leasing Act of 1920 (41 Stat. 437, as amended; [30 U.S.C. 181](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) et seq.), referred to in subsec. (l)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act of 1920 (41 Stat. 437, as amended; [30 U.S.C. 181](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) et seq.), referred to in subsec. (l)(1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2014—Subsec. (j). Pub. L. 113–287 substituted “chapter 3203 of title 54” for “the Act of June 8, 1906 (34 Stat. 225; [16 U.S.C. 431–433](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section431–433&num=0&edition=prelim))”.
@@ -323,7 +323,7 @@ Subsec. (f). Pub. L. 103–437, § 16(d)(1)(B), substituted “Committee on Natu
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 Act of June 9, 1916, referred to in subsec. (e), is not classified to the Code.
 
@@ -395,7 +395,7 @@ Subsec. (e). Pub. L. 99–632, § 5(2), added subsec. (e).
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g), (h)(1), and (i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b), (d)(1), (e), (f)(1), (2)(B)(ii), (g), (h)(1), and (i), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 Act of January 22, 1983 (commonly known as the “Small Tracts Act”), referred to in subsec. (h)(2), is Pub. L. 97–465, Jan. 12, 1983, 96 Stat. 2535, which enacted sections 521c to 521i of Title 16, Conservation, and amended [section 484a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section484a&num=0&edition=prelim). For complete classification of this Act to the Code, see Tables.
 
@@ -426,7 +426,7 @@ No tract of land may be disposed of under this Act, whether by sale, exchange, o
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1718"></a>
@@ -437,7 +437,7 @@ The Secretary shall issue all patents or other documents of conveyance after any
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1719"></a>
@@ -467,7 +467,7 @@ At least sixty days prior to offering for sale or otherwise conveying public lan
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1721"></a>
@@ -497,9 +497,9 @@ This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743
 ### Statutory Notes
 
 #### References in Text
-The Recreation and Public Purposes Act, referred to in subsecs. (a) and (b)(1), is act June 14, 1926, ch. 578, 44 Stat. 741, as amended, which is classified to sections 869 to 869–4 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 869 of this title](./chapter-020-reservations-and-grants-to-states-for-public-purposes.md#section-869) and Tables.
+The Recreation and Public Purposes Act, referred to in subsecs. (a) and (b)(1), is act June 14, 1926, ch. 578, 44 Stat. 741, which is classified to sections 869 to 869–4 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 869 of this title](./chapter-020-reservations-and-grants-to-states-for-public-purposes.md#section-869) and Tables.
 
-Act of August 17, 1974 (88 Stat. 476; [16 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1601&num=0&edition=prelim)), referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, known as the Forest and Rangelands Renewable Resources Planning Act of 1974, which is classified generally to subchapter I (§ 1600 et seq.) chapter 36 of Title 16, Conservation. The provisions of such Act defining the lands within the National Forest System are set out in [section 1609 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1609&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
+Act of August 17, 1974 (88 Stat. 476; [16 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1601&num=0&edition=prelim)), referred to in subsec. (f), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, known as the Forest and Rangelands Renewable Resources Planning Act of 1974, which is classified generally to subchapter I (§ 1600 et seq.) chapter 36 of Title 16, Conservation. The provisions of such Act defining the lands within the National Forest System are set out in [section 1609 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1609&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 1600 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1600&num=0&edition=prelim) and Tables.
 
 Act of December 22, 1928 (45 Stat. 1069; [43 U.S.C. 1068](./chapter-25a-lands-held-under-color-of-title.md#section-1068)), as amended, referred to in subsec. (g), is act Dec. 22, 1928, ch. 47, 45 Stat. 1069, as amended, which is classified generally to chapter 25A (§ 1068 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -562,9 +562,9 @@ The effective date of this subsection, referred to in subsec. (a), probably mean
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (b)(1), and (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b)(1), and (c)(3), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (b)(5)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (b)(5)(C), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Subsec. (b)(5). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” before “of the House”.
@@ -631,7 +631,7 @@ Pub. L. 102–381, title I, Oct. 5, 1992, 106 Stat. 1378, provided in part: “T
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (b), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The Mining Law of 1872, referred to in subsec. (b), is act May 10, 1872, ch. 152, 17 Stat. 91, which was incorporated into the Revised Statutes of 1878 as R.S. §§ 2319 to 2328, 2331, 2333 to 2337, and 2344, which are classified to sections 22 to 24, 26 to 28, 29, 30, 33 to 35, 37, 39 to 42, and 47 of Title 30, Mineral Lands and Mining. For complete classification of such Revised Statutes sections to the Code, see Tables.
 
@@ -640,6 +640,9 @@ The Mining Law of 1872, referred to in subsec. (b), is act May 10, 1872, ch. 152
 
 #### Transfer of Functions
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
+
+#### Pilot Program for Native Plant Species
+Pub. L. 117–328, div. DD, title I, § 101, Dec. 29, 2022, 136 Stat. 5574, provided that: “(a) Definitions.—In this section:“(1) Invasive species.—The term ‘invasive species’ means, with respect to a particular ecosystem, a nonnative organism, the introduction of which causes or is likely to cause economic or environmental harm or harm to human, animal, or plant health. “(2) Locally adapted.—The term ‘locally adapted’ means, with respect to plants, plants that—“(A) originate from an area that is geographically proximate to a planting area; and “(B) are environmentally adapted to and likely to become established and persist in that planting area. “(3) Native plant species.—The term ‘native plant species’ means, with respect to a particular ecosystem, a species that, other than as a result of an introduction, historically occurred or currently occurs in that ecosystem. “(4) Nonnative.—The term ‘nonnative’ means, with respect to a particular ecosystem, an organism, including the seeds, eggs, spores, or other biological material of the organism capable of propagating that species, that occurs outside of the natural range of the organism. “(5) Plant material.—The term ‘plant material’ means a plant or the seeds, eggs, spores, or other biological material of a plant capable of propagating the species of the plant. “(b) Establishment.—Not later than 180 days after the date on which funds are made available to carry out this section, the Secretary [of the Interior] shall, in accordance with any existing laws and management policies, carry out a pilot program to prioritize the use of native plant species within geographically diverse units of the National Park System and public land administered by the Bureau of Land Management. “(c) Implementation.—In carrying out the pilot program under subsection (b), the Secretary shall, to the extent practicable—“(1) give preference to the use of locally adapted native plant materials where appropriate; “(2) incorporate efforts to prevent, control, or eradicate the spread of invasive species; “(3) incorporate efforts to use native plants in areas that have experienced a recent wildfire event; and “(4) identify situations in which the use of non-native plants may be warranted. “(d) Coordination.—The Secretary shall, in carrying out the pilot program under subsection (b), coordinate activities with—“(1) the National Seed Strategy of the Bureau of Land Management; “(2) the Plant Conservation Alliance; and “(3) the Plant Materials Centers of the Natural Resources Conservation Service. “(e) Termination of Authority.—The authority to carry out the pilot program under subsection (b) terminates on the date that is 5 years after the date on which the pilot program is established under that subsection. “(f) Report.—Not later than 1 year after the date on which the authority to carry out the pilot program terminates under subsection (e), the Secretary shall submit to Congress a report describing—“(1) the results of the pilot program carried out under subsection (b); and “(2) the cost-effectiveness of using native plants in units of the National Park System and public land administered by the Bureau of Land Management.”
 
 #### Management Guidelines To Prevent Wasting of Pacific Yew
 For Congressional findings relating to management guidelines to prevent wasting of Pacific yew in current and future timber sales on Federal lands, see [section 4801(a)(8) of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section4801/a/8&num=0&edition=prelim), Conservation.
@@ -671,7 +674,7 @@ Enforcement functions of Secretary or other official in Department of the Interi
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (b), and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (a), (b), and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under [section 631 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section631&num=0&edition=prelim), Judiciary and Judicial Procedure.
@@ -716,7 +719,7 @@ Section was enacted as part of the Department of the Interior and Related Agenci
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (b) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b) and (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1181a–118&num=0&edition=prelim)1j), referred to in subsec. (b), probably means act Aug. 28, 1937, ch. 876, 50 Stat. 874, which was formerly classified principally to sections 1181a to 1181f of this title prior to editorial reclassification, and is now classified principally to subchapter I (§ 2601 et seq.) of chapter 44 of this title. Section 3 of the Act, former [section 1181c of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181c), was repealed by Pub. L. 94–579, title VII, § 702, Oct. 21, 1976, 90 Stat. 2787. Sections 1181f–1 to 1181f–4 of this title, included within the parenthetical reference to sections 1181a to 1181j, were enacted by act May 24, 1939, ch. 144, 53 Stat. 753, and were editorially reclassified as subchapter II (§ 2621 et seq.) of chapter 44 of this title. Sections 1181g to 1181j of this title, also included within the parenthetical reference to sections 1181a to 1181j, were enacted by act June 24, 1954, ch. 357, 68 Stat. 270, and were editorially reclassified as subchapter III (§ 2631 et seq.) of chapter 44 of this title. For complete classification of these Acts to the Code, see Tables.
 
@@ -724,6 +727,10 @@ Act of August 28, 1937 (50 Stat. 874; [43 U.S.C. 1181a–118](https://uscode.hou
 Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321–156, 1321–158; renumbered title I, Pub. L. 104–140, § 1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That notwithstanding any provision to the contrary of section 305(a) of the Act of October 21, 1976 ([43 U.S.C. 1735(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1735/a&num=0&edition=prelim)), any moneys that have been or will be received pursuant to that section, whether as a result of forfeiture, compromise, or settlement, if not appropriate for refund pursuant to section 305(c) of that Act ([43 U.S.C. 1735(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1735/c&num=0&edition=prelim)), shall be available and may be expended under the authority of this or subsequent appropriations Acts by the Secretary to improve, protect, or rehabilitate any public lands administered through the Bureau of Land Management which have been damaged by the action of a resource developer, purchaser, permittee, or any unauthorized person, without regard to whether all moneys collected from each such forfeiture, compromise, or settlement are used on the exact lands damage to which led to the forfeiture, compromise, or settlement: Provided further, That such moneys are in excess of amounts needed to repair damage to the exact land for which collected.”
 
 Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 118–42, div. E, title I, Mar. 9, 2024, 138 Stat. 220.
+
+Pub. L. 117–328, div. G, title I, Dec. 29, 2022, 136 Stat. 4761.
 
 Pub. L. 117–103, div. G, title I, Mar. 15, 2022, 136 Stat. 349.
 
@@ -861,7 +868,7 @@ Title I of Pub. L. 102–381, 106 Stat. 1376, provided in part that: “Nothing 
 
 <a id="section-1739"></a>
 ## § 1739. Advisory councils
-**(a) Establishment; membership; operation** The Secretary shall establish advisory councils of not less than ten and not more than fifteen members appointed by him from among persons who are representative of the various major citizens’ interests concerning the problems relating to land use planning or the management of the public lands located within the area for which an advisory council is established. At least one member of each council shall be an elected official of general purpose government serving the people of such area. To the extent practicable there shall be no overlap or duplication of such councils. Appointments shall be made in accordance with rules prescribed by the Secretary. The establishment and operation of an advisory council established under this section shall conform to the requirements of the Federal Advisory Committee Act (86 Stat. 770).
+**(a) Establishment; membership; operation** The Secretary shall establish advisory councils of not less than ten and not more than fifteen members appointed by him from among persons who are representative of the various major citizens’ interests concerning the problems relating to land use planning or the management of the public lands located within the area for which an advisory council is established. At least one member of each council shall be an elected official of general purpose government serving the people of such area. To the extent practicable there shall be no overlap or duplication of such councils. Appointments shall be made in accordance with rules prescribed by the Secretary. The establishment and operation of an advisory council established under this section shall conform to the requirements of chapter 10 of title 5.
 
 **(b) Meetings** Notwithstanding the provisions of subsection (a) of this section, each advisory council established by the Secretary under this section shall meet at least once a year with such meetings being called by the Secretary.
 
@@ -874,15 +881,15 @@ Title I of Pub. L. 102–381, 106 Stat. 1376, provided in part that: “Nothing 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-This Act, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (e), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (86 Stat. 770).”
+
 1978—Subsec. (a). Pub. L. 95–514 substituted in first sentence “shall establish” for “is authorized to establish”.
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-1740"></a>
@@ -893,7 +900,7 @@ The Secretary, with respect to the public lands, shall promulgate rules and regu
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-1741"></a>
@@ -1014,7 +1021,7 @@ shall, beginning on February 1, 1977, annually file with the Secretary a written
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(1), (2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(1), (2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions in subsec. (b) of this section relating to the requirement that the Secretary report to Congress on June 1 of each calendar year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 2nd item on page 108 of House Document No. 103–7.
@@ -1082,7 +1089,7 @@ The Secretary may correct patents or documents of conveyance issued pursuant to 
 ### Statutory Notes
 
 #### References in Text
-Act of February 25, 1920, as amended, referred to in par. (1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
+Act of February 25, 1920, as amended, referred to in par. (1), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§ 181 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section181&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section is comprised of subsec. (c) of section 317 of Pub. L. 94–579. Subsecs. (a) and (b) of section 317 of Pub. L. 94–579 are classified to [section 191 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section191&num=0&edition=prelim), Mineral Lands and Mining, and a note set out under that section; respectively.
@@ -1106,7 +1113,7 @@ Pars. (3) to (11). Pub. L. 95–352 redesignated former pars. (2) and (3) as (3)
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 In subsec. (b), “[section 1110 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1110&num=0&edition=prelim)” substituted for “section 607 of the Congressional Budget Act of 1974 [[31 U.S.C. 11c](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section11c&num=0&edition=prelim)]” on authority of Pub. L. 97–258, § 4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
@@ -1498,7 +1505,7 @@ Sec. 6. Report. Within 1 year of the date of this order, and annually thereafter
 
 Sec. 7. Administration. The Department of Agriculture shall, to the extent permitted by law and subject to the availability of appropriations, provide administrative support as needed for the Wildland Fire Subcabinet to implement this order. The Departments of the Interior and Agriculture shall consult with WFLC, as appropriate, to effectively carry out the requirements of this order.
 
-Sec. 8. Federal Advisory Committee Act. The members of the Wildland Fire Subcabinet should, pursuant to and consistent with the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in the interest of obtaining advice or recommendations for the Wildland Fire Subcabinet, use their advisory committees, as appropriate.
+Sec. 8. Federal Advisory Committee Act. The members of the Wildland Fire Subcabinet should, pursuant to and consistent with the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], and in the interest of obtaining advice or recommendations for the Wildland Fire Subcabinet, use their advisory committees, as appropriate.
 
 Sec. 9. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -1941,7 +1948,7 @@ Section was enacted as part of the Agriculture Improvement Act of 2018, and not 
 ### Statutory Notes
 
 #### References in Text
-The Taylor Grazing Act (48 Stat. 1269; [43 U.S.C. 315](./chapter-8a-grazing-lands.md#section-315) et seq.), referred to in subsec. (b), is act June 28, 1934, ch. 865, 48 Stat. 1269, as amended, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of this title](./chapter-8a-grazing-lands.md#section-315) and Tables.
+The Taylor Grazing Act (48 Stat. 1269; [43 U.S.C. 315](./chapter-8a-grazing-lands.md#section-315) et seq.), referred to in subsec. (b), is act June 28, 1934, ch. 865, 48 Stat. 1269, which is classified principally to subchapter I (§ 315 et seq.) of chapter 8A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 315 of this title](./chapter-8a-grazing-lands.md#section-315) and Tables.
 
 Act of August 28, 1937, referred to in subsec. (b)(1), probably means section 4 of act Aug. 28, 1937, ch. 876, title I, 50 Stat. 875, which was formerly classified to [section 1181d of this title](./chapter-028-miscellaneous-provisions-relating-to-public-lands.md#section-1181d) prior to editorial reclassification as [section 2603 of this title](./chapter-044-oregon-and-california-railroad-and-coos-bay-wagon-road-grant-lands.md#section-2603). For complete classification of this Act to the Code, see Tables.
 
@@ -1952,9 +1959,13 @@ Subsec. (b)(2) of this section is comprised of second and third sentences of sec
 1978—Subsec. (b)(1). Pub. L. 95–514 inserted “or $10,000,000 per annum, whichever is greater” after “50 per centum” and substituted “sixteen contiguous Western States” for “eleven contiguous Western States”.
 
 #### Credit on Grazing Fee for Approved Conservation Practices
-Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 391, provided in part: “That notwithstanding section 33 of the Bankhead Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred, and that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary”.
+Pub. L. 118–42, div. E, title III, Mar. 9, 2024, 138 Stat. 265, provided in part: “That notwithstanding section 33 of the Bankhead[-]Jones Farm Tenant Act ([7 U.S.C. 1012](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1012&num=0&edition=prelim)), the Secretary of Agriculture, in calculating a fee for grazing on a National Grassland, may provide a credit of up to 50 percent of the calculated fee to a Grazing Association or direct permittee for a conservation practice approved by the Secretary in advance of the fiscal year in which the cost of the conservation practice is incurred, and that the amount credited shall remain available to the Grazing Association or the direct permittee, as appropriate, in the fiscal year in which the credit is made and each fiscal year thereafter for use on the project for conservation practices approved by the Secretary”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. G, title III, Dec. 29, 2022, 136 Stat. 4802.
+
+Pub. L. 117–103, div. G, title III, Mar. 15, 2022, 136 Stat. 391.
 
 Pub. L. 116–260, div. G, title III, Dec. 27, 2020, 134 Stat. 1518.
 
@@ -2173,9 +2184,9 @@ Section, Pub. L. 94–579, title IV, § 403, Oct. 21, 1976, 90 Stat. 2775; Pub. 
 ### Statutory Notes
 
 #### References in Text
-The Federal Power Act, referred to in subsecs. (a)(4) and (d), is act June 20, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. Part I of the Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
+The Federal Power Act, referred to in subsecs. (a)(4) and (d), is act June 20, 1920, ch. 285, 41 Stat. 1063, which is classified generally to chapter 12 (§ 791a et seq.) of Title 16, Conservation. Part I of the Act is classified generally to subchapter I (§ 791a et seq.) of chapter 12 of Title 16. For complete classification of this Act to the Code, see [section 791a of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section791a&num=0&edition=prelim) and Tables.
 
-This Act, referred to in subsecs. (b)(1) and (c)(3)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b)(1) and (c)(3)(C), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1992—Subsec. (a). Pub. L. 102–486, § 2401(1), inserted “(including public lands, as defined in [section 1702(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1702/e&num=0&edition=prelim), which are reserved from entry pursuant to section 24 of the Federal Power Act ([16 U.S.C. 818](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section818&num=0&edition=prelim)))”.
@@ -2344,7 +2355,7 @@ In order to minimize adverse environmental impacts and the proliferation of sepa
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Functions
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with land use permits for other associated land uses issued under sections 1761, and 1763 to 1771 of this title, and such functions of Secretary or other official in Department of the Interior related to compliance with land use permits for temporary use of public lands and other associated land uses, issued under sections 1732, 1761, and 1763 to 1771 of this title, with respect to pre-construction, construction, and initial operation of transportation systems for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§ 102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under [section 719e of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section719e&num=0&edition=prelim), Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by [section 720d(f) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section720d/f&num=0&edition=prelim).
@@ -2379,7 +2390,7 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 ### Statutory Notes
 
 #### References in Text
-The Rural Electrification Act of 1936, referred to in subsec. (g), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (g), is act May 20, 1936, ch. 432, 49 Stat. 1363, which is classified generally to chapter 31 (§ 901 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see [section 901 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section901&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (g). Pub. L. 104–333 substituted “eligible for financing pursuant to the Rural Electrification Act of 1936, as amended, determined without regard to any application requirement under that Act,” for “financed pursuant to the Rural Electrification Act of 1936, as amended,”.
@@ -2409,7 +2420,7 @@ Each right-of-way shall contain—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in par. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in par. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Functions
 See note set out under [section 1763 of this title](./chapter-035-federal-land-policy-and-management.md#section-1763).
@@ -2479,15 +2490,15 @@ See note set out under [section 1763 of this title](./chapter-035-federal-land-p
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 The effective date of this section, referred to in subsec. (a), probably means the date of enactment of this section by Pub. L. 94–579, which was approved Oct. 21, 1976.
 
-Act of July 2, 1890, referred to in subsec. (c)(2), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
+Act of July 2, 1890, referred to in subsec. (c)(2), is act July 2, 1890, ch. 647, 26 Stat. 209, known as the Sherman Act, which is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-Act of October 15, 1914, referred to in subsec. (c)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+Act of October 15, 1914, referred to in subsec. (c)(2), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, known as the Clayton Act, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
-The Federal Trade Commission Act, referred to in subsec. (c)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
+The Federal Trade Commission Act, referred to in subsec. (c)(2), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, which is classified generally to subchapter I (§ 41 et seq.) of chapter 2 of Title 15. For complete classification of this Act to the Code, see [section 58 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section58&num=0&edition=prelim) and Tables.
 
 Sections 73 and 74 of the Act of August 27, 1894, referred to in subsec. (c), are sections 73 and 74 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, which are classified to sections 8 and 9 of Title 15.
 
@@ -2747,7 +2758,7 @@ Pub. L. 115–334, title VIII, § 8630, Dec. 20, 2018, 132 Stat. 4865, provided 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (c)(2) and (f), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Subsec. (i) of this section, which required the Secretary to report annually to Congress on the progress in, and any problems concerning, the implementation of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, the last item on page 107 of House Document No. 103–7.
@@ -2790,9 +2801,9 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act of September 3, 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1131&num=0&edition=prelim) and Tables.
+The Wilderness Act of September 3, 1964, referred to in subsecs. (a) and (c), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1131&num=0&edition=prelim) and Tables.
 
-This Act, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (c), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 “United States Geological Survey” substituted for “Geological Survey” in subsec. (a) pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of this title](./chapter-002-united-states-geological-survey.md#section-31).
@@ -2833,9 +2844,9 @@ Pub. L. 104–134, title I, § 101(c) [title I], Apr. 26, 1996, 110 Stat. 1321�
 ### Statutory Notes
 
 #### References in Text
-The Materials Act of July 31, 1947, as amended ([30 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim), 602), referred to in subsecs. (c) and (d), is act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
+The Materials Act of July 31, 1947, as amended ([30 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim), 602), referred to in subsecs. (c) and (d), is act July 31, 1947, ch. 406, 61 Stat. 681, which is classified generally to subchapter I (§ 601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under [section 601 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section601&num=0&edition=prelim) and Tables.
 
-The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (d), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
+The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (d), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
 
 #### Codification
 Section was not enacted as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
@@ -2849,7 +2860,7 @@ Notwithstanding any other provision of law, [section 1782 of this title](./chapt
 ### Statutory Notes
 
 #### References in Text
-The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§ 1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1131&num=0&edition=prelim) and Tables.
+The Wilderness Act, referred to in text, is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, which is classified generally to chapter 23 (§ 1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1131 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1131&num=0&edition=prelim) and Tables.
 
 #### Codification
 Section was enacted as part of the Alaska National Interest Lands Conservation Act, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
@@ -2913,9 +2924,9 @@ Pub. L. 104–333, div. I, title III, § 311, Nov. 12, 1996, 110 Stat. 4139, as 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (b)(2) and (c)(1)(B), is Pub. L. 98–603, Oct. 30, 1984, 98 Stat. 3155, as amended, known as the San Juan Basin Wilderness Protection Act of 1984. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsecs. (b)(2) and (c)(1)(B), is Pub. L. 98–603, Oct. 30, 1984, 98 Stat. 3155, known as the San Juan Basin Wilderness Protection Act of 1984. For complete classification of this Act to the Code, see Tables.
 
-The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (c)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
+The Federal Land Policy and Management Act of 1976, as amended, referred to in subsec. (c)(1)(B), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of this title](./chapter-035-federal-land-policy-and-management.md#section-1701) and Tables.
 
 #### Codification
 November 12, 1996, referred to in subsec. (e)(1), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–333, which amended this section generally, to reflect the probable intent of Congress.

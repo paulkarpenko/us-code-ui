@@ -137,7 +137,12 @@ In this chapter:
 #### References in Text
 This chapter, referred to in introductory provisions and par. (16), was in the original “this subtitle”, meaning subtitle E (§§ 10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under [section 8301 of this title](./chapter-109-animal-health-protection.md#section-8301) and Tables.
 
+#### Codification
+Amendment by Pub. L. 117–328 is based on section 4 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by section 603 of Pub. L. 117–328.
+
 #### Amendments
+2022—Par. (8). Pub. L. 117–328 made technical amendment to reference in original act which appears in text as reference to [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
+
 2018—Par. (18). Pub. L. 115–334 added par. (18).
 
 #### Transfer of Functions
@@ -535,7 +540,7 @@ Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided tha
 
       (III) the movement of animals in the State or region.
 
-(5) **Consultation** — For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to consultation carried out under this paragraph.
+(5) **Consultation** — For purposes of setting priorities under this subsection, the Secretary shall consult with eligible entities specified in paragraph (3). The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to consultation carried out under this paragraph.
 
 (6) **Application**
 
@@ -614,7 +619,7 @@ Pub. L. 113–79, title XII, § 12107, Feb. 7, 2014, 128 Stat. 982, provided tha
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
 2018—Pub. L. 115–334, § 12101(b)(1), substituted “Animal disease prevention and management” for “National animal health laboratory network” in section catchline.

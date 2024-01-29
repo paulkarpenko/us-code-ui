@@ -83,12 +83,12 @@ As used in this subchapter—
 <a id="section-5705"></a>
 ## § 5705. Exemption
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel, the Yukon River Joint Technical Committee, or the Advisory Committee created under [section 5704 of this title](./chapter-077-yukon-river-salmon.md#section-5704).
+Chapter 10 of title 5 shall not apply to the Panel, the Yukon River Joint Technical Committee, or the Advisory Committee created under [section 5704 of this title](./chapter-077-yukon-river-salmon.md#section-5704).
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-5706"></a>
@@ -211,12 +211,12 @@ For short title of this subchapter as the “Yukon River Salmon Act of 2000”, 
 <a id="section-5723"></a>
 ## § 5723. Exemption
 
-The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Panel or to an advisory committee established under [section 5722 of this title](./chapter-077-yukon-river-salmon.md#section-5722).
+Chapter 10 of title 5 shall not apply to the Panel or to an advisory committee established under [section 5722 of this title](./chapter-077-yukon-river-salmon.md#section-5722).
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in text, is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
 
 
 <a id="section-5724"></a>

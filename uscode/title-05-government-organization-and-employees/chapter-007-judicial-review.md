@@ -41,7 +41,7 @@ source: >-
 | Historical and Revision Notes |  |  |
 | --- | --- | --- |
 | Derivation | U.S. Code | Revised Statutes and Statutes at Large |
-| (a) | [5 U.S.C. 1009](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009&num=0&edition=prelim) (introductory clause). | June 11, 1946, ch. 324, § 10 (introductory clause), 60 Stat. 243. |
+| (a) | [5 U.S.C. 1009](./chapter-010-federal-advisory-committees.md#section-1009) (introductory clause). | June 11, 1946, ch. 324, § 10 (introductory clause), 60 Stat. 243. |
 
 In subsection (a), the words “This chapter applies, according to the provisions thereof,” are added to avoid the necessity of repeating the introductory clause of former section 1009 in sections 702–706.
 

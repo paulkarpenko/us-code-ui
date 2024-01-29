@@ -186,9 +186,9 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 (2) Hand or measuring tools.
 
-(3) 11 See Repeal of Subsection (b)(3) and (4) note below. Stainless steel flatware.
+(3) , (4) Repealed. Pub. L. 116–92, div. A, title VIII, § 854(a)(3), Dec. 20, 2019, 133 Stat. 1512.]
 
-(4) 1 Dinnerware.
+(5) A flag of the United States.
 
 **(c) Availability Exception.—** Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 
@@ -222,9 +222,21 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 **(h) Exception for Small Purchases.—**
 
-(1) Subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
+(1) Except with respect to purchases of flags of the United States, subsection (a) does not apply to purchases for amounts not greater than $150,000. A proposed procurement of an item in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
 
-(2) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.
+(2)
+
+  (A)
+
+    (i) Except as provided by subparagraph (B), subsection (a) does not apply to purchases of flags of the United States for amounts not greater than $10,000.
+
+    (ii) A proposed procurement in an amount greater than $10,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for the exception under clause (i).
+
+  (B) The Secretary of Defense may waive subsection (a) with respect to a purchase of flags of the United States in an amount greater than $10,000 if the Secretary of Defense determines such waiver appropriate.
+
+  (C) This section is applicable to contracts and subcontracts for the procurement of flags of the United States.
+
+(3) On October 1 of each year that is evenly divisible by five, the Secretary of Defense may adjust the dollar threshold in this subsection based on changes in the Consumer Price Index. Any such adjustment shall take effect on the date on which the Secretary publishes notice of such adjustment in the Federal Register.
 
 **(i) Applicability to Contracts and Subcontracts for Procurement of Commercial Products.—** This section is applicable to contracts and subcontracts for the procurement of commercial products notwithstanding [section 1906 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section1906&num=0&edition=prelim).
 
@@ -234,10 +246,13 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 ### Statutory Notes
 
-#### Repeal of Subsection (b)(3) and (4)
-Pub. L. 116–92, div. A, title VIII, § 854(a)(3), Dec. 20, 2019, 133 Stat. 1512, provided that, effective Sept. 30, 2023, paragraphs (3) and (4) of subsection (b) of this section are repealed.
-
 #### Amendments
+2023—Subsec. (b)(5). Pub. L. 118–31, § 832(a)(1), added par. (5).
+
+Subsec. (h)(1). Pub. L. 118–31, § 832(a)(2)(A), substituted “Except with respect to purchases of flags of the United States, subsection (a)” for “Subsection (a)”.
+
+Subsec. (h)(2), (3). Pub. L. 118–31, § 832(a)(2)(B), (C), added par. (2) and redesignated former par. (2) as (3).
+
 2021—Pub. L. 116–283, § 1870(c)(2), renumbered [section 2533a of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533a) as this section.
 
 Subsec. (d)(4). Pub. L. 117–81, which directed substitution of “section 3204(a)(2)” for “section 2304(c)(2)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
@@ -286,6 +301,9 @@ Subsec. (f). Pub. L. 108–136, § 827, substituted “Exceptions for Certain Ot
 
 for “Exception for Certain Foods.—Subsection (a) does not preclude the procurement of foods”, and added par. (2).
 
+#### Effective Date of 2023 Amendment
+Pub. L. 118–31, div. A, title VIII, § 832(b), Dec. 22, 2023, 137 Stat. 337, provided that: “The amendments made by subsection (a) [amending this section] shall apply only with respect to agreements entered into on or after the date of the enactment of this Act [Dec. 22, 2023].”
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
@@ -302,11 +320,17 @@ Pub. L. 109–364, div. A, title VIII, § 842(a)(4)(B), Oct. 17, 2006, 120 Stat.
 #### Short Title
 This section is popularly known as the “Berry Amendment”.
 
-#### Appropriations for United States flags
-Pub. L. 117–103, div. C, title VIII, § 8038, Mar. 15, 2022, 136 Stat. 183, provided that: “None of the funds made available in this Act [div. C of Pub. L. 117–103, see Tables for classification], or any subsequent Act making appropriations for the Department of Defense, may be used for the purchase or manufacture of a flag of the United States unless such flags are treated as covered items under [section 2533a(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533a/b&num=0&edition=prelim), United States Code [now [10 U.S.C. 4862(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4862/b&num=0&edition=prelim)].”
+#### Appropriations for United States Flags
+Pub. L. 118–47, div. A, title VIII, § 8037, Mar. 23, 2024, 138 Stat. 491, provided that: “None of the funds made available in this Act [div. A of Pub. L. 118–47, see Tables for classification], or any subsequent Act making appropriations for the Department of Defense, may be used for the purchase or manufacture of a flag of the United States unless such flags are treated as covered items under [section 4862(b) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4862/b&num=0&edition=prelim), United States Code.”
+
+Similar provisions were contained in the following appropriation acts:
+
+Pub. L. 117–328, div. C, title VIII, § 8037, Dec. 29, 2022, 136 Stat. 4595.
+
+Pub. L. 117–103, div. C, title VIII, § 8038, Dec. 29, 2022, 136 Stat. 183.
 
 #### Periodic Audits of Contracting Compliance by Inspector General of Department of Defense
-Pub. L. 113–66, div. A, title XVI, § 1601, Dec. 26, 2013, 127 Stat. 941, provided that: “(a) Requirement for Periodic Audits of Contracting Compliance.—The Inspector General of the Department of Defense shall conduct periodic audits of contracting practices and policies related to procurement under [section 2533a of title 10](./chapter-chapter-148-chapter-chapter-148.md#section-2533a), United States Code [now [10 U.S.C. 4862](./chapter-385-other-technology-base-policies-and-programs.md#section-4862)]. “(b) Requirement for Additional Information in Semiannual Reports.—The Inspector General of the Department of Defense shall ensure that findings and other information resulting from audits conducted pursuant to subsection (a) are included in the semiannual report transmitted to congressional committees under section 8(f)(1) of the Inspector General Act of 1978 (5 U.S.C. App.).”
+Pub. L. 113–66, div. A, title XVI, § 1601, Dec. 26, 2013, 127 Stat. 941, as amended by Pub. L. 117–286, § 4(b)(29), Dec. 27, 2022, 136 Stat. 4346, provided that: “(a) Requirement for Periodic Audits of Contracting Compliance.—The Inspector General of the Department of Defense shall conduct periodic audits of contracting practices and policies related to procurement under [section 2533a of title 10](./chapter-chapter-148-chapter-chapter-148.md#section-2533a), United States Code [now [10 U.S.C. 4862](./chapter-385-other-technology-base-policies-and-programs.md#section-4862)]. “(b) Requirement for Additional Information in Semiannual Reports.—The Inspector General of the Department of Defense shall ensure that findings and other information resulting from audits conducted pursuant to subsection (a) are included in the semiannual report transmitted to congressional committees under [section 408(f)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section408/f/1&num=0&edition=prelim), United States Code.”
 
 #### Fire Resistant Rayon Fiber
 Pub. L. 110–181, div. A, title VIII, § 829, Jan. 28, 2008, 122 Stat. 229, as amended by Pub. L. 111–383, div. A, title VIII, § 821(a), Jan. 7, 2011, 124 Stat. 4267; Pub. L. 112–81, div. A, title VIII, § 822, Dec. 31, 2011, 125 Stat. 1502, provided that: “(a) Authority To Procure.—The Secretary of Defense may procure fire resistant rayon fiber for the production of uniforms that is manufactured in a foreign country referred to in subsection (d) if the Secretary determines either of the following:“(1) That fire resistant rayon fiber for the production of uniforms is not available from sources within the national technology and industrial base. “(2) That—“(A) procuring fire resistant rayon fiber manufactured from suppliers within the national technology and industrial base would result in sole-source contracts or subcontracts for the supply of fire resistant rayon fiber; and “(B) such sole-source contracts or subcontracts would not be in the best interests of the Government or consistent with the objectives of [section 2304 of title 10](./chapter-chapter-137-chapter-chapter-137.md#section-2304), United States Code [see [10 U.S.C. 3201](./chapter-221-planning-and-solicitation-generally.md#section-3201) et seq.]. “(b) Submission to Congress.—Not later than 30 days after making a determination under subsection (a), the Secretary shall submit to Congress a copy of the determination. “(c) Applicability to Subcontracts.—The authority under subsection (a) applies with respect to subcontracts under Department of Defense contracts as well as to such contracts. “(d) Foreign Countries Covered.—The authority under subsection (a) applies with respect to a foreign country that—“(1) is a party to a defense memorandum of understanding entered into under [section 2531 of title 10](./chapter-chapter-148-chapter-chapter-148.md#section-2531), United States Code [now [10 U.S.C. 4851](./chapter-385-other-technology-base-policies-and-programs.md#section-4851)]; and “(2) does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country. “(e) National Technology and Industrial Base Defined.—In this section, the term ‘national technology and industrial base’ has the meaning given that term in [section 2500 of title 10](./chapter-chapter-148-chapter-chapter-148.md#section-2500), United States Code [now [10 U.S.C. 4801](./chapter-381-defense-industrial-base-generally.md#section-4801)].”
@@ -352,7 +376,7 @@ Pub. L. 108–287, title VIII, § 8118, Aug. 5, 2004, 118 Stat. 998, as amended 
 
 **(f) Exception for Small Purchases.—** Subsection (a) does not apply to acquisitions in amounts not greater than the simplified acquisition threshold referred to in [section 3205 of this title](./chapter-221-planning-and-solicitation-generally.md#section-3205).
 
-**(g) Exception for Purchases of Electronic Components.—** Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to [section 187 of this title](./chapter-007-boards-councils-and-committees.md#section-187), determines that the domestic availability of a particular electronic component is critical to national security.
+**(g) Exception for Purchases of Electronic Components.—** Subsection (a) does not apply to acquisitions of electronic components, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–1&num=0&edition=prelim)), determines that the domestic availability of a particular electronic component is critical to national security.
 
 **(h) Applicability to Acquisitions of Commercial Products.—**
 
@@ -460,7 +484,42 @@ Pub. L. 108–287, title VIII, § 8118, Aug. 5, 2004, 118 Stat. 998, as amended 
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 118–31, div. A, title VIII, § 833, Dec. 22, 2023, 137 Stat. 337, provided that, effective 24 months after Dec. 22, 2023, this section is amended as follows:
+
+(1) in subsection (d), by striking “; and” in paragraph (1)(B) and inserting a semicolon, by striking the period at the end of paragraph (2) and inserting “; and”, and by adding at the end the following new paragraph:
+
+“(3) any specialty metal procured as mill product or incorporated into a component other than an end item pursuant to this subsection shall be melted or produced—
+
+“(A) in the United States;
+
+“(B) in the country from which the mill product or component is procured; or
+
+“(C) in another country covered under subparagraph (1)(B).”; and
+
+(2) by redesignating subsections (l) and (m) as subsections (m) and (n), respectively, and by inserting after subsection (k) the following new subsection:
+
+(l) Provenance of Aerospace-grade Metals.—(1) The Secretary of Defense shall require that, for any system or component for which the provenance of materials must be tracked to comply with safety regulations concerning flight, the supplier of such system or component shall inform the government if any of the materials were known to be manufactured or processed in—
+
+(A) China;
+
+(B) Iran;
+
+(C) North Korea; or
+
+(D) Russia.
+
+(2) Not later than March 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report indicating how much specialty metal has been acquired and placed into systems of the Department of Defense from the countries described in paragraph (1).
+
+See 2023 Amendment notes below.
+
 #### Amendments
+2023—Subsec. (d)(3). Pub. L. 118–31, § 833(a)(1), added par. (3).
+
+Subsecs. (l) to (n). Pub. L. 118–31, § 833(a)(2), (3), added subsec. (l) and redesignated former subsecs. (l) and (m) as (m) and (n), respectively.
+
+2022—Subsec. (g). Pub. L. 117–263 substituted “Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–1&num=0&edition=prelim))” for “Strategic Materials Protection Board pursuant to [section 187 of this title](./chapter-007-boards-councils-and-committees.md#section-187)”.
+
 2021—Pub. L. 116–283, § 1870(c)(2), renumbered [section 2533b of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533b) as this section.
 
 Subsec. (c)(2). Pub. L. 117–81, § 1701(d)(18)(A), which directed the substitution of “section 3204(a)(2)” for “section 2304(c)(2)”, could not be executed because of the intervening amendment by Pub. L. 116–283, § 1883(b)(2). See note below.
@@ -515,6 +574,9 @@ Subsecs. (i) to (m). Pub. L. 110–181, § 804(d), added subsecs. (i) to (k) and
 
 Subsec. (m)(3) to (10). Pub. L. 110–181, § 804(e), as amended by Pub. L. 111—383, § 1075(f)(2)(B), added pars. (3) to (10).
 
+#### Effective Date of 2023 Amendment
+Pub. L. 118–31, div. A, title VIII, § 833(b), Dec. 22, 2023, 137 Stat. 337, provided that: “Subsection (a) [amending this section] shall take effect on the date that is 24 months after the date of the enactment of this Act [Dec. 22, 2023].”
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–81 to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 have taken effect, see section 1701(a)(3) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below.
 
@@ -553,9 +615,9 @@ Pub. L. 110–181, div. A, title VIII, § 884, Jan. 28, 2008, 122 Stat. 264, pro
 
   (F) Welded shipboard anchor and mooring chain.
 
-(3) **Components for auxiliary ships.—** — Subject to subsection (k),11 So in original. Probably should be “subsection (l),”. See References in Text note below. large medium-speed diesel engines.
+(3) **Components for auxiliary ships.—** — Subject to subsection (k), large medium-speed diesel engines.
 
-(4) **Components for t–ao 205 class vessels.—** — The following components of T–AO 205 class vessels:
+(4) **Components for t–ao 205 and t–arc class vessels.—** — The following components of T–AO 205 and T–ARC class vessels:
 
   (A) Auxiliary equipment, including pumps, for all shipboard services.
 
@@ -677,7 +739,29 @@ Pub. L. 110–181, div. A, title VIII, § 884, Jan. 28, 2008, 122 Stat. 264, pro
 
 (4) **Recommendations for legislation.—** — For applications recommended under subsection (3), the official designated pursuant to paragraph (2)(A) shall be responsible for preparing a legislative proposal for consideration by the Secretary.
 
-**(l) 22 So in original. There is no subsec. (k). Implementation of Auxiliary Ship Component Limitation.—** Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term “auxiliary ship” does not include an icebreaker or a special mission ship.
+**(k) Implementation of Auxiliary Ship Component Limitation.—** Subsection (a)(3) applies only with respect to contracts awarded by the Secretary of a military department for new construction of an auxiliary ship after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2020 using funds available for National Defense Sealift Fund programs or Shipbuilding and Conversion, Navy. For purposes of this subsection, the term “auxiliary ship” does not include an icebreaker or a special mission ship.
+
+**(l) Periodic Review.—**
+
+(1) **Recommendation.—** — Not later than November 1, 2024, and every five years thereafter, the Under Secretary of Defense for Acquisition and Sustainment shall review each item described in subsections (a) and (e) of this section and submit to the congressional defense committees, in writing, one of the following recommendations:
+
+  (A) Recommend continued inclusion of the item under this section.
+
+  (B) Recommend continued inclusion of the item under this section with modifications.
+
+  (C) Recommend discontinuing inclusion of the item under this section.
+
+(2) **Elements.—** — Each review required under paragraph (1) shall include, with respect to the five-year period preceding the date of submission of the written determination related to such a review, the following elements:
+
+  (A) The criticality of the item reviewed to a military unit’s mission accomplishment or other national security objectives.
+
+  (B) The extent to which such item is fielded in current programs of record.
+
+  (C) The number of such items to be procured by current programs of record.
+
+  (D) The extent to which cost and pricing data for such item has been deemed fair and reasonable.
+
+(3) **Justification.—** — The written determination required under paragraph (1) shall also include the findings of the applicable review conducted under such paragraph and any key justifications for the recommendation.
 
 ### Statutory Notes
 
@@ -689,11 +773,13 @@ Pub. L. 110–181, div. A, title VIII, § 884, Jan. 28, 2008, 122 Stat. 264, pro
 The words “of the United States under the provisions of this Act or the provisions of any other law” are omitted as surplus. The word “acquisition” is substituted for “purchase, lease, rental, or other acquisition” because it is inclusive. The words “this section” are substituted for “this prohibition” because of the restatement.
 
 #### References in Text
-Subsection (k), referred to in subsec. (a)(3), probably should be a reference to subsec. (l). Prior to amendment by Pub. L. 116–283, this section contained two subsecs. (k). Section 845(a)(8) of Pub. L. 116–283 redesignated the subsec. (k) relating to limitation on certain procurements application process as (j), but the reference in subsec. (a)(3) was probably to the subsec. (k) relating to implementation of auxiliary ship component limitation, which was redesignated as subsec. (l) by section 1870(c)(4) of Pub. L. 116–283.
-
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (l), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2020, referred to in subsec. (k), is the date of enactment of Pub. L. 116–92, which was approved Dec. 20, 2019.
 
 #### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–263, § 853(a)(2), inserted “and T–ARC” after “T–AO 205” in heading and introductory provisions in text.
+
+Subsecs. (k), (l). Pub. L. 117–263, §§ 852, 853(a)(1) added subsec. (l) and redesignated former subsec. (l) as (k).
+
 2021—Pub. L. 116–283, § 1870(c)(2), renumbered [section 2534 of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2534) as this section.
 
 Subsec. (a)(2). Pub. L. 116–283, § 845(a)(1)(A),(B), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “Chemical weapons antidote contained in automatic injectors (and components for such injectors).”
@@ -849,6 +935,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 #### Effective Date of 1992 Amendment
 Pub. L. 102–484, div. A, title VIII, § 833(b), Oct. 23, 1992, 106 Stat. 2461, provided that: “Subsection (f) of [section 2534 of title 10](./chapter-chapter-148-chapter-chapter-148.md#section-2534), United States Code, as added by subsection (a) [see, now, [10 U.S.C. 4864(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4864/e&num=0&edition=prelim)], shall apply with respect to solicitations for contracts issued after the expiration of the 120-day period beginning on the date of the enactment of this Act [Oct. 23, 1992].”
 
+#### Regulations
+Pub. L. 117–263, div. A, title VIII, § 853(b), Dec. 23, 2022, 136 Stat. 2722, provided that: “Not later than June 1, 2023, the Secretary of Defense shall issue regulations for carrying out [section 4864(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4864/j&num=0&edition=prelim), United States Code.”
+
 #### Review of Select Components
 Pub. L. 116–283, div. A, title VIII, § 845(b), Jan. 1, 2021, 134 Stat. 3767, provided that: “The Secretary of the Defense shall expedite the review period under paragraph (3)(B) of [section 2534(j) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2534/j&num=0&edition=prelim), United States Code [now [10 U.S.C. 4864(j)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4864/j&num=0&edition=prelim)], as redesignated by subsection (a), to not more than 60 days for applications submitted pursuant to such section 2534(j) [now 4864(j)] for the following components for auxiliary ships: “(1) Auxiliary equipment, including pumps, for all shipboard services. “(2) Propulsion system components, including engines, reduction gears, and propellers. “(3) Shipboard cranes. “(4) Spreaders for shipboard cranes.”
 
@@ -963,7 +1052,9 @@ Pub. L. 99–500, § 101(c) [title X, § 951(c)], Oct. 18, 1986, 100 Stat. 1783�
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
-Pub. L. 116–92, div. A, title VIII, § 848, Dec. 20, 2019, 133 Stat. 1508, provided that: “(a) Prohibition on Agency Operation or Procurement.—The Secretary of Defense may not operate or enter into or renew a contract for the procurement of—“(1) a covered unmanned aircraft system that—“(A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or “(D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or “(2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of covered unmanned aircraft systems. “(b) Exemption.—The Secretary of Defense is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of—“(1) Counter-UAS surrogate testing and training; or “(2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training. “(c) Waiver.—The Secretary of Defense may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the operation or procurement is required in the national interest of the United States. “(d) Definitions.—In this section:“(1) Covered foreign country.—The term ‘covered foreign country’ means the People’s Republic of China. “(2) Covered unmanned aircraft system.—The term ‘covered unmanned aircraft system’ means an unmanned aircraft system and any related services and equipment.”
+Pub. L. 116–92, div. A, title VIII, § 848, Dec. 20, 2019, 133 Stat. 1508, as amended by Pub. L. 117–263, div. A, title VIII, § 817(a), Dec. 23, 2022, 136 Stat. 2707, provided that: “(a) Prohibition on Agency Operation or Procurement.—The Secretary of Defense may not operate or enter into or renew a contract for the procurement of—“(1) a covered unmanned aircraft system that—“(A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or “(D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or “(2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of covered unmanned aircraft systems. “(b) Prohibition on Certain Contracts.—The Secretary of Defense may not enter into a contract (or extend or renew a contract) on or after October 1, 2024, with an entity that operates (as determined by the Secretary or the Secretary’s designee) equipment from a covered unmanned aircraft system company in the performance of a Department of Defense contract. “(c) Exemption.—The Secretary of Defense is exempt from any restrictions under subsection (a) or (b) if the operation, procurement, or contracting action is for the purposes of—“(1) Counter-UAS surrogate testing and training; or “(2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training. “(d) Waiver.—The Secretary of Defense (or the Secretary’s designee) may waive any restrictions under subsections (a) or (b) by certifying in writing to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] that the operation, procurement, or contracting action is required in the national interest of the United States. “(e) Definitions.—In this section:“(1) Covered foreign country.—The term ‘covered foreign country’ means any of the following:“(A) the People’s Republic of China. “(B) The Russian Federation. “(C) The Islamic Republic of Iran. “(D) The Democratic People’s Republic of Korea. “(2) Covered unmanned aircraft system.—The term ‘covered unmanned aircraft system’ means an unmanned aircraft system and any related services and equipment. “(3) Covered unmanned aircraft system company.—The term ‘covered unmanned aircraft system company’ means any of the following:“(A) Da-Jiang Innovations (or any subsidiary or affiliate of Da-Jiang Innovations). “(B) Any entity that produces or provides unmanned aircraft systems and is included on Consolidated Screening List maintained by the International Trade Administration of the Department of Commerce. “(C) Any entity that produces or provides unmanned aircraft systems and—“(i) is domiciled in a covered foreign country; or “(ii) is subject to unmitigated foreign ownership, control or influence by a covered foreign country, as determined by the Secretary of Defense unmitigated foreign ownership, control or influence in accordance with the National Industrial Security Program (or any successor to such program).”
+
+[Pub. L. 117–263, div. A, title VIII, § 817(b), Dec. 23, 2022, 136 Stat. 2708, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Defense shall issue policy to— [“(1) implement the requirements of section 848 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; [10 U.S.C. 4871](./chapter-385-other-technology-base-policies-and-programs.md#section-4871) note), as amended by this section, including by establishing a due diligence process for the Department of Defense to make determinations required by subsection (b) of such section 848 (as amended by this section); and [“(2) establish an appeal process for any offerors or awardees with which the Secretary has not entered into a contract or has not extended or renewed a contract pursuant to subsection (b) of such section 848 (as amended by this section).” ]
 
 #### Elimination of Unreliable Sources of Defense Items and Components
 Pub. L. 108–136, div. A, title VIII, § 821, Nov. 24, 2003, 117 Stat. 1546, provided that: “(a) Identification of Certain Countries.—The Secretary of Defense, in coordination with the Secretary of State, shall identify and list foreign countries that restrict the provision or sale of military goods or services to the United States because of United States counterterrorism or military operations after the date of the enactment of this Act [Nov. 24, 2003]. The Secretary shall review and update the list as appropriate. The Secretary may remove a country from the list, if the Secretary determines that doing so would be in the interest of national defense. “(b) Prohibition on Procurement of Items From Identified Countries.—The Secretary of Defense may not procure any items or components contained in military systems if the items or components, or the systems, are manufactured in any foreign country identified under subsection (a). “(c) Waiver Authority.—The Secretary of Defense may waive the limitation in subsection (b) if the Secretary determines in writing and notifies Congress that the Department of Defense’s need for the item is of such an unusual and compelling urgency that the Department would be unable to meet national security objectives. “(d) Effective Date.—(1) Subject to paragraph (2), subsection (b) applies to contracts in existence on the date of the enactment of this Act [Nov. 24, 2003] or entered into after such date. “(2) With respect to contracts in existence on the date of the enactment of this Act, the Secretary of Defense shall take such action as is necessary to ensure that such contracts are in compliance with subsection (b) not later than 24 months after such date.”
@@ -983,9 +1074,13 @@ Pub. L. 108–136, div. A, title VIII, § 821, Nov. 24, 2003, 117 Stat. 1546, pr
 
 **(b) Applicability.—** Subsection (a) shall apply to prime contracts and subcontracts at any tier.
 
-**(c) Exceptions.—** Subsection (a) does not apply under the following circumstances:
+**(c) Exceptions.—** Subsection (a)(1) does not apply under the following circumstances:
 
-(1) If the Secretary of Defense determines that covered materials of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price.
+(1) If the Secretary of Defense—
+
+  (A) identifies a specific end item for which a specific covered material of satisfactory quality and quantity, in the required form, cannot be procured as and when needed at a reasonable price; and
+
+  (B) waives subsection (a)(1) for such specific end item and such specific covered material for a period not exceeding 36 months.
 
 (2) To the procurement of an end item described in subsection (a)(1) or the sale of any covered material described under subsection (a)(1) by the Secretary outside of the United States for use outside of the United States.
 
@@ -997,7 +1092,7 @@ Pub. L. 108–136, div. A, title VIII, § 821, Nov. 24, 2003, 117 Stat. 1546, pr
 
     (ii) a mill product, such as bar, billet, slab, wire, cube, sphere, block, blank, plate, or sheet, that has not been incorporated into an end item, subsystem, assembly, or component;
 
-  (B) an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic Materials Protection Board pursuant to [section 187 of this title](./chapter-007-boards-councils-and-committees.md#section-187), determines that the domestic availability of a particular electronic device is critical to national security; or
+  (B) an electronic device, unless the Secretary of Defense, upon the recommendation of the Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–1&num=0&edition=prelim)), determines that the domestic availability of a particular electronic device is critical to national security; or
 
   (C) a neodymium-iron-boron magnet manufactured from recycled material if the milling of the recycled material and sintering of the final magnet takes place in the United States.
 
@@ -1030,7 +1125,7 @@ Pub. L. 108–136, div. A, title VIII, § 821, Nov. 24, 2003, 117 Stat. 1546, pr
 ### Statutory Notes
 
 #### Amendment of Subsections (a)(1) and (c)(3)(A)(i)
-Pub. L. 116–283, div. A, title VIII, § 844, Jan. 1, 2021, 134 Stat. 3766, provided that, effective 5 years after Jan. 1, 2021, [section 2533c of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533c), which is now this section, is amended as follows:
+Pub. L. 116–283, div. A, title VIII, § 844, Jan. 1, 2021, 134 Stat. 3766, provided that, effective 6 years after Jan. 1, 2021, [section 2533c of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533c), which is now this section, is amended as follows:
 
 (1) in subsection (a)(1), by striking “material melted” and inserting “material mined, refined, separated, melted,”; and
 
@@ -1044,6 +1139,12 @@ Pub. L. 116–283, § 1870(d)(2), which had initially directed the transfer of [
 Amendments by section 844(a) of Pub. L. 116–283, which were directed to [section 2533c of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533c) effective 5 years after Jan. 1, 2021, are to be executed to this section, to reflect the probable intent of Congress and the renumbering of section 2533c as this section by Pub. L. 116–283, as amended by Pub. L. 117–81, effective Jan. 1, 2022.
 
 #### Amendments
+2023—Subsec. (c). Pub. L. 118–31, § 834(1), substituted “Subsection (a)(1)” for “Subsection (a)” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 118–31, § 834(2), substituted “Defense—” for “Defense determines that covered materials”, inserted subpar. (A) designation and “identifies a specific end item for which a specific covered material” before “of satisfactory quality”, and added subpar. (B).
+
+2022—Subsec. (c)(3)(B). Pub. L. 117–263 substituted “Strategic and Critical Materials Board of Directors pursuant to section 10 of the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98h–1](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–1&num=0&edition=prelim))” for “Strategic Materials Protection Board pursuant to [section 187 of this title](./chapter-007-boards-councils-and-committees.md#section-187)”.
+
 2021—Pub. L. 116–283, § 1870(d)(3)(B), as amended by Pub. L. 117–81, § 1701(t)(3), amended section catchline generally. Prior to amendment, section catchline read as follows: “Prohibition on acquisition of sensitive materials from non-allied foreign nations”.
 
 Pub. L. 116–283, § 1870(d)(2), as amended by Pub. L. 117–81, § 1701(t)(2)(B), (C), renumbered [section 2533c of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533c) as this section.
@@ -1061,18 +1162,123 @@ Subsec. (d)(1)(E). Pub. L. 116–92, § 849(b), added subpar. (E).
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–81 applicable as if included in the enactment of title XVIII of Pub. L. 116–283 as enacted, see section 1701(a)(2) of Pub. L. 117–81, set out in a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001) and note below for section 1870(d)(2), (3) of Pub. L. 116–283.
 
-Pub. L. 116–283, div. A, title VIII, § 844(b), Jan. 1, 2021, 134 Stat. 3766, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 5 years after the date of the enactment of this Act [Jan. 1, 2021].”
+Pub. L. 116–283, div. A, title VIII, § 844(b), Jan. 1, 2021, 134 Stat. 3766, as amended by Pub. L. 118–31, div. A, title VIII, § 854, Dec. 22, 2023, 137 Stat. 345, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 6 years after the date of the enactment of this Act [Jan. 1, 2021].”
 
 Amendment by section 1870(d)(2), (3) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 
 <a id="section-4873"></a>
-## § 4873. Additional requirements pertaining to printed circuit boards]
+## § 4873. Additional requirements pertaining to printed circuit boards
+**(a) In General.—**
+
+(1) Beginning on the date determined under paragraph (3), the Secretary of Defense may not acquire a covered printed circuit board from a covered nation.
+
+(2) Paragraph (1) shall not apply with respect to any acquisition of supplies or services below the micro-purchase threshold under [section 3573 of this title](./chapter-251-simplified-acquisition-procedures.md#section-3573).
+
+(3) Paragraph (1) shall take effect on January 1, 2027.
+
+**(b) Waiver.—**
+
+(1) The Secretary may waive the prohibition under subsection (a) if the Secretary determines in writing that—
+
+  (A) there are no significant national security concerns regarding counterfeiting, quality, or unauthorized access created by such waiver;
+
+  (B) the waiver is required to support national security; and
+
+  (C) a covered printed circuit board of satisfactory quality and sufficient quantity, in the required form, cannot be procured as and when needed from nations other than a covered nation at reasonable cost, excluding comparisons with non-market economies.
+
+(2) Not later than 10 days after the Secretary provides a waiver under paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notice setting forth the reasoning for the waiver, together with a copy of the waiver itself.
+
+**(c) Definitions.—** In this section:
+
+(1) **Covered nation.—** — The term “covered nation” means—
+
+  (A) the Democratic People’s Republic of North Korea;
+
+  (B) the People’s Republic of China;
+
+  (C) the Russian Federation; and
+
+  (D) the Islamic Republic of Iran.
+
+(2) **Covered printed circuit board.—** — The term “covered printed circuit board” means any specified type of partially manufactured or complete bare printed circuit board or fully or partially assembled printed circuit board that—
+
+  (A) performs a mission critical function in any product or service that is not a commercial product or commercial service; or
+
+  (B) is a component of—
+
+    (i) a defense security system; or
+
+    (ii) a system, other than a defense security system, that transmits or stores information and which the Secretary identifies as national security sensitive in the contract under which such printed circuit board is acquired.
+
+(3) **Secretary.—** — The term “Secretary” means the Secretary of Defense.
+
+(4) **Commercial product; commercial service; commercially available off-the shelf item.—** — The terms “commercial product”, “commercial service”, and “commercially available off-the-shelf item” have the meanings given such terms in sections 103, 103a, and 104 of title 41, respectively.
+
+(5) **Defense security system.—**
+
+  (A) The term “defense security system” means an information system (including a telecommunications system) used or operated by the Department of Defense, by a contractor of the Department, or by another organization on behalf of the Department, the function, operation, or use of which—
+
+    (i) involves command and control of an armed force;
+
+    (ii) involves equipment that is an integral part of a weapon or weapon system; or
+
+    (iii) subject to subparagraph (B), is critical to the direct fulfillment of military missions.
+
+  (B) Subparagraph (A)(iii) does not include a system that is to be used for routine administrative and business applications (including payroll, finance, logistics, and personnel management applications).
+
+(6) **Specified type.—** — The term “specified type” means a printed circuit board that is—
+
+  (A) a component of an electronic device that facilitates the routing, connecting, transmitting or securing of data and is commonly connected to a network, and
+
+  (B) any other end item, good, or product specified by the Secretary in accordance with subsection (d)(2).
+
+**(d) Rulemaking.—**
+
+(1) The Secretary may issue rules providing that subsection (a) may not apply with respect to an acquisition of commercial products, commercial services, and commercially available off-the-shelf items if—
+
+  (A) the contractor is capable of meeting minimum requirements that the Secretary deems necessary to provide for the security of national security networks and weapon systems; including, at a minimum, compliance with section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; [10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note); and
+
+  (B) either—
+
+    (i) the Government and the contractor have agreed to a contract requiring the contractor to take certain actions to ensure the integrity and security of the item, including protecting the item from unauthorized access, use, disclosure, disruption, modification, or destruction; or
+
+    (ii) the Secretary has determined that the contractor has adopted such procedures, tools, and methods for identifying the sources of components of such item, based on commercial best practices, that meet or exceed the applicable trusted supply chain and operational security standards of the Department of Defense.
+
+(2) The Secretary may issue rules specifying end items, goods, and products for which a printed circuit board that is a component thereof shall be a specified type if the Secretary has promulgated final regulations, after an opportunity for notice and comment that is not less than 12 months, implementing this section.
+
+(3) In carrying out this section, the Secretary shall, to the maximum extent practicable, avoid imposing contractual certification requirements with respect to the acquisition of commercial products, commercial services, or commercially available off-the-shelf items.
+
+**(e) Applicability.—** This section shall apply only with respect to contracts entered into after the issuance of a final rule implementing this section.
+
+**(f) Rule of Construction.—** Nothing in this section shall be construed to prohibit the Department of Defense from entering into a contract with an entity that connects to the facilities of a third party, for the purposes of backhaul, roaming, or interconnection arrangements, on the basis of the noncompliance by the third party with the provisions of this section or use of equipment or services that do not route or redirect user data traffic or permit visibility into any user data or packets that such equipment transmits or otherwise handles.
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 117–81, div. A, title XVII, § 1701(e)(2)(A), Dec. 27, 2021, 135 Stat. 2138, attempted to transfer [section 2533d of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533d) to this chapter, insert such section after [section 4872 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4872), redesignate such section as [section 4873 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4873), and amend subsec. (a)(2) of such section by striking “section 2338” and inserting “section 3573”, all of which was to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 1701(a)(3) of Pub. L. 117–81, set out in an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001). However, chapter 148 of this title, which included section 2533d, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001). Text of [section 2533d of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533d) is set out in a Codification note under that section.
+#### Amendments
+2021—Pub. L. 117–81 renumbered [section 2533d of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533d) as this section.
+
+Subsec. (a)(1). Pub. L. 117–81, § 851(a)(1)(A), substituted “the date determined under paragraph (3)” for “January 1, 2023”.
+
+Subsec. (a)(2). Pub. L. 117–81 substituted “section 3573” for “section 2338”.
+
+Subsec. (a)(3). Pub. L. 117–81, § 851(a)(1)(B), added par. (3).
+
+Subsec. (c)(2). Pub. L. 117–81, § 851(a)(2)(A)(i), inserted “specified type of” after “means any” in introductory provisions.
+
+Subsec. (c)(2)(A). Pub. L. 117–81, § 851(a)(2)(A)(ii), struck out “(as such terms are defined under sections 103 and 103a of title 41, respectively)” after “commercial service”.
+
+Subsec. (c)(2)(B). Pub. L. 117–81, § 851(a)(2)(A)(iii), amended subpar. (b) generally. Prior to amendment, subpar. (B) read as follows: “the Secretary designates as a covered printed circuit board, after reasonable notice, based on a determination that the designation is required to support national security.”
+
+Subsec. (c)(4) to (6). Pub. L. 117–81, § 851(a)(2)(B), added pars. (4) to (6).
+
+Subsec. (d). Pub. L. 117–81, § 851(a)(3), amended subsec. (d) generally. Prior to amendment, text read as follows: “Not later than May 1, 2022, the Secretary shall promulgate regulations, after an opportunity for notice and comment, implementing this section.”
+
+#### Effective Date of 2021 Amendment
+Amendment by section 1701(e)(1)(A) of Pub. L. 117–81, renumbering [section 2358d of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2358d&num=0&edition=prelim) as this section, deemed to have taken effect immediately before section 1881 of Pub. L. 116–283, subsec. (a) of which had repealed chapter 148 of this title, where section 2358d was located. See section 881(a) of Pub. L. 117–263, set out as a note under [section 4027 of this title](./chapter-301-research-and-engineering-generally.md#section-4027).
+
+#### Trusted Supply
+Pub. L. 116–283, div. A, title VIII, § 841(c), Jan. 1, 2021, 134 Stat. 3764, provided that: “The Secretary of Defense shall apply the requirements of section 224 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; [10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note [now [10 U.S.C. 4501](./chapter-341-acquisition-of-services-generally.md#section-4501) note prec.]) to the acquisition of covered printed circuit boards (as such term is defined under [former] [section 2533d(c) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2533d/c&num=0&edition=prelim), United States Code, [now [10 U.S.C. 4873(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4873/c&num=0&edition=prelim)] as added by this section).”
 
 
 <a id="section-4874"></a>
@@ -1155,12 +1361,53 @@ Pub. L. 115–91, div. A, title XVII, § 1712, Dec. 12, 2017, 131 Stat. 1811, as
 
 
 <a id="section-4875"></a>
-## § 4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations]
+## § 4875. Prohibition on acquisition of personal protective equipment and certain other items from non-allied foreign nations
+**(a) In General.—** Except as provided in subsection (c), the Secretary of Defense may not procure any covered item from any covered nation.
+
+**(b) Applicability.—** Subsection (a) shall apply to prime contracts and subcontracts at any tier.
+
+**(c) Exceptions.—**
+
+(1) **In general.—** — Subsection (a) does not apply under the following circumstances:
+
+  (A) If the Secretary of Defense determines that covered materials of satisfactory quality and quantity, in the required form, cannot be procured as and when needed from nations other than covered nations to meet requirements at a reasonable price.
+
+  (B) The procurement of a covered item for use outside of the United States.
+
+  (C) Purchases for amounts not greater than $150,000.
+
+(2) **Limitation.—** — A proposed procurement in an amount greater than $150,000 may not be divided into several purchases or contracts for lesser amounts in order to qualify for this exception.
+
+**(d) Definitions.—** In this section:
+
+(1) **Covered item.—** — The term “covered item” means an article or item of—
+
+  (A) personal protective equipment for use in preventing spread of disease, such as by exposure to infected individuals or contamination or infection by infectious material (including nitrile and vinyl gloves, surgical masks, respirator masks and powered air purifying respirators and required filters, face shields and protective eyewear, surgical and isolation gowns, and head and foot coverings) or clothing, and the materials and components thereof, other than sensors, electronics, or other items added to and not normally associated with such personal protective equipment or clothing; or
+
+  (B) sanitizing and disinfecting wipes, testing swabs, gauze, and bandages.
+
+(2) **Covered nation.—** — The term “covered nation” means—
+
+  (A) the Democratic People’s Republic of North Korea;
+
+  (B) the People’s Republic of China;
+
+  (C) the Russian Federation; and
+
+  (D) the Islamic Republic of Iran.
 
 ### Statutory Notes
 
-#### Codification
-Pub. L. 117–81, div. A, title VIII, § 802(b)(1), Dec. 27, 2021, 135 Stat. 1813, attempted to transfer [section 2533e of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533e) to the end of this subchapter and redesignate it as [section 4875 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4875), to take effect immediately after the amendments made by title XVIII of Pub. L. 116–283 took effect, pursuant to section 802(b)(3) of Pub. L. 117–81, set out as an Effective Date of 2021 Amendment note under former [section 2533e of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533e). However, chapter 148 of this title, which included section 2533e, was repealed by Pub. L. 116–283, div. A, title XVIII, § 1881(a), Jan. 1, 2021, 134 Stat. 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, pursuant to Pub. L. 116–283, div. A, title XVIII, § 1801(d), Jan. 1, 2021, 134 Stat. 4151, set out as an Effective Date of 2021 Amendment note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+#### Amendments
+2021—Pub. L. 117–81 renumbered [section 2533e of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533e) as this section.
+
+#### Effective Date of 2021 Amendment
+Amendment by Pub. L. 117–81, which renumbered [section 2533e of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533e) as this section, deemed to have taken effect immediately before section 1881 of Pub. L. 116–283, subsec. (a) of which had repealed chapter 148 of this title, where section 2533c was located. See section 881(a) of Pub. L. 117–263, set out as a note under [section 4027 of this title](./chapter-301-research-and-engineering-generally.md#section-4027).
+
+Pub. L. 117–81, div. A, title VIII, § 802(b)(3), Dec. 27, 2021, 135 Stat. 1814, provided that: “The transfer, redesignation, and amendments made by this subsection [renumbering [section 2533e of this title](./chapter-chapter-148-chapter-chapter-148.md#section-2533e) as this section] shall take effect immediately after the amendments made by title XVIII of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 [Pub. L. 116–283] take effect [Jan. 1, 2022].” See note above.
+
+#### References; Savings Provision; Rule of Construction
+Pub. L. 117–81, div. A, title VIII, § 802(b)(4), Dec. 27, 2021, 135 Stat. 1814, provided that: “Sections 1883 through 1885 of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283) [set out as notes preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001)] shall apply with respect to the transfers, redesignations, and amendments made under this subsection [see Effective Date of 2021 Amendment note above] as if such transfers, redesignations, and amendments were made under title XVIII of such Act.”
 
 
 <a id="section-4881"></a>

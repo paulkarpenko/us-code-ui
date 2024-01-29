@@ -209,11 +209,11 @@ By the authority vested in me as President by the Constitution and statutes of t
 (l) Enter into agreements or other arrangements as necessary or appropriate with the National Institute for Occupational Safety and Health and delegate to it the inspection and investigation authority provided under this section.
 
 #### 1–5. The Federal Advisory Council on Occupational Safety and Health
-1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to Executive Order No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act [5 U.S.C. App.]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
+1–501. The Federal Advisory Council on Occupational Safety and Health, established pursuant to Executive Order No. 11612, is continued. It shall advise the Secretary in carrying out responsibilities under this order. The Council shall consist of sixteen members appointed by the Secretary, of whom eight shall be representatives of Federal agencies and eight shall be representatives of labor organizations representing Federal employees. The members shall serve three-year terms with the terms of five or six members expiring each year, provided this Council is renewed every two years in accordance with the Federal Advisory Committee Act [see [5 U.S.C. 1001](./chapter-010-federal-advisory-committees.md#section-1001) et seq.]. The members currently serving on the Council shall be deemed to be its initial members under this order and their terms shall expire in accordance with the terms of their appointment.
 
 1–502. The Secretary, or a designee, shall serve as the Chairman of the Council, and shall prescribe rules for the conduct of its business.
 
-1–503. The Secretary shall make available necessary office space and furnish the Council necessary equipment, supplies, and staff services, and shall perform such functions with respect to the Council as may be required by the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+1–503. The Secretary shall make available necessary office space and furnish the Council necessary equipment, supplies, and staff services, and shall perform such functions with respect to the Council as may be required by the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](./chapter-010-federal-advisory-committees.md#section-1001) et seq.].
 
 #### 1–6. General Services Administration
 1–601. Within six months of the effective date of this order the Secretary of Labor and the Administrator of the General Services Administration shall initiate a study of conflicts that may exist in their standards and other requirements affecting Federal employee safety and health, and shall establish a procedure for resolving conflicting standards for space leased by the General Services Administration.
@@ -239,9 +239,11 @@ By the authority vested in me as President by the Constitution and statutes of t
 Ex. Ord. No. 12566, Sept. 26, 1986, 51 F.R. 34575, which related to safety belt use by Federal employees, was revoked by Ex. Ord. No. 13043, § 5, formerly § 6, Apr. 16, 1997, 62 F.R. 19218, as renumbered by Ex. Ord. No. 13652, § 5, Sept. 30, 2013, 78 F.R. 61818, set out as a note under [section 402 of Title 23](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title23-section402&num=0&edition=prelim), Highways.
 
 #### Extension of Term of Federal Advisory Council on Occupational Safety and Health
-Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of this title](./chapter-010-federal-advisory-committees.md#section-1013).
 
 Previous extensions of term of Federal Advisory Council on Occupational Safety and Health were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 

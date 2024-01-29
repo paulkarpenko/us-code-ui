@@ -233,7 +233,7 @@ shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (1) the term “immediate family” means—
 
-  (A) with respect to subsection (a)(1) of this section, the wife of a former President during his lifetime, the widow of a former President until her death or remarriage, and minor children of a former President until they reach sixteen years of age; and
+  (A) with respect to subsection (a)(1) of this section, the spouse of a former President during a former President’s lifetime, the surviving spouse of a former President until the surviving spouse’s death or remarriage, and minor children of a former President until they reach sixteen years of age; and
 
   (B) with respect to subsection (a)(2) and (a)(3) of this section, a person to whom the President, President-elect, Vice President, Vice President-elect, or major candidate for the office of President or Vice President—
 
@@ -248,6 +248,8 @@ shall be fined under this title or imprisoned not more than 5 years, or both.
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(1)(A). Pub. L. 117–272 substituted “the spouse of a former President during a former President’s lifetime, the surviving spouse of a former President until the surviving spouse’s death or remarriage” for “the wife of a former President during his lifetime, the widow of a former President until her death or remarriage”.
+
 2000—Pub. L. 106–544, § 2(b)(1), struck out “protected by the Secret Service” after “other persons” in section catchline.
 
 Subsec. (a). Pub. L. 106–544, § 2(a)(1)–(4), in par. (3), substituted “a member of the immediate family” for “the spouse”, added par. (4), and, in concluding provisions, struck out “who is protected by the Secret Service as provided by law,” before “shall be fined” and substituted “5 years” for “three years”.

@@ -563,7 +563,7 @@ Subsec. (b). Pub. L. 99–554, § 219(b), substituted “motion or on a motion b
 Amendment by Pub. L. 113–295 applicable with respect to cases commenced under this title on or after Dec. 19, 2014, see section 104(d) of Pub. L. 113–295, set out as a note under [section 521 of this title](./chapter-005-creditors-the-debtor-and-the-estate.md#section-521).
 
 #### Effective Date of 2008 Amendment
-Pub. L. 110–438, § 4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, § 2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, § 2, Dec. 18, 2015, 129 Stat. 2223; Pub. L. 116–53, § 2, Aug. 23, 2019, 133 Stat. 1078, provided that: “(a) Effective Date.—Except as provided in subsection (b), this Act [amending this section and enacting provisions set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101)] and the amendments made by this Act shall take effect 60 days after the date of enactment of this Act [Oct. 20, 2008]. “(b) Application of Amendments.—The amendments made by this Act [amending this section] shall apply only with respect to cases commenced under title 11 of the United States Code in the 15-year period beginning on the effective date of this Act.”
+Pub. L. 110–438, § 4, Oct. 20, 2008, 122 Stat. 5002, as amended by Pub. L. 112–64, § 2, Dec. 13, 2011, 125 Stat. 766; Pub. L. 114–107, § 2, Dec. 18, 2015, 129 Stat. 2223; Pub. L. 116–53, § 2, Aug. 23, 2019, 133 Stat. 1078; Pub. L. 118–24, § 2, Dec. 19, 2023, 137 Stat. 128, provided that: “(a) Effective Date.—Except as provided in subsection (b), this Act [amending this section and enacting provisions set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101)] and the amendments made by this Act shall take effect 60 days after the date of enactment of this Act [Oct. 20, 2008]. “(b) Application of Amendments.—The amendments made by this Act [amending this section] shall apply only with respect to cases commenced under title 11 of the United States Code in the 19-year period beginning on the effective date of this Act.”
 
 #### Effective Date of 2005 Amendment
 Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not applicable with respect to cases commenced under this title before such effective date, except as otherwise provided, see section 1501 of Pub. L. 109–8, set out as a note under [section 101 of this title](./chapter-001-general-provisions.md#section-101).
@@ -1024,7 +1024,7 @@ Subsection (d) requires the court to revoke a discharge already granted in certa
 Subsection (e) permits the trustee or a creditor to request revocation of a discharge within 1 year after the discharge is granted, on the grounds of fraud, and within one year of discharge or the date of the closing of the case, whichever is later, on other grounds.
 
 #### References in Text
-The Bankruptcy Act, referred to in subsec. (a)(7), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11.
+The Bankruptcy Act, referred to in subsec. (a)(7), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11.
 
 Sections 14, 371, and 476 of the Bankruptcy Act, referred to in subsec. (a)(8), are section 14 of act July 1, 1898, ch. 541, 30 Stat. 550, section 371 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 912, and section 476 of act July 1, 1898, ch. 541, as added June 22, 1938, ch. 575, § 1, 52 Stat. 924, which were classified to sections 32, 771, and 876 of former Title 11.
 
@@ -1206,7 +1206,7 @@ Paragraph (6) defines “1934 Act” to mean the Securities Exchange Act of 1934
 Paragraph (7) [enacted as (9)] defines “SIPC” to mean the Securities Investor Protection Corporation.
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in par. (4)(A)(iii), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Par. (7)(A)(i). Pub. L. 109–390, § 5(a)(3)(A), substituted “a mortgage loan,” for “a mortgage loan or” and inserted “(whether or not such repurchase or reverse repurchase transaction is a ‘repurchase agreement’, as defined in section 101)” before semicolon at end.
@@ -1276,7 +1276,7 @@ Section 742 of the House amendment deletes a sentence contained in the Senate am
 Section 742 indicates that the automatic stay does not prevent SIPC from filing an application for a protective decree under SIPA. If SIPA does file such an application, then all bankruptcy proceedings are suspended until the SIPC action is completed. If SIPC completes liquidation of the stockbroker then the bankruptcy case is dismissed.
 
 #### References in Text
-The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, as amended, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
+The Securities Investor Protection Act of 1970, referred to in text, is Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636, which is classified generally to chapter 2B–1 (§ 78aaa et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78aaa of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1994—Pub. L. 103–394 struck out “([15 U.S.C. 78aaa](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78aaa&num=0&edition=prelim) et seq.)” after “Act of 1970”.
@@ -1704,7 +1704,7 @@ Paragraph (10) defines “customer property” to include all property in custom
 Paragraph (15) [enacted as (17)] defines “net equity” to include the value of all contractual commitments at the time of liquidation or transfer less any obligations owed by the customer to the debtor, such as brokerage fees. In addition, the term includes the value of any specifically identifiable property as of the date of return to the customer and the value of any customer property transferred to another commodity broker as of the date of transfer. This definition places the risk of market fluctuations on the customer until commitments leave the estate.
 
 #### References in Text
-The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, as amended, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
+The Commodity Exchange Act, referred to in pars. (1), (2), (8), and (17), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§ 1 et seq.) of Title 7, Agriculture. Sections 4c(b) and 19 of the Act are classified to sections 6c(b) and 23, respectively, of Title 7. For complete classification of this Act to the Code, see [section 1 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2010—Par. (4)(F). Pub. L. 111–203, § 724(b)(1), added subpar. (F) and struck out former subpar. (F) which read as follows: “any other agreement or transaction that is similar to an agreement or transaction referred to in this paragraph;”.

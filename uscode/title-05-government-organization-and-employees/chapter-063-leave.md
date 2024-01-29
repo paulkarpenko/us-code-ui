@@ -519,6 +519,8 @@ Pub. L. 93–181, § 6, Dec. 14, 1973, 87 Stat. 706, provided that where former 
 
 (3) may not be made the basis for terminal leave except under such special or emergency circumstances as may be prescribed under the regulations of the Office.
 
+**(d)** With respect to an officer, crewmember, or other employee of the Department of Defense serving aboard an oceangoing vessel on an extended voyage, the first sentence in the matter preceding paragraph (1) of subsection (c) of this section shall be applied by substituting “7 calendar days” for “30 calendar days”.
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -533,6 +535,8 @@ The words “in his discretion” are omitted as unnecessary in view of the perm
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 added subsec. (d).
+
 2000—Subsec. (c)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “may not be made the basis for a lump-sum payment; and”.
 
 1980—Subsec. (a). Pub. L. 96–465, § 2312(c), inserted “(or after a shorter period of such service if the employee’s assignment is terminated for the convenience of the Government)” after “outside the United States”.
@@ -1258,7 +1262,7 @@ The date of enactment of this section, referred to in subsec. (c)(1), is the dat
 Pub. L. 114–328, div. A, title XI, § 1138(b), Dec. 23, 2016, 130 Stat. 2460, provided that: “It is the sense of Congress that— “(1) agency use of administrative leave, and leave that is referred to incorrectly as administrative leave in agency recording practices, has exceeded reasonable amounts—“(A) in contravention of—“(i) established precedent of the Comptroller General of the United States; and “(ii) guidance provided by the Office of Personnel Management; and “(B) resulting in significant cost to the Federal Government; “(2) administrative leave should be used sparingly; “(3) prior to the use of paid leave to address personnel issues, an agency should consider other actions, including—“(A) temporary reassignment; and “(B) transfer; “(4) an agency should prioritize and expeditiously conclude an investigation in which an employee is placed in administrative leave so that, not later than the conclusion of the leave period—“(A) the employee is returned to duty status; or “(B) an appropriate personnel action is taken with respect to the employee; “(5) data show that there are too many examples of employees placed in administrative leave for 6 months or longer, leaving the employees without any available recourse to—“(A) return to duty status; or “(B) challenge the decision of the agency; “(6) an agency should ensure accurate and consistent recording of the use of administrative leave so that administrative leave can be managed and overseen effectively; and “(7) other forms of excused absence authorized by law should be recorded separately from administrative leave, as defined by the amendments made by this section [see section 1138a of Pub. L. 114–328 set out as a Short Title of 2016 Amendment note under [section 101 of this title](./chapter-001-organization.md#section-101)].”
 
 #### GAO Report
-Pub. L. 114–328, div. A, title XI, § 1138(d)(2), Dec. 23, 2016, 130 Stat. 2468, provided that: “Not later than 5 years after the date of enactment of this Act [Dec. 23, 2016], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including— “(A) the number of times that an agency, under subsection (c)(1) of such section 6329b—“(i) consulted with the investigator responsible for conducting the investigation to which an employee was subject with respect to the decision of the agency to grant an extension under that subsection; and “(ii) did not have a consultation described in clause (i), including the reasons that the agency failed to have such a consultation; “(B) an assessment of the use of the authority provided under subsection (d) of such section 6329b by agencies, including data regarding the number and length of extensions granted under that subsection; “(C) an assessment of the compliance with the requirements of subsection (f) of such section 6329b by agencies; “(D) a review of the practice of agency placement of an employee in investigative or notice leave under subsection (b) of such section 6329b because of a determination under subsection (b)(2)(A)(iv) of that section that the employee jeopardized legitimate Government interests, including the extent to which such determinations were supported by evidence; and “(E) an assessment of the effectiveness of subsection (g) of such section 6329b in preventing and correcting the use of extended investigative leave as a tool of reprisal for making a protected disclosure or engaging in protected activity as described in paragraph (8) or (9) of [section 2302(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b&num=0&edition=prelim), United States Code.”
+Pub. L. 114–328, div. A, title XI, § 1138(d)(2), Dec. 23, 2016, 130 Stat. 2468, provided that: “Not later than 5 years after the date of enactment of this Act [Dec. 23, 2016], and every 5 years thereafter, the Comptroller General of the United States shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives a report on the results of an evaluation of the implementation of the authority provided under sections 6329a and 6329b of title 5, United States Code, as added by subsection (c)(1) of this section and paragraph (1) of this subsection, respectively, including— “(A) the number of times that an agency, under subsection (c)(1) of such section 6329b—“(i) consulted with the investigator responsible for conducting the investigation to which an employee was subject with respect to the decision of the agency to grant an extension under that subsection; and “(ii) did not have a consultation described in clause (i), including the reasons that the agency failed to have such a consultation; “(B) an assessment of the use of the authority provided under subsection (d) of such section 6329b by agencies, including data regarding the number and length of extensions granted under that subsection; “(C) an assessment of the compliance with the requirements of subsection (f) of such section 6329b by agencies; “(D) a review of the practice of agency placement of an employee in investigative or notice leave under subsection (b) of such section 6329b because of a determination under subsection (b)(2)(A)(iv) of that section that the employee jeopardized legitimate Government interests, including the extent to which such determinations were supported by evidence; and “(E) an assessment of the effectiveness of subsection (g) of such section 6329b in preventing and correcting the use of extended investigative leave as a tool of reprisal for making a protected disclosure or engaging in protected activity as described in paragraph (8) or (9) of [section 2302(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2302/b&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-6329b"></a>
@@ -1535,7 +1539,7 @@ The date of enactment of this section, referred to in subsecs. (c)(3), (4)(B), (
 The Administrative Leave Act of 2016, referred to in subsec. (f)(2)(C), is section 1138 of title XI of div. A of Pub. L. 114–328, Dec. 23, 2016, 130 Stat. 2460. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 101 of this title](./chapter-001-organization.md#section-101) and Tables.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-6329c"></a>
@@ -2158,7 +2162,11 @@ For the purpose of this subchapter—
 
   (A) is an “employee”, as defined by section 6301(2), including any individual employed in a position referred to in clause (ix) of section 6301(2), but excluding any individual employed by the government of the District of Columbia 11 So in original. Probably should be followed by a comma. any individual employed on a temporary or intermittent basis, and any employee of the Government Accountability Office or the Library of Congress; and
 
-  (B) has completed at least 12 months of service as an employee (as defined in section 2105) of the Government of the United States, including service with the United States Postal Service, the Postal Regulatory Commission, and a nonappropriated fund instrumentality as described in section 2105(c);
+  (B) has completed at least 12 months of service—
+
+    (i) as an employee (as that term is defined in section 2105) of the Government of the United States, including service with the United States Postal Service, the Postal Regulatory Commission, and a nonappropriated fund instrumentality as described in section 2105(c); or
+
+    (ii) which qualifies as honorable active service in the Army, Navy, Air Force, Space Force, or Marine Corps of the United States;
 
 (2) the term “health care provider” means—
 
@@ -2213,6 +2221,8 @@ For the purpose of this subchapter—
 ### Statutory Notes
 
 #### Amendments
+2023—Par. (1)(B). Pub. L. 118–31 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has completed at least 12 months of service as an employee (as defined in section 2105) of the Government of the United States, including service with the United States Postal Service, the Postal Regulatory Commission, and a nonappropriated fund instrumentality as described in section 2105(c);”.
+
 2021—Par. (1)(A). Pub. L. 116–283, § 1103(f)(2)(A), struck out “(v) or” before “(ix) of section 6301(2)”.
 
 Par. (1)(B). Pub. L. 116–283, § 1103(f)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has completed at least 12 months of service as an employee (within the meaning of subparagraph (A));”.

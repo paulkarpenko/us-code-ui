@@ -2,7 +2,7 @@
 title: 41
 chapter: '63'
 heading: GENERAL CONTRACT PROVISIONS
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41&num=0&edition=prelim
 ---
@@ -282,3 +282,35 @@ In subsection (b)(2)(B), the words “Secretary of the Army” are substituted f
 
 #### Amendments
 2021—Subsec. (a). Pub. L. 116–283 inserted “Space Force,” after “Marine Corps,”.
+
+
+<a id="section-6310"></a>
+## § 6310. Requirement for agencies to buy domestically made United States flags
+**(a) Requirement.—** Except as provided in subsections (b) through (d), funds appropriated or otherwise available to an agency may not be used for the procurement of any flag of the United States, unless such flag has been 100 percent manufactured in the United States from articles, materials, or supplies that have been grown or 100 percent produced or manufactured in the United States.
+
+**(b) Availability Exception.—** Subsection (a) does not apply to the extent that the head of the agency concerned determines that satisfactory quality and sufficient quantity of a flag described in such subsection cannot be procured as and when needed at United States market prices.
+
+**(c) Exception for Certain Procurements.—** Subsection (a) does not apply to the following:
+
+(1) Procurements by vessels in foreign waters.
+
+(2) Procurements for resale purposes in any military commissary, military exchange, or nonappropriated fund instrumentality operated by an agency.
+
+(3) Procurements for amounts less than the simplified acquisition threshold.
+
+**(d) Presidential Waiver.—**
+
+(1) **In general.—** — The President may waive the requirement in subsection (a) if the President determines a waiver is necessary to comply with any trade agreement to which the United States is a party.
+
+(2) **Notice of waiver.—** — Not later than 30 days after granting a waiver under paragraph (1), the President shall publish a notice of the waiver in the Federal Register.
+
+**(e) Definitions.—** In this section:
+
+(1) **Agency.—** — The term “agency” has the meaning given the term “executive agency” in [section 102 of title 40](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40-section102&num=0&edition=prelim).
+
+(2) **Simplified acquisition threshold.—** — The term “simplified acquisition threshold” has the meaning given that term in section 134.
+
+### Statutory Notes
+
+#### Effective Date
+Pub. L. 118–74, § 2(b), July 30, 2024, 138 Stat. 1506, provided that: “[Section 6310 of title 41](./chapter-063-general-contract-provisions.md#section-6310), United States Code, as added by subsection (a)(1), shall apply with respect to any contract entered into on or after the date that is 180 days after the date of the enactment of this Act [July 30, 2024].”

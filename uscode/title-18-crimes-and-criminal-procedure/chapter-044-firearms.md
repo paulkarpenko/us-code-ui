@@ -414,6 +414,59 @@ Pub. L. 90–351, title IV, § 904, June 19, 1968, 82 Stat. 234, as amended by P
 #### Definition of “Handgun”
 Pub. L. 99–408, § 10, Aug. 28, 1986, 100 Stat. 922, provided that: “For purposes of [section 921(a)(17)(B) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921/a/17/B&num=0&edition=prelim), United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
 
+#### Ex. Ord. No. 14092. Reducing Gun Violence and Making Our Communities Safer
+Ex. Ord. No. 14092, Mar. 14, 2023, 88 F.R. 16527, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby order as follows:
+
+Section 1. Policy. Every few days in the United States, we mourn a new mass shooting. Daily acts of gun violence—including community violence, domestic violence, suicide, and accidental shootings—may not always make the evening news, but they too cut lives short and leave survivors and their communities with long-lasting physical and mental wounds. We cannot accept these facts as the enduring reality of life in America. Instead, we must together insist that we have had enough, and that we will no longer allow the interests of the gun manufacturers to win out over the safety of our children and Nation.
+
+It is the policy of my Administration that executive departments and agencies (agencies) will pursue every legally available and appropriate action to reduce gun violence. Through this whole-of-government approach, my Administration has made historic progress to save lives. My Administration has taken action to keep guns out of dangerous hands and especially dangerous weapons off of our streets; hold gun traffickers and rogue gun dealers accountable; fund accountable, effective community policing; and invest in community violence interventions and prevention strategies.
+
+Last year, I signed into law the Bipartisan Safer Communities Act [Pub. L. 117–159, see Tables for classification] (the “Act”), the most significant bipartisan gun safety legislation in nearly 30 years. The Act provides communities with new tools to combat gun violence, including enhanced gun background checks for individuals under age 21, funding for extreme risk protection orders and other crisis interventions, and increased mental health resources to help children impacted by gun violence heal from the resulting grief and trauma.
+
+I continue to call on the Congress to take additional action to reduce gun violence, including by banning assault weapons and high-capacity magazines, requiring background checks for all gun sales, requiring safe storage of firearms, funding my comprehensive Safer America Plan, and expanding community violence intervention and prevention strategies. In the meantime, my Administration will continue to do all that we can, within existing authority, to make our communities safer.
+
+Sec. 2. Implementation of the Bipartisan Safer Communities Act. The Attorney General, the Secretary of Health and Human Services, the Secretary of Education, and the Secretary of Homeland Security shall each submit a report to the President within 60 days of the date of this order [Mar. 14, 2023] describing what actions their respective agencies have taken to implement the Act, data and analysis regarding the use and early effects of the Act, and additional steps their respective agencies will take to maximize the benefits of the Act. These reports shall include a plan for increasing public awareness and use of resources made available by the Act.
+
+Sec. 3. Additional Agency Actions to Reduce Gun Violence. (a) The Attorney General shall develop and implement a plan to:
+
+(i) clarify the definition of who is engaged in the business of dealing in firearms, and thus required to become Federal firearms licensees (FFLs), in order to increase compliance with the Federal background check requirement for firearm sales, including by considering a rulemaking, as appropriate and consistent with applicable law;
+
+(ii) prevent former FFLs whose licenses have been revoked or surrendered from continuing to engage in the business of dealing in firearms;
+
+(iii) publicly release, to the fullest extent permissible by law, inspection reports of FFL dealers cited for violations of the law; and
+
+(iv) support efforts to modernize and make permanent the Undetectable Firearms Act [of 1988] ([enacting] [18 U.S.C. 922(p)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section922/p&num=0&edition=prelim)).
+
+(b) The Secretary of Defense; the Attorney General; the Secretary of Homeland Security; the Secretary of Health and Human Services, including through the Surgeon General of the United States; the Secretary of Education; and the Secretary of Veterans Affairs shall expand existing Federal campaigns and other efforts to promote safe storage of firearms.
+
+(c) The Secretary of Defense; the Attorney General; the Secretary of Homeland Security; the Secretary of Health and Human Services, including through the Surgeon General of the United States; and the Secretary of Education shall undertake efforts to encourage effective use of extreme risk protection orders (“red flag” laws), partnering with law enforcement, health care providers, educators, and other community leaders.
+
+(d) The Attorney General; the Secretary of Health and Human Services, including through the Surgeon General of the United States; the Secretary of Education; the Secretary of Homeland Security; the Director of the Office of Management and Budget; and the heads of other agencies, as appropriate, shall develop a proposal for the President, and submit it no later than September 15, 2023, on how the Federal Government can better support the recovery, mental health, and other needs of survivors of gun violence, families of victims and survivors of gun violence, first responders to incidents of gun violence, and communities affected by gun violence. The proposal should draw on existing evidence, where available, and take into account how to address needs in both the immediate aftermath of mass shootings and in the years following such events. The proposal should recommend any additional executive branch coordination and additional resources or authorities from the Congress needed to implement the proposal, as well as how agencies will assess the outcomes for the activities implemented.
+
+(e) The Secretary of Defense, in consultation with the Attorney General and the Secretary of Homeland Security, shall develop and implement principles to further firearm and public safety practices through the Department of Defense’s acquisition of firearms, consistent with applicable law.
+
+(f) The heads of Federal law enforcement agencies shall, as soon as practicable, but no later than 180 days from the date of this order, ensure that their respective law enforcement components issue National Integrated Ballistic Information Network (NIBIN) submission and utilization policies with requirements that are equivalent to, or exceed, the requirements of the policy issued by the Department of Justice on December 12, 2022, to ensure the prompt entry of ballistics data recovered in connection with criminal investigations into NIBIN. In consultation with the Department of Justice, the Department of Defense policies may be tailored to address specific operational considerations.
+
+(g) The Secretary of Transportation, in consultation with the Department of Justice, shall work to reduce the loss or theft of firearms during shipment between FFLs and to improve reporting of such losses or thefts, including by engaging with carriers and shippers.
+
+(h) The Federal Trade Commission is encouraged to issue a public report analyzing how gun manufacturers market firearms to minors and how such manufacturers market firearms to civilians, including through the use of military imagery.
+
+Sec. 4. Definitions. For purposes of this order, the term “Federal law enforcement agency” means an organizational unit or subunit of the executive branch that employs officers who are authorized to make arrests and carry firearms, and that is responsible for the prevention, detection, and investigation of crime or the apprehension of alleged offenders. The term “heads of Federal law enforcement agencies” means the heads of those units or subunits.
+
+Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
 
 <a id="section-922"></a>
 ## § 922. Unlawful acts
@@ -807,7 +860,7 @@ to ship or transport in interstate or foreign commerce, or possess in or affecti
 
     (i) the system provides the licensee with a unique identification number; or
 
-    (ii) subject to subparagraph (C), 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law; and
+    (ii) subject to subparagraph (C), 3 business days (meaning a day on which State offices are open) have elapsed since the licensee contacted the system, and the system has not notified the licensee that the receipt of a firearm by such other person would violate subsection (g) or (n) of this section, or State, local, or Tribal law;
 
   (C) in the case of a person less than 21 years of age, in addition to all other requirements of this chapter—
 
@@ -997,7 +1050,7 @@ to ship or transport in interstate or foreign commerce, or possess in or affecti
 #### Amendment of Section
 For repeal of amendment by section 12001(a)(3) of Pub. L. 117–159, see Effective and Termination Dates of 2022 Amendment note below.
 
-Pub. L. 100–649, § 2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (p) of this section is repealed.
+Pub. L. 100–649, § 2(f)(2)(A), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (p) of this section is repealed.
 
 #### References in Text
 The effective date of this chapter, referred to in subsec. (a)(3), is December 16, 1968.
@@ -1035,7 +1088,7 @@ Subsec. (t)(1)(C), (D). Pub. L. 117–159, § 12001(a)(1)(B)(i)(I)(bb)–(III), 
 
 Subsec. (t)(2). Pub. L. 117–159, § 12001(a)(1)(B)(ii), (3), temporarily inserted “transfer or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)” in introductory provisions. See Effective and Termination Dates of 2022 Amendment note below.
 
-Pub. L. 117–103, § 1104(b)(2), inserted “, local or Tribal” after “State”.
+Pub. L. 117–103, § 1104(b)(2), inserted “, local or Tribal” after “State” in introductory provisions.
 
 Subsec. (t)(4). Pub. L. 117–159, § 12001(a)(1)(B)(iii), (3), temporariy inserted “transfer of a firearm to or” before “receipt” and substituted “(d), (g), or (n) (as applicable)” for “(g) or (n)”. See Effective and Termination Dates of 2022 Amendment note below.
 
@@ -1274,7 +1327,7 @@ Pub. L. 103–322, title XXXIII, § 330011(i), Sept. 13, 1994, 108 Stat. 2145, p
 Amendment by section 1702(b)(1) of Pub. L. 101–647 applicable to conduct engaged in after the end of the 60-day period beginning on Nov. 29, 1990, see section 1702(b)(4) of Pub. L. 101–647, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
 
 #### Effective Date of 1988 Amendment; Sunset Provision
-Pub. L. 100–649, § 2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that: “(1) Effective date.—This Act and the amendments made by this Act [amending this section and sections 924 and 925 of this title and enacting provisions set out as notes under this section, [section 921 of this title](./chapter-044-firearms.md#section-921), and section 1356 of former Title 49, Transportation] shall take effect on the 30th day beginning after the date of the enactment of this Act [Nov. 10, 1988]. “(2) Sunset.—Effective 35 years after the effective date of this Act—“(A) subsection (p) of [section 922 of title 18](./chapter-044-firearms.md#section-922), United States Code, is hereby repealed; “(B) subsection (f) of section 924 of such title is hereby repealed and subsections (g) through (o) of such section are hereby redesignated as subsections (f) through (n), respectively; “(C) subsection (f) of section 925 of such title is hereby repealed; “(D) section 924(a)(1) of such title is amended by striking ‘this subsection, subsection (b), (c), or (f) of this section, or in section 929’ and inserting ‘this chapter’; and “(E) section 925(a) of such title is amended—“(i) in paragraph (1), by striking ‘and provisions relating to firearms subject to the prohibitions of section 922(p)’; and “(ii) in paragraph (2), by striking ‘, except for provisions relating to firearms subject to the prohibitions of section 922(p),’; and “(iii) in each of paragraphs (3) and (4), by striking ‘except for provisions relating to firearms subject to the prohibitions of section 922(p),’.”
+Pub. L. 100–649, § 2(f), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656; Pub. L. 118–42, div. G, title III, § 301, Mar. 9, 2024, 138 Stat. 451, provided that: “(1) Effective date.—This Act and the amendments made by this Act [amending this section and sections 924 and 925 of this title and enacting provisions set out as notes under this section, [section 921 of this title](./chapter-044-firearms.md#section-921), and section 1356 of former Title 49, Transportation] shall take effect on the 30th day beginning after the date of the enactment of this Act [Nov. 10, 1988]. “(2) Sunset.—Effective on March 8, 2031—“(A) subsection (p) of [section 922 of title 18](./chapter-044-firearms.md#section-922), United States Code, is hereby repealed; “(B) subsection (f) of section 924 of such title is hereby repealed and subsections (g) through (o) of such section are hereby redesignated as subsections (f) through (n), respectively; “(C) subsection (f) of section 925 of such title is hereby repealed; “(D) section 924(a)(1) of such title is amended by striking ‘this subsection, subsection (b), (c), or (f) of this section, or in section 929’ and inserting ‘this chapter’; and “(E) section 925(a) of such title is amended—“(i) in paragraph (1), by striking ‘and provisions relating to firearms subject to the prohibitions of section 922(p)’; and “(ii) in paragraph (2), by striking ‘, except for provisions relating to firearms subject to the prohibitions of section 922(p),’; and “(iii) in each of paragraphs (3) and (4), by striking ‘except for provisions relating to firearms subject to the prohibitions of section 922(p),’.”
 
 #### Effective Date of 1986 Amendment
 Amendment by section 102(1)–(8) of Pub. L. 99–308 effective 180 days after May 19, 1986, and amendment by section 102(9) of Pub. L. 99–308 effective May 19, 1986, see section 110(a), (c) of Pub. L. 99–308, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
@@ -1864,7 +1917,7 @@ travels from any State or foreign country into any other State and acquires, tra
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 100–649, § 2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a)(1) of this section is amended by striking “this subsection, subsection (b), (c), or (f) of this section, or in section 929” and inserting “this chapter”, subsection (f) of this section is repealed, and subsections (g) through (o) of this section are redesignated as subsections (f) through (n), respectively, of this section.
+Pub. L. 100–649, § 2(f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 101–647, title XXXV, § 3526(b), Nov. 29, 1990, 104 Stat. 4924; Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1, Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (a)(1) of this section is amended by striking “this subsection, subsection (b), (c), or (f) of this section, or in section 929” and inserting “this chapter”, subsection (f) of this section is repealed, and subsections (g) through (o) of this section are redesignated as subsections (f) through (n), respectively, of this section.
 
 #### References in Text
 The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), and (g)(2), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, which is classified principally to subchapter I (§ 801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 801 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section801&num=0&edition=prelim) and Tables.
@@ -2107,7 +2160,7 @@ Amendment by section 1702(b)(3) of Pub. L. 101–647 applicable to conduct engag
 Pub. L. 101–647, title XXII, § 2203(d), Nov. 29, 1990, 104 Stat. 4857, provided that the amendment by that section is effective with respect to any offense committed after Nov. 1, 1987.
 
 #### Effective Date of 1988 Amendment; Sunset Provision
-Amendment by section 2(b) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(B), (D) effective 35 years after such effective date, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
+Amendment by section 2(b) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(B), (D) effective on Mar. 8, 2031, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–308 effective 180 days after May 19, 1986, see section 110(a) of Pub. L. 99–308, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).
@@ -2165,7 +2218,7 @@ The Attorney General shall permit the conditional importation or bringing in of 
 ### Statutory Notes
 
 #### Amendment of Section
-Pub. L. 100–649, § 2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective 35 years after the 30th day beginning after Nov. 10, 1988, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
+Pub. L. 100–649, § 2(f)(2)(C), (E), Nov. 10, 1988, 102 Stat. 3818, as amended by Pub. L. 105–277, div. A, § 101(h) [title VI, § 649], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528; Pub. L. 108–174, § 1(1), (3), Dec. 9, 2003, 117 Stat. 2481; Pub. L. 113–57, § 1, Dec. 9, 2013, 127 Stat. 656, provided that, effective on Mar. 8, 2031, subsection (a) of this section is amended by striking “and provisions relating to firearms subject to the prohibitions of section 922(p)” in par. (1), striking “, except for provisions relating to firearms subject to the prohibitions of section 922(p),” in par. (2), and striking “except for provisions relating to firearms subject to the prohibitions of section 922(p),” in pars. (3) and (4) and subsection (f) of this section is repealed.
 
 #### References in Text
 [Section 4308 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4308&num=0&edition=prelim) before the repeal of such section by section 1624(a) of the Corporation for the Promotion of Rifle Practice and Firearms Safety Act, referred to in subsec. (a)(2)(A), means [section 4308 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4308&num=0&edition=prelim), Armed Forces, prior to repeal by section 1624(a)(1) of Pub. L. 104–106, div. A, title XVI, Feb. 10, 1996, 110 Stat. 522.
@@ -2223,7 +2276,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 Pub. L. 104–106, div. A, title XVI, § 1624(c), Feb. 10, 1996, 110 Stat. 522, provided that: “The amendments made by this section [amending this section and sections 4313 and 4316 of Title 10, Armed Forces, and repealing sections 4307, 4308, 4310, and 4311 of Title 10] shall take effect on the earlier of— “(1) the date on which the Secretary of the Army submits a certification in accordance with section 1623 [former [36 U.S.C. 5523](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title36-section5523&num=0&edition=prelim)]; or “(2) October 1, 1996.”
 
 #### Effective Date of 1988 Amendment; Sunset Provision
-Amendment by section 2(c) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective 35 years after such effective date, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
+Amendment by section 2(c) of Pub. L. 100–649 effective 30th day beginning after Nov. 10, 1988, and amendment by section 2(f)(2)(C), (E) effective on Mar. 8, 2031, see section 2(f) of Pub. L. 100–649, as amended, set out as a note under [section 922 of this title](./chapter-044-firearms.md#section-922).
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–308 applicable to any action, petition, or appellate proceeding pending on May 19, 1986, see section 110(b) of Pub. L. 99–308, set out as a note under [section 921 of this title](./chapter-044-firearms.md#section-921).

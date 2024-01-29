@@ -2,7 +2,7 @@
 title: 34
 chapter: '201'
 heading: 'VICTIM RIGHTS, COMPENSATION, AND ASSISTANCE'
-section_count: 26
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -314,13 +314,22 @@ Pub. L. 100–690, title VII, § 7129, Nov. 18, 1988, 102 Stat. 4423, as amended
 #### Effective Date
 Pub. L. 98–473, title II, § 1409, Oct. 12, 1984, 98 Stat. 2178, provided that: “(a) Except as provided in subsection (b), this chapter [chapter XIV (§§ 1401–1411) of title II of Pub. L. 98–473, see Short Title of 1984 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] and the amendments made by this chapter shall take effect thirty days after the date of enactment of this joint resolution [Oct. 12, 1984]. “(b) Sections 1402, 1403, 1404, and 1407 of this chapter [enacting this subchapter] shall take effect on October 1, 1984.”
 
+#### Report
+Pub. L. 117–347, title III, § 322, Jan. 5, 2023, 136 Stat. 6206, provided that: “(a) In General.—Not later than 1 year after the date on which the National Academy of Sciences submits the report required under section 3(c) of the Better Cybercrime Metrics Act [Pub. L. 117–116] ([34 U.S.C. 30109](./chapter-301-computer-crimes-and-intellectual-property-crimes.md#section-30109) note), and once each year thereafter, the Director of the Office for Victims of Crime shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives that addresses, to the extent data are available, the nature, extent, and amount of funding under the Victims of Crime Act of 1984 ([34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101) et seq.) for victims of cybercrimes against individuals. “(b) Contents.—The report required under subsection (a) shall include—“(1) an analysis of victims’ assistance, victims’ compensation, and discretionary grants under which victims of cybercrimes against individuals received assistance; and “(2) recommendations for improving services for victims of cybercrimes against individuals.”
+
+[For definition of “cybercrime against individuals” as used in section 322 of Pub. L. 117–347, set out above, see [section 30107(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section30107/a&num=0&edition=prelim), as made applicable by section 3 of Pub. L. 117–347, which is set out as a note under [section 20145 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20145).]
+
 #### Victims of September 11, 2001
 Pub. L. 107–56, title VI, § 621(e), Oct. 26, 2001, 115 Stat. 371, provided that: “Amounts transferred to the Crime Victims Fund for use in responding to the airplane hijackings and terrorist acts (including any related search, rescue, relief, assistance, or other similar activities) that occurred on September 11, 2001, shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund, notwithstanding— “(1) section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 [section 1(a)(2) [title VI, § 619] of Pub. L. 106–553, formerly set out as a note below], and any similar limitation on Fund obligations in such Act for Fiscal Year 2002 [see Pub. L. 107–77, title VI, § 619, Nov. 28, 2001, 115 Stat. 802, formerly set out as a note below]; and “(2) subsections (c) and (d) of section 1402 of the Victims of Crime Act of 1984 ([42 U.S.C. 10601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10601&num=0&edition=prelim)) [now [34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)].”
 
 #### Limitation on Amounts Available for Obligation
-Pub. L. 117–103, div. B, title V, § 510, Mar. 15, 2022, 136 Stat. 145, provided in part that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)) in any fiscal year in excess of $2,600,000,000 shall not be available for obligation until the following fiscal year.”
+Pub. L. 118–42, div. C, title V, § 510, Mar. 9, 2024, 138 Stat. 168, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of Public Law 98–473 ([34 U.S.C. 20101](./chapter-201-victim-rights-compensation-and-assistance.md#section-20101)) in any fiscal year in excess of $1,353,000,000 shall not be available for obligation until the following fiscal year”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–328, div. B, title V, § 510, Dec. 29, 2022, 136 Stat. 4556.
+
+Pub. L. 117–103, div. B, title V, § 510, Mar. 15, 2022, 136 Stat. 145.
 
 Pub. L. 116–260, div. B, title V, § 510, Dec. 27, 2020, 134 Stat. 1277.
 
@@ -1870,7 +1879,7 @@ Each head of an Executive department (as defined in [section 101 of title 5](htt
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840, known as the Violence Against Women Act Reauthorization Act of 2022. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+This Act, referred to in text, is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840, known as the Violence Against Women Act Reauthorization Act of 2022. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 The Violence Against Women Act of 1994, referred to in text, is title IV of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1902. For complete classification of this Act to the Code, see section 40001 of Pub. L. 103–322, set out as a Short Title of 1994 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
@@ -1934,7 +1943,7 @@ For definitions of terms used in this section, see [section 12291 of this title]
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (b)(3) and (f), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840, known as the Violence Against Women Act Reauthorization Act of 2022. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+This Act, referred to in subsecs. (b)(3) and (f), is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840, known as the Violence Against Women Act Reauthorization Act of 2022. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 #### Effective Date
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
@@ -1974,7 +1983,7 @@ For definitions of terms used in this section, see [section 12291 of this title]
 #### References in Text
 This title, referred to in subsec. (c)(1)(A), means title VII of div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 889, which enacted this section, amended [section 12501 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12501) and [section 602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim), The Public Health and Welfare, and enacted provisions set out as notes under [section 12501 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12501) and [section 602 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section602&num=0&edition=prelim). For complete classification of title VII to the Code, see Tables.
 
-This Act, referred to in subsec. (c)(4), (5), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840, known as the Violence Against Women Act Reauthorization Act of 2022. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+This Act, referred to in subsec. (c)(4), (5), is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840, known as the Violence Against Women Act Reauthorization Act of 2022. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 #### Effective Date
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
@@ -2126,6 +2135,9 @@ For definitions of terms used in this section, see [section 12291 of this title]
 (9) **Authorization of appropriations** — There are authorized to be appropriated to the Director to carry out this section $5,000,000 for each of fiscal years 2023 through 2027, to remain available until expended.
 
 ### Statutory Notes
+
+#### References in Text
+This subsection, referred to in pars. (1), (3)(A)(vi), (4), and (8)(H), is subsec. (c) of section 1310 of div. W of Pub. L. 117–103, which is classified to this section.
 
 #### Effective Date
 Section not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as a note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
@@ -2335,13 +2347,13 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
     (iii) *Special Master to administer compensation from the Fund* — The Special Master shall administer the compensation program described in this section for United States persons who are victims of state sponsored terrorism.
 
-  (B) *Administrative costs and use of Department of Justice personnel* — The Special Master may utilize, as necessary, no more than 5 full-time equivalent Department of Justice personnel to assist in carrying out the duties of the Special Master under this section, except that, during the 1-year period beginning on November 21, 2019, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel. Any costs associated with the use of such personnel, and any other administrative costs of carrying out this section, shall be paid from the Fund.
+  (B) *Administrative costs and use of Department of Justice personnel* — The Special Master may utilize, as necessary, no more than 5 full-time equivalent Department of Justice personnel to assist in carrying out the duties of the Special Master under this section, except that, during the 1-year period beginning on November 21, 2019, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel and during the 1-year period beginning on December 29, 2022, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel. Any costs associated with the use of such personnel, and any other administrative costs of carrying out this section, shall be paid from the Fund.
 
   (C) *Compensation of Special Master* — The Special Master shall be compensated from the Fund at a rate not to exceed the annual rate of basic pay for level IV of the Executive Schedule, as prescribed by [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
 
 (2) **Publication of regulations and procedures**
 
-  (A) *In general* — Not later than 60 days after the date of the initial appointment of the Special Master, the Special Master shall publish in the Federal Register and on a website maintained by the Department of Justice a notice specifying the procedures necessary for United States persons to apply and establish eligibility for payment, including procedures by which eligible United States persons may apply by and through their attorney. Not later than 30 days after the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Such notice and any updates to that notice or other guidance are not subject to the requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
+  (A) *In general* — Not later than 60 days after the date of the initial appointment of the Special Master, the Special Master shall publish in the Federal Register and on a website maintained by the Department of Justice a notice specifying the procedures necessary for United States persons to apply and establish eligibility for payment, including procedures by which eligible United States persons may apply by and through their attorney. Not later than 30 days after the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Not later than 30 days after the date of enactment of the Fairness for 9/11 Families Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master. Such notice and any updates to that notice or other guidance are not subject to the requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
 
   (B) *Information regarding other sources of compensation* — As part of the procedures for United States persons to apply and establish eligibility for payment, the Special Master shall require applicants to provide the Special Master with information regarding compensation from any source other than this Fund that the claimant (or, in the case of a personal representative, the victim’s beneficiaries) has received or is entitled or scheduled to receive as a result of the act of international terrorism that gave rise to a claimant’s final judgment, including information identifying the amount, nature, and source of such compensation.
 
@@ -2393,7 +2405,11 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
       (II) a claim described in paragraph (2)(B) or (2)(C), except that any United States person with an eligible claim described in paragraph (2)(B) who did not have an eligible claim before November 21, 2019, shall have 90 days from November 21, 2019, to submit an application for payment.
 
-    (ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.
+    (ii) Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless—
+
+      (I) the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from the date of enactment of such Act to submit an application for payment; or
+
+      (II) the final judgment was awarded to a 1983 Beirut barracks bombing victim or a 1996 Khobar Towers bombing victim before December 29, 2022, in which case such United States person shall have 180 days from December 29, 2022, to submit an application for payment.
 
   (B) *Good cause* — For good cause shown, the Special Master may grant a claimant a reasonable extension of a deadline under this paragraph.
 
@@ -2431,9 +2447,11 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
     (ii) To the extent that an applicant with an eligible claim has received less than 30 percent of the compensatory damages owed that applicant under a final judgment or claim described in subsection (c)(2) from any source other than this Fund, such applicant may apply to the Special Master for the difference between the percentage of compensatory damages the applicant has received from other sources and the percentage of compensatory damages to be awarded other eligible applicants from the Fund.
 
+    (iii) For the purposes of clause (i), the calculation of the total compensatory damages received or entitled or scheduled to be received by an applicant who is a 1983 Beirut barracks bombing victim or a 1996 Khobar Towers bombing victim from any source other than the Fund shall include the total amount received by the applicant as a result of or in connection with the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Vic. 4518 (S.D.N.Y.), or the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), such that any such applicant who has received or is entitled or scheduled to receive 30 percent or more of such applicant’s compensatory damages judgment as a result of or in connection with such proceedings shall not receive any payment from the Fund, except in accordance with the requirements of clause (i), or as part of a lump-sum catch-up payment in accordance with paragraph (4)(D).
+
 (4) **Additional payments**
 
-  (A) *In general* — Except as provided in subparagraphs (B) and (C), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
+  (A) *In general* — Except as provided in subparagraphs (B), (C), and (D), on January 1 of the second calendar year that begins after the date of the initial payments described in paragraph (1) if funds are available in the Fund, the Special Master shall authorize additional payments on a pro rata basis to those claimants with eligible claims under subsection (c)(2) and shall authorize additional payments for eligible claims annually thereafter if funds are available in the Fund.
 
   (B) *Third round payments* — The Special Master shall authorize third-round payments to satisfy eligible claims under this section not earlier than 90 days, and not later than 180 days, after November 21, 2019. The Special Master shall accept applications from eligible applicants (consistent with the deadlines for application submission prescribed in subsection (c)(3)) until the date that is 90 days after November 21, 2019.
 
@@ -2452,6 +2470,48 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
       (III) the amount of the lump sum catch-up payment for each 9/11 dependent; and
 
       (IV) the total amount of lump sum catch-up payments described in subclauses (I) through (III).
+
+    (iv) *Authorization*
+
+      (I) *In general* — The Special Master shall authorize lump sum catch-up payments in amounts equal to the amounts described in subclauses (I), (II), and (III) of clause (iii).
+
+      (II) *Appropriations*
+
+        (aa) *In general* — There are authorized to be appropriated and there are appropriated to the Fund such sums as are necessary to carry out this clause, to remain available until expended.
+
+        (bb) *Limitation* — Amounts appropriated pursuant to item (aa) may not be used for a purpose other than to make lump sum catch-up payments under this clause.
+
+  (D) *Lump sum catch-up payments for 1983 Beirut barracks bombing victims and 1996 Khobar Towers bombing victims*
+
+    (i) *In general* — Not later than 1 year after December 29, 2022, and in accordance with clauses (i) and (ii) of paragraph (3)(A), the Comptroller General of the United States shall conduct an audit and publish in the Federal Register a notice of proposed lump sum catch-up payments to the 1983 Beirut barracks bombing victims and the 1996 Khobar Towers bombing victims who have submitted applications in accordance with subsection (c)(3)(A)(ii)(II) on or after such date of enactment, in amounts that, after receiving the lump sum catch-up payments, would result in the percentage of the claims of such victims received from the Fund being equal to the percentage of the claims of non-9/11 victims of state sponsored terrorism received from the Fund, as of December 29, 2022.
+
+    (ii) *Public comment* — The Comptroller General shall provide an opportunity for public comment for a 30-day period beginning on the date on which the notice is published under clause (i).
+
+    (iii) *Report* — Not later than 30 days after the expiration of the comment period in clause (ii), the Comptroller General of the United States shall submit to the Committee on the Judiciary and the Committee on Appropriations of the Senate, the Committee on the Judiciary and the Committee on Appropriations of the House of Representatives, and the Special Master a report that includes the determination of the Comptroller General on—
+
+      (I) the amount of the proposed lump sum catch-up payment for each 1983 Beirut barracks bombing victim;
+
+      (II) the amount of the proposed lump sum catch-up payment for each 1996 Khobar Towers bombing victim; and
+
+      (III) amount of lump sum catch-up payments described in subclauses (I) and (II).
+
+    (iv) *Lump sum catch-up payment reserve fund*
+
+      (I) *In general* — There is established within the Fund a lump sum catch-up payment reserve fund, to remain in reserve except in accordance with this subsection.
+
+      (II) *Authorization* — Not earlier than 90 days after the date on which the Comptroller General submits the report required under clause (iii), and not later than 1 year after such date, the Special Master shall authorize lump sum catch-up payments from the reserve fund established under subclause (I) in amounts equal to the amounts described in subclauses (I) and (II) of clause (iii).
+
+      (III) *Appropriations*
+
+        (aa) *In general* — There are authorized to be appropriated and there are appropriated to the lump sum catch-up payment reserve fund $3,000,000,000 to carry out this clause, to remain available until expended.
+
+        (bb) *Limitation* — Except as provided in subclause (IV), amounts appropriated pursuant to item (aa) may not be used for a purpose other than to make lump sum catch-up payments under this clause.
+
+      (IV) *Expiration*
+
+        (aa) *In general* — The lump sum catch-up payment reserve fund established by this clause shall be terminated not later than 1 year after the Special Master disperses all lump sum catch-up payments pursuant to subclause (II).
+
+        (bb) *Remaining amounts* — All amounts remaining in the lump sum catch-up payment reserve fund in excess of the amounts described in subclauses (I) and (II) of clause (iii) shall be deposited into the Fund under this section.
 
 (5) **Subrogation and retention of rights**
 
@@ -2496,6 +2556,12 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
         (aa) In the event that an adverse final judgment is entered in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y), prior to a final judgment being entered in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Civ. 10934 (S.D.N.Y. filed Dec. 17, 2008), the Special Master shall release a portion of an eligible claimant’s conditional payment to such eligible claimant if the Special Master anticipates that such claimant will receive less than the amount of the conditional payment from any proceeds from a final judgment that is entered in favor of the plaintiffs in In Re 650 Fifth Avenue & Related Properties. Such portion shall not exceed the difference between the amount of the conditional payment and the amount the Special Master anticipates such claimant will receive from the proceeds of In Re 650 Fifth Avenue & Related Properties.
 
         (bb) In the event that a final judgment is entered in favor of the plaintiffs in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Civ. 4518 (S.D.N.Y) and funds are distributed, the payments allocated to claimants who applied for a conditional payment under this subparagraph shall be considered void, and any funds previously allocated to such conditional payments shall be made available and distributed to all other eligible claimants pursuant to subsection (d).
+
+    (v) *Exception for 1983 Beirut barracks bombing victims and 1996 Khobar Towers bombing victims* — Nothing in this subparagraph shall apply with respect to—
+
+      (I) a 1983 Beirut barracks bombing victim or a 1996 Khobar Towers bombing victim who submits an application under subsection (c)(3)(A)(ii)(II) on or after December 29, 2022; or
+
+      (II) the assets, or the net proceeds of the sale of properties or related assets, attributable to a person described in subclause (I).
 
 (3) **Expenditures from Fund** — Amounts in the Fund shall be available, without further appropriation, for the payment of eligible claims and compensation of the Special Master in accordance with this section.
 
@@ -2587,12 +2653,26 @@ Section was formerly classified to [section 3743 of Title 42](https://uscode.hou
 
 (14) **9/11 victim** — The term “9/11 victim” means a United States person who has an eligible claim under subsection (c) who is an individual described in section 405(c)(2) of the Air Transportation Safety and System Stabilization Act ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note).
 
+(15) **1983 Beirut barracks bombing victim** — The term “1983 Beirut barracks bombing victim”—
+
+  (A) means a plaintiff, or estate or successor in interest thereof, who has an eligible claim under subsection (c) that arises out of the October 23, 1983, bombing of the United States Marine Corps barracks in Beirut, Lebanon; and
+
+  (B) includes a plaintiff, estate, or successor in interest described in subparagraph (A) who is a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Vic.22 So in original. Probably should be “Civ.” 4518 (S.D.N.Y.), or a Settling Judgment Creditor as identified in the order dated May 27, 2014, in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Vic.2 10934 (S.D.N.Y. filed Dec. 17, 2008).
+
+(16) **1996 Khobar Towers bombing victim** — The term “1996 Khobar Towers bombing victim”—
+
+  (A) means a plaintiff, or estate or successor in interest thereof, who has an eligible claim under subsection (c) that arises out of the June 25, 1996 bombing of the Khobar Tower housing complex in Saudi Arabia; and
+
+  (B) includes a plaintiff, estate, or successor in interest described in subparagraph (A) who is a judgment creditor in the proceedings captioned Peterson v. Islamic Republic of Iran, No. 10 Vic.2 4518 (S.D.N.Y.), or a Settling Judgment Creditor as identified in the order dated May 27, 2014, in the proceedings captioned In Re 650 Fifth Avenue & Related Properties, No. 08 Vic.2 10934 (S.D.N.Y. filed Dec. 17, 2008).
+
 **(k) Severability** The provisions of this section are severable. If any provision of this section, or any application thereof, is found unconstitutional, that finding shall not affect any provision or application of this section not so adjudicated.
 
 ### Statutory Notes
 
 #### References in Text
 The United States Victims of State Sponsored Terrorism Fund Clarification Act, referred to in subsec. (b)(2)(A), is Pub. L. 116–69, div. B, title VII, § 1701, Nov. 21, 2019, 133 Stat. 1140, which amended this section and enacted notes under this section and [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101). The date of enactment of the Act is Nov. 21, 2019.
+
+The Fairness for 9/11 Families Act, referred to in subsec. (b)(2)(A), is Pub. L. 117–328, div. MM, § 101, Dec. 29, 2022, 136 Stat. 6106, which amended this section and enacted a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101). The date of enactment of the Act is Dec. 29, 2022.
 
 [Section 1605(a)(7) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605/a/7&num=0&edition=prelim) (as such section was in effect on January 27, 2008), referred to in subsecs. (c)(2)(A)(ii) and (j)(8), refers to subsec. (a)(7) of [section 1605 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1605&num=0&edition=prelim) as it existed prior to being struck out by Pub. L. 110–181, § 1083(b)(1)(A). See 2008 Amendment note under that section.
 
@@ -2607,7 +2687,27 @@ Section 405 of the Air Transportation Safety and System Stabilization Act, refer
 #### Codification
 Section was formerly classified to [section 10609 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10609&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
+Section 101(b) of div. MM of 117–328, which directed amendment of section 404 of the Justice for United States Victims of State Sponsored Terrorism Act, was executed to this section, which comprises the entire Act, to reflect the probable intent of Congress.
+
 #### Amendments
+2022—Subsec. (b)(1)(B). Pub. L. 117–328, § 101(b)(1)(A), inserted “and during the 1-year period beginning on December 29, 2022, the Special Master may utilize an additional 5 full-time equivalent Department of Justice personnel” before period at end of first sentence. See Codification note above.
+
+Subsec. (b)(2)(A). Pub. L. 117–328, § 101(b)(1)(B), inserted “Not later than 30 days after the date of enactment of the Fairness for 9/11 Families Act, the Special Master shall update, as necessary as a result of the enactment of such Act, such procedures and other guidance previously issued by the Special Master.” after “guidance previously issued by the Special Master.” See Codification note above.
+
+Subsec. (c)(3)(A)(ii). Pub. L. 117–328, § 101(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “Not later than 90 days after the date of obtaining a final judgment, with regard to a final judgment obtained on or after the date of that publication, unless the final judgment was awarded to a 9/11 victim, 9/11 spouse, or 9/11 dependent before November 21, 2019, in which case such United States person shall have 90 days from November 21, 2019, to submit an application for payment.” See Codification note above.
+
+Subsec. (d)(3)(B)(iii). Pub. L. 117–328, § 101(b)(3)(A), added cl. (iii). See Codification note above.
+
+Subsec. (d)(4)(A). Pub. L. 117–328, § 101(b)(3)(B)(i), substituted “subparagraphs (B), (C), and (D)” for “subparagraphs (B) and (C)”. See Codification note above.
+
+Subsec. (d)(4)(C)(iv). Pub. L. 117–328, § 101(b)(3)(B)(ii), added cl. (iv). See Codification note above.
+
+Subsec. (d)(4)(D). Pub. L. 117–328, § 101(b)(3)(B)(iii), added subpar. (D). See Codification note above.
+
+Subsec. (e)(2)(B)(v). Pub. L. 117–328, § 101(b)(4), added cl. (v). See Codification note above.
+
+Subsec. (j)(15), (16). Pub. L. 117–328, § 101(b)(5), added pars. (15) and (16). See Codification note above.
+
 2020—Subsec. (c)(2)(A)(i). Pub. L. 116–260, § 1705(a)(1), substituted “foreign state that was designated as a state sponsor of terrorism at the time the acts described in clause (ii) occurred or was so designated as a result of such acts” for “state sponsor of terrorism”.
 
 Subsec. (d)(4)(A). Pub. L. 116–260, § 1705(b)(1), substituted “subparagraphs (B) and (C)” for “subparagraph (B)”.
@@ -2657,3 +2757,15 @@ Pub. L. 116–69, div. B, title VII, § 1701(d), Nov. 21, 2019, 133 Stat. 1143, 
 
 #### Construction of 2019 Amendment
 Pub. L. 116–69, div. B, title VII, § 1701(c), Nov. 21, 2019, 133 Stat. 1143, provided that: “A determination by the Special Master before the date of enactment of the United States Victims of State Sponsored Terrorism Fund Clarification Act [Nov. 21, 2019] that an award or award determination under section 405 of the Air Transportation Safety and Stabilization Act [Pub. L. 107–42] ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note) was controlling for purposes of the Fund (pursuant to subsection (d)(3)(A)(ii)(III) of the Justice for United States Victims of State Sponsored Terrorism Act ([34 U.S.C. 20144(d)(3)(A)(ii)(III)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20144/d/3/A/ii/III&num=0&edition=prelim)), as such section was in effect on the day before the date of enactment of this Act [Nov. 21, 2019]) shall not prejudice a claim of a 9/11 victim, 9/11 spouse, or 9/11 dependent.”
+
+
+<a id="section-20145"></a>
+## § 20145. Elimination of barriers
+**(a) Minors** A Federal agency may not require a survivor of human trafficking who is less than 18 years of age or a homeless youth to obtain the consent or signature of the parent or guardian of the survivor or homeless youth to receive a copy of a Government-issued identity card issued to the survivor or homeless youth.
+
+**(b) Fees** A Federal agency may not charge a survivor of human trafficking or a homeless youth a fee to obtain a copy of a Government-issued identity card issued to the survivor or homeless youth.
+
+### Statutory Notes
+
+#### Definitions
+Pub. L. 117–347, § 3, Jan. 5, 2023, 136 Stat. 6199, provided that: “In this Act [see section 1 of Pub. L. 117–347, set out as a Short Title of 2023 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)]: “(1) Computer.—The term ‘computer’ includes a computer network and any interactive electronic device. “(2) Cybercrime against individuals.—The term ‘cybercrime against individuals’ has the meaning given that term in section 1401(a) [of the] Violence Against Women Act Reauthorization Act of 2022 ([34 U.S.C. 30107(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section30107/a&num=0&edition=prelim)). “(3) Homeless youth.—The term ‘homeless youth’ has the meaning given the term ‘homeless children and youths’ in section 725 of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11434a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section11434a&num=0&edition=prelim)).”

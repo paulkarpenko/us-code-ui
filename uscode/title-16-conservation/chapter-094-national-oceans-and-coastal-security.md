@@ -76,13 +76,18 @@ The National Fish and Wildlife Foundation Establishment Act, referred to in subs
 
 <a id="section-7504"></a>
 ## § 7504. Eligible uses
-**(a) In general** Amounts in the Fund may be allocated by the Foundation to support programs and activities intended to better understand and utilize ocean and coastal resources and coastal infrastructure, including baseline scientific research, ocean observing, and other programs and activities carried out in coordination with Federal and State departments or agencies.
+**(a) In general** Amounts in the Fund may be allocated by the Foundation to support programs and activities intended to better understand and utilize ocean and coastal resources, coastal infrastructure, and ecosystem services provided by natural systems such as coral reefs, including baseline scientific research, ocean observing, and other programs and activities carried out in coordination with Federal and State departments or agencies.
 
 **(b) Prohibition on use of funds for litigation or other purposes** No funds made available under this chapter may be used to—
 
 (1) fund litigation against the Federal Government; or
 
 (2) fund the creation of national marine monuments and marine protected areas, marine spatial planning, or the National Ocean Policy.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263 substituted “, coastal infrastructure, and ecosystem services provided by natural systems such as coral reefs” for “and coastal infrastructure”.
 
 
 <a id="section-7505"></a>

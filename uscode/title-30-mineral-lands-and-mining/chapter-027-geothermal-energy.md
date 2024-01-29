@@ -139,7 +139,7 @@ The Secretary shall conduct a detailed study of the need for and feasibility of 
 #### References in Text
 Section 27A of the Merchant Marine Act, 1920, referred to in subsec. (b)(7), is section 27A of act June 5, 1920, ch. 250, as added Pub. L. 85–902, Sept. 2, 1958, 72 Stat. 1736, which was classified to section 883–1 of the former Appendix to Title 46, Shipping, and was repealed and restated in [section 12118 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section12118&num=0&edition=prelim), Shipping, by Pub. L. 109–304, §§ 5, 19, Oct. 6, 2006, 120 Stat. 1491, 1710.
 
-This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, as amended, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8801&num=0&edition=prelim), The Public Health and Welfare, and Tables.
+This Act, referred to in subsec. (i), is Pub. L. 96–294, June 30, 1980, 94 Stat. 611, known as the Energy Security Act. For complete classification of this Act to the Code, see Short Title note set out under [section 8801 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8801&num=0&edition=prelim), The Public Health and Welfare, and Tables.
 
 [Section 1144 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1144&num=0&edition=prelim), referred to in subsec. (j), was repealed by Pub. L. 116–260, div. Z, title III, § 3002(i)(3), Dec. 27, 2020, 134 Stat. 2495.
 

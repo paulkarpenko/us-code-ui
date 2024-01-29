@@ -140,7 +140,7 @@ By virtue of the authority vested in me by the Peace Corps Act, as amended ([22 
 1–707. This Order shall become effective May 16, 1979.
 
 #### Executive Order No. 12468
-Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12468, Mar. 22, 1984, 49 F.R. 11139, which established the Presidential Advisory Council on the Peace Corps and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2501a"></a>
@@ -450,7 +450,7 @@ Functions of President under subsecs. (c)(1), (4), (d) delegated to Director of 
 
 (3) If a volunteer dies, the Peace Corps shall take reasonable measures, in accordance with local laws, to preserve any information or material, in any medium or format, that may be relevant to determining the cause or root cause of the death of the volunteer, including personal effects, medication, and other tangible items belonging to the volunteer, as long as such measures do not interfere with the legal procedures of the host country if the government of the host country is exercising jurisdiction over the investigation of such death. The Inspector General of the Peace Corps shall be provided an opportunity to inspect such items before their final disposition.
 
-(4) Consistent with the Inspector General Act of 1978 (5 U.S.C. App.), the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
+(4) Consistent with the Inspector General Act of 1978 (5 U.S.C. App.),1 the Inspector General of the Peace Corps may independently review the facts and circumstances surrounding the death of a volunteer and the actions taken by the Peace Corps in responding to such incident.
 
 (5) For the purposes of undertaking a review under this section, an officer or employee of the United States or a member of the Armed Forces may be detailed to the Inspector General of the Peace Corps from another department of the United States Government on a nonreimbursable basis, as jointly agreed to by the Inspector General and the detailing department, for a period not to exceed 1 year. This paragraph may not be construed to limit or modify any other source of authority for reimbursable or nonreimbursable details. A nonreimbursable detail made under this section may not be considered an augmentation of the appropriations of the Peace Corps.
 
@@ -473,7 +473,7 @@ The Federal Tort Claims Act, referred to in subsec. (i), is title IV of act Aug.
 
 Subsection (l) of this section, referred to in subsec. (n)(4), was redesignated as subsec. (m) by Pub. L. 115–256, title I, § 101(a)(1)(B), Oct. 9, 2018, 132 Stat. 3651.
 
-The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (p)(4), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 4 (§ 401 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(b), 7, Dec. 27, 2022, 136 Stat. 4206, 4361. For disposition of sections of the Act into chapter 4 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
 2018—Subsec. (e). Pub. L. 115–256, § 101(a)(1)(A), substituted “receive, preparatory to their service, such immunization, dental care, and information on prescription options and potential interactions, as necessary and appropriate and in accordance with subsection (f)” for “receive such immunization and dental care preparatory to their service”.
@@ -1059,16 +1059,15 @@ Subsec. (e). Pub. L. 115–256, § 304(3), amended subsec. (e) generally. Prior 
 
 **(e) Employee status** Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-**(f) Nonapplicability of FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Council.
+**(f) Nonapplicability of chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the Council.
 
 **(g) Sunset** This section shall cease to be effective on October 1, 2023.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Subsec. (b). Pub. L. 115–256, § 305(1), substituted “not fewer than 8 and not more than 14 individuals selected by the President” for “not less than 8 individuals selected by the President, not later than 180 days after November 21, 2011,” and inserted “At least one member should be licensed in the field of mental health and have prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization.” after “sexual assault field.”
 
 Subsec. (c). Pub. L. 115–256, § 305(2), inserted “and implemented” after “sexual assault policy developed” and inserted at end “To carry out this subsection, the Council may conduct case reviews and is authorized to have access, including through interviews, to current and former volunteers (to the extent that such volunteers provide the Peace Corps express consent to be interviewed by the Council), to volunteer surveys under [section 2705e of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2705e&num=0&edition=prelim), to all data collected from restricted reporting, and to any other information necessary to conduct case reviews, except that the Council may not have access to any personally identifying information associated with such surveys, data, or information.”
@@ -1254,7 +1253,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§ 3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901) and Tables.
 
-The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
+The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, which was classified principally to section 1211 et seq. of the former Appendix to Title 50, War and National Defense, prior to its omission from the Code.
 
 #### Codification
 In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
@@ -1397,7 +1396,7 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 For termination, effective May 15, 2000, of provisions in subsec. (i) of this section relating to requirement that the President submit to Congress a copy of each report received under subsec. (i), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and page 14 of House Document No. 103–7.
 
 #### Termination of Advisory Councils
-Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Termination of Similar Advisory Body
 Pub. L. 99–83, title XI, § 1104(b), Aug. 8, 1985, 99 Stat. 275, provided that: “Any advisory body carrying out functions similar to those assigned to the Peace Corps National Advisory Council provided for in subsection (a) [enacting this section] shall cease to exist sixty days after the date of the enactment of this Act [Aug. 8, 1985].”

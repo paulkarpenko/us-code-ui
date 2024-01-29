@@ -286,7 +286,7 @@ There shall be printed and furnished to the Library of Congress for official use
 #### Historical and Revision Notes
 Based on 44 U.S. Code, 1964 ed., § 139 (Jan. 28, 1899, No. 12, 30 Stat. 1388; Mar. 2, 1901, No. 16, §§ 1, 2, 31 Stat. 1464; June 20, 1936, ch. 630, title IV, § 6, 49 Stat. 1550).
 
-Reference to the Official Register is omitted as obsolete. The authorization for its compilation was repealed by Public Law 88–626.
+Reference to the Official Register is omitted as obsolete. The authorization for its compilation was repealed by Public Law 88–626 [86–626].
 
 #### Codification
 The 1982 amendment by Pub. L. 97–276 is based on section 305(a) of S. 2939, Ninety-seventh Congress, 2d Session, as reported Sept. 22, 1982, and incorporated by reference in section 101(e) of Pub. L. 97–276, to be effective as if enacted into law.

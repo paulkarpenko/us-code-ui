@@ -46,7 +46,7 @@ In subsection (b) the words “in any case whether public quarters are available
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.
@@ -187,7 +187,7 @@ Amendment by section 602(d)(3) of Pub. L. 98–525 effective Jan. 1, 1985, with 
 Pub. L. 97–60, title II, § 207(c), Oct. 14, 1981, 95 Stat. 1008, provided that: “The amendments made by this section [amending this section] shall take effect as of October 1, 1981.”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective and Termination Date of 1980 Amendment
 Pub. L. 96–357, § 3, Sept. 24, 1980, 94 Stat. 1182, as amended by Pub. L. 97–60, title II, § 207(a), Oct. 14, 1981, 95 Stat. 1007; Pub. L. 98–94, title IX, § 912(b), Sept. 24, 1983, 97 Stat. 640; Pub. L. 98–525, title VI, § 603(b), Oct. 19, 1984, 98 Stat. 2537; Pub. L. 99–145, title VI, § 606(b), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–661, div. A, title VI, § 603(b), Nov. 14, 1986, 100 Stat. 3874, eff. Oct. 1, 1986, provided that the amendment made by that section is effective only for the period beginning Oct. 1, 1980, and ending Sept. 30, 1991. Pub. L. 99–500, § 101(c) [title IX, § 9107], Oct. 18, 1986, 100 Stat. 1783–82, 1783–119, and Pub. L. 99–591, § 101(c) [title IX, § 9107], Oct. 30, 1986, 100 Stat. 3341–82, 3341–119, extended the authority for reimbursement provided pursuant to section 3 of Public Law 96–357 (see above) through Sept. 30, 1987, at an amount not to exceed $1,657,000.
@@ -259,7 +259,7 @@ In subsection (a) the words “appropriated funds” are substituted for the wor
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Repeals
 The directory language of, but not the amendment made by, Pub. L. 89–718, § 8(a), Nov. 2, 1966, 80 Stat. 1117, cited as a credit to this section, was repealed by Pub. L. 97–295, § 6(b), Oct. 12, 1982, 96 Stat. 1314.

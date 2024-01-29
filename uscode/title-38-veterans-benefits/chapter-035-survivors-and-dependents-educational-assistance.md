@@ -83,6 +83,15 @@ Pub. L. 90–631, § 6(a), Oct. 23, 1968, 82 Stat. 1335, provided that: “The a
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(6)
+Pub. L. 117–328, div. U, title II, § 215, Dec. 29, 2022, 136 Stat. 5455, provided that effective on August 1, 2026, subsection (a)(6) of this section is amended:
+
+(1) by striking “secondary school,”; and
+
+(2) by striking “secondary school level” and inserting “postsecondary school level”.
+
+See 2022 Amendment note below.
+
 #### References in Text
 The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 1937, ch. 663, 50 Stat. 664, which is classified generally to chapter 4C (§ 50 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section50&num=0&edition=prelim) and Tables.
 
@@ -90,6 +99,8 @@ The National Apprenticeship Act, referred to in subsec. (a)(9), is act Aug. 16, 
 Prior sections 3501 to 3505 were renumbered sections 6101 to 6105 of this title, respectively.
 
 #### Amendments
+2022—Subsec. (a)(6). Pub. L. 117–328 struck out “secondary school,” after “ private” and substituted “postsecondary school level” for “secondary school level”.
+
 2021—Subsec. (a)(1)(E)(ii), (12). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 2006—Pub. L. 109–461, § 1006(b), provided that as of the enactment of Pub. L. 109–461, the amendments made by Pub. L. 109–444 were deemed for all purposes not to have taken effect and that Pub. L. 109–444 ceased to be in effect. See Amendment notes below and section 1006(b) of Pub. L. 109–461, set out as a Coordination of Provisions With Pub. L. 109–444 note under [section 101 of this title](./chapter-001-general.md#section-101).
@@ -211,6 +222,9 @@ Subsec. (a)(9). Pub. L. 86–785, § 2, added par. (9).
 Subsec. (d). Pub. L. 86–785, § 3, substituted “the Korean conflict, or the induction period” for “or the Korean conflict”.
 
 1959—Subsecs. (a)(1), (d). Pub. L. 86–236 inserted reference to Spanish-American War.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. U, title II, § 215(b), Dec. 29, 2022, 136 Stat. 5455, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on August 1, 2026, and shall apply with respect to an academic period that begins on or after that date.”
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–461, title III, § 301(d), Dec. 22, 2006, 120 Stat. 3427, provided that: “The amendments made by this section [amending this section and sections 3511, 3512, 3540, 3563, 3686, and 5113 of this title] shall apply with respect to a payment of educational assistance for a course of education pursued after the date of the enactment of this Act [Dec. 22, 2006].”
@@ -378,7 +392,7 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
 <a id="section-3512"></a>
 ## § 3512. Periods of eligibility
-**(a)** The educational assistance to which an eligible person whose eligibility is based on the death or disability of a parent or on a parent being listed in one of the categories referred to in [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) is entitled under [section 3511 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3511) or subchapter V of this chapter may be afforded the person during the period beginning on the person’s eighteenth birthday, or on the successful completion of the person’s secondary schooling, whichever first occurs, and ending on the person’s twenty-sixth birthday, except that—
+**(a)** Except as provided in subsection (g), the educational assistance to which an eligible person whose eligibility is based on the death or disability of a parent or on a parent being listed in one of the categories referred to in [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) is entitled under [section 3511 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3511) or subchapter V of this chapter may be afforded the person during the period beginning on the person’s eighteenth birthday, or on the successful completion of the person’s secondary schooling, whichever first occurs, and ending on the person’s twenty-sixth birthday, except that—
 
 (1) if the person is above the age of compulsory school attendance under applicable State law, and the Secretary determines that the person’s best interests will be served thereby, such period may begin before the person’s eighteenth birthday;
 
@@ -418,7 +432,7 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
 (1)
 
-  (A) Except as provided in subparagraph (B), (C), or (D), a person made eligible by subparagraph (B) or (D) of [section 3501(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1&num=0&edition=prelim) or a person made eligible by the disability of a spouse under [section 3501(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/E&num=0&edition=prelim) may be afforded educational assistance under this chapter during the 10-year period beginning on the date (as determined by the Secretary) the person becomes an eligible person within the meaning of section 3501(a)(1)(B), 3501(a)(1)(D)(i), 3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title. In the case of a surviving spouse made eligible by clause (ii) of [section 3501(a)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/D&num=0&edition=prelim), the 10-year period may not be reduced by any earlier period during which the person was eligible for educational assistance under this chapter as a spouse made eligible by clause (i) of that section.
+  (A) Except as provided in subsection (g) or subparagraph (B), (C), or (D), a person made eligible by subparagraph (B) or (D) of [section 3501(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1&num=0&edition=prelim) or a person made eligible by the disability of a spouse under [section 3501(a)(1)(E) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/E&num=0&edition=prelim) may be afforded educational assistance under this chapter during the 10-year period beginning on the date (as determined by the Secretary) the person becomes an eligible person within the meaning of section 3501(a)(1)(B), 3501(a)(1)(D)(i), 3501(a)(1)(D)(ii), or 3501(a)(1)(E) of this title. In the case of a surviving spouse made eligible by clause (ii) of [section 3501(a)(1)(D) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/D&num=0&edition=prelim), the 10-year period may not be reduced by any earlier period during which the person was eligible for educational assistance under this chapter as a spouse made eligible by clause (i) of that section.
 
   (B) Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph may, subject to the Secretary’s approval, elect a later beginning date for the 10-year period than would otherwise be applicable to the person under that subparagraph. The beginning date so elected may be any date between the beginning date determined for the person under subparagraph (A) and whichever of the following dates applies:
 
@@ -432,7 +446,7 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
   (D) Notwithstanding subparagraph (A), an eligible person referred to in that subparagraph who is made eligible under [section 3501(a)(1)(D)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/D/i&num=0&edition=prelim) by reason of a service-connected disability that was determined to be a total disability permanent in nature not later than three years after discharge from service may be afforded educational assistance under this chapter during the 20-year period beginning on the date the disability was so determined to be a total disability permanent in nature, but only if the eligible person remains the spouse of the disabled person throughout the period.
 
-(2) Notwithstanding the provisions of paragraph (1) of this subsection, in the case of any eligible person (as defined in section 3501(a)(1)(B), (C), (D), or (E) of this title) whose eligibility is based on the death or disability of a spouse or on a spouse being listed in one of the categories referred to in [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) who was prevented from initiating or completing such person’s chosen program of education within such period because of a physical or mental disability which was not the result of such person’s own willful misconduct, such person shall, upon application made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of mental or physical disability, or (C) October 1, 1980, whichever is the latest, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such person was so prevented from initiating or completing such program of education. When an extension of the applicable delimiting period is granted under the exception in the preceding sentence, the delimiting period will again begin running on the first day following such eligible person’s recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations which the Secretary shall prescribe, for such eligible person to initiate or resume pursuit of a program of education with educational assistance under this chapter.
+(2) Except as provided in subsection (g), notwithstanding the provisions of paragraph (1) of this subsection, in the case of any eligible person (as defined in section 3501(a)(1)(B), (C), (D), or (E) of this title) whose eligibility is based on the death or disability of a spouse or on a spouse being listed in one of the categories referred to in [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) who was prevented from initiating or completing such person’s chosen program of education within such period because of a physical or mental disability which was not the result of such person’s own willful misconduct, such person shall, upon application made within one year after (A) the last date of the delimiting period otherwise applicable under this section, (B) the termination of the period of mental or physical disability, or (C) October 1, 1980, whichever is the latest, be granted an extension of the applicable delimiting period for such length of time as the Secretary determines, from the evidence, that such person was so prevented from initiating or completing such program of education. When an extension of the applicable delimiting period is granted under the exception in the preceding sentence, the delimiting period will again begin running on the first day following such eligible person’s recovery from such disability on which it is reasonably feasible, as determined in accordance with regulations which the Secretary shall prescribe, for such eligible person to initiate or resume pursuit of a program of education with educational assistance under this chapter.
 
 **(c)**
 
@@ -458,13 +472,19 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 
 **(d)** The term “first finds” as used in this section means the effective date of the rating or date of notification to the person from whom eligibility is derived establishing a service-connected total disability permanent in nature whichever is more advantageous to the eligible person.
 
-**(e)** No person made eligible by [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) based on a spouse being listed in one of the categories referred to in [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) may be afforded educational assistance under this chapter beyond 10 years after the date on which the spouse was so listed.
+**(e)** Except as provided in subsection (g), no person made eligible by [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) based on a spouse being listed in one of the categories referred to in [section 3501(a)(1)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3501/a/1/C&num=0&edition=prelim) may be afforded educational assistance under this chapter beyond 10 years after the date on which the spouse was so listed.
 
-**(f)** Repealed. Pub. L. 108–183, title III, § 306(f)(2), Dec. 16, 2003, 117 Stat. 2661.]
+**(f)** Notwithstanding any other provision of this section, if an eligible person, during the delimiting period otherwise applicable to such person under this section, serves on active duty pursuant to an order to active duty issued under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, or is involuntarily ordered to full-time National Guard duty under [section 502(f) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f&num=0&edition=prelim), such person shall be granted an extension of such delimiting period for the length of time equal to the period of such active duty plus four months.
 
-**(g)** Repealed. Pub. L. 107–103, title I, § 108(b)(2), Dec. 27, 2001, 115 Stat. 985.]
+**(g)** Notwithstanding any other provision of this section, the following persons may be afforded educational assistance under this chapter at any time after August 1, 2023, and without regard to the age of the person:
 
-**(h)** Notwithstanding any other provision of this section, if an eligible person, during the delimiting period otherwise applicable to such person under this section, serves on active duty pursuant to an order to active duty issued under section 688, 12301(a), 12301(d), 12301(g), 12302, or 12304 of title 10, or is involuntarily ordered to full-time National Guard duty under [section 502(f) of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f&num=0&edition=prelim), such person shall be granted an extension of such delimiting period for the length of time equal to the period of such active duty plus four months.
+(1) A person who first becomes an eligible person on or after August 1, 2023.
+
+(2) A person who—
+
+  (A) first becomes an eligible person before August 1, 2023; and
+
+  (B) becomes 18 years of age, or completes secondary schooling, on or after August 1, 2023.
 
 ### Statutory Notes
 
@@ -472,6 +492,16 @@ Amendment by Pub. L. 90–631 effective first day of second calendar month which
 Section 2 of Public Law 87–117 [75 Stat. 242], referred to in subsec. (a)(5), was set out as a note under former [section 263 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section263&num=0&edition=prelim), Armed Forces.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328, § 234(b)(1), substituted “Except as provided in subsection (g), the educational” for “The educational” in introductory provisions.
+
+Subsec. (b)(1)(A). Pub. L. 117–328, § 234(b)(2)(A), inserted “subsection (g) or” after “provided in”.
+
+Subsec. (b)(2). Pub. L. 117–328, § 234(b)(2)(B), substituted “Except as provided in subsection (g), notwithstanding” for “Notwithstanding”.
+
+Subsec. (e). Pub. L. 117–328, § 234(b)(3), substituted “Except as provided in subsection (g), no person” for “No person”.
+
+Subsecs. (f) to (h). Pub. L. 117–328, § 234(a), redesignated subsec. (h) as (f) and added subsec. (g).
+
 2021—Subsec. (b)(1)(B)(iii). Pub. L. 116–283 substituted “air, or space service” for “or air service”.
 
 2011—Subsec. (c). Pub. L. 111–377 amended subsec. (c) generally. Prior to amendment, text read as follows: “Notwithstanding the provisions of subsection (a) of this section, an eligible person may be afforded educational assistance beyond the age limitation applicable to such person under such subsection if (1) such person suspends pursuit of such person’s program of education after having enrolled in such program within the time period applicable to such person under such subsection, (2) such person is unable to complete such program after the period of suspension and before attaining the age limitation applicable to such person under such subsection, and (3) the Secretary finds that the suspension was due to conditions beyond the control of such person; but in no event shall educational assistance be afforded such person by reason of this subsection beyond the age limitation applicable to such person under subsection (a) of this section plus a period of time equal to the period such person was required to suspend the pursuit of such person’s program, or beyond such person’s thirty-first birthday, whichever is earlier.”
@@ -1316,9 +1346,12 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 <a id="section-3535"></a>
 ## § 3535. Approval of courses
 
-An eligible person shall receive the benefits of this chapter while enrolled in a course of education offered by an educational institution only if such course (1) is approved in accordance with the provisions of subchapter I of chapter 36 of this title, or (2) is approved for the enrollment of the particular individual under the provisions of [section 3536 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3536).
+An eligible person shall receive the benefits of this chapter while enrolled in a course of education offered by an educational institution only if such course (1) is approved in accordance with the provisions of subchapter I 11 See References in Text note below. of chapter 36 of this title, or (2) is approved for the enrollment of the particular individual under the provisions of [section 3536 of this title](./chapter-035-survivors-and-dependents-educational-assistance.md#section-3536).
 
 ### Statutory Notes
+
+#### References in Text
+Subchapter I of chapter 36 of this title, referred to in text, was redesignated subchapter II (§ 3670 et seq.) of chapter 36 of this title by Pub. L. 117–333, § 2(a)(1), Jan. 5, 2023, 136 Stat. 6122.
 
 #### Amendments
 1991—Pub. L. 102–83 renumbered [section 1735 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1735) as this section and substituted “3536” for “1736”.

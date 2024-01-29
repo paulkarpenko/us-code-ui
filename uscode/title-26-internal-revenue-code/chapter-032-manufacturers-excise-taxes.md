@@ -452,7 +452,7 @@ Amendment by act June 29, 1956, effective July 1, 1956, see section 211 of act J
 
   (A) after December 31, 1996, and before the date which is 7 days after the date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, and
 
-  (B) after September 30, 2023.
+  (B) after September 30, 2028.
 
 (3) **Leaking Underground Storage Tank Trust Fund financing rate** — The Leaking Underground Storage Tank Trust Fund financing rate under subsection (a)(2) shall apply after September 30, 1997, and before October 1, 2028.
 
@@ -466,6 +466,14 @@ Section 211 of the Clean Air Act, referred to in subsec. (a)(2)(D), is classifie
 The date of the enactment of the Airport and Airway Trust Fund Tax Reinstatement Act of 1997, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 105–2, which was approved Feb. 28, 1997.
 
 #### Amendments
+2024—Subsec. (d)(2)(B). Pub. L. 118–63 substituted “September 30, 2028” for “May 10, 2024”.
+
+Pub. L. 118–41 substituted “May 10, 2024” for “March 8, 2024”.
+
+2023—Subsec. (d)(2)(B). Pub. L. 118–34 substituted “March 8, 2024” for “December 31, 2023”.
+
+Pub. L. 118–15 substituted “December 31, 2023” for “September 30, 2023”.
+
 2021—Subsec. (d)(1). Pub. L. 117–58, § 80102(a)(1)(C), substituted “September 30, 2028” for “September 30, 2022”.
 
 Subsec. (d)(3). Pub. L. 117–58, § 80102(a)(2)(D), substituted “October 1, 2028” for “October 1, 2022”.
@@ -1220,7 +1228,7 @@ Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provide
 
   (B) *Transmix* — For purposes of subparagraph (A), the term “transmix” means a byproduct of refined products pipeline operations created by the mixing of different specification products during pipeline transportation.
 
-**(b) Commercial aviation** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2023, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
+**(b) Commercial aviation** For purposes of this subpart, the term “commercial aviation” means any use of an aircraft in a business of transporting persons or property for compensation or hire by air, unless properly allocable to any transportation exempt from the taxes imposed by sections 4261 and 4271 by reason of section 4281 or 4282 or by reason of subsection (h) or (i) of section 4261. Such term shall not include the use of any aircraft before October 1, 2028, if tax is imposed under section 4043 with respect to the fuel consumed in such use or if no tax is imposed on such use under section 4043 by reason of subsection (c)(5) thereof.
 
 **(c) Certain uses defined as removal** If any person uses taxable fuel (other than in the production of taxable fuels or special fuels referred to in section 4041), such use shall for the purposes of this chapter be considered a removal.
 
@@ -1249,6 +1257,14 @@ Pub. L. 108–357, title VIII, § 854(b), Oct. 22, 2004, 118 Stat. 1615, provide
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–63 substituted “October 1, 2028” for “May 11, 2024”.
+
+Pub. L. 118–41 substituted “May 11, 2024” for “March 9, 2024”.
+
+2023—Subsec. (b). Pub. L. 118–34 substituted “March 9, 2024” for “January 1, 2024”.
+
+Pub. L. 118–15 substituted “January 1, 2024” for “October 1, 2023”.
+
 2018—Subsec. (b). Pub. L. 115–254 substituted “October 1, 2023” for “October 1, 2018”.
 
 Pub. L. 115–141 substituted “October 1, 2018” for “April 1, 2018”.
@@ -2615,7 +2631,7 @@ Repeal effective on first day of first calendar quarter which begins more than 6
 (5) to a nonprofit educational organization for its exclusive use, or
 
 (6) to a qualified blood collector organization (as defined in section 7701(a)(49)) for such organization’s exclusive use in the collection, storage, or transportation of blood,
-but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051 or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2028. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe.
+but only if such exportation or use is to occur before any other use. Paragraphs (4), (5), and (6) shall not apply to the tax imposed by section 4064. In the case of taxes imposed by section 4051 or 4071, paragraphs (4) and (5) shall not apply on and after October 1, 2028. In the case of the tax imposed by section 4131, paragraphs (3), (4), and (5) shall not apply and paragraph (2) shall apply only if the use of the exported vaccine meets such requirements as the Secretary may by regulations prescribe. In the case of taxes imposed by subchapter C or D, paragraph (6) shall not apply.
 
 **(b) Proof of resale for further manufacture; proof of export** Where an article has been sold free of tax under subsection (a)—
 

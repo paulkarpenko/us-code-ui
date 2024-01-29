@@ -2,7 +2,7 @@
 title: 46
 chapter: '513'
 heading: UNITED STATES MERCHANT MARINE ACADEMY
-section_count: 24
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -64,6 +64,12 @@ Pub. L. 111–383 inserted “as an institution of higher education” after “
 
 #### Savings Clause
 Pub. L. 114–328, div. C, title XXXV, § 3506(b), Dec. 23, 2016, 130 Stat. 2777, provided that: “Nothing in this section [amending this section] may be construed to require any change to the current leadership of the United States Merchant Marine Academy.”
+
+#### United States Merchant Marine Academy and Coast Guard Academy Matters; Maritime Administration Requirements
+Pub. L. 118–31, div. C, title XXXV, § 3533(a), Dec. 22, 2023, 137 Stat. 828, provided that: “(a) Training Course on Workings of Congress.—“(1) In general.—Not later than 180 days after the date of the enactment of this section [Dec. 22, 2023], the Secretary of Transportation, in consultation with the Maritime Administrator, the Superintendent of the United States Merchant Marine Academy, and such other individuals and organizations as the Secretary of Transportation considers appropriate, shall develop a training course on the workings of Congress and offer that training course at least once each year. This course shall be similar in design to the training course required under [section 315 of title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section315&num=0&edition=prelim), United States Code, as practicable. “(2) Course subject matter.—The training course required by paragraph (1) shall provide an overview and introduction to Congress and the Federal legislative process, including—“(A) the history and structure of Congress and the committee systems of the Senate and the House of Representatives, including the functions and responsibilities of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives; “(B) the documents produced by Congress, including bills, resolutions, committee reports, and conference reports, and the purposes and functions of those documents; “(C) the legislative processes and rules of the Senate and the House of Representatives, including similarities and differences between the processes and rules of each chamber, including—“(i) the congressional budget process; “(ii) the congressional authorization and appropriations processes; “(iii) the Senate advice and consent process for Presidential nominees; and “(iv) the Senate advice and consent process for treaty ratification; “(D) the roles of Members of Congress and congressional staff in the legislative process; and “(E) the concept and underlying purposes of congressional oversight within the governance framework of separation of powers of the United States. “(3) Lecturers and panelists.—“(A) Outside experts.—The Secretary of Transportation shall ensure that not less than 60 percent of the lecturers, panelists, and other individuals providing education and instruction as part of the training course required by this subsection are bipartisan subject matter experts on Congress and the Federal legislative process who are not employed by the executive branch of the Federal Government. “(B) Authority to accept pro bono services.—In satisfying the requirement under subparagraph (A), the Secretary of Transportation shall seek, and may accept, educational and instructional services of lecturers, panelists, and other individuals and organizations provided to the Department of Transportation on a pro bono basis. “(4) Completion of required training.—“(A) In general.—Not later than 60 days after the date on which the Secretary of Transportation completes the development of the training course described in this section, and annually thereafter while serving in applicable positions, the covered individuals described in subparagraph (B) shall complete the training course described in this subsection. “(B) Covered individuals.—The covered individuals in this subsection are the following:“(i) The Administrator of the Maritime Administration and the Deputy Administrator of the Maritime Administration. “(ii) Any official of the Maritime Administration whose appointment is subject to the advice and consent of the Senate and Maritime Administration employees that are serving in a Senior Executive Service position (as defined in [section 3132(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132/a&num=0&edition=prelim), United States Code). “(iii) Any Maritime Administration employees whose duties consist of engagement with congressional, governmental, or public affairs, who are appointed or assigned to a billet in the National Capital Region on the date on which the Secretary of Transportation completes the development of the training course described in this section. “(iv) The Superintendent, Deputy Superintendent, Provost, Commandant of Midshipmen, Counsel, and Director of Public Affairs of the United States Merchant Marine Academy. “(C) New officials and employees.—Any Maritime Administration official or employee or United States Merchant Marine Academy official or employee who is a covered individual described in subparagraph (B) who is newly appointed, newly employed in the National Capital Region, or newly employed by the United States Merchant Marine Academy after the date on which the Secretary of Transportation completes the development of the training course described in this subsection, shall complete a training course that meets the requirements of this subsection not later than 60 days after reporting for duty, and annually thereafter, while serving in applicable positions. “(b) Government Accountability Office Report on Maritime Administration Staffing Requirements.—“(1) In general.—Not later than six months after the date of the enactment of this Act [Dec. 22, 2023], the Comptroller General of the United States shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives, a report that includes an analysis of the staffing requirements for effectively executing the mission of the Maritime Administration and an identification of any existing gaps that could impede its operations. “(2) Contents.—The report under paragraph (1) shall include—“(A) an evaluation of the personnel requirements for the successful execution of the mission of the Maritime Administration, including such requirements for—“(i) those offices that deal with infrastructure, shipbuilding, or student safety; “(ii) those offices that have significant delays in meeting constituent needs, including offices involved in the processing of permits and grants, or which preform a communication or outreach function to the public, constituents, or Congress (including the Office of Public Affairs of the Maritime Administration); “(iii) the United States Merchant Marine Academy; and “(iv) other activities carried out by the Maritime Administration; “(B) a thorough analysis of any deficiencies or inadequacies in staffing levels, at the time the report is submitted, that could hinder the efficient functioning of the Maritime Administration; and “(C) recommendations for integrating the findings of the report into the policies and planning processes of the Maritime Administration, with the aim of addressing the identified gaps and enhancing the overall effectiveness of the Maritime Administration. “(c) Coast Guard Academy Improvement Briefing.—Not later than 30 days after the date of the enactment of this Act [Dec. 22, 2023], the Commandant of the Coast Guard shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a briefing on—“(1) a plan, which shall include timelines and cost estimates, to—“(A) remediate asbestos, lead, and mold from the Chase Hall of the Coast Guard Academy; “(B) house not more than two students to a room in Chase Hall; and “(C) upgrade electric outlet availability and storage space in student rooms at Chase Hall; and “(2) the increased student housing capacity necessary to allow the Coast Guard to put through sufficient officers to eliminate the current portion of the officer shortfall due to space constraints at the Coast Guard Academy, including the Officer Candidate School and direct Commission Officer Program housed at the Academy.”
+
+#### Reports on Matters Relating to the United States Merchant Marine Academy
+Pub. L. 117–263, div. C, title XXXV, § 3515, Dec. 23, 2022, 136 Stat. 3069, provided that: “(a) Report on Implementation of NAPA Recommendations.—“(1) In general.—In accordance with paragraph (3), the Secretary of Transportation shall submit to the appropriate congressional committees reports on the status of the implementation of the recommendations specified in paragraph (4). “(2) Elements.—Each report under paragraph (1) shall include the following:“(A) A description of the status of the implementation of each recommendation specified in paragraph (4), including whether the Secretary—“(i) concurs with the recommendation; “(ii) partially concurs with the recommendation; “(iii) does not concur with the recommendation; or “(iv) determines the recommendation is not applicable to the Department of Transportation. “(B) An explanation of—“(i) with respect to a recommendation with which the Secretary concurs, the actions the Secretary intends to take to implement such recommendation, including— “(I) any rules, regulations, policies, or other guidance that have been issued, revised, changed, or cancelled as a result of the implementation of the recommendation; and “(II) any impediments to the implementation of the recommendation; “(ii) with respect to a recommendation with which the Secretary partially concurs, the actions the Secretary intends to take to implement the portion of such recommendation with which the Secretary concurs, including— “(I) intermediate actions, milestone dates, and the expected completion date for the implementation of the portion of the recommendation; and “(II) any rules, regulations, policies, or other guidance that are expected to be issued, revised, changed, or cancelled as a result of the implementation of the portion of the recommendation; “(iii) with respect to a recommendation with which the Secretary does not concur, an explanation of why the Secretary does not concur with such recommendation; “(iv) with respect to a recommendation that the Secretary determines is not applicable to the Department of Transportation, an explanation of the reasons for the determination; and “(v) any statutory changes that may be necessary— “(I) to fully implement the recommendations specified in paragraph (4) with which the Secretary concurs; or “(II) to partially implement the recommendations specified in such paragraph with which the Secretary partially concurs. “(C) A visual depiction of the status of the completion of the recommendations specified in paragraph (4). “(3) Timing of reports.—The Secretary of Transportation shall submit an initial report under paragraph (1) not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022]. Following the submittal of the initial report, the Secretary shall submit updated versions of the report not less frequently than once every 180 days until the date on which the Secretary submits to the appropriate congressional committees a certification that each recommendation specified in paragraph (4)—“(A) with which the Secretary concurs—“(i) has been fully implemented; or “(ii) cannot be fully implemented, including an explanation of why; and “(B) with which the Secretary partially concurs—“(i) has been partially implemented; or “(ii) cannot be partially implemented, including an explanation of why. “(4) Recommendations specified.—The recommendations specified in this paragraph are the recommendations set forth in the report prepared by a panel of the National Academy of Public Administration pursuant to section 3513 of the National Defense Authorization Act for Fiscal Year 2020 (Public Law 116–92; 133 Stat. 1979) titled ‘Organizational Assessment of the U.S. Merchant Marine Academy: A Path Forward’, dated November 2021. “(b) Report on Implementation of Policy Relating to Sexual Harassment and Other Matters.—Not later than one year after the date of the enactment of this Act, the Secretary of Transportation shall submit to the appropriate congressional committees a report on the status of the implementation of the policy on sexual harassment, dating violence, domestic violence, sexual assault, and stalking at the United States Merchant Marine Academy, as required under [section 51318 of title 46](./chapter-513-united-states-merchant-marine-academy.md#section-51318), United States Code. “(c) Inspector General Audit.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act, the Inspector General of the Department of Transportation shall initiate an audit of the actions taken by the Maritime Administration to address only the following recommendations identified by a National Academy of Public Administration panel in the November 2021 report titled ‘Organizational Assessment of the United States Merchant Marine Academy: A Path Forward’:“(A) Recommendations 4.1 through 4.3. “(B) Recommendations 4.7 through 4.11. “(C) Recommendations 5.1 through 5.4. “(D) Recommendations 5.6, 5.7, 5.11, 5.14, 5.15, 5.16, 6.6, and 6.7. “(E) Recommendations 6.1 through 6.4. “(2) Report.—After the completion of the audit required under paragraph (1), the Inspector General shall submit to the appropriate congressional committees, and make publicly available, a report containing the results of the audit. “(d) Implementation of Recommendations From the National Academy of Public Administration.—“(1) Agreement for study by national academy of public administration.—“(A) In general.—Not later than 30 days after the date of enactment of this Act, the Secretary of Transportation shall seek to enter into an agreement with the National Academy of Public Administration (referred to in this section as the ‘Academy’) under which the Academy shall provide support for—“(i) prioritizing and addressing the recommendations referred to subsection (c)(1) and establishing a process for prioritizing other recommendations in the future; “(ii) the development of— “(I) long-term processes and a timeframe for long-term process improvements; and “(II) corrective actions and best practice criteria that can be implemented in the medium- and near-term; “(iii) the establishment of a clear assignment of responsibility for the implementation of each recommendation referred to in subsection (c)(1), and a strategy for assigning other recommendations in the future; and “(iv) a performance measurement system, including data collection and tracking and evaluating progress toward goals of the Merchant Marine Academy. “(B) Report of progress.—Not later than one year after the date of an agreement entered into pursuant to subparagraph (A), the Secretary of Transportation, in consultation with the Administrator of the Merchant Marine Academy, shall submit to the Maritime Administrator and the appropriate congressional committees a report on the progress made in implementing the recommendations referred to in subsection (c)(1). “(2) Prioritization and implementation plan.—“(A) In general.—Not later than one year after the date of enactment of this Act, the Maritime Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Armed Services of the House of Representatives a prioritization and implementation plan to assess, prioritize, and address the recommendations identified by the National Academy of Public Administration panel in the November 2021 report titled ‘Organizational Assessment of the United States Merchant Marine Academy: A Path Forward’ that Superintendent of the Merchant Marine Academy determines are relevant to the Maritime Administration, including the recommendations referred to in subsection (c)(1). The prioritization and implementation plan shall—“(i) be developed using the strategies, processes, and systems developed pursuant to an agreement entered into under paragraph (1); “(ii) include estimated timelines and cost estimates for the implementation of priority goals; “(iii) include summaries of stakeholder and interagency engagement used to assess goals and timelines; “(iv) with respect to any recommendation the Superintendent determines is not relevant to the Maritime Administration, include an explanation for the determination; and “(v) submitted to the Inspector General of the Department of Transportation and the appropriate congressional committees and made publicly available. “(B) Audit and report.—The Inspector General of the Department of Transportation shall—“(i) not later than 180 days after the date on which the prioritization and implementation plan described in subparagraph (A) is made publicly available, initiate an audit of the actions taken by the Maritime Administration to address such plan; “(ii) monitor the actions taken by the Maritime Administration to implement recommendations contained in the audit required under clause (i) and in prior audits of the Maritime Administration’s implementation of National Academy of Public Administration recommendations and periodically initiate subsequent audits of the continued actions taken by the Maritime Administration to address the prioritization and implementation plan, as the Inspector General determines necessary; and “(iii) after the completion of the audit required under clause (i), submit to the Administrator of the Maritime Administration and the appropriate congressional committees, and make publicly available, a report containing the results of the audit. “(C) Report of progress.—Not later than 180 days after the date on which the report required under clause (ii) is made publicly available, and annually thereafter, the Administrator of the Maritime Administration shall submit to the Inspector General of the Department of Transportation and the appropriate congressional committees a report that includes a description of—“(i) the actions planned to be taken by the Maritime Administration, and estimated timeframes, to implement any open or unresolved recommendation— “(I) included in the report of the Inspector General required under subsection (B)(iii); or “(II) referred to in subsection (c)(1); and “(ii) an identification of any recommendation referred to in clause (i) for which the Maritime Administration failed to meet a target action date, or for which the Maritime Administration requested an extension of time, and the reasons why such an extension was necessary. “(3) Agreement for plan on capital improvements.—Not later than 90 days after the date of the enactment of this Act, the Maritime Administrator shall seek to enter into an agreement with a Federal construction agent for the development of a plan to execute capital improvements at the United States Merchant Marine Academy. “(e) Appropriate Congressional Committees.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Commerce, Science, and Transportation of the Senate; “(2) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the Senate; “(3) the Committee on Transportation and Infrastructure of the House of Representatives; “(4) the Subcommittee on Transportation, Housing and Urban Development, and Related Agencies of the Committee on Appropriations of the House of Representatives; and “(5) the Committee on Armed Services of the House of Representatives.”
 
 #### Concurrent Jurisdiction
 Pub. L. 115–232, div. C, title XXXV, § 3506, Aug. 13, 2018, 132 Stat. 2309, provided that: “Notwithstanding any other law, the Secretary of Transportation may relinquish, at the Secretary’s discretion, to the State of New York, such measure of legislative jurisdiction over the lands constituting the United States Merchant Marine Academy in King’s Point, New York, as is necessary to establish concurrent jurisdiction between the Federal Government and the State of New York. Such partial relinquishment of legislative jurisdiction shall be accomplished— “(1) by filing with the Governor of New York a notice of relinquishment to take effect upon acceptance thereof; or “(2) as the laws of that State may provide.”
@@ -332,7 +338,21 @@ Pub. L. 109–364, div. C, title XXXV, § 3506(b), Oct. 17, 2006, 120 Stat. 2517
 
 (4) on any other vessel considered by the Secretary to be necessary or appropriate or in the national interest.
 
-**(b) Sea Year Cadets on Cable Security Fleet and Tanker Security Fleet Vessels.—** The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.
+**(b) Sea Year Cadets on Certain Vessels.—**
+
+(1) **Requirements.—** — The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to—
+
+  (A) carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage; and
+
+  (B) implement and adhere to policies, programs, criteria, and requirements established pursuant to [section 51322 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51322).
+
+(2) **Failure to implement or adhere to requirements.—** — Failure to implement or adhere to the policies, programs, criteria, and requirements referred to in paragraph (1) may, as determined by the Maritime Administrator, constitute a violation of an operating agreement entered into under chapter 531, 532, or 534 of this title and the Maritime Administrator may—
+
+  (A) require the operator to take corrective actions; or
+
+  (B) withhold payment due to the operator until the violation, as determined by the Maritime Administrator, has been remedied.
+
+(3) **Withheld payments.—** — Any payment withheld pursuant to paragraph (2)(B) may be paid, upon a determination by the Maritime Administrator that the operator is in compliance with the policies, programs, criteria, and requirements referred to in paragraph (1).
 
 **(c) Military Sealift Command Vessels.—**
 
@@ -364,6 +384,8 @@ Pub. L. 109–364, div. C, title XXXV, § 3506(b), Oct. 17, 2006, 120 Stat. 2517
 In paragraph (2), the words “with the permission of the owner” are substituted for “if the owner . . . cooperates in such use” for clarity.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 amended subsec. (b) generally. Prior to amendment, text read as follows: “The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title, the Cable Security Fleet under chapter 532 of this title, or the Tanker Security Fleet under chapter 534 of this title to carry on each Maritime Security Program vessel, Cable Security Fleet vessel, or Tanker Security Fleet vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.”
+
 2021—Subsec. (b). Pub. L. 116–283 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Secretary shall require an operator of a vessel participating in the Maritime Security Program under chapter 531 of this title to carry on each Maritime Security Program vessel 2 United States Merchant Marine Academy cadets, if available, on each voyage.”
 
 2018—Pub. L. 115–232, § 3512(1), (3), designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (e).
@@ -375,6 +397,9 @@ Subsec. (a)(1). Pub. L. 115–232, § 3512(2), substituted “owned, subsidized 
 Par. (4). Pub. L. 110–181, § 3525(a)(3), incorporated the substance of the amendment by Pub. L. 109–241, § 307, into this section by adding par. (4). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding [section 101 of this title](./chapter-001-definitions.md#section-101).
 
 2006—Pub. L. 109–241, § 307, which directed the amendment of section 1295b(f) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, § 3525(b). See 2008 Amendment note for par. (4) and Historical and Revision notes above.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. C, title XXXV, § 3517(a)(2), Dec. 23, 2022, 136 Stat. 3074, provided that: “Paragraph (2) of subsection (b) of section 51307, as amended by paragraph (1), shall apply with respect to any failure to implement or adhere to the policies, programs, criteria, and requirements referred to in paragraph (1)(B) of such subsection that occurs on or after the date that is one year after the date of the enactment of this Act [Dec. 23, 2022].”
 
 
 <a id="section-51308"></a>
@@ -404,11 +429,13 @@ The Secretary of Transportation shall provide cadets at the United States Mercha
 
   (B) if a citizen of the United States, has passed the examination for a merchant marine officer’s license.
 
-(2) **Effect of physical disqualification.—** — An individual not allowed to take the examination for a merchant marine officer’s license only because of physical disqualification may not be denied a degree for not taking the examination.
+(2) **Effect of physical or psychological disqualification.—** — An individual not able or allowed to take the examination for a merchant marine officer’s license solely due to a documented medical or psychological condition shall not be denied a degree for not taking the examination.
 
 **(b) Master’s Degree.—** The Superintendent of the Academy may confer a master’s degree on an individual who has met the conditions prescribed by the Secretary. A master’s degree program may be funded through non-appropriated funds. To maintain the appropriate academic standards, the program shall be accredited by the appropriate accreditation body. Nonappropriated funds received for this purpose shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purpose of such receipts. The Superintendent shall maintain a separate and detailed accounting of nonappropriated fund receipts and all associated expenses. The Secretary may prescribe regulations necessary to administer such a program.
 
 **(c) Graduation Not Entitlement To Hold License.—** Graduation from the Academy does not entitle an individual to hold a license authorizing service on a merchant vessel.
+
+**(d) Definition of Documented Medical or Psychological Condition.—** In this section the term “documented medical or psychological condition” means, with respect to an individual, a physical disqualification or psychological condition, including a mental health condition arising from sexual assault or sexual harassment, for which the individual has been treated or is being treated by a medical or psychological provider.
 
 ### Statutory Notes
 
@@ -420,6 +447,10 @@ The Secretary of Transportation shall provide cadets at the United States Mercha
 | 51309(c) | 46 App.:1295b(b)(8). | June 29, 1936, ch. 858, title XIII, § 1303(b)(8), as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 1997; Pub. L. 99–368, § 5, Aug. 1, 1986, 100 Stat. 776. |
 
 #### Amendments
+2022—Subsec. (a)(2). Pub. L. 117–263, § 3511(1), in heading, inserted “or psychological” after “physical”, and, in text, inserted “able or” before “allowed” and substituted “solely due to a documented medical or psychological condition shall” for “only because of physical disqualification may”.
+
+Subsec. (d). Pub. L. 117–263, § 3511(2), added subsec. (d).
+
 2009—Subsec. (b). Pub. L. 111–84 inserted before last sentence “Nonappropriated funds received for this purpose shall be credited to the Maritime Administration’s Operations and Training appropriation, to remain available until expended, for those expenses directly related to the purpose of such receipts. The Superintendent shall maintain a separate and detailed accounting of nonappropriated fund receipts and all associated expenses.”
 
 
@@ -504,15 +535,19 @@ Subsecs. (a), (b)(1), (2). Pub. L. 110–181, § 3523(a)(1), incorporated the su
 
   (A) at least 2 shall be graduates of the Academy;
 
-  (B) at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies; and
+  (B) at least 1 shall be a senior corporate officer from a United States maritime shipping company that participates in the Maritime Security Program, or in any Maritime Administration program providing incentives for companies to register their vessels in the United States, and this appointment shall rotate biennially among such companies;
 
-  (C) 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank who from 11 So in original. the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
+  (C) at least 1 shall be a representative of a maritime labor organization; and
+
+  (D) 1 or more may be a Senate-confirmed Presidential appointee, a member of the Senior Executive Service, or an officer of flag-rank from the Coast Guard, the National Oceanic and Atmospheric Administration, or any of the military services that commission graduates of the Academy, other than the individuals who are members of the Board under clauses (i) and (ii) of paragraph (1)(F).
 
 (3) **Term of service.—**
 
   (A) *In general.—* — Except as provided in subparagraph (B), each member of the Board, other than an ex officio member under paragraph (1)(F), shall serve for a term of 2 years commencing at the beginning of each Congress.
 
   (B) *Continuation of service.—* — Any member described in subparagraph (A) whose term on the Board has expired, other than a member appointed under any of subparagraphs (A) through (D) of paragraph (1) who is no longer a Member of Congress, shall continue to serve until a successor is appointed.
+
+  (C) *Replacement.—* — If a member of the Board is replaced, not later than 60 days after the date of the replacement, the Designated Federal Officer selected under subsection (g)(2) shall notify that member.
 
 (4) **Vacancies.—** — If a member of the Board is no longer able to serve on the Board or resigns, the Designated Federal Officer selected under subsection (g)(2) shall immediately notify the person who appointed such member. Not later than 60 days after that notification, such person shall designate a replacement to serve the remainder of such member’s term.
 
@@ -538,7 +573,7 @@ Subsecs. (a), (b)(1), (2). Pub. L. 110–181, § 3523(a)(1), incorporated the su
 
     (ii) shall report to the member that designated the substitute member on the Board’s activities not later than 15 days following the substitute member’s participation in such activities; and
 
-    (iii) shall be permitted by the Board to participate in the preparation of reports described in paragraph 22 So in original. Probably should be “subsection”. (j) related to any proceedings or activities of the Board in which such substitute member participates.
+    (iii) shall be permitted by the Board to participate in the preparation of reports described in paragraph 11 So in original. Probably should be “subsection”. (j) related to any proceedings or activities of the Board in which such substitute member participates.
 
 **(c) Chairperson.—**
 
@@ -550,13 +585,15 @@ Subsecs. (a), (b)(1), (2). Pub. L. 110–181, § 3523(a)(1), incorporated the su
 
 **(d) Meetings.—**
 
-(1) **In general.—** — The Board shall meet as provided for in the Charter adopted under paragraph (2)(B), including at least 1 meeting held at the Academy.
+(1) **In general.—** — The Board shall meet as provided for in the Charter adopted under paragraph (2)(B), including at least 1 meeting held at the Academy and 2 additional meetings, which may be held in person or virtually.
 
 (2) **Chairperson and charter.—** — The Designated Federal Officer selected under subsection (g)(2) shall organize a meeting of the Board for the purposes of—
 
   (A) selecting a Chairperson under subsection (c); and
 
   (B) adopting an official Charter for the Board, which shall establish the schedule of meetings of the Board.
+
+(3) **Scheduling; notification.—** — When scheduling a meeting of the Board, the Designated Federal Officer shall coordinate, to the greatest extent practicable, with the members of the Board to determine the date and time of the meeting. Members of the Board shall be notified of the date of each meeting not less than 30 days prior to the meeting date.
 
 **(e) Visiting the Academy.—**
 
@@ -565,6 +602,10 @@ Subsecs. (a), (b)(1), (2). Pub. L. 110–181, § 3523(a)(1), incorporated the su
 (2) **Other visits.—** — In cooperation with the Superintendent, the Board or its members may make other visits to the Academy in connection with the duties of the Board.
 
 (3) **Access.—** — While visiting the Academy under this subsection, members of the Board shall have reasonable access to the grounds, facilities, midshipmen, faculty, staff, and other personnel of the Academy for the purpose of carrying out the duties of the Board.
+
+(4) **Staff.—** — One or more staff of each member of the Board may accompany them on Academy visits.
+
+(5) **Scheduling; notification.—** — When scheduling a visit to the Academy, the Designated Federal Officer shall coordinate, to the greatest extent practicable, with the members of the Board to determine the date and time of the visit. Members of the Board shall be notified of the date of each visit not less than 30 days prior to the visit date.
 
 **(f) Responsibility.—** The Board shall inquire into the state of morale and discipline, the curriculum, instruction, physical equipment, fiscal affairs, and academic methods of the Academy, and other matters relating to the Academy that the Board decides to consider.
 
@@ -576,7 +617,7 @@ Subsecs. (a), (b)(1), (2). Pub. L. 110–181, § 3523(a)(1), incorporated the su
 
 (3) in cooperation with the Maritime Administrator and the Superintendent of the Academy, advise the Board of any institutional issues, consistent with applicable laws concerning the disclosure of information.
 
-**(h) Staff.—** Each of the chairman of the Committee on Commerce, Science, and Transportation of the Senate and the chairman of the Committee on Armed Services of the House of Representatives may designate staff members of such Committee to serve, without additional reimbursement (except as provided in subsection (i)), as staff for the Board.
+**(h) Staff.—** Each of the chairman and ranking member of the Committee on Commerce, Science, and Transportation of the Senate and the chairman and ranking member of the Committee on Armed Services of the House of Representatives may designate staff members of such Committee to serve, without additional reimbursement (except as provided in subsection (i)), as staff for the Board. Such staff may attend meetings and may visit the Academy.
 
 **(i) Travel Expenses.—** While serving away from his or her home or regular place of business, a member of the Board or a staff member designated under subsection (h) shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized under [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), United States Code.
 
@@ -614,6 +655,20 @@ Subsecs. (a), (b)(1), (2). Pub. L. 110–181, § 3523(a)(1), incorporated the su
 The words “Committee on Armed Services” are substituted for “Committee on Merchant Marine and Fisheries” to reflect changes in committee structure made by the 104th Congress.
 
 #### Amendments
+2022—Subsec. (b)(2)(C). Pub. L. 117–263, § 3512(1)(A)(iii), (iv), added subpar. (C). Former subpar. (C) redesignated (D).
+
+Subsec. (b)(2)(D). Pub. L. 117–263, § 3512(1)(A)(i), (ii), redesignated subpar. (C) as (D) and substituted “flag-rank” for “flag-rank who”.
+
+Subsec. (b)(3)(C). Pub. L. 117–263, § 3512(1)(B), added subpar. (C).
+
+Subsec. (d)(1). Pub. L. 117–263, § 3512(2)(A), inserted “and 2 additional meetings, which may be held in person or virtually” after “Academy”.
+
+Subsec. (d)(3). Pub. L. 117–263, § 3512(2)(B), added par. (3).
+
+Subsec. (e)(4), (5). Pub. L. 117–263, § 3512(3), added pars. (4) and (5).
+
+Subsec. (h). Pub. L. 117–263, § 3512(4), inserted “and ranking member” after “chairman” in two places and inserted at end “Such staff may attend meetings and may visit the Academy.”
+
 2014—Pub. L. 113–291 amended section generally. Prior to amendment, section related to the Board of Visitors and consisted of subsecs. (a) to (d) relating to establishment of the Board, appointment of board members, designation of staff members to the board, and travel expenses, respectively.
 
 #### Deadlines; Continuation of Service
@@ -628,7 +683,7 @@ Pub. L. 113–291, div. C, title XXXV, § 3504(b), (c), Dec. 19, 2014, 128 Stat.
 
 **(c) Travel Expenses.—** When serving away from home or regular place of business, a member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-**(d) Relationship to Other Law.—** The Federal Advisory Committee Act (5 App. U.S.C.) does not apply to the Board.
+**(d) Relationship to Other Law.—** Chapter 10 of title 5 does not apply to the Board.
 
 ### Statutory Notes
 
@@ -637,8 +692,8 @@ Pub. L. 113–291, div. C, title XXXV, § 3504(b), (c), Dec. 19, 2014, 128 Stat.
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 51313 | 46 App.:1295b(i). | June 29, 1936, ch. 858, title XIII, § 1303(i), as added Pub. L. 96–453, § 2, Oct. 15, 1980, 94 Stat. 2002; Pub. L. 97–31, § 12(144)(C), Aug. 6, 1981, 95 Stat. 166. |
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (d). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 App. U.S.C.)”.
 
 
 <a id="section-51314"></a>
@@ -973,10 +1028,10 @@ Pub. L. 116–92, div. C, title XXXV, § 3517, Dec. 20, 2019, 133 Stat. 1986, pr
 Pub. L. 115–232, div. C, title XXXV, § 3507(b), Aug. 13, 2018, 132 Stat. 2310, provided that: “The Superintendent of the United States Merchant Marine Academy may implement the amendment to subsection (b)(2)(A) of [section 51318 of title 46](./chapter-513-united-states-merchant-marine-academy.md#section-51318), United States Code, made by subsection (a)(2), by updating an existing plan issued pursuant to the National Defense Authorization Act for Fiscal Year 2018 (Public Law 115–91).”
 
 #### Access of Academy Cadets to DOD SAFE or Equivalent Helpline
-Pub. L. 115–91, div. C, title XXXV, § 3515(b), Dec. 12, 2017, 131 Stat. 1926, provided that: “(1) In general.—The Secretary of Transportation shall arrange for cadets at the United States Merchant Marine Academy to have access to, and use of, the Department of Defense SAFE Helpline or an equivalent helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking. “(2) Training.—The training provided to personnel of the helpline to which cadets at the Academy are given access shall include training on the resources available to cadets at the Academy in connection with sexual assault, sexual harassment, domestic violence, dating violence, and stalking. “(3) Definitions.—In this section, the terms ‘dating violence’, ‘domestic violence’, ‘sexual assault’, and ‘stalking’ have the meanings given those terms in [section 51318 of title 46](./chapter-513-united-states-merchant-marine-academy.md#section-51318), United States Code.”
+Pub. L. 115–91, div. C, title XXXV, § 3515(b), Dec. 12, 2017, 131 Stat. 1926, which directed the Secretary of Transportation to provide cadets at the United States Merchant Marine Academy access to the Department of Defense SAFE Helpline or an equivalent helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking, was repealed by Pub. L. 117–263, div. C, title XXXV, § 3513(c), Dec. 23, 2022, 136 Stat. 3068, which also redesignated section 3515(c) of Pub. L. 115–91 (amending [section 51319 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51319)) as section 3515(b) of Pub. L. 115–91.
 
 #### Sea Year Compliance
-Pub. L. 114–328, div. C, title XXXV, § 3514, Dec. 23, 2016, 130 Stat. 2788, as amended by Pub. L. 115–91, div. C, title XXXV, § 3513, Dec. 12, 2017, 131 Stat. 1919; Pub. L. 115–232, div. C, title XXXV, § 3515(a), Aug. 13, 2018, 132 Stat. 2312; Pub. L. 116–92, div. C, title XXXV, § 3516(b), Dec. 20, 2019, 133 Stat. 1986, provided that: “(a) Vessel Operator Requirements.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Dec. 23, 2016], the Maritime Administrator, in consultation with operators of commercial vessels of the United States, shall establish—“(A) criteria that domestic and international vessel operators must meet in order to participate in the Sea Year program of the United States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct; and “(B) a process for verifying compliance with the criteria. “(2) Noncommercial vessels.—For the purposes of this section, vessels operated by any of the following entities shall not be considered commercial vessels:“(A) Any entity or agency of the United States. “(B) The government of a State or territory. “(C) Any political subdivision of a State or territory. “(D) Any other municipal organization. “(b) Provision of Satellite Phone.—“(1) In general.—The Maritime Administrator shall ensure that each cadet from the United States Merchant Marine Academy who is participating in the Sea Year program is provided a functional satellite communication device. A cadet may not be denied from using the device whenever the student determines that use of the device is necessary to prevent or report sexual harassment or sexual assault. “(2) Check-in.—Not less often than once each week during a cadet’s participation in the Sea Year program, the cadet shall check-in with designated personnel at the Academy via the satellite communication device provided under paragraph (1). A text message sent via the satellite device shall meet the requirement for a weekly check-in for purposes of this paragraph.”
+Pub. L. 114–328, div. C, title XXXV, § 3514, Dec. 23, 2016, 130 Stat. 2788, as amended by Pub. L. 115–91, div. C, title XXXV, § 3513, Dec. 12, 2017, 131 Stat. 1919; Pub. L. 115–232, div. C, title XXXV, § 3515(a), Aug. 13, 2018, 132 Stat. 2312; Pub. L. 116–92, div. C, title XXXV, § 3516(b), Dec. 20, 2019, 133 Stat. 1986, which directed the Maritime Administrator to establish criteria for participation in the Sea Year program of the United States Merchant Marine Academy that addresses sexual harassment, sexual assault, and other inappropriate conduct and a process for verifying compliance, was repealed by Pub. L. 117–263, div. C, title XXXV, § 3513(c)(1), Dec. 23, 2022, 136 Stat. 3068.
 
 #### Actions To Address Sexual Harassment and Violence at the United States Merchant Marine Academy
 Pub. L. 110–417, div. C, title XXXV, § 3507, Oct. 14, 2008, 122 Stat. 4765, provided that: “(a) Required Policy.—The Secretary of Transportation shall direct the Superintendent of the United States Merchant Marine Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy. “(b) Matters To Be Specified in Policy.—The policy on sexual harassment and sexual violence prescribed under this section shall include—“(1) a program to promote awareness of the incidence of rape, acquaintance rape, and other sexual offenses of a criminal nature that involve cadets or other Academy personnel; “(2) procedures that a cadet should follow in the case of an occurrence of sexual harassment or sexual violence, including—“(A) a specification of the person or persons to whom an alleged occurrence of sexual harassment or sexual violence should be reported by a cadet and the options for confidential reporting; “(B) a specification of any other person whom the victim should contact; and “(C) procedures on the preservation of evidence potentially necessary for proof of criminal sexual assault; “(3) a procedure for disciplinary action in cases of alleged criminal sexual assault involving a cadet or other Academy personnel; “(4) any other sanction authorized to be imposed in a substantiated case of sexual harassment or sexual violence involving a cadet or other Academy personnel in rape, acquaintance rape, or any other criminal sexual offense, whether forcible or nonforcible; and “(5) required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel. “(c) Annual Assessment.—“(1) The Secretary shall direct the Superintendent to conduct an assessment at the Academy during each Academy program year, to be administered by the Department of Transportation, to determine the effectiveness of the policies, training, and procedures of the Academy with respect to sexual harassment and sexual violence involving Academy personnel. “(2) For the assessment at the Academy under paragraph (1) with respect to an Academy program year that begins in an odd-numbered calendar year, the Superintendent shall conduct a survey, to be administered by the Department, of Academy personnel—“(A) to measure—“(i) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have been reported to officials of the Academy; and “(ii) the incidence, during that program year, of sexual harassment and sexual violence events, on or off the Academy reservation, that have not been reported to officials of the Academy; and “(B) to assess the perceptions of Academy personnel of—“(i) the policies, training, and procedures on sexual harassment and sexual violence involving Academy personnel; “(ii) the enforcement of such policies; “(iii) the incidence of sexual harassment and sexual violence involving Academy personnel; and “(iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel. “(d) Annual Report.—“(1) The Secretary shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year. “(2) Each report under paragraph (1) shall include, for the Academy program year covered by the report, the following:“(A) The number of sexual assaults, rapes, and other sexual offenses involving cadets or other Academy personnel that have been reported to Academy officials during the program year and, of those reported cases, the number that have been substantiated. “(B) The policies, procedures, and processes implemented by the Superintendent and the leadership of the Academy in response to sexual harassment and sexual violence involving cadets or other Academy personnel during the program year. “(C) A plan for the actions that are to be taken in the following Academy program year regarding prevention of and response to sexual harassment and sexual violence involving cadets or other Academy personnel. “(3) Each report under paragraph (1) for an Academy program year that begins in an odd-numbered calendar year shall include the results of the survey conducted in that program year under subsection (c)(2). “(4)(A) The Superintendent shall transmit to the Secretary, and to the Board of Visitors of the Academy, each report received by the Superintendent under this subsection, together with the Superintendent’s comments on the report. “(B) The Secretary shall transmit each such report, together with the Secretary’s comments on the report, to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.”
@@ -1070,7 +1125,15 @@ Pub. L. 110–417, div. C, title XXXV, § 3507, Oct. 14, 2008, 122 Stat. 4765, p
 
 (3) **Prohibition on retaliation.—** — A sexual assault response coordinator, victim advocate, or companion may not be disciplined, penalized, or otherwise retaliated against by the Academy for representing the interests of the victim, even if such interests are in conflict with the interests of the Academy.
 
-**(c) Volunteer Sexual Assault Victim Advocates.—**
+**(c) Special Victims Advisor.—**
+
+(1) **In general.—** — The Secretary shall designate an attorney (to be known as the “Special Victims Advisor”) for the purpose of providing legal assistance to any cadet of the Academy who is the victim of an alleged sex-related offense regarding administrative and criminal proceedings related to such offense, regardless of whether the report of that offense is restricted or unrestricted.
+
+(2) **Special victims advisory.—** — The Secretary shall ensure that the attorney designated as the Special Victims Advisor has knowledge of the Uniform Code of Military Justice, as well as criminal and civil law.
+
+(3) **Privileged communications.—** — Any communications between a victim of an alleged sex-related offense and the Special Victim Advisor, when acting in their capacity as such, shall have the same protection that applicable law provides for confidential attorney-client communications.
+
+**(d) Volunteer Sexual Assault Victim Advocates.—**
 
 (1) **In general.—** — The Secretary, acting through the Superintendent of the Academy, shall designate from among volunteers 1 or more permanent employees of the Academy to serve as advocates for victims of sexual assaults involving cadets of the Academy or other Academy personnel.
 
@@ -1096,15 +1159,21 @@ Pub. L. 110–417, div. C, title XXXV, § 3507, Oct. 14, 2008, 122 Stat. 4765, p
 
 (5) **Formal relationships with other entities.—** — The Secretary may enter into formal relationships with other entities to make available additional victim advocates or to implement paragraphs (3) and (4).
 
+**(e) Unfilled Vacancies.—** The Administrator of the Maritime Administration may appoint qualified candidates to positions under subsections (a) and (d) of this section without regard to sections 3309 through 3319 of title 5.
+
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 2018 and enactment of the National Defense Authorization Act for Fiscal Year 2018, referred to in subsec. (a)(4)(A), (C)(i), are the date of enactment of Pub. L. 115–91, which was approved Dec. 12, 2017.
 
 #### Amendments
+2022—Subsecs. (c), (d). Pub. L. 117–263, § 3531(e)(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d).
+
+Subsec. (e). Pub. L. 117–263, § 3531(e)(3), added subsec. (e).
+
 2017—Subsecs. (a) to (c). Pub. L. 115–91, § 3515(a), added subsecs. (a) and (b), redesignated former subsec. (b) as (c), and struck out former subsec. (a) which read as follows: “Sexual Assault Response Coordinators.—The United States Merchant Marine Academy shall employ or contract with at least 1 full-time sexual assault response coordinator who shall reside at or near the Academy. The Secretary of Transportation may assign additional full-time or part-time sexual assault response coordinators at the Academy as necessary.”
 
-Subsec. (c)(5), (6). Pub. L. 115–91, § 3515(c), redesignated par. (6) as (5), substituted “paragraphs (3) and (4)” for “paragraphs (3), (4), and (5)”, and struck out former par. (5) which read as follows: “Hotline.—The Secretary shall establish a 24-hour hotline through which the victim of a sexual assault described in paragraph (1) can receive victim support services.”
+Subsec. (c)(5), (6). Pub. L. 115–91, § 3515(b), formerly § 3515(c), as renumbered by Pub. L. 117–263, § 3513(c)(2), redesignated par. (6) as (5), substituted “paragraphs (3) and (4)” for “paragraphs (3), (4), and (5)”, and struck out former par. (5) which read as follows: “Hotline.—The Secretary shall establish a 24-hour hotline through which the victim of a sexual assault described in paragraph (1) can receive victim support services.”
 
 
 <a id="section-51320"></a>
@@ -1191,25 +1260,65 @@ Subsec. (c)(5), (6). Pub. L. 115–91, § 3515(c), redesignated par. (6) as (5),
 
 <a id="section-51322"></a>
 ## § 51322. Protection of cadets from sexual assault onboard vessels
-**(a) Riding Gangs.—**
+**(a) Safety Criteria.—** The Maritime Administrator, after consulting with the Commandant of the Coast Guard, shall establish—
 
-(1) **Certification of compliance.—** — The Maritime Administrator shall require the owner or operator of any commercial vessel that is carrying a cadet from the United States Merchant Marine Academy to certify compliance of the vessel with the International Convention for Safety of Life at Sea, 1974 (32 UST 47) and [section 8106 of this title](./chapter-081-general.md#section-8106).
+(1) criteria, to which an owner or operator of a vessel engaged in commercial service shall adhere prior to carrying a cadet performing their Sea Year service from the United States Merchant Marine Academy, that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking; and
 
-(2) **Information for cadets.—** — The Maritime Administrator shall ensure that the Academy informs cadets preparing for Sea Year of the obligations that vessel owners and operators have to provide for the security of individuals aboard a vessel under United States law, including chapter 81 and [section 70103(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section70103/c&num=0&edition=prelim).
+(2) a process for collecting pertinent information from such owners or operators and verifying their compliance with the criteria.
 
-**(b) Checks of Commercial Vessels.—**
+(3) **Training.—**
+
+  (A) *In general.—* — As part of training that shall be provided not less than semiannually to all midshipmen of the Academy, pursuant to section 51318, the Maritime Administrator shall develop and implement comprehensive in-person sexual assault risk-reduction and response training that, to the extent practicable, conforms to best practices in the sexual assault prevention and response field and includes appropriate scenario-based training.
+
+  (B) *Development and consultation with experts.—* — In developing the sexual assault risk-reduction and response training under subparagraph (A), the Maritime Administrator shall consult with and incorporate, as appropriate, the recommendations and views of experts in the sexual assault field.
+
+**(b) Minimum Standards.—** At a minimum, the criteria established under subsection (a) shall require the vessel owners or operators to have policies that address—
+
+(1) communication between a cadet and an individual ashore who is trained in responding to incidents of sexual harassment, dating violence, domestic violence, sexual assault, and stalking;
+
+(2) the safety and security of cadet staterooms while a cadet is onboard the vessel;
+
+(3) requirements for crew to report complaints or incidents of sexual assault, sexual harassment, dating violence, domestic violence, and stalking consistent with the requirements in section 10104;
+
+(4) the maintenance of records of reports of sexual harassment, dating violence, domestic violence, sexual assault, and stalking onboard a vessel carrying a cadet;
+
+(5) the maintenance of records of sexual harassment, dating violence, domestic violence, sexual assault, and stalking training as required under subsection (f);
+
+(6) a requirement for the owner or operator provide each cadet a copy of the policies and procedures related to sexual harassment, dating violence, domestic violence, sexual assault, and stalking policies that pertain to the vessel on which they will be employed; and
+
+(7) any other issues the Maritime Administrator determines necessary to ensure the safety of cadets during Sea Year training.
+
+**(c) Self-certification by Owners or Operators.—** The Maritime Administrator shall require the owner or operator of any commercial vessel that is carrying a cadet from the United States Merchant Marine Academy to annually certify that—
+
+(1) the vessel owner or operator is in compliance with the criteria established under subsection (a); and
+
+(2) the vessel is in compliance with the International Convention of Safety of Life at Sea, 1974 (32 UST 47) and sections 8106 and 70103(c).
+
+**(d) Information, Training, and Resources.—** The Maritime Administrator shall ensure that a cadet participating in Sea Year—
+
+(1) receives training specific to vessel safety, including sexual harassment, dating violence, domestic violence, sexual assault, and stalking prevention and response training, prior to the cadet boarding a vessel for Sea Year training;
+
+(2) is equipped with an appropriate means of communication and has been trained on its use;
+
+(3) has access to a helpline to report incidents of sexual harassment, dating violence, domestic violence, sexual assault, or stalking that is monitored by trained personnel; and
+
+(4) is informed of the legal requirements for vessel owners and operators to provide for the security of individuals onboard, including requirements under section 70103(c) and chapter 81.
+
+**(e) Checks of Commercial Vessels.—**
 
 (1) **Requirement.—** — Not less frequently than biennially, staff of the Academy or staff of the Maritime Administration shall conduct both random and targeted unannounced checks of not less than 10 percent of the commercial vessels that host a cadet from the Academy.
 
-(2) **Removal of students.—** — If staff of the Academy or staff of the Maritime Administration determine that a commercial vessel is in violation of the sexual assault policy developed by the Academy through a check conducted under paragraph (1), the staff may—
+(2) **Access to information.—** — The vessel operator shall make available to staff conducting a vessel check such information as the Maritime Administrator determines is necessary to determine whether the vessel is being operated in compliance with the criteria established under subsection (a).
 
-  (A) remove any cadet of the Academy from the vessel; and
+(3) **Removal of students.—** — If staff of the Academy or staff of the Maritime Administration determine that a commercial vessel is not in compliance with the criteria established under subsection (a), the staff—
 
-  (B) report the violation to the owner or operator of the vessel.
+  (A) may remove a cadet of the Academy from the vessel; and
 
-**(c) Maintenance of Sexual Assault Training Records.—** The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for any person required to have such training.
+  (B) shall report such determination of non-compliance to the owner or operator of the vessel.
 
-**(d) Sea Year Survey.—**
+**(f) Maintenance of Sexual Assault Training Records.—** The Maritime Administrator shall require the owner or operator of a commercial vessel, and the seafarer union for a commercial vessel, to maintain records of sexual assault training for any person required to have such training.
+
+**(g) Sea Year Survey.—**
 
 (1) **Requirement.—** — The Maritime Administrator shall require each cadet from the Academy, upon completion of the cadet’s Sea Year, to complete a survey regarding the environment and conditions during the Sea Year of the vessel to which the cadet was assigned.
 
@@ -1219,10 +1328,37 @@ Subsec. (c)(5), (6). Pub. L. 115–91, § 3515(c), redesignated par. (6) as (5),
 
   (B) the aggregated data received from such surveys.
 
+**(h) Noncommercial Vessels.—**
+
+(1) **In general.—** — A public vessel (as defined in section 2101) shall not be subject to the requirements of this section.
+
+(2) **Requirements for participation.—** — The Maritime Administrator may establish criteria and requirements that the operators of public vessels shall meet to participate in the Sea Year program of the United States Merchant Marine Academy that addresses prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+
+**(i) Sharing of Best Practices.—** The Maritime Administrator shall share with State maritime academies best practices for, and lessons learned with respect to, the prevention of, and response to, sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 3513(a)(1), added subsec. (a) and struck out former subsec. (a) which related to riding gangs.
+
+Subsec. (a)(3). Pub. L. 117–263, § 3531(g), added par. (3).
+
+Subsecs. (b) to (d). Pub. L. 117–263, § 3513(a)(1), added subsecs. (b) to (d). Former subsecs. (b) to (d) redesignated (e) to (g), respectively.
+
+Subsec. (e). Pub. L. 117–263, § 3513(a)(2), redesignated subsec. (b) as (e).
+
+Subsec. (e)(2), (3). Pub. L. 117–263, § 3513(a)(3), added pars. (2) and (3) and struck out former par. (2), which related to removal of students.
+
+Subsec. (f). Pub. L. 117–263, § 3513(a)(2), (4), redesignated subsec. (c) as (f) and substituted “and the seafarer union” for “or the seafarer union”.
+
+Subsec. (g). Pub. L. 117–263, § 3513(a)(2), redesignated subsec. (d) as (g).
+
+Subsecs. (h), (i). Pub. L. 117–263, § 3513(a)(5), added subsecs. (h) and (i).
+
 2018—Subsec. (c). Pub. L. 115–232 amended subsec. (c) generally. Prior to amendment, text read as follows: “The Maritime Administrator shall require the owner or operator of a commercial vessel, or the seafarer union for a commercial vessel, to maintain records of sexual assault training for the crew and passengers of any vessel hosting a cadet from the Academy.”
+
+#### Regulations
+Pub. L. 117–263, div. C, title XXXV, § 3513(b), Dec. 23, 2022, 136 Stat. 3068, provided that: “(1) In general.—The Maritime Administrator may prescribe rules necessary to carry out the amendments made by this section [amending this section and [section 51319 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51319) and repealing provisions set out as notes under [section 51318 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51318)]. “(2) Interim rules.—The Maritime Administrator may prescribe interim rules necessary to carry out the amendments made by this section. For this purpose, the Maritime Administrator in prescribing rules under paragraph (1) is excepted from compliance with the notice and comment requirements of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code. All rules prescribed under the authority of the amendments made by this section shall remain in effect until superseded by a final rule.”
 
 
 <a id="section-51323"></a>
@@ -1255,3 +1391,139 @@ Subsec. (c)(5), (6). Pub. L. 115–91, § 3515(c), redesignated par. (6) as (5),
 (3) Academy governance; or
 
 (4) any other priority areas identified by the Council.
+
+
+<a id="section-51325"></a>
+## § 51325. Sexual assault and sexual harassment prevention information management system
+**(a) Information Management System.—**
+
+(1) **In general.—** — Not later than January 1, 2023, the Maritime Administrator shall establish within the United States Merchant Marine Academy Sexual Assault prevention and Response Program, an information management system to track and maintain, in such a manner that patterns can be reasonably identified, information regarding claims and incidents involving cadets that are reportable pursuant to subsection (d) of section 51318 of this chapter.
+
+(2) **Information maintained in the system.—** — Information maintained in the system established under paragraph (1) shall include the following information, to the extent that information is available:
+
+  (A) The overall number of sexual assault or sexual harassment incidents per fiscal year.
+
+  (B) The location of each such incident, including vessel name and the name of the company operating the vessel, if applicable.
+
+  (C) The standardized job title or position of the individuals involved in each such incident.
+
+  (D) The general nature of each such incident, to include copies of any associated reports completed on the incidents.
+
+  (E) The type of inquiry made into each such incident.
+
+  (F) A record of whether each such incident was substantiated by the relevant investigative process.
+
+(3) **Past information included.—** — The information management system under this section shall include the relevant data listed in this subsection related to sexual assault and sexual harassment that the Maritime Administrator possesses, and shall not be limited to data collected after January 1, 2023.
+
+(4) **Privacy protections.—** — The Maritime Administrator and the Chief Information Officer of the Department of Transportation shall coordinate to ensure that the information management system under this section shall—
+
+  (A) be established and maintained in a secure fashion to ensure the protection of the privacy of any individuals whose information is entered in such system; and
+
+  (B) be free of personally identifiable information and maintain only the data required to satisfy the statistical purpose of such system.
+
+(5) **Cybersecurity audit.—** — Ninety days after the implementation of the information management system, the Office of Inspector General of the Department of Transportation shall commence an audit of the cybersecurity of the system and shall submit a report containing the results of that audit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+
+(6) **Correcting records.—** — In establishing the information management system, the Maritime Administrator shall create a process to ensure that if any incident report results in a final agency action or final judgement that acquits an individual of wrongdoing, all personally identifiable information about the acquitted individual is removed from that incident report in the system.
+
+**(b) Sea Year Program.—** The Maritime Administrator shall provide for the establishment of in-person and virtual confidential exit interviews, to be conducted by personnel who are not involved in the assignment of the midshipmen to a Sea Year vessel, for midshipmen from the Academy upon completion of Sea Year and following completion by the midshipmen of the survey under section 51322(d).11 See References in Text note below.
+
+**(c) Data-informed Decisionmaking.—** The data maintained in the data management system under subsection (a) and through the exit interviews under subsection (b) shall be affirmatively referenced and used to inform the creation of new policy or regulation, or changes to any existing policy or regulation, in the areas of sexual harassment, dating violence, domestic violence, sexual assault, and stalking.
+
+### Statutory Notes
+
+#### References in Text
+Section 51322(d), referred to in subsec. (b), probably should be a reference to [section 51322(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51322/g&num=0&edition=prelim). Subsec. (d) of section 51322, which relates to the completion of a survey by a cadet upon the completion of the cadet’s Sea Year, was redesignated as subsec. (g) of section 51322 by Pub. L. 117–263, § 3513(a)(2). Subsec. (d) of section 51322, as added by Pub. L. 117–263, § 3513(a)(1), provides that the Maritime Administrator is to ensure that a cadet participating in Sea Year has certain information, training, and resources.
+
+
+<a id="section-51326"></a>
+## § 51326. Student advisory board at the United States Merchant Marine Academy
+**(a) In General.—** The Maritime Administrator shall establish at the United States Merchant Marine Academy an advisory board to be known as the Advisory Board to the Secretary of Transportation (referred to in this section as the “Advisory Board”).
+
+**(b) Membership.—** The Advisory Board shall be composed of not fewer than 12 midshipmen of the Merchant Marine Academy who are enrolled at the Merchant Marine Academy at the time of the appointment, including not fewer than 3 cadets from each class.
+
+**(c) Appointment; Term.—** Midshipmen shall serve on the Advisory Board pursuant to appointment by the Maritime Administrator. Appointments shall be made not later than 60 days after the date of the swearing in of a new class of midshipmen at the Academy. The term of membership of a midshipmen on the Advisory Board shall be 1 academic year.
+
+**(d) Reappointment.—** The Maritime Administrator may reappoint not more than 6 cadets from the previous term to serve on the Advisory Board for an additional academic year if the Maritime Administrator determines such reappointment to be in the best interests of the Merchant Marine Academy.
+
+**(e) Meetings.—** The Advisory Board shall meet with the Secretary of Transportation not less than once each academic year to discuss the activities of the Advisory Board. The Advisory Board shall meet in person with the Maritime Administrator not less than 2 times each academic year to discuss the activities of the Advisory Board.
+
+**(f) Duties.—** The Advisory Board shall—
+
+(1) identify health and wellbeing, diversity, and sexual assault and harassment challenges and other topics considered important by the Advisory Board facing midshipmen at the Merchant Marine Academy, off campus, and while aboard ships during Sea Year or other training opportunities;
+
+(2) discuss and propose possible solutions, including improvements to culture and leadership development at the Merchant Marine Academy; and
+
+(3) periodically review the efficacy of the program in section 51325(b), as appropriate, and provide recommendations to the Maritime Administrator for improvement.
+
+**(g) Working Groups.—** The Advisory Board may establish one or more working groups to assist the Advisory Board in carrying out its duties, including working groups composed in part of midshipmen at the Merchant Marine Academy who are not current members of the Advisory Board.
+
+**(h) Reports and Briefings.—** The Advisory Board shall regularly provide the Secretary of Transportation and the Maritime Administrator reports and briefings on the results of its duties, including recommendations for actions to be taken in light of such results. Such reports and briefings may be provided in writing, in person, or both.
+
+
+<a id="section-51327"></a>
+## § 51327. Sexual Assault Advisory Council
+**(a) Establishment.—** The Secretary of Transportation shall establish a Sexual Assault Advisory Council (in this section referred to as the “Council”).
+
+**(b) Membership.—**
+
+(1) **In general.—** — The Council shall be composed of not fewer than 8 and not more than 14 individuals selected by the Secretary of Transportation who are alumni that have graduated within the last 4 years or current midshipmen of the United States Merchant Marine Academy (including midshipmen or alumni who were victims of sexual assault, to the maximum extent practicable, and midshipmen or alumni who were not victims of sexual assault) and governmental and nongovernmental experts and professionals in the sexual assault field.
+
+(2) **Experts included.—** — The Council shall include—
+
+  (A) not less than 1 member who is licensed in the field of mental health and has prior experience working as a counselor or therapist providing mental health care to survivors of sexual assault in a victim services agency or organization; and
+
+  (B) not less than 1 member who has prior experience developing or implementing sexual assault or sexual harassment prevention and response policies in an academic setting.
+
+(3) **Rules regarding membership.—** — No employee of the Department of Transportation shall be a member of the Council. The number of governmental experts appointed to the Council shall not exceed the number of nongovernmental experts.
+
+**(c) Duties; Authorized Activities.—**
+
+(1) **In general.—** — The Council shall meet not less often than semiannually to—
+
+  (A) review—
+
+    (i) the policies on sexual harassment, dating violence, domestic violence, sexual assault, and stalking under [section 51318 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51318);
+
+    (ii) the trends and patterns of data contained in the system described under [section 51325 of this title](./chapter-513-united-states-merchant-marine-academy.md#section-51325); and
+
+    (iii) related matters the Council views as appropriate; and
+
+  (B) develop recommendations designed to ensure that such policies and such matters conform, to the extent practicable, to best practices in the field of sexual assault and sexual harassment response and prevention.
+
+(2) **Authorized activities.—** — To carry out this subsection, the Council may—
+
+  (A) interview current and former midshipmen of the United States Merchant Marine Academy (to the extent that such midshipmen provide the Department of Transportation express consent to be interviewed by the Council); and
+
+  (B) review surveys under section 51322(d).11 See References in Text note below.
+
+(3) **Personally identifiable information.—** — In carrying out this subsection, the Council shall comply with the obligations of the Department of Transportation to protect personally identifiable information.
+
+**(d) Reports.—** On an annual basis for each of the 5 years after the date of enactment of this section, and at the discretion of the Council thereafter, the Council shall submit, to the President and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives, a report on the Council’s findings based on the reviews conducted pursuant to subsection (c) and related recommendations.
+
+**(e) Employee Status.—** Members of the Council shall not be considered employees of the United States Government for any purpose and shall not receive compensation other than reimbursement of travel expenses and per diem allowance in accordance with [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
+
+**(f) Nonapplicability of FACA.—** The Federal Advisory Committee Act (5 U.S.C. App.) 1 shall not apply to the Council.
+
+### Statutory Notes
+
+#### References in Text
+Section 51322(d), referred to in subsec. (c)(2)(B), probably should be a reference to [section 51322(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section51322/g&num=0&edition=prelim). Subsec. (d) of section 51322, which relates to the completion of a survey by a cadet upon the completion of the cadet’s Sea Year, was redesignated as subsec. (g) of section 51322 by Pub. L. 117–263, § 3513(a)(2). Subsec. (d) of section 51322, as added by Pub. L. 117–263, § 3513(a)(1), provides that the Maritime Administrator is to ensure that a cadet participating in Sea Year has certain information, training, and resources.
+
+The date of enactment of this section, referred to in subsec. (d), is the date of enactment of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+
+
+<a id="section-51328"></a>
+## § 51328. Student support
+
+The Maritime Administrator shall—
+
+(1) require a biannual survey of midshipmen, faculty, and staff of the Academy assessing the environment of the Academy; and
+
+(2) require an annual survey of faculty and staff of the Academy assessing the Sea Year program.
+
+### Statutory Notes
+
+#### United States Merchant Marine Academy Student Support Plan
+Pub. L. 117–263, div. C, title XXXV, § 3531(d), Dec. 23, 2022, 136 Stat. 3087, provided that: “(1) Student support plan.—Not later than January 1, 2023, the Maritime Administrator shall issue a Student Support Plan for the United States Merchant Marine Academy, in consultation with relevant mental health professionals in the Federal Government or experienced with the maritime industry or related industries. Such plan shall—“(A) address the mental health resources available to midshipmen, both on-campus and during Sea Year; “(B) establish a tracking system for suicidal ideations and suicide attempts of midshipmen, which excludes personally identifiable information; “(C) create an option for midshipmen to obtain assistance from a professional care provider virtually; and “(D) require an annual survey of faculty and staff assessing the adequacy of mental health resources for midshipmen of the Academy, both on campus and during Sea Year. “(2) Report to congress.—Not later than 30 days after the date of enactment of this section [Dec. 23, 2022], the Maritime Administrator shall provide Congress with a report on the resources necessary to properly implement this subsection.”

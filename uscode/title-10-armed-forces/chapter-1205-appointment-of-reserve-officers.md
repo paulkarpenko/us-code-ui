@@ -85,7 +85,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 Amendment by section 1631(b) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691(b)(1) of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Baccalaureate Degree Required for Appointment or Promotion of Reserve Component Officers to Grades Above First Lieutenant or Lieutenant (Junior Grade)
 Pub. L. 102–190, div. A, title V, § 523, Dec. 5, 1991, 105 Stat. 1363, provided that after Sept. 30, 1995, no person could be appointed to a grade above grade of first lieutenant in Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above grade of lieutenant (junior grade) in Naval Reserve, or be federally recognized in a grade above grade of first lieutenant as a member of Army National Guard or Air National Guard, unless that person had been awarded a baccalaureate degree by an accredited educational institution, prior to repeal by Pub. L. 103–35, title II, § 203(a), May 31, 1993, 107 Stat. 102. See [section 12205 of this title](./chapter-1205-appointment-of-reserve-officers.md#section-12205).
@@ -176,7 +176,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 Amendment by sections 1662(c)(2) and 1675(b)(1) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1632 of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as a note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Indefinite Appointments for Certain Reserve Officers
 Act Aug. 10, 1956, ch. 1041, § 41, 70A Stat. 636, provided that: “Each person who was a reserve officer on July 9, 1952, and who did not hold an appointment for an indefinite term on that date, shall be given an appointment for an indefinite term in place of the appointment he then held, if after written notification by competent authority before July 2, 1953, the officer agrees in writing to have that appointment continued for an indefinite term. In the event such officer does not agree in writing, the term of his current appointment shall not be changed by this section.”
@@ -438,7 +438,7 @@ The Military Selective Service Act, referred to in subsec. (a), is title I of ac
 1980—Subsec. (a). Pub. L. 96–513 substituted “the Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “sections 451–473 of title 50, appendix” wherever appearing.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12209"></a>

@@ -2,7 +2,7 @@
 title: 10
 chapter: '4'
 heading: OFFICE OF THE SECRETARY OF DEFENSE
-section_count: 34
+section_count: 36
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -203,6 +203,9 @@ Amendment by Pub. L. 110–417 effective Jan. 28, 2008, and as if included in Pu
 #### Effective Date of 1996 Amendment
 Pub. L. 104–106, div. A, title IX, § 903(a), Feb. 10, 1996, 110 Stat. 401, which provided that the amendments made by section 903 of Pub. L. 104–106 (amending this section and sections 138, 176, 1056, 1216, 1587, and 10201 of this title, repealing sections 133a, 134a, 137, and 142 of this title, and amending provisions set out as a note under [section 167 of this title](./chapter-006-combatant-commands.md#section-167)) were to take effect on Jan. 31, 1997, was repealed by Pub. L. 104–201, div. A, title IX, § 901, Sept. 23, 1996, 110 Stat. 2617.
 
+#### Establishment and Assignment of Roles and Responsibilities for Combined Joint All-Domain Command and Control in Support of Integrated Joint Warfighting
+Pub. L. 118–31, div. A, title IX, § 904, Dec. 22, 2023, 137 Stat. 363, provided that: “(a) In General.—The Secretary of Defense shall establish, and assign to appropriate components of the Office of the Secretary, roles and responsibilities relating to—“(1) the development of combined joint all-domain command and control (commonly known as ‘CJADC2’) capabilities in support of integrated joint warfighting; and “(2) the delivery of such capabilities to the combatant commands. “(b) Roles and Responsibilities.—The roles and responsibilities established and assigned under subsection (a) shall include, at a minimum, the following:“(1) Identifying new technology and operational concepts for experimentation and prototyping for delivery to the Joint Force to address key operational challenges. “(2) Providing technical support for the Joint Force in exploring and analyzing new combined joint all-domain command and control capabilities and operational concepts, including through advanced modeling and simulation. “(3) Executing experimentation associated with such capabilities through the Rapid Defense Experimentation Reserve or another mechanism. “(4) Enabling the acquisition of cross-domain, joint, and cross-system mission capabilities, including resourcing of modifications necessary for integration and interoperability among mission components. “(5) Ensuring the effectiveness of cross-domain, joint, and cross-system mission capabilities through analysis and testing. “(6) Creating and operating a complete capability for software development that allows for iterative, secure, and continuous deployment of developmental, prototype, and operational tools and capabilities from multiple vendors to test networks and operational networks for combatant commanders to—“(A) gain operational awareness, make decisions, and take actions; “(B) integrate relevant data sources to support target selection, target prioritization, and weapon-target pairing; and “(C) assign targets through networks, tools, and systems of the Armed Forces and combat support agencies. “(c) Initial Prioritization.—In establishing an initial set of roles and responsibilities under subsection (a), the Secretary of Defense shall prioritize the development and delivery of capabilities that meet the requirements of the United States Indo-Pacific Command. “(d) Briefings Required.—Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], and not less frequently than once every 180 days thereafter through December 31, 2026, the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a briefing on—“(1) any activities carried out in accordance with the roles and responsibilities under subsection (a); and “(2) any plans associated with such roles and responsibilities.”
+
 #### Responsibilities for National Mobilization; Personnel Requirements
 Pub. L. 117–81, div. A, title X, § 1089, Dec. 27, 2021, 135 Stat. 1925, provided that: “(a) Executive Agent for National Mobilization.—The Secretary of Defense shall designate a senior civilian official within the Office of the Secretary of Defense as the Executive Agent for National Mobilization. The Executive Agent for National Mobilization shall be responsible for—“(1) developing, managing, and coordinating policy and plans that address the full spectrum of military mobilization readiness, including full mobilization of personnel from volunteers to other persons inducted into the Armed Forces under the Military Selective Service Act ([50 U.S.C. 3801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3801&num=0&edition=prelim) et seq.); “(2) providing Congress and the Selective Service System with updated requirements and timelines for obtaining inductees in the event of a national emergency requiring mass mobilization and induction of personnel under the Military Selective Service Act for training and service in the Armed Forces; and “(3) providing Congress with a plan, developed in coordination with the Selective Service System, to induct large numbers of volunteers who may respond to a national call for volunteers during an emergency. “(b) Report Required.—Not later than one year after the date of the enactment of this Act [Dec. 27, 2021], the Secretary of Defense shall submit to Congress a plan for obtaining inductees as part of a mobilization timeline for the Selective Service System. The plan shall include a description of resources, locations, and capabilities of the Armed Forces required to train, equip, and integrate personnel inducted into the Armed Forces under the Military Selective Service Act into the total force, addressing scenarios that would include 300,000, 600,000, and 1,000,000 new volunteer and other personnel inducted into the Armed Forces under the Military Selective Service Act. The plan may be provided in classified form.”
 
@@ -339,6 +342,12 @@ Amendment by section 901(c)(2), (m)(2) of Pub. L. 111–383 effective Jan. 1, 20
 #### Order of Succession
 For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, listed in a table under [section 3345 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3345&num=0&edition=prelim), Government Organization and Employees.
 
+#### Senior Contracting Official for Strategic Capabilities Office
+Pub. L. 118–31, div. A, title VIII, § 807, Dec. 22, 2023, 137 Stat. 318, provided that: “(a) Senior Contracting Official.—The staff of the Director of the Strategic Capabilities Office shall include a senior contracting official (as defined in [section 1737 of title 10](./chapter-087-defense-acquisition-workforce.md#section-1737), United States Code) who shall have the authority to enter into and administer contracts, grants, cooperative agreements, and other transactions in execution of the program activities of the Strategic Capabilities Office. “(b) Effective Date; Implementation Plan.—“(1) Effective date.—The authorities described in subsection (a) shall take effect 30 days after the date on which the Secretary of Defense submits the plan described in paragraph (2). “(2) Plan.—Not later than 90 days after the date of the enactment of this Act [Dec. 22, 2023], the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a plan for the implementation of the authorities described in subsection (a). The plan shall include the following:“(A) A plan for oversight of the senior contracting official described under subsection (a). “(B) An assessment of the acquisition workforce needs of the Strategic Capabilities Office to support the authority provided under subsection (a). “(C) Other matters as appropriate.”
+
+#### Joint All Domain Command and Control
+Pub. L. 117–263, div. A, title IX, § 915, Dec. 23, 2022, 136 Stat. 2752, provided that: “(a) Direction and Control of Joint All Domain Command and Control.—The Deputy Secretary of Defense, in coordination with the Vice Chairman of the Joint Chiefs of Staff, shall oversee joint all domain command and control (commonly known as ‘JADC2’) to ensure—“(1) close collaboration with the Joint Requirements Oversight Council, the combatant commands, and the military services regarding operational requirements and requirements satisfaction relating to joint all domain command and control; and “(2) objective assessments to the Deputy Secretary and Vice Chairman about the progress of the Department of Defense in achieving the objectives of joint all domain command and control. “(b) Demonstrations and Fielding of Mission Threads.—“(1) In general.—The Deputy Secretary and Vice Chairman shall take the following actions in support of the objectives described in paragraph (2):“(A) In consultation with the Commander of the United States Indo-Pacific Command and the commanders of such other combatant commands as may be designated by the Deputy Secretary—“(i) identify a prioritized list of difficult mission-critical operational challenges specific to the area of operations of the designated commands; “(ii) design and recommend resourcing options, through the Office of Cost Analysis and Program Evaluation and the Management Action Group of the Deputy Secretary, a series of multi-domain, multi-service and multi-agency, multi-platform, and multisystem end-to-end integrated kinetic and non-kinetic mission threads, including necessary battle management functions, to solve the operational challenges identified in clause (i); “(iii) demonstrate the ability to execute the integrated mission threads identified in clause (ii) in realistic conditions on a repeatable basis, including the ability to achieve, through mission integration software, interoperability among effects chain components that do not conform to common interface standards, including the use of the System of Systems Technology Integration Tool Chain for Heterogeneous Electronic Systems (commonly known as ‘STITCHES’) managed by the 350th Spectrum Warfare Wing of the Department of the Air Force; and “(iv) create a plan to deploy the mission threads to the area of operations of the United States Indo-Pacific Command and such other combatant commands as may be designated by Deputy Secretary, and execute the mission threads at the scale and pace required to solve the identified operational challenges, including necessary logistics and sustainment capabilities. “(B) Designate organizations to serve as transition partners for integrated mission threads and ensure such integrated mission threads are maintained and exercised as operational capabilities in the United States Indo-Pacific Command and such other combatant commands as may be designated by Deputy Secretary. “(C) Designate organizations and elements of the Department of Defense as the Deputy Secretary determines appropriate to be responsible for—“(i) serving as mission managers for composing and demonstrating the integrated mission threads under the mission management pilot program established by section 871 of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81; [10 U.S.C. 191](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-191) note); “(ii) providing continuing support and sustainment for, and training and exercising of, the integrated mission threads under the operational command of the Commander of United States Indo-Pacific Command and such other combatant commands as may be designated by Deputy Secretary; “(iii) planning and executing experimentation and demonstrations with— “(I) Joint data integration approaches; “(II) mission integration capabilities, especially software; and “(III) Joint tactics, techniques, and procedures; “(iv) assisting in fielding mission integration software to encourage the development and employment of such software on a larger scale, especially at the designated combatant commands; “(v) assessing and integrating, as appropriate, the capabilities of Assault Breaker II, developed by the Defense Advanced Research Projects Agency, and related developmental efforts as those efforts transition to operational deployment; and “(vi) integrating joint all domain command and control mission threads and mission command and control, including in conflicts that arise with minimal warning, and exercising other joint all domain command and control capabilities and functions. “(D) Integrate the planning and demonstrations of the mission threads with—“(i) the Production, Exploitation, and Dissemination Center in the United States Indo-Pacific Command; “(ii) the Family of Integrated Targeting Cells; and “(iii) the tactical dissemination and information sharing systems for the Armed Forces and allies of the United States, including the Mission Partner Environment and the Maven Smart System. “(2) Objectives described.—The objectives described in this paragraph are the following—“(A) to support the emphasis of the National Defense Strategy on adversary-specific deterrence postures; “(B) to support actions that can be taken within the period covered by the future-years defense program focused on—“(i) critical mission threads, such as kinetic kill chains and non-kinetic effects chains; and “(ii) integrated concepts of operation; “(C) to support demonstrations and experimentation; and “(D) to achieve the objectives of the Joint All Domain Command and Control Strategy and Implementation Plan approved by the Deputy Secretary of Defense. “(c) Performance Goals.—The Deputy Secretary, the Vice Chairman, and the commanders of such other combatant commands as may be designated by the Deputy Secretary shall seek to—“(1) beginning in the third quarter of fiscal year 2023, demonstrate new integrated mission threads on a regularly recurring basis multiple times each year; and “(2) include such demonstrations, as feasible, in the Rapid Defense Experimentation Reserve campaign of experimentation, Valiant Shield, Northern Edge, the Large Scale Global Exercise, the quarterly Scarlet Dragon exercises, the Global Information Dominance Experiments, and annual force exercises in the area of responsibility of the United States Indo-Pacific Command. “(d) Definitions.—In this section:“(1) The term ‘Deputy Secretary’ means the Deputy Secretary of Defense. “(2) The term ‘Family of Integrated Targeting Cells’ means the Maritime Targeting Cell-Afloat, the Maritime Targeting Cell-Expeditionary, the Tactical Intelligence Targeting Access Node, Tactical Operations Center Medium/Light, and other interoperable command and control nodes that are able to task the collection of, receive, process, and disseminate track and targeting information from many sensing systems in disconnected, denied, intermittent or limited bandwidth conditions. “(3) The term ‘joint all domain command and control’ refers to the warfighting capabilities that support commander decision making at all echelons from campaigning to conflict, across all domains, and with partners, to deliver information advantage. “(4) The term ‘mission command’ is the employment of military operations through decentralized execution based upon mission-type orders and the intent of commanders. “(5) The terms ‘mission thread’, ‘kill chain’, and ‘effects chain’ have the meanings given those terms in the publication of the Office of the Under Secretary of Defense for Research and Engineering titled ‘Mission Engineering Guide’ and dated November 2020. “(6) The term ‘Vice Chairman’ means the Vice Chairman of the Joint Chiefs of Staff.”
+
 #### Improvement of the Strategic Capabilities Office of the Department of Defense
 Pub. L. 116–92, div. A, title II, § 233, Dec. 20, 2019, 133 Stat. 1277, provided that: “(a) Organization.—“(1) Authority of deputy secretary of defense.—The Deputy Secretary of Defense shall exercise authority and direction over the Strategic Capabilities Office of the Department of Defense (referred to in this section as the ‘Office’). “(2) Authority of director.—The Director of the Office shall report directly to the Deputy Secretary of Defense. “(3) Delegation.—In exercising authority and direction over the Office under subsection (a), the Deputy Secretary of Defense may delegate administrative, management, and other duties to the Director of the Defense Advanced Research Projects Agency, as needed, to effectively and efficiently execute the mission of the Office. “(b) Cross-functional Teams.—“(1) Establishment.—Not later than 180 days after the date of enactment of this Act [Dec. 20, 2019], the Deputy Secretary of Defense shall establish the following cross-functional teams to improve the effectiveness of the Office:“(A) A transition cross-functional team to improve the efficiency and effectiveness with which the programs of the Office may be transitioned into—“(i) research and development programs of the military services and other agencies of the Department of Defense; and “(ii) programs of such services and agencies in operational use. “(B) A technical cross functional team to improve the continuous technical assessment and review of the programs of the Office during program selection and execution. “(2) Membership.—The Deputy Secretary of Defense shall select individuals to serve on the cross-functional teams described in paragraph (1) from among individuals in the defense research and engineering enterprise, acquisition community, Joint Staff, combatant commands, and other organizations, as determined to be appropriate by the Deputy Secretary.”
 
@@ -411,9 +420,9 @@ Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339
 
 **(c) Precedence in Department of Defense.—**
 
-(1) **Precedence in matters of responsibility.—** — With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense.11 See Transfer of Functions note below.
+(1) **Precedence in matters of responsibility.—** — With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary and the Deputy Secretary of Defense.
 
-(2) **Precedence in other matters.—** — With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer,1 and the Secretaries of the military departments.
+(2) **Precedence in other matters.—** — With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, and the Secretaries of the military departments.
 
 ### Statutory Notes
 
@@ -423,6 +432,10 @@ A prior section 133a, added Pub. L. 99–500, § 101(c) [title X, § 902(a)(1)],
 Another prior section 133a was renumbered [section 117 of this title](./chapter-002-department-of-defense.md#section-117).
 
 #### Amendments
+2023—Subsec. (c)(1). Pub. L. 118–31, § 901(a)(1)(A), substituted “and the Deputy Secretary of Defense” for “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense”.
+
+Subsec. (c)(2). Pub. L. 118–31, § 901(a)(1)(B), struck out “the Chief Management Officer,” after “the Deputy Secretary,”.
+
 2019—Subsec. (b)(2). Pub. L. 116–92 substituted “appropriate prototyping activities,” for “prototyping,” and struck out “, including the allocation of resources for defense research and engineering,” after “testing activities and programs”.
 
 2017—Subsec. (c)(1). Pub. L. 115–91, § 910(c)(2)(A), substituted “, the Deputy Secretary of Defense, and the Chief Management Officer of the Department of Defense” for “and the Deputy Secretary of Defense”.
@@ -437,9 +450,6 @@ Pub. L. 114–328, div. A, title IX, § 901(a)(1), Dec. 23, 2016, 130 Stat. 2339
 
 #### Semiannual Updates on Meetings Held by the Missile Defense Executive Board
 Pub. L. 117–81, div. A, title XVI, § 1671(a)–(c), Dec. 27, 2021, 135 Stat. 2112, provided that: “(a) Semiannual Updates.—Not later than March 1 and September 1 of each year, the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment, acting in their capacities as co-chairs of the Missile Defense Executive Board pursuant to section 1681(c) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 2162), shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a semiannual update including, with respect to the six-month period preceding the update—“(1) the dates on which the Board met; and “(2) except as provided by subsection (b), a summary of any decisions made by the Board at each meeting of the Board and the rationale for and options that informed such decisions. “(b) Exception for Certain Budgetary Matters.—The co-chairs shall not be required to include in a semiannual update under subsection (a) the matters described in paragraph (2) of such subsection with respect to decisions of the Board relating to the budget of the President for a fiscal year if the budget for that fiscal year has not been submitted to Congress under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), United States Code, as of the date of the semiannual update. “(c) Form of Update.—The co-chairs may provide a semiannual update under subsection (a) either in the form of a briefing or a written report.”
-
-#### Transfer of Functions
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a) by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).
 
 #### Service of Incumbent USD for ATL in Position
 Pub. L. 114–328, div. A, title IX, § 901(a)(2), Dec. 23, 2016, 130 Stat. 2339, which provided that the Under Secretary of Defense for Acquisition, Technology, and Logistics serving as of Feb. 1, 2018, could continue as Under Secretary of Defense for Research and Engineering, without further appointment under this section, was repealed by Pub. L. 115–91, div. A, title IX, § 901, Dec. 12, 2017, 131 Stat. 1511.
@@ -492,9 +502,9 @@ Pub. L. 100–456, div. A, title X, § 1006, Sept. 29, 1988, 102 Stat. 2040, as 
 
 **(c) Precedence in Department of Defense.—**
 
-(1) **Precedence in matters of responsibility.—** — With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense,11 See Transfer of Functions note below. and the Under Secretary of Defense for Research and Engineering.
+(1) **Precedence in matters of responsibility.—** — With regard to all matters for which the Under Secretary has responsibility by the direction of the Secretary of Defense or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary of Defense, and the Under Secretary of Defense for Research and Engineering.
 
-(2) **Precedence in other matters.—** — With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Chief Management Officer,1 the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
+(2) **Precedence in other matters.—** — With regard to all matters other than the matters for which the Under Secretary has responsibility by the direction of the Secretary or by law, the Under Secretary takes precedence in the Department of Defense after the Secretary, the Deputy Secretary, the Under Secretary of Defense for Research and Engineering, and the Secretaries of the military departments.
 
 ### Statutory Notes
 
@@ -504,6 +514,10 @@ A prior section 133b was renumbered [section 138a of this title](https://uscode.
 Another prior section 133b was renumbered [section 118 of this title](./chapter-002-department-of-defense.md#section-118) and was subsequently repealed.
 
 #### Amendments
+2023—Subsec. (c)(1). Pub. L. 118–31, § 901(a)(2)(A), struck out “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
+
+Subsec. (c)(2). Pub. L. 118–31, § 901(a)(2)(B), struck out “the Chief Management Officer,” after “the Deputy Secretary,”.
+
 2021—Subsec. (b)(9). Pub. L. 116–283, § 811(a)(2), added par. (9).
 
 Subsec. (b)(9)(C). Pub. L. 116–283, § 1883(b)(2), substituted “section 4801” for “section 2500”.
@@ -529,8 +543,8 @@ Pub. L. 115–91, div. A, title IX, § 910(c), Dec. 12, 2017, 131 Stat. 1518, pr
 #### Effective Date
 Pub. L. 114–328, div. A, title IX, § 901(b), Dec. 23, 2016, 130 Stat. 2339, provided that this section is effective on Feb. 1, 2018.
 
-#### Transfer of Functions
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a) by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).
+#### Department of Defense Support for Requirements of White House Military Office
+Pub. L. 117–263, div. A, title XVI, § 1672(b), (c), Dec. 23, 2022, 136 Stat. 2959, provided that: “(b) Portfolio Manager.—The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition and Sustainment, shall designate a senior official to coordinate and advocate for the portfolio of national level programs of the Department of Defense that are either or both—“(1) in direct support of requirements from the White House Military Office; or “(2) operationally relevant to the mission areas of the White House Military Office. “(c) Accessibility of Information.—The programmatic and budgetary information required to assess the efficacy of the national level programs covered by subsection (b) shall be provided to the senior official designated under such subsection by the following officials:“(1) The Secretary of each military department. “(2) The Under Secretary of Defense for Policy. “(3) The Under Secretary of Defense for Research and Engineering. “(4) The Chairman of the Joint Chiefs of Staff. “(5) The Director of Cost Assessment and Program Evaluation.”
 
 
 <a id="section-134"></a>
@@ -857,11 +871,13 @@ Pub. L. 107–314, div. A, title IX, § 901(d), Dec. 2, 2002, 116 Stat. 2620, as
 
 (6) One of the Deputy Under Secretaries is the Deputy Under Secretary of Defense for Intelligence and Security, who shall be appointed from among persons who have extensive expertise in intelligence matters.
 
-**(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense,11 See Transfer of Functions note below. the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
+**(d)** The Deputy Under Secretaries of Defense take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense. The Deputy Under Secretaries shall take precedence among themselves in the order prescribed by the Secretary of Defense.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 struck out “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
+
 2019—Subsec. (c)(6). Pub. L. 116–92 substituted “Deputy Under Secretary of Defense for Intelligence and Security” for “Deputy Under Secretary of Defense for Intelligence”.
 
 2018—Subsec. (d). Pub. L. 115–232 substituted “the Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense” for “the Secretaries of the military departments, the Under Secretaries of Defense, and the Deputy Chief Management Officer of the Department of Defense”.
@@ -926,9 +942,6 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 #### Savings Provisions
 Pub. L. 111–84, div. A, title IX, § 906(e), Oct. 28, 2009, 123 Stat. 2428, provided that: “(1) In general.—Notwithstanding the amendments made by this section [enacting this section and amending sections 133a, 134a, 136a, 138, and former 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act [Oct. 28, 2009] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act. “(2) Covered positions.—The positions specified in this paragraph are the following:“(A) The Principal Deputy Under Secretary of Defense (Comptroller). “(B) The Principal Deputy Under Secretary of Defense for Intelligence.”
 
-#### Transfer of Functions
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a) by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).
-
 #### Temporary Authority for Additional DUSDS
 Pub. L. 111–383, div. A, title IX, § 901(i)(2), Jan. 7, 2011, 124 Stat. 4323, provided that: “During the period beginning on the date of the enactment of this Act [Jan. 7, 2011] and ending on January 1, 2015, the Secretary of Defense may, in the Secretary’s discretion, appoint not more than five Deputy Under Secretaries of Defense in addition to the five Principal Deputy Under Secretaries of Defense authorized by [section 137a of title 10](./chapter-004-office-of-the-secretary-of-defense.md#section-137a), United States Code (as amended by subsection (b)(3)).”
 
@@ -942,7 +955,7 @@ Pub. L. 111–84, div. A, title IX, § 906(a)(2), Oct. 28, 2009, 123 Stat. 2426,
 ## § 138. Assistant Secretaries of Defense
 **(a)**
 
-(1) There are 15 Assistant Secretaries of Defense.
+(1) There are 19 Assistant Secretaries of Defense.
 
 (2) The Assistant Secretaries of Defense shall be appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
@@ -952,7 +965,7 @@ Pub. L. 111–84, div. A, title IX, § 906(a)(2), Oct. 28, 2009, 123 Stat. 2426,
 
 (2)
 
-  (A) One of the Assistant Secretaries is the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict. He shall have as his principal duty the overall supervision (including oversight of policy and resources) of special operations activities (as defined in [section 167(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/k&num=0&edition=prelim)) and low intensity conflict activities of the Department of Defense. The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense. A person may not be appointed as Assistant Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force. Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
+  (A) One of the Assistant Secretaries is the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict. The principal duty of the Assistant Secretary shall be the overall supervision (including oversight of policy and resources) of special operations activities (as defined in [section 167(k) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/k&num=0&edition=prelim)) and low intensity conflict activities of the Department of Defense. The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense. A person may not be appointed as Assistant Secretary within seven years after relief from active duty as a commissioned officer of a regular component of an armed force. Subject to the authority, direction, and control of the Secretary of Defense, the Assistant Secretary shall do the following:
 
     (i) Exercise authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces through the administrative chain of command specified in [section 167(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section167/f&num=0&edition=prelim).
 
@@ -962,29 +975,23 @@ Pub. L. 111–84, div. A, title IX, § 906(a)(2), Oct. 28, 2009, 123 Stat. 2426,
 
       (II) Integrating the functional activities of the headquarters of the Department to most efficiently and effectively provide for required special operations forces and capabilities.
 
-      (III) Such other matters as may be specified by the Secretary and the Under Secretary.
-
   (B) In the discharge of the responsibilities specified in subparagraph (A)(i), the Assistant Secretary is immediately subordinate to the Secretary of Defense. Unless otherwise directed by the President, no officer below the Secretary may intervene to exercise authority, direction, or control over the Assistant Secretary in the discharge of such responsibilities.
 
-(3) One of the Assistant Secretaries is the Assistant Secretary of Defense for Legislative Affairs. He shall have as his principal duty the overall supervision of legislative affairs of the Department of Defense.
+(3) One of the Assistant Secretaries is the Assistant Secretary of Defense for Legislative Affairs. The principal duty of the Assistant Secretary shall be the overall supervision of legislative affairs of the Department of Defense.
 
 (4) One of the Assistant Secretaries is the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs. The Assistant Secretary may communicate views on issues within the responsibility of the Assistant Secretary directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense. The Assistant Secretary shall—
 
-  (A) advise the Secretary of Defense on nuclear energy, nuclear weapons, and chemical and biological defense;
+  (A) advise the Secretary of Defense on nuclear energy, nuclear weapons, and chemical and biological defense; and
 
-  (B) serve as the Staff Director of the Nuclear Weapons Council established by [section 179 of this title](./chapter-007-boards-councils-and-committees.md#section-179); and
-
-  (C) perform such additional duties as the Secretary may prescribe.
+  (B) serve as the Staff Director of the Nuclear Weapons Council established by [section 179 of this title](./chapter-007-boards-councils-and-committees.md#section-179).
 
 (5) One of the Assistant Secretaries is the Assistant Secretary of Defense for Space Policy. The principal duty of the Assistant Secretary shall be the overall supervision of policy of the Department of Defense for space warfighting.
 
-(6) One of the Assistant Secretaries is the Assistant Secretary of Defense for Industrial Base Policy. The Assistant Secretary shall—
-
-  (A) advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies; and
-
-  (B) perform other duties as directed by the Under Secretary.
+(6) One of the Assistant Secretaries is the Assistant Secretary of Defense for Industrial Base Policy. The Assistant Secretary shall advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies.
 
 (7) One of the Assistant Secretaries is the Assistant Secretary of Defense for Energy, Installations, and Environment. The principal duty of the Assistant Secretary shall be the overall supervision of matters relating to energy, installations, and the environment for the Department of Defense.
+
+(8) One of the Assistant Secretaries is the Assistant Secretary of Defense for Cyber Policy. The principal duty of the Assistant Secretary shall be the overall supervision of policy of the Department of Defense for cyber. The Assistant Secretary is the Principal Cyber Advisor described in [section 392a(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section392a/a&num=0&edition=prelim).
 
 **(c)** Except as otherwise specifically provided by law, an Assistant Secretary may not issue an order to a military department unless—
 
@@ -992,7 +999,9 @@ Pub. L. 111–84, div. A, title IX, § 906(a)(2), Oct. 28, 2009, 123 Stat. 2426,
 
 (2) the order is issued through the Secretary of the military department concerned.
 
-**(d)** The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Chief Management Officer of the Department of Defense,11 See Transfer of Functions note below. the Secretaries of the military departments, the Under Secretaries of Defense, the officials serving in positions specified in [section 131(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section131/b/4&num=0&edition=prelim), and the Deputy Under Secretaries of Defense. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
+**(d)** The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, the officials serving in positions specified in [section 131(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section131/b/4&num=0&edition=prelim), and the Deputy Under Secretaries of Defense. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
+
+**(e)** The number of Deputy Assistant Secretaries of Defense may not exceed 60.
 
 ### Statutory Notes
 
@@ -1043,6 +1052,28 @@ Section 138(h) was renumbered successively as section 114(h) and [section 113(i)
 Section 138(i) was renumbered successively as section 114(i) and [section 114(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section114/d&num=0&edition=prelim).
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 struck out “the Chief Management Officer of the Department of Defense,” after “the Deputy Secretary of Defense,”.
+
+2022—Subsec. (a)(1). Pub. L. 117–263, § 901(b)(1), substituted “19” for “15”.
+
+Subsec. (b)(2)(A). Pub. L. 117–263, § 901(d)(1)(A), substituted “The principal duty of the Assistant Secretary shall be” for “He shall have as his principal duty” in introductory provisions.
+
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 117–263, § 901(d)(1)(B), struck out subcl. (III) which read as follows: “Such other matters as may be specified by the Secretary and the Under Secretary.”
+
+Subsec. (b)(3). Pub. L. 117–263, § 901(d)(2), substituted “The principal duty of the Assistant Secretary shall be” for “He shall have as his principal duty”.
+
+Subsec. (b)(4)(C). Pub. L. 117–263, § 901(d)(3), struck out subpar. (C) which read as follows: “perform such additional duties as the Secretary may prescribe.”
+
+Subsec. (b)(6). Pub. L. 117–263, § 901(d)(4), substituted “shall advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies.” for “shall—
+
+“(A) advise the Under Secretary of Defense for Acquisition and Sustainment on industrial base policies; and
+
+“(B) perform other duties as directed by the Under Secretary.”
+
+Subsec. (b)(8). Pub. L. 117–263, § 901(a), added par. (8).
+
+Subsec. (e). Pub. L. 117–263, § 901(c)(1), added subsec. (e).
+
 2021—Subsec. (a)(1). Pub. L. 116–283, § 904(a), substituted “15” for “14”.
 
 Pub. L. 116–283, § 903(a), substituted “14” for “13”.
@@ -1263,8 +1294,8 @@ Pub. L. 90–168, § 7, Dec. 1, 1967, 81 Stat. 526, provided that: “The provis
 #### Short Title of 1967 Amendment
 Pub. L. 90–168, § 1, Dec. 1, 1967, 81 Stat. 521, provided: “That this Act [amending this section, sections 175, 262, 264, 268, 269, 270, 511 [now 12103], 3014, 5034, 8014, and 8850 of this title, [section 502 of Title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502&num=0&edition=prelim), National Guard, and [section 404 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section404&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, enacting sections 3021 [now 10302], 3038, 8021 [now 10305], and 8038 of this title, enacting provisions set out as notes under this section and [section 8212 of this title](./chapter-825-administration.md#section-8212), and amending provisions set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113)] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
 
-#### Transfer of Functions
-Position of Chief Management Officer of the Department of Defense effectively abolished upon the repeal of [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a) by Pub. L. 116–283, div. A, title IX, § 901(a)(1), Jan. 1, 2021, 134 Stat. 3794. Duties, personnel, and functions of the Chief Management Officer transferred to other Department of Defense officers, employees, and organizations, and any reference to the Chief Management Officer of the Department of Defense to be deemed to refer to the applicable Department of Defense officer or employee as so designated, see section 901(b), (c) of Pub. L. 116–283, set out in a note under former [section 132a of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-132a).
+#### Principal Deputy Assistant Secretaries To Support Assistant Secretary of Defense for Special Operations and Low Intensity Conflict
+Pub. L. 118–31, div. A, title IX, § 905, Dec. 22, 2023, 137 Stat. 364, provided that: “The Secretary of Defense may appoint two Principal Deputy Assistant Secretaries to report to the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict— “(1) one of whom may be assigned to support the Assistant Secretary in the discharge of responsibilities specified in clause (i) of [section 138(b)(2)(A) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2/A&num=0&edition=prelim), United States Code; and “(2) one of whom may be assigned to support the Assistant Secretary in the discharge of responsibilities specified in clause (ii) of that section.”
 
 #### DoD Directive on Responsibilities of ASD SOLIC
 Pub. L. 116–283, div. A, title IX, § 902(c), Jan. 1, 2021, 134 Stat. 3797, provided that: “(1) In general.—Not later than 180 days after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall publish a Department of Defense directive establishing policy and procedures related to the exercise of authority, direction, and control of all special-operations peculiar administrative matters relating to the organization, training, and equipping of special operations forces by the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict as specified by [section 138(b)(2)(A)(i) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138/b/2/A/i&num=0&edition=prelim), United States Code, as amended by subsection (a)(1). “(2) Matters for including.—The directive required by paragraph (1) shall include the following:“(A) A specification of responsibilities for coordination on matters affecting the organization, training, and equipping of special operations forces. “(B) An identification and specification of updates to applicable documents and instructions of the Department of Defense. “(C) Mechanisms to ensure the inclusion of the Assistant Secretary in all Departmental governance forums affecting the organization, training, and equipping of special operations forces. “(D) Such other matters as the Secretary considers appropriate. “(3) Applicability.— The directive required by paragraph (1) shall apply throughout the Department of Defense to all components of the Department of Defense. “(4) Limitation on availability of certain funding pending publication.—Of the amounts authorized to be appropriated by this Act [see Tables for classification] for fiscal year 2021 for operation and maintenance, Defense-wide, and available for the Office of the Secretary of Defense, not more than 75 percent may be obligated or expended until the date that is 15 days after the date on which the Secretary publishes the directive required by paragraph (1).”
@@ -1276,7 +1307,7 @@ Pub. L. 116–283, div. A, title IX, § 907, Jan. 1, 2021, 134 Stat. 3799, provi
 Pub. L. 115–232, div. A, title IX, § 917, Aug. 13, 2018, 132 Stat. 1925, provided that: “The Secretary of Defense shall ensure that the implementation of section 922 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328; 130 Stat. 2354) [enacting [section 139b of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-139b) and amending this section and [section 167 of this title](./chapter-006-combatant-commands.md#section-167)] and the amendments made by that section is fully complete by not later than 90 days after the date of the enactment of this Act [Aug. 13, 2018].”
 
 #### Limitation on Maximum Number of Deputy Assistant Secretaries of Defense
-Pub. L. 115–91, div. A, title IX, § 908, Dec. 12, 2017, 131 Stat. 1514, provided that: “The maximum number of Deputy Assistant Secretaries of Defense after the date of the enactment of this Act [Dec. 12, 2017] may not exceed 48.”
+Pub. L. 115–91, div. A, title IX, § 908, Dec. 12, 2017, 131 Stat. 1514, which limited the maximum number of Deputy Assistant Secretaries of Defense to 48 after Dec. 12, 2017, was repealed by Pub. L. 117–263, div. A, title IX, § 901(c)(2), Dec. 23, 2022, 136 Stat. 2747. See subsec. (e) of this section.
 
 #### Redesignation of Assistant Secretary of Defense for Manpower and Reserve Affairs
 Pub. L. 113–291, div. A, title IX, § 902(a)(1), Dec. 19, 2014, 128 Stat. 3469, provided that: “The position of Assistant Secretary of Defense for Reserve Affairs is hereby redesignated as the Assistant Secretary of Defense for Manpower and Reserve Affairs. The individual serving in that position on the day before the date of the enactment of this Act [Dec. 19, 2014] may continue in office after that date without further appointment.”
@@ -1377,7 +1408,7 @@ Section, added Pub. L. 100–180, div. A, title XII, § 1245(a)(1), Dec. 4, 1987
 
 (2) Each such report shall be submitted concurrently to the Secretary of Defense, the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, the Secretaries of the military departments, and the Congress not later than January 31 of each year.
 
-(3) If the Director submits the report to Congress in a classified form, the Director shall concurrently submit an unclassified version of the report to Congress.
+(3) If the Director submits the report to Congress in a classified or controlled unclassified form, the Director shall concurrently submit to Congress a version of the report that is unclassified and does not require safeguarding or dissemination controls.
 
 (4) The report shall include such comments and recommendations as the Director considers appropriate, including comments and recommendations on resources and facilities available for operational test and evaluation and levels of funding made available for operational test and evaluation activities. The report for a fiscal year shall also include an assessment of the waivers of and deviations from requirements in test and evaluation master plans and other testing requirements that occurred during the fiscal year, any concerns raised by the waivers or deviations, and the actions that have been taken or are planned to be taken to address the concerns.
 
@@ -1400,6 +1431,8 @@ A prior section 139 was renumbered [section 140 of this title](./chapter-004-off
 Another prior section 139 was renumbered [section 4205 of this title](./chapter-321-general-matters.md#section-4205).
 
 #### Amendments
+2022—Subsec. (h)(3). Pub. L. 117–263 inserted “or controlled unclassified” after “classified” and substituted “submit to Congress a version of the report that is unclassified and does not require safeguarding or dissemination controls” for “submit an unclassified version of the report to Congress”.
+
 2021—Subsec. (a)(2)(B). Pub. L. 116–283, § 1846(i)(1), substituted “section 4201” for “section 2430”.
 
 Subsec. (b)(6). Pub. L. 116–283, § 1845(c)(1), substituted “section 4172” for “section 2366”.
@@ -1526,7 +1559,7 @@ Pub. L. 116–92, div. A, title XVI, § 1689, Dec. 20, 2019, 133 Stat. 1789, pro
 Pub. L. 115–232, div. A, title VIII, § 887(b), Aug. 13, 2018, 132 Stat. 1916, provided that: “Developmental Test and Evaluation activities under the leadership of the Under Secretary of Defense for Research and Engineering and the Under Secretary of Defense for Acquisition and Sustainment shall have prompt access to all data regarding modeling and simulation activity proposed to be used by military departments and defense agencies in support of developmental test and evaluation of military capabilities. This access shall include data associated with verification, validation, and accreditation activities.”
 
 #### Review and Revision of Policies and Practices on Test and Evaluation; Inclusion in Strategic Plan; Report
-Pub. L. 109–364, div. A, title II, § 231(b)–(e), Oct. 17, 2006, 120 Stat. 2132, 2133, provided that: “(b) Review and Revision of Policies and Practices.—“(1) Review.—During fiscal year 2007, the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Director of Operational Test and Evaluation shall review Department of Defense policies and practices on test and evaluation in order to—“(A) reaffirm the test and evaluation principles that should guide traditional acquisition programs; and “(B) determine how best to apply appropriate test and evaluation principles to emerging acquisition approaches. “(2) Revised guidance.—If the Under Secretary determines as a result of the review under paragraph (1) that a revision of the policies and practices referred to in that paragraph is necessary, the Under Secretary and the Director shall jointly issue new or revised guidance for the Department of Defense on test and evaluation to address that determination. “(c) Issues To Be Addressed.—In carrying out subsection (b), the Under Secretary shall address policies and practices on test and evaluation in order to—“(1) ensure the performance of test and evaluation activities with regard to—“(A) items that are acquired pursuant to the authority for rapid acquisition and deployment of items in section 806 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 [Pub. L. 107–314] ([10 U.S.C. 2302](./chapter-chapter-137-chapter-chapter-137.md#section-2302) note); “(B) programs that are conducted pursuant to the authority for spiral development in [former] section 803 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2603; [former] [10 U.S.C. 2430](./chapter-chapter-144-chapter-chapter-144.md#section-2430) note), or other authority for the conduct of incremental acquisition programs; “(C) systems that are acquired pursuant to other emerging acquisition approaches, as approved by the Under Secretary; and “(D) equipment that is not subject to the operational test and evaluation requirements in sections 2366 and 2399 of title 10, United States Code [now [10 U.S.C. 4172](./chapter-307-test-and-evaluation.md#section-4172), 4171], but that may require limited operational test and evaluation for the purpose of ensuring the safety and survivability of such equipment and personnel using such equipment; and “(2) ensure the appropriate use, if any, of operational test and evaluation resources to assess technology readiness levels for the purpose of [section 2366a of title 10](./chapter-chapter-139-chapter-chapter-139.md#section-2366a), United States Code [now [10 U.S.C. 4251](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4251)], and other applicable technology readiness requirements. “(d) Inclusion of Testing Needs in Strategic Plan.—The Director, Test Resource Management Center, shall ensure that the strategic plan for Department of Defense test and evaluation resources developed pursuant to [section 196 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-196), United States Code [now [10 U.S.C. 4173](./chapter-307-test-and-evaluation.md#section-4173)]—“(1) reflects any testing needs of the Department of Defense that are identified as a result of activities under subsection (b); and “(2) includes an assessment of the test and evaluation facilities, resources, and budgets that will be required to meet such needs. “(e) Report to Congress.—Not later than nine months after the date of the enactment of this Act [Oct. 17, 2006], the Under Secretary and the Director of Operational Test and Evaluation shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the review conducted under paragraph (1) of subsection (b), including any new or revised guidance issued pursuant to paragraph (2) of that subsection.”
+Pub. L. 109–364, div. A, title II, § 231(b)–(e), Oct. 17, 2006, 120 Stat. 2132, 2133, as amended by Pub. L. 117–263, div. A, title VIII, § 804(d)(4), Dec. 23, 2022, 136 Stat. 2701, provided that: “(b) Review and Revision of Policies and Practices.—“(1) Review.—During fiscal year 2007, the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Director of Operational Test and Evaluation shall review Department of Defense policies and practices on test and evaluation in order to—“(A) reaffirm the test and evaluation principles that should guide traditional acquisition programs; and “(B) determine how best to apply appropriate test and evaluation principles to emerging acquisition approaches. “(2) Revised guidance.—If the Under Secretary determines as a result of the review under paragraph (1) that a revision of the policies and practices referred to in that paragraph is necessary, the Under Secretary and the Director shall jointly issue new or revised guidance for the Department of Defense on test and evaluation to address that determination. “(c) Issues To Be Addressed.—In carrying out subsection (b), the Under Secretary shall address policies and practices on test and evaluation in order to—“(1) ensure the performance of test and evaluation activities with regard to—“(A) items that are acquired pursuant to the authority for rapid acquisition and deployment of items in [section 3601 of title 10](./chapter-253-rapid-acquisition-procedures.md#section-3601), United States Code; “(B) programs that are conducted pursuant to the authority for spiral development in [former] section 803 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 (Public Law 107–314; 116 Stat. 2603; [former] [10 U.S.C. 2430](./chapter-chapter-144-chapter-chapter-144.md#section-2430) note), or other authority for the conduct of incremental acquisition programs; “(C) systems that are acquired pursuant to other emerging acquisition approaches, as approved by the Under Secretary; and “(D) equipment that is not subject to the operational test and evaluation requirements in sections 2366 and 2399 of title 10, United States Code [now [10 U.S.C. 4172](./chapter-307-test-and-evaluation.md#section-4172), 4171], but that may require limited operational test and evaluation for the purpose of ensuring the safety and survivability of such equipment and personnel using such equipment; and “(2) ensure the appropriate use, if any, of operational test and evaluation resources to assess technology readiness levels for the purpose of [section 2366a of title 10](./chapter-chapter-139-chapter-chapter-139.md#section-2366a), United States Code [now [10 U.S.C. 4251](./chapter-322-major-systems-and-major-defense-acquisition-programs-generally.md#section-4251)], and other applicable technology readiness requirements. “(d) Inclusion of Testing Needs in Strategic Plan.—The Director, Test Resource Management Center, shall ensure that the strategic plan for Department of Defense test and evaluation resources developed pursuant to [section 196 of title 10](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-196), United States Code [now [10 U.S.C. 4173](./chapter-307-test-and-evaluation.md#section-4173)]—“(1) reflects any testing needs of the Department of Defense that are identified as a result of activities under subsection (b); and “(2) includes an assessment of the test and evaluation facilities, resources, and budgets that will be required to meet such needs. “(e) Report to Congress.—Not later than nine months after the date of the enactment of this Act [Oct. 17, 2006], the Under Secretary and the Director of Operational Test and Evaluation shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a report on the review conducted under paragraph (1) of subsection (b), including any new or revised guidance issued pursuant to paragraph (2) of that subsection.”
 
 
 <a id="section-139a"></a>
@@ -1559,20 +1592,66 @@ Pub. L. 109–364, div. A, title II, § 231(b)–(e), Oct. 17, 2006, 120 Stat. 2
 
 (4) Formulation of study guidance for analyses of alternatives for major defense acquisition programs and performance of such analyses, as directed by the Secretary of Defense.
 
-(5) Review, analysis, and evaluation of programs for executing approved strategies and policies, ensuring that information on programs is presented accurately and completely, and assessing the effect of spending by the Department of Defense on the United States economy.
+(5) Review, analysis, and evaluation of programs for executing approved strategies and policies and ensuring that information on programs is presented accurately and completely.
 
 (6) Assessments of special access and compartmented intelligence programs, in coordination with the Under Secretary of Defense for Acquisition and Sustainment, the Under Secretary of Defense for Research and Engineering, and the Under Secretary of Defense for Intelligence and Security and in accordance with applicable policies.
 
 (7) Assessments of alternative plans, programs, and policies with respect to the acquisition programs of the Department of Defense.
 
-(8) Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources.
+(8) Leading the development of improved analytical skills and competencies within the cost assessment and program evaluation workforce of the Department of Defense and improved tools, data, and methods to promote performance, economy, and efficiency in analyzing national security planning and the allocation of defense resources, including the standardization of analytical methodologies and the establishment and maintenance of a centralized knowledge repository of physical attributes or other data for modeling and simulation purposes.
 
 (9) Performing the duties assigned to the Director in [section 2222 of this title](./chapter-131-planning-and-coordination.md#section-2222).
+
+**(e) Program Evaluation Competitive Analysis Cell.—**
+
+(1) Not later than June 1, 2024, the Secretary of Defense shall establish a team, to be known as the “Program Evaluation Competitive Analysis Cell” (referred to in this subsection as the “Cell”), to critically assess the analytical methodologies, assumptions, and data used in key strategic and operational analyses conducted by the Director of Cost Assessment and Program Evaluation.
+
+(2) The Secretary of Defense shall—
+
+  (A) designate an individual to serve as the head of the Cell; and
+
+  (B) ensure that the Cell has a sufficient number of personnel to carry out the duties described in this subsection.
+
+(3) The Cell shall be independent of the Director of Cost Assessment and Program Evaluation. The head of the Cell shall report directly to the Secretary of Defense or the Deputy Secretary of Defense.
+
+(4)
+
+  (A) Not less frequently than once every two years, the Cell shall conduct an alternative operational or strategic analysis of an analytical question identified by the Chairman of the Joint Chiefs of Staff under subparagraph (B). In conducting such alternative analysis, the Cell shall use assumptions different from the assumptions used by the Director of Cost Assessment and Program Evaluation for the original analysis of such question.
+
+  (B) For purposes of each alternative analysis required under subparagraph (A), at an appropriate time before the commencement of such analysis—
+
+    (i) the Director of the Joint Staff shall submit to the Chairman of the Joint Chiefs of Staff a list of not fewer than three operational or strategic questions previously studied by the Director of Cost Assessment and Program Evaluation that could potentially serve as the basis of for such alternative analysis; and
+
+    (ii) from such list, the Chairman shall select one question to serve as the basis for such analysis.
+
+**(f) Inclusion of Risk Estimates in Certain Submissions.—** In any case in which the Director of Cost Assessment and Program Evaluation submits to the Secretary of Defense an analytical product that recommends not meeting or changing a requirement established by the Joint Requirements Oversight Council, the Director shall include with such submission—
+
+(1) a risk assessment that assesses any risks of the recommended course of action with respect to the execution of operational plans and the long-term ability of the armed forces to meet the needs of combatant commanders (as determined by the Secretary of Defense); and
+
+(2) a risk estimate from the military service in question that assesses the risks described in paragraph (1).
+
+**(g) Annual Reports.—**
+
+(1) **In general.—** — Not later than February 1, 2024, and annually thereafter, the Director of Cost Assessment and Program Evaluation shall submit to the congressional defense committees a report on any strategic and operational analyses conducted under paragraphs (2), (3), (6), (7), or (8) of subsection (d). Each report shall include—
+
+  (A) a review of strategic portfolio reviews completed in the fiscal year preceding submission of the report and a description of such reviews planned for the fiscal year that begins after submission of the report;
+
+  (B) a review of analyses of alternatives completed in the fiscal year preceding submission of the report and a description of such analyses planned for the fiscal year that begins after submission of the report; and
+
+  (C) a review of defense program projections completed in the fiscal year preceding submission of the report and a description of such projections planned for the fiscal year that begins after submission of the report.
+
+(2) **Form.—** — Each report required by paragraph (1) shall be submitted in classified form, but shall include an unclassified summary.
+
+(3) **Briefings.—** — Not later than 15 days after the submission of each report required by paragraph (1), the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the contents of the report.
+
+**(h) Quarterly Briefings.—** Beginning not later than 30 days after the date of the enactment of this subsection, and on a quarterly basis thereafter, the Director of Cost Assessment and Program Evaluation shall provide to the congressional defense committees a briefing on the activities carried out by Director 22 So in original. Probably should be preceded by “the”. during the preceding quarter an 33 So in original. any ongoing activities of the Director as of the date of briefing.
 
 ### Statutory Notes
 
 #### References in Text
 [Section 2334 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2334&num=0&edition=prelim), referred to in subsecs. (b)(1)(A) and (d)(1), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (h) of section 2334 were transferred to various provisions in chapter 222 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1812(b)(1), (3), (c)(1), (d), (e)(1), (f)(1), (g)(1), (h)(1), Jan. 1, 2021, 134 Stat. 4174–4177.
+
+The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
 
 #### Prior Provisions
 A prior section 139a was renumbered [section 138b of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section138b&num=0&edition=prelim).
@@ -1580,6 +1659,12 @@ A prior section 139a was renumbered [section 138b of this title](https://uscode.
 Another prior section 139a was renumbered [section 4351 of this title](./chapter-324-selected-acquisition-reports.md#section-4351).
 
 #### Amendments
+2023—Subsec. (d)(5). Pub. L. 118–31, § 902(a)(1)(A), substituted “and ensuring” for “, ensuring” and struck out “, and assessing the effect of spending by the Department of Defense on the United States economy” after “accurately and completely”.
+
+Subsec. (d)(8). Pub. L. 118–31, § 902(a)(1)(B), inserted “, including the standardization of analytical methodologies and the establishment and maintenance of a centralized knowledge repository of physical attributes or other data for modeling and simulation purposes” after “defense resources”.
+
+Subsecs. (e) to (h). Pub. L. 118–31, § 902(a)(2), added subsecs. (e) to (h).
+
 2021—Subsecs. (b)(1)(A), (d)(1). Pub. L. 116–283, which directed that each reference in the text of title 10 to a section that was redesignated by title XVIII of Pub. L. 116–283, as such section was in effect before the redesignation, be amended by striking such reference and inserting a reference to the appropriate redesignated section, was not executed with respect to “section 2334”, which was redesignated as multiple sections.
 
 2019—Subsec. (d)(6). Pub. L. 116–92, § 1621(e)(1)(A)(iii), substituted “Under Secretary of Defense for Intelligence and Security” for “Under Secretary of Defense for Intelligence”.
@@ -1602,6 +1687,9 @@ Amendment by section 901(f) of Pub. L. 111–383 effective Jan. 1, 2011, see sec
 
 #### Transfer of Personnel and Functions
 Pub. L. 111–23, title I, § 101(c), May 22, 2009, 123 Stat. 1709, provided that: “(1) Transfer of functions.—The functions of the Office of Program Analysis and Evaluation of the Department of Defense, including the functions of the Cost Analysis Improvement Group, are hereby transferred to the Office of the Director of Cost Assessment and Program Evaluation. “(2) Transfer of personnel to deputy director for independent cost assessment.—The personnel of the Cost Analysis Improvement Group are hereby transferred to the Deputy Director for Cost Assessment in the Office of the Director of Cost Assessment and Program Evaluation. “(3) Transfer of personnel to deputy director for program analysis and evaluation.—The personnel (other than the personnel transferred under paragraph (2)) of the Office of Program Analysis and Evaluation are hereby transferred to the Deputy Director for Program Evaluation in the Office of the Director of Cost Assessment and Program Evaluation.”
+
+#### Pilot Program on Alternative Analysis; Establishment of Analysis Working Group
+Pub. L. 118–31, div. A, title IX, § 902(b)–(d), Dec. 22, 2023, 137 Stat. 357, 358, provided that: “(b) Pilot Program on Alternative Analysis.—“(1) In general.—Not later than May 1, 2024, the Director of Cost Assessment and Program Evaluation shall establish a pilot program on alternative analysis (referred to in this subsection as the ‘pilot program’). “(2) Structure.—Under the pilot program, the Director shall establish three analytical groups focused on programmatic analysis in the following:“(A) Year 1 of the future-years defense program under [section 221 of title 10](./chapter-009-defense-budget-matters.md#section-221), United States Code, beginning with fiscal year 2025. “(B) Years 2 through 5 of the future-years defense program. “(C) Years outside the future-years defense program. “(3) Requirements.—The Director shall ensure that at least one strategic portfolio review or an equivalent analytical effort is conducted each year under the pilot program. “(4) Termination.—The pilot program shall terminate on September 30, 2028. “(c) Establishment of Analysis Working Group.—“(1) In general.—Not later than May 1, 2024, the Secretary of Defense shall establish within the Department of Defense a working group to be known as the ‘Analysis Working Group’. “(2) Personnel.—The Secretary of Defense shall ensure that the Analysis Working Group possesses sufficient full-time equivalent support personnel to carry out the duties of the Group, including expansive coordination activities across the Department of Defense. “(3) Membership.—“(A) Regular members.—The Analysis Working Group shall be composed of at least one representative from each of the following components of the Department of Defense:“(i) The Office of the Director of Cost Assessment and Program Evaluation. “(ii) The Directorate for Joint Force Development (J7) of the Joint Staff. “(iii) The Directorate for Force Structure, Resources, and Assessment (J8) of the Joint Staff. “(iv) The Office of the Secretary of Defense for Policy. “(v) The Chief Digital and Artificial Intelligence Office. “(B) Observers.—At least one representative from each of the following commands shall serve as observers of the Analysis Working Group:“(i) The United States Indo-Pacific Command. “(ii) The United States European Command. “(iii) The United States Central Command. “(4) Duties.—The Analysis Working Group shall—“(A) establish clear priorities and standards to focus analysts on decision support; “(B) improve transparency of methodologies, tools, and tradecraft across the analytic community, including testing and validation for new or emerging methodologies, tools, and tradecraft; “(C) improve quality of and expand access to data, including evaluation of new data sets, or application of existing data sets in new or novel ways; “(D) evolve the methodologies, tools, and tradecraft methods and tools used in strategic analysis; “(E) resolve classified access and infrastructure challenges; “(F) foster a workforce and organizations that are innovative, creative, and provide high-quality strategic decision support; and “(G) carry out such other activities as the Secretary of Defense determines appropriate. “(d) Rule of Construction.—Nothing in subsection (b) or (c) shall be construed to interfere with the authority of the Chiefs of Staff of the Armed Forces to establish military requirements, performance requirements, and joint performance requirements, or the authority of the Joint Requirements Oversight Council to validate such requirements under [section 181 of title 10](./chapter-007-boards-councils-and-committees.md#section-181), United States Code.”
 
 
 <a id="section-139b"></a>
@@ -1745,14 +1833,11 @@ A prior section 140b was renumbered [section 129 of this title](./chapter-003-ge
 
 <a id="section-141"></a>
 ## § 141. Inspector General
-**(a)** There is an Inspector General of the Department of Defense, who is appointed as provided in section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3).
+**(a)** There is an Inspector General of the Department of Defense, who is appointed as provided in [section 403 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403&num=0&edition=prelim).
 
-**(b)** The Inspector General performs the duties, has the responsibilities, and exercises the powers specified in the Inspector General Act of 1978.
+**(b)** The Inspector General performs the duties, has the responsibilities, and exercises the powers specified in chapter 4 of title 5.
 
 ### Statutory Notes
-
-#### References in Text
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 141 was renumbered [section 138d of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-138d).
@@ -1760,10 +1845,14 @@ A prior section 141 was renumbered [section 138d of this title](./chapter-004-of
 Another prior [section 141 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-141) was contained in chapter 5 of this title, prior to amendment by Pub. L. 99–433. See note preceding [section 151 of this title](./chapter-005-joint-chiefs-of-staff.md#section-151).
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286, § 4(b)(26)(A), substituted “[section 403 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403&num=0&edition=prelim).” for “section 3 of the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App. 3).”
+
+Subsec. (b). Pub. L. 117–286, § 4(b)(26)(B), substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
+
 1993—Pub. L. 103–160 renumbered [section 140 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-140) as this section.
 
 #### Inspector General Oversight of Diversity and Inclusion in Department of Defense; Supremacist, Extremist, or Criminal Gang Activity in the Armed Forces
-Pub. L. 116–283, div. A, title V, § 554, Jan. 1, 2021, 134 Stat. 3633, as amended by Pub. L. 117–81, div. A, title V, § 549K, Dec. 27, 2021, 135 Stat. 1731, provided that: “(a) Establishment of Additional Assistant Inspector General of the Department of Defense.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Inspector General of the Department of Defense shall appoint, in the Office of the Inspector General of the Department of Defense, an additional Assistant Inspector General who—“(A) shall be a member of the Senior Executive Service; and “(B) shall be under the authority, direction, and control of the Inspector General. “(2) Duties.—Subject to the Inspector General Act of 1978 (Public Law 95–452; 5 U.S.C. App.), the Deputy Inspector General shall have the following duties:“(A) Developing and carrying out a plan for the conduct of comprehensive oversight, including through the conduct and supervision of audits, investigations, and inspections, of policies, programs, systems, and processes of the Department—“(i) to determine the effect of such policies, programs, systems, and processes regarding personnel on diversity and inclusion in the Department; and “(ii) to prevent and respond to supremacist, extremist, and criminal gang activity of a member of the Armed Forces. “(B) Additional duties prescribed by the Inspector General. “(3) Coordination of efforts.—In carrying out the duties under paragraph (2), the Assistant Inspector General shall coordinate with, and receive the cooperation of the following:“(A) The Inspector General of the Army. “(B) The Inspector General of the Navy. “(C) The Inspector General of the Air Force. “(D) The other Deputy Inspectors General of the Department. “(4) Reports.—“(A) One-time report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing, with respect to the Assistant Inspector General appointed under this subsection:“(i) the duties and responsibilities to be assigned to such Assistant Inspector General; “(ii) the organization, structure, staffing, and funding of the office established to support such Assistant Inspector General in the execution of such duties and responsibilities; “(iii) challenges to the establishment of such Assistant Inspector General and such office, including any shortfalls in personnel and funding; and “(iv) the date by which the Inspector General expects such Assistant Inspector General and the office will reach full operational capability. “(B) Semiannual reports.—Not later than 30 days after the end of the second and fourth quarters of each fiscal year beginning in fiscal year 2022, the Inspector General shall submit to the Secretary a report including a summary of the activities of the Assistant Inspector General during the two fiscal quarters preceding the date of the report, for inclusion in the next semiannual report of the Inspector General under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.)..[sic] “(C) Annual reports.—The Inspector General shall submit, through the Secretary, to the Committees on Armed Services of the Senate and the House of Representatives annual reports presenting findings and recommendations regarding—“(i) the effects of policies, programs, systems, and processes of the Department, regarding personnel, on diversity and inclusion in the Department; and “(ii) the effectiveness of such policies, programs, systems, and processes in preventing and responding to supremacist, extremist, and criminal gang activity of a member of the Armed Forces. “(D) Occasional reports.—The Inspector General shall, from time to time, submit to the Secretary additional reports as the Inspector General may determine. “(E) Online publication.—The Inspector General shall publish each report under this paragraph on a publicly accessible website consistent with the requirements of the Inspector General Act of 1978 (5 U.S.C. App.)..[sic] “(b) Establishment of Standard Policies, Processes, Tracking Mechanisms, and Reporting Requirements for Supremacist, Extremist, and Criminal Gang Activity in Certain Armed Forces.—“(1) In general.—The Secretary of Defense shall establish policies, processes, and mechanisms, standard across the covered Armed Forces, that ensure that—“(A) all allegations (and related information) that a member of a covered Armed Force has engaged in a prohibited activity, are referred to the Inspector General of the Department of Defense; “(B) the Inspector General can document and track the referral, for purposes of an investigation or inquiry of an allegation described in paragraph (1), to—“(i) a military criminal investigative organization; “(ii) an inspector general; “(iii) a military police or security police organization; “(iv) a military commander; “(v) another organization or official of the Department; or “(vi) a civilian law enforcement organization or official; “(C) the Inspector General can document and track the referral, to a military commander or other appropriate authority, of the final report of an investigation or inquiry described in subparagraph (B) for action; “(D) the Inspector General can document the determination of whether a member described in subparagraph (A) engaged in prohibited activity; “(E) the Inspector General can document whether a member of a covered Armed Force was subject to action (including judicial, disciplinary, adverse, or corrective administrative action) or no action, as the case may be, based on a determination described in subparagraph (D); and “(F) the Inspector General can provide, or track the referral to a civilian law enforcement agency of, any information described in this paragraph. “(2) Report.—Not later than December 1 of each year beginning after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall submit to the appropriate congressional committees a report on the policies, processes, and mechanisms implemented under paragraph (1). Each report shall include, with respect to the fiscal year preceding the date of the report, the following:“(A) The total number of referrals received by the Inspector General under paragraph (1)(A); “(B) The total number of investigations and inquiries conducted pursuant to a referral described in paragraph (1)(B); “(C) The total number of members of a covered Armed Force who, on the basis of determinations described in paragraph (1)(D) that the members engaged in prohibited activity, were subject to action described in paragraph (1)(E), including—“(i) court-martial, “(ii) other criminal prosecution, “(iii) non-judicial punishment under Article 15 of the Uniform Code of Military Justice [[10 U.S.C. 815](./chapter-047-uniform-code-of-military-justice.md#section-815)]; or “(iv) administrative action, including involuntary discharge from the Armed Forces, a denial of reenlistment, or counseling. “(D) The total number of members of a covered Armed Force described in paragraph (1)(A) who were not subject to action described in paragraph (1)(E), notwithstanding determinations described in paragraph (1)(D) that such members engaged in prohibited activity. “(E) The total number of referrals described in paragraph (1)(F). “(3) Definitions.—In this subsection:“(A) The term ‘appropriate congressional committees’ means—“(i) the Committee on the Judiciary and the Committee on Armed Services of the Senate; and “(ii) the Committee on the Judiciary and the Committee on Armed Services of the House of Representatives. “(B) The term ‘covered Armed Force’ means an Armed Force under the jurisdiction of the Secretary of a military department. “(C) The term ‘prohibited activity’ means an activity prohibited under Department of Defense Instruction 1325.06, titled ‘Handling Dissident and Protest Activities Among Members of the Armed Forces’, or any successor instruction.”
+Pub. L. 116–283, div. A, title V, § 554, Jan. 1, 2021, 134 Stat. 3633, as amended by Pub. L. 117–81, div. A, title V, § 549K, Dec. 27, 2021, 135 Stat. 1731, provided that: “(a) Establishment of Additional Assistant Inspector General of the Department of Defense.—“(1) In general.—Not later than 90 days after the date of the enactment of this Act [Jan. 1, 2021], the Inspector General of the Department of Defense shall appoint, in the Office of the Inspector General of the Department of Defense, an additional Assistant Inspector General who—“(A) shall be a member of the Senior Executive Service; and “(B) shall be under the authority, direction, and control of the Inspector General. “(2) Duties.—Subject to the Inspector General Act of 1978 (Public Law 95–452; [former] 5 U.S.C. App.) [see [5 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim) et seq.], the Deputy Inspector General shall have the following duties:“(A) Developing and carrying out a plan for the conduct of comprehensive oversight, including through the conduct and supervision of audits, investigations, and inspections, of policies, programs, systems, and processes of the Department—“(i) to determine the effect of such policies, programs, systems, and processes regarding personnel on diversity and inclusion in the Department; and “(ii) to prevent and respond to supremacist, extremist, and criminal gang activity of a member of the Armed Forces. “(B) Additional duties prescribed by the Inspector General. “(3) Coordination of efforts.—In carrying out the duties under paragraph (2), the Assistant Inspector General shall coordinate with, and receive the cooperation of the following:“(A) The Inspector General of the Army. “(B) The Inspector General of the Navy. “(C) The Inspector General of the Air Force. “(D) The other Deputy Inspectors General of the Department. “(4) Reports.—“(A) One-time report.—Not later than 180 days after the date of the enactment of this Act, the Inspector General shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report describing, with respect to the Assistant Inspector General appointed under this subsection:“(i) the duties and responsibilities to be assigned to such Assistant Inspector General; “(ii) the organization, structure, staffing, and funding of the office established to support such Assistant Inspector General in the execution of such duties and responsibilities; “(iii) challenges to the establishment of such Assistant Inspector General and such office, including any shortfalls in personnel and funding; and “(iv) the date by which the Inspector General expects such Assistant Inspector General and the office will reach full operational capability. “(B) Semiannual reports.—Not later than 30 days after the end of the second and fourth quarters of each fiscal year beginning in fiscal year 2022, the Inspector General shall submit to the Secretary a report including a summary of the activities of the Assistant Inspector General during the two fiscal quarters preceding the date of the report, for inclusion in the next semiannual report of the Inspector General under section 5 of the Inspector General Act of 1978 ([former] 5 U.S.C. App.) [see [5 U.S.C. 405](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim)]..[sic] “(C) Annual reports.—The Inspector General shall submit, through the Secretary, to the Committees on Armed Services of the Senate and the House of Representatives annual reports presenting findings and recommendations regarding—“(i) the effects of policies, programs, systems, and processes of the Department, regarding personnel, on diversity and inclusion in the Department; and “(ii) the effectiveness of such policies, programs, systems, and processes in preventing and responding to supremacist, extremist, and criminal gang activity of a member of the Armed Forces. “(D) Occasional reports.—The Inspector General shall, from time to time, submit to the Secretary additional reports as the Inspector General may determine. “(E) Online publication.—The Inspector General shall publish each report under this paragraph on a publicly accessible website consistent with the requirements of the Inspector General Act of 1978 ([former] 5 U.S.C. App.) [see [5 U.S.C. 401](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section401&num=0&edition=prelim) et seq.]..[sic] “(b) Establishment of Standard Policies, Processes, Tracking Mechanisms, and Reporting Requirements for Supremacist, Extremist, and Criminal Gang Activity in Certain Armed Forces.—“(1) In general.—The Secretary of Defense shall establish policies, processes, and mechanisms, standard across the covered Armed Forces, that ensure that—“(A) all allegations (and related information) that a member of a covered Armed Force has engaged in a prohibited activity, are referred to the Inspector General of the Department of Defense; “(B) the Inspector General can document and track the referral, for purposes of an investigation or inquiry of an allegation described in paragraph (1), to—“(i) a military criminal investigative organization; “(ii) an inspector general; “(iii) a military police or security police organization; “(iv) a military commander; “(v) another organization or official of the Department; or “(vi) a civilian law enforcement organization or official; “(C) the Inspector General can document and track the referral, to a military commander or other appropriate authority, of the final report of an investigation or inquiry described in subparagraph (B) for action; “(D) the Inspector General can document the determination of whether a member described in subparagraph (A) engaged in prohibited activity; “(E) the Inspector General can document whether a member of a covered Armed Force was subject to action (including judicial, disciplinary, adverse, or corrective administrative action) or no action, as the case may be, based on a determination described in subparagraph (D); and “(F) the Inspector General can provide, or track the referral to a civilian law enforcement agency of, any information described in this paragraph. “(2) Report.—Not later than December 1 of each year beginning after the date of the enactment of this Act [Jan. 1, 2021], the Secretary of Defense shall submit to the appropriate congressional committees a report on the policies, processes, and mechanisms implemented under paragraph (1). Each report shall include, with respect to the fiscal year preceding the date of the report, the following:“(A) The total number of referrals received by the Inspector General under paragraph (1)(A); “(B) The total number of investigations and inquiries conducted pursuant to a referral described in paragraph (1)(B); “(C) The total number of members of a covered Armed Force who, on the basis of determinations described in paragraph (1)(D) that the members engaged in prohibited activity, were subject to action described in paragraph (1)(E), including—“(i) court-martial, “(ii) other criminal prosecution, “(iii) non-judicial punishment under Article 15 of the Uniform Code of Military Justice [[10 U.S.C. 815](./chapter-047-uniform-code-of-military-justice.md#section-815)]; or “(iv) administrative action, including involuntary discharge from the Armed Forces, a denial of reenlistment, or counseling. “(D) The total number of members of a covered Armed Force described in paragraph (1)(A) who were not subject to action described in paragraph (1)(E), notwithstanding determinations described in paragraph (1)(D) that such members engaged in prohibited activity. “(E) The total number of referrals described in paragraph (1)(F). “(3) Definitions.—In this subsection:“(A) The term ‘appropriate congressional committees’ means—“(i) the Committee on the Judiciary and the Committee on Armed Services of the Senate; and “(ii) the Committee on the Judiciary and the Committee on Armed Services of the House of Representatives. “(B) The term ‘covered Armed Force’ means an Armed Force under the jurisdiction of the Secretary of a military department. “(C) The term ‘prohibited activity’ means an activity prohibited under Department of Defense Instruction 1325.06, titled ‘Handling Dissident and Protest Activities Among Members of the Armed Forces’, or any successor instruction.”
 
 [Pub. L. 117–81, § 549K, which directed amendment of section 554(a) of Pub. L. 116–283, set out above, by substituting “assistant” for “deputy” in section heading, was executed by substituting “Assistant” for “Deputy” in subsec. heading, to reflect the probable intent of Congress.]
 
@@ -1883,7 +1972,7 @@ Pub. L. 115–91, div. A, title IX, § 909(f), Dec. 12, 2017, 131 Stat. 1516, pr
 
 <a id="section-143"></a>
 ## § 143. Office of the Secretary of Defense personnel: limitation
-**(a) Permanent Limi tation on OSD Personnel.—** The number of OSD personnel may not exceed 4,300.
+**(a) Permanent Limitation on OSD Personnel.—** The number of OSD personnel may not exceed 4,300.
 
 **(b) OSD Personnel Defined.—** For purposes of this section, the term “OSD personnel” means military and civilian personnel of the Department of Defense who are assigned to, or employed in, functions in the Office of the Secretary of Defense (including Direct Support Activities of that Office and the Washington Headquarters Services of the Department of Defense).
 
@@ -1998,3 +2087,185 @@ Pub. L. 116–283, div. A, title IX, § 913(c), Jan. 1, 2021, 134 Stat. 3804, pr
 
 #### Senior Advisors for Diversity and Inclusion for the Military Departments and Coast Guard
 Pub. L. 116–283, div. A, title IX, § 913(b), Jan. 1, 2021, 134 Stat. 3803, provided that: “(1) Appointment required.—Each Secretary of a military department shall appoint within such military department a Senior Advisor for Diversity and Inclusion for such military department (and for the Armed Force or Armed Forces under the jurisdiction of such Secretary). The Commandant of the Coast Guard shall appoint a Senior Advisor for Diversity and Inclusion for the Coast Guard. “(2) Qualifications and limitation.—Each Senior Advisor for Diversity and Inclusion shall be appointed from among persons who have an extensive management or business background and experience with diversity and inclusion. A person may not be appointed as Senior Advisor for Diversity and Inclusion within three years after relief from active duty as a commissioned officer of a regular component of an Armed Force. “(3) Reporting.—A Senior Advisor for Diversity and Inclusion shall report directly to the Secretary of the military department within which appointed. The Senior Advisor for Diversity and Inclusion for the Coast Guard shall report directly to the Commandant of the Coast Guard. “(4) Duties.—A Senior Advisor for Diversity and Inclusion, with respect to the military department and Armed Force or Armed Forces concerned—“(A) is responsible for providing advice, guidance, and coordination for all matters related to diversity and inclusion; “(B) shall advise in the establishment of training in diversity dynamics and training in practices for leading diverse groups effectively; “(C) shall advise and assist in evaluations and assessments of diversity; “(D) shall develop a strategic diversity and inclusion plan, which plan shall be consistent with the strategic plan developed and maintained pursuant to subsection (b)(3) of [section 147 of title 10](./chapter-004-office-of-the-secretary-of-defense.md#section-147), United States Code (as added by subsection (a) of this section); “(E) shall develop strategic goals and measures of performance related to efforts to reflect the diverse population of the United States eligible to serve in the Armed Forces, which goals and measures of performance shall be consistent with the strategic metrics defined pursuant to subsection (b)(4) of such section 147; and “(F) shall perform such additional duties and exercise such powers as the Secretary of the military department concerned or the Commandant of the Coast Guard, as applicable, may prescribe.”
+
+
+<a id="section-148"></a>
+## § 148. Joint Energetics Transition Office
+**(a) In General.—** The Secretary of Defense shall establish a Joint Energetics Transition Office (in this section referred to as the “Office”) within the Department of Defense. The Office shall carry out the activities described in subsection (c) and shall have such other responsibilities relating to energetic materials as the Secretary shall specify.
+
+**(b) Leadership and Administration.—**
+
+(1) The Under Secretary of Defense for Acquisition and Sustainment shall designate an individual to serve as the head of the Office. The Under Secretary shall select such individual from among officials of the Department of Defense serving in organizations under the jurisdiction of the Under Secretary at the time of such designation. The head of the Office shall—
+
+  (A) report directly to the Under Secretary of Defense for Acquisition and Sustainment; and
+
+  (B) coordinate, as appropriate, with the Under Secretary of Defense for Research and Engineering.
+
+(2) The Under Secretary of Defense for Research and Engineering shall designate an individual to serve as the deputy head of the Office. The Under Secretary shall select such individual from among officials of the Department of Defense serving in organizations under the jurisdiction of the Under Secretary at the time of such designation. The deputy head of the Office shall report directly to the head of the Office and to the Under Secretary of Defense for Research and Engineering.
+
+(3) The head of the Office and deputy head of the Office shall be responsible for the overall management and operation of the Office. The Under Secretaries shall ensure that the head and deputy head of the Office are not assigned outside duties that would diminish their ability to effectively manage and operate the Office.
+
+**(c) Responsibilities.—** The Office shall do the following:
+
+(1) Develop and periodically update an energetic materials strategic plan and investment strategy to guide investments in both new and legacy energetic materials and technologies across the entire supply chain for the total life cycle of energetic materials, including raw materials, ingredients, propellants, pyrotechnics, and explosives for munitions, weapons, and propulsion systems. Such strategy and plan shall provide for—
+
+  (A) developing or supporting the development of strategic plans for energetic materials and technologies, including associated performance metrics for the Office, over the periods covered by the future-years defense program required under [section 221 of this title](./chapter-009-defense-budget-matters.md#section-221) and the program objective memorandum process;
+
+  (B) initiating special studies or analyses—
+
+    (i) to determine targets that would be optimally addressed or defeated by weapons that incorporate novel energetic materials; and
+
+    (ii) to inform the program objective memorandum process; and
+
+  (C) identifying any shortfalls in the supply chain for energetic materials and developing plans to alleviate any shortfalls through the expansion of the energetic materials industrial base to include critical contractors, subcontractors, and suppliers.
+
+(2) Coordinate and ensure consistency and congruity among research, development, test, and evaluation efforts in energetic materials across the Department of Defense—
+
+  (A) to identify promising new energetic materials and technologies;
+
+  (B) to mature, integrate, prototype, test, and demonstrate novel energetic materials and technologies, including new materials and manufacturing technologies;
+
+  (C) to expedite testing, evaluation, and acquisition of energetic materials and technologies to meet the emergent needs of the Department, including the rapid integration of promising new materials and other promising energetic compounds into weapons platforms;
+
+  (D) to identify or establish prototyping demonstration venues to integrate advanced technologies that speed the maturation and deployment of energetic materials; and
+
+  (E) to support collaboration among industry, academia, and elements of the Department of Defense to transition energetic materials and technologies from the research and development phase to production and operational use within the Department.
+
+(3) Oversee a process to expedite—
+
+  (A) the validation, verification, and accreditation of modeling and simulation of energetic materials for the development of requirements; and
+
+  (B) the qualification process for energetic materials, from discovery through transition to production and integration into weapon systems.
+
+(4) Recommend changes to laws, regulations, and policies that present barriers or extend timelines for the expedited process described in paragraph (3).
+
+(5) Coordinate with other organizations involved in energetic materials activities within the Department of Defense, including the Armed Forces, and across other departments and agencies of the Federal Government.
+
+(6) Pursuant to the authority provided under [section 191 of this title](./chapter-008-defense-agencies-and-department-of-defense-field-activities.md#section-191), establish and manage a Department of Defense Field Activity dedicated to systems engineering associated with energetic materials. Such Field Activity shall be funded under budget activity 3 (advanced technology development) or budget activity 4 (advanced component development and prototypes) (as such budget activity classifications are set forth in volume 2B, chapter 5 of the Department of Defense Financial Management Regulation (DOD 7000.14-R)) to reduce technical risk, integrate research, development, test, and evaluation, and perform system demonstration programs of the Department of Defense on novel energetic materials for use in weapon systems.
+
+(7) Carry out such other responsibilities relating to energetic materials as the Secretary shall specify.
+
+**(d) Additional Requirements.—** The Secretary of Defense shall ensure that the Office is budgeted for and funded in a manner sufficient to ensure the Office has the staff and other resources necessary to effectively carry out the responsibilities specified in subsection (c).
+
+**(e) Definitions.—** In this section, the term “energetic materials” means critical chemicals and formulations that—
+
+(1) release large amounts of stored chemical energy; and
+
+(2) are capable of being used as explosives, propellants, pyrotechnics, and reactive materials that—
+
+  (A) create lethal effects in warheads in kinetic weapons components and systems; or
+
+  (B) increase propellant performance in a weapon propulsion system as related to lethal effects, range, or speed.
+
+
+<a id="section-149"></a>
+## § 149. Office of Strategic Capital
+**(a) Establishment.—** There is in the Office of the Secretary of Defense an office to be known as the Office of Strategic Capital (in this section referred to as the “Office”).
+
+**(b) Director.—** The Office shall be headed by a Director (in this section referred to as the “Director”), who shall be appointed by the Secretary from among employees in Senior Executive Service positions (as defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim)), or from outside the civil service who have successfully held equivalent positions.
+
+**(c) Duties.—** The Office shall—
+
+(1) develop, integrate, and implement capital investment strategies proven in the commercial sector to shape and scale investment in critical technologies and assets;
+
+(2) identify and prioritize promising critical technologies and assets that require capital assistance and have the potential to benefit the Department of Defense; and
+
+(3) make eligible investments in such technologies and assets, such as supply chain technologies not always supported through direct investment.
+
+**(d) Non-Federal Funding Requirements for Certain Investments.—** In the case of an eligible investment made through a direct loan, not less than 80 percent of the total capital provided for the specific technology to be funded by the investment shall be derived from non-Federal sources as of the time of the investment.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “capital assistance” means a loan, loan guarantee, or technical assistance.
+
+(2) The term “covered technology category” means the following:
+
+  (A) Advanced bulk materials.
+
+  (B) Advanced manufacturing.
+
+  (C) Autonomous mobile robots.
+
+  (D) Battery storage.
+
+  (E) Biochemicals.
+
+  (F) Bioenergetics.
+
+  (G) Biomass.
+
+  (H) Cybersecurity.
+
+  (I) Data fabric.
+
+  (J) Decision science.
+
+  (K) Edge computing.
+
+  (L) External communication.
+
+  (M) Hydrogen generation and storage.
+
+  (N) Mesh networks.
+
+  (O) Microelectronics assembly, testing, or packaging.
+
+  (P) Microelectronics design and development.
+
+  (Q) Microelectronics fabrication.
+
+  (R) Microelectronics manufacturing equipment.
+
+  (S) Microelectronics materials.
+
+  (T) Nanomaterials and metamaterials.
+
+  (U) Open RAN.
+
+  (V) Optical communications.
+
+  (W) Sensor hardware.
+
+  (X) Solar.
+
+  (Y) Space launch.
+
+  (Z) Spacecraft.
+
+  (AA) Space-enabled services and equipment.
+
+  (BB) Synthetic biology.
+
+  (CC) Quantum computing.
+
+  (DD) Quantum security.
+
+  (EE) Quantum sensing.
+
+(3) The term “eligible entity” means—
+
+  (A) an individual;
+
+  (B) a corporation;
+
+  (C) a partnership, which may include a public-private partnership, limited partnership, or general partnership;
+
+  (D) a joint venture;
+
+  (E) a trust;
+
+  (F) a State, including a political subdivision or any other instrumentality of a State;
+
+  (G) a Tribal government or consortium of Tribal governments;
+
+  (H) any other governmental entity or public agency in the United States, including a special purpose district or public authority, including a port authority;
+
+  (I) a multi-State or multi-jurisdictional group of public entities; or
+
+  (J) a strategic alliance among two or more entities described in subparagraphs (A) through (I).
+
+(4) The term “eligible investment” means an investment, in the form of capital assistance provided to an eligible entity, for a technology that—
+
+  (A) is in a covered technology category; and
+
+  (B) is not a technology that solely has defense applications.

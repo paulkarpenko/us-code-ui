@@ -509,7 +509,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (2) conduct outreach, including through conferences and online programs, to disseminate information on awards and loans under this section to potential applicants.
 
-**(l) Prohibition on use of appropriated funds** Amounts appropriated to the Secretary before November 15, 2021, shall not be available to the Secretary to provide awards under subsection (b) or loans under subsection (d) for the costs of activities that were not eligible for those awards or loans on the day before that date.
+**(l) Repealed. Pub. L. 117–328, div. D, title III, § 308, Dec. 29, 2022, 136 Stat. 4645**
 
 **(m) Report** Not later than 2 years after November 15, 2021, and every 3 years thereafter, the Secretary shall submit to Congress a report on the status of projects supported by a loan under this section, including—
 
@@ -539,6 +539,8 @@ In subsec. (i)(3), “[section 1901 of title 41](https://uscode.house.gov/view.x
 
 #### Amendments
 2022—Subsec. (d)(1). Pub. L. 117–169 struck out “a total of not more than $25,000,000,000 in” after “to provide”.
+
+Subsec. (l). Pub. L. 117–328 struck out subsec. (l). Text read as follows: “Amounts appropriated to the Secretary before November 15, 2021, shall not be available to the Secretary to provide awards under subsection (b) or loans under subsection (d) for the costs of activities that were not eligible for those awards or loans on the day before that date.”
 
 2021—Subsec. (a)(1). Pub. L. 117–58, § 40401(b)(1), substituted “means—” for “means”, inserted subpar. (A) designation before “an ultra”, redesignated former subpars. (A) to (C) as cls. (i) to (iii) of subpar. (A), respectively, and added subpars. (B) to (F).
 
@@ -2888,7 +2890,7 @@ For provisions relating to rates of wages to be paid to laborers and mechanics o
 
 **(h) International specifications and metrics** The Secretary, in collaboration with key stakeholders, shall actively participate in efforts to harmonize global specifications and metrics for data center energy and water efficiency.
 
-(i) **Data center utilization metric** — The Secretary, in collaboration with key stakeholders, shall facilitate in the development of an efficiency metric that measures the energy efficiency of a data center (including equipment and facilities).
+**(i) Data center utilization metric** The Secretary, in collaboration with key stakeholders, shall facilitate in the development of an efficiency metric that measures the energy efficiency of a data center (including equipment and facilities).
 
 **(j) Protection of proprietary information** The Secretary and the Administrator shall not disclose any proprietary information or trade secrets provided by any individual or company for the purposes of carrying out this section or the programs and initiatives established under this section.
 
@@ -3210,7 +3212,7 @@ Pub. L. 116–260, div. Z, title VI, § 6001, Dec. 27, 2020, 134 Stat. 2552, pro
 
   (B) if the initiative established under this subsection is terminated, an assessment of the success of, and education provided by, the measures carried out by recipients of financial assistance under the initiative.
 
-    (i) Additional coordination
+**(i) Additional coordination**
 
 (1) **Manufacturing U.S.A.** — In carrying out this section the Secretary shall consider—
 
@@ -3385,12 +3387,12 @@ Pub. L. 117–169, title V, § 50111, Aug. 16, 2022, 136 Stat. 2033, provided th
 
 **(g) Report to Congress** Not later than 60 days after receiving a report from the Committee under subsection (f), the Secretary shall submit a copy of that report to the Committees on Appropriations and Science, Space, and Technology of the House of Representatives, the Committees on Appropriations and Energy and Natural Resources of the Senate, and any other relevant Committee of Congress.
 
-**(h) Applicability of Federal Advisory Committee Act** Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Committee.
+**(h) Applicability of Federal Advisory Committee Act** Except as otherwise provided in this section, the Federal Advisory Committee Act (5 U.S.C. App.) 33 See References in Text note below. shall apply to the Committee.
 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-17124"></a>
@@ -3474,7 +3476,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 **(d) Duties** The Committee shall provide advice and expertise for use by the Federal Director in carrying out the duties under this part, including such recommendations relating to Federal activities carried out under sections 434 through 436 11 See References in Text note below. as are agreed to by a majority of the members of the Committee.
 
-**(e) FACA exemption** The Committee shall not be subject to section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).
+**(e) Exemption from chapter 10 of title 5** The Committee shall not be subject to [section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -3483,7 +3485,8 @@ This part, referred to in subsec. (d), was in the original “this subtitle”, 
 
 Sections 434 through 436, referred to in subsec. (d), are sections 434 to 436 of Pub. L. 110–140, which enacted sections 17091 and 17092 of this title and amended [section 8253 of this title](./chapter-091-national-energy-conservation-policy.md#section-8253).
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “Exemption from chapter 10 of title 5” for “FACA exemption” in heading and “[section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim).” for “section 14 of the Federal Advisory Committee Act (5 U.S.C. App.).” in text.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -3648,7 +3651,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 This title, referred to in text, is title V of Pub. L. 110–140, which enacted this subchapter, part D (§ 8279) of subchapter III of chapter 91 of this title, and sections 1824, 2162a, and 2169 of Title 2, The Congress, amended sections 6325, 6834, 8256, 8258, 8259b, 8287, and 8287c of this title, [section 2162 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section2162&num=0&edition=prelim), [section 2913 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2913&num=0&edition=prelim), Armed Forces, [section 3203 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3203&num=0&edition=prelim), Commerce and Trade, and [section 2621 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section2621&num=0&edition=prelim), Conservation, and enacted provisions set out as a note under [section 8259b of this title](./chapter-091-national-energy-conservation-policy.md#section-8259b). For complete classification of title V to the Code, see Tables.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.
@@ -5111,7 +5114,7 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 
   (A) *In general* — The Council shall meet not less than once a year.
 
-  (B) *Federal Advisory Committee Act* — The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to a meeting of the Council.
+  (B) *Chapter 10 of title 5* — Chapter 10 of title 5 shall apply to a meeting of the Council.
 
 (4) **Plans** — No later than 1 year after December 19, 2007, and every 5 years thereafter, the Council, in conjunction with the Secretary, shall develop a 5-year plan for integrating basic and applied research so that the United States retains a globally competitive domestic energy storage industry for electric drive vehicles, stationary applications, and electricity transmission and distribution.
 
@@ -5447,13 +5450,12 @@ There are authorized to be appropriated to the Secretary to carry out this part 
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e)(3)(B), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section 40334(1) of Pub. L. 117–58, which directed amendment of section 3201 of the Energy Policy Act of 2020 by redesignating subsection (e) as subsection (f), was executed by making the amendment to section 3201 of div. Z of Pub. L. 116–260, known as the Energy Act of 2020, to reflect the probable intent of Congress.
 
 #### Amendments
+2022—Subsec. (e)(3)(B). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2021—Subsec. (k). Pub. L. 117–58, § 40208(1), added subsec. (k) and struck out former subsec. (k) which related to secondary applications and disposal of electric drive vehicle batteries.
 
 Subsec. (p)(6). Pub. L. 117–58, § 40208(2), added par. (6) and struck out former par. (6) which read as follows: “the secondary applications and disposal of electric drive vehicle batteries program under subsection (k) $5,000,000 for each of fiscal years 2009 through 2018.”
@@ -8048,7 +8050,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
   (B) any Tribal college or university (as defined in [section 1059c of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c&num=0&edition=prelim)).
 
-(9) **Workforce development program** — The term “workforce development program” has the meaning given the term in section U.S.C. 3102 of title 29.
+(9) **Workforce development program** — The term “workforce development program” has the meaning given the term in [section 3102 of title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3102&num=0&edition=prelim).
 
 **(b) In general** The Secretary shall establish a Regional Clean Energy Innovation Program, a research, development, demonstration, and commercial application program designed to enhance the economic, environmental, and energy security of the United States and accelerate the pace of innovation of diverse clean energy technologies through the formation or support of regional clean energy innovation partnerships.
 
@@ -8194,7 +8196,7 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 (2) **Mission** — The mission of the Smart Grid Advisory Committee shall be to advise the Secretary, the Assistant Secretary, and other relevant Federal officials concerning the development of smart grid technologies, the progress of a national transition to the use of smart-grid technologies and services, the evolution of widely-accepted technical and practical standards and protocols to allow interoperability and inter-communication among smart-grid capable devices, and the optimum means of using Federal incentive authority to encourage such progress.
 
-(3) **Applicability of Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the Smart Grid Advisory Committee.
+(3) **Applicability of chapter 10 of title 5** — Chapter 10 of title 5 shall apply to the Smart Grid Advisory Committee.
 
 **(b) Smart Grid Task Force**
 
@@ -8206,8 +8208,8 @@ Section effective on the date that is 1 day after Dec. 19, 2007, see section 160
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (a)(3). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 #### Effective Date
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under [section 1824 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1824&num=0&edition=prelim), The Congress.

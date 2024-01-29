@@ -2,7 +2,7 @@
 title: 10
 chapter: '903'
 heading: DEPARTMENT OF THE AIR FORCE
-section_count: 15
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -375,6 +375,8 @@ For order of succession in event of death, permanent disability, or resignation 
 
     (vi) Effective as of the date specified in section 957(d) of such Act, and in accordance with such section 957, serve as the Service Acquisition Executive of the Department of the Air Force for Space Systems and Programs and discharge any senior procurement executive duties and authorities assigned by the Secretary of the Air Force pursuant to [section 9014(c)(6) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9014/c/6&num=0&edition=prelim).
 
+  (C) The Assistant Secretary of the Air Force for Space Acquisition and Integration shall have a Principal Military Deputy for Space Acquisition and Integration, who shall be an officer of the Space Force on active duty. The Principal Military Deputy for Space Acquisition and Integration shall be appointed from among officers who have significant experience in the areas of acquisition and program management. The position of Principal Military Deputy for Space Acquisition and Integration shall be designated as a critical acquisition position under [section 1731 of this title](./chapter-087-defense-acquisition-workforce.md#section-1731). In the event of a vacancy in the position of Assistant Secretary of the Air Force for Space Acquisition and Integration, the Principal Military Deputy for Space Acquisition and Integration may serve as Acting Assistant Secretary for Space Acquisition and Integration for a period of not more than one year.
+
 ### Statutory Notes
 
 #### References in Text
@@ -386,6 +388,8 @@ Section 956(b)(3) of the United States Space Force Act and section 957 of that A
 Provisions similar to those in this section were contained in [section 3013 of this title](./chapter-201-definitions.md#section-3013) prior to enactment of Pub. L. 99–433.
 
 #### Amendments
+2023—Subsec. (b)(6)(C). Pub. L. 118–31 added subpar. (C).
+
 2021—Subsec. (b)(6)(B)(i). Pub. L. 117–81, § 1602(b)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Be responsible for all architecture and integration of the Air Force for space systems and programs, including in support of the Chief of Space Operations under [section 9082 of this title](./chapter-908-the-space-force.md#section-9082).”
 
 Subsec. (b)(6)(B)(ii). Pub. L. 117–81, § 1602(a)(2), substituted “Space Force Acquisition Council” for “Space Force Acquisition Council”.
@@ -527,7 +531,7 @@ Amendment by Pub. L. 100–456 applicable to appointments made under this sectio
 
 <a id="section-9020"></a>
 ## § 9020. Inspector General
-**(a)** There is an Inspector General of the Department of the Air Force who shall be detailed to such position by the Secretary of the Air Force from the general officers of the Air Force or the general, flag, or equivalent officers of the Space Force. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
+**(a)** There is an Inspector General of the Department of the Air Force who shall be detailed to such position by the Secretary of the Air Force from the general officers of the Air Force or the Space Force. An officer may not be detailed to such position for a tour of duty of more than four years, except that the Secretary may extend such a tour of duty if he makes a special finding that the extension is necessary in the public interest.
 
 **(b)** When directed by the Secretary, the Chief of Staff of the Air Force, or the Chief of Space Operations, the Inspector General shall—
 
@@ -537,16 +541,17 @@ Amendment by Pub. L. 100–456 applicable to appointments made under this sectio
 
 **(c)** The Inspector General shall periodically propose programs of inspections to the Secretary of the Air Force and shall recommend additional inspections and investigations as may appear appropriate.
 
-**(d)** The Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under the Inspector General Act of 1978 (5 U.S.C. App. 3) regarding the Department of the Air Force.
+**(d)** The Inspector General shall cooperate fully with the Inspector General of the Department of Defense in connection with the performance of any duty or function by the Inspector General of the Department of Defense under chapter 4 of title 5 regarding the Department of the Air Force.
 
 **(e)** The Inspector General shall have such deputies and assistants as the Secretary of the Air Force may prescribe. Each such deputy and assistant shall be an officer detailed by the Secretary to that position from the officers of the Air Force or the Space Force for a tour of duty of not more than four years, under a procedure prescribed by the Secretary.
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 struck out “the general, flag, or equivalent officers of” before “the Space Force”.
+
+2022—Subsec. (d). Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978 (5 U.S.C. App. 3)”.
+
 2021—Subsec. (a). Pub. L. 116–283, § 923(b)(4)(A), inserted “Department of the” after “Inspector General of the” and “or the general, flag, or equivalent officers of the Space Force” after “general officers of the Air Force”.
 
 Subsec. (b). Pub. L. 116–283, § 923(b)(4)(B)(i), substituted “, the Chief of Staff of the Air Force, or the Chief of Space Operations” for “or the Chief of Staff”.
@@ -730,6 +735,13 @@ Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 9014(c)(1)(F)�
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
+
+
+<a id="section-9023a"></a>
+## § 9023a. Legislative Liaison of the Space Force
+**(a) Establishment.—** There is a Legislative Liaison of the Space Force.
+
+**(b) Functions.—** The Legislative Liaison shall perform legislative affairs functions under the direction of the Chief of Space Operations.
 
 
 <a id="section-9024"></a>

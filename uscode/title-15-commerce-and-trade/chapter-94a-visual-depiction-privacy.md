@@ -46,7 +46,7 @@ source: >-
 
   (A) *In general* — Except as provided in paragraph (4), an individual whose intimate visual depiction is disclosed, in or affecting interstate or foreign commerce or using any means or facility of interstate or foreign commerce, without the consent of the individual, where such disclosure was made by a person who knows that, or recklessly disregards whether, the individual has not consented to such disclosure, may bring a civil action against that person in an appropriate district court of the United States for relief as set forth in paragraph (3).
 
-  (B) *Rights on behalf of certain individuals* — In the case of an individual who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the individual or representative of the identifiable individual’s estate, another family member, or any other person appointed as suitable by the court, may assume the identifiable individual’s’ rights under this section, but in no event shall the defendant be named as such representative or guardian.
+  (B) *Rights on behalf of certain individuals* — In the case of an individual who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the individual or representative of the identifiable individual’s estate, another family member, or any other person appointed as suitable by the court, may assume the identifiable individual’s’ 1 rights under this section, but in no event shall the defendant be named as such representative or guardian.
 
 (2) **Consent** — For purposes of an action under paragraph (1)—
 

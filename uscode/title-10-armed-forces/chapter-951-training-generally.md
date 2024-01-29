@@ -10,15 +10,15 @@ source: >-
 ## § 9401. Members of Air Force and Space Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals
 **(a)** The Secretary of the Air Force may detail members of the Air Force and members of the Space Force as students at such technical, professional, and other civilian educational institutions, or as students, observers, or investigators at such industrial plants, hospitals, and other places, as are best suited to enable them to acquire knowledge or experience in the specialties in which it is considered necessary that they perfect themselves.
 
-**(b)** An officer, other than one of the Regular Air Force or the Regular Space Force on the active-duty list, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
+**(b)** An officer, other than one of the Regular Air Force on the active-duty list, or one of the Space Force in a space force active status not on sustained duty, who is detailed under subsection (a) shall be ordered to additional active duty immediately upon termination of the detail, for a period at least as long as the detail. However, if the detail is for 90 days or less, the officer may be ordered to that additional duty only with his consent and in the discretion of the Secretary.
 
-**(c)** No Reserve of the Air Force or Reserve of the Space Force may be detailed as a student, observer, or investigator, or ordered to active duty under this section, without the Reserve’s consent and, if a member of the Air National Guard of the United States, without the approval of the governor or other appropriate authority of the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands of whose Air National Guard the Reserve is a member.
+**(c)** No Reserve of the Air Force or member of the Space Force in a space force active status not on sustained duty may be detailed as a student, observer, or investigator, or ordered to active duty under this section, without the member’s consent and, if a member of the Air National Guard of the United States, without the approval of the governor or other appropriate authority of the State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands of whose Air National Guard the Reserve is a member.
 
 **(d)** The Secretary may require, as a condition of a detail under subsection (a), that an enlisted member accept a discharge and be reenlisted in his component for at least three years.
 
 **(e)** The total length of details of an enlisted member of the Air Force or the Space Force under subsection (a) during one enlistment period may not exceed 50 percent of that enlistment.
 
-**(f)** At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force or the Regular Space Force, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force or the Space Force Reserve, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
+**(f)** At no time may more than 8 percent of the authorized strength in commissioned officers, 8 percent of the authorized strength in warrant officers, or 2 percent of the authorized strength in enlisted members, of the Regular Air Force or of Space Force members on sustained duty, or more than 8 percent of the actual strength in commissioned officers, 8 percent of the actual strength in warrant officers, or 2 percent of the actual strength in enlisted members, of the total of reserve components of the Air Force or of Space Force members in an active status not on sustained duty, be detailed as students under subsection (a). For the purposes of this subsection, the actual strength of each category of Reserves includes both members on active duty and those not on active duty.
 
 **(g)** Expenses incident to the detail of members under this section shall be paid from any funds appropriated for the Department of the Air Force.
 
@@ -45,6 +45,12 @@ In subsection (f), the last sentence is substituted for 5:626q (words within par
 In subsection (g), the words “under this section” are substituted for 5:626r (9th through 41st words).
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31, § 1721(b)(1), struck out “or the Regular Space Force” after “Regular Air Force” and inserted “or one of the Space Force in a space force active status not on sustained duty,” after “on the active-duty list,”.
+
+Subsec. (c). Pub. L. 118–31, § 1721(b)(2), substituted “or member of the Space Force in a space force active status not on sustained duty” for “or Reserve of the Space Force” and “the member’s consent” for “the Reserve’s consent”.
+
+Subsec. (f). Pub. L. 118–31, § 1721(b)(3), substituted “of Space Force members on sustained duty” for “the Regular Space Force” and “of Space Force members in an active status not on sustained duty” for “the Space Force Reserve”.
+
 2021—Pub. L. 117–81 inserted a comma after “observers” in section catchline.
 
 Pub. L. 116–283, § 923(d)(1)(C), substituted “Members of Air Force and Space Force: detail as students, observers and investigators at educational institutions, industrial plants, and hospitals” for “Members of Air Force: detail as students, observers, and investigators at educational institutions, industrial plants, and hospitals” in section catchline.
@@ -75,7 +81,7 @@ Pub. L. 116–283, § 923(d)(1)(A)(v)(I), inserted “or the Regular Space Force
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9402"></a>
@@ -428,13 +434,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 (3) **Term for civilian director and chancellor.—** — An individual selected for the position of Director and Chancellor under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 
-**(b) Provost and Academic Dean.—**
+**(b) Provost and Chief Academic Officer.—**
 
-(1) **In general.—** — There is established at the United States Air Force Institute of Technology the civilian position of Provost and Academic Dean who shall be appointed by the Secretary.
+(1) **In general.—** — There is established at the United States Air Force Institute of Technology the civilian position of Provost and Chief Academic Officer who shall be selected by the Secretary.
 
-(2) **Term.—** — An individual appointed to the position of Provost and Academic Dean shall serve in that position for a term of five years.
+(2) **Term.—** — An individual selected for the position of Provost and Chief Academic Officer shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 
-(3) **Compensation.—** — The individual serving as Provost and Academic Dean is entitled to such compensation for such service as the Secretary shall prescribe for purposes of this section, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
+(3) **Compensation.—** — The individual serving as Provost and Chief Academic Officer is entitled to such compensation for such service as the Secretary shall prescribe for purposes of this section, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 
 ### Statutory Notes
 
@@ -442,6 +448,14 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Level IV of the Executive Schedule, referred to in subsec. (b)(3), is set out in [section 5315 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim), Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263, § 554(b)(2), substituted “Chief Academic Officer” for “Academic Dean” wherever appearing.
+
+Pub. L. 117–263, § 554(b)(1), substituted “Chief Academic Officer” for “Academic Dean” in heading.
+
+Subsec. (b)(1). Pub. L. 117–263, § 554(b)(3), substituted “selected” for “appointed”.
+
+Subsec. (b)(2). Pub. L. 117–263, § 554(b)(4), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “An individual appointed to the position of Provost and Academic Dean shall serve in that position for a term of five years.”
+
 2021—Subsec. (a)(2). Pub. L. 116–283, § 923(d)(5)(A), inserted “or the Space Force” after “the Air Force” in two places.
 
 Subsec. (a)(2)(B). Pub. L. 116–283, § 923(d)(5)(B), inserted “or the equivalent grade in the Space Force” after “brigadier general”.
@@ -554,7 +568,7 @@ Pub. L. 105–85, div. A, title V, § 552(c), Nov. 18, 1997, 111 Stat. 1748, pro
 Pub. L. 104–106, div. A, title X, § 1078(b), Feb. 10, 1996, 110 Stat. 451, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9417"></a>
@@ -625,11 +639,13 @@ Pub. L. 103–337, div. A, title IX, § 913(b), Oct. 5, 1994, 108 Stat. 2828, pr
 
 **(c) Construction Planning.—** In planning for the construction of housing to be used for housing recruits during basic training, the Secretary of the Air Force shall ensure that the housing is to be constructed in a manner that facilitates the housing of male recruits and female recruits separately and securely from each other.
 
-**(d) Basic Training Defined.—** In this section, the term “basic training” means the initial entry training program of the Air Force that constitutes the basic training of new recruits.
+**(d) Basic Training Defined.—** In this section, the term “basic training” means the initial entry training program of the Air Force or the Space Force that constitutes the basic training of new recruits.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–31 inserted “or the Space Force” after “training program of the Air Force”.
+
 2018—Pub. L. 115–232 renumbered [section 9319 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section9319&num=0&edition=prelim) as this section.
 
 #### Effective Date of 2018 Amendment

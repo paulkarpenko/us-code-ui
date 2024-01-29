@@ -66,7 +66,7 @@ Pub. L. 96–342 designated existing provisions as par. (1), inserted provision 
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8323"></a>
@@ -180,7 +180,7 @@ Subsecs. (c) to (f). Pub. L. 85–861 added subsecs. (c) to (e) and redesignated
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1963 Amendment
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -322,7 +322,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 97–22, § 10(b), July 10, 1981, 95 Stat. 137, provided that the amendment made by that section is effective Sept. 15, 1981.
 
 #### Effective Date of 1980 Amendment
-Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 503(47) of Pub. L. 96–513 effective Sept. 15, 1981, and amendment by section 513(17) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1963 Amendment
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under [section 201 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section201&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -390,7 +390,7 @@ Subsec. (d). Pub. L. 85–861 repealed subsec. (d) which related to grade of mem
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note under [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -589,7 +589,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Amendment by Pub. L. 98–94 applicable with respect to the computation of retired or retainer pay of any individual who becomes entitled to that pay after Sept. 30, 1983, see section 923(g) of Pub. L. 98–94, set out as a note under [section 1174 of this title](./chapter-059-separation.md#section-1174).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1967 Amendment
 Amendment by Pub. L. 90–207 effective Oct. 1, 1967, see section 7 of Pub. L. 90–207, set out as a note under [section 203 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section203&num=0&edition=prelim), Pay and Allowances of the Uniformed Services.
@@ -686,7 +686,7 @@ Pub. L. 85–583 inserted “or the Retired Reserve” after “Navy” in cl. (
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-8333"></a>

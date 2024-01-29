@@ -120,7 +120,7 @@ Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provision
 Pub. L. 108–136, div. A, title X, § 1005(c), Nov. 24, 2003, 117 Stat. 1585, provided that: “The amendments made by this section [amending this section] shall not apply to funds appropriated for a fiscal year before fiscal year 2004.”
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-3134"></a>
@@ -281,15 +281,15 @@ Amendment by section 1809(f)(1) of Pub. L. 116–283 effective Jan. 1, 2022, wit
 
 (2) The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
 
-**(j) Expiration of Authority and Account.—**
-
-(1) The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2022.
-
-(2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
-
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (j). Pub. L. 117–263 struck out subsec. (j). Text read as follows:
+
+“(1) The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2022.
+
+“(2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.”
+
 2021—Pub. L. 116–283, § 1809(g)(1), renumbered [section 2216 of this title](./chapter-131-planning-and-coordination.md#section-2216) as this section.
 
 Subsec. (i)(1). Pub. L. 116–283, § 1883(b)(2), substituted “[section 4201 of this title](./chapter-321-general-matters.md#section-4201)” for “[section 2430(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2430/a&num=0&edition=prelim)”.
@@ -373,11 +373,6 @@ Subsec. (j)(3). Pub. L. 108–136, § 1043(b)(8), struck out par. (3) which read
 Subsec. (k). Pub. L. 108–136, § 1008(f)(1), added subsec. (k).
 
 1999—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
-
-#### Change of Name
-Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
-
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

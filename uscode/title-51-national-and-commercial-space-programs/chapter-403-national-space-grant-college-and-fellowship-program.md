@@ -266,7 +266,7 @@ In subsection (a), the words “up to 100 percent” are substituted for “100 
 
 <a id="section-40308"></a>
 ## § 40308. Space grant review panel
-**(a) Establishment.—** The Administrator shall establish an independent committee known as the space grant review panel, which shall not be subject to the provisions of the Federal Advisory Committee Act (5 App. U.S.C.).
+**(a) Establishment.—** The Administrator shall establish an independent committee known as the space grant review panel, which shall not be subject to the provisions of chapter 10 of title 5.
 
 **(b) Duties.—** The panel shall take such steps as may be necessary to review, and shall advise the Administrator with respect to—
 
@@ -303,8 +303,8 @@ In subsection (a), the words “up to 100 percent” are substituted for “100 
 
 In subsection (a), the word “provisions” is substituted for “provisons” to correct an error in the law.
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 App. U.S.C.).”
 
 
 <a id="section-40309"></a>

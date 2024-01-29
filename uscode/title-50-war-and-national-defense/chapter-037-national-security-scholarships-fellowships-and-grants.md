@@ -178,9 +178,9 @@ source: >-
 
     (iv) if, after the completion by the employee of such training but before the completion by the employee of the period of service required by clause (ii), the employment of the employee by such department or agency is terminated either by such department or agency due to misconduct by the employee, or by the employee voluntarily, to reimburse the United States in an amount that bears the same ratio to the total cost of such training (excluding the employee’s pay and allowances) provided to the employee as the unserved portion of such period of service bears to the total period of service required by clause (ii).
 
-  (C) 11 So in original. No subpar. (B) has been enacted. Subject to subparagraph (D), the obligation to reimburse the United States under an agreement under subparagraph (A) is for all purposes a debt owing the United States.
+  (B) Subject to subparagraph (C), the obligation to reimburse the United States under an agreement under subparagraph (A) is for all purposes a debt owing the United States.
 
-  (D) The head of the element of the intelligence community concerned may release an employee, in whole or in part, from the obligation to reimburse the United States under an agreement under subparagraph (A) when, in the discretion of the head of the element, the head of the element determines that equity or the interests of the United States so require.
+  (C) The head of the element of the intelligence community concerned may release an employee, in whole or in part, from the obligation to reimburse the United States under an agreement under subparagraph (A) when, in the discretion of the head of the element, the head of the element determines that equity or the interests of the United States so require.
 
 **(k) Employment of program participants**
 
@@ -222,6 +222,8 @@ source: >-
 In subsec. (a)(4), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2023—Subsec. (j)(6)(B) to (D). Pub. L. 118–31 redesignated subpars. (C) and (D) as (B) and (C), respectively, and substituted “subparagraph (C)” for “subparagraph (D)” in subpar. (B), as redesignated.
+
 2017—Subsec. (k)(2). Pub. L. 115–91, § 1625(2), substituted “paragraph (4)(C)” for “paragraph (3)(C)” in introductory provisions.
 
 Subsec. (k)(3), (4). Pub. L. 115–91, § 1625(1), (3), added par. (3) and redesignated former par. (3) as (4).
@@ -314,6 +316,9 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 #### Construction
 Pub. L. 107–306, title III, § 333(d), Nov. 27, 2002, 116 Stat. 2397, provided that: “Nothing in this section [enacting [section 1911 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1911), amending this section and [section 1903 of this title](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1903), and enacting provisions set out as notes under this section] shall be construed as affecting any program or project carried out under the David L. Boren National Security Education Act of 1991 [[50 U.S.C. 1901](./chapter-037-national-security-scholarships-fellowships-and-grants.md#section-1901) et seq.] as in effect on the date that precedes the date of the enactment of this Act [Nov. 27, 2002].”
 
+#### Coordination With Other Amendments Made by Pub. L. 118–31
+Pub. L. 118–31, div. G, title IX, § 7901(k), Dec. 22, 2023, 137 Stat. 1107, provided that: “For purposes of applying amendments made by provisions of this Act other than this section, the amendments made by this section [amending this section and sections 1903, 1908, 2021, 2093, 2111, 2154, 3024, 3093, 3164, 3232a, 3334l, 3341, 3361, 3363, 3381, 3505, 3507, 3512, 3517, 3519, 3519a, and 3614 of this title and provisions set out as a note under [section 3024 of this title](./chapter-044-national-security.md#section-3024)] shall be treated as having been enacted immediately before any such amendments by other provisions of this Act [see Tables for classification].”
+
 #### Increase in Number of Participating Educational Institutions
 Pub. L. 108–487, title VI, § 602(c), Dec. 23, 2004, 118 Stat. 3953, provided that: “The Secretary of Defense shall take such actions as the Secretary considers appropriate to increase the number of qualified educational institutions that receive grants under the National Flagship Language Initiative under section 802(i) of the David L. Boren National Security Education Act of 1991 [[50 U.S.C. 1902(i)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/i&num=0&edition=prelim)] to establish, operate, or improve activities designed to train students in programs in a range of disciplines to achieve advanced levels of proficiency in those foreign languages that the Secretary identifies as being the most critical to the national security of the United States.”
 
@@ -383,11 +388,13 @@ Pub. L. 108–487, title VI, § 602(d), Dec. 23, 2004, 118 Stat. 3953, provided 
 
   (C) recommending effective ways to increase public awareness of the need for foreign languages skills and career paths in the Federal Government that use those skills; and
 
-  (D) overseeing the Corps efforts to work with Executive agencies and State and Local 11 So in original. Probably should not be capitalized. governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
+  (D) overseeing the Corps efforts to work with Executive agencies and State and local governments to respond to interagency plans and agreements to address overall foreign language shortfalls and to utilize personnel to address the various types of crises that warrant foreign language skills.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d)(9)(D). Pub. L. 118–31 substituted “local governments” for “Local governments”.
+
 2013—Subsec. (b)(5) to (9). Pub. L. 112–239, § 954(b)(1), added pars. (5) to (7), redesignated former pars. (6) and (7) as (8) and (9), respectively, and struck out former par. (5) which read as follows: “The Director of Central Intelligence.”
 
 Subsec. (d)(9). Pub. L. 112–239, § 954(b)(2), added par. (9).
@@ -565,7 +572,7 @@ For the purpose of this chapter:
 
 (4) The term “national security position” means a position—
 
-  (A) having national security responsibilities in a 11 So in original. Probably should be “an”. agency or office of the Federal Government that has national security responsibilities, as determined under [section 1902(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/g&num=0&edition=prelim); and
+  (A) having national security responsibilities in an agency or office of the Federal Government that has national security responsibilities, as determined under [section 1902(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1902/g&num=0&edition=prelim); and
 
   (B) in which the individual in such position makes their foreign language skills available to such agency or office.
 
@@ -578,6 +585,8 @@ For the purpose of this chapter:
 ### Statutory Notes
 
 #### Amendments
+2023—Par. (4)(A). Pub. L. 118–31 substituted “an agency” for “a agency”.
+
 2002—Par. (5). Pub. L. 107–306 added par. (5).
 
 1998—Par. (3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.

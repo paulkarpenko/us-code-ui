@@ -9,19 +9,22 @@ source: >-
 <a id="section-9301"></a>
 ## § 9301. Findings
 
-Congress makes the following findings:
-
-(1) According to the Food and Agriculture Organization of the United Nations (referred to in this section as the “FAO”), 805,000,000 people worldwide suffer from chronic hunger. Hunger and malnutrition rob people of health and productive lives and stunt the mental and physical development of future generations.
-
-(2) According to the January 2014 “Worldwide Threat Assessment of the US Intelligence Community”—
-
-  (A) the “[l]ack of adequate food will be a destabilizing factor in countries important to US national security that do not have the financial or technical abilities to solve their internal food security problems”; and
-
-  (B) “[f]ood and nutrition insecurity in weakly governed countries might also provide opportunities for insurgent groups to capitalize on poor conditions, exploit international food aid, and discredit governments for their inability to address basic needs”.
-
-(3) A comprehensive approach to sustainable food and nutrition security should not only respond to emergency food shortages, but should also address malnutrition, resilience to food and nutrition insecurity, building the capacity of poor, rural populations to improve their agricultural productivity and incomes, removing institutional impediments to agricultural development, value chain access and efficiency, including processing and storage, enhancing agribusiness development, access to markets and activities that address the specific needs and barriers facing women and small-scale producers, education, and collaborative research.
+Congress finds that a comprehensive approach to sustainable food and nutrition security should not only respond to emergency food shortages, but should also address malnutrition, resilience to food and nutrition insecurity, building the capacity of poor, rural populations to improve their agricultural productivity and incomes, removing institutional impediments to agricultural development, value chain access and efficiency, including processing and storage, enhancing agribusiness development, access to markets and activities that address the specific needs and barriers facing women and small-scale producers, education, and collaborative research.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–263 substituted “Congress finds that a comprehensive” for “Congress makes the following findings:
+
+“(1) According to the Food and Agriculture Organization of the United Nations (referred to in this section as the ‘FAO’), 805,000,000 people worldwide suffer from chronic hunger. Hunger and malnutrition rob people of health and productive lives and stunt the mental and physical development of future generations.
+
+“(2) According to the January 2014 ‘Worldwide Threat Assessment of the US Intelligence Community’—
+
+“(A) the ‘[l]ack of adequate food will be a destabilizing factor in countries important to US national security that do not have the financial or technical abilities to solve their internal food security problems’; and
+
+“(B) ‘[f]ood and nutrition insecurity in weakly governed countries might also provide opportunities for insurgent groups to capitalize on poor conditions, exploit international food aid, and discredit governments for their inability to address basic needs’.
+
+“(3) A comprehensive”.
 
 #### Short Title of 2018 Amendment
 Pub. L. 115–266, § 1, Oct. 11, 2018, 132 Stat. 3755, provided that: “This Act [amending sections 2292a, 9305, and 9307 of this title] may be cited as the ‘Global Food Security Reauthorization Act of 2017’.”
@@ -35,21 +38,29 @@ Pub. L. 117–214, Oct. 19, 2022, 136 Stat. 2252, provided that: “SECTION 1. S
 
 <a id="section-9302"></a>
 ## § 9302. Statement of policy objectives; sense of Congress
-**(a) Statement of policy objectives** It is in the national interest of the United States to promote global food security, resilience, and nutrition, consistent with national food security investment plans, which is reinforced through programs, activities, and initiatives that—
+**(a) Statement of policy objectives** It is in the national interest of the United States to promote global food security, resilience, and nutrition, consistent with national food security investment plans, which is reinforced through comprehensive, multi-sectoral programs, activities, and initiatives that consider agriculture and food systems in their totality and that—
 
-(1) place food insecure countries on a path toward self-sufficiency and economic freedom through the coordination of United States foreign assistance programs;
+(1) place food insecure countries on a path toward self-sufficiency, economic freedom, and security through the phasing, sequencing, and coordination of United States foreign assistance programs;
 
 (2) accelerate inclusive, agricultural-led economic growth that reduces global poverty, hunger, and malnutrition, particularly among women and children;
 
-(3) increase the productivity, incomes, and livelihoods of small-scale producers, especially women, by working across agricultural value chains, enhancing local capacity to manage agricultural resources effectively and expanding producer access to local and international markets;
+(3) increase the productivity, incomes, and livelihoods of small-scale producers and artisanal fishing communities, especially women in these communities, by working across terrestrial and aquatic food systems and agricultural value chains, including by—
 
-(4) build resilience to food shocks among vulnerable populations and households while reducing reliance upon emergency food assistance;
+  (A) enhancing local capacity to manage agricultural resources and food systems effectively and expanding producer access to, and participation in, local, regional, and international markets;
+
+  (B) increasing the availability and affordability of high quality nutritious and safe foods and clean water;
+
+  (C) creating entrepreneurship opportunities and improving access to business development related to agriculture and food systems, including among youth populations, linked to local, regional, and international markets; and
+
+  (D) enabling partnerships to facilitate the development of and investment in new agricultural technologies to support more resilient and productive agricultural practices;
+
+(4) build resilience to agriculture and food systems shocks and stresses, including global food catastrophes in which conventional methods of agriculture are unable to provide sufficient food and nutrition to sustain the global population, among vulnerable populations and households through inclusive growth, while reducing reliance upon emergency food and economic assistance;
 
 (5) create an enabling environment for agricultural growth and investment, including through the promotion of secure and transparent property rights;
 
-(6) improve the nutritional status of women and children, with a focus on reducing child stunting, including through the promotion of highly nutritious foods, diet diversification, and nutritional behaviors that improve maternal and child health;
+(6) improve the nutritional status of women, adolescent girls, and children, with a focus on reducing child stunting and incidence of wasting, including through the promotion of highly nutritious foods, diet diversification, large-scale food fortification, and nutritional behaviors that improve maternal and child health and nutrition, especially during the first 1,000-day window until a child reaches 2 years of age;
 
-(7) demonstrably meet, align with and leverage broader United States strategies and investments in trade, economic growth, national security, science and technology, agriculture research and extension, maternal and child health, nutrition, and water, sanitation, and hygiene;
+(7) demonstrably meet, align with and leverage broader United States strategies and investments in trade, economic growth, national security, combating fragility, resilience, science and technology, natural resource management 11 So in original. Probably should be followed by a comma. agriculture research and extension, maternal and child health, nutrition,,22 So in original. including deworming, and water, sanitation, and hygiene;
 
 (8) continue to strengthen partnerships between United States-based universities, including land-grant colleges, and universities and institutions in target countries and communities that build agricultural capacity; and
 
@@ -62,6 +73,23 @@ Pub. L. 117–214, Oct. 19, 2022, 136 Stat. 2252, provided that: “SECTION 1. S
 (2) seek to fully utilize the unique capabilities of each relevant Federal department and agency while collaborating with and leveraging the contributions of other key stakeholders; and
 
 (3) utilize open and streamlined solicitations to allow for the participation of a wide range of implementing partners through the most appropriate procurement mechanisms, which may include grants, contracts, cooperative agreements, and other instruments as necessary and appropriate.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 5588(b)(1), in introductory provisions, substituted “comprehensive, multi-sectoral programs, activities, and initiatives that consider agriculture and food systems in their totality and that” for “programs, activities, and initiatives that”.
+
+Subsec. (a)(1). Pub. L. 117–263, § 5588(b)(2), substituted “, economic freedom, and security through the phasing, sequencing, and coordination” for “and economic freedom through the coordination”.
+
+Subsec. (a)(3), (4). Pub. L. 117–263, § 5588(b)(3), added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
+
+“(3) increase the productivity, incomes, and livelihoods of small-scale producers, especially women, by working across agricultural value chains, enhancing local capacity to manage agricultural resources effectively and expanding producer access to local and international markets;
+
+“(4) build resilience to food shocks among vulnerable populations and households while reducing reliance upon emergency food assistance;”.
+
+Subsec. (a)(6). Pub. L. 117–263, § 5588(b)(4), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “improve the nutritional status of women and children, with a focus on reducing child stunting, including through the promotion of highly nutritious foods, diet diversification, and nutritional behaviors that improve maternal and child health;”.
+
+Subsec. (a)(7). Pub. L. 117–263, § 5588(b)(5), substituted “combating fragility, resilience, science and technology, natural resource management” for “science and technology,” and inserted “, including deworming,” after “nutrition,”.
 
 
 <a id="section-9303"></a>
@@ -83,13 +111,15 @@ In this chapter:
 
   (F) the Committee on Appropriations of the House of Representatives.
 
-(2) **Feed the Future Innovation Labs** — The term “Feed the Future Innovation Labs” means research partnerships led by United States universities that advance solutions to reduce global hunger, poverty, and malnutrition.
+(2) **Feed the Future Innovation Labs** — The term “Feed the Future Innovation Labs” means research partnerships led by United States universities that advance solutions to reduce global hunger, poverty, and malnutrition, including in response to shocks and stresses to food and nutrition security.
 
 (3) **Food and nutrition security** — The term “food and nutrition security” means access to, and availability, utilization, and stability of, sufficient food to meet caloric and nutritional needs for an active and healthy life.
 
-(4) **Global Food Security Strategy** — The term “Global Food Security Strategy” means the strategy developed and implemented pursuant to [section 9304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a&num=0&edition=prelim).
+(4) **Food system** — The term “food system” means the intact or whole unit made up of interrelated components of people, behaviors, relationships, and material goods that interact in the production, processing, packaging, transporting, trade, marketing, consumption, and use of food, feed, and fiber through aquaculture, farming, wild fisheries, forestry, and pastoralism that operates within and is influenced by social, political, economic, and environmental contexts.
 
-(5) **Key stakeholders** — The term “key stakeholders” means actors engaged in efforts to advance global food security programs and objectives, including—
+(5) **Global Food Security Strategy** — The term “Global Food Security Strategy” means the strategy developed and implemented pursuant to [section 9304(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a&num=0&edition=prelim).
+
+(6) **Key stakeholders** — The term “key stakeholders” means actors engaged in efforts to advance global food security programs and objectives, including—
 
   (A) relevant Federal departments and agencies;
 
@@ -105,19 +135,19 @@ In this chapter:
 
   (G) the private sector, including agribusinesses and relevant commodities groups;
 
-  (H) agricultural producers, including farmer organizations, cooperatives, small-scale producers, and women; and
+  (H) local agricultural producers, including farmer and fisher organizations, cooperatives, small-scale producers, youth, and women; and
 
   (I) agricultural research and academic institutions, including land-grant universities and extension services.
 
-(6) **Malnutrition** — The term “malnutrition” means poor nutritional status caused by nutritional deficiency or excess.
+(7) **Malnutrition** — The term “malnutrition” means poor nutritional status caused by nutritional deficiency or excess.
 
-(7) **Relevant Federal departments and agencies** — The term “relevant Federal departments and agencies” means the United States Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of State, the Department of the Treasury, the Millennium Challenge Corporation, the United States International Development Finance Corporation, the Peace Corps, the Office of the United States Trade Representative, the United States African Development Foundation, the United States Geological Survey, and any other department or agency specified by the President for purposes of this section.
+(8) **Relevant Federal departments and agencies** — The term “relevant Federal departments and agencies” means the United States Agency for International Development, the Department of Agriculture, the Department of Commerce, the Department of State, the Department of the Treasury, the Millennium Challenge Corporation, the United States International Development Finance Corporation, the Peace Corps, the Office of the United States Trade Representative, the United States African Development Foundation, the Inter-American Foundation, the United States Geological Survey, and any other department or agency specified by the President for purposes of this section.
 
-(8) **Resilience** — The term “resilience” means the ability of people, households, communities, countries, and systems to mitigate, adapt to, and recover from shocks and stresses to food security in a manner that reduces chronic vulnerability and facilitates inclusive growth.
+(9) **Resilience** — The term “resilience” means the ability of people, households, communities, countries, and agriculture and food systems to mitigate, adapt to, and recover from shocks and stresses to food security, including global food catastrophes, in a manner that reduces chronic vulnerability and facilitates inclusive growth.
 
-(9) **Small-scale producer** — The term “small-scale producer” means farmers, pastoralists, foresters, and fishers that have a low asset base and limited resources, including land, capital, skills and labor, and, in the case of farmers, typically farm on fewer than 5 hectares of land.
+(10) **Small-scale producer** — The term “small-scale producer” means farmers, pastoralists, foresters, and artisanal fishing communities that have a low asset base and limited resources, including land, capital, skills and labor, and, in the case of farmers, typically farm on fewer than 5 hectares of land.
 
-(10) **Stunting** — The term “stunting” refers to a condition that—
+(11) **Stunting** — The term “stunting” refers to a condition that—
 
   (A) is measured by a height-to-age ratio that is more than 2 standard deviations below the median for the population;
 
@@ -125,17 +155,53 @@ In this chapter:
 
   (C) is a process that can continue in children after they reach 2 years of age, resulting in an individual being “stunted”;
 
-  (D) is a sign of chronic malnutrition; and
+  (D) is a marker of an environment deficient in the various needs that allow for a child’s healthy growth, including nutrition; and
 
-  (E) can lead to long-term poor health, delayed motor development, impaired cognitive function, and decreased immunity.
+  (E) is associated with long-term poor health, delayed motor development, impaired cognitive function, and decreased immunity.
 
-(11) **Sustainable** — The term “sustainable” means the ability of a target country, community, implementing partner, or intended beneficiary to maintain, over time, the programs authorized and outcomes achieved pursuant to this chapter.
+(12) **Sustainable** — The term “sustainable” means the ability of a target country, community, implementing partner, or intended beneficiary to maintain, over time, the programs authorized and outcomes achieved pursuant to this chapter.
 
-(12) **Target country** — The term “target country” means a developing country that is selected to participate in agriculture and nutrition security programs under the Global Food Security Strategy pursuant to the selection criteria described in [section 9304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a/2&num=0&edition=prelim), including criteria such as the potential for agriculture-led economic growth, government commitment to agricultural investment and policy reform, opportunities for partnerships and regional synergies, the level of need, and resource availability.
+(13) **Target country** — The term “target country” means a developing country that is selected to participate in food and nutrition security and agriculture-led economic growth programs under the Global Food Security Strategy pursuant to the selection criteria described in [section 9304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a/2&num=0&edition=prelim), including criteria such as the potential for agriculture-led economic growth, government commitment to agricultural investment and policy reform, opportunities for partnerships and regional synergies, the level of need, and resource availability.
+
+(14) **Wasting** — The term “wasting” means—
+
+  (A) a life-threatening condition attributable to poor nutrient intake or disease that is characterized by a rapid deterioration in nutritional status over a short period of time; and
+
+  (B) in the case of children, is characterized by low weight for height and weakened immunity, increasing their risk of death due to greater frequency and severity of common infection, particularly when severe.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Par. (2). Pub. L. 117–263, § 5588(c)(1), inserted “, including in response to shocks and stresses to food and nutrition security” before period at end.
+
+Pars. (4) to (6). Pub. L. 117–263, § 5588(c)(2), (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7).
+
+Par. (6)(H). Pub. L. 117–263, § 5588(c)(4), amended subpar. (H) generally. Prior to amendment, subpar. (H) read as follows: “agricultural producers, including farmer organizations, cooperatives, small-scale producers, and women; and”.
+
+Par. (7). Pub. L. 117–263, § 5588(c)(2), redesignated par. (6) as (7). Former par. (7) redesignated (8).
+
+Par. (8). Pub. L. 117–263, § 5588(c)(5), which directed amendment of “paragraph (7), as redesignated” by inserting “the Inter-American Foundation,” after “United States African Development Foundation,” was executed by making the amendment in par. (8), as redesignated, to reflect the probable intent of Congress. Par. (7), as redesignated by Pub. L. 117–263, § 5588(c)(2), does not contain the words “United States African Development Foundation,”.
+
+Pub. L. 117–263, § 5588(c)(2), redesignated par. (7) as (8). Former par. (8) redesignated (9).
+
+Par. (9). Pub. L. 117–263, § 5588(c)(2), (6), redesignated par. (8) as (9) and inserted “agriculture and food” before “systems” and “, including global food catastrophes,” after “food security”. Former par. (9) redesignated (10).
+
+Par. (10). Pub. L. 117–263, § 5588(c)(2), (7), redesignated par. (9) as (10) and substituted “artisanal fishing communities” for “fishers”. Former par. (10) redesignated (11).
+
+Par. (11). Pub. L. 117–263, § 5588(c)(2), redesignated par. (10) as (11). Former par. (11) redesignated (12).
+
+Par. (11)(D), (E). Pub. L. 117–263, § 5588(c)(8), amended subpars. (D) and (E) generally. Prior to amendment, subpars. (D) and (E) read as follows:
+
+“(D) is a sign of chronic malnutrition; and
+
+“(E) can lead to long-term poor health, delayed motor development, impaired cognitive function, and decreased immunity.”
+
+Par. (12). Pub. L. 117–263, § 5588(c)(2), redesignated par. (11) as (12). Former par. (12) redesignated (13).
+
+Par. (13). Pub. L. 117–263, § 5588(c)(2), (9), redesignated par. (12) as (13) and substituted “food and nutrition security and agriculture-led economic growth” for “agriculture and nutrition security”.
+
+Par. (14). Pub. L. 117–263, § 5588(c)(10), added par. (14).
+
 2018—Par. (7). Pub. L. 115–254 substituted “United States International Development Finance Corporation” for “Overseas Private Investment Corporation”.
 
 #### Effective Date of 2018 Amendment
@@ -152,33 +218,43 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
 (3) describe the methodology and criteria for the selection of target countries;
 
-(4) support and be aligned with country-owned agriculture, nutrition, and food security policy and investment plans developed with input from key stakeholders, as appropriate;
+(4) support and be aligned with partner country-led agriculture, nutrition, regulatory, food security, and water resources management policy and investment plans and governance systems developed with input from key stakeholders, as appropriate;
 
-(5) support inclusive agricultural value chain development, with small-scale producers, especially women, gaining greater access to the inputs, skills, resource management capacity, networking, bargaining power, financing, and market linkages needed to sustain their long-term economic prosperity;
+(5) support the locally-led and inclusive development of agriculture and food systems, including by enhancing the extent to which small-scale food producers, especially women, have access to and control over the inputs, skills, resource management capacity, networking, bargaining power, financing, market linkages, technology, and information needed to sustainably increase productivity and incomes, reduce poverty and malnutrition, and promote long-term economic prosperity;
 
-(6) support improvement of the nutritional status of women and children, particularly during the critical first 1,000-day window until a child reaches 2 years of age and with a focus on reducing child stunting, through nutrition-specific and nutrition-sensitive programs, including related water, sanitation, and hygiene programs;
+(6) support improvement of the nutritional status of women, adolescent girls, and children, particularly during the critical first 1,000-day window until a child reaches 2 years of age and with a focus on reducing child stunting and preventing incidence of wasting, through nutrition-specific and nutrition-sensitive programs, including related water, sanitation, and hygiene programs;
 
-(7) facilitate communication and collaboration, as appropriate, among local stakeholders in support of a multi-sectoral approach to food and nutrition security, to include analysis of the multiple underlying causes of malnutrition, including lack of access to safe drinking water, sanitation, and hygiene;
+(7) facilitate communication and collaboration, as appropriate, among local stakeholders in support of a multi-sectoral approach to food and nutrition security, to include analysis of the multiple underlying causes of malnutrition, including poor water resource management and lack of access to safe drinking water, sanitation, and hygiene;
 
-(8) support the long-term success of programs by building the capacity of local organizations and institutions in target countries and communities;
+(8) support long-term impact by building the capacity of local organizations and institutions, including agricultural research capacity, in target countries and communities;
 
-(9) integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to build safety nets, secure livelihoods, access markets, and access opportunities for longer-term economic growth;
+(9) coordinate with and complement relevant strategies to ensure that chronically vulnerable populations are better able to adapt, build safety nets, secure livelihoods, access markets, and access opportunities for longer-term economic growth;
 
-(10) develop community and producer resilience to natural disasters, emergencies, and natural occurrences that adversely impact agricultural yield;
+(10) develop community and producer resilience and adaptation strategies to disasters, emergencies, and other shocks and stresses to food and nutrition security, including conflicts, droughts, flooding, pests, and diseases, that adversely impact agricultural yield and livelihoods;
 
-(11) harness science, technology, and innovation, including the research and extension activities supported by relevant Federal Departments and agencies and Feed the Future Innovation Labs, or any successor entities;
+(11) harness science, technology, and innovation, including the research and extension activities supported by the private sector, relevant Federal departments and agencies, Feed the Future Innovation Labs or any successor entities, and international and local researchers and innovators, recognizing that significant investments in research and technological advances will be necessary to reduce global poverty, hunger, and malnutrition;
 
-(12) integrate agricultural development activities among food insecure populations living in proximity to designated national parks or wildlife areas into wildlife conservation efforts, as necessary and appropriate;
+(12) use evidenced-based best practices, including scientific and forecasting data, and improved planning and coordination by, with, and among key partners and relevant Federal departments and agencies to identify, analyze, measure, and mitigate risks, and strengthen resilience capacities;
 
-(13) leverage resources and expertise through partnerships with the private sector, farm organizations, cooperatives, civil society, faith-based organizations, and agricultural research and academic institutions;
+(13) ensure scientific and forecasting data is accessible and usable by affected communities and facilitate communication and collaboration among local stakeholders in support of adaptation planning and implementation, including scenario planning and preparedness using seasonal forecasting and scientific and local knowledge;
 
-(14) strengthen and expand collaboration between United States universities, including public, private, and land-grant universities, with higher education institutions in target countries to increase their effectiveness and relevance to promote agricultural development and innovation through the creation of human capital, innovation, and cutting edge science in the agricultural sector;
+(14) integrate agricultural development activities among food insecure populations living in proximity to designated national parks or wildlife areas into wildlife conservation efforts, as necessary and appropriate;
 
-(15) seek to ensure that target countries and communities respect and promote land tenure rights of local communities, particularly those of women and small-scale producers;
+(15) leverage resources and expertise through partnerships with the private sector, farm organizations, cooperatives, civil society, nongovernmental organizations, including faith-based organizations, and agricultural research and academic institutions;
 
-(16) include criteria and methodologies for graduating target countries and communities from assistance provided to implement the Global Food Security Strategy as such countries and communities meet the progress benchmarks identified pursuant to [section 9307(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9307/b/4&num=0&edition=prelim); and
+(16) strengthen and expand collaboration and coordination, as appropriate, between United States universities, including public, private, and land-grant universities, with higher education institutions in target countries to increase their effectiveness and relevance to promote agricultural development and innovation through the creation of human capital, innovation, and cutting edge science in the agricultural sector;
 
-(17) demonstrably support the United States national security and economic interest in the countries where assistance is being provided.
+(17) seek to ensure that target countries and communities respect and promote land tenure rights of local communities, particularly those of women and small-scale producers;
+
+(18) include criteria and methodologies for graduating target countries and communities from assistance provided to implement the Global Food Security Strategy as such countries and communities meet the progress benchmarks identified pursuant to [section 9307(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9307/a/4&num=0&edition=prelim);
+
+(19) improve the efficiency and resilience of agricultural production, including management of crops, rangelands, pastures, livestock, fisheries, and aquacultures;
+
+(20) ensure investments in food and nutrition security consider and integrate best practices in the management and governance of natural resources and conservation, especially among food insecure populations living in or near biodiverse ecosystems;
+
+(21) be periodically updated in a manner that reflects learning and best practices; and
+
+(22) demonstrably support the United States national security and economic interest in the countries where assistance is being provided.
 
 **(b) Coordination** The President shall coordinate, through a whole-of-government approach, the efforts of relevant Federal departments and agencies in the implementation of the Global Food Security Strategy by—
 
@@ -198,7 +274,46 @@ Amendment by Pub. L. 115–254 effective at the end of the transition period, as
 
   (B) the efforts of the department or agency to ensure that the activities and programs carried out pursuant to the strategy are designed to achieve maximum impact and long-term sustainability.
 
+**(d) Periodic updates** Not less frequently than quinquennially through fiscal year 2030, the President, in consultation with the head of each relevant Federal department and agency, shall submit to the appropriate congressional committees updates to the Global Food Security Strategy required under subsection (a) and the agency-specific plans described in subsection (c)(2).
+
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–263, § 5588(d)(1), substituted “partner country-led agriculture, nutrition, regulatory, food security, and water resources management policy and investment plans and governance systems” for “country-owned agriculture, nutrition, and food security policy and investment plans”.
+
+Subsec. (a)(5). Pub. L. 117–263, § 5588(d)(2), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “support inclusive agricultural value chain development, with small-scale producers, especially women, gaining greater access to the inputs, skills, resource management capacity, networking, bargaining power, financing, and market linkages needed to sustain their long-term economic prosperity;”.
+
+Subsec. (a)(6). Pub. L. 117–263, § 5588(d)(3), inserted “, adolescent girls,” after “women” and “and preventing incidence of wasting” after “reducing child stunting”.
+
+Subsec. (a)(7). Pub. L. 117–263, § 5588(d)(4), inserted “poor water resource management and” after “including”.
+
+Subsec. (a)(8). Pub. L. 117–263, § 5588(d)(5), substituted “long-term impact” for “the long-term success of programs” and inserted “, including agricultural research capacity,” after “institutions”.
+
+Subsec. (a)(9). Pub. L. 117–263, § 5588(d)(6), substituted “coordinate with and complement relevant strategies to ensure that chronically vulnerable populations are better able to adapt,” for “integrate resilience and nutrition strategies into food security programs, such that chronically vulnerable populations are better able to”.
+
+Subsec. (a)(10), (11). Pub. L. 117–263, § 5588(d)(9), added pars. (10) and (11) and struck out former pars. (10) and (11) which read as follows:
+
+“(10) develop community and producer resilience to natural disasters, emergencies, and natural occurrences that adversely impact agricultural yield;
+
+“(11) harness science, technology, and innovation, including the research and extension activities supported by relevant Federal Departments and agencies and Feed the Future Innovation Labs, or any successor entities;”.
+
+Subsec. (a)(12), (13). Pub. L. 117–263, § 5588(d)(9), added pars. (12) and (13). Former pars. (12) and (13) redesignated (14) and (15), respectively.
+
+Subsec. (a)(14). Pub. L. 117–263, § 5588(d)(8), redesignated par. (12) as (14). Former par. (14) redesignated (16).
+
+Subsec. (a)(15). Pub. L. 117–263, § 5588(d)(8), (10), redesignated par. (13) as (15) and inserted “nongovernmental organizations, including” after “civil society,”. Former par. (15) redesignated (17).
+
+Subsec. (a)(16). Pub. L. 117–263, § 5588(d)(8), (11), redesignated par. (14) as (16) and inserted “and coordination, as appropriate,” after “collaboration”. Former par. (16) redesignated (18).
+
+Subsec. (a)(17). Pub. L. 117–263, § 5588(d)(8), redesignated par. (15) as (17). Former par. (17) redesignated (22).
+
+Subsec. (a)(18). Pub. L. 117–263, § 5588(d)(8), (12), redesignated par. (16) as (18) and substituted “[section 9307(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9307/a/4&num=0&edition=prelim);” for “[section 9307(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9307/b/4&num=0&edition=prelim); and”.
+
+Subsec. (a)(19) to (21). Pub. L. 117–263, § 5588(d)(13), added pars. (19) to (21).
+
+Subsec. (a)(22). Pub. L. 117–263, § 5588(d)(7), redesignated par. (17) as (22).
+
+Subsec. (d). Pub. L. 117–263, § 5588(e), added subsec. (d).
 
 #### Delegation of Authority Pursuant to Sections 5, 6(a) and 6(c), and 8(a) of the Global Food Security Act of 2016
 Memorandum of President of the United States, Sept. 30, 2016, 81 F.R. 76483, provided:
@@ -224,7 +339,7 @@ Barack Obama.
 ## § 9305. Assistance to implement the Global Food Security Strategy
 **(a) Food shortages** The President is authorized to carry out activities pursuant to section 103, section 103A, title XII of chapter 2 of part I, and chapter 4 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151a](./chapter-032-foreign-assistance.md#section-2151a), 2151a–1, 2220a et seq., and 2346 et seq.) to prevent or address food shortages notwithstanding any other provision of law.
 
-**(b) Authorization of appropriations** There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,000,600,000 for each of fiscal years 2017 through 2023 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively.
+**(b) Authorization of appropriations** There is authorized to be appropriated to the Secretary of State and the Administrator of the United States Agency for International Development $1,200,000,000 for each of the fiscal years 2024 through 2028 to carry out those portions of the Global Food Security Strategy that relate to the Department of State and the United States Agency for International Development, respectively. Amounts authorized to appropriated under this subsection should be prioritized to carry out programs and activities in target countries.
 
 **(c) Monitoring and evaluation** The President shall seek to ensure that assistance to implement the Global Food Security Strategy is provided under established parameters for a rigorous accountability system to monitor and evaluate progress and impact of the strategy, including by reporting to the appropriate congressional committees and the public on an annual basis.
 
@@ -234,6 +349,8 @@ Barack Obama.
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Title XII of chapter 2 of part I of the Act is classified generally to subpart XII (§ 2220a et seq.) of part II of subchapter I of chapter 32 of this title. Chapter 4 of part II of the Act is classified generally to part IV (§ 2346 et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2151 of this title](./chapter-032-foreign-assistance.md#section-2151) and Tables.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 substituted “$1,200,000,000 for each of the fiscal years 2024 through 2028” for “$1,000,600,000 for each of fiscal years 2017 through 2023” and inserted at end “Amounts authorized to appropriated under this subsection should be prioritized to carry out programs and activities in target countries.”
+
 2018—Subsec. (b). Pub. L. 115–266 substituted “fiscal years 2017 through 2023” for “fiscal years 2017 and 2018”.
 
 #### Delegation of Functions
@@ -242,53 +359,57 @@ Functions of President under subsec. (a) of this section delegated to the Secret
 
 <a id="section-9306"></a>
 ## § 9306. Emergency Food Security Program
-**(a) Sense of Congress** It is the sense of Congress that—
 
-(1) the crisis in Syria, which is characterized by acts of terrorism and atrocities directed against civilians, including mass murder, forced displacement, aerial bombardment, ethnic and religious persecution, torture, kidnapping, rape and sexual enslavement, has triggered one of the most profound humanitarian crises of this century and poses a direct threat to regional security and the national security interests of the United States;
-
-(2) it is in the national security interests of the United States to respond to the needs of displaced Syrian persons and the communities hosting such persons, including with food assistance; and
-
-(3) after four years of conflict in Syria and the onset of other major humanitarian emergencies where, like Syria, the provision of certain United States humanitarian assistance has been particularly challenging, including the 2013 super-typhoon in the Philippines, the 2014 outbreak of Ebola in west Africa, the 2015 earthquake in Nepal, ongoing humanitarian disasters in Yemen and South Sudan, and the threat of a major El Nino event in 2016, United States international disaster assistance has become severely stressed.
-
-**(b) Statement of policy** It shall be the policy of the United States, in coordination with other donors, regional governments, international organizations, and international financial institutions, to fully leverage, enhance, and expand the impact and reach of available United States humanitarian resources, including for food assistance, to mitigate the effects of manmade and natural disasters by utilizing innovative new approaches to delivering aid that support affected persons and the communities hosting them, build resilience and early recovery, and reduce opportunities for waste, fraud, and abuse.
+It shall be the policy of the United States, in coordination with other donors, regional governments, international organizations, and international financial institutions, to fully leverage, enhance, and expand the impact and reach of available United States humanitarian resources, including for food assistance, to mitigate the effects of manmade and natural disasters by utilizing innovative new approaches to delivering aid that support affected persons and the communities hosting them, build resilience and early recovery, and reduce opportunities for waste, fraud, and abuse.
 
 ### Statutory Notes
 
 #### Codification
 Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of section 7 of Pub. L. 114–195 amended [section 2292 of this title](./chapter-032-foreign-assistance.md#section-2292) and subsec. (c)(2) of section 7 of Pub. L. 114–195 amended [section 2292a of this title](./chapter-032-foreign-assistance.md#section-2292a).
 
+#### Amendments
+2022—Pub. L. 117–263 struck out subsec. (b) designation and heading before “It shall be” and struck out subsec. (a) which related to sense of Congress regarding challenges of providing international disaster assistance, especially in Syria.
+
 
 <a id="section-9307"></a>
 ## § 9307. Reports
-**(a) Global Food Security Strategy implementation reports** During each of the first 7 years after the date of the submission of the strategy required under [section 9304(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/c&num=0&edition=prelim), the President shall submit to the appropriate congressional committees reports that describe the status of the implementation of the Global Food Security Strategy at the end of the reporting period, which shall—
+**(a) Global Food Security Strategy implementation reports** For each of the fiscal years through 2028, the President shall submit to the appropriate congressional committees a report that describes the status of the implementation of the Global Food Security Strategy during the preceding year, which shall—
 
 (1) contain a summary of the Global Food Security Strategy as an appendix;
 
-(2) identify any substantial changes made in the Global Food Security Strategy during the preceding calendar year;
+(2) identify any substantial changes made in the Global Food Security Strategy during the preceding calendar year, including any changes to the target countries selected pursuant to the selection criteria described in [section 9304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a/2&num=0&edition=prelim) and justifications for any such changes;
 
-(3) describe the progress made in implementing the Global Food Security Strategy;
+(3) identify and describe the progress made in implementing the Global Food Security Strategy;
 
-(4) identify the indicators used to establish benchmarks and measure results over time, as well as the mechanisms for reporting such results in an open and transparent manner;
+(4) identify and describe the priority quantitative metrics used to establish baselines and performance targets at the initiative, country, and zone of influence levels;
 
-(5) describe related strategies and benchmarks for graduating target countries and communities from assistance provided under the Global Food Security Strategy over time, including by building resilience, reducing risk, and enhancing the sustainability of outcomes from United States investments in agriculture and nutrition security;
+(5) identify such established baselines and performance targets at the country and zone of influence levels;
 
-(6) indicate how findings from monitoring and evaluation were incorporated into program design and budget decisions;
+(6) identify the output and outcome benchmarks and indicators used to measure results annually, and report the annual measurement of results for each of the priority metrics identified pursuant to paragraph (4), disaggregated by age, gender, and disability, to the extent practicable and appropriate, in an open and transparent manner that is accessible to the people of the United States;
 
-(7) contain a transparent, open, and detailed accounting of spending by relevant Federal departments and agencies to implement the Global Food Security Strategy, including, for each Federal department and agency, the statutory source of spending, amounts spent, implementing partners and targeted beneficiaries, and activities supported to the extent practicable and appropriate;
+(7) describe related strategies and benchmarks for graduating target countries and communities from assistance provided under the Global Food Security Strategy over time, including by building resilience, reducing risk, and enhancing the sustainability of outcomes from United States investments in food and nutrition security;
 
-(8) describe how the Global Food Security Strategy leverages other United States food security and development assistance programs on the continuum from emergency food aid through sustainable, agriculture-led economic growth and eventual self-sufficiency;
+(8) indicate how quantitative and qualitative findings from monitoring and evaluation were incorporated into program design and budget decisions at the initiative, country, and zone of influence levels, including longitudinal data and key uncertainties;
 
-(9) describe the contributions of the Global Food Security Strategy to, and assess the impact of, broader international food and nutrition security assistance programs, including progress in the promotion of land tenure rights, creating economic opportunities for women and small-scale producers, and stimulating agriculture-led economic growth in target countries and communities;
+(9) contain a transparent, open, and detailed accounting of spending by relevant Federal departments and agencies to implement the Global Food Security Strategy, including, for each Federal department and agency, the statutory source of spending, amounts spent within target countries, amounts and justification for any spending outside of target countries, implementing partners and targeted beneficiaries, and activities supported to the extent practicable and appropriate;
 
-(10) assess efforts to coordinate United States international food security and nutrition programs, activities, and initiatives with key stakeholders;
+(10) describe how the Global Food Security Strategy leverages other United States food security and development assistance programs on the continuum from emergency food aid through sustainable, agriculture-led economic growth and eventual self-sufficiency;
 
-(11) assess United States Government-facilitated private investment in related sectors and the impact of private sector investment in target countries and communities;
+(11) describe the contributions of the Global Food Security Strategy to, and assess the impact of, broader international food and nutrition security assistance programs, including progress in the promotion of land tenure rights, creating economic opportunities for women and small-scale producers, and stimulating agriculture-led economic growth in target countries and communities;
 
-(12) identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraphs (8) and (9);
+(12) assess efforts to coordinate United States international food security and nutrition programs, activities, and initiatives with key stakeholders;
 
-(13) contain a clear gender analysis of programming, to inform project-level activities, that includes established disaggregated gender indicators to better analyze outcomes for food productivity, income growth, control of assets, equity in access to inputs, jobs and markets, and nutrition; and
+(13) assess United States Government-facilitated private investment in related sectors and efforts to encourage financial donor burden sharing and the impact of such investment and efforts in target countries and communities;
 
-(14) incorporate a plan for regularly reviewing and updating strategies, partnerships, and programs and sharing lessons learned with a wide range of stakeholders in an open, transparent manner.
+(14) describe how agriculture research is prioritized within the Global Food Security Strategy to support agriculture-led growth and eventual self-sufficiency and assess efforts to coordinate research programs within the Global Food Security Strategy with key stakeholders;
+
+(15) identify any United States legal or regulatory impediments that could obstruct the effective implementation of the programming referred to in paragraphs (8) and (9); 11 See References in Text note below.
+
+(16) contain a clear gender analysis of programming, to inform project-level activities, that includes established disaggregated gender indicators to better analyze outcomes for food productivity, income growth, control of assets, equity in access to inputs, jobs and markets, and nutrition;
+
+(17) incorporate a plan for regularly reviewing and updating strategies, partnerships, and programs and sharing lessons learned, including key challenges or missteps, with a wide range of stakeholders in an open, transparent manner; and
+
+(18) during the final year of each strategy required under [section 9304 of this title](./chapter-100-global-food-security.md#section-9304), complete country graduation reports to determine whether a country should remain a target country based on quantitative and qualitative analysis.
 
 **(b) Global food security crosscut report** Not later than 120 days after the President submits the budget to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Director of the Office of Management and Budget shall submit to the appropriate congressional committees a report including—
 
@@ -306,7 +427,38 @@ Section is comprised of section 7 of Pub. L. 114–195. Subsec. (c)(1) of sectio
 
 ### Statutory Notes
 
+#### References in Text
+Paragraphs (8) and (9), referred to in subsec. (a)(15), were redesignated as pars. (10) and (11), respectively, of subsec. (a) of this section by Pub. L. 117–263, div. E, title LV, § 5588(h)(5), Dec. 23, 2022, 136 Stat. 3379.
+
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 5588(h)(1), in introductory provisions, substituted “For each of the fiscal years through 2028,” for “During each of the first 7 years after the date of the submission of the strategy required under [section 9304(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/c&num=0&edition=prelim),”, “a report that describes” for “reports that describe”, and “during the preceding year” for “at the end of the reporting period”.
+
+Subsec. (a)(2). Pub. L. 117–263, § 5588(h)(2), inserted “, including any changes to the target countries selected pursuant to the selection criteria described in [section 9304(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9304/a/2&num=0&edition=prelim) and justifications for any such changes” before semicolon at end.
+
+Subsec. (a)(3). Pub. L. 117–263, § 5588(h)(3), inserted “identify and” before “describe”.
+
+Subsec. (a)(4) to (6). Pub. L. 117–263, § 5588(h)(6), added pars. (4) to (6) and struck out former par. (4) which read as follows: “identify the indicators used to establish benchmarks and measure results over time, as well as the mechanisms for reporting such results in an open and transparent manner;”. Former pars. (5) and (6) redesignated (7) and (8), respectively.
+
+Subsec. (a)(7). Pub. L. 117–263, § 5588(h)(5), (7), redesignated par. (5) as (7) and substituted “food” for “agriculture”. Former par. (7) redesignated (9).
+
+Subsec. (a)(8). Pub. L. 117–263, § 5588(h)(5), (8), redesignated par. (6) as (8) and inserted “quantitative and qualitative” after “how” and “at the initiative, country, and zone of influence levels, including longitudinal data and key uncertainties” before semicolon at end. Former par. (8) redesignated (10).
+
+Subsec. (a)(9). Pub. L. 117–263, § 5588(h)(5), (9), redesignated par. (7) as (9) and inserted “within target countries, amounts and justification for any spending outside of target countries” after “amounts spent”. Former par. (9) redesignated (11).
+
+Subsec. (a)(10) to (12). Pub. L. 117–263, § 5588(h)(5), redesignated pars. (8), (9), and (10) as (10), (11), and (12), respectively. Former pars. (10), (11), and (12) redesignated (12), (13), and (15), respectively.
+
+Subsec. (a)(13). Pub. L. 117–263, § 5588(h)(5), (10), redesignated par. (11) as (13) and substituted “and efforts to encourage financial donor burden sharing and the impact of such investment and efforts” for “and the impact of private sector investment”.
+
+Subsec. (a)(14). Pub. L. 117–263, § 5588(h)(11), added par. (14). Former par. (14) redesignated (17).
+
+Subsec. (a)(15). Pub. L. 117–263, § 5588(h)(4), redesignated par. (12) as (15).
+
+Subsec. (a)(16). Pub. L. 117–263, § 5588(h)(4), (12), redesignated par. (13) as (16) and struck out “and” at end.
+
+Subsec. (a)(17). Pub. L. 117–263, § 5588(h)(4), (13), redesignated par. (14) as (17) and inserted “, including key challenges or missteps,” after “lessons learned” and substituted “; and” for period at end.
+
+Subsec. (a)(18). Pub. L. 117–263, § 5588(h)(14), added par. (18).
+
 2018—Subsec. (a). Pub. L. 115–266 substituted, in introductory provisions, “During each of the first 7 years” for “Not later than 1 year and 2 years” and “at the end of the reporting period” for “for 2017 and 2018”.
 
 #### Delegation of Functions

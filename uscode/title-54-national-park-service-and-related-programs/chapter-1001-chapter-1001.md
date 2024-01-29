@@ -37,6 +37,9 @@ In subsection (a), the words “Secretary, acting through the Director of the Na
 
 In subsection (b)(1)(D), the words “this division” are substituted for “this Act” for clarity. The purpose of the Act of August 18, 1970 (known as the National Park System General Authorities Act) (Public Law 91–383, 84 Stat. 825), was to update and clarify the law with respect to the various units of the National Park System by enlarging the application of existing general statutes so that they apply uniformly to the administration of the various types of parklands within the national park system. See H. Rept. 91–1265 (91st Cong., 2d Sess.). However, section 2(b) of that Act, rather than being enacted as a new provision of law, amended section 2 of the Act of August 8, 1953 (ch. 384, 67 Stat. 496), and would not be included in the reference to “this Act” in section 1 of the Act of August 18, 1970. The revised subsection translates the reference to “this Act” to carry out the intent of the Act of August 18, 1970.
 
+#### Short Title of 2023 Amendment
+Pub. L. 117–339, § 1, Jan. 5, 2023, 136 Stat. 6158, provided that: “This Act [enacting chapter 1201 of this title and provisions set out as notes under sections 120101 and 120102 of this title, amending provisions listed in tables and set out as a note under [section 120102 of this title](./chapter-1201-chapter-1201.md#section-120102), and repealing provisions set out as a note under [section 120102 of this title](./chapter-1201-chapter-1201.md#section-120102)] may be cited as the ‘National Heritage Area Act’.”
+
 #### Short Title of 2020 Amendment
 Pub. L. 116–152, § 1, Aug. 4, 2020, 134 Stat. 682, provided that: “This Act [enacting chapter 2004 of this title and amending sections 200302, 200303, and 200306 of this title] may be cited as the ‘Great American Outdoors Act’.”
 

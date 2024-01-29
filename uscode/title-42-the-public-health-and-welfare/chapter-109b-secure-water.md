@@ -290,12 +290,15 @@ Pars. (13) to (19). Pub. L. 116–260, § 1106(a)(4), (5), added pars. (13) and 
 
 **(e) No effect on existing authority** Nothing in this section amends or otherwise affects any existing authority under reclamation laws that govern the operation of any Federal reclamation project.
 
-**(f) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023, to remain available until expended.
+**(f) Authorization of appropriations** There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2009 through 2023,11 See Extension of Authorization of Appropriations note below. to remain available until expended.
 
 ### Statutory Notes
 
 #### References in Text
 The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1531&num=0&edition=prelim) and Tables.
+
+#### Extension of Authorization of Appropriations
+Pub. L. 118–42, div. D, title II, § 207, Mar. 9, 2024, 138 Stat. 195, provided that: “Section 9503(f) of the Omnibus Public Land Management Act of 2009 ([42 U.S.C. 10363(f)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10363/f&num=0&edition=prelim)) shall be applied by substituting ‘2024’ for ‘2023’.”
 
 
 <a id="section-10364"></a>
@@ -438,7 +441,7 @@ The Endangered Species Act of 1973, referred to in subsec. (b)(3)(E), is Pub. L.
 
 **(d) Relationship to project-specific authority** This section shall not supersede any existing project-specific funding authority.
 
-**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $750,000,000,11 See Codification note below. to remain available until expended.
+**(e) Authorization of appropriations** There is authorized to be appropriated to carry out this section $920,000,000, to remain available until expended.
 
 ### Statutory Notes
 
@@ -451,7 +454,11 @@ Section 206 of the Energy and Water Development and Related Agencies Appropriati
 Pub. L. 116–260, § 203 and § 1106(d), both amended subsec. (e) of this section by striking “$530,000,000” and inserting different new dollar amounts. In addition, section 1106(d) inserted the following condition: “subject to the condition that $50,000,000 of that amount shall be used to carry out section 206 of the Energy and Water Development and Related Agencies Appropriations Act, 2015 ([43 U.S.C. 620](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section620&num=0&edition=prelim) note; Public Law 113–235)”. The amendment by section 1106(d) could not be executed as written because “$530,000,000” no longer appeared in text after the amendment by section 203, and therefore, the text does not reflect the insertion of the condition. Pub. L. 117–103, § 203, subsequently amended subsec. (e) as it read after the amendment by section 203 of Pub. L. 116–260.
 
 #### Amendments
-2022—Subsec. (e). Pub. L. 117–103 substituted “$750,000,000” for “$610,000,000”. See Codification note above.
+2024—Subsec. (e). Pub. L. 118–42 substituted “$920,000,000” for “$820,000,000”.
+
+2022—Subsec. (e). Pub. L. 117–328 substituted “$820,000,000” for “$750,000,000”.
+
+Pub. L. 117–103 substituted “$750,000,000” for “$610,000,000”. See Codification note above.
 
 2020—Subsec. (a)(1). Pub. L. 116–260, § 1106(b)(1)(A), inserted “or carrying out any activity” after “any improvement” in introductory provisions.
 

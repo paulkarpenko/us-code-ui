@@ -94,7 +94,7 @@ Sec. 5. Administration of the Council. (a) To the extent permitted by law, the D
 
 Sec. 6. Termination of the Council. Unless extended by the President, the Council shall terminate 2 years from the date of this order.
 
-Sec. 7. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+Sec. 7. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (Act), may apply to the Council, any functions of the President under the Act, except for those in section 6 of the Act, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -191,7 +191,7 @@ Sec. 5. Administration of the Council. (a) To the extent permitted by law, the D
 
 Sec. 6. [Termination of the Council.] Unless extended by the President, the Council shall terminate on January 29, 2013.
 
-Sec. 7. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+Sec. 7. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (the “Act”), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -282,7 +282,7 @@ Sec. 5. Administration of the Council. (a) To the extent permitted by law, the D
 
 Sec. 6. Termination of the Council. Unless extended by the President, the Council shall terminate 2 years after the date of this order.
 
-Sec. 7. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
+Sec. 7. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (the “Act”), may apply to the Council, any functions of the President under the Act, except for that of reporting to the Congress, shall be performed by the Secretary in accordance with the guidelines issued by the Administrator of General Services.
 
 (b) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -636,6 +636,9 @@ The Financial Literacy and Education Improvement Act, referred to in subsec. (a)
 
 #### Codification
 Section was enacted as part of the Higher Education Opportunity Act, and also as part of the Private Student Loan Transparency and Improvement Act of 2008, and not as part of the Financial Literacy and Education Improvement Act which comprises this chapter.
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Definitions
 Pub. L. 110–315, title X, § 1041, Aug. 14, 2008, 122 Stat. 3489, provided that: “As used in this subtitle [subtitle D (§§ 1041, 1042) of title X of Pub. L. 110–315, enacting this section]— “(1) the terms ‘covered educational institution’, ‘private educational lender’, and ‘private education loan’ have the same meanings as in section 140 of the Truth in Lending Act [[15 U.S.C. 1650](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1650&num=0&edition=prelim)], as added by this Act; “(2) the term ‘historically Black colleges and universities’ means a ‘part B institution’, within the meaning of section 322 of the Higher Education Act of 1965 ([20 U.S.C. 1061](./chapter-028-higher-education-resources-and-student-assistance.md#section-1061)))[sic]; and “(3) the term ‘land-grant colleges and universities’ has the same meaning as in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 ([7 U.S.C. 3103](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section3103&num=0&edition=prelim)).”

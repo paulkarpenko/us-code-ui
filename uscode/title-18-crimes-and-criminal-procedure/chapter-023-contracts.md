@@ -233,7 +233,7 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 (2) **Exception for mutual funds, unit investment trusts, employee benefit plans, and retirement plans.—** — It shall not be a violation of paragraph (1) for an individual who is described in such paragraph to have an interest in a diversified mutual fund, diversified unit investment trust, employee benefit plan, investment fund under the Thrift Savings Plan under subchapter III of chapter 84 of title 5, or pension plan established or maintained by a State government or any political subdivision of a State government for its employees that has 1 or more holdings that are printing-related interests if the fund, trust, or plan does not exhibit a practice of concentrating in printing-related interests.
 
-(3) **Authority of supervising ethics office.—** — The supervising ethics office for the Government Publishing Office under the Ethics in Government Act of 1978 (5 U.S.C. App.) shall have the authority to issue rules and promulgate regulations governing the implementation of this subsection.
+(3) **Authority of supervising ethics office.—** — The supervising ethics office for the Government Publishing Office under the Ethics in Government Act of 1978 (5 U.S.C. App.) 22 See References in Text note below. shall have the authority to issue rules and promulgate regulations governing the implementation of this subsection.
 
 **(c) Penalty.—** Whoever violates subsection (b)(1) shall be fined under this title, imprisoned for not more than 1 year, or both.
 
@@ -253,7 +253,7 @@ Mandatory punishment provision was rephrased in the alternative.
 The offense described in this section involves no moral turpitude, and therefore the punishment provisions were reduced from 5 years to 1 year, so that the stigma of a felony would not attach to an offender. The fine was increased from $500 to $1,000 as more proportionate to the 1-year term of imprisonment. (See classification of felony and misdemeanor in [section 1 of this title](./chapter-001-general-provisions.md#section-1) and note thereunder.)
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (b)(3), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Titles I, IV, and V of the Act were classified principally to the Appendix to Title 5, Government Organization and Employees, and were substantially repealed and restated in chapter 131 (§ 13101 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(c), 7, Dec. 27, 2022, 136 Stat. 4266, 4361. For complete classification of this Act to the Code, see Tables. For disposition of sections of the Act into chapter 131 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Amendments
 2019—Pub. L. 116–78 amended section generally. Prior to amendment, text read as follows:

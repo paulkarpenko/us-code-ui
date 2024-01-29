@@ -107,7 +107,7 @@ Amendment by Pub. L. 114–92 effective Jan. 1, 2018, with certain implementatio
 Amendment by Pub. L. 108–136 effective Oct. 1, 2003, with Secretary of Defense to provide for certain administrative adjustments, see section 641(c)(6) of Pub. L. 108–136, set out as a note under [section 1413a of this title](./chapter-071-computation-of-retired-pay.md#section-1413a).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1996 Amendment
 Pub. L. 104–106, div. A, title XV, § 1501(c), Feb. 10, 1996, 110 Stat. 498, provided that the amendment made by that section is effective as of Dec. 1, 1994, and as if included as an amendment made by the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as originally enacted.

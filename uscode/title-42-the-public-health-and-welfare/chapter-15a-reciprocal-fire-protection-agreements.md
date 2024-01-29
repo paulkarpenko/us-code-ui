@@ -111,7 +111,7 @@ Section was enacted as part of the Agricultural Act of 2014, and not as part of 
 Section is comprised of section 8304 of Pub. L. 113–79. Subsec. (f) of section 8304 of Pub. L. 113–79 amended [section 1856d of this title](./chapter-15a-reciprocal-fire-protection-agreements.md#section-1856d).
 
 #### Definition of “Secretary”
-“Secretary” as meaning the Secretary of Agriculture, see [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
+“Secretary” means the Secretary of Agriculture, see [section 9001 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section9001&num=0&edition=prelim), Agriculture.
 
 
 <a id="section-1856m"></a>

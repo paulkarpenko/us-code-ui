@@ -178,7 +178,7 @@ Pars. (12), (13). Pub. L. 109–469, § 101(g), added pars. (12) and (13).
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Short Title of 2019 Amendment
 Pub. L. 116–74, § 1, Nov. 27, 2019, 133 Stat. 1155, provided that: “This Act [see Tables for classification] may be cited as the ‘ONDCP Technical Corrections Act of 2019’.”
@@ -314,9 +314,11 @@ Subsec. (b). Pub. L. 109–469, § 102(b), amended subsec. (b) generally. Prior 
 1998—Pub. L. 105–277, § 715, as amended by Pub. L. 109–469, § 602, which provided for the repeal of this section effective Sept. 30, 2010, was repealed by Pub. L. 115–271, § 8202(b)(2). See former [section 1712 of this title](./chapter-022-national-drug-control-policy.md#section-1712).
 
 #### Gifts to Office of National Drug Control Policy
-Pub. L. 117–103, div. E, title II, Mar. 15, 2022, 136 Stat. 253, provided that: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
+Pub. L. 117–328, div. E, title II, Dec. 29, 2022, 136 Stat. 4664, provided in part: “That the Office [of National Drug Control Policy] is authorized to accept, hold, administer, and utilize gifts, both real and personal, public and private, without fiscal year limitation, for the purpose of aiding or facilitating the work of the Office.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 117–103, div. E, title II, Mar. 15, 2022, 136 Stat. 253.
 
 Pub. L. 116–260, div. E, title II, Dec. 27, 2020, 134 Stat. 1394.
 
@@ -1356,7 +1358,7 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
 (4) evaluates the contribution of demand reduction and supply reduction activities as defined in [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) implemented by each National Drug Control Program agency in support of the National Drug Control Strategy;
 
-(5) monitors consistency between the drug-related goals and objectives of the National Drug Control Program agencies and ensures that each agency’s goals and budgets support and are fully consistent with the National Drug Control Strategy; and
+(5) monitors consistency between the drug-related goals and objectives of the National Drug Control Program agencies and ensures that each agency’s goals and budgets support and are fully consistent with the National Drug Control Strategy;
 
 (6) coordinates the development and implementation of national drug control data collection and reporting systems to support policy formulation and performance measurement, including an assessment of—
 
@@ -1366,7 +1368,9 @@ Subsec. (c). Pub. L. 109–469, § 104(6), substituted “on” for “in”.
 
   (C) the adequacy of the coverage of existing national treatment outcome monitoring systems to measure the effectiveness of drug abuse treatment in reducing illicit drug use and criminal behavior during and after the completion of substance abuse treatment; and
 
-  (D) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection.
+  (D) the actions the Director shall take to correct any deficiencies and limitations identified pursuant to subparagraphs (A) and (B) of this subsection; and
+
+(7) develops performance measures and targets for the National Drug Control Strategy for supplemental strategies (the Southwest Border, Northern Border, and Caribbean Border Counternarcotics Strategies) to effectively evaluate region-specific goals, to the extent the performance measurement system does not adequately measure the effectiveness of the strategies, as determined by the Director, such strategies may evaluate interdiction efforts at and between ports of entry, interdiction technology, intelligence sharing, diplomacy, and other appropriate metrics, specific to each supplemental strategies region, as determined by the Director.
 
 **(i) Modifications** A description of any modifications made during the preceding year to the national drug performance measurement system described in subsection (c) 44 Probably should be “(h)”. shall be included in each report submitted under subsection (b).55 Probably should be “(d)”.
 
@@ -1378,6 +1382,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (f)(3)(A)(i)(IV
 This chapter, referred to in subsec. (g)(2), (3)(B), was in the original “this title”, meaning title VII of div. C of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under [section 1701 of this title](./chapter-022-national-drug-control-policy.md#section-1701) and Tables.
 
 #### Amendments
+2022—Subsec. (h)(7). Pub. L. 117–263 added par. (7).
+
 2019—Pub. L. 116–74, § 2(c)(1)(B), amended directory language of Pub. L. 115–271, § 8221(a). See 2018 Amendment note below.
 
 Pub. L. 116–74, § 2(a)(2), substituted “National Drug Control Program agencies” for “National Drug Control Program Agencies” wherever appearing.

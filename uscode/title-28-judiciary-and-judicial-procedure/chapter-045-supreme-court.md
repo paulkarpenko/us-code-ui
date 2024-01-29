@@ -237,9 +237,13 @@ This section corrects a grammatical error in subsection (a) of [section 676 of t
 
 (4) In the administration of this subsection, the Counselor shall ensure that the acceptance of personal services shall not result in the reduction of pay or displacement of any employee of the Supreme Court.
 
+**(d)** The Counselor, with the approval of the Chief Justice, shall establish a retention and recruitment program that is consistent with section 908 of the Emergency Supplemental Act, 2002 ([2 U.S.C. 1926](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section1926&num=0&edition=prelim)) for Supreme Court Police officers and other critical employees who agree in writing to remain employed with the Supreme Court for a period of service of not less than two years.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–328 added subsec. (d).
+
 2008—Pub. L. 110–402, § 1(b)(3)(A)(i), substituted “Counselor” for “Administrative Assistant” in section catchline.
 
 Subsec. (a). Pub. L. 110–402, § 1(b)(3)(A)(ii), substituted “a Counselor” for “an Administrative Assistant” in first sentence and “Counselor” for “Administrative Assistant” in second and third sentences.

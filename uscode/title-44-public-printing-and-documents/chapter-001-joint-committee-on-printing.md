@@ -26,7 +26,12 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 #### Change of Name
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–31, div. E, title LIII, § 5301, Dec. 22, 2023, 137 Stat. 940, provided that: “This title [enacting and amending provisions set out as notes under [section 3601 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3601)] may be cited as the ‘Federal Data Center Enhancement Act of 2023’.”
+
 #### Short Title of 2022 Amendment
+Pub. L. 117–263, div. E, title LIX, § 5921(a), Dec. 23, 2022, 136 Stat. 3449, provided that: “This section [enacting and repealing sections 3607 to 3616 of this title and enacting provisions set out as notes under [section 3607 of this title](./chapter-036-management-and-promotion-of-electronic-government-services.md#section-3607) and preceding [section 101 of this title](./chapter-001-joint-committee-on-printing.md#section-101)] may be cited as the ‘FedRAMP Authorization Act’.”
+
 Pub. L. 117–222, § 1, Dec. 5, 2022, 136 Stat. 2279, provided that: “This Act [amending provisions set out as a note under [section 2107 of this title](./chapter-021-national-archives-and-records-administration.md#section-2107)] may be cited as the ‘Civil Rights Cold Case Investigations Support Act of 2022’.”
 
 #### Short Title of 2021 Amendment

@@ -118,7 +118,7 @@ the President, shall take all appropriate and feasible action under the Trade Ac
 #### References in Text
 Section 854(a) of the Trade Agreements Act of 1979, referred to in subsec. (b)(1), is section 854(a) of Pub. L. 96–39, title VIII, July 26, 1979, 93 Stat. 294, which is set out as a note under [section 2135 of this title](./chapter-012-trade-act-of-1974.md#section-2135).
 
-The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in subsecs. (b)(1)(C)(i) and (c), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 #### Reports on Negotiations To Eliminate Wine Trade Barriers
 Pub. L. 100–418, title I, § 1125, Aug. 23, 1988, 102 Stat. 1147, provided that before the close of the 13-month period beginning on Aug. 23, 1988, the President was to update each report submitted to Congress under this section and submit the updated report to Congress, with specified information included.
@@ -140,7 +140,7 @@ The Trade Representative shall consult with the Committees and with representati
 ### Statutory Notes
 
 #### References in Text
-The Trade Act of 1974, referred to in par. (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
+The Trade Act of 1974, referred to in par. (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§ 2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under [section 2101 of this title](./chapter-012-trade-act-of-1974.md#section-2101) and Tables.
 
 
 <a id="section-2806"></a>

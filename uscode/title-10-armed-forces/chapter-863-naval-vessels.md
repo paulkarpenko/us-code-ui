@@ -2,7 +2,7 @@
 title: 10
 chapter: '863'
 heading: NAVAL VESSELS
-section_count: 40
+section_count: 42
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -25,10 +25,10 @@ The President may establish, and from time to time modify, as the needs of the s
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Policy of the United States on Minimum Number of Battle Force Ships
-Pub. L. 115–91, div. A, title X, § 1025, Dec. 12, 2017, 131 Stat. 1549, provided that: “(a) Policy.—It shall be the policy of the United States to have available, as soon as practicable, not fewer than 355 battle force ships, comprised of the optimal mix of platforms, with funding subject to the availability of appropriations or other funds. “(b) Battle Force Ships Defined.—In this section, the term ‘battle force ship’ has the meaning given the term in Secretary of the Navy Instruction 5030.8C.”
+Pub. L. 115–91, div. A, title X, § 1025, Dec. 12, 2017, 131 Stat. 1549, as amended by Pub. L. 118–31, div. A, title X, § 1020, Dec. 22, 2023, 137 Stat. 385, provided that: “(a) Policy.—It shall be the policy of the United States—“(1) to have available, as soon as practicable, not fewer than 355 battle force ships, comprised of the optimal mix of platforms, with funding subject to the availability of appropriations or other funds; and “(2) that the United States shipbuilding defense industrial base is fundamental to achieving the shipbuilding requirements of the Navy and constitutes a unique national security imperative that requires sustainment and support by the Navy and Congress. “(b) Battle Force Ships Defined.—In this section, the term ‘battle force ship’ has the meaning given the term in Secretary of the Navy Instruction 5030.8C.”
 
 #### Metering of Navy Piers to Accurately Measure Energy Consumption
-Pub. L. 112–81, div. B, title XXVIII, § 2828, Dec. 31, 2011, 125 Stat. 1694, provided that: “(a) Metering Required.—The Secretary of the Navy shall meter Navy piers so that the energy consumption of naval vessels while in port can be accurately measured and captured and steps taken to improve the efficient use of energy by naval vessels while in port. “(b) Progress Reports.—In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under [section 2925(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/a&num=0&edition=prelim), United States Code, the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering.”
+Pub. L. 112–81, div. B, title XXVIII, § 2828, Dec. 31, 2011, 125 Stat. 1694, provided that: “(a) Metering Required.—The Secretary of the Navy shall meter Navy piers so that the energy consumption of naval vessels while in port can be accurately measured and captured and steps taken to improve the efficient use of energy by naval vessels while in port. “(b) Progress Reports.—In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under [section 2925(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/a&num=0&edition=prelim), United States Code [[section 2925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/a&num=0&edition=prelim) struck out, and new [section 2925(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2925/a&num=0&edition=prelim) added, by Pub. L. 117–263, § 314(b)(1)(B)], the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering.”
 
 #### Advance Procurement Funding
 Pub. L. 111–84, div. A, title I, § 124(a), Oct. 28, 2009, 123 Stat. 2214, provided that: “(a) Advance Procurement.—With respect to a naval vessel for which amounts are authorized to be appropriated or otherwise made available for fiscal year 2010 or any fiscal year thereafter for advance procurement in shipbuilding and conversion, Navy, the Secretary of the Navy may enter into a contract, in advance of a contract for construction of any vessel, for any of the following:“(1) Components, parts, or materiel. “(2) Production planning and other related support services that reduce the overall procurement lead time of such vessel.”
@@ -59,9 +59,7 @@ Pub. L. 89–37, title III, § 301, June 11, 1965, 79 Stat. 128, provided that: 
 ## § 8662. Naming
 **(a)** Not more than one vessel of the Navy may have the same name.
 
-**(b)** Each battleship shall be named for a State. However, if the names of all the States are in use, a battleship may be named for a city, place, or person.
-
-**(c)** The Secretary of the Navy may change the name of any vessel bought for the Navy.
+**(b)** The Secretary of the Navy may change the name of any vessel bought for the Navy.
 
 ### Statutory Notes
 
@@ -82,6 +80,8 @@ In subsection (c) the words “by authority of law” are omitted as surplusage.
 A prior section 8662, act Aug. 10, 1956, ch. 1041, 70A Stat. 533, provided for military training, organization, and equipping of prisoners who have been sent to United States Disciplinary Barracks, prior to repeal by Pub. L. 90–377, § 6(3), July 5, 1968, 82 Stat. 288.
 
 #### Amendments
+2023—Subsecs. (b), (c). Pub. L. 118–31 redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Each battleship shall be named for a State. However, if the names of all the States are in use, a battleship may be named for a city, place, or person.”
+
 2018—Pub. L. 115–232 renumbered [section 7292 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section7292&num=0&edition=prelim) as this section.
 
 2015—Subsec. (d). Pub. L. 114–92 struck out subsec. (d) which read as follows:
@@ -792,9 +792,9 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 
 **(b) Waiver.—** The Secretary of the Navy may waive the limitation under subsection (a) with respect to a battle force ship if—
 
-(1) the Secretary submits to the congressional defense committees the certification described in subsection (c) with respect to such ship; and
+(1) the Secretary submits to the congressional defense committees the certification described in subsection (c) with respect to such ship by not later than three days after the date on which the President submits the budget materials under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for the fiscal year in which such waiver is sought; and
 
-(2) a period of 30 days has elapsed following the date on which such certification was submitted.
+(2) a period of 30 days has elapsed following the date on which the National Defense Authorization Act for such fiscal year is enacted.
 
 **(c) Certification Described.—** A certification described in this subsection is a certification that—
 
@@ -827,6 +827,16 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
   (B) A United States Naval Ship that contributes directly to Navy warfighting or support missions.
 
 (2) The term “expected service life” means the number of years a naval vessel is expected to be in service.
+
+### Statutory Notes
+
+#### Amendments
+2022—Subsec. (b)(1). Pub. L. 117–263, § 1024(a)(1), inserted “by not later than three days after the date on which the President submits the budget materials under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim) for the fiscal year in which such waiver is sought” after “such ship”.
+
+Subsec. (b)(2). Pub. L. 117–263, § 1024(a)(2), substituted “the National Defense Authorization Act for such fiscal year is enacted” for “such certification was submitted”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. A, title X, § 1024(b), Dec. 23, 2022, 136 Stat. 2764, provided that: “The amendments made by subsection (a) [amending this section] do not apply to a battle force ship (as such term is defined in [section 8678a(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8678a/e/1&num=0&edition=prelim), United States Code) that is proposed to be decommissioned or inactivated during fiscal year 2023.”
 
 
 <a id="section-8679"></a>
@@ -913,7 +923,31 @@ For delegation of authority of President under subsec. (b) of this section, see 
 
   (B) to be for a period of more than six months.
 
-**(c) Report.—**
+**(c) Repair and Refurbishment of Certain Submarines.—**
+
+(1) Notwithstanding any other provision of this section, and subject to paragraph (2), the President shall determine the appropriate public or private shipyard in the United States, Australia, or the United Kingdom to perform any repair or refurbishment of a United States submarine involved in submarine security activities between the United States, Australia, and the United Kingdom.
+
+(2)
+
+  (A) The President may determine under paragraph (1) that repair or refurbishment described in such paragraph may be performed in Australia or the United Kingdom only if—
+
+    (i) such repair or refurbishment will facilitate the development of repair or refurbishment capabilities in the United Kingdom or Australia;
+
+    (ii) such repair or refurbishment will be for a United States submarine that is operating forward outside of the United States; or
+
+    (iii) the Secretary of Defense certifies to Congress that performing such repair or refurbishment at a shipyard in Australia or the United Kingdom is required due to an exigent threat to the national security interests of the United States.
+
+  (B) In making a determination under subparagraph (A), the President shall consider any effects of such determination on the capacity and capability of shipyards in the United States.
+
+  (C) Not later than 15 days after the date on which the Secretary of Defense makes a certification under subparagraph (A)(iii), the Secretary shall brief the congressional defense committees on—
+
+    (i) the threat that requires the use of a shipyard in Australia or the United Kingdom; and
+
+    (ii) opportunities to mitigate the future potential need to leverage foreign shipyards.
+
+(3) Repair or refurbishment described in paragraph (1) may be carried out by personnel and contractors of the United States, the United Kingdom, or Australia in accordance with the international arrangements governing the submarine security activities described in such paragraph.
+
+**(d) Report.—**
 
 (1) The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
 
@@ -952,6 +986,8 @@ For delegation of authority of President under subsec. (b) of this section, see 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsecs. (c), (d). Pub. L. 118–31 added subsec. (c) and redesignated former subsec. (c) as (d).
+
 2021—Subsec. (a)(1). Pub. L. 116–283, § 1025(a)(1), struck out “, other than in the case of voyage repairs” after “outside the United States or Guam”.
 
 Subsec. (a)(2)(B)(i). Pub. L. 116–283, § 1025(b), designated existing provisions as subcl. (I) and added subcls. (II) and (III).
@@ -1506,6 +1542,9 @@ Pub. L. 117–81, § 1015(b)(1), (3), designated existing provisions as subsec. 
 
 Subsec. (a)(7). Pub. L. 117–81, § 1015(b)(2), added par. (7).
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-8694"></a>
 ## § 8694. Annual report on ship maintenance
@@ -1604,7 +1643,251 @@ Subsec. (a)(7). Pub. L. 117–81, § 1015(b)(2), added par. (7).
 
   (D) Assigned missions that affect the type or quantity of force elements.
 
+**(e) Responsibilities of Commandant of Marine Corps.—** In preparing each assessment and requirement under subsection (a), the Commandant of the Marine Corps shall be specifically responsible for developing the requirements relating to amphibious warfare ships and for naval vessels with the primary mission of transporting Marines.
+
 ### Statutory Notes
+
+#### Amendments
+2023—Subsec. (e). Pub. L. 118–31 substituted “Responsibilities of Commandant of Marine Corps” for “Amphibious Warfare Ships” in heading and inserted “and for naval vessels with the primary mission of transporting Marines” before period at end.
+
+2022—Subsec. (e). Pub. L. 117–263 added subsec. (e).
 
 #### Baseline Assessment and Requirement Required
 Pub. L. 117–81, div. A, title X, § 1017(c), Dec. 27, 2021, 135 Stat. 1897, provided that: “The date of the enactment of this Act [Dec. 27, 2021] is deemed to be a covered event for the purposes of establishing a baseline battle force ship assessment and requirement under [section 8695 of title 10](./chapter-863-naval-vessels.md#section-8695), United States Code, as added by subsection (a) [enacting this section].”
+
+
+<a id="section-8696"></a>
+## § 8696. Navy shipbuilding workforce development special incentive
+**(a) Requirement.—**
+
+(1) **In general.—** — The Secretary of the Navy shall include in any solicitation for a covered contract a special incentive for workforce development that funds one or more workforce development activities described in subsection (c).
+
+(2) **Amount of special incentive.—** — The amount of a special incentive required under subsection (a)(1) shall be equal to not less than one quarter of one percent and not more than one percent of the estimated cost of the covered contract.
+
+(3) **Waiver.—**
+
+  (A) *In general.—* — The Secretary of the Navy may waive one or more of the requirements of this section if the Secretary determines—
+
+    (i) unreasonable cost or delay would be incurred by complying with such requirements;
+
+    (ii) existing workforce development initiatives are sufficient to meet workforce needs;
+
+    (iii) there are minimal workforce development issues to be addressed; or
+
+    (iv) it is not in the national security interests of the United States to comply with such requirements.
+
+  (B) *Notice to congress.—* — Not less than 30 days prior to issuing a waiver under subparagraph (A), the Secretary of the Navy shall submit to the congressional defense committees written notice of the intent of the Secretary to issue such a waiver. Such notice shall specify the basis for such waiver and include a detailed explanation of the reasons for issuing the waiver.
+
+**(b) Matching Contribution Requirement.—**
+
+(1) **In general.—** — Funds for a special incentive for workforce development required under subsection (a)(1) may be expended only—
+
+  (A) on or after the date on which the service acquisition executive of the Navy receives a written commitment from one or more entities described in paragraph (2) of separate and distinct cumulative monetary contributions to be made on or after the date of such commitment for workforce development; and
+
+  (B) in an amount that is equal to the aggregate amount of all monetary contributions from entities that made commitments under subparagraph (A) not to exceed the amount of funding made available for the special incentive under subsection (a)(2).
+
+(2) **Entities described.—** — The entities described in this paragraph are the following:
+
+  (A) The prime contractor that was awarded a covered contract.
+
+  (B) A qualified subcontractor.
+
+  (C) A State government or other State entity.
+
+  (D) A county government or other county entity.
+
+  (E) A local government or other local entity.
+
+  (F) An industry association, organization, or consortium that directly supports workforce development.
+
+(3) **Special rule.—** — In a case in which the aggregate amount of all monetary contributions from entities that made commitments under paragraph (1)(A) is less than the minimum amount specified for the special incentive under subsection (a)(2), funds for the special incentive may be expended in an amount equal to such lesser amount.
+
+**(c) Authorized Activities.—**
+
+(1) **In general.—** — Funds for a special incentive for workforce development required under subsection (a)(1) may be obligated or expended only to provide for the activities described in paragraph (2) in support of the production and production support workforce of the prime contractor concerned or a qualified subcontractor concerned.
+
+(2) **Activities described.—** — The activities described in this paragraph are the following:
+
+  (A) The creation of short- and long-term workforce housing, transportation, and other support services to facilitate attraction, relocation, and retention of workers.
+
+  (B) The expansion of local talent pipeline programs for both new and existing workers.
+
+  (C) Investments in long-term outreach in middle school and high school programs, specifically career and technical education programs, to promote and develop manufacturing skills.
+
+  (D) The development or modification of facilities for the primary purpose of workforce development.
+
+  (E) Payment of direct costs attributable to workforce development.
+
+  (F) Attraction and retention bonus programs.
+
+  (G) On-the-job training to develop key manufacturing skills.
+
+**(d) Approval Requirement.—** The service acquisition executive of the Navy shall—
+
+(1) provide the final approval of the use of funds for a special incentive for workforce development required under subsection (a)(1); and
+
+(2) not later than 30 days after the date on which such approval is provided, certify to the congressional defense committees compliance with the requirements of subsections (b) and (c), including—
+
+  (A) a detailed explanation of such compliance; and
+
+  (B) the associated benefits to—
+
+    (i) the Federal Government; and
+
+    (ii) the shipbuilding industrial base of the Navy.
+
+**(e) Definitions.—** In this section:
+
+(1) The term “covered contract” means a prime contract for the construction of a naval vessel funded using amounts appropriated or otherwise made available for Shipbuilding and Conversion, Navy.
+
+(2) The term “qualified subcontractor” means a subcontractor that will deliver the vessel or vessels awarded under a covered contract to the Navy.
+
+### Statutory Notes
+
+#### Codification
+Another section 8696 was renumbered [section 8697 of this title](./chapter-863-naval-vessels.md#section-8697).
+
+#### Effective Date
+Pub. L. 117–263, div. A, title I, § 122(c), Dec. 23, 2022, 136 Stat. 2443, provided that: “[Section 8696 of title 10](./chapter-863-naval-vessels.md#section-8696), United States Code, as added by subsection (a), shall apply with respect to— “(1) a solicitation for a covered contract (as defined in subsection (e) of that section) made on or after June 1, 2023; and “(2) a solicitation or award of a covered contract, if otherwise determined appropriate by the Secretary of the Navy.”
+
+
+<a id="section-8697"></a>
+## § 8697. Battle force ship employment, maintenance, and manning baseline plans
+**(a) In General.—** Not later than 45 days after the date of the delivery of the first ship in a new class of battle force ships, the Secretary of the Navy shall submit to the congressional defense committees a report on the employment, maintenance, and manning baseline plans for the class, including a description of the following:
+
+(1) The sustainment and maintenance plans for the class that encompass the number of years the class is expected to be in service, including—
+
+  (A) the allocation of maintenance tasks among organizational, intermediate, depot, or other activities;
+
+  (B) the planned duration and interval of maintenance for all depot-level maintenance availabilities; and
+
+  (C) the planned duration and interval of drydock maintenance periods.
+
+(2) Any contractually required integrated logistics support deliverables for the ship, including technical manuals, and an identification of—
+
+  (A) the deliverables provided to the Government on or before the delivery date; and
+
+  (B) the deliverables not provided to the Government on or before the delivery date and the expected dates those deliverables will be provided to the Government.
+
+(3) The planned maintenance system for the ship, including—
+
+  (A) the elements of the system, including maintenance requirement cards, completed on or before the delivery date;
+
+  (B) the elements of the system not completed on or before the delivery date and the expected completion date of those elements; and
+
+  (C) the plans to complete planned maintenance from the delivery date until all elements of the system have been completed.
+
+(4) The coordinated shipboard allowance list for the class, including—
+
+  (A) the items on the list onboard on or before the delivery date; and
+
+  (B) the items on the list not onboard on or before the delivery date and the expected arrival date of those items.
+
+(5) The ship manpower document for the class, including—
+
+  (A) the number of officers by grade and designator; and
+
+  (B) the number of enlisted personnel by rate and rating.
+
+(6) The personnel billets authorized for the ship for the fiscal year in which the ship is delivered and each of the four fiscal years thereafter, including—
+
+  (A) the number of officers by grade and designator; and
+
+  (B) the number of enlisted personnel by rate and rating.
+
+(7) Programmed funding for manning and end strength on the ship for the fiscal year in which the ship is delivered and each of the four fiscal years thereafter, including—
+
+  (A) the number of officers by grade and designator; and
+
+  (B) the number of enlisted personnel by rate and rating.
+
+(8) Personnel assigned to the ship on the delivery date, including—
+
+  (A) the number of officers by grade and designator; and
+
+  (B) the number of enlisted personnel by rate and rating.
+
+(9) For each critical hull, mechanical, electrical, propulsion, and combat system of the class as so designated by the Senior Technical Authority pursuant to [section 8669b(c)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8669b/c/2/C&num=0&edition=prelim), the following:
+
+  (A) The Government-provided training available for personnel assigned to the ship at the time of delivery, including the nature, objectives, duration, and location of the training.
+
+  (B) The contractor-provided training available for personnel assigned to the ship at the time of delivery, including the nature, objectives, duration, and location of the training.
+
+  (C) Plans to adjust how the training described in subparagraphs (A) and (B) will be provided to personnel after delivery, including the nature and timeline of those adjustments.
+
+(10) The notional employment schedule of the ship for each month of the fiscal year in which the ship is delivered and each of the four fiscal years thereafter, including an identification of time spent in the following phases:
+
+  (A) Basic.
+
+  (B) Integrated or advanced.
+
+  (C) Deployment.
+
+  (D) Maintenance.
+
+  (E) Sustainment.
+
+**(b) Notification Required.—** Not less than 30 days before implementing a significant change to the baseline plans described in subsection (a) or any subsequent significant change, the Secretary of the Navy shall submit to the congressional defense committees written notification of the change, including for each such change the following:
+
+(1) An explanation of the change.
+
+(2) The desired outcome.
+
+(3) The rationale.
+
+(4) The duration.
+
+(5) The operational effects.
+
+(6) The budgetary effects, including—
+
+  (A) for the year in which the change is made;
+
+  (B) over the five years thereafter; and
+
+  (C) over the expected service life of the relevant class of battle force ships.
+
+(7) The personnel effects, including—
+
+  (A) for the year in which the change is made;
+
+  (B) over the five years thereafter; and
+
+  (C) over the expected service life of the relevant class of battle force ships.
+
+(8) The sustainment and maintenance effects, including—
+
+  (A) for the year in which the change is made;
+
+  (B) over the five years thereafter; and
+
+  (C) over the expected service life of the relevant class of battle force ships.
+
+**(c) Treatment of Certain Ships.—**
+
+(1) For the purposes of this section, the Secretary of the Navy shall treat as the first ship in a new class of battle force ships the following:
+
+  (A) U.S.S. John F. Kennedy (CVN–79).
+
+  (B) U.S.S. Michael Monsoor (DDG–1001).
+
+  (C) U.S.S. Jack H. Lucas (DDG–125).
+
+(2) For each ship described in paragraph (1), the Senior Technical Authority shall identify critical systems for the purposes of subsection (a)(9).
+
+**(d) Definitions.—** In this section:
+
+(1) The term “battle force ship” means the following:
+
+  (A) A commissioned United States Ship warship capable of contributing to combat operations.
+
+  (B) A United States Naval Ship that contributes directly to Navy warfighting or support missions.
+
+(2) The term “delivery” has the meaning provided for in [section 8671 of this title](./chapter-863-naval-vessels.md#section-8671).
+
+(3) The term “Senior Technical Authority” has the meaning provided for in [section 8669b of this title](./chapter-863-naval-vessels.md#section-8669b).
+
+### Statutory Notes
+
+#### Amendments
+2023—Pub. L. 118–31 renumbered [section 8696 of this title](./chapter-863-naval-vessels.md#section-8696) relating to battle force ship employment, maintenance, and manning baseline plans as this section.

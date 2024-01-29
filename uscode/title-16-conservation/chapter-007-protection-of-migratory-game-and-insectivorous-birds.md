@@ -880,7 +880,7 @@ Pub. L. 109–266, §§ 2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
 ## § 718a. Prohibition on taking
 **(a) Prohibition**
 
-(1) **In general** — Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, validated by the signature of the individual written in ink across the face of the stamp prior to the time of the taking by the individual of the waterfowl.
+(1) **In general** — Except as provided in paragraph (2), no individual who has attained the age of 16 years shall take any migratory waterfowl unless, at the time of the taking, the individual carries on the person of the individual a valid Migratory Bird Hunting and Conservation Stamp, as an electronic stamp (as defined in section 718o of this title) or validated by the signature of the individual written in ink across the face of the actual stamp (as defined in that section) prior to the time of the taking by the individual of the waterfowl.
 
 (2) **Exception** — No stamp described in paragraph (1) shall be required for the taking of migratory waterfowl—
 
@@ -903,6 +903,8 @@ Pub. L. 109–266, §§ 2–9, Aug. 3, 2006, 120 Stat. 670–673, provided that:
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (a)(1). Pub. L. 118–25 inserted “as an electronic stamp (as defined in section 718o of this title) or” after “Conservation Stamp,” and substituted “face of the actual stamp (as defined in that section)” for “face of the stamp”.
+
 2014—Subsec. (a)(2)(D). Pub. L. 113–264 added subpar. (D).
 
 2006—Pub. L. 109–266 amended section generally. Prior to amendment, section related to hunting and conservation stamp for taking migratory waterfowl.
@@ -1320,7 +1322,7 @@ On and after October 21, 1998, all fees collected for Federal migratory bird per
 
 In this subchapter:
 
-(1) **Actual stamp** — The term “actual stamp” means a Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 ([16 U.S.C. 718a](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718a) et seq.) (popularly known as the “Duck Stamp Act”), that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
+(1) **Actual stamp** — The term “actual stamp” means a Migratory Bird Hunting and Conservation Stamp required under the Migratory Bird Hunting and Conservation Stamp Act ([16 U.S.C. 718a](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718a) et seq.) that is printed on paper and sold through the means established by the authority of the Secretary immediately before December 18, 2014.
 
 (2) **Automated licensing system**
 
@@ -1336,16 +1338,26 @@ In this subchapter:
 
   (C) is issued through a State automated licensing system that is authorized, under State law and by the Secretary under this subchapter, to issue electronic stamps;
 
-  (D) is compatible with the hunting licensing system of the State that issues the electronic stamp; and
+  (D) is compatible with the hunting licensing system of the State that issues the electronic stamp;
 
-  (E) is described in the State application approved by the Secretary under [section 718q(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718q/b&num=0&edition=prelim).
+  (E) is described in the State application approved by the Secretary under [section 718q(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718q/b&num=0&edition=prelim); and
+
+  (F) may contain an image of the actual stamp.
 
 (4) **Secretary** — The term “Secretary” means the Secretary of the Interior.
 
 ### Statutory Notes
 
 #### References in Text
-The Act of March 16, 1934, referred to in par. (1), is act Mar. 16, 1934, ch. 71, 48 Stat. 451, known as the Migratory Bird Hunting and Conservation Stamp Act, and also popularly known as the Duck Stamp Act, which is classified generally to subchapter IV (§ 718 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718) and Tables.
+The Migratory Bird Hunting and Conservation Stamp Act, referred to in par. (1), is act Mar. 16, 1934, ch. 71, 48 Stat. 451, which is classified generally to subchapter IV (§ 718 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 718 of this title](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718) and Tables.
+
+#### Amendments
+2023—Par. (1). Pub. L. 118–25, § 2(b)(1), substituted “Migratory Bird Hunting and Conservation Stamp required under the Migratory Bird Hunting and Conservation Stamp Act ([16 U.S.C. 718a](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718a) et seq.) that is printed” for “Federal migratory-bird hunting and conservation stamp required under the Act of March 16, 1934 ([16 U.S.C. 718a](./chapter-007-protection-of-migratory-game-and-insectivorous-birds.md#section-718a) et seq.) (popularly known as the ‘Duck Stamp Act’), that is printed”.
+
+Par. (3)(F). Pub. L. 118–25, § 2(b)(2), added subpar. (F).
+
+#### Short Title of 2023 Amendment
+Pub. L. 118–25, § 1, Dec. 19, 2023, 137 Stat. 129, provided that: “This Act [amending this section and sections 718a, 718r, and 718s of this title] may be cited as the ‘Duck Stamp Modernization Act of 2023’.”
 
 #### Short Title
 Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This Act [enacting this subchapter] may be cited as the ‘Permanent Electronic Duck Stamp Act of 2013’.”
@@ -1389,9 +1401,9 @@ Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This A
 
 <a id="section-718r"></a>
 ## § 718r. State obligations and authorities
-**(a) Delivery of actual stamp** The Secretary shall require that each individual to whom a State sells an electronic stamp under this subchapter shall receive an actual stamp—
+**(a) Delivery of electronic stamp** The Secretary shall require that each individual to whom a State sells an electronic stamp under this subchapter shall receive the electronic stamp—
 
-(1) by not later than the date on which the electronic stamp expires under [section 718s(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718s/c&num=0&edition=prelim); and
+(1) on the date of purchase of the electronic stamp; and
 
 (2) in a manner agreed upon by the State and Secretary.
 
@@ -1409,11 +1421,24 @@ Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This A
 
 (3) **Additional fees not affected** — This section shall not apply to the State portion of any fee collected by a State under subsection (c).
 
-**(c) Electronic stamp issuance fee** A State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under this subchapter, including costs of delivery of actual stamps.
+**(c) Electronic stamp issuance fee** A State authorized to issue electronic stamps may charge a reasonable fee to cover costs incurred by the State and the Department of the Interior in issuing electronic stamps under this subchapter, including costs of delivery of actual stamps under subsection (e).
 
 **(d) Duplicate electronic stamps** A State authorized to issue electronic stamps may issue a duplicate electronic stamp to replace an electronic stamp issued by the State that is lost or damaged.
 
-**(e) Limitation on authority to require purchase of State license** A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under this subchapter.
+**(e) Delivery of actual stamps** The Secretary shall issue an actual stamp after March 10 of each year to each individual that purchased an electronic stamp for the preceding waterfowl season.
+
+**(f) Limitation on authority to require purchase of State license** A State may not require that an individual purchase a State hunting license as a condition of issuing an electronic stamp under this subchapter.
+
+### Statutory Notes
+
+#### Amendments
+2023—Subsec. (a). Pub. L. 118–25, § 2(a)(1)(A), (B), substituted “electronic stamp” for “actual stamp” in heading and “the electronic stamp” for “an actual stamp” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 118–25, § 2(a)(1)(C), added par. (1) and struck out former par. (1) which read as follows: “by not later than the date on which the electronic stamp expires under [section 718s(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section718s/c&num=0&edition=prelim); and”.
+
+Subsec. (c). Pub. L. 118–25, § 2(a)(2), substituted “actual stamps under subsection (e)” for “actual stamps”.
+
+Subsecs. (e), (f). Pub. L. 118–25, § 2(a)(3), added subsec. (e) and redesignated former subsec. (e) as (f).
 
 
 <a id="section-718s"></a>
@@ -1424,7 +1449,7 @@ Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This A
 
 (2) to specify identifying features of the licensee that are adequate to enable Federal, State, and other law enforcement officers to identify the holder.
 
-**(b) Recognition of electronic stamp** Any electronic stamp issued by a State under this subchapter shall, during the effective period of the electronic stamp—
+**(b) Recognition of electronic stamp** Any electronic stamp issued by a State under this subchapter shall—
 
 (1) bestow upon the licensee the same privileges as are bestowed by an actual stamp;
 
@@ -1432,7 +1457,14 @@ Pub. L. 113–239, § 1, Dec. 18, 2014, 128 Stat. 2847, provided that: “This A
 
 (3) authorize the licensee to hunt migratory waterfowl in any other State, in accordance with the laws of the other State governing that hunting.
 
-**(c) Duration** An electronic stamp issued by a State shall be valid for a period agreed to by the State and the Secretary, which shall not exceed 45 days.
+**(c) Duration** An electronic stamp issued by a State shall be valid through the first June 30 that occurs after the date of issuance of the electronic stamp by the State.
+
+### Statutory Notes
+
+#### Amendments
+2023—Subsec. (b). Pub. L. 118–25, § 2(c)(1), substituted “shall—” for “shall, during the effective period of the electronic stamp—” in introductory provisions.
+
+Subsec. (c). Pub. L. 118–25, § 2(c)(2), substituted “through the first June 30 that occurs after the date of issuance of the electronic stamp by the State” for “for a period agreed to by the State and the Secretary, which shall not exceed 45 days”.
 
 
 <a id="section-718t"></a>

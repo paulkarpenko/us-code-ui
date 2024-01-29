@@ -190,7 +190,7 @@ The serving of notice to, or service of process upon, the agent required under p
 
   (I) to sue and be sued, and complain and defend itself in any court of competent jurisdiction, except that the Directors of the Foundation shall not be personally liable, except for gross negligence;
 
-  (J) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and
+  (J) to enter into contracts or other arrangements with public agencies and private organizations and persons and to make such payments as may be necessary to carry out its function; and 11 So in original. The word “and” probably should not appear.
 
   (K) to receive and administer restitution and community service payments, amounts for mitigation of impacts to natural resources, and other amounts arising from legal, regulatory, or administrative proceedings, subject to the condition that the amounts are received or administered for purposes that further the conservation and management of fish, wildlife, plants, and other natural resources; and
 

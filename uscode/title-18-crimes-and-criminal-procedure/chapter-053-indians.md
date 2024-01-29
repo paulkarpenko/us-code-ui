@@ -560,7 +560,7 @@ Pub. L. 103–322, title XXXIII, § 330011(d), Sept. 13, 1994, 108 Stat. 2144, a
 The Native American Graves Protection and Repatriation Act, referred to in text, is Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, which is classified principally to chapter 32 (§ 3001 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section3001&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2022—Subsec. (a). Pub. L. 117–258, § 4, substituted “1 year and 1 day” for “12 months” and “10 years” for “5 years”.
+2022—Subsec. (a). Pub. L. 117–258 substituted “1 year and 1 day” for “12 months” and “10 years” for “5 years”.
 
 Subsec. (b). Pub. L. 117–258, § 4(1), substituted “10 years” for “5 years”.
 

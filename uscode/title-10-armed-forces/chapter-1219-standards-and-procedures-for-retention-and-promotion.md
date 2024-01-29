@@ -103,7 +103,7 @@ In subsection (b), the words “in rank” and “by that board” are inserted 
 1980—Subsec. (a). Pub. L. 96–513 substituted “Except as provided in [section 612(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section612/a/3&num=0&edition=prelim), each” for “Each”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12644"></a>
@@ -296,7 +296,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Amendment by sections 1662(h)(2) and 1675(d)(3)(A) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1675(d)(3)(B), (C) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12647"></a>

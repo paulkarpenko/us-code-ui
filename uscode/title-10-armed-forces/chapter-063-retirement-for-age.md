@@ -89,7 +89,7 @@ Subsec. (d). Pub. L. 105–85, § 504(b), added subsec. (d).
 1987—Subsec. (c). Pub. L. 100–180 added subsec. (c).
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Deferral of Retirement Date for Chairman of the Joint Chiefs of Staff
 Pub. L. 100–456, div. A, title VII, § 704, Sept. 29, 1988, 102 Stat. 1996, provided that the President could defer until Oct. 1, 1989, the retirement of the officer serving as Chairman of the Joint Chiefs of Staff for the term which began on October 1, 1987, notwithstanding the limitation contained in former [section 1251(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1251/b&num=0&edition=prelim).
@@ -185,7 +185,7 @@ Section 511 of the Career Compensation Act of 1949, referred to in subsec. (a), 
 1966—Subsec. (a). Pub. L. 89–718 substituted “8301” for “47a”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-1275"></a>

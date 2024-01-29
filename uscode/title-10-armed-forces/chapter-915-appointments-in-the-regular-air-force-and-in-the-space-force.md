@@ -1,7 +1,7 @@
 ---
 title: 10
 chapter: '915'
-heading: APPOINTMENTS IN THE REGULAR AIR FORCE AND THE REGULAR SPACE FORCE
+heading: APPOINTMENTS IN THE REGULAR AIR FORCE AND IN THE SPACE FORCE
 section_count: 2
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
@@ -9,7 +9,7 @@ source: >-
 <a id="section-9151"></a>
 ## § 9151. Commissioned officer grades
 
-The commissioned grades in the Regular Air Force are:
+The commissioned grades in the Regular Air Force and in the Space Force are:
 
 (1) Major general.
 
@@ -35,6 +35,8 @@ The commissioned grades in the Regular Air Force are:
 | 8281 | 10:506(a) (last 24 words). | Aug. 7, 1947, ch. 512, § 502(a) (last 24 words), 61 Stat. 884. |
 
 #### Amendments
+2023—Pub. L. 118–31 inserted “and in the Space Force” after “in the Regular Air Force” in introductory provisions.
+
 2018—Pub. L. 115–232 renumbered [section 8281 of this title](./chapter-833-hospitalization-and-medical-care.md#section-8281) as this section.
 
 #### Effective Date of 2018 Amendment
@@ -44,7 +46,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 <a id="section-9160"></a>
 ## § 9160. Warrant officers: original appointment; qualifications
 
-Original appointments as warrant officers in the Regular Air Force or the Regular Space Force shall be made from persons who have served on active duty at least one year in the Air Force or the Space Force.
+Original appointments as warrant officers in the Regular Air Force or the Space Force shall be made from persons who have served on active duty at least one year in the Air Force or the Space Force.
 
 ### Statutory Notes
 
@@ -56,6 +58,8 @@ Original appointments as warrant officers in the Regular Air Force or the Regula
 The first sentence of section 4a of the act of June 3, 1916, cited above, is omitted as superseded by [section 8213 of this title](./chapter-825-administration.md#section-8213). The second sentence, less first nine words, of section 4a of that act, is omitted as superseded by 10:591.
 
 #### Amendments
+2023—Pub. L. 118–31 struck out “Regular” before “Space Force shall be made”.
+
 2021—Pub. L. 116–283 inserted “or the Regular Space Force” after “Regular Air Force” and “or the Space Force” before period at end.
 
 2018—Pub. L. 115–232 renumbered [section 8310 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8310&num=0&edition=prelim) as this section.

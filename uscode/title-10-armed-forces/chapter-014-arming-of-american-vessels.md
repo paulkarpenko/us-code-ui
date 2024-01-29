@@ -62,4 +62,4 @@ Section 270, added Pub. L. 85–861, § 1(5)(A), Sept. 2, 1958, 72 Stat. 1438; a
 1980—Subsec. (c). Pub. L. 96–513 substituted “Section 16 of the Act of March 4, 1909 ([22 U.S.C. 463](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section463&num=0&edition=prelim))” for “[Section 463 of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section463&num=0&edition=prelim)”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).

@@ -685,11 +685,13 @@ Section effective Oct. 12, 1984, see section 235(a)(1)(B)(i) of Pub. L. 98–473
 ## § 996. Director and staff
 **(a)** The Staff Director shall supervise the activities of persons employed by the Commission and perform other duties assigned to the Staff Director by the Commission.
 
-**(b)** The Staff Director shall, subject to the approval of the Commission, appoint such officers and employees as are necessary in the execution of the functions of the Commission. The officers and employees of the Commission shall be exempt from the provisions of part III of title 5, except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave).
+**(b)** The Staff Director shall, subject to the approval of the Commission, appoint such officers and employees as are necessary in the execution of the functions of the Commission. The officers and employees of the Commission shall be exempt from the provisions of part III of title 5, except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 84 (Federal Employees’ Retirement System), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave).
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–328 inserted “84 (Federal Employees’ Retirement System),” after “83 (Retirement),”.
+
 2000—Subsec. (b). Pub. L. 106–518 substituted “except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave)” for “United States Code, except the following chapters: 45 (Incentive Awards), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance)”.
 
 1994—Subsec. (a). Pub. L. 103–322 substituted “the Staff Director” for “him” after “assigned to”.

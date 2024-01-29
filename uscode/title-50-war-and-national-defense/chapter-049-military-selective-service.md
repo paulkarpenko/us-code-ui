@@ -238,7 +238,7 @@ Subsection (g) of this section, referred to in subsec. (d)(2), means subsection 
 
 Section 3 of the Act of July 25, 1947 (Public Law 239, Eightieth Congress), referred to in subsec. (e), is section 3 of act July 25, 1947, ch. 327, 61 Stat. 451, which is not classified to the Code.
 
-Act of March 7, 1942 (56 Stat. 143 to 148), as amended, referred to in subsec. (e), popularly known as the Missing Persons Act, was classified to sections 1001 to 1018 of the former Appendix to this title, prior to repeal by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenactment as subchapter VII (§ 5561 et seq.) of chapter 55 of Title 5, Government Organization and Employees, and chapter 10 (§ 551 et seq.) of Title 37, Pay and Allowances of the Uniformed Services.
+Act of March 7, 1942 (56 Stat. 143 to 148), referred to in subsec. (e), popularly known as the Missing Persons Act, was classified to sections 1001 to 1018 of the former Appendix to this title, prior to repeal by Pub. L. 89–554, Sept. 6, 1966, § 8(a), 80 Stat. 632, and reenactment as subchapter VII (§ 5561 et seq.) of chapter 55 of Title 5, Government Organization and Employees, and chapter 10 (§ 551 et seq.) of Title 37, Pay and Allowances of the Uniformed Services.
 
 The Commission, referred to in subsec. (k)(5), means the National Security Training Commission, which expired June 30, 1957, pursuant to letter of the President on Mar. 25, 1957, following the Commission’s own recommendation for its termination.
 
@@ -407,7 +407,7 @@ Any physician or dentist who meets the qualifications for a reserve commission i
 ### Statutory Notes
 
 #### References in Text
-Act of September 9, 1950, as amended, referred to in text, is act Sept. 9, 1950, ch. 939, 64 Stat. 826, as amended. Section 7 of the Act, as amended (71 Stat. 208), provided that the Act, except for sections 3 and 5, shall terminate as of June 30, 1957. Section 3 of the Act amended section 202 of the National Security Act of 1947, by adding subsections (g) to (i) which were classified to section 171a(g) to (i) of former Title 5 and which were later omitted from the Code following the codification of section 202(a) to (f) and (j) of the National Security Act of 1947 in Title 10, Armed Forces, by Pub. L. 87–651, Sept. 7, 1972, 76 Stat. 506. Section 5 of the Act was classified to section 234b of former Title 37, and was later omitted from the Code following the enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451.
+Act of September 9, 1950, as amended, referred to in text, is act Sept. 9, 1950, ch. 939, 64 Stat. 826. Section 7 of the Act, as amended (71 Stat. 208), provided that the Act, except for sections 3 and 5, shall terminate as of June 30, 1957. Section 3 of the Act amended section 202 of the National Security Act of 1947, by adding subsections (g) to (i) which were classified to section 171a(g) to (i) of former Title 5 and which were later omitted from the Code following the codification of section 202(a) to (f) and (j) of the National Security Act of 1947 in Title 10, Armed Forces, by Pub. L. 87–651, Sept. 7, 1972, 76 Stat. 506. Section 5 of the Act was classified to section 234b of former Title 37, and was later omitted from the Code following the enactment of Title 37, Pay and Allowances of the Uniformed Services, by Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 451.
 
 #### Codification
 Section was formerly classified to section 454e of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
@@ -1056,12 +1056,9 @@ Sec. 3. Nothing in this Order shall be deemed to (i) authorize the exercise by t
 <a id="section-3810"></a>
 ## § 3810. Emergency medical care
 
-Under such rules and regulations as may be prescribed by the President, funds available to carry out the provisions of this chapter shall also be available for the payment of actual and reasonable expenses of emergency medical care, including hospitalization, of registrants who suffer illness or injury, and the transportation and burial of the remains of registrants who suffer death, while acting under orders issued under the provisions of this chapter, but such burial expenses shall not exceed the maximum that the Secretary of Veterans Affairs may pay under the provisions of [section 2302(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2302/a&num=0&edition=prelim) in any one case.
+Under such rules and regulations as may be prescribed by the President, funds available to carry out the provisions of this chapter shall also be available for the payment of actual and reasonable expenses of emergency medical care, including hospitalization, of registrants who suffer illness or injury, and the transportation and burial of the remains of registrants who suffer death, while acting under orders issued under the provisions of this chapter, but such burial expenses shall not exceed the maximum that the Secretary of Veterans Affairs may pay under the provisions of [section 2303 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303&num=0&edition=prelim) regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section in any one case.
 
 ### Statutory Notes
-
-#### Amendment of Section
-Pub. L. 116–315, title II, § 2202(b)(2), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, this section is amended by substituting “[section 2303 of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2303&num=0&edition=prelim) regarding veterans described in subparagraph (B) or (C) of subsection (a)(2) of such section” for “[section 2302(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section2302/a&num=0&edition=prelim)”. See 2021 Amendment note below.
 
 #### References in Text
 This chapter, referred to in text, was in the original “this title”, meaning title I of act June 24, 1948, ch. 625, 62 Stat. 604, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.

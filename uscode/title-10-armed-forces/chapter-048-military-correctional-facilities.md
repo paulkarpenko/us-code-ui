@@ -28,7 +28,7 @@ source: >-
 1980—Subsec. (d). Pub. L. 96–513 substituted “at such facilities” for “as such facilities”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Offenses Against Minors
 Pub. L. 105–119, title I, § 115(a)(8)(C), Nov. 26, 1997, 111 Stat. 2466, as amended by Pub. L. 109–248, title I, § 141(i), July 27, 2006, 120 Stat. 604, provided that: “(i) The Secretary of Defense shall specify categories of conduct punishable under the Uniform Code of Military Justice which are sex offenses as that term is defined in the Sex Offender Registration and Notification Act [[34 U.S.C. 20901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20901&num=0&edition=prelim) et seq.], and such other conduct as the Secretary deems appropriate for inclusion for purposes of this subparagraph. “(ii) In relation to persons sentenced by a court martial for conduct in the categories specified under clause (i), the Secretary shall prescribe procedures and implement a system to—“(I) provide notice concerning the release from confinement or sentencing of such persons; “(II) inform such persons concerning registration obligations; and “(III) track and ensure compliance with registration requirements by such persons during any period of parole, probation, or other conditional release or supervision related to the offense. “(iii) The procedures and requirements established by the Secretary under this subparagraph shall, to the maximum extent practicable, be consistent with those specified for Federal offenders under the Sex Offender Registration and Notification Act. “(iv) If a person within the scope of this subparagraph is confined in a facility under the control of the Bureau of Prisons at the time of release, the Bureau of Prisons shall provide notice of release and inform the person concerning registration obligations under the procedures specified in [section 4042(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section4042/c&num=0&edition=prelim), United States Code.”
@@ -87,7 +87,7 @@ The Secretary concerned may provide for persons who were subject to his authorit
 1980—Subsec. (a). Pub. L. 96–513 substituted “such” for “said” in two places, “Such” for “Said”, and struck out “, United States Code” after “18”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-956"></a>

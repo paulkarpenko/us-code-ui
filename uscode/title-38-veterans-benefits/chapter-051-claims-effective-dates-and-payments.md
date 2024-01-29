@@ -94,9 +94,6 @@ Pub. L. 117–168, title VIII, § 807(b), Aug. 10, 2022, 136 Stat. 1806, provide
 
 ### Statutory Notes
 
-#### Amendment of Subsection (a)(1)(B)(i)
-Pub. L. 116–315, title II, § 2202(b)(1)(E), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, subsection (a)(1)(B)(i) of this section is amended by striking “2302” and inserting “2303”. See 2021 Amendment note below.
-
 #### References in Text
 Section 7701(a)(41) of the Internal Revenue Code of 1986, referred to in subsec. (e)(2), is classified to [section 7701(a)(41) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701/a/41&num=0&edition=prelim), Internal Revenue Code.
 
@@ -182,7 +179,7 @@ Pub. L. 104–275, title V, § 504, Oct. 9, 1996, 110 Stat. 3341, as amended by 
 
 [Pub. L. 116–315, title II, § 2002(a)(3), Jan. 5, 2021, 134 Stat. 4968, provided that: “The amendment made by paragraph (1) [amending section 504 of Pub. L. 104–275, set out above] shall not be construed to affect the license portability for physicians in effect under section 504(c) of such Act [Pub. L. 104–275] as in effect on the day before the date of the enactment of this Act [Jan. 5, 2021].” ]
 
-[Pub. L. 116–315, title II, § 2002(a)(4), Jan. 5, 2021, 134 Stat. 4968, provided that: “On the date that is three years after the date of the enactment of this Act [Jan. 5, 2021], subsection (c) of such section [section 504(c) of Pub. L. 104–275, set out above] shall read as it read on the day before the date of the enactment of this Act.” ]
+[Pub. L. 116–315, title II, § 2002(a)(4), Jan. 5, 2021, 134 Stat. 4968, as amended by Pub. L. 118–19, § 1, Oct. 6, 2023, 137 Stat. 106, provided that: “On the date that is five years after the date of the enactment of this Act [Jan. 5, 2021], subsection (c) of such section [section 504(c) of Pub. L. 104–275, set out above] shall read as it read on the day before the date of the enactment of this Act.” ]
 
 #### Expedited Treatment of Remanded Claims
 Pub. L. 103–446, title III, § 302, Nov. 2, 1994, 108 Stat. 4658, as amended by Pub. L. 105–368, title V, § 512(c), Nov. 11, 1998, 112 Stat. 3342, provided that Secretary of Veterans Affairs was to take necessary actions to provide for expeditious treatment, by the Board of Veterans’ Appeals and by regional offices of the Veterans Benefits Administration, of any claim that had been remanded by the Board of Veterans’ Appeals or by the United States Court of Appeals for Veterans Claims for additional development or other appropriate action, prior to repeal by Pub. L. 108–183, title VII, § 707(c), Dec. 16, 2003, 117 Stat. 2673.
@@ -586,7 +583,7 @@ Section applicable to all claims for which the Secretary of Veterans Affairs pro
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Prior section 5105 was renumbered [section 8305 of this title](./chapter-083-acceptance-of-gifts-and-bequests.md#section-8305).

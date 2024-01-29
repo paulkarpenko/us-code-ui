@@ -405,7 +405,7 @@ Section 271 [[42 U.S.C. 2018](./chapter-023-development-and-control-of-atomic-en
 Section 281 [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) note] (“Separability”) and Section 291 [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) note] (“Short Title”).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-5816"></a>
@@ -446,20 +446,20 @@ Energy Research and Development Administration terminated and functions vested b
 
 **(f) Personnel of other agencies** The Administrator is authorized to utilize, on a reimbursable basis, the services of any personnel made available by any department, agency, or instrumentality, including any independent agency of the Government.
 
-**(g) Advisory boards** The Administrator is authorized to establish advisory boards, in accordance with the provisions of the Federal Advisory Committee Act (Public Law 92–463), to advise with and make recommendations to the Administrator on legislation, policies, administration, research, and other matters.
+**(g) Advisory boards** The Administrator is authorized to establish advisory boards, in accordance with the provisions of chapter 10 of title 5, to advise with and make recommendations to the Administrator on legislation, policies, administration, research, and other matters.
 
 **(h) Employment of noncitizens** The Administrator is authorized to employ persons who are not citizens of the United States in expert, scientific, technical, or professional capacities whenever he deems it in the public interest.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (g). Pub. L. 117–286 substituted “chapter 10 of title 5,” for “the Federal Advisory Committee Act (Public Law 92–463),”.
 
 #### Transfer of Functions
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-5817"></a>
@@ -728,7 +728,7 @@ Pub. L. 95–238, title II, § 209, Feb. 25, 1978, 92 Stat. 76, provided that: �
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(2) and (g)(2), was in the original “the Energy Reorganization Act of 1974”, and “this Act”, respectively, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, as amended, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+This chapter, referred to in subsecs. (a)(2) and (g)(2), was in the original “the Energy Reorganization Act of 1974”, and “this Act”, respectively, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, which enacted this chapter, amended sections 5313 to 5316 of Title 5, Government Organization and Employees, repealed sections 2031 and 2032 of this title, and enacted provisions set out as notes under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801). For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (g), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
@@ -967,7 +967,7 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 ## § 5844. Office of Nuclear Reactor Regulation
 **(a) Establishment; appointment of Director** There is hereby established in the Commission an Office of Nuclear Reactor Regulation under the direction of a Director of Nuclear Reactor Regulation, who shall be appointed by the Commission, who may report directly to the Commission, as provided in [section 5849 of this title](./chapter-073-development-of-energy-sources.md#section-5849), and who shall serve at the pleasure of and be removable by the Commission.
 
-**(b) Functions of Director** Subject to the provisions of this chapter, the Director of Nuclear Reactor Regulation shall perform such functions as the Commission shall delegate including:
+**(b) Functions of Director** Subject to the provisions of this chapter, the Director of Nuclear Reactor Regulation shall perform such functions as the Commission shall delegate, including the following:
 
 (1) Principal licensing and regulation involving all facilities, and materials licensed under the Atomic Energy Act of 1954, as amended [[42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.], associated with the construction and operation of nuclear reactors licensed under the Atomic Energy Act of 1954, as amended;
 
@@ -977,16 +977,33 @@ For transfer of certain functions from Nuclear Regulatory Commission to Chairman
 
   (B) evaluating methods of transporting special nuclear and other nuclear materials and of transporting and storing high-level radioactive wastes to prevent radiation hazards to employees and the general public.
 
-(3) Recommend research necessary for the discharge of the functions of the Commission.
+(3) Recommend research necessary to fulfill the licensing and regulatory oversight functions of the Commission.
 
-**(c) Responsibility for safe operation of facilities** Nothing in this section shall be construed to limit in any way the functions of the Administration relating to the safe operation of all facilities resulting from all activities within the jurisdiction of the Administration pursuant to this chapter.
+**(c) Licensing process** In carrying out the principal licensing and regulation functions under subsection (b)(1), the Director of Nuclear Reactor Regulation shall—
+
+(1) establish techniques and guidance for evaluating applications for licenses for nuclear reactors to support efficient, timely, and predictable reviews of applications for those licenses to enable the safe and secure use of nuclear reactors;
+
+(2) maintain the techniques and guidance established under paragraph (1) by periodically assessing and, if necessary, modifying those techniques and guidance; and
+
+(3) obtain approval from the Commission if establishment or modification of the techniques and guidance under paragraph (1) or (2) involves policy formulation.
+
+**(d) Responsibility for safe operation of facilities** Nothing in this section shall be construed to limit in any way the functions of the Administration relating to the safe operation of all facilities resulting from all activities within the jurisdiction of the Administration pursuant to this chapter.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
+This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 93–438, Oct. 11, 1974, 88 Stat. 1233, known as the Energy Reorganization Act of 1974, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 5801 of this title](./chapter-073-development-of-energy-sources.md#section-5801) and Tables.
 
 The Atomic Energy Act of 1954, referred to in subsec. (b)(1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+
+#### Amendments
+2024—Subsec. (a). Pub. L. 118–67, § 505(a)(1), inserted heading.
+
+Subsec. (b). Pub. L. 118–67, § 505(a)(2)(A), inserted heading and substituted “delegate, including the following:” for “delegate including:” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 118–67, § 505(a)(2)(B), substituted “to fulfill the licensing and regulatory oversight” for “for the discharge of the”.
+
+Subsecs. (c), (d). Pub. L. 118–67, § 505(a)(3), (4), added subsec. (c) and redesignated former subsec. (c) as (d) and inserted heading.
 
 #### Transfer of Functions
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
@@ -1139,10 +1156,10 @@ Pub. L. 96–12, May 23, 1979, 93 Stat. 26, which authorized the President’s C
 For transfer of certain functions from Nuclear Regulatory Commission to Chairman thereof, see Reorg. Plan No. 1 of 1980, 45 F.R. 40561, 94 Stat. 3585, set out as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
 
 #### Executive Order No. 12130
-Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, which established the President’s Commission on the Accident at Three Mile Island and provided for its functions, administration, final report, and termination, was revoked by section 1–103(h) of Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1252, formerly set out as a note under section 14 of the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12130, Apr. 11, 1979, 44 F.R. 22027, which established the President’s Commission on the Accident at Three Mile Island and provided for its functions, administration, final report, and termination, was revoked by section 1–103(h) of Ex. Ord. No. 12258, Dec. 31, 1980, 46 F.R. 1252, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Executive Order No. 12202
-Ex. Ord. No. 12202, Mar. 18, 1980, 45 F.R. 17939, as amended by Ex. Ord. No. 12240, Sept. 26, 1980, 45 F.R. 64545, which established the Nuclear Safety Oversight Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 22, Aug. 17, 1982, 47 F.R. 36100 and Ex. Ord. No. 12399, § 4(c), Dec. 31, 1982, 48 F.R. 380, formerly set out as notes under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12202, Mar. 18, 1980, 45 F.R. 17939, as amended by Ex. Ord. No. 12240, Sept. 26, 1980, 45 F.R. 64545, which established the Nuclear Safety Oversight Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 22, Aug. 17, 1982, 47 F.R. 36100 and Ex. Ord. No. 12399, § 4(c), Dec. 31, 1982, 48 F.R. 380, formerly set out as notes under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-5850"></a>

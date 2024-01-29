@@ -345,15 +345,15 @@ Section 2123d, Pub. L. 87–63, title II, § 206, as added Pub. L. 102–372, §
 
 (4) any recommendation as deemed appropriate by the Council.
 
-**(h) Applicability of Federal Advisory Committee Act** The membership of the President of the United States National Tourism Organization on the Council shall not in itself make the Federal Advisory Committee Act applicable to the Council.
+**(h) Applicability of chapter 10 of title 5** The membership of the President of the United States National Tourism Organization on the Council shall not in itself make chapter 10 of title 5 applicable to the Council.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 2124, Pub. L. 87–63, title III, § 301, formerly § 4, June 29, 1961, 75 Stat. 130; Pub. L. 88–426, title III, § 305(29), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–477, § 3(a), Oct. 21, 1970, 84 Stat. 1072; renumbered and amended Pub. L. 97–63, § 4(a)(1)–(3), (b), (c)(2), Oct. 16, 1981, 95 Stat. 1014, 1015; Pub. L. 102–372, §§ 12–14, Sept. 30, 1992, 106 Stat. 1180, related to establishment of United States Travel and Tourism Administration, prior to repeal by Pub. L. 104–288, § 9(a), Oct. 11, 1996, 110 Stat. 3407.
+
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act”.
 
 #### Transfer of Functions
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim). For establishment of U.S. Customs and Border Protection in the Department of Homeland Security, treated as if included in Pub. L. 107–296 as of Nov. 25, 2002, see [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim), as amended generally by Pub. L. 114–125, and section 802(b) of Pub. L. 114–125, set out as a note under [section 211 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section211&num=0&edition=prelim).

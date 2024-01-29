@@ -134,12 +134,12 @@ Amendment by Pub. L. 97–60 effective with respect to nominations for appointme
 
 (7) Six from Puerto Rico, five of whom are nominated by the Resident Commissioner from Puerto Rico and one who is a native of Puerto Rico nominated by the Governor of Puerto Rico.
 
-(8) Four from Guam, nominated by the Delegate in Congress from Guam.
+(8) Five from Guam, nominated by the Delegate in Congress from Guam.
 
 (9) Three from American Samoa, nominated by the Delegate in Congress from American Samoa.
 
 (10) Three from the Commonwealth of the Northern Mariana Islands, nominated by the Delegate in Congress from the commonwealth.
-Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 10 persons for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a midshipman, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
+Each Senator, Representative, and Delegate in Congress, including the Resident Commissioner from Puerto Rico, is entitled to nominate 15 persons 11 See Applicability of Amendment note below. for each vacancy that is available to him under this section. Nominees may be submitted without ranking or with a principal candidate and 9 ranked or unranked alternates. Qualified nominees not selected for appointment under this subsection shall be considered qualified alternates for the purposes of selection under other provisions of this chapter. When a nominee of a Senator, Representative, or Delegate is selected for appointment as a midshipman, the Senator, Representative, or Delegate shall be notified at least 48 hours before the official notification or announcement of the appointment is made.
 
 **(b)** In addition there may be appointed each year at the Academy midshipmen as follows:
 
@@ -160,7 +160,7 @@ Each Senator, Representative, and Delegate in Congress, including the Resident C
 
 (4) 20 nominated by the Secretary of the Navy, under regulations prescribed by him, from the honor graduates of schools designated as honor schools by the Department of the Army, the Department of the Navy, or the Department of the Air Force, and from members of the Naval Reserve Officer’s Training corps.
 
-(5) 150 selected by the Secretary of the Navy in order of merit (prescribed pursuant to [section 8456 of this title](./chapter-853-united-states-naval-academy.md#section-8456)) from qualified alternates nominated by persons named in paragraphs (3) and (4) of subsection (a).
+(5) 200 1 selected by the Secretary of the Navy in order of merit (prescribed pursuant to [section 8456 of this title](./chapter-853-united-states-naval-academy.md#section-8456)) from qualified alternates nominated by persons named in paragraphs (3) through (10) of subsection (a).
 
 **(c)** The President may also appoint as midshipmen at the Academy children of persons who have been awarded the medal of honor for acts performed while in the armed forces.
 
@@ -216,7 +216,18 @@ The change reflects the change of the name of the Panama Railroad Company to the
 #### 1982 Act
 In 10:6954(f), the word “The” is substituted for “Effective beginning with the nominations for appointment to the Academy in the calendar year 1964, the” to eliminate executed words.
 
+#### Applicability of Amendment
+Amendment of section by section 561(b) of Pub. L. 118–31 applicable to nominations of candidates and appointments to the Service Academies for classes entering such Service Academies beginning with the 2025-2026 academic year. See 2023 Amendment notes below.
+
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 561(b)(1), substituted “15 persons” for “10 persons” in concluding provisions.
+
+Subsec. (a)(8). Pub. L. 118–31, § 562(b), substituted “Five” for “Four”.
+
+Subsec. (b)(5). Pub. L. 118–31, § 561(b)(2), substituted “200” for “150”.
+
+2022—Subsec. (b)(5). Pub. L. 117–263 substituted “paragraphs (3) through (10)” for “paragraphs (3) and (4)”.
+
 2018—Pub. L. 115–232, § 807(c)(1), renumbered [section 6954 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6954&num=0&edition=prelim) as this section.
 
 Subsecs. (b)(5), (e). Pub. L. 115–232, § 809(a), substituted “section 8456” for “section 6956”.
@@ -320,6 +331,9 @@ Subsecs. (d), (e). Pub. L. 88–276, § 2(3), added subsecs. (d) and (e).
 1962—Subsec. (a). Pub. L. 87–663 added cl. (9).
 
 Pub. L. 87–651 substituted “Panama Canal Company” for “Panama Railroad Company” in cl. (8).
+
+#### Effective Date of 2023 Amendment
+Amendment by section 561(b) of Pub. L. 118–31 applicable to nominations of candidates and appointments to the Service Academies for classes entering such Service Academies beginning with the 2025-2026 academic year, see section 561(d) of Pub. L. 118–31, set out as a note under [section 7442 of this title](./chapter-753-united-states-military-academy.md#section-7442).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
@@ -558,11 +572,7 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 (4) That if an appointment described in paragraph (2) or (3) is tendered and the midshipman participates in a program under [section 2121 of this title](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2121), the midshipman will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under [section 2123 of this title](./chapter-105-armed-forces-health-professions-financial-assistance-programs.md#section-2123) for participation in such program.
 
-(5) That the midshipman—
-
-  (A) will not seek release from the midshipman’s commissioned service obligation or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
-
-  (B) understands that the appointment alternative described in paragraph (3) will not be used to allow the midshipman to obtain such employment until at least the end of that two-year period.
+(5) That the midshipman may not obtain employment as a professional athlete until two years after the midshipman graduates from the Academy.
 
 **(b)**
 
@@ -572,15 +582,23 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 (3) For the purposes of paragraph (1), a midshipman shall be considered to have breached an agreement under subsection (a) if the midshipman is separated from the Naval Academy under circumstances which the Secretary determines constitute a breach by the midshipman of the midshipman’s agreement to complete the course of instruction at the Naval Academy and accept an appointment as a commissioned officer upon graduation from the Naval Academy.
 
+(4) A midshipman who violates paragraph (5) of subsection (a) is not eligible for the alternative obligation under paragraph (1).
+
 **(c)** The Secretary of the Navy shall prescribe regulations to carry out this section. Those regulations shall include—
 
 (1) standards for determining what constitutes, for the purpose of subsection (b), a breach of an agreement under subsection (a);
 
-(2) procedures for determining whether such a breach has occurred; and
+(2) that a midshipman who obtains employment as a professional athlete—
 
-(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
+  (A) in violation of paragraph (5) of subsection (a) has breached an agreement under such subsection; and
 
-**(d)** In this section, “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer’s appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+  (B) at least two years after the midshipman graduates from the Academy has not breached an agreement under subsection (a);
+
+(3) procedures for determining whether such a breach has occurred; and
+
+(4) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
+
+**(d)** In this section, “commissioned service obligation”, with respect to a midshipman, means the period beginning on the date of the midshipman’s appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 **(e)**
 
@@ -588,7 +606,7 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 
 (2) In the case of a midshipman who is a minor and who has parents or a guardian, the midshipman may sign the agreement required by subsection (a) only with the consent of a parent or guardian.
 
-**(f)** A midshipman or former midshipman who does not fulfill the terms of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
+**(f)** A midshipman or former midshipman who does not fulfill each term of the agreement as specified under subsection (a), or the alternative obligation imposed under subsection (b), shall be subject to the repayment provisions of section 303a(e) or 373 of title 37.
 
 ### Statutory Notes
 
@@ -600,6 +618,20 @@ For authority to waive maximum age limitation in subsec. (a)(1) of this section 
 The words “Hereafter” and “appointed to the United States Naval Academy” are omitted as surplusage. The words “an agreement that * * * he will” are substituted for the words “articles * * * by which he shall engage”. The word “separated” is substituted for the words “discharged by competent authority”. The words “if tendered an appointment”, “upon graduation from the United States Naval Academy”, and “consecutive” are omitted as surplusage. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only if accepted. The first 43 words of clause (3) are substituted for [34 U.S.C. 1048](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section1048&num=0&edition=prelim) (last 30 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have.”
 
 #### Amendments
+2022—Subsec. (a)(5). Pub. L. 117–263, § 553(b)(1), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “That the midshipman—
+
+“(A) will not seek release from the midshipman’s commissioned service obligation or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation to obtain employment as a professional athlete following graduation until the midshipman completes a period of at least two consecutive years of commissioned service; and
+
+“(B) understands that the appointment alternative described in paragraph (3) will not be used to allow the midshipman to obtain such employment until at least the end of that two-year period.”
+
+Subsec. (b)(4). Pub. L. 117–263, § 553(b)(2), added par. (4).
+
+Subsec. (c)(2) to (4). Pub. L. 117–263, § 553(b)(3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+
+Subsec. (d). Pub. L. 117–263, § 553(b)(4), substituted “with respect to a midshipman” for “with respect to an officer who is a graduate of the Academy” and “midshipman’s” for “officer’s”.
+
+Subsec. (f). Pub. L. 117–263, § 553(b)(5), substituted “each term” for “the terms”.
+
 2019—Subsec. (a)(5)(A). Pub. L. 116–92 inserted “or seek or accept approval for off-duty employment while completing the midshipman’s commissioned service obligation” before “to obtain employment”.
 
 2018—Pub. L. 115–232 renumbered [section 6959 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section6959&num=0&edition=prelim) as this section.
@@ -641,6 +673,9 @@ Subsec. (a)(3). Pub. L. 98–525, § 542(c), substituted “at least the sixth a
 1964—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–263 only applicable to cadets or midshipmen who first enroll in the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy on or after June 1, 2021, see section 553(d) of Pub. L. 117–263, as added by section 202(a) of Pub. L. 117–328, set out as a note under [section 7448 of this title](./chapter-753-united-states-military-academy.md#section-7448).
 
 #### Effective Date of 2018 Amendment
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).

@@ -269,7 +269,7 @@ Where any office, bureau, or branch of the public service transferred to the Dep
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, as amended, which is classified principally to sections 2, 551, and 555 to 562 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, which is classified principally to sections 2, 551, and 555 to 562 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 618 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section618&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 1, 1966, 80 Stat. 378.
@@ -303,7 +303,7 @@ The official records and papers on file in and pertaining exclusively to the bus
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, as amended, which is classified principally to sections 2, 551, and 555 to 562 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, which is classified principally to sections 2, 551, and 555 to 562 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 621 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section621&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 1, 1966, 80 Stat. 378.
@@ -317,7 +317,7 @@ All laws prescribing the work and defining the duties of the several bureaus, of
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, as amended, which is classified principally to sections 2, 551, and 555 to 562 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Mar. 4, 1913, ch. 141, 37 Stat. 736, which is classified principally to sections 2, 551, and 555 to 562 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section was formerly classified to [section 622 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section622&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 1, 1966, 80 Stat. 378.
@@ -334,6 +334,12 @@ There is established a working capital fund, to be available without fiscal year
 ### Statutory Notes
 
 #### References in Text
+Public Law 115–245, referred to in text, is Pub. L. 115–245, Sept. 28, 2018, 132 Stat. 2981, known as the Department of Defense and Labor, Health and Human Services, and Education Appropriations Act, 2019 and Continuing Appropriations Act, 2019. Title I of div. B of Pub. L. 115–245, 132 Stat. 3048, is the Department of Labor Appropriations Act, 2019.
+
+Public Law 116–94, referred to in text, is Pub. L. 116–94, Dec. 20, 2019, 133 Stat. 2534, known as the Further Consolidated Appropriations Act, 2020. Title I of div. A of Pub. L. 116–94, 133 Stat. 2537, is the Department of Labor Appropriations Act, 2020.
+
+Public Law 116–260, referred to in text, is Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 1182, known as the Consolidated Appropriations Act, 2021. Title I of div. H of Pub. L. 116–260, 134 Stat. 1547, is the Department of Labor Appropriations Act, 2021.
+
 The heading “IT Modernization”, referred to in text, probably means the heading appearing in title I of div. B of Pub. L. 115–245, Sept. 28, 2018, 132 Stat. 3061. There is no such heading in title I of Pub. L. 85–67.
 
 #### Codification

@@ -36,7 +36,7 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Northeast Rail Service Act of 1981, referred to in pars. (4) and (11), is subtitle E of title XI of Pub. L. 97–35, §§ 1131–1169, Aug. 13, 1981, 95 Stat. 643, as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
+The Northeast Rail Service Act of 1981, referred to in pars. (4) and (11), is subtitle E of title XI of Pub. L. 97–35, §§ 1131–1169, Aug. 13, 1981, 95 Stat. 643. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of this title](./chapter-020-northeast-rail-service.md#section-1101) and Tables.
 
 [Section 761 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section761&num=0&edition=prelim), referred to in par. (10), was repealed by Pub. L. 99–509, title IV, § 4033(a)(1), Oct. 21, 1986, 100 Stat. 1908.
 
@@ -374,7 +374,7 @@ Special court abolished and all jurisdiction and functions transferred to United
 ### Statutory Notes
 
 #### References in Text
-The Regional Rail Reorganization Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
+The Regional Rail Reorganization Act of 1973, referred to in subsec. (a)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, which is classified principally to chapter 16 (§ 701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title](./chapter-016-regional-rail-reorganization.md#section-701) and Tables.
 
 
 <a id="section-1342"></a>
@@ -386,9 +386,9 @@ The Regional Rail Reorganization Act of 1973, referred to in subsec. (a)(2), is 
 ### Statutory Notes
 
 #### References in Text
-The Securities Act of 1933, referred to in subsec. (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
+The Securities Act of 1933, referred to in subsec. (b), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, which is classified generally to subchapter I (§ 77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 77a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77a&num=0&edition=prelim) and Tables.
 
-The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 
 <a id="section-1343"></a>
@@ -481,7 +481,7 @@ Part A of this subchapter, referred to in subsec. (c), was in the original “su
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (d)(1), is Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1874, as amended, known as the Omnibus Budget Reconciliation Act of 1986. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (d)(1), is Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1874, known as the Omnibus Budget Reconciliation Act of 1986. For complete classification of this Act to the Code, see Tables.
 
 The Conrail Privatization Act, referred to in subsec. (e)(2), is subtitle A (§§ 4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to this chapter (§ 1301 et seq.). For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of this title](./chapter-022-conrail-privatization.md#section-1301) and Tables.
 

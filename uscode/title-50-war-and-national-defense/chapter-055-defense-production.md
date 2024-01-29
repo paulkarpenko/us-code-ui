@@ -2,7 +2,7 @@
 title: 50
 chapter: '55'
 heading: DEFENSE PRODUCTION
-section_count: 32
+section_count: 33
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50&num=0&edition=prelim
 ---
@@ -42,7 +42,7 @@ source: >-
 
 (6) short attestations signed by each member of the Committee stating their concurrence in the report.
 
-**(e) Federal Advisory Committee Act** The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+**(e) Chapter 10 of title 5** The provisions of chapter 10 of title 5 shall not apply to the Committee.
 
 ### Statutory Notes
 
@@ -52,12 +52,12 @@ For termination of section, see [section 4564(a) of this title](https://uscode.h
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), and (d), was in the original “this Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title](./chapter-055-defense-production.md#section-4501) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was formerly classified to section 2171 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2014—Subsec. (a). Pub. L. 113–172, § 2(1), substituted “coordinate and plan for” for “advise the President” and “the priorities and allocations authorities” for “the authority”.
 
 Subsec. (b)(2). Pub. L. 113–172, § 2(2), amended par. (2) generally. Prior to amendment, text read as follows: “The President shall designate 1 member of the Committee as the Chairperson of the Committee.”
@@ -181,7 +181,7 @@ For directive to Secretary of Commerce to prepare and submit annual report requi
 #### Ex. Ord. No. 13177. National Commission on the Use of Offsets in Defense Trade and President’s Council on the Use of Offsets in Commercial Trade
 Ex. Ord. No. 13177, Dec. 4, 2000, 65 F.R. 76558, as amended by Ex. Ord. No. 13316, § 3(f), Sept. 17, 2003, 68 F.R. 55256, provided:
 
-By the authority vested in the President by the Constitution and the laws of the United States of America, including Public Law 106–113 [see Tables for classification] and the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in order to implement section 1247 of Public Law 106–113 (113 Stat. 1501A–502) [set out in a note above] and to create a parallel “President’s Council on the Use of Offsets in Commercial Trade,” it is hereby ordered as follows:
+By the authority vested in the President by the Constitution and the laws of the United States of America, including Public Law 106–113 [see Tables for classification] and the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], and in order to implement section 1247 of Public Law 106–113 (113 Stat. 1501A–502) [set out in a note above] and to create a parallel “President’s Council on the Use of Offsets in Commercial Trade,” it is hereby ordered as follows:
 
 Section 1. Membership. Pursuant to Public Law 106–113, the “National Commission on the Use of Offsets in Defense Trade” (Commission) comprises 11 members appointed by the President with the concurrence of the Majority and Minority Leaders of the Senate and the Speaker and the Minority Leader of the House of Representatives. The Commission membership includes: (a) representatives from the private sector, including one each from (i) a labor organization, (ii) a United States defense manufacturing company dependent on foreign sales, (iii) a United States company dependent on foreign sales that is not a defense manufacturer, and (iv) a United States company that specializes in international investment; (b) two members from academia with widely recognized expertise in international economics; and (c) five members from the executive branch, including a member from the: (i) Office of Management and Budget, (ii) Department of Commerce, (iii) Department of Defense, (iv) Department of State, and (v) Department of Labor. The member from the Office of Management and Budget will serve as Chairperson of the Commission and will appoint, and fix the compensation of, the Executive Director of the Commission.
 
@@ -490,7 +490,7 @@ Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Donald J. Trump.
 
-#### Ex Ord. No. 13911. Delegating Additional Authority Under the Defense Production Act With Respect to Health and Medical Resources To Respond to the Spread of COVID–19
+#### Ex. Ord. No. 13911. Delegating Additional Authority Under the Defense Production Act With Respect to Health and Medical Resources To Respond to the Spread of COVID–19
 Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Defense Production Act of 1950, as amended ([50 U.S.C. 4501](./chapter-055-defense-production.md#section-4501) et seq.) (the “Act”), the National Emergencies Act ([50 U.S.C. 1601](./chapter-034-national-emergencies.md#section-1601) et seq.), and [section 301 of title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section301&num=0&edition=prelim), United States Code, it is hereby ordered as follows:
@@ -591,7 +591,7 @@ This disruption threatens the continued functioning of the national infant formu
 
 Sec. 2. Ensuring the Continued Supply of Formula. (a) Notwithstanding Executive Order 13603 of March 16, 2012 (National Defense Resources Preparedness) [[50 U.S.C. 4553](./chapter-055-defense-production.md#section-4553) note], the authority of the President conferred by section 101 of the Act to require performance of contracts or orders (other than contracts of employment) to promote the national defense over performance of any other contracts or orders, to allocate materials, services, and facilities as deemed necessary or appropriate to promote the national defense, and to implement the Act in subchapter III [[50 U.S.C. 4551](./chapter-055-defense-production.md#section-4551) et seq.] of chapter 55 of title 50, United States Code ([50 U.S.C. 4554](./chapter-055-defense-production.md#section-4554), 4555, 4556, 4559, 4560), is delegated to the Secretary of Health and Human Services with respect to all health resources, including the ingredients necessary to manufacture infant formula.
 
-(b) The Secretary of Health and Human Services may use the authority under section 101 of the Act to determine, in consultation with the Secretary of Agriculture and the heads of other executive departments and agencies as appropriate, the proper nationwide priorities and allocation of all ingredients necessary to manufacture infant forumla, including controlling the distribution of such materials (including applicable services) in the civilian market, for responding to the shortage of infant formula within the United States.
+(b) The Secretary of Health and Human Services may use the authority under section 101 of the Act to determine, in consultation with the Secretary of Agriculture and the heads of other executive departments and agencies as appropriate, the proper nationwide priorities and allocation of all ingredients necessary to manufacture infant forumla [sic], including controlling the distribution of such materials (including applicable services) in the civilian market, for responding to the shortage of infant formula within the United States.
 
 You are authorized and directed to publish this determination in the Federal Register.
 
@@ -934,6 +934,8 @@ Pub. L. 116–136, div. B, title III, Mar. 27, 2020, 134 Stat. 520, provided in 
 #### Limitation on Cancellation of Designation of Secretary of the Air Force as Department of Defense Executive Agent
 Pub. L. 115–232, div. A, title XVII, § 1792, Aug. 13, 2018, 132 Stat. 2238, provided that: “(a) Limitation on Cancellation of Designation.—The Secretary of Defense may not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.01E, entitled ‘Defense Production Act Programs’ and dated October 12, 2001, of the Secretary of the Air Force as the Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.) until the date specified in subsection (c). “(b) Designation.—The Secretary of the Air Force shall continue to serve as the sole and exclusive Department of Defense Executive Agent for the program described in subsection (a) until the date specified in subsection (c). “(c) Date Specified.—The date specified in this subsection is the date of the enactment of a joint resolution or an Act approving the implementation of the decision described in subsection (a).”
 
+Pub. L. 115–91, div. A, title II, § 226, Dec. 12, 2017, 131 Stat. 1335, as amended by Pub. L. 117–263, div. A, title II, § 214, Dec. 23, 2022, 136 Stat. 2471, provided that: “(a) Limitation on Cancellation of Designation.—The Secretary of Defense may not implement the decision, issued on July 1, 2017, to cancel the designation, under Department of Defense Directive 4400.1E, entitled ‘Defense Production Act Programs’ and dated October 12, 2001, of the currently assigned Department of Defense Executive Agent for the program carried out under title III of the Defense Production Act of 1950 ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) et seq.) until the Secretary has—“(1) completed the review and assessment required by subsection (b)(1); and “(2) carried out the briefing required by subsection (c). “(b) Review and Assessment Required.—“(1) In general.—The Secretary of Defense, in consultation with the Secretary of the Air Force, shall conduct a review and assessment of the program described in subsection (a). “(2) Elements.—The review and assessment required by paragraph (1) shall include the following:“(A) Assessment of the current management structure for the program, including analysis of the mechanisms for accountability, as well as cost and management controls currently in place. “(B) Analysis of alternatives for proposals to modify that management structure to increase accountability, cost and management controls. Such analysis of alternatives should consider the relative merits of centralization and decentralization, roles of other military departments in program management and contracting, as well as the different roles the Office of the Secretary of Defense might play in management, oversight and execution. “(C) Recommendations for improving the assessment and selection of projects in order to—“(i) ensure that projects selected are appropriate for use of funds appropriated to carry out title III of the Defense Production Act of 1950; “(ii) ensure that sufficient vetting and management controls are in place to ensure a reasonable degree of confidence that project ideas or the companies being supported will be viable; and “(iii) increase overall successful execution for selected projects. “(D) Such other matters as the Secretary considers appropriate. “(c) Briefing Required.—The Secretary shall brief the appropriate Committees of Congress on the findings of the Secretary with respect to the review and assessment conducted under subsection (b). “(d) Notification Required.—In the event the Secretary of Defense decides to cancel the designation, under Department of Defense Directive 4400.1E, entitled ‘Defense Production Act Programs’ and dated October 12, 2001, of the currently assigned Department of Defense Executive Agent for the program described in subsection (a), the Secretary shall submit to the appropriate committees of Congress a written notification of such decision at least 60 days before the decision goes into effect. “(e) Designation of Other Executive Agents.—Notwithstanding the requirements of this section or section 1792 of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 [Pub. L. 115–232] ([50 U.S.C. 4531](./chapter-055-defense-production.md#section-4531) note), the Secretary of Defense may designate one or more Executive Agents within the Department of Defense (other than the Executive Agent described in subsection (a)) to implement Defense Production Act transactions entered into under the authority of sections 4021, 4022, and 4023 of title 10, United States Code. “(f) Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means the—“(1) the [sic] Committee on Armed Services and the Committee on Banking, Housing, and Urban Affairs of the Senate; and “(2) the [sic] Committee on Armed Services and the Committee on Financial Services of the House of Representatives.”
+
 #### Delegation of Functions
 Authority of President under this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and the Secretary of Homeland Security, see section 2 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18403, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
 
@@ -1051,8 +1053,8 @@ Sec. 4. General Provisions. (a) Nothing in this order shall be construed to impa
 Donald J. Trump.
 
 
-<a id="section-4551"></a>
-## § 4551. Other presidential action authorized
+<a id="section-4535"></a>
+## § 4535. Other presidential action authorized
 **(a) In general**
 
 (1) **In general** — To create, maintain, protect, expand, or restore domestic industrial base capabilities essential for the national defense, the President may make provision—
@@ -1195,8 +1197,8 @@ For delegation of certain authority of President under this section, see section
 Requirements of subsec. (a)(1) to (6) of this section waived during the national emergency declared by Proc. No. 9994, Mar. 13, 2020, 85 F.R. 15337, set out as a note under [section 1621 of this title](./chapter-034-national-emergencies.md#section-1621), see section 2(c) of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
 
 
-<a id="section-4552"></a>
-## § 4552. Defense Production Act Fund
+<a id="section-4551"></a>
+## § 4551. Defense Production Act Fund
 **(a) Establishment of Fund** There is established in the Treasury of the United States a separate fund to be known as the “Defense Production Act Fund” (in this section referred to as the “Fund”).
 
 **(b) Moneys in Fund** There shall be credited to the Fund—
@@ -1233,9 +1235,50 @@ This chapter, referred to in subsec. (c), was in the original “this Act”, me
 Section was formerly classified to section 2094 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Prior Provisions
-Prior sections 304 to 310 of act Sept. 8, 1950, ch. 932, were omitted in the general amendment of title III of the Act by Pub. L. 111–67.
+A prior section 304, act Sept. 8, 1950, ch. 932, title III, 64 Stat. 802; June 2, 1951, ch. 121, Ch. XI, 65 Stat. 61; July 31, 1951, ch. 275, title I, § 103(b), (c), 65 Stat. 134; Pub. L. 86–560, § 2, June 30, 1960, 74 Stat. 282; Pub. L. 88–343, § 3, June 30, 1964, 78 Stat. 235; Pub. L. 93–426, § 2, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 102–558, title I, § 122, Oct. 28, 1992, 106 Stat. 4206; Pub. L. 107–47, § 4(4), Oct. 5, 2001, 115 Stat. 260, related to Defense Production Act Fund, was omitted in the general amendment of title III of the Act by Pub. L. 111–67.
 
-Section 304, act Sept. 8, 1950, ch. 932, title III, 64 Stat. 802; June 2, 1951, ch. 121, Ch. XI, 65 Stat. 61; July 31, 1951, ch. 275, title I, § 103(b), (c), 65 Stat. 134; Pub. L. 86–560, § 2, June 30, 1960, 74 Stat. 282; Pub. L. 88–343, § 3, June 30, 1964, 78 Stat. 235; Pub. L. 93–426, § 2, Sept. 30, 1974, 88 Stat. 1166; Pub. L. 102–558, title I, § 122, Oct. 28, 1992, 106 Stat. 4206; Pub. L. 107–47, § 4(4), Oct. 5, 2001, 115 Stat. 260, related to Defense Production Act Fund.
+#### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
+Requirement described in subsec. (e) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017(1) of Pub. L. 116–136, set out in a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
+
+#### Defense Production Act Fund Manager
+Secretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of this section, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
+
+#### Executive Order No. 12346
+Ex. Ord. No. 12346, Feb. 8, 1982, 47 F.R. 5993, related to the transition of synthetic fuel responsibilities from the Department of Energy to the United States Synthetic Fuels Corporation, revoked Ex. Ord. No. 12242, and provided that the provisions of Ex. Ord. No. 12242 would continue in full force and effect with respect to any loan guarantee issued under its provisions.
+
+
+<a id="section-4552"></a>
+## § 4552. Reports on exercise of authorities
+**(a) In general** The President, or the head of an agency to which the President has delegated authorities under this subchapter, shall submit a report and provide a briefing to the appropriate congressional committees with respect to any action taken pursuant to such authorities—
+
+(1) except as provided by paragraph (2), not later than 30 days after taking the action; and
+
+(2) in the case of an action that involves a business concern in the United Kingdom or Australia, not later than 30 days before taking the action.
+
+**(b) Elements**
+
+(1) **In general** — Each report and briefing required by subsection (a) with respect to an action described in that subsection shall include—
+
+  (A) a justification of the necessity of the use of authorities under this subchapter; and
+
+  (B) a description of the financial terms of any related financial transaction.
+
+(2) **Additional elements relating to business concerns in the United Kingdom or Australia** — Each report and briefing required by subsection (a) with respect to an action described in paragraph (2) of that subsection shall include, in addition to the elements under paragraph (1)—
+
+  (A) a certification that business concerns in the United States or Canada were not available with respect to the action; and
+
+  (B) an analysis of why such business concerns were not available.
+
+**(c) Appropriate congressional committees defined** In this section, the term “appropriate congressional committees” means—
+
+(1) the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives; and
+
+(2) in the case of an action described in subsection (a) involving materials critical to national security (as defined in [section 4552(7)(B)(ii)(II)(bb) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4552/7/B/ii/II/bb&num=0&edition=prelim)), the Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives.
+
+### Statutory Notes
+
+#### Prior Provisions
+Prior sections 305 to 310 of act Sept. 8, 1950, ch. 932, were omitted in the general amendment of title III of the Act by Pub. L. 111–67.
 
 Section 305, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 96–294, title I, § 104(e), June 30, 1980, 94 Stat. 619; amended Pub. L. 107–314, div. A, title X, § 1062(o)(3), Dec. 2, 2002, 116 Stat. 2653, related to synthetic fuel production.
 
@@ -1248,15 +1291,6 @@ Section 308, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 96–294, t
 Section 309, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 98–265, § 6, Apr. 17, 1984, 98 Stat. 152; amended Pub. L. 99–441, § 4, Oct. 3, 1986, 100 Stat. 1117; Pub. L. 102–558, title I, § 124, Oct. 28, 1992, 106 Stat. 4207; Pub. L. 107–47, § 4(5), Oct. 5, 2001, 115 Stat. 260, related to annual report on impact of offsets. See [section 4568 of this title](./chapter-055-defense-production.md#section-4568).
 
 Section 310, act Sept. 8, 1950, ch. 932, title III, as added Pub. L. 102–558, title I, § 125, Oct. 28, 1992, 106 Stat. 4208, related to civil-military integration.
-
-#### Increasing Access to Materials Necessary for National Security and Pandemic Recovery
-Requirement described in subsec. (e) of this section not applicable during the 2-year period beginning on Mar. 27, 2020, see section 4017(1) of Pub. L. 116–136, set out in a note under [section 4532 of this title](./chapter-055-defense-production.md#section-4532).
-
-#### Defense Production Act Fund Manager
-Secretary of Defense designated Defense Production Act Fund Manager in accordance with subsec. (f) of this section, see section 309 of Ex. Ord. No. 13603, Mar. 16, 2012, 77 F.R. 16655, set out as a note under [section 4553 of this title](./chapter-055-defense-production.md#section-4553).
-
-#### Executive Order No. 12346
-Ex. Ord. No. 12346, Feb. 8, 1982, 47 F.R. 5993, related to the transition of synthetic fuel responsibilities from the Department of Energy to the United States Synthetic Fuels Corporation, revoked Ex. Ord. No. 12242, and provided that the provisions of Ex. Ord. No. 12242 would continue in full force and effect with respect to any loan guarantee issued under its provisions.
 
 
 <a id="section-4553"></a>
@@ -1335,11 +1369,35 @@ For purposes of this chapter, the following definitions shall apply:
 
 (6) **Domestic industrial base** — The term “domestic industrial base” means domestic sources which are providing, or which would be reasonably expected to provide, materials or services to meet national defense requirements during peacetime, national emergency, or war.
 
-(7) **Domestic source** — The term “domestic source” means a business concern—
+(7) **Domestic source**
 
-  (A) that performs in the United States or Canada substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item; and
+  (A) *In general* — Except as provided in subparagraph (B), the term “domestic source” means a business concern—
 
-  (B) that procures from business concerns described in subparagraph (A) substantially all of any components and assemblies required under a contract with the United States relating to a critical component or critical technology item.
+    (i) that performs in the United States or Canada substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item; and
+
+    (ii) that procures from business concerns described in clause (i) substantially all of any components and assemblies required under a contract with the United States relating to a critical component or critical technology item.
+
+  (B) *Domestic source for subchapter II*
+
+    (i) *In general* — For purposes of subchapter II, the term “domestic source” means a business concern that—
+
+      (I) performs substantially all of the research and development, engineering, manufacturing, and production activities required of such business concern under a contract with the United States relating to a critical component or a critical technology item in—
+
+        (aa) the United States or Canada; or
+
+        (bb) subject to clause (ii), Australia or the United Kingdom; and
+
+      (II) procures from business concerns described in subclause (I) substantially all of any components or assemblies required under a contract with the United States relating to a critical component or critical technology item.
+
+    (ii) *Limitations on use of business concerns in Australia and United Kingdom*
+
+      (I) *In general* — A business concern described in clause (i)(I)(bb) may be treated as a domestic source only for purposes of the exercise of authorities under subchapter II relating to national defense matters that cannot be fully addressed with business concerns described in clause (i)(I)(aa).
+
+      (II) *National defense matter defined* — For purposes of subclause (I), the term “national defense matter” is a matter relating to the development or production of—
+
+        (aa) a defense article, as defined in [section 301 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section301&num=0&edition=prelim); or
+
+        (bb) materials critical to national security, as defined in [section 98h–1(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–1/f&num=0&edition=prelim).
 
 (8) **Facilities** — The term “facilities” includes all types of buildings, structures, or other improvements to real property (but excluding farms, churches or other places of worship, and private dwelling houses), and services relating to the use of any such building, structure, or other improvement.
 
@@ -1395,6 +1453,8 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 Section was formerly classified to section 2152 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2023—Par. (7). Pub. L. 118–31 designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraph (B), the term” for “The term” in introductory provisions, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A) and realigned margins, substituted “clause (i)” for “subparagraph (A)” in cl. (ii), and added subpar. (B).
+
 2009—Par. (1). Pub. L. 111–67, § 8(1), substituted “equipment identified by the President” for “military equipment identified by the Secretary of Defense”.
 
 Pars. (2), (3). Pub. L. 111–67, § 8(2)–(4), added par. (3), redesignated former par. (3) as (2), and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “The term ‘critical industry for national security’ means any industry (or industry sector) identified pursuant to [section 2503(6) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2503/6&num=0&edition=prelim) and such other industries or industry sectors as may be designated by the President as essential to provide industrial resources required for the execution of the national security strategy of the United States.”
@@ -1892,7 +1952,7 @@ Section was formerly classified to section 2157 of the former Appendix to this t
 
 **(d) Advisory committees; establishment; applicable provisions; membership; notice and participation in meetings; verbatim transcript; availability to public**
 
-(1) To achieve the objectives of subsection (c)(1) of this section, the President or any individual designated pursuant to subsection (c)(2) may provide for the establishment of such advisory committees as he determines are necessary. In addition to the requirements specified in this section and except as provided in subsection (n), any such advisory committee shall be subject to the provisions of the Federal Advisory Committee Act, whether or not such Act or any of its provisions expire or terminate during the term of this chapter or of such committees, and in all cases such advisory committees shall be chaired by a Federal employee (other than an individual employed pursuant to [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)) and shall include representatives of the public. The Attorney General and the Federal Trade Commission shall have adequate advance notice of any meeting and may have an official representative attend and participate in any such meeting.
+(1) To achieve the objectives of subsection (c)(1) of this section, the President or any individual designated pursuant to subsection (c)(2) may provide for the establishment of such advisory committees as he determines are necessary. In addition to the requirements specified in this section and except as provided in subsection (n), any such advisory committee shall be subject to the provisions of chapter 10 of title 5, whether or not such chapter or any of its provisions expire or terminate during the term of this chapter or of such committees, and in all cases such advisory committees shall be chaired by a Federal employee (other than an individual employed pursuant to [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)) and shall include representatives of the public. The Attorney General and the Federal Trade Commission shall have adequate advance notice of any meeting and may have an official representative attend and participate in any such meeting.
 
 (2) A full and complete verbatim transcript shall be kept of such advisory committee meetings, and shall be taken and deposited, together with any agreement resulting therefrom, with the Attorney General and the Federal Trade Commission. Such transcript and agreement shall be made available for public inspection and copying, subject to the provisions of paragraphs (1), (3), and (4) of [section 552(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552/b&num=0&edition=prelim).
 
@@ -2016,7 +2076,7 @@ Section was formerly classified to section 2157 of the former Appendix to this t
 
 **(m) Jurisdiction to enjoin statutory exemption or suspension and order for production of transcripts, etc.; procedures** On complaint, the United States District Court for the District of Columbia shall have jurisdiction to enjoin any exemption or suspension pursuant to subsections (d)(2), (e)(3)(D) and (G), and (h)(3), (7), and (8), and to order the production of transcripts, agreements, items, or other records maintained pursuant to this section by the Attorney General, the Federal Trade Commission or any individual designated under subsection (c)(2), where the court determines that such transcripts, agreements, items, or other records have been improperly withheld from the complainant. In such a case the court shall determine the matter de novo, and may examine the contents of such transcripts, agreements, items, or other records in camera to determine whether such transcripts, agreements, items, or other records or any parts thereof shall be withheld under any of the exemption or suspension provisions referred to in this subsection, and the burden is on the Attorney General, the Federal Trade Commission, or such designated individual, as the case may be, to sustain its action.
 
-**(n) Exemption from Advisory Committee Act provisions** Notwithstanding any other provision of law, the Federal Advisory Committee Act (5 U.S.C. App.) and any other provision of Federal law relating to advisory committees shall not apply to—
+**(n) Exemption from chapter 10 of title 5** Notwithstanding any other provision of law, chapter 10 of title 5 and any other provision of Federal law relating to advisory committees shall not apply to—
 
 (1) the consultations referred to in subsection (c)(1); or
 
@@ -2029,12 +2089,14 @@ Section was formerly classified to section 2157 of the former Appendix to this t
 #### References in Text
 This chapter, referred to in subsecs. (a), (b), and (d)(1), was in the original “this Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title](./chapter-055-defense-production.md#section-4501) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsecs. (d)(1) and (n), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was formerly classified to section 2158 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–286, § 4(a)(321), substituted “chapter 10 of title 5, whether or not such chapter” for “the Federal Advisory Committee Act, whether or not such Act”.
+
+Subsec. (n). Pub. L. 117–286, § 4(a)(322), substituted “chapter 10 of title 5” for “Advisory Committee Act provisions” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)” in introductory provisions.
+
 2009—Subsec. (c)(1). Pub. L. 111–67, § 9(1)(A), substituted “national defense.” for “defense of the United States through the development of preparedness programs and the expansion of productive capacity and supply beyond levels needed to meet essential civilian demand in the United States.”
 
 Subsec. (c)(3). Pub. L. 111–67, § 9(1)(B), added par. (3).
@@ -2154,7 +2216,7 @@ Pub. L. 94–152, § 4, Dec. 16, 1975, 89 Stat. 820, provided that: “(a) Any v
 [Section 708A of the Defense Production Act of 1950, referred to in section 4 of Pub. L. 94–152, set out above, which was classified to section 2158a of the former Appendix to this title, was repealed by Pub. L. 102–99, § 4, Aug. 17, 1991, 105 Stat. 487.]
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Delegation of Functions
 Authority of President under subsecs. (c)(1) and (d) of this section with respect to responding to the spread of COVID–19 within the United States delegated to Secretary of Health and Human Services and Secretary of Homeland Security, see section 3 of Ex. Ord. No. 13911, Mar. 27, 2020, 85 F.R. 18404, set out as a note under [section 4511 of this title](./chapter-055-defense-production.md#section-4511).
@@ -2236,7 +2298,7 @@ Pub. L. 102–558, title I, § 136(b), Oct. 28, 1992, 106 Stat. 4217, provided t
 
   (A) *Public notice of appointment.—* — The head of any department or agency who appoints any individual under this subsection shall publish a notice of such appointment in the Federal Register, including the name of the appointee, the employing department or agency, the title of the appointee’s position, and the name of the appointee’s private employer.
 
-  (B) *Financial disclosure.—* — Any individual appointed under this subsection who is not required to file a financial disclosure report pursuant to section 101 of the Ethics in Government Act of 1978, shall file a confidential financial disclosure report pursuant to section 107 of that Act with the appointing department or agency.
+  (B) *Financial disclosure.—* — Any individual appointed under this subsection who is not required to file a financial disclosure report pursuant to [section 13103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103&num=0&edition=prelim), shall file a confidential financial disclosure report pursuant to [section 13109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13109&num=0&edition=prelim) with the appointing department or agency.
 
 (6) The Director of the Office of Personnel Management shall carry out a biennial survey of appointments made under this subsection and shall report his or her findings to the President and make such recommendations as he or she may deem proper.
 
@@ -2260,14 +2322,14 @@ For termination of section, see [section 4564(a) of this title](https://uscode.h
 #### References in Text
 This chapter, referred to in subsecs. (b), (c), and (g), was in the original “this Act” or “the Act”, meaning act Sept. 8, 1950, ch. 932, 64 Stat. 798, known as the Defense Production Act of 1950, which is classified principally to this chapter. For complete classification of this Act to the Code, see [section 4501 of this title](./chapter-055-defense-production.md#section-4501) and Tables.
 
-Sections 101 and 107 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(B), are sections 101 and 107 of Pub. L. 95–521, which are set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was formerly classified to section 2160 of the former Appendix to this title prior to editorial reclassification and renumbering as this section.
 
 In subsec. (c), “[section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim)” substituted for “[section 55a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim) of the United States Code” as if it had been a reference to section 15 of act Aug. 2, 1946, ch. 744, 60 Stat. 810, on which [section 55a of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section55a&num=0&edition=prelim) was based, on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
+2022—Subsec. (b)(5)(B). Pub. L. 117–286 substituted “[section 13103 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103&num=0&edition=prelim),” for “section 101 of the Ethics in Government Act of 1978,” and “[section 13109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13109&num=0&edition=prelim)” for “section 107 of that Act”.
+
 2009—Subsec. (b)(2)(iii). Pub. L. 111–67, § 10(1)(A), struck out cl. (iii), which read as follows: “In the appointment of personnel and in assignment of their duties, the head of the department or agency involved shall take steps to avoid, to as great an extent as possible, any conflict between the governmental duties and the private interests of such personnel.”
 
 Subsec. (b)(4), (5). Pub. L. 111–67, § 10(1)(B), (C), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4), which exempted persons employed under subsec. (b) from certain provisions restricting activities of and payments to retired military officers and public officials, with specific exceptions.

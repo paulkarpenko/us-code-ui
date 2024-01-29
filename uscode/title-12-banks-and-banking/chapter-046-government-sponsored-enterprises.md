@@ -2,7 +2,7 @@
 title: 12
 chapter: '46'
 heading: GOVERNMENT SPONSORED ENTERPRISES
-section_count: 78
+section_count: 80
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12&num=0&edition=prelim
 ---
@@ -99,7 +99,7 @@ The Congress finds that—
 ### Statutory Notes
 
 #### References in Text
-The Federal Home Loan Bank Act, referred to in par. (8), is act July 22, 1932, ch. 522, 47 Stat. 725, as amended, which is classified generally to chapter 11 (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see [section 1421 of this title](./chapter-011-federal-home-loan-banks.md#section-1421) and Tables.
+The Federal Home Loan Bank Act, referred to in par. (8), is act July 22, 1932, ch. 522, 47 Stat. 725, which is classified generally to chapter 11 (§ 1421 et seq.) of this title. For complete classification of this Act to the Code, see [section 1421 of this title](./chapter-011-federal-home-loan-banks.md#section-1421) and Tables.
 
 #### Short Title of 2008 Amendment
 Pub. L. 110–289, § 1(a), July 30, 2008, 122 Stat. 2654, provided that: “This Act [see Tables for classification] may be cited as the ‘Housing and Economic Recovery Act of 2008’.”
@@ -419,6 +419,9 @@ Pub. L. 110–289, div. A, § 1002(b), July 30, 2008, 122 Stat. 2661, provided t
 
 #### References in Text
 The effective date of the Federal Housing Finance Regulatory Reform Act of 2008, referred to in subsec. (b)(5), probably means the date of enactment of Pub. L. 110–289, which was approved July 30, 2008.
+
+#### Constitutionality
+For information regarding the constitutionality of provisions of subsection (b)(2) of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Prior Provisions
 A prior section 4512, Pub. L. 102–550, title XIII, § 1312, Oct. 28, 1992, 106 Stat. 3945, related to the Director and Deputy Director of the Office of Federal Housing Enterprise Oversight, prior to repeal by Pub. L. 110–289, div. A, title I, § 1101, July 30, 2008, 122 Stat. 2661.
@@ -885,7 +888,7 @@ Pub. L. 103–124, title II, Oct. 28, 1993, 107 Stat. 1290, provided that notwit
 
 **(c) Examiners** The Director shall appoint examiners to conduct examinations under this section. The Director may contract with the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, or the Federal Deposit Insurance Corporation for the services of examiners to conduct examinations under this section. The Director shall reimburse such agencies for any costs of providing examiners from amounts available in the Federal Housing Enterprises Oversight Fund.
 
-**(d) Inspector General** There shall be within the Agency an Inspector General, who shall be appointed in accordance with section 3(a) of the Inspector General Act of 1978.
+**(d) Inspector General** There shall be within the Agency an Inspector General, who shall be appointed in accordance with [section 403(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/a&num=0&edition=prelim).
 
 **(e) Law applicable to examiners** The Director and each examiner shall have the same authority and each examiner shall be subject to the same disclosures, prohibitions, obligations, and penalties as are applicable to examiners employed by the Federal Reserve banks.
 
@@ -907,10 +910,9 @@ Pub. L. 103–124, title II, Oct. 28, 1993, 107 Stat. 1290, provided that notwit
 
 ### Statutory Notes
 
-#### References in Text
-Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (d), is section 3(a) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–286 substituted “[section 403(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/a&num=0&edition=prelim).” for “section 3(a) of the Inspector General Act of 1978.”
+
 2010—Subsec. (c). Pub. L. 111–203 substituted “or the Federal Deposit Insurance Corporation” for “the Federal Deposit Insurance Corporation, or the Director of the Office of Thrift Supervision”.
 
 2008—Subsec. (a). Pub. L. 110–289, § 1105(a)(1), substituted “regulated entity” for “enterprise” in two places.
@@ -1214,8 +1216,8 @@ Neither the Director nor any former officer or employee of the Agency who, while
 2008—Pub. L. 110–289 substituted “the Agency” for “the Office” wherever appearing.
 
 
-<a id="section-4541"></a>
-## § 4541. Audits by GAO
+<a id="section-4527"></a>
+## § 4527. Audits by GAO
 
 The Comptroller General may audit the operations of the Agency, and any such audit shall be conducted in accordance with generally accepted Government auditing standards. All books, records, accounts, reports, files, and property belonging to, or used by, the Agency shall be made available to the Comptroller General.
 
@@ -1227,8 +1229,8 @@ The Comptroller General may audit the operations of the Agency, and any such aud
 1996—Pub. L. 104–316, in first sentence, substituted “may audit” for “shall audit” and inserted “, and any such audit shall be conducted” after “Office”, and struck out at end “Audits under this section shall be conducted annually for the first 2 fiscal years following October 28, 1992, and as appropriate thereafter.”
 
 
-<a id="section-4542"></a>
-## § 4542. Information, records, and meetings
+<a id="section-4528"></a>
+## § 4528. Information, records, and meetings
 
 For purposes of subchapter II of chapter 5 of title 5—
 
@@ -1239,15 +1241,15 @@ shall be considered agencies responsible for the regulation or supervision of fi
 
 ### Statutory Notes
 
-#### Amendments
-2008—Par. (1). Pub. L. 110–289 substituted “the Agency” for “the Office”.
-
 #### References in Text
 This chapter, referred to in par. (2), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under [section 4501 of this title](./chapter-046-government-sponsored-enterprises.md#section-4501) and Tables.
 
+#### Amendments
+2008—Par. (1). Pub. L. 110–289 substituted “the Agency” for “the Office”.
 
-<a id="section-4543"></a>
-## § 4543. Regulations and orders
+
+<a id="section-4541"></a>
+## § 4541. Regulations and orders
 **(a) Authority** The Director shall issue any regulations, guidelines, or orders necessary to carry out the duties of the Director under this chapter or the authorizing statutes, and to ensure that the purposes of this chapter and the authorizing statutes are accomplished.
 
 **(b) Notice and comment** Any regulations issued by the Director under this section shall be issued after notice and opportunity for public comment pursuant to the provisions of [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim).
@@ -1261,6 +1263,40 @@ This chapter, referred to in subsec. (a), was in the original “this title”, 
 2008—Subsec. (a). Pub. L. 110–289, § 1107(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director shall issue any regulations and orders necessary to carry out the duties of the Director and to carry out this chapter before the expiration of the 18-month period beginning on the appointment of the Director under [section 4512 of this title](./chapter-046-government-sponsored-enterprises.md#section-4512). Such regulations and orders shall be subject to the approval of the Secretary only to the extent provided in subsections (b) and (c) of [section 4513 of this title](./chapter-046-government-sponsored-enterprises.md#section-4513).”
 
 Subsec. (c). Pub. L. 110–289, § 1107(2), struck out subsec. (c). Text read as follows: “The Director may not publish any regulation for comment under subsection (b) of this section unless, not less than 15 days before it is published for comment, the Director has submitted a copy of the regulation, in the form it is intended to be proposed, to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.”
+
+
+<a id="section-4542"></a>
+## § 4542. Data standards
+**(a) Requirement** The Agency shall, by rule, adopt data standards for all collections of information that are regularly filed with or submitted to the Agency.
+
+**(b) Consistency** The data standards required under subsection (a) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
+### Statutory Notes
+
+#### Rulemaking
+Pub. L. 117–263, div. E, title LVIII, § 5883, Dec. 23, 2022, 136 Stat. 3437, provided that: “(a) In General.—The Director of the Federal Housing Finance Agency shall issue rules to carry out the amendments made by this subtitle [subtitle H (§§ 5881–5884) of title LVIII of div. E of Pub. L. 117–263, enacting this section and [section 4528 of this title](./chapter-046-government-sponsored-enterprises.md#section-4528)], which shall take effect not later than 2 years after the date on which final rules are promulgated under section 124(b)(2) of the Financial Stability Act of 2010 [[12 U.S.C. 5334(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5334/b/2&num=0&edition=prelim)], as added by [section 5811(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section5811/a&num=0&edition=prelim). “(b) Minimizing Disruption.—In issuing the regulations required under subsection (a), the Director of the Federal Housing Finance Agency shall seek to minimize disruptive changes to the persons affected by those rules.”
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Pub. L. 117–263, div. E, title LVIII, § 5884, Dec. 23, 2022, 136 Stat. 3438, provided that: “Nothing in this subtitle [subtitle H (§§ 5881–5884) of title LVIII of div. E of Pub. L. 117–263, enacting this section, [section 4528 of this title](./chapter-046-government-sponsored-enterprises.md#section-4528), and provisions set out as a note under this section], or the amendments made by this subtitle, shall be construed to require the Federal Housing Finance Agency to collect or make publicly available additional information under the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 ([12 U.S.C. 4501](./chapter-046-government-sponsored-enterprises.md#section-4501) et seq.), beyond information that was collected or made publicly available under that Act, as of the day before the date of enactment of this Act [Dec. 23, 2022].”
+
+
+<a id="section-4543"></a>
+## § 4543. Open data publication
+
+All public data assets published by the Agency shall be—
+
+(1) made available as an open Government data asset (as defined in [section 3502 of title 44](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title44-section3502&num=0&edition=prelim));
+
+(2) freely available for download;
+
+(3) rendered in a human-readable format; and
+
+(4) accessible via application programming interface where appropriate.
+
+### Statutory Notes
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Enactment of section not to be construed to require certain additional information to be collected or disclosed, see section 5884 of Pub. L. 117–263, set out as a note under [section 4527 of this title](./chapter-046-government-sponsored-enterprises.md#section-4527).
 
 
 <a id="section-4544"></a>
@@ -1474,9 +1510,9 @@ The Secretary of Housing and Urban Development shall—
 ### Statutory Notes
 
 #### References in Text
-The Fair Housing Act, referred to in pars. (2) and (4) to (6), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
+The Fair Housing Act, referred to in pars. (2) and (4) to (6), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, which is classified principally to subchapter I (§ 3601 et seq.) of chapter 45 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3601&num=0&edition=prelim) and Tables.
 
-The Equal Credit Opportunity Act, referred to in pars. (3) to (5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
+The Equal Credit Opportunity Act, referred to in pars. (3) to (5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, § 503, Oct. 28, 1974, 88 Stat. 1521, which is classified generally to subchapter IV (§ 1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1601&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Pub. L. 110–289 inserted “of Housing and Urban Development” after “The Secretary” in introductory provisions.
@@ -2768,9 +2804,9 @@ Before the expiration of the period ending 18 months after the appointment of th
 ### Statutory Notes
 
 #### References in Text
-The Federal National Mortgage Association Charter Act, referred to in text, is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, as amended, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1716 of this title](./chapter-013-national-housing.md#section-1716) and Tables.
+The Federal National Mortgage Association Charter Act, referred to in text, is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§ 1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1716 of this title](./chapter-013-national-housing.md#section-1716) and Tables.
 
-The Federal Home Loan Mortgage Corporation Act, referred to in text, is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, as amended, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under [section 1451 of this title](./chapter-11a-federal-home-loan-mortgage-corporation.md#section-1451) and Tables.
+The Federal Home Loan Mortgage Corporation Act, referred to in text, is title III of Pub. L. 91–351, July 24, 1970, 84 Stat. 451, which is classified generally to chapter 11A (§ 1451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title and Statement of Purpose note set out under [section 1451 of this title](./chapter-11a-federal-home-loan-mortgage-corporation.md#section-1451) and Tables.
 
 
 <a id="section-4614"></a>

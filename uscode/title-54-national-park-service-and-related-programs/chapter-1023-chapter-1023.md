@@ -153,7 +153,7 @@ Pub. L. 114–289, title III, § 303, Dec. 16, 2016, 130 Stat. 1487, provided th
 
 (2) **Facilities and services.—** — On request of the Board, the head of any Federal department, agency, or instrumentality may make any of the facilities and services of the department, agency, or instrumentality available to the Board, on a nonreimbursable basis, to assist the Board in carrying out its duties under this section.
 
-**(h) Federal Advisory Committee Act.—** The Federal Advisory Committee Act (5 U.S.C. App.), with the exception of section 14(b), applies to the Board.
+**(h) Chapter 10 of Title 5.—** Chapter 10 of title 5, with the exception of section 1013(b), applies to the Board.
 
 **(i) Termination.—** The Board continues to exist until January 1, 2010.
 
@@ -180,8 +180,8 @@ Pub. L. 114–289, title III, § 303, Dec. 16, 2016, 130 Stat. 1487, provided th
 
 In subsection (c)(2), the words “natural or cultural” are substituted for “national or cultural” to correct an error in the source provision.
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (h). Pub. L. 117–286 substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5, with the exception of section 1013(b),” for “The Federal Advisory Committee Act (5 U.S.C. App.), with the exception of section 14(b),” in text.
 
 #### Authorization of Appropriations
 Pub. L. 104–333, div. I, title VIII, § 814(f)(2), Nov. 12, 1996, 110 Stat. 4199, provided that: “There are authorized to be appropriated to the National Park System Advisory Board $200,000 per year to carry out the provisions of section 3 of the Act of August 21, 1935 (49 Stat. 667; [16 U.S.C. 463](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section463&num=0&edition=prelim)) [see [54 U.S.C. 102303](./chapter-1023-chapter-1023.md#section-102303), 102304].”

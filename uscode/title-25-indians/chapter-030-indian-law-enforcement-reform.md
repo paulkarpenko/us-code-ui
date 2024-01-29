@@ -833,7 +833,7 @@ Rule 6 of the Federal Rules of Criminal Procedure, referred to in subsec. (c)(2)
 
 **(l) Termination of Commission** The Commission shall terminate 90 days after the date on which the Commission submits the report of the Commission under subsection (f).
 
-**(m) Nonapplicability of FACA** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+**(m) Nonapplicability of chapter 10 of title 5** Chapter 10 of title 5 shall not apply to the Commission.
 
 ### Statutory Notes
 
@@ -844,9 +844,9 @@ The Indian Civil Rights Act of 1968, referred to in subsec. (d)(4), is title II 
 
 The Tribal Law and Order Act of 2010, referred to in subsec. (d)(5), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under [section 2801 of this title](./chapter-030-indian-law-enforcement-reform.md#section-2801) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (m), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (m). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2013—Subsec. (f). Pub. L. 113–4 substituted “3 years” for “2 years” in introductory provisions.
 
 

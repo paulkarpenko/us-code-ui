@@ -78,14 +78,13 @@ source: >-
 
   (B) consult with the committee established under [section 5607 of this title](./chapter-076-northwest-atlantic-fisheries-convention.md#section-5607).
 
-(2) **Relationship to other law** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to coordination and consultations under this subsection.
+(2) **Relationship to other law** — Chapter 10 of title 5 shall not apply to coordination and consultations under this subsection.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (f)(2). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2016—Subsec. (a)(1). Pub. L. 114–327, § 502(1), in introductory provisions, struck out “General Council and the Fisheries” before “Commission”.
 
 Subsec. (b)(1). Pub. L. 114–327, § 502(2), struck out “at a meeting of the General Council or the Fisheries Commission” after “appointed Commissioner”.
@@ -233,14 +232,13 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 (3) all nonexecutive meetings of the United States Commissioners.
 
-**(d) Relationship to other law** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the consultative committee established under this section.
+**(d) Relationship to other law** Chapter 10 of title 5 shall not apply to the consultative committee established under this section.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (d). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2016—Subsec. (b)(2). Pub. L. 114–327, § 507(1), substituted “2” for “two”.
 
 Subsec. (c)(1), (2). Pub. L. 114–327, § 507(2), struck out “General Council or the Fisheries” before “Commission;”.

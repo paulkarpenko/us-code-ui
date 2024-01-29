@@ -50,18 +50,28 @@ Pub. L. 103–337, div. A, title V, § 541(a)(1), Oct. 5, 1994, 108 Stat. 2764, 
 Pub. L. 102–190, div. A, title XI, § 1111(a), Dec. 5, 1991, 105 Stat. 1491, provided that: “The grade of chief warrant officer, W–5, is hereby established in the Army, Navy, Air Force, and Marine Corps.”
 
 #### Delegation of Functions
+Authority of President under subsec. (b) of this section to appoint by commission regular chief warrant officers and reserve chief warrant officers in the Coast Guard delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 1(g), (h), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section2101&num=0&edition=prelim), Coast Guard.
+
 Functions of President under second sentence of subsec. (b) of this section delegated to Secretary of Defense by section 1(b) of Ex. Ord. No. 13384, July 27, 2005, 70 F.R. 43739, set out as a note under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
 
 
 <a id="section-572"></a>
 ## § 572. Warrant officers: original appointment; service credit
+**(a)** For the purposes of promotion, persons originally appointed in regular or reserve warrant officer grades shall be credited with such service as the Secretary concerned may prescribe. However, such a person may not be credited with a period of service greater than the period of active service performed in the grade, or pay grade corresponding to the grade, in which so appointed, or in any higher grade or pay grade.
 
-For the purposes of promotion, persons originally appointed in regular or reserve warrant officer grades shall be credited with such service as the Secretary concerned may prescribe. However, such a person may not be credited with a period of service greater than the period of active service performed in the grade, or pay grade corresponding to the grade, in which so appointed, or in any higher grade or pay grade.
+**(b)** The Secretary concerned shall credit a person who is receiving an original appointment as a warrant officer in the regular component of an armed force under the jurisdiction of such Secretary concerned, and who has advanced education or training or special experience, with constructive service for such education, training, or experience, as follows:
+
+(1) For special training or experience in a particular warrant officer field designated by the Secretary concerned, if such training or experience is directly related to the operational needs of the armed force concerned, as determined by such Secretary concerned.
+
+(2) For advanced education in a warrant officer field designated by the Secretary concerned, if such education is directly related to the operational needs of the armed force concerned, as determined by such Secretary concerned.
 
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 556 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section556&num=0&edition=prelim) prior to repeal by Pub. L. 102–190, § 1112(a).
+
+#### Amendments
+2022—Pub. L. 117–263 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date
 Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out as an Effective Date of 1991 Amendment note under [section 521 of this title](./chapter-032-officer-strength-and-distribution-in-grade.md#section-521).
@@ -165,9 +175,39 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(d)** Each time a selection board is convened under [section 573(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section573/a&num=0&edition=prelim) to consider warrant officers in a competitive category for promotion to the next higher grade, each warrant officer in the promotion zone, and each warrant officer above the promotion zone, for the grade and competitive category under consideration (except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under [section 577 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-577)) shall be considered for promotion.
 
+**(e)**
+
+(1) In selecting the warrant officers to be recommended for promotion, a selection board shall, when authorized by the Secretary concerned, recommend warrant officers of particular merit, pursuant to guidelines and procedures prescribed by the Secretary concerned, from among those warrant officers selected for promotion, to be placed higher on the promotion list contained in the report of such board under [section 576(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section576/c&num=0&edition=prelim).
+
+(2) A selection board may recommend that a warrant officer be placed higher on a promotion list under paragraph (1) only if the warrant officer receives the recommendation of at least a majority of the members of the board, unless the Secretary concerned establishes an alternative requirement. Any such alternate requirement shall be furnished to the board as part of the guidelines furnished to the board under [section 576 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-576).
+
+(3) For the warrant officers recommended to be placed higher on a promotion list under paragraph (1), the board shall recommend the order in which those warrant officers should be placed on the list.
+
+**(f)**
+
+(1) Upon the request of a warrant officer, the Secretary concerned may exclude the warrant officer from consideration for promotion under this section.
+
+(2) The Secretary concerned may approve a request of a warrant officer under paragraph (1) only if—
+
+  (A) the basis for the request is to allow the officer to complete—
+
+    (i) an assignment in support of career progression;
+
+    (ii) advanced education;
+
+    (iii) an assignment such Secretary determines is of significant value to the Armed Force concerned; or
+
+    (iv) a career progression requirement delayed by an assignment or education;
+
+  (B) such Secretary determines that such exclusion from consideration is in the best interest of the Armed Force concerned; and
+
+  (C) the officer has not previously failed of selection for promotion to the grade for which the officer requests exclusion from consideration.
+
 ### Statutory Notes
 
 #### Amendments
+2022—Subsecs. (e), (f). Pub. L. 117–263 added subsecs. (e) and (f).
+
 2002—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1999—Subsec. (b)(2). Pub. L. 106–65 inserted at end “If the number determined under this subsection with respect to a promotion zone within a grade (or grade and competitive category) is less than one, the board may recommend one such officer for promotion from below the zone within that grade (or grade and competitive category).”
@@ -179,7 +219,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 Subsec. (d). Pub. L. 103–337, § 501(a), inserted “(except for a warrant officer precluded from consideration under regulations prescribed by the Secretary concerned under [section 577 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-577))” after “under consideration”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by section 541(b)(3) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
@@ -200,7 +240,11 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(b)** From each promotion zone for a grade (or grade and competitive category), the selection board shall recommend for promotion to the next higher warrant officer grade those warrant officers whom it considers best qualified for promotion, but no more than the number specified by the Secretary concerned.
 
-**(c)** The names of warrant officers selected for promotion under this section shall be arranged in the board’s report in order of the seniority on the warrant officer active-duty list.
+**(c)** The names of warrant officers selected for promotion under this section shall be arranged in the report of such board in the following order of priority:
+
+(1) Warrant officers recommended under [section 575(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section575/e&num=0&edition=prelim) to be placed higher on the promotion list, in the order in which the board determines.
+
+(2) Warrant officers otherwise recommended for promotion, in the order of seniority on the warrant officer active-duty list.
 
 **(d)** Under such regulations as the Secretary concerned may prescribe, the selection board shall report the names of those warrant officers considered by it whose records establish, in its opinion, their unfitness or unsatisfactory performance. A regular warrant officer whose name is so reported shall be considered, under regulations provided by the Secretary concerned, for retirement or separation under [section 1166 of this title](./chapter-059-separation.md#section-1166).
 
@@ -218,6 +262,8 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 Provisions similar to those in this section were contained in [section 560 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section560&num=0&edition=prelim) prior to repeal by Pub. L. 102–190, § 1112(a).
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–263 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The names of warrant officers selected for promotion under this section shall be arranged in the board’s report in order of the seniority on the warrant officer active-duty list.”
+
 1994—Subsec. (a). Pub. L. 103–337, § 541(b)(4)(A), struck out “of the military department” after “The Secretary” in introductory provisions.
 
 Subsec. (e). Pub. L. 103–337, § 541(b)(4)(B), struck out “of the military department” after “submitted to the Secretary”.
@@ -249,7 +295,7 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 <a id="section-578"></a>
 ## § 578. Promotions: how made; effective date
-**(a)** When the report of a selection board convened under this chapter is approved by the Secretary concerned, the Secretary shall place the names of the warrant officers approved for promotion on a single promotion list for each grade (or grade and competitive category), in the order of the seniority of such officers on the warrant officer active-duty list.
+**(a)** When the report of a selection board convened under this chapter is approved by the Secretary concerned, the Secretary shall place the names of the warrant officers approved for promotion on a single promotion list for each grade (or grade and competitive category), in the order set forth in [section 576(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section576/c&num=0&edition=prelim).
 
 **(b)** Promotions of warrant officers on the warrant officer promotion list shall be made when, in accordance with regulations issued by the Secretary concerned, additional warrant officers in that grade (or grade and competitive category), are needed.
 
@@ -261,9 +307,15 @@ Section effective Feb. 1, 1992, see section 1132 of Pub. L. 102–190, set out a
 
 **(f)** A warrant officer who has served continuously as an officer since subscribing to the oath of office prescribed in [section 3331 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3331&num=0&edition=prelim) is not required to take a new oath upon appointment to a higher grade under this section.
 
+**(g)** Notwithstanding subsection (d), and subject to regulations prescribed by the Secretary of Defense, in the case of a warrant officer who is selected for promotion by a selection board convened under this chapter, and prior to the placement of the warrant officer’s name on the applicable promotion list is approved 11 So in original. for transfer to a new component within the same or a different armed force, the Secretary concerned may place the warrant officer’s name on a corresponding promotion list of the new component without regard to the warrant officer’s competitive category. A warrant officer’s promotion under this subsection shall be made pursuant to [section 12242 of this title](./chapter-1207-warrant-officers.md#section-12242).
+
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (g). Pub. L. 118–31 added subsec. (g).
+
+2022—Subsec. (a). Pub. L. 117–263 substituted “set forth in [section 576(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section576/c&num=0&edition=prelim)” for “of the seniority of such officers on the warrant officer active-duty list”.
+
 1994—Subsecs. (e), (f). Pub. L. 103–337 added subsecs. (e) and (f).
 
 1992—Pub. L. 102–484 substituted “Promotions:” for “Promotions;” in section catchline.
@@ -382,7 +434,7 @@ Subsec. (e)(6). Pub. L. 103–337, § 541(b)(5)(B), inserted “and the Secretar
 Subsec. (a)(4)(C). Pub. L. 103–160, § 505(a)(2), added subpar. (C).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).
@@ -445,7 +497,7 @@ Subsec. (c)(3) to (5). Pub. L. 114–92, § 501(2), redesignated pars. (4) and (
 Subsec. (e). Pub. L. 103–337, § 541(g), added subsec. (e).
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by section 541(g) of Pub. L. 103–337 effective on the first day of the fourth month beginning after Oct. 5, 1994, see section 541(h) of Pub. L. 103–337, set out as a note under [section 571 of this title](./chapter-33a-appointment-promotion-and-involuntary-separation-and-retirement-for-members-on-the-warrant-officer-active-duty-list.md#section-571).

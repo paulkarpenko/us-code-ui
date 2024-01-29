@@ -2,7 +2,7 @@
 title: 42
 chapter: '16'
 heading: NATIONAL SCIENCE FOUNDATION
-section_count: 111
+section_count: 113
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -659,11 +659,11 @@ Subsec. (b)(4). Pub. L. 117–167, § 10312(f)(1)(B)(ii), substituted “STEM in
 
 (1) the development and study of model instructional programs in advanced-technology fields and in core STEM courses;
 
-(2) the professional development of faculty and instructors, both full- and part-time, who provide instruction in STEM and advanced- 11 So in original. technology fields;
+(2) the professional development of faculty and instructors, both full- and part-time, who provide instruction in STEM and advanced- technology 11 So in original. The space between “advanced-” and “technology” probably should not appear. fields;
 
 (3) the establishment of innovative partnership arrangements that—
 
-  (A) involve associate-degree-granting colleges and other appropriate public and private sector entities to support the advanced- 1 technology industries that drive the competitiveness of the United States in the global economy;
+  (A) involve associate-degree-granting colleges and other appropriate public and private sector entities to support the advanced- technology 1 industries that drive the competitiveness of the United States in the global economy;
 
   (B) provide for private sector donations, faculty opportunities to have short-term assignments with industry, sharing of program costs, equipment loans, and the cooperative use of laboratories, plants, and other facilities, and provision for state-of-the-art work experience opportunities for students enrolled in such programs; and
 
@@ -671,7 +671,7 @@ Subsec. (b)(4). Pub. L. 117–167, § 10312(f)(1)(B)(ii), substituted “STEM in
 
 (4) the acquisition of state-of-the-art instrumentation essential to programs designed to prepare and upgrade students in STEM and advanced-technology fields; and
 
-(5) the development and dissemination of instructional materials in support of improving the advanced STEM and advanced- 1 technology and training capabilities of associate-degree-granting colleges, including programs for students who are not pursuing a science degree.
+(5) the development and dissemination of instructional materials in support of improving the advanced STEM and advanced- technology 1 and training capabilities of associate-degree-granting colleges, including programs for students who are not pursuing a science degree.
 
 **(b) Centers of scientific and technical education**
 
@@ -695,7 +695,7 @@ Subsec. (b)(4). Pub. L. 117–167, § 10312(f)(1)(B)(ii), substituted “STEM in
 
 (1) **Partnership grants**
 
-  (A) The Director shall make grants to eligible partnerships to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor- 1 degree-granting institutions, through such means as—
+  (A) The Director shall make grants to eligible partnerships to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor- degree-granting 22 So in original. The space between “bachelor-” and “degree-granting” probably should not appear. institutions, through such means as—
 
     (i) examining curricula to develop articulation agreements that ensure that academic credit earned at the associate-degree-granting college is transferable to bachelor-degree-granting institutions;
 
@@ -723,7 +723,7 @@ Subsec. (b)(4). Pub. L. 117–167, § 10312(f)(1)(B)(ii), substituted “STEM in
 
 (2) **Applications** — In considering applications for grants under paragraph (1), the Director shall prioritize—
 
-  (A) applications that consist of a partnership between the applying junior or community college and individual employers or an employer consortia,1 or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
+  (A) applications that consist of a partnership between the applying junior or community college and individual employers or an employer consortia,33 So in original. or industry or sector partnerships, and may include a university or other organization with demonstrated expertise in academic program development;
 
   (B) applications that demonstrate current and future workforce demand in occupations directly related to the proposed associate degree or certificate program;
 
@@ -753,7 +753,7 @@ Subsec. (b)(4). Pub. L. 117–167, § 10312(f)(1)(B)(ii), substituted “STEM in
 
     (i) the applying institution of higher education; and
 
-    (ii) individual employers or an employer consortia,1 or industry or sector partnerships;
+    (ii) individual employers or an employer consortia,3 or industry or sector partnerships;
 
   (B) applications that demonstrate current and future workforce demand in occupations directly related to the identified STEM fields;
 
@@ -805,7 +805,7 @@ Subsec. (b)(4). Pub. L. 117–167, § 10312(f)(1)(B)(ii), substituted “STEM in
 
 **(j) Definitions** As used in this section—
 
-(1) the term advanced-technology 22 So in original. Probably should be “ ‘advanced-technology’ ”. includes technological fields such as advanced manufacturing, agricultural-, biological- and chemical-technologies, energy and environmental technologies, engineering technologies, information technologies, micro and nano-technologies, cybersecurity technologies, geospatial technologies, and new, emerging technology areas;
+(1) the term advanced-technology 44 So in original. The defined term probably should be within quotation marks. includes technological fields such as advanced manufacturing, agricultural-, biological- and chemical-technologies, energy and environmental technologies, engineering technologies, information technologies, micro and nano-technologies, cybersecurity technologies, geospatial technologies, and new, emerging technology areas;
 
 (2) the term “associate-degree-granting college” means an institution of higher education (as determined under section 101 of the Higher Education Act of 1965 [[20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)]) that—
 
@@ -825,7 +825,7 @@ Subsec. (b)(4). Pub. L. 117–167, § 10312(f)(1)(B)(ii), substituted “STEM in
 
 (8) the terms “science, technology, engineering, or mathematics” or “STEM” mean science, technology, engineering, and mathematics, including computer science and cybersecurity; and
 
-(9) the term skilled technical workforce 33 So in original. Probably should be “ ‘skilled technical workforce’ ”. has the meaning given such term in section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act ([42 U.S.C. 1862p](./chapter-016-national-science-foundation.md#section-1862p)).44 See References in Text note below.
+(9) the term skilled technical workforce 4 has the meaning given such term in section 4(b) of the Innovations in Mentoring, Training, and Apprenticeships Act ([42 U.S.C. 1862p](./chapter-016-national-science-foundation.md#section-1862p)).55 See References in Text note below.
 
 ### Statutory Notes
 
@@ -860,7 +860,7 @@ Subsec. (b). Pub. L. 117–167, § 10312(b), amended subsec. (b) generally. Prio
 
 “(2) Excellence in undergraduate education in mathematics and science.
 
-“The centers shall serve as national and regional clearinghouses and models for the benefit of both colleges and secondary schools, and shall provide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.”
+The centers shall serve as national and regional clearinghouses and models for the benefit of both colleges and secondary schools, and shall provide seminars and programs to disseminate model curricula and model teaching methods and instructional materials to other associate-degree-granting colleges in the geographic region served by the center.”
 
 Subsec. (c)(1)(A). Pub. L. 117–167, § 10312(f)(2)(C)(i)(I)(aa), substituted “to encourage the development of career and educational pathways with multiple entry and exit points leading to credentials and degrees, and to assist students pursuing pathways in STEM fields to transition from associate-degree-granting colleges to bachelor- degree-granting institutions, through such means as—” for “to encourage students to pursue bachelor degrees in mathematics, science, engineering, or technology, and to assist students pursuing bachelor degrees in mathematics, science, engineering, or technology to make the transition from associate-degree-granting colleges to bachelor-degree-granting institutions, through such means as—” in introductory provisions.
 
@@ -874,7 +874,7 @@ Subsec. (c)(1)(B)(i). Pub. L. 117–167, § 10312(f)(2)(C)(i)(II)(aa), inserted 
 
 Subsec. (c)(1)(B)(iii). Pub. L. 117–167, § 10312(f)(2)(C)(i)(II)(bb), substituted “institutions or work sites” for “bachelor’s-degree-granting institutions” and inserted “or industry internships” after “summer programs”.
 
-Subsec. (c)(1)(C). Pub. L. 117–167, § 10312(f)(2)(C)(i)(III), struck out subpar. (C) which read as follows: “Any institution participating in a partnership that receives a grant under this paragraph shall be ineligible to receive assistance under part B of title I of the Higher Education Act of 1965 [[20 U.S.C. 1011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1011&num=0&edition=prelim) et seq.] for the duration of the grant received under this paragraph.”
+Subsec. (c)(1)(C). Pub. L. 117–167, § 10312(f)(2)(C)(i)(III), struck out subpar. (C) which read as follows: “Any institution participating in a partnership that receives a grant under this paragraph shall be ineligible to receive assistance under part B of title I of the Higher Education Act of 1965 for the duration of the grant received under this paragraph.”
 
 Subsec. (c)(2). Pub. L. 117–167, § 10312(f)(2)(C)(ii), substituted “outstanding STEM programs to strengthen relationships with secondary schools and, as appropriate, elementary schools, in the community served by the college by improving STEM education and encouraging the interest and aptitude of students at these schools for careers in STEM and advanced-technology fields through such means as developing articulation agreements or dual credit courses with local secondary schools, or other means as the Director determines appropriate, to enable students” for “outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students”.
 
@@ -898,7 +898,7 @@ Subsec. (i)(3) to (5). Pub. L. 117–167, § 10312(f)(2)(G), redesignated pars. 
 
 Subsec. (j)(1). Pub. L. 117–167, § 10312(f)(2)(H)(i), added par. (1) and struck out former par. (1) which read as follows: “the term ‘advanced-technology’ includes advanced technical activities such as the modernization, miniaturization, integration, and computerization of electronic, hydraulic, pneumatic, laser, nuclear, chemical, telecommunication, fiber optic, robotic, and other technological applications to enhance productivity improvements in manufacturing, communication, transportation, commercial, and similar economic and national security activities;”.
 
-Subsec. (j)(4). Pub. L. 117–167, § 10312(f)(2)(H)(ii), which directed substitution of “other entities” for “separate bachelor-degree- granting institutions”, was executd by making the substitution for “separate bachelor-degree-granting institutions” to reflect the probable intent of Congress.
+Subsec. (j)(4). Pub. L. 117–167, § 10312(f)(2)(H)(ii), which directed substitution of “other entities” for “separate bachelor-degree- granting institutions”, was executed by making the substitution for “separate bachelor-degree-granting institutions” to reflect the probable intent of Congress.
 
 Subsec. (j)(7). Pub. L. 117–167, § 10312(f)(2)(H)(iii), (iv), redesignated par. (8) as (7) and struck out former par. (7) which read as follows: “the term ‘local educational agency’ has the meaning given such term in [section 2891(12) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section2891/12&num=0&edition=prelim).”
 
@@ -1075,15 +1075,15 @@ Subsec. (a)(2)(D) to (G). Pub. L. 107–368, § 14(b)(2)(B)–(D), added subpars
 <a id="section-1862m"></a>
 ## § 1862m. Financial disclosure
 
-Persons temporarily employed by or at the Foundation shall be subject to the same financial disclosure requirements and related sanctions under the Ethics in Government Act of 1978 (5 U.S.C. App.) as are permanent employees of the Foundation in equivalent positions.
+Persons temporarily employed by or at the Foundation shall be subject to the same financial disclosure requirements and related sanctions under chapter 131 of title 5 as are permanent employees of the Foundation in equivalent positions.
 
 ### Statutory Notes
 
-#### References in Text
-The Ethics in Government Act of 1978, referred to in text, is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5, Government Organization and Employees, and Tables.
-
 #### Codification
 Section was enacted as part of the National Science Foundation Authorization Act of 1998, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 131 of title 5” for “the Ethics in Government Act of 1978 (5 U.S.C. App.)”.
 
 
 <a id="section-1862n"></a>
@@ -1332,6 +1332,8 @@ Subsec. (c)(2). Pub. L. 110–69, § 7028(8), added par. (2) and struck out form
 Subsec. (d). Pub. L. 110–69, § 7028(9), added subsec. (d).
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Science of House of Representatives changed to Committee on Science and Technology of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2015 Amendment
@@ -2184,17 +2186,16 @@ For definitions of terms used in this section, see section 4 of Pub. L. 107–36
 
 **(i) Quorum** A majority of the members serving on the Advisory Committee shall constitute a quorum for purposes of conducting the business of the Advisory Committee.
 
-**(j) Duration** Section 14 of the Federal Advisory Committee Act shall not apply to the Advisory Committee.
+**(j) Duration** [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Advisory Committee.
 
 ### Statutory Notes
-
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (j), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
+2022—Subsec. (j). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act”.
+
 2004—Subsecs. (a), (b)(1), (2). Pub. L. 108–423, § 5(a)(1), substituted “, the National Aeronautics and Space Administration, and the Department of Energy” for “and the National Aeronautics and Space Administration”.
 
 Subsec. (b)(3). Pub. L. 108–423, § 5(a)(2), substituted “Administration, the Secretary of Energy,” for “Administration, and”.
@@ -3361,7 +3362,7 @@ For definitions of terms used in this section, see section 502 of Pub. L. 111–
 
 (7) **Accountability and dissemination**
 
-  (A) Evaluation required The Director shall evaluate the activities established under this subsection. Such evaluation shall—
+  (A) *Evaluation required* — The Director shall evaluate the activities established under this subsection. Such evaluation shall—
 
     (i) use a common set of benchmarks and tools to assess the results of research conducted under such awards; and
 
@@ -4161,6 +4162,50 @@ Section was enacted as part of the Advancing Research to Prevent Suicide Act, an
 Pub. L. 116–339, § 2, Jan. 13, 2021, 134 Stat. 5126, provided that: “Congress finds the following: “(1) The rate of Americans dying by suicide is on the rise, increasing 10.7 to 14.0 deaths per 100,000 people from 2001 to 2017. “(2) Suicide is the tenth-leading cause of death among people in the United States and the second-leading cause of death for young people between the ages of 15 and 34. “(3) The National Science Foundation funds research that is improving our basic understanding of factors with potential relevance to suicide, including potential relevance to prevention and treatment. “(4) Despite progress in mental health research, current gaps exist in scientific understanding and basic knowledge of human neural, genetic, cognitive, perceptual, behavioral, social, and environmental factors with potential relevance to suicide.”
 
 
+<a id="section-1862w"></a>
+## § 1862w. NSF support of research on impacts of social media on human trafficking
+**(a) Definitions** In this section:
+
+(1) **Human trafficking** — The term “human trafficking” means an act or practice described in [section 7102(11) of title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section7102/11&num=0&edition=prelim).
+
+(2) **Social media platform** — The term “social media platform” means a website or internet medium that—
+
+  (A) permits a person to become a registered user, establish an account, or create a profile for the purpose of allowing users to create, share, and view user-generated content through such an account or profile;
+
+  (B) enables 1 or more users to generate content that can be viewed by other users of the medium; and
+
+  (C) primarily serves as a medium for users to interact with content generated by other users of the medium.
+
+**(b) Support of research** The Director of the National Science Foundation, in consultation with the Attorney General, the Secretary of Homeland Security, and the Secretary of Health and Human Services, shall support merit-reviewed and competitively awarded research on the impact of online social media platforms on the maintenance or expansion of human trafficking, which may include—
+
+(1) fundamental research on digital forensic tools or other technologies for verifying the authenticity of social media platform users and their materials, that are utilized in the promotion or operation of human trafficking networks;
+
+(2) fundamental research on privacy preserving technical tools that may aid law enforcement’s ability to identify and prosecute individuals or entities promoting or involved in human trafficking;
+
+(3) social and behavioral research related to social media platform users who engage with those promoting or involved in human trafficking;
+
+(4) research on the effectiveness of expanding public understanding, awareness, or law enforcement efforts in combating human trafficking through social media platforms; and
+
+(5) research awards coordinated with other Federal agencies and programs, including the Information Integrity Research and Development Interagency Working Group and the Privacy Research and Development Interagency Working Group of the Networking and Information Technology Research and Development Program, the Office for Victims of Crime of the Department of Justice, the Blue Campaign of the Department of Homeland Security, the Office to Monitor and Combat Trafficking in Persons of the Department of State, and activities of the Department of Transportation and the Advisory Committee on Human Trafficking.
+
+**(c) Survivors** To the extent possible, the Director of the National Science Foundation shall ensure that research supported under subsection (b) incorporates the experiences, input, and safety and privacy concerns of human trafficking survivors.
+
+**(d) Reports**
+
+(1) **Findings and recommendations** — Not later than 1 year after January 5, 2023, the Director of the National Science Foundation shall report to the Committee on Commerce, Science, and Transportation of the Senate, the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the House of Representatives—
+
+  (A) the Director’s findings with respect to the feasibility for research opportunities, including with the private sector social media platform companies, to improve the ability to combat human trafficking operations; and
+
+  (B) any recommendations of the Director that could facilitate and improve communication and coordination among the private sector, the National Science Foundation, and relevant Federal agencies to improve the ability to combat human trafficking operations through social media.
+
+(2) **Results of research** — Not later than 4 years after January 5, 2023, the Director of the National Science Foundation shall report to the Committee on Commerce, Science, and Transportation of the Senate, the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the Subcommittee on Commerce, Justice, Science, and Related Agencies of the Committee on Appropriations of the House of Representatives on the results of the research supported under this section.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Trafficking Victims Prevention and Protection Reauthorization Act of 2022, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+
 <a id="section-1863"></a>
 ## § 1863. National Science Board
 **(a) Composition; appointment; establishment of policies of the Foundation** The Board shall consist of twenty-four members to be appointed by the President and of the Director ex officio. In addition to any powers and functions otherwise granted to it by this chapter, the Board shall establish the policies of the Foundation, within the framework of applicable national policies as set forth by the President and the Congress.
@@ -4189,12 +4234,12 @@ Pub. L. 116–339, § 2, Jan. 13, 2021, 134 Stat. 5126, provided that: “Congre
 
 **(k) Closed meetings** Portions of Board meetings in which the Board considers proposed Foundation budgets for a particular fiscal year may be closed to the public until the President’s budget for that fiscal year has been submitted to the Congress.
 
-**(l) Financial disclosure report for Board members** Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
+**(l) Financial disclosure report for Board members** Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 11 See References in Text note below. 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
 ### Statutory Notes
 
 #### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (l), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Ethics in Government Act of 1978 was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
+The Ethics in Government Act of 1978, referred to in subsec. (l), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824. Title II of the Act was set out in the Appendix to Title 5, Government Organization and Employees, prior to repeal by Pub. L. 101–194, title II, § 201, Nov. 30, 1989, 103 Stat. 1724. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2022—Subsec. (j)(1). Pub. L. 117–167 substituted “March 15” for “January 15”.
@@ -4268,7 +4313,7 @@ Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applic
 For reference to maximum rate under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim), Government Organization and Employees, see section 2(d)(3) of Pub. L. 110–372, set out as an Effective Date of 2008 Amendment note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Continuation of Existing Offices, Procedures, and Organization of the National Science Foundation
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under [section 1862 of this title](./chapter-016-national-science-foundation.md#section-1862).
@@ -4911,6 +4956,17 @@ Pub. L. 100–570, title I, § 118, Oct. 31, 1988, 102 Stat. 2873, provided that
 Amendment by Pub. L. 90–407 intended to continue in effect the existing offices, procedures, and organization of the Foundation, see section 16 of Pub. L. 90–407, set out as a note under [section 1862 of this title](./chapter-016-national-science-foundation.md#section-1862).
 
 
+<a id="section-1875a"></a>
+## § 1875a. National Science Foundation Nonrecurring Expenses Fund
+
+There is hereby established in the Treasury of the United States a fund to be known as the “National Science Foundation Nonrecurring Expenses Fund” (the Fund). Unobligated balances of expired discretionary funds appropriated for this or any succeeding fiscal year from the General Fund of the Treasury to the National Science Foundation by this or any other Act may be transferred (not later than the end of the fifth fiscal year after the last fiscal year for which such funds are available for the purposes for which appropriated) into the Fund. Amounts deposited in the Fund shall be available until expended, and in addition to such other funds as may be available for such purposes, for information and business technology system modernization and facilities infrastructure improvements, including nonrecurring maintenance, necessary for the operation of the Foundation or its funded research facilities, subject to approval by the Office of Management and Budget. Amounts in the Fund may be obligated only after the Committees on Appropriations of the House of Representatives and the Senate are notified at least 15 days in advance of the planned use of funds.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Science Appropriations Act, 2023, and also as part of the Commerce, Justice, Science, and Related Agencies Appropriations Act, 2023, and the Consolidated Appropriations Act, 2023, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+
+
 <a id="section-1876-to-1879"></a>
 ## § 1876 to 1879. Repealed. Pub. L. 99–383, § 11, Aug. 21, 1986, 100 Stat. 817
 
@@ -5014,9 +5070,11 @@ Sec. 6. Prior Orders. (a) Subject to the provisions of this Order, the President
 (b) Executive Order No. 10910 of January 17, 1961, is hereby amended by deleting from its title the words “AND AWARD”, and by deleting the last two sentences of Section 1, and all of Section 2, thereof.
 
 #### Extension of Term of President’s Committee on the National Medal of Science
-Term of President’s Committee on the National Medal of Science extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Committee on the National Medal of Science extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of President’s Committee on the National Medal of Science were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
@@ -5140,13 +5198,13 @@ Par. (1)(B)(iv). Pub. L. 117–167, § 10321(a)(1)(B), which directed the striki
 
 Par. (1)(C). Pub. L. 117–167, § 10321(a)(1)(C)–(E), which directed amendment of subpar. (B) by redesignating second sentence as (C), inserting cl. (i) designation before “at least two teachers—”, redesignating former cls. (i), (ii), (iii), and (v) of subpar. (B) as subcls. (I) to (IV), respectively, of cl. (i) of subpar. (C), and realigning margins, without specifying the paragraph to be amended, was executed in par. (1), to reflect the probable intent of Congress.
 
-Par. (1)(C)(ii). Pub. L. 117–167, § 10321(a)(2), which directed the addition of cl. (ii) in subpar. (C), without specifying the paragraph to be amended, was executed to in subpar. (C) of par. (1), to reflect the probable intent of Congress.
+Par. (1)(C)(ii). Pub. L. 117–167, § 10321(a)(2), which directed the addition of cl. (ii) in subpar. (C), without specifying the paragraph to be amended, was executed in subpar. (C) of par. (1), to reflect the probable intent of Congress.
 
 1998—Par. (1)(B)(v). Pub. L. 105–207, § 202(c)(1), added cl. (v) and struck out former cl. (v) which read as follows: “from the United States Department of Defense Dependents’ School.”
 
 Par. (3)(A). Pub. L. 105–207, § 202(c)(2), substituted “Education and Human Resources” for “Science and Engineering Education”.
 
-#### Effective Date
+#### Effective Date of 2022 Amendment
 Pub. L. 117–167, div. B, title III, § 10321(b), Aug. 9, 2022, 136 Stat. 1538, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to awards made on or after the date of the enactment of this Act [Aug. 9, 2022].”
 
 #### Termination of Trust Territory of the Pacific Islands
@@ -5400,7 +5458,7 @@ Subsec. (a). Pub. L. 99–159 substituted “Engineering” for “Technology”
 Subsecs. (c), (d). Pub. L. 99–159, § 111(b)(8)(A), substituted “Engineering” for “Technology” and “engineering” for “technology” wherever appearing.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973 to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973 to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Report by Committee on Equal Opportunities in Science and Engineering
 Pub. L. 107–368, § 20, Dec. 19, 2002, 116 Stat. 3063, provided that: “As part of the first report required by section 36(e) of the Science and Engineering Equal Opportunities Act ([42 U.S.C. 1885c(e)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1885c/e&num=0&edition=prelim)) transmitted to Congress after the date of enactment of this Act [Dec. 19, 2002], the Committee on Equal Opportunities in Science and Engineering shall include— “(1) a summary of its findings over the previous 10 years; “(2) a description of past and present policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in science, mathematics, and engineering fields, including activities in support of minority-serving institutions; and “(3) an assessment of the trends in participation in Foundation activities, and an assessment of the success of Foundation policies and activities, along with proposals for new strategies or the broadening of existing successful strategies toward facilitating the goals of that Act [[42 U.S.C. 1885](./chapter-016-national-science-foundation.md#section-1885) et seq.].”

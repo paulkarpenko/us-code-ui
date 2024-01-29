@@ -187,11 +187,13 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 9321. Mandatory retirement: Superintendent of the United States Air Force Academy; waiver authority
 **(a) Mandatory Retirement.—** Upon the termination of the detail of an officer to the position of Superintendent of the United States Air Force Academy, the Secretary of the Air Force shall retire the officer under any provision of this chapter under which the officer is eligible to retire.
 
-**(b) Waiver Authority.—** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment.
+**(b) Waiver Authority.—** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 inserted at end “In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.”
+
 2018—Pub. L. 115–232 renumbered [section 8921 of this title](./chapter-891-names-and-insignia.md#section-8921) as this section.
 
 2004—Pub. L. 108–375 inserted “; waiver authority” after “Academy” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -235,7 +237,7 @@ Pub. L. 115–232, § 806(b)(13), renumbered [section 8924 of this title](https:
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-9325"></a>

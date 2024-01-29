@@ -144,7 +144,7 @@ Sec. 4. As necessary and subject to law, the Office of Education [now Department
 Ex. Ord. No. 11761, Jan. 17, 1974, 39 F.R. 2345, which provided for coordination of Federal educational programs and which continued Federal Interagency Committee on Education, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Executive Order No. 12687
-Ex. Ord. No. 12687, Aug. 15, 1989, 54 F.R. 34127, as amended by Ex. Ord. No. 12741, Dec. 31, 1990, 56 F.R. 475; Ex. Ord. No. 12785, Dec. 26, 1991, 56 F.R. 67451, which established the President’s Education Policy Advisory Committee to advise the President with respect to objectives and conduct of overall education policy of the United States, was revoked by Ex. Ord. No. 12869, § 4(e), Sept. 30, 1993, 58 F.R. 51751, formerly set out under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12687, Aug. 15, 1989, 54 F.R. 34127, as amended by Ex. Ord. No. 12741, Dec. 31, 1990, 56 F.R. 475; Ex. Ord. No. 12785, Dec. 26, 1991, 56 F.R. 67451, which established the President’s Education Policy Advisory Committee to advise the President with respect to objectives and conduct of overall education policy of the United States, was revoked by Ex. Ord. No. 12869, § 4(e), Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-1221d"></a>
@@ -667,6 +667,8 @@ Another prior section 424 of Pub. L. 90–247 was renumbered section 433, and is
 Another prior section 424 of Pub. L. 90–247 was renumbered section 434, and was classified to [section 1232c of this title](./chapter-031-general-provisions-concerning-education.md#section-1232c) prior to repeal by Pub. L. 95–561.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -714,6 +716,8 @@ Pub. L. 103–382, § 235, amended section generally, substituting single undesi
 1978—Subsec. (a)(1). Pub. L. 95–561 inserted “(including compliance with provisions of law requiring the maintenance of non-Federal expenditures for the purposes of such applicable programs)” after “effectiveness of applicable programs” and substituted “Committee on Human Resources” for “Committee on Labor and Public Welfare” in provisions preceding subpar. (A).
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2015 Amendment
@@ -749,6 +753,8 @@ Section was enacted as part of Education Amendments of 1978, and not as part of 
 1994—Pub. L. 103–437 substituted “Labor and Human Resources” for “Human Resources”.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date
@@ -1038,6 +1044,8 @@ A prior section 430 of Pub. L. 90–247 was renumbered section 436, and is class
 1972—Subsec. (c). Pub. L. 92–318, § 302(a), added subsec. (c).
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1972 Amendment; Inconsistent Provisions Ineffective
@@ -1311,6 +1319,8 @@ Subsec. (d)(2). Pub. L. 94–142, § 7(a)(2), (3), substituted “objection to t
 Subsecs. (d) to (g). Pub. L. 93–380, § 509(a)(2), added subsecs. (d) to (g).
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1981 Amendment

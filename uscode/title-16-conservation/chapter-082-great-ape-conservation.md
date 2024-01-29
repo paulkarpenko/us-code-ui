@@ -199,7 +199,7 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 (4) **Funds** — Subject to the availability of appropriations, the Secretary may use amounts available to the Secretary to pay for the costs of convening and facilitating any meeting of the panel referred to in paragraph (1).
 
-(5) **Applicability of FACA** — The Federal Advisory Committee Act (5 App. U.S.C.) shall not apply to a panel convened under paragraph (1).
+(5) **Applicability of chapter 10 of title 5** — Chapter 10 of title 5 shall not apply to a panel convened under paragraph (1).
 
 **(j) Multiyear grants**
 
@@ -209,10 +209,9 @@ Title I of the Department of the Interior and Related Agencies Appropriations Ac
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (i)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (i)(5). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 App. U.S.C.)” in text.
+
 2019—Subsec. (i)(1). Pub. L. 116–9, § 7001(c)(2)(A)(i), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Every 2 years, the Secretary may convene a panel of experts to identify the greatest needs for the conservation of great apes.”
 
 Subsec. (i)(2) to (5). Pub. L. 116–9, § 7001(c)(2)(A)(ii), (iii), added pars. (2) to (4) and redesignated former par. (2) as (5).

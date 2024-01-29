@@ -2,7 +2,7 @@
 title: 22
 chapter: '38'
 heading: DEPARTMENT OF STATE
-section_count: 142
+section_count: 155
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22&num=0&edition=prelim
 ---
@@ -20,6 +20,9 @@ Section was formerly classified to [section 151 of Title 5](https://uscode.house
 
 #### Effective Date of 1987 Amendment
 Pub. L. 100–204, title XIII, § 1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act [see Short Title of 1987 Amendment note below], this Act shall take effect on the date of its enactment [Dec. 22, 1987].”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–273, § 1, Dec. 27, 2022, 136 Stat. 4182, provided that: “This Act [amending [section 2708 of this title](./chapter-038-department-of-state.md#section-2708)] may be cited as the ‘War Crimes Rewards Expansion Act’.”
 
 #### Short Title of 2021 Amendment
 Pub. L. 117–81, div. E, title LVI, § 5601, Dec. 27, 2021, 135 Stat. 2377, provided that: “This title [enacting sections 2732a and 2732b of this title, amending [section 6553 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6553), and enacting provisions set out as notes under sections 1475g and 2732a of this title] may be cited as the ‘Public Diplomacy Modernization Act of 2021’.”
@@ -106,6 +109,10 @@ Pub. L. 101–246, title XI, § 1101, Feb. 16, 1990, 104 Stat. 90, provided that
 Pub. L. 96–241, § 2, May 3, 1980, 94 Stat. 343, provided that: “(a) Any person aggrieved by an action of the Secretary of State may bring a civil action in an appropriate United States district court to contest the constitutionality of the appointment and continuance in office of the Secretary of State on the ground that such appointment and continuance in office is in violation of article I, section 6, clause 2, of the Constitution. The United States district courts shall have exclusive jurisdiction, without regard to the sum or value of the matter in controversy, to determine the validity of such appointment and continuance in office. “(b) Any action brought under this section shall be heard and determined by a panel of three judges in accordance with [section 2284 of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2284&num=0&edition=prelim), United States Code. Any review of the action of a court convened pursuant to such section shall be by petition of certiorari to the Supreme Court. “(c) Any judge designated to hear any action brought under this section shall cause such action to be in every way expedited. “(d) This section applies only with respect to the Secretary of State who is first appointed to that office after the enactment of this Act [May 3, 1980].”
 
 #### Definitions
+Pub. L. 118–31, div. F, § 6002, Dec. 22, 2023, 137 Stat. 964, provided that: “In this division [see Tables for classification]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. “(2) Department.—The term ‘Department’ means the Department of State. “(3) Secretary.—The term ‘Secretary’ means the Secretary of State.”
+
+Pub. L. 117–263, div. I, § 9002, Dec. 23, 2022, 136 Stat. 3857, provided that: “In this division [see Tables for classification]: “(1) Administrator.—The term ‘Administrator’ means the Administrator of USAID. “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives. “(3) Department.—Unless otherwise specified, the term ‘Department’ means the Department of State. “(4) Secretary.—Unless otherwise specified, the term ‘Secretary’ means the Secretary of State. “(5) USAID.—The term ‘USAID’ means the United States Agency for International Development.”
+
 Pub. L. 114–323, § 2, Dec. 16, 2016, 130 Stat. 1907, provided that: “In this Act [see Tables for classification]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations of the Senate; and “(B) the Committee on Foreign Affairs of the House of Representatives. “(2) Department.—Unless otherwise specified, the term ‘Department’ means the Department of State. “(3) Foreign service.—The term ‘Foreign Service’ has the meaning given such term in section 102 of the Foreign Service Act of 1980 ([22 U.S.C. 3902](./chapter-052-foreign-service.md#section-3902)). “(4) Inspector general.—Unless otherwise specified, the term ‘Inspector General’ means the Office of Inspector General of the Department of State and the Broadcasting Board of Governors [now United States Agency for Global Media]. “(5) Peacekeeping credits.—The term ‘peacekeeping credits’ means the amounts by which United States assessed peacekeeping contributions exceed actual expenditures, apportioned to the United States, of peacekeeping operations by the United Nations during a United Nations peacekeeping fiscal year. “(6) Secretary.—Unless otherwise specified, the term ‘Secretary’ means the Secretary of State.”
 
 Pub. L. 107–228, § 3, Sept. 30, 2002, 116 Stat. 1355, provided that: “In this Act [see Tables for classification]: “(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives. “(2) Department.—The term ‘Department’ means the Department of State. “(3) Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of State.”
@@ -153,9 +160,21 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
   (C) provide guidance to Department personnel in the United States and overseas who conduct or implement public diplomacy policies, programs, and activities;
 
-  (D) assist the United States Agency for International Development and the Broadcasting Board of Governors to present the policies of the United States clearly and effectively; and
+  (D) assist the United States Agency for International Development and the Broadcasting Board of Governors to present the policies of the United States clearly and effectively;
 
-  (E) submit statements of United States policy and editorial material to the Broadcasting Board of Governors for broadcast consideration.
+  (E) submit statements of United States policy and editorial material to the Broadcasting Board of Governors for broadcast consideration; and
+
+  (F) coordinate the allocation and management of the financial and human resources for public diplomacy, including for—
+
+    (i) the Bureau of Educational and Cultural Affairs;
+
+    (ii) the Bureau of Global Public Affairs;
+
+    (iii) the Office of Policy, Planning, and Resources for Public Diplomacy and Public Affairs;
+
+    (iv) the Global Engagement Center; and
+
+    (v) the public diplomacy functions within the regional and functional bureaus.
 
 (4) **Nomination of Under Secretaries** — Whenever the President submits to the Senate a nomination of an individual for appointment to a position in the Department of State that is described in paragraph (1), the President shall designate the particular Under Secretary position in the Department of State that the individual shall have.
 
@@ -317,9 +336,111 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 **(g) Bureau of Consular Affairs** There is in the Department of State the Bureau of Consular Affairs, which shall be headed by the Assistant Secretary of State for Consular Affairs.
 
-**(h) 2 Bureau of Population, Refugees, and Migration** There is in the Department of State the Bureau of Population, Refugees, and Migration, which shall be headed by the Assistant Secretary of State for Population, Refugees, and Migration.
+**(h) Bureau of Population, Refugees, and Migration** There is in the Department of State the Bureau of Population, Refugees, and Migration, which shall be headed by the Assistant Secretary of State for Population, Refugees, and Migration.
 
-**(i) Special appointments**
+**(i) Bureau of Cyberspace and Digital Policy**
+
+(1) **In general** — There is established, within the Department of State, the Bureau of Cyberspace and Digital Policy (referred to in this subsection as the “Bureau”). The head of the Bureau shall have the rank and status of ambassador and shall be appointed by the President, by and with the advice and consent of the Senate.
+
+(2) **Duties**
+
+  (A) *In general* — The head of the Bureau shall perform such duties and exercise such powers as the Secretary of State shall prescribe, including implementing the diplomatic and foreign policy aspects of the policy described in section 9501(a) of the Department of State Authorization Act of 2022 [[22 U.S.C. 10301(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section10301/a&num=0&edition=prelim)].
+
+  (B) *Duties described* — The principal duties and responsibilities of the head of the Bureau shall, in furtherance of the diplomatic and foreign policy mission of the Department of State, be—
+
+    (i) to serve as the principal cyberspace policy official within the senior management of the Department of State and as the advisor to the Secretary of State for cyberspace and digital issues;
+
+    (ii) to lead, coordinate, and execute, in coordination with other relevant bureaus and offices, the Department of State’s diplomatic cyberspace, and cybersecurity efforts (including efforts related to data privacy, data flows, internet governance, information and communications technology standards, and other issues that the Secretary has assigned to the Bureau);
+
+    (iii) to coordinate with relevant Federal agencies and the Office of the National Cyber Director to ensure the diplomatic and foreign policy aspects of the cyber strategy in section 9501 of the Department of State Authorization Act of 2022 [[22 U.S.C. 10301](./chapter-110-information-security-and-cyber-diplomacy.md#section-10301)] and any other subsequent strategy are implemented in a manner that is fully integrated with the broader strategy;
+
+    (iv) to promote an open, interoperable, reliable, and secure information and communications technology infrastructure globally;
+
+    (v) to represent the Secretary of State in interagency efforts to develop and advance Federal Government cyber priorities and activities, including efforts to develop credible national capabilities, strategies, and policies to deter and counter cyber adversaries, and carry out the purposes of title V of the Department of State Authorization Act of 2022;
+
+    (vi) to engage civil society, the private sector, academia, and other public and private entities on relevant international cyberspace and international information and communications technology issues;
+
+    (vii) to support United States Government efforts to uphold and further develop global deterrence frameworks for malicious cyber activity;
+
+    (viii) to advise the Secretary of State and coordinate with foreign governments regarding responses to national security-level cyber incidents, including coordination on diplomatic response efforts to support allies and partners threatened by malicious cyber activity, in conjunction with members of the North Atlantic Treaty Organization and like-minded countries;
+
+    (ix) to promote the building of foreign capacity relating to cyberspace policy priorities;
+
+    (x) to promote an open, interoperable, reliable, and secure information and communications technology infrastructure globally and an open, interoperable, secure, and reliable internet governed by the multi-stakeholder model;
+
+    (xi) to promote an international environment for technology investments and the internet that benefits United States economic and national security interests;
+
+    (xii) to promote cross-border flow of data and combat international initiatives seeking to impose unreasonable requirements on United States businesses;
+
+    (xiii) to promote international policies to protect the integrity of United States and international telecommunications infrastructure from foreign-based threats, including cyber-enabled threats;
+
+    (xiv) to lead engagement, in coordination with relevant executive branch agencies, with foreign governments on relevant international cyberspace, cybersecurity, cybercrime, and digital economy issues described in title V of the Department of State Authorization Act of 2022;
+
+    (xv) to promote international policies, in coordination with the Department of Commerce, to secure radio frequency spectrum in the best interests of the United States;
+
+    (xvi) to promote and protect the exercise of human rights, including freedom of speech and religion, through the internet;
+
+    (xvii) to build capacity of United States diplomatic officials to engage on cyberspace issues;
+
+    (xviii) to encourage the development and adoption by foreign countries of internationally recognized standards, policies, and best practices;
+
+    (xix) to support efforts by the Global Engagement Center to counter cyber-enabled information operations against the United States or its allies and partners; and
+
+    (xx) to conduct such other matters as the Secretary of State may assign.
+
+(3) **Qualifications** — The head of the Bureau should be an individual of demonstrated competency in the fields of—
+
+  (A) cybersecurity and other relevant cyberspace and information and communications technology policy issues; and
+
+  (B) international diplomacy.
+
+(4) **Organizational placement**
+
+  (A) *Initial placement* — Except as provided in subparagraph (B), the head of the Bureau shall report to the Deputy Secretary of State.
+
+  (B) *Subsequent placement* — The head of the Bureau may report to an Under Secretary of State or to an official holding a higher position than Under Secretary if, not later than 15 days before any change in such reporting structure, the Secretary of State—
+
+    (i) consults with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
+
+    (ii) submits a report to such committees that—
+
+      (I) indicates that the Secretary, with respect to the reporting structure of the Bureau, has consulted with and solicited feedback from—
+
+        (aa) other relevant Federal entities with a role in international aspects of cyber policy; and
+
+        (bb) the elements of the Department of State with responsibility for aspects of cyber policy, including the elements reporting to—
+
+          (AA) the Under Secretary of State for Political Affairs;
+
+          (BB) the Under Secretary of State for Civilian Security, Democracy, and Human Rights;
+
+          (CC) the Under Secretary of State for Economic Growth, Energy, and the Environment;
+
+          (DD) the Under Secretary of State for Arms Control and International Security Affairs;
+
+          (EE) the Under Secretary of State for Management; and
+
+          (FF) the Under Secretary of State for Public Diplomacy and Public Affairs;
+
+      (II) describes the new reporting structure for the head of the Bureau and the justification for such new structure; and
+
+      (III) includes a plan describing how the new reporting structure will better enable the head of the Bureau to carry out the duties described in paragraph (2), including the security, economic, and human rights aspects of cyber diplomacy.
+
+(5) **Special hiring authorities** — The Secretary of State may—
+
+  (A) appoint up to 25 employees to cyber positions in the Bureau without regard to the provisions of subchapter I of chapter 33 of title 5, regarding appointments in the competitive service; and
+
+  (B) fix the rates of basic pay of such employees without regard to chapter 51 and subchapter III of chapter 53 of such title regarding classification and General Schedule pay rates, provided that the rates for such positions do not exceed the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
+
+(6) **Coordination** — In implementing the duties prescribed under paragraph (2), the head of the Bureau shall coordinate with the heads of other Federal agencies, including the Department of Commerce, the Department of Homeland Security, and other Federal agencies that the National Cyber Director deems appropriate.
+
+(7) **Rule of construction** — Nothing in this subsection may be construed—
+
+  (A) to preclude the head of the Bureau from being designated as an Assistant Secretary, if such an Assistant Secretary position does not increase the number of Assistant Secretary positions at the Department above the number authorized under subsection (c)(1); or
+
+  (B) to alter or modify the existing authorities of any other Federal agency or official.
+
+**(j) Special appointments**
 
 (1) **Positions exercising significant authority** — The President may, by and with the advice and consent of the Senate, appoint an individual as a Special Envoy, Special Representative, Special Coordinator, Special Negotiator, Envoy, Representative, Coordinator, Special Advisor, or other position performing a similar function, regardless of title, at the Department of State exercising significant authority pursuant to the laws of the United States. Except as provided in paragraph (3) or in clause 3, section 2, article II of the Constitution (relating to recess appointments), an individual may not be designated as a Special Envoy, Special Representative, Special Coordinator, Special Negotiator, Envoy, Representative, Coordinator, Special Advisor, or other position performing a similar function, regardless of title, at the Department exercising significant authority pursuant to the laws of the United States without the advice and consent of the Senate.
 
@@ -347,7 +468,7 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 (6) **Effective date** — This subsection shall apply to appointments made on or after January 3, 2023.
 
-**(j) Qualifications of certain officers of the Department of State**
+**(k) Qualifications of certain officers of the Department of State**
 
 (1) **Officer having primary responsibility for personnel management** — The officer of the Department of State with primary responsibility for assisting the Secretary with respect to matters relating to personnel in the Department of State, or that officer’s principal deputy, shall have substantial professional qualifications in the field of human resource policy and management.
 
@@ -355,7 +476,7 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
 (3) **Officer having primary responsibility for international narcotics and law enforcement** — The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer’s principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
 
-**(h) 2 Office of Sanctions Coordination**
+**(l) Office of Sanctions Coordination**
 
 (1) **In general** — There is established, within the Department of State, an Office of Sanctions Coordination (in this subsection referred to as the “Office”).
 
@@ -385,7 +506,103 @@ For order of succession during any period when both Secretary and Deputy Secreta
 
   (A) *In general* — The head of the Office may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, candidates directly to positions in the competitive service, as defined in section 2102 of that title, in the Office.
 
-  (B) *Termination* — The authority provided under subparagraph (A) shall terminate on the date that is two years after December 27, 2020.
+  (B) *Termination* — The authority provided under subparagraph (A) shall terminate on December 31, 2024.
+
+**(m) Extended post-employment restrictions for certain Senate-confirmed officials**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Country of concern* — The term “country of concern” means—
+
+    (i) the People’s Republic of China;
+
+    (ii) the Russian Federation;
+
+    (iii) the Islamic Republic of Iran;
+
+    (iv) the Democratic People’s Republic of Korea;
+
+    (v) the Republic of Cuba; and
+
+    (vi) the Syrian Arab Republic.
+
+  (B) *Foreign government entity* — The term “foreign governmental entity” includes—
+
+    (i) any person employed by—
+
+      (I) any department, agency, or other entity of a foreign government at the national, regional, or local level;
+
+      (II) any governing party or coalition of a foreign government at the national, regional, or local level; or
+
+      (III) any entity majority-owned or majority-controlled by a foreign government at the national, regional, or local level; and
+
+    (ii) in the case of a country of concern, any company, economic project, cultural organization, exchange program, or nongovernmental organization that is more than 33 percent owned or controlled by the government of such country.
+
+  (C) *Representation* — The term “representation” does not include representation by an attorney, who is duly licensed and authorized to provide legal advice in a United States jurisdiction, of a person or entity in a legal capacity or for the purposes of rendering legal advice.
+
+(2) **Secretary of State and Deputy Secretary of State** — With respect to a person serving as the Secretary of State or the Deputy Secretary of State, the restrictions described in [section 207(f)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/f/1&num=0&edition=prelim) shall apply to any such person who knowingly represents, aids, or advises a foreign governmental entity before an officer or employee of the executive branch of the United States with the intent to influence a decision of such officer or employee in carrying out his or her official duties at any time after the termination of such person’s service as Secretary or Deputy Secretary.
+
+(3) **Under Secretaries, Assistant Secretaries, and Ambassadors** — With respect to a person serving as an Under Secretary, Assistant Secretary, or Ambassador at the Department of State or as the United States Permanent Representative to the United Nations, the restrictions described in [section 207(f)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/f/1&num=0&edition=prelim) shall apply to any such person who knowingly represents, aids, or advises—
+
+  (A) a foreign governmental entity before an officer or employee of the executive branch of the United States with the intent to influence a decision of such officer or employee in carrying out his or her official duties for 3 years after the termination of such person’s service in a position described in this paragraph, or the duration of the term or terms of the President who appointed that person to their position, whichever is longer; or
+
+  (B) a foreign governmental entity of a country of concern before an officer or employee of the executive branch of the United States with the intent to influence a decision of such officer or employee in carrying out his or her official duties at any time after the termination of such person’s service in a position described in this paragraph.
+
+(4) **Penalties and injunctions** — Any violations of the restrictions under paragraphs (2) or (3) shall be subject to the penalties and injunctions provided for under [section 216 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section216&num=0&edition=prelim).
+
+(5) **Notice of restrictions** — Any person subject to the restrictions under this subsection shall be provided notice of these restrictions by the Department of State—
+
+  (A) upon appointment by the President; and
+
+  (B) upon termination of service with the Department of State.
+
+(6) **Effective date** — The restrictions under this subsection shall apply only to persons who are appointed by the President to the positions referenced in this subsection on or after 120 days after December 23, 2022.
+
+(7) **Sunset** — The restrictions under this subsection shall expire on the date that is 5 years after December 23, 2022.
+
+**(n) Chief Artificial Intelligence Officer**
+
+(1) **In general** — There shall be within the Department of State a Chief Artificial Intelligence Officer, which may be dual-hatted as the Department’s Chief Data Officer, who shall be a member of the Senior Executive Service.
+
+(2) **Duties described** — The principal duties and responsibilities of the Chief Artificial Intelligence Officer shall be—
+
+  (A) to evaluate, oversee, and, if appropriate, facilitate the responsible adoption of artificial intelligence (AI) and machine learning applications to help inform decisions by policymakers and to support programs and management operations of the Department of State; and
+
+  (B) to act as the principal advisor to the Secretary of State on the ethical use of AI and advanced analytics in conducting data-informed diplomacy.
+
+(3) **Qualifications** — The Chief Artificial Intelligence Officer should be an individual with demonstrated skill and competency in—
+
+  (A) the use and application of data analytics, AI, and machine learning; and
+
+  (B) transformational leadership and organizational change management, particularly within large, complex organizations.
+
+(4) **Partner with the Chief Information Officer on scaling artificial intelligence use cases** — To ensure alignment between the Chief Artificial Intelligence Officer and the Chief Information Officer, the Chief Information Officer will consult with the Chief Artificial Intelligence Officer on best practices for rolling out and scaling AI capabilities across the Bureau of Information and 22 So in original. The word “and” probably should not appear. Resource Management’s broader portfolio of software applications.
+
+(5) **Artificial intelligence defined** — In this subsection, the term “artificial intelligence” has the meaning given the term in section 238(g) of the National Defense Authorization Act for Fiscal Year 2019 33 See References in Text note below. (Public Law 115–232; [10 U.S.C. 4001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4001&num=0&edition=prelim) note).
+
+**(o) Special Envoy to the Pacific Islands Forum**
+
+(1) **Appointment** — The President shall appoint, by and with the advice and consent of the Senate, a qualified individual to serve as Special Envoy to the Pacific Islands Forum (referred to in this section as the “Special Envoy”).
+
+(2) **Considerations**
+
+  (A) *Selection* — The Special Envoy shall be—
+
+    (i) a United States Ambassador to a country that is a member of the Pacific Islands Forum; or
+
+    (ii) a qualified individual who is not described in clause (i).
+
+  (B) *Limitations* — If the President appoints an Ambassador to a country that is a member of the Pacific Islands Forum to serve concurrently as the Special Envoy to the Pacific Islands Forum, such Ambassador—
+
+    (i) may not begin service as the Special Envoy until he or she has been confirmed by the Senate for an ambassadorship to a country that is a member of the Pacific Islands Forum; and
+
+    (ii) shall not receive additional compensation for his or her service as Special Envoy.
+
+(3) **Duties** — The Special Envoy shall—
+
+  (A) represent the United States in its role as dialogue partner to the Pacific Islands Forum; and
+
+  (B) carry out such other duties as the President or the Secretary of State may prescribe.
 
 ### Statutory Notes
 
@@ -396,12 +613,34 @@ Executive Order 12333, referred to in subsec. (c)(3)(D), is Ex. Ord. No. 12333, 
 
 The United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003, referred to in subsec. (f)(2)(B)(i), is Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which enacted chapter 83 and sections 262p–8 and 2151b–2 to 2151b–4 of this title, amended this section, sections 2151b and 2222 of this title, and [section 242l of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section242l&num=0&edition=prelim), The Public Health and Welfare, and enacted provisions set out as a note under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601). For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601) and Tables.
 
+Title V of the Department of State Authorization Act of 2022, referred to in subsec. (i)(2)(B)(v), (xiv), probably means title XCV of div. I of Pub. L. 117–263. Div. I of Pub. L. 117–263 is the Department of State Authorization Act of 2022. Title XCV of div. I, relating to Information Security and Cyber Diplomacy, is classified principally to chapter 110 (§ 10301 et seq.) of this title. For complete classification of title XCV to the Code, see Tables.
+
+Section 238(g) of the National Defense Authorization Act for Fiscal Year 2019, referred to in subsec. (n)(5), probably means section 238(g) of Pub. L. 115–232, known as the John S. McCain National Defense Authorization Act for Fiscal Year 2019, which is set out as a note preceding [section 4061 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4061&num=0&edition=prelim), Armed Forces.
+
 #### Codification
 Section was formerly classified to [section 2662 of this title](./chapter-038-department-of-state.md#section-2662).
 
 Section was also formerly classified to [section 170f of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section170f&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+2023—Subsec. (n). Pub. L. 118–31, § 6303, added subsec. (n).
+
+Subsec. (o). Pub. L. 118–31, § 6405(b), added subsec. (o).
+
+2022—Subsec. (b)(3)(F). Pub. L. 117–263, § 9602(a), added subpar. (F).
+
+Subsec. (h). Pub. L. 117–263, § 9502(a)(2), redesignated subsec. (h) relating to Office of Sanctions Coordination as (l).
+
+Subsec. (i). Pub. L. 117–263, § 9502(a)(3), added subsec. (i). Former subsec. (i) redesignated (j).
+
+Subsecs. (j), (k). Pub. L. 117–263, § 9502(a)(1), redesignated subsecs. (i) and (j) as (j) and (k), respectively.
+
+Subsec. (l). Pub. L. 117–263, § 9502(a)(2), redesignated subsec. (h) relating to Office of Sanctions Coordination as (l).
+
+Subsec. (l)(4)(B). Pub. L. 117–263, § 9107(a), substituted “December 31, 2024” for “the date that is two years after December 27, 2020”.
+
+Subsec. (m). Pub. L. 117–263, § 9215(b), added subsec. (m).
+
 2021—Subsec. (c)(3) to (5). Pub. L. 117–81, § 5102(a), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
 Subsec. (g). Pub. L. 117–81, § 5103(2), added subsec. (g). Former subsec. (g) redesignated (j).
@@ -414,7 +653,7 @@ Subsec. (j). Pub. L. 117–81, § 5103(1), redesignated subsec. (g) as (j).
 
 2020—Subsec. (c)(3)(C). Pub. L. 116–260, § 361(a)(2), added subpar. (C).
 
-Subsec. (h). Pub. L. 116–260, § 361(a)(1), added subsec. (h).
+Subsec. (h). Pub. L. 116–260, § 361(a)(1), added subsec. (h) relating to Office of Sanctions Coordination.
 
 2019—Subsec. (c)(3), (4). Pub. L. 116–94 added par. (3) and redesignated former par. (3) as (4).
 
@@ -485,7 +724,7 @@ Subsec. (a)(2). Pub. L. 103–415 inserted “and the Deputy Secretary of State�
 1982—Pub. L. 97–241 substituted “The Secretary” for “That the Secretary”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 2012 Amendment
 Amendment by Pub. L. 112–166 effective 60 days after Aug. 10, 2012, and applicable to appointments made on and after that effective date, including any nomination pending in the Senate on that date, see section 6(a) of Pub. L. 112–166, set out as a note under [section 113 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section113&num=0&edition=prelim), Domestic Security.
@@ -501,11 +740,38 @@ Pub. L. 103–236, title I, § 161(b), Apr. 30, 1994, 108 Stat. 404, as amended 
 #### Effective Date of 1982 Amendment
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under [section 4301 of this title](./chapter-053-authorities-relating-to-the-regulation-of-foreign-missions.md#section-4301).
 
+#### Authorization
+Pub. L. 118–31, div. F, title LXI, § 6107(b), Dec. 22, 2023, 137 Stat. 967, provided that: “The Secretary [of State] is authorized to hire additional, permanent, dedicated staff for the Office of Authentications.”
+
+#### Special Hiring Authority
+Pub. L. 118–31, div. F, title LXII, § 6202(c), Dec. 22, 2023, 137 Stat. 972, provided that: “For an initial period of not more than 3 years after the date of the enactment of this division [Dec. 22, 2023], the Secretary [of State] may appoint, without regard to the provisions of sections 3309 through 3318 of title 5, United States Code, up to 80 candidates directly to positions in the competitive service at the Department [of State], as defined in section 2102 of that title, in the following occupational series: 25 candidates under 1560 Data Science, 25 candidates under 2210 Information Technology Management, and 30 candidates under 0201 Human Resources Management.”
+
+#### Extending Paths to Service for Paid Student Interns
+Pub. L. 118–31, div. F, title LXII, § 6203(a), Dec. 22, 2023, 137 Stat. 972, provided that: “In General.—For up to 2 years following the end of a compensated internship at the Department [of State], the Department may offer employment to up to 25 such interns and appoint them directly to positions in the competitive service, as defined in [section 2102 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section2102&num=0&edition=prelim), United States Code, without regard to the provisions of sections 3309 through 3318 of such title.”
+
+#### Establishment and Expansion of the Bureau Chief Data Officer Program
+Pub. L. 118–31, div. F, title LXIII, § 6302, Dec. 22, 2023, 137 Stat. 985, provided that: “(a) Bureau Chief Data Officer Program.—“(1) Establishment.—The Secretary [of State] shall establish a program, which shall be known as the ‘Bureau Chief Data Officer Program’ (referred to in this section as the ‘Program’), overseen by the Department [of State]’s Chief Data Officer. The Bureau Chief Data Officers hired under this program shall report to their respective Bureau leadership. “(2) Goals.—The goals of the Program shall include the following:“(A) Cultivating a data culture by promoting data fluency and data collaboration across the Department. “(B) Promoting increased data analytics use in critical decisionmaking areas. “(C) Promoting data integration and standardization. “(D) Increasing efficiencies across the Department by incentivizing acquisition of enterprise data solutions and subscription data services to be shared across bureaus and offices and within bureaus. “(b) Implementation Plan.—“(1) In general.—Not later than 180 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary shall submit to the appropriate committees of Congress an implementation plan that outlines strategies for—“(A) advancing the goals described in subsection (a)(2); “(B) hiring Bureau Chief Data Officers at the GS–14 or GS–15 grade or a similar rank; “(C) assigning at least one Bureau Chief Data Officer to each bureau of the Department; and “(D) allocation of necessary resources to sustain the Program. “(2) Appropriate committees of congress defined.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives]; “(B) the Committee on Homeland Security and Governmental Affairs and the Committee on Appropriations of the Senate; and “(C) the Committee on Oversight and Accountability and the Committee on Appropriations of the House of Representatives. “(c) Assignment.—In implementing the Bureau Chief Data Officer Program, bureaus may not dual-hat currently employed personnel as Bureau Chief Data Officers. “(d) Annual Reporting Requirement.—Not later than 180 days after the date of the enactment of this division, and annually thereafter for the following 3 years, the Secretary shall submit a report to the appropriate congressional committees regarding the status of the implementation plan required under subsection (b).”
+
+#### Implementation of GAO High Risk List Recommendations
+Pub. L. 118–31, div. F, title LXIII, § 6309, Dec. 22, 2023, 137 Stat. 994, provided that: “(a) In General.—The Secretary [of State] shall implement the Government Accountability Office’s High Risk List recommendations as applicable to the Department [of State] for the following activities:“(1) Improving the management of IT acquisitions and operations. “(2) Improving strategic human capital management. “(3) Managing Federal real property. “(4) Ensuring the cybersecurity of the nation. “(5) Managing government-wide personnel security clearance process. “(b) Report.—Not later than 90 days after the date of the enactment of this division [Dec. 22, 2023], the Secretary shall submit to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] a report on the Department’s progress in implementing all of the Government Accountability Office’s High Risk List recommendations as applicable to the Department described in subsection (a). “(c) High Risk List Defined.—In this section, the term ‘High Risk List’ refers to GAO–23–106203, the April 20, 2023, report by the Government Accountability Office titled, ‘High-Risk Series: Efforts Made to Achieve Progress Need to Be Maintained and Expanded to Fully Address All Areas’.”
+
+#### Special Envoy to the Pacific Islands Forum
+Pub. L. 118–31, div. F, title LXIV, § 6405(a), Dec. 22, 2023, 137 Stat. 998, provided that: “(a) Sense of Congress.—It is the sense of Congress that—“(1) the United States must increase its diplomatic activity and presence in the Pacific, particularly among Pacific Island nations; and “(2) the Special Envoy to the Pacific Islands Forum—“(A) should advance the United States partnership with Pacific Island Forum nations and with the organization itself on key issues of importance to the Pacific region; and “(B) should coordinate policies across the Pacific region with like-minded democracies.”
+
+#### Establishment of Fiscal Responsibility Award
+Pub. L. 118–31, div. F, title LXIV, § 6410, Dec. 22, 2023, 137 Stat. 1006, provided that: “The Under Secretary of State for Management shall establish, in consultation with the Director of the Budget and Planning Bureau and the Director of Global Talent, an annual departmental award for any exemplary employee who recommends, identifies, or adopts significant cost-saving measures for program implementation or through the reallocation of resources.”
+
+#### Notification of Revocation of Clearances
+Pub. L. 118–31, div. F, title LXVII, § 6710, Dec. 22, 2023, 137 Stat. 1020, provided that: “(a) In General.—With respect to any covered official whose security clearance is suspended or revoked, the Secretary [of State] shall—“(1) submit to the Chair and Ranking Member of the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives], the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives a notification not later than 15 days after the suspension or revocation of such clearance; and “(2) brief the Chair and Ranking Member of the appropriate congressional committees, the Majority Leader of the Senate, the Minority Leader of the Senate, the Speaker of the House of Representatives, and the Minority Leader of the House of Representatives not later than 30 days after such suspension or revocation on the present employment status of such individual and whether the job duties of such individual have changed since such suspension or revocation. “(b) Form.—The notification and briefing required by subsection (a) may be provided in classified form, if necessary. “(c) Covered Official Defined.—For purposes of this section, the term ‘covered official’ means any of the following:“(1) Any individual holding a position at or higher than the level of Assistant Secretary or its equivalent in the Department of State. “(2) Any individual holding the position of chief of mission or principal officer at any diplomatic or consular post. “(3) Any individual holding the rank and status of an ambassador or otherwise holding a position that reports directly to the Secretary, such as a special envoy. “(d) Sunset.—This section shall terminate not later than three years after the date of the enactment of this division [Dec. 22, 2023].”
+
+#### Provision of Parking Services and Retention of Parking Fees
+Pub. L. 117–263, div. I, title XCVII, § 9712, Dec. 23, 2022, 136 Stat. 3920, provided that: “The Secretary of State may— “(1) provide parking services, including electric vehicle charging and other parking services, in facilities operated by or for the Department [of State]; and “(2) charge fees for such services that may be deposited into the appropriate account of the Department, to remain available until expended for the purposes of such account, provided that the fees shall not exceed the cost of the providing such services.”
+
 #### Waiver Authority for Individual Occupational Requirements of Certain Positions
 Pub. L. 117–81, div. E, title LIII, § 5319, Dec. 27, 2021, 135 Stat. 2368, provided that: “The Secretary of State may waive any or all of the individual occupational requirements with respect to an employee or prospective employee of the Department of State for a civilian position categorized under the GS–0130 occupational series if the Secretary determines that the individual possesses significant scientific, technological, engineering, or mathematical expertise that is integral to performing the duties of the applicable position, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document that is transmitted to the Director of the Office of Personnel Management the rationale for the decision of the Secretary to waive such requirements.”
 
 #### Sanctions Policy Coordination with Allies and Partners of United States
-Pub. L. 116–260, div. FF, title III, § 361(b)–(d), Dec. 27, 2020, 134 Stat. 3132, 3133, provided that: “(b) Coordination With Allies and Partners of the United States.—“(1) In general.—The Secretary of State shall develop and implement mechanisms and programs, as appropriate, through the head of the Office of Sanctions Coordination established pursuant to subsection (h) of section 1 of the State Department Basic Authorities Act of 1956 [[22 U.S.C. 2651a(h)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2651a/h&num=0&edition=prelim)], as added by subsection (a)(1), to coordinate the development and implementation of United States sanctions policies with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea. “(2) Information sharing.—The Secretary should pursue the development and implementation of mechanisms and programs under paragraph (1), as appropriate, that involve the sharing of information with respect to policy development and sanctions implementation. “(3) Capacity building.—The Secretary should pursue efforts, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, to assist allies and partners of the United States, including the countries specified in paragraph (1), as appropriate, in the development of their legal and technical capacities to develop and implement sanctions authorities. “(4) Exchange programs.—In furtherance of the efforts described in paragraph (3), the Secretary, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, may enter into agreements with counterpart agencies in foreign governments establishing exchange programs for the temporary detail of Federal Government employees to share information and expertise with respect to the development and implementation of sanctions authorities. “(5) Briefing required.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2020] and every 180 days thereafter until the date that is five years after such date of enactment, the Secretary of State shall brief the appropriate congressional committees on the efforts of the Department of State to implement this section, including a description of—“(A) measures taken to implement paragraph (1); “(B) actions taken pursuant to paragraphs (2) through (4); “(C) the extent of coordination between the United States and allies and partners of the United States, including the countries specified in paragraph (1), with respect to the development and implementation of sanctions policy; and “(D) obstacles preventing closer coordination between the United States and such allies and partners with respect to the development and implementation of sanctions policy. “(c) Sense of Congress.—It is the sense of the Congress that the President should appoint a coordinator for sanctions and national economic security issues within the framework of the National Security Council. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Finance of the Senate; and “(2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Oversight and Reform, and the Committee on Way [sic] and Means of the House of Representatives.”
+Pub. L. 116–260, div. FF, title III, § 361(b)–(d), Dec. 27, 2020, 134 Stat. 3132, 3133, provided that: “(b) Coordination With Allies and Partners of the United States.—“(1) In general.—The Secretary of State shall develop and implement mechanisms and programs, as appropriate, through the head of the Office of Sanctions Coordination established pursuant to subsection (h) of section 1 of the State Department Basic Authorities Act of 1956 [now [22 U.S.C. 2651a](./chapter-038-department-of-state.md#section-2651a)(l)], as added by subsection (a)(1), to coordinate the development and implementation of United States sanctions policies with allies and partners of the United States, including the United Kingdom, the European Union and member countries of the European Union, Canada, Australia, New Zealand, Japan, and South Korea. “(2) Information sharing.—The Secretary should pursue the development and implementation of mechanisms and programs under paragraph (1), as appropriate, that involve the sharing of information with respect to policy development and sanctions implementation. “(3) Capacity building.—The Secretary should pursue efforts, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, to assist allies and partners of the United States, including the countries specified in paragraph (1), as appropriate, in the development of their legal and technical capacities to develop and implement sanctions authorities. “(4) Exchange programs.—In furtherance of the efforts described in paragraph (3), the Secretary, in coordination with the Secretary of the Treasury and the head of any other Federal agency the Secretary considers appropriate, may enter into agreements with counterpart agencies in foreign governments establishing exchange programs for the temporary detail of Federal Government employees to share information and expertise with respect to the development and implementation of sanctions authorities. “(5) Briefing required.—Not later than 90 days after the date of the enactment of this Act [Dec. 27, 2020] and every 180 days thereafter until the date that is five years after such date of enactment, the Secretary of State shall brief the appropriate congressional committees on the efforts of the Department of State to implement this section, including a description of—“(A) measures taken to implement paragraph (1); “(B) actions taken pursuant to paragraphs (2) through (4); “(C) the extent of coordination between the United States and allies and partners of the United States, including the countries specified in paragraph (1), with respect to the development and implementation of sanctions policy; and “(D) obstacles preventing closer coordination between the United States and such allies and partners with respect to the development and implementation of sanctions policy. “(c) Sense of Congress.—It is the sense of the Congress that the President should appoint a coordinator for sanctions and national economic security issues within the framework of the National Security Council. “(d) Appropriate Congressional Committees Defined.—In this section, the term ‘appropriate congressional committees’ means—“(1) the Committee on Foreign Relations, the Committee on Banking, Housing, and Urban Affairs, the Committee on Homeland Security and Governmental Affairs, and the Committee on Finance of the Senate; and “(2) the Committee on Foreign Affairs, the Committee on Financial Services, the Committee on Oversight and Reform [now Committee on Oversight and Accountability], and the Committee on Way [sic] and Means of the House of Representatives.”
 
 #### Additional Paid Leave To Address Employee Hardships Resulting From Coronavirus
 Pub. L. 116–136, div. B, title XI, § 21007, Mar. 27, 2020, 134 Stat. 592, provided that: “Notwithstanding any other provision of law, and in addition to leave authorized under any other provision of law, the Secretary of State and the Administrator of the United States Agency for International Development may, in order to prevent, prepare for, and respond to coronavirus, provide additional paid leave to address employee hardships resulting from coronavirus: Provided, That this authority shall apply to leave taken since January 29, 2020, and may be provided abroad and domestically: Provided further, That the Secretary and the Administrator shall consult with the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives prior to implementation of such authority: Provided further, That the authority made available pursuant to this section shall expire on September 30, 2022.”
@@ -761,6 +1027,15 @@ Section was formerly classified to [section 156 of Title 5](https://uscode.house
 #### Construction
 Pub. L. 115–409, § 412, Dec. 31, 2018, 132 Stat. 5411, provided that: “Nothing in this Act [see Short Title of 2018 Amendment note set out under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651)] may be construed as authorizing the use of military force.”
 
+#### Global Cooperative Framework to End Human Rights Abuses in Sourcing Critical Minerals
+Pub. L. 118–31, div. E, title LIV, § 5411, Dec. 22, 2023, 137 Stat. 948, provided that: “(a) In General.—The Secretary of State shall seek to convene a meeting of foreign leaders to establish a multilateral framework to end human rights abuses, including the exploitation of forced labor and child labor, related to the mining and sourcing of critical minerals. “(b) Implementation Report.—The Secretary shall lead the development of an annual global report on the implementation of the framework under subsection (a), including progress and recommendations to fully end human rights abuses, including the exploitation of forced labor and child labor, related to the extraction of critical minerals around the world. “(c) Consultations.—The Secretary shall consult closely on a timely basis with the following with respect to developing and implementing the framework under subsection (a):“(1) The Forced Labor Enforcement Task Force established under section 741 of the United States-Mexico-Canada Agreement Implementation Act ([19 U.S.C. 4681](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section4681&num=0&edition=prelim)); and “(2) Congress. “(d) Relationship to United States Law.—Nothing in the framework under subsection (a) shall be construed—“(1) to amend or modify any law of the United States; or “(2) to limit any authority conferred under any law of the United States. “(e) Extractive Industries Transparency Initiative and Certain Provisions of the Dodd-Frank Wall Street Reform and Consumer Protection Act.—Nothing in this section shall—“(1) affect the authority of the President to take any action to join and subsequently comply with the terms and obligations of the Extractive Industries Transparency Initiative (EITI); or “(2) affect section 1502 of the Dodd-Frank Wall Street Reform and Consumer Protection Act [Pub. L. 111–203] ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim) note), or subsection (q) of section 13 of the Securities Exchange Act of 1934 ([15 U.S.C. 78m](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78m&num=0&edition=prelim)), as added by section 1504 of the Dodd-Frank Wall Street Reform and Consumer Protection Act (Public Law 111–203; 124 Stat. 2220), or any rule prescribed under either such section. “(f) Critical Mineral Defined.—In this section, the term ‘critical mineral’ has the meaning given the term in section 7002(a) of the Energy Act of 2020 ([30 U.S.C. 1606(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606/a&num=0&edition=prelim)).”
+
+#### US-ASEAN Center
+Pub. L. 118–31, div. F, title LXVII, § 6705, Dec. 22, 2023, 137 Stat. 1017, provided that: “(a) Defined Term.—In this section, the term ‘ASEAN’ means the Association of Southeast Asian Nations. “(b) Establishment.—The Secretary [of State] is authorized to enter into a public-private partnership for the purposes of establishing a US-ASEAN Center in the United States to support United States economic and cultural engagement with Southeast Asia. “(c) Functions.—Notwithstanding any other provision of law, the US-ASEAN Center established pursuant to subsection (b) may—“(1) provide grants for research to support and elevate the importance of the US-ASEAN partnership; “(2) facilitate activities to strengthen US-ASEAN trade and investment; “(3) expand economic and technological relationships between ASEAN countries and the United States into new areas of cooperation; “(4) provide training to United States citizens and citizens of ASEAN countries that improve people-to-people ties; “(5) develop educational programs to increase awareness for the United States and ASEAN countries on the importance of relations between the United States and ASEAN countries; and “(6) carry out other activities the Secretary considers necessary to strengthen ties between the United States and ASEAN countries and achieve the objectives of the US-ASEAN Center. “(d) Parameters.—In carrying out this section, the Secretary shall ensure that the activities of the US-ASEAN Center do not duplicate current lines of effort being conducted by the United States Government or its grantees.”
+
+#### Establishment of United States Embassies in Solomon Islands, Kiribati, and Tonga and a Diplomatic Presence in Vanuatu
+Pub. L. 117–263, div. I, title XCIII, § 9303, Dec. 23, 2022, 136 Stat. 3890, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Pacific Islands are vital to United States national security and national interests in the Indo-Pacific region and globally. “(2) The Pacific Islands region spans 15 percent of the world’s surface area and controls access to open waters in the Central Pacific, sea lanes to the Western Hemisphere, supply lines to United States forward-deployed forces in East Asia, and economically important fisheries. “(3) The Pacific Islands region is home to the State of Hawaii, 11 United States territories, United States Naval Base Guam, and United States Andersen Air Force Base. “(4) Pacific Island countries cooperate with the United States and United States partners on maritime security and efforts to stop illegal, unreported, and destructive fishing. “(5) The Pacific Islands are rich in biodiversity and are on the frontlines of environmental challenges and climate issues. “(6) The People’s Republic of China seeks to increase its influence in the Pacific Islands region, including through infrastructure development under the People’s Republic of China’s One Belt, One Road Initiative and its new security agreement with the Solomon Islands. “(7) The United States closed its embassy in the Solomon Islands in 1993. “(8) The United States Embassy in Papua New Guinea manages the diplomatic affairs of the United States to the Republic of Vanuatu and the Solomon Islands, and the United States Embassy in Fiji manages the diplomatic affairs of the United States to the Republic of Kiribati and the Kingdom of Tonga. “(9) The United States requires a physical and more robust diplomatic presence in the Republic of Vanuatu, the Republic of Kiribati, the Solomon Islands, and the Kingdom of Tonga, to ensure the physical and operational security of our efforts in those countries to deepen relations, protect United States national security, and pursue United States national interests. “(10) Increasing the number of United States embassies dedicated solely to a Pacific Island country demonstrates the United States’ ongoing commitment to the region and to the Pacific Island countries. “(b) Establishment of Embassies.—“(1) In general.—As soon as possible, the Secretary [of State] should—“(A) establish physical United States embassies in the Republic of Kiribati and in the Kingdom of Tonga; “(B) upgrade the United States consular agency in the Solomon Islands to an embassy; and “(C) establish a physical United States Government presence in the Republic of Vanuatu. “(2) Other strategies.—“(A) Physical infrastructure.—In establishing embassies pursuant to paragraph (1) and creating the physical infrastructure to ensure the physical and operational safety of embassy personnel, the Secretary may pursue rent or purchase existing buildings or co-locate personnel in embassies of like-minded partners, such as Australia and New Zealand. “(B) Personnel.—In establishing a physical presence in the Republic of Vanuatu pursuant to paragraph (1), the Secretary may assign 1 or more United States Government personnel to the Republic of Vanuatu as part of the United States mission in Papua New Guinea. “(3) Waiver authority.—The President may waive the requirements under paragraph (1) for a period of one year if the President determines and reports to Congress in advance that such waiver is necessary to protect the national security interests of the United States. “(c) Authorization of Appropriations.—Of the amounts authorized to be appropriated to the Department of State for Embassy Security, Construction, and Maintenance—“(1) $40,200,000 is authorized to be appropriated for fiscal year 2023—“(A) to establish and maintain the 3 embassies authorized to be established under subsection (b); and “(B) to establish a physical United States Government presence in the Republic of Vanuatu; “(2) $3,000,000 is authorized to be appropriated for fiscal year 2024—“(A) to maintain such embassies; and “(B) to establish a physical United States Government presence in the Republic of Vanuatu;[.] “(d) Report.—“(1) Defined term.—In this subsection, the term ‘appropriate committees of Congress’ means—“(A) the Committee on Foreign Relations of the Senate; “(B) the Committee on Appropriations of the Senate; “(C) the Committee on Foreign Affairs of the House of Representatives; and “(D) the Committee on Appropriations of the House of Representatives. “(2) Progress report.—Not later than 180 days following the date of the enactment of this Act [Dec. 23, 2022], the Secretary shall submit to the appropriate committees of Congress a report that includes—“(A) a description of the status of activities carried out to achieve the objectives described in this section; “(B) an estimate of when embassies and a physical presence will be fully established pursuant to subsection (b)(1); and “(C) an update on events in the Pacific Islands region relevant to the establishment of United States embassies, including activities by the People’s Republic of China. “(3) Report on final disposition.—Not later than 2 years after the date of the enactment of this Act, the Secretary shall submit a report to the appropriate committees of Congress that—“(A) confirms the establishment of the 3 embassies and the physical presence required under subsection (b)(1); or “(B) if the embassies and physical presence required in subsection (b)(1) have not been established, a justification for such failure to comply with such requirement.”
+
 #### Mitigation and Prevention of Atrocities in High-Risk Countries
 Pub. L. 116–283, div. A, title XII, § 1210D, Jan. 1, 2021, 134 Stat. 3916, provided that: “(a) Statement of Policy.—It is the policy of the United States that the Department of State, in coordination with the Department of Defense and the United States Agency for International Development, should address global fragility, as required by the Global Fragility Act of 2019 [[22 U.S.C. 9801](./chapter-105-global-fragility.md#section-9801) et seq.] and, to the extent practicable, incorporate efforts to identify, prevent, and respond to the causes of atrocities, as required by section 3 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 [Pub. L. 115–441] ([22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note), into security assistance and cooperation planning and implementation for covered foreign countries. “(b) In General.—The Secretary of State, in consultation with chiefs of mission and the Administrator of the United States Agency for International Development, shall ensure that the Department of State’s Atrocity Assessment Framework is factored into the Integrated Country Strategy and the Country Development Cooperation Strategy where appropriate for covered foreign countries. “(c) Report.—“(1) In general.— [Amended section 5 of Pub. L. 115–441, 132 Stat. 5587.] “(2) Effective date.—The amendment made by paragraph (1) shall take effect and apply beginning with the first report required under section 5 of the Elie Wiesel Genocide and Atrocities Prevention Act of 2018 that is required after the date of the enactment of this Act [Jan. 1, 2021]. “(d) Stakeholder Consultation.—Consistent with section 504(b) of the Global Fragility Act of 2019 ([22 U.S.C. 9803(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9803/b&num=0&edition=prelim)), the Secretary of State and other relevant agencies should consult with credible representatives of civil society with experience in atrocities prevention and national and local governance entities, as well as relevant international development organizations with experience implementing programs in fragile and violence-affected communities, multilateral organizations and donors, and relevant private, academic, and philanthropic entities, as appropriate, in identifying covered foreign countries as defined in this section. “(e) Definitions.—In this section:“(1) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and “(B) the Committee on Foreign Relations and the Committee on Armed Services of the Senate. “(2) Covered foreign country.—The term ‘covered foreign country’ means a foreign country that is not listed as a priority country under section 505 of the Global Fragility Act of 2019 ([22 U.S.C. 9804](./chapter-105-global-fragility.md#section-9804)) but remains among the top 30 most at risk countries for new onset of mass killing, according to the Department of State’s internal assessments, and in consultation with the appropriate congressional committees.”
 
@@ -782,11 +1057,13 @@ Pub. L. 115–300, Dec. 11, 2018, 132 Stat. 4390, provided that: “SECTION 1. S
 Pub. L. 114–328, div. A, title XII, subtitle F, Dec. 23, 2016, 130 Stat. 2533, known as the Global Magnitsky Human Rights Accountability Act and formerly set out as a note under this section, was transferred to chapter 108 (§ 10101 et seq.) of this title. Section 1265 of Pub. L. 114–328, which terminated the authority to impose sanctions under the Act 6 years after Dec. 23, 2016, was repealed by Pub. L. 117–110, § 6(a), Apr. 8, 2022, 136 Stat. 1165.
 
 #### Global Engagement Center
+Pub. L. 118–31, div. A, title XII, § 1231, Dec. 22, 2023, 137 Stat. 458, provided that: “Not later than 30 days after making funds or personnel available to the Global Engagement Center established pursuant to section 1287 of the National Defense Authorization Act for Fiscal Year 2017 [Pub. L. 114–328] ([22 U.S.C. 2656](./chapter-038-department-of-state.md#section-2656) note) [set out below], the Secretary of Defense shall provide to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] a notification that includes— “(1) an accounting of such funds or personnel; and “(2) an explanation of the reason for the availability of such funds or personnel.”
+
 Pub. L. 117–81, div. E, title LIII, § 5320, Dec. 27, 2021, 135 Stat. 2368, provided that: “The Secretary may appoint, for a 3-year period that may be extended for up to an additional 2 years, solely to carry out the functions of the Global Engagement Center, employees of the Department without regard to the provisions of title 5, United States Code, governing appointment in the competitive service, and may fix the basic compensation of such employees without regard to chapter 51 and subchapter III of chapter 53 of such title.”
 
 [For definitions of “Secretary” and “Department” as used in section 5320 of Pub. L. 117–81, set out above, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).]
 
-Pub. L. 114–328, div. A, title XII, § 1287, Dec. 23, 2016, 130 Stat. 2546, as amended by Pub. L. 115–232, div. A, title XII, § 1284, Aug. 13, 2018, 132 Stat. 2076, provided that: “(a) Establishment.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of State, in coordination with the Secretary of Defense and the heads of other relevant Federal departments and agencies, shall establish within the Department of State a Global Engagement Center (in this section referred to as the ‘Center’). “(2) Purpose.—The purpose of the Center shall be to direct, lead, synchronize, integrate, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and foreign non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States and United States allies and partner nations. “(b) Functions.—The Center shall carry out the following functions:“(1) Direct, lead, synchronize, integrate, and coordinate interagency and international efforts to track and evaluate counterfactual narratives abroad that threaten the policies, security, or stability of the United States and United States allies and partner nations. “(2) Analyze relevant information, data, analysis, and analytics from United States Government agencies, United States allies and partner nations, think tanks, academic institutions, civil society groups, and other nongovernmental organizations. “(3) As needed, support the development and dissemination of fact-based narratives and analysis to counter propaganda and disinformation directed at the United States and United States allies and partner nations. “(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States. “(5) Facilitate the use of a wide range of technologies and techniques by sharing expertise among Federal departments and agencies, seeking expertise from external sources, and implementing best practices. “(6) Measure and evaluate the activities of the Center, including the outcomes of such activities, and implement mechanisms to ensure that the activities of the Center are updated to reflect the results of such measurement and evaluation. “(7) Identify gaps in United States capabilities in areas relevant to the purpose of the Center and recommend necessary enhancements or changes. “(8) Use information from appropriate interagency entities to identify the countries, geographic areas, and populations most susceptible to propaganda and disinformation, as well as the countries, geographic areas, and populations in which such propaganda and disinformation is likely to cause the most harm. “(9) Administer the information access fund established pursuant to subsection (f). “(10) Coordinate with United States allies and partner nations in order to amplify the Center’s efforts and avoid duplication. “(11) Maintain, collect, use, and disseminate records (as such term is defined in [section 552a(a)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/a/4&num=0&edition=prelim), United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight. “(c) Head of Center.—“(1) Appointment.—The head of the Center shall be an individual who is an official of the Federal Government, who shall be appointed by the President. “(2) Compliance with privacy and civil liberties laws.—The President shall designate a senior official to develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance. “(d) Employees of the Center.—“(1) Detailees and assignees.—Any Federal Government employee may be detailed or assigned to the Center with or without reimbursement, consistent with applicable laws and regulations regarding such employee, and such detail or assignment shall be without interruption or loss of status or privilege. “(2) Temporary personnel.—The Secretary of State should, when hiring temporary United States citizen personnel, preference the use of Foreign Service limited appointments both in the United States and abroad in accordance with section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)). The Secretary may hire United States citizens or aliens, as appropriate, including as personal services contractors, for purposes of personnel resources of the Center, if—“(A) the Secretary determines that existing personnel resources or expertise are insufficient; “(B) the period in which services are provided by a personal services contractor, including options, does not exceed 3 years, unless the Secretary determines that exceptional circumstances justify an extension of up to one additional year; “(C) not more than 50 United States citizens or aliens are employed as personal services contractors under the authority of this paragraph at any time; and “(D) the authority of this paragraph is only used to obtain specialized skills or experience or to respond to urgent needs. “(e) Transfer of Amounts Authorized.—“(1) In general.—For each of fiscal years 2019 and 2020, the Secretary of Defense is authorized to transfer, from amounts appropriated to the Secretary pursuant to the authorization under this Act [see Tables for classification], to the Secretary of State not more than $60,000,000, to carry out the functions of the Center. “(2) Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer. “(3) Inapplicability of reprogramming requirements.—The authority to transfer amounts under paragraph (1) shall not be subject to any reprogramming requirement under any other provision of law. “(f) Information Access Fund.—“(1) Authority for grants.—The Center is authorized to provide grants or contracts of financial support to civil society groups, media content providers, nongovernmental organizations, federally funded research and development centers, private companies, or academic institutions for the following purposes:“(A) To support local entities and linkages among such entities, including independent media entities, that are best positioned to refute foreign propaganda and disinformation in affected communities. “(B) To collect and store examples of print, online, and social media disinformation and propaganda directed at the United States or United States allies and partner nations. “(C) To analyze and report on tactics, techniques, and procedures of foreign information warfare and other efforts with respect to disinformation and propaganda. “(D) To support efforts by the Center to counter efforts by foreign entities to use disinformation and propaganda to undermine or influence the policies, security, and social and political stability of the United States and United States allies and partner nations. “(2) Funding availability and limitations.—The Secretary of State shall provide that each entity that receives funds under this subsection is selected in accordance with the relevant existing regulations through a process that ensures such entity has the credibility and capability to carry out effectively and in accordance with United States interests and objectives the purposes specified in paragraph (1) for which such entity received such funding. “(g) Reports.—“(1) In general.—Not later than one year after the date on which the Center is established, the Secretary of State shall submit to the appropriate congressional committees a report evaluating the success of the Center in carrying out its functions under subsection (b) and outlining steps to improve any areas of deficiency. “(2) Definition.—In this subsection, the term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and “(B) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives. “(h) Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform [now Committee on Oversight and Reform] of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j). “(i) Limitation.—None of the funds authorized to be appropriated or otherwise made available to carry out this section shall be used for purposes other than countering foreign propaganda and misinformation that threatens United States national security. “(j) Termination.—The Center shall terminate on the date that is 8 years after the date of the enactment of this Act [Dec. 23, 2016].”
+Pub. L. 114–328, div. A, title XII, § 1287, Dec. 23, 2016, 130 Stat. 2546, as amended by Pub. L. 115–232, div. A, title XII, § 1284, Aug. 13, 2018, 132 Stat. 2076, provided that: “(a) Establishment.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2016], the Secretary of State, in coordination with the Secretary of Defense and the heads of other relevant Federal departments and agencies, shall establish within the Department of State a Global Engagement Center (in this section referred to as the ‘Center’). “(2) Purpose.—The purpose of the Center shall be to direct, lead, synchronize, integrate, and coordinate efforts of the Federal Government to recognize, understand, expose, and counter foreign state and foreign non-state propaganda and disinformation efforts aimed at undermining or influencing the policies, security, or stability of the United States and United States allies and partner nations. “(b) Functions.—The Center shall carry out the following functions:“(1) Direct, lead, synchronize, integrate, and coordinate interagency and international efforts to track and evaluate counterfactual narratives abroad that threaten the policies, security, or stability of the United States and United States allies and partner nations. “(2) Analyze relevant information, data, analysis, and analytics from United States Government agencies, United States allies and partner nations, think tanks, academic institutions, civil society groups, and other nongovernmental organizations. “(3) As needed, support the development and dissemination of fact-based narratives and analysis to counter propaganda and disinformation directed at the United States and United States allies and partner nations. “(4) Identify current and emerging trends in foreign propaganda and disinformation in order to coordinate and shape the development of tactics, techniques, and procedures to expose and refute foreign propaganda and disinformation, and pro-actively support the promotion of credible, fact-based narratives and policies to audiences outside the United States. “(5) Facilitate the use of a wide range of technologies and techniques by sharing expertise among Federal departments and agencies, seeking expertise from external sources, and implementing best practices. “(6) Measure and evaluate the activities of the Center, including the outcomes of such activities, and implement mechanisms to ensure that the activities of the Center are updated to reflect the results of such measurement and evaluation. “(7) Identify gaps in United States capabilities in areas relevant to the purpose of the Center and recommend necessary enhancements or changes. “(8) Use information from appropriate interagency entities to identify the countries, geographic areas, and populations most susceptible to propaganda and disinformation, as well as the countries, geographic areas, and populations in which such propaganda and disinformation is likely to cause the most harm. “(9) Administer the information access fund established pursuant to subsection (f). “(10) Coordinate with United States allies and partner nations in order to amplify the Center’s efforts and avoid duplication. “(11) Maintain, collect, use, and disseminate records (as such term is defined in [section 552a(a)(4) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section552a/a/4&num=0&edition=prelim), United States Code) for research and data analysis of foreign state and non-state propaganda and disinformation efforts and communications related to public diplomacy efforts intended for foreign audiences. Such research and data analysis shall be reasonably tailored to meet the purposes of this paragraph and shall be carried out with due regard for privacy and civil liberties guidance and oversight. “(c) Head of Center.—“(1) Appointment.—The head of the Center shall be an individual who is an official of the Federal Government, who shall be appointed by the President. “(2) Compliance with privacy and civil liberties laws.—The President shall designate a senior official to develop guidance for the Center relating to relevant privacy and civil liberties laws and to ensure compliance with such guidance. “(d) Employees of the Center.—“(1) Detailees and assignees.—Any Federal Government employee may be detailed or assigned to the Center with or without reimbursement, consistent with applicable laws and regulations regarding such employee, and such detail or assignment shall be without interruption or loss of status or privilege. “(2) Temporary personnel.—The Secretary of State should, when hiring temporary United States citizen personnel, preference the use of Foreign Service limited appointments both in the United States and abroad in accordance with section 309 of the Foreign Service Act of 1980 ([22 U.S.C. 3949](./chapter-052-foreign-service.md#section-3949)). The Secretary may hire United States citizens or aliens, as appropriate, including as personal services contractors, for purposes of personnel resources of the Center, if—“(A) the Secretary determines that existing personnel resources or expertise are insufficient; “(B) the period in which services are provided by a personal services contractor, including options, does not exceed 3 years, unless the Secretary determines that exceptional circumstances justify an extension of up to one additional year; “(C) not more than 50 United States citizens or aliens are employed as personal services contractors under the authority of this paragraph at any time; and “(D) the authority of this paragraph is only used to obtain specialized skills or experience or to respond to urgent needs. “(e) Transfer of Amounts Authorized.—“(1) In general.—For each of fiscal years 2019 and 2020, the Secretary of Defense is authorized to transfer, from amounts appropriated to the Secretary pursuant to the authorization under this Act [see Tables for classification], to the Secretary of State not more than $60,000,000, to carry out the functions of the Center. “(2) Notice requirement.—The Secretary of Defense shall notify the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives of a proposed transfer under paragraph (1) not less than 15 days prior to making such transfer. “(3) Inapplicability of reprogramming requirements.—The authority to transfer amounts under paragraph (1) shall not be subject to any reprogramming requirement under any other provision of law. “(f) Information Access Fund.—“(1) Authority for grants.—The Center is authorized to provide grants or contracts of financial support to civil society groups, media content providers, nongovernmental organizations, federally funded research and development centers, private companies, or academic institutions for the following purposes:“(A) To support local entities and linkages among such entities, including independent media entities, that are best positioned to refute foreign propaganda and disinformation in affected communities. “(B) To collect and store examples of print, online, and social media disinformation and propaganda directed at the United States or United States allies and partner nations. “(C) To analyze and report on tactics, techniques, and procedures of foreign information warfare and other efforts with respect to disinformation and propaganda. “(D) To support efforts by the Center to counter efforts by foreign entities to use disinformation and propaganda to undermine or influence the policies, security, and social and political stability of the United States and United States allies and partner nations. “(2) Funding availability and limitations.—The Secretary of State shall provide that each entity that receives funds under this subsection is selected in accordance with the relevant existing regulations through a process that ensures such entity has the credibility and capability to carry out effectively and in accordance with United States interests and objectives the purposes specified in paragraph (1) for which such entity received such funding. “(g) Reports.—“(1) In general.—Not later than one year after the date on which the Center is established, the Secretary of State shall submit to the appropriate congressional committees a report evaluating the success of the Center in carrying out its functions under subsection (b) and outlining steps to improve any areas of deficiency. “(2) Definition.—In this subsection, the term ‘appropriate congressional committees’ means—“(A) the Committee on Foreign Relations, the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Appropriations of the Senate; and “(B) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Appropriations of the House of Representatives. “(h) Congressional Briefings.—The Secretary of State, together with the heads of other relevant Federal departments and agencies, shall provide a briefing to the Committee on Armed Services, the Committee on Appropriations, and the Committee on Foreign Relations of the Senate and the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Affairs, and the Committee on Oversight and Government Reform [now Committee on Oversight and Accountability] of the House of Representatives not less often than annually regarding the activities of the Global Engagement Center. The briefings required under this subsection shall terminate on the date specified in subsection (j). “(i) Limitation.—None of the funds authorized to be appropriated or otherwise made available to carry out this section shall be used for purposes other than countering foreign propaganda and misinformation that threatens United States national security. “(j) Termination.—The Center shall terminate on the date that is 8 years after the date of the enactment of this Act [Dec. 23, 2016].”
 
 #### Strategy for the United States Relationship With Saudi Arabia
 Pub. L. 110–53, title XX, § 2043, Aug. 3, 2007, 121 Stat. 524, provided that: “(a) Congressional Findings.—Congress finds that:“(1) The National Commission on Terrorist Attacks Upon the United States concluded that the Kingdom of Saudi Arabia has ‘been a problematic ally in combating Islamic extremism. At the level of high policy, Saudi Arabia’s leaders cooperated with American diplomatic initiatives aimed at the Taliban or Pakistan before 9/11. At the same time, Saudi Arabia’s society was a place where al Qaeda raised money directly from individuals and through charities. It was the society that produced 15 of the 19 hijackers.’. “(2) Saudi Arabia has an uneven record in the fight against terrorism, especially with respect to terrorist financing, support for radical madrassas, a lack of political outlets for its citizens, and restrictions on religious pluralism, that poses a threat to the security of the United States, the international community, and Saudi Arabia itself. “(3) The National Commission on Terrorist Attacks Upon the United States concluded that the ‘problems in the U.S.-Saudi relationship must be confronted, openly’. It recommended that the two countries build a relationship that includes a ‘shared commitment to political and economic reform . . . and a shared interest in greater tolerance and cultural respect, translating into a commitment to fight the violent extremists who foment hatred’. “(4) The United States has a national security interest in working with the Government of Saudi Arabia to combat international terrorists that operate within that country or that operate outside Saudi Arabia with the support of citizens of Saudi Arabia. “(5) The United States and Saudi Arabia established a Strategic Dialogue in 2005, which provides a framework for the two countries to discuss a range of bilateral issues at high levels, including counterterrorism policy and political and economic reforms. “(6) It is in the national security interest of the United States to support the Government of Saudi Arabia in undertaking a number of political and economic reforms, including increasing anti-terrorism operations conducted by law enforcement agencies, providing more political and religious rights to its citizens, increasing the rights of women, engaging in comprehensive educational reform, enhancing monitoring of charitable organizations, and promulgating and enforcing domestic laws and regulation on terrorist financing. “(b) Statement of Policy.—It is the policy of the United States—“(1) to engage with the Government of Saudi Arabia to openly confront the issue of terrorism, as well as other problematic issues such as the lack of political freedoms; “(2) to enhance counterterrorism cooperation with the Government of Saudi Arabia; and “(3) to support the efforts of the Government of Saudi Arabia to make political, economic, and social reforms, including greater religious freedom, throughout the country. “(c) Progress in Counterterrorism and Other Cooperation.—“(1) Report.—Not later than 180 days after the date of the enactment of this Act [Aug. 3, 2007], the President shall transmit to the appropriate congressional committees a report that—“(A) describes the long-term strategy of the United States—“(i) to engage with the Government of Saudi Arabia to facilitate political, economic, and social reforms, including greater religious freedom, that will enhance the ability of the Government of Saudi Arabia to combat international terrorism; and “(ii) to work with the Government of Saudi Arabia to combat terrorism, including through effective measures to prevent and prohibit the financing of terrorists by Saudi institutions and citizens; and “(B) provides an assessment of the progress made by Saudi Arabia since 2001 on the matters described in subparagraph (A), including—“(i) whether Saudi Arabia has become a party to the International Convention for the Suppression of the Financing of Terrorism; and “(ii) the activities and authority of the Saudi Nongovernmental National Commission for Relief and Charity Work Abroad. “(2) Form.—The report required by paragraph (1) shall be transmitted in unclassified form, but may include a classified annex, if necessary.”
@@ -985,6 +1262,62 @@ Sec. 7. General Provisions. (a) Nothing in this order shall be construed to impa
 
 Barack Obama.
 
+#### Ex. Ord. No. 14089. Establishing the President’s Advisory Council on African Diaspora Engagement in the United States
+Ex. Ord. No. 14089, Dec. 13, 2022, 87 F.R. 77459, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the dialogue between United States officials and the African Diaspora by elevating engagement through collaboration, partnership, and community-building among the United States, Africa, and other nations globally, it is hereby ordered as follows:
+
+Section 1. Policy. The United States has a longstanding commitment to engagement with the African Diaspora—people of native African origin living outside the African continent, and who have been collectively described as constituting the sixth region of the African Union. The African Diaspora in the United States is a source of strength, and encompasses African Americans—including descendants of enslaved Africans—and nearly two million African immigrants who have close familial, social, and economic connections to the African continent. African Americans have been foundational to strengthening United States-Africa relations and in shaping United States foreign policy toward Africa—including by actively advocating on the African continent’s behalf, even as they struggled for civil rights in the United States. The African immigrant community continues to make significant contributions to America’s growth and prosperity. The United States Government encourages efforts to advance equity and opportunity for the African Diaspora in the United States, and will continue to encourage efforts to strengthen cultural, social, political, and economic ties between African communities, the global African Diaspora, and the United States.
+
+In August 2022, my Administration released the U.S. Strategy Toward Sub-Saharan Africa, which outlines our foreign policy objectives to bolster relations with African nations, listen to diverse local voices, and widen the circle of engagement to advance our strategic objectives for the benefit of both Africans and Americans.
+
+Sec. 2. Establishment of the President’s Advisory Council on African Diaspora Engagement in the United States. Within 180 days of the date of this order [Dec. 13, 2022], the Secretary of State shall establish the President’s Advisory Council on African Diaspora Engagement in the United States (Advisory Council) within the Department of State.
+
+Sec. 3. Membership. (a) The Advisory Council shall consist of not more than 12 members, appointed by the Secretary of State, who are representatives of and reflect the diversity of the African Diaspora from African American and African immigrant communities, including individuals who have distinguished themselves in government, sports, creative industries, business, academia, social work, and faith-based activities. Appointments to the Advisory Council shall be made without regard to political affiliation.
+
+(b) Members of the Advisory Council shall serve for 2-year terms without compensation or reimbursement.
+
+(c) The Secretary of State shall designate one of the members of the Advisory Council to serve as Chair.
+
+(d) The Secretary of State shall designate a senior officer or employee of the Department of State to serve as Executive Director of the Advisory Council.
+
+Sec. 4. Functions. (a) The Advisory Council shall advise the President, through the Secretary of State, and then through the Assistant to the President for National Security Affairs (APNSA) and the Assistant to the President for Domestic Policy (APDP), on strengthening connections between the United States Government and the African Diaspora in the United States, as described in the U.S. Strategy Toward Sub-Saharan Africa.
+
+(b) In providing the advice described in subsection (a) of this section, the Advisory Council shall provide information, analysis, and recommendations that address the following, in addition to other topics deemed relevant by the Secretary of State, in coordination with the APNSA and the APDP:
+
+(i) strategies to advance equity and opportunity for African Diaspora communities, including through efforts coordinated by the Domestic Policy Council under Executive Order 13985 of January 20, 2021 (Advancing Racial Equity and Support for Underserved Communities Through the Federal Government) [[5 U.S.C. 601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section601&num=0&edition=prelim) note];
+
+(ii) ways to support the United Nations’ Permanent Forum on People of African Descent;
+
+(iii) programs and initiatives to strengthen cultural, social, political, and economic ties between African communities, the global African Diaspora, and the United States, such as the Young African Leaders Initiative, and address challenges and opportunities to advance inclusion, belonging, and public awareness of the diversity, accomplishments, culture, and history of the African Diaspora;
+
+(iv) programs and initiatives, such as the International Visitor Leadership Program, to expand educational exchange programs between Africa and the United States;
+
+(v) programs and initiatives to increase public- and private-sector collaboration and community involvement in improving the socioeconomic well-being of African Diaspora communities; and
+
+(vi) programs and initiatives, such as Prosper Africa, to increase participation of members of the African Diaspora in the United States with regard to trade, investment, economic growth, and development programs relating to Africa.
+
+Sec. 5. Administration. (a) The Department of State shall provide funding and administrative support for the Advisory Council, to the extent permitted by law and within existing appropriations.
+
+(b) The Advisory Council shall meet in plenary session on a quarterly basis, at a minimum, or more frequently as necessary.
+
+Sec. 6. General Provisions. (a) Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.] (the “Act”), may apply to the Advisory Council, any functions of the President under the Act, except for those in section 6 of the Act [see [5 U.S.C. 1005](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1005&num=0&edition=prelim)], shall be performed by the Secretary of State in accordance with the guidelines issued by the Administrator of General Services.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Extension of Term of President’s Advisory Council on African Diaspora Engagement in the United States
+Term of President’s Advisory Council on African Diaspora Engagement in the United States extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
+
 #### Presidential Certification Authorizing Security Assistance to East Timor
 Determination of President of the United States, No. 2003–19, Mar. 28, 2003, 68 F.R. 16167, provided:
 
@@ -1011,7 +1344,7 @@ By this memorandum I am directing all agencies engaged abroad to ensure that U.S
 
 Section 1. Combating Criminalization of LGBTQI+ Status or Conduct Abroad. Agencies engaged abroad are directed to strengthen existing efforts to combat the criminalization by foreign governments of LGBTQI+ status or conduct and expand efforts to combat discrimination, homophobia, transphobia, and intolerance on the basis of LGBTQI+ status or conduct. The Department of State shall, on an annual basis and as part of the annual report submitted to the Congress pursuant to sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2151n(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151n/d&num=0&edition=prelim) and 2304(b)), report on human rights abuses experienced by LGBTQI+ persons globally. This reporting shall include anti-LGBTQI+ laws as well as discrimination and violence committed by both state and non-state actors against LGBTQI+ persons.
 
-Sec. 2. Protecting Vulnerable LGBTQI+ Refugees and Asylum Seekers. LGBTQI+ persons who seek refuge from violence and persecution face daunting challenges. In order to improve protection for LGBTQI+ refugees and asylum seekers at all stages of displacement, the Departments of State and Homeland Security shall enhance their ongoing efforts to ensure that LGBTQI+ refugees and asylum seekers have equal access to protection and assistance, particularly in countries of first asylum. In addition, the Departments of State, Justice, and Homeland Security shall ensure appropriate training is in place so that relevant federal government personnel and key partners can effectively identify and respond to the particular needs of LGBTQI+ refugees and asylum seekers, including by providing to them adequate assistance and ensuring that the Federal Government takes all appropriate steps, such as potential increased use of Embassy Priority-1 referrals, to identify and expedite resettlement of highly vulnerable persons with urgent protection needs.
+Sec. 2. Protecting Vulnerable LGBTQI+ Refugees and Asylum Seekers. LGBTQI+ persons who seek refuge from violence and persecution face daunting challenges. In order to improve protection for LGBTQI+ refugees and asylum seekers at all stages of displacement, the Departments of State and Homeland Security shall enhance their ongoing efforts to ensure that LGBTQI+ refugees and asylum seekers have equal access to protection and assistance, particularly in countries of first asylum. In addition, the Departments of State, Justice, and Homeland Security shall ensure appropriate training is in place so that relevant federal government personnel and key partners can effectively identify and respond to the particular needs of LGBTQI+ refugees and asylum seekers, including by providing to them adequate assistance and ensuring that the Federal Government takes all appropriate steps, such as potential increased use of Embassy Priority–1 referrals, to identify and expedite resettlement of highly vulnerable persons with urgent protection needs.
 
 Sec. 3. Foreign Assistance to Protect Human Rights and Advance Nondiscrimination. Agencies involved with foreign aid, assistance, and development programs shall enhance their ongoing efforts to ensure regular federal government engagement with governments, citizens, civil society, and the private sector in order to build respect for the human rights of LGBTQI+ persons and combat discrimination. Agencies involved with foreign aid, assistance, and development programs should consider the impact of programs funded by the federal government on human rights, including the rights of LGBTQI+ persons, when making funding decisions, as appropriate and consistent with applicable law.
 
@@ -1148,7 +1481,7 @@ Subsec. (d). Pub. L. 100–418, § 5171(c), added subsec. (d).
 
 (2) **Exclusion from consideration as compensation** — Stipends under paragraph (1) shall not be considered compensation for purposes of [section 209 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section209&num=0&edition=prelim).
 
-(3) **Maximum annual amount** — The total amount of grants made pursuant to this subsection may not exceed $500,000 in any fiscal year.
+(3) **Maximum annual amount** — The total amount of grants made pursuant to this subsection may not exceed $2,000,000 in any fiscal year.
 
 ### Statutory Notes
 
@@ -1158,6 +1491,8 @@ Public Law 96–517, referred to in subsec. (a)(3)(A), is Pub. L. 96–517, Dec.
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (a)(3)(A), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, which is classified generally to chapter 63 (§ 3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 3701 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section3701&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (e)(3). Pub. L. 117–263 substituted “$2,000,000” for “$500,000”.
+
 2021—Subsec. (e). Pub. L. 117–81 added subsec. (e).
 
 1988—Subsec. (a). Pub. L. 100–418 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “In order to implement the policy set forth in [section 2656b of this title](./chapter-038-department-of-state.md#section-2656b), the Secretary of State (hereafter in this section referred to as the ‘Secretary’) shall have primary responsibility for coordination and oversight with respect to all major science or science and technology agreements and activities between the United States and foreign countries, international organizations, or commissions of which the United States and one or more foreign countries are members.”
@@ -1859,6 +2194,9 @@ There shall not be employed in the Department of State or in connection with sai
 #### Codification
 Section was formerly classified to [section 155 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section155&num=0&edition=prelim) prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, § 1, Sept. 6, 1966, 80 Stat. 378.
 
+#### Personal Services Contractors
+Pub. L. 118–31, div. F, title LXIV, § 6401, Dec. 22, 2023, 137 Stat. 994, provided that: “(a) Sense of Congress.—It is the sense of Congress that the Department [of State] should seek to ensure it has sufficient full-time equivalent positions allotted to carry out its current mission, working with the Office of Personnel Management and appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] to that end, and that the use of personal services contractors should not be relied upon to perform core Department functions indefinitely. “(b) Exigent Circumstances and Crisis Response.—To assist the Department in addressing and responding to exigent circumstances and urgent crises abroad, the Department is authorized to employ, domestically and abroad, a limited number of personal services contractors in order to meet exigent needs, subject to the requirements of this section. “(c) Authority.—The authority to employ personal services contractors is in addition to any existing authorities to enter into personal services contracts and authority provided in the Afghanistan Supplemental Appropriations Act, 2022 (division C of Public Law 117–43 [135 Stat. 372]). “(d) Employing and Allocation of Personnel.—To meet the needs described in subsection (b) and subject to the requirements in subsection (e), the Department may—“(1) enter into contracts to employ a total of up to 100 personal services contractors at any given time for each of fiscal years 2024, 2025, and 2026; and “(2) allocate up to 20 personal services contractors to a given bureau. “(e) Limitation.—Employment authorized by this section shall not exceed two calendar years. “(f) Notification and Reporting to Congress.—“(1) Notification.—Not later than 15 days after the use of authority under this section, the Secretary [of State] shall notify the appropriate congressional committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives of the number of personal services contractors being employed, the expected length of employment, the relevant bureau, the purpose for using personal services contractors, an indication of how many personal services contractors were previously employees of the Department, and the justification, including the exigent circumstances requiring such use. “(2) Annual reporting.—Not later than December 1, 2024, and annually thereafter for two years, the Department shall submit to the appropriate congressional committees, the Committee on Appropriations of the Senate, and the Committee on Appropriations of the House of Representatives a report describing the number of personal services contractors employed pursuant to this section for the prior fiscal year, the length of employment, the relevant bureau by which they were employed pursuant to this section, the purpose for using personal services contractors, disaggregated demographic data of such contractors, an indication of how many personal services contractors were previously employees of the Department, and the justification for the employment, including the exigent circumstances.”
+
 
 <a id="section-2665a"></a>
 ## § 2665a. Foreign Service fellowships
@@ -2125,9 +2463,11 @@ The Secretary of State is authorized to—
 
 **(k)** subject to the availability of appropriated funds, obtain insurance on the historic and artistic articles of furniture, fixtures, and decorative objects which may from time-to-time be within the responsibility of the Fine Arts Committee of the Department of State for the Diplomatic Rooms of the Department;
 
-**(l)** make payments in advance, of the United States share of necessary expenses for international fisheries commissions, from appropriations available for such purpose; and
+**(l)** make payments in advance, of the United States share of necessary expenses for international fisheries commissions, from appropriations available for such purpose;
 
-**(m)** establish, maintain, and operate passport and dispatch agencies.
+**(m)** establish, maintain, and operate passport and dispatch agencies; and
+
+**(n)** pay expenses to provide internet services in residences owned or leased by the United States Government in foreign countries for the use of Department personnel where Department personnel receive a post hardship differential equivalent to 30 percent or more above basic compensation.
 
 ### Statutory Notes
 
@@ -2137,6 +2477,8 @@ Section was formerly classified to [section 170h of Title 5](https://uscode.hous
 Subsec. (e) of this section, relating to the payment of the actual expenses of preparing and transporting to their former homes the remains of persons, not United States Government employees, who die away from their homes while participating in international educational exchange activities under the jurisdiction of the Department of State, was omitted pursuant to Reorg. Plan No. 2 of 1977, § 9(a)(7), 42 F.R. 62461, 91 Stat. 1639, set out under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461), effective on or before July 1, 1978, at such time as specified by the President, which abolished the functions of the Secretary of State under subsec. (e).
 
 #### Amendments
+2023—Subsec. (n). Pub. L. 118–31 added subsec. (n).
+
 1994—Subsec. (m). Pub. L. 103–236 added subsec. (m).
 
 1991—Subsec. (l). Pub. L. 102–138 added subsec. (l).
@@ -2643,7 +2985,7 @@ A prior section 2680a, acts Aug. 1, 1956, ch. 841, § 16, as added Oct. 26, 1974
 
 (3) **Rule of construction** — Nothing in this section shall limit, modify, or otherwise supersede chapter 81 of title 5, the Defense Base Act ([42 U.S.C. 1651](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1651&num=0&edition=prelim) et seq.), or [section 3519b of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section3519b&num=0&edition=prelim). Monetary benefits and treatment expenses paid under this section shall not be considered payments under any workers’ compensation law.
 
-**(i) Other Injuries**
+**(i) Other injuries**
 
 (1) **Definitions** — In this subsection:
 
@@ -2673,13 +3015,17 @@ A prior section 2680a, acts Aug. 1, 1956, ch. 841, § 16, as added Oct. 26, 1974
 
 (5) **No effect on other benefits** — Payments made under paragraph (2) are supplemental to any other benefit furnished by the United States Government for which a covered dependent, dependent of a former employee, covered employee, former employee, or covered individual is entitled, and the receipt of such payments may not affect the eligibility of such a person to any other benefit furnished by the United States Government.
 
+**(j) Expansion of authorities** The head of any Federal agency may exercise the authorities of this section, including to designate an incident, whether the incident occurred in the United States or abroad, for purposes of subparagraphs (A)(ii) and (B)(ii) of subsection (e)(4) when the incident affects United States Government employees of the agency or their dependents who are not under the security responsibility of the Secretary of State as set forth in [section 4802 of this title](./chapter-058-diplomatic-security.md#section-4802) or when operational control of overseas security responsibility for such employees or dependents has been delegated to the head of the agency.
+
 ### Statutory Notes
 
 #### References in Text
-The Defense Base Act, referred to in subsec. (h)(2), is act Aug. 16, 1941, ch. 357, 55 Stat. 622, which is classified generally to chapter 11 (§ 1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1651&num=0&edition=prelim) and Tables.
+The Defense Base Act, referred to in subsec. (h)(3), is act Aug. 16, 1941, ch. 357, 55 Stat. 622, which is classified generally to chapter 11 (§ 1651 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1651&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2022—Subsec. (i)(5). Pub. L. 117–103 added par. (5).
+
+Subsec. (j). Pub. L. 117–263 added subsec. (j).
 
 2021—Subsec. (a)(1). Pub. L. 116–283, § 1110(1), inserted “or the head of any other Federal agency” after “The Secretary of State” in introductory provisions.
 
@@ -2828,6 +3174,64 @@ Subsec. (c). Pub. L. 105–277, § 2209(2), substituted “shall” for “are a
 Subsec. (d). Pub. L. 105–277, § 2209(3), substituted “for purposes of subsection (a)” for “for expenditure to procure capital equipment and information technology”.
 
 Subsec. (e). Pub. L. 105–277, § 2209(4), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Funds credited to the Capital Investment Fund shall be treated as a reprogramming of funds under [section 2706 of this title](./chapter-038-department-of-state.md#section-2706) and shall not be available for obligation or expenditure except in compliance with the procedures applicable to such reprogrammings.”
+
+
+<a id="section-2684b"></a>
+## § 2684b. Strengthening the Chief Information Officer of the Department of State
+**(a) In general** The Chief Information Officer of the Department shall be consulted on all decisions to approve or disapprove, significant new unclassified information technology expenditures, including software, of the Department, including expenditures related to information technology acquired, managed, and maintained by other bureaus and offices within the Department, in order to—
+
+(1) encourage the use of enterprise software and information technology solutions where such solutions exist or can be developed in a timeframe and manner consistent with maintaining and enhancing the continuity and improvement of Department operations;
+
+(2) increase the bargaining power of the Department in acquiring information technology solutions across the Department;
+
+(3) reduce the number of redundant Authorities to Operate (ATO), which, instead of using one ATO-approved platform across bureaus, requires multiple ATOs for software use cases across different bureaus;
+
+(4) enhance the efficiency, reduce redundancy, and increase interoperability of the use of information technology across the enterprise of the Department;
+
+(5) enhance training and alignment of information technology personnel with the skills required to maintain systems across the Department;
+
+(6) reduce costs related to the maintenance of, or effectuate the retirement of, legacy systems;
+
+(7) ensure the development and maintenance of security protocols regarding the use of information technology solutions and software across the Department; and
+
+(8) improve end-user training on the operation of information technology solutions and to enhance end-user cybersecurity practices.
+
+**(b) Strategy and implementation plan required**
+
+(1) **In general** — Not later than 180 days after December 22, 2023, the Chief Information Officer of the Department shall develop, in consultation with relevant bureaus and offices as appropriate, a strategy and a 5-year implementation plan to advance the objectives described in subsection (a).
+
+(2) **Consultation** — No later than one year after December 22, 2023, the Chief Information Officer shall submit the strategy required by this subsection to the appropriate congressional committees and shall consult with the appropriate congressional committees, not less than on an annual basis for 5 years, regarding the progress related to the implementation plan required by this subsection.
+
+**(c) Improvement plan for the Bureau for Information Resources Management 11 So in original. Probably should be “Bureau of Information Resource Management”.**
+
+(1) **In general** — Not later than 180 days after December 22, 2023, the Chief Information Officer shall develop policies and protocols to improve the customer service orientation, quality and timely delivery of information technology solutions, and training and support for bureau and office-level information technology officers.
+
+(2) **Survey** — Not later than one year after December 22, 2023, and annually thereafter for five years, the Chief Information Officer shall undertake a client satisfaction survey of bureau information technology officers to obtain feedback on metrics related to—
+
+  (A) customer service orientation of the Bureau of Information Resources Management; 1
+
+  (B) quality and timelines of capabilities delivered;
+
+  (C) maintenance and upkeep of information technology solutions;
+
+  (D) training and support for senior bureau and office-level information technology officers; and
+
+  (E) other matters which the Chief Information Officer, in consultation with client bureaus and offices, determines appropriate.
+
+(3) **Submission of findings** — Not later than 60 days after completing each survey required under paragraph (2), the Chief Information Officer shall submit a summary of the findings to the appropriate congressional committees, the Committee on Homeland Security and Governmental Affairs of the Senate, and the Committee on Oversight and Accountability of the House of Representatives.
+
+**(d) Significant expenditure defined** For purposes of this section, the term “significant expenditure” means any cumulative expenditure in excess of $250,000 total in a single fiscal year for a new unclassified software or information technology capability.
+
+**(e) Rule of construction** Nothing in this section may be construed—
+
+(1) to alter the authorities of the United States Office of Management and Budget, Office of the National Cyber Director, the Department of Homeland Security, or the Cybersecurity and Infrastructure Security Agency with respect to Federal information systems; or
+
+(2) to alter the responsibilities and authorities of the Chief Information Officer of the Department as described in titles 40 or 44 or any other law defining or assigning responsibilities or authorities to Federal Chief Information Officers.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Department” and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-2685"></a>
@@ -2984,7 +3388,7 @@ Pub. L. 105–277, § 1225(f), substituted “and the Agency for International D
 1991—Pub. L. 102–138 inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 1225(f) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. L. 105–277, set out as an Effective Date note under [section 6511 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6511).
@@ -3113,7 +3517,7 @@ Pub. L. 105–277, § 1335(l)(2), substituted “Broadcasting Board of Governors
 1987—Subsec. (b). Pub. L. 100–204 inserted “, but shall not be expended for representational purposes at United States missions except in accordance with the conditions that apply to appropriated funds” before period at end of last sentence.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsec. (f), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under [section 1461 of this title](./chapter-018-united-states-information-and-educational-exchange-programs.md#section-1461).
 
@@ -3149,7 +3553,7 @@ Pub. L. 105–277, § 1335(l)(3), substituted “Broadcasting Board of Governors
 1990—Subsec. (b). Pub. L. 101–246 substituted “United States Information Agency, the chairman of the Board for International Broadcasting,” for “International Communication Agency”.
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 1335(l)(3) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -3204,6 +3608,26 @@ The Foreign Service Buildings Act, 1926, referred to in text, is act May 7, 1926
 
 #### Effective Date
 Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as a note under [section 3901 of this title](./chapter-052-foreign-service.md#section-3901).
+
+
+<a id="section-2701a"></a>
+## § 2701a. Education allowance for dependents of Department of State employees located in United States territories
+**(a) In general** An individual employed by the Department at a location described in subsection (b) shall be eligible for a cost-of-living allowance for the education of the dependents of such employee in an amount that does not exceed the educational allowance authorized by the Secretary of Defense for such location.
+
+**(b) Location described** A location is described in this subsection if—
+
+(1) such location is in a territory of the United States; and
+
+(2) the Secretary of Defense has determined that schools available in such location are unable to adequately provide for the education of—
+
+  (A) dependents of members of the Armed Forces; or
+
+  (B) dependents of employees of the Department of Defense.
+
+### Statutory Notes
+
+#### Definition
+For definition of “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-2702"></a>
@@ -3274,6 +3698,18 @@ Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 
 Pub. L. 109–234, title I, § 1602(e), June 15, 2006, 120 Stat. 442, provided that: “The Secretary of State may provide during any fiscal year, with or without reimbursement, accommodation and subsistence to personnel in Iraq and Afghanistan for whom the Chief of Mission is responsible.”
 
 
+<a id="section-2703a"></a>
+## § 2703a. Emergency back-up care
+**(a) In general** The Secretary and the Administrator for the United States Agency for International Development are authorized to provide for unanticipated non-medical care, including dependent child and eldercare, and essential services directly related to caring for an acute injury or illness, for USAID and Department employees and their family members, including through the provision of such non-medical services, referrals to care providers, and reimbursement of reasonable expenses for such services.
+
+**(b) Limitation** Services provided pursuant to this section shall not exceed $2,000,000 per fiscal year.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Secretary” and “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-2704"></a>
 ## § 2704. Subsistence expenses
 
@@ -3293,7 +3729,7 @@ Pub. L. 105–277, § 1335(l)(4), substituted “the Broadcasting Board of Gover
 1984—Pub. L. 98–533 inserted “The authorities available to the Secretary of State under this section with respect to the Department of State shall be available to the Director of the United States Information Agency and the Director of the United States International Development Cooperation Agency with respect to their respective agencies, except that the authority of clause (2) shall be available with respect to those agencies only in the case of members of the Foreign Service and employees of the agency who are performing security-related functions abroad.”
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Effective Date of 1998 Amendment
 Amendment by section 1335(l)(4) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under [section 6531 of this title](./chapter-074-foreign-affairs-agencies-consolidation.md#section-6531).
@@ -3370,12 +3806,15 @@ Committee on International Relations of House of Representatives changed to Comm
 <a id="section-2706a"></a>
 ## § 2706a. Rewards payments
 
-The Secretary may transfer to and merge with “Emergencies in the Diplomatic and Consular Service” for rewards payments unobligated balances of funds appropriated under “Diplomatic and Consular Programs” for this fiscal year and for each fiscal year on and after December 26, 2007, at no later than the end of the fifth fiscal year after the fiscal year for which any such funds were appropriated or otherwise made available.
+The Secretary may transfer to and merge with “Emergencies in the Diplomatic and Consular Service” for rewards payments and for expenses of rewards programs unobligated balances of funds appropriated under “Diplomatic and Consular Programs” for this fiscal year and for each fiscal year on and after December 26, 2007, at no later than the end of the fifth fiscal year after the fiscal year for which any such funds were appropriated or otherwise made available.
 
 ### Statutory Notes
 
 #### References in Text
 Secretary, referred to in text, means the Secretary of State.
+
+#### Amendments
+2022—Pub. L. 117–328 inserted “and for expenses of rewards programs” after “for rewards payments”.
 
 #### References to Diplomatic and Consular Programs Account
 References to the Diplomatic and Consular Programs account to be construed to include the Diplomatic Programs account in fiscal year 2020 and each fiscal year thereafter, see par. (7) of title I of div. G of Pub. L. 116–94, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
@@ -3460,7 +3899,7 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
   (C) an attempt or conspiracy to commit any act described in subparagraph (A) or (B);
 
-(4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), (9), or (10);
+(4) the arrest or conviction in any country of any individual aiding or abetting in the commission of an act described in paragraph (1), (2), (3), (8), (9), (10), or (14);
 
 (5) the prevention, frustration, or favorable resolution of an act described in paragraph (1), (2), (3), (8), (9), (10), or (13), including by dismantling an organization in whole or significant part;
 
@@ -3476,13 +3915,19 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (9) the arrest or conviction in any country of any individual conspiring to participate in or attempting to participate in transnational organized crime;
 
-(10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under the statute of such tribunal;
+(10) the arrest or conviction in any country, or the transfer to or conviction by an international criminal tribunal (including a hybrid or mixed tribunal), of any foreign national accused of war crimes, crimes against humanity, or genocide (including war crimes, crimes against humanity, or genocide committed in Syria beginning in March 2011), as defined under—
+
+  (A) the statute of such country or tribunal, as the case may be; or
+
+  (B) United States law;
 
 (11) the identification or location of any person who, while acting at the direction of or under the control of a foreign government, aids or abets a violation of [section 1030 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section1030&num=0&edition=prelim);
 
-(12) the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title; or
+(12) the disruption of financial mechanisms of any person who has engaged in the conduct described in section 2914(a) or 2914(b)(1) of this title;
 
-(13) the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference.
+(13) the identification or location of a foreign person that knowingly engaged or is engaging in foreign election interference; or
+
+(14) the prevention, frustration, or resolution of the hostage taking of a United States person, the identification, location, arrest, or conviction of a person responsible for the hostage taking of a United States person, or the location of a United States person who has been taken hostage, in any country.
 
 **(c) Coordination**
 
@@ -3519,7 +3964,7 @@ Pub. L. 100–204, title I, § 173(c), Dec. 22, 1987, 101 Stat. 1360, provided t
 
 (5) **Protection measures** — If the Secretary determines that the identity of the recipient of a reward or of the members of the recipient’s immediate family must be protected, the Secretary may take such measures in connection with the payment of the reward as he considers necessary to effect such protection.
 
-(6) **Forms of reward payment** — The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof.
+(6) **Forms of reward payment** — The Secretary may make a reward under this section in the form of money, a nonmonetary item (including such items as automotive vehicles), or a combination thereof. Not later than 15 days before making a reward in a form that includes cryptocurrency, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such form for the reward.
 
 **(f) Ineligibility** An officer or employee of any entity of Federal, State, or local government or of a foreign government who, while in the performance of his or her official duties, furnishes information described in subsection (b) shall not be eligible for a reward under this section.
 
@@ -3614,6 +4059,14 @@ Section 102 of the Foreign Relations Authorization Act, Fiscal Years 1986 and 19
 A prior section 36 of act Aug. 1, 1956, was renumbered section 37 by section 102 of Pub. L. 98–533, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651), prior to repeal by Pub. L. 102–138, title I, § 111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–263, § 9104(1), substituted “(10), or (14);” for “or (10);”.
+
+Subsec. (b)(10). Pub. L. 117–273 substituted “defined under—” for “defined under the statute of such tribunal;” and added subpars. (A) and (B).
+
+Subsec. (b)(14). Pub. L. 117–263, § 9104(2)–(4), added par. (14).
+
+Subsec. (e)(6). Pub. L. 117–263, § 5585(a), inserted at end “Not later than 15 days before making a reward in a form that includes cryptocurrency, the Secretary of State shall notify the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate of such form for the reward.”
+
 2021—Subsec. (a)(2). Pub. L. 116–283, § 1238(1), inserted “foreign election interference,” before “transnational organized crime”.
 
 Subsec. (b)(5). Pub. L. 116–283, § 1238(2)(A), substituted “(10), or (13)” for “or (10)”.
@@ -4000,6 +4453,9 @@ A prior section 41 of act Aug. 1, 1956, was renumbered section 42 by section 126
 #### Amendments
 2000—Pub. L. 106–218 substituted “Harry S Truman Federal Building” for “Department of State Building” in section catchline and in subsec. (c).
 
+#### Diplomatic Reception Areas
+Pub. L. 117–263, div. I, title XCVII, § 9713, Dec. 23, 2022, 136 Stat. 3920, provided that: “(a) Defined Term.—In this section, the term ‘reception areas’ has the meaning given such term in section 41(c) of the State Department Basic Authorities Act of 1956 ([22 U.S.C. 2713(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2713/c&num=0&edition=prelim)). “(b) In General.—The Secretary [of State] may sell goods and services at fair market value and use the proceeds of such sales for administration and related support of the reception areas. “(c) Amounts Collected.—Amounts collected pursuant to the authority provided under subsection (b) may be deposited into an account in the Treasury, to remain available until expended.”
+
 #### Designation of Department of State Building as Harry S Truman Federal Building
 Pub. L. 106–218, June 20, 2000, 114 Stat. 345, provided that: “SECTION 1. DESIGNATION.“The Federal building located at 2201 C Street, Northwest, in the District of Columbia, currently headquarters for the Department of State, shall be known and designated as the ‘Harry S Truman Federal Building’. “SEC. 2. REFERENCES.“Any reference in a law, map, regulation, document, paper, or other record of the United States to the Federal building referred to in section 1 shall be deemed to be a reference to the ‘Harry S Truman Federal Building’.”
 
@@ -4326,13 +4782,289 @@ A prior section 46 of act Aug. 1, 1956, was renumbered section 47 by section 119
 
 <a id="section-2719"></a>
 ## § 2719. Grants for training and education in international affairs
+**(a) In general** The Secretary of State may make grants to postsecondary educational institutions or students for the purpose of increasing the level of knowledge and awareness of and interest in employment with the Foreign Service or the Civil Service, consistent with [section 3905 of this title](./chapter-052-foreign-service.md#section-3905). To the extent possible, the Secretary shall give special emphasis to promoting such knowledge and awareness of, and interest in employment with, the Foreign Service or the Civil Service among minority students. Any grants awarded shall be made pursuant to regulations to be established by the Secretary of State, which shall provide for a limit on the size of any specific grant and, regarding any grants to individuals, shall ensure that no grant recipient receives an amount of grants from one or more Federal programs which in the aggregate would exceed the cost of his or her education, and shall require satisfactory educational progress by grantees as a condition of eligibility for continued receipt of grant funds.
 
-The Secretary of State may make grants to postsecondary educational institutions or students for the purpose of increasing the level of knowledge and awareness of and interest in employment with the Foreign Service, consistent with [section 3905 of this title](./chapter-052-foreign-service.md#section-3905). To the extent possible, the Secretary shall give special emphasis to promoting such knowledge and awareness of, and interest in employment with, the Foreign Service among minority students. Any grants awarded shall be made pursuant to regulations to be established by the Secretary of State, which shall provide for a limit on the size of any specific grant and, regarding any grants to individuals, shall ensure that no grant recipient receives an amount of grants from one or more Federal programs which in the aggregate would exceed the cost of his or her education, and shall require satisfactory educational progress by grantees as a condition of eligibility for continued receipt of grant funds.
+**(b) Diplomatic Security fellowship programs**
+
+(1) **Establishment** — The Secretary of State, working through the Assistant Secretary for Diplomatic Security, is authorized to establish Diplomatic Security fellowship programs to provide grants to United States nationals pursuing post-secondary studies who commit to pursuing a career as a special agent, security engineering officer, or in the civil service in the Bureau of Diplomatic Security.
+
+(2) **Rulemaking** — The Secretary is authorized to promulgate regulations for the administration of Diplomatic Security fellowship programs that set forth—
+
+  (A) the eligibility requirements for receiving a grant under this subsection;
+
+  (B) the process by which eligible applicants may request such a grant;
+
+  (C) the maximum amount of such a grant; and
+
+  (D) the educational progress to which all grant recipients are obligated.
 
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 47 of act Aug. 1, 1956, was renumbered section 48 by section 150(1) of Pub. L. 101–246, and set out as a Short Title of 1956 Amendment note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651), prior to repeal by Pub. L. 102–138, title I, § 111(1), Oct. 28, 1991, 105 Stat. 654.
+
+#### Amendments
+2023—Pub. L. 118–31 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
+2022—Pub. L. 117–263 inserted “or the Civil Service” after “with the Foreign Service” in first sentence and “or the Civil Service” after “Foreign Service” in second sentence. Technical amendment to reference in original act which appears in text as reference to [section 3905 of this title](./chapter-052-foreign-service.md#section-3905) could not be executed.
+
+#### Nancy Pelosi Fellowship Program
+Pub. L. 117–328, div. K, title I, par. (6)(H), Dec. 29, 2022, 136 Stat. 4975, provided that: “Of the funds appropriated under this heading [“diplomatic programs” under “Department of State” and “Administration of Foreign Affairs”], not less than $2,000,000 shall be made available for a grant to a postsecondary educational institution for the purpose of establishing a program to increase the participation of undergraduate students in the Foreign Service, as authorized by section 150 of the Foreign Relations Authorization Act, Fiscal Years 1990 and 1991 ([22 U.S.C. 2719](./chapter-038-department-of-state.md#section-2719)): Provided, That such grant program shall hereafter be named the ‘Nancy Pelosi Fellowship Program’.”
+
+
+<a id="section-2719a"></a>
+## § 2719a. Foreign affairs training
+**(a) Sense of Congress** It is the sense of Congress that—
+
+(1) Congress has recognized, including in division E of the National Defense Authorization Act for Fiscal Year 2022 (Public Law 117–81), that the Department is a crucial national security agency, whose employees, both Foreign Service and Civil Service, require the best possible training and professional development at every stage of their careers to prepare them to promote and defend United States national interests and the health and safety of United States citizens abroad; and
+
+(2) the new and evolving challenges of national security in the 21st century necessitate the expansion of standardized training and professional development opportunities linked to equal, accountable, and transparent promotion and leadership practices for Department and other national security agency personnel.
+
+**(b) Defined term** In this section, the term “appropriate committees of Congress” means—
+
+(1) the Committee on Foreign Relations of the Senate;
+
+(2) the Committee on Appropriations of the Senate;
+
+(3) the Committee on Foreign Affairs of the House of Representatives; and
+
+(4) the Committee on Appropriations of the House of Representatives.
+
+**(c) Omitted**
+
+**(d) Fellowships** The Director General of the Foreign Service shall—
+
+(1) expand and establish new fellowship programs for Foreign Service and Civil Service officers that include short- and long-term opportunities at organizations, including—
+
+  (A) think tanks and nongovernmental organizations;
+
+  (B) the Department of Defense and other relevant Federal agencies;
+
+  (C) industry entities, especially such entities related to technology, global operations, finance, and other fields directly relevant to international affairs; and
+
+  (D) schools of international relations and other relevant programs at universities throughout the United States; and
+
+(2) not later than 180 days after December 23, 2022, submit a report to Congress that describes how the Department could expand the Pearson Fellows Program for Foreign Service Officers and the Brookings Fellow Program for Civil Servants to provide fellows in such programs with the opportunity to undertake a follow-on assignment within the Department in an office in which fellows will gain practical knowledge of the people and processes of Congress, including offices other than the Legislative Affairs Bureau, including—
+
+  (A) an assessment of the current state of congressional fellowships, including the demand for fellowships, support for applicants to pursue and perform such fellowships, and the value the fellowships provide to both the career of the officer and to the Department; and
+
+  (B) an assessment of the options for making congressional fellowships for both the Foreign Service and the Civil Service more career-enhancing.
+
+**(e) Board of Visitors of the Foreign Service Institute**
+
+(1) **Establishment** — The Secretary is authorized to establish a Board of Visitors of the Foreign Service Institute (referred to in this subsection as the “Board”). It is the sense of Congress that the Board should be established not later than 1 year after December 23, 2022.
+
+(2) **Duties** — The Board authorized by this subsection shall be comprised of 12 members, who shall be appointed by the Secretary and shall provide the Secretary with independent advice and recommendations regarding organizational management, strategic planning, resource management, curriculum development, and other matters of interest to the Foreign Service Institute, including regular observations about how well the Department is integrating training and professional development into the work of the Bureau for Global Talent Management.
+
+(3) **Membership**
+
+  (A) *Qualifications* — Members of the Board shall be appointed from among individuals who—
+
+    (i) are not officers or employees of the Federal Government; and
+
+    (ii) are eminent authorities in the fields of diplomacy, national security, management, leadership, economics, trade, technology, or advanced international relations education.
+
+  (B) *Outside expertise*
+
+    (i) *In general* — Not fewer than 6 members of the Board shall have a minimum of 10 years of relevant expertise outside the field of diplomacy.
+
+    (ii) *Prior senior service at the Department* — Not more than 6 members of the Board may be persons who previously served in the Senior Foreign Service or the Senior Executive Service at the Department.
+
+(4) **Terms** — Each member of the Board shall be appointed for a term of 3 years, except that of the members first appointed—
+
+  (A) 4 members shall be appointed for a term of 3 years;
+
+  (B) 4 members shall be appointed for a term of 2 years; and
+
+  (C) 4 members shall be appointed for a term of 1 year.
+
+(5) **Chairperson; Vice Chairperson**
+
+  (A) *Approval* — The Chairperson and Vice Chairperson of the Board shall be approved by the Secretary of State based upon a recommendation from the members of the Board.
+
+  (B) *Service* — The Chairperson and Vice Chairperson shall serve at the discretion of the Secretary.
+
+(6) **Meetings** — The Board shall meet—
+
+  (A) at the call of the Director of the Foreign Service Institute and the Chairperson; and
+
+  (B) not fewer than 2 times per year.
+
+(7) **Compensation** — Each member of the Board shall serve without compensation, except that a member of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, while away from their homes or regular places of business in the performance of service for the Board. Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Secretary may accept the voluntary and uncompensated service of members of the Board.
+
+(8) **Applicability of Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall apply to the Board established under this subsection.
+
+**(f) Establishment of Provost of the Foreign Service Institute**
+
+(1) **Establishment** — There is established in the Foreign Service Institute the position of Provost.
+
+(2) **Appointment; reporting** — The Provost shall—
+
+  (A) be appointed by the Secretary; and
+
+  (B) report to the Director of the Foreign Service Institute.
+
+(3) **Qualifications** — The Provost, who should be a member of the Senior Executive Service, shall have—
+
+  (A) experience in the field of diplomacy, national security, education, management, leadership, economics, history, trade, adult education, or technology; and
+
+  (B) significant experience outside the Department, whether in other national security agencies or in the private sector, and preferably in positions of authority in educational institutions or the field of professional development and mid-career training with oversight for the evaluation of academic programs.
+
+(4) **Duties** — The Provost shall—
+
+  (A) oversee, review, evaluate, and coordinate the academic curriculum for all courses taught and administered by the Foreign Service Institute; and
+
+  (B) coordinate the development of an evaluation system to ascertain the utility of the information and skills imparted by each such course, such that, to the extent practicable, performance assessments can be included in the personnel records maintained by the Bureau of Global Talent Management and utilized in Foreign Service Selection Boards.
+
+(5) **Compensation** — The Provost shall receive a salary commensurate with the rank and experience of a member of the Senior Executive Service, as determined by the Secretary.
+
+**(g) Other Agency responsibilities and opportunities for congressional staff**
+
+(1) **Other agencies** — National security agencies other than the Department should be afforded the ability to increase the enrollment of their personnel in courses at the Foreign Service Institute and other training and professional development facilities of the Department to promote a whole-of-government approach to mitigating national security challenges.
+
+(2) **Congressional staff** — Not later than 180 days after December 23, 2022, the Secretary shall submit a report to the appropriate committees of Congress that describes—
+
+  (A) the training and professional development opportunities at the Foreign Service Institute and other Department facilities available to congressional staff;
+
+  (B) the budget impacts of offering such opportunities to congressional staff; and
+
+  (C) potential course offerings.
+
+**(h) Strategy for adapting training requirements for modern diplomatic needs**
+
+(1) **In general** — Not later than 1 year after December 23, 2022, the Secretary shall develop and submit to the appropriate committees of Congress a strategy for adapting and evolving training requirements to better meet the Department’s current and future needs for 21st century diplomacy.
+
+(2) **Elements** — The strategy required under paragraph (1) shall include the following elements:
+
+  (A) Integrating training requirements into the Department’s promotion policies, including establishing educational and professional development standards for training and attainment to be used as a part of tenure and promotion guidelines.
+
+  (B) Addressing multiple existing and emerging national security challenges, including—
+
+    (i) democratic backsliding and authoritarianism;
+
+    (ii) countering, and assisting United States allies to address, state-sponsored disinformation, including through the Global Engagement Center;
+
+    (iii) cyber threats;
+
+    (iv) the aggression and malign influence of Russia, Cuba, Iran, North Korea, the Maduro Regime, and the Chinese Communist Party’s multi-faceted and comprehensive challenge to the rules-based order;
+
+    (v) the implications of climate change for United States diplomacy; and
+
+    (vi) nuclear threats.
+
+  (C) An examination of the likely advantages and disadvantages of establishing residential training for the A–100 orientation course administered by the Foreign Service Institute and evaluating the feasibility of residential training for other long-term training opportunities.
+
+  (D) An examination of the likely advantages and disadvantages of establishing a press freedom curriculum for the National Foreign Affairs Training Center that enables Foreign Service officers to better understand issues of press freedom and the tools that are available to help protect journalists and promote freedom of the press norms, which may include—
+
+    (i) the historic and current issues facing press freedom, including countries of specific concern;
+
+    (ii) the Department’s role in promoting press freedom as an American value, a human rights issue, and a national security imperative;
+
+    (iii) ways to incorporate press freedom promotion into other aspects of diplomacy; and
+
+    (iv) existing tools to assist journalists in distress and methods for engaging foreign governments and institutions on behalf of individuals engaged in journalistic activity who are at risk of harm.
+
+  (E) The expansion of external courses offered by the Foreign Service Institute at academic institutions or professional associations on specific topics, including in-person and virtual courses on monitoring and evaluation, audience analysis, and the use of emerging technologies in diplomacy.
+
+(3) **Utilization of existing resources** — In examining the advantages and disadvantages of establishing a residential training program pursuant to paragraph (2)(C), the Secretary shall—
+
+  (A) collaborate with other national security departments and agencies that employ residential training for their orientation courses; and
+
+  (B) consider using the Department’s Foreign Affairs Security Training Center in Blackstone, Virginia.
+
+**(i) Report and briefing requirements**
+
+(1) **Report** — Not later than 1 year after December 23, 2022, the Secretary shall submit a report to the appropriate committees of Congress that includes—
+
+  (A) a strategy for broadening and deepening professional development and training at the Department, including assessing current and future needs for 21st century diplomacy;
+
+  (B) the process used and resources needed to implement the strategy referred to in subparagraph (A) throughout the Department; and
+
+  (C) the results and impact of the strategy on the workforce of the Department, particularly the relationship between professional development and training and promotions for Department personnel, and the measurement and evaluation methods used to evaluate such results.
+
+(2) **Briefing** — Not later than 1 year after the date on which the Secretary submits the report required under paragraph (1), and annually thereafter for 2 years, the Secretary shall provide to the appropriate committees of Congress a briefing on the information required to be included in the report.
+
+**(j) Foreign language maintenance incentive program**
+
+(1) **Authorization** — The Secretary is authorized to establish and implement an incentive program, with a similar structure as the Foreign Language Proficiency Bonus offered by the Department of Defense, to encourage members of the Foreign Service who possess language proficiency in any of the languages that qualify for additional incentive pay, as determined by the Secretary, to maintain critical foreign language skills.
+
+(2) **Report** — Not later than 90 days after December 23, 2022, the Secretary shall submit a report to the appropriate committees of Congress that includes a detailed plan for implementing the program authorized under paragraph (1), including anticipated resource requirements to carry out such program.
+
+### Statutory Notes
+
+#### References in Text
+Division E of the National Defense Authorization Act for Fiscal Year 2022, referred to in subsec. (a)(1), is div. E of Pub. L. 117–81, Dec. 27, 2021, 135 Stat. 2341, which is known as the Department of State Authorization Act of 2021. For complete classification of div. E to the Code, see Tables.
+
+The Federal Advisory Committee Act, referred to in subsec. (e)(8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
+
+#### Codification
+Section is comprised of section 9205 of Pub. L. 117–263. Subsec. (c) of section 9205 of Pub. L. 117–263 amended [section 2719b of this title](./chapter-038-department-of-state.md#section-2719b).
+
+#### Definitions
+For definitions of “Department” and “Secretary” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-2719b"></a>
+## § 2719b. Training and professional development prioritization
+
+In order to provide the Civil Service and the Foreign Service with the level of professional development and training needed to effectively advance United States interests across the world, the Secretary of State shall—
+
+(1) increase relevant offerings provided by the Department of State—
+
+  (A) of interactive virtual instruction to make training and professional development more accessible and useful to personnel deployed throughout the world; or
+
+  (B) at partner organizations, including universities, industry entities, and nongovernmental organizations, throughout the United States to provide useful outside perspectives to Department of State personnel by providing such personnel—
+
+    (i) a more comprehensive outlook on different sectors of United States society;
+
+    (ii) practical experience dealing with commercial corporations, universities, labor unions, and other institutions critical to United States diplomatic success; and
+
+    (iii) courses specifically focused on commercial diplomacy that increase the understanding of private sector needs that arise as United States companies enter and compete in the international market;
+
+(2) provide the opportunity to participate in courses using computer-based or computer-assisted simulations, allowing civilian officers to lead decision making in a crisis environment, and encourage officers of the Department of State, and reciprocally, officers of other Federal departments to participate in similar exercises held by the Department of State or other government organizations and the private sector;
+
+(3) increase the duration and expand the focus of certain training and professional development courses, including by extending—
+
+  (A) the A–100 entry-level course to as long as 12 weeks, which better matches the length of entry-level training and professional development provided to the officers in other national security departments and agencies; and
+
+  (B) the Chief of Mission course to as long as 6 weeks for first time Chiefs of Mission and creating comparable courses for new Assistant Secretaries and Deputy Assistant Secretaries to more accurately reflect the significant responsibilities accompanying such roles; and
+
+(4) ensure that Foreign Service officers who are assigned to a country experiencing significant population displacement due to the impacts of climatic and non-climatic shocks and stresses, including rising sea levels and lack of access to affordable and reliable energy and electricity, receive specific instruction on United States policy with respect to resiliency and adaptation to such climatic and non-climatic shocks and stresses.
+
+### Statutory Notes
+
+#### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to prioritization of foreign affairs training by the Department of State.
+
+
+<a id="section-2719c"></a>
+## § 2719c. Facilitation and encouragement of training and professional development for Foreign Service and Civil Service personnel
+**(a) Sense of Congress** It is the sense of Congress that recognition throughout the Department of the value and importance of training and professional development for Foreign Service and Civil Service personnel is vital to the development and maintenance by such personnel of the skills and expertise required for the Department to contribute fully and effectively to the conduct of the foreign affairs of the United States.
+
+**(b) Study and report**
+
+(1) **In general** — The Secretary, in consultation with the heads of relevant Federal agencies, shall conduct a study of the feasibility and cost of establishing a diplomatic officers’ reserve corps or similar mechanism to augment the Department’s personnel needs at any level on a temporary or permanent basis.
+
+(2) **Elements** — In conducting the study required under paragraph (1), the Secretary shall consider whether the diplomatic officers’ reserve corps should be modeled on the Senior Reserve Officers’ Training Corps established under chapter 103 of title 10 to encourage the recruitment and retention of personnel who have the critical language skills necessary to meet the requirements of the Foreign Service by providing financial assistance to students studying critical languages at institutions of higher education.
+
+(3) **Report** — Not later than 1 year after December 23, 2022, the Secretary shall submit a report to the appropriate congressional committees that contains the results of the study conducted pursuant to paragraph (1).
+
+**(c) Training and development in promotion precepts and evaluation criteria**
+
+(1) **Foreign Service** — The Secretary shall take appropriate action to ensure accountability and transparency in the evaluation of the precepts described in [section 4003 of this title](./chapter-052-foreign-service.md#section-4003) upon which the selection boards established pursuant to [section 4002 of this title](./chapter-052-foreign-service.md#section-4002) make recommendations for the promotion of members of the Foreign Service under [section 4001 of this title](./chapter-052-foreign-service.md#section-4001) by affording equal consideration to the undertaking of training, professional development, and foreign language acquisition and retention among any other objective criteria considered by selection boards in making such recommendations.
+
+(2) **Civil Service** — The Secretary shall take appropriate action to ensure that the performance standards for any job performance appraisal system for Civil Service personnel of the Department afford equal consideration to the undertaking of training, professional development, and foreign language acquisition and retention among any other objective criteria in the evaluation of the job performance of such personnel.
+
+**(d) Response to subordinate training and development needs in evaluation of supervisor performance**
+
+(1) **Foreign Service** — The Secretary shall take appropriate action to ensure that the evaluation of precepts for recommendations for promotion described in subsection (c)(1) for members of the Foreign Service in supervisory positions incorporates the extent to which such members appropriately address the training and professional development needs of the personnel under their supervision.
+
+(2) **Civil Service** — The Secretary shall take appropriate action to ensure that the performance standards described in subsection (c)(2) for Civil Service personnel of the Department in supervisory positions afford appropriate weight to addressing the training and professional development needs of the personnel under their supervision.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Department”, “Secretary”, and “appropriate congressional committees” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
 
 
 <a id="section-2720"></a>
@@ -4595,7 +5327,10 @@ Pub. L. 108–332, § 2, Oct. 16, 2004, 118 Stat. 1282, provided that: “Congre
 ### Statutory Notes
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+
+#### Public Diplomacy Outreach
+Pub. L. 118–31, div. F, title LXVI, § 6601, Dec. 22, 2023, 137 Stat. 1010, provided that: “(a) Coordination of Resources.—The Administrator of the United States Agency for International Development and the Secretary [of State] shall direct public affairs sections at United States embassies and USAID Mission Program Officers at USAID missions to coordinate, enhance and prioritize resources for public diplomacy and awareness campaigns around United States diplomatic and development efforts, including through—“(1) the utilization of new media technology for maximum public engagement; and “(2) enact coordinated comprehensive community outreach to increase public awareness and understanding and appreciation of United States diplomatic and development efforts. “(b) Development Outreach and Coordination Officers.—USAID should prioritize hiring of additional Development Outreach and Coordination officers in USAID missions to support the purposes of subsection (a). “(c) Best Practices.—The Secretary and the Administrator of USAID shall identify 10 countries in which Embassies and USAID missions have successfully executed efforts, including monitoring and evaluation of such efforts, described in [subsection] (a) and develop best practices to be turned into Department [of State] and USAID guidance.”
 
 
 <a id="section-2732a"></a>
@@ -4814,7 +5549,7 @@ For definitions of “Secretary”, “Department”, and “Foreign Service” 
 
 <a id="section-2734c"></a>
 ## § 2734c. Employee assignment restrictions
-**(a) Appeal of assignment restriction** The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion. Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.
+**(a) Appeal of assignment restriction** The Secretary shall establish and maintain a right and process for employees to appeal a decision related to an assignment, based on a restriction, review, or preclusion. Such right and process shall ensure that any such employee shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.
 
 **(b) Certification** Upon full implementation of a right and process for employees to appeal an assignment restriction or preclusion under subsection (a), the Secretary shall submit to the appropriate congressional committee 11 So in original. Probably should be “committees”. a report that—
 
@@ -4836,6 +5571,8 @@ For definitions of “Secretary”, “Department”, and “Foreign Service” 
 Section is comprised of section 414 of Pub. L. 114–323. Subsec. (d) of section 414 of Pub. L. 114–323 amended [section 3982 of this title](./chapter-052-foreign-service.md#section-3982).
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31 substituted “The Secretary shall establish and maintain a right and process for employees to appeal a decision related to an assignment, based on a restriction, review, or preclusion. Such right and process shall ensure that any such employee shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance.” for “The Secretary shall establish a right and process for employees to appeal any assignment restriction or preclusion. Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance.”
+
 2021—Subsec. (a). Pub. L. 117–81 inserted at end “Such right and process shall ensure that any employee subjected to an assignment restriction or preclusion shall have the same appeal rights as provided by the Department regarding denial or revocation of a security clearance. Any such appeal shall be resolved not later than 60 days after such appeal is filed.”
 
 #### Notice and Certification
@@ -4919,6 +5656,86 @@ Not later than 90 days after December 27, 2021, and annually thereafter, the Sec
 For definitions of “Secretary”, “appropriate congressional committees”, and “Department” as used in this section, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).
 
 
+<a id="section-2734g"></a>
+## § 2734g. Promoting transparency and accountability in the Department of State workforce
+**(a) In general** The Secretary should establish a mechanism to ensure that appointments or details of Department career employees to staff positions in the Office of the Secretary, the Office of the Deputy Secretary of State, the Office of the Counselor of the Department, any office of the Secretary’s Policy Planning Staff, and any office of an Under Secretary of State, and details to the National Security Council, are transparent, competitive, inclusive, and merit-based.
+
+**(b) Report** Not later than 90 days after December 23, 2022, the Secretary shall submit a report to the appropriate congressional committees regarding the mechanism established pursuant to subsection (a).
+
+**(c) Availability** The Secretary shall—
+
+(1) use transparent, competitive, inclusive, and merit-based processes for appointments and details to the staff positions specified in subsection (a); and
+
+(2) ensure that such positions are equally available to all employees of the Civil Service and the Foreign Service of the Department.
+
+### Statutory Notes
+
+#### Rule of Construction
+Pub. L. 117–263, div. I, title XCIV, § 9405, Dec. 23, 2022, 136 Stat. 3897, provided that: “Nothing in this title [enacting this section] may be construed as altering existing law regarding merit system principles.”
+
+#### Definitions
+For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-2734h"></a>
+## § 2734h. Increased accountability in assignment restrictions and reviews
+**(a) Sense of Congress** It is the sense of Congress that—
+
+(1) the use of policies to restrict personnel from serving in certain assignments may undermine the Department’s ability to deploy relevant cultural and linguistic skills at diplomatic posts abroad if not applied judiciously; and
+
+(2) the Department should continuously evaluate all processes relating to assignment restrictions, assignment reviews, and preclusions at the Department.
+
+**(b) Notification of status** Beginning not later than 90 days after December 22, 2023, the Secretary shall—
+
+(1) provide a status update for all Department personnel who, prior to December 22, 2023, were subject to a prior assignment restriction, assignment review, or preclusion for whom a review or decision related to assignment is pending; and
+
+(2) on an ongoing basis, provide a status update for any Department personnel who has been the subject of a pending assignment restriction or pending assignment review for more than 30 days.
+
+**(c) Notification content** The notification required under subsection (b) shall inform relevant personnel, as of the date of the notification—
+
+(1) whether any prior assignment restriction has been lifted;
+
+(2) if their assignment status is subject to ongoing review, and an estimated date for completion; and
+
+(3) if they are subject to any other restrictions on their ability to serve at posts abroad.
+
+**(d) Adjudication of ongoing assignment reviews**
+
+(1) **Time limit** — The Department shall establish a reasonable time limit for the Department to complete an assignment review and establish a deadline by which it must inform personnel of a decision related to such a review.
+
+(2) **Appeals** — For any personnel the Department determines are ineligible to serve in an assignment due to an assignment restriction or assignment review, a Security Appeal Panel shall convene not later than 120 days of an appeal being filed.
+
+(3) **Entry-level bidding process** — The Department shall include a description of the assignment review process and critical human intelligence threat posts in a briefing to new officers as part of their entry-level bidding process.
+
+(4) **Points of contact** — The Department shall designate points of contact in the Bureau of Diplomatic Security and Bureau of Global Talent Management to answer employee and Career Development Officer questions about assignment restrictions, assignment reviews, and preclusions.
+
+**(e) Security appeal panel** Not later than 90 days after December 22, 2023, the Security Appeal Panel shall be comprised of—
+
+(1) the head of an office responsible for human resources or discrimination who reports directly to the Secretary;
+
+(2) the Principal Deputy Assistant Secretary for the Bureau of Global Talent Management;
+
+(3) the Principal Deputy Assistant Secretary for the Bureau of Intelligence and Research;
+
+(4) an Assistant Secretary or Deputy, or equivalent, from a third bureau as designated by the Under Secretary for Management;
+
+(5) a representative from the geographic bureau to which the restriction applies; and
+
+(6) a representative from the Office of the Legal Adviser and a representative from the Bureau of Diplomatic Security, who shall serve as non-voting advisors.
+
+**(f) Omitted**
+
+**(g) FAM update** Not later than 120 days after December 22, 2023, the Secretary shall amend all relevant provisions of the Foreign Affairs Manual, and any associated or related policies of the Department, to comply with this section.
+
+### Statutory Notes
+
+#### Codification
+Section is comprised of section 6115 of Pub. L. 118–31. Subsec. (f) of section 6115 of Pub. L. 118–31 amended [section 2734c of this title](./chapter-038-department-of-state.md#section-2734c).
+
+#### Definitions
+For definitions of “Department” and “Secretary” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
 <a id="section-2735"></a>
 ## § 2735. Foreign relations exchange programs
 **(a) Authority** The Secretary may establish exchange programs under which officers or employees of the Department of State, including individuals appointed under title 5 and members of the Foreign Service (as defined in [section 3903 of this title](./chapter-052-foreign-service.md#section-3903)), may be assigned, for not more than 1 year, to a position with any foreign government or international entity that permits an employee to be assigned to a position with the Department of State.
@@ -4938,6 +5755,133 @@ For definitions of “Secretary”, “appropriate congressional committees”, 
 (1) an individual whose allegiance is to any country, government, or foreign or international entity other than to the United States; or
 
 (2) an individual who has not met the requirements of sections 3331, 3332, 3333, and 7311 of title 5 or any other provision of law concerning eligibility for appointment as, and continuation of employment as, an officer or employee of the United States.
+
+
+<a id="section-2735a"></a>
+## § 2735a. Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements
+**(a) Office** There is established within the Department of State the Office of the Special Presidential Envoy for the Abraham Accords, Negev Forum, and Related Integration and Normalization Fora and Agreements (referred to in this section as the “Regional Integration Office”).
+
+**(b) Leadership**
+
+(1) **1 Special Envoy** — The Regional Integration Office shall be headed by the Special Presidential Envoy for the Abraham Accords, Negev Forum, and Related Normalization Agreements, who shall—
+
+  (A) be appointed by the President, by and with the advice and consent of the Senate; and
+
+  (B) report directly to the Secretary of State.
+
+**(c) Rank and status of ambassador** The Special Envoy shall have the rank and status of ambassador.
+
+**(d) Duties** The Special Envoy shall—
+
+(1) lead diplomatic engagement—
+
+  (A) to strengthen and expand the Negev Forum, the Abraham Accords, and related normalization agreements with Israel, including promoting initiatives that benefit the people of key partners in regional integration or other regional actors in order to encourage such expansion; and
+
+  (B) to support the work of regional integration;
+
+(2) implement the policy of the United States to expand normalization and support greater regional integration—
+
+  (A) within the Middle East and North Africa; and
+
+  (B) between the Middle East and North Africa and other key regions, including sub-Saharan Africa, the Indo-Pacific region, and beyond;
+
+(3) work to deliver tangible economic and security benefits for the citizens of Abraham Accords countries, Negev Forum countries, and countries that are members of other related normalization agreements;
+
+(4) serve as the ministerial liaison for the United States to the Negev Forum and other emerging normalization and integration fora, as necessary, and provide senior representation at events, steering committee meetings, and other relevant diplomatic engagements relating to the Negev Forum or other regional integration bodies;
+
+(5) coordinate all cross-agency engagements and strategies in support of normalization efforts with other relevant officials and agencies;
+
+(6) ensure that the appropriate congressional committees are regularly informed about the work of the Regional Integration Office;
+
+(7) initiate and advance negotiations on a framework for an economic and security partnership with the Negev Forum countries, other key partners in regional integration, and other regional actors;
+
+(8) oppose efforts to delegitimize Israel and legal barriers to normalization with Israel;
+
+(9) initiate negotiations with Abraham Accords countries and Negev Forum countries, observers, and key partners in regional integration on an economic framework that includes—
+
+  (A) improving supply chain security and resiliency;
+
+  (B) aligning common regulatory and financial standards;
+
+  (C) attracting foreign investment;
+
+  (D) diversification of energy resources, including renewable sources of energy, and the development and deployment of emerging and advanced technologies that promote energy security; and
+
+  (E) digital economy, cybersecurity, and cross-border data flow;
+
+(10) lead interagency efforts to reach an international agreement on the comprehensive economic framework described in paragraph (9);
+
+(11) endeavor to embed already established standards on countering money laundering and terrorist financing into the regional economic framework described in paragraph (9); and
+
+(12) promote regional integration and broader interconnectivity among the Abraham Accords countries, Negev Forum countries, observers, key partners in regional integration, and other regional actors by promoting and supporting targeted investment in regional infrastructure and other critical sectors that broaden and deepen interconnectivity, increase economic growth and resilience, create benefits for citizens of Abraham Accords countries and Negev Forum countries, and advance the national security, economic, and development interests of the United States.
+
+**(e) Limitation** The Special Envoy shall not be a dual-hatted official with other responsibilities within the Department of State or the executive branch.
+
+**(f) Sense of Congress** It is the sense of Congress that whole-of-government resources should be harnessed to ensure the successful performance by the Special Envoy of the duties described in subsection (d).
+
+**(g) Report**
+
+(1) **In general** — Not later than 180 days after December 22, 2023, and annually thereafter, the Special Envoy shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on actions taken by all relevant Federal agencies—
+
+  (A) to strengthen and expand the Abraham Accords and the work of the Negev Forum and future structures and organizations; and
+
+  (B) towards the objectives of regional integration.
+
+(2) **Form of report** — The report required by paragraph (1) shall be submitted in unclassified form but may contain a separate, classified annex.
+
+**(h) Strategy** Not later than 180 days after December 22, 2023, the Secretary of State, in consultation with the heads of other relevant Federal agencies, shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives an interagency strategy to use the economic tools of the Federal Government to promote regional integration through targeted investment as described in subsection (d)(12).
+
+**(i) Termination** This section shall terminate on the date that is 6 years after December 22, 2023.
+
+**(j) Rule of construction** If, on December 22, 2023, an individual has already been designated, consistent with the requirements and responsibilities described in subsections (b), (c), and (d) and [section 2651a of this title](./chapter-038-department-of-state.md#section-2651a), the requirements under subsection (b) shall be considered to be satisfied with respect to such individual until the date on which such individual no longer serves as the Special Envoy.
+
+**(k) Definitions** In this section:
+
+(1) **Abraham Accords** — The term “Abraham Accords” means—
+
+  (A) the Abraham Accords Declaration, done at Washington September 15, 2020;
+
+  (B) the Abraham Accords Peace Agreement: Treaty of Peace, Diplomatic Relations and Full Normalization Between the United Arab Emirates and Israel, done at Washington September 15, 2020;
+
+  (C) the Abraham Accords: Declaration of Peace, Cooperation, and Constructive Diplomatic and Friendly Relations, done at Washington September 15, 2020, between Israel and the Kingdom of Bahrain; and
+
+  (D) the Joint Declaration of the Kingdom of Morocco, the United States, and Israel, done at Rabat December 22, 2020.
+
+(2) **Expand** — The term “expand”, with respect to the Abraham Accords, means to increase the number of regional, Arab, or Muslim-majority countries that seek to normalize relations with the State of Israel.
+
+(3) **Key partners in regional integration** — The term “key partners in regional integration” means—
+
+  (A) any Abraham Accords country;
+
+  (B) Egypt;
+
+  (C) Jordan;
+
+  (D) the Kingdom of Saudi Arabia; and
+
+  (E) any other active and constructive country that supports cooperation—
+
+    (i) to normalize relations between countries in the Middle East and North Africa and Israel; and
+
+    (ii) to advance regional integration.
+
+(4) **Negev Forum** — The term “Negev Forum” means the regional grouping known as the Negev Forum Regional Cooperation Framework that was adopted on November 10, 2022, or any successor group.
+
+(5) **Observer** — The term “observer”—
+
+  (A) means any country, particularly inside the Middle East and North Africa region, or political entity that—
+
+    (i) directly supports the objectives and processes of the Negev Forum;
+
+    (ii) expresses serious interest in participating in certain projects determined by the Negev Forum that benefit normalization with Israel and greater regional integration; and
+
+    (iii) is not an official member of the Negev Forum Steering Committee or any working group of the Negev Forum; and
+
+  (B) includes 3+1 format members Cyprus and Greece.
+
+(6) **Other regional actors** — The term “other regional actors” means the Palestinian Authority or a credible future political entity that serves as the interlocutor for the Palestinian people.
+
+(7) **Strengthen** — The term “strengthen”, with respect to the Abraham Accords and the Negev Forum, means to engage in efforts that improve the diplomatic relations between Abraham Accords countries and broaden the breadth and scope of issues on which Abraham Accords countries cooperate.
 
 
 <a id="section-2736"></a>
@@ -5013,6 +5957,9 @@ Pub. L. 117–81, div. E, title LIV, § 5401, Dec. 27, 2021, 135 Stat. 2371, pro
 (2) **Best practices** — The Department shall give special attention to ensuring the continuous incorporation of research-based best practices in training provided under this subsection.
 
 ### Statutory Notes
+
+#### Expansion of Diplomats in Residence Programs
+Pub. L. 118–31, div. F, title LXII, § 6213, Dec. 22, 2023, 137 Stat. 978, provided that: “(a) In General.—Not later than two years after the date of the enactment of this division [Dec. 22, 2023]—“(1) the Secretary [of State] is authorized to increase the number of diplomats in the Diplomats in Residence Program from 17 to at least 20; and “(2) the Administrator of the United States Agency for International Development is authorized to increase the number of development diplomats in the Diplomats in Residence Program from 1 to at least 3. “(b) Report.—Not later than one year after the date of the enactment of this division, and every year for three years thereafter, the Secretary shall report to the appropriate congressional committees [Committee on Foreign Relations of the Senate and Committee on Foreign Affairs of the House of Representatives] whether additional Diplomats in Residence have been established, and, if so, what regions or colleges or universities such diplomats are assigned to, with an explanation as to why those regions or schools were chosen as most in need of additional Department [of State] recruiting personnel.”
 
 #### Definitions
 For definitions of “Secretary” and “Department” as used in this section, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).
@@ -5103,3 +6050,274 @@ This title, referred to in text, is title LIV (§§ 5401–5408) of div. E of Pu
 
 #### Definition
 For definition of “Department” as used in this section, see section 5002 of Pub. L. 117–81, set out as a note under [section 263c of this title](./chapter-007-international-bureaus-congresses-etc.md#section-263c).
+
+
+<a id="section-2736f"></a>
+## § 2736f. Efforts to improve retention and prevent retaliation
+**(a) Streamlined reporting** Not later than one year after December 22, 2023, the Secretary shall establish a single point of initial reporting for allegations of discrimination, and harassment that provides an initial review of the allegations and, if necessary, the ability to file multiple claims based on a single complaint.
+
+**(b) Required annual surveys**
+
+(1) **In general** — Not later than 180 days after December 22, 2023, and annually thereafter, the Secretary shall conduct an annual employee satisfaction survey to assess the level of job satisfaction, work environment, and overall employee experience within the Department.
+
+(2) **Open-ended responses** — The survey required under paragraph (1) shall include options for open-ended responses.
+
+(3) **Survey questions** — The survey shall include questions regarding—
+
+  (A) work-life balance;
+
+  (B) compensation and benefits;
+
+  (C) career development opportunities;
+
+  (D) the performance evaluation and promotion process, including fairness and transparency;
+
+  (E) communication channels and effectiveness;
+
+  (F) leadership and management;
+
+  (G) organizational culture;
+
+  (H) awareness and effectiveness of complaint measures;
+
+  (I) accessibility and accommodations;
+
+  (J) availability of transportation to and from a work station;
+
+  (K) information technology infrastructure functionality and accessibility;
+
+  (L) the employee’s understanding of the Department’s structure, mission, and goals;
+
+  (M) alignment and relevance of work to the Department’s mission;
+
+  (N) sense of empowerment to affect positive change; and
+
+  (O) experiences with harassment, discrimination, retaliation, and other events that contribute to attrition and negatively impact work culture and productivity.
+
+**(c) Required exit surveys**
+
+(1) **In general** — Not later than 180 days after December 22, 2023, the Secretary shall develop and implement a standardized, confidential exit survey process that includes anonymous feedback and exit interviews with employees who voluntarily separate from the Department, whether through resignation, retirement, or other means.
+
+(2) **Scope** — The exit surveys conducted pursuant to paragraph (1) shall—
+
+  (A) be designed to gather insights and feedback from departing employees regarding—
+
+    (i) their reasons for leaving, including caretaking responsibilities, career limitations for partner or spouse, and discrimination, harassment, or retaliation;
+
+    (ii) their overall experience with the Department; and
+
+    (iii) any suggestions for improvement; and
+
+  (B) include questions related to—
+
+    (i) the employee’s reasons for leaving;
+
+    (ii) job satisfaction;
+
+    (iii) work environment;
+
+    (iv) professional growth opportunities;
+
+    (v) leadership effectiveness;
+
+    (vi) suggestions for enhancing the Department’s performance; and
+
+    (vii) if applicable, the name and industry of the employee’s future employer.
+
+(3) **Compilation of results** — The Secretary shall compile and analyze the anonymized exit survey data collected pursuant to this paragraph to identify trends, common themes, and areas needing improvement within the Department.
+
+**(d) Pilot surveys** Not later than 180 days after December 22, 2023, the Secretary shall conduct a Department-wide survey for Locally Employed Staff regarding retention, training, promotion, and other matters, including harassment, discrimination, and retaliation, that includes workforce perspectives on the accessibility and effectiveness of complaint measures.
+
+**(e) Report** Not later than 60 days after the conclusion of each survey conducted pursuant to this section, the Secretary shall make the key findings available to the Department workforce and shall submit them to the appropriate congressional committees.
+
+**(f) Retaliation prevention efforts**
+
+(1) **Employee evaluation**
+
+  (A) *In general* — If there is a pending investigation of discrimination or harassment against a superior who is responsible for rating or reviewing the complainant employee, the complainant shall be reviewed by the superior’s supervisor or other Department employee as appropriate.
+
+  (B) *Effective date* — This paragraph shall take effect 90 days after December 22, 2023.
+
+(2) **Retaliation prevention guidance** — Any Department employee against whom an allegation of discrimination or harassment has been made shall receive written guidance (a “retaliation hold”) on the types of actions that can be considered retaliation against the complainant employee. The employee’s immediate supervisor shall also receive the retaliation hold guidance.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-2737"></a>
+## § 2737. Department of State paid Student Internship Program
+**(a) In general** The Secretary shall establish the Department of State Student Internship Program (referred to in this section as the “Program”) to offer internship opportunities at the Department to eligible students to raise awareness of the essential role of diplomacy in the conduct of United States foreign policy and the realization of United States foreign policy objectives.
+
+**(b) Eligibility**
+
+(1) **In general** — An applicant is eligible to participate in the Program if the applicant is enrolled at—
+
+  (A) an institution of higher education (as such term is defined in [section 1002(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002/a&num=0&edition=prelim)); or
+
+  (B) an institution of higher education based outside the United States, as determined by the Secretary of State.
+
+(2) **Additional eligibility criteria** — An applicant in the Program should be—
+
+  (A) enrolled at least half-time in an institution described in paragraph (1); and
+
+  (B) eligible to receive and hold an appropriate security clearance.
+
+**(c) Selection** The Secretary shall establish selection criteria for students to be admitted into the Program that includes a demonstrated interest in a career in foreign affairs.
+
+**(d) Outreach** The Secretary shall—
+
+(1) widely advertise the Program, including—
+
+  (A) on the internet;
+
+  (B) through the Department’s Diplomats in Residence program; and
+
+  (C) through other outreach and recruiting initiatives targeting undergraduate and graduate students; and
+
+(2) conduct targeted outreach to encourage participation in the Program from—
+
+  (A) individuals belonging to an underrepresented group; and
+
+  (B) students enrolled at minority-serving institutions (which shall include any institution listed in [section 1067q(a) of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1067q/a&num=0&edition=prelim)).
+
+**(e) Compensation**
+
+(1) **Housing assistance**
+
+  (A) *Abroad* — The Secretary shall provide housing assistance to any student participating in the Program whose permanent address is within the United States if the location of the internship in which such student is participating is outside of the United States.
+
+  (B) *Domestic* — The Secretary may provide housing assistance to a student participating in the Program whose permanent address is within the United States if the location of the internship in which such student is participating is more than 50 miles away from such student’s permanent address.
+
+(2) **Travel assistance** — The Secretary shall provide a student participating in the Program whose permanent address is within the United States with financial assistance that is sufficient to cover the travel costs of a single round trip by air, train, bus, or other appropriate transportation between the student’s permanent address and the location of the internship in which such student is participating if such location is—
+
+  (A) more than 50 miles from the student’s permanent address; or
+
+  (B) outside of the United States.
+
+**(f) Working with institutions of higher education** The Secretary, to the maximum extent practicable, shall structure internships to ensure that such internships satisfy criteria for academic credit at the institutions of higher education in which participants in such internships are enrolled.
+
+**(g) Transition period**
+
+(1) **In general** — Except as provided in paragraphs (2) and (3), beginning not later than 2 years after December 23, 2022—
+
+  (A) the Secretary shall convert unpaid internship programs of the Department, including the Foreign Service Internship Program, to internship programs that offer compensation; and
+
+  (B) upon selection as a candidate for entry into an internship program of the Department, a participant in such internship program may refuse compensation, including if doing so allows such participant to receive college or university curricular credit.
+
+(2) **Exception** — The transition required under paragraph (1) shall not apply to unpaid internship programs of the Department that are part of the Virtual Student Federal Service internship program.
+
+(3) **Waiver**
+
+  (A) *In general* — The Secretary may waive the requirement under paragraph (1)(A) with respect to a particular unpaid internship program if the Secretary, not later than 30 days after making a determination that the conversion of such internship program to a compensated internship program would not be consistent with effective management goals, submits a report explaining such determination to—
+
+    (i) the appropriate congressional committees;
+
+    (ii) the Committee on Appropriations of the Senate; and
+
+    (iii) the Committee on Appropriations of the House of Representatives.
+
+  (B) *Report* — The report required under subparagraph (A) shall—
+
+    (i) describe the reasons why converting an unpaid internship program of the Department to an internship program that offers compensation would not be consistent with effective management goals; and
+
+    (ii)
+
+      (I) provide justification for maintaining such unpaid status indefinitely; or
+
+      (II) identify any additional authorities or resources that would be necessary to convert such unpaid internship program to offer compensation in the future.
+
+**(h) Reports** Not later than 18 months after December 23, 2022, the Secretary shall submit a report to the committees referred to in subsection (g)(3)(A) that includes—
+
+(1) data, to the extent the collection of such information is permissible by law, regarding the number of students who applied to the Program, were offered a position, and participated, respectively, disaggregated by race, ethnicity, sex, institution of higher education, home State, State where each student graduated from high school, and disability status;
+
+(2) data regarding the number of security clearance investigations initiated for the students described in paragraph (1), including the timeline for such investigations, whether such investigations were completed, and when an interim security clearance was granted;
+
+(3) information on Program expenditures;
+
+(4) information regarding the Department’s compliance with subsection (g); and
+
+(5) the number of internship participants subsequently employed by the Department, if any, following their participation in the Program.
+
+**(i) Voluntary participation**
+
+(1) **In general** — Nothing in this section may be construed to compel any student who is a participant in an internship program of the Department to participate in the collection of the data or divulge any personal information. Such students shall be informed that their participation in the data collection under this section is voluntary.
+
+(2) **Privacy protection** — Any data collected under this section shall be subject to the relevant privacy protection statutes and regulations applicable to Federal employees.
+
+**(j) Special hiring authority** Notwithstanding any other provision of law, the Secretary, in consultation with the Director of the Office of Personnel Management, with respect to the number of interns to be hired each year, may—
+
+(1) select, appoint, and employ individuals for up to 1 year through compensated internships in the excepted service; and
+
+(2) remove any compensated intern employed pursuant to paragraph (1) without regard to the provisions of law governing appointments in the excepted service.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in this section, see section 9002 of Pub. L. 117–263, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-2738"></a>
+## § 2738. Mid-Career Mentoring Program
+**(a) Authorization** The Secretary, in collaboration with the Director of the Foreign Service Institute, is authorized to establish a Mid-Career Mentoring Program (referred to in this section as the “Program”) to assist in the retention of, and to decrease mid-career attrition of, employees, including those who have demonstrated potential for advancement and may be at risk of leaving the Department.
+
+**(b) Selection**
+
+(1) **Nominations** — The head of each bureau shall semiannually nominate participants for the Program from a pool of applicants in the positions described in paragraph (2)(B), including from posts both domestically and abroad.
+
+(2) **Submission of slate of nominees to Secretary** — The Director of the Foreign Service Institute, in consultation with the Director General of the Foreign Service, shall semiannually—
+
+  (A) vet the nominees most recently nominated pursuant to paragraph (1); and
+
+  (B) submit to the Secretary a slate of applicants to participate in the Program, who shall consist of at least—
+
+    (i) 10 Foreign Service Officers and specialists classified at the FS-03 or FS-04 level of the Foreign Service Salary Schedule;
+
+    (ii) 10 Civil Service employees classified at GS–12 or GS–13 of the General Schedule; and
+
+    (iii) 5 Foreign Service Officers from the United States Agency for International Development.
+
+(3) **Final selection** — The Secretary shall select the applicants who will be invited to participate in the Program from the slate received pursuant to paragraph (2)(B) and extend such an invitation to each selected applicant.
+
+(4) **Merit principles** — [Section 3905 of this title](./chapter-052-foreign-service.md#section-3905) shall apply to nominations, submissions to the Secretary, and selections for the Program under this section.
+
+**(c) Program sessions**
+
+(1) **Frequency; duration** — All of the participants who accept invitations extended pursuant to subsection (b)(3) shall meet 3 to 4 times per year for training sessions with high-level leaders of the Department and USAID, including private group meetings with the Secretary and the Administrator of the United States Agency for International Development.
+
+(2) **Themes** — Each session referred to in paragraph (1) shall focus on specific themes developed jointly by the Foreign Service Institute and the Executive Secretariat focused on substantive policy issues and leadership practices.
+
+**(d) Mentoring program** The Secretary and the Administrator each is authorized to establish a mentoring and coaching program that pairs a senior leader of the Department or USAID with each of the program participants who complete the Program during the 1-year period immediately following their participation in the Program.
+
+**(e) Annual report** Not later than one year after December 22, 2023, and annually thereafter for three years, the Secretary shall submit a report to the appropriate congressional committees that describes the activities of the Program during the most recent year and includes disaggregated demographic data on participants in the Program.
+
+### Statutory Notes
+
+#### References in Text
+The General Schedule, referred to in subsec. (b)(2)(B)(ii), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), Government Organization and Employees.
+
+#### Definitions
+For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).
+
+
+<a id="section-2739"></a>
+## § 2739. Civil service rotational program
+**(a) Establishment of pilot rotational program for civil service** Not later than 180 days after December 22, 2023, the Secretary shall establish a program to provide qualified civil servants serving at the Department an opportunity to serve at a United States embassy, including identifying criteria and an application process for such program.
+
+**(b) Program** The program established under this section shall—
+
+(1) provide at least 20 career civil servants the opportunity to serve for 2 to 3 years at a United States embassy to gain additional skills and experience;
+
+(2) offer such civil servants the opportunity to serve in a political or economic section at a United States embassy; and
+
+(3) include clear and transparent criteria for eligibility and selection, which shall include a minimum of 5 years of service at the Department.
+
+**(c) Subsequent position and promotion** Following a rotation at a United States embassy pursuant to the program established by this section, participants in the program must be afforded, at minimum, a position equivalent in seniority, compensation, and responsibility to the position occupied prior serving in the program. Successful completion of a rotation at a United States embassy shall be considered favorably with regard to applications for promotion in civil service jobs at the Department.
+
+**(d) Implementation** Not later than 2 years after December 22, 2023, the Secretary shall identify not less than 20 positions in United States embassies for the program established under this section and offer at least 20 civil servants the opportunity to serve in a rotation at a United States embassy pursuant to this section.
+
+### Statutory Notes
+
+#### Definitions
+For definitions of “Secretary” and “Department” as used in this section, see section 6002 of Pub. L. 118–31, set out as a note under [section 2651 of this title](./chapter-038-department-of-state.md#section-2651).

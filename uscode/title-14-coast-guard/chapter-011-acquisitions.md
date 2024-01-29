@@ -2,7 +2,7 @@
 title: 14
 chapter: '11'
 heading: ACQUISITIONS
-section_count: 26
+section_count: 27
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -184,7 +184,7 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 The Small Business Act, referred to in subsec. (a)(3), is Pub. L. 85–536, § 2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§ 631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 631 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section631&num=0&edition=prelim) and Tables.
 
 #### Amendments
-2018—Pub. L. 115–282, § 108(b), renumbered [section 564 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section564&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282, § 108(b), renumbered [section 564 of this title](./chapter-005-functions-and-powers.md#section-564) as this section.
 
 Subsec. (c). Pub. L. 115–282, § 304(d), struck out subsec. (c) which related to acquisition of unmanned aerial systems.
 
@@ -245,7 +245,7 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 
 <a id="section-1107"></a>
 ## § 1107. Extension of major acquisition program contracts
-**(a) In General.—** Notwithstanding [section 1105(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1105/a/2&num=0&edition=prelim) and [section 2304 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2304&num=0&edition=prelim), and subject to subsections (b) and (c) of this section, the Secretary may acquire additional units procured under a Coast Guard major acquisition program contract, by extension of such contract without competition, if the Director of the Cost Analysis Division of the Department of Homeland Security determines that the costs that would be saved through award of a new contract in accordance with such sections would not exceed the costs of such an award.
+**(a) In General.—** Notwithstanding [section 1105(a)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section1105/a/2&num=0&edition=prelim) and section 2304 11 See References in Text note below. of title 10, and subject to subsections (b) and (c) of this section, the Secretary may acquire additional units procured under a Coast Guard major acquisition program contract, by extension of such contract without competition, if the Director of the Cost Analysis Division of the Department of Homeland Security determines that the costs that would be saved through award of a new contract in accordance with such sections would not exceed the costs of such an award.
 
 **(b) Limitation on Number of Additional Units.—** The number of additional units acquired under a contract extension under this section may not exceed the number of additional units for which such determination is made.
 
@@ -258,6 +258,9 @@ Pub. L. 111–330, § 1, Dec. 22, 2010, 124 Stat. 3569, provided that the amendm
 **(d) Number of Extensions.—** A contract may be extended under this section more than once.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 2304 of this title](./chapter-023-personnel-enlisted.md#section-2304), referred to in subsec. (a), was repealed by Pub. L. 116–283, div. A, title XVIII, §§ 1801(d), 1881(a), Jan. 1, 2021, 134 Stat. 4151, 4293, effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law. Subsecs. (a) to (l) of section 2304 were transferred to various provisions in chapter 221 of this title, with the same effective date and conditions, by Pub. L. 116–283, div. A, title XVIII, § 1811(c)(2)–(5), (d)(2)–(9), Jan. 1, 2021, 134 Stat. 4165–4170.
 
 #### Amendments
 2018—Pub. L. 115–282, § 108(b), renumbered [section 579 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section579&num=0&edition=prelim) as this section.
@@ -542,13 +545,25 @@ The date of the enactment of the Elijah E. Cummings Coast Guard Authorization Ac
 
 (1) **In general.—** — The Commandant shall implement mechanisms to ensure the development and regular updating of life-cycle cost estimates for each acquisition with a total acquisition cost that equals or exceeds $10,000,000 and an expected service life of 10 or more years, and to ensure that these estimates are considered in decisions to develop or produce new or enhanced capabilities and assets.
 
-(2) **Types of estimates.—** — In addition to life-cycle cost estimates that may be developed by acquisition program offices, the Commandant shall require that an independent life-cycle cost estimate be developed for each Level 1 or Level 2 acquisition project or program.
+(2) **Types of estimates.—** — For each Level 1 or Level 2 acquisition project or program, in addition to life-cycle cost estimates developed under paragraph (1), the Commandant shall require that—
 
-(3) **Required updates.—** — For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase.
+  (A) life-cycle cost estimates developed under paragraph (1) be updated before—
+
+    (i) each milestone decision is concluded; and
+
+    (ii) the project or program enters a new acquisition phase; and
+
+  (B) an independent cost estimate or independent cost assessment, as appropriate, be developed to validate life-cycle cost estimates developed under paragraph (1).
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (e)(2), (3). Pub. L. 117–263 added par. (2) and struck out former pars. (2) and (3) which read as follows:
+
+“(2) Types of estimates.—In addition to life-cycle cost estimates that may be developed by acquisition program offices, the Commandant shall require that an independent life-cycle cost estimate be developed for each Level 1 or Level 2 acquisition project or program.
+
+“(3) Required updates.—For each Level 1 or Level 2 acquisition project or program the Commandant shall require that life-cycle cost estimates shall be updated before each milestone decision is concluded and the project or program enters a new acquisition phase.”
+
 2018—Pub. L. 115–282 renumbered [section 572 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section572&num=0&edition=prelim) as this section.
 
 2016—Subsec. (d)(3)(B) to (J). Pub. L. 114–120 added subpars. (B) and (D) and redesignated former subpar. (B) as (C) and former subpars. (C) to (H) as (E) to (J), respectively.
@@ -899,15 +914,15 @@ A Coast Guard vessel the home port of which is in the United States or Guam may 
 
 **(b) Small Unmanned Aircraft Exemption.—** Subsection (a)(2) does not apply to small unmanned aircraft.
 
-**(c) Definitions.—** In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in section 331 of the FAA Modernization and Reform Act of 2012 ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note).11 See References in Text note below.
+**(c) Definitions.—** In this section, the terms “small unmanned aircraft” and “unmanned aircraft system” have the meanings given those terms in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
 
 ### Statutory Notes
 
-#### References in Text
-Section 331 of the FAA Modernization and Reform Act of 2012, referred to in subsec. (c), is section 331 of Pub. L. 112–95, title III, Feb. 14, 2012, 126 Stat. 72, which is set out in a note under [section 44802 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44802&num=0&edition=prelim), Transportation.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–263 substituted “[section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim)” for “section 331 of the FAA Modernization and Reform Act of 2012 ([49 U.S.C. 40101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40101&num=0&edition=prelim) note)”.
 
 #### Prohibition on Operation or Procurement of Foreign-Made Unmanned Aircraft Systems
-Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 Stat. 4725, provided that: “(a) Prohibition on Agency Operation or Procurement.—The Commandant [of the Coast Guard] may not operate or enter into or renew a contract for the procurement of—“(1) an unmanned aircraft system that—“(A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or “(D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or “(2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of unmanned aircraft systems. “(b) Exemption.—“(1) In general.—The Commandant is exempt from the restriction under subsection (a) if—“(A) the operation or procurement is for the purposes of—“(i) counter-UAS system surrogate testing and training; or “(ii) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training; or “(B) the Commandant receives a certification from the Coast Guard unit requesting to operate or procure an unmanned aircraft system otherwise restricted under subsection (a), which shall include supporting manufacturer information, that the unmanned aircraft system does not—“(i) connect to the internet or an outside telecommunications service; “(ii) connect to other devices or electronics, except as necessary to perform the mission; or “(iii) perform any missions in support of classified information or that may threaten national security. “(2) Expiration.—The authority under this subsection to operate or procure an unmanned aircraft system otherwise restricted under subsection (a) expires on the date that is 2 years after the date of the enactment of this Act [Jan. 1, 2021]. “(c) Waiver.—The Commandant may waive the restriction under subsection (a) on a case by case basis by certifying in writing to the Department of Homeland Security and the relevant committees of jurisdiction that the operation or procurement is required in the national interest of the United States. “(d) Definitions.—In this section:“(1) Covered foreign country.—The term ‘covered foreign country’ means the People’s Republic of China. “(2) Counter-UAS system.—The term ‘counter-UAS system’ has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code. “(3) Unmanned aircraft system.—The term ‘unmanned aircraft system’ has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code.”
+Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 Stat. 4725, as amended by Pub. L. 117–263, div. K, title CXII, § 11255, Dec. 23, 2022, 136 Stat. 4055, provided that: “(a) Prohibition on Agency Operation or Procurement.—The Commandant [of the Coast Guard] may not operate or enter into or renew a contract for the procurement of—“(1) an unmanned aircraft system that—“(A) is manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(B) uses flight controllers, radios, data transmission devices, cameras, or gimbals manufactured in a covered foreign country or by an entity domiciled in a covered foreign country; “(C) uses a ground control system or operating software developed in a covered foreign country or by an entity domiciled in a covered foreign country; or “(D) uses network connectivity or data storage located in or administered by an entity domiciled in a covered foreign country; or “(2) a system manufactured in a covered foreign country or by an entity domiciled in a covered foreign country for the detection or identification of unmanned aircraft systems. “(b) Exemption.—The Commandant is exempt from the restriction under subsection (a) if the operation or procurement is for the purposes of—“(1) counter-UAS system surrogate testing and training; or “(2) intelligence, electronic warfare, and information warfare operations, testing, analysis, and training. “(c) Waiver.—The Commandant may waive the restriction under subsection (a) on a case-by-case basis by certifying in writing not later than 15 days after exercising such waiver to the Department of Homeland Security, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives that the operation or procurement of a covered unmanned aircraft system is required in the national interest of the United States. “(d) Definitions.—In this section:“(1) Covered foreign country.—The term ‘covered foreign country’ means any of the following:“(A) The People’s Republic of China. “(B) The Russian Federation. “(C) The Islamic Republic of Iran. “(D) The Democratic People’s Republic of Korea. “(2) Covered unmanned aircraft system.—The term ‘covered unmanned aircraft system’ means an unmanned aircraft system described in paragraph (1) of subsection (a). “(3) Counter-UAS system.—The term ‘counter-UAS system’ has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code. “(4) Unmanned aircraft system.—The term ‘unmanned aircraft system’ has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim), United States Code, and any related services and equipment. “(e) Replacement.—Not later than 90 days after the date of the enactment of the Don Young Coast Guard Authorization Act of 2022 [Dec. 23, 2022], the Commandant shall replace covered unmanned aircraft systems of the Coast Guard with unmanned aircraft systems manufactured in the United States or an allied country (as that term is defined in [section 2350f(d)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2350f/d/1&num=0&edition=prelim), United States Code).”
 
 
 <a id="section-1157"></a>
@@ -922,6 +937,33 @@ Pub. L. 116–283, div. G, title LVXXXIV [LXXXIV], § 8414, Jan. 1, 2021, 134 St
 
 #### References in Text
 An Act to authorize the making, amendment, and modification of contracts to facilitate the national defense, referred to in subsec. (a), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
+
+
+<a id="section-1158"></a>
+## § 1158. Authority to enter into transactions other than contracts and grants to procure cost-effective, advanced technology for mission-critical needs
+**(a) In General.—** Subject to subsections (b) and (c), the Commandant may enter into transactions (other than contracts, cooperative agreements, and grants) to operate, test, and acquire cost-effective technology for the purpose of meeting the mission needs of the Coast Guard.
+
+**(b) Operation, Testing, and Acquisition.—** Operation, testing, and acquisition of technologies under subsection (a) shall be—
+
+(1) carried out in accordance with Coast Guard policies and guidance; and
+
+(2) consistent with the operational requirements of the Coast Guard.
+
+**(c) Limitations.—** The Commandant may not enter into a transaction under subsection (a) with respect to a technology that—
+
+(1) does not comply with the cybersecurity standards of the Coast Guard; or
+
+(2) is sourced from an entity domiciled in the People’s Republic of China, unless the Commandant determines that the prototype or procurement of such a technology is for the purpose of—
+
+  (A) counter-UAS or surrogate testing; or
+
+  (B) intelligence, electronic warfare, and information warfare, testing, and analysis.
+
+**(d) Education and Training.—** The Commandant shall ensure that management, technical, and contracting personnel of the Coast Guard involved in the award or administration of transactions under this section are provided adequate education and training with respect to the authority under this section.
+
+**(e) Regulations.—** The Commandant shall prescribe regulations as necessary to carry out this section.
+
+**(f) Counter-UAS Defined.—** In this section, the term “counter-UAS” has the meaning given such term in [section 44801 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44801&num=0&edition=prelim).
 
 
 <a id="section-1171"></a>

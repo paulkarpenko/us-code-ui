@@ -113,13 +113,13 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 Pub. L. 99–661, div. A, title V, § 524(b), Nov. 14, 1986, 100 Stat. 3872, provided that: “Section 672(g) [now 12301(g)] of title 10, United States Code, as added by subsection (a), does not authorize a member of a reserve component to be ordered to active duty for a period before the date of the enactment of this Act [Nov. 14, 1986].”
 
 #### Effective Date of 1958 Amendment
-Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Rule of Construction for Duplicate Authorization and Appropriation Provisions of Public Laws 99–500, 99–591, and 99–661
-For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+For rule of construction for certain duplicate provisions of Public Laws 99–500, 99–591, and 99–661, see Pub. L. 100–26, § 6, Apr. 21, 1987, 101 Stat. 274, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Quarantine Lodging for Members of the Reserve Components Who Perform Certain Service in Response to the COVID–19 Emergency
-Pub. L. 116–283, div. A, title V, § 517, Jan. 1, 2021, 134 Stat. 3590, provided that: “(a) In General.—The Secretary of Defense may provide, to a member of the reserve components of the Armed Forces who performs a period of covered service, housing for not fewer than 14 days immediately after the end of such period of covered service. “(b) Definitions.—In this section:“(1) The term ‘active service’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions.md#section-101), United States Code. “(2) The term ‘covered service’ means active service performed in response to the covered national emergency. “(3) The term ‘covered national emergency’ means the national emergency declared on March 13, 2020, by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to COVID–19.”
+Pub. L. 116–283, div. A, title V, § 517, Jan. 1, 2021, 134 Stat. 3590, provided that: “(a) In General.—The Secretary of Defense may provide, to a member of the reserve components of the Armed Forces who performs a period of covered service, housing for not fewer than 14 days immediately after the end of such period of covered service. “(b) Definitions.—In this section:“(1) The term ‘active service’ has the meaning given that term in [section 101 of title 10](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101), United States Code. “(2) The term ‘covered service’ means active service performed in response to the covered national emergency. “(3) The term ‘covered national emergency’ means the national emergency declared on March 13, 2020, by the President under the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.) with respect to COVID–19.”
 
 #### Limitations on Cancellations of Deployment of Certain Reserve Component Units and Involuntary Mobilizations of Certain Reserves
 Pub. L. 113–66, div. A, title V, § 513, Dec. 26, 2013, 127 Stat. 752, provided that: “(a) Limitation on Cancellation of Deployment of Certain Units Within 180 Days of Scheduled Deployment.—“(1) Limitation.—The deployment of a unit of a reserve component of the Armed Forces described in paragraph (2) may not be cancelled during the 180-day period ending on the date on which the unit is otherwise scheduled for deployment without the approval, in writing, of the Secretary of Defense. “(2) Covered deployments.—A deployment of a unit of a reserve component described in this paragraph is a deployment whose cancellation as described in paragraph (1) is due to the deployment of a unit of a regular component of the Armed Forces to carry out the mission for which the unit of the reserve component was otherwise to be deployed. “(3) Notice to congress and governors on approval of cancellation of deployment.—On approving the cancellation of deployment of a unit under paragraph (1), the Secretary shall submit to the congressional defense committees [Committees on Armed Services and Appropriations of the Senate and the House of Representatives] and the Governor concerned a notice on the approval of cancellation of deployment of the unit. “(b) Advance Notice to Certain Reserves on Involuntary Mobilization.—“(1) Advance notice required.—The Secretary concerned may not provide less than 120 days advance notice of an involuntary mobilization to a member of the reserve component of the Armed Forces described in paragraph (2) without the approval, in writing, of the Secretary of Defense. “(2) Covered reserves.—A member of a reserve component described in this paragraph is a member as follows:“(A) A member who is not assigned to a unit organized to serve as a unit. “(B) A member who is to be mobilized apart from the member’s unit. “(3) Commencement of applicability.—This subsection shall apply with respect to members who are mobilized on or after the date that is 120 days after the date of the enactment of this Act [Dec. 26, 2013]. “(4) Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ has the meaning given that term in [section 101(a)(9) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/9&num=0&edition=prelim), United States Code. “(5) Sunset.—This subsection shall cease to apply as of the date of the completion of the withdrawal of United States combat forces from Afghanistan. “(c) Nondelegation of Approval.—The Secretary of Defense may not delegate the approval of cancellations of deployments of units under subsection (a) or the approval of mobilization of Reserves without advance notice under subsection (b).”
@@ -189,7 +189,7 @@ Subsec. (c). Pub. L. 85–861, § 1(14)(B), added subsec. (c).
 Pub. L. 93–155, title III, § 303(b), Nov. 16, 1973, 87 Stat. 608, provided that: “The amendment made by subsection (a) of this section [amending this section] shall be effective with respect to any unit of the Ready Reserve ordered to active duty on or after the date of enactment of this Act [Nov. 16, 1973].”
 
 #### Effective Date of 1958 Amendment
-Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 33(a)(5) of Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Executive Order No. 12743
 Ex. Ord. No. 12743, Jan. 18, 1991, 56 F.R. 2661, as amended by Ex. Ord. No. 13286, § 35, Feb. 28, 2003, 68 F.R. 10625, which related to ordering the Ready Reserve of the Armed Forces to active duty, was revoked by Ex. Ord. No. 13350, July 29, 2004, 69 F.R. 46055, listed in a table under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim), War and National Defense.
@@ -235,6 +235,34 @@ Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 Donald J. Trump.
+
+#### Ex. Ord. No. 14097. Authority To Order the Ready Reserve of the Armed Forces to Active Duty To Address International Drug Trafficking
+Ex. Ord. No. 14097, Apr. 27, 2023, 88 F.R. 26471, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the National Emergencies Act ([50 U.S.C. 1601](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1601&num=0&edition=prelim) et seq.), and in furtherance of Executive Order 14059 of December 15, 2021 (Imposing Sanctions on Foreign Persons Involved in the Global Illicit Drug Trade) [[50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note], which declared a national emergency to address the unusual and extraordinary threat to the national security, foreign policy, and economy of the United States posed by international drug trafficking, it is hereby ordered as follows:
+
+Section 1. Emergency Authority. To provide additional authority to the Secretary of Defense and the Secretary of Homeland Security to respond to the national emergency declared in Executive Order 14059, the authority under [section 12302 of title 10](./chapter-1209-active-duty.md#section-12302), United States Code, is invoked and made available, according to its terms, to the Secretary of Defense and the Secretary of Homeland Security. The Secretaries of the Army, Navy, and Air Force, at the direction of the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, are authorized to order to active duty such units and individual members of the Ready Reserve under the jurisdiction of the Secretary concerned as the Secretary concerned considers necessary, consistent with the terms of [section 12302 of title 10](./chapter-1209-active-duty.md#section-12302), United States Code.
+
+Sec. 2. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
+
+#### Ex. Ord. No. 14102. Ordering the Selected Reserve and Certain Members of the Individual Ready Reserve of the Armed Forces to Active Duty
+Ex. Ord. No. 14102, July 13, 2023, 88 F.R. 45807, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 121 and 12304 of title 10, United States Code, I hereby determine that it is necessary to augment the active Armed Forces of the United States for the effective conduct of Operation Atlantic Resolve in and around the United States European Command’s area of responsibility. In furtherance of this operation, under the stated authority, I hereby authorize the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, under their respective jurisdictions, to order to active duty any units, and any individual members not assigned to a unit organized to serve as a unit of the Selected Reserve, or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, not to exceed 3,000 total members at any one time, of whom not more than 450 may be members of the Individual Ready Reserve, as they deem necessary, and to terminate the service of those units and members ordered to active duty.
+
+This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+J.R. Biden, Jr.
 
 
 <a id="section-12303"></a>
@@ -295,7 +323,7 @@ Ex. Ord. No. 11406, Apr. 10, 1968, 33 F.R. 5735, authorized Secretary of Defense
 
 <a id="section-12304"></a>
 ## § 12304. Selected Reserve and certain Individual Ready Reserve members; order to active duty other than during war or national emergency
-**(a) Authority.—** Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for any named operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in [section 10143(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10143/a&num=0&edition=prelim)), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
+**(a) Authority.—** Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in [section 10143(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10143/a&num=0&edition=prelim)), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
 
 **(b) Support for Responses to Certain Emergencies.—** The authority under subsection (a) includes authority to order a unit or member to active duty to provide assistance in responding to an emergency involving—
 
@@ -303,29 +331,39 @@ Ex. Ord. No. 11406, Apr. 10, 1968, 33 F.R. 5735, authorized Secretary of Defense
 
 (2) a terrorist attack or threatened terrorist attack in the United States that results, or could result, in significant loss of life or property.
 
-**(c) Limitations.—**
+**(c) Authority Relating to Significant Cyber Incidents.—** When the Secretary of Defense or the Secretary of the department in which the Coast Guard is operating determines that it is necessary to augment the active armed forces for the response of the Department of Defense or other department under which the Coast Guard is operating, respectively, to a covered incident, such Secretary may, without the consent of the member affected, order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in [section 10143(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10143/a&num=0&edition=prelim)), under the respective jurisdiction of such Secretary, to active duty for not more than 365 consecutive days.
 
-(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 13 or [section 12406 of this title](./chapter-1211-national-guard-members-in-federal-service.md#section-12406) or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
+**(d) Limitations.—**
+
+(1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 13 or [section 12406 of this title](./chapter-1211-national-guard-members-in-federal-service.md#section-12406) or, except as provided in subsection (b) or subsection (c), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
 
 (2) Not more than 200,000 members of the Selected Reserve and the Individual Ready Reserve may be on active duty under this section at any one time, of whom not more than 30,000 may be members of the Individual Ready Reserve.
 
 (3) No unit or member of a reserve component may be ordered to active duty under this section to provide assistance referred to in subsection (b) unless the President determines that the requirements for responding to an emergency referred to in that subsection have exceeded, or will exceed, the response capabilities of local, State, and Federal civilian agencies.
 
-**(d) Exclusion From Strength Limitations.—** Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or members in grade under this title or any other law.
+**(e) Exclusion From Strength Limitations.—** Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or members in grade under this title or any other law.
 
-**(e) Policies and Procedures.—** The Secretary of Defense and the Secretary of Homeland Security shall prescribe such policies and procedures for the armed forces under their respective jurisdictions as they consider necessary to carry out this section.
+**(f) Policies and Procedures.—** The Secretary of Defense and the Secretary of Homeland Security shall prescribe such policies and procedures for the armed forces under their respective jurisdictions as they consider necessary to carry out this section.
 
-**(f) Notification of Congress.—** Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
+**(g) Notification of Congress.—** Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a) or subsection (c), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
 
-**(g) Termination of Duty.—** Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
+**(h) Termination of Duty.—**
 
-(1) order of the President, or
+(1) Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
 
-(2) law.
+  (A) order of the President; or
 
-**(h) Relationship to War Powers Resolution.—** Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution ([50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) et seq.).
+  (B) law.
 
-**(i) Considerations for Involuntary Order to Active Duty.—**
+(2) Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit is ordered to active duty under authority of subsection (c), the service of all units or members so ordered to active duty may be terminated by—
+
+  (A) order of the Secretary of Defense or, with respect to the Coast Guard, the Secretary of the Department in which the Coast Guard is operating; or
+
+  (B) law.
+
+**(i) Relationship to War Powers Resolution.—** Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution ([50 U.S.C. 1541](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) et seq.).
+
+**(j) Considerations for Involuntary Order to Active Duty.—**
 
 (1) In determining which members of the Selected Reserve and Individual Ready Reserve will be ordered to duty without their consent under this section, appropriate consideration shall be given to—
 
@@ -339,18 +377,54 @@ Ex. Ord. No. 11406, Apr. 10, 1968, 33 F.R. 5735, authorized Secretary of Defense
 
 (2) The Secretary of Defense shall prescribe such policies and procedures as the Secretary considers necessary to carry out this subsection.
 
-**(j) Definitions.—** In this section:
+**(k) Definitions.—** In this section:
 
-(1) The term “Individual Ready Reserve mobilization category” means, in the case of any reserve component, the category of the Individual Ready Reserve described in [section 10144(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10144/b&num=0&edition=prelim).
+(1) The term “covered incident” means—
 
-(2) The term “weapon of mass destruction” has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 ([50 U.S.C. 2302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2302/1&num=0&edition=prelim)).
+  (A) a cyber incident involving a Department of Defense information system, or a breach of a Department of Defense system that involves personally identifiable information, that the Secretary of Defense determines is likely to result in demonstrable harm to the national security interests, foreign relations, or the economy of the United States, or to the public confidence, civil liberties, or public health and safety of the people of the United States;
+
+  (B) a cyber incident involving a Department of Homeland Security information system, or a breach of a Department of Homeland Security system that involves personally identifiable information, that the Secretary of Homeland Security determines is likely to result in demonstrable harm to the national security interests, foreign relations, or the economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States;
+
+  (C) a cyber incident, or collection of related cyber incidents, that the President determines is likely to result in demonstrable harm to the national security interests, foreign relations, or economy of the United States or to the public confidence, civil liberties, or public health and safety of the people of the United States; or
+
+  (D) a significant incident declared pursuant to section 2233 of the Homeland Security Act of 2002 ([6 U.S.C. 677b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section677b&num=0&edition=prelim)).
+
+(2) The term “Individual Ready Reserve mobilization category” means, in the case of any reserve component, the category of the Individual Ready Reserve described in [section 10144(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section10144/b&num=0&edition=prelim).
+
+(3) The term “weapon of mass destruction” has the meaning given that term in section 1403 of the Defense Against Weapons of Mass Destruction Act of 1996 ([50 U.S.C. 2302(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2302/1&num=0&edition=prelim)).
 
 ### Statutory Notes
 
 #### References in Text
-The War Powers Resolution, referred to in subsec. (h), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
+The War Powers Resolution, referred to in subsec. (i), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Resolution to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2023—Subsec. (a). Pub. L. 118–31, § 1532(1), struck out “for any named operational mission” after “active forces”.
+
+Subsec. (c). Pub. L. 118–31, § 1532(3), added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 118–31, § 1532(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(1). Pub. L. 118–31, § 1532(4), inserted “or subsection (c)” after “subsection (b)”.
+
+Subsecs. (e), (f). Pub. L. 118–31, § 1532(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively. Former subsec. (f) redesignated (g).
+
+Subsec. (g). Pub. L. 118–31, § 1532(2), (5), redesignated subsec. (f) as (g) and inserted “or subsection (c)” after “subsection (a)”. Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 118–31, § 1532(2), (6), redesignated subsec. (g) as (h) and amended it generally. Prior to amendment, text read as follows: “Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
+
+“(1) order of the President, or
+
+“(2) law.”
+
+Former subsec. (h) redesignated (i).
+
+Subsecs. (i), (j). Pub. L. 118–31, § 1532(2), redesignated subsecs. (h) and (i) as (i) and (j), respectively. Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 118–31, § 1532(7), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+
+Pub. L. 118–31, § 1532(2), redesignated subsec. (j) as (k).
+
 2018—Subsec. (c)(1). Pub. L. 115–232 substituted “chapter 13” for “chapter 15”.
 
 2011—Subsec. (a). Pub. L. 112–81 inserted “named” before “operational mission” and substituted “365 consecutive days” for “365 days”.
@@ -432,7 +506,7 @@ Subsec. (i). Pub. L. 99–661, § 521(b), added subsec. (i).
 1980—Subsec. (c). Pub. L. 96–584 substituted “100,000” for “50,000”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1994 Amendment
 Amendment by sections 1662(e)(2) and 1675(c)(2) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
@@ -545,11 +619,15 @@ Donald J. Trump.
 
 **(b) Limitations.—**
 
-(1) Units may be ordered to active duty under this section only if—
+(1)
 
-  (A) the manpower and associated costs of such active duty are specifically included and identified in the defense budget materials for the fiscal year or years in which such units are anticipated to be ordered to active duty; and
+  (A) Except as provided under subparagraph (B), units may be ordered to active duty under this section only if—
 
-  (B) the budget information on such costs includes a description of the mission for which such units are anticipated to be ordered to active duty and the anticipated length of time of the order of such units to active duty on an involuntary basis.
+    (i) the manpower and associated costs of such active duty are specifically included and identified in the defense budget materials for the fiscal year or years in which such units are anticipated to be ordered to active duty; and
+
+    (ii) the budget information on such costs includes a description of the mission for which such units are anticipated to be ordered to active duty and the anticipated length of time of the order of such units to active duty on an involuntary basis.
+
+  (B) In the event the President’s budget is delivered later than April 1st in the year prior to the year of the mobilization of one or more units under this section, the Secretary concerned may submit to Congress the information required under subparagraph (A) in a separate notice.
 
 (2) Not more than 60,000 members of the reserve components of the armed forces may be on active duty under this section at any one time.
 
@@ -585,6 +663,8 @@ Donald J. Trump.
 The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov. 7, 1973, 87 Stat. 555, which is classified generally to chapter 33 (§ 1541 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1541 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1541&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2023—Subsec. (b)(1). Pub. L. 118–31 substituted “(A) Except as provided under subparagraph (B), units” for “Units”, redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
 2013—Subsec. (i). Pub. L. 112–239 substituted “section 231(f)(2)” for “section 231(g)(2)”.
 
 
@@ -912,10 +992,10 @@ In subsection (c), the words “for the armed forces under his jurisdiction” a
 1980—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12312"></a>
@@ -1189,7 +1269,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 Amendment by sections 1662(e)(2) and 1675(c)(11) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1625 of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date
-Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Section effective Sept. 15, 1981, but the authority to prescribe regulations under this section effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as an Effective Date of 1980 Amendment note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12321"></a>

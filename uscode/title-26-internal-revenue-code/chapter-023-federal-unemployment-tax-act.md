@@ -281,7 +281,7 @@ then, for the calendar year in which the acquisition takes place, in addition to
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (c)(2), (f)(2)(D), (5)(A)(i), (8)(B), and (g)(2)(A), (B), (3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XII of the Social Security Act is classified generally to subchapter XII (§ 1321 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 901(d)(1) and 1202(b)(8)(B) of the Social Security Act are classified to sections 1101(d)(1) and 1322(b)(8)(B), respectively, of Title 42. For complete classification of this act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (c)(2), (f)(2)(D), (5)(A)(i), (8)(B), and (g)(2)(A), (B), (3)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XII of the Social Security Act is classified generally to subchapter XII (§ 1321 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. Sections 901(d)(1) and 1202(b)(8)(B) of the Social Security Act are classified to sections 1101(d)(1) and 1322(b)(8)(B), respectively, of Title 42. For complete classification of this act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 239 of the Trade Act of 1974, referred to in subsec. (c)(3)(A), (B), is classified to subsec. (c)(3) of this section and to [section 2311 of Title 19](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title19-section2311&num=0&edition=prelim), Customs Duties.
 
@@ -691,7 +691,7 @@ then such provision shall be applied by taking into account for each such portio
 #### References in Text
 The Social Security Act, referred to in subsec. (a)(4)(B), (D), (15)(A)(i)(II), (16)(A), (B), (17), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Part A of title IV and title XII of the Act are classified generally to part A (§ 601 et seq.) of subchapter IV and subchapter XII (§ 1321 et seq.), respectively, of chapter 7 of Title 42. Sections 303(g), 453(i), and 903(c)(2), (d)(4) of the Act are classified to sections 503(g), 653(i), and 1103(c)(2), (d)(4), respectively, of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(11) and (c), is Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, as amended, which is set out as a note below.
+The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsecs. (a)(11) and (c), is Pub. L. 91–373, title II, Aug. 10, 1970, 84 Stat. 708, which is set out as a note below.
 
 Section 212(d)(5) of the Immigration and Nationality Act, referred to in subsec. (a)(14)(A), is classified to [section 1182(d)(5) of Title 8](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1182/d/5&num=0&edition=prelim), Aliens and Nationality.
 
@@ -1573,7 +1573,7 @@ Sections 214(c) and 101(a)(15)(H) of the Immigration and Nationality Act, referr
 
 Sections 303(g), 903(c)(2), (d)(4), and 904(a) of the Social Security Act, referred to in subsecs. (f)(2), (4) and (t)(5), are classified to sections 503(g), 1103(c)(2), (d)(4), and 1104(a), respectively, of Title 42, The Public Health and Welfare.
 
-The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (o)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, as amended, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1801&num=0&edition=prelim) and Tables.
+The Migrant and Seasonal Agricultural Worker Protection Act, referred to in subsec. (o)(1)(A)(i), is Pub. L. 97–470, Jan. 14, 1983, 96 Stat. 2584, which is classified generally to chapter 20 (§ 1801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 1801 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1801&num=0&edition=prelim) and Tables.
 
 The Workforce Innovation and Opportunity Act, referred to in subsec. (v)(6), is Pub. L. 113–128, July 22, 2014, 128 Stat. 1425, which enacted chapter 32 (§ 3101 et seq.) of Title 29, Labor, repealed chapter 30 (§ 2801 et seq.) of Title 29 and chapter 73 (§ 9201 et seq.) of Title 20, Education, and made amendments to numerous other sections and notes in the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of Title 29](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section3101&num=0&edition=prelim) and Tables.
 

@@ -30,9 +30,9 @@ source: >-
 
   (B) make the report described in subparagraph (A) available to the public.
 
-**(b) Orphans and vulnerable children** For fiscal years 2009 through 2023, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
+**(b) Orphans and vulnerable children** For fiscal years 2009 through 2024 and fiscal year 2025 through March 25 of such fiscal year, not less than 10 percent of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) for HIV/AIDS assistance for each such fiscal year shall be expended for assistance for orphans and other children affected by, or vulnerable to, HIV/AIDS, of which such amount at least 50 percent shall be provided through non-profit, nongovernmental organizations, including faith-based organizations, that implement programs on the community level.
 
-**(c) Funding allocation** For each of the fiscal years 2009 through 2023, more than half of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) shall be expended for—
+**(c) Funding allocation** For each of the fiscal years 2009 through 2024 and for fiscal year 2025 through March 25 of such fiscal year, more than half of the amounts appropriated or otherwise made available to carry out the provisions of [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) shall be expended for—
 
 (1) antiretroviral treatment for HIV/AIDS;
 
@@ -60,6 +60,10 @@ source: >-
 This chapter, referred to in subsec. (a)(2)(A), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601) and Tables.
 
 #### Amendments
+2024—Subsec. (b). Pub. L. 118–47, § 7072(c)(1), substituted “2024 and fiscal year 2025 through March 25 of such fiscal year” for “2023”.
+
+Subsec. (c). Pub. L. 118–47, § 7072(c)(2), substituted “2024 and for fiscal year 2025 through March 25 of such fiscal year” for “2023” in introductory provisions.
+
 2018—Subsec. (b). Pub. L. 115–305, § 4(1), substituted “2023” for “2018”.
 
 Subsec. (c). Pub. L. 115–305, § 4(2), substituted “2023” for “2018” in introductory provisions.
@@ -757,7 +761,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 (1) **Oversight plan**
 
-  (A) *Development* — The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through 2023, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+  (A) *Development* — The Inspectors General of the Department of State and Broadcasting Board of Governors, the Department of Health and Human Services, and the United States Agency for International Development shall jointly develop coordinated annual plans for oversight activity in each of the fiscal years 2009 through March 25 of fiscal year 2025, with regard to the programs authorized under this chapter and sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
   (B) *Contents* — The plans developed under subparagraph (A) shall include a schedule for financial audits, inspections, and performance reviews, as appropriate.
 
@@ -773,7 +777,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
     (iii) *2014 plan* — The plan developed under subparagraph (A) for fiscal year 2014 shall be completed not later than 60 days after December 2, 2013.
 
-    (iv) *Subsequent plans* — Each of the last nine plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2023, respectively.
+    (iv) *Subsequent plans* — Each of the last eleven plans developed under subparagraph (A) shall be completed not later than 30 days before each of the fiscal years 2015 through 2025, respectively.
 
 (2) **Coordination** — In order to avoid duplication and maximize efficiency, the Inspectors General described in paragraph (1) shall coordinate their activities with—
 
@@ -785,7 +789,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 **(g) Annual study**
 
-(1) **In general** — Not later than September 30, 2009, and annually thereafter through September 30, 2024, the Global AIDS Coordinator shall complete a study of treatment providers that—
+(1) **In general** — Not later than September 30, 2009, and annually thereafter through March 25, 2025, the Global AIDS Coordinator shall complete a study of treatment providers that—
 
   (A) represents a range of countries and service environments;
 
@@ -799,7 +803,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
     (iii) other subcategories, as appropriate.
 
-(2) **2013 through 2024 studies** — The studies required to be submitted by September 30, 2014, and annually thereafter through September 30, 2024, shall include, in addition to the elements set forth under paragraph (1), the following elements:
+(2) **2013 through 2025 studies** — The studies required to be submitted by September 30, 2014, and annually thereafter through March 25, 2025, shall include, in addition to the elements set forth under paragraph (1), the following elements:
 
   (A) A plan for conducting cost studies of United States assistance under [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) in partner countries, taking into account the goal for more systematic collection of data, as well as the demands of such analysis on available human and fiscal resources.
 
@@ -825,6 +829,14 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 This chapter, referred to in subsecs. (c)(2)(B)(vi), (vii), (f)(1)(A), (g)(1)(B), and (h), was in the original “this Act”, meaning Pub. L. 108–25, May 27, 2003, 117 Stat. 711, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601) and Tables.
 
 #### Amendments
+2024—Subsec. (f)(1)(A). Pub. L. 118–47, § 7072(a)(1)(A), substituted “March 25 of fiscal year 2025” for “2023”.
+
+Subsec. (f)(1)(C)(iv). Pub. L. 118–47, § 7072(a)(1)(B), substituted “eleven” for “nine” and “2025” for “2023”.
+
+Subsec. (g)(1). Pub. L. 118–47, § 7072(a)(2)(A), substituted “March 25, 2025” for “September 30, 2024” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 118–47, § 7072(a)(2)(B), substituted “2025” for “2024” in heading and “March 25, 2025” for “September 30, 2024” in introductory provisions.
+
 2018—Subsec. (f)(1)(A). Pub. L. 115–305, § 2(1)(A), substituted “2023” for “2018”.
 
 Subsec. (f)(1)(C)(iv). Pub. L. 115–305, § 2(1)(B), substituted “nine” for “four” and “2023” for “2018”.
@@ -856,7 +868,7 @@ Subsecs. (d) to (f). Pub. L. 110–293, § 101(d), added subsecs. (d) to (f).
 Subsecs. (g), (h). Pub. L. 110–293, § 101(e), added subsecs. (g) and (h).
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Delegation of Certain Authority Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003
 For delegation of functions of President under this chapter to Secretary of State, see Delegation of Functions note set out under [section 7601 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7601).
@@ -1038,9 +1050,9 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
   (A)
 
-    (i) At any time during fiscal years 2004 through 2023, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
+    (i) At any time during fiscal years 2004 through March 25 of fiscal year 2025, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
-    (ii) If, at any time during any of the fiscal years 2009 through 2023, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 4605(j)(1) 22 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
+    (ii) If, at any time during any of the fiscal years 2009 through March 25 of fiscal year 2025, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 4605(j)(1) 22 See References in Text note below. of title 50, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
     (iii) If at any time the President determines that the expenses of the Governing, Administrative, and Advisory Bodies (including the Partnership Forum, the Foundation Board, the Secretariat, and the Technical Review Board) of the Global Fund exceed 10 percent of the total expenditures of the Fund for any 2-year period, the United States shall withhold from its contribution for the next fiscal year an amount equal the to the average annual amount expended by the Fund for such 2-year period for the expenses of the Governing, Administrative, and Advisory Bodies in excess of 10 percent of the total expenditures of the Fund.
 
@@ -1054,7 +1066,7 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
     (ii) Any amount made available that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out [section 2151b–2 of this title](./chapter-032-foreign-assistance.md#section-2151b-2) or section 2151b–3 or 2151b–4 of this title. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under [section 7671 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7671).
 
-    (iii) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2023, any amount made available that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+    (iii) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2024 and March 25 of fiscal year 2025, any amount made available that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
   (C)
 
@@ -1066,7 +1078,7 @@ Section was enacted as part of the Foreign Operations, Export Financing, and Rel
 
       (II) an explanation as to why other government donors to the Global Fund are unable to provide adequate contributions to the Fund.
 
-(5) **Withholding funds** — Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2023 shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
+(5) **Withholding funds** — Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2024 and for fiscal year 2025 through March 25 of such fiscal year shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
 
   (A) has established an evaluation framework for the performance of Local Fund Agents (referred to in this paragraph as “LFAs”);
 
@@ -1190,6 +1202,12 @@ This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was 
 [Section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim), referred to in subsec. (d)(4)(A)(ii), was repealed by Pub. L. 115–232, div. A, title XVII, § 1766(a), Aug. 13, 2018, 132 Stat. 2232. Provisions similar to those in former [section 4605(j)(1) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4605/j/1&num=0&edition=prelim) can be found in [section 4813(c)(1)(A) of title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4813/c/1/A&num=0&edition=prelim), as enacted by Pub. L. 115–232.
 
 #### Amendments
+2024—Subsec. (d)(4)(A)(i), (ii). Pub. L. 118–47, § 7072(b)(1)(A)(i), (ii), substituted “March 25 of fiscal year 2025” for “2023”.
+
+Subsec. (d)(4)(B)(iii). Pub. L. 118–47, § 7072(b)(1)(B), substituted “2024 and March 25 of fiscal year 2025” for “2023”.
+
+Subsec. (d)(5). Pub. L. 118–47, § 7072(b)(2), in introductory provisions, substituted “2024 and for fiscal year 2025 through March 25 of such fiscal year” for “2023”.
+
 2018—Subsec. (d)(4)(A)(i). Pub. L. 115–305, § 3(1)(A)(i), substituted “fiscal years 2004 through 2023” for “fiscal years 2009 through 2018”.
 
 Subsec. (d)(4)(A)(ii). Pub. L. 115–305, § 3(1)(A)(ii), substituted “2023” for “2018”.
@@ -1251,7 +1269,7 @@ Subsec. (d)(5), (6). Pub. L. 110–293, § 202(c)(3), added pars. (5) and (6).
 Subsec. (d)(4)(B)(iv). Pub. L. 108–199, § 595(2), added cl. (iv).
 
 #### Change of Name
-Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(22) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/22&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
+Broadcasting Board of Governors renamed United States Agency for Global Media pursuant to [section 6204(a)(21) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section6204/a/21&num=0&edition=prelim). The renaming was effectuated by notice to congressional appropriations committees dated May 24, 2018, and became effective Aug. 22, 2018.
 
 #### Delegation of Functions
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under [section 2381 of this title](./chapter-032-foreign-assistance.md#section-2381), and Memorandum of President of Feb. 23, 2004, 69 F.R. 9509, set out as a note under [section 7611 of this title](./chapter-083-united-states-leadership-against-hiv-aids-tuberculosis-and-malaria.md#section-7611).

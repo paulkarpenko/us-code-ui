@@ -128,7 +128,7 @@ Subsec. (i)(1). Pub. L. 114–328, § 820(a)(3)(A), substituted “subsection (h
 Subsec. (i)(3). Pub. L. 114–328, § 820(a)(3)(B), substituted “subsection (h)(2)” for “subsection (e)(2)”.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2016 Amendment
 Pub. L. 114–328, div. A, title VIII, § 820(d), Dec. 23, 2016, 130 Stat. 2276, provided that: “The amendments made by this section [enacting [section 190 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section190&num=0&edition=prelim), Armed Forces, and amending this section and [section 1502 of this title](./chapter-015-chapter-15.md#section-1502)] shall take effect on October 1, 2018.”
@@ -308,7 +308,7 @@ Section 719 of the Defense Production Act of 1950, referred to in subsec. (a), i
 <a id="section-1505"></a>
 ## § 1505. Examinations
 
-To determine whether a contractor or subcontractor has complied with cost accounting standards prescribed under this chapter and has followed consistently the contractor’s or subcontractor’s disclosed cost accounting practices, an authorized representative of the head of the agency concerned, of the offices of inspector general established under the Inspector General Act of 1978 (5 U.S.C. App.), or of the Comptroller General shall have the right to examine and copy documents, papers, or records of the contractor or subcontractor relating to compliance with the standards.
+To determine whether a contractor or subcontractor has complied with cost accounting standards prescribed under this chapter and has followed consistently the contractor’s or subcontractor’s disclosed cost accounting practices, an authorized representative of the head of the agency concerned, of the offices of inspector general established under chapter 4 of title 5, or of the Comptroller General shall have the right to examine and copy documents, papers, or records of the contractor or subcontractor relating to compliance with the standards.
 
 ### Statutory Notes
 
@@ -317,8 +317,8 @@ To determine whether a contractor or subcontractor has complied with cost accoun
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 1505 | 41:422(k). | Pub. L. 93–400, § 26(k), as added Pub. L. 100–679, § 5(a), Nov. 17, 1988, 102 Stat. 4062. |
 
-#### References in Text
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 4 of title 5,” for “the Inspector General Act of 1978 (5 U.S.C. App.),”.
 
 
 <a id="section-1506"></a>

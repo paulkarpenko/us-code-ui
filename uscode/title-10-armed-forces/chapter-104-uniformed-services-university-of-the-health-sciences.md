@@ -34,7 +34,7 @@ source: >-
 1979—Subsec. (b). Pub. L. 96–107 inserted provisions respecting the maximum number of first-year enrollments in the University.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Short Title
 Pub. L. 92–426, § 1, Sept. 21, 1972, 86 Stat. 713, provided: “That this Act [enacting this chapter and chapter 105 of this title] may be cited as the ‘Uniformed Services Health Professions Revitalization Act of 1972’.”
@@ -236,13 +236,16 @@ Pub. L. 98–36 added subsec. (j).
 Amendment by section 1883(b)(2) of Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Rule of Construction
 Pub. L. 116–283, div. A, title VII, § 714(b), Jan. 1, 2021, 134 Stat. 3694, provided that: “Nothing in [section 2113(g) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2113/g&num=0&edition=prelim), United States Code, as amended by subsection (a), shall be construed to limit the ability of the Secretary of Defense, in carrying out such section, to use competitive procedures to award contracts, cooperative agreements, or grants.”
 
 #### Transfer of Functions
 Pub. L. 101–511, title VIII, § 8091, Nov. 5, 1990, 104 Stat. 1896, provided that: “Notwithstanding any other provision of law, all authority of the Board of Regents of the Uniformed Services University of the Health Sciences is hereby transferred to the Secretary of Defense, and the Board hereafter shall be an advisory board to the Secretary of Defense.”
+
+#### Certification Program in Provision of Mental Health Services to Members of the Armed Forces and Military Families
+Pub. L. 117–263, div. A, title VII, § 738, Dec. 23, 2022, 136 Stat. 2675, provided that: “(a) In General.—The Secretary of Defense, in consultation with the President of the Uniformed Services University of the Health Sciences, shall develop a curriculum and certification program to provide civilian mental health professionals and students in mental health-related disciplines with the specialized knowledge and skills necessary to address the unique mental health needs of members of the Armed Forces and military families. “(b) Implementation.—Not later than 90 days after completing the development of the curriculum and certification program under subsection (a), the Secretary of Defense shall implement such curriculum and certification program in the Uniformed Services University of the Health Sciences. “(c) Authority to Disseminate Best Practices.—The Secretary of Defense may disseminate best practices based on the curriculum and certification program developed and implemented under this section to other institutions of higher education, as such term is defined in section 102 of the Higher Education Act of 1965 ([20 U.S.C. 1002](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1002&num=0&edition=prelim)). “(d) Termination.—The authority to carry out the curriculum and certification program under this section shall terminate on the date that is five years after the date of the enactment of this Act [Dec. 23, 2022]. “(e) Briefing.—Not later than 180 days after the termination date specified in subsection (d), the Secretary of Defense shall provide to the Committees on Armed Services of the House of Representatives and the Senate a briefing on the results of the curriculum and certification program developed and implemented under this section.”
 
 
 <a id="section-2113a"></a>
@@ -424,7 +427,7 @@ Pub. L. 101–510, div. A, title V, § 533(d), Nov. 5, 1990, 104 Stat. 1564, pro
 Pub. L. 101–189, div. A, title V, § 511(e), Nov. 29, 1989, 103 Stat. 1439, as amended by Pub. L. 101–510, div. A, title V, § 533(c), Nov. 5, 1990, 104 Stat. 1564, provided that: “The amendments made by this section [amending this section and sections 4348, 6959, and 9348 of this title] shall apply to persons who are first admitted to one of the military service academies after December 31, 1991.”
 
 #### Effective Date of 1980 Amendment
-Amendment by section 114 of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by section 114 of Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 Amendment by section 511(65) of Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513.
 

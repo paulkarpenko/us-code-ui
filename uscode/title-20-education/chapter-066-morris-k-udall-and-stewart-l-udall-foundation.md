@@ -48,6 +48,9 @@ The Congress finds that—
 
 2009—Pars. (5) to (8). Pub. L. 111–90 added pars. (5) to (8).
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–47, div. G, title II, § 201, Mar. 23, 2024, 138 Stat. 858, provided that: “This title [amending sections 5606 and 5609 of this title] may be cited as the ‘Udall Foundation Reauthorization Act of 2024’.”
+
 #### Short Title of 2009 Amendment
 Pub. L. 111–90, § 1, Nov. 3, 2009, 123 Stat. 2976, provided that: “This Act [amending this section, sections 5602, 5603, 5605 to 5607, 5607b, and 5608 of this title, and provisions set out as note under this section] may be cited as the ‘Morris K. Udall Scholarship and Excellence in National Environmental Policy Amendments Act of 2009’.”
 
@@ -393,16 +396,18 @@ Pub. L. 116–94, div. P, title III, § 302(c), Dec. 20, 2019, 133 Stat. 3187, p
 
 **(b) Investment of Trust Fund assets**
 
-(1) **11 So in original. No par. (2) has been enacted. In general.—** — It shall be the duty of the Secretary of the Treasury to invest, at the direction of the Foundation Board, in full the amounts appropriated to the Trust Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the Trust Fund. Investments in public debt securities shall bear interest “at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States” of comparable maturity.
+(1) **11 So in original. No par. (2) has been enacted. In general.—** — It shall be the duty of the Secretary of the Treasury to invest, at the direction of the Foundation Board, in full the amounts appropriated to the Trust Fund. Such investments shall be in public debt securities with maturities suitable to the needs of the Trust Fund. Investments in public debt securities shall bear interest “at rates determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding marketable obligations of the United States” of comparable maturity. Beginning on October 1, 2023, and thereafter, interest earned from investments made with any new appropriations to the Trust Fund shall only be available subject to appropriations and is authorized to be appropriated to carry out the provisions of this chapter.
 
 ### Statutory Notes
 
 #### Amendments
+2024—Subsec. (b)(1). Pub. L. 118–47 inserted at end “Beginning on October 1, 2023, and thereafter, interest earned from investments made with any new appropriations to the Trust Fund shall only be available subject to appropriations and is authorized to be appropriated to carry out the provisions of this chapter.”
+
 2009—Pub. L. 111–90 substituted “and Stewart L. Udall” for “Scholarship and Excellence in National Environmental Policy” in section catchline and in subsec. (a).
 
 1998—Subsec. (a). Pub. L. 105–156, § 9(a), substituted “The Trust Fund” for “The fund” and “5609(a)” for “5609”.
 
-Subsec. (b). Pub. L. 105–156, § 9(b), substituted “Trust Fund” for “Fund” in two places.
+Subsec. (b)(1). Pub. L. 105–156, § 9(b), substituted “Trust Fund” for “Fund” in two places.
 
 
 <a id="section-5607"></a>
@@ -508,17 +513,16 @@ A prior section 10 of Pub. L. 102–259 was renumbered section 12 and is classif
 
 (2) **Payment into the environmental dispute resolution fund.—** — Entities utilizing services pursuant to this subsection shall reimburse the National Center for the costs of services provided. Such amounts shall be deposited into the Environmental Dispute Resolution Fund established under [section 5607a of this title](./chapter-066-morris-k-udall-and-stewart-l-udall-foundation.md#section-5607a).
 
-**(f) Agency management or control** Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of the Federal Advisory Committee Act (5 U.S.C. App.).
+**(f) Agency management or control** Use of the Foundation or National Center to provide independent and impartial assessment, mediation, or other dispute or conflict resolution under this section shall not be considered to be the establishment or use of an advisory committee within the meaning of chapter 10 of title 5.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 11 of Pub. L. 102–259 was renumbered section 13 and is classified to [section 5609 of this title](./chapter-066-morris-k-udall-and-stewart-l-udall-foundation.md#section-5609).
 
 #### Amendments
+2022—Subsec. (f). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
 2019—Pub. L. 116–94, § 307(1), substituted “the National Center” for “the Institute” in section catchline.
 
 Subsec. (a). Pub. L. 116–94, § 307(2), substituted “National Center” for “Institute” and “resources, or with a Federal, State, or tribal process or procedure that may result in a dispute or conflict.” for “resources.” and inserted “collaboration,” after “mediation,”.
@@ -593,22 +597,25 @@ Subsec. (a)(7), (8). Pub. L. 111–90, § 10(2)–(4), added par. (7) and redesi
 
 <a id="section-5609"></a>
 ## § 5609. Authorization of appropriations
-**(a) Trust Fund** There is authorized to be appropriated to the Trust Fund $2,000,000 for each of fiscal years 2020 through 2023 to carry out the provisions of this chapter.
+**(a) Trust Fund** There is authorized to be appropriated to the Trust Fund $2,000,000 for each of fiscal years 2020 through 2029 to carry out the provisions of this chapter.
 
-**(b) Environmental Dispute Resolution Fund** There is authorized to be appropriated to the Environmental Dispute Resolution Fund established by [section 5607a of this title](./chapter-066-morris-k-udall-and-stewart-l-udall-foundation.md#section-5607a) $4,000,000 for each of fiscal years 2020 through 2023, of which—
+**(b) Environmental Dispute Resolution Fund** There is authorized to be appropriated to the Environmental Dispute Resolution Fund established by [section 5607a of this title](./chapter-066-morris-k-udall-and-stewart-l-udall-foundation.md#section-5607a) $4,000,000 for each of fiscal years 2020 through 2029, of which—
 
 (1) $3,000,000 shall be used to pay operations costs (including not more than $1,000 for official reception and representation expenses); and
 
 (2) $1,000,000 shall be used for grants or other appropriate arrangements to pay the costs of services provided in a neutral manner relating to, and to support the participation of non-Federal entities (such as State and local governments, tribal governments, nongovernmental organizations, and individuals) in, environmental conflict resolution proceedings involving Federal agencies.
 
-**(c) Training of professionals in health care and public policy** There is authorized to be appropriated to carry out [section 5604(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/7&num=0&edition=prelim) $12,300,000 for the 5-fiscal year period beginning with the fiscal year in which this subsection is enacted.
+**(c) Training of professionals in health care and public policy** There is authorized to be appropriated to carry out [section 5604(7) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section5604/7&num=0&edition=prelim) $12,300,000 for the 5-fiscal year period beginning with fiscal year 2025.
 
 ### Statutory Notes
 
-#### References in Text
-This subsection, referred to in subsec. (c), was enacted by Pub. L. 106–568, which was approved Dec. 27, 2000.
-
 #### Amendments
+2024—Subsec. (a). Pub. L. 118–47, § 203(1), substituted “2029” for “2023”.
+
+Subsec. (b). Pub. L. 118–47, § 203(2), substituted “2029” for “2023” in introductory provisions.
+
+Subsec. (c). Pub. L. 118–47, § 203(3), substituted “5-fiscal year period beginning with fiscal year 2025.” for “5-fiscal year period beginning with the fiscal year in which this subsection is enacted.”
+
 2019—Subsec. (a). Pub. L. 116–94, § 309(1), substituted “$2,000,000 for each of fiscal years 2020 through 2023” for “$40,000,000”.
 
 Subsec. (b). Pub. L. 116–94, § 309(2), substituted “fiscal years 2020 through 2023” for “fiscal years 2004 through 2008”.

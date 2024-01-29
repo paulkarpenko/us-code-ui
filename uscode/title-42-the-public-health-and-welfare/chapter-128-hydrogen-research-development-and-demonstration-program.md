@@ -170,7 +170,7 @@ This chapter, the first time appearing in subsec. (a)(2), was in the original �
 1996—Subsec. (d)(3). Pub. L. 104–271 struck out par. (3) which read as follows: “comments on and recommendations for improvements in the comprehensive 5-year program management plan required under [section 12402 of this title](./chapter-128-hydrogen-research-development-and-demonstration-program.md#section-12402).”
 
 #### Termination of Advisory Panels
-Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory panels established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a panel established by the President or an officer of the Federal Government, such panel is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a panel established by Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-12408"></a>

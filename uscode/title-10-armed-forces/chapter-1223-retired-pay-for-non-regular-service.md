@@ -150,7 +150,7 @@ Subsec. (e). Pub. L. 96–513, § 511(47)(B), struck out “United States Code,�
 Subsec. (c). Pub. L. 85–704 made persons who performed active duty (other than for training) after June 26, 1950, and before July 28, 1953, eligible for retired pay under this chapter.
 
 #### Effective Date of 2013 Amendment
-Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under [section 3713 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim), Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to this section, [section 701 of this title](./chapter-040-leave.md#section-701), and [section 5538 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), Government Organization and Employees, see section 681(d) of Pub. L. 112–239, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 112–239 applicable to call or order to active duty authorized under [section 3713 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section3713&num=0&edition=prelim), Coast Guard, after Dec. 31, 2011, and deemed to have been enacted on Dec. 31, 2011, for purposes of applying the amendment to this section, [section 701 of this title](./chapter-040-leave.md#section-701), and [section 5538 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5538&num=0&edition=prelim), Government Organization and Employees, see section 681(d) of Pub. L. 112–239, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 2004 Amendment
 Amendment by Pub. L. 108–375 effective on the first day of the first month beginning more than 180 days after Oct. 28, 2004, see section 501(g) of Pub. L. 108–375, set out as a note under [section 531 of this title](./chapter-033-original-appointments-of-regular-officers-in-grades-above-warrant-officer-grades.md#section-531).
@@ -158,7 +158,7 @@ Amendment by Pub. L. 108–375 effective on the first day of the first month beg
 #### Effective Date of 2002 Amendments
 Pub. L. 107–314, div. A, title VI, § 631(c), Dec. 2, 2002, 116 Stat. 2572, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on October 1, 2002. No benefit shall accrue to any person for any period before that date by reason of the enactment of those amendments.”
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
@@ -173,7 +173,7 @@ Pub. L. 101–189, div. A, title XIV, § 1404(b)(3), Nov. 29, 1989, 103 Stat. 15
 Pub. L. 98–94, title IX, § 924(b), Sept. 24, 1983, 97 Stat. 644, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to retired pay payable for months beginning after September 30, 1983, or the date of the enactment of this Act [Sept. 24, 1983], whichever is later.”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–397 applicable to notifications after Sept. 30, 1978, see section 210(b) of Pub. L. 95–397, set out as a note under [section 1447 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1447).
@@ -182,7 +182,7 @@ Amendment by Pub. L. 95–397 applicable to notifications after Sept. 30, 1978, 
 Amendment by Pub. L. 90–485 effective Aug. 13, 1968, see section 6 of Pub. L. 90–485, set out as a note under [section 1431 of this title](./chapter-073-annuities-based-on-retired-or-retainer-pay.md#section-1431).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Administration of Related Provisions of Law or Policy
 Pub. L. 110–181, div. A, title VI, § 647(c), Jan. 28, 2008, 122 Stat. 161, provided that: “With respect to any provision of law, or of any policy, regulation, or directive of the executive branch that refers to a member or former member of the uniformed services as being eligible for, or entitled to, retired pay under chapter 1223 of title 10, United States Code, but for the fact that the member or former member is under 60 years of age, such provision shall be carried out with respect to that member or former member by substituting for the reference to being 60 years of age a reference to having attained the eligibility age applicable under subsection (f) of [section 12731 of title 10](./chapter-1223-retired-pay-for-non-regular-service.md#section-12731), United States Code (as added by subsection (a)), to such member or former member for qualification for such retired pay under subsection (a) of such section.”
@@ -261,7 +261,7 @@ Subsec. (c)(1). Pub. L. 103–160, § 564(c)(2), struck out “of the military d
 Subsec. (e). Pub. L. 103–160, § 564(c)(3), inserted before period at end “and by the Secretary of Transportation with respect to the Coast Guard”.
 
 #### Effective Date of 2002 Amendment
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1996 Amendment
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under [section 113 of this title](./chapter-002-department-of-defense.md#section-113).
@@ -410,12 +410,17 @@ Subsection (b)(6) is inserted for clarity since 10:1036a and 34:440i were limite
 #### 1958 Act
 The word “full-time” is inserted for clarity. The other change reflects the opinion of the Judge Advocate General of the Army (JAGA 1956/1908, Feb. 13, 1956) that duty performed under section 92 of the National Defense Act, the source statute for [section 502 of title 32](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502&num=0&edition=prelim), was creditable in determining entitlement to retired pay under section 302 of the Army and Air Force Vitalization and Retirement Equalization Act of 1948 (62 Stat. 1087), the source statute for [section 1332 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1332&num=0&edition=prelim).
 
+#### Amendment of Subsection (a)(2)(G)
+Pub. L. 118–31, div. A, title VI, § 601(c), (e), Dec. 22, 2023, 137 Stat. 289, provided that, effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, subsection (a)(2)(G) of this section is amended by striking “12 per period” and all that follows through the end of the sentence and inserting “1 per inactive-duty training period, under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim), during which the member is on parental leave under [section 711 of this title](./chapter-041-special-appointments-assignments-details-and-duties.md#section-711).” See 2023 Amendment note below.
+
 #### References in Text
 Act of December 22, 1942, referred to in subsec. (a)(1)(I), is act Dec. 22, 1942, ch. 805, 56 Stat. 1072, which amended section 164 of former Title 10, Army and Air Force, and enacted provisions set out as notes under section 81 of former Title 10 and section 113 of former Title 37, Pay and Allowances, and was repealed as executed, by act Aug. 10, 1956, ch. 1041, § 53, 70A Stat. 641.
 
 Women’s Medical Specialist Corps, referred to in subsec. (a)(1)(J)(ii), redesignated Army Medical Specialist Corps by Pub. L. 85–155, Aug. 21, 1957, 71 Stat. 375. See [section 3070 of this title](./chapter-203-general-matters.md#section-3070). See, also, act Aug. 9, 1955, ch. 654, 69 Stat. 579.
 
 #### Amendments
+2023—Subsec. (a)(2)(G). Pub. L. 118–31 substituted “1 per inactive-duty training period, under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim), during which the member is on parental leave under [section 711 of this title](./chapter-041-special-appointments-assignments-details-and-duties.md#section-711).” for “12 per period during which the member is on maternity leave.”
+
 2021—Subsec. (a)(2). Pub. L. 116–283, § 602(b)(4)(B), substituted “(F), and (G)” for “and (F)” in concluding provisions.
 
 Pub. L. 116–283, § 516(a)(2), substituted “(E), and (F)” for “and (E)” in concluding provisions.
@@ -446,6 +451,9 @@ Subsec. (b)(6), (7). Pub. L. 86–197, § 1(3), added par. (6), redesignated for
 
 1958—Subsec. (a). Pub. L. 85–861 substituted “full-time service under” for “service under”, and inserted reference to [section 502 of this title](./chapter-031-enlistments.md#section-502) in cl. (2)(A)(ii).
 
+#### Effective Date of 2023 Amendment
+Amendment by Pub. L. 118–31 effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, see section 601(e) of Pub. L. 118–31, set out as a note under [section 711 of this title](./chapter-041-special-appointments-assignments-details-and-duties.md#section-711).
+
 #### Effective Date of 2021 Amendment
 Pub. L. 116–283, div. A, title VI, § 602(c), Jan. 1, 2021, 134 Stat. 3671, provided that: “This section [amending this section, [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733), and [section 206 of Title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim), Pay and Allowances of the Uniformed Services, and enacting provisions set out as a note below] and the amendments made by this section shall take effect on the date of the enactment of this Act [Jan. 1, 2021], and shall apply with respect to periods of maternity leave that commence on or after that date.”
 
@@ -453,19 +461,27 @@ Pub. L. 116–283, div. A, title VI, § 602(c), Jan. 1, 2021, 134 Stat. 3671, pr
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1964 Amendment
 Pub. L. 88–636, § 2, Oct. 8, 1964, 78 Stat. 1034, provided that: “The amendments made by this Act [amending this section] shall apply to any period before enactment of this Act [Oct. 8, 1964] during which the Commissioned Corps of the Public Health Service has had the status of a military service, and to any period before enactment of this Act during which commissioned personnel of the Coast and Geodetic Survey were transferred to the service and jurisdiction of a military department.”
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33 (g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33 (g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Savings Provision
 Pub. L. 86–197, § 3, Aug. 25, 1959, 73 Stat. 426, provided that: “This Act [amending this section and sections 3683, 3926, 6324, 8683 and 8926 of this title and enacting provisions set out as notes under sections 1431 and 3441 of this title] does not deprive any person of any service credit to which he was entitled on the day before the effective date of this Act [Aug. 25, 1959].”
 
 #### Credit for Retired Pay Purposes
-Pub. L. 116–283, div. A, title VI, § 602(b)(1)–(3), Jan. 1, 2021, 134 Stat. 3670, 3671, provided that: “(1) In general.—The period of maternity leave taken by a member of the reserve components of the Armed Forces in connection with the birth of a child shall count toward the member’s entitlement to retired pay, and in connection with the years of service used in computing retired pay, under chapter 1223 of title 10, United States Code, as 12 points. “(2) Separate credit for each period of leave.—Separate crediting of points shall accrue to a member pursuant to this subsection for each period of maternity leave taken by the member in connection with a childbirth event. “(3) When credited.—Points credited a member for a period of maternity leave pursuant to this subsection shall be credited in the year in which the period of maternity leave concerned commences.”
+Pub. L. 116–283, div. A, title VI, § 602(b)(1)–(3), Jan. 1, 2021, 134 Stat. 3670, 3671, as amended by Pub. L. 118–31, div. A, title VI, § 601(d), Dec. 22, 2023, 137 Stat. 289, provided that: “(1) In general.—The period of maternity leave taken by a member of the reserve components of the Armed Forces in connection with the birth of a child shall count toward the member’s entitlement to retired pay, and in connection with the years of service used in computing retired pay, under chapter 1223 of title 10, United States Code, as 12 points. “(2) Separate credit for each period of leave.—Separate crediting of points shall accrue to a member pursuant to this subsection for each period of maternity leave taken by the member in connection with a childbirth event. “(3) When credited.—Points credited a member for a period of maternity leave pursuant to this subsection shall be credited in the year in which the period of maternity leave concerned commences.”
+
+[Pub. L. 118–31, div. A, title VI, § 601(d), (e), Dec. 22, 2023, 137 Stat. 289, provided that, effective on Oct. 1, 2024, and applicable with respect to periods of parental leave that commence on or after such date, section 602(b) of Pub. L. 116–283, set out above, is amended:
+
+[(1) in paragraph (1), by striking “maternity leave” and all that follows through “birth of a child” and inserting “parental leave described in [section 12732(a)(2)(G) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2/G&num=0&edition=prelim), United States Code, taken by a member of the reserve components of the Armed Forces”;
+
+[(2) in paragraph (2), by striking “maternity leave” and all that follows through “childbirth event” and inserting “parental leave taken by the member”; and
+
+[(3) in paragraph (3), by striking “maternity leave” each place it appears and inserting “parental leave”.]
 
 #### Tracking System and Recommendations to Congress Relating to Award of Retirement Points
 Pub. L. 104–201, div. A, title V, § 531(b), (c), Sept. 23, 1996, 110 Stat. 2517, 2518, provided that: “(b) Tracking System for Award of Retirement Points.—To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) [amending [section 12733 of this title](./chapter-1223-retired-pay-for-non-regular-service.md#section-12733)] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation. “(c) Recommendations to Congress.—The Secretary shall submit to Congress, not later than one year after the date of the enactment of this Act [Sept. 23, 1996], the recommendations of the Secretary with regard to the adoption of the following Reserve retirement initiatives recommended in the August 1988 report of the Sixth Quadrennial Review of Military Compensation:“(1) Elimination of membership points under subparagraph (C) of [section 12732(a)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12732/a/2&num=0&edition=prelim), United States Code, in conjunction with a decrease from 50 to 35 in the number of points required for a satisfactory year under that section. “(2) Limitation to 60 in any year on the number of points that may be credited under subparagraph (B) of section 12732(a)(2) of such title at two points per day. “(3) Limitation to 360 in any year on the total number of retirement points countable for purposes of section 12733 of such title.”
@@ -556,7 +572,7 @@ Pub. L. 105–85, div. A, title X, § 1073(c), Nov. 18, 1997, 111 Stat. 1904, pr
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12734"></a>

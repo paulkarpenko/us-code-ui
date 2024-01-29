@@ -2,7 +2,7 @@
 title: 14
 chapter: '7'
 heading: COOPERATION
-section_count: 20
+section_count: 21
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -527,7 +527,7 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)�
 
   (A) transactions (other than contracts, cooperative agreements, and grants) in carrying out basic, applied, and advanced research projects; and
 
-  (B) agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under [section 2371b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371b&num=0&edition=prelim) to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard’s cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
+  (B) agreements with the Director of the Defense Advanced Research Projects Agency, the Secretary of a military department, or any other official designated by the Secretary of Defense under section 2371b 11 See References in Text note below. of title 10 to participate in prototype projects and follow-on production contracts or transactions that are being carried out by such official and are directly relevant to the Coast Guard’s cyber capability and Command, Control, Communications, Computers, and intelligence initiatives.
 
 (2) **Additional authority.—** — The authority under this subsection is in addition to the authority provided in section 717 to use contracts, cooperative agreements, and grants in carrying out such projects.
 
@@ -547,9 +547,9 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)�
 
 **(c) Conditions.—**
 
-(1) **In general.—** — The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),11 So in original. Probably should be “subsection (b)(1)”. and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
+(1) **In general.—** — The Commandant shall ensure that to the extent that the Commandant determines practicable, no cooperative agreement containing a clause described in subsection (c)(1),22 So in original. Probably should be “subsection (b)(1)”. and no transaction entered into under subsection (a), provides for research that duplicates research being conducted under existing programs carried out by the Coast Guard.
 
-(2) **Other agreements not feasible.—** — A cooperative agreement containing a clause described in subsection (c)(1),1 or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
+(2) **Other agreements not feasible.—** — A cooperative agreement containing a clause described in subsection (c)(1),2 or under a transaction authorized by subsection (a), may be used for a research project only if the use of a standard contract, grant, or cooperative agreement for such project is not feasible or appropriate.
 
 **(d) Education and Training.—** The Commandant shall—
 
@@ -586,6 +586,11 @@ Subsec. (b). Pub. L. 115–282, § 123(b)(2), substituted “section 504(a)(4)�
 (4) the research project for which the product or service was required; and
 
 (5) the extent of the cost sharing among Federal Government and non-Federal sources.
+
+### Statutory Notes
+
+#### References in Text
+[Section 2371b of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2371b&num=0&edition=prelim), referred to in subsec. (a)(1)(B), was renumbered [section 4022 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4022&num=0&edition=prelim) by Pub. L. 116–283, div. A, title XVIII, § 1841(b)(1), Jan. 1, 2021, 134 Stat. 4243, as amended by Pub. L. 117–81, div. A, title XVII, § 1701(u)(2)(B), Dec. 27, 2021, 135 Stat. 2151.
 
 
 <a id="section-720"></a>
@@ -717,3 +722,22 @@ Section 798, added Pub. L. 91–402, § 1(13), Sept. 18, 1970, 84 Stat. 843, rel
 
 #### Amendments
 2021—Pub. L. 116–283 redesignated section 406 of Pub. L. 107–295 as this section and made technical changes to conform this section to other sections of this title. See Codification note above.
+
+
+<a id="section-721"></a>
+## § 721. Responses to safety recommendations
+**(a) In General.—** Not later than 90 days after the National Transportation Safety Board submits to the Commandant a recommendation, and supporting justification for such recommendation, relating to transportation safety, the Commandant shall submit to the National Transportation Safety Board a written response to the recommendation, including whether the Commandant—
+
+(1) concurs with the recommendation;
+
+(2) partially concurs with the recommendation; or
+
+(3) does not concur with the recommendation.
+
+**(b) Explanation of Concurrence.—** The Commandant shall include in a response submitted under subsection (a)—
+
+(1) with respect to a recommendation with which the Commandant concurs or partially concurs, an explanation of the actions the Commandant intends to take to implement such recommendation or part of such recommendation; and
+
+(2) with respect to a recommendation with which the Commandant does not concur, the reasons the Commandant does not concur.
+
+**(c) Failure To Respond.—** If the National Transportation Safety Board has not received the written response required under subsection (a) by the end of the time period described in such subsection, the National Transportation Safety Board shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that such response has not been received.

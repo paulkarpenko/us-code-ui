@@ -14,7 +14,7 @@ source: >-
 
 (1) their actual expenses related to the work of the Commission;
 
-(2) when in a travel status outside the continental United States, a per diem at the rate authorized to be paid for members of the uniformed services under section 475 11 See References in Text note below. of title 37 instead of subsistence; and
+(2) when in a travel status outside the continental United States, a per diem at the rate authorized to be paid for members of the uniformed services under [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) instead of subsistence; and
 
 (3) when in a travel status in the continental United States, a per diem at the rate authorized to be paid under sections 5702 and 5703 of title 5 instead of subsistence.
 
@@ -36,10 +36,9 @@ In subsection (b), before clause (1), the text of 36:121 (last par.) is omitted 
 
 Subsection (c) is based on 36:122 which is from the 2d proviso in the paragraph under the heading “American Battle Monuments Commission” in title III of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997 (Public Law 104–204, 110 Stat. 2907). The provision has been repeated each year in prior appropriations acts and therefore is restated as a permanent provision. For prior provisions, see citations under 36:122 (1994 ed.). In the restatement, the words “in the same way as” are substituted for “as provided for” for clarity and consistency in the revised title.
 
-#### References in Text
-[Section 475 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section475&num=0&edition=prelim), referred to in subsec. (b)(2), was renumbered [section 405 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section405&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(a)(1), Jan. 1, 2021, 134 Stat. 3672.
-
 #### Amendments
+2022—Subsec. (b)(2). Pub. L. 117–263 substituted “section 405” for “section 475”.
+
 2013—Subsec. (b)(2). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
 2011—Subsec. (b)(2). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “475” for “405”.

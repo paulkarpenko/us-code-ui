@@ -2,7 +2,7 @@
 title: 40
 chapter: '157'
 heading: ADMINISTRATIVE PROVISIONS
-section_count: 9
+section_count: 10
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title40&num=0&edition=prelim
 ---
@@ -87,7 +87,7 @@ Section effective on the first day of the first fiscal year beginning after June
 
 <a id="section-15704"></a>
 ## § 15704. Inspector General; records
-**(a) Appointment of Inspector General.—** There shall be an Inspector General for the Commissions appointed in accordance with section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.). All of the Commissions shall be subject to a single Inspector General.
+**(a) Appointment of Inspector General.—** There shall be an Inspector General for the Commissions appointed in accordance with [section 403(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/a&num=0&edition=prelim). All of the Commissions shall be subject to a single Inspector General.
 
 **(b) Records of a Commission.—**
 
@@ -105,11 +105,11 @@ Section effective on the first day of the first fiscal year beginning after June
 
 ### Statutory Notes
 
-#### References in Text
-Section 3(a) of the Inspector General Act of 1978, referred to in subsec. (a), is section 3(a) of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
+
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “[section 403(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section403/a&num=0&edition=prelim).” for “section 3(a) of the Inspector General Act of 1978 (5 U.S.C. App.).”
 
 #### Effective Date
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under [section 15101 of this title](./chapter-151-general-provisions.md#section-15101).
@@ -193,6 +193,28 @@ Par. (4). Pub. L. 115–334, § 6304(d)(3), inserted “Addison, Bennington,” 
 
 #### Effective Date
 Section effective on the first day of the first fiscal year beginning after June 18, 2008, see section 14217(d) of Pub. L. 110–246, set out as a note under [section 15101 of this title](./chapter-151-general-provisions.md#section-15101).
+
+
+<a id="section-15734"></a>
+## § 15734. Great Lakes Authority
+
+The region of the Great Lakes Authority shall consist of areas in the watershed of the Great Lakes and the Great Lakes System (as such terms are defined in section 118(a)(3) of the Federal Water Pollution Control Act ([33 U.S.C. 1268(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1268/a/3&num=0&edition=prelim))), in each of the following States:
+
+(1) Illinois.
+
+(2) Indiana.
+
+(3) Michigan.
+
+(4) Minnesota.
+
+(5) New York.
+
+(6) Ohio.
+
+(7) Pennsylvania.
+
+(8) Wisconsin.
 
 
 <a id="section-15751"></a>

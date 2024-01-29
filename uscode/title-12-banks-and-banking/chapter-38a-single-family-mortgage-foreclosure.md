@@ -43,7 +43,7 @@ source: >-
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (b)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in subsec. (b)(1), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 [Section 1452b of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1452b&num=0&edition=prelim), referred to in subsec. (b)(2), was repealed by Pub. L. 101–625, title II, § 289(b)(1), Nov. 28, 1990, 104 Stat. 4128.
 
@@ -109,7 +109,7 @@ For purposes of this chapter, the following definitions shall apply:
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in par. (10)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246, as amended. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
+The National Housing Act, referred to in par. (10)(A), is act June 27, 1934, ch. 847, 48 Stat. 1246. Titles I and II of the Act are classified generally to subchapters I (§ 1702 et seq.) and II (§ 1707 et seq.), respectively, of chapter 13 of this title. For complete classification of this Act to the Code, see [section 1701 of this title](./chapter-013-national-housing.md#section-1701) and Tables.
 
 #### Codification
 Section is based on section 803 of title VIII of S. 2281, One Hundred Third Congress, as reported July 13, 1994, which was enacted into law by Pub. L. 103–327.

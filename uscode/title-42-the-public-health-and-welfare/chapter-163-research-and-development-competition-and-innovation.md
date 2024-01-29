@@ -2,7 +2,7 @@
 title: 42
 chapter: '163'
 heading: 'RESEARCH AND DEVELOPMENT, COMPETITION, AND INNOVATION'
-section_count: 144
+section_count: 145
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -40,9 +40,9 @@ source: >-
 
 (4) **Secretary** — The term “Secretary” means the Secretary of Energy.
 
-**(b) Establishment of Program**
+**(b) Establishment of program**
 
-(1) **In general** — The Secretary shall establish a program to provide Federal financial assistance to eligible entities to support the research, development, and demonstration of advanced nuclear reactors.
+(1) **In general** — The Secretary shall establish a program to provide Federal financial assistance to eligible entities to support the research, development, demonstration, and deployment of advanced nuclear reactors and associated supply chain infrastructure.
 
 (2) **Competitive procedures** — To the maximum extent practicable, the Secretary shall carry out the program using a competitive, merit-based review process that is consistent with [section 16353 of this title](./chapter-149-national-energy-policy-and-programs.md#section-16353).
 
@@ -87,6 +87,11 @@ source: >-
 (4) $225,000,000 for fiscal year 2026; and
 
 (5) $250,000,000 for fiscal year 2027.
+
+### Statutory Notes
+
+#### Amendments
+2023—Subsec. (b)(1). Pub. L. 118–31 substituted “demonstration, and deployment of advanced nuclear reactors and associated supply chain infrastructure” for “and demonstration of advanced nuclear reactors”.
 
 
 <a id="section-18911"></a>
@@ -691,7 +696,8 @@ Executive Order No. 13800, referred to in par. (3), is set out as a note precedi
 
 <a id="section-18939"></a>
 ## § 18939. Artificial intelligence
-**(a) In general** The Director shall continue to support the development of artificial intelligence and data science, and carry out the activities of the National Artificial Intelligence Initiative Act of 2020 authorized in division E of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283), including through—
+
+The Director shall continue to support the development of artificial intelligence and data science, and carry out the activities of the National Artificial Intelligence Initiative Act of 2020 authorized in division E of the National Defense Authorization Act for Fiscal Year 2021 (Public Law 116–283), including through—
 
 (1) expanding the Institute’s capabilities, including scientific staff and research infrastructure;
 
@@ -839,7 +845,7 @@ In accordance with [section 9303 of title 15](https://uscode.house.gov/view.xhtm
 
 (7) **Consultation** — In carrying out the pilot program established under this subsection, the Director shall consult with other Federal agencies, private sector organizations, institutions of higher education, and nonprofit organizations to help inform the pilot program, including the guidance developed under paragraph (5).
 
-(8) **Report to congress** — The Director shall brief Congress after the second year of the pilot program and each year following that includes the following:
+(8) **Report to Congress** — The Director shall brief Congress after the second year of the pilot program and each year following that includes the following:
 
   (A) An assessment of the effectiveness of the pilot program for improving the participation of United States small businesses, United States institutions of higher education, or other nonprofit research institutions in international standards organizations, including—
 
@@ -1466,6 +1472,9 @@ The Higher Education Act of 1965, referred to in subsec. (d)(13)(A), is Pub. L. 
 #### Codification
 Section is comprised of section 10313 of div. B of Pub. L. 117–167. Subsecs. (a)(1)(A) and (b)(2) of section 10313 of div. B of Pub. L. 117–167 amended sections 1862o and 1869 of this title, respectively.
 
+#### Change of Name
+Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-18995"></a>
 ## § 18995. STEM workforce data
@@ -1642,7 +1651,7 @@ The Director, acting through the National Center for Science and Engineering Sta
 ### Statutory Notes
 
 #### References in Text
-The Scientific and Advanced-Technology Act of 1992, referred to in subsec. (a)(5), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which is classified principally to section 1862h et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1861 of this title](./chapter-016-national-science-foundation.md#section-1861) and Tables.
+The Scientific and Advanced-Technology Act of 1992, referred to in subsec. (a)(5), is Pub. L. 102–476, Oct. 23, 1992, 106 Stat. 2297, which enacted sections 1862h to 1862j of this title and amended [section 1862 of this title](./chapter-016-national-science-foundation.md#section-1862). For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under [section 1861 of this title](./chapter-016-national-science-foundation.md#section-1861) and Tables.
 
 [Section 1862p–11 of this title](./chapter-016-national-science-foundation.md#section-1862p-11), referred to in subsec. (a)(6)(B), was in the original “section 522 of the America COMPETES Act of 2010”, and was translated as meaning section 522 of Pub. L. 111–358, the America COMPETES Reauthorization Act of 2010, to reflect the probable intent of Congress.
 
@@ -1946,7 +1955,7 @@ The Director shall make awards, on a competitive basis, to institutions of highe
 
   (C) actively used to implement the strategic plan under paragraph (1);
 
-(3) advising in the establishment of a strategic plan for diverse participation by individuals and institutions of higher education, including community colleges, historically Black colleges and universities, Tribal Colleges or Universities, minority serving institutions, institutions of higher education with an established STEM capacity building program focused on Native Hawaiians or Alaska Natives, and EPSCoR institutions);
+(3) advising in the establishment of a strategic plan for diverse participation by individuals and institutions of higher education, including community colleges, historically Black colleges and universities, Tribal Colleges or Universities, minority serving institutions, institutions of higher education with an established STEM capacity building program focused on Native Hawaiians or Alaska Natives, and EPSCoR institutions); 11 So in original. The closing parenthesis probably should not appear.
 
 (4) advising in the establishment of a strategic plan for outreach to, and recruiting from, untapped locations and underrepresented populations;
 
@@ -2502,7 +2511,7 @@ The Director shall make awards on a competitive, merit-reviewed basis to institu
 
   (I) report to the appropriate Congressional committees on activities and findings under this section.
 
-**(c) Definitions of critical mineral and critical mineral or metal** In this section, the terms “critical mineral” and “critical mineral or metal” include any host mineral of a critical mineral (within the meaning of those terms in [section 1606 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606&num=0&edition=prelim).
+**(c) Definitions of critical mineral and critical mineral or metal** In this section, the terms “critical mineral” and “critical mineral or metal” include any host mineral of a critical mineral (within the meaning of those terms in [section 1606 of title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section1606&num=0&edition=prelim)).
 
 
 <a id="section-19069"></a>
@@ -2876,7 +2885,7 @@ In carrying out the activities under the Directorate, the Director shall ensure 
 
 <a id="section-19107"></a>
 ## § 19107. Advisory committee
-**(a) In general** In accordance with the Federal Advisory Committee Act (5 U.S.C. App.) the Director shall establish an advisory committee to assess, and make recommendations regarding, the activities carried out under this part.
+**(a) In general** In accordance with the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. the Director shall establish an advisory committee to assess, and make recommendations regarding, the activities carried out under this part.
 
 **(b) Membership** The advisory committee members shall—
 
@@ -2897,7 +2906,7 @@ In carrying out the activities under the Directorate, the Director shall ensure 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-19108"></a>
@@ -4048,14 +4057,14 @@ J.R. Biden, Jr.
 
 (2) The advisory committee’s recommendations for ways to improve the Initiative.
 
-**(d) Application of Federal Advisory Committee Act** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory committee.
+**(d) Application of Federal Advisory Committee Act** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the advisory committee.
 
 **(e) Termination** The advisory committee established under subsection (a) shall terminate on the date that is 10 years after August 9, 2022.
 
 ### Statutory Notes
 
 #### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 
 <a id="section-19136"></a>
@@ -4769,6 +4778,11 @@ In this part, the term “Director” means the Director of the National Science
 
 (2) broadly disseminate such policies to current and potential recipients of research and development awards made by such agency.
 
+### Statutory Notes
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 
 <a id="section-19221"></a>
 ## § 19221. Early-career research fellowship program
@@ -4807,8 +4821,8 @@ In this part, the term “Director” means the Director of the National Science
 (3) If determined effective, a plan for permanent implementation of the pilot program.
 
 
-<a id="section-19231"></a>
-## § 19231. Strategy and report on the nation’s economic security, science, research, and innovation to support the national security strategy
+<a id="section-19222"></a>
+## § 19222. Strategy and report on the nation’s economic security, science, research, and innovation to support the national security strategy
 **(a) Definitions** In this section:
 
 (1) **Foreign country of concern** — The term “foreign country of concern” means the People’s Republic of China, the Democratic People’s Republic of Korea, the Russian Federation, the Islamic Republic of Iran, or any other country determined to be a country of concern by the Department of State.
@@ -4971,13 +4985,246 @@ The Export Control Reform Act of 2018, referred to in subsec. (a)(2)(D)(vi), is 
 The International Emergency Economic Powers Act, referred to in subsec. (a)(2)(D)(vii), is title II of Pub. L. 95–223, Dec. 28, 1977, 91 Stat. 1626, which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) and Tables.
 
 
+<a id="section-19231"></a>
+## § 19231. National research and development strategy for distributed ledger technology
+**(a) Definitions** In this section:
+
+(1) **Director** — Except as otherwise expressly provided, the term “Director” means the Director of the Office of Science and Technology Policy.
+
+(2) **Distributed ledger** — The term “distributed ledger” means a ledger that—
+
+  (A) is shared across a set of distributed nodes, which are devices or processes, that participate in a network and store a complete or partial replica of the ledger;
+
+  (B) is synchronized between the nodes;
+
+  (C) has data appended to it by following the ledger’s specified consensus mechanism;
+
+  (D) may be accessible to anyone (public) or restricted to a subset of participants (private); and
+
+  (E) may require participants to have authorization to perform certain actions (engaging) or require no authorization (permissionless).
+
+(3) **Distributed ledger technology** — The term “distributed ledger technology” means technology that enables the operation and use of distributed ledgers.
+
+(4) **Institution of higher education** — The term “institution of higher education” has the meaning given the term in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim).
+
+(5) **Relevant congressional committees** — The term “relevant congressional committees” means—
+
+  (A) the Committee on Commerce, Science, and Transportation of the Senate; and
+
+  (B) the Committee on Science, Space, and Technology of the House of Representatives.
+
+(6) **Smart contract** — The term “smart contract” means a computer program stored in a distributed ledger system that is executed when certain predefined conditions are satisfied and wherein the outcome of any execution of the program may be recorded on the distributed ledger.
+
+**(b) National distributed ledger technology research and development strategy**
+
+(1) **In general** — The Director, or a designee of the Director, shall, in coordination with the National Science and Technology Council, and the heads of such other relevant Federal agencies and entities as the Director considers appropriate, which may include the National Academies, and in consultation with such nongovernmental entities as the Director considers appropriate, develop a national strategy for the research and development of distributed ledger technologies and their applications, including applications of public and permissionless distributed ledgers. In developing the national strategy, the Director shall consider the following:
+
+  (A) Current efforts and coordination by Federal agencies to invest in the research and development of distributed ledger technologies and their applications, including through programs like the Small Business Innovation Research program, the Small Business Technology Transfer program, and the National Science Foundation’s Innovation Corps programs.
+
+  (B)
+
+    (i) The potential benefits and risks of applications of distributed ledger technologies across different industry sectors, including their potential to—
+
+      (I) lower transactions costs and facilitate new types of commercial transactions;
+
+      (II) protect privacy and increase individuals’ data sovereignty;
+
+      (III) reduce friction to the interoperability of digital systems;
+
+      (IV) increase the accessibility, auditability, security, efficiency, and transparency of digital services;
+
+      (V) increase market competition in the provision of digital services;
+
+      (VI) enable dynamic contracting and contract execution through smart contracts;
+
+      (VII) enable participants to collaborate in trustless and disintermediated environments;
+
+      (VIII) enable the operations and governance of distributed organizations;
+
+      (IX) create new ownership models for digital items; and
+
+      (X) increase participation of populations historically underrepresented in the technology, business, and financial sectors.
+
+    (ii) In consideration of the potential risks of applications of distributed ledger technologies under clause (i), the Director shall take into account, where applicable—
+
+      (I) additional risks that may emerge from distributed ledger technologies, as identified in reports submitted to the President pursuant to Executive Order 14067, that may be addressed by research and development;
+
+      (II) software vulnerabilities in distributed ledger technologies and smart contracts;
+
+      (III) limited consumer literacy on engaging with applications of distributed ledger technologies in a secure way;
+
+      (IV) the use of distributed ledger technologies in illicit finance and their use in combating illicit finance;
+
+      (V) manipulative, deceptive, and fraudulent practices that harm consumers engaging with applications of distributed ledger technologies;
+
+      (VI) the implications of different consensus mechanisms for digital ledgers and governance and accountability mechanisms for applications of distributed ledger technologies, which may include decentralized networks;
+
+      (VII) foreign activities in the development and deployment of distributed ledger technologies and their associated tools and infrastructure; and
+
+      (VIII) environmental, sustainability, and economic impacts of the computational resources required for distributed ledger technologies.
+
+  (C) Potential uses for distributed ledger technologies that could improve the operations and delivery of services by Federal agencies, taking into account the potential of digital ledger technologies to—
+
+    (i) improve the efficiency and effectiveness of privacy-preserving data sharing among Federal agencies and with State, local, territorial, and Tribal governments;
+
+    (ii) promote government transparency by improving data sharing with the public;
+
+    (iii) introduce or mitigate risks that may threaten individuals’ rights or broad access to Federal services;
+
+    (iv) automate and modernize processes for assessing and ensuring regulatory compliance; and
+
+    (v) facilitate broad access to financial services for underserved and underbanked populations.
+
+  (D) Ways to support public and private sector dialogue on areas of research that could enhance the efficiency, scalability, interoperability, security, and privacy of applications using distributed ledger technologies.
+
+  (E) The need for increased coordination of the public and private sectors on the development of voluntary standards in order to promote research and development, including standards regarding security, smart contracts, cryptographic protocols, virtual routing and forwarding, interoperability, zero-knowledge proofs, and privacy, for distributed ledger technologies and their applications.
+
+  (F) Applications of distributed ledger technologies that could positively benefit society but that receive relatively little private sector investment.
+
+  (G) The United States position in global leadership and competitiveness across research, development, and deployment of distributed ledger technologies.
+
+(2) **Consultation**
+
+  (A) *In general* — In carrying out the Director’s duties under this subsection, the Director shall consult with the following:
+
+    (i) Private industry.
+
+    (ii) Institutions of higher education, including minority-serving institutions.
+
+    (iii) Nonprofit organizations, including foundations dedicated to supporting distributed ledger technologies and their applications.
+
+    (iv) State governments.
+
+    (v) Such other persons as the Director considers appropriate.
+
+  (B) *Representation* — The Director shall ensure consultations with the following:
+
+    (i) Rural and urban stakeholders from across the Nation.
+
+    (ii) Small, medium, and large businesses.
+
+    (iii) Subject matter experts representing multiple industrial sectors.
+
+    (iv) A demographically diverse set of stakeholders.
+
+(3) **Coordination** — In carrying out this subsection, the Director shall, for purposes of avoiding duplication of activities, consult, cooperate, and coordinate with the programs and policies of other relevant Federal agencies, including the interagency process outlined in section 3 of Executive Order 14067 (87 Fed. Reg. 14143; relating ensuring responsible development of digital assets).
+
+(4) **National strategy** — Not later than 1 year after December 23, 2022, the Director shall submit to the relevant congressional committees and the President a national strategy that includes the following:
+
+  (A) Priorities for the research and development of distributed ledger technologies and their applications.
+
+  (B) Plans to support public and private sector investment and partnerships in research and technology development for societally beneficial applications of distributed ledger technologies.
+
+  (C) Plans to mitigate the risks of distributed ledger technologies and their applications.
+
+  (D) An identification of additional resources, administrative action, or legislative action recommended to assist with the implementation of such strategy.
+
+(5) **Research and development funding** — The Director shall, as the Director considers necessary, consult with the Director of the Office of Management and Budget and with the heads of such other elements of the Executive Office of the President as the Director considers appropriate, to ensure that the recommendations and priorities with respect to research and development funding, as expressed in the national strategy developed under this subsection, are incorporated in the development of annual budget requests for Federal research agencies.
+
+**(c) Distributed ledger technology research**
+
+(1) **In general** — Subject to the availability of appropriations, the Director of the National Science Foundation shall make awards, on a competitive basis, to institutions of higher education, including minority-serving institutions, or nonprofit organizations (or consortia of such institutions or organizations) to support research, including interdisciplinary research, on distributed ledger technologies, their applications, and other issues that impact or are caused by distributed ledger technologies, which may include research on—
+
+  (A) the implications on trust, transparency, privacy, accessibility, accountability, and energy consumption of different consensus mechanisms and hardware choices, and approaches for addressing these implications;
+
+  (B) approaches for improving the security, privacy, resiliency, interoperability, performance, and scalability of distributed ledger technologies and their applications, which may include decentralized networks;
+
+  (C) approaches for identifying and addressing vulnerabilities and improving the performance and expressive power of smart contracts;
+
+  (D) the implications of quantum computing on applications of distributed ledger technologies, including long-term protection of sensitive information (such as medical or digital property), and techniques to address them;
+
+  (E) game theory, mechanism design, and economics underpinning and facilitating the operations and governance of decentralized networks enabled by distributed ledger technologies;
+
+  (F) the social behaviors of participants in decentralized networks enabled by distributed ledger technologies;
+
+  (G) human-centric design approaches to make distributed ledger technologies and their applications more usable and accessible;
+
+  (H) use cases for distributed ledger technologies across various industry sectors and government, including applications pertaining to—
+
+    (i) digital identity, including trusted identity and identity management;
+
+    (ii) digital property rights;
+
+    (iii) delivery of public services;
+
+    (iv) supply chain transparency;
+
+    (v) medical information management;
+
+    (vi) inclusive financial services;
+
+    (vii) community governance;
+
+    (viii) charitable giving;
+
+    (ix) public goods funding;
+
+    (x) digital credentials;
+
+    (xi) regulatory compliance;
+
+    (xii) infrastructure resilience, including against natural disasters; and
+
+    (xiii) peer-to-peer transactions; and
+
+      (I) the social, behavioral, and economic implications associated with the growth of applications of distributed ledger technologies, including decentralization in business, financial, and economic systems.
+
+(2) **Accelerating innovation** — The Director of the National Science Foundation shall consider continuing to support startups that are in need of funding, would develop in and contribute to the economy of the United States, leverage distributed ledger technologies, have the potential to positively benefit society, and have the potential for commercial viability, through programs like the Small Business Innovation Research program, the Small Business Technology Transfer program, and, as appropriate, other programs that promote broad and diverse participation.
+
+(3) **Consideration of national distributed ledger technology research and development strategy** — In making awards under paragraph (1), the Director of the National Science Foundation shall take into account the national strategy, as described in subsection (b)(4).
+
+(4) **Fundamental research** — The Director of the National Science Foundation shall consider continuing to make awards supporting fundamental research in areas related to distributed ledger technologies and their applications, such as applied cryptography and distributed systems.
+
+**(d) Distributed ledger technology applied research project**
+
+(1) **Applied research project** — Subject to the availability of appropriations, the Director of the National Institute of Standards and Technology, may carry out an applied research project to study and demonstrate the potential benefits and unique capabilities of distributed ledger technologies.
+
+(2) **Activities** — In carrying out the applied research project, the Director of the National Institute of Standards and Technology shall—
+
+  (A) identify potential applications of distributed ledger technologies, including those that could benefit activities at the Department of Commerce or at other Federal agencies, considering applications that could—
+
+    (i) improve the privacy and interoperability of digital identity and access management solutions;
+
+    (ii) increase the integrity and transparency of supply chains through the secure and limited sharing of relevant supplier information;
+
+    (iii) facilitate broader participation in distributed ledger technologies of populations historically underrepresented in technology, business, and financial sectors; or
+
+    (iv) be of benefit to the public or private sectors, as determined by the Director in consultation with relevant stakeholders;
+
+  (B) solicit and provide the opportunity for public comment relevant to potential projects;
+
+  (C) consider, in the selection of a project, whether the project addresses a pressing need not already addressed by another organization or Federal agency;
+
+  (D) establish plans to mitigate potential risks, including those outlined in subsection (b)(1)(B)(ii), if applicable, of potential projects;
+
+  (E) produce an example solution leveraging distributed ledger technologies for 1 of the applications identified in subparagraph (A);
+
+  (F) hold a competitive process to select private sector partners, if they are engaged, to support the implementation of the example solution;
+
+  (G) consider hosting the project at the National Cybersecurity Center of Excellence; and
+
+  (H) ensure that cybersecurity best practices consistent with the Cybersecurity Frame work of the National Institute of Standards and Technology are demonstrated in the project.
+
+(3) **Briefings to Congress** — Not later than 1 year after December 23, 2022, the Director of the National Institute of Standards and Technology shall offer a briefing to the relevant congressional committees on the progress and current findings from the project under this subsection.
+
+(4) **Public report** — Not later than 12 months after the completion of the project under this subsection, the Director of the National Institute of Standards and Technology shall make public a report on the results and findings from the project.
+
+### Statutory Notes
+
+#### References in Text
+Executive Order 14067, referred to in subsec. (b)(1)(B)(ii)(I), (3), is Ex. Ord. No. 14067, Mar. 9, 2022, 87 F.R. 14143, which is set out as a note preceding [section 5101 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section5101&num=0&edition=prelim), Money and Finance.
+
+#### Codification
+Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Research and Development, Competition, and Innovation Act which in part comprises this chapter.
+
+
 <a id="section-19232"></a>
 ## § 19232. Requirements for foreign talent recruitment programs
 **(a) Purpose** The purpose of this part is to direct actions to prohibit participation in any foreign talent recruitment program by personnel of Federal research agencies and to prohibit participation in a malign foreign talent recruitment program by covered individuals involved with research and development awards from those agencies.
 
 **(b) Guidance** Not later than 180 days after August 9, 2022, the Director of the Office of Science and Technology Policy, in coordination with the interagency working group established under section 1746 of the National Defense Authorization Act for Fiscal Year 2020 ([42 U.S.C. 6601](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6601) note; Public Law 116–92), shall publish and widely distribute a uniform set of guidelines for Federal research agencies regarding foreign talent recruitment programs. Such policy guidelines shall—
 
-(1) prohibit all personnel of each Federal research agency, including Federal employees, contract employees, independent contractors, individuals serving under the Intergovernmental Personnel Act of 1970 ([42 U.S.C. 4701](./chapter-062-intergovernmental-personnel-program.md#section-4701) et seq), Visiting Scientist, Engineering, and Educator appointments, and special government employees other than peer reviewers, from participating in a foreign talent recruitment program;
+(1) prohibit all personnel of each Federal research agency, including Federal employees, contract employees, independent contractors, individuals serving under the Intergovernmental Personnel Act of 1970 ([42 U.S.C. 4701](./chapter-062-intergovernmental-personnel-program.md#section-4701) et seq 11 So in original. Probably should be followed by a period. ), Visiting Scientist, Engineering, and Educator appointments, and special government employees other than peer reviewers, from participating in a foreign talent recruitment program;
 
 (2) as part of the requirements under [section 6605 of this title](./chapter-079-science-and-technology-policy-organization-and-priorities.md#section-6605), require covered individuals to disclose if such individuals are a party to a foreign talent recruitment program contract, agreement, or other arrangement;
 
@@ -5152,7 +5399,7 @@ In this part:
 
     (iv) the Arms Export Control Act ([22 U.S.C. 2751](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2751&num=0&edition=prelim) et seq.);
 
-    (v) section 2274, 2275, 2276, 2277, or 2284 of title 42;
+    (v) section 2274, 2275, 2276, 2277, or 2284 of this title;
 
     (vi) the Export Control Reform Act of 2018 ([50 U.S.C. 4801](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4801&num=0&edition=prelim) et seq.); or
 
@@ -5725,7 +5972,7 @@ The Director of the Office of Science and Technology Policy shall establish or d
 
       (I) the individual;
 
-      (II) a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.)) of that individual; or
+      (II) a relative (as defined in section 109 of the Ethics in Government Act of 1978 (5 U.S.C. App.) 44 See References in Text note below.) of that individual; or
 
       (III) a business organization or other entity in which the individual has an interest, including an organization or other entity with which the individual is negotiating employment.
 
@@ -5743,7 +5990,7 @@ The Director of the Office of Science and Technology Policy shall establish or d
 
     (ii) *Full faith and credit* — The full faith and credit of the United States shall not extend to any obligations of the Foundation.
 
-  (L) *Nonapplicability of FACA* — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Foundation or an Individual Laboratory-Associated Foundation.
+  (L) *Nonapplicability of FACA* — The Federal Advisory Committee Act (5 U.S.C. App.) 4 shall not apply to the Foundation or an Individual Laboratory-Associated Foundation.
 
 (6) **Department collaboration**
 
@@ -5866,9 +6113,9 @@ The Director of the Office of Science and Technology Policy shall establish or d
 ### Statutory Notes
 
 #### References in Text
-Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(I)(ii)(II), is section 109 of Pub. L. 95–521, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 109 of the Ethics in Government Act of 1978, referred to in subsec. (b)(5)(I)(ii)(II), is section 109 of Pub. L. 95–521, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 13101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13101&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(c), (7), Dec. 27, 2022, 136 Stat. 4266, 4361.
 
-The Federal Advisory Committee Act, referred to in (b)(5)(L), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (b)(5)(L), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 
 <a id="section-19302"></a>
@@ -6411,7 +6658,7 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 (7) the Lawrence Livermore National Laboratory.
 
-**(b) Restoration and Modernization Projects**
+**(b) Restoration and modernization projects**
 
 (1) **In general** — The Secretary shall fund projects described in paragraph (2) as needed to address the deferred maintenance, critical infrastructure needs, and modernization of National Laboratories.
 

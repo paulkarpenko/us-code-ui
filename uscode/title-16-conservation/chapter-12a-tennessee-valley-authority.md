@@ -353,7 +353,7 @@ This title, referred to in subsec. (b)(2), probably should be this section, as P
 The Federal Rules of Civil Procedure, referred to in subsec. (b)(3), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Codification
-Section was enacted as part of the Federal Employees Liability Reform and Tort Compensation Act of 1988, and not as part of the Tennessee Valley Authority Act of 1933, which comprises this chapter.
+Section was enacted as part of the Federal Employees Liability Reform and Tort Compensation Act of 1988, and not as part of the Tennessee Valley Authority Act of 1933 which comprises this chapter.
 
 #### Effective Date
 Section effective Nov. 18, 1988, and applicable to all claims, civil actions, and proceedings pending on, or filed on or after Nov. 18, 1988, see section 8 of Pub. L. 100–694, set out as an Effective Date of 1988 Amendment note under [section 2679 of Title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section2679&num=0&edition=prelim), Judiciary and Judicial Procedure.

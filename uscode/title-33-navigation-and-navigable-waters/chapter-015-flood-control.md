@@ -2,7 +2,7 @@
 title: 33
 chapter: '15'
 heading: FLOOD CONTROL
-section_count: 103
+section_count: 104
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -239,6 +239,82 @@ Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, s
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 113–121, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
 
 
+<a id="section-701b-17"></a>
+## § 701b–17. Corps of Engineers Western Water Cooperative Committee
+**(a) Establishment**
+
+(1) **In general** — Not later than 90 days after December 23, 2022, the Secretary shall establish a Western Water Cooperative Committee (referred to in this section as the “Cooperative Committee”).
+
+(2) **Purpose** — The purpose of the Cooperative Committee is to ensure that Corps of Engineers flood control projects in Western States are operated consistent with congressional directives by identifying opportunities to avoid or minimize conflicts between the operation of Corps of Engineers projects and water rights and water laws in such States.
+
+(3) **Membership** — The Cooperative Committee shall be composed of—
+
+  (A) the Assistant Secretary of the Army for Civil Works (or a designee);
+
+  (B) the Chief of Engineers (or a designee);
+
+  (C) 1 representative from each of the Western States, who may serve on the Western States Water Council, to be appointed by the Governor of each State;
+
+  (D) 1 representative with legal experience from each of the Western States, to be appointed by the attorney general of each State; and
+
+  (E) 1 employee from each of the impacted regional offices of the Bureau of Indian Affairs.
+
+(4) **Meetings**
+
+  (A) *In general* — The Cooperative Committee shall meet not less than once each year in one of the Western States.
+
+  (B) *Available to public* — Each meeting of the Cooperative Committee shall be open and accessible to the public.
+
+  (C) *Notification* — The Cooperative Committee shall publish in the Federal Register adequate advance notice of a meeting of the Cooperative Committee.
+
+(5) **Duties**
+
+  (A) *In general* — The Cooperative Committee shall develop and make recommendations to avoid or minimize conflicts between the operation of Corps of Engineers projects and the water rights and water laws of Western States.
+
+  (B) *Limitation* — In carrying out subparagraph (A), the Cooperative Committee shall—
+
+    (i) make recommendations that only apply to Western States; and
+
+    (ii) ensure that any recommended changes or modifications to policy or regulations for Corps of Engineers projects would not adversely affect water resources within the State of Missouri.
+
+(6) **Status updates**
+
+  (A) *In general* — On an annual basis, the Secretary shall provide to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a written report that includes—
+
+    (i) a summary of the contents of meetings of the Cooperative Committee;
+
+    (ii) any legislative proposal from a Western State proposed to the Cooperative Committee; and
+
+    (iii) a description of any recommendations made by the Cooperative Committee under paragraph (5), including actions taken by the Secretary in response to such recommendations.
+
+  (B) *Comment*
+
+    (i) *In general* — Not later than 45 days following the conclusion of a meeting of the Cooperative Committee, the Secretary shall provide to members of the Cooperative Committee an opportunity to comment on the contents of the meeting and any recommendations made under paragraph (5).
+
+    (ii) *Inclusion* — Comments provided under clause (i) shall be included in the report provided under subparagraph (A).
+
+(7) **Compensation**
+
+  (A) *In general* — Except as provided in subparagraph (B), the members of the Cooperative Committee shall serve without compensation.
+
+  (B) *Travel expenses* — The members of the Cooperative Committee shall receive travel expenses, including per diem in lieu of subsistence, in accordance with applicable provisions under subchapter I of chapter 57 of title 5.
+
+(8) **Maintenance of records** — The Cooperative Committee shall maintain records pertaining to operating costs and records of the Cooperative Committee for a period of not less than 3 years.
+
+(9) **Savings provisions**
+
+  (A) *No additional authority* — Nothing in this section provides authority to the Cooperative Committee to affect any Federal or State water law or interstate compact governing water.
+
+  (B) *Other States* — Nothing in this section may be interpreted, by negative implication or otherwise, as suggesting that States not represented on the Cooperative Committee have lesser interest or authority, in relation to Western States, in managing the water within their borders or in vindicating State water rights and water laws.
+
+**(b) Definition of Western States** In this section, the term “Western States” means the States of Alaska, Arizona, California, Colorado, Idaho, Kansas, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, and Wyoming.
+
+### Statutory Notes
+
+#### “Secretary” Defined
+Secretary means the Secretary of the Army, see section 8002 of Pub. L. 117–263, set out as a note under [section 2201 of this title](./chapter-036-water-resources-development.md#section-2201).
+
+
 <a id="section-701b-2"></a>
 ## § 701b–2. Cooperation by Secretaries of the Army and Agriculture; expenditures
 
@@ -247,7 +323,7 @@ In carrying out the purposes of the Act of June 22, 1936 (49 Stat. 1570), as ame
 ### Statutory Notes
 
 #### References in Text
-Act of June 22, 1936 (49 Stat. 1570), as amended and supplemented, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
+Act of June 22, 1936 (49 Stat. 1570), as amended and supplemented, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1941—Act Aug. 18, 1941, changed the reference near the beginning of section and inserted sentence at end.
@@ -278,9 +354,9 @@ The surveys authorized to be performed under the direction of the Secretary of t
 ### Statutory Notes
 
 #### References in Text
-The Flood Control Act of June 28, 1938, referred to in text, is act June 28, 1938, ch. 795, 52 Stat. 1215, as amended, which to the extent classified to the Code is classified to sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
+The Flood Control Act of June 28, 1938, referred to in text, is act June 28, 1938, ch. 795, 52 Stat. 1215, which to the extent classified to the Code is classified to sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
 
-This Act, referred to in text, is act Aug. 11, 1939, ch. 699, 53 Stat. 1414, as amended, which to the extent classified to the Code enacted sections 558b–1, 701b–3, 701b–4, and 707 of this title and amended sections 701c–1 and 701g of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act Aug. 11, 1939, ch. 699, 53 Stat. 1414, which to the extent classified to the Code enacted sections 558b–1, 701b–3, 701b–4, and 707 of this title and amended sections 701c–1 and 701g of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -323,7 +399,7 @@ After the Secretary of Agriculture has submitted to Congress a regular or formal
 ### Statutory Notes
 
 #### References in Text
-The Flood Control Act approved June 22, 1936, as amended and supplemented, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
+The Flood Control Act approved June 22, 1936, as amended and supplemented, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 1994—Pub. L. 103–437 substituted “Committee on Public Works and Transportation of the House of Representatives or the Committee on Environment and Public Works of the Senate” for “Committee on Public Works of the House of Representatives or the Committee on Public Works of the Senate”.
@@ -392,7 +468,7 @@ After June 22, 1936, no money appropriated under authority of [section 701f of t
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain dams to be constructed, were not classified to the Code.
+Herein, referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain dams to be constructed, were not classified to the Code.
 
 #### Amendments
 1937—Act Aug. 28, 1937, added subsec. (d).
@@ -434,9 +510,9 @@ In case of any dam and reservoir project, or channel improvement or channel rect
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 28, 1938, ch. 795, 75 Stat. 1215, as amended, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 28, 1938, ch. 795, 75 Stat. 1215, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
 
-Act of June 22, 1936, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
+Act of June 22, 1936, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 Section comprises last paragraph of section 2 of act June 28, 1938. First paragraph of such section 2 is referred to in an Application of Section note under [section 701c of this title](./chapter-015-flood-control.md#section-701c).
@@ -467,7 +543,7 @@ The provisions of sections 593 to 595 of this title relating to river and harbor
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act for Acquired Lands, referred to in text, is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
+The Mineral Leasing Act for Acquired Lands, referred to in text, is act Aug. 7, 1947, ch. 513, 61 Stat. 913, which is classified generally to chapter 7 (§ 351 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under [section 351 of Title 30](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section351&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1992—Pub. L. 102–486 inserted sentence at end defining term “money” for purposes of this section.
@@ -487,7 +563,7 @@ The consent of Congress is given to any two or more States to enter into compact
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 and sections 6 and 7 of act June 22, 1936, enumerating certain projects and operations with regard to flood control, were not classified to the Code.
+This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 and sections 6 and 7 of act June 22, 1936, enumerating certain projects and operations with regard to flood control, were not classified to the Code.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -501,7 +577,7 @@ Nothing in this Act shall be construed as repealing or amending any provision of
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, is act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-701f"></a>
@@ -512,7 +588,7 @@ The sum of $310,000,000 is authorized to be appropriated for carrying out the im
 ### Statutory Notes
 
 #### References in Text
-“Herein”, and “this Act”, referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, as amended, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain improvements with regard to flood control, and sections 6 and 7 of that act, relating to examinations and surveys, were not classified to the Code.
+“Herein”, and “this Act”, referred to in text, means act June 22, 1936, ch. 688, 49 Stat. 1570, popularly known as the Flood Control Act of June 22, 1936, which to the extent classified to the Code enacted sections 701a, 701b, 701c, 701d to 701f, and 701h of this title. For complete classification of this Act to the Code, see Tables. Portions of section 5 of act June 22, 1936, enumerating certain improvements with regard to flood control, and sections 6 and 7 of that act, relating to examinations and surveys, were not classified to the Code.
 
 #### Codification
 The first proviso, relating to a limitation upon the amount of expenditure during the fiscal year 1937, was deleted as executed and obsolete. The second proviso, relating to payment from funds available to the Works Progress Administration, was also omitted as executed and obsolete. The Works Progress Administration was renamed the Work Projects Administration by Reorg. Plan No. 1 of 1939, § 306, eff. July 1, 1939, 4 F.R. 2727, 53 Stat. 1423, set out in the Appendix to Title 5, Government Organization and Employees. Liquidation was ordered by President’s letter of December 4, 1942, and appropriations for it authorized by act July 12, 1943, ch. 229, title I, 57 Stat. 540.
@@ -538,7 +614,7 @@ The sum of $375,000,000 is hereby authorized to be appropriated for carrying out
 ### Statutory Notes
 
 #### References in Text
-“Herein” and “this Act”, referred to in text, mean act June 28, 1938, ch. 795, 52 Stat. 1215, as amended, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
+“Herein” and “this Act”, referred to in text, mean act June 28, 1938, ch. 795, 52 Stat. 1215, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -703,7 +779,7 @@ Penstocks or other similar facilities adapted to possible future use in the deve
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 28, 1938, ch. 795, 52 Stat. 1215, as amended, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 28, 1938, ch. 795, 52 Stat. 1215, popularly known as the Flood Control Act of June 28, 1938, which to the extent classified to the Code enacted sections 701b, 701b–1, 701b–2, 701c–1, 701f–1, 701i, 701j, 702a–1½, 702a–11, and 706 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -752,7 +828,7 @@ In any case where the total authorization for a project heretofore or hereafter 
 ## § 701n. Emergency response to natural disasters
 **(a) Emergency fund**
 
-(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, realigning, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to either the pre-storm level or the design level of protection, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor. The emergency fund may also be expended for emergency dredging for restoration of authorized project depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor’s request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: Provided, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
+(1) There is authorized an emergency fund to be expended in preparation for emergency response to any natural disaster, in flood fighting and rescue operations, or in the repair or restoration of any flood control work threatened or destroyed by flood, including the strengthening, raising, extending, realigning, or other modification thereof as may be necessary in the discretion of the Chief of Engineers for the adequate functioning of the work for flood control and subject to the condition that the Chief of Engineers may include modifications to the structure or project, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor; in the emergency protection of federally authorized hurricane or shore protection being threatened when in the discretion of the Chief of Engineers such protection is warranted to protect against imminent and substantial loss to life and property; in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may, if requested by the non-Federal sponsor, include modifications to the structure or project (including the addition of new project features) to address major deficiencies, increase resilience, increase benefits from the reduction of damages from inundation, wave action, or erosion, or implement nonstructural alternatives to the repair or restoration of the structure. The emergency fund may also be expended for emergency dredging for restoration of authorized project depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters. In any case in which the Chief of Engineers is otherwise performing work under this section in an area for which the Governor of the affected State has requested a determination that an emergency exists or a declaration that a major disaster exists under the Disaster Relief and Emergency Assistance Act [[42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.], the Chief of Engineers is further authorized to perform on public and private lands and waters for a period of ten days following the Governor’s request any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, including, but not limited to, channel clearance, emergency shore protection, clearance and removal of debris and wreckage endangering public health and safety, and temporary restoration of essential public facilities and services. The Chief of Engineers, in the exercise of his discretion, is further authorized to provide emergency supplies of clean water, on such terms as he determines to be advisable, to any locality which he finds is confronted with a source of contaminated water causing or likely to cause a substantial threat to the public health and welfare of the inhabitants of the locality. The appropriation of such moneys for the initial establishment of this fund and for its replenishment on an annual basis, is authorized: Provided, That pending the appropriation of sums to such emergency fund, the Secretary of the Army may allot, from existing flood-control appropriations, such sums as may be necessary for the immediate prosecution of the work herein authorized, such appropriations to be reimbursed from the appropriation herein authorized when made. The Chief of Engineers is authorized, in the prosecution of work in connection with rescue operations, or in conducting other flood emergency work, to acquire on a rental basis such motor vehicles, including passenger cars and buses, as in his discretion are deemed necessary.
 
 (2) **Cost and benefit feasibility assessment.—**
 
@@ -869,9 +945,11 @@ In any case where the total authorization for a project heretofore or hereafter 
 ### Statutory Notes
 
 #### References in Text
-The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
+The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–263 substituted “in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to the pre-storm level of protection, to the design level of protection, or, notwithstanding the authorized dimensions of the structure or project, to a level sufficient to meet the authorized purpose of such structure or project, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, including to ensure the structure or project is functioning adequately to protect against projected changes in wave action or height or storm surge (including changes that result from relative sea level change over the useful life of the structure or project), subject to the condition that the Chief of Engineers may, if requested by the non-Federal sponsor, include modifications to the structure or project (including the addition of new project features) to address major deficiencies, increase resilience, increase benefits from the reduction of damages from inundation, wave action, or erosion, or implement nonstructural alternatives to the repair or restoration of the structure.” for “in the repair and restoration of any federally authorized hurricane or shore protective structure or project damaged or destroyed by wind, wave, or water action of other than an ordinary nature to either the pre-storm level or the design level of protection, whichever provides greater protection, when, in the discretion of the Chief of Engineers, such repair and restoration is warranted for the adequate functioning of the structure or project for hurricane or shore protection, subject to the condition that the Chief of Engineers may include modifications to the structure or project to address major deficiencies or implement nonstructural alternatives to the repair or restoration of the structure if requested by the non-Federal sponsor.”
+
 2020—Subsec. (a)(2)(B)(i)(I). Pub. L. 116–260, § 120(1)(A)(i), inserted “, or provide contributions equal to,” after “pay”.
 
 Subsec. (a)(2)(B)(ii). Pub. L. 116–260, § 120(1)(A)(ii), in heading, inserted “and contributions” after “of payments” and, in text, inserted “or contributions” after “Non-Federal payments” and after “non-Federal payments”.
@@ -930,6 +1008,12 @@ Subsec. (c). Pub. L. 104–303, § 202(f), added subsec. (c).
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+
+#### Great Lakes Advance Measures Assistance
+Pub. L. 117–263, div. H, title LXXXI, § 8102(b), Dec. 23, 2022, 136 Stat. 3696, provided that: “(1) In general.—The Secretary [of the Army] shall not deny a request from the Governor of a Great Lakes State to provide advance measures assistance pursuant to section 5(a) of the Act of August 18, 1941 ([33 U.S.C. 701n(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section701n/a&num=0&edition=prelim)) to reduce the risk of damage from rising water levels in the Great Lakes solely on the basis that the damage is caused by erosion. “(2) Federal share.—Assistance provided by the Secretary pursuant to a request described in paragraph (1) shall be at Federal expense if the assistance is for the construction of advance measures to a temporary construction standard. “(3) Great lakes state defined.—In this subsection, the term ‘Great Lakes State’ means the State of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, or Wisconsin.”
+
+#### Technical Assistance for Levee Inspections
+Pub. L. 117–263, div. H, title LXXXI, § 8120, Dec. 23, 2022, 136 Stat. 3711, provided that: “In any instance where the Secretary [of the Army] requires, as a condition of eligibility for Federal assistance under section 5 of the Act of August 18, 1941 ([33 U.S.C. 701n](./chapter-015-flood-control.md#section-701n)), that a non-Federal sponsor of a flood control project undertake an electronic inspection of the portion of such project that is under normal circumstances submerged, the Secretary shall provide to the non-Federal sponsor credit or reimbursement for the cost of carrying out such inspection against the non-Federal share of the cost of repair or restoration of such project carried out under such section.”
 
 #### Continued Eligibility
 Pub. L. 115–270, title I, § 1161(b), Oct. 23, 2018, 132 Stat. 3796, as amended by Pub. L. 116–260, div. AA, title I, § 121, Dec. 27, 2020, 134 Stat. 2634, provided that: “Notwithstanding a non-Federal flood control work’s status in the Rehabilitation and Inspection Program carried out pursuant to section 5 of the Act of August 18, 1941 ([33 U.S.C. 701n](./chapter-015-flood-control.md#section-701n)), any unconstructed emergency project for the non-Federal flood control work that was formulated during the five fiscal years preceding the fiscal year in which this Act was enacted [Oct. 23, 2018] but that was determined to not produce benefits greater than costs shall remain eligible for assistance under such section 5 until the last day of the fifth fiscal year following the fiscal year in which this Act was enacted if— “(1) the non-Federal sponsor agrees, in accordance with such section 5, as amended by this Act, to pay, or provide contributions equal to, an amount sufficient to make the remaining costs of the project equal to the estimated value of the benefits of the repair or restoration work; and “(2) the Secretary [of the Army] determines that the damage to the structure was not as a result of negligent operation or maintenance.”
@@ -1066,13 +1150,15 @@ Secretary means the Secretary of the Army, see section 2 of div. AA of Pub. L. 1
 
 
 <a id="section-701r"></a>
-## § 701r. Protection of highways, bridge approaches, public works, and nonprofit public services
+## § 701r. Protection of highways, bridge approaches, lighthouses, public works, and nonprofit public services
 
-The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $25,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: Provided, That not more than $5,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount.
+The Secretary of the Army is authorized to allot from any appropriations heretofore or hereafter made for flood control, not to exceed $25,000,000 per year, for the construction, repair, restoration, and modification of emergency streambank and shoreline protection works to prevent damage to highways, bridge approaches, lighthouses (including those lighthouses with historical value), and public works, churches, hospitals, schools, and other nonprofit public services, when in the opinion of the Chief of Engineers such work is advisable: Provided, That not more than $10,000,000 shall be allotted for this purpose at any single locality from the appropriations for any one fiscal year, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–263 inserted “lighthouses (including those lighthouses with historical value),” after “bridge approaches,” and substituted “$10,000,000” for “$5,000,000”.
+
 2018—Pub. L. 115–270 substituted “$25,000,000” for “$20,000,000” and inserted “, and if such amount is not sufficient to cover the costs included in the Federal cost share for a project, as determined by the Secretary, the non-Federal interest shall be responsible for any such costs that exceed such amount” before period at end.
 
 2014—Pub. L. 113–121 substituted “$20,000,000” for “$15,000,000” and “$5,000,000” for “$1,500,000”.
@@ -1245,7 +1331,7 @@ The project for the flood control of the Mississippi River in its alluvial valle
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1278,7 +1364,7 @@ In order to facilitate the United States in the acquisition of flowage rights an
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, as amended, which enacted sections 642a, 702a–1, 702–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, which enacted sections 642a, 702a–1, 702–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1292,7 +1378,7 @@ The United States may, within the discretion of the Chief of Engineers, irrespec
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, as amended, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1323,7 +1409,7 @@ For abandonment of Boeuf Floodway and Eudora Floodway as well as Northward Exten
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in subsecs. (c) and (g), and this Act, referred to in subsec. (g), probably mean act June 15, 1936, ch. 548, 49 Stat. 1508, as amended, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in subsecs. (c) and (g), and this Act, referred to in subsec. (g), probably mean act June 15, 1936, ch. 548, 49 Stat. 1508, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 2007—Subsec. (a). Pub. L. 110–114, in last sentence, inserted “; except that the Ouachita River Levees, Louisiana, authorized by [section 702a of this title](./chapter-015-flood-control.md#section-702a), shall remain as a component of the Mississippi River and Tributaries Project and afforded operation and maintenance responsibilities as provided under [section 702c of this title](./chapter-015-flood-control.md#section-702c)” before period at end.
@@ -1384,7 +1470,7 @@ After the Eudora Floodway shall have been constructed and is ready for operation
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, as amended, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-702a-5"></a>
@@ -1424,7 +1510,7 @@ No money appropriated under sections 702g–1 and 702k–1 of this title shall b
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, as amended, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act June 15, 1936, ch. 548, 49 Stat. 1508, which enacted sections 642a, 702a–1, 702a–2 to 702a–12, 702g–1, 702j–1, 702j–2, 702k–1, and 702k–2 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1438,7 +1524,7 @@ It is declared to be the sense of Congress that the principle of local contribut
 ### Statutory Notes
 
 #### References in Text
-Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
 
 
 <a id="section-702c"></a>
@@ -1577,7 +1663,7 @@ It is the sense of Congress that the surveys of the Mississippi River and its tr
 #### References in Text
 Act of January 21, 1927 [ch. 47, 44 Stat. 1010], referred to in text, popularly known as the River and Harbor Act of January 21, 1927, was not classified to the Code, except for subsections (b) and (d) of section 5 of the act, which enacted sections 569 and 584 of this title.
 
-Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, as amended, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
+Herein, referred to in text, means act May 15, 1928, ch. 569, 45 Stat. 534, which enacted sections 702a, 702b to 702d, 702e to 702g, 702h, 702i, 702j, 702k, 702l, 702m, and 704 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Change of Name
 Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
@@ -1791,17 +1877,41 @@ Provisions of this section as not amended, modified or repealed by the Submerged
 
 <a id="section-709a"></a>
 ## § 709a. Information on floods and flood damage
-**(a) Compilation and dissemination** In recognition of the increasing use and development of the flood plains of the rivers of the United States and of the need for information on flood hazards to serve as a guide to such development, and as a basis for avoiding future flood hazards by regulation of use by States and political subdivisions thereof, and to assure that Federal departments and agencies may take proper cognizance of flood hazards, the Secretary of the Army, through the Chief of Engineers, is hereby authorized to compile and disseminate information on floods and flood damages, including identification of areas subject to inundation by floods of various magnitudes and frequencies, and general criteria for guidance of Federal and non-Federal interests and agencies in the use of flood plain areas; and to provide advice to other Federal agencies and local interests for their use in planning to ameliorate the flood hazard, to avoid repetitive flooding impacts, to anticipate, prepare, and adapt to changing climatic conditions and extreme weather events, and to withstand, respond to, and recover rapidly from disruption due to the flood hazards. Surveys and guides will be made for States and political subdivisions thereof only upon the request of a State or a political subdivision thereof, and upon approval by the Chief of Engineers, and such information and advice provided them only upon such request and approval.
+**(a) Compilation and dissemination**
+
+(1) **In general** — In recognition of the increasing use and development of the flood plains of the rivers of the United States and of the need for information on flood hazards to serve as a guide to such development, and as a basis for avoiding future flood hazards by regulation of use by States and political subdivisions thereof, and to assure that Federal departments and agencies may take proper cognizance of flood hazards, the Secretary of the Army, through the Chief of Engineers, is hereby authorized to compile and disseminate information on floods and flood damages, including identification of areas subject to inundation by floods of various magnitudes and frequencies, identification of areas subject to floods due to accumulated snags and other debris, and general criteria for guidance of Federal and non-Federal interests and agencies in the use of flood plain areas; and to provide advice to other Federal agencies and local interests for their use in planning to ameliorate the flood hazard, to avoid repetitive flooding impacts, to anticipate, prepare, and adapt to changing climatic conditions and extreme weather events, and to withstand, respond to, and recover rapidly from disruption due to the flood hazards.
+
+(2) **Surveys and guides** — Surveys and guides will be made for States and political subdivisions thereof only upon the request of a State or a political subdivision thereof, and upon approval by the Chief of Engineers, and such information and advice provided them only upon such request and approval.
+
+(3) **Identification of assistance**
+
+  (A) *In general* — To the maximum extent practicable, in providing assistance under this subsection, the Secretary shall identify and communicate to States and non-Federal interests specific opportunities to partner with the Corps of Engineers to address flood hazards.
+
+  (B) *Coordination* — The Secretary shall coordinate activities under this paragraph with activities described in [section 1962d–16 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16&num=0&edition=prelim).
 
 **(b) Flood prevention coordination** The Secretary shall coordinate with the Administrator of the Federal Emergency Management Agency and the heads of other Federal agencies to ensure that flood control projects and plans are complementary and integrated to the extent practicable and appropriate.
 
 **(c) Fees** The Secretary of the Army is authorized to establish and collect fees from Federal agencies and private persons for the purpose of recovering the cost of providing services pursuant to this section. Funds collected pursuant to this section shall be deposited into the account of the Treasury of the United States entitled “Contributions and Advances, Rivers and Harbor, Corps of Engineers (8862)” and shall be available until expended to carry out this section. No fees shall be collected from State, regional, or local governments or other non-Federal public agencies for services provided pursuant to this section, but the Secretary of the Army may accept funds voluntarily contributed by such entities for the purpose of expanding the scope of the services requested by the entities.
 
-**(d) Fiscal year limitation on expenditures** The Secretary of the Army is authorized to expend not to exceed $50,000,000 per fiscal year for the compilation and dissemination of information under this section.
+**(d) Institutions of higher education** Notwithstanding [section 4141 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section4141&num=0&edition=prelim), in carrying out this section, the Secretary may work with an institution of higher education, as determined appropriate by the Secretary.
+
+**(e) Fiscal year limitation on expenditures** The Secretary of the Army is authorized to expend not to exceed $50,000,000 per fiscal year for the compilation and dissemination of information under this section.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Pub. L. 117–263, § 8104(1), inserted section catchline.
+
+Subsec. (a). Pub. L. 117–263, § 8104(1), inserted heading.
+
+Subsec. (a)(1). Pub. L. 117–263, § 8104(1), (2)(B), designated first sentence of subsec. (a) as par. (1), inserted heading, and inserted “identification of areas subject to floods due to accumulated snags and other debris,” after “inundation by floods of various magnitudes and frequencies,”.
+
+Subsec. (a)(2). Pub. L. 117–263, § 8104(2)(A), designated second sentence of subsec. (a) as par. (2) and inserted heading.
+
+Subsec. (a)(3). Pub. L. 117–263, § 8104(2)(C), added par. (3).
+
+Subsecs. (d), (e). Pub. L. 117–263, § 8104(3), (4), added subsec. (d) and redesignated former subsec. (d) as (e).
+
 2020—Subsec. (a). Pub. L. 116–260 inserted “, to avoid repetitive flooding impacts, to anticipate, prepare, and adapt to changing climatic conditions and extreme weather events, and to withstand, respond to, and recover rapidly from disruption due to the flood hazards” after “in planning to ameliorate the flood hazard”.
 
 2014—Subsec. (d). Pub. L. 113–121 substituted “$50,000,000” for “$15,000,000”.
@@ -1826,6 +1936,9 @@ Subsec. (b). Pub. L. 89–789 substituted “expend not to exceed $7,000,000 per
 
 #### Change of Name
 “Administrator of the Federal Emergency Management Agency” substituted for “Director of the Federal Emergency Management Agency” in subsec. (b) on authority of section 612(c) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim), Domestic Security. Any reference to the Administrator of the Federal Emergency Management Agency in title VI of Pub. L. 109–295 or an amendment by title VI to be considered to refer and apply to the Director of the Federal Emergency Management Agency until Mar. 31, 2007, see section 612(f)(2) of Pub. L. 109–295, set out as a note under [section 313 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section313&num=0&edition=prelim).
+
+#### Watershed Planning and Technical Assistance
+Pub. L. 117–263, div. H, title LXXXI, § 8119(b), Dec. 23, 2022, 136 Stat. 3711, provided that: “In providing assistance under section 22 of the Water Resources Development Act of 1974 ([42 U.S.C. 1962d–16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1962d–16&num=0&edition=prelim)) or pursuant to section 206 of the Flood Control Act of 1960 ([33 U.S.C. 709a](./chapter-015-flood-control.md#section-709a)), the Secretary [of the Army] shall, upon request, provide such assistance at a watershed scale.”
 
 #### Prioritizing Flood Risk Resiliency Technical Assistance
 Pub. L. 116–260, div. AA, title I, § 111(b), Dec. 27, 2020, 134 Stat. 2625, provided that: “In carrying out section 206 of the Flood Control Act of 1960 ([33 U.S.C. 709a](./chapter-015-flood-control.md#section-709a)), the Secretary [of the Army] shall prioritize the provision of technical assistance to support flood risk resiliency planning efforts of economically disadvantaged communities or communities subject to repetitive flooding.”

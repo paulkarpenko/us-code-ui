@@ -2,12 +2,59 @@
 title: 42
 chapter: '108'
 heading: NUCLEAR WASTE POLICY
-section_count: 91
+section_count: 92
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
 <a id="section-10101"></a>
-## § 10101. Functions
+## § 10101. Nuclear Waste Technical Review Board
+**(a) Establishment** There is established a Nuclear Waste Technical Review Board that shall be an independent establishment within the executive branch.
+
+**(b) Members**
+
+(1) The Board shall consist of 11 members who shall be appointed by the President not later than 90 days after December 22, 1987, from among persons nominated by the National Academy of Sciences in accordance with paragraph (3).
+
+(2) The President shall designate a member of the Board to serve as chairman.
+
+(3)
+
+  (A) The National Academy of Sciences shall, not later than 90 days after December 22, 1987, nominate not less than 22 persons for appointment to the Board from among persons who meet the qualifications described in subparagraph (C).
+
+  (B) The National Academy of Sciences shall nominate not less than 2 persons to fill any vacancy on the Board from among persons who meet the qualifications described in subparagraph (C).
+
+  (C)
+
+    (i) Each person nominated for appointment to the Board shall be—
+
+      (I) eminent in a field of science or engineering, including environmental sciences; and
+
+      (II) selected solely on the basis of established records of distinguished service.
+
+    (ii) The membership of the Board shall be representative of the broad range of scientific and engineering disciplines related to activities under this subchapter.
+
+    (iii) No person shall be nominated for appointment to the Board who is an employee of—
+
+      (I) the Department of Energy;
+
+      (II) a national laboratory under contract with the Department of Energy; or
+
+      (III) an entity performing high-level radioactive waste or spent nuclear fuel activities under contract with the Department of Energy.
+
+(4) Any vacancy on the Board shall be filled by the nomination and appointment process described in paragraphs (1) and (3).
+
+(5) Members of the Board shall be appointed for terms of 4 years, each such term to commence 120 days after December 22, 1987, except that of the 11 members first appointed to the Board, 5 shall serve for 2 years and 6 shall serve for 4 years, to be designated by the President at the time of appointment.
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+#### Continued Board Service After Expiration of Term
+Pub. L. 104–46, title V, § 503, Nov. 13, 1995, 109 Stat. 419, provided that: “Without fiscal year limitation and notwithstanding section 502(b)(5) of the Nuclear Waste Policy Act, as amended [[42 U.S.C. 10262(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10262/b/5&num=0&edition=prelim)], or any other provision of law, a member of the Nuclear Waste Technical Review Board whose term has expired may continue to serve as a member of the Board until such member’s successor has taken office.”
+
+
+<a id="section-10102"></a>
+## § 10102. Functions
 
 The Board shall evaluate the technical and scientific validity of activities undertaken by the Secretary after December 22, 1987, including—
 
@@ -21,8 +68,8 @@ The Board shall evaluate the technical and scientific validity of activities und
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10102"></a>
-## § 10102. Investigatory powers
+<a id="section-10103"></a>
+## § 10103. Investigatory powers
 **(a) Hearings** Upon request of the Chairman or a majority of the members of the Board, the Board may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Board considers appropriate. Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
 **(b) Production of documents**
@@ -37,8 +84,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10103"></a>
-## § 10103. Compensation of members
+<a id="section-10104"></a>
+## § 10104. Compensation of members
 **(a) In general** Each member of the Board shall be paid at the rate of pay payable for level III of the Executive Schedule for each day (including travel time) such member is engaged in the work of the Board.
 
 **(b) Travel expenses** Each member of the Board may receive travel expenses, including per diem in lieu of subsistence, in the same manner as is permitted under sections 5702 and 5703 of title 5.
@@ -52,8 +99,8 @@ Level III of the Executive Schedule, referred to in subsec. (a), is set out in [
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10104"></a>
-## § 10104. Staff
+<a id="section-10105"></a>
+## § 10105. Staff
 **(a) Clerical staff**
 
 (1) Subject to paragraph (2), the Chairman may appoint and fix the compensation of such clerical staff as may be necessary to discharge the responsibilities of the Board.
@@ -77,8 +124,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
-<a id="section-10105"></a>
-## § 10105. Support services
+<a id="section-10106"></a>
+## § 10106. Support services
 **(a) General services** To the extent permitted by law and requested by the Chairman, the Administrator of General Services shall provide the Board with necessary administrative services, facilities, and support on a reimbursable basis.
 
 **(b) Accounting, research, and technology assessment services** The Comptroller General, the Librarian of Congress, and the Director of the Office of Technology Assessment shall, to the extent permitted by law and subject to the availability of funds, provide the Board with such facilities, support, funds and services, including staff, as may be necessary for the effective performance of the functions of the Board.
@@ -98,8 +145,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
-<a id="section-10106"></a>
-## § 10106. Report
+<a id="section-10107"></a>
+## § 10107. Report
 
 The Board shall report not less than 2 times per year to Congress and the Secretary its findings, conclusions, and recommendations. The first such report shall be submitted not later than 12 months after December 22, 1987.
 
@@ -112,8 +159,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 For termination, effective May 15, 2000, of provisions of this section relating to reporting to Congress 2 times per year, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the last item on page 186 of House Document No. 103–7.
 
 
-<a id="section-10107"></a>
-## § 10107. Authorization of appropriations
+<a id="section-10108"></a>
+## § 10108. Authorization of appropriations
 
 Notwithstanding subsection (d) of [section 10222 of this title](./chapter-108-nuclear-waste-policy.md#section-10222), and subject to subsection (e) of such section, there are authorized to be appropriated for expenditures from amounts in the Waste Fund established in subsection (c) of such section such sums as may be necessary to carry out the provisions of this subchapter.
 
@@ -123,8 +170,8 @@ Notwithstanding subsection (d) of [section 10222 of this title](./chapter-108-nu
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10108"></a>
-## § 10108. Termination of Board
+<a id="section-10109"></a>
+## § 10109. Termination of Board
 
 The Board shall cease to exist not later than 1 year after the date on which the Secretary begins disposal of high-level radioactive waste or spent nuclear fuel in a repository.
 
@@ -135,19 +182,26 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
 <a id="section-10121"></a>
-## § 10121. Selection of Yucca Mountain site
-**(a) In general**
+## § 10121. Financial arrangements for low-level radioactive waste site closure
+**(a) Financial arrangements**
 
-(1) The Secretary shall provide for an orderly phase-out of site specific activities at all candidate sites other than the Yucca Mountain site.
+(1) The Commission shall establish by rule, regulation, or order, after public notice, and in accordance with [section 2231 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2231), such standards and instructions as the Commission may deem necessary or desirable to ensure in the case of each license for the disposal of low-level radioactive waste that an adequate bond, surety, or other financial arrangement (as determined by the Commission) will be provided by a licensee to permit completion of all requirements established by the Commission for the decontamination, decommissioning, site closure, and reclamation of sites, structures, and equipment used in conjunction with such low-level radioactive waste. Such financial arrangements shall be provided and approved by the Commission, or, in the case of sites within the boundaries of any agreement State under [section 2021 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2021), by the appropriate State or State entity, prior to issuance of licenses for low-level radioactive waste disposal or, in the case of licenses in effect on January 7, 1983, prior to termination of such licenses.
 
-(2) The Secretary shall terminate all site specific activities (other than reclamation activities) at all candidate sites, other than the Yucca Mountain site, within 90 days after December 22, 1987.
+(2) If the Commission determines that any long-term maintenance or monitoring, or both, will be necessary at a site described in paragraph (1), the Commission shall ensure before termination of the license involved that the licensee has made available such bonding, surety, or other financial arrangements as may be necessary to ensure that any necessary long-term maintenance or monitoring needed for such site will be carried out by the person having title and custody for such site following license termination.
 
-**(b) Eligibility to enter into benefits agreement** Effective on December 22, 1987, the State of Nevada shall be eligible to enter into a benefits agreement with the Secretary under [section 10173 of this title](./chapter-108-nuclear-waste-policy.md#section-10173).
+**(b) Title and custody**
 
-### Statutory Notes
+(1) The Secretary shall have authority to assume title and custody of low-level radioactive waste and the land on which such waste is disposed of, upon request of the owner of such waste and land and following termination of the license issued by the Commission for such disposal, if the Commission determines that—
 
-#### Codification
-Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+  (A) the requirements of the Commission for site closure, decommissioning, and decontamination have been met by the licensee involved and that such licensee is in compliance with the provisions of subsection (a);
+
+  (B) such title and custody will be transferred to the Secretary without cost to the Federal Government; and
+
+  (C) Federal ownership and management of such site is necessary or desirable in order to protect the public health and safety, and the environment.
+
+(2) If the Secretary assumes title and custody of any such waste and land under this subsection, the Secretary shall maintain such waste and land in a manner that will protect the public health and safety, and the environment.
+
+**(c) Special sites** If the low-level radioactive waste involved is the result of a licensed activity to recover zirconium, hafnium, and rare earths from source material, the Secretary, upon request of the owner of the site involved, shall assume title and custody of such waste and the land on which it is disposed when such site has been decontaminated and stabilized in accordance with the requirements established by the Commission and when such owner has made adequate financial arrangements approved by the Commission for the long-term maintenance and monitoring of such site.
 
 
 <a id="section-10131"></a>
@@ -339,14 +393,51 @@ Nothing in this chapter shall be construed to affect Federal, State, or local la
 
 
 <a id="section-10139"></a>
-## § 10139. State and affected Indian tribe participation in development of proposed repositories for defense waste
+## § 10139. Biennial report on the spent nuclear fuel and high-level radioactive waste inventory in the United States
+**(a) Definitions** In this section:
+
+(1) **High-level radioactive waste** — The term “high-level radioactive waste” has the meaning given the term in section 2 of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101](./chapter-108-nuclear-waste-policy.md#section-10101)).
+
+(2) **Spent nuclear fuel** — The term “spent nuclear fuel” has the meaning given the term in section 2 of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101](./chapter-108-nuclear-waste-policy.md#section-10101)).
+
+(3) **Standard contract** — The term “standard contract” has the meaning given the term “contract” in section 961.3 of title 10, Code of Federal Regulations (or any successor regulation).
+
+**(b) Report** Not later than January 1, 2026, and biennially thereafter, the Secretary of Energy shall submit to Congress a report that describes—
+
+(1) the annual and cumulative amount of payments made by the United States to the holder of a standard contract due to a partial breach of contract under the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101](./chapter-108-nuclear-waste-policy.md#section-10101) et seq.) resulting in financial damages to the holder;
+
+(2) the cumulative amount spent by the Department of Energy since fiscal year 2008 to reduce future payments projected to be made by the United States to any holder of a standard contract due to a partial breach of contract under the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101](./chapter-108-nuclear-waste-policy.md#section-10101) et seq.);
+
+(3) the cumulative amount spent by the Department of Energy to store, manage, and dispose of spent nuclear fuel and high-level radioactive waste in the United States as of the date of the report;
+
+(4) the projected lifecycle costs to store, manage, transport, and dispose of the projected inventory of spent nuclear fuel and high-level radioactive waste in the United States, including spent nuclear fuel and high-level radioactive waste expected to be generated from existing reactors through 2050;
+
+(5) any mechanisms for better accounting of liabilities for the lifecycle costs of the spent nuclear fuel and high-level radioactive waste inventory in the United States;
+
+(6) any recommendations for improving the methods used by the Department of Energy for the accounting of spent nuclear fuel and high-level radioactive waste costs and liabilities;
+
+(7) any actions taken in the previous fiscal year by the Department of Energy with respect to interim storage; and
+
+(8) any activities taken in the previous fiscal year by the Department of Energy to develop and deploy nuclear technologies and fuels that enhance the safe transportation or storage of spent nuclear fuel or high-level radioactive waste, including technologies to protect against seismic, flooding, and other extreme weather events.
+
+### Statutory Notes
+
+#### References in Text
+The Nuclear Waste Policy Act of 1982, referred to in subsec. (b)(1), (2), is Pub. L. 97–425, Jan. 7, 1983, 96 Stat. 2201, which is classified generally to chapter 108 (§ 10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 10101 of this title](./chapter-108-nuclear-waste-policy.md#section-10101) and Tables.
+
+#### Codification
+Section was enacted as part of the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024, also known as the ADVANCE Act of 2024, and not as part of the Nuclear Waste Policy Act of 1982 which comprises this chapter.
+
+
+<a id="section-10140"></a>
+## § 10140. State and affected Indian tribe participation in development of proposed repositories for defense waste
 **(a) Notification to States and affected Indian tribes** Notwithstanding the provisions of [section 10107 of this title](./chapter-108-nuclear-waste-policy.md#section-10107), upon any decision by the Secretary or the President to develop a repository for the disposal of high-level radioactive waste or spent nuclear fuel resulting exclusively from atomic energy defense activities, research and development activities of the Secretary, or both, and before proceeding with any site-specific investigations with respect to such repository, the Secretary shall notify the Governor and legislature of the State in which such repository is proposed to be located, or the governing body of the affected Indian tribe on whose reservation such repository is proposed to be located, as the case may be, of such decision.
 
 **(b) Participation of States and affected Indian tribes** Following the receipt of any notification under subsection (a), the State or Indian tribe involved shall be entitled, with respect to the proposed repository involved, to rights of participation and consultation identical to those provided in sections 10135 through 10138 of this title, except that any financial assistance authorized to be provided to such State or affected Indian tribe under section 10136(c) or 10138(b) of this title shall be made from amounts appropriated to the Secretary for purposes of carrying out this section.
 
 
-<a id="section-10140"></a>
-## § 10140. Findings and purposes
+<a id="section-10141"></a>
+## § 10141. Findings and purposes
 **(a)** The Congress finds that—
 
 (1) radioactive waste creates potential risks and requires safe and environmentally acceptable methods of disposal;
@@ -374,8 +465,8 @@ Nothing in this chapter shall be construed to affect Federal, State, or local la
 (4) to establish a Nuclear Waste Fund, composed of payments made by the generators and owners of such waste and spent fuel, that will ensure that the costs of carrying out activities relating to the disposal of such waste and spent fuel will be borne by the persons responsible for generating such waste and spent fuel.
 
 
-<a id="section-10141"></a>
-## § 10141. Recommendation of candidate sites for site characterization
+<a id="section-10142"></a>
+## § 10142. Recommendation of candidate sites for site characterization
 **(a) Guidelines** Not later than 180 days after January 7, 1983, the Secretary, following consultation with the Council on Environmental Quality, the Administrator of the Environmental Protection Agency, the Director of the United States Geological Survey, and interested Governors, and the concurrence of the Commission shall issue general guidelines for the recommendation of sites for repositories. Such guidelines shall specify detailed geologic considerations that shall be primary criteria for the selection of sites in various geologic media. Such guidelines shall specify factors that qualify or disqualify any site from development as a repository, including factors pertaining to the location of valuable natural resources, hydrology, geophysics, seismic activity, and atomic energy defense activities, proximity to water supplies, proximity to populations, the effect upon the rights of users of water, and proximity to components of the National Park System, the National Wildlife Refuge System, the National Wild and Scenic Rivers System, the National Wilderness Preservation System, or National Forest Lands. Such guidelines shall take into consideration the proximity to sites where high-level radioactive waste and spent nuclear fuel is generated or temporarily stored and the transportation and safety factors involved in moving such waste to a repository. Such guidelines shall specify population factors that will disqualify any site from development as a repository if any surface facility of such repository would be located (1) in a highly populated area; or (2) adjacent to an area 1 mile by 1 mile having a population of not less than 1,000 individuals. Such guidelines also shall require the Secretary to consider the cost and impact of transporting to the repository site the solidified high-level radioactive waste and spent fuel to be disposed of in the repository and the advantages of regional distribution in the siting of repositories. Such guidelines shall require the Secretary to consider the various geologic media in which sites for repositories may be located and, to the extent practicable, to recommend sites in different geologic media. The Secretary shall use guidelines established under this subsection in considering candidate sites for recommendation under subsection (b). The Secretary may revise such guidelines from time to time, consistent with the provisions of this subsection.
 
 **(b) Recommendation by Secretary to President**
@@ -454,8 +545,8 @@ Sincerely,
 Ronald Reagan.
 
 
-<a id="section-10142"></a>
-## § 10142. Site characterization
+<a id="section-10143"></a>
+## § 10143. Site characterization
 **(a) In general** The Secretary shall carry out, in accordance with the provisions of this section, appropriate site characterization activities at the Yucca Mountain site. The Secretary shall consider fully the comments received under subsection (b)(2) and [section 10132(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10132/b/2&num=0&edition=prelim) and shall, to the maximum extent practicable and in consultation with the Governor of the State of Nevada, conduct site characterization activities in a manner that minimizes any significant adverse environmental impacts identified in such comments or in the environmental assessment submitted under subsection (b)(1).11 See References in Text note below.
 
 **(b) Commission and States**
@@ -541,8 +632,8 @@ Subsec. (c)(3), (4). Pub. L. 100–202 and Pub. L. 100–203, § 5011(g)(3), ame
 “(4) If a site is determined to be unsuitable for application for a construction authorization for a repository, the Secretary shall take reasonable and necessary steps to reclaim the site and to mitigate any significant adverse environmental impacts caused by site characterization activities.”
 
 
-<a id="section-10143"></a>
-## § 10143. Site approval and construction authorization
+<a id="section-10144"></a>
+## § 10144. Site approval and construction authorization
 **(a) Hearings and Presidential recommendation**
 
 (1) The Secretary shall hold public hearings in the vicinity of the Yucca Mountain site, for the purposes of informing the residents of the area of such consideration and receiving their comments regarding the possible recommendation of such site. If, upon completion of such hearings and completion of site characterization activities at the Yucca Mountain site, under [section 10133 of this title](./chapter-108-nuclear-waste-policy.md#section-10133), the Secretary decides to recommend approval of such site to the President, the Secretary shall notify the Governor and legislature of the State of Nevada, of such decision. No sooner than the expiration of the 30-day period following such notification, the Secretary shall submit to the President a recommendation that the President approve such site for the development of a repository. Any such recommendation by the Secretary shall be based on the record of information developed by the Secretary under [section 10133 of this title](./chapter-108-nuclear-waste-policy.md#section-10133) and this section, including the information described in subparagraph (A) through subparagraph (G). Together with any recommendation of a site under this paragraph, the Secretary shall make available to the public, and submit to the President, a comprehensive statement of the basis of such recommendation, including the following:
@@ -642,8 +733,8 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995, provided in part: “That no later than September 30, 1998, the Secretary shall provide to the President and to the Congress a viability assessment of the Yucca Mountain site. The viability assessment shall include: “(1) the preliminary design concept for the critical elements for the repository and waste package; “(2) a total system performance assessment, based upon the design concept and the scientific data and analysis available by September 30, 1998, describing the probable behavior of the repository in the Yucca Mountain geological setting relative to the overall system performance standards; “(3) a plan and cost estimate for the remaining work required to complete a license application; and “(4) an estimate of the costs to construct and operate the repository in accordance with the design concept.”
 
 
-<a id="section-10144"></a>
-## § 10144. Review of repository site selection
+<a id="section-10145"></a>
+## § 10145. Review of repository site selection
 **(a) “Resolution of repository siting approval” defined** For purposes of this section, the term “resolution of repository siting approval” means a joint resolution of the Congress, the matter after the resolving clause of which is as follows: “That there hereby is approved the site at .......... for a repository, with respect to which a notice of disapproval was submitted by .......... on ...........”. The first blank space in such resolution shall be filled with the name of the geographic location of the proposed site of the repository to which such resolution pertains; the second blank space in such resolution shall be filled with the designation of the State Governor and legislature or Indian tribe governing body submitting the notice of disapproval to which such resolution pertains; and the last blank space in such resolution shall be filled with the date of such submission.
 
 **(b) State or Indian tribe petitions** The designation of a site as suitable for application for a construction authorization for a repository shall be effective at the end of the 60-day period beginning on the date that the President recommends such site to the Congress under [section 10134 of this title](./chapter-108-nuclear-waste-policy.md#section-10134), unless the Governor and legislature of the State in which such site is located, or the governing body of an Indian tribe on whose reservation such site is located, as the case may be, has submitted to the Congress a notice of disapproval under section 10136 or 10138 of this title. If any such notice of disapproval has been submitted, the designation of such site shall not be effective except as provided under subsection (c).
@@ -724,8 +815,8 @@ Pub. L. 104–206, title III, Sept. 30, 1996, 110 Stat. 2995, provided in part: 
 Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby is approved the site at Yucca Mountain, Nevada, for a repository, with respect to which a notice of disapproval was submitted by the Governor of the State of Nevada on April 8, 2002.”
 
 
-<a id="section-10145"></a>
-## § 10145. Participation of States
+<a id="section-10151"></a>
+## § 10151. Participation of States
 **(a) Notification of States and affected tribes** The Secretary shall identify the States with one or more potentially acceptable sites for a repository within 90 days after January 7, 1983. Within 90 days of such identification, the Secretary shall notify the Governor, the State legislature, and the tribal council of any affected Indian tribe in any State of the potentially acceptable sites within such State. For the purposes of this subchapter, the term “potentially acceptable site” means any site at which, after geologic studies and field mapping but before detailed geologic data gathering, the Department undertakes preliminary drilling and geophysical testing for the definition of site location.
 
 **(b) State participation in repository siting decisions**
@@ -813,8 +904,8 @@ Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby 
 1987—Subsec. (c). Pub. L. 100–202 and Pub. L. 100–203 generally amended subsec. (c) identically, substituting provisions consisting of pars. (1) to (6) for former provisions consisting of pars. (1) to (5).
 
 
-<a id="section-10151"></a>
-## § 10151. Consultation with States and affected Indian tribes
+<a id="section-10152"></a>
+## § 10152. Consultation with States and affected Indian tribes
 **(a) Provision of information**
 
 (1) The Secretary, the Commission, and other agencies involved in the construction, operation, or regulation of any aspect of a repository in a State shall provide to the Governor and legislature of such State, and to the governing body of any affected Indian tribe, timely and complete information regarding determinations or plans made with respect to the site characterization siting, development, design, licensing, construction, operation, regulation, or decommissioning of such repository.
@@ -857,8 +948,8 @@ Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby 
 1987—Subsec. (d). Pub. L. 100–202 and Pub. L. 100–203 amended section identically, adding subsec. (d).
 
 
-<a id="section-10152"></a>
-## § 10152. Participation of Indian tribes
+<a id="section-10153"></a>
+## § 10153. Participation of Indian tribes
 **(a) Participation of Indian tribes in repository siting decisions** Upon the submission by the President to the Congress of a recommendation of a site for a repository located on the reservation of an affected Indian tribe, the governing body of such Indian tribe may disapprove the site designation and submit to the Congress a notice of disapproval. The governing body of such Indian tribe may submit such a notice of disapproval to the Congress not later than the 60 days after the date that the President recommends such site to the Congress under [section 10134 of this title](./chapter-108-nuclear-waste-policy.md#section-10134). A notice of disapproval shall be considered to be submitted to the Congress on the date of the transmittal of such notice of disapproval to the Speaker of the House and the President pro tempore of the Senate. Such notice of disapproval shall be accompanied by a statement of reasons explaining why the governing body of such Indian tribe disapproved the recommended repository site involved.
 
 **(b) Financial assistance**
@@ -916,8 +1007,8 @@ Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby 
 1987—Subsec. (b)(5)(iv). Pub. L. 100–202 and Pub. L. 100–203 amended par. (5) identically, adding cl. (iv).
 
 
-<a id="section-10153"></a>
-## § 10153. Judicial review of agency actions
+<a id="section-10154"></a>
+## § 10154. Judicial review of agency actions
 **(a) Jurisdiction of United States courts of appeals**
 
 (1) Except for review in the Supreme Court of the United States, the United States courts of appeals shall have original and exclusive jurisdiction over any civil action—
@@ -944,8 +1035,8 @@ Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby 
 The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(D), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 
-<a id="section-10154"></a>
-## § 10154. Expedited authorizations
+<a id="section-10155"></a>
+## § 10155. Expedited authorizations
 **(a) Issuance of authorizations**
 
 (1) To the extent that the taking of any action related to the site characterization of a site or the construction or initial operation of a repository under this part requires a certificate, right-of-way, permit, lease, or other authorization from a Federal agency or officer, such agency or officer shall issue or grant any such authorization at the earliest practicable date, to the extent permitted by the applicable provisions of law administered by such agency or officer. All actions of a Federal agency or officer with respect to consideration of applications or requests for the issuance or grant of any such authorization shall be expedited, and any such application or request shall take precedence over any similar applications or requests not related to such repositories.
@@ -955,8 +1046,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1)(D),
 **(b) Terms of authorizations** Any authorization issued or granted pursuant to subsection (a) shall include such terms and conditions as may be required by law, and may include terms and conditions permitted by law.
 
 
-<a id="section-10155"></a>
-## § 10155. Certain standards and criteria
+<a id="section-10156"></a>
+## § 10156. Certain standards and criteria
 **(a) Environmental Protection Agency standards** Not later than 1 year after January 7, 1983, the Administrator, pursuant to authority under other provisions of law, shall, by rule, promulgate generally applicable standards for protection of the general environment from offsite releases from radioactive material in repositories.
 
 **(b) Commission requirements and criteria**
@@ -990,32 +1081,32 @@ The Energy Reorganization Act of 1974, referred to in subsec. (b)(1)(A), is Pub.
 Pub. L. 102–486, title VIII, § 801, Oct. 24, 1992, 106 Stat. 2921, provided that: “(a) Environmental Protection Agency Standards.—“(1) Promulgation.—Notwithstanding the provisions of section 121(a) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10141(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10141/a&num=0&edition=prelim)), section 161 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2201(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/b&num=0&edition=prelim)), and any other authority of the Administrator of the Environmental Protection Agency to set generally applicable standards for the Yucca Mountain site, the Administrator shall, based upon and consistent with the findings and recommendations of the National Academy of Sciences, promulgate, by rule, public health and safety standards for protection of the public from releases from radioactive materials stored or disposed of in the repository at the Yucca Mountain site. Such standards shall prescribe the maximum annual effective dose equivalent to individual members of the public from releases to the accessible environment from radioactive materials stored or disposed of in the repository. The standards shall be promulgated not later than 1 year after the Administrator receives the findings and recommendations of the National Academy of Sciences under paragraph (2) and shall be the only such standards applicable to the Yucca Mountain site. “(2) Study by national academy of sciences.—Within 90 days after the date of the enactment of this Act [Oct. 24, 1992], the Administrator shall contract with the National Academy of Sciences to conduct a study to provide, by not later than December 31, 1993, findings and recommendations on reasonable standards for protection of the public health and safety, including—“(A) whether a health-based standard based upon doses to individual members of the public from releases to the accessible environment (as that term is defined in the regulations contained in subpart B of part 191 of title 40, Code of Federal Regulations, as in effect on November 18, 1985) will provide a reasonable standard for protection of the health and safety of the general public; “(B) whether it is reasonable to assume that a system for post-closure oversight of the repository can be developed, based upon active institutional controls, that will prevent an unreasonable risk of breaching the repository’s engineered or geologic barriers or increasing the exposure of individual members of the public to radiation beyond allowable limits; and “(C) whether it is possible to make scientifically supportable predictions of the probability that the repository’s engineered or geologic barriers will be breached as a result of human intrusion over a period of 10,000 years. “(3) Applicability.—The provisions of this section shall apply to the Yucca Mountain site, rather than any other authority of the Administrator to set generally applicable standards for radiation protection. “(b) Nuclear Regulatory Commission Requirements and Criteria.—“(1) Modifications.—Not later than 1 year after the Administrator promulgates standards under subsection (a), the Nuclear Regulatory Commission shall, by rule, modify its technical requirements and criteria under section 121(b) of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10141(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10141/b&num=0&edition=prelim)), as necessary, to be consistent with the Administrator’s standards promulgated under subsection (a). “(2) Required assumptions.—The Commission’s requirements and criteria shall assume, to the extent consistent with the findings and recommendations of the National Academy of Sciences, that, following repository closure, the inclusion of engineered barriers and the Secretary’s post-closure oversight of the Yucca Mountain site, in accordance with subsection (c), shall be sufficient to—“(A) prevent any activity at the site that poses an unreasonable risk of breaching the repository’s engineered or geologic barriers; and “(B) prevent any increase in the exposure of individual members of the public to radiation beyond allowable limits. “(c) Post-Closure Oversight.—Following repository closure, the Secretary of Energy shall continue to oversee the Yucca Mountain site to prevent any activity at the site that poses an unreasonable risk of—“(1) breaching the repository’s engineered or geologic barriers; or “(2) increasing the exposure of individual members of the public to radiation beyond allowable limits.”
 
 
-<a id="section-10156"></a>
-## § 10156. Disposal of spent nuclear fuel
+<a id="section-10157"></a>
+## § 10157. Disposal of spent nuclear fuel
 
 Notwithstanding any other provision of this part, any repository constructed on a site approved under this part shall be designed and constructed to permit the retrieval of any spent nuclear fuel placed in such repository, during an appropriate period of operation of the facility, for any reason pertaining to the public health and safety, or the environment, or for the purpose of permitting the recovery of the economically valuable contents of such spent fuel. The Secretary shall specify the appropriate period of retrievability with respect to any repository at the time of design of such repository, and such aspect of such repository shall be subject to approval or disapproval by the Commission as part of the construction authorization process under subsections (b) through (d) of [section 10134 of this title](./chapter-108-nuclear-waste-policy.md#section-10134).
 
 
-<a id="section-10157"></a>
-## § 10157. Title to material
+<a id="section-10161"></a>
+## § 10161. Title to material
 
 Delivery, and acceptance by the Secretary, of any high-level radioactive waste or spent nuclear fuel for a repository constructed under this part shall constitute a transfer to the Secretary of title to such waste or spent fuel.
 
 
-<a id="section-10161"></a>
-## § 10161. Consideration of effect of acquisition of water rights
+<a id="section-10162"></a>
+## § 10162. Consideration of effect of acquisition of water rights
 
 The Secretary shall give full consideration to whether the development, construction, and operation of a repository may require any purchase or other acquisition of water rights that will have a significant adverse effect on the present or future development of the area in which such repository is located. The Secretary shall mitigate any such adverse effects to the maximum extent practicable.
 
 
-<a id="section-10162"></a>
-## § 10162. Termination of certain provisions
+<a id="section-10163"></a>
+## § 10163. Termination of certain provisions
 
 Sections 10139 and 10140 of this title shall cease to have effect at such time as a repository developed under this part is licensed to receive and possess high-level radioactive waste and spent nuclear fuel.
 
 
-<a id="section-10163"></a>
-## § 10163. Findings and purposes
+<a id="section-10164"></a>
+## § 10164. Findings and purposes
 **(a)** The Congress finds that—
 
 (1) the persons owning and operating civilian nuclear power reactors have the primary responsibility for providing interim storage of spent nuclear fuel from such reactors, by maximizing, to the extent practical, the effective use of existing storage facilities at the site of each civilian nuclear power reactor, and by adding new onsite storage capacity in a timely manner where practical;
@@ -1031,8 +1122,8 @@ Sections 10139 and 10140 of this title shall cease to have effect at such time a
 (2) to provide, in accordance with the provisions of this part, for the establishment of a federally owned and operated system for the interim storage of spent nuclear fuel at one or more facilities owned by the Federal Government with not more than 1,900 metric tons of capacity to prevent disruptions in the orderly operation of any civilian nuclear power reactor that cannot reasonably provide adequate spent nuclear fuel storage capacity at the site of such reactor when needed.
 
 
-<a id="section-10164"></a>
-## § 10164. Available capacity for interim storage of spent nuclear fuel
+<a id="section-10165"></a>
+## § 10165. Available capacity for interim storage of spent nuclear fuel
 
 The Secretary, the Commission, and other authorized Federal officials shall each take such actions as such official considers necessary to encourage and expedite the effective use of available storage, and necessary additional storage, at the site of each civilian nuclear power reactor consistent with—
 
@@ -1047,8 +1138,8 @@ The Secretary, the Commission, and other authorized Federal officials shall each
 (5) the views of the population surrounding such reactor.
 
 
-<a id="section-10165"></a>
-## § 10165. Interim at-reactor storage
+<a id="section-10166"></a>
+## § 10166. Interim at-reactor storage
 
 The Commission shall, by rule, establish procedures for the licensing of any technology approved by the Commission under section 10198(a) 11 See References in Text note below. of this title for use at the site of any civilian nuclear power reactor. The establishment of such procedures shall not preclude the licensing, under any applicable procedures or rules of the Commission in effect prior to such establishment, of any technology for the storage of civilian spent nuclear fuel at the site of any civilian nuclear power reactor.
 
@@ -1058,8 +1149,8 @@ The Commission shall, by rule, establish procedures for the licensing of any tec
 [Section 10198(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10198/a&num=0&edition=prelim), referred to in text, was in the original a reference to section 219(a) of Pub. L. 97–425, which is classified to [section 10199(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10199/a&num=0&edition=prelim), and has been translated as [section 10198(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10198/a&num=0&edition=prelim) as the probable intent of Congress in view of the subject matter of section 10198(a) which relates to development of technologies for storage of spent nuclear fuel, and the subject matter of section 10199(a) which relates to payments to States and Indian tribes.
 
 
-<a id="section-10166"></a>
-## § 10166. Licensing of facility expansions and transshipments
+<a id="section-10167"></a>
+## § 10167. Licensing of facility expansions and transshipments
 **(a) Oral argument** In any Commission hearing under section 189 of the Atomic Energy Act of 1954 ([42 U.S.C. 2239](./chapter-023-development-and-control-of-atomic-energy.md#section-2239)) on an application for a license, or for an amendment to an existing license, filed after January 7, 1983, to expand the spent nuclear fuel storage capacity at the site of a civilian nuclear power reactor, through the use of high-density fuel storage racks, fuel rod compaction, the transshipment of spent nuclear fuel to another civilian nuclear power reactor within the same utility system, the construction of additional spent nuclear fuel pool capacity or dry storage capacity, or by other means, the Commission shall, at the request of any party, provide an opportunity for oral argument with respect to any matter which the Commission determines to be in controversy among the parties. The oral argument shall be preceded by such discovery procedures as the rules of the Commission shall provide. The Commission shall require each party, including the Commission staff, to submit in written form, at the time of the oral argument, a summary of the facts, data, and arguments upon which such party proposes to rely that are known at such time to such party. Only facts and data in the form of sworn testimony or written submission may be relied upon by the parties during oral argument. Of the materials that may be submitted by the parties during oral argument, the Commission shall only consider those facts and data that are submitted in the form of sworn testimony or written submission.
 
 **(b) Adjudicatory hearing**
@@ -1096,8 +1187,8 @@ The Commission shall, by rule, establish procedures for the licensing of any tec
 The Atomic Energy Act of 1954, referred to in subsec. (b)(3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, which is classified principally to chapter 23 (§ 2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 
-<a id="section-10167"></a>
-## § 10167. Storage of spent nuclear fuel
+<a id="section-10168"></a>
+## § 10168. Storage of spent nuclear fuel
 **(a) Storage capacity**
 
 (1) Subject to [section 10107 of this title](./chapter-108-nuclear-waste-policy.md#section-10107), the Secretary shall provide, in accordance with paragraph (5), not more than 1,900 metric tons of capacity for the storage of spent nuclear fuel from civilian nuclear power reactors. Such storage capacity shall be provided through any one or more of the following methods, used in any combination determined by the Secretary to be appropriate:
@@ -1217,8 +1308,8 @@ The Energy Reorganization Act of 1974, referred to in subsec. (a)(1)(A)(i), is P
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which reports required under subsecs. (d)(5) and (f) of this section are listed as the 12th and 13th items on page 83), see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
 
 
-<a id="section-10168"></a>
-## § 10168. Interim Storage Fund
+<a id="section-10169"></a>
+## § 10169. Interim Storage Fund
 **(a) Contracts**
 
 (1) During the period following January 7, 1983, but not later than January 1, 1990, the Secretary is authorized to enter into contracts with persons who generate or own spent nuclear fuel resulting from civilian nuclear activities for the storage of such spent nuclear fuel in any storage capacity provided under this part: Provided, however, That the Secretary shall not enter into contracts for spent nuclear fuel in amounts in excess of the available storage capacity specified in [section 10155(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10155/a&num=0&edition=prelim). Those contracts shall provide that the Federal Government will (1) take title at the civilian nuclear power reactor site, to such amounts of spent nuclear fuel from the civilian nuclear power reactor as the Commission determines cannot be stored onsite, (2) transport the spent nuclear fuel to a federally owned and operated interim away-from-reactor storage facility, and (3) store such fuel in the facility pending further processing, storage, or disposal. Each such contract shall (A) provide for payment to the Secretary of fees determined in accordance with the provisions of this section; and (B) specify the amount of storage capacity to be provided for the person involved.
@@ -1298,8 +1389,8 @@ Such Act, referred to in subsec. (f)(5), probably means chapter 31 of Title 31, 
 For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 1st item on page 140 of House Document No. 103–7.
 
 
-<a id="section-10169"></a>
-## § 10169. Transportation
+<a id="section-10171"></a>
+## § 10171. Transportation
 **(a)**
 
 (1) 11 So in original. No subsec. (b) has been enacted. Transportation of spent nuclear fuel under [section 10156(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10156/a&num=0&edition=prelim) shall be subject to licensing and regulation by the Commission and by the Secretary of Transportation as provided for transportation of commercial spent nuclear fuel under existing law.
@@ -1307,8 +1398,8 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this
 (2) The Secretary, in providing for the transportation of spent nuclear fuel under this chapter, shall utilize by contract private industry to the fullest extent possible in each aspect of such transportation. The Secretary shall use direct Federal services for such transportation only upon a determination of the Secretary of Transportation, in consultation with the Secretary, that private industry is unable or unwilling to provide such transportation services at reasonable cost.
 
 
-<a id="section-10171"></a>
-## § 10171. Monitored retrievable storage
+<a id="section-10172"></a>
+## § 10172. Monitored retrievable storage
 **(a) Findings** The Congress finds that—
 
 (1) long-term storage of high-level radioactive waste or spent nuclear fuel in monitored retrievable storage facilities is an option for providing safe and reliable management of such waste or spent fuel;
@@ -1383,8 +1474,8 @@ For termination, effective May 15, 2000, of provisions in subsec. (f)(1) of this
 The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 
-<a id="section-10172"></a>
-## § 10172. Authorization of monitored retrievable storage
+<a id="section-10172a"></a>
+## § 10172a. Authorization of monitored retrievable storage
 **(a) Nullification of Oak Ridge siting proposal** The proposal of the Secretary (EC–1022, 100th Congress) to locate a monitored retrievable storage facility at a site on the Clinch River in the Roane County portion of Oak Ridge, Tennessee, with alternative sites on the Oak Ridge Reservation of the Department of Energy and on the former site of a proposed nuclear powerplant in Hartsville, Tennessee, is annulled and revoked. In carrying out the provisions of sections 10164 and 10165 of this title, the Secretary shall make no presumption or preference to such sites by reason of their previous selection.
 
 **(b) Authorization** The Secretary is authorized to site, construct, and operate one monitored retrievable storage facility subject to the conditions described in sections 10163 through 10169 of this title.
@@ -1395,8 +1486,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10172a"></a>
-## § 10172a. Monitored Retrievable Storage Commission
+<a id="section-10173"></a>
+## § 10173. Monitored Retrievable Storage Commission
 **(a) 11 So in original. No subsec. (b) has been enacted. Establishment**
 
 (1)
@@ -1468,8 +1559,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
-<a id="section-10173"></a>
-## § 10173. Survey
+<a id="section-10173a"></a>
+## § 10173a. Survey
 
 After the MRS Commission submits its report to the Congress under [section 10163 of this title](./chapter-108-nuclear-waste-policy.md#section-10163), the Secretary may conduct a survey and evaluation of potentially suitable sites for a monitored retrievable storage facility. In conducting such survey and evaluation, the Secretary shall consider the extent to which siting a monitored retrievable storage facility at each site surveyed would—
 
@@ -1493,8 +1584,8 @@ After the MRS Commission submits its report to the Congress under [section 10163
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10173a"></a>
-## § 10173a. Site selection
+<a id="section-10173b"></a>
+## § 10173b. Site selection
 **(a) In general** The Secretary may select the site evaluated under [section 10164 of this title](./chapter-108-nuclear-waste-policy.md#section-10164) that the Secretary determines on the basis of available information to be the most suitable for a monitored retrievable storage facility that is an integral part of the system for the disposal of spent nuclear fuel and high-level radioactive waste established under this chapter.
 
 **(b) Limitation** The Secretary may not select a site under subsection (a) until the Secretary recommends to the President the approval of a site for development as a repository under [section 10134(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10134/a&num=0&edition=prelim).
@@ -1522,8 +1613,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (d), is Pu
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10173b"></a>
-## § 10173b. Notice of disapproval
+<a id="section-10173c"></a>
+## § 10173c. Notice of disapproval
 **(a) In general** The selection of a site under [section 10165 of this title](./chapter-108-nuclear-waste-policy.md#section-10165) shall be effective at the end of the period of 60 calendar days beginning on the date of notification under such subsection,11 So in original. Probably should be “section,”. unless the governing body of the Indian tribe on whose reservation such site is located, or, if the site is not on a reservation, the Governor and the legislature of the State in which the site is located, has submitted to Congress a notice of disapproval with respect to such site. If any such notice of disapproval has been submitted under this subsection, the selection of the site under [section 10165 of this title](./chapter-108-nuclear-waste-policy.md#section-10165) shall not be effective except as provided under [section 10135(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10135/c&num=0&edition=prelim).
 
 **(b) References** For purposes of carrying out the provisions of this subsection,1 references in [section 10135(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10135/c&num=0&edition=prelim) to a repository shall be considered to refer to a monitored retrievable storage facility and references to a notice of disapproval of a repository site designation under section 10136(b) or 10138(a) of this title shall be considered to refer to a notice of disapproval under this section.
@@ -1534,8 +1625,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10173c"></a>
-## § 10173c. Benefits agreement
+<a id="section-10174"></a>
+## § 10174. Benefits agreement
 
 Once selection of a site for a monitored retrievable storage facility is made by the Secretary under [section 10165 of this title](./chapter-108-nuclear-waste-policy.md#section-10165), the Indian tribe on whose reservation the site is located, or, in the case that the site is not located on a reservation, the State in which the site is located, shall be eligible to enter into a benefits agreement with the Secretary under [section 10173 of this title](./chapter-108-nuclear-waste-policy.md#section-10173).
 
@@ -1545,8 +1636,8 @@ Once selection of a site for a monitored retrievable storage facility is made by
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10174"></a>
-## § 10174. Construction authorization
+<a id="section-10174a"></a>
+## § 10174a. Construction authorization
 **(a) Environmental impact statement**
 
 (1) Once the selection of a site is effective under [section 10166 of this title](./chapter-108-nuclear-waste-policy.md#section-10166), the requirements of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.) shall apply with respect to construction of a monitored retrievable storage facility, except that any environmental impact statement prepared with respect to such facility shall not be required to consider the need for such facility or any alternative to the design criteria for such facility set forth in [section 10161(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10161/b/1&num=0&edition=prelim).
@@ -1576,8 +1667,8 @@ The National Environmental Policy Act of 1969, referred to in subsec. (a)(1), is
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10174a"></a>
-## § 10174a. Financial assistance
+<a id="section-10175"></a>
+## § 10175. Financial assistance
 
 The provisions of section 10136(c) or 10138(b) of this title with respect to grants, technical assistance, and other financial assistance shall apply to the State, to affected Indian tribes and to affected units of local government in the case of a monitored retrievable storage facility in the same manner as for a repository.
 
@@ -1587,31 +1678,24 @@ The provisions of section 10136(c) or 10138(b) of this title with respect to gra
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10175"></a>
-## § 10175. Financial arrangements for low-level radioactive waste site closure
-**(a) Financial arrangements**
-
-(1) The Commission shall establish by rule, regulation, or order, after public notice, and in accordance with [section 2231 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2231), such standards and instructions as the Commission may deem necessary or desirable to ensure in the case of each license for the disposal of low-level radioactive waste that an adequate bond, surety, or other financial arrangement (as determined by the Commission) will be provided by a licensee to permit completion of all requirements established by the Commission for the decontamination, decommissioning, site closure, and reclamation of sites, structures, and equipment used in conjunction with such low-level radioactive waste. Such financial arrangements shall be provided and approved by the Commission, or, in the case of sites within the boundaries of any agreement State under [section 2021 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2021), by the appropriate State or State entity, prior to issuance of licenses for low-level radioactive waste disposal or, in the case of licenses in effect on January 7, 1983, prior to termination of such licenses.
-
-(2) If the Commission determines that any long-term maintenance or monitoring, or both, will be necessary at a site described in paragraph (1), the Commission shall ensure before termination of the license involved that the licensee has made available such bonding, surety, or other financial arrangements as may be necessary to ensure that any necessary long-term maintenance or monitoring needed for such site will be carried out by the person having title and custody for such site following license termination.
-
-**(b) Title and custody**
-
-(1) The Secretary shall have authority to assume title and custody of low-level radioactive waste and the land on which such waste is disposed of, upon request of the owner of such waste and land and following termination of the license issued by the Commission for such disposal, if the Commission determines that—
-
-  (A) the requirements of the Commission for site closure, decommissioning, and decontamination have been met by the licensee involved and that such licensee is in compliance with the provisions of subsection (a);
-
-  (B) such title and custody will be transferred to the Secretary without cost to the Federal Government; and
-
-  (C) Federal ownership and management of such site is necessary or desirable in order to protect the public health and safety, and the environment.
-
-(2) If the Secretary assumes title and custody of any such waste and land under this subsection, the Secretary shall maintain such waste and land in a manner that will protect the public health and safety, and the environment.
-
-**(c) Special sites** If the low-level radioactive waste involved is the result of a licensed activity to recover zirconium, hafnium, and rare earths from source material, the Secretary, upon request of the owner of the site involved, shall assume title and custody of such waste and the land on which it is disposed when such site has been decontaminated and stabilized in accordance with the requirements established by the Commission and when such owner has made adequate financial arrangements approved by the Commission for the long-term maintenance and monitoring of such site.
-
-
 <a id="section-10191"></a>
-## § 10191. Siting a second repository
+## § 10191. Selection of Yucca Mountain site
+**(a) In general**
+
+(1) The Secretary shall provide for an orderly phase-out of site specific activities at all candidate sites other than the Yucca Mountain site.
+
+(2) The Secretary shall terminate all site specific activities (other than reclamation activities) at all candidate sites, other than the Yucca Mountain site, within 90 days after December 22, 1987.
+
+**(b) Eligibility to enter into benefits agreement** Effective on December 22, 1987, the State of Nevada shall be eligible to enter into a benefits agreement with the Secretary under [section 10173 of this title](./chapter-108-nuclear-waste-policy.md#section-10173).
+
+### Statutory Notes
+
+#### Codification
+Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+
+<a id="section-10192"></a>
+## § 10192. Siting a second repository
 **(a) Congressional action required** The Secretary may not conduct site-specific activities with respect to a second repository unless Congress has specifically authorized and appropriated funds for such activities.
 
 **(b) Report** The Secretary shall report to the President and to Congress on or after January 1, 2007, but not later than January 1, 2010, on the need for a second repository.
@@ -1632,8 +1716,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10192"></a>
-## § 10192. Benefits agreements
+<a id="section-10193"></a>
+## § 10193. Benefits agreements
 **(a) In general**
 
 (1) The Secretary may enter into a benefits agreement with the State of Nevada concerning a repository or with a State or an Indian tribe concerning a monitored retrievable storage facility for the acceptance of high-level radioactive waste or spent nuclear fuel in that State or on the reservation of that tribe, as appropriate.
@@ -1660,8 +1744,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10193"></a>
-## § 10193. Content of agreements
+<a id="section-10194"></a>
+## § 10194. Content of agreements
 **(a) In general**
 
 (1) In addition to the benefits to which a State, an affected unit of local government or Indian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under [section 10173 of this title](./chapter-108-nuclear-waste-policy.md#section-10173) in accordance with the following schedule: BENEFITS SCHEDULE (amounts in $ millions) EventMRSRepository (A) Annual payments prior to first spent fuel receipt 510 (B) Upon first spent fuel receipt1020 (C) Annual payments after first spent fuel receipt until closure of the facility1020
@@ -1710,8 +1794,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10194"></a>
-## § 10194. Review Panel
+<a id="section-10195"></a>
+## § 10195. Review Panel
 **(a) In general** The Review Panel required to be established by [section 10173a(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10173a/b/1&num=0&edition=prelim) shall consist of a Chairman selected by the Secretary in consultation with the Governor of the State or governing body of the Indian tribe, as appropriate, that is party to such agreement and 6 other members as follows:
 
 (1) 2 members selected by the Governor of such State or governing body of such Indian tribe;
@@ -1744,19 +1828,19 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 **(d) Information** The Secretary shall promptly 11 So in original. make available promptly 1 any information in the Secretary’s possession requested by the Panel or its Chairman.
 
-**(e) Federal Advisory Committee Act** The requirements of the Federal Advisory Committee Act shall not apply to a Review Panel established under this subchapter.
+**(e) Chapter 10 of title 5** The requirements of chapter 10 of title 5 shall not apply to a Review Panel established under this subchapter.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act” in text.
 
-<a id="section-10195"></a>
-## § 10195. Termination
+
+<a id="section-10196"></a>
+## § 10196. Termination
 **(a) In general** The Secretary may terminate a benefits agreement under this subchapter if—
 
 (1) the site under consideration is disqualified for its failure to comply with guidelines and technical requirements established by the Secretary in accordance with this chapter; or
@@ -1773,8 +1857,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10196"></a>
-## § 10196. Consideration in siting facilities
+<a id="section-10197"></a>
+## § 10197. Consideration in siting facilities
 
 The Secretary, in siting Federal research projects, shall give special consideration to proposals from States where a repository is located.
 
@@ -1784,8 +1868,8 @@ The Secretary, in siting Federal research projects, shall give special considera
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10197"></a>
-## § 10197. Report
+<a id="section-10198"></a>
+## § 10198. Report
 **(a) In general** Within one year of December 22, 1987, the Secretary shall report to Congress on the potential impacts of locating a repository at the Yucca Mountain site, including the recommendations of the Secretary for mitigation of such impacts and a statement of which impacts should be dealt with by the Federal Government, which should be dealt with by the State with State resources, including the benefits payments under [section 10173a of this title](./chapter-108-nuclear-waste-policy.md#section-10173a), and which should be a joint Federal-State responsibility. The report under this subsection shall include the analysis of the Secretary of the authorities available to mitigate these impacts and the appropriate sources of funds for such mitigation.
 
 **(b) Impacts to be considered** Potential impacts to be addressed in the report under this 11 So in original. The word “this” probably should not appear. subsection (a) shall include impacts on—
@@ -1824,8 +1908,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10198"></a>
-## § 10198. Transportation
+<a id="section-10199"></a>
+## § 10199. Transportation
 **(a) Packaging** No spent nuclear fuel or high-level radioactive waste may be transported by or for the Secretary under part A or under part C except in packages that have been certified for such purpose by the Commission.
 
 **(b) Advance notification** The Secretary shall abide by regulations of the Commission regarding advance notification of State and local governments prior to transportation of spent nuclear fuel or high-level radioactive waste under part A or under part C.
@@ -1838,8 +1922,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10199"></a>
-## § 10199. Purpose
+<a id="section-10200"></a>
+## § 10200. Purpose
 
 It is the purpose of this subchapter—
 
@@ -1854,14 +1938,14 @@ It is the purpose of this subchapter—
 (3) to provide for an improved cooperative role between the Federal Government and States, affected Indian tribes, and units of general local government in the siting of a test and evaluation facility.
 
 
-<a id="section-10200"></a>
-## § 10200. Applicability
+<a id="section-10201"></a>
+## § 10201. Applicability
 
 The provisions of this subchapter are subject to [section 10107 of this title](./chapter-108-nuclear-waste-policy.md#section-10107) and shall not apply to facilities that are used for the disposal of high-level radioactive waste, low-level radioactive waste, transuranic waste, or spent nuclear fuel resulting from atomic energy defense activities.
 
 
-<a id="section-10201"></a>
-## § 10201. Identification of sites
+<a id="section-10202"></a>
+## § 10202. Identification of sites
 **(a) Guidelines** Not later than 6 months after January 7, 1983, and notwithstanding the failure of other agencies to promulgate standards pursuant to applicable law, the Secretary, in consultation with the Commission, the Director of the United States Geological Survey, the Administrator, the Council on Environmental Quality, and such other Federal agencies as the Secretary considers appropriate, is authorized to issue, pursuant to [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), general guidelines for the selection of a site for a test and evaluation facility. Under such guidelines the Secretary shall specify factors that qualify or disqualify a site for development as a test and evaluation facility, including factors pertaining to the location of valuable natural resources, hydrogeophysics, seismic activity, and atomic energy defense activities, proximity to water supplies, proximity to populations, the effect upon the rights of users of water, and proximity to components of the National Park System, the National Wildlife Refuge System, the National Wild and Scenic Rivers System, the National Wilderness Preservation System, or National Forest Lands. Such guidelines shall require the Secretary to consider the various geologic media in which the site for a test and evaluation facility may be located and, to the extent practicable, to identify sites in different geologic media. The Secretary shall use guidelines established under this subsection in considering and selecting sites under this subchapter.
 
 **(b) Site identification by Secretary**
@@ -1886,8 +1970,8 @@ The provisions of this subchapter are subject to [section 10107 of this title](.
 “United States Geological Survey” substituted for “Geological Survey” in subsec. (a) pursuant to provision of title I of Pub. L. 102–154, set out as a note under [section 31 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section31&num=0&edition=prelim), Public Lands.
 
 
-<a id="section-10202"></a>
-## § 10202. Siting research and related activities
+<a id="section-10203"></a>
+## § 10203. Siting research and related activities
 **(a) In general** Not later than 30 months after the date on which the Secretary completes the identification of sites under [section 10193 of this title](./chapter-108-nuclear-waste-policy.md#section-10193), the Secretary is authorized to complete sufficient evaluation of 3 sites to select a site for expanded siting research activities and for other activities under [section 10198 of this title](./chapter-108-nuclear-waste-policy.md#section-10198). The Secretary is authorized to conduct such preconstruction activities relative to such site selection for the test and evaluation facility as he deems appropriate. Additional sites for the location of the test and evaluation facility authorized in [section 10222(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10222/d&num=0&edition=prelim) may be evaluated after such 30-month period, following the same procedures as if such sites were to be evaluated within such period.
 
 **(b) Public meetings and environmental assessment** Not later than 6 months after the date on which the Secretary completes the identification of sites under [section 10193 of this title](./chapter-108-nuclear-waste-policy.md#section-10193), and before beginning siting research activities, the Secretary shall hold at least 1 public meeting in the vicinity of each site to inform the residents of the area of the activities to be conducted at such site and to receive their views.
@@ -1903,8 +1987,8 @@ The provisions of this subchapter are subject to [section 10107 of this title](.
 **(d) Title to material** The Secretary may take title, in the name of the Federal Government, to the high-level radioactive waste, spent nuclear fuel, or other radioactive material emplaced in a test and evaluation facility. If the Secretary takes title to any such material, the Secretary shall enter into the appropriate financial arrangements described in subsection (a) or (b) of [section 10222 of this title](./chapter-108-nuclear-waste-policy.md#section-10222) for the disposal of such material.
 
 
-<a id="section-10203"></a>
-## § 10203. Test and evaluation facility siting review and reports
+<a id="section-10204"></a>
+## § 10204. Test and evaluation facility siting review and reports
 **(a) Consultation and cooperation** The Governor of a State, or the governing body of an affected Indian tribe, notified of a site identification under [section 10193 of this title](./chapter-108-nuclear-waste-policy.md#section-10193) shall have the right to participate in a process of consultation and cooperation as soon as the site involved has been identified pursuant to such section and throughout the life of the test and evaluation facility. For purposes of this section, the term “process of consultation and cooperation” means a methodology—
 
 (1) by which the Secretary—
@@ -1932,8 +2016,8 @@ The provisions of this subchapter are subject to [section 10107 of this title](.
 **(c) Limitation** Except as specifically provided in this section, nothing in this subchapter is intended to grant any State or affected Indian tribe any authority with respect to the siting, development, or loading of the test and evaluation facility.
 
 
-<a id="section-10204"></a>
-## § 10204. Federal agency actions
+<a id="section-10221"></a>
+## § 10221. Federal agency actions
 **(a) Cooperation and coordination** Federal agencies shall assist the Secretary by cooperating and coordinating with the Secretary in the preparation of any necessary reports under this subchapter and the mission plan under [section 10221 of this title](./chapter-108-nuclear-waste-policy.md#section-10221).
 
 **(b) Environmental review**
@@ -1948,8 +2032,8 @@ The provisions of this subchapter are subject to [section 10107 of this title](.
 The National Environmental Policy Act of 1969, referred to in subsec. (b)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321) and Tables.
 
 
-<a id="section-10221"></a>
-## § 10221. Research and development on disposal of high-level radioactive waste
+<a id="section-10222"></a>
+## § 10222. Research and development on disposal of high-level radioactive waste
 **(a) Purpose** Not later than 64 months after January 7, 1983, the Secretary is authorized to, to the extent practicable, begin at a site evaluated under [section 10194 of this title](./chapter-108-nuclear-waste-policy.md#section-10194), as part of and as an extension of siting research activities of such site under such section, the mining and construction of a test and evaluation facility. Prior to the mining and construction of such facility, the Secretary shall prepare an environmental assessment. The purpose of such facility shall be—
 
 (1) to supplement and focus the repository site characterization process;
@@ -2051,8 +2135,8 @@ The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, 
 This subchapter, referred to in subsec. (f)(1)(A), was in the original “this subtitle”, and was translated as this subchapter to reflect the probable intent of Congress because title II of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 
 
-<a id="section-10222"></a>
-## § 10222. Research and development on spent nuclear fuel
+<a id="section-10223"></a>
+## § 10223. Research and development on spent nuclear fuel
 **(a) Demonstration and cooperative programs** The Secretary shall establish a demonstration program, in cooperation with the private sector, for the dry storage of spent nuclear fuel at civilian nuclear power reactor sites, with the objective of establishing one or more technologies that the Commission may, by rule, approve for use at the sites of civilian nuclear power reactors without, to the maximum extent practicable, the need for additional site-specific approvals by the Commission. Not later than 1 year after January 7, 1983, the Secretary shall select at least 1, but not more than 3, sites evaluated under [section 10194 of this title](./chapter-108-nuclear-waste-policy.md#section-10194) at such power reactors. In selecting such site or sites, the Secretary shall give preference to civilian nuclear power reactors that will soon have a shortage of interim storage capacity for spent nuclear fuel. Subject to reaching agreement as provided in subsection (b), the Secretary shall undertake activities to assist such power reactors with demonstration projects at such sites, which may use one of the following types of alternate storage technologies: spent nuclear fuel storage casks, caissons, or silos. The Secretary shall also undertake a cooperative program with civilian nuclear power reactors to encourage the development of the technology for spent nuclear fuel rod consolidation in existing power reactor water storage basins.
 
 **(b) Cooperative agreements** To carry out the programs described in subsection (a), the Secretary shall enter into a cooperative agreement with each utility involved that specifies, at a minimum, that—
@@ -2083,33 +2167,33 @@ This subchapter, referred to in subsec. (f)(1)(A), was in the original “this s
 1994—Subsec. (e)(1). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
 
 
-<a id="section-10223"></a>
-## § 10223. Payments to States and Indian tribes
+<a id="section-10224"></a>
+## § 10224. Payments to States and Indian tribes
 **(a) Payments** Subject to subsection (b), the Secretary shall make payments to each State or affected Indian tribe that has entered into an agreement pursuant to [section 10195 of this title](./chapter-108-nuclear-waste-policy.md#section-10195). The Secretary shall pay an amount equal to 100 percent of the expenses incurred by such State or Indian tribe in engaging in any monitoring, testing, evaluation, or other consultation and cooperation activity under [section 10195 of this title](./chapter-108-nuclear-waste-policy.md#section-10195) with respect to any site. The amount paid by the Secretary under this paragraph shall not exceed $3,000,000 per year from the date on which the site involved was identified to the date on which the decontamination and decommission of the facility is complete pursuant to [section 10197(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10197/h&num=0&edition=prelim). Any such payment may only be made to a State in which a potential site for a test and evaluation facility has been identified under [section 10193 of this title](./chapter-108-nuclear-waste-policy.md#section-10193), or to an affected Indian tribe where the potential site has been identified under such section.
 
 **(b) Limitation** The Secretary shall make any payment to a State under subsection (a) only if such State agrees to provide, to each unit of general local government within the jurisdictional boundaries of which the potential site or effectively selected site involved is located, at least one-tenth of the payments made by the Secretary to such State under such subsection. A State or affected Indian tribe receiving any payment under subsection (a) shall otherwise have discretion to use such payment for whatever purpose it deems necessary, including the State or tribal activities pursuant to agreements entered into in accordance with [section 10195 of this title](./chapter-108-nuclear-waste-policy.md#section-10195). Annual payments shall be prorated on a 365-day basis to the specified dates.
 
 
-<a id="section-10224"></a>
-## § 10224. Study of research and development needs for monitored retrievable storage proposal
+<a id="section-10225"></a>
+## § 10225. Study of research and development needs for monitored retrievable storage proposal
 
 Not later than 6 months after January 7, 1983, the Secretary shall submit to the Congress a report describing the research and development activities the Secretary considers necessary to develop the proposal required in [section 10161(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10161/b&num=0&edition=prelim) with respect to a monitored retrievable storage facility.
 
 
-<a id="section-10225"></a>
-## § 10225. Judicial review
+<a id="section-10226"></a>
+## § 10226. Judicial review
 
 Judicial review of research and development activities under this subchapter shall be in accordance with the provisions of [section 10139 of this title](./chapter-108-nuclear-waste-policy.md#section-10139).
 
 
-<a id="section-10226"></a>
-## § 10226. Research on alternatives for permanent disposal of high-level radioactive waste
+<a id="section-10241"></a>
+## § 10241. Research on alternatives for permanent disposal of high-level radioactive waste
 
 The Secretary shall continue and accelerate a program of research, development, and investigation of alternative means and technologies for the permanent disposal of high-level radioactive waste from civilian nuclear activities and Federal research and development activities except that funding shall be made from amounts appropriated to the Secretary for purposes of carrying out this section. Such program shall include examination of various waste disposal options.
 
 
-<a id="section-10241"></a>
-## § 10241. Technical assistance to non-nuclear weapon states in field of spent fuel storage and disposal
+<a id="section-10242"></a>
+## § 10242. Technical assistance to non-nuclear weapon states in field of spent fuel storage and disposal
 **(a) Statement of policy** It shall be the policy of the United States to cooperate with and provide technical assistance to non-nuclear weapon states in the field of spent fuel storage and disposal.
 
 **(b) Publication of joint notice; update**
@@ -2132,8 +2216,8 @@ The Secretary shall continue and accelerate a program of research, development, 
 The Treaty on the Non-Proliferation of Nuclear Weapons, referred to in subsec. (e), is set out in 21 UST 483; TIAS 6839.
 
 
-<a id="section-10242"></a>
-## § 10242. Subseabed disposal
+<a id="section-10243"></a>
+## § 10243. Subseabed disposal
 **(a) Repealed. Pub. L. 104–66, title I, § 1051(d), Dec. 21, 1995, 109 Stat. 716**
 
 **(b) Office of Subseabed Disposal Research**
@@ -2173,8 +2257,8 @@ Subsec. (b)(2). Pub. L. 105–245 substituted “Office of Science” for “Off
 Subsec. (b)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “The Director of the Office of Subseabed Disposal Research shall annually prepare and submit a report to the Congress on the activities and expenditures of the Office.”
 
 
-<a id="section-10243"></a>
-## § 10243. Mission plan
+<a id="section-10244"></a>
+## § 10244. Mission plan
 **(a) Contents of mission plan** The Secretary shall prepare a comprehensive report, to be known as the mission plan, which shall provide an informational basis sufficient to permit informed decisions to be made in carrying out the repository program and the research, development, and demonstration programs required under this chapter. The mission plan shall include—
 
 (1) an identification of the primary scientific, engineering, and technical information, including any necessary demonstration of engineering or systems integration, with respect to the siting and construction of a test and evaluation facility and repositories;
@@ -2208,8 +2292,8 @@ Subsec. (b)(5). Pub. L. 104–66 struck out par. (5) which read as follows: “T
 (3) The Secretary, after reviewing any other comments made by such agencies and revising the mission plan to the extent that the Secretary may consider to be appropriate, shall submit the mission plan to the appropriate committees of the Congress not later than 17 months after January 7, 1983. The mission plan shall be used by the Secretary at the end of the first period of 30 calendar days (not including any day on which either House of Congress is not in session because of adjournment of more than 3 calendar days to a day certain) following receipt of the mission plan by the Congress.
 
 
-<a id="section-10244"></a>
-## § 10244. Nuclear Waste Fund
+<a id="section-10245"></a>
+## § 10245. Nuclear Waste Fund
 **(a) Contracts**
 
 (1) In the performance of his functions under this chapter, the Secretary is authorized to enter into contracts with any person who generates or holds title to high-level radioactive waste, or spent nuclear fuel, of domestic origin for the acceptance of title, subsequent transportation, and disposal of such waste or spent fuel. Such contracts shall provide for payment to the Secretary of fees pursuant to paragraphs (2) and (3) sufficient to offset expenditures described in subsection (d).
@@ -2305,14 +2389,14 @@ Such Act, referred to in subsec. (e)(5), probably means chapter 31 of Title 31, 
 For termination, effective May 15, 2000, of provisions in subsec. (e)(1) of this section relating to annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 4th item on page 143 of House Document No. 103–7.
 
 
-<a id="section-10245"></a>
-## § 10245. Alternative means of financing
+<a id="section-10246"></a>
+## § 10246. Alternative means of financing
 
 The Secretary shall undertake a study with respect to alternative approaches to managing the construction and operation of all civilian radioactive waste management facilities, including the feasibility of establishing a private corporation for such purposes. In conducting such study, the Secretary shall consult with the Director of the Office of Management and Budget, the Chairman of the Commission, and such other Federal agency representatives as may be appropriate. Such study shall be completed, and a report containing the results of such study shall be submitted to the Congress, within 1 year after January 7, 1983.
 
 
-<a id="section-10246"></a>
-## § 10246. Office of Civilian Radioactive Waste Management
+<a id="section-10247"></a>
+## § 10247. Office of Civilian Radioactive Waste Management
 **(a) Establishment** There hereby is established within the Department of Energy an Office of Civilian Radioactive Waste Management. The Office shall be headed by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall be compensated at the rate payable for level IV of the Executive Schedule under [section 5315 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5315&num=0&edition=prelim).
 
 **(b) Functions of Director** The Director of the Office shall be responsible for carrying out the functions of the Secretary under this chapter, subject to the general supervision of the Secretary. The Director of the Office shall be directly responsible to the Secretary.
@@ -2332,8 +2416,8 @@ The Secretary shall undertake a study with respect to alternative approaches to 
 For termination, effective May 15, 2000, of provisions in subsec. (c) of this section relating to annual submittal of report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance, and the 13th item on page 91 of House Document No. 103–7.
 
 
-<a id="section-10247"></a>
-## § 10247. Location of test and evaluation facility
+<a id="section-10248"></a>
+## § 10248. Location of test and evaluation facility
 **(a) Report to Congress** Not later than 1 year after January 7, 1983, the Secretary shall transmit to the Congress a report setting forth whether the Secretary plans to locate the test and evaluation facility at the site of a repository.
 
 **(b) Procedures**
@@ -2345,14 +2429,14 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 (3) The Secretary may not commence construction of a test and evaluation facility at a candidate site or site recommended as the location for a repository prior to the date on which the designation of such site is effective under [section 10135 of this title](./chapter-108-nuclear-waste-policy.md#section-10135).
 
 
-<a id="section-10248"></a>
-## § 10248. Nuclear Regulatory Commission training authorization
+<a id="section-10249"></a>
+## § 10249. Nuclear Regulatory Commission training authorization
 
 The Nuclear Regulatory Commission is authorized and directed to promulgate regulations, or other appropriate Commission regulatory guidance, for the training and qualifications of civilian nuclear powerplant operators, supervisors, technicians and other appropriate operating personnel. Such regulations or guidance shall establish simulator training requirements for applicants for civilian nuclear powerplant operator licenses and for operator requalification programs; requirements governing NRC administration of requalification examinations; requirements for operating tests at civilian nuclear powerplant simulators, and instructional requirements for civilian nuclear powerplant licensee personnel training programs. Such regulations or other regulatory guidance shall be promulgated by the Commission within the 12-month period following January 7, 1983, and the Commission within the 12-month period following January 7, 1983, shall submit a report to Congress setting forth the actions the Commission has taken with respect to fulfilling its obligations under this section.
 
 
-<a id="section-10249"></a>
-## § 10249. “State” defined
+<a id="section-10250"></a>
+## § 10250. “State” defined
 
 For purposes of this subchapter, the term “State” means each of the several States and the District of Columbia.
 
@@ -2365,8 +2449,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 1992—Pub. L. 102–486 substituted “several States and the District of Columbia.” for “several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, any other territory or possession of the United States, and the Republic of the Marshall Islands.”
 
 
-<a id="section-10250"></a>
-## § 10250. Office of Nuclear Waste Negotiator
+<a id="section-10251"></a>
+## § 10251. Office of Nuclear Waste Negotiator
 **(a) Establishment** There is established the Office of the Nuclear Waste Negotiator that shall be an independent establishment in the executive branch.
 
 **(b) Nuclear Waste Negotiator**
@@ -2384,8 +2468,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 1988—Subsec. (a). Pub. L. 100–507 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There is established within the Executive Office of the President the Office of the Nuclear Waste Negotiator.”
 
 
-<a id="section-10251"></a>
-## § 10251. Duties of Negotiator
+<a id="section-10261"></a>
+## § 10261. Duties of Negotiator
 **(a) Negotiations with potential hosts**
 
 (1) The Negotiator shall—
@@ -2429,8 +2513,8 @@ The Energy Reorganization Act of 1982, referred to in subsec. (d)(4), probably m
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10261"></a>
-## § 10261. Environmental assessment of sites
+<a id="section-10262"></a>
+## § 10262. Environmental assessment of sites
 **(a) In general** Upon the request of the Negotiator, the Secretary shall prepare an environmental assessment of any site that is the subject of negotiations under [section 10243(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10243/a&num=0&edition=prelim).
 
 **(b) Contents**
@@ -2465,8 +2549,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10262"></a>
-## § 10262. Site characterization; licensing
+<a id="section-10263"></a>
+## § 10263. Site characterization; licensing
 **(a) Site characterization** Upon enactment of legislation to implement an agreement to site a repository negotiated under [section 10243(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10243/a&num=0&edition=prelim), the Secretary shall conduct appropriate site characterization activities for the site that is the subject of such agreement subject to the conditions and terms of such agreement. Any such site characterization activities shall be conducted in accordance with [section 10133 of this title](./chapter-108-nuclear-waste-policy.md#section-10133), except that references in such section to the Yucca Mountain site and the State of Nevada shall be deemed to refer to the site that is the subject of the agreement and the State or Indian tribe entering into the agreement.
 
 **(b) Licensing**
@@ -2481,8 +2565,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10263"></a>
-## § 10263. Monitored retrievable storage
+<a id="section-10264"></a>
+## § 10264. Monitored retrievable storage
 **(a) Construction and operation** Upon enactment of legislation to implement an agreement negotiated under [section 10243(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10243/a&num=0&edition=prelim) to site a monitored retrievable storage facility, the Secretary shall construct and operate such facility as part of an integrated nuclear waste management system in accordance with the terms and conditions of such agreement.
 
 **(b) Financial assistance** The Secretary may make grants to any State, Indian tribe, or affected unit of local government to assess the feasibility of siting a monitored retrievable storage facility under this section at a site under the jurisdiction of such State, tribe, or affected unit of local government.
@@ -2493,8 +2577,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10264"></a>
-## § 10264. Environmental impact statement
+<a id="section-10265"></a>
+## § 10265. Environmental impact statement
 **(a) In general** Issuance of a construction authorization for a repository or monitored retrievable storage facility under [section 10245(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10245/b&num=0&edition=prelim) shall be considered a major Federal action significantly affecting the quality of the human environment for purposes of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.).
 
 **(b) Preparation** A final environmental impact statement shall be prepared by the Secretary under such Act and shall accompany any application to the Nuclear Regulatory Commission for a construction authorization.
@@ -2518,8 +2602,8 @@ The National Environmental Policy Act of 1969, referred to in subsecs. (a) and (
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10265"></a>
-## § 10265. Administrative powers of Negotiator
+<a id="section-10266"></a>
+## § 10266. Administrative powers of Negotiator
 
 In carrying out his functions under this subchapter, the Negotiator may—
 
@@ -2541,22 +2625,22 @@ In carrying out his functions under this subchapter, the Negotiator may—
 
 (9) hold such hearings as are necessary to determine the views of interested parties and the general public; and
 
-(10) appoint advisory committees under the Federal Advisory Committee Act (5 U.S.C. App.).
+(10) appoint advisory committees under chapter 10 of title 5.
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in par. (10), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
+
+#### Amendments
+2022—Par. (10). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
 
-<a id="section-10266"></a>
-## § 10266. Cooperation of other departments and agencies
+<a id="section-10267"></a>
+## § 10267. Cooperation of other departments and agencies
 
 Each department, agency, and instrumentality of the United States, including any independent agency, may furnish the Negotiator such information as he determines to be necessary to carry out his functions under this subchapter.
 
@@ -2566,8 +2650,8 @@ Each department, agency, and instrumentality of the United States, including any
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10267"></a>
-## § 10267. Termination of Office
+<a id="section-10268"></a>
+## § 10268. Termination of Office
 
 The Office shall cease to exist not later than 30 days after the date 7 years after December 22, 1987.
 
@@ -2580,8 +2664,8 @@ Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 1992—Pub. L. 102–486 substituted “7 years” for “5 years”.
 
 
-<a id="section-10268"></a>
-## § 10268. Authorization of appropriations
+<a id="section-10269"></a>
+## § 10269. Authorization of appropriations
 
 Notwithstanding subsection (d) of [section 10222 of this title](./chapter-108-nuclear-waste-policy.md#section-10222), and subject to subsection (e) of such section, there are authorized to be appropriated for expenditures from amounts in the Waste Fund established in subsection (c) of such section, such sums as may be necessary to carry out the provisions of this subchapter.
 
@@ -2591,8 +2675,8 @@ Notwithstanding subsection (d) of [section 10222 of this title](./chapter-108-nu
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
 
-<a id="section-10269"></a>
-## § 10269. Definitions
+<a id="section-10270"></a>
+## § 10270. Definitions
 
 As used in this subchapter:
 
@@ -2604,50 +2688,3 @@ As used in this subchapter:
 
 #### Codification
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
-
-
-<a id="section-10270"></a>
-## § 10270. Nuclear Waste Technical Review Board
-**(a) Establishment** There is established a Nuclear Waste Technical Review Board that shall be an independent establishment within the executive branch.
-
-**(b) Members**
-
-(1) The Board shall consist of 11 members who shall be appointed by the President not later than 90 days after December 22, 1987, from among persons nominated by the National Academy of Sciences in accordance with paragraph (3).
-
-(2) The President shall designate a member of the Board to serve as chairman.
-
-(3)
-
-  (A) The National Academy of Sciences shall, not later than 90 days after December 22, 1987, nominate not less than 22 persons for appointment to the Board from among persons who meet the qualifications described in subparagraph (C).
-
-  (B) The National Academy of Sciences shall nominate not less than 2 persons to fill any vacancy on the Board from among persons who meet the qualifications described in subparagraph (C).
-
-  (C)
-
-    (i) Each person nominated for appointment to the Board shall be—
-
-      (I) eminent in a field of science or engineering, including environmental sciences; and
-
-      (II) selected solely on the basis of established records of distinguished service.
-
-    (ii) The membership of the Board shall be representative of the broad range of scientific and engineering disciplines related to activities under this subchapter.
-
-    (iii) No person shall be nominated for appointment to the Board who is an employee of—
-
-      (I) the Department of Energy;
-
-      (II) a national laboratory under contract with the Department of Energy; or
-
-      (III) an entity performing high-level radioactive waste or spent nuclear fuel activities under contract with the Department of Energy.
-
-(4) Any vacancy on the Board shall be filled by the nomination and appointment process described in paragraphs (1) and (3).
-
-(5) Members of the Board shall be appointed for terms of 4 years, each such term to commence 120 days after December 22, 1987, except that of the 11 members first appointed to the Board, 5 shall serve for 2 years and 6 shall serve for 4 years, to be designated by the President at the time of appointment.
-
-### Statutory Notes
-
-#### Codification
-Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
-
-#### Continued Board Service After Expiration of Term
-Pub. L. 104–46, title V, § 503, Nov. 13, 1995, 109 Stat. 419, provided that: “Without fiscal year limitation and notwithstanding section 502(b)(5) of the Nuclear Waste Policy Act, as amended [[42 U.S.C. 10262(b)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section10262/b/5&num=0&edition=prelim)], or any other provision of law, a member of the Nuclear Waste Technical Review Board whose term has expired may continue to serve as a member of the Board until such member’s successor has taken office.”

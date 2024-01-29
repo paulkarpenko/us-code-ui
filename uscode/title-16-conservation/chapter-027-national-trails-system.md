@@ -25,6 +25,9 @@ Subsec. (c). Pub. L. 98–11, § 202(2), added subsec. (c).
 
 Subsec. (b). Pub. L. 95–625, § 551(3), substituted “, scenic and historic” for “and scenic”.
 
+#### Short Title of 2023 Amendment
+Pub. L. 117–345, § 1, Jan. 5, 2023, 136 Stat. 6196, provided that: “This Act [amending [section 1244 of this title](./chapter-027-national-trails-system.md#section-1244)] may be cited as the ‘Butterfield Overland National Historic Trail Designation Act’.”
+
 #### Short Title of 2020 Amendment
 Pub. L. 116–111, § 1, Jan. 27, 2020, 134 Stat. 8, provided that: “This Act [amending [section 1244 of this title](./chapter-027-national-trails-system.md#section-1244)] may be cited as the ‘Emancipation National Historic Trail Study Act’.”
 
@@ -390,13 +393,53 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 
   (D) *Land acquisition.—* — The United States shall not acquire for the Pacific Northwest National Scenic Trail any land or interest in land outside the exterior boundary of any federally-managed area without the consent of the owner of the land or interest in land.
 
+(31) **22 So in original. Two pars. (31) have been enacted. Chilkoot national historic trail.—**
+
+  (A) *In general.—* — The Chilkoot National Historic Trail, an approximately 16.5-mile route within the Klondike Gold Rush National Historical Park that was traditionally used as a trading route by the Tlingit Indian Tribe and Tagish First Nation and as a gold rush route, as generally depicted on the map entitled “Proposed Chilkoot National Historic Trail”, numbered KLGO–461–173787, and dated October 2020.
+
+  (B) *Availability of map.—* — The map described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+  (C) *Administration.—* — The Chilkoot National Historic Trail shall be administered by the Secretary of the Interior.
+
+  (D) *Effect.—* — The designation of the Chilkoot National Historic Trail shall not affect any authorities under Public Law 94–323 ([16 U.S.C. 410bb](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-410bb) et seq.).
+
+  (E) *Coordination of activities.—* — The Secretary of the Interior may coordinate with public and nongovernmental organizations and institutions of higher education in the United States and Canada, Alaska Native Corporations, and, in consultation with the Secretary of State, the Government of Canada and any political subdivisions of the Government of Canada for the purposes of—
+
+    (i) exchanging information and research relating to the Chilkoot National Historic Trail;
+
+    (ii) supporting the preservation of, and educational programs relating to, the Chilkoot National Historic Trail;
+
+    (iii) providing technical assistance with respect to the Chilkoot National Historic Trail; and
+
+    (iv) working to establish an international historic trail incorporating the Chilkoot National Historic Trail that provides for complementary preservation and education programs in the United States and Canada.
+
+(31) **2 Butterfield overland national historic trail.—**
+
+  (A) *In general.—* — The Butterfield Overland National Historic Trail, a trail of approximately 3,292 miles following the route operated by the Butterfield Overland Mail Company, known as the “Ox-Bow Route”, to transport mail and passengers between the eastern termini of St. Louis, Missouri, and Memphis, Tennessee, and extending westward through the States of Arkansas, Oklahoma, Texas, New Mexico, and Arizona, to the western terminus of San Francisco, California, as generally depicted on the maps numbered 1 through 15, entitled “Study Route Maps”, and contained in the report prepared by the National Park Service entitled “Butterfield Overland Trail National Historical Trail Special Resource Study” and dated May 2018.
+
+  (B) *Maps.—* — The maps described in subparagraph (A) shall be on file and available for public inspection in the appropriate offices of the National Park Service.
+
+  (C) *Administration.—* — The trail established by subparagraph (A) shall be administered by the Secretary of the Interior.
+
+  (D) *Land acquisition.—* — The United States shall not acquire for the trail established by subparagraph (A) any land or interest in land outside of the exterior boundary of any federally administered area without the consent of the owner of the land or interest in land.
+
+  (E) *No buffer zone created.—*
+
+    (i) *In general.—* — Nothing in this paragraph, the acquisition of land or an interest in land authorized by this paragraph, or any management plan for the Butterfield Overland National Historic Trail creates a buffer zone outside of the Butterfield Overland National Historic Trail.
+
+    (ii) *Outside activities.—* — The fact that an activity or use on land outside the Butterfield Overland National Historic Trail can be seen, heard, or detected from land or an interest in land acquired for the Butterfield Overland National Historic Trail shall not preclude, limit, control, regulate, or determine the conduct or management of the activity or use.
+
+  (F) *Effect on energy development, production, or transmission.—* — Nothing in this paragraph, the acquisition of land or an interest in land authorized by this paragraph, or any management plan for the Butterfield Overland National Historic Trail shall prohibit, hinder, or disrupt the development, production, or transmission of energy.
+
+  (G) *No eminent domain or condemnation.—* — In carrying out this paragraph, the Secretary of the Interior may not use eminent domain or condemnation.
+
 **(b) Additional national scenic or national historic trails; feasibility studies; consultations; submission of studies to Congress; scope of studies; qualifications for national historic trail designation** The Secretary of the Interior, through the agency most likely to administer such trail, and the Secretary of Agriculture where lands administered by him are involved, shall make such additional studies as are herein or may hereafter be authorized by the Congress for the purpose of determining the feasibility and desirability of designating other trails as national scenic or national historic trails. Such studies shall be made in consultation with the heads of other Federal agencies administering lands through which such additional proposed trails would pass and in cooperation with interested interstate, State, and local governmental agencies, public and private organizations, and landowners and land users concerned. The feasibility of designating a trail shall be determined on the basis of an evaluation of whether or not it is physically possible to develop a trail along a route being studied, and whether the development of a trail would be financially feasible. The studies listed in subsection (c) of this section shall be completed and submitted to the Congress, with recommendations as to the suitability of trail designation, not later than three complete fiscal years from the date of enactment of their addition to this subsection, or from November 10, 1978, whichever is later. Such studies, when submitted, shall be printed as a House or Senate document, and shall include, but not be limited to:
 
 (1) the proposed route of such trail (including maps and illustrations);
 
 (2) the areas adjacent to such trails, to be utilized for scenic, historic, natural, cultural, or developmental, purposes;
 
-(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461)); 22 See References in Text note below.
+(3) the characteristics which, in the judgment of the appropriate Secretary, make the proposed trail worthy of designation as a national scenic or national historic trail; and in the case of national historic trails the report shall include the recommendation of the Secretary of the Interior’s National Park System Advisory Board as to the national historic significance based on the criteria developed under the Historic Sites Act of 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-historic-sites-buildings-objects-and-antiquities.md#section-461)); 33 See References in Text note below.
 
 (4) the current status of land ownership and current and potential use along the designated route;
 
@@ -591,6 +634,26 @@ Subsec. (b)(iii). Pub. L. 98–11, § 204(2)–(4), added cl. (iii).
 (46) **Pike national historic trail.—** — The Pike National Historic Trail, a series of routes extending approximately 3,664 miles, which follows the route taken by Lt. Zebulon Montgomery Pike during the 1806–1807 Pike expedition that began in Fort Bellefontaine, Missouri, extended through portions of the States of Kansas, Nebraska, Colorado, New Mexico, and Texas, and ended in Natchitoches, Louisiana.
 
 (47) **Emancipation national historic trail.—** — The Emancipation National Historic Trail, extending approximately 51 miles from the Osterman Building and Reedy Chapel in Galveston, Texas, along Texas State Highway 3 and Interstate Highway 45 North, to Freedmen’s Town, then to Independence Heights and Emancipation Park in Houston, Texas, following the migration route taken by newly freed slaves and other persons of African descent from the major 19th century seaport town of Galveston to the burgeoning community of Freedmen’s Town, located in the 4th Ward of Houston, Texas.
+
+(48) **Alaska long trail.—**
+
+  (A) *In general.—* — The Alaska Long Trail, extending approximately 500 miles from Seward, Alaska, to Fairbanks, Alaska.
+
+  (B) *Requirement.—* — The Secretary of the Interior (referred to in this paragraph as the “Secretary”) shall study the feasibility of designating the trail described in subparagraph (A), including evaluating the potential impacts of the trail on rights-of-way, existing rights, or other recreational uses of the land proposed to be used for the trail.
+
+  (C) *Consultation.—* — The Secretary shall conduct the study under this paragraph in consultation with—
+
+    (i) the Secretary of Agriculture, acting through the Chief of the Forest Service;
+
+    (ii) the State of Alaska;
+
+    (iii) units of local government in the State of Alaska;
+
+    (iv) Alaska Native Corporations; and
+
+    (v) representatives of the private sector, including any entity that holds a permit issued by the Federal Energy Regulatory Commission.
+
+(49) **Buckeye trail.—** — The Buckeye Trail, a system of trails creating a loop extending approximately 1,454 miles from Lake Erie to the Ohio River, through the farmland of northwest Ohio, the hills of Appalachia, the Black Hand sandstone cliffs of the Hocking Hills region, and the Bluegrass region of southwest Ohio.
 
 **(d) Trail advisory councils; establishment and termination; term and compensation; membership; chairman** The Secretary charged with the administration of each respective trail shall, within one year of the date of the addition of any national scenic or national historic trail to the System, and within sixty days of November 10, 1978, for the Appalachian and Pacific Crest National Scenic Trails, establish an advisory council for each such trail, each of which councils shall expire ten years from the date of its establishment, except that the Advisory Council established for the Iditarod Historic Trail shall expire twenty years from the date of its establishment. If the appropriate Secretary is unable to establish such an advisory council because of the lack of adequate public interest, the Secretary shall so advise the appropriate committees of the Congress. The appropriate Secretary shall consult with such council from time to time with respect to matters relating to the trail, including the selection of rights-of-way, standards for the erection and maintenance of markers along the trail, and the administration of the trail. The members of each advisory council, which shall not exceed thirty-five in number, shall serve for a term of two years and without compensation as such, but the Secretary may pay, upon vouchers signed by the chairman of the council, the expenses reasonably incurred by the council and its members in carrying out their responsibilities under this section. Members of each council shall be appointed by the appropriate Secretary as follows:
 
@@ -804,6 +867,14 @@ The Historic Sites Act of 1935 (49 Stat. 666; [16 U.S.C. 461](./chapter-1a-histo
 Section 603 of the Omnibus Parks and Public Lands Management Act of 1996, referred to in subsec. (c)(40)(C), is section 603 of Pub. L. 104–333, div. I, title VI, Nov. 12, 1996, 110 Stat. 4172, which was formerly set out as a note under [section 1a–5 of this title](./chapter-001-national-parks-military-parks-monuments-and-seashores.md#section-1a-5).
 
 #### Amendments
+2023—Subsec. (a)(31). Pub. L. 117–345 added par. (31) relating to Butterfield Overland National Historic Trail.
+
+2022—Subsec. (a)(31). Pub. L. 117–328, § 501, added par. (31) relating to Chilkoot National Historic Trail.
+
+Subsec. (c)(48). Pub. L. 117–328, § 502, added par. (48).
+
+Subsec. (c)(49). Pub. L. 117–328, § 503, added par. (49).
+
 2020—Subsec. (c)(47). Pub. L. 116–111 added par. (47).
 
 2019—Subsec. (a)(6). Pub. L. 116–9, § 2502(a), substituted “4,900” for “three thousand seven hundred”, “the Ohio River in Pittsburgh, Pennsylvania,” for “Wood River, Illinois,”, and “the map entitled ‘Lewis and Clark National Historic Trail Authorized Trail Including Proposed Eastern Legacy Extension’, dated April 2018, and numbered 648/143721.” for “maps identified as, ‘Vicinity Map, Lewis and Clark Trail’ study report dated April 1977.”
@@ -979,7 +1050,7 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 Pub. L. 116–9, title II, § 2502(b), Mar. 12, 2019, 133 Stat. 754, provided that: “The amendments made by subsection (a) [amending this section] shall take effect on the date that is 60 days after the date of enactment of this Act [Mar. 12, 2019].”
 
 #### Termination of Advisory Councils
-Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory councils in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Construction of Title V of Pub. L. 111–11
 Pub. L. 111–11, title V, § 5401, Mar. 30, 2009, 123 Stat. 1164, provided that: “(a) Effect on Access for Recreational Activities.—Nothing in this title [amending this section and sections 1249, 1274, and 1276 of this title and enacting provisions set out as notes under this section and sections 1271 and 1274 of this title] shall be construed as affecting access for recreational activities otherwise allowed by law or regulation, including hunting, fishing, or trapping. “(b) Effect on State Authority.—Nothing in this title shall be construed as affecting the authority, jurisdiction, or responsibility of the several States to manage, control, or regulate fish and resident wildlife under State law or regulations, including the regulation of hunting, fishing, and trapping.”

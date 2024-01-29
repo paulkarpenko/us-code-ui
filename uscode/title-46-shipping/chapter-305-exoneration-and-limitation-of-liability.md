@@ -7,9 +7,25 @@ source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
 <a id="section-30501"></a>
-## § 30501. Definition
+## § 30501. Definitions
 
-In this chapter, the term “owner” includes a charterer that mans, supplies, and navigates a vessel at the charterer’s own expense or by the charterer’s own procurement.
+In this chapter:
+
+(1) **Covered small passenger vessel.—** — The term “covered small passenger vessel”—
+
+  (A) means a small passenger vessel, as defined in section 2101, that is—
+
+    (i) not a wing-in-ground craft; and
+
+    (ii) carrying—
+
+      (I) not more than 49 passengers on an overnight domestic voyage; and
+
+      (II) not more than 150 passengers on any voyage that is not an overnight domestic voyage; and
+
+  (B) includes any wooden vessel constructed prior to March 11, 1996, carrying at least 1 passenger for hire.
+
+(2) **Owner.—** — The term “owner” includes a charterer that mans, supplies, and navigates a vessel at the charterer’s own expense or by the charterer’s own procurement.
 
 ### Statutory Notes
 
@@ -20,11 +36,15 @@ In this chapter, the term “owner” includes a charterer that mans, supplies, 
 
 The words “In this chapter” are substituted for “within the meaning of the provisions of title 48 of the Revised Statutes relating to the limitation of the liability of the owners of vessels” because of the codification of title 46, United States Code. The word “supplies” is substituted for “victual” for clarity. The words “and such vessel, when so chartered, shall be liable in the same manner as if navigated by the owner thereof” are omitted as unnecessary.
 
+#### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, text read as follows: “In this chapter, the term ‘owner’ includes a charterer that mans, supplies, and navigates a vessel at the charterer’s own expense or by the charterer’s own procurement.”
+
 
 <a id="section-30502"></a>
 ## § 30502. Application
+**(a) In General.—** Except as otherwise provided, this chapter (except section 30521) applies to seagoing vessels and vessels used on lakes or rivers or in inland navigation, including canal boats, barges, and lighters.
 
-Except as otherwise provided, this chapter (except section 30503) applies to seagoing vessels and vessels used on lakes or rivers or in inland navigation, including canal boats, barges, and lighters.
+**(b) Exception.—** This chapter (except for section 30526) shall not apply to covered small passenger vessels.
 
 ### Statutory Notes
 
@@ -33,9 +53,12 @@ Except as otherwise provided, this chapter (except section 30503) applies to sea
 | Revised Section | Source (U.S. Code) | Source (Statutes at Large) |
 | 30502 | 46 App.:188. | R.S. § 4289; Feb. 18, 1875, ch. 80, § 1 (related to R.S. § 4289), 18 Stat. 320; June 19, 1886, ch. 421, § 4, 24 Stat. 80; June 5, 1936, ch. 521, § 4, 49 Stat. 1481. |
 
+#### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, text read as follows: “Except as otherwise provided, this chapter (except section 30503) applies to seagoing vessels and vessels used on lakes or rivers or in inland navigation, including canal boats, barges, and lighters.”
 
-<a id="section-30503"></a>
-## § 30503. Declaration of nature and value of goods
+
+<a id="section-30521"></a>
+## § 30521. Declaration of nature and value of goods
 **(a) In General.—** If a shipper of an item named in subsection (b), contained in a parcel, package, or trunk, loads the item as freight or baggage on a vessel, without at the time of loading giving to the person receiving the item a written notice of the true character and value of the item and having that information entered on the bill of lading, the owner and master of the vessel are not liable as carriers. The owner and master are not liable beyond the value entered on the bill of lading.
 
 **(b) Items.—** The items referred to in subsection (a) are precious metals, gold or silver plated articles, precious stones, jewelry, trinkets, watches, clocks, glass, china, coins, bills, securities, printings, engravings, pictures, stamps, maps, papers, silks, furs, lace, and similar items of high value and small size.
@@ -51,9 +74,12 @@ In subsection (a), the words “load” and “loading” are substituted for �
 
 In subsection (b), the words “precious metals” are substituted for “platina, gold, gold dust, silver, . . . or other precious metals, . . . gold or silver in a manufactured or unmanufactured state”, the words “precious stones” are substituted for “diamonds, or other precious stones”, the words “watches, clocks” are substituted for “watches, clocks, or timepieces of any description”, the words “coins, bills, securities” are substituted for “bullion, . . . coins, . . . bills of any bank or public body, . . . orders, notes, or securities for the payment of money”, the word “papers” is substituted for “writings, title deeds”, and the word “silks” is substituted for “silks in a manufactured or unmanufactured state, and whether wrought up or not wrought up with any other material”, to eliminate unnecessary words. The words “and similar items of high value and small size” are added to ensure that any of the items specifically named in the source but omitted in the revised section, or similar items, will be covered by this section.
 
+#### Amendments
+2022—Pub. L. 117–263 renumbered [section 30503 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30503&num=0&edition=prelim) as this section.
 
-<a id="section-30504"></a>
-## § 30504. Loss by fire
+
+<a id="section-30522"></a>
+## § 30522. Loss by fire
 
 The owner of a vessel is not liable for loss or damage to merchandise on the vessel caused by a fire on the vessel unless the fire resulted from the design or neglect of the owner.
 
@@ -66,10 +92,13 @@ The owner of a vessel is not liable for loss or damage to merchandise on the ves
 
 The words “liable for” are substituted for “liable to answer for or make good to any person”, the words “merchandise on the vessel” are substituted for “any merchandise whatsoever, which shall be shipped, taken in, or put on board any such vessel”, and the words “caused by a fire on the vessel” are substituted for “by reason or by means of any fire happening to or on board the vessel”, to eliminate unnecessary words.
 
+#### Amendments
+2022—Pub. L. 117–263 renumbered [section 30504 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30504&num=0&edition=prelim) as this section.
 
-<a id="section-30505"></a>
-## § 30505. General limit of liability
-**(a) In General.—** Except as provided in [section 30506 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30506), the liability of the owner of a vessel for any claim, debt, or liability described in subsection (b) shall not exceed the value of the vessel and pending freight. If the vessel has more than one owner, the proportionate share of the liability of any one owner shall not exceed that owner’s proportionate interest in the vessel and pending freight.
+
+<a id="section-30523"></a>
+## § 30523. General limit of liability
+**(a) In General.—** Except as provided in [section 30524 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30524), the liability of the owner of a vessel for any claim, debt, or liability described in subsection (b) shall not exceed the value of the vessel and pending freight. If the vessel has more than one owner, the proportionate share of the liability of any one owner shall not exceed that owner’s proportionate interest in the vessel and pending freight.
 
 **(b) Claims Subject to Limitation.—** Unless otherwise excluded by law, claims, debts, and liabilities subject to limitation under subsection (a) are those arising from any embezzlement, loss, or destruction of any property, goods, or merchandise shipped or put on board the vessel, any loss, damage, or injury by collision, or any act, matter, or thing, loss, damage, or forfeiture, done, occasioned, or incurred, without the privity or knowledge of the owner.
 
@@ -83,16 +112,21 @@ The words “liable for” are substituted for “liable to answer for or make g
 | 30505 | 46 App.:183(a). | R.S. § 4283(a); Aug. 29, 1935, ch. 804, § 1, 49 Stat. 960; June 5, 1936, ch. 521, § 1, 49 Stat. 1479. |
 |  | 46 App.:189 | June 26, 1884, ch. 121, § 18, 23 Stat. 57. |
 
-In subsection (a), the words “Except as provided in [section 30506 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30506)” are substituted for “except in the cases provided for in subsection (b) of this section” because 46 App. U.S.C. 183(b) is restated in section 30506 of the revised title. The words “whether American or foreign” are omitted as unnecessary because of section 30502 of the revised title. The words “shall not exceed the value of the vessel and pending freight” are substituted for “shall not . . . exceed the amount or value of . . . such vessel, and her freight then pending” in 46 App. U.S.C. 183(a) and for “the aggregate liabilities of all the owners of a vessel on account of the same shall not exceed the value of such vessels and freight pending” in 46 App. U.S.C. 189 for consistency and to eliminate unnecessary words. The last sentence is substituted for “the interest of such owner in” in 46 App. U.S.C. 183(a) and for “The individual liability of a shipowner shall be limited to the proportion of any or all debts and liabilities that his individual share of the vessel bears to the whole” in 46 App. U.S.C. 189 for clarity and consistency. The words “Provided, That this provision shall not prevent any claimant from joining all the owners in one action” in 46 App. U.S.C. 189 are omitted as unnecessary.
+In subsection (a), the words “Except as provided in [section 30506 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30506&num=0&edition=prelim)” are substituted for “except in the cases provided for in subsection (b) of this section” because 46 App. U.S.C. 183(b) is restated in section 30506 of the revised title. The words “whether American or foreign” are omitted as unnecessary because of section 30502 of the revised title. The words “shall not exceed the value of the vessel and pending freight” are substituted for “shall not . . . exceed the amount or value of . . . such vessel, and her freight then pending” in 46 App. U.S.C. 183(a) and for “the aggregate liabilities of all the owners of a vessel on account of the same shall not exceed the value of such vessels and freight pending” in 46 App. U.S.C. 189 for consistency and to eliminate unnecessary words. The last sentence is substituted for “the interest of such owner in” in 46 App. U.S.C. 183(a) and for “The individual liability of a shipowner shall be limited to the proportion of any or all debts and liabilities that his individual share of the vessel bears to the whole” in 46 App. U.S.C. 189 for clarity and consistency. The words “Provided, That this provision shall not prevent any claimant from joining all the owners in one action” in 46 App. U.S.C. 189 are omitted as unnecessary.
 
 Subsection (c) is substituted for “nor shall the same apply to wages due to persons employed by said shipowners” in 46 App. U.S.C. 189 because of the reorganization of the source provisions.
 
+#### Amendments
+2022—Pub. L. 117–263, § 11503(a)(3), renumbered [section 30505 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30505&num=0&edition=prelim) as this section.
 
-<a id="section-30506"></a>
-## § 30506. Limit of liability for personal injury or death
+Subsec. (a). Pub. L. 117–263, § 11503(f)(2), substituted “section 30524” for “section 30506”.
+
+
+<a id="section-30524"></a>
+## § 30524. Limit of liability for personal injury or death
 **(a) Application.—** This section applies only to seagoing vessels, but does not apply to pleasure yachts, tugs, towboats, towing vessels, tank vessels, fishing vessels, fish tender vessels, canal boats, scows, car floats, barges, lighters, or nondescript vessels.
 
-**(b) Minimum Liability.—** If the amount of the vessel owner’s liability determined under [section 30505 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30505) is insufficient to pay all losses in full, and the portion available to pay claims for personal injury or death is less than $420 times the tonnage of the vessel, that portion shall be increased to $420 times the tonnage of the vessel. That portion may be used only to pay claims for personal injury or death.
+**(b) Minimum Liability.—** If the amount of the vessel owner’s liability determined under [section 30523 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30523) is insufficient to pay all losses in full, and the portion available to pay claims for personal injury or death is less than $420 times the tonnage of the vessel, that portion shall be increased to $420 times the tonnage of the vessel. That portion may be used only to pay claims for personal injury or death.
 
 **(c) Calculation of Tonnage.—** Under subsection (b), the tonnage of a self-propelled vessel is the gross tonnage without deduction for engine room, and the tonnage of a sailing vessel is the tonnage for documentation. However, space for the use of seamen is excluded.
 
@@ -121,15 +155,20 @@ In subsection (d), the words “Separate limits of liability apply” are substi
 
 In subsection (e), the words “the privity or knowledge . . . is imputed to the owner” are substituted for “shall be deemed conclusively the privity or knowledge of the owner” for consistency and to eliminate unnecessary words.
 
+#### Amendments
+2022—Pub. L. 117–263, § 11503(a)(3), renumbered [section 30506 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30506&num=0&edition=prelim) as this section.
 
-<a id="section-30507"></a>
-## § 30507. Apportionment of losses
+Subsec. (b). Pub. L. 117–263, § 11503(f)(3), substituted “section 30523” for “section 30505”.
 
-If the amounts determined under sections 30505 and 30506 of this title are insufficient to pay all claims—
 
-(1) all claimants shall be paid in proportion to their respective losses out of the amount determined under [section 30505 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30505); and
+<a id="section-30525"></a>
+## § 30525. Apportionment of losses
 
-(2) personal injury and death claimants, if any, shall be paid an additional amount in proportion to their respective losses out of the additional amount determined under [section 30506(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30506/b&num=0&edition=prelim).
+If the amounts determined under sections 30523 and 30524 of this title are insufficient to pay all claims—
+
+(1) all claimants shall be paid in proportion to their respective losses out of the amount determined under [section 30523 of this title](./chapter-305-exoneration-and-limitation-of-liability.md#section-30523); and
+
+(2) personal injury and death claimants, if any, shall be paid an additional amount in proportion to their respective losses out of the additional amount determined under [section 30524(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30524/b&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -141,16 +180,25 @@ If the amounts determined under sections 30505 and 30506 of this title are insuf
 
 This section is substituted for 46 App. U.S.C. 183(b) (last sentence) and 184 (words before semicolon) for clarity and consistency and to eliminate unnecessary words. The text of 46 App. U.S.C. 184 (words after semicolon) is omitted as unnecessary. See G. Gilmore & C. Black, The Law of Admiralty, § 10–8 (2d ed. 1975).
 
+#### Amendments
+2022—Pub. L. 117–263, § 11503(f)(4)(A), substituted “sections 30523 and 30524” for “sections 30505 and 30506” in introductory provisions.
 
-<a id="section-30508"></a>
-## § 30508. Provisions requiring notice of claim or limiting time for bringing action
+Pub. L. 117–263, § 11503(a)(3), renumbered [section 30507 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30507&num=0&edition=prelim) as this section.
+
+Par. (1). Pub. L. 117–263, § 11503(f)(4)(B), substituted “section 30523” for “section 30505”.
+
+Par. (2). Pub. L. 117–263, § 11503(f)(4)(C), substituted “section 30524(b)” for “section 30506(b)”.
+
+
+<a id="section-30526"></a>
+## § 30526. Provisions requiring notice of claim or limiting time for bringing action
 **(a) Application.—** This section applies only to seagoing vessels, but does not apply to pleasure yachts, tugs, towboats, towing vessels, tank vessels, fishing vessels, fish tender vessels, canal boats, scows, car floats, barges, lighters, or nondescript vessels.
 
 **(b) Minimum Time Limits.—** The owner, master, manager, or agent of a vessel transporting passengers or property between ports in the United States, or between a port in the United States and a port in a foreign country, may not limit by regulation, contract, or otherwise the period for—
 
-(1) giving notice of, or filing a claim for, personal injury or death to less than 6 months after the date of the injury or death; or
+(1) giving notice of, or filing a claim for, personal injury or death, in the case of seagoing vessels, to less than 6 months after the date of the injury or death, or in the case of covered small passenger vessels, to less than two years after the date of the injury or death; or
 
-(2) bringing a civil action for personal injury or death to less than one year after the date of the injury or death.
+(2) bringing a civil action for personal injury or death, in the case of seagoing vessels, to less than one year after the date of the injury or death, or in the case of covered small passenger vessels, to less than two years after the date of the injury or death.
 
 **(c) Effect of Failure To Give Notice.—** When notice of a claim for personal injury or death is required by a contract, the failure to give the notice is not a bar to recovery if—
 
@@ -184,9 +232,16 @@ In subsection (c), before paragraph (1), the words “When notice of a claim for
 
 In subsection (d), before paragraph (1), the word “claimant” is substituted for “person who is entitled to recover on any such claim” to eliminate unnecessary words. The word “lawful” is omitted as unnecessary. The words “is tolled until” are substituted for “shall not be applicable so long as” and “but shall be applicable from” for clarity and to eliminate unnecessary words.
 
+#### Amendments
+2022—Pub. L. 117–263, § 11503(a)(3), renumbered [section 30508 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30508&num=0&edition=prelim) as this section.
 
-<a id="section-30509"></a>
-## § 30509. Provisions limiting liability for personal injury or death
+Subsec. (b)(1). Pub. L. 117–263, § 11503(d)(1), inserted “, in the case of seagoing vessels,” after “personal injury or death” and “, or in the case of covered small passenger vessels, to less than two years after the date of the injury or death” after “date of the injury or death”.
+
+Subsec. (b)(2). Pub. L. 117–263, § 11503(d)(2), inserted “, in the case of seagoing vessels,” after “personal injury or death” and “, or in the case of covered small passenger vessels, to less than two years after the date of the injury or death” after “date of the injury or death”.
+
+
+<a id="section-30527"></a>
+## § 30527. Provisions limiting liability for personal injury or death
 **(a) Prohibition.—**
 
 (1) **In general.—** — The owner, master, manager, or agent of a vessel transporting passengers between ports in the United States, or between a port in the United States and a port in a foreign country, may not include in a regulation or contract a provision limiting—
@@ -220,9 +275,12 @@ In subsection (a)(1), before subparagraph (A), the words “may not” are subst
 
 Subsection (b)(2) is substituted for 46 App. U.S.C. 183c (last sentence) for consistency and to eliminate unnecessary words.
 
+#### Amendments
+2022—Pub. L. 117–263 renumbered [section 30509 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30509&num=0&edition=prelim) as this section.
 
-<a id="section-30510"></a>
-## § 30510. Vicarious liability for medical malpractice with regard to crew
+
+<a id="section-30528"></a>
+## § 30528. Vicarious liability for medical malpractice with regard to crew
 
 In a civil action by any person in which the owner or operator of a vessel or employer of a crewmember is claimed to have vicarious liability for medical malpractice with regard to a crewmember occurring at a shoreside facility, and to the extent the damages resulted from the conduct of any shoreside doctor, hospital, medical facility, or other health care provider, the owner, operator, or employer is entitled to rely on any statutory limitations of liability applicable to the doctor, hospital, medical facility, or other health care provider in the State of the United States in which the shoreside medical care was provided.
 
@@ -235,9 +293,12 @@ In a civil action by any person in which the owner or operator of a vessel or em
 
 The words “civil action” are substituted for “suit” for consistency in the revised title. The words “is entitled to rely on any statutory” are substituted for “shall be entitled to rely upon any and all statutory” to eliminate unnecessary words.
 
+#### Amendments
+2022—Pub. L. 117–263 renumbered [section 30510 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30510&num=0&edition=prelim) as this section.
 
-<a id="section-30511"></a>
-## § 30511. Action by owner for limitation
+
+<a id="section-30529"></a>
+## § 30529. Action by owner for limitation
 **(a) In General.—** The owner of a vessel may bring a civil action in a district court of the United States for limitation of liability under this chapter. The action must be brought within 6 months after a claimant gives the owner written notice of a claim.
 
 **(b) Creation of Fund.—** When the action is brought, the owner (at the owner’s option) shall—
@@ -267,9 +328,12 @@ In subsection (a), the words “bring a civil action . . . in a district court o
 
 In subsection (b), the word “pending” before “freight” is added for consistency in the chapter. The words “to carry out this chapter” are substituted for “to carry out the provisions of section 183 of this Appendix” because of the reorganization of the source provisions.
 
+#### Amendments
+2022—Pub. L. 117–263 renumbered [section 30511 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30511&num=0&edition=prelim) as this section.
 
-<a id="section-30512"></a>
-## § 30512. Liability as master, officer, or seaman not affected
+
+<a id="section-30530"></a>
+## § 30530. Liability as master, officer, or seaman not affected
 
 This chapter does not affect the liability of an individual as a master, officer, or seaman, even though the individual is also an owner of the vessel.
 
@@ -281,3 +345,6 @@ This chapter does not affect the liability of an individual as a master, officer
 | 30512 | 46 App.:187. | R.S. § 4287. |
 
 This section is substituted for the source provision for consistency with the restatement of 46 App. U.S.C. 183(a) and 189 in section 30505 and to eliminate unnecessary words. The reference in the source to particular sections is extended to include the entire chapter to simplify the reference and to conform to the obvious original policy and intent of the source provision.
+
+#### Amendments
+2022—Pub. L. 117–263 renumbered [section 30512 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section30512&num=0&edition=prelim) as this section.

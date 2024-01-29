@@ -260,7 +260,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 ### Statutory Notes
 
 #### References in Text
-The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in subsec. (a)(1), is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, as amended, which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403). Pub. L. 88–643 was revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196, and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of Pub. L. 88–643 is classified generally to this subchapter.
+The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in subsec. (a)(1), is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403). Pub. L. 88–643 was revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196, and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of Pub. L. 88–643 is classified generally to this subchapter.
 
 #### Prior Provisions
 A prior section 201 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043; Pub. L. 98–618, title III, § 302, Nov. 8, 1984, 98 Stat. 3300; Pub. L. 99–335, title V, § 501(1), June 6, 1986, 100 Stat. 622, related to rules and regulations and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -292,7 +292,7 @@ The Director shall maintain the fund in the Treasury known as the “Central Int
 ### Statutory Notes
 
 #### References in Text
-The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in text, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, as amended, which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403). Pub. L. 88–643 was revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196, and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of Pub. L. 88–643 is classified generally to this subchapter.
+The Central Intelligence Agency Retirement Act of 1964 for Certain Employees, referred to in text, is Pub. L. 88–643, Oct. 13, 1964, 78 Stat. 1043, which was formerly set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403). Pub. L. 88–643 was revised generally by Pub. L. 102–496, title VIII, § 802, Oct. 24, 1992, 106 Stat. 3196, and is now known as the Central Intelligence Agency Retirement Act. As so revised, title II of Pub. L. 88–643 is classified generally to this subchapter.
 
 #### Prior Provisions
 A prior section 202 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1043, related to establishment and maintenance of the Central Intelligence Agency Retirement and Disability Fund and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -394,7 +394,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
   (A) *Use for deposits due under section 2082(b)* — Amounts described in paragraph (1), including interest accrued on such amounts, shall be applied upon the participant’s retirement or death toward any deposit due under [section 2082(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2082/b&num=0&edition=prelim).
 
-  (B) *Lump-sum payment* — Any balance of such amounts not so required for such a deposit shall be refunded to the participant in a lump sum after the participant’s separation (or, in the event of a death in service, to a beneficiary in order of precedence specified in subsection 11 So in original. Probably should be “section”. 2071(c) of this title), subject to prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse.
+  (B) *Lump-sum payment* — Any balance of such amounts not so required for such a deposit shall be refunded to the participant in a lump sum after the participant’s separation (or, in the event of a death in service, to a beneficiary in order of precedence specified in [section 2071(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2071/c&num=0&edition=prelim)), subject to prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse.
 
   (C) *Purchases of additional elective benefits* — In lieu of such a lump-sum payment, the participant may use such amounts—
 
@@ -420,12 +420,14 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, § 1, Dec. 30, 1969, 83 Stat. 847; Pub. L. 97–269, title VI, § 611, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, §§ 501(2), 502, June 6, 1986, 100 Stat. 622, 623; Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095, related to compulsory contributions to the fund and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+2023—Subsec. (c)(2)(B). Pub. L. 118–31 substituted “section 2071(c)” for “subsection 2071(c)”.
+
 2012—Subsec. (a). Pub. L. 112–96 added pars. (1) to (3), redesignated former par. (3) as (4), and struck out former pars. (1) and (2) which related to participant’s contributions and agency contributions, respectively.
 
 1993—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under [section 2071(b)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2071/b/4&num=0&edition=prelim)”.
@@ -994,7 +996,7 @@ The Director shall prescribe regulations under which a previous spouse who is di
 ### Statutory Notes
 
 #### References in Text
-The Civil Service Retirement Spouse Equity Act of 1984, referred to in text, is Pub. L. 98–615, Nov. 8, 1984, 98 Stat. 3195, as amended. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees, and Tables.
+The Civil Service Retirement Spouse Equity Act of 1984, referred to in text, is Pub. L. 98–615, Nov. 8, 1984, 98 Stat. 3195. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under [section 8331 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim), Government Organization and Employees, and Tables.
 
 #### Prior Provisions
 A prior section 226 of Pub. L. 88–643, as added Pub. L. 100–453, title III, § 302(a), Sept. 29, 1988, 102 Stat. 1906; amended Pub. L. 102–88, title III, § 304(b), (c), Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, § 306(a), (b), Dec. 4, 1991, 105 Stat. 1265, related to survivor annuities for previous spouses and second chance to elect survivor annuity for certain spouses and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -1602,7 +1604,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 **(g) Withholding of State income tax from annuities**
 
-(1) **Agreements with States** — The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the Fund 11 So in original. Probably should not be capitalized. and disbursed to the States during the month following that calendar quarter.
+(1) **Agreements with States** — The Director shall, in accordance with this subsection, enter into an agreement with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Director shall withhold State income tax in the case of the monthly annuity of any annuitant who voluntarily requests, in writing, such withholding. The amounts withheld during any calendar quarter shall be held in the fund and disbursed to the States during the month following that calendar quarter.
 
 (2) **Limitation on multiple requests** — An annuitant may have in effect at any time only one request for withholding under this subsection, and an annuitant may not have more than two such requests during any one calendar year.
 
@@ -1616,6 +1618,9 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 #### Prior Provisions
 A prior section 263 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052; Pub. L. 97–269, title VI, § 609, Sept. 27, 1982, 96 Stat. 1153; Pub. L. 99–335, title V, § 501(2), June 6, 1986, 100 Stat. 622, related to attachment of moneys and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Amendments
+2023—Subsec. (g)(1). Pub. L. 118–31 substituted “fund” for “Fund”.
 
 #### Effective Date
 Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
@@ -1684,7 +1689,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 ## § 2111. Recall
 **(a) Authority to recall** The Director may, with the consent of a retired participant, recall that participant to service in the Agency whenever the Director determines that such recall is in the public interest.
 
-**(b) Pay of retired participant while serving** A retired participant recalled to duty in the Agency under subsection (a) or reinstated or reappointed in accordance with section 2051(b) 11 So in original. Probably should be section “2051(c)”. of this title shall, while so serving, be entitled, in lieu of the retired participant’s annuity, to the full basic pay of the grade in which the retired participant is serving. During such service, the retired participant shall make contributions to the fund in accordance with [section 2021 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2021).
+**(b) Pay of retired participant while serving** A retired participant recalled to duty in the Agency under subsection (a) or reinstated or reappointed in accordance with [section 2051(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2051/c&num=0&edition=prelim) shall, while so serving, be entitled, in lieu of the retired participant’s annuity, to the full basic pay of the grade in which the retired participant is serving. During such service, the retired participant shall make contributions to the fund in accordance with [section 2021 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2021).
 
 **(c) Recomputation of annuity** When the retired participant reverts to retired status, the annuity of the retired participant shall be redetermined in accordance with [section 2031 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2031).
 
@@ -1692,6 +1697,9 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
 #### Prior Provisions
 A prior section 271 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052, related to recalled participants and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+
+#### Amendments
+2023—Subsec. (b). Pub. L. 118–31 substituted “section 2051(c)” for “section 2051(b)”.
 
 #### Effective Date
 Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
@@ -1974,7 +1982,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsecs. (a) and (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 A prior section 301 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 624; amended Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–453, title V, § 502, Sept. 29, 1988, 102 Stat. 1909, related to application of Federal Employees’ Retirement System to Agency employees and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
@@ -2051,7 +2059,7 @@ A prior section 302 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 
 2022—Subsec. (d). Pub. L. 117–225 added subsec. (d).
 
 #### Effective Date of 2022 Amendment
-Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers a certain described illness or injury on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
+Amendment by Pub. L. 117–225 effective Dec. 9, 2022, and applicable to an individual who suffers an illness or injury described in certain Code provisions on or after the date that is 2 years after Dec. 9, 2022, see section 3(f) of Pub. L. 117–225, set out as a note under [section 8336 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8336&num=0&edition=prelim), Government Organization and Employees.
 
 #### Effective Date
 Section effective on first day of fourth month beginning after Oct. 24, 1992, see section 805 of Pub. L. 102–496, set out as a note under [section 2001 of this title](./chapter-038-central-intelligence-agency-retirement-and-disability.md#section-2001).
@@ -2116,7 +2124,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
   (B) *Amount of share* — The share referred to in subparagraph (A) equals—
 
-    (i) 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee’s service which is creditable under chapter 84 of title 50; 11 So in original. Probably should be title “5”. or
+    (i) 50 percent, if the qualified former spouse was married to the employee throughout the entire period of the employee’s service which is creditable under chapter 84 of title 5; or
 
     (ii) a pro rata share of 50 percent, if the qualified former spouse was not married to the employee throughout such creditable service.
 
@@ -2144,7 +2152,7 @@ Section effective on first day of fourth month beginning after Oct. 24, 1992, se
 
     (i) the survivor annuity for any spouse, former spouse (qualified or otherwise), or other survivor under chapter 84 of title 5, and
 
-    (ii) any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under sections 22 So in original. Probably should be “section”. 8442 or 8445 of title 5.
+    (ii) any reduction in the annuity of the retired employee to provide survivor benefits under subsection (d) of this section or under section 8442 or 8445 of title 5.
 
   (B) *Reduction in basic pay upon recall to service* — If a retired employee whose annuity is reduced under paragraph (1) is recalled to service under [section 2152(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2152/c&num=0&edition=prelim), the basic pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund.
 
@@ -2259,6 +2267,10 @@ Section 302(a) of the Federal Employees’ Retirement System Act of 1986, referr
 A prior section 304 of Pub. L. 88–643, as added Pub. L. 99–335, title V, § 506, June 6, 1986, 100 Stat. 626; amended Pub. L. 100–178, title IV, § 402(b)(2), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 102–183, title III, § 309(a), Dec. 4, 1991, 105 Stat. 1266, related to special rules for former spouses and was set out as a note under [section 403 of this title](./chapter-015-national-security.md#section-403) prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
+2023—Subsec. (c)(1)(B)(i). Pub. L. 118–31, § 7901(d)(4)(A), substituted “title 5” for “title 50”.
+
+Subsec. (c)(5)(A)(ii). Pub. L. 118–31, § 7901(d)(4)(B), substituted “section 8442” for “sections 8442”.
+
 1993—Subsec. (i)(1). Pub. L. 103–178 substituted “section 2002(a)(4)” for “section 2002(a)(3)”.
 
 #### Effective Date of 1993 Amendment

@@ -72,9 +72,13 @@ Sec. 10. The authority of the President under section 6 of Public Law 102–532;
 Sec. 11. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 #### Extension of Term of Good Neighbor Environmental Board
-Term of Good Neighbor Environmental Board extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Good Neighbor Environmental Board extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of Good Neighbor Environmental Board were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
@@ -104,7 +108,7 @@ Pub. L. 103–182, § 1(a), Dec. 8, 1993, 107 Stat. 2057, which provided that Pu
 
 Section 3311, Pub. L. 103–182, title I, § 101, Dec. 8, 1993, 107 Stat. 2061, related to approval and entry into force of the North American Free Trade Agreement.
 
-Section 3312, Pub. L. 103–182, title I, § 102, Dec. 8, 1993, 107 Stat. 2062, described the relationship of the Agreement to United States and State law.
+Section 3312, Pub. L. 103–182, title I, § 102, Dec. 8, 1993, 107 Stat. 2062; Pub. L. 117–286, § 4(a)(141), Dec. 27, 2022, 136 Stat. 4321, described the relationship of the Agreement to United States and State law.
 
 Section 3313, Pub. L. 103–182, title I, § 103, Dec. 8, 1993, 107 Stat. 2063, related to consultation and layover requirements for, and effective date of, proclaimed actions.
 
@@ -611,18 +615,26 @@ Sec. 5. JUDICIAL REVIEW. This order is intended only to improve the internal man
 William J. Clinton.
 
 #### Extension of Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
-Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of Governmental Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 
 Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, extended term until Sept. 30, 2017.
 
 #### Extension of Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation
-Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2021, by Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of National Advisory Committee to the United States Representative to the North American Commission for Environmental Cooperation were contained in the following prior Executive Orders:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
+
+Ex. Ord. No. 13889, Sept. 27, 2019, 84 F.R. 52743, extended term until Sept. 30, 2021.
 
 Ex. Ord. No. 13811, Sept. 29, 2017, 82 F.R. 46363, extended term until Sept. 30, 2019.
 

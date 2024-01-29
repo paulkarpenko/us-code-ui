@@ -1275,7 +1275,7 @@ Section 25 of the Federal Reserve Act, referred to in subsecs. (c)(14)(E) and (f
 
 The Federal Deposit Insurance Act, referred to in subsec. (f)(8)(B), is act Sept. 21, 1950, ch. 967, § 2, 64 Stat. 873, which is classified generally to chapter 16 (§ 1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1811 of this title](./chapter-016-federal-deposit-insurance-corporation.md#section-1811) and Tables.
 
-Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsecs. (f)(9)(A), (h) and (n)(5)(B)(i), is Pub. L. 91–607, title I, § 106, Dec. 31, 1970, 84 Stat. 1766, as amended, which is classified generally to chapter 22 (§ 1971 et seq.) of this title.
+Section 106 of the Bank Holding Company Act Amendments of 1970, referred to in subsecs. (f)(9)(A), (h) and (n)(5)(B)(i), is Pub. L. 91–607, title I, § 106, Dec. 31, 1970, 84 Stat. 1766, which is classified generally to chapter 22 (§ 1971 et seq.) of this title.
 
 [Section 1730a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1730a&num=0&edition=prelim), referred to in subsec. (f)(10)(A), was repealed by Pub. L. 101–73, title IV, § 407, Aug. 9, 1989, 103 Stat. 363.
 
@@ -1637,6 +1637,12 @@ Pub. L. 97–290, title II, § 205, Oct. 8, 1982, 96 Stat. 1238, required Federa
 
 (5) **Rule of construction** — No provision of this subsection may be construed as limiting or otherwise affecting, except to the extent specifically provided in this subsection, the regulatory authority, including the scope of the authority, of any Federal agency or department with regard to any entity that is within the jurisdiction of such agency or department.
 
+**(h) Data standards**
+
+(1) **Requirement** — The Board shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board by any bank holding company in a report under subsection (c).
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -1655,6 +1661,8 @@ The Securities Exchange Act of 1934, referred to in subsecs. (c)(5)(B)(i) and (g
 The Financial Institutions Supervisory Act of 1966, referred to in subsec. (e)(1), is Pub. L. 89–695, Oct. 16, 1966, 80 Stat. 1028. For complete classification of this Act to the Code, see Short Title of 1966 Amendment note set out under [section 1464 of this title](./chapter-012-savings-associations.md#section-1464) and Tables.
 
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–263 added subsec. (h).
+
 2010—Subsec. (b). Pub. L. 111–203, § 616(a), inserted “, including regulations and orders relating to the capital requirements for bank holding companies,” after “orders” and “In establishing capital regulations pursuant to this subsection, the Board shall seek to make such requirements countercyclical, so that the amount of capital required to be maintained by a company increases in times of economic expansion and decreases in times of economic contraction, consistent with the safety and soundness of the company.” at the end.
 
 Subsec. (c)(1)(A)(ii). Pub. L. 111–203, § 604(a)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “compliance by the company or subsidiary with applicable provisions of this chapter or any other Federal law that the Board has specific jurisdiction to enforce against such company or subsidiary.”
@@ -1696,6 +1704,9 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Termination of Reporting Requirements
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsection (d) of this section is listed on page 171), see section 3003 of Pub. L. 104–66, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance.
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under [section 253 of this title](./chapter-003-federal-reserve-system.md#section-253).
 
 
 <a id="section-1845"></a>
@@ -1870,7 +1881,7 @@ Repeal effective on the transfer date, see section 604(j) of Pub. L. 111–203, 
 #### References in Text
 Act of July 2, 1890 (the Sherman Antitrust Act), referred to in subsec. (f), is classified to sections 1 to 7 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1&num=0&edition=prelim) and Tables.
 
-Act of October 15, 1914 (the Clayton Act), referred to in subsec. (f), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, as amended, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
+Act of October 15, 1914 (the Clayton Act), referred to in subsec. (f), is act Oct. 15, 1914, ch. 323, 38 Stat. 730, which is classified generally to sections 12, 13, 14 to 19, 21, and 22 to 27 of Title 15, and sections 52 and 53 of Title 29, Labor. For further details and complete classification of this Act to the Code, see References in Text note set out under [section 12 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section12&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1999—Subsec. (b)(1). Pub. L. 106–102 inserted before period at end of first sentence “and, if the transaction also involves an acquisition under [section 1843 of this title](./chapter-017-bank-holding-companies.md#section-1843), the Board shall also notify the Federal Trade Commission of such approval”.

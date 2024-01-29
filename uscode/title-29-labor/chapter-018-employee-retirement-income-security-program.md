@@ -2,7 +2,7 @@
 title: 29
 chapter: '18'
 heading: EMPLOYEE RETIREMENT INCOME SECURITY PROGRAM
-section_count: 192
+section_count: 199
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -181,7 +181,7 @@ Jimmy Carter.
 The White House, August 10, 1978.
 
 #### Executive Order No. 12071
-Ex. Ord. No. 12071, July 12, 1978, 43 F.R. 30259, which established the President’s Commission on Pension Policy and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 1, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12071, July 12, 1978, 43 F.R. 30259, which established the President’s Commission on Pension Policy and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 1, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 12108. Effective Date of ERISA Transfers
 Ex. Ord. No. 12108, Dec. 28, 1978, 44 F.R. 1065, provided:
@@ -191,7 +191,7 @@ By the authority vested in me as President of the United States of America by Se
 Jimmy Carter.
 
 #### Executive Order No. 12262
-Ex. Ord. No. 12262, Jan. 7, 1981, 46 F.R. 2313, which established the Interagency Employee Benefit Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 9, Aug. 17, 1982, 47 F.R. 36099, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12262, Jan. 7, 1981, 46 F.R. 2313, which established the Interagency Employee Benefit Council and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 9, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 13847. Strengthening Retirement Security in America
 Ex. Ord. No. 13847, Aug. 31, 2018, 83 F.R. 45321, provided:
@@ -661,16 +661,16 @@ For purposes of this subchapter:
 
     (i) which is an individual account plan established or maintained for the purpose of providing benefits to the employees of 2 or more employers;
 
-    (ii) which is a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) which includes a trust exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim) or a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof); and
+    (ii) which is a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) which includes a trust exempt from tax under [section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim), a plan that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim), or a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof); and
 
     (iii) the terms of which meet the requirements of subparagraph (B).
-    Such term shall not include a plan maintained by employers which have a common interest other than having adopted the plan.
+    Such term shall not include a plan maintained by employers which have a common interest other than having adopted the plan, but such term shall include any plan (other than a plan excepted from the application of this title by [section 1003(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1003/b/2&num=0&edition=prelim)) maintained for the benefit of the employees of more than 1 employer that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim) and that meets the requirements of subparagraph (B) of [section 413(e)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section413/e/1&num=0&edition=prelim).
 
   (B) *Requirements for plan terms.—* — The requirements of this subparagraph are met with respect to any plan if the terms of the plan—
 
     (i) designate a pooled plan provider and provide that the pooled plan provider is a named fiduciary of the plan;
 
-    (ii) designate one or more trustees meeting the requirements of [section 408(a)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408/a/2&num=0&edition=prelim) (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;
+    (ii) designate a named fiduciary (other than an employer in the plan) to be responsible for collecting contributions to the plan and require such fiduciary to implement written contribution collection procedures that are reasonable, diligent, and systematic;
 
     (iii) provide that each employer in the plan retains fiduciary responsibility for—
 
@@ -684,7 +684,7 @@ For purposes of this subchapter:
 
       (I) the pooled plan provider to provide to employers in the plan any disclosures or other information which the Secretary may require, including any disclosures or other information to facilitate the selection or any monitoring of the pooled plan provider by employers in the plan; and
 
-      (II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) or to a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
+      (II) each employer in the plan to take such actions as the Secretary or the pooled plan provider determines are necessary to administer the plan or for the plan to meet any requirement applicable under this chapter or title 26 to a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim), a plan that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim), or to a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof), whichever is applicable, including providing any disclosures or other information which the Secretary may require or which the pooled plan provider otherwise determines are necessary to administer the plan or to allow the plan to meet such requirements; and
 
     (vi) provide that any disclosure or other information required to be provided under clause (v) may be provided in electronic form and will be designed to ensure only reasonable costs are imposed on pooled plan providers and employers in the plan.
 
@@ -702,7 +702,7 @@ For purposes of this subchapter:
 
     (i) is designated by the terms of a pooled employer plan as a named fiduciary, as the plan administrator, and as the person responsible for the performance of all administrative duties (including conducting proper testing with respect to the plan and the employees of each employer in the plan) which are reasonably necessary to ensure that—
 
-      (I) the plan meets any requirement applicable under this chapter or title 26 to a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) or to a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof), whichever is applicable; and
+      (I) the plan meets any requirement applicable under this chapter or title 26 to a plan described in [section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim), a plan that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim), or to a plan that consists of individual retirement accounts described in [section 408 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim) (including by reason of subsection (c) thereof), whichever is applicable; and
 
       (II) each employer in the plan takes such actions as the Secretary or pooled plan provider determines are necessary for the plan to meet the requirements described in subclause (I), including providing the disclosures and information described in paragraph (43)(B)(v)(II);
 
@@ -729,24 +729,30 @@ For purposes of this subchapter:
 
   (E) *Aggregation rules.—* — For purposes of this paragraph, in determining whether a person meets the requirements of this paragraph to be a pooled plan provider with respect to any plan, all persons who perform services for the plan and who are treated as a single employer under subsection (b), (c), (m), or (o) of [section 414 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim) shall be treated as one person.
 
+(45) **Pension-linked emergency savings account.—** — The term “pension-linked emergency savings account” means a short-term savings account established and maintained as part of an individual account plan, in accordance with [section 1193 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1193), on behalf of an eligible participant (as such term is defined in [section 1193(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1193/b&num=0&edition=prelim)) that—
+
+  (A) is a designated Roth account (within the meaning of [section 402A of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section402A&num=0&edition=prelim)) and accepts only participant contributions, as described in [section 1193(d)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1193/d/1/A&num=0&edition=prelim), which are designated Roth contributions subject to the rules of [section 402A(e) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section402A/e&num=0&edition=prelim); and
+
+  (B) meets the requirements of part 8 of subtitle B.
+
 ### Statutory Notes
 
 #### References in Text
 This chapter, referred to in pars. (2)(B), (37)(E), (G)(ii), (vii), (43)(B)(v)(II), and (44)(A)(i)(I), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in par. (10), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
-The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
+The Labor Management Relations Act, 1947, referred to in par. (12), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
-The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in par. (12), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 [Section 77b(1) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77b/1&num=0&edition=prelim), referred to in par. (20), was redesignated [section 77b(a)(1) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section77b/a/1&num=0&edition=prelim) by Pub. L. 104–290, title I, § 106(a)(1), Oct. 11, 1996, 110 Stat. 3424.
 
-The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in par. (21)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
-The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, as amended, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+The Railroad Retirement Act of 1935 or 1937, referred to in par. (32), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305 and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
-The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
+The International Organizations Immunities Act, referred to in par. (32), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
 
 Sections 1453(b) and (c) of this title, referred to in par. (37)(E), was in the original “sections 4403(b) and (c)”, meaning sections 4403(b) and (c) of the Employee Retirement Income Security Act of 1974, which was translated as section 1453(b) and (c) of this title as the probable intent of Congress, in view of the Employee Retirement Income Security Act of 1974 not containing a section 4403 and the subject matter of section 4303 of the Act which is classified to section 1453(b) and (c) of this title.
 
@@ -754,9 +760,21 @@ The Internal Revenue Code of 1954, referred to in par. (37)(E), was redesignated
 
 For the effective date of the Multiemployer Pension Plan Amendments Act of 1980, referred to in par. (37)(E), see [section 1461(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1461/e&num=0&edition=prelim).
 
-The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, as amended, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
+The Investment Advisers Act of 1940, referred to in par. (38)(B), is title II of act Aug. 22, 1940, ch. 686, 54 Stat. 847, which is classified generally to subchapter II (§ 80b–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80b–20 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80b–20&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Par. (43)(A). Pub. L. 117–328, § 106(d)(1)(B), substituted “the plan, but such term shall include any plan (other than a plan excepted from the application of this title by [section 1003(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1003/b/2&num=0&edition=prelim)) maintained for the benefit of the employees of more than 1 employer that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim) and that meets the requirements of subparagraph (B) of [section 413(e)(1) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section413/e/1&num=0&edition=prelim).” for “the plan.” in concluding provisions.
+
+Par. (43)(A)(ii). Pub. L. 117–328, § 106(d)(1)(A), substituted “[section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim), a plan that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim), or” for “[section 501(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/a&num=0&edition=prelim) or”.
+
+Par. (43)(B)(ii). Pub. L. 117–328, § 105(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “designate one or more trustees meeting the requirements of [section 408(a)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408/a/2&num=0&edition=prelim) (other than an employer in the plan) to be responsible for collecting contributions to, and holding the assets of, the plan and require such trustees to implement written contribution collection procedures that are reasonable, diligent, and systematic;”.
+
+Par. (43)(B)(v)(II). Pub. L. 117–328, § 106(d)(2), substituted “[section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim), a plan that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim), or” for “[section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) or”.
+
+Par. (44)(A)(i)(I). Pub. L. 117–328, § 106(d)(2), substituted “[section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim), a plan that consists of annuity contracts described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim), or” for “[section 401(a) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a&num=0&edition=prelim) or”.
+
+Par. (45). Pub. L. 117–328, § 127(a), added par. (45).
+
 2019—Par. (2)(C). Pub. L. 116–94, § 101(b), added subpar. (C).
 
 Par. (16)(B)(iv). Pub. L. 116–94, § 101(c)(3)(A), added cl. (iv).
@@ -842,6 +860,13 @@ Par. (14). Pub. L. 96–364, § 305, inserted provisions respecting a trust desc
 Par. (33). Pub. L. 96–364, § 407(a), substituted provisions defining “church plan” as a plan established and maintained (to the extent required in cl. (ii) of subpar. (B)) for employees or beneficiaries by a church, etc., exempt from tax under [section 501 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), for provisions defining “church plan” as a plan established and maintained for employees by a church, etc., exempt from tax under [section 501 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501&num=0&edition=prelim), or a plan in existence on Jan. 1, 1974, established and maintained by a church, etc., for employees and employees of agencies of the church, etc.
 
 Par. (37). Pub. L. 96–364, § 302(a), substantially revised definition of term “multiemployer plan” by, among other changes, restructuring subpar. (A), resulting in elimination of provisions covering amount of contributions and payment of benefits, and subpar. (B), resulting in elimination of provisions reworking amount of contributions for subsequent plan years, and added subpars. (C) to (E).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title I, § 105(b), Dec. 29, 2022, 136 Stat. 5286, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2022.”
+
+Amendment by section 106(d) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 106(h)(1) of Pub. L. 117–328, set out as a note under [section 403 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section403&num=0&edition=prelim).
+
+Amendment by section 127(a) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2019 Amendment
 Amendment by Pub. L. 116–94 applicable to plan years beginning after Dec. 31, 2020, see section 101(e) of Pub. L. 116–94, set out as a note under [section 408 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section408&num=0&edition=prelim), Internal Revenue Code.
@@ -1020,7 +1045,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
   (C) *Authority for additional reporting requirements* — The Secretary may prescribe such additional reporting requirements as may be necessary to carry out the purposes of this section.
 
-(3) **Definitions** — For purposes of paragraph (1), any term used in such paragraph which is also used in [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on July 31, 2015) shall have the same meaning as when used in such section.
+(3) **Definitions** — For purposes of paragraph (1), any term used in such paragraph which is also used in [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on December 29, 2022) shall have the same meaning as when used in such section.
 
 **(f) Defined benefit plan funding notices**
 
@@ -1034,21 +1059,23 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
     (i)
 
-      (I) in the case of a single-employer plan, a statement as to whether the plan’s funding target attainment percentage (as defined in [section 1083(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/d/2&num=0&edition=prelim)) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
+      (I) in the case of a single-employer plan, a statement as to whether the plan’s percentage of plan liabilities funded (as described in clause (ii)(I)(bb)) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), or
 
       (II) in the case of a multiemployer plan, a statement as to whether the plan’s funded percentage (as defined in section 1085(i) 1 of this title) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages),
 
     (ii)
 
-      (I) in the case of a single-employer plan, a statement of—
+      (I) in the case of a single-employer plan—
 
-        (aa) the total assets (separately stating the prefunding balance and the funding standard carryover balance) and liabilities of the plan, determined in the same manner as under [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083), for the plan year to which the notice relates and for the 2 preceding plan years, as reported in the annual report for each such plan year, and
+        (aa) a statement of the value of the plan’s assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates, and for the preceding 2 plan years as of the last day of each such plan year, determined using the asset valuation under subclause (II) of [section 1306(a)(3)(E)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1306/a/3/E/iii&num=0&edition=prelim) and the interest rate under [section 1306(a)(3)(E)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1306/a/3/E/iv&num=0&edition=prelim),
 
-        (bb) the value of the plan’s assets and liabilities for the plan year to which the notice relates as of the last day of the plan year to which the notice relates determined using the asset valuation under subclause (II) of [section 1306(a)(3)(E)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1306/a/3/E/iii&num=0&edition=prelim) and the interest rate under [section 1306(a)(3)(E)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1306/a/3/E/iv&num=0&edition=prelim), and
+        (bb) for purposes of the statement in subparagraph (B)(i)(I), the percentage of plan liabilities funded, calculated as the ratio between the value of the plan’s assets and liabilities, as determined under item (aa), for the plan year to which the notice relates and for the 2 preceding plan years, and
 
-      (II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under [section 1084 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1084) and under the rules of subclause (I)(bb)) and the value of the plan liabilities (determined in the same manner as under [section 1084 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1084) except that the method specified in section 1085(i)(8) 1 of this title shall be used),
+        (cc) if the information in (aa) and (bb) is presented in tabular form, a statement that describes that in the event of a plan termination the corporation’s calculation of plan liabilities may be greater and that references the section of the notice with the information required under clause (x), and
 
-    (iii) a statement of the number of participants who are—
+      (II) in the case of a multiemployer plan, a statement, for the plan year to which the notice relates and the preceding 2 plan years, of the value of the plan assets (determined both in the same manner as under [section 1084 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1084) and under the rules of subclause (I)(aa)) and the value of the plan liabilities (determined in the same manner as under [section 1084 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1084) except that the method specified in section 1085(i)(8) 1 of this title shall be used),
+
+    (iii) a statement of the number of participants for the plan year to which the notice relates as of the last day of such plan year and the preceding 2 plan years, in tabular format, who are—
 
       (I) retired or separated from service and are receiving benefits,
 
@@ -1056,7 +1083,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
       (III) active participants under the plan,
 
-    (iv) a statement setting forth the funding policy of the plan and the asset allocation of investments under the plan (expressed as percentages of total assets) as of the end of the plan year to which the notice relates,
+    (iv) a statement setting forth the funding policy of the plan, the asset allocation of investments under the plan (expressed as percentages of total assets), and the average return on assets for the plan year, as of the end of the plan year to which the notice relates,
 
     (v) in the case of a multiemployer plan, whether the plan was in critical or endangered status under [section 1085 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1085) for such plan year and, if so—
 
@@ -1080,11 +1107,23 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
       (II) in the case of a multiemployer plan, a summary of the rules governing reorganization or insolvency, including the limitations on benefit payments,
 
-    (ix) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply,
+    (ix) in the case of a single-employer plan, a statement as to whether the plan’s funded status, based on the plan’s liabilities described under subclause (II) for the plan year to which the notice relates, and for the 2 preceding plan years, is at least 100 percent (and, if not, the actual percentages), that includes—
 
-    (x) a statement that a person may obtain a copy of the annual report of the plan filed under [section 1024(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024/a&num=0&edition=prelim) upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
+      (I) the plan’s assets, as of the last day of the plan year and for the 2 preceding plan years, as determined under clause (ii)(I)(aa),
 
-    (xi) if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under [section 1310 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1310) for the plan year to which the notice relates.
+      (II) the plan’s liabilities, as of the last day of the plan year and for the 2 preceding plan years, as determined under clause (ii)(1)(aa), and
+
+      (III) the funded status of the plan, determined as the ratio of the plan’s assets and liabilities calculated under subclauses (I) and (II), for the plan year to which the notice relates, and for the 2 preceding plan years,
+
+    (x) a general description of the benefits under the plan which are eligible to be guaranteed by the Pension Benefit Guaranty Corporation, along with an explanation of the limitations on the guarantee and the circumstances under which such limitations apply and a statement that, in the case of a single-employer plan—
+
+      (I) if plan assets are determined to be sufficient to pay vested benefits that are not guaranteed by the Pension Benefit Guaranty Corporation, participants and beneficiaries may receive benefits in excess of the guaranteed amount, and
+
+      (II) such a determination generally uses assumptions that result in a plan having a lower funded status as compared to the plan’s funded status disclosed in this notice.
+
+    (xi) a statement that a person may obtain a copy of the annual report of the plan filed under [section 1024(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024/a&num=0&edition=prelim) upon request, through the Internet website of the Department of Labor, or through an Intranet website maintained by the applicable plan sponsor (or plan administrator on behalf of the plan sponsor), and
+
+    (xii) if applicable, a statement that each contributing sponsor, and each member of the contributing sponsor’s controlled group, of the single-employer plan was required to provide the information under [section 1310 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1310) for the plan year to which the notice relates.
 
   (C) *Other information* — Each notice under paragraph (1) shall include—
 
@@ -1295,7 +1334,9 @@ The notice required to be provided under this subsection shall be in writing, ex
 (2) describing the importance of diversifying the investment of retirement account assets.
 The notice required by this subsection shall be written in a manner calculated to be understood by the average plan participant and may be delivered in written, electronic, or other appropriate form to the extent that such form is reasonably accessible to the recipient.
 
-**(n) Cross reference** For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see [section 1204 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1204).
+**(n) Pension-linked emergency savings accounts** Nothing in this section shall preclude the Secretary from providing, by regulations or otherwise, simplified reporting procedures or requirements regarding such a pension-linked emergency savings account.
+
+**(o) Cross reference** For regulations relating to coordination of reports to the Secretaries of Labor and the Treasury, see [section 1204 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1204).
 
 ### Statutory Notes
 
@@ -1319,6 +1360,32 @@ The Cooperative and Small Employer Charity Pension Flexibility Act, referred to 
 The content of paragraph (1)(B) of subsec. (k) (relating to financial reports), referred to in subsec. (k)(2), was moved to subsec. (k)(1)(H) as a result of the general amendment of subsec. (k)(1) by Pub. L. 113–235, § 111(a). See 2014 Amendment note below.
 
 #### Amendments
+2022—Subsec. (e)(3). Pub. L. 117–328, § 606(b)(1), substituted “(as in effect on December 29, 2022)” for “(as in effect on July 31, 2015)”.
+
+Subsec. (f)(2)(B)(i)(I). Pub. L. 117–328, § 343(a)(1), substituted “percentage of plan liabilities funded (as described in clause (ii)(I)(bb))” for “funding target attainment percentage (as defined in [section 1083(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/d/2&num=0&edition=prelim))”.
+
+Subsec. (f)(2)(B)(ii)(I). Pub. L. 117–328, § 343(a)(2)(A), struck out “, a statement of” after “single-employer plan” in introductory provisions.
+
+Subsec. (f)(2)(B)(ii)(I)(aa). Pub. L. 117–328, § 343(a)(2)(B)–(D), redesignated item (bb) as (aa), inserted “a statement of” before “the value” and “, and for the preceding 2 plan years as of the last day of each such plan year,” before “determined using”, struck out “and” at end, and struck out former item (aa) which read as follows: “the total assets (separately stating the prefunding balance and the funding standard carryover balance) and liabilities of the plan, determined in the same manner as under [section 1083 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1083), for the plan year to which the notice relates and for the 2 preceding plan years, as reported in the annual report for each such plan year, and”.
+
+Subsec. (f)(2)(B)(ii)(I)(bb), (cc). Pub. L. 117–328, § 343(a)(2)(E), added items (bb) and (cc). Former item (bb) redesignated (aa).
+
+Subsec. (f)(2)(B)(ii)(II). Pub. L. 117–328, § 343(a)(3), substituted “subclause (I)(aa)” for “subclause (I)(bb)”.
+
+Subsec. (f)(2)(B)(iii). Pub. L. 117–328, § 343(a)(4), inserted “for the plan year to which the notice relates as of the last day of such plan year and the preceding 2 plan years, in tabular format,” after “participants” in introductory provisions.
+
+Subsec. (f)(2)(B)(iv). Pub. L. 117–328, § 343(a)(5), substituted “plan, the asset” for “plan and the asset” and inserted “, and the average return on assets for the plan year,” after “assets)”.
+
+Subsec. (f)(2)(B)(ix). Pub. L. 117–328, § 343(a)(7), added cl. (ix). Former cl. (ix) redesignated (x).
+
+Subsec. (f)(2)(B)(x). Pub. L. 117–328, § 343(a)(8), substituted “apply and a statement that, in the case of a single-employer plan—” for “apply,” and added subcls. (I) and (II).
+
+Pub. L. 117–328, § 343(a)(6), redesignated cl. (ix) as (x). Former cl. (x) redesignated (xi).
+
+Subsec. (f)(2)(B)(xi), (xii). Pub. L. 117–328, § 343(a)(6), redesignated cls. (x) and (xi) as (xi) and (xii), respectively.
+
+Subsecs. (n), (o). Pub. L. 117–328, § 127(c)(2), added subsec. (n) and redesignated former subsec. (n) as (o).
+
 2021—Subsec. (f)(2)(D)(i)(I), (II). Pub. L. 117–58, § 80602(b)(2)(A)(i), substituted “, the American Rescue Plan Act of 2021, and the Infrastructure Investment and Jobs Act” for “and the American Rescue Plan Act of 2021”.
 
 Pub. L. 117–2, § 9706(b)(3)(A)(i), substituted “, the Bipartisan Budget Act of 2015, and the American Rescue Plan Act of 2021” for “and the Bipartisan Budget Act of 2015”.
@@ -1459,6 +1526,13 @@ Subsec. (d)(1). Pub. L. 101–239, § 7881(b)(5)(A), substituted “an employer 
 
 1987—Subsecs. (d), (e). Pub. L. 100–203 added subsec. (d) and redesignated former subsec. (d) as (e).
 
+#### Effective Date of 2022 Amendment
+Amendment by section 127(c)(2) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
+
+Pub. L. 117–328, div. T, title III, § 343(b), Dec. 29, 2022, 136 Stat. 5380, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to plan years beginning after December 31, 2023.”
+
+Amendment by section 606(b)(1) of Pub. L. 117–328 applicable to transfers made after Dec. 29, 2022, see section 606(c) of Pub. L. 117–328, set out as a note under [section 420 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim), Internal Revenue Code.
+
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–58 applicable to plan years beginning after Dec. 31, 2021, see section 80602(c) of Pub. L. 117–58, set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
 
@@ -1480,7 +1554,7 @@ Amendment by section 40211(b)(2)(A) of Pub. L. 112–141 applicable with respect
 Amendment by section 40242(e)(14) of Pub. L. 112–141 applicable to transfers made after July 6, 2012, see section 40242(h) of Pub. L. 112–141, set out as a note under [section 420 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
-Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under section 72 Title 26, Internal Revenue Code.
+Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 Pub. L. 109–280, title I, § 103(c), Aug. 17, 2006, 120 Stat. 816, as amended by Pub. L. 110–458, title I, § 101(c)(3), Dec. 23, 2008, 122 Stat. 5098, provided that: “(1) In general.—The amendments made by this section [amending this section and sections 1056 and 1132 of this title] shall apply to plan years beginning after December 31, 2007. “(2) Collective bargaining exception.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified before January 1, 2008, the amendments made by this section shall not apply to plan years beginning before the earlier of—“(A) the later of—“(i) the date on which the last collective bargaining agreement relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act [Aug. 17, 2006]), or “(ii) the first day of the first plan year to which the amendments made by this section would (but for this paragraph) apply, or “(B) January 1, 2010. For purposes of subparagraph (A)(i), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
@@ -1870,6 +1944,9 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 #### Regulations
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031).
 
+#### Report on Pooled Employer Plans
+Pub. L. 117–328, div. T, title III, § 344, Dec. 29, 2022, 136 Stat. 5380, provided that: “The Secretary of Labor shall— “(1) conduct a study on the pooled employer plan (as such term is defined in section 3(43) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1002(43)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/43&num=0&edition=prelim))) industry, including on—“(A) the legal name and number of pooled employer plans; “(B) the number of participants in such plans; “(C) the range of investment options provided in such plans; “(D) the fees assessed in such plans; “(E) the manner in which employers select and monitor such plans; “(F) the disclosures provided to participants in such plans; “(G) the number and nature of any enforcement actions by the Secretary of Labor on such plans; “(H) the extent to which such plans have increased retirement savings coverage in the United States; and “(I) any additional information as the Secretary determines is necessary; and “(2) not later than 5 years after the date of enactment of this Act [Dec. 29, 2022], and every 5 years thereafter, submit to Congress and make available on a publicly accessible website of the Department of Labor, a report on the findings of the study under paragraph (1), including recommendations on how pooled employer plans can be improved, through legislation, to serve and protect retirement plan participants.”
+
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of Pub. L. 109–280 to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of Pub. L. 109–280, set out as notes under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
@@ -2157,7 +2234,28 @@ For provisions requiring the Secretary of Labor to publish a model form for prov
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(2)
+Pub. L. 117–328, div. T, title III, § 338(a), (c), Dec. 29, 2022, 136 Stat. 5373, 5374, provided that, applicable with respect to plan years beginning after Dec. 31, 2025, subsection (a)(2) of this section is amended:
+
+(1) in subparagraph (A)(iv), by inserting “subject to subparagraph (E),” before “may be delivered”; and
+
+(2) by adding at the end the following:
+
+“(E) Provision of paper statements
+
+“With respect to at least 1 pension benefit statement furnished for a calendar year with respect to an individual account plan under paragraph (1)(A), and with respect to at least 1 pension benefit statement furnished every 3 calendar years with respect to a defined benefit plan under paragraph (1)(B), such statement shall be furnished on paper in written form except—
+
+“(i) in the case of a plan that furnishes such statement in accordance with section 2520.104b-1(c) of title 29, Code of Federal Regulations; or
+
+“(ii) in the case of a plan that permits a participant or beneficiary to request that the statements referred to in the matter preceding clause (i) be furnished by electronic delivery, if the participant or beneficiary requests that such statements be delivered electronically and the statements are so delivered.”
+
+See 2022 Amendment notes below.
+
 #### Amendments
+2022—Subsec. (a)(2)(A)(iv). Pub. L. 117–328, § 338(a)(1), inserted “subject to subparagraph (E),” before “may be delivered”.
+
+Subsec. (a)(2)(E). Pub. L. 117–328, § 338(a)(2), added subpar. (E).
+
 2019—Subsec. (a)(2)(B). Pub. L. 116–94, § 203(a), added cl. (iii) and concluding provisions.
 
 Subsec. (a)(2)(D). Pub. L. 116–94, § 203(b), added subpar. (D).
@@ -2178,6 +2276,9 @@ Subsec. (c). Pub. L. 101–239, § 7891(a)(1), substituted “Internal Revenue C
 
 1984—Subsec. (c). Pub. L. 98–397 inserted at end “Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.”
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title III, § 338(c), Dec. 29, 2022, 136 Stat. 5374, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to plan years beginning after December 31, 2025.”
+
 #### Effective Date of 2006 Amendment
 Pub. L. 109–280, title V, § 508(c), Aug. 17, 2006, 120 Stat. 952, provided that: “(1) In general.—The amendments made by this section [amending this section and [section 1132 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1132)] shall apply to plan years beginning after December 31, 2006. “(2) Special rule for collectively bargained agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act [Aug. 17, 2006], paragraph (1) shall be applied to benefits pursuant to, and individuals covered by, any such agreement by substituting for ‘December 31, 2006’ the earlier of—“(A) the later of—“(i) December 31, 2007, or “(ii) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after such date of enactment), or “(B) December 31, 2008.”
 
@@ -2188,6 +2289,9 @@ Amendment by section 7894(b)(5) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1984 Amendment
 Amendment by Pub. L. 98–397 applicable to plan years beginning after Dec. 31, 1984, except as otherwise provided, see sections 302 and 303 of Pub. L. 98–397, set out as a note under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001).
+
+#### Implementation of 2022 Amendment
+Pub. L. 117–328, div. T, title III, § 338(b), Dec. 29, 2022, 136 Stat. 5373, provided that: “(1) In general.—The Secretary of Labor shall, not later than December 31, 2024, update section 2520.104b-1(c) of title 29, Code of Federal Regulations, to provide that a plan may furnish the statements referred to in subparagraph (E) of section 105(a)(2) of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1025(a)(2)(E)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1025/a/2/E&num=0&edition=prelim)] by electronic delivery only if, with respect to participants who first become eligible to participate, and beneficiaries who first become eligible for benefits, after December 31, 2025, in addition to meeting the other requirements under the regulations such plan furnishes each participant or beneficiary a one-time initial notice on paper in written form, prior to the electronic delivery of any pension benefit statement, of their right to request that all documents required to be disclosed under title I of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1001](./chapter-018-employee-retirement-income-security-program.md#section-1001) et seq.] be furnished on paper in written form. “(2) Other guidance.—In implementing the amendment made by subsection (a) with respect to a plan that discloses required documents or statements electronically, in accordance with applicable guidance governing electronic disclosure by the Department of Labor (with the exception of section 2520.104b-1(c) of title 29, Code of Federal Regulations), the Secretary of Labor shall, not later than December 31, 2024, update such guidance to the extent necessary to ensure that—“(A) a participant or beneficiary under such a plan is permitted the opportunity to request that any disclosure required to be delivered on paper under applicable guidance by the Department of Labor shall be furnished by electronic delivery; “(B) each paper statement furnished under such a plan pursuant to the amendment shall include—“(i) an explanation of how to request that all such statements, and any other document required to be disclosed under title I of the Employee Retirement Income Security Act of 1974, be furnished by electronic delivery; and “(ii) contact information for the plan sponsor, including a telephone number; “(C) the plan may not charge any fee to a participant or beneficiary for the delivery of any paper statements; “(D) each document required to be disclosed that is furnished by electronic delivery under such a plan shall include an explanation of how to request that all such documents be furnished on paper in written form; and “(E) a plan is permitted to furnish a duplicate electronic statement in any case in which the plan furnishes a paper pension benefit statement.”
 
 #### Regulations
 Secretary of Labor authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations by him, see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031).
@@ -2205,7 +2309,7 @@ Pub. L. 109–280, title V, § 508(b), Aug. 17, 2006, 120 Stat. 951, provided th
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1997—Subsec. (a). Pub. L. 105–34 struck out “descriptions,” before “annual reports,”.
@@ -2267,7 +2371,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 <a id="section-1030"></a>
 ## § 1030. Alternative methods of compliance
-**(a)** The Secretary on his own motion or after having received the petition of an administrator may prescribe an alternative method for satisfying any requirement of this part with respect to any pension plan, or class of pension plans, subject to such requirement if he determines—
+**(a)** The Secretary on his own motion or after having received the petition of an administrator may prescribe an alternative method for satisfying any requirement of this part with respect to any pension plan, or class of pension plans (including pension-linked emergency savings account features within a pension plan), subject to such requirement if he determines—
 
 (1) that the use of such alternative method is consistent with the purposes of this subchapter and that it provides adequate disclosure to the participants and beneficiaries in the plan, and adequate reporting to the Secretary,
 
@@ -2283,8 +2387,61 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 ### Statutory Notes
 
+#### Amendments
+2022—Subsec. (a). Pub. L. 117–328 inserted “(including pension-linked emergency savings account features within a pension plan)” after “class of pension plans” in introductory provisions.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
+
 #### Regulations
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031).
+
+
+<a id="section-1030a"></a>
+## § 1030a. Eliminating unnecessary plan requirements related to unenrolled participants
+**(a) In general** Notwithstanding any other provision of this subchapter, with respect to any individual account plan, no disclosure, notice, or other plan document (other than the notices and documents described in paragraphs (1) and (2)) shall be required to be furnished under this subchapter to any unenrolled participant if the unenrolled participant is furnished—
+
+(1) an annual reminder notice of such participant’s eligibility to participate in such plan and any applicable election deadlines under the plan; and
+
+(2) any document requested by such participant that the participant would be entitled to receive notwithstanding this section.
+
+**(b) Unenrolled participant** For purposes of this section, the term “unenrolled participant” means an employee who—
+
+(1) is eligible to participate in an individual account plan;
+
+(2) has been furnished—
+
+  (A) the summary plan description pursuant to [section 1024(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024/b&num=0&edition=prelim), and
+
+  (B) any other notices related to eligibility under the plan required to be furnished under this subchapter, or the Internal Revenue Code of 1986, in connection with such participant’s initial eligibility to participate in such plan;
+
+(3) is not participating in such plan; and
+
+(4) satisfies such other criteria as the Secretary of Labor may determine appropriate, as prescribed in guidance issued in consultation with the Secretary of Treasury.
+For purposes of this section, any eligibility to participate in the plan following any period for which such employee was not eligible to participate shall be treated as initial eligibility.
+
+**(c) Annual reminder notice** For purposes of this section, the term “annual reminder notice” means a notice provided in accordance with section 2520.104b–1 of title 29, Code of Federal Regulations (or any successor regulation), which—
+
+(1) is furnished in connection with the annual open season election period with respect to the plan or, if there is no such period, is furnished within a reasonable period prior to the beginning of each plan year;
+
+(2) notifies the unenrolled participant of—
+
+  (A) the unenrolled participant’s eligibility to participate in the plan; and
+
+  (B) the key benefits and rights under the plan, with a focus on employer contributions and vesting provisions; and
+
+(3) provides such information in a prominent manner calculated to be understood by the average participant.
+
+### Statutory Notes
+
+#### References in Text
+The Internal Revenue Code of 1986, referred to in subsec. (b)(2)(B), is classified generally to Title 26, Internal Revenue Code.
+
+#### Prior Provisions
+A prior section 111 of Pub. L. 93–406 was renumbered section 112 and is classified to [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031).
+
+#### Effective Date
+Section applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
 
 
 <a id="section-1031"></a>
@@ -2322,17 +2479,88 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 ### Statutory Notes
 
 #### References in Text
-The Welfare and Pension Plans Disclosure Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, as amended, which was classified generally to chapter 10 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section301&num=0&edition=prelim) and Tables.
+The Welfare and Pension Plans Disclosure Act, referred to in subsecs. (a) and (b)(2), is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, which was classified generally to chapter 10 (§ 301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 301 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section301&num=0&edition=prelim) and Tables.
 
 Title I of the Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(A) to (C), means title I of Pub. L. 93–406, which enacted this subchapter, amended [section 441 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-441), [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), Government Organization and Employees, and sections 664, 1027, and 1954 of Title 18, Crimes and Criminal Procedure, and repealed sections 301 to 309 of this title.
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(B)(ii), (iii), (D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Titles I, III, and IV of such act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (a)(2)(B)(ii), (iii), (D), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829. Titles I, III, and IV of such act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 #### Amendments
 1989—Subsec. (d). Pub. L. 101–239 added subsec. (d).
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2022, see section 320(c) of Pub. L. 117–328, set out as a note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
+
 #### Effective Date of 1989 Amendment
 Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under [section 1002 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1002).
+
+
+<a id="section-1032"></a>
+## § 1032. Notice and disclosure requirements with respect to lump sums
+**(a) In general** A plan administrator of a pension plan that amends the plan to provide a period of time during which a participant or beneficiary may elect to receive a lump sum, instead of future monthly payments, shall furnish notice—
+
+(1) to each participant or beneficiary offered such lump sum amount, in the manner in which the participant and beneficiary receives the lump sum offer from the plan sponsor, not later than 90 days prior to the first day on which the participant or beneficiary may make an election with respect to such lump sum; and
+
+(2) to the Secretary and the Pension Benefit Guaranty Corporation, not later than 30 days prior to the first day on which participants and beneficiaries may make an election with respect to such lump sum.
+
+**(b) Notice to participants and beneficiaries**
+
+(1) **Content** — The notice required under subsection (a)(1) shall include the following:
+
+  (A) Available benefit options, including the estimated monthly benefit that the participant or beneficiary would receive at normal retirement age, whether there is a subsidized early retirement option or qualified joint and survivor annuity that is fully subsidized (in accordance with [section 417(a)(5) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section417/a/5&num=0&edition=prelim),11 So in original. A closing parenthesis probably should precede the comma. the monthly benefit amount if payments begin immediately, and the lump sum amount available if the participant or beneficiary takes the option.
+
+  (B) An explanation of how the lump sum was calculated, including the interest rate, mortality assumptions, and whether any additional plan benefits were included in the lump sum, such as early retirement subsidies.
+
+  (C) In a manner consistent with the manner in which a written explanation is required to be given under 417(a)(3) of title 26, the relative value of the lump sum option for a terminated vested participant compared to the value of—
+
+    (i) the single life annuity, (or other standard form of benefit); and
+
+    (ii) the qualified joint and survivor annuity (as defined in [section 1055(d)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1055/d/1&num=0&edition=prelim));
+
+  (D) A statement that—
+
+    (i) a commercial annuity comparable to the annuity available from the plan may cost more than the amount of the lump sum amount, and
+
+    (ii) it may be advisable to consult an advisor regarding this point if the participant or beneficiary is considering purchasing a commercial annuity.
+
+  (E) The potential ramifications of accepting the lump sum, including longevity risks, loss of protections guaranteed by the Pension Benefit Guaranty Corporation (with an explanation of the monthly benefit amount that would be protected by the Pension Benefit Guaranty Corporation if the plan is terminated with insufficient assets to pay benefits), loss of protection from creditors, loss of spousal protections, and other protections under this Act that would be lost.
+
+  (F) General tax rules related to accepting a lump sum, including rollover options and early distribution penalties with a disclaimer that the plan does not provide tax, legal, or accounting advice, and a suggestion that participants and beneficiaries consult with their own tax, legal, and accounting advisors before determining whether to accept the offer.
+
+  (G) How to accept or reject the offer, the deadline for response, and whether a spouse is required to consent to the election.
+
+  (H) Contact information for the point of contact at the plan administrator for participants and beneficiaries to get more information or ask questions about the options.
+
+(2) **Plain language** — The notice under this subsection shall be written in a manner calculated to be understood by the average plan participant.
+
+(3) **Model notice** — The Secretary shall issue a model notice for purposes of the notice under subsection (a)(1), including for information required under subparagraphs (C) through (F) of paragraph (1).
+
+**(c) Notice to the Secretary and Pension Benefit Guaranty Corporation** The notice required under subsection (a)(2) shall include the following:
+
+(1) The total number of participants and beneficiaries eligible for such lump sum option.
+
+(2) The length of the limited period during which the lump sum is offered.
+
+(3) An explanation of how the lump sum was calculated, including the interest rate, mortality assumptions, and whether any additional plan benefits were included in the lump sum, such as early retirement subsidies.
+
+(4) A sample of the notice provided to participants and beneficiaries under subsection (a)(1), if otherwise required.
+
+**(d) Post-offer report to the Secretary and Pension Benefit Guaranty Corporation** Not later than 90 days after the conclusion of the limited period during which participants and beneficiaries in a plan may accept a plan’s offer of a lump sum, a plan sponsor shall submit a report to the Secretary and the Director of the Pension Benefit Guaranty Corporation that includes the number of participants and beneficiaries who accepted the lump sum offer and such other information as the Secretary may require.
+
+**(e) Public availability** The Secretary shall make the information provided in the notice to the Secretary required under subsection (a)(2) and in the post-offer reports submitted under subsection (d) publicly available in a form that protects the confidentiality of the information provided.
+
+**(f) Biennial report** Not later than the last day of the second calendar year after the calendar year including the applicability date of the final rules under section 342(e) of the SECURE 2.0 Act of 2022, and every 2 years thereafter, so long as the Secretary has received notices and post-offer reports under subsections (c) and (d) of this section, the Secretary shall submit to Congress a report that summarizes such notices and post-offer reports during the applicable reporting period. The applicable reporting period begins on the first day of the second calendar year preceding the calendar year that the report is submitted to Congress and ends on the last day of the calendar year preceding the calendar year the report is due.
+
+### Statutory Notes
+
+#### References in Text
+Section 342(e) of the SECURE 2.0 Act of 2022, referred to in subsec. (f), is section 342(e) of div. T of Pub. L. 117–328, which is set out as a note below.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title III, § 342(d), Dec. 29, 2022, 136 Stat. 5378, provided that: “The requirements of section 113 of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1032](./chapter-018-employee-retirement-income-security-program.md#section-1032)], as added by subsection (b) [probably means subsec. (a) of section 342 of Pub. L. 117–328, which enacted this section], shall apply beginning on the applicable effective date specified in the final regulations promulgated pursuant to subsection (e) [set out below].”
+
+#### Regulations
+Pub. L. 117–328, div. T, title III, § 342(e), Dec. 29, 2022, 136 Stat. 5378, provided that: “Not earlier than 1 year after the date of enactment of this Act [Dec. 29, 2022], the Secretary of Labor, in consultation with the Secretary of the Treasury, shall issue regulations to implement section 113 of the Employee Retirement Income Security Act of 1974 [[29 U.S.C. 1032](./chapter-018-employee-retirement-income-security-program.md#section-1032)], as added by subsection (a). Such regulations shall be applicable not earlier than the issuance of a final rule and not later than 1 year after issuance of a final rule.”
 
 
 <a id="section-1051"></a>
@@ -2486,7 +2714,32 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 117–328, div. T, title I, § 125(a)(1), (f)(1), Dec. 29, 2022, 136 Stat. 5314, 5316, provided that, applicable to plan years beginning after Dec. 31, 2024, this section is amended by adding at the end the following new subsection:
+
+“(c) Special Rule for Certain Part-time Employees.—
+
+“(1) In general.—A pension plan that includes either a qualified cash or deferred arrangement (as defined in [section 401(k) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/k&num=0&edition=prelim)) or a salary reduction agreement (as described in [section 403(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b&num=0&edition=prelim)) shall not require, as a condition of participation in the arrangement or agreement, that an employee complete a period of service with the employer (or employers) maintaining the plan extending beyond the close of the earlier of—
+
+“(A) the period permitted under subsection (a)(1) (determined without regard to subparagraph (B)(i) thereof); or
+
+“(B) the first 24-month period—
+
+“(i) consisting of 2 consecutive 12-month periods during each of which the employee has at least 500 hours of service; and
+
+“(ii) by the close of which the employee has met the requirement of subsection (a)(1)(A)(i).
+
+“(2) Exception.—Paragraph (1)(B) shall not apply to any employee described in [section 410(b)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section410/b/3&num=0&edition=prelim).
+
+“(3) Coordination with time of participation rules.—In the case of employees who are eligible to participate in the arrangement or agreement solely by reason of paragraph (1)(B), or by reason of such paragraph and [section 401(k)(2)(D)(ii) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/k/2/D/ii&num=0&edition=prelim), the rules of subsection (a)(4) shall apply to such employees.
+
+“(4) 12-month period.—For purposes of this subsection, 12-month periods shall be determined in the same manner as under the last sentence of subsection (a)(3)(A), except that 12-month periods beginning before January 1, 2023, shall not be taken into account.”
+
+See 2022 Amendment note below.
+
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–328 added subsec. (c).
+
 1989—Subsec. (a)(1)(B)(i). Pub. L. 101–239, § 7861(a)(2), made technical correction to directory language of Pub. L. 99–514. See 1986 Amendment note below.
 
 Subsec. (a)(1)(B)(ii). Pub. L. 101–239, § 7894(c)(2)(A), substituted “educational organization” for “educational institution”.
@@ -2514,6 +2767,9 @@ Subsec. (a)(2). Pub. L. 99–509 substituted a period for “unless—
 Subsec. (b)(4). Pub. L. 98–397, § 102(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before a break in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service.”
 
 Subsec. (b)(5). Pub. L. 98–397, § 102(e)(1), added par. (5).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2024, see section 125(f)(1) of Pub. L. 117–328, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 1989 Amendment
 Amendment by section 7861(a)(2) of Pub. L. 101–239 effective as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7863 of Pub. L. 101–239, set out as a note under [section 106 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section106&num=0&edition=prelim), Internal Revenue Code.
@@ -2694,7 +2950,7 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
       (II) the number of days for which there was such an absence.
 
-(4) **Cross references.—**
+(4) Cross references
 
   (A) For definitions of “accrued benefit” and “normal retirement age”, see sections 1002(23) and (24) of this title.
 
@@ -2714,7 +2970,7 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
 **(e) Consent for distribution; present value; covered distributions**
 
-(1) If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $5,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
+(1) If the present value of any nonforfeitable benefit with respect to a participant in a plan exceeds $7,000, the plan shall provide that such benefit may not be immediately distributed without the consent of the participant.
 
 (2) For purposes of paragraph (1), the present value shall be calculated in accordance with [section 1055(g)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1055/g/3&num=0&edition=prelim).
 
@@ -2741,10 +2997,29 @@ For provisions directing that if any amendments made by Pub. L. 99–509 require
 
 ### Statutory Notes
 
+#### Amendment of Subsection (b)
+Pub. L. 117–328, div. T, title I, § 125(b), (f)(1), Dec. 29, 2022, 136 Stat. 5315, 5316, provided that, applicable to plan years beginning after Dec. 31, 2024, subsection (b) of this section is amended by redesignating paragraph (4) as paragraph (5) and by inserting after paragraph (3) the following new paragraph:
+
+“(4) Part-time employees
+
+“For purposes of determining whether an employee who became eligible to participate in a qualified cash or deferred arrangement or a salary reduction agreement under a plan solely by reason of [section 1052(c)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1052/c/1/B&num=0&edition=prelim) has a nonforfeitable right to employer contributions—
+
+“(A) except as provided in subparagraph (B), each 12-month period for which the employee has at least 500 hours of service shall be treated as a year of service; and
+
+“(B) paragraph (3) shall be applied by substituting ‘at least 500 hours of service’ for ‘more than 500 hours of service’ in subparagraph (A) thereof.
+
+For purposes of this paragraph, 12-month periods shall be determined in the same manner as under the last sentence of [section 1052(a)(3)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1052/a/3/A&num=0&edition=prelim), except that 12-month periods beginning before January 1, 2023, shall not be taken into account.”
+
+See 2022 Amendment note below.
+
 #### References in Text
 [Section 1425 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1425&num=0&edition=prelim), referred to in subsec. (a)(3)(E)(ii)(I), was repealed by Pub. L. 113–235, div. O, title I, § 108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
 #### Amendments
+2022—Subsec. (b)(4), (5). Pub. L. 117–328, § 125(b), added par. (4) and redesignated former par. (4) as (5).
+
+Subsec. (e)(1). Pub. L. 117–328, § 304(a), substituted “$7,000” for “$5,000”.
+
 2008—Subsec. (f)(1)(B). Pub. L. 110–458 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the requirements of [section 1054(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1054/c&num=0&edition=prelim) or [section 1055(g) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1055/g&num=0&edition=prelim) with respect to contributions other than employee contributions,”.
 
 2006—Subsec. (a)(2). Pub. L. 109–280, § 904(b)(1), amended par. (2) generally, substituting provisions relating to satisfaction of requirements in the case of a defined benefit plan and in the case of an individual account plan for provisions relating to satisfaction of requirements if an employee who has completed at least 5 years of service has a nonforfeitable right to 100 percent of the employee’s accrued benefit derived from employer contributions or if an employee has a nonforfeitable right to a percentage of such benefit based upon number of years of service.
@@ -2842,6 +3117,11 @@ Subsec. (e). Pub. L. 98–397, § 105(a), added subsec. (e).
 1980—Subsec. (a)(3)(E). Pub. L. 96–364, § 303(1), added subpar. (E).
 
 Subsec. (b)(1)(G). Pub. L. 96–364, § 303(2)–(4), added subpar. (G).
+
+#### Effective Date of 2022 Amendment
+Amendment by section 125(b) of Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2024, see section 125(f)(1) of Pub. L. 117–328, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by section 304(a) of Pub. L. 117–328 applicable to distributions made after Dec. 31, 2023, see section 304(b) of Pub. L. 117–328, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
@@ -3066,6 +3346,8 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
   (F) *Early retirement benefit or retirement-type subsidy.—* — For purposes of this paragraph, the terms “early retirement benefit” and “retirement-type subsidy” have the meaning given such terms in subsection (g)(2)(A).
 
   (G) *Benefit accrued to date.—* — For purposes of this paragraph, any reference to the accrued benefit shall be a reference to such benefit accrued to date.
+
+(6) **Projected interest crediting rate.—** — For purposes of subparagraphs (A), (B), and (C) of paragraph (1), in the case of an applicable defined benefit plan (within the meaning of [section 1053(f)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1053/f/3&num=0&edition=prelim)) which provides variable interest crediting rates, the interest crediting rate which is treated as in effect and as the projected interest crediting rate shall be a reasonable projection of such variable interest crediting rate, not to exceed 6 percent.
 
 **(c) Employee’s accrued benefits derived from employer and employee contributions**
 
@@ -3344,6 +3626,8 @@ The plan provision required under this subsection may provide that such repaymen
 The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(6). Pub. L. 117–328 added par. (6).
+
 2014—Subsec. (i)(3). Pub. L. 113–97 substituted “multiemployer plans or CSEC plans” for “multiemployer plans”.
 
 Subsecs. (k), (l). Pub. L. 113–235 added subsec. (k) and redesignated former subsec. (k) as (l).
@@ -3461,6 +3745,9 @@ Subsec. (d)(1). Pub. L. 98–397, § 105(b), substituted “$3,500” for “$1,
 Subsec. (e). Pub. L. 98–397, § 102(f), substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service”.
 
 Subsec. (g). Pub. L. 98–397, § 301(a)(2), designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable with respect to plan years beginning after Dec. 29, 2022, see section 348(c) of Pub. L. 117–328, set out as a note under [section 411 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section411&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–235 applicable to all periods before, on, and after Dec. 16, 2014, see section 2(c) of div. P of Pub. L. 113–235, set out as a note under [section 411 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section411&num=0&edition=prelim), Internal Revenue Code.
@@ -4017,7 +4304,8 @@ a plan may not decrease benefits of such a participant by reason of any increase
 
       (I) relates to the provision of child support, alimony payments, or marital property rights to a spouse, former spouse, child, or other dependent of a participant, and
 
-      (II) is made pursuant to a State domestic relations law (including a community property law).
+      (II) is made pursuant to a State or Tribal domestic relations law (including a community property law).
+      For purposes of clause (ii)(II), the term “Tribal” with respect to a domestic relations law means such a law which is issued by or under the laws of an Indian tribal government (as defined in [section 7701(a)(40) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701/a/40&num=0&edition=prelim)), a subdivision of such an Indian tribal government, or an agency or instrumentality of either.
 
   (C) A domestic relations order meets the requirements of this subparagraph only if such order clearly specifies—
 
@@ -4313,6 +4601,65 @@ a plan may not decrease benefits of such a participant by reason of any increase
 
 (12) **CSEC plans** — This subsection shall not apply to a CSEC plan (as defined in [section 1060(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f&num=0&edition=prelim)).
 
+**(h) Special rules applicable to benefit overpayments**
+
+(1) **General rule** — In the case of an inadvertent benefit overpayment by any pension plan, the responsible plan fiduciary shall not be considered to have failed to comply with the requirements of this subchapter merely because such fiduciary determines, in the exercise of its discretion, not to seek recovery of all or part of such overpayment from—
+
+  (A) any participant or beneficiary,
+
+  (B) any plan sponsor of, or contributing employer to—
+
+    (i) an individual account plan, provided that the amount needed to prevent or restore any impermissible forfeiture from any participant’s or beneficiary’s account arising in connection with the overpayment is, separately from and independently of the overpayment, allocated to such account pursuant to the nonforfeitability requirements of [section 1053 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1053) (for example, out of the plan’s forfeiture account, additional employer contributions, or recoveries from those responsible for the overpayment), or
+
+    (ii) a defined benefit pension plan subject to the funding rules in part 3 of this subtitle B, unless the responsible plan fiduciary determines, in the exercise of its fiduciary discretion, that failure to recover all or part of the overpayment faster than required under such funding rules would materially affect the plan’s ability to pay benefits due to other participants and beneficiaries, or
+
+  (C) any fiduciary of the plan, other than a fiduciary (including a plan sponsor or contributing employer acting in a fiduciary capacity) whose breach of its fiduciary duties resulted in such overpayment, provided that if the plan has established prudent procedures to prevent and minimize overpayment of benefits and the relevant plan fiduciaries have followed such procedures, an inadvertent benefit overpayment will not give rise to a breach of fiduciary duty.
+
+(2) **Reduction in future benefit payments and recovery from responsible party** — Paragraph (1) shall not fail to apply with respect to any inadvertent benefit overpayment merely because, after discovering such overpayment, the responsible plan fiduciary—
+
+  (A) reduces future benefit payments to the correct amount provided for under the terms of the plan, or
+
+  (B) seeks recovery from the person or persons responsible for the overpayment.
+
+(3) **Employer funding obligations** — Nothing in this subsection shall relieve an employer of any obligation imposed on it to make contributions to a plan to meet the minimum funding standards under part 3 of this subtitle B or to prevent or restore an impermissible forfeiture in accordance with [section 1053 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1053).
+
+(4) **Recoupment from participants and beneficiaries** — If the responsible plan fiduciary, in the exercise of its fiduciary discretion, decides to seek recoupment from a participant or beneficiary of all or part of an inadvertent benefit overpayment made by the plan to such participant or beneficiary, it may do so, subject to the following conditions:
+
+  (A) No interest or other additional amounts (such as collection costs or fees) are sought on overpaid amounts for any period.
+
+  (B) If the plan seeks to recoup past overpayments of a non-decreasing annuity by reducing future benefit payments—
+
+    (i) the reduction ceases after the plan has recovered the full dollar amount of the overpayment,
+
+    (ii) the amount recouped each calendar year does not exceed 10 percent of the full dollar amount of the overpayment, and
+
+    (iii) future benefit payments are not reduced to below 90 percent of the periodic amount otherwise payable under the terms of the plan.
+    Alternatively, if the plan seeks to recoup past overpayments of a non-decreasing annuity through one or more installment payments, the sum of such installment payments in any calendar year does not exceed the sum of the reductions that would be permitted in such year under the preceding sentence.
+
+  (C) If the plan seeks to recoup past overpayments of a benefit other than a non-decreasing annuity, the plan satisfies requirements developed by the Secretary of Labor for purposes of this subparagraph.
+
+  (D) Efforts to recoup overpayments are—
+
+    (i) not accompanied by threats of litigation, unless the responsible plan fiduciary makes a determination that there is a reasonable likelihood of success to recover an amount greater than the cost of recovery, and
+
+    (ii) not made through a collection agency or similar third party, unless the participant or beneficiary ignores or rejects efforts to recoup the overpayment following either a final judgment in Federal or State court or a settlement between the participant or beneficiary and the plan, in either case authorizing such recoupment.
+
+  (E) Recoupment of past overpayments to a participant is not sought from any beneficiary of the participant, including a spouse, surviving spouse, former spouse, or other beneficiary.
+
+  (F) Recoupment may not be sought if the first overpayment occurred more than 3 years before the participant or beneficiary is first notified in writing of the error, except in the case of fraud or misrepresentation by the participant.
+
+  (G) A participant or beneficiary from whom recoupment is sought is entitled to contest all or part of the recoupment pursuant to the claims procedures of the plan that made the overpayment to the extent such procedures are consistent with [section 1133 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1133) and in the case of an inadvertent benefit overpayment from a plan to which paragraph (1) applies that is transferred to an eligible retirement plan (as defined in [section 402(c)(8)(B) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section402/c/8/B&num=0&edition=prelim)) by or on behalf of a participant or beneficiary—
+
+    (i) such plan shall notify the plan receiving the rollover of such dispute,
+
+    (ii) the plan receiving the rollover shall retain such overpayment on behalf of the participant or beneficiary (and shall be entitled to treat such overpayment as plan assets) pending the outcome of such procedures, and
+
+    (iii) the portion of such overpayment with respect to which recoupment is sought on behalf of the plan shall be permitted to be returned to such plan if it is determined to be an overpayment (and the plans making and receiving such transfer shall be treated as permitting such transfer).
+
+  (H) In determining the amount of recoupment to seek, the responsible plan fiduciary may take into account the hardship that recoupment likely would impose on the participant or beneficiary.
+
+(5) **Effect of culpability** — Subparagraphs (A) through (F) of paragraph (4) shall not apply to protect a participant or beneficiary who is culpable. For purposes of this paragraph, a participant or beneficiary is culpable if the individual bears responsibility for the overpayment (such as through misrepresentations or omissions that led to the overpayment), or if the individual knew that the benefit payment or payments were materially in excess of the correct amount. Notwithstanding the preceding sentence, an individual is not culpable merely because the individual believed the benefit payment or payments were or might be in excess of the correct amount, if the individual raised that question with an authorized plan representative and was told the payment or payments were not in excess of the correct amount.
+
 ### Statutory Notes
 
 #### References in Text
@@ -4323,6 +4670,12 @@ The Railroad Retirement Act of 1937, referred to in subsec. (b), is act Aug. 29,
 This chapter, referred to in subsecs. (e)(4) and (g)(5)(C)(i), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
 #### Amendments
+2022—Subsec. (d)(3)(B). Pub. L. 117–328, § 339(b)(2), inserted concluding provisions.
+
+Subsec. (d)(3)(B)(ii)(II). Pub. L. 117–328, § 339(b)(1), inserted “or Tribal” after “State”.
+
+Subsec. (h). Pub. L. 117–328, § 301(a), added subsec. (h).
+
 2014—Subsec. (g)(3)(B). Pub. L. 113–159 substituted “of such plan (determined by not taking into account any adjustment of segment rates under [section 1083(h)(2)(C)(iv) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1083/h/2/C/iv&num=0&edition=prelim))” for “of such plan”.
 
 Subsec. (g)(9)(C). Pub. L. 113–295, § 221(a)(57)(E)(ii), struck out cl. (i) designation and heading and struck out cls. (ii) and (iii) which related to transition rule for plan years 2008 to 2010 and limitation on transition rule, respectively.
@@ -4392,6 +4745,9 @@ Subsec. (d)(3)(M). Pub. L. 99–514, § 1898(c)(5), added subpar. (M).
 Subsec. (d)(3)(N). Pub. L. 99–514, § 1898(c)(4)(B), redesignated subpar. (L) as (N).
 
 1984—Subsec. (d)(3). Pub. L. 98–397 added par. (3).
+
+#### Effective Date of 2022 Amendment
+Amendment by section 339(b) of Pub. L. 117–328 applicable to domestic relations orders received by plan administrators after Dec. 31, 2022, including any such order which is submitted for reconsideration after such date, see section 339(c) of Pub. L. 117–328, set out as a note under [section 414 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–295 effective Dec. 19, 2014, subject to a savings provision, see section 221(b) of Pub. L. 113–295, set out as a note under [section 1 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1&num=0&edition=prelim), Internal Revenue Code.
@@ -5807,7 +6163,7 @@ For applicability of amendment by section 202(d) of Pub. L. 109–280 to a multi
 
     (ii) *New benefit accruals* — Notwithstanding subsection (h)(2), for purposes of determining the funding target and normal cost of a plan for any plan year, the present value of any benefits accrued or earned under the plan for a plan year with respect to which an election under paragraph (1) is in effect shall be determined on the basis of the United States Treasury obligation yield curve for the day that is the valuation date of such plan for such plan year.
 
-    (iii) *United states treasury obligation yield curve* — For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary of the Treasury for such day on interest-bearing obligations of the United States.
+    (iii) *United States Treasury obligation yield curve* — For purposes of this subsection, the term “United States Treasury obligation yield curve” means, with respect to any day, a yield curve which shall be prescribed by the Secretary of the Treasury for such day on interest-bearing obligations of the United States.
 
   (B) *Shortfall amortization base*
 
@@ -7698,7 +8054,7 @@ For special rules on applicability of amendments by subtitles A (§§ 101–108)
 ### Statutory Notes
 
 #### References in Text
-The Investment Company Act of 1940, referred to in subsec. (b)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 80a–51 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section80a–51&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1996—Subsec. (c). Pub. L. 104–188 added subsec. (c).
@@ -7777,7 +8133,7 @@ For provisions directing that if any amendments made by subtitle D [§§ 1401–
 
 **(c) Assets of plan not to inure to benefit of employer; allowable purposes of holding plan assets**
 
-(1) Except as provided in paragraph (2), (3), or (4) 11 See References in Text note below. or subsection (d), or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on July 31, 2015), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
+(1) Except as provided in paragraph (2), (3), or (4) 11 See References in Text note below. or subsection (d), or under sections 1342 and 1344 of this title (relating to termination of insured plans), or under [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on December 29, 2022), the assets of a plan shall never inure to the benefit of any employer and shall be held for the exclusive purposes of providing benefits to participants in the plan and their beneficiaries and defraying reasonable expenses of administering the plan.
 
 (2)
 
@@ -7807,6 +8163,8 @@ This chapter, referred to in subsecs. (a)(1) and (b)(4), (6), was in the origina
 Paragraph (2), (3), or (4), referred to in subsec. (c)(1), probably should be a reference only to par. (2) or (3) of subsec. (c), as par. (3) was struck out, and par. (4) was redesignated as (3), by Pub. L. 101–239, title VII, § 7881(k), Dec. 19, 1989, 103 Stat. 2443.
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–328 substituted “(as in effect on December 29, 2022)” for “(as in effect on July 31, 2015)”.
+
 2015—Subsec. (c)(1). Pub. L. 114–41 substituted “July 31, 2015” for “July 6, 2012”. Amendment was executed to reflect the probable intent of Congress notwithstanding an extra closing quotation mark in the directory language.
 
 2012—Subsec. (c)(1). Pub. L. 112–141 substituted “July 6, 2012” for “August 17, 2006”.
@@ -7844,6 +8202,9 @@ Subsec. (c)(1). Pub. L. 96–364, § 310(1), inserted reference to par. (4).
 Subsec. (c)(2)(A). Pub. L. 96–364, § 410(a), substituted provisions relating to contributions or payments of withdrawal liability under part 1 of subtitle E of subchapter III of this chapter made by an employer to a plan by a mistake of fact, and by an employer to a multiemployer plan by a mistake of fact or law, for provisions relating to contributions made by an employer by a mistake of fact.
 
 Subsec. (c)(4). Pub. L. 96–364, § 310(2), added par. (4).
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to transfers made after Dec. 29, 2022, see section 606(c) of Pub. L. 117–328, set out as a note under [section 420 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–280 applicable to plan years beginning after 2007, see section 108(e) of Pub. L. 109–280, set out as a note under [section 1021 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1021).
@@ -7962,6 +8323,8 @@ For special rules on applicability of amendments by subtitles A (§§ 101–108)
 
     (ii) *Form of notice.—* — The requirements of clauses (i) and (ii) of [section 401(k)(12)(D) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/k/12/D&num=0&edition=prelim) shall apply with respect to the notices described in this subparagraph.
 
+(6) **Default investment arrangements for a pension-linked emergency savings account.—** — For purposes of paragraph (1), a participant in a pension-linked emergency savings account shall be treated as exercising control over the assets in the account with respect to the amount of contributions and earnings which are invested in accordance with [section 1193(c)(1)(A)(iii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1193/c/1/A/iii&num=0&edition=prelim).
+
 **(d) Plan terminations**
 
 (1) If, in connection with the termination of a pension plan which is a single-employer plan, there is an election to establish or maintain a qualified replacement plan, or to increase benefits, as provided under [section 4980(d) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section4980/d&num=0&edition=prelim), a fiduciary shall discharge the fiduciary’s duties under this subchapter and subchapter III in accordance with the following requirements:
@@ -8053,6 +8416,8 @@ For special rules on applicability of amendments by subtitles A (§§ 101–108)
 The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (d)(2)(B), is the enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
 
 #### Amendments
+2022—Subsec. (c)(6). Pub. L. 117–328 added par. (6).
+
 2019—Subsec. (e). Pub. L. 116–94 added subsec. (e).
 
 2008—Subsec. (c)(5). Pub. L. 110–458 substituted “participant or beneficiary” for “participant” wherever appearing.
@@ -8076,6 +8441,9 @@ Subsec. (c)(3)(B). Pub. L. 107–147, § 411(t)(2), substituted “a transfer th
 Subsec. (d). Pub. L. 101–508, § 12002(b)(1), added subsec. (d).
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2008 Amendment
 Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub. L. 109–280 to which the amendment relates, except as otherwise provided, see section 112 of Pub. L. 110–458, set out as a note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
@@ -8104,6 +8472,9 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 Pub. L. 109–280, title VI, § 625, Aug. 17, 2006, 120 Stat. 980, provided that: “(a) In General.—Not later than 1 year after the date of the enactment of this Act [Aug. 17, 2006], the Secretary of Labor shall issue final regulations clarifying that the selection of an annuity contract as an optional form of distribution from an individual account plan to a participant or beneficiary—“(1) is not subject to the safest available annuity standard under Interpretive Bulletin 95–1 (29 CFR 2509.95–1), and “(2) is subject to all otherwise applicable fiduciary standards. “(b) Effective Date.—This section shall take effect on the date of enactment of this Act [Aug. 17, 2006].”
 
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this part call for the promulgation of regulations, see sections 1031 and 1114 of this title.
+
+#### Performance Benchmarks for Asset Allocation Funds
+Pub. L. 117–328, div. T, title III, § 318(a), Dec. 29, 2022, 136 Stat. 5353, provided that: Not later than 2 years after the date of enactment of this Act [Dec. 29, 2022], the Secretary of Labor shall promulgate regulations under section 404 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1104](./chapter-018-employee-retirement-income-security-program.md#section-1104)) providing that, in the case of a designated investment alternative that contains a mix of asset classes, the administrator of a plan may, but is not required to, use a benchmark that is a blend of different broad-based securities market indices if— “(1) the blend is reasonably representative of the asset class holdings of the designated investment alternative; “(2) for purposes of determining the blend’s returns for 1-, 5-, and 10-calendar-year periods (or for the life of the alternative, if shorter), the blend is modified at least once per year if needed to reflect changes in the asset class holdings of the designated investment alternative; “(3) the blend is furnished to participants and beneficiaries in a manner that is reasonably calculated to be understood by the average plan participant; and “(4) each securities market index that is used for an associated asset class would separately satisfy the requirements of such regulation for such asset class.”
 
 #### Plan Amendments Not Required Until January 1, 1998
 For provisions directing that if any amendments made by subtitle D [§§ 1401–1465] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
@@ -8590,7 +8961,7 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
 
   (C) such stock does not constitute a qualifying employer security (as defined in [section 1107(d)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1107/d/5&num=0&edition=prelim) as in effect at the time of the sale).
 
-(13) Any transfer made before January 1, 2026, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on July 31, 2015).
+(13) Any transfer made before January 1, 2033, of excess pension assets from a defined benefit plan to a retiree health account in a qualified transfer permitted under [section 420 of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim) (as in effect on December 29, 2022).
 
 (14) Any transaction in connection with the provision of investment advice described in [section 1002(21)(A)(ii) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/21/A/ii&num=0&edition=prelim) to a participant or beneficiary of an individual account plan that permits such participant or beneficiary to direct the investment of assets in their individual account, if—
 
@@ -8704,6 +9075,8 @@ Before granting an exemption under this subsection from section 1106(a) or 1107(
       (I) to undo the transaction to the extent possible and in any case to make good to the plan or affected account any losses resulting from the transaction, and
 
       (II) to restore to the plan or affected account any profits made through the use of assets of the plan.
+
+(21) The provision of a de minimis financial incentive described in section 401(k)(4)(A) or [section 403(b)(12)(A) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section403/b/12/A&num=0&edition=prelim).
 
 **(c) Fiduciary benefits and compensation not prohibited by section 1106** Nothing in [section 1106 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1106) shall be construed to prohibit any fiduciary from—
 
@@ -8936,6 +9309,10 @@ The Investment Advisers Act of 1940, referred to in subsec. (g)(11)(A)(i), is ti
 The Securities Exchange Act of 1934, referred to in subsec. (g)(11)(A)(iv), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(13). Pub. L. 117–328, § 606(b)(3), substituted “January 1, 2033” for “January 1, 2026” and “(as in effect on December 29, 2022)” for “(as in effect on July 31, 2015)”.
+
+Subsec. (b)(21). Pub. L. 117–328, § 113(d), added par. (21).
+
 2020—Subsec. (b)(2). Pub. L. 116–260 designated existing provisions as subpar. (A) and added subpar. (B).
 
 2019—Subsec. (h). Pub. L. 116–94 added subsec. (h).
@@ -8995,6 +9372,11 @@ Subsec. (d). Pub. L. 99–514, § 1898(i)(1), struck out “(a),” before “(b
 1980—Subsec. (b)(10), (11). Pub. L. 96–364, § 308(a), added pars. (10) and (11).
 
 Subsec. (f). Pub. L. 96–364, § 308(b), added subsec. (f).
+
+#### Effective Date of 2022 Amendment
+Amendment by section 113(d) of Pub. L. 117–328 applicable with respect to plan years beginning after Dec. 29, 2022, see section 113(e) of Pub. L. 117–328, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
+
+Amendment by section 606(b)(3) of Pub. L. 117–328 applicable to transfers made after Dec. 29, 2022, see section 606(c) of Pub. L. 117–328, set out as a note under [section 420 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section420&num=0&edition=prelim), Internal Revenue Code.
 
 #### Effective Date of 2020 Amendment
 Pub. L. 116–260, div. BB, title II, § 202(e), Dec. 27, 2020, 134 Stat. 2900, provided that: “The amendments made by subsections (a) and (c) [enacting [section 300gg–46 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–46&num=0&edition=prelim), The Public Health and Welfare, and amending this section] shall apply beginning 1 year after the date of enactment of this Act [Dec. 27, 2020].”
@@ -9123,7 +9505,7 @@ any salary which would be otherwise due such person by virtue of such office or 
 #### References in Text
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
-The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (a), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, as amended, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401), and Tables.
+The Labor-Management Reporting and Disclosure Act of 1959, referred to in subsec. (a), is Pub. L. 86–257, Sept. 14, 1959, 73 Stat. 519, which is classified principally to chapter 11 (§ 401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 401 of this title](./chapter-011-labor-management-reporting-and-disclosure-procedure.md#section-401), and Tables.
 
 #### Amendments
 1987—Subsec. (a). Pub. L. 100–182, in concluding provisions, substituted “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, the United States district court for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements under [section 994(a) of title 28](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section994/a&num=0&edition=prelim),” for “the United States Parole Commission”, “court shall” for “Commission shall”, “court’s” for “Commission’s”, “such court” for “such Parole Commission”, and “a hearing” for “an administrative hearing”.
@@ -9309,7 +9691,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 (3) by a participant, beneficiary, or fiduciary (A) to enjoin any act or practice which violates any provision of this subchapter or the terms of the plan, or (B) to obtain other appropriate equitable relief (i) to redress such violations or (ii) to enforce any provisions of this subchapter or the terms of the plan;
 
-(4) by the Secretary, or by a participant, or beneficiary for appropriate relief in the case of a violation of 1025(c) of this title;
+(4) by the Secretary, or by a participant, or beneficiary for appropriate relief in the case of a violation of section 1025(c) or 1032(a) of this title;
 
 (5) except as otherwise provided in subsection (b), by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
 
@@ -9344,7 +9726,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 **(c) Administrator’s refusal to supply requested information; penalty for failure to provide annual report in complete form**
 
-(1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 2 of this title, [section 1021(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/e/1&num=0&edition=prelim), [section 1021(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f&num=0&edition=prelim), or [section 1025(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1025/a&num=0&edition=prelim) with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court’s discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
+(1) Any administrator (A) who fails to meet the requirements of paragraph (1) or (4) of section 1166 2 of this title, [section 1021(e)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/e/1&num=0&edition=prelim), [section 1021(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/f&num=0&edition=prelim),,33 So in original. [section 1025(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1025/a&num=0&edition=prelim), or [section 1032(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1032/a&num=0&edition=prelim) with respect to a participant or beneficiary, or (B) who fails or refuses to comply with a request for any information which such administrator is required by this subchapter to furnish to a participant or beneficiary (unless such failure or refusal results from matters reasonably beyond the control of the administrator) by mailing the material requested to the last known address of the requesting participant or beneficiary within 30 days after such request may in the court’s discretion be personally liable to such participant or beneficiary in the amount of up to $100 a day from the date of such failure or refusal, and the court may in its discretion order such other relief as it deems proper. For purposes of this paragraph, each violation described in subparagraph (A) with respect to any single participant, and each violation described in subparagraph (B) with respect to any single participant or beneficiary, shall be treated as a separate violation.
 
 (2) The Secretary may assess a civil penalty against any plan administrator of up to $1,000 a day from the date of such plan administrator’s failure or refusal to file the annual report required to be filed with the Secretary under [section 1021(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1021/b/1&num=0&edition=prelim). For purposes of this paragraph, an annual report that has been rejected under [section 1024(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1024/a/4&num=0&edition=prelim) for failure to provide material information shall not be treated as having been filed with the Secretary.
 
@@ -9504,6 +9886,10 @@ This chapter, referred to in subsec. (k), was in the original “this Act”, me
 Another section 306(b)(3) of Pub. L. 107–204 is classified to [section 7244(b)(3) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section7244/b/3&num=0&edition=prelim), Commerce and Trade.
 
 #### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–328, § 342(c)(2), substituted “section 1025(c) or 1032(a) of this title” for “1025(c) of this title”.
+
+Subsec. (c)(1). Pub. L. 117–328, § 342(c)(1), substituted “, [section 1025(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1025/a&num=0&edition=prelim), or [section 1032(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1032/a&num=0&edition=prelim)” for “or [section 1025(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1025/a&num=0&edition=prelim)”.
+
 2014—Subsec. (a)(11). Pub. L. 113–235 added par. (11).
 
 Subsec. (c)(10) to (12). Pub. L. 113–97 redesignated par. (10) relating to ongoing consultation by the Secretary and the Secretary of Health and Human Services as par. (11) and added par. (12).
@@ -9855,7 +10241,7 @@ It shall be unlawful for any person to discharge, fine, suspend, expel, discipli
 ### Statutory Notes
 
 #### References in Text
-The Welfare and Pension Plans Disclosure Act, referred to in text, is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, as amended, which was classified generally to chapter 10 (§ 301 et seq.) of this title, and was repealed by Pub. L. 93–406, title I, § 111(a)(1), Sept. 2, 1974, 88 Stat. 851 (Employee Retirement Income Security Act of 1974), effective Jan. 1, 1975. Such section 111(a)(1) also provided that the Welfare and Pension Plans Disclosure Act should continue to apply to any conduct and events which occurred before Jan. 1, 1975 (see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031)). For complete classification of the Welfare and Pension Plans Disclosure Act to the Code prior to such repeal, see Tables.
+The Welfare and Pension Plans Disclosure Act, referred to in text, is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, which was classified generally to chapter 10 (§ 301 et seq.) of this title, and was repealed by Pub. L. 93–406, title I, § 111(a)(1), Sept. 2, 1974, 88 Stat. 851 (Employee Retirement Income Security Act of 1974), effective Jan. 1, 1975. Such section 111(a)(1) also provided that the Welfare and Pension Plans Disclosure Act should continue to apply to any conduct and events which occurred before Jan. 1, 1975 (see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031)). For complete classification of the Welfare and Pension Plans Disclosure Act to the Code prior to such repeal, see Tables.
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
@@ -9874,7 +10260,7 @@ It shall be unlawful for any person through the use of fraud, force, violence, o
 ### Statutory Notes
 
 #### References in Text
-The Welfare and Pension Plans Disclosure Act, referred to in text, is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, as amended, which was classified generally to chapter 10 (§ 301 et seq.) of this title, and was repealed by Pub. L. 93–406, title I, § 111(a)(1), Sept. 2, 1974, 88 Stat. 851 (Employee Retirement Income Security Act of 1974), effective Jan. 1, 1975. Such section 111(a)(1) also provided that the Welfare and Pension Plans Disclosure Act should continue to apply to any conduct and events which occurred before Jan. 1, 1975 (see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031)). For complete classification of the Welfare and Pension Plans Disclosure Act to the Code prior to such repeal, see Tables.
+The Welfare and Pension Plans Disclosure Act, referred to in text, is Pub. L. 85–836, Aug. 28, 1958, 72 Stat. 997, which was classified generally to chapter 10 (§ 301 et seq.) of this title, and was repealed by Pub. L. 93–406, title I, § 111(a)(1), Sept. 2, 1974, 88 Stat. 851 (Employee Retirement Income Security Act of 1974), effective Jan. 1, 1975. Such section 111(a)(1) also provided that the Welfare and Pension Plans Disclosure Act should continue to apply to any conduct and events which occurred before Jan. 1, 1975 (see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031)). For complete classification of the Welfare and Pension Plans Disclosure Act to the Code prior to such repeal, see Tables.
 
 #### Amendments
 2006—Pub. L. 109–280 substituted “$100,000” for “$10,000” and “10 years” for “one year”.
@@ -9908,7 +10294,7 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 
 (2) While away from their homes or regular places of business in the performance of services for Council, 22 So in original. Probably should be “for the Council,”. members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703(b) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703/b&num=0&edition=prelim).1
 
-**(e) Termination** Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
+**(e) Termination** [Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim) (relating to termination) shall not apply to the Council.
 
 ### Statutory Notes
 
@@ -9919,7 +10305,8 @@ This chapter, referred to in subsecs. (a)(2), (b), was in the original “this A
 
 [Section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim), referred to in subsec. (d)(2), was amended generally by Pub. L. 94–22, § 4, May 19, 1975, 89 Stat. 85, and, as so amended, does not contain a subsec. (b).
 
-Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (e), is section 14(a) of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “[Section 1013(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013/a&num=0&edition=prelim) (relating to termination)” for “Section 14(a) of the Federal Advisory Committee Act (relating to termination)”.
 
 #### Regulations
 Secretary authorized, effective Sept. 2, 1974, to promulgate regulations wherever provisions of this subchapter call for the promulgation of regulations, see [section 1031 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1031).
@@ -10074,7 +10461,7 @@ Section was enacted as part of the Single-Employer Pension Plan Amendments Act o
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(8)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(8)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Social Security Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (e). Pub. L. 109–280 added subsec. (e).
@@ -10338,7 +10725,7 @@ Pub. L. 105–92, § 2, Nov. 19, 1997, 111 Stat. 2139, provided that: “(a) Fin
 
   (C) the personnel appointed under paragraph (1)(E) shall be fairly balanced in terms of points of views represented and shall be appointed without regard to political affiliation or previous partisan activities.
 
-(3) **Nonapplication of FACA** — The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the National Summit.
+(3) **Nonapplication of chapter 10 of title 5** — The provisions of chapter 10 of title 5 shall not apply to the National Summit.
 
 **(g) Report** The Secretary shall prepare a report describing the activities of the National Summit and shall submit the report to the President, the Speaker and Minority Leader of the House of Representatives, the Majority and Minority Leaders of the Senate, and the chief executive officers of the States not later than 90 days after the date on which the National Summit is adjourned.
 
@@ -10364,7 +10751,8 @@ The private sector organization described in subsection (b) and contracted with 
 #### References in Text
 The Social Security Act, referred to in subsec. (d), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (f)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (f)(3). Pub. L. 117–286 substituted “chapter 10 of title 5” for “FACA” in heading and “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)” in text.
 
 #### Change of Name
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -10449,6 +10837,68 @@ The Liability Risk Retention Act of 1986, referred to in text, is Pub. L. 97–4
 
 #### References in Text
 Section 104 of Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a), is section 104 of Pub. L. 104–191, which is set out as a note under [section 300gg–92 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section300gg–92&num=0&edition=prelim), The Public Health and Welfare.
+
+
+<a id="section-1153"></a>
+## § 1153. Retirement Savings Lost and Found
+**(a) Establishment**
+
+(1) **In general** — Not later than 2 years after December 29, 2022, the Secretary, in consultation with the Secretary of the Treasury, shall establish an online searchable database (to be managed by the Secretary in accordance with this section) to be known as the “Retirement Savings Lost and Found”. The Retirement Savings Lost and Found shall—
+
+  (A) allow an individual to search for information that enables the individual to locate the administrator of any plan described in paragraph (2) with respect to which the individual is or was a participant or beneficiary, and provide contact information for the administrator of any such plan;
+
+  (B) allow the Secretary to assist such an individual in locating any such plan of the individual; and
+
+  (C) allow the Secretary to make any necessary changes to contact information on record for the administrator based on any changes to the plan due to merger or consolidation of the plan with any other plan, division of the plan into two or more plans, bankruptcy, termination, change in name of the plan, change in name or address of the administrator, or other causes.
+
+(2) **Plans described** — A plan described in this paragraph is a plan to which the vesting standards of [section 1053 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1053) apply.
+
+**(b) Administration** The Retirement Savings Lost and Found established under subsection (a) shall provide individuals described in subsection (a)(1) only with the ability to search for information that enables the individual to locate the administrator and contact information for the administrator of any plan with respect to which the individual is or was a participant or beneficiary, sufficient to allow the individual to locate the individual’s plan in order to make a claim for benefits owing to the individual under the plan.
+
+**(c) Safeguarding participant privacy and security** In establishing the Retirement Savings Lost and Found under subsection (a), the Secretary, in consultation with the Secretary of the Treasury, shall take all necessary and proper precautions to—
+
+(1) ensure that individuals’ plan and personal information maintained by the Retirement Savings Lost and Found is protected; and
+
+(2) allow any individual to contact the Secretary to opt out of inclusion in the Retirement Savings Lost and Found.
+
+**(d) Definition of administrator** For purposes of this section, the term “administrator” has the meaning given such term in [section 1002(16)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1002/16/A&num=0&edition=prelim).
+
+**(e) Information collection from plans** Effective with respect to plan years beginning after the second December 31 occurring after the date of the enactment of this subsection, the administrator of a plan to which the vesting standards of [section 1053 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1053) apply shall submit to the Secretary, at such time and in such form and manner as is prescribed in regulations—
+
+(1) the information described in paragraphs (1) through (4) of [section 6057(b) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6057/b&num=0&edition=prelim);
+
+(2) the information described in subparagraphs (A) and (B) of [section 6057(a)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6057/a/2&num=0&edition=prelim);
+
+(3) the name and taxpayer identifying number of each participant or former participant in the plan—
+
+  (A) who, during the current plan year or any previous plan year, was reported under [section 6057(a)(2)(C) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section6057/a/2/C&num=0&edition=prelim), and with respect to whom the benefits described in clause (ii) thereof were fully paid during the plan year;
+
+  (B) with respect to whom any amount was distributed under [section 401(a)(31)(B) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a/31/B&num=0&edition=prelim) during the plan year; or
+
+  (C) with respect to whom a deferred annuity contract was distributed during the plan year; and
+
+(4) in the case of a participant or former participant to whom paragraph (3) applies—
+
+  (A) in the case of a participant described in subparagraph (B) thereof, the name and address of the designated trustee or issuer described in [section 401(a)(31)(B)(i) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/a/31/B/i&num=0&edition=prelim) and the account number of the individual retirement plan to which the amount was distributed; and
+
+  (B) in the case of a participant described in subparagraph (C) thereof, the name and address of the issuer of such annuity contract and the contract or certificate number.
+
+**(f) Use of information collected** The Secretary—
+
+(1) may use or disclose information collected under this section only for the purpose described in subsection (a)(1)(B), and
+
+(2) may disclose such information only to such employees of the Department of Labor whose official duties relate to the purpose described in such subsection.
+
+**(g) Program integrity audit** On an annual basis for each of the first 5 years beginning one year after the establishment of the database in subsection (a)(1) and every 5 years thereafter, the Inspector General of the Department of Labor shall—
+
+(1) conduct an audit of the administration of the Retirement Savings Lost and Found; and
+
+(2) submit a report on such audit to the Committee on Health, Education, Labor, and Pensions and the Committee on Finance of the Senate and the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives.
+
+### Statutory Notes
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 
 <a id="section-1161"></a>
@@ -10652,7 +11102,7 @@ In the case of an event described in paragraph (6), a loss of coverage includes 
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in par. (4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XVIII of the Social Security Act is classified generally to subchapter XVIII (§ 1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1986—Pub. L. 99–509 added par. (6) and last sentence.
@@ -11030,7 +11480,7 @@ Section 401(b) of the Child Support Performance and Incentive Act of 1998, refer
 
 This chapter, referred to in subsec. (a)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
-The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1998—Subsec. (a)(2)(B)(ii). Pub. L. 105–200, § 401(h)(2)(A)(iii), substituted “is made pursuant to” for “enforces”.
@@ -13057,7 +13507,7 @@ Section applicable with respect to group health plans for plan years beginning a
 ### Statutory Notes
 
 #### References in Text
-The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XXII of the Act is classified generally to subchapter XX (§ 300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
+The Public Health Service Act, referred to in subsec. (d)(1)(C), is act July 1, 1944, ch. 373, 58 Stat. 682. Title XXII of the Act is classified generally to subchapter XX (§ 300bb–1 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section201&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (a)(1). Pub. L. 114–255 inserted at end “Such term shall not include any qualified small employer health reimbursement arrangement (as defined in [section 9831(d)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9831/d/2&num=0&edition=prelim)).”
@@ -13141,6 +13591,220 @@ Section applicable with respect to group health plans for plan years beginning a
 **(d) Authorization of appropriations** To carry out this section, there are authorized to be appropriated $5,000,000 for fiscal year 2021, to remain available until expended or, if sooner, until the date described in subsection (e).
 
 **(e) Sunset** Beginning on the date on which the report is submitted under subsection (b)(3), subsection (b) shall have no force or effect.
+
+### Statutory Notes
+
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
+
+<a id="section-1193"></a>
+## § 1193. Pension-linked emergency savings accounts
+**(a) In general** A plan sponsor of an individual account plan may—
+
+(1) include in such individual account plan a pension-linked emergency savings account meeting the requirements of subsection (c); and
+
+(2)
+
+  (A) offer to enroll an eligible participant in such pension-linked emergency savings account; or
+
+  (B) automatically enroll an eligible participant in such account pursuant to an automatic contribution arrangement described in paragraph (2) of subsection (c).
+
+**(b) Eligible participant**
+
+(1) **In general** — For purposes of this part, the term “eligible participant”, with regard to an individual account plan, means an individual who—
+
+  (A) meets any age, service, and other eligibility requirements of the plan; and
+
+  (B) is not a highly compensated employee.
+
+(2) **Eligible participant who becomes a highly compensated employee** — Notwithstanding paragraph (1)(B), an individual who is enrolled in a pension-linked emergency savings account and thereafter becomes a highly compensated employee may not make further contributions to such account, but retains the right to withdraw any account balance of such account in accordance with subsection (c)(1)(A)(ii).
+
+(3) **Definition** — For purposes of this subsection, the term “highly compensated employee” has the meaning given the term in [section 414(q) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section414/q&num=0&edition=prelim).
+
+**(c) Account requirements**
+
+(1) **In general** — A pension-linked emergency savings account—
+
+  (A) shall—
+
+    (i) not have a minimum contribution or account balance requirement;
+
+    (ii) allow for withdrawal by the participant of the account balance, in whole or in part at the discretion of the participant, at least once per calendar month and for distribution of such withdrawal to the participant as soon as practicable from the date on which the participant elects to make such withdrawal; and
+
+    (iii) be, as selected by the plan sponsor, held as cash, in an interest-bearing deposit account, or in an investment product—
+
+      (I) designed to—
+
+        (aa) maintain over the term of the investment, the dollar value that is equal to the amount invested in the product; and
+
+        (bb) preserve principal and provide a reasonable rate of return, whether or not such return is guaranteed, consistent with the need for liquidity; and
+
+      (II) offered by a State- or federally-regulated financial institution;
+
+  (B) may be subject to, as permitted by the Secretary, reasonable restrictions; and
+
+  (C)
+
+    (i) may not, for not less than the first 4 withdrawals of funds from the account in a plan year, be subject to any fees or charges solely on the basis of such a withdrawal; and
+
+    (ii) may, for any subsequent withdrawal in a plan year, be subject to reasonable fees or charges in connection with such a withdrawal, including reasonable reimbursement fees imposed for the incidental costs of handling of paper checks.
+
+(2) **Establishment and termination of account**
+
+  (A) *Establishment of account* — The pension-linked emergency savings account feature shall be included in the plan document of the individual account plan. Such individual account plan shall—
+
+    (i) separately account for contributions to the pension-linked emergency savings account of the individual account plan and any earnings properly allocable to the contributions;
+
+    (ii) maintain separate recordkeeping with respect to each such pension-linked emergency savings account; and
+
+    (iii) allow withdrawals from such account in accordance with [section 402A(e)(7) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section402A/e/7&num=0&edition=prelim).
+
+  (B) *Termination of account* — A plan sponsor may terminate the pension-linked emergency savings account feature of an individual account plan at any time.
+
+**(d) Account contributions**
+
+(1) **Limitation**
+
+  (A) *In general* — Subject to subparagraph (B), no contribution shall be accepted to a pension-linked emergency savings account to the extent such contribution would cause the portion of the account balance attributable to participant contributions to exceed the lesser of—
+
+    (i) $2,500; or
+
+    (ii) an amount determined by the plan sponsor of the pension-linked emergency savings account.
+    In the case of contributions made in taxable years beginning after December 31, 2024, the Secretary shall adjust the amount under clause (i) at the same time and in the same manner as the adjustment made by the Secretary of the Treasury under [section 415(d) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section415/d&num=0&edition=prelim), except that the base period shall be the calendar quarter beginning July 1, 2023. Any increase under the preceding sentence which is not a multiple of $100 shall be rounded to the next lowest multiple of $100.
+
+  (B) *Excess contributions* — To the extent any contribution to the pension-linked emergency savings account of a participant for a taxable year would exceed the limitation of subparagraph (A)—
+
+    (i) in the case of a participant with another designated Roth account under the individual account plan, such plan may provide that—
+
+      (I) the participant may elect to increase the participant’s contribution to such other account; and
+
+      (II) in the absence of such a participant election, the participant is deemed to have elected to increase the participant’s contributions to such other account at the rate at which contributions were being made to the pension-linked emergency savings account; and
+
+    (ii) in any other case, such plan shall provide that such excess contributions will not be accepted.
+
+(2) **Automatic contribution arrangement** — For purposes of this section—
+
+  (A) *In general* — An automatic contribution arrangement described in this paragraph is an arrangement under which an eligible participant is treated as having elected to have the plan sponsor make elective contributions to a pension-linked emergency savings account at a participant contribution rate that is not more than 3 percent of the compensation of the eligible participant, unless the eligible participant, at any time (subject to such reasonable advance notice as is required by the plan administrator), affirmatively elects to—
+
+    (i) make contributions at a different rate or amount; or
+
+    (ii) opt out of such contributions.
+
+  (B) *Participant contribution rate* — For purposes of an automatic contribution arrangement described in subparagraph (A), the plan sponsor—
+
+    (i) shall select a participant contribution rate under such automatic contribution arrangement that meets the requirements of subparagraph (A); and
+
+    (ii) may amend (prior to the plan year in which an amendment would take effect) such rate not more than once annually.
+
+(3) **Disclosure by plan administrator of contributions**
+
+  (A) *In general* — With respect to an individual account plan with a pension-linked emergency savings account feature, the administrator of the plan shall, not less than 30 days and not more than 90 days prior to date of the first contribution to the pension-linked emergency savings account, including any contribution under an automatic contribution arrangement described in subsection (d)(2), or the date of any adjustment to the participant contribution rate under subsection (d)(2)(B)(ii), and not less than annually thereafter, shall furnish to the participant a notice describing—
+
+    (i) the purpose of the account, which is for short-term, emergency savings;
+
+    (ii) the limits on, and tax treatment of, contributions to the pension-linked emergency savings account of the participant;
+
+    (iii) any fees, expenses, restrictions, or charges associated with such pension-linked emergency savings account;
+
+    (iv) procedures for electing to make contributions to or opting out of the pension-linked emergency savings account, for changing participant contribution rates for such pension-linked emergency savings account, and for making participant withdrawals from such pension-linked emergency savings account, including any limits on frequency;
+
+    (v) as applicable, the amount of the intended contribution to such pension-linked emergency savings account or the change in the percentage of the compensation of the participant of such contribution;
+
+    (vi) the amount in the emergency savings account and the amount or percentage of compensation that a participant has contributed to the pension-linked emergency savings account;
+
+    (vii) the designated investment option under subsection (c)(1)(A)(iii) for amounts contributed to the pension-linked emergency savings account;
+
+    (viii) the options under subsection (e) for the account balance of the pension-linked emergency savings account after termination of the employment of the participant or termination by the plan sponsor of the pension-linked emergency savings account; and
+
+    (ix) the ability of a participant who becomes a highly compensated employee (as such term is defined in paragraph (3) of subsection (b)) to, as described in paragraph (2) of such subsection, withdraw any account balance from a pension-linked emergency savings account and the restriction on the ability of such a participant to make further contributions to the pension-linked emergency savings account.
+
+  (B) *Notice requirements* — A notice furnished to a participant under subparagraph (A) shall be—
+
+    (i) sufficiently accurate and comprehensive to apprise the participant of the rights and obligations of the participant with regard to the pension-linked emergency savings account of the participant; and
+
+    (ii) written in a manner calculated to be understood by the average participant.
+
+  (C) *Consolidated notices* — The required notices under subparagraph (A) may be included with any other notice under this chapter, including under section 1104(c)(5)(B) or 1144(e)(3) of this title, or under section 401(k)(13)(E) or 414(w)(4) of title 26, if such other notice is provided to the participant at the time required for such notice.
+
+(4) **Employer matching contributions to an individual account plan for employee contributions to a pension-linked emergency savings account**
+
+  (A) *In general* — If an employer makes any matching contributions to an individual account plan of which a pension-linked emergency savings account is part, subject to the limitations of paragraph (1)(A), the employer shall make matching contributions on behalf of a participant on account of the contributions by the participant to the pension-linked emergency savings account at the same rate as any other matching contribution on account of an elective contribution by such participant. The matching contributions shall be made to the participant’s account under the individual account plan that is not the pension-linked emergency savings account. Such matching contributions on account of contributions under paragraph (1)(A) shall not exceed the maximum account balance under paragraph (1)(A) for such plan year.
+
+  (B) *Coordination rule* — For purposes of any applicable limitation on matching contributions, any matching contributions made under the plan shall be treated first as attributable to the elective deferrals of the participant other than contributions to a pension-linked emergency savings account.
+
+  (C) *Matching contributions* — For purposes of subparagraph (A), the term “matching contribution” has the meaning given such term in [section 401(m)(4) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401/m/4&num=0&edition=prelim).
+
+**(e) Account balance after termination** Upon termination of employment of the participant, or termination by the plan sponsor of the pension-linked emergency savings account, the pension-linked emergency savings account of such participant in an individual account plan shall—
+
+(1) allow, at the election of the participant, for transfer by the participant of the account balance of such account, in whole or in part, into another designated Roth account of the participant under the individual account plan; and
+
+(2) for any amounts in such account not transferred under paragraph (1), make such amounts available within a reasonable time to the participant.
+
+**(f) Anti-abuse rules**
+
+(1) **In general** — A plan of which a pension-linked emergency savings account is part—
+
+  (A) may employ reasonable procedures to limit the frequency or amount of matching contributions with respect to contributions to such account, solely to the extent necessary to prevent manipulation of the rules of the plan to cause matching contributions to exceed the intended amounts or frequency; and
+
+  (B) shall not be required to suspend matching contributions following any participant withdrawal of contributions, including elective deferrals and employee contributions, whether or not matched and whether or not made pursuant to an automatic contribution arrangement described in [section 402A(e)(4) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section402A/e/4&num=0&edition=prelim).
+
+(2) **Regulations or other guidance** — The Secretary of the Treasury, in consultation with the Secretary of Labor, shall issue regulations or other guidance not later than 12 months after December 29, 2022, with respect to the anti-abuse rules described in paragraph (1).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-1193a"></a>
+## § 1193a. Preemption of State anti-garnishment laws
+
+Notwithstanding any other provision of law, this part shall supersede any law of a State which would directly or indirectly prohibit or restrict the use of an automatic contribution arrangement, described in [section 1193(d)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1193/d/2&num=0&edition=prelim), for a pension-linked emergency savings account. The Secretary may promulgate regulations to establish minimum standards that such an arrangement would be required to satisfy in order for this subsection to apply with respect to such an account.
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-1193b"></a>
+## § 1193b. Reporting and disclosure requirements
+
+The Secretary shall—
+
+(1) prescribe such regulations as may be necessary to address reporting and disclosure requirements for pension-linked emergency savings accounts; and
+
+(2) seek to prevent unnecessary reporting and disclosure for such accounts under this chapter, including for purposes of any reporting or disclosure related to pension plans required by this title or under the Internal Revenue Code of 1986.
+
+### Statutory Notes
+
+#### References in Text
+The Internal Revenue Code of 1986, referred to in par. (2), is classified generally to Title 26, Internal Revenue Code.
+
+#### Effective Date
+Section applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-1193c"></a>
+## § 1193c. Report to Congress on emergency savings accounts
+
+The Secretary of Labor and the Secretary of the Treasury shall—
+
+(1) conduct a study on the use of emergency savings from individual account plan accounts, including emergency savings from a pension-linked emergency savings account regarding—
+
+  (A) whether the amount of the dollar limitation under [section 1193(d)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1193/d/1/A&num=0&edition=prelim) is sufficient;
+
+  (B) whether the limitation on the contribution rate under [section 1193(d)(2)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1193/d/2/A&num=0&edition=prelim) is appropriate; and
+
+  (C) the extent to which plan sponsors offer such accounts and participants participate in such accounts and the resulting impact on participant retirement savings, including the impact on retirement savings leakage and the effect of such accounts on retirement plan participation by low- and moderate-income households; and
+
+(2) not later than 7 years after December 29, 2022, submit to Congress a report on the findings of the study under paragraph (1).
+
+### Statutory Notes
+
+#### Effective Date
+Section applicable to plan years beginning after Dec. 31, 2023, see section 127(g) of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 72 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section72&num=0&edition=prelim), Internal Revenue Code.
 
 
 <a id="section-1201"></a>
@@ -13280,6 +13944,8 @@ The staffs of the Committee on Ways and Means and the Committee on Education and
 1976—Pub. L. 94–455, § 803(i)(2)(A)(iii), substituted “Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force” for “Joint Pension Task Force” wherever appearing.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 “Joint Committee on Taxation” substituted for “Joint Committee on Internal Revenue Taxation” on authority of section 1907(a)(5) of Pub. L. 94–455.
 
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
@@ -13332,6 +13998,8 @@ In determining whether any such plan is adequately financed, each committee shal
 ### Statutory Notes
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -13396,6 +14064,8 @@ Committee on Labor and Public Welfare of Senate abolished and replaced by Commit
 ### Statutory Notes
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 
@@ -13749,7 +14419,7 @@ This subchapter not applicable in interpreting Internal Revenue Code of 1986, ex
 
 (7) Members of the advisory committee shall, for each day (including traveltime) during which they are attending meetings or conferences of the committee or otherwise engaged in the business of the committee, be compensated at a rate fixed by the corporation which is not in excess of the daily equivalent of the annual rate of basic pay in effect for grade GS–18 of the General Schedule, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by [section 5703 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5703&num=0&edition=prelim).
 
-(8) The Federal Advisory Committee Act does not apply to the advisory committee established by this subsection.
+(8) Chapter 10 of title 5 does not apply to the advisory committee established by this subsection.
 
 **(i) Special rules regarding disasters, etc.** In the case of a pension or other employee benefit plan, or any sponsor, administrator, participant, beneficiary, or other person with respect to such plan, affected by a Presidentially declared disaster (as defined in [section 1033(h)(3) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section1033/h/3&num=0&edition=prelim)) or a terroristic or military action (as defined in section 692(c)(2) of such title), the corporation may, notwithstanding any other provision of law, prescribe, by notice or otherwise, a period of up to 1 year which may be disregarded in determining the date by which any action is required or permitted to be completed under this chapter. No plan shall be treated as failing to be operated in accordance with the terms of the plan solely as the result of disregarding any period by reason of the preceding sentence.
 
@@ -13764,20 +14434,20 @@ This subchapter not applicable in interpreting Internal Revenue Code of 1986, ex
 ### Statutory Notes
 
 #### References in Text
-The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, as amended, which is not classified to the Code.
+The District of Columbia Nonprofit Corporation Act, referred to in subsec. (b), is Pub. L. 87–569, Aug. 6, 1962, 76 Stat. 265, which is not classified to the Code.
 
 This chapter, referred to in subsecs. (b)(3), (4), (8), (d)(6), and (i), was in original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1001) and Tables.
 
-The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3128 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3128&num=0&edition=prelim) and Tables.
+The Federal Insurance Contributions Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of Title 26, Internal Revenue Code. For complete classification of this Act to the Code, see [section 3128 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3128&num=0&edition=prelim) and Tables.
 
-The Federal Unemployment Tax Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, as amended, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26. For complete classification of this Act to the Code, see [section 3311 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3311&num=0&edition=prelim) and Tables.
-
-The Federal Advisory Committee Act, referred to in subsec. (h)(8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Unemployment Tax Act, referred to in subsec. (g)(1), is act Aug. 16, 1954, ch. 736, §§ 3301 to 3311, 68A Stat. 454, which is classified generally to chapter 23 (§ 3301 et seq.) of Title 26. For complete classification of this Act to the Code, see [section 3311 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section3311&num=0&edition=prelim) and Tables.
 
 #### Codification
 A prior subsec. (c), as originally enacted by section 4002 of Pub. L. 93–406, amended [section 5108 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5108&num=0&edition=prelim), Government Organization and Employees. Subsec. (g)(3) amended section 846 of former Title 31, Money and Finance.
 
 #### Amendments
+2022—Subsec. (h)(8). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
+
 2012—Subsec. (c). Pub. L. 112–141, § 40231(d), amended subsec. (c) generally. See Codification note above.
 
 Subsec. (d). Pub. L. 112–141, § 40231(a)(1), designated existing provisions as par. (1) and added pars. (2) to (7).
@@ -14012,9 +14682,6 @@ For special rules on applicability of amendments by subtitles A (§§ 101–108)
 
 #### Prior Provisions
 A prior section 1304, Pub. L. 93–406, title IV, § 4004, Sept. 2, 1974, 88 Stat. 1008, related to appointment, within 270 days after Sept. 2, 1974, and powers and functions of a receiver to assume control of terminated plan and its assets, prior to repeal by Pub. L. 99–272, title XI, § 11016(c)(6), Apr. 7, 1986, 100 Stat. 274, effective Jan. 1, 1986, with certain exceptions. See section 11019 of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under [section 1341 of this title](./chapter-018-employee-retirement-income-security-program.md#section-1341).
-
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
 
 
 <a id="section-1304a"></a>
@@ -14293,7 +14960,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
   (E)
 
-    (i) Except as provided in subparagraph (H), the additional premium determined under this subparagraph with respect to any plan for any plan year—
+    (i) Except as provided in subparagraph (I), the additional premium determined under this subparagraph with respect to any plan for any plan year—
 
       (I) shall be an amount equal to the amount determined under clause (ii) divided by the number of participants in such plan as of the close of the preceding plan year;
 
@@ -14479,11 +15146,13 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (v) for plan years beginning after calendar year 2017, the amount in effect for plan years beginning in 2017 (determined after application of subparagraph (C));
 
-    (vi) for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C)); and
+    (vi) for plan years beginning after calendar year 2018, the amount in effect for plan years beginning in 2018 (determined after application of subparagraph (C));
 
-    (vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)).
+    (vii) for plan years beginning after calendar year 2019, the amount in effect for plan years beginning in 2019 (determined after application of subparagraph (C)); and
 
-  (B) *Adjustment for inflation.—* — For each plan year beginning in a calendar year after 2012, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
+    (viii) for plan years beginning after calendar year 2023, $52.
+
+  (B) *Adjustment for inflation.—* — For each plan year beginning in a calendar year after 2012 and before 2024, there shall be substituted for the applicable dollar amount specified under subparagraph (A) an amount equal to the greater of—
 
     (i) the product derived by multiplying such applicable dollar amount for plan years beginning in that calendar year by the ratio of—
 
@@ -14522,7 +15191,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
     (vi) 2016, in the case of plan years beginning after calendar year 2018; and
 
-    (vii) 2017, in the case of plan years beginning after calendar year 2019.
+    (vii) 2017, in the case of plan years beginning after calendar year 2019 and before 2024.
 
   (E) *CSEC plans.—* — In the case of a CSEC plan (as defined in [section 1060(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1060/f/1&num=0&edition=prelim)), the applicable dollar amount shall be $9.
 
@@ -14574,6 +15243,14 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+2022—Subsec. (a)(3)(E)(i). Pub. L. 117–328, § 349(b), substituted “subparagraph (I)” for “subparagraph (H)” in introductory provisions.
+
+Subsec. (a)(8)(A)(viii). Pub. L. 117–328, § 349(a)(1), added cl. (viii).
+
+Subsec. (a)(8)(B). Pub. L. 117–328, § 349(a)(2), inserted “and before 2024” after “2012” in introductory provisions.
+
+Subsec. (a)(8)(D)(vii). Pub. L. 117–328, § 349(a)(3), inserted “and before 2024” after “2019”.
+
 2021—Subsec. (a)(3)(A)(vi). Pub. L. 117–2, § 9704(c)(1)(A), inserted “, and before January 1, 2031” after “December 31, 2014,” and struck out “or” at end.
 
 Subsec. (a)(3)(A)(vii). Pub. L. 117–2, § 9704(c)(1)(B), substituted “, or” for period at end and realigned margins.
@@ -14747,7 +15424,12 @@ Subsec. (b). Pub. L. 96–364, § 105(b), in par. (1) substituted “(C), (D), o
 Subsec. (c). Pub. L. 96–364, § 105(c), added subsec. (c).
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. T, title III, § 349(c), Dec. 29, 2022, 136 Stat. 5386, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 2015 Amendment
 Pub. L. 114–74, title V, § 501(b)(3), Nov. 2, 2015, 129 Stat. 593, provided that: “The amendments made by this section [amending this section] shall apply to plan years beginning after December 31, 2016.”
@@ -14963,9 +15645,6 @@ Subsec. (b)(2). Pub. L. 109–280, § 108(b)(3), formerly § 107(b)(3), as renum
 
 Subsecs. (d), (e). Pub. L. 109–280, § 505(b), added subsecs. (d) and (e).
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2014 Amendment
 Amendment by Pub. L. 113–97 applicable to years beginning after Dec. 31, 2013, see section 3 of Pub. L. 113–97, set out as a note under [section 401 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section401&num=0&edition=prelim), Internal Revenue Code.
 
@@ -15072,7 +15751,7 @@ For purposes of paragraph (3), the constructive ownership rules of [section 1563
 #### References in Text
 The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means act Aug. 29, 1935, ch. 812, 49 Stat. 967, known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by act June 24, 1937, ch. 382, part I, 50 Stat. 307, and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by Pub. L. 93–445, title I, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
-The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
+The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of act Dec. 29, 1945, ch. 652, 59 Stat. 669, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section288&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2008—Subsec. (b)(14). Pub. L. 110–458 struck out par. (14) which read as follows: “established and maintained by an Indian tribal government (as defined in [section 7701(a)(40) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7701/a/40&num=0&edition=prelim)), a subdivision of an Indian tribal government (determined in accordance with [section 7871(d) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section7871/d&num=0&edition=prelim)), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
@@ -15230,7 +15909,7 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II, and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Titles II, and XVI of the Act are classified generally to subchapters II (§ 401 et seq.) and XVI (§ 1381 et seq.), respectively, of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 Section 402(a)(1) of the Pension Protection Act of 2006, referred to in subsec. (h), is section 402(a)(1) of Pub. L. 109–280, which is set out as a note under [section 430 of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section430&num=0&edition=prelim), Internal Revenue Code.
 
@@ -15522,6 +16201,8 @@ Subsec. (g)(4)(B). Pub. L. 99–272, § 11005(c)(11), substituted “joint” fo
 Subsec. (g)(4)(D). Pub. L. 99–272, § 11005(c)(12), substituted “joint” for “concurrent”.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2014 Amendment
@@ -16334,7 +17015,7 @@ For purposes of paragraph (7), all distributions to a participant within any 24-
 ### Statutory Notes
 
 #### References in Text
-The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
+The Securities Exchange Act of 1934, referred to in subsec. (b)(2)(B), is act June 6, 1934, ch. 404, 48 Stat. 881, which is classified principally to chapter 2B (§ 78a et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see [section 78a of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section78a&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (c)(7). Pub. L. 109–280 substituted “1321(d)” for “1322(b)(6)” in introductory provisions.
@@ -18579,7 +19260,7 @@ Pub. L. 108–218, title II, § 202(b), Apr. 10, 2004, 118 Stat. 609, provided t
 
   (A) the employer’s unattributable liability,
 
-  (B) the employer’s withdrawal liability payments which would have been due but for section 1388, 1389, 1399, or 1405 of this title,
+  (B) the employer’s withdrawal liability payments which would have been due but for section 1388, 1389, 1399, or 1405 of this title,11 So in original. Probably should be followed by “and”.
 
   (C) the employer’s withdrawal liability payments to the extent they are uncollectible.
 
@@ -18746,9 +19427,6 @@ Pub. L. 109–280, title II, § 204(a)(3), Aug. 17, 2006, 120 Stat. 887, provide
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–235 added subsec. (e).
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date of 2014 Amendment
 Pub. L. 113–235, div. O, title I, § 121(b), Dec. 16, 2014, 128 Stat. 2794, provided that: “The amendments made by this section [amending this section] shall apply with respect to plan years beginning after December 31, 2014.”
 
@@ -18861,9 +19539,6 @@ Part effective Sept. 26, 1980, except as specifically provided, see [section 146
 #### Amendments
 2014—Pub. L. 113–235 amended section generally. Prior to amendment, section related to partition of multiemployer plans.
 
-#### Change of Name
-Committee on Education and the Workforce of House of Representatives changed to Committee on Education and Labor of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
-
 #### Effective Date 2014 Amendment
 Pub. L. 113–235, div. O, title I, § 122(b), Dec. 16, 2014, 128 Stat. 2796, provided that: “The amendments made by this section [amending this section] shall apply with respect to plan years beginning after December 31, 2014.”
 
@@ -18965,9 +19640,9 @@ then the employer shall make such payments into an escrow held by a bank or simi
 #### References in Text
 [Section 1421 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1421&num=0&edition=prelim), referred to in subsec. (e)(1), was repealed by Pub. L. 113–235, div. O, title I, § 108(a)(1), Dec. 16, 2014, 128 Stat. 2786.
 
-The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, as amended, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
+The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is act June 23, 1947, ch. 120, 61 Stat. 136, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title](./chapter-007-labor-management-relations.md#section-141) and Tables.
 
-The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (g)(2), is act May 20, 1926, ch. 347, 44 Stat. 577, which is classified principally to chapter 8 (§ 151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 #### Amendments
 1984—Subsec. (a). Pub. L. 98–369 substituted “September 25, 1980” for “April 28, 1980”.
@@ -19542,6 +20217,8 @@ Subsec. (c)(4)(D). Pub. L. 95–214, § 1(a)(5), substituted “June 30, 1979”
 Subsecs. (d), (e). Pub. L. 95–214, § 1(b), added subsecs. (d) and (e).
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977. Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate, effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See, also, Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979. Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 1989 Amendment

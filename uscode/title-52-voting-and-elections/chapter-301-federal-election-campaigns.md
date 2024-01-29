@@ -1329,7 +1329,7 @@ Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub.
 Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under [section 30101 of this title](./chapter-301-federal-election-campaigns.md#section-30101).
 
 #### Conformance of Advisory Opinions Issued Prior to May 11, 1976, to Requirements Imposed Under 1976 Amendments
-Pub. L. 94–283, title I, § 108(b), May 11, 1976, 90 Stat. 482, provided that the Commission would, no later than 90 days after May 11, 1976, conform the advisory opinions issued before that date to the requirements established by subsec. (a) of this section, and subsec. (b) of this section would apply to all advisory opinions issued before May, 11, 1976, as conformed to meet the requirements of subsec. (a) of this section.
+Pub. L. 94–283, title I, § 108(b), May 11, 1976, 90 Stat. 482, provided that the Commission would, no later than 90 days after May 11, 1976, conform the advisory opinions issued before that date to the requirements established by subsec. (a) of this section, and subsec. (b) of this section would apply to all advisory opinions issued before May 11, 1976, as conformed to meet the requirements of subsec. (a) of this section.
 
 
 <a id="section-30109"></a>
@@ -1374,7 +1374,7 @@ Pub. L. 94–283, title I, § 108(b), May 11, 1976, 90 Stat. 482, provided that 
 
       (II) [section 30105 of this title](./chapter-301-federal-election-campaigns.md#section-30105).
 
-    (v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2023.
+    (v) This subparagraph shall apply with respect to violations that relate to reporting periods that begin on or after January 1, 2000, and that end on or before December 31, 2033.
 
 (5)
 
@@ -1472,6 +1472,8 @@ Another prior section 309 of Pub. L. 92–225 was renumbered section 308, and wa
 Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is classified to [section 30113 of this title](./chapter-301-federal-election-campaigns.md#section-30113).
 
 #### Amendments
+2023—Subsec. (a)(4)(C)(v). Pub. L. 118–26 substituted “December 31, 2033” for “December 31, 2023”.
+
 2018—Subsec. (a)(4)(C)(v). Pub. L. 115–386 substituted “December 31, 2023” for “December 31, 2018”.
 
 2013—Subsec. (a)(4)(C)(i). Pub. L. 113–72, § 2(a), substituted “a qualified disclosure requirement” for “any requirement of [section 434(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title52-section434/a&num=0&edition=prelim)” in introductory provisions.

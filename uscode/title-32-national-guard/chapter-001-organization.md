@@ -304,9 +304,11 @@ Barack Obama.
 
 (5) Army National Guard or Air National Guard records are being kept in accordance with this title;
 
-(6) the accounts and records of each prop­erty and fiscal officer are properly maintained; and
+(6) the accounts and records of each prop­erty and fiscal officer are properly maintained;
 
-(7) the units of the Army National Guard or Air National Guard meet requirements for deployment.
+(7) the units of the Army National Guard or Air National Guard meet requirements for deployment; and
+
+(8) the units and members of the Army National Guard or Air National Guard comply with Federal law and policy applicable to the National Guard, including policies issued by the Secretary of Defense, the Secretary of the military department concerned, or the Chief of the National Guard Bureau.
 
 **(b)** The reports of inspections under subsection (a) are the basis for determining whether the National Guard is entitled to the issue of military property as authorized under this title and to retain that property; and for determining which organizations and persons constitute units and members of the National Guard; and for determining which units of the National Guard meet deployability standards.
 
@@ -328,6 +330,8 @@ In subsection (a)(4), the words “the Army National Guard and its organizations
 In subsection (b), the words “under subsection (a)” are substituted for the word “such”. The words “units and members” are substituted for the word “parts”. The words “within the meaning of this title” are omitted as surplusage.
 
 #### Amendments
+2022—Subsec. (a)(8). Pub. L. 117–263 added par. (8).
+
 2019—Subsec. (a). Pub. L. 116–92, § 517(a), in introductory provisions, substituted “by such Secretary, the Secretary of the Army and the Secretary of the Air Force shall each have” for “by him, the Secretary of the Army shall have” and “the Regular Army or the Regular Air Force” for “the Regular Army” and struck out “, if necessary,” after “inspectors general, or”; in pars. (1) to (5) and (7), substituted “Army National Guard or Air National Guard” for “Army National Guard”; and struck out concluding provisions which read as follows: “The Secretary of the Air Force has a similar duty with respect to the Air National Guard.”
 
 Subsec. (c). Pub. L. 116–92, § 517(b), added subsec. (c).
@@ -560,7 +564,7 @@ Functions of President under this section delegated to Secretary of Defense, see
 
 (2) The operation and maintenance of the equipment and facilities of the National Guard of that State used for the purpose of drug interdiction and counter-drug activities.
 
-(3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $5,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
+(3) The procurement of services and equipment, and the leasing of equipment, for the National Guard of that State used for the purpose of drug interdiction and counter-drug activities. However, the use of such funds for the procurement of equipment may not exceed $15,000 per item, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.
 
 **(b) Use of Personnel Performing Full-Time National Guard Duty.—**
 
@@ -655,6 +659,8 @@ Subsection (e), referred to in subsec. (f)(1), was repealed and subsec. (f) was 
 Similar provisions were contained in Pub. L. 100–456, div. A, title XI, § 1105, Sept. 29, 1988, 102 Stat. 2047, which was set out as a note under [section 374 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section374&num=0&edition=prelim), Armed Forces, prior to repeal by Pub. L. 101–189, § 1207(b).
 
 #### Amendments
+2023—Subsec. (a)(3). Pub. L. 118–31 substituted “$15,000” for “$5,000”.
+
 2004—Subsec. (e). Pub. L. 108–375, § 416(k)(1), (2), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e). Text read as follows: “Members of the National Guard on active duty or full-time National Guard duty for the purposes of administering (or during fiscal year 1993 otherwise implementing) this section shall not be counted toward the annual end strength authorized for reserves on active duty in support of the reserve components of the armed forces or toward the strengths authorized in sections 12011 and 12012 of title 10.”
 
 Subsec. (e)(1)(A), (B). Pub. L. 108–375, § 416(k)(3), struck out “for a period of more than 180 days” after “order to duty”.
@@ -796,7 +802,7 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 
 <a id="section-115"></a>
 ## § 115. Funeral honors duty performed as a Federal function
-**(a) Order to Duty.—** A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under [section 1491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491&num=0&edition=prelim). However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 11 See References in Text note below. of title 37.
+**(a) Order to Duty.—** A member of the Army National Guard of the United States or the Air National Guard of the United States may be ordered to funeral honors duty, with the consent of the member, to prepare for or perform funeral honors functions at the funeral of a veteran under [section 1491 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1491&num=0&edition=prelim). However, a member of the Army National Guard of the United States or the Air National Guard of the United States may not be ordered to perform funeral honors functions under this section without the consent of the Governor or other appropriate authority of the State concerned. Performance of funeral honors duty by such a member not on active duty or full-time National Guard duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.
 
 **(b) Service Credit.—** A member ordered to funeral honors duty under this section shall be required to perform a minimum of two hours of such duty in order to receive—
 
@@ -804,20 +810,23 @@ Subject to such regulations and restrictions as may be prescribed by the Secreta
 
 (2) as directed by the Secretary concerned, either—
 
-  (A) the allowance under section 495 1 of title 37; or
+  (A) the allowance under [section 435 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section435&num=0&edition=prelim); or
 
   (B) compensation under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim).
 
-**(c) Reimbursable Expenses.—** A member who performs funeral honors duty under this section may be reimbursed for travel and transportation expenses incurred in conjunction with such duty as authorized under chapter 7 of title 37 if such duty is performed at a location 50 miles or more from the member’s residence.
+**(c) Reimbursable Expenses.—** A member who performs funeral honors duty under this section may be reimbursed for travel and transportation expenses incurred in conjunction with such duty as authorized under [section 452 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452&num=0&edition=prelim) if such duty is performed at a location 50 miles or more from the member’s residence.
 
 **(d) Regulations.—** The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
 ### Statutory Notes
 
-#### References in Text
-[Section 495 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section495&num=0&edition=prelim), referred to in subsecs. (a) and (b)(2)(A), was renumbered [section 435 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section435&num=0&edition=prelim) by Pub. L. 116–283, div. A, title VI, § 604(b)(1), Jan. 1, 2021, 134 Stat. 3672.
-
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263, § 626(e)(1), substituted “sections 206 and 435” for “sections 206 and 495”.
+
+Subsec. (b)(2)(A). Pub. L. 117–263, § 626(e)(2), substituted “section 435” for “section 495”.
+
+Subsec. (c). Pub. L. 117–263, § 626(e)(3), substituted “section 452” for “chapter 7”.
+
 2013—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(A). See 2011 Amendment note below.
 
 2011—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, § 631(f)(4)(A), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “495” for “435”.

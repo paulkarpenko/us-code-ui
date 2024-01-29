@@ -71,7 +71,7 @@ Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer P
 Amendment by sections 1662(b)(2) and 1675(a) of Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, and amendment by section 1631(a) of Pub. L. 103–337 effective Oct. 1, 1996, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under [section 10001 of this title](./chapter-1001-definitions.md#section-10001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1968 Amendment
 Amendment by Pub. L. 90–623 intended to restate without substantive change the law in effect on Oct. 22, 1968, see section 6 of Pub. L. 90–623, set out as a note under [section 5334 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5334&num=0&edition=prelim), Government Organization and Employees.
@@ -158,7 +158,7 @@ Subsec. (d). Pub. L. 97–252 extended to 270 from 180 days requirement for comm
 #### Effective Date of 2002 Amendments
 Pub. L. 107–314, div. A, title V, § 533(b), Dec. 2, 2002, 116 Stat. 2547, provided that: “The amendment made by subsection (a) [amending this section] shall apply with respect to enlistments under [section 12103(d) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12103/d&num=0&edition=prelim), United States Code, after the end of the 90-day period beginning on the date of the enactment of this Act [Dec. 2, 2002].”
 
-Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1983 Amendment
 Pub. L. 98–94, title X, § 1022(a)(2), Sept. 24, 1983, 97 Stat. 670, provided that: “The amendments made by paragraph (1) [amending this section] shall apply only with respect to persons who enlist under the authority of subsection (b) or (d) of section 511 [now 12103] of title 10, United States Code, 60 or more days after the date of the enactment of this Act [Sept. 24, 1983].”
@@ -167,7 +167,7 @@ Pub. L. 98–94, title X, § 1022(a)(2), Sept. 24, 1983, 97 Stat. 670, provided 
 Pub. L. 97–252, title XI, § 1115(b), Sept. 8, 1982, 96 Stat. 750, provided that: “The amendment made by this section [amending this section] shall be effective with respect to persons enlisting in a reserve component of the Armed Forces after the end of the ninety-day period beginning on the date of the enactment of this Act [Sept. 8, 1982].”
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date of 1979 Amendment
 Pub. L. 96–107, title VIII, § 805(c), Nov. 9, 1979, 93 Stat. 813, provided that: “The amendments made by this section [amending this section and [section 651 of this title](./chapter-037-general-service-requirements.md#section-651)] shall apply only to individuals who become members of an Armed Force after the date of the enactment of this Act [Nov. 9, 1979].”
@@ -215,7 +215,7 @@ The Military Selective Service Act, referred to in subsec. (a), is title I of ac
 1980—Subsec. (a). Pub. L. 96–513 substituted “the Military Selective Service Act (50 U.S.C. App. 451 et seq.)” for “sections 451–473 of title 50, appendix” wherever appearing.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-12105"></a>

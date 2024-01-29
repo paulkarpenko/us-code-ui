@@ -23,7 +23,7 @@ Ex. Ord. No. 11455, eff. Feb. 14, 1969, 34 F.R. 2299, which established the Offi
 Pub. L. 91–186, Dec. 30, 1969, 83 Stat. 849, authorized the appropriation of such sums as may be necessary for the expenses of the Office of Intergovernmental Relations, established by Ex. Ord. No. 11455, formerly set out above, prescribed the compensation of the Director of the Office, and authorized the Director to appoint such personnel as he deems necessary and to obtain the services of experts and consultants.
 
 #### Executive Order No. 12303
-Ex. Ord. No. 12303, Apr. 8, 1981, 46 F.R. 21341, which established the Presidential Advisory Committee on Federalism and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(e), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12303, Apr. 8, 1981, 46 F.R. 21341, which established the Presidential Advisory Committee on Federalism and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12399, § 4(e), Dec. 31, 1982, 48 F.R. 380, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-4272"></a>

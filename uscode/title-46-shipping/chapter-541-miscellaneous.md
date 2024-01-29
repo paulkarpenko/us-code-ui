@@ -82,7 +82,11 @@ source: >-
 
 (1) **Federal funding.—** — Federal funds for any eligible project under this section shall not exceed 75 percent of the total cost of such project.
 
-(2) **Allocation of funds.—** — The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
+(2) **Allocation of funds.—**
+
+  (A) *In general.—* — The Administrator may not award more than 25 percent of the funds made available to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.
+
+  (B) *Ineligibility.—* — A maritime training center that has received funds awarded under [section 51706 of title 46](./chapter-517-other-support-for-merchant-marine-training.md#section-51706), United States Code, shall not be eligible for grants under this subsection for training purposes in the same fiscal year.
 
 **(f) Applications.—**
 
@@ -127,6 +131,8 @@ The date of the enactment of the National Defense Authorization Act for Fiscal Y
 A prior section 54101, added and amended Pub. L. 110–181, div. C, title XXXV, § 3523(a)(6)(B)–(D), Jan. 28, 2008, 122 Stat. 599, which related to assistance for small shipyards and maritime communities, was repealed by Pub. L. 110–417, div. C, title XXXV, § 3508(b), Oct. 14, 2008, 122 Stat. 4769, as amended by Pub. L. 111–84, div. A, title X, § 1073(c)(14), Oct. 28, 2009, 123 Stat. 2475, effective Oct. 14, 2008, and as if included in Pub. L. 110–417 as enacted.
 
 #### Amendments
+2022—Subsec. (e)(2). Pub. L. 117–263 added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “The Administrator may not award more than 25 percent of the funds appropriated to carry out this section for any fiscal year to any small shipyard in one geographic location that has more than 600 employees.”
+
 2021—Subsec. (i). Pub. L. 116–283 substituted “for fiscal year 2021 to carry out this section $20,000,000” for “for each of fiscal years 2020 and 2021 to carry out this section $40,000,000”.
 
 2019—Subsec. (d). Pub. L. 116–92, § 3507(a), designated existing provisions as par. (1), inserted heading, and added par. (2).

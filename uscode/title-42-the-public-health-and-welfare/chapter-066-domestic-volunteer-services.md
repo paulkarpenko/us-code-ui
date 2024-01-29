@@ -2080,6 +2080,9 @@ Par. (7). Pub. L. 101–204, § 502(b), added par. (7).
 
 Par. (5). Pub. L. 99–551, § 6(b), added par. (5).
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date of 2009 Amendment
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under [section 4950 of this title](./chapter-066-domestic-volunteer-services.md#section-4950).
 

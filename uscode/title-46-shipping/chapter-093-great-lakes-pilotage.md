@@ -280,7 +280,7 @@ Section 9306 prohibits State or local regulations of pilotage on the Great Lakes
 
 (1) The Committee shall elect one of its members as the Chairman and one of its members as the Vice Chairman. The Vice Chairman shall act as Chairman in the absence or incapacity of the Chairman, or in the event of a vacancy in the office of the Chairman.
 
-(2) The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The Secretary’s designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).
+(2) The Secretary shall, and any other interested agency may, designate a representative to participate as an observer with the Committee. The Secretary’s designated representative shall act as the executive secretary of the Committee and shall perform the duties set forth in [section 1009(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009/c&num=0&edition=prelim).
 
 **(d)**
 
@@ -302,7 +302,7 @@ Section 9306 prohibits State or local regulations of pilotage on the Great Lakes
 
 **(f)**
 
-(1) The Federal Advisory Committee Act (5 U.S.C. App.) applies to the Committee, except that the Committee terminates on September 30, 2030.
+(1) Chapter 10 of title 5 applies to the Committee, except that the Committee terminates on September 30, 2030.
 
 (2) 2 years before the termination date set forth in paragraph (1) of this subsection, the Committee shall submit to the Congress its recommendation regarding whether the Committee should be renewed and continued beyond the termination date.
 
@@ -321,10 +321,11 @@ Subsection (b) establishes the membership of the Committee as 3 members with 5 y
 
 Subsection (c) provides for pay and travel expenses, including per diem, for the members.
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsecs. (c)(2) and (f)(1), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (c)(2). Pub. L. 117–286, § 4(a)(291)(A), substituted “[section 1009(c) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1009/c&num=0&edition=prelim).” for “section 10(c) of the Federal Advisory Committee Act (5 U.S.C. App.).”
+
+Subsec. (f)(1). Pub. L. 117–286, § 4(a)(291)(B), substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2021—Subsec. (b)(1). Pub. L. 116–283, § 8334(a)(1)(A), substituted “8 members” for “seven members”.
 
 Subsec. (b)(2)(B). Pub. L. 116–283, § 8334(a)(1)(B)(i), substituted “chosen from among nominations made by” for “representing the interests of”.

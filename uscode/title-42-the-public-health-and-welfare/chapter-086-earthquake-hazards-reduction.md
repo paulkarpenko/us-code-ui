@@ -265,7 +265,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
   (C) *Report* — Not later than 1 year after October 25, 2004, and at least once every 2 years thereafter, the Advisory Committee shall report to the Director on its findings of the assessment carried out under subparagraph (B) and its recommendations for ways to improve the Program. In developing recommendations, the Committee shall consider the recommendations of the United States Geological Survey Scientific Earthquake Studies Advisory Committee.
 
-  (D) *Federal Advisory Committee Act application* — Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14) shall not apply to the Advisory Committee.
+  (D) *Application of chapter 10 of title 5* — [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Advisory Committee.
 
 **(b) Responsibilities of Program agencies**
 
@@ -392,11 +392,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 #### References in Text
 Paragraph (3)(D), referred to in subsec. (a)(4)(A)(i) to (iii), was amended generally by Pub. L. 115–307, § 3(b)(3), Dec. 11, 2018, 132 Stat. 4410, and, as so amended, does not contain a cl. (i)(I). For similar provisions after amendment by Pub. L. 115–307, see cl. (ii)(I)(aa) of par. (3)(D).
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (a)(5)(D), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 [Section 5133 of this title](./chapter-068-disaster-relief.md#section-5133), referred to in subsec. (b)(2)(B)(ii), was in the original “section 203 of the Disaster Relief Act of 1974 ([42 U.S.C. 5133(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5133/a&num=0&edition=prelim))”, and was translated as if it had been a reference to section 203 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which was formerly known as the Disaster Relief Act of 1974, to reflect the probable intent of Congress. Subsec. (a) of [section 5133 of this title](./chapter-068-disaster-relief.md#section-5133) defines “small impoverished community”.
 
 #### Amendments
+2022—Subsec. (a)(5)(D). Pub. L. 117–286 substituted “Application of chapter 10 of title 5” for “Federal Advisory Committee Act application” in heading and “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act (5 App. U.S.C. 14)” in text.
+
 2018—Pub. L. 115–307, § 2(c)(1)(B), substituted “lifeline infrastructure” for “lifelines” wherever appearing.
 
 Subsec. (a)(2)(B)(iii). Pub. L. 115–307, § 3(a)(1)(A), inserted “, community resilience,” after “seismic risk”.
@@ -1074,4 +1074,4 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 Section was enacted as part of the Earthquake Hazards Reduction Authorization Act of 2000, and not as part of the Earthquake Hazards Reduction Act of 1977 which comprises this chapter.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.

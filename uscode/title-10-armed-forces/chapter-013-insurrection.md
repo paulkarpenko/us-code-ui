@@ -173,7 +173,7 @@ For purposes of this chapter, the term “State” includes Guam and the Virgin 
 1980—Pub. L. 96–513 inserted “and Virgin Islands” after “Guam” in section catchline and inserted provision respecting applicability to the Virgin Islands.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Effective Date
 Pub. L. 90–497, § 11, Sept. 11, 1968, 82 Stat. 847, provided that this section is effective on date of enactment of Pub. L. 90–497, which was approved on Sept. 11, 1968.

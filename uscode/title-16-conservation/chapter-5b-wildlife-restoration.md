@@ -37,8 +37,8 @@ Act Sept. 2, 1937, ch. 899, as amended, is also popularly known as the “Federa
 #### Statement of Purpose and Definition in Pub. L. 106–553
 Pub. L. 106–553, § 1(a)(2) [title IX, § 902(a), (b)], Dec. 21, 2000, 114 Stat. 2762, 2762A–119, provided that: “(a) Purposes.—The purposes of this section [amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] are—“(1) to extend financial and technical assistance to the States under the Federal Aid to [in] Wildlife Restoration Act [[16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.] for the benefit of a diverse array of wildlife and associated habitats, including species that are not hunted or fished, to fulfill unmet needs of wildlife within the States in recognition of the primary role of the States to conserve all wildlife; “(2) to assure sound conservation policies through the development, revision, and implementation of a comprehensive wildlife conservation and restoration plan; “(3) to encourage State fish and wildlife agencies to participate with the Federal Government, other State agencies, wildlife conservation organizations and outdoor recreation and conservation interests through cooperative planning and implementation of this title [enacting [section 1356a of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1356a&num=0&edition=prelim), Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section]; and “(4) to encourage State fish and wildlife agencies to provide for public involvement in the process of development and implementation of a wildlife conservation and restoration program. “(b) Reference to Law.—In this section, the term ‘Federal Aid in Wildlife Restoration Act’ means the Act of September 2, 1937 ([16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.), commonly referred to as the Federal Aid in Wildlife Restoration Act or the Pittman-Robertson Act.”
 
-#### Inapplicability of Federal Advisory Committee Act
-Pub. L. 106–553, § 1(a)(2) [title IX, § 902(f)], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, provided that: “Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act [[16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.] or the Federal Aid in Sport Fish Restoration Act [[16 U.S.C. 777](./chapter-10b-fish-restoration-and-management-projects.md#section-777) et seq.] shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). Except for the preceding sentence, the provisions of this title [enacting [section 1356a of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1356a&num=0&edition=prelim), Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects.”
+#### Inapplicability of Chapter 10 of Title 5, United States Code
+Pub. L. 106–553, § 1(a)(2) [title IX, § 902(f)], Dec. 21, 2000, 114 Stat. 2762, 2762A–123, as amended by Pub. L. 117–286, § 4(a)(100), Dec. 27, 2022, 136 Stat. 4316, provided that: “Coordination with State fish and wildlife agency personnel or with personnel of other State agencies pursuant to the Federal Aid in Wildlife Restoration Act [[16 U.S.C. 669](./chapter-5b-wildlife-restoration.md#section-669) et seq.] or the Federal Aid in Sport Fish Restoration Act [[16 U.S.C. 777](./chapter-10b-fish-restoration-and-management-projects.md#section-777) et seq.] shall not be subject to chapter 10 of title 5, United States Code. Except for the preceding sentence, the provisions of this title [enacting [section 1356a of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1356a&num=0&edition=prelim), Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] relate solely to wildlife conservation and restoration programs and shall not be construed to affect the provisions of the Federal Aid in Wildlife Restoration Act relating to wildlife restoration projects or the provisions of the Federal Aid in Sport Fish Restoration Act relating to fish restoration and management projects.”
 
 #### Prohibition Against Diversion
 Pub. L. 106–553, § 1(a)(2) [title IX, § 902(h)], Dec. 21, 2000, 114 Stat. 2762, 2762A–124, provided that: “No designated State agency shall be eligible to receive matching funds under this title [enacting [section 1356a of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1356a&num=0&edition=prelim), Public Lands, amending sections 669a, 669b, 669c, 669g, and 4406 of this title, and enacting provisions set out as notes under this section] if sources of revenue available to it after January 1, 2000, for conservation of wildlife are diverted for any purpose other than the administration of the designated State agency, it being the intention of Congress that funds available to States under this title be added to revenues from existing State sources and not serve as a substitute for revenues from such sources. Such revenues shall include interest, dividends, or other income earned on the foregoing.”
@@ -91,13 +91,13 @@ As used in this chapter—
 
 (5) the term “Secretary” means the Secretary of the Interior;
 
-(6) the term “State fish and game department” or “State fish and wildlife department” means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.
+(6) the term “State fish and game department” or “State fish and wildlife department” means any department or division of department of another name, or commission, or official or officials, of a State empowered under its laws to exercise the functions ordinarily exercised by a State fish and game department or State fish and wildlife department.11 So in original. The period probably should be a semicolon.
 
 (7) the term “wildlife” means any species of wild, free-ranging fauna including fish, and also fauna in captive breeding programs the object of which is to reintroduce individuals of a depleted indigenous species into previously occupied range;
 
 (8) the term “wildlife-associated recreation” means projects intended to meet the demand for outdoor activities associated with wildlife including, but not limited to, hunting and fishing, wildlife observation and photography, such projects as construction or restoration of wildlife viewing areas, observation towers, blinds, platforms, land and water trails, water access, field trialing, trail heads, and access for such projects;
 
-(9) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 11 See References in Text note below. of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,1 and maintenance of such projects;
+(9) the term “wildlife conservation and restoration program” means a program developed by a State fish and wildlife department and approved by the Secretary under section 669c(d) 22 See References in Text note below. of this title, the projects that constitute such a program, which may be implemented in whole or part through grants and contracts by a State to other State, Federal, or local agencies (including those that gather, evaluate, and disseminate information on wildlife and their habitats), wildlife conservation organizations, and outdoor recreation and conservation education entities from funds apportioned under this chapter,2 and maintenance of such projects;
 
 (10) the term “wildlife conservation education” means projects, including public outreach, intended to foster responsible natural resource stewardship; and
 
@@ -218,11 +218,11 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 
   (B) *Available amounts* — The available amount referred to in subparagraph (A) is—
 
-    (i) for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+    (i) for the fiscal year that includes November 15, 2021, the product obtained by multiplying—
 
-      (I) the available amount specified in this subparagraph for the preceding fiscal year; and
+      (I) $12,786,434; and
 
-      (II) $979,500; and
+      (II) the change, relative to the preceding fiscal year, in the Consumer Price Index for All Urban Consumers published by the Department of Labor; and
 
     (ii) for each fiscal year thereafter, the sum obtained by adding—
 
@@ -326,6 +326,12 @@ Section was not enacted as part of the Pittman-Robertson Wildlife Restoration Ac
 Subsection (d), as redesignated, referred to in subsec. (e)(3), probably refers to the redesignation of a second subsec. (c) of this section as (d) by Pub. L. 116–94, div. P, title V, § 501(d)(2)(A), Dec. 20, 2019, 133 Stat. 3192. See 2019 Amendment note below.
 
 #### Amendments
+2022—Subsec. (a)(1)(B)(i). Pub. L. 117–263 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “for the fiscal year that includes November 15, 2021, the sum obtained by adding—
+
+“(I) the available amount specified in this subparagraph for the preceding fiscal year; and
+
+“(II) $979,500; and”.
+
 2021—Subsec. (a)(1)(B). Pub. L. 117–58, § 28001(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which provided amounts available for fiscal years 2001 and thereafter.
 
 Subsec. (a)(2)(A). Pub. L. 117–58, § 28001(b)(1)(B)(i), inserted “subsequent” before “fiscal year.”
@@ -533,7 +539,7 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 
 (6) costs of audits under subsection (d);
 
-(7) costs of necessary training of Federal and State full-time personnel who administer this chapter to improve administration of this chapter;
+(7) costs of necessary training of Federal and State personnel who administer this chapter to improve administration of this chapter;
 
 (8) costs of travel to States, territories, and Canada by personnel who—
 
@@ -541,7 +547,7 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 
   (B) administer grants under section 669e, 669h–1, or 669h–2 of this title;
 
-(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter on a full-time basis, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
+(9) costs of travel outside the United States (except travel to Canada), by personnel who administer this chapter, for purposes that directly relate to administration of this chapter and that are approved directly by the Assistant Secretary for Fish and Wildlife and Parks;
 
 (10) relocation expenses for personnel who, after relocation, will administer this chapter on a full-time or part-time basis for at least 1 year, as certified by the Director of the United States Fish and Wildlife Service at the time at which the relocation expenses are incurred, subject to the condition that the percentage of the relocation expenses paid with funds made available pursuant to this chapter may not exceed the percentage of the work hours of the employee that are spent administering this chapter; and
 
@@ -581,6 +587,10 @@ Act May 19, 1956, ch. 313, ch. VI, § 601, 70 Stat. 169, authorized increases of
 In subsec. (d)(2)(A), “[section 132 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section132&num=0&edition=prelim)” substituted for “section 4 of the Office of Federal Procurement Policy Act ([41 U.S.C. 403](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section403&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2022—Subsec. (a)(7). Pub. L. 117–263, § 11324(b)(2)(A), struck out “full-time” before “personnel”.
+
+Subsec. (a)(9). Pub. L. 117–263, § 11324(b)(2)(B), struck out “on a full-time basis” after “administer this chapter”.
+
 2021—Subsec. (a)(1). Pub. L. 117–58, § 28001(b)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “personnel costs of employees who directly administer this chapter on a full-time basis;”.
 
 Subsec. (a)(2). Pub. L. 117–58, § 28001(b)(2)(C), substituted “paragraph (1)” for “paragraphs (1) and (2)”.
@@ -724,17 +734,16 @@ Subsec. (c)(1). Pub. L. 116–17, § 4(c)(3), designated existing provisions as 
 
 **(d) Use of grants** A grant under this section shall not be used, in whole or in part, for an activity, project, or program that promotes or encourages opposition to the regulated hunting or trapping of wildlife or to recreational shooting activities.
 
-**(e) Nonapplicability of Federal Advisory Committee Act** The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any activity carried out under this section.
+**(e) Nonapplicability of chapter 10 of title 5** Chapter 10 of title 5 shall not apply to any activity carried out under this section.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 A prior section 11 of act Sept. 2, 1937, was classified to [section 669j of this title](./chapter-5b-wildlife-restoration.md#section-669j) prior to repeal by act Aug. 7, 1946.
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2019—Subsec. (a)(1). Pub. L. 116–94, § 501(g)(1)(A), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 
 Subsec. (b)(3). Pub. L. 116–94, § 501(g)(1)(B), struck out “International” before “Association” in introductory provisions.

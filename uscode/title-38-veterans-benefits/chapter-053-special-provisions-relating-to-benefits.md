@@ -2,7 +2,7 @@
 title: 38
 chapter: '53'
 heading: SPECIAL PROVISIONS RELATING TO BENEFITS
-section_count: 26
+section_count: 28
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -122,7 +122,11 @@ Pub. L. 95–202, title III, § 305(c), Nov. 23, 1977, 91 Stat. 1444, provided t
 
 <a id="section-5302"></a>
 ## § 5302. Waiver of recovery of claims by the United States
-**(a)** There shall be no recovery of payments or overpayments (or any interest thereon) of any benefits under any of the laws administered by the Secretary whenever the Secretary determines that recovery would be against equity and good conscience, if an application for relief is made within 180 days from the date of notification of the indebtedness by the Secretary to the payee, or within such longer period as the Secretary determines is reasonable in a case in which the payee demonstrates to the satisfaction of the Secretary that such notification was not actually received by such payee within a reasonable period after such date. The Secretary shall include in the notification to the payee a statement of the right of the payee to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
+**(a)**
+
+(1) There shall be no recovery of payments or overpayments (or any interest thereon) of any benefits under any of the laws administered by the Secretary whenever the Secretary determines that recovery would be against equity and good conscience, if an application for relief is made within 180 days from the date of notification of the indebtedness by the Secretary to the payee, or within such longer period as the Secretary determines is reasonable in a case in which the payee demonstrates to the satisfaction of the Secretary that such notification was not actually received by such payee within a reasonable period after such date. The Secretary shall include in the notification to the payee a statement of the right of the payee to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
+
+(2) The Secretary may not seek to recover an indebtedness described in paragraph (1) if the Secretary determines that the cost to the Department to recover such indebtedness, as determined when the debt is established, would exceed the amount of the indebtedness.
 
 **(b)** With respect to any loan guaranteed, insured, or made under chapter 37 of this title, the Secretary shall, except as provided in subsection (c) of this section, waive payment of an indebtedness to the Department by the veteran (as defined in sections 101, 3701, and 3702(a)(2)(C)(ii) of this title), or the veteran’s spouse, following default and loss of the property, where the Secretary determines that collection of such indebtedness would be against equity and good conscience. An application for relief under this subsection must be made within one year after the date on which the veteran receives notice by certified mail with return receipt requested from the Secretary of the indebtedness. The Secretary shall include in the notification a statement of the right of the veteran to submit an application for a waiver under this subsection and a description of the procedures for submitting the application.
 
@@ -134,7 +138,16 @@ Pub. L. 95–202, title III, § 305(c), Nov. 23, 1977, 91 Stat. 1444, provided t
 
 ### Statutory Notes
 
+#### Amendment of Subsection (a)(1)
+Pub. L. 117–328, div. U, title II, § 254, Dec. 29, 2022, 136 Stat. 5464, provided that effective on the date that is two years after Dec. 29, 2022, subsection (a) of this section is amended by striking “180 days” and inserting “one year”.
+
+See 2022 Amendment note below.
+
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328, § 255(c), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (a)(1). Pub. L. 117–328, § 254(a), substituted “one year” for “180 days”.
+
 1997—Subsec. (b). Pub. L. 105–33 inserted “with return receipt requested” after “certified mail”.
 
 1992—Subsecs. (a), (b). Pub. L. 102–547 made technical correction to directory language of Pub. L. 102–54, § 5. See 1991 Amendment note below.
@@ -172,6 +185,9 @@ Subsec. (c). Pub. L. 99–576, § 701(69)(B), substituted “the Administrator�
 Subsec. (c). Pub. L. 96–466, § 605(c)(3)(B), inserted “(or any interest thereon)” after “indebtedness” in two places.
 
 1972—Pub. L. 92–328 substituted “claims by the United States” for “overpayments” in section catchline, struck out “(except servicemen’s indemnity)” after “any benefits” in subsec. (a), struck out provisions relating to recovery of benefits from any person without fault on his part, and inserted provisions relating to an application for relief made within two years from the date of notification of the indebtedness by the Administrator to the payee, added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and inserted reference to subsec. (b), and redesignated former subsec. (c) as (e).
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. U, title II, § 254(b), Dec. 29, 2022, 136 Stat. 5464, provided that: “Subsection (a) [amending this section] shall take effect on the date that is two years after the date of the enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 1997 Amendment
 Amendment by Pub. L. 105–33 applicable with respect to any indebtedness to the United States arising pursuant to chapter 37 of this title before, on, or after Aug. 5, 1997, see section 8033(c) of Pub. L. 105–33, set out as a note under [section 3726 of this title](./chapter-037-housing-and-small-business-loans.md#section-3726).
@@ -213,6 +229,46 @@ Pub. L. 110–252, title I, § 1303(c), June 30, 2008, 122 Stat. 2328, provided 
 Pub. L. 110–389, title VIII, § 801(b), Oct. 10, 2008, 122 Stat. 4185, provided that: “The Secretary of Veterans Affairs may refund to the estate of such person any amount collected by the Secretary (whether before, on, or after the date of the enactment of this Act [Oct. 10, 2008]) from a person who died while serving on active duty as a member of the Armed Forces if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.”
 
 Pub. L. 110–252, title I, § 1303(b), June 30, 2008, 122 Stat. 2327, provided that: “In any case where all or any part of an indebtedness of a covered individual, as described in [section 5302A(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5302A/a&num=0&edition=prelim), United States Code, as added by subsection (a)(1), was collected after September 11, 2001, and before the date of the enactment of this Act [June 30, 2008], and the Secretary of Veterans Affairs determines that such indebtedness would have been terminated had such section been in effect at such time, the Secretary may refund the amount so collected if the Secretary determines that the individual is equitably entitled to such refund.”
+
+
+<a id="section-5302b"></a>
+## § 5302B. Prohibition of debt arising from overpayment due to delay in processing
+**(a) Limitation.—**
+
+(1) Except as provided in paragraph (2), no individual may incur a debt to the United States that—
+
+  (A) arises from the participation of the individual in a program or benefit administered by the Under Secretary for Benefits; and
+
+  (B) is attributable to the failure of an employee or official of the Department to process information provided by or on behalf of that individual within applicable timeliness standards established by the Secretary.
+
+(2) Nothing in this section shall be construed to affect the penal and forfeiture provisions for fiduciaries set forth in chapter 61 of this title.
+
+**(b) Notice.—**
+
+(1) If the Secretary determines that the Secretary has made an overpayment to an individual, the Secretary shall provide notice to the individual of the overpayment.
+
+(2) Notice under paragraph (1) shall include a detailed explanation of the right of the individual—
+
+  (A) to dispute the overpayment, including a detailed explanation of the process by which to dispute the overpayment; or
+
+  (B) to request a waiver of indebtedness.
+
+**(c) Delay on Collection.—**
+
+(1) Subject to paragraph (2), the Secretary may not take any action under [section 3711 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711&num=0&edition=prelim) regarding an overpayment described in a notice under subsection (b) of this section until the date that is 90 days after the date the Secretary issues such notice.
+
+(2) The Secretary may take action under [section 3711 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3711&num=0&edition=prelim) regarding an overpayment described in a notice under subsection (b) of this section before the date that is 90 days after the date the Secretary issues such notice if the Secretary determines that delaying such action is—
+
+  (A) likely to make repayment of such overpayment more difficult for an individual;
+
+  (B) likely to cause an unpaid debt to be referred to the Treasury Offset Program; or
+
+  (C) not in the best interest of the individual.
+
+### Statutory Notes
+
+#### Regulations
+Pub. L. 117–328, div. U, title II, § 252(a)(3), Dec. 29, 2022, 136 Stat. 5463, provided that: “The Secretary of Veterans Affairs shall prescribe regulations to establish standards under section 5302B(a)(2) of such title, as added by subsection (a), not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022].”
 
 
 <a id="section-5303"></a>
@@ -372,7 +428,7 @@ Pub. L. 95–126, § 4, Oct. 8, 1977, 91 Stat. 1108, as amended by Pub. L. 100�
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by Pub. L. 108–203, title IV, § 420(b)(1)(A), Mar. 2, 2004, 118 Stat. 535. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (d)(3)(B)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, which is classified generally to chapter 7 (§ 301 et seq.) of Title 42, The Public Health and Welfare. Section 229(a) of the Act was redesignated section 229 by Pub. L. 108–203, title IV, § 420(b)(1)(A), Mar. 2, 2004, 118 Stat. 535. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2016—Subsec. (b)(3)(F) to (H). Pub. L. 114–315 added subpar. (F) and redesignated former subpars. (F) and (G) as (G) and (H), respectively.
@@ -728,7 +784,7 @@ Public Law 87–674, referred to in text, is Pub. L. 87–674, Sept. 19, 1962, 7
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in text, is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2004—Subsec. (b)(1). Pub. L. 108–454 inserted “and the annual benefit amount limitations under sections 5507(c)(2)(D) and 5508 of this title,” after “(d)(3) of such section,”.
@@ -891,7 +947,11 @@ In the case of a veteran who is incarcerated in a Federal, State, local, or othe
 
 <a id="section-5314"></a>
 ## § 5314. Indebtedness offsets
-**(a)** Subject to subsections (b) and (d) of this section and [section 3485(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3485/e&num=0&edition=prelim), the Secretary shall (unless the Secretary waives recovery under [section 5302 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5302)) deduct the amount of the indebtedness of any person who has been determined to be indebted to the United States by virtue of such person’s participation in a benefits program administered by the Secretary from future payments made to such person under any law administered by the Secretary.
+**(a)**
+
+(1) Subject to subsections (b) and (d) of this section and [section 3485(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section3485/e&num=0&edition=prelim), the Secretary shall (unless the Secretary waives recovery under [section 5302 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5302)) deduct the amount of the indebtedness of any person who has been determined to be indebted to the United States by virtue of such person’s participation in a benefits program administered by the Secretary from future payments made to such person under any law administered by the Secretary.
+
+(2) The Secretary may not make a deduction under paragraph (1) while the existence or amount of such indebtedness is disputed under [section 5314A of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5314a).
 
 **(b)** Deductions may not be made under subsection (a) of this section with respect to the indebtedness of a person described in such subsection unless the Secretary—
 
@@ -908,6 +968,8 @@ In the case of a veteran who is incarcerated in a Federal, State, local, or othe
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328 designated existing provisions as par. (1) and added par. (2).
+
 1991—Pub. L. 102–40, § 402(b)(1), renumbered [section 3114 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3114) as this section.
 
 Subsec. (a). Pub. L. 102–83, § 5(c)(1), substituted “3485(e)” for “1685(e)”.
@@ -933,11 +995,37 @@ Pub. L. 96–466, title VIII, § 802(f), Oct. 17, 1980, 94 Stat. 2218, provided 
 Pub. L. 96–466, title VI, § 605(b), Oct. 17, 1980, 94 Stat. 2211, provided that: “The Administrator of Veterans’ Affairs [now Secretary of Veterans Affairs] shall, not later than January 1, 1981, prescribe the regulations required to be prescribed under sections 3114 and 3115 [now 5314 and 5315] of title 38, United States Code, as added by subsection (a).”
 
 
+<a id="section-5314a"></a>
+## § 5314A. Dispute of indebtedness
+**(a) Establishment.—** The Secretary shall prescribe regulations that establish an administrative process for the dispute of the existence or amount of an indebtedness described in [section 5314(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5314/a/1&num=0&edition=prelim) (without regard to whether the Secretary has made a deduction under such section regarding such indebtedness).
+
+**(b) Standards.—** The process under subsection (a) shall be efficient, effective, and equitable.
+
+**(c) Timeliness.—** The Secretary shall ensure that each dispute under subsection (a) proceeds in accordance with standards for timeliness prescribed by the Secretary under this section.
+
+**(d) Limitation.—** The Secretary may not submit to any debt collector (as defined in section 803 of the Fair Debt Collection Practices Act ([15 U.S.C. 1692a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section1692a&num=0&edition=prelim))) any dispute pending under this section.
+
+**(e) Rule of Construction.—** Nothing in this section shall be construed to modify the procedures for seeking review of a decision of the agency of original jurisdiction described in [section 5104C(a)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5104C/a/1&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Administrative Process for Dispute of Indebtedness and Improvements to Department Website
+Pub. L. 117–328, div. U, title II, § 255(b)(2), (3), Dec. 29, 2022, 136 Stat. 5465, provided that: “(2) Existing administrative process.—The Secretary of Veterans Affairs shall carry out section 5314A of such title, as added by paragraph (1), by improving the administrative process of the Department of Veterans Affairs for the dispute of the existing or amount of an indebtedness that was in effect on the day before the date of the enactment of this Act [Dec. 29, 2022]. “(3) Improvements to department website and notices.—In carrying out paragraph (2), the Secretary shall—“(A) improve the website of the Department; and “(B) ensure that such website and written notices sent to a person about indebtedness described in [section 5314(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section5314/a&num=0&edition=prelim), United States Code, contain all information a person needs to dispute such an indebtedness, including a description of—“(i) the specific actions the person will need to take in order to dispute the indebtedness; “(ii) the documentation that will be required for the dispute; and “(iii) how the documentation is to be submitted.”
+
+
 <a id="section-5315"></a>
 ## § 5315. Interest and administrative cost charges on delinquent payments of certain amounts due the United States
 **(a)** Notwithstanding any other provision of this title or of any other law and subject to sections 3485(e) and 5302 of this title, interest and administrative costs (as described in subsections (b) and (c) of this section) shall be charged, under regulations which the Secretary shall prescribe, on any amount owed to the United States—
 
-(1) for an indebtedness resulting from a person’s participation in a benefits program administered by the Secretary other than a loan, loan-guaranty, or loan-insurance program;
+(1) for an indebtedness resulting from a person’s participation in a benefits program administered by the Secretary other than—
+
+  (A) a loan, loan-guaranty, or loan-insurance program;
+
+  (B) a disability compensation program;
+
+  (C) a pension program; or
+
+  (D) an educational assistance program.
 
 (2) for an indebtedness resulting from the provision of care or services under chapter 17 of this title; or
 
@@ -954,6 +1042,8 @@ Pub. L. 96–466, title VI, § 605(b), Oct. 17, 1980, 94 Stat. 2211, provided th
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(1). Pub. L. 117–328, § 253(a), designated existing provisions as introductory provisions, substituted “other than—” for “other than a loan, loan-guaranty, or loan-insurance program;”, and added subpars. (A) to (D).
+
 1998—Subsec. (b)(1). Pub. L. 105–368 substituted “October 17, 1980,” for “the date of the enactment of this section,”.
 
 1991—Pub. L. 102–40, § 402(b)(1), renumbered [section 3115 of this title](./chapter-031-training-and-rehabilitation-for-veterans-with-service-connected-disabilities.md#section-3115) as this section.
@@ -969,6 +1059,9 @@ Pub. L. 102–40, § 402(d)(1), substituted “5302” for “3102” in introdu
 Pub. L. 102–16 substituted “sections 1685(e) and 3102” for “section 3102” in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. U, title II, § 253(b), Dec. 29, 2022, 136 Stat. 5464, provided that: “The amendments made by subsection (a) [amending this section] shall apply with respect to an indebtedness that occurs on or after the date of the enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date
 Section effective Oct. 1, 1980, except as otherwise specifically provided, see section 802(f) of Pub. L. 96–466, set out as a note under [section 5314 of this title](./chapter-053-special-provisions-relating-to-benefits.md#section-5314).
@@ -1151,7 +1244,7 @@ Subsec. (b). Pub. L. 108–183, § 708(c)(4)(A)(ii), substituted “Social Secur
 ### Statutory Notes
 
 #### References in Text
-The Right to Financial Privacy Act of 1978, referred to in subsec. (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, as amended, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
+The Right to Financial Privacy Act of 1978, referred to in subsec. (c), is title XI of Pub. L. 95–630, Nov. 10, 1978, 92 Stat. 3697, which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section3401&num=0&edition=prelim) and Tables.
 
 
 <a id="section-5320"></a>

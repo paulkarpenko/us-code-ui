@@ -2,7 +2,7 @@
 title: 14
 chapter: '25'
 heading: PERSONNEL; GENERAL PROVISIONS
-section_count: 19
+section_count: 18
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -111,6 +111,9 @@ Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946
 1984—Subsec. (a). Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 
 1983—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “rear admiral”.
+
+#### Report on Resignation and Retirement Processing Times and Denial
+Pub. L. 117–263, div. K, title CXII, § 11241, Dec. 23, 2022, 136 Stat. 4039, provided that: “(a) In General.—Not later than 30 days after the date of enactment of this Act [Dec. 23, 2022], and annually thereafter, the Commandant [of the Coast Guard] shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report that evaluates resignation and retirement processing timelines. “(b) Elements.—The report required under subsection (a) shall include, for the preceding calendar year—“(1) statistics on the number of resignations, retirements, and other separations that occurred; “(2) the processing time for each action described in paragraph (1); “(3) the percentage of requests for such actions that had a command endorsement; “(4) the percentage of requests for such actions that did not have a command endorsement; and “(5) for each denial of a request for a command endorsement and each failure to take action on such a request, a detailed description of the rationale for such denial or failure to take such action.”
 
 
 <a id="section-2503"></a>
@@ -271,7 +274,7 @@ Pub. L. 104–324, § 209(c), Oct. 19, 1996, 110 Stat. 3914, provided that: “T
 
 <a id="section-2508"></a>
 ## § 2508. Emergency leave retention authority
-**(a) In General.—** A duty assignment for an active duty member of the Coast Guard in support of a declaration of a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.) or in response to a spill of national significance shall be treated, for the purpose of [section 701(f)(2) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/f/2&num=0&edition=prelim), as a duty assignment in support of a contingency operation.
+**(a) In General.—** A duty assignment for an active duty member of the Coast Guard in support of a declaration of a major disaster or emergency by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5121](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) et seq.) or in response to a spill of national significance shall be treated, for the purpose of [section 701(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701/e&num=0&edition=prelim), as a duty assignment in support of a contingency operation.
 
 **(b) Definitions.—** In this section:
 
@@ -285,7 +288,12 @@ Pub. L. 104–324, § 209(c), Oct. 19, 1996, 110 Stat. 3914, provided that: “T
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§ 5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 5121 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5121&num=0&edition=prelim) and Tables.
 
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–263 substituted “section 701(e)” for “section 701(f)(2)”.
+
 2018—Pub. L. 115–282 renumbered [section 426 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section426&num=0&edition=prelim) as this section.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–232 effective Jan. 1, 2023, see section 631(d) of Pub. L. 117–263, set out as a note under [section 701 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section701&num=0&edition=prelim), Armed Forces.
 
 #### Effective Date
 Pub. L. 111–281, title II, § 207(c), Oct. 15, 2010, 124 Stat. 2912, provided that: “The amendments made by this section [enacting this section] shall be deemed to have been enacted on April 19, 2010.”
@@ -489,6 +497,51 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 [Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (f)(4)(A), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
 
 
+<a id="section-2515"></a>
+## § 2515. Calculation of active service
+
+Any service described, including service described prior to the date of enactment of the Don Young Coast Guard Authorization Act of 2022, in writing, including by electronic communication, by a representative of the Coast Guard Personnel Service Center as service that counts toward total active service for regular retirement under section 2152 or section 2306 shall be considered by the President as active service for purposes of applying section 2152 or section 2306 with respect to the determination of the retirement qualification for any officer or enlisted member to whom a description was provided.
+
+### Statutory Notes
+
+#### References in Text
+The date of enactment of the Don Young Coast Guard Authorization Act of 2022, referred to in text, is the date of enactment of div. K of Pub. L. 117–263, which was approved Dec. 23, 2022.
+
+#### Rule of Construction
+Pub. L. 117–263, div. K, title CXII, § 11242(c), Dec. 23, 2022, 136 Stat. 4040, provided that: “The amendment made by subsection (a) [enacting this section]— “(1) shall only apply to officers of the Coast Guard that entered active service after January 1, 1997, temporarily separated for a period of time, and have retired from the Coast Guard before January 1, 2024; and “(2) shall not apply to any member of any other uniformed service, or to any Coast Guard member regarding active service of the member in any other uniformed service.”
+
+
+<a id="section-2516"></a>
+## § 2516. Members asserting post-traumatic stress disorder or traumatic brain injury
+**(a) Medical Examination Required.—**
+
+(1) **In general.—** — The Secretary shall ensure that a member of the Coast Guard who has performed Coast Guard operations or has been sexually assaulted during the preceding 2-year period, and who is diagnosed by an appropriate licensed or certified healthcare professional as experiencing post-traumatic stress disorder or traumatic brain injury or who otherwise alleges, based on the service of the member or based on such sexual assault, the influence of such a condition, receives a medical examination to evaluate a diagnosis of post-traumatic stress disorder or traumatic brain injury.
+
+(2) **Restriction on administrative separation.—** — A member described in paragraph (1) shall not be administratively separated under conditions other than honorable, including an administrative separation in lieu of a court-martial, until the results of the medical examination have been reviewed by appropriate authorities responsible for evaluating, reviewing, and approving the separation case, as determined by the Secretary.
+
+(3) **Post-traumatic stress disorder.—** — In a case involving post-traumatic stress disorder under this subsection, a medical examination shall be—
+
+  (A) performed by—
+
+    (i) a board-certified or board-eligible psychiatrist; or
+
+    (ii) a licensed doctorate-level psychologist; or
+
+  (B) performed under the close supervision of—
+
+    (i) a board-certified or board-eligible psychiatrist; or
+
+    (ii) a licensed doctorate-level psychologist, a doctorate-level mental health provider, a psychiatry resident, or a clinical or counseling psychologist who has completed a 1-year internship or residency.
+
+(4) **Traumatic brain injury.—** — In a case involving traumatic brain injury under this subsection, a medical examination shall be performed by a physiatrist, psychiatrist, neurosurgeon, or neurologist.
+
+**(b) Purpose of Medical Examination.—** The medical examination required under subsection (a) shall assess whether the effects of mental or neurocognitive disorders, including post-traumatic stress disorder and traumatic brain injury, constitute matters in extenuation that relate to the basis for administrative separation under conditions other than honorable or the overall characterization of the service of the member as other than honorable.
+
+**(c) Inapplicability to Proceedings Under Uniform Code of Military Justice.—** The medical examination and procedures required by this section do not apply to courts-martial or other proceedings conducted pursuant to the Uniform Code of Military Justice.
+
+**(d) Coast Guard Operations Defined.—** In this section, the term “Coast Guard operations” has the meaning given that term in section 888(a) of the Homeland Security Act of 2002 ([6 U.S.C. 468(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section468/a&num=0&edition=prelim)).
+
+
 <a id="section-2521"></a>
 ## § 2521. Advisory Board on Women in the Coast Guard
 **(a) In General.—** The Commandant shall establish within the Coast Guard an Advisory Board on Women in the Coast Guard.
@@ -512,241 +565,15 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 (3) may brief Congress on its duties under this subsection, including the advice described in paragraph (1) and any recommendations described in paragraph (2).
 
 
-<a id="section-2531"></a>
-## § 2531. Personnel of former Lighthouse Service
-**(a)** Any individual of the former Lighthouse Service commissioned as an officer in the Coast Guard shall be an extra number in his grade and in the grades to which he may be promoted. He shall take precedence (1) with other officers commissioned in his grade from the former Lighthouse Service as the Secretary of the Treasury may determine, and (2) with other line officers in his grade in accordance with the respective dates of their commissions in such grade. He shall be eligible for promotion, if otherwise qualified, at such time as the officer in a regular number in line of promotion next above him on the seniority list becomes eligible for promotion; or if there be no such officer in his grade, he shall be eligible for promotion, if otherwise qualified, when a vacancy occurs in the next higher grade. An officer so commissioned shall be assigned to duty for which he is specially qualified, and professional examinations for promotion given to such officer shall embrace only subjects which pertain to the duty to which he is assigned.
-
-**(b)** Each vacancy (1) hereafter occurring in the extra numbers of such officers; (2) existing on August 5, 1939, in positions in the Lighthouse Service formerly held by personnel eligible for such commissions; and (3) created by the retirement, resignation, death, or separation from the service for any other cause, of such personnel who do not possess the qualifications prescribed by the Secretary of the Treasury or who, being qualified, do not accept a commission thereunder, shall operate to increase by one the total authorized number of line officers of the Coast Guard.
-
-**(c)** All individuals of the former Lighthouse Service commissioned, appointed, or enlisted in the Coast Guard shall be subject to all laws and regulations for the government of the Coast Guard, and nothing contained in this title shall be construed to prevent the application to any of such individuals of laws and regulations concerning the military discipline of commissioned and warrant officers and enlisted members of the Coast Guard.
-
-**(d)** In computing length of service, for the purpose of retirement in the Coast Guard, of any individual of the former Lighthouse Service commissioned, appointed, or enlisted in the Coast Guard, there shall be included all service computable for retirement under the provisions of [section 763 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section763&num=0&edition=prelim); and after July 1, 1948, in computing longevity for the purpose of pay of such individual there shall be included all service of such individual in the Lighthouse Service.
-
-**(e)** No individual so commissioned, appointed, or enlisted in the Coast Guard shall suffer any reduction in the total of the annual compensation and allowances which he was receiving on the date of his commission, appointment, or enlistment. Upon his retirement from active duty in the Coast Guard, the retired pay of any individual so commissioned, appointed, or enlisted, shall not be less than an annuity computed in accordance with the provisions of [section 763 of title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section763&num=0&edition=prelim), substituting, however, for purposes of such computation, the annual compensation which he was receiving on the date of his commission, appointment, or enlistment in the Coast Guard for the average annual pay received by him for the last five years of service.
-
-**(f)** Notwithstanding any other provision of law, chapter 51, subchapter III of chapter 53, and sections 5542–5546 of title 5 shall not apply to civilian keepers of lighthouses and to civilians employed on lightships and other vessels of the Coast Guard.
-
-**(g)**
-
-(1) The head of the department in which the Coast Guard is operating under regulations prescribed by him, may regulate the hours of duty and the pay of civilian keepers of lighthouses and civilians employed on lightships and other vessels of the Coast Guard, but such personnel may be called upon for duty in emergency circumstances or otherwise at any time or all times. The existing system governing the pay of such employees may be continued or changed except that overtime compensation, night differential, and extra pay for duty on holidays shall not be paid to such employees. In lieu thereof additional annual compensation may be authorized, which may be prescribed either as a fixed differential or as a percentage of the basic compensation otherwise applicable to such employees. In no case shall basic compensation exceed $15,000 per annum, except that nothing contained in this subsection shall operate to decrease the basic compensation of any individual employed by the Coast Guard on the date of enactment of this subsection, and in no case shall additions thereto exceed 25 percent of such basic compensation. Provision may be made for compensatory absence from duty when conditions of employment result in confinement because of isolation or in long periods of continuous duty; and provisions may likewise be made for extra allowance for service outside of the continental limits of the United States.
-
-(2) The additional compensation authorized by this subsection shall be included in any computation of compensation under section 6 of the Act of June 20, 1918 ([33 U.S.C. 763](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section763&num=0&edition=prelim)).
+<a id="section-2531-to-2534"></a>
+## § 2531 to 2534. Repealed. Pub. L. 117–263, div. K, title CXVIII, § 11808(a)(18), Dec. 23, 2022, 136 Stat. 4166]
 
 ### Statutory Notes
 
-#### Historical and Revision Notes
-The following statement appeared in Senate Report No. 656, 81st Congress, in explanation of Senate Judiciary Committee amendment no. 3 which added former sections 431 (now repealed), 432 (now 2531), and 433 (now repealed):
+Section 2531, act Aug. 4, 1949, ch. 393, 63 Stat. 526, § 432; Aug. 9, 1955, ch. 650, §§ 1, 2, 69 Stat. 577; Pub. L. 86–309, Sept. 21, 1959, 73 Stat. 585; Pub. L. 91–278, § 1(10), June 12, 1970, 84 Stat. 305; Pub. L. 96–23, § 5(a), June 13, 1979, 93 Stat. 68; Pub. L. 97–295, § 2(11), (13), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 98–557, § 15(a)(3)(B), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 99–640, § 10(a)(7), Nov. 10, 1986, 100 Stat. 3549; renumbered § 2531, Pub. L. 115–282, title I, § 114(b), Dec. 4, 2018, 132 Stat. 4223; Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8505(a)(21), Jan. 1, 2021, 134 Stat. 4748, related to personnel of former Lighthouse Service.
 
-There are, at present, in the Coast Guard certain personnel who were transferred from the former Life Saving Service, the Lighthouse Service, the Bureau of Marine Inspection and Navigation, and the Bureau of Customs. The number of such personnel is not large and no new personnel can be taken on in these categories. As time goes on the numbers will be reduced by death or resignation and any other method of leaving the service until, eventually, there will be no one remaining in any of these groups. Certain laws appearing in existing title 14 applicable to such personnel were not included in this bill as it passed the House. The reason for such omission was that such laws were temporary in that they would eventually apply to no one, although no definite termination date was fixed in the law. While recognizing this fact, this committee feels that since said laws apply to a class of personnel and will so apply for an indeterminate period in the future, it is desirable to include such laws in this codification, subject to being repealed at such time as there are no longer any personnel in the Coast Guard, active or retired, to whom these sections would be applicable.
+Section 2532, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8510(b), Jan. 1, 2021, 134 Stat. 4757, related to retirement of certain employees of former Lighthouse Service.
 
-Proposed section 432(a) is based on title 14, U.S.C., 1946 ed., § 10g (Aug. 5, 1939, ch. 477, § 2, 53 Stat. 1216).
+Section 2533, added Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(a), Jan. 1, 2021, 134 Stat. 4758, related to surviving spouses of current or former employees of Lighthouse Service.
 
-Proposed section 432(b) is based on title 14, U.S.C., 1946 ed., § 10h (Aug. 5, 1939, ch. 477, § 3, 53 Stat. 1216).
-
-Proposed section 432(c) is based on title 14, U.S.C., 1946 ed., § 50 (Aug. 5, 1939, ch. 477, § 8, 53 Stat. 1217).
-
-Proposed section 432(d) is based on title 14, U.S.C., 1946 ed., § 180 (Aug. 5, 1939, ch. 477, § 6, 53 Stat. 1217; June 24, 1948, ch. 627, 62 Stat. 644).
-
-Proposed section 432(e) is based on title 14, U.S.C., 1946 ed., § 181 (Aug. 5, 1939, ch. 477, § 7, 53 Stat. 1217).
-
-Proposed section 432(f) is based on section 1 of Public Law 143, 81st Congress, approved June 29, 1949.
-
-Proposed section 432(g) is based on sections 2 and 3 of Public Law 143, 81st Congress, approved June 29, 1949.
-
-#### References in Text
-The date of enactment of this subsection, referred to in subsec. (g)(1), is Aug. 4, 1949.
-
-#### Amendments
-2021— Subsec. (a). Pub. L. 116–283, § 8505(a)(21)(A), substituted “individual” for “person”.
-
-Subsec. (c). Pub. L. 116–283, § 8505(a)(21)(B), substituted “individuals” for “persons” in two places.
-
-Subsec. (d). Pub. L. 116–283, § 8505(a)(21)(A), substituted “individual” for “person” wherever appearing.
-
-Subsec. (e). Pub. L. 116–283, § 8505(a)(21)(A), substituted “individual” for “person” in two places.
-
-Subsec. (g)(1). Pub. L. 116–283, § 8505(a)(21)(A), substituted “individual” for “person”.
-
-2018—Pub. L. 115–282 renumbered [section 432 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section432&num=0&edition=prelim) as this section.
-
-1986—Subsec. (g). Pub. L. 99–640 designated existing provisions as par. (1), struck out last par. relating to inclusion of additional compensation in computations of compensation for purposes of the Lighthouse Service Retirement Act, and added par. (2).
-
-1984—Subsec. (c). Pub. L. 98–557 substituted reference to enlisted members for reference to enlisted men.
-
-1982—Subsec. (f). Pub. L. 97–295, § 2(13), substituted “chapter 51, subchapter III of chapter 53, and sections 5542–5546 of title 5” for “the civil service classification laws and titles II and III of the Federal Employees Pay Act of 1945 as amended”.
-
-Subsec. (g). Pub. L. 97–295, § 2(11), substituted “percent” for “per centum”.
-
-1979—Subsec. (g). Pub. L. 96–23 substituted “$15,000” for “$7,500”.
-
-1970—Subsec. (g). Pub. L. 91–278 substituted “$7,500” for “$5,100”.
-
-1959—Subsec. (g). Pub. L. 86–309 substituted “$5,100” for “$3,750”.
-
-1955—Subsec. (f). Act Aug. 9, 1955, § 1, inserted “as amended”.
-
-Subsec. (g). Act Aug. 9, 1955, § 2, authorized head of department in which the Coast Guard is operating to regulate hours of duty and pay.
-
-#### Retroactive Pay
-Pub. L. 96–23, § 5(b), June 13, 1979, 93 Stat. 69, provided that the Coast Guard could issue retroactive pay to its remaining civilian lighthouse keepers to compensate for the higher General Schedule salary rate over a statutory limitation of $7,500 on annual salary.
-
-
-<a id="section-2532"></a>
-## § 2532. Retirement of employees
-**(a) Optional Retirement.—** Except as provided in subsections (d) and (e), a covered employee may retire from further performance of duty if such officer or employee—
-
-(1) has completed 30 years of active service in the Government and is at least 55 years of age;
-
-(2) has completed 25 years of active service in the Government and is at least 62 years of age; or
-
-(3) is involuntarily separated from further performance of duty, except by removal for cause on charges of misconduct or delinquency, after completing 25 years of active service in the Government, or after completing 20 years of such service and if such employee is at least 50 years of age.
-
-**(b) Compulsory Retirement.—** A covered employee who becomes 70 years of age shall be compulsorily retired from further performance of duty.
-
-**(c) Retirement for Disability.—**
-
-(1) **In general.—** — A covered employee who has completed 15 years of active service in the Government and is found, after examination by a medical officer of the United States, to be disabled for useful and efficient service by reason of disease or injury not due to vicious habits, intemperance, or willful misconduct of such officer or employee, shall be retired.
-
-(2) **Restoration to active duty.—** — Any individual retired under paragraph (1) may, upon recovery, be restored to active duty, and shall from time to time, before reaching the age at which such individual may retire under subsection (a), be reexamined by a medical officer of the United States upon the request of the Secretary of the department in which the Coast Guard is operating.
-
-**(d) Annual Compensation.—**
-
-(1) **In general.—** — Except as provided in paragraph (2), The annual compensation of a person retired under this section shall be a sum equal to one-fortieth of the average annual pay received for the last 3 years of service for each year of active service in the Lighthouse Service, or in a department or branch of the Government having a retirement system, not to exceed thirty-fortieths of such average annual pay received.
-
-(2) **Retirement before 55.—** — The retirement pay computed under paragraph (1) for any officer or employee retiring under this section shall be reduced by one-sixth of 1 percent for each full month the officer or employee is under 55 years of age at the date of retirement.
-
-(3) **No allowance or subsistence.—** — Retirement pay under this section shall not include any amount on account of subsistence or other allowance.
-
-**(e) Exception.—** The retirement and pay provision in this section shall not apply to—
-
-(1) any person in the field service of the Lighthouse Service whose duties do not require substantially all their time; or
-
-(2) persons of the Coast Guard.
-
-**(f) Waiver.—** Any person entitled to retirement pay under this section may decline to accept all or any part of such retirement pay by a waiver signed and filed with the Secretary of the Treasury. Such waiver may be revoked in writing at any time, but no payment of the retirement pay waived shall be made covering the period during which such waiver was in effect.
-
-**(g) Definition.—** For the purposes of this section, the term “covered employee” means an officer or employee engaged in the field service or on vessels of the Lighthouse Service, except a person continuously employed in district offices or shop.
-
-
-<a id="section-2533"></a>
-## § 2533. Surviving spouses
-
-The Secretary of the department in which the Coast Guard is operating shall pay $100 per month to the surviving spouse of a current or former employee of the Lighthouse Service in accordance with section 2532 if such employee dies—
-
-(1) at a time when such employee was receiving or was entitled to receive retirement pay under this subchapter; or
-
-(2) from non-service-connected causes after fifteen or more years of employment in such service.
-
-
-<a id="section-2534"></a>
-## § 2534. Application for benefits
-**(a)** Application for the benefits of section 2533 shall be made in such manner and form as the Civil Service Commission 11 See Transfer of Functions note below. shall prescribe.
-
-**(b)** The Civil Service Commission 1 shall perform, or cause to be performed, such acts, and shall make such rules and regulations, as may be necessary or proper to carry out section 2533.
-
-**(c)** That 22 So in original. annuities authorized by section 2533 may hereafter be paid out of the Civil Service Retirement and Disability Fund.
-
-### Statutory Notes
-
-#### References in Text
-Hereafter, referred to in subsec. (c), was in original language of proviso from Pub. L. 112—74, which was approved Dec. 23, 2011, and which was redesignated as subsec. (c). See Codification note below.
-
-#### Codification
-The text of [section 773 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section773&num=0&edition=prelim), Navigation and Navigable Waters, which was transferred to this section, designated as subsec. (a), and amended by Pub. L. 116–283, § 8511(b)(2)(A), was based on act Aug. 19, 1950, ch. 761, § 3, 64 Stat. 466.
-
-The text of [section 774 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section774&num=0&edition=prelim), which was transferred to this section, designated as subsec. (b), and amended by Pub. L. 116–283, § 8511(b)(3)(A), was based on act Aug. 19, 1950, ch. 761, § 4, 64 Stat. 466.
-
-The text of [section 776 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section776&num=0&edition=prelim), which was transferred to this section, redesignated as subsec. (c), and amended by Pub. L. 116–283, § 8511(b)(4)(A), was based on the proviso in the paragraph under the heading “Payment to Civil Service Retirement and Disability Fund” under the heading “Office of Personnel Management” in title V of div. C of Pub. L. 112—74 (125 Stat. 919).
-
-#### Prior Provisions
-Provisions similar to those in subsec. (c) of this section were contained in the following prior appropriation acts:
-
-Pub. L. 111–117, div. C, title V, Dec. 16, 2009, 123 Stat. 3196.
-
-Pub. L. 111–8, div. D, title V, Mar. 11, 2009, 123 Stat. 670.
-
-Pub. L. 110–161, div. D, title V, Dec. 26, 2007, 121 Stat. 2009.
-
-Pub. L. 109–115, div. A, title VI, Nov. 30, 2005, 119 Stat. 2489.
-
-Pub. L. 108–447, div. H, title IV, Dec. 8, 2004, 118 Stat. 3263.
-
-Pub. L. 108–199, div. F, title IV, Jan. 23, 2004, 118 Stat. 339.
-
-Pub. L. 108–7, div. J, title IV, Feb. 20, 2003, 117 Stat. 459.
-
-Pub. L. 107–67, title IV, Nov. 12, 2001, 115 Stat. 542.
-
-Pub. L. 106–554, § 1(a)(3) [title IV], Dec. 21, 2000, 114 Stat. 2763, 2763A–150.
-
-Pub. L. 106–58, title IV, Sept. 29, 1999, 113 Stat. 463.
-
-Pub. L. 105–277, div. A, § 101(h) [title IV], Oct. 21, 1998, 112 Stat. 2681–480, 2681–509.
-
-Pub. L. 105–61, title IV, Oct. 10, 1997, 111 Stat. 1303.
-
-Pub. L. 104–208, div. A, title I, § 101(f) [title IV], Sept. 30, 1996, 110 Stat. 3009–314, 3009–344.
-
-Pub. L. 104–52, title IV, Nov. 19, 1995, 109 Stat. 489.
-
-Pub. L. 103–329, title IV, Sept. 30, 1994, 108 Stat. 2407.
-
-Pub. L. 103–123, title IV, Oct. 28, 1993, 107 Stat. 1249.
-
-Pub. L. 102–393, title IV, Oct. 6, 1992, 106 Stat. 1756.
-
-Pub. L. 102–141, title IV, Oct. 28, 1991, 105 Stat. 860.
-
-Pub. L. 101–509, title IV, Nov. 5, 1990, 104 Stat. 1421.
-
-Pub. L. 101–136, title IV, Nov. 3, 1989, 103 Stat. 810.
-
-Pub. L. 100–440, title IV, Sept. 22, 1988, 102 Stat. 1745.
-
-Pub. L. 100–202, § 101(m) [title IV], Dec. 22, 1987, 101 Stat. 1329–390, 1329–413.
-
-Pub. L. 99–500, § 101(m) [title IV], Oct. 18, 1986, 100 Stat. 1783–308, 1783–322, and Pub. L. 99–591, § 101(m) [title IV], Oct. 30, 1986, 100 Stat. 3341–308, 3341–322.
-
-Pub. L. 99–190, title I, § 101(h) [H.R. 3036, title IV], Dec. 19, 1985, 99 Stat. 1291.
-
-Pub. L. 98–473, title I, § 101(j) [H.R. 5798, title IV], Oct. 12, 1984, 98 Stat. 1963.
-
-Pub. L. 98–151, § 101(f) [H.R. 4139, title IV], Nov. 14, 1983, 97 Stat. 973.
-
-Pub. L. 97–377, title I, § 101(a) [incorporating H.R. 4121, title IV, for FY 1982], Dec. 21, 1982, 96 Stat. 1830.
-
-Pub. L. 97–92, § 101(a) [H.R. 4121, title IV], Dec. 15, 1981, 95 Stat. 1183.
-
-Pub. L. 96–536, § 101(a) [incorporating Pub. L. 96–74, title IV], Dec. 16, 1980, 94 Stat. 3166.
-
-Pub. L. 96–74, title IV, Sept. 29, 1979, 93 Stat. 571.
-
-Pub. L. 95–429, title IV, Oct. 10, 1978, 92 Stat. 1007.
-
-Pub. L. 95–81, title IV, July 31, 1977, 91 Stat. 347.
-
-Pub. L. 94–363, title IV, July 14, 1976, 90 Stat. 969.
-
-Pub. L. 94–91, title IV, Aug. 9, 1975, 89 Stat. 449.
-
-Pub. L. 93–381, title IV, Aug. 21, 1974, 88 Stat. 620.
-
-Pub. L. 93–143, title IV, Oct. 30, 1973, 87 Stat. 517.
-
-#### Amendments
-2021—Pub. L. 116–283, § 8511(b)(1), inserted section enumerator and catchline after section 2533.
-
-Subsec. (a). Pub. L. 116–283, § 8511(b)(2)(B), substituted “section 2533” for “this Act”.
-
-Pub. L. 116–283, § 8511(b)(2)(A), redesignated section 3 of act Aug. 19, 1950, as subsec. (a) and made technical changes to conform to other sections of this title. See Codification note above.
-
-Subsec. (b). Pub. L. 116–283, § 8511(b)(3)(B), substituted “section 2533” for “the provisions of this Act”.
-
-Pub. L. 116–283, § 8511(b)(3)(A), redesignated section 4 of act Aug. 19, 1950, as subsec. (b) and made technical changes to conform to other sections of this title. See Codification note above.
-
-Subsec. (c). Pub. L. 116–283, § 8511(b)(4)(B), substituted “section 2533” for “the Act of May 29, 1944, and the Act of August 19, 1950 ([33 U.S.C. 771–775](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section771–775&num=0&edition=prelim)),”.
-
-Pub. L. 116–283, § 8511(b)(4)(A), redesignated certain proviso in title V of div. C of Pub. L. 112–74 as subsec. (c) and made technical changes to conform to other sections of this title. See Codification note above.
-
-#### Transfer of Functions
-Reorg. Plan No. 2 of 1978, § 102, 43 F.R. 36037, 92 Stat. 3783, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim), Government Organization and Employees, transferred all functions vested by statute in Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under [section 1101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1101&num=0&edition=prelim).
+Section 2534, added and amended Pub. L. 116–283, div. G, title LVXXXV [LXXXV], § 8511(b), Jan. 1, 2021, 134 Stat. 4758, related to application for section 2533 benefits.

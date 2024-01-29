@@ -120,7 +120,7 @@ The Congress declares that the establishment of a Department of Education is in 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, known as the Department of Education Organization Act, which enacted this chapter, amended sections 928, former 929, 1102, 2390, 2711, and 3012 of this title, [section 19 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section19&num=0&edition=prelim), The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, set out in the Appendix to Title 5, [section 1004 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1004&num=0&edition=prelim), Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacted provisions set out as notes under sections 1102 and 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of this title](./chapter-048-department-of-education.md#section-3401) and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–88, Oct. 17, 1979, 93 Stat. 668, known as the Department of Education Organization Act, which enacted this chapter, amended sections 928, former 929, 1102, 2390, 2711, and 3012 of this title, [section 19 of Title 3](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title3-section19&num=0&edition=prelim), The President, sections 101, 5312, and 5314 to 5316 of Title 5, Government Organization and Employees, sections 2, 9, and 11 of the Inspector General Act of 1978, formerly set out in the Appendix to Title 5 (see [5 U.S.C. 402](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section402&num=0&edition=prelim), 422, 424), [section 1004 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1004&num=0&edition=prelim), Food and Drugs, and sections 761b, 794c, 821, 829, 873, 879, 882, 914, and 952 of Title 29, Labor, and enacted provisions set out as notes under sections 1102 and 3401 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of this title](./chapter-048-department-of-education.md#section-3401) and Tables.
 
 
 <a id="section-3403"></a>
@@ -191,7 +191,7 @@ Ex. Ord. No. 12900, Feb. 22, 1994, 59 F.R. 9061, which established in the Depart
 Ex. Ord. No. 13230, Oct. 12, 2001, 66 F.R. 52841, which established in the Department of Education the President’s Advisory Commission on Educational Excellence for Hispanic Americans and the White House Initiative on Educational Excellence for Hispanic Americans, set forth reporting requirements, and required cooperation by executive departments and agencies, was revoked by Ex. Ord. No. 13555, § 4(a), Oct. 19, 2010, 75 F.R. 65420, formerly set out below.
 
 #### Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans
-Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Commission on Educational Excellence for Hispanic Americans extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of President’s Advisory Commission on Educational Excellence for Hispanic Americans were contained in the following prior Executive Orders:
 
@@ -205,7 +205,7 @@ Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, extended term until Sept. 30,
 Ex. Ord. No. 13555, Oct. 19, 2010, 75 F.R. 65417, which established the White House Initiative on Educational Excellence for Hispanics and the President’s Advisory Commission on Educational Excellence for Hispanics in the Department of Education and established the Federal Interagency Working Group on Educational Excellence for Hispanics, was superseded by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
 
 #### Extension of Term of President’s Advisory Commission on Educational Excellence for Hispanics
-Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, § 1(u), Sept. 27, 2019, 84 F.R. 52744, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees. Section 1(u) of Ex. Ord. No. 13889 was superseded by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
+Term of President’s Advisory Commission on Educational Excellence for Hispanics extended until Sept. 30, 2021, by Ex. Ord. No. 13889, § 1(u), Sept. 27, 2019, 84 F.R. 52744, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees. Section 1(u) of Ex. Ord. No. 13889 was superseded by Ex. Ord. No. 13935, § 4(a), July 9, 2020, 85 F.R. 42685, formerly set out below.
 
 Previous extensions of term of President’s Advisory Commission on Educational Excellence for Hispanics were contained in the following prior Executive Orders:
 
@@ -221,7 +221,7 @@ Ex. Ord. No. 13634, Dec. 21, 2012, 77 F.R. 77249, reestablished Commission and e
 Ex. Ord. No. 13621, July 26, 2012, 77 F.R. 45471, which established the White House Initiative on Educational Excellence for African Americans, the Federal Interagency Working Group on Educational Excellence for African Americans, and the President’s Advisory Commission on Educational Excellence for African Americans, was superseded by Ex. Ord. No. 14050, § 4(a), Oct. 19, 2021, 86 F.R. 58556, set out below.
 
 #### Extension of Term of President’s Advisory Commission on Educational Excellence for African Americans
-Term of President’s Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of President’s Advisory Commission on Educational Excellence for African Americans extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 Previous extensions of term of President’s Advisory Commission on Educational Excellence for African Americans were contained in the following prior Executive Orders:
 
@@ -406,7 +406,7 @@ Sec. 3. Presidential Advisory Commission. (a) There is established in the Depart
 
 (ii) The Commission shall meet on a regular basis, and at least twice a year.
 
-(e) The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the administration of the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
+(e) The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], may apply to the administration of the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
 
 (f) The Commission shall terminate 2 years from the date of this order [Sept. 13, 2021], unless extended by the President.
 
@@ -429,7 +429,11 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 J.R. Biden, Jr.
 
 #### Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics
-Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics extended until Sept. 30, 2023, by Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
+
+Previous extension of term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics was contained in the following prior Executive Order:
+
+Ex. Ord. No. 14048, Sept. 30, 2021, 86 F.R. 55465, extended term until Sept. 30, 2023.
 
 #### Ex. Ord. No. 14050. White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans
 Ex. Ord. No. 14050, Oct. 19, 2021, 86 F.R. 58551, provided:
@@ -594,7 +598,7 @@ Sec. 3. Presidential Advisory Commission. (a) There is established in the Depart
 
 (ii) The Commission shall meet on a regular basis, and at least twice a year.
 
-(e) The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.), may apply to the administration of the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
+(e) The Department shall provide funding and administrative support for the Commission, to the extent permitted by law and within existing appropriations. Members of the Commission shall serve without compensation but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government service ([5 U.S.C. 5701–570](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5701–570&num=0&edition=prelim)7). Insofar as the Federal Advisory Committee Act, as amended ([former] 5 U.S.C. App.) [see [5 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1001&num=0&edition=prelim) et seq.], may apply to the administration of the Commission, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary, in accordance with guidelines issued by the Administrator of General Services.
 
 (f) The Commission shall terminate 2 years from the date of this order [Oct. 19, 2021], unless extended by the President.
 
@@ -615,6 +619,9 @@ Sec. 5. General Provisions. (a) Nothing in this order shall be construed to impa
 (c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 J.R. Biden, Jr.
+
+#### Extension of Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans
+Term of Presidential Advisory Commission on Advancing Educational Equity, Excellence, and Economic Opportunity for Black Americans extended until Sept. 30, 2025, by Ex. Ord. No. 14109, Sept. 29, 2023, 88 F.R. 68447, set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Creating and Expanding Ladders of Opportunity for Boys and Young Men of Color
 Memorandum of President of the United States, Feb. 27, 2014, 79 F.R. 12923, as amended by Memorandum of President of the United States, § 1, Jan. 13, 2017, 82 F.R. 7623, provided:
@@ -760,7 +767,7 @@ Barack Obama.
 
 (4) There shall be in the Department a Director of the Institute of Education Sciences who shall be appointed in accordance with section 114(a) of the Education Sciences Reform Act of 2002 [[20 U.S.C. 9514(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section9514/a&num=0&edition=prelim)] and perform the duties described in that Act [[20 U.S.C. 9501](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) et seq.].
 
-**(c) Inspector General** There shall be in the Department an Inspector General appointed in accordance with the Inspector General Act of 1978.
+**(c) Inspector General** There shall be in the Department an Inspector General appointed in accordance with chapter 4 of title 5.
 
 **(d) Under Secretary of Education** There may be in the Department an Under Secretary of Education who shall perform such functions as the Secretary may prescribe. The Under Secretary shall be appointed by the President, by and with the advice and consent of the Senate.
 
@@ -813,9 +820,9 @@ Barack Obama.
 #### References in Text
 The Education Sciences Reform Act of 2002, referred to in subsec. (b)(4), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§ 9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9501 of this title](./chapter-076-education-research-statistics-evaluation-information-and-dissemination.md#section-9501) and Tables.
 
-The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
+
 2014—Subsec. (b)(1)(C). Pub. L. 113–76, § 307(b)(1), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”.
 
 Subsec. (h). Pub. L. 113–76, § 307(b)(2), substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education” in two places.
@@ -1010,15 +1017,15 @@ A prior section 210 of Pub. L. 96–88 was renumbered section 209 and is classif
 <a id="section-3422"></a>
 ## § 3422. Office of Inspector General
 
-There shall be in the Department an Office of Inspector General, established in accordance with the Inspector General Act of 1978.
+There shall be in the Department an Office of Inspector General, established in accordance with chapter 4 of title 5.
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Prior Provisions
 A prior section 211 of Pub. L. 96–88 was renumbered section 210 and is classified to [section 3421 of this title](./chapter-048-department-of-education.md#section-3421).
+
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978.”
 
 
 <a id="section-3423"></a>
@@ -1207,7 +1214,7 @@ The Office of Educational Research and Improvement was established by [section 3
 ### Statutory Notes
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-3425"></a>
@@ -1701,6 +1708,8 @@ Except as otherwise provided in this chapter, the Secretary may delegate any fun
 1980—Subsec. (b)(1). Pub. L. 96–496 redesignated subpar. (N) as (M) and struck out former subpar. (M), which authorized the Secretary to reallocate the functions or to alter or discontinue the Institute of Museum Services.
 
 #### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 #### Effective Date of 2002 Amendment
@@ -1866,7 +1875,7 @@ There is hereby established in the Treasury of the United States a fund to be kn
 This Act, referred to in text, is div. H of Pub. L. 116–260, Dec. 27, 2020, 134 Stat. 1547, known as the Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Act, 2021. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
-Section was enacted as part of the Department of Education Appropriations Act, 2021, and not as part of the Higher Education Act of 1965 which comprises this chapter.
+Section was enacted as part of the Department of Education Appropriations Act, 2021, and not as part of the Department of Education Organization Act which comprises this chapter.
 
 
 <a id="section-3484"></a>
@@ -1969,7 +1978,7 @@ The Education Amendments of 1978, referred to in par. (5), is Pub. L. 95–561, 
 
 The Education Amendments of 1980, referred to in par. (5), is Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367. Part H of title XIII of the Education Amendments of 1980, Pub. L. 96–374, title XIII, §§ 1371–1373, 1376, 1377, 1381–1383, Oct. 3, 1980, 94 Stat. 1502, 1503, is not classified to the Code. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 1001 of this title](./chapter-028-higher-education-resources-and-student-assistance.md#section-1001) and Tables.
 
-The Adult Education Act, referred to in par. (6), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, as which was classified generally to chapter 30 (§ 1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, § 251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
+The Adult Education Act, referred to in par. (6), was title III of Pub. L. 89–750, Nov. 3, 1966, 80 Stat. 1216, which was classified generally to chapter 30 (§ 1201 et seq.) of this title, prior to repeal by Pub. L. 105–220, title II, § 251(a)(1), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
 
 The Asbestos School Hazards Detection and Control Act, referred to in par. (8), is Pub. L. 96–270, June 14, 1980, 94 Stat. 487, which is classified generally to chapter 49 (§ 3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 3601 of this title](./chapter-049-asbestos-school-hazard-detection-and-control.md#section-3601) and Tables.
 

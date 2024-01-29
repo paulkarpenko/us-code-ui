@@ -2869,6 +2869,12 @@ Subsec. (a)(2), (3), (5) ceases to be effective on date that notice of completio
 
 **(t) Exemption for bank holding companies** This section shall not apply to a bank holding company that is subject to the Bank Holding Company Act of 1956 [[12 U.S.C. 1841](./chapter-017-bank-holding-companies.md#section-1841) et seq.], or any company controlled by such bank holding company.
 
+**(u) Data standards**
+
+(1) **Requirement** — The Board shall adopt data standards for all information that, through a collection of information, is regularly filed with or submitted to the Board by any savings and loan holding company, or subsidiary of a savings and loan holding company, other than a depository institution, under this section.
+
+(2) **Consistency** — The data standards required under paragraph (1) shall incorporate, and ensure compatibility with (to the extent feasible), all applicable data standards established in the rules promulgated under [section 5334 of this title](./chapter-053-wall-street-reform-and-consumer-protection.md#section-5334), including, to the extent practicable, by having the characteristics described in clauses (i) through (vi) of subsection (c)(1)(B) of such section 5334.
+
 ### Statutory Notes
 
 #### References in Text
@@ -2890,6 +2896,8 @@ The National Bank Act, referred to in subsec. (s)(5), is act June 3, 1864, ch. 1
 The directory language of sections 905(j) and 907(k) of Pub. L. 101–73 amending subsec. (i) of this section resulted in the enactment of two virtually identical pars. (2) and (3) both relating to civil money penalties and a par. (5) identical to former par. (4). See 1989 Amendment notes below.
 
 #### Amendments
+2022—Subsec. (u). Pub. L. 117–263 added subsec. (u).
+
 2010—Subsec. (a)(1)(A). Pub. L. 111–203, § 369(8)(A), substituted “appropriate Federal banking agency” for “Director”.
 
 Subsec. (a)(1)(D)(ii). Pub. L. 111–203, § 604(i), amended cl. (ii) generally. Prior to amendment, text read as follows: “The term ‘savings and loan holding company’ does not include a bank holding company that is registered under, and subject to, the Bank Holding Company Act of 1956, or to any company directly or indirectly controlled by such company (other than a savings association).”
@@ -3153,6 +3161,9 @@ Amendment by section 907(k) of Pub. L. 101–73 applicable to conduct engaged in
 
 #### Savings Provision
 Pub. L. 101–73, title III, § 302, Aug. 9, 1989, 103 Stat. 343, as amended by Pub. L. 111–203, title III, § 367(2), July 21, 2010, 124 Stat. 1556, provided that: “Notwithstanding the amendment made by this title to section 10 of the Home Owners’ Loan Act [[12 U.S.C. 1467a](./chapter-012-savings-associations.md#section-1467a)] and the repeal of section 416 of the National Housing Act [[12 U.S.C. 1730i](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1730i&num=0&edition=prelim)]— “(1) any plan approved by the Federal Home Loan Bank Board under such section 10 for any Federal savings association shall continue in effect as long as such association adheres to the plan and continues to submit to the Comptroller of the Currency regular and complete reports on the association’s progress in meeting the association’s goals under the plan; and “(2) any plan approved by the Federal Savings and Loan Insurance Corporation under such section 416 for any State savings association shall continue in effect as long as such association adheres to the plan and continues to submit to the Federal Deposit Insurance Corporation regular and complete reports on the association’s progress in meeting the savings association’s goals under the plan.”
+
+#### Rule of Construction Regarding No New Disclosure Requirements
+Amendment by Pub. L. 117–263 not to be construed to require certain additional information to be collected or disclosed, see section 5864 of Pub. L. 117–263, set out as a note under [section 253 of this title](./chapter-003-federal-reserve-system.md#section-253).
 
 #### Rule of Construction for Certain Applications
 Pub. L. 106–102, title IV, § 401(c), Nov. 12, 1999, 113 Stat. 1436, provided that: “(1) In general.—In the case of a company that—“(A) submits an application with the Director of the Office of Thrift Supervision before the date of the enactment of this Act [Nov. 12, 1999] to convert a State-chartered trust company controlled by such company on May 4, 1999, to a savings association; and “(B) controlled a subsidiary on May 4, 1999, that had submitted an application to the Director on September 2, 1998; the company (including any subsidiary controlled by such company as of such date of enactment [Nov. 12, 1999]) shall be treated as having filed such conversion application with the Director before May 4, 1999, for purposes of section 10(c)(9)(C) of the Home Owners’ Loan Act [[12 U.S.C. 1467a(c)(9)(C)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1467a/c/9/C&num=0&edition=prelim)] (as added by subsection (a)). “(2) Definitions.—For purposes of paragraph (1), the terms ‘company’, ‘control’, ‘savings association’, and ‘subsidiary’ have the meanings given those terms in section 10 of the Home Owners’ Loan Act.”

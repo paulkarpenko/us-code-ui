@@ -762,10 +762,23 @@ Pub. L. 107–314, div. A, title V, § 512(e), Dec. 2, 2002, 116 Stat. 2537, pro
 
 **(b) Duties.—** A member of the National Guard performing duty under subsection (a) may perform the additional duties specified in [section 502(f)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f/2&num=0&edition=prelim) to the extent that the performance of those duties does not interfere with the performance of the member’s primary Active Guard and Reserve duties of organizing, administering, recruiting, instructing, and training the reserve components.
 
+**(c) Waiver Authority.—**
+
+(1) Notwithstanding [section 101(d)(6)(A) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/d/6/A&num=0&edition=prelim) and subsection (b) of this section, the Governor of a State or the Commonwealth of Puerto Rico, Guam, or the Virgin Islands, or the commanding general of the District of Columbia National Guard, as the case may be, may, at the request of the Secretary concerned, order a member of the National Guard to perform Active Guard and Reserve duty for purposes of performing training of the regular components of the armed forces as the primary duty.
+
+(2) Training performed under paragraph (1) must be in compliance with the requirements of [section 502(f)(2)(B)(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title32-section502/f/2/B/i&num=0&edition=prelim).
+
+(3) No more than 100 personnel may be granted a waiver by a Secretary concerned under paragraph (1) at a time.
+
+(4) The authority under paragraph (1) shall terminate on October 1, 2024.
+
 ### Statutory Notes
 
 #### Prior Provisions
 A prior section 328, act Aug. 10, 1956, ch. 1041, 70A Stat. 608, related to special courts-martial of the National Guard not in Federal service, prior to repeal by Pub. L. 107–314, div. A, title V, § 512(c), Dec. 2, 2002, 116 Stat. 2537, applicable with respect to courts-martial convened after Dec. 2, 2002.
+
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–263 added subsec. (c).
 
 
 <a id="section-329"></a>

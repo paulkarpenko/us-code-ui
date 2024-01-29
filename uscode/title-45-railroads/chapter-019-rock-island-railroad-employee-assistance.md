@@ -48,7 +48,7 @@ As used in this chapter, the term—
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, as amended, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
 
 #### Amendments
 1980—Par. (5). Pub. L. 96–448 inserted “, the estate of such Company in its reorganization proceeding, or the trustee appointed in such proceeding” after “Railroad Company”. The amendment was executed by inserting amendatory text preceding the semicolon instead of the period at end of par. (5) as directed to reflect the probable intent of Congress, in view of par. (5) being enacted without a closing period.
@@ -196,9 +196,9 @@ Repeal effective Aug. 13, 1981, see section 1169 of Pub. L. 97–35, set out as 
 ### Statutory Notes
 
 #### References in Text
-The Bankruptcy Act, referred to in subsecs. (a) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+The Bankruptcy Act, referred to in subsecs. (a) and (b), is act July 1, 1898, ch. 541, 30 Stat. 544, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, as amended, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
 
 #### Amendments
 1983—Subsec. (a). Pub. L. 97–468, § 232(1), substituted “entered into or benefit schedule prescribed” for “or arrangement entered into”.
@@ -241,9 +241,9 @@ The provisions of the National Environmental Policy Act [[42 U.S.C. 4321](https:
 ### Statutory Notes
 
 #### References in Text
-The National Environmental Policy Act, referred to in text, probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
+The National Environmental Policy Act, referred to in text, probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, which is classified generally to chapter 55 (§ 4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 4321 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4321&num=0&edition=prelim) and Tables.
 
-This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, as amended, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
 
 
 <a id="section-1011"></a>
@@ -255,7 +255,7 @@ This chapter, referred to in text, was in the original “this title”, meaning
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, as amended, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
+This chapter, referred to in text, was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
 
 
 <a id="section-1012"></a>
@@ -344,7 +344,7 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 ### Statutory Notes
 
 #### References in Text
-Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
+Section 77 of the Bankruptcy Act, referred to in subsec. (a), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§ 401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§ 1161 et seq.) of chapter 11 of Title 11.
 
 #### Amendments
 1983—Subsec. (a). Pub. L. 97–468, § 214(a), substituted “a carrier which, on January 14, 1983, was the subject of a proceeding pending under section 77 of the Bankruptcy Act or under subchapter IV of chapter 11 of title 11” for “the Rock Island Railroad or the Milwaukee Railroad”, and in last sentence substituted “any such carrier which has been ordered by the court having jurisdiction over such a carrier to liquidate its properties until the disposition of the properties of the estate of such carrier” for “the Rock Island Railroad until the disposition of the properties of the estate of the Rock Island Railroad”.
@@ -376,9 +376,9 @@ shall be taken to the United States Court of Appeals for the Seventh Circuit.
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a)(1) and (c), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, as amended, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
+This chapter, referred to in subsecs. (a)(1) and (c), was in the original “this title”, meaning title I (§ 101 et seq.) of Pub. L. 96–254, May 30, 1980, 94 Stat. 399, known as the Rock Island Railroad Transition and Employee Assistance Act, which is classified principally to this chapter. For complete classification of title I to the Code, see Short Title note set out under [section 1001 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1001) and Tables.
 
-The Milwaukee Railroad Restructuring Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, as amended, which is classified principally to chapter 18 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title](./chapter-018-milwaukee-railroad-restructuring.md#section-901) and Tables.
+The Milwaukee Railroad Restructuring Act, referred to in subsecs. (a)(2) and (c), is Pub. L. 96–101, Nov. 4, 1979, 93 Stat. 736, which is classified principally to chapter 18 (§ 901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 901 of this title](./chapter-018-milwaukee-railroad-restructuring.md#section-901) and Tables.
 
 [Section 1008 of this title](./chapter-019-rock-island-railroad-employee-assistance.md#section-1008), referred to in subsec. (b), was repealed by Pub. L. 97–468, title II, § 234(a), Jan. 14, 1983, 96 Stat. 2547.
 

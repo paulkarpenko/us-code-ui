@@ -533,7 +533,7 @@ Subsec. (c). Pub. L. 99–234 added subsec. (c).
 1975—Pub. L. 94–22 inserted “and reports” in section catchline, designated existing provisions as subsec. (a), substituted “Administrator of General Services” for “Director of the Bureau of the Budget”, struck out provision for fixing, payment, advancement and recovery of travel allowances and expenses in accordance with the regulations and provision for the non-applicability of this section to per diem allowances under section 5703(c), and inserted provision for regulations for travel by employees of the judicial branch of the Government by the Director of the Administrative Office of the United States Courts, and added subsec. (b).
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1986 Amendment
 Amendment by Pub. L. 99–234 effective (1) on effective date of regulations to be promulgated not later than 150 days after Jan. 2, 1986, or (2) 180 days after Jan. 2, 1986, whichever occurs first, see section 301(a) of Pub. L. 99–234, set out as a note under [section 5701 of this title](./chapter-057-travel-transportation-and-subsistence.md#section-5701).
@@ -790,7 +790,7 @@ Subsec. (g). Pub. L. 116–283, § 1112(a)(3), substituted “subsection (b)” 
 2018—Subsec. (g). Pub. L. 115–232 substituted “on December 31, 2020” for “7 years after the date of the enactment of the Telework Enhancement Act of 2010”.
 
 #### Change of Name
-Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 2018 Amendment
 Pub. L. 115–232, div. A, title XI, § 1105(b), Aug. 13, 2018, 132 Stat. 2001, provided that: “The amendment made by subsection (a) [amending this section] shall take effect as though enacted on December 1, 2017.”
@@ -1460,7 +1460,7 @@ because of military or other reasons which create imminent danger to life or pro
 
   (A) the head of the agency shall by regulation prescribe; and
 
-  (B) shall, to the extent practicable, be the same as would apply under regulations prescribed under section 476(b)(1)(H)(iii) 11 See References in Text note below. of title 37 in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
+  (B) shall, to the extent practicable, be the same as would apply under regulations prescribed under subsections (c) and (d) of [section 453 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section453&num=0&edition=prelim) in connection with the transport of family household pets of members of the uniformed services, including regulations relating to the types, size, and number of pets for which such payment or reimbursement may be provided.
 
 ### Statutory Notes
 
@@ -1473,10 +1473,9 @@ The word “employee” is substituted for “civilian officers and employees”
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### References in Text
-[Section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), referred to in subsec. (c)(2)(B), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+2022—Subsec. (c)(2)(B). Pub. L. 117–263 substituted “subsections (c) and (d) of section 453” for “section 476(b)(1)(H)(iii)”.
+
 2013—Subsec. (a). Pub. L. 112–239, § 1106(1), substituted “, personal effects, and family household pets,” for “and personal effects,” in concluding provisions.
 
 Subsec. (c). Pub. L. 112–239, § 1106(2), added subsec. (c).
@@ -2036,7 +2035,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
         (aa) in an overseas location that, at the time such employee was performing such official duties, was within the area of responsibility of the Commander of the United States Central Command; and
 
-        (bb) in direct support of or directly related to a military operation, including a contingency operation (as defined in [section 101(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/13&num=0&edition=prelim)) or an operation in response to an emergency declared by the President; and
+        (bb) in direct support of or directly related to a military operation, including a contingency operation (as defined in section 101(13) 11 See References in Text note below. of title 10) or an operation in response to an emergency declared by the President; and
 
       (II) the employee’s dependents were residing either outside the continental United States or within the continental United States when the employee died; and
 
@@ -2068,6 +2067,9 @@ The words “a military department” are included to preserve the application o
 Subsection (b) is restated for clarity and conciseness and to eliminate redundancy. In paragraphs (1) and (2), the words “outside the United States” are coextensive with and substituted for “in a Territory or possession of the United States or in a foreign country”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+[Section 101 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101&num=0&edition=prelim), referred to in subsec. (b)(2)(B)(ii)(I)(bb), was subsequently amended, and the term “contingency operation” is now defined in [section 101(a)(13) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/13&num=0&edition=prelim).
 
 #### Amendments
 2008—Subsec. (b)(2). Pub. L. 110–181 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “the expense of transporting his dependents, including expenses of packing, crating, draying, and transporting household effects and other personal property to his former home or such other place as is determined by the head of the agency concerned, if death occurred while the employee was performing official duties outside the continental United States or in transit thereto or therefrom; and”.
@@ -2212,6 +2214,10 @@ Pub. L. 108–411, title I, § 101(d), Oct. 30, 2004, 118 Stat. 2310, provided t
 
 #### Incentives for Critical Posts
 Pub. L. 111–32, title XI, § 1115(d), June 24, 2009, 123 Stat. 1906, as amended by Pub. L. 117–81, div. E, title LIII, § 5315, Dec. 27, 2021, 135 Stat. 2366, provided that: “Notwithstanding sections 5753(a)(2)(A) and 5754(a)(2)(A) of title 5, United States Code, appropriations made available by this or any other Act may be used to pay recruitment, relocation, and retention bonuses under chapter 57 of title 5, United States Code[,] to members of the Foreign Service, other than chiefs of mission and ambassadors at large, who are on official duty in Iraq, Afghanistan, or Pakistan.”
+
+[Pub. L. 118–47, div. F, title VII, § 7034(k)(1), Mar. 23, 2024, 138 Stat. 791, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2024.” ]
+
+[Pub. L. 117–328, div. K, title VII, § 7034(l)(1), Dec. 29, 2022, 136 Stat. 5032, provided that: “The authority contained in section 1115(d) of the Supplemental Appropriations Act, 2009 (Public Law 111–32) [set out above] shall remain in effect through September 30, 2023.” ]
 
 
 <a id="section-5754"></a>
@@ -2487,15 +2493,15 @@ Subsec. (d). Pub. L. 111–259, § 443(4), substituted “bonus paid under this 
 
 (2) is repatriated to a site inside or outside the United States.
 
-**(c) Eligible Family Members.—** In this section, the term “family member” has the meaning given the term in section 481h(b) 11 See References in Text note below. of title 37.
+**(c) Eligible Family Members.—** In this section, the term “family member” has the meaning given the term in [section 451(a) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section451/a&num=0&edition=prelim).
 
 **(d) Travel and Transportation Authorized.—**
 
 (1) The transportation authorized by subsection (a) is round-trip transportation between the home of the family member (or home of the attendant or person provided transportation under paragraph (2) or (3) of subsection (a), as the case may be) and the location of the repatriation site at which the employee is located.
 
-(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under section 474(d) 1 of title 37.
+(2) In addition to the transportation authorized by subsection (a), the head of an agency may provide a per diem allowance or reimbursement for the actual and necessary expenses of the travel, or a combination thereof, but not to exceed the rates established for such allowances and expenses under [section 464 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section464&num=0&edition=prelim).
 
-(3) The transportation authorized by subsection (a) may be provided by any of the means described in section 481h(d)(1) 1 of title 37.
+(3) The transportation authorized by subsection (a) may be provided by any of the means described in [section 452(d) of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452/d&num=0&edition=prelim).
 
 (4) An allowance under this subsection may be paid in advance.
 
@@ -2503,12 +2509,13 @@ Subsec. (d). Pub. L. 111–259, § 443(4), substituted “bonus paid under this 
 
 ### Statutory Notes
 
-#### References in Text
-[Section 481h of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section481h&num=0&edition=prelim), referred to in subsecs. (c) and (d)(3), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
-[Section 474 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section474&num=0&edition=prelim), referred to in subsec. (d)(2), was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–263, § 626(b)(3)(A), substituted “section 451(a)” for “section 481h(b)”.
+
+Subsec. (d)(2). Pub. L. 117–263, § 626(b)(3)(B)(i), substituted “section 464” for “section 474(d)”.
+
+Subsec. (d)(3). Pub. L. 117–263, § 626(b)(3)(B)(ii), substituted “section 452(d)” for “section 481h(d)(1)”.
+
 2013—Subsecs. (c), (d)(2), (3). Pub. L. 112–239, § 1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, § 631(f)(4)(B). See 2011 Amendment note below.
 
 2011—Subsecs. (c), (d)(2), (3). Pub. L. 112–81, § 631(f)(4)(B), as amended by Pub. L. 112–239, § 1076(a)(9), substituted “481h(b)” for “411h(b)” in subsec. (c), “474(d)” for “404(d)” in subsec. (d)(2), and “481h(d)(1)” for “411h(d)(1)” in subsec. (d)(3).

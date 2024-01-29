@@ -2,7 +2,7 @@
 title: 16
 chapter: 5A
 heading: PROTECTION AND CONSERVATION OF WILDLIFE
-section_count: 39
+section_count: 40
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16&num=0&edition=prelim
 ---
@@ -23,6 +23,9 @@ This Act, referred to in text, is act Mar. 10, 1934, ch. 55, 48 Stat. 401, known
 1958—Pub. L. 85–624 inserted provisions which relate to recognition of the vital contribution of wildlife resources to the Nation, the increasing public interest and significance thereof, and to equal consideration and coordination of wildlife conservation with other water-resources development programs, and which authorize the Secretary to provide public fishing areas, and to accept donations of lands and contributions of funds.
 
 1946—Act Aug. 14, 1946, amended section generally in order to promote more effectual planning and cooperation between Federal, State, public, and private agencies for the conservation and rehabilitation of wildlife.
+
+#### Short Title of 2022 Amendment
+Section 1 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996, provided that: “This Act [probably means H.R. 5608 as enacted into law by Pub. L. 117–328, enacting [section 667i of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-667i), amending [section 8302 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8302&num=0&edition=prelim), Agriculture, and enacting provisions set out as a note under [section 667i of this title](./chapter-5a-protection-and-conservation-of-wildlife.md#section-667i)] may be cited as the ‘Chronic Wasting Disease Research and Management Act’.”
 
 #### Short Title
 Pub. L. 85–624, § 1, Aug. 12, 1958, 72 Stat. 563, provided: “That the Act of March 10, 1934, as amended [sections 661 to 666c–1 of this title], and as further amended by this Act may be cited as the ‘Fish and Wildlife Coordination Act’.”
@@ -657,7 +660,7 @@ Section was formerly classified to [section 449 of Title 7](https://uscode.house
 
 
 <a id="section-667h"></a>
-## § 667h. Chronic wasting disease task force
+## § 667h. Chronic Wasting Disease Task Force
 **(a) Definitions** In this section:
 
 (1) **Cervid** — The term “cervid” means any species within the family Cervidae.
@@ -843,6 +846,110 @@ Section was formerly classified to [section 449 of Title 7](https://uscode.house
 (2) for fiscal year 2021, $1,200,000 to the Secretary of the Interior, acting through the Director of the United States Geological Survey, to carry out activities to fund research under subsection (c); and
 
 (3) for fiscal year 2021, $1,200,000 to the Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, to carry out activities to fund research under subsection (c).
+
+
+<a id="section-667i"></a>
+## § 667i. Chronic wasting disease research and management program
+**(a) Research program**
+
+(1) **In general** — Not later than 90 days after the date on which funds are made available to carry out this section, the Secretary of Agriculture shall establish a program under which the Secretary shall offer to enter into cooperative agreements or other legal instruments, as authorized under 11 So in original. Probably should be followed by “section”. 8312 of title 7, with eligible entities to conduct research on the transmission of, resistance to, and diagnosis of chronic wasting disease.
+
+(2) **Criteria for selection** — In entering into cooperative agreements or other legal instruments pursuant to paragraph (1), the Secretary shall give priority to eligible entities that shall conduct research relating to—
+
+  (A)
+
+    (i) methods and products to effectively detect infectious chronic wasting disease prions in live cervids, cervid excreta, the environment, and inorganic surfaces, and to decontaminate such infectious prions; or
+
+    (ii) testing methods that significantly improve sensitivity and accelerate timelines for test results on non-live cervids;
+
+  (B) the long-term suppression or eradication of chronic wasting disease; or 22 So in original.
+
+  (C) determination markers for genetic resistance to chronic wasting disease and strategies for using genetic resistance to combat the spread of the disease;
+
+  (D) sustainable cervid harvest management practices to reduce chronic wasting disease occurrence and to prevent or limit spatial spread of chronic wasting disease; or
+
+  (E) factors contributing to local emergence of chronic wasting disease, increased prevalence of chronic wasting disease, and distribution of chronic wasting disease, including mechanisms of disease transmission and effective barriers to transmission.
+
+(3) **Size of awards** — To the maximum extent practicable, individual cooperative agreements or other legal instruments entered into under paragraph (1) shall be not less than two percent and not more than 10 percent of the funds appropriated to carry out this section.
+
+(4) **Administrative costs by eligible entities** — Of the amount of a cooperative agreement or other legal instrument entered into with an eligible entity under paragraph (1), the eligible entity may use not more than 10 percent of such amounts for administrative costs incurred by the eligible entity in carrying out the research described in such paragraph.
+
+**(b) Support for State efforts to manage and control chronic wasting disease**
+
+(1) **In general** — Subject to the availability of appropriations, the Secretary shall offer to enter into cooperative agreements or other legal instruments, as authorized under [section 8312 of title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section8312&num=0&edition=prelim), with State or Tribal wildlife agencies and departments of agriculture to provide direct financial assistance to support the efforts of such State or Tribal wildlife agencies and departments of agriculture to develop and implement management strategies to address chronic wasting disease within their respective jurisdiction.
+
+(2) **Application** — A State or Tribal wildlife agency or department of agriculture seeking direct financial assistance under this subsection shall submit to the Secretary an application at such time and manner, and containing such information as the Secretary may require.
+
+(3) **Funding priorities** — In allocating funds made available to carry out this subsection for a fiscal year among State and Tribal wildlife agencies or departments of agriculture that submit an application for direct financial assistance under this subsection, the Secretary shall give priority to States and Indian tribes that have—
+
+  (A) within their respective jurisdictions, the highest incidence of chronic wasting disease;
+
+  (B) shown the greatest financial commitment to managing, monitoring, surveying, and researching chronic wasting disease;
+
+  (C) comprehensive policies and programs focused on chronic wasting disease management that have integrated the programs and policies of all involved agencies related to chronic wasting disease management;
+
+  (D) the greatest risk of an initial occurrence of chronic wasting disease originating from surrounding areas; or
+
+  (E) the greatest need for response to new outbreaks of chronic wasting disease occurring in—
+
+    (i) areas in which chronic wasting disease is already found; or
+
+    (ii) areas with first infections, with the intent of containing chronic wasting disease in any new area of infection.
+
+(4) **Rapid response** — If a State or Indian tribe detects chronic wasting disease in a cervid population within its jurisdiction that was not previously infected, the Secretary may, notwithstanding paragraphs (2) and (3), immediately issue funds made available under subsection (e), in an amount to be determined by the Secretary, to support State and Tribal efforts to immediately control the spread of chronic wasting disease within that population.
+
+(5) **Public education on chronic wasting disease** — The Secretary, in consultation with State and Tribal departments of agriculture and wildlife agencies, organizations representing the farmed cervid industry, and organizations representing deer hunters, shall develop and maintain materials based on the latest scientific knowledge to be used to educate the public on chronic wasting disease and techniques to help prevent the spread of the disease.
+
+**(c) Definitions** In this section:
+
+(1) **Chronic wasting disease** — The term “chronic wasting disease” means the animal disease afflicting deer, elk, and moose populations that—
+
+  (A) is a transmissible disease of the nervous system resulting in distinctive lesions in the brain; and
+
+  (B) belongs to the group of diseases known as transmissible spongiform encephalopathies, which includes scrapie, bovine spongiform encephalopathy, and Cruetzfeldt-Jakob disease.
+
+(2) **Eligible entity** — The term “eligible entity” means—
+
+  (A) a State or Tribal department of agriculture;
+
+  (B) a State or Tribal wildlife agency;
+
+  (C) a Tribal research facility;
+
+  (D) an institution of higher education (as defined in [section 1001 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)); and
+
+  (E) a research center conducting or qualified to conduct scientific research on chronic wasting disease.
+
+**(d) Review of herd certification program standards** Not later than 18 months after the date of the enactment of this Act, the Secretary shall publish a notice in the Federal Register soliciting public feedback on potential updates and improvements to the chronic wasting disease herd certification program standards with special consideration given to—
+
+(1) minimizing or eliminating the interaction of captive and wild deer;
+
+(2) reviewing and updating indemnity practices, including the use of live testing, to ensure the timely and targeted removal of chronic wasting disease positive deer from the landscape; and
+
+(3) increasing participation in the herd certification program.
+
+**(e) Authorization of appropriations**
+
+(1) **In general** — There is authorized to be appropriated to the Secretary to carry out this section $70,000,000 for each of fiscal years 2022 through fiscal year 2028, to remain available until expended.
+
+(2) **Allocation among programs** — To the extent practicable, the Secretary shall allocate the funds made available under paragraph (1) evenly between the research program under subsection (a) and the management program under subsection (b).
+
+(3) **Set-aside for wildlife agencies** — The Secretary shall ensure that, of the funds made available and allocated to carry out subsection (b), not less than 75 percent of such funds are made available to State or Tribal wildlife agencies.
+
+**(f) Administrative costs** Of the funds made available under subsection (e) for a fiscal year to carry out this section, the Secretary may use not more than 10 percent of such funds for administrative costs incurred by the Secretary in carrying out this section.
+
+**(g) Rule of construction** Nothing in this section shall be construed as interfering with, or otherwise affecting, the authority of the Federal Government or States to manage wildlife and livestock on land within their respective jurisdictions, including managing, surveying, and monitoring the incidence of chronic wasting disease.
+
+### Statutory Notes
+
+#### References in Text
+The date of the enactment of this Act, referred to in subsec. (d), probably means the date of enactment of Pub. L. 117–328, which enacted into law H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, and which was approved Dec. 29, 2022.
+
+#### Codification
+Section is based on section 3 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by section 603 of Pub. L. 117–328.
+
+#### Findings
+Section 2 of H.R. 5608, One Hundred Seventeenth Congress, as engrossed in the House of Representatives on Dec. 8, 2021, which was enacted into law by Pub. L. 117–328, div. HH, title V, § 603, Dec. 29, 2022, 136 Stat. 5996, provided that: “Congress finds the following: “(1) Chronic wasting disease, the fatal neurological disease found in cervids, is a fundamental threat to the health and vibrancy of deer, elk, and moose populations, and the increased occurrence of chronic wasting disease in regionally diverse locations necessitates an escalation in research, surveillance, monitoring, and management activities focused on containing and managing chronic wasting disease. “(2) A focus on research into the transmission of, resistance to, diagnosis of, and epidemiology of chronic wasting disease is needed to inform future policies to combat the disease and ensure the health of cervid populations. “(3) Because States and Tribes have diverse policies for addressing chronic wasting disease, the Federal Government, in consultation with the Chronic Wasting Disease Task Force established by section 104 of America’s Conservation Enhancement Act (Public Law 116–188) [[16 U.S.C. 667h](./chapter-5a-protection-and-conservation-of-wildlife.md#section-667h)], should coordinate financial and technical support to States and Tribes, State and Tribal departments of agriculture, State and Tribal wildlife agencies, institutions of higher education, and research centers conducting scientific research on chronic wasting disease. “(4) Pursuant to State and Federal law, the States retain primacy and policymaking authority with regard to wildlife management. “(5) Under current policies, chronic wasting disease remains a systemic threat to cervids. “(6) Scientific advances that lead to the ability to stop transmission of chronic wasting disease are needed to ensure the long-term viability of cervids.”
 
 
 <a id="section-668"></a>
@@ -1210,7 +1317,7 @@ The Migratory Bird Treaty Act, referred to in text, is act July 3, 1918, ch. 128
 
 (2) Nothing in this Act shall diminish or affect the ability to join the United States in the adjudication of rights to the use of water pursuant to [section 666 of title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section666&num=0&edition=prelim).
 
-**(o) Coordination with State agencies** Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+**(o) Coordination with State agencies** Coordination with State fish and wildlife agency personnel or with personnel of other affected State agencies pursuant to this Act shall not be subject to chapter 10 of title 5.
 
 ### Statutory Notes
 
@@ -1225,9 +1332,9 @@ The Refuge Recreation Act and the Act of September 28, 1962, referred to in subs
 
 The Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(A), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371. For complete classification of this Act to the Code, see Short Title note set out under [section 3101 of this title](./chapter-051-alaska-national-interest-lands-conservation.md#section-3101) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (o), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is classified to the Appendix of Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (o). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
 1998—Subsec. (c). Pub. L. 105–312, § 206(1), struck out “knowingly” after “No person shall” in first sentence.
 
 Subsec. (f). Pub. L. 105–312, § 206(2), inserted subsec. heading, par. (1) designation and heading, and “knowingly” after “Any person who”, and added par. (2).
@@ -1306,6 +1413,9 @@ Amendment by Pub. L. 93–205 effective Dec. 28, 1973, see section 16 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 Pub. L. 90–404, § 2, July 18, 1968, 82 Stat. 359, provided that: “The amendments made by the first section of this Act [amending subsec. (a) of this section] shall apply only with respect to transfers and disposals of land initiated and completed after the date of their enactment [July 18, 1968].”
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–296, § 1, Dec. 27, 2022, 136 Stat. 4374, provided that: “This Act [amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘Red River National Wildlife Refuge Boundary Modification Act’.”
 
 #### Short Title of 2015 Amendment
 Pub. L. 114–101, § 1, Dec. 18, 2015, 129 Stat. 2203, provided that: “This Act [enacting provisions listed in a table of National Memorials set out under [section 320301 of Title 54](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title54-section320301&num=0&edition=prelim), National Park Service and Related Programs, and amending provisions listed in a table of National Wildlife Refuges set out under this section] may be cited as the ‘Billy Frank Jr. Tell Your Story Act’.”
@@ -1407,7 +1517,7 @@ Pub. L. 102–154, title III, § 319, Nov. 13, 1991, 105 Stat. 1036, provided th
 | Pocosin Lakes National Wildlife Refuge, North Carolina.—Pub. L. 103–232, title III, Apr. 11, 1994, 108 Stat. 339. |
 | Protection Island National Wildlife Refuge, Washington.—Pub. L. 97–333, Oct. 15, 1982, 96 Stat. 1623. |
 | Quillayute Needles National Wildlife Refuge, Washington.—Ex. Ord. No. 705, Oct. 23, 1907; Proc. No. 2416, July 25, 1940, 54 Stat. 2717; Pub. L. 100–226, § 3, Dec. 31, 1987, 101 Stat. 1550. |
-| Red River National Wildlife Refuge, Louisiana.—Pub. L. 106–300, Oct. 13, 2000, 114 Stat. 1055; Pub. L. 106–369, § 9(c), Oct. 27, 2000, 114 Stat. 1419. |
+| Red River National Wildlife Refuge, Louisiana.—Pub. L. 106–300, Oct. 13, 2000, 114 Stat. 1055; Pub. L. 106–369, § 9(c), Oct. 27, 2000, 114 Stat. 1419; Pub. L. 117–296, § 2, Dec. 27, 2022, 136 Stat. 4374. |
 | Rhode Island National Wildlife Refuge, Rhode Island.—Pub. L. 105–178, title I, § 1214(j), June 9, 1998, 112 Stat. 207. |
 | Ridgefield National Wildlife Refuge, Washington.—Pub. L. 102–570, § 1, Oct. 29, 1992, 106 Stat. 4489. |
 | Rocky Flats National Wildlife Refuge, Colorado.—Pub. L. 107–107, div. C, title XXXI, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 109–163, div. C, title XXXI, § 3112(b)(7), Jan. 6, 2006, 119 Stat. 3541. |
@@ -1535,7 +1645,7 @@ For purposes of this Act:
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715l, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
 The Bankhead-Jones Farm Tenant Act, referred to in par. (5)(B), is act July 22, 1937, ch. 517, 50 Stat. 522. Title III of the Act is classified generally to subchapter III (§ 1010 et seq.) of chapter 33 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under [section 1000 of Title 7](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section1000&num=0&edition=prelim) and Tables.
 

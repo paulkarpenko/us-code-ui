@@ -2,7 +2,7 @@
 title: 10
 chapter: '7'
 heading: 'BOARDS, COUNCILS, AND COMMITTEES'
-section_count: 22
+section_count: 23
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10&num=0&edition=prelim
 ---
@@ -103,7 +103,9 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 (6) The Chief Information Officer of the Department of Defense.
 
-(7) Such other officers of the Department of Defense as the Secretary may designate.
+(7) The Director of the White House Military Office.
+
+(8) Such other officers of the Department of Defense as the Secretary may designate.
 
 **(c) Co-Chair.—** The Council shall be co-chaired by the Under Secretary of Defense for Acquisition and Sustainment and the Vice Chairman of the Joint Chiefs of Staff.
 
@@ -155,13 +157,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 (3) If a House of Congress adopts a bill authorizing or appropriating funds for the activities of the command, control, and communications system for the national leadership of the United States that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
-**(h) Notification of Anomalies.—**
-
-(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
-
-(2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
-
-**(i) Reports on Space Architecture Development.—**
+**(h) Reports on Space Architecture Development.—**
 
 (1) Not less than 90 days before each of the dates on which a system described in paragraph (2) achieves Milestone A or Milestone B approval, the Under Secretary of Defense for Acquisition and Sustainment shall submit to the congressional defense committees a report prepared by the Council detailing the implications of any changes to the architecture of such a system with respect to the systems, capabilities, and programs covered under subsection (d).
 
@@ -177,7 +173,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
 (3) In this subsection, the terms “Milestone A approval” and “Milestone B approval” have the meanings given such terms in sections 4172(e) and 4251(d) of this title.
 
-**(j) Notification of Reduction of Certain Warning Time.—**
+**(i) Notification of Reduction of Certain Warning Time.—**
 
 (1) None of the funds authorized to be appropriated or otherwise made available to the Department of Defense for any fiscal year may be used to change any command, control, and communications system described in subsection (d)(1) in a manner that reduces the warning time provided to the national leadership of the United States with respect to a warning of a strategic missile attack on the United States unless—
 
@@ -193,7 +189,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
   (C) the plan of the Secretary and the Chairman to ensure that the Council is able to make a positive determination in the following year.
 
-**(k) Status of Acquisition Programs.—**
+**(j) Status of Acquisition Programs.—**
 
 (1) On a quarterly basis, each program manager of a covered acquisition program shall transmit to the co-chairs of the Council, acting through the senior steering group of the Council, a report that identifies—
 
@@ -217,7 +213,7 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 
   (B) the continuity of government systems of the United States.
 
-**(l) National Leadership of the United States Defined.—** In this section, the term “national leadership of the United States” means the following:
+**(k) National Leadership of the United States Defined.—** In this section, the term “national leadership of the United States” means the following:
 
 (1) The President.
 
@@ -228,6 +224,14 @@ Pub. L. 98–36, § 1, May 27, 1983, 97 Stat. 200, provided: “That this Act [e
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(7), (8). Pub. L. 117–263, § 1672(a), added par. (7) and redesignated former par. (7) as (8).
+
+Subsecs. (h) to (l). Pub. L. 117–263, § 1636(c), redesignated subsecs. (i) to (l) as (h) to (k), respectively, and struck out former subsec. (h). Prior to amendment, text of subsec. (h) read as follows:
+
+“(1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system for the national leadership of the United States that is reported to the Secretary or the Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
+
+“(2) In this subsection, the term ‘anomaly’ means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.”
+
 2021—Subsec. (i)(1). Pub. L. 116–283, § 1081(a)(10), substituted “Acquisition” for “Acquisitions”.
 
 Subsec. (i)(3). Pub. L. 117–81, § 1702(a)(1), substituted “4251(d)” for “2366a(d)”.
@@ -277,7 +281,7 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, 
 
 **(b) Oversight by Secretaries of the Military Departments.—** The Secretaries of the military departments shall provide research, development, test, evaluation, and manufacturing oversight for energetic materials supporting military requirements.
 
-**(c) Responsibilities of Chair.—** The chair of the explosive safety board shall carry out the following responsibilities:
+**(c) Responsibilities of Chair.—** Except as provided in subsection (h), the chair of the explosive safety board shall carry out the following responsibilities:
 
 (1) To act as the principal executive representative and advisor of the Secretary on explosive and chemical agent safety matters related to Department of Defense military munitions.
 
@@ -287,7 +291,7 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, 
 
 (4) To direct the staff of the explosive safety board.
 
-(5) To performs 11 So in original. other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
+(5) To perform other functions relating to explosives safety management, as directed by the Assistant Secretary of Defense for Sustainment.
 
 (6) To provide impartial and objective advice related to explosives safety management to the Secretary of Defense and the heads of the military departments.
 
@@ -299,11 +303,11 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, 
 
 (10) To develop and recommend issuances to define the functions of the explosive safety board.
 
-(11) To establishes 1 joint hazard classification procedures with covered components of the Department.
+(11) To establish joint hazard classification procedures with covered components of the Department.
 
 (12) To make recommendations to the Under Secretary of Defense for Acquisition and Sustainment with respect to explosives and chemical agent safety tenets and requirements.
 
-(13) To conducts 1 oversight of Department of Defense explosive safety management programs.
+(13) To conduct oversight of Department of Defense explosive safety management programs.
 
 (14) To carry out such other responsibilities as the Secretary of Defense determines appropriate.
 
@@ -341,6 +345,12 @@ Pub. L. 115–91, div. A, title XVI, § 1654(b), Dec. 12, 2017, 131 Stat. 1759, 
 
 (7) All other organizational entities within the Department.
 
+**(h) Explosives Used by Space Launch Vehicles.—**
+
+(1) The Secretary of Defense shall delegate to the Secretary of the Air Force, who may further delegate to the Commanders of the Space Launch Deltas, the responsibilities under subsection (c) with respect to explosives used by space launch vehicles.
+
+(2) In this subsection, the term “launch vehicle” has the meaning given such term in [section 50902(11) of title 51](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title51-section50902/11&num=0&edition=prelim).
+
 ### Statutory Notes
 
 | Historical and Revision Notes |  |  |
@@ -353,6 +363,16 @@ In subsection (a), the words “informed on stored” are substituted for the wo
 In subsection (b), the words “in carrying out” are substituted for the words “in the execution of”.
 
 #### Amendments
+2023—Subsec. (c). Pub. L. 118–31, § 1601(a)(1), substituted “Except as provided in subsection (h), the chair” for “The chair” in introductory provisions.
+
+Subsec. (c)(5). Pub. L. 118–31, § 1801(a)(2)(A), substituted “perform” for “performs”.
+
+Subsec. (c)(11). Pub. L. 118–31, § 1801(a)(2)(B), substituted “establish” for “establishes”.
+
+Subsec. (c)(13). Pub. L. 118–31, § 1801(a)(2)(C), substituted “conduct” for “conducts”.
+
+Subsec. (h). Pub. L. 118–31, § 1601(a)(2), added subsec. (h).
+
 2021—Subsec. (a). Pub. L. 116–283, § 924(b)(2)(A)(ii), substituted “Marine Corps, Space Force,” for “Marine Corps,”.
 
 Subsecs. (c) to (g). Pub. L. 116–283, § 351(a), added subsecs. (c) to (g).
@@ -398,7 +418,7 @@ In subsection (c), the words “as a part-time adviser” are substituted for th
 1966—Subsec. (c). Pub. L. 89–718 repealed subsec. (c) which provided that sections 281, 283, and 284 of title 18 did not apply to a person because of his service on a committee or as a part-time advisor under subsec. (a) of this section unless the unlawful act related to a matter directly involving a department or agency which he was advising or to a matter in which that department or agency was directly interested.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-174"></a>
@@ -432,7 +452,7 @@ In subsection (b), the words “or panel” are inserted for clarity. The words 
 1996—Subsec. (b). Pub. L. 104–106 substituted “Other members and part-time advisers shall (except as otherwise specifically authorized by law) serve without compensation for such service.” for “Other members and part-time advisers may serve without compensation or may be paid not more than $50 for each day of service, as the Secretary concerned determines.”
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-175"></a>
@@ -534,7 +554,7 @@ For effective date of amendment by Pub. L. 90–168, see section 7 of Pub. L. 90
 Subsec. (b)(1)(A). Pub. L. 96–513, § 511(6)(B), inserted “of this title” after “177”.
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Establishment of Joint Pathology Center
 Pub. L. 110–181, div. A, title VII, § 722, Jan. 28, 2008, 122 Stat. 199, provided that: “(a) Findings.—Congress makes the following findings:“(1) The Secretary of Defense proposed to disestablish all elements of the Armed Forces Institute of Pathology, except the National Medical Museum and the Tissue Repository, as part of the recommendations of the Secretary for the closure of Walter Reed Army Medical Center in the 2005 round of defense base closure and realignment. “(2) The Defense Base Closure and Realignment Commission altered, but did not reject, the proposal of the Secretary of Defense to disestablish the Armed Forces Institute of Pathology. “(3) The Commission’s recommendation that the Armed Forces Institute of Pathology’s ‘capabilities not specified in this recommendation will be absorbed into other DOD, Federal, or civilian facilities’ provides the flexibility to retain a Joint Pathology Center as a Department of Defense or Federal entity. “(b) Sense of Congress.—It is the sense of Congress that the Armed Forces Institute of Pathology has provided important medical benefits to the Armed Forces and to the United States and that the Federal Government should retain a Joint Pathology Center. “(c) Establishment.—“(1) Establishment required.—The President shall establish and maintain a Joint Pathology Center that shall function as the reference center in pathology for the Federal Government. “(2) Establishment within dod.—Except as provided in paragraph (3), the Joint Pathology Center shall be established in the Department of Defense, consistent with the final recommendations of the 2005 Defense Base Closure and Realignment Commission, as approved by the President. “(3) Establishment in another department.—If the President makes a determination, within 180 days after the date of the enactment of this Act [Jan. 28, 2008], that the Joint Pathology Center cannot be established in the Department of Defense, the Joint Pathology Center shall be established as an element of a Federal agency other than the Department of Defense. The President shall incorporate the selection of such agency into the determination made under this paragraph. “(d) Services.—The Joint Pathology Center shall provide, at a minimum, the following:“(1) Diagnostic pathology consultation services in medicine, dentistry, and veterinary sciences. “(2) Pathology education, to include graduate medical education, including residency and fellowship programs, and continuing medical education. “(3) Diagnostic pathology research. “(4) Maintenance and continued modernization of the Tissue Repository and, as appropriate, utilization of the Repository in conducting the activities described in paragraphs (1) through (3).”
@@ -731,50 +751,63 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
 (8) Coordinating and approving activities conducted by the Department of Energy for the study, development, production, and retirement of nuclear warheads, including concept definition studies, feasibility studies, engineering development, hardware component fabrication, warhead production, and warhead retirement.
 
-(9) Reviewing proposed capabilities, and establishing and validating performance requirements (as defined in [section 181(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/h&num=0&edition=prelim)), for nuclear warhead programs.
+(9) Reviewing proposed capabilities, and, in coordination with the Joint Requirements Oversight Council, establishing and validating performance requirements (as defined in [section 181(h) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section181/h&num=0&edition=prelim)), for nuclear warhead programs.
 
-(10) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
+(10) With respect to nuclear warheads—
 
-(11) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+  (A) reviewing military requirements, performance requirements, and planned delivery schedules to evaluate whether such requirements and schedules create significant risks to cost, schedules, or other matters regarding production, surveillance, research, and other programs relating to nuclear weapons within the National Nuclear Security Administration; and
 
-(12) Providing—
+  (B) if any such risk exists, proposing and analyzing adjustments to such requirements and schedules.
 
-  (A) broad guidance regarding priorities for research on improved conventional weapons, and
+(11) Preparing comments on annual proposals for budget levels for research on nuclear weapons and transmitting those comments to the Secretary of Defense and the Secretary of Energy before the preparation of the annual budget requests by the Secretaries of those departments.
 
-  (B) comments on annual proposals for budget levels for research on improved conventional weapons,
-  and transmitting such guidance and comments to the Secretary of Defense before the preparation of the annual budget request of the Department of Defense.
+(12) Coordinating and approving the annual budget proposals of the National Nuclear Security Administration.
+
+(13) Coordinating risk management efforts between the Department of Defense and the National Nuclear Security Administration relating to the nuclear weapons stockpile, the nuclear security enterprise (as defined in section 4002 of the Atomic Energy Defense Act ([50 U.S.C. 2501](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2501&num=0&edition=prelim))), and the delivery platforms for nuclear weapons, including with respect to identifying and analyzing risks and proposing actions to mitigate risks.
 
 **(e) Report on Difficulties Relating to Safety or Reliability.—** The Council shall submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
 
 **(f) Budget and Funding Matters.—**
 
-(1) The Council shall submit to Congress each year, at the same time the budget of the President for the fiscal year beginning in such year is submitted to Congress pursuant to [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), a certification whether or not the amounts requested for the National Nuclear Security Administration in such budget, and anticipated over the four fiscal years following such budget, meets nuclear stockpile and stockpile stewardship program requirements for such fiscal year and over such four fiscal years. If a member of the Council does not concur in a certification, the certification shall include the reasons for the member’s non-concurrence.
+(1) The Council shall annually review the plans and budget of the National Nuclear Security Administration and assess whether such plans and budget meet the current and projected requirements relating to nuclear weapons.
 
-(2) If a House of Congress adopts a bill authorizing or appropriating funds for the National Nuclear Security Administration for nuclear stockpile and stockpile stewardship program activities or other activities that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
+(2)
 
-(3)
+  (A) The Council shall review each budget request transmitted by the Secretary of Energy to the Council under section 4717 of the Atomic Energy Defense Act ([50 U.S.C. 2757](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2757&num=0&edition=prelim)) and make a determination under subparagraph (B) regarding the adequacy of each such request. Not later than 30 days after making such a determination, the Council shall notify the congressional defense committees that such a determination has been made.
 
-  (A) With respect to the preparation of a budget for a fiscal year to be submitted by the President to Congress under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Secretary of Defense may not agree to a proposed transfer of estimated nuclear budget request authority unless the Secretary of Defense submits to the congressional defense committees a report described in subparagraph (B).
+  (B)
 
-  (B) A report described in this subparagraph is a report that includes the following:
+    (i) If the Council determines that a budget request for a fiscal year transmitted to the Council under section 4717 of the Atomic Energy Defense Act ([50 U.S.C. 2757](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2757&num=0&edition=prelim)) is inadequate, in whole or in part, to implement the objectives of the Department of Defense with respect to nuclear weapons for that fiscal year, the Council shall submit to the Secretary of Energy a written description of funding levels and specific initiatives that would, in the determination of the Council, make the budget request adequate to implement those objectives.
 
-    (i) Except as provided by subparagraph (C), certification that, during the fiscal year prior to the fiscal year covered by the budget for which the report is submitted, the Secretary of Energy obligated or expended any amounts covered by a proposed transfer of estimated nuclear budget request authority made for such prior fiscal year in a manner consistent with a memorandum of agreement that was developed by the Nuclear Weapons Council and entered into by the Secretary of Defense and the Secretary of Energy.
+    (ii) If the Council determines that a budget request for a fiscal year transmitted to the Council under section 4717 of the Atomic Energy Defense Act ([50 U.S.C. 2757](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2757&num=0&edition=prelim)) is adequate to implement the objectives described in clause (i) for that fiscal year, the Council shall submit to the Secretary of Energy a written statement confirming the adequacy of the request.
 
-    (ii) A detailed assessment by the Nuclear Weapons Council regarding how the Administrator for Nuclear Security implemented any agreements and decisions of the Council made during such prior fiscal year.
+    (iii) The Council shall maintain a record of each description submitted under clause (i) and each statement submitted under clause (ii).
 
-    (iii) An assessment from each of the Chairman of the Joint Chiefs of Staff and the Commander of the United States Strategic Command regarding any effects to the military during such prior fiscal year that were caused by the delay or failure of the Administrator to implement any agreements or decisions described in clause (ii).
+(3) Not later than 30 days after the President submits to Congress the budget for a fiscal year under [section 1105(a) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105/a&num=0&edition=prelim), the Council shall submit to the congressional defense committees a report containing the following:
 
-  (C) With respect to a report described in subparagraph (B), the Secretary may waive the requirement to include the certification described in clause (i) of such subparagraph if the Secretary—
+  (A) The results of the assessment conducted under paragraph (1) with respect to that budget.
 
-    (i) determines that such waiver is in the national security interests of the United States; and
+  (B) An evaluation of—
 
-    (ii) instead of the certification described in such clause (i), includes as part of such report—
+    (i) whether the funding requested for the National Nuclear Security Administration in such budget—
 
-      (I) a copy of the agreement that the Secretary has entered into with the Secretary of Energy regarding the manner and the purpose for which the Secretary of Energy will obligate or expend any amounts covered by a proposed transfer of estimated nuclear budget request authority for the fiscal year covered by the budget for which such report is submitted; and
+      (I) enables the Administrator for Nuclear Security to meet requirements relating to nuclear weapons for such fiscal year; and
 
-      (II) an explanation for why the Secretary did not include such certification in such report.
+      (II) is adequate to implement the objectives of the Department of Defense with respect to nuclear weapons for that fiscal year; and
 
-(4) The Secretary of Defense shall include with the defense budget materials for a fiscal year the memorandum of agreement described in subparagraph (B)(i) of paragraph (3), or the agreement described in subparagraph (C) of such paragraph, as the case may be, that covers such fiscal year.
+    (ii) whether the plans and budget reviewed under paragraph (1) will enable the Administrator to meet—
+
+      (I) the requirements to produce war reserve plutonium pits under section 4219(a) of such Act ([50 U.S.C. 2538a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim)); and
+
+      (II) any other requirements under Federal law.
+
+  (C) If the evaluation under subparagraph (B)(ii) determines that the plans and budget reviewed under paragraph (1) will not enable the Administrator to meet the requirements to produce war reserve plutonium pits under section 4219(a) of the Atomic Energy Defense Act ([50 U.S.C. 2538a(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2538a/a&num=0&edition=prelim))—
+
+    (i) an explanation for why the plans and budget will not enable the Administrator to meet such requirements; and
+
+    (ii) proposed alternative plans, budget, or requirements by the Council to meet such requirements.
+
+(4) If a member of the Council does not concur in any assessment or evaluation under this subsection, the report or other information required to be submitted to the congressional defense committees regarding such assessment or evaluation shall include a written explanation from the non-concurring member describing the reasons for the member’s nonconcurrence.
 
 (5)
 
@@ -790,21 +823,13 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 
     (ii) any comments of the Chairman.
 
-(6) If a House of Congress adopts a bill authorizing or appropriating funds for the Department of Defense that, as determined by the Council, provides funds in an amount that will result in a delay in the nuclear certification or delivery of F–35A dual-capable aircraft, the Council shall notify the congressional defense committees of the determination.
-
-(7) In this subsection:
-
-  (A) The term “budget” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
-
-  (B) The term “defense budget materials” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
-
-  (C) The term “proposed transfer of estimated nuclear budget request authority” means, in preparing a budget, a request for the Secretary of Defense to transfer an estimated amount of the proposed budget authority of the Secretary to the Secretary of Energy for purposes relating to nuclear weapons.
+(6) In this subsection, the term “budget” has the meaning given that term in [section 231(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section231/f&num=0&edition=prelim).
 
 **(g) Semiannual Updates on Council Meetings.—**
 
 (1) Not later than February 1 and August 1 of each year, the Council shall provide to the congressional defense committees a semiannual update including, with respect to the six-month period preceding the update—
 
-  (A) the dates on which the Council met; and
+  (A) the dates on which the Council met and the members who attended each meeting; and
 
   (B) except as provided by paragraph (2), a summary of any decisions made by the Council pursuant to subsection (d) at each such meeting and the rationale for and options that informed such decisions.
 
@@ -815,6 +840,16 @@ Pub. L. 116–92, div. A, title VII, § 733(c), Dec. 20, 2019, 133 Stat. 1461, p
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (d)(9). Pub. L. 117–263, § 1633(a)(1), inserted “, in coordination with the Joint Requirements Oversight Council,” after “capabilities, and”.
+
+Subsec. (d)(10) to (12). Pub. L. 117–263, § 1633(a)(2), (3), added par. (10) and redesignated former pars. (10) and (11) as (11) and (12), respectively.
+
+Subsec. (d)(13). Pub. L. 117–263, § 1633(a)(2), (4), redesignated par. (12) as (13), struck it out, and added a new par. (13). Prior to amendment, such par. related to Council’s responsibility to provide guidance regarding priorities and comments on annual proposals for research on improved conventional weapons.
+
+Subsec. (f). Pub. L. 117–263, § 1633(b), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to budget and funding matters.
+
+Subsec. (g)(1)(A). Pub. L. 117–263, § 1633(d), inserted “and the members who attended each meeting” before the semicolon.
+
 2021—Subsec. (d)(9) to (12). Pub. L. 116–283, § 1632(a), added par. (9) and redesignated former pars. (9) to (11) as (10) to (12), respectively.
 
 Subsec. (g). Pub. L. 116–283, § 1631(a), amended subsec. (g) generally. Prior to amendment, subsec. (g) related to semiannual briefings to Congress.
@@ -923,9 +958,6 @@ Subsec. (e). Pub. L. 103–337, § 3152(b), added subsec. (e).
 
 #### Effective Date of 2011 Amendment
 Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub. L. 111–383, set out as a note under [section 131 of this title](./chapter-004-office-of-the-secretary-of-defense.md#section-131).
-
-#### Termination of Reporting Requirements
-For termination, effective Dec. 31, 2021, of provisions in subsec. (f) of this section requiring submittal of annual report to Congress, see section 1061 of Pub. L. 114–328, set out as a note under [section 111 of this title](./chapter-002-department-of-defense.md#section-111).
 
 #### Consideration of Budget Matters at Meetings of Nuclear Weapons Council
 Pub. L. 116–92, div. A, title XVI, § 1664, Dec. 20, 2019, 133 Stat. 1773, provided that: “(a) Attendance.—“(1) Requirement.—Except as provided by subsection (b), each official described in paragraph (2) shall attend the meetings of the Nuclear Weapons Council established by [section 179 of title 10](./chapter-007-boards-councils-and-committees.md#section-179), United States Code, and the meetings of the Standing and Safety Committee of the Council, or such a successor committee. Each such official shall attend such meetings as advisors on matters within the authority and expertise of the official. “(2) Officials described.—The officials described in this paragraph are each of the following officials (or the designees of the officials):“(A) The Director of Cost Assessment and Program Evaluation of the Department of Defense. “(B) The Director of the Office of Management and Budget of the National Nuclear Security Administration. “(C) The Director for Cost Estimating and Program Evaluation of the National Nuclear Security Administration. “(D) The Director of the Office of Management and Budget. “(b) Exception.—On a case-by-case basis, the Chairman of the Nuclear Weapons Council, without delegation, may exclude the attendance of an official at a meeting pursuant to subsection (a) because of specific requirements relating to classified information or other exigent circumstances as determined by the Chairman.”
@@ -1221,6 +1253,49 @@ Pub. L. 106–259, title VIII, § 8109, Aug. 9, 2000, 114 Stat. 698.
 Pub. L. 106–79, title VIII, § 8139, Oct. 25, 1999, 113 Stat. 1269.
 
 
+<a id="section-182a"></a>
+## § 182a. Center for Excellence in Environmental Security
+**(a) Establishment.—** The Secretary of Defense may operate a Center for Excellence in Environmental Security (in this section referred to as the “Center”).
+
+**(b) Missions.—**
+
+(1) The Center shall be used to provide and facilitate education, training, and research in civil-military operations, particularly operations that require international assistance and operations that require coordination between the Department of Defense and other Federal agencies.
+
+(2) The Center shall be used to provide and facilitate education, training, interagency coordination, and research on the following additional matters:
+
+  (A) Management of the consequences of environmental insecurity with respect to—
+
+    (i) access to water, food, and energy;
+
+    (ii) related health matters; and
+
+    (iii) matters relating to when, how, and why environmental stresses to human safety, health, water, energy, and food will cascade to economic, social, political, or national security events.
+
+  (B) Appropriate roles for the reserve components in response to environmental insecurity resulting from natural disasters.
+
+  (C) Meeting requirements for information in connection with regional and global disasters, including through the use of advanced communications technology as a virtual library.
+
+(3) The Center shall perform such other missions as the Secretary of Defense may specify.
+
+(4) To assist the Center in carrying out the missions under this subsection, upon request of the Center, the head of any Federal agency may grant to the Center access to the data, archives, and other physical resources (including facilities) of that agency, and may detail any personnel of that agency to the Center, for the purpose of enabling the development of global environmental indicators.
+
+**(c) Joint Operation With Educational Institution Authorized.—** The Secretary of Defense may enter into an agreement with appropriate officials of an institution of higher education to provide for the operation of the Center. Any such agreement shall provide for the institution to furnish necessary administrative services for the Center, including by directly providing such services or providing the funds for such services.
+
+**(d) Acceptance of Donations.—**
+
+(1) Except as provided in paragraph (2), the Secretary of Defense may accept, on behalf of the Center, donations to be used to defray the costs of the Center or to enhance the operation of the Center. Such donations may be accepted from any agency of the Federal Government, any State or local government, any foreign government, any foundation or other charitable organization (including any that is organized or operates under the laws of a foreign country), or any other private source in the United States or a foreign country.
+
+(2) The Secretary may not accept a donation under paragraph (1) if the acceptance of the donation would compromise or appear to compromise—
+
+  (A) the ability of the Department of Defense, any employee of the Department, or any member of the armed forces, to carry out any responsibility or duty of the Department or the armed forces in a fair and objective manner; or
+
+  (B) the integrity of any program of the Department of Defense or of any person involved in such a program.
+
+(3) The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whether or not the acceptance of a foreign donation under paragraph (1) would have a result described in paragraph (2).
+
+(4) Funds accepted by the Secretary under paragraph (1) as a donation on behalf of the Center shall be credited to appropriations available to the Department of Defense for the Center. Funds so credited shall be merged with the appropriations to which credited and shall be available for the Center for the same purposes and the same period as the appropriations with which merged.
+
+
 <a id="section-183"></a>
 ## § 183. Department of Defense Board of Actuaries
 **(a) In General.—** There shall be in the Department of Defense a Department of Defense Board of Actuaries (hereinafter in this section referred to as the “Board”).
@@ -1280,39 +1355,39 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
 **(b) Functions.—**
 
-(1) The Clearinghouse shall coordinate Department of Defense review of applications for energy projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) and received by the Department of Defense from the Secretary of Transportation. In performing such coordination, the Clearinghouse shall provide procedures to ensure affected local military installations are consulted.
+(1) The Clearinghouse shall coordinate Department of Defense review of applications for energy projects or antenna structure projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) and received by the Department of Defense from the Secretary of Transportation. In performing such coordination, the Clearinghouse shall provide procedures to ensure affected local military installations are consulted.
 
-(2) The Clearinghouse shall accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for an energy project submitted pursuant to such section.
+(2) The Clearinghouse shall accelerate the development of planning tools necessary to determine the acceptability to the Department of Defense of proposals included in an application for an energy project or antenna structure project submitted pursuant to such section.
 
 (3) The Clearinghouse shall perform such other functions as the Secretary of Defense assigns.
 
 **(c) Review of Proposed Actions.—**
 
-(1) Not later than 75 days after receiving from the Secretary of Transportation a proper application for an energy project under [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) that may have an adverse impact on military operations and readiness, the Clearinghouse shall conduct a preliminary review of such application. The review shall—
+(1) Not later than 75 days after receiving from the Secretary of Transportation a proper application for an energy project or antenna structure project under [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) that may have an adverse impact on military operations and readiness, the Clearinghouse shall conduct a preliminary review of such application. The review shall—
 
-  (A) assess the likely scope, duration, and level of risk of any adverse impact of such energy project on military operations and readiness; and
+  (A) assess the likely scope, duration, and level of risk of any adverse impact of such energy project or antenna structure project on military operations and readiness; and
 
-  (B) identify any feasible and affordable actions that could be taken by the Department, the developer of such energy project, or others to mitigate the adverse impact and to minimize risks to national security while allowing the energy project to proceed with development.
+  (B) identify any feasible and affordable actions that could be taken by the Department, the developer of such energy project or antenna structure project, or others to mitigate the adverse impact and to minimize risks to national security while allowing the energy project or antenna structure project to proceed with development.
 
 (2)
 
-  (A) If the Clearinghouse finds under paragraph (1) that an energy project will have an adverse impact on military operations and readiness, the Clearinghouse shall issue to the applicant a notice of presumed risk that describes the concerns identified by the Department in the preliminary review and requests a discussion of possible mitigation actions.
+  (A) If the Clearinghouse finds under paragraph (1) that an energy project or antenna structure project will have an adverse impact on military operations and readiness, the Clearinghouse shall issue to the applicant a notice of presumed risk that describes the concerns identified by the Department in the preliminary review and requests a discussion of possible mitigation actions.
 
-  (B) After the Clearinghouse issues a notice under subparagraph (A) with respect to an energy project, the parties should seek to identify feasible and affordable actions that can be taken by the Department, the developer of such energy project, or others to mitigate any adverse impact on military operations and readiness.
+  (B) After the Clearinghouse issues a notice under subparagraph (A) with respect to an energy project or antenna structure project, the parties should seek to identify feasible and affordable actions that can be taken by the Department, the developer of such energy project or antenna structure project, or others to mitigate any adverse impact on military operations and readiness.
 
   (C) A notice of presumed risk issued under subparagraph (A) is a preliminary assessment only and does not represent a formal objection pursuant to subsection (e). Discussions of possible mitigation actions under such subparagraph could favorably resolve any concerns identified in the notice of presumed risk.
 
-(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Secretary of Defense shall consider the comments of the governor in the Secretary’s evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to [section 44718(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/f&num=0&edition=prelim).
+(3) At the same time that the Clearinghouse issues to the applicant a notice of presumed risk under paragraph (2), the Clearinghouse shall provide the same notice to the governor of the State in which the project is located and request that the governor provide the Clearinghouse any comments the governor believes of relevance to the application. The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk. The Secretary of Defense shall consider the comments of the governor in the Secretary’s evaluation of whether the project presents an unacceptable risk to the national security of the United States and shall include the comments with the finding provided to the Secretary of Transportation pursuant to [section 44718(f) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/f&num=0&edition=prelim).
 
-(4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
+(4) If, after issuing the notices of presumed risk required by paragraphs (2) and (3), the Secretary of Defense later concludes for any reason that the energy project or antenna structure project will not have an adverse impact on military readiness, the Clearinghouse shall notify the applicant and the governor in writing of that conclusion.
 
-(5) The Clearinghouse shall develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of energy projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) that may have an adverse impact on military operations and readiness.
+(5) The Clearinghouse shall develop, in coordination with other departments and agencies of the Federal Government, an integrated review process to ensure timely notification and consideration of energy projects or antenna structure projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) that may have an adverse impact on military operations and readiness.
 
-(6) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
+(6) The Clearinghouse shall establish procedures for the Department of Defense for the coordinated consideration of and response to a request for a review received from another Federal agency, a State government, an Indian tribal government, a local government, a landowner, or the developer of an energy project or antenna structure project, including guidance to personnel at each military installation in the United States on how to initiate such procedures and ensure a coordinated Department response.
 
-(7) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
+(7) The Clearinghouse shall develop procedures for conducting early outreach to parties carrying out energy projects or antenna structure projects that could have an adverse impact on military operations and readiness and to clearly communicate to such parties actions being taken by the Department of Defense under this section. The procedures shall provide for filing by such parties of a project area and preliminary project layout at least one year before expected construction of any project proposed within a military training route or within line-of-sight of any air route surveillance radar, airport surveillance radar, or wide area surveillance over-the-horizon radar operated or used by the Department of Defense in order to provide adequate time for analysis and negotiation of mitigation options. Material marked as proprietary or competition sensitive by a party filing for this preliminary review shall be protected from public release by the Department of Defense.
 
-(8) If, in reviewing an application for an energy project pursuant to paragraph (1), the Clearinghouse finds no adverse impact on military operations under [section 44718(b)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/b/1&num=0&edition=prelim), the Clearinghouse shall communicate to the Secretary of Transportation in writing, not later than five business days after making such finding, the following: “No Part 77 concerns, national security review ongoing.”
+(8) If, in reviewing an application for an energy project or antenna structure project pursuant to paragraph (1), the Clearinghouse finds no adverse impact on military operations under [section 44718(b)(1) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/b/1&num=0&edition=prelim), the Clearinghouse shall communicate to the Secretary of Transportation in writing, not later than five business days after making such finding, the following: “No Part 77 concerns, national security review ongoing.”
 
 **(d) Comprehensive Review.—**
 
@@ -1322,13 +1397,13 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
   (A) assess the magnitude of interference posed by projects filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim);
 
-  (B) solely for the purpose of informing preliminary reviews under subsection (c)(1) and early outreach efforts under subsection (c)(5), identify distinct geographic areas selected as proposed locations for projects filed, or for projects that are reasonably expected to be filed in the near future, with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) where the Secretary of Defense can demonstrate such projects could have an adverse impact on military operations and readiness, including military training routes, and categorize the risk of adverse impact in such areas;
+  (B) solely for the purpose of informing preliminary reviews under subsection (c)(1) and early outreach efforts under subsection (c)(5), identify distinct geographic areas selected as proposed locations for projects filed, or for projects that are reasonably expected to be filed in the near future, with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim) where the Secretary of Defense can demonstrate such projects could have an adverse impact on military operations and readiness, including military training routes or any active intercontinental ballistic missile launch facility or control center, and categorize the risk of adverse impact in such areas;
 
   (C) develop procedures for the initial identification of such geographic areas identified under subparagraph (B), to include a process to provide notice and seek public comment prior to making a final designation of the geographic areas, including maps of the area and the basis for identification;
 
   (D) develop procedures to periodically review and modify, consistent with the notice and public comment process under subparagraph (C), geographic areas identified under subparagraph (B) and to solicit and identify additional geographic areas as appropriate;
 
-  (E) at the conclusion of the notice and public comment period conducted under subparagraph (C), make a final finding on the designation of a geographic area of concern or delegate the authority to make such finding to the Deputy Secretary of Defense, an Under Secretary of Defense, or a Deputy Under Secretary of Defense; and
+  (E) at the conclusion of the notice and public comment period conducted under subparagraph (C), make a final finding on the designation of a geographic area of concern or delegate the authority to make such finding to the Deputy Secretary of Defense, an Under Secretary of Defense, a Deputy Under Secretary of Defense, or, in the case of a geographic area of concern related to an active intercontinental ballistic missile launch facility or control center, the Assistant Secretary of Defense for Energy, Installations, and Environment; and
 
   (F) specifically identify feasible and affordable long-term actions that may be taken to mitigate adverse impacts of projects filed, or which may be filed in the future, with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim), on military operations and readiness, including—
 
@@ -1348,7 +1423,17 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
 **(e) Department of Defense Finding of Unacceptable Risk.—**
 
-(1) The Secretary of Defense may not object to an energy project filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim), except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project, in isolation or cumulatively with other projects, would result in an unacceptable risk to the national security of the United States. The Secretary of Defense’s finding of unacceptable risk to national security shall be transmitted to the Secretary of Transportation for inclusion in the report required under [section 44718(b)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/b/2&num=0&edition=prelim).
+(1)
+
+  (A) The Secretary of Defense may not object to an energy project or antenna structure project filed with the Secretary of Transportation pursuant to [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim), except in a case in which the Secretary of Defense determines, after giving full consideration to mitigation actions identified pursuant to this section, that such project, in isolation or cumulatively with other projects, would result in an unacceptable risk to the national security of the United States.
+
+  (B)
+
+    (i) In the case of any energy project or antenna structure project with proposed structures more than 200 feet above ground level located within two nautical miles of the geographic center of an active intercontinental ballistic missile launch facility or control center, the Secretary of Defense shall issue a finding of unacceptable risk to national security for such project if the mitigation actions identified pursuant to this section do not include removal of all such proposed structures from such project after receiving notice of presumed risk from the Clearinghouse under subsection (c)(2).
+
+    (ii) Clause (i) does not apply to structures approved before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024 or to structures that are re-powered with updated technology in the same location as previously approved structures.
+
+  (C) Any finding of unacceptable risk to national security by the Secretary of Defense under this paragraph shall be transmitted to the Secretary of Transportation for inclusion in the report required under [section 44718(b)(2) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718/b/2&num=0&edition=prelim).
 
 (2)
 
@@ -1360,7 +1445,7 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
 (4) The Clearinghouse shall develop procedures for making a finding of unacceptable risk, including with respect to how to implement cumulative effects analysis. Such procedures shall be subject to public comment prior to finalization.
 
-**(f) Authority to Accept Contributions of Funds.—** The Secretary of Defense is authorized to request and accept a voluntary contribution of funds from an applicant for an energy project. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such a project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
+**(f) Authority to Accept Contributions of Funds.—** The Secretary of Defense is authorized to request and accept a voluntary contribution of funds from an applicant for an energy project or antenna structure project. Amounts so accepted shall remain available until expended for the purpose of offsetting the cost of measures undertaken by the Secretary of Defense to mitigate adverse impacts of such a project on military operations and readiness or to conduct studies of potential measures to mitigate such impacts.
 
 **(g) Effect of Department of Defense Hazard Assessment.—** An action taken pursuant to this section shall not be considered to be a substitute for any assessment or determination required of the Secretary of Transportation under [section 44718 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section44718&num=0&edition=prelim).
 
@@ -1368,21 +1453,37 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
 (1) The term “adverse impact on military operations and readiness” means any adverse impact upon military operations and readiness, including flight operations, research, development, testing, and evaluation, and training, that is demonstrable and is likely to impair or degrade the ability of the armed forces to perform their warfighting missions.
 
-(2) The term “energy project” means a project that provides for the generation or transmission of electrical energy.
+(2) The term “antenna structure project”—
 
-(3) The term “governor”, with respect to a State, means the chief executive officer of the State.
+  (A) means a project to construct a structure located within two nautical miles of the geographic center of any intercontinental ballistic missile launch facility or control center that—
 
-(4) The term “landowner” means a person that owns a fee interest in real property on which a proposed energy project is planned to be located.
+    (i) is constructed or used to transmit radio energy or that is constructed or used for the primary purpose of supporting antennas to transmit or receive radio energy (or both), and any antennas and other appurtenances mounted on the structure, from the time construction of the supporting structure begins until such time as the supporting structure is dismantled; and
 
-(5) The term “military installation” has the meaning given that term in [section 2801(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2801/c/4&num=0&edition=prelim).
+    (ii) for which notification is required to be made to the Federal Aviation Administration pursuant to processes already established under this title; and
 
-(6) The term “military readiness” includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+  (B) does not include—
 
-(7) The term “military training route” means a training route developed as part of the Military Training Route Program, carried out jointly by the Administrator of the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
+    (i) any structure constructed before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, including any such structure which is upgraded, repaired, or otherwise modified after such date of enactment as long as such upgrade, repair, or modification has not increased the height of such structure; or
 
-(8) The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the United States Virgin Islands, and American Samoa.
+    (ii) any project in support of or required by an intercontinental ballistic missile launch facility or control center, or any other such project that has been approved by the Secretary of Defense or the Secretary of Defense’s designee for use on the same military installation at which such facility or control center is located.
 
-(9) The term “unacceptable risk to the national security of the United States” means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
+(3) The term “intercontinental ballistic missile launch facility or control center” means such facilities or control centers located at the Francis E. Warren Air Force Base; 11 So in original. The semicolon probably should be a comma. the Malmstrom Air Force Base, and the Minot Air Force Base, and their respective missile fields.
+
+(4) The term “energy project” means a project that provides for the generation or transmission of electrical energy.
+
+(5) The term “governor”, with respect to a State, means the chief executive officer of the State.
+
+(6) The term “landowner” means a person that owns a fee interest in real property on which a proposed energy project or antenna structure project is planned to be located.
+
+(7) The term “military installation” has the meaning given that term in [section 2801(c)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2801/c/4&num=0&edition=prelim).
+
+(8) The term “military readiness” includes any training or operation that could be related to combat readiness, including testing and evaluation activities.
+
+(9) The term “military training route” means a training route developed as part of the Military Training Route Program, carried out jointly by the Administrator of the Federal Aviation Administration and the Secretary of Defense, for use by the armed forces for the purpose of conducting low-altitude, high-speed military training.
+
+(10) The term “State” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the United States Virgin Islands, and American Samoa.
+
+(11) The term “unacceptable risk to the national security of the United States” means the construction, alteration, establishment, or expansion, or the proposed construction, alteration, establishment, or expansion, of a structure or sanitary landfill, that the Secretary of Defense can demonstrate would—
 
   (A) endanger safety in air commerce directly related to the activities of the Department of Defense;
 
@@ -1392,7 +1493,22 @@ Pub. L. 110–181, div. A, title IX, § 906(a)(3), Jan. 28, 2008, 122 Stat. 277,
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2024, referred to in subsecs. (e)(1)(B)(ii) and (h)(2)(B)(i), is the date of enactment of Pub. L. 118–31, which was approved Dec. 22, 2023.
+
 #### Amendments
+2023—Pub. L. 118–31, § 362(b)(1), inserted “or antenna structure projects” after “energy projects” wherever appearing and inserted “or antenna structure project” after “energy project” wherever appearing except in subsecs. (e)(1) and (h)(2).
+
+Subsec. (c)(3). Pub. L. 118–31, § 361, inserted “The Clearinghouse shall ensure that a governor has at least 30 days after the date on which the governor receives the notice of presumed risk to provide any such comments and shall provide detailed information and other information necessary to ensure that the governor can fully understand the nature of the presumed risk.” after “to the application.”
+
+Subsec. (d)(2)(B). Pub. L. 118–31, § 362(a)(1)(A), inserted “or any active intercontinental ballistic missile launch facility or control center” after “military training routes”.
+
+Subsec. (d)(2)(E). Pub. L. 118–31, § 362(a)(1)(B), substituted “a Deputy Under Secretary of Defense, or, in the case of a geographic area of concern related to an active intercontinental ballistic missile launch facility or control center, the Assistant Secretary of Defense for Energy, Installations, and Environment” for “or a Deputy Under Secretary of Defense”.
+
+Subsec. (e)(1). Pub. L. 118–31, § 362(a)(2), designated first sentence as subpar. (A) and inserted “or antenna structure project” after “energy project”, designated second sentence as subpar. (C) and substituted “Any finding of unacceptable risk to national security by the Secretary of Defense under this paragraph” for “The Secretary of Defense’s finding of unacceptable risk to national security”, and added subpar. (B) after subpar. (A) as so designated.
+
+Subsec. (h)(2) to (11). Pub. L. 118–31, § 362(b)(2), added pars. (2) and (3) and redesignated former pars. (2) to (9) as (4) to (11), respectively.
+
 2021—Subsec. (c)(2). Pub. L. 116–283, § 311(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (c)(2)(C). Pub. L. 117–81, § 371(b)(1), added subpar. (C).
@@ -1427,7 +1543,49 @@ Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, p
 
 
 <a id="section-184"></a>
-## § 184. Joint Safety Council
+## § 184. Civilian Protection Center of Excellence
+**(a) Establishment.—** The Secretary of Defense shall operate the Civilian Protection Center of Excellence. The purpose of the Center shall be to—
+
+(1) serve as the focal point for matters related to civilian casualties and other forms of civilian harm resulting from military operations involving the United States Armed Forces; and
+
+(2) institutionalize and advance knowledge, practices, and tools for preventing, mitigating, and responding to civilian harm.
+
+**(b) Purpose.—** The Center shall be used to—
+
+(1) develop standardized civilian-harm operational reporting and data management processes to improve data collection, sharing, and learning across the Department of Defense;
+
+(2) develop, recommend, and review guidance, and the implementation of guidance, on how the Department responds to civilian harm;
+
+(3) develop recommended guidance for addressing civilian harm across the full spectrum of armed conflict and for use in doctrine and operational plans;
+
+(4) recommend training and exercises for the prevention and investigation of civilian harm;
+
+(5) develop a repository of civilian casualty and civilian harm information;
+
+(6) capture lessons learned from assessments and investigations of civilian casualty incidents and supporting institutionalization of such lessons learned within policy, doctrine, training, exercises, and tactics, techniques, and procedures of the Department of Defense;
+
+(7) support the coordination and synchronization of efforts across combatant commands, the Department of State, and other relevant United States Government departments and agencies to prevent, mitigate, and respond to incidents of civilian harm;
+
+(8) engage with nongovernmental organizations and civilian casualty experts; and
+
+(9) perform such other functions as the Secretary of Defense may specify.
+
+**(c) Annual Report.—** The Secretary of Defense shall submit to the congressional defense committees, and make publicly available on an appropriate website of the Department, an annual report on the activities of the Center.
+
+### Statutory Notes
+
+#### Codification
+Another section 184 was renumbered [section 185 of this title](./chapter-007-boards-councils-and-committees.md#section-185).
+
+#### Prior Provisions
+A prior section 184 was renumbered [section 342 of this title](./chapter-016-security-cooperation.md#section-342).
+
+#### Deadline for Establishment
+Pub. L. 117–263, div. A, title X, § 1082(b), Dec. 23, 2022, 136 Stat. 2799, provided that: “The Civilian Protection Center of Excellence, as required under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code, as added by subsection (a), shall be established by not later than 90 days after the date of the enactment of this Act [Dec. 23, 2022].”
+
+
+<a id="section-185"></a>
+## § 185. Joint Safety Council
 **(a) In General.—** There is established, within the Office of the Deputy Secretary of Defense, a Joint Safety Council (in this section referred to as the “Council”).
 
 **(b) Membership; Appointment; Compensation.—**
@@ -1440,7 +1598,9 @@ Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, p
 
   (C) One member of the armed forces or civilian employee from each military department, appointed by the Secretary concerned.
 
-  (D) Such additional members as may be determined by the Deputy Secretary of Defense.
+  (D) During periods in which the Coast Guard is not operating as a service in the Department of the Navy, an officer of the Coast Guard, appointed by the Secretary of Homeland Security.
+
+  (E) Such additional members as may be determined by the Deputy Secretary of Defense.
 
 (2)
 
@@ -1500,11 +1660,21 @@ Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, p
 
 (6) Establishing, in consultation with the heads of appropriate Federal departments and agencies, a requirement for each military department to implement a separate safety management program for ground vehicles and ships.
 
-(7) Reviewing the proposal of each military department for the safety management systems described in paragraphs (9) and (10).11 So in original.
+(7) Ensuring each military department has in place, for the safety management system and program described in paragraphs (5) and (6), respectively, of that military department—
 
-(8) Reviewing the implementation of such systems by each military department.
+  (A) a resolution plan that identifies specific corrective and preventative actions to address the causes of mishaps; and
 
-(9) Ensuring each military department has in place a system to monitor the implementation of recommendations made in safety and legal investigation reports of mishap incidents.
+  (B) an implementation plan for such system and program.
+
+(8) Reviewing the proposal of each military department for the safety management system and program described in paragraphs (5) and (6), respectively.
+
+(9) Reviewing the implementation of such systems by each military department.
+
+(10) Ensuring each military department has in place a system to monitor the implementation of recommendations made in safety and legal investigation reports of mishap incidents.
+
+(11) Not later than one year after the initial identification of corrective and preventative actions by a military department pursuant to a resolution plan under paragraph (7)(A), and periodically thereafter, reviewing and validating each such identified corrective and preventative action to ensure the action is effective.
+
+(12) Ensuring any related change in methods, tactics, or procedures necessary for the conduct of such identified corrective and preventative actions have been implemented.
 
 **(e) Oversight.—** The decisions and recommendations of the Council are subject to review and approval by the Deputy Secretary of Defense.
 
@@ -1528,23 +1698,29 @@ Pub. L. 115–91, div. A, title III, § 311(d), Dec. 12, 2017, 131 Stat. 1348, p
 
 **(j) Meetings.—** The Council shall meet quarterly and at the call of the Chairperson.
 
-**(k) Report.—** The Chair of the Council shall submit to the congressional defense committees semi-annual reports on the activities of the Council.
+**(k) Reports.—**
+
+(1) The Chair of the Council shall submit to the congressional defense committees semi-annual reports on the activities of the Council.
+
+(2) Not later than March 31, 2023, and not later than December 31 of each year thereafter, the Deputy Secretary of Defense shall submit to the congressional defense committees a report containing—
+
+  (A) a summary of the goals and priorities of the Deputy Secretary for the year following the date of the submission of the report with respect to the activities of the Council; and
+
+  (B) an assessment by the Deputy Secretary of the activities of the Council carried out during the year preceding the date of such submission.
 
 ### Statutory Notes
 
-#### Prior Provisions
-A prior section 184 was renumbered [section 342 of this title](./chapter-016-security-cooperation.md#section-342).
+#### Amendments
+2023—Pub. L. 118–31, § 363(1), renumbered [section 184 of this title](./chapter-007-boards-councils-and-committees.md#section-184) relating to Joint Safety Council as this section.
+
+Subsec. (d)(7) to (12). Pub. L. 118–31, § 363(2), added pars. (7), (11), and (12), redesignated former pars. (7) to (9) as (8) to (10), respectively, and substituted “the safety management system and program described in paragraphs (5) and (6), respectively” for “the safety management systems described in paragraphs (9) and (10)” in par. (8) as so redesignated.
+
+2022—Subsec. (b)(1)(D), (E). Pub. L. 117–263, § 383, added subpar. (D) and redesignated former subpar. (D) as (E).
+
+Subsec. (k). Pub. L. 117–263, § 381, substituted “Reports” for “Report” in heading, designated existing provisions as par. (1), and added par. (2).
 
 #### Deadlines
-Pub. L. 117–81, div. A, title III, § 372(c), Dec. 27, 2021, 135 Stat. 1666, provided that: “(1) Establishment.—The Secretary of Defense shall ensure the establishment of the Joint Safety Council under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as added by subsection (a)), by not later than the date that is 120 days after the date of the enactment of this Act [Dec. 27, 2021]. “(2) Appointment of first members.—The initial members of the Joint Safety Council established under such section 184 shall be appointed by not later than the date that is 120 days after the date of the enactment of this Act. “(3) Directors of safety.—Not later than 30 days after the date of the enactment of this Act, the Secretary of each military department shall ensure there is appointed as the Director of Safety for the military department concerned an officer of that military department in pay grade O–8 or above.”
-
-
-<a id="section-185"></a>
-## § 185. Repealed. Pub. L. 114–328, div. A, title IX, § 904(a), Dec. 23, 2016, 130 Stat. 2345]
-
-### Statutory Notes
-
-Section, added Pub. L. 107–107, div. A, title X, § 1009(a)(1), Dec. 28, 2001, 115 Stat. 1206; amended Pub. L. 107–314, div. A, title X, § 1004(h)(2), Dec. 2, 2002, 116 Stat. 2631, related to Financial Management Modernization Executive Committee.
+Pub. L. 117–81, div. A, title III, § 372(c), Dec. 27, 2021, 135 Stat. 1666, provided that: “(1) Establishment.—The Secretary of Defense shall ensure the establishment of the Joint Safety Council under [section 184 of title 10](./chapter-007-boards-councils-and-committees.md#section-184), United States Code (as added by subsection (a)) [now [10 U.S.C. 185](./chapter-007-boards-councils-and-committees.md#section-185)], by not later than the date that is 120 days after the date of the enactment of this Act [Dec. 27, 2021]. “(2) Appointment of first members.—The initial members of the Joint Safety Council established under such section 184 [now [10 U.S.C. 185](./chapter-007-boards-councils-and-committees.md#section-185)] shall be appointed by not later than the date that is 120 days after the date of the enactment of this Act. “(3) Directors of safety.—Not later than 30 days after the date of the enactment of this Act, the Secretary of each military department shall ensure there is appointed as the Director of Safety for the military department concerned an officer of that military department in pay grade O–8 or above.”
 
 
 <a id="section-186"></a>
@@ -1556,84 +1732,11 @@ Section, added Pub. L. 108–375, div. A, title III, § 332(b)(1), Oct. 28, 2004
 
 
 <a id="section-187"></a>
-## § 187. Strategic Materials Protection Board
-**(a) Establishment.—**
-
-(1) The Secretary of Defense shall establish a Strategic Materials Protection Board.
-
-(2) The Board shall be composed of the following:
-
-  (A) The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy, who shall be the chairman of the Board.
-
-  (B) The Administrator of the Defense Logistics Agency Strategic Materials, or any successor organization, who shall be the vice chairman of the Board.
-
-  (C) A designee of the Assistant Secretary of the Army for Acquisition, Logistics, and Technology.
-
-  (D) A designee of the Assistant Secretary of the Navy for Research, Development, and Acquisition.
-
-  (E) A designee of the Assistant Secretary of the Air Force for Acquisition.11 See Change of Name note below.
-
-**(b) Duties.—** In addition to other matters assigned to it by the Secretary of Defense, the Board shall—
-
-(1) determine the need to provide a long term secure supply of materials designated as critical to national security to ensure that national defense needs are met;
-
-(2) analyze the risk associated with each material designated as critical to national security and the effect on national defense that the nonavailability of such material would have;
-
-(3) recommend a strategy to the Secretary to ensure a secure supply of materials designated as critical to national security;
-
-(4) recommend such other strategies to the Secretary as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security; and
-
-(5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of [section 4863 of this title](./chapter-385-other-technology-base-policies-and-programs.md#section-4863).
-
-**(c) Meetings.—** The Board shall meet as determined necessary by the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy but not less frequently than once every two years to make recommendations regarding materials critical to national security as described in subsection (b)(5).
-
-**(d) Reports.—**
-
-(1) Subject to paragraph (2), after each meeting of the Board, the Board shall prepare a report containing the results of the meeting and such recommendations as the Board determines appropriate. Each such report shall be submitted to the congressional defense committees, together with comments and recommendations from the Secretary of Defense, not later than 90 days after the meeting covered by the report.
-
-(2) In any year in which the Board meets more than once, each report prepared by the Board as required by paragraph (1) may be combined into one annual report and submitted as provided by paragraph (1) not later than 90 days after the last meeting of the year.
-
-**(e) Definitions.—** In this section:
-
-(1) The term “materials critical to national security” means materials—
-
-  (A) upon which the production or sustainment of military equipment is dependent; and
-
-  (B) the supply of which could be restricted by actions or events outside the control of the Government of the United States.
-
-(2) The term “military equipment” means equipment used directly by the armed forces to carry out military operations.
-
-(3) The term “secure supply”, with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
+## § 187. Repealed. Pub. L. 117–263, div. A, title XIV, § 1411(a), Dec. 23, 2022, 136 Stat. 2869]
 
 ### Statutory Notes
 
-#### Amendments
-2021—Subsec. (b)(5). Pub. L. 116–283 substituted “section 4863” for “section 2533b”.
-
-2019—Subsec. (a)(2)(C). Pub. L. 116–92 substituted “Assistant Secretary of the Army for Acquisition, Logistics, and Technology” for “Assistant Secretary of the Army for Acquisition, Technology, and Logistics”.
-
-2016—Subsec. (a)(2)(C). Pub. L. 114–328 substituted “Acquisition, Technology, and Logistics” for “Acquisition, Logistics, and Technology”.
-
-2013—Subsec. (a)(2). Pub. L. 112–239, § 901(c)(1), amended par. (2) generally. Prior to amendment, par. (2) related to composition of the Strategic Materials Protection Board.
-
-Subsec. (b)(3), (4). Pub. L. 112–239, § 901(c)(2), substituted “Secretary” for “President”.
-
-Subsec. (c). Pub. L. 112–239, § 901(c)(3), substituted “Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy” for “Secretary of Defense”.
-
-Subsec. (d). Pub. L. 112–239, § 901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate.”
-
-2011—Subsec. (b). Pub. L. 111–383, § 829(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
-
-Subsec. (e). Pub. L. 111–383, § 829(a), added subsec. (e).
-
-#### Change of Name
-Reference to the Assistant Secretary of the Air Force for Acquisition deemed to be a reference to the Assistant Secretary of the Air Force for Acquisition, Technology, and Logistics, see section 934(b) of Pub. L. 114–328, set out as a note under [section 9016 of this title](./chapter-903-department-of-the-air-force.md#section-9016).
-
-#### Effective Date of 2021 Amendment
-Amendment by Pub. L. 116–283 effective Jan. 1, 2022, with additional provisions for delayed implementation and applicability of existing law, see section 1801(d) of Pub. L. 116–283, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
-
-#### First Meeting of Board
-Pub. L. 109–364, div. A, title VIII, § 843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: “The first meeting of the Strategic Materials Protection Board, established by [section 187 of title 10](./chapter-007-boards-councils-and-committees.md#section-187), United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act [Oct. 17, 2006].”
+Section, added Pub. L. 109–364, div. A, title VIII, § 843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, § 829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, § 901(c), Jan. 2, 2013, 126 Stat. 1864; Pub. L. 114–328, div. A, title X, § 1081(a)(2), Dec. 23, 2016, 130 Stat. 2417; Pub. L. 116–92, div. A, title XVII, § 1731(a)(11), Dec. 20, 2019, 133 Stat. 1813; Pub. L. 116–283, div. A, title XVIII, § 1870(c)(6)(C), Jan. 1, 2021, 134 Stat. 4285, related to Strategic Materials Protection Board. See [section 98h–1 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section98h–1&num=0&edition=prelim), War and National Defense.
 
 
 <a id="section-188"></a>

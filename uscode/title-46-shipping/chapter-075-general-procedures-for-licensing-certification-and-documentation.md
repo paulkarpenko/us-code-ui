@@ -2,7 +2,7 @@
 title: 46
 chapter: '75'
 heading: 'GENERAL PROCEDURES FOR LICENSING, CERTIFICATION, AND DOCUMENTATION'
-section_count: 10
+section_count: 11
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46&num=0&edition=prelim
 ---
@@ -53,6 +53,11 @@ Pub. L. 111–281 designated existing provisions as subsec. (a), substituted “
 
 #### Effective Date of 1990 Amendment
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of Title 33](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2701&num=0&edition=prelim), Navigation and Navigable Waters.
+
+#### Modernizing Merchant Mariner Credentialing System
+Pub. L. 117–263, div. K, title CXV, § 11511, Dec. 23, 2022, 136 Stat. 4138, provided that: “(a) Report.—“(1) In general.—Not later than 90 days after the date of enactment of this Act [Dec. 23, 2022], the Commandant shall submit to the Committees on Commerce, Science, and Transportation and Appropriations of the Senate, and the Committees on Transportation and Infrastructure and Appropriations of the House of Representatives, a report on the financial, human, and information technology infrastructure resources needed to establish an electronic merchant mariner licensing and documentation system. “(2) Legislative and regulatory suggestions.—In preparing the report described in paragraph (1), the Commandant—“(A) shall include recommendations for any legislative or administrative actions as the Commandant determines necessary to establish the electronic merchant mariner licensing and documentation system described in paragraph (1) as soon as possible; and “(B) may include findings, conclusions, or recommendations from the study conducted under subsection (b). “(b) Study.—“(1) In general.—In preparing the report required under subsection (a), the Commandant and the Administrator of the Maritime Administration, in coordination with the Commander of the United States Transportation Command, shall conduct a study on the feasibility of developing and maintaining a database as part of an electronic merchant mariner licensing and documentation system that—“(A) contains records with respect to each credentialed mariner, including credential validity, drug and alcohol testing results, and information on any final adjudicated agency action involving a credentialed mariner or regarding any involvement in a marine casualty; and “(B) maintains such records in a manner that allows data to be readily accessed by the Federal Government for the purpose of assessing workforce needs and for the purpose of the economic and national security of the United States. “(2) Contents.—The study required under paragraph (1) shall—“(A) include an assessment of the resources, including information technology, and authorities necessary to develop and maintain the database described in such paragraph; “(B) specifically address ways to protect the privacy interests of any individual whose information may be contained within such database, which shall include limiting access to the database or having access to the database be monitored by, or accessed through, a member of the Coast Guard; and “(C) address the feasibility of incorporating in such database a reporting mechanism to alert the Administrator of the Maritime Administration each time a mariner’s credential is reinstated upon completion of a period of suspension as the result of a suspension and revocation proceeding under [section 7702 of title 46](./chapter-077-suspension-and-revocation.md#section-7702), United States Code, with details about the violation that led to such suspension. “(c) Electronic Merchant Mariner Licensing and Documentation System.—Notwithstanding any other provision of law, not later than 2 years after the date of enactment of this Act, the Secretary shall implement an electronic merchant mariner licensing and documentation system.”
+
+[For definitions of terms used in section 11511 of Pub. L. 117–263, set out above, see section 11002 of Pub. L. 117–263, set out as a note under [section 106 of Title 14](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section106&num=0&edition=prelim), Coast Guard, and section 11515 of Pub. L. 117–263, set as as note under [section 7302 of this title](./chapter-073-merchant-mariners-documents.md#section-7302).]
 
 #### Electronic Records on Mariner Availability To Meet National Security Needs
 Pub. L. 115–232, div. C, title XXXV, § 3510, Aug. 13, 2018, 132 Stat. 2310, provided that: “The Secretary of the department in which the Coast Guard is operating shall ensure that electronic records maintained under [section 7502 of title 46](./chapter-075-general-procedures-for-licensing-certification-and-documentation.md#section-7502), United States Code, are able to be used by the Secretary of Transportation— “(1) to determine the potential availability of mariners credentialed under part E of subtitle II of title 46, United States Code, to meet national security sealift needs; and “(2) to receive information on the qualification of such mariners.”
@@ -255,7 +260,7 @@ Pub. L. 114–120, title III, § 309(b), Feb. 8, 2016, 130 Stat. 57, provided th
 
   (B) not later than 3 years after the date of enactment of the Coast Guard Authorization Act of 2016, completes a formal review, including an appropriate analysis, of the topics and testing methodology employed by the National Maritime Center for merchant mariner licensing.
 
-(9) **FACA.—** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
+(9) **Chapter 10 of title 5.—** — Chapter 10 of title 5 shall not apply to any working group created under this section to review the Coast Guard’s merchant mariner credentialing examinations.
 
 **(d) Merchant Mariner Credential Defined.—** In this section, the term “merchant mariner credential” means a merchant mariner license, certificate, or document that the Secretary is authorized to issue pursuant to this title.
 
@@ -264,9 +269,9 @@ Pub. L. 114–120, title III, § 309(b), Feb. 8, 2016, 130 Stat. 57, provided th
 #### References in Text
 The date of the enactment of the Coast Guard Authorization Act of 2016, referred to in subsec. (c)(1), (4)(A), (8)(B), is the date of enactment of Pub. L. 114–120, which was approved Feb. 8, 2016.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(9), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (c)(9). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “FACA” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2021—Subsec. (c)(8)(B). Pub. L. 116–283, § 8505(b)(7)(A), substituted “merchant mariner” for “merchant seamen”.
 
 Subsec. (d). Pub. L. 116–283, § 8505(b)(7)(B), substituted “merchant mariner license” for “merchant seaman license”.
@@ -288,3 +293,14 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 
 #### Disclosure to Congress
 Pub. L. 114–120, title III, § 315(c), Feb. 8, 2016, 130 Stat. 62, provided that: “Nothing in this section [enacting this section and [section 7116 of this title](./chapter-071-licenses-and-certificates-of-registry.md#section-7116)] may be construed to authorize the withholding of information from an appropriate inspector general, the Committee on Commerce, Science, and Transportation of the Senate, or the Committee on Transportation and Infrastructure of the House of Representatives.”
+
+
+<a id="section-7511"></a>
+## § 7511. Convicted sex offender as grounds for denial
+**(a) Sexual Abuse.—** A license, certificate of registry, or merchant mariner’s document authorized to be issued under this part shall be denied to an individual who has been convicted of a sexual offense prohibited under—
+
+(1) chapter 109A of title 18, except for subsection (b) of [section 2244 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2244&num=0&edition=prelim); or
+
+(2) a substantially similar offense under State, local, or Tribal law.
+
+**(b) Abusive Sexual Contact.—** A license, certificate of registry, or merchant mariner’s document authorized to be issued under this part may be denied to an individual who within 5 years before applying for the license, certificate, or document, has been convicted of a sexual offense prohibited under subsection (b) of [section 2244 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section2244&num=0&edition=prelim), or a substantially similar offense under State, local, or Tribal law.

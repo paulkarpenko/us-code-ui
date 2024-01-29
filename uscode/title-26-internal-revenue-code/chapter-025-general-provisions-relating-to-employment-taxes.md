@@ -311,11 +311,13 @@ Pub. L. 103–387, § 2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: “
 
   (E) section 45R (employee health insurance expenses of small employers),
 
-  (F) section 51 (work opportunity credit),
+  (F) section 45AA (military spouse retirement plan eligibility credit),
 
-  (G) section 1396 (empowerment zone employment credit), and
+  (G) section 51 (work opportunity credit),
 
-  (H) any other section as provided by the Secretary.
+  (H) section 1396 (empowerment zone employment credit), and
+
+  (I) any other section as provided by the Secretary.
 
 **(e) Special rule for related party** This section shall not apply in the case of a customer which bears a relationship to a certified professional employer organization described in section 267(b) or 707(b). For purposes of the preceding sentence, such sections shall be applied by substituting “10 percent” for “50 percent”.
 
@@ -333,6 +335,12 @@ shall be designed in a manner which streamlines, to the extent possible, the app
 **(h) Regulations** The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section.
 
 ### Statutory Notes
+
+#### Amendments
+2022—Subsec. (d)(2)(F) to (I). Pub. L. 117–328 added subpar. (F) and redesignated former subpars. (F) to (H) as (G) to (I), respectively.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 applicable to taxable years beginning after Dec. 29, 2022, see section 112(e) of Pub. L. 117–328, set out as a note under [section 38 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-38).
 
 #### Effective Date
 Section applicable with respect to wages for services performed on or after January 1 of the first calendar year beginning more than 12 months after Dec. 19, 2014, see section 206(g)(1) of Pub. L. 113–295, set out as an Effective Date of 2014 Amendment note under [section 3302 of this title](./chapter-023-federal-unemployment-tax-act.md#section-3302).

@@ -2,7 +2,7 @@
 title: 37
 chapter: '8'
 heading: TRAVEL AND TRANSPORTATION ALLOWANCES
-section_count: 14
+section_count: 16
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37&num=0&edition=prelim
 ---
@@ -38,15 +38,15 @@ source: >-
 
   (H) Any other person not covered by subparagraphs (A) through (G) who is determined by the administering Secretary pursuant to regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464) as warranting the provision of travel benefits for purposes of the following:
 
-    (i) Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in section 481f 11 See References in Text note below. of this title.
+    (i) Transportation of survivors to attend burial services or transfer of deceased members after death overseas as provided in [section 453(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section453/f&num=0&edition=prelim).
 
-    (ii) Transportation of designated individuals incident to the hospitalization of members as provided in section 481h 1 of this title.
+    (ii) Transportation of designated individuals incident to the hospitalization of members as provided in [section 452(b)(12) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452/b/12&num=0&edition=prelim).
 
-    (iii) Transportation of designated individuals incident to the repatriation of members as provided in section 481j 1 of this title.
+    (iii) Transportation of designated individuals incident to the repatriation of members as provided in [section 452(b)(13) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452/b/13&num=0&edition=prelim).
 
-    (iv) Transportation of non-medical attendants as provided in section 481k 1 of this title.
+    (iv) Transportation of non-medical attendants as provided in [section 452(b)(14) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452/b/14&num=0&edition=prelim).
 
-    (v) Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in section 481l 1 of this title.
+    (v) Transportation of designated individuals to attend Yellow Ribbon Reintegration Program events as provided in [section 452(b)(15) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section452/b/15&num=0&edition=prelim).
 
     (vi) Transportation of a person with regard to a single event when the administering Secretary determines that the travel is necessary to ensure fairness and equity, respond to emergency or humanitarian circumstances, or serve the best interests of the Government.
 
@@ -110,10 +110,17 @@ source: >-
 
 ### Statutory Notes
 
-#### References in Text
-Sections 481f, 481h, 481j, 481k, and 481l of this title, referred to in subsec. (a)(2)(H), were repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767.
-
 #### Amendments
+2022—Subsec. (a)(2)(H)(i). Pub. L. 117–263, § 626(h)(6)(A), substituted “section 453(f)” for “section 481f”.
+
+Subsec. (a)(2)(H)(ii). Pub. L. 117–263, § 626(h)(6)(B), substituted “section 452(b)(12)” for “section 481h”.
+
+Subsec. (a)(2)(H)(iii). Pub. L. 117–263, § 626(h)(6)(C), substituted “section 452(b)(13)” for “section 481j”.
+
+Subsec. (a)(2)(H)(iv). Pub. L. 117–263, § 626(h)(6)(D), substituted “section 452(b)(14)” for “section 481k”.
+
+Subsec. (a)(2)(H)(v). Pub. L. 117–263, § 626(h)(6)(E), substituted “section 452(b)(15)” for “section 481l”.
+
 2021—Subsec. (a)(2)(H)(vii), (viii). Pub. L. 117–81, § 603(c)(2)(A), added cls. (vii) and (viii).
 
 Subsec. (a)(2)(H)(ix). Pub. L. 117–81, § 603(d)(2), added cl. (ix).
@@ -171,13 +178,17 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 
 (17) Attendance at or participation in international sports competitions described under [section 717 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section717&num=0&edition=prelim).
 
-(18) 11 So in original. Another par. (18) is set out after par. (20). Travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is outside the continental United States (other than in Alaska or Hawaii).
+(18) Travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is outside the continental United States (other than in Alaska or Hawaii).
 
 (19) Travel by a dependent child within the United States to obtain formal secondary, undergraduate, graduate, or vocational education, if the permanent duty assignment location of the member of the uniformed services is in Alaska or Hawaii and the school is located in a State outside of the permanent duty assignment location.
 
 (20) Subject to subsection (i), travel by a dependent to a location where a member of the uniformed services is on permanent duty aboard a ship that is overhauling, inactivating, or under construction.
 
-(18) 22 So in original. Another par. (18) is set out after par. (17). Presence of family members at the funeral and memorial services of members.
+(21) Presence of family members at the funeral and memorial services of members.
+
+(22) Permanent change of assignment to or from a naval vessel undergoing nuclear refueling or defueling and any concurrent complex overhaul, even if such assignment is within the same area as the current assignment of the member.
+
+(23) Current assignment to a naval vessel entering or exiting nuclear refueling or defueling and any concurrent complex overhaul.
 
 **(c) Matters Included.—** Travel and transportation allowances which may be provided under subsection (a) include the following:
 
@@ -220,6 +231,10 @@ Pub. L. 112–81, div. A, title VI, § 632, Dec. 31, 2011, 125 Stat. 1465, provi
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b)(18), (21). Pub. L. 117–263, § 621(1), redesignated par. (18), relating to presence of family members at the funeral and memorial services of members, as (21).
+
+Subsec. (b)(22), (23). Pub. L. 117–263, § 621(2), added pars. (22) and (23).
+
 2021—Subsec. (b)(18). Pub. L. 117–81, § 623, added par. (18) relating to presence of family members at the funeral and memorial services of members at end of subsec. (b).
 
 Pub. L. 117–81, § 603(c)(1), added par. (18) relating to travel by a dependent child to the United States to obtain formal secondary, undergraduate, graduate, or vocational education.
@@ -267,27 +282,119 @@ Subsec. (i). Pub. L. 117–81, § 603(d)(1)(B), added subsec. (i).
 
 **(f) Attendance at Memorial Ceremonies and Services.—** A family member or member of the uniformed services who attends a deceased member’s repatriation, burial, or memorial ceremony or service may be provided travel and transportation allowances to the extent provided in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464).
 
-**(g) Reimbursement of Qualifying Spouse Relicensing Costs Incident to a Member’s Permanent Change of Station or Assignment.—**
+**(g) Reimbursement of Qualifying Spouse Relicensing Costs and Business Costs.—**
 
-(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs of the spouse of the member when—
+(1) From amounts otherwise made available for a fiscal year to provide travel and transportation allowances under this chapter, the Secretary concerned may reimburse a member of the uniformed services for qualified relicensing costs and qualified business costs of the spouse of the member when—
 
-  (A) the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and
+  (A) the member relocates to a new jurisdiction or geographic area as the result of—
 
-  (B) the movement of the member’s dependents is authorized at the expense of the United States under this section as part of the reassignment.
+    (i) an assignment to a duty station;
 
-(2) Reimbursement provided to a member under this subsection may not exceed $1000 in connection with each reassignment described in paragraph (1).
+    (ii) a reassignment, either as a result of a permanent change of station or permanent change of assignment, between duty stations;
 
-(3) No reimbursement may be provided under this subsection for qualified relicensing costs paid or incurred after December 31, 2024.
+    (iii) a transfer from a regular component of a uniformed service into the Selected Reserve of the Ready Reserve of a uniformed service, if the member is authorized a final move from the last duty station to the new jurisdiction or geographic area; or
 
-(4) In this subsection, the term “qualified relicensing costs” means costs, including exam, continuing education courses, and registration fees, incurred by the spouse of a member if—
+    (iv) placement on the temporary disability retired list under chapter 61 of title 10; and
 
-  (A) the spouse was licensed or certified in a profession during the member’s previous duty assignment and requires a new license or certification to engage in that profession in a new jurisdiction because of movement described in paragraph (1)(B) in connection with the member’s change in duty location pursuant to reassignment described in paragraph (1)(A); and
+  (B) the movement of the member’s dependents is authorized at the expense of the United States under this section as part of the relocation.
 
-  (B) the costs were incurred or paid to secure or maintain the license or certification from the new jurisdiction in connection with such reassignment.
+(2)
+
+  (A) Reimbursement provided to a member under this subsection for qualified relicensing costs may not exceed $1,000 in connection with each relocation described in paragraph (1).
+
+  (B) Reimbursement provided to a member under this subsection for qualified business costs may not exceed $1,000 in connection with each relocation described in paragraph (1).
+
+(3) No reimbursement may be provided under this subsection for qualified relicensing costs or qualified business costs paid or incurred after December 31, 2029.
+
+(4) In this subsection, the term “qualified relicensing costs” means costs, including exam, continuing education courses, business license, permit, and registration fees, incurred by the spouse of a member if—
+
+  (A) the spouse was licensed or certified in a profession, or owned a business, during the member’s previous duty assignment and requires a new professional license or certification, or business license or permit, to engage in that profession in a new jurisdiction because of the member’s relocation described in paragraph (1); and
+
+  (B) the costs were incurred or paid to secure or maintain the professional license or certification, or business license or permit, from the new jurisdiction in connection with such relocation.
+
+(5) In this subsection, the term “qualified business costs” means costs, including moving services for equipment, equipment removal, new equipment purchases, information technology expenses, and inspection fees, incurred by the spouse of a member if—
+
+  (A) the spouse owned a business during the member’s previous duty assignment and the costs result from a the member’s relocation described in paragraph (1); and
+
+  (B) the costs were incurred or paid to move such business to a new location in connection with such relocation.
+
+**(h) Reimbursement for Transportation of Pets Arising From Certain Permanent Changes of Stations.—**
+
+(1) The Secretary concerned may reimburse a member for any cost related to the relocation of a pet that arises from a permanent change of station of such member within the continental United States. Such reimbursement may not exceed $550 for each such permanent change of station.
+
+(2) The Secretary concerned may reimburse a member for any cost related to the relocation of a pet that arises from a permanent change of station of such member to or from a duty station located outside the continental United States. Such reimbursement may not exceed $4,000 for each such permanent change of station.
+
+**(i) Attendance at Professional Military Education Institution or Training Classes.—**
+
+(1) The Secretary of the military department concerned may authorize temporary duty status, and travel and transportation allowances payable to a member in such status, for a member under the jurisdiction of such Secretary who is reassigned—
+
+  (A) between duty stations located within the United States;
+
+  (B) for a period of not more than one year;
+
+  (C) for the purpose of participating in professional military education or training classes,
+
+  (D) with orders to return to the duty station where the member maintains primary residence and the dependents of such member reside.
+
+(2) If the Secretary of the military department concerned assigns permanent duty status to a member described in paragraph (1), such member shall be eligible for travel and transportation allowances including the following:
+
+  (A) Transportation, including mileage at the same rate paid for a permanent change of station.
+
+  (B) Per diem while traveling between the permanent duty station and professional military education institution or training site.
+
+  (C) Per diem paid in the same manner and amount as temporary lodging expenses.
+
+  (D) Per diem equal to the amount of the basic allowance for housing under [section 403 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-403) paid to a member—
+
+    (i) in the grade of such member;
+
+    (ii) without dependents;
+
+    (iii) who resides in the military housing area in which the professional military education institution or training site is located.
+
+  (E) Movement of household goods in an amount determined under applicable regulations.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (g). Pub. L. 118–31, § 635(1), substituted “Reimbursement of Qualifying Spouse Relicensing Costs and Business Costs” for Reimbursement of Qualifying Spouse Relicensing Costs or Business Costs Incident to a Member’s Permanent Change of Station or Assignment in heading.
+
+Subsec. (g)(1). Pub. L. 118–31, § 635(2)(A), substituted “and qualified business costs” for “or qualified business costs” in introductory provisions.
+
+Subsec. (g)(1)(A). Pub. L. 118–31, § 635(2)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the member is reassigned, either as a permanent change of station or permanent change of assignment, between duty stations located in separate jurisdictions with unique licensing or certification requirements and authorities; and”.
+
+Subsec. (g)(1)(B). Pub. L. 118–31, § 635(2)(C), substituted “relocation” for “reassignment”.
+
+Subsec. (g)(2). Pub. L. 118–31, § 635(3), substituted “relocation” for “reassignment” in subpars. (A) and (B).
+
+Subsec. (g)(4)(A). Pub. L. 118–31, § 635(4)(A), substituted “the member’s relocation described in paragraph (1);” for “movement described in paragraph (1)(B) in connection with the member’s change in duty location pursuant to reassignment described in paragraph (1)(A);”.
+
+Subsec. (g)(4)(B). Pub. L. 118–31, § 635(4)(B), substituted “relocation” for “reassignment”.
+
+Subsec. (g)(5)(A). Pub. L. 118–31, § 635(5)(A), substituted “the member’s relocation described in paragraph (1);” for “movement described in paragraph (1)(B) in connection with the member’s change in duty location pursuant to reassignment described in paragraph (1)(A);”.
+
+Subsec. (g)(5)(B). Pub. L. 118–31, § 635(5)(B), substituted “relocation” for “reassignment”.
+
+2022—Subsec. (g). Pub. L. 117–263, § 622(a)(1), inserted “Relicensing Costs” after “Relicensing Costs” in heading.
+
+Subsec. (g)(1). Pub. L. 117–263, § 622(a)(2), inserted “or qualified business costs” after “qualified relicensing costs” in introductory provisions.
+
+Subsec. (g)(2). Pub. L. 117–263, § 622(a)(3), designated existing provisions as subpar. (A), inserted “for qualified relicensing costs” after “subsection”, substituted “$1,000” for “$1000”, and added subpar. (B).
+
+Subsec. (g)(3). Pub. L. 117–263, §§ 622(a)(4), 623, inserted “or qualified business costs” after “qualified relicensing costs” and substituted “December 31, 2029” for “December 31, 2024”.
+
+Subsec. (g)(4). Pub. L. 117–263, § 622(a)(5)(A), inserted “business license, permit,” after “courses,” in introductory provisions.
+
+Subsec. (g)(4)(A). Pub. L. 117–263, § 622(a)(5)(B), inserted “, or owned a business,” before “during”, “professional” before “license”, and “, or business license or permit,” after “certification”.
+
+Subsec. (g)(4)(B). Pub. L. 117–263, § 622(a)(5)(C), inserted “professional” before “license” and “, or business license or permit,” after “certification”.
+
+Subsec. (g)(5). Pub. L. 117–263, § 622(a)(6), added par. (5).
+
+Subsec. (h). Pub. L. 117–263, § 624, added subsec. (h).
+
+Subsec. (i). Pub. L. 117–263, § 625, added subsec. (i).
+
 2021—Subsec. (g). Pub. L. 116–283 added subsec. (g).
 
 2016—Subsec. (g). Pub. L. 114–328 struck out subsec. (g). Text read as follows: “A member may be reimbursed as specified in regulations prescribed under [section 464 of this title](./chapter-008-travel-and-transportation-allowances.md#section-464) for travel and related expenses incurred by the member as a result of the cancellation of previously approved leave when the leave is cancelled in conjunction with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced. The settlement for reimbursement under this subsection is final and conclusive.”
@@ -295,6 +402,9 @@ Subsec. (i). Pub. L. 117–81, § 603(d)(1)(B), added subsec. (i).
 2013—Subsec. (c)(3). Pub. L. 113–66, § 621(h), substituted “(including household goods in temporary storage, but excluding packing and crating)” for “(including packing, crating, and household goods in temporary storage)”.
 
 Subsec. (g). Pub. L. 113–66, § 621(c)(1), added subsec. (g).
+
+#### Storage of Household Effects
+Pub. L. 101–510, div. A, title V, § 503(c), Nov. 5, 1990, 104 Stat. 1558, as amended by Pub. L. 103–160, div. A, title V, § 561(l)(2), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 105–261, div. A, title V, § 561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–398, § 1 [[div. A], title V, § 571(f)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134; Pub. L. 112–81, div. A, title VI, § 631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “(1) The Secretary of a military department shall exercise the authority provided by [section 476 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section476&num=0&edition=prelim), United States Code, to provide nontemporary storage of baggage and household effects for a period not longer than one year in the case of individuals who are involuntarily separated during the period beginning on October 1, 1990, and ending on December 31, 2001. “(2) For purposes of this subsection, the term ‘involuntarily separated’ has the meaning given that term in [section 1141 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1141&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-454"></a>
@@ -332,6 +442,11 @@ Subsec. (g). Pub. L. 113–66, § 621(c)(1), added subsec. (g).
   (B) Such recommendations for legislative or administrative action as the Secretary considers appropriate in light of the pilot program.
 
 **(d) Congressional Defense Committees Defined.—** In this section, the term “congressional defense committees” has the meaning given that term in [section 101(a)(16) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a/16&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Pilot Program To Reimburse Members of the Armed Forces for Certain Child Care Costs Incident to a Permanent Change of Station or Assignment
+Pub. L. 117–263, div. A, title VI, § 627, Dec. 23, 2022, 136 Stat. 2630, provided that: “(a) Establishment.—The Secretary of Defense shall carry out a pilot program to reimburse members of the Armed Forces for certain child care costs incident to a permanent change of station or assignment. “(b) Travel and Transportation Allowances.—Under the pilot program, the Secretary of Defense shall treat a designated child care provider as an authorized traveler if child care is not available to a member of the Armed Forces at a military child development center at the permanent duty location of such member not later than 30 days after the member arrives at such location. “(c) Reimbursement of Certain Child Care Costs.—“(1) Authority.—Under the pilot program, the Secretary of Defense may reimburse a member of the Armed Forces for travel expenses for a designated child care provider when—“(A) the member is reassigned, either as a permanent change of station or permanent change of assignment, to a new duty station; “(B) the movement of the member’s dependents is authorized at the expense of the United States under [section 451 of title 37](./chapter-008-travel-and-transportation-allowances.md#section-451), United States Code, as part of the reassignment; “(C) child care is not available at a military child development center at such duty station not later than 30 days after the member arrives at such duty station; and “(D) the dependent child is on the wait list for child care at such military child development center. “(2) Maximum amounts.—Reimbursement provided to a member under this subsection may not exceed—“(A) $500 for a reassignment between duty stations within the continental United States; and “(B) $1,500 for a reassignment involving a duty station outside of the continental United States. “(3) Deadline.—A member may not apply for reimbursement under this subsection later than one year after a reassignment described in paragraph (1). “(4) Concurrent receipt prohibited.—In the event a household contains more than one member eligible for reimbursement under this subsection, reimbursement may be paid to one member among such members as such members shall jointly elect. “(d) Report.—Not later than January 1, 2027, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program, including the recommendation of the Secretary whether to make the pilot program permanent. “(e) Termination.—The pilot program shall terminate on September 30, 2028. “(f) Definitions.—In this section:“(1) The term ‘authorized traveler’ has the meaning given such term in [section 451 of title 37](./chapter-008-travel-and-transportation-allowances.md#section-451), United States Code. “(2) The term ‘designated child care provider’ means an adult selected by a member of the armed forces to provide child care to a dependent child of such member. “(3) The term ‘military child development center’ has the meaning given such term in [section 1800 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section1800&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-455"></a>
@@ -438,7 +553,7 @@ This subchapter and subchapter I shall be administered under terms, rates, condi
 
 Section 471, added Pub. L. 112–81, div. A, title VI, § 631(b), Dec. 31, 2011, 125 Stat. 1460, defined the term “travel authorities transition expiration date” in this subchapter.
 
-Section 472, added Pub. L. 112–81, div. A, title VI, § 631(b), Dec. 31, 2011, 125 Stat. 1460, related to application of sections 401, 421 and 423 of this title to this subchapter.
+Section 472, added Pub. L. 112–81, div. A, title VI, § 631(b), Dec. 31, 2011, 125 Stat. 1460, related to application of sections 401, 421, and 423 of this title to this subchapter.
 
 Section 474, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472, § 404; Pub. L. 89–680, § 1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§ 55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, § 3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, § 1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, § 807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, § 5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, § 121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, § 908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, § 533(g), title VI, § 613(a), title XIV, § 1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, § 612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, § 101(c) [title IX, § 9073], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, § 101(c) [title IX, § 9073], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, § 614(a), title XIII, § 1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, § 8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, § 617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, § 621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, § 503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, § 702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, § 624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, § 561(l)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§ 621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, § 621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, § 1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, § 602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, § 561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, § 631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, § 1 [[div. A], title V, § 571(f), title X, § 1087(b)(3)], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, § 631, Dec. 28, 2001, 115 Stat. 1143; renumbered § 474 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(1), Dec. 31, 2011, 125 Stat. 1460, 1461; Pub. L. 112–239, div. A, title VI, § 621(a), Jan. 2, 2013, 126 Stat. 1778; Pub. L. 115–232, div. A, title VI, § 603(a), Aug. 13, 2018, 132 Stat. 1794; Pub. L. 117–81, div. A, title VI, § 603(a)(2), Dec. 27, 2021, 135 Stat. 1766, related to travel and transportation allowances for a member of a uniformed service.
 
@@ -468,12 +583,12 @@ Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767, pr
 ## § 475. Renumbered § 405]
 
 
-<a id="section-475a-to-494"></a>
-## § 475a to 494. Repealed. Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767]
+<a id="section-475a-to-490"></a>
+## § 475a to 490. Repealed. Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767]
 
 ### Statutory Notes
 
-Section 475, added Pub. L. 89–26, § 1(1), May 22, 1965, 79 Stat. 116, § 405a; amended Pub. L. 89–608, § 2, Sept. 30, 1966, 80 Stat. 851; Pub. L. 96–465, title II, § 2303(e), Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–60, title I, §§ 121(c), 123, Oct. 14, 1981, 95 Stat. 1002, 1003; Pub. L. 99–661, div. A, title XIII, § 1343(b)(3), Nov. 14, 1986, 100 Stat. 3995; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, § 625(b)(1), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 104–106, div. A, title VI, § 622(a), Feb. 10, 1996, 110 Stat. 363; Pub. L. 105–261, div. A, title VI, § 653(c), Oct. 17, 1998, 112 Stat. 2052; renumbered § 475a and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(5), Dec. 31, 2011, 125 Stat. 1460, 1462, related to expenses incident to an authorized or ordered departure.
+Section 475a, added Pub. L. 89–26, § 1(1), May 22, 1965, 79 Stat. 116, § 405a; amended Pub. L. 89–608, § 2, Sept. 30, 1966, 80 Stat. 851; Pub. L. 96–465, title II, § 2303(e), Oct. 17, 1980, 94 Stat. 2165; Pub. L. 97–60, title I, §§ 121(c), 123, Oct. 14, 1981, 95 Stat. 1002, 1003; Pub. L. 99–661, div. A, title XIII, § 1343(b)(3), Nov. 14, 1986, 100 Stat. 3995; Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, § 625(b)(1), Oct. 23, 1992, 106 Stat. 2424; Pub. L. 104–106, div. A, title VI, § 622(a), Feb. 10, 1996, 110 Stat. 363; Pub. L. 105–261, div. A, title VI, § 653(c), Oct. 17, 1998, 112 Stat. 2052; renumbered § 475a and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(5), Dec. 31, 2011, 125 Stat. 1460, 1462, related to expenses incident to an authorized or ordered departure.
 
 Section 476, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 473, § 406; Pub. L. 88–431, § 1(a), Aug. 14, 1964, 78 Stat. 439; Pub. L. 89–101, § 2, July 30, 1965, 79 Stat. 425; Pub. L. 89–680, § 1(2), (3), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§ 58, 59, Nov. 2, 1966, 80 Stat. 1123; Pub. L. 90–623, § 3(6), Oct. 22, 1968, 82 Stat. 1314; Pub. L. 96–107, title VIII, § 814, Nov. 9, 1979, 93 Stat. 817; Pub. L. 96–513, title V, § 506(7), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 97–60, title I, § 121(b), Oct. 14, 1981, 95 Stat. 1000; Pub. L. 97–86, title IV, § 404, Dec. 1, 1981, 95 Stat. 1105; Pub. L. 97–258, § 2(i)(1), Sept. 13, 1982, 96 Stat. 1061; Pub. L. 97–295, § 3(4), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 98–94, title IX, § 909, Sept. 24, 1983, 97 Stat. 638; Pub. L. 99–145, title VI, §§ 612(b), 614(a), 617(a), title XIII, § 1303(b)(9), Nov. 8, 1985, 99 Stat. 639–641, 741; Pub. L. 99–433, title VI, § 602(f)(2), Oct. 1, 1986, 100 Stat. 1070; Pub. L. 99–661, div. A, title VI, §§ 617(a), 620(a), (b)(1), 652(a), (b), Nov. 14, 1986, 100 Stat. 3880, 3882, 3888; Pub. L. 100–180, div. A, title VI, § 616(b), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 100–456, div. A, title VI, § 602(a), Sept. 29, 1988, 102 Stat. 1976; Pub. L. 101–189, div. A, title VI, § 623(a), (b), Nov. 29, 1989, 103 Stat. 1447; Pub. L. 101–510, div. A, title V, § 503(b), title VI, §§ 621, 622(a), title XIV, § 1484(i)(9), Nov. 5, 1990, 104 Stat. 1558, 1580, 1718; Pub. L. 102–25, title VII, § 702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title XI, § 1111(d)(4), Dec. 5, 1991, 105 Stat. 1492; Pub. L. 102–241, § 12, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 102–484, div. A, title VI, § 622(a), title X, § 1054(a)(4), Oct. 23, 1992, 106 Stat. 2422, 2502; Pub. L. 103–160, div. A, title V, § 561(l)(1), title XI, § 1182(d)(1), Nov. 30, 1993, 107 Stat. 1668, 1773; Pub. L. 104–106, div. A, title VI, §§ 623, 642(a)(1), title XV, §§ 1502(b), 1505(d), Feb. 10, 1996, 110 Stat. 363, 368, 506, 514; Pub. L. 104–201, div. A, title III, § 368(b), title VI, §§ 621(a), 624, Sept. 23, 1996, 110 Stat. 2498, 2548; Pub. L. 105–85, div. A, title VI, §§ 603(d)(1)(B), 631, Nov. 18, 1997, 111 Stat. 1782, 1795; Pub. L. 105–261, div. A, title V, § 561(f), title VI, §§ 631(a), (b)(1), 632, 653(b), Oct. 17, 1998, 112 Stat. 2025, 2043, 2044, 2051; Pub. L. 106–398, § 1 [[div. A], title V, § 571(f), title VI, §§ 642(a), 643], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–161; Pub. L. 107–107, div. A, title VI, §§ 633(a), 634(a), Dec. 28, 2001, 115 Stat. 1144; Pub. L. 107–296, title XVII, § 1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 108–136, div. A, title V, § 571, title VI, § 631(b), Nov. 24, 2003, 117 Stat. 1484, 1508; Pub. L. 109–163, div. A, title VI, §§ 652, 654(a), Jan. 6, 2006, 119 Stat. 3312, 3313; Pub. L. 110–289, div. B, title VI, § 2609, July 30, 2008, 122 Stat. 2862; Pub. L. 110–417, [div. A], title VI, §§ 621, 622, Oct. 14, 2008, 122 Stat. 4491, 4492; renumbered § 476 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(6), (f)(4)(A), Dec. 31, 2011, 125 Stat. 1460, 1462, 1465; Pub. L. 112–239, div. A, title VI, § 621(b), title X, § 1076(a)(9), Jan. 2, 2013, 126 Stat. 1779, 1948; Pub. L. 115–91, div. A, title V, § 556(a), Dec. 12, 2017, 131 Stat. 1403; Pub. L. 116–92, div. A, title V, § 577, Dec. 20, 2019, 133 Stat. 1406; Pub. L. 116–283, div. A, title VI, § 622(b), Jan. 1, 2021, 134 Stat. 3677, related to certain travel and transportation allowances.
 
@@ -525,12 +640,6 @@ Section 489, added Pub. L. 95–561, title XIV, § 1407(e)(1)(A), formerly § 14
 
 Section 490, added Pub. L. 98–94, title IX, § 910(a)(1), Sept. 24, 1983, 97 Stat. 638, § 430; amended Pub. L. 101–189, div. A, title VI, § 625(a), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 101–510, div. A, title XIV, § 1484(e)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, § 702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, § 634, Oct. 17, 1998, 112 Stat. 2044; Pub. L. 106–398, § 1 [[div. A], title VI, § 646], Oct. 30, 2000, 114 Stat. 1654, 1654A–162; Pub. L. 107–107, div. A, title VI, § 639(a)–(c), title IX, § 931(c), Dec. 28, 2001, 115 Stat. 1148, 1200; Pub. L. 107–314, div. A, title VI, § 654(b)(6), Dec. 2, 2002, 116 Stat. 2582; Pub. L. 108–136, div. A, title VI, § 633, Nov. 24, 2003, 117 Stat. 1509; Pub. L. 108–375, div. A, title VI, § 633, Oct. 28, 2004, 118 Stat. 1957; renumbered § 490 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(29), Dec. 31, 2011, 125 Stat. 1460, 1464, related to transportation for eligible dependent children of one annual trip between certain schools and the member’s duty station outside the continental United States.
 
-Section 491, added Pub. L. 99–145, title XIII, § 1302(b)(1), Nov. 8, 1985, 99 Stat. 738, § 431; amended Pub. L. 102–25, title VII, § 702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–93, title V, § 502(b), Jan. 6, 1996, 109 Stat. 973; Pub. L. 106–65, div. A, title X, § 1067(2), Oct. 5, 1999, 113 Stat. 774; Pub. L. 112–81, div. A, title VI, § 631(d)(2), Dec. 31, 2011, 125 Stat. 1460; renumbered § 491, Pub. L. 112–239, div. A, title X, § 1076(h)(2), Jan. 2, 2013, 126 Stat. 1955, related to benefits for certain members assigned to the Defense Intelligence Agency.
-
-Section 492, added Pub. L. 99–661, div. A, title VI, § 615(a)(1), Nov. 14, 1986, 100 Stat. 3879, § 431; renumbered § 432, Pub. L. 100–26, § 8(b)(1), Apr. 21, 1987, 101 Stat. 285; amended Pub. L. 107–107, div. A, title IX, § 931(c), Dec. 28, 2001, 115 Stat. 1200; renumbered § 492 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(30), Dec. 31, 2011, 125 Stat. 1460, 1464, related to travel of a member under competent orders as an escort for the member’s dependent who is incapable of traveling alone because of age, mental or physical incapacity, or other extraordinary circumstances.
-
-Section 494, added Pub. L. 102–484, div. A, title VI, § 623(a)(1), Oct. 23, 1992, 106 Stat. 2422, § 434; renumbered § 494 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(31), Dec. 31, 2011, 125 Stat. 1460, 1464, related to cost of subsistence incurred by the member while performing duties as an escort or member of an arms control inspection team of a foreign country while engaged in activities related to the implementation of an arms control treaty or agreement.
-
 #### Prior Provisions
 Act Aug. 1, 1953, cited as the source of subsec. (j) of section 476 in the Historical and Revision Notes, is known as the Department of Defense Appropriation Act, 1954. Similar provisions were contained in the following prior appropriation acts:
 
@@ -566,7 +675,27 @@ June 11, 1938, ch. 347, 52 Stat. 647.
 
 July 1, 1937, ch. 423, 50 Stat. 448.
 
+
+<a id="section-491"></a>
+## § 491. Renumbered § 431]
+
+### Statutory Notes
+
+#### Codification
+[Section 491 of this title](./chapter-008-travel-and-transportation-allowances.md#section-491), which related to benefits for certain members assigned to the Defense Intelligence Agency, was originally [section 431 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-431) and was transferred to chapter 8 of this title by Pub. L. 112–81, div. A, title VI, § 631(d)(2), Dec. 31, 2011, 125 Stat. 1460, and renumbered [section 491 of this title](./chapter-008-travel-and-transportation-allowances.md#section-491) by Pub. L. 112–239, div. A, title X, § 1076(h)(2), Jan. 2, 2013, 126 Stat. 1955. Section 491 was repealed by Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767. The section was revived to read as it did immediately before its repeal and renumbered [section 431 of this title](./chapter-007-allowances-other-than-travel-and-transportation-allowances.md#section-431) by Pub. L. 117–263, div. A, title VI, § 615(a), Dec. 23, 2022, 136 Stat. 2624. The section was transferred to its original location in Chapter 7 of this title to reflect the probable intent of Congress.
+
+#### Prior Provisions
 Provisions similar to section 491 were contained in [section 192 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section192&num=0&edition=prelim), Armed Forces, prior to enactment of section 491 by Pub. L. 99–145.
+
+
+<a id="section-492-to-494"></a>
+## § 492 to 494. Repealed. Pub. L. 117–81, div. A, title VI, § 604(a), Dec. 27, 2021, 135 Stat. 1767]
+
+### Statutory Notes
+
+Section 492, added Pub. L. 99–661, div. A, title VI, § 615(a)(1), Nov. 14, 1986, 100 Stat. 3879, § 431; renumbered § 432, Pub. L. 100–26, § 8(b)(1), Apr. 21, 1987, 101 Stat. 285; amended Pub. L. 107–107, div. A, title IX, § 931(c), Dec. 28, 2001, 115 Stat. 1200; renumbered § 492 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(30), Dec. 31, 2011, 125 Stat. 1460, 1464, related to travel of a member under competent orders as an escort for the member’s dependent who is incapable of traveling alone because of age, mental or physical incapacity, or other extraordinary circumstances.
+
+Section 494, added Pub. L. 102–484, div. A, title VI, § 623(a)(1), Oct. 23, 1992, 106 Stat. 2422, § 434; renumbered § 494 and amended Pub. L. 112–81, div. A, title VI, § 631(d)(2), (e)(31), Dec. 31, 2011, 125 Stat. 1460, 1464, related to cost of subsistence incurred by the member while performing duties as an escort or member of an arms control inspection team of a foreign country while engaged in activities related to the implementation of an arms control treaty or agreement.
 
 
 <a id="section-495"></a>

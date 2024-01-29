@@ -20,6 +20,9 @@ In this title, the term “agency” means a department, agency, or instrumental
 
 A definition of “agency” is added to avoid having to repeat the substance of the definition at various places in the revised title.
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–7, § 1, June 30, 2023, 137 Stat. 52, provided that: “This Act [amending [section 51509 of this title](./chapter-515-state-maritime-academy-support-program.md#section-51509)] may be cited as the ‘Changing Age-Determined Eligibility To Student Incentive Payments Act’ or the ‘CADETS Act’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–146, § 1, June 16, 2022, 136 Stat. 1272, provided that: “This Act [see Tables for classification] may be cited as the ‘Ocean Shipping Reform Act of 2022’.”
 

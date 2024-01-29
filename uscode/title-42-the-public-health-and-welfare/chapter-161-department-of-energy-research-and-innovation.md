@@ -84,12 +84,12 @@ It is the sense of Congress that—
 ## § 18613. Restoration of laboratory directed research and development program
 **(a) In general** Except as provided in subsection (b), the Secretary shall ensure that laboratory operating contractors do not allocate costs of general and administrative overhead to laboratory directed research and development.
 
-**(b) Exception for national security laboratories** This section shall not apply to the national security laboratories with respect to which section 3119 of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) applies.
+**(b) Exception for national security laboratories** This section shall not apply to the national security laboratories with respect to which section 3119 11 See References in Text note below. of the National Defense Authorization Act for Fiscal Year 2017 (Public Law 114–328) applies.
 
 ### Statutory Notes
 
 #### References in Text
-Section 3119 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (b), is section 3119 of Pub. L. 114–328, which is set out as a note under [section 2791 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2791&num=0&edition=prelim), War and National Defense.
+Section 3119 of the National Defense Authorization Act for Fiscal Year 2017, referred to in subsec. (b), is section 3119 of Pub. L. 114–328, which was set out as a note under [section 2791 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2791&num=0&edition=prelim), War and National Defense, prior to repeal by Pub. L. 117–263, div. C, title XXXI, § 3116(b), Dec. 23, 2022, 136 Stat. 3054.
 
 
 <a id="section-18614"></a>
@@ -1887,7 +1887,7 @@ Prior to amendment, section 308 of Pub. L. 115–246 also contained subsec. (b) 
 
 (3) **Nonduplication** — The committee shall work in alignment with, and shall not duplicate the efforts of, preexisting advisory committees that are advising the program established under subsection (b).
 
-(4) **FACA** — The committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+(4) **FACA** — The committee shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).11 See References in Text note below.
 
 **(d) Report**
 
@@ -1926,7 +1926,7 @@ Prior to amendment, section 308 of Pub. L. 115–246 also contained subsec. (b) 
 #### References in Text
 The American Medical Isotopes Production Act of 2012, referred to in subsec. (a)(2), is subtitle F (§§ 3171–3178) of title XXXI of div. C of Pub. L. 112–239, which enacted sections 2065 and 2142 of this title, amended [section 2160d of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2160d), and enacted provisions set out as a note under [section 2065 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2065). For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Radioisotope Processing Facility and Stable Isotope Production and Research Center
 Pub. L. 117–167, div. B, title I, § 10110(c), (d), Aug. 9, 2022, 136 Stat. 1455, provided that: “(c) Radioisotope Processing Facility.—“(1) In general.—The Secretary of Energy (referred to in this subsection as “the Secretary”) shall construct a radioisotope processing facility to provide for the growing radiochemical processing capability needs associated with the production of critical radioactive isotopes authorized under section 311 of the Department of Energy Research and Innovation Act [[42 U.S.C. 18649](./chapter-161-department-of-energy-research-and-innovation.md#section-18649)]. “(2) Funding.—Out of funds authorized to be appropriated under section 311(e) of the Department of Energy Research and Innovation Act, there are authorized to be appropriated to the Secretary to carry out this subsection—“(A) $30,500,000 for fiscal year 2023; “(B) $75,000,000 for fiscal year 2024; “(C) $105,000,000 for fiscal year 2025; “(D) $83,000,000 for fiscal year 2026; and “(E) $43,000,000 for fiscal year 2027. “(d) Stable Isotope Production and Research Center.—“(1) In general.—The Secretary of Energy (referred to in this subsection as “the Secretary”) shall establish a stable isotope production and research center—“(A) to expand the ability of the United States to perform multiple stable isotope production campaigns at large-scale production, as authorized under section 311 of the Department of Energy Research and Innovation Act; “(B) to mitigate the dependence of the United States on foreign-produced stable isotopes; “(C) to promote economic resilience; and “(D) to conduct research and development on stable isotope production and associated methods and technology. “(2) Funding.—Out of funds authorized to be appropriated under section 311(e) of the Department of Energy Research and Innovation Act, there are authorized to be appropriated to the Secretary to carry out this subsection—“(A) $74,400,000 for fiscal year 2023; “(B) $46,000,000 for fiscal year 2024; “(C) $31,200,000 for fiscal year 2025; “(D) $33,300,000 for fiscal year 2026; and “(E) $13,900,000 for fiscal year 2027.”

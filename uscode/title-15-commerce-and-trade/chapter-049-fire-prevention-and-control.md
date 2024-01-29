@@ -38,6 +38,9 @@ The Congress finds that—
 #### References in Text
 The National Commission on Fire Prevention and Control, established pursuant to Public Law 90–259, referred to in par. (1), refers to the Commission established pursuant to Pub. L. 90–259, title II, §§ 201–207, Mar. 1, 1968, 82 Stat. 36, which provisions were set out as a note under [section 278f of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278f). The Commission has expired pursuant to sections 203(c) and 207 of Pub. L. 90–259.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–67, div. A, § 1, July 9, 2024, 138 Stat. 1447, provided that: “This division [amending sections 2216, 2229, and 2229a of this title] may be cited as the ‘Fire Grants and Safety Act of 2023’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–246, § 1, Dec. 20, 2022, 136 Stat. 2345, provided that: “This Act [enacting [section 2235 of this title](./chapter-049-fire-prevention-and-control.md#section-2235)] may be cited as the ‘Empowering the U.S. Fire Administration Act’.”
 
@@ -1119,9 +1122,11 @@ The funds authorized under this subsection shall be in addition to funds authori
 
   (K) $76,490,890 for fiscal year 2015, of which $2,753,672 shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim);
 
-  (L) $76,490,890 for fiscal year 2016, of which $2,753,672 shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim); and
+  (L) $76,490,890 for fiscal year 2016, of which $2,753,672 shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim);
 
-  (M) $76,490,890 for for 22 So in original. each of fiscal years 2017 through 2023, of which $2,753,672 for each such fiscal year shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim).
+  (M) $76,490,890 for each of fiscal years 2017 through 2023, of which $2,753,672 for each such fiscal year shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim); and
+
+  (N) $95,000,000 for each of fiscal years 2024 through 2028, of which $3,420,000 for each such fiscal year shall be used to carry out [section 2207(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2207/f&num=0&edition=prelim).
 
 (2) Of the amounts referred to in paragraph (1), not more than $4,150,000 is authorized to be appropriated for each fiscal year for National Emergency Training Center site administration.
 
@@ -1149,6 +1154,10 @@ Reorganization Plan Numbered 3 of 1978, referred to in subsec. (b), is set out i
 The National Bureau of Standards Authorization Act for fiscal years 1981 and 1982, referred to in subsec. (d)(1)(A), is Pub. L. 96–461, Oct. 15, 1980, 94 Stat. 2049, which enacted [section 278g of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g), amended sections 278d and 278h of this title, and enacted provisions set out as notes under [section 278g of this title](./chapter-007-national-institute-of-standards-and-technology.md#section-278g). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2024—Subsec. (g)(1)(M). Pub. L. 118–67, § 2(2)(A), substituted “for each of fiscal” for “for for each of fiscal”.
+
+Subsec. (g)(1)(N). Pub. L. 118–67, § 2(1), (2)(B), (3), added subpar. (N).
+
 2018—Subsec. (g)(1)(M). Pub. L. 115–98 substituted “for each of fiscal years 2017 through 2023” for “fiscal year 2017” and inserted “for each such fiscal year” after “$2,753,672”.
 
 2013—Subsec. (g)(1)(E) to (M). Pub. L. 112–239 added subpars. (I) to (M) and realigned margins in subpars. (E) to (H).
@@ -1780,7 +1789,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246,which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
+The National Housing Act, referred to in subsec. (a)(5)(B), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§ 1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see References in Text note set out under [section 1701 of Title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1701&num=0&edition=prelim) and Tables.
 
 [Section 1441a(c) of title 12](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title12-section1441a/c&num=0&edition=prelim), referred to in subsec. (a)(5)(B), was repealed by Pub. L. 111–203, title III, § 364(b), July 21, 2010, 124 Stat. 1555.
 
@@ -2002,7 +2011,7 @@ No funds shall be made available to a State or local government under [section 2
 
 (1) **In general** — The Administrator of FEMA shall, after consultation with national fire service and emergency medical services organizations, appoint fire service personnel to conduct peer reviews of applications received under subsection (e)(1).
 
-(2) **Applicability of Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to activities carried out pursuant to this subsection.
+(2) **Applicability of chapter 10 of title 5** — Chapter 10 of title 5 shall not apply to activities carried out pursuant to this subsection.
 
 **(g) Prioritization of grant awards** In awarding grants under this section, the Administrator of FEMA shall consider the following:
 
@@ -2186,7 +2195,7 @@ No funds shall be made available to a State or local government under [section 2
 
       (II) nonaffiliated EMS providers.
 
-(3) **Applicability of Federal Advisory Committee Act** — The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to activities carried out under this subsection.
+(3) **Applicability of chapter 10 of title 5** — Chapter 10 of title 5 shall not apply to activities carried out under this subsection.
 
 **(m) Accounting determination** Notwithstanding any other provision of law, for purposes of this section, equipment costs shall include all costs attributable to any design, purchase of components, assembly, manufacture, and transportation of equipment not otherwise commercially available.
 
@@ -2222,31 +2231,28 @@ No funds shall be made available to a State or local government under [section 2
 
 **(q) Authorization of appropriations**
 
-(1) **In general** — There is authorized to be appropriated to carry out this section—
-
-  (A) $750,000,000 for fiscal year 2013; and
-
-  (B) for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
-
-    (i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
-
-    (ii) the Consumer Price Index for the fiscal year preceding the fiscal year described in clause (i).
+(1) **In general** — There is authorized to be appropriated to carry out this section $750,000,000 for each of fiscal years 2024 through 2028.
 
 (2) **Administrative expenses** — Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts for salaries and expenses and other administrative costs incurred by the Administrator of FEMA in the course of awarding grants and providing assistance under this section.
 
 (3) **Congressionally directed spending** — Consistent with the requirements in subsections (c)(1) and (d)(1) that grants under those subsections be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally directed spending item (as defined under the rules of the Senate and the House of Representatives).
 
-**(r) Sunset of authorities** The authority to award assistance and grants under this section shall expire on September 30, 2024.
+**(r) Sunset of authorities** The authority to award assistance and grants under this section shall expire on September 30, 2030.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsecs. (f)(2) and (l)(3), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 Another section 33 of Pub. L. 93–498 was renumbered section 35 and is classified to [section 2230 of this title](./chapter-049-fire-prevention-and-control.md#section-2230).
 
 #### Amendments
+2024—Subsec. (q)(1). Pub. L. 118–67, § 3(b), substituted “to carry out this section $750,000,000 for each of fiscal years 2024 through 2028” for “to carry out this section—” and subpars. (A) and (B) which related to amount of appropriations authorized for 2013 to 2023.
+
+Subsec. (r). Pub. L. 118–67, § 3(a), substituted “2030” for “2024”.
+
+2022—Subsec. (f)(2). Pub. L. 117–286, § 4(a)(68)(A), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
+Subsec. (l)(3). Pub. L. 117–286, § 4(a)(68)(B), substituted “chapter 10 of title 5” for “Federal Advisory Committee Act” in heading and “Chapter 10 of title 5” for “The Federal Advisory Committee Act (5 U.S.C. App.)” in text.
+
 2018—Subsec. (c)(3)(N). Pub. L. 115–98, § 3(c), added subpar. (N).
 
 Subsec. (q)(1)(B). Pub. L. 115–98, § 3(b), substituted “2023” for “2017” in introductory provisions.
@@ -2457,21 +2463,15 @@ Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that: “(a) Fram
 
   (F) $1,159,000,000 for fiscal year 2009;
 
-  (G) $1,194,000,000 for fiscal year 2010;
+  (G) $1,194,000,000 for fiscal year 2010; and
 
-  (H) $750,000,000 for fiscal year 2013; and
-
-  (I) for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
-
-    (i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
-
-    (ii) the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A).
+  (H) $750,000,000 for each of fiscal years 2024 through 2028.
 
 (2) **Administrative expenses** — Of the amounts appropriated pursuant to paragraph (1) for a fiscal year, the Administrator of FEMA may use not more than 5 percent of such amounts to cover salaries and expenses and other administrative costs incurred by the Administrator of FEMA to make grants and provide assistance under this section.
 
 (3) **Congressionally directed spending** — Consistent with the requirement in subsection (a) that grants under this section be awarded on a competitive basis, none of the funds appropriated pursuant to this subsection may be used for any congressionally direct spending item (as defined under the rules of the Senate and the House of Representatives).
 
-**(k) Sunset of authorities** The authority to award assistance and grants under this section shall expire on September 30, 2024.
+**(k) Sunset of authorities** The authority to award assistance and grants under this section shall expire on September 30, 2030.
 
 ### Statutory Notes
 
@@ -2482,6 +2482,16 @@ Pub. L. 115–98, § 6, Jan. 3, 2018, 131 Stat. 2241, provided that: “(a) Fram
 A prior section 34 of Pub. L. 93–498 was renumbered section 36 and is classified to [section 2231 of this title](./chapter-049-fire-prevention-and-control.md#section-2231).
 
 #### Amendments
+2024—Subsec. (j)(1)(H). Pub. L. 118–67, § 4(b)(2), substituted “each of fiscal years 2024 through 2028.” for “fiscal year 2013; and”.
+
+Subsec. (j)(1)(I). Pub. L. 118–67, § 4(b)(1), (3), struck out subpar. (I) which read as follows: “for each of fiscal years 2014 through 2023, an amount equal to the amount authorized for the previous fiscal year increased by the percentage by which—
+
+“(i) the Consumer Price Index (all items, United States city average) for the previous fiscal year, exceeds
+
+“(ii) the Consumer Price Index for the fiscal year preceding the fiscal year described in subparagraph (A).”
+
+Subsec. (k). Pub. L. 118–67, § 4(a), substituted “2030” for “2024”.
+
 2018—Subsec. (a)(1)(B). Pub. L. 115–98, § 4(f), substituted “firefighters or to change the status of part-time or paid-on-call (as defined in [section 2229(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2229/a&num=0&edition=prelim)) firefighters to full-time firefighters” for “firefighters and to provide specialized training to paramedics, emergency medical services workers, and other first responders to recognize individuals who have mental illness and how to properly intervene with individuals with mental illness, including strategies for verbal de-escalation of crises”.
 
 Subsec. (b)(3)(B). Pub. L. 115–98, § 4(c), substituted “of subsection (a)(1)(F)” for “of subsection (a)(1)(B)(ii) and (F)”.

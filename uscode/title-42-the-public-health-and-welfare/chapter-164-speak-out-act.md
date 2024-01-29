@@ -51,7 +51,7 @@ In this chapter:
 
 **(b) Continued applicability of State law** Nothing in this chapter shall prohibit a State or locality from enforcing a provision of State law governing nondisclosure or nondisparagement clauses that is at least as protective of the right of an individual to speak freely, as provided by this chapter.
 
-**(c) Continued applicability of Federal, State, and Tribal Law** This chapter shall not be construed to supersede a provision of Federal, State, or Tribal Law that governs the use of pseudonyms in the filing of claims involving sexual assault or sexual harassment disputes.
+**(c) Continued applicability of Federal, State, and Tribal law** This chapter shall not be construed to supersede a provision of Federal, State, or Tribal Law 11 So in original. Probably should not be capitalized. that governs the use of pseudonyms in the filing of claims involving sexual assault or sexual harassment disputes.
 
 **(d) Protection of trade secrets and proprietary information** Nothing in this chapter shall prohibit an employer and an employee from protecting trade secrets or proprietary information.
 

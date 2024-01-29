@@ -79,8 +79,29 @@ Before paragraph (1), the words “bring a civil action” are substituted for �
 
 <a id="section-30104"></a>
 ## § 30104. Personal injury to or death of seamen
+**(a) In General.—** A seaman injured in the course of employment or, if the seaman dies from the injury, the personal representative of the seaman may elect to bring a civil action at law, with the right of trial by jury, against the employer. Laws of the United States regulating recovery for personal injury to, or death of, a railway employee apply to an action under this section.
 
-A seaman injured in the course of employment or, if the seaman dies from the injury, the personal representative of the seaman may elect to bring a civil action at law, with the right of trial by jury, against the employer. Laws of the United States regulating recovery for personal injury to, or death of, a railway employee apply to an action under this section.
+**(b) Limitation on Recovery by Aquaculture Workers.—**
+
+(1) **In general.—** — For purposes of subsection (a), the term “seaman” does not include an individual who—
+
+  (A) is an aquaculture worker if State workers’ compensation is available to such individual; and
+
+  (B) was, at the time of injury, engaged in aquaculture in a place where such individual had lawful access.
+
+(2) **Aquaculture worker defined.—** — In this subsection, the term “aquaculture worker” means an individual who—
+
+  (A) is employed by a commercial enterprise that is involved in the controlled cultivation and harvest of aquatic plants and animals, including—
+
+    (i) the cleaning, processing, or canning of fish and fish products;
+
+    (ii) the cultivation and harvesting of shellfish; and
+
+    (iii) the controlled growing and harvesting of other aquatic species;
+
+  (B) does not hold a license issued under section 7101(c); and
+
+  (C) is not required to hold a merchant mariner credential under part F of subtitle II.
 
 ### Statutory Notes
 
@@ -95,7 +116,12 @@ In subsection (a), the words “A seaman injured in the course of employment or,
 In subsection (b), the words “An action under this section shall be brought” are substituted for “Jurisdiction in such actions shall be under” because 46 App. U.S.C. 688(a) (last sentence) provides for venue, not jurisdiction. Panama R.R. Co. v. Johnson, 264 U.S. 375 (1924). As to the relationship between 46 App. U.S.C. 688(a) (last sentence) and [28 U.S.C. 1391(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title28-section1391/c&num=0&edition=prelim), see Pure Oil Co. v. Suarez, 384 U.S. 202 (1966).
 
 #### Amendments
+2022—Pub. L. 117–263 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 2008—Pub. L. 110–181 struck out subsec. (a) designation and heading before “A seaman injured” and struck out heading and text of subsec. (b). Text read as follows: “An action under this section shall be brought in the judicial district in which the employer resides or the employer’s principal office is located.”
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–263, div. K, title CXV, § 11520(b), Dec. 23, 2022, 136 Stat. 4143, provided that: “The amendments made by this section [amending this section] shall apply to an injury incurred on or after the date of enactment of this Act [Dec. 23, 2022].”
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–181, div. C, title XXXV, § 3521(b), Jan. 28, 2008, 122 Stat. 596, provided that: “The amendment made by subsection (a) [amending this section] shall be effective as if included in the enactment of Public Law 109–304.”

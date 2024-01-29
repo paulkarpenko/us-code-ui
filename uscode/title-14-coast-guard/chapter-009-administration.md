@@ -2,7 +2,7 @@
 title: 14
 chapter: '9'
 heading: ADMINISTRATION
-section_count: 36
+section_count: 38
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14&num=0&edition=prelim
 ---
@@ -405,22 +405,25 @@ Amendment by Pub. L. 114–328 effective as if included in the enactment of Pub.
 
 <a id="section-914"></a>
 ## § 914. Disposition of infrastructure related to E–LORAN
-**(a) In General.—** The Secretary may not carry out activities related to the dismantling or disposal of infrastructure comprising the LORAN–C system until the later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date on which the Secretary provides to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate notice of a determination by the Secretary of Transportation under [section 312(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section312/d&num=0&edition=prelim) that such infrastructure is not required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted.
+**(a) In General.—** Notwithstanding any other provision of law, the Commandant may dismantle or dispose of any real or personal property under the administrative control of the Coast Guard and used for the LORAN–C system.
 
-**(b) Exception.—** Subsection (a) does not apply to activities necessary for the safety of human life.
+**(b) Restriction.—** No action described in subsection (a) may be taken unless and until—
 
-**(c) Disposition of Property.—**
+(1) the Commandant notifies the Secretary of Transportation and the Secretary of Defense in writing of the proposed dismantling or disposal of a LORAN–C system; and
 
-(1) **In general.—** — On any date after the notification is made under subsection (a), the Administrator of General Services, acting on behalf of the Secretary, may, notwithstanding any other provision of law, sell any real and personal property under the administrative control of the Coast Guard and used for the LORAN–C system, subject to such terms and conditions that the Secretary believes to be necessary to protect government interests and program requirements of the Coast Guard.
+(2) a period of 90 calendar days expires following the day on which the notice has been submitted.
 
-(2) **Availability of proceeds.—** — The proceeds of such sales, less the costs of sale incurred by the General Services Administration, shall be deposited into the Coast Guard Housing Fund for uses authorized under [section 2946 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2946).
+**(c) Receipt of Notification.—** If, not later than 90 calendar days of receipt of the written notification under subsection (b), the Secretary of Transportation or the Secretary of Defense notifies the Commandant, in writing, of a determination under [section 312(d) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section312/d&num=0&edition=prelim) that the property is required to provide a positioning, navigation, and timing system to provide redundant capability in the event the Global Positioning System signals are disrupted, the Commandant shall transfer the property to the Department of Transportation without any consideration.
+
+**(d) Notification Expiration.—** If, at the end of the 90 calendar day period no notification under subsection (b) has been received, the Commandant shall notify the Committee on Transportation and Infrastructure and the Committee on Appropriations in the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate that the period in subsection (b)(2) has expired, and may proceed with the dismantling and disposal of the personal property, and disposing of the real property in accordance with [section 2945 of this title](./chapter-029-coast-guard-family-support-child-care-and-housing.md#section-2945).
+
+**(e) Exception.—** The prohibition on actions in subsection (b) does not apply to actions necessary for the safety of human life.
 
 ### Statutory Notes
 
-#### References in Text
-Section 533(a) of the Coast Guard Authorization Act of 2016, referred to in subsec. (a), is section 533(a) of Pub. L. 114–120, title V, Feb. 8, 2016, 130 Stat. 74, which is not classified to the Code.
-
 #### Amendments
+2022—Pub. L. 117–263 amended section generally. Prior to amendment, section related to disposition of infrastructure related to E–LORAN and comprised of subsecs. (a) to (c).
+
 2021—Subsec. (a). Pub. L. 116–283, § 8216(1), substituted “later of the date of the conveyance of the properties directed under section 533(a) of the Coast Guard Authorization Act of 2016 (Public Law 114–120) or the date” for “date”.
 
 Subsec. (c)(2). Pub. L. 116–283, § 8216(2), added par. (2) and struck out former par. (2) which related to availability of proceeds.
@@ -989,3 +992,102 @@ Subsec. (a). Pub. L. 115–232 substituted “Commandant conducts” for “Comm
 ## § 952. Construction of Coast Guard vessels and assignment of vessel projects
 
 The assignment of Coast Guard vessel conversion, alteration, and repair projects shall be based on economic and military considerations and may not be restricted by a requirement that certain parts of Coast Guard shipwork be assigned to a particular type of shipyard or geographical area or by a similar requirement.
+
+
+<a id="section-953"></a>
+## § 953. Support for Coast Guard Academy
+**(a) Authority.—**
+
+(1) **Contracts and cooperative agreements.—**
+
+  (A) *In general.—* — The Commandant may enter contract and cooperative agreements with 1 or more qualified organizations for the purpose of supporting the athletic programs of the Coast Guard Academy.
+
+  (B) *Authority.—* — Notwithstanding [section 3201(e) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3201/e&num=0&edition=prelim), the Commandant may enter into such contracts and cooperative agreements on a sole source basis pursuant to [section 3204(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3204/a&num=0&edition=prelim).
+
+  (C) *Acquisitions.—* — Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Coast Guard Academy.
+
+(2) **Financial controls.—**
+
+  (A) *In general.—* — Before entering into a contract or cooperative agreement under paragraph (1), the Commandant shall ensure that the contract or agreement includes appropriate financial controls to account for the resources of the Coast Guard Academy and the qualified organization concerned in accordance with accepted accounting principles.
+
+  (B) *Contents.—* — Any such contract or cooperative agreement shall contain a provision that allows the Commandant to review, as the Commandant considers necessary, the financial accounts of the qualified organization to determine whether the operations of the qualified organization—
+
+    (i) are consistent with the terms of the contract or cooperative agreement; and
+
+    (ii) would compromise the integrity or appearance of integrity of any program of the Department of Homeland Security.
+
+(3) **Leases.—** — For the purpose of supporting the athletic programs of the Coast Guard Academy, the Commandant may, consistent with section 504(a)(13), rent or lease real property located at the Coast Guard Academy to a qualified organization, except that proceeds from such a lease shall be retained and expended in accordance with subsection (f).
+
+**(b) Support Services.—**
+
+(1) **Authority.—** — To the extent required by a contract or cooperative agreement under subsection (a), the Commandant may provide support services to a qualified organization while the qualified organization conducts support activities at the Coast Guard Academy only if the Commandant determines that the provision of such services is essential for the support of the athletic programs of the Coast Guard Academy.
+
+(2) **No liability of the united states.—** — Support services may only be provided without any liability of the United States to a qualified organization.
+
+(3) **Support services defined.—** — In this subsection, the term “support services” includes utilities, office furnishings and equipment, communications services, records staging and archiving, audio and video support, and security systems, in conjunction with the leasing or licensing of property.
+
+**(c) Transfers From Nonappropriated Fund Operation.—**
+
+(1) **In general.—** — Except as provided in paragraph (2), the Commandant may, subject to the acceptance of the qualified organization concerned, transfer to the qualified organization all title to and ownership of the assets and liabilities of the Coast Guard nonappropriated fund instrumentality, the function of which includes providing support for the athletic programs of the Coast Guard Academy, including bank accounts and financial reserves in the accounts of such fund instrumentality, equipment, supplies, and other personal property.
+
+(2) **Limitation.—** — The Commandant may not transfer under paragraph (1) any interest in real property.
+
+**(d) Acceptance of Support From Qualified Organization.—**
+
+(1) **In general.—** — Notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim), the Commandant may accept from a qualified organization funds, supplies, and services for the support of the athletic programs of the Coast Guard Academy.
+
+(2) **Employees of qualified organization.—** — For purposes of this section, employees or personnel of the qualified organization may not be considered to be employees of the United States.
+
+(3) **Funds received from ncaa.—** — The Commandant may accept funds from the National Collegiate Athletic Association to support the athletic programs of the Coast Guard Academy.
+
+(4) **Limitation.—** — The Commandant shall ensure that contributions under this subsection and expenditure of funds pursuant to subsection (f) do not—
+
+  (A) reflect unfavorably on the ability of the Coast Guard, any employee of the Coast Guard, or any member of the armed forces (as such term is defined in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim)) to carry out any responsibility or duty in a fair and objective manner; or
+
+  (B) compromise the integrity or appearance of integrity of any program of the Coast Guard, or any individual involved in such a program.
+
+**(e) Trademarks and Service Marks.—**
+
+(1) **Licensing, marketing, and sponsorship agreements.—** — An agreement under subsection (a) may, consistent with [section 2260 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2260&num=0&edition=prelim) (other than subsection (d) of such section), authorize a qualified organization to enter into licensing, marketing, and sponsorship agreements relating to trademarks and service marks identifying the Coast Guard Academy, subject to the approval of the Commandant.
+
+(2) **Limitations.—** — A licensing, marketing, or sponsorship agreement may not be entered into under paragraph (1) if—
+
+  (A) such agreement would reflect unfavorably on the ability of the Coast Guard, any employee of the Coast Guard, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner; or
+
+  (B) the Commandant determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Coast Guard or any individual involved in such a program.
+
+**(f) Retention and Use of Funds.—** Funds received by the Commandant under this section may be retained for use to support the athletic programs of the Coast Guard Academy and shall remain available until expended.
+
+**(g) Conditions.—** The authority provided in this section with respect to a qualified organization is available only so long as the qualified organization continues—
+
+(1) to operate in accordance with this section, the law of the State of Connecticut, and the constitution and bylaws of the qualified organization; and
+
+(2) to operate exclusively to support the athletic programs of the Coast Guard Academy.
+
+**(h) Qualified Organization Defined.—** In this section, the term “qualified organization” means an organization—
+
+(1) that operates as an organization under subsection (c)(3) of section 501 of the Internal Revenue Code of 1986 and exempt from taxation under subsection (a) of that section;
+
+(2) for which authorization under sections 1033(a) and 1589(a) of title 10 may be provided; and
+
+(3) established by the Coast Guard Academy Alumni Association solely for the purpose of supporting Coast Guard athletics.
+
+### Statutory Notes
+
+#### References in Text
+Subsection (c)(3) of section 501 of the Internal Revenue Code of 1986, referred to in subsec. (h)(1), is classified to [section 501(c)(3) of Title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section501/c/3&num=0&edition=prelim), Internal Revenue Code.
+
+
+<a id="section-954"></a>
+## § 954. Mixed-funded athletic and recreational extracurricular programs
+**(a) Authority.—** In the case of a Coast Guard Academy mixed-funded athletic or recreational extracurricular program, the Commandant may designate funds appropriated to the Coast Guard and available for that program to be treated as nonappropriated funds and expended for that program in accordance with laws applicable to the expenditure of nonappropriated funds. Appropriated funds so designated shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
+
+**(b) Covered Programs.—** In this section, the term “Coast Guard Academy mixed-funded athletic or recreational extracurricular program” means an athletic or recreational extracurricular program of the Coast Guard Academy to which each of the following applies:
+
+(1) The program is not considered a morale, welfare, or recreation program.
+
+(2) The program is supported through appropriated funds.
+
+(3) The program is supported by a nonappropriated fund instrumentality.
+
+(4) The program is not a private organization and is not operated by a private organization.

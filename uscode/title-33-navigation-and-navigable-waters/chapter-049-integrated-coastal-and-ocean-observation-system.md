@@ -2,7 +2,7 @@
 title: 33
 chapter: '49'
 heading: INTEGRATED COASTAL AND OCEAN OBSERVATION SYSTEM
-section_count: 11
+section_count: 13
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33&num=0&edition=prelim
 ---
@@ -54,7 +54,7 @@ In this chapter:
 
 (1) **Administrator** — The term “Administrator” means the Under Secretary of Commerce for Oceans and Atmosphere in the Under Secretary’s capacity as Administrator of the National Oceanic and Atmospheric Administration.
 
-(2) **Council** — The term “Council” means the National Ocean Research Leadership Council established by [section 8932 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932&num=0&edition=prelim).
+(2) **Council** — The term “Council” means the National Ocean Research Leadership Council established by [section 8932 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932&num=0&edition=prelim).11 See References in Text note below.
 
 (3) **Federal assets** — The term “Federal assets” means all relevant non-classified civilian coastal and ocean observations, technologies, and related modeling, research, data management, basic and applied technology research and development, and public education and outreach programs, that are managed by member agencies of the Council.
 
@@ -71,6 +71,9 @@ In this chapter:
 (9) **System Plan** — The term “System Plan” means the plan contained in the document entitled “Ocean. US Publication No. 9, The First Integrated Ocean Observing System (IOOS) Development Plan”, as updated by the Council under this chapter.
 
 ### Statutory Notes
+
+#### References in Text
+The reference to the National Ocean Research Leadership Council established by [section 8932 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932&num=0&edition=prelim), referred to in par. (2), is no longer accurate insofar as [section 8932 of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section8932&num=0&edition=prelim) was amended by Pub. L. 116–283 so as to instead refer to the Ocean Policy Committee.
 
 #### Amendments
 2020—Par. (2). Pub. L. 116–271, § 102(1), substituted “section 8932” for “section 7902”.
@@ -312,7 +315,7 @@ Par. (7). Pub. L. 116–271, § 102(4), substituted “Administrator” for “N
 
   (D) *Compensation and expenses* — Members of the System advisory committee shall not be compensated for service on that Committee, but may be allowed travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5.
 
-  (E) *Expiration* — Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the System advisory committee.
+  (E) *Expiration* — [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the System advisory committee.
 
 **(e) Civil liability** For purposes of determining liability arising from the dissemination and use of observation data gathered pursuant to this section, any non-Federal asset or regional coastal observing system incorporated into the System by a memorandum of agreement of certification under subsection (c)(3)(C)(iii) that is participating in the System shall be considered to be part of the National Oceanic and Atmospheric Administration. Any employee of such a non-Federal asset or regional coastal observing system, while operating within the scope of his or her employment in carrying out the purposes of this chapter, with respect to tort liability, is deemed to be an employee of the Federal Government.
 
@@ -320,10 +323,9 @@ Par. (7). Pub. L. 116–271, § 102(4), substituted “Administrator” for “N
 
 ### Statutory Notes
 
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d)(4)(E), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (d)(4)(E). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2020—Subsec. (b)(1). Pub. L. 116–271, § 103(a)(1), added par. (1) and struck out former par. (1) which related to the general elements of the System.
 
 Subsec. (b)(3). Pub. L. 116–271, § 103(a)(2), inserted “for research and for use in the development of products to address societal needs” before period at end.
@@ -666,3 +668,99 @@ Subsec. (c)(1). Pub. L. 116–271, § 201(a)(3)(A), substituted “December 31, 
 Subsec. (c)(2). Pub. L. 116–271, § 201(a)(3)(B), inserted “, in the discretion of the Administrator,” after “of sensors as may”.
 
 Subsec. (c)(4)(B). Pub. L. 116–271, § 201(a)(3)(C), inserted “and expend” after “receive”.
+
+
+<a id="section-3612"></a>
+## § 3612. Accelerating innovation at Cooperative Institutes
+**(a) Focus on emerging technologies** The Administrator shall consider evaluating the goals of 1 or more Cooperative Institutes of the Administration to include focusing on advancing or applying emerging technologies, which may include—
+
+(1) applied uses and development of real-time and other advanced genetic technologies and applications, including such technologies and applications that derive genetic material directly from environmental samples without any obvious signs of biological source material;
+
+(2) deployment of, and improvements to the durability, maintenance, and other lifecycle concerns of, advanced unmanned vehicles, regional small research vessels, and other research vessels that support and launch unmanned vehicles and sensors; and
+
+(3) supercomputing and big data management, including data collected through model outputs, electronic monitoring, and remote sensing.
+
+**(b) Coordination with other programs** The Cooperative Institutes shall work with the Interagency Ocean Observation Committee, the regional associations of the Integrated Ocean Observing System, and other ocean observing programs to coordinate technology needs and the transition of new technologies from research to operations.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Integrated Coastal and Ocean Observation System Act of 2009 which comprises this chapter.
+
+#### Purpose
+Pub. L. 117–263, div. J, title CI, § 10101, Dec. 23, 2022, 136 Stat. 3957, provided that: “The purpose of this title [enacting this section and [section 3613 of this title](./chapter-049-integrated-coastal-and-ocean-observation-system.md#section-3613), amending [section 893c of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-893c), and enacting provisions set out notes under this section] is to promote and support— “(1) the monitoring, understanding, and exploration of the Great Lakes, oceans, bays, estuaries, and coasts; and “(2) the collection, analysis, synthesis, and sharing of data related to the Great Lakes, oceans, bays, estuaries, and coasts to facilitate scientific research and operational decisionmaking.”
+
+#### No Additional Funds Authorized
+Pub. L. 117–263, div. J, title CI, § 10106, Dec. 23, 2022, 136 Stat. 3961, provided that: “Funds to carry out this title [enacting this section and [section 3613 of this title](./chapter-049-integrated-coastal-and-ocean-observation-system.md#section-3613), amending [section 893c of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-893c), and enacting provisions set out notes under this section] may, as provided in advance in appropriations Acts, only come from within amounts authorized to be appropriated to the National Oceanic and Atmospheric Administration.”
+
+#### Definitions
+Pub. L. 117–263, div. J, title CI, § 10102, Dec. 23, 2022, 136 Stat. 3957, provided that: “In this title [enacting this section and [section 3613 of this title](./chapter-049-integrated-coastal-and-ocean-observation-system.md#section-3613), amending [section 893c of this title](./chapter-017-national-oceanic-and-atmospheric-administration.md#section-893c), and enacting provisions set out notes under this section]: “(1) Administration.—The term ‘Administration’ means the National Oceanic and Atmospheric Administration. “(2) Administrator.—The term ‘Administrator’ means the Under Secretary of Commerce for Oceans and Atmosphere in the capacity as Administrator of the National Oceanic and Atmospheric Administration. “(3) Indian tribe.—The term ‘Indian Tribe’ has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).”
+
+
+<a id="section-3613"></a>
+## § 3613. Blue Economy valuation
+**(a) Measurement of industries** The Administrator, in consultation with the heads of other relevant Federal agencies and subject to the availability of appropriations, shall establish a program to improve the collection, aggregation, and analysis of data to measure the value and impact of industries related to the Great Lakes, oceans, bays, estuaries, and coasts on the economy of the United States, including military uses, living resources, marine construction, marine transportation, offshore energy development and siting including for renewable energy, offshore mineral production, ship and boat building, tourism, recreation, subsistence, commercial, recreational, and charter fishing, seafood processing, and other fishery-related businesses, aquaculture such as kelp and shellfish, and other industries the Administrator determines appropriate.
+
+**(b) Collaboration** In carrying out subsection (a), the Administrator shall—
+
+(1) work with the Director of the Bureau of Economic Analysis and the heads of other relevant Federal agencies to develop a Coastal and Ocean Economy Satellite Account that includes national, Tribal, and State-level statistics to measure the contribution of the Great Lakes, oceans, bays, estuaries, and coasts to the overall economy of the United States; and
+
+(2) collaborate with national and international organizations and governments to promote consistency of methods, measurements, and definitions to ensure comparability of results between countries.
+
+**(c) Report** Not later than 2 years after December 23, 2022, and not less frequently than every 2 years thereafter until the date that is 20 years after December 23, 2022, the Administrator, in consultation with the heads of other relevant Federal agencies, shall publish a report that—
+
+(1) defines the Blue Economy in consultation with Indian Tribes and with input from academia, the private sector, nongovernmental organizations, and other relevant experts;
+
+(2) makes recommendations for updating North American Industry Classification System reporting codes to reflect the Blue Economy; and
+
+(3) provides a comprehensive estimate of the value and impact of the Blue Economy with respect to each State and territory of the United States, including—
+
+  (A) the value and impact of—
+
+    (i) economic activities that are dependent upon the resources of the Great Lakes, oceans, bays, estuaries, and coasts;
+
+    (ii) the population and demographic characteristics of the population along the coasts;
+
+    (iii) port and shoreline infrastructure;
+
+    (iv) the volume and value of cargo shipped by sea or across the Great Lakes;
+
+    (v) data collected from the Great Lakes, oceans, bays, estuaries, and coasts, including such data collected by businesses that purchase and commodify the data, including weather prediction and seasonal agricultural forecasting; and
+
+    (vi) military uses; and
+
+  (B) to the extent possible, the qualified value and impact of the natural capital of the Great Lakes, oceans, bays, estuaries, and coasts with respect to tourism, recreation, natural resources, and cultural heritage, including other indirect values.
+
+**(d) Centralized website for resiliency grants**
+
+(1) **In general** — Not later than 180 days after December 23, 2022, the Administrator, in coordination with the heads of other relevant Federal agencies, shall create and regularly update a public website to improve education, outreach, and public information regarding grants and other public funding opportunities of the Administration related to resiliency.
+
+(2) **Contents of website** — The website created under paragraph (1) shall include the following:
+
+  (A) Hyperlinks, descriptions, deadlines, and resources to support applicants including technical assistance and other information as the Administrator determines appropriate relating to resilience grants administered by—
+
+    (i) the Administration;
+
+    (ii) other relevant Federal agencies; or
+
+    (iii) foundations in coordination with the Administration.
+
+  (B) Information described in subparagraph (A) that is specific to supporting Tribal Governments and Tribal Colleges and Universities, and, with respect to each such grant described in paragraph (1), the contact information for an individual of the Administration who can assist Tribal Governments and Tribal Colleges and Universities in applying for such grants.
+
+  (C) Information described in subparagraph (A) that is specific to supporting Historically Black Colleges and Universities, and, with respect to each such grant described in paragraph (1), the contact information for an individual of the Administration who can assist Historically Black Colleges and Universities in applying for such grants.
+
+(3) **Outreach** — The Administrator shall conduct outreach activities to inform State, Tribal, and local governments of resiliency, adaptation, and mitigation grants that are available to such governments.
+
+(4) **Definitions** — In this section:
+
+  (A) *Historically Black Colleges and Universities* — The term “Historically Black Colleges and Universities” has the meaning given the term “part B institution” in [section 1061 of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1061&num=0&edition=prelim).
+
+  (B) *Tribal College or University* — The term “Tribal College or University” has the meaning given the term in [section 1059c of title 20](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1059c&num=0&edition=prelim).
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023, and not as part of the Integrated Coastal and Ocean Observation System Act of 2009 which comprises this chapter.
+
+#### Definitions
+For definitions of “Administrator”, “Administration”, and “Indian Tribe” as used in this section, see section 10102 of Pub. L. 117–263, set out as a note under [section 3612 of this title](./chapter-049-integrated-coastal-and-ocean-observation-system.md#section-3612).

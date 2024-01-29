@@ -78,6 +78,10 @@ Pub. L. 112–74, div. C, title I, Dec. 23, 2011, 125 Stat. 888, provided in par
 
 Similar provisions were contained in the following appropriation acts:
 
+Pub. L. 118–47, div. B, title I, Mar. 23, 2024, 138 Stat. 527.
+
+Pub. L. 117–328, div. E, title I, Dec. 29, 2022, 136 Stat. 4656.
+
 Pub. L. 117–103, div. E, title I, Mar. 15, 2022, 136 Stat. 246.
 
 Pub. L. 116–260, div. E, title I, Dec. 27, 2020, 134 Stat. 1386, 1387.
@@ -334,7 +338,7 @@ Donald J. Trump.
 
 (3) **Ethical considerations**
 
-  (A) *Financial disclosure* — During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+  (A) *Financial disclosure* — During the entire period that an individual appointed under subparagraph (A) or (D) of paragraph (1) is a member of the Oversight Board, such individual shall be treated as serving as an officer or employee referred to in [section 13103(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103/f&num=0&edition=prelim), United States Code, for purposes of subchapter I of chapter 131 of such title, except that section 13103(d) of such title shall apply without regard to the number of days of service in the position.
 
   (B) *Restrictions on post-employment* — For purposes of [section 207(c) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section207/c&num=0&edition=prelim), United States Code, an individual appointed under subparagraph (A) or (D) of paragraph (1) shall be treated as an employee referred to in section 207(c)(2)(A)(i) of such title during the entire period the individual is a member of the Board, except that subsections (c)(2)(B) and (f) of section 207 of such title shall not apply.
 
@@ -484,10 +488,9 @@ The Secretary shall submit the budget request referred to in paragraph (4)(B) fo
 
 ### Statutory Notes
 
-#### References in Text
-The Ethics in Government Act of 1978, referred to in subsec. (b)(3)(A), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. Title I of the Act is set out in the Appendix to Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to Title 5 and Tables.
-
 #### Amendments
+2022—Subsec. (b)(3)(A). Pub. L. 117–286 substituted “[section 13103(f) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section13103/f&num=0&edition=prelim), United States Code, for purposes of subchapter I of chapter 131 of such title, except that section 13103(d) of such title” for “section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act, except that section 101(d) of such Act”.
+
 2000—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted a comma for semicolon before “and”.
 
 1998—Pub. L. 105–206 amended section catchline and text of section generally, substituting present provisions for provisions which: in subsec. (a), declared that there shall be in the Department of the Treasury a Commissioner of Internal Revenue, appointed by the President, with such duties and powers as prescribed by Secretary of the Treasury; in subsec. (b), established Office of Employee Plans and Exempt Organizations to carry out functions with respect to organizations exempt from tax and with respect to plans to which part I of subchapter D of chapter 1 applied; in subsec. (c), established Office for Taxpayer Services such as telephone, walk-in, and taxpayer educational services, and design and production of forms; and in subsec. (d), established Office of Taxpayer Advocate and set forth functions of Office and responsibilities of Commissioner regarding response to recommendations of Office. See [section 7803 of this title](./chapter-080-general-rules.md#section-7803).
@@ -509,7 +512,7 @@ Subsec. (b). Pub. L. 94–455, § 1906(b)(13)(A), struck out “or his delegate�
 #### Change of Name
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 #### Effective Date of 1998 Amendment
 Pub. L. 105–206, title I, § 1101(d), July 22, 1998, 112 Stat. 697, provided that: “(1) In general.—The amendments made by this section [amending this section and sections 4946 and 6103 of this title] shall take effect on the date of the enactment of this Act [July 22, 1998]. “(2) Initial nominations to internal revenue service oversight board.—The President shall submit the initial nominations under section 7802 of the Internal Revenue Code of 1986, as added by this section, to the Senate not later than 6 months after the date of the enactment of this Act [July 22, 1998]. “(3) Effect on actions prior to appointment of oversight board.—Nothing in this section shall be construed to invalidate the actions and authority of the Internal Revenue Service prior to the appointment of the members of the Internal Revenue Service Oversight Board.”
@@ -715,7 +718,7 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 
 **(d) Additional duties of the Treasury Inspector General for Tax Administration**
 
-(1) **Annual reporting** — The Treasury Inspector General for Tax Administration shall include in one of the semiannual reports under section 5 of the Inspector General Act of 1978—
+(1) **Annual reporting** — The Treasury Inspector General for Tax Administration shall include in one of the semiannual reports under [section 405 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim), United States Code—
 
   (A) an evaluation of the compliance of the Internal Revenue Service with—
 
@@ -747,7 +750,7 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 
 (2) **Semiannual reports**
 
-  (A) *In general.—* — The Treasury Inspector General for Tax Administration shall include in each semiannual report under section 5 of the Inspector General Act of 1978—
+  (A) *In general.—* — The Treasury Inspector General for Tax Administration shall include in each semiannual report under [section 405 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim), United States Code—
 
     (i) the number of taxpayer complaints during the reporting period;
 
@@ -886,13 +889,15 @@ Pub. L. 93–406, title II, § 1051(d), Sept. 2, 1974, 88 Stat. 951, provided th
 #### References in Text
 The provisions of title 5 relating to appointments in the competitive service and the Senior Executive Service, referred to in subsec. (c)(1)(B)(ii), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-Section 5 of the Inspector General Act of 1978, referred to in subsec. (d)(1), (2)(A), is section 5 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 Sections 1203, 1204, and 3707 of the Internal Revenue Service Restructuring and Reform Act of 1998, referred to in subsec. (d)(1)(A)(i), (v), (E), are sections 1203, 1204, and 3707 of Pub. L. 105–206, which are set out as notes under sections 7804, 7804, and 6651, respectively, of this title.
 
 Section 6227 of the Omnibus Taxpayer Bill of Rights, referred to in subsec. (d)(3)(B), is section 6227 of Pub. L. 100–647, which is set out as a note under [section 7801 of this title](./chapter-080-general-rules.md#section-7801).
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–286, § 4(b)(46)(A), substituted “[section 405 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim), United States Code” for “section 5 of the Inspector General Act of 1978” in introductory provisions.
+
+Subsec. (d)(2)(A). Pub. L. 117–286, § 4(b)(46)(B), substituted “[section 405 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section405&num=0&edition=prelim), United States Code” for “section 5 of the Inspector General Act of 1978” in introductory provisions.
+
 2019—Subsec. (c)(1)(B)(i). Pub. L. 116–25, § 1301(c), struck out before period at end “, or, if the Secretary of the Treasury so determines, at a rate fixed under section 9503 of such title”.
 
 Subsec. (c)(2)(B)(ii)(III). Pub. L. 116–25, § 1301(b)(1), substituted “the 10 most” for “at least 20 of the most”.
@@ -926,7 +931,7 @@ Subsecs. (c), (d). Pub. L. 94–455, § 1906(a)(58), redesignated subsec. (d) as
 #### Change of Name
 Pub. L. 116–25, title I, § 1001(c), July 1, 2019, 133 Stat. 985, provided that: “Any reference in any provision of law, or regulation or other guidance, to the Internal Revenue Service Office of Appeals shall be treated as a reference to the Internal Revenue Service Independent Office of Appeals.”
 
-Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019.
+Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007. Committee on Oversight and Government Reform of House of Representatives changed to Committee on Oversight and Reform of House of Representatives by House Resolution No. 6, One Hundred Sixteenth Congress, Jan. 9, 2019. Committee on Oversight and Reform of House of Representatives changed to Committee on Oversight and Accountability of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
@@ -1159,7 +1164,7 @@ This Act, referred to in subsec. (b), is act Aug. 16, 1954.
 ### Statutory Notes
 
 #### References in Text
-The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
+The Internal Revenue Code of 1939, referred to in subsec. (b), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code. The Internal Revenue Code of 1954 was redesignated The Internal Revenue Code of 1986 by Pub. L. 99–514, § 2, Oct. 22, 1986, 100 Stat. 2095. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title](./chapter-001-normal-taxes-and-surtaxes.md#section-1).
 
 
 <a id="section-7808"></a>
@@ -1488,7 +1493,7 @@ Section 3801 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)
 
 Chapter 7 of the Internal Revenue Code of 1939, referred to in subsec. (a)(1)(B), (4), was comprised of sections 1250 to 1254 of former Title 26, Internal Revenue Code.
 
-The Internal Revenue Code of 1939, referred to in subsecs. (a)(1)(C), (4), (6)(A) to (C), (C)(iii), (D), (7), (b)(1) to (3), (e), is act Feb. 10, 1939, ch. 2, 53 Stat. 1, as amended. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1939, referred to in subsecs. (a)(1)(C), (4), (6)(A) to (C), (C)(iii), (D), (7), (b)(1) to (3), (e), is act Feb. 10, 1939, ch. 2, 53 Stat. 1. Prior to the enactment of the Internal Revenue Code of 1986 [formerly I.R.C. 1954], the 1939 Code was classified to former Title 26, Internal Revenue Code.
 
 Sections 13(b)(3), 26(b)(2)(C), 26(h)(1)(C), 26(i)(3), 108(k), 207(a)(1)(C), 207(a)(3)(C), and the last sentence of section 362(b)(3), referred to in subsec. (a)(1)(D)(i), were classified to former sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) of former Title 26, Internal Revenue Code. Sections 13(b)(3), 26(b)(2)(C), (h)(1)(C), (i)(3), 108(k), 207(a)(1)(C), (3)(C), and 362(b)(3) were repealed by subsec. (a)(1)(d)(i) of this section.
 

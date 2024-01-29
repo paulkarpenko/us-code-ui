@@ -2,7 +2,7 @@
 title: 42
 chapter: '23'
 heading: DEVELOPMENT AND CONTROL OF ATOMIC ENERGY
-section_count: 255
+section_count: 257
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42&num=0&edition=prelim
 ---
@@ -19,6 +19,11 @@ Atomic energy is capable of application for peaceful as well as military purpose
 
 #### Prior Provisions
 A prior section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which related to declaration of policy and purpose of former chapter 14 of this title, was classified to [section 1801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1801&num=0&edition=prelim), prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+
+#### Short Title of 2024 Amendment
+Pub. L. 118–67, div. B, § 1(a), July 9, 2024, 138 Stat. 1448, provided that: “This division [enacting sections 2155b, 2201b, and 10109 of this title, amending sections 2014, 2133, 2134, 2215, 2231, 2235, 5843, and 16274a of this title, enacting provisions set out as notes under this section and sections 2073, 2077, 2133, 2155, 2201, 2201b, 2215, 2235, and 16281 of this title, and amending provisions set out as notes under sections 2133 and 2215 of this title] may be cited as the ‘Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024’ or the ‘ADVANCE Act of 2024’.”
+
+Pub. L. 118–62, § 1, May 13, 2024, 138 Stat. 1022, provided that: “This Act [amending [section 2297h–10a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2297h-10a) and enacting provisions set out as a note under [section 2297h–10a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2297h-10a)] may be cited as the ‘Prohibiting Russian Uranium Imports Act’.”
 
 #### Short Title of 2022 Amendment
 Pub. L. 117–139, § 1, June 7, 2022, 136 Stat. 1258, provided that: “This Act [amending provisions set out as a note under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210)] may be cited as the ‘RECA Extension Act of 2022’.”
@@ -53,11 +58,17 @@ Pub. L. 85–846, § 1, Aug. 28, 1958, 72 Stat. 1084, provided: “That this Act
 #### Short Title
 Act Aug. 1, 1946, ch. 724, title I, § 291, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 960; renumbered title I, Pub. L. 102–486, title IX, § 902(a)(8), Oct. 24, 1992, 106 Stat. 2944, provided that: “This Act [enacting this chapter, amending sections 190j and 622 of Title 2, The Congress, and repealing sections 2251 to 2257 and 2315 of this title] may be cited as the ‘Atomic Energy Act of 1954’.”
 
+#### Savings Clause
+Pub. L. 118–67, div. B, title VI, § 603, July 9, 2024, 138 Stat. 1482, provided that: “Nothing in this Act [probably means “this division”, see Short Title of 2024 Amendment note above] affects authorities of the Department of State.”
+
 #### Separability
 Act Aug. 1, 1946, ch. 724, title I, § 281, as added by act Aug. 30, 1954, § 1; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, § 902(a)(8), 106 Stat. 2944, provided that: “If any provision of this Act [see Short Title note above] or the application of such provision to any person or circumstances, is held invalid, the remainder of this Act or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.”
 
 #### Transfer of Functions
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+
+#### Definitions
+Pub. L. 118–67, div. B, § 2, July 9, 2024, 138 Stat. 1449, provided that: “In this division [see Short Title of 2024 Amendment note above]: “(1) Accident tolerant fuel.—The term ‘accident tolerant fuel’ has the meaning given the term in section 107(a) of the Nuclear Energy Innovation and Modernization Act (Public Law 115–439; 132 Stat. 5577). “(2) Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency. “(3) Advanced nuclear fuel.—The term ‘advanced nuclear fuel’ means—“(A) advanced nuclear reactor fuel; and “(B) accident tolerant fuel. “(4) Advanced nuclear reactor.—The term ‘advanced nuclear reactor’ has the meaning given the term in section 3 of the Nuclear Energy Innovation and Modernization Act ([42 U.S.C. 2215](./chapter-023-development-and-control-of-atomic-energy.md#section-2215) note; Public Law 115–439). “(5) Advanced nuclear reactor fuel.—The term ‘advanced nuclear reactor fuel’ has the meaning given the term in section 3 of the Nuclear Energy Innovation and Modernization Act ([42 U.S.C. 2215](./chapter-023-development-and-control-of-atomic-energy.md#section-2215) note; Public Law 115–439). “(6) Appropriate committees of Congress.—The term ‘appropriate committees of Congress’ means—“(A) the Committee on Environment and Public Works of the Senate; and “(B) the Committee on Energy and Commerce of the House of Representatives. “(7) Commission.—The term ‘Commission’ means the Nuclear Regulatory Commission. “(8) Institution of higher education.—The term ‘institution of higher education’ has the meaning given the term in section 101(a) of the Higher Education Act of 1965 ([20 U.S.C. 1001(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001/a&num=0&edition=prelim)). “(9) National laboratory.—The term ‘National Laboratory’ has the meaning given the term in section 2 of the Energy Policy Act of 2005 ([42 U.S.C. 15801](./chapter-149-national-energy-policy-and-programs.md#section-15801)).”
 
 
 <a id="section-2012"></a>
@@ -158,9 +169,9 @@ The intent of Congress in the definitions as given in this section should be con
 
   (B) any material that—
 
-    (i) has been made radioactive by use of a particle accelerator; and
+    (i) has been made radioactive by use of a particle accelerator, including by use of a fusion machine; and
 
-    (ii) is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
+    (ii) if made radioactive by use of a particle accelerator that is not a fusion machine, is produced, extracted, or converted after extraction, before, on, or after August 8, 2005, for use for a commercial, medical, or research activity; and
 
 (4) any discrete source of naturally occurring radioactive material, other than source material, that—
 
@@ -190,7 +201,7 @@ The intent of Congress in the definitions as given in this section should be con
 
 **(p)** The term “licensed activity” means an activity licensed pursuant to this chapter and covered by the provisions of [section 2210(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/a&num=0&edition=prelim).
 
-**(q)** The term “nuclear incident” means any occurrence, including an extraordinary nuclear occurrence, within the United States causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material: Provided, however, That as the term is used in section 2210(l) of this title, it shall include any such occurrence outside the United States: And provided further, That as the term is used in [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim), it shall include any such occurrence outside the United States if such occurrence involves source, special nuclear, or byproduct material owned by, and used by or under contract with, the United States: And provided further, That as the term is used in [section 2210(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/c&num=0&edition=prelim), it shall include any such occurrence outside both the United States and any other nation if such occurrence arises out of or results from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material licensed pursuant to subchapters V, VI, VII, and IX of this division, which is used in connection with the operation of a licensed stationary production or utilization facility or which moves outside the territorial limits of the United States in transit from one person licensed by the Nuclear Regulatory Commission to another person licensed by the Nuclear Regulatory Commission.
+**(q)** The term “nuclear incident” means any occurrence, including an extraordinary nuclear occurrence, within the United States causing, within or outside the United States, bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material: Provided, however, That as the term is used in section 2210(l) of this title, it shall include any such occurrence outside the United States: And provided further, That as the term is used in [section 2210(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/d&num=0&edition=prelim), it shall include any such occurrence outside the United States: And provided further, That as the term is used in [section 2210(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2210/c&num=0&edition=prelim), it shall include any such occurrence outside both the United States and any other nation if such occurrence arises out of or results from the radioactive, toxic, explosive, or other hazardous properties of source, special nuclear, or byproduct material licensed pursuant to subchapters V, VI, VII, and IX of this division, which is used in connection with the operation of a licensed stationary production or utilization facility or which moves outside the territorial limits of the United States in transit from one person licensed by the Nuclear Regulatory Commission to another person licensed by the Nuclear Regulatory Commission.
 
 **(r)** The term “operator” means any individual who manipulates the controls of a utilization or production facility.
 
@@ -216,21 +227,27 @@ The intent of Congress in the definitions as given in this section should be con
 
 **(cc)** The term “utilization facility” means (1) any equipment or device, except an atomic weapon, determined by rule of the Commission to be capable of making use of special nuclear material in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public, or peculiarly adapted for making use of atomic energy in such quantity as to be of significance to the common defense and security, or in such manner as to affect the health and safety of the public; or (2) any important component part especially designed for such equipment or device as determined by the Commission.
 
-**(dd)** The terms “high-level radioactive waste” and “spent nuclear fuel” have the meanings given such terms in [section 10101 of this title](./chapter-108-nuclear-waste-policy.md#section-10101).
+**(dd) Fusion Machine.—** The term “fusion machine” means a machine that is capable of—
 
-**(ee)** The term “transuranic waste” means material contaminated with elements that have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Nuclear Regulatory Commission may prescribe to protect the public health and safety.
+(1) transforming atomic nuclei, through fusion processes, into different elements, isotopes, or other particles; and
 
-**(ff)** The term “nuclear waste activities”, as used in [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), means activities subject to an agreement of indemnification under subsection (d) of such section, that the Secretary of Energy is authorized to undertake, under this chapter or any other law, involving the storage, handling, transportation, treatment, or disposal of, or research and development on, spent nuclear fuel, high-level radioactive waste, or transuranic waste, including (but not limited to) activities authorized to be carried out under the Waste Isolation Pilot Project under section 213 of Public Law 96–164 (93 Stat. 1265).
+(2) directly capturing and using the resultant products, including particles, heat, or other electromagnetic radiation.
 
-**(gg)** The term “precautionary evacuation” means an evacuation of the public within a specified area near a nuclear facility, or the transportation route in the case of an accident involving transportation of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste to or from a production or utilization facility, if the evacuation is—
+**(ee) . High-level Radioactive Waste; Spent Nuclear Fuel.—** The terms “high-level radioactive waste” and “spent nuclear fuel” have the meanings given such terms in [section 10101 of this title](./chapter-108-nuclear-waste-policy.md#section-10101).
+
+**(ff) Legal Costs.—** As used in [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), the term “legal costs” means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
+
+**(gg) Nuclear Waste Activities.—** The term “nuclear waste activities”, as used in [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), means activities subject to an agreement of indemnification under subsection (d) of such section, that the Secretary of Energy is authorized to undertake, under this chapter or any other law, involving the storage, handling, transportation, treatment, or disposal of, or research and development on, spent nuclear fuel, high-level radioactive waste, or transuranic waste, including (but not limited to) activities authorized to be carried out under the Waste Isolation Pilot Project under section 213 of Public Law 96–164 (93 Stat. 1265).
+
+**(hh) Precautionary Evacuation.—** The term “precautionary evacuation” means an evacuation of the public within a specified area near a nuclear facility, or the transportation route in the case of an accident involving transportation of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste to or from a production or utilization facility, if the evacuation is—
 
 (1) the result of any event that is not classified as a nuclear incident but that poses imminent danger of bodily injury or property damage from the radiological properties of source material, special nuclear material, byproduct material, high-level radioactive waste, spent nuclear fuel, or transuranic waste, and causes an evacuation; and
 
 (2) initiated by an official of a State or a political subdivision of a State, who is authorized by State law to initiate such an evacuation and who reasonably determined that such an evacuation was necessary to protect the public health and safety.
 
-**(hh)** The term “public liability action”, as used in [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), means any suit asserting public liability. A public liability action shall be deemed to be an action arising under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), and the substantive rules for decision in such action shall be derived from the law of the State in which the nuclear incident involved occurs, unless such law is inconsistent with the provisions of such section.
+**(ii) Public Liability Action.—** The term “public liability action”, as used in [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), means any suit asserting public liability. A public liability action shall be deemed to be an action arising under [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), and the substantive rules for decision in such action shall be derived from the law of the State in which the nuclear incident involved occurs, unless such law is inconsistent with the provisions of such section.
 
-**(jj) 11 So in original. No subsec. (ii) has been enacted. Legal Costs.—** As used in [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210), the term “legal costs” means the costs incurred by a plaintiff or a defendant in initiating, prosecuting, investigating, settling, or defending claims or suits for damage arising under such section.
+**(jj) Transuranic Waste.—** The term “transuranic waste” means material contaminated with elements that have an atomic number greater than 92, including neptunium, plutonium, americium, and curium, and that are in concentrations greater than 10 nanocuries per gram, or in such other concentrations as the Nuclear Regulatory Commission may prescribe to protect the public health and safety.
 
 ### Statutory Notes
 
@@ -239,7 +256,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 For definition of Canal Zone, referred to in subsec. (bb), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
-Section 213 of Public Law 96–164, referred to in subsec. (ff), is Pub. L. 96–164, title II, § 213, Dec. 29, 1979, 93 Stat. 1265, which is not classified to the Code.
+Section 213 of Public Law 96–164, referred to in subsec. (gg), is Pub. L. 96–164, title II, § 213, Dec. 29, 1979, 93 Stat. 1265, which is not classified to the Code.
 
 #### Prior Provisions
 A prior section 11 of act Aug. 1, 1946, ch. 724, 60 Stat. 768, which related to patents and inventions, was classified to [section 1811 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1811&num=0&edition=prelim), prior to the general amendment of act Aug. 1, 1946, by act Aug. 30, 1954.
@@ -247,6 +264,20 @@ A prior section 11 of act Aug. 1, 1946, ch. 724, 60 Stat. 768, which related to 
 Sections 12 to 19 of act Aug. 1, 1946, ch. 724, 60 Stat. 770–775, which related to authority, powers and duties of Atomic Energy Commission; compensation for acquisition of private property; judicial review; Joint Committee of Congress on Atomic Energy; penalties for violation of certain provisions of chapter 14 of this title, injunctions, subpoena of witnesses, and production of documents; reports and recommendations to Congress; definitions; and authorization of appropriations, were classified to sections 1812 to 1819, respectively, of this title, and section 20 of act Aug. 1, 1946, ch. 724, 60 Stat. 775, which related to separability of provisions of the act, was set out as a note under [section 1801 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1801&num=0&edition=prelim), prior to the general amendment of act Aug. 1, 1946, by act Aug. 30, 1954. Section numbers 12 to 20 were not repeated in the general amendment of act Aug. 1, 1946.
 
 #### Amendments
+2024—Subsec. (e)(3)(B)(i). Pub. L. 118–67, § 205(a)(1)(A)(i), inserted “, including by use of a fusion machine” after “particle accelerator”.
+
+Subsec. (e)(3)(B)(ii). Pub. L. 118–67, § 205(a)(1)(A)(ii), inserted “if made radioactive by use of a particle accelerator that is not a fusion machine,” before “is produced”.
+
+Subsec. (q). Pub. L. 118–47, in second proviso, substituted “occurrence outside the United States:” for “occurrence outside the United States if such occurrence involves source, special nuclear, or byproduct material owned by, and used by or under contract with, the United States:”.
+
+Subsec. (dd). Pub. L. 118–67, § 205(a)(5), added subsec. (dd). Former subsec. (dd) redesignated (ee).
+
+Subsec. (ee). Pub. L. 118–67, § 205(a)(4), redesignated subsec. (dd) as (ee) and inserted heading. Former subsec. (ee) redesignated (jj).
+
+Pub. L. 118–67, § 205(a)(2), inserted heading.
+
+Subsecs. (ff) to (jj). Pub. L. 118–67, § 205(a)(2), (3), inserted headings for subsecs. (ff) to (hh), redesignated subsecs. (ee) to (hh) and (jj) as (jj), (gg), (hh), (ii), and (ff), respectively, and transfered the subsecs. to appear in alphabetical order.
+
 2005—Subsec. (e). Pub. L. 109–58 substituted “means—” for “means”, realigned margins of pars. (1) and (2), and added pars. (3) and (4).
 
 1996—Subsec. (v). Pub. L. 104–134, which directed the amendment of subsec. (v) by striking out “or the construction and operation of a uranium enrichment facility using Atomic Vapor Laser Isotope Separation technology”, was executed by striking out “or the construction and operation of a uranium enrichment production facility using Atomic Vapor Laser Isotope Separation technology” before “, such term as used”, to reflect the probable intent of Congress.
@@ -755,7 +786,7 @@ Pub. L. 95–604, title II, § 204(g), (h), Nov. 8, 1978, 92 Stat. 3038, as amen
 For provisions relating to the responsibility of the head of each Executive agency for compliance with applicable pollution control standards, see Ex. Ord. No. 12088, Oct. 13, 1978, 43 F.R. 47707, set out as a note under [section 4321 of this title](./chapter-055-national-environmental-policy.md#section-4321).
 
 #### Executive Order No. 12192
-Ex. Ord. No. 12192, Feb. 12, 1980, 45 F.R. 9727, which established the State Planning Council on Radioactive Waste Management and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 13, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12192, Feb. 12, 1980, 45 F.R. 9727, which established the State Planning Council on Radioactive Waste Management and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, § 13, Aug. 17, 1982, 47 F.R. 36099, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2021a"></a>
@@ -1587,7 +1618,7 @@ There is established an Advisory Committee on Reactor Safeguards consisting of a
 1977—Pub. L. 95–209 inserted provisions which called for a study of reactor safety research and an annual report on results of study.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2040"></a>
@@ -1971,6 +2002,9 @@ Subsec. (c). Pub. L. 85–681, § 2, substituted “subsections (a)(1), (2) or (
 
 1957—Subsec. (e)(8). Pub. L. 85–256 inserted “except to the extent that the indemnification and limitation of liability provisions of [section 2210 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) apply,”.
 
+#### Denial of Certain Domestic Licenses for National Security Purposes
+Pub. L. 118–67, div. B, title I, § 102, July 9, 2024, 138 Stat. 1451, provided that: “(a) Definition of Covered Fuel.—In this section, the term ‘covered fuel’ means enriched uranium that is fabricated outside the United States into fuel assemblies for commercial nuclear power reactors by an entity that—“(1) is owned or controlled by the Government of the Russian Federation or the Government of the People’s Republic of China; or “(2) is organized under the laws of, or otherwise subject to the jurisdiction of, the Russian Federation or the People’s Republic of China. “(b) Prohibition on Unlicensed Possession or Ownership of Covered Fuel.—Unless specifically authorized by the [Nuclear Regulatory] Commission in a license issued under section 53 of the Atomic Energy Act of 1954 ([42 U.S.C. 2073](./chapter-023-development-and-control-of-atomic-energy.md#section-2073)) and part 70 of title 10, Code of Federal Regulations (or successor regulations), no person subject to the jurisdiction of the Commission may possess or own covered fuel. “(c) License To Possess or Own Covered Fuel.—“(1) Consultation required prior to issuance.—The Commission shall not issue a license to possess or own covered fuel under section 53 of the Atomic Energy Act of 1954 ([42 U.S.C. 2073](./chapter-023-development-and-control-of-atomic-energy.md#section-2073)) and part 70 of title 10, Code of Federal Regulations (or successor regulations), unless the Commission has first consulted with the Secretary of Energy and the Secretary of State before issuing the license. “(2) Prohibition on issuance of license.—“(A) In general.—Subject to subparagraph (C), a license to possess or own covered fuel shall not be issued if the Secretary of Energy and the Secretary of State make the determination described in subparagraph (B)(i)(I). “(B) Determination.—“(i) In general.—The determination referred to in subparagraph (A) is a determination that possession or ownership, as applicable, of covered fuel— “(I) poses a threat to the national security of the United States, including because of an adverse impact on the physical and economic security of the United States; or “(II) does not pose a threat to the national security of the United States. “(ii) Joint determination.—A determination described in clause (i) shall be jointly made by the Secretary of Energy and the Secretary of State. “(iii) Timeline.— “(I) Notice of application.—Not later than 30 days after the date on which the Commission receives an application for a license to possess or own covered fuel, the Commission shall notify the Secretary of Energy and the Secretary of State of the application. “(II) Determination.—The Secretary of Energy and the Secretary of State shall have a period of 180 days, beginning on the date on which the Commission notifies the Secretary of Energy and the Secretary of State under subclause (I) of an application for a license to possess or own covered fuel, in which to make the determination described in clause (i). “(III) Commission notification.—On making the determination described in clause (i), the Secretary of Energy and the Secretary of State shall immediately notify the Commission. “(IV) Congressional notification.—Not later than 30 days after the date on which the Secretary of Energy and the Secretary of State notify the Commission under subclause (III), the Commission shall notify the appropriate committees of Congress [Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate], the Committee on Foreign Relations of the Senate, the Committee on Energy and Natural Resources of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the determination. “(V) Public notice.—Not later than 15 days after the date on which the Commission notifies Congress under subclause (IV) of a determination made under clause (i), the Commission shall make that determination publicly available. “(C) Effect of no determination.—The Commission shall not issue a license if the Secretary of Energy and the Secretary of State have not made a determination described in subparagraph (B). “(d) Savings Clause.—Nothing in this section alters any treaty or international agreement in effect on the date of enactment of this Act [July 9, 2024] or that enters into force after the date of enactment of this Act.”
+
 
 <a id="section-2074"></a>
 ## § 2074. Foreign distribution of special nuclear material
@@ -2090,13 +2124,16 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 #### Effective Date of 1978 Amendment
 Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provided and regardless of any requirement for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as an Effective Date note under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+#### Process for Review and Amendment of Part 810 Generally Authorized Destinations
+Pub. L. 118–67, div. B, title I, § 105, July 9, 2024, 138 Stat. 1454, provided that: “(a) Identification and Evaluation of Factors.—Not later than 90 days after the date of enactment of this Act [July 9, 2024], the Secretary of Energy, with the concurrence of the Secretary of State, shall identify and evaluate factors, other than agreements for cooperation entered into in accordance with section 123 of the Atomic Energy Act of 1954 ([42 U.S.C. 2153](./chapter-023-development-and-control-of-atomic-energy.md#section-2153)), that may be used to determine a country’s generally authorized destination status under part 810 of title 10, Code of Federal Regulations, and to list such country as a generally authorized destination in Appendix A to part 810 of title 10, Code of Federal Regulations. “(b) Process Update.—The Secretary of Energy shall review and, as appropriate, update the Department of Energy’s process for determining a country’s generally authorized destination status under part 810 of title 10, Code of Federal Regulations, and for listing such country as a generally authorized destination in Appendix A to part 810 of title 10, Code of Federal Regulations, taking into consideration and, as appropriate, incorporating factors identified and evaluated under subsection (a). “(c) Revisions to List.—Not later than one year after the date of enactment of this Act, and at least once every 5 years thereafter, the Secretary of Energy shall, in accordance with any process updated pursuant to this section, review the list in Appendix A to part 810 of title 10, Code of Federal Regulations, and amend such list as appropriate.”
+
 #### Performance of Functions Pending Development of Procedures
 The performance of functions under this chapter, as amended by the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 
 <a id="section-2077a"></a>
 ## § 2077a. Interagency review of applications for the transfer of United States civil nuclear technology
-**(a) Annual Reports on transfers to covered foreign countries** At the same time as the President submits to Congress the annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
+**(a) Annual reports on transfers to covered foreign countries** At the same time as the President submits to Congress the annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for a fiscal year, the Secretary of Energy shall submit to the appropriate congressional committees a report that includes—
 
 (1) a description of the authorizations under [section 2077(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077/b&num=0&edition=prelim) to transfer United States civil nuclear technology to a covered foreign country during the preceding year; and
 
@@ -2190,7 +2227,9 @@ The performance of functions under this chapter, as amended by the Nuclear Non-P
 
 (2) **Sensitive items defined** — In this subsection, the term “sensitive items” means goods, services, and technologies described in section 2(a) of the Iran, North Korea, and Syria Nonproliferation Act (Public Law 106–178; [50 U.S.C. 1701](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1701&num=0&edition=prelim) note).
 
-**(i) Definitions** In this section:
+**(i) Combination of reports** The Secretary of Energy may submit the annual reports required by subsections (a), (d), and (e) as a single annual report, including by providing portions of the information so required as an annex to the single annual report.
+
+**(j) Definitions** In this section:
 
 (1) **Appropriate congressional committees** — The term “appropriate congressional committees” means—
 
@@ -2208,7 +2247,9 @@ The performance of functions under this chapter, as amended by the Nuclear Non-P
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2016, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
-2021—Subsec. (a). Pub. L. 117–81 substituted “Annual Reports” for “Report” in heading, “At the same time as the President submits to Congress the annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for a fiscal year,” for “Not less frequently than every 90 days,” in introductory provisions, and “the preceding year” for “the preceding 90 days” in par. (1).
+2022—Subsecs. (i), (j). Pub. L. 117–263 added subsec. (i) and redesignated former subsec. (i) as (j).
+
+2021—Subsec. (a). Pub. L. 117–81 substituted “Annual reports” for “Report” in heading, “At the same time as the President submits to Congress the annual budget request under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim) for a fiscal year,” for “Not less frequently than every 90 days,” in introductory provisions, and “the preceding year” for “the preceding 90 days” in par. (1).
 
 2018—Subsec. (e)(2)(C) to (E). Pub. L. 115–232 added subpar. (C) and redesignated former subpars. (C) and (D) as (D) and (E), respectively.
 
@@ -2645,7 +2686,9 @@ Authority vested in President by subsec. (c) of this section delegated to Secret
 ## § 2122. Prohibitions governing atomic weapons
 **(a)** It shall be unlawful, except as provided in [section 2121 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2121), for any person, inside or outside of the United States, to knowingly participate in the development of, manufacture, produce, transfer, acquire, receive, possess, import, export, or use, or possess and threaten to use, any atomic weapon. Nothing in this section shall be deemed to modify the provisions of section 2051(a) or 2131 of this title.
 
-**(b)** Conduct prohibited by subsection (a) is within the jurisdiction of the United States if—
+**(b)** Whoever knowingly and willfully impedes the passage of a vehicle of a nuclear materials courier (as defined in [section 8331 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8331&num=0&edition=prelim)) engaged in the transport of any atomic weapon, special nuclear material, atomic weapon component, or Restricted Data shall be subject to arrest and imposition of a criminal fine of not more than $1,000.
+
+**(c)** Conduct prohibited by subsections 11 So in original. Probably should be “subsection”. (a) or (b) is within the jurisdiction of the United States if—
 
 (1) the offense occurs in or affects interstate or foreign commerce; the offense occurs outside of the United States and is committed by a national of the United States;
 
@@ -2655,12 +2698,16 @@ Authority vested in President by subsec. (c) of this section delegated to Secret
 
 (4) an offender aids or abets any person over whom jurisdiction exists under this subsection in committing an offense under this section or conspires with any person over whom jurisdiction exists under this subsection to commit an offense under this section.
 
+**(d)** The Attorney General shall have primary investigative authority for any violation of this section.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to this section were contained in [section 1806(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1806/b&num=0&edition=prelim), prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+2023—Subsecs. (b) to (d). Pub. L. 118–31 added subsecs. (b) and (d), redesignated former subsec. (b) as (c), and, in subsec. (c), substituted “prohibited by subsections (a) or (b)” for “prohibited by subsection (a)” in introductory provisions.
+
 2004—Pub. L. 108–458, § 6904(a)(1), designated existing provisions as subsec. (a).
 
 Pub. L. 108–458, § 6803(b)(2), inserted “participate in the development of,” after “interstate or foreign commerce,”.
@@ -2734,9 +2781,9 @@ Provisions similar to this section were contained in [section 1807(a) of this ti
 
 **(c) License period** Each such license shall be issued for a specified period, as determined by the Commission, depending on the type of activity to be licensed, but not exceeding forty years from the authorization to commence operations, and may be renewed upon the expiration of such period.
 
-**(d) Limitations** No license under this section may be given to any person for activities which are not under or within the jurisdiction of the United States, except for the export of production or utilization facilities under terms of an agreement for cooperation arranged pursuant to [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153), or except under the provisions of [section 2139 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2139). No license may be issued to an alien or any any 11 So in original. corporation or other entity if the Commission knows or has reason to believe it is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government. In any event, no license may be issued to any person within the United States if, in the opinion of the Commission, the issuance of a license to such person would be inimical to the common defense and security or to the health and safety of the public.
+**(d) Limitations** No license under this section may be given to any person for activities which are not under or within the jurisdiction of the United States, except for the export of production or utilization facilities under terms of an agreement for cooperation arranged pursuant to [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153), or except under the provisions of [section 2139 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2139). No license may be issued to an alien or any corporation or other entity if the Commission knows or has reason to believe it is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government. In any event, no license may be issued to any person within the United States if, in the opinion of the Commission, the issuance of a license to such person would be inimical to the common defense and security or to the health and safety of the public.
 
-**(f) 22 So in original. Probably should be “(e)”. Accident notification condition; license revocation; license amendment to include condition** Each license issued for a utilization facility under this section or [section 2134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/b&num=0&edition=prelim) shall require as a condition thereof that in case of any accident which could result in an unplanned release of quantities of fission products in excess of allowable limits for normal operation established by the Commission, the licensee shall immediately so notify the Commission. Violation of the condition prescribed by this subsection may, in the Commission’s discretion, constitute grounds for license revocation. In accordance with [section 2237 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2237), the Commission shall promptly amend each license for a utilization facility issued under this section or [section 2134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/b&num=0&edition=prelim) which is in effect on June 30, 1980, to include the provisions required under this subsection.
+**(f) 11 So in original. Probably should be “(e)”. Accident notification condition; license revocation; license amendment to include condition** Each license issued for a utilization facility under this section or [section 2134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/b&num=0&edition=prelim) shall require as a condition thereof that in case of any accident which could result in an unplanned release of quantities of fission products in excess of allowable limits for normal operation established by the Commission, the licensee shall immediately so notify the Commission. Violation of the condition prescribed by this subsection may, in the Commission’s discretion, constitute grounds for license revocation. In accordance with [section 2237 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2237), the Commission shall promptly amend each license for a utilization facility issued under this section or [section 2134(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/b&num=0&edition=prelim) which is in effect on June 30, 1980, to include the provisions required under this subsection.
 
 ### Statutory Notes
 
@@ -2744,6 +2791,8 @@ Provisions similar to this section were contained in [section 1807(a) of this ti
 This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Amendments
+2024—Subsec. (d). Pub. L. 118–67 substituted “any corporation” for “any any corporation”.
+
 2005—Subsec. (c). Pub. L. 109–58 inserted “from the authorization to commence operations” after “forty years”.
 
 1980—Subsec. (f). Pub. L. 96–295 added subsec. (f).
@@ -2754,10 +2803,24 @@ This chapter, referred to in subsec. (a), was in the original “this Act”, me
 
 Subsec. (d). Act Aug. 6, 1956, § 13, inserted “an alien or any” after “issued to”.
 
+#### Regulatory Issues for Nuclear Facilities at Brownfield Sites
+Pub. L. 118–67, div. B, title II, § 206, July 9, 2024, 138 Stat. 1462, provided that: “(a) Definitions.—In this section:“(1) Brownfield site.—The term ‘brownfield site’ has the meaning given the term in section 101 of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9601](./chapter-103-comprehensive-environmental-response-compensation-and-liability.md#section-9601)). “(2) Covered site.—The term ‘covered site’ means a brownfield site, a retired fossil fuel site, or a site that is both a retired fossil fuel site and a brownfield site. “(3) Production facility.—The term ‘production facility’ has the meaning given the term in section 11 of the Atomic Energy Act of 1954 ([42 U.S.C. 2014](./chapter-023-development-and-control-of-atomic-energy.md#section-2014)). “(4) Retired fossil fuel site.—The term ‘retired fossil fuel site’ means the site of 1 or more fossil fuel electric generation facilities that are retired or scheduled to retire, including multi-unit facilities that are partially shut down. “(5) Utilization facility.—The term ‘utilization facility’ has the meaning given the term in section 11 of the Atomic Energy Act of 1954 ([42 U.S.C. 2014](./chapter-023-development-and-control-of-atomic-energy.md#section-2014)). “(b) Identification of Regulatory Issues.—“(1) In general.—Not later than 1 year after the date of enactment of this Act [July 9, 2024], the [Nuclear Regulatory] Commission shall evaluate the extent to which modification of regulations, guidance, or policy is needed to enable efficient, timely, and predictable licensing reviews for, and to support the oversight of, production facilities or utilization facilities at covered sites. “(2) Requirement.—In carrying out paragraph (1), the Commission shall consider how licensing reviews for production facilities or utilization facilities at covered sites may be expedited by considering matters relating to siting and operating a production facility or a utilization facility at or near a covered site to support—“(A) the reuse of existing site infrastructure, including—“(i) electric switchyard components and transmission infrastructure; “(ii) heat-sink components; “(iii) steam cycle components; “(iv) roads; “(v) railroad access; and “(vi) water availability; “(B) the use of early site permits; “(C) the utilization of plant parameter envelopes or similar standardized site parameters on a portion of a larger site; and “(D) the use of a standardized application for similar sites. “(3) Report.—Not later than 14 months after the date of enactment of this Act, the Commission shall submit to the appropriate committees of Congress [Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate] a report describing any regulations, guidance, and policies identified under paragraph (1). “(c) Licensing.—“(1) In general.—Not later than 2 years after the date of enactment of this Act, the Commission shall—“(A) develop and implement strategies to enable efficient, timely, and predictable licensing reviews for, and to support the oversight of, production facilities or utilization facilities at covered sites; or “(B) initiate a rulemaking to enable efficient, timely, and predictable licensing reviews for, and to support the oversight of, production facilities or utilization facilities at covered sites. “(2) Requirements.—In carrying out paragraph (1), consistent with the mission of the Commission, the Commission shall consider matters relating to—“(A) the use of existing site infrastructure; “(B) existing emergency preparedness organizations and planning; “(C) the availability of historical site-specific environmental data; “(D) previously completed environmental reviews required by the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.); “(E) activities associated with the potential decommissioning of facilities or decontamination and remediation at covered sites; and “(F) community engagement and historical experience with energy production. “(d) Report.—Not later than 3 years after the date of enactment of this Act, the Commission shall submit to the appropriate committees of Congress a report describing the actions taken by the Commission under subsection (c)(1).”
+
+#### Regulatory Requirements for Micro-Reactors
+Pub. L. 118–67, div. B, title II, § 208, July 9, 2024, 138 Stat. 1464, provided that: “(a) Micro-Reactor Licensing.—The [Nuclear Regulatory] Commission shall—“(1) not later than 18 months after the date of enactment of this Act [July 9, 2024], develop risk-informed and performance-based strategies and guidance to license and regulate micro-reactors pursuant to section 103 of the Atomic Energy Act of 1954 ([42 U.S.C. 2133](./chapter-023-development-and-control-of-atomic-energy.md#section-2133)), including strategies and guidance for—“(A) staffing and operations; “(B) oversight and inspections; “(C) safeguards and security; “(D) emergency preparedness; “(E) risk analysis methods, including alternatives to probabilistic risk assessments; “(F) decommissioning funding assurance methods that permit the use of design- and site-specific cost estimates; “(G) the transportation of fueled micro-reactors; and “(H) siting, including in relation to—“(i) the population density criterion limit described in the policy issue paper on population-related siting considerations for advanced reactors dated May 8, 2020, and numbered SECY–20–0045; “(ii) licensing mobile deployment; and “(iii) environmental reviews; and “(2) not later than 3 years after the date of enactment of this Act, implement, as appropriate, the strategies and guidance developed under paragraph (1)—“(A) within the existing regulatory framework; “(B) through the technology-inclusive regulatory framework to be established under section 103(a)(4) of the Nuclear Energy Innovation and Modernization Act ([42 U.S.C. 2133](./chapter-023-development-and-control-of-atomic-energy.md#section-2133) note; Public Law 115–439); or “(C) through a pending or new rulemaking. “(b) Considerations.—In developing and implementing strategies and guidance under subsection (a), the Commission shall consider—“(1) the unique characteristics of micro-reactors, including characteristics relating to—“(A) physical size; “(B) design simplicity; and “(C) source term; “(2) opportunities to address redundancies and inefficiencies; “(3) opportunities to consolidate review phases and reduce transitions between review teams; “(4) opportunities to establish integrated review teams to ensure continuity throughout the review process; and “(5) other relevant considerations discussed in the policy issue paper on policy and licensing considerations related to micro-reactors dated October 6, 2020, and numbered SECY–20–0093. “(c) Consultation.—In carrying out subsection (a), the Commission shall consult with—“(1) the Secretary of Energy; “(2) the heads of other Federal agencies, as appropriate; “(3) micro-reactor technology developers; and “(4) other stakeholders.”
+
+#### Foreign Ownership
+Pub. L. 118–67, div. B, title III, § 301, July 9, 2024, 138 Stat. 1465, provided that: “(a) In General.—The prohibitions against issuing certain licenses for utilization facilities to certain aliens, corporations, and other entities described in the second sentence of section 103 d. of the Atomic Energy Act of 1954 ([42 U.S.C. 2133(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2133/d&num=0&edition=prelim)) and the second sentence of section 104 d. of that Act ([42 U.S.C. 2134(d)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/d&num=0&edition=prelim)) shall not apply to an entity described in subsection (b) if the [Nuclear Regulatory] Commission determines that issuance of the applicable license to that entity is not inimical to—“(1) the common defense and security; or “(2) the health and safety of the public. “(b) Entities Described.—“(1) In general.—An entity referred to in subsection (a) is an alien, corporation, or other entity that is owned, controlled, or dominated by—“(A) the government of—“(i) a country, other than a country described in paragraph (2), that is a member of the Organisation for Economic Co-operation and Development on the date of enactment of this Act [July 9, 2024]; or “(ii) the Republic of India; “(B) a corporation that is incorporated in a country described in clause (i) or (ii) of subparagraph (A); or “(C) an alien who is a citizen or national of a country described in clause (i) or (ii) of subparagraph (A). “(2) Exclusion.—A country described in this paragraph is a country—“(A) any department, agency, or instrumentality of the government of which, on the date of enactment of this Act, is subject to sanctions under section 231 of the Countering America’s Adversaries Through Sanctions Act ([22 U.S.C. 9525](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9525&num=0&edition=prelim)); or “(B) any citizen, national, or entity of which, as of the date of enactment of this Act, is included on the List of Specially Designated Nationals and Blocked Persons maintained by the Office of Foreign Assets Control of the Department of the Treasury pursuant to sanctions imposed under section 231 of the Countering America’s Adversaries Through Sanctions Act ([22 U.S.C. 9525](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section9525&num=0&edition=prelim)). “(c) Technical Amendment.— [Amended this section.] “(d) Savings Clause.—Nothing in this section affects the requirements of section 721 of the Defense Production Act of 1950 ([50 U.S.C. 4565](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section4565&num=0&edition=prelim)).”
+
 #### Advanced Nuclear Reactor Program Licensing
-Pub. L. 115–439, title I, § 103(a), Jan. 14, 2019, 132 Stat. 5571, provided that: “(1) Staged licensing.—For the purpose of predictable, efficient, and timely reviews, not later than 270 days after the date of enactment of this Act [Jan. 14, 2019], the [Nuclear Regulatory] Commission shall develop and implement, within the existing regulatory framework, strategies for—“(A) establishing stages in the licensing process for commercial advanced nuclear reactors; and “(B) developing procedures and processes for—“(i) using a licensing project plan; and “(ii) optional use of a conceptual design assessment. “(2) Risk-informed licensing.—Not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement, where appropriate, strategies for the increased use of risk-informed, performance-based licensing evaluation techniques and guidance for commercial advanced nuclear reactors within the existing regulatory framework, including evaluation techniques and guidance for the resolution of the following:“(A) Applicable policy issues identified during the course of review by the Commission of a commercial advanced nuclear reactor licensing application. “(B) The issues described in SECY–93–092 and SECY–15–077, including—“(i) licensing basis event selection and evaluation; “(ii) source terms; “(iii) containment performance; and “(iv) emergency preparedness. “(3) Research and test reactor licensing.—For the purpose of predictable, efficient, and timely reviews, not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement strategies within the existing regulatory framework for licensing research and test reactors, including the issuance of guidance. “(4) Technology-inclusive regulatory framework.—Not later than December 31, 2027, the Commission shall complete a rulemaking to establish a technology-inclusive, regulatory framework for optional use by commercial advanced nuclear reactor applicants for new reactor license applications. “(5) Training and expertise.—As soon as practicable after the date of enactment of this Act, the Commission shall provide for staff training or the hiring of experts, as necessary—“(A) to support the activities described in paragraphs (1) through (4); and “(B) to support preparations—“(i) to conduct pre-application interactions; and “(ii) to review commercial advanced nuclear reactor license applications. “(6) Authorization of appropriations.—There is authorized to be appropriated to the Commission to carry out this subsection $14,420,000 for each of fiscal years 2020 through 2024.”
+Pub. L. 115–439, title I, § 103(a), Jan. 14, 2019, 132 Stat. 5571, as amended by Pub. L. 118–67, div. B, title II, § 205(b)(1), July 9, 2024, 138 Stat. 1461, provided that: “(1) Staged licensing.—For the purpose of predictable, efficient, and timely reviews, not later than 270 days after the date of enactment of this Act [Jan. 14, 2019], the [Nuclear Regulatory] Commission shall develop and implement, within the existing regulatory framework, strategies for—“(A) establishing stages in the licensing process for commercial advanced nuclear reactors; and “(B) developing procedures and processes for—“(i) using a licensing project plan; and “(ii) optional use of a conceptual design assessment. “(2) Risk-informed licensing.—Not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement, where appropriate, strategies for the increased use of risk-informed, performance-based licensing evaluation techniques and guidance for commercial advanced nuclear reactors within the existing regulatory framework, including evaluation techniques and guidance for the resolution of the following:“(A) Applicable policy issues identified during the course of review by the Commission of a commercial advanced nuclear reactor licensing application. “(B) The issues described in SECY–93–092 and SECY–15–077, including—“(i) licensing basis event selection and evaluation; “(ii) source terms; “(iii) containment performance; and “(iv) emergency preparedness. “(3) Research and test reactor licensing.—For the purpose of predictable, efficient, and timely reviews, not later than 2 years after the date of enactment of this Act, the Commission shall develop and implement strategies within the existing regulatory framework for licensing research and test reactors, including the issuance of guidance. “(4) Technology-inclusive regulatory framework.—Not later than December 31, 2027, the Commission shall complete a rulemaking to establish a technology-inclusive regulatory framework for optional use by commercial advanced nuclear reactor applicants for new reactor license applications. “(5) Training and expertise.—As soon as practicable after the date of enactment of this Act, the Commission shall provide for staff training or the hiring of experts, as necessary—“(A) to support the activities described in paragraphs (1) through (4); and “(B) to support preparations—“(i) to conduct pre-application interactions; and “(ii) to review commercial advanced nuclear reactor license applications (including fusion machine license applications). “(6) Authorization of appropriations.—There is authorized to be appropriated to the Commission to carry out this subsection $14,420,000 for each of fiscal years 2020 through 2024.”
 
 [For definitions of terms used in section 103(a) of Pub. L. 115–439, set out above, see section 3 of Pub. L. 115–439, set out as a note under [section 2215 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2215).]
+
+#### Prizes for Advanced Nuclear Reactor Licensing
+Pub. L. 115–439, title I, § 103(f), as added by Pub. L. 118–67, div. B, title II, § 202, July 9, 2024, 138 Stat. 1457, provided that: “(1) Definition of eligible entity.—In this subsection, the term ‘eligible entity’ means—“(A) a non-Federal entity; and “(B) the Tennessee Valley Authority. “(2) Prize for advanced nuclear reactor licensing.—“(A) In general.—Notwithstanding section 169 of the Atomic Energy Act of 1954 ([42 U.S.C. 2209](./chapter-023-development-and-control-of-atomic-energy.md#section-2209)) and subject to the availability of appropriations, the Secretary [of Energy] is authorized to make, with respect to each award category described in subparagraph (C), an award in an amount described in subparagraph (B) to the first eligible entity—“(i) to which the [Nuclear Regulatory] Commission issues an operating license for an advanced nuclear reactor under part 50 of title 10, Code of Federal Regulations (or successor regulations), for which an application has not been approved by the Commission as of the date of enactment of this subsection [July 9, 2024]; or “(ii) for which the Commission makes a finding described in section 52.103(g) of title 10, Code of Federal Regulations (or successor regulations), with respect to a combined license for an advanced nuclear reactor—“(I) that is issued under subpart C of part 52 of that title (or successor regulations); and “(II) for which an application has not been approved by the Commission as of the date of enactment of this subsection. “(B) Amount of award.—Subject to paragraph (3), an award under subparagraph (A) shall be in an amount equal to the total amount assessed by the Commission and collected under section 102(b)(2) [[42 U.S.C. 2215(b)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2215/b/2&num=0&edition=prelim)] from the eligible entity receiving the award for costs relating to the issuance of the license described in that subparagraph, including, as applicable, costs relating to the issuance of an associated construction permit described in section 50.23 of title 10, Code of Federal Regulations (or successor regulations), or early site permit (as defined in section 52.1 of that title (or successor regulations)). “(C) Award categories.—An award under subparagraph (A) may be made for—“(i) the first advanced nuclear reactor for which the Commission—“(I) issues a license in accordance with clause (i) of subparagraph (A); or “(II) makes a finding in accordance with clause (ii) of that subparagraph; “(ii) an advanced nuclear reactor that—“(I) uses isotopes derived from spent nuclear fuel (as defined in section 2 of the Nuclear Waste Policy Act of 1982 ([42 U.S.C. 10101](./chapter-108-nuclear-waste-policy.md#section-10101))) or depleted uranium as fuel for the advanced nuclear reactor; and “(II) is the first advanced nuclear reactor described in subclause (I) for which the Commission— “(aa) issues a license in accordance with clause (i) of subparagraph (A); or “(bb) makes a finding in accordance with clause (ii) of that subparagraph; “(iii) an advanced nuclear reactor that—“(I) is a nuclear integrated energy system— “(aa) that is composed of 2 or more co-located or jointly operated subsystems of energy generation, energy storage, or other technologies; “(bb) in which not fewer than 1 subsystem described in item (aa) is a nuclear energy system; and “(cc) the purpose of which is—“(AA) to reduce greenhouse gas emissions in both the power and nonpower sectors; and “(BB) to maximize energy production and efficiency; and “(II) is the first advanced nuclear reactor described in subclause (I) for which the Commission— “(aa) issues a license in accordance with clause (i) of subparagraph (A); or “(bb) makes a finding in accordance with clause (ii) of that subparagraph; “(iv) an advanced reactor that—“(I) operates flexibly to generate electricity or high temperature process heat for nonelectric applications; and “(II) is the first advanced nuclear reactor described in subclause (I) for which the Commission— “(aa) issues a license in accordance with clause (i) of subparagraph (A); or “(bb) makes a finding in accordance with clause (ii) of that subparagraph; and “(v) the first advanced nuclear reactor for which the Commission grants approval to load nuclear fuel pursuant to the technology-inclusive regulatory framework established under subsection (a)(4) [set out in a note above]. “(3) Federal funding limitations.—“(A) Exclusion of tva funds.—In this paragraph, the term ‘Federal funds’ does not include funds received under the power program of the Tennessee Valley Authority established pursuant to the Tennessee Valley Authority Act of 1933 ([16 U.S.C. 831](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section831&num=0&edition=prelim) et seq.). “(B) Limitation on amounts expended.—An award under this subsection shall not exceed the total amount expended (excluding any expenditures made with Federal funds received for the applicable project and an amount equal to the minimum cost-share required under section 988 of the Energy Policy Act of 2005 ([42 U.S.C. 16352](./chapter-149-national-energy-policy-and-programs.md#section-16352))) by the eligible entity receiving the award for licensing costs relating to the project for which the award is made. “(C) Repayment and dividends not required.—Notwithstanding [section 9104(a)(4) of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9104/a/4&num=0&edition=prelim), United States Code, or any other provision of law, an eligible entity that receives an award under this subsection shall not be required—“(i) to repay that award or any part of that award; or “(ii) to pay a dividend, interest, or other similar payment based on the sum of that award.”
+
+[For definitions of terms used in section 103(f) of Pub. L. 115–439, set out above, see section 3 of Pub. L. 115–439, set out as a note under [section 2215 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2215).]
 
 
 <a id="section-2134"></a>
@@ -2766,16 +2829,34 @@ Pub. L. 115–439, title I, § 103(a), Jan. 14, 2019, 132 Stat. 5571, provided t
 
 **(b) Industrial and commercial purposes** As provided for in subsection (b) or (c) of [section 2132 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2132), or where specifically authorized by law, the Commission is authorized to issue licenses under this subsection to persons applying therefor for utilization and production facilities for industrial and commercial purposes. In issuing licenses under this subsection, the Commission shall impose the minimum amount of such regulations and terms of license as will permit the Commission to fulfill its obligations under this chapter.
 
-**(c) Research and development activities** The Commission is authorized to issue licenses to persons applying therefor for utilization and production facilities useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051). The Commission is directed to impose only such minimum amount of regulation of the licensee as the Commission finds will permit the Commission to fulfill its obligations under this chapter to promote the common defense and security and to protect the health and safety of the public and will permit the conduct of widespread and diverse research and development. The Commission is authorized to issue licenses under this section for utilization facilities useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051) in which the licensee sells research and testing services and energy to others, subject to the condition that the licensee shall recover not more than 75 percent of the annual costs to the licensee of owning and operating the facility through sales of nonenergy services, energy, or both, other than research and development or education and training, of which not more than 50 percent may be through sales of energy.
+**(c) Research and development activities**
+
+(1) **In general** — Subject to paragraphs (2) and (3), the Commission is authorized to issue licenses to persons applying therefor for utilization and production facilities useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051).
+
+(2) **Regulation** — The Commission is directed to impose only such minimum amount of regulation of the licensee as the Commission finds will permit the Commission to fulfill its obligations under this chapter to promote the common defense and security and to protect the health and safety of the public and will permit the conduct of widespread and diverse research and development.
+
+(3) **Limitation on utilization facilities** — The Commission may issue a license under this section for a utilization facility useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051) if—
+
+  (A) not more than 75 percent of the annual costs to the licensee of owning and operating the facility are devoted to the sale, other than for research and development or education and training, of—
+
+    (i) nonenergy services;
+
+    (ii) energy; or
+
+    (iii) a combination of nonenergy services and energy; and
+
+  (B) not more than 50 percent of the annual costs to the licensee of owning and operating the facility are devoted to the sale of energy.
 
 **(d) Limitations** No license under this section may be given to any person for activities which are not under or within the jurisdiction of the United States, except for the export of production or utilization facilities under terms of an agreement for cooperation arranged pursuant to [section 2153 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2153) or except under the provisions of [section 2139 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2139). No license may be issued to any corporation or other entity if the Commission knows or has reason to believe it is owned, controlled, or dominated by an alien, a foreign corporation, or a foreign government. In any event, no license may be issued to any person within the United States if, in the opinion of the Commission, the issuance of a license to such person would be inimical to the common defense and security or to the health and safety of the public.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in subsecs. (a) to (c), was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+This chapter, referred to in subsecs. (a), (b), and (c)(2), was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–67 inserted subsec. heading; designated first sentence as par. (1), inserted par. heading, and substituted “Subject to paragraphs (2) and (3), the Commission” for “The Commission”; designated second sentence as par. (2) and inserted heading; and substituted par. (3) for third sentence which read as follows: “The Commission is authorized to issue licenses under this section for utilization facilities useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051) in which the licensee sells research and testing services and energy to others, subject to the condition that the licensee shall recover not more than 75 percent of the annual costs to the licensee of owning and operating the facility through sales of nonenergy services, energy, or both, other than research and development or education and training, of which not more than 50 percent may be through sales of energy.”
+
 2019—Subsec. (c). Pub. L. 115–439 struck out “and which are not facilities of the type specified in subsection (b)” after “[section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051)” and inserted at end “The Commission is authorized to issue licenses under this section for utilization facilities useful in the conduct of research and development activities of the types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051) in which the licensee sells research and testing services and energy to others, subject to the condition that the licensee shall recover not more than 75 percent of the annual costs to the licensee of owning and operating the facility through sales of nonenergy services, energy, or both, other than research and development or education and training, of which not more than 50 percent may be through sales of energy.”
 
 1970—Subsec. (b). Pub. L. 91–560 substituted provisions authorizing the issue of licenses for utilization or production facilities for industrial or commercial purposes (i) where specifically authorized by law or (ii) where the facility was constructed or operated under an arrangement with the Commission entered into under the cooperative power reactor demonstration program, and the applicable statutory authorization does not require licensing under section 2133, or (iii) where the facility was theretofore licensed under section 2134(b), for provisions authorizing the issue of licenses for utilization and production facilities involved in the conduct of research and development activities leading to the demonstration of the practical value of such facilities for industrial and commercial purposes.
@@ -3454,6 +3535,9 @@ Amendment by Pub. L. 105–277 effective on earlier of Apr. 1, 1999, or date of 
 #### Effective Date
 Section effective Mar. 10, 1978, except as otherwise provided and regardless of any requirements for the promulgation of implementing regulations, see section 603(c) of Pub. L. 95–242, set out as a note under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
 
+#### Export License Notification
+Pub. L. 118–67, div. B, title I, § 103, July 9, 2024, 138 Stat. 1452, provided that: “(a) Definition of Low-Enriched Uranium.—In this section, the term ‘low-enriched uranium’ means uranium enriched to less than 20 percent of the uranium-235 isotope. “(b) Notification.—If the [Nuclear Regulatory] Commission, after consultation with the Secretary of State and any other relevant agencies, issues an export license for the transfer of any item described in subsection (d) to a country described in subsection (c), the Commission shall notify the appropriate committees of Congress [Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate], the Committee on Foreign Relations of the Senate, the Committee on Energy and Natural Resources of the Senate, and the Committee on Foreign Affairs of the House of Representatives. “(c) Countries Described.—A country referred to in subsection (b) is a country that—“(1) has not concluded and ratified an Additional Protocol to its safeguards agreement with the International Atomic Energy Agency; or “(2) has not ratified or acceded to the amendment to the Convention on the Physical Protection of Nuclear Material, adopted at Vienna October 26, 1979, and opened for signature at New York March 3, 1980 (TIAS 11080), described in the information circular of the International Atomic Energy Agency numbered INFCIRC/274/Rev.1/Mod.1 and dated May 9, 2016 (TIAS 16–508). “(d) Items Described.—An item referred to in subsection (b) includes—“(1) unirradiated nuclear fuel containing special nuclear material (as defined in section 11 of the Atomic Energy Act of 1954 ([42 U.S.C. 2014](./chapter-023-development-and-control-of-atomic-energy.md#section-2014))), excluding low-enriched uranium; “(2) a nuclear reactor that uses nuclear fuel described in paragraph (1); and “(3) any plant or component listed in Appendix I to part 110 of title 10, Code of Federal Regulations (or successor regulations), that is involved in—“(A) the reprocessing of irradiated nuclear reactor fuel elements; “(B) the separation of plutonium; or “(C) the separation of the uranium-233 isotope.”
+
 #### Nuclear Export Reporting Requirement
 Pub. L. 105–261, div. A, title XV, § 1523, Oct. 17, 1998, 112 Stat. 2180, as amended by Pub. L. 106–113, div. B, § 1000(a)(7) [div. B, title XI, § 1135], Nov. 29, 1999, 113 Stat. 1536, 1501A–494, provided that: “(a) Notification of Congress.—The President shall notify the Committee on Foreign Relations of the Senate and the Committee on International Relations [now Committee on Foreign Affairs] of the House of Representatives upon the granting of a license by the Nuclear Regulatory Commission for the export or reexport of any nuclear-related technology or equipment, including source material, special nuclear material, or equipment or material especially designed or prepared for the processing, use, or production of special nuclear material. “(b) Applicability.—The requirements of this section shall apply only to an export or reexport to a country that—“(1) the President has determined is a country that has detonated a nuclear explosive device; and “(2) is not a member of the North Atlantic Treaty Organization. “(c) Content of Notification.—The notification required pursuant to this section shall include—“(1) a detailed description of the articles or services to be exported or reexported, including a brief description of the capabilities of any article to be exported or reexported; “(2) an estimate of the number of officers and employees of the United States Government and of United States Government civilian contract personnel expected to be required in such country to carry out the proposed export or reexport; “(3) the name of each licensee expected to provide the article or service proposed to be sold and a description from the licensee of any offset agreements proposed to be entered into in connection with such sale (if known on the date of transmittal of such statement); “(4) the projected delivery dates of the articles or services to be exported or reexported; and “(5) the extent to which the recipient country in the previous two years has engaged in any of the actions specified in subparagraph (A), (B), or (C) of section 129(2) of the Atomic Energy Act of 1954 [[42 U.S.C. 2158(2)(A)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2158/2/A&num=0&edition=prelim), (B), (C)].”
 
@@ -3574,6 +3658,61 @@ For definitions of terms used in this section, see [section 3203 of Title 22](ht
 
 #### Performance of Functions Pending Development of Procedures
 The performance of functions under the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, not to be delayed pending development of procedures even though as many as 120 days [after Mar. 10, 1978] are allowed for establishing those procedures, see section 5(b) of Ex. Ord. No. 12058, May 11, 1978, 43 F.R. 20947, set out under [section 3201 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3201&num=0&edition=prelim), Foreign Relations and Intercourse.
+
+
+<a id="section-2155b"></a>
+## § 2155b. International nuclear export and innovation activities
+**(a) Commission coordination**
+
+(1) **In general** — The Commission shall—
+
+  (A) coordinate all work of the Commission relating to—
+
+    (i) import and export licensing for nuclear reactors and radioactive materials; and
+
+    (ii) international regulatory cooperation and assistance relating to nuclear reactors and radioactive materials, including with countries that are members of—
+
+      (I) the Organisation for Economic Co-operation and Development; or
+
+      (II) the Nuclear Energy Agency; and
+
+  (B) support interagency and international coordination with respect to—
+
+    (i) the consideration of international technical standards to establish the licensing and regulatory basis to assist the design, construction, and operation of nuclear reactors and use of radioactive materials;
+
+    (ii) efforts to help build competent nuclear regulatory organizations and legal frameworks in foreign countries that are seeking to develop civil nuclear industries; and
+
+    (iii) exchange programs and training provided, in coordination with the Secretary of State, to foreign countries relating to civil nuclear licensing and oversight to improve the regulation of nuclear reactors and radioactive materials, in accordance with paragraph (2).
+
+(2) **Exchange programs and training** — With respect to the exchange programs and training described in paragraph (1)(B)(iii), the Commission shall coordinate, as applicable, with—
+
+  (A) the Secretary of Energy;
+
+  (B) the Secretary of State;
+
+  (C) the National Laboratories;
+
+  (D) the private sector; and
+
+  (E) institutions of higher education.
+
+**(b) Authority to establish branch** The Commission may establish within the Office of International Programs a branch, to be known as the “International Nuclear Export and Innovation Branch”, to carry out the international nuclear export and innovation activities described in subsection (a) as the Commission determines to be appropriate and within the mission of the Commission.
+
+**(c) Omitted**
+
+**(d) Interagency coordination** The Commission shall coordinate all international activities under this section with the Secretary of State, the Secretary of Energy, and other applicable agencies, as appropriate.
+
+**(e) Savings clause** Nothing in this section alters the authority of the Commission to license and regulate the civilian use of radioactive materials.
+
+### Statutory Notes
+
+#### Codification
+Section was enacted as part of the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024, also known as the ADVANCE Act of 2024, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+Section is comprised of section 101 of div. B of Pub. L. 118–67. Subsec. (c) of section 101 of div. B of Pub. L. 118–67 amended [section 2215 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2215) and enacted provisions set out as a note under [section 2215 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2215).
+
+#### Definitions
+For definitions of terms used in this section, see section 2 of div. B of Pub. L. 118–67, set out as a note under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011).
 
 
 <a id="section-2156"></a>
@@ -5036,7 +5175,7 @@ Provisions similar to this section were contained in section 1811(e)(1) to (3) o
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Patent Compensation Board established by this section transferred to Energy Research and Development Administration and functions of Atomic Energy Commission with respect thereto transferred to Administrator by [section 5814(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5814/d&num=0&edition=prelim). See, also, notes set out under sections 5814 and 5841 of this title. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See Pub. L. 92–463, § 14, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Ex. Ord. No. 11477. Awards by Commission Without Approval of President
 Ex. Ord. No. 11477, eff. Aug. 7, 1969, 34 F.R. 12937, provided:
@@ -5118,7 +5257,7 @@ In the performance of its functions the Commission is authorized to—
 
 **(m) Agreements regarding production** enter into agreements with persons licensed under section 2133, 2134, 2073(a)(4), or 2093(a)(4) of this title for such periods of time as the Commission may deem necessary or desirable (1) to provide for the processing, fabricating, separating, or refining in facilities owned by the Commission of source, byproduct, or other material or special nuclear material owned by or made available to such licensees and which is utilized or produced in the conduct of the licensed activity, and (2) to sell, lease, or otherwise make available to such licensees such quantities of source or byproduct material, and other material not defined as special nuclear material pursuant to this chapter, as may be necessary for the conduct of the licensed activity: Provided, however, That any such agreement may be canceled by the licensee at any time upon payment of such reasonable cancellation charges as may be agreed upon by the licensee and the Commission: And provided further, That the Commission shall establish prices to be paid by licensees for material or services to be furnished by the Commission pursuant to this subsection, which prices shall be established on such a nondiscriminatory basis as, in the opinion of the Commission, will provide reasonable compensation to the Government for such material or services and will not discourage the development of sources of supply independent of the Commission;
 
-**(n) Delegation of functions** delegate to the General Manager or other officers of the Commission any of those functions assigned to it under this chapter except those specified in sections 2071, 2077(b) (with respect to enrichment and reprocessing of special nuclear material or with respect to transfers to any covered foreign country (as defined in [section 2077a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077a/i&num=0&edition=prelim))), 2091, 2138, 2153, 2165(b) of this title (with respect to the determination of those persons to whom the Commission may reveal Restricted Data in the national interest), 2165(f) of this title and subsection (a) of this section;
+**(n) Delegation of functions** delegate to the General Manager or other officers of the Commission any of those functions assigned to it under this chapter except those specified in sections 2071, 2077(b) (with respect to enrichment and reprocessing of special nuclear material or with respect to transfers to any covered foreign country (as defined in [section 2077a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2077a))), 2091, 2138, 2153, 2165(b) of this title (with respect to the determination of those persons to whom the Commission may reveal Restricted Data in the national interest), 2165(f) of this title and subsection (a) of this section;
 
 **(o) Reports** require by rule, regulation, or order, such reports, and the keeping of such records with respect to, and to provide for such inspections of, activities and studies of types specified in [section 2051 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2051) and of activities under licenses issued pursuant to sections 2073, 2093, 2111, 2133, and 2134 of this title, as may be necessary to effectuate the purposes of this chapter, including [section 2135 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2135); and
 
@@ -5199,6 +5338,8 @@ In subsec. (x)(2)(B), “November 8, 1978” was in the original “the date of 
 Provisions similar to this section were contained in [section 1812(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1812/a&num=0&edition=prelim), prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+2022—Subsec. (n). Pub. L. 117–263 substituted “[section 2077a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2077a)” for “[section 2077a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077a/i&num=0&edition=prelim)”.
+
 2018—Subsec. (n). Pub. L. 115–232 substituted “2077(b) (with respect to enrichment and reprocessing of special nuclear material or with respect to transfers to any covered foreign country (as defined in [section 2077a(i) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2077a/i&num=0&edition=prelim))),” for “2077(b),”.
 
 2005—Subsec. (i)(4). Pub. L. 109–58, § 626, added cl. (4).
@@ -5279,6 +5420,9 @@ References to the United States Enrichment Corporation deemed, as of the privati
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 [title I, § 101(c)(1)] of Pub. L. 101–509, set out in a note under [section 5376 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5376&num=0&edition=prelim).
 
+#### Mission Alignment
+Pub. L. 118–67, div. B, title V, § 501, July 9, 2024, 138 Stat. 1471, provided that: “(a) Update.—Not later than 1 year after the date of enactment of this Act [July 9, 2024], the [Nuclear Regulatory] Commission shall, while remaining consistent with the policies of the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.) and the Energy Reorganization Act of 1974 ([42 U.S.C. 5801](./chapter-073-development-of-energy-sources.md#section-5801) et seq.) (including to provide reasonable assurance of adequate protection of the public health and safety, to promote the common defense and security, and to protect the environment), update the mission statement of the Commission to include that licensing and regulation of the civilian use of radioactive materials and nuclear energy be conducted in a manner that is efficient and does not unnecessarily limit—“(1) the civilian use of radioactive materials and deployment of nuclear energy; or “(2) the benefits of civilian use of radioactive materials and nuclear energy technology to society. “(b) Report.—On completion of the update to the mission statement required under subsection (a), the Commission shall submit to the appropriate committees of Congress [Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate] a report that describes—“(1) the updated mission statement; and “(2) the guidance that the Commission will provide to staff of the Commission to ensure effective performance of the mission of the Commission.”
+
 #### Organizational Conflicts of Interest
 Pub. L. 95–209, § 7, Dec. 13, 1977, 91 Stat. 1483, provided that the Commission would, by Dec. 31, 1977, promulgate guidelines to be applied by the Commission to determine whether an organization proposing to enter into a contractual arrangement with the Commission had a conflict of interest that could impair the contractor’s judgment or give the contractor an unfair competitive advantage.
 
@@ -5286,7 +5430,7 @@ Pub. L. 95–209, § 7, Dec. 13, 1977, 91 Stat. 1483, provided that the Commissi
 Pub. L. 95–91, title VII, § 709(c)(2), Aug. 4, 1977, 91 Stat. 608, provided that: “Section 161(d) of the Atomic Energy Act of 1954 [subsec. (d) of this section] shall not apply to functions transferred by this Act [see Short Title note set out under [section 7101 of this title](./chapter-084-department-of-energy.md#section-7101)].”
 
 #### Termination of Advisory Boards
-Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Principal Office Building for Atomic Energy Commission
 Act May 6, 1955, ch. 34, 69 Stat. 47, as amended by Pub. L. 85–107, July 17, 1957, 71 Stat. 307, authorized Atomic Energy Commission to acquire a suitable site in or near District of Columbia and, notwithstanding any other provision of law, to provide for construction on such site, in accordance with plans and specifications prepared by or under direction of Commission, of a modern office building to serve as principal office of Commission at a total cost of not to exceed $13,300,000 and authorized to be appropriated such sums as were necessary.
@@ -5332,6 +5476,157 @@ Section 103 of the Brady Handgun Violence Prevention Act, referred to in subsec.
 Guidelines to carry out this section, referred to in subsec. (d), were issued effective Sept. 11, 2009, see 74 F.R. 46800.
 
 
+<a id="section-2201b"></a>
+## § 2201b. Commission workforce
+**(a) Direct hire authority**
+
+(1) **In general** — Notwithstanding [section 2201(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2201/d&num=0&edition=prelim) and any provision of Reorganization Plan No. 1 of 1980 (94 Stat. 3585; 5 U.S.C. app.), and without regard to any provision of title 5 (except section 3328) governing appointments in the civil service, the Chairman of the Nuclear Regulatory Commission (in this section referred to as the “Chairman”) may, in order to carry out the Nuclear Regulatory Commission’s (in this section referred to as the “Commission”) responsibilities and activities in a timely, efficient, and effective manner and subject to the limitations described in paragraphs (2), (3), and (4)—
+
+  (A) recruit and directly appoint exceptionally well-qualified individuals into the excepted service for covered positions; and
+
+  (B) establish in the excepted service term-limited covered positions and recruit and directly appoint exceptionally well-qualified individuals into such term-limited covered positions, which may not exceed a term of 4 years.
+
+(2) **Limitations**
+
+  (A) *Number*
+
+    (i) *In general* — The number of exceptionally well-qualified individuals serving in covered positions pursuant to paragraph (1)(A) may not exceed 210 at any one time.
+
+    (ii) *Term-limited covered positions* — The Chairman may not appoint more than 20 exceptionally well-qualified individuals into term-limited covered positions pursuant to paragraph (1)(B) during any fiscal year.
+
+  (B) *Compensation*
+
+    (i) *Annual rate* — The annual basic rate of pay for any individual appointed under paragraph (1)(A) or paragraph (1)(B) may not exceed the annual basic rate of pay for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim).
+
+    (ii) *Experience and qualifications* — Any individual recruited and directly appointed into a covered position or a term-limited covered position shall be compensated at a rate of pay that is commensurate with such individual’s experience and qualifications.
+
+  (C) *Senior executive service position* — The Chairman may not, under paragraph (1)(A) or paragraph (1)(B), appoint exceptionally well-qualified individuals to any Senior Executive Service position, as defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim).
+
+(3) **Level of positions** — To the extent practicable, in carrying out paragraph (1) the Chairman shall recruit and directly appoint exceptionally well-qualified individuals into the excepted service to entry, mid, and senior level covered positions, including term-limited covered positions.
+
+(4) **Consideration of future workforce needs** — When recruiting and directly appointing exceptionally well-qualified individuals to covered positions pursuant to paragraph (1)(A), to maintain sufficient flexibility under the limitations of paragraph (2)(A)(i), the Chairman shall consider the future workforce needs of the Commission to carry out its responsibilities and activities in a timely, efficient, and effective manner.
+
+**(b) Addressing insufficient compensation of employees and other personnel of the Commission**
+
+(1) **In general** — Notwithstanding any other provision of law, the Chairman may fix the compensation for employees or other personnel serving in a covered position without regard to any provision of title 5 governing General Schedule classification and pay rates.
+
+(2) **Applicability** — The authority under this subsection to fix the compensation of employees or other personnel shall apply with respect to an employee or other personnel serving in a covered position regardless of when the employee or other personnel was hired.
+
+(3) **Limitations on compensation**
+
+  (A) *Annual rate* — The Chairman may not use the authority under paragraph (1) to fix the compensation of employees or other personnel—
+
+    (i) at an annual rate of basic pay higher than the annual basic rate of pay for level III of the Executive Schedule under [section 5314 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5314&num=0&edition=prelim); or
+
+    (ii) at an annual rate of basic pay that is not commensurate with such an employee or other personnel’s experience and qualifications.
+
+  (B) *Senior Executive Service positions* — The Chairman may not use the authority under paragraph (1) to fix the compensation of an employee serving in a Senior Executive Service position, as defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim).
+
+**(c) Additional compensation authority**
+
+(1) **For new employees** — The Chairman may pay an individual recruited and directly appointed under subsection (a) a 1-time hiring bonus in an amount not to exceed $25,000.
+
+(2) **For existing employees**
+
+  (A) *In general* — Subject to subparagraphs (B) and (C), an employee or other personnel who the Chairman determines exhibited exceptional performance in a fiscal year may be paid a performance bonus in an amount not to exceed the least of—
+
+    (i) $25,000; and
+
+    (ii) the amount of the limitation that is applicable for a calendar year under [section 5307(a)(1) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5307/a/1&num=0&edition=prelim).
+
+  (B) *Exceptional performance* — Exceptional performance under subparagraph (A) includes—
+
+    (i) leading a project team in a timely and efficient licensing review to enable the safe use of nuclear technology;
+
+    (ii) making significant contributions to a timely and efficient licensing review to enable the safe use of nuclear technology;
+
+    (iii) the resolution of novel or first-of-a-kind regulatory issues;
+
+    (iv) developing or implementing licensing or regulatory oversight processes to improve the effectiveness of the Commission; and
+
+    (v) other performance, as determined by the Chairman.
+
+  (C) *Limitations*
+
+    (i) *Subsequent bonuses* — Any person who receives a performance bonus under subparagraph (A) may not receive another performance bonus under that subparagraph for a period of 5 years thereafter.
+
+    (ii) *Hiring bonuses* — Any person who receives a 1-time hiring bonus under paragraph (1) may not receive a performance bonus under subparagraph (A) unless more than one year has elapsed since the payment of such 1-time hiring bonus.
+
+    (iii) *No bonus for Senior Executive Service positions* — No person serving in a Senior Executive Service position, as defined in [section 3132 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3132&num=0&edition=prelim), may receive a performance bonus under subparagraph (A).
+
+**(d) Implementation plan and report**
+
+(1) **In general** — Not later than 180 days after July 9, 2024, the Chairman shall develop and implement a plan to carry out this section. Before implementing such plan, the Chairman shall submit to the Committee on Energy and Commerce of the House of Representatives, the Committee on Environment and Public Works of the Senate, and the Office of Personnel Management a report on the details of the plan.
+
+(2) **Report content** — The report submitted under paragraph (1) shall include—
+
+  (A) evidence and supporting documentation justifying the plan; and
+
+  (B) budgeting projections on costs and benefits resulting from the plan.
+
+(3) **Consultation** — The Chairman may consult with the Office of Personnel Management, the Office of Management and Budget, and the Comptroller General of the United States in developing the plan under paragraph (1).
+
+**(e) Delegation** The Chairman shall delegate, subject to the direction and supervision of the Chairman, the authority provided by subsections (a), (b), and (c) to the Executive Director for Operations of the Commission.
+
+**(f) Information on hiring, vacancies, and compensation**
+
+(1) **In general** — The Commission shall include in its budget materials submitted in support of the budget of the President (submitted to Congress pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim)), for fiscal year 2026 and each fiscal year thereafter, information relating to hiring, vacancies, and compensation at the Commission.
+
+(2) **Inclusions** — The information described in paragraph (1) shall include—
+
+  (A) an analysis of any trends with respect to hiring, vacancies, and compensation at the Commission;
+
+  (B) a description of the efforts to retain and attract employees or other personnel to serve in covered positions at the Commission;
+
+  (C) information that describes—
+
+    (i) how the authority provided by subsection (a) is being used to address the hiring needs of the Commission;
+
+    (ii) the total number of exceptionally well-qualified individuals serving in—
+
+      (I) covered positions described in subsection (g)(1) pursuant to subsection (a)(1)(A);
+
+      (II) covered positions described in subsection (g)(2) pursuant to subsection (a)(1)(A);
+
+      (III) term-limited covered positions described in subsection (g)(1) pursuant to subsection (a)(1)(B); and
+
+      (IV) term-limited covered positions described in subsection (g)(2) pursuant to subsection (a)(1)(B);
+
+    (iii) how the authority provided by subsection (b) is being used to address the hiring or retention needs of the Commission;
+
+    (iv) the total number of employees or other personnel serving in a covered position that have their compensation fixed pursuant to subsection (b); and
+
+    (v) the attrition levels with respect to term-limited covered positions appointed under subsection (a)(1)(B), including the number of individuals leaving a term-limited covered position before completion of the applicable term of service and the average length of service for such individuals as a percentage of the applicable term of service; and
+
+  (D) an assessment of—
+
+    (i) the current critical workforce needs of the Commission and any critical workforce needs that the Commission anticipates in the next five years; and
+
+    (ii) additional skillsets that are or likely will be needed for the Commission to fulfill the licensing and oversight responsibilities of the Commission.
+
+**(g) Covered position** In this section, the term “covered position” means—
+
+(1) a position in which an employee or other personnel is responsible for conducting work of a highly-specialized scientific, technical, engineering, mathematical, or otherwise skilled nature to address a critical licensing or regulatory oversight need for the Commission; or
+
+(2) a position that the Executive Director for Operations of the Commission determines is necessary to fulfill the responsibilities of the Commission in a timely, efficient, and effective manner.
+
+**(h) Sunset**
+
+(1) **In general** — Except as provided in paragraph (2), the authorities provided by subsections (a) and (b) shall terminate on September 30, 2034.
+
+(2) **Certification** — If, no later than the date referenced in paragraph (1), the Commission issues a certification that the authorities provided by subsection (a), subsection (b), or both subsections are necessary for the Commission to carry out its responsibilities and activities in a timely, efficient, and effective manner, the authorities provided by the applicable subsection shall terminate on September 30, 2039.
+
+(3) **Compensation** — The termination of the authorities provided by subsections (a) and (b) shall not affect the compensation of an employee or other personnel serving in a covered position whose compensation was fixed by the Chairman in accordance with subsection (a) or (b).
+
+### Statutory Notes
+
+#### References in Text
+Reorganization Plan No. 1 of 1980, referred to in subsec. (a)(1), is set out in the Appendix to Title 5, Government Organization and Employees, and as a note under [section 5841 of this title](./chapter-073-development-of-energy-sources.md#section-5841).
+
+#### Annual Solicitation for Nuclear Regulator Apprenticeship Network Applications
+Pub. L. 118–67, div. B, title V, § 502(c), July 9, 2024, 138 Stat. 1476, provided that: “The [Nuclear Regulatory] Commission, on an annual basis, shall solicit applications for the Nuclear Regulator Apprenticeship Network.”
+
+
 <a id="section-2202"></a>
 ## § 2202. Contracts
 
@@ -5365,7 +5660,7 @@ Provisions similar to this section were contained in [section 1812(c) of this ti
 Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. General Advisory Committee transferred to Energy Research and Development Administration and functions of Commission with respect thereto transferred to Administrator by [section 5814(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section5814/d&num=0&edition=prelim). See, also, notes set out under sections 5814 and 5841 of this title. General Advisory Committee abolished by Pub. L. 95–91, title VII, § 709(c)(1), Aug. 4, 1977, 91 Stat. 608. Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of this title.
 
 #### Termination of Advisory Boards and Committees
-Advisory boards and committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board or committee established by the President or an officer of the federal government, such board or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board or committee established by the Congress, its duration is otherwise provided by law. Advisory boards and committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board or committee established by the President or an officer of the federal government, such board or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board or committee established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards and committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board or committee established by the President or an officer of the federal government, such board or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board or committee established by the Congress, its duration is otherwise provided by law. Advisory boards and committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board or committee established by the President or an officer of the federal government, such board or committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board or committee established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-2204"></a>
@@ -5511,13 +5806,13 @@ No funds of the Commission shall be employed in the construction or operation of
 
   (B) A combination of facilities referred to in subparagraph (A) is two or more facilities located at a single site, each of which has a rated capacity of 100,000 electrical kilowatts or more but not more than 300,000 electrical kilowatts, with a combined rated capacity of not more than 1,300,000 electrical kilowatts.
 
-**(c) Indemnification of licensees by Nuclear Regulatory Commission** The Commission shall, with respect to licenses issued between August 30, 1954, and December 31, 2025, for which it requires financial protection of less than $560,000,000, agree to indemnify and hold harmless the licensee and other persons indemnified, as their interest may appear, from public liability arising from nuclear incidents which is in excess of the level of financial protection required of the licensee. The aggregate indemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000 excluding costs of investigating and settling claims and defending suits for damage: Provided, however, That this amount of indemnity shall be reduced by the amount that the financial protection required shall exceed $60,000,000. Such a contract of indemnification shall cover public liability arising out of or in connection with the licensed activity. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2025, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2025.
+**(c) Indemnification of licensees by Nuclear Regulatory Commission** The Commission shall, with respect to licenses issued between August 30, 1954, and December 31, 2065, for which it requires financial protection of less than $560,000,000, agree to indemnify and hold harmless the licensee and other persons indemnified, as their interest may appear, from public liability arising from nuclear incidents which is in excess of the level of financial protection required of the licensee. The aggregate indemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000 excluding costs of investigating and settling claims and defending suits for damage: Provided, however, That this amount of indemnity shall be reduced by the amount that the financial protection required shall exceed $60,000,000. Such a contract of indemnification shall cover public liability arising out of or in connection with the licensed activity. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2065, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2065.
 
 **(d) Indemnification of contractors by Department of Energy**
 
 (1)
 
-  (A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2025, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) or agreements of indemnification under subsection (c) or (k).
+  (A) In addition to any other authority the Secretary of Energy (in this section referred to as the “Secretary”) may have, the Secretary shall, until December 31, 2065, enter into agreements of indemnification under this subsection with any person who may conduct activities under a contract with the Department of Energy that involve the risk of public liability and that are not subject to financial protection requirements under subsection (b) or agreements of indemnification under subsection (c) or (k).
 
   (B)
 
@@ -5539,7 +5834,7 @@ No funds of the Commission shall be employed in the construction or operation of
 
 (4) Financial protection under paragraph (2) and indemnification under paragraph (1) shall be the exclusive means of financial protection and indemnification under this section for any Department of Energy demonstration reactor licensed by the Commission under [section 5842 of this title](./chapter-073-development-of-energy-sources.md#section-5842).
 
-(5) In the case of nuclear incidents occurring outside the United States, the amount of the indemnity provided by the Secretary under this subsection shall not exceed $500,000,000.
+(5) In the case of nuclear incidents occurring outside the United States, the amount of the indemnity provided by the Secretary under this subsection shall not exceed $2,000,000,000.
 
 (6) The provisions of this subsection may be applicable to lump sum as well as cost type contracts and to contracts and projects financed in whole or in part by the Secretary.
 
@@ -5563,7 +5858,7 @@ No funds of the Commission shall be employed in the construction or operation of
 
 (3) No provision of paragraph (1) may be construed to preclude the Congress from enacting a revenue measure, applicable to licensees of the Commission required to maintain financial protection pursuant to subsection (b), to fund any action undertaken pursuant to paragraph (2).
 
-(4) With respect to any nuclear incident occurring outside of the United States to which an agreement of indemnification entered into under the provisions of subsection (d) is applicable, such aggregate public liability shall not exceed the amount of $500,000,000, together with the amount of financial protection required of the contractor.
+(4) With respect to any nuclear incident occurring outside of the United States to which an agreement of indemnification entered into under the provisions of subsection (d) is applicable, such aggregate public liability shall not exceed the amount of $2,000,000,000, together with the amount of financial protection required of the contractor.
 
 **(f) Collection of fees by Nuclear Regulatory Commission** The Commission or the Secretary, as appropriate, is authorized to collect a fee from all persons with whom an indemnification agreement is executed under this section. This fee shall be $30 per year per thousand kilowatts of thermal energy capacity for facilities licensed under [section 2133 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2133): Provided, That the Commission or the Secretary, as appropriate, is authorized to reduce the fee for such facilities in reasonable relation to increases in financial protection required above a level of $60,000,000. For facilities licensed under [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134), and for construction permits under [section 2235 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2235), the Commission is authorized to reduce the fee set forth above. The Commission shall establish criteria in writing for determination of the fee for facilities licensed under [section 2134 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2134), taking into consideration such factors as (1) the type, size, and location of facility involved, and other factors pertaining to the hazard, and (2) the nature and purpose of the facility. For other licenses, the Commission shall collect such nominal fees as it deems appropriate. No fee under this subsection shall be less than $100 per year.
 
@@ -5637,18 +5932,18 @@ No funds of the Commission shall be employed in the construction or operation of
 
 **(j) Contracts in advance of appropriations** In administering the provisions of this section, the Commission or the Secretary, as appropriate, may make contracts in advance of appropriations and incur obligations without regard to sections 1341, 1342, 1349, 1350, and 1351, and subchapter II of chapter 15, of title 31.
 
-**(k) Exemption from financial protection requirement for nonprofit educational institutions** With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a), or 2134(c) of this title, for the conduct of educational activities to a person found by the Commission to be a nonprofit educational institution, the Commission shall exempt such licensee from the financial protection requirement of subsection (a). With respect to licenses issued between August 30, 1954, and December 31, 2025, for which the Commission grants such exemption:
+**(k) Exemption from financial protection requirement for nonprofit educational institutions** With respect to any license issued pursuant to section 2073, 2093, 2111, 2134(a), or 2134(c) of this title, for the conduct of educational activities to a person found by the Commission to be a nonprofit educational institution, the Commission shall exempt such licensee from the financial protection requirement of subsection (a). With respect to licenses issued between August 30, 1954, and December 31, 2065, for which the Commission grants such exemption:
 
 (1) the Commission shall agree to indemnify and hold harmless the licensee and other persons indemnified, as their interests may appear, from public liability in excess of $250,000 arising from nuclear incidents. The aggregate indemnity for all persons indemnified in connection with each nuclear incident shall not exceed $500,000,000, including such legal costs of the licensee as are approved by the Commission;
 
 (2) such contracts of indemnification shall cover public liability arising out of or in connection with the licensed activity; and shall include damage to property of persons indemnified, except property which is located at the site of and used in connection with the activity where the nuclear incident occurs; and
 
 (3) such contracts of indemnification, when entered into with a licensee having immunity from public liability because it is a State agency, shall provide also that the Commission shall make payments under the contract on account of activities of the licensee in the same manner and to the same extent as the Commission would be required to do if the licensee were not such a State agency.
-Any licensee may waive an exemption to which it is entitled under this subsection. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2025, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2025.
+Any licensee may waive an exemption to which it is entitled under this subsection. With respect to any production or utilization facility for which a construction permit is issued between August 30, 1954, and December 31, 2065, the requirements of this subsection shall apply to any license issued for such facility subsequent to December 31, 2065.
 
 **(l) Presidential commission on catastrophic nuclear accidents**
 
-(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with the Federal Advisory Committee Act (5 U.S.C. App.) to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1).
+(1) Not later than 90 days after August 20, 1988, the President shall establish a commission (in this subsection referred to as the “study commission”) in accordance with chapter 10 of title 5 to study means of fully compensating victims of a catastrophic nuclear accident that exceeds the amount of aggregate public liability under subsection (e)(1).
 
 (2)
 
@@ -5676,7 +5971,7 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
 (4)
 
-  (A) The chairperson of the study commission may appoint and fix the compensation of a staff of such persons as may be necessary to discharge the responsibilities of the study commission, subject to the applicable provisions of the Federal Advisory Committee Act (5 U.S.C. App.) and title 5.
+  (A) The chairperson of the study commission may appoint and fix the compensation of a staff of such persons as may be necessary to discharge the responsibilities of the study commission, subject to the applicable provisions of title 5.
 
   (B) To the extent permitted by law and requested by the chairperson of the study commission, the Administrator of General Services shall provide the study commission with necessary administrative services, facilities, and support on a reimbursable basis.
 
@@ -5684,9 +5979,9 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
   (D) The study commission may request any Executive agency to furnish such information, advice, or assistance as it determines to be necessary to carry out its functions. Each such agency is directed, to the extent permitted by law, to furnish such information, advice or assistance upon request by the chairperson of the study commission.
 
-  (E) Each member of the study commission may receive compensation at the maximum rate prescribed by the Federal Advisory Committee Act (5 U.S.C. App.) for each day such member is engaged in the work of the study commission. Each member may also receive travel expenses, including per diem in lieu of subsistence under sections 5702 and 5703 of title 5.
+  (E) Each member of the study commission may receive compensation at the maximum rate prescribed by chapter 10 of title 5 for each day such member is engaged in the work of the study commission. Each member may also receive travel expenses, including per diem in lieu of subsistence under sections 5702 and 5703 of title 5.
 
-  (F) The functions of the President under the Federal Advisory Committee Act (5 U.S.C. App.) that are applicable to the study commission, except the function of reporting annually to the Congress, shall be performed by the Administrator of General Services.
+  (F) The functions of the President under chapter 10 of title 5 that are applicable to the study commission, except the function of reporting annually to the Congress, shall be performed by the Administrator of General Services.
 
 (5) The final report required in paragraph (3) shall be submitted to the Congress not later than the expiration of the 2-year period beginning on August 20, 1988.
 
@@ -5775,7 +6070,7 @@ Any licensee may waive an exemption to which it is entitled under this subsectio
 
       (IV) not attempted to unreasonably delay the prompt settlement or adjudication of such claims.
 
-**(p) Reports to Congress** The Commission and the Secretary shall submit to the Congress by December 31, 2021, detailed reports concerning the need for continuation or modification of the provisions of this section, taking into account the condition of the nuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
+**(p) Reports to Congress** The Commission and the Secretary shall submit to the Congress by December 31, 2061, detailed reports concerning the need for continuation or modification of the provisions of this section, taking into account the condition of the nuclear industry, availability of private insurance, and the state of knowledge concerning nuclear safety at that time, among other relevant factors, and shall include recommendations as to the repeal or modification of any of the provisions of this section.
 
 **(q) Limitation on awarding of precautionary evacuation costs** No court may award costs of a precautionary evacuation unless such costs constitute a public liability.
 
@@ -5806,14 +6101,26 @@ This chapter, referred to in subsecs. (b)(1) and (h), was in the original “thi
 
 Public Law 85–804, referred to in subsec. (d)(1)(B)(i)(I), is Pub. L. 85–804, Aug. 28, 1958, 72 Stat. 972, which is classified generally to chapter 29 (§ 1431 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (l)(1), (4)(A), (E), (F), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 The Federal Rules of Civil Procedure, referred to in subsec. (n)(3)(C)(v), (vi), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Codification
 In subsec. (g), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim)), as amended” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2024—Pub. L. 118–47, § 107(a), substituted “December 31, 2065” for “December 31, 2025” wherever appearing.
+
+Subsec. (d)(5). Pub. L. 118–47, § 107(b)(1), substituted “$2,000,000,000” for “$500,000,000”.
+
+Subsec. (e)(4). Pub. L. 118–47, § 107(b)(2), substituted “$2,000,000,000” for “$500,000,000”.
+
+Subsec. (p). Pub. L. 118–47, § 107(c), substituted “December 31, 2061” for “December 31, 2021”.
+
+2022—Subsec. (l)(1). Pub. L. 117–286, § 4(a)(260)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
+Subsec. (l)(4)(A). Pub. L. 117–286, § 4(a)(260)(B)(i), substituted “title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.) and title 5.”
+
+Subsec. (l)(4)(E), (F). Pub. L. 117–286, § 4(a)(260)(B)(ii), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
 2005—Subsec. (b)(1). Pub. L. 109–58, § 603(1), substituted “$95,800,000” for “$63,000,000” and “$15,000,000 in any 1 year (subject to adjustment for inflation under subsection (t))” for “$10,000,000 in any 1 year” in second proviso of third sentence.
 
 Subsec. (b)(5). Pub. L. 109–58, § 608, added par. (5).
@@ -6020,7 +6327,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Termination of Advisory Commissions
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 #### Findings
 Pub. L. 106–245, § 2, July 10, 2000, 114 Stat. 501, provided that: “Congress finds that— “(1) the Radiation Exposure Compensation Act [Pub. L. 101–426] ([42 U.S.C. 2210](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) note) recognized the responsibility of the Federal Government to compensate individuals who were harmed by the mining of radioactive materials or fallout from nuclear arms testing; “(2) a congressional oversight hearing conducted by the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate demonstrated that since enactment of the Radiation Exposure Compensation Act ([42 U.S.C. 2210](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) note), regulatory burdens have made it too difficult for some deserving individuals to be fairly and efficiently compensated; “(3) reports of the Atomic Energy Commission and the National Institute for Occupational Safety and Health testify to the need to extend eligibility to States in which the Federal Government sponsored uranium mining and milling from 1941 through 1971; “(4) scientific data resulting from the enactment of the Radiation[–]Exposed Veterans Compensation Act of 1988 ([38 U.S.C. 101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101&num=0&edition=prelim) note) [Pub. L. 100–321, see Tables for classification], and obtained from the Committee on the Biological Effects of Ionizing Radiations, and the President’s Advisory Committee on Human Radiation Experiments provide medical validation for the extension of compensable radiogenic pathologies; “(5) above-ground uranium miners, millers and individuals who transported ore should be fairly compensated, in a manner similar to that provided for underground uranium miners, in cases in which those individuals suffered disease or resultant death, associated with radiation exposure, due to the failure of the Federal Government to warn and otherwise help protect citizens from the health hazards addressed by the Radiation Exposure Compensation Act of 1990 ([42 U.S.C. 2210](./chapter-023-development-and-control-of-atomic-energy.md#section-2210) note); and “(6) it should be the responsibility of the Federal Government in partnership with State and local governments and appropriate healthcare organizations, to initiate and support programs designed for the early detection, prevention and education on radiogenic diseases in approved States to aid the thousands of individuals adversely affected by the mining of uranium and the testing of nuclear weapons for the Nation’s weapons arsenal.”
@@ -6038,10 +6345,10 @@ Pub. L. 101–426, Oct. 15, 1990, 104 Stat. 920, as amended by Pub. L. 101–510
 Pub. L. 100–408, § 19, Aug. 20, 1988, 102 Stat. 1083, provided that: “(a) Rulemaking Proceeding.—“(1) Purpose.—The Nuclear Regulatory Commission (hereafter in this section referred to as the ‘Commission’) shall initiate a proceeding, in accordance with the requirements of this section, to determine whether to enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 ([42 U.S.C. 2210](./chapter-023-development-and-control-of-atomic-energy.md#section-2210)) with persons licensed by the Commission under section 81, 104(a), or 104(c) of the Atomic Energy Act of 1954 ([42 U.S.C. 2111](./chapter-023-development-and-control-of-atomic-energy.md#section-2111), 2134(a), and 2134(c)) or by a State under section 274(b) of the Atomic Energy Act of 1954 ([42 U.S.C. 2021(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021/b&num=0&edition=prelim)) for the manufacture, production, possession, or use of radioisotopes or radiopharmaceuticals for medical purposes (hereafter in this section referred to as ‘radiopharmaceutical licensees’). “(2) Final determination.—A final determination with respect to whether radiopharmaceutical licensees, or any class of such licensees, shall be indemnified pursuant to section 170 of the Atomic Energy Act of 1954 ([42 U.S.C. 2210](./chapter-023-development-and-control-of-atomic-energy.md#section-2210)) and if so, the terms and conditions of such indemnification, shall be rendered by the Commission within 18 months of the date of the enactment of this Act [Aug. 20, 1988]. “(b) Negotiated Rulemaking.—“(1) Administrative conference guidelines.—For the purpose of making the determination required under subsection (a), the Commission shall, to the extent consistent with the provisions of this Act [see Short Title of 1988 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011)], conduct a negotiated rulemaking in accordance with the guidance provided by the Administrative Conference of the United States in Recommendation 82–4, ‘Procedures for Negotiating Proposed Regulations’ (42 Fed. Reg. 30708, July 15, 1982). “(2) Designation of convener.—Within 30 days of the date of the enactment of this Act [Aug. 20, 1988], the Commission shall designate an individual or individuals recommended by the Administrative Conference of the United States to serve as a convener for such negotiations. “(3) Submission of recommendations of the convener.—The convener shall, not later than 7 months after the date of the enactment of this Act, submit to the Commission recommendations for a proposed rule regarding whether the Commission should enter into indemnity agreements under section 170 of the Atomic Energy Act of 1954 ([42 U.S.C. 2210](./chapter-023-development-and-control-of-atomic-energy.md#section-2210)) with radiopharmaceutical licensees and, if so, the terms and conditions of such indemnification. If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the proposed rule submitted by the convener shall set forth the procedures for the execution of indemnification agreements with radiopharmaceutical licensees. “(4) Publication of recommendations and proposed rule.—If the convener recommends that such indemnity be provided for radiopharmaceutical licensees, the Commission shall publish the recommendations of the convener submitted under paragraph (3) as a notice of proposed rulemaking within 30 days of the submission of such recommendations under such paragraph. “(5) Administrative procedures.—To the extent consistent with the provisions of this Act, the Commission shall conduct the proceeding required under subsection (a) in accordance with [section 553 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section553&num=0&edition=prelim), United States Code.”
 
 #### Executive Order No. 12658
-Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 12665, Jan. 12, 1989, 54 F.R. 1919, which established President’s Commission on Catastrophic Nuclear Accidents, was revoked by Ex. Ord. No. 12774, § 3(c), Sept. 27, 1991, 56 F.R. 49836, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12658, Nov. 18, 1988, 53 F.R. 47517, as amended by Ex. Ord. No. 12665, Jan. 12, 1989, 54 F.R. 1919, which established President’s Commission on Catastrophic Nuclear Accidents, was revoked by Ex. Ord. No. 12774, § 3(c), Sept. 27, 1991, 56 F.R. 49836, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 #### Executive Order No. 12891
-Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory Committee on Human Radiation Experiments, was revoked by Ex. Ord. No. 13062, § 3(a), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Ex. Ord. No. 12891, Jan. 15, 1994, 59 F.R. 2935, which established the Advisory Committee on Human Radiation Experiments, was revoked by Ex. Ord. No. 13062, § 3(a), Sept. 29, 1997, 62 F.R. 51756, formerly set out as a note under [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2210a"></a>
@@ -6483,9 +6790,7 @@ Pub. L. 115–439, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5568, provided t
 
   (A) 30 percent for each of fiscal years 2021 and 2022.
 
-  (B) 29 percent for each of fiscal years 2023 and 2024.
-
-  (C) 28 percent for fiscal year 2025 and each fiscal year thereafter.
+  (B) 30 percent for fiscal year 2025 and each fiscal year thereafter.
 
 **(b) Fees and charges**
 
@@ -6569,7 +6874,13 @@ Pub. L. 115–439, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5568, provided t
 
 (2) **Delays in issuance of final safety evaluation** — The Executive Director for Operations of the Commission shall inform the Commission of a delay in issuance of the final safety evaluation for a requested activity of the Commission by the completion date required by the performance metrics or milestone schedule under paragraph (1) by not later than 30 days after the completion date.
 
-(3) **Delays in issuance of final safety evaluation exceeding 180 days** — If the final safety evaluation for the requested activity of the Commission described in paragraph (2) is not completed by the date that is 180 days after the completion date required by the performance metrics or milestone schedule under paragraph (1), the Commission shall submit to the appropriate congressional committees a timely report describing the delay, including a detailed explanation accounting for the delay and a plan for timely completion of the final safety evaluation.
+(3) **Delays in issuance of final safety evaluation exceeding 90 days** — If the final safety evaluation for the requested activity of the Commission described in paragraph (2) is not completed by the date that is 90 days after the completion date required by the performance metrics or milestone schedule under paragraph (1), the Commission shall submit to the appropriate congressional committees a timely report describing the delay, including a detailed explanation accounting for the delay and a plan for timely completion of the final safety evaluation.
+
+(4) **Periodic updates to metrics and schedules**
+
+  (A) *Review and assessment* — Not less frequently than once every 3 years, the Commission shall review and assess, based on the licensing and regulatory activities of the Commission, the performance metrics and milestone schedules established under paragraph (1).
+
+  (B) *Revisions* — After each review and assessment under subparagraph (A), the Commission shall revise and improve, as appropriate, the performance metrics and milestone schedules described in that subparagraph to provide the most efficient metrics and schedules reasonably achievable.
 
 **(d) Accurate invoicing** With respect to invoices for fees described in subsection (b)(2), the Commission shall—
 
@@ -6585,6 +6896,59 @@ Pub. L. 115–439, title I, § 101(b), Jan. 14, 2019, 132 Stat. 5568, provided t
 
 ### Statutory Notes
 
+#### Amendment of Section
+Pub. L. 118–67, div. B, title I, § 101(c), July 9, 2024, 138 Stat. 1450, provided that, effective Oct. 1, 2025, this section is amended as follows:
+
+(1) in subsection (a), by adding at the end the following:
+
+“(4) International nuclear export and innovation activities
+
+“The Commission shall identify in the annual budget justification international nuclear export and innovation activities described in [section 2155b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2155b/a&num=0&edition=prelim).”; and
+
+(2) in subsection (b)(1)(B), by adding at the end the following:
+
+“(iv) Costs for international nuclear export and innovation activities described in [section 2155b(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2155b/a&num=0&edition=prelim).”
+
+See 2024 Amendment notes below.
+
+Pub. L. 118–67, div. B, title II, § 201(b)–(e), July 9, 2024, 138 Stat. 1456, 1457, provided that, effective Oct. 1, 2025, this section is amended as follows:
+
+(1) in subsection (b)—
+
+(A) in paragraph (1)(B), by adding at the end the following:
+
+“(v) The total costs of mission-indirect program support and agency support that, under paragraph (2)(B), may not be included in the hourly rate charged for fees assessed and collected from advanced nuclear reactor applicants.
+
+“(vi) The total costs of mission-indirect program support and agency support that, under paragraph (2)(C), may not be included in the hourly rate charged for fees assessed and collected from advanced nuclear reactor pre-applicants.”; and
+
+(B) by striking paragraph (2) and inserting the following:
+
+“(2) Fees for service or thing of value
+
+“(A) In general
+
+“In accordance with [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), the Commission shall assess and collect fees from any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.
+
+“(B) Advanced nuclear reactor applicants
+
+“The hourly rate charged for fees assessed and collected from an advanced nuclear reactor applicant under this paragraph relating to the review of a submitted application described in section 3(1) may not exceed the hourly rate for mission-direct program salaries and benefits.
+
+“(C) Advanced nuclear reactor pre-applicants
+
+“The hourly rate charged for fees assessed and collected from an advanced nuclear reactor pre-applicant under this paragraph relating to the review of submitted materials as described in the licensing project plan of an advanced nuclear reactor pre-applicant may not exceed the hourly rate for mission-direct program salaries and benefits.”; and
+
+(2) by adding at the end the following:
+
+“(g) Cessation of effectiveness
+
+“Paragraphs (1)(B)(vi) and (2)(C) of subsection (b) shall cease to be effective on September 30, 2030.”
+
+See 2024 Amendment notes below.
+
+Pub. L. 118–67, div. B, title II, § 204, July 9, 2024, 138 Stat. 1460, provided that, effective Oct. 1, 2025, subsection (b)(1)(B) of this section is amended by adding at the end the following: “(vii) Costs for—“(I) activities to review and approve or disapprove an application for an early site permit (as defined in section 52.1 of title 10, Code of Federal Regulations (or any successor regulation)) to demonstrate an advanced nuclear reactor on a Department of Energy site or critical national security infrastructure (as defined in section 327(d) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1722)) site; and “(II) pre-application activities relating to an early site permit (as defined in section 52.1 of title 10, Code of Federal Regulations (or any successor regulation)) to demonstrate an advanced nuclear reactor on a Department of Energy site or critical national security infrastructure (as defined in section 327(d) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Public Law 115–232; 132 Stat. 1722)) site.”
+
+See 2024 amendment note below.
+
 #### References in Text
 Section 3116 of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005, referred to in subsec. (b)(1)(B)(ii)(II), is section 3116 of Pub. L. 108–375, which is set out as a note under [section 2602 of Title 50](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section2602&num=0&edition=prelim), War and National Defense.
 
@@ -6593,13 +6957,155 @@ Section 103, referred to in subsec. (b)(1)(B)(iii), is section 103 of Pub. L. 11
 #### Codification
 Section was enacted as part of the Nuclear Energy Innovation and Modernization Act, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
+#### Amendments
+2024—Subsec. (a)(3)(B), (C). Pub. L. 118–67, § 503(b), added subpar. (B) and struck out former subpars. (B) and (C) which read as follows:
+
+“(B) 29 percent for each of fiscal years 2023 and 2024.
+
+“(C) 28 percent for fiscal year 2025 and each fiscal year thereafter.”
+
+Subsec. (a)(4). Pub. L. 118–67, § 101(c)(1)(A), added par. (4).
+
+Subsec. (b)(1)(B)(iv). Pub. L. 118–67, § 101(c)(1)(B), added cl. (iv).
+
+Subsec. (b)(1)(B)(v), (vi). Pub. L. 118–67, § 201(b), added cls. (v) and (vi).
+
+Subsec. (b)(1)(B)(vii). Pub. L. 118–67, § 204(a), added cl. (vii).
+
+Subsec. (b)(2). Pub. L. 118–67, § 201(c), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “In accordance with [section 9701 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section9701&num=0&edition=prelim), the Commission shall assess and collect fees from any person who receives a service or thing of value from the Commission to cover the costs to the Commission of providing the service or thing of value.”
+
+Subsec. (c)(3). Pub. L. 118–67, § 504(1), substituted “90” for “180” in heading and text.
+
+Subsec. (c)(4). Pub. L. 118–67, § 504(2), added par. (4).
+
+Subsec. (g). Pub. L. 118–67, § 201(d), added subsec. (g).
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–67, div. B, title I, § 101(c)(2), July 9, 2024, 138 Stat. 1451, provided that: “The amendments made by paragraph (1) [amending this section] shall take effect on October 1, 2025.”
+
+Pub. L. 118–67, div. B, title II, § 201(e), July 9, 2024, 138 Stat. 1457, provided that: “The amendments made by this section [amending this section and provisions set out as a note below] shall take effect on October 1, 2025.”
+
+Pub. L. 118–67, div. B, title II, § 204(b), July 9, 2024, 138 Stat. 1460, provided that: “The amendment made by subsection (a) [amending this section] shall take effect on October 1, 2025.”
+
 #### Purpose
 Pub. L. 115–439, § 2, Jan. 14, 2019, 132 Stat. 5565, provided that: “The purpose of this Act [see Short Title of 2019 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011)] is to provide— “(1) a program to develop the expertise and regulatory processes necessary to allow innovation and the commercialization of advanced nuclear reactors; “(2) a revised fee recovery structure to ensure the availability of resources to meet industry needs without burdening existing licensees unfairly for inaccurate workload projections or premature existing reactor closures; and “(3) more efficient regulation of uranium recovery.”
 
 [For definition of “advanced nuclear reactors” as used in section 2 of Pub. L. 115–439, set out above, see section 3 of Pub. L. 115–439, set out below.]
 
 #### Definitions
-Pub. L. 115–439, § 3, Jan. 14, 2019, 132 Stat. 5565, provided that: “In this Act [see Short Title of 2019 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011)]: “(1) Advanced nuclear reactor.—The term ‘advanced nuclear reactor’ means a nuclear fission or fusion reactor, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act [Jan. 14, 2019])), with significant improvements compared to commercial nuclear reactors under construction as of the date of enactment of this Act, including improvements such as—“(A) additional inherent safety features; “(B) significantly lower levelized cost of electricity; “(C) lower waste yields; “(D) greater fuel utilization; “(E) enhanced reliability; “(F) increased proliferation resistance; “(G) increased thermal efficiency; or “(H) ability to integrate into electric and nonelectric applications. “(2) Advanced nuclear reactor fuel.—The term ‘advanced nuclear reactor fuel’ means fuel for use in an advanced nuclear reactor or a research and test reactor, including fuel with a low uranium enrichment level of not greater than 20 percent. “(3) Agreement state.—The term ‘Agreement State’ means any State with which the Commission has entered into an effective agreement under section 274 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2021(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021/b&num=0&edition=prelim)). “(4) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives. “(5) Commission.—The term ‘Commission’ means the Nuclear Regulatory Commission. “(6) Conceptual design assessment.—The term ‘conceptual design assessment’ means an early-stage review by the Commission that—“(A) assesses preliminary design information for consistency with applicable regulatory requirements of the Commission; “(B) is performed on a set of topic areas agreed to in the licensing project plan; and “(C) is performed at a cost and schedule agreed to in the licensing project plan. “(7) Corporate support costs.—The term ‘corporate support costs’ means expenditures for acquisitions, administrative services, financial management, human resource management, information management, information technology, policy support, outreach, and training, as those categories are described and calculated in Appendix A of the Congressional Budget Justification for Fiscal Year 2018 of the Commission. “(8) Licensing project plan.—The term ‘licensing project plan’ means a plan that describes—“(A) the interactions between an applicant and the Commission; and “(B) project schedules and deliverables in specific detail to support long-range resource planning undertaken by the Commission and an applicant. “(9) Regulatory framework.—The term ‘regulatory framework’ means the framework for reviewing requests for certifications, permits, approvals, and licenses for nuclear reactors. “(10) Requested activity of the commission.—The term ‘requested activity of the Commission’ means—“(A) the processing of applications for—“(i) design certifications or approvals; “(ii) licenses; “(iii) permits; “(iv) license amendments; “(v) license renewals; “(vi) certificates of compliance; and “(vii) power uprates; and “(B) any other activity requested by a licensee or applicant. “(11) Research and test reactor.—“(A) In general.—The term ‘research and test reactor’ means a reactor that—“(i) falls within the licensing and related regulatory authority of the Commission under section 202 of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842](./chapter-073-development-of-energy-sources.md#section-5842)); and “(ii) is useful in the conduct of research and development activities as licensed under section 104 c. of the Atomic Energy Act [of 1954] ([42 U.S.C. 2134(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/c&num=0&edition=prelim)). “(B) Exclusion.—The term ‘research and test reactor’ does not include a commercial nuclear reactor. “(12) Secretary.—The term ‘Secretary’ means the Secretary of Energy. “(13) Standard design approval.—The term ‘standard design approval’ means the approval of a final standard design or a major portion of a final design standard as described in subpart E of part 52 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act). “(14) Technology-inclusive regulatory framework.—The term ‘technology-inclusive regulatory framework’ means a regulatory framework developed using methods of evaluation that are flexible and practicable for application to a variety of reactor technologies, including, where appropriate, the use of risk-informed and performance-based techniques and other tools and methods. “(15) Topical report.—The term ‘topical report’ means a document submitted to the Commission that addresses a technical topic related to nuclear reactor safety or design.”
+Pub. L. 115–439, § 3, Jan. 14, 2019, 132 Stat. 5565, as amended by Pub. L. 118–67, div. B, title II, §§ 201(a), 205(b)(2), title V, § 503(c), July 9, 2024, 138 Stat. 1455, 1461, 1476, provided that: “In this Act [see Short Title of 2019 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011)]: “(1) Advanced nuclear reactor.—The term ‘advanced nuclear reactor’ means a nuclear fission or fusion reactor, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act [Jan. 14, 2019])), with significant improvements compared to commercial nuclear reactors under construction as of the date of enactment of this Act, including improvements such as—“(A) additional inherent safety features; “(B) significantly lower levelized cost of electricity; “(C) lower waste yields; “(D) greater fuel utilization; “(E) enhanced reliability; “(F) increased proliferation resistance; “(G) increased thermal efficiency; or “(H) ability to integrate into electric and nonelectric applications. “(2) Advanced nuclear reactor fuel.—The term ‘advanced nuclear reactor fuel’ means fuel for use in an advanced nuclear reactor or a research and test reactor, including fuel with a low uranium enrichment level of not greater than 20 percent. “(3) Agreement state.—The term ‘Agreement State’ means any State with which the Commission has entered into an effective agreement under section 274 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2021(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021/b&num=0&edition=prelim)). “(4) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives. “(5) Commission.—The term ‘Commission’ means the Nuclear Regulatory Commission. “(6) Conceptual design assessment.—The term ‘conceptual design assessment’ means an early-stage review by the Commission that—“(A) assesses preliminary design information for consistency with applicable regulatory requirements of the Commission; “(B) is performed on a set of topic areas agreed to in the licensing project plan; and “(C) is performed at a cost and schedule agreed to in the licensing project plan. “(7) Corporate support costs.—The term ‘corporate support costs’ means expenditures for acquisitions, administrative services, financial management, human resource management, information management, information technology, policy support, outreach, and training, as those categories are described and calculated in Appendix A of the Congressional Budget Justification for Fiscal Year 2018 of the Commission. “(8) Licensing project plan.—The term ‘licensing project plan’ means a plan that describes—“(A) the interactions between an applicant and the Commission; and “(B) project schedules and deliverables in specific detail to support long-range resource planning undertaken by the Commission and an applicant. “(9) Regulatory framework.—The term ‘regulatory framework’ means the framework for reviewing requests for certifications, permits, approvals, and licenses for nuclear reactors. “(10) Requested activity of the commission.—The term ‘requested activity of the Commission’ means—“(A) the processing of applications for—“(i) design certifications or approvals; “(ii) licenses; “(iii) permits; “(iv) license amendments; “(v) license renewals; “(vi) certificates of compliance; and “(vii) power uprates; and “(B) any other activity requested by a licensee or applicant. “(11) Research and test reactor.—“(A) In general.—The term ‘research and test reactor’ means a reactor that—“(i) falls within the licensing and related regulatory authority of the Commission under section 202 of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842](./chapter-073-development-of-energy-sources.md#section-5842)); and “(ii) is useful in the conduct of research and development activities as licensed under section 104 c. of the Atomic Energy Act [of 1954] ([42 U.S.C. 2134(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/c&num=0&edition=prelim)). “(B) Exclusion.—The term ‘research and test reactor’ does not include a commercial nuclear reactor. “(12) Secretary.—The term ‘Secretary’ means the Secretary of Energy. “(13) Standard design approval.—The term ‘standard design approval’ means the approval of a final standard design or a major portion of a final design standard as described in subpart E of part 52 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act). “(14) Technology-inclusive regulatory framework.—The term ‘technology-inclusive regulatory framework’ means a regulatory framework developed using methods of evaluation that are flexible and practicable for application to a variety of reactor technologies, including, where appropriate, the use of risk-informed and performance-based techniques and other tools and methods. “(15) Topical report.—The term ‘topical report’ means a document submitted to the Commission that addresses a technical topic related to nuclear reactor safety or design.”
+
+[Pub. L. 118–67, div. B, title II, §§ 201(a), (e), 205(b)(2), title V, § 503(c), July 9, 2024, 138 Stat. 1455, 1457, 1461, 1476, made various amendments to section 3 of Pub. L. 115–439, set out above, effective on Oct. 1, 2025. After such effective date, section 3 of Pub. L. 115–439 will read as follows:
+
+[“In this Act [see Short Title of 2019 Amendment note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011)]:
+
+[“(1) Advanced nuclear reactor.—The term ‘advanced nuclear reactor’ means a nuclear fission reactor or fusion machine, including a prototype plant (as defined in sections 50.2 and 52.1 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act [Jan. 14, 2019])), with significant improvements compared to commercial nuclear reactors under construction as of the date of enactment of this Act, including improvements such as—
+
+[“(A) additional inherent safety features;
+
+[“(B) significantly lower levelized cost of electricity;
+
+[“(C) lower waste yields;
+
+[“(D) greater fuel utilization;
+
+[“(E) enhanced reliability;
+
+[“(F) increased proliferation resistance;
+
+[“(G) increased thermal efficiency; or
+
+[“(H) ability to integrate into electric and nonelectric applications.
+
+[“(2) Advanced nuclear reactor applicant.—The term ‘advanced nuclear reactor applicant’ means an entity that has submitted to the Commission an application for a license for an advanced nuclear reactor under the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.).
+
+[“(3) Advanced nuclear reactor fuel.—The term ‘advanced nuclear reactor fuel’ means fuel for use in an advanced nuclear reactor or a research and test reactor, including fuel with a low uranium enrichment level of not greater than 20 percent.
+
+[“(4) Advanced nuclear reactor pre-applicant.—The term ‘advanced nuclear reactor pre-applicant’ means an entity that has submitted to the Commission a licensing project plan for the purposes of submitting a future application for a license for an advanced nuclear reactor under the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.).
+
+[“(5) Agency support.—The term ‘agency support’ has the meaning given the term ‘agency support (corporate support and the IG)’ in section 170.3 of title 10, Code of Federal Regulations (or any successor regulation).
+
+[“(6) Agreement state.—The term ‘Agreement State’ means any State with which the Commission has entered into an effective agreement under section 274 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2021(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2021/b&num=0&edition=prelim)).
+
+[“(7) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Environment and Public Works of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+
+[“(8) Commission.—The term ‘Commission’ means the Nuclear Regulatory Commission.
+
+[“(9) Conceptual design assessment.—The term ‘conceptual design assessment’ means an early-stage review by the Commission that—
+
+[“(A) assesses preliminary design information for consistency with applicable regulatory requirements of the Commission;
+
+[“(B) is performed on a set of topic areas agreed to in the licensing project plan; and
+
+[“(C) is performed at a cost and schedule agreed to in the licensing project plan.
+
+[“(10) Corporate support costs.—
+
+[“(A) In general.—The term ‘corporate support costs’ means expenditures for acquisitions, administrative services, financial management, human resource management, information management, information technology, policy support, outreach, and training, as those categories are described and calculated in Appendix A of the Congressional Budget Justification for Fiscal Year 2018 of the Commission.
+
+[“(B) Exclusions.—The term ‘corporate support costs’ does not include—
+
+[“(i) costs for rent and utilities relating to any and all space in the Three White Flint North building that is not occupied by the Commission; or
+
+[“(ii) costs for salaries, travel, and other support for the Office of the Commission.
+
+[“(11) Fusion machine.—The term ‘fusion machine’ has the meaning given the term in section 11 of the Atomic Energy Act of 1954 ([42 U.S.C. 2014](./chapter-023-development-and-control-of-atomic-energy.md#section-2014)).
+
+[“(12) Hourly rate for mission-direct program salaries and benefits.—The term ‘hourly rate for mission-direct program salaries and benefits’ means the quotient obtained by dividing—
+
+[“(A) the full-time equivalent rate (within the meaning of the document of the Commission entitled ‘FY 2023 Final Fee Rule Work Papers’ (or a successor document)) for mission-direct program salaries and benefits for a fiscal year; by
+
+[“(B) the productive hours assumption for that fiscal year, determined in accordance with the formula established in the document referred to in subparagraph (A) (or a successor document).
+
+[“(13) Licensing project plan.—The term ‘licensing project plan’ means a plan that describes—
+
+[“(A) the interactions between an applicant and the Commission; and
+
+[“(B) project schedules and deliverables in specific detail to support long-range resource planning undertaken by the Commission and an applicant.
+
+[“(14) Mission-direct program salaries and benefits.—The term ‘mission-direct program salaries and benefits’ means the resources of the Commission that are allocated to the Nuclear Reactor Safety Program (as determined by the Commission) to perform core work activities committed to fulfilling the mission of the Commission, as described in the document of the Commission entitled ‘FY 2023 Final Fee Rule Work Papers’ (or a successor document).
+
+[“(15) Mission-indirect program support.—The term ‘mission-indirect program support’ has the meaning given the term in section 170.3 of title 10, Code of Federal Regulations (or any successor regulation).
+
+[“(16) Regulatory framework.—The term ‘regulatory framework’ means the framework for reviewing requests for certifications, permits, approvals, and licenses for nuclear reactors.
+
+[“(17) Requested activity of the commission.—The term ‘requested activity of the Commission’ means—
+
+[“(A) the processing of applications for—
+
+[“(i) design certifications or approvals;
+
+[“(ii) licenses;
+
+[“(iii) permits;
+
+[“(iv) license amendments;
+
+[“(v) license renewals;
+
+[“(vi) certificates of compliance; and
+
+[“(vii) power uprates; and
+
+[“(B) any other activity requested by a licensee or applicant.
+
+[“(18) Research and test reactor.—
+
+[“(A) In general.—The term ‘research and test reactor’ means a reactor that—
+
+[“(i) falls within the licensing and related regulatory authority of the Commission under section 202 of the Energy Reorganization Act of 1974 ([42 U.S.C. 5842](./chapter-073-development-of-energy-sources.md#section-5842)); and
+
+[“(ii) is useful in the conduct of research and development activities as licensed under section 104 c. of the Atomic Energy Act [of 1954] ([42 U.S.C. 2134(c)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2134/c&num=0&edition=prelim)).
+
+[“(B) Exclusion.—The term ‘research and test reactor’ does not include a commercial nuclear reactor.
+
+[“(19) Secretary.—The term ‘Secretary’ means the Secretary of Energy.
+
+[“(20) Standard design approval.—The term ‘standard design approval’ means the approval of a final standard design or a major portion of a final design standard as described in subpart E of part 52 of title 10, Code of Federal Regulations (as in effect on the date of enactment of this Act).
+
+[“(21) Technology-inclusive regulatory framework.—The term ‘technology-inclusive regulatory framework’ means a regulatory framework developed using methods of evaluation that are flexible and practicable for application to a variety of reactor technologies, including, where appropriate, the use of risk-informed and performance-based techniques and other tools and methods.
+
+[“(22) Topical report.—The term ‘topical report’ means a document submitted to the Commission that addresses a technical topic related to nuclear reactor safety or design.”]
 
 
 <a id="section-2221"></a>
@@ -6681,21 +7187,28 @@ Provisions similar to this section were contained in [section 1813(b) of this ti
 
 <a id="section-2231"></a>
 ## § 2231. Applicability of administrative procedure provisions; definitions
+**(a) In general** The provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to all agency action taken under this chapter, and the terms “agency” and “agency action” shall have the meaning specified in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim): Provided, however, That in the case of agency proceedings or actions which involve Restricted Data, defense information, safeguards information protected from disclosure under the authority of [section 2167 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2167) or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168), the Commission shall provide by regulation for such parallel procedures as will effectively safeguard and prevent disclosure of Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168) to unauthorized persons with minimum impairment of the procedural rights which would be available if Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168) were not involved.
 
-The provisions of subchapter II of chapter 5, and chapter 7, of title 5 shall apply to all agency action taken under this chapter, and the terms “agency” and “agency action” shall have the meaning specified in [section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim): Provided, however, That in the case of agency proceedings or actions which involve Restricted Data, defense information, safeguards information protected from disclosure under the authority of [section 2167 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2167) or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168), the Commission shall provide by regulation for such parallel procedures as will effectively safeguard and prevent disclosure of Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168) to unauthorized persons with minimum impairment of the procedural rights which would be available if Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168) were not involved.
+**(b) Efficient licensing reviews** The Commission shall provide for efficient and timely reviews and proceedings for the granting, suspending, revoking, or amending of any—
+
+(1) license or construction permit; or
+
+(2) application to transfer control.
 
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Codification
-“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in text for the first reference to the Administrative Procedure Act on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. “[Section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim)” substituted for the second reference to the Administrative Procedure Act to reflect the codification of the definitions of “agency” and “agency action” in that section. Prior to the enactment of Title 5, the Administrative Procedure Act was classified to sections 1001 to 1011 of Title 5.
+“Subchapter II of chapter 5, and chapter 7, of title 5” substituted in subsec. (a) for the first reference to the Administrative Procedure Act on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees. “[Section 551 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section551&num=0&edition=prelim)” substituted for the second reference to the Administrative Procedure Act to reflect the codification of the definitions of “agency” and “agency action” in that section. Prior to the enactment of Title 5, the Administrative Procedure Act was classified to sections 1001 to 1011 of Title 5.
 
 #### Prior Provisions
-Provisions similar to this section were contained in section 1814(a), (c) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to subsec. (a) of this section were contained in section 1814(a), (c) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
+2024—Pub. L. 118–67 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+
 1981—Pub. L. 97–90, in proviso, substituted “involve Restricted Data, defense information, safeguards information protected from disclosure under the authority of [section 2167 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2167) or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168), the Commission shall provide by regulation for such parallel procedures as will effectively safeguard and prevent disclosure of Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168) to unauthorized persons with minimum impairment of the procedural rights which would be available if Restricted Data, defense information, such safeguards information, or information protected from dissemination under the authority of [section 2168 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2168) were not involved” for “involve Restricted Data, defense information, or safeguards information protected from disclosure under the authority of [section 2167 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2167), the Commission shall provide by regulation for such parallel procedures as will effectively safeguard and prevent disclosure of Restricted Data, defense information, or such safeguards information, to unauthorized persons with minimum impairment of the procedural rights which would be available if Restricted Data, defense information, or such safeguards information, were not involved”.
 
 1980—Pub. L. 96–295 inserted references and made provisions applicable to safeguards information.
@@ -6723,7 +7236,7 @@ Provisions similar to this section were contained in section 1814(a), (c) of thi
 1956—Subsec. (a). Act Aug. 6, 1956, struck out “under oath or affirmation” from last sentence, and inserted two sentences at end requiring applications and statements in connection with sections 2133 and 2134 to be made under oath or affirmation and authorizing Commission to require any other applications or statements to be made under oath or affirmation.
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-2233"></a>
@@ -6768,16 +7281,23 @@ This chapter, referred to in text, was in the original “this Act”, meaning a
 
 **(b)** After holding a public hearing under [section 2239(a)(1)(A) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a/1/A&num=0&edition=prelim), the Commission shall issue to the applicant a combined construction and operating license if the application contains sufficient information to support the issuance of a combined license and the Commission determines that there is reasonable assurance that the facility will be constructed and will operate in conformity with the license, the provisions of this chapter, and the Commission’s rules and regulations. The Commission shall identify within the combined license the inspections, tests, and analyses, including those applicable to emergency planning, that the licensee shall perform, and the acceptance criteria that, if met, are necessary and sufficient to provide reasonable assurance that the facility has been constructed and will be operated in conformity with the license, the provisions of this chapter, and the Commission’s rules and regulations. Following issuance of the combined license, the Commission shall ensure that the prescribed inspections, tests, and analyses are performed and, prior to operation of the facility, shall find that the prescribed acceptance criteria are met. Any finding made under this subsection shall not require a hearing except as provided in [section 2239(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a/1/B&num=0&edition=prelim).
 
+**(c) Application Reviews for Production and Utilization Facilities of an Existing Site.—** In reviewing an application for an early site permit, construction permit, operating license, or combined construction permit and operating license for a production facility or utilization facility located at the site of a production facility or utilization facility licensed by the Commission, the Commission shall, to the extent practicable, use information that was part of the licensing basis of the licensed production facility or utilization facility.
+
 ### Statutory Notes
 
 #### References in Text
-This chapter, referred to in text, was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, § 1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2011 of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) and Tables.
 
 #### Amendments
+2024—Subsec. (c). Pub. L. 118–67 added subsec. (c).
+
 1992—Pub. L. 102–486, § 2801, inserted “and operating licenses” after “permits” in section catchline, designated existing text as subsec. (a), and added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 Pub. L. 102–486, title XXVIII, § 2806, Oct, 24, 1992, 106 Stat. 3121, provided that: “Sections 185 b. and 189 a. (1)(B) of the Atomic Energy Act of 1954 [subsec. (b) of this section and [section 2239(a)(1)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2239/a/1/B&num=0&edition=prelim)], as added by sections 2801 and 2802 of this Act, shall apply to all proceedings involving a combined license for which an application was filed after May 8, 1991, under such sections.”
+
+#### Combined License Review Procedure
+Pub. L. 118–67, div. B, title II, § 207, July 9, 2024, 138 Stat. 1463, provided that: “(a) In General.—In accordance with this section, the [Nuclear Regulatory] Commission shall establish and carry out an expedited procedure for issuing a combined license pursuant to section 185 b. of the Atomic Energy Act of 1954 ([42 U.S.C. 2235(b)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2235/b&num=0&edition=prelim)). “(b) Qualifications.—To qualify for the expedited procedure under subsection (a), an applicant—“(1) shall submit a combined license application for a new nuclear reactor that—“(A) references a design for which the Commission has issued a design certification (as defined in section 52.1 of title 10, Code of Federal Regulations (or any successor regulation)); or “(B) has a design that is substantially similar to a design of a nuclear reactor for which the Commission has issued a combined license, an operating license, or a manufacturing license under the Atomic Energy Act of 1954 ([42 U.S.C. 2011](./chapter-023-development-and-control-of-atomic-energy.md#section-2011) et seq.); “(2) shall propose to construct the new nuclear reactor on a site—“(A) on which a licensed commercial nuclear reactor operates or previously operated; or “(B) that is directly adjacent to a site on which a licensed commercial nuclear reactor operates or previously operated and has site characteristics that are substantially similar to that site; and “(3) may not be subject to an order of the Commission to suspend or revoke a license under section 2.202 of title 10, Code of Federal Regulations (or any successor regulation). “(c) Expedited Procedure.—With respect to a combined license for which the applicant has satisfied the requirements described in subsection (b), the Commission shall, to the maximum extent practicable—“(1) not later than 18 months after the date on which the application is accepted for docketing—“(A) complete the technical review process and issue a safety evaluation report; and “(B) issue a final environmental impact statement or environmental assessment, unless the Commission finds that the proposed agency action is excluded pursuant to a categorical exclusion in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321](./chapter-055-national-environmental-policy.md#section-4321) et seq.); “(2) not later than 2 years after the date on which the application is accepted for docketing, complete any necessary public licensing hearings and related processes; and “(3) not later than 25 months after the date on which the application is accepted for docketing, make a final decision on whether to issue the combined license. “(d) Performance and Reporting.—“(1) Delays in issuance.—Not later than 30 days after the applicable deadline, the Executive Director for Operations of the Commission shall inform the Commission of any failure to meet a deadline under subsection (c). “(2) Delays in issuance exceeding 90 days.—If any deadline under subsection (c) is not met by the date that is 90 days after the applicable date required under that subsection, the Commission shall submit to the appropriate committees of Congress [Committee on Energy and Commerce of the House of Representatives and Committee on Environment and Public Works of the Senate] a report describing the delay, including—“(A) a detailed explanation accounting for the delay; and “(B) a plan for completion of the applicable action.”
 
 #### Executive Order No. 12129
 Ex. Ord. No. 12129, Apr. 5, 1979, 44 F.R. 21001, which established a Critical Energy Facility Program, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
@@ -7613,11 +8133,39 @@ Subsec. (b). Pub. L. 107–56, §§ 810(f)(1), (3), 811(h)(2), struck out “or 
 
   (B) If the President does not submit to the Senate the nomination of an individual to fill a vacancy during the 90-day period described in subclause (II) of subparagraph (A)(ii), the President shall submit to the Committee on Armed Services a report described in that subparagraph not less frequently than every 90 days until the President submits such a nomination.
 
-**(e) Quorum** Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
+**(e) Quorum**
+
+(1) Three members of the Board shall constitute a quorum, but a lesser number may hold hearings.
+
+(2) In accordance with paragraph (4), during a covered period, the Chairperson, in consultation with an eligible member, may carry out the functions and powers of the Board under sections 2286a through 2286e of this title, notwithstanding that a quorum does not exist.
+
+(3) Not later than 30 days after a covered period begins, the Chairperson shall notify the congressional defense committees that a quorum does not exist.
+
+(4) The Chairperson may make recommendations to the Secretary of Energy and initiate investigations into defense nuclear facilities under [section 2286a of this title](./chapter-023-development-and-control-of-atomic-energy.md#section-2286a) pursuant to paragraph (2) only if—
+
+  (A) a period of 30 days elapses following the date on which the Chairperson submits the notification required under paragraph (3);
+
+  (B) not later than 30 days after making any such recommendation or initiating any such investigation, the Chairperson notifies the congressional defense committees of such recommendation or investigation; and
+
+  (C) any eligible member concurs with such recommendation or investigation.
+
+(5) In this subsection:
+
+  (A) The term “congressional defense committees” has the meaning given such term in [section 101(a) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/a&num=0&edition=prelim).
+
+  (B) The term “covered period” means a period beginning on the date on which a quorum specified in paragraph (1) does not exist by reason of either or both a vacancy in the membership of the Board or the incapacity of a member of the Board and ending on the earlier of—
+
+    (i) the date that is one year after such beginning date; or
+
+    (ii) the date on which a quorum exists.
+
+  (C) The term “eligible member” means a member of the Board, other than the Chairperson, serving during a covered period and who is not incapacitated.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (e). Pub. L. 117–263 designated existing provisions as par. (1) and added pars. (2) to (5).
+
 2021—Subsec. (c). Pub. L. 117–81 substituted “Chairperson, Vice Chairperson” for “Chairman, Vice Chairman” in heading and “Chairperson” for “Chairman” wherever appearing.
 
 2019—Subsec. (b)(4). Pub. L. 116–92, § 3203(a), added par. (4).
@@ -8080,31 +8628,30 @@ Section was enacted as part of the Energy and Water Development and Related Agen
 
 <a id="section-2286k"></a>
 ## § 2286k. Inspector General
-**(a) In general** The Inspector General of the Nuclear Regulatory Commission shall serve as the Inspector General of the Board, in accordance with the Inspector General Act of 1978 (5 U.S.C. App.).
+**(a) In general** The Inspector General of the Nuclear Regulatory Commission shall serve as the Inspector General of the Board, in accordance with chapter 4 of title 5.
 
 **(b) Budget** In the budget materials submitted to the President by the Board in connection with the submission to Congress, pursuant to [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), of the budget for each fiscal year, the Board shall ensure that a separate, dedicated procurement line item is designated for the services of an Inspector General under subsection (a).
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–286 substituted “chapter 4 of title 5.” for “the Inspector General Act of 1978 (5 U.S.C. App.).”
+
 2014—Subsec. (a). Pub. L. 113–291 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Not later than October 1, 2013, the Board shall enter into an agreement with an agency of the Federal Government to procure the services of the Inspector General of such agency for the Board, in accordance with the Inspector General Act of 1978 (5 U.S.C. App.). Such Inspector General shall have expertise relating to the mission of the Board.”
 
 
 <a id="section-2286l"></a>
 ## § 2286l. Authority of Inspector General
 
-Notwithstanding any other provision of law, in this fiscal year and each fiscal year thereafter, the Inspector General of the Nuclear Regulatory Commission is authorized to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under the Inspector General Act of 1978 (5 U.S.C. App.) with respect to the Nuclear Regulatory Commission.
+Notwithstanding any other provision of law, in this fiscal year and each fiscal year thereafter, the Inspector General of the Nuclear Regulatory Commission is authorized to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under chapter 4 of title 5 with respect to the Nuclear Regulatory Commission.
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in text, is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+#### Amendments
+2022—Pub. L. 117–286 substituted “chapter 4 of title 5” for “the Inspector General Act of 1978 (5 U.S.C. App.)”.
 
 #### Similar Provisions
 Provisions similar to the text of this section were contained in the following prior appropriation act:
@@ -9067,43 +9614,9 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
     (viii) in calendar year 2021, 596,682 kilograms;
 
-    (ix) in calendar year 2022, 489,617 kilograms;
+    (ix) in calendar year 2022, 489,617 kilograms; and
 
-    (x) in calendar year 2023, 578,877 kilograms;
-
-    (xi) in calendar year 2024, 476,536 kilograms;
-
-    (xii) in calendar year 2025, 470,376 kilograms;
-
-    (xiii) in calendar year 2026, 464,183 kilograms;
-
-    (xiv) in calendar year 2027, 459,083 kilograms;
-
-    (xv) in calendar year 2028, 344,312 kilograms;
-
-    (xvi) in calendar year 2029, 340,114 kilograms;
-
-    (xvii) in calendar year 2030, 332,141 kilograms;
-
-    (xviii) in calendar year 2031, 328,862 kilograms;
-
-    (xix) in calendar year 2032, 322,255 kilograms;
-
-    (xx) in calendar year 2033, 317,536 kilograms;
-
-    (xxi) in calendar year 2034, 298,088 kilograms;
-
-    (xxii) in calendar year 2035, 294,511 kilograms;
-
-    (xxiii) in calendar year 2036, 286,066 kilograms;
-
-    (xxiv) in calendar year 2037, 281,272 kilograms;
-
-    (xxv) in calendar year 2038, 277,124 kilograms;
-
-    (xxvi) in calendar year 2039, 277,124 kilograms; and
-
-    (xxvii) in calendar year 2040, 267,685 kilograms.
+    (x) in calendar year 2023, 578,877 kilograms.
 
   (B) *Administration*
 
@@ -9123,15 +9636,11 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (C) *Additional imports in exchange for a commitment to downblend an additional 300 metric tons of highly enriched uranium*
 
-    (i) *In general* — In addition to the amount authorized to be imported under subparagraph (A) and except as provided in clause (ii), if the Russian Federation enters into a bilateral agreement with the United States under which the Russian Federation agrees to downblend an additional 300 metric tons of highly enriched uranium after the completion of the Russian HEU Agreement, 4 kilograms of low-enriched uranium, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin and including low-enriched uranium obtained under contracts for separative work units, may be imported in a calendar year for every 1 kilogram of Russian highly enriched uranium of weapons origin that was downblended in the preceding calendar year, subject to the verification of the Secretary of Energy under paragraph (10).
+    (i) *In general* — In addition to the amount authorized to be imported under subparagraph (A) and except as provided in clause (ii), if the Russian Federation enters into a bilateral agreement with the United States under which the Russian Federation agrees to downblend an additional 300 metric tons of highly enriched uranium after the completion of the Russian HEU Agreement, 4 kilograms of low-enriched uranium, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin and including low-enriched uranium obtained under contracts for separative work units, may be imported in a calendar year for every 1 kilogram of Russian highly enriched uranium of weapons origin that was downblended in the preceding calendar year, subject to the verification of the Secretary of Energy under paragraph (9).
 
     (ii) *Maximum annual imports* — Not more than 120,000 kilograms of low-enriched uranium may be imported in a calendar year under clause (i).
 
-(3) **Exceptions** — The import limitations described in paragraphs (1) and (2) shall not apply to low-enriched uranium produced in the Russian Federation that is imported into the United States—
-
-  (A) for use in the initial core of a new nuclear reactor; or
-
-  (B) for processing and to be certified for reexportation and not for consumption in the United States.
+(3) **Exceptions** — The import limitations described in paragraphs (1) and (2) shall not apply to low-enriched uranium produced in the Russian Federation that is imported into the United States for processing and to be certified for reexportation and not for consumption in the United States.
 
 (4) **Limited waiver authority**
 
@@ -9149,53 +9658,97 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
   (C) *Termination* — A waiver under subparagraph (A) shall terminate on December 31 of the calendar year with respect to which the Secretary makes the determination under subparagraph (A)(i).
 
-(5) **Adjustments to import limitations**
-
-  (A) *In general* — The import limitations described in paragraph (2)(A) are based on the lower scenario data in the report of the World Nuclear Association entitled “The Nuclear Fuel Report: Global Scenarios for Demand and Supply Availability 2019–2040”. In each of calendar years 2023, 2029, and 2035, the Secretary of Commerce shall review the projected demand for uranium for nuclear reactors in the United States and adjust the import limitations described in paragraph (2)(A) to account for changes in such demand in years after the year in which that report or a subsequent report is published.
-
-  (B) *Report required* — Not later than one year after December 27, 2020, and every 3 years thereafter, the Secretary shall submit to Congress a report that includes—
-
-    (i) a recommendation on the use of all publicly available data to ensure accurate forecasting by scenario data to comport to actual demand for low-enriched uranium for nuclear reactors in the United States; and
-
-    (ii) an identification of the steps to be taken to adjust the import limitations described in paragraph (2)(A) based on the most accurate scenario data.
-
-  (C) *Incentive adjustment* — Beginning in the second calendar year after the calendar year of the completion of the Russian HEU Agreement, the Secretary of Energy shall increase or decrease the amount of low-enriched uranium that may be imported in a calendar year under paragraph (2)(C) (including the amount of low-enriched uranium that may be imported for each kilogram of highly enriched uranium downblended under paragraph (2)(C)(i)) by a percentage equal to the percentage increase or decrease, as the case may be, in the average amount of uranium loaded into nuclear power reactors in the United States in the most recent 3-calendar-year period for which data are available, as reported by the Energy Information Administration of the Department of Energy, compared to the average amount of uranium loaded into such reactors during the 3-calendar-year period beginning on January 1, 2011, as reported by the Energy Information Administration.
-
-  (D) *Publication of adjustments* — As soon as practicable, but not later than July 31 of each calendar year, the Secretary of Energy shall publish in the Federal Register the amount of low-enriched uranium that may be imported in the current calendar year after the adjustments under subparagraph (C).
-
-(6) **Authority for additional adjustment** — In addition to the adjustment under paragraph (5)(A), the Secretary of Commerce may adjust the import limitations under paragraph (2)(A) for a calendar year if the Secretary—
+(5) **Authority for additional adjustment** — The Secretary of Commerce may adjust the import limitations under paragraph (2)(A) for a calendar year if the Secretary—
 
   (A) in consultation with the Secretary of Energy, determines that the available supply of low-enriched uranium and the available stockpiles of uranium of the Department of Energy are insufficient to meet demand in the United States in the following calendar year; and
 
   (B) notifies Congress of the adjustment not less than 45 days before making the adjustment.
 
-(7) **Equivalent quantities of low-enriched uranium imports**
+(6) **Equivalent quantities of low-enriched uranium imports**
 
   (A) *In general* — The import limitations described in paragraphs (1) and (2) are expressed in terms of uranium containing 4.4 percent uranium-235 and a tails assay of 0.3 percent.
 
   (B) *Adjustment for other uranium* — Imports of low-enriched uranium under paragraphs (1) and (2), including low-enriched uranium obtained under contracts for separative work units, shall count against the import limitations described in such paragraphs in amounts calculated as the quantity of low-enriched uranium containing 4.4 percent uranium-235 necessary to equal the total amount of uranium-235 contained in such imports.
 
-(8) **Downblending of other highly enriched uranium**
+(7) **Downblending of other highly enriched uranium**
 
-  (A) *In general* — The downblending of highly enriched uranium not of weapons origin may be counted for purposes of paragraph (2)(C), subject to verification under paragraph (10), if the Secretary of Energy determines that the highly enriched uranium to be downblended poses a risk to the national security of the United States.
+  (A) *In general* — The downblending of highly enriched uranium not of weapons origin may be counted for purposes of paragraph (2)(C), subject to verification under paragraph (9), if the Secretary of Energy determines that the highly enriched uranium to be downblended poses a risk to the national security of the United States.
 
   (B) *Equivalent quantities of highly enriched uranium* — For purposes of determining the additional low-enriched uranium imports allowed under paragraph (2)(C), highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A) shall count as downblended highly enriched uranium of weapons origin in amounts calculated as the quantity of highly enriched uranium containing 90 percent uranium-235 necessary to equal the total amount of uranium-235 contained in the highly enriched uranium not of weapons origin downblended pursuant to subparagraph (A).
 
-(9) **Termination of import restrictions** — The provisions of this subsection shall terminate on December 31, 2040.
+(8) **Termination of import restrictions** — The provisions of this subsection shall terminate on the date described in subsection (d)(1).
 
-(10) **Technical verifications by Secretary of Energy**
+(9) **Technical verifications by Secretary of Energy**
 
-  (A) *In general* — The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(C) and (8).
+  (A) *In general* — The Secretary of Energy shall verify the origin, quantity, and uranium-235 content of the highly enriched uranium downblended for purposes of paragraphs (2)(C) and (7).
 
   (B) *Methods of verification* — In conducting the verification required under subparagraph (A), the Secretary of Energy shall employ the transparency measures and access provisions agreed to under the Russian HEU Agreement for monitoring the downblending of Russian highly enriched uranium of weapons origin and such other methods as the Secretary determines appropriate.
 
-(11) **Enforcement of import limitations** — The Secretary of Commerce shall be responsible for enforcing the import limitations imposed under this subsection and shall enforce such import limitations in a manner that imposes a minimal burden on the commercial nuclear industry.
+(10) **Enforcement of import limitations** — The Secretary of Commerce shall be responsible for enforcing the import limitations imposed under this subsection and shall enforce such import limitations in a manner that imposes a minimal burden on the commercial nuclear industry.
 
-(12) **Effect on other agreements**
+(11) **Effect on other agreements**
 
   (A) *Russian HEU Agreement* — Nothing in this section shall be construed to modify the terms of the Russian HEU Agreement, including the provisions of the Agreement relating to the amount of low-enriched uranium that may be imported into the United States.
 
   (B) *Other agreements* — If a provision of any agreement between the United States and the Russian Federation, other than the Russian HEU Agreement or the Suspension Agreement, relating to the importation of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, into the United States conflicts with a provision of this section, the provision of this section shall supersede the provision of the agreement to the extent of the conflict.
+
+**(d) Prohibition on imports of low-enriched uranium**
+
+(1) **Prohibition** — Beginning on the date that is 90 days after May 13, 2024, and subject to paragraphs (2) and (3), the following may not be imported into the United States:
+
+  (A) Unirradiated low-enriched uranium that is produced in the Russian Federation or by a Russian entity.
+
+  (B) Unirradiated low-enriched uranium that is determined to have been exchanged with, swapped for, or otherwise obtained in lieu of unirradiated low-enriched uranium described in subparagraph (A) in a manner designed to circumvent the restrictions under this section.
+
+(2) **Waiver**
+
+  (A) *In general* — Subject to subparagraphs (B) and (C), the Secretary of Energy, in consultation with the Secretary of State and the Secretary of Commerce, may waive the application of paragraph (1) to authorize the importation of low-enriched uranium described in that paragraph if the Secretary of Energy determines that—
+
+    (i) no alternative viable source of low-enriched uranium is available to sustain the continued operation of a nuclear reactor or a United States nuclear energy company; or
+
+    (ii) importation of low-enriched uranium described in paragraph (1) is in the national interest.
+
+  (B) *Limitation on amounts of imports of low-enriched uranium*
+
+    (i) *In general* — The importation into the United States of low-enriched uranium described in paragraph (1), including low-enriched uranium obtained under contracts for separative work units, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin, may not exceed—
+
+      (I) in calendar year 2024, 476,536 kilograms;
+
+      (II) in calendar year 2025, 470,376 kilograms;
+
+      (III) in calendar year 2026, 464,183 kilograms; and
+
+      (IV) in calendar year 2027, 459,083 kilograms.
+
+    (ii) *Administration* — The Secretary of Commerce shall—
+
+      (I) administer the import limitations described in clause (i) in accordance with the provisions of the Suspension Agreement, including the provisions described in subsection (c)(2)(B)(i);
+
+      (II) be responsible for enforcing the import limitations described in clause (i); and
+
+      (III) enforce the import limitations described in clause (i) in a manner that imposes a minimal burden on the commercial nuclear industry.
+
+  (C) *Termination* — Any waiver issued under subparagraph (A) shall terminate not later than January 1, 2028.
+
+  (D) *Notification to Congress*
+
+    (i) *In general* — Upon issuing a waiver under subparagraph (A), the Secretary of Energy shall submit to the committees specified in clause (ii) a notification that a waiver has been issued, which shall include identification of the recipient of the waiver.
+
+    (ii) *Committees specified* — The committees specified in this clause are—
+
+      (I) the Committee on Energy and Natural Resources and the Committee on Finance of the Senate; and
+
+      (II) the Committee on Energy and Commerce and the Committee on Ways and Means of the House of Representatives.
+
+(3) **Applicability** — This subsection does not apply to imports—
+
+  (A) by or under contract to the Department of Energy for national security or nonproliferation purposes; or
+
+  (B) of non-uranium isotopes.
+
+(4) **Termination** — The provisions of this subsection shall terminate on December 31, 2040.
+
+(5) **Russian entity defined** — In this subsection, the term “Russian entity” means an entity organized under the laws of or otherwise subject to the jurisdiction of the Government of the Russian Federation.
 
 ### Statutory Notes
 
@@ -9203,6 +9756,34 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 Section was enacted as part of the USEC Privatization Act and also as part of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+2024—Subsec. (c)(2)(A)(xi) to (xxvii). Pub. L. 118–62, § 2(b)(1)(A)(i), struck out cls. (xi) to (xxvii) which provided limitations on importation of Russian low-enriched uranium for calendar years 2024 to 2040.
+
+Subsec. (c)(2)(C)(i). Pub. L. 118–62, § 2(b)(1)(A)(ii), substituted “paragraph (9)” for “paragraph (10)”.
+
+Subsec. (c)(3). Pub. L. 118–62, § 2(b)(1)(B), substituted “United States” for “United States—” and struck out subpar. (B) designation before “for processing” and subpar. (A) which read as follows: “for use in the initial core of a new nuclear reactor; or”.
+
+Subsec. (c)(5). Pub. L. 118–62, § 2(b)(1)(E), substituted “The” for “In addition to the adjustment under paragraph (5)(A), the” in introductory provisions.
+
+Pub. L. 118–62, § 2(b)(1)(C), (D), redesignated par. (6) as (5) and struck out former par. (5) which related to adjustments to import limitations.
+
+Subsec. (c)(6). Pub. L. 118–62, § 2(b)(1)(D), redesignated par. (7) as (6). Former par. (6) redesignated (5).
+
+Subsec. (c)(7). Pub. L. 118–62, § 2(b)(1)(D), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+
+Subsec. (c)(7)(A). Pub. L. 118–62, § 2(b)(1)(F), substituted “paragraph (9)” for “paragraph (10)”.
+
+Subsec. (c)(8). Pub. L. 118–62, § 2(b)(1)(G), substituted “the date described in subsection (d)(1)” for “December 31, 2040”.
+
+Pub. L. 118–62, § 2(b)(1)(D), redesignated par. (9) as (8). Former par. (8) redesignated (7).
+
+Subsec. (c)(9). Pub. L. 118–62, § 2(b)(1)(D), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+
+Subsec. (c)(9)(A). Pub. L. 118–62, § 2(b)(1)(H), substituted “paragraphs (2)(C) and (7)” as “paragraphs (2)(C) and (8)”.
+
+Subsec. (c)(10) to (12). Pub. L. 118–62, § 2(b)(1)(D), redesignated pars. (11) and (12) as (10) and (11), respectively. Former par. (10) redesignated (9).
+
+Subsec. (d). Pub. L. 118–62, § 2(a), added subsec. (d).
+
 2020—Subsec. (a)(7), (8). Pub. L. 116–260, § 2007(a)(1), added par. (7) and redesignated former par. (7) as (8).
 
 Subsec. (b). Pub. L. 116–260, § 2007(a)(2), substituted “United States—” and “(1) to support” for “United States to support” and added pars. (2) to (4).
@@ -9222,6 +9803,9 @@ Subsec. (c)(5)(B) to (D). Pub. L. 116–260, § 2007(a)(3)(C)(ii)–(iv), added 
 Subsec. (c)(9). Pub. L. 116–260, § 2007(a)(3)(D), substituted “2040” for “2020”.
 
 Subsec. (c)(12)(B). Pub. L. 116–260, § 2007(a)(3)(E), inserted “or the Suspension Agreement” after “the Russian HEU Agreement”.
+
+#### Effective Date of 2024 Amendment
+Pub. L. 118–62, § 2(b)(2), May 13, 2024, 138 Stat. 1024, provided that: “The amendment to section 3112A(c)(2)(A)(xi) of the USEC Privatization Act ([42 U.S.C. 2297h–10a(c)(2)(A)(xi)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2297h–10a/c/2/A/xi&num=0&edition=prelim)) made by paragraph (1)(A) of this subsection shall take effect on the date that is 90 days after the date of the enactment of this Act [May 13, 2024].”
 
 #### Applicability
 Pub. L. 116–260, div. Z, title II, § 2007(b), Dec. 27, 2020, 134 Stat. 2474, provided that: “The amendments made by subsection (a) [amending this section] apply with respect to uranium imported from the Russian Federation on or after January 1, 2021.”

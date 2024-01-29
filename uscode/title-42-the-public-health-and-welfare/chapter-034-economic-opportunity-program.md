@@ -2205,6 +2205,9 @@ Subsec. (a)(2). Pub. L. 102–375, § 822(21), which directed the substitution o
 
 1987—Subsec. (a)(2). Pub. L. 100–175, § 504(b)(2), which directed that par. (2) be amended by inserting “other Native American Pacific Islanders (including American Samoan Natives),” after “Hawaiian Natives,” was executed by making the insertion after “Native Hawaiians,” to reflect the probable intent of Congress.
 
+#### Change of Name
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Eighteenth Congress, Jan. 9, 2023.
+
 #### Effective Date
 Enactment and amendment by Pub. L. 100–175 effective Oct. 1, 1987, see section 701 of Pub. L. 100–175, set out as an Effective Date of 1987 Amendment note under [section 3001 of this title](./chapter-035-programs-for-older-americans.md#section-3001).
 

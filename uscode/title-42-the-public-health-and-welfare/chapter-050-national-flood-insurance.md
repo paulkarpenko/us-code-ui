@@ -1464,7 +1464,7 @@ Section 100230 of the Biggert-Waters Flood Insurance Reform Act of 2012, referre
 
 <a id="section-4020"></a>
 ## § 4020. Financing
-**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through September 30, 2022, clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
+**(a) Authority to issue notes and other obligations** All authority which was vested in the Housing and Home Finance Administrator by virtue of [section 2414(e) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section2414/e&num=0&edition=prelim) (pertaining to the issue of notes or other obligations to the Secretary of the Treasury), as amended by subsections (a) and (b) of section 1303 of this Act, shall be available to the Administrator for the purpose of carrying out the flood insurance program under this chapter; except that the total amount of notes and obligations which may be issued by the Administrator pursuant to such authority (1) without the approval of the President, may not exceed $500,000,000, and (2) with the approval of the President, may not exceed $1,500,000,000 through the date specified in [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026), and $1,000,000,000 thereafter; except that, through September 30, 2023,11 See Extension of Limitation on Financing Provisions note below. clause (2) of this sentence shall be applied by substituting “$30,425,000,000” for “$1,500,000,000”. The Administrator shall report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate at any time when he requests the approval of the President in accordance with the preceding sentence.
 
 **(b) Deposit of borrowed funds** Any funds borrowed by the Administrator under this authority shall, from time to time, be deposited in the National Flood Insurance Fund established under [section 4017 of this title](./chapter-050-national-flood-insurance.md#section-4017).
 
@@ -1492,7 +1492,9 @@ Section 1303 of this Act, referred to in subsec. (a), means section 1303 of Pub.
 This chapter, referred to in subsec. (a), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
-2022—Subsec. (a). Pub. L. 117–103 substituted “September 30, 2022” for “September 30, 2021”.
+2022—Subsec. (a). Pub. L. 117–328 substituted “September 30, 2023” for “September 30, 2022”.
+
+Pub. L. 117–103 substituted “September 30, 2022” for “September 30, 2021”.
 
 2020—Subsec. (a). Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2019”.
 
@@ -1561,6 +1563,9 @@ Reference to the Director of the Federal Emergency Management Agency in any law,
 
 Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding [section 21 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section21&num=0&edition=prelim), The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. AA, title IX, § 901(c), Dec. 29, 2022, 136 Stat. 5551, provided that: “The amendments made by subsections (a) and (b) [amending this section and [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026)] shall take effect as if enacted on September 30, 2022.”
+
 #### Effective Date of 2020 Amendment
 Pub. L. 116–159, div. A, § 146(c), Oct. 1, 2020, 134 Stat. 718, provided that: “(1) This section [amending this section and [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026)] shall become effective immediately upon enactment of this Act [div. A of Pub. L. 116–159, approved Oct. 1, 2020]. “(2) If this Act is enacted after September 30, 2020, this section shall be applied as if it were in effect on September 30, 2020.”
 
@@ -1594,7 +1599,11 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 Functions of Housing and Home Finance Agency and head thereof transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, § 5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to [section 3534(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3534/a&num=0&edition=prelim). Section 9(c) of such act, set out as a note under [section 3531 of this title](./chapter-044-department-of-housing-and-urban-development.md#section-3531), provides that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency has lapsed.
 
 #### Extension of Limitation on Financing Provisions
-For nonamendatory provisions extending the limitation on financing provisions in subsec. (a) of this section, see Extension of Program notes under [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026).
+Pub. L. 118–47, div. G, title I, § 101(a), Mar. 23, 2024, 138 Stat. 856, provided that: “Section 1309(a) of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim)) shall be applied by substituting ‘September 30, 2024’ for ‘September 30, 2023’.”
+
+[Pub. L. 118–47, div. G, title I, § 101(c), Mar. 23, 2024, 138 Stat. 856, provided that: “This section [enacting section 101(a) of div. G of Pub. L. 118–47, set out above, and section 101(b) of div. G of Pub. L. 118–47, set out as a note under [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026)] shall take effect as if enacted on September 30, 2023.” ]
+
+For nonamendatory provisions extending both the limitation on financing provisions in subsec. (a) of this section and the National Flood Insurance Program generally, see Extension of Program notes under [section 4026 of this title](./chapter-050-national-flood-insurance.md#section-4026).
 
 #### Transfer of Functions
 Functions vested in Secretary of Housing and Urban Development pursuant to this chapter transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, § 202, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out as a note under [section 2201 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2201&num=0&edition=prelim), Commerce and Trade, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, set out as a note under [section 2201 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2201&num=0&edition=prelim).
@@ -2118,13 +2127,13 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Termination of Advisory Committees
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-4029"></a>
 ## § 4029. Expiration of program
 
-No new contract for flood insurance under this chapter shall be entered into after September 30, 2022.
+No new contract for flood insurance under this chapter shall be entered into after September 30, 2023.11 See Extension of Program note below.
 
 ### Statutory Notes
 
@@ -2132,7 +2141,9 @@ No new contract for flood insurance under this chapter shall be entered into aft
 This chapter, referred to in text, was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Amendments
-2022—Pub. L. 117–103 substituted “September 30, 2022” for “September 30, 2021”.
+2022—Pub. L. 117–328 substituted “September 30, 2023” for “September 30, 2022”.
+
+Pub. L. 117–103 substituted “September 30, 2022” for “September 30, 2021”.
 
 2020—Pub. L. 116–159 substituted “September 30, 2021” for “September 30, 2019”.
 
@@ -2238,6 +2249,9 @@ Pub. L. 93–38 substituted “$6,000,000,000” for “$4,000,000,000”.
 
 Pub. L. 93–4 substituted “$4,000,000,000” for “$2,500,000,000”.
 
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective as if enacted on Sept. 30, 2022, see section 901(c) of div. AA of Pub. L. 117–328, set out as a note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016).
+
 #### Effective Date of 2020 Amendment
 Amendment by Pub. L. 116–159 effective immediately upon enactment (Oct. 1, 2020), and applicable as if it were in effect on Sept. 30, 2020, see section 146(c) of Pub. L. 116–159, set out as a note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016).
 
@@ -2265,6 +2279,10 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 Section effective 120 days following Aug. 1, 1968, or such later date prescribed by the Secretary but in no event more than 180 days following Aug. 1, 1968, see section 1377 of Pub. L. 90–448, set out as a note under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001).
 
 #### Extension of Program
+Pub. L. 118–47, div. G, title I, § 101(b), Mar. 23, 2024, 138 Stat. 856, provided that: “Sections [sic] 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4026](./chapter-050-national-flood-insurance.md#section-4026)) shall be applied by substituting ‘September 30, 2024’ for ‘September 30, 2023’.”
+
+[Section 101(b) of div. G of Pub. L. 118–47, set out above, to take effect as if enacted on Sept. 30, 2023, see section 101(c) of div. G of Pub. L. 118–47, set out as an Extension of Limitation on Financing Provisions note under [section 4016 of this title](./chapter-050-national-flood-insurance.md#section-4016).]
+
 Pub. L. 116–94, div. I, title II, § 201, Dec. 20, 2019, 133 Stat. 3019, provided that: “Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) shall be applied by substituting ‘September 30, 2020’ for ‘September 30, 2019’.”
 
 Pub. L. 115–141, div. M, title III, § 301, Mar. 23, 2018, 132 Stat. 1049, provided that: “Sections 1309(a) and 1319 of the National Flood Insurance Act of 1968 ([42 U.S.C. 4016(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4016/a&num=0&edition=prelim) and 4026) shall be applied by substituting ‘July 31, 2018’ for ‘September 30, 2017’.”
@@ -3037,7 +3055,7 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ## § 4101a. Services by insurance industry
 **(a) Contracting for services and facilities** In administering the flood insurance program under this subchapter, the Administrator is authorized to enter into any contracts, agreements, or other appropriate arrangements which may, from time to time, be necessary for the purpose of utilizing, on such terms and conditions as may be agreed upon, the facilities and services of any insurance companies or other insurers, insurance agents and brokers, or insurance adjustment organizations; and such contracts, agreements, or arrangements may include provision for payment of applicable operating costs and allowances for such facilities and services as set forth in the schedules prescribed under [section 4018 of this title](./chapter-050-national-flood-insurance.md#section-4018).
 
-**(b) Certain laws inapplicable to contracting** Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) or any other provision of law requiring competitive bidding and without regard to the provisions of the Federal Advisory Committee Act (5 U.S.C. App.).
+**(b) Certain laws inapplicable to contracting** Any such contracts, agreements, or other arrangements may be entered into without regard to the provisions of [section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim) or any other provision of law requiring competitive bidding and without regard to the provisions of chapter 10 of title 5.
 
 **(c) Hold harmless** The Administrator of the Federal Emergency Management Agency shall hold any agent or broker selling or undertaking to sell flood insurance under this chapter harmless from any judgment for damages against such agent or broker as a result of any court action by a policyholder or applicant arising out of an error or omission on the part of the Federal Emergency Management Agency, and shall provide any such agent or broker with indemnification, including court costs and reasonable attorney fees, arising out of and caused by an error or omission on the part of the Federal Emergency Management Agency and its contractors. The Administrator of the Federal Emergency Management Agency may not hold harmless or indemnify an agent or broker for his or her error or omission.
 
@@ -3048,14 +3066,14 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 This chapter, referred to in subsecs. (c) and (d), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 4001 of this title](./chapter-050-national-flood-insurance.md#section-4001) and Tables.
 
 #### Codification
 In subsec. (b), “[section 6101 of title 41](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section6101&num=0&edition=prelim)” substituted for “section 3709 of the Revised Statutes ([41 U.S.C. 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title41-section5&num=0&edition=prelim))” on authority of Pub. L. 111–350, § 6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
 2014—Subsec. (e). Pub. L. 113–89 added subsec. (e).
 
 2012—Subsecs. (a), (c). Pub. L. 112–141, § 100238(b)(1), substituted “Administrator” for “Director” wherever appearing.

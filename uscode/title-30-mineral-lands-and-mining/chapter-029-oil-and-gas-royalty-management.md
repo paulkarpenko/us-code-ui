@@ -79,6 +79,9 @@ Pub. L. 104–185, § 11, Aug. 13, 1996, 110 Stat. 1717, provided that: “Excep
 #### Effective Date
 Pub. L. 97–451, title III, § 305, Jan. 12, 1983, 96 Stat. 2461, provided that: “The provisions of this Act [enacting this chapter, amending sections 188 and 191 of this title, and enacting provisions set out as notes under this section and sections 1714 and 1752 of this title] shall apply to oil and gas leases issued before, on, or after the date of the enactment of this Act [Jan. 12, 1983], except that in the case of a lease issued before such date, no provision of this Act or any rule or regulation prescribed under this Act shall alter the express and specific provisions of such a lease.”
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–81, § 1, Sept. 20, 2024, 138 Stat. 1520, provided that: “This Act [amending [section 1721 of this title](./chapter-029-oil-and-gas-royalty-management.md#section-1721)] may be cited as the ‘Royalty Resiliency Act’.”
+
 #### Short Title of 1996 Amendment
 Pub. L. 104–185, § 1, Aug. 13, 1996, 110 Stat. 1700, provided that: “This Act [enacting sections 1721a and 1724 to 1726 of this title, amending sections 1702, 1712, 1721, and 1735 of this title, repealing [section 1339 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1339&num=0&edition=prelim), Public Lands, and enacting provisions set out as notes under this section, [section 1732 of this title](./chapter-029-oil-and-gas-royalty-management.md#section-1732), and [section 1339 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1339&num=0&edition=prelim)] may be cited as the ‘Federal Oil and Gas Royalty Simplification and Fairness Act of 1996’.”
 
@@ -478,17 +481,19 @@ Section was enacted as part of the Department of the Interior, Environment, and 
 
 (5) Not later than two years after August 13, 1996, the Secretary shall issue any appropriate demand for all outstanding royalty payment disputes regarding who is required to report and pay royalties on production from units and communitization agreements outstanding on August 13, 1996, and collect royalty amounts owed on such production.
 
-**(j) Production allocation** The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.
+**(j) Production allocation** The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. Until the Secretary issues the determination, the lessee or its designee of a lease in a unit or communitization agreement shall report and pay royalties on oil and gas production for each production month in accordance with the terms of the proposed allocation of production for the unit or communitization agreement. After the Secretary issues the determination, the lessee or its designee shall, as necessary, correct such reports and the amount of royalties paid on oil and gas production under the unit or communitization agreement by not later than the end of the third month following the month in which the lessee or its designee receives the determination from the Secretary. Subject to the full and timely monthly payment of royalties to all parties in accordance with the terms of the proposed allocation of production for the unit or communitization agreement, the Secretary shall waive interest due on obligations subject to the determination until the end of the third month following the month in which the lessee or its designee receives the determination from the Secretary. This subsection shall not apply to unit or communization agreements containing Indian lands.
 
 ### Statutory Notes
 
 #### References in Text
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (e), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, which was classified generally to chapter 16A (§ 751 et seq.) of Title 15, Commerce and Trade, and was omitted from the Code pursuant to [section 760g of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section760g&num=0&edition=prelim), which provided for the expiration of the President’s authority under that chapter on Sept. 30, 1981.
 
 #### Codification
 Section is comprised of section 111 of Pub. L. 97–451. Subsec. (g) of section 111 of Pub. L. 97–451 amended [section 191(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title30-section191/a&num=0&edition=prelim).
 
 #### Amendments
+2024—Subsec. (j). Pub. L. 118–81 amended subsec. (j) generally. Prior to amendment, text read as follows: “The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.”
+
 2015—Subsec. (h). Pub. L. 114–94 redesignated subsec. (j) as (h), struck out “If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment.” after “underpaid amount.”, and struck out former subsec. (h) which related to lessee or designee interest.
 
 Subsec. (i). Pub. L. 114–94, § 32301(1), (2), redesignated subsec. (k) as (i) and struck out former subsec. (i) which related to limitation on interest.
@@ -571,9 +576,9 @@ Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3053, as amended by 
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act, referred to in subsec. (b)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
+The Mineral Leasing Act, referred to in subsec. (b)(2), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (b)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Effective Date
 Section applicable with respect to production of oil and gas after the first day of the month following Aug. 13, 1996, see section 11 of Pub. L. 104–185, set out as an Effective Date of 1996 Amendment note under [section 1701 of this title](./chapter-029-oil-and-gas-royalty-management.md#section-1701).

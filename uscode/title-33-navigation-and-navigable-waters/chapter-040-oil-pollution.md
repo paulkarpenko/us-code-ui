@@ -206,13 +206,13 @@ For the purposes of this Act, the term—
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
-The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-029-deepwater-ports.md#section-1501) and Tables.
+The Deepwater Port Act of 1974, referred to in pars. (6) and (32)(C), (D), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, which is classified generally to chapter 29 (§ 1501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1501 of this title](./chapter-029-deepwater-ports.md#section-1501) and Tables.
 
 Presidential Proclamation Numbered 5030, referred to in par. (8), is Proc. No. 5030, Mar. 10, 1983, 48 F.R. 10605, which is set out as a note under [section 1453 of Title 16](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title16-section1453&num=0&edition=prelim), Conservation.
 
-The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in pars. (16) and (32)(C), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 The Comprehensive Environmental Response, Compensation, and Liability Act, referred to in par. (23), probably means the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§ 9601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 9601 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section9601&num=0&edition=prelim) and Tables.
 
@@ -307,9 +307,9 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
-The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
 
 The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim) and Tables.
 
@@ -437,9 +437,9 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (c)(3), is t
 ### Statutory Notes
 
 #### References in Text
-The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (c)(3), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
 
-This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
 2018—Subsec. (d)(5). Pub. L. 115–232 inserted “section” before “2702(a)”.
@@ -527,9 +527,9 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsec. (b)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
-The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
+The Intervention on the High Seas Act, referred to in subsec. (c)(2)(C), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, which is classified generally to chapter 28 (§ 1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1471 of this title](./chapter-028-pollution-casualties-on-the-high-seas-united-states-intervention.md#section-1471) and Tables.
 
 #### Amendments
 2018—Subsec. (d)(2)(C). Pub. L. 115–232 substituted “under subparagraph (A)” for “under this subparagraph (A)”.
@@ -581,7 +581,11 @@ For delegation of functions of President under subsec. (d) of this section, see 
 
 (3) **Exclusion of periods in interests of justice** — If in any period a claimant is not paid due to reasons beyond the control of the responsible party or because it would not serve the interests of justice, no interest shall accrue under this section during that period.
 
-(4) **Calculation of interest** — The interest paid under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+(4) **Calculation of interest**
+
+  (A) *In general* — The interest paid for claims, other than Federal Government cost recovery claims, under this section shall be calculated at the average of the highest rate for commercial and finance company paper of maturities of 180 days or less obtaining on each of the days included within the period for which interest must be paid to the claimant, as published in the Federal Reserve Bulletin.
+
+  (B) *Federal cost recovery claims* — The interest paid for Federal Government cost recovery claims under this section shall be calculated in accordance with [section 3717 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3717&num=0&edition=prelim).
 
 (5) **Interest not subject to liability limits**
 
@@ -595,6 +599,8 @@ For delegation of functions of President under subsec. (d) of this section, see 
 This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2022—Subsec. (b)(4). Pub. L. 117–263 designated existing provisions as subpar. (A) and inserted heading, substituted “The interest paid for claims, other than Federal Government cost recovery claims,” for “The interest paid”, and added subpar. (B).
+
 1996—Pub. L. 104–324, § 1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
 
 Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
@@ -681,7 +687,7 @@ Subsec. (a). Pub. L. 104–324, § 1142(a)(2), inserted at end “The responsibl
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3), (e), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsecs. (b)(2)–(5), (c)(2)(A), (3)(A), (4)(A), (d)(3), (e), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### NOAA Oil and Hazardous Substance Spill Cost Reimbursement
 Pub. L. 102–567, title II, § 205, Oct. 29, 1992, 106 Stat. 4282, provided that: “(a) Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any other provision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—“(1) shall be deposited into the Fund; “(2) shall be available, without fiscal year limitation and without apportionment, for use in accordance with the law under which the activities are conducted; and “(3) shall not be considered to be an augmentation of appropriations. “(b) Application.—Subsection (a) shall apply to amounts described in subsection (a) that are received—“(1) after the date of the enactment of this Act [Oct. 29, 1992]; or “(2) with respect to the oil spill associated with the grounding of the EXXON VALDEZ. “(c) Definitions.—For purposes of this section—“(1) the term ‘Fund’ means the Damage Assessment and Restoration Revolving Fund of the National Oceanic and Atmospheric Administration referred to in title I of Public Law 101–515 under the heading ‘National Oceanic and Atmospheric Administration’ (104 Stat. 2105) [set out as a note below]; and “(2) the term ‘expenses’ includes incremental and base salaries, ships, aircraft, and associated indirect costs, except the term does not include base salaries and benefits of National Oceanic and Atmospheric Administration Support Coordinators.”
@@ -726,7 +732,7 @@ Functions of President under subsec. (b)(3) and (4) of this section delegated to
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (a)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsec. (a)(1), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (b)(4), is title II of Pub. L. 93–153, Nov. 16, 1973, 87 Stat. 584, which is classified generally to chapter 34 (§ 1651 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim) and Tables.
 
@@ -750,7 +756,7 @@ A person may bring a civil action for contribution against any other person who 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 
 <a id="section-2710"></a>
@@ -764,7 +770,7 @@ This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 48
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 
 <a id="section-2711"></a>
@@ -786,13 +792,13 @@ Functions of President under this section delegated to Administrator of Environm
 
   (A) by Federal authorities; or
 
-  (B) by a Governor or designated State official under subsection (d);
+  (B) by a State, a political subdivision of a State, or an Indian tribe, pursuant to a cost-reimbursable agreement under subsection (d);
 
 (2) the payment of costs incurred by Federal, State, or Indian tribe trustees in carrying out their functions under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706) for assessing natural resource damages and for developing and implementing plans for the restoration, rehabilitation, replacement, or acquisition of the equivalent of damaged resources determined by the President to be consistent with the National Contingency Plan;
 
 (3) the payment of removal costs determined by the President to be consistent with the National Contingency Plan as a result of, and damages resulting from, a discharge, or a substantial threat of a discharge, of oil from a foreign offshore unit;
 
-(4) the payment of claims in accordance with [section 2713 of this title](./chapter-040-oil-pollution.md#section-2713) for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages; and
+(4) the payment of claims in accordance with [section 2713 of this title](./chapter-040-oil-pollution.md#section-2713) for uncompensated removal costs determined by the President to be consistent with the National Contingency Plan or uncompensated damages, including, in the case of a spill of national significance that results in extraordinary Coast Guard claims processing activities, the administrative and personnel costs of the Coast Guard to process such claims (including the costs of commercial claims processing, expert services, training, and technical services), subject to the condition that the Coast Guard shall submit to Congress a report describing each spill of national significance not later than 30 days after the date on which the Coast Guard determines it necessary to process such claims; and
 
 (5) the payment of Federal administrative, operational, and personnel costs and expenses reasonably necessary for and incidental to the implementation, administration, and enforcement of this Act (including, but not limited to, sections 1004(d)(2), 1006(e), 4107, 4110, 4111, 4112, 4117, 5006, 8103, and title VII) and subsections (b), (c), (d), (j), and (l) of [section 1321 of this title](./chapter-026-water-pollution-prevention-and-control.md#section-1321) with respect to prevention, removal, and enforcement related to oil discharges, provided that—
 
@@ -812,33 +818,15 @@ Functions of President under this section delegated to Administrator of Environm
 
 **(c) Obligation of Fund by Federal officials** The President may promulgate regulations designating one or more Federal officials who may obligate money in accordance with subsection (a).
 
-**(d) Access to Fund by State officials**
+**(d) Cost-reimbursable agreement**
 
-(1) **Immediate removal** — In accordance with regulations promulgated under this section, the President, upon the request of the Governor of a State or pursuant to an agreement with a State under paragraph (2), may obligate the Fund for payment in an amount not to exceed $250,000 for removal costs consistent with the National Contingency Plan required for the immediate removal of a discharge, or the mitigation or prevention of a substantial threat of a discharge, of oil.
+(1) **In general** — In carrying out [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim), the President may enter into cost-reimbursable agreements with a State, a political subdivision of a State, or an Indian tribe to obligate the Fund for the payment of removal costs consistent with the National Contingency Plan.
 
-(2) **Agreements**
+(2) **Inapplicability** — Chapter 63 and [section 1535 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1535&num=0&edition=prelim) shall not apply to a cost-reimbursable agreement entered into under this subsection.
 
-  (A) *In general* — The President shall enter into an agreement with the Governor of any interested State to establish procedures under which the Governor or a designated State official may receive payments from the Fund for removal costs pursuant to paragraph (1).
+**(e) Rights of subrogation** Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
 
-  (B) *Terms* — Agreements under this paragraph—
-
-    (i) may include such terms and conditions as may be agreed upon by the President and the Governor of a State;
-
-    (ii) shall provide for political subdivisions of the State to receive payments for reasonable removal costs; and
-
-    (iii) may authorize advance payments from the Fund to facilitate removal efforts.
-
-**(e) Regulations** The President shall—
-
-(1) not later than 6 months after August 18, 1990, publish proposed regulations detailing the manner in which the authority to obligate the Fund and to enter into agreements under this subsection shall be exercised; and
-
-(2) not later than 3 months after the close of the comment period for such proposed regulations, promulgate final regulations for that purpose.
-
-**(f) Rights of subrogation** Payment of any claim or obligation by the Fund under this Act shall be subject to the United States Government acquiring by subrogation all rights of the claimant or State to recover from the responsible party.
-
-**(g) Repealed. Pub. L. 115–282, title VIII, § 816(1), Dec. 4, 2018, 132 Stat. 4305**
-
-**(h) Period of limitations for claims**
+**(f) Period of limitations for claims**
 
 (1) **Removal costs** — No claim may be presented under this subchapter for recovery of removal costs for an incident unless the claim is presented within 6 years after the date of completion of all removal actions for that incident.
 
@@ -850,21 +838,21 @@ Functions of President under this section delegated to Administrator of Environm
 
   (B) against an incompetent person until the earlier of the date on which such incompetent’s incompetency ends or the date on which a legal representative is duly appointed for the incompetent.
 
-**(i) Limitation on payment for same costs** In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a), no other claim may be paid from the Fund for the same removal costs or damages.
+**(g) Limitation on payment for same costs** In any case in which the President has paid an amount from the Fund for any removal costs or damages specified under subsection (a), no other claim may be paid from the Fund for the same removal costs or damages.
 
-**(j) Obligation in accordance with plan**
+**(h) Obligation in accordance with plan**
 
 (1) **In general** — Except as provided in paragraph (2), amounts may be obligated from the Fund for the restoration, rehabilitation, replacement, or acquisition of natural resources only in accordance with a plan adopted under [section 2706(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2706/c&num=0&edition=prelim).
 
 (2) **Exception** — Paragraph (1) shall not apply in a situation requiring action to avoid irreversible loss of natural resources or to prevent or reduce any continuing danger to natural resources or similar need for emergency action.
 
-**(k) Preference for private persons in area affected by discharge**
+**(i) Preference for private persons in area affected by discharge**
 
 (1) **In general** — In the expenditure of Federal funds for removal of oil, including for distribution of supplies, construction, and other reasonable and appropriate activities, under a contract or agreement with a private person, preference shall be given, to the extent feasible and practicable, to private persons residing or doing business primarily in the area affected by the discharge of oil.
 
 (2) **Limitation** — This subsection shall not be considered to restrict the use of Department of Defense resources.
 
-**(l) Reports**
+**(j) Reports**
 
 (1) **In general** — Each year, on the date on which the President submits to Congress a budget under [section 1105 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1105&num=0&edition=prelim), the President, through the Secretary of the Department in which the Coast Guard is operating, shall—
 
@@ -897,9 +885,23 @@ Functions of President under this section delegated to Administrator of Environm
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a)(5) and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim) and enacted provisions formerly set out as a note under [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim). Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under [section 3703 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703&num=0&edition=prelim), Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to [section 2736 of this title](./chapter-040-oil-pollution.md#section-2736). Section 8103 enacted provisions formerly set out as a note under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim), Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsecs. (a)(5) and (e), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. Sections 1004(d)(2) and 1006(e) are classified to sections 2704(d)(2) and 2706(e), respectively, of this title. Section 4107 amended former [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim) and enacted provisions formerly set out as a note under [section 1223 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1223&num=0&edition=prelim). Sections 4110 and 4111 enacted provisions set out as a note and formerly set out as a note under [section 3703 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3703&num=0&edition=prelim), Shipping. Section 4112 is not classified to the Code. Section 4117 enacted provisions set out as a note under section 1295 of the former Appendix to Title 46. Section 5006 is classified to [section 2736 of this title](./chapter-040-oil-pollution.md#section-2736). Section 8103 enacted provisions formerly set out as a note under [section 1651 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1651&num=0&edition=prelim), Public Lands. Title VII is classified to subchapter IV of this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
+2022—Subsec. (a)(1)(B). Pub. L. 117–263, § 11314(1), substituted “by a State, a political subdivision of a State, or an Indian tribe, pursuant to a cost-reimbursable agreement” for “by a Governor or designated State official”.
+
+Subsec. (a)(4). Pub. L. 117–263, § 11310, inserted “, including, in the case of a spill of national significance that results in extraordinary Coast Guard claims processing activities, the administrative and personnel costs of the Coast Guard to process such claims (including the costs of commercial claims processing, expert services, training, and technical services), subject to the condition that the Coast Guard shall submit to Congress a report describing each spill of national significance not later than 30 days after the date on which the Coast Guard determines it necessary to process such claims” after “damages”.
+
+Subsec. (d). Pub. L. 117–263, § 11314(2), added subsec. (d) and struck out former subsec. (d) which related to access to Fund by State officials.
+
+Subsec. (e). Pub. L. 117–263, § 11314(2), (3), redesignated subsec. (f) as (e) and struck out former subsec. (e). Prior to amendment, text of subsec. (e) read as follows: “The President shall—
+
+“(1) not later than 6 months after August 18, 1990, publish proposed regulations detailing the manner in which the authority to obligate the Fund and to enter into agreements under this subsection shall be exercised; and
+
+“(2) not later than 3 months after the close of the comment period for such proposed regulations, promulgate final regulations for that purpose.”
+
+Subsecs. (f) to (l). Pub. L. 117–263, § 11314(3), redesignated subsecs. (h), (i), (j), (k), and (l) as (f), (g), (h), (i), and (j), respectively. Former subsec. (f) redesignated (e).
+
 2021—Subsec. (a)(5)(A). Pub. L. 116–283, § 8513(c), substituted “operations and support” for “operating expenses”.
 
 Subsec. (a)(6). Pub. L. 116–283, § 8303(b), struck out par. (6) which read as follows: “the making of loans pursuant to the program established under [section 2713(f) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2713/f&num=0&edition=prelim).”
@@ -926,6 +928,9 @@ Subsec. (l). Pub. L. 111–281, § 708(b)(2), added subsec. (l).
 
 #### Effective Date of 2021 Amendment
 Pub. L. 116–283, div. G, title LVXXXIII [LXXXIII], § 8302(b), Jan. 1, 2021, 134 Stat. 4692, provided that: “This section [amending this section] and the amendments made by this section shall take effect 180 days after the date of enactment of this Act [Jan. 1, 2021].”
+
+#### Rule of Construction
+Nothing in amendment made by section 11314(1), (2) of Pub. L. 117–263 to be construed to satisfy any requirement for government-to-government consultation with Tribal governments or to affect or modify any treaty or other right of any Tribal government, see section 11003 of Pub. L. 117–263, set out as a note under [section 245 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section245&num=0&edition=prelim), Domestic Security.
 
 #### Use of Fund for Spills of National Significance
 Pub. L. 112–74, div. D, title V, § 563, Dec. 23, 2011, 125 Stat. 981, provided that: “For fiscal year 2012 and thereafter, notwithstanding section 1012(a)(5) of the Oil Pollution Act of 1990 ([33 U.S.C. 2712(a)(5)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2712/a/5&num=0&edition=prelim)) and [31 U.S.C. 3302](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section3302&num=0&edition=prelim), in the event that a spill of national significance occurs, any payment of amounts from the Oil Spill Liability Trust Fund pursuant to section 1012(a)(1) of the Oil Pollution Act of 1990 ([33 U.S.C. 2712(a)(1)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section2712/a/1&num=0&edition=prelim)) for the removal costs incurred by the Coast Guard for such spill, shall be credited directly to the accounts of the Coast Guard current at the time such removal costs were incurred or when reimbursement is received: Provided, That such amounts shall be merged with and, without further appropriations, made available for the same time period and the same purpose as the appropriation to which it is credited.”
@@ -975,7 +980,7 @@ the claimant may elect to commence an action in court against the responsible pa
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
 2021—Subsec. (f). Pub. L. 116–283 struck out subsec. (f) which related to loan program to provide interim assistance to fishermen and aquaculture producer claimants during the claims procedure.
@@ -1033,7 +1038,7 @@ Functions of President under this section delegated to Secretary of Department i
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 #### Amendments
 2017—Subsec. (c). Pub. L. 115–91 inserted “or other facility located seaward of the exclusive economic zone” after “foreign offshore unit”.
@@ -1130,7 +1135,7 @@ shall establish and maintain, in accordance with regulations promulgated by the 
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsecs. (e), (f), (g), (h), and (i), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 The effective date of this Act, referred to in subsec. (h), is the effective date of Pub. L. 101–380 which is applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701).
 
@@ -1214,7 +1219,7 @@ Specific functions of President under this section delegated to Secretary of Dep
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in subsecs. (a), (b), (c), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in subsecs. (a), (b), (c), and (f), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 
 <a id="section-2718"></a>
@@ -1247,7 +1252,7 @@ relating to the discharge, or substantial threat of a discharge, of oil.
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 Act of March 3, 1851, referred to in subsecs. (a) and (c), is act Mar. 3, 1851, ch. 43, 9 Stat. 635, which was incorporated into the Revised Statutes as R.S. §§ 4282, 4283, 4284 to 4287 and 4289, and was classified to sections 182, 183, and 184 to 188 of Title 46, Appendix, Shipping, prior to being repealed and restated in chapter 305 of Title 46, Shipping, by Pub. L. 109–304, §§ 6(c), 19, Oct. 6, 2006, 120 Stat. 1509, 1710. For disposition of sections of the former Appendix to Title 46, see Disposition Table preceding [section 101 of Title 46](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section101&num=0&edition=prelim).
 
@@ -1400,7 +1405,7 @@ Subsec. (i). Pub. L. 104–324, § 1102(a)(14), (15), inserted “authorization 
 Subsec. (j). Pub. L. 104–324, § 1102(a)(16), (17), struck out first sentence which read as follows: “All funds authorized for the Institute shall be provided through the National Oceanic and Atmospheric Administration.”, and inserted “The Advisory Board may compensate its Federal representatives for their reasonable travel costs.” after “Institute.”
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided for by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-2732"></a>
@@ -1776,7 +1781,7 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (a), is titl
 #### References in Text
 Section 8102(a)(2)(B)(ii), referred to in subsec. (b), is section 8102(a)(2)(B)(ii) of Pub. L. 101–380, title VIII, Aug. 18, 1990, 104 Stat. 565, which is set out as a note under [section 1653 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1653&num=0&edition=prelim), Public Lands.
 
-The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
+The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, which enacted chapter 20 (§ 900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), The Public Health and Welfare, repealed [section 661 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section661&num=0&edition=prelim), enacted provisions set out as notes under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and [section 911 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section911&num=0&edition=prelim), and amended provisions set out as a note under [section 621 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section621&num=0&edition=prelim). For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
 
 #### Amendments
 2006—Subsec. (c). Pub. L. 109–241, which directed the insertion of a comma after “October 1, 2012”, could not be executed because “October 1, 2012” did not appear subsequent to amendment by Pub. L. 109–58. See 2005 Amendment note below.
@@ -1819,7 +1824,7 @@ Notwithstanding any other law, tank vessels that have spilled more than 1,000,00
 
 (2) lease, maintain, operate, and upgrade the necessary research equipment and related facilities necessary to conduct such research at the Alaska SeaLife Center.
 
-**(c) Evaluation and audit** The Secretary of Commerce may periodically evaluate the activities of the Institute to ensure that funds received by the Institute are used in a manner consistent with this section. The Federal Advisory Committee Act [5 U.S.C. App.] shall not apply to the Institute.
+**(c) Evaluation and audit** The Secretary of Commerce may periodically evaluate the activities of the Institute to ensure that funds received by the Institute are used in a manner consistent with this section. Chapter 10 of title 5 shall not apply to the Institute.
 
 **(d) Status of employees** Employees of the Institute shall not, by reason of such employment, be considered to be employees of the Federal Government for any purpose.
 
@@ -1830,11 +1835,11 @@ Notwithstanding any other law, tank vessels that have spilled more than 1,000,00
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
-Public Law 105–83, referred to in subsec. (e), is Pub. L. 105–83, Nov. 14, 1997, 111 Stat. 1543, as amended, known as the Department of the Interior and Related Agencies Appropriations Act, 1998. For complete classification of this Act to the Code, see Tables.
+Public Law 105–83, referred to in subsec. (e), is Pub. L. 105–83, Nov. 14, 1997, 111 Stat. 1543, known as the Department of the Interior and Related Agencies Appropriations Act, 1998. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “Chapter 10 of title 5” for “The Federal Advisory Committee Act”.
+
 2000—Subsec. (c). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(A)], inserted second sentence and struck out former second sentence which read as follows: “The Comptroller General of the United States, and any of his or her duly authorized representatives, shall have access, for purposes of audit and examination, to any books, documents, papers, and records of the Institute that are pertinent to the funds received and expended by the Institute.”
 
 Subsec. (e). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(B)], inserted at end “The administrative funds of the Institute and the administrative funds of the North Pacific Research Board created under Public Law 105–83 may be used to jointly administer such programs at the discretion of the North Pacific Research Board.”
@@ -1859,18 +1864,44 @@ Subsec. (e). Pub. L. 106–554, § 1(a)(4) [div. B, title I, § 144(c)(1)(B)], i
 ### Statutory Notes
 
 #### References in Text
-This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
+This Act, referred to in text, is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 2701 of this title](./chapter-040-oil-pollution.md#section-2701) and Tables.
 
 
 <a id="section-2752"></a>
 ## § 2752. Annual appropriations
 **(a) Required** Except as provided in subsection (b), amounts in the Fund shall be available only as provided in annual appropriation Acts.
 
-**(b) Exceptions** Subsection (a) shall not apply to sections 11 So in original. Probably should be “section”. 2706(f), 2712(a)(4), or 2736 of this title, and shall not apply to an amount not to exceed $50,000,000 in any fiscal year which the President may make available from the Fund to carry out [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim) and to initiate the assessment of natural resources damages required under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706). To the extent that such amount is not adequate, the Coast Guard (1) may obtain an advance from the Fund of such sums as may be necessary, up to a maximum of $100,000,000, and within 30 days shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance and (2) in the case of the discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain 1 or more advances from the Fund as needed, up to a maximum of $100,000,000 for each advance, with the total amount of all advances not to exceed the amounts available under [section 9509(c)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509/c/2&num=0&edition=prelim), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance. Amounts advanced shall be repaid to the Fund when, and to the extent that, removal costs are recovered by the Coast Guard from responsible parties for the discharge or substantial threat of discharge. Sums to which this subsection applies shall remain available until expended.
+**(b) Exceptions**
+
+(1) **In general** — Subsection (a) shall not apply to—
+
+  (A) section 2706(f), 2712(a)(4), or 2736 of this title; or
+
+  (B) an amount, which may not exceed $50,000,000 in any fiscal year, made available by the President from the Fund—
+
+    (i) to carry out [section 1321(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title33-section1321/c&num=0&edition=prelim); and
+
+    (ii) to initiate the assessment of natural resources damages required under [section 2706 of this title](./chapter-040-oil-pollution.md#section-2706).
+
+(2) **Fund advances**
+
+  (A) *In general* — To the extent that the amount described in subparagraph (B) of paragraph (1) is not adequate to carry out the activities described in such subparagraph, the Coast Guard may obtain 1 or more advances from the Fund as may be necessary, up to a maximum of $100,000,000 for each advance, with the total amount of advances not to exceed the amounts available under [section 9509(c)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509/c/2&num=0&edition=prelim).
+
+  (B) *Notification to Congress* — Not later than 30 days after the date on which the Coast Guard obtains an advance under subparagraph (A), the Coast Guard shall notify Congress of—
+
+    (i) the amount advanced; and
+
+    (ii) the facts and circumstances that necessitated the advance.
+
+  (C) *Repayment* — Amounts advanced under this paragraph shall be repaid to the Fund when, and to the extent that, removal costs are recovered by the Coast Guard from responsible parties for the discharge or substantial threat of discharge.
+
+(3) **Availability** — Amounts to which this subsection applies shall remain available until expended.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 added subsec. (b) and struck out former subsec. (b) which related to exceptions.
+
 2010—Subsec. (b). Pub. L. 111–212, which directed amendment of second sentence by inserting “: (1)” before “may obtain an advance from the Fund” and substituting “advance; (2) in the case of discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain one or more advances from the Oil Spill Liability Trust Fund as needed, up to a maximum of $100,000,000 for each advance, the total amount of all advances not to exceed the amounts available under section 9509(c)(2) of the Internal Revenue Code of 1986 ([26 U.S.C. 9509(c)(2)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509/c/2&num=0&edition=prelim)), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance; and (3) amounts” for “advance. Amounts”, could not be executed because of prior amendment by Pub. L. 111–191. See below.
 
 Pub. L. 111–191, in second sentence, inserted “(1)” after “Coast Guard” and “and (2) in the case of the discharge of oil that began in 2010 in connection with the explosion on, and sinking of, the mobile offshore drilling unit Deepwater Horizon, may, without further appropriation, obtain 1 or more advances from the Fund as needed, up to a maximum of $100,000,000 for each advance, with the total amount of all advances not to exceed the amounts available under [section 9509(c)(2) of title 26](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title26-section9509/c/2&num=0&edition=prelim), and within 7 days of each advance, shall notify Congress of the amount advanced and the facts and circumstances necessitating the advance” before period at end.
@@ -2208,6 +2239,9 @@ Subsec. (f). Pub. L. 101–537, § 2002(2), and Pub. L. 101–646, § 4002(2), a
 
 #### Transfer of Functions
 For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see [section 315(a)(1) of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section315/a/1&num=0&edition=prelim), Domestic Security.
+
+#### Improving Oil Spill Preparedness
+Pub. L. 117–263, div. K, title CXIII, § 11308, Dec. 23, 2022, 136 Stat. 4079, provided that: “The Under Secretary of Commerce for Oceans and Atmosphere shall include in the Automated Data Inquiry for Oil Spills database (or a successor database) used by National Oceanic and Atmospheric Administration oil weathering models new data, including peer-reviewed data, on properties of crude and refined oils, including data on diluted bitumen, as such data becomes publicly available.”
 
 #### Transfer of Functions
 The Minerals Management Service was abolished and functions divided among the Office of Natural Resources Revenue, the Bureau of Ocean Energy Management, and the Bureau of Safety and Environmental Enforcement. See Secretary of the Interior Orders No. 3299 of May 19, 2010, and No. 3302 of June 18, 2010, and chapters II, V, and XII of title 30, Code of Federal Regulations, as revised by final rules of the Department of the Interior at 75 F.R. 61051 and 76 F.R. 64432.

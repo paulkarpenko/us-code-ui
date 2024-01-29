@@ -29,12 +29,18 @@ Pub. L. 93–174, § 3, Dec. 5, 1973, 87 Stat. 692, provided that: “Effective 
 
 **(b)** Subject to the authorized strength of the Coast Guard Reserve, the Secretary shall determine, at least annually, the authorized strength in numbers in each grade necessary to provide for mobilization requirements. Without the consent of the member concerned, a member of the Reserve may not be reduced in grade because of the Secretary’s determination.
 
+**(c)** The Secretary may vary the authorized end strength of the Coast Guard Selected Reserves for a fiscal year by a number equal to not more than 3 percent of such end strength upon a determination by the Secretary that varying such authorized end strength is in the national interest.
+
+**(d)** The Commandant may increase the authorized end strength of the Coast Guard Selected Reserves by a number equal to not more than 2 percent of such authorized end strength upon a determination by the Commandant that such increase would enhance manning and readiness in essential units or in critical specialties or ratings.
+
 ### Statutory Notes
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 752a of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section752a&num=0&edition=prelim) prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
 
 #### Amendments
+2022—Subsecs. (c), (d). Pub. L. 117–263 added subsecs. (c) and (d).
+
 2018—Pub. L. 115–282 renumbered [section 702 of this title](./chapter-007-cooperation.md#section-702) as this section.
 
 #### Coast Guard Reserve Components Transition Initiatives
@@ -153,7 +159,7 @@ The law authorizing compensation for employees of the United States, referred to
 
 The General Schedule, referred to in subsec. (a), is set out under [section 5332 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
 
-The Social Security Act, referred to in subsec. (e)(1)(A), (B), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (e)(1)(A), (B), (3), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Title II of the Social Security Act is classified generally to subchapter II (§ 401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Prior Provisions
 Provisions similar to those in this section were contained in [section 760 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section760&num=0&edition=prelim) prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
@@ -414,7 +420,7 @@ This subchapter applies only to the Reserve; except that it does not apply to a 
 Provisions similar to those in this section were contained in [section 771 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section771&num=0&edition=prelim) prior to the complete revision of former chapter 21 of this title by Pub. L. 96–322.
 
 #### Amendments
-2018—Pub. L. 115–282 renumbered [section 721 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section721&num=0&edition=prelim) as this section.
+2018—Pub. L. 115–282 renumbered [section 721 of this title](./chapter-007-cooperation.md#section-721) as this section.
 
 
 <a id="section-3733"></a>
@@ -431,6 +437,8 @@ Provisions similar to those in this section were contained in [section 778 of th
 2018—Pub. L. 115–282 renumbered [section 722 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title14-section722&num=0&edition=prelim) as this section.
 
 #### Delegation of Authority
+Authority of President under this section to suspend the operation of this subchapter concerning officers of the Coast Guard Reserve without the approval, ratification, or other action by the President during a time of war or national emergency delegated to Secretary of Homeland Security by Ex. Ord. No. 14106, § 2(b), Aug. 14, 2023, 88 F.R. 55905, set out in a note under [section 2101 of this title](./chapter-021-personnel-officers.md#section-2101).
+
 Authority of President under this section as invoked by section 2 of Ex. Ord. No. 13223, Sept. 14, 2001, 66 F.R. 48201, as amended, delegated to Secretary of Homeland Security by section 5 of Ex. Ord. No. 13223, set out as a note under [section 12302 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section12302&num=0&edition=prelim), Armed Forces.
 
 

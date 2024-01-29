@@ -104,7 +104,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 Pub. L. 96–343, § 9(c), Sept. 8, 1980, 94 Stat. 1129, provided that: “The amendments made by this section [amending this section and sections 3925, 8914, and 8925 of this title] shall apply with respect to retired pay payable for months beginning after the date of the enactment of this Act [Sept. 8, 1980].”
 
 #### Effective Date of 1958 Amendment
-Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub. L. 85–861, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 #### Temporary Early Retirement Authority
 For provisions authorizing the Secretary of the Army, during the period beginning Oct. 23, 1992, and ending Oct. 1, 1995, to apply this section to an enlisted member with at least 15 but less than 20 years of service by substituting “at least 15” for “at least 20”, see section 4403 of Pub. L. 102–484, set out as a note under [section 1293 of this title](./chapter-065-retirement-of-warrant-officers-for-length-of-service.md#section-1293).
@@ -201,7 +201,7 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 ## § 7321. Mandatory retirement: Superintendent of the United States Military Academy; waiver authority
 **(a) Mandatory Retirement.—** Upon the termination of the detail of an officer to the position of Superintendent of the United States Military Academy, the Secretary of the Army shall retire the officer under any provision of this chapter under which that officer is eligible to retire.
 
-**(b) Waiver Authority.—** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment.
+**(b) Waiver Authority.—** The Secretary of Defense may waive the requirement in subsection (a) for good cause. In each case in which such a waiver is granted for an officer, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a written notification of the waiver, with a statement of the reasons supporting the decision that the officer not retire, and a written notification of the intent of the President to nominate the officer for reassignment. In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.
 
 ### Statutory Notes
 
@@ -209,6 +209,8 @@ Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the co
 A prior section 7321 was renumbered [section 8691 of this title](./chapter-863-naval-vessels.md#section-8691).
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–263 inserted at end: “In the event a waiver under this subsection is granted, the subsequent nomination and appointment of such officer having served as Superintendent of the Academy to a further assignment in lieu of retirement shall be subject to the advice and consent of the Senate.”
+
 2018—Pub. L. 115–232 renumbered [section 3921 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section3921&num=0&edition=prelim) as this section.
 
 2004—Pub. L. 108–375 inserted “; waiver authority” at end of section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
@@ -252,7 +254,7 @@ Subsec. (b). Pub. L. 115–232, § 809(a), substituted “section 7326(a)” for
 Amendment by Pub. L. 115–232 effective Feb. 1, 2019, with provision for the coordination of amendments and special rule for certain redesignations, see section 800 of Pub. L. 115–232, set out as a note preceding [section 3001 of this title](./chapter-201-definitions.md#section-3001).
 
 #### Effective Date of 1980 Amendment
-Amendment by Pub. L. 96–513, effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions.md#section-101).
+Amendment by Pub. L. 96–513, effective Sept. 15, 1981, see section 701 of Pub. L. 96–513, set out as a note under [section 101 of this title](./chapter-001-definitions-rules-of-construction-cross-references-and-related-matters.md#section-101).
 
 
 <a id="section-7325"></a>

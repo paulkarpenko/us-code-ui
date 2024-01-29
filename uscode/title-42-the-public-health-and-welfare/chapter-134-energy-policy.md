@@ -3880,7 +3880,7 @@ In preparing the report required by this subsection, the Secretary shall consult
 
 (6) **Meetings** — The task force shall meet biannually and at the call of the Chairperson.
 
-(7) **Inapplicability of termination date** — Section 14 of the Federal Advisory Committee Act shall not apply to the task force.
+(7) **Inapplicability of termination date** — [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the task force.
 
 **(i) Omitted**
 
@@ -3888,13 +3888,13 @@ In preparing the report required by this subsection, the Secretary shall consult
 
 ### Statutory Notes
 
-#### References in Text
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (h)(7), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 Subsec. (i) of this section, which required the Secretary to transmit annually to Congress a report on the activities of regional centers established under this section, including the degree to which matching funds are being leveraged from private sources to establish and operate such centers, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under [section 1113 of Title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1113&num=0&edition=prelim), Money and Finance. See, also, the 6th item on page 88 of House Document No. 103–7.
 
 Section was enacted as part of title I of the Energy Policy Act, and not as part of title XXI of that Act which comprises this subchapter.
+
+#### Amendments
+2022—Subsec. (h)(7). Pub. L. 117–286 substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of the Federal Advisory Committee Act”.
 
 
 <a id="section-13472"></a>
@@ -4707,7 +4707,7 @@ Subchapters VIII through XI of this chapter, referred to in subsec. (b), was in 
 [Section 5914 of this title](./chapter-074-nonnuclear-energy-research-and-development.md#section-5914), referred to in subsec. (b), was omitted from the Code.
 
 #### Termination of Advisory Boards
-Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory boards established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by Congress, its duration is otherwise provided by law. See sections 1001(2) and 1013 of Title 5, Government Organization and Employees.
 
 
 <a id="section-13524"></a>

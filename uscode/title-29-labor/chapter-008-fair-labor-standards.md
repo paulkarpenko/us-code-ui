@@ -2,7 +2,7 @@
 title: 29
 chapter: '8'
 heading: FAIR LABOR STANDARDS
-section_count: 24
+section_count: 25
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29&num=0&edition=prelim
 ---
@@ -12,6 +12,9 @@ source: >-
 This chapter may be cited as the “Fair Labor Standards Act of 1938”.
 
 ### Statutory Notes
+
+#### Short Title of 2022 Amendment
+Pub. L. 117–328, div. KK, § 101, Dec. 29, 2022, 136 Stat. 6093, provided that: “This division [enacting [section 218d of this title](./chapter-008-fair-labor-standards.md#section-218d), amending sections 207, 215, and 216 of this title and [section 20168 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20168&num=0&edition=prelim), Transportation, and enacting provisions set out as notes under sections 207, 215, and 218d of this title and [section 20168 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20168&num=0&edition=prelim)] may be cited as the ‘Providing Urgent Maternal Protections for Nursing Mothers Act’ or the ‘PUMP for Nursing Mothers Act’.”
 
 #### Short Title of 2007 Amendment
 Pub. L. 110–28, title VIII, § 8101, May 25, 2007, 121 Stat. 188, provided that: “This subtitle [subtitle A (§§ 8101–8104) of title VIII of Pub. L. 110–28, amending [section 206 of this title](./chapter-008-fair-labor-standards.md#section-206), repealing sections 205 and 208 of this title, and enacting provisions set out as notes under [section 206 of this title](./chapter-008-fair-labor-standards.md#section-206)] may be cited as the ‘Fair Minimum Wage Act of 2007’.”
@@ -694,7 +697,7 @@ Pub. L. 110–28, title VIII, § 8104, May 25, 2007, 121 Stat. 189, as amended b
 [Pub. L. 111–5, div. A, title VIII, § 802(b), Feb. 17, 2009, 123 Stat. 187, provided that: “The amendment made by this section [amending section 8104 of Pub. L. 110–28, set out above] shall take effect on the date of enactment of this Act [Feb. 17, 2009].” ]
 
 #### Training Wage
-Pub. L. 101–157, § 6, Nov. 17, 1989, 103 Stat. 941, provided that: “(a) In General.—“(1) Authority.—Any employer may, in lieu of the minimum wage prescribed by section 6 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](./chapter-008-fair-labor-standards.md#section-206)), pay an eligible employee the wage prescribed by paragraph (2)—“(A) while such employee is employed for the period authorized by subsection (g)(1)(B)(i), or “(B) while such employee is engaged in on-the-job training for the period authorized by subsection (g)(1)(B)(ii). “(2) Wage rate.—The wage referred to in paragraph (1) shall be a wage—“(A) of not less than $3.35 an hour during the year beginning April 1, 1990; and “(B) beginning April 1, 1991, of not less than $3.35 an hour or 85 percent of the wage prescribed by section 6 of such Act, whichever is greater. “(b) Wage Period.—An employer may pay an eligible employee the wage authorized by subsection (a) for a period that—“(1) begins on or after April 1, 1990; “(2) does not exceed the maximum period during which an employee may be paid such wage as determined under subsection (g)(1)(B); and “(3) ends before April 1, 1993. “(c) Wage Conditions.—No eligible employee may be paid the wage authorized by subsection (a) by an employer if—“(1) any other individual has been laid off by such employer from the position to be filled by such eligible employee or from any substantially equivalent position; or “(2) such employer has terminated the employment of any regular employee or otherwise reduced the number of employees with the intention of filling the vacancy so created by hiring an employee to be paid such wage. “(d) Limitations.—“(1) Employee hours.—During any month in which employees are to be employed in an establishment under this section, the proportion of employee hours of employment to the total hours of employment of all employees in such establishment may not exceed a proportion equal to one-fourth of the total hours of employment of all employees in such establishment. “(2) Displacement.—“(A) Prohibition.—No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in subsection (a). “(B) Disqualification.—If the Secretary determines that an employer has taken an action in violation of subparagraph (A), the Secretary shall issue an order disqualifying such employer from employing any individual at such wage. “(e) Notice.—Each employer shall provide to any eligible employee who is to be paid the wage authorized by subsection (a) a written notice before the employee begins employment stating the requirements of this section and the remedies provided by subsection (f) for violations of this section. The Secretary shall provide to employers the text of the notice to be provided under this subsection. “(f) Enforcement.—Any employer who violates this section shall be considered to have violated section 15(a)(3) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 215(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section215/a/3&num=0&edition=prelim)). Sections 16 and 17 of such Act ([29 U.S.C. 216](./chapter-008-fair-labor-standards.md#section-216) and 217) shall apply with respect to the violation. “(g) Definitions.—For purposes of this section:“(1) Eligible employee.—“(A) In general.—The term ‘eligible employee’ means with respect to an employer an individual who—“(i) is not a migrant agricultural worker or a seasonal agricultural worker (as defined in paragraphs (8) and (10) of section 3 of the Migrant and Seasonal Agricultural Worker Protection Act ([29 U.S.C. 1802(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1802/8&num=0&edition=prelim) and (10)) without regard to subparagraph (B) of such paragraphs and is not a nonimmigrant described in section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/H/ii/a&num=0&edition=prelim)); “(ii) has not attained the age of 20 years; and “(iii) is eligible to be paid the wage authorized by subsection (a) as determined under subparagraph (B). “(B) Duration.—“(i) An employee shall initially be eligible to be paid the wage authorized by subsection (a) until the employee has been employed a cumulative total of 90 days at such wage. “(ii) An employee who has been employed by an employer at the wage authorized by subsection (a) for the period authorized by clause (i) may be employed by any other employer for an additional 90 days if the employer meets the requirements of subsection (h). “(iii) The total period, as authorized by clauses (i) and (ii), that an employee may be paid the wage authorized by subsection (a) may not exceed 180 days. “(iv) For purposes of this subparagraph, the term ‘employer’ means with respect to an employee an employer who is required to withhold payroll taxes for such employee. “(C) Proof.—“(i) In general.—An individual is responsible for providing the requisite proof of previous period or periods of employment with other employers. An employer’s good faith reliance on the proof presented to the employer by an individual shall constitute a complete defense to a charge that the employer has violated subsection (b)(2) with respect to such individual. “(ii) Regulations.—The Secretary of Labor shall issue regulations defining the requisite proof required of an individual. Such regulations shall establish minimal requirements for requisite proof and may prescribe that an accurate list of the individual’s employers and a statement of the dates and duration of employment with each employer constitute requisite proof. “(2) On-the-job training.—The term ‘on-the-job training’ means training that is offered to an individual while employed in productive work that provides training, technical and other related skills, and personal skills that are essential to the full and adequate performance of such employment. “(h) Employer Requirements.—An employer who wants to employ employees at the wage authorized by subsection (a) for the period authorized by subsection (g)(1)(B)(ii) shall—“(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage, “(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate and the Committee on Education and Labor of the House of Representatives and other interested persons, “(3) keep on file a copy of the training program which the employer will provide such employees, “(4) provide a copy of the training program to the employees, “(5) post in a conspicuous place in places of employment a notice of the types of jobs for which the employer is providing on-the-job training, and “(6) send to the Secretary on an annual basis a copy of such notice. The Secretary shall make available to the public upon request notices provided to the Secretary by employers in accordance with paragraph (6). “(i) Report.—The Secretary of Labor shall report to Congress not later than March 1, 1993, on the effectiveness of the wage authorized by subsection (a). The report shall include—“(1) an analysis of the impact of such wage on employment opportunities for inexperienced workers; “(2) any reduction in employment opportunities for experienced workers resulting from the employment of employees under such wage; “(3) the nature and duration of the training provided under such wage; and “(4) the degree to which employers used the authority to pay such wage.”
+Pub. L. 101–157, § 6, Nov. 17, 1989, 103 Stat. 941, provided that: “(a) In General.—“(1) Authority.—Any employer may, in lieu of the minimum wage prescribed by section 6 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206](./chapter-008-fair-labor-standards.md#section-206)), pay an eligible employee the wage prescribed by paragraph (2)—“(A) while such employee is employed for the period authorized by subsection (g)(1)(B)(i), or “(B) while such employee is engaged in on-the-job training for the period authorized by subsection (g)(1)(B)(ii). “(2) Wage rate.—The wage referred to in paragraph (1) shall be a wage—“(A) of not less than $3.35 an hour during the year beginning April 1, 1990; and “(B) beginning April 1, 1991, of not less than $3.35 an hour or 85 percent of the wage prescribed by section 6 of such Act, whichever is greater. “(b) Wage Period.—An employer may pay an eligible employee the wage authorized by subsection (a) for a period that—“(1) begins on or after April 1, 1990; “(2) does not exceed the maximum period during which an employee may be paid such wage as determined under subsection (g)(1)(B); and “(3) ends before April 1, 1993. “(c) Wage Conditions.—No eligible employee may be paid the wage authorized by subsection (a) by an employer if—“(1) any other individual has been laid off by such employer from the position to be filled by such eligible employee or from any substantially equivalent position; or “(2) such employer has terminated the employment of any regular employee or otherwise reduced the number of employees with the intention of filling the vacancy so created by hiring an employee to be paid such wage. “(d) Limitations.—“(1) Employee hours.—During any month in which employees are to be employed in an establishment under this section, the proportion of employee hours of employment to the total hours of employment of all employees in such establishment may not exceed a proportion equal to one-fourth of the total hours of employment of all employees in such establishment. “(2) Displacement.—“(A) Prohibition.—No employer may take any action to displace employees (including partial displacements such as reduction in hours, wages, or employment benefits) for purposes of hiring individuals at the wage authorized in subsection (a). “(B) Disqualification.—If the Secretary determines that an employer has taken an action in violation of subparagraph (A), the Secretary shall issue an order disqualifying such employer from employing any individual at such wage. “(e) Notice.—Each employer shall provide to any eligible employee who is to be paid the wage authorized by subsection (a) a written notice before the employee begins employment stating the requirements of this section and the remedies provided by subsection (f) for violations of this section. The Secretary shall provide to employers the text of the notice to be provided under this subsection. “(f) Enforcement.—Any employer who violates this section shall be considered to have violated section 15(a)(3) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 215(a)(3)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section215/a/3&num=0&edition=prelim)). Sections 16 and 17 of such Act ([29 U.S.C. 216](./chapter-008-fair-labor-standards.md#section-216) and 217) shall apply with respect to the violation. “(g) Definitions.—For purposes of this section:“(1) Eligible employee.—“(A) In general.—The term ‘eligible employee’ means with respect to an employer an individual who—“(i) is not a migrant agricultural worker or a seasonal agricultural worker (as defined in paragraphs (8) and (10) of section 3 of the Migrant and Seasonal Agricultural Worker Protection Act ([29 U.S.C. 1802(8)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section1802/8&num=0&edition=prelim) and (10)) without regard to subparagraph (B) of such paragraphs and is not a nonimmigrant described in section 101(a)(15)(H)(ii)(a) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101/a/15/H/ii/a&num=0&edition=prelim)); “(ii) has not attained the age of 20 years; and “(iii) is eligible to be paid the wage authorized by subsection (a) as determined under subparagraph (B). “(B) Duration.—“(i) An employee shall initially be eligible to be paid the wage authorized by subsection (a) until the employee has been employed a cumulative total of 90 days at such wage. “(ii) An employee who has been employed by an employer at the wage authorized by subsection (a) for the period authorized by clause (i) may be employed by any other employer for an additional 90 days if the employer meets the requirements of subsection (h). “(iii) The total period, as authorized by clauses (i) and (ii), that an employee may be paid the wage authorized by subsection (a) may not exceed 180 days. “(iv) For purposes of this subparagraph, the term ‘employer’ means with respect to an employee an employer who is required to withhold payroll taxes for such employee. “(C) Proof.—“(i) In general.—An individual is responsible for providing the requisite proof of previous period or periods of employment with other employers. An employer’s good faith reliance on the proof presented to the employer by an individual shall constitute a complete defense to a charge that the employer has violated subsection (b)(2) with respect to such individual. “(ii) Regulations.—The Secretary of Labor shall issue regulations defining the requisite proof required of an individual. Such regulations shall establish minimal requirements for requisite proof and may prescribe that an accurate list of the individual’s employers and a statement of the dates and duration of employment with each employer constitute requisite proof. “(2) On-the-job training.—The term ‘on-the-job training’ means training that is offered to an individual while employed in productive work that provides training, technical and other related skills, and personal skills that are essential to the full and adequate performance of such employment. “(h) Employer Requirements.—An employer who wants to employ employees at the wage authorized by subsection (a) for the period authorized by subsection (g)(1)(B)(ii) shall—“(1) notify the Secretary annually of the positions at which such employees are to be employed at such wage, “(2) provide on-the-job training to such employees which meets general criteria of the Secretary issued by regulation after consultation with the Committee on Labor and Human Resources [now Committee on Health, Education, Labor, and Pensions] of the Senate and the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives and other interested persons, “(3) keep on file a copy of the training program which the employer will provide such employees, “(4) provide a copy of the training program to the employees, “(5) post in a conspicuous place in places of employment a notice of the types of jobs for which the employer is providing on-the-job training, and “(6) send to the Secretary on an annual basis a copy of such notice. The Secretary shall make available to the public upon request notices provided to the Secretary by employers in accordance with paragraph (6). “(i) Report.—The Secretary of Labor shall report to Congress not later than March 1, 1993, on the effectiveness of the wage authorized by subsection (a). The report shall include—“(1) an analysis of the impact of such wage on employment opportunities for inexperienced workers; “(2) any reduction in employment opportunities for experienced workers resulting from the employment of employees under such wage; “(3) the nature and duration of the training provided under such wage; and “(4) the degree to which employers used the authority to pay such wage.”
 
 #### Practice of Public Agency in Treating Certain Individuals as Volunteers Prior to April 15, 1986; Liability
 Certain public agencies not to be liable for violations of this section occurring before Apr. 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis, see section 4(c) of Pub. L. 99–150, set out as a note under [section 203 of this title](./chapter-008-fair-labor-standards.md#section-203).
@@ -908,20 +911,6 @@ An employer who receives an exemption under this subsection shall not be eligibl
 
 (3) does not include job specific training.
 
-**(r) Reasonable break time for nursing mothers**
-
-(1) An employer shall provide—
-
-  (A) a reasonable break time for an employee to express breast milk for her nursing child for 1 year after the child’s birth each time such employee has need to express the milk; and
-
-  (B) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
-
-(2) An employer shall not be required to compensate an employee receiving reasonable break time under paragraph (1) for any work time spent for such purpose.
-
-(3) An employer that employs less than 50 employees shall not be subject to the requirements of this subsection, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
-
-(4) Nothing in this subsection shall preempt a State law that provides greater protections to employees than the protections provided for under this subsection.
-
 ### Statutory Notes
 
 #### References in Text
@@ -932,6 +921,8 @@ The effective date of the Fair Labor Standards Amendments of 1966, referred to i
 Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in subsec. (k)(1), is Pub. L. 93–259, § 6(c)(3), Apr. 8, 1974, 88 Stat. 61, which is set out as a note under [section 213 of this title](./chapter-008-fair-labor-standards.md#section-213).
 
 #### Amendments
+2022—Subsec. (r). Pub. L. 117–328 struck out subsec. (r) which related to reasonable break time for nursing mothers.
+
 2010—Subsec. (r). Pub. L. 111–148 added subsec. (r).
 
 2000—Subsec. (e)(8). Pub. L. 106–202, § 2(a), added par. (8).
@@ -1009,6 +1000,9 @@ Subsec. (e) added by act July 20, 1949, and amended by act Oct. 26, 1949, which 
 Subsecs. (f) and (g). Act Oct. 26, 1949, added subsecs. (f) and (g).
 
 1941—Subsec. (b)(2) amended by act Oct. 29, 1941.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. KK, § 103(a), Dec. 29, 2022, 136 Stat. 6096, provided that: “The amendments made by section 102(a) [enacting [section 218d of this title](./chapter-008-fair-labor-standards.md#section-218d) and amending this section] shall take effect on the date of enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 2000 Amendment
 Pub. L. 106–202, § 2(c), May 18, 2000, 114 Stat. 309, provided that: “The amendments made by this section [amending this section] shall take effect on the date that is 90 days after the date of enactment of this Act [May 18, 2000].”
@@ -1522,13 +1516,13 @@ Any employer who receives an exemption under this subsection shall not be eligib
 ### Statutory Notes
 
 #### References in Text
-The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§ 181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
+The Railway Labor Act, referred to in subsec. (b)(3), is act May 20, 1926, ch. 347, 44 Stat. 577. Title II of the Railway Labor Act was added by act Apr. 10, 1936, ch. 166, 49 Stat. 1189, and is classified generally to subchapter II (§ 181 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code see [section 151 of Title 45](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title45-section151&num=0&edition=prelim) and Tables.
 
 [Section 206(a)(5) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/5&num=0&edition=prelim), referred to in subsec. (c)(1)(A), was redesignated [section 206(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/4&num=0&edition=prelim) by Pub. L. 110–28, title VIII, § 8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
 [Section 206(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/3&num=0&edition=prelim), referred to in subsec. (e), was repealed and [section 206(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/4&num=0&edition=prelim) was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, § 8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
-The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
+The Outer Continental Shelf Lands Act, referred to in subsec. (f), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§ 1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 1301 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section1301&num=0&edition=prelim) and Tables.
 
 #### Codification
 In subsec. (a)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, § 7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
@@ -2015,16 +2009,23 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 (4) to violate any of the provisions of [section 212 of this title](./chapter-008-fair-labor-standards.md#section-212);
 
-(5) to violate any of the provisions of [section 211(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/c&num=0&edition=prelim), or any regulation or order made or continued in effect under the provisions of [section 211(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/d&num=0&edition=prelim), or to make any statement, report, or record filed or kept pursuant to the provisions of such section or of any regulation or order thereunder, knowing such statement, report, or record to be false in a material respect.
+(5) to violate any of the provisions of [section 211(c) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/c&num=0&edition=prelim), or any regulation or order made or continued in effect under the provisions of [section 211(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/d&num=0&edition=prelim), or to make any statement, report, or record filed or kept pursuant to the provisions of such section or of any regulation or order thereunder, knowing such statement, report, or record to be false in a material respect; and
+
+(6) to violate any of the provisions of [section 218d of this title](./chapter-008-fair-labor-standards.md#section-218d).
 
 **(b)** For the purposes of subsection (a)(1) proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
 
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(6). Pub. L. 117–328 added par. (6).
+
 1949—Subsec. (a)(1). Act Oct. 26, 1949, § 13(a), inserted provision protecting purchaser in good faith in sale of goods produced in violation of this chapter.
 
 Subsec. (a)(5). Act Oct. 26, 1949, § 13(b), inserted “or any regulation or order made or continued in effect under the provisions of [section 211(d) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section211/d&num=0&edition=prelim)” after “211(c) of this title”.
+
+#### Effective Date of 2022 Amendment
+Pub. L. 117–328, div. KK, § 103(b), Dec. 29, 2022, 136 Stat. 6096, provided that: “The amendments made by section 102(b) [amending this section and [section 216 of this title](./chapter-008-fair-labor-standards.md#section-216)] shall take effect on the date that is 120 days after the date of enactment of this Act [Dec. 29, 2022].”
 
 #### Effective Date of 1949 Amendment
 Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see section 16(a) of act Oct. 26, 1949, set out as a note under [section 202 of this title](./chapter-008-fair-labor-standards.md#section-202).
@@ -2040,7 +2041,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 ## § 216. Penalties
 **(a) Fines and imprisonment** Any person who willfully violates any of the provisions of [section 215 of this title](./chapter-008-fair-labor-standards.md#section-215) shall upon conviction thereof be subject to a fine of not more than $10,000, or to imprisonment for not more than six months, or both. No person shall be imprisoned under this subsection except for an offense committed after the conviction of such person for a prior offense under this subsection.
 
-**(b) Damages; right of action; attorney’s fees and costs; termination of right of action** Any employer who violates the provisions of section 206 or [section 207 of this title](./chapter-008-fair-labor-standards.md#section-207) shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, or their unpaid overtime compensation, as the case may be, and in an additional equal amount as liquidated damages. Any employer who violates the provisions of [section 215(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section215/a/3&num=0&edition=prelim) shall be liable for such legal or equitable relief as may be appropriate to effectuate the purposes of [section 215(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section215/a/3&num=0&edition=prelim), including without limitation employment, reinstatement, promotion, and the payment of wages lost and an additional equal amount as liquidated damages. Any employer who violates [section 203(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/m/2/B&num=0&edition=prelim) shall be liable to the employee or employees affected in the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and in an additional equal amount as liquidated damages. An action to recover the liability prescribed in the preceding sentences may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of himself or themselves and other employees similarly situated. No employee shall be a party plaintiff to any such action unless he gives his consent in writing to become such a party and such consent is filed in the court in which such action is brought. The court in such action shall, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney’s fee to be paid by the defendant, and costs of the action. The right provided by this subsection to bring an action by or on behalf of any employee, and the right of any employee to become a party plaintiff to any such action, shall terminate upon the filing of a complaint by the Secretary of Labor in an action under [section 217 of this title](./chapter-008-fair-labor-standards.md#section-217) in which (1) restraint is sought of any further delay in the payment of unpaid minimum wages, or the amount of unpaid overtime compensation, as the case may be, owing to such employee under section 206 or [section 207 of this title](./chapter-008-fair-labor-standards.md#section-207) by an employer liable therefor under the provisions of this subsection or (2) legal or equitable relief is sought as a result of alleged violations of [section 215(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section215/a/3&num=0&edition=prelim).
+**(b) Damages; right of action; attorney’s fees and costs; termination of right of action** Any employer who violates the provisions of section 206 or [section 207 of this title](./chapter-008-fair-labor-standards.md#section-207) shall be liable to the employee or employees affected in the amount of their unpaid minimum wages, or their unpaid overtime compensation, as the case may be, and in an additional equal amount as liquidated damages. Any employer who violates the provisions of section 215(a)(3) or 218d of this title shall be liable for such legal or equitable relief as may be appropriate to effectuate the purposes of section 215(a)(3) or 218d of this title, including without limitation employment, reinstatement, promotion, and the payment of wages lost and an additional equal amount as liquidated damages. Any employer who violates [section 203(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/m/2/B&num=0&edition=prelim) shall be liable to the employee or employees affected in the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and in an additional equal amount as liquidated damages. An action to recover the liability prescribed in the preceding sentences may be maintained against any employer (including a public agency) in any Federal or State court of competent jurisdiction by any one or more employees for and in behalf of himself or themselves and other employees similarly situated. No employee shall be a party plaintiff to any such action unless he gives his consent in writing to become such a party and such consent is filed in the court in which such action is brought. The court in such action shall, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney’s fee to be paid by the defendant, and costs of the action. The right provided by this subsection to bring an action by or on behalf of any employee, and the right of any employee to become a party plaintiff to any such action, shall terminate upon the filing of a complaint by the Secretary of Labor in an action under [section 217 of this title](./chapter-008-fair-labor-standards.md#section-217) in which (1) restraint is sought of any further delay in the payment of unpaid minimum wages, or the amount of unpaid overtime compensation, as the case may be, owing to such employee under section 206 or [section 207 of this title](./chapter-008-fair-labor-standards.md#section-207) by an employer liable therefor under the provisions of this subsection or (2) legal or equitable relief is sought as a result of alleged violations of section 215(a)(3) or 218d of this title.
 
 **(c) Payment of wages and compensation; waiver of claims; actions by the Secretary; limitation of actions** The Secretary is authorized to supervise the payment of the unpaid minimum wages or the unpaid overtime compensation owing to any employee or employees under section 206 or [section 207 of this title](./chapter-008-fair-labor-standards.md#section-207), and the agreement of any employee to accept such payment shall upon payment in full constitute a waiver by such employee of any right he may have under subsection (b) of this section to such unpaid minimum wages or unpaid overtime compensation and an additional equal amount as liquidated damages. The Secretary may bring an action in any court of competent jurisdiction to recover the amount of unpaid minimum wages or overtime compensation and an equal amount as liquidated damages. The right provided by subsection (b) to bring an action by or on behalf of any employee to recover the liability specified in the first sentence of such subsection and of any employee to become a party plaintiff to any such action shall terminate upon the filing of a complaint by the Secretary in an action under this subsection in which a recovery is sought of unpaid minimum wages or unpaid overtime compensation under sections 206 and 207 of this title or liquidated or other damages provided by this subsection owing to such employee by an employer liable under the provisions of subsection (b), unless such action is dismissed without prejudice on motion of the Secretary. Any sums thus recovered by the Secretary of Labor on behalf of an employee pursuant to this subsection shall be held in a special deposit account and shall be paid, on order of the Secretary of Labor, directly to the employee or employees affected. Any such sums not paid to an employee because of inability to do so within a period of three years shall be covered into the Treasury of the United States as miscellaneous receipts. In determining when an action is commenced by the Secretary of Labor under this subsection for the purposes of the statutes of limitations provided in section 6(a) of the Portal-to-Portal Act of 1947 [[29 U.S.C. 255(a)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section255/a&num=0&edition=prelim)], it shall be considered to be commenced in the case of any individual claimant on the date when the complaint is filed if he is specifically named as a party plaintiff in the complaint, or if his name did not so appear, on the subsequent date on which his name is added as a party plaintiff in such action. The authority and requirements described in this subsection shall apply with respect to a violation of [section 203(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/m/2/B&num=0&edition=prelim), as appropriate, and the employer shall be liable for the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and an additional equal amount as liquidated damages.
 
@@ -2081,16 +2082,18 @@ For transfer of functions of other officers, employees, and agencies of Departme
 ### Statutory Notes
 
 #### References in Text
-The Portal-to-Portal Act of 1947, referred to in subsec. (d), is act May 14, 1947, ch. 52, 61 Stat. 84, as amended, which is classified principally to chapter 9 (§ 251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 251 of this title](./chapter-009-portal-to-portal-pay.md#section-251) and Tables.
+The Portal-to-Portal Act of 1947, referred to in subsec. (d), is act May 14, 1947, ch. 52, 61 Stat. 84, which is classified principally to chapter 9 (§ 251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 251 of this title](./chapter-009-portal-to-portal-pay.md#section-251) and Tables.
 
 The effective date of this amendment of subsection (d), referred to in subsec. (d), occurred upon the expiration of 90 days after Aug. 30, 1957. See section 2 of Pub. L. 85–231, set out as an Effective Date of 1957 Amendment note under [section 213 of this title](./chapter-008-fair-labor-standards.md#section-213).
 
 [Section 206(a)(3) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/3&num=0&edition=prelim), referred to in subsec. (d)(3), was repealed and [section 206(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section206/a/4&num=0&edition=prelim) was redesignated section 206(a)(3) by Pub. L. 110–28, title VIII, § 8103(c)(1)(B), May 25, 2007, 121 Stat. 189.
 
 #### Constitutionality
-For information regarding constitutionality of certain provisions of this section, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court.
+For information regarding the constitutionality of certain provisions of this section, see the Table of Laws Held Unconstitutional in Whole or in Part by the Supreme Court on the Constitution Annotated website, constitution.congress.gov.
 
 #### Amendments
+2022—Subsec. (b). Pub. L. 117–328 substituted “section 215(a)(3) or 218d” for “section 215(a)(3)” wherever appearing.
+
 2018—Subsec. (b). Pub. L. 115–141, § 1201(b)(1), inserted “Any employer who violates [section 203(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/m/2/B&num=0&edition=prelim) shall be liable to the employee or employees affected in the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and in an additional equal amount as liquidated damages.” after second sentence and struck out “either of” after “liability prescribed in”.
 
 Subsec. (c). Pub. L. 115–141, § 1201(b)(2), inserted at end “The authority and requirements described in this subsection shall apply with respect to a violation of [section 203(m)(2)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section203/m/2/B&num=0&edition=prelim), as appropriate, and the employer shall be liable for the amount of the sum of any tip credit taken by the employer and all such tips unlawfully kept by the employer, and an additional equal amount as liquidated damages.”
@@ -2126,6 +2129,9 @@ Subsec. (e). Pub. L. 93–259, § 25(c), added subsec. (e).
 1949—Subsec. (c). Act Oct. 26, 1949, added subsec. (c).
 
 1947—Subsec. (b). Act May 14, 1947, struck out provisions relating to the designation by employee or employees of an agent or representative to maintain an action under this section for and on behalf of all employees similarly situated and inserted provisions relating to the requirement that no employee shall be a party plaintiff unless he gives his consent in writing and such consent is filed with the court.
+
+#### Effective Date of 2022 Amendment
+Amendment by Pub. L. 117–328 effective 120 days after Dec. 29, 2022, see section 103(b) of div. KK of Pub. L. 117–328, set out as a note under [section 215 of this title](./chapter-008-fair-labor-standards.md#section-215).
 
 #### Effective Date of 2008 Amendment
 Pub. L. 110–233, title III, § 302(b), May 21, 2008, 122 Stat. 922, provided that: “The amendments made by this section [amending this section] shall take effect on the date of the enactment of this Act [May 21, 2008].”
@@ -2315,6 +2321,116 @@ Amendment by Pub. L. 112–10 effective as if included in the provisions of, and
 This title, referred to in subsec. (a)(2), (5), probably means title I of Pub. L. 111–148, Mar. 23, 2011, 124 Stat. 130. For complete classification of title I to the Code, see Tables.
 
 [Section 2087(b) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2087/b&num=0&edition=prelim), referred to in subsec. (b)(1), was in the original “[section 2807(b) of title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2807/b&num=0&edition=prelim)”, and probably should have read “section 40(b) of the Consumer Product Safety Act”, which is classified to [section 2087(b) of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2087/b&num=0&edition=prelim), Commerce and Trade.
+
+
+<a id="section-218d"></a>
+## § 218d. Breastfeeding accommodations in the workplace
+**(a) In general** An employer shall provide—
+
+(1) a reasonable break time for an employee to express breast milk for such employee’s nursing child for 1 year after the child’s birth each time such employee has need to express the milk; and
+
+(2) a place, other than a bathroom, that is shielded from view and free from intrusion from coworkers and the public, which may be used by an employee to express breast milk.
+
+**(b) Compensation**
+
+(1) **In general** — Subject to paragraph (2), an employer shall not be required to compensate an employee receiving reasonable break time under subsection (a)(1) for any time spent during the workday for such purpose unless otherwise required by Federal or State law or municipal ordinance.
+
+(2) **Relief from duties** — Break time provided under subsection (a)(1) shall be considered hours worked if the employee is not completely relieved from duty during the entirety of such break.
+
+**(c) Exemption for small employers** An employer that employs less than 50 employees shall not be subject to the requirements of this section, if such requirements would impose an undue hardship by causing the employer significant difficulty or expense when considered in relation to the size, financial resources, nature, or structure of the employer’s business.
+
+**(d) Exemption for crewmembers of air carriers**
+
+(1) **In general** — An employer that is an air carrier shall not be subject to the requirements of this section with respect to an employee of such air carrier who is a crewmember 11 So in original. Probably should be followed by a period.
+
+(2) **Definitions** — In this subsection:
+
+  (A) *Air carrier* — The term “air carrier” has the meaning given such term in [section 40102 of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section40102&num=0&edition=prelim).
+
+  (B) *Crewmember* — The term “crewmember” has the meaning given such term in section 1.1 of title 14, Code of Federal Regulations (or successor regulations).
+
+**(e) Applicability to rail carriers**
+
+(1) **In general** — Except as provided in paragraph (2), an employer that is a rail carrier shall be subject to the requirements of this section.
+
+(2) **Certain employees** — An employer that is a rail carrier shall be subject to the requirements of this section with respect to an employee of such rail carrier who is a member of a train crew involved in the movement of a locomotive or rolling stock or who is an employee who maintains the right of way, provided that compliance with the requirements of this section does not—
+
+  (A) require the employer to incur significant expense, such as through the addition of such a member of a train crew in response to providing a break described in subsection (a)(1) to another such member of a train crew, removal or retrofitting of seats, or the modification or retrofitting of a locomotive or rolling stock; or
+
+  (B) result in unsafe conditions for an individual who is an employee who maintains the right of way.
+
+(3) **Significant expense** — For purposes of paragraph (2)(A), it shall not be considered a significant expense to modify or retrofit a locomotive or rolling stock by installing a curtain or other screening protection.
+
+(4) **Definitions** — In this subsection:
+
+  (A) *Employee who maintains the right of way* — The term “employee who maintains the right of way” means an employee who is a safety-related railroad employee described in [section 20102(4)(C) of title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section20102/4/C&num=0&edition=prelim).
+
+  (B) *Rail carrier* — The term “rail carrier” means an employer described in [section 213(b)(2) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section213/b/2&num=0&edition=prelim).
+
+  (C) *Train crew* — The term “train crew” has the meaning given such term as used in chapter II of subtitle B of title 49, Code of Federal Regulations (or successor regulations).
+
+**(f) Applicability to motorcoach services operators**
+
+(1) **In general** — Except as provided in paragraph (2), an employer that is a motorcoach services operator shall be subject to the requirements of this section.
+
+(2) **Employees who are involved in the movement of a motorcoach** — An employer that is a motorcoach services operator shall be subject to the requirements of this section with respect to an employee of such motorcoach services operator who is involved in the movement of a motorcoach provided that compliance with the requirements of this section does not—
+
+  (A) require the employer to incur significant expense, such as through the removal or retrofitting of seats, the modification or retrofitting of a motorcoach, or unscheduled stops; or
+
+  (B) result in unsafe conditions for an employee of a motorcoach services operator or a passenger of a motorcoach.
+
+(3) **Significant expense** — For purposes of paragraph (2)(A), it shall not be considered a significant expense—
+
+  (A) to modify or retrofit a motorcoach by installing a curtain or other screening protection if an employee requests such a curtain or other screening protection; or
+
+  (B) for an employee to use scheduled stop time to express breast milk.
+
+(4) **Definitions** — In this subsection:
+
+  (A) *Motorcoach; motorcoach services* — The terms “motorcoach” and “motorcoach services” have the meanings given the terms in section 32702 of the Motorcoach Enhanced Safety Act of 2012 ([49 U.S.C. 31136](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136&num=0&edition=prelim) note).
+
+  (B) *Motorcoach services operator* — The term “motorcoach services operator” means an entity that offers motorcoach services.
+
+**(g) Notification prior to commencement of action**
+
+(1) **In general** — Except as provided in paragraph (2), before commencing an action under [section 216(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section216/b&num=0&edition=prelim) for a violation of subsection (a)(2), an employee shall—
+
+  (A) notify the employer of such employee of the failure to provide the place described in such subsection; and
+
+  (B) provide the employer with 10 days after such notification to come into compliance with such subsection with respect to the employee.
+
+(2) **Exceptions** — Paragraph (1) shall not apply in a case in which—
+
+  (A) the employee has been discharged because the employee—
+
+    (i) has made a request for the break time or place described in subsection (a); or
+
+    (ii) has opposed any employer conduct related to this section; or
+
+  (B) the employer has indicated that the employer has no intention of providing the place described in subsection (a)(2).
+
+**(h) Interaction with State and Federal law**
+
+(1) **Laws providing greater protection** — Nothing in this section shall preempt a State law or municipal ordinance that provides greater protections to employees than the protections provided for under this section.
+
+(2) **No effect on title 49 preemption** — This section shall have no effect on the preemption of a State law or municipal ordinance that is preempted under subtitle IV, V, or VII of title 49.
+
+### Statutory Notes
+
+#### References in Text
+The Motorcoach Enhanced Safety Act of 2012, referred to in subsec. (f)(4)(A), is subtitle G of title II of div. C of Pub. L. 112–141, which is set out as a note under [section 31136 of Title 49](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title49-section31136&num=0&edition=prelim), Transportation.
+
+#### Prior Provisions
+Provisions similar to those in subsecs. (a) to (c) of this section were contained in [section 207(r) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section207/r&num=0&edition=prelim) prior to repeal by Pub. L. 117–328, § 102(a)(1).
+
+#### Effective Date
+Section effective on Dec. 29, 2022, see section 103(a) of div. KK of Pub. L. 117–328, set out as an Effective Date of 2022 Amendment note under [section 207 of this title](./chapter-008-fair-labor-standards.md#section-207).
+
+#### Delayed Application of Law to Employees of Rail Carriers
+Pub. L. 117–328, div. KK, § 103(d), Dec. 29, 2022, 136 Stat. 6096, provided that: “(1) In general.—Section 18D of the Fair Labor Standards Act of 1938 [[29 U.S.C. 218d](./chapter-008-fair-labor-standards.md#section-218d)] (as added by section 102(a)) shall not apply to employees who are members of a train crew involved in the movement of a locomotive or rolling stock or who are employees who maintain the right of way of an employer that is a rail carrier until the date that is 3 years after the date of enactment of this Act [Dec. 29, 2022]. “(2) Definitions.—In this subsection:“(A) Employee; employer.—The terms ‘employee’ and ‘employer’ have the meanings given such terms in section 3 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 203](./chapter-008-fair-labor-standards.md#section-203)). “(B) Employees [sic] who maintains the right of way; rail carrier; train crew.—The terms ‘employee who maintains the right of way’, ‘rail carrier’, and ‘train crew’ have the meanings given such terms in section 18D(e)(4) of the Fair Labor Standards Act of 1938 [[29 U.S.C. 218d(e)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section218d/e/4&num=0&edition=prelim)], as added by section 102(a).”
+
+#### Delayed Application of Law to Employees of Motorcoach Services Operators
+Pub. L. 117–328, div. KK, § 103(e), Dec. 29, 2022, 136 Stat. 6097, provided that: “(1) In general.—Section 18D of the Fair Labor Standards Act of 1938 [[29 U.S.C. 218d](./chapter-008-fair-labor-standards.md#section-218d)] (as added by section 102(a)) shall not apply to employees who are involved in the movement of a motorcoach of an employer that is a motorcoach services operator until the date that is 3 years after the date of enactment of this Act [Dec. 29, 2022]. “(2) Definitions.—In this subsection:“(A) Employee; employer.—The terms ‘employee’ and ‘employer’ have the meanings given such terms in section 3 of the Fair Labor Standards Act of 1938 ([29 U.S.C. 203](./chapter-008-fair-labor-standards.md#section-203)). “(B) Motorcoach; motorcoach services operator.—The terms ‘motorcoach’ and ‘motorcoach services operator’ have the meanings given such terms in section 18D(f)(4) of the Fair Labor Standards Act of 1938 [[29 U.S.C. 218d(f)(4)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title29-section218d/f/4&num=0&edition=prelim)], as added by section 102(a).”
 
 
 <a id="section-219"></a>

@@ -8,12 +8,53 @@ source: >-
 ---
 <a id="section-1431"></a>
 ## § 1431. Authorization; official approval; Congressional action: notification of committees of certain proposed obligations, resolution of disapproval, continuity of session, computation of period
+**(a)** The President may authorize any department or agency of the Government which exercises functions in connection with the national defense, acting in accordance with regulations prescribed by the President for the protection of the Government, to enter into contracts or into amendments or modifications of contracts heretofore or hereafter made and to make advance payments thereon, without regard to other provisions of law relating to the making, performance, amendment, or modification of contracts, whenever he deems that such action would facilitate the national defense. The authority conferred by this section shall not be utilized to obligate the United States in an amount in excess of $500,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or an assistant head or his deputy, of such department or agency, or by a Contract Adjustment Board established therein. The authority conferred by this section may not be utilized to obligate the United States in an amount in excess of $150,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department in which the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft, have been notified in writing of such proposed obligation and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die at the end of a Congress, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die other than at the end of a Congress, are excluded in the computation of such 60-day period.
 
-The President may authorize any department or agency of the Government which exercises functions in connection with the national defense, acting in accordance with regulations prescribed by the President for the protection of the Government, to enter into contracts or into amendments or modifications of contracts heretofore or hereafter made and to make advance payments thereon, without regard to other provisions of law relating to the making, performance, amendment, or modification of contracts, whenever he deems that such action would facilitate the national defense. The authority conferred by this section shall not be utilized to obligate the United States in an amount in excess of $50,000 without approval by an official at or above the level of an Assistant Secretary or his Deputy, or an assistant head or his deputy, of such department or agency, or by a Contract Adjustment Board established therein. The authority conferred by this section may not be utilized to obligate the United States in any amount in excess of $25,000,000 unless the Committees on Armed Services of the Senate and the House of Representatives and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department in which the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft, have been notified in writing of such proposed obligation and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees. For purposes of this section, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die at the end of a Congress, and the days on which either House is not in session because of an adjournment of more than 3 days to a day certain, or because of an adjournment sine die other than at the end of a Congress, are excluded in the computation of such 60-day period.
+**(b) Temporary Authority to Modify Certain Contracts and Options Based on the Impacts of Inflation.—** Only amounts specifically provided by an appropriations Act for the purposes detailed in subsections (c) and (d) of this section may be used by the Secretary of Defense to carry out such subsections. If any such amounts are so specifically provided, the Secretary may use them for such purposes.
+
+**(c)**
+
+(1) The Secretary of Defense, acting pursuant to a Presidential authorization under subsection (a) and in accordance with subsection (b)—
+
+  (A) may, notwithstanding subsection (e) of [section 1432 of this title](./chapter-029-national-defense-contracts.md#section-1432), make an amendment or modification to an eligible contract when, due solely to economic inflation, the cost to a prime contractor of performing such eligible contract is greater than the price of such eligible contract; and
+
+  (B) may not request consideration from such prime contractor for such amendment or modification.
+
+(2) A prime contractor may submit to the Secretary of Defense a request for an amendment or modification to an eligible contract pursuant to subsection (a) when, due solely to economic inflation, the cost to a covered subcontractor of performing an eligible subcontract is greater than the price of such eligible subcontract. Such request shall include a certification that the prime contractor—
+
+  (A) will remit to such covered subcontractor the difference, if any, between the original price of such eligible contract and the price of such eligible contract if the Secretary of Defense makes an amendment or modification pursuant to subsection (a); and
+
+  (B) will not require such covered subcontractor to pay additional consideration or fees related to such amendment or modification.
+
+(3) If a prime contractor does not make the request described in paragraph (2), a covered subcontractor may submit to a contracting officer of the Department of Defense a request for an amendment or modification to an eligible subcontract when, due solely to economic inflation, the cost to such covered subcontractor of performing such eligible subcontract is greater than the price of such eligible subcontract.
+
+**(d)** Any adjustment or modification made pursuant to subsection (c) to an eligible contract or an eligible subcontract shall—
+
+(1) be contingent upon the continued performance, as applicable, of such eligible contract or such eligible subcontract; and
+
+(2) account only for the actual cost of performing such eligible contract or such eligible subcontract, but may account for indirect costs of performance, as the Secretary of Defense determines appropriate.
+
+**(e)** The authority under subsections (c) and (d) shall be effective during the period beginning on December 23, 2022, and ending on December 31, 2024.
+
+**(f)** In this section:
+
+(1) The term “covered subcontractor” means a subcontractor who has entered into an eligible subcontract with a prime contractor.
+
+(2) The term “eligible contract” means a contract awarded to a prime contractor by the Secretary of Defense pursuant to subsection (a).
+
+(3) The term “eligible subcontract” means a subcontract made under an eligible contract to a covered subcontractor.
 
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (b). Pub. L. 118–31, § 824(1), inserted at end “If any such amounts are so specifically provided, the Secretary may use them for such purposes.”
+
+Subsec. (e). Pub. L. 118–31, § 824(2), substituted “December 31, 2024” for “December 31, 2023”.
+
+2022—Pub. L. 117–263, § 822(a)(1), (4), inserted section 1 designation in original Act, designated existing provisions as subsec. (a), and added subsecs. (b) to (f).
+
+Subsec. (a). Pub. L. 117–263, § 822(a)(2), (3), substituted “an amount in excess of $500,000” for “an amount in excess of $50,000” and “an amount in excess of $150,000,000” for “any amount in excess of $25,000,000”.
+
 2019—Pub. L. 116–92, in third sentence, inserted “and in addition, the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate with respect to contracts, or modifications or amendments to contracts, or advance payments proposed to be made under this section by the Secretary of the Department in which the Coast Guard is operating with respect to the acquisition of Coast Guard cutters or aircraft,” after “House of Representatives”.
 
 1991—Pub. L. 102–25, § 705(f)(1), inserted before period at end of third sentence “and 60 days of continuous session of Congress have expired following the date on which such notice was transmitted to such Committees”.
@@ -29,6 +70,9 @@ Pub. L. 102–25, title VII, § 705(f)(1), Apr. 6, 1991, 105 Stat. 120, provided
 
 #### Nonapplicability of National Emergencies Act
 The provisions of the National Emergencies Act [see Short Title note set out under [section 1601 of this title](./chapter-034-national-emergencies.md#section-1601)] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see [section 1651(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1651/a/4&num=0&edition=prelim).
+
+#### Guidance
+Pub. L. 117–263, div. A, title VIII, § 822(b), Dec. 23, 2022, 136 Stat. 2711, provided that: “Not later than 90 days after the date of the enactment of an Act providing appropriations to carry out section 1 of Public Law 85–804 ([50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431)) (as added by subsection (a)), the Under Secretary of Defense for Acquisition and Sustainment shall issue guidance implementing the authority under subsections (b) through (d) of section 1 of Public Law 85–804 ([50 U.S.C. 1431](./chapter-029-national-defense-contracts.md#section-1431)) (as added by subsection (a)).”
 
 #### Obligations Entered Into Before November 16, 1973
 Pub. L. 93–155, title VIII, § 807(e), Nov. 16, 1973, 87 Stat. 616, provided that: “The amendments made by this section [amending this section, sections 3816 and 4532 of this title, and [section 2307 of Title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section2307&num=0&edition=prelim), Armed Forces] shall not affect the carrying out of any contract, loan, guarantee, commitment, or other obligation entered into prior to the date of enactment of this section [Nov. 16, 1973].”
@@ -227,14 +271,14 @@ If the clause is omitted based on a determination under clause (2), a written re
 #### Amendments
 1966—Subsec. (b). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors from the requirement for an examination-of-records clause, such determination to be reported to Congress.
 
+#### Nonapplicability of the National Emergencies Act
+The provisions of the National Emergencies Act [see Short Title note set out under [section 1601 of this title](./chapter-034-national-emergencies.md#section-1601)] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see [section 1651(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1651/a/4&num=0&edition=prelim).
+
 #### Exemption of Functions
 Functions with respect to purchases authorized to be made outside the limits of the United States or the District of Columbia under the Foreign Assistance Act of 1961, as amended [see Short Title note set out under [section 2151 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2151&num=0&edition=prelim), Foreign Relations and Intercourse], as exempt, see Ex. Ord. No. 11223, eff. May 12, 1965, 30 F.R. 6635, set out under [section 2393 of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section2393&num=0&edition=prelim).
 
 #### Foreign Contractors
 Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determine, prior to exercising the authority provided in the amendment by Pub. L. 89–607 to exempt certain contracts with foreign contractors from the requirement of an examination-of-records clause, that all reasonable efforts have been made to include such examination-of-records clause, as required by par. 11 of Part I of Ex. Ord. No. 10789, and that alternate sources of supply are not reasonably available, see par. 11 of Part I of Ex. Ord. No. 10789, eff. Nov. 14, 1958, 23 F.R. 8897, as amended, set out under [section 1431 of this title](./chapter-029-national-defense-contracts.md#section-1431).
-
-#### Nonapplicability of the National Emergencies Act
-The provisions of the National Emergencies Act [see Short Title note set out under [section 1601 of this title](./chapter-034-national-emergencies.md#section-1601)] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see [section 1651(a)(4) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title50-section1651/a/4&num=0&edition=prelim).
 
 
 <a id="section-1434"></a>

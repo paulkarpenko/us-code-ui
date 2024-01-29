@@ -571,7 +571,7 @@ The Postmaster General or his delegate shall at least once a month transfer to t
 ### Statutory Notes
 
 #### References in Text
-The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, as amended, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
+The Federal Insurance Contributions Act, referred to in text, is act Aug. 16, 1954, ch. 736, §§ 3101, 3102, 3111, 3112, 3121 to 3128, 68A Stat. 415, which is classified generally to chapter 21 (§ 3101 et seq.) of this title. For complete classification of this Act to the Code, see [section 3128 of this title](./chapter-021-federal-insurance-contributions-act.md#section-3128) and Tables.
 
 #### Amendments
 1976—Pub. L. 94–455 substituted “United States Postal Service” for “Post Office Department” in section catchline and wherever appearing in text, “such Service” for “such Department”, and struck out “, together with the receipts required to be deposited under section 6803(a),” after “Treasury of the United States” and “or his delegate” after “Secretary”.
@@ -1278,7 +1278,7 @@ Pub. L. 100–647, title VI, § 6233(c), Nov. 10, 1988, 102 Stat. 3735, provided
 ### Statutory Notes
 
 #### References in Text
-The Social Security Act, referred to in subsec. (b)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
+The Social Security Act, referred to in subsec. (b)(3)(C), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1305&num=0&edition=prelim) and Tables.
 
 #### Codification
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.

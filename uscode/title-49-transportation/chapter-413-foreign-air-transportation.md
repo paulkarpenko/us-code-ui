@@ -563,7 +563,7 @@ Section effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a
 
 (15) **Training of employees and agents.—** — An assurance that the foreign air carrier will provide adequate training to the employees and agents of the carrier to meet the needs of survivors and family members following an accident.
 
-(16) **Consultation on carrier response not covered by plan.—** — An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, will consult 11 So in original. Probably should be “the foreign air carrier will consult”. with the Board and the Department of State on the provision of the assistance.
+(16) **Consultation on carrier response not covered by plan.—** — An assurance that, in the event that the foreign air carrier volunteers assistance to United States citizens within the United States with respect to an aircraft accident outside the United States involving any loss of life, the foreign air carrier shall consult with the Board and the Department of State on the provision of the assistance.
 
 (17) **Notice concerning liability for manmade structures.—**
 
@@ -583,6 +583,8 @@ Section effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a
 The date of the enactment of this section, referred to in subsec. (c), is the date of enactment of Pub. L. 105–148, which was approved Dec. 16, 1997.
 
 #### Amendments
+2024—Subsec. (c)(16). Pub. L. 118–63 substituted “the foreign air carrier shall consult” for “will consult”.
+
 2018—Subsec. (b). Pub. L. 115–254, § 1109(b)(1), substituted “any loss of life” for “a major loss of life”.
 
 Subsec. (c)(1). Pub. L. 115–254, § 1109(b)(2)(A), substituted “any loss of life” for “a significant loss of life”.

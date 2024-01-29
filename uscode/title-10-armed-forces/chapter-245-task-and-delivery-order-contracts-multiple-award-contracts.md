@@ -289,6 +289,12 @@ This section not to be construed as modifying or superseding, or as intended to 
 
 (2) **Who is eligible.—** — The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency’s competition advocate.
 
+**(h) Architectural and Engineering Services.—**
+
+(1) **Qualification-based selections required.—** — Task or delivery orders for architectural and engineering services issued under section 3403 or 3405 of this title shall be qualification-based selections executed in accordance with chapter 11 of title 40.
+
+(2) **Multiple award contracts.—** — When issuing a task or delivery order for architectural and engineering services under a multiple award contract, the head of an agency may not routinely request additional information relating to qualifications from the contractor for such multiple award contract.
+
 ### Statutory Notes
 
 #### Prior Provisions
@@ -319,6 +325,8 @@ Section 3449, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided that temporar
 A prior section 3450, act Aug. 10, 1956, ch. 1041, 70A Stat. 197, provided for suspension of laws for promotion or mandatory retirement or separation during war or emergency of temporary warrant officers of the Army, prior to repeal by Pub. L. 90–235, § 3(b)(1), Jan. 2, 1968, 81 Stat. 758.
 
 #### Amendments
+2022—Subsec. (h). Pub. L. 117–263 added subsec. (h).
+
 2021—Pub. L. 116–283, § 1820(e)(1), (2), renumbered [section 2304c of this title](./chapter-chapter-137-chapter-chapter-137.md#section-2304c) as this section, redesignated subsecs. (g), (a), (b), (c), (e), and (f) as (a), (b), (c), (e), (f), and (g), respectively, and reordered subsecs. accordingly.
 
 Subsec. (a). Pub. L. 116–283, § 1820(e)(3), substituted “sections 3403 and 3405” for “sections 2304a and 2304b”.

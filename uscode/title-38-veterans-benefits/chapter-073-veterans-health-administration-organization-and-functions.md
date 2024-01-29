@@ -2,7 +2,7 @@
 title: 38
 chapter: '73'
 heading: VETERANS HEALTH ADMINISTRATION—ORGANIZATION AND FUNCTIONS
-section_count: 50
+section_count: 53
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -69,8 +69,103 @@ source: >-
 #### Amendments
 2014—Subsec. (e). Pub. L. 113–146 added subsec. (e).
 
+#### Information on Certain Veterans With Prior Medical Occupations; Program on Intermediate Care Technicians of Department of Veterans Affairs
+Pub. L. 117–263, div. E, title LI, § 5127, Dec. 23, 2022, 136 Stat. 3220, provided that: “(a) Update of Web Portal to Identify Certain Veterans.—“(1) Update.—The Secretary of Veterans Affairs shall update web portals of the Department of Veterans Affairs to provide for a method by which a veteran who served in a medical occupation while serving as a member of the Armed Forces may elect to provide the information described in paragraph (2). “(2) Information in portal.—The information described in this paragraph is the following:“(A) Contact information for the veteran. “(B) A history of the medical experience and trained competencies of the veteran. “(3) Inclusions in history.—To the extent practicable, the history of a veteran provided under paragraph (2)(B) shall include individual critical task lists specific to the military occupational specialty of the veteran that align with standard occupational codes maintained by the Commissioner of the Bureau of Labor Statistics. “(4) Sharing of information.—For purposes of facilitating civilian medical credentialing and hiring opportunities for veterans seeking to respond to a national emergency, including a public health emergency declared by the Secretary of Health and Human Services under section 319 of the Public Health Service Act ([42 U.S.C. 247d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section247d&num=0&edition=prelim)), the Secretary of Veterans Affairs, in coordination with the Secretary of Defense and the Secretary of Labor, shall establish a program to share the information described in paragraph (2) with the following:“(A) State departments of veterans affairs. “(B) Veterans service organizations. “(C) State credentialing bodies. “(D) State homes. “(E) Other stakeholders involved in State-level credentialing, as determined appropriate by the Secretary of Veterans Affairs. “(b) Program on Training of Intermediate Care Technicians of Department of Veterans Affairs.—“(1) Establishment.—The Secretary of Veterans Affairs shall establish a program to train, certify, and employ covered veterans as intermediate care technicians of the Department of Veterans Affairs. “(2) Locations.—The Secretary of Veterans Affairs may assign an intermediate care technician of the Department of Veterans Affairs trained under the program under paragraph (1) to any medical center of the Department of Veterans Affairs, giving priority to locations with a significant staffing shortage. “(3) Inclusion of information in transition assistance program.—As part of the Transition Assistance Program under sections 1142 and 1144 of title 10, United States Code, the Secretary of Veterans Affairs shall conduct a communications campaign to convey to appropriate members of the Armed Forces separating from active duty opportunities for training, certification, and employment under the program under paragraph (1). “(4) Report on expansion of program.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Veterans Affairs shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report on whether the program under paragraph (1) may be replicated for other medical positions within the Department of Veterans Affairs. “(c) Notification of Opportunities for Veterans.—The Secretary of Veterans Affairs shall notify veterans service organizations and, in coordination with the Secretary of Defense, members of the reserve components of the Armed Forces of opportunities for veterans under this section. “(d) Definitions.—In this section:“(1) The term ‘covered veteran’ means a veteran whom the Secretary of Veterans Affairs determines served as a basic health care technician while serving in the Armed Forces. “(2) The terms ‘State home’ and ‘veteran’ have the meanings given those terms in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code. “(3) The term ‘veterans service organization’ means an organization that provides services to veterans, including organizations recognized by the Secretary of Veterans Affairs under [section 5902 of title 38](./chapter-059-agents-and-attorneys.md#section-5902), United States Code.”
+
 #### Pilot Program on Graduate Medical Education and Residency
-Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, § 211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, § 5107, Oct. 1, 2020, 134 Stat. 749, provided that: “(a) Establishment.—“(1) In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under [section 7302 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7302), United States Code, at covered facilities. “(2) Covered facilities.—For purposes of this section, a covered facility is any of the following:“(A) A health care facility of the Department of Veterans Affairs. “(B) A health care facility operated by an Indian tribe or a tribal organization, as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)). “(C) A health care facility operated by the Indian Health Service. “(D) A Federally-qualified health center, as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d&num=0&edition=prelim)(l)(2)(B)). “(E) A health care facility operated by the Department of Defense. “(F) Such other health care facility as the Secretary considers appropriate for purposes of this section. “(3) Agreements.—To carry out the pilot program under this section, the Secretary may enter into agreements with entities that operate covered facilities in which the Secretary places residents under paragraph (1). “(4) Parameters for location, affiliate sponsor, and duration.—When determining in which covered facilities to place residents under paragraph (1), the Secretary shall consider the extent to which there is a clinical need for providers in an area, as determined by the following:“(A) The ratio of veterans to health care providers of the Department for a standardized geographic area surrounding a facility, including a separate ratio for general practitioners and specialists. “(B) The range of clinical specialties of providers in standardized geographic areas surrounding a facility. “(C) Whether the specialty of a provider is included in the most recent staffing shortage determination of the Department under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code. “(D) Whether the local community is designated by the Secretary of Veterans Affairs as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(E) Whether the facility is located in a community that is designated by the Secretary of Health and Human Services as a health professional shortage area under section 332 of the Public Health Service Act ([42 U.S.C. 254e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e&num=0&edition=prelim)). “(F) Whether the facility is located in a rural or remote area. “(G) Such other criteria as the Secretary considers important in determining which facilities are not adequately serving area veterans. “(5) Priority in placements.—During the pilot program under this section, the Secretary shall place no fewer than 100 residents in covered facilities—“(A) operated by the Indian Health Service; “(B) operated by an Indian tribe; “(C) operated by a tribal organization; or “(D) located in communities designated by the Secretary as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note]. “(6) Stipends and benefits.—The Secretary may pay stipends and provide benefits for residents in positions under paragraph (1), regardless of whether they have been assigned in a Department facility. “(b) Reimbursement.—If a covered facility establishes a new residency program in which the Secretary places a resident under the pilot program, the Secretary shall reimburse that covered facility for costs of the following:“(1) Curriculum development. “(2) Recruitment and retention of faculty. “(3) Accreditation of the program by the Accreditation Council for Graduate Medical Education. “(4) The portion of faculty salaries attributable to duties under an agreement under subsection (a)(3). “(5) Expenses relating to educating a resident under the pilot program. “(c) Reporting.—“(1) In general.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018] and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program. “(2) Elements.—Each report submitted under paragraph (1) shall include the following with regard to the immediately preceding year, and in comparison to the year immediately preceding that year:“(A) The number of veterans who received care from residents under the pilot program. “(B) The number of veterans who received care from each resident per position described in subsection (a)(1) under the pilot program. “(C) The number of veterans who received care from residents under the pilot program expressed as a percentage of all individuals who received care from such residents. “(D) The number of clinical appointments for veterans conducted by each resident under the pilot program. “(E) The number of clinical appointments for veterans conducted by residents per position described in subsection (a)(1) under the pilot program. “(F) The number of clinical appointments for veterans expressed as a percentage of all clinical appointments conducted by residents under the pilot program. “(G) The number of positions described in subsection (a)(1) at each covered facility under the pilot program. “(H) For each position described in subsection (a)(1) in a residency program affiliated with a health care facility of the Department, the time a resident under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for that resident position. “(I) For each residency program affiliated with a health care facility of the Department, the time all residents under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for those residents. “(J) The time that all residents under the pilot program who are assigned to programs affiliated with health care facilities of the Department spent training at facilities of the Department, expressed as a percentage of the total training time for those residents. “(K) The cost to the Department of Veterans Affairs under the pilot program in the year immediately preceding the report and since the beginning of the pilot program. “(L) The cost to the Department of Veterans Affairs per resident placed under the pilot program at each covered facility. “(M) The number of residents under the pilot program hired by the Secretary to work in the Veterans Health Administration after completion of residency in the year immediately preceding the report and since the beginning of the pilot program. “(N) The medical specialties pursued by residents under the pilot program. “(d) Duration.—The pilot program under this section shall terminate on August 7, 2031.”
+Pub. L. 115–182, title IV, § 403, June 6, 2018, 132 Stat. 1472, as amended by Pub. L. 115–251, title II, § 211(b)(9), Sept. 29, 2018, 132 Stat. 3177; Pub. L. 116–159, div. E, title I, § 5107, Oct. 1, 2020, 134 Stat. 749, provided that: “(a) Establishment.—“(1) In general.—Subject to paragraph (5), the Secretary of Veterans Affairs shall establish a pilot program to establish medical residency positions authorized under [section 7302 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7302), United States Code, at covered facilities.”
+
+“(2) Covered facilities.—For purposes of this section, a covered facility is any of the following:
+
+“(A) A health care facility of the Department of Veterans Affairs.
+
+“(B) A health care facility operated by an Indian tribe or a tribal organization, as those terms are defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)).
+
+“(C) A health care facility operated by the Indian Health Service.
+
+“(D) A Federally-qualified health center, as defined in section 1905(l)(2)(B) of the Social Security Act ([42 U.S.C. 1396d](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396d&num=0&edition=prelim)(l)(2)(B)).
+
+“(E) A health care facility operated by the Department of Defense.
+
+“(F) Such other health care facility as the Secretary considers appropriate for purposes of this section.
+
+“(3) Agreements.—To carry out the pilot program under this section, the Secretary may enter into agreements with entities that operate covered facilities in which the Secretary places residents under paragraph (1).
+
+“(4) Parameters for location, affiliate sponsor, and duration.—When determining in which covered facilities to place residents under paragraph (1), the Secretary shall consider the extent to which there is a clinical need for providers in an area, as determined by the following:
+
+“(A) The ratio of veterans to health care providers of the Department for a standardized geographic area surrounding a facility, including a separate ratio for general practitioners and specialists.
+
+“(B) The range of clinical specialties of providers in standardized geographic areas surrounding a facility.
+
+“(C) Whether the specialty of a provider is included in the most recent staffing shortage determination of the Department under [section 7412 of title 38](./chapter-074-veterans-health-administration-personnel.md#section-7412), United States Code.
+
+“(D) Whether the local community is designated by the Secretary of Veterans Affairs as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note].
+
+“(E) Whether the facility is located in a community that is designated by the Secretary of Health and Human Services as a health professional shortage area under section 332 of the Public Health Service Act ([42 U.S.C. 254e](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section254e&num=0&edition=prelim)).
+
+“(F) Whether the facility is located in a rural or remote area.
+
+“(G) Such other criteria as the Secretary considers important in determining which facilities are not adequately serving area veterans.
+
+“(5) Priority in placements.—During the pilot program under this section, the Secretary shall place no fewer than 100 residents in covered facilities—
+
+“(A) operated by the Indian Health Service;
+
+“(B) operated by an Indian tribe;
+
+“(C) operated by a tribal organization; or
+
+“(D) located in communities designated by the Secretary as underserved pursuant to criteria developed under section 401 of this Act [[38 U.S.C. 8110](./chapter-081-acquisition-and-operation-of-hospital-and-domiciliary-facilities-procurement-and-supply-enhanced-use-leases-of-real-property.md#section-8110) note].
+
+“(6) Stipends and benefits.—The Secretary may pay stipends and provide benefits for residents in positions under paragraph (1), regardless of whether they have been assigned in a Department facility.
+
+“(b) Reimbursement.—If a covered facility establishes a new residency program in which the Secretary places a resident under the pilot program, the Secretary shall reimburse that covered facility for costs of the following:
+
+“(1) Curriculum development.
+
+“(2) Recruitment and retention of faculty.
+
+“(3) Accreditation of the program by the Accreditation Council for Graduate Medical Education.
+
+“(4) The portion of faculty salaries attributable to duties under an agreement under subsection (a)(3).
+
+“(5) Expenses relating to educating a resident under the pilot program.
+
+“(c) Reporting.—
+
+“(1) In general.—Not later than 1 year after the date of the enactment of this Act [June 6, 2018] and not less frequently than once each year thereafter until the termination of the pilot program, the Secretary shall submit to Congress a report on the implementation of the pilot program.
+
+“(2) Elements.—Each report submitted under paragraph (1) shall include the following with regard to the immediately preceding year, and in comparison to the year immediately preceding that year:
+
+“(A) The number of veterans who received care from residents under the pilot program.
+
+“(B) The number of veterans who received care from each resident per position described in subsection (a)(1) under the pilot program.
+
+“(C) The number of veterans who received care from residents under the pilot program expressed as a percentage of all individuals who received care from such residents.
+
+“(D) The number of clinical appointments for veterans conducted by each resident under the pilot program.
+
+“(E) The number of clinical appointments for veterans conducted by residents per position described in subsection (a)(1) under the pilot program.
+
+“(F) The number of clinical appointments for veterans expressed as a percentage of all clinical appointments conducted by residents under the pilot program.
+
+“(G) The number of positions described in subsection (a)(1) at each covered facility under the pilot program.
+
+“(H) For each position described in subsection (a)(1) in a residency program affiliated with a health care facility of the Department, the time a resident under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for that resident position.
+
+“(I) For each residency program affiliated with a health care facility of the Department, the time all residents under the pilot program spent training at that facility of the Department, expressed as a percentage of the total training time for those residents.
+
+“(J) The time that all residents under the pilot program who are assigned to programs affiliated with health care facilities of the Department spent training at facilities of the Department, expressed as a percentage of the total training time for those residents.
+
+“(K) The cost to the Department of Veterans Affairs under the pilot program in the year immediately preceding the report and since the beginning of the pilot program.
+
+“(L) The cost to the Department of Veterans Affairs per resident placed under the pilot program at each covered facility.
+
+“(M) The number of residents under the pilot program hired by the Secretary to work in the Veterans Health Administration after completion of residency in the year immediately preceding the report and since the beginning of the pilot program.
+
+“(N) The medical specialties pursued by residents under the pilot program.
+
+“(d) Duration.—The pilot program under this section shall terminate on August 7, 2031.”
 
 #### Ten-year Increase
 Pub. L. 113–146, title III, § 301(b)(2), Aug. 7, 2014, 128 Stat. 1785, as amended by Pub. L. 114–315, title VI, § 617(a), Dec. 16, 2016, 130 Stat. 1577, provided that: “(A) In general.—In carrying out [section 7302(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7302/e&num=0&edition=prelim), United States Code, as added by paragraph (1), during the 10-year period beginning on the day that is 1 year after the date of the enactment of this Act [Aug. 7, 2014], the Secretary of Veterans Affairs shall increase the number of graduate medical education residency positions at medical facilities of the Department by up to 1,500 positions. “(B) Priority.—In increasing the number of graduate medical education residency positions at medical facilities of the Department under subparagraph (A), the Secretary shall give priority to medical facilities that—“(i) as of the date of the enactment of this Act, do not have a medical residency program; and “(ii) are located in a community that has a high concentration of veterans.”
@@ -133,6 +228,9 @@ Section 204(b)(3) of the Rehabilitation Act of 1973, referred to in subsec. (b),
 1994—Pub. L. 103–452 transferred text of subsec. (c) to the end of subsec. (a)(1), struck out subsec. (c) designation, and added new subsecs. (c) and (d).
 
 1992—Subsec. (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+
+#### Expansion of Suicide Prevention and Mental Health Research
+Pub. L. 117–328, div. V, title V, § 506, Dec. 29, 2022, 136 Stat. 5516, provided that: “(a) Research on Moral Injury.—The Secretary of Veterans Affairs, acting through the Office of Research and Development of the Department of Veterans Affairs, shall conduct suicide prevention and mental health care improvement research on how moral injury relates to the mental health needs of veterans who served in the Armed Forces after September 11, 2001, and best practices for mental health treatment for such veterans. “(b) Authorization of Appropriations.—There is authorized to be appropriated to the Department of Veterans Affairs an additional $10,000,000 to be used by the Center of Excellence for Suicide Prevention of the Department and the Rocky Mountain Mental Illness Research Education and Clinical Center for purposes of conducting research on the factors impacting veteran suicide and best practices for early intervention and support.”
 
 #### Use by Department of Veterans Affairs of Commercial Institutional Review Boards in Sponsored Research Trials
 Pub. L. 116–171, title VII, § 704, Oct. 17, 2020, 134 Stat. 829, provided that: “(a) In General.—Not later than 90 days after the date of the enactment of this Act [Oct. 17, 2020], the Secretary of Veterans Affairs shall complete all necessary policy revisions within the directive of the Veterans Health Administration numbered 1200.05 and titled ‘Requirements for the Protection of Human Subjects in Research’, to allow sponsored clinical research of the Department of Veterans Affairs to use accredited commercial institutional review boards to review research proposal protocols of the Department. “(b) Identification of Review Boards.—Not later than 90 days after the completion of the policy revisions under subsection (a), the Secretary shall—“(1) identify accredited commercial institutional review boards for use in connection with sponsored clinical research of the Department; and “(2) establish a process to modify existing approvals in the event that a commercial institutional review board loses its accreditation during an ongoing clinical trial. “(c) Report.—“(1) In general.—Not later than 90 days after the completion of the policy revisions under subsection (a), and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on all approvals of institutional review boards used by the Department, including central institutional review boards and commercial institutional review boards. “(2) Elements.—The report required by paragraph (1) shall include, at a minimum, the following:“(A) The name of each clinical trial with respect to which the use of an institutional review board has been approved. “(B) The institutional review board or institutional review boards used in the approval process for each clinical trial. “(C) The amount of time between submission and approval.”
@@ -468,6 +566,12 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
 
   (C) A detailed analysis of demand for and unmet need for readjustment counseling services and the Secretary’s plan for meeting such unmet need, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers.
 
+  (D) A description of actions taken by the Secretary to reduce—
+
+    (i) vacancies in counselor positions in the Readjustment Counseling Service; and
+
+    (ii) the time it takes to hire such counselors.
+
 (3) For each even numbered year in which the report required by paragraph (1) is submitted, the Secretary shall include in such report a prediction of—
 
   (A) trends in demand for care;
@@ -483,6 +587,8 @@ Subsec. (d). Pub. L. 112–154 added subsec. (d).
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (e)(2)(D). Pub. L. 117–263 added subpar. (D).
+
 2020—Subsec. (e)(2)(C). Pub. L. 116–171, § 504(a), inserted before period at end “, including the resources required to meet such unmet need, such as additional staff, additional locations, additional infrastructure, infrastructure improvements, and additional mobile Vet Centers”.
 
 Subsec. (e)(3). Pub. L. 116–171, § 504(b), added par. (3).
@@ -490,6 +596,9 @@ Subsec. (e)(3). Pub. L. 116–171, § 504(b), added par. (3).
 2016—Subsec. (e)(1). Pub. L. 114–315 substituted “fiscal year” for “calendar year”.
 
 2015—Subsec. (c)(1). Pub. L. 114–58 inserted “the” before “Veterans Health Administration”.
+
+#### Improvement of Vet Centers at Department of Veterans Affairs
+Pub. L. 117–263, div. E, title LI, § 5126, Dec. 23, 2022, 136 Stat. 3213, provided that: “(a) Productivity Expectations for Readjustment Counselors of Vet Centers.—“(1) Evaluation of productivity expectations.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Veterans Affairs shall evaluate productivity expectations for readjustment counselors of Vet Centers, including by obtaining systematic feedback from counselors on such expectations, including with respect to following:“(A) Any potential effects of productivity expectations, whether positive or negative, on client care and the welfare of readjustment counselors. “(B) Distances readjustment counselors may travel to appointments, especially with respect to serving rural veterans. “(C) The possibility that some veterans may not want to use nor benefit from telehealth or group counseling. “(D) Availability and access of veteran populations to broadband and telehealth. “(E) Any effect of productivity expectations on readjustment counselors, including with respect to recruitment, retention, and welfare. “(F) Whether productivity expectations provide incentives or pressure to inaccurately report client visits. “(G) Whether directors and readjustment counselors of Vet Centers need additional training or guidance on how productivity expectations are calculated. “(H) Such other criteria as the Secretary considers appropriate. “(2) Systematic feedback.—“(A) In general.—The Secretary shall—“(i) make every effort to ensure that all readjustment counselors of Vet Centers are given the opportunity to fully provide feedback, positive or negative, including through a survey containing open- and close-ended questions, on all items under paragraph (1); “(ii) in obtaining feedback under paragraph (1), ensure that the items under paragraph (1) are adequately and completely addressed in a way that permits responses to be relevant to the evaluation of productivity expectations; “(iii) collect and safely store the feedback obtained under paragraph (1)— “(I) in an electronic database that cannot be altered by any party; “(II) in an anonymized manner, in order to protect the privacy of each respondent; and “(III) in a manner that allows for evaluation by third parties of the feedback, such as audit of the feedback by the Government Accountability Office; and “(iv) provide the feedback obtained under paragraph (1) in an anonymized manner to the working group established under subsection (c). “(B) Government accountability office audit.—Not less frequently than once each year during the five-year period beginning on the date of the enactment of this Act, the Comptroller General of the United States shall audit the feedback obtained from readjustment counselors of Vet Centers under paragraph (1). “(3) Implementation of changes.—Not later than 90 days after the date of the completion of the evaluation required by paragraph (1), the Secretary shall implement any needed changes to the productivity expectations described in such paragraph in order to ensure—“(A) quality of care and access to care for veterans; and “(B) the welfare of readjustment counselors. “(4) Report to congress.—Not later than 180 days after the date of the completion of the evaluation required by paragraph (1), the Secretary shall submit to Congress a report on—“(A) the findings of the evaluation; and “(B) any planned or implemented changes described in paragraph (3). “(5) Plan for reassessment and implementation.—“(A) Plan.—Not later than one year after the date of the enactment of this Act, the Secretary shall develop and implement a plan for—“(i) reassessing productivity expectations for readjustment counselors of Vet Centers, in consultation with such counselors; and “(ii) implementing any needed changes to such expectations, as the Secretary determines appropriate. “(B) Reassessments.—Under the plan required by subparagraph (A), the Secretary shall conduct a reassessment described in such paragraph not less frequently than once each year. “(b) Staffing Model for Vet Centers.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Veterans Affairs shall develop and implement a staffing model for Vet Centers that incorporates key practices in the design of such staffing model. “(2) Elements.—In developing the staffing model under paragraph (1), the Secretary shall—“(A) involve key stakeholders, including readjustment counselors, outreach specialists, and directors of Vet Centers; “(B) incorporate key work activities and the frequency and time required to conduct such activities; “(C) ensure the data used in the model is high quality to provide assurance that staffing estimates are reliable; and “(D) incorporate—“(i) risk factors, including case complexity; “(ii) geography; “(iii) availability, advisability, and willingness of veterans to use telehealth or group counseling; and “(iv) such other factors as the Secretary considers appropriate. “(3) Plan for assessments and updates.—Not later than one year after the date of the enactment of this Act, the Secretary shall develop a plan for—“(A) assessing and updating the staffing model developed and implemented under paragraph (1) not less frequently than once every four years; and “(B) implementing any needed changes to such model, as the Secretary determines appropriate. “(c) Working Group of Readjustment Counselors, Outreach Specialists, and Directors of Vet Centers.—“(1) In general.—In conducting the evaluation of productivity expectations under subsection (a) (1) and developing the staffing model for Vet Centers under subsection (b)(1), the Secretary of Veterans Affairs shall establish a working group to assess—“(A) the efficacy, impact, and composition of performance metrics for such expectations with respect to—“(i) quality of care and access to care for veterans; and “(ii) the welfare of readjustment counselors and other employees of Vet Centers; and “(B) key considerations for the development of such staffing model, including with respect to—“(i) quality of care and access to care for veterans and other individuals eligible for care through Vet Centers; and “(ii) recruitment, retention, and welfare of employees of Vet Centers. “(2) Membership.—The working group established under paragraph (1) shall be composed of readjustment counselors, outreach specialists, and directors of Vet Centers. “(3) Feedback and recommendations.—The working group established under paragraph (1) shall provide to the Secretary—“(A) feedback from readjustment counselors, outreach specialists, and directors of Vet Centers; and “(B) recommendations on how to improve—“(i) quality of care and access to care for veterans; and “(ii) the welfare of readjustment counselors and other employees of Vet Centers. “(d) Improvements of Hiring Practices at Vet Centers.—“(1) Standardization of position descriptions.—“(A) In general.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Veterans Affairs shall standardize descriptions of position responsibilities at Vet Centers. “(B) Reporting requirement.—In each of the first two annual reports submitted under [section 7309(e) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7309/e&num=0&edition=prelim), United States Code, after the date of the enactment of this Act, the Secretary shall include a description of the actions taken by the Secretary to carry out subparagraph (A). “(2) Expansion of reporting requirements on readjustment counseling to include actions to reduce staffing vacancies and time to hire.— [Amended this section.] “(e) Report by Government Accountability Office on Vet Center Infrastructure and Future Investments.—“(1) In general.—Not later than one year after the date of the enactment of this Act [Dec. 23, 2022], the Comptroller General of the United States shall submit to Congress a report on physical infrastructure and future investments with respect to Vet Centers. “(2) Elements.—The report required by paragraph (1) shall include the following:“(A) An assessment of—“(i) the condition of the physical infrastructure of all assets of Vet Centers, whether owned or leased by the Department of Veterans Affairs; and “(ii) the short-, medium-, and long-term plans of the Department to maintain and upgrade the physical infrastructure of Vet Centers to address the operational needs of Vet Centers as of the date of the submittal of the report and future needs. “(B) An assessment of management and strategic planning for the physical infrastructure of Vet Centers, including whether the Department should buy or lease existing or additional locations in areas with stable or growing populations of veterans. “(C) An assessment of whether, as of the date of the submittal of the report, Vet Center buildings, mobile Vet Centers, community access points, and similar infrastructure are sufficient to care for veterans or if such infrastructure is negatively affecting care due to limited space for veterans and Vet Center personnel or other factors. “(D) An assessment of the areas with the greatest need for investments in—“(i) improved physical infrastructure, including upgraded Vet Centers; or “(ii) additional physical infrastructure for Vet Centers, including new Vet Centers owned or leased by the Department. “(E) A description of the authorities and resources that may be required for the Secretary to make such investments. “(F) A review of all annual reports submitted under 7309(e) of title 38, United States Code, before the date of the submittal of the report under paragraph (1). “(f) Pilot Program to Combat Food Insecurity Among Veterans and Family Members of Veterans.—“(1) In general.—Not later than 18 months after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Veterans Affairs shall establish a pilot program to award grants to eligible entities to support partnerships that address food insecurity among veterans and family members of veterans who receive services through Vet Centers or other facilities of the Department as determined by the Secretary. “(2) Duration of pilot.—The Secretary shall carry out the pilot program for a three-year period beginning on the date of the establishment of the pilot program. “(3) Training and technical assistance.—The Secretary may provide eligible entities receiving grant funding under the pilot program with training and technical assistance on the provision of food insecurity assistance services to veterans and family members of veterans. “(4) Eligible entities.—For purposes of the pilot program, an eligible entity is—“(A) a nonprofit organization; “(B) an organization recognized by the Secretary for the representation of veterans under [section 5902 of title 38](./chapter-059-agents-and-attorneys.md#section-5902), United States Code; “(C) a public agency; “(D) a community-based organization; or “(E) an institution of higher education. “(5) Application.—An eligible entity seeking a grant under the pilot program shall submit to the Secretary an application therefor at such time, in such manner, and containing such information and commitments as the Secretary may require. “(6) Selection.—The Secretary shall select eligible entities that submit applications under paragraph (5) for the award of grants under the pilot program using a competitive process that takes into account the following:“(A) Capacity of the applicant entity to serve veterans and family members of veterans. “(B) Demonstrated need of the population the applicant entity would serve. “(C) Demonstrated need of the applicant entity for assistance from the grant. “(D) Such other criteria as the Secretary considers appropriate. “(7) Distribution.—The Secretary shall ensure, to the extent practicable, an equitable geographic distribution of grants awarded under this subsection. “(8) Minimum program requirements.—Any grant awarded under this subsection shall be used—“(A) to coordinate with the Secretary with respect to the provision of assistance to address food insecurity among veterans and family members of veterans described in paragraph (1); “(B) to increase participation in nutrition counseling programs and provide educational materials and counseling to veterans and family members of veterans to address food insecurity and healthy diets among those individuals; “(C) to increase access to and enrollment in Federal assistance programs, including the supplemental nutrition assistance program under the Food and Nutrition Act of 2008 ([7 U.S.C. 2011](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title7-section2011&num=0&edition=prelim) et seq.), the special supplemental nutrition program for women, infants, and children established by section 17 of the Child Nutrition Act of 1966 ([42 U.S.C. 1786](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1786&num=0&edition=prelim)), the low-income home energy assistance program established under the Low-Income Home Energy Assistance Act of 1981 ([42 U.S.C. 8621](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section8621&num=0&edition=prelim) et seq.), and any other assistance program that the Secretary considers advisable; and “(D) to fulfill such other criteria as the Secretary considers appropriate to further the purpose of the grant and serve veterans. “(9) Provision of information.—Each entity that receives a grant under this subsection shall provide to the Secretary, at least once each year during the duration of the grant term, data on—“(A) the number of veterans and family members of veterans screened for, and enrolled in, programs described in subparagraphs (B) and (C) of paragraph (8); “(B) other services provided by the entity to veterans and family members of veterans using funds from the grant; and “(C) such other data as the Secretary may require. “(10) Report on data collected.—For each year of operation of the pilot program, the Secretary shall submit to the appropriate committees of Congress a report on the data collected under paragraph (9) during such year. “(11) Government accountability office report.—“(A) In general.—Not later than one year after the date on which the pilot program terminates, the Comptroller General of the United States shall submit to Congress a report evaluating the effectiveness and outcomes of the activities carried out under this subsection in reducing food insecurity among veterans and family members of veterans. “(B) Elements.—The report required by subparagraph (A) shall include the following:“(i) A summary of the activities carried out under this subsection. “(ii) An assessment of the effectiveness and outcomes of the grants awarded under this subsection, including with respect to eligibility screening contacts, application assistance consultations, and changes in food insecurity among the population served by the grant. “(iii) Best practices regarding the use of partnerships to improve the effectiveness and outcomes of public benefit programs to address food insecurity among veterans and family members of veterans. “(iv) An assessment of the feasibility and advisability of making the pilot program permanent and expanding to other locations. “(12) Authorization of appropriations.—“(A) In general.—There is authorized to be appropriated to carry out the pilot program established under paragraph (1) $15,000,000 for each fiscal year in which the program is carried out, beginning with the fiscal year in which the program is established. “(B) Administrative expenses.—Of the amounts authorized to be appropriated under subparagraph (A), not more than ten percent may be used for administrative expenses of the Department of Veterans Affairs associated with administering grants under this subsection. “(13) Definitions.—In this subsection:“(A) The term ‘appropriate committees of Congress’ means—“(i) the Committee on Veterans’ Affairs, the Committee on Appropriations, and the Committee on Agriculture, Nutrition, and Forestry of the Senate; and “(ii) the Committee on Veterans’ Affairs, the Committee on Appropriations, and the Committee on Agriculture of the House of Representatives. “(B) The term ‘facilities of the Department’ has the meaning given that term in [section 1701(3) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1701/3&num=0&edition=prelim), United States Code. “(C) The term ‘institution of higher education’ has the meaning given that term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title20-section1001&num=0&edition=prelim)). “(D) The term ‘public agency’ means a department, agency, other unit, or instrumentality of Federal, State, Tribal, or local government. “(E) The term ‘State’ has the meaning given that term in [section 101(20) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section101/20&num=0&edition=prelim), United States Code. “(F) The term ‘veteran’ means an individual who served in the Armed Forces, including an individual who served in a reserve component of the Armed Forces, and who was discharged or released therefrom, regardless of the conditions of such discharge or release. “(g) Definition of Vet Center.—In this section, the term ‘Vet Center’ has the meaning given that term in [section 1712A(h) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1712A/h&num=0&edition=prelim), United States Code.”
 
 
 <a id="section-7309a"></a>
@@ -967,7 +1076,7 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 
 (3) The panel shall review each proposal submitted to the panel by the Assistant Under Secretary and shall submit its views on the relative scientific and clinical merit of each such proposal to the Assistant Under Secretary.
 
-(4) The panel shall not be subject to the Federal Advisory Committee Act.
+(4) The panel shall not be subject to chapter 10 of title 5.
 
 **(e)** Before providing funds for the operation of any such center at a health-care facility other than a health-care facility designated under subsection (b)(1), the Secretary shall assure that the center at each facility designated under such subsection is receiving adequate funding to enable such center to function effectively in the areas of geriatric research, education, and clinical activities.
 
@@ -980,9 +1089,9 @@ The date of the enactment of this section, referred to in subsec. (d)(2), is the
 #### References in Text
 The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(1), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes below and under former [section 4101 of this title](./chapter-041-job-counseling-training-and-placement-service-for-veterans.md#section-4101). For the purposes of title III, see section 301 of Pub. L. 96–330, set out below. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under [section 101 of this title](./chapter-001-general.md#section-101) and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (d)(4). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2008—Subsec. (f). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 1994—Subsec. (b)(1). Pub. L. 103–446, § 1202(b)(2), amended Pub. L. 102–83, § 4(a)(3), (4), to make it inapplicable to this section. See 1991 Amendment note below.
@@ -1068,7 +1177,7 @@ Subsec. (c)(2). Pub. L. 102–405, § 102, amended par. (2) generally. Prior to 
 Pub. L. 103–446, title XII, § 1202(b), Nov. 2, 1994, 108 Stat. 4689, provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-7316"></a>
@@ -1292,7 +1401,7 @@ Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, required 
 
 (3) The panel shall review each proposal submitted to the panel by the official referred to in paragraph (1) and shall submit to that official its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit.
 
-(4) The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
+(4) The panel shall not be subject to chapter 10 of title 5.
 
 **(f)** Clinical and scientific investigation activities at each center established under this section—
 
@@ -1318,10 +1427,9 @@ Pub. L. 104–262, title III, § 321(c), Oct. 9, 1996, 110 Stat. 3195, required 
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (e)(4). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
+
 2008—Subsec. (j)(2). Pub. L. 110–387 substituted “medical services account” for “medical care account”.
 
 #### Annual Reports On and Designation of Centers
@@ -1535,11 +1643,14 @@ The Under Secretary for Health shall ensure that—
 
 **(b) Report Elements.—** Each report under subsection (a) shall specify for the period covered by such report, for each Department medical facility and for each geographic service area of the Department, the following:
 
-(1) The number of waivers requested under the authority referred to in subsection (a)(2), and the number of waivers granted under that authority, to promote to the Nurse II grade or Nurse III grade under the Nurse Schedule under [section 7404(b)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/b/1&num=0&edition=prelim) any nurse who has not completed a baccalaureate degree in nursing in a recognized school of nursing, set forth by age, race, and years of experience of the individuals subject to such waiver requests and waivers, as the case may be.
+(1) The number of waivers requested under the authority referred to in subsection (a)(2), and the number of waivers granted under that authority, to promote to the Nurse II grade or Nurse III grade under the Nurse Schedule under section 7404(b)(1) 11 See References in Text note below. of this title any nurse who has not completed a baccalaureate degree in nursing in a recognized school of nursing, set forth by age, race, and years of experience of the individuals subject to such waiver requests and waivers, as the case may be.
 
 (2) The programs carried out to facilitate the use of nursing education programs by experienced nurses, including programs for flexible scheduling, scholarships, salary replacement pay, and on-site classes.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 7404(b) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7404/b&num=0&edition=prelim), referred to in subsec. (b)(1), was amended by Pub. L. 108–445, § 3(a), Dec. 3, 2004, 118 Stat. 2636. As so amended, section 7404(b) no longer includes paragraphs. The Nurse Schedule appears under section 7404(b).
 
 #### Initial Report
 Pub. L. 107–135, title I, § 125(b), Jan. 23, 2002, 115 Stat. 2453, required that the initial report under this section be submitted to the National Commission on VA Nursing as well as to Congress.
@@ -1622,7 +1733,7 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness [now Assistant Secretary for Preparedness and Response] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Peer Review for Designation of Centers
-Pub. L. 107–287, § 2(b), Nov. 7, 2002, 116 Stat. 2027, provided that: “(1) In order to assist the Secretary of Veterans Affairs and the Under Secretary of Veterans Affairs for Health in selecting sites for centers under [section 7325 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7325), United States Code, as added by subsection (a), the Under Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of such centers. The peer review panel shall be established in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions. “(2) The peer review panel shall include experts in the fields of toxicological research, infectious diseases, radiology, clinical care of patients exposed to such hazards, and other persons as determined appropriate by the Secretary. Members of the panel shall serve as consultants to the Department of Veterans Affairs. “(3) The panel shall review each proposal submitted to the panel by the officials referred to in paragraph (1) and shall submit to the Under Secretary for Health its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit. “(4) The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.).”
+Pub. L. 107–287, § 2(b), Nov. 7, 2002, 116 Stat. 2027, as amended by Pub. L. 117–286, § 4(a)(221), Dec. 27, 2022, 136 Stat. 4330, provided that: “(1) In order to assist the Secretary of Veterans Affairs and the Under Secretary of Veterans Affairs for Health in selecting sites for centers under [section 7325 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7325), United States Code, as added by subsection (a), the Under Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the designation of such centers. The peer review panel shall be established in consultation with the Assistant Secretary of Veterans Affairs with responsibility for operations, preparedness, security, and law enforcement functions. “(2) The peer review panel shall include experts in the fields of toxicological research, infectious diseases, radiology, clinical care of patients exposed to such hazards, and other persons as determined appropriate by the Secretary. Members of the panel shall serve as consultants to the Department of Veterans Affairs. “(3) The panel shall review each proposal submitted to the panel by the officials referred to in paragraph (1) and shall submit to the Under Secretary for Health its views on the relative scientific and clinical merit of each such proposal. The panel shall specifically determine with respect to each such proposal whether that proposal is among those proposals which have met the highest competitive standards of scientific and clinical merit. “(4) The panel shall not be subject to chapter 10 of title 5, United States Code.”
 
 
 <a id="section-7326"></a>
@@ -1845,7 +1956,7 @@ For transfer of functions, personnel, assets, and liabilities of the National Di
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness [now Assistant Secretary for Preparedness and Response] relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under [section 542 of Title 6](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title6-section542&num=0&edition=prelim).
 
 #### Enhancement of Medical Preparedness of Department of Veterans Affairs
-Pub. L. 108–422, title III, § 303(a), (b), Nov. 30, 2004, 118 Stat. 2386, provided that: “(a) Peer Review Panel.—In order to assist the Secretary of Veterans Affairs in selecting facilities of the Department of Veterans Affairs to serve as sites for centers under [section 7328 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7328), United States Code, as added by subsection (c), the Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the selection of such facilities. The panel shall be established not later than 90 days after the date of the enactment of this Act [Nov. 30, 2004] and shall include experts in the fields of toxicological research, infectious diseases, radiology, clinical care of veterans exposed to such hazards, and other persons as determined appropriate by the Secretary. Members of the panel shall serve as consultants to the Department of Veterans Affairs. Amounts available to the Secretary for Medical Care may be used for purposes of carrying out this subsection. The panel shall not be subject to the Federal Advisory Committee Act (5 U.S.C. App.). “(b) Proposals.—The Secretary shall solicit proposals for designation of facilities as described in subsection (a). The announcement of the solicitation of such proposals shall be issued not later than 60 days after the date of the enactment of this Act, and the deadline for the submission of proposals in response to such solicitation shall be not later than 90 days after the date of such announcement. The peer review panel established under subsection (a) shall complete its review of the proposals and submit its recommendations to the Secretary not later than 60 days after the date of the deadline for the submission of proposals. The Secretary shall then select the four sites for the location of such centers not later than 45 days after the date on which the peer review panel submits its recommendations to the Secretary.”
+Pub. L. 108–422, title III, § 303(a), (b), Nov. 30, 2004, 118 Stat. 2386, as amended by Pub. L. 117–286, § 4(a)(222), Dec. 27, 2022, 136 Stat. 4330, provided that: “(a) Peer Review Panel.—In order to assist the Secretary of Veterans Affairs in selecting facilities of the Department of Veterans Affairs to serve as sites for centers under [section 7328 of title 38](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7328), United States Code, as added by subsection (c), the Secretary shall establish a peer review panel to assess the scientific and clinical merit of proposals that are submitted to the Secretary for the selection of such facilities. The panel shall be established not later than 90 days after the date of the enactment of this Act [Nov. 30, 2004] and shall include experts in the fields of toxicological research, infectious diseases, radiology, clinical care of veterans exposed to such hazards, and other persons as determined appropriate by the Secretary. Members of the panel shall serve as consultants to the Department of Veterans Affairs. Amounts available to the Secretary for Medical Care may be used for purposes of carrying out this subsection. The panel shall not be subject to chapter 10 of title 5, United States Code. “(b) Proposals.—The Secretary shall solicit proposals for designation of facilities as described in subsection (a). The announcement of the solicitation of such proposals shall be issued not later than 60 days after the date of the enactment of this Act, and the deadline for the submission of proposals in response to such solicitation shall be not later than 90 days after the date of such announcement. The peer review panel established under subsection (a) shall complete its review of the proposals and submit its recommendations to the Secretary not later than 60 days after the date of the deadline for the submission of proposals. The Secretary shall then select the four sites for the location of such centers not later than 45 days after the date on which the peer review panel submits its recommendations to the Secretary.”
 
 
 <a id="section-7329"></a>
@@ -1906,7 +2017,7 @@ Pub. L. 108–422, title III, § 303(a), (b), Nov. 30, 2004, 118 Stat. 2386, pro
 
 (3) The panel shall review each proposal submitted to the panel by the Under Secretary and shall submit its views on the relative scientific and clinical merit of each such proposal to the Under Secretary.
 
-(4) The panel shall not be subject to the Federal Advisory Committee Act.
+(4) The panel shall not be subject to chapter 10 of title 5.
 
 **(e) Priority of Funding.—** Before providing funds for the operation of a center designated under subsection (a) at a Department health-care facility other than at a facility designated pursuant to subsection (b)(2), the Secretary shall ensure that each Parkinson’s Disease center at a facility designated pursuant to subsection (b)(2) is receiving adequate funding to enable that center to function effectively in the areas of Parkinson’s Disease research, education, and clinical activities.
 
@@ -1916,11 +2027,11 @@ Pub. L. 108–422, title III, § 303(a), (b), Nov. 30, 2004, 118 Stat. 2386, pro
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), Dec. 21, 2006, 120 Stat. 3308, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under [section 101 of this title](./chapter-001-general.md#section-101).
+
+#### Amendments
+2022—Subsec. (d)(4). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
 #### Effective Date
 Pub. L. 109–461, title II, § 209(b), Dec. 22, 2006, 120 Stat. 3418, provided that: “Sections 7329 and 7330 of title 38, United States Code, as added by subsection (a), shall take effect at the end of the 30-day period beginning on the date of the enactment of this Act [Dec. 22, 2006].”
@@ -1986,7 +2097,7 @@ Pub. L. 109–444, § 6(b), Dec. 21, 2006, 120 Stat. 3312, which provided that t
 
 (3) The panel shall review each proposal submitted to the panel by the Under Secretary and shall submit its views on the relative scientific and clinical merit of each such proposal to the Under Secretary.
 
-(4) The panel shall not be subject to the Federal Advisory Committee Act.
+(4) The panel shall not be subject to chapter 10 of title 5.
 
 **(e) Priority of Funding.—** Before providing funds for the operation of a center designated under subsection (a) at a Department health-care facility other than at a facility designated pursuant to subsection (b)(2), the Secretary shall ensure that each multiple sclerosis center at a facility designated pursuant to subsection (b)(2) is receiving adequate funding to enable that center to function effectively in the areas of multiple sclerosis research, education, and clinical activities.
 
@@ -1996,11 +2107,11 @@ Pub. L. 109–444, § 6(b), Dec. 21, 2006, 120 Stat. 3312, which provided that t
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Codification
 A substantially identical section enacted by Pub. L. 109–444, § 6(a)(1), Dec. 21, 2006, 120 Stat. 3310, was repealed by Pub. L. 109–461, title X, § 1006(b), Dec. 22, 2006, 120 Stat. 3468, set out as a Coordination of Provisions With Pub. L. 109–444 note under [section 101 of this title](./chapter-001-general.md#section-101).
+
+#### Amendments
+2022—Subsec. (d)(4). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
 #### Effective Date
 Section effective at the end of the 30-day period beginning Dec. 22, 2006, see section 209(b) of Pub. L. 109–461, set out as a note under [section 7329 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7329).
@@ -2042,7 +2153,7 @@ Section effective at the end of the 30-day period beginning Dec. 22, 2006, see s
 
 (4) The peer review panel shall, in conjunction with the national coordinator designated under subsection (e), conduct regular evaluations of each epilepsy center of excellence established and operated under subsection (a) to ensure compliance with the requirements of this section.
 
-(5) The peer review panel shall not be subject to the Federal Advisory Committee Act.
+(5) The peer review panel shall not be subject to chapter 10 of title 5.
 
 **(d) Epilepsy Center of Excellence Defined.—** In this section, the term “epilepsy center of excellence” means a health care facility that has (or in the foreseeable future can develop) the necessary capacity to function as a center of excellence in research, education, and clinical care activities in the diagnosis and treatment of epilepsy and has (or may reasonably be anticipated to develop) each of the following:
 
@@ -2095,7 +2206,8 @@ Section effective at the end of the 30-day period beginning Dec. 22, 2006, see s
 #### References in Text
 The date of the enactment of the Veterans’ Mental Health and Other Care Improvements Act of 2008, referred to in subsec. (a)(1), is the date of enactment of Pub. L. 110–387, which was approved Oct. 10, 2008.
 
-The Federal Advisory Committee Act, referred to in subsec. (c)(5), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c)(5). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
 
 
 <a id="section-7330b"></a>
@@ -2246,6 +2358,12 @@ Subsec. (b)(2)(I). Pub. L. 115–251, § 211(a)(11)(B), inserted “of this titl
 Subsec. (c)(1). Pub. L. 115–251, § 211(a)(11)(C)(i), substituted “a high-performing” for “such high performing”.
 
 Subsec. (c)(3). Pub. L. 115–251, § 211(a)(11)(C)(ii), inserted “such” before “a high-performing”.
+
+
+<a id="section-7330d"></a>
+## § 7330D. Inapplicability of Paperwork Reduction Act to research activities
+
+Subchapter I of chapter 35 of title 44 (commonly referred to as the “Paperwork Reduction Act”) shall not apply to the voluntary collection of information during the conduct of research by the Veterans Health Administration, including the Office of Research and Development, or individuals or entities affiliated with the Veterans Health Administration.
 
 
 <a id="section-7331"></a>
@@ -2443,11 +2561,11 @@ Pub. L. 100–322, title I, § 124, May 20, 1988, 102 Stat. 505, as amended by P
 ### Statutory Notes
 
 #### References in Text
-Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, as amended, which was set out as a note under section 289l–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, § 302(b), Nov. 9, 1978, 92 Stat. 3442.
+Section 201 of the National Research Act, referred to in subsec. (b)(1), is section 201 of Pub. L. 93–348, title II, July 12, 1974, 88 Stat. 348, which was set out as a note under section 289l–1 of Title 42, The Public Health and Welfare, and was repealed by Pub. L. 95–622, title III, § 302(b), Nov. 9, 1978, 92 Stat. 3442.
 
-The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 ([42 U.S.C. 4551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4551&num=0&edition=prelim) et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, as amended, which is classified principally to chapter 60 (§ 4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4541 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4541&num=0&edition=prelim) and Tables.
+The Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment, and Rehabilitation Act of 1970 ([42 U.S.C. 4551](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4551&num=0&edition=prelim) et seq.), referred to in subsec. (b)(2), is Pub. L. 91–616, Dec. 31, 1970, 84 Stat. 1848, which is classified principally to chapter 60 (§ 4541 et seq.) of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 4541 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section4541&num=0&edition=prelim) and Tables.
 
-The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, as amended, which is classified principally to chapter 16 (§ 1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1101&num=0&edition=prelim) and Tables.
+The Drug Abuse Office and Treatment Act of 1972, referred to in subsec. (b)(2), which was redesignated the Drug Abuse Prevention, Treatment, and Rehabilitation Act, is Pub. L. 92–255, Mar. 21, 1972, 86 Stat. 65, which is classified principally to chapter 16 (§ 1101 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under [section 1101 of Title 21](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title21-section1101&num=0&edition=prelim) and Tables.
 
 [Section 7332(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section7332/b/2/C&num=0&edition=prelim), referred to in subsec. (c), was formerly a reference to [section 4132(b)(2)(C) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section4132/b/2/C&num=0&edition=prelim) which was redesignated section 4132(b)(2)(D) by Pub. L. 100–322, title I, § 121(b)(2)(A), May 20, 1988, 102 Stat. 502, and subsequently renumbered section 7332(b)(2)(D) by Pub. L. 102–40, title IV, § 401(a)(4)(A), May 7, 1991, 105 Stat. 221. The reference to section 4132(b)(2)(C) in subsec. (c) was amended to reflect the renumbering by Pub. L. 102–40 but not the redesignation by Pub. L. 100–322.
 
@@ -2734,7 +2852,7 @@ A prior section 7365, added Pub. L. 100–322, title II, § 204(a), May 20, 1988
 
   (A) The records of a corporation established under this subchapter shall be available to the Secretary.
 
-  (B) For the purposes of sections 4(a)(1) and 6(a)(1) of the Inspector General Act of 1978, the programs and operations of such a corporation shall be considered to be programs and operations of the Department with respect to which the Inspector General of the Department has responsibilities under such Act.
+  (B) For the purposes of sections 404(a)(1) and 406(a)(1) of title 5, the programs and operations of such a corporation shall be considered to be programs and operations of the Department with respect to which the Inspector General of the Department has responsibilities under chapter 4 of title 5.
 
 (2) Such a corporation shall be considered an agency for the purposes of [section 716 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section716&num=0&edition=prelim) (relating to availability of information and inspection of records by the Comptroller General).
 
@@ -2784,10 +2902,9 @@ A prior section 7365, added Pub. L. 100–322, title II, § 204(a), May 20, 1988
 
 ### Statutory Notes
 
-#### References in Text
-The Inspector General Act of 1978, referred to in subsec. (a)(1)(B), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a)(1)(B). Pub. L. 117–286 substituted “sections 404(a)(1) and 406(a)(1) of title 5,” for “sections 4(a)(1) and 6(a)(1) of the Inspector General Act of 1978,” and “chapter 4 of title 5.” for “such Act.”
+
 2010—Subsec. (b). Pub. L. 111–163, § 806(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each such corporation shall submit to the Secretary an annual report providing a detailed statement of its operations, activities, and accomplishments during that year. A corporation with revenues in excess of $300,000 for any year shall obtain an audit of the corporation for that year. A corporation with annual revenues between $10,000 and $300,000 shall obtain an independent audit of the corporation at least once every three years. Any audit under the preceding sentences shall be performed by an independent auditor. The corporation shall include the most recent such audit in the corporation’s report to the Secretary for that year.”
 
 Subsec. (c). Pub. L. 111–163, § 806(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
@@ -2852,3 +2969,31 @@ Section, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 5
 ### Statutory Notes
 
 Section, added Pub. L. 100–322, title II, § 204(a), May 20, 1988, 102 Stat. 512, § 4168; renumbered § 7368, Pub. L. 102–40, title IV, § 401(a)(4)(B), May 7, 1991, 105 Stat. 221; amended Pub. L. 102–291, § 3(b), May 20, 1992, 106 Stat. 179; Pub. L. 104–262, title III, § 343(a), Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title IV, § 402(g), Nov. 1, 2000, 114 Stat. 1863; Pub. L. 108–170, title IV, § 402(c), Dec. 6, 2003, 117 Stat. 2062, related to the expiration of authority for corporations to be established under this subchapter.
+
+
+<a id="section-7381"></a>
+## § 7381. Office of Research and Development
+**(a) Office of Research and Development.—** There is in the Veterans Health Administration an Office of Research and Development (in this section referred to as the “Office”).
+
+**(b) Purposes.—** The function of the Office is to serve veterans through a full spectrum of research (including pre-clinical, clinical, and health systems science), technology transfer, and application.
+
+**(c) Chief Research and Development Officer.—** The head of the Office is the Chief Research and Development Officer.
+
+**(d) Organization and Personnel.—** The Office shall be organized in such manner, and its personnel shall perform such duties and have such titles, as the Secretary may prescribe.
+
+
+<a id="section-7382"></a>
+## § 7382. Research personnel
+**(a) Waiver of Intergovernmental Personnel Act Mobility Program Limits.—** The Secretary may waive the limit on the period and number of assignments required under [section 3372(a) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3372/a&num=0&edition=prelim) with respect to an individual who performs research for the Department under the mobility program under subchapter VI of chapter 33 of such title (commonly referred to as the “Intergovernmental Personnel Act Mobility Program”).
+
+**(b) Outside Earned Income for Research for the Department.—**
+
+(1) Compensation from a nonprofit corporation established under subchapter IV of this chapter, or a university affiliated with the Department, may be paid, without regard to [section 209 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section209&num=0&edition=prelim), to an employee described in paragraph (2), for research conducted pursuant to [section 7303 of this title](./chapter-073-veterans-health-administration-organization-and-functions.md#section-7303) if—
+
+  (A) the research has been approved in accordance with procedures prescribed by the Under Secretary for Health;
+
+  (B) the employee conducts research under the supervision of personnel of the Department; and
+
+  (C) the Secretary agreed to the terms of such compensation in writing.
+
+(2) An employee described in this subsection is an employee who has an appointment within the Department, whether with or without compensation, and without regard to the source of such compensation.

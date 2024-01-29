@@ -401,7 +401,7 @@ Subsec. (a). Pub. L. 114–110, § 8(b), struck out “in the District of Columb
 
   (B) 3 shall be representative of large shipper organizations (as determined by the Chairman).
 
-(4) The Secretary of Transportation and the members of the Board shall serve as ex officio, nonvoting members of the Council. The Council shall not be subject to the Federal Advisory Committee Act. A list of the members appointed to the Council shall be forwarded to the Chairmen and ranking members of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+(4) The Secretary of Transportation and the members of the Board shall serve as ex officio, nonvoting members of the Council. The Council shall not be subject to chapter 10 of title 5. A list of the members appointed to the Council shall be forwarded to the Chairmen and ranking members of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
 (5) Each ex officio member of the Council may designate an alternate, who shall serve as a member of the Council whenever the ex officio member is unable to attend a meeting of the Council. Any such designated alternate shall be selected from individuals who exercise significant decision-making authority in the Federal agency involved.
 
@@ -453,10 +453,9 @@ as designated by the Chairman at the time of appointment. Any member appointed t
 
 ### Statutory Notes
 
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
-
 #### Amendments
+2022—Subsec. (a)(4). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act.”
+
 2015—Pub. L. 114–110 renumbered [section 726 of this title](./chapter-chapter-7-chapter-chapter-7.md#section-726) as this section.
 
 1996—Subsec. (a). Pub. L. 104–287 substituted “December 29, 1995” for “the date of enactment of the ICC Termination Act of 1995” in introductory provisions.
@@ -474,7 +473,7 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92
 
 (3) submit periodic reports to the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Transportation and Infrastructure of the House of Representatives that describe any progress made in implementing actions to address the problems referred to in paragraph (1).
 
-**(c) Access to Information.—** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).
+**(c) Access to Information.—** In carrying out this section, the Inspector General may exercise authorities granted to the Inspector General under subsections (a) and (c) of [section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim).
 
 **(d) Authorization of Appropriations.—**
 
@@ -484,5 +483,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92
 
 ### Statutory Notes
 
-#### References in Text
-Section 6 of the Inspector General Act of 1978, referred to in subsec. (c), is section 6 of Pub. L. 95–452, which is set out in the Appendix to Title 5, Government Organization and Employees.
+#### Amendments
+2022—Subsec. (c). Pub. L. 117–286 substituted “subsections (a) and (c) of [section 406 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section406&num=0&edition=prelim).” for “subsections (a) and (b) of section 6 of the Inspector General Act of 1978 (5 U.S.C. App.).”

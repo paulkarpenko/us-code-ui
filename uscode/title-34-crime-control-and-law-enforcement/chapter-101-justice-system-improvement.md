@@ -2,7 +2,7 @@
 title: 34
 chapter: '101'
 heading: JUSTICE SYSTEM IMPROVEMENT
-section_count: 239
+section_count: 240
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34&num=0&edition=prelim
 ---
@@ -27,7 +27,29 @@ Another prior section 101 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 #### Effective Date
 Pub. L. 98–473, title II, § 609AA, Oct. 12, 1984, 98 Stat. 2107, provided that: “(a) Except as provided in subsection (b), this division and the amendments made by this title [probably means division, see Short Title of 1984 Act note below] shall take effect on the date of the enactment of this joint resolution [Oct. 12, 1984] or October 1, 1984, whichever is later. “(b)(1) The amendment made by section 609F [amending sections 10281, 10282, 10284, and 10285 of this title] shall take effect on October 1, 1984, and shall not apply with respect to injuries sustained before October 1, 1984. “(2) Section 609Z [repealing section 204 of Pub. L. 98–411, which had amended sections 10281, 10282, and 10284 of this title and enacted provisions set out as a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281)] shall take effect on October 1, 1984.”
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–72, § 1, July 30, 2024, 138 Stat. 1503, provided that: “This Act [amending [section 40701 of this title](./chapter-407-dna-identification.md#section-40701)] may be cited as the ‘Debbie Smith Act of 2023’.”
+
+Pub. L. 118–65, § 1, June 17, 2024, 138 Stat. 1439, provided that: “This Act [amending sections 11292, 11293, 11295a, and 11297 of this title] may be cited as the ‘Missing Children’s Assistance Reauthorization Act of 2023’.”
+
+Pub. L. 118–64, § 1, May 24, 2024, 138 Stat. 1435, provided that: “This Act [amending sections 10381 and 10384 of this title] may be cited as the ‘Recruit and Retain Act’.”
+
+#### Short Title of 2023 Amendment
+Pub. L. 117–347, § 1, Jan. 5, 2023, 136 Stat. 6199, provided that: “This Act [see Tables for classification] may be cited as the ‘Abolish Trafficking Reauthorization Act of 2022’.”
+
+Pub. L. 117–330, § 1, Jan. 5, 2023, 136 Stat. 6114, provided that: “This Act [enacting [section 41313 of this title](./chapter-413-crime-reports-and-statistics.md#section-41313)] may be cited as the ‘Sami’s Law’.”
+
 #### Short Title of 2022 Amendment
+Pub. L. 117–328, div. MM, § 101(a), Dec. 29, 2022, 136 Stat. 6106, provided that: “This section [amending [section 20144 of this title](./chapter-201-victim-rights-compensation-and-assistance.md#section-20144)] may be cited as the ‘Fairness for 9/11 Families Act’.”
+
+Pub. L. 117–327, § 1, Dec. 27, 2022, 136 Stat. 4454, provided that: “This Act [enacting sections 40506 to 40508 of this title, amending sections 41307 and 41308 of this title, and enacting provisions set out as a note under [section 40506 of this title](./chapter-405-reporting-of-unidentified-and-missing-persons.md#section-40506)] may be cited as ‘Billy’s Law’ or the ‘Help Find the Missing Act’.”
+
+Pub. L. 117–325, § 1, Dec. 27, 2022, 136 Stat. 4441, provided that: “This Act [enacting [section 10159 of this title](./chapter-101-justice-system-improvement.md#section-10159) and amending sections 10251 and 10381 of this title and [section 3758 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3758&num=0&edition=prelim), The Public Health and Welfare] may be cited as the ‘Law Enforcement De-Escalation Training Act of 2022’.”
+
+Pub. L. 117–323, § 1, Dec. 27, 2022, 136 Stat. 4437, provided that: “This Act [amending [section 10651 of this title](./chapter-101-justice-system-improvement.md#section-10651)] may be cited as the ‘Justice and Mental Health Collaboration Reauthorization Act of 2022’.”
+
+Pub. L. 117–315, § 1, Dec. 27, 2022, 136 Stat. 4404, provided that: “This Act [amending sections 10441 and 12291 of this title] may be cited as the ‘VAWA Technical Amendment Act of 2022’.”
+
 Pub. L. 117–262, § 1, Dec. 21, 2022, 136 Stat. 2394, provided that: “This Act [amending [section 21117 of this title](./chapter-211-combating-child-exploitation.md#section-21117)] may be cited as the ‘Providing Resources, Officers, and Technology to Eradicate Cyber Threats to Our Children Act of 2022’ or the ‘PROTECT Our Children Act of 2022’.”
 
 Pub. L. 117–250, § 1, Dec. 20, 2022, 136 Stat. 2352, provided that: “This Act [amending [section 10701 of this title](./chapter-101-justice-system-improvement.md#section-10701)] may be cited as the ‘Rural Opioid Abuse Prevention Act’.”
@@ -1138,7 +1160,7 @@ Pub. L. 111–211, title II, § 251(c), July 29, 2010, 124 Stat. 2298, provided 
 [For definition of “Indian tribe” as used in section 251(c) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under [section 2801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2801&num=0&edition=prelim), Indians.]
 
 #### Report on Employment of Individuals Formerly Incarcerated in Federal Prisons
-Pub. L. 116–92, div. A, title XI, § 1124, Dec. 20, 2019, 133 Stat. 1614, provided that: “(a) Definition.—In this section, the term ‘covered individual’—“(1) means an individual who has completed a term of imprisonment in a Federal prison for a Federal criminal offense; and “(2) does not include an alien who is or will be removed from the United States for a violation of the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim))). “(b) Study and Report Required.—The Director of the Bureau of Justice Statistics, in coordination with the Director of the Bureau of the Census, shall—“(1) not later than 180 days after the date of enactment of this subtitle [subtitle B of title XI of div. A of Pub. L. 116–92, approved Dec. 20, 2019], design and initiate a study on the employment of covered individuals after their release from Federal prison, including by collecting—“(A) demographic data on covered individuals, including race, age, and sex; and “(B) data on employment and earnings of covered individuals who are denied employment, including the reasons for the denials; and “(2) not later than 2 years after the date of enactment of this subtitle, and every 5 years thereafter, submit a report that does not include any personally identifiable information on the study conducted under paragraph (1) to—“(A) the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Health, Education, Labor, and Pensions of the Senate; “(C) the Committee on Oversight and Reform of the House of Representatives; and “(D) the Committee on Education and Labor of the House of Representatives.”
+Pub. L. 116–92, div. A, title XI, § 1124, Dec. 20, 2019, 133 Stat. 1614, provided that: “(a) Definition.—In this section, the term ‘covered individual’—“(1) means an individual who has completed a term of imprisonment in a Federal prison for a Federal criminal offense; and “(2) does not include an alien who is or will be removed from the United States for a violation of the immigration laws (as such term is defined in section 101 of the Immigration and Nationality Act ([8 U.S.C. 1101](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title8-section1101&num=0&edition=prelim))). “(b) Study and Report Required.—The Director of the Bureau of Justice Statistics, in coordination with the Director of the Bureau of the Census, shall—“(1) not later than 180 days after the date of enactment of this subtitle [subtitle B of title XI of div. A of Pub. L. 116–92, approved Dec. 20, 2019], design and initiate a study on the employment of covered individuals after their release from Federal prison, including by collecting—“(A) demographic data on covered individuals, including race, age, and sex; and “(B) data on employment and earnings of covered individuals who are denied employment, including the reasons for the denials; and “(2) not later than 2 years after the date of enactment of this subtitle, and every 5 years thereafter, submit a report that does not include any personally identifiable information on the study conducted under paragraph (1) to—“(A) the Committee on Homeland Security and Governmental Affairs of the Senate; “(B) the Committee on Health, Education, Labor, and Pensions of the Senate; “(C) the Committee on Oversight and Reform [now Committee on Oversight and Accountability] of the House of Representatives; and “(D) the Committee on Education and Labor [now Committee on Education and the Workforce] of the House of Representatives.”
 
 #### Data Collection
 Pub. L. 115–391, title VI, § 610, Dec. 21, 2018, 132 Stat. 5245, provided that: “(a) National Prisoner Statistics Program.—Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], and annually thereafter, pursuant to the authority under section 302 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3732](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3732&num=0&edition=prelim)) [now [34 U.S.C. 10132](./chapter-101-justice-system-improvement.md#section-10132)], the Director of the Bureau of Justice Statistics, with information that shall be provided by the Director of the Bureau of Prisons, shall include in the National Prisoner Statistics Program the following:“(1) The number of prisoners (as such term is defined in [section 3635 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3635&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act) who are veterans of the Armed Forces of the United States. “(2) The number of prisoners who have been placed in solitary confinement at any time during the previous year. “(3) The number of female prisoners known by the Bureau of Prisons to be pregnant, as well as the outcomes of such pregnancies, including information on pregnancies that result in live birth, stillbirth, miscarriage, abortion, ectopic pregnancy, maternal death, neonatal death, and preterm birth. “(4) The number of prisoners who volunteered to participate in a substance abuse treatment program, and the number of prisoners who have participated in such a program. “(5) The number of prisoners provided medication-assisted treatment with medication approved by the Food and Drug Administration while in custody in order to treat substance use disorder. “(6) The number of prisoners who were receiving medication-assisted treatment with medication approved by the Food and Drug Administration prior to the commencement of their term of imprisonment. “(7) The number of prisoners who are the parent or guardian of a minor child. “(8) The number of prisoners who are single, married, or otherwise in a committed relationship. “(9) The number of prisoners who have not achieved a GED, high school diploma, or equivalent prior to entering prison. “(10) The number of prisoners who, during the previous year, received their GED or other equivalent certificate while incarcerated. “(11) The numbers of prisoners for whom English is a second language. “(12) The number of incidents, during the previous year, in which restraints were used on a female prisoner during pregnancy, labor, or postpartum recovery, as well as information relating to the type of restraints used, and the circumstances under which each incident occurred. “(13) The vacancy rate for medical and healthcare staff positions, and average length of such a vacancy. “(14) The number of facilities that operated, at any time during the previous year, without at least 1 clinical nurse, certified paramedic, or licensed physician on site. “(15) The number of facilities that during the previous year were accredited by the American Correctional Association. “(16) The number and type of recidivism reduction partnerships described in [section 3621(h)(5) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3621/h/5&num=0&edition=prelim), United States Code, as added by section 102(a) of this Act, entered into by each facility. “(17) The number of facilities with remote learning capabilities. “(18) The number of facilities that offer prisoners video conferencing. “(19) Any changes in costs related to legal phone calls and visits following implementation of [section 3632(d)(1) of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3632/d/1&num=0&edition=prelim), United States Code, as added by section 101(a) of this Act. “(20) The number of aliens in prison during the previous year. “(21) For each Bureau of Prisons facility, the total number of violations that resulted in reductions in rewards, incentives, or time credits, the number of such violations for each category of violation, and the demographic breakdown of the prisoners who have received such reductions. “(22) The number of assaults on Bureau of Prisons staff by prisoners and the number of criminal prosecutions of prisoners for assaulting Bureau of Prisons staff. “(23) The capacity of each recidivism reduction program and productive activity to accommodate eligible inmates at each Bureau of Prisons facility. “(24) The number of volunteers who were certified to volunteer in a Bureau of Prisons facility, broken down by level (level I and level II), and by each Bureau of Prisons facility. “(25) The number of prisoners enrolled in recidivism reduction programs and productive activities at each Bureau of Prisons facility, broken down by risk level and by program, and the number of those enrolled prisoners who successfully completed each program. “(26) The breakdown of prisoners classified at each risk level by demographic characteristics, including age, sex, race, and the length of the sentence imposed. “(b) Report to Judiciary Committees.—Beginning not later than 1 year after the date of enactment of this Act [Dec. 21, 2018], and annually thereafter for a period of 7 years, the Director of the Bureau of Justice Statistics shall submit a report containing the information described in paragraphs (1) through (26) of subsection (a) to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives.”
@@ -1703,6 +1725,217 @@ Another prior section 507 of Pub. L. 90–351, title I, June 19, 1968, 82 Stat. 
 Section applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter, see section 1111(d) of Pub. L. 109–162, set out as an Effective Date of 2006 Amendment note under [section 10151 of this title](./chapter-101-justice-system-improvement.md#section-10151).
 
 
+<a id="section-10159"></a>
+## § 10159. Law enforcement training programs
+**(a) Definition** In this section, the term “certified training program or course” means a program or course using 1 or more of the training curricula developed or identified under section 10381(n)(1) 11 See References in Text note below. of this title, or equivalents to such training curricula—
+
+(1) that is provided by the Attorney General under section 10381(n)(3) 1 of this title; or
+
+(2) that is—
+
+  (A) provided by a public or private entity, including the personnel of a law enforcement agency or law enforcement training academy of a State or unit of local government who have been trained to offer training programs or courses under section 10381(n)(3) 1 of this title; and
+
+  (B) certified by the Attorney General under section 10381(n)(2) 1 of this title.
+
+**(b) Authority**
+
+(1) **In general** — Not later than 90 days after the Attorney General completes the activities required by paragraphs (1) and (2) of section 10381(n) 1 of this title, the Attorney General shall, from amounts made available to fund training programs pursuant to subsection (h), make grants to States for use by the State or a unit of government located in the State to—
+
+  (A) pay for—
+
+    (i) costs associated with conducting a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education; and
+
+    (ii) attendance by law enforcement officers or covered mental health professionals at a certified training program or course, including a course provided by a law enforcement training academy of a State or unit of local government;
+
+  (B) procure a certified training program or course or, subject to paragraph (2), a certified training program or course that provides continuing education on 1 or more of the topics described in section 10381(n)(1)(A) 1 of this title;
+
+  (C) in the case of a law enforcement agency of a unit of local government that employs fewer than 50 employees (determined on a full-time equivalent basis), pay for the costs of overtime accrued as a result of the attendance of a law enforcement officer or covered mental health professional at a certified training program or course for which the costs associated with conducting the certified training program or course are paid using amounts provided under this section;
+
+  (D) pay for the costs of developing mechanisms to comply with the reporting requirements established under subsection (d), in an amount not to exceed 5 percent of the total amount of the grant award; and
+
+  (E) pay for the costs associated with participation in the voluntary National Use-of-Force Data Collection of the Federal Bureau of Investigation, in an amount not to exceed 5 percent of the total amount of the grant award, if a law enforcement agency of the State or unit of local government is not already reporting to the National Use-of-Force Data Collection.
+
+(2) **Requirements for use for continuing education**
+
+  (A) *Definition* — In this paragraph, the term “covered topic” means a topic covered under the curricula developed or identified under clause (i), (ii), or (iv) of section 10381(n)(1)(A) 1 of this title.
+
+  (B) *Requirement to provide initial training* — A State or unit of local government shall ensure that all officers who have been employed with the State or unit of local government for at least 2 years have received training as part of a certified training program or course on all covered topics before the State or unit of local government uses amounts received under a grant under paragraph (1) for continuing education with respect to any covered topic.
+
+  (C) *Start date of availability of funding*
+
+    (i) *In general* — Subject to clause (ii), a State or unit of local government may not use amounts received under a grant under paragraph (1) for continuing education with respect to a covered topic until the date that is 2 years after December 27, 2022.
+
+    (ii) *Exception* — A State or unit of local government may use amounts received under a grant under paragraph (1) for continuing education with respect to a covered topic during the 2-year period beginning on December 27, 2022, if the State or unit of local government has complied with subparagraph (B) using amounts available to the State or unit of local government other than amounts received under a grant under paragraph (1).
+
+(3) **Maintaining relationships with local mental health organizations** — A State or unit of local government that receives funds under this section shall establish and maintain relationships between law enforcement officers and local mental health organizations and health care services.
+
+**(c) Allocation of funds**
+
+(1) **In general** — Of the total amount appropriated to carry out this section for a fiscal year, the Attorney General shall allocate funds to each State in proportion to the total number of law enforcement officers in the State that are employed by the State or a unit of local government within the State, as compared to the total number of law enforcement officers in the United States.
+
+(2) **Retention of funds for training for State law enforcement officers proportional to number of State officers** — Each fiscal year, each State may retain, for use for the purposes described in this section, from the total amount of funds provided to the State under paragraph (1) an amount that is not more than the amount that bears the same ratio to such total amount as the ratio of—
+
+  (A) the total number of law enforcement officers employed by the State; to
+
+  (B) the total number of law enforcement officers in the State that are employed by the State or a unit of local government within the State.
+
+(3) **Provision of funds for training for local law enforcement officers**
+
+  (A) *In general* — A State shall make available to units of local government in the State for the purposes described in this section the amounts remaining after a State retains funds under paragraph (2).
+
+  (B) *Additional uses* — A State may, with the approval of a unit of local government, use the funds allocated to the unit of local government under subparagraph (A)—
+
+    (i) to facilitate offering a certified training program or course or, subject to subsection (b)(2), a certified training program or course that provide 22 So in original. Probably should be “provides”. continuing education in 1 or more of the topics described in section 10381(n)(1)(A) 1 of this title to law enforcement officers employed by the unit of local government; or
+
+    (ii) for the costs of training local law enforcement officers, including through law enforcement training academies of States and units of local government, to conduct a certified training program or course.
+
+  (C) *Consultation* — The Attorney General, in consultation with relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups, shall develop criteria governing the allocation of funds to units of local government under this paragraph, which shall ensure that the funds are distributed as widely as practicable in terms of geographical location and to both large and small law enforcement agencies of units of local government.
+
+  (D) *Announcement of allocations* — Not later than 30 days after the date on which a State receives an award under paragraph (1), the State shall announce the allocations of funds to units of local government under subparagraph (A). A State shall submit to the Attorney General a report explaining any delays in the announcement of allocations under this subparagraph.
+
+**(d) Reporting**
+
+(1) **Units of local government** — Any unit of local government that receives funds from a State under subsection (c)(3) for a certified training program or course shall submit to the State or the Attorney General an annual report with respect to the first fiscal year during which the unit of local government receives such funds and each of the 2 fiscal years thereafter that—
+
+  (A) shall include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs and courses under section 10381(n)(2) 1 of this title, the topics covered in those courses, and the number of officers who received training in each topic;
+
+  (B) may, at the election of the unit of local government, include the number of law enforcement officers employed by the unit of local government that have completed a certified training program or course using funds provided from a source other than the grants described under subsection (b), the topics covered in those courses, and the number of officers who received training in each topic;
+
+  (C) shall include the total number of law enforcement officers employed by the unit of local government;
+
+  (D) shall include a description of any barriers to providing training on the topics described in section 10381(n)(1)(A) 1 of this title;
+
+  (E) shall include information gathered through—
+
+    (i) pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) 1 of this title; and
+
+    (ii) follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training; and
+
+  (F) shall include the amount of funds received by the unit of local government under subsection (c)(3) and a tentative plan for training all law enforcement officers employed by the unit of local government using available and anticipated funds.
+
+(2) **States** — A State receiving funds under this section shall submit to the Attorney General—
+
+  (A) any report the State receives from a unit of local government under paragraph (1); and
+
+  (B) if the State retains funds under subsection (c)(2) for a fiscal year, a report by the State for that fiscal year, and each of the 2 fiscal years thereafter—
+
+    (i) indicating the number of law enforcement officers employed by the State that have completed a certified training program or course, including a certified training program or course provided on or before the date on which the Attorney General begins certifying training programs or courses under section 10381(n)(2) 1 of this title, the topics covered in those courses, and the number of officers who received training in each topic, including, at the election of the State, a certified training program or course using funds provided from a source other than the grants described under subsection (b);
+
+    (ii) indicating the total number of law enforcement officers employed by the State;
+
+    (iii) providing information gathered through—
+
+      (I) pre-training and post-training tests that assess relevant knowledge and skills covered in the training curricula, as specified in section 10381(n)(1) 1 of this title; and
+
+      (II) follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training;
+
+    (iv) discussing any barriers to providing training on the topics described in section 10381(n)(1)(A) 1 of this title; and
+
+    (v) indicating the amount of funding retained by the State under subsection (c)(2) and providing a tentative plan for training all law enforcement officers employed by the State using available and anticipated funds.
+
+(3) **Reporting tools** — Not later than 180 days after December 27, 2022, the Attorney General shall develop a portal through which the data required under paragraphs (1) and (2) may be collected and submitted.
+
+(4) **Reports on the use of de-escalation tactics and other techniques**
+
+  (A) *In general* — The Attorney General, in consultation with the Director of the Federal Bureau of Investigation, relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups, shall establish—
+
+    (i) reporting requirements on interactions in which de-escalation tactics and other techniques in curricula developed or identified under section 10381(n)(1) 1 of this title are used by each law enforcement agency that receives funding under this section; and
+
+    (ii) mechanisms for each law enforcement agency to submit such reports to the Department of Justice.
+
+  (B) *Reporting requirements* — The requirements developed under subparagraph (A) shall—
+
+    (i) specify—
+
+      (I) the circumstances under which an interaction shall be reported, considering—
+
+        (aa) the cost of collecting and reporting the information; and
+
+        (bb) the value of that information for determining whether—
+
+          (AA) the objectives of the training have been met; and
+
+          (BB) the training reduced or eliminated the risk of serious physical injury to officers, subjects, and third parties; and
+
+      (II) the demographic and other relevant information about the officer and subjects involved in the interaction that shall be included in such a report; and
+
+    (ii) require such reporting be done in a manner that—
+
+      (I) is in compliance with all applicable Federal and State confidentiality laws; and
+
+      (II) does not disclose the identities of law enforcement officers, subjects, or third parties.
+
+  (C) *Review of reporting requirements* — Not later than 2 years after December 27, 2022, and every 2 years thereafter, the Attorney General, in consultation with the entities specified under subparagraph (A), shall review and consider updates to the reporting requirements.
+
+(5) **Failure to report**
+
+  (A) *In general* — An entity receiving funds under this section that fails to file a report as required under paragraph (1) or (2), as applicable and as determined by the Attorney General, shall not be eligible to receive funds under this section for a period of 2 fiscal years.
+
+  (B) *Rule of construction* — Nothing in subparagraph (A) shall be construed to prohibit a State that fails to file a report as required under paragraph (2), and is not eligible to receive funds under this section, from making funding available to a unit of local government of the State under subsection (c)(3), if the unit of local government has complied with the reporting requirements.
+
+**(e) Attorney General reports**
+
+(1) **Implementation report** — Not later than 2 years after December 27, 2022, and each year thereafter in which grants are made under this section, the Attorney General shall submit a report to Congress on the implementation of activities carried out under this section.
+
+(2) **Contents** — Each report under paragraph (1) shall include, at a minimum, information on—
+
+  (A) the number, amounts, and recipients of awards the Attorney General has made or intends to make using funds authorized under this section;
+
+  (B) the selection criteria the Attorney General has used or intends to use to select recipients of awards using funds authorized under this section;
+
+  (C) the number of law enforcement officers of a State or unit of local government who were not able to receive training on the topics described in section 10381(n)(1)(A) 1 of this title due to unavailability of funds and the amount of funds that would be required to complete the training; and
+
+  (D) the nature, frequency, and amount of information that the Attorney General has collected or intends to collect under subsection (d).
+
+(3) **Privacy protections** — A report under paragraph (1) shall not disclose the identities of individual law enforcement officers who received, or did not receive, training under a certified training program or course.
+
+**(f) National Institute of Justice study**
+
+(1) **Study and report** — Not later than 2 years after the first grant award using funds authorized under this section, the National Institute of Justice shall conduct a study of the implementation of training under a certified training program or course in at least 6 jurisdictions representing an array of agency sizes and geographic locations, which shall include—
+
+  (A) a process evaluation of training implementation, which shall include an analysis of the share of officers who participated in the training, the degree to which the training was administered in accordance with the curriculum, and the fidelity with which the training was applied in the field; and
+
+  (B) an impact evaluation of the training, which shall include an analysis of the impact of the training on interactions between law enforcement officers and the public, any factors that prevent or preclude law enforcement officers from successfully de-escalating law enforcement interactions, and any recommendations on modifications to the training curricula and methods that could improve outcomes.
+
+(2) **National Institute of Justice access to portal** — For the purposes of preparing the report under paragraph (1), the National Institute of Justice shall have direct access to the portal developed under subsection (d)(3).
+
+(3) **Privacy protections** — The study under paragraph (1) shall not disclose the identities of individual law enforcement officers who received, or did not receive, training under a certified training program or course.
+
+(4) **Funding** — Not more than 1 percent of the amount appropriated to carry out this section during any fiscal year shall be made available to conduct the study under paragraph (1).
+
+**(g) GAO report**
+
+(1) **Study and report** — Not later than 3 years after the first grant award using funds authorized under this section, the Comptroller General of the United States shall review the grant program under this section and submit to Congress a report assessing the grant program, including—
+
+  (A) the process for developing and identifying curricula under section 10381(n)(1) 1 of this title, including the effectiveness of the consultation by the Attorney General with the agencies, associations, and organizations identified under section 10381(n)(1)(C) 1 of this title;
+
+  (B) the certification of training programs and courses under section 10381(n)(2) 1 of this title, including the development of the process for certification and its implementation;
+
+  (C) the training of law enforcement personnel under section 10381(n)(3) 1 of this title, including the geographic distribution of the agencies that employ the personnel receiving the training and the sizes of those agencies;
+
+  (D) the allocation of funds under subsection (c), including the geographic distribution of the agencies that receive funds and the degree to which both large and small agencies receive funds; and
+
+  (E) the amount of funding distributed to agencies compared with the amount appropriated under this section, the amount spent for training, and whether plans have been put in place by the recipient agencies to use unspent available funds.
+
+(2) **GAO access to portal** — For the purposes of preparing the report under paragraph (1), the Comptroller General of the United States shall have direct access to the portal developed under subsection (d)(3).
+
+**(h) Authorization of appropriations** There is authorized to be appropriated to carry out this section—
+
+(1) $40,000,000 for fiscal year 2025; and
+
+(2) $50,000,000 for fiscal year 2026.
+
+### Statutory Notes
+
+#### References in Text
+[Section 10381(n) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10381/n&num=0&edition=prelim), referred to in text, was redesignated section 10381(o) of this title by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
+
+#### Prior Provisions
+A prior section 508 of Pub. L. 90–351 was renumbered section 509 and had been classified to [section 3758 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3758&num=0&edition=prelim), The Public Health and Welfare, prior to being omitted from the Code.
+
+Another prior section 508 of Pub. L. 90–351, as added Pub. L. 100–690, title VI, § 6091(a), Nov. 18, 1988, 102 Stat. 4335, related to distribution of grants to local government, prior to repeal by Pub. L. 109–162, title XI, § 1111(a)(1), (d), Jan. 5, 2006, 119 Stat. 3094, 3102, applicable with respect to the first fiscal year beginning after Jan. 5, 2006, and each fiscal year thereafter.
+
+
 <a id="section-10171"></a>
 ## § 10171. Correctional options grants
 **(a) Authority to make grants** The Director, in consultation with the Director of the National Institute of Corrections, may make—
@@ -2245,11 +2478,13 @@ Provisions similar to this section were contained in part in [section 3788 of Ti
 #### Amendments
 2022—Pub. L. 117–172, § 4(a)(2), in second sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance” and “, or (subject to such limitations as the appointing authority may, in its sole discretion, impose from time to time) any” for “or any” and inserted comma after “thereby” and after “examinations”.
 
-Pub. L. 117–172, § 4(a)(1)(E), which directed amendment of first sentence by substituting “necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office” for “necessary to carry out their respective powers and duties under this chapter”, was executed by making the substitution for “necessary to carry out their respective powers and duties or other law”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 117–61. See 2021 Amendment note below.
+Pub. L. 117–172, § 4(a)(1)(E), substituted “necessary or convenient to assist them in carrying out their respective powers and duties under any law administered by or under the Office” for “necessary to carry out their respective powers and duties under this title”.
 
 Pub. L. 117–172, § 4(a)(1)(A)–(D), in first sentence, substituted “The Assistant Attorney General, the Bureau of Justice Assistance” for “The Attorney General, the Bureau of Justice Assistance”, “title 18 (without regard to the days limitation prescribed therein), but shall, in no event, be understood to be (or to have the authority of) officers of the United States)” for “title 18)”, and “or administrative law judges” for “such hearing examiners or administrative law judges” and struck out “by the Attorney General” after “if so designated”.
 
-2021—Pub. L. 117–61 inserted “Attorney General, the” before “Bureau of Justice Assistance” and “conduct examinations” after “examine witnesses,” and substituted “may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of ‘special government employee’ under [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim))” for “may appoint” and “or other law. The Attorney General, the” for “under this chapter. The”.
+2021—Pub. L. 117–61, § 7(3), which directed amendment of par. (3) by substituting “or other law. The Attorney General, the” for “under this chapter. The”, could not be executed because the words “this chapter” did not appear in the original text.
+
+Pub. L. 117–61, § 7(1), (2), (4), inserted “Attorney General, the” before “Bureau of Justice Assistance” and “conduct examinations” after “examine witnesses,” and substituted “may appoint (to be assigned or employed on an interim or as-needed basis) such hearing examiners (who shall, if so designated by the Attorney General, be understood to be comprised within the meaning of ‘special government employee’ under [section 202 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section202&num=0&edition=prelim))” for “may appoint”.
 
 #### Effective Date of 2021 Amendment
 Amendment by Pub. L. 117–61 effective Nov. 18, 2021, and applicable to any matter pending, before the Bureau or otherwise, on Nov. 18, 2021, or filed (consistent with pre-existing effective dates) or accruing after that date, see section 8(a) and (b)(2) of Pub. L. 117–61, set out in a note under [section 10281 of this title](./chapter-101-justice-system-improvement.md#section-10281).
@@ -2268,16 +2503,13 @@ Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set o
 
 **(d) Experts and consultants; compensation** The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics may procure the services of experts and consultants in accordance with [section 3109 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section3109&num=0&edition=prelim), relating to appointments in the Federal service, at rates of compensation for individuals not to exceed the daily equivalent of the rate of pay payable from time to time for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim).
 
-**(e) Advisory committees; compensation and travel expenses of committee members** The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to appoint, without regard to the provisions of title 5, advisory committees to advise them with respect to the administration of this chapter as they deem necessary. Such committees shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.). Members of such committees not otherwise in the employ of the United States, while engaged in advising or attending meetings of such committees, shall be compensated at rates to be fixed by the Office but not to exceed the daily equivalent of the rate of pay payable from time to time for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), and while away from home or regular place of business they may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
+**(e) Advisory committees; compensation and travel expenses of committee members** The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to appoint, without regard to the provisions of title 5, advisory committees to advise them with respect to the administration of this chapter as they deem necessary. Such committees shall be subject to chapter 10 of title 5. Members of such committees not otherwise in the employ of the United States, while engaged in advising or attending meetings of such committees, shall be compensated at rates to be fixed by the Office but not to exceed the daily equivalent of the rate of pay payable from time to time for GS–18 of the General Schedule under [section 5332 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section5332&num=0&edition=prelim), and while away from home or regular place of business they may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as authorized by section 5703 of such title 5 for persons in the Government service employed intermittently.
 
 **(f) Payments; installments; advances or reimbursement; transportation and subsistence expenses for attendance at conferences or other assemblages** Payments under this chapter may be made in installments, and in advance or by way of reimbursement, as may be determined by the Office, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, and may be used to pay the transportation and subsistence expenses of persons attending conferences or other assemblages notwithstanding [section 1345 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1345&num=0&edition=prelim).
 
 **(g) Voluntary services; status as Federal employees; exceptions** The Office, the Bureau of Justice Assistance, the National Institute of Justice, and the Bureau of Justice Statistics are authorized to accept and employ, in carrying out the provisions of this chapter, voluntary and uncompensated services notwithstanding [section 1342 of title 31](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title31-section1342&num=0&edition=prelim). Such individuals shall not be considered Federal employees except for purposes of chapter 81 of title 5 with respect to job-incurred disability and title 28 with respect to tort claims.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5.
 
 #### Codification
 Section was formerly classified to [section 3788 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3788&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -2286,6 +2518,9 @@ Section was formerly classified to [section 3788 of Title 42](https://uscode.hou
 A prior section 807 of Pub. L. 90–351 was classified to [section 3787 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3787&num=0&edition=prelim), The Public Health and Welfare, prior to repeal by section 609B(e) of Pub. L. 98–473.
 
 Provisions similar to subsecs. (b), (c), (d) to (f), and (g) of this section were contained in sections 3789, 3789b(a), 3789c(a) to (c), and 3789h of Title 42, The Public Health and Welfare, respectively, prior to repeal by section 609B(e) of Pub. L. 98–473.
+
+#### Amendments
+2022—Subsec. (e). Pub. L. 117–286 substituted “chapter 10 of title 5.” for “the Federal Advisory Committee Act (5 U.S.C. App.).”
 
 #### Effective Date
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
@@ -2689,9 +2924,35 @@ Section was formerly classified to [section 3789p of Title 42](https://uscode.ho
 
 (26) the term “Indian Tribe” has the meaning given the term “Indian tribe” in [section 5304(e) of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304/e&num=0&edition=prelim);
 
-(27) the term “private person” means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof); and
+(27) the term “private person” means any individual (including an individual acting in his official capacity) and any private partnership, corporation, association, organization, or entity (or any combination thereof);
 
-(28) the term “hearing examiner” includes any medical or claims examiner.
+(28) the term “hearing examiner” includes any medical or claims examiner;
+
+(29) the term “de-escalation” means taking action or communicating verbally or non-verbally during a potential force encounter in an attempt to stabilize the situation and reduce the immediacy of the threat so that more time, options, and resources can be called upon to resolve the situation without the use of force or with a reduction in the force necessary;
+
+(30) the term “mental or behavioral health or suicidal crisis”—
+
+  (A) means a situation in which the behavior of a person—
+
+    (i) puts the person at risk of hurting himself or herself or others; or
+
+    (ii) impairs or prevents the person from being able to care for himself or herself or function effectively in the community; and
+
+  (B) includes a situation in which a person—
+
+    (i) is under the influence of a drug or alcohol, is suicidal, or experiences symptoms of a mental illness; or
+
+    (ii) may exhibit symptoms, including emotional reactions (such as fear or anger), psychological impairments (such as inability to focus, confusion, or psychosis), and behavioral reactions (such as the trigger of a freeze, fight, or flight response);
+
+(31) the term “disability” has the meaning given that term in [section 12102 of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section12102&num=0&edition=prelim);
+
+(32) the term “crisis intervention team” means a collaborative, interdisciplinary team that brings together specially trained law enforcement officers, mental health providers, and other community stakeholders to respond to mental health-related calls, use appropriate de-escalation techniques, and assess if referral to services or transport for mental health evaluation is appropriate; and
+
+(33) the term “covered mental health professional” means a mental health professional working on a crisis intervention team—
+
+  (A) as an employee of a law enforcement agency; or
+
+  (B) under a legal agreement with a law enforcement agency.
 
 **(b) Data basis for definitions; reflection of technical changes or modifications** Where appropriate, the definitions in subsection (a) shall be based, with respect to any fiscal year, on the most recent data compiled by the United States Bureau of the Census and the latest published reports of the Office of Management and Budget available ninety days prior to the beginning of such fiscal year. The Office may by regulation change or otherwise modify the meaning of the terms defined in subsection (a) in order to reflect any technical change or modification thereof made subsequent to such date by the United States Bureau of the Census or the Office of Management and Budget.
 
@@ -2705,6 +2966,8 @@ Section was formerly classified to [section 3791 of Title 42](https://uscode.hou
 Another section 901 of Pub. L. 90–351, title IV, June 19, 1968, 82 Stat. 225, is classified as a note under [section 921 of Title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section921&num=0&edition=prelim), Crimes and Criminal Procedure.
 
 #### Amendments
+2022—Subsec. (a)(29) to (33). Pub. L. 117–325 added pars. (29) to (33).
+
 2013—Subsec. (a)(28). Pub. L. 112–239 added par. (28).
 
 2006—Subsec. (a)(2). Pub. L. 109–162, § 1111(c)(2)(F), which directed the substitution of “for the purposes of [section 3755(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section3755/a&num=0&edition=prelim)” for “for the purposes of [section 3756(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section3756/a&num=0&edition=prelim)”, was executed by making the substitution for “for the purpose of [section 3756(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section3756/a&num=0&edition=prelim)”, to reflect the probable intent of Congress.
@@ -4814,47 +5077,49 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 (4) to award grants to pay for offices hired to perform intelligence, anti-terror, or homeland security duties;
 
-(5) to increase the number of law enforcement officers involved in activities that are focused on interaction with members of the community on proactive crime control and prevention by redeploying officers to such activities;
+(5) to support hiring activities by law enforcement agencies experiencing declines in officer recruitment applications by reducing application-related fees, such as fees for background checks, psychological evaluations, and testing;
 
-(6) to provide specialized training to law enforcement officers to enhance their conflict resolution, mediation, problem solving, service, and other skills needed to work in partnership with members of the community;
+(6) to increase the number of law enforcement officers involved in activities that are focused on interaction with members of the community on proactive crime control and prevention by redeploying officers to such activities;
 
-(7) to increase police participation in multidisciplinary early intervention teams;
+(7) to provide specialized training to law enforcement officers to enhance their conflict resolution, mediation, problem solving, service, and other skills needed to work in partnership with members of the community;
 
-(8) to develop new technologies, including interoperable communications technologies, modernized criminal record technology, and forensic technology, to assist State, tribal, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime and to train law enforcement officers to use such technologies;
+(8) to increase police participation in multidisciplinary early intervention teams;
 
-(9) to develop and implement innovative programs to permit members of the community to assist State, tribal, and local law enforcement agencies in the prevention of crime in the community, such as a citizens’ police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
+(9) to develop new technologies, including interoperable communications technologies, modernized criminal record technology, and forensic technology, to assist State, tribal, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime and to train law enforcement officers to use such technologies;
 
-(10) to establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must be away from the community while awaiting court appearances;
+(10) to develop and implement innovative programs to permit members of the community to assist State, tribal, and local law enforcement agencies in the prevention of crime in the community, such as a citizens’ police academy, including programs designed to increase the level of access to the criminal justice system enjoyed by victims, witnesses, and ordinary citizens by establishing decentralized satellite offices (including video facilities) of principal criminal courts buildings;
 
-(11) to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
+(11) to establish innovative programs to reduce, and keep to a minimum, the amount of time that law enforcement officers must be away from the community while awaiting court appearances;
 
-(12) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
+(12) to establish and implement innovative programs to increase and enhance proactive crime control and prevention programs involving law enforcement officers and young persons in the community;
 
-(13) to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
+(13) to establish school-based partnerships between local law enforcement agencies and local school systems by using school resource officers who operate in and around elementary and secondary schools to combat school-related crime and disorder problems, gangs, and drug activities, including the training of school resource officers in the prevention of human trafficking offenses;
 
-(14) to assist a State or Indian tribe in enforcing a law throughout the State or tribal community that requires that a convicted sex offender register his or her address with a State, tribal, or local law enforcement agency and be subject to criminal prosecution for failure to comply;
+(14) to develop and establish new administrative and managerial systems to facilitate the adoption of community-oriented policing as an organization-wide philosophy;
 
-(15) to establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members;
+(15) to assist a State or Indian tribe in enforcing a law throughout the State or tribal community that requires that a convicted sex offender register his or her address with a State, tribal, or local law enforcement agency and be subject to criminal prosecution for failure to comply;
 
-(16) to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing;
+(16) to establish, implement, and coordinate crime prevention and control programs (involving law enforcement officers working with community members) with other Federal programs that serve the community and community members to better address the comprehensive needs of the community and its members;
 
-(17) to participate in nationally recognized active shooter training programs that offer scenario-based, integrated response courses designed to counter active shooter threats or acts of terrorism against individuals or facilities;
+(17) to support the purchase by a law enforcement agency of no more than 1 service weapon per officer, upon hiring for deployment in community-oriented policing or, if necessary, upon existing officers’ initial redeployment to community-oriented policing;
 
-(18) to provide specialized training to law enforcement officers to—
+(18) to participate in nationally recognized active shooter training programs that offer scenario-based, integrated response courses designed to counter active shooter threats or acts of terrorism against individuals or facilities;
+
+(19) to provide specialized training to law enforcement officers to—
 
   (A) recognize individuals who have a mental illness; and
 
   (B) properly interact with individuals who have a mental illness, including strategies for verbal de-escalation of crises;
 
-(19) to establish collaborative programs that enhance the ability of law enforcement agencies to address the mental health, behavioral, and substance abuse problems of individuals encountered by law enforcement officers in the line of duty;
+(20) to establish collaborative programs that enhance the ability of law enforcement agencies to address the mental health, behavioral, and substance abuse problems of individuals encountered by law enforcement officers in the line of duty;
 
-(20) to provide specialized training to corrections officers to recognize individuals who have a mental illness;
+(21) to provide specialized training to corrections officers to recognize individuals who have a mental illness;
 
-(21) to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises;
+(22) to enhance the ability of corrections officers to address the mental health of individuals under the care and custody of jails and prisons, including specialized training and strategies for verbal de-escalation of crises;
 
-(22) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (21); and
+(23) to permit tribal governments receiving direct law enforcement services from the Bureau of Indian Affairs to access the program under this section for use in accordance with paragraphs (1) through (22); and
 
-(23) to establish peer mentoring mental health and wellness pilot programs within State, tribal, and local law enforcement agencies.
+(24) to establish peer mentoring mental health and wellness pilot programs within State, tribal, and local law enforcement agencies.
 
 **(c) Preferential consideration of applications for certain grants** In awarding grants under this subchapter, the Attorney General may give preferential consideration, where feasible, to an application—
 
@@ -4902,11 +5167,13 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 **(h) Allocation of funds** The funds available under this subchapter shall be allocated as provided in [section 10261(a)(11)(B) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section10261/a/11/B&num=0&edition=prelim).
 
-**(i) Termination of grants for hiring officers** Except as provided in subsection (j), the authority under subsection (a) of this section to make grants for the hiring and rehiring of additional career law enforcement officers shall lapse at the conclusion of 6 years from September 13, 1994. Prior to the expiration of this grant authority, the Attorney General shall submit a report to Congress concerning the experience with and effects of such grants. The report may include any recommendations the Attorney General may have for amendments to this subchapter and related provisions of law in light of the termination of the authority to make grants for the hiring and rehiring of additional career law enforcement officers.
+**(i) Administrative costs** Not more than 2 percent of a grant made for the hiring or rehiring of additional career law enforcement officers may be used for costs incurred to administer such grant.
 
-**(j) Grants to Indian Tribes**
+**(j) Termination of grants for hiring officers** Except as provided in subsection (j),11 See References in Text note below. the authority under subsection (a) of this section to make grants for the hiring and rehiring of additional career law enforcement officers shall lapse at the conclusion of 6 years from September 13, 1994. Prior to the expiration of this grant authority, the Attorney General shall submit a report to Congress concerning the experience with and effects of such grants. The report may include any recommendations the Attorney General may have for amendments to this subchapter and related provisions of law in light of the termination of the authority to make grants for the hiring and rehiring of additional career law enforcement officers.
 
-(1) **In general** — Notwithstanding subsection (i) and [section 10383 of this title](./chapter-101-justice-system-improvement.md#section-10383), and in acknowledgment of the Federal nexus and distinct Federal responsibility to address and prevent crime in Indian country, the Attorney General shall provide grants under this section to Indian tribal governments, for fiscal year 2011 and any fiscal year thereafter, for such period as the Attorney General determines to be appropriate to assist the Indian tribal governments in carrying out the purposes described in subsection (b).
+**(k) Grants to Indian Tribes**
+
+(1) **In general** — Notwithstanding subsection (i) 1 and [section 10383 of this title](./chapter-101-justice-system-improvement.md#section-10383), and in acknowledgment of the Federal nexus and distinct Federal responsibility to address and prevent crime in Indian country, the Attorney General shall provide grants under this section to Indian tribal governments, for fiscal year 2011 and any fiscal year thereafter, for such period as the Attorney General determines to be appropriate to assist the Indian tribal governments in carrying out the purposes described in subsection (b).
 
 (2) **Priority of funding** — In providing grants to Indian tribal governments under this subsection, the Attorney General shall take into consideration reservation crime rates and tribal law enforcement staffing needs of each Indian tribal government.
 
@@ -4918,11 +5185,11 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 (4) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection $40,000,000 for each of fiscal years 2011 through 2015.
 
-**(k) COPS anti-meth program** The Attorney General shall use amounts otherwise appropriated to carry out this section for a fiscal year (beginning with fiscal year 2019) to make competitive grants, in amounts of not less than $1,000,000 for such fiscal year, to State law enforcement agencies with high seizures of precursor chemicals, finished methamphetamine, laboratories, and laboratory dump seizures for the purpose of locating or investigating illicit activities, such as precursor diversion, laboratories, or methamphetamine traffickers.
+**(l) COPS anti-meth program** The Attorney General shall use amounts otherwise appropriated to carry out this section for a fiscal year (beginning with fiscal year 2019) to make competitive grants, in amounts of not less than $1,000,000 for such fiscal year, to State law enforcement agencies with high seizures of precursor chemicals, finished methamphetamine, laboratories, and laboratory dump seizures for the purpose of locating or investigating illicit activities, such as precursor diversion, laboratories, or methamphetamine traffickers.
 
-**(l) COPS anti-heroin task force program** The Attorney General shall use amounts otherwise appropriated to carry out this section, or other amounts as appropriated, for a fiscal year (beginning with fiscal year 2019) to make competitive grants to State law enforcement agencies in States with high per capita rates of primary treatment admissions, for the purpose of locating or investigating illicit activities, through Statewide collaboration, relating to the distribution of heroin, fentanyl, or carfentanil or relating to the unlawful distribution of prescription opioids.
+**(m) COPS anti-heroin task force program** The Attorney General shall use amounts otherwise appropriated to carry out this section, or other amounts as appropriated, for a fiscal year (beginning with fiscal year 2019) to make competitive grants to State law enforcement agencies in States with high per capita rates of primary treatment admissions, for the purpose of locating or investigating illicit activities, through Statewide collaboration, relating to the distribution of heroin, fentanyl, or carfentanil or relating to the unlawful distribution of prescription opioids.
 
-**(m) Report** Not later than 180 days after July 29, 2010, the Attorney General shall submit to Congress a report describing the extent and effectiveness of the Community Oriented Policing (COPS) initiative as applied in Indian country, including particular references to—
+**(n) Report** Not later than 180 days after July 29, 2010, the Attorney General shall submit to Congress a report describing the extent and effectiveness of the Community Oriented Policing (COPS) initiative as applied in Indian country, including particular references to—
 
 (1) the problem of intermittent funding;
 
@@ -4930,10 +5197,108 @@ Section was formerly classified to [section 3796cc–6 of Title 42](https://usco
 
 (3) an explanation of how the practice of community policing and the broken windows theory can most effectively be applied in remote tribal locations.
 
+**(o) Training in alternatives to use of force, de-escalation techniques, and mental and behavioral health crises**
+
+(1) **Training curricula**
+
+  (A) *In general* — Not later than 180 days after December 27, 2022, the Attorney General shall develop training curricula or identify effective existing training curricula for law enforcement officers and for covered mental health professionals regarding—
+
+    (i) de-escalation tactics and alternatives to use of force;
+
+    (ii) safely responding to an individual experiencing a mental or behavioral health or suicidal crisis or an individual with a disability, including techniques and strategies that are designed to protect the safety of that individual, law enforcement officers, mental health professionals, and the public;
+
+    (iii) successfully participating on a crisis intervention team; and
+
+    (iv) making referrals to community-based mental and behavioral health services and support, housing assistance programs, public benefits programs, the National Suicide Prevention Lifeline, and other services.
+
+  (B) *Requirements* — The training curricula developed or identified under this paragraph shall include—
+
+    (i) scenario-based exercises;
+
+    (ii) pre-training and post-training tests to assess relevant knowledge and skills covered in the training curricula; and
+
+    (iii) follow-up evaluative assessments to determine the degree to which participants in the training apply, in their jobs, the knowledge and skills gained in the training.
+
+  (C) *Consultation* — The Attorney General shall develop and identify training curricula under this paragraph in consultation with relevant law enforcement agencies of States and units of local government, associations that represent individuals with mental or behavioral health diagnoses or individuals with disabilities, labor organizations, professional law enforcement organizations, local law enforcement labor and representative organizations, law enforcement trade associations, mental health and suicide prevention organizations, family advocacy organizations, and civil rights and civil liberties groups.
+
+(2) **Certified programs and courses**
+
+  (A) *In general* — Not later than 180 days after the date on which training curricula are developed or identified under paragraph (1)(A), the Attorney General shall establish a process to—
+
+    (i) certify training programs and courses offered by public and private entities to law enforcement officers or covered mental health professionals using 1 or more of the training curricula developed or identified under paragraph (1), or equivalents to such training curricula, which may include certifying a training program or course that an entity began offering on or before the date on which the Attorney General establishes the process; and
+
+    (ii) terminate the certification of a training program or course if the program or course fails to continue to meet the standards under the training curricula developed or identified under paragraph (1).
+
+  (B) *Partnerships with mental health organizations and educational institutions* — Not later than 180 days after the date on which training curricula are developed or identified under paragraph (1)(A), the Attorney General shall develop criteria to ensure that public and private entities that offer training programs or courses that are certified under subparagraph (A) collaborate with local mental health organizations to—
+
+    (i) enhance the training experience of law enforcement officers through consultation with and the participation of individuals with mental or behavioral health diagnoses or disabilities, particularly such individuals who have interacted with law enforcement officers; and
+
+    (ii) strengthen relationships between health care services and law enforcement agencies.
+
+(3) **Transitional regional training programs for State and local agency personnel**
+
+  (A) *In general* — During the period beginning on the date on which the Attorney General establishes the process required under paragraph (2)(A) and ending on the date that is 18 months after that date, the Attorney General shall, and thereafter the Attorney General may, provide, in collaboration with law enforcement training academies of States and units of local government as appropriate, regional training to equip personnel from law enforcement agencies of States and units of local government in a State to offer training programs or courses certified under paragraph (2)(A).
+
+  (B) *Continuing education* — The Attorney General shall develop and implement continuing education requirements for personnel from law enforcement agencies of States and units of local government who receive training to offer training programs or courses under subparagraph (A).
+
+(4) **List** — Not later than 1 year after the Attorney General completes the activities described in paragraphs (1) and (2), the Attorney General shall publish a list of law enforcement agencies of States and units of local government employing law enforcement officers or using covered mental health professionals who have successfully completed a course using 1 or more of the training curricula developed or identified under paragraph (1), or equivalents to such training curricula, which shall include—
+
+  (A) the total number of law enforcement officers that are employed by the agency;
+
+  (B) the number of such law enforcement officers who have completed such a course;
+
+  (C) whether personnel from the law enforcement agency have been trained to offer training programs or courses under paragraph (3);
+
+  (D) the total number of covered mental health professionals who work with the agency; and
+
+  (E) the number of such covered mental health professionals who have completed such a course.
+
+(5) **Authorization of appropriations** — There is authorized to be appropriated to carry out this subsection—
+
+  (A) $3,000,000 for fiscal year 2023;
+
+  (B) $20,000,000 for fiscal year 2024;
+
+  (C) $10,000,000 for fiscal year 2025; and
+
+  (D) $1,000,000 for fiscal year 2026.
+
+**(p) COPS Pipeline Partnership Program**
+
+(1) **Eligible entity defined** — In this subsection, the term “eligible entity” means a law enforcement agency in partnership with not less than 1 educational institution, which may include 1 or any combination of the following:
+
+  (A) An elementary school.
+
+  (B) A secondary school.
+
+  (C) An institution of higher education.
+
+  (D) A Hispanic-serving institution.
+
+  (E) A historically Black college or university.
+
+  (F) A Tribal college.
+
+(2) **Grants** — The Attorney General shall award competitive grants to eligible entities for recruiting activities that—
+
+  (A) support substantial student engagement for the exploration of potential future career opportunities in law enforcement;
+
+  (B) strengthen recruitment by law enforcement agencies experiencing a decline in recruits, or high rates of resignations or retirements;
+
+  (C) enhance community interactions between local youth and law enforcement agencies that are designed to increase recruiting; and
+
+  (D) otherwise improve the outcomes of local law enforcement recruitment through activities such as dedicated programming for students, work-based learning opportunities, project-based learning, mentoring, community liaisons, career or job fairs, work site visits, job shadowing, apprenticeships, or skills-based internships.
+
+(3) **Funding** — Of the amounts made available to carry out this subchapter for a fiscal year, the Attorney General may use not more than $3,000,000 to carry out this subsection.
+
 ### Statutory Notes
 
 #### References in Text
 The Public Safety Partnership and Community Policing Act of 1994, referred to in subsec. (d)(1), (3), is title I of Pub. L. 103–322, Sept. 13, 1994, 108 Stat. 1807, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101) and Tables.
+
+Subsection (j), referred to in subsec. (j), was redesignated subsec. (k) by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
+
+Subsection (i), referred to in subsec. (k)(1), was redesignated subsec. (j) by Pub. L. 118–64, § 3, May 24, 2024, 138 Stat. 1435.
 
 #### Codification
 Section was formerly classified to [section 3796dd of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796dd&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -4942,6 +5307,18 @@ Section was formerly classified to [section 3796dd of Title 42](https://uscode.h
 A prior section 1701 of Pub. L. 90–351 was renumbered section 2601 and is classified to [section 10541 of this title](./chapter-101-justice-system-improvement.md#section-10541).
 
 #### Amendments
+2024—Subsec. (b)(5) to (22). Pub. L. 118–64, § 2(a), added par. (5) and redesignated former pars. (5) to (21) as (6) to (22), respectively. Former par. (22) redesignated (23).
+
+Subsec. (b)(23). Pub. L. 118–64, § 2, redesignated par. (22) as (23) and substituted “(22)” for “(21)”. Former par. (23) redesignated (24).
+
+Subsec. (b)(24). Pub. L. 118–64, § 2(a), redesignated par. (23) as (24).
+
+Subsecs. (i) to (o). Pub. L. 118–64, § 3, added subsec. (i) and redesignated former subsecs. (i) to (n) as (j) to (o) respectively.
+
+Subsec. (p). Pub. L. 118–64, § 4, added subsec. (p).
+
+2022—Subsec. (n). Pub. L. 117–325 added subsec. (n).
+
 2018—Subsec. (b)(12). Pub. L. 115–393 inserted before semicolon at end “, including the training of school resource officers in the prevention of human trafficking offenses”.
 
 Subsec. (b)(23). Pub. L. 115–113 added par. (23).
@@ -5026,7 +5403,7 @@ Subsecs. (d) to (k). Pub. L. 109–162, § 1163(a)(4), redesignated subsecs. (f)
 Pub. L. 103–322, title I, § 10002, Sept. 13, 1994, 108 Stat. 1807, provided that: “The purposes of this title [see Short Title of 1994 Act note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] are to—“(1) substantially increase the number of law enforcement officers interacting directly with members of the community (‘cops on the beat’); “(2) provide additional and more effective training to law enforcement officers to enhance their problem solving, service, and other skills needed in interacting with members of the community; “(3) encourage the development and implementation of innovative programs to permit members of the community to assist State, Indian tribal government, and local law enforcement agencies in the prevention of crime in the community; and “(4) encourage the development of new technologies to assist State, Indian tribal government, and local law enforcement agencies in reorienting the emphasis of their activities from reacting to crime to preventing crime, by establishing a program of grants and assistance in furtherance of these objectives, including the authorization for a period of 6 years of grants for the hiring and rehiring of additional career law enforcement officers.”
 
 #### Improving Public Safety Presence in Rural Alaska
-Pub. L. 111–211, title II, § 247(a)–(d), July 29, 2010, 124 Stat. 2296, 2297, provided that: “(a) Definitions.—In this section:“(1) State.—“(A) In general.—The term ‘State’ means the State of Alaska. “(B) Inclusion.—The term ‘State’ includes any political subdivision of the State of Alaska. “(2) Village public safety officer.—The term ‘village public safety officer’ means an individual employed as a village public safety officer under the program established by the State pursuant to Alaska Statute 18.65.670. “(3) Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4 of the Indian Self-Determination and Educational [Education] Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)(l)]. “(b) COPS Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796dd&num=0&edition=prelim)) [now [34 U.S.C. 10381](./chapter-101-justice-system-improvement.md#section-10381)] (provided that only an Indian tribe or tribal organization may receive a grant under the tribal resources grant program under subsection (j) of that section) on an equal basis with other eligible applicants for funding under that section. “(c) Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2229a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2229a&num=0&edition=prelim)) on an equal basis with other eligible applicants for funding under that program. “(d) Training for Village Public Safety Officers and Tribal Law Enforcement Positions Funded Under COPS Program.—“(1) In general.—Any village public safety officer or tribal law enforcement officer in the State shall be eligible to participate in any training program offered at the Indian Police Academy of the Federal Law Enforcement Training Center. “(2) Funding.—Funding received pursuant to grants approved under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796dd&num=0&edition=prelim)) [now [34 U.S.C. 10381](./chapter-101-justice-system-improvement.md#section-10381)] may be used for training of officers at programs described in paragraph (1) or at a police academy in the State certified by the Alaska Police Standards Council.”
+Pub. L. 111–211, title II, § 247(a)–(d), July 29, 2010, 124 Stat. 2296, 2297, provided that: “(a) Definitions.—In this section:“(1) State.—“(A) In general.—The term ‘State’ means the State of Alaska. “(B) Inclusion.—The term ‘State’ includes any political subdivision of the State of Alaska. “(2) Village public safety officer.—The term ‘village public safety officer’ means an individual employed as a village public safety officer under the program established by the State pursuant to Alaska Statute 18.65.670. “(3) Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4 of the Indian Self-Determination and Educational [Education] Assistance Act ([25 U.S.C. 450b](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section450b&num=0&edition=prelim)(l)) [now [25 U.S.C. 5304](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim)(l)]. “(b) COPS Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796dd&num=0&edition=prelim)) [now [34 U.S.C. 10381](./chapter-101-justice-system-improvement.md#section-10381)] (provided that only an Indian tribe or tribal organization may receive a grant under the tribal resources grant program under subsection (j) [now subsec. (k)] of that section) on an equal basis with other eligible applicants for funding under that section. “(c) Staffing for Adequate Fire and Emergency Response Grants.—The State and any Indian tribe or tribal organization in the State that employs a village public safety officer shall be eligible to apply for a grant under the Staffing for Adequate Fire and Emergency Response program under section 34 of the Federal Fire Prevention and Control Act of 1974 ([15 U.S.C. 2229a](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section2229a&num=0&edition=prelim)) on an equal basis with other eligible applicants for funding under that program. “(d) Training for Village Public Safety Officers and Tribal Law Enforcement Positions Funded Under COPS Program.—“(1) In general.—Any village public safety officer or tribal law enforcement officer in the State shall be eligible to participate in any training program offered at the Indian Police Academy of the Federal Law Enforcement Training Center. “(2) Funding.—Funding received pursuant to grants approved under section 1701 of the Omnibus Crime Control and Safe Streets Act of 1968 ([42 U.S.C. 3796dd](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796dd&num=0&edition=prelim)) [now [34 U.S.C. 10381](./chapter-101-justice-system-improvement.md#section-10381)] may be used for training of officers at programs described in paragraph (1) or at a police academy in the State certified by the Alaska Police Standards Council.”
 
 [For definition of “Indian tribe” as used in section 247(a)–(d) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under [section 2801 of Title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section2801&num=0&edition=prelim), Indians.]
 
@@ -5107,10 +5484,29 @@ Section was formerly classified to [section 3796dd–2 of Title 42](https://usco
 
 **(c) Hiring costs** Funding provided under this subchapter for hiring or rehiring a career law enforcement officer may not exceed $75,000, unless the Attorney General grants a waiver from this limitation.
 
+**(d) Guidance for understaffed law enforcement agencies**
+
+(1) **Definitions** — In this subsection:
+
+  (A) *Covered applicant* — The term “covered applicant” means an applicant for a hiring grant under this subchapter seeking funding for a law enforcement agency operating below the budgeted strength of the law enforcement agency.
+
+  (B) *Budgeted strength* — The term “budgeted strength” means the employment of the maximum number of sworn law enforcement officers the budget of a law enforcement agency allows the agency to employ.
+
+(2) **Procedures** — Not later than 180 days after May 24, 2024, the Attorney General shall establish consistent procedures for covered applicants, including guidance that—
+
+  (A) clarifies that covered applicants remain eligible for funding under this subchapter; and
+
+  (B) enables covered applicants to attest that the funding from a grant awarded under this subchapter is not being used by the law enforcement agency to supplant State or local funds, as described in subsection (a).
+
+(3) **Paperwork reduction** — In developing the procedures and guidance under paragraph (2), the Attorney General shall take measures to reduce paperwork requirements for grants to covered applicants.
+
 ### Statutory Notes
 
 #### Codification
 Section was formerly classified to [section 3796dd–3 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796dd–3&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
+
+#### Amendments
+2024—Subsec. (d). Pub. L. 118–64 added subsec. (d).
 
 
 <a id="section-10385"></a>
@@ -5901,13 +6297,13 @@ Section was formerly classified as a note under [section 4352 of Title 18](https
 
 (1) **Purpose** — The Attorney General shall award a grant to tribal coalitions for purposes of—
 
-  (A) increasing awareness of domestic violence and sexual assault against Indian women;
+  (A) increasing awareness of domestic violence and sexual assault against Indian or Native Hawaiian women;
 
-  (B) enhancing the response to violence against Indian women at the Federal, State, and tribal levels;
+  (B) enhancing the response to violence against Indian or Native Hawaiian women at the Federal, State, and tribal levels;
 
-  (C) identifying and providing technical assistance to coalition membership and tribal communities to enhance access to essential services to Indian women victimized by domestic and sexual violence, including sex trafficking; and
+  (C) identifying and providing technical assistance to coalition membership and tribal communities or Native Hawaiian communities to enhance access to essential services to Indian or Native Hawaiian women victimized by domestic and sexual violence, including sex trafficking; and
 
-  (D) assisting Indian tribes in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
+  (D) assisting Indian tribes or Native Hawaiian communities in developing and promoting State, local, and tribal legislation and policies that enhance best practices for responding to violent crimes against Indian or Native Hawaiian women, including the crimes of domestic violence, dating violence, sexual assault, sex trafficking, and stalking.
 
 (2) **Grants** — The Attorney General shall award grants on an annual basis under paragraph (1) to—
 
@@ -5917,9 +6313,9 @@ Section was formerly classified as a note under [section 4352 of Title 18](https
 
     (ii) is recognized by the Office on Violence Against Women; and
 
-    (iii) provides services to Indian tribes; and
+    (iii) provides services to Indian tribes or Native Hawaiian communities; and
 
-  (B) organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes are located but no tribal coalition exists.
+  (B) organizations that propose to incorporate and operate a tribal coalition in areas where Indian tribes or Native Hawaiian communities are located but no tribal coalition exists.
 
 (3) **Use of amounts** — For each of fiscal years 2023 through 2027, of the amounts appropriated to carry out this subsection—
 
@@ -5930,6 +6326,8 @@ Section was formerly classified as a note under [section 4352 of Title 18](https
 (4) **Eligibility for other grants** — Receipt of an award under this subsection by a tribal coalition shall not preclude the tribal coalition from receiving additional grants under this chapter to carry out the purposes described in paragraph (1).
 
 (5) **Multiple purpose applications** — Nothing in this subsection prohibits any tribal coalition or organization described in paragraph (2) from applying for funding to address sexual assault or domestic violence needs in the same application.
+
+(6) **Native Hawaiian defined** — In this subsection, the term “Native Hawaiian” has the meaning given that term in [section 4221 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section4221&num=0&edition=prelim).
 
 ### Statutory Notes
 
@@ -5957,7 +6355,17 @@ Subsec. (b)(20). Pub. L. 117–103, § 101(a)(1)(A)(vi)(I), substituted “stalk
 
 Subsec. (b)(21) to (24). Pub. L. 117–103, § 101(a)(1)(A)(v), (vi)(II), (vii), added pars. (21) to (24).
 
+Subsec. (d)(1)(A), (B). Pub. L. 117–315, § 2(a)(1)(A), (B), inserted “or Native Hawaiian” after “Indian”.
+
+Subsec. (d)(1)(C). Pub. L. 117–315, § 2(a)(1)(C), inserted “or Native Hawaiian communities” after “tribal communities” and “or Native Hawaiian” after “Indian”.
+
+Subsec. (d)(1)(D). Pub. L. 117–315, § 2(a)(1)(D), inserted “or Native Hawaiian communities” after “Indian tribes” and “or Native Hawaiian” after “against Indian”.
+
+Subsec. (d)(2)(A)(iii), (B). Pub. L. 117–315, § 2(a)(2), inserted “or Native Hawaiian communities” after “Indian tribes”.
+
 Subsec. (d)(3). Pub. L. 117–103, § 101(a)(1)(B), substituted “2023 through 2027” for “2014 through 2018” in introductory provisions.
+
+Subsec. (d)(6). Pub. L. 117–315, § 2(a)(3), added par. (6).
 
 2013—Subsec. (b). Pub. L. 113–4, § 101(2)(A), substituted “resources” for “equipment” and inserted “for the protection and safety of victims,” after “women,” in introductory provisions.
 
@@ -6032,6 +6440,8 @@ Subsec. (b)(11). Pub. L. 106–386, § 1512(a), added par. (11).
 Subsec. (c). Pub. L. 106–386, § 1103(b)(1)(B), added subsec. (c).
 
 #### Effective Date of 2022 Amendment
+Pub. L. 117–315, § 3, Dec. 27, 2022, 136 Stat. 4405, provided that: “This Act [see Short Title of 2022 Amendment note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] shall become effective one day after enactment [Dec. 27, 2022].”
+
 Amendment by Pub. L. 117–103 not effective until Oct. 1 of the first fiscal year beginning after Mar. 15, 2022, see section 4(a) of div. W of Pub. L. 117–103, set out as an Effective Date note under [section 6851 of Title 15](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title15-section6851&num=0&edition=prelim), Commerce and Trade.
 
 #### Effective Date of 2013 Amendment
@@ -6039,6 +6449,9 @@ Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal yea
 
 #### Effective Date of 2006 Amendment
 Amendment by Pub. L. 109–162 not effective until the beginning of fiscal year 2007, see section 4 of Pub. L. 109–162, set out as a note under [section 10261 of this title](./chapter-101-justice-system-improvement.md#section-10261).
+
+#### Incentives for States To Create Sexual Assault Survivors’ Bill of Rights
+Pub. L. 117–263, div. E, title LIX, § 5903(a), Dec. 23, 2022, 136 Stat. 3441, provided that: “(a) Incentives for States to Create Sexual Assault Survivors’ Bill of Rights.—“(1) Definition of covered formula grant.—In this subsection, the term ‘covered formula grant’ means a grant under part T of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([34 U.S.C. 10441](./chapter-101-justice-system-improvement.md#section-10441) et seq.) (commonly referred to as the ‘STOP Violence Against Women Formula Grant Program’). “(2) Grant increase.—The Attorney General shall increase the amount of the covered formula grant provided to a State in accordance with this subsection if the State has in effect a law that provides to sexual assault survivors the rights, at a minimum, under [section 3772 of title 18](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title18-section3772&num=0&edition=prelim), United States Code. “(3) Application.—A State seeking an increase to a covered formula grant under this subsection shall submit an application to the Attorney General at such time, in such manner, and containing such information as the Attorney General may reasonably require, including information about the law described in paragraph (2). “(4) Period of increase.—The Attorney General may not provide an increase in the amount of the covered formula grant provided to a State under this subsection more than 4 times. “(5) Authorization of appropriations.—There are authorized to be appropriated $20,000,000 for each of fiscal years 2023 through 2027 to carry out this subsection.”
 
 #### Standards, Practice, and Training for Sexual Assault Forensic Examinations
 Pub. L. 106–386, div. B, title IV, § 1405, Oct. 28, 2000, 114 Stat. 1515, provided that: “(a) In General.—The Attorney General shall—“(1) evaluate existing standards of training and practice for licensed health care professionals performing sexual assault forensic examinations and develop a national recommended standard for training; “(2) recommend sexual assault forensic examination training for all health care students to improve the recognition of injuries suggestive of rape and sexual assault and baseline knowledge of appropriate referrals in victim treatment and evidence collection; and “(3) review existing national, State, tribal, and local protocols on sexual assault forensic examinations, and based on this review, develop a recommended national protocol and establish a mechanism for its nationwide dissemination. “(b) Consultation.—The Attorney General shall consult with national, State, tribal, and local experts in the area of rape and sexual assault, including rape crisis centers, State and tribal sexual assault and domestic violence coalitions and programs, and programs for criminal justice, forensic nursing, forensic science, emergency room medicine, law, social services, and sex crimes in underserved communities (as defined in [former] section 2003(7) of title I of the Omnibus Crime Control and Safe Streets Act of 1968 ([former] [42 U.S.C. 3796gg–2(7)](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–2/7&num=0&edition=prelim)), as amended by this division). “(c) Report.—The Attorney General shall ensure that not later than 1 year after the date of the enactment of this Act [Oct. 28, 2000], a report of the actions taken pursuant to subsection (a) is submitted to Congress. “(d) Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $200,000 for fiscal year 2001.”
@@ -6079,7 +6492,7 @@ The Violence Against Women and Department of Justice Reauthorization Act of 2005
 
 The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (c)(2)(D), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see section 1 of Pub. L. 113–4, set out as a Short Title of 2013 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
-The Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (c)(2)(E), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+The Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (c)(2)(E), is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 #### Codification
 Section was formerly classified to [section 3796gg–0 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–0&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -6128,7 +6541,7 @@ The Violence Against Women and Department of Justice Reauthorization Act of 2005
 
 The Violence Against Women Reauthorization Act of 2013, referred to in subsec. (b)(2), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see section 1 of Pub. L. 113–4, set out as a Short Title of 2013 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
-The Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (b)(2), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+The Violence Against Women Act Reauthorization Act of 2022, referred to in subsec. (b)(2), is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 #### Codification
 Section was formerly classified to [section 3796gg–0a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–0a&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -6194,7 +6607,7 @@ The Violence Against Women and Department of Justice Reauthorization Act of 2005
 
 The Violence Against Women Reauthorization Act of 2013, referred to in par. (5), is Pub. L. 113–4, Mar. 7, 2013, 127 Stat. 54. For complete classification of this Act to the Code, see section 1 of Pub. L. 113–4, set out as a Short Title of 2013 Act note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
-The Violence Against Women Act Reauthorization Act of 2022, referred to in par. (5), is div. W of Pub. L. 117–103, Apr. 6, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
+The Violence Against Women Act Reauthorization Act of 2022, referred to in par. (5), is div. W of Pub. L. 117–103, Mar. 15, 2022, 136 Stat. 840. For complete classification of this Act to the Code, see section 1 of div. W of Pub. L. 117–103, set out as a Short Title of 2022 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101), and Tables.
 
 #### Codification
 Section was formerly classified to [section 3796gg–0b of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3796gg–0b&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -6666,12 +7079,12 @@ Pub. L. 108–405, title III, § 310(b), Oct. 30, 2004, 118 Stat. 2276, provided
 Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as an Effective Date note under [section 10442 of this title](./chapter-101-justice-system-improvement.md#section-10442).
 
 #### Findings
-Pub. L. 117–103, div. W, title XV, § 1502, Mar. 15, 2022, 136 Stat. 951, provided that: “Congress finds the following: “(1) Approximately 1 in 15 children is exposed to domestic violence each year. “(2) Most child abuse is perpetrated in the family and by a parent. Intimate partner violence and child abuse overlap in the same families at rates between 30 and 60 percent. A child’s risk of abuse increases after a perpetrator of intimate partner violence separates from a domestic partner, even when the perpetrator has not previously directly abused the child. Children who have witnessed intimate partner violence are approximately 4 times more likely to experience direct child maltreatment than children who have not witnessed intimate partner violence. “(3) More than 75 percent of child sexual abuse is perpetrated by a family member or a person known to the child. Data of the Department of Justice shows that family members are 49 percent, or almost half, of the perpetrators of crimes against child sex assault victims younger than 6 years of age. “(4) Research suggests a child’s exposure to a batterer is among the strongest indicators of risk of incest victimization. One study found that female children with fathers who are batterers of their mothers were 6.5 times more likely to experience father-daughter incest than female children who do not have abusive fathers. “(5) Child abuse is a major public health issue in the United States. Total lifetime financial costs associated with just 1 year of confirmed cases of child maltreatment, including child physical abuse, sexual abuse, psychological abuse, and neglect, result in $124,000,000,000 in annual costs to the economy of the United States, or approximately 1 percent of the gross domestic product of the United States. “(6) Empirical research indicates that courts regularly discount allegations of child physical and sexual abuse when those allegations are raised in child custody cases. Courts believed less than ¼ of claims that a father has committed child physical or sexual abuse. With respect to cases in which an allegedly abusive parent claimed the mother “alienated” the child, courts believed only 1 out of 51 claims of sexual molestation by a father. Independent research indicates that child sexual abuse allegations are credible between 50 and 70 percent of the time. “(7) Empirical research shows that alleged or known abusive parents are often granted custody or unprotected parenting time by courts. Approximately ⅓ of parents alleged to have committed child abuse took primary custody from the protective parent reporting the abuse, placing children at ongoing risk. “(8) Researchers have documented nearly 800 child murders in the United States since 2008 committed by a divorcing or separating parent. More than 100 of these child murders are known to have occurred after a court ordered the child to have contact with the dangerous parent over the objection of a safe parent or caregiver. “(9) Scientifically unsound theories that treat abuse allegations of mothers as likely false attempts to undermine fathers are frequently applied in family court to minimize or deny reports of abuse of parents and children. Many experts who testify against abuse allegations lack expertise in the relevant type of alleged abuse, relying instead on unsound and unproven theories. “(10) Judges presiding over custody cases involving allegations of child abuse, child sexual abuse, and domestic violence are rarely required to receive training on these subjects, and most States have not established standards for such training.”
+Pub. L. 117–103, div. W, title XV, § 1502, Mar. 15, 2022, 136 Stat. 951, provided that: “Congress finds the following: “(1) Approximately 1 in 15 children is exposed to domestic violence each year. “(2) Most child abuse is perpetrated in the family and by a parent. Intimate partner violence and child abuse overlap in the same families at rates between 30 and 60 percent. A child’s risk of abuse increases after a perpetrator of intimate partner violence separates from a domestic partner, even when the perpetrator has not previously directly abused the child. Children who have witnessed intimate partner violence are approximately 4 times more likely to experience direct child maltreatment than children who have not witnessed intimate partner violence. “(3) More than 75 percent of child sexual abuse is perpetrated by a family member or a person known to the child. Data of the Department of Justice shows that family members are 49 percent, or almost half, of the perpetrators of crimes against child sex assault victims younger than 6 years of age. “(4) Research suggests a child’s exposure to a batterer is among the strongest indicators of risk of incest victimization. One study found that female children with fathers who are batterers of their mothers were 6.5 times more likely to experience father-daughter incest than female children who do not have abusive fathers. “(5) Child abuse is a major public health issue in the United States. Total lifetime financial costs associated with just 1 year of confirmed cases of child maltreatment, including child physical abuse, sexual abuse, psychological abuse, and neglect, result in $124,000,000,000 in annual costs to the economy of the United States, or approximately 1 percent of the gross domestic product of the United States. “(6) Empirical research indicates that courts regularly discount allegations of child physical and sexual abuse when those allegations are raised in child custody cases. Courts believed less than ¼ of claims that a father has committed child physical or sexual abuse. With respect to cases in which an allegedly abusive parent claimed the mother ‘alienated’ the child, courts believed only 1 out of 51 claims of sexual molestation by a father. Independent research indicates that child sexual abuse allegations are credible between 50 and 70 percent of the time. “(7) Empirical research shows that alleged or known abusive parents are often granted custody or unprotected parenting time by courts. Approximately ⅓ of parents alleged to have committed child abuse took primary custody from the protective parent reporting the abuse, placing children at ongoing risk. “(8) Researchers have documented nearly 800 child murders in the United States since 2008 committed by a divorcing or separating parent. More than 100 of these child murders are known to have occurred after a court ordered the child to have contact with the dangerous parent over the objection of a safe parent or caregiver. “(9) Scientifically unsound theories that treat abuse allegations of mothers as likely false attempts to undermine fathers are frequently applied in family court to minimize or deny reports of abuse of parents and children. Many experts who testify against abuse allegations lack expertise in the relevant type of alleged abuse, relying instead on unsound and unproven theories. “(10) Judges presiding over custody cases involving allegations of child abuse, child sexual abuse, and domestic violence are rarely required to receive training on these subjects, and most States have not established standards for such training.”
 
 [For definitions of terms used in section 1502 of div. W of Pub. L. 117–103, set out above, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).]
 
 #### Purposes
-Pub. L. 117–103, div. W, title XV, § 1503, Mar. 15, 2022, 136 Stat. 952, provided that: “The purposes of this title [see Short Title of 2022 Amendment note set out under section 10101 of tihs title] are to— “(1) increase the priority given to child safety in any State court divorce, separation, visitation, paternity, child support, civil protection order, or family custody court proceeding affecting the custody and care of children, excluding child protective, abuse, or neglect proceedings and juvenile justice proceedings; “(2) strengthen the abilities of courts to—“(A) recognize and adjudicate domestic violence and child abuse allegations based on valid, admissible evidence; and “(B) enter orders that protect and minimize the risk of harm to children; and “(3) ensure that professional personnel involved in cases containing domestic violence or child abuse allegations receive trauma-informed and culturally appropriate training on the dynamics, signs, and impact of domestic violence and child abuse, including child sexual abuse.”
+Pub. L. 117–103, div. W, title XV, § 1503, Mar. 15, 2022, 136 Stat. 952, provided that: “The purposes of this title [see Short Title of 2022 Amendment note set out under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101)] are to— “(1) increase the priority given to child safety in any State court divorce, separation, visitation, paternity, child support, civil protection order, or family custody court proceeding affecting the custody and care of children, excluding child protective, abuse, or neglect proceedings and juvenile justice proceedings; “(2) strengthen the abilities of courts to—“(A) recognize and adjudicate domestic violence and child abuse allegations based on valid, admissible evidence; and “(B) enter orders that protect and minimize the risk of harm to children; and “(3) ensure that professional personnel involved in cases containing domestic violence or child abuse allegations receive trauma-informed and culturally appropriate training on the dynamics, signs, and impact of domestic violence and child abuse, including child sexual abuse.”
 
 [For definitions of terms used in section 1503 of div. W of Pub. L. 117–103, set out above, see [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291), as made applicable by section 2(b) of div. W of Pub. L. 117–103, which is set out as a note under [section 12291 of this title](./chapter-121-violent-crime-control-and-law-enforcement.md#section-12291).]
 
@@ -7112,7 +7525,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
     (ii) the refusal of a victim to submit to an examination described in clause (i) shall not prevent the investigation of, trial of, or sentencing for the offense;
 
-  (F) except for a court, not later than 3 years after the date on which an eligible grantee receives the first award under this subchapter after March 15, 2022, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located ensure that prosecutor’s offices engage in planning, developing, and implementing—
+  (F) except for a court, not later than 3 years after the date on which an eligible grantee receives the first award under this subchapter after March 15, 2022, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located ensure that prosecutor’s 33 So in original. Probably should be “prosecutors’ ”. offices engage in planning, developing, and implementing—
 
     (i) training developed by experts in the field regarding victim-centered approaches in domestic violence, sexual assault, dating violence, and stalking cases;
 
@@ -7120,7 +7533,7 @@ Section not effective until Oct. 1 of the first fiscal year beginning after Mar.
 
     (iii) a protocol outlining alternative practices and procedures for material witness petitions and bench warrants, consistent with best practices, that shall be exhausted before employing material witness petitions and bench warrants to obtain victim-witness testimony in the investigation, prosecution, and trial of a crime related to domestic violence, sexual assault, dating violence, and stalking of the victim in order to prevent further victimization and trauma to the victim; and
 
-  (G) except for a court, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located prohibits the prosecution of a minor under the age of 18 with respect to prostitution; and
+  (G) except for a court, certify that the laws, policies, and practices of the State or the jurisdiction in which the eligible grantee is located prohibits 44 So in original. Probably should be “prohibit”. the prosecution of a minor under the age of 18 with respect to prostitution; and
 
 (2) a State, tribal, or territorial domestic violence or sexual assault coalition or a victim service provider that partners with a State, Indian tribal government, or unit of local government that certifies that the State, Indian tribal government, or unit of local government meets the requirements under paragraph (1).
 
@@ -10078,7 +10491,7 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 
   (I) *Use of funds* — Applicants that receive an implementation grant may use funds for 1 or more of the following purposes:
 
-    (i) *Mental health courts and diversion/alternative prosecution and sentencing programs* — Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams and treatment accountability services for communities) that meet requirements established by the Attorney General and the Secretary.
+    (i) *Mental health courts and diversion/alternative prosecution and sentencing programs* — Funds may be used to create or expand existing mental health courts that meet program requirements established by the Attorney General under subchapter XXI of this chapter, other court-based programs, or diversion and alternative prosecution and sentencing programs (including crisis intervention teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation) that meet requirements established by the Attorney General and the Secretary.
 
     (ii) *Training* — Funds may be used to create or expand programs, such as crisis intervention training, which offer specialized training to—
 
@@ -10096,11 +10509,31 @@ Section was formerly classified to [section 3797y–3 of Title 42](https://uscod
 
       (II) provide training on how to respond appropriately to the unique issues involving frequent users of crisis services for public service personnel, including criminal justice, mental health, substance abuse, emergency room, healthcare, law enforcement, corrections, and housing personnel;
 
-      (III) develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment; and
+      (III) develop or support alternatives to hospital and jail admissions for frequent users of crisis services that provide treatment, stabilization, and other appropriate supports in the least restrictive, yet appropriate, environment;
 
-      (IV) develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services.
+      (IV) develop protocols and systems among law enforcement, mental health, substance abuse, housing, corrections, and emergency medical service operations to provide coordinated assistance to frequent users of crisis services; and
+
+      (V) coordinate, implement, and administer models to address mental health calls that include specially trained officers and mental health crisis workers responding to those calls together.
+
+    (vi) *Suicide prevention services* — Funds may be used to develop, promote, and implement comprehensive suicide prevention programs and services for incarcerated individuals that include ongoing risk assessment.
+
+    (vii) *Case management services* — Funds may be used for case management services for preliminary qualified offenders and individuals who are released from any penal or correctional institution to—
+
+      (I) reduce recidivism; and
+
+      (II) assist those individuals with reentry into the community.
+
+    (viii) *Enhancing community capacity and links to mental health care* — Funds may be used to support, administer, or develop treatment capacity and increase access to mental health care and substance use disorder services for preliminary qualified offenders and individuals who are released from any penal or correctional institution.
+
+    (ix) *Implementing 988* — Funds may be used to support the efforts of State and local governments to implement and expand the integration of the 988 universal telephone number designated for the purpose of the national suicide prevention and mental health crisis hotline system under [section 251(e)(4) of title 47](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title47-section251/e/4&num=0&edition=prelim), including by hiring staff to support the implementation and expansion.
 
   (J) *Geographic distribution of grants* — The Attorney General, in consultation with the Secretary, shall ensure that planning and implementation grants are equitably distributed among the geographical regions of the United States and between urban and rural populations.
+
+  (K) *Teams addressing mental health calls* — With respect to a multidisciplinary team described in subparagraph (I)(v) that receives funds from a grant under this section, the multidisciplinary team—
+
+    (i) shall, to the extent practicable, provide response capability 24 hours each day and 7 days each week to respond to crisis or mental health calls; and
+
+    (ii) may place a part of the team in a 911 call center to facilitate the timely response to mental health crises.
 
 **(c) Priority** The Attorney General, in awarding funds under this section, shall give priority to applications that—
 
@@ -10403,7 +10836,15 @@ This Act, referred to in subsec. (n)(1), is Pub. L. 90–351, June 19, 1968, 82 
 Section was formerly classified to [section 3797aa of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797aa&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
 
 #### Amendments
-2022—Subsec. (h)(1)(A). Pub. L. 117–170, § 3(1)(A), inserted before period at end “, including the training developed under [section 10653 of this title](./chapter-101-justice-system-improvement.md#section-10653)”.
+2022—Subsec. (b)(5)(I)(i). Pub. L. 117–323, § 2(1)(A), substituted “teams, treatment accountability services for communities, and training for State and local prosecutors relating to diversion programming and implementation” for “teams and treatment accountability services for communities”.
+
+Subsec. (b)(5)(I)(v)(V). Pub. L. 117–323, § 2(1)(B), added subcl. V.
+
+Subsec. (b)(5)(I)(vi) to (ix). Pub. L. 117–323, § 2(1)(C), added cls. (vi) to (ix).
+
+Subsec. (b)(5)(K). Pub. L. 117–323, § 2(2), added subpar. (K).
+
+Subsec. (h)(1)(A). Pub. L. 117–170, § 3(1)(A), inserted before period at end “, including the training developed under [section 10653 of this title](./chapter-101-justice-system-improvement.md#section-10653)”.
 
 Subsec. (o)(1). Pub. L. 117–170, § 3(1)(B), amended par. (1) generally. Prior to amendment, par. (1) authorized appropriations for fiscal years 2005 to 2007 and 2017 to 2021.
 
@@ -11100,9 +11541,12 @@ In this subchapter:
 
 (7) The term “tribal organization” has the meaning given that term in [section 5304 of title 25](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title25-section5304&num=0&edition=prelim).
 
-(8) The term “State substance abuse agency” has the meaning given that term in [section 290bb–1(r)(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290bb–1/r/6&num=0&edition=prelim).
+(8) The term “State substance abuse agency” has the meaning given that term in section 290bb–1(r)(6) 11 See References in Text note below. of title 42.
 
 ### Statutory Notes
+
+#### References in Text
+[Section 290bb–1(r)(6) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290bb–1/r/6&num=0&edition=prelim), referred to in par. (8), was redesignated [section 290bb–1(r)(5) of title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section290bb–1/r/5&num=0&edition=prelim) by Pub. L. 117–328, div. FF, title I, § 1114(2), Dec. 29, 2022, 136 Stat. 5647.
 
 #### Codification
 Section was formerly classified to [section 3797ff–4 of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section3797ff–4&num=0&edition=prelim), The Public Health and Welfare, prior to editorial reclassification and renumbering as this section.
@@ -11354,7 +11798,7 @@ The Director of the Bureau of Justice Assistance shall promulgate such rules and
 Section 223(d) of the Protecting Access to Medicare Act of 2014, referred to in subsec. (d)(2), is section 223(d) of Pub. L. 113–93, which is set out as a note under [section 1396a of Title 42](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title42-section1396a&num=0&edition=prelim), The Public Health and Welfare.
 
 #### Short Title
-For short title ofPub. L. 116–281, which enacted this subchapter, as the “Crisis Stabilization and Community Reentry Act of 2020”, see section 1 of Pub. L. 116–281, set out as a Short Title of 2020 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
+For short title of Pub. L. 116–281, which enacted this subchapter, as the “Crisis Stabilization and Community Reentry Act of 2020”, see section 1 of Pub. L. 116–281, set out as a Short Title of 2020 Amendment note under [section 10101 of this title](./chapter-101-justice-system-improvement.md#section-10101).
 
 
 <a id="section-10752"></a>

@@ -128,13 +128,53 @@ Subsec. (d)(4). Pub. L. 111–281, § 610(a)(5), inserted “that is not describ
 
 (4) procedures for reporting accidents and nonconformities with this chapter;
 
-(5) procedures for preparing for and responding to emergency situations; and
+(5) with respect to sexual harassment and sexual assault, procedures for, and annual training requirements for all responsible persons and vessels to which this chapter applies on—
 
-(6) procedures for internal audits and management reviews of the system.
+  (A) prevention;
 
-**(b) Compliance With Code.—** Regulations prescribed under this section shall be consistent with the International Safety Management Code with respect to vessels to which this chapter applies under [section 3202(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3202/a&num=0&edition=prelim).
+  (B) bystander intervention;
 
-**(c)** In prescribing regulations for passenger vessels and small passenger vessels, the Secretary shall consider—
+  (C) reporting;
+
+  (D) response; and
+
+  (E) investigation;
+
+(6) the list required under section 3106(a)(2) and the log book required under section 3106(a)(3);
+
+(7) procedures for preparing for and responding to emergency situations; and
+
+(8) procedures for internal audits and management reviews of the system.
+
+**(b) Procedures and Training Requirements.—** In prescribing regulations for the procedures and training requirements described in subsection (a)(5), such procedures and requirements shall be consistent with the requirements to report sexual harassment or sexual assault under section 10104.
+
+**(c) Audits.—**
+
+(1) **Certificates.—**
+
+  (A) *Suspension.—* — During an audit of a safety management system of a vessel required under section 10104(e), the Secretary may suspend the Safety Management Certificate issued for the vessel under section 3205 and issue a separate Safety Management Certificate for the vessel to be in effect for a 3-month period beginning on the date of the issuance of such separate certificate.
+
+  (B) *Revocation.—* — At the conclusion of an audit of a safety management system required under section 10104(e), the Secretary shall revoke the Safety Management Certificate issued for the vessel under section 3205 if the Secretary determines—
+
+    (i) that the holder of the Safety Management Certificate knowingly, or repeatedly, failed to comply with section 10104; or
+
+    (ii) other failure of the safety management system resulted in the failure to comply with such section.
+
+(2) **Documents of compliance.—**
+
+  (A) *In general.—* — Following an audit of the safety management system of a vessel required under section 10104(e), the Secretary may audit the safety management system of the responsible person for the vessel.
+
+  (B) *Suspension.—* — During an audit under subparagraph (A), the Secretary may suspend the Document of Compliance issued to the responsible person under section 3205 and issue a separate Document of Compliance to such person to be in effect for a 3-month period beginning on the date of the issuance of such separate document.
+
+  (C) *Revocation.—* — At the conclusion of an assessment or an audit of a safety management system under subparagraph (A), the Secretary shall revoke the Document of Compliance issued to the responsible person if the Secretary determines—
+
+    (i) that the holder of the Document of Compliance knowingly, or repeatedly, failed to comply with section 10104; or
+
+    (ii) that other failure of the safety management system resulted in the failure to comply with such section.
+
+**(d) Compliance With Code.—** Regulations prescribed under this section shall be consistent with the International Safety Management Code with respect to vessels to which this chapter applies under [section 3202(a) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title46-section3202/a&num=0&edition=prelim).
+
+**(e)** In prescribing regulations for passenger vessels and small passenger vessels, the Secretary shall consider—
 
 (1) the characteristics, methods of operation, and nature of the service of these vessels; and
 
@@ -143,6 +183,10 @@ Subsec. (d)(4). Pub. L. 111–281, § 610(a)(5), inserted “that is not describ
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (a)(5) to (8). Pub. L. 117–263, § 11610(a)(1), added pars. (5) and (6) and redesignated former pars. (5) and (6) as (7) and (8), respectively.
+
+Subsecs. (b) to (e). Pub. L. 117–263, § 11610(a)(2), (3), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
+
 2021—Subsec. (a). Pub. L. 116–283 inserted “(including, for purposes of this section, all covered small passenger vessels, as defined in section 3306(n)(5))” after “vessels to which this chapter applies” in introductory provisions.
 
 2010—Subsec. (c). Pub. L. 111–281 added subsec. (c).
@@ -172,7 +216,7 @@ Pub. L. 115–265, title II, § 213, Oct. 11, 2018, 132 Stat. 3750, provided tha
 
 **(c) Verification of Compliance.—** The Secretary shall—
 
-(1) periodically review whether a responsible person having a safety management plan approved under section 3204(b) and each vessel to which the plan applies is complying with the plan; and
+(1) periodically, or upon discovery from other sources of information acquired by the Coast Guard, including a discovery made during an audit or systematic review conducted under section 10104(e) of a failure of a responsible person or vessel to comply with a requirement of a safety management system for which a Safety Management Certificate and a Document of compliance 11 So in original. Probably should be “Compliance”. has been issued under this section, including a failure to comply with regulations prescribed under section 3203(a)(7) and (8), review whether a responsible person having a safety management plan approved under section 3204(b) and each vessel to which the plan applies is complying with the plan; and
 
 (2) revoke the Secretary’s approval of the plan and each Safety Management Certificate and Document of Compliance issued to the person for a vessel to which the plan applies, if the Secretary determines that the person or a vessel to which the plan applies has not complied with the plan.
 
@@ -181,6 +225,8 @@ Pub. L. 115–265, title II, § 213, Oct. 11, 2018, 132 Stat. 3750, provided tha
 ### Statutory Notes
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–263 inserted “, or upon discovery from other sources of information acquired by the Coast Guard, including a discovery made during an audit or systematic review conducted under section 10104(e) of a failure of a responsible person or vessel to comply with a requirement of a safety management system for which a Safety Management Certificate and a Document of compliance has been issued under this section, including a failure to comply with regulations prescribed under section 3203(a)(7) and (8),” after “periodically”.
+
 2008—Subsec. (d). Pub. L. 110–181 amended Pub. L. 109–304, § 15(10). See 2006 Amendment note below.
 
 2006—Subsec. (d). Pub. L. 109–304, § 15(10), as amended by Pub. L. 110–181, substituted “Secretary of Homeland Security shall withhold or revoke the clearance required by [section 60105 of this title](./chapter-601-arrival-and-departure-requirements.md#section-60105)” for “Secretary of the Treasury shall withhold or revoke the clearance required by section 4197 of the Revised Statutes (46 U.S.C. App. 91)”.

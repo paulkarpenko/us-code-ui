@@ -291,7 +291,7 @@ Upon satisfactory proof of full compliance with the provisions of the laws under
 ### Statutory Notes
 
 #### References in Text
-The Mineral Leasing Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
+The Mineral Leasing Act of February 25, 1920, referred to in text, is act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
 #### Amendments
 1956—Act July 20, 1956, permitted disposal of mineral deposits which are subject, at the time of application for patent, to valid and subsisting rights acquired by discovery and location under the mining laws made prior to Feb. 25, 1920.
@@ -319,9 +319,9 @@ Lands withdrawn, classified, or reported as valuable for sodium and/or sulphur a
 ### Statutory Notes
 
 #### References in Text
-The General Leasing Act of February 25, 1920, referred to in text, probably means the Mineral Leasing Act of 1920, act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
+The General Leasing Act of February 25, 1920, referred to in text, probably means the Mineral Leasing Act of 1920, act Feb. 25, 1920, ch. 85, 41 Stat. 437, which is classified generally to chapter 3A (§ 181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 181 of this title](./chapter-3a-leases-and-prospecting-permits.md#section-181) and Tables.
 
-The Act of Congress approved July 17, 1914, referred to in text, is act July 17, 1914, ch. 142, 38 Stat. 509, as amended, which is classified to sections 121 to 123 of this title.
+The Act of Congress approved July 17, 1914, referred to in text, is act July 17, 1914, ch. 142, 38 Stat. 509, which is classified to sections 121 to 123 of this title.
 
 
 <a id="section-125"></a>
@@ -332,7 +332,7 @@ Where reclamation homestead entry was made prior to July 17, 1914, pursuant to t
 ### Statutory Notes
 
 #### References in Text
-Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section371&num=0&edition=prelim) and Tables.
+Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, which is classified generally to chapter 12 (§ 371 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under [section 371 of Title 43](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title43-section371&num=0&edition=prelim) and Tables.
 
 
 <a id="section-131"></a>

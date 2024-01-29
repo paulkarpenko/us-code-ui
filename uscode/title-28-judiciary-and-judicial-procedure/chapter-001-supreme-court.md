@@ -18,6 +18,12 @@ Based on title 28, U.S.C., 1940 ed., § 321 (Mar. 3, 1911, ch. 231, § 215, 36 S
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, § 2, cl. 2.
 
+#### Short Title of 2024 Amendment
+Pub. L. 118–73, § 1, July 30, 2024, 138 Stat. 1504, provided that: “This Act [amending sections 124 and 128 of this title] may be cited as the ‘Improving Access to Our Courts Act’.”
+
+#### Short Title of 2023 Amendment
+Pub. L. 117–354, § 1, Jan. 5, 2023, 136 Stat. 6270, provided that: “This Act [enacting [section 540D of this title](./chapter-033-federal-bureau-of-investigation.md#section-540d) and [section 20306 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20306&num=0&edition=prelim), Crime Control and Law Enforcement, amending sections 20301 to 20305 of Title 34, and repealing [section 20306 of Title 34](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title34-section20306&num=0&edition=prelim)] may be cited as the ‘Respect for Child Survivors Act’.”
+
 #### Short Title of 2022 Amendment
 Pub. L. 117–252, § 1, Dec. 20, 2022, 136 Stat. 2359, provided that: “This Act [amending provisions set out as a note preceding [section 81 of this title](./chapter-005-district-courts.md#section-81)] may be cited as the ‘Pro bono Work to Empower and Represent Act of 2021’ or the ‘POWER 2.0 Act’.”
 

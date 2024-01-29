@@ -2,7 +2,7 @@
 title: 38
 chapter: '5'
 heading: AUTHORITY AND DUTIES OF THE SECRETARY
-section_count: 29
+section_count: 30
 source: >-
   https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38&num=0&edition=prelim
 ---
@@ -232,15 +232,27 @@ Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided th
 
 <a id="section-516"></a>
 ## § 516. Equal employment responsibilities
-**(a)** The Secretary shall provide that the employment discrimination complaint resolution system within the Department be established and administered so as to encourage timely and fair resolution of concerns and complaints. The Secretary shall take steps to ensure that the system is administered in an objective, fair, and effective manner and in a manner that is perceived by employees and other interested parties as being objective, fair, and effective.
+**(a)**
+
+(1) The Secretary shall provide that the employment discrimination complaint resolution system within the Department be established and administered so as to encourage timely and fair resolution of concerns and complaints. The Secretary shall take steps to ensure that the system is administered in an objective, fair, and effective manner and in a manner that is perceived by employees and other interested parties as being objective, fair, and effective.
+
+(2) The Secretary shall ensure that the employment discrimination complaint resolution system established under paragraph (1) requires that any manager of the Department who receives a sexual or other harassment or employment discrimination complaint reports such complaint to the Office of Resolution Management, or successor office, immediately, or if such immediate reporting is impracticable, not later than two days after the date on which the manager receives the complaint.
 
 **(b)** The Secretary shall provide—
 
-(1) that employees responsible for counseling functions associated with employment discrimination and for receiving, investigating, and processing complaints of employment discrimination shall be supervised in those functions by, and report to, an Assistant Secretary or a Deputy Assistant Secretary for complaint resolution management; and
+(1) that employees responsible for counseling functions associated with employment discrimination and for receiving, investigating, and processing complaints of employment discrimination shall be supervised in those functions by, and report to, an Assistant Secretary or a Deputy Assistant Secretary, in accordance with subsection (h)(2), for complaint resolution management; and
 
 (2) that employees performing employment discrimination complaint resolution functions at a facility of the Department shall not be subject to the authority, direction, and control of the Director of the facility with respect to those functions.
 
-**(c)** The Secretary shall ensure that all employees of the Department receive adequate education and training for the purposes of this section and [section 319 of this title](./chapter-003-department-of-veterans-affairs.md#section-319).
+**(c)**
+
+(1) The Secretary shall ensure that all employees of the Department receive adequate education and training for the purposes of this section and [section 319 of this title](./chapter-003-department-of-veterans-affairs.md#section-319).
+
+(2)
+
+  (A) Beginning not later than 180 days after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the Secretary shall provide to each employee of the Department mandatory annual training on identifying and addressing sexual and other harassment and employment discrimination, including with respect to processes under the Harassment Prevention Program of the Department, or such successor program.
+
+  (B) An employee of the Department who is hired on or after such date shall receive the first such mandatory annual training not later than 60 days after being hired.
 
 **(d)** The Secretary shall, when appropriate, impose disciplinary measures, as authorized by law, in the case of employees of the Department who engage in unlawful employment discrimination, including retaliation against an employee asserting rights under an equal employment opportunity law.
 
@@ -248,7 +260,7 @@ Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided th
 
 (1)
 
-  (A) Not later than 45 days after the end of each calendar quarter, the Assistant Secretary for Human Resources and Administration shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
+  (A) Not later than 45 days after the end of each calendar quarter, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report summarizing the employment discrimination complaints filed against the individuals referred to in paragraph (2) during such quarter.
 
   (B) Subparagraph (A) shall apply in the case of complaints filed against individuals on the basis of such individuals’ personal conduct and shall not apply in the case of complaints filed solely on the basis of such individuals’ positions as officials of the Department.
 
@@ -290,11 +302,60 @@ Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided th
 
 **(f)** The Secretary shall ensure that an employee of the Department who seeks counseling relating to employment discrimination may elect to receive such counseling from an employee of the Department who carries out equal employment opportunity counseling functions on a full-time basis rather than from an employee of the Department who carries out such functions on a part-time basis.
 
-**(g)** The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
+**(g)**
+
+(1)
+
+  (A) Except as provided in paragraph (4), beginning on the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022 and ending on the date that is three years after the date of the enactment of such Act, the number of employees of the Department whose duties include equal employment opportunity counseling functions may not exceed 76 full-time equivalent employees.
+
+  (B) Except as provided in paragraph (4), beginning on the date that is three years after the date of enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the number of employees of the Department whose duties include equal employment opportunity counseling functions may not exceed 81 full-time equivalent employees.
+
+(2) Except as provided in paragraph (4), of the 76 full-time equivalent employees set forth in paragraph (1), the number of employees of the Department whose duties include equal employment opportunity counseling functions as well as other unrelated functions may not exceed 40 full-time equivalent employees.
+
+(3) Except as provided in paragraph (4), any employee described in paragraph (2) whose duties include equal employment opportunity counseling functions as well as other unrelated functions may be assigned equal employment opportunity counseling functions only at Department facilities in remote geographic locations.
+
+(4)
+
+  (A) Beginning on the date that is one year after the date of enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the Secretary shall promptly notify Congress if, at any point in time, the number of full-time equivalent employees of the Department specified in paragraph (1), whose duties include equal opportunity counseling functions, is insufficient for the Department to meet its required obligations under law.
+
+  (B) Notification under subparagraph (A) shall include—
+
+    (i) the specific legal obligations relating to employment discrimination, or other matters similar to those covered by regulations prescribed by the Equal Employment Opportunity Commission, that the Department is unable to meet; and
+
+    (ii) the total additional number of full-time equivalent employees of the Department that would be needed for the Department to meet such obligations.
+
+**(h)**
+
+(1) The provisions of this section shall be implemented in a manner consistent with procedures applicable under regulations prescribed by the Equal Employment Opportunity Commission.
+
+(2) Beginning not later than 90 days after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, in carrying out paragraph (1), the Secretary shall ensure that the official of the Department who serves as the Equal Employment Opportunity Director of the Department—
+
+  (A) reports directly to the Deputy Secretary with respect to the functions under this section; and
+
+  (B) does not also serve in a position that has responsibility over personnel functions of the Department or other functions that conflict with the functions under this section.
+
+**(i)** In accordance with subsection (b), not later than one year after the date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022, the Secretary shall ensure that each Equal Employment Opportunity program manager of the Department at the facility level reports to the head of the Office of Resolution Management, or such successor office established pursuant to subsection (a), with respect to the equal employment functions of the program manager.
 
 ### Statutory Notes
 
+#### References in Text
+The date of the enactment of the Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022 and the date of the enactment of such Act, referred to in subsecs. (c)(2)(A), (g)(1), (4)(A), (h)(2), and (i), is the date of enactment of div. U of Pub. L. 117–328, which was approved Dec. 29, 2022.
+
 #### Amendments
+2022—Subsec. (a). Pub. L. 117–328, § 402(c), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (b)(1). Pub. L. 117–328, § 402(a)(2)(A), inserted “, in accordance with subsection (h)(2),” after “an Assistant Secretary or a Deputy Assistant Secretary”.
+
+Subsec. (c). Pub. L. 117–328, § 402(d), designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (e)(1)(A). Pub. L. 117–328, § 402(a)(2)(B), substituted “the Secretary” for “the Assistant Secretary for Human Resources and Administration”.
+
+Subsec. (g). Pub. L. 117–328, § 408(a)(1)(B), added subsec. (g). Former subsec. (g) redesignated (h).
+
+Subsec. (h). Pub. L. 117–328, §§ 402(a)(1), 408(a)(1)(A), redesignated subsec. (g) as (h), designated existing provisions as par. (1), and added par. (2).
+
+Subsec. (i). Pub. L. 117–328, § 402(b), added subsec. (i).
+
 2021—Subsecs. (g), (h). Pub. L. 117–76 redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text of subsec. (g) read as follows: “The number of employees of the Department whose duties include equal employment opportunity counseling functions as well as other, unrelated functions may not exceed 40 full-time equivalent employees. Any such employee may be assigned equal employment opportunity counseling functions only at Department facilities in remote geographic locations (as determined by the Secretary). The Secretary may waive the limitation in the preceding sentence in specific cases.”
 
 2003—Subsec. (e)(1)(A). Pub. L. 108–170 substituted “45 days” for “30 days”.
@@ -303,6 +364,15 @@ Pub. L. 116–315, title VII, § 7010, Jan. 5, 2021, 134 Stat. 5061, provided th
 
 #### Effective Date
 Pub. L. 105–114, title I, § 101(c), Nov. 21, 1997, 111 Stat. 2280, provided that: “[Section 516 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-516), United States Code, as added by subsection (a), shall take effect 90 days after the date of enactment of this Act [Nov. 21, 1997]. Subsection (e) of that section shall take effect with respect to the first quarter of calendar year 1998.”
+
+#### Harassment and Employment Discrimination Policies and Directives
+Pub. L. 117–328, div. U, title IV, § 402(e), Dec. 29, 2022, 136 Stat. 5485, provided that: “The Secretary of Veterans Affairs shall— “(1) by not later than the date that is 180 days after the date of the enactment of this Act [Dec. 29, 2022], and on a regular basis thereafter, review the policies relating to sexual and other harassment and employment discrimination of the Department of Veterans Affairs to ensure that such policies are complete and in accordance with the sexual and other harassment and employment discrimination policies established by the Office of Resolution Management of the Department, or successor office; and “(2) by not later than 180 days after the date of the enactment of this Act, issue a final directive and a handbook for the Harassment Prevention Program of the Department.”
+
+#### Semiannual Reports
+Pub. L. 117–328, div. U, title IV, § 402(f), Dec. 29, 2022, 136 Stat. 5485, provided that: “Not later than 180 days after the date of the enactment of this Act [Dec. 29, 2022], and semiannually thereafter for one year, the Secretary of Veterans Affairs shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the progress the Secretary has made in carrying out this section [amending this section and enacting provisions set out as a note above] and [section 516 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-516), United States Code, as amended by this section, including with respect to reporting sexual and other harassment and employment discrimination complaints pursuant to subsection (a)(2) of such section 516.”
+
+#### Annual Reports
+Pub. L. 117–328, div. U, title IV, § 408(c), Dec. 29, 2022, 136 Stat. 5497, provided that: “Not later than one year after the date of the enactment of this Act [Dec. 29, 2022] and once each year thereafter, the Secretary of Veterans Affairs shall make available to the public on an internet website of the Department an annual report that includes, for the year covered by the report, the following: “(1) Total number of complaints filed through the employment discrimination complaint resolution system established and administered under subsection (a) of [section 516 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-516), United States Code. “(2) Total number of such complaints completed processing by such system in a timely manner. “(3) The percentage of all pre-complaint counseling provided under such section that led to resolution without further action. “(4) The percentage of all pre-complaint counseling provided under such section that led to resolution via alternative dispute resolution. “(5) The percentage of all pre-complaint counseling provided under such section that led to filing of a formal complaint via such system. “(6) An accounting of the amounts, times, and quality of informal claims processed by employees of the Department whose duties include equal employment opportunity counseling under such section. “(7) An estimate of the required ratio of Department employees whose duties include equal employment opportunity counseling functions relative to the number of full-time equivalent employees in the Department.”
 
 #### Reports on Implementation and Operation of Equal Employment Opportunity System
 Pub. L. 105–114, title I, § 101(b), Nov. 21, 1997, 111 Stat. 2279, required the Secretary of Veterans Affairs to submit to Congress reports on the implementation and operation of the equal employment opportunity system within the Department of Veterans Affairs setting forth detailed information for each equal employment opportunity field office of the Department, with the first report due not later than Apr. 1, 1998, and subsequent reports due not later than Jan. 1, 1999, and Jan. 1, 2000.
@@ -623,7 +693,7 @@ Provisions similar to those in this section were contained in [section 219 of th
 Pub. L. 117–168, title V, § 502, Aug. 10, 2022, 136 Stat. 1786, provided that: “(a) In General.—The Secretary of Veterans Affairs shall analyze, on a continuous basis, all clinical data that—“(1) is obtained by the Department of Veterans Affairs in connection with hospital care, medical services, and nursing home care furnished under [section 1710(a)(2)(F) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1710/a/2/F&num=0&edition=prelim), United States Code; and “(2) is likely to be scientifically useful in determining the association, if any, between the medical condition of a veteran and a toxic exposure. “(b) Annual Report.—Not later than one year after the date of the enactment of this Act [Aug. 10, 2022], and annually thereafter, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report containing the following:“(1) The aggregate data compiled under subsection (a). “(2) An analysis of such data. “(3) A description of the types and incidences of medical conditions identified by the Department under such subsection. “(4) The explanation of the Secretary for the incidence of such medical conditions and other explanations for the incidence of such conditions as the Secretary considers reasonable. “(5) The views of the Secretary on the scientific validity of drawing conclusions from the incidence of such medical conditions, as evidenced by the data compiled under subsection (a), regarding any association between such conditions and toxic exposures. “(c) Toxic Exposure Defined.—In this section, the term ‘toxic exposure’ has the meaning given such term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code, as amended by section 102(b).”
 
 #### Department of Veterans Affairs Public Website for Toxic Exposure Research
-Pub. L. 117–168, title V, § 509, Aug. 10, 2022, 136 Stat. 1791, provided that: “(a) Website.—Not later than one year after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall establish, and maintain thereafter, a publicly accessible internet website of the Department of Veterans Affairs that serves as a clearinghouse for the publication of all toxic exposure research carried out or funded by the executive branch of the Federal Government. “(b) Coordination.—In carrying out subsection (a), the Secretary shall coordinate with—“(1) the heads of each Federal agency carrying out or funding toxic exposure research; “(2) the War Related Illness and Injury Study Center of the Department of Veterans Affairs, or successor center; and “(3) any working group of the Department of Veterans Affairs or other similar entity responsible for coordinating toxic exposure research. “(c) Definitions.—In this section:“(1) Toxic exposure.—The term ‘toxic exposure’ has the meaning given that term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code, as added [probably should be “amended”] by section 102(b). “(2) Toxic exposure research.—The term ‘toxic exposure research’ means research on the health consequences of toxic exposures experienced during service in the Armed Forces.”
+Pub. L. 117–168, title V, § 509, Aug. 10, 2022, 136 Stat. 1791, provided that: “(a) Website.—Not later than one year after the date of the enactment of this Act [Aug. 10, 2022], the Secretary of Veterans Affairs shall establish, and maintain thereafter, a publicly accessible internet website of the Department of Veterans Affairs that serves as a clearinghouse for the publication of all toxic exposure research carried out or funded by the executive branch of the Federal Government. “(b) Coordination.—In carrying out subsection (a), the Secretary shall coordinate with—“(1) the heads of each Federal agency carrying out or funding toxic exposure research; “(2) the War Related Illness and Injury Study Center of the Department of Veterans Affairs, or successor center; and “(3) any working group of the Department of Veterans Affairs or other similar entity responsible for coordinating toxic exposure research. “(c) Definitions.—In this section:“(1) Toxic exposure.—The term ‘toxic exposure’ has the meaning given that term in [section 101 of title 38](./chapter-001-general.md#section-101), United States Code, as added by section 102(b). “(2) Toxic exposure research.—The term ‘toxic exposure research’ means research on the health consequences of toxic exposures experienced during service in the Armed Forces.”
 
 #### Burn Pit Transparency
 Pub. L. 117–168, title VIII, § 808, Aug. 10, 2022, 136 Stat. 1806, provided that: “(a) Annual Report on Disability Claims.—“(1) In general.—Not later than 180 days after the date of the enactment of this Act, [Aug. 10, 2022] and annually thereafter, the Secretary of Veterans Affairs shall submit to the appropriate congressional committees a report detailing the following:“(A) The total number of covered veterans. “(B) The total number of claimed issues for disability compensation under chapter 11 of title 38, United States Code, approved and the total number denied by the Secretary of Veterans Affairs with respect to a covered veteran, and a breakdown of the reasons for the denials. “(C) A comprehensive list of the top 10 conditions from each body system for which the Secretary awarded service connection for covered veterans. “(D) Any updates or trends with respect to the information described in subparagraphs (A), (B), and (C), that the Secretary determines appropriate. “(2) Covered veteran defined.—In this subsection, the term ‘covered veteran’ means a veteran who deployed to the Southwest Asia theater of operations any time after August 1990, or Afghanistan, Syria, Djibouti, or Uzbekistan after September 19, 2001, and who submits a claim for disability compensation under chapter 11 of title 38, United States Code. “(b) Information Regarding the Airborne Hazards and Open Burn Pit Registry.—“(1) Notice.—The Secretary of Veterans Affairs shall ensure that a medical professional of the Department of Veterans Affairs informs a veteran of the Airborne Hazards and Open Burn Pit Registry if the veteran presents at a medical facility of the Department for treatment that the veteran describes as being related to, or ancillary to, the exposure of the veteran to toxic airborne chemicals and fumes caused by open burn pits. “(2) Display.—In making information public regarding the number of participants in the Airborne Hazards and Open Burn Pit Registry, the Secretary shall display such numbers by both State and by congressional district. “(c) Definitions.—In this section:“(1) Airborne hazards and open burn pit registry.—The term ‘Airborne Hazards and Open Burn Pit Registry’ means the registry established by the Secretary of Veterans Affairs under section 201 of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note). “(2) Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—“(A) the Committee on Veterans’ Affairs and the Committee on Armed Services of the Senate; and “(B) The Committee on Veterans’ Affairs and the Committee on Armed Services of the House of Representatives. “(3) Open burn pit.—The term ‘open burn pit’ has the meaning given that term in section 201(c) of the Dignified Burial and Other Veterans’ Benefits Improvement Act of 2012 (Public Law 112–260; [38 U.S.C. 527](./chapter-005-authority-and-duties-of-the-secretary.md#section-527) note).”
@@ -829,7 +899,7 @@ Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provided 
 
   (C) bystander intervention training for veterans.
 
-(4) The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).
+(4) The working group established under paragraph (1) shall not be subject to the requirements of the Federal Advisory Committee Act (5 U.S.C. App.).11 See References in Text note below.
 
 **(f) Annual Reports.—**
 
@@ -858,7 +928,7 @@ Pub. L. 105–368, title X, § 1001(b), Nov. 11, 1998, 112 Stat. 3363, provided 
 ### Statutory Notes
 
 #### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (e)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which was set out in the Appendix to Title 5, Government Organization and Employees, and was substantially repealed and restated in chapter 10 (§ 1001 et seq.) of Title 5 by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4197, 4361. For disposition of sections of the Act into chapter 10 of Title 5, see Disposition Table preceding [section 101 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section101&num=0&edition=prelim).
 
 #### Deadline
 Pub. L. 116–315, title V, § 5303(d), Jan. 5, 2021, 134 Stat. 5041, provided that: “The Secretary shall commence carrying out section 533 of such title [title 38], as added by subsection (a), not later than 180 days after the date of enactment of this Act [Jan. 5, 2021].”
@@ -917,7 +987,7 @@ Provisions similar to those in this section were contained in [section 221 of th
 1992—Subsec. (a)(2)(B). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director” and “Under Secretary for Benefits” for “Chief Benefits Director”.
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-542"></a>
@@ -954,7 +1024,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 **(c)**
 
-(1) Not later than July 1 of each even-numbered year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
+(1) Not later than July 1 of each year, the Committee shall submit to the Secretary a report on the programs and activities of the Department that pertain to women veterans. Each such report shall include—
 
   (A) an assessment of the needs of women veterans with respect to compensation, health care, rehabilitation, outreach, and other benefits and programs administered by the Department;
 
@@ -978,6 +1048,8 @@ Prior section 542 was renumbered [section 1542 of this title](./chapter-015-pens
 Provisions similar to those in this section were contained in [section 222 of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section222&num=0&edition=prelim) prior to repeal by Pub. L. 102–83, § 2(a).
 
 #### Amendments
+2022—Subsec. (c)(1). Pub. L. 117–263 substituted “year” for “even-numbered year”.
+
 2021—Subsec. (c)(1)(C), (D). Pub. L. 116–315 added subpar. (C) and redesignated former subpar. (C) as (D).
 
 2010—Subsec. (a)(2)(A)(iv). Pub. L. 111–163 added cl. (iv).
@@ -1003,7 +1075,7 @@ Reference to Assistant Secretary of Labor for Veterans’ Employment in any law 
 Pub. L. 111–163, title II, § 204(c), May 5, 2010, 124 Stat. 1144, provided that: “The amendments made by this section [amending this section and [section 544 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-544)] shall apply to appointments made on or after the date of the enactment of this Act [May 5, 2010].”
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-543"></a>
@@ -1045,7 +1117,7 @@ Prior section 543 was renumbered [section 1543 of this title](./chapter-015-pens
 Pub. L. 102–405, title I, § 105(a), Oct. 9, 1992, 106 Stat. 1975, provided that: “The Federal advisory committee established by the Secretary and known as the Prosthetics Service Advisory Committee shall after the date of the enactment of this Act [Oct. 9, 1992] be known as the Advisory Committee on Prosthetics and Special-Disabilities Programs and shall operate as though such committee had been established by law. Notwithstanding any other provision of law, the Committee may, upon the enactment of this Act, meet and act on any matter covered by subsection (b) of [section 543 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-543), United States Code, as added by subsection (b) of this section.”
 
 #### Termination of Advisory Committees
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim), Government Organization and Employees.
 
 
 <a id="section-544"></a>
@@ -1210,19 +1282,20 @@ Amendment by Pub. L. 111–163 applicable to appointments made on or after May 5
 
 **(d)**
 
-(1) Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
+(1) Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the activities of the Committee under this section.
 
-(2) Section 14 of such Act shall not apply to the Committee.
+(2) [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Committee.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 Prior [section 545 of this title](./chapter-005-authority-and-duties-of-the-secretary.md#section-545), Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1139, authorized the payment of a pension to children of World War II or Korean conflict veterans and prescribed income limitations, prior to the general amendment of subchapter III of chapter 15 of this title by Pub. L. 86–211, § 4, Aug. 29, 1959, 73 Stat. 434. See [section 1543 of this title](./chapter-015-pension-for-non-service-connected-disability-or-death-or-for-service.md#section-1543).
 
 #### Amendments
+2022—Subsec. (d)(1). Pub. L. 117–286, § 4(a)(217)(A), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
+Subsec. (d)(2). Pub. L. 117–286, § 4(a)(217)(B), substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of such Act”.
+
 2001—Subsec. (a)(1). Pub. L. 107–14 substituted “hereinafter” for “hereafter”.
 
 #### Commission on Servicemembers and Veterans Transition Assistance
@@ -1290,16 +1363,13 @@ Pub. L. 104–262, title III, § 333(b), Oct. 9, 1996, 110 Stat. 3200, provided 
 
 (2) The Secretary shall submit with each report required under paragraph (1) a summary of all reports and recommendations of the Committee submitted to the Secretary under subsection (d)(2) since the previous report transmitted by the Secretary under paragraph (1) of this subsection.
 
-**(f) Applicability of Federal Advisory Committee Act.—**
+**(f) Applicability of Chapter 10 of Title 5.—**
 
-(1) Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Committee under this section.
+(1) Except as provided in paragraph (2), the provisions of chapter 10 of title 5 shall apply to the activities of the Committee under this section.
 
-(2) Section 14 of such Act shall not apply to the Committee.
+(2) [Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) shall not apply to the Committee.
 
 ### Statutory Notes
-
-#### References in Text
-The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Prior Provisions
 Prior sections 560 to 562 were renumbered sections 1560 to 1562 of this title, respectively.
@@ -1329,6 +1399,13 @@ Prior sections 633 to 635 and 641 to 643 were renumbered sections 1733 to 1735 a
 Prior section 644, added Pub. L. 91–178, § 2(a), Dec. 30, 1969, 83 Stat. 836; amended Pub. L. 93–82, title IV, § 403(b), Aug. 2, 1973, 87 Stat. 196, authorized appropriations to be used for making grants to States which had submitted and had approved applications for assistance in remodeling, modification, or alteration of existing hospital or domiciliary facilities in State homes providing care and treatment for veterans, prior to repeal by Pub. L. 95–62, §§ 2, 5, July 5, 1977, 91 Stat. 262, 263, effective Oct. 1, 1977, but with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under prior section 644 and with additional provision for the modification of the terms and conditions of both grants made under that section prior to Oct. 1, 1977, and of grants made under subchapter III of chapter 81 of this title prior to Oct. 1, 1977.
 
 Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 and 1761 to 1764 of this title, respectively.
+
+#### Amendments
+2022—Subsec. (f). Pub. L. 117–286, § 4(a)(218)(A), substituted “Chapter 10 of Title 5” for “Federal Advisory Committee Act” in heading.
+
+Subsec. (f)(1). Pub. L. 117–286, § 4(a)(218)(B), substituted “chapter 10 of title 5” for “the Federal Advisory Committee Act (5 U.S.C. App.)”.
+
+Subsec. (f)(2). Pub. L. 117–286, § 4(a)(218)(C), substituted “[Section 1013 of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim)” for “Section 14 of such Act”.
 
 
 <a id="section-547"></a>
@@ -1433,7 +1510,7 @@ Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 a
 
 **(h) Committee Personnel Matters.—** A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5 while away from the home or regular place of business of the member in the performance of the duties of the Committee.
 
-**(i) Federal Advisory Committee Act Exemption.—** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Committee.
+**(i) Federal Advisory Committee Act Exemption.—** Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) 11 See References in Text note below. shall not apply to the Committee.
 
 **(j) Definitions.—** In this section:
 
@@ -1468,7 +1545,153 @@ Prior sections 651 to 654 and 661 to 664 were renumbered sections 1751 to 1754 a
 #### References in Text
 Section 20003 of the Coronavirus Aid, Relief, and Economic Security Act, referred to in subsec. (d)(1)(B), is section 20003 of Pub. L. 116–136, div. B, title X, Mar. 27, 2020, 134 Stat. 585, which is set out as a Definition of “Public Health Emergency” note under [section 303 of this title](./chapter-003-department-of-veterans-affairs.md#section-303).
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which was set out in the Appendix to Title 5, Government Organization and Employees, and was repealed and restated as [section 1013 of Title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section1013&num=0&edition=prelim) by Pub. L. 117–286, §§ 3(a), 7, Dec. 27, 2022, 136 Stat. 4204, 4361.
 
 #### Deadlines for Establishment, Initial Appointments, and Initial Meeting
 Pub. L. 116–315, title VII, § 7002(b)–(d), Jan. 5, 2021, 134 Stat. 5057, provided that: “(b) Deadline for Establishment.—The Secretary of Veterans Affairs shall establish the advisory committee required by [section 547 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-547), United States Code, as added by subsection (a)(1), not later than 180 days after the date of the enactment of this Act [Jan. 5, 2021]. “(c) Deadline for Initial Appointments.—Not later than 90 days after the date on which the Secretary establishes the advisory committee required by such section, the Secretary shall appoint members under subsection (b)(1) of such section. “(d) Initial Meeting.—Not later than 90 days after the date on which the Secretary establishes the advisory committee required by such section, such advisory committee shall hold its first meeting.”
+
+
+<a id="section-548"></a>
+## § 548. Advisory Committee on United States Outlying Areas and Freely Associated States
+**(a) Establishment.—** The Secretary shall establish an advisory committee, to be known as the “Advisory Committee on United States Outlying Areas and Freely Associated States”, to provide advice and guidance to the Secretary on matters relating to covered veterans.
+
+**(b) Duties.—** The duties of the Committee shall be the following:
+
+(1) To advise the Secretary on matters relating to covered veterans, including how the Secretary may improve the programs and services of the Department to better serve such veterans.
+
+(2) To identify for the Secretary evolving issues of relevance to covered veterans.
+
+(3) To propose clarifications, recommendations, and solutions to address issues raised by covered veterans.
+
+(4) To provide a forum for covered veterans, veterans service organizations serving covered veterans, and the Department to discuss issues and proposals for changes to regulations, policies, and procedures of the Department.
+
+(5) To identify priorities for and provide advice to the Secretary on appropriate strategies for consultation with veterans service organizations serving covered veterans.
+
+(6) To encourage the Secretary to work with the heads of other Federal departments and agencies, and Congress, to ensure covered veterans are provided the full benefits of their status as covered veterans.
+
+(7) To highlight contributions of covered veterans in the Armed Forces.
+
+(8) To conduct other duties as determined appropriate by the Secretary.
+
+**(c) Membership.—**
+
+(1) The Committee shall be comprised of 15 voting members appointed by the Secretary.
+
+(2) In appointing members pursuant to paragraph (1), the Secretary shall ensure the following:
+
+  (A) At least one member is appointed to represent covered veterans in each of the following areas:
+
+    (i) American Samoa.
+
+    (ii) Guam.
+
+    (iii) Puerto Rico.
+
+    (iv) The Commonwealth of the Northern Mariana Islands.
+
+    (v) The Virgin Islands of the United States.
+
+    (vi) The Federated States of Micronesia.
+
+    (vii) The Republic of the Marshall Islands.
+
+    (viii) The Republic of Palau.
+
+  (B) Not fewer than half of the members appointed are covered veterans, unless the Secretary determines that an insufficient number of qualified covered veterans are available.
+
+  (C) Each member appointed resides in an area specified in subparagraph (A).
+
+(3) In appointing members pursuant to paragraph (1), the Secretary may consult with any Member of Congress who represents an area specified in paragraph (2)(A).
+
+(4) In addition to the members appointed pursuant to paragraph (1), the Committee shall be comprised of such ex officio members as the Secretary of State and the Secretary of the Interior shall appoint from among employees of the Department of State and the Department of the Interior, respectively.
+
+**(d) Terms; Vacancies.—**
+
+(1) A member of the Committee—
+
+  (A) shall be appointed for a term of two years; and
+
+  (B) may be reappointed to serve an additional two-year term.
+
+(2) Not later than 180 days after the Secretary (or in the case of an ex officio member, the Secretary of State or the Secretary of the Interior, as the case may be) receives notice of a vacancy in the Committee, the vacancy shall be filled in the same manner as the original appointment.
+
+**(e) Meeting Format and Frequency.—**
+
+(1) Except as provided in paragraph (2), the Committee shall meet in-person with the Secretary not less frequently than once each year and hold monthly conference calls as necessary.
+
+(2) Meetings held under paragraph (1) may be conducted virtually if determined necessary based on—
+
+  (A) Department protocols; and
+
+  (B) timing and budget considerations.
+
+**(f) Additional Representation.—**
+
+(1) Representatives of relevant Federal departments and agencies may attend meetings of the Committee and provide information to the Committee.
+
+(2) One representative of the Department shall attend each meeting of the Committee.
+
+(3) Representatives attending meetings under this subsection—
+
+  (A) may not be considered voting members of the Committee; and
+
+  (B) may not receive additional compensation for services performed with respect to the Committee.
+
+**(g) Subcommittees.—**
+
+(1) The Committee may establish subcommittees.
+
+(2) The Secretary may, in consultation with the Committee, appoint a member to a subcommittee established under paragraph (1) who is not a member of the Committee.
+
+(3) A subcommittee established under paragraph (1) may enhance the function of the Committee, but may not supersede the authority of the Committee or provide direct advice or work products to the Secretary.
+
+**(h) Reports.—**
+
+(1) Not less frequently than once every two years, the Committee shall submit to the Secretary and the appropriate congressional committees a report—
+
+  (A) containing such recommendations as the Committee may have for legislative or administrative action; and
+
+  (B) describing the activities of the Committee during the previous two years.
+
+(2) Not later than 120 days after the date on which the Secretary receives a report under paragraph (1), the Secretary shall submit to the appropriate congressional committees a written response to the report after—
+
+  (A) giving the Committee an opportunity to review such written response; and
+
+  (B) including in such written response any comments the Committee considers appropriate.
+
+(3) The Secretary shall make publicly available on an internet website of the Department—
+
+  (A) each report the Secretary receives under paragraph (1); and
+
+  (B) each written response the Secretary submits under paragraph (2).
+
+**(i) Committee Personnel Matters.—** A member of the Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5 while away from the home or regular place of business of the member in the performance of the duties of the Committee.
+
+**(j) Consultation.—** In carrying out this section, the Secretary shall consult with veterans service organizations serving covered veterans.
+
+**(k) Termination.—** The Committee shall terminate on the date that is 10 years after the date of the enactment of this section.
+
+**(l) Definitions.—** In this section:
+
+(1) The term “appropriate congressional committees” means—
+
+  (A) the Committee on Veterans’ Affairs of the House of Representatives; and
+
+  (B) the Committee on Veterans’ Affairs of the Senate.
+
+(2) The term “Committee” means the Advisory Committee on United States Outlying Areas and Freely Associated States established under subsection (a).
+
+(3) The term “covered veteran” means a veteran residing in an area specified in subsection (c)(2)(A).
+
+(4) The term “veterans service organization serving covered veterans” means any organization that—
+
+  (A) serves the interests of covered veterans;
+
+  (B) has covered veterans in substantive and policymaking positions within the organization; and
+
+  (C) has demonstrated experience working with covered veterans.
+
+### Statutory Notes
+
+#### Deadlines for Establishment, Initial Appointments, and Initial Meeting
+Pub. L. 117–263, div. E, title LI, § 5102(b)–(d), Dec. 23, 2022, 136 Stat. 3208, provided that: “(b) Deadline for Establishment.—Not later than 180 days after the date of the enactment of this Act [Dec. 23, 2022], the Secretary of Veterans Affairs shall establish the advisory committee required by [section 548 of title 38](./chapter-005-authority-and-duties-of-the-secretary.md#section-548), United States Code, as added by subsection (a) of this section. “(c) Deadline for Initial Appointments.—Not later than 90 days after the date on which the Secretary establishes the advisory committee required by such section 548, the members of such advisory committee shall be appointed. “(d) Initial Meeting.—Not later than 180 days after the date on which the Secretary establishes the advisory committee required by such section 548, such advisory committee shall hold its first meeting.”

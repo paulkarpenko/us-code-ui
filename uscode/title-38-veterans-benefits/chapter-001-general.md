@@ -105,9 +105,9 @@ For the purposes of this title—
 
 (23) The term “inactive duty training” means—
 
-  (A) duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service) by the Secretary concerned under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim) or any other provision of law;
+  (A) duty (other than full-time duty) prescribed for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)), by the Secretary concerned under [section 206 of title 37](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title37-section206&num=0&edition=prelim) or any other provision of law;
 
-  (B) special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps of the Public Health Service) by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
+  (B) special additional duties authorized for Reserves (including commissioned officers of the Reserve Corps 1 of the Public Health Service), or for members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)), by an authority designated by the Secretary concerned and performed by them on a voluntary basis in connection with the prescribed training or maintenance activities of the units to which they are assigned; and
 
   (C) training (other than active duty for training) by a member of, or applicant for membership (as defined in [section 8140(g) of title 5](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title5-section8140/g&num=0&edition=prelim)) in, the Senior Reserve Officers’ Training Corps prescribed under chapter 103 of title 10.
   In the case of a member of the Army National Guard or Air National Guard of any State, such term means duty (other than full-time duty) under sections 316, 502, 503, 504, or 505 of title 32, or the prior corresponding provisions of law. Such term does not include (i) work or study performed in connection with correspondence courses, (ii) attendance at an educational institution in an inactive status, or (iii) duty performed as a temporary member of the Coast Guard Reserve.
@@ -150,13 +150,11 @@ For the purposes of this title—
 
   (D) the Air Force Reserve;
 
-  (E) the Space Force Reserve;
+  (E) the Coast Guard Reserve;
 
-  (F) the Coast Guard Reserve;
+  (F) the Army National Guard of the United States; and
 
-  (G) the Army National Guard of the United States; and
-
-  (H) the Air National Guard of the United States.
+  (G) the Air National Guard of the United States.
 
 (28) The term “nursing home care” means the accommodation of convalescents or other persons who are not acutely ill and not in need of hospital care, but who require nursing care and related medical services, if such nursing care and medical services are prescribed by, or are performed under the general direction of, persons duly licensed to provide such care. Such term includes services furnished in skilled nursing care facilities, in intermediate care facilities, and in combined facilities. It does not include domiciliary care.
 
@@ -198,6 +196,10 @@ For the purposes of this title—
 For definition of Canal Zone, referred to in par. (20), see [section 3602(b) of Title 22](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title22-section3602/b&num=0&edition=prelim), Foreign Relations and Intercourse.
 
 #### Amendments
+2023—Par. (23)(A), (B). Pub. L. 118–31, § 1723(a)(1)(A), inserted “, or for members of the Space Force in a space force active status (as defined in [section 101(e)(1) of title 10](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title10-section101/e/1&num=0&edition=prelim)),” after “(including commissioned officers of the Reserve Corps of the Public Health Service)”.
+
+Par. (27)(E) to (H). Pub. L. 118–31, § 1723(a)(1)(B), redesignated subpars. (F), (G), and (H) as subpars. (E), (F), and (G), respectively, and struck out former subpar. (E) which read as follows: “the Space Force Reserve;”.
+
 2022—Pars. (37), (38). Pub. L. 117–168 added pars. (37) and (38).
 
 2021—Par. (2). Pub. L. 116–283, § 926(a)(1), substituted “air, or space service” for “or air service”.
@@ -401,7 +403,32 @@ Pub. L. 90–77, title IV, § 405, Aug. 31, 1967, 81 Stat. 191, provided that: �
 #### Effective Date of 1965 Amendment
 Amendment by Pub. L. 89–311 effective first day of second calendar month following Oct. 31, 1965, see section 9 of Pub. L. 89–311, set out as a note under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114).
 
+#### Short Title of 2023 Amendment
+Pub. L. 118–21, § 1, Nov. 13, 2023, 137 Stat. 109, provided that: “This Act [amending sections 5702 and 5901 of this title and enacting provisions set out as notes under sections 5702 and 5901 of this title] may be cited as the ‘Wounded Warrior Access Act’.”
+
+Pub. L. 118–20, § 1, Nov. 13, 2023, 137 Stat. 108, provided that: “This Act [amending [section 109 of this title](./chapter-001-general.md#section-109)] may be cited as the ‘Korean American Vietnam Allies Long Overdue for Relief Act’ or the ‘Korean American VALOR Act’.”
+
+Pub. L. 118–6, § 1, June 14, 2023, 137 Stat. 50, provided that: “This Act [enacting provisions set out as notes under [section 1114 of this title](./chapter-011-compensation-for-service-connected-disability-or-death.md#section-1114)] may be cited as the ‘Veterans’ Compensation Cost-of-Living Adjustment Act of 2023’ or the ‘Veterans’ COLA Act of 2023’.”
+
+Pub. L. 117–355, § 1, Jan. 5, 2023, 136 Stat. 6278, provided that: “This Act [amending sections 2404, 2406, and 2411 of this title and enacting provisions set out as a note under [section 2303 of this title](./chapter-023-burial-benefits.md#section-2303)] may be cited as the ‘National Cemeteries Preservation and Protection Act of 2022’.”
+
+Pub. L. 117–333, § 1(a), Jan. 5, 2023, 136 Stat. 6121, provided that: “This Act [see Tables for classification] may be cited as the ‘Veterans Auto and Education Improvement Act of 2022’.”
+
+Pub. L. 117–333, § 10(a), Jan. 5, 2023, 136 Stat. 6131, provided that: “This section [amending [section 3311 of this title](./chapter-033-post-9-11-educational-assistance.md#section-3311)] may be cited as the ‘Sgt. Wolf Kyle Weninger Veterans Education Fairness Act of 2022’.”
+
 #### Short Title of 2022 Amendment
+Pub. L. 117–328, div. U, § 1(a), Dec. 29, 2022, 136 Stat. 5404, provided that: “This division [see Tables for classification] may be cited as the ‘Joseph Maxwell Cleland and Robert Joseph Dole Memorial Veterans Benefits and Health Care Improvement Act of 2022’.”
+
+Pub. L. 117–328, div. U, title II, § 231, Dec. 29, 2022, 136 Stat. 5456, provided that: “This subtitle [subtitle C (§§ 231–234) of title II of div. U of Pub. L. 117–328, amending sections 3031, 3103, 3321, and 3512 of this title] may be cited as the ‘GI Bill National Emergency Extended Deadline Act of 2022’.”
+
+Pub. L. 117–328, div. U, title II, § 251, Dec. 29, 2022, 136 Stat. 5462, provided that: “This subtitle [subtitle E (§§ 251–255) of title II of div. U of Pub. L. 117–328, enacting sections 5302B and 5314A of this title, amending sections 5302, 5314, and 5315 of this title and enacting provisions set out as notes under sections 5302, 5302B, 5314A, and 5315 of this title] may be cited as the ‘VA Beneficiary Debt Collection Improvement Act of 2022’.”
+
+Pub. L. 117–328, div. V, § 1(a), Dec. 29, 2022, 136 Stat. 5497, provided that: “This division [enacting sections 1167 and 2068 of this title, amending [section 1712A of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712a), enacting provisions set out as notes preceding section 3001 and under sections 1701, 1712A, 1720F, 6303, 7303, 7401, 7611, and 7681 of this title, and amending provisions set out as a note under [section 1701 of this title](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1701)] may be cited as the ‘Support The Resiliency of Our Nation’s Great Veterans Act of 2022’ or the ‘STRONG Veterans Act of 2022’.”
+
+Pub. L. 117–313, § 1, Dec. 27, 2022, 136 Stat. 4399, provided that: “This Act [amending sections 1917, 1949, and 1952 of this title and enacting provisions set out as notes preceding section 1981 and under [section 1917 of this title](./chapter-019-insurance.md#section-1917)] may be cited as the ‘Faster Payments to Veterans’ Survivors Act of 2022’.”
+
+Pub. L. 117–297, § 1, Dec. 27, 2022, 136 Stat. 4375, provided that: “This Act [amending sections 3319 and 3699 of this title] may be cited as the ‘Veterans Eligible to Transfer School (VETS) Credit Act’.”
+
 Pub. L. 117–209, § 1, Oct. 17, 2022, 136 Stat. 2243, provided that: “This Act [amending [section 1967 of this title](./chapter-019-insurance.md#section-1967) and enacting provisions set out as a note under [section 1967 of this title](./chapter-019-insurance.md#section-1967)] may be cited as the ‘Supporting Families of the Fallen Act’.”
 
 Pub. L. 117–205, § 1, Oct. 17, 2022, 136 Stat. 2232, provided that: “This Act [enacting subchapter II of chapter 63 of this title and amending sections 6301 and 6303 to 6307 of this title] may be cited as the ‘Solid Start Act of 2022’.”
@@ -1519,9 +1546,17 @@ Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Adminis
 
 (2) In order to assist the Secretary in making a determination of proper service eligibility under this subsection, each applicant for the benefits thereof shall furnish an authenticated certification from the French Ministry of Defense or the British War Office as to records in either such Office which clearly indicate military service of the applicant in the Czechoslovakian or Polish armed forces and subsequent service in or with the armed forces of France or Great Britain during the period of World War I or World War II.
 
+**(d)**
+
+(1) Any person described in paragraph (2) is eligible for the benefits specified in subsection (a) to the same extent and under the same conditions (including with respect to applicable reciprocity requirements) as a discharged member of the armed forces of a government specified in such subsection who is eligible for such benefits under such subsection.
+
+(2) A person described in this paragraph is a person whom the Secretary determines served in Vietnam as a member of the armed forces of the Republic of Korea at any time during the period beginning on January 9, 1962, and ending on May 7, 1975, or such other period as determined appropriate by the Secretary for purposes of this subsection.
+
 ### Statutory Notes
 
 #### Amendments
+2023—Subsec. (d). Pub. L. 118–20 added subsec. (d).
+
 1991—Subsec. (a)(1). Pub. L. 102–83, § 4(b)(1), (2)(E), substituted “Secretary” for “Administrator” wherever appearing.
 
 Pub. L. 102–83, § 4(a)(3), (4), substituted “Department” for “Veterans’ Administration”.
@@ -1646,12 +1681,30 @@ Pub. L. 87–825, § 7, Oct. 15, 1962, 76 Stat. 950, provided that: “This Act 
 
 (2) If an adjustment in the mileage rate under paragraph (1) results in a lower mileage rate than the mileage rate otherwise specified in subsection (a), the Secretary shall, not later than 60 days before the date of the implementation of the mileage rate as so adjusted, submit to Congress a written report setting forth the adjustment in the mileage rate under this subsection, together with a justification for the decision to make the adjustment in the mileage rate under this subsection.
 
+**(h)**
+
+(1) Notwithstanding any other provision of law, the Secretary may make payments to or for any person traveling in, to, or from the Freely Associated States for receipt of care or services authorized to be legally provided by the Secretary in the Freely Associated States under [section 1724(f)(1) of this title](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section1724/f/1&num=0&edition=prelim).
+
+(2) A person who has received payment for travel in a country pursuant to this subsection shall remain eligible for payment for such travel in that country regardless of whether the country continues to qualify as a Freely Associated State for purposes of this subsection.
+
+(3) The Secretary shall prescribe regulations to carry out this subsection.
+
+(4) In this subsection, the term “Freely Associated States” means—
+
+  (A) the Federated States of Micronesia, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 (Public Law 99–239; [48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note);
+
+  (B) the Republic of the Marshall Islands, during such time as it is a party to the Compact of Free Association set forth in section 201 of the Compact of Free Association Act of 1985 (Public Law 99–239; [48 U.S.C. 1901](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1901&num=0&edition=prelim) note); and
+
+  (C) the Republic of Palau, during such time as it is a party to the Compact of Free Association between the United States and the Government of Palau set forth in section 201 of Joint Resolution entitled “Joint Resolution to approve the ‘Compact of Free Association’ between the United States and the Government of Palau, and for other purposes” (Public Law 99–658; [48 U.S.C. 1931](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title48-section1931&num=0&edition=prelim) note).
+
 ### Statutory Notes
 
 #### References in Text
 The date of the enactment of the Caregivers and Veterans Omnibus Health Services Act of 2010, referred to in subsec. (g)(1), is the date of enactment of Pub. L. 111–163, which was approved May 5, 2010.
 
 #### Amendments
+2024—Subsec. (h). Pub. L. 118–42 added subsec. (h).
+
 2016—Subsec. (b)(1)(G). Pub. L. 114–223 added subpar. (G).
 
 2015—Subsec. (b)(1). Pub. L. 114–58, § 601(1)(A), substituted “subsection (g)(2)” for “subsection (g)(2)(A)”.
@@ -1770,6 +1823,12 @@ Pub. L. 100–322, title I, § 108(f), May 20, 1988, 102 Stat. 498, provided tha
 
 #### Construction of 2010 Amendment
 Pub. L. 111–163, title III, § 305(e), May 5, 2010, 124 Stat. 1152, provided that: “The amendments made by subsections (b) and (d) of this section [amending this section] may not be construed as expanding or otherwise modifying eligibility for payments or allowances for beneficiary travel under [section 111 of title 38](./chapter-001-general.md#section-111), United States Code, as in effect on the day before the date of the enactment of this Act [May 5, 2010].”
+
+#### Department of Veterans Affairs Transportation Pilot Program for Low Income Veterans
+Pub. L. 117–328, div. U, title II, § 243, Dec. 29, 2022, 136 Stat. 5459, provided that: “(a) Pilot Program Required.—Not later than one year after the date of the enactment of this Act [Dec. 29, 2022], the Secretary of Veterans Affairs shall commence carrying out a pilot program to assess the feasibility and advisability of providing payments authorized under subsection (a) of [section 111 of title 38](./chapter-001-general.md#section-111), United States Code, 48 hours in advance of travel to eligible appointments to veterans and other eligible individuals who are also eligible for a deduction waiver as provided by paragraphs (3) and (4) of subsection (c) of such section. “(b) Duration.—The Secretary shall carry out the pilot program during the five-year period beginning on the date of the commencement of the pilot program. “(c) Locations.—The Secretary shall carry out the pilot program at not fewer than five locations selected by the Secretary for purposes of the pilot program. “(d) Report.—“(1) In general.—Not later than 180 days after the date of the completion of the pilot program, the Secretary shall submit to Congress a report on the findings of the Secretary with respect to the pilot program. “(2) Contents.—The report submitted under paragraph (1) shall include the following:“(A) The number of individuals who benefitted from the pilot program broken, disaggregated by geographic location, race or ethnicity, age, disability rating, and sex. “(B) Average distance traveled by participants to appointments and average funds provided per appointment, disaggregated by geographic region. “(C) A description of any impediments to carrying out the pilot program. “(D) An account of payments provided for travel that did not occur or was authorized incorrectly. “(E) An account of any attempts to retrieve such payment. “(F) Recommendations of the Secretary for legislative or administrative action to reduce improper payments. “(G) An assessment of the feasibility and advisability of providing payments as described in subsection (a).”
+
+#### Pilot Program for Travel Cost Reimbursement for Accessing Readjustment Counseling Services
+Pub. L. 117–328, div. U, title II, § 244, Dec. 29, 2022, 136 Stat. 5460, provided that: “(a) Pilot Program Required.—Not later than 270 days after the date of the enactment of this Act [Dec. 29, 2022], the Secretary shall establish and commence a pilot program, within the Readjustment Counseling Services of the Veterans Health Administration, to assess the feasibility and advisability of providing payment to cover or offset financial difficulties of an individual in accessing or using transportation to and from the nearest Vet Center service site providing the necessary readjustment counseling services for the individual’s plan of service. “(b) Participation.—“(1) In general.—In carrying out the pilot program required by subsection (a), the Secretary shall limit participation—“(A) by individuals pursuant to paragraph (2); and “(B) by Vet Centers pursuant to paragraph (3). “(2) Participation by individuals.—“(A) In general.—The Secretary shall limit participation in the pilot program to individuals who are eligible for services at a participating Vet Center and experiencing financial hardship. “(B) Financial hardship.—The Secretary shall determine the meaning of ‘financial hardship’ for purposes of subparagraph (A). “(3) Participation of vet centers.—Vet Centers participating in the program shall be chosen by the Secretary from among those serving individuals in areas designated by the Secretary as rural or highly rural or Tribal lands. “(c) Travel Allowances and Reimbursements.—Under the pilot program required by subsection (a), the Secretary shall provide a participating individual a travel allowance or reimbursement at the earliest time practicable, but not later than 10 business days after the date of the appointment. “(d) Duration.—The Secretary shall carry out the pilot program required by subsection (a) during the five-year period beginning on the date of the commencement of the pilot program. “(e) Locations.—“(1) In general.—The Secretary shall carry out the pilot program at not fewer than five locations selected by the Secretary for purposes of the pilot program. “(2) Existing initiative.—“(A) Locations participating in existing initiative.—Of the locations selected under paragraph (1), four shall be the locations participating in the initiative commenced under section 104(a) of the Honoring America’s Veterans and Caring for Camp Lejeune Families Act of 2012 (Public Law 112–154) [126 Stat. 1169], as most recently amended by section 105 of the Continuing Appropriations and Ukraine Supplemental Appropriations Act, 2023 (Public Law 117–180) [136 Stat. 2137], as of the date of the enactment of this Act. “(B) Termination of existing initiative.— [Amended section 104(a) of Pub. L. 112–154, which is not classified to the Code.] “(f) Annual Reports.—“(1) In general.—Not later than one year after the date of the commencement of the pilot program required by subsection (a) and each year thereafter for the duration of the pilot program, the Secretary shall submit to the Committee on Veterans’ Affairs of the Senate and the Committee on Veterans’ Affairs of the House of Representatives a report on the findings of the Secretary with respect to the pilot program. “(2) Contents.—Each report submitted under paragraph (1) shall include the following:“(A) The number of individuals who benefitted from the pilot program, disaggregated by age, race or ethnicity, and sex, to the extent possible. “(B) The average distance traveled by each individual per each Vet Center. “(C) The definition of financial hardship determined by the Secretary under subsection (b)(2)(B). “(D) A description of how the funds are distributed. “(E) The average amount of funds distributed per instance, disaggregated by Vet Center. “(F) A description of any impediments to the Secretary in paying expenses or allowances under the pilot program. “(G) An assessment of the potential for fraudulent receipt of payment under the pilot program and the recommendations of the Secretary for legislative or administrative action to reduce such fraud. “(H) Such recommendations for legislative or administrative action as the Secretary considers appropriate with respect to the payment of expenses or allowances. “(g) Vet Center Defined.—In this section, the term ‘Vet Center’ means a center for readjustment counseling and related mental health services for veterans under [section 1712A of title 38](./chapter-017-hospital-nursing-home-domiciliary-and-medical-care.md#section-1712a), United States Code.”
 
 #### Clarification of Relation to Public Transportation in Veterans Health Administration Handbook
 Pub. L. 111–163, title III, § 305(f), May 5, 2010, 124 Stat. 1152, provided that: “Not later than 30 days after the date of the enactment of this Act [May 5, 2010], the Secretary of Veterans Affairs shall revise the Veterans Health Administration Handbook to clarify that an allowance for travel based on mileage paid under [section 111(a) of title 38](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title38-section111/a&num=0&edition=prelim), United States Code, may exceed the cost of such travel by public transportation regardless of medical necessity.”
@@ -1932,7 +1991,7 @@ Pub. L. 107–330, title II, § 201(d), Dec. 6, 2002, 116 Stat. 2823, provided t
 
 **(c)**
 
-(1) A benefit under section 2301, 2302, 2303, 2306, or 2308 of this title that is subject to reduction under a sequestration order or sequestration law shall be paid in accordance with the rates determined under the sequestration order or law (if any) in effect on the date of the death of the veteran concerned.
+(1) A benefit under section 2301, 2303, 2306, or 2308 of this title that is subject to reduction under a sequestration order or sequestration law shall be paid in accordance with the rates determined under the sequestration order or law (if any) in effect on the date of the death of the veteran concerned.
 
 (2) A benefit paid to, or on behalf of, an eligible veteran for pursuit of a program of education or training under chapter 30, 31, 34, 35, or 36 of this title that is subject to a sequestration order or a sequestration law shall be paid in accordance with the rates determined under the sequestration order or law (if any) in effect during the period of education or training for which the benefit is paid.
 
@@ -1951,9 +2010,6 @@ Pub. L. 107–330, title II, § 201(d), Dec. 6, 2002, 116 Stat. 2823, provided t
 (3) The term “sequestration order” means an order of the President issued under part C of such Act.
 
 ### Statutory Notes
-
-#### Amendment of Subsection (c)(1)
-Pub. L. 116–315, title II, § 2202(b)(1)(B), (d), Jan. 5, 2021, 134 Stat. 4985, provided that, applicable to deaths that occur on or after the date that is two years after Jan. 5, 2021, subsection (c)(1) of this section is amended by striking out “2302,” after “section 2301,”. See 2021 Amendment note below.
 
 #### References in Text
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsecs. (a), (b), (d), and (f), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038. Part C of the Act is classified generally to subchapter I (§ 900 et seq.) of chapter 20 of Title 2, The Congress. Section 251 of the Act is classified to [section 901 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section901&num=0&edition=prelim), and was amended generally by Pub. L. 101–508, title XIII, § 13101(a), Nov. 5, 1990, 104 Stat. 1388–577, and Pub. L. 112–25, title I, § 101, Aug. 2, 2011, 125 Stat. 241. For complete classification of this Act to the Code, see Short Title note set out under [section 900 of Title 2](https://uscode.house.gov/view.xhtml?req=granuleid:USC-prelim-title2-section900&num=0&edition=prelim) and Tables.
